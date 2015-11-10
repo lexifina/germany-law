@@ -1,0 +1,100 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-11-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3468107
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3468107
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 09.10.15
+- TOP 1.4.2.: Protokoll UA Verkehr vom 20.10.15
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Zusätzliche Anbindung des Bahnhofes Karlsfeld
+- TOP 2.2.: Zufahrt zu Gartengrundstück Flur Nr. 367/4
+- TOP 2.3: Quartiersplatz Gerberau
+- TOP 3: Anträge
+- TOP 3.1.: KZ-Außenstelle Allach
+- TOP 3.2.: Verkehrskonzept Allach-Untermenzing westlich der Bahn
+- TOP 3.3.: Anfrage: Verspätungen Buslinie 164
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Verein zur Förderung der Jugendarbeit der Pfarrei Maria Himmelfahrt e. V. Beschaffung Winterreifen Komplettsatz - <div></div>
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Musizierende Kinder in München Tamino e.V. Talentwettbewerb am 20./21.11.2015 - <div></div>
+- TOP 3: (E) Schulwegsicherheit Eversbuschstraße/Pfarrer-Grimm-Straße: Dialog-Display und bessere Kennzeichnung (Ziffer 2 und 3 des Antrages) Empfehlungen Nr. 14-20 / E 00050 und 08-14 / E 01912 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 24.06.2015 sowie am 23.07.2013 - <div></div>
+- TOP 4: (E) Sperrung der Angerlohstraße und der Von-Reuter-Straße für Lkw über 7,5 t - <div></div>
+- TOP 5: (E) Schulwegsicherheit an der Kreuzung Ludwigsfelder Straße / Eversbuschstraße Empfehlung Nr. 14-20 / E 00513 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 23.06.2015 - <div></div>
+- TOP 6: (E) Verkehrsführung nördliche Waldhornstraße Empfehlung Nr. 14-20 / E 00509 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 23.06.2015
+- TOP 6.7.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung einer Teilstrecke der Eversbuschstraße - <div></div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Achwaldstr. 7, Gemarkung: Allach, Fl.Nr.: 724/28 Neubau eines Mehrfamilienhauses und Vollzug der BaumschutzVO
+- TOP 5.2.: Krauss-Maffei-Str. 11, Gemarkung: Allach, Fl.Nr.: 1220/7 Errichtung eines Lagerzeltes (Fliegende Bau, zeitlich begrenzt auf 5 Jahre)
+- TOP 5.3.: Walter-Otto-Str. 17,Gemarkung: Untermenzing, Fl.Nr.: 329/3 Neubau eines Mehrfamilienhauses mit Garagen und Vollzug der BaumschutzVO
+- TOP 5.4.: Tubeufstr. 19a, Gemarkung: Allach, Fl.Nr.: 1201/2 Unterbringung von Flüchtlingen und Wohnungslosen, Errichtung 2er Treppentürme als 2. Fluchtweg an einem Arbeiter-Wohnheim mit einer Nutzungserweiterung zur Flüchtlingsunterkunft, befristet auf 8 1/4 Jahre
+- TOP 5.5.: Tubeufstr. 19d, Gemarkung: Allach, Fl.Nr.: 1200/2 Unterbringung von Flüchtlingen und Wohnungslosen, Errichtung 2er Treppentürme als 2. Fluchtweg an einem Arbeiter-Wohnheim mit einer Nutzungserweiterung zur Flüchtlingsunterkunft, befristet auf 8 1/4 Jahre
+- TOP 5.6.: Dachauer Str. 665, Gemarkung: Allach, Fl.Nr.: 1409/0 Geb. 148 - Anbau eines Hochregallagers, Erweiterung des Gebäudes und Umbau des Vordachs zu Staplerschleuse
+- TOP 5.7.: Pasinger Heuweg 76, Gemarkung: Untermenzing, Fl.Nr.: 951/0 Aufstockung eines Einfamilienhauses zur Errichtung einer zweiten Wohneinheit
+- TOP 5.8.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse Schluss mit der Bevormundung - Bezirksausschüsse über örliche Hinweistafeln wieder selbst entscheiden lassen
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Kurzbericht zum Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 24.09.15: Unterflur-Wertstoffinseln in der Altstadt errichten!; Unterflur-Wertstoffinseln auch für sensible Standorte im gesamten Stadtgebiet prüfen (Sitzungsvorlage Nr. 03993)
+- TOP 6.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 (Sitzungsvorlage Nr. 02728)
+- TOP 6.3.: Beschluss des Bauausschusses vom 22.09.15: Toilettenanlage im Maßmannpark, Öffentl. Toiletten in Grünanlagen, Öffentl. Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze (Sitzungsvorlage Nr. 03798)
+- TOP 6.4.: Beschluss des Finanzausschusses vom 20.10.15: Reduzierter Mehrwertsteuersatz auf Mensaessen (BV-Empf. 00521) (Sitzungsvorlage Nr. 04267)
+- TOP 6.5.: Beschluss des Sozialausschusses vom 29.10.15: Neuplanung des Pflegeheims an der Franz-Nißl-Straße und Prüfung Erhalt des Hans-Sieber-Hauses (BV-Empf. 00517); Kein Abriss und Umwandlung der Nutzung des Hans-Sieber-Hauses (BV-Empf. 00518) (Sitzungsvorlage Nr. 04088)
+- TOP 6.6.: Beschluss der Vollversammlung vom 30.09.15: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage (Sitzungsvorlage Nr. 02432)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Besichtigung Mechanisierte Zustellbasis der DHL, Am Neubruch 15 am 20.11.15, 17:00 Uhr, Treffpunkt vor der Halle
+- TOP 7.2.: Bürgerhaushalt
+- TOP 7.3.: Bericht zur Ausstellung "100 Jahre Diamalt Kesselhaus in Allach"
+- TOP 7.4.: Eigenveranstaltung "Gemeinsam gelingt`s gut" am 02.12.15, 19:00 Uhr Pfarrsaal Maria Himmelfahrt, Höcherstr. 14
+- TOP 7.5.: Workshop für junge Leute, So. 15.11.15, 15:30 - 18:30 Uhr Alte Kongresshalle München
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Oberbürgermeister vom 16.10.15: Veranstaltungsstörungen durch die extreme Rechte
+- TOP 9.2.: Schreiben Direktorium vom Oktober 2015: Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise (Beschluss des Bezirksausschusses des 5. Stadtbezirkes am 16.09.15)
+- TOP 9.3.: Schreiben Direktorium vom 14.10.15: Vorzeitige Beendigung von drei Anhörungsverfahren wegen Antragsrücknahme
+- TOP 9.4.: Schreiben 2. Bürgermeister vom 09.10.15: Bus und Bahn Begleitservice
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Hugo-Heiß-Str. 2, Dachauer Str. 665, Frühaufstr.
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Niethammerstr. 17, Frühaufstr. 63, Eversbuschstr. 135, Eversbuschstr. 57, Finsterwalderstr. 43, Friedrich-Zahn-Str. 25
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (05.10.-11.10.15, 12.10.-18.10.15, 19.10.-25.10.15)
+- TOP 9.8.: Schreiben Stadtkämmerei vom 12.10.15: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019
+- TOP 9.10.: Schreiben Baureferat vom 15.10.15: Ausbau Allacher Straße
+- TOP 9.11.: Schreiben Baureferat vom 14.10.15: Müllproblematik entlang der Würm
+- TOP 9.12.: Schreiben Baureferat vom 21.10.15: Mülleimer am Grünstreifen an der Behringstraße
+- TOP 9.13.: Schreiben Stadtwerke München vom 12.10.15, 19.10.15, 26.10.15: Baumaßnahmen
+- TOP 9.14.: Schreiben Referat für Gesundheit und Umwelt vom 14.10.15: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 9.15.: Schreiben Referat für Gesundheit und Umwelt vom 28.10.15: LKW Fahrten im Paul-Ehrlich-Weg
+- TOP 9.16.: Schreiben Kulturreferat vom 26.10.15: Zwischennachricht: 1. Verkauf des Grundstücks Eversbuschstraße 155/157, flurnummer 81, 82, 82/2, 101/7 in Allach 2. Bürgerhaus für Allach-Untermenzing, Bürgerzentrum Allach-Untermenzing
+- TOP 9.17.: Schreiben Kreisverwaltungsreferat vom 14.10.15: Veranstaltung Feuerwerk Pflanzen Kölle am 06.11.15
+- TOP 9.18.: Schreiben Kreisverwaltungsreferat vom 20.10.15: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Vereinswirtschaft des TSV Allach 09"
+- TOP 9.19.: Schreiben Kreisverwaltungsreferat vom 20.10.15: Kreuzung Von-Kahr-Straße Ecke Prof.-Eichmann-Str.
+- TOP 9.20.: Schreiben Kreisverwaltungsreferat vom 21.10.15: Links-Abbiege-Situation Behring- / Nigglstraße
+- TOP 9.21.: Schreiben Kreisverwaltungsreferat vom 21.10.15: Kreuzung Franz-Albert-Straße / Nigglstraße
+- TOP 9.22.: Schreiben Kreisverwaltungsreferat vom 03.06.15: Lippweg / angrenzende Straßen
+- TOP 9.23.: Schreiben Kreisverwaltungsreferat vom 23.10.15: Fahrräder für Flüchtlingsunterkünfte
+- TOP 9.24.: Schreiben Bezirksausschuss 21 Pasing-Obermenzing vom 08.10.15: Werbeanlage. Lochhausener Str., Fl.Nr. 999/2, Gemarkung Untermenzing
+- TOP 9.25.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Ramannstr., Tubeufstr. 19d
+- TOP 10: Nachtrag
+- TOP 10.1.: Anhörung: Pasinger Heuweg, Gemarkung: Allach, Fl.Nr.: 444/0 Errichtung eines Mobilfunkmastes mit zugehöriger Technikeinheit (für das Vodafone-Mobilfunknetz)
+- TOP 10.2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate
+- TOP 10.3.: Verschiedenes: 1200 Jahre Menzing / Klärung der finanziellen Beteiligung des BA 23
+- TOP 10.4.: Das Referat für Bildung und Sport trifft die Bezirksausschüsse am 25.11.15, 16:00 Uhr
+- TOP 10.5.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Karl-von-Roth-Str. 8, Naglerstr. 18, Lechelstr. 74, Lechelstr. 76
+- TOP 10.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.10.15: Ausschreibung: Preis für Baukultur der Metropolregion München
+- TOP 10.7.: Schreiben Stadtwerke München vom 02.11.15: Baumaßnahmen
+- TOP 10.8.: Schreiben Direktorium vom 29.10.15: Umweltverbände und Öffentlichkeit frühzeitig in Planunugsverfahren einbinden! Antrag Nr. 01503 der Stadtratsfraktion Bündnis 90/Die Grünen/RL
+- TOP 10.9.: Schreiben Kulturreferat vom 29.10.15: Veranstaltungen / Kooperationen November 2015
+- TOP 10.10.: Schreiben Mieterbeirat vom 03.11.15: Protokoll und Anhang der öffentlichen Sitzung des Mieterbeirates vom 12.10.15
+- TOP 10.11.: Schreiben Techn. Universität München vom 02.11.15: MVG-/TUM-Kolloquium: Der öffentliche Verkehr - Katalysator für die Stadtentwicklung
+- TOP 10.12.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: a) Handlungsprogramm Mittlerer Ring - fachl. Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen (Sitzungsvorlage Nr. 03651) b) Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren (Sitzungsvorlage Nr. 04433) c) Neuordnung der Bauberatung (Sitzungsvorlage Nr. 03401) d) Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II (Sitzungsvorlage Nr. 03847) e) Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" (Sitzungsvorlage Nr. 4142)
