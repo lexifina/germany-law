@@ -1,0 +1,114 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3534547
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3534547
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.3.: Verkehrssituation Tegernseer Landstraße / Traunsteiner Straße; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung des SWM-Projektes "3D Seismik im Münchner Süden"
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Bad-Berneck-Straße 5; 1 Föhre
+- TOP 2.2.: Pennstraße 38; 1 Berg-Ahorn
+- TOP 2.3.: Kapellenfeldstraße 21; 1 Fichte
+- TOP 2.4.: Zehentbauernstraße 2; 1 Kirschpflaume
+- TOP 2.5.: Bad-Berneck-Straße 6; 1 Birke
+- TOP 2.6.: Pennstraße 82; 1 Flügelnuss
+- TOP 2.7.: Bantingstraße 12; 1 Rotfichte, 1 Stiel-Eiche
+- TOP 2.8.: Winlandstraße; 1 Berg-Ahorn, 1 Stiel-Eiche
+- TOP 2.9.: Cincinntistraße 44-60, Pennstraße 1-47, Minnewitstraße 3-12; 2 Rotfichten, 1 Kirsche
+- TOP 2.10.: Lincolnstraße 74; 2 Stiel-Eichen
+- TOP 2.11.: Pennstraße, Ecke Bantingstraße; 1 Kanadische Pappel
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Werststoffinsel in der Werner-Schlierf-Straße; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17 - <div>nach Antrag</div>
+- TOP 4.2.: Öffnung der Wirthstraße für Radfahrer/innen; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 4.3.: Regerbrücke als künftiges Eingangstor zur Einkaufsstraße Tegernseer Landstraße; Antrag der Fraktion Bündnis 90/Die Grünen - <div>nach Antrag</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: Beschlussfassung über die Finanzierung des BA-Jahresempfangs 2016 am Freitag, den 19.02.2016, aus dem Budgetanteil für BA-eigene Maßnahmen in Höhe von 5.000,00 ?
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Mittelschule Perlacher Straße, für die Maßnahme: Projekt POPIIGO; Antragssumme: 8.090,00 ?; Antrag vom 14.10.2015
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben 6.1.3.1.1 Tegernseer Landstraße 185b, Nutzungsänderung: Ladenfläche zu Wettbüro; Anhörung vom 22.10.2015 6.1.3.1.2 Schlierseestraße 20 - 22, Schulbauoffensive - Erweiterung des Asam-Gymansiums zu einem 7-zügigen Gymnasium mit Qualifikations-Stufe, Aula, Mensa, 3-fach-Sporthalle und Tiefgarage (48 Stpl.) - VORBESCHEID; Anhörung vom 22.10.2015 6.1.3.1.3 Roßtalerweg 1-3, Aufstockung 2er Gebäude um 1 Geschoß - VORBESCHEID (Roßtalerweg 1+3/ Traunsteiner Straße 16); Anhörung vom 27.10.2015
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Vollzug der Erhaltungssatzung; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.2.1 Anwesen Heimeranstraße; Mitteilung vom 07.10.2015
+- TOP 0.3.: Martin-Luther-Straße 11, FlNr. 13474 und andere Neubau einer Wohnanlage ("Kommunales Wohnungsbauprogramm / Teilprogramm B") - VORBESCHEID (Martin-Luther-Straße 11 / Tegernseer Landstraße 104); Schreiben der Lbk und Abdruck des Vorbescheids vom 13.10.2015
+- TOP 0.4.: Bezifferung der Höhe der Sanierungskosten für die Kapelle im ehemaligen Altenheim in der St.-Martin-Straße/Severinstraße/Werinherstraße; BA-Antrag Nr. 08-14 / B 04909 vom 11.06.2013; Antwortschreiben des Baureferats-Hochbau vom 15.10.2015
+- TOP 0.5.: 6.1.4.5 Kommunales Wohnungsbauprogramm ? Produkt 60 4.1.8; Bauträgerauswahl für städtische Baugrundstücke, Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms ? Teilprogramm B; GWG Städtische Wohnungsbaugesellschaft München mbH: 17. Stadtbezirk Obergiesing-Fasangarten, Schwanseestraße, Flurstück 16203/3, Gemarkung Sektion VIII; Sitzungsvorlage Nr. 14-20 / V 04426; Beschluss des Sozialausschusses vom 03.12.2015 (VB) - ENTWURF
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Übersichtlichkeit des Zufahrtsbereichs ALDI / Schwanseestraße; Bürgeranliegen aus der Sitzung vom 13.10.2015 (ohne Vorgang)
+- TOP 0.2.: unübersichtliche Verkehrssituation an der Weißensee-/Traunsteiner Straße durch parkende Busse und größere Fahrzeuge; Bürgeranliegen aus der Sitzung vom 13.10.2015 (ohne Vorgang)
+- TOP 0.1.: Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg; Empfehlungen a) Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg; BÜV-Empfehlung Nr. 14-20 / E 00036 des Stadtbezirkes 17 vom 05.06.2014 b) Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg; BÜV-Empfehlung Nr. 14-20 / E 00508 des Stadtbezirkes 17 vom 18.06.2015; Anhörung des Referates für Stadtplanung und Bauordnung vom 13.10.2015 zum Beschlussentwurf mit der Bitte um Stellungnahme bis 27.11.2015
+- TOP 0.2.: CarSharing in München; Ergebnisse der Evaluation des Pilotversuchs 2011 - 2015; Stadtratsbeschluss (Entwurf) für den Kreisverwaltungsausschuss vom 15.12.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 04.12.2015
+- TOP 0.1.: Cincinnatistraße Höhe Hausnr. 63; Einrichtung eines Fußgängerüberweges; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt, im 5. Stadtbezirk Au-Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf-Perlach, im 17. Stadtbezirk Obergiesing-Fasangarten, im 21. Stadtbezirk Pasing-Obermenzing, im 22. Stadtbezirk Aubing-Lochhausen-Langwied 1. Bedarfs- u. Konzeptgenehmigung für alle Einzelprojekte 2. Weiteres Vorgehen bei der Erneuerung von Eisenbahnbrücken; Sitzungsvorlage Nr. 14-20 / V 02840; Beschluss des Bauausschusses vom 13.10.2015 (VB)
+- TOP 0.3.: Zweigleisige Erweiterung der S7 - S-Bahnstrecke und Taktverdichtung der S 7; BA-Antrag Nr. 14-20 / B 00567 vom 11.11.2014; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 07.10.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken gem. § 13 und § 14 der BA-Satzung; hier: Friedhof am Perlacher Forst; nachträgliche Unterrichtung über entfernte Gefahrenbäume; Mitteilung des Baureferats-Gartenbau vom 05.10.2015
+- TOP 0.2.: Unterflur-Wertstoffinseln in der Altstadt errichten! Stadtratsantrag Nr. 14-20 / A 00996 vom 04.05.2015; Unterflur-Wertstoffinseln auch für sensible Standorte im gesamten Stadtgebiet prüfen! Stadtratsantrag Nr. 14-20 / A 00997 vom 04.05.2015; Sitzungsvorlage Nr. 14-20 / V 03993; Beschluss des Kommunalausschusses als Werksausschuss für den Abfallwirtschaftsbetrieb München vom 24.09.2015 (VB)
+- TOP 0.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 6.4.4.3.1 Bad-Berneck-Straße 5; Genehmigungsbescheid vom 27.10.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse; BA-Antrag Nr. 08-14 / B 03384 des BA 15 vom 20.10.2011; Schluss mit der Bevormundung - Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen; Stadtratsantrag Nr. 08-14 / A 04127 vom 21.03.2013; Schreiben des Direktoriums vom 20.10.2015 mit der Bitt eum Stellungnahme zur beantragten Satzungsänderung
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Erweiterung einer bestehenden Freischankfläche Tegernseer Landstraße 37; Beschluss des BA 17 am 10.11.2015
+- TOP 0.1.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels; Stadtratsantrag Nr. 14-20 / A 00660 vom 04.02.2015; Sitzungsvorlagen Nr. 14-20 / V 02900; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 14.10.2015
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 Tegernseer Landstraße 119, Kleingaststätte Augustiner-Stüberl; Mitteilung vom 14.10.2015
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Grundwasser Feldmoching: Änderung der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat; BÜV-Empfehlung Nr. 14-20 / E 00410 des Stadtbezirkes 24 vom 16.04.2015; BV-Anträge, denen mehrheitlich zugestimmt wurde, sollen in diesem Sinne von der Stadtverwaltung umgesetzt werden; BÜV-Empfehlung Nr. 14-20 / E 00576 des Stadtbezirkes 11 vom 23.07.2015; Sitzungsvorlage Nr. 14-20 / V 03888; Beschluss des Verwaltungs- und Personalausschusses vom 23.09.2015 (VB)
+- TOP 7.2.: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019; Unterrichtung der Stadtkämmerei vom 12.10.2015
+- TOP 7.3.: Information der Bürgerversammlung über die Ergebnisse der letztjährigen Anträge in geeigneter Weise; BV-Empfehlung Nr. 14-20 / E 00390 des Stadtbezirkes 5 vom 05.03.2015; Sitzungsvorlage Nr. 14-20 / V 03789; Zuleitung des Direktoriums zur Kenntnisnahme
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.: Brücke zwischen Lincolnstraße und Lauensteinstraße; Bürgeranliegen
+- TOP 2.1.: Giesinger Bahnhofvorplatz; Bürgerschreiben vom 22.10.2015
+- TOP 0.1.: 1. Lichtzeichenanlage Peter-Auzinger-Straße / Tegernseer Landstraße / Stadelheimer Straße 2. Geschwindigkeitsüberwachung an unter Nr. 1 genannter Kreuzung 3. Chiemgaustraße (Mittlerer Ring, ggü PI 23) - Rad- und Fußwegmarkierung Bürgerschreiben (TOP 2.1.2.2 vom 13.10.2015, Ziffern 1 bis 3 vertagt)
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
