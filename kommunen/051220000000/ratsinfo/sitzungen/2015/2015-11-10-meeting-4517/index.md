@@ -1,0 +1,58 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-11-10T16:30:00+01:00
+- Ende: 2015-11-10T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZV7OHlAsPRJWqBl69KcWhZU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4517
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYVtIB2DZiBZoEV_J0tDdqpJguuEsNvxNeaeKbgncqFH/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_10.11.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll über die 10. Sitzung des Haupt- und Personalausschusses am 29.10.2015
+- TOP 4: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 5: Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 6: Städtisches Klinikum Solingen gGmbH
+- TOP 7: Stadtwerke Solingen GmbH
+- TOP 8: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 9: Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 10: Zentrum für verfolgte Künste GmbH
+- TOP 11: Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 12: Bürgerstiftung für verfolgte Künste -Else-Lasker-Schüler-Zentrum- Kunstsammlung Gerhard Schneider
+- TOP 13: Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 14: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 15: Kommunale Arbeitsgemeinschaft Bergisch Land e. V. (KAG)
+- TOP 16: Kuratorium "Die Schärfste Klinge"
+- TOP 17: Forschungsgemeinschaft Werkzeuge und Werkstoffe e. V.
+- TOP 18: Bestellung der Mitglieder des Beirates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft (BSWG)
+- TOP 19: IV. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 20: Finanzieller Aufwand für Flüchtlinge und Asylsuchende
+- TOP 21: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2015
+- TOP 22: Hallenbad Vogelsang
+- TOP 23: Fleischhygienegebührensatzung
+- TOP 24: Verschiedenes
+- TOP 25: Erfahrungsbericht BVLA 2014
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll über die 10. Sitzung des Haupt- und Personalausschusses am 29.10.2015
+- TOP 4: Bestellung eines Ressortgeschäftsführers/Sonderbeauftragten Flüchtlinge
+- TOP 5: Bestellung des Leiters des Stadtdienstes Jobcenter
+- TOP 6: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 2 Satz 2 Gemeindeordnung NRW
+- TOP 7: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 8: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 9: Vorberatung von Gesellschafterbeschlüssen der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 10: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG
+- TOP 11: Betrauung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Wirtschaftsförderung der Stadt Solingen
+- TOP 12: Betrauung der Wirtschaftsförderung Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Förderung der wirtschaftlichen und sozialen Struktur und Attraktivität der Stadt Solingen
+- TOP 13: Betrauung der Solinger Bädergesellschaft mbH mit der gemeinwirtschaftlichen Verpflichtung zum Vorhalten und zum Betrieb von Bäder- und Sportanlagen im Gebiet der Stadt Solingen
+- TOP 14: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2015
+- TOP 15: Verschiedenes
+- TOP 16: Sachstand zum Thema IT-Anbieter
