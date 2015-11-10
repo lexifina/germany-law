@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-11-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492696
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492696
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung der Protokolle vom 06.10.2015
+- TOP 2: Allgemeines
+- TOP 2.1.: (U) Gaststättenfortführung: Drygalski-Allee 118
+- TOP 2.2.: (U) Gaststättenfortführung: Sollner Str. 43
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kath. Stadtpfarrei St. Johann Baptist München-Solln Konzert "Giuseppe Verdi - Requiem" am 15.11.2015
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Freunde der Freiwilligen Feuerwehr Forstenried von 1872 e. V. Beschaffung von vier Navigationsgeräten
+- TOP 3.3.: (U) MIP 2015-2019
+- TOP 3.4.: (A) Bürgerhaushalt
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Verbot von Laubbläsern mit Verbrennungsmotoren
+- TOP 4.3.: (U) Baubeginnsanzeigen Mobilfunkanlagen
+- TOP 4.4.: (Antrag) Unterirdische Wertstoffcontainer Forstenrieder Allee
+- TOP 4.5.: (A) Wertstoffcontainerstandort Springer-/Herterichstr.
+- TOP 4.6.: (A) Wertstoffcontainerstandort Gulbranssonsstr.
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Bericht Sachstand
+- TOP 5.2.: (Antrag) Errichtung zusätzlicher Fahrradstellplätze an der U-Bahn Haltestelle Obersendling
+- TOP 5.3.: (Antrag) Sicherheit Radweg Kistlerhofstr./Baierbrunner Str.
+- TOP 5.4.: (A) Beschleunigung der Busse 63 und 132 ? Umbaumaßnahmen an Haltestellen
+- TOP 5.5.: (Antrag) Kurzparkzone Pullacher Platz
+- TOP 5.6.: (Antrag) Verkehrssituation Festingstr.
+- TOP 5.7.: (Antrag) Parksituation Kleinstr. / Irschenhauser Str
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Beschlussentwurf: Umstrukturierung des Areals Campus Süd / Hochhaus Baierbrunner Str.
+- TOP 6.3.: (Antrag) Widmung der Fuß- und Radwege auf dem ehemaligen Siemens-Campus
+- TOP 6.4.: (U) Zweckentfremdung Weltistr.
+- TOP 6.5.: (U) Zweckentfremdung Josephinenstr.
+- TOP 6.6.: (U) Zweckentfremdung Bestelmeyerstr.
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Sommerfestival Forstenried 2016
+- TOP 8.2.: (A) Satzungsänderung: Gedenktafeln
+- TOP 8.3.: (A) Christkindlmarkt Thalkirchen
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 0.7.: Landeshauptstadt München - Die Isar für alle - <div></div>
+- TOP 0.7.: Gestaltung von Dächern in Gartenstädten und Einfamilienhausgebieten - <div></div>
