@@ -1,0 +1,73 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-11-11T17:04:00+01:00
+- Ende: 2015-11-11T20:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9754
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9754
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00379144.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung des wiedergewählten Oberbürgermeisters
+- TOP 2: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 4: Aktuelle Stunde
+- TOP 5: Eingänge und Mitteilungen
+- TOP 6: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 7: Anfragen von Ratsmitgliedern
+- TOP 8: Anregungen der Bezirksvertretungen
+- TOP 8.1: Flüchtlingsunterkunft am Brandhoveweg in Angelmodde zunächst weiter erhalten
+- TOP 9: Anregungen des Integrationsrates
+- TOP 9.1: Kommunales Wahlrecht für alle auf Dauer in NRW lebenden Migrantinnen und Migranten - verwiesen
+- TOP 10: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 11: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 12: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Zeitlich befristete Flüchtlingseinrichtungen an verschiedenen Standorten - mehrheitlich beschlossen
+- TOP 13: Europäische Charta , Aktionsplan 2013 - 2015, Auftrag Nr.3 Partizipation von Frauen und Mädchen - einstimmig beschlossen
+- TOP 13.1: Europäische Charta , Aktionsplan 2013 - 2015, Auftrag Nr.3 Partizipation von Frauen und Mädchen
+- TOP 14: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa 2016) - von der Tagesordnung abgesetzt
+- TOP 15: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 15.1: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2015
+- TOP 16: Entwurf des Jahresabschlusses zum 31.12.2014 der Stadt Münster - einstimmig beschlossen
+- TOP 17: Ausstieg aus der Gekko-Beteiligung - einstimmig beschlossen
+- TOP 18: Managementkontrakte städtischer Gesellschaften (Einbringung)
+- TOP 18.1: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - Vorlage eingebracht
+- TOP 18.2: Managementkontrakt mit der Westfälische Bauindustrie GmbH (WBI GmbH) - Vorlage eingebracht
+- TOP 18.3: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2016 bis - Vorlage eingebracht
+- TOP 18.4: Zielvereinbarung (Managementkontrakt) mit der eigenbetriebsähnlichen Einrichtung - Vorlage eingebracht
+- TOP 18.4.1: Zielvereinbarung (Managementkontrakt) mit der eigenbetriebsähnlichen Einrichtung - Vorlage eingebracht
+- TOP 18.5: Managementkontrakt mit der Stadtwerke Münster GmbH für die Jahre 2016 bis 2020 - Vorlage eingebracht
+- TOP 19: Flughafen Münster/Osnabrück GmbH: Änderung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 20: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 21: Bürgerumfrage 2015: Zentrale Ergebnisse zu den Themenbereichen "Wohnen" und "Einkaufsmöglichkeiten im Stadtteil" - zur Kenntnis genommen
+- TOP 22: Meldungen der Stadt Münster zum ÖPNV Bedarfsplan 2017 des Landes Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 23: Errichtungsbeschluss zur Sanierung und Erweiterung des Betriebsgebäudes auf der Hauptkläranlage - einstimmig beschlossen
+- TOP 24: Rahmenbedingungen für den Aufbau der 2. städtischen Gesamtschule - mehrheitlich geändert beschlossen
+- TOP 24.1: Rahmenbedingungen für den Aufbau der 2. städtischen Gesamtschule
+- TOP 25: Einrichtung: Dreijähriger vollzeitschulischer Bildungsgang "Berufliches Gymnasium für Agrar" am Wilhelm-Emmanuel-von-Ketteler-Berufskolleg zum Schuljahr 2017 - einstimmig beschlossen
+- TOP 26: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 - - einstimmig beschlossen
+- TOP 26.1: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 -
+- TOP 27: Errichtungsbeschluss: Neubau der Kindertageseinrichtung York-Höfe an der Gasselstiege (ehemaliges TÜV Gelände) in Mitte - einstimmig beschlossen
+- TOP 28: Nachfolgenutzung der Räume in der alten kath. Kita St. Nikolaus Wolbeck - einstimmig beschlossen
+- TOP 29: Streikbedingt eingesparte Personalkosten - Umsetzungsvorschlag zur Mittelverteilung für Kindertageseinrichtungen und Offene Ganztagsschulen - einstimmig beschlossen
+- TOP 30: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Hiltrup
+- TOP 31.1.1: Vorhabenbezogener Bebauungsplan Nr. 543: Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 31.2: Stadtbezirk Münster-Südost
+- TOP 31.2.1: 51. Änderung FNP - Vorhabenbezogener Bebauungsplan Nr. 564 - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 31.2.2: Bebauungsplan Nr. 280, vorhabenbezogene 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Münster hilft und unterstützt ehrenamtliches Engagement - verwiesen
+- TOP 33.2: Münsters Kulturschaffende eröffnen Willkommensräume - verwiesen
+- TOP 33.3: Münster braucht eine No-Spy-Klausel - verwiesen
+- TOP 33.4: Kommunaler Ausstieg aus Flughafen Münster-Osnabrück (FMO) - Jetzt! - verwiesen
+- TOP 33.5: Energiepark Münster - verwiesen
+- TOP 34: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 35: Verschiedenes
