@@ -1,0 +1,6 @@
+# TOP 3: Beantwortung von Anfragen / Anträgen von Fraktionen und Ausschussmitgliedern
+
+- Sitzung: Schulausschuss (2015-11-11)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/119969
