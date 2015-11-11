@@ -1,0 +1,69 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-11-11T17:00:00+01:00
+- Ende: 2015-11-11T20:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3748
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3748
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=86059
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.1: Nachwahl einer stellvertretenden Schriftführerin / eines stellvertretenden Schriftführers in den Vorstand der BVV - gewählt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 46. Sitzung der BVV am 11.11.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die Sitzung der 46. BVV am 11.11.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 46. Sitzung der BVV am 11.11.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Nachhaltig und energieeffizient Bauen in Reinickendorf - beantwortet
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretende Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Mobiltelefon als Reiseführer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Rent-A-Bike in Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Ladestationen für Elektromobile an Straßenbeleuchtungsmasten prüfen! - überwiesen
+- TOP 7.4: Quartiersmanagement rund um den Auguste-Viktoria-Kiez - überwiesen
+- TOP 7.5: Fahrradabstellmöglichkeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Radwege B 96 (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Einwechseln von Wildtieren in Siedlungsgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Carsharing-Parkplätze im Bezirk ausweisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Eingeschränktes Halteverbot Oranienburger Str., Fahrtrichtung Süd (Lübarser Str. - Schlitzer Str.) (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Strukturen bürgerlichen Engagements in Reinickendorf-West stärken - überwiesen
+- TOP 7.11: Tageskostenbeteiligung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Fahrradparkhaus in Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Wildunfälle vermeiden (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Wanderweg am Tegeler Fließ begehbar halten (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.15: Fahrradabstellplätze im Bereich Tegel-City (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.16: Zusätzliche Gewaltprävention an Oberschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Wirtschaftszeitung für Schüler kostenlos - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Anteil Reinickendorfs an den Potentialflächen zur Beweidung im Land Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: "Zu Fuß zur Schule - selbst sicher mobil" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Entgeltfreiheit für minderjährige Flüchtlinge in Musikschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Arbeiten des Straßen- und Grünflächenamtes auf der Internetseite mittels Arbeitskalenders rechtzeitig ankündigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Geplante Mittel für das Betreuungsgeld in den Kita-Ausbau stecken - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: 50-jährige Partnerschaften mit Antony/Frankreich und Greenwich/Großbritannien im Jahr 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Änderung der Geschäftsordnung - § 39 (2), Einfügung der Absätze 4 bis 7 und § 20 (6) und (8) - überwiesen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Deutsches Palliativsiegel - überwiesen
+- TOP 12.2: Fahrbahnbelag Falkenplatz - überwiesen
+- TOP 12.3: Kurz-Ratgeber für Geflüchtete - überwiesen
+- TOP 12.4: Standort Glascontainer Falkenplatz - überwiesen
+- TOP 12.5: Bericht über Aktivitäten im Kommunalen Nachbarschaftsforum - überwiesen
+- TOP 12.6: Hundegarten Lübars - Attraktivität weiter steigern ! - überwiesen
+- TOP 12.7: Hundegarten am Seggeluchbecken - Attraktivität weiter steigern ! - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Kennzeichnung der Gedenkorte im Karl-Bonhoeffer-Gelände - überwiesen
+- TOP 13.2: Wartehäuschen 220er - überwiesen
+- TOP 13.3: Kostenfreies Parken - ohne Änderungen in der BVV beschlossen
