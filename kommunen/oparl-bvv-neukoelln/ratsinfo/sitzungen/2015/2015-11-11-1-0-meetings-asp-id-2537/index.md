@@ -1,0 +1,87 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-11-11T17:00:00+01:00
+- Ende: 2015-11-11T22:32:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2537
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2537
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vergabe Ausbildungspreis des Bezirkes Neukölln - (offen)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Neukölln sagt Nein zu TTIP - vertagt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2015/2016 und im Jahr 2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2013 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Frauenförderplan des Bezirksamtes Neukölln von Berlin 2015: Vorzeitige Neufassung für den Gültigkeitszeitraum 01.12.2015 bis 30.11.2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Sanierungsstand Alt-Buckow 17 - beantwortet
+- TOP 9.2: Ergebnisse des Vera-3-Tests - beantwortet
+- TOP 9.3: Ungenehmigter Leerstand am Hermannplatz? - beantwortet
+- TOP 9.4: Gesundheitliche Versorgung der Geflüchteten in den Notunterkünften - beantwortet
+- TOP 9.5: Unterkunft "Fritz-Reuter-Allee" - beantwortet
+- TOP 9.6: Weinbau in Neukölln - beantwortet
+- TOP 9.7: "Umsonst-Flohmarkt" am Richard Platz - beantwortet
+- TOP 9.8: Arzneimittelversorgung von Geflüchteten - beantwortet
+- TOP 9.9: Geflüchtete in ehemaligen Soldatenquartieren/Flughafen Tempelhof - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Sanierung unseriös - beantwortet
+- TOP 10.2: Planung der Seniorentagesstätte - beantwortet
+- TOP 10.3: Columbiabad vor dem Aus? - schriftlich beantwortet
+- TOP 10.4: Bezirklichen Armutsbericht erstellen - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Jugendeinrichtung Alt Buckow - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Heimaufsicht für Flüchtlingsunterkunft - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Online-Formularservice auf berlin.de verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Möglichkeiten einer Neukölln-App prüfen - in der BVV abgelehnt
+- TOP 11.5: Neukölln sagt Nein zu TTIP - vertagt
+- TOP 11.6: Neukölln gegen TTIP, CETA, TiSA - vertagt
+- TOP 11.7: Straßenumbenennung nach Kirsten Heisig - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Fahrradweg zwischen dem Neudecker Weg und der Köpenicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Mut zu neuen Wegen - Weigandufer als Fahrradstraße - überwiesen
+- TOP 11.10: Tempo 30 in der Parchimer Allee - in der BVV abgelehnt
+- TOP 11.11: Weserstraße zur Fahrradstraße machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Kulturelle Angebote für Flüchtlinge ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Das Alpha-Bündnis weiter finanzieren - in der BVV abgelehnt
+- TOP 11.14: Anwohner informieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Internationale Wochen gegen Rassismus vom 10.03. bis zum 23.03.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Sozialämter vor dem Kollaps - vertagt
+- TOP 12.2: Gewaltschwerpunkt Neuköllner Grundschule? - vertagt
+- TOP 12.3: Unterbringung von Geflüchteten in ehemaliger Jugendhilfeeinrichtung - vertagt
+- TOP 12.4: Eigentümliche Eigentümer - vertagt
+- TOP 12.5: Erhalt der Flüchtlingsunterkunft in der Haarlemer Straße - beantwortet
+- TOP 12.6: Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - vertagt
+- TOP 12.7: Einsatzschwerpunkte Ordnungsamt - vertagt
+- TOP 12.8: Neues Meldegesetz - vertagt
+- TOP 12.9: Kein Milieuschutz aus Personalmangel? - vertagt
+- TOP 12.10: Leerstände Boddinstr.5 - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Personalerhöhung - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Absolutes Halteverbotsschild entfernen - überwiesen
+- TOP 14.3: Einrichtung einer Unterkunft für besonders Schutzbedürftige - überwiesen
+- TOP 14.4: Tempo 30 in der Fulhamer Allee wiederherstellen - zurückgezogen
+- TOP 14.5: Leerstand beenden - überwiesen
+- TOP 14.6: Fußgängerüberweg vor Kita Momo - überwiesen
+- TOP 14.7: Stellen für den Milieuschutz - überwiesen
+- TOP 14.8: Informationen über die Mietpreisbremse - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Schutz und Förderung der Menschen in den Flüchtlingsunterkünften sicherstellen und verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Sperrung Alt-Britz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Barrierefreier Fußgängerüberweg Sonnenallee/Hermannplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Beeinflussung der Lichtsignalanlage Karl-Marx-Straße/Emser Straße überarbeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauungsplan 8-9bab ("Mohriner Allee / Windröschenweg - Süd") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Scheinanmeldungen verhindern! - mit Abschlussbericht zur Kenntnis genommen
