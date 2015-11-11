@@ -1,0 +1,78 @@
+# 35. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-11-11T18:00:00+01:00
+- Ende: 2015-11-11T20:35:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4586
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4586
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=69813
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Amtshaus in Französisch Buchholz erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - überwiesen
+- TOP 1.8: „Denkmalgetreuer Wiederaufbau des Turmes der barocken Schlosskirche in Berlin-Buch“ - Aufnahme in das Bund-Länder Programm „Städtebauförderung“ - in der BVV abgelehnt
+- TOP 1.9: Mindestanforderungen für die nicht vertragsgebundene Unterbringung von Obdachlosen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Verständliche offizielle Formulare und Kommunikation des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Ökologische Bauleit- und Freiraumplanung für private Vorhabenträger - in der BVV abgelehnt
+- TOP 1.12: Abschiebestopp für geflüchtete Menschen während ihrer Ausbildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Berlin Service-App bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Gefährdungen vermeiden; Illegale Nutzung unterbinden - in der BVV abgelehnt
+- TOP 1.15: Evaluation der erhaltungsrechtlichen Genehmigungskriterien und ihrer Anwendung in den Milieuschutzgebieten Pankows - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Kniprodestraße 94/96: Stellplatznutzung für die AnwohnerInnen wieder ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Buswartehäuschen in der Wiltbergstraße in Berlin-Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Beleuchtung der beliebten Grünfläche am Weißen See sicherstellen! - überwiesen
+- TOP 1.19: Leitlinien für die Bürger*innenbeteiligung, Information und Konsultation - beantwortet
+- TOP 1.20: Planungen für die Sanierung der »Brotfabrik« aufnehmen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Moorlinse in Berlin-Buch schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Stille Straße 10 wird Tschaikowskistraße 14 - überwiesen
+- TOP 1.23: Umfassende Information über die Zustände in den Bürgerämtern - überwiesen
+- TOP 1.24: Interkulturelle Kompetenz als eine Standardschlüsselqualifikation in der Personalentwicklung verankern - überwiesen
+- TOP 1.25: Verkehrssicherheit in der Treseburger Straße wiederherstellen - überwiesen
+- TOP 1.26: Planungssicherheit für das Angebot von Volkshochschule und Musikschule gewährleisten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Wiederherstellung der Mülleimer im Einsteinpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Freies WLAN für Geflüchtetenunterkünfte - überwiesen
+- TOP 1.29: Für starke Musikschulen und Volkshochschulen in den Berliner Bezirken! - überwiesen
+- TOP 1.30: Verbesserung der Verkehrssicherheit an der Richard-Ermisch-Straße/Hermann-Blankenstein-Straße - überwiesen
+- TOP 1.31: Kleingewerbe am S+U-Bahnhof Pankow erhalten - überwiesen
+- TOP 1.32: Unterkünfte für Geflüchtete, Studierende und Personen mit geringem Einkommen in Karow Nord (ehem. Kita-Standorte) - überwiesen
+- TOP 1.33: Migrationsberatung für erwachsene Zuwanderer in der Fröbelstraße auffindbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Verkehrssicherheit im Rispenweg - überwiesen
+- TOP 1.35: Erhöhung der Verkehrssicherheit in der Hauptstraße in Wilhelmsruh - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Neue Impulse für den Agendaprozess in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Ausschilderung des Bürgerhauses Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Wohnungstausch ermöglichen, Mietpreisauftrieb begrenzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3.1: Faire Angebote an Senioren zur Verringerung der Wohnfläche ihrer kommunalen Mietwohnung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Flächenerweiterung und Weiterentwicklung prüfen: Rosa-Luxemburg-Oberschule und Wolkensteingrundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Ehem. Akademie der Wissenschaften – als Atelierhaus und für Gemeinbedarfsflächen weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Sanierungskonzept für den Wilhelmsruher See - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Regelmäßiges Forum gegen Rechtsradikalismus in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Schulwegsicherung Elisabeth-Shaw-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Bezirkliche Spielplatzplanung fortschreiben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Lebensqualität in einstiger Bürostadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Informationspolitik zur Unterbringung von geflüchteten Menschen in Berlin Buch ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Gemeinsam für wirksamen Lärmschutz an der Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: E-Learning an der Volkshochschule Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Europäische Initiative zur verantwortungsvollen Wohnungswirtschaft - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Projekt "Pankower Tor" voranbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Erhöhung der Verkehrssicherheit in der Priesterstege in Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Migrations- und Rechtsberatung für Menschen ohne Aufenthaltsstatus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Mobilitätshilfedienste sichern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Finanzielle Unterstützung für ehrenamtliche Betreuung Geflüchteter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bezirkliches Konzept zur Ladeinfrastruktur für Elektrofahrzeuge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplan IV-36 für die Grundstücke Pasteurstraße 22/26 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplan XVIII – 30c für das Gelände zwischen der Treseburger Straße, den Grundstücken Harzburger Straße 18 / 34 und Urbacher Straße 47, der Laake, dem Karower Damm, der südlichen Grenze des Flurstückes 444 und des Grundstückes Treseburger Straße 27 bis zum Erschließungsweg sowie die Verlängerung dieser Grenze um 12 m nach Westen (Grundstück Treseburger Straße 25), der rechtwinkligen Verbindungslinie zur Treseburger Straße sowie einem Abschnitt des Karower Damms im Bezirk Pankow, Ortsteil Blankenburg Teilung des Bebauungsplans - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Benennung eines Privatweges gemäß Bebauungsplanentwurf XIX-48b für das Gelände zwischen Dr.-Markus-Straße, Parkgraben, Ferdinand-Buisson-Straße, Bahnhofstraße und Berliner Straße im Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Kontrolle der Qualität des Mittagessens an den Schulen - mit Abschlussbericht zur Kenntnis genommen
