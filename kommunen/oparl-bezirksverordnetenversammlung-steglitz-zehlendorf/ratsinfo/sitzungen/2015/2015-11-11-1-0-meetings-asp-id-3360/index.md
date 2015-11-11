@@ -1,0 +1,63 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-11-11T17:00:00+01:00
+- Ende: 2015-11-11T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3360
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3360
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Entwurfsplanung für den Zehlendorfer Dorfanger - Umsetzung des Beschlusses Nr. 270 zur Drs. Nr. 0396/IV - beantwortet
+- TOP 3.2: Personalstand in der Musikschulverwaltung - beantwortet
+- TOP 3.3: Spielplatz im Gemeindepark Lankwitz von Vernachlässigung befreien - beantwortet
+- TOP 3.4: Schandfleck am US-Konsulat, Nr. VI. - beantwortet
+- TOP 3.5: Bodenrichtwert "Rarks Range" - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung und dringl. Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Neuwahl der Mitglieder des Widerspruchsbeirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Dringliche Ausschussanträge - erledigt
+- TOP 6.2.1: Sondermittel der BVV für den Berliner Ruder-Club e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Dringende Große Anfragen - erledigt
+- TOP 6.3.1: Fahrschulen vom Platz des 4. Juli vertrieben? - beantwortet
+- TOP 7: Bebauungspläne - erledigt
+- TOP 7.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Bebauungsplan 6-28 B "Ostpreußendamm 84-92" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.1.2: Bebauungsplan 6-20 "Selerweg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.1.3: Bebauungsplan 6-29 B "Goerzallee 155, Lichterfelder Weg 5/25" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Erinnerungsort Stalag III D in Lichterfelde-Süd - überwiesen
+- TOP 8.2: Jugendaustausch mit koreanischer Partnergemeinde - überwiesen
+- TOP 8.3: Ausreichend Schutzräume und Hilfsangebote für von Gewalt betroffene traumatisierte Flüchtlingsfrauen und Kinder schaffen - überwiesen
+- TOP 8.4: B-Plan S-Bahnhof Kamenzer Damm - überwiesen
+- TOP 8.5: "Rumpelbasar" ins Rathaus - überwiesen
+- TOP 8.6: Umsetzung des Projektes "Work for Refugees" - überwiesen
+- TOP 8.7: Kleinkinderspielplatz Althoffstraße sicherer gestalten - überwiesen
+- TOP 8.8: Darstellung Internetauftritt des Bezirkes auf Mobilgeräten - überwiesen
+- TOP 8.9: Nutzung des Platzes des 4. Juli für Fahrschulen sichern - überwiesen
+- TOP 8.10: Museumsdorf Düppel - überwiesen
+- TOP 8.11: Gender Budgeting ernst nehmen - überwiesen
+- TOP 8.12: Sicheren Ausstieg ermöglichen - überwiesen
+- TOP 8.13: Wochenmärkte in Steglitz auch weiterhin öffentlich betreiben - überwiesen
+- TOP 8.14: Eigentümer für Naturschutz und Pflege des Privatgrundstückes in Lichterfelde-Süd ("Parks Range") heranziehen! - überwiesen
+- TOP 8.15: Goerzallee: Leerstand verhindern - Arbeitsplätze schaffen - Rumpelbasar erhalten - überwiesen
+- TOP 8.16: Gestaltung des Ortskerns Zehlendorf in der nächsten Investitionsplanung berücksichtigen - überwiesen
+- TOP 8.17: Bebauungsplan zweiter Ausgang S-Bahnhof Zehlendorf / "Postplatz" / Güterbahnhof Zehlendorf - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Eingliederungsmittel für Langzeitarbeitslose in 2015 vollständig ausschöpfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Info-App für Flüchtlinge und Unterstützer - in der BVV abgelehnt
+- TOP 9.3: Situation der Gedenkstätte 17. Juni 1953 verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: City-Wiesen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Aushang von Fahrplänen verbessert Mobilität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Kurfürstentor des Jagdschlosses Glienicke als Teil des Weltkulturerbes wiederherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Größere Müllbehälter an der Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Denkmalschutz Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
