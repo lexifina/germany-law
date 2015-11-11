@@ -1,0 +1,8 @@
+# TOP 3: Vertretung der Stadt MG im Verwaltungsrat der AöR
+
+- Sitzung: Ausschuss für Finanzen und Beteiligungen (2015-11-11)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/125964
+- Ergebnis: In die nächste Sitzung des HauptA verschoben
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/20609
