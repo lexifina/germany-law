@@ -1,0 +1,7 @@
+# TOP 12: Sonstiges
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2015-11-11)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730222f24bb7ed51284cea
+- Ergebnis: (offen)
