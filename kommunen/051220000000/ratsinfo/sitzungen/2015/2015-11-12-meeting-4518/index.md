@@ -1,0 +1,71 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-11-12T17:00:00+01:00
+- Ende: 2015-11-12T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYTsKfSOJWpccdp1H0mBWjk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4518
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUXaMeAeFPmWQ2TLY9X-YTMllqHjw0BIFKDXWiuBj0-y/Oeffentliche_Niederschrift_Rat_12.11.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Vorschlag für die En-bloc-Abstimmung
+- TOP 3: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 4: Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 5: Städtisches Klinikum Solingen gGmbH
+- TOP 6: Stadtwerke Solingen GmbH
+- TOP 7: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 8: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 9: Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 10: Zentrum für verfolgte Künste GmbH
+- TOP 11: Kunsmuseum Solingen Betriebsgesellschaft mbH
+- TOP 12: Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 13: Bürgerstiftung für verfolgte Künste -Else-Lasker-Schüler-Zentrum- Kunstsammlung Gerhard Schneider
+- TOP 14: Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 15: Kommunale Arbeitsgemeinschaft Bergisch Land e. V. (KAG)
+- TOP 16: Kommunale Arbeitsgemeinschaft Bergisch Land e. V. (KAG)
+- TOP 17: Kuratorium "Die Schärfste Klinge"
+- TOP 18: Forschungsgemeinschaft Werkzeuge und Werkstoffe e. V.
+- TOP 19: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 20: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 21: Stadt-Sparkasse Solingen hier: Wahl der/des Vorsitzenden des Verwaltungsrates sowie eines sachkundigen Mitgliedes
+- TOP 22: Stadt-Sparkasse Solingen
+- TOP 23: Umbesetzung von Ausschüssen und Gremien
+- TOP 24: Umbesetzung von Ausschüssen und Gremien
+- TOP 25: Bestellung einer Prüferin beim Revisionsdienst
+- TOP 26: IV. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 27: Hallenbad Vogelsang
+- TOP 28: Finanzieller Aufwand für Flüchtlinge und Asylsuchende
+- TOP 29: Ausstattung städtischer Gebäude mit Defibrillatoren
+- TOP 30: Anmeldungen für den neuen ÖPNV-Bedarfsplan NRW
+- TOP 31: Fleischhygienegebührensatzung
+- TOP 32: Überplanmäßige Ausgaben für die Hilfen zur Erziehung
+- TOP 33: Überplanmäßige Ausgaben für die Tagesbetreuung für Kinder
+- TOP 34: Überplanmäßige Ausgaben im Kommunalen Jobcenter - SD 59
+- TOP 35: Entwurf des Gesamtabschlusses 2010 der Stadt Solingen
+- TOP 36: Jahresabschluss 2014 der Stadt Solingen
+- TOP 37: Bauleitplanung Konrad-Adenauer-Straße/ Kurfürstenstraße
+- TOP 38: Aufbereitung und Bereitstellung von Unterlagen über das Sitzungsdienstsystem und über E-Mail
+- TOP 39: Radverkehr Löhdorfer Straße
+- TOP 40: Anfrage zu WLAN-Hotspots
+- TOP 41: Besetzung der vakanten Dezernentenstellen
+- TOP 42: Aufstellung des Landesentwicklungsplanes NRW Beteiligung der öffentlichen Stellen
+- TOP 43: Homepage der Stadt Solingen
+- TOP 44: Unterbringung von Flüchtlingen in privatem Wohnraum
+- TOP 45: Diverse Fragen Tourismus /Ars publica
+- TOP 46: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2015
+- TOP 47: Resolution des Rates der Stadt Solingen zur Krankenhausreform 2016
+- TOP 48: Stellungnahme der Stadt Solingen zum Gesetzesentwurf der Landesregierung zur Verteilung der Fördermittel aus dem Kommunalinvestitionsförderungsgesetz des Bundes
+- TOP 49: Zugausfälle auf der Linie der S 1
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Betrauung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Wirtschaftsförderung der Stadt Solingen
+- TOP 2: Betrauung der Wirtschaftsförderung Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Förderung der wirtschaftlichen und sozialen Struktur und Attraktivität der Stadt Solingen
+- TOP 3: Betrauung der Solinger Bädergesellschaft mbH mit der gemeinwirtschaftlichen Verpflichtung zum Vorhalten und zum Betrieb von Bäder- und Sportanlagen im Gebiet der Stadt Solingen
+- TOP 4: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SWS)
+- TOP 5: Kostenkalkulation der zusätzlichen Ratssitzung am 29.10.2015
