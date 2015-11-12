@@ -1,0 +1,66 @@
+# 41. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-11-12T16:30:00+01:00
+- Ende: 2015-11-12T20:52:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4223
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4223
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=112320
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - gewählt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-47 und Nr. VII-48 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Radwege verbinden am Treptower Park - überwiesen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Neuwahl von Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Kulturelle Genüsse im Rathaus Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Büchertelefonzelle in Rauchfangswerder: Pflasterung der Fläche - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bezirkshaushaltsrechnung 2014 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Verkehrsaufkommensgerechte Ampelschaltungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Fichte-Stele instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Rettet die Kultur - Für den Erhalt des Stadttheater Cöpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Fahrradstraße Stellingdamm und Waldburgweg - vertagt
+- TOP 12.5: Bedarfsplanung zur ärztlichen Versorgung - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Beleuchtung am S-Bahnhof Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: 70 Jahre Johannisthaler Filmgeschichte in die Dauerausstellung des Museums Treptow aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Wintersicherung Bärenquell - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Bahn-Baracken am Stellingdamm abreißen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Nutzung von Pedelecs und elektrobetriebenen Lastenfahrrädern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Sanierung der Volkshochschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Substanzsicherung Friedrichshagener Str. 10 ehemalige Jugendfreizeiteinrichtung "all eins" - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Aufnahme des Gebietes "Kosmosviertel", Ortsteil Altglienicke in das Programm Soziale Stadt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Unterzeichnung der erneuerten Städtepartnerschaftsvereinbarung zwischen dem Bezirk Treptow-Köpenick von Berlin und dem Bezirk Warschau-Mokotów - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Schaffung eines gemeinsamen Servicezentrums der Berliner Volkshochschulen - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Schleusenzeiten verlängern – Wassertourismus in Treptow-Köpenick stärken - überwiesen
+- TOP 14.2: Straßenbahnverkehr der Linie 67 am Sonnabend - überwiesen
+- TOP 14.3: Aufstellung eines Verkehrsspiegels in Bohnsdorf - überwiesen
+- TOP 14.4: Radwegekonzept Treptow-Köpenick fortschreiben - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Milieuschutz für Schöneweide - überwiesen
+- TOP 14.6: Querparken in der Hallberger Zeile - überwiesen
+- TOP 14.7: Radweg am Treptower Spreeufer - überwiesen
+- TOP 14.8: Planreifeerklärung zur Beschlussfassung - überwiesen
+- TOP 14.9: S-Bahnhof Johannisthal - überwiesen
+- TOP 14.10: Schulwegsicherheit in der Köpenicker Landstraße - überwiesen
+- TOP 14.11: Zebrastreifen auf dem Adlergestell - überwiesen
+- TOP 14.12: Regenwassermanagement im Bebauungsplan XV-30b VE - überwiesen
+- TOP 14.13: Ausschussgröße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.14: Konferenz im Bürgerhaus Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Barrierefreiheit des öffentlich genutzten Hauses Weiskopffstraße 14 - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Bebauungsplan XV-30 b VE und XV-30 a - in der BVV abgelehnt
+- TOP 15: Große Anfragen - (offen)
