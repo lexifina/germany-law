@@ -1,0 +1,55 @@
+# Hauptausschuss (35. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-11-16T15:00:00+01:00
+- Ende: 2015-11-16T18:15:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZap6ATfu7s1ezgy4yPKms60
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6282
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZPgLz0h5T_cVTFP6A3KqxKUC3q4DSJKehPLGhGdI3y_/Bekanntmachung_Hauptausschuss_16.11.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWt3lCP-UGnC7vjBpsztGxFM3bvmgFWjOT5BYDfp7p5R/Oeffentliche_Niederschrift_Hauptausschuss_16.11.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschriften vom 28.09.2015 und 19.10.2015
+- TOP 2.: Konsolidierung des städtischen Haushalts Übersicht Abstimmungsblätter Bezug: bisherige HA-Sitzungen - (kein Text vorhanden)
+- TOP 3.: Anregungen und Beschwerden nach § 24 Gemeindeordnung
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Anregung gem. § 24 Gemeindeordnung hier: Parkplätze in der Georg-Sandmann-Straße Bezug: Antrag vom 21.09.2015 - (kein Text vorhanden)
+- TOP 4.: Dringlichkeitsentscheidung hier: Bestellung des Vorstandes für den Stadtservicebetrieb Brühl -Anstalt öffentlichen Rechts- - (kein Text vorhanden)
+- TOP 4.1: Bestellung des Vorstandes für den Stadtservicebetrieb Brühl -Anstalt öffentlichen Rechts- - (kein Text vorhanden)
+- TOP 5.: Abwassergebührenkalkulation 2016 - (kein Text vorhanden)
+- TOP 6.: 3. Satzung zur Änderung der Hundesteuersatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 7.: Überplanmäßige Mittelbereitstellung
+- TOP 7.1: Überplanmäßige Mittelbereitstellung und Budgetverschiebung - (kein Text vorhanden)
+- TOP 7.2: Überplanmäßige Mittelbereitstellung hier: Umbau des Gebäudes Theodor-Körner-Str. 21a zum Flüchtlingswohnheim - (kein Text vorhanden)
+- TOP 8.: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.: Kulturfördergesetz NRW: hier: Fördervereinbarung Land NRW mit der Stadt Brühl betreffend Förderung der Brühler Schlosskonzerte e.V. - (kein Text vorhanden)
+- TOP 10.: Veranstaltungskonzept "Brühler Sommer" KPTA vom 21.09.2015
+- TOP 11.: Mitteilungen
+- TOP 11.1: Flüchtlingssituation
+- TOP 12.: Anfragen
+- TOP 12.1: Bahnhofsgebäude Brühl-Badorf
+- TOP 12.2: Parkdeck Kaufhof
+- TOP 12.3: P&R Anlage Schwadorf
+- TOP 12.4: Wanderparkplatz am Wasserturm
+- TOP 13.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2016 - (kein Text vorhanden)
+- TOP B): Nichtöffentliche Sitzung
+- TOP 14.: Zustimmung zum Städtebaulichen Vertrag im Bereich des künftigen Bebauungsplanes 08.10, 1. Änderung "Am Krausen Baum/Liblarer Str." - (kein Text vorhanden)
+- TOP 15.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen - (kein Text vorhanden)
+- TOP 16.: Niederschlagung einer Gewerbesteuerforderung - (kein Text vorhanden)
+- TOP 17.: Niederschlagung einer Gewerbesteuerforderung - (kein Text vorhanden)
+- TOP 18.: Unbefristete Niederschlagung einer Forderung - (kein Text vorhanden)
+- TOP 19.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 20.1: Nachforderung der Stadtbahngesellschaft Rhein-Sieg (SRS)
+- TOP 21.: Anfragen
+- TOP 21.1: Bewachung Flüchtlingsunterkünfte
+- TOP 21.2: Vorkommnisse in Flüchtlingsunterkünften
+- TOP 21.3: Schweigegang
+- TOP 21.4: Niederschlagungen
+- TOP 21.5: Zusammenlegung HA/VgLA
