@@ -1,0 +1,52 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-17T16:00:00+01:00
+- Ende: 2015-11-17T22:15:00+01:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10071
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10071
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00252920.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00252920.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00252920.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Vorstellung der Siegerentwürfe des studentischen Wettbewerbs zur Bebauung Bachstraße/Elisabethstraße/Bilker Allee - zur Kenntnis genommen
+- TOP 4: Sicherheitslage im Stadtbezirk; Thomas Decken, Leiter der Polizeiinspektion Süd - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Fürstenwall 183, 185, 187, 189 - Abbruch der Gebäude Fürstenwall 183 + 185 sowie der Hofbebauung, Te - einstimmig beschlossen
+- TOP 6: FNP-Änderung Nr. 172 - Oberbilker Allee / Ringelsweide - einstimmig beschlossen
+- TOP 7: Gutachterverfahren für das Projekt Harkortstraße - einstimmig beschlossen
+- TOP 8: Vorplatz Bilker Bahnhof; Information zur Oberflächengestaltung - zur Kenntnis genommen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - einstimmig beschlossen
+- TOP 10: Flutlichanlage DJK-TUSA 06 - zur Kenntnis genommen
+- TOP 10.1: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - mehrheitlich beschlossen
+- TOP 11: Vorstellung des Projekts "Jugend International"; Yousra El Makrini (Jugendrat) - zur Kenntnis genommen
+- TOP 12: Anfragen aus der Bürgerschaft an die Bezirksvertretung 3 - zur Kenntnis genommen
+- TOP 13: Ausbau der Transparenz in der Bezirksvertretung; Einführung einer Beschlusskontrolle - einstimmig beschlossen
+- TOP 14: Zebrastreifen oder Ampel im Bereich Fabriciusstraße/Moorenstraße - einstimmig beschlossen
+- TOP 15: Überweg Mecumstraße/Fruchtstraße; behindertenfreundlicher gestalten - einstimmig beschlossen
+- TOP 15.1: Schaltung Ampel über die Aachener Straße - Höhe Hausnummern 1 und 2 - einstimmig beschlossen
+- TOP 15.2: Städtisches Grundstück an der Elisabethstraße - einstimmig beschlossen
+- TOP 15.3: Moorenstraße, Tempo 30 - zur Kenntnis genommen
+- TOP 15.4: Fahrradstellplätze am Südfriedhof - einstimmig beschlossen
+- TOP 15.5: Einrichtung eines Runden Tisches Mintropplatz - einstimmig beschlossen
+- TOP 15.6: Unterkunft für Flüchtlinge - zurückgezogen
+- TOP 16: Beteiligungskonzept für das Quartier rund um den Bilker Bahnhof - vertagt
+- TOP 16.1: Anmietung des Kiosk am Volksgarten (Emmastraße 1) - vertagt
+- TOP 16.2: Runder Tisch Asyl im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 17: Barrierefreier Neubau der Bushaltestelle nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 18: Barrierefreier Neubau der Bushaltestellen im Zuge des zu ergänzenden Busnetzes nach Inbetriebnahme d - einstimmig beschlossen
+- TOP 19: Anpassungen im ergänzenden Bus- und Straßenbahnnetz mit Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 20: Weihnachtsmarkt auf dem Vorplatz der Düsseldorf-Arcaden in Düsseldorf Unterbilk im Jahre 2015 - mehrheitlich beschlossen
+- TOP 21: Rückbau von Grundwassersanierungsanlagen - Information - - zur Kenntnis genommen
+- TOP 22: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
+- TOP 23: Hydranten im Düsseldorfer Hafen - zur Kenntnis genommen
+- TOP 24: Sitzungstermine 2016 - einstimmig beschlossen
+- TOP 25: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
