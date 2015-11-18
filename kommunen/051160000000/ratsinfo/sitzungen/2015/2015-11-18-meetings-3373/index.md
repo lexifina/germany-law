@@ -1,0 +1,52 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-11-18T17:10:00+01:00
+- Ende: 2015-11-18T20:55:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3373
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3373
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 8. Sitzung des Hauptausschusses am 16.09.2015 -öffentlicher Teil- - Genehmigt
+- TOP 2: Gründung einer Anstalt des öffentlichen Rechts (AöR) - Nach Beratung ohne Beschluss verschoben
+- TOP 2.1: Gründung AöR SBMG - Nach Beratung ohne Beschluss verschoben
+- TOP 3: Vertretung der Stadt MG im Verwaltungsrat der AöR - An den Rat verwiesen
+- TOP 4: Übertragung der städtischen Anteile an der GEM - An den Rat verwiesen
+- TOP 5: Beteiligung der NEW Kommunalholding - An den Rat verwiesen
+- TOP 5.1: Klimaschutz und Beendigung Teilnahme GEKKO; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 29.10.2015 - An den Rat verwiesen
+- TOP 6: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 7: Deponie Radermühlenberg - Mit Stimmenmehrheit beschlossen
+- TOP 8: Widerspruchausschuss des Niersverbands - Einstimmiger Beschluss
+- TOP 9: Warnung der Bevölkerung - Aufbau eines Sirenennetzes - Einstimmiger Beschluss
+- TOP 10: teilweise Aufhebungsverordnung verkaufsoffener Sonntag 6. Dezember 2015 (Wickrath) - Einstimmiger Beschluss
+- TOP 11: Taxentarif und Taxenverordnung - Einstimmiger Beschluss
+- TOP 12: Schiedsamtswahl Bezirk Nord/1 - An den Rat verwiesen
+- TOP 13: Schiedsamtswahl Bezirk Nord/2 - An den Rat verwiesen
+- TOP 14: Schiedsamtswahl Bezirk Ost/1 - An den Rat verwiesen
+- TOP 15: Bebauungsplan Nr. 763/O - Stadtbezirk Ost ("Am Woltershof") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 16: Bebauungsplan Nr. 726/N, Stadtbezirk Nord, Gebiet zwischen Eickener Straße - Einstimmiger Beschluss
+- TOP 17: Bebauungsplan Nr. 710/N - Stadtbezirk Nord - Windberg - Einstimmiger Beschluss
+- TOP 18: Erste Verlängerung einer Veränderungssperre (Gebiet zwischen Gladbacher Straße, Nordpark, Hockeypark - Einstimmiger Beschluss
+- TOP 19: 1. Verlängerung der Veränderungssperre (Gebiet nördlich der Steinsstraße, zwischen der Bahntrasse un - Einstimmiger Beschluss
+- TOP 20: Elektromobilität in Mönchengladbach stärken - Mit Stimmenmehrheit beschlossen
+- TOP 20.1: Elektromobilität in Mönchengladbach stärken; hier: Antrag der Bündnis 90/Die Grünen-Ratsfraktion vom 20.10.2015 - Mit Stimmenmehrheit abgelehnt
+- TOP 21: Freies WLAN für Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 22: Breitbandversorgung; hier: Antrag der CDU und SPD-Fraktionen und der Ratsgruppe Die Piraten Partei vom 28.09.2015 - Mit Stimmenmehrheit beschlossen
+- TOP 22.1: Breitbandversorgung - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Fluglärm Mönchengladbach - Ost / Planfeststellungsverfahren; hier: Gem. Fraktionsantrag von CDU und SPD vom 20.10.2015 - Einstimmiger Beschluss
+- TOP 24: TOP 1102/IX, Sachstandsbericht zur beantragten Änderung der Betriebsgenehmigung des Flughafens Düsseldorf; hier: Beitritt zum Aktionsbündnis; - Mit Stimmenmehrheit abgelehnt
+- TOP 24.1: TOP 1102/IX, Sachstandsbericht zur beantragten Änderung der Betirebsgenehmigung des Flughafens Düsseldorf, hier: Aufnahme in die Fluglärmschutzkommission; - Einstimmiger Beschluss
+- TOP 24.2: TOP 1102/IX, Sachstandsbericht zur beantragten Änderung der Betriebsgenehmigung des Flughafens Düssledorf, hier: Frühzeitige Stellungnahme der Verwaltung gegen die Kapazitätserweiterung; - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Stellungnahme der Stadt Mönchengladbach zum Landesentwicklungsplan (LEP NRW); hier: Antrag der FDP-Ratsfraktion vom 29.10.2015 - Vom Antragsteller zurückgezogen
+- TOP 26: Vorlage unter TOP 5.1 behandelt
+- TOP 27: Umweltfreundlicher Umgang mit Elektroschrott - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Anfragen und Mitteilungen
+- TOP 28.1: Anfrage von Ratsherrn Gutowski, Die PiratenPARTEI
+- TOP 28.2: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen
+- TOP 28.3: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen
+- TOP 28.4: Anfrage von Ratsherrn Küpper, FDP - Zur Kenntnis genommen
