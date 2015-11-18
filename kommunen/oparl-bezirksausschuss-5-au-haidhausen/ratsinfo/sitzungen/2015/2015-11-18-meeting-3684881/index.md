@@ -1,0 +1,106 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-11-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3684881
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3684881
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Veränderung der Fahrbahnmarkierung Steinstraße/Rosenheimer Straße stadtauswärts, Antwortschreiben des KVR vom 09.11.2015 - <div>Antwort des KVR wurde zur Kenntnis genommen</div>
+- TOP .5.: Anträge
+- TOP .1.: Auer Mühlbach beleben und zugänglich machen - <div>abgelehnt</div>
+- TOP .2.: Haftung in den Maximiliansanlagen - <div>Weiterleitung an das Baureferat</div>
+- TOP .4.: Brunnenensemble am Bordeauxplatz instand setzen - <div>Zustimmung und Weiterleitung</div>
+- TOP .5.: Bücherschrank in der Au testen - <div>Zustimmung </div>
+- TOP .6.: Baumscheiben aus Epoxidharz und Splitt - <div>Zustimmung mit Ergänzungen</div>
+- TOP .7.: Quellenbunker 2 - <div>Zustimmung und Weiterleitung</div>
+- TOP .8.: Sanierung der Grundschule am Mariahilfplatz - <div>Zustimmung und Weiterleitung</div>
+- TOP .9.: Verkehrszeichen Tempo 30 in der Lilienstraße wiederholen - <div>Zustimmung und Weiterleitung</div>
+- TOP .10.: Kreuzungsfreier Radverkehr links der Isar - <div>Zustimmung und Weiterleitung</div>
+- TOP .11.: Radlständer an der Haltestelle Schwester-Eubulina-Platz - <div>Zustimmung und Weiterleitung</div>
+- TOP .12.: Verkehrssicherheit in der Franz-Prüller-Straße - <div>Zustimmung und Weiterleitung</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: Rückzug des Antrages auf Zuwendungen aus dem Budget des BA 5 für die Maßnahme: "Sommerpogramm für unbegleitete Minderjährige"; email des Direktoriums vom 29.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 - Genehmigung einer Freischankfläche in der Ohlmüllerstraße 7 - <div>nach Antrag</div>
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Regerplatz 2 - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechts bei Änderungen der Perspektive München (Leitbild) aller Referate; BA-Antrags-Nr. 14-20/ B 01264 des Bezirksausschusses des Stadtbezirks 20- Hadern vom 08.06.2015 - <div>Zustimmung Vorlage Direktorium</div>
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Undichtigkeiten am Dach des Bahnsteiges A am Ostbahnhof - <div>zur Kenntnis genommen</div>
+- TOP .2.: Fehlende Mittagsbetreuung an der Grundschule am Mariahilfplatz - <div>zur Kenntnis genommen; Vorsitzende wird nachhaken</div>
+- TOP .3.: Radfahrstreifen- / Radwegeinfädelungen sichern - <div>zur Kenntnis genommen</div>
+- TOP .4.: Falkenhaus auf dem Siloturm (Gelände Ohlmüller-/Falkenstraße) - <div>zur Kenntnis genommen</div>
+- TOP .5.: Nachbarschaftsarbeit in München stärken durch quartierbezogene Bewohnerarbeit; Zwischenmitteilung des Sozialreferates vom 26.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .6.: Gehwege und Radwege freihalten - <div>zur Kenntnis genommen</div>
+- TOP .7.: Grünflächen in Haidhausen schützen: Unterbindung von mehrtägigen, marktähnlichen oder kommerziellen Veranstaltung auf dem Bordeauxplatz, Johannisplatz und Weißenburger Platz - <div>zur Kenntnis genommen</div>
+- TOP .8.: Lichtsignalanlage oder Zebrastreifen an der Auerfeldstraße, Höhe Bushaltestelle Schwester-Eubulina-Platz
+- TOP .9.: Rücksichtnahme auf Bienen bei der Pflege von Grünanlagen - <div>zur Kenntnis genommen</div>
+- TOP .10.: Stadt-Biene stärken! Freigabe der Dächer von städtischen Gebäuden für das Halten von Bienen! - <div>zur Kenntnis genommen</div>
+- TOP .11.: Sachstand Bahngelände Ostbahnhof/Leuchtenbergring - <div>zur Kenntnis genommen</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019; Datenausdruck der Stadtkämmerei
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Dollmannstraße 5; Fällung 1 Robinie Schleibinger Straße 1; Fällung 1 Linde
+- TOP .1.: Einstein Kultur, Sondersitzung am 04.11.2015, Haidhausen Museum - <div>zur Kenntnis genommen</div>
+- TOP .1.: Bisheriges Verfahren und aktueller Sachstand bzgl. Spielplatznutzung Preysinggarten durch SteG (Stelle für Gemeinwesenmediation); Schreiben des Sozialreferates vom 05.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage; Sitzungsvorlage Nr. 14-20/ V 02432; Beschluss der Vollversammlung des Stadtrates vom 30.09.2015 (siehe auch UA GUV TOP 3.3/18.11.2015) - <div>zur Kenntnis genommen</div>
+- TOP .3.: Austausch zwischen Arbeitsgemeinschaft für Kinder und Jugendliche
+- TOP .1.: Verwendungsnachweise und Sachberichte - Evangelisches Hilfswerk München - Stadtpropheten GbR - Kulturlust e.V. - OBACHT!-Kultur im Quartier - AKA-Aktiv für Interkulturellen Austausch e.V. - <div>zur Kenntnis genommen</div>
+- TOP .2.: Unveränderte Fortführungen von Gaststättenbetrieben: - Schank- und Speisewirtschaft "Sushi 38", Innere Wiener Straße 38 - Schank- und Speisewirtschaft "Pi'matz", Kirchenstraße 62 - Schank- und Speisewirtschaft "Namaskar", Wolfgangstraße 19 - <div>zur Kenntnis genommen</div>
+- TOP .1.: Kirchenstraße 34, TEKTUR zu 1.2-2014-29396-21- DG-Ausbau VGB mit Erhöhung des Kniestocks und Änderung der Dachneigung
+- TOP .2.: Gravelottestraße 6-8, Umbau und Aufstockung eines Pflegeheims- VORBESCHEID
+- TOP .3.: Rosenheimer Straße 103, Umbau und Nutzungsänderung im EG: Einzelhandel zu Gastwirtschaft und Wettannahmestelle
+- TOP .4.: Metzgerstraße 4, DG-Ausbau zu einer Wohnung mit Galerie
+- TOP .5.: Hochstraße 9, Neubau eines Hotels (67 Zimmer) mit Tiefgarage (18Stpl.)- (TOP 2.10 vom 21.10.2015 vertagt)
+- TOP .6.: Wörthstraße 27; Umbau und Sanierung - VGB: Anbau 2er Balkonanlagen u. e. Außenaufzugs mit Erhöhung Treppenhaus u. Aufbau e. Dachterrasse, DG-Ausbau (Whg.m. Galerie) u. Grundrissänderung Bestandswohnungen; RGB: Anbau 3er Balkonanlagen u. e. 2-geschossiogen Anbaus im Gartenbereich, Nutzungsänderungen e. Büroeinheit im EG in e. Whg. u.e. Nebenraums im EG in e. kl. Appartment, Grundrissänderung u. teilw. Zusammenlegung d. Bestandswohnungen sowie DG-Ausbau zu 2 WE; Anhörung der LBK vom 29.10.2015
+- TOP .1.: Baugenehmigung zum Vorhaben Einsteinstraße 110, Schreiben der LBK vom 12.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Schulbauoffensive 2013/2030, Aktionsprogramm Schul- und Kita-Bau, Fortführung des Pavillonbauprogrammes für 2016 aufzustellende Pavillonanlagen; hier: Schulstandort Ernst-Reuter-Straße 4, Planungen zur Situierung der Schulpavillonalage; Schreiben des RBS vom 07.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .3.: Neuordnung der Bauberatung, Evaluation der Probephase 01.11.2011 bis 01.12.2012 und der Organisationsprüfung Bauberatung (August 2013 bis Mai 2014); Kontinuierlicher Verbesserungsprozess bis heute, Sitzungsvorlage Nr. 14-20/ V 03401; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 - <div>zur Kenntnis genommen</div>
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Definition von Minimalstandards bei der Bürgerbeteiligung in der Bauleitplanung (Ziffer 4 des Antrages); Empfehlung Nr. 14-20/ E 00361 der Bürgerversammlung des Stadtbezirkes 05- Au-Haidhausen (Bezirksteil Haidhausen) am 05.03.2015; Sitzungsvorlagen Nr. 14-20/ V 03846; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP .6.: 44.städtischer Fassadenwettbewerb; 1. Fassadenpreis und Lobende Erwähnungen 2015 2. Erweiterung des Fassadenwettbewerbs auf alle denkmalgeschützten Bauten nach 1960; Sitzungsvorlagen Nr. 14-20/ V 04447; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (SB)
+- TOP .7.: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" A) Bekanntgabe des Konzeptgutachtens B) Vorbereitung der Öffentlichkeitsbeteiligung C) Behandlung des Antrags Nr. 14-20/ A 00044 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 06.06.2014 "Gründung einer Kommission für Grünflächen und Naturschutz"; Sitzungsvorlagen Nr. 14-20/ V 04142; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP .1.: Unterquerung Maximiliansbrücke (TOP 5.3 vom 21.10.2015 vertagt) - <div>Zustimmung mit Ergänzungen</div>
+- TOP .2.: Absolutes Haltverbot in der Sieboldstraße vor der Einmündung Barnabasstraße - <div>Zustimmung und Weiterleitung</div>
+- TOP .3.: Unfallgefahr auf dem steilen Streckenabschnitt am Fußgänger- und Radweg beim Maximilianeum verringern - <div>Zustimmung mit Ergänzungen</div>
+- TOP .1.: CarSharing in München, Ergebnisse der Evaluation des Pilotversuchs 2011-2015, Stadtratsbeschluss (Entwurf) für den Kreisverwaltungsausschuss vom 15.12.2015; Anhörung der Beziksausschsüsse - <div>Zustimmung zur Vorlage</div>
+- TOP .2.: ÖPNV-Offensive IV- Falkenstraße, Haltestelle Kolumbusplatz (Nord)
+- TOP .3.: Einbau von Gehwegnasen in der Eggernstraße, BV-Empfehlung Nr. 14-20/ E 00353 der Bürgerversammlung vom 05.03.2015 - <div>Zustimmung</div>
+- TOP .4.: Ampel Boosstraße/Eduard-Schmid-Straße (Tempo 30); Bitte um Zustimmung des Kreisverwaltungsreferates vom 28.10.2015 - <div>Zustimmung</div>
+- TOP .1.: Rosenheimer Straße: Verkehrserhebung und Emmissionsmessung (für Lärm, NOx und Feinstaub); Verlässliche Prognosewerte bei Tempo 50 km/h sowie Tempo 30 km/h (TOP 8.1.2 vom 21.10.2015 vertagt) - <div>zur Kenntnis genommen</div>
+- TOP .2.: Sommerstraße 25/25A; Feuerwehrzufahrt; verkehrsrechtliche Anordnung vom KVR - <div>zur Kenntnis genommen</div>
+- TOP .3.: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030- Stufe II- Finanzierungsbeteiligung, Sitzungsvorlagen Nr. 14-20/ V 03847, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP .4.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen im 5. Stadtbezirk durch das Baureferat- Gartenbau
+- TOP .5.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage, Sitzungsvorlage Nr. 14-20/ V 02432; Beschluss der Vollversammlung des Stadtrates vom 30.09.2015 (siehe auch TOP 3.2 UA Soziales) - <div>zur Kenntnis genommen</div>
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .3.: Nächste BA-Sitzung
+- TOP .4.: Sonstige Termine
+- TOP .3.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB- Anfrage zur Sitzungsvorlage Nr. 14-20/ V 02840 - <div>Weiterleitung an das RAW</div>
+- TOP .13.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Belästigungen von Kindern auf dem Schulweg
+- TOP .14.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Schaffung von größeren Flächen zum Spielen und Erholen im Rahmen der Neuanpflanzung im Frühjahr 2016 - <div>zurückgezogen, neue Behandlung in 12/2015</div>
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
