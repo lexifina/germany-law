@@ -1,0 +1,7 @@
+# TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: BA 05 - Vollgremium (2015-11-18)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/417824
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
