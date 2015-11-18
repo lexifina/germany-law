@@ -1,0 +1,51 @@
+# 5. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2015-11-18T10:10:00+01:00
+- Ende: 2015-11-18T12:20:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2015-PA-29
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2015-PA-29
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 04. Sitzung des Planungsausschusses vom 26.08.2015
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten je Maßnahme: Priorisierung der Maßnahmen für das Jahr 2016
+- TOP 2.2: Programm Radwegebau an bestehenden Landesstraßen: Priorisierung der Maßnahmen für das Jahr 2016
+- TOP 2.3: Neuaufstellung des ÖPNV-Bedarfsplan NRW 2017 hier: Anmeldung von Projektvorschläge zur fachlichen Bewertung
+- TOP 2.4: Aufstellung des Landesentwicklungsplans NRW – Beteiligung der öffentlichen Stellen
+- TOP 2.5: Windenergie-Erlass NRW vom 4.11.2015
+- TOP 2.6: Anträge
+- TOP 2.7: Anfragen und Mitteilungen
+- TOP 2.7.1: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 3: Regionaler Diskurs / Regionalplan Ruhr
+- TOP 3.1: Regionale Kooperationsstandorte
+- TOP 3.2: Anfragen und Mitteilungen
+- TOP 3.2.1: Mündliche Informationen zur bevorstehenden Sondersitzung am 20.01.2016
+- TOP 3.2.2: Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr Hier: Mündliche Informationen zum aktuellen Sachstand
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Haushalt 2016 - Haushalt 2016 für den Bereich Planung
+- TOP 4.2: Geonetzwerk.metropoleRuhr Vorstellung Zwischenbericht Evaluation
+- TOP 4.3: Referat Europäische und regionale Netzwerke Ruhr - Statusbericht Konzept Ruhr & Wandel als Chance 2014 / 2015 Metropole Ruhr 2020 – intelligent, nachhaltig, integrativ
+- TOP 4.4: Dritter Regionaler Wohnungsmarktbericht
+- TOP 4.5: Stellungnahmen des RVR als Träger öffentlicher Belange zu drei konkurrierenden Anträgen auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen zu gewerblichen Zwecken im Raum Dorsten und Haltern am See Hier: 1. Antrag der Mingas Power GmbH für ein Feld 'Hohemark-Gas' 2. Antrag der Dart Energy (Europe) Limited für ein Feld 'Freiheit 1' 3. Antrag der PVG GmbH - Ressources Services & Management für ein Feld 'HalternGas Nord'
+- TOP 4.6: Fahrradverleihsystem metropolradruhr Hier: Sachstandsbericht
+- TOP 4.7: Einrichtung eines Notfall-Informationssystems für das Radwegenetz Ruhr
+- TOP 4.8: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben 'ABS 46/2 Dreigleisiger Ausbau der Strecke D/NL-Emmerich-Oberhausen und Bahnübergangsbeseitigungen, Planfeststellungsabschnitt (PFA) 1.1 Oberhausen' Hier: Planfeststellungsbeschluss vom 24.09.2015
+- TOP 4.9: Planfeststellungsverfahren nach § 18 AEG für den dreigleisigen Ausbau der Strecke 'ABS 46/2, Grenze D/NL-Emmerich-Oberhausen' Planfeststellungsabschnitt (PFA) 1.3 Dinslaken Hier: Erörterungstermin am 25.11.2015
+- TOP 4.10: Planfeststellungsverfahren nach § 18 AEG für den dreigleisigen Ausbau der Strecke 'ABS 46/2, Grenze D/NL-Emmerich-Oberhausen' Planfeststellungsabschnitt (PFA) 1.4 Voerde Hier: Erörterungstermin am 18.11.2015
+- TOP 4.11: Planfeststellung für den sechsstreifigen Ausbau der A 43 AS Bochum–Riemke bis zum Rhein-Herne-Kanal von Bau – km 28 + 160 bis Bau – km 32 + 360 Hier: Einladung zum Erörterungstermin und Sechsstreifiger Ausbau der A 43 auf dem Stadtgebiet von Bochum von der Stadtgrenze Herne / Bochum bis südlich des Autobahnkreuzes Bochum (A 43 / A 40) Hier: Einladung zum Öffentlichkeitsbeteiligungstermin
+- TOP 4.12: Anträge
+- TOP 4.13: Anfragen und Mitteilungen
+- TOP 4.13.1: Radschnellweg Ruhr 1 (RS1) Hier: Mündlicher Bericht über den Workshop vom 03.11.2015
+- TOP 4.13.2: Bericht über laufende Verfahren - RVR als Träger öffentlicher Belange
+- TOP 4.13.3: Koordinierungsstelle Rhein-Ruhr des Zukunftsnetzes NRW beim VRR Hier: Fachgruppe kommunale Mobilitätskonzepte am 01.12.2015
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
