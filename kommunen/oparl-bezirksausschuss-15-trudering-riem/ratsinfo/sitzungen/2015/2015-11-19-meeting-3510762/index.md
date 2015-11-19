@@ -1,0 +1,89 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-11-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510762
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510762
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.1.: TOP 7.1.6 Veranstaltung in einer städtischen Grünanlage Riemer Park, Kindergarten- und Hort-Fest "Lucia-Fest" am 26.11.2015 - <div>Zustimmung</div>
+- TOP 1.2.: TOP 7.4.12 Lehrer-Götz-Weg 20, Fl.Nr.: 46/4: Neubau eines Dreispänners mit Walmdach und Keller - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 1.3.: TOP 8.2.24 Dresselstraße 21a - <div>s. UA Protokoll</div>
+- TOP 1.4.: TOP 10.2.2 Kein Aufheben des LKW-Transitverbots - <div>zur Kenntnis genommen</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Bayerisches Rotes Kreuz, Kreisverband München-Wasserwacht, Ortsgruppe Riem Beschaffung von zwei E-Bikes - <div>nach Antrag; der Antragsteller wird gebeten weitere kostengünstige Angebote einzuholen</div>
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Kindergarten Spatzennest e. V. Austausch von Regalen und Schränken - <div>nach Antrag</div>
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Einrichtung einer Kurzparkzone in der Kreillerstraße - <div>Weiterleitung KVR, Hinweis auf Garagenstellplätze durch Geschäfte</div>
+- TOP 3.3.: Stolzhofstraße - Parksituation - <div>Vertagung, bis ein Ortstermin durchgeführt wurde</div>
+- TOP 3.4.: Karpfenweg - Beleuchtung des parallelen Fußweges in Richtung Kreillerstraße - <div>Weiterleitung BauR</div>
+- TOP 3.5.: Emplstraße - Durchgangsverkehr - <div>Weiterleitung KVR</div>
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Schwimmhalle in Riem - eine Alternative - <div>Weiterleitung an PlanR</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Lärmschutzmaßnahmen an Glascontainern Friedenspromenade / Ecke Felicitas-Füss-Straße - <div>zur Kenntnis genommen</div>
+- TOP 5.2.: Weitere Sicherheitsmaßnahmen für den Riemer See prüfen - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Zehn Jahre nach der BUGA: Riemer See vor Ort erläutern - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Verbesserung der Verkehrssicherheit in der Bajuwarenstraße - Fußgängerampel Ecke Bajuwaren- / Matterhornstraße - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Neues Bildungszentrum für die Münchner VHS im alten Truderinger Rathaus - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Autohändler an der Heinrich Wieland Straße - <div>zur Kenntnis genommen</div>
+- TOP 5.7.: Schulhofnutzung für Kinder und Jugendliche außerhalb der Schulzeiten - <div>zur Kenntnis genommen</div>
+- TOP 5.8.: Wiedereröffnung der blauen Sportplätze in der Messestadt Riem - <div>zur Kenntnis genommen</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate BA-Antrags-Nr. 14-20 / B 01264 des Bezirksausschusses des Stadtbezirks 20 - Hadern vom 08.06.2015 Anhörungsschreiben - <div>nach Antrag</div>
+- TOP 7.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Bezirksausschuss-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 16.04.2015 - <div>nach Antrag</div>
+- TOP 7.4.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien BA-Antrags-Nr. 14-20 / B 01204 des Bezirksausschusses des Stadtbezirkes 17 - Obergiesing-Fasanengarten vom 12.05.2015 - <div>nach Antrag</div>
+- TOP 7.5.: Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes - <div>Vertagung in die nächste Sitzung</div>
+- TOP 7.1.: Bauleitplanung der Gemeinde Aschheim Bebauungsplan Nr. 075/01 "Teiländerung des B-Plan Nr. 075 Gewerbegebiet Dornach östlich der Erdinger Landstraße - Einschränkung der Nutzungsart" Verfahren nach §13 Abs.2 Nr. 3, § 4 Abs. 1 BauGB - <div>zur Kenntnis genommen</div>
+- TOP 7.1.: Von-Erckert-Str. 47, Fl.Nr.: 464/25: Neubau eines Doppelhauses (3 WE) mit Doppelparker und Carport - hier: Haus 1 (2 WE) - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.2.: Von-Erckert-Str. 47, Fl.Nr.: 464/25: Neubau eines Doppelhauses (3 WE) mit Doppelparker und Carport - hier: Haus 2 (1 WE) - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.3.: Salzmesserstraße 26, Fl.Nr,: 159/24: Abbruch und Neuerrichtung eines Einfamilienhauses mit Garage - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.4.: Leonhardiweg 34, Fl.Nr.: 163/73 TEKTUR zu 1.2-2015-15845-32 - Neubau eines Wohnhauses mit Tiefgarage - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.5.: Tsingtauer Straße 80, Fl.Nr.: 498/9 - Neubau von Wohnhäusern mit Garagen - VORBESCHEID - <div>Zustimmung zu Variante 2A, Ablehnung der Variante 1A</div>
+- TOP 7.6.: Gerstäckerstraße 45, Fl.Nr.: 2254/49 - Neubau eines Mehrfamilienhauses (5WE) mit Tiefgarage - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.7.: Elritzenstraße 15, Fl.Nr.: 341/5 - Neubau eines Einfamilienhauses im Passivhaus-Standard mit Doppelgarage - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.8.: Spieljochstraße 7 - 7a, Fl.Nr.: 360/29 TEKTUR zu 1.2-2015-14077-32 / Neubau von drei Mehrfamilienhäusern mit TG (Spieljochstraße 7, 7a / Vorderrißstr. 13) - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.9.: Schneebergstraße 24 - 26, Fl.Nr.: 794/3 TEKTUR zu 1.2-2015-15807-32 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.10.: Von-Gravenreuth-Str. 18, Fl.Nr.: 508/11 Neubau eines Mehrfamilienhauses (8WE) mit Tiefgarage (9Stpl.) - TEKTUR zu 1.2-2014-21120-32 (jetzt: 7 WE) - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.11.: Vogesenstraße 46d, Fl.Nr.: 654/0: Neubau zweier Wohngebäude (je 3 WE) mit Tiefgarage (6 Stpl.) - TEKTUR zu 1.2-2014-20672-32 - jetzt: Neubau eines Wohngebäudes (3 WE) und eines Doppelhauses sowie Errichtung einer Tiefgarage (8 Stpl.) - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Wachtelweg 24 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: Bahnstraße 10 Bajuwarenstraße 131 Bistritzer Weg 8 Dresselstraße 6 Elritzenstraße 10 Grasdorferweg 3 Großfriedrichsburger Straße 13 Heilwigstraße 2a Heilwigstraße 37 Heilwigstraße 51 In der Heuluss 29 Klothildenstraße 7a Kreuzerweg 38 Plumserjochstraße 18 Rofanstraße 29 Samoastraße 5 Samoastraße 10 Stahlgruberring 28 Tangastraße 54 Von-Erckert-Platz 19 Von-Erckert-Straße 31a Wasserburger Landstraße 244 - <div>Zustimmung zum Votum des UA, auf das UA Protokoll wird verwiesen</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Stadteigenes Grundstück Fl.St. 1408/281 Tlfl., Gemarkung Trudering-Riem an der Paul-Wassermann-Straße / Am Hüllgraben 15.Stadtbezirk Verkauf von Christbäumen - Antrag wurde zurückgezogen - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Kurzbericht zur geförderten Kabarettvorstellung mit Björn Pfeffermann - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen Sitzungsvorlagen Nr. 14-20 / V 03651 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II - Finanzierungsbeteiligung Sitzungsvorlagen Nr. 14-20 / V 03847 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Mitteilung über ein Grundstücksgeschäft Verkauf stadteigene Fläche Flst. 1408/361 (alt=1408/316) Trudering, 15. Stadtbezirk, Flughafen-Riem-Str. - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Mitteilung über ein Grundstücksgeschäft Verkauf stadteigene Fläche Flst. 1408/304 + (1408/364 bis 1408/385) Trudering, 15. Stadtbezirk, Flughafen-Riem-Str. - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Mitteilung über ein Grundstücksgeschäft Verkauf stadteigene Fläche Flst. 1408/360 (=1408/304 alt) Trudering, 15. Stadtbezirk, Flughafen-Riem-Str. - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Achenseeplatz 3 Gartenstadtstraße 46 Von-Erckert-Straße 28 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.: Neuordnung der Bauberatung Evaluation der Probephase 01.11.2011 bis 01.12.2012 und der Organisationsprüfung Bauberatung (August 2013 bis Mai 2014); Kontinuierlicher Verbesserungsprozess bis heute Sitzungsvorlagen Nr. 14-20 / V 03401 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" A) Bekanntgabe des Konzeptgutachtens B) Vorbereitung der Öffentlichkeitsbeteiligung C) Behandlung des Antrags Nr. 14-20/A 00044 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 06.06.2014 "Gründung einer Kommission für Grünflächen und Naturschutz" Sitzungsvorlagen Nr. 14-20 / V 04142 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage Sitzungsvorlage Nr. 14-20 / V 02432 Beschluss der Vollversammlung des Stadtrates vom 30.09.2015 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Dollwiesenweg / Birthälmerstraße - Verkehrssituation - <div>Weiterleitung an die Polizei, Wiedervorlage Januarsitzung</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
