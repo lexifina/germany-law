@@ -1,0 +1,8 @@
+# TOP 8: Richtlinien nach § 70 Abs. 3 der Gewerbeordnung
+
+- Sitzung: Haupt-, Finanz- und Demografieausschuss (2015-11-19)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/119907
+- Ergebnis: einstimmig
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/13546
