@@ -1,0 +1,59 @@
+# Gemeinderat (14. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2015-11-19T18:00:00+01:00
+- Ende: 2015-11-19T21:55:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdfLVAg8wjLtSxPtKAqyb_M
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1502
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUqEkKmp6hQIDhzjcklqEwy-u-40F57WzIiCBfLFw-w-/Bekanntmachung_Gemeinderat_19.11.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZckgwlzjB0tJ6PlKsPSI63_Y9RucPsX32GdqJG55SOr1/Oeffentliche_Niederschrift_Gemeinderat_19.11.2015.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Verabschiedung des ausgeschiedenen Ratsherrn Franz Fiedler
+- TOP 2.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 3.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 01.10.2015 -öffentlicher Teil-
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: 1. 44. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2. Bebauungsplan 65 A - WK V - a.) 1. Nachtrag zum städtebaulichen Vertrag vom 10.04.2014 und 02.06.2014 b.) erneute Beschlussfassung über die Aufstellung zu 1. und 2. gemäß § 2 Abs. 1 BauGB c.) erneute Beschlussfassung über die frühzeitige Beteiligung zu 1. und 2. gemäß § 3 Abs. 1 BauGB und über die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 1 BauGB
+- TOP 4.1.1: 1. 44. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2. Bebauungsplan 65 A - WK V - Abschluss eines städtebaulichen Vertrags mit der juwi Energieprojekte GmbH und der REA GmbH Management - 23 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 4.2: 45. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB c.) Beschluss über die frühzeitige Beteiligung gemäß § 3 Abs. 1 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: 26. Änderung des Bebauungsplans 15 A - Neu Pattern - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss
+- TOP 4.3.1: 26. Änderung des Bebauungsplans 15 A - Neu Pattern - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 4.4: Deutschordenskommende Siersdorf - Fortschreibung des Denkmaleintrages - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Neubesetzung von Ausschüssen
+- TOP 5.1: Erweiterung des Schul- und Sozialausschusses hier: Vertreter des Jugendrates - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Beteiligungsbericht für das Jahr 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Feststellung des Gesamtabschlusses für das Haushaltsjahr 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Außerplanmäßige Bereitstellung von Haushaltsmitteln für investive Maßnahmen in Freialdenhoven, Alte Schule; Siersdorf, Johannesschule; Schleiden, Turnhalle. - 21 Ja-Stimme(n), 3 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 6.4: Einbringung des Haushaltsentwurf 2016 und der Fortschreibung des Sanierungsplans
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: Friedhofssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Gebührenkalkulation für die Gewässerunterhaltungsgebühr - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Ressourceneffiziente Sanierung des Rathauses; Machbarkeitsstudie - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Anträge von Fraktionen
+- TOP 9.1: Antrag der CDU-Fraktion bzgl. der Erstattung der Flüchtlingskosten - 15 Ja-Stimme(n), 8 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Ausführung des Haushalts
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 01.10.2015 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Anschaffung eines Bauhofprogramms - 14 Ja-Stimme(n), 9 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Berichte aus den Gremien
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Erwerb eines LKW`s Mercedes Benz 1833 KK Blatt Axor für den Bauhof - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Beförderung eines Beamten - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Finanzierungsübersicht Erschließung & Vermarktung gemeindlicher Grundstücke - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Grundstücksangelegenheiten
+- TOP 7.1: Verkauf eines gemeindlichen Grundstücks - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
