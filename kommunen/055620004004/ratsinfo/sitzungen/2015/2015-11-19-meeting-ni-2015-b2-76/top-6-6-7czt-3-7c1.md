@@ -1,0 +1,7 @@
+# TOP 6: Bericht der Verwaltung zur Verwendung der 'Belastungspauschale Inklusion / Förderkorb 1 und 2'
+
+- Sitzung: 93. Sitzung des Betriebsausschusses 2 (Familie, Jugend, Soziales und Bildung) (2015-11-19)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2015-B2-76%7Czt_3%7C1
+- Beschluss (Datei): Beschluss - Top 6 https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2015-B2-76%7Czt_3%7C1
