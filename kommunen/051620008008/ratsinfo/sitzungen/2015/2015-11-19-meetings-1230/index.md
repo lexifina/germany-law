@@ -1,0 +1,94 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-11-19T09:10:00+01:00
+- Ende: 2015-11-19T14:52:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1230
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1230
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bestellung Schriftführer - einstimmig
+- TOP 3: Bürgeranträge
+- TOP 3.1: Bürgerantrag nach § 24 GO, Sascha Steins, Antrag 220/15 - einstimmig
+- TOP 3.2: die republikaner, antrag nr 254/15 - einstimmig
+- TOP 3.3: Bürgerantrag Vergnügungssteuer für Flipperautomaten in einem geplanten Flippermuseum - einstimmig
+- TOP 4: Schriftliche Anträge
+- TOP 4.1: CDU
+- TOP 4.1.1: CDU, Antrag Nr. 275/2015 - einstimmig
+- TOP 4.1.2: CDU, Antrag Nr. 276/2015 - einstimmig
+- TOP 4.1.3: CDU, Antrag Nr. 278/2015 - einstimmig
+- TOP 4.1.4: CDU, Antrag Nr. 279/2015 - einstimmig
+- TOP 4.1.5: CDU, Antrag Nr. 280/2015 - einstimmig
+- TOP 4.2: UWG
+- TOP 4.3: FDP
+- TOP 4.3.1: FDP, Antrag Nr. 240/15 - einstimmig
+- TOP 4.3.2: FDP, Antrag Nr. 263/2015 - einstimmig
+- TOP 4.3.3: FDP, Antrag Nr. 266/2015 - mehrheitlich bei
+- TOP 4.3.4: FDP, Antrag Nr. 269/2015 - einstimmig
+- TOP 4.3.5: FDP, Antrag Nr. 262/2015 - einstimmig
+- TOP 4.3.6: FDP, Antrag Nr. 264/2015 - einstimmig
+- TOP 4.3.7: FDP, Antrag Nr. 265/2015 - einstimmig
+- TOP 4.3.8: FDP, Antrag Nr. 270/2015 - einstimmig
+- TOP 4.3.9: FDP, Antrag Nr. 271/2015 - einstimmig
+- TOP 4.3.10: FDP, Antrag Nr. 272/2015 - einstimmig
+- TOP 4.3.11: FDP, Antrag Nr. 273/2015 - einstimmig
+- TOP 4.3.12: B90, Antrag Nr. 283/2015 - einstimmig
+- TOP 4.3.13: B90, Antrag Nr. 284/2015 - einstimmig
+- TOP 4.4: B 90/Grüne
+- TOP 4.5: ABG
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.6.1: Mein Grevenbroich, Antrag Nr. 300/2015 - mehrheitlich bei
+- TOP 4.6.2: Mein Grevenbroich, Antrag Nr. 301/2015 - mehrheitlich bei
+- TOP 4.6.3: Mein Grevenbroich, Antrag Nr. 302/2015 - mehrheitlich bei
+- TOP 4.6.4: Mein Grevenbroich, Antrag Nr. 304/2015 - einstimmig
+- TOP 4.6.5: Mein Grevenbroich, Antrag Nr. 305/2015 - einstimmig
+- TOP 4.6.6: Mein Grevenbroich, Antrag Nr. 306/2015 - Kenntnisnahme
+- TOP 4.6.7: SPD, Antrag Nr. 293/2015 - einstimmig
+- TOP 4.7: SPD
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.9: Gemeinsamer Antrag der Fraktionen ABG, FDP und "Mein Grevenbroich" - vertagt
+- TOP 4.9.1: Reduzierung der Anzahl der Beigeordneten sowie Besetzung des technischen Beigeordneten - Kenntnisnahme
+- TOP 5: Schriftliche Anfragen
+- TOP 6: Schriftliche Anträge/Anfragen sortiert nach Produkten
+- TOP 6.1: Produkt 01061 - Verwaltungsservice - einstimmig
+- TOP 6.2: Produkt 01091 - Beteiligungsmanagement - mehrheitlich bei
+- TOP 6.3: Produkt 01101 - Organisationsberatung und -unterstützung - Kenntnisnahme
+- TOP 6.4: Produkt 01122 - Bereitstellung von städt. genutzten Gebäuden und Liegenschaften - Kenntnisnahme
+- TOP 6.5: Produkt 02101 - Gefahrenabwehr - vertagt
+- TOP 6.6: SPD, Antrag Nr. 148/15 - Kenntnisnahme
+- TOP 6.7: Produkt 04011 - Kulturelle Veranstaltungen - mehrheitlich bei
+- TOP 6.8: Produkt 04051 - Stadtbücherei - mehrheitlich bei
+- TOP 6.9: Produkt 06022 - Hilfe zur Erziehung Minderjähriger - einstimmig
+- TOP 6.10: Produkt 05031 - Leistungen für Asylbewerber - Kenntnisnahme
+- TOP 6.11: Produkt 08021 - Sportstätten - vertagt
+- TOP 6.12: Produkt 12011 - Straßen, Wege, Plätze - Kenntnisnahme
+- TOP 6.13: Produkt 12012 - Parkeinrichtungen - Kenntnisnahme
+- TOP 6.14: Produkt 12031 - Verkehrsplanung - einstimmig
+- TOP 6.15: Produkt 16011 - Steuern, allgemeine Zuweisungen und Umlagen - mehrheitlich bei
+- TOP 6.16: alle Produkte betreffend - einstimmig
+- TOP 7: Haushalt 2016
+- TOP 7.1: Erhöhung Hebesatz Grundsteuer B - mehrheitlich bei
+- TOP 7.2: Haushalt 2016 - einstimmig
+- TOP 8: Richtlinien nach § 70 Abs. 3 der Gewerbeordnung - einstimmig
+- TOP 9: Ordnungsbehörd. VO über die zusätzliche Zul. von Waren des täglichen Bedarfs auf Wochenmärkten - einstimmig
+- TOP 10: Dringlichkeitsentscheidungen
+- TOP 11: Finanzen
+- TOP 11.1: Neukonzeptionierung Forderungsmanagement - einstimmig
+- TOP 12: Feuerschutz
+- TOP 13: Soziales
+- TOP 14: Arbeitskreis Demografie
+- TOP 15: Beantwortung von Anträgen
+- TOP 15.1: Mobile Payment in Grevenbroich einführen - einstimmig
+- TOP 15.2: Antrag der SPD-Fraktion "Bürgerdienste in den Stadtteilen" (Antrag Nr. 318/14) - einstimmig
+- TOP 15.3: SPD, Antrag Nr. 103/15 - mehrheitlich bei
+- TOP 16: Beantwortung Anfragen
+- TOP 16.1: Beantwortung mündlicher Anfragen - einstimmig
+- TOP 16.2: Anfrage Citymanagement (Anfrage Nr. 139/15) - einstimmig
+- TOP 17: Mündliche Anträge/Anfragen
+- TOP 18: Mitteilungen BM
