@@ -1,0 +1,62 @@
+# 18. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-11-19T16:00:00+01:00
+- Ende: 2015-11-19T21:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4151
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4151
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2015_11_19 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00229618.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Einwohnerfragestunde
+- TOP 3.1: Gedenkstätte auf dem Altmarkt - erledigt
+- TOP 3.2: Wohngebiet Großer Garten - erledigt
+- TOP 3.3: Verkehrsberuhigung/-beschränkung Dorfkern Loschwitz - erledigt
+- TOP 3.4: Geplante Sanierung des Körnerweges zwischen Heilstättenweg und Körnerweg Haus 20 - erledigt
+- TOP 3.5: Sporthalle Thäterstraße - Nutzung durch SV Dresden-Neustadt 1950 e. V. - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 4.1: Kleingartenbeirat - zurückgezogen
+- TOP 5: Vertreter der WOBA DRESDEN GMBH im Beirat Wohnen/Wohnbeirat - Zustimmung
+- TOP 6: Umbesetzungen Ortsbeiräte
+- TOP 6.1: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 6.2: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 6.3: Nachbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 6.4: Umbesetzung im Ortsbeirat Loschwitz - Zustimmung
+- TOP 7: Neubesetzung (Vorsitzender) des Umlegungsausschusses - Zustimmung
+- TOP 8: Vertretung der Landeshauptstadt Dresden in der Verbandsversammlung des Kommunalen Sozialverbandes Sachsen (KSV) - Zustimmung
+- TOP 9: Wahl von Friedensrichterinnen und Friedensrichtern sowie Protokollführerinnen und Protokollführern für die Schiedsstellen der Landeshauptstadt Dresden - punktweise Abstimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Vertagungen der Stadtratssitzung 24. September 2015
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Vertagungen der Stadtratssitzung 29. Oktober 2015
+- TOP 12.1: Kinderbetreuung gut bezahlen: Eltern bei Mehraufwendungen für Ersatzbetreuung entlasten - Vertagung
+- TOP 12.2: Satzung der Landeshauptstadt Dresden zur Nutzung öffentlicher Flächen für Jahr- und Spezialmärkte (Jahr- und Spezialmarktsatzung) - Zustimmung mit Änderung
+- TOP 13: Fortschreibung des Lokalen Handlungsprogramms für Toleranz und Demokratie und gegen Extremismus (LHP Toleranz) über 2015 hinaus - Zustimmung mit Änderung
+- TOP 14: Vorgezogene Gründung des Gymnasiums Dresden-Pieschen sowie der 145. Oberschule - Zustimmung mit Änderung
+- TOP 15: Förderantrag der Landeshauptstadt Dresden im bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" - Zustimmung mit Änderung
+- TOP 16: Wirtschaftsplanung 2016 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 17: Wirtschaftsplanung 2016 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 18: Wirtschaftsplanung 2016 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 19: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2015, 2016 und 2017 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 20: Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Fachförderrichtlinie der Ortsämter) - Zustimmung mit Ergänzung
+- TOP 21: Errichtung eines Wohnheims für besondere Bedarfsgruppen als öffentliche Einrichtung im Objekt „Försterlingstraße 20“ in 01259 Dresden - Zustimmung mit Änderung
+- TOP 22: Überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben nach dem Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe im Bereich der erzieherischen Hilfen - Zustimmung mit Änderung
+- TOP 23: Fortschreibung des Aktionsplanes: Gesundes und aktives Altern in Dresden auf Basis des Aktionsprogrammes "Gesundes und aktives Altern" von 2008 - Zustimmung mit Änderung
+- TOP 24: Erhöhung der Mobilität für Dresden-Pass-Inhabende durch Erhöhung der Ermäßigung des Sozialtickets im Rahmen des Dresden-Pass-Leistungsumfanges - Zustimmung mit Änderung
+- TOP 25: Integriertes Quartierskonzept für die Gartenstadt Hellerau - Vertagung
+- TOP 26: Vorhabenbezogener Bebauungsplan Nr. 693, Dresden-Großzschachwitz, Geschäfts- und Parkhaus Pirnaer Landstraße - Zustimmung
+- TOP 27: Satzung über eine städtebauliche Sanierungsmaßnahme Langebrück "Ortsmitte" nach §§ 136 ff. BauGB - Vertagung
+- TOP 28: Neuausschreibung touristische Dienstleistungen Kulturpalast - Zustimmung mit Änderung
+- TOP 29: Leistungsfähige Strukturen des Vormundschaftswesens erhalten - Zustimmung mit Änderung
+- TOP 30: Gestaltungssatzung einführen - Vertagung
+- TOP 31: Erhaltungssatzung einführen - Vertagung
+- TOP 32: Verzicht auf Nachtabschaltung der Straßenbeleuchtung in Dresden
+- TOP 32.1: Verzicht auf Nachtabschaltung der Straßenbeleuchtung in Dresden - Ersetzung
+- TOP 33: Bindung des Stimmverhaltens der Vertreter der Verbandsversammlung des Zweckverbandes Verkehrsbund Oberelbe am 1. Dezember 2015 - Zustimmung
