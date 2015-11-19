@@ -1,0 +1,92 @@
+# 50. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-11-19T17:00:00+01:00
+- Ende: 2015-11-19T19:20:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3386
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3386
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=122927
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Zusätzliche Ampel für die Gehrenseestraße? - beantwortet
+- TOP 8.2: Elektrofahrzeuge als Dienstwagen - beantwortet
+- TOP 8.3: Rückstellungen von der Schulpflicht - in Lichtenberg besonders häufig! - vertagt
+- TOP 8.4: Perspektive des ehemaligen Stadtteilzentrums Hohenschönhausen-Süd "Kiezclub Magnet" - beantwortet
+- TOP 8.5: Gewächshäuser in der Gotlindestraße - vertagt
+- TOP 8.6: Regierungserklärung von Michael Müller am 12.11.2015 und Auswirkung auf die Bezirke - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Rederecht in den Ausschüssen für den Beirat für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Inklusive Abenteuerspielplätze für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Transparente Informationen über die Pflege von Baumscheiben - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Bewegt ins hohe Alter - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Lichtenberger Netzwerk für Alleinerziehende schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Rattenbekämpfung am Anton-Saefkow-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Gärtnerische Pflege von landeseigenen Friedhöfen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Bezirkliche Kulturarbeit für die Zukunft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Kulturelle Ziele für Schulwandertage - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Nachweisung der im Haushaltsjahr 2015 bis zum 30.06.2015 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Verkehrskonzept für die Straßenkreuzung Hohenschönhausener Straße/Weißenseer Weg erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Tag der Freiwilligen Feuerwehr in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Sprachkurse für Flüchtlingshelfer - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Benennung von vier Privatstraßen im entstehenden ArendsCarrèe - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Finanzierung der Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Errichtung eines Fußgängerüberweges mit abgesenkter Bordsteinkante - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Gedenkorte nicht verschwinden lassen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: App "Gesundes Lichtenberg" - überwiesen
+- TOP 9.19: Trinkbrunnen für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Sondermittel für Allgemeiner Blinden- und Sehbehindertenverein Berlin gegr. 1874 e. V. - überwiesen
+- TOP 9.21: Barrierefreie Wahllokale - überwiesen
+- TOP 9.22: Bestehende Mobilitätsdienste sichern und weiter ausbauen - überwiesen
+- TOP 9.23: Inklusion bei Treppengeländern - überwiesen
+- TOP 9.24: Gleiche Wohnbedingungen für alle asylsuchenden Menschen - überwiesen
+- TOP 9.25: Sondermittel für Lichtenberger Selbsthilfegruppe der Blinden und Sehbehinderten - überwiesen
+- TOP 9.26: Finanzierung Jugendarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Tuberkulosefürsorgezentrum weiter ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Gewerbegebiet "Herzbergstraße" für Kreativwirtschaft öffnen - überwiesen
+- TOP 9.29: Nachbarschaftshaus und Stadtteilzentrum in Friedrichsfelde erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.30: Interkulturellen Garten langfristig erhalten - überwiesen
+- TOP 9.31: Votierungsergebnisse 2014 - Bürgerhaushalt Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.32: Spielgeräte für die Grundschule am Wilhelmsberg ersetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: "Tempo 60 in der Hohenschönhauser Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: Verleihung eines Lichtenberger Satirepreises - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.35: Umfassende Information zur Bodenbelastung im Tierpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.36: Sicherer Kita-Weg in der Konrad-Wolf-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.37: Fußgängerüberweg Egon-Erwin-Kisch-Straße/Grevesmühlener Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.38: Größere Müllbehälter für Ober- und Orankesee - Sauberkeit forcieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.39: Pflege der Sowjetischen Ehrenmale - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Geflüchtete Menschen in Wohnungen statt in Gemeinschaftsunterkünfte unterbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.41: Freifunk für bezirkseigene Immobilien - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.42: Vorbild Österreich: Gegen diskriminierende, frauenfeindliche und sexistische Außenwerbung! Verbindliche Regel für bezirkseigene Werbeflächen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.43: Mehr Lärmschutz und Verkehrssicherheit in Falkenberg! - überwiesen
+- TOP 9.44: Änderung der Geschäftsordnung des Bezirksbeirates von und für Menschen mit Behinderung Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.45: Verleihung der Bürgermedaille 2015 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - erledigt
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Gentrifizierung in Lichtenberg identifizieren - Planungsrechtliche bezirkliche Einflussnahme gegen Verdrängungstendenzen umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Einrichtung einer Spielstraße im Kyllburger Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Städtebauliche Kriminalprävention bei baulichen Planungsvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Rückbesinnung auf eine familienfreundliche Wort-Bildmarke des Bezirkes - "Kinder statt Monde" - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Parkraumbewirtschaftung prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Verbesserung der Schulreinigung zügig umsetzen - überwiesen
+- TOP 12.2: Einwohnerantrag: "Schulreinigung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Partnerstädte des Bezirkes Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Transparenz zu Planungen des Senats für den Tierpark - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Sportfest für Toleranz und gegen Gewalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Verkehrssicherheit der Kreuzung Landsberger Allee - Weißenseer Weg erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Aufhebung der Rückbauverpflichtung nach senioren- und behindertengerechten Wohnungsanpassungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14: Schließung der Sitzung - erledigt
