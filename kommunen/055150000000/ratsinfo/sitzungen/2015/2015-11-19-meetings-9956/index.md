@@ -1,0 +1,64 @@
+# 13. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-11-19T17:10:00+01:00
+- Ende: 2015-11-19T19:47:00+01:00
+- Ort: Uppenbergschule, Teilstandort Augustin-Wibbelt-Schule, Auf dem Dorn 14, 48161 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9956
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9956
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00379651.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Tempo 30 vor Schulen, Kitas und Altenheimen - zur Kenntnis genommen
+- TOP 4.2: Unterbringung von Flüchtlingen sowie zusätzlichen Unterstützungsmaßnahmen - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Sekundarschule Roxel
+- TOP 5.2: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2016 - zur Kenntnis genommen
+- TOP 5.3: Geplante Veranlagungen in 2016 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.4: Münster auf dem Weg zur inklusiven Stadt - Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention 1. Bericht über den Stand der Umsetzung - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Straßenbenennung August-Veltmann-Weg - einstimmig beschlossen
+- TOP 6.2: Maßnahmenprogramm 2016 - 2017 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.3: Unterhaltung der Grundstücke und baulichen Anlagen 2016 im Stadtbezirk West, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 6.4: Mobilfunkanlagen in Münster - einstimmig beschlossen
+- TOP 6.5: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Ausbau einer Bussonderspur an der Weseler Straße im Abschnitt zwischen Kerkheideweg und der vorhandenen Busschleuse in Höhe der Boeselagerstraße (Zustimmung zur Planung) - einstimmig beschlossen
+- TOP 7.2: 65. Änderung des Flächennutzungsplanes der Stadt Münster zur Darstellung von Konzentrationszonen für Windenergieanlagen - Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB - - einstimmig geändert beschlossen
+- TOP 7.3: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-West - einstimmig beschlossen
+- TOP 7.4: Umbau des Knotenpunktes Weseler Straße / B51 "Spinne" 2. BA - mehrheitlich beschlossen
+- TOP 7.5: Inklusion an Schulen - Einrichtung des Gemeinsamen Lernens und Weiterentwicklung des Rahmenkonzepts - einstimmig beschlossen
+- TOP 7.6: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen - einstimmig beschlossen
+- TOP 7.7: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 7.8: Entwurf des Haushaltsplanes 2016
+- TOP 7.8.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2016 - einstimmig beschlossen
+- TOP 7.8.2: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2015 unter Berücksichtigung der Veränderungsblätter - mehrheitlich geändert beschlossen
+- TOP 8: neue Anregungen/Anträge
+- TOP 8.1: Schulweg- und Verkehrssicherheit Roxel - eingebracht
+- TOP 8.2: Freie Haushaltsmittel - Flüchtlinge - Wir schenken ein paar Stunden Normalität - einstimmig geändert beschlossen
+- TOP 8.3: Sichere Fuß- und Radwegeverbindungen für das Waldwegviertel - eingebracht
+- TOP 8.4: Albachten wächst - der OGS-Bereich an der Ludgerus Grundschule braucht dringend mehr Platz! - vertagt
+- TOP 8.5: Einbeziehung Bürgerschaft bei Planung des Flüchtlingswohnheim am Hafkhorst - eingebracht
+- TOP 8.6: Begrünung / Beschattung der Pergola des Spielplatzes im Grünen Finger - eingebracht
+- TOP 8.7: Steigerung der Leistungsfähigkeit der Kreuzung L 551, K 60, L 529 in Albachten - eingebracht
+- TOP 8.8: Zukunftswerkstatt Albachten - eingebracht
+- TOP 8.9: Neugestaltung des zentralen Bereichs der Sentruper Höhe - eingebracht
+- TOP 8.10: Pflanzung von 3-4 Bäumen an der Dülmener Straße (Lückenschluss) - eingebracht
+- TOP 8.11: Planungen zu Feuerwehrgerätehäusern - zurückgezogen
+- TOP 8.12: Zeitlich begrenztes Parken an der Annette-von-Droste-Hülshoff-Straße ausweiten - eingebracht
+- TOP 8.13: Dingbängerweg sicher machen - sofort! - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Schulwegsichernde Maßnahmen am Kreisverkehr auf der Dülmener Straße in Albachten - zur Kenntnis genommen
+- TOP 9.2: Entwicklungskonzept Dingbängerweg - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.3: Verkehrsberuhigung auf der Osthofstraße - Aufstellung eines stationären Geschwindigkeits-Displays - von der Tagesordnung abgesetzt
+- TOP 9.4: Querungshilfe Gievenbecker Weg / Sportpark deutlich kennzeichnen - einstimmig beschlossen
+- TOP 10: Verschiedenes
