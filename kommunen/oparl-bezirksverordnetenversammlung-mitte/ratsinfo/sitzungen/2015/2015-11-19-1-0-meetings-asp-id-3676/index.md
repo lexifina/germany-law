@@ -1,0 +1,125 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2015-11-19T17:30:00+01:00
+- Ende: 2015-11-19T21:30:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3676
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3676
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=127187
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Illegale Hostels und Unterbringung für geflüchtete Menschen - beantwortet
+- TOP 5.2: Fehlende Hallensportflächen für den Allgemeinen Sport-Verein Berlin e.V ( ASV ) - beantwortet
+- TOP 5.3: Tunnel in der Leipziger Straße - schriftlich beantwortet
+- TOP 5.4: Anbringung eines Straßenschildes zur Benennung des Uferbereiches zwischen Anna-Louisa-Karsch-Straße und Karl-Liebknecht-Straße in Vera-Brittain-Ufer - schriftlich beantwortet
+- TOP 5.5: Alles dufte am Plötzensee? - schriftlich beantwortet
+- TOP 5.6: Ratlose Eltern vor gesperrten Spielplätzen in Moabit - schriftlich beantwortet
+- TOP 5.7: Einsatz der BSR zur Säuberung von Parks und Wäldern in Berlin - schriftlich beantwortet
+- TOP 5.8: Was machen die Blockkonzepte in der Luisenstadt? - schriftlich beantwortet
+- TOP 5.9: Weshalb ist das Bezirksamt seit über einem Jahr nicht in der Lage, eine dritte Stelle in der bezirklichen Wirtschaftsförderung zu schaffen? - schriftlich beantwortet
+- TOP 5.10: Welche Spielplätze werden 2016 saniert? - schriftlich beantwortet
+- TOP 5.11: Übertragung Mauerpark - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Clearingverfahren zu unbegleiteten minderjährigen Flüchtlingen - beantwortet
+- TOP 6.2: Bauplanungsunterlagen zur Nachschau 2016/2017 - gegenstandslos
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Wird der neue ungenehmigte Gedenkstein für Johnny K. vom Bezirksamt toleriert? - beantwortet
+- TOP 7.2: Café Leo über den Jordan oder bald im Gelobten Land - beantwortet
+- TOP 7.3: Gewährleistung des Kinderschutzes auf dem Gelände des LAGeSo - schriftlich beantwortet
+- TOP 7.4: Mehr Personal im Bezirksamt - wann und wo? - schriftlich beantwortet
+- TOP 7.5: Hunde in Mitte - was tut das Bezirksamt? - schriftlich beantwortet
+- TOP 7.6: Investitionsverhinderung im Bezirksamt Mitte - Haushaltskonsolidierung statt Zukunftsinvestitionen? - schriftlich beantwortet
+- TOP 7.7: Chanukka-Leuchter vor dem Brandenburger Tor - schriftlich beantwortet
+- TOP 7.8: Umsetzung der Sonderprogramme im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.9: Welche Schlussfolgerungen zieht das Bezirksamt aus der Wohnbaupotentialstudie? - schriftlich beantwortet
+- TOP 7.10: Anwohner/innen-Klage gegen Bezirksamt wegen Baugenehmigung Hamberger-Großmarkt Moabit - schriftlich beantwortet
+- TOP 7.11: Kontrollen des Ordnungsamtes auf dem Hackeschen Markt - schriftlich beantwortet
+- TOP 7.12: KompetenzPLUS - aktueller Stand im Bezirksamt Mitte - schriftlich beantwortet
+- TOP 7.13: Konzept "Gemeinwesenorientiertes Konflikt? und Platzmanagement Mitte" - schriftlich beantwortet
+- TOP 7.14: Mauerpark: Wachsende Stadt, nur Mitte wird kleiner - schriftlich beantwortet
+- TOP 7.15: Umsetzung Verkehrskonzept Luisenstadt - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Sitzungskalender 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Clearingverfahren für unbegleitete minderjährige Flüchtlinge (UmF) dringend beschleunigen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Kinderschutz steht vor dem Kollaps - Politik muss jetzt verantwortungsvoll handeln! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Kein Schildbürger_innenstreich am neuen Vera-Brittain-Ufer - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Wahl von Stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Prüfkriterien für die Umsetzung der sozialen Erhaltungsverordnung in den Erhaltungsgebieten nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Sicherung des komunalen Pflegedienstes (PKD) - überwiesen
+- TOP 12.2: Tag der offenen Tür - überwiesen
+- TOP 12.3: Einheitliches Konzept für die Schulsozialarbeit - überwiesen
+- TOP 12.4: Kreuzungsbereich Genter Straße/Brüsseler Straße für Sehbehinderte und Nicht-Sehende sicherer machen! - überwiesen
+- TOP 12.5: Transparenz bei Sonderprogrammen - überwiesen
+- TOP 12.6: Wohnqualität unserer Straßen erhalten - überwiesen
+- TOP 12.7: Vermietung der bezirkseigenen Wohnungen aus einer Hand - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Klassenfrequenzen für Schulen mit Willkommensklassen - überwiesen
+- TOP 12.9: Errichtung eines Fußballfangzauns - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bürgerbeteiligung bei Erstellung eines Positiv-/Negativkatalogs für den Alex! - überwiesen
+- TOP 12.11: Sichere Schulwege und mehr Wohlbefinden im Gesundbrunnen: Kiezkarte der SchülerInnen der Heinrich-Seidel-Grundschule ernst nehmen - Ramler/ Swinemünder Straße SchülerInnengerecht umgestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Einrichtung von Fahrradspuren auf der Amrumer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Aktuelle Angebote der geförderten Träger und der Einrichtungen im Internet veröffentlichen - überwiesen
+- TOP 12.14: Berichterstattung über Sanierungen und Bauplanungen im Schulbereich? - überwiesen
+- TOP 12.15: Wahl von Stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Erstberatung im Sozialamt Mitte schaffen / Einrichtung einer Eingangszone - überwiesen
+- TOP 12.17: Neue Bänke für den Grünstreifen an der Bremer Straße - überwiesen
+- TOP 12.18: Verbesserung der Verkehrssicherheit vor der Grundschule am Arkonaplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Ausreichend Fahrradabstellanlangen für Schulen einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Bebauungsplan III-213a neu aufstellen um Wohnungsbau zu ermöglichen - überwiesen
+- TOP 12.21: Damit die Pizza nicht mehr von der Tankstelle kommt: Eine Perspektive für Spätis auch in Mitte ermöglichen- Berliner Ladenöffnungsgesetz den Realitäten anpassen - überwiesen
+- TOP 12.22: QR-Code-Stein „Zeitreise am Potsdamer Platz"; BVV-Beschluss 2193/IV - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Elise- und Otto Hampel-Platz am Rathaus Wedding - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Benennung von einem Platz und drei Straßen im Gebiet der sog. Europacity/Heidestraße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Besser über die Arbeit der Bezirksverordnetenversammlung im Wedding informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Vergabe in Mitte auch bei Aufträgen unter 10.000 Euro nachhaltig, fair und sozial - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Gestaltung zukünftiger Haushaltsberatungen - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Europäische Initiative zur verantwortungsvollen Wohnungswirtschaft - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Zugang zu Wohnhäusern und Straßenquerungen in den Nebenstraßen des Bezirks Mitte herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Trinkprotokolle in Seniorenpflegeeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Administrative Umsetzung der Senatsprogramme für Flüchtlinge - erledigt
+- TOP 15.7: Betreuung und Koordination der Kurse für Flüchtlinge - erledigt
+- TOP 15.8: Position beziehen und öffentlichen Raum für alle erhalten! - in der BVV abgelehnt
+- TOP 15.9: Wasser trinken bei SchülerInnen erhöhen - attraktive Wasserversorgung in allen Schulen von Mitte ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Für die Parks im Parkviertel - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: Teilnahme an Versammlungen der Beschäftigtenvertretung ist Beschäftigtenrecht! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.12: Sonderprogramme in Haushaltsplanung integrieren - ohne Änderungen in der BVV beschlossen
+- TOP 15.13: Europäische Woche der Mobilität: Motto 2015 "Clever unterwegs, besser leben" - Mitte ab 2016 dabei!? Maßnahmen zur Förderung einer nachhaltigen Mobilität in der Stadt - ohne Änderungen in der BVV beschlossen
+- TOP 15.14: Liegenschaften überprüfen - Obdachlosigkeit vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 15.15: Informations- und Erinnerungsstele zu Karl Wolffsohn am Ort des ehemaligen Großkinos Lichtburg in Berlin-Gesundbrunnen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Integrationsprogramm für den Bereich Schule konkretisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Nachnutzung für das Wasserbecken auf dem Platz der Morgenröte finden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Freie Wege am Spreebogenpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Jedem Flüchtlingskind die Teilnahme am Schulmittagessen ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Einrichtung eines Runden Tisches zum Tourismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Online-Bürgeramt für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Lampenpatenschaften für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Projekt "Soziales Platzmanagement am Leopoldplatz" fortsetzen (II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Konzept zur Durchführung einer Jugend-BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Vereinbarkeit Familie und Beruf - Familienförderzentren helfen mit! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Jugendberufsagentur und Angebote der Jugendberufshilfe sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Beschluss über das Ergebnis der Beteiligung der Behörden gem. § 4 Abs. 2 Baugesetzbuch (BauGB) zum Bebauungsplanentwurf 1-67 VE (Lehrter Straße Mittelbereich), die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB, die erneute Beteiligung der Behörden gem. § 4 a Abs. 3 BauGB i. V. m. § 4 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Fahrradständer am S-Bhf Bellevue - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Beschluss über die Aufstellung einer Verordnung über die Erhaltung der städte-baulichen Eigenart auf Grund der städtebaulichen für das Gebiet "Wilhelmstraße" zwischen Behrenstraße, Wilhelmstraße, An der Kolonnade, Mohrenstraße, Voß-straße, In den Ministergärten, Gertrud-Kolmar-Straße und Cora-Berliner-Straße im Bezirk Mitte von Berlin gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Beschluss über das Ergebnis der Behördenbeteiligung des vorhabenbezogenen Bebauungs-planentwurfs I-9-1VE "Axel-Springer-Campus" und die Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirk Mitte, Bericht für den Berichtszeitraum 2014 - mit Abschlussbericht zur Kenntnis genommen
