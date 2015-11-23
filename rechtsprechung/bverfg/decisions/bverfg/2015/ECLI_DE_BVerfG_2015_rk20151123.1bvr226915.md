@@ -1,0 +1,101 @@
+---
+ecli: "ECLI:DE:BVerfG:2015:rk20151123.1bvr226915"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 2269/15"
+decided: "2015-11-23"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 23. November 2015\n- 1 BvR 2269/15 -, Rn. 1-4,\n                    https://www.bverfg.de/e/rk20151123_1bvr226915"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/11/rk20151123_1bvr226915.html"
+corpus_doc_id: "BVerfG_2015-11-23_K_1_BvR_2269_15_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/006.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 2269/15 vom 2015-11-23
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 1 BvR 2269/15 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+
+der Frau L…,
+
+- Bevollmächtigte:   Anwaltskanzlei Zuck,
+                     Vaihinger Markt 3, 70563 Stuttgart -
+
+gegen a) den Beschluss des Bundesgerichtshofs vom 28. Juli 2015 - XII ZB 671/
+         14 -,
+
+       b) den Beschluss des Bundesgerichtshofs vom 28. Juli 2015 - XII ZB 670/
+          14 -,
+
+       c) den Beschluss des Oberlandesgerichts Nürnberg vom 14. November
+          2014 - 7 WF 1338/14 -,
+
+       d) den Beschluss des Oberlandesgerichts Nürnberg vom 14. November
+          2014 - 7 UF 1196/14 -,
+
+       e) den Beschluss des Amtsgerichts Schwandorf vom 12. August 2014 -
+          001 F 305/13 -
+
+hat die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+
+                                 den Vizepräsidenten Kirchhof,
+
+                                 den Richter Eichberger
+
+                                 und die Richterin Britz
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473)
+am 23. November 2015 einstimmig beschlossen:
+
+        Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                   Gründe:
+  Die Verfassungsbeschwerde betrifft ein Vaterschaftsanfechtungsverfahren, welches der vor Abschluss des Anfechtungsverfahrens verstorbene Sohn der Beschwerdeführerin gegenüber seinem Kind (dem Enkelkind der Beschwerdeführerin) eingeleitet hatte. Die Beschwerdeführerin wendet sich dagegen, dass ihr nach dem Tod
+
+
+
+                                         1/3
+
+ihres Sohnes die Beteiligung an dem von ihm eingeleiteten Vaterschaftsanfechtungsverfahren verwehrt wurde und dass es die Gerichte abgelehnt haben, dieses Vaterschaftsanfechtungsverfahren auf ihren Antrag hin fortzusetzen. Den Kern ihrer materiell- und verfahrensrechtlichen Rügen bildet der Vorwurf, indem ihr die Fortführung
+des Vaterschaftsanfechtungsverfahrens verwehrt werde, werde unzulässig in ihre
+Grundrechte eingegriffen, weil ihr auf diese Weise ein Enkelkind „aufgedrängt“ werde.
+
+  Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die           2
+Voraussetzungen des § 93a BVerfGG nicht vorliegen. Die Entscheidungen des Bundesgerichtshofs sind verfassungsrechtlich nicht zu beanstanden. Der Bundesgerichtshof hat bei der Auslegung des anzuwendenden Rechts keine grundrechtlich geschützten Positionen der Beschwerdeführerin verkannt. Insbesondere folgt aus dem
+grundrechtlichen Schutz familiärer Bindungen zwischen nahen Verwandten (Art. 6
+Abs. 1 GG; vgl. dazu BVerfGE 136, 382 <389, Rn. 23>) nicht umgekehrt, dass der
+Beschwerdeführerin hier von Verfassungs wegen die Möglichkeit eingeräumt werden
+müsste, durch Fortführung des von ihrem Sohn eingeleiteten Vaterschaftsanfechtungsverfahrens die rechtliche Verbindung zu ihrem - nach Einschätzung des verstorbenen Sohnes mutmaßlich nicht biologisch von diesem abstammenden - Enkelkind
+zu lösen.
+
+ Von einer weiteren Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                  4
+
+               Kirchhof             Eichberger                Britz
+
+
+
+
+                                         2/3
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Ersten Senats vom
+23. November 2015 - 1 BvR 2269/15
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 23. November 2015 - 1 BvR 2269/15 - Rn. (1 - 4), http://www.bverfg.de/e/
+                rk20151123_1bvr226915.html
+
+ECLI           ECLI:DE:BVerfG:2015:rk20151123.1bvr226915
+
+
+
+
+                                     3/3
