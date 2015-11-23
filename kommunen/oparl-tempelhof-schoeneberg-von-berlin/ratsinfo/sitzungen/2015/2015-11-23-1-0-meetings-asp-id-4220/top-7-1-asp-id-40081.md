@@ -1,0 +1,8 @@
+# TOP 7.1: - Nutzung des Rudolph-Wilde-Parks Zum "Paket" der übrigen, zurückgestellten, nicht behandelten Drucksachen liegt aktuell keine Stellungnahme aus den FRaktionen vor!
+
+- Sitzung: 37. öffentliche Sitzung des Ausschusses für Verkehr und Grünflächen (2015-11-23)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=40081
+- Ergebnis: erledigt
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=40081
