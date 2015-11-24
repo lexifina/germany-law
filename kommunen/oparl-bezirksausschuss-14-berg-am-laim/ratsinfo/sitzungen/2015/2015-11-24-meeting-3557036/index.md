@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-11-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3557036
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3557036
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 1.1.: Benennung eines Beauftragten gegen Rechtsextremismus
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Querung der Heinrich-Wieland-Straße auf Höhe Michaeliburgstraße; BA-Antrag Nr. 14-20/B 01156 des BA 14 vom 28.04.2015 - Antwortschreiben
+- TOP 3.2.: Truderinger Str. 49, Neubau eines Mehrfamilienhauses (9 WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.3.: Kampenwandstr. 7, Errichtung zweier Mehrfamilienhäuser (je 5 WE) mit Tiefgarage
+- TOP 3.4.: Halfinger Str. 20 - 22, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.: Berg-am-Laim-Straße 127 - 129, Nutzungsänderung eines Bürogebäudes in einen Beherbergungsbetrieb
+- TOP 3.6.: Sanierung oder Abbau der Werbetafeln in der Josephsburgstraße
+- TOP 3.7.: Ampfingstraße, Neubau eines Wohn-, Büro- und Geschäftshauses - VORBESCHEID
+- TOP 3.1.: Christkindlmarkt des Bürgerkreis Berg am Laim e.V., am 06.12.2015, von 11.00 Uhr bis 17.00 Uhr, Baumkirchner Straße "Grüner Markt"
+- TOP 3.2.: Einhaltung und Durchsetzung der Straßenverkehrsordnung in der Friedenstraße
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien; BA-Antrag Nr. 14-20/B 01204 des BA 17 vom 12.05.2015 Anhörungsschreiben
+- TOP 3.5.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 BA-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht; BA-Antrag Nr. 14-20/B 01092 des BA 16 vom 16.04.2015 Anhörungsschreiben
+- TOP 3.6.: Änderung der BA-Satzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate; BA-Antrag Nr. 14-20/B 01264 des BA 20 vom 08.06.2015 Anhörungsschreiben
+- TOP 3.1.: Zehntfeldstr. 91
+- TOP 3.2.: Baumkirchner Str. 45
+- TOP 3.3.: Ringbergstr. 22
+- TOP 3.4.: Hansjakobstr. 115
+- TOP 3.5.: Rofanstr. 8
+- TOP 3.6.: Friedenstr. 18, 18 a
+- TOP 3.7.: Rauschbergstr. 1
+- TOP 3.8.: Baumkirchner Str. 1
+- TOP 3.9.: Ampfingstraße - Neubau eines Wohn-, Büro- und Geschäftshauses - VORBESCHEID Baumfällungen
+- TOP 3.10.: Berg-am-Laim-Str. 127 - 129, Nutzungsänderung eines Bürogebäudes in einen Beherbergungsbetrieb - Baumfällungen
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im 14. Stadtbezirk
+- TOP 4.2.: Unterrichtung über Zweckentfremdung von Wohnraum
+- TOP 4.3.: Austausch von Lichtsignalanlagen - Einmündung Baumkirchner Straße/Josephsburgstraße
+- TOP 4.4.: Neubau der Feuerwache 5 und des zweitenTeils des Zentrums für Katastrophenschutz Anzinger Str. 41 Sitzungsvorlage Nr. 14-20/V 03950
+- TOP 4.5.: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren Sitzungsvorlage Nr. 14-20/V 04433
+- TOP 4.6.: Neuordnung der Bauberatung Evaluation der Probephase 01.11.2011 bis 01.12.2012 und der Organisationsüberprüfung Bauberatung (August 2013 bis Mai 2014) Kontinuierlicher Verbesserungsprozess bis heute Sitzungsvorlage Nr. 14-20/V 03401
+- TOP 4.7.: Wohnen in München V 1. Erfahrungsbericht 2. Handlungsempfehlungen Sitzungsvorlage Nr. 14-20/V 3584
+- TOP 4.8.: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Sitzungsvorlagen Nr. 14-20/V 02728
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" Sitzungsvorlagen Nr. 14-20/V 04142
+- TOP 4.11.: Toilettenanlage im Maßmannpark; Öffentliche Toiletten in Grünanlagen; Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze Sitzungsvorlage Nr. 14-20/V 03798
+- TOP 4.12.: Baustelleneinrichtung an der Rofanstr. 4 (Zwieselbergweg) vom 02.11.2015 bis 25.11.2015
+- TOP 4.1.: Schaffung eines (baulichen) Radweges auf der St.-Veit-Straße beiderseits zwischen der Kreillerstraße und der Josephsburgstraße; BA-Antrag Nr. 14-20/B 01451 des BA 14 vom 30.06.2015 - Antwortschreiben
+- TOP 4.2.: Fahrbahnmarkierungen auf der Baumkirchner Straße; Antrag Nr. 14-20/B 01491 des BA 14 vom 28.07.2015 - Antwortschreiben
+- TOP 4.3.: Entspannung der Verkehrssituation in der Grafinger Straße; Antrag Nr. 14-20/B 01489 des BA 14 vom 28.07.2015 - Antwortschreiben
+- TOP 4.4.: Überdachte und geschützte Unterstandsmöglichkeiten an der Straßenbahnhaltestelle Kreillerstraße, beide Fahrtrichtungen; Empfehlung Nr. 14-20/E 00460 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 26.03.2015 - Ergänzung zu Ziffer 3 des Antrages des Referenten - Antwortschreiben
+- TOP 4.5.: Heinrich-Wieland-/St.-Veit-/Feichtstraße, Austausch der Lichtsignalanlage und Umbau des Fuß- und Radweges Anliegerinformation des Baureferates Tiefbau
+- TOP 4.6.: Hansjakobstraße zwischen Schülein- und Roßsteinstraße sowie Roßsteinstraße zwischen Hansjakob- und Hohenburgstraße im Umgriff des Bebauungsplans mit Grünordnung Nr. 1980 Wiederherstellung bzw. Umbau der genannten Straßen vom 29.10.2015 bis vorr. Ende Mai 2016
+- TOP 4.7.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Sitzungsvorlage Nr. 14-20/V 02840
+- TOP 4.8.: Sachstand zum Projekt Tram Steinhausen
+- TOP 4.9.: Bertschstraße 16/28; Einrichtung und Beschilderung eines absoluten Halteverbotes nach Zeichen 283 StVO mit dem Zusatz "Feuerwehrzufahrt"
+- TOP 4.10.: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II - Finanzierungsbeteiligung Sitzungsvorlage Nr. 14-20/V 03847
+- TOP 4.11.: Mobilität in Deutschland 2016 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt? Sitzungsvorlage Nr. 14-20/V 03899
+- TOP 4.12.: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen Sitzungsvorlage Nr. 14-20/V 03651
+- TOP 4.13.: Diskothek "Bullit", Friedenstr. 10, Antrag auf unveränderte Fortführung
+- TOP 4.14.: PulsBar, Schankwirtschaft, Schweppermannstr. 10, Antrag auf unveränderte Fortführung
+- TOP 4.1.: Errichtung des "Campus Ost" an der bisherigen Bezirkssportanlage an der Fehwiesenstraße, Antrag Nr. 14-20/B 01346 des BA 14 vom 19.05.2015 - Antwortschreiben
+- TOP 4.2.: Bauprogramm 2013 zur Realisierung von Kinderbetreuungsplätzen Verwaltungsinterne Ausführungsgenehmigung Bauvorhaben: Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kinderkrippen-, 2 Kindergartengruppen und einer Hortgruppe Hermann-Weinhauser-Straße (ehem. Baumkirchner Mitte) im 14. Stadtbezirk Berg am Laim
+- TOP 4.3.: Protokoll der Sitzung der Arbeitsgemeinschaft Spiellandschaft Stadt am 16.10.2015
+- TOP 4.1.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage Sitzungsvorlage Nr. 14-20/V 02432
+- TOP 4.1.: Bericht des Nachbarschaftsteffs Maikäfersiedlung über das 1. Maikäferfußballturnier 2015
+- TOP 4.2.: Kurzbericht von MAGS & MORE e.V. zum 10-jährigen Jubiläumsfest des Stadtteiltreffs Berg am Laim
+- TOP 4.3.: Verwendungsnachweis für die Aktion "Kunstprojekt Kindervilla"
+- TOP 4.4.: Verwendungsnachweis - Theaterstück "Face me"
+- TOP 4.5.: Information der Bürgerversammlung über die Ergebnisse der letztjährigen Anträge in geeigneter Weise, BV-Empfehlung Nr. 14-20/E 00390 der Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen vom 05.03.2015 Sitzungsvorlage Nr. 14-20/V 03789
+- TOP 4.6.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019
+- TOP 4.1.: Umsetzung der BaumschutzVO in Sendling, Empfehlung Nr. 14-20/E 00256 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 18.11.2014 Sitzungsvorlage Nr. 14-20/V 03840
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 1: (E) Verkehrsberuhigung in der Riedgaustraße Empfehlung Nr. 14-20 / E 00462 der Bürgerversammlung des 14. Stadtbezirkes Berg-am-Laim am 26.03.2015
+- TOP 3.1.: (E) Budget der Bezirksausschüsse little Art e.V. Projekt ?Willkommenskultur? von Januar bis Juli 2016
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Trägerverein KulturBürgerHaus Berg am Laim e.V. Aufstellung des Weihnachtsbaums am 01.12.2015 mit Rahmenprogramm
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
