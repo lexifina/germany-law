@@ -1,0 +1,7 @@
+# TOP 1: Genehmigung der Sitzungsniederschrift vom 27. Oktober 2015
+
+- Sitzung: Sitzung des Finanzausschusses (2015-11-24)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/6961
+- Ergebnis: einstimmig beschlossen
