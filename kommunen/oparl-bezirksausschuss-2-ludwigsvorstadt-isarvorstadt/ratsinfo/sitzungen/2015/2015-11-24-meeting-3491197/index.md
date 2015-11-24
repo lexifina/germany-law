@@ -1,0 +1,113 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-11-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3491197
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3491197
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .3.: BA eigenes Budget für Theaterbesuch Kinder der Thalkirchner Straße 9, PLENUMSBESCHLUSS
+- TOP .1.: Errichtung des öffentlichen Bücherschrankes am Karl-Heinrich-Ulrichs-Platz, vgl. BA-Antrag Nr. 14-20 /B 00259 vom 29.07.2014; Schreiben des Kreisverwaltungsreferates, Bezirksinspektion Mitte vom 19.10.2015
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Offener Bücherschrank
+- TOP .3.: Viehhof
+- TOP .4.: Flüchtlinge/Wohnungslose
+- TOP .5.: Straßenfeste
+- TOP .6.: Anfrage Kleiderladen Rothmundstraße
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Fraunhoferstraße 36 / RGB, Nutzungsänderung, Umbau einer Werkstatt zu zwei Wohnungen mit Unterkellerung und Lichtschacht (Eilentscheidung)
+- TOP .2.: Goethestraße 9, TEKTUR / Umbau, Sanierung und Aufstockung eines Jugendwohnheims (Eilentscheidung)
+- TOP .3.: Sonnenstraße 16, DG-Ausbau und teilweiser Umbau - Vorbescheid
+- TOP .4.: Karlsplatz 25, TEKTUR, Neubau Hotel Königshof und Zwischenbauwerk
+- TOP .5.: Schwanthalerstraße 24, Unterbringung von Flüchtlingen und Wohnungslosen, DG-Ausbau zu Wohnheim und Teilung von Wohnungen zur Unterbringung von Asylbewerbern befristet bis 2033 sowie Teilung einer Gastronomiefläche in zwei Gastronomieeinheiten und Umbau der Nebenanlage
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .7.: Geyerstraße 22, Umbau einer Wohnung mit Einbau einer Dachterrasse - TEKTUR, hier: Vergrößerung dreier Dachgauben auf der Straßenseite
+- TOP .8.: Jahnstraße 41, Fassadenänderung (Jahnstraße 41 / Klenzestraße 70 + 72)
+- TOP .9.: Fliegenstraße 6, Nutzungsänderung der Wohnung im EG links (E1) in eine Büroeinheit
+- TOP .10.: Sonnenstraße 8, Nutzungsänderung: Teilbereich Wettbüro zu Cafe / Bistro
+- TOP .11.: Museumsinsel 1, Sanierung des Sammlungsbaus sowie Aufstellen eines temporären Kassen- und Infocontainers im Museumshof
+- TOP .12.: Kapuzinerstraße 50, Erneuerung von 5 x 2 Balkonen
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Thalkirchner Str. 22, Baumfällungsantrag vom 28.10.2015 für eine Platane - PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Kreuzung Isartalstraße / Dreimühlenstraße Rollstuhl-, Kinderwagen- und Fußgängerfreundliche Gestaltung, vgl. TOP 2015.07 B 3.3.2 - Stellungnahme
+- TOP .2.: Begrünung Geyerstraße, Antwort des Baureferates
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Landwehrstraße 83; Ablehnung der Freischankfläche, vgl. TOP 2015.09 C 2.1.3, Schreiben des Kreisverwaltungsreferates vom 20.10.2015
+- TOP .2.: Auenstraße 100, Erweiterung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Maßnahmen an der Isar, Einladung zum Runden Tisch "Erholungsraum Isar" des Baureferates am 09.12.2015
+- TOP .3.2: Verkehr
+- TOP .1.: CarSharing in München, Ergebnisse der Evaluation des Pilotversuchs 2011 - 2015; Stadtratsbeschluss (Entwurf) für den Kreisverwaltungsausschuss vom 15.12.2015, Stellungnahme
+- TOP .2.: Oktoberfest 2015 - Verlauf aus verkehrlicher Sicht - Busparkplätze
+- TOP .1.: Bürgeranliegen: Verkehrsampel Herzog-Heinrich-Straße, Ecke Kobellstraße
+- TOP .2.: Bürgeranliegen: Stephansplatz, Aufstellen mehrerer zusätzlicher Sitzbänke
+- TOP .3.: Bürgeranliegen: St.-Paul-Straße 7, Verlegung Ersatzbushaltestelle MVG
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse, BA-Antrags-Nr. 08 -14 /B 03384 des BA 15 vom 20.10.2011 und Schluss mit der Bevormundung - Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen, BA-Antrags-Nr. 08 - 14 / A 04127 vom 21.03.2013 Anhörungsschreiben des Direktoriums vom 20.10.2015 - PLENUMSBESCHLUSS
+- TOP .2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate; BA-Antrags-Nr. 14 - 20 / B 01264 des BA 20 - Hadern vom 08.06.2015; Anhörungsschreiben des Direktoriums vom 20.10.2015 - PLENUMSBESCHLUSS
+- TOP .3.: Bürgerhaushalt - Fragen zur Umsetzung
+- TOP .4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Bezirksausschuss-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht, BA-Antrags-Nr. 14-20 /B 01092 des BA 16 - Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 09.11.2015 - PLENUMSBESCHLUSS
+- TOP .5.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien, BA-Antrags-Nr. 14 - 20 / B 01204 des BA 17 - Obergiesing-Fasangarten vom 12.05.2015, Anhörungsschreiben des Direktoriums vom 09.11.2015 - PLENUMSBESCHLUSS
+- TOP .6.: Änderung Besetzung Unterausschüsse - PLENUMSBESCHLUSS
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 07.12.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 08.12.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 09.12.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung entfällt. Die BA-Sitzung findet am Dienstag, den 15.12.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Maßnahmen Raumnot Mittagsbetreuung der Grundschulen im Viertel, insbesondere GS am Gärtnerplatz (Klenzestraße 27), Klenzestraße 48 und GS an der Schwanthalerstraße, Antwortschreiben des Referates für Bildung und Sport vom 21.10.2015
+- TOP .4.: Protokoll des AKIM-Abschlussgesprächs Gärtnerplatz am 06.10.2015
+- TOP .5.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage; Sitzungsvorlage Nr. 14 - 20 / V 02432, Beschluss der Vollversammlung des Stadtrates vom 30.09.2015
+- TOP .6.: Sozialreferat, Beschluss "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" Beschluss der Vollversammlung des Stadtrates vom 21.10.2015, Sitzungsvorlage Nr. 14 - 20 / V 03137
+- TOP .7.: Kreisverwaltungsreferat, Beschlussvorlage Fortschreibung des Standortkonzeptes "Kulturstrand" 2016 ff Beschluss des Kreisverwaltungsausschusses vom 17.11.2015 (VB), Sitzungsvorlage Nr. 14 - 20 / V 04729
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Müllerstraße 3 - 7, Umbau und Umnutzung des HKW-Turms in ein Wohn- und Geschäfts gebäude, Errichtung einer Wohnanlage mit Kindertagesstätte und Gewerbeflächen, eines Bürogebäudes mit Einzelhandel sowie einer Gemeinschaftstiefgarage; Fälligkeitsmitteilung und erneute Androhung eines Zwangsgeldes des Referates für Stadtplanung und Bauordnung vom 21.10.2015
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren, Antrag Nr. 14 - 20 / A 01112 vom 18.06.2015; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015; Sitzungsvorlagen Nr. 14 - 20 / V 04433
+- TOP .4.: Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum, Beschluss der Vollversammlung des Stadtrates vom 21.10.2015 mit Neufassung vom 15.10.2015; Sitzungsvorlagen Nr. 14 - 20 / V 02161
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neuordnung der Bauberatung, Evaluation der Probephase (01.11.2011 bis 01.12.2012) und der Organisationsprüfung Bauberatung (August 2013 bis Mai 2014); Kontinuierlicher Verbesserungsprozess bis heute; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015, Sitzungsvorlagen Nr. 14 - 20 / V 03401
+- TOP .6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage 44. städtischer Fassadenwettbewerb; 1. Fassadenpreise und Lobende Erwähnungen 2015 - 2. Erweiterung des Fassadenwettbewerbs auf alle denkmalgeschützten Bauten nach 1960; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015, Sitzungsvorlagen Nr. 14 - 20 / V 04447
+- TOP .7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" - Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015; Sitzungsvorlagen Nr. 14 - 20 / V 04142
+- TOP .8.: Umweltverbände und Öffentlichkeit frühzeitig in Planungsverfahren einbinden! Antrag-Nr. 14 - 20 / A 01503 vom 29.10.2015; Schreiben des Direktoriums vom 29.10.2015
+- TOP .9.: Geyerstraße 24, Abbruch und Neubau eines Wohngebäudes, vgl.TOP 2015.10 B 3.1.3 - Baugenehmigung des Referates für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Oktoberfest; Reinigungsnotruf bzw. Übernahme von Reinigungskosten für Anwohner
+- TOP .7.: EineWeltHaus; Beschilderung im U-Bahnhof Theresienwiese; Informationsschreiben des MVG vom 21.10.2015
+- TOP .8.: Reichenbachstraße 15-17 - Genehmigung von Warenstellagen in abgeänderter Form, vgl. 2015.07 C 2.2.1
+- TOP .9.: Toilettenanlage im Maßmannpark, Antrag-Nr. 14 - 20 / A 00209 vom 27.08.2014; Öffentliche Toiletten in Grünanlagen, Antrag-Nr. 14 -20 / A 00485 vom 25.11.2014 und Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze, Antrag-Nr. 14 - 20 / A 00487 vom 25.11.2014, Sitzungsvorlage Nr. 14 - 20 / V 03798, Beschluss des Bauausschusses vom 22.09.2015 mit Berücksichtigung Änderungsantrag
+- TOP .10.: Theresienwiese - Sanierung Wirtsbudenstraße ab 09.11.2015
+- TOP .11.: Oktoberfest 2015, Schluss- und Erfahrungsbericht des BA 2
+- TOP .12.: Parkraummanagement zur Oktoberfest Zeit, vgl. TOP 2015.10 C 5.1; Antwortmail des Kreisverwaltungsreferates vom 06.11.2015
+- TOP .13.: Bürgeranliegen Bahnhofsvorplatz Alkoholszenerien, vgl. 2015.10 C 5.4, Antwortschreiben des Sozialbürgerhauses Mitte vom 04.11.2015
+- TOP .14.: Auenstraße zwischen Fraunhoferstraße und Baaderstraße, Ausnahmezulassung für nächtliche Fahrbahnsanierung, Bescheid des Referates für Gesundheit und Umwelt vom 09.11.2015
+- TOP .15.: Baureferat, Beschluss Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB; Beschluss der Vollversammlung des Stadtrates vom 21.10.2015 Sitzungsvorlagen Nr. 14 - 20 / V 02840
+- TOP .16.: Bürgeranliegen Trambahnverspätung durch die Ampelanlage Arnulf-/Luisen-/Prielmayerstraße, vgl. 2015.10 C 5.4, Antwortschreiben des Kreisverwaltungsreferates vom 09.11.2015
+- TOP .17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .18.: Die Afrika-Tage finden 2016 von 02.06.-05.06.2016 auf der Theresienwiese statt. Eine zeitliche Kollision mit der Stadtteilwoche ist nicht gegeben.
+- TOP .19.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 und Hinweis / Ergänzung vom 30.10.2015, Sitzungsvorlagen Nr. 14 - 20 / V 03651
+- TOP .20.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nord-Süd-Querung der Altstadt für den Radverkehr, Verkehrs- und Funktionskonzept, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 und Hinweis / Ergänzung vom 03.11.2015, sowie Neufassung vom 12.11.2015, Sitzungsvorlagen Nr. 14 - 20 / V 04125
+- TOP .21.: Planfeststellungsverfahren nach § 18 AEG für das Vorhaben München Hauptbahnhof - Umbau des Holzkirchner Flügelbahnhofs in der LHSt München der Strecke 5510 München - Rosenheim - Abdruck des Schreibens des Referates für Stadtplanung und Bauordnung an die Regierung von Oberbayern vom 11.11.2015
+- TOP .22.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Instandhaltung Fahrweg Tram - Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV, Information des Referates für Gesundheit und Umwelt vom 17.11.2015
+- TOP .1.: Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise, BV-Empfehlung Nr. 14 - 20 / E 00390 der BV des BA 5 vom 05.03.2015, Sitzungsvorlage Nr. 14 - 20 / V 03789; Beschluss des BA 5 vom 16.09.2015
+- TOP .1.: (E) Budget der Bezirksausschüsse GbR Groß/Erby Kindertheater im Fraunhofer Theaterstück ab 29.11.2015
+- TOP .2.: (E) Budget der Bezirksausschüsse Europäische Janusz Korczak Akademie e.V. Bildungsveranstaltungen vom 18. - 22.11.2015
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
