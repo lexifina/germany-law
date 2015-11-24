@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-24T17:00:00+01:00
+- Ende: 2015-11-24T20:37:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10135
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10135
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00253651.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00253651.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00253651.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Aktuelle Berichterstattung der Flüchtlingsbeauftragten Miriam Koch - zur Kenntnis genommen
+- TOP 4: Auswahl neuer Straßenlaternen - zur Kenntnis genommen
+- TOP 4.1: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - mehrheitlich beschlossen
+- TOP 5: Fortschreibung des Masterplans "Energieeffiziente Straßenbeleuchtung - Gasbeleuchtung" - mehrheitlich abgelehnt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Diepenstraße 24 - Verlagerung der Aloys-Odenthal-Schule, städtische Gemeinschaftsgrundschule zum Sta - einstimmig beschlossen
+- TOP 13: Neufassung der Benutzungsordnung für die Bürgerhäuser - mehrheitlich beschlossen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
+- TOP 15: Unterhalt von Grundstücken und baulichen Anlagen im Stadtbezirk 7, Haushalt 2015 - einstimmig beschlossen
+- TOP 16: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 17: Seilbahn im Stadtbezirk 7 - zurückgezogen
+- TOP 18: Tempo 30 Piktogramme Hardenbergstraße - einstimmig beschlossen
+- TOP 19: Pilotprojekt Brötchentaste - einstimmig beschlossen
+- TOP 20: Feierabendmärkte - einstimmig beschlossen
+- TOP 21: Erhalt Bücherbus - mehrheitlich abgelehnt
+- TOP 22: Bücherbus im Bezirk 7 - einstimmig beschlossen
+- TOP 23: Beschlusskontrolle - einstimmig beschlossen
+- TOP 24: Ersatzpflanzungen von 265 Bäumen im Bezirk 7 in den letzten 4 Jahren - zurückgezogen
+- TOP 25: Radweg Morperstraße nach Erkrath – Überquerung der Fahrbahn - einstimmig beschlossen
+- TOP 26: Umgestaltung einer der Treppen am Spielplatz gegenüber dem Kirchengelände an der Heyestr. - einstimmig beschlossen
+- TOP 27: Radweg zwischen Eingang Friedhof und Steinweg - mehrheitlich abgelehnt
+- TOP 28: Wohnungsbau im Glasmacherviertel östlich der Düssel - mehrheitlich abgelehnt
+- TOP 29: Situation Geibelstraße - mehrheitlich beschlossen
+- TOP 30: Zuständigkeit für Erneuerung der Straßenbeleuchtung - zurückgezogen
+- TOP 31: Erhaltungssatzung Gerresheim – Süd - zurückgezogen
+- TOP 32: Verwendung der Einnahmen aus Stellplatz-Ablösungen - einstimmig beschlossen
+- TOP 33: Sachstandsbericht zur Zentraldeponie Hubbelrath (ZDH) - mehrheitlich abgelehnt
+- TOP 33.1: Sandaustausch Kinderspielplätze - zurückgezogen
+- TOP 34: Berücksichtigung der Belange des Fahrradverkehrs bei der Einrichtung von Baustellen im Straßenbau - einstimmig beschlossen
+- TOP 35: Verspätung S8 - zurückgezogen
+- TOP 36: Bücherschrank Roter Platz-Heyestraße - vertagt
+- TOP 37: Radfahrer auf Gehweg Ludenberger Str. - vertagt
+- TOP 38: Umsetzung von bezirksbezogenen Baumaßnahmen II - zur Kenntnis genommen
+- TOP 38.1: Ersatzpflanzungen von 265 Bäumen im Bezirk 7 in den letzten 4 Jahren - vertagt
+- TOP 39: Spielangebote für ältere Kinder im Diepenpark - zur Kenntnis genommen
+- TOP 40: Voraussichtliche Bezugsfähigkeit des neuen Altenheims der Sana-Klinik - zur Kenntnis genommen
+- TOP 41: Baustelle Benderstaße - zur Kenntnis genommen
+- TOP 42: Innenhofgestaltung Heyestraße 51 - 53 - zur Kenntnis genommen
+- TOP 43: Brombeerberg im Quellenbusch - zur Kenntnis genommen
+- TOP 44: Entschädigungsfonds Geschäftsleute Gerresheim (Nord und Süd) - zur Kenntnis genommen
