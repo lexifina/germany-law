@@ -1,0 +1,8 @@
+# TOP 12.8: Elterninitiative Natur Kinder Erde e.V. (Verlängerung der Anerkennung)
+
+- Sitzung: öffentliche Sitzung des Jugendhilfeausschusses (2015-11-24)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/70287
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/33293
