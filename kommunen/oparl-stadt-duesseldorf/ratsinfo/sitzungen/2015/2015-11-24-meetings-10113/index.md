@@ -1,0 +1,53 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-24T17:00:00+01:00
+- Ende: 2015-11-24T20:15:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10113
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10113
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00253839.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00253839.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00253839.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds
+- TOP 2: Einwohnerfragestunde 24.11.2015 - zur Kenntnis genommen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift vom 27.10.2015 - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Bauanträge Überanger 5, 7, 9, 11, 11a, 13, 13a - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Grenzweg 12 -Grundstück der Franz-Vaahsen-Schule- Neubau einer Zweifachsporthallte -Grundsatzbeschlu - einstimmig beschlossen
+- TOP 14: Bebauungsplan Nr. 05/001 Einbrunger Straße/Graf-Recke-Stiftung - einstimmig beschlossen
+- TOP 15: Umbau der Zeppenheimer Straße im Bereich Edmund-Bertrams-Straße und der Straße Am Hüttenhof - mehrheitlich beschlossen
+- TOP 16: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - mehrheitlich abgelehnt
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2015
+- TOP 18: Zuschuss an den Angermunder Tennisclub - einstimmig beschlossen
+- TOP 19: Erneuerung eines Ballfangzaunes auf der Bezirkssportanlage Freiheitshagen - einstimmig beschlossen
+- TOP 20: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
+- TOP 21: Parken "Am Froschenteich" - Beidseitige Befestigung des Seitenstreifens - zur Kenntnis genommen
+- TOP 22: Ein- und Ausfahrt Heinrich-Walbröhl-Weg/Duisburger Landstraße - zur Kenntnis genommen
+- TOP 23: Bücherschrank Angermund
+- TOP 24: Bauarbeiten an der Niederrheinstraße und Fahrradfahrer - zur Kenntnis genommen
+- TOP 25: Stellplätze auf der Annostraße in Kaiserswerth - zur Kenntnis genommen
+- TOP 26: Verkehrsführung Lohausen Vorlage 175/131/2014 - zur Kenntnis genommen
+- TOP 27: Umrüstung von Gasleuchten - zur Kenntnis genommen
+- TOP 28: Sporthallenauslastung im Einzugsbereich Kaiserswerth
+- TOP 29: Feierabendmarkt im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 30: Finanzierung von Projekten bzw. Anschaffungen durch Mittel der BV 5
+- TOP 31: Anfahrtzeiten der Polizei nach Angermund - zur Kenntnis genommen
+- TOP 32: Zukunft der Gasbeleuchtung in Düsseldorf, speziell im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 33: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2015 - einstimmig beschlossen
+- TOP 34: Lantz'scher Park - einstimmig beschlossen
+- TOP 35: Stellungnahmen 24.11.2015 - zur Kenntnis genommen
+- TOP 36: Verschiedenes
