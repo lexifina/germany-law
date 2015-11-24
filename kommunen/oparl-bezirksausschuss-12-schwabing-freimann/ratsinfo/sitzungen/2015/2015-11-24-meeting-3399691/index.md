@@ -1,0 +1,113 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-11-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399691
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399691
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 10: sonstiges
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Partizipation ernst nehmen ? Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse; Schluss mit der Bevormundung ? Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen: Anhörung zu einem Antrag des BA 15 und einem Stadtratsantrag
+- TOP 9.2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate: Anhörung zu einem Antrag des BA 20 Hadern
+- TOP 9.3.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 9.4.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt ?Allgemeine Maßnahmen des Umweltschutzes? in ein Anhörungsrecht - Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 9.5.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien Anhörung zu einem Antrag des BA 17 Obergiesing-Fasangarten
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1.: Feuerwerk am Iphitos Restaurant, Aumeisterweg 10, am 11.12.2015
+- TOP 3.2.: Dauerhafte Durchführung des FairWERT Basars im Rahmen des Streetlife Festivals
+- TOP 4: Bürgeranliegen (1)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Trumpf oder Kritisch?, Schank- und Speisewirtschaft, Feilitzschstr. 14
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Verwendungsnachweise a) Freizeittreff Freimann für ?Spiel, Spaß, Spannung im Carl-Orff-Bogen-Park? am 05.08.2015 b) Corso Leopold e.V. für den Corso Leopold c) Evangelisches Hilfswerk München für das Sommerfest der Teestube ?KOMM? am 07.08.2015 d) Evangelisch-Lutherische Erlöserkirche für den 1. Schwabinger Orgelsonntag am 10.05.2015
+- TOP 5.3.2.: Kurzbericht zu Kunst im Karrée 2015
+- TOP 5.3.3.: Zuwendungsbewilligungen / Bescheide a) KuVe Kulturverein Alte Heide e.V. für das Theaterstück ?Yvonne, die Burgunderprinzessin? vom November 2015 bis Juni 2016 ? Zuschuss in Höhe von 3.250 Euro b) Verein Poesieboten e.V. für die Veranstaltung ?Mitmach-Poesie 2? im ASZ Freimann am 17.11.2015 ? Zuschuss in Höhe von 487 Euro c) Sozialservice-Gesellschaft des BRK GmbH für das Weihnachtssingen am 07.12.2015 ? Zuschuss in Höhe von 1.000 Euro
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Ungererstraße 163, Fl.Nr.: 963/0, Abbruch eines erdgeschossigen Ladens sowie Neubau eines Mehrfamilienhauses (20 WE) mit Tiefgarage (22 Stellplätze) ? Tektur, Fällung von sechs Bäumen gemäß Plan
+- TOP 3.1.2.: Fritz-Winter-Straße, Fl.Nr.: 880/151, Schulbauoffensive: Neubau ?Haus für Kinder? am Domagkpark, Funkkaserne IV, mit 4 Kindergarten- und 4 Kinderkrippenräumen, Fällung von vier Bäumen gemäß Plan
+- TOP 3.1.3.: Oberjägerstraße 14, Rückschnitt einer Scheinzypresse, einer Coloradotanne und einer Eibe
+- TOP 3.1.4.: Leinthalerstr. 1-1a, Fällung einer Birke
+- TOP 3.1.5.: Heckscherstraße 25, Fl.Nr.: 807/9, Neubau eines Doppelhauses mit Garagen ? Fällung von fünf Laubbäumen gemäß Plan
+- TOP 3.1.6.: Domagkstraße 34 ? Tektur der Freiflächengestaltung im Innenhof, Fällung von 25 Birken
+- TOP 3.1.7.: Mohrstraße 1, Fl.Nr.: 45/26, Umbau und Erweiterung (DG-Ausbau) eines Zweifamilien- in ein Dreifamilienhaus
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Max-Bill-Straße, Fl.Nr.: 880/143, Neubau einer Wohnanlage (4 Häuser/63 WE) mit Gemeinschaftsraum und Tiefgarage (?Funkkaserne/Domagkpark WA 5 - Ostteil?)
+- TOP 3.2.2.: Berliner Straße 85, Fl.Nr.: 859/24, Nutzungsänderung mit Umbau: Bürogebäude zu Hotel
+- TOP 3.2.3.: Kaulbachstraße 91-93, Fl.Nr.: 3252/7, Sanierung und Instandsetzung, Brandschutzsanierung und Zusammenlegung der Gebäude mittels Brandwanddurchbruch in allen Geschossen sowie Nutzungsänderung im 2. OG rechts, Hausnr. 93: Wohn- zu Bürofläche
+- TOP 3.2.4.: Ingolstädter Straße, Fl.Nr.: 320/12, Neubau Dreifachsporthalle mit Außenanlagen im Nachwuchsleistungszentrum FC Bayern München
+- TOP 3.2.5.: Vorbescheid Heidemannstraße 9, Fl.Nr.: 228/21, Erweiterung der ALDI-Verkaufsfläche und Umbau Parkplatz
+- TOP 3.2.6.: Errichtung eines Hauses für Kinder mit 2 Krippen- und Kindergartengruppe an der Freisinger Landstraße 70, Genehmigung des Nutzerbedarfsprogramms ? Anhörung zum Beschlussentwurf
+- TOP 3.2.7.: Gemeinde Oberschleißheim, Bebauungsplan Nr. 74 Westlich der Mittenheimer Straße, Blumen- sowie Gartenstraße
+- TOP 3.2.8.: BMW AG und ESV München-Freimann e.V.: a) Errichtung einer Brandwand; Sonderförderung im Rahmen einer gemeinsamen Finanzierung mit der BMW AG; b) Erneuerung der Heizungs- und Warmwasseranlage; Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München ? zugleich Erledigung einer Reihe von Empfehlungen aus der Bürgerversammlung Freimann 2011 auf Erhalt des ESV München-Freimann Beschlussvorlage für den Sportausschuss vom 02.12.2015
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Begrünung der Marktstraße zwischen Haimhauser- und Hesseloherstraße
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Josef-Raps-Straße 3: Fällung einer Scheinzypresse
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Denkmalschutz für das Forum Münchner Freiheit (Schreiben eines Bürgers an div. Stellen der Verwaltung)
+- TOP 5.3.2.: Nach Vorbild der ?Perspektive Freimann?: Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln (Antrag der Stadtratsfraktion Bündnis 90/Die Grünen vom 26.10.2015
+- TOP 5.3.3.: Domagkpark ? Öffentliche Grünflächen und südöstlicher Fußgängerbereich ? Bedarfs- und Konzeptgenehmigung, Projektauftrag, Genehmigung der Durchführung vorgezogener Baum- und Strauchentfernung; Sitzungsvorlage Nr.: 14-20 / V 03629, Beschluss des Bauausschusses vom 10.11.2015
+- TOP 5.3.4.: Neuordnung der Bauberatung, Sitzungsvorlage Nr.: 14-20 / V 03401, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 5.3.5.: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren, Sitzungsvorlage Nr.: 14-20 / V 04433, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 5.3.6.: 44. städtischer Fassadenwettbewerb, Sitzungsvorlage Nr.: 14-20 / V 04447, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 5.3.7.: Konzeption zur langfristigen Freiraumentwicklung ?Freiraum M 2030?: A) Bekanntgabe des Konzeptgutachtens, B) Vorbereitung der Öffentlichkeitsbeteiligung, Sitzungsvorlage Nr. 14-20 / V 04142, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 5.3.8.: BA-Entscheidungsrechte: Anträge für Warenauslagen mit Kleidung (Kleiderständer) auf öffentichen Gehwegen vor Einzelhandelsgeschäften mit Textilien: Bitte des KVR um Herbeiführung einer OB-Entscheidung in den Fällen Marktstr. 18, Hohenzollernstr. 36 und Occamstr. 1
+- TOP 5.3.9.: Sachstand der Planungen für die Bayernkaserne
+- TOP 5.3.10.: Baumaßnahmen der Stadtwerke a) Wasserprojekt Rümannstraße b) Fernwärmeprojekt Kaiserstraße c) Fernwärmeprojekt Am Nordring
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (4)
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: CarSharing in München: Ergebnisse der Evaluation des Pilotversuchs 2011-2015 Entwurf des Stadtratsbeschlusses für den Kreisverwaltungsausschuss vom 15.12.2015
+- TOP 4: Bürgeranliegen (3)
+- TOP 4.1.: Parkplatzsituation rund um die Hohenzollernstraße
+- TOP 4.2.: Unzulässige Ablagerungen auf dem Grundstück Wagrainweg 4
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.1.1.: Erstellung eines Fahrradkonzeptes für das Neubaugebiet Bayernkaserne; wirksame Infrastruktur für die Nutzung von Fahrrädern anstelle von Autos (BV-Empfehlung E 00528)
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Feuerwehranfahrt Völckerstraße
+- TOP 5.2.2.: Alte Heide: Aufhebung der Gefahrzeichens ?Kindergarten? ggü. Zugang zu Anwesen 18
+- TOP 5.2.3.: Vorübergehende Verlegung der Schulbushaltestelle und der Bücherbushaltestelle an der Grundschule in der Fröttmaninger Heide; Ergänzende Maßnahmen zur Gewährleistung der Befahrbarkeit der Fröttmaninger Straße durch Schulbusse
+- TOP 5.2.4.: Feilitzschstraße: Straßenneubau zwischen der Gunezrainer- und der Biedersteiner Straße vom 09.11. bis 18.12.2015
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Buslinie 181: Zusätzliche Fahrten an Schultagen ab 09.11.2015 ? Mitteilung der MVG
+- TOP 5.3.2.: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 ? Stufe II ? Finanzierungsbeteiligung, Sitzungsvorlage Nr.: 14-20 / V 03847, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 5.3.3.: Geplantes Naturschutzgebiet ?Südliche Fröttmaninger Heide?, Sitzungsvorlage Nr.: 14-20 / V 03910, Beschluss der Vollversammlung vom 21.10.2015
+- TOP 5.3.4.: Handlungsprogramm Mittlerer Ring ? fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen, Sitzungsvorlage Nr.: 14-20 / V 03651, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 5.3.5.: Ergänzung einer Verflechtungsspur zwischen Ifflandstraße und Dietlindenstraße, Sitzungsvorlage Nr.: 14-20 / V 03910, Beschluss des Bauausschusses vom 10.11.2015
+- TOP 5.3.6.: Leopoldstraße zwischen Hausnummer 202 und Johann-Fichte-Straße, Johann-Fichte-Straße Nordseite und Berliner Straße Westseite: Umbau von Radweg/Gehbahn/Parkbucht mit Wiederherstellung nach Hochbau im Umgriff des Bebauungsplanes mit Grünordnung Nr. 2029
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Seidlvilla-Verein e.V. Jazz-Festival am 07./08.05.2016
+- TOP 1: (E) Freilegung des Schwabinger Baches (Ziffer 3) Empfehlung Nr. 14-20 / E 00567 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 16.07.2015
+- TOP 3.3.: Adventstage in der Bayernkaserne (Freitag bis Sonntag an den vier Adventswochenenden)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tunnel Englischer Garten ? Stellungnahme zum Stadtratsbeschluss Handlungsprogramm Mittlerer Ring (s. TOP D 5.3.2)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: (E) Verlegung der Buszufahrt zu den Hotels Lyonel-Feininger-Straße in die Oskar-Schlemmer-Straße Empf. Nr. 14-20 / E 00563 der Bürgerversammlung des 12. Stadtbezirkes Schwabing-Freimann am 16.07.2015
