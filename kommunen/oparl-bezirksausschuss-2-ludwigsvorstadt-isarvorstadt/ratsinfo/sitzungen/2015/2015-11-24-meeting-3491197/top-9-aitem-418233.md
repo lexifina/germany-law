@@ -1,0 +1,7 @@
+# TOP .9.: Toilettenanlage im Maßmannpark, Antrag-Nr. 14 - 20 / A 00209 vom 27.08.2014; Öffentliche Toiletten in Grünanlagen, Antrag-Nr. 14 -20 / A 00485 vom 25.11.2014 und Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze, Antrag-Nr. 14 - 20 / A 00487 vom 25.11.2014, Sitzungsvorlage Nr. 14 - 20 / V 03798, Beschluss des Bauausschusses vom 22.09.2015 mit Berücksichtigung Änderungsantrag
+
+- Sitzung: BA 02 - Vollgremium (2015-11-24)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/418233
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/418233
