@@ -1,0 +1,67 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-11-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379758
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379758
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: SPD. Aufstellung von Sitzbänken auf dem Weg von der Winzererstraße zum Olympiasee
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Bürger: Erhalt des Elisabethmarktes
+- TOP 1.2.: Seniorenvertretung: Öffentliche Toilette am Elisabethmarkt
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Hohenzollernstr. 62 ?Pia Antonia?: Aufstellung einer Kleiderpuppe
+- TOP 2.1.2.: Belgradstr. 4, ?Babygucker?: Aufstellung einer Verkaufseinrichtung
+- TOP 2.1.3.: Lerchenauer Str. 30, ?Lekkerei?: Erweiterung der bestehenden Freischankfläche
+- TOP 2.1.4.: Karl-Theodor-Str. 65, ?Vitabella?: Aufstellung zusätzlicher Verkaufseinrichtungen
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Hiltenspergerstr. 49: Modernisierung und DG-Ausbau
+- TOP 2.1.2.: Vorbescheid Sailerstr. 11: Sanierung, Um- und Ausbau zweier Wohnkomplexe
+- TOP 2.1.3.: Karl-Theodor-Str. 69: Umbau mit Änderung tragender Bauteile, Nutzungsänderung
+- TOP 2.1.4.: Tektur Lerchenauer Str. 12: Dachausbau mit Gauben im Zuge einer Dachsanierung
+- TOP 2.1.5.: Tektur Infanteriestr. 11: Umbau eines Bürogebäudes mit Tiefgarage mit einer erdgeschossigen Erweiterung des rückwärtigen Anbaus und Nutzungsänderung von Büro zu Hochschule im EG
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Parkplatzsituation am Krankenhaus Schwabing
+- TOP 1.2.: Bürger: Fehlende Wertstoffcontainer im Bereich Rümann-/Isoldenstraße
+- TOP 1.3.: SPD: Fahrplanaushang in MVG-Wartehäuschen
+- TOP 1.4.: Grüne: Öffentliche Fahrradpumpen und Radservice-Stationen
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Kölner Platz 1 (Haus 7): Fällung einer Rosskastanie und dreier Spitzahornbäume
+- TOP 2.1.2.: Kölner Platz 1: Rückschnitt zahlreicher Bäume an Haus 1, 2, 3, 17, 27 und 29
+- TOP 2.1.3.: Ergänzende öffentliche Grünflächen im 4. Bauabschnitt des Ackermannbogens Entscheidung über die Projektplanung
+- TOP 2.1.4.: Belgradstr. 59: Fällung eines Ahornbaumes
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: CarSharing in München: Ergebnisse der Evaluation des Pilotversuchs 2011-2015 Anhörung zum Beschlussentwurf für den Kreisverwaltungsausschuss vom 02.12.2015
+- TOP 2.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Infanteriestr. 12
+- TOP 2.2.3.: Einrichtung eines Fußgängerüberwegs in der Georgenstraße östlich Isabellastraße und Änderung der Vorfahrtsregelung
+- TOP 2.2.4.: Verkehrs-Workshop und konsolidierte Ergebnisse
+- TOP 2.2.5.: Scharfkantige Randsteine ? Antrag des BA 8 Schwanthalerhöhe
+- TOP 2.2.1.: Partizipation ernst nehmen ? Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse; Schluss mit der Bevormundung ? Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen (Anhörung zu einem Antrag des BA 15 Trudering-Riem vom 20.10.2011 und einem Stadtratsantrag vom 21.03.2013)
+- TOP 2.2.2.: Änderung der BA-Satzung: Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate (Anhörung zu einem Antrag des BA 20 Hadern vom 08.066.2015)
+- TOP 2.2.3.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt ?Allgemeine Maßnahmen des Umweltschutzes? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 2.2.4.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien Anhörung zu einem Antrag des BA 17 Obergiesing-Fasangarten
+- TOP 2.2.5.: Umstellung der Software für die BA-Homepages: Abfrage des Schulungsbedarfs und weiterer Planungen
+- TOP 2.2.6.: Arbeitskreis Bürgerhaushalt
+- TOP 2.2.1.: Nachnutzung des Johanneskollegs Hiltenspergerstr. 84: Gemeinsames Wohnen von Studierenden und jungen erwachsenen Flüchtlingen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Caritas ALVENI Clearinghaus Anschaffung einer Kamera, eines Tintenstrahldruckers und drei MVV Jahreskarten
