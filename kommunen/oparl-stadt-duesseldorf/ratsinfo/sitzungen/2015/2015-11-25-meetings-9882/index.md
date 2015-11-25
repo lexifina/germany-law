@@ -1,0 +1,53 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-25T15:00:00+01:00
+- Ende: 2015-11-25T17:38:00+01:00
+- Ort: Luegallee 65, 40545 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9882
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9882
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254111.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254111.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254111.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 1.1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschriften der öffentlichen Sitzungen 6/2015 vom 26.08.2015 und 7/2015 vom 23.09.2015 - einstimmig beschlossen
+- TOP 3: Rheinpark Heerdt - mündliche Berichte - - zur Kenntnis genommen
+- TOP 4: Heerdter Landstraße / Knechtstedenstraße – Erschließung Baumarktgelände - zur Kenntnis genommen
+- TOP 5: Umbau des Kreuzungsbereiches Hansaallee / Löricker Straße / Schiessstraße - zur Kenntnis genommen
+- TOP 6: Wickrather Straße 31, Städtische Gemeinschaftsgrundschule Lörick - Erhöhung der Zügigkeit von 2 auf - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: BPL Nr.04/006 - Südlich Greifweg II - Stellungnahmen; Änderungen; Satzung - einstimmig beschlossen
+- TOP 9: "Effiziente Straßenbeleuchtung - Gasbeleuchtung"
+- TOP 9.1: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - einstimmig beschlossen
+- TOP 10: Wie kann die Aula Creativ-Haus besser genutzt werden? - beantwortet
+- TOP 11: Container für das Comenius-Gymnasium
+- TOP 12: Schulbaumaßnahmen linksrheinisch
+- TOP 13: Sachstandsanfrage JFE Heerdt
+- TOP 14: Altlastensanierung Am Mühlenberg
+- TOP 15: Grundstück Belsenstraße / Siegfriedstraße - beantwortet
+- TOP 16: Verkehrssicherheit erhöhen - Kreuzung Hanssaallee 100
+- TOP 17: Heerdter Zentrum beleben - Wochenmarkt ermöglichen
+- TOP 18: Aktueller Anteil von Mietwohnungen und gef. Wohnungen - beantwortet
+- TOP 19: Auswahl neuer Straßenlaternen - beantwortet
+- TOP 20: FNP-Ä 162-Hansaallee/Böhlerstr- Ergänzendes Verf. ; öff.Auslegung - einstimmig beschlossen
+- TOP 21: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - zur Kenntnis genommen
+- TOP 22: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - einstimmig beschlossen
+- TOP 23: Unterhaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 24: Unterhaltung von Grundstücken und baulichen Anlagen - mehrheitlich beschlossen
+- TOP 25: Neue weiterführende Schule für das Linksrheinische - mehrheitlich abgelehnt
+- TOP 26: Wo bleibt das Verkehrskonzept für den Belsenplatz? - einstimmig beschlossen
+- TOP 27: Ausbau und Ergänzung Rad- und Fußweg auf dem alten Heerdter Mühlenberg - einstimmig beschlossen
+- TOP 28: Das Kirschbaumwäldchen neu bepflanzen - einstimmig beschlossen
+- TOP 29: Eine Bezirksvertretungs-Beschlusskontrolle für mehr Transparenz und Nachvollziehbarkeit einführen - einstimmig beschlossen
+- TOP 30: Begrünung und Entsiegelung an den neuen zusätzlichen Parkplätzen am Kaiser-Friedrich-Ring - einstimmig beschlossen
+- TOP 31: Zuständigkeit für Erneuerung der Straßenbeleuchtung - mehrheitlich abgelehnt
+- TOP 32: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 33: Umsetzung Bäderkonzept - Ergänzungsantrag - einstimmig beschlossen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
