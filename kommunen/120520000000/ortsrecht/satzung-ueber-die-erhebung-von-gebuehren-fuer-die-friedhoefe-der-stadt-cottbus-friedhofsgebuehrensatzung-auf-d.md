@@ -1,15 +1,15 @@
 # Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus (Friedhofsgebührensatzung) Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung 
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
-- Datum: 2013-11-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/Friedhofsgebuehren1-2.pdf
+- Datum: 2015-11-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://cottbus.de/satzungen/Friehofsgebuehrensatzung__2016-2.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus (Friedhofsgebührensatzung)
-Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung und der Einführung der Direktwahl der Landräte sowie zur Änderung sonstiger kommunalrechtlicher Vorschriften vom 18.12.2007 (GVBl Bbg Teil I S. 286 ff) in der jeweils geltenden Fassung, der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Brandenburg in der Fassung der Bekanntmachung vom 31.03.2004 (GVBl. I S. 174) in der jeweils geltenden Fassung, und der Friedhofssatzung der Stadt Cottbus vom 01.12.2008, veröffentlicht im Amtsblatt für die Stadt Cottbus am 31.12.2008 sowie in Gestalt der 1. Änderung der Friedhofssatzung der Stadt Cottbus vom 25.11.2009, veröffentlicht im Amtsblatt für die Stadt Cottbus am 31.12.2009, hat die Stadtverordnetenversammlung der Stadt Cottbus in ihrer Tagung am 27.11.2013 folgende Satzung beschlossen:
+Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung und der Einführung der Direktwahl der Landräte sowie zur Änderung sonstiger kommunalrechtlicher Vorschriften vom 18.12.2007 (GVBl Bbg Teil I S. 286 ff) in der jeweils geltenden Fassung, der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Brandenburg in der Fassung der Bekanntmachung vom 31.03.2004 (GVBl. I S. 174) in der jeweils geltenden Fassung, und der Friedhofssatzung der Stadt Cottbus vom 01.12.2008, veröffentlicht im Amtsblatt für die Stadt Cottbus am 31.12.2008 sowie in Gestalt der 1. Änderung der Friedhofssatzung der Stadt Cottbus vom 25.11.2009, veröffentlicht im Amtsblatt für die Stadt Cottbus am 31.12.2009, hat die Stadtverordnetenversammlung der Stadt Cottbus in ihrer Tagung am 25.11.2015 folgende Satzung beschlossen:
 § 1 Gegenstand der Gebühren
 (1) Für die Benutzung der städtischen Friedhöfe und ihrer Einrichtungen sowie für die Inanspruchnahme der im Zusammenhang stehenden Leistungen des städtischen Friedhofs- und Bestattungswesens werden Gebühren gemäß nachstehenden Bestimmungen erhoben. Die Stadt Cottbus erhebt Benutzungsgebühren und Verwaltungsgebühren.
 (2) Die Höhe der Gebühren richtet sich nach dem nachstehenden Gebührentarif, der Bestandteil dieser Satzung ist.
@@ -19,7 +19,7 @@ Auf der Grundlage der §§ 3, 28 Abs. 2 Nr.9 des Artikel 1 (Kommunalverfassung d
 (3) Gebührenschuldner der Verwaltungsgebühr ist, wer die Leistung der Verwaltung beantragt oder wen die Leistung unmittelbar begünstigt.
 § 3 Entstehung und Fälligkeit der Gebührenschuld
 (1) Die Gebührenschuld entsteht bei Benutzungsgebühren mit der Inanspruchnahme der gebührenpflichtigen Leistung, bei den Gebühren für das Nutzungsrecht an Grabstätten mit der Verleihung des Nutzungsrechts. Bei Verwaltungsgebühren entsteht die Gebührenschuld mit der Beendigung der Amtshandlung oder sonstigen Tätigkeit.
-(2) Die Benutzungsgebühren der Tarife A bis C und die Verwaltungsgebühren der Tarife D bis F werden 4 Wochen nach Bekanntgabe des Gebührenbescheides fällig.
+(2) Die Benutzungsgebühren der Tarife A bis C und die Verwaltungsgebühren der Tarife D bis F werden 2 Wochen nach Bekanntgabe des Gebührenbescheides fällig.
 1
 
 § 4 Gebührenmaßstab
@@ -44,33 +44,33 @@ Erdreihengrabstätten
 
 A.1.1.
 
-Erdreihengrabstätten für Verstorbene bis zum vollendeten 5. Lebensjahr
+Erdreihengrabstätte für Verstorbene bis zum vollendeten 5. Lebensjahr
 
-375,00 €
+451,46 €
 
 A.1.2.
 
-Erdreihengrabstätten für Verstorbene ab dem vollendeten 5. Lebensjahr
+Erdreihengrabstätte für Verstorbene ab dem vollendeten 5. Lebensjahr
 
-726,00 €
+779,00 €
 
 A.1.3.
 
 Erdreihengrabstätte mit Wahlgrabcharakter 1 Erdbestattung und 1 Urne
 
-907,50 €
+971,32 €
 
 A.1.3.1.
 
 Verlängerung des Nutzungsrechts pro Jahr nach A.1.3.
 
-36,30 €
+38,85 €
 
 A.1.4.
 
-Erdgemeinschaftsgrabstätten
+Erdgemeinschaftsgrabstätte
 
-1.393,66 €
+1.519,31 €
 
 A.2.
 
@@ -78,21 +78,21 @@ Urnenreihengrabstätten
 
 A.2.1.
 
-Urnenreihengrabstätten
+Urnenreihengrabstätte
 
-362,00 €
+439,33 €
 
 A.2.2.
 
 Urnengemeinschaftsgrabstätte namentlich
 
-612,78 €
+690,15 €
 
 A.2.3.
 
 Urnengemeinschaftsgrabstätte o. Namen
 
-542,64 €
+583,20 €
 
 A.3.
 
@@ -104,115 +104,118 @@ Erdwahlgrabstätten (Parzellen)
 
 A.3.1.1.
 
-Erdwahlgrabstätten für 1 Erdbestattung und 2 Urnen
+Erdwahlgrabstätte für 1 Erdbestattung und 2 Urnen
 
-746,25 €
+758,61 €
 
 A.3.1.2.
 
-Erdwahlgrabstätten für 2 Erdbestattungen und 4 Urnen
+Erdwahlgrabstätte für 2 Erdbestattungen und 4 Urnen
 
-1.492,50 €
+1.517,21 €
 
 A.3.1.3.
 
 für jede weitere Grabstätte
 
-746,25 €
+758,61 €
 
 A.3.1.4.
 
 Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.1.
 
-29,85 €
+30,34 €
+
+A.3.1.5.
+
+Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.2.
+
+60,69 €
 
 2
 
-A.3.1.5.
-A.3.1.6.
-A.3.2. A.3.2.1. A.3.3.
-A.3.3.1. A.3.4. A.3.4.1. A.3.5. A.3.5.1.
-B
-B.1. B.1.1.
-B.1.2.
-B.2. B.2.1.
-B.2.2.
-B.3. B.4. B.5. B.6.
+A.3.1.6. A.3.2. A.3.2.1. A.3.3. A.3.3.1. A.3.4. A.3.4.1. A.3.5. A.3.5.1.
+B B.1. B.1.1. B.1.2. B.2. B.2.1. B.2.2. B.3. B.4. B.5. B.6.
 
-Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.2. Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.3. 2-stellige Urnenwahlgrabstätte Verlängerung des Nutzungsrechts pro Jahr mehrstellige Urnenwahlgrabstätte/UrnenfamilienGrabstätte bis 5 Urnen Verlängerung des Nutzungsrechts pro Jahr Urnengrabstätten im Friedhain bis 5 Urnen Verlängerung des Nutzungsrechts pro Jahr Urnenparzellen bis 8 Urnen Verlängerung des Nutzungsrechts pro Jahr
+Verlängerung des Nutzungsrechts pro Jahr nach A.3.1.3.
+2-stellige Urnenwahlgrabstätte
+Verlängerung des Nutzungsrechts pro Jahr nach A.3.2.
+mehrstellige Urnenwahlgrabstätte/Urnenfamiliengrabstätte bis 5 Urnen
+Verlängerung des Nutzungsrechts pro Jahr nach A.3.3.
+Urnengrabstätte im Friedhain bis 5 Urnen
+Verlängerung des Nutzungsrechts pro Jahr nach A.3.4.
+Urnenparzelle bis 8 Urnen
+Verlängerung des Nutzungsrechts pro Jahr nach A.3.5.
 Gebühren für die Bestattung
-Erdbestattung in Reihengräbern Verstorbene bis zum vollendeten 5. Lebensjahr einschl. Trägerleistung (2 Träger) Verstorbene ab dem vollendeten 5. Lebensjahr einschl. Trägerleistung (4 Träger) Erdbestattung in Erdwahlgrabstätten Verstorbene bis zum vollendeten 5. Lebensjahr einschl. Trägerleistung(2 Träger) Verstorbene ab dem vollendeten 5. Lebensjahr einschl. Trägerleistung (4 Träger) Urnenbeisetzung einschl. Trägerleistung Urnenumbettung einschl. Trägerleistung Träger zur Trauerfeier (4 Träger, je Träger 66,82 €) Urnenausbettung
-3
+Erdbestattung in Reihengrabstätten
+Verstorbene bis zum vollendeten 5. Lebensjahr einschl. Trägerleistung (2 Träger)
+Verstorbene ab dem vollendeten 5. Lebensjahr einschl. Trägerleistung (4 Träger)
+Erdbestattung in Erdwahlgrabstätten
+Verstorbene bis zum vollendeten 5. Lebensjahr einschl. Trägerleistung (2 Träger)
+Verstorbene ab dem vollendeten 5. Lebensjahr einschl. Trägerleistung (4 Träger)
+Urnenbeisetzung einschl. Trägerleistung
+Urnenumbettung einschl. Trägerleistung
+Träger zur Trauerfeier (4 Träger, je Träger 70,18 €)
+Urnenausbettung
 
-Gebühren 59,70 € 29,85 €
-452,50 € 18,10 €
-525,63 € 21,03 €
-1.754,79 € 70,19 €
-779,53 € 31,18 €
-259,51 € 614,56 €
-371,84 € 682,99 € 129,11 €
-58,10 € 267,26 € 144,60 €
+Gebühren 30,34 €
+546,75 € 21,87 €
+614,98 € 24,60 €
+1.394,84 € 55,79 €
+851,91 € 34,08 €
+271,76 € 644,18 €
+389,19 € 715,75 € 135,32 €
+61,51 € 280,71 € 150,98 €
+3
 
 C C.1. C.1.1.
 C.2. C.3. C.4. C.5.
-D D.1. D.2. D.3. D.4. E E.1. E.1.1. E.2.
-
-Benutzung sonstiger Friedhofseinrichtungen
+D
+D.1. D.2. D.3. D.4. D.5. E E.1. E.1.1. E.2.
 
 Gebühren
 
+Benutzung sonstiger Friedhofseinrichtungen
+
 Benutzung Feierhallen: Süd-, Nord-, Madlower-, Schmellwitzer-, Ströbitzer Friedhof
 
-171,24 €
+176,95 €
 
 Benutzung der Feierhallen: Branitz, Dissenchen, Döbbrick, Gallinchen,
 
 Groß Gaglow, Kahren, Kiekebusch, Merzdorf, Saspow, Schlichow,
 
-128,51 €
+134,94 €
 
 Sielow, Skadow, Willmersdorf
 
 Benutzung des Harmoniums und Tontechnik
 
-16,74 €
+14,67 €
 
-Nutzung des Kranzwagens
+Benutzung des Kranzwagens
 
-50,35 €
+52,56 €
 
 Glocke läuten
 
-64,56 €
+67,10 €
 
 Gebühr für die Nutzung der Kühlzelle pro angebrochenen Tag
 
-12,05 €
+14,24 €
 
-Verwaltungsgebühren zur Aufstellung eines Grabmals/ Einfassung sowie Überwachung der Standfestigkeit von Grabmalen
+Verwaltungsgebühren zur Aufstellung eines Grabmals/ Einfassung liegendes Grabmal stehendes Grabmal auf Reihengrabstätte stehendes Grabmal auf Wahlgrabstätte Einfassung je angefangener lfd. m Grababdeckplatte je angefangenen m²
 
-liegende Grabmale
-
-32,26 €
-
-stehende Grabmale auf Reihengrabstätten
-
-70,97 €
-
-stehende Grabmale auf Wahlgrabstätten
-
-80,65 €
-
-Einfassungen je angefangener lfd. m
-
-6,72 €
+24,31 € 31,26 € 31,26 €
+5,06 € 20,43 €
 
 Verwaltungsgebühren zur Zulassung zur gewerblichen Tätigkeit
-Zulassungsgebühren nach § 7 der Friedhofssatzung der Stadt Cottbus für drei Jahre
+Zulassungsgebühr nach § 7 der Friedhofssatzung der Stadt Cottbus für 3 Jahre
 Verlängerung der Zulassung um weitere 3 Jahre
 einmalige Zulassung für gewerbliche Tätigkeiten
 
-61,30 € 45,17 € 48,39 €
+38,20 € 31,26 € 31,26 €
 
 4
 
@@ -220,29 +223,29 @@ F
 
 Verwaltungsgebühren/Urkunden/Anträge
 
-Gebühren
-
 F.1. F.2. F.3. F.4. F.5. F.6. F.7. F.8. F.9.
 F.9.1. F.9.2.
 
 Beisetzungsgenehmigung
 Neupachtung einer Parzelle
 Nachpachtung einer Parzelle
-Neuerwerb eines Erdreihengrabes/ Urnenreihengrab
+Neuerwerb einer Erdreihengrabstätte/ Urnenreihengrabstätte
 Neupachtung einer Urnenwahl-/ Urnenfamiliengrabstätte
 Nachpachtung einer Urnenwahl-/ Urnenfamiliengrabstätte
 Umbettung nach außerhalb
 Umbettung innerhalb der Stadt Cottbus
 Sonstige genehmigungspflichtige Ausnahmen (Antrag auf Ausbettung vor Ablauf der Ruhefristen von Erd- und Urnenbestattungen)
 Sonstige genehmigungspflichtige Ausnahmen (musikalische Begleitung an der Grabstätte)
-Anträge auf Ahnenforschung
+Antrag auf Ahnenforschung
 
-12,90 € 32,26 € 22,58 € 19,36 € 29,03 € 16,13 € 30,04 € 16,13 €
-45,17 € 12,90 € 41,94 €
+Gebühren
+13,89 € 34,73 € 27,79 € 20,84 € 34,73 € 27,79 € 38,28 € 20,84 €
+45,15 € 13,89 € 38,20 €
 
 § 5 Inkrafttreten
-Die Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus (Friedhofsgebührensatzung) tritt am 01.01.2014 in Kraft.
+Die Satzung über die Erhebung von Gebühren für die Friedhöfe der Stadt Cottbus (Friedhofsgebührensatzung) tritt am 01.01.2016 in Kraft.
 
-Cottbus, 28.11.2013
-gez. Frank Szymanski Oberbürgermeister der Stadt Cottbus
+Cottbus, 26.11.2015
+gez. Holger Kelch Oberbürgermeister der Stadt Cottbus
+
 5
