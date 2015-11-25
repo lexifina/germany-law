@@ -1,0 +1,58 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-25T16:00:00+01:00
+- Ende: 2015-11-25T18:20:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9940
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9940
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254126.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254126.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254126.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: AuF-Beschluss Bolzplatz Osterfelder Straße 2.BA - einstimmig beschlossen
+- TOP 4: AuF-Beschluss Grünverbindung Rather Korso Nord - einstimmig beschlossen
+- TOP 5: Städtebauförderung Soziale Stadt Rath/Mörsenbroich und Wersten/Holthausen: Bericht zur Zwischenevalu - zur Kenntnis genommen
+- TOP 6: Anfrage GRÜNE: Lärmreduzierung Bochumer Straße - beantwortet
+- TOP 7: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 8: Anfrage Daxenberger: Auswirkungen auf Bevölkerung im Stadtgebiet 6 - beantwortet
+- TOP 9: Anfrage GRÜNE: Energetische Sanierung - beantwortet
+- TOP 10: Anfrage CDU+FDP: Umzug Kath. GS Rather Kreuzweg - beantwortet
+- TOP 11: Anfrage SPD: Umbau Haltestellen - beantwortet
+- TOP 12: Anfrage SPD: Toilette in Rath - beantwortet
+- TOP 13: AnfrageFDP+Sül: Tankstelle Kalkumer straße - beantwortet
+- TOP 14: Anfrage Meier: Bruthilfen - beantwortet
+- TOP 15: Anfrage Grüne: Baumbestand in Privatbesitz - beantwortet
+- TOP 16: Anfrage Freitag (SPD): Autohändler Driburger Straße - beantwortet
+- TOP 17: Anfrage BÜ90/GRÜNE: Lebendiger Weihnachtsbaum - vertagt
+- TOP 18: Anfrage BÜ90/GRÜNE u.a.: Öffnungszeiten Jfe - vertagt
+- TOP 19: Anfrage CDU: Sachstand 1.000 Bänke - vertagt
+- TOP 20: Antrag CDU, FDP, Bü90/Grüne: Grundstück Nutzung Urban Gardening - einstimmig beschlossen
+- TOP 21: Antrag FDP/CDU: Busanbindung Airport City - einstimmig beschlossen
+- TOP 22: Antrag Grüne: Bürgerbeteiligung Gasleitung - zurückgezogen
+- TOP 23: Antrag FDP und CDU: Bau- und Planungsmaßnahmen Theodorstraße - einstimmig beschlossen
+- TOP 24: Interfr. Antrag: Bottroper Straße - letzes Teilstück - einstimmig beschlossen
+- TOP 25: Antrag SPD: Feierabendmarkt im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 26: Antrag CDU: Bücherbus - mehrheitlich beschlossen
+- TOP 27: Interfraktioneller Antrag: Welcome-Point - einstimmig beschlossen
+- TOP 28: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
+- TOP 29: Barrierefreier Neubau der Bushaltestelle nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 30: Anpassungen im ergänzenden Bus- und Straßenbahnnetz mit Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 31: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - mehrheitlich beschlossen
+- TOP 32: Pflanzmaßnahmen nach Ela - zur Kenntnis genommen
+- TOP 33: Bauunterhaltungsmittel 2015 - laufende Maßnahmen - mehrheitlich beschlossen
+- TOP 34: Bauunterhaltungsmittel 2015 - Restmittel - einstimmig beschlossen
+- TOP 35: Zuschussvergabe und Förderung Dritter 2015 - einstimmig beschlossen
+- TOP 36: MdV - GAT-Tafeln auf der Straße "Auf der Reide" - zur Kenntnis genommen
+- TOP 37: MdV - Absenkung einer Bordsteinkante - zur Kenntnis genommen
+- TOP 38: MdV - ÖPNV-Behinderung an der Kreuzung Kalkumer Straße etc. - zur Kenntnis genommen
+- TOP 39: MdV - Ersatzpflanzung von 156 Bäumen - zur Kenntnis genommen
+- TOP 40: MdV - Kalkumer Straße 179-181 - zur Kenntnis genommen
+- TOP 41: MdV - Installierung eines Verkehrsspiegels - zur Kenntnis genommen
