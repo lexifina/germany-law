@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-11-25T14:00:00+01:00
+- Ende: 2015-11-25T19:15:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2823
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2823
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 9. Sitzung des Rates am 17.06.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Mitgliederversammlung des Städtetages NRW - Siehe Niederschrift
+- TOP 3: Gründung einer Anstalt des öffentlichen Rechts (AöR) - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Gründung AöR SBMG - Vom Antragsteller zurückgezogen
+- TOP 3.2: Satzung Anstalt des öffentlichen Rechts - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 3.3: Gründung AöR-Grüne - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Vertretung der Stadt MG im Verwaltungsrat der AöR - Gewählt nach Hare Niemeyer
+- TOP 5: Übertragung der städtischen Anteile an der GEM - Mit Stimmenmehrheit beschlossen
+- TOP 6: Vertretung der Stadt MG im AR der GEM - Gewählt nach Hare Niemeyer
+- TOP 7: Beteiligung der NEW Kommunalholding - Kenntnisnahme
+- TOP 7.1: Klimaschutz und Beendigung Teilnahme GEKKO - Mit Stimmenmehrheit abgelehnt
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 9: Deponie Radermühlenberg - Einstimmiger Beschluss
+- TOP 10: Widerspruchausschuss des Niersverbands - Einstimmiger Beschluss
+- TOP 11: Warnung der Bevölkerung - Aufbau eines Sirenennetzes - Einstimmiger Beschluss
+- TOP 12: teilweise Aufhebungsverordnung verkaufsoffener Sonntag 6. Dezember 2015 (Wickrath) - Einstimmiger Beschluss
+- TOP 13: Taxentarif und Taxenverordnung - Einstimmiger Beschluss
+- TOP 14: Entwicklung des Umfeldes Grenzlandstadion zu einem „Sportpark Rheydt“ - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 15: Schiedsamtswahl Bezirk Nord/1 - Einstimmiger Beschluss
+- TOP 16: Schiedsamtswahl Bezirk Nord/2 - Einstimmiger Beschluss
+- TOP 17: Schiedsamtswahl Bezirk Ost/1 - Einstimmiger Beschluss
+- TOP 18: Bebauungsplan Nr. 763/O - Stadtbezirk Ost ("Am Woltershof") - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 726/N, Stadtbezirk Nord, Gebiet zwischen Eickener Straße - Einstimmiger Beschluss
+- TOP 20: Bebauungsplan Nr. 710/N - Stadtbezirk Nord - Windberg - Einstimmiger Beschluss
+- TOP 21: Erste Verlängerung einer Veränderungssperre (Gebiet zwischen Gladbacher Straße, Nordpark, Hockeypark - Einstimmiger Beschluss
+- TOP 22: 1. Verlängerung der Veränderungssperre (Gebiet nördlich der Steinsstraße, zwischen der Bahntrasse un - Einstimmiger Beschluss
+- TOP 23: Elektromobilität in Mönchengladbach stärken - Getrennte Abstimmung (s. Niederschrift)
+- TOP 23.1: Elektromobilität in Mönchengladbach stärken - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Freies WLAN für Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 25: Breitbandversorgung - Mit Stimmenmehrheit beschlossen
+- TOP 25.1: Breitbandversorgung - Ohne Abstimmung
+- TOP 26: Fluglärm Mönchengladbach - Einstimmiger Beschluss
+- TOP 27: TOP 1102/IX, Sachstandsbericht zur beantragten Änderung der Betriebsgenehmigung des Flughafens Düsse - Mit Stimmenmehrheit abgelehnt
+- TOP 27.1: TOP 1102/IX, Sachstandsbericht zur beantragten Änderung der Betirebsgenehmigung des Flughafens Düsse - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 27.2: TOP 1102/IX, Sachstandsbericht zur beantragten Änderung der Betriebsgenehmigung des Flughafens Düss - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Touristeninformation - Mit Stimmenmehrheit abgelehnt
+- TOP 28.1: Verlegung des städtischen Kulturbüros in das Vitus-Center, mit Erweiterung um den Aufgabenbereich - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Ressourcenschutz - Umweltfreundlicher Umgang mit Elektroschrott - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Novellierung Kommunalrichtlinien Klimaschutz - Einstimmiger Beschluss
+- TOP 31: Mindeslohngesetz (MiLoG) für das Ehrenamt im Sport - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 32.1: Mitteilung von Beigeordnetem Dr. Fischer zur Flüchtlingssituation - Zur Kenntnis genommen
+- TOP 32.2: Anfrage von RH Sasserath (Bündnis 90/die Grünen) zum Umsetzungsstand der Benennung einer/eines Flüchtlingsbeauftragten - Zur Kenntnis genommen
+- TOP 32.3: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zu den Aufzeichnungsfristen von Tonbandaufnahmen aus den Sitzungen der Ratsgremien - Zur Kenntnis genommen
