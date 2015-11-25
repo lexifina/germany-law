@@ -1,0 +1,51 @@
+# Rat (20. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2015-11-25T18:00:00+01:00
+- Ende: 2015-11-25T22:25:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZb5y5-Vjw2eUvgXKd0d394I
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3057
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ7qymR0G6jGiqMTo9bHO-DZSFTWuOHdjgb1rkD2VAjA/Bekanntmachung_Rat_25.11.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZo16hd2r-sie4ZYeQqb05WR8-1esS5tg61I3xSiFsU4/Oeffentliche_Niederschrift_Rat_25.11.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Aktivitäten zur Raumnutzung der Realschule Epe (Bernhard Herwing, Gronau)
+- TOP 3.: Niederschrift vom 04.11.2015
+- TOP 4.: Genehmigung zur Beteiligung der Stadtwerke Gronau GmbH an der Trianel Erneuerbare Energien GmbH - 34 Jastimmen, 5 Neinstimmen, 0 Enthaltungen
+- TOP 5.: Budgetbericht zum III-Quartal 2015 - Ohne Abstimmung
+- TOP 6.: Benehmensherstellung zur Kreisumlage 2016 - 36 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 7.: Erlass einer Hebesatzsatzung für das Haushaltsjahr 2016 - 15 Jastimmen, 23 Neinstimmen, 0 Enthaltungen
+- TOP 8.: Umnutzung in den Räumlichkeiten der Anne-Frank-Schule - Einstimmig, 1 Enthaltungen
+- TOP 9.: Mehrstufiges strukturiertes Bieterverfahren Wettbewerblicher Dialog für die Entwicklung des "Hertie"-Geländes und des Umfelds hier: Besetzung des Bewertungsgremiums (Jury) - 22 Jastimmen, 16 Neinstimmen, 0 Enthaltungen
+- TOP 10.: 22. Änderungssatzung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Investorenanfrage für eine Pflegeeinrichtung mit bis zu 80 Plätzen - Ohne Abstimmung
+- TOP 12.: Bebauungsplan Nr. 72 „An der Eßseite“ – 5. Änderung - Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB und der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 2. Satzungsbeschluss gem. § 10 BauGB - 36 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Förderung einer Bürokraftstelle der Verbraucherzentrale Gronau - 16 Jastimmen, 23 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Sitzungstermine 2016 - Ohne Abstimmung
+- TOP 15.: Situation der Unterbringung von Flüchtlingen in Gronau - aktueller Sachstand - Ohne Abstimmung
+- TOP 15.1: Schaffung von Wohnraum für Flüchtlinge und Asylbegehrende; Projekt "Haus der Gronauer" - Einstimmig, 0 Enthaltungen
+- TOP 16.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 17.: Mitteilungen der Verwaltung
+- TOP 18.: Anfragen
+- TOP 18.1: Einrichtung einer zusätzlichen Laubsammelstelle (RM von Borczyskowski)
+- TOP 18.2: Folgekosten für die Linksabbiegerspur des künftigen Tierheims in Ahaus (RM von Borczyskowski)
+- TOP 18.3: Sachstand zum Ratsbeschluss "Förderung freier Netze" (RM Strestik)
+- TOP 18.4: Sachstand zum Ratsbeschluss "Modernisierung der städtischen Homepages" u.a. (RM Strestik)
+- TOP 18.5: Wasserzeichen auf öffentlichen Sitzungsunterlagen (RM Post)
+- TOP 18.6: Sachstand zum Ratsbeschluss "Soziale Stadt" (RM Ricking)
+- TOP 18.7: Ordnungsgemäße Entsorgung von Laub (RM Greitenevert)
+- TOP 18.8: Eckgrundstück An der Alten Spinnerei/Schwarzenbergstraße vermarktet? (1. Stellv. d. BM Doetkotte)
+- TOP 18.9: Fairtrade-Produkte im Rathaus (RM Buchholz)
+- TOP 18.10: Termin der Inbetriebnahme des Uranoxidlagers der Urenco Deutschland GmbH bekannt? (RM Buchholz)
+- TOP 18.11: Wie viel neuer Wohnraum wird aktuell in Gronau geschaffen (RM Bartels)
+- TOP 18.12: Sachverständigen zur Erläuterung der Kaufkraftzahlen einladen (RM Bartels)
+- TOP 18.13: Vorgaben des Entwicklungskonzepts Epe noch präsent? (RM Post)
+- TOP 18.14: Werbung auf den Mülltonnen der Fa. Stenau (RM Strestik)
