@@ -1,0 +1,8 @@
+# TOP 9: Abschluss einer Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Be
+
+- Sitzung: Jugendhilfeausschuss (2015-11-26)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/126193
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/20557
