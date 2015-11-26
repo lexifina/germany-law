@@ -1,0 +1,6 @@
+# TOP 5: Berichte aus den Unterausschüssen
+
+- Sitzung: 19. Sitzung des Jugendhilfeausschusses (2015-11-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/72007
