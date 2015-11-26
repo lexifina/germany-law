@@ -1,0 +1,62 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-11-26T17:07:00+01:00
+- Ende: 2015-11-26T21:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9919
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9919
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00380225.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 2.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Einbringen von Eingaben
+- TOP 5: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 5.1: Organisationsuntersuchung im Amt für Immobilienmanagement / Erste Ergebnisse und weiteres Vorgehen - mehrheitlich geändert beschlossen
+- TOP 5.2: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen - einstimmig beschlossen
+- TOP 5.3: Neukonzeption der zeitnahen und potenzialorientierten Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen in Münster - Ausbau und Weiterentwicklung der kommunalen Konzeption - einstimmig beschlossen
+- TOP 5.4: Ausstieg aus der landwirtschaftlichen Klärschlammverwertung - einstimmig geändert beschlossen
+- TOP 5.5: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 5.6: Bahnhofsvorplatz Westseite - Neugestaltung Berliner Platz, Planungs- und Baubeschluss - ohne Beschlussfassung geschoben
+- TOP 5.7: Halle Münsterland - Sanierung Tonnendach - ohne Beschlussfassung geschoben
+- TOP 5.8: 65. Änderung des Flächennutzungsplanes der Stadt Münster zur Darstellung von Konzentrationszonen für Windenergieanlagen - Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB - - ohne Beschlussfassung geschoben
+- TOP 5.9: Neubau der 2. Städtischen Gesamtschule Münster - einstimmig beschlossen
+- TOP 5.9.1: Neubau der 2. Städtischen Gesamtschule Münster
+- TOP 5.10: Umbau Hansaring zur Anbindung des Hafencenters, - Planungs- und Baubeschluss - - ohne Beschlussfassung geschoben
+- TOP 5.11: Sanierungsmaßnahmen im Stadtmuseum - einstimmig beschlossen
+- TOP 5.12: Antrag an den Rat Nr. A-R/0031/2015: Speicher für den Sonnenstrom - einstimmig beschlossen
+- TOP 5.13: Antrag an den Rat Nr. A-R/0065/2015: Energiepark Münster - von der Tagesordnung abgesetzt
+- TOP 5.14: Antrag der SPD-Fraktion an den Rat (Nr. A-R/0036/2015) vom 08.06.2015 - einstimmig beschlossen
+- TOP 5.15: Neubau einer 5-Gruppen Kindertageseinrichtung an der Malteserstraße - einstimmig beschlossen
+- TOP 5.16: Grevener Straße /Am Burloh – Umbau des Knotenpunktes zur Erhöhung der Verkehrssicherheit der Radfahrer und Fußgänger und barrierefreier Ausbau der Haltestellen „Am Burloh C und D“ im Zuge der Instandsetzungsmaßnahmen zwischen Nienkamp und Kanalstraße - einstimmig beschlossen
+- TOP 5.17: Vorhabenbezogener Bebauungsplan Nr. 564 Gremmendorf - Nordwestlich Gremmendorfer Weg - einstimmig beschlossen
+- TOP 5.18: Umbau des Knotenpunktes Weseler Straße / B51 "Spinne" 2. BA - einstimmig beschlossen
+- TOP 5.19: Bebauungsplan Nr. 566 Hiltrup - Malteserstraße / Langestraße - einstimmig beschlossen
+- TOP 5.20: Edelbach - Naturnaher Ausbau und ökologische Verbesserung des Unterlaufs von der Straße Havichhorster Mühle bis zur Mündung in die Werse - Baubeschluss -
+- TOP 5.21: Canisiusgraben - naturnaher Ausbau, ökologische Gewässerverbesserung und Hochwasserschutz - einstimmig beschlossen
+- TOP 5.22: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Hiltrup - einstimmig beschlossen
+- TOP 5.23: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Mitte - einstimmig beschlossen
+- TOP 5.24: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Nord - einstimmig beschlossen
+- TOP 5.25: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Ost - einstimmig beschlossen
+- TOP 5.26: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Südost - einstimmig beschlossen
+- TOP 5.27: Maßnahmenprogramm 2016 -2017 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-West - einstimmig beschlossen
+- TOP 5.28: Sachstandsbericht: Weiterer Umgang mit dem Gebäude der Stadthalle Hiltrup - vertagt
+- TOP 5.29: Münster auf dem Weg zur inklusiven Stadt - Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention 1. Bericht über den Stand der Umsetzung - zur Kenntnis genommen
+- TOP 5.30: Information zu Gender Budgeting - zur Kenntnis genommen
+- TOP 5.31: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2016 - zur Kenntnis genommen
+- TOP 5.32: Verkehrsinfrastrukturbericht Münster 2015 - vertagt
+- TOP 5.33: Geplante Veranlagungen in 2016 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.34: Geplante Veranlagungen in 2016 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.35: Geplante Veranlagungen in 2016 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.36: Geplante Veranlagungen in 2016 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.37: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck - einstimmig geändert beschlossen
+- TOP 6: Beratung des Entwurfes des Haushaltsplanes 2016 sowie des Finanzplanes und des Investitionsplanes 2016 ff.
+- TOP 7: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 8: Verschiedenes
