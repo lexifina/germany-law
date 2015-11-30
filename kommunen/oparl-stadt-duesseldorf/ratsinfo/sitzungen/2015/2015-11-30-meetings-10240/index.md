@@ -1,0 +1,60 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-30T15:00:00+01:00
+- Ende: 2015-11-30T16:15:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10240
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10240
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254773.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254773.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254773.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Amt 16 - Wirtschaftsplan 2016 - mehrheitlich beschlossen
+- TOP 4: Amt 16: Jahresabschluss und Lagebericht 2014 - einstimmig beschlossen
+- TOP 5: Jahresabschluss 2014 und Lagebericht 2014 des Stadtentwässerungsbetriebes der Landeshauptstadt Düss - einstimmig beschlossen
+- TOP 6: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2016 - - einstimmig beschlossen
+- TOP 7: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 20 - einstimmig beschlossen
+- TOP 8: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - mehrheitlich beschlossen
+- TOP 9: Gebührenkalkulation Straßenreinigung für 2016 - mehrheitlich beschlossen
+- TOP 10: 30. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - einstimmig beschlossen
+- TOP 11: Neufassung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes - mehrheitlich beschlossen
+- TOP 12: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düssel - mehrheitlich beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2016 - mehrheitlich beschlossen
+- TOP 14: 26. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 15: Satzung zur Änderung der Satzung über die Erhebung der Vergnügungssteuer (Vergnügungssteuersatzung) - einstimmig beschlossen
+- TOP 16: Satzung über die Erhebung der Wettbürosteuer in der Landeshauptstadt Düsseldorf (Wettbürosteuersatz - einstimmig beschlossen
+- TOP 17: Neufassung der Gebührensatzung - passieren lassen
+- TOP 18: Änderung der Entgeltordnung der VHS - einstimmig beschlossen
+- TOP 19: Umsetzung Bäderkonzept - Ergänzungsantrag - einstimmig beschlossen
+- TOP 20: Etatberatung 2016 - passieren lassen
+- TOP 20.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2016 mit Anlagen - passieren lassen
+- TOP 20.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldo - passieren lassen
+- TOP 20.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2016 - passieren lassen
+- TOP 20.4: Stellenplan 2016 - passieren lassen
+- TOP 21: Kämmererliste - zur Kenntnis genommen
+- TOP 22: Jahresabschluss 2014 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 23: Gemeinsamen Controllingbericht der Stadtkämmerin und des Personal- und Gesundheitsdezernenten zur ha - zur Kenntnis genommen
+- TOP 24: Wickrather Straße 31, Städtische Gemeinschaftsgrundschule Lörick - Erhöhung der Zügigkeit von 2 auf - passieren lassen
+- TOP 25: Lindemannstraße 57, Goethe-Gymnasium mit ehemaligem Rethel-Gymnasium - passieren lassen
+- TOP 26: Diepenstraße 24 - Verlagerung der Aloys-Odenthal-Schule, städtische Gemeinschaftsgrundschule zum Sta - passieren lassen
+- TOP 27: Ausführungs- und Finanzierungsbeschluss Werner-von-Siemens-Realschule - passieren lassen
+- TOP 28: Grenzweg 12 -Grundstück der Franz-Vaahsen-Schule- Neubau einer Zweifachsporthallte -Grundsatzbeschlu - einstimmig beschlossen
+- TOP 29: Bastionstraße 24 - Luisen-Gymnasium - Sanierung Natursteinfassade - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 30: 60er- Beschluss:Bundesprogramm 2016 zur Sanierung kommunaler Einrichtungen in den Bereichen Sport, J - einstimmig beschlossen
+- TOP 31: Satzungsbeschluss zur 2. Landschaftsplanänderung "Elbsee" - einstimmig beschlossen
+- TOP 32: Neufassung der Benutzungsordnung für die Bürgerhäuser - mehrheitlich beschlossen
+- TOP 33: WHO Ratsbeschluss Healthy Cities Mitgliedschaft Netzwerk - mehrheitlich beschlossen
+- TOP 34: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
+- TOP 35: Genehmigung einer Dienstreise des AWM - einstimmig beschlossen
+- TOP 36: Genehmigung einer Dienstreise von Ausschussmitgliedern zur MIPIM 2016 - mehrheitlich beschlossen
+- TOP 37: Neubesetzung der bisher von Herrn Beigeordneten a.D. der Landeshauptstadt Düsseldorf Dr. Gregor Boni - einstimmig beschlossen
+- TOP 38: Erschließung des Baugebiets Rather Straße - ehem. Schlachthof - einstimmig beschlossen
+- TOP 39: Gründung der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - passieren lassen
