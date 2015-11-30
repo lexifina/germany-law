@@ -1,0 +1,52 @@
+# Hauptausschuss (36. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-11-30T17:00:00+01:00
+- Ende: 2015-11-30T20:35:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbpsIoymsHBNj1s9A6Su63E
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6287
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdZSNgTLkIj19D3jfTP7JX7aQUc9vTDCWnVZexSvI_ob/Bekanntmachung_Hauptausschuss_30.11.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV5d7Feie_5Vsp-iKhwUy8xKxRlmem-Fp0vdbHfNuxVa/Oeffentliche_Niederschrift_Hauptausschuss_30.11.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 16.11.2015
+- TOP 2.: Brandschutzbedarfsplan hier: Fortschreibung
+- TOP 2.1: Brandschutzbedarfsplan der Stadt Brühl 1. Fortschreibung - (kein Text vorhanden)
+- TOP 2.2: Brandschutzbedarfsplan und neue Feuerwache
+- TOP 3.: Raumbedarf Rathaus B Aktualisierung Daten nach Einwohnerversammlung am 02.09.2015
+- TOP 4.: Kommunalinvestitionsförderungsgesetz (KInvFöG) hier: Maßnahmenliste/Mittelverwendung und üpl. Mittelbereitstellung in 2015 - (kein Text vorhanden)
+- TOP 5.: Über- und Außerplanmäßige Ausgaben
+- TOP 5.1: Überplanmäßige Ausgabe zur Errichtung von Prallschutz in städtischen Turnhallen - (kein Text vorhanden)
+- TOP 5.2: Flüchtlingsunterbringung: außerplanmäßige Ausgabe für die Errichtung eines Containerdorfs - (kein Text vorhanden)
+- TOP 6.: 6. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS -
+- TOP 7.: Kindertagesbetreuung in Einrichtungen hier: Antrag des Waldkindergarten Brühl e.V. auf Gewährung eines zusätzlichen Baukostenzuschusses für einen zweiten Waldkindergarten - (kein Text vorhanden)
+- TOP 8.: Konsolidierung des städtischen Haushalts Übersicht Abstimmungsblätter Bezug: bisherige HA-Sitzungen
+- TOP 9.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2016
+- TOP 9.1: Haushalt 2016 -Erste verwaltungsseitige Fortschreibung-
+- TOP 9.2: Anträge zum Haushaltsentwurf 2016 Bezug: Antrag der FDP-Fraktion vom 17.11.2015
+- TOP 9.3: Haushaltssatzung 2016 hier: Stellenplan - (kein Text vorhanden)
+- TOP 10.: Verlegung Wochenmarkt
+- TOP 11.: Mitteilungen
+- TOP 11.1: Regionalisierung Steuerschätzung
+- TOP 12.: Anfragen
+- TOP 12.1: Flüchtlinge Bezug: Anfragen der CDU-Fraktion vom 16.11.2015
+- TOP 12.1.1: Kosten für Flüchtlinge Bezug: Anfrage der CDU-Fraktion vom 16.11.2015 zum Thema Flüchtlinge
+- TOP 12.2: Spielplatz Volkwinsweg
+- TOP 12.3: Vorkommnisse in Notunterkünften
+- TOP B): Nichtöffentliche Sitzung
+- TOP 13.:  - (kein Text vorhanden)
+- TOP 14.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.: Vergleich über einen Teilerlass einer städtischen Forderung hier: Rückzahlung eines gewährten Darlehens - (kein Text vorhanden)
+- TOP 16.: Haushaltssatzung 2015 hier: Erläuterungen zum Stellenplan 2016 - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 17.1: Niederschlagungen
+- TOP 18.: Anfragen
+- TOP 18.1: Rheinischer Hof
+- TOP 18.2: Villa Kaufmann
+- TOP 18.3: Parkplatz Talstraße
