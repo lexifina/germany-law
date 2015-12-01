@@ -1,0 +1,6 @@
+# TOP 6: Festlegungskontrolle, Informationen und Sonstiges
+
+- Sitzung: 9. Sitzung des Integrations- und Ausländerbeirates (2015-12-01)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/72760
