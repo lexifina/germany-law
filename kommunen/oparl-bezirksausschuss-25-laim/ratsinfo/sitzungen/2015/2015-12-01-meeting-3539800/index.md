@@ -1,0 +1,71 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-12-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539800
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539800
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.2: Wertstoffcontainer im Stadtbezirk; Teilnahme von Vertretern des Abfallwirtschaftsbetriebs München und der Firma Remondis
+- TOP 0.1: Vorstellung der neuen REGSAM-Moderatorin
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Anbringen eines Erläuterungsschildes unter den Schildern der Vosslerstraße
+- TOP 1.2.2.: Nächtliche Autorennen / Laubbläser
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 20.10.15: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate
+- TOP 4.2.: Schreiben Direktorium und Stadtkämmerei vom 04.11.15: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 4.3.: Schreiben Direktorium vom 09.11.15: Anhörungsrecht der Bezirksausschüsse bei Neuvermietungen städtischer Immobilien
+- TOP 4.4.: Schreiben Direktorium vom 09.11.15: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 BA-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht
+- TOP 4.5.: Gutzkowstr. 11: Antrag auf Fällung von 2 Kiefern
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Str. 37: Neubau eines generationenübergreifenden Familienzentrums ("Elmar-Gruber-Haus") mit Tiefgarage / Vorbescheid (Agnes-Bernauer-Str. 37 / Gottfried-Koelwel-Weg 3 / Paul-Lagarde-Str. 16)
+- TOP 5.2.: Zschokkestraße: Unterbringung von Flüchtlingen und Wohnungslosen; Neubau einer Gemeinschaftsunterkunft zur vorübergehenden Unterbringung von max. 302 Flüchtlingen und Wohnungslosen, befristet bis 31.12.2020 / Tektur (Zschokkestraße / Westendstraße)
+- TOP 5.3.: Flantinstr. 8a: Umbau einer Doppelhaushälfte mit Anbau; hier: Baumbestandsplan
+- TOP 5.4.: Fürstenrieder Str. 21: Umbau des ehem. "Kaufhauses Beck" in ein Gewerbe- und Geschäftshaus / Vorbescheid
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 12.11.15: Umstellung der Software für die BA-Homepages; Abfrage des Schulungsbedarfs und weitere Planungen
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 22.10.15
+- TOP 7.2.: BA-Sitzung vom 03.11.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 29.10.15: Gaststätte "Lamora-Ristorante", Helmpertstr. 2; Antrag auf unveränderte Fortführung
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 09.11.15: Gaststätte "L`angolo italiano due", Fürstenrieder Str. 8; Antrag auf unveränderte Fortführung
+- TOP 8.3.: Schreiben Kulturreferat vom 29.10.15: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 13.07.15
+- TOP 8.4.: Schreiben Referat für Bildung und Sport vom 02.11.15: Haus für Kinder an der Hogenbergstraße; Besprechung am 21.07.15
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.11.15: Fürstenrieder Str. 21: Umbau des ehem. "Kaufhaus Beck" in ein Gewerbe- und Geschäftshaus / Vorbescheid
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.11.15: Vollzug der Baumschutzverordnung; Ilmmünsterstr. 1
+- TOP 8.7.: Schreiben Baureferat vom 10.11.15: Austausch der Abfalleimer in Grünanlagen durch Behälter mit Deckel (Antrag Nr. 14-20 / B 01735 vom 03.11.15)
+- TOP 8.8.: Schreiben Baureferat vom 12.11.15: Fehlende Mülleimer in München-Laim, vor allem im Bereich Burgkmairstraße / Zschokkestraße (Schreiben BA vom 13.10.15)
+- TOP 8.9.: Bautenliste vom 19.10.-25.10.15 1. Änderungsverfahren a) Zschokkestraße 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 160 b) Camerloherstr. 76
+- TOP 8.10.: Bautenliste vom 26..10.-01.11.15 1. Erstantragsverfahren a) Fürstenrieder Str. 92 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Fürstenrieder Str. 21
+- TOP 8.11.: Bautenliste vom 02.11.-08.11.15 1. Erstantragsverfahren a) Veit-Stoß-Str. 92 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Hörkherstr. 3a
+- TOP 8.12.: Bautenliste vom 09.11.-15.11.15 1. Erstantragsverfahren a) Fürstenrieder Str. 50 b) Lanzstr. 25
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 09.11.15: Baumaßnahmen der SWM; Fernwärmeprojekt Saherrstraße
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 16.11.15: Baumaßnahmen der Stadtwerke; Stichtag: 16.11.15
+- TOP 8.15.: Beschluss des Bauausschusses vom 22.09.15: Toilettenanlagen im Maßmannpark; Öffentliche Toiletten in Grünanlagen; Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze (Sitzungsvorlage Nr. 14-20 / V 03798)
+- TOP 8.16.: Beschluss der Vollversammlung vom 30.09.15: Nahverkehrsplan (NVP) der Landeshauptstadt München (Sitzungsvorlage Nr. 14-20 / V 03603)
+- TOP 8.17.: Beschluss der Vollversammlung vom 30.09.15: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage (Sitzungsvorlage Nr. 14-20 / V 02432)
+- TOP 8.18.: Hinweis / Ergänzung zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft vom 07.10.15: EU-Projekt Smarter Together, Endgültiger EU-Antrag, Personal und Finanzierung (Sitzungsvorlage Nr. 14-20 / V 03949)
+- TOP 8.19.: Beschluss der Vollversammlung vom 21.10.15: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 (Sitzungsvorlage Nr. 14-20 / V 02728)
+- TOP 8.20.: Beschluss der Vollversammlung vom 21.10.15: Wohnen in München V (Sitzungsvorlage Nr. 14-20 / V 03584)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren (Sitzungsvorlage Nr. 14-20 / V 04433)
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II, Finanzierungsbeteiligung (Sitzungsvorlage Nr. 14-20 / V 03847)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: Neuordnung der Bauberatung (Sitzungsvorlage Nr. 14-20 / V 03401)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.5: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" (Sitzungsvorlage Nr. 14-20 / V 04142)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: 44. städtischer Fassadenwettbewerb; 1. Fassadenpreis und Lobende Erwähnungen 2015, 2. Erweiterung des Fassadenwettbewerbs auf alle denkmalgeschützten Bauten nach 1960 (Sitzungsvorlage Nr. 14-20 / V 04447)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen (Sitzungsvorlage Nr. 14-20 / V 03651)
+- TOP 8.27.: Schreiben Mieterbeirat vom 03.11.15: Protokoll und Anhang der öffentlichen Sitzung des Mieterbeirates vom 12.10.15
+- TOP 8.28.: Schreiben Spielen in der Stadt e.V. vom 30.10.15: Kurzbericht über die bezuschussten Spielmobileinsätze 2015 des BA 25
+- TOP 8.29.: Schreiben Grundschule Fürstenrieder Str. 30 vom 10.11.15: Schulbauoffensive - mobile Schulraumeinheit für vier Klassen
+- TOP 8.30.: Schreiben BA 8 Schwanthalerhöhe vom 10.11.15: Beschluss des BA 8 zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 8.31.: Münchner Statistik, 3. Quartalsheft, Jahrgang 2015
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 in Höhe von 636 Euro für Ausbildungsfahrt der Streitschlichter vom 26.11.-28.11.15; Antragsteller: Artist for Kids ? Jugendsozialarbeit an Schulen
+- TOP 1.2: Bürgerpost an den BA
