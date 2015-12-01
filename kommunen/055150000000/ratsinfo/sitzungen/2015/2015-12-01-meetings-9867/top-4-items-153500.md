@@ -1,0 +1,7 @@
+# TOP 4: Neubau der 2. Städtischen Gesamtschule Münster
+
+- Sitzung: Sitzung (Etat) (2015-12-01)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/153500
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/58910
