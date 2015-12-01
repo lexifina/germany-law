@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-12-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492755
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492755
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 10.11.2015
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine, Informationen, Antwortschreiben
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Satzungsänderung: Allgemeine Maßnahmen des Umweltschutzes
+- TOP 4.3.: (Antrag) Reinigung Sollner Weiher
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Bericht Sachstand
+- TOP 5.2.: (Antrag) Zusätzliche Fahrradständer an der Grundschule in der Boschetsrieder Str.
+- TOP 5.3.: (E) Eberlestr. ? östliche Gehbahn im Teilausbau
+- TOP 4.5.: (Antrag) Haltverbot Bleibtreustr.
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (U) Zweckentfremdung: Hatzelweg
+- TOP 6.3.: (A) Satzungsänderung: Neuvermietung städtischer Immobilien
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (Antrag) Demokratische Schule
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (U) Gaststättenfortführung: Mühlthaler Str. 91
+- TOP 0: Bericht (6)
+- TOP 9: Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Katholische Kirchenstiftung St. Joachim Öffentliches Adventskonzert in der Kath. Pfarrkirche St. Joachim am 13.12.2015
+- TOP 4: (E) Ziffer 1: Kurzer Fußweg zur S-Bahn-Unterführung Siemenswerke Empfehlung Nr. 14-20 / E 00441 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 0.4.: Bepflanzung Wolfratshauser Straße/Herterichstraße - <div></div>
+- TOP 0.2.: Kostenloser Internetzugang für Flüchtlinge - <div></div>
+- TOP 0.6.: Kurzparkzone Aidenbachstr. / Aufkirchener Str. - <div></div>
