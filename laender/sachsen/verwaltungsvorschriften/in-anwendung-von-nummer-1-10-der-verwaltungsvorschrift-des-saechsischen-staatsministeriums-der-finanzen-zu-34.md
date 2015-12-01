@@ -1,8 +1,8 @@
-# In Anwendung von Nummer 1.10 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 34 der Sächsischen Haushaltsordnung (VwV zu § 34 SäHO)
+# In Anwendung von Nummer 1.10 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 34 der Sächsischen Haushaltsordnung ( VwV zu § 34 SäHO)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2013-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12775.1
+- Datum: 2015-12-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12775.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,7 +12,8 @@ I.
 
 Grundsatz
 
-In Anwendung von Nummer 1.10 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 34 der Sächsischen Haushaltsordnung (VwV zu § 34 SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 30. Juli 2012 (SächsABl. S. 1003) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), können Stellen der mittelbaren Staatsverwaltung und Dritte nach den Maßgaben dieser Verwaltungsvorschrift ermächtigt werden, Haushaltsmittel des Freistaates Sachsen zu bewirtschaften. Für die Bewirtschaftung gelten die Vorschriften der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
+In Anwendung von Nummer 1.10 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zu § 34 der Sächsischen Haushaltsordnung (
+VwV zu § 34 SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 30. Juli 2012 (SächsABl. S. 1003) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), können Stellen der mittelbaren Staatsverwaltung und Dritte nach den Maßgaben dieser Verwaltungsvorschrift ermächtigt werden, Haushaltsmittel des Freistaates Sachsen zu bewirtschaften. Für die Bewirtschaftung gelten die Vorschriften der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
 SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), zuletzt geändert durch Artikel 1 des Gesetzes vom 13. Dezember 2012 (SächsGVBl. S. 725), und die Erlasse des Staatsministeriums der Finanzen zur Haushalts- und Wirtschaftsführung.
 
 II.
@@ -92,7 +93,7 @@ X.
 
 Inkrafttreten
 
-Diese Verwaltungsvorschrift tritt zum 1. Januar 2013 in Kraft. Sie tritt mit Ablauf des 31. Dezember 2015 außer Kraft. Zur Fortgeltung bedarf es einer positiven Evaluierung der Anwendung in den Jahren 2013 und 2014 durch das zuständige Ressort in Abstimmung mit dem Staatsministerium der Finanzen.
+Diese Verwaltungsvorschrift tritt zum 1. Januar 2013 in Kraft. Sie tritt mit Ablauf des 31. Dezember 2016 außer Kraft. Zur Fortgeltung bedarf es einer positiven Evaluierung der Anwendung in den Jahren 2013, 2014 und 2015 durch das zuständige Ressort in Abstimmung mit dem Staatsministerium der Finanzen.
 
 Dresden, den 25. März 2013
 
