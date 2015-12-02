@@ -1,0 +1,7 @@
+# TOP 3.: Anträge der Fraktionen
+
+- Sitzung: Ausschuss für Arbeit, Soziales, Familie und Bevölkerungsentwicklung (7. Sitzung) (2015-12-02)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37490
+- Beschluss (Datei): Infotext (Anträge der Fraktionen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT_6yW3kpCTJNk1EkYkqYOOv9VBePAiesa0ycsAbVliu/Infotext_TOP_3._-oeffentlich-_Ausschuss_fuer_Arbeit-_Soziales-_Familie_und_Bevoelkerungsentwicklung_02.12.2015.pdf
