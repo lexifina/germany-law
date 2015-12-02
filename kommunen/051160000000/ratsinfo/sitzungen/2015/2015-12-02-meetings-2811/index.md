@@ -1,0 +1,51 @@
+# Ausschuss für Finanzen und Beteiligungen
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-12-02T17:55:00+01:00
+- Ende: 2015-12-02T21:10:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2811
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2811
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Ausschusses für Finanzen und Beteiligungen am...... - öffentlicher Teil - Genehmigt
+- TOP 2: Umsetzungsbericht HSP 30.09.2015 - Kenntnisnahme
+- TOP 3: Einlage von städtischen Grundstücken in die EWMG (HSP 2013-0209) - Mit Stimmenmehrheit beschlossen
+- TOP 4: Stellenplan 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 5: Entwurf des Haushaltes 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 5.1: Beherbergungssteuersatzung - Mit Stimmenmehrheit abgelehnt
+- TOP 5.2: Entwurf des Haushaltes 2016; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Hau - Mit Stimmenmehrheit beschlossen
+- TOP 5.3: Entwurf des Haushaltes 2016 - Mit Stimmenmehrheit abgelehnt
+- TOP 5.4: Entwurf des Haushaltes 2016 - Anträge B 90/Grüne - Mit Stimmenmehrheit abgelehnt
+- TOP 5.5: Änderungsanträge zum Haushalt 2016 - Geheime Abstimmung
+- TOP 6: Satzung Hebesätze Grund- und Gewerbesteuer - Geheime Abstimmung
+- TOP 7: Bereitstellung von Haushaltsmitteln bei Produkt 06 030 10 Kinder-, Jugend- u. Familienberatung, HzE+ - Einstimmiger Beschluss
+- TOP 8: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 9: Kommunalinvestionsförderungsgesetz - In die nächste Sitzung des HauptA verschoben
+- TOP 10: 21. Nachtrag Kanalbenutzungsgebührensatzung, 8. Nachtrag Klärschlammsatzung - In die nächste Sitzung des HauptA verschoben
+- TOP 11: Einundzwanzigster Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - In die nächste Sitzung des HauptA verschoben
+- TOP 12: Achtzehnter Nachtrag zur Abfallgebührensatzung und Siebezehnter Nachtrag Abfallsatzung - In die nächste Sitzung des HauptA verschoben
+- TOP 13: Neununddreißigster Nachtrag zur Straßenreinigungs- und Gebührensatzung - In die nächste Sitzung des HauptA verschoben
+- TOP 14: Überleitung Mehrzweckhalle Eicken - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 15: Bestimmung von Schwerpunktschulen im Rahmen des Gemeinsamen Lernens - Einstimmiger Beschluss
+- TOP 16: Zweiter Nachtrag Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 17: Gesundheitsversorgung für Flüchtlinge - Von Verwaltung zurückgezogen
+- TOP 18: Verlängerung Leistungsvereinbarung Tagestreff SKM - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 19: Vereinbarungen über Flexible Hilfen - In die nächste Sitzung des HauptA verschoben
+- TOP 20: Vereinbarungen über SPFH und Erziehungsbeistandschaft - In die nächste Sitzung des HauptA verschoben
+- TOP 21: Vereinbarungen über Erziehungsberatung - In die nächste Sitzung des HauptA verschoben
+- TOP 22: Vereinbarung über begleiteten Umgang - In die nächste Sitzung des HauptA verschoben
+- TOP 23: Vereinbarung über Beratung gegen sexuellen Missbrauch - In die nächste Sitzung des HauptA verschoben
+- TOP 24: Vereinbarung über Erziehungsberatung - In die nächste Sitzung des HauptA verschoben
+- TOP 25: Vereinbarung über Familienhebammen - Einstimmiger Beschluss
+- TOP 26: Fortführung der Betriebsführung der Kleinstheime Änne-Kremer-Haus und Jacob-Kremer-Haus mit dem SKF - Einstimmiger Beschluss
+- TOP 27: Abschluss einer Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Be - Einstimmiger Beschluss
+- TOP 28: Leistungsvereinbarungen mit Begegnungsstätten - Einstimmiger Beschluss
+- TOP 29: Dorf-Innenentwicklungskonzept Wanlo - Einstimmiger Beschluss
+- TOP 30: Bereitstellung von Sammelgefäßen zur Abfuhr und Behandlung von Bioabfällen - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Tour de France - Mit Stimmenmehrheit beschlossen
+- TOP 32: Anfragen und Mitteilungen
