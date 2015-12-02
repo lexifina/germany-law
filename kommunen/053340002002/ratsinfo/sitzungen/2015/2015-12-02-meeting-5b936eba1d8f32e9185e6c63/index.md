@@ -1,0 +1,26 @@
+# öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Haaren
+
+- Körperschaft: Aachen
+- Beginn: 2015-12-02T17:00:00+01:00
+- Ende: 2015-12-02T18:16:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3f1d8f32e9185d8306
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3362
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936eba1d8f32e9185e6c63
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner - (offen)
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 04.11.2015 - (offen)
+- TOP 4: Städtebaufördermittel - Integriertes Handlungskonzept Haaren Vorstellung einer Maßnahmen- und Prioritätenliste - geändert beschlossen
+- TOP 4.1: Integriertes Handlungskonzept Haaren hier: Sachstandsbericht 1. Förderstufe - geändert beschlossen
+- TOP 5: Haushaltsberatungen 2016 - geändert beschlossen
+- TOP 6: Genehmigung der Dringlichkeitsentscheidung vom 16.11.2015 zur Verkehrsberuhigung am Ortseingang Friedenstraße - ungeändert beschlossen
+- TOP 7: Beantwortung von Anfragen gemäß § 13 Geschäftsordnung - (offen)
+- TOP 8: Mitteilungen der Verwaltung - (offen)
+- TOP 9: Anträge gemäß § 25 Abs. 4 Geschäftsordnung - (offen)
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
