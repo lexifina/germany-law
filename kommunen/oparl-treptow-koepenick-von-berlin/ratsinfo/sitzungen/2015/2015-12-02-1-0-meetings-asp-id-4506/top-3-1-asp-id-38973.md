@@ -1,0 +1,7 @@
+# TOP 3.1: Planung und Darstellung der Verkehrsführung in Friedrichshagen anlässlich der dortigen umfassenden Baumassnahmen.
+
+- Sitzung: 47. (öffentliche) Sitzung des Ausschusses für Stadtentwicklung und Tiefbau (2015-12-02)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=38973
+- Ergebnis: (offen)
