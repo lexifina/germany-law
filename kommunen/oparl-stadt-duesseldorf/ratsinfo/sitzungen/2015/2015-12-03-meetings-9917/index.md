@@ -1,0 +1,53 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-12-03T16:00:00+01:00
+- Ende: 2015-12-03T17:40:00+01:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9917
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9917
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254817.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254817.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00254817.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 3.1: Durchführung einer Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 4: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - zur Kenntnis genommen
+- TOP 5: Noch nicht erledigte Zuwendungsanträge - zur Kenntnis genommen
+- TOP 6: Ökumenische Flüchtlingshilfe - zur Kenntnis genommen
+- TOP 7: Bezirksbezogene Haushaltsmittel - Ökumenische Flüchtlingshilfe - zur Kenntnis genommen
+- TOP 8: Flüchtlingsprojekte Binational in Düsseldorf - zur Kenntnis genommen
+- TOP 9: Stolpersteinrundgänge im Stadtbezirk 2 - zur Kenntnis genommen
+- TOP 10: Projekt TAG-tower - zur Kenntnis genommen
+- TOP 11: Zebrastreifen Ackerstraße - Hermannstraße - zur Kenntnis genommen
+- TOP 12: Geschwindigkeitsbegrenzung Paulusstraße - zur Kenntnis genommen
+- TOP 13: Blühstreifen bzw. Blühecken und Blumenkübel auf dem Lindenplatz - zur Kenntnis genommen
+- TOP 14: Baumaßnahme Sybelstraße 24x - zur Kenntnis genommen
+- TOP 15: grundschulpflichtige Kinder in Grafental - zur Kenntnis genommen
+- TOP 16: Kosten für Anfragen und Anträge - zur Kenntnis genommen
+- TOP 17: Wohnungsbauprojekt Flincarreé - zur Kenntnis genommen
+- TOP 18: Grafental - weitere Bauabschnitte
+- TOP 19: Fahrradfahren entgegen der Fahrtrichtung - zur Kenntnis genommen
+- TOP 20: Stellplatzablösebeträge im Bezirk 2 - zur Kenntnis genommen
+- TOP 21: Mobile Geschwindigkeitsanzeige Ahnfeldstr. u. Hellweg - zur Kenntnis genommen
+- TOP 22: Tischtennisplatten Schillerplatz - zur Kenntnis genommen
+- TOP 23: Babyschaukeln Schillerplatz Wasserspielplatz im Zoop - zur Kenntnis genommen
+- TOP 24: Gehwegplatten-Instandsetzung - zur Kenntnis genommen
+- TOP 25: Dorotheenstraße 85, Baumaßnahme - zur Kenntnis genommen
+- TOP 26: Erhalt der Gaslaternen im Stadtbezirk 2 - zur Kenntnis genommen
+- TOP 27: Brahmsplatz - zur Kenntnis genommen
+- TOP 28: Anpassungen im ergänzenden Bus- und Straßenbahnnetz mit Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 29: Lindemannstraße 57, Goethe-Gymnasium mit ehemaligem Rethel-Gymnasium - zur Kenntnis genommen
+- TOP 30: Ausführungs- und Finanzierungsbeschluss Werner-von-Siemens-Realschule - zur Kenntnis genommen
+- TOP 31: Fällungen von Gefahrenbäumen auf der ehemaligen Gleisanlage zwischen Ehrenpreisweg und Flinger Broic - zur Kenntnis genommen
+- TOP 32: Baumfällarbeiten Bezirkssportanlage Windscheidstr. - zur Kenntnis genommen
+- TOP 33: Rubensstraße - Fahrbahnerneuerung - zur Kenntnis genommen
+- TOP 34: Tempo 30 Kühlwetterstraße - zur Kenntnis genommen
+- TOP 35: Taxistandplätze Grafenberger Allee (in Höhe Einmündung Engerstraße) - zur Kenntnis genommen
