@@ -1,8 +1,8 @@
 # Richtlinie Feuerwehrförderung Vollzitat: Richtlinie Feuerwehrförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2014-08-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.2
+- Datum: 2015-12-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-22.08.2014
+04.12.2015
 bis
-03.12.2015
+31.12.2015
 
 Richtlinie Feuerwehrförderung
 
@@ -41,34 +41,26 @@ Vollzitat: Richtlinie Feuerwehrförderung vom  7. März 2012 (SächsABl. S. 358)
 
 |  |
 
+|  |
+
 I.
+
 Rechtsgrundlagen, Zuwendungszweck
 
 1.
 
-Der Freistaat Sachsen gewährt den Zuwendungsempfängern nach Maßgabe des Staatshaushaltsplans auf der Grundlage
-
-–
-
-des Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz (
-SächsBRKG) vom 24. Juni 2004 (SächsGVBl. S. 245, 647), zuletzt geändert durch Artikel 25 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 142), in der jeweils geltenden Fassung,
-
-–
-
-der §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
-SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 2 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387, 388) geändert worden ist, in der jeweils geltenden Fassung, sowie der dazu erlassenen Verwaltungsvorschriften und
-
-–
-
-dieser Förderrichtlinie
-
-Zuwendungen zu den notwendigen Beschaffungen und Baumaßnahmen zur Erfüllung der ihnen auf dem Gebiet des abwehrenden Brandschutzes und der technischen Hilfe obliegenden Aufgaben.
+Der Freistaat Sachsen gewährt auf der Grundlage des
+Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz vom 24. Juni 2004 (SächsGVBl. S. 245, 647), das zuletzt durch das Gesetz vom 10. August 2015 (SächsGVBl. S. 466) geändert worden ist, nach Maßgabe der
+§§ 23 und 44 der
+Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, der
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 25. März 2015 (SächsABl. S. 515) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 12. Dezember 2013 (SächsABl. SDr. S. S 848), und dieser Richtlinie Zuwendungen zu den notwendigen Beschaffungen und Baumaßnahmen zur Erfüllung der den Zuwendungsempfängern auf dem Gebiet des abwehrenden Brandschutzes und der technischen Hilfe obliegenden Aufgaben sowie zur Förderung der Jugendfeuerwehren.
 
 2.
 
 Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde nach pflichtgemäßem Ermessen im Rahmen der verfügbaren Haushaltsmittel.
 
 II.
+
 Gegenstand der Förderung
 
 1.
@@ -89,8 +81,8 @@ Beschaffung gebrauchter Feuerwehrfahrzeuge, die nicht älter als fünf Jahre sin
 
 d)
 
-Beschaffung von Dienstkleidung, Schutzkleidung und persönlicher Schutzausrüstung gemäß der Verordnung des Sächsischen Staatsministeriums des Innern über die Feuerwehren und die Brandverhütungsschau im Freistaat Sachsen (Sächsische Feuerwehrverordnung –
-SächsFwVO) vom 21. Oktober 2005 (SächsGVBl. S. 291), zuletzt geändert durch Artikel 2 der Verordnung vom 9. November 2010 (SächsGVBl. S. 350),
+Beschaffung von Dienstkleidung, Schutzkleidung und persönlicher Schutzausrüstung gemäß der
+Sächsischen Feuerwehrverordnung vom 21. Oktober 2005 (SächsGVBl. S. 291), die zuletzt durch die Verordnung vom 20. August 2012 (SächsGVBl. S. 458) geändert worden ist, einschließlich der notwendigen Ersatzbeschaffung von Bekleidung und Ausrüstung für Mitglieder der Jugendfeuerwehr,
 
 e)
 
@@ -110,19 +102,27 @@ Errichtung von künstlich angelegten Löschwasserentnahmestellen nach DIN 14 210
 
 i)
 
-Umbau, Erweiterung oder Neubau (Errichtung) von Leitstellen im Sinne des § 11
-SächsBRKG nach Maßgabe des § 76 Abs. 6
-SächsBRKG, wenn die in der Verordnung des Sächsischen Staatsministeriums des Innern über die Rettungsdienstplanung im Freistaat Sachsen (Sächsische Landesrettungsdienstplanverordnung –
-SächsLRettDPVO) vom 5. Dezember 2006 (SächsGVBl. S. 532), zuletzt geändert durch Verordnung vom 6. Januar 2011 (SächsGVBl. S. 15), festgelegten Anforderungen erfüllt werden,
+Umbau, Erweiterung oder Neubau (Errichtung) von Leitstellen im Sinne des § 11 des
+Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz, wenn die in der
+Sächsischen Landesrettungsdienstplanverordnung vom 5. Dezember 2006 (SächsGVBl. S. 532), die zuletzt durch die Verordnung vom 18. Dezember 2014 (SächsGVBl. 2015 S. 3) geändert worden ist, festgelegten Anforderungen erfüllt werden; für den Neubau (Errichtung) von Leitstellen jedoch höchstens in Höhe von 75 Prozent des den Landkreisen und Kreisfreien Städten im Rahmen ihrer Zuständigkeit für den Brandschutz entstehenden Kostenanteils nach § 34 Absatz 2 des
+Sächsischen Gesetzes über den Brandschutz, Rettungsdienst und Katastrophenschutz,
 
 k)
 
-Instandsetzung, Unterhaltung, Wartung und Betrieb der in Buchstabe a bis i genannten Maßnahmen, soweit es sich um die Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der Gemeinsamen Richtlinie des Sächsischen Staatsministeriums des Innern, des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr, des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz, des Sächsischen Staatsministeriums für Kultus und Sport und des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft zur Gewährung von Zuwendungen bei Elementarschäden (
-RL Elementarschäden) vom 29. Juni 2011 (SächsABl. S. 988, 1191), enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), handelt,
+Instandsetzung, Unterhaltung, Wartung und Betrieb der in Buchstabe a bis i genannten Fördergegenstände, soweit es sich dabei um die Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
+RL Elementarschäden vom 29. Juni 2011 (SächsABl. S. 988, 1191), zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), handelt,
 
 l)
 
 bei Maßnahmen nach Buchstabe i einmalig die technische Erstausstattung, soweit sie nicht den Kosten des Rettungsdienstes zuzuordnen sind.
+
+m)
+
+Mitgliedschaft in der Jugendfeuerwehr,
+
+n)
+
+Kommunale Modellprojekte im Brandschutz, die der Verbesserung der Tageseinsatzbereitschaft der Freiwilligen Feuerwehren dienen. Dazu gehört insbesondere die Ermittlung der Einsatzbereitschaft durch sachverständige externe Dritte, die unter Berücksichtigung der von der Arbeitsgruppe „Freiwillige Feuerwehren Sachsen 2020“ im Abschlussbericht unter Ziffer II Bemessungsgrundlagen festgelegten Kriterien für die Einsatzbereitschaft durchgeführt werden. Derartige Untersuchungen können durch den Landkreis für sein Kreisgebiet oder von der Gemeinde für ihr Gebiet erfolgen. Gemeinden können zur Verbesserung der Einsatzbereitschaft vor einem Neubau oder einem wesentlichen Umbau eines Feuerwehrhauses eine Standortuntersuchung zu den Auswirkungen auf die Einsatzbereitschaft durchführen lassen. Die Untersuchungen sind grundsätzlich auf der Basis softwaregestützter, wissenschaftlicher Berechnungsmodelle durchzuführen.
 
 2.
 
@@ -153,11 +153,13 @@ f)
 Kosten für Gebäude oder Gebäudeteile, die nicht unmittelbar den Zwecken der Feuerwehr dienen.
 
 III.
+
 Zuwendungsempfänger
 
 Zuwendungsempfänger sind die Gemeinden, Zweckverbände und Landkreise im Freistaat Sachsen.
 
 IV.
+
 Zuwendungsvoraussetzungen
 
 1.
@@ -167,8 +169,8 @@ Die Zuwendungen erfolgen bedarfsorientiert. Beschaffungen und Baumaßnahmen müs
 2.
 
 Aufräum- und Sicherungsmaßnahmen bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
-RL Elementarschäden gelten nicht als Vorhabensbeginn im Sinne der Nummer 1.3 der Anlage 1 zu § 44 SäHO der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (
-VwV SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 22. Dezember 2011 (SächsABl. 2012 S. 49) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702).
+RL Elementarschäden gelten nicht als Vorhabensbeginn im Sinne der Nummer 1.3 der
+Anlage 1 zu § 44 SäHO der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung.
 
 3.
 
@@ -176,7 +178,8 @@ Bei Beschaffungsmaßnahmen muss der Zuwendungsempfänger Eigentümer werden.
 
 4.
 
-Fahrzeuge, einschließlich der vollständig vorgesehenen feuerwehrtechnischen Beladung, müssen aus Sicherheitsgründen vor der Auslieferung beziehungsweise Indienststellung von einem amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr gemäß § 1 Abs. 1 des Gesetzes über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr (Kraftfahrsachverständigengesetz – KfSachvG) vom 22. Dezember 1971 (BGBl. I S. 2086), das zuletzt durch Artikel 60 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515, 2551) geändert worden ist, insbesondere auf ihre Übereinstimmung mit den technischen Vorschriften und den Unfallverhütungsvorschriften, geprüft und abgenommen werden. Die Abnahme ist schriftlich zu dokumentieren und gegenüber der Bewilligungsbehörde nachzuweisen.
+Fahrzeuge, einschließlich der vollständig vorgesehenen feuerwehrtechnischen Beladung, müssen aus Sicherheitsgründen vor der Auslieferung beziehungsweise Indienststellung von einem amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr gemäß § 1 Absatz 1 des
+Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086), das zuletzt durch Artikel 476 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, insbesondere auf ihre Übereinstimmung mit den technischen Vorschriften und den Unfallverhütungsvorschriften, geprüft und abgenommen werden. Die Abnahme ist schriftlich zu dokumentieren und gegenüber der Bewilligungsbehörde nachzuweisen.
 
 5.
 
@@ -192,7 +195,12 @@ Zuwendungen für die Instandsetzung oder den Ersatz von beweglichen oder unbeweg
 SächsBRKG geltend zu machen. Wird bei einer Prüfung festgestellt, dass der Zuwendungsgegenstand sowohl nach dieser Richtline gefördert und gleichzeitig dafür auch Erstattungsbeträge nach § 65 Nr. 3
 SächsBRKG gewährt wurden, kann die Förderung nach dieser Richtlinie bis zur vollen Höhe zurückverlangt werden.
 
+8.
+
+Zuwendungen nach Ziffer II Nummer 1 Buchstabe e, g und i für Investitionen in bauliche Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten liegen, werden nur nach Zustimmung der zuständigen unteren Wasserbehörde gewährt.
+
 V.
+
 Art, Umfang und Höhe der Zuwendung
 
 1.
@@ -210,9 +218,14 @@ Zuwendungen für Baumaßnahmen und Fahrzeuge werden grundsätzlich als Festbetra
 
 4.
 
+Gemeinden mit einer Jugendfeuerwehr erhalten je Angehörigen der Jugendfeuerwehr jährlich einen Pauschalbetrag in Höhe von 20 Euro.
+
+5.
+
 Die Zuwendung wird als Zuschuss gewährt.
 
 VI.
+
 Zuwendungsverfahren
 
 1.
@@ -241,7 +254,12 @@ Die Bewilligungsbehörde kann im Einzelfall zweckmäßig erscheinende Abweichung
 
 Die Zweckbindungsfrist beträgt für Baumaßnahmen 25 Jahre, für Fahrzeuge ab 3,5 Tonnen zulässiges Gesamtgewicht 15 Jahre, für persönliche Schutzausrüstung fünf Jahre und für alle anderen Fördergegenstände zehn Jahre. Die Zuwendung mindert sich rückwirkend pro Jahr einer zweckfremden Verwendung innerhalb der Zweckbindungsfrist bei Baumaßnahmen um 4 Prozent, bei Fahrzeugen ab 3,5 Tonnen zulässiges Gesamtgewicht nach Indienststellung um 7 Prozent, bei persönlicher Schutzausrüstung um 20 Prozent sowie bei allen anderen Beschaffungen um 10 Prozent.
 
+7.
+
+Die Zuwendungen an die Jugendfeuerwehr sind von den Gemeinden mit Antrag (Anlage 4) bis zum 31. März des laufenden Jahres bei der Bewilligungsbehörde zu beantragen. Für die Beantragung ist die Anzahl der Angehörigen der Jugendfeuerwehr zum Stichtag 31. Dezember des vorhergehenden Jahres maßgebend (Jugendfeuerwehr-Statistik). Im Antrag ist zu erklären, dass die Angaben vollständig und richtig sind und ausschließlich zur Unterstützung der Jugendfeuerwehr verwendet werden. Ein Ersatz laufender gemeindlicher Kosten für die Jugendfeuerwehr ist nicht zulässig. In die Entscheidung über die Verwendung der Zuwendung soll der Gemeindewehrleiter einbezogen werden. Ziffer IV Nummer 1, Ziffer V und Ziffer VI Nummer 2 bis 6 finden keine Anwendung.
+
 VII.
+
 Förderrahmen und Bewirtschaftungsregelungen
 
 1.
@@ -261,13 +279,18 @@ SächsBRKG können den Landkreisen Zuwendungen bis zu 2 Prozent der auf die jewe
 
 Nimmt ein Landkreis oder eine Kreisfreie Stadt die pauschaliert zugewiesenen Fördermittel nach Nummer 1 Satz 1 und 2 nicht oder nicht vollständig in Anspruch, ist dies über die Landesdirektion Sachsen dem Staatsministerium des Innern spätestens bis zum 30. September des Haushaltsjahres mitzuteilen. Diese Fördermittel kann das Staatsministerium des Innern abweichend von Nummer 1 Satz 1 und 2 anderen Landkreisen und Kreisfreien Städten zuweisen.
 
+5.
+
+Die Antragsunterlagen nach Ziffer VI Nummer 7 (Anlage 4) gelten als Verwendungsnachweis. Ein besonderer Auszahlungsantrag entfällt.
+
 VIII.
+
 Übergangsbestimmungen
 
-Vorhaben, für die Zuwendungen vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt worden sind, werden nach der bisher geltenden Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur Förderung des Feuerwehrwesens (Förderrichtlinie Feuerwehrwesen –
-FRFw) vom 18. Dezember 2003 (SächsABl. 2004 S. 141), geändert durch Verwaltungsvorschrift vom 27. Dezember 2004 (SächsABl. 2005 S. 66), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), abgewickelt.
+Vorhaben, für die Zuwendungen vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt worden sind, werden nach der bisher geltenden Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur Förderung des Feuerwehrwesens (Förderrichtlinie Feuerwehrwesen – FRFw) vom 18. Dezember 2003 (SächsABl. 2004 S. 141), geändert durch Verwaltungsvorschrift vom 27. Dezember 2004 (SächsABl. 2005 S. 66), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), abgewickelt.
 
 IX.
+
 Inkrafttreten und Außerkrafttreten
 
 Ziffer V Nr. 3 dieser Förderrichtlinie tritt am 1. Januar 2013 in Kraft. Im Übrigen tritt diese Förderrichtlinie am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten außer Kraft:
@@ -283,12 +306,15 @@ die Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über d
 Dresden, den 7. März 2012
 
 Der Staatsminister des Innern
+
 Markus Ulbig
 
 Anlage 1
+
 (zu Ziffer II Nr. 1 Buchst. b)
 
 Technische Richtlinie
+
 Mannschaftstransportwagen MTW
 
 Der Mannschaftstransportwagen MTW ist ein Kraftfahrzeug der Fahrzeug-Gruppe Mannschaftstransportfahrzeug gemäß DIN EN 1846-1.
@@ -436,14 +462,17 @@ n)
 2 Unterlegkeile.
 
 Anlage 2
+
 (zu Ziffer II Nr. 1 Buchst. b)
 
 Technische Richtlinie
+
 Tragkraftspritzenfahrzeug TSF-W mit Allradantrieb
 
 Ist auf Grund der örtlichen Gegebenheiten die Beschaffung eines Tragkraftspritzenfahrzeuges TSF-W nach DIN 14530-17 mit Allradantrieb zwingend notwendig, darf die zulässige Gesamtmasse abweichend von DIN 14530-17 Nummer 4.2 bis zu 7 490 kg betragen.
 
 Anlage 3
+
 (zu Ziffer V Nummer 2 und 3)
 
 Höhe der Zuwendungen bei Festbetragsfinanzierung
@@ -634,10 +663,11 @@ Feuerwehrfahrzeuge
 | für Einsatzfahrzeuge
 
 | Fahrzeugart1)
-
 | Festbetrag
 |  Betrag für Einsatzfahr-
+
 zeuge zum gemeinde-
+
 übergreifenden Einsatz gemäß § 7 Abs. 1 Nr. 7
 SächsBRKG
 
@@ -748,15 +778,24 @@ SächsBRKG
 1)
 
 Gebrauchte Feuerwehrfahrzeuge werden gefördert:
+
 mit 88 Prozent, wenn sie älter als 12 Monate,
+
 mit 77 Prozent, wenn sie älter als 24 Monate,
+
 mit 68 Prozent, wenn sie älter als 36 Monate,
+
 mit 60 Prozent, wenn sie älter als 48 Monate
+
 sind.
 
 2)
 
 auch bei Beschaffungen der Kreisfreien Städte ohne gemeindeübergreifenden Einsatz
+
+Anlage 4
+
+(zu Ziffer VI Nummer 7)
 
 Verweis auf Bundesgesetze
 
@@ -768,15 +807,17 @@ Fsn-Nr.: 551-V12.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 22. August 2014
+Fassung gültig ab:  4. Dezember 2015
 
-Fassung gültig bis:  3. Dezember 2015
+Fassung gültig bis: 31. Dezember 2015
 
 Drucken/Speichern
 
 HTML-Gesamtansicht
 
 Vorschrift als PDF
+
+Anlagen als PDF
 
 Einzeldruck
 
@@ -795,7 +836,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12427.2
+https://www.revosax.sachsen.de/vorschrift/12427.3
 Stand vom
 18.11.2026
 
