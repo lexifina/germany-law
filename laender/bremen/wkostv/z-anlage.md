@@ -107,8 +107,8 @@ Nr. | Kostentatbestand | Kostensatz |
 160 | Amtshandlungen nach dem Bremischen Gaststättengesetz (BremGastG) und der Bremischen Gaststättenverordnung (BremGastV) |  | 
 160.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gaststättenangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
 160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes | 116,00 | 
- | Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist die Nummer 160.04 anzuwenden; |  | 
- | Für die Rücknahme und den Widerruf ist die Nummer 150.35 anzuwenden. |  | 
+ | Für Auflagen und Bedingungen bei der Erteilung der Erlaubnis ist die Nr. 160.04 anzuwenden. |  | 
+ | Für die Rücknahme und den Widerruf ist die Nr. 150.38 anzuwenden. |  | 
 160.02 | Vorübergehende Erlaubnis zum Betrieb eines Gaststättengewerbes nach § 2 Absatz 3 BremGastG | 48,00 | 
 160.03 | Fristverlängerung nach § 2 Absatz 5 BremGastG | 16,00 | 
 160.04 | Anordnungen und Auflagen nach Erteilung der Erlaubnis nach § 2 Absatz 2 BremGastG und Anordnungen bei erlaubnisfreien Gaststättenbetrieben nach § 2 Absatz 6 BremGastG | nach Zeit- und Sachaufwand zzgl. Auslagen | 
