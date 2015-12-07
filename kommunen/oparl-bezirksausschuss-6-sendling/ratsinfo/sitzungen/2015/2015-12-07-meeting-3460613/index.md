@@ -1,0 +1,107 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2015-12-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3460613
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3460613
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 2.1.: Aufstellung der Abfallkörbe auf dem Sendlinger Friedhof
+- TOP 2.2.: Aufstellung eines Abfallkorbes im Bereich Wackersberger- / Thalkirchner Str.
+- TOP 2.3.: Gemüseladen in der ehemaligen Sortieranlage
+- TOP 2.4.: Filmaufnahmen in Untersendling
+- TOP 2.5.: Kündigung der Läden im REWE-Markt Alramstr. 14
+- TOP 2.6.: Interview-Anfrage zu Graffiti in der Stadt und auf dem Land
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Bauvorhaben Karwendelstraße (Fl.Nr. 9346/3) - Wohngebäude mit Kita und Tiefgarage
+- TOP 3.2.: 3D-Seismik im Münchner Süden
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Anträge aus der Kinder- und Jugend-Einwohnerversammlung vom 24.11.2015
+- TOP 4.2.: Protokoll der gemeinsamen Sitzung der Unterausschüsse Soziales der BAs 6 & 7 am 26.10.2015
+- TOP 4.3.: Stadtbezirksübersicht Bestand und Planung für Flüchtlingsunterkünfte in München
+- TOP 4.4.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage (Sitzungsvorlage Nr. 14-20 / V 02432)
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP 5.2.: Grundschule Implerstr. 35; Errichtung einer Schulpavillonanlage auf dem Schulhof
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Warenstellage Am Harras 10
+- TOP 6.2.: Errichtung von Haltverbotszonen zur Gewährleistung der Befahrbarkeit der Bleyerstraße durch Schulbusse
+- TOP 6.3.: Martinszug am Gotzinger Platz am 11.11.2015
+- TOP 6.4.: Drehgenehmigung Berlepschstr. 3
+- TOP 6.5.: Legalisierung des Gehsteigparkens in der Senserstr.
+- TOP 6.6.: Aktuelle Verkehrszahlen und Verkehrsprognose für die Impler- / Lindwurm- / Plinganser- / Pfeuferstr. - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Nächtliche Abschaltung der Lichtzeichensignalanlagen an der Ausfahrt der Großmarkthalle / Schäftlarnstraße der Kreuzung Schäftlarnstraße / Dietramszeller Str. der Kreuzung Thalkrichner Str. / Pullacher Platz der Kreuzung Albert-Roßhaupter-Str / Meindlstr. / Karwendelstr.
+- TOP 6.9.: Start von MVG Rad - Zugang über Smartphones
+- TOP 6.10.: Erstellung eines befestigten Gehwegs auf der Westseite Am Isarkanal in 2016; Sicherung des Grünstreifens Am Isarkanal durch Baumstämme gegen Beparkung - <div>Rückschreiben an Baureferat</div>
+- TOP 6.11.: Genehmigung von Veranstaltungen in städtischen Grünanlagen
+- TOP 7: Gaststättenangelegenheiten
+- TOP 7.1.: Unveränderte Fortführung der Gaststätte Engelhardstr. 33
+- TOP 8.1.: Sendlinger Christkindlmarkt 2015 - Pflichten des Bezirksausschusses
+- TOP 8.2.: Budgetbedarf für Aufstellung der Christbäume am Herzog-Ernst-Platz und am Harras; jeweils ? 180,- für Steigermiete
+- TOP 8.3.: Änderung der BA-Satzung; Abschnitt Kommunalreferat; Anhörungsrecht bei "Beabsichtigter Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung"
+- TOP 8.4.: Änderung der BA-Satzung; Anhörungsrecht bei Neuvermietung städtischer Immobilien
+- TOP 8.5.: Änderung der BA-Satzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate
+- TOP 8.6.: Änderung der BA-Satzung; Abschnitt Referat für Gesundheit und Umwelt; Anhörungsrecht bei "Allgemeinen Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)"
+- TOP 8.7.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 8.8.: Umstellung der Software für dei BA-Homepages; Abfrage des Schulungsbedarfs und witerer Planungen
+- TOP 8.9.: Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 8.10.: Protokoll zum BA-Vorsitzendentreffen am 17.09.2015
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Bauvorhaben Lindwurmstr. 130
+- TOP 9.3.: Bauvorhaben Plinganserstr. 7 - 7a
+- TOP 9.4.: Bauvorhaben Am Harras 15
+- TOP 9.5.: Bauvorhaben Oberländerstr. 36
+- TOP 9.6.: Bauvorhaben Brudermühlstr. 24 - 30
+- TOP 9.7.: Bauvorhaben Meindlstr. 14 - 16 - Genehmigungsbescheid Unterkunft für Flüchtlinge
+- TOP 9.8.: Fehlende Einstiegstreppe im Schwimmerbecken des Südbades; baurechtliche Würdigung des ersatzlosen Ausbaus der Einstiegstreppe im Zuge der Modernisierungsmaßnahmen 2009 - <div>Zur Umsetzung an die SWM</div>
+- TOP 9.9.: Wohnkomplex Baumgartner- / Pfeuferstr. - Fassadenanstrich
+- TOP 9.10.: Offensive Denkmalschutz - Ensemble Sendlinger Dorfkern
+- TOP 9.11.: Beschlussentwurf barrierefreie Querungen im Fuß- und Radverkehr
+- TOP 9.12.: Barrierefreiheit von der Marbach- zur Heckenstallerstraße
+- TOP 9.13.: Umweltverbände und Öffentlichkeit frühzeitig in Planungsverfahren einbinden
+- TOP 9.14.: Handlungsprogramm Mittlerer Ring (Sitzungsvorlage Nr. 14 - 20 / V 03651)
+- TOP 9.15.: Fortschreibung des multimodalen Gesamtverkehrsmodells (Sitzungsvorlage Nr. 14 - 20 / V 03847)
+- TOP 9.16.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion (Sitzungsvorlage Nr. 14 - 20 / V 03675)
+- TOP 9.17.: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten (Sitzungsvorlage Nr. 14 - 20 / V 02248)
+- TOP 9.18.: 44. städtischer Fassadenwettbewerb (Sitzungsvorlage Nr. 14 - 20 / V 04447)
+- TOP 9.19.: Neuordnung der Bauberatung (Sitzungsvorlage Nr. 14 - 20 / V 03401)
+- TOP 9.20.: Weitere Auslegungsorte für Bebauungspläne (Sitzungsvorlage Nr. 14 - 20 / V 04433)
+- TOP 9.21.: Konzeption zur langfristigen Freiraumentwicklung (Sitzungsvorlage Nr. 14 - 20 / V 04142)
+- TOP 9.22.: Mehrjahresinvestitionsprogramm 2015 - 2019
+- TOP 10: Baureferat
+- TOP 10.1.: Neues Spielgerät und Sanierung des Spielplatzes am Sendlinger Baumhaus
+- TOP 10.2.: Errichtung einer öffentlichen Toilettenanlage am Schlittenberg in den Neuhofener Anlagen - <div>Rückfrage an Baureferat</div>
+- TOP 10.3.: Öffentliche Toiletten (Sitzungsvorlage Nr. 14-20 / V 03798)
+- TOP 10.4.: Scharfkantige Randsteine
+- TOP 10.5.: Beschattung am Spielplatz Bahndeckel
+- TOP 10.6.: Erneuerung von Eisenbahnbrücken durch die DB (Sitzungsvorlage Nr. 14-20 / V 02840)
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Wackersberger Str. 61 - Sanierungsarbeiten Dante-Gymnasium
+- TOP 11.2.: Baumfällung Lipowskystr. 10b und 12
+- TOP 11.3.: Baumfällung Gotzinger Platz 1 und 1a
+- TOP 11.4.: Baumfällung Plinganserstr. 25
+- TOP 11.5.: Baumfällung Spielplatz Lagerhausstr.
+- TOP 11.6.: Baumfällung Bezirkssportanlage Demleitnerstr. 2
+- TOP 12: Anträge
+- TOP 12.1.: Maibaum für Sendling
+- TOP 12.2.: Montessorischule für Sendling; Einladung zur Gesprächsrunde mit Vertretern des Referates für Bildung und Sport, des Kommunalreferates und der zuständigen Stadträte
+- TOP 14: Verschiedenes
+- TOP 14.1.: Theresienwiese - Sanierung Wirtsbudenstraße am 09.11.2015
+- TOP 14.2.: Oktoberfest; Reinigungsnotruf für Anwohner
+- TOP 14.3.: Protokoll des Treffens mit dem Kulturreferat vom 13.07.2015
+- TOP 14.4.: Wertstoffcontainer / Altkleidercontainer am Dietramszeller Platz
+- TOP 14.5.: Einsichtnahme in die Machbarkeitsstudie für den Gaißacherbunker
+- TOP 6.12.: Verkehrs- und Straßenkonzept für Sendling?Süd - <div>Zur Umsetzung an das Baureferat</div>
+- TOP 6.7.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Steigende Verkehrsbelastung in der Lindenschmitstr.
+- TOP 8.11.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> BA-Satzung; Neuvermietung städtischer Immobilien
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
