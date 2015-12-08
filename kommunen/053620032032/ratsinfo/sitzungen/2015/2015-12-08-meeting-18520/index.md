@@ -1,0 +1,54 @@
+# Haupt- und Finanzausschuss (10. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-12-08T17:02:00+01:00
+- Ende: 2015-12-08T20:08:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdH4b3WKCBWmLKhSiozcSRI
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18520
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWsueaF85UGDfxlKSVyjFmrJCkMq_vd2OdoPskqPHSLV/Bekanntmachung_Haupt-_und_Finanzausschuss_08.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSpv9sznvClyWVeR5N_RPAeXGQLQKOA81mBUbVgXJbws/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_08.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: Erlass einer Hebesatzsatzung für das Jahr 2016
+- TOP 3.2: 9. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Kolpingstadt Kerpen
+- TOP 3.3: 24. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Kolpingstadt Kerpen
+- TOP 3.4: 16. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Kolpingstadt Kerpen
+- TOP 4.: Personal-/Stellenplanangelegenheiten
+- TOP 4.1: Stellenplan 2016 hier: zusätzlicher Stellenbedarf in der Abteilung 21.2, Ausländerwesen
+- TOP 4.2: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Aufhebung der 6-monatigen Wiederbesetzungssperre in der Abteilung 16.1 (Stadtplanung)
+- TOP 4.3: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Aufhebung der 6-monatigen Wiederbesetzungssperre in der Abteilung 24.1 (Hochbau)
+- TOP 4.4: Stellenplan 2016; hier: Antrag der Fraktion B'90/Grüne
+- TOP 5.: Betreibermodelle zur Cafeteria des Rathauses
+- TOP 6.: Verlegung von Stolpersteinen Antrag der Fraktion Bündnis 90/ Die Grünen vom 18.11.2015
+- TOP 7.: Aktivitäten im Bereich der Städtepartnerschaften mit St. Vith/ Belgien und Oswiecim/ Polen hier: Rückblick 2015 und Ausblick 2016
+- TOP 8.: Forstwirtschaftsplan 2016
+- TOP 9.: Maßnahmenplan zur Sicherstellung des Rechtsanspruchs für Kinder über und unter drei Jahren
+- TOP 10.: Sanierung Erftlagune hier: Aktueller Sachstand und Kosten Sanierung Parkplatz
+- TOP 11.: Beleuchtung und Beheizung innen liegender Räume in öffentlichen Gebäuden
+- TOP 12.: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge in Kerpen
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 14.1: Münzfernsprecher im Foyer des Rathauses neben dem Passbildautomaten
+- TOP 14.2: Sperrung des Schulweges zwischen Merodestraße und dem Schulzentrum Horrem-Sindorf
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.1: Bestellung und Eingruppierung eines Amtsleiters
+- TOP 17.: Unbefristete Niederschlagung einer Gewerbesteuerforderung nebst Vollverzinsung
+- TOP 18.: Erhebung einer Klage in einem Jugendhilfefall
+- TOP 19.: Veräußerung der städtischen Grundstücke Gemarkung Kerpen, Flur 11, Flurstücke 2724, 2725 und 2726 (Obermühle)
+- TOP 20.: Grunderwerb einer Gehwegfläche in Blatzheim
+- TOP 21.: Grunderwerb öffentlicher Verkehrsfläche in Kerpen
+- TOP 22.: Ankauf der Grundstücke Gemarkung Türnich, Flur 36, Flurstücke 546, 776 und 907 (Ackerland)
+- TOP 23.: Pachtvertrag mit dem Horremer Sportverein 1919 e.V.
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
