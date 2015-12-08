@@ -1,0 +1,134 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3534670
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3534670
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.: Wirtstraße / Berstraße - Laub und Parkplätze; Bürgerschreiben vom 09.11.2015
+- TOP 2.3.: Perlacher Straße - Ruhebänke, Schmutz- und Lärmbelästigung; Bürgerschreiben vom 17.11.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Fischbachauerstraße 3 bis 5; 1 Birke
+- TOP 3.9.1.2.: Winlandstraße 3; 1 Zuckerahorn
+- TOP 3.9.1.3.: Bantingstraße 1; 2 Vogel-Beeren, 1 Birke, 1 Vogel-Kirsche
+- TOP 3.9.1.4.: Untersbergstraße 78 - 84, 2 Fichten
+- TOP 3.9.1.5.: Marquartsteiner Straße 7, 1 Linde
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Scharfkantige Randsteine; Antrag des BA 8 - Schwanthalerhöhe mit der Bitte um Kenntnsinahme und Unterstützung
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Mittelschule Perlacher Straße, für die Maßnahme: Schuljahr 2015 / 2016 - pro Woche ein Frühstück für ca. 30 bis 50 Schülerinnen und Schüler; Antragssumme: 1.600,00 ?; Antrag vom 16.11.2015
+- TOP 6: Unterausschüsse
+- TOP 6.1.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate; BA-Antrag Nr. 14-20 / B 01264 des BA 20 vom 08.06.2015; Schreiben des Direktoriums vom 20.10.2015 mit der Bitte um Stellungnahme (verwiesen aus der November-Sitzung)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben 6.1.3.1.1 Pöllatstraße 11, Neubau eines Familien- und Beratungszentrums mit Wohnungen sowie Errichtung einer Schallschutzwand; Anhörung vom 03.11.2015 (vertagt aus der Sitzung vom 10.11.2015) 6.1.3.1.2 Watzmannstraße 3-7, Erweiterung der bestehenden und Anbringen weiterer Balkone, Errichtung dreier Personenaufzüge und energetische Sanierung (Anbringen VWS) - TEKTUR; Anhörung vom 11.11.2015 6.1.3.1.3 Arzberger Straße 19, DG-Ausbau im Zuge einer Dachsanierung, Änderung Walmdach in Satteldach, Einbau Schlafzimmer und Bad und Dachflächenfenster; Anhörung vom 11.11.2015 61.3.1.4 Tegernseer Landstraße 93, Nutzungsänderung einer Gaststätte in zwei Gaststätten; Anhörung vom 11.11.2015 6.1.3.1.5 St.-Martin-Straße 66, Nutzungsänderung einer Gewerbeeinheit (Büro) in eine Kindertagesstätte; Anhörung vom 18.11.2015 6.1.3.1.6 Holtzendorffstraße 37, Schulbauoffensive: Neubau "Dreigruppiges Haus für Kidner" (Bauprogramm 2014); Anhörung vom 19.11.2015
+- TOP 0.2.: 6.1.3.2 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A"; BA-Antrag Nr. 14-20 / B 01092 des BA 16; Schreiben des Direktoriums mit der Bitte um Stellungnahme bis 18.12.2015
+- TOP 0.1.: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren; Stadtratsantrag Nr. 14-20 / A 01112 vom 18.06.2015; Sitzungsvorlagen Nr. 14-20 / V 04433; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.11.2015 (SB)
+- TOP 0.2.: Neuordnung der Bauberatung; Sitzungsvorlagen Nr. 14-20 / V 03401; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.11.2015 (VB)
+- TOP 0.3.: Baufälle im 17. Stadtbezirk
+- TOP 0.4.: Kommunales Wohnungsbauprogramm Produkt 60 4.1.8; Bauträgerauswahl für städtische Baugrundstücke, Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B; Sitzungsvorlage Nr. 14-20 / V 04426; Beschluss des Sozialausschusses vom 03.12.2015 (VB)
+- TOP 0.5.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2076, Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77,892 und 1995) - Satzungsbeschluss; Sitzungsvorlagen Nr. 14-20 / V 04632; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 02.12.2015 (SB)
+- TOP 0.6.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion; Stadtratsantrag Nr. 08-14 / A 04626 vom 12.09.2013 und BA-Antrag Nr. 08-14 / B 05259 des BA 15 vom 19.09.2013; Sitzungsvorlagen Nr. 14-20 / V 03675; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (SB)
+- TOP 0.7.: Mehrjahresinvestitionsprogramm für die Jahre 2015 ? 2019 Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge; Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 6, 7, 9, 20, 24 und 25; Sitzungsvorlagen Nr. 14-20 / V 04049; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage; Sitzungsvorlage Nr. 14-20 / V 02432; Beschluss der Vollversammlung des Stadtrates vom 30.09.2015
+- TOP 0.2.: Haushaltsplan 2016; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" 6.2.4.2.1 der Zentrale; Sitzungsvorlage Nr. 14-20 / V 04020 6.2.4.2.2 des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 14-20 / V 04080 6.2.4.2.3 des Stadtjugendamtes; Sitzungsvorlage Nr. 14-20 / V 04153 6.2.4.2.4 des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 14-20 / V 04110
+- TOP 0.3.: Auswertung AKIM vom 26. Oktober 2015 - Einsatz am Louisoder-Spielplatz
+- TOP 0.4.: Einbindung von Flüchtlingen in das Bürgerfest vom 26.06.2015 im Weißenseepark; Sachbericht zum Budgetantrag
+- TOP 0.5.: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.2016; Schreiben von Frau Bürgermeisterin Strobl vom 19.11.2015
+- TOP 0.1.: Übersichtlichkeit des Zufahrtsbereichs ALDI / Schwanseestraße; Bürgeranliegen aus der Sitzung vom 13.10.2015 (ohne Vorgang - verwiesen aus der Sitzung vom 10.11.2015)
+- TOP 0.2.: Unübersichtliche Verkehrssituation an der Weißensee- / Traunsteiner Straße durch parkende Busse und größere Fahrzeuge; Bürgeranliegen aus der Sitzung vom 13.10.2015 (ohne Vorgang - verwiesen aus der Sitzung vom 10.11.2015)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 4.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; ÖPNV-Offensive IV - Spixstraße - Haltestelle Spixstraße (barrierefreier Ausbau); Beschluss des BA 17 vom 08.12.2015
+- TOP 6.1.: Wieskirch- / Weißenseestraße; Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Schreiben des KVR vom 18.11.2015 mit der Bitte um Stellungnahme
+- TOP 6.2.: Beschlussentwurf Barrierefreie Querungen im Fuß- und Radverkehr; Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis 11.01.2016
+- TOP 6.1.: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II - Finanzierungsbeteiligung; Sitzungsvorlagen Nr. 14-20 / V 03847; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.11.2015 (VB)
+- TOP 6.2.: Barrierefreier Ausbau und gestalterische Aufwertung der Unterführung an der Tegernseer Landstraße - Höhe Otkerstraße; Schreiben des Baureferates vom 05.11.2015
+- TOP 6.3.: Schließung der Radweglücke an der nordöstlichen Seite der Tegernseer Landstraße; BA-Antrag Nr. 14-20 / B 01392 vom 14.07.2015; Antwortschreiben des Baureferats-Tiefbau vom 04.11.2015
+- TOP 6.4.: Umsetzung des nicht mehr genutzten Wartehäuschens an der Endhaltestelle Kiesmüllerstraße an die Haltestelle Landrichterstraße; BA-Antrag Nr. 14-20 / B 01624 vom 08.09.2015; Antwortschreiben der Stadtwerke München GmbH vom 20.10.2015
+- TOP 6.5.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Rainthaler Straße 37; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 6.6.: Bordsteinabsenkung (behindertengerecht) an der Werinherstraße / Höhe Germersheimer Straße zur Verbesserung der Straßenüberquerung für Rad- und Rollstuhlfahrer; Markierung des Radweges auf der Fahrbahn unter der S-Bahnbrücke Werinherstraße; Empfehlung Nr. 14-20 / E 00482 der BÜV des 16. Stadtbezirkes vom 11.06.2015; Sitzungsvorlage Nr. 14-20 / V 04374; Beschluss des BA 16 vom 12.11.2015 zur Kenntnis
+- TOP 6.7.: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen; Sitzungsvorlagen Nr. 14-20 / V 03651; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.11.2015 (VB) zu 6.3.4.3 Hinweis / Ergänzung vom 30.10.2015
+- TOP 6.8.: Lincolnstraße / Feuerbachstraße; Einrichtung eines Verkehrshelferüberganges; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 6.9.: Fehlendes Verkehrszeichen am Walchenseeplatz; Information des Baureferates-Tiefbau vom 11.11.2015
+- TOP 6.10.: S-Bahnhof St.-Martin-Straße - bessere Beschilderung des Wegs zum Ostfriedhof; BA-Antrag Nr. 14-20 / B 01652 vom 08.09.2015; Antwortschreiben des RAW vom 09.11.2015
+- TOP 6.11.: Fahrradweg Weißenseestraße / Chiemgaustraße / Giesinger Bahnhof; BA-Antrag Nr. 14-20 / B 01282 des BA 17 vom 09.06.2015; Erneuerung des westlichen Fahrradweges entlang der Schwanseestraße bis zur Chiemgaustraße in südlicher Richtung; BA-Antrag Nr. 14-20 / B 01391 vom 14.07.2015; Antwortschreiben des Baureferats-Tiefbau vom 12.11.2015
+- TOP 6.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Bezirksausschuss-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht; BA-Antrags-Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 09.11.2015 mit der Bitte um Stellungnahme (verwiesen aus der November-Sitzung)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" A) Bekanntgabe des Konzeptgutachtens B) Vorbereitung der Öffentlichkeitsbeteiligung C) Behandlung des Antrags Nr. 14-20 / A 00044 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 06.06.2014 "Gründung einer Kommission für Grünflächen und Naturschutz"; Sitzungsvorlagen Nr. 14-20 / V 04142; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.11.2015 (VB)
+- TOP 0.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.2.1 Bad-Berneck-Straße 6; Genehmigungsbescheid vom 18.11.2015
+- TOP 0.3.: Gestaltung der Außenanlage der Hl. Kreuzkirche; BA-Antrag Nr. 14-20 / B 01623 vom 08.09.2015; Antwortschreiben des Baureferats-Gartenbau vom 30.10.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Jour Fixe mit den Bezirksausschüssen; Protokoll der Sitzung vom 13. Juli 2015 im NS-Dokumentationszentrum
+- TOP 0.2.: Sommer im Park, Bürgerfest im Weißenseepark am 26. Juni 2015; Sachbericht zum Budgetantrag
+- TOP 0.1.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien; BA-Antrag Nr. 14-20 / B 01204 des BA 17; Schreiben des Direktoriums vom 09.11.2015 mit der Bitte um Stellungnahme (verwiesen aus der November-Sitzung)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Café Point", Alpenstraße 10; Mitteilung vom 09.11.2015
+- TOP 0.2.: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten a) Strukturwandel in der Innenstadt und in Innenstadtrandgebieten I: Städtische Flächenreserven gezielt nutzen; Stadtratsantrag Nr. 08-14 / A 02544 vom 08.06.2011 b) Strukturwandel in der Innenstadt und in Innenstadtrandgebieten II: Städtebauliche Instrumente zum Schutz gewachsener Strukturen aufzeigen; Stadtratsantrag Nr. 08-14 / A 02545 vom 08.06.2011; Sitzungsvorlagen Nr. 14-20 / V 02248; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 02.12.2015 (SB)
+- TOP 0.3.: Mehrjahresinvestitionsprogramm 2015 ? 2019; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 ? 2019; Infrastrukturversorgungskonzept 2015 ? 2019; Sitzungsvorlagen Nr. 14-20 / V 04066; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB)
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes; Schreiben der Stadtkämmerei und des Direktoriums mit der Bitte um Rückmeldung sowie Ergebnisprotokoll der Projektgruppe Bürgerhaushalt (vertagt aus der November-Sitzung) zu 7.2.1 Stellungnahme des BA 8 - Schwanthalerhöhe mit der Bitte um Unterstützung
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise; BV-Empfehlung Nr. 14-20 / E 00390 der BÜV des 5. Stadtbezirkes vom 05.03.2015; Sitzungsvorlage Nr. 14-20 / V 03789; Beschluss des BA 5 vom 16.09.2015 zur Kenntnisnahme
+- TOP 7.2.: Vertretungsregelungen in den Unterausschüssen; Abrechnung der Aufwandsentschädigung; Informationsschreiben Nr. 03/2015 des Direktoriums vom 13.11.2015
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.1.: AntragstellerIn: Initiative ?Ein Teller Heimat?, für die Maßnahme: Projekt ?Ein Teller Heimat? von Dezember 2015 bis Mai 2016; Antragssumme: 1.020,00 ?; Beschlussvorlage des Direktoriums vom 18.11.2015 zu 5.1.1 Information des Direktoriums zum Projektbeginn am 30.11.2015
+- TOP 1: (E) Bessere Verkehrsanbindung an den Tegernseer Platz / Silberhornstraße Empfehlung Nr. 14-20 / E 00492 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 18.06.2015 - <div>nach Antrag</div>
+- TOP 2: (E) Haltverbot in der Fasangartenstraße von der Autobahnunterführung kommend vor der Kreuzung Balanstraße Empfehlung Nr. 14-20 / E 00500 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 18.06.2015 - <div>nach Antrag</div>
+- TOP 3: (E) Errichtung einer Wartehalle für die Buslinie 145 in der Fasangartenstraße Empfehlung Nr. 14-20 / E 00491 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 18.06.2015 - <div></div>
+
+  						<div>Abweichung von Referentenvorl.</div>
+- TOP 4: (E) Tempolimit am Spielplatz Spitzingplatz/Schlierseestraße (Ziffer 2) Empfehlung Nr. 14-20 / E 00497 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 18.06.2015 - <div>nach Antrag</div>
+- TOP 6: (E) Einrichtung eines Zebrastreifens oder einer Ampel an der Hohenwaldeckstraße Ecke St.-Martin-Straße (Ziffer 1) Empfehlung Nr. 14-20 / E 00496 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 18.06.2015 - <div>nach Antrag</div>
+- TOP 2.1.: Parksituation am Ostfriedhof, St.-Martin-Straße; Bürgerschreiben vom 20.11.2015
+- TOP 0.3.: 1. Lichtzeichenanlage Peter-Auzinger-Straße / Tegernseer Landstraße / Stadelheimer Straße 2. Geschwindigkeitsüberwachung an unter Nr. 1 genannter Kreuzung 3. Chiemgaustraße (Mittlerer Ring, ggü PI 23) - Rad- und Fußwegmarkierung 4. Schaltung der LZA an der Chiemgaustraße 5. Traunsteiner Straße - Geschwindigkeitsüberschreitungen; Bürgerschreiben (Ziffern 1 - 3 - verwiesen aus den Sitzungen vom 13.10. und 10.11.15)
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
