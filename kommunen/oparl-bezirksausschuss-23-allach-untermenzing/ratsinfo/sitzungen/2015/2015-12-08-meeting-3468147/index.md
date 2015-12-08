@@ -1,0 +1,86 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-12-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3468147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3468147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 06.11.15
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Verkehrs-Kollaps im Münchner Nord-Westen
+- TOP 2.2.: Lesung in Allach-Untermenzing
+- TOP 2.3: Information zum SWM Projekt Seismik Messungen
+- TOP 3: Anträge
+- TOP 3.1.: Durchgezogene Mittellinie auf der Fahrbahn in der Karl-Geyer-Straße
+- TOP 3.2.: Laubhaufen in Grünanlagen zur Überwinterung von Igeln
+- TOP 3.3.: Fisch-Naturlehrpfad entlang der Würm in Allach-Untermenzing
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Behringstr. 73, Gemarkung: Allach, Fl.Nr.: 157/15 Neubau eines Mehrfamilienhauses mit Garage
+- TOP 5.2.: Paul-Ehrlich-Weg 44, Gemarkung: Allach, Fl.Nr.: 640/0 Erweiterung und Aufstockung eines Mehrfamilienhauses - VORBESCHEID (3 Var.)
+- TOP 5.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Bezirksausschuss-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht
+- TOP 5.4.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien
+- TOP 5.5.: Bürgerhaushalt
+- TOP 5.6.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A "in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A"
+- TOP 5.7.: Beschlussentwurf Barrierefreie Querungen im Fuß- und Radverkehr
+- TOP 5.8.: Theodor-Fischer-Str. 122, Gemarkung: Untermenzing, Fl.Nr.: 1077/1 Neubau zweier Doppelhäuser mit Garagen
+- TOP 5.9.: Erstmalige Herstellung des Krayweges Baumfällung auf Privatgrundstück Flst. Nr. 301/7 Gemarkung Allach
+- TOP 5.10.: Erinnerungsverfahren Theodor-Fischer-Straße, Fahrbahnsanierung
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung vom 21.10.15: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" (Sitzungsvorlage Nr. 03137)
+- TOP 6.2.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Handlungsbedarf der drei optional Tunnelbaumaßnahmen (Sitzungsvorlage Nr. 03651)
+- TOP 6.3.: Beschluss des gemeinsamen Kinder- und Jugendausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.15: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" a) der Zentrale(Sitzungsvorlage Nr. 04020) b) des Stadtjugendamtes (Sitzungsvorlage Nr. 04153) c) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 04110) d) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 04080)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: a) Mehrjahresinvestitionsprogramm für die Jahre 2015-2019, Gliederungsziffern (Sitzungsvorlage Nr. 04049) b) Mehrjahresinvestitionsprogramm für die Jahre 2015-2019, Infrastrukturversorgungskonzept (Sitzungsvorlage Nr. 04066) c) Strukturwandel in der Innenstadt und in Innenstadtgebieten (Sitzungsvoralge Nr. 02248) d) Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion (Sitzungsvoralge Nr. 03675)
+- TOP 7: Verschiedenes
+- TOP 7.1.: BA-Infoveranstaltung MVG Rad am 22.02.16 um 19:00 Uhr
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Bürgermeisterin Strobl vom 19.11.15: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung", Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport
+- TOP 9.2.: Schreiben Direktorium vom 12.11.15: Umstellung der Software für die BA-Homepages; Abfrage des Schulungsbedarfs und weiterer Planungen
+- TOP 9.3.: Schreiben Direktorium vom 03.11.15: Wlan für Flüchtlingsunterkünfte in der Tubeufstraße
+- TOP 9.4.: Schreiben Direktorium vom 13.11.15: Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 9.5.: Schreiben Direktorium vom 20.11.15: Kompetenz vor Ort erkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung)
+- TOP 9.6.: Schreiben Sozialreferat vom 18.11.15: Stadtbezirksübersicht Bestand + Planungen Flüchtlingsunterkünfte in München
+- TOP 9.7.: Schreiben Sozialreferat vom 03.11.15: Tubeufstr. 19
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.11.15: Beteiligung der Öffentlichkeit; Frühzeitige Unterrichtung gem. § 3 Abs. 1 BauGB; Planungsgebiet: Bebauungsplan mit Grünordnung Nr. 2105, Bundesautobahn A 8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich); Planungsdarlegung vom 17.11.15 mit 17.12.15
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (26.10.15-01.11.15, 02.11.15-08.11.15, 09.11.15-15.11.15, 16.11.-22.11.15)
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Theodor-Fischer-Str. 122, Kunstmannstr. 7
+- TOP 9.11.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Piperstr. 1, Abbestr. 25, Eversbuschstr. 84, Rueßstr. 12, Menzinger Str. 144, Rehsteig 3, Ernst-Haeckel-Str. 27, Ramannstr. 2, Mangstr. 14, Ganzenmüllerstr. 52
+- TOP 9.12.: Schreiben Stadtwerke München GmbH vom 09.11.15, 16.11.15, 23.11,15: Baumaßnahmen
+- TOP 9.13.: Schreiben Kulturreferat vom 29.10.15: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 13.07.15
+- TOP 9.14.: Schreiben Referat für Arbeit und Wirtschaft vom 13.11.15: Buslinie 164
+- TOP 9.15.: Schreiben Kreisverwaltungsreferat vom 05.11.15: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Famiglia P Otto"
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 10.11.15: Haltverbot Untere Mühlstraße
+- TOP 9.17.: Schreiben Baureferat vom 05.11.15: Verschmutzung am S-Bahn-Haltepunkt Allach-Untermenzing
+- TOP 9.18.: Schreiben Bezirksausschuss 8 Schwanthalerhöhe vom 10.11.15: Bürgerhaushalt
+- TOP 9.19.: Schreiben Bürgerstiftung München vom 06.11.15: Servus! - Ausgabe November/Dezember
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Beleuchtung Fußweg am Allacher Bahnhof
+- TOP 10.2.: Anhörungen: Faschingszug Pfarrei Maria Himmelfahrt am 09.02.16
+- TOP 10.3.: Eversbuschstr. 39, Gemarkung: Untermenzing, Fl.Nr.: 117/0 Sanierung und Nutzungsänderung eines denkmalgeschützten Gebäudes in ein Dreifamilienhaus - TEKTUR
+- TOP 10.4.: Rueßstr. 1, Gemarkung: Untermenzing, Fl.Nr.: 542/31 Neubau eines Mehrfamilienhauses mit Garagen und Vollzug der BaumschutzVO
+- TOP 10.5.: Fällungsantrag Dachauer Str. 665
+- TOP 10.6.: Verschiedenes: Auftritt der Schäffler in Untermenzing in 2017
+- TOP 10.7.: Kontakt Diakonie Hasenbergl e.V.
+- TOP 10.8.: Umlauf: Schreiben 3. Bürgermeisterin vom 30.11.15: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP 10.9.: Schreiben Direktorium vom 26.11.2015: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens
+- TOP 10.10.: Schreiben Stadtwerke München vom 30.11.15: Baumaßnahmen
+- TOP 10.11.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Ramannstr. 2, Zittauer Str. 23
+- TOP 10.12.: Schreiben vom 25.11.15: Kurzbericht zum Buchprojekt "Die Diamalt AG München"
+- TOP 10.13.: Schreiben Bürgerstiftung München vom 30.11.15: Klimakonferenz in Paris: Durchbruch oder Chaos? Wie geht`s weiter? Vortrag 17.12.15
+- TOP 1: (E) Parkfläche für Gewerbetreibende rund um die Kirche Maria-Himmelfahrt (Antrag 3, Ziffer 2) Empfehlung Nr. 14-20 / E 00512 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 23.06.2015
+- TOP 2: (E) Maßnahmen zur Erhöhung der Verkehrssicherheit an der Von-Reuter-Straße Empfehlung Nr. 14-20 / E 00510 der Bürgerversammlung des 23. Stadtbezirkes -Allach-Untermenzing am 23.06.2015
