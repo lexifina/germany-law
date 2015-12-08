@@ -1,0 +1,23 @@
+# Familienbüros: für eine noch familienfreundlichere Verwaltung auch in Mitte!
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 2413/IV
+- Art: Antrag
+- Datum: 2015-12-08
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7040
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=7040
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=127970
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3699 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3729 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3883 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3782 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3801 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3863 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3884 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3990 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4087 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4054 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4071 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4102 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=24
