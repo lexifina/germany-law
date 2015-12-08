@@ -1,0 +1,95 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-12-08T16:02:00+01:00
+- Ende: 2015-12-08T17:31:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12233
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12233
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand:27.11.15) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00187661.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00188997.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2014 des Eigenbetriebes Straßenreinigung (ESW) - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2014 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2014/2015 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2014 der Hotel AG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Delphin Verwaltungs GmbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2014 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH i. L. (WiBeFö i. L.) - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss der CVUA-RRW AöR für das Geschäftsjahr 2014 - Entgegennahme ohne Beschluss
+- TOP 1.8: Jahresbericht 2014 - Bergisches Veterinär- und Lebensmittelüberwachungsamt - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2016 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan 2016 der Wirtschaftsförderungsgesellschaft Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 2.5: Wirtschaftsplan der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR) für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 2.6: Wirtschaftsplanung KIJU für 2016 - Entgegennahme ohne Beschluss
+- TOP 2.7: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2016 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.8: Informationen zum Jahresabschluss 2014 APH - Entgegennahme ohne Beschluss
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Änderung der Betriebssatzung APH - ungeändert beschlossen
+- TOP 3.2: Gesellschaftsrechtliche Weisung im Rahmen des Betrauungsaktes Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 3.3: Änderung des Gesellschaftsvertrages und Geschäftsführerangelegenheiten der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 3.4: Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2015 des GWG-Konzerns - ungeändert beschlossen
+- TOP 3.5: Beteiligungsbericht 2014 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.6: Dringlichkeitsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 01.12.2015 - Übertragung des Talsperrenbetriebs an den Wupperverband - Dringlichkeitsentscheidung genehmigt
+- TOP 3.6.1: Übertragung des Talsperrenbetriebs inkl. Talsperren zur Rohwasserbeschaffung und -bereitstellung an den Wupperverband gemäß § 2 Abs. 4 WupperVG - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 5.2: Externe Einstellungen im Zeitraum Januar - September 2015 - Entgegennahme ohne Beschluss
+- TOP 5.3: Evaluationsbericht zum Programm Soziale Stadt Oberbarmen/Wichlinghausen - 1. Förderphase 2012 - 2015 - - Entgegennahme ohne Beschluss
+- TOP 5.4: Zweiter Gremienbericht der Stadt Wuppertal (Stichtag 1. Quartal 2015) - Entgegennahme ohne Beschluss
+- TOP 5.5: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen über die "Überörtliche Prüfung der Stadt Wuppertal 2014" - Entgegennahme ohne Beschluss
+- TOP 5.6: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen über die "Überörtliche Prüfung der Informationstechnik der Stadt Wuppertal 2014" - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Haushaltsplan 2016/2017 - geändert beschlossen
+- TOP 6.1.1: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2016/2017 - ungeändert beschlossen
+- TOP 6.1.2: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2016/2017 - ungeändert beschlossen
+- TOP 6.1.3: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2016/2017 - Entgegennahme ohne Beschluss
+- TOP 6.1.4: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2016/2017 - Entgegennahme ohne Beschluss
+- TOP 6.1.5: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 19.11.15 zum Haushaltsplan 2016/17 (Tageseinrichtungen für Kinder) - abgelehnt
+- TOP 6.1.6: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 19.11.15 zum Haushaltsplan 2016/17 (Schulsozialarbeit; Inklusionsbeauftragte/r; Gebärdendolmetschen der Ratsübertragungen) - teilweise beschlossen
+- TOP 6.1.7: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 20.11.15 zum Haushaltsplan 2016/17 (Mobilität; Parkraumbewirtschaftung) - abgelehnt
+- TOP 6.1.8: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 24.11.15 zum Haushaltsplan 2016/17 (Professionelle Begleitung ehrenamtlicher Flüchtlingshilfe) - abgelehnt
+- TOP 6.1.9: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 24.11.15 zum Haushaltsplan 2016/17 (Baumschutzsatzung; Urban Gardening) - abgelehnt
+- TOP 6.1.10: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.11.15 zum Haushaltsplan 2016/17 (Kulturförderung) - abgelehnt
+- TOP 6.1.11: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.11.15 zum Haushaltsplan 2016/17 (Vergnügungssteuer) - abgelehnt
+- TOP 6.1.12: Antrag der Fraktion DIE LINKE vom 27.11.15 zum Haushaltsplan 2016/2017 - Deckelung für AGFW aufheben - abgelehnt
+- TOP 6.1.13: Antrag zum Haushaltsplanentwurf 2016/17 - Antrag der Fraktionen von CDU und SPD vom 03.12.2015 - zur Vorberatung verwiesen
+- TOP 6.2: 5. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2016 - ungeändert beschlossen
+- TOP 6.3: Bürgerbeteiligung zum Haushaltsplan-Entwurf 2016/2017 - Entgegennahme ohne Beschluss
+- TOP 6.4: Umsetzung des Bundesinvestitionsprogramms - ungeändert beschlossen
+- TOP 6.5: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 6.6: Einführung einer Wettbürosteuer - ungeändert beschlossen
+- TOP 6.7: Grundsatzbeschluss zur Schaffung des Pina Bausch Zentrums - ungeändert beschlossen
+- TOP 6.8: Änderung der Entgeltordnung für den Zoologischen Garten/Einführung eines ZooAbos und online-Tickets - ungeändert beschlossen
+- TOP 6.8.1: Ergänzungsvorlage zur VO/1860/15 Alternativbeschluss Entgeltordnung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2014 - ungeändert beschlossen
+- TOP 7.2: Weiterführung der Restrukturierung der GWG - geändert beschlossen
+- TOP 7.2.1: Weiterführung der Restrukturierung der GWG - Ergänzung - geändert beschlossen
+- TOP 7.3: Weiterführung der Restrukturierung der GWG - Betrauungsakt GWG - ungeändert beschlossen
+- TOP 7.4: Wupperpark Ost - ungeändert beschlossen
+- TOP 7.5: Vereinbarung zur Erhaltung des Tunnels Schee - ungeändert beschlossen
+- TOP 7.6: Änderung der Entgeltordnung für das Stadtarchiv - ungeändert beschlossen
+- TOP 7.7: Gebührensatzung zur Abfallwirtschaft 2016 - geändert beschlossen
+- TOP 7.8: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreiningungsgebühren ab 01.01.2016 - ungeändert beschlossen
+- TOP 7.9: 9. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.10: Fortschreibung des Integrierten Stadtentwicklungskonzeptes "Soziale Stadt Heckinghausen" - ungeändert beschlossen
+- TOP 7.11: Fortschreibung des Integrierten Stadtentwicklungskonzeptes "Soziale Stadt Oberbarmen/Wichlinghausen" - ungeändert beschlossen
+- TOP 7.12: Änderung der Satzung der Feuerschadengemeinschaft - ungeändert beschlossen
+- TOP 7.13: Bereitstellung überplanmäßiger Mittel für eine Ersatzvornahme der Unteren Bauaufsichtsbehörde - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Wirtschaftsplan 2016 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
