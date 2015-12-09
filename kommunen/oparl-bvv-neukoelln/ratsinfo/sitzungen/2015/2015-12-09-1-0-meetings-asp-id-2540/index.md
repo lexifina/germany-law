@@ -1,0 +1,81 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-12-09T17:05:00+01:00
+- Ende: 2015-12-09T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2540
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2540
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Genehmigung der im Haushaltsjahr 2014 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 7.2: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Schillerpromenade" im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken eines stellvertretenden Bürgerdeputierten zum ordentlichen Bürgerdeputierten in den Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Standorte modularer Unterkünfte für Flüchtlinge - beantwortet
+- TOP 9.2: Hausgemachtes Chaos im Bürgeramt Neukölln? - beantwortet
+- TOP 9.3: 50 leerstehende Wohnungen belegen - beantwortet
+- TOP 9.4: Mehr Unterbringungsmöglichkeiten für Geflüchtete - beantwortet
+- TOP 9.5: Verbotsantrag Al-Nur-Moschee - schriftlich beantwortet
+- TOP 9.6: Stand KLR-Defizite im Bereich der Schulträgerschaft - schriftlich beantwortet
+- TOP 9.7: Personaleinsatz im JobCenter Neukölln - schriftlich beantwortet
+- TOP 9.8: Familien(bürger)büro in Neukölln? - schriftlich beantwortet
+- TOP 9.9: Neuköllner vom Strom abgeklemmt? - schriftlich beantwortet
+- TOP 9.10: Derzeitiger Stand Haarlemer Straße - schriftlich beantwortet
+- TOP 9.11: Standorte für Siedlungen in Leichtbauweise - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Neukölln sagt Nein zu TTIP - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Neukölln sagt Nein zu TTIP - gegenstandslos
+- TOP 10.3: Neukölln gegen TTIP, CETA, TiSA - in der BVV abgelehnt
+- TOP 10.4: Sozialämter vor dem Kollaps - beantwortet
+- TOP 10.5: Gewaltschwerpunkt Neuköllner Grundschule? - beantwortet
+- TOP 10.6: Unterbringung von Geflüchteten in ehemaliger Jugendhilfeeinrichtung - beantwortet
+- TOP 10.7: Eigentümliche Eigentümer - beantwortet
+- TOP 10.8: Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - beantwortet
+- TOP 10.9: Einsatzschwerpunkte Ordnungsamt - vertagt
+- TOP 10.10: Neues Meldegesetz - vertagt
+- TOP 10.11: Kein Milieuschutz aus Personalmangel? - vertagt
+- TOP 10.12: Leerstände Boddinstr.5 - vertagt
+- TOP 11: Beschlussempfehlungen - vertagt
+- TOP 11.1: Mieterberatung erhalten - in der BVV abgelehnt
+- TOP 11.2: Späthstraßenbrücke öffnen - Einheit vollenden - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bürgerbeteiligung bei der Bauleitplanung modernisieren - in der BVV abgelehnt
+- TOP 11.4: Mehr Fahrradabstellplätze vor den Neukölln Arcaden - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Informationsveranstaltung "Bürgernahe Kommunalpolitik" - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Einrichtung einer Unterkunft für besonders Schutzbedürftige - in der BVV abgelehnt
+- TOP 11.7: Informationen über die Mietpreisbremse - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Zweckentfremdung und Ferienwohnungen in Neukölln - vertagt
+- TOP 12.2: Menschenunwürdige Unterbringung - vertagt
+- TOP 12.3: Leerstände mit Ausnahmegenehmigung - vertagt
+- TOP 13: Große Anfragen - schriftlich - vertagt
+- TOP 14: Anträge - vertagt
+- TOP 14.1: Impfschutz - überwiesen
+- TOP 14.2: Würdiges Erscheinungsbild am Gedenkstein Britz wiederherstellen - überwiesen
+- TOP 14.3: Aufstellungsbeschluss für soziale Erhaltungssatzungen - überwiesen
+- TOP 14.4: Sportfrei- Freiwillige vor - vertagt
+- TOP 14.5: Straßenumbenennung Margarete Kubicka - überwiesen
+- TOP 14.6: Aufstellungsbeschlüsse und soziale Erhaltungssatzungen umsetzen - vertagt
+- TOP 14.7: Aufstellungsbeschluß für Soziale Erhaltungssatzungen - in der BVV zurückgezogen
+- TOP 14.8: Prüfauftrag Buckower Damm 176 - in der BVV abgelehnt
+- TOP 14.9: Berliner Aktionsprogramm gegen Ambrosia - auch in Neukölln! - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Abriss von Wohnungen unter Genehmigungsvorbehalt stellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Milieuschutz für Nord-Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Aktionsfonds für Toleranz und Demokratie - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Stellen für den Milieuschutz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.1: Krankenversicherungschipkarte für Asylbewerber/innen (Bremer Modell) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bebauungsplan 8-52a ("Pfauenkehre") - mit Abschlussbericht zur Kenntnis genommen
