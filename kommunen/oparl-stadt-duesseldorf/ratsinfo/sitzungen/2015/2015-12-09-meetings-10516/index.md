@@ -1,0 +1,84 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-12-09T17:00:00+01:00
+- Ende: 2015-12-09T19:34:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10516
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10516
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00255317.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00255317.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00255317.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Barrierefreier Ausbau Haltestelle Lierenfeld Btf - einstimmig beschlossen
+- TOP 5: RRX-Lärmschutz im Bereich des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 6: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - zur Kenntnis genommen
+- TOP 7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich abgelehnt
+- TOP 8: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Neufassung der Benutzungsordnung für die Bürgerhäuser - einstimmig abgelehnt
+- TOP 12: Grundstück Venhauser Allee 222 - beantwortet
+- TOP 13: Elektromobilität im Stadtbezirk 8 - beantwortet
+- TOP 14: Nebengebäude Schloss Eller - beantwortet
+- TOP 15: Bebauungsplan Eichenwand - beantwortet
+- TOP 16: Renaturierungen Südliche Düssel und Eselsbach / Flachwasserzone Unterbacher See - beantwortet
+- TOP 17: Straßenbild Gumbertstraße - beantwortet
+- TOP 18: GGS Brorsstraße - beantwortet
+- TOP 19: Online-Archiv Bauleitpläne des Stadtbezirks 8 - beantwortet
+- TOP 20: Piktogramme im Stadtbezirk 8 - beantwortet
+- TOP 21: Querungshilfe Königsberger Straße - beantwortet
+- TOP 22: Schutz der Grüngebiete im Stadtbezirk 8 - beantwortet
+- TOP 23: Grundstück Vennhauser Allee 222 - beantwortet
+- TOP 24: Geschwindigkeitsregelung Kamper Weg - zur Kenntnis genommen
+- TOP 25: Fahrbahndecke Erlenkamp - einstimmig beschlossen
+- TOP 26: Lehrerparkplatz GGS Vennhauser Allee - einstimmig beschlossen
+- TOP 27: Parkregelung Vennhauser Allee in Höhe GGS Vennhauser Allee - einstimmig beschlossen
+- TOP 28: Gehweg Neusalzer Weg - zurückgezogen
+- TOP 29: Spruchband Rathaus Eller - mehrheitlich beschlossen
+- TOP 30: Verkehrsführung Bernburger Straße / Heidelberger Straße / Heidelberger Straße - einstimmig beschlossen
+- TOP 31: Verkehrsführung zwischen Vennhauser Allee / Krippstraße und Ellerkirchstraße / Gumbertstraße - einstimmig beschlossen
+- TOP 32: Grundstück Freiheitstraße 78 - einstimmig beschlossen
+- TOP 33: Umgestaltung Entenpark Lierenfeld - einstimmig beschlossen
+- TOP 34: Straßensanierung Am Pfaffenbusch 4 - einstimmig beschlossen
+- TOP 35: Sitzgelegenheit Bushaltestelle Vennstraße - einstimmig beschlossen
+- TOP 36: Fahrradständer Friedhof Unterbach - einstimmig beschlossen
+- TOP 37: Förderung des Radverkehrs im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Ladezone Gumbertstraße - einstimmig beschlossen
+- TOP 39: Beschilderung Eller Forst - einstimmig beschlossen
+- TOP 40: Anpassungen im ergänzenden Bus- und Straßenbahnnetz mit Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 41: U75 - Barrierefreier Ausbau der Haltestelle Lierenfeld Betriebshof (Btf) - zur Kenntnis genommen
+- TOP 42: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 43: Toilettenanlage Gertrudisplatz und Projekt "Nette Toilette" im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Abfallbeseitigung Wasserspielplatz Schlosspark Eller - zur Kenntnis genommen
+- TOP 45: Kleine Kommission RRX - zur Kenntnis genommen
+- TOP 46: Radverkehr Neusalzer Weg - zur Kenntnis genommen
+- TOP 47: Wohnungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Verkehrserschließung Glasmacherviertel - zur Kenntnis genommen
+- TOP 49: Baumnachpflanzungen nach Sturm Ela im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Abbiegesituation vom Ohlauer Weg in den Neusalzer Weg - zur Kenntnis genommen
+- TOP 51: Verkehrszählungen in Vennhausen - zur Kenntnis genommen
+- TOP 52: Parkregelung Kamper Weg - zur Kenntnis genommen
+- TOP 53: Kreuzungsbereich Sandträgerweg / Gubener Straße / Neusalzer Weg - zur Kenntnis genommen
+- TOP 54: Ampelschaltung Vennhauser Allee / Hürthstraße - zur Kenntnis genommen
+- TOP 55: Ampelschaltung Karl-Geusen-Straße / Ausfahrt Lierenfeld Betriebshof - zur Kenntnis genommen
+- TOP 56: Fahrradabstellmöglichkeiten am S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 57: Grünschnitt Parkplatz Schalbruch / Breidenbruch - zur Kenntnis genommen
+- TOP 58: Ampelschaltung Am Zault / Millrather Weg - zur Kenntnis genommen
+- TOP 59: Schaltkästen im Bereich Parkplatz Eller-Mitte und Gertrudisplatz - zur Kenntnis genommen
+- TOP 60: Bauvorhaben Unterbacher Straße / Am Stufstock / Kempgensweg - zur Kenntnis genommen
+- TOP 61: Straßenbeleuchtung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 62: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 63: Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 64: Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 65: Bücherbus im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 66: Elektromobilität im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 67: Gestaltung Freiheitplatz - zur Kenntnis genommen
