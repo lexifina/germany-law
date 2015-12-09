@@ -1,0 +1,106 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-12-09T17:00:00+01:00
+- Ende: 2015-12-09T20:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3759
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3759
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=86677
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 47. Sitzung der BVV am 09.12.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 47. Sitzung der BVV am 09.12.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 47. Sitzung der BVV am 09.12.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorklärwerke für Frohnauer Teiche - überwiesen
+- TOP 7.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Ideen für schöne Plätze in Reinickendorf - überwiesen
+- TOP 7.4: Nächtliches Tempo 30 / Hennigsdorfer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Leistungsangebot des "Bollerwagens" erhalten - überwiesen
+- TOP 7.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Aufklärungsangebote zum Thema "sexuelle Gewalt an Kindern" in öffentlichen Einrichtungen verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Gleisbett aus dem Gehweg entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Simmelstraße öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Mehr Helligkeit für Sicherheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Halte- und Parkverbote sowie Freihalten von Grundstückszufahrten in der Siedlung Waldidyll am Flughafensee stärker kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Einsatz von Doppelstock-Fahrradabstellsystemen an Reinickendorfer Bahnhöfen prüfen - überwiesen
+- TOP 7.15: Querparken am Rathaus für ÖPNV-Pendler prüfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Bezirklicher Denkmalrat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Unterstützung der Bildungsprojekte von PROTECT und BGZ über Ehrenämter in Hilfsorganisationen für Kinder und Jugendliche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Broschüre - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Schaffung einer Mittelstreifenquerung in der Klemkestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Finanzierung der Jugendarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Bezahlbares Wohnen in der Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Verbindungsweg "Im Brachfeldwinkel" wieder herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Erwerb der BImA-Grundstücke durch das Land Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Übertragung des Betriebes und der Unterhaltung der mobilen Kinderfreizeiteinrichtung "Spielmobil Bollerwagen" im Bezirk Reinickendorf durch einen anerkannten freien Träger der Jugendhilfe voraussichtlich ab 01.03.2015 gemäß § 12 Abs. 2 Nr. 10 Bezirksverwaltungsgesetz - überwiesen
+- TOP 7.25: Verkehrsfluss Beyschlagstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Unterflurhydranten Ruppiner Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Unterstützender Deutschkurs für Flüchtlinge mit Ausbildungsbetrieben in Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.28: Wartezeiten im Bürgeramt abbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.29: Verkehr in der Heinsestraße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Bearbeitungszeiten im Jugendbereich - überwiesen
+- TOP 7.31: Grobscreening für potentielle Milieuschutzgebiete (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.32: Die Ausstellung "Was glaubst du denn" nach Reinickendorf holen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Sitzgelegenheiten am U-Bhf Rathaus Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Gleisreste im Bezirk (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.35: Verbesserung der Situation Waidmannsluster Damm / A111 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.36: Hinweiskasten Grünfläche Taldorfer Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.37: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bearbeitungszeiten für Geburts- und Sterbeurkunden verkürzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.38: Information während der BVV - überwiesen
+- TOP 7.39: "Praxistag Bus" durchführen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.40: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-240b-2 vom 25. August 2014 für das Grundstück Freester Weg 5 im Bezirk Reinickendorf, Ortsteil Heiligensee. - überwiesen
+- TOP 7.41: Aufstellung des Bebauungsplans 12-59 für das das Gelände zwischen Holländerstraße, Residenzstraße, Haßlinger Weg und Markstraße sowie Teilflächen der Holländerstraße und der Residenzstraße im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 7.42: Zulässigkeitsvoraussetzungen des Einwohnerantrags "Erhaltung des Gaslichts in Reinickendorf" des Berliner Bürgervereins in der Gartenstadt Frohnau e. V. vom 25.10.2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Neubau einer 3-zügigen Grundschule in Reinickendorf-Ost - beantwortet
+- TOP 8.1.1: Dringenden Bedarf eines Grundschulneubaus in Reinickenorf-Ost anerkennen - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Flüchtlinge willkommen in Reinickendorf? - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Neuwahl der Mitglieder des Beirates in Sozialhilfenangelegenheiten und deren Stellvertreter - gewählt
+- TOP 9.2: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Erhaltung des Gaslichts in Reinickendorf" - überwiesen
+- TOP 9.3: Erneuter Beschluss über den Bebauungsplanentwurf 12-31 vom 14. Oktober 2014 mit Deckblatt vom 26. Oktober 2015 und über den Entwurf der Rechtsverordnung für Teilflächen des Grundstücks Bernauer Straße 151 im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Eingliederungsmittel für Langzeitarbeitslose in 2015 vollständig ausschöpfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Flohmarkt Markstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Volkspark Wittenau umbenennen in Göschenpark - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Genehmigungsverfahren von Gebrauchtwarenmärkten mit sensibler Umfeldbetrachtung - überwiesen
+- TOP 10.5: Bürgerinnen und Bürger sowie BVV bei baulichen Veränderungen im Tegel-Center frühzeitig informieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Jährlich über Jahresprogramm Straßenbau berichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Ausbildungs- und Arbeitsplatzbörse "Workeer" bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Wahrung der Intimsphäre bei der Altersbestimmung bei jungen geflüchteten Menschen sicherstellen - überwiesen
+- TOP 10.9: Auf Lokale Allianz für Menschen mit Demenz aufmerksam machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Unerlaubtes Parken verhindern - erledigt
+- TOP 10.11: Keine Budgetkürzung für Nachnutzung Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Kostenfreier Gesundheitspass für ehrenamtlich Tätige - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Information zur Verhinderungspflege - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Sportwiese im Steinbergpark ertüchtigen - überwiesen
+- TOP 12.2: Untersuchung zur Entwicklung der bezirklichen sozialen Infrastruktur durchführen - überwiesen
+- TOP 12.3: Tätigkeitsbericht des Fahrradbeauftragten - überwiesen
+- TOP 12.4: Montessori-Schule Heiligensee unterstützen - überwiesen
+- TOP 12.5: Eigentümerwechsel Märkisches Zentrum - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Beleuchtung Parkplatz Schulfarm - überwiesen
+- TOP 13.2: VDSL für ganz Reinickendorf - überwiesen
+- TOP 13.3: Geschwindigkeitskontrollen Wittenauer Straße / Quickborner Straße / Alt-Lübars - Ortsteil Lübars verstärken - überwiesen
+- TOP 13.4: Grünpfeilschild für Rechtsabbieger Alt-Wittenau entfernen - überwiesen
+- TOP 13.5: Verkehrssicherheit für Schulkinder in Konradshöhe - überwiesen
+- TOP 13.6: Fußgängerüberweg Friederikestr. / Schwarzspechtweg - überwiesen
+- TOP 13.7: Mehr Verkehrssicherheit in Lübars - überwiesen
+- TOP 13.8: Nächtliches Tempo 30 auf der Reginhardstraße - überwiesen
