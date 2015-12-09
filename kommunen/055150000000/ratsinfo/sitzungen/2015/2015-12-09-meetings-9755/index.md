@@ -1,0 +1,100 @@
+# 11. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-12-09T17:06:00+01:00
+- Ende: 2015-12-09T21:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9755
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9755
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00380740.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Information zu Gender Budgeting - zur Kenntnis genommen
+- TOP 3: Umbau Hansaring zur Anbindung des Hafencenters, - Planungs- und Baubeschluss - - mehrheitlich beschlossen
+- TOP 4: Förderung von Stadterneuerungsprojekten - Sachstand 2015 und Anträge 2016 - einstimmig beschlossen
+- TOP 5: Münsterland e. V. - EFRE-Förderprojekte ab 2016 - einstimmig beschlossen
+- TOP 6: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2016 - zur Kenntnis genommen
+- TOP 7: Verkehrsinfrastrukturbericht Münster 2015 - zur Kenntnis genommen
+- TOP 8: Sanierungsmaßnahmen im Stadtmuseum - einstimmig beschlossen
+- TOP 9: Stiftung Bürgerwaisenhaus - DeutschSommer 2016 - einstimmig beschlossen
+- TOP 10: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck - einstimmig geändert beschlossen
+- TOP 10.1: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck
+- TOP 11: Antrag an den Rat Nr. A-R/0031/2015: Speicher für den Sonnenstrom - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 12: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2015 (nach Beanstandung des Oberbürgermeisters) - einstimmig beschlossen
+- TOP 12.1: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2015 (nach Beanstandung des Oberbürgermeisters)
+- TOP 13: NKF-Gesamtabschluss zum 31.12.2012 der Stadt Münster (Entwurf), NKF-Gesamtabschluss zum 31.12.2013 der Stadt Münster (Entwurf) - zur Kenntnis genommen
+- TOP 14: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2016 - mehrheitlich geändert beschlossen
+- TOP 15: Gewährung einer zinslosen, zurück zu zahlenden Überbrückungsfinanzierung an Frauen und Beruf, Frauenforum e.V. zur Zwischenfinanzierung des Projekts Kompetenzzentrum Münsterland (Competentia Münsterland) - Darlehnsverlängerung - einstimmig beschlossen
+- TOP 16: 1. Abbau geringfügiger Beschäftigungsverhältnisse bei der Stadt Münster - Antrag Nr. A-R/0051/2014 der SPD-Fraktion vom 27.11.2014 - mehrheitlich beschlossen
+- TOP 17: Organisationsuntersuchung im Amt für Immobilienmanagement / Erste Ergebnisse und weiteres Vorgehen - mehrheitlich geändert beschlossen
+- TOP 18: Wirtschaftsplan 2016 der citeq - einstimmig beschlossen
+- TOP 19: Einsatz von Defibrillatoren durch die Stadt Münster - einstimmig geändert beschlossen
+- TOP 20: Brandschutzbedarfsplan für die Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 21: Bürgerhaushalt 2016 - einstimmig beschlossen
+- TOP 22: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa 2016) - mehrheitlich beschlossen
+- TOP 23: Vorabgewinnausschüttung auf den Bilanzgewinn 2015 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 24: Installation einer Schuldenuhr auf der Homepage der Stadt Münster - mehrheitlich beschlossen
+- TOP 25: Konversionsprozess der York- und Oxford-Kaserne: Projektplanung bis zur Ankaufsentscheidung - einstimmig beschlossen
+- TOP 26: Abschluss von Managementkontrakten
+- TOP 26.1: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - einstimmig geändert beschlossen
+- TOP 26.2: Managementkontrakt mit der Westfälische Bauindustrie GmbH (WBI GmbH) - einstimmig geändert beschlossen
+- TOP 26.3: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2016 bis - mehrheitlich geändert beschlossen
+- TOP 26.4: Zielvereinbarung (Managementkontrakt) mit der eigenbetriebsähnlichen Einrichtung - einstimmig geändert beschlossen
+- TOP 26.4.1: Zielvereinbarung (Managementkontrakt) mit der eigenbetriebsähnlichen Einrichtung
+- TOP 26.5: Managementkontrakt mit der Stadtwerke Münster GmbH für die Jahre 2016 bis 2020 - ohne Beschlussfassung geschoben
+- TOP 26.5.1: Managementkontrakt mit der Stadtwerke Münster GmbH für die Jahre 2016 bis 2020
+- TOP 27: Antrag Nr. A-R/0018/2015 der CDU-Fraktion "Wolfgang Borchert Theater nicht noch einmal - von der Tagesordnung abgesetzt
+- TOP 28: Bericht über die Beteiligungen der Stadt Münster im Jahr 2014 (Beteiligungsbericht 2014) - zur Kenntnis genommen
+- TOP 29: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 29.1: Änderung der Gewässergebührensatzung (GGS), - mehrheitlich beschlossen
+- TOP 29.2: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 29.3: Straßenreinigungsgebühren 2016 - einstimmig beschlossen
+- TOP 29.4: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2016 - einstimmig geändert beschlossen
+- TOP 29.5: Abfallgebühren 2016 - einstimmig beschlossen
+- TOP 30: 65. Änderung des Flächennutzungsplanes der Stadt Münster zur Darstellung von Konzentrationszonen für Windenergieanlagen - Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB - - ohne Beschlussfassung geschoben
+- TOP 31: Antrag zur Änderung des Regionalplans Münsterland zur Darstellung von weiteren Wohnsiedlungsbereichen im Stadtgebiet Münster - ohne Beschlussfassung geschoben
+- TOP 32: Bahnhofsvorplatz Westseite - Neugestaltung Berliner Platz, Planungs- und Baubeschluss - mehrheitlich geändert beschlossen
+- TOP 33: Wirtschaftsplan 2016 von Münster Marketing - einstimmig beschlossen
+- TOP 34: Ausstieg aus der landwirtschaftlichen Klärschlammverwertung - einstimmig beschlossen
+- TOP 34.1: Ausstieg aus der landwirtschaftlichen Klärschlammverwertung
+- TOP 35: Neukonzeption der zeitnahen und potenzialorientierten Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen in Münster - Ausbau und Weiterentwicklung der kommunalen Konzeption - mehrheitlich beschlossen
+- TOP 36: Prozess und Aufbau einer integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 37: Digitale Stadt Münster: Neukonzeption des Medienentwicklungsplanes - einstimmig beschlossen
+- TOP 37.1: Digitale Stadt Münster: Neukonzeption des Medienentwicklungsplanes
+- TOP 38: PTA Berufsfachschule Münster - Ergänzende Fördermittel der Apothekerkammer Westfalen-Lippe - mehrheitlich beschlossen
+- TOP 39: Inklusion an Schulen - Einrichtung des Gemeinsamen Lernens und Weiterentwicklung des Rahmenkonzepts - mehrheitlich geändert beschlossen
+- TOP 40: Künftige Finanzierung der Kindertagespflege in der Stadt Münster - einstimmig beschlossen
+- TOP 41: Absicherung und Ausbau der pädagogischen Angebote für Kinder und Jugendliche aus Flüchtlingseinrichtungen - mehrheitlich beschlossen
+- TOP 42: Trägerausschreibung für die Kindertageseinrichtungen an der Malteserstraße (Hiltrup), Bohlweg (Innenstadt) und Josef-Beckmann-Straße (Kinderhaus) - von der Tagesordnung abgesetzt
+- TOP 43: Errichtung von zwei Kitagruppen auf dem Gelände des Altenzentrums Klarastift im Bezirk Mitte - einstimmig beschlossen
+- TOP 44: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Errichtung einer temporären Flüchtlingseinrichtung am Standort Mauritzheide 2 sowie Standards der Flüchtlingseinrichtungen in Holzrahmenbauweise - mehrheitlich beschlossen
+- TOP 45: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen - mehrheitlich beschlossen
+- TOP 45.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen
+- TOP 46: Münster-Pass: Berechtigtenkreis erweitern - mehrheitlich beschlossen
+- TOP 47: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge und Asylbewerberinnen und Asylbewerber - mehrheitlich beschlossen
+- TOP 47.1: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge und Asylbewerberinnen und Asylbewerber
+- TOP 48: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2016 - einstimmig beschlossen
+- TOP 49: Personelle Unterstützung für zwei Jubiläumsausstellungen 2017 und 2018 im Stadtmuseum Münster - mehrheitlich beschlossen
+- TOP 50: Aufgabenerweiterung in der Veterinär- und Lebensmittelüberwachung - einstimmig beschlossen
+- TOP 51: Neubau der 2. Städtischen Gesamtschule Münster - ohne Beschlussfassung geschoben
+- TOP 51.1: Neubau der 2. Städtischen Gesamtschule Münster
+- TOP 52: Halle Münsterland - Sanierung Tonnendach - mehrheitlich beschlossen
+- TOP 53: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 54: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 55: Bauleitplanung
+- TOP 55.1: Stadtbezirk Mitte
+- TOP 55.1.1: 39. Änderung FNP - Bebauungsplan Nr. 535 - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 55.1.2: Bebauungsplan Nr. 569 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 55.1.2.1: Bebauungsplan Nr. 569 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung
+- TOP 55.1.3: Anordnung der Umlegung gemäß § 46 Abs. 1 Baugesetzbuch für den Bereich des aufzustellenden Bebauungsplans Nr. 569 "Südlich Markweg" - einstimmig beschlossen
+- TOP 55.2: Stadtbezirk Nord
+- TOP 55.2.1: Bebauungsplan Nr. 353, vorhabenbezogene 1. Änderung - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 56: Gewährung eines zinslosen Darlehns an den Trägerverein "De Bockwindmüel" - ohne Beschlussfassung geschoben
+- TOP 57: Verschiedenes
