@@ -1,0 +1,6 @@
+# TOP 2.: Initiative zur Einrichtung eines "Reparatur-Cafés"
+
+- Sitzung: Stadtseniorenbeirat (5. Sitzung) (2015-12-09)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/18948
