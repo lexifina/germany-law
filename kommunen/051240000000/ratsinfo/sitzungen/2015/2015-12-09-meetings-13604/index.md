@@ -1,0 +1,119 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-12-09T16:05:00+01:00
+- Ende: 2015-12-09T16:25:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/13604
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/13604
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00187684.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00188654.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00188529.pdf
+
+## Tagesordnung
+
+- TOP 1: Haushalt 2016/2017 - vertagt auf Rat
+- TOP 1.1: Haushaltsreden - vertagt auf Rat
+- TOP 1.2: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2016/2017 - vertagt auf Rat
+- TOP 1.3: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2016/2017 - vertagt auf Rat
+- TOP 1.4: Anträge zum Haushalt - vertagt auf Rat
+- TOP 1.4.1: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.2: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.3: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.4: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.5: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.6: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.7: Haushaltsplan 2016/17 - vertagt auf Rat
+- TOP 1.4.8: Haushalt 2016/2017 Deckelung für AGFW aufheben - vertagt auf Rat
+- TOP 1.4.9: Haushaltsplanentwurf 2016/17 - vertagt auf Rat
+- TOP 1.5: Drucksachen zum Haushalt - vertagt auf Rat
+- TOP 1.5.1: Umsetzung des Bundesinvestitionsprogramms - vertagt auf Rat
+- TOP 1.5.2: Fortschreibung des Integrierten Stadtentwicklungskonzeptes "Soziale Stadt Heckinghausen" - vertagt auf Rat
+- TOP 1.5.3: Fortschreibung des Integrierten Stadtentwicklungskonzeptes "Soziale Stadt Oberbarmen/Wichlinghausen" - vertagt auf Rat
+- TOP 1.5.3.1: Evaluationsbericht zum Programm Soziale Stadt Oberbarmen/Wichlinghausen - 1. Förderphase 2012 - 2015 - - vertagt auf Rat
+- TOP 1.5.4: Einführung einer Wettbürosteuer - vertagt auf Rat
+- TOP 1.6: 5. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2016 - vertagt auf Rat
+- TOP 1.7: Veränderungsnachweisungen - vertagt auf Rat
+- TOP 1.7.1: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2016/2017 - vertagt auf Rat
+- TOP 1.7.2: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2016/2017 - vertagt auf Rat
+- TOP 1.7.3: 3. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2016/2017 - vertagt auf Rat
+- TOP 1.8: Haushaltssatzung 2016/2017 - vertagt auf Rat
+- TOP 1.9: Haushaltsplan 2016/2017 - vertagt auf Rat
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Flüchtlingssituation - Aktionsplan Integration Wuppertal
+- TOP 2.1.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 02.10.2015 - Flüchtlingssituation - Aktionsplan Integration Wuppertal
+- TOP 2.2: Verwaltungsgerichtsverfahren
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER vom 27.11.2015 - Verwaltungsgerichtsverfahren
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Fahrradboxen fürs Tal - abgelehnt
+- TOP 4.2: Keine Streichung der Personalstellen für Stadtteilarbeit - abgelehnt
+- TOP 4.3: Resolution : Solidaritätserklärung mit Frankreich - abgelehnt
+- TOP 4.4: 10. März - Gedenktag des tibetischen Volksaufstands von 1959: - vertagt auf Rat
+- TOP 4.5: Asylwesen - abgelehnt
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Grundsatzbeschluss - Seilbahn für Wuppertal - zurückgestellt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 6.2: Änderung der Entgeltordnung der Stadtbibliothek Wuppertal - geändert beschlossen
+- TOP 6.3: Änderung der Entgeltordnung für das Stadtarchiv - ungeändert beschlossen
+- TOP 6.4: Änderung der Entgeltordnung für den Zoologischen Garten/Einführung eines Zoo-Abos und online-Tickets - ungeändert beschlossen
+- TOP 6.4.1: Ergänzungsvorlage zur VO/1860/15 - Alternativbeschluss Entgeltordnung - abgesetzt
+- TOP 6.5: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreiningungsgebühren ab 01.01.2016 - ungeändert beschlossen
+- TOP 6.6: Gebührensatzung zur Abfallwirtschaft 2016 - geändert beschlossen
+- TOP 6.7: 9. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2014
+- TOP 7.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2014 - ungeändert beschlossen
+- TOP 7.3: Gewährung von Zuschüssen an den privaten Förderschulträger Christian-Morgenstern-Schule - ungeändert beschlossen
+- TOP 7.4: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 7.5: Bereitstellung überplanmäßiger Mittel für eine Ersatzvornahme der Unteren Bauaufsichtsbehörde - geändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligungsbericht 2014 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.2: Wirtschaftsplanung des Eigenbetriebes Kinder- und Jugendwohngruppen (KIJU) für 2016 - Entgegennahme ohne Beschluss
+- TOP 8.3: Änderung des Gesellschaftsvertrages der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2016 der Wirtschaftsförderungsgesellschaft Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2014 des Eigenbetriebes Straßenreinigung (ESW) - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2014 - ungeändert beschlossen
+- TOP 8.7: Wirtschaftsplan 2016 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.8: Änderung der Betriebssatzung des Eigenbetriebes Alten- und Altenpflegeheime (APH) - ungeändert beschlossen
+- TOP 8.9: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2016 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 8.10: Wirtschaftsplan 2016 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 8.11: Weiterführung der Restrukturierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) - geändert beschlossen
+- TOP 8.11.1: Weiterführung der Restrukturierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) - Ergänzung - geändert beschlossen
+- TOP 8.12: Weiterführung der Restrukturierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) - Betrauungsakt GWG - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1206 - Carnaper Straße / Hatzfelder Straße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 846 - Schwarzbach / Hügelstraße - 1. Änderung - ungeändert beschlossen
+- TOP 9.3: 68. Änderung des Flächennutzungsplans - Rigi-Kulm-Center - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbezogener Bebauungsplan 1169 V - Rigi-Kulm-Center - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau der städtischen Tageseinrichtung für Kinder Staubenthaler Str. 39 - ungeändert beschlossen
+- TOP 10.2: Neubau einer städtischen Tageseinrichtung für Kinder auf dem Grundstück Neviandtstr. 85/87 - ungeändert beschlossen
+- TOP 10.3: Neubau einer städtischen Tageseinrichtung für Kinder an der Bromberger Straße - ungeändert beschlossen
+- TOP 10.4: Neubau einer städtischen Tageseinrichtung für Kinder im Bereich Heckinghausen - ungeändert beschlossen
+- TOP 10.5: Neubau der städtischen Tageseinrichtung für Kinder Wilkhausstraße 131/133 - ungeändert beschlossen
+- TOP 10.6: Neubau einer städtischen Tageseinrichtung für Kinder in der Ahrstraße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Grundsatzbeschluss zur Schaffung des Pina Bausch Zentrums - ungeändert beschlossen
+- TOP 11.2: Wupperpark Ost - geändert beschlossen
+- TOP 11.3: Kinder- und Jugendförderplan 2015 - 2019 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.4: Übertragung und Aufgabe von kommunalen Sportstätten - Sportplätze Zur Waldkampfbahn und Friedrichsberg - abgesetzt
+- TOP 11.5: Brandschutzbedarfsplan der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.6: Vereinbarung zur Erhaltung des Tunnels Schee - ungeändert beschlossen
+- TOP 11.7: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen über die "Überörtliche Prüfung der Stadt Wuppertal 2014" - Entgegennahme ohne Beschluss
+- TOP 11.8: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen über die "Überörtliche Prüfung der Informationstechnik der Stadt Wuppertal 2014" - Entgegennahme ohne Beschluss
+- TOP 11.9: Digitaler Gremiendienst in den Bezirksvertretungen - Durchführungsbeschluss - abgesetzt
+- TOP 11.10: Strategie Wuppertal 2025 - Zwischenbericht zur Umsetzung - Entgegennahme ohne Beschluss
+- TOP 11.11: Zweiter Gremienbericht der Stadt Wuppertal (Stichtag 1. Quartal 2015) - abgesetzt
+- TOP 11.12: Entscheidung über die Gültigkeit der Wahl des Oberbürgermeisters der Stadt Wuppertal
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Stellvertretende Vorsitzende im Hauptausschuss - Festlegung der Reihenfolge - ungeändert beschlossen
+- TOP 12.2: Mitgliederversammlung des Städtetages Nordrhein-Westfalen in Aachen - Benennung der Delegierten - vertagt auf Rat
+- TOP 12.3: Umbesetzung für den Paritätischen Wohlfahrtsverband NRW im Seniorenbeirat - ungeändert beschlossen
+- TOP 12.4: Ersatzwahlen für die Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - ungeändert beschlossen
