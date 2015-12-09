@@ -1,0 +1,111 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3489330
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3489330
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung des Bebauungsplanes Lochhausener Straße / Osterangerstraße, Langwieder Hauptstraße / Hufschmiedstraße durch Vertreter des Planungsreferats
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Kurzparkzone Limesstr. 32
+- TOP 2.2.: Gröbenzeller Spange - Schallschutzmaßnahmen
+- TOP 2.3.: Aufnahme des Betriebswerk Langwied in die Denkmalliste
+- TOP 2.4.: Bahnübergang Hellensteinstraße
+- TOP 2.5.: Anfrage Grundstück hinter ARAL-Tankstelle und Gleisüberführung an Lochhausener Straße Richtung Gröbenzell
+- TOP 2.6.: Verbesserung der Verkehrssituation auf der Langwieder Hautpstraße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Am Langwieder Bach 14 - Leienfelsstr. 5a - Giechstr. 5 - Langwieder Hauptstr. 8 - Freienfelsstr. 16-18
+- TOP 3.3.: Genehmigungsbescheid für Baumfällungen: Wiesengrund 31, Schr. Planungsreferat vom 11.11.15
+- TOP 3.4.: Ablehnungsbescheid für Baumfällungen: - Mainaustr. 51, Schr. Planungsreferat vom 13.11.15 - Streitbergstr. 35, Schr. Planungsreferat vom 13.11.15
+- TOP 4: Anträge
+- TOP 4.1.: Prüfung der Lärmschutzmaßnahmen an Bahnstrecken
+- TOP 4.2.: Verbesserung Fußgängerüberquerungshilfe Aubinger Straße
+- TOP 4.3.: Durchgängige Fahrradwegverbindung Lochhausener Straße
+- TOP 4.4.: Mähkonzept im Park an der Mainaustraße westlich und im Park an der Wiesentfelser Straße südlich
+- TOP 4.5.: Ehemaliges Zwangsarbeiterlager Neuaubing - wie geht es weiter?
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Bürgerhaushalt: - Fragen zur Umsetzung, Anhörung Stadtkämmerei vom 04.11.14 und - Ergebnisprotokolle, Schr. Direktorium vom 15.10.15 und - Stellungnahme des BA 8 vom 10.11.15 (vertagt aus 11/15)
+- TOP 6.1.: Protokoll des Jour Fixe Bezirksausschüsse und Kulturreferat im NS-Dokumentationszentrums, Schr. Kulturreferat vom 29.10.15
+- TOP 6.2.: Stadtbezirksübersicht Bestand und Planungen Flüchtlingsunterkunft in München, Schr. Sozialreferat vom 18.11.15
+- TOP 6.3.: Straßenfest in der Wiesentfelser Straße / Stadtteilfest am 23.07.2016 - Straßensperren, Schr. KVR vom 18.11.15
+- TOP 6.4.: Einrichten eines WLAN-Netzes in allen Flüchtlingsunterkünften, Schr. Direktorium vom 04.11.15
+- TOP 6.5.: Einrichten eines WLAN-Netzes - UMF, Schr. Direktorium vom 04.11.15
+- TOP 6.6.: Protokoll des 1. Treffen zu "München lebt interkulturelle Vielfalt"
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung", Schr. Dirketorium vom 19.11.15
+- TOP 6.2.: Broschüre: Wir bewegen - Bildung und Sport in München, Schr. Refert für Bildung und Sport vom 17.11.15
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Beschlussentwurf Barrierefreie Querungen im Fuß- und Radverkehr, Anhörung Planungsreferat vom 23.11.15
+- TOP 6.1.: Überprüfung der Beschilderung Lochhausener Str. / Langwieder Bach, Rückmeldung der PI 45 vom 19.11.15
+- TOP 6.3.: Verkehrsanbindung Freiham Neu über Altaubing, Schr. Planungsreferat vom 12.11.15
+- TOP 6.4.: Sanierung des Gehwegs südlich und westlich des Gößweinsteinplatzes, Schr. Baureferat vom 09.11.15
+- TOP 6.5.: Verkehrssituation Altenburgstraße - Bushaltestelle Wertheimerstraße, Schr. KVR vom 18.11.15
+- TOP 6.6.: Verkehrsbelastung 22. Stadtbezirk I, Schr. Planungsreferat vom 28.10.15 (vertagt aus 11/15)
+- TOP 6.7.: Verkehrsbelastung 22. Stadtbezirk II, Schr. Planungsreferat vom 28.10.15 (vertagt aus 11/15)
+- TOP 6.8.: Verkehrsbelastung 22. Stadtbezirk III, Schr. Planungsreferat vom 28.10.15 (vertagt aus 11/15)
+- TOP 6.9.: Verkehrsrechtliche Anordnung: - Gemeinsamer Geh- und Radweg Mälzereistraße (ehem. Mooswiesenstraße), Schr. KVR vom 24.09.15
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Giechstr. 5 - Neubau eines Doppelhauses mit 2 Garagen, Anhörung Planungsreferat vom 18.11.15
+- TOP 6.2.: Verkauf einer städt. Immobilie: Franz-Josef-Delonge-Straße, Anhörung Kommunalreferat vom 10.11.15
+- TOP 6.3.: Beschlussentwurf: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/36: Langwieder Hauptstraße (südlich), Langwieder Bach (westlich), Lochhausener Straße (beidseitig), Langwieder Hauptstraße (östlich) B) Bebauungsplan mit Grünordnung Nr. XX: Lochhausener Str. (nördlich), Osterangerstraße (westlich), Langwieder Hauptstraße (südlich), Hufschmiedstraße (östlich) - Aufstellungsbeschluss, Anhörung Planungsreferat vom 24.11.15
+- TOP 6.4.: Bergsonstr. 165 a - Errichtung eines Mehrfamilienhauses mit Stellplätzen, Anhörung Planungsreferat vom 20.11.15
+- TOP 6.4.: Mitteilung über ein Grundstücksgeschäft: Hans-Steinkohl-Straße, Schr. Kommunalreferat vom 18.11.15
+- TOP 6.5.: Geothermieanlage Freiham: Endtiefe der Bohrung erreicht und Pumpversuche, Schr. SWM vom 25.11.15
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A", Anhörung Direktorium vom 16.11.15
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Am Langwieder Bach, Schr. Sozialreferat vom 11.11.15 - Krögelsteiner Straße, Schr. Sozialreferat vom 11.11.15
+- TOP 8.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist)" in ein Anhörungsrecht, Schr. Direktorium vom 20.11.15
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Sozialausschusse vom 03.12.15: Kommunales Wohnungsbauprogramm
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15: - Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II - Finanzierungsbeteiligung - Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen (Hinweise/Ergänzung) - Barrierefreie Ortsverbindungen am S-Bahnhof Aubing - Anträge und Empfehlungen (Hinweise/Ergänzung)
+- TOP 10.3.: Beschluss des Bauausschusses vom 13.10.15: Freiham Nord - Erster Realisierungsabschnitt, Planungsworkshop Masterplan Beleuchtungskonzept im 22. Stadtbezirk, Ergebnis des Planungsworkshops und weiteres Vorgehen
+- TOP 10.4.: Beschluss der Vollversammlung des Stadtrats vom 21.10.15: - "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" (BA-Antrag Nr. 14-20 / B 00707 des BA 22) - Bebauungplan mit Grünordnung Nr. 2105, Änderung Flächennutzungsplan mit integrierter Landschaftsplanung für den Bereich IV/25, Machbarkeitsstudiezur Gewerbeflächenentwicklung Mühlangerstr.
+- TOP 10.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugenhilfeausschusses und des Sozialausschusses vom 01.12.15: Haushaltsplan 2016: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" - des Amtes für Soziale Sicherung - des Stadtjugendamtes - des Amtes für Wohnen umd Migration - der Zentrale
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: - Strukturwandel in der Innenstadt und in Innenstadtrandgebieten - Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion - Mehrjahresinvestitionsprogramm 2015-2019: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015-2019, Infrastrukturversorgungskonzept - Mehrjahresinvestitionsprogramm für die Jahre 2015-2019: Gliederungsziffern Natur- und Denkmalschutz, Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Lokalbaukommission, Stadtplanung, Städtebauförderung, Wohnungsbauförderung/Wohnungsfürsorge
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Mitgliederwechsel der SPD-Fraktion im UA Soziales/Familie/Senioren/Kultur, Schr. SPD-Fraktion vom 24.11.15
+- TOP 11.2.: Benennung von Mitgliedern und Stellvertretern für die Unterausschüsse, Schr. Direktorium vom 13.11.15
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 20.01.16 um 19.30 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Dienstag, 01.12.15 um 18 Uhr, Bayer. Schnitzel- und Hendlhaus - UA Verkehrsinfrastruktur: Dienstag, 01.12.15 um 18 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 02.12.15 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, 03.12.15 um 19 Uhr, MGS Friedrichshafener Str. 11
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 2.7.: Lochhausen: Anbringung von Schilder "Achtung Schulweg" im Bereich der Lochhausener Straße und Straßenmarkierung "Zone30", keine komplette Teerung der Eichelhäherstraße, Verbesserung der Querungsmöglichkeit ab Haltestelle Rohrsängerplatz bis Einmündung Reiterhof Birkenhof
+- TOP 2.8.: Nichtverkauf des Grundstücks zwischen Lochhausener Straße / Wiedehopfweg / Bahngleise
+- TOP 2.9.: Pläne zur Erweiterung der Limesschule
+- TOP 2.10.: Gefährliche Radwege im neuen Stadtteil Freiham
+- TOP 3.1.: Baumfällungen auf Anforderung: - Sandbergstr. 18 - Gilchinger Str. 4 - Leienfelsstr. 43 - Radolfzeller Str. 8 - Hoheneckstr. 65 - Rohrsängerplatz 9 - Alprichstr. 9 - Sponeckplatz 7 - Thiersteiner Str. 10 - Hoheneckstr. 107 - Bergsonstr. 199 - Karl-Harz-Weg 23 - Giechstr. 3
+- TOP 6.2.: Fahrbahnsanierung und punkuell Gehbahn in der Ehrenbürgstraße und Dietrichsteinstraße, Anhörung Baureferat vom 25.11.15
+- TOP 6.3.: Fahrbahnsanierung in der Rothenbühlerstraße, Anhörung Baureferat vom 25.11.15
+- TOP 6.4.: Fahrbahnsanierung und punktuell Gehbahn in der Gailenreuther Straße und Zwernitzer Straße, Anhörung Baureferat vom 20.11.15
+- TOP 6.1.: Bauvorhaben im 22. Stadtbezirk vom 02.-08.11.15, 09.-15.11.15, 16.-22.11.15, 23.-29.11.15, Schr. Planungsreferat vom 09.11.15, 17.11.15, 25.11.15, 30.11.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke - Stichtag: 16.11.15, 23.11.15, 30.11.15
+- TOP 10.7.: Beschluss des Bauausschusses vom 08.12.15: - Landschaftspark Freiham - Bewerbung um eine Bundesgartenschau (BUGA) oder eine Internationale Gartenschau (IGA)
+- TOP 11.3.: Besichtigung Leichtbauhalle Mainaustraße: Donnerstag, 03.12.15 um 16.30 Uhr, Schr. Sozialreferat am 25.11.15
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Rothenfelser Straße zwischen Limes- und Freienfelsstraße
+- TOP 6.3.: Sofortige Einrichtung von Räumen für einen Hort im alten Schulhaus an der Schussenrieder Straße, Schr. Referat für Bildung und Sport vom 26.11.15
+- TOP 6.5.: Projekt Sportlerweg - Anpassung der Eisenbahnunterführung, Anhörung Baureferat vom 30.11.15
+- TOP 6.10.: Straßenbeleuchtung Kravogelstraße, Schr. Baureferat vom 24.11.15
+- TOP 6.5.: Feuerhausstr. 8 - Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung Planungsreferat vom 30.11.15
+- TOP 6.6.: Sachstandsbericht Böhmerweihter, Schr. Baureferat vom 01.12.15
+- TOP 8.1.: Unveränderte Fortführung einer Gaststätte: - Campingplatzgaststätte, Eschenrieder Str. 119, Schr. KVR vom 13.11.15 N - Fred's Dorfkneipe, Altostr. 1, Schr. KVR vom 27.11.15
+- TOP 1.6: Präsentation über die Baracke 5 und das Ensemble an der Ehrenbürgstraße als Außenstelle des NS-Dokumentationszentrum durch die MGS
+- TOP 2.11.: Restaurant Ducale
+- TOP 2.12.: Baumaßnahme an der Gotzmannschule
