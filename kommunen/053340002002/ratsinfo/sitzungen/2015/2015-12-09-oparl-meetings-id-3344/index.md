@@ -1,0 +1,70 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2015-12-09T17:00:00+01:00
+- Ende: 2015-12-09T19:00:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3344
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3344
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 11.11.2015 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 5: Änderung Nr. 123 des Flächennutzungsplanes 1980 - Kornelimünster West/ Oberforstbacher Straße - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/ Walheim im Bereich zwischen Oberforstbacher Straße und Schleckheimer Straße hier: Beitrittsbeschluss zur Genehmigung der Bezirksregierung Köln vom 08.09.2015 - ungeändert beschlossen
+- TOP 6: Vorhabenbezogener Bebauungsplan Nr. 962 - Vaalser Straße/ Evangelische Kirche - für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen Vaalser Straße, Westfriedhof und DorbachÄnderung Nr. 130 des Flächennutzungsplanes 1980 der Stadt Aachenhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - geändert beschlossen
+- TOP 7: XI. vereinfachte Änderung Bebauungsplan Nr. 592 - Gut Kullen / Erweiterung Dreiländer-Carrée - für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen dem Hit-Supermarkt und dem Dreiländer-Carrée an der Vaalser Straßehier: Satzungsbeschluss gem §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Bebauungsplan Nr. 852 B - Münsterstraße - Wohnen und Arbeiten - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/ Walheim im Bereich zwischen Münsterstraße und Vennbahnweghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - zurückgezogen
+- TOP 9: III. Änderung des Bebauungsplanes Nr. 540 - Bodelschwinghstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Bodelschwinghstraße, Kettelerstraße, Andréstraße und Sonnenscheinstraßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Bebauungsplan Nr. 952 - Krefelder Straße / Grüner Winkel - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Krefelder Straße, Grüner Winkel und Gut-Dämme-Straßehier: Satzungsbeschluss gem. §10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 11: II. Änderung des Bebauungsplans Nr. 852 A - Münsterstraße - Wohnen und Arbeiten - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/ Walheim im Bereich zwischen Münsterstraße und Vennbahnweghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - zurückgezogen
+- TOP 12: Entgeltordnung für die Einräumung von Rechten zur sonstigen Benutzung des Straßeneigentums der Stadt Aachen - ungeändert beschlossen
+- TOP 13: Neufassung der Satzung der Stadt Aachen über die Erhebung von Beiträgen nach § 8 KAG NW vom 21.12.2007 - ungeändert beschlossen
+- TOP 14: 18. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Abfallgebührensatzung der Stadt Aachen-Gebührenbedarfsberechnung 2016- - ungeändert beschlossen
+- TOP 16: 28. Nachtrag zur Straßenreinigungs- und Gebührensatzung - ungeändert beschlossen
+- TOP 17: Friedhofsgebührenordnung der Stadt Aachen- Gebührenbedarfsberechnung 2016 - - ungeändert beschlossen
+- TOP 18: Die Neubauten der Kindertagesstätten und Schulen der Stadt Aachen im Zeitraum 2010-2015 ("Aachener Standard")- Ratsanfragen der SPD – Fraktion vom 19.05.2015 zu den Kosten Aachener Standard in den Bereichen Kitas und Schulen (Az.: Af 4/15 und Az.: Af 5/15) - - zur Kenntnis genommen
+- TOP 19: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2014dazu Vortrag des Wirtschaftsprüfers Fundus Revision - geändert beschlossen
+- TOP 19.1: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2014dazu Vortrag des Wirtschaftsprüfers Fundus Revision - ungeändert beschlossen
+- TOP 20: Wirtschaftsplan 2016 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 21: Entwurf Wirtschaftsplan 2016 der Volkshochschule Aacheneinschließlich mittelfristige Ergebnis- und Finanzplanung 2016 bis 2020 - ungeändert beschlossen
+- TOP 22: Wirtschaftsplan 2016 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 23: Jahresabschluss 2014 - ungeändert beschlossen
+- TOP 24: Wirtschaftsplan Eurogress Aachen 2015 - ungeändert beschlossen
+- TOP 25: Wirtschaftsplan Eurogress Aachen 2016 - ungeändert beschlossen
+- TOP 26: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - vertagt
+- TOP 27: Aufwandsentschädigungen für Schulweghelfer/innen an städtischen SchulenRatsantrag der Fraktion DIE LINKE vom 09.03.2015 - ungeändert beschlossen
+- TOP 28: Bürgerbeteiligung bei der Namensgebung der 4. Aachener Gesamtschule - ungeändert beschlossen
+- TOP 29: Benennung von 7 stimmberechtigten Abgeordneten für die Mitgliederversammlung 2016 des Städtetages Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 30: 2030-Agenda - Nachhaltigkeit auf kommunaler Ebene gestaltenhier: Tagesordnungsantrag der GRÜNE-Fraktion vom 23.11.2015 - geändert beschlossen
+- TOP 31: Anfragen:
+- TOP 31.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 31.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 32: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 33: Mitteilungen der Verwaltung
+- TOP 34: Ratsanträge - zur Kenntnis genommen
+- TOP 35: Abschluss eines Sponsoringvertrageshier: Kaiser-Friedrich-Park - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
