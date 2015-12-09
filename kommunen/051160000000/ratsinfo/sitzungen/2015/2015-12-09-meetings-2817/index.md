@@ -1,0 +1,64 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-12-09T17:05:00+01:00
+- Ende: 2015-12-09T20:10:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2817
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2817
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die . Sitzung des Hauptausschusses am -öffentlicher Teil- - Kenntnisnahme
+- TOP 2: Wahl des 2. stellvertretenden Vorsitzenden für den Hauptausschuss - Einstimmiger Beschluss
+- TOP 3: Feststellung des Jahresabschlusses 31.12.2014 - Einstimmiger Beschluss
+- TOP 4: Umsetzungsbericht HSP 30.09.2015 - Kenntnisnahme
+- TOP 5: Einlage von städtischen Grundstücken in die EWMG (HSP 2013-0209) - Mit Stimmenmehrheit beschlossen
+- TOP 6: Stellenplan 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 7: Entwurf des Haushaltes 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 7.1: Beherbergungssteuersatzung - Mit Stimmenmehrheit abgelehnt
+- TOP 7.2.1: Wachsende Stadt - An den Rat verwiesen
+- TOP 7.2: Entwurf des Haushaltes 2016; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Hau - Mit Stimmenmehrheit beschlossen
+- TOP 7.3: Entwurf des Haushaltes 2016; Entwurf des Haushaltes 2016; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des HSP - Vom Antragsteller zurückgezogen
+- TOP 7.4: Änderungsanträge zum Haushalt 2016 - Mit Stimmenmehrheit abgelehnt
+- TOP 7.5: Entwurf des Haushaltes 2016: Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Haus - Mit Stimmenmehrheit abgelehnt
+- TOP 8: Erlass Hebesatzsatzung 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 10: Bereitstellung von Haushaltsmitteln bei Produkt 06 030 10 Kinder-, Jugend- u. Familienberatung, HzE+ - Einstimmiger Beschluss
+- TOP 11: Kommunalinvestitionsförderungsgesetz - Mit Stimmenmehrheit beschlossen
+- TOP 12: 21. Nachtrag Kanalbenutzungsgebührensatzung, 8. Nachtrag Klärschlammsatzung - Einstimmiger Beschluss
+- TOP 13: Einundzwanzigster Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 14: Achtzehnter Nachtrag zur Abfallgebührensatzung und Siebezehnter Nachtrag Abfallsatzung - An den Rat verwiesen
+- TOP 15: Neununddreißigster Nachtrag zur Straßenreinigungs- und Gebührensatzung - An den Rat verwiesen
+- TOP 16: 49. Nachtrag Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 17: Straßen- und Anlagenverordnung - Mit Stimmenmehrheit beschlossen
+- TOP 18: Überleitung Mehrzweckhalle Eicken - Mit Stimmenmehrheit beschlossen
+- TOP 19: Bestimmung von Schwerpunktschulen im Rahmen des Gemeinsamen Lernens - Einstimmiger Beschluss
+- TOP 20: Zweiter Nachtrag Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 21: Verlängerung Leistungsvereinbarung Tagestreff SKM - Einstimmiger Beschluss
+- TOP 22: Vereinbarungen über Flexible Hilfen - An den Rat verwiesen
+- TOP 23: Vereinbarungen über SPFH und Erziehungsbeistandschaft - An den Rat verwiesen
+- TOP 24: Vereinbarungen über Erziehungsberatung - An den Rat verwiesen
+- TOP 25: Vereinbarung über begleiteten Umgang - An den Rat verwiesen
+- TOP 26: Vereinbarung über Beratung gegen sexuellen Missbrauch - An den Rat verwiesen
+- TOP 27: Vereinbarung über Erziehungsberatung - An den Rat verwiesen
+- TOP 28: Vereinbarung über Familienhebammen - Mit Stimmenmehrheit beschlossen
+- TOP 29: Fortführung der Betriebsführung der Kleinstheime Änne-Kremer-Haus und Jacob-Kremer-Haus mit dem SKF - Einstimmiger Beschluss
+- TOP 30: Abschluss einer Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Be - Einstimmiger Beschluss
+- TOP 31: Leistungsvereinbarungen mit Begegnungsstätten - Einstimmiger Beschluss
+- TOP 32: Satzung erste Verlängerung Veränderungssperre Breitenbachstraße - Einstimmiger Beschluss
+- TOP 33: Gestaltungssatzung Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 34: Gestaltungsrichtlinie der Stadt Mönchengladbach über die Erteilung von Sondernutzungserlaubnissen - Mit Stimmenmehrheit beschlossen
+- TOP 35: Denkmalbereichssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 35.1: Denkmalbereichssatzung - Ohne Abstimmung
+- TOP 36: Konversion Joint Headquarters (JHQ) hier: Projekt Seasons - Kenntnisnahme
+- TOP 37: Kriterienkatalog Wohnumfeldmaßnahmen 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 38: Freizeitstättenbedarfsplan (HSP 2012 – 0123); hier: Antrag der Bündnis 90/Die Grünen-Ratsfraktion vom 20.10.2015 - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Dorf-Innenentwicklungskonzept Wanlo; hier: gemeinsamer Antrag der CDU-/SPD-Ratsfraktion vom 22.10.2015 - Einstimmiger Beschluss
+- TOP 40: Feierabendmarkt in Mönchengladbach; hier: Antrag der CDU- und SPD-Fraktion im Rat vom 28.10.2015 - Mit Stimmenmehrheit beschlossen
+- TOP 41: Bereitstellung von Sammelgefäßen zur Abfuhr und Behandlung von Bioabfällen; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 28.10.2015 - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Tour de France; hier: Antrag der CDU/SPD Ratsfraktionen vom 10.11.2015 - Mit Stimmenmehrheit beschlossen
+- TOP 43: Anfragen und Mitteilungen
