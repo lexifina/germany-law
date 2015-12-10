@@ -1,0 +1,98 @@
+# 51. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-12-10T17:00:00+01:00
+- Ende: 2015-12-10T21:25:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3419
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3419
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=123409
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Schulstandort Rüdigerstraße 76 - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Einwohnerfragestunde - erledigt
+- TOP 9: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 9.1: Rückstellungen von der Schulpflicht - in Lichtenberg besonders häufig! - beantwortet
+- TOP 9.2: Gewächshäuser in der Gotlindestraße - beantwortet
+- TOP 9.3: Flüchtlingsunterbringung in Turnhallen - beantwortet
+- TOP 9.4: Ampelschaltung Kreuzung Buchberger Straße - beantwortet
+- TOP 9.5: Produktionsstandort des Verkehrstechnik-Herstellers Stadler in Hohenschönhausen - beantwortet
+- TOP 9.6: 12 Punkte-Programm zur Verbesserung der Situation in den Bürgerämtern - beantwortet
+- TOP 9.7: Entwicklungsprozess Kynaststraße - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Aufarbeitung des Umgangs der kommunalen Verwaltung mit Sinti und Roma in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sondermittel für Allgemeiner Blinden- und Sehbehindertenverein Berlin gegr. 1874 e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Trennung von Rad- und Fußweg auf der Brücke Friedrichsfelde Ost in südlicher Richtung - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Mehr Sicherheit an der Kreuzung Gehrenseestraße/Wartenberger Straße! - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Barrierefreier Zugang für Menschen mit Sehbehinderung und Erblindung - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Verfahren zur Vergabe der Stadtteilzentren - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Günstigen Wohnraum und Unterkünfte für Geflüchtete und von Obdachlosigkeit betroffene oder bedrohte Menschen aus Beständen der berlinovo bereitstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Bewegt im hohen Alter - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Beleuchtung am Judith-Auer-Club - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kletternetz Große-Leege-Straße wieder anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Pflege von Straßenbegleitgrün in der Zingster Straße/Ribnitzer Straße - überwiesen
+- TOP 10.12: Ausreichend Sprach- und Integrationskurse für Geflüchtete sicherstellen - überwiesen
+- TOP 10.13: Erfolgreicher Start ins Berufsleben - überwiesen
+- TOP 10.14: Barrierefreiheit auf Gehwegen in 10319 Berlin - überwiesen
+- TOP 10.15: Sicherheit für Radfahrende an der Kreuzung Buchberger/Schulze-Boysen-Straße/Wiesenweg erhöhen - überwiesen
+- TOP 10.16: Maßigkeit des in Karlshorst zu bauenden Sportplatzes nach Gesundheitskriterien richten - überwiesen
+- TOP 10.17: Spielleitplanung auch in Lichtenberg - überwiesen
+- TOP 10.18: Standort Sportplatz Karlshorst - überwiesen
+- TOP 10.19: Keine Beseitigung des Giebelwandbilds "Nicaraguanisches Dorf - Monimbò 1978" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.20: Automatisches Kneeling bei allen Bussen der BVG - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.21: Ausstellung "Die Opfer des NSU und die Aufarbeitung der Verbrechen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.22: Sanierungsplan für die Sanitäranlagen in den Schul- und Sporthallen im Bezirk Lichtenberg - überwiesen
+- TOP 10.23: Wegeverbindung im Wartenberger Park wieder nutzbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: Sondermittel für das Finale der Frauen-Pokalmeisterschaften 2015 im Tischtennis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.25: Gefahrenstelle am Obersee entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.26: Sondermittel für die Verkehrserziehung an der Jugendverkehrsschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.27: Anbindung der Tram 21 an den Bahnhof Ostkreuz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.28: Sondermittel für die Manfred-von-Ardenne-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.29: BVV-Sondermittel für den Berliner Volleyballverein Vorwärts e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Sondermittel für das 19. Abrafaxe Kinderschachturnier - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.31: Weitere Standorte für anzeigenunabhängige vertrauliche Spurensicherung nach Vergewaltigung einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.32: Naturschutzfachliche Maßnahmen für das Nordwestufer des Rummelsburger Sees - überwiesen
+- TOP 10.33: Haltestelle nach Frankfurter Allee/Stefan-Heym-Platz benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.34: Sondermittel für die Deutsche Meisterschaft im Bogenlauf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.35: BVV-Sondermittel für das Schulensemble der Johann-Gottfried-Herder-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.36: Ertüchtigung des Gehweges in der Gotlindestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: Unterstützung der Kampagne "Handel(n) verbindet" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.38: Sicherung der Kleingartenanlagen in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.39: Gebäudebewohnenden geschützten Vogel- und Fledermausarten in Lichtenberg helfen und diese schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.40: Das Sportanlagensanierungsprogramm aufstocken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.41: Memorandum zur Zukunft der 12 vom Land Berlin geförderten Pflegestützpunkte ab 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.42: Sicherheit durch Präventionsrundgänge erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.43: Parkplätze für Krankenfahrzeuge vor der Möllendorffstraße 52 schaffen - überwiesen
+- TOP 10.44: Städtepartnerschaftliche Vereinbarung mit Hoan Kiem von Hanoi (Vietnam) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.45: Bebauungsplan 11-7 - Behördenbeteiligung Arbeitstitel: Archibaldweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.46: Bebauungsplan 11-7 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Archibaldweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.47: Bebauungsplan 11-38 - erneute frühzeitige Beteiligungen Arbeitstitel: Weißenseer Weg 76 - überwiesen
+- TOP 10.48: Bebauungsplan 11-88 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Schwarzmeerstraße 23/25 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.49: Bebauungsplan 11-101 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Friedenhorster Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.50: Bebauungsplan 11-113 - Aufstellungsbeschluss Arbeitstitel: Wartenberger Straße 51 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Ersatzangebote an Sportvereine von mit geflüchteten Menschen belegten Sporthallen - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Umsetzung des Konzepts "Lichtenberger Verwaltung 2021" - überwiesen
+- TOP 12.3: Schulen brauchen (Frei-) Räume - überwiesen
+- TOP 12.4: Inklusion auch an Lichtenberger Förderschulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Moratorium für Steganlagen und Uferbebauungen am Rummelsburger See - überwiesen
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13.1: Rahmenkonzept zur Einrichtung einer Freiwilligenagentur im Bezirk Lichtenberg Bezug: DS/1503/VII - Zielvereinbarung für das Audit Familiengerechte Kommune - und DS/1690/VII - Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - überwiesen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Rutschgefahr am Bahnhof Lichtenberg beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Einbau einer öffentlichen Toilette im Bereich des nordöstlichen Vorplatzes am S- und Regionalbahnhof Ostkreuz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Baustellen inklusiv gestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Mehr Sicherheit in der Volkradstraße - überwiesen
+- TOP 15: Schließung der Sitzung - erledigt
