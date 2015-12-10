@@ -1,0 +1,59 @@
+# Haupt-, Finanz- und Steuerungsausschuss (73. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2015-12-10T16:07:00+01:00
+- Ende: 2015-12-10T19:43:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Sitzungsraum 415
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcled01zbYsulCxIDraeOwo
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/12600
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXKEO--Jl-zFKPcAFYoI7HIVDoo_2V5EbqHHq0txL-QA/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_10.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 27.10.2015
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Aktuelle Flüchtlingssituation in Emsdetten
+- TOP 4.: Errichtung städtischer Wohnhäuser am Grünring - 14 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 5.: Managementbericht zum 31.10.2015 - Einstimmig
+- TOP 6.: Etat/Budget
+- TOP 6.1: Feststellung des Jahresabschlusses 2014, Behandlung des Fehlbetrages und Entlastung des Bürgermeisters - Zur Kenntnis genommen
+- TOP 7.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2014 mit Jahresabschluss zum 31.12.2014 - Einstimmig
+- TOP 8.: Vorzeitige Ausschüttung vom Jahresüberschuss 2015 des Abwasserwerkes - 12 Ja-Stimme(n), 1 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 9.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2016 - Einstimmig
+- TOP 10.: Abrechnung der Baumaßnahme Bahnhof Emsdetten durch die Deutsche Bahn AG - Einstimmig
+- TOP 11.: Satzungsrecht
+- TOP 11.1: Verlängerung der Satzung über eine Veränderungssperre für den Geltungsbereich des Bebauungsplanes Nr. 8 K "Rheiner Straße / Emssstraße" - Einstimmig
+- TOP 11.2: Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04.07.2012 in der Fassung des II. Nachtrags - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.3: IV. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04.07.2012 - 14 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.4: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) vom 20.12.2007 in der Fassung des IX. Nachtrages - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: III. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsan-lagen vom 19. Dezember 2012 auf Grundlage der Gebührenkalkulation für das Jahr 2016 - Einstimmig
+- TOP 13.: XIII. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 14.: Verkehrsangelegenheiten
+- TOP 14.1: K 53n, Westumgehung Emsdetten - Sachstandsbericht / Aufforderung an den Kreistag - - 12 Ja-Stimme(n), 2 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 15.: Durchführung von Ausgleichsmaßnahmen - Einstimmig
+- TOP 16.: Regionalplanung
+- TOP 16.1: Neuaufstellung des Landesentwicklungsplans Nordrhein-Westfalen (LEP NRW) - Stellungnahme der Stadt Emsdetten im Rahmen des Beteiligungsverfahrens- - (kein Text vorhanden)
+- TOP 16.1.1: Neuaufstellung des Landesentwicklungsplans Nordrhein-Westfalen (LEP NRW) - Stellungnahme der Stadt Emsdetten im Rahmen des Beteiligungsverfahrens- - Einstimmig
+- TOP 17.: Flächennutzungsplan
+- TOP 17.1: 12. Änderung des Flächennutzungsplanes der Stadt Emsdetten "Anpassung an die Ziele der Raumordnung" - Feststellungsbeschluss - Einstimmig
+- TOP 18.: Bebauungsplan
+- TOP 18.1: Bebauungsplan Nr. 17 C III "Industriegebiet Süd", 2. Änderung und 1. Ergänzung - Satzungsbeschluss - Einstimmig
+- TOP 18.2: Bebauungsplan Nr. 26 "Elsterstraße Süd", 2. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 19.: Allgemeine Stadtentwicklungsplanung
+- TOP 19.1: Außenbereichssatzung "Westumer Landstraße" - Satzungsbeschluss - Einstimmig
+- TOP 20.: Öffentlicher Personennahverkehr (ÖPNV)
+- TOP 20.1: ÖPNV: Veränderungen im Ortslinienverkehr zum Fahrplan 2016 - Einstimmig
+- TOP 21.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 21.1: Erhebung von Beiträgen für den Ausbau von Wirtschaftswegen - 7 Ja-Stimme(n), 9 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 22.1: Gewährung eines freiwilligen Zuschusses zu den Kosten der Sanierungsmaßnahme an der Kindertageseinrichtung St. Martin der Pfarrgemeinde St. Pankratius - Einstimmig
+- TOP 22.2: Erstattung anteiliger Elternbeiträge und Verpflegungsgelder auf Grund streikbedingter Schließungstage im Jahr 2015 - Einstimmig
+- TOP 22.3: Anpassung der Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Familienerholung - Einstimmig
+- TOP 23.: Stellenplan
+- TOP 23.1: Stellenplan 2016 - Einstimmig
+- TOP 24.: Entwurf Haushaltssatzung und Haushaltsplan 2016 - 6 Ja-Stimme(n), 0 Gegenstimme(n), 10 Enthaltung(en)
+- TOP 25.: Verschiedenes
