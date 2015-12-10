@@ -1,0 +1,113 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-12-10T18:00:00+01:00
+- Ende: 2015-12-10T21:27:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1225
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1225
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Bestellung eines Schriftführers - einstimmig
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: CDU Antrag Nr. 314/2015 - einstimmig
+- TOP 3.1.2: CDU Antrag Nr. 320/2015 - einstimmig
+- TOP 3.1.3: CDU Antrag Nr. 313/2015 - einstimmig
+- TOP 3.1.4: SPD Antrag Nr. 318/2015 - einstimmig
+- TOP 3.1.5: SPD Antrag Nr. 319/2015 - einstimmig
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: UWG Antrag Nr. 253/15 - einstimmig
+- TOP 3.3.2: UWG Antrag Nr. 310/15 - einstimmig
+- TOP 3.3.3: FDP Antrag Nr. 255/15 - einstimmig
+- TOP 3.3.4: FDP Antrag Nr. 256/15 - einstimmig
+- TOP 3.3.5: FDP Antrag Nr. 257/15 - einstimmig
+- TOP 3.3.6: FDP Antrag Nr. 258/15 - einstimmig
+- TOP 3.3.7: FDP Antrag Nr. 261/15 - einstimmig
+- TOP 3.4: FDP
+- TOP 3.4.1: FDP Antrag 312/15 - einstimmig
+- TOP 3.4.2: B90 Antrag Nr. 315/2015 - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN - Kenntnisnahme
+- TOP 3.6: ABG
+- TOP 3.6.1: ABG Antrag Nr. 251/15 - einstimmig
+- TOP 3.6.2: Mein Grevenbroich Antrag Nr. 260/15 - einstimmig
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.8.1: Die Linke/Piraten Antrag Nr. 311/2015 - einstimmig
+- TOP 3.8.2: CDU u. SPD Antrag Nr. 317/2015 - einstimmig
+- TOP 3.9: Gemeinschaftsanträge
+- TOP 4: Abberufung der Beigeordneten Barbara Kamp - mehrheitlich bei
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.3: UWG
+- TOP 5.4: FDP
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.6: ABG
+- TOP 5.7: Mein Grevenbroich
+- TOP 5.8: Die Linke/Piraten
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 6.1: 15. Änd. FNP - Aufhebung Feststellungsbeschluss + ern. Auslegung - einstimmig
+- TOP 7: Mittelbereitstellungen
+- TOP 8: Toilettenanlage Grundschule Kapellen - einstimmig
+- TOP 9: Beteiligungsrichtlinie - einstimmig
+- TOP 10: Verbandsrat Erftverband - einstimmig
+- TOP 11: Entscheidung RechnungsprüfungsA
+- TOP 11.1: Feststellung des Jahresabschlusses 2013 und Beschlussfassung über das Ergebnis - einstimmig
+- TOP 12: Entscheidung PlanungsA
+- TOP 12.1: 18. Änd. FNP SO 2 und 9 Am Hammerwerk- Aufst.+ Öffentlichkeitsbet. - einstimmig
+- TOP 12.2: G 211 Aufst.+Öff.Bet. - einstimmig
+- TOP 12.3: 1. Änd.K30 - Aufst.beschl - einstimmig
+- TOP 12.4: Fortschreibung ISEK - einstimmig
+- TOP 12.5: Hof- u.Fassadenprogramm ISEK - einstimmig
+- TOP 12.6: 1. Änd. N 46 - einstimmig
+- TOP 12.7: Stellungnahme Rhein.Braunkohlerevier - einstimmig
+- TOP 13: Entscheidung SchulA
+- TOP 13.1: OGS Elternbeitrag Flüchtlinge - einstimmig
+- TOP 13.2: Antrag auf Namensgebung KGM - einstimmig
+- TOP 14: Entscheidung Jugendhilfeausschuss
+- TOP 14.1: Änderung der bestehenden Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen - einstimmig
+- TOP 14.2: Erstellung eines Fachkonzeptes - einstimmig
+- TOP 14.3: KiTa-Bedarfsplanung - einstimmig
+- TOP 15: Entscheidung HFD-A vom 19.11.2015
+- TOP 15.1: Erhöhung Hebesatz Grundsteuer B - mehrheitlich bei
+- TOP 15.1.1: FDP Antrag Nr. 316/2015 - einstimmig
+- TOP 15.2: Richtlinien nach § 70 Abs. 3 der Gewerbeordnung - einstimmig
+- TOP 15.3: Ordnungsbehörd. VO über die zusätzliche Zul. von Waren des täglichen Bedarfs auf Wochenmärkten - einstimmig
+- TOP 16: Entscheidung BauA
+- TOP 16.1: Gebührenbedarfsberechnung 2016 für die Erhebung von Straßenreinigungs- und Winterdienstgebühren - einstimmig
+- TOP 17: Entscheidung BetriebsA
+- TOP 17.1: Wirtschaftsplan des Eigenbetriebs Abwasseranlagen für das Jahr 2016 - einstimmig
+- TOP 17.2: Abwassergebührenkalkulation 2016 - einstimmig
+- TOP 18: Entscheidung Landschafts- & UmweltA
+- TOP 18.1: Friedhofsgebühren 2016 - mehrheitlich bei
+- TOP 18.2: Friedhofssatzung - einstimmig
+- TOP 18.3: Gebührenbedarfsberechnung Abfall 2016 - einstimmig
+- TOP 19: Entscheidung WahlprüfungsA - Kenntnisnahme
+- TOP 19.1: Gültigkeit der Wahl des/der Bürgermeisters/Bürgermeisterin - einstimmig
+- TOP 19.2: Gültigkeit der Stichwahl des/der Bürgermeisters/Bürgermeisterin - einstimmig
+- TOP 20: Gesamtabschluss 2010 - einstimmig
+- TOP 21: Kreishaushalt - einstimmig
+- TOP 22: Reden der Fraktionsvorsitzenden zum Haushalt 2016 bzw. persönliche Erklärungen von Einzelratsmitgliedern zum Haushalt 2016
+- TOP 23: Haushalt 2016 - mehrheitlich bei
+- TOP 24: Beantwortung Anträge
+- TOP 24.1: FDP, Anfrage Nr. 95/14 - einstimmig
+- TOP 24.2: AGB Antrag Nr. 223/15 - Überarbeitung der Richtlinien zur Genehmigung von Veranstaltungen - einstimmig
+- TOP 24.3: Mein GV, Antrag Nr. 224/15 - einstimmig
+- TOP 24.4: CDU, Antrag Nr. 232/15 - einstimmig
+- TOP 24.5: Beantwortung von Anträgen aus den letzten Sitzungen - einstimmig
+- TOP 24.6: SPD, Antrag Nr. 293/2015 - einstimmig
+- TOP 24.7: Antrag der Fraktion Mein Grevenbroich (Antrag 304/15) - einstimmig
+- TOP 24.8: Antrag Beteiligungsmanagement - einstimmig
+- TOP 25: Beantwortung Anfragen
+- TOP 25.1: Sammelbeantwortung Anfragen - einstimmig
+- TOP 25.2: FDP, Anfrage Nr. 197/15 - einstimmig
+- TOP 25.3: FDP, Anfrage Nr. 219/15 - einstimmig
+- TOP 26: mündliche Anträge/Anfragen
+- TOP 27: Mitteilungen BM
