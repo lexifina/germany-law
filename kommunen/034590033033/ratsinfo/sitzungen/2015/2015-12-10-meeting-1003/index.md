@@ -1,0 +1,57 @@
+# Rat (42. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2015-12-10T17:30:00+01:00
+- Ende: 2015-12-10T20:30:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXRO3XqDaTzs_-HO4cKq5qU
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1003
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXVDW5x5Ar7mng-DT3d2aWjbotg2G3K4NQ_yo7H9y7RF/Bekanntmachung_Rat_10.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY3pufgmB7IxKS7HZEXpjc7iRovk_Axqpyr9XbaR05UF/Oeffentliche_Niederschrift_Rat_10.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 01.10.2015
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verweisungsbeschlüsse
+- TOP 3.2: Aufnahme von Asylbewerbern und Flüchtlingen
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Schülervertreter/innen und stellvertretende/r Elternvertreter/in Sekundarbereich I - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Beschluss des Gleichstellungsplanes für die Jahre 2015 bis 2017 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sicherheit und Ordnung
+- TOP 6.1: Ernennung des stellvertretenden Gemeindebrandmeisters und des stellvertretenden Ortsbrandmeisters der Ortsfeuerwehr Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 7.1: Unterbringung von Asylbewerbern und Flüchtlingen; hier: Erweiterung der Obdachlosenunterkunft Dreskamp 2 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Jugendangelegenheiten
+- TOP 8.1: Antrag der Katholischen Kirchengemeinde St. Alexander Wallenhorst auf Bezuschussung der Kosten für die Kellersanierung im Jugendheim "Franziskushaus" Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Antrag der Kath. Kirchengemeinde St. Alexander auf Bezuschussung der Kosten für die Erneuerung des Gas-Brennwertkessels im Jugendheim „Franziskushaus“ Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Schulangelegenheiten
+- TOP 9.1: Baumaßnahmen an der St. Bernhard-Schule - einstimmig, mit 10 Enthaltung(en) gefasst:
+- TOP 10.: Kindertagesstätten
+- TOP 10.1: Mehrkosten bei der Sanierung der Natursteinmauer am Kindergarten St. Johannes in Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Familie und Soziales
+- TOP 11.1: Errichtung eines Kolumbariums auf dem Friedhof in Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Umwelt- und Energieangelegenheiten
+- TOP 12.1: Förderung von Klimaschutzmaßnahmen: Änderung der Förderrichtlinie für den Austausch der Heizungspumpe - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 13.1: Antrag auf Kauf von Gewerbeflächen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Kämmereiangelegenheiten
+- TOP 14.1: Außerplanmäßige Auszahlung für die Anschaffung von Bauzaunelementen, Etagenbetten und Matratzen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.2: Zustimmung zur außerplanmäßigen Ausgabe im Budget 72 - Gemeindestraßen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.3: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2014 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2014 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.4: Jahresabschluss für das Haushaltsjahr 2014 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2014 - Beratung und Entscheidung über die Entlastung des Bürgermeisters - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.5: Haushaltswirtschaft für das Jahr 2016 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 21 Ja-Stimme(n), 10 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 14.6: Genehmigung der Annahme einer Zuwendung (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Anfragen und Anregungen
+- TOP 15.1: Danksagung der Kooperation
+- TOP 15.2: Sachstand zum Arkadencenter
+- TOP 15.3: Anmerkungen zum Verlauf der Sitzung und Verhalten des Ratsvorsitzenden
+- TOP 15.4: Sachstand zur Erweiterung des Baugebietes "Hof im Hagen"
+- TOP 15.5: Gestaltung des Kreisverkehrsplatzes am "Fürstenauer Weg/Ecke Maschweg"
+- TOP 15.6: Bodenschwellen an der "Wessels Straße"
