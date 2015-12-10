@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-12-10T09:00:00+01:00
+- Ende: 2015-12-10T00:10:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10241
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10241
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00255346.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00255346.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00255346.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell Tierschutz/Freie Wähler:Überraschende Einführung von Straßenreinigungsgebühren - beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Amt 16: Jahresabschluss und Lagebericht 2014 - einstimmig beschlossen
+- TOP 7: Amt 16 - Wirtschaftsplan 2016 - mehrheitlich beschlossen
+- TOP 8: Jahresabschluss 2014 und Lagebericht 2014 des Stadtentwässerungsbetriebes der Landeshauptstadt Düss - einstimmig beschlossen
+- TOP 9: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2016 - - einstimmig beschlossen
+- TOP 10: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 20 - einstimmig beschlossen
+- TOP 11: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - mehrheitlich beschlossen
+- TOP 12: Gebührenkalkulation Straßenreinigung für 2016 - mehrheitlich beschlossen
+- TOP 13: 30. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - mehrheitlich beschlossen
+- TOP 14: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düssel - mehrheitlich beschlossen
+- TOP 15: Neufassung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes - mehrheitlich beschlossen
+- TOP 16: Gebührenkalkulation Abfall für 2016 - mehrheitlich beschlossen
+- TOP 17: 26. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 18: Satzung zur Änderung der Satzung über die Erhebung der Vergnügungssteuer (Vergnügungssteuersatzung) - einstimmig beschlossen
+- TOP 19: Satzung über die Erhebung der Wettbürosteuer in der Landeshauptstadt Düsseldorf (Wettbürosteuersatz - einstimmig beschlossen
+- TOP 20: Neufassung der Gebührensatzung - mehrheitlich beschlossen
+- TOP 21: Änderung der Entgeltordnung der VHS - mehrheitlich beschlossen
+- TOP 22: Umsetzung Bäderkonzept - Ergänzungsantrag - einstimmig beschlossen
+- TOP 23: Mittelbereitstellung Projekt Verwaltung 2020 - mehrheitlich beschlossen
+- TOP 24: Etatberatung 2016 - zur Kenntnis genommen
+- TOP 24.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2016 mit Anlagen - einstimmig beschlossen
+- TOP 24.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldo - zur Kenntnis genommen
+- TOP 24.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2016 - zur Kenntnis genommen
+- TOP 24.4: Stellenplan 2016 - zur Kenntnis genommen
+- TOP 25: Berichte der Gemeindeprüfungsanstalt NRW Überörtliche Prüfung - Informationstechnik der Stadt Düssel - zur Kenntnis genommen
+- TOP 26: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 27: Jahresabschluss 2014 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 28: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 29: Kämmererliste - zur Kenntnis genommen
+- TOP 30: Zweckverband Verkehrsverbund Rhein Ruhr - mehrheitlich beschlossen
+- TOP 31: Wickrather Straße 31, Städtische Gemeinschaftsgrundschule Lörick - Erhöhung der Zügigkeit von 2 auf - einstimmig beschlossen
+- TOP 32: Lindemannstraße 57, Goethe-Gymnasium mit ehemaligem Rethel-Gymnasium - einstimmig beschlossen
+- TOP 33: Diepenstraße 24 - Verlagerung der Aloys-Odenthal-Schule, städtische Gemeinschaftsgrundschule zum Sta - einstimmig beschlossen
+- TOP 34: Ausführungs- und Finanzierungsbeschluss Werner-von-Siemens-Realschule - einstimmig beschlossen
+- TOP 35: Grenzweg 12 -Grundstück der Franz-Vaahsen-Schule- Neubau einer Zweifachsporthallte -Grundsatzbeschlu - einstimmig beschlossen
+- TOP 36: Bastionstraße 24 - Luisen-Gymnasium - Sanierung Natursteinfassade - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 37: Richtlinien der Landeshauptstadt Düsseldorf für die Berechnung von notwendigen Stellplätzen im Wohnu - mehrheitlich beschlossen
+- TOP 38: Grundsätze Fortschreibung Masterplan „Energieeffiziente Straßenbeleuchtung – Gasbeleuchtung" - zur Kenntnis genommen
+- TOP 38.1: EA SPD, Bü90-Grü, FDP: Grundsätze zur Fortschreibung des Masterplans „Energieeffiziente Straßenbeleu - zur Kenntnis genommen
+- TOP 39: Gründung der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - vertagt
+- TOP 39.1: Ergänzungsantrag SPD, Bü90-Grü und FDP: Gründung der Hafen Düsseldorf-Reisholz Entwicklungsgesellsc - vertagt
+- TOP 40: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
+- TOP 40.1: Änderungsantrag der Ratsfraktion Die Linke: Verkaufsoffene Sonntage im Jahre 2016 - mehrheitlich abgelehnt
+- TOP 41: Satzungsbeschluss zur 2. Landschaftsplanänderung "Elbsee" - einstimmig beschlossen
+- TOP 42: Neufassung der Benutzungsordnung für die Bürgerhäuser - mehrheitlich beschlossen
+- TOP 43: Änderung der Zuständigkeitsordnung - mehrheitlich beschlossen
+- TOP 44: WHO Ratsbeschluss Healthy Cities Mitgliedschaft Netzwerk - mehrheitlich beschlossen
+- TOP 45: Neubesetzung der bisher von Herrn Beigeordneten a.D. der Landeshauptstadt Düsseldorf Dr. Gregor Boni - einstimmig beschlossen
+- TOP 46: Mitgliederversammlung des Städtetages NRW am 14.04.2016 in Aachen - einstimmig beschlossen
+- TOP 47: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - einstimmig beschlossen
+- TOP 48: Kuratorium der Stiftung Schloss und Park Benrath - Ersatzwahl - - einstimmig beschlossen
+- TOP 49: Delegierte in der Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Rhein-Wupper - einstimmig beschlossen
+- TOP 50: Genehmigung eines Eilbeschlusses gemäß § 60 Abs. 1 Satz 1 GO NRW;Bundesprogramm 2016 zur Sanierung - einstimmig beschlossen
+- TOP 51: Genehmigung 60er:Anmietung der Liegenschaft Nördlicher Zubringer 5 zur Unterbringung Asyl suchender - einstimmig beschlossen
+- TOP 52: Genehmigung 60er: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 53: Erschließung des Baugebiets Rather Straße - ehem. Schlachthof - einstimmig beschlossen
+- TOP 54: Stadtbüchereien - Einstellung des Betriebs des Bücherbusses - mehrheitlich beschlossen
+- TOP 54.1: EA SPD, BÜ90-GRÜ und FDP:Stadtbüchereien - Einstellung des Betriebs des Bücherbusses - mehrheitlich beschlossen
+- TOP 54.2: ÄA Die Linke: Stadtbüchereien - Einstellung des Betriebs des Bücherbusses - mehrheitlich abgelehnt
+- TOP 55: FNP-Änderung Nr. 150 - Schwannstraße - (Ergänzendes Verfahren gem. § 214 BauGB) - einstimmig beschlossen
+- TOP 56: Änderung des Rahmenplans Einzelhandel 2007 im Zusammenhang mit der 162. Änderung des Flächennutzungs - einstimmig beschlossen
+- TOP 57: FNP-Änderung Nr. 162 Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 58: Änderung des Rahmenplans Einzelhandel 2007 im Zusammenhang mit der 51. Änderung des Flächennutzungsp - einstimmig beschlossen
+- TOP 59: FNP-Änderung Nr. 51 - Nördlich Westfalenstraße - (Ergänzendes Verfahren gem. § 214 BauGB) - einstimmig beschlossen
+- TOP 60: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 60.1: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
