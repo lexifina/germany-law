@@ -1,0 +1,93 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-12-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506617
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506617
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Anhörungsrecht der BAs bei Neuvermietung städtischer Immobilien, Antrag des BA 17
+- TOP .2.: Kompetenz vor Ort anerkennen und wertschätzen ? den BAs mehr Entscheidungsrechte übertragen. Antrag des BA 16, Änderung der BA Satzung Ziffer 7.1 Abschnitt RGU ?Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)? in ein Anhörungsrecht.
+- TOP .3.: Kompetenz vor Ort anerkennen und wertschätzen ? den BAs mehr Entscheidungsrechte übertragen. Antrag des BA 16, Änderung der Anlage BA Satzung Ziffer 19, Abschnitt Kommunalreferat von: ?Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? in: ?Beabsichtigte Vergabe, Verkauf oder Tausch (...) A?
+- TOP .4.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes (Vorberatung in allen UAs)
+- TOP .5.: Bürgerversammlungsempfehlung, Einwohnerversammlung zum Verkehrsversuch Fußgängerzone Sendlinger Straße
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Weinstraße 6, Neubau eines Geschäfts- und Bürogebäudes
+- TOP 7.2.: Altheimer Eck 1, Nutzungsänderung: Ladengeschäft zu gastronomischem Betrieb mit Alkoholausschank und Schließung einer Deckenöffnung für eine nicht genehmigte Treppe
+- TOP 7.3.: Seitzstraße 8, Sanierung, Umbau und Erweiterung des Büro- und Wohnhauses mit Tiefgarage
+- TOP 7.4.: Residenzstraße 2, Sanierung und Umbau für Büro/ Verwaltung, Einzelhandel, Gastronomie und Wohnen
+- TOP 7.5.: Reitmortsraße 17, Umbau EG mit Errichtung eines Rückgebäudes sowie Wohnungszusammenlegung im 5. OG + DG
+- TOP 7.1.: Bürgeranliegen, organisiertes Betteln im Tal
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Genehmigung einer Freischankfläche, Gaststätte ?Tian?, Frauenstraße 4
+- TOP 7.2.: Genehmigung einer Freischankfläche, Bar ?Paisano?, Färbergraben 10
+- TOP 7.3.: Genehmigung einer Freischankfläche, Gaststätte ?Zum Franziskaner?, Bericht und Entscheidung nach Ortstermin vom 24.11.2015
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Genehmigung einer neuen Verkaufseinrichtung auf öffentlichem Grund, ?WMF AG? Weinstraße 4
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Weihnachtliche Veranstaltung im Innenhof des Isartors ab 2016, Ausnahme von Veranstaltungsrichtlinien
+- TOP 7.2.: Inthronisation des Narhalla-Faschingsprinzenpaares auf dem Marienplatz am 09.01.2016
+- TOP 7.3.: Informationsveranstaltung mit Sammlung der BRH Rettungshundestaffel Oberbayern e.V am 19.12.2015 auf dem Odeonsplatz
+- TOP 7.1.: Bürgeranliegen, Verkehrssituation in der Prälat-Zistl-Straße
+- TOP 7.2.: Bürgeranliegen, Feedback zur BA Sitzung vom 17.11, Thema Sendlinger Straße
+- TOP 7.3.: Bürgeranliegen, Fußgängerzone Marienplatz, Vorschlag für Radverkehr
+- TOP 7.4.: Bürgeranliegen, Keine Auflösung der Bushaltestelle der Linie 52 am Marienplatz
+- TOP 7.1.: Anhörung zu einer verkehrsrechtlichen Anordnung, Beschilderung mit Gefahrzeichen ?Kinder? und Zusatzzeichen ?Schule?, Blumenstraße, südwestlich Corneliusstraße
+- TOP 7.2.: Antrag auf Baumfällung, Seitzstraße 9
+- TOP 7.3.: Anhörung zum Beschlussentwurf Barrierefreie Querungen im Fuß- und Radverkehr, Ausschuss für Stadtplanung und Bauordnung Sitzungsvorlagennr. V01203
+- TOP 7.1.: Stolpersteine: Neue Entwicklungen, weitere Aktivitäten?
+- TOP 7.2.: Einflussnahme Kulturprogramm Kulturstrand
+- TOP 7.1.: Stellungnahme des BA zur Beschlussvorlage Fortschreibung des Standortkonzeptes ?Kulturstrand? 2016ff., Sitzungsvorlage Nr. 14-20 / V04729 (siehe auch C 4.6)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Baulisten
+- TOP 0.2.: Stellungnahme RSB/Lokalbaukommission, Handeinträge bei Bauvorhaben Kreuzstraße 17
+- TOP 0.3.: Bebauungsplan mit Grünordnung Nr. 1975, Neuhauser Straße, Kapellen-, Maxburg- und Ettstraße, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (SB), Sitzungsvorlagennr. V04350
+- TOP 0.4.: Ensemble Altstadt München: Leitlinien zum Planen und Bauen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.5.: Neuordnung der Bauberatung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.6.: 44. Fassadenwettbewerb, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.7.: Handlungsprogramm Mittlerer Ring, Hinweis / Ergänzung vom 30.10.2015
+- TOP 0.8.: Konzeption ?Freiraum M 2030?, Nord-Süd-Querung der Altstadt für den Radverkehr, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.9.: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitverfahren, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.10.: Kommunales Wohnungsbauprogramm, Bauträgerauswahl für städtische Baugrundstücke, Pestalozzistr. 2, Beschluss des Sozialausschusses vom 03.12.2015
+- TOP 0.11.: Mehrjahresinvestitionsprogramm 2015-2019, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015-2019, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015
+- TOP 0.12.: Mehrjahresinvestitionsprogramm 2015-2019, diverse Vorhaben, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015
+- TOP 0.13.: Strukturwandel in der Innenstadt und in Innenstadtgebieten, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015
+- TOP 0.14.: Veräußerung von Immobilien der Stadtwerke München GmbH, Blumenstraße 19, Müllerstraße 18, Blumenstraße 28, Unterer Anger 3 und Einsteinstraße 28
+- TOP 0.1.: Erlaubnisbescheide
+- TOP 0.2.: Versammlungsanmeldungen
+- TOP 0.3.: Drehgenehmigungen
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Stellungnahme des KVR zum Bürgeranliegen ?Lärm am Praterstrand?
+- TOP 0.6.: Fortschreibung des Standortkonzeotes ?Kulturstrand? 2016 ff., Beschluss des Kreisverwaltungsausschusses (VB) vom 17.11.2015
+- TOP 0.7.: Stellungnahme des KVR zum Bürgeranliegen ?Abstellflächen für Fahhräder zur Vermietung / Stadtführungen?
+- TOP 0.1.: Verkehrsrechtliche Anordnung, Freigabe des Radverkehrs in der Fußgängerzone zu Nachtzeiten
+- TOP 0.2.: Nord-Süd-Querung der Altstadt für den Radverkehr, Beschluss der Vollversammlung des Stadtrates vom 19.11.2015
+- TOP 0.3.: Verkehrsrechtliche Anordnung, Maßnahmen zur Schulwegsicherheit im Umfeld des Interimsbaus des Wilhelmsgymnasiums
+- TOP 0.4.: Nord-Süd-Querung der Altstadt für den Radverkehr, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.5.: Fortschreibung multimodales Gesamtverkehrsmodell, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.6.: Odeonsplatz erweitern, Fußgängerzone oder Shared Space für die Brienner Straße / Gestaltungsideen Odeonsplatz und südliche Ludwigstraße, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015
+- TOP 0.7.: Verkehrsrechtliche Anordnung, Sonderparkplatz für Schwerbehinderte, Gewürzmühlstraße 10
+- TOP 0.8.: Barrierefreie Waldwege als Pilotprojekt für gelungene Inklusion, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015
+- TOP 0.9.: a) Sendlinger Straße ? Verkehrsversuch Fußgängerzone im Teilabschnitt zwischen Hackenstraße und Sendlinger Tor, b) Fußgängerzone Sendlinger Straße fortführen und vervollständigen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 (SB), Sitzungsvorlagennr. V04380
+- TOP 0.1.: Stadtbezirksübersicht Bestand + Planungen Flüchtlingsunterkünfte in München
+- TOP 0.2.: Jugend im öffentlichen Raum ? Ausbau der regionalen, stadtteilorientierten Streetwork, Beschluss der Vollversammlung des Stadtrates vom 21.10.2015
+- TOP 0.3.: Haushaltsplan 2016, Produkt- und zielorientierte Ansätze für den bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration, des Amtes für Soziale Sicherung, des Stadtjugendamtes, der Zentrale, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015
+- TOP 0.4.: 1. Schulbauprogramm ?Neubau, Erweiterung und Generalinstandsetzung?, Vorabinformation
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
