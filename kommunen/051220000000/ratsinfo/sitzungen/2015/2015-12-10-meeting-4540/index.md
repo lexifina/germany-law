@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-12-10T17:00:00+01:00
+- Ende: 2015-12-10T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWsVW6vsUiG1TABm4LKfM5Y
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4540
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc9k32mroE7SP9WxnxkjQibPQlqWVuOMs4V4RwSOZ2SP/Oeffentliche_Niederschrift_Rat_10.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Vorschlag für die En-bloc-Abstimmung
+- TOP 2: Einbringung des Haushaltsentwurfs für das Jahr 2016
+- TOP 3: Wahl einer/eines Beigeordneten für das Ressort 3
+- TOP 4: Wahl einer/eines Beigeordneten für das Ressort 3
+- TOP 5: Wahl einer/eines Beigeordneten für das Ressort 4
+- TOP 6: Wahl einer/eines Beigeordneten für das Ressort 4
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Mitgliederversammlung 2016 des Städtetages Nordrhein-Westfalen
+- TOP 9: Mitgliederversammlung 2016 des Städtetages Nordrhein-Westfalen
+- TOP 10: Stadt-Sparkasse
+- TOP 11: Stadt-Sparkasse
+- TOP 12: Gültigkeit der am 13.09.2015 stattgefundenen Oberbürgermeisterwahl, sowie der darauffolgenden Stichwahl am 27.09.2015
+- TOP 13: Honorarordnung über Vergütungen an Mitglieder der Freiwilligen Feuerwehr Solingen und I. Änderungssatzung zur Satzung über die Erhebung von Kostenersatz und Gebühren bei Einsätzen der Feuerwehr Solingen
+- TOP 14: Überplanmäßige Mehrausgaben für Krankentransportwagen (KTW)
+- TOP 15: Stellenplannachtrag 2016
+- TOP 16: Vergabe des Lokalen Agenda 21-Preises der Stadt Solingen 2015
+- TOP 17: Projekt "Global nachhaltige Kommune in NRW" - Bewerbung Solingens um Teilnahme als Modellkommune
+- TOP 18: Hundertprozentig erneuerbar – Klimaschutz und Energiewende im Bergischen Land umsetzen
+- TOP 19: Maßnahmen zum Kommunalinvestitionsförderungsgesetz
+- TOP 20: Maßnahmen zum Kommunalinvestitionsförderungsgesetz
+- TOP 21: Aufhebung Miet- und Benutzungsordnung für das Theater und Konzerthaus Solingen, die Festhalle Ohligs und den Stadtsaal Wald
+- TOP 22: Gebührenbedarfsberechung 2016
+- TOP 23: Wirtschaftsplan 2016 der Technischen Betriebe Solingen
+- TOP 24: Wirtschaftsplan 2016 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 25: 1a) I. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgung der Stadt Solingen 1b) I. Änderungssatzung zur Satzung über den Anschluss an die öffentliche Wasserversorgung der Stadt Solingen und die Versorgung der Grundstücke mit
+- TOP 26: I. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 27: II. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 28: I. Änderungssatzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 29: II. Änderungssatzung zur Satzung über die Entsorgung der Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 30: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 31: Beteiligung der Technischen Betriebe Solingen an der BürgerEnergie Solingen eG
+- TOP 32: Jahresabschluss 2014 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 33: Jahresabschluss 2014 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 34: I. Änderung der Satzung des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 35: Änderungen der Betriebssatzungen der Technischen Betriebe Solingen und des Eigenbetriebes Wasserversorgung Solingen
+- TOP 36: Arbeitnehmerfreundlichere Terminfindung für Ausschüsse und Sitzungen
+- TOP 37: Kosten der Inklusion
+- TOP 38: Besetzung der vakanten Dezernentenstelle
+- TOP 39: Fortbildungsmittel Allgemeiner Sozialer Dienst/Pflegekinderdienst
+- TOP 40: Willkommenshefte für Flüchtlinge
+- TOP 41: Durchführung einer Bürgerbeteiligung zum Haushalt 2016
+- TOP 42: Geschäftskreise der Ressortleiter der Klingenstadt Solingen
+- TOP 43: Übertragung der Ratssitzungen ins Internet
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SWS)
+- TOP 2: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SWS)
+- TOP 3: Wahl einer/eines Beigeordneten für das Ressort 3
+- TOP 4: Wahl einer/eines Beigeordneten für das Ressort 4
