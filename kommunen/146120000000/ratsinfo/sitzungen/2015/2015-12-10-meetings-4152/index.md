@@ -1,0 +1,72 @@
+# 19. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-12-10T16:00:00+01:00
+- Ende: 2015-12-10T22:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4152
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4152
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2015_12_10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00232263.pdf
+- Wortprotokoll: Nachtrag_SR_2015_12_10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00233836.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden Wahlkreis 11 - Mandat DIE LINKE (DIE LINKE) - Zustimmung
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte (1 Runde)
+- TOP 3.1: Nutzung des Schulstandortes Boxberger Strasse ab August 2016 - erledigt
+- TOP 3.2: Drogenproblematik am Wiener Platz - erledigt
+- TOP 3.3: Tronitzer Straße - erledigt
+- TOP 3.4: Schließung des Bürgerbüros Dresden-Klotzsche - erledigt
+- TOP 3.5: Öffentliche Sicherheit im Zusammenhang mit PEGIDA-Veranstaltungen - erledigt
+- TOP 3.6: Tödliche Messer - erledigt
+- TOP 4: Aktuelle Stunde zu den Auswirkungen der Kommunalfinanzreform in Sachsen - erledigt
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 5.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 5.2: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 5.3: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Beiräte (Sitze der Fraktionen)
+- TOP 6.1: Wohnbeirat (zugleich „Beirat Wohnen“ im Sinne der Dresdner Sozialcharta) - Zustimmung
+- TOP 7: Besetzung der Aufsichtsräte der Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Vertagung Stadtratssitzung 24. September 2015
+- TOP 9.1: Für den Erhalt des Fußgängertunnels am Neustädter Markt - Verweisung
+- TOP 10: Vertagungen Stadtratssitzung 19. November 2015
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Integriertes Quartierskonzept für die Gartenstadt Hellerau - Zustimmung mit Änderung
+- TOP 10.3: Satzung über eine städtebauliche Sanierungsmaßnahme Langebrück "Ortsmitte" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 10.4: Erhaltungssatzung einführen - Vertagung
+- TOP 10.5: Gestaltungssatzung einführen - Vertagung
+- TOP 11: Finanzierung von Maßnahmen zur Schaffung zusätzlicher Unterbringungskapazitäten für besondere Bedarfsgruppen in den Jahren 2015/2016 - Ersetzung
+- TOP 12: Einrichtung einer Asylunterkunft "Washingtonstraße" zur Unterbringung asylsuchender Menschen - Vertagung
+- TOP 13: Einrichtung einer Asylunterkunft "Altenberger Straße" zur Unterbringung asylsuchender Menschen - Vertagung
+- TOP 14: Einrichtung einer Asylunterkunft "Zellescher Weg" zur Unterbringung asylsuchender Menschen - Vertagung
+- TOP 15: Anmietung von zwei Gebäuden zur Unterbringung von besonderen Bedarfsgruppen - Ersetzung
+- TOP 16: Sanierung Gymnasium Bürgerwiese (Altbau), Gret-Palucca-Straße 1, 01069 Dresden mit Sanierung der Schulsporthalle sowie Neugestaltung und Sanierung der Freiflächen - Zustimmung
+- TOP 17: Gesamtsanierung der Grundschule Naußlitz, Saalhausener Straße 61 in 01159 Dresden mit Sanierung und Erweiterung der Schulsporthalle und Neugestaltung der Außenanlagen - Zustimmung
+- TOP 18: Sanierung und Erweiterung des künftigen Schulstandortes für das Gymnasium Dresden Süd-West, Bernhardstraße 18 in 01069 Dresden - Vertagung
+- TOP 19: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden vom 4. September 2014 und der Betriebssatzung des Eigenbetriebes Stadtentwässerung - Zustimmung mit Änderung
+- TOP 20: Verkauf von Grundstücken an Dresdner Wohnungsgenossenschaften - Vertagung
+- TOP 21: Wirtschaftsplanung 2016 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 22: Wirtschaftsplanung 2016 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Vertagung
+- TOP 23: Wirtschaftsplanung 2016 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Vertagung
+- TOP 24: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 25: Jahresabschlüsse 2014 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Vertagung
+- TOP 26: Bestellung der Wirtschaftsprüfungsgesellschaft für die Jahresabschlüsse der beiden städtischen Krankenhäuser für die Jahre 2015 und 2016 - Zustimmung
+- TOP 27: Neufassung der Rettungsdienstentgeltsatzung der Landeshauptstadt Dresden ab 1. Januar 2016 - Zustimmung
+- TOP 28: Städtische Bühnen Dresden: Konzept für gemeinsame Strukturen Staatsoperette Dresden und tjg.theater junge generation - Zustimmung mit Ergänzung
+- TOP 29: Regelung von Eintrittspreisen am tjg. theater junge generation - Zustimmung mit Ergänzung
+- TOP 30: Eintrittspreise Staatsoperette Dresden am neuen Standort Kraftwerk Mitte - Zustimmung mit Änderung
+- TOP 31: Gründung eines Stadtelternrates der Kindertageseinrichtungen in städtischer und freier Trägerschaft sowie der Kindertagespflege - Zustimmung mit Änderung
+- TOP 32: Wohnentwicklung in Dresden - Vertagung
+- TOP 33: Geschäftsordnung der Gestaltungskommission Dresden - Vertagung
+- TOP 34: Grundhafte Instandsetzung einschließlich kompletter Erneuerung des Farbanstriches des Blauen Wunders - Vertagung
+- TOP 35: Satzung über eine städtebauliche Sanierungsmaßnahme "Cossebaude-Altstadt" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 36: Neubenennung von Straßen - Zustimmung
+- TOP 37: Bebauungsplan Nr. 3001, Dresden-Neustadt Nr. 39, Gehestraße - Zustimmung mit Änderung
+- TOP 38: Ortschaftsverfassung für das gesamte Stadtgebiet umsetzen! - Zustimmung mit Änderung
+- TOP 39: Einrichtung einer unabhängigen Ombudsstelle beim Jobcenter Dresden - Vertagung
+- TOP 42: Beschaffung von Hotelkapazitäten zur Unterbringung asylsuchender Menschen - punktweise Abstimmung mit Ergänzung
