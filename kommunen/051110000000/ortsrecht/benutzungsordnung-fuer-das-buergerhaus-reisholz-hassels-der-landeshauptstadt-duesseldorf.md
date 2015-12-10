@@ -1,0 +1,131 @@
+# Benutzungsordnung für das Bürgerhaus Reisholz/Hassels der Landeshauptstadt Düsseldorf
+
+- Gemeinde: Landeshauptstadt Düsseldorf (ARS 051110000000)
+- Datum: 2015-12-10 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.duesseldorf.de/stadtrecht/5/51/51-206
+- Text: HTML-Seite der Stadt, als Text
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Benutzungsordnung für das Bürgerhaus Reisholz/Hassels der Landeshauptstadt Düsseldorf
+
+vom 10. Dezember 2015
+
+|
+
+| Redaktioneller Stand: Januar 2016
+
+Der Rat der Landeshauptstadt Düsseldorf hat am 10. Dezember 2015 aufgrund des § 41 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. 7. 1994 (GV NW S. 666/SGV NW 2023) folgende Benutzungsordnung für das Bürgerhaus Reisholz/Hassels beschlossen:
+
+§ 1 Zweckbestimmung
+
+(1) Das Bürgerhaus Reisholz/Hassels ist insbesondere für die Bürgerinnen und Bürger dieser Stadtteile errichtet worden. Die Räumlichkeiten des Hauses stehen vorrangig ihnen, aber auch den übrigen Bürgerinnen und Bürgern sowie Organisationen, Verbänden und Personengruppen nach Maßgabe der Benutzungsordnung zur Verfügung.
+
+(2) Die Vermietung der Räume richtet sich nach der Art der Veranstaltung und findet unter der Maßgabe statt, den reibungslosen und störungsfreien Betrieb auch für andere Nutzerinnen und Nutzer des Hauses zu gewährleisten.
+
+(3) Die Räume können während der vertraglich vereinbarten Zeiten genutzt werden.
+
+§ 2 Mietvertrag
+
+(1) Das Nutzungsverhältnis zwischen der Stadt Düsseldorf und der Mieterin oder dem Mieter wird durch einen Mietvertrag geregelt. In diesem Mietvertrag sind die beiderseitigen Rechte und Pflichten bestimmt, wenn nicht besondere Umstände eine andere Regelung erfordern.
+
+(2) In schriftlich begründeten Fällen ist eine kostenlose Überlassung der Räume möglich. Dies umfasst interne Veranstaltungen des Jugendamtes sowie Kooperationen mit dem Bürgerhaus Reisholz/Hassels. Darüber hinaus können Räume kostenlos für nicht-kommerzielle Angebote, die den Zielsetzungen des Bürgerhauses Reisholz/Hassels entsprechen, überlassen werden.
+
+(3) Über die Überlassung der Räume entscheidet der Oberbürgermeister beziehungsweise die Oberbürgermeisterin. Eine Nutzung der Räumlichkeiten kann insbesondere dann verweigert werden, wenn die Art der Veranstaltung geeignet erscheint, die öffentliche Sicherheit oder Ordnung zu stören. Der Oberbürgermeister beziehungsweise die Oberbürgermeisterin ist berechtigt, im Zweifelsfalle die Entscheidung des Haupt- und Finanzausschusses einzuholen.
+
+(4) In Ausnahmefällen kann von der Benutzungsordnung abgewichen werden, wenn besondere
+
+Umstände dies rechtfertigen.
+
+§ 3 Entgelte
+
+(1) Als vertraglich vereinbarte Miete gelten die Beträge für die Benutzung je Veranstaltung nach den Tarifen A, B und C.
+
+|    | Tarif A
+(Euro)  | Tarif B
+(Euro)  | Tarif C
+(Euro)
+
+| Bis zu zwei Stunden  |
+
+| Gruppenraum 1 und 2 sowie Caféteria als Gruppenraum, je  | 5,00  | 10,00  | 16,00
+
+| Saal als Gruppenraum  | 10,00  | 17,50  | 30,00
+
+| Bis zu vier Stunden
+
+| Saal für Veranstaltungen und Tagungen  | 50,00  | 100,00  | 200,00
+
+| Caféteria für Veranstaltungen und Tagungen  | 25,00  | 50,00  | 100,00
+
+| Saal für Feiern  | -,--  | 100,00  | 200,00
+
+| Caféteria für Feiern  | -,--  | 50,00  | 100,00
+
+(2) Für jede weitere angefangene Stunde, die in der Öffnungszeit des Hauses liegen muss, werden folgende Entgelte berechnet:
+
+|    | Tarif A
+(Euro)  | Tarif B
+(Euro)  | Tarif C
+(Euro)
+
+| Saal für Veranstaltungen und Tagungen  | 12,50  | 25,00  | 50,00
+
+| Caféteria für Veranstaltungen und Tagungen  | 6,00  | 12,50  | 25,00
+
+| Saal für Feiern  | -,--  | 25,00  | 50,00
+
+| Caféteria für Feiern  | -,--  | 12,50  | 25,00
+
+| Gruppenraum 1 und 2 sowie Caféteria als Gruppenraum, je  | 2,50  | 5,00  | 8,00
+
+| Saal als Gruppenraum  | 5,00  | 8,50  | 15,00
+
+(3) Sollten weitere zurzeit nicht zur Verfügung stehende Räume vermietet werden, orientiert sich die Höhe des Entgeltes an vergleichbaren Räumen.
+
+(4) Die Entgelte werden bei Einzelveranstaltungen mit Vertragsabschluss fällig. Bei regelmäßigen Veranstaltungen werden die Entgelte mindestens monatlich bis maximal quartalsweise im Voraus abgerechnet. Mit Vertragsabschluss wird zusätzlich für Feierlichkeiten eine Kaution fällig. Sie beträgt für Caféteria und Küche zusammen 100,00 Euro und für den Saal 100,00 Euro.
+
+(5) Sagt die Mieterin/der Mieter innerhalb der letzten vier Wochen vor dem vereinbarten Termin die Einzelveranstaltung ab, werden 50 Prozent der Miete einbehalten. Bei regelmäßigen Veranstaltungen wird bei einer Absage innerhalb der letzten vier Wochen die volle Miete einbehalten. Bei Absage des Termins vor der in Satz 1 und 2 genannten Frist werden die Miete und die Kaution in voller Höhe an die Mieterin oder den Mieter erstattet.
+
+(6) Heizungs- und Beleuchtungskosten sind in den Entgeltsätzen enthalten. Nach der Veranstaltung/ dem Angebot sind die Räume in dem Zustand an das Jugendamt zurückzugeben, in dem sie übernommen wurden.
+
+(7 Die vereinbarten Nutzungszeiten sind unbedingt einzuhalten. Eine über die Vereinbarung hinausgehende Nutzung ist nicht zulässig. Im Falle des Zuwiderhandelns behält sich die Landeshauptstadt Düsseldorf vor, von ihren Rechten als Hausherrin Gebrauch zu machen.
+Bei vertragswidriger Benutzung der Räume über die vereinbarte Zeit hinaus wird ein Betrag von 250,00 EUR je angefangener Stunde erhoben.
+
+(8) Technische und sonstige Leistungen der Stadt, die in dieser Benutzungsordnung nicht vorgesehen sind, werden gesondert berechnet.
+
+4 Miettarife
+
+Die Tarife werden wie folgt angewandt:
+
+Tarif A
+Bei politischen, kulturellen, gemeinnützigen oder sportlichen Veranstaltungen, bei Bildungsveranstaltungen, Schulungs- und Übungsabenden u. ä.
+
+- der städtischen Ämter und Einrichtungen,
+- der Parteien,
+- der Familien- und Mütterbildungswerke,
+- von anerkannten Trägerinnen und Trägern der Weiterbildung,
+- von anerkannten Trägerinnen und Trägern der Jugendhilfe,
+- der Heimat- und Brauchtumsvereine,
+- der Gesang- und Instrumentalvereine,
+- der Sportverbände, Sportvereine, Betriebssportgemeinschaften u. ä.,
+- der Kirchen oder religiösen Vereinigungen im Sinne des § 54 Abs.1 AO,
+- der Gewerkschaften, Berufsorganisationen, Handwerkskammern sowie der Industrie- und Handelskammer,
+- sonstiger gemeinnützig wirkender oder förderungswürdiger Organisationen.
+
+Tarif B
+Bei Feierlichkeiten sowie allen Veranstaltungen und Angeboten mit gemeinnützigem Charakter, für die Eintritt oder ein entsprechender Kostenbeitrag erhoben wird.
+
+Tarif C
+Bei allen Veranstaltungen, die nicht unter Tarif A oder Tarif B fallen.
+
+5 Hausrecht
+
+Das Hausrecht übt die vom Oberbürgermeister/ der Oberbürgermeisterin ernannte Vertretung aus; neben dieser für die Dauer der Veranstaltung oder des Angebotes Dritten gegenüber auch die Mieterin/der Mieter für die ihr/ihm überlassenen Räume.
+
+6 In-Kraft-Treten
+
+Diese Benutzungsordnung tritt am 1. Januar 2016 in Kraft und ersetzt die Benutzungsordnung für das Bürgerhaus Reisholz/Hassels der Landeshauptstadt Düsseldorf vom 25.1.1996.
+
+Nach oben
