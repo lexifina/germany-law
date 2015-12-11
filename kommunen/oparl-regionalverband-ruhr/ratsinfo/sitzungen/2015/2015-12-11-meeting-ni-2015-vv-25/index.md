@@ -1,0 +1,83 @@
+# 7. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2015-12-11T11:00:00+01:00
+- Ende: 2015-12-11T13:55:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2015-VV-25
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2015-VV-25
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2015-VV-25
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VV-25
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VV-25
+
+## Tagesordnung
+
+- TOP -: Einführung und Verpflichtung neuer Mitglieder
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wahl eines/einer ersten. stellv. Vorsitzenden
+- TOP 2.2: Neuregelung der Aufgabenzuständigkeit der Fachausschüsse - insbesondere Strukturausschuss
+- TOP 2.2.1: Änderung der Neuregelung der Aufgabenzuständigkeit der Fachaus- schüsse – insbesondere Strukturausschuss, hier: Antrag der Fraktion Die Linke. vom 30.11.2015
+- TOP 2.3: Haushalt 2016
+- TOP 2.3.1: Benehmensherstellung mit den Mitgliedskörperschaften gemäß § 55 KrO NRW zur Verabschiedung der Haushaltssatzung 2016
+- TOP 2.3.1.1: Änderungsantrag der FDP-Fraktion zur Verbandsumlage
+- TOP 2.3.2: Verabschiedung des Haushaltes 2016
+- TOP 2.3.2.1: Verabschiedung des Haushaltes 2016 – Antrag: „Veränderungen im Haushaltplan zur Erfüllung von Aufgabenstellungen aus dem Strategie- und Zielkonzept des Verbandes“, Antrag der Fraktion Die Linke. vom 30.11.2015
+- TOP 2.3.2.2: Verabschiedung des Haushaltes 2016 Antrag: „Veränderungen in den Zielsetzungen und Zielen einzelner Referate“, Antrag der Fraktion Die Linke. vom 30.11.2015
+- TOP 2.3.2.3: Verabschiedung des Haushaltes 2016, Antrag der FWG-Fraktion vom 07.12.2015
+- TOP 2.3.2.4: Anträge zum Haushaltsplanentwurf 2016
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten je Maßnahme: Priorisierung der Maßnahmen für das Jahr 2016
+- TOP 1.2: Programm Radwegebau an bestehenden Landesstraßen: Priorisierung der Maßnahmen für das Jahr 2016
+- TOP 1.3: Neuaufstellung des ÖPNV-Bedarfsplan NRW 2017 hier: Anmeldung von Projektvorschläge zur fachlichen Bewertung
+- TOP 1.3.1: Aufstellung des ÖPNV-Bedarfsplans 2017 des Landes NRW Hier: Stellungnahme der Verwaltung
+- TOP 1.3.2: Weitere Projektvorschläge für den ÖPNV-Bedarfsplan NRW 2017
+- TOP 1.3.3: Neuaufstellung des ÖPNV-Bedarfsplans NRW 2017 Personelle Verstärkung des Bereiches Planung, Antrag der Fraktionen Die Linke. und Piraten vom 09.12.2015
+- TOP 1.4: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik – Kulturregionen Hellweg und Niederrhein hier: Beratung und Beschlussfassung 2016, Rückblick auf die Förderung 2015
+- TOP 1.5: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2016 Beratung und Beschlussfassung
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.6: Aufstellung des Landesentwicklungsplans NRW – Beteiligung der öffentlichen Stellen
+- TOP 1.7: Windenergie-Erlass NRW vom 4.11.2015
+- TOP 1.7.1: Windenergie-Erlass NRW vom 04.11.2015, hier: Anfrage der Fraktion Die Linke. vom 18.11.2015 im Planungsausschuss und Stellungnahme der Verwaltung vom 26.11.2015 und vom 07.12.2015
+- TOP 1.8: Regionale Kooperationsstandorte
+- TOP 1.9: Resolution zur Einbindung in die Programmaufstellung strukturwirksamer Förderprogramme
+- TOP 1.10: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 1.11: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Verwaltungsvorlagen
+- TOP 2.4: Satzung zur 5. Änderung der Verbandsordnung vom 11.12.2015
+- TOP 2.5: Umbesetzung in den Fachausschüssen
+- TOP 2.6: Anwendung des Gesetzes zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse
+- TOP 2.7: Wechsel in den Organen der Gesellschaften
+- TOP 2.7.1: 
+- TOP 2.7.2: Wechsel in den Gremien der Beteiligungsgesellschaften - Wirtschaftsförderung metropoleruhr GmbH - Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.8: Geonetzwerk.metropoleRuhr Vorstellung Zwischenbericht Evaluation
+- TOP 2.9: Dritter Regionaler Wohnungsmarktbericht
+- TOP 2.10: Stellungnahmen des RVR als Träger öffentlicher Belange zu drei konkurrierenden Anträgen auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen zu gewerblichen Zwecken im Raum Dorsten und Haltern am See Hier: 1. Antrag der Mingas Power GmbH für ein Feld 'Hohemark-Gas' 2. Antrag der Dart Energy (Europe) Limited für ein Feld 'Freiheit 1' 3. Antrag der PVG GmbH - Ressources Services & Management für ein Feld 'HalternGas Nord'
+- TOP 2.11: Fahrradverleihsystem metropolradruhr Hier: Sachstandsbericht
+- TOP 2.12: Einrichtung eines Notfall-Informationssystems für das Radwegenetz Ruhr
+- TOP 2.13: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben 'ABS 46/2 Dreigleisiger Ausbau der Strecke D/NL-Emmerich-Oberhausen und Bahnübergangsbeseitigungen, Planfeststellungsabschnitt (PFA) 1.1 Oberhausen' Hier: Planfeststellungsbeschluss vom 24.09.2015
+- TOP 2.13.1: Ausbau der Bahnstrecke Oberhausen - Emmerich - Grenze D/NL, hier: Stellungnahme der Verwaltung zur mündlichen Anfrage der Fraktion Die Linke. vom 30.11.2015
+- TOP 2.14: Planfeststellungsverfahren nach § 18 AEG für den dreigleisigen Ausbau der Strecke 'ABS 46/2, Grenze D/NL-Emmerich-Oberhausen' Planfeststellungsabschnitt (PFA) 1.3 Dinslaken Hier: Erörterungstermin am 25.11.2015
+- TOP 2.15: Planfeststellungsverfahren nach § 18 AEG für den dreigleisigen Ausbau der Strecke 'ABS 46/2, Grenze D/NL-Emmerich-Oberhausen' Planfeststellungsabschnitt (PFA) 1.4 Voerde Hier: Erörterungstermin am 18.11.2015
+- TOP -: Vorlagen aus dem Kultur-und Sportausschuss
+- TOP 2.16: Förderrichtlinien regionale Kulturförderung RVR
+- TOP 2.16.1: Förderanträge in „einfacher“ Sprache
+- TOP 2.17: Änderung Verwaltungsvereinbarung 'Nachhaltigkeit Kulturhauptstadt 2010'
+- TOP 2.18: Wissenschaftsregion Ruhr – Studie zur wirtschaftlichen Bedeutung, Fachkräfteeffekten, Innovationsimpulsen und Resolution Wissenschaftsregion Ruhr
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.19: 
+- TOP 2.19.1: Ergänzungsantrag der FDP-Fraktion
+- TOP 2.19.2: Angelegenheiten der Freizeitgesellschaften: Konzept Neustrukturierung – Verschmelzung, Antrag der Fraktion Die Linke. vom 30.11.2015
+- TOP 2.20: Angelegenheiten der Freizeitgesellschaften - Übernahme Geschäftsanteile des Ruhrverbandes an der Freizeitzentrum Kemnade GmbH
+- TOP 2.21: Feststellung Jahresabschluss zum 31.12.2014 und Lagebericht der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün Entlastung des Betriebsausschusses RVR Ruhr Grün Einführung einer forstlichen Ausgleichsrücklage
+- TOP 2.22: Angelegenheiten der Eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur - Jahresabschluss 2014
+- TOP 2.23: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2014 nach der Gemeindeordnung NRW (GO NRW)
+- TOP -: Vorlagen aus dem Betriebsausschuss RuhrGrün
+- TOP 2.24: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2016
+- TOP 2.25: Anfragen und Mitteilungen
+- TOP 2.25.1: Anfrage der FDP-Fraktion vom 27.10.2015 Kooperation in der Metropole Ruhr
