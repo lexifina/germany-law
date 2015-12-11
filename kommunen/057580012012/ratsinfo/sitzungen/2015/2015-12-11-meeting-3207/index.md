@@ -1,0 +1,62 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2015-12-11T16:00:00+01:00
+- Ende: 2015-12-11T20:05:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdvh8GTuIF28ozsbHewonyk
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3207
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXrnGufKA1dJ5o6mx7S01NMRH2kicnFMadJFBrUiKFYc/Einladung_Rat_11.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXbj4zN549wkvPuKVLYK0ac5NYX8pi4vezVeYycp0zq-/Oeffentliche_Niederschrift_Rat_11.12.2015.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 25.09.2015
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Geschäftskreise der Beigeordneten - (kein Text vorhanden)
+- TOP A.6: Allgemeine Vertretung des Bürgermeisters - (kein Text vorhanden)
+- TOP A.7: Einführung in das Amt der/des Beigeordneten
+- TOP A.31: Antrag B90/DIE GRÜNEN: Aufnahme und Eingliederung von zugewiesenen Flüchtlingen - (kein Text vorhanden)
+- TOP A.31a: Bericht zum Antrag der Fraktion B90/Die GRÜNEN
+- TOP A.8: Prüfung und Feststellung des Jahresabschlusses 2014, Ergebnisausgleich und Entlastung des Bürgermeisters - (kein Text vorhanden)
+- TOP A.9: Haushalt 2015: Auswirkungen des 3. Situationsberichts zur Haushaltswirtschaft 2015 - Erlass einer Nachtragssatzung zur Haushaltssatzung für das Haushaltsjahr 2015 - (kein Text vorhanden)
+- TOP A.10: Neuorganisation der Wirtschaftsförderung im Kreis Herford - (kein Text vorhanden)
+- TOP A.11: Eine Gesellschaft für alle - Herford inklusiv Hier: Teilhabeplanung für die Hansestadt Herford - (kein Text vorhanden)
+- TOP A.12: Steuerung von Drittorganisationen:
+- TOP A.12a: HVV-Konzern: a) Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen von HVV GmbH und WWS GmbH b) Beteiligungscontrolling: Geänderte Wirtschaftspläne 2015 und Wirtschaftspläne 2016 wesentlicher Tochterunternehmen - (kein Text vorhanden)
+- TOP A.12b: Energiebericht Herford Berichterstattung durch WWE
+- TOP A.12c: IAB: Änderung des Wirtschaftsplanes 2015 und Wirtschaftsplan 2016 incl. Mittelfristplanung - (kein Text vorhanden)
+- TOP A.12d: IAB: Änderung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (7.3.4) - (kein Text vorhanden)
+- TOP A.12e: IAB: Änderung der Entwässerungsanschlussbeitragssatzung (7.3.3) - (kein Text vorhanden)
+- TOP A.12f: IAB: Aufhebung der Satzung zur Abänderung der Fristen bei der Dichtheitsprüfung von privaten Abwasserleitungen gemäß § 61 a Abs. (3) bis (7) Landeswassergesetz (LWG) NRW für das Entwässerungsgebiet "Musikerviertel" - (kein Text vorhanden)
+- TOP A.12g: INTERKOMM GmbH: Wirtschaftsplan 2016 - (kein Text vorhanden)
+- TOP A.12h: KBR Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2014 und Wirtschaftsplan 2016 - (kein Text vorhanden)
+- TOP A.12i: Pro Herford GmbH: Durchführung der Osterkirmes 2016 im Bereich "Auf der Freiheit / Janup" - (kein Text vorhanden)
+- TOP A.13: Sportentwicklungs- und Sportstättenbedarfsplan
+- TOP A.14: Orte des Gemeinsamen Lernens in der Sekundarstufe I
+- TOP -: Beschlussantrag der Fraktion SPD zu TOP A.14
+- TOP A.15: Jugendförderung: Kinder- und Jugendförderplan 2016 - 2020 - (kein Text vorhanden)
+- TOP A.15a: Jugendförderung: Kinder- und Jugendförderplan 2016 - 2020 - (kein Text vorhanden)
+- TOP A.16: Sanierung Stadttheater Herford, Antrag auf Fördermittel hier: Genehmigung der dringlichen Entscheidung - (kein Text vorhanden)
+- TOP A.17: Finanzierungsbeiträge der Hansestadt Herford für die Nordwestdeutsche Philharmonie (NWD) und das Landestheater Detmold in den Jahren 2016 bis 2020 - (kein Text vorhanden)
+- TOP A.18: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.19: Durchführung verkaufsoffener Sonntage im Jahre 2016
+- TOP A.19a: Durchführung verkaufsoffener Sonntage im Jahre 2016 - (kein Text vorhanden)
+- TOP A.20: Stellungnahme der Stadt Herford zum Entwurf des Landesentwicklungsplanes (LEP NRW) im Rahmen des zweiten Beteiligungsverfahrens - (kein Text vorhanden)
+- TOP -: Beschlussantrag der Fraktion B90/DIE GRÜNEN zu TOP A.20
+- TOP A.21: Innenstadtkonzept ISEK: Verfügungsfonds - (kein Text vorhanden)
+- TOP A.22: Gebührenhaushalt Straßenreinigung 5. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - (kein Text vorhanden)
+- TOP A.23: Gebührenhaushalt Abfallentsorgung 2. Änderungssatzungen über die Abfallentsorgung und über die Kosten-deckung der Abfallentsorgung - (kein Text vorhanden)
+- TOP A.24: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.25: Anpassung der Krankentransportgebühren für 01.01.2016 - (kein Text vorhanden)
+- TOP A.26: Einrichtung eines Klimabeirats im Rahmen der Umsetzung des integrierten Klimaschutzkonzeptes der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.27: Termine der Ratssitzungen für das Jahr 2016 - (kein Text vorhanden)
+- TOP A.28: 10. Konferenz der Ratsmitglieder beim Städtetag NRW in Köln
+- TOP A.29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.30: Antrag SPD: Besetzungen in diversen Ausschüssen - (kein Text vorhanden)
