@@ -1,0 +1,116 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3501375
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3501375
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Strittige Prüfung und Sanierung häuslicher Abwasserleitungen
+- TOP 1.2.: Verkehrssituation Kreuzung Gräfelfinger Straße / Großhaderner Straße
+- TOP 1.3.: Haltestelle "Großhadern" Bus 56 in Richtung Fürstenried
+- TOP 1.4.: Fußgängerübergang Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.3.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung: Barrierefreie Querungen im Fuß- und Radverkehr Priorisierung bestehender und geplanter Querungsbauwerke (Referat für Stadtplanung und Bauordnung, 23.11.15)
+- TOP 6.2.: Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung: Umgestaltung Canisiusplatz (Referat für Stadtplanung und Bauordnung, 19.11.15)
+- TOP 6.3.: Verkehrsrechtliche Anordnung, hier: Kornwegerstraße Haltverbot (Kreisverwaltungsreferat, 10.11.15)
+- TOP 6.4.: Umstellung der Software für die BA-Hompages; Abfrage des Schulungsbedarfs und weiterer Planungen (Direktorium, 12.11.15)
+- TOP 6.5.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes (Direktorium, Stadtkämmerei, 04.11.15) dazu: Schreiben des BA 8 Schwanthalerhöhe vom 16.11.2015
+- TOP 6.6.: Änderung der BA-Satzung: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien, Antrag BA 17 - Obergiesing-Fasangarten (Direktorium, 09.11.15)
+- TOP 6.7.: Änderung der BA-Satzung: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 BA-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht, Antrag BA 16 - Ramersdorf-Perlach (Direktorium, 09.11.15)
+- TOP 6.8.: Änderung der BA-Satzung: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabischtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A", Antrag BA 16 - Ramersdorf-Perlach (Direktorium, 16.11.15)
+- TOP 6.9.: Barbierstraße 4, Errichtung eines Doppelhauses (Referat für Stadtplanung und Bauordnung, 23.11.15)
+- TOP 6.10.: Heiglhofstraße 17, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 24.11.15)
+- TOP 6.11.: Änderung der BA-Satzung: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U" in: "Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A", Antrag BA 16 - Ramersdorf-Perlach (Direktorium, 24.11.15)
+- TOP 6.12.: Austausch von Lichtsignalanlagen, hier: Menari- / Senftenauerstraße (Kreisverwaltungsreferat, 09.12.15)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Straße 122, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 21426
+- TOP 7.2.: Barbierstraße 4, gem. Baumbestandsplan Nr. 22352
+- TOP 7.3.: Heiglhofstraße 17, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24663
+- TOP 7.4.: Am Kornacker 7 a, 1 Fichte und 1 Thuja
+- TOP 7.5.: Berlstraße 3, 1 Birke
+- TOP 7.6.: Hallgartenstraße 2, 2 Fichten
+- TOP 7.7.: Sonnenblumenstraße 51, 1 Tanne
+- TOP 7.8.: Waldesruhe 6, 1 Kiefer
+- TOP 7.9.: Willibaldstraße 152, 1 Bergahorn
+- TOP 7.10.: Pfingstrosenstraße 8, 2 Fichten
+- TOP 7.11.: Willibaldstraße 110, 5 Fichten
+- TOP 7.12.: Nothkaufplatz 7, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 23641
+- TOP 7.13.: Buschrosenweg, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 25797
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 16.11.2015 und 20.11.2015
+- TOP 7.2.: Waldgartenstraße 17, 1 Birke (Referat für Stadtplanung und Bauordnung, 24.11.15)
+- TOP 7.3.: Luzernenweg 8, Fällung von 4 Eschen (Referat für Stadtplanung und Bauordnung, 23.11.15)
+- TOP 7.4.: Gräfelfinger Straße 50, 1 Fichte (Referat für Stadtplanung und Bauordnung, 26.11.15)
+- TOP 7.5.: Pfingstrosenstraße 10, 1 Birke (Referat für Stadtplanung und Bauordnung, 30.11.15)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Pfingstrosenstraße 46, Fällung von 2 Fichten (Referat für Stadtplanung und Bauordnung, 16.11.15)
+- TOP 7.2.: Gladiolenstraße 3, Fällung von 3 Fichten (Referat für Stadtplanung und Bauordnung, 19.11.15)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.2016 (Bürgermeisterin Christine Strobl, 19.11.15)
+- TOP 8.2.: Einbau einer Küche im Kinderhaus Wolkerweg, Gewährleistung wegen verstecktem Mangel (Direktorium, 30.10.15)
+- TOP 8.3.: Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigung (Direktorium, 13.11.15)
+- TOP 8.4.: Stadtbezirksübersicht Bestand und Planungen Flüchtlingsunterkünfte in München (Sozialreferat, 18.11.15)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Maenherstraße (Sozialreferat, 09.11.15) - Fürstenrieder Straße (Sozialreferat, 13.11.15) - Ludlstraße, Senftenauerstraße (Sozialreferat, 16.11.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Vorschlag für die Lage einer Streetworkaußenstelle im Stadtbezirk 20 (Sozialreferat, 16.11.15)
+- TOP 9.2.: Kompetenz vor Ort anerkennen und wertschäten - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht, Antwort an den BA 24 Feldmoching-Hasenbergl (Direktorium, 20.11.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Anfrage in der Bürgersprechstunde am Rand der Bürgerversammlung am 20.10.2015: Betriebszeiten der MVV-Regionalbuslinie 268 (MVG, 25.11.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Broschüre "Wir bewegen - Bildung und Sport in München" (Referat für Stadtplanung und Bauordnung, 17.11.15)
+- TOP 11.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 12.10.15 (Mieterbeirat, 03.11.15)
+- TOP 11.3.: Stadtratsantrag vom 29.10.2015: Umweltverbände und Öffentlichkeit frühzeitig in Planungsverfahren einbinden!
+- TOP 11.4.: Baustellenführung Guardinistraße 90 am Montag, 25.01.2016 um 16.00 Uhr (Kulturreferat, 09.11.15)
+- TOP 11.5.: Jour Fixe Bezirksausschüsse mit dem Kulturreferat, Protokoll der Sitzung vom 13.07.2015 (Kulturreferat, 29.10.15)
+- TOP 11.6.: Antrag BA 8 Schwanthalerhöhe vom 12.11.2015: Scharfkantige Randsteine
+- TOP 11.7.: BA-Infoveranstaltung MVG Rad am 22.02.2016 (SWM, 25.11.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 21.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03137: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork"
+- TOP 12.2.: Beschluss vom 21.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 2728: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 12.3.: Beschluss vom 30.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03603: Nahverkehrsplan (NVP) der Landeshauptstadt München a) Sachstandsbericht b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen d) Vergabe von Beratungs- und Gutachterleistungen e) Anträge und Empfehlungen
+- TOP 12.4.: Beschluss vom 30.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02432: Durchführung einer Schwerpunktbefragung zur sozialen und gesundheitlichen Lage
+- TOP 12.5.: Beschluss vom 21.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03584: Wohnen in München V 1. Erfahrungsbericht für die Jahre 2013/2014 2. Handlungsempfehlungen 2.1. Geförderter Mietwohnungsbau - Anpassung der Förderung für Projekte, um die Wirtschaftlichkeit trotz unabweisbarer Mehrkosten zu gewährleisten 2.2. Realisierung des Pilotprojekts Thierschstraße 10 (Rückgebäude) 2.3. Teilweiser Entfall der Anwendung der VOB/A in der Wohnraumförderung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02273: Verkehrssituation und verkehrliche Maßnahmen für den Münchner Südwesten
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04433: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02900: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels
+- TOP 12.4.: Beschluss des Bauausschusses vom 22.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03798: Toilettenanlage im Maßmannpark Öffentliche Toiletten in Grünanlagen Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02248: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03675: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04020: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04080: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04153: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04110: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03847: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II - Finanzierungsbeteiligung
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03401: Neuordnung der Bauberatung Evaluation der Probephase 01.11.2011 bis 01.12.2012 und der Organisationsprüfung Bauberatung (August 2013 bis Mai 2014); Kontinuierlicher Verbesserungsprozess bis heute
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 und Hinweis / Ergänzung vom 30.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03651: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen - Fachliche Bewertung der Ergebnisse der Machbarkeitsuntersuchungen - Priorisierungsvorschlag der drei optionalen Tunnelbaumaßnahmen für die Ringabschnitte Landshuter Allee, Tegernseer Landstraße und Isarring / Englischer Garten - Weiterer vertiefender Untersuchungsbedarf
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04142: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" A) Bekanntgabe des Konzeptgutachtens B) Vorbereitung der Öffentlichkeitsbeteiligung C) Behandlung des Antrags Nr. 14-20 / A 00044 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 06.06.2014 "Gründung einer Kommission für Grünflächen und Naturschutz"
+- TOP 12.5.: Hinweis / Ergänzung vom 18.09.2015 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordung und des Ausschusses für Arbeit und Wirtschaft vom 07.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03949: EU-Projekt Smarter Together Endgültiger EU-Antrag, Personal und Finanzierung
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04049: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04066: Mehrjahresinvestitionsprogramm 2015 - 2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019 Infrastrukturversorgungskonzept 2015 - 2019
+- TOP 12.3.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04372: Mehrjahresinvestitionsprogramm (MIP) 2015 - 2019 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04092: Entwurf des Mehrjahresinvestitionsprogramms 2015 - 2019 Einzelplan 4 / Jugendamtsbereich
+- TOP 12.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04109: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2015 - 2019, Einzelplan 4 / Sozialbereich
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
