@@ -1,0 +1,60 @@
+# Rat der Stadt Rheda-Wiedenbrück (9. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2015-12-14T17:00:00+01:00
+- Ende: 2015-12-14T20:03:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUlTkGoEjDB86VUcyxWIJZA
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1546
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbloDLEL2X9ZqoLLltfPz6YeSMciiPg1JDdjmBBKCLWt/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_14.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZZJL4fAaiA6_nHEyX8lWj1OJoUYXDQei0qSK7kXXv9B/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_14.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Wahl einer Beigeordneten und Bestellung zur Kämmerin - 31 Ja-Stimme(n), 2 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 5: Anträge des Seniorenbeirates vom 03.07. und 09.11.2015: Entsendung eines sachkundigen Einwohners in freiwillige Ausschüsse - Einstimmig
+- TOP 6: Änderung des § 14 der Hauptsatzung: Zahl der Beigeordneten - Einstimmig
+- TOP 7: Über- und außerplanmäßige Mittelbereitstellungen gem. § 83 GO NRW - Einstimmig
+- TOP 8: Neukalkulation der Abfallentsorgungsgebühren und Änderung der Satzung über die Abfallentsorgung und Abfallentsorgungsgebühren - Einstimmig
+- TOP 9: Straßenreinigung: 4. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig
+- TOP 10: Wirtschaftsplan für den Eigenbetrieb Abwasser für das Wirtschaftsjahr 2016; Vorlage des Entwurfs - 32 Ja-Stimme(n), 3 Enthaltung(en)
+- TOP 11: Neufassung der Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Rheda-Wiedenbrück (Erschließungsbeitragssatzung) - Einstimmig
+- TOP 12: Änderung der technischen Entwässerungssatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 13: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - Einstimmig
+- TOP 14: Wirtschaftsplan des Betriebes Bauhof für das Jahr 2016 - Einstimmig
+- TOP 15: Stiftung „Ausstellungs- und Begegnungsstätte Wiedenbrücker Schule“ - 33 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 16: Volkshochschule Reckenberg-Ems: Erhöhung der Zweckverbandsumlage ab 2016 - 34 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 17: Erhebung einer Umlage beim Zweckverband INFOKOM Gütersloh ab dem Jahr 2016 - Einstimmig
+- TOP 18: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2016 - 34 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 19: Antrag der FDP-Fraktion auf Durchführung eines Ratsbürgerentscheides zum Stadthallenneubau - 32 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 20: Aktuelle Flüchtlingssituation in Rheda-Wiedenbrück - Einstimmig
+- TOP 21: Brandschutzbedarfsplan der Stadt Rheda-Wiedenbrück - Fortschreibung 2015 - Einstimmig
+- TOP 22: Aufbau und Ausbau der Netzwerke Frühe Hilfen im Kreis Gütersloh, Frühe Hilfen in der Stadt Rheda-Wiedenbrück: Angebote und Leistungen - Einstimmig
+- TOP 23: Aufstellung des Bebauungsplans Nr. 397 „Simonssiedlung“ a) Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit nach § 3 Abs. 1 BauGB sowie der Offenlage nach § 3 Abs. 2 BauGB und der Beteiligung der berührten - Einstimmig
+- TOP 24: 4. Änderung des Bebauungsplans Nr. 012 „Auf der Schulenburg“ im vereinfachten Verfahren nach § 13 BauGB; Änderungsbeschluss a) Ergebnisse der Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB) und der Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs.2 Baugesetzbuch (BauGB) b) Satzungsbeschluss - Einstimmig
+- TOP 25: 3. Änderung des Bebauungsplans Nr. 018 „In der Schiffheide“ a) Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit nach § 3 Abs. 1 BauGB sowie der Offenlage nach § 3 Abs. 2 BauGB und der Beteiligung der berühr - Einstimmig
+- TOP 26: 79. Änderung des FNP a) Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden gem. § 4 (1) BauGB sowie der Beteiligung der Öffentlichkeit und der Behörden und son - Einstimmig
+- TOP 27: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge
+- TOP 28: Bericht zur Beschlusskontrolle
+- TOP 29: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 30: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 31: Erklärung von Ausschließungsgründen
+- TOP 32: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 33: Mitteilungen zum Erwerb der Berninger Software GmbH durch die regio IT sowie Beitritt zur noch zu gründenden „votemanager-Anwendungsgemeinschaft e. V.“ - Einstimmig
+- TOP 34: Ernennung des Leiters der Freiwilligen Feuerwehr Rheda-Wiedenbrück - 31 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 35: Abfallentsorgung – Verlängerung des Abfuhrvertrages um ein Jahr - Einstimmig
+- TOP 36: Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG: Erhöhung der Kapitalanteile der Gesellschaft und der Kapitaleinlage der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 37: Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG: Änderung des Gesellschaftsvertrages - Einstimmig
+- TOP 38: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2014 - 32 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 39: Vertragsangelegenheit - 27 Ja-Stimme(n), 6 Nein-Stimme(n)
+- TOP 40: Aktueller Stand der städtischen Geldanlagen
+- TOP 41: Bericht zur Beschlusskontrolle
+- TOP 42: Dringende Anfragen und Anregungen
