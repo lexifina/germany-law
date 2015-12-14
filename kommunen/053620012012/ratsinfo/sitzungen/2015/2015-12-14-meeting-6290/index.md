@@ -1,0 +1,112 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-12-14T17:00:00+01:00
+- Ende: 2015-12-14T22:27:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcEgOLZ5XWgz-9qfl2X6gIo
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6290
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZehQ6X4JaclhJidEVdtkjEMtHrITLHGsUmlBokdkDy-6/Bekanntmachung_Rat_14.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1yqsItZdtRKSGpwgx2GFnz78OMqClyZ01vuVSTbcLn/Oeffentliche_Niederschrift_Rat_14.12.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Containerdorf Brühl-Ost
+- TOP 1.2: Kapellenplatz Kierberg
+- TOP 1.3: Flüchtlinge Brühl-Ost
+- TOP 1.4: Kunstrasenplatz Vochem
+- TOP 1.5: Kunstrasenplatz Vochem
+- TOP 1.6: Park Römerstraße/Kaiserstraße/Luisenstraße
+- TOP 1.7: Informationspolitik Brühl-Ost
+- TOP 1.8: Kunstrasenplatz Vochem
+- TOP 1.9: Beschwerde über Ratsmitglied
+- TOP 1.10: Anliegerkosten Bebauungsplan 08.10
+- TOP 1.11: Fassade Kaufhof
+- TOP 1.12: Asylpaket I
+- TOP 1.13: Klimagipfel
+- TOP 1.14: Containderdorf Brühl-Ost
+- TOP 1.15: Kanal- und Straßenbaumaßnahme Badorfer Straße
+- TOP 1.16: Baugebiet Rosenhof
+- TOP 2.: Niederschrift vom 26.10.2015
+- TOP 3.: Verabschiedung Haushalt 2016
+- TOP 3.1: Haushaltssatzung 2016 hier: Stellenplan - (kein Text vorhanden)
+- TOP 3.1.1: Haushaltssatzung 2016 hier: Stellenplan Bezug: HA vom 30.11.2015 - (kein Text vorhanden)
+- TOP 3.1.2: Zusätzliche Stelle im Fachbereich 80, Mobilitätsmanagment Bezug: Antrag der Grünen-Fraktion vom 06.12.2015 - (kein Text vorhanden)
+- TOP 3.2:  - (kein Text vorhanden)
+- TOP 3.2.1: Kunstrasenplatz in Brühl-Vochem Bezug: Antrag der SPD-Fraktion vom 08.12.2015 - (kein Text vorhanden)
+- TOP 4.: Entwurf des Gesamtabschlusses 2012 Inanspruchnahme der Prüfungserleichterungen 2012-2014 - (kein Text vorhanden)
+- TOP 5.: Prüfung Jahresabschluss 2014 Bezug: RPA 07.12.2015
+- TOP 6.: Wirtschaftsplan der Gebausie für das Jahr 2016 - (kein Text vorhanden)
+- TOP 7.: Brandschutzbedarfsplan hier: Fortschreibung - (kein Text vorhanden)
+- TOP 8.: Rathaus B Rathaus B Teilabriss sowie Errichtung eines Neubaus zur Bündelung bürgernaher Dienstleistungen - (kein Text vorhanden)
+- TOP 9.: Flüchtlingsunterbringung: außerplanmäßige Ausgabe für die Errichtung eines Containerdorfs - (kein Text vorhanden)
+- TOP 9.1: Flüchtlingsunterbringung Bezug: Änderungsantrag der FDP-Fraktion vom 03.12.2015 - (kein Text vorhanden)
+- TOP 10.: Erneuerung Mischwasserkanal Markt zwischen Steinweg und Kirchstraße - (kein Text vorhanden)
+- TOP 10.1: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 11.: Überplanmäßige Ausgabe zur Errichtung von Prallschutz in städtischen Turnhallen - (kein Text vorhanden)
+- TOP 12.: Überplanmäßige Ausgabe hier: Sanierungsmaßnahmen "Rheinischer Hof" - (kein Text vorhanden)
+- TOP 13.: Kommunalinvestitionsförderungsgesetz (KInvFöG) hier: Maßnahmenliste/Mittelverwendung und üpl. Mittelbereitstellung in 2015 - (kein Text vorhanden)
+- TOP 14.: Überplanmäßige Mittelbereitstellung hier: Umbau des Gebäudes Theodor-Körner-Str. 21a zum Flüchtlingswohnheim - (kein Text vorhanden)
+- TOP 15.: Überplanmäßige Mittelbereitstellung und Budgetverschiebung - (kein Text vorhanden)
+- TOP 16.: Abwassergebührenkalkulation 2016 - (kein Text vorhanden)
+- TOP 17.: Annahme von projektgebundenen Spenden für die Kunst- und Musikschule - (kein Text vorhanden)
+- TOP 18.: Satzungen
+- TOP 18.1: 1. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen in der Kindertagesbetreuung der Stadt Brühl Bezug: JHA 19.11.2015 Vorlage 499/15 - (kein Text vorhanden)
+- TOP 18.1.1: 1. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen in der Kindestagesbetreuung der Stadt Brühl - (kein Text vorhanden)
+- TOP 18.2: 6. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS - (kein Text vorhanden)
+- TOP 18.2.1: 6. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS - - (kein Text vorhanden)
+- TOP 18.2.2: 6.Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS - - (kein Text vorhanden)
+- TOP 18.3: 3. Satzung zur Änderung der Hundesteuersatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 18.4: 6. Satzung zur Änderung der Satzung für das Jugendamt der Stadt Brühl - (kein Text vorhanden)
+- TOP 18.5: Satzung über die Erhebung von Gebühren für die Abfallbeseitigung - (kein Text vorhanden)
+- TOP 18.5.1: Gebührensatzungen der Anstalt öffentlichen Rechts - (kein Text vorhanden)
+- TOP 19.: Verordnung über das Offenhalten von Verkaufsstellen anlässlich des Frühlingsmarktes im Jahre 2016 in der Stadt Brühl - (kein Text vorhanden)
+- TOP 20.: Erhöhung der Parkgebühren und Ausweitung der Bewirtschaftungszeiten - (kein Text vorhanden)
+- TOP 20.1: Parkgebührenordnung - (kein Text vorhanden)
+- TOP 21.: Bebauungsplan 10.07 "Nördlich Winterburg" - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 22.: Bebauungsplan 04.08 "Sonder- und Gewerbegebiet Bergerstraße / Lise-Meitner-Straße" - Veränderungssperre gemäß § 14 - 18 BauGB - - (kein Text vorhanden)
+- TOP 23.: Bebauungsplan 01.01 'Giesler-Galerie', 1. Änderung - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 24.: Gestaltungssatzung zum Gebiet der 1. Änderung zum Bebauungsplan 01.01 'Giesler-Galerie' - (kein Text vorhanden)
+- TOP 25.: Phantasialand-Erweiterung - Siedlungsflächenausgleich - - (kein Text vorhanden)
+- TOP 26.: Schulentwicklungsplan, Fortschreibung 2015 - (kein Text vorhanden)
+- TOP 26.1: Schulentwicklungsplan hier: Antrag der SPD-Fraktion vom 27.11.2015 - (kein Text vorhanden)
+- TOP 27.: Kriterienkatalog für Offene Ganztagsgrundschulen in Brühl Bez.: Ratsbeschluss vom 27.04.2015 - (kein Text vorhanden)
+- TOP 28.: Kindertagesbetreuung in Einrichtungen hier: 1. Neubau einer Kindertagesstätte mit vier Gruppen in der nördlichen Innenstadt 2. Einrichtung einer Kindertagesstätte in der Domäne Walberberg ab 01.08.2016 als Vorläufereinrichtung für eine weitere Kita im Brühler Süden 3. bei Bedarf die Einrichtung von bis zu zwei weiteren Minikindergartengruppen ab 01.08.2016 - (kein Text vorhanden)
+- TOP 28.1: Kindertagesbetreuung in Einrichtungen hier: 1. Neubau einer Kindertagesstätte mit vier Gruppen in der nördlichen Innenstadt 2. Einrichtung einer Kindertagesstätte in der Domäne Walberberg ab 01.08.2016 als Vorläufereinrichtung für eine weitere Kita im Brühler Süden 3. bei Bedarf die Einrichtung von bis zu zwei Minikindergartengruppen in freier Trägerschaft ab 01.08.2016 Bezug: JHA vom 19.11.2015 - (kein Text vorhanden)
+- TOP 29.: Kindertagesbetreuung in Einrichtungen hier: Antrag des Waldkindergarten Brühl e.V. auf Gewährung eines zusätzlichen Baukostenzuschusses für einen zweiten Waldkindergarten - (kein Text vorhanden)
+- TOP 30.: Kulturfördergesetz NRW: hier: Fördervereinbarung Land NRW mit der Stadt Brühl betreffend Förderung der Brühler Schlosskonzerte e.V. - (kein Text vorhanden)
+- TOP 31.: Veranstaltungskonzept "Brühler Sommer" KPTA vom 21.09.2015 - (kein Text vorhanden)
+- TOP 32.: Dringlichkeitsentscheidung hier: Bestellung des Vorstandes für den Stadtservicebetrieb Brühl -Anstalt öffentlichen Rechts- - (kein Text vorhanden)
+- TOP 33.: Anträge
+- TOP 33.1: Einrichtung eines Arbeitskreises "Fahrradfreundliches Brühl" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 16.11.2015 - (kein Text vorhanden)
+- TOP 33.2: Städtisches Immobilienmanagement hier: Antrag der GRÜNE-Fraktion vom 30.11.2015 - (kein Text vorhanden)
+- TOP 34.: Umbesetzung in Ausschüssen
+- TOP 34.1: Umbesetzung im Sozialausschuss Bezug: Antrag der Brühler Initiative für Völkerverständigung vom 19.10.2015 - (kein Text vorhanden)
+- TOP 34.2: Umbesetzungen im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 34.3: Beratende Sitze im Schul- und Jugendhilfeausschuss hier: Schreiben Stadtjugendring vom 02.11.2015 - (kein Text vorhanden)
+- TOP 34.4: Umbesetzung im Hauptausschuss Bezug: Antrag der Fraktion Linke & Piraten vom 29.11.2015 - (kein Text vorhanden)
+- TOP 35.: Mitteilungen
+- TOP 35.1: Baustellenbericht
+- TOP 36.: Anfragen
+- TOP 36.1: Fassade An Maria Glück
+- TOP 36.2: Bebauungsplan 08.10
+- TOP 36.3: P&R Parkplatz Schwadorf
+- TOP 36.4: Zahlungen des Landes für Flüchtlingsunterkünfte
+- TOP B): Nichtöffentliche Sitzung
+- TOP 37.: Prüfung Jahresabschluss 2014 - (kein Text vorhanden)
+- TOP 38.: Zustimmung zum Städtebaulichen Vertrag im Bereich des künftigen Bebauungsplanes 08.10, 1. Änderung "Am Krausen Baum/Liblarer Str." - (kein Text vorhanden)
+- TOP 39.: Haushaltssatzung 2015 hier: Erläuterungen zum Stellenplan 2016 - (kein Text vorhanden)
+- TOP 40.: Kreditaufnahmen
+- TOP 40.1:  - (kein Text vorhanden)
+- TOP 40.2: Kauf und Umbau Theodor-Körner-Str. 21 -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 40.3: Kauf und Herrichtung von Containern zur Unterbringung von Flüchtlingen -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 41.: Inanspruchnahme Restkreditermächtigung 2014 in 2015 - (kein Text vorhanden)
+- TOP 42.: Lieferung und Montage von Raumcontaineranlagen (Schlosserarbeiten) - (kein Text vorhanden)
+- TOP 43.: Mitteilungen
+- TOP 44.: Anfragen
+- TOP 44.1: Planungen Bergerstraße / Zuckerfabrik
