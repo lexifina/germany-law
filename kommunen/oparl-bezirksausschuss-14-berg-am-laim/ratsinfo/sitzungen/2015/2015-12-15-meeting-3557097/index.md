@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3557097
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3557097
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Friedenstr. 20 - befristete Errichtung eines Autoverkaufsplatzes bis zum 31.12.2018
+- TOP 3.2.: Berg-am-Laim-Str. 45, Bürozentrum Berg am Laim - Revitalisierung Fassade und Eingangsbereiche, Brandschutzmaßnahmen
+- TOP 3.3.: Gustav-Schwab-Str. 15, Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID
+- TOP 3.4.: Anzinger Str. 41, Neubau der Feuerwache 5 mit Fahrzeughallen für Feuerwehr und Katastrophenschutz, Büro- und Lagerflächen, Werkstätten, druckkammer und Übungsturm sowie Abbruch der alten Feuerwache 5
+- TOP 3.5.: Barrierefreie Querungen im Fuß- und Radverkehr; Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung
+- TOP 3.1.: Ampelschaltung Berg-am-Laim-Straße/Baumkirchner Straße Antrag Nr. 14-20/B 01716 des BA 14 vom 27.10.2015 Antwortschreiben
+- TOP 3.2.: Austausch von Lichtsignalanlagen hier: Berg-am-Laim-/Schlüsselbergstraße
+- TOP 3.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigten Nutzung A" Antrag Nr. 14-20/B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015 Anhörung
+- TOP 3.1.: Berg-am-Laim-Str. 127-129, Baumfällungen
+- TOP 3.2.: Hohenbrunner Str. 26 A
+- TOP 3.3.: Rauschbergstr. 9
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im 14. Stadtbezirk Berg am Laim
+- TOP 4.2.: Scharfkantige Randsteine Antrag des BA 8 Schwanthalerhöhe
+- TOP 4.3.: Neuordnung der Bauberatung Sitzungsvorlage Nr. 14-20/V 03401
+- TOP 4.4.: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren Sitzungsvorlagen Nr. 14-20/V 04433
+- TOP 4.5.: Strukturwandel in der Innenstadt und in den Innenstadtrandgebieten Sitzungsvorlage Nr. 14-20/V 02248
+- TOP 4.6.: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Sitzungsvorlage Nr. 14-20/V 04049
+- TOP 4.7.: Mehrjahresinvestitionsprogramm 2015 - 2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019 Infrastukturkonzept 2015 - 2019 Sitzungsvorlage Nr. 14-20/V 04066
+- TOP 4.8.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion Sitzungsvorlage Nr. 14-20/V 03675
+- TOP 4.9.: Mehr Mülleimer in Grünanlagen, Parks und auf Plätzen mit Bänken in Berg am Laim; Empfehlung Nr. 14-20/E 00464 der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim vom 26.03.2015 Sitzungsvorlage Nr. 14-20/V 04126 Antwortschreiben
+- TOP 4.10.: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" Sitzungsvorlage Nr. 14-20/V 04142
+- TOP 4.1.: Protokoll des Jour Fixe der Bezirksausschüsse am 13.07.2015 im NS-Dokumentationszentrum
+- TOP 4.2.: Sichere Überquerung für Fahrradfahrer St.-Michael-Straße/Höhe Bad-Kreuther-Straße Antrag Nr. 14-20/B 01658 des BA 14 vom 29.09.2015 Antwortschreiben
+- TOP 4.3.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB u.a. im 14. Stadtbezirk Berg am Laim Sitzungsvorlage Nr. 14-20/V 02840 Antwortschreiben
+- TOP 4.4.: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen Sitzungsvorlage Nr. 14-20/V 03651
+- TOP 4.5.: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II Finanzierungsbeteiligung Sitzungsvorlage Nr. 14-20/V 03847
+- TOP 4.1.: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" Sitzungsvorlage Nr. 14-20/V 03137
+- TOP 4.2.: 1. Schulausbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.2016
+- TOP 4.3.: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 14-20/V 04327
+- TOP 4.1.: Übersicht der Flüchtlingsunterkünfte in München
+- TOP 4.2.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale Sitzungsvorlage Nr. 14-20/V 04020
+- TOP 4.3.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 14-20/V 04153
+- TOP 4.4.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 14-20/V 04080
+- TOP 4.5.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 14-20/V 04110
+- TOP 4.1.: Mags & More e.V. - Verwendungsnachweis
+- TOP 4.2.: Münchner Tafel Berg am Laim - Verwendungsnachweis
+- TOP 4.3.: Münchner Tafel Berg am Laim - Dankschreiben an BA 14
+- TOP 4.4.: Initiative der Klassensprecher der Klasse 4 c der Grundschule Berg-am-Laim - Rücknahme Antrag auf Budget
+- TOP 4.5.: IG Klettern München und Südbayern e.V. - Bewilligungsbescheid
+- TOP 4.6.: Vertretungsregelung in den Unterausschüssen; Abrechnung der Aufwandsentschädigung Informationsschreiben
+- TOP 4.7.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP 4.1.: Baureferat - Gartenbau Unterrichtung über Baumfällungen im 14. Stadtbezirk
+- TOP 4.2.: Truderinger Str. 128
+- TOP 4.3.: Großvenedigerstr. 49
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 1: (E) Durchsetzung des verkehrsberuhigten Bereichs Anne-Frank-Anger / Jella-Lepmann-Straße Empfehlung Nr. 14-20 / E 00463 der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim am 26.03.2015
+- TOP 1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmungserweiterung der Gesamtstrecke des Inzeller Weges
+- TOP 1.3.: (E) Straßenbenennung im 14. Stadtbezirk Berg am Laim Mattoneplatz
+- TOP 1.4.: (E) Straßenbenennung im 14 Stadtbezirk Berg am Laim Atelierstraße
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
