@@ -1,0 +1,96 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3491369
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3491369
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Einwohnerversammlung für Kinder und Jugendliche im 2. Stadtbezirk vom 19.11.2015, Ergebnisse und Anträge a) Verbesserte Spielmöglichkeiten im 2. Stadtbezirk b) Kinderschutz bei öffentlichen Plakatierungen c) Räume für den Pfadfinderstamm Pegasus, bisher Pestalozzistraße 62 d) Schulwegsicherheit im 2. Stadtbezirk
+- TOP .2.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP .1.: Bürgeranliegen aus der Nachbarschaft Teestube Zenettistraße
+- TOP .2.: Kulturzentrum Südbahnhof 2/6
+- TOP .3.: Flüchtlinge/Wohnungslose
+- TOP .4.: Offener Bücherschrank
+- TOP .5.: Viehhof
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Zenettistraße 13, Nachtrag der ehemaligen Wartehallte, später Büro- und Kassengebäude in die Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG)
+- TOP .2.: Erhardtstraße 10, Neubau eines Wohngebäudes (VGB + RGB) mit Tiefgarage - Vorbescheid
+- TOP .3.: Waltherstraße 26, Abriss eines nicht ausgebauten DG, Neubau DG auf MFH, Errichtung Balkone, Fluchtleitern und Aufzug
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Nußbaumstraße 26, Baumfällungsantrag vom 19.11.2015 einer Robinie
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Erhardtstraße 10, Bauvorbescheid, Vorstellung des Architekten im Unterausschuss
+- TOP .2.: Kreuzung Isartalstraße / Dreimühlenstraße Rollstuhl-, Kinderwagen- und Fußgängerfreundliche Gestaltung, vgl. TOP 2015.07 B 3.3.2 - Stellungnahme; Vertagung aus 2015.11 B 3.3.1
+- TOP .3.: Arnulfstraße, Änderung der vorhandenen Werbeanlagen an der Ecke Paul-Heyse Unterführung / Arnulfstraße in hinterleuchtete Wechselwerber; Vertagung aus 2015.11 B 3.3.3 (N) - Eilentscheidung
+- TOP .1.: Sondernutzungsgebührensatzung: Einstufung im Dreimühlenviertel senken
+- TOP .2.: Begrünung der Schwanthalerstraße und der Landwehrstraße
+- TOP .3.: Fahrradstreifen in der Schwanthalerstraße
+- TOP .4.: Freilegung des überbauten Glockenbaches in der Pestalozzistraße und Begrünung der Pestalozzistraße
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Goethestraße 7a, Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Ruppertstraße - Fußgängerüberweg
+- TOP .3.2: Verkehr
+- TOP .1.: Barrierefreie Querungen im Fuß- und Radverkehr, Priorisierung bestehender und geplanter Querungsbauwerke, Entwurf einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung, Anhörung der Bezirksausschüsse (Termin 11.01.2016)
+- TOP .1.: Bürgeranliegen: Geruchsbelästigung Schlachthof unterbinden
+- TOP .2.: Bürgeranliegen: Oktoberfest; Situation am Esperantoplatz, sowie in der Mozart- und Schubertstraße
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: Umstellung der Software für die BA-Homepages; Abfrage des Schulungsbedarfs und weiterer Planungen
+- TOP .2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: ?Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? in: ?Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? BA-Antrags-Nr. 14 ? 20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 ? Ramersdorf-Perlach vom 16.04.2015 Anhörungsschreiben des Direktoriums vom 16.11.2015
+- TOP .3.: Bürgerhaushalt - Fragen zur Umsetzung; Vertagung aus 2015.11 D 1.3
+- TOP .4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Bezirksausschuss-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht, BA-Antrags-Nr. 14-20 /B 01092 des BA 16 - Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 09.11.2015; Vertagung aus 2015.11 D 1.4
+- TOP .5.: Besetzung der Unterausschüsse, Vertagung aus 2015.11 D 1.6
+- TOP .6.: Berufung einer (eines) Kulturbeauftragten; PLENUMSBESCHLUSS
+- TOP .7.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U" in: "Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A" BA-Antrags-Nr. 14 - 20 / B 01092 des BA 16 vom 16.04.2015 Anhörungsschreiben des Direktoriums vom 24.11.2015; PLENUMSBESCHLUSS
+- TOP .2: Termine
+- TOP .1.: Unterausschuss "Kultur, Jugend, Soziales" am Montag, den 11.01.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München. Unterausschuss "Öffentlicher Raum, Mobilität" am Dienstag, den 12.01.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München. Unterausschuss "Planen, Bauen" am Mittwoch, den 13.01.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München. Die Vorstandssitzung findet am Montag, den 18.01.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 26.01.2016 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Kälteschutzprogramm der Landeshauptstadt München, Evaluation der Kälteperiode 2014/2015, Einrichtung und Betrieb eines Kälteschutzraums für die Kälteperiode 2015/2016, Unbefristete Finanzierung einer zusätzlichen Vollzeitstelle Sozialpädagogik für das Tagesangebot FamAra; Sitzungsvorlage Nr. 14-20 / V 03977; Beschluss der Vollversammlung des Stadtrates vom 21.10.2015
+- TOP .4.: Sozialreferat, Beschlussvorlage Haushaltsplan 2016, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger?, - der Zentrale, Sitzungsvorlage Nr. 14-20 / V 04020 - des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 04080 - des Stadtjugendamtes, Sitzungsvorlage Nr. 14-20 / V 04153 - des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 04110
+- TOP .5.: Kulturreferat, Beschlussentwurf Münchner Volkstheater (MVT) Neubau auf dem Viehhofgelände, Grundsatzbeschluss Klärung der Bauherrenrolle, weitere Vorgehensweise u.a. Städtebauliche Planung für das Viehhof-Gelände um Zusammenhang mit dem Bauvorhaben, vgl. BA Antrag Nr. 14 - 20 / B 00815 vom 27.01.2015 und mit Einbeziehung des BA 2 in die Planung, vgl. BA-Antrag Nr. 14 - 20 / B 00816 vom 27.01.2015; Gemeinsame Sitzung des Kulturausschusses und des Kommunalausschusses vom 10.12.2015; Beschluss der Vollversammlung des Stadtrates vom 16.12.2015 - Neufassung vom 26.11.2015
+- TOP .6.: Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.2016 zum Thema: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP .7.: Mehrjahresinvestitionsprogramm (MIP) 2015 - 2019 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 14 - 20 / V 04372 Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 02.12.2015 - Kurzübersicht
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion, Antrag Nr. 08 - 14 /A 04626 vom 12.09.2013, BA-Antrag Nr. 08 - 14 / B 05259 des BA 15 vom 19.09.2013, Sitzungsvorlagen Nr. 14 - 20 / V 03675, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (SB)
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Strukturwandel in der Innenstadt und Innenstadtrandgebieten, a) Städtische Flächenreserven gezielt nutzen, Antrag Nr. 08 - 14 / A 02544 vom 08.06.2011 und b) Städtbauliche Instrumente zum Schutz gewachsener Struckturen aufzeigen, Antrag Nr. 08 - 14 / A 02545 vom 08.06.2011, Sitzungsvorlagen Nr. 14 - 20 / V 02248, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (SB)
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 hier: Natur- und Denkmalschutz, Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Lokalbaukommission, Stadtplanung, Städtebauförderung, Wohnungsbauförderung, Wohnungsfürsorge, Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 6, 7, 9, 20, 21, 24 und 25,Sitzungsvorlgen Nr. 14 - 20 / V 04049, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB)
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm 2015 - 2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019 und Infrastrukturversorgungskonzept 2015 - 2019 Sitzungsvorlagen Nr. 14 - 20 / V 04066, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB)
+- TOP .6.: Bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 7: (E) Uhr am Baldeplatz Empfehlung Nr. 14-20 / E 00213 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 06.11.2014
+- TOP 7.8.: Referat für Stadtplanung und Bauordnung; Beschlussvorlage Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen, Antrag Nr. 14 - 20 / A 01072 vom 22.05.2015 Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur, Antrag Nr. 14 - 20 / A 01073 vom 22.05.2015; Sitzungsvorlagen Nr. 14 - 20/V 04903, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 (VB)
+- TOP 7.9.: Referat für Stadtplanung und Bauordnung; Bekanntgabe Beschlussvollzugskontrolle (BVK), Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 bis 30.06.2015, Sitzungsvorlagen Nr. 14 - 20 / V 04552
+- TOP 7.1.: Versammlungen unter freiem Himmel
+- TOP 7.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP 7.3.: Unveränderte Gaststättenfortführungen
+- TOP 7.4.: Verkehrsrechtliche Anordnungen
+- TOP 7.5.: Erlaubnisbescheide
+- TOP 7.6.: Bürgeranfragen bzgl. Christbaumverkauf auf der Theresienwiese, Antworten des Referates für Arbeit und Wirtschaft vom 20.11.2015
+- TOP 7.7.: Kreisverwaltungsreferat, Beschlussvorlage CarSharing in München Evaluationsergebnisse des Pilotversuchs und Empfehlungen und Förderung von CarSharing und Elektro-CarSharing in München, Beschluss des Kreisverwaltungsausschusses vom 15.12.2015 (VB), Sitzungsvorlage Nr. 14 - 20 / V 04808
+- TOP 7.8.: Bürgeranliegen Trambahnverspätung durch die Ampelanlage Arnulf-/Luisen-/Prielmayerstraße, vgl. TOP 2015.10 C 5.4; Antwortschreiben des Kreisverwaltungsreferates vom 09.11.2015 und weiterer Schriftverkehr mit dem Bürger
+- TOP 7.9.: Bürgeranliegen: Mehr Sitzbänke am Stephansplatz, vgl. TOP 2015.11 C 5.2; Informationsschreiben des Baureferates vom 02.12.2015
+- TOP 7.1.: Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 7.2.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung - Einhaltung der Anhörungsfrist
+- TOP 7.3.: Erleichterung der BA-Arbeit für Menschen mit Beeinträchtigung, BA-Antrag Nr. 14 - 20 / B 01123 des BA 11 vom 08.04.2015; Schreiben des Direktoriums vom 27.11.2015
+- TOP 7.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Überquerungshilfe für Kinder über die Thalkirchnerstraße Höhe Waltherstraße
+- TOP .1.: (E) Budget der Bezirksausschüsse IG Initiativgruppe Interkulturelle Begegnung und Bildung e.V. Hausaufgabenbetreuung von Januar bis Juli 2016
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
