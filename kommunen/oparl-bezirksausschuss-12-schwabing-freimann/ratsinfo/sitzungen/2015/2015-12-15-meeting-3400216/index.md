@@ -1,0 +1,113 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3400216
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3400216
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 10: sonstiges
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 7.1.: Vertretungsregelungen in den Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 7.2.: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen sind ? Änderung des Verfahrens
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Umstellung der Software für die BA-Homepages: Abfrage des Schulungsbedarfs und weiterer Planungen
+- TOP 9.2.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von ?Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? in ?Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Barrierefreie Querungen im Fuß- und Radverkehr, Anhörung zu einem Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.1.: Fehlende Recyclingcontainer im Bereich Otl-Aicher-Straße
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Absolutes Haltverbot vor den Zufahrten zum Nordfriedhof an der Ungererstraße
+- TOP 5.2.2.: Freisinger Landstraße/Gut Großlappen/Klärwerk Großlappen/Wallnerstraße: Stilllegung und Umhängung einer Wasserhauptleitung ? verlängert vom 23.11.2015 bis 22.01.2016
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Eilentscheidung des Vorsitzenden: Zustimmung zu Dreharbeiten für die Serie ?Unter Verdacht? am 29.11.2015 in der Heinrich-Kley-Straße/Weißenhofweg
+- TOP 5.3.2.: Austausch der beiden Gasturbinen im Heizkraftwerk Freimann ? Ergebnisse der Besprechung zur Umweltverträglichkeitsprüfung
+- TOP 5.3.3.: CarSharing in München; Sitzungsvorlage Nr. 14-20 / V 04808; Beschlussvorlage für den Kreisverwaltungsausschuss am 15.12.2015
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 4: Bürgeranliegen (2)
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1.: ?Jugend im öffentlichen Raum ? Ausbau der regionalen, stadteilorientierten Streetwork? Sitzungsvorlage Nr.: 14-20 / V 03137 Beschluss der Vollversammlung des Stadtrates vom 21.10.2015
+- TOP 5.2.: Verwendungsnachweise a) Domagkateliers gGmbH für die offenen Ateliertage am 03. bis 05.07.2015 b) 84GHz für ?Kunst im Karrée? 2015
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Wannda e.V. auch 2016 in Freimann
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Pilsdoktor?, Schank- und Speisewirtschaft, Leopoldstraße 124
+- TOP 5.2.2.: ?Saha?, Schank- und Speisewirtschaft, Giselastraße 10
+- TOP 5.2.3.: ?Drugstore?, Schank- und Speisewirtschaft, Feilitzschstraße 12
+- TOP 5.2.4.: Schank- und Speisewirtschaft der Kleingartenanlage NO 58, Domagkstraße 31
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.2.: Entwurf des Mehrjahresinvestitionsprogramms 2015 ? 2019 Einzelplan 4 / Sozialbereich Sitzungsvorlage Nr. 14-20 / V 04109 Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses am 01.12.2015
+- TOP 5.3.4.: Entwurf des Mehrjahresinvestitionsprogramms 2015 ? 2019 Einzelplan 4 / Sozialbereich Sitzungsvorlage Nr. 14-20 / V 04109 Beschlussvorlage für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses am 01.12.2015
+- TOP 5.3.5.: Mehrjahresinvestitionsprogramm (MIP) 2015-2019: 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen; 2. Stellungnahmen der Bezirksausschüsse - Sitzungsvorlage Nr. 14-20 / V 04372, Beschlussvorlage für die gemeinsame Sitzung des Bildungs- und des Sozialausschusses am 02.12.2015
+- TOP 5.3.6.: Eilentscheidung des Vorsitzenden: Zustimmung zu einem gewerblichen Feuerwerk am 04.12.2015 am Helene-Wessels-Bogen 39 (METRO im Euro-Industriepark)
+- TOP 5.3.7.: Zuwendungsbewilligung: Seidlvilla-Verein e.V. für das Jazzfestival am 07./08.05 2016 ? Zuschuss in Höhe von 3.137 Euro
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: Feilitzschstraße 7-9, Aufstellen einer Warenauslage für Obst und Gemüse
+- TOP 2.2.: Feilitzschstraße 7-9, Aufstellen zweier mobiler Fahrradständer
+- TOP 2.3.: Hohenzollerstraße 36, Aufstellen von neuen Verkaufseinrichtungen
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Grohplatz 4, Fällung eines Trompeten- und eines Kirschbaums
+- TOP 3.1.2.: Oberjägerstraße 15, Fällung zweier Nadelbäume
+- TOP 3.1.3.: Rappoltsteiner Straße 9, Fällung eines mehrstämmigen Säulenwacholders
+- TOP 3.1.4.: Josef-Wirth-Weg 16, Fl.Nr. 526/4, Neubau eines Doppelhauses mit 2 Einzelgaragen ? Fällung einer Blautanne
+- TOP 3.1.5.: Lillweg 8 - Vorbescheid, Fl.Nr. 522/53, Neubau eines Mehrfamilienhauses mit Tiefgarage (als Anbau) ? Baumfällungen gemäß Plan
+- TOP 3.1.7.: Ungererstraße 35, Fl.Nr.: 924/68, Errichtung eines Mehrfamiienhauses (11 WE) mit Tiefgarage ? Fällung von fünf Bäumen gemäß Plan
+- TOP 3.1.8.: Frankfurter Ring 150, Fl.Nr.: 265/0, Erneuerung Fassade, Verlegung Hauseingang, Einbau einer Ladeneinheit im EG, Nutzungsänderung Fitnesscenter zu Büro (4. OG), Werbeanlage Fällung von drei Bäumen gemäß Plan
+- TOP 3.1.9.: Wilhelm-Hertz-Straße 6-36, Fällung eines Spitzahorns
+- TOP 3.1.10.: Heimstättenstraße 2, Fällung einer Schwarzkiefer
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Vorbescheid Freisinger Landstraße, Fl.Nr.: 544/15, Errichtung eines Betriebsleiterwohnhauses auf einer bestehenden Wasserkraftanlage
+- TOP 3.2.2.: Heidemannstraße 182, Fl.Nr.: 170/49, Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.2.3.: Frankfurter Ring, Fl.Nr.: 264/0, Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 4: Bürgeranliegen (3)
+- TOP 4.1.: Anfragen zum Bauvorhaben Berliner Straße 85 (Nutzungsänderung mit Umbau Bürogebäude zu Hotel)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Beseitigung von Gefahrenbäumen im Straßenbegleitgrün und auf dem Nordfriedhof durch das Baureferat Gartenbau
+- TOP 5.2.2.: Beseitigung von Gefahrenbäumen durch das Baureferat Gartenbau in Freimann
+- TOP 5.2.3.: Domagkstraße 34/Wilhelm-Wagenfeld-Straße 16-20: Fällung von vier Birken
+- TOP 5.2.4.: Beseitigung von Gefahrenbäumen durch das Baureferat Gartenbau in der Freisinger Landstraße und der Hilsbacher Straße
+- TOP 5.2.5.: Beseitigung von Gefahrenbäumen durch das Baureferat Gartenbau in Schwabing
+- TOP 5.2.6.: Beseitigung von weiteren Gefahrenbäumen durch das Baureferat Gartenbau in Schwabing
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Baumaßnahmen der Stadtwerke a) Stromprojekt Hohenzollernstraße ? Änderung im Terminablauf
+- TOP 5.3.2.: Mehrjahresinvestitionsprogramm 2015-2019: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015-2019; Infrastrukturversorgungskonzept 2015-2019 Sitzungsvorlage Nr. 14-20 / V 04109; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 02.12.2015
+- TOP 5.3.3.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019: Gliederungsziffern des Referates für Stadtplanung und Bauordnung; Stellungnahmen zu den Anträgen der Bezirksausschüsse Sitzungsvorlage Nr. 14-20 / V 04049; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 02.12.2015
+- TOP 5.3.4.: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten Sitzungsvorlage Nr. 14-20 / V 02248; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 02.12.2015
+- TOP 5.3.5.: Anträge für Warenauslagen mit Kleidung (Kleiderständer) auf öffentlichen Gehwegen vor Einzelhandelsgeschäften: Entscheidung des Oberbürgermeisters in den Fällen Marktstr. 18, Hohenzollernstr. 36 und Occamstr. 1
+- TOP 5.3.6.: Beschlussvollzugskontrolle (BVK) über Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 bis 30.06.2015; Sitzungsvorlage Nr. 14-20 / V 04552; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 09.12.2015
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 3.2.4.: Tektur Kunigundenstraße 31-33, Fl.Nr.: 922/30, DG-Ausbau und Anbringen eines Wärmedämmverbundsystems
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Rationaltheater München e.V. Beschaffung eines Videobeamers
+- TOP 5.3.3.: Haushaltsplan 2016 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Sozialreferats: Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses am 01.12.2015 Zentrale (Sitzungsvorlage Nr. 14-20 / V 04020) Stadtjugendamt (Sitzungsvorlage Nr. 14-20 / V 04080) Amt für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 04153) Amt für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 04110)
+- TOP 3.1.6.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Anni-Albers-Straße ? Tektur, Fl.Nr. 865/11, Neubau eines Interimsparkplatzes für Pkw ? Baumfällungen gemäß Plan
