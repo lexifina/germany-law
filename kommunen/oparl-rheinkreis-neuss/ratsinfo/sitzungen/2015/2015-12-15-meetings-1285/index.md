@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2015-12-15T15:00:00+01:00
+- Ende: 2015-12-15T18:27:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1285
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1285
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_Kreistag_15.12.2015_öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00035554.pdf
+- Ergebnisprotokoll: Einladung_Kreistag_15.12.2015_öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00035554.pdf
+- Wortprotokoll: Einladung_Kreistag_15.12.2015_öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00035554.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Verpflichtung und Einführung eines neuen Kreistagsabgeordneten
+- TOP 3: Prüfung der Gültigkeit der Wahl zum Landrat des Rhein-Kreises Neuss am 13.09.2015 - einstimmig beschlossen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Anträge auf Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 4.2: Antrag der Kreistagsfraktion Die Linken vom 03.12.2015 zur Aussschussumbesetzung - einstimmig beschlossen
+- TOP 5: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2014 - einstimmig beschlossen
+- TOP 6: Einbringung des Entwurfs der Haushaltssatzung des Rhein-Kreises Neuss für die Haushaltsjahre 2016 und 2017 - einstimmig beschlossen
+- TOP 7: Verzeichnis der über-/außerplanmäßige Aufwendungen und Auszahlungen im Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 8: Vorlage des Wirtschaftsplanes 2016 des Kreiskrankenhauses Grevenbroich - mehrheitlich beschlossen
+- TOP 9: Vorlage des Wirtschaftsplanes 2016 des Kreiskrankenhauses Dormagen - mehrheitlich beschlossen
+- TOP 10: Seniorenhäuser Rhein-Kreis Neuss
+- TOP 10.1: Wirtschaftsplan für das Jahr 2016 für die Seniorenhäuser des Rhein-Kreises Neuss - einstimmig beschlossen
+- TOP 10.2: Wirtschaftsplan 2016 für das Seniorenhaus Korschenbroich - Raumoptimierung während des Umbaus - zur Kenntnis genommen
+- TOP 11: Mitgliedschaft im Health Region Cologne/Bonn e.V. - einstimmig beschlossen
+- TOP 12: Errichtung neuer Bildungsgänge am BBZ Grevenbroich - einstimmig beschlossen
+- TOP 13: Errichtung eines neuen Bildungsgangs am BBZ Neuss-Weingartstraße - einstimmig beschlossen
+- TOP 14: Erhöhung der Zügigkeit eines Bildungsgangs am BBZ Neuss-Hammfeld - einstimmig beschlossen
+- TOP 15: Änderung der Satzung über die Erhebung von Elternbeiträgen im Rahmen der offenen Ganztagsschule an Förderschulen des Rhein-Kreises Neuss - mehrheitlich beschlossen
+- TOP 16: Verbindliche Pflegebedarfsplanung für den Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 17: 5. Änderung des Landschaftsplanes II - Dormagen - (FFH-Gebiet Zonser Grind) - einstimmig beschlossen
+- TOP 18: 7. Änderung des Landschaftsplanes II - Dormagen - (FFH-Gebiet Knechtstedener Wald) - einstimmig beschlossen
+- TOP 19: 5. Änderung des Landschaftsplanes III - Meerbusch/Kaarst/Korschenbroich - (FFH-Gebiet "Ilvericher Altrheinschlinge" - einstimmig beschlossen
+- TOP 20: 4. Vereinfachte Änderung des Landschaftsplanes III - Meerbusch, Kaarst, Korschenbroich - einstimmig beschlossen
+- TOP 21: Gebührensatzung für den Rettungsdienst - einstimmig beschlossen
+- TOP 22: Abfallgebühren und -entgelte 2016 - einstimmig beschlossen
+- TOP 23: Änderung der Entgelte für die Nutzung des Gewerbeschadstoffmobils - einstimmig beschlossen
+- TOP 24: Anträge
+- TOP 24.1: Antrag der Kreistagsfraktion UWG/ Die Aktive vom 02.12.2015 zum Thema: Resolutionen im Kreistag und in den Ausschüssen sind auf ein Minimum zu beschränken! - einstimmig beschlossen
+- TOP 24.2: Antrag der Kreistagsfratkion Die Linke vom 23.11.2015 zum Thema "Informationsveranstaltung, durch den Verein Freifunk Rheinland, zum Thema Freifunk für Kreistagsabgeordnete, sowie interessierte aus der Verwaltung"
+- TOP 25: Mitteilungen
+- TOP 25.1: Flüchtlingsbericht
+- TOP 26: Anfragen
+- TOP 26.1: Anfrage der Kreistagsfraktion Die Linke zum Thema "Quecksilberausstoß Kohlekraftwerke" - zur Kenntnis genommen
+- TOP 26.2: Anfrage der Kreistagsfraktion ZENTRUM vom 10.12.2015 zum Kreiskrankenhaus Dormagen - zur Kenntnis genommen
+- TOP 26.3: Anfrage der CDU und FDP Kreistagsfraktion zum Thema "Rückkehr aus dem Gemeinsamen Lernen"
+- TOP 27: Einwohnerfragestunde
