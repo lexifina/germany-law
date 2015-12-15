@@ -1,0 +1,75 @@
+# Stadtrat (13. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-12-15T17:00:00+01:00
+- Ende: 2015-12-15T21:10:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZLZJkjiDE_audq5XZsPBxk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18514
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcCXJphJq3GFrgdeuOP7I06D5Hc-GkPwSd3ADNZmKnAw/Bekanntmachung_Stadtrat_15.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbhfeFba1n7hSF0UeUpAxCNPInqrpgU0bPzdBqaWmyMn/Oeffentliche_Niederschrift_Stadtrat_15.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung der neuen Stadtverordneten Claudia Lemke
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP zu TOP 2: Antrag der BBK/Piraten-Fraktion vom 10.12.2015
+- TOP 3.: Bestellung der Leitung der Feuerwehr in der Kolpingstadt Kerpen
+- TOP 4.: Einwohner/innen - Fragestunde
+- TOP 5.: Einwendungen gegen die Richtigkeit der Niederschrift über die Ratssitzung vom 27.10.2015, TOP 9.1; hier: Antrag des Stadtverordneten Wolfgang Scharping
+- TOP 6.: Beschlussfassung über die Gültigkeit der Wahl des/der Bürgermeisters/in vom 13.09.2015
+- TOP 7.: Umbesetzung von Ausschüssen und Gremien
+- TOP 7.1: Antrag der BBK/Piraten-Fraktion
+- TOP 7.2: Antrag der SPD-Fraktion
+- TOP 7.3: Umbesetzung des Jugendhilfeausschusses
+- TOP 7.3.1: Beratende Mitglieder der Arbeitsagentur für Arbeit
+- TOP 7.3.2: Beratende Mitglieder des Sozialpädiatrischen Zentrums Rhein-Erft-Kreis
+- TOP 7.3.3: Beratende Mitglieder der Gemeinschaft der ev. Kirchengemeinden in Kerpen
+- TOP 7.3.4: Beratende Mitglieder des Jugendamtselternbeirat
+- TOP 7.4: Benennung eines Mitgliedes des Netzwerkes 55plus mit beratender Funktion im Sozialausschuss
+- TOP 7.5: Bestellung eines/r Stellvertreters/in der Kolpingstadt Kerpen für die Gesellschafterversammlung der Wirtschaftsförderung Rhein-Erft GmbH
+- TOP 8.: Erlass von Ortsrecht
+- TOP 8.1: Erlass einer Hebesatzsatzung für das Jahr 2016 - (kein Text vorhanden)
+- TOP 8.2: 9. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Kolpingstadt Kerpen
+- TOP 8.3: 24. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Kolpingstadt Kerpen
+- TOP 8.4: 16. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Kolpingstadt Kerpen
+- TOP 9.: Stadtentwicklung und Bauleitplanung
+- TOP 9.1: Aufhebung des Sperrvermerks für die Konzepterstellung eines Masterplans und eines Integrierten Stadtentwicklungskonzepts
+- TOP 9.2: Teilaufhebung der Bebauungspläne Nr. 27 und Nr. 27/3.Änderung, Stadtteil Türnich hier: Aufhebungsbeschluss gem. § 2 (1) und § 1 (8) BauGB i.V.m. § 13 BauGB
+- TOP 9.3: Aufhebung des vorhabenbezogenen Bebauungsplanes HÖ 290 B "Waldweg", Stadtteil Horrem hier: Satzungsbeschluss gem. § 10 BauGB - (kein Text vorhanden)
+- TOP 9.4: Bebauungsplan HO 351 "Waldweg", Stadtteil Horrem hier: Satzungsbeschluss gem. § 10 BauGB - (kein Text vorhanden)
+- TOP 9.5: Landschaftsschutzgebiet Erfttal zwischen Pliesmühle und Horremer Mühle
+- TOP 9.6: Ansiedlung eines Vollsortimenters am Hubertusplatz Brüggen hier: Sachstand
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Besetzungsverfahren der Stelle einer/eines Ersten Beigeordneten - (kein Text vorhanden)
+- TOP 10.2: Stellenplan 2016 hier: zusätzlicher Stellenbedarf in der Abteilung 21.2, Ausländerwesen
+- TOP 11.: Auswirkungen steigende Zahl zugewiesener Flüchtlinge
+- TOP 12.: Schneller Internetzugang durch offene WLAN-Netze
+- TOP 13.: Verabschiedung des Schulentwicklungsplanes
+- TOP 14.: Maßnahmenplan zur Sicherstellung des Rechtsanspruchs für Kinder über und unter drei Jahren
+- TOP 15.: Sanierung Erftlagune hier: Aktueller Sachstand und Kosten Sanierung Parkplatz
+- TOP 16.: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge in Kerpen
+- TOP 17.: Resolution über den Verkehrsverbund an die Deutsche Bahn AG hier: ÖPNV-Angebot der Deutschen Bahn AG - Einsatz von Kurzzügen im Berufsverkehr
+- TOP 18.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Maßnahmen und Beschlüsse aus dem Haushalt 2015
+- TOP 21.2: Sachstand Bebauungsplan südliche Stiftsstraße
+- TOP 21.3: Sachstand Bebauungsplan Sportplatz Blatzheim
+- TOP 21.4: Hausmeisterpool ab 2016
+- TOP 21.5: Informationspolitik Ausschussvorsitzende und Vorgehensweise Ausschussprotokolle
+- TOP II.: Nichtöffentlicher Teil
+- TOP zu TOP 10.1: Nichtöffentliche Anlagen zu TOP 10.1 (527.15)
+- TOP zu TOP 10.1: Nichtöffentliche Anlagen zu TOP 10.1 (527.15)
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.1: Bestellung und Eingruppierung eines Amtsleiters
+- TOP 23.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 24.: Mitteilungen
+- TOP 25.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 26.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
