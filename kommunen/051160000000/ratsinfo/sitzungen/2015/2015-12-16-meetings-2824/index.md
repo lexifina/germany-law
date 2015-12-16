@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-12-16T15:00:00+01:00
+- Ende: 2015-12-16T20:00:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2824
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2824
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00115642.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00115642.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00115642.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 10. Sitzung des Rates am 23.09.2015 - öffentlicher Teil -
+- TOP 2: Feststellung des Jahresabschlusses 31.12.2014 - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 3: Umsetzungsbericht HSP 30.09.2015 - Kenntnisnahme
+- TOP 4: Einlage von städtischen Grundstücken in die EWMG (HSP 2013-0209) - Mit Stimmenmehrheit beschlossen
+- TOP 5: Stellenplan 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Entwurf des Haushaltes 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Beherbergungssteuersatzung - Ohne Abstimmung
+- TOP 6.2.1: Wachsende Stadt - Mit Stimmenmehrheit beschlossen
+- TOP 6.2: Entwurf des Haushaltes 2016; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Hau - Ohne Abstimmung
+- TOP 6.3: Entwurf des Haushaltes 2016: Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Haus - Ohne Abstimmung
+- TOP 6.4: Änderungsanträge zum Haushalt 2016 - Ohne Abstimmung
+- TOP 7: Erlass Hebesatzsatzung 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Wirtschaftsplan der SBMG AöR 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 10: Bereitstellung von Haushaltsmitteln bei Produkt 06 030 10 Kinder-, Jugend- u. Familienberatung, HzE+ - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 11: Kommunalinvestitionsförderungsgesetz - Mit Stimmenmehrheit beschlossen
+- TOP 12: 21. Nachtrag Kanalbenutzungsgebührensatzung, 8. Nachtrag Klärschlammsatzung - Einstimmiger Beschluss
+- TOP 13: Einundzwanzigster Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - Mit Stimmenmehrheit beschlossen
+- TOP 14: Achtzehnter Nachtrag zur Abfallgebührensatzung und Siebezehnter Nachtrag Abfallsatzung - Mit Stimmenmehrheit beschlossen
+- TOP 15: Neununddreißigster Nachtrag zur Straßenreinigungs- und Gebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 16: 49. Nachtrag Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 17: Straßen- und Anlagenverordnung - Mit Stimmenmehrheit beschlossen
+- TOP 18: Überleitung Mehrzweckhalle Eicken - Mit Stimmenmehrheit beschlossen
+- TOP 19: Bestimmung von Schwerpunktschulen im Rahmen des Gemeinsamen Lernens - Einstimmiger Beschluss
+- TOP 20: Zweiter Nachtrag Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 21: Verlängerung Leistungsvereinbarung Tagestreff SKM - Einstimmiger Beschluss
+- TOP 22: Vereinbarungen über Flexible Hilfen - Mit Stimmenmehrheit beschlossen
+- TOP 23: Vereinbarungen über SPFH und Erziehungsbeistandschaft - Mit Stimmenmehrheit beschlossen
+- TOP 24: Vereinbarungen über Erziehungsberatung - Mit Stimmenmehrheit beschlossen
+- TOP 25: Vereinbarung über begleiteten Umgang - Mit Stimmenmehrheit beschlossen
+- TOP 26: Vereinbarung über Beratung gegen sexuellen Missbrauch - Mit Stimmenmehrheit beschlossen
+- TOP 27: Vereinbarung über Erziehungsberatung - Mit Stimmenmehrheit beschlossen
+- TOP 28: Vereinbarung über Familienhebammen - Mit Stimmenmehrheit beschlossen
+- TOP 29: Fortführung der Betriebsführung der Kleinstheime Änne-Kremer-Haus und Jacob-Kremer-Haus mit dem SKF - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 30: Abschluss einer Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Be - Einstimmiger Beschluss
+- TOP 31: Leistungsvereinbarungen mit Begegnungsstätten - Mit Stimmenmehrheit beschlossen
+- TOP 32: Satzung erste Verlängerung Veränderungssperre Breitenbachstraße - Einstimmiger Beschluss
+- TOP 33: Gestaltungssatzung Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 34: Gestaltungsrichtlinie der Stadt Mönchengladbach über die Erteilung von Sondernutzungserlaubnissen - Mit Stimmenmehrheit beschlossen
+- TOP 35: Denkmalbereichssatzung - Ohne Abstimmung
+- TOP 35.1: Denkmalbereichssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 36: Konversion Joint Headquarters (JHQ) hier: Projekt Seasons - Kenntnisnahme
+- TOP 37: Kriterienkatalog Wohnumfeldmaßnahmen 2016 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 37.1: Ergänzungsantrag zu TOP 37, Vorlage 1289/IX, Kriterienkatalog zur Projektförderung bei bürgerschaftl - Zur Kenntnis genommen
+- TOP 38: Freizeitstättenbedarfsplan (HSP 2012 – 0123) - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Dorf-Innenentwicklungskonzept Wanlo - Einstimmiger Beschluss
+- TOP 40: Feierabendmarkt in Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 41: Bereitstellung von Sammelgefäßen zur Abfuhr und Behandlung von Bioabfällen - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Tour de France - Mit Stimmenmehrheit beschlossen
+- TOP 43: Beitritt der Stadt Mönchengladbach zur Rahmenvereinbarung des Landes mit den Krankenkassen zur Gesun - Einstimmiger Beschluss
+- TOP 44: Umbesetzung - Einstimmiger Beschluss
+- TOP 45: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 46: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 47: Anfragen und Mitteilungen
+- TOP 47.1: Mitteilung von Stadtdirektor und -kämmerer Kuckels zur Genehmigung des Nachtragshaushaltes - Zur Kenntnis genommen
+- TOP 47.2: Mitteilung von Stadtdirektor und -kämmerer Kuckels zum Verkauf der GEKKO-Anteile - Zur Kenntnis genommen
+- TOP 47.3: Mitteilung von Oberbürgermeister Reiners zur Besetzung des Aufsichtsrates der GEM - Zur Kenntnis genommen
+- TOP 47.4: Mitteilung von Oberbürgermeister Reiners zu FB 64 - Zur Kenntnis genommen
+- TOP 47.5: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zum Thema Beraterverträge
+- TOP 47.6: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zum Atomkraftwerk Tihange - Zur Kenntnis genommen
+- TOP 47.7: Anfrage von RH Meisterling-Riecks (Bündnis 90/Die Grünen) zu Flüchtlingsunterkünften (Strom) - Zur Kenntnis genommen
+- TOP 47.8: Anfrage von RH Gutowski PiPA-Gruppe zur Ausschreibung der Stelle eines Flüchtlingsbeauftragten - Zur Kenntnis genommen
+- TOP 47.9: Anfrage von RH Feron (CDU) zur Stellungnahme der Stadt zur Leitentscheidung Garzweiler II - Zur Kenntnis genommen
