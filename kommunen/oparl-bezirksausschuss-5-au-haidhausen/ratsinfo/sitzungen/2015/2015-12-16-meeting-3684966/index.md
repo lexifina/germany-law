@@ -1,0 +1,109 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-12-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3684966
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3684966
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Bäume am Deutschen Museum, Antwortschreiben vom Deutschen Museum vom 18.11.2015 - <div>Antwort liegt vor, Weiterleitung an Bürger</div>
+- TOP .2.: Renovierung der Kindertageseinrichtung Falkenstraße 47 - <div>zur Kenntnis genommen</div>
+- TOP .5.: Anträge
+- TOP .1.: Schaffung von größeren Flächen zum Spielen und Erholen im Rahmen der Neuanpflanzung im Frühjahr 2016 - <div>abgelehnt</div>
+- TOP .2.: Kulturjurte am Kolumbusplatz - <div>zurück gezogen</div>
+- TOP .3.: Endhaltestelle Buslinie 52 erhalten - <div>zurück gezogen</div>
+- TOP .4.: Auskunft zu Baumaßnahmen des RBS - <div>nach Antrag</div>
+- TOP .5.: Machbarkeitsstudien und Untersuchungen an Schulen im Stadtbezirk 5 Au-Haidhausen - <div>nach Antrag</div>
+- TOP .7.: Lichtzeichenanlage Innere Wiener Straße Höhe Stubenvollstraße erneuern - <div>nach Antrag</div>
+- TOP .8.: Lichtzeichenanlage Ecke Preysingstraße/Steinstraße- neue Situation durch Fahrradstraße - <div>abgelehnt</div>
+- TOP .9.: Sanierung des Hauses in der Quellenstraße 44 - <div>nach Antrag</div>
+- TOP .10.: Metzgerstraße 5a- das Grundstück soll endlich bebaut werden - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzunngserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Ohlmüllerstraße 10, Neuantrag mit Bestuhlungsplan - <div>nach Antrag</div>
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Mariahilfplatz 18, Nähe Bushaltestelle, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Kasten für Bildzeitung) - <div>Nachfrage MVG ob Einverständnis besteht</div>
+- TOP .3.: Pariser Straße 22; Antrag für die Aufstellung von Sitzgelegenheiten - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungssrechtes der Anlage 1 Bezirksausschuss-Satzung Ziffer 7.1 Abschnitt Referat für Gesundheit und Umwelt: "Allgemeine Maßnahmen des Umweltschutzes (Luft, Wasser, Lärm, Abfall)" in ein Anhörungsrecht BA-Antrags-Nr. 14-20/ B 01092 des Bezirksausschusses des Stadtbezirks 16- Ramersdorf- Perlach vom 16.04.2015 - <div>wie ursprünglich beschlossen</div>
+- TOP .2.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien BA-Antrags-Nr.14-20/B01204 des Bezirksausschusses 17- Obergiesing-Fasangarten vom 12.05.2015 - <div>nach Antrag</div>
+- TOP .3.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" BA-Antrags-Nr. 14-20/ B 01092 des Bezirksausschusses des Stadtbezirkes 16-Ramersdorf- Perlach vom 16.04.2015; Anhörung des Direktoriums - <div>Zustimmung zur Argumentation des BA 16</div>
+- TOP .4.: Erläuterungsschilder im Stadtbezirk 5 Au-Haidhausen - <div>Zustimmung zu den ersten beiden Punkten</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Anfrage zu Änderungen an der Kreuzung Seeriederstraße/Kirchenstraße/Wolfgangstraße; Antwortschreiben des Kreisverwaltungsreferates vom 22.10.2015 - <div>zur Kenntnis genommen u erneute Nachfrage</div>
+- TOP .2.: Aufklärung des Fischsterbens im Auer Mühlbach; Anfrage der Fraktion Bündnis 90/Die GRÜNEN im BA 5 vom 22.10.2015; Antwortschreiben des Referates für Gesundheit und Umwelt vom 12.11.2015 - <div>zur Kenntnis genommen</div>
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Fußgängerfreundliche Gestaltung Einmündung Maria-Theresia-Straße (Kreuzung Prinzregentenstraße/ Maria-Theresia-Straße)! - <div>zur Kenntnis genommen</div>
+- TOP .2.: Au-Haidhausen - der besitzbare Bezirk - <div>zur Kenntnis genommen</div>
+- TOP .3.: Ersatzpflanzungen für fehlende Bäume am Ostbahnhof - <div>zur Kenntnis genommen</div>
+- TOP .4.: Straßenmarkierungen kostenbewusst durchführen - <div>zur Kenntnis genommen</div>
+- TOP .5.: Einschränkungen in der Postzustellung aufheben - <div>zur Kenntnis genommen</div>
+- TOP .6.: Schulstandort Ernst-Reuter-Straße 4: Interimsanlage Schulpavillon und Neubau für die Grundschule - <div>zur Kenntnis genommen</div>
+- TOP .7.: Schulstandort Ernst-Reuter-Straße 4: Situierung der Schulpavillonanlage - <div>zur Kenntnis genommen</div>
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP 1.2.: Kolumbusstraße 1; Schank- und Speisewirtschaft "La Sophia"; Antrag auf Betriebszeitverlängerung von bisher 22.00 Uhr auf die gesetzliche Sperrzeit - <div>nach Antrag</div>
+- TOP 1.1.: 1. Schulbauprogramm"Neubau, Erweiterung und Generalinstandsetzung" Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.016 - <div>zur Kenntnis genommen</div>
+- TOP 1.2.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 14-20/ V 04080; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 1.3.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 14-20/ V 04110; Beschluss des Jugendhilfeausschusses und Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 1.4.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Zentrale Sitzungsvorlage Nr. 14-20/ V 04020; Beschluss des Jugendhilfeausschusses und Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 1.5.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 14-20/ V 04153; Beschluss des Jugendhilfeausschusses und Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 1.1.: Rosenheimer Straße 5; Schank- und Speisewirtschaft "gast"; Antrag auf Betriebszeitverlängerung des Wirtschaftsgartens - <div>nach Antrag</div>
+- TOP 1.3.: Betriebszeitänderung von bisher 22:00 Uhr auf die gesetzliche Sperrzeit; Schank- und Speisewirtschaft "La Sophia", Kolumbusstraße 1 - <div>nach Antrag</div>
+- TOP 1.4.: Postwiese Hypopark, Johannisplatz- AKA e.V. Kinderaktionen 2016; Anhörung des Kreisverwaltungsreferates - <div>nach Antrag</div>
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Fortschreibung des Standortkonzeptes "Kulturstrand" 2016ff Auftrag laut Beschluss der Vollversammlung des Stadtrates vom 17.12.2014 "Fortschreibung des Standortkonzeptes "Kulturstrand" 2015ff." Beschluss des Kreisverwaltungsausschusses vom 17.11.2015 (VB); Sitzungsvorlage Nr. 14-20/ V 04729 - <div>zur Kenntnis genommen</div>
+- TOP 1.3.: Rosenheimer Straße 98; Antrag auf Erweiterung einer Freischankfläche über 40qm; Genehmigung durch das Referat für Stadtplanung und Bauordnung vom 20.11.2015 - <div>zur Kenntnis genommen</div>
+- TOP 1.4.: Verwendungsnachweise und Kurzberichte für gewährte Zuschüsse aus dem Budget des BA 5 - AKA Austausch e.V. - Koop e.V. - <div>zur Kenntnis genommen</div>
+- TOP 1.5.: Unveränderte Fortführung von Gaststättenbetrieben - Schank- und Speisewirtschaft "Tiato", Welfenstraße 106 - Schank- und Speisewirtschaft "Mun", Innere Wiener Straße 18, UG - <div>zur Kenntnis genommen</div>
+- TOP 1.1.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 05- Au-Haidhausen Satzungsbeschluss Erhaltungssatzung "Haidhausen" - <div>Zustimmung mit Ergänzungen</div>
+- TOP 1.2.: Innere Wiener Straße 40; Ausbau (DG-4.OG) mit Zusammenlegung/Umbau von 2 WE im 3.OG (Rückgebäude), Herstellen von Fluchtleiter und Dachterrasse (3.OG) - <div>abgelehnt</div>
+- TOP 1.4.: Grillparzerstraße 34; Aufstockung eines 5-geschossigen Wohnhauses mit 3 Geschossen (2 Vollgeschosse + DG) sowie Einbau zweier Aufzugstürme in den Innenhof- Variante Mansarddach- VORBESCHEID- (Grillparzerstraße 34/Hackländerstraße 1-7/ Versailler Straße 17) - <div>abgelehnt</div>
+- TOP 1.5.: Preysingstraße 85; Schulbauoffensive- Neubau einer zweizügigen Grundschule - <div>Zustimmung mit Ergänzungen</div>
+- TOP 1.6.: Eggernstraße 10; DG-Ausbau mit Zusammenlegung und Instandsetzung der Wohnungen 14 und 15 (3.OG), Wiederherstellung einer Dachterrasse mit Austrittsgaube - <div>abgelehnt</div>
+- TOP 1.7.: Prinzregentenstraße 74; Dachgeschoss-Ausbau- VORBESCHEID - <div>ohne Entscheidung</div>
+- TOP 1.8.: Belfortstraße 14; DG-Ausbau zu einer Wohnung einschl. Gaubenausbildung +Loggien - <div>abgelehnt</div>
+- TOP 1.9.: Lucile-Grahn-straße 43; Eingeschossiger Anbau an eine Maisonette-Wohnung - <div>nach Antrag</div>
+- TOP 1.10.: Ohlmüllerstraße 26; Anbau von Balkonen (VGB+RGB), DG-Abbruch und-Neuerrichtung (RGB) einschl. der Decke über EG mit Einbau einer Wohneinheit, Errichtung eines Zwischenbaus mit Einbau von Kühlräumen+ Erstellung einer Dachterrasse, Errichtung von Außentreppen zur Erschließung der Wohnung im OG/RGB einschl. Personal-Dachterrasse - <div>abgelehnt</div>
+- TOP 1.11.: Wörthstraße 25; Neubau einer Dachterrasse - <div>nach Antrag</div>
+- TOP 1.12.: Hochstraße 8; Neubau Sudetendeutsches Museum - <div>nach Antrag</div>
+- TOP 1.13.: Giesebrechtstraße 6; Dachgeschossausbau - <div>nach Antrag</div>
+- TOP 1.14.: Wörthstraße 3; Rückbau des Notdachs aus dem Jahr 1945 und Wiederherstellung des ursprünglichen Mansarddachs von 1985 mit DG-Ausbau (2WE) sowie Anbau eines Personenlifts - <div>nach Antrag</div>
+- TOP 1.1.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77, 892 und 1995) - Satzungsbeschluss- Sitzungsvorlage Nr. 14-20/ V 04632; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 1.2.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zu den Anträgen der Bezirksausschüsse 4,6,7,9,20,21,24 und 25 Sitzungsvorlagen Nr. 14-20/ V 04049; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 1.3.: Mehrjahresinvestitionsprogramm 2015-2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015-2019 Infrastrukturversorgungskonzept 2015-2019 Sitzungsvorlagen Nr. 14-20/ V 04066; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 1.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Projektname: ÖPNV-Offensive IV- Gebsattelstraße- Haltestelle Regerplatz Projektnummer: 5564 - <div>nach Antrag</div>
+- TOP 1.1.: Beschlussentwurf Barrierefreie Querungen im Fuß- und Radverkehr Priorisierung bestehender und geplanter Querungsbauwerke a) Grundsatzbeschluss zur Priorisierung bestehender und geplanter Querungsbauwerke im Fuß- und Radverkehr b) Behandlung von Anträgen und Empfehlungen Sitzungsvorlage Nr. 14-20/ V 01203 Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung - <div>Zustimmung mit Ergänzungen</div>
+- TOP 1.2.: Regerstraße 23a; Abgrabung zur Grundstücksaufbereitung/freiwillige Altlastensanierung - <div>zur Kenntnis genommen</div>
+- TOP 1.1.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion - Antrag Nr. 08-14/ A 04626 von Herrn Stadtrat Hans Podiuk, Herrn Stadtrat Dr. Georg Kronawitter, Herrn Stadtrat Johann Stadler vom 12.09.2013 - BA-Antrags-Nr. 08-14/ B 05259 des Bezirksausschusses des Stadtbezirkes 15- Trudering- Riem vom 19.09.2015 Sitzungsvorlage Nr. 14-20/ V 03675; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 1.2.: Höhere Bezuschussung der MVG für die Beschaffung von Elektrobussen; Empfehlung Nr. 14-20/ E 00397 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 26.02.2015 Sitzungsvorlage Nr. 14-20/ V 04144; Beschluss des Ausschusses für Arbeit und Wirtschaft am 08.12.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 1.3.: Vollzug des Bundes- Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV - <div>zur Kenntnis genommen</div>
+- TOP 1.4.: Baumentfernungen und Gehözpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken hier: Friedhof Haidhausen Sektion 3b - <div>zur Kenntnis genommen</div>
+- TOP 1.1.: Berichte von wahrgenommenen Terminen
+- TOP 1.2.: Nächste UA-Sitzungen
+- TOP 1.3.: Nächste BA-Sitzung
+- TOP 1.4.: Sonstige Termine
+- TOP 1: (E) Verbesserung der Betreuungssituation... im Sprengel der Schule am Mariahilfplatz - <div>nach Antrag</div>
+- TOP .6.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Besichtigungen von Baumaßnahmen des RBS
+- TOP 1.1.: Entscheidungen
+- TOP 1.2.: Anhörungen
+- TOP 1.3.: Unterrichtungen
+- TOP 1.3.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Waltherstraße 26; Abriss eines nicht ausgebauten DG, Neubau DG auf MFH, Errichtung Balkone, Fluchtleitern und Aufzug
