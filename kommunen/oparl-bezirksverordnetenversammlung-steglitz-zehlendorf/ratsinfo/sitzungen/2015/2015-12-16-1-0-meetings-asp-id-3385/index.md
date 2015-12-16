@@ -1,0 +1,101 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-12-16T17:00:00+01:00
+- Ende: 2015-12-16T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3385
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3385
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Besetzung von Stellen im Sozialpsychiatrischen Dienst - beantwortet
+- TOP 3.2: Turnhallen als Unterkünfte für geflüchtete Menschen in Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Schrottfahrräder am Bahnhof Wannsee - beantwortet
+- TOP 3.4: Zu lange Bearbeitungszeiten im Umwelt- und Naturschutzamt - schriftlich beantwortet
+- TOP 3.5: Bezirkliche Liegenschaften - beantwortet
+- TOP 3.6: Beauftragung von Gutachten - beantwortet
+- TOP 3.7: Informationsveranstaltung zum bezirklichen Haushalt? - beantwortet
+- TOP 3.8: Familienpass 2016 nur eine Posse? - beantwortet
+- TOP 3.9: Beschwerden Nutzung Platz des 4. Juli - beantwortet
+- TOP 3.10: Städtebauliche Vereinbarung Platz des 4. Juli - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Wahlen - erledigt
+- TOP 7.1: Wahlvorschläge - erledigt
+- TOP 7.1.1: Wahl einer Bürgerdeputierten im Ausschuss für Gesundheit und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Haushaltsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Ausschussanträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.1: Sondermittel der BVV für Incanta Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8.2.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2014 - überwiesen
+- TOP 8.3: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.3.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Bebauungspläne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1.1: Bebauungsplan 6-28 B (Ostpreußendamm 84-92) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Haushaltsprobleme vergrößert? - beantwortet
+- TOP 10.2: Kündigung der Helmut Ziegner Berufsbildung für die Nutzung der Räume Lissabonallee 6 - vertagt
+- TOP 10.3: Wie lange schaut das Bezirksamt dem Zusammenbruch der Verwaltung der Leo-Borchard-Musikschule noch tatenlos zu? - beantwortet
+- TOP 11: Anträge - erledigt
+- TOP 11.1: Schottenburg - überwiesen
+- TOP 11.2: Kampagne "Handel(n) verbindet" unterstützen! - überwiesen
+- TOP 11.3: Sachlich falsche Abwägungen VLB - Rundfahrt zu vier kritischen Fällen - überwiesen
+- TOP 11.4: Auch U-Bahnhöfe für Kältehilfe nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Keine Belegung von Sporthallen mehr - überwiesen
+- TOP 11.6: Kein Antrag auf GRW-Mittel für den Landschaftspark Klein-Glienicke - überwiesen
+- TOP 11.7: Barrierearme und sichere Straßenquerungen im Karl-Schmidt-Rottluff-Weg - überwiesen
+- TOP 11.8: B-Plan für OHH-Gesundheitspark - überwiesen
+- TOP 11.9: Platz des 4. Juli erhalten - überwiesen
+- TOP 11.10: Menschenwürdige Unterbringung von geflüchteten Menschen in bundeseigenen Immobilien anstatt in Turnhallen - überwiesen
+- TOP 11.11: Holzmodule statt Container - überwiesen
+- TOP 11.12: Erneute Lärmschutzprüfung am Hubschrauberlandeplatz des Klinikums Benjamin Franklin - überwiesen
+- TOP 11.13: Fußgängerüberweg für die Siemensstraße - überwiesen
+- TOP 11.14: Berliner Rugby-Club (BRC) - Eine Heimat im Bezirk geben. - überwiesen
+- TOP 11.15: Suchthilfekoordination im Bezirk - überwiesen
+- TOP 11.16: Personalausweisautomaten zur Entlastung der Bürgerämter auch in Steglitz-Zehlendorf einführen - überwiesen
+- TOP 11.17: Überbaurente Truman Plaza - überwiesen
+- TOP 11.18: Für Schulische Suchtprävention und Suchthilfekoordination ausreichende Stellenbesetzung - überwiesen
+- TOP 11.19: Autofahrer beim Einhalten der StVO unterstützen - überwiesen
+- TOP 11.20: Barrierefreie Wege im Bereich des Schmidt-Rottluff-Weges - überwiesen
+- TOP 11.21: Parkplatzsituation an der Ecke Hindenburgdamm/Manteuffelstraße überprüfen - überwiesen
+- TOP 11.22: Erweiterte Fahrradstellflächen am Bahnhof Wannsee - überwiesen
+- TOP 11.23: Reduzierung der Taxistellplätze am S-Bahnhof Mexikoplatz - überwiesen
+- TOP 12: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 12.1: Recht auf Teilhabe für psychisch Kranke und Suchtkranke sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Langfristiger Pachtvertrag für Yacht-Club Müggelsee e. V. auf Lindwerder und die Wassersportnutzung rechtlich absichern jetzt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Konsumräume für Drogenabhängige im Bezirk - in der BVV abgelehnt
+- TOP 12.4: Familienfreundlicher Bezirk II: Der Bezirk als familienfreundlicher Arbeitgeber - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Hindernisbewältigung für Menschen mit Behinderung! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Mehr Schulpsychologen für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Südender Parkplätze wieder herstellen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Kreuzung Unterführung Stadtautobahn/ Schildhornstraße/ Kreuznacher Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Medienwarte für unsere Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Resolution: Steglitz-Zehlendorf bekennt sich zur Ehe für Alle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Verbesserung der Personalausstattung und Arbeitsbedingungen in Kindertageseinrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: AG nach § 78 SGB VIII mit dem Schwerpunkt "minderjährige Flüchtlinge" einrichten! - in der BVV abgelehnt
+- TOP 12.13: Trödelmarkt am Platz des 4. Juli erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Stufenfreier Zugang zum Arnold-Knoblauch-Ring/Stölpchenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Infrastrukturkonzept für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Insektenhotels fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Verkehr Kitas Beethovenstraße in Berlin-Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Ausbesserung und Ausschilderung Radweg Wannsee Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Charetteverfahren für Zehlendorf-Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Familienfreundlicher Bezirk V: Einrichtung eines Stillraums in den Bürgerämtern/Rathäusern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Klimagerechte Stadtplanung: Maßnahmen zur Klimaanpassung eines Quartiers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.22: Radroute Potsdam - Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Behindertengerechte Kreuzung Drakestraße - Hindenburgdamm - Königsberger Straße - Goerzallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.24: Kältehilfe für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.25: Ballspielplatz Keffenbrinkweg - Vorschläge der Jugendpartitur 2015 aufgreifen I - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Ballspielplatz Pappritzstraße - Vorschläge der Jugendpartitur 2015 aufgreifen II - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.27: Wochenmärkte in Steglitz auch weiterhin öffentlich betreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.28: Goerzallee: Leerstand verhindern - Arbeitsplätze schaffen - Rumpelbasar erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.29: Darstellung Internetauftritt des Bezirkes auf Mobilgeräten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
