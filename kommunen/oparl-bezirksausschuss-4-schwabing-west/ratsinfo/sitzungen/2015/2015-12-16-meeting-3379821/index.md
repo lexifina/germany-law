@@ -1,0 +1,62 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379821
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379821
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Bürger: Stromsperren wegen unbezahlter Rechnungen
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Bonner Platz: Aufstellung einer City-Light-Säule
+- TOP 2.1.2.: Elisabethstr. 49, Antiquitäten Eggeringhaus: Aufstellen einer Warenauslage
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Franz-Joseph-Str. 31: Neubau eines Rückgebäudes mit Tiefgarage
+- TOP 2.1.2.: Bauerstr. 28: Errichtung eines straßenseitigen Balkons im 3. OG
+- TOP 2.1.3.: Tektur Agnesstr. 36: DG-Ausbau (1 WE)
+- TOP 2.1.4.: Vorbescheid Hagedornstr. 2: Aufstockung von 9 Wohngebäuden um ein Geschoss sowie Neubau von 4 dreigeschossigen Wohnhäusern und 3 Tiefgaragen (2 Varianten)
+- TOP 2.1.5.: Herzogstr. 142 (?Schwabinger Carré II?): Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 2.1.6.: Apianstr. 1: Erneuerung von 5 Balkonen
+- TOP 2.1.7.: Bonner Str. 20: Erneuerung und Vergrößerung der Balkone
+- TOP 2.1.8.: Belgradstr. 71: Verschiebung von Balkonen (straßenseitig) und Neubau eines Traufbalkons
+- TOP 2.1.9.: Tektur Schwere-Reiter-Straße: Neubau eines Hotel Garni
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürgerin: Sattelschlepper im Ackermannbogen
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Vergrößerung des Lagerplatzes für das Baureferat Gartenbau an der Belgradstraße (Grünanlage Luitpoldpark gegenüber Belgradstr. 132)
+- TOP 2.1.2.: Hohenzollernstr. 110: Fällung einer Pappel und eines Holunders
+- TOP 2.1.3.: Elisabethstr. 15 ? 21: Fällung einer Robinie
+- TOP 2.1.4.: Birnauer Str. 114 (Nymphenburg-Biedersteiner Kanal): Fällung einer Esche
+- TOP 2.1.5.: Gernotstr. 11: Fällung einer Hängebirke
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Barrierefrei Querungen im Fuß- und Radverkehr ? Priorisierung bestehender und geplanter Querungsbauwerke ? Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP 4.5.: Standortvorschläge für öffentliche Fahrradpumpen und Radservice-Stationen (vertagt aus 11/2015)
+- TOP 4.6.: Herstellung von Gehbahn und Parkbuchten auf der Westseite der James-Loeb-Straße zwischen Bummstraße und Scheidplatz ? Entscheidung über die Projektplanung
+- TOP 4.7.: Umgestaltung des Vorplatzes Hohenzollernstr. 41 Ecke Römerstraße: Ergebnis des Ortstermins und Stellungnahme des Abfallwirtschaftsbetriebs München
+- TOP 4.1.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von ?Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? in ?Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A? Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 4.2.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 4.3.: Änderung des Unterrichtungsrechts in Anlage 1 BA-Satzung Ziffer 25 Abschnitt KVR von ?Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 2: (E) Abtransportieren der Schrotträder im Stadtbezirk (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00611 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
+- TOP 3: (E) Wiederherstellung des Radwegs in der Belgradstraße zwischen Rümann- und Barlachstraße (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00618 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
+- TOP 4: (E) Lärmgedämpfte Spur für Rollkoffer auf dem Hohenzollernplatz Empfehlung Nr. 14-20 / E 00609 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
