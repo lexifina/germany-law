@@ -1,0 +1,84 @@
+# 36. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-12-16T17:30:00+01:00
+- Ende: 2015-12-16T21:05:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4591
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4591
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Beteiligung der Bezirke bei der Auswahl von Standorten für die Errichtung von modularen Unterkünften - mit Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Vorschlag zur Ersatzwahl einer stellvertretenden Bürgerdeputierten des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VII. Wahlperiode - gewählt
+- TOP 1.9: Neufassung § 1, Abs. 3 der Geschäftsordnung der BVV - in der BVV abgelehnt
+- TOP 1.10: Ukrainische Partnerstadt für Pankow - den Wandel begleiten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Verbesserung der sozialen Betreuung für Geflüchtete - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Bedarfsanalyse zur Gleichstellungsarbeit in Pankow - in der BVV abgelehnt
+- TOP 1.13: Einführung von Dokumentenprüfgeräten in den Bürgerämtern - in der BVV abgelehnt
+- TOP 1.14: Signet "Berlin barrierefrei" für bezirkliche Gebäude - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Erhöhung der Barrierefreiheit in den bezirklichen Gebäuden und bei Veranstaltungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Inklusionssporthalle jetzt - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Nachweis der im Haushaltsjahr 2014 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Gender Budgeting ernst nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Ampelregulierung der Kreuzung Wolfgang-Heinz-Straße/Robert-Rössle-Straße und der Karower Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.19.1: Änderungsantrag Ampelregulierung der Kreuzung Wolfgang-Heinz-Straße/ Robert-Rössle-Straße und der Karower Chaussee - (offen)
+- TOP 1.20: Kleingewerbe am S+U-Bahnhof Pankow erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Stille Straße 10 wird Tschaikowskistraße 14 - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Für starke Musikschulen und Volkshochschulen in den Berliner Bezirken! - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Verkehrssicherheit in der Treseburger Straße wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Freies WLAN für Geflüchtetenunterkünfte - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Verbesserung der Verkehrssicherheit an der Richard-Ermisch-Straße/Hermann-Blankenstein-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Freie Bahn für die Stammstrecke der Heidekrautbahn - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Notschlafplätze der Kältehilfe - beantwortet
+- TOP 1.28: Verkehrsregelung vor Notunterkünften - überwiesen
+- TOP 1.29: 10-Minuten-Takt der S2 bis Bernau - überwiesen
+- TOP 1.30: Bundesfreiwilligendienst mit Flüchtlingsbezug auch in Pankow nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Verkehrsberuhigung und Schulwegsicherheit zwischen Niederschönhausen und dem Pankower Zentrum - überwiesen
+- TOP 1.32: Kavalierstraße 19/19a - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Flüchtlingsunterkünfte in Pankow: Erst leerstehende Liegenschaften nutzen, dann weitere Sporthallen benennen - in der BVV abgelehnt
+- TOP 1.34: Jugendspielflächen - Sicherung und Sanierung ausgewählter Standorte - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Ärztliche Erstversorgung in Notunterkünften für Geflüchtete sicherstellen - überwiesen
+- TOP 1.36: Stärkere Partizipation des Integrationsbeirates ermöglichen - überwiesen
+- TOP 1.37: Städtebauliche Kriminalprävention - überwiesen
+- TOP 1.38: Verkehrssicherheit in Berlin-Blankenburg auf dem Karower Damm in Höhe der Treseburger Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Clearingverfahren für unbegleitete minderjährige geflüchtete Ausländer_innen (UmA) dringend beschleunigen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Arbeiten des Straßen- und Grünflächenamtes auf der Internetseite mittels Arbeitskalender rechtzeitig ankündigen - überwiesen
+- TOP 1.41: Kein Rot ohne Not - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Notunterkünfte in Sporthallen als allerletzte Alternative - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Teilhabekonzept für Menschen mit Beeinträchtigungen im Bezirk Pankow - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Nachhaltige Sicherung der "Kulturbrauerei" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Ein neuer Sportentwicklungsplan! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Pankow soll Fairtrade Town werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Zentrenkonzept erstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Zentrale Erstberatung bei Diskriminierung in den Räumen des Bürgeramts Fröbelstraße 17 einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Modernisierung der technischen Arbeitsabläufe der BVV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Machbarkeitsstudie zu Parkraumbewirtschaftung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Kein Rückbau der sog. Planstraße D - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.11: Jugendmigrationsdienst (JMD) auch für Pankow - jetzt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Personelle Ausstattung mit Schulhausmeistern und Platzwarten an tatsächlichen Bedarf anpassen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Sicherstellung der Verkehrssicherheit für Fußgänger*innen in der Siegfriedstr. im Abschnitt Blankenburger Str. bis Herthaplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Europäische Initiative zur verantwortungsvollen Wohnungswirtschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Angebote der Pflegestützpunkte im Bezirk besser bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Umgang mit Altkleidersammelcontainern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Entgeltverhandlungen für die Eingliederungshilfen nach § 53 und 54 SGB XII unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Mobilitätshilfedienste sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Brief zur aktuellen Situation Geflüchteter in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Wiederherstellung der Mülleimer im Einsteinpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplan XIX-48b vom 04.04.2013 für das Gelände zwischen Dr.-Markus-Straße, Parkgraben, Ferdinand-Buisson-Straße, Bahnhofstraße und Berliner Straße, für Teilflächen des Grundstücks Dr.-Markus-Straße 11 und des Parkgrabens westlich der Straße 160 sowie für die Dr.-Markus-Straße zwischen Berliner Straße und Parkgraben im Bezirk Pankow, Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Förderprogramm Stadtumbau Ost – Ortsteil Buch Schlussbericht des Integrierten Städtebaulichen Entwicklungskonzepts – ISEK - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Einführung des IT-Verfahrens Anliegenmanagementsystem (AMS) und Übernahme des einheitlichen Serviceversprechens - mit Abschlussbericht zur Kenntnis genommen
