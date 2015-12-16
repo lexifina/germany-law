@@ -1,0 +1,7 @@
+# TOP 22.: Grundstücksangelegenheit
+
+- Sitzung: Rat (12. Sitzung) (2015-12-16)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/9388
+- Ergebnis: Abstimmungsergebnis:27 Nein-Stimmen  6 Ja-Stimmen  1 Stimmenthaltung
