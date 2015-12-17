@@ -1,0 +1,23 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2016 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2016
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 432/2015 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2015-12-17
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZRzpkcUpWuEbTdWn3Eq8KzE
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/5377
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2016 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXmqsC5jXGlrXmpwwsmYpQfp7_ZoKKIfDVUcwchnCaF8/Beschlussvorlage_432-2015_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUKWujsjISUUMY_oXkw0nLWUupMtUQTRT7xbYuIvSn-o/Anlage_zur_Beschlussvorlage_432-2015.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbpIcoUvRrz3aRx2GjsXgBXP4Es3txqcPxHmUynylY-S/Anlage_zur_Beschlussvorlage_432-2015.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ_NVp2E6ztl_GpEnQ9sN4rSG3uqfdiFSNZg0VQBhl0z/Anlage_zur_Beschlussvorlage_432-2015.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcoQdSxonTUTg6rjc4KC8X1voKUHDLGKpLvluKG7Kk2o/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVfU7teRl7NhUjXjquaJr0IKlZb7MNOnoXeZSebyNLXp/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYTR9jSsaG5W4GKNghQPC4mE41wzP1rfw6BtGe8tcZ4H/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfh4rocUj5stSApQVeKhXu_7FNNWLG9sK2AFf9AMK7fI/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQuhlfiOQTApRLApdeHRpSD1azxQzFZ3jENqTcm8SQoW/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU7VF-XG7Dw1Sr2wGBTbqAVL2Ici02E7eG_QmMohpTYV/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 432/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdB1OMFpy0XhxwGGNZxhdfJ1TdG6CXdtZJsd1oIzdEaw/Anlage_zur_Beschlussvorlage_432-2015_1._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15944 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15925 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
