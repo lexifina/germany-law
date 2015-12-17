@@ -1,0 +1,115 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510838
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510838
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.1.: TOP 7.1.4 Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: ?Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U? in: ?Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A? BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 ? Ramersdorf-Perlach vom 16.04.2015 - <div>nach Antrag</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Wochenflohmarkt auf dem Festplatz Trudering - <div>Ablehnung der Initiative</div>
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Bushaltestellenunterstand für die Zauberwaldstraße stadteinwärts - <div>Weiterleitung an das RAW</div>
+- TOP 4.2.: BAUMA 2016: U-Bahn-Stau in Trudering vermeiden - <div>Weiterleitung an das RAW, BA-Antrags-Nr. 14-20 / B 01911</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Zustand der Radwege in Trudering - <div>zur Kenntnis genommen</div>
+- TOP 5.2.: Messestadt 4. Bauabschnitt wann kommt hier ein Unterflurcontainer für Wertstoffe - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Feinstaubwerte im Bereich Corinthstrasse / Heinrich Wieland Strasse - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Öffentliche Toilette im Riemer Park - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Haltverbot Friedrich-Creuzer- Straße - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Umsetzung der Beschlussvorlage Gartenstädte - Erhalt des Charakters und bauliche Entwicklung 14-20 / V 00909 - <div>an den UA Planung und den UA Infrastruktur und Stadtteilentwicklung verwiesen </div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.2.: Umsetzung des stadtbezirksbezogenen Bürgerhaushalts (s. TOP 7.1.5 der Sitzung vom 19.11.2015) - <div>Stellungnahme abgegeben</div>
+- TOP 7.3.: Anzeige eines gewerblichen Silvester-Feuerwerks am 01.01.2016, 0 Uhr, Schubecks Teatro - <div>nach Antrag</div>
+- TOP 7.1.: Brachsen-/Forellenstraße Haltverbot Anhörung gemäß § 13 der Satzung für Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO - <div>nach Antrag</div>
+- TOP 7.2.: Barrierefreie Querungen im Fuß- und Radverkehr Priorisierung bestehender und geplanter Querungsbauwerke Sitzungsvorlagen Nr. 14-20 / V 01203 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom ____ (VB) - <div>nach Antrag, mit Ergänzungen</div>
+- TOP 7.1.: Durchführung einer Informationsveranstaltung für Trudering über den Entwurf zur Bebauung des Piederstorfer Geländes Empfehlung Nr. 14-20 / E 00631 der Bürgerversammlung des Stadtbezirkes 15 - Trduering-Riem am 08.10.2015 Sitzungsvorlagen Nr. 14-20 / V 04712 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom ____ (SB) Anhörung - <div>Ablehnung, der BA besteht auf einer eigenen Informationsveranstaltung</div>
+- TOP 7.1.: Willy-Brandt-Platz 5, Fl.Nr. 1408/24 Riem Arcaden - vollständige Nutzung der Parkplätze und Neuplanung von Kunden-WC im Basement - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.2.: Stahlgruberring 28; Fl.Nr. 131/32 VBG - Nutzungsänderung: Bürogebäude zu Hotel mit Umbau der 2 Wohneinheiten im 3. OG; RGB - Nutzungsänderung: EG - Reinraum zu Lagerhalle mit Werkstatt und Nebenräumen sowie OG - Geräte-Fertigungs-Service-, zu Lager-, Büro und Nebenräumen - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.3.: Heilwigstraße 51; Fl.Nr.: 408/47 - Abbruch Bestand / Neubau zweier Doppelhäuser (4 DHH) mit Garagenanlage - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.4.: Riemer Straße 361; Fl.Nr.: 1666/1 Neubau eines Wohnhauses (17 WE) mit Satteldach und TG - <div>Zustimmung mit der Maßgabe der Reduktion der WE</div>
+- TOP 7.5.: Kreuzerweg 33; Fl.Nr.: 877/2 Erweiterung eines Boardinghauses um 5 WE - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.6.: Stahlgruberring 19, Fl.Nr. 138/2 - Nutzungsänderung: Ausbau eines Lagers-/Expeditionsfläche für Büronutzung - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.7.: Zehntfeldstraße 198, Fl.Nr.: 375/5- Neubau eines Doppelhauses (3 WE) - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.8.: Lehrer-Götz-Weg 11, Fl.Nr.: 264/3, Nutzungsänderung und Umbau: Briefzustellraum in eine Einrichtung zur Unterbringung von Personen nach BayBO Art. 2, Abs. 4, Nr. 11 - <div>Zustimmung zum eingereichten Antrag; ein Stellplatznachweis soll eingefordert werden</div>
+- TOP 7.9.: Hafelhofweg 2, Fl.Nr.: 246/0 - Neubau eines Gebäudes mit einem Einzelhandelsmarkt und einem Beherbergungsbetrieb sowie einer Tiefgarage - <div>Zustimmung zum eingereichten Antrag</div>
+- TOP 7.10.: Edeltrautstraße 16, Fl.Nr.: 406/3 - Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.11.: Lachenmeyrstraße 32, Fl.Nr.: 458/3 - Neubau eines Einfamilienhauses mit Garage - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.12.: Waldschulstraße 52, Fl.Nr.: 489/9 - Neubau zweier Mehrfamilienhäuser (je 6 WE) mit Tiefgarage - <div>Ablehnung des eingereichten Antrags</div>
+- TOP 7.1.: Herstellung ökologischer Ausgleichsflächen am Horst-Salzmann-Weg Vorstellung der geplanten Maßnahmen im UA Hinweis: s. TOP 10.6.1 der Sitzung vom 25.06.2015 - <div>Zustimmung zum Vortrag des UA, auf das UA Protokoll wird verwiesen</div>
+- TOP 7.2.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen Empfehlung Nr. 14-20 / E 00627 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 08.10.2015 Sitzungsvorlage Nr. 14-20 / V ... Beschluss des Verwaltungs- und Personalausschusses vom 09.03.2016 (VB) - <div>Zustimmung zum Vorgehen des Direktoriums</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Batschkastraße 22 - s. TOP 8.2.4 / 1015 Bekassinenweg 2 Bistritzer Weg 8 Drosselweg 33 - s. TOP 8.2.7 / 1015 Dualastraße 8 Edeltrautstraße 14 - s. TOP 8.2.9 + 8.2.51 / 1015 Elfriedenstraße 35 Graßdorfer Weg 3 Irmelastraße 22 - s. TOP 8.2 Klothildenstraße 7a Kreuzerweg 38 Oberseestraße 9-9a Otto Lederer Weg 19 Tangastraße 50a Teuchertstraße (ohne Hausnummer) Togostraße 43 Vogesenstraße 11 Xaver-Weismor-Straße 7 - s. 8.2: Der Baum ist abgestorben, Fällerlaubnis laut UNB nicht notwendig. Zeisigweg 16c - <div>zur Kenntnis genommen</div>
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: Am Mitterfeld 22 Dar-es-Salaam-Straße 7 Dorotheenstraße 15 Eigerstraße 40 Elritzenstraße 21 Forellenstraße 30a Großfriedrichsburgerstraße 1 Groschenweg 48a Heilwigstraße 73 Iltisstraße 56 Ingeborgstraße 53 Irmelastraße 22 - Fällerlaubnis s. TOP 8.1 Josef-Hagn-Str. 11 Max-Beckmann-Straße 21 Mondseestraße 13 Riemer Straße 361 Rosamundenstraße 10 Ruppanerstraße 23 Schäßburgerstraße 10 - Ablehnung Schneebergstraße 21 Solalindenstraße 34c Solalindenstraße 34c 2. Antrag Sonnenspitzstraße 16 Stahlgruberring 19 Truderinger Straße 240 Truderinger Straße 339 Vogesenstraße 18 Von-Grevenreuth-Straße 13 Waldschulstraße 52 Wasserburger Landstraße 19a - Ablehnung Xaver-Weismor-Straße 7 - s. TOP 8.1 - keine Fällerlaubnis notwendig Zehntfeldstraße 198 - <div>Zustimmung zum Votum des UA, auf das UA Protokoll wird verwiesen</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidung des Vorsitzenden nach § 20 Abs.1 Satz 2 BA- Satzung
+- TOP 9.1.1: Errichtung einer Kindertageseinrichtung mit 3 Kinderkrippengruppen Baugebiet Messestadt Riem, 4. BA, WA 12 15. Stadtbezirk Trudering-Riem Genehmigung des Nutzerbedarfsprogrammes Sitzungsvorlage Nr. 14-20 / V 04673 - <div>zur Kenntnis genommen</div>
+- TOP 9.2.: Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigungen (Schreiben ist per E-Mail am 03.12.2015 an die Fraktionssprecher gegangen) - <div>Listen durch BAG-Ost an die Abrechnungsstelle versandt</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: unveränderte Fortführung von Gaststättenbetrieben: - <div>ALLE 10er PUNKTE SIND ZUR KENNTNIS GENOMMEN WORDEN</div>
+- TOP 10.1.1: Ausschank in einem Bordell, Bordell Extasia
+- TOP 10.2.: Zuwendung zum Kinderprogramm auf dem ökologischen Hoffest in Riem 2015 - Sachbericht Bescheid vom 10.09.2015
+- TOP 10.3.: Verwendungsnachweis Muslimisches Forum Messestadt e.V. Bayram-Fest
+- TOP 10.4.: Verwendungsnachweis Nachbarschaftswerk wagnis e.V.
+- TOP 10.5.: Sachbericht Orgelkonzert 15.08.2015 Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V.
+- TOP 10.6.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP 10.7.: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens
+- TOP 10.1.: Scharfkantige Randsteine Antrag des Bezirksausschusses des 8. Stadtbezirks Schwanthalerhöhe
+- TOP 10.2.: Münchner Kleingartenwesen Umwidmung von Zeitkleingarten- in Dauerkleingartenanlagen Erhöhung der Sanierungspauschale für Trinkwasserleitungen zusätzlicher Sachmittelbedarf Sitzungsvorlage Nr. 14-20 / V 04368 Beschluss des Bauausschusses vom 08.12.2015 (VB)
+- TOP 10.3.: Schulbushaltestelle Astrid-Lindgren-Straße: Änderung des Zeitzusatzes
+- TOP 10.4.: CarSharing in München Evaluationsergebnisse des Pilotversuchs und Empfehlungen (EVA-CS) Förderung von CarSharing und Elektro-CarSharing in München Elektromobilität 1: Car-Sharing und Elektrofahrzeugen mit einem Modellprojekt zum Durchbruch verhelfen E-Mobilität: Handlungsfeld 1 - CarSharing Carsharing I Abbau rechtlicher Hinderungsgründe für die Ausweisung von Carsharing-Stellplätzen zu Gunsten aller Carsharing-Anbieter Carsharing IV Einheitliches Leitsystem für Carsharing Carsharing V Vekanntheitsgrad von Carsharing erhöhen - Öffentlichkeitsarbeit zu Carsharing in München verstärken Beschluss des Kreisverwaltungsausschusses vom 15.12.2015 (VB)
+- TOP 10.5.: Trudering Bf. - Verbesserung Anschluss S-Bahn an StadtBuslinie 192
+- TOP 10.1.: Rathaus Umschau vom 19.11.2015 Wie ist die aktuelle Situation am "Hüllgraben" Anfrage Stadrats-Mitglieder Paul Bickelbacher, Herbert Danner und Sabine Krieger (Fraktion Bündnis 90/Die Grünen/Rosa Liste) vom 15.10.2015 Antwort Bürgermeister Josef Schmid, Leiter des Referates für Arbeit und Wirtschaft
+- TOP 10.2.: Rathaus Umschau vom 24.11.2015 Illegales Gewerbegebiet in Trudering - Wann schafft die Stadt endlich Ordnung? Anfrage Stadrats-Mitglieder Johann Altmann, Dr. Josef Assal, Richard Progl und Ursula Sabathil (Fraktion Bürgerliche Mitte - Freie Wähler/Bayernpartei) vom 09.10.2015 Antwort Stadtbaurätin Professorin Dr. (I) Elisabeth Merk
+- TOP 10.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten a) Strukturwandel in der Innenstadt und in Innenstadtrandgebieten I: Städtische Flächenreserven gezielt nutzen b) Strukturwandel in der Innenstadt und in Innenstadtrandgebieten II: städtebauliche Instrumente zum Schutz gewachsener Strukturen aufzeigen Anträge von Mitgliedern des Stadtrates Sitzungsvorlagen Nr. 14-20 / V 02248 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (SB)
+- TOP 10.5.: Mehrjahresinvestitionsprogramm 2015 - 2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019 Infrastrukturversorgungskonzept 2015 - 2019 Sitzungsvorlagen Nr. 14-20 / V 04066 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB)
+- TOP 10.8.: Bebauungsplan mit Grünordnung Nr. 2007 Leibengerstraße (östlich), Mittbacher Straße (nördlich), Bahnlinie München-Ost - Simbach/Inn (südlich), Erdinger Straße (westlich) Teiländerung des Beb. Pl. nr. 1417a, Teilbereich I) 15. Stadtbezirk Trudering-Riem Konzeptausschreibung des Bauquartiers WA für freifinanzierte sowie im München Modell - Eigentum zu errichtende Wohnungen/Reihenhäuser Ausschreibungsbeschluss Sitzungsvorlagen Nr. 14-20 / V 04567 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 (SB)
+- TOP 10.9.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 - 30.06.2015 Sitzungsvorlagen Nr. 14-20 / V04552 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015
+- TOP 10.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Gerstäckerstraße 45 Hippelstraße 37 Truderinger Straße 234
+- TOP 10.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2015-2019, Einzelplan 4 / Sozialbereich Sitzungsvorlage Nr. 14-20 / V 04109 Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses vom 01.12.2015 (VB)
+- TOP 10.2.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale Sitzungsvorlage Nr. 14-20 / V 04020 Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 01.12.2015
+- TOP 10.3.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 14-20 / V 04110 Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 01.12.2015
+- TOP 10.4.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 14-20 / V 04080 Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 01.12.2015
+- TOP 10.5.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 14-20 / V 04153 Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 01.12.2015
+- TOP 10.6.: Mehrjahresinvestitionsprogramm (MIP) 2015-2019 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 14-20 / V 04372 Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 02.12.2015 (VB)
+- TOP 10.7.: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.2016
+- TOP 10.1.: Unterrichtung über bevorstehende Beseitigungen von Gefahrenbäumen
+- TOP 1.2.: TOP 8.2.33 Kirchtruderinger Straße 19
+- TOP 1.3.: TOP 8.3.34 Lachenmeyrstraße 32
+- TOP 1.4.: TOP 3.4.1 Bauvorhaben Edeltrautstraße 16 - Bitte um Unterstützung - <div>s. TOP 7.4.10</div>
+- TOP 1.5.: TOP 8.2.35 Helenenstraße 6a
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Weihnachtliches Orgelkonzert und Scholagesänge am 27.12.2015 - <div>nach Antrag</div>
+- TOP 1: (E) Einrichtung einer uneingeschränkten Haltverbotszone gegenüber den Schrägparkbuchten in der Lehrer-Wirth-Straße Empfehlung Nr. 14-20 / E 00624 der Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 08.10.2015 - <div>nach Antrag</div>
+- TOP 2: (E) Geplantes Zonenhaltverbot in der Heinrich-Böll-Straße Empfehlung Nr. 14-20 / E 00633 der Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 08.10.2015 - <div>nach Antrag</div>
+- TOP 3: (E) Verschiebung Glascontainer Empfehlung Nr. 14-20 / E 00635 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.10.2015 - <div>nach Antrag</div>
+- TOP 5.7.: Öffentlichkeitsveranstaltung zur künftigen Verkehrserschließung des ehemaligen "Piedestorfer Geländes" - <div>der BA besteht auf den ursprünglichen Antrag, Antwort zusammen mit TOP 7.3.1 an das PLANR</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
+- TOP 7.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 - Ramersdorf-Perlach vom 16.04.2015
+- TOP 10.1.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahmen zu den Anträgen der Bezirksausschüsse 4,6,7,9, 20, 21, 24 und 25 Sitzungsvorlagen Nr. 14-20 / V 04049 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 (VB)
+- TOP 10.8.: Messestadt Riem Unterbringung einer fünfzügigen Realschule und eines sechszügigen Gymnasiums - Standortbeschluss - Sitzungsvorlagen Nr. 14-20 / V 04641 Beschluss der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Bildungsausschusses und des Kommunalausschusses vom 09.12.2015 (SB)
