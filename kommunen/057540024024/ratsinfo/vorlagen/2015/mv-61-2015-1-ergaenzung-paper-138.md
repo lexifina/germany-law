@@ -1,0 +1,12 @@
+# Stellungnahme zum Haushaltsplanentwurf 2016 des Kreises Gütersloh
+
+- Körperschaft: Gemeinde Langenberg
+- Drucksache/Vorlage: MV-61/2015 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2015-12-17
+- Ratsinformationssystem: https://ratsinfo.langenberg.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZa91nE51m5h_F1lPeKhMw4Q
+- OParl: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/paper/138
+- Quelle: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Stellungnahme zum Haushaltsplanentwurf 2016 des Kreises Gütersloh) https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZW8d9-Uw3_NuS927eghB2kJ6uUU7EbJEItqbohDseKN_/Beschlussvorlage_MV-61-2015_1._Ergaenzung.pdf
+- Beratung:  https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/meeting/474 https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/organization/1-1
+- underDirectionOf: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/organization/3-2
