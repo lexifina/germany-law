@@ -1,0 +1,58 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2015-12-17T17:00:00+01:00
+- Ende: 2015-12-17T20:15:00+01:00
+- Ort: Dorfgemeinschaftshaus Sielhorst, Springeldamm 1, 32369 Rahden, Dorfgemeinschaftsraum
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbVr5iBsE3DqWj20ejKVwM8
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1502
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZekI-Ne6WrRyDhFjdbYzj6FxgKE-_-BqA8K87oXRPi70/Bekanntmachung_Rat_17.12.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXX8Ogxa42KMcFV-oNMOnkCOyOBxcArYosgvT3d6sSLR/Oeffentliche_Niederschrift_Rat_17.12.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Ausbau des Lerchenweges
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4.1: Ersatzwahl zu den Ausschüssen - Einstimmig, 1 Enthaltung (Bölk)
+- TOP 5.: Aufstellung des Bebauungsplanes Nr. 90 "Gewerbegebiet Pr. Ströhen -B239-" sowie 78. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 90 "Gewerbegebiet Pr. Ströhen -B239-" sowie des Änderungsplanes für die 78. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 1 Enthaltung (Henke)
+- TOP 6.: Erlass der 6. Satzung zur Änderung der Satzung der Stadt Rahden über die Umlegung von Verbandsbeiträgen für die Unterhaltung der fließenden Gewässer II. Ordnung (Umlegungssatzung) - Einstimmig, 1 Enthaltung (Dodenhöft)
+- TOP 7.: Erlass einer 5. Änderungssatzung zur Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Erlass einer 5. Satzung zur Änderung der Gebührensatzung zur Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 - Einstimmig, 1 Enthaltung (G. Meyer)
+- TOP 9.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2016 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2016 - Einstimmig, 1 Enthaltung (Dodenhöft)
+- TOP 11.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2016 - Einstimmig, 1 Enthaltung (Dodenhöft)
+- TOP 12.: 5. Änderungssatzung der Betrags- und Gebührensatzung zur Wasserversorgungssatzung der Stadt Rahden vom 30.06.2005 - 33 Stimmen dafür, 1 dagegen (Dodenhöft), 0 Enthaltungen
+- TOP 13.: Genehmigung von über- und außerplanmäßigen Ausgaben für Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) sowie für die wohnraummäßige Unterbringung von Flüchtlingen - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bildung der Eingangsklassen an den Grundschulen im Schuljahr 2016/17 und Verteilung der Klassen auf die Grundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Beratung und Beschlussfassung über die Gültigkeit der am 13. Steptember 2015 durchgeführten Wahl des Bürgermeisters der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Ansprechpartner für Seniorinnen/Senioren in der Stadt Rahden - Ohne Abstimmung
+- TOP 17.: Bekanntgaben
+- TOP 17.1: Arbeitskreis "Jüdisches Leben in Rahden"
+- TOP 17.2: Breitbandausbau in Rahden
+- TOP 17.3: Stadtfest Rahden
+- TOP 17.4: Neue VHS-Beauftragte
+- TOP 18.: Verschiedenes
+- TOP 18.1: Beleuchtungskonzept für Rahden
+- TOP 18.2: Kleidercontainer in Rahden
+- TOP 18.3: Einzelhandelskonzept
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 19.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 19.1: Ersatzbeschaffung eines Friedhofsbaggers - Einstimmig, 0 Enthaltungen
+- TOP 20.: Grundstücksangelegenheiten
+- TOP 20.1: Grunderwerb für das Gesundheitszentrum Rahden am Krankenhaus - Einstimmig, 1 Enthaltung (Bruhn)
+- TOP 20.2: Erwerb von zwei Grundstücken - 32 Stimmen dafür, 2 dagegen (BÜNDNIS 90/DIE GRÜNEN), 0 Enthaltungen
+- TOP 20.3: Erwerb des Grundstücks Mindener Straße 15, 32369 Rahden, von den Eheleuten Wilhelm und Angelika Starke, wohnhaft Kampstraße 2, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.4: Flurbereinigungsverfahren Rahden - Kleine Aue - Einstimmig, 1 Enthaltung (Korte)
+- TOP 20.5: Grundstück Gemarkung Wehe Flur 1 Flurstück 17 - 28 Stimmen dafür, 6 dagegen (FWG Rahden), 0 Enthaltungen
+- TOP 21.: Einzelfälle in Abgabenangelegenheiten
+- TOP 21.1: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bekanntgaben
+- TOP 23.: Verschiedenes
+- TOP 23.1: Unterbringung von Asylbewerbern in Rahden
