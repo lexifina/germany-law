@@ -1,0 +1,68 @@
+# 42. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-12-17T16:30:00+01:00
+- Ende: 2015-12-17T22:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4224
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4224
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=113046
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-49 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Lärmschutzmaßnahmen an der Bahnstrecke Berlin Ostbahnhof - Erkner, Ortslage Friedrichshagen - überwiesen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Fahrradstraße Stellingdamm und Waldburgweg - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den Verein der Freunde und Förderer der Sonnenblumengrundschule e. V. (SM 16-01) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bezirkshaushaltsrechnung 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Senioreneinrichtungen bei der Baulandentwicklung berücksichtigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Straßenbenennung in Bernhard-Langwaldt-Weg - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Parken in Kreuzungsbereichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Fußgängerüberweg Kiefholzstraße Höhe Hänselstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Sichere Abbiegemöglichkeit für Radfahrerinnen und Radfahrer von der Michael-Brückner-Straße in die Fennstraße schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Praktikumsinitiative für Flüchtlinge in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Schleusenzeiten verlängern – Wassertourismus in Treptow-Köpenick stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Straßenbahnverkehr der Linie 67 am Sonnabend - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Aufstellung eines Verkehrsspiegels in Bohnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Radweg am Treptower Spreeufer - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Planreifeerklärung zur Beschlussfassung - vertagt
+- TOP 12.13: Hinweisschild für "Bunkerberg" in Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Integrationsbezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Beschluss über die Inkraftsetzung der Leitlinien des Bezirksamtes Treptow-Köpenick zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK) bis 2020 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ergänzung der aktuellen Investitionsplanung - überwiesen
+- TOP 14.2: Kuratorium für die Gedenkstätte Köpenicker Blutwoche - überwiesen
+- TOP 14.3: Arbeitsfähigkeit der Bezirksverordneten in der BVV sicherstellen - überwiesen
+- TOP 14.4: Campus Kiezspindel - überwiesen
+- TOP 14.5: Bezirksregionenprofil (BZRP) für Köllnische Vorstadt / Spindlersfeld - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Uhren für den S-Bahnhof Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Lokalen Buchhandel stärken - überwiesen
+- TOP 14.8: Buslinie 164 - Verstärkung der Abfahrtzeiten - überwiesen
+- TOP 14.9: Information über die nachteiligen Umweltwirkungen von Terrassenheizstrahlern - überwiesen
+- TOP 14.10: Geflüchtete menschenwürdig unterbringen - keine Dauerlösungen in Sporthallen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.11: Buslinie 160 wieder bis zur Hasselwerderstraße führen - überwiesen
+- TOP 14.12: Maßnahmen zur verkehrlichen Strukturierung der Kiefholzstraße zwischen Lohmühlen- und Bouchéstraße - überwiesen
+- TOP 14.13: Bezirksregionenprofil (BZRP) für Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Entwicklung des Strandbads Müggelsee in öffentlicher Hand - überwiesen
+- TOP 14.15: Radwegeverbindungen am Müggelseedamm während der Bauphase sichern - überwiesen
+- TOP 14.16: Vollzug der Räumungsandrohung aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Anerkennung für Ehrenamtliche - überwiesen
+- TOP 14.18: Urnenwahlanlage Friedhof Bohnsdorf - überwiesen
+- TOP 14.19: WLAN für die Notunterkünfte - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Nutzungsvereinbarung für den Mellowpark schließen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
