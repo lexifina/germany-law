@@ -1,0 +1,7 @@
+# TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Rat der Stadt Bad Pyrmont (27. Sitzung) (2015-12-17)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/23738
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
