@@ -1,0 +1,74 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2015-12-18T16:00:00+01:00
+- Ende: 2015-12-18T21:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3021
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3021
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - einstimmig zugestimmt
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Änderung Mitunterzeichnung Ratsniederschrift - einstimmig zugestimmt
+- TOP 7: Fortschreibung des Frauenförderplanes - einstimmig zugestimmt
+- TOP 8: Anordnung Umlegungsverfahren Nr. 189 "Kreitzer Straße" - einstimmig zugestimmt
+- TOP 9: Gewinnverwendungsbeschluss 2014 der Liegenschaften und Vermessung Neuss (LVN) - einstimmig zugestimmt
+- TOP 10: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2016 - einstimmig zugestimmt
+- TOP 11: Vertragsverlängerung Radstation - einstimmig zugestimmt
+- TOP 12: Vertragsverlängerung FWZ - einstimmig zugestimmt
+- TOP 13: Workshops kooperative Baulandentwicklung - mehrheitlich zugestimmt
+- TOP 14: Umbau Römerstraße zwischen Bataverstraße und - verwiesen
+- TOP 15: Kommunaler Kinder- und Jugendförderplan 2015-2020 - einstimmig zugestimmt
+- TOP 16: Richtlinie zur Vermietungen von offenen Kinder- und Jugendeinrichtungen in Gebäuden der Stadt Neuss - verwiesen
+- TOP 17: Jugendhilfeplanung Kindertagesbetreuung; hier: Ausbauplanung Betreuungsplätze mit Rechtsanspruch 201 - einstimmig zugestimmt
+- TOP 18: Carl-Schurz-Straße - Einrichtung Querungsstelle, Neuorganisation Parkstreifen - einstimmig zugestimmt
+- TOP 19: Wirtschaftsplan 2016 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP 20: BPL 443 - Allerheiligen, Am Henselsgraben: Ausbau Quartiersplätze - einstimmig zugestimmt
+- TOP 21: Neubau Grundschule Allerheiligen, Freianlagen - einstimmig zugestimmt
+- TOP 22: Erhöhung des jährlichen Zuschusses Mensen an den beiden Standorten der Gesamtschule - einstimmig zugestimmt
+- TOP 23: Anträge zur Berufsförderung an Neusser Schulen für das Schuljahr 2016/2017 - einstimmig zugestimmt
+- TOP 24: Offene Ganztagsschule – Erhöhung der Budgets ab dem Schuljahr 2016/17 - einstimmig zugestimmt
+- TOP 25: Entwicklung der Görresschule - einstimmig zugestimmt
+- TOP 26: Gartenordnung der Stadt Neuss - einstimmig zugestimmt
+- TOP 27: Entwidmung des alten Friedhofs in Neuss-Hoisten - einstimmig zugestimmt
+- TOP 28: Umsetzung des Klimaschutzkonzeptes - mehrheitlich zugestimmt
+- TOP 29: Angebot einer Schenkung für das Clemens-Sels-Museum und damit verbundene Auflagen und Bedingungen - einstimmig zugestimmt
+- TOP 30: Genehmigungen von überplanmäßigen Aufwendungen im Bereich der Hilfen zur Erziehung - einstimmig zugestimmt
+- TOP 31: Jahresabschluss GMN 2014 - einstimmig zugestimmt
+- TOP 32: W-Plan GMN 2016 - einstimmig zugestimmt
+- TOP 33: Außerplanmäßiger Aufwand für die Allgemeine VRR-Verbandsumlage 2015 - einstimmig zugestimmt
+- TOP 34: Abfallentsorgungsgebühr 2016 - einstimmig zugestimmt
+- TOP 35: Beratung Haushaltsplanentwurf 2016 - mehrheitlich zugestimmt
+- TOP 36: mittelfristigen Ergebnisplanung 2015 - 2019 - mehrheitlich zugestimmt
+- TOP 37: Beratung Investitionsprogramm 2015-2019 - mehrheitlich zugestimmt
+- TOP 38: Erlass Hebesatzung 2016 - mehrheitlich zugestimmt
+- TOP 39: Erlass Haushaltssatzung 2016 - mehrheitlich zugestimmt
+- TOP 40: Einladung zur Mitgliederversammlung 2016 des Städtetages NRW und Benenung von Teilnehmern - einstimmig zugestimmt
+- TOP 41: Genehmigung von Dringlichkeiten gemäß § 60 GO NRW im Bereich Gebäudemanagement - einstimmig zugestimmt
+- TOP 42: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 43: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 44: Nachbesetzungen in den städtischen Beteiligungsgremien - einstimmig zugestimmt
+- TOP 45: Nachbesetzungen in den städtischen Beteiligungsgremien - einstimmig zugestimmt
+- TOP 46: Nachbesetzungen in den städtischen Beteiligungsgremien - einstimmig zugestimmt
+- TOP 47: Antrag der Fraktion DIE LINKE betr.: Aufhebung der Elternbeitragssatzung - abgesetzt
+- TOP 48: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Tor zur Nordstadt - einstimmig zugestimmt
+- TOP 49: Anfrage von Herrn Stadtverordneten Sahnen betr.: Verunreinigung durch Papier und Kartonage - zur Kenntnis genommen
+- TOP 50: Anfrage von Herrn Stadtverordneten Sahnen betr.:Stolperschwellen in der Stadt - zur Kenntnis genommen
+- TOP 50.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50.2: Anfrage von Frau Stadtverordnete Koenemann betr.: Unterbringung von Flüchtlingen in Gewerbeimmobilie - zur Kenntnis genommen
+- TOP 51: Bericht zur aktuellen Flüchtlingssituation in Neuss - einstimmig zugestimmt
+- TOP 52: Kenntnisnahme üpl./apl. IV/2014 (vorl.) - III/2015 - einstimmig zugestimmt
+- TOP 53: Änderung Dienstanweisung Sponsoring - einstimmig zugestimmt
+- TOP 54: Rettungsdienstbedarfsplan 2014 des Rhein-Kreises Neuss - einstimmig zugestimmt
+- TOP 55: Bericht des Antikorruptionsbeauftragten - einstimmig zugestimmt
+- TOP 56: Entwicklung der Schmutz- und Regenwassergebühren für 2016 - einstimmig zugestimmt
+- TOP 56.1: Haushaltsentwurf des Rhein-Kreises Neuss für die Haushaltjahre 2016/2017 - einstimmig zugestimmt
+- TOP 57: Einwohnerfragestunde - zur Kenntnis genommen
