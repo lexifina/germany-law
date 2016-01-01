@@ -1,4 +1,5 @@
-# Inhaltsübersicht
+# Sächsische Bauordnung (SächsBO)1
+Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Anwendungsbereich
 § 2 Begriffe
@@ -30,7 +31,7 @@ Abschnitt 3 Bauprodukte, Bauarten
 § 23 Übereinstimmungserklärung des Herstellers
 § 24 Übereinstimmungszertifikat
 § 25 Prüf-, Zertifizierungs-, Überwachungsstellen
-Abschnitt 4 Wände, Decken, Dächer
+Abschnitt 4 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer
 § 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen
 § 27 Tragende Wände, Stützen
 § 28 Außenwände
@@ -57,7 +58,7 @@ Abschnitt 6 Technische Gebäudeausrüstung
 Abschnitt 7 Nutzungsbedingte Anforderungen
 § 47 Aufenthaltsräume
 § 48 Wohnungen
-§ 49 Stellplätze, Garagen
+§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder
 § 50 Barrierefreies Bauen
 § 51 Sonderbauten
 Teil 4 Die am Bau Beteiligten
@@ -83,7 +84,7 @@ Abschnitt 3 Genehmigungsverfahren
 § 67 Abweichungen
 § 68 Bauantrag, Bauvorlagen
 § 69 Behandlung des Bauantrags
-§ 70 Beteiligung der Nachbarn
+§ 70 Beteiligung der Nachbarn und der Öffentlichkeit
 § 71 Ersetzung des gemeindlichen Einvernehmens
 § 72 Baugenehmigung, Baubeginn
 § 73 Geltungsdauer der Genehmigung
@@ -101,7 +102,7 @@ Abschnitt 5 Bauüberwachung
 Abschnitt 6 Baulasten
 § 83 Baulasten, Baulastenverzeichnis
 Teil 6 Ausführungsbestimmungen zum Baugesetzbuch
-§ 84 Nachnutzung land- und forstwirtschaftlicher Gebäude
+§ 84 (weggefallen)
 § 85 Zuständigkeitsregelungen für Aufgaben nach dem Baugesetzbuch
 § 86 Bildung eines Oberen Gutachterausschusses, Aufsicht über die Gutachterausschüsse und den Oberen Gutachterausschuss
 Teil 7 Ordnungswidrigkeiten, Rechtsvorschriften, Übergangsvorschriften
