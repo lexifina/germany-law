@@ -1,5 +1,5 @@
 # § 30c Verordnungsermächtigung
-Der Senator für Gesundheit wird ermächtigt, durch Rechtsverordnung das Nähere zur Ethikkommission zu regeln. In der Rechtsverordnung sind insbesondere Regelungen über
+Die Senatorin für Wissenschaft, Gesundheit und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung das Nähere zur Ethikkommission zu regeln. In der Rechtsverordnung sind insbesondere Regelungen über
 1. die Aufgaben der Ethikkommission,
 2. die Voraussetzungen für ihr Tätigwerden,
 3. das Verfahren, soweit nicht in § 42 des Arzneimittelgesetzes und der GCP-Verordnung geregelt,
