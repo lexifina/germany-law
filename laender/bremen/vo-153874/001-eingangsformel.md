@@ -1,2 +1,4 @@
+## Einzelansicht Seitenanfang
 # Eingangsformel
-Aufgrund des § 33 Abs. 2 und 6 des Bremischen Hochschulgesetzes in der Fassung vom 20. Dezember 1988 (Brem.GBl. 1989 S. 25 - 221-a-1), das zuletzt durch Artikel 6 des Gesetzes vom 27. März 1995 (Brem.GBl. S. 199) geändert worden ist, wird verordnet:
+Auf Grund des § 33 Absatz 2 des Bremischen Hochschulgesetzes in der Fassung der Bekanntmachung vom 9. Mai 2007 (Brem.GBl. S. 339-221-a-1), das zuletzt durch Artikel 1 des Gesetzes vom 14. Juli 2020 (Brem.GBl. S. 712) geändert worden ist, wird verordnet:
+Einzelansicht Seitenanfang

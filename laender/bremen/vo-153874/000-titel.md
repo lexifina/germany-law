@@ -1,1 +1,1 @@
-# Verordnung über den Nachweis der künstlerischen Befähigung beim Hochschulzugang vom 25. Juni 1996
+# Verordnung über den Nachweis der künstlerischen Befähigung beim Hochschulzugang vom 3. September 2020
