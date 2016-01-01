@@ -1,0 +1,1 @@
+Auf Grund des Art. 53 Abs. 1 Nr. 2 des Bayerischen Rettungsdienstgesetzes (BayRDG) vom 22. Juli 2008 (GVBl S. 429, BayRS 215-5-1-I), zuletzt geändert durch § 1 Nr. 190 der Verordnung vom 22. Juli 2014 (GVBl S. 286), erlässt das Bayerische Staatsministerium des Innern, für Bau und Verkehr folgende Verordnung:
