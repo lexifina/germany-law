@@ -1,1 +1,1 @@
-Abschnitt 1 Erhebung und Bezahlung der Feldes- und Förderabgabe sowie Marktwertfeststellung
+Abschnitt 1 Erhebung und Bezahlung der Feldes- und Förderabgabe
