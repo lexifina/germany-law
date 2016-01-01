@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
 § 2 Zusammenarbeitsgebot
@@ -45,6 +45,7 @@ Teil 3 Geschäftsführung
 § 41 Teilnahme weiterer Personen
 § 42 Verhandlungsniederschrift
 § 43 Geschäftsordnung
+§ 43a Ausschüsse des Personalrats
 § 44 Sprechstunden
 § 45 Kosten
 Teil 4 Rechtsstellung
@@ -71,10 +72,10 @@ Teil 7 Besondere Vertretungen
 § 63 Entsprechende Anwendung von Vorschriften
 § 64 Stufenvertretungen und Gesamt-Jugend- und Auszubildendenvertretung
 § 65 Jugend- und Auszubildendenversammlung
-§ 66 (aufgehoben)
+§ 66 (weggefallen)
 § 67 Schulen und Lehrkräfte
 § 68 Polizeivollzugsdienst
-§ 69 aufgehoben
+§ 69 Arbeitsgemeinschaft der Hauptpersonalräte
 § 70 Staatsbetrieb Sachsenforst
 Teil 8 Beteiligung der Personalvertretungen
 § 71 Zusammenarbeit
