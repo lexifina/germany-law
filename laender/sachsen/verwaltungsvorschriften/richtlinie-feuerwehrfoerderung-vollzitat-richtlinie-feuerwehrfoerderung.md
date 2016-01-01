@@ -1,8 +1,8 @@
 # Richtlinie Feuerwehrförderung Vollzitat: Richtlinie Feuerwehrförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2015-12-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.3
+- Datum: 2016-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-04.12.2015
+01.01.2016
 bis
-31.12.2015
+26.07.2018
 
 Richtlinie Feuerwehrförderung
 
@@ -230,7 +230,7 @@ Zuwendungsverfahren
 
 1.
 
-Bewilligungsbehörde für kreisangehörige Gemeinden ist der Landkreis. Bewilligungsbehörde für Zuwendungen an Kreisfreie Städte, Landkreise nach Ziffer VII Nummer 3 Satz 1 sowie zur Förderung von Maßnahmen nach Ziffer II Nummer 1 Buchstabe f, i und l ist die Landesdirektion Sachsen.
+Bewilligungsbehörde für kreisangehörige Gemeinden ist der Landkreis. Bewilligungsbehörde für Zuwendungen an Kreisfreie Städte, Landkreise nach Ziffer VII Nummer 3 Satz 1 sowie zur Förderung von Maßnahmen nach Ziffer II Nummer 1 Buchstabe f für die Erstausstattung für Fahrzeuge der Feuerwehr und der Ebene 4 im Digitalfunknetz, i und l ist die Landesdirektion Sachsen.
 
 2.
 
@@ -287,7 +287,8 @@ VIII.
 
 Übergangsbestimmungen
 
-Vorhaben, für die Zuwendungen vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt worden sind, werden nach der bisher geltenden Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur Förderung des Feuerwehrwesens (Förderrichtlinie Feuerwehrwesen – FRFw) vom 18. Dezember 2003 (SächsABl. 2004 S. 141), geändert durch Verwaltungsvorschrift vom 27. Dezember 2004 (SächsABl. 2005 S. 66), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), abgewickelt.
+Vorhaben, für die Zuwendungen vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt worden sind, werden nach der bisher geltenden Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur Förderung des Feuerwehrwesens (Förderrichtlinie Feuerwehrwesen –
+FRFw) vom 18. Dezember 2003 (SächsABl. 2004 S. 141), geändert durch Verwaltungsvorschrift vom 27. Dezember 2004 (SächsABl. 2005 S. 66), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), abgewickelt.
 
 IX.
 
@@ -475,324 +476,6 @@ Anlage 3
 
 (zu Ziffer V Nummer 2 und 3)
 
-Höhe der Zuwendungen bei Festbetragsfinanzierung
-
-1
-
-Baumaßnahmen
-
-Zur Errichtung und Einrichtung von Feuerwehrhäusern und Feuerwachen beziehungsweise -räumen mit Nebenanlagen, feuerwehrtechnischen Zentren einschließlich dem Erwerb von Gebäuden und deren Umbau für Feuerwehrzwecke werden Festbeträge wie folgt gewährt:
-
-Baumaßnahmen
-
-| lfd. Nr.
-
-| was
-
-| Betrag
-
-| 1.1
-| Neubauten
-
-| 1.1.1
-| Feuerwehrhäuser
-
-|
-| 1 Stellplatz
-| 185 000 EUR
-
-|
-| 2 Stellplätze
-| 235 000 EUR
-
-|
-| 3 Stellplätze
-| 355 000 EUR
-
-|
-| 4 Stellplätze
-| 535 000 EUR
-
-|
-| 5 Stellplätze
-| 660 000 EUR
-
-|
-| 6 Stellplätze
-| 800 000 EUR
-
-|
-| 7 Stellplätze
-| 875 000 EUR
-
-|
-| 8 Stellplätze
-| 1 025 000 EUR
-
-|
-| 9 und mehr Stellplätze
-| 1 025 000 EUR
-
-|
-| zuzüglich
-| 869 EUR
-
-|
-| pro m² zusätzliche Nutzfläche über 8 Stellplätze
-
-|
-| Mit diesen Festbeträgen sind auch Flächen für Außenanlagen im Sinne von lfd. Nr. 6 der Tabelle 1 der DIN 14 092-1 abgegolten.
-
-| 1.1.2
-| Feuerwachen
-
-|
-| Der Festbetrag wird von der Bewilligungsstelle nach Maßgabe des Raumprogrammes für den Bau von Feuerwehrhäusern, Tabelle 1 zu DIN 14 092-1, festgesetzt. Für die Ermittlung des Festbetrags ist ein Betrag von 869 EUR pro m² anerkannte Nutzfläche zugrunde zu legen. Sofern Einrichtungen nach Nummer 1.1.3 enthalten sind, sind die dort genannten Beträge für diese Einrichtungen anzuwenden.
-
-| 1.1.3
-| Feuerwehrtechnische Zentren
-
-|
-| 1.1.3.1
-| Atemschutzübungsanlage
-| 165 000 EUR
-
-|
-| zuzüglich bei Bedarf
-
-|
-| Sanitätsraum
-| 20 000 EUR
-
-|
-| Schulungsraum
-| 31 000 EUR
-
-|
-| Sozialräume
-| 51 000 EUR
-
-|
-| 1.1.3.2
-| Atemschutzwerkstatt
-| 115 000 EUR
-
-|
-| 1.1.3.3
-| Schlauchpflegeeinrichtung Vollstraße oder
-| 115 000 EUR
-
-|
-|
-| Schlauchpflegeeinrichtung Halbstraße
-| 85 000 EUR
-
-|
-| zuzüglich bei Bedarf
-
-|
-| Vollturm – mit automatischer Schlauchaufhängevorrichtung
-| 90 000 EUR
-
-|
-| Halbturm
-| 30 000 EUR
-
-| 1.2
-| Rekonstruktions-, Um- und Anbaumaßnahmen
-
-|
-| Der Festbetrag wird von der Bewilligungsstelle nach Maßgabe des Raumprogrammes für den Bau von Feuerwehrhäusern, Tabelle 1 zu DIN 14 092-1, festgesetzt. Für die Ermittlung des Festbetrags sind folgende Beträge pro m² anerkannte Nutzfläche zugrunde zu legen:
-
-| 1.2.1
-| Feuerwehrhäuser und Feuerwachen
-| 869 EUR
-
-| 1.2.2
-| Feuerwehrtechnische Zentren
-
-|
-| 1.2.2.1
-| Atemschutzübungsanlagen
-| 1 020 EUR
-
-|
-| zuzüglich bei Bedarf
-
-|
-| Sanitätsraum
-| 1 020 EUR
-
-|
-| Schulungsraum
-| 1 020 EUR
-
-|
-| 1.2.2.2
-| Atemschutzwerkstatt
-| 1 020 EUR
-
-|
-| 1.2.2.3
-| Schlauchpflegeeinrichtung
-| 1 020 EUR
-
-|
-| zuzüglich bei Bedarf
-
-|
-| Vollturm – mit automatischer Schlauchaufhängevorrichtung
-| wie Neubau
-
-|
-| Halbturm
-| wie Neubau
-
-2
-
-Feuerwehrfahrzeuge
-
-Zur Beschaffung der nachstehend genannten Feuerwehrfahrzeuge werden Zuwendungen als Festbeträge gewährt. Mit den Festbeträgen sind alle Kosten für Fahrgestell, Aufbau und feuerwehrtechnische Beladung abgegolten.
-
-Feuerwehrfahrzeuge
-
-| Fahrzeugart
-
-| Festbetrag
-
-| für Einsatzfahrzeuge
-
-| Fahrzeugart1)
-| Festbetrag
-|  Betrag für Einsatzfahr-
-
-zeuge zum gemeinde-
-
-übergreifenden Einsatz gemäß § 7 Abs. 1 Nr. 7
-SächsBRKG
-
-| ELW 1 nach DIN 14 507 Teil 2
-| 39 000 EUR
-|
-
-| ELW 2 nach DIN 14 507 Teil 3
-|
-| 210 000 EUR2)
-
-| KdoW nach DIN 14 507 Teil 5
-|  17 000 EUR
-|
-
-| TSF nach DIN 14 530 Teil 16
-| 41 000 EUR
-|
-
-| KLF nach DIN 14 530 Teil 24
-| 50 000 EUR
-|
-
-| TSF-W nach DIN 14 530 Teil 17
-| 80 000 EUR
-|
-
-| TSF-W mit Allradantrieb nach Anlage 2
-| 89 000 EUR
-|
-
-| MLF nach DIN 14 530 Teil 25
-| 99 000 EUR
-|
-
-| LF 10 nach DIN 14 530 Teil 5
-| 109 000 EUR
-| 152 000 EUR
-
-| HLF 10 nach DIN 14 530 Teil 26
-| 117 000 EUR
-| 163 000 EUR
-
-| LF 20-KatS nach DIN 14 530 Teil 8
-| 121 000 EUR
-| 169 000 EUR
-
-| LF 20 nach DIN 14 530 Teil 11
-| 133 000 EUR
-| 186 000 EUR
-
-| HLF 20 nach DIN 14 530 Teil 27
-| 164 000 EUR
-| 230 000 EUR
-
-| TLF 2000 nach DIN 14 530 Teil 18
-| 90 000 EUR
-|
-
-| TLF 3000 nach DIN 14 530 Teil 22
-| 117 000 EUR
-| 163 000 EUR
-
-| TLF 4000 nach DIN 14 530 Teil 21
-| 138 000 EUR
-| 193 000 EUR
-
-| RW nach DIN 14 555 Teil 3
-| 170 000 EUR
-| 238 000 EUR
-
-| GW-G nach DIN 14 555 Teil 12
-| 150 000 EUR
-| 210 000 EUR
-
-| GW-L1 nach DIN 14 555 Teil 21 ohne Module
-| 45 000 EUR
-|
-
-| GW-L2 nach DIN 14 555 Teil 22 ohne Module
-| 80 000 EUR
-| 112 000 EUR
-
-| DLA(K) 18-12 nach DIN EN 14 043
-| 210 000 EUR
-| 294 000 EUR
-
-| DLA(K) 23-12 nach DIN EN 14 043
-| 276 000 EUR
-| 368 000 EUR
-
-| HAB nach DIN EN 1777
-| 150 000 EUR
-| 350 000 EUR
-
-| WLF 18/5900 nach DIN 14 505
-| 65 000 EUR
-|
-
-| WLF 26/6900 nach DIN 14 505
-| 80 000 EUR
-| 112 000 EUR
-
-| MTW gemäß Anlage 1
-| 21 000 EUR
-|
-
-1)
-
-Gebrauchte Feuerwehrfahrzeuge werden gefördert:
-
-mit 88 Prozent, wenn sie älter als 12 Monate,
-
-mit 77 Prozent, wenn sie älter als 24 Monate,
-
-mit 68 Prozent, wenn sie älter als 36 Monate,
-
-mit 60 Prozent, wenn sie älter als 48 Monate
-
-sind.
-
-2)
-
-auch bei Beschaffungen der Kreisfreien Städte ohne gemeindeübergreifenden Einsatz
-
 Anlage 4
 
 (zu Ziffer VI Nummer 7)
@@ -807,9 +490,9 @@ Fsn-Nr.: 551-V12.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  4. Dezember 2015
+Fassung gültig ab:  1. Januar 2016
 
-Fassung gültig bis: 31. Dezember 2015
+Fassung gültig bis: 26. Juli 2018
 
 Drucken/Speichern
 
@@ -836,7 +519,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12427.3
+https://www.revosax.sachsen.de/vorschrift/12427.4
 Stand vom
 18.11.2026
 
