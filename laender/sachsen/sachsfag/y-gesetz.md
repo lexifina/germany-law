@@ -1,5 +1,5 @@
 # Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Sächsisches Finanzausgleichsgesetz – SächsFAG)
-Rechtsbereinigt mit Stand vom 2. Januar 2015
+Rechtsbereinigt mit Stand vom 1. Januar 2016
 Inhaltsübersicht
 Abschnitt 1 Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
