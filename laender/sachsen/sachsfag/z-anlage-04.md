@@ -1,7 +1,7 @@
 # Anlage 4 (zu § 16a)
 Ergänzender Mehrbelastungsausgleich Verwaltungs- und Funktionalreform 2008
 Mehrbelastungsausgleich
-Lfd. Nr. | Landkteis/Jahr | Betrag
+Lfd. Nr. | Landkreis/Jahr | Betrag
 1. | Landkreise
  | a) | Erzgebirgskreis | 283 530 EUR,
  | b) | Mittelsachsen | 294 833 EUR,

@@ -1,7 +1,7 @@
 # Anlage 3 (zu § 22 Abs. 2 Nr. 7)
 Bedarfszuweisungen zur Unterstützung von vorübergehenden Anpassungsmaßnahmen im Zusammenhang mit der Übernahme der kreislichen Aufgaben
 Unterstützung
-Lfd. Nr. | Landkteis/Jahr | Betrag
+Lfd. Nr. | Landkreis/Jahr | Betrag
 1. | Vogtlandkreis
  | im Jahr 2009 | 1 431 000 EUR,
  | im Jahr 2010 | 954 000 EUR,
