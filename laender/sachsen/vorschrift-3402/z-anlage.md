@@ -23,7 +23,7 @@ b) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
 Eilenburg | Eilenburg Oschatz
 Grimma | Borna Döbeln Grimma
 Zwickau | Hohenstein-Ernstthal Zwickau
-c) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 10 Millionen Euro | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Schwarzenberg Stollberg Zschopau
+c) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 12 Millionen Euro | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Schwarzenberg Stollberg Zschopau
 Leipzig II | Borna Eilenburg Grimma Leipzig I Leipzig II Oschatz
 Zwickau | Hohenstein-Ernstthal Plauen Zwickau
 d) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbaubetriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
