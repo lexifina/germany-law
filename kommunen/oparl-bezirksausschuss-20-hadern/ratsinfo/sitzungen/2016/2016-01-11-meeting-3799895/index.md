@@ -1,0 +1,84 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3799895
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3799895
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Spielplatz am Ende der Gräfelfinger Straße
+- TOP 1.2.: Antrag auf Errichtung eines Tagesheimes an der Grundschule am Canisiusplatz
+- TOP 1.3.: Zustand Containerstandplatz Willibaldstraße / Haderner Steg
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 1: Zusammensetzung des Nutzerrates für ?Guardini 90? Empfehlung Nr. 14-20 / E 00640 der Bürgerversammlung des Stadtbezirkes 20 ? Hadern am 20.10.2015 (Kulturreferat, 14.12.15) - <div>nach Antrag</div>
+- TOP 2: Beleuchtung des Trampelpfades zwischen Stiftsbogen und Wolkerweg (Antrag 3) Empfehlung Nr. 14-20 / E 00653 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 20.10.2015 (Baureferat, 17.12.15) - <div>nach Antrag</div>
+- TOP 3: Ausbau des parallel zur A 96 verlaufenden Weges zwischen Walter-Hopf-Weg und Schröfelhofstraße zu einem festen Fuß- und Radweg Empfehlung Nr. 14-20 / E 00641 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 20.10.2015 (Baureferat, 17.12.15) - <div>nach Antrag</div>
+- TOP 3.4.: Budget der Bezirksausschüsse, Forum Blumenau Soziale Kultur- und Werkgemeinschaft gGmbH, 1. Klassikkonzerte für Kinder am 24.01. und am 03.04.2016 (Direktorium, 23.12.15)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Planung der Einsätze der Münchner SommerSpielAktion 2016 (Spielen in der Stadt e.V., 11.12.15)
+- TOP 6.2.: Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept in München Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet (Kommunalreferat, 15.12.15)
+- TOP 6.3.: Beschlussentwurf für den Sportausschuss vom 13.01.2016: Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen, Maßnahmenpaket 2 Kunstrasenplatzbau Bezirkssportanlage Ludwig-Hunger-Straße 11 (Referat für Bildung und Sport, 17.12.15)
+- TOP 6.4.: Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft am 16.02.2016: Einrichtung einer "neutralen Zone" für die U-Bahn-Station "Klinikum Großhadern" (Referat für Arbeit und Wirtschaft, 15.12.15)
+- TOP 6.5.: Erinnerungsverfahren: Willibaldstraße Fahrbahnsanierung zwischen Krokusstraße und Langbehnstraße (Baureferat, 15.12.15)
+- TOP 6.6.: Beschlussvorlage 1. Schulbauprogramm (Referat für Bildung und Sport, 30.12.15)
+- TOP 6.7.: Standortverlagerung SBH Plinganserstraße in die Schertlinstraße 8 (Sozialreferat, 08.01.16)
+- TOP 6.8.: Erinnerungsverfahren: Würmtalstraße 116 - 118 (Baureferat, 04.01.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Windeckstraße 73 a, 1 Mammutbaum
+- TOP 7.2.: Nothkaufplatz 7, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 23643
+- TOP 7.3.: Silberblattstraße 24, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24745
+- TOP 7.4.: Gräfelfinger Straße 142, 1 Rotbuche
+- TOP 7.5.: Haderunstraße 66, 1 Fichte
+- TOP 7.6.: Brunellenweg 18, 1 Nadelbaum und 1 Laubbaum
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Liste des Baureferates vom 08.12.2015: 46 Bäume auf dem Waldfriedhof
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens (Direktorium, 26.11.15)
+- TOP 8.2.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist (3. Bürgermeisterin Strobl, 30.11.15)
+- TOP 8.3.: Erleichtung der BA-Arbeit für Menschen mit Beeinträchtigung, Antrag des BA 11 - Milbertshofen-Am Hart vom 08.04.2015 (Direktorium, 27.11.15)
+- TOP 8.4.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Viet Wok", Fürstenrieder Straße 272 a (Kreisverwaltungsreferat, 10.12.15)
+- TOP 8.5.: Baumaßnahmen der Stadtwerke München, hier: - Kurparkstraße 52, Strom (SWM, 07.12.15) - Am Wiesenhang, Strom (SWM, 14.12.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Anwohnerparken rund um die U-Bahn-Haltestelle "Großhadern" - Zwischennachricht (Referat für Stadtplanung und Bauordnung, 09.12.15)
+- TOP 9.2.: Fahrbahnsanierung der Parallelstraße zur Würmtalstraße (Baureferat, 11.12.15)
+- TOP 9.3.: Umbaumaßnahmen im Kinderhaus Ellen Ammann (Referat für Bildung und Sport, 24.11.15)
+- TOP 9.4.: Verkehrssituation Waldwiesen- / Haderunstraße (Kreisverwaltungsreferat, 21.12.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Frauen-Stadtgespräch im Rathaus am 28.01.2016 (Gleichstellungsstelle für Frauen, 07.12.15)
+- TOP 11.2.: Broschüre "1995 - 2015: 20 Jahre Wohnen ohne Auto in München - Erfolge, Hindernisse und Perspektiven" (Wohnen ohne Auto, Dezember 15)
+- TOP 11.3.: Antrag des BA 8 Schwanthalerhöhe: Kommunale Sonderabgabe auf To-Go-Becher
+- TOP 11.4.: Landschaftspark Pasing-Laim-Blumenau-Hadern; Wegeverbindung Lobelienweg - Silberdistelstraße (BA 21 Pasing-Obermenzing, 08.12.15)
+- TOP 11.5.: Pflege BA-Homepages (Direktorium, 16.12.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 19.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03847: Fortschreibung des multimodalen Gesamtverkehrsmodells für die Region München auf den Prognosehorizont 2030 - Stufe II - Finanzierungsbeteiligung
+- TOP 12.2.: Beschluss vom 19.11.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03651: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen Fachliche Bewertung der Ergebnisse der Machbarkeitsuntersuchungen Priorisierungsvorschlag der drei optionalen Tunnelbaumaßnahmen für die Ringabschnitte Landshuter Allee, Tegernseer Landstraße und Isarring / Englischer Garten Weiterer vertiefender Untersuchungsbedarf Anträge und Empfehlungen
+- TOP 12.1.: Beschluss vom 16.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04142: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" A) Bekanntgabe des Konzeptgutachtens B) Vorbereitung der Öffentlichkeitsbeteiligung C) Behandlung des Antrags Nr. 14-20 / A 00044 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 06.06.2014 "Gründung einer Kommission für Grünflächen und Naturschutz"
+- TOP 12.2.: Beschluss vom 16.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04049: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sportausschusses vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04460: Infrastrukturprogramm Sport in München Rückblick 2015 und Fortschreibung für 2016
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03675: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02248: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kulturausschusses vom 03.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04420: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2015 - 2019 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04903: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur
+- TOP 12.2.: Beschluss des Kreisverwaltungsausschusses vom 15.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04808: CarSharing in München - Evaluationsergebnisse des Pilotversuchs und Empfehlungen (EVA-CS) - Förderung von CarSharing und Elektro-CarSharing in München
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Hinweis / Ergänzung vom 07.12.2015 zur Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04552: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 - 30.06.2015
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
