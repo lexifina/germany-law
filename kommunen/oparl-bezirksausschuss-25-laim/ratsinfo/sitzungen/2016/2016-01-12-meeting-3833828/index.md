@@ -1,0 +1,115 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833828
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833828
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.0: Informationen der Stadtwerke München GmbH zum Projekt ?Seismik-Messungen in München?
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Organisiertes Betteln im Bereich Fürstenrieder Str. zwischen Laimer Kreisel und U-Bahn
+- TOP 1.2.2.: Geh- und Radwegbrücke Pronnerplatz/Nymphenburger Park
+- TOP 1.2.3.: Verkehrssituation Friedenheimer Brücke; Busspur anstatt Parplätze
+- TOP 1.2.4.: Postfiliale Gotthardstraße; Bessere Besetzungn der Schalter und mehr Packstationen
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 18.11.15: Laimer Fisch- und Markttage vom 10.06. bis 19.06.16; Anhörungsverfahren
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.11.15: Barrierefreie Querungen im Fuß- und Radverkehr, Priorisierung bestehender und geplanter Querungsbauwerke; Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 14-20 / V 01203)
+- TOP 4.3.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Saherrstr. 6, Gehbahn und Einfahrt
+- TOP 4.4.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Siglstr., Radwegsanierung, Westseite zwischen Agnes-Bernauer-Str. und Zschokkestr.
+- TOP 4.5.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Agricolastr., Fahrbahnsanierung im Abschnitt zwischen Hönigschmidplatz und Camerloherstr.
+- TOP 4.6.: Schreiben Direktorium vom 16.11.15: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung, Ziffer 19 Abschnitt Kommunalreferat von: "Information über den beabsichtigten Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A" in: "Beabsichtigte Vergabe, Verkauf oder Tausch von bebauten und unbebauten städtischen Grundstücken sowie deren beabsichtigte Nutzung A"
+- TOP 4.7.: Schreiben Direktorium vom 24.11.15: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung, Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U" in: "Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A"
+- TOP 4.9.: Schreiben Spielen in der Stadt e.V. vom 11.12.15: Planung der Einsätze der Münchner SommerSpielAktion 2016
+- TOP 4.10.: Fröbelplatz 13: Antrag auf Fällung einer Esche
+- TOP 4.11.: Friedberger Str. 11: Antrag auf Fällung von zwei Ahornbäumen
+- TOP 4.12.: Joergstr. 35: Antrag auf Fällung einer Eberesche
+- TOP 4.13.: Schreiben Kommunalreferat vom 15.12.15: Beschluss des Kommunalausschusses vom 10.12.15 zum WC-Konzept in München; Ermittlung des Bedarfs im Stadtgebiet
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Hörkherstr. 3a: Neubau eines Einfamilienhauses / Vorbescheid
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 01.12.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Herr Oberbürgermeister Dieter Reiter vom 18.12.15: Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.15
+- TOP 8.2.: Schreiben Frau Bürgermeisterin Christine Strobl vom 19.11.15: 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"; Vorabinformation über eine Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses am 03.02.16
+- TOP 8.3.: Schreiben Direktorium vom 13.11.15: Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 8.4.: Schreiben Direktorium vom 26.11.15: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens
+- TOP 8.5.: Schreiben Direktorium vom 27.11.15: Erleichterung der BA-Arbeit für Menschen mit Beeinträchtigung
+- TOP 8.6.: Schreiben Baureferat vom 17.11.15: Unterrichtung über die Entfernung von Gefahrenbäumen im Januar/Februar 2016
+- TOP 8.7.: Schreiben Baureferat vom 20.11.15: Unterrichtung über die Entfernung von Gefahrenbäumen im Winter 2015/2016
+- TOP 8.8.: Schreiben Baureferat vom 24.11.15: Nachträgliche Unterrichtung über die Entfernung eines Gefahrenbaumes am 27.11.15
+- TOP 8.9.: Schreiben Baureferat vom 10.12.15: Verschmutzung öffentlicher Plätze (Anfrage Nr. 14-20 / Q 00202 aus der Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.15)
+- TOP 8.10.: Schreiben Referat für Gesundheit und Umwelt vom 16.12.15: Infoabende des Bauzentrums München im Zeitraum Januar bis April 2016
+- TOP 8.11.: Schreiben Referat für Gesundheit und Umwelt vom 08.12.15: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet
+- TOP 8.12.: Schreiben Referat für Gesundheit und Umwelt vom 10.12.15: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.11.15: Schrobenhausener Str. 15; Baugenehmigung vom 18.11.15
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.11.15: Mitterhoferstr. 7; Unterbringung mit Betreuung unbegleiteter alleinstehender Flüchtlinge im Alter zwischen 18 und 25 Jahren
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.11.15: Schedelstr. 10, Ausbau des zweiten Dachgeschosses zu zwei Wohneinheiten
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.12.15: Vollzug der Baumschutzverordnung; Weichselbaumerstr. 6, Fällung eines Silberahorns
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.12.15: Vollzug der Baumschutzverordnung; Gutzkowstr. 11-13, Fürstenrieder Str. 137, Fällung von 2 Schwarzkiefern
+- TOP 8.18.: Referat für Stadtplanung und Bauordnung vom 17.12.15: Ausführung des Baus der U5 nach Pasing und Weiterführung nach Freiham; Zwischenmitteilung an Antragstellerin der Empfehlung Nr. 14-20 / E 00783 der Bürgerversammlung vom 24.11.15
+- TOP 8.19.: Bautenliste vom 16.11.-22.11.15 1. Erstantragsverfahren a) Schrobenhausener Str. 2 b) Schäufeleinstr. 7 c) Ilmmünsterstr. 28b 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Geigerstr. 3
+- TOP 8.20.: Bautenliste vom 23.11.-29.11.15 1. Erstantragsverfahren a) Schäufeleinstr. 7
+- TOP 8.21.: Bautenliste vom 07.12.-13.12.15 1. Erstantragsverfahren a) Elsenheimerstr. 48 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Fürstenrieder Str. 41 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Kärntner Platz 3
+- TOP 8.22.: Bautenliste vom 14.12.-20.12.15 1. Erstantragsverfahren -/- 2. Änderungsverfahren zu genehmigten Bauvorhaben -/- 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 160 b) Landsberger Str. 214 c) Landsberger Str. 162
+- TOP 8.23.: Schreiben Kreisverwaltungsreferat vom 01.12.15: Unveränderte Fortführung der Kleingaststätte "Pub Mausi", Fürstenrieder Str. 6
+- TOP 8.24.: Schreiben Kreisverwaltungsreferat vom 01.12.15: Unveränderte Fortführung der Schank- und Speisewirtschaft "Asien Perle", Agnes-Bernauer-Str. 51
+- TOP 8.25.: Schreiben Kreisverwaltungsreferat vom 09.12.15: Austausch der Lichtsignalanlage Menari-/Senftenauer Str.
+- TOP 8.26.: Schreiben Kreisverwaltungsreferat vom 15.12.15: Überhöhte Geschwindigkeit und Rotlichtüberwachung in der Landsberger Straße
+- TOP 8.27.: Schreiben Kreisverwaltungsreferat vom 22.12.15: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Rappstr. 1
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 11.12.15: Filmaufnahmen auf öffentlichem Verkehrsgrund; 3 Filmproduktionen der Constantin Entertainment GmbH vom 01.01.16 bis 30.06.16 auf Straßen innerhalb und außerhalb des Mittleren Rings
+- TOP 8.29.: Schreiben Kommunalreferat vom 09.12.15: Münchner Wochen- und Bauernmärkte - Standortfrage; Verlegung des Bauernmarktes in Laim
+- TOP 8.30.: Schreiben Sozialreferat vom 15.12.15: BA-Erstinformation zur Flüchtlingsunterkunft Elsenheimerstr. 48-50
+- TOP 8.31.: Schreiben Sozialreferat vom 22.12.15: Kontaktdaten "Stab Flüchtlinge" im Sozialreferat
+- TOP 8.32.: Schreiben Abfallwirtschaftsbetrieb München vom 15.12.15: Wertstoffcontainer am Standort Hans-Thonauer-Str. / Nördlinger Str.
+- TOP 8.33.: Schreiben Referat für Arbeit und Wirtschaft vom 15.12.15: Werbenutzungsvertrag; Standorte für Säulenumwandlungen, Bereisung am 19.01.16
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 23.11.15: Baumaßnahmen der Stadtwerke; Stichtag 23.11.15
+- TOP 8.35.: Schreiben Stadtwerke München GmbH vom 30.11.15: Baumaßnahmen der Stadtwerke; Stichtag 30.11.15
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 27.11.15: Baumaßnahmen der SWM; Info-Flyer Fernwärmeprojekt Agricolastr. 6
+- TOP 8.37.: Schreiben Stadtwerke München GmbH vom 07.12.15: Baumaßnahmen der Stadtwerke; Stichtag 07.12.15
+- TOP 8.38.: Schreiben Stadtwerke München GmbH vom 14.12.15: Baumaßnahmen der Stadtwerke; Stichtag 14.12.15
+- TOP 8.39.: Schreiben Stadtwerke München GmbH vom 21.12.15: Baumaßnahmen der Stadtwerke; Stichtag 21.12.15
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.15 und der Vollversammlung des Stadtrates vom 19.11.15: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen; Änderungsantrag der SPD-Stadtratsfraktion (Sitzungsvorlage Nr. 14-20 / V 03651)
+- TOP 8.41.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 01.12.15: Haushaltsplan 2016; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 04110)
+- TOP 8.42.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 01.12.15: Haushaltsplan 2016; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 04153)
+- TOP 8.43.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.15: Haushaltsplan 2016; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 04080)
+- TOP 8.44.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 01.12.15: Haushaltsplan 2016; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (Sitzungsvorlage Nr. 14-20 / V 04020)
+- TOP 8.45.: Beschluss des Bildungsausschusses vom 02.12.15: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen; Kindertagesstätten sonstiger Träger, Haus für Kinder an der Landsberger Str. 155, Leistung eines Baukostenzuschusses (Sitzungsvorlage Nr. 14-20 / V 04638)
+- TOP 8.46.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: Strukturwandel in der Innenstadt und in Innenstadtrandgebieten (Sitzungsvorlage Nr. 14-20 / V 02248)
+- TOP 8.47.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: Barrierefrerie Waldwege als Pilotprojekt für gelungene Inklusion (Sitzungsvorlage Nr. 14-20 / V 03675)
+- TOP 8.48.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: Mehrjahresinvestitionsprogramm 2015 - 2019; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019, Infrastrukturversorgungskonzept 2015 - 2019 (Sitzungsvorlage Nr. 14-20 / V 04066)
+- TOP 8.49.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019; Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung/Wohnungsfürsorge; Stellungnahmen zu BA-Anträgen, u.a. BA 25 vom 16.04.15 (Sitzungsvorlage Nr. 14-20 / V 04049)
+- TOP 8.50.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" (Sitzungsvorlage Nr. 14-20 / V 04142)
+- TOP 8.51.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.15: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren (Sitzungsvorlage Nr. 14-20 / V 04433)
+- TOP 8.52.: Beschluss des Sportausschusses des Stadtrates vom 02.12.15: Infrastrukturprogramm Sport in München; Rückblick 2015 und Fortschreibung 2016 (Sitzungsvorlage Nr. 14-20 / V 04460)
+- TOP 8.53.: Beschluss des Bauausschusses vom 08.12.15: Landschaftspark Freiham - Bewerbung um eine Bundesgartenschau (BUGA) oder eine Internationale Gartenschau (IGA); Antrag der SPD-Stadtratsfraktion vom 27.04.15 (Sitzungsvorlage Nr. 14-20 / V 04617)
+- TOP 8.54.: Beschluss des Bauausschusses vom 08.12.15: Münchner Kleingartenwesen; Umwidmung von Zeitkleingarten- in Dauerkleingartenanlagen, Erhöhung der Sanierungspauschale für Trinkwasserleitungen, Zusätzlicher Sachmittelbedarf (Sitzungsvorlage Nr. 14-20 / V 04368)
+- TOP 8.55.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.12.15: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01. bis 30.06.16 (Sitzungsvorlage Nr. 14-20 / V 04552)
+- TOP 8.56.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.15: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen; Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur (Sitzungsvorlage Nr. 14-20 / V 04903)
+- TOP 8.57.: Beschluss des Kreisverwaltungsausschusses vom 15.12.15: CarSharing in München; Evaluationsergebnisse und Empfehlungen (EVA-CS); Förderung von CarSharing und Elektro-CarSharing in München (Sitzungsvorlage Nr. 14-20 / V 04808)
+- TOP 8.58.: Beschluss der Vollversammlung des Stadtrates vom 16.12.15: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019; Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung/Wohnungsfürsorge; Stellungnahmen zu BA-Anträgen, u.a. BA 25 vom 16.04.15 (Sitzungsvorlage Nr. 14-20 / V 04049)
+- TOP 8.59.: Beschluss der Vollversammlung des Stadtrates vom 16.12.15: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" (Sitzungsvorlage Nr. 14-20 / V 04142)
+- TOP 8.60.: Schreiben Gleichstellungsstelle für Frauen vom 07.12.15: Frauen*-Stadtgespräch am 28.01.16 von 17:30 bis 19:30 Uhr im Rathaus, Großer Sitzungssaal
+- TOP 8.61.: Budget des BA 25; Verwendungsnachweis der Laimer Spielmäuse vom 11.10.15 zur Bauernhoffahrt vom 24.06. bis 26.06.15
+- TOP 8.62.: Budget des BA 25; Verwendungsnachweis von Spielen in der Stadt e.V. vom 30.10.15 zur Aktion Artmobil + Baumobil
+- TOP 8.63.: Budget des BA 25; Verwendungsnachweis Initiativgruppe e.V. - IG Feuerwache der Mittelschule an der Schrobenhausener Str. vom 25.11.15 zur Aktion Inklusive Freizeitfahrt
+- TOP 8.64.: Budget des BA 25; Verwendungsnachweis Familienzentrum Laim vom 01.12.15 für die Spielaktion
+- TOP 8.65.: Budget des BA 25; Kurzbericht der Mittelschule Schrobenhausener Str. vom 30.11.15 über die inklusive Freizeitfahrt zum Schliersee vom 17.07. - 19.07.15
+- TOP 8.66.: Budget des BA 25; Verwendungsnachweis von STÜPS (Stützpunkt und Beratung für Kinder und Jugendliche) vom 30.11.15 über die Ausbildungsfahrt der Streitschlichterinnen und Streitschlichter der Mittelschule an der Fürstenrieder Str. im Oktober 2015
+- TOP 8.67.: Budget des BA 25; Kurzbericht STÜPS Laim vom 30.11.15 zur Ausbildungsfahrt der StreitschlichterInnen
+- TOP 8.68.: Budget des BA 25; Kurzbericht des Familienzentrums Laim vom 01.12.15 zur Spielaktion "Mein Freund, der Baum" vom 16.09. bis 25.09.15
+- TOP 8.69.: Bürgerschreiben vom 12.12.15 an PI 41 zur Information des BA 25: Unzumutbare Gehwegnutzung am Willibaldplatz
+- TOP 8.70.: Schreiben BA 1 Altstadt-Lehel vom 11.12.15: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 8.71.: Schreiben BA 8 Schwanthalerhöhe vom 16.12.15: Kommunale Sonderabgabe auf To-Go-Becher (Antrag BA 8 Nr. 14-20 / B 01511 vom 05.08.15)
+- TOP 1: (E) Weiterführung der U 5 nach Pasing (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00785 der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.2015
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 10.12.15: Hogenbergplatz; Flohmarkt der Mittagsbetreuung Camerloherschule am 05.03.16 (Ausweichtermin 12.03.16)
+- TOP 1.2: Bürgerpost an den BA
