@@ -1,0 +1,100 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3778989
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3778989
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Antworten der PI 12 auf die Fragen aus der Sitzung vom 08.12.2015
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Allgemeine Wohnsituation in der Kardinal-Döpfner-Straße Schreiben einer Bürgerin vom 23.11.2015
+- TOP .2.: Keine Kundgebungen von Pegida/Bagida mehr auf dem Königsplatz Schreiben eines Bürgers vom 26.11.2015
+- TOP .3.: Bauvorhaben Türkenstraße 97 Schreiben eines Bürgers vom 19.11.2015
+- TOP .4.: Fahrradspur in der Gabelsbergerstraße Schreibens eines Bürgers vom 17.11.2015 vertagt aus der Sitzung vom 08.12.2015, TOP A 5.2.9 Unterlagen liegen bereits vor
+- TOP .5.: Partylärm durch Studenten der Hochschule für Fernsehen und Film Schreiben eines Bürgers vom 14.12.2015
+- TOP .6.: Sanierung der Neureutherstraße Schreiben eines Bürgers vom 04.11.2015
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Aufwertung des Rudi-Hierl-Platzes
+- TOP .2.: Baumpflanzungen in der Adalbertstraße zwischen Türken- und Amalienstraße
+- TOP .3.: Zwingende Aufstellung von Mülleimern vor gastronomischen Betrieben, die Getränke/Speisen zum mitnehmen anbieten.
+- TOP .4.: Der Bezirksausschuss 3 Maxvorstadt soll über den aktuellen Stand der Planungen zur U 9 unterrichtet und frühzeitig in die weiteren Planungen zum Trassenverlauf und zur Lage, gestaltung und Namensgebung von Bahnhöfen der U 9 in der Maxvorstadt miteingebunden werden.
+- TOP .5.: Die Landeshauptstadt München wird aufgefordert,im gesamten Kunstareal, also dem Gebiet zwischen Karl-, Türken-, Heß- und Richard-Wagner-Straße, eine Tempo-30-Zone einzurichten
+- TOP .6.: Fertigstellung des ?Norkauer Platzes? und Erläuterungen zur ergänzenden Begrünung durch Kübelbepflanzung BA-Antrag Nr. 14-20 / B 01397 des BA 3 vom 14.07.2015
+- TOP .7.: Benennung des Straßennamens Heßstraße
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Bauvorhaben der LBK: 48., 49., 50., 51. KW
+- TOP .2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 47., 48. KW
+- TOP .3.: Rambergstraße 2, Errichtung eines neuen DG (10 WE), Errichtung eines Aufzuges, Teil- überdachung des offenen Innenhofes mit Überdachung von Fahrradstellplätzen, Errich- tung eines Grubenparkers, Multiparker für 30 Stellplätze im Hof
+- TOP .4.: Türkenstraße 97 Errichtung eines neuen DG (9 WWE), Errichtung eines Aufzuges, Tiefbau für einenTeil des Grubenparkers, Multiparker im Hof
+- TOP .5.: Amalienstraße 81 Anbau eines Aufzuges an ein denkmalgeschütztes Gebäude vertagt aus der Sitzung vom 08.12.2015 (Tischvorlage TOP B 2.1.7), Stellungnahme der LBK ist eingetroffen; Unterlagen liegen bereits vor
+- TOP .6.: Arcisstraße 53 Abbruch und Neuerrichtung Dach mit zwei WE - Vorbescheid
+- TOP .7.: Schellingstraße 50 Sanierung, Aufstockung und Nutzungsänderung des ehem. Innenhofateliers
+- TOP .8.: Denisstraße 3 a Neubau eines Gebäudekomplexes für Verwaltung und Büro ? Vorbescheid
+- TOP .9.: Görresstraße 31 Nutzungsänderung Gaststätte zu Büro, Anbau von Balkonen, Abbruch tragender Wände für neue Fensteröffnungen
+- TOP .10.: Schleißheimer Straße 22 a Nutzungsänderung der EG-Einheit
+- TOP .11.: Heßstraße 46 a Vergrößerung dreier Dachgauben
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .1.: Theresienstraße 71 a Neubau zweier Wohnhäuser mit Keller (BT 1 u. 2), Innenhofbebauung (BT 3 ? 8), Keller- gechoss sowie Großgarage (BT 9), Theresienstraß 71 a und 75
+- TOP .3.2: Baumfällungen
+- TOP .1.: Baureferat, Unterrichtung Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP .2.: Görresstraße 2, eine Kastanie
+- TOP .3.: Heßstraße 58, eine Hainbuche
+- TOP .4.: Professor-Huber-Platz 1, eine Blaufichte
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Ablehnung einer beantragten Baumfällung Türkenstraße 101 ? 101 a
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Schreiben vom 27.11.2015 Bauvorhaben Maximiliansplatz 9, Aufstockung eines Wohngebäudes mit Gastronomie und Tiefgarage - Vorbescheid
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Unterrichtung Handlungsprogramm Mittlerer Ring ? fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadt- rates im Zeitraum vom 01.01.2015 bis 30.06.2015 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanund und Bauordnung vom 09.12.2015 Sitzungsvorlage Nr. 14-20 / V 04552
+- TOP .5.: Referat für Stadtplanung und Bauordnung Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Antrag Nr. 14-20 / A 01072 div. Mitglieder des Stadtrates vom 22.05.2015 Infrastrukturprogramm München II: Handlungsprogramm Infrastrukturprogramm Antrag Nr. 14-20 / A 01073 div. Mitglieder des Stadtrates vom 22.05.2015
+- TOP .6.: Bezirksausschuss 8 Schwanthalerhöhe ?Kommunale Sonderabgabe auf To-Go-Becher?, Antrag des BA 8 vom 05.08.2015 Bitte um Unterstützung
+- TOP .7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Konzeption zur langfristigen Freiraumentwicklung ?Freiraum M 2030? Beschluss der Vollversammlung des Stadtrates vom 16.12.2015 Sitzungsvorlage Nr. 14-20 / V 04142
+- TOP .1.: Antrag der CSU im BA 3 vom 19.11.2015 Umsetzung der Nord-Süd-Querung für Radfahrer am Odeonsplatz vertagt aus der Sitzung vom 08.12.2015, TOP C 1.1 Unterlagen liegen bereits vor
+- TOP .2.: Antrag der CSU im BA 3 vom 24.11.2015 Altstadtring Nord-West; stadtplanerische Aufwertung des Einganges zum Kunstareal vertagt aus der Sitzung vom 08.12.2015 Unterlagen liegen bereits vor
+- TOP .3.: Antrag der SPD im BA 3 vom 17.12.2015 Durchfahrtverbot für Fernbusse in Teilen des Marsfeldes
+- TOP .2.1: Verkehr
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Kommunalreferat, Anhörung Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 3. Stadtbezirk Maxvorstadt
+- TOP 3.2.3: Gaststätten
+- TOP 3.1.: Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept in München Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet, Anhörung
+- TOP 3.2.4: Veranstaltungen
+- TOP 3.1.: Baumaßnahmen der Stadtwerke Theresienstraße 65, Fernwärme Enhuberstraße u. Steinickeweg, Fernwärmesanierung
+- TOP 3.2.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der geräte- und Maschi- nenlärmschutzverordnung (32. BimSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für die Müllsammlung, Verlängerung Schleißheimer Straße zwischen Theresien- und Elisabethstraße
+- TOP 3.3.: Kreisverwaltungsreferat, Beschlussvorlage CarSharing in München; Evaluationsergebnisse des Pilotversuchs und Empfehlungen (EVA-CS), Förderung von CarSharing und Elektro-CarSharing in München Beschluss des Kreisverwaltungsausschusses vom 15.12.2015 Sitzungsvorlage Nr. 14-20 / V 04808
+- TOP 3.4.: Referat für Gesundheit und Umwelt Vollzug des Bundesimmissionsschutzgesetzes (BImschG) und der Geräte und Maschi- nenlärmschutzverordnung (32. BImschV); Ausnahmezulassung Jahresgenehmigungen für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 3.5.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Eingeschränktes Haltverbot nach Zeichen 286 StVO in der Max-Joseph-Straße 5
+- TOP 3.6.: Verlängerung der Grünphase an div. Ampeln in München Beantwortung einer Bürgeranfrage an den BA 3, TOP A 5.2.8/122015, durch das KVR
+- TOP 3.7.: Direktorium a)Anbringung einer Gedenktafel zu den Münchner Gründungsfrauen der IFFF/WILPF Antrag Nr. 14-20 / A 01690 der Stadtratsfraktion Bündnis 90/Die Grünen vom 22.12.2015 b) Einbahnstraßenregelung in der Brienner Straßennamens Antrag Nr. 14-20 / A 01683 der ALFA vom 18.12.2015
+- TOP 3.1.: Referat für Bildung und Sport, Anhörung Sprengeländerung im Bereich GS Türkenstraße ? GS Schwind-/Zentnerstraße
+- TOP 3.2.: Spielen in der Stadt, Anhörung Zusätzliche Einsatzorte der Münchner SommerSpielAktion 2016 in der Maxvorstadt
+- TOP 3.1.: Öffentlicher Bücherschrank, mögliche Standorte
+- TOP 3.2.: ?Zaide?, Oper von Wolfgang Amadeus Mozart Adaption als Flüchtlingsoper im Veranstaltungssaal der ?Alten Messe? München, unterstützt durch die Bezirksausschüsse 1, 3, 6, 8 und 13 (Unterlagen werden nachgereicht)
+- TOP 3.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Schreiben 3. Bürgermeisterin an die Referate Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhö- rungsfrist
+- TOP 3.2.: Direktorium, Unterrichtung Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürger- versammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksaus- schüsse zur Entscheidung übertragen worden sind; Änderungdes Verfahrens
+- TOP 3.3.: Direktorium, Anhörung Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Ent- scheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von ?Information über den Umgriff und Zeitdauer von Großbau- stelleneinrichtungen jeglicher Art U? in ?Umgriff und Zeitdauer von Großbaustelleneinrich- tungen jeglichert Art A?. BA-Antrag Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015
+- TOP 3.4.: Direktorium, Unterrichtung Erleichterung der BA-Arbeit für Menschen mit Beeinträchtigungen BA-Antrag Nr. 14-20 / B 01123 des BA 11 Milbertshofen-Amt Hart vom 08.04.2015
+- TOP 3.5.: Direktorium, Anhörung Vertretungsregelungen in Unterausschüssen; Abrechnung der Aufwandsentschädigungen vertagt aus der Sitzung vom 08.12.2015 Unterlagen liegen bereits vor
+- TOP 3.6.: Bezirksausschuss 1 Altstadt-Lehel, Unterrichtung Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushalts an die Stadtkämmerei
+- TOP 3.7.: Schaukasten Brienner-/Ecke Arcisstraße, Unterrichtung Schreiben des Kulturreferates vom 17.12.2015 an das Kommunalreferat
+- TOP 3.8.: Kommunalreferat, Unterrichtung Informationsschaukasten für den Bezirksausschuss 3, Brienner Straße/Ecke Arcisstraße
+- TOP 3.9.: Kassenbericht zum 31.12.2015
+- TOP 2: (E) Die Steinpoller an der Kreuzung Blutenburg-/Maillingerstraße sollen unverzüglich wieder eingesetzt werden; die Metallpoller an der Grundstücksgrenze Blutenburgstraße 42/44 sollen ersetzt werden Empfehlung Nr. 14-20 / E 00663 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 22.10.2015
+- TOP 3: (E) Beibehalten des Kopfsteinpflasters in der Nordendstraße (Nr. 1 der Empfehlung) Empfehlung Nr. 14-20 / E 00656 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 22.10.2015
+- TOP 3.1.: Anträge
+- TOP 3.2.: Entscheidungen und Anhörungen
+- TOP 3.3.: Aktuelle Sachstandsberichte
+- TOP 3.4.: Unterrichtungen
