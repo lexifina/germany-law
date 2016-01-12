@@ -1,0 +1,54 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-01-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3797979
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3797979
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 01.12.2015
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine, Informationen, Antwortschreiben
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Reinigung Sollner Weiher
+- TOP 4.3.: (A) Suchkreismeldung Mobilfunkanlage
+- TOP 4.4.: (A) Wertstoffcontainerstandort Beuerberger Str./Wolfratshauser Str.
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Bericht Bürgerworkshop
+- TOP 5.2.: Gemeinde Planegg: Resolution zum LKW-Transitverbot auf dem südwestlichen Mittleren Ring
+- TOP 5.3.: (A) Satzungsänderung: Zeitdauer von Großbaustelleneinrichtungen
+- TOP 5.6.: (Antrag) Beschilderung Evangelisches Pflegezentrum
+- TOP 5.7.: (Antrag) Seniorenbeirat: Inbetriebnahme Buslinie 136 an Sonntagen
+- TOP 0: Bericht (2)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (U) Zweckentfremdung: Begasweg
+- TOP 6.3.: (U) Zweckentfremdung: Scheidegger Str.
+- TOP 6.4.: (Antrag) Junges Quartier Obersendling
+- TOP 0: Bericht (3)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) 1. Schulbauprogramm ? Neubau, Erweiterung und Generalinstandsetzung
+- TOP 0: Bericht (4)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (U) Gaststättenfortführung: Boschetsrieder Str. 5
+- TOP 0: Bericht (5)
+- TOP 9: Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Forstenrieder Sport Club e.V. Beschaffung von Sportgeräten
+- TOP 5.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Widmungserweiterung der Gesamtstrecke des August-Macke-Weges
+- TOP 5.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Widmung der Gesamtstrecke des Isarwinkels
+- TOP 0: Bericht (6)
+- TOP 0.8.: Sicherheit Radweg Baierbrunner Straße - <div></div>
+- TOP 0.5.: Historischen Derzbachhof in Forstenried retten - <div></div>
