@@ -1,0 +1,94 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-01-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833476
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833476
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Beeinträchtigung des Landschaftsbildes und Lärmemission durch Kieslagerstätte
+- TOP 2.2.: Anbindung der Waldkolonie an das öffentliche Verkehrsnetz
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Kompetenz vor Ort anerkennen und wertschätzen-den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U" in: "Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A"
+- TOP 5.2.: Nigglstr. 11, Gemarkung: Allach, Fl.Nr.: 157/13 Errichtung eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID (Var. 1+2) und Vollzug der BaumschutzVO
+- TOP 5.3.: Errichtung eines Einkaufs- und Dienstleistungszentrums mit Tiefgarage (Hintermeierstr./Oertelplatz) Hintermeierstr., Gemarkung: Allach, Fl.Nr.: 1324/120
+- TOP 5.4.: Planung der Einsätze der Münchner SommerSpielAktion 2016
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Sportausschusses des Stadtrats vom 02.12.15: Infrastrukturprogramm Sport München, Rückblick 2015 und Fortschreibung für 2016 (Sitzungsvorlage Nr. 04460)
+- TOP 6.2.: Beschluss des Bauausschusses vom 08.12.15: Münchner Kleingartenwesen (Sitzungsvorlage Nr. 04368)
+- TOP 6.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.12.15: Beschlussvollzugskontrolle (BVK) und Hinweis/Ergänzung (Sitzungsvorlage Nr. 04552)
+- TOP 6.4.: Beschluss des Kreisverwaltungsausschusses vom 15.12.15: CarSharing in München (Sitzungsvorlage Nr. 04808)
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 16.12.15: a) Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 (sitzungsvorlage Nr. 04049) b) Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" (Sitzungsvorlage Nr. 04142)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Vertretungsregelung in Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.: Frauen-Stadtgespräch im Rathaus, Großer Sitzungssaal am 28.01.2016 vom 17:30 -19:30 Uhr
+- TOP 7.4.: Veranstaltung zum Thema Gartenstadt am 04.02.16 ab ca. 18:00 Uhr
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Direktorium vom 27.11.15: Erleichterung der BA-Arbeit für Menschen mit Beeinträchtigung
+- TOP 9.2.: Schreiben Direktorium vom 17.12.15: Antrag BA 17, Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städt. Immobilen
+- TOP 9.3.: Schreiben Direktorium vom 16.12.15: Pflege BA-Homepages
+- TOP 9.4.: Schreiben Referat für Gesundheit und Umwelt vom 14.12.15: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Fa. Bayer. Asphalt-Mischwerke GmbH & Co.KG für Straßenbaustoffe
+- TOP 9.5.: Schreiben Referat für Gesundheit un dUmwelt vom 14.12.15: Vollzug des Bundes-Immissionsschutzgesetzes, Paul-Ehrlich-Weg 130, Asphaltmischanlage
+- TOP 9.6.: Schreiben Referat für Gesundheit und Umwelt vom 18.12.15: Vollzug des BImSchG; Firma MAN Truck & Bus, Dachauer Str. 667
+- TOP 9.7.: Schreiben Referat für Gesundheit und Umwelt vom 15.12.15: Vollzug der Wassergesetze; Allgemeinverfügung für das Tauchen mit Atemgeräten im Langwieder See
+- TOP 9.8.: Schreiben Kreisverwaltungsreferat vom 04.11.15: Aufhebung des Z 283 (absolutes Haltverbot) in der Unteren Mühlstraße
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 09.12.15: Vollzug der Grünanlagensatzung vom 15.06.12, Baustelleneinrichtung am Gleichplatz
+- TOP 9.10.: Schreiben Sozialreferat vom 30.11.15: Antrag auf Zweckentfremdung von Wohnraum, Konrad-Beyerle-Str.
+- TOP 9.11.: Schreiben Sozialreferat vom 22.12.15: Stab Flüchtlinge
+- TOP 9.12.: Schreiben Referat für Arbeit und Wirtschaft vom 11.12.15: Postbriefkasten vor dem Grundstück Allacher Str. 150
+- TOP 9.13.: Schreiben Referat für Arbeit und Wirtschaft vom: europe direct
+- TOP 9.14.: Schreiben Stadtwerke München vom 07.12.15, 14.12.15, 21.12.15: Baumaßnahmen
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (30.11.-06.12.15, 07.12.-13.12.15, 14.12.-20.12.15)
+- TOP 9.16.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Gerberau 13, Rudhartstr. 25, Auenbruggerstr. 18
+- TOP 9.17.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Am Lochholz 19, Goteboldstr. 36, Walter-Otto-Str. 15
+- TOP 9.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.12.15: Bauvorhaben Behringstr. 73
+- TOP 9.19.: Schreiben Kommunalreferat vom 15.12.15: Beschluss des Kommunalausschusses vom 10.12.15 zum WC-Konzept in München, Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet
+- TOP 9.20.: Schreiben BA 8 Schwanthalerhöhe vom 11.12.15: Kommunale Sonderabgabe auf To-Go-Becher,Antrag Nr. 01511
+- TOP 9.21.: Schreiben BA 1 Altstadt-Lehel vom 11.12.15: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes
+- TOP 9.22.: Schreiben Spielen in der Stadt vom 25.11.15: Kurzbericht, Verwendungsnachweis
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Anhänger-Wildwuchs in der Höcherstraße und Umgebung
+- TOP 10.2.: Entscheidung: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Projektname: Radwegroutenschluss Radwegroute 1 Lochhausener Straße zwischen Goteboldstraße und Mühlangerstraße, Projekt-Nr.: 100806
+- TOP 10.3.: Anhörungen: Beschlussentwurf: A) Strukturkonzept für das sog. "Junkersgelände", B) Bebauungsplan Nr. xxxx Pastuerstraße (südlich), Bahnlinie München - Treuntlingen (westlich), Ludwigsfelder Straße (nördlich) und Schöllstraße -Aufstellungsbeschluss-, C) Teilaufhebung des Aufstellungsbeschlusses Nr. 1751, D) Anträge/Empfehlung
+- TOP 10.4.: Neubau eines Mehrfamilienhauses mit Garage Walter-Otto-Str. 15, Gemarkung: Untermenzing, Fl.Nr.: 329/4
+- TOP 10.5.: Erweiterung eines Omnibus-Betriebshofs Everbuschstr. 208, Gemarkung: Allach, Fl.Nr.: 1319/0
+- TOP 10.6.: Neubau eines Doppel- und eines Einfamilienhauses mit Garagen Allacher Str. 114, Gemarkung: Untermenzing, Fl.Nr.: 383/7 und Vollzug der BaumschutzVO
+- TOP 10.7.: Beschlussvorlage 1. Schulbauprogramm (Stadtratssitzung 18.02.16) Eilt
+- TOP 10.8.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung vom 30.12.15: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Gerberau, Gemarkung Allach, Fl.Nr.: 1398/0
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.12.15 Verbindungsstraße von der Ludwigsfelder Straße zur Pasteurstraße, BV-Empf. 523 vom 23.06.15; Zwischennachricht
+- TOP 10.10.: Schreiben Referat für Bildung und Sport vom 28.12.15: Unverzügliche Aufnahme der Planung einer 4. Grundschule und Hort am Standort Theodor-Fischer-Straße / Pasinger Heuweg
+- TOP 10.11.: Schreiben Sozialreferat vom 21.12.15: Spielmöglichkeiten Tubeufstraße 19d
+- TOP 10.12.: Schreiben Sozialreferat vom 21.12.15: Sanitäreinrichtungen Tubeufstr. 19 d
+- TOP 10.13.: Schreiben Sozialreferat vom 21.12.15: Aufenthaltsräume Tubeufstr. 19 d
+- TOP 10.14.: Schreiben Sozialreferat vom 21.12.15: Erteilung eines Auftrags für Asyl-Sozialberatung in der Noterstaufnahme Tubeufstr. 19 d
+- TOP 10.15.: Schreiben Baureferat vom 18.12.15: Bebauungsplan mit Grünordnung Nr. 2044 - Gerberau, hier Rhoda-Erdmann-Straße (U-1697)
+- TOP 10.16.: Schreiben Baureferat vom 30.12.15: Beleuchtung Fußweg am Allacher Bahnhof
+- TOP 10.17.: Schreiben Baureferat vom 11.12.15: Baumentfernungen und Gehölzpflege in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken: Eversbuschstr. 182
+- TOP 10.18.: Schreiben MVG vom 15.12.15: Verspätung Buslinie 164
+- TOP 10.19.: Schreiben BA 24 Feldmoching-Hasenbergl vom 28.12.15: Baumforen 2016 / Ankündigung Baumforum AWARD
+- TOP 10.20.: Schreiben Aktion Münchner Fahrgäste vom 27.12.15: Bahnsteigtüren unverzichtbar
+- TOP 10.21.: Schreiben Behindertenbeirat vom 04.01.16: FAK Mobilität
+- TOP 10.22.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.15: Haushaltsplan 2016; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" a) der Zentrale (Sitzungsvorlage Nr. 4020) b) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 4080) c) des Stadtjugendamtes (Sitzungsvorlage Nr. 4153) d) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 4110)
+- TOP 10.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.15: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen; Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur (Sitzungsvorlage Nr. 04903)
+- TOP 10.24.: Beschluss des Bauausschusses vom 12.01.16: Fahrradstellplatzkonzept (3. Realisierungsabschnitt) (Sitzungsvorlage Nr. 03326)
+- TOP 10.25.: Beschluss der Vollversammlung vom 16.12.15: Münchner Kleingartenwesen (Sitzungsvorlage Nr. 4368)
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Faschingsumzug am 09.02.2016
