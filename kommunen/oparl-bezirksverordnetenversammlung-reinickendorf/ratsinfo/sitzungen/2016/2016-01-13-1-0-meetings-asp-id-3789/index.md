@@ -1,0 +1,76 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-01-13T17:00:00+01:00
+- Ende: 2016-01-13T21:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3789
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3789
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=87186
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Wahlen - (offen)
+- TOP 2.1: Wahl eines Bezirksstadtrates / einer Bezirksstadträtin - vertagt
+- TOP 2.2: Wahl eines stellvertretenden Bezirksbürgermeisters / einer stellvertretenden Bezirksbürgermeisterin - gewählt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Einwohneranfragen für die 48. Sitzung der BVV am 13.01.2016 - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 48. Sitzung der BVV am 13.01.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Mündliche Anfragen für die 48. Sitzung der BVV am 13.01.2016 - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Flüchtlinge willkommen in Reinickendorf? - zurückgezogen
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Handlauf am Eingang des S-Bahnhofs Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 8.3: Öffnung von Einbahnstraßen für den Radverkehr (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.4: Zebrastreifen an der Einmündung Waidmannsluster Damm / Dianastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Geeignete Angebote für Schüler mit Verhaltensauffälligkeiten entwickeln - überwiesen
+- TOP 8.7: Standort Fahrradparkhaus - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.8: Fahrradabstellplätze im Bereich Tegel-City - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.9: Schulessen für Flüchtlingskinder sicherstellen - überwiesen
+- TOP 8.10: Regenschutz für Fahrradabstellanlagen (als Zwischenbericht) - überwiesen
+- TOP 8.11: Gleisreste im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.12: Fahrradabstellanlagen am S-Bahnhof Heiligensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.13: Klassenfrequenz für Kinder mit emotional sozialen Auffälligkeiten - überwiesen
+- TOP 8.14: Ortsteilschilder für Konradshöhe und Tegelort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.15: Museum Reinickendorf richtig ausschildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Fahrradabstellanlagen Max-Beckmann-Platz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.17: Baumaßnahme BAB 111 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Betreuung minderjähriger unbegleiteter Flüchtlinge - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Fahrradschutzstreifen Heiligensee (2) - in der BVV abgelehnt
+- TOP 11.2: Reinickendorfer THW-Standort sichtbar machen - in der BVV abgelehnt
+- TOP 11.3: Bushaltestelle Welfenallee mit Wartehäuschen ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Lichtsignale für Radfahrer in der Scharnweberstraße sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Reinickendorf summt - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bushaltestellen Landesgrenze - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Verkehrsberuhigende Maßnahmen Landesgrenze - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sanierung U6 - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Fernbushaltestelle in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Radfahrverkehrsanlagen Landesgrenze - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Stationäre Geschwindigkeitsüberwachungsanlage - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Fahrbahnbelag Falkenplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Bericht über Aktivitäten im Kommunalen Nachbarschaftsforum - überwiesen
+- TOP 11.14: Wartehäuschen 220er - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Bessere Einsicht an der Einmündung Heiligenseestraße / Am Südfeld - überwiesen
+- TOP 13.2: Informationen der Registerstelle - überwiesen
+- TOP 13.3: jup! Internet-Angebot - überwiesen
+- TOP 13.4: Fortführung des Programms "FIT! FIT! FIT!" sicherstellen - überwiesen
+- TOP 13.5: Skaterbahnen - überwiesen
+- TOP 13.6: Einrichtung eines Familienservicebüros - überwiesen
+- TOP 13.7: LED-Leuchtmittel - ohne Änderungen in der BVV beschlossen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Briefkasten Am Vierrutenberg - ohne Änderungen in der BVV beschlossen
