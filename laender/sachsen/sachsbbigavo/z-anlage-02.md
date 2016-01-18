@@ -1,1 +1,0 @@
-Anlage 2 Anrechnung von Berufsfachschulabschlüssen
