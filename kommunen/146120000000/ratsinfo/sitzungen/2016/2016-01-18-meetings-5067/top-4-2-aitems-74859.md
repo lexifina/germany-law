@@ -1,0 +1,8 @@
+# TOP 4.2: Wiederaufbau Narrenhäusel
+
+- Sitzung: 17. Sitzung des Ortsbeirates Neustadt (2016-01-18)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/74859
+- Ergebnis: Ersetzung - punktweise Abstimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/22947
