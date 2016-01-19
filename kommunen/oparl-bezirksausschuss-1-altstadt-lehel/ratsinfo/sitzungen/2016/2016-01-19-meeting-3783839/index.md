@@ -1,0 +1,104 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-01-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3783839
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3783839
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Kompetenz vor Ort anerkennen und werschätzen ? Antrag des BA 16, BA-Antrag Nr. B01092 Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt KVR: ?Information über den Umgriff und Zeitdauer von Großbaustelleneinrichtungen jeglicher Art, U? in ?Umgriff und Zeitdauer von Großbaustelleneinrichtungen jeglicher Art, Anhörungsrecht?
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Vorschlag zur Errichtung eines neuen ?Hauses der Klassik und Kunst? am Standort des ?Hauses der Kunst? als Alternative zum geplanten Konzertsaal am Ostbahnhof
+- TOP 7.2.: Bürgeranliegen, Anfrage zu Abriss/Neubau des Hauses Sonnenstraße 25
+- TOP 7.3.: BA-Antrag, Vorstellung der zukünftigen Planungen zur Praterinsel durch den neuen Eigentümer
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Mariannenstraße 3, Aufstockung 2 Geschosse, DG-Abbruch und -Neuerrichtung sowie Aufstockung des Aufzugs (Vorbescheid)
+- TOP 7.2.: Isartorplatz 4, Nutzungsänderung: Verkaufsfläche im EG+UG zu Gastronomiefläche für Kunst, Kultur, Messeveranstaltungen und Events, Einbau einer WC-Anlage
+- TOP 7.3.: Mannhardtstraße 7, Anbau Aufzug und Balkone, DG-Ausbau, Umbau Laden, Tektur zu Änderung DG-Ausbau
+- TOP 7.4.: Fürstenfelder Straße 3, Nutzungsänderung: Wohnung zu Praxis (ohne Umbau)
+- TOP 7.5.: Promenadeplatz 2, Errichtung einer Glaskuppel über der ?Palais-Halle?
+- TOP 7.6.: Dreifaltigkeitsplatz 2, DG-Ausbau eines Dachspeichers und ehemaligen Personalaufenthaltsraums
+- TOP 7.7.: Seitzstraße 13, Umbau, Sanierung und eingeschossige Aufstockung eines Wohngebäudes (Vorbescheid)
+- TOP 7.8.: Hackenstraße 1, Änderung der EG-Fassade und Ausbau der Verkaufsfläche zu einem Schuhgeschäft
+- TOP 7.9.: Promenadeplatz 8, Aufstockung eines Bürogebäudes 5+6 OG / Gartenhaus und Erweiterung der Notleiteranlage
+- TOP 7.10.: Mariannenplatz 4, Ausbau von Speicherabteilen im DG zu Wohnungen mit Einbau von Dachterassen, Erneuerung und Erweiterung eines Innenaufzugs und Anbau eines Außenaufzugs
+- TOP 7.11.: Pestalozzistraße 2, Unterbringung von Flüchtlingen und Wohnungslosen ? Errichtung eines Gebäudes in System-/Modulbausweise zur Unterbringung von unbegleiteten, minderjährigen Flüchtlingen, befristet bis zum 21.12.2020
+- TOP 7.12.: Marienplatz 22, Umbau und Fassadenneugestaltung eines Geschäftshauses mit Hotelnutzung (5+6 OG) sowie Errichtung einer Freischankfläche
+- TOP 7.13.: Kapellenstraße 1, Änderung und Erweiterung der Nutzungseinheit Gaststätte im EG, Nutzungsänderung der Ladeneinheit in Gaststätte, Grundrissänderung im KG
+- TOP 7.14.: Weinstraße 3, Errichtung von fest mit dem Bauwerk verbundenen Sonnenschirmen im Innenhof
+- TOP 7.1.: Erinnerungsverfahren des Baureferats zu Baumaßnahmen in der Fürstenfelder- und Sattlerstraße
+- TOP 7.2.: Erinnerungsverfahren des Baureferats zu Baumaßnahmen am Rochusberg und in der Jungfernturmstraße
+- TOP 7.3.: Erinnerungsverfahren des Baureferats zu Baumaßnahmen am Oberanger 16
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Bürgeranliegen, Information und Bitte um Unterstützung für das Konzept zum ?Praterstrand 2016?
+- TOP 7.2.: Bürgeranliegen, organisierte Bettler
+- TOP 7.3.: BA-Antrag, Runder Tisch Isarinselfest
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Genehmigung einer Freischankfläche, ?Tee-Handels-Kontor Bremen?, Dreifaltigkeitsplatz 3
+- TOP 7.2.: Genehmigung einer Freischankfläche, Gaststätte ?80drei31?, Westenriederstraße 13 (ehem. ?Marktstadl?)
+- TOP 7.3.: Genehmigung einer Freischankfläche, Gaststätte ?Il Sogno?, Kapellenstraße 1
+- TOP 7.4.: Rückfrage des KVR zu Genehmigung einer Freischankfläche, Gaststätte ?Paisano?, Färbergraben 10
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Genehmigung der Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund, ?Parfümerie Douglas GmbH?, Sendlinger Straße 15a
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Geldbeutelwaschen auf dem Marienplatz, 10.02.2016
+- TOP 7.1.: Einführung des Modells ?Nette Toilette? in München, Standort und -Bedarfsabfrage
+- TOP 7.1.: Bericht zum weiteren Vorgehen zur Bürgerbeteiligung im Rahmen des Verkehrsversuchs ?Sendlinger Straße?
+- TOP 7.2.: Bürgeranliegen, Sperrung des Marienplatzes für Busse, Taxis und Radler
+- TOP 7.1.: Planung der Einsätze der Münchner ?SommerSpielaktion? 2016
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Mehrjahresinvestitionsprogramm 2015-2019, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015-2019, Sitzungsvorlage Nr. V04066, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 02.12.2015
+- TOP 0.2.: Beschlussvollzugskontrolle (BVK), Bericht über die der BVK unterliegenden Beschlüsse des Aussschusses für Stadtplanung und Bauordnung und der VV des Stadtrates im Zeitruam 01.01.2015-30.06.2015 Sitzungsvorlage Nr. V04552, Bekanntgabe des Aussschusses für Stadtplanung und Bauordnung vom 09.12.2015
+- TOP 0.3.: Konzeption zur langfristigen Freiraumentwicklung ?Freiraum M 2030?, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 02.12.2015, Sitzungsvorlage Nr. V04142
+- TOP 0.4.: Weitere Auslegungorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitverfahren, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 02.12.2015, Sitzungsvorlage Nr. V04433
+- TOP 0.5.: Ensemble Altstadt München; Leitlinien zum Planen und Bauen, Bekanntgabe des Aussschusses für Stadtplanung und Bauordnung vom 09.12.2015, Sitzungsvorlage Nr. V04365
+- TOP 0.6.: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen; Infrastrukturprogramm München II: Handlungsprogramm Infrastrukr, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 09.12.2015 Sitzungsvorlage Nr. V04903
+- TOP 0.7.: Müllerstraße 56, Umbau und Nutzungsänderung eines Spielsalons zu einem Cafe/Deli, Fassadenänderung EG; Antwort des RSB auf Stellungnahme des BA 1 vom 17.06.2015.
+- TOP 0.8.: Baulisten
+- TOP 0.9.: Bebauungsplan Nr. 2099, Corneliusstraße zwischen Blumenstraße und Müllerstraße, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 02.12.2012, Sitzungsvorlage Nr. V03392
+- TOP 0.10.: Antwort des Referats für Stadtplanung und Bauordnung zu BA-Antrag Nr. B05451, ?Aufstellung eines Bebauunsplans für den Bereich Tennisanlage Oettingenstraße / Tivolistraße?
+- TOP 0.11.: Wohnungsmarkt München ? Expertenbefragung 2015, Bekanntgabe des Aussschusses für Stadtplanung und Bauordnung vom 20.01.2015, Sitzungsvorlage Nr. V04864
+- TOP 0.12.: Unterflur-Containerstandorte in Neubaugebieten mit planen!, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 20.01.2016 (SB), Sitzungsvorlage Nr. V04859
+- TOP 0.13.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14, Bekanntgabe des Aussschusses für Stadtplanung und Bauordnung vom 20.01.2016, Sitzungsvorlage Nr. V04733
+- TOP 0.1.: Erlaubnisbescheide
+- TOP 0.2.: Versammlungsanmeldungen
+- TOP 0.3.: Drehgenehmigungen
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Kulturstrand 2016, Beschluss des Kreisverwaltungsausschusses vom 16.12.2015, Sitzungsvorlage Nr. V04729
+- TOP 0.6.: Eilentscheidungen: - Sylvesterfeuerwerk Prinzregentenstraße 1, zugestimmt - Fasching ?München Narrisch 2016? in der Fußgängerzone, zugestimmt - Kunst im öffentlichen Raum ? Platzinstallation ?Southpole?, Max-Joseph-Platz, 12.1.2016-14.02.2016, zugestimmt
+- TOP 0.1.: Bescheid zum Vollzug der Baumschutzverordnung, Fällantrag Seitzstraße 9
+- TOP 0.2.: Odeonsplatz erweitern ? Fußgängerzone oder Shared Space für die Brienner Straße ? Gestaltungsideen für nördlichen Odeonsplatz/südliche ludwigstraße gesucht, Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 02.12.2015, Sitzungsvorlage Nr. V03502
+- TOP 0.3.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP 0.4.: Car Sharing in München, Evaluationsergebnisse des Pilotversuchs, Förderung von Car Sharing und E-Car Sharing in München, Beschluss des Kreisvserwaltungsausschusses vom 15.12.2015, Sitzungsvorlage Nr. V04808
+- TOP 0.5.: Antwort des Referates für Stadtplanung und Bauordnung zum Bürgeranliegen ?Marienplatz Umgestalten? (war 2015.11 D 1.7)
+- TOP 0.6.: Antwort des Referats für Bildung und Sport zu ?Anzahl und Unterbringung der Fahrradstellplätze im modernisierten Wilhelmsgymnasium?, Zwischennachricht (war 2015.11 D 1.2)
+- TOP 0.7.: Nord-Süd-Querung der Altstadt für den Radverkehr Verkehrs- und Funktionskonzept, Beschluss der VV des Stadtrates vom 19.11.2015, Sitzungsvorlage Nr. V04125
+- TOP 0.8.: Antwort des Kreisverwaltungsreferats zu ?Bürgeranliegen, Verkehrssituation Prälat-Zistl-Straße? (war 2015.12 D 1.3)
+- TOP 0.9.: Fahrradstellplatzkonzept (3. Realisierungsabschnitt), Beschluss des Bauausschusses vom 12.01.2016 (SB), Sitzungsvorlage Nr. V03326
+- TOP 0.10.: Einrichtung einer Schulbushaltestelle in der Maximilianstraße 39
+- TOP 0.11.: Antwort des Kreisverwaltungsreferats zu ?Bürgeranliegen, Müllentsorgung an der Schrannenhalle? (war 2015.12 D 1.3)
+- TOP 0.1.: Haushaltsplan 2016, Produkt- und zielorientierte Ansätze für den bereich ?Förderung freier Träger? der Zenrtrale, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015, Sitzungsvorlage Nr. V04020
+- TOP 0.2.: Antwort des Baureferats zu BA Antrag Nr. B01632 ?Errichtung eines Kinderspielplatzes auf dem Marienhof?
+- TOP 0.3.: Bericht zu den vom BA geförderten Theaterstücken im ?Hofspielhaus?
+- TOP 0.4.: Antwortschreiben des Sozialreferats bezüglich der Unterbringung unbegleiteter minderjähriger Flüchtlinge in der Blumenstraße 51
+- TOP 0.5.: Infrastrukturprogramm Sport in München, Beschluss des Sportausschusses des Stadtrats vom 02.12.2015 Sitzungsvorlage Nr. V04460
+- TOP 0.6.: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen, Förderung für den Kindergarten an der Blumenstraße 26, Beschluss des Kinder- und Jugendhilfeausschusses vom 06.10.2015 Sitzungsvorlagenr. V04076
+- TOP 0.7.: Kurzbericht über das vom BA geförderte Buchprojekt ?München nicht wie geplant?
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Griechische Erziehungsgesellschaft "König Otto von Griechenland" e.V. Anschaffung von Schamwänden für den Kindergarten
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
