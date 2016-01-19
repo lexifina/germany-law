@@ -1,0 +1,119 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2016-01-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3902592
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3902592
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der November-Sitzung 1.3.2 Protokoll der Dezember-Sitzung 1.4 Benennung einer/eines neuen Beauftragten für Inklusion
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Handy-Empfang in Harlaching; Bürgerschreiben vom 07.12.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Ideen hoch drei e.V., für die Maßnahme: Kulturjurte München - Projektbezogene Unkosten; Antragssumme: 2.500,00 ?; Antrag vom 22.12.2015
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Bus zum Tierpark; Bürgerantrag vom 15.12.2015 (verwiesen aus der Dezember-Sitzung)
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Wettersteinplatz; Projekt-Nr. 100653 (Umgestaltung der südlichen Platzseite, Errichtung einer Gehbahn); Beschluss des BA 18 vom 19.01.2016
+- TOP 2: (E) Rückbau der ungenutzten Fußgängerbrücke am Harlachinger Berg Empfehlung Nr. 14-20 / E 00716 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 12.11.2015 - <div></div>
+- TOP 3: (E) Beleuchtung des öffentlichen Weges zwischen Rotbuchenstraße und Am Hohen Weg Empfehlung Nr. 14-20 / E 00718 der Bürgerversammlung des Stadtbezirkes 18 Untergiesig-Harlaching am 12.11.2015 - <div></div>
+- TOP 3.1.: Eschenstraße - Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Schreiben des KVR mit der Bitte um Stellungnahme
+- TOP 3.2.: 3.2.4.2 Erinnerungsverfahren; Zuleitungen des Baureferats-Tiefbau mit der Bitte um Stellungnahme 3.2.4.2.1 Rabenkopfstraße - Sanierung Rabenkopfstraße zwischen Meichelbeckstraße und Holzkirchner Straße 3.2.4.2.2 Brunnenweg 6-8 - Fahrbahnsanierung zwischen Soyerhofstraße u. Resedenweg 3.2.4.2.3 Autharistraße - Autharistraße zwischen Authariplatz u. Seybothstraße 3.2.4.2.4 Eschenstraße 50, Am Hollerbusch 9, Am Staudengarten 33-47 - Bauschaden beheben, Zufahrten und Anlieferzone umgestalten 3.2.4.2.5 Säbener Straße 9-21 - Radwegsanierung zwischen Peißenbergstraße und Schellenbergstraße 3.2.4.2.6 Drumberg - Fuß- und Radwegsanierung 3.2.4.2.7 Grünwalder Straße 1 Ecke Tegernseer Landstraße 3.2.4.2.8 Grünwalder Straße 190 - 196 - Grünwalder Straße zwischen Karolingerallee und Vahrner Straße 3.2.4.2.9 Hauberrisserstraße 3-11 - Bauschadensbehebung
+- TOP 3.1.: Tegernseer Landstraße - ständige Luftmessungen und Veröffentlichung der Daten im Bereich zwischen der Kreuzung Stadion an der Grünwalder Straße und Abfahrt in den McGraw-Graben; BA-Antrag Nr. 14-20 / B 01706 vom 20.10.2015; Antwortschreiben des RGU vom 07.12.2015 (neutrale Erledigung)
+- TOP 3.2.: Hebenstreitstraße - dreimonatige testweise Sperrung; Verkehrszählung Freibad-/Pilgersheimer Straße und Plattner-/Humboldtstraße sowie temporäre Ahängung noch vor Baubeginn des Studentenwohnheims; BA-Antrag Nr. 14-20 / B 01575 vom 15.09.2015; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 15.12.2015
+- TOP 3.3.: Rahmenplanung Tegernseer Landstraße 1. Überprüfung der Veränderung des Verkehrsflusses in Untergiesing-Harlaching nach Umsetzung der Machbarkeitsstudie 2. Vertretung der Interesse der Bürger Untergiesings und Harlachings, Bedenken in Bezug auf die zu erwartenden zusätzlichen Verkehrsströme; BA-Antrag Nr. 08-14 / B 05651 vom 18.02.2014; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 23.12.2015
+- TOP 3.1.: Austausch von Lichtsignalanlagen; Unterrichtung gem. § 14 der BA-Satzung; hier: Geiselgasteig-/Menterschwaigstraße; Mitteilung des KVR vom 09.12.2015
+- TOP 3.2.: Schellenbergstraße 2; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Säbener Straße 21; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.4.: CarSharing in München - Evaluationsergebnisse des Pilotversuchs und Empfehlungen (EVA-CS) - Förderung von CarSharing und Elektro-CarSharing in München; Sitzungsvorlage Nr. 14-20 / V 04808; Beschluss des Kreisverwaltungsausschusses vom 15.12.2015 (VB)
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 1: (E) Sitzbänke auf sonnigen Flächen aufstellen Empfehlung Nr. 14-20 / E 00729 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 12.11.2015 - <div></div>
+- TOP 1.1.: Kennzeichnung von Lauf-Trail-Strecken und Erneuerung des Trimm Dich Pfades im Perlacher Forst; BA-Antrag Nr. 14-20 / B 01786 vom 17.11.2015; Antwortschreiben des Baureferats-Gartenbau vom 27.11.2015 (neutrale Erledigung)
+- TOP 1.1.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken gem. § 13 und § 14 BA-Satzung; Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen; hier: Schule am Agilolfinger Platz 1; Mitteilung des Baureferats-Gartenbau (vertagt aus der Dezember-Sitzung)
+- TOP 1.2.: Münchner Kleingartenwesen; Umwidmung von Zeitkleingarten- in Dauerkleingartenanlagen; Erhöhung der Sanierungspauschale für Trinkwasserleitungen; zusätzlicher Sachmittelbedarf; Sitzungsvorlage Nr. 14-20 / V 04368; Beschluss des Bauausschusses vom 08.12.2015 (VB)
+- TOP 1.3.: Infrastrukturprogramm Sport in München; Rückblick 2015 und Fortschreibung für 2016; Sitzungsvorlage Nr. 14-20 / V 04460; Beschluss des Sportausschusses des Stadtrats vom 02.12.2015 (SB)
+- TOP 1.4.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken gem. § 13 und § 14 BA-Satzung; hier: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen im Kindergarten Schönstraße 9
+- TOP 1.5.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.3.1 Langobardenstraße 12; Genehmigungsbescheid vom 28.12.2015 3.3.6.3.2 Jollystraße 6; Genehmigungsbescheid vom 28.12.2015
+- TOP 1.6.: Errichtung und Betrieb von zwei Toilettenanlagen an der Isar; Gegenwärtiger Stand; Sitzungsvorlage Nr. 14-20 / V 04852; Bekanntgabe in der Sitzung des Bauausschusses vom 12.01.2016
+- TOP 1.1.: Kommunale Sonderabgabe auf To-Go-Becher; Antrag Nr. 14-20 / b 01511 des BA 8; Antwortschreiben der Stadtkämmerei sowie Stellungnahme des BA 8 vom 11.12.2015 zur Kenntnisnahme und ggf. Unterstützung
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Planung der Einsätze der Münchner SommerSpielAktion 2016; Schreiben des Vereins Spielen in der Stadt e.V. mit der Bitte um Rückmeldung von Platzvorschlägen bis 22.01.2016
+- TOP 1.1.: Aktiv im Alter, Seniorenstadtteilplan für Obergiesing, Untergiesing, Harlaching - aktualisierte Neuauflage; BA-Antrag Nr. 14-20 / B 01578 vom 15.09.15; Antwortschreiben des RGU vom 14.12.15 (negative Erledigung)
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Sachsenstraße 29 bzw. Halle 2 - Verwertungsmöglichkeiten; Antrag der SPD-Fraktion - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 1.2.: Einladung der Firma Rock Capital bzw. Candid Immobilien Projekt GmbH zur den Wohnungen im Stadtteil Untergiesing; Antrag der SPD-Fraktion
+- TOP 1.1.: 3.5.4.3 Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept in München; Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet; Schreiben des Kommunalreferats vom 15.12.15 mit der Bitte um Rückmeldung von Standorten bis 15. Februar 2016
+- TOP 1.2.: 3.5.4.4 Soziale Stadt 2015 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Soziale Stadt" A) Fortschreibung der Integrierten Handlungskonzepte in den Sanierungsgebieten am Mittleren Ring Südost B) Abschlussbericht des Sanierungsgebietes "Petuelring" C) Städtebauförderung D) Stadtratsantrag Nr. 14-20 / A 01494 vom 27.10.15 "Heute nicht für gestern planen 4 - Städtebauliche Möglichkeiten ausschöpfen mit Sanierungsgebieten"; Sitzungsvorlage Nr. 14-20 / V 04544; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme zum Entwurf
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Karolingerallee 35 - Verlängerung des Pachtvertrags für den Kopierladen; Auskunft zur weiteren Nutzung des Grundstücks; BA-Anträge Nr. 14-20 / B 01216, 01217 und 01699; Zwischennachricht des Kommunalreferats vom 11.11.2015 (vertagt aus der Dezember-Sitzung)
+- TOP 1.2.: Alternativer Aufstellplatz für temporäre Bauten in der Agilolfingerschule; BA-Antrag Nr. 14-20 / B 01429 vom 21.07.2015; Antwortschreiben des RBS vom 17.12.2015
+- TOP 1.3.: Verbesserung der Beleuchtung des Sportplatzes am Wettersteinplatz; BA-Antrag Nr. 14-20 / B 00582 vom 18.11.2014; Antwortschreiben des Kommunalreferats vom 15.12.15 (positive Erledigung)
+- TOP 1.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 SSW "Mythos", Grünwalder Straße 71; Mitteilung vom 23.12.2015
+- TOP 1.2.: Baufälle im 18. Stadtbezirk
+- TOP 1.3.: Standortsuche zur Errichtung einer Bikepolo-Anlage; BA-Antrag Nr. 08-14 / B 05489 vom 17.12.13; Schaffung eienr Spielstätte für Bikepolo mit Bandensystem; Empfehlung Nr. 08-14 / E 02092 der BÜV vom 14.11.2013; Sitzungvorlage Nr. 14-20 / V 03713; Beschluss des Sportausschusses des Stadtrates vom 02.12.2015 (SB)
+- TOP 1.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtpl. u. Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 - 30.06.2015; Sitzungsvorlagen Nr. 14-20 / V 04552; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 09.12.2015 zu 3.5.6.5 Hinweis / Ergänzung zur Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 09.12.2015
+- TOP 1.5.: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen; Stadtratsantrag Nr. 14-20 / A 01072 vom 22.05.15; Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur; Stadtratsantrag Nr. 14-20 / A 01073 vom 22.05.15; Sitzungsvorlagen Nr. 14-20 / V 04903; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 09.12.2015 (VB)
+- TOP 1.6.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.4.1 Anwesen Arnpeckstraße; Mitteilung vom 08.12.2015 3.5.6.4.2 Anwesen Reinekestraße; Mitteilung vom 11.12.2015 3.5.6.4.3 Anwesen Bezoldstraße; Mitteilung vom 22.12.2015
+- TOP 1.1.: Arnpeckstraße 6; Neubau eines Mehrfamilienhauses mit TG; negative Stellungnahme des BA 18; Abdruck der Baugenehmigung vom 09.12.2015
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U" in: "Umgriff und Zeitdauer von Großbaustelleneinrichtungen jeglicher Art A"; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.15; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur beantragten Änderung der BA-Satzung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Erleichterung der BA-Arbeit für Menschen mit Beeinträchtigung; BA-Antrag Nr. 14-20 / B 01123 des BA 11 vom 08.04.2015; Antwortschreiben des Direktoriums vom 27.11.2015 für alle Bezirksausschüsse zur Kenntnisnahme
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist; Schreiben der 3. Bürgermeisterin an alle Referate
+- TOP 4.2.: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens; Schreiben des Direktoriums am alle Referate der LHM zur Kenntnisnahme
+- TOP 4.3.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushaltes; Stellungnahme des BA 1 Altstadt-Lehel für alle Bezirksausschüsse zur Kenntnisnahme
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.2.: Antrag für Bau eines Radweges auf der rechten Seite der Oberbiberger Straße vom Mangfallplatz bis Vollmarstraße stadtauswärts; Bürgerantrag vom 13.08.2015 (zuletzt verwiesen aus der Dezember-Sitzung) zu 3.2.1.2 Oberbiberger Straße als Fahrradstraße; Stellungnahme des KVR zur Anfrage des BA 18 aus der Oktober-Sitzung (zuletzt verwiesen aus der Dezember-Sitzung)
+- TOP 3.3.: Radweg entlang der Oberbiberger Straße; Bürgerantrag (zuletzt verwiesen aus der Dezember-Sitzung)
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
