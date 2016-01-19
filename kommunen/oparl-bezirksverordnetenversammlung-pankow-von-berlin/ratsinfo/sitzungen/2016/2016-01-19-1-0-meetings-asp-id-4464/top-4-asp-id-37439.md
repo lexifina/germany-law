@@ -1,0 +1,7 @@
+# TOP 4: Arbeitsplan 2016
+
+- Sitzung: Öffentliche Sitzung des Ausschusses für Arbeit, Soziales, Gesundheit und Senioren (2016-01-19)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=37439
+- Ergebnis: erledigt
