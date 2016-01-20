@@ -1,0 +1,51 @@
+# 45. öffentliche Sitzung des Ausschusses für Soziale Stadt, QM, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-01-20T17:30:00+01:00
+- Ende: 2016-01-20T19:40:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3745
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3745
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=128839
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=129082
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung / Änderung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung der Protokolle - (offen)
+- TOP 2.1: der 23. Sitzung am 20.10.2013 - im Ausschuss abgelehnt
+- TOP 2.2: der 24. Sitzung am 20.11.2013 - im Ausschuss abgelehnt
+- TOP 2.3: der 28. Sitzung am 19.03.2014 - im Ausschuss abgelehnt
+- TOP 2.4: der 37. Sitzung am 18.03.2015 - im Ausschuss abgelehnt
+- TOP 2.5: der 39. Sitzung am 20.05.2015 - im Ausschuss abgelehnt
+- TOP 2.6: der 40. Sitzung am 17.06.2015 - im Ausschuss abgelehnt
+- TOP 2.7: der 41. Sitzung am 16.09.2015 - im Ausschuss abgelehnt
+- TOP 2.8: der 42. Sitzung am 14.10.2015 - im Ausschuss abgelehnt
+- TOP 2.9: der 43. Sitzung am 18.11.2015 - im Ausschuss abgelehnt
+- TOP 2.10: der 44. Sitzung am 16.12.2015 - im Ausschuss abgelehnt
+- TOP 3: Aktuelle Themen - (offen)
+- TOP 3.1: Konzept Leopoldplatz; Cafe Leo. Aktueller Stand, Nächste Schritte. BE: Bezirksamt. - im Ausschuss abgelehnt
+- TOP 3.2: Wiedernutzbarmachung Magdeburger Platz. BE: Quartiersrat Magdeburger Platz; Bezirksamt. - im Ausschuss abgelehnt
+- TOP 4: Berichte der Quartiersräte - im Ausschuss abgelehnt
+- TOP 5: Aktuelle Viertelstunde - (offen)
+- TOP 5.1: Mitteilungen des Vorsitzenden - im Ausschuss abgelehnt
+- TOP 5.2: Mitteilungen des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 5.3: Anfragen der Ausschussmitglieder - im Ausschuss abgelehnt
+- TOP 6: Beratung von Drucksachen - (offen)
+- TOP 6.1: Demokratie-Erklärung im Bezirk Mitte einführen! - vertagt
+- TOP 6.2: Glyphosat aus Mitte verbannen - mit Änderungen im Ausschuss beschlossen
+- TOP 6.3: Fahrradwege am Hauptbahnhof sichern - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.4: Bürgerbeteiligung bei Erstellung eines Positiv-/Negativkatalogs für den Alex! - mit Änderungen im Ausschuss beschlossen
+- TOP 6.5: Zusätzlicher Halt der Linie TXL an der Haltestelle Invalidenpark - vertagt
+- TOP 6.6: Soziokulturelles Zentrum Kluckstraße 11/Lützowstraße 28 im QM-Gebiet Magdeburger Platz erhalten - vertagt
+- TOP 6.7: Togostraße zur Fahrradstraße machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.8: Spreeuferweg: Planungen an der Schillingbrücke zwischen Mitte und Friedrichshain-Kreuzberg abstimmen - vertagt
+- TOP 6.9: Linienstraße als Fahrradstraße sicherer machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.10: Grüne Mitte - Gartenflächen kenntlich machen und zur Verfügung stellen - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.11: Besseres Willkommen für die Verwaltungsakademie an der Turmstraße - vertagt
+- TOP 7: Verschiedenes - (offen)
+- TOP 7.1: Themen kommende Sitzungen - im Ausschuss abgelehnt
+- TOP 7.2: Sonstiges - im Ausschuss abgelehnt
