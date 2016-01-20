@@ -1,0 +1,78 @@
+# 54. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-01-20T17:00:00+01:00
+- Ende: 2016-01-20T21:10:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4204
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4204
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=75246
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 1.1: Bericht aus dem Ausschuss für Eingaben und Beschwerden - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 4: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchst. a BezVG i.V.m. § 71 Abs. 1 Nr. 1 GO BVV -Dr. Peter Zimmermann - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Kinder- und Jugendparlament - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Protokollgenehmigung - erledigt
+- TOP 7: Unerledigte Drucksachen - (offen)
+- TOP 7.1: Parkraumkonzept für die Lichtenrader Bahnhofstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Endlich mehr Sitzbänke im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Das Kita-Angebot an geeigneten Orten bedarfsgerecht erweitern und eine 24- Stunden-Kita modellhaft anbieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Investitionen in Bildung sind Entscheidungen für die Zukunft: Kinder- und Jugendzentrum im Lindenhof ausbauen - überwiesen
+- TOP 7.5: Tempo-10-Geschwindigkeitsbegrenzung in der Yorckstraße aufheben - Verkehrsschau gemäß VWV-StVO, § 45 durchführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.6: Flüchtlinge schneller in die Arbeitswelt integrieren - überwiesen
+- TOP 8: Mündliche Anfragen - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Vertritt die Bezirksbürgermeisterin die Interessen des Bezirks? - beantwortet
+- TOP 9.2: Keine Ausweitung von Massenunterkünften auf dem Tempelhofer Feld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Wohnungsbau und Seniorenfreizeitstätte Am Mühlenberg müssen miteinander gut vereinbar sein - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Erhöhung des ehrenamtlichen Engagements in bezirklichen Bibliotheken - überwiesen
+- TOP 10.3: Mittagessen für alle Kinder - keine Zweiklassengesellschaften an gebundenen Ganztagsschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Inklusion - Umsetzung durch die BVV! - vertagt
+- TOP 10.5: Schul- und Sportstätten: In planbarer Frist sanieren und weiterentwickeln! - überwiesen
+- TOP 10.6: Jugendliche in der Flüchtlingsfamilienunterbringung im Rathaus Friedenau - überwiesen
+- TOP 10.7: Bürgerämter umgehend optimieren - überwiesen
+- TOP 10.8: Wohnbaupotential Boelckestraße 1-7 (ungerade) aktivieren - überwiesen
+- TOP 10.9: Anbringung von Fledermauskästen an bezirkseigenen Gebäuden fördern - überwiesen
+- TOP 10.10: Möglichkeiten zur Erweiterung des Winterfeldtmarktes - überwiesen
+- TOP 10.11: Mehr Qualität in Berliner Kitas - vertagt
+- TOP 10.12: Mehr Geschwindigkeitskontrollen in Tempo 30-Zonen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Wohnberechtigungsschein für Asylsuchende und geduldete Flüchtlinge - überwiesen
+- TOP 10.14: Qualifizierte Sozialberichterstattung - überwiesen
+- TOP 10.15: Erinnerung an David Bowie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 11.1: Nachverdichtungsparadigma noch zeitgemäß? Berlin grün wachsen lassen! - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Förderung des Landes Berlin für die Friedenauer Gerhart-Hauptmann-Bibliothek zügig in Anspruch nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Neue Mitte Tempelhof II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Eigene Unterkünfte für mehrfachdiskriminierte Flüchtlinge organisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Gewerbegebiete für Handwerk sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Perspektiven für das Pumpwerk Lichtenrade - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Beratungsstelle für Sportprojekte mit Flüchtlingseinrichtungen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13.1: Benennung von einer Stellvertretung für beratende Mitglieder im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: Landesweites gebührenfreies WLan in Berlin - überwiesen
+- TOP 14.2: Öffentliches Bautagebuch für die Baumaßnahmen Schöneberger Schleife/Flaschenhalspark - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Ausgesuchte Daten der „Polizeilichen Kriminalstatistik“ dem Bezirksamt zugänglich machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Vorplatz Urania - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Verkehrssituation Tempelhofer Damm entzerren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Unterflurmüllsammelbehälter am Spielplatz an der Apostel-Paulus-Kirche - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Pflanzung neuer Linden vor der Crellestr. 22 - überwiesen
+- TOP 14.8: Information der BVV über Rechnungshofprüfungen - überwiesen
+- TOP 14.9: 25 Jahre Deutsche Einheit - Wir wollen feiern! - überwiesen
+- TOP 14.10: Ampeln mit nutzerfreundlichen Hinweisenklebern zur Störungsmeldung versehen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.11: Bericht über die Sportstättenvergabe - überwiesen
+- TOP 14.12: Umgestaltung Varziner Platz - überwiesen
+- TOP 14.13: Umzug der JFE "Die Burg" prüfen - überwiesen
+- TOP 14.14: Schilder am Dorfteich Lichtenrade - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.15: "Projekt eAkte" - digitale Verwaltung im Bezirksamt Tempelhof-Schöneberg - überwiesen
+- TOP 15: Termin der nächsten Sitzung - erledigt
