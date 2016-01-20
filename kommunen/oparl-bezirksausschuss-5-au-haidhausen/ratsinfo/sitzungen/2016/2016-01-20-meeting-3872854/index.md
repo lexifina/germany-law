@@ -1,0 +1,97 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-01-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3872854
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3872854
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .3.: Stand der Planungen zum Fußgängertunnel unter dem Ostbahnhof - <div>nach Antrag</div>
+- TOP .1.: Rückfrage zum Zeitungskiosk am Pariser Platz - <div>abgesetzt</div>
+- TOP .2.: Rundbank an der Ecke Elsässer Straße/Spicherenstraße aufstellen - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Schank- und Speisewirtschaft "Spicery", Weißenburger Platz 3, 81667 München - <div>Zustimmung und Ergänzung</div>
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Wörthstraße 45, 81667 München; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (4 Postkartenständer) - <div>nach Antrag</div>
+- TOP .3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Wiener Platz; Aufstellung von einer neuen Zeitungsverkaufseinrichtung auf öffentlichem Grund - <div>abgelehnt</div>
+- TOP .4.: Entscheidung gemäß Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Akin OGUZ, Dollmannstraße 27, 81541 München - <div>nach Antrag</div>
+- TOP .5.: Entscheidung gemäß Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Sitzbagatelle, Balanstraße 8 - <div>Zustimmung mit Ergänzungen</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Fragen zur Umsetzung des stadtbezirksbezogenen Bürgerhaushalts (TOP A 6.3.1 vom 16.12.2015)
+- TOP .1.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß- Baustelleneinrichtungen jeglicher Art U" in: "Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A" BA-Antrags-NR. 14-20/ B 01092 des Bezirksausschusses des Stadtbezirkes 16- Ramersdorf- Perlach vom 16.04.2015 - <div>Zustimmung zum Antrag des BA 16</div>
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Brunnenensemble am Bordeauxplatz instand setzen - <div>zur Kenntnis genommen</div>
+- TOP .2.: Durchführungen von Baumersatzpflanzungen
+- TOP .3.: Verhinderung von Parken auf dem Schutzstreifen - <div>zur Kenntnis genommen</div>
+- TOP .4.: Was passiert an der BOS/FOS Technik? - <div>zur Kenntnis genommen</div>
+- TOP .5.: Planungen und Ausbau des Fußgängertunnel unter dem Ostbahnhof umsetzen
+- TOP .6.: Wiedererrichtung der Umlaufsperre am Spielplatz Kegelhof - <div>zur Kenntnis genommen</div>
+- TOP .7.: Flüchtlingsunterkunft in der Pariser Straße - <div>zur Kenntnis genommen</div>
+- TOP .8.: Mobilitäts-Hindernis Rosenheimerplatz lösen! - <div>zur Kenntnis genommen</div>
+- TOP .9.: MIP: Container für die Flurschule
+- TOP .10.: Standort des temporären Schulpavillons an der Lucile-Grahn-Straße; fraktionsübergreifende Dringlichkeitsanfrage - <div>zur Kenntnis genommen</div>
+- TOP .11.: Bezirks-BEGRÜNUNG vorantreiben - <div>zur Kenntnis genommen</div>
+- TOP .12.: Haltverbote an den Ersatzbushaltestellen in der Wörthstraße aufheben - <div>zur Kenntnis genommen</div>
+- TOP .13.: Belastetes Grundwasser mit krebserregenden PAK Verbindungen- Paulaner Gelände - <div>zur Kenntnis genommen</div>
+- TOP .14.: Überarbeitung der Regelungen zur Sozialgerechten Bodennutzung - <div>zur Kenntnis genommen</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Bücherschrank in der AU; Schreiben vom Verein "Freunde der Vorstadt e.V." - <div>zur Kenntnis genommen</div>
+- TOP .2.: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens - <div>zur Kenntnis genommen</div>
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Kultur braucht Raum, Graffiti- Ausstellung im Einstein Kultur vom 16.06.2016 bis 11.0.72016 - <div>auf das UA Protokoll Kultur wird verwiesen</div>
+- TOP 8.1.: Beschlussvorlage 1. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" - <div>Verweis auf die Stellungnahme</div>
+- TOP 8.2.: Planung der Einsätze der Münchner SommerSpielAktion 2015 - <div>Vorschlag der Frühlingsanlagen in der Au</div>
+- TOP 8.1.: Infrastrukturprogramm Sport in München Rückblick 2015 und Fortschreibung für 2016 Sitzungsvorlage Nr. 14-20/ V 04460; Beschluss des Sportausschusses des Stadtrates vom 02.12.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Grundschul- und Kita-Standort Mariahilfplatz Reaktivierung des Franziskusbrunnens und Planung eines Freiluftklassenzimmers; Schreiben des RBS vom 01.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Spielaktionen des AKA e.v. an verschiedenen Standorten: - Johannisplatz vom 20.-24.06.2016 - Hypopark vom 07.-08.07.2016 - Postwiese, Wasserspielkistl vom 11.-15.07.2016 - Postwiese, Spiel-, Sport- und Kreativwoche vom 25.-28.07.2016 - Postwiese, Schulabschlussfest am 29.07.2016 - <div>nach Antrag</div>
+- TOP 8.2.: Spielangebote des AKA e.V. für Kinder von April bis Oktober 2016 - Hypopark - Postwiese - Tassiloplatz - <div>nach Antrag</div>
+- TOP 8.3.: Kinderfest auf der Postwiese am 24.04.2016 - <div>nach Antrag</div>
+- TOP 8.4.: Projektvorstellung Biersiederei Weißenburger Straße - <div>Zustimmung zum Projekt</div>
+- TOP 8.1.: 3.1 Sachberichte und Verwendungsnachweise für gewährte Zuschüsse aus dem Budget des BA 5: - Erziehungshilfezentrum Adelgundenheim - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: 3.2 Unveränderte Fortführung von Gaststättenbetrieben: - Schankwirtschaft "Sortie Bar & Lounge", Rosenheimer Straße 82 - Schank- und Speisewirtschaft (Name noch nicht bekannt), Sommerstraße 18 - Schank- und Speisewirtschaft (Name noch nicht bekannt), Pariser Straße 38 (UG) - Schank- und Speisewirtschaft (Name noch nicht bekannt), Pariser Straße 38 (EG) - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Steinstraße 46, Errichtung von 4 Balkonen und 2er Gauben auf der Hofseite eines Wohn- und Geschäftshauses - <div>Zustimmung und Ergänzung</div>
+- TOP 8.2.: Preysingstraße- Kirchliches Zentrum, Vorstellung des Projekts durch das Erzbischöfliche Ordinariat
+- TOP 8.1.: Rosenheimer Straße 103; Umbau und Nutzungsänderung im EG: Teilung von Einzelhandel in Gastwirtschaft und eine Wettannahmestelle; Erteilung der Baugenehmigung gem. Art. 59 und 68 BayBO im vereinfachten Genehmigungsverfahren mit auflösender Bedingung - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Trogerstraße 19-21, Hotelumbau; Baugenehmigung gemäß Art. 60 und 68 Bayerische Bauordnung (BayBO) mit aufschiebender/aufschiebenden Bedingung(en); Schrieben der LBK vom 17.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Neubau Lichtsignalanlage Falken-/Kolumbusstraße - <div>nach Antrag</div>
+- TOP 8.2.: Höhere Bezuschussung der MVG für die Beschaffung von Elektrobussen Empfehlung Nr. 14-20/ E 00397 der Bürgerversammlung des Stadtbezirkes 5- Au-Haidhausen am 26.02.2015 Sitzungsvorlage Nr. 14-20/ V 04144; Beschluss des Ausschusses für Arbeit und Wirtschaft - <div>nach Antrag</div>
+- TOP 8.3.: Einführung des Modells "Nette Toilette"; Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet - <div>Vorschläge an das Kommunalreferat</div>
+- TOP 8.4.: Verkehrsberuhigter Bereich Preysingstraße; Schreiben des Kreisverwaltungsreferates mit der Bitte um Stellungnahme des Bezirksausschusses - <div>Zustimmung zur Installation von Blumentrögen, keine Betonklötze</div>
+- TOP 8.5.: Haltverbot Aurbachstraße Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO - <div>nach Antrag</div>
+- TOP 8.1.: Errichtung und Betrieb von zwei Toilettenanlagen an der Isar Gegenwärtiger Sachstand Sitzungsvorlagen Nr. 14-20/ V 04852; Bekanntgabe in der Sitzung des Bauausschusses vom 12.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Fahrradabstellkonzept (3. Realisierungsabschnitt) a) Ergebnisse der Detailuntersuchungen b) Kostendarstellung c) Anträge Sitzungsvorlage Nr. 14-20/ V 03326; Beschluss des Bauausschusses vom 12.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Bevorstehende Entfernungen von Gefahrenbäumen im 5. Stadtbezirk; Mitteilung vom Baureferat, Abt. Gartenbau - <div>Ergänzung des BA </div>
+- TOP 8.4.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV); Obere Johannissstraße 3; Genehmigung der Fällung durch die Untere Naturschutzbehörde vom 16.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Auerfeldstraße 8; verkehrsrechtliche Anordnung nach § 45 StVO - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP 8.1.: MVG Rad- aktueller Stand und Informationsveranstaltung am 22.02.2016 um 19 Uhr in der Gaszählerwerkstatt der SWM-Zentrale, Agnes-Pockels-Bogen 6, 80992 München
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative ?Gutscheine? Gutscheine für Flüchtlinge, beantragte Zuwendung: 1.500,00 Euro - <div>nach Antrag</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Die Gartenzwerge e.V. Kindergarten Gartenhaus errichten - <div>abgelehnt</div>
+- TOP .1.: N 8.2.1 Grundschulstandort Mariahilfplatz 18; Ehemalige Christbaumsammelstelle Ecke Ohlmüller-/Falklenstraße im Bereich des Trambahnhäuschens; Schreiben des RBS vom 12.01.2016 N B I 7.1 7.1.1 Seerieder Straße 7.1.2 Orleansplatz N B III 3.3 Städtische Kindertageseinrichtung Falkenstraße 47, Geruchsproblematik im Kindersanitärbereich und starkes Aufheizen einzelner Räume; Schreiben des RBS vom 12.01.2016 N B III 3.4 Stadtjugendamt/Förderung freier Träger Haushaltsjahr: 2016 Projekt: Nachbarschaftshilfe in der Au/Stadtbezirk 5 seitens des Sozialreferates gefördert seit 1989; Schreiben des Sozialreferates vom 02.12.2015
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
