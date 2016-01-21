@@ -1,0 +1,71 @@
+# 20. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-01-21T16:00:00+01:00
+- Ende: 2016-01-21T22:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4935
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4935
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00236592.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Drohende Schließung des Berufschulzentrum Wirtschaft Dresden "Prof. Dr. Zeigner"" - erledigt
+- TOP 4: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4.1: Grundstück Washingtonstraße - erledigt
+- TOP 4.2: Neuer Standort für die Volkshochschule - erledigt
+- TOP 4.3: Kosten der Kommunen im Zusammenhang mit der Breitstellung von Flüchtlingsunterkünften - erledigt
+- TOP 4.4: Wohnungslosenhilfe Clearingstelle - erledigt
+- TOP 4.5: Verkehrseinschränkungen während der Sanierung der Augustusbrücke - erledigt
+- TOP 4.6: Prävention und Sicherheit in Dresden - erledigt
+- TOP 4.7: Silvesternacht in Dresden - sexuelle Übergriffe und die grundsätzliche Sicherheitslage - erledigt
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 5.1: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofswesen sowie Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 5.2: Ausschuss für Petitionen und Bürgeranliegen - Einigung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Aufsichtsräte
+- TOP 6.1: Aufsichtsrat Verkehrsmuseum Dresden gGmbH - Einigung
+- TOP 7: Umbesetzungen Ortsbeiräte
+- TOP 7.1: Nachbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 7.2: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 8: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal / Osterzgebirge e.V. - Zustimmung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Vertagung Stadtratssitzung 29. Oktober 2015
+- TOP 10.1: Gesundheit, Gesunderhaltung und Gesundheitsförderung der Einwohnerinnen und Einwohner Dresdens- Umsetzung der sächsischen Gesundheitsziele in Dresden - Vertagung
+- TOP 11: Vertagungen Stadtratssitzung 10. Dezember 2015
+- TOP 11.1: Für den Erhalt des Fußgängertunnels am Neustädter Markt - Ablehnung
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Erhaltungssatzung einführen - Zustimmung mit Ergänzung
+- TOP 11.4: Gestaltungssatzung einführen - Zustimmung mit Ergänzung
+- TOP 11.5: Einrichtung einer Asylunterkunft "Washingtonstraße" zur Unterbringung asylsuchender Menschen - Vertagung
+- TOP 11.6: Einrichtung einer Asylunterkunft "Altenberger Straße" zur Unterbringung asylsuchender Menschen - Vertagung
+- TOP 11.7: Einrichtung einer Asylunterkunft "Zellescher Weg" zur Unterbringung asylsuchender Menschen - Vertagung
+- TOP 11.8: Sanierung und Erweiterung des künftigen Schulstandortes für das Gymnasium Dresden Süd-West, Bernhardstraße 18 in 01069 Dresden - Zustimmung
+- TOP 11.9: Verkauf von Grundstücken an Dresdner Wohnungsgenossenschaften - Vertagung
+- TOP 11.10: Wirtschaftsplanung 2016 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 11.11: Wirtschaftsplanung 2016 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 11.12: Jahresabschlüsse 2014 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Vertagung
+- TOP 11.13: Wohnentwicklung in Dresden - Vertagung
+- TOP 11.14: Geschäftsordnung der Gestaltungskommission Dresden - Vertagung
+- TOP 11.15: Grundhafte Instandsetzung einschließlich kompletter Erneuerung des Farbanstriches des Blauen Wunders - Vertagung
+- TOP 11.16: Einrichtung einer unabhängigen Ombudsstelle beim Jobcenter Dresden - Zustimmung mit Änderung
+- TOP 12: Vorlage zur Umsetzung des Beschlusses des Petitionsausschusses P/005/2015 vom 25. März 2015 "Sanierung Sanitärbereich Sporthalle BSZ" zur Petition P0009/14 - Vertagung
+- TOP 13: Bedarfsgerechte Bereitstellung von Schulplätzen für die 32. Oberschule und das Gymnasium Tolkewitz im Ortsamt Blasewitz - Zustimmung
+- TOP 14: Ersatzneubau Einfeld-Schulsporthalle für die 103. Grundschule "Unterm Regenbogen", Hohnsteiner Straße 8 in 01099 Dresden sowie Neugestaltung der Außenanlagen - Zustimmung
+- TOP 15: Sanierung der 49. Grundschule „Bernhard August von Lindenau“, Bernhardstraße 80 in 01187 Dresden - Zustimmung mit Ergänzung
+- TOP 16: Satzung der Landeshauptstadt Dresden über die Erhebung von Benutzungsgebühren des Stadtarchives Dresden (Archivgebührensatzung) - Vertagung
+- TOP 17: Sanierung und Erweiterung der 39. Grundschule, Schleiermacherstraße 8 in 01187 Dresden mit Ersatzneubau Schulsporthalle und Neugestaltung der Freianlagen - Vertagung
+- TOP 18: Vorplanung Stadtbahn 2020, Straßenbahnneubaustrecke Löbtau - Südvorstadt - Strehlen, Teilstrecke 1.3: Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße - Zustimmung mit Änderung
+- TOP 19: Sanierung der Brückenrampe der Augustusbrücke (Innere Neustadt) - Vertagung
+- TOP 20: Bebauungsplan Nr. 54 a, Dresden-Altstadt I Nr.6, Postplatz/Wallstraße - Vertagung
+- TOP 21: Integrierte Handlungskonzepte EFRE 2014-2020 Bewerbung der Landeshauptstadt Dresden um Fördermittel des Europäischen Fonds für Regionale Entwicklung (EFRE) - Zustimmung
+- TOP 22: Online-Präsenz von kommunal geförderten Vereinen, Initiativen, Projekten usw. auf der Internetseite www.dresden.de verbessern - Vertagung
+- TOP 23: Schulbauleitlinien der Stadt Dresden - Vertagung
+- TOP 24: Neubau des Gymnasiums Prohlis an der Windmühlenstraße - Ersetzung
+- TOP 25: Freifunk für Dresden - Vertagung
+- TOP 26: Erarbeitung einer Strategie zur Unterstützung und Bewerbung der direkten Bahnverbindung Dresden - Wroclaw/Breslau mit dem Ziel der Einführung und des Erhalts eines dauerhaften attraktiven Verkehrsangebots - Vertagung
+- TOP 27: Regionale Wirtschaftsförderung: Gründung einer „INVEST REGION DRESDEN (Oberes Elbtal) GmbH“ - Vertagung
