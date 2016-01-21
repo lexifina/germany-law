@@ -1,0 +1,129 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-01-21T17:30:00+01:00
+- Ende: 2016-01-21T22:05:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3742
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3742
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=128779
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: 2 Mio € für Jugendverkehrsschulen, Jugendkunstschulen und Gartenarbeitsschulen: was hat Mitte davon? - beantwortet
+- TOP 5.2: Hunger an Mittes Schulen? - beantwortet
+- TOP 5.3: Plattformunabhängige Fachverfahren - beantwortet
+- TOP 5.4: Mauerpark - Reicht nicht eine Verwaltungsvereinbarung? - beantwortet
+- TOP 5.5: Beleuchtungsanlage für Fußballplatz der Jugendeinrichtung B8 - schriftlich beantwortet
+- TOP 5.6: Umwandlung von Spielhallen in Wettbüros? - schriftlich beantwortet
+- TOP 5.7: Heroinhandel im Umfeld der Kastanienbaum Grundschule! Was unternimmt tut das Bezirksamt dagegen? - schriftlich beantwortet
+- TOP 5.8: Bibliotheksnutzung von geflüchteten Menschen, speziell von Frauen, in Mitte - schriftlich beantwortet
+- TOP 5.9: Zwei Toiletten für 900 Schülerinnen und Schüler, fehlende Feuerlöscher u.a. Mängelanzeigen des Französischen Gymnasiums: warum reagiert das Bezirksamt nicht? - schriftlich beantwortet
+- TOP 5.10: Schließung der Bürgerämter Ende Januar 2016 - schriftlich beantwortet
+- TOP 5.11: Warum erfolgt keine Offenlegung der Prioritätenliste der Sanierungsreihenfolge der Schulen? - schriftlich beantwortet
+- TOP 5.12: Café an der Bibliothek Tiergarten Süd in der Lützowstraße - schriftlich beantwortet
+- TOP 5.13: Wie läuft die Förderung der Beschäftigten, die die Bezirksverordnetenver-sammlung vorgesehen hat? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Charakter der Dortmunder Straße erhalten (II) - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Cafe Leo über den Jordan oder bald im Gelobten Land (III): hier: Ausschreibung eines Interessenbekundungsverfahrens als krönende Ergebnis von sechs Jahren propagierter Zusammenarbeit auf Augenhöhe zwischen Bezirksverwaltung mit den Anwohner/innen - beantwortet
+- TOP 7.2: Sanierungsbonus i.H.v. 100.000 Euro pro belegter Sporthalle? - schriftlich beantwortet
+- TOP 7.3: Schulbau und Bewirtschaftung in Landeshand? - schriftlich beantwortet
+- TOP 7.4: Zwangsräumungen in Mitte - beantwortet
+- TOP 7.5: Alle Jahre wieder kommt kein Winterdienst - schriftlich beantwortet
+- TOP 7.6: Inanspruchnahme von Willkommensklassen im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.7: Bürgerämter: Unzufriedene Bürger und überlastetes Personal - kein Ende in Sicht? - schriftlich beantwortet
+- TOP 7.8: Aufhebung der Sondernutzung bei Verstößen - schriftlich beantwortet
+- TOP 7.9: Schulsanierungen aus Sondermitteln des Landes - schriftlich beantwortet
+- TOP 7.10: Vor Obdachlosigkeit schützen - wie weiter in der Berlichingenstr.12? - schriftlich beantwortet
+- TOP 7.11: Freiwilliges Engagement in Nachbarschaften 2016-17: Finanzmittel für Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss gemäß §35 Abs 7 Nr. 7 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Schulplatzkapazitäten bereits erschöpft - Bedarfe regional ermitteln, Schulneubau-Planungen offenlegen und Wiedereröffnung alter Schulstandorte prüfen - vertagt
+- TOP 11.2: Zaun auf dem Magdeburger Platz - Was sagt das Bezirksamt dem Quartiersrat? - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Kita Sonnenstern nicht allein lassen - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Wartebereich des Jugendamtes - vertagt
+- TOP 11.5: Interessenbekundungsverfahren für den Betrieb eines Imbiss-Kioskes auf dem Leopoldplatz in Berlin Mitte aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Charakter der Dortmunder Straße erhalten (III) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Keine illegalen Ferienwohnungen für die Unterbringung geflüchteter Menschen nutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Mehr Traglufthallen für Flüchtlinge - überwiesen
+- TOP 12.2: Bärgida-Demonstrationsroute nicht am LAGeSo vorbeiführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Baumkataster für Mitte - überwiesen
+- TOP 12.4: Nieder mit dem (Sperr)Müll in den Kiezen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Traglufthallen für Sportnutzung einsetzen - überwiesen
+- TOP 12.6: Umwidmung einer Wegeverbindung auf der Fischerinsel - überwiesen
+- TOP 12.7: Grüne Welle für Fahrradfahrer - überwiesen
+- TOP 12.8: Angebote für geflüchtete Menschen (speziell Frauen) in bezirklichen Bibliotheken - überwiesen
+- TOP 12.9: Online-Sprechstunden für die Wirtschaftsförderung erproben - überwiesen
+- TOP 12.10: Muss erst etwas passieren? Kreuzung Invaliden-/Chausseestraße sicher machen! - überwiesen
+- TOP 12.11: Damit ratlose Eltern der Vergangenheit angehören: Bezirkliches Spielplatzportal einrichten - überwiesen
+- TOP 12.12: Wenden in der Invalidenstraße an der Einmündung Caroline-Michaelis-Straße untersagen - bevor es zum Crash kommt - überwiesen
+- TOP 12.13: Ergänzung der Fahrradabstellanlage an der Wilhelmshavener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Wartesituation vor LAGeSo für geflüchtete Frauen verbessern - mit Änderungen in der BVV beschlossen
+- TOP 12.15: Bürgerbeteiligung in Mitte (I): Erarbeitung von Leitlinie der Bürgerbeteiligung - überwiesen
+- TOP 12.16: Feste Unterkünfte statt Sporthallen - mit Änderungen in der BVV beschlossen
+- TOP 12.17: Bürgerbeteiligung in Mitte (II): Vorhabenliste - überwiesen
+- TOP 12.18: Verantwortliches öffentliches Handeln beim Vera-Brittain-Ufer - mit Änderungen in der BVV beschlossen
+- TOP 12.19: Freiwilliges Engagement in Nachbarschaften 2016-17: Entscheidungsprozess transparent gestalten und BVV an der Auswahl der Pilotprojekte beteiligen - überwiesen
+- TOP 12.20: Ehemalige Sportwiesen wieder dem Breitensport zuführen - überwiesen
+- TOP 12.21: Schulbesuch von Geflüchteten (1) - überwiesen
+- TOP 12.22: Lebenswerte Häuser am Hauptbahnhof - überwiesen
+- TOP 12.23: Flüchtlingskinder werden krank durch Dauerlicht (1) - überwiesen
+- TOP 12.24: Gedenkstein für Johnny K. - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Schutz für die obdachlosen Menschen in der Berlichingenstraße 12 - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Einrichtung einer Steuerungsgruppe Schülerhaushalt - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Gedenktafel am ehem. Bülowplatz - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Gedenkveranstaltungen - generationenübergreifend, zum Mitmachen und Weitersagen - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Glyphosat aus Mitte verbannen - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Fahrradwege am Hauptbahnhof sichern - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Sprachliche Vielfalt in Mitte stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Dem Fachkräftemangel auch im Bezirk Mitte begegnen: Zusammenarbeit zwischen Unternehmen und Schulen stärken - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Berichterstattung über Sanierungen und Bauplanungen im Schulbereich? - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Einrichtung eines Eltern-Kind-Zimmers - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Togostraße zur Fahrradstraße machen - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Linienstraße als Fahrradstraße sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: Grüne Mitte - Gartenflächen kenntlich machen und zur Verfügung stellen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Einrichtung eines Deutsch-Türkischen Europa-Schulzweigs im Bezirk prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Busrouten und Abfahrtszeiten der Linien 106, 123 und M27 in Moabit West arbeitnehmerfreundlicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Schulwegsicherung in Moabit-West aus AZ-Mitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Verkehrssituation am Schiffbauerdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Preiswert Wohnen im ehemaligen Gymnasium, Schaffung eines soziokulturellen Zentrums in Wedding – Beschluss der BVV mit Vorrang umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Öffentliche Grundstücke, Einfluss der Öffentlichen Hand im Stallschreiber-Block nutzen, nicht verkaufen Verkauf von 1,6 Hektar brachliegenden Baulands mitten in Berlin durch die Bundesanstalt für Immobilien im Geltungsbereich des B-Plans I-14a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Ehem. Diesterweg-Gymnasium (Swinemünder Straße 80 und Putbusser Straße 12): Erbbaurecht statt Ausverkauf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Zu Fuß zur Philharmonie! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Das Rathaus-Forum liegt nachts weitgehend im Dunkeln. Zum Munkeln? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Alle Standortgemeinschaften in der Broschüre "Mitte von Berlin - Metropole und Kiez" darstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Ausbau des Landesprogramms für schulbezogene Jugendsozialarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Sicherheit darf keine Frage der Zuständigkeit sein! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: AG nach § 78 SGB VIII mit dem Schwerpunkt "minderjährige Flüchtlinge" einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Sucht im Alter - Aufklärungskampagne starten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Bezuschussung von Mittagsessen in Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.16: Einrichten einer Postanschrift für wohnungslose Frauen vom Frauentreff Olga - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Konzeptverfahren bei Vermarktung ehemals bezirklicher Grundstücke sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Informations- und Kommunikationsplattform mit, von und für geflüchtete Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Stellenbesetzungsverfahren jetzt starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Fahrradstellplätze für die Grundschule am Arkonaplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.21: Info über Nutzung von Plätzen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Aufstellung des Bebauungsplanes 1-96 "Alexander-/Schillingstraße", die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB und der Behördenbeteiligungen gemäß § 4 Abs. 1 und 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Einstellung des Aufstellungsverfahrens zum Bebauungsplan 1-60a "Alexander-/Schillingstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Aufstellung einer Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen für das Gebiet "Nikolaiviertel" zwischen Mühlendamm, Spandauer Straße, Rathausstraße und Spreeufer im Bezirk Mitte von Berlin gemäß § 172 Abs.1 Satz 1 Nr. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
