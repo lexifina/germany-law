@@ -1,0 +1,60 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-01-21T17:10:00+01:00
+- Ende: 2016-01-21T20:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10251
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10251
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00382129.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 5: Berichte
+- TOP 5.1: Sportmotorische Förderung von Flüchtlingskindern im Grundschulalter durch den BSV Roxel e. V.
+- TOP 5.2: Brandschutzbedarfsplan für die Stadt Münster (Vorlage V/0948/2015)
+- TOP 5.3: Ausbau des Breitbandnetzes im Stadtgebiet Münster
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung einer Trägervertreterin / eines Trägervertreters für die städt. Kindertageseinrichtung Gievenbeck - einstimmig geändert beschlossen
+- TOP 6.2: Bebauungsplan Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg / Egelshove - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: 3. Nahverkehrsplan Stadt Münster - einstimmig beschlossen
+- TOP 7.2: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig geändert beschlossen
+- TOP 7.3: Bebauungsplan Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg / Egelshove - einstimmig beschlossen
+- TOP 7.4: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Weitere Umsetzung des Flüchtlingskonzepts und neue temporäre Einrichtungen - einstimmig geändert beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Verkehrssicherheit in Roxel, Dorffeldstraße - Wulfertstraße - eingebracht
+- TOP 8.2: Verkehrsleitbeschilderung für den Zoo erneuern - eingebracht
+- TOP 8.3: Heroldstraße zügig ausbessern - eingebracht
+- TOP 8.4: DB-Haltepunkt Münster-Albachten - eingebracht
+- TOP 8.5: Erreichbarkeit der Häuser mit den Hausnummern 11-35 sowie 101-121a am "Langenkamp" in Albachten - eingebracht
+- TOP 8.6: Entwässerungskonzept für das geplante Baugebiet in Albachten - Weseler Straße/östlich Hohe Geist - zur Kenntnis genommen
+- TOP 8.7: Erweiterung der Fahrradabstellplätze am Waltruper Weg - eingebracht
+- TOP 8.8: Bahnübergang Heroldstraße sicherer machen - eingebracht
+- TOP 8.9: Fuß- und Radweg für das Waldviertel prüfen - eingebracht
+- TOP 8.10: Fußweg Mecklenbecker Straße verbessern - eingebracht
+- TOP 8.11: Rad- und Busstraße Am Hof Hesselmann sicherer machen - eingebracht
+- TOP 8.12: Erneuerung des Bahnüberganges Weseler Straße - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Aufstellung einer Teschlade-Skulptur in Nienberge - vertagt
+- TOP 9.2: Vögedingplatz in Nienberge zur Bebauung mit altengerechten barrierefreien Wohnungen und einer Kindertagesstätte freigeben - zur Kenntnis genommen
+- TOP 9.3: Verkehrsberuhigung auf der Osthofstraße - Aufstellung eines stationären Geschwindigkeits-Displays - zur Kenntnis genommen
+- TOP 9.4: Bahnhof Roxel: Zuwegung vom Nottulner Landweg - zur Kenntnis genommen
+- TOP 9.5: Ludgerus-Grundschule in Albachten
+- TOP 9.5.1: Ausbau des Dachbodens der Ludgerus-Grundschule - vertagt
+- TOP 9.5.2: Albachten wächst - der OGS-Bereich an der Ludgerus Grundschule braucht dringend mehr Platz! - vertagt
+- TOP 9.6: Radweg Roxeler Straße besser markieren - vertagt
+- TOP 9.7: Verkehrskonzept Schmeddingstraße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.8: Antrag Verkehrsinsel Dorffeldstraße/Nottulner Landweg - zur Kenntnis genommen
+- TOP 9.9: Bebauungsplanverfahren in Gievenbeck zügig umsetzen - zur Kenntnis genommen
+- TOP 9.10: Begrünung / Beschattung der Pergola des Spielplatzes im Grünen Finger - vertagt
+- TOP 9.11: Barrierefreiheit und Aufenthaltsqualität des Forums bei Marktkauf - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.12: Pflanzung von 3-4 Bäumen an der Dülmener Straße (Lückenschluss) - zur Kenntnis genommen
+- TOP 10: Verschiedenes
