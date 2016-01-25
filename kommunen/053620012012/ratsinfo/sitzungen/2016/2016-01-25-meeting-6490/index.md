@@ -1,0 +1,51 @@
+# Hauptausschuss (37. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-01-25T18:00:00+01:00
+- Ende: 2016-01-25T19:00:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVdBh7Sn7FSj5AmvzHFSHkQ
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6490
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeRAHZu5jtydUL7KX02mmfj4Txd69gDR9KTewqhh0gs5/Bekanntmachung_Hauptausschuss_25.01.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW_ab2_ledmuYvvfr6kM_QO-5s5N9FVPXq035_H6nuNi/Oeffentliche_Niederschrift_Hauptausschuss_25.01.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 30.11.2015
+- TOP 2.: Anregungen und Beschwerden gem. § 24 Gemeindeordnung NW
+- TOP 2.1: Verkehrssituation in den Straßen Bergstraße und Im Klostergarten hier: Antrag gem. § 24 GO NW der Anwohner der Straße Im Klostergarten vom 18.12.2016 -weiter geleitet an Ausschuss für Verkehr und Mobilität- - (kein Text vorhanden)
+- TOP 3.: Dringlichkeitsentscheidungen
+- TOP 3.1: Dringlichkeitsentscheidung zur Bereitstellung überplanmäßiger Mittel hier: Rückzahlung von Erbpachtzinsen Bezug: VgLA 25.1.2016, Vorlagen-Nr. 14/2016 - (kein Text vorhanden)
+- TOP 3.2: Überplanmäßige Mittelbereitstellung Kanal Markt - (kein Text vorhanden)
+- TOP 4.: Überplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich UVG - (kein Text vorhanden)
+- TOP 5.: Leistungsbearbeitung nach dem Unterhaltsvorschussgesetz (UVG) - (kein Text vorhanden)
+- TOP 6.: Struktur der Flüchtlingsarbeit in der Verwaltung hier: Antrag der CDU-Fraktion vom 12.1.2016 - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 7.1: Haushaltssatzung 2016
+- TOP 8.: Anfragen
+- TOP 8.1: Kunstrasenplatz Brühl-Vochem hier: Anfrage der CDU-Fraktion vom 12.1.2016
+- TOP 8.2: Veranstaltung "1. Hilfe bei Mobbing und Ausgrenzung"
+- TOP 8.3: Internetplattform Brühler Einzelhandel
+- TOP 8.4: Containerdorf Brühl-Ost
+- TOP 8.5: Flüchtlingsunterbringung im ehemaligen Hotel "Rheinischer Hof"
+- TOP 8.6: Fußgängerüberweg Steingasse
+- TOP 8.7: Baumängel Thüringer Platz
+- TOP 8.8: Winterdienst Fußgängerweg zwischen Neu- und Altbebauung nördlich Steingasse/westlich Bavinganstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Niederschlagungen
+- TOP 9.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.2: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.3: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.4: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.5: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.6: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.7: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.8: Niederschlagung Gewerbesteuer - (kein Text vorhanden)
+- TOP 10.: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 11.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen
