@@ -1,0 +1,119 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2016-01-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3884560
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3884560
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.: Protokoll über die öffentliche Sitzung vom 15.12.2015
+- TOP 1.2.: Protokoll über die nichtöffentliche Sitzung vom 15.12.2015
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Berg-am-Laim-Straße 127 - 129, Nutzungsänderung eines Bürogebäudes in einen Beherbergungsbetrieb
+- TOP 3.2.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Schutt Karl GmbH, Truderinger Str. 23
+- TOP 3.3.: Soziale Stadt - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprgramms
+- TOP 3.4.: Überplanung des Ostbahnhofes aktiv angehen
+- TOP 3.5.: Kreillerstr. 25, Neubau zweier Mehrfamilienhäuser - VORBESCHEID -
+- TOP 3.6.: Rofanstr. 48, Aufstockung eines Wohnhauses - VORBESCHEID -
+- TOP 3.7.: Heinrich-Wieland-Str. 47, Neubau eines Mehrfamilienhauses (10 WE) mit Tiefgarage (10 Stpl.) - VORBESCHEID -
+- TOP 3.8.: Streitfeldstr. 48, Aufstockung eines Mehrfamilienhauses (4 WE) - VORBESCHEID -
+- TOP 3.9.: Inzeller Weg 7, DG-Ausbau mit Dachstuhlerhöhung, Anbau von Gauben und Aufzügen sowie Errichtung 3er zusätzlicher Stellplätze und Umbau von Stellplätzen zu 8 Duplex-Stellplätzen - VORBESCHEID -
+- TOP 3.10.: Inzeller Weg 1, DG-Ausbau mit Dachstuhlerhöhung sowie Errichtung 2er zusätzlicher Stellplätze - VORBESCHEID -
+- TOP 3.11.: Gustav-Schwab-Str. 15, Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID -
+- TOP 3.12.: "Nette Toilette", Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet
+- TOP 3.13.: Silberkopfstraße, Neubau eines Wohnhauses mit Carport
+- TOP 3.2.: Fahrradverbindung zwischen Daglfing und Trudering/Berg-am-Laim
+- TOP 3.3.: Verbesserungen im Stadtteilzentrum zeitnah verwirklichen
+- TOP 3.4.: Barrierefreiheit am Mittleren Ring
+- TOP 3.5.: Einmündung Virgilstraße/Kreillerstraße übersichtlicher machen
+- TOP 3.6.: Linksabbiegemöglichkeit von der Bad-Schachner-Straße in die Echardinger Straße, Einschätzung der probeweise aufgebrachten Markierung (gelb)
+- TOP 3.7.: Austausch von Lichtsignalanlagen: Schlüsselbergstraße/Altöttinger Straße
+- TOP 3.1.: 1. Schulausbauprogramm
+- TOP 3.2.: Neu- und Umplanung des Geländes der "Griechischen Schule" an der Hachinger-Bach-Straße
+- TOP 3.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Anlage 1 BA-Satzung Ziffer 25 Abschnitt Kreisverwaltungsreferat von: "Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art U" in: Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art A" BA-Antrag Nr. 14-20/B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015 Anhörungsschreiben
+- TOP 3.1.: Berg-am-Laim-Str. 127-129 (Baumfällungen)
+- TOP 3.2.: Truderinger Str. 45-55
+- TOP 3.3.: Geigelsteinstr. 1
+- TOP 3.4.: Kranzhornstr. 27
+- TOP 3.5.: Sonnwendjochstr. 79
+- TOP 3.6.: Schlüsselbergstr. 15
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bauvorhaben vom 30.11.2015 bis 27.12.2015 im 14. Stadtbezirk
+- TOP 4.2.: Strukturkonzept Gewerbegebiet Neumarkter Straße Antrag Nr. 08-14/B 04489 des BA 14 Berg am Laim vom 18.12.2012 - Zwischennachricht -
+- TOP 4.3.: Friedenstraße 10 - künftige Nutzung des Optimolgeländes - Antwortschreiben -
+- TOP 4.4.: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren Sitzungsvorlage Nr. 14-20/V 04433
+- TOP 4.5.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses fü Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 bis 30.06.2016 Sitzungsvorlage Nr. 14-20/V 04552
+- TOP 4.6.: Infrastukturprogramm München I und München II Sitzungsvorlagen Nr. 14-20/V 04903
+- TOP 4.7.: Wohnungsmarkt München - Expertenbefragung 2015 Sitzungsvorlage Nr. 14-20/V 04864
+- TOP 4.8.: Srukturwandel in der Innenstadt und in Innenstadtrandgebieten
+- TOP 4.9.: Fehlende und dringend benötigte Abfallkörbe am U-Bahnhof Josephsburg Antrag Nr. 14-20/B 01715 des BA 14 vom 27.10.2015 - Antwortschreiben -
+- TOP 4.10.: Fa. Rimex Gebäudemanagement GmbH Niederlassung München- Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 4.11.: Neuordnung der Bauberatung Sitzungsvorlagen Nr. 14-20/V 3401
+- TOP 4.12.: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" Sitzungsvorlagen Nr. 14-20/V 04142
+- TOP 4.13.: Münchner Kleingartenwesen Umwidmung von Zeitkleingarten- und Dauerkleingartenanlagen Erhöhung der Sanierungspauschale für Trinkwasserleitungen Zusätzlicher Sachmittelbedarf Sitzungsvorlage Nr. 14-20/V 04368
+- TOP 4.14.: Unterflur-Containerstandorte in Neubaugebieten mit planen! Sitzungsvorlage Nr. 14-20/V 04859
+- TOP 4.15.: Mehrjahresinvestitionsprogramm 2015 - 2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019 Infrastrukturversorgungskonzept 2015 - 2019 Sitzungsvorlage Nr. 14-20/V 04066
+- TOP 4.16.: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsprogramm 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Sitzungsvorlage Nr. 14-20/V 04049
+- TOP 4.17.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklussion Sitzungsvorlage Nr. 14-20/V 03675
+- TOP 4.18.: Fahrradstellplatzkonzept (3. Realisierungsabschnitt) Sitzungsvorlage Nr. 14-20/V 03326
+- TOP 4.1.: Verkehrssituation an der Truderinger Straße 172-182 Antrag Nr. 14-20/B 01490 des BA 14 Berg am Laim vom 28.07.2015 - Antwortschreiben -
+- TOP 4.2.: Sicheren Radweg an der Leuchtenberg-Unterführung schaffen Antrag Nr. 14-20/B 01331 des BA 14 Berg am Laim vom 28.10.2014 - Antwortschreiben -
+- TOP 4.3.: Verkehrsberuhigter Bereich Anne-Frank-Anger/Jella-Lepmann-Straße - Antwortschreiben -
+- TOP 4.4.: Verkehrsberuhigung an der Riedgaustraße Empfehlung Nr. 14-20/E 00462 der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim am 26.03.2015 - Ausfertigung
+- TOP 4.5.: Widmungserweiterung der Gesamtstrecke des Inzeller Weges
+- TOP 4.6.: Handlungsprogramm Mittlerer Ring Sitzungsvorlage Nr. 14-20/V 03651
+- TOP 4.7.: CarSharing in München Sitzungsvorlage Nr. 14-20/V 04808
+- TOP 4.8.: Sanierung oder Abbau der Werbetafeln an der Josephsburgstraße Antrag Nr. 14-20/B 01825 des BA 14 Berg am Laim vom 24.11.2015 - Antwortschreiben -
+- TOP 4.9.: Mitteilung über unveränderte Fortführung von Gaststätten im 14. Stadtbezirk Berg am Laim
+- TOP 4.10.: "Kommunale Sonderabgabe auf To-Go-Becher" Antrag Nr. 14-20/B 01511 des BA 8 Schwanthalerhöhe vom 05.08.2015
+- TOP 4.11.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14 Sitzungsvorlage Nr. 14-20/V 04733
+- TOP 4.1.: Infrastrukturprogramm Sport in München Rückblick 2015 und Fortschreibung für 2016 Sitzungsvorlage Nr. 14-20/V 04460
+- TOP 4.2.: Mehrjahresinvestitionsprogramm 2015-2019 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 14-20/V 04372
+- TOP 4.1.: Protokoll des UA Soziales und Integration vom 30.11.2015
+- TOP 4.2.: Hauhaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 14-20/V 04080
+- TOP 4.3.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale Sitzungsvorlage Nr. 14-20/V 04020
+- TOP 4.4.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 14-20/V 04153
+- TOP 4.5.: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 14-20/V 04110
+- TOP 4.1.: Boxt euch durch München gUG - Ablehnungsbescheid
+- TOP 4.2.: Trägerverein KulturBürgerHaus Berg am Laim e.V. - Bewilligungsbescheid
+- TOP 4.3.: Spielen in der Stadt - Kurzbericht und Verwendungsnachweis
+- TOP 4.4.: IG Klettern München und Südbayern e.V. - Kurzbericht
+- TOP 4.5.: Erleichterung der BA-Arbeit für Menschen mit Behinderung Antrag Nr. 14-20/B 01123 des BA 11 Milbertshofen - Am Hart vom 08.04.2015 - Antwortschreiben
+- TOP 4.6.: Abschließende Entscheidung des Oberbürgermeisters bei der Behandlung von Bürgerversammlungsempfehlungen und laufenden Angelegenheiten, die auf die Bezirksausschüsse zur Entscheidung übertragen worden sind; Änderung des Verfahrens
+- TOP 4.7.: Umstellung der Software für die BA-Homepages; Abfrage des Schulungsbedarfs und weiterer Planungen
+- TOP 4.1.: Änderung der Münchner Baumschutzverordnung Sitzungsvorlage Nr. 14-20/V 04798
+- TOP 4.2.: Ringbergstr. 22
+- TOP 4.3.: Baumkirchner Str. 45
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.3.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.3.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.3.5.2.: Ankündigungen
+- TOP 5.1.3.5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: Kurzzeitparken Ursberger Straße
+- TOP 3.8.: Verkehrsberuhigung Hansjakobstraße
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Innere Mission, evang. Jugendhilfeverbund, Schulsozialarbeit an der Grundschule Grafinger Str. Klettergruppe ?Bayerns beste Gipfelstürmer? vom 25.01. bis 09.05.2016
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Freundes- und Förderkreis Kirchenmusik ok Chorkonzert am 20.11.2016
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
