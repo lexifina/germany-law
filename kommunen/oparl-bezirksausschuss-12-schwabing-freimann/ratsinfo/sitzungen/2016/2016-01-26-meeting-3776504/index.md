@@ -1,0 +1,99 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-01-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776504
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776504
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Erleichterung der BA-Arbeit für Menschen mit Behinderung
+- TOP .2.: Stadtbezirksbezogener Bürgerhaushalt ? Stellungnahme des BA 1 Altstadt-Lehel
+- TOP 10.3.: Anhörungen
+- TOP 9.1.: Änderung des Unterrichtungsrechts in Anlage 1 BA-Satzung Ziffer 25 Abschnitt KVR von ?Information über den Umgriff und Zeitdauer von Groß-Baustelleneinrichtungen jeglicher Art? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 10: sonstiges
+- TOP 10.1.: Leopoldstraße 52 a: Aufstellen einer neuen Warenauslage
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Gertrud-Grunow-Straße, Fl.Nr.: 880/125, Funkkaserne WA 13 ? Neubau einer Wohnanlage mit Tiefgarage, Fällung von 12 Bäumen gemäß Plan
+- TOP 10.2.: Sondermeierstraße 108, eine Tanne
+- TOP 10.3.: Georgenstraße 4, eine Blaufichte
+- TOP 10.4.: Lilienthalallee 45, Fl.Nr.: 170/196, Umbau der ehemaligen Dampflokrichthalle in ein Baumarkt-Fachzentrum, Baumfällungen gemäß Plan
+- TOP 10.1.: Vorbescheid Seestraße 3, Fl.Nr.: 139/0, Neubau eines Einfamilienhauses
+- TOP 10.2.: Ungererstraße 75, Fl.Nr.:935/0, Nutzungsänderung Teilbereich eines Bürogebäudes. Restaurant zu Sparkassenfiliale (Beratungsbereich)
+- TOP 10.3.: Am Tucherpark 16, Fl.Nr.: 1202/2, Umbau und Modernisierung eines Bürogebäudes ? Geb. VTO Nord -
+- TOP 10.4.: Vorbescheid Hirschauer Straße, Fl.Nr.: 1193/0, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 10.5.: Osterwaldstraße 81, Fl.Nr.: 1022/26, Neubau eines Einfamilienhauses mit Gartenhaus
+- TOP 10.6.: Werneckstraße 24, Fl.Nr.: 128/0, Umbau und Modernisierung des Schlosses Suresnes
+- TOP 10.7.: Hans-Leipelt-Straße 7, Fl.Nr.: 106/49, Umbau und Modernisierung der Studierenden-Wohnanlage mit 4 Dienstwohnungen ? Haus 10 / Studentenstadt Freimann
+- TOP 10.8.: Lilienthalallee 35, Fl.Nr.: 170/3, Nutzungsänderung Kantinen- zu Bürogebäude
+- TOP 10.9.: Ingolstädter Straße, Fl.Nr.: 320/12, Neubau Greenkeeping-Gebäude mit Außenanlagen im Nachwuchsleistungszentrum FC Bayern München
+- TOP 10.10.: Brabanter Straße 7, Fl.Nr.: 1231/0, Modernisierung und Sanierung der Wohnanlagen mit Teilabbruch und Neubau (Brabanter Straße 7 / Luxemburger Straße 14-16)
+- TOP 10.11.: Vorbescheid Leopoldstraße 59-61, Fl.Nr.: 358/0, Neubau eines Wohn- und Geschäftshauses (3 Varianten)
+- TOP 10.12.: 1. Schulbauprogramm ?Neubau, Erweiterung und Generalinstandsetzung? Schulbauoffensive 2013-2020 Anhörung zum Beschlussentwurf für die gemeinsame Sitzung des Bildungs-, Bau-, Finanz- und Kreisverwaltungsausschusses sowie des Ausschusses für Stadtplanung und Bauordnung am 18.02.2016 (siehe auch TOP D.3.3.)
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Heidemannstraße 50, Begründung für die Genehmigung für die Fällung von 4 Bäumen
+- TOP 10.2.: Wilhelm-Hertz-Straße, ein Spitzahorn
+- TOP 10.3.: Oberjägerstraße 15, eine Blaufichte und eine Schwarzkiefer
+- TOP 10.4.: Oberjägerstraße 14, eine Coloradotanne und eine Scheinzypresse
+- TOP 10.5.: Situlistraße 82, eine Birke
+- TOP 10.6.: Landschaftsschutzgebiet ?Hirschau und Obere Isarau?: Gehölzumbau bzw. Dammpflegekonzept Mittlerer Isarkanal MIK H1
+- TOP 10.7.: Hermann-Levi-Straße 2, eine Pappel
+- TOP 10.8.: Josef-Raps-Straße 3, eine Robinie
+- TOP 10.1.: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen ? Infrastrukturprogramm München II: Handlungsprogramm Infrastrukturprogramm Sitzungsvorlage Nr.: 14-20 / V 04903 Beschluss der Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015
+- TOP 10.2.: Änderung der Münchner Baumschutzverordnung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 (SB), Sitzungsvorlage Nr. 14-20 / V 04798
+- TOP 10.3.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016, Sitzungsvorlage Nr. 14-20 / V 04733
+- TOP 10.4.: Wohnungsmarkt München ? Expertenbefragung 2015, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016, Sitzungsvorlage Nr. 14-20 / V 04864
+- TOP 10.1.: Einrichtung eines absoluten Haltverbotes in der Guerickestraße südlich Fröttmaninger Straße
+- TOP 10.1.: Austausch der Lichtsignalanlage Floriansmühl-/Freisinger Landstraße
+- TOP 10.2.: Austausch der Lichtsignalanlage Freisinger Landstraße/Situlistraße
+- TOP 10.3.: Gemeindliche Stellungnahme zum geplanten Naturschutzgebiet ?Südliche Fröttmaninger Heide?, erneute Anhörung
+- TOP 10.1.: Schaffung von Kurzzeitparkplätzen am Marchgrabenplatz
+- TOP 10.2.: Schließung der Georg-Muche-Straße
+- TOP 10.3.: Zweiter Rad- und Gehweg in der Freisinger Landstraße zwischen Josef-Wirth-Straße und Floriansmühlstraße
+- TOP 10.1.: Bordsteinabsenkung Marschallstraße
+- TOP 10.4.: Schutz von Igeln im Winter
+- TOP 10.1.: Öffnung der in Richtung Westen einbahngeregelten Feilitzschstraße zwischen Occam- und Gunezrainerstraße für den gegenläufigen Radverkehr
+- TOP 10.2.: Leinthaler Straße 10-30 (zwischen Erika- und Libellenstraße): Reparatur der Fernwärmeleitung vom 01.02. bis 29.04.2016
+- TOP 10.1.: Anwohner der Parkstadt Schwabing vor Verkehr schützen, Antrag Nr. 14-20/A010607 der Stadtratsfraktion ALFA vom 08.12.2015
+- TOP 10.2.: Baustelleneinrichtung am Kaiserplatz 1, Verlängerung der Ausnahmegenehmigung für eine Gerüststellung in einer städtischen Grünanlage bis 31.03.2016
+- TOP 10.3.: Unzulässige Lagerung von Schrott und Müll auf dem Grundstück Wagrainweg 4, Antwort des Referates für Gesundheit und Umwelt auf ein im November weitergeleitetes Bürgeranliegen
+- TOP 10.4.: Fahrradabstellplatzkonzept (3. Realisierungsabschnitt): a) Ergebnisse der Detailuntersuchungen, b) Kostendarstellung, c) Anträge (u.a. BA 12-Anträge B 02721, 02724, 04272 und 05574 aus den Jahren 2011, 2012 und 2014), Sitzungsvorlage Nr. 14-20 / V 03326 Beschluss des Bauausschusses vom 12.01.2015
+- TOP 10.5.: Unterflur-Containerstandorte in Neubaugebieten mit planen!, Beschluss des Ausschusses für Stadtplanung und Bauordnungvom 20.01.2016 (SB), Sitzungsvorlage Nr. 14-20 / V04859
+- TOP 10.6.: Verlegung von Bahnstromlinien, verschiedene Anträge des BA 12 sowie der Stadtratsfraktion Freiheitsrechte, Transparenz, Bürgerbeteiligung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 (SB), Sitzungsvorlage Nr. 14-20 / V 02265
+- TOP 10.7.: Fehlende Recyclingcontainer im Bereich Otl-Aicher-Straße ? Antwort des Abfallwirtschaftsbetriebs München auf ein weitergeleitetes Bürgeranliegen
+- TOP 10.8.: ?Wildes Parken? im Hofraum Feilitzschstraße 35-35a / Grünfläche Adam-Erminger-Platz Antwort des Baureferats auf ein weitergeleitetes Bürgeranliegen
+- TOP 10.1.: Planung der Einsätze der Münchner SommerSpielAktion 2016
+- TOP 10.2.: WC-Konzept ?Nette Toilette? in München: Ermitltung des Bedarfs im Stadtgebiet
+- TOP 10.3.: 1. Schulbauprogramm ?Neubau, Erweiterung und Generalinstandsetzung? Schulbauoffensive 2013-2020 Anhörung zum Beschlussentwurf für die gemeinsame Sitzung des Bildungs-, Bau-, Finanz- und Kreisverwaltungsausschusses sowie des Ausschusses für Stadtplanung und Bauordnung am 18.02.2016 (siehe auch TOP B.3.2.12)
+- TOP 10.1.: Verbleib des Max- und des Oskar-von-Miller- Gymnasiums während der Sanierung in Schwabing
+- TOP 10.1.: Behindertengerechter Umbau der Toiletten im Sperrrengeschoss der Münchner Freiheit (BA-Antrag B 01654)
+- TOP 10.2.: Tickets für Flüchtlinge zum Besuch der Städtischen Bäder
+- TOP 10.3.: Bereitstellung von Basisinformationen für Flüchtlinge über die Grundrechte der Bundesrepublik sowie deren Rechte und Pflichten in Deutschland
+- TOP 10.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 10.1.: ?Kiste?, Schankwirtschaft, Siegesstraße 17
+- TOP 10.2.: ?Sherepunjab?, Schank- und Speisewirtschaft, Leopoldstraße 43
+- TOP 10.3.: ?Barmanufaktur?, Schank- und Speisewirtschaft, Biedersteiner Straße 6
+- TOP 10.1.: Widerruf der Zuwendungsbewilligung an das BieBie Künstlerquartier für das Straßenkunst-Projekt ?Ein Platz für alle? am 16./17.05.2015 in Höhe von 2.685,00 ?
+- TOP 10.2.: Infrastrukturprogramm Sport in München ? Rückblick 2015 und Fortschreibung für 2016 Sitzungsvorlage Nr. 14-20 / V 04460; Beschluss des Sportausschuss am 02.12.2015
+- TOP 10.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: (E) Budget der Bezirksausschüsse Initiative "Maria-Heinrich-Mann-Haus" Kunstprojekt im Frühjahr 2016 - <div></div>
+- TOP 10.2.: (E) Budget der Bezirksausschüsse Initiative "Maria-Heinrich-Mann-Haus" Verlegung eines Stolpersteins im Frühjahr 2016 - <div></div>
+- TOP 10.1.: Anträge
+- TOP 10.5.: Unterrichtungen
+- TOP 10.2.: Entscheidungen
+- TOP 10.3.2.: Sonstige Anhörungen
+- TOP 10.4.: Bürgeranliegen
+- TOP 10.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 10.5.3.: Sonstige Unterrichtungen
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 10.3.: Tunnelprojekt Englischer Garten
