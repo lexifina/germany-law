@@ -1,0 +1,57 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-01-26T16:00:00+01:00
+- Ende: 2016-01-26T18:10:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11400
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11400
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00257707.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00257707.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00257707.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Sitzungstermine 2016
+- TOP 5: Anfragen
+- TOP 5.1: Leere Baumscheibe im Nebenzentrum Garath Nordwest
+- TOP 5.2: Wiedereröffnung des Bahnhofskioskes
+- TOP 5.3: Geplantes Projekt „Die Garather Schultüte“ in Düsseldorf Garath
+- TOP 5.4: Künftige Versorgung des Stadtbezirks mit Pflegeheimplätzen
+- TOP 5.5: Baumfällungen in Garath südlich der Heinrich-Lersch-Straße
+- TOP 6: Anträge
+- TOP 6.1: Instandsetzung taktile Leitelemente (Bodenindikatoren)
+- TOP 6.2: Kontrolle Fußgängerzone Garath/Einhaltung der Lieferzeiten
+- TOP 6.3: Parkverbot an der Carlo-Schmidt-Straße, von der Ausfahrt des Einkaufzentrumparkplatzes bis zur Kreuz
+- TOP 6.4: Kontrolle der Parksituation auf dem P & R Parkplatz in Hellerhof durch das städtische Ordnungsamt
+- TOP 6.5: Bücherbus
+- TOP 6.6: Instandhaltung S-Bahnhof Hellerhof
+- TOP 6.7: Spiel- und Liegewiese
+- TOP 6.8: Einladung des Leiters der Stadtteilbücherei Garath in die BV-Sitzung
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Sicherstellung der Nahversorgung im Nebenzentrum Garath-SW
+- TOP 7.2: Masterplan Kinderspielplätze
+- TOP 7.3: Klärung der Durchfahrtregelung Reinhold-Schneider-Straße
+- TOP 7.4: Beleuchtungssituation auf der Duderstädter Straße
+- TOP 7.5: Maßnahme zur Entschärfung der Verkehrssituation auf der Carlo-Schmidt-Straße Höhe Einkaufszentrum
+- TOP 7.6: Beleuchtung Verbindungsweg Koblenzer Straße / Josef-Maria-Olbrich-Straße
+- TOP 7.7: Geplante Unterbringung von Flüchtlingen in Düsseldorf Hellerhof
+- TOP 7.8: Entschärfung des Kreuzungsbereiches Frankfurter Straße / Rostocker Straße
+- TOP 7.9: Informationsveranstaltung zu den Veränderungen der Schullandschaft in den Stadtbezirken 9 und 10
+- TOP 7.10: Errichtung einer Hundeauslauffläche vor dem Garather Schloss
+- TOP 7.11: Reparatur oder Ersatz von Bänken in Hellerhof
+- TOP 7.12: Aufstellung eines Fotoautomaten im Bürgerbüro Garath
+- TOP 7.13: Optimierung der Ampelschaltung
+- TOP 7.14: Aufstellung weiterer Abstempelautomaten
+- TOP 7.15: Überdachung und Sitzgelegenheiten Haltestelle Johannes-Radke-Straße
+- TOP 7.16: Erhöhungder Mittel für die Betreuung der Bezirksvertretung 10
+- TOP 7.17: Verkehrslärmberechnung und Verkehrslärmminderung
