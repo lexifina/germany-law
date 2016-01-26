@@ -1,0 +1,75 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-01-26T17:00:00+01:00
+- Ende: 2016-01-26T20:26:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11838
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11838
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00257655.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00257655.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00257655.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 7 gemäß § 22 Geschäftsordnung des Rates, für bis zum 12.01.2016 eigegangene Frage - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 3.1: Genehmigung der Niederschrift über die Sondersitzung der Bezirksvertretungen 1 - 10 vom 09.11.2015 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Informationsveranstaltung Glasmacherviertel - einstimmig beschlossen
+- TOP 6: Planungsstand äußere Erschließung Glasmacherviertel - zur Kenntnis genommen
+- TOP 7: Maßnahmen nach Sturm Ela - zur Kenntnis genommen
+- TOP 8: Hochwasser-Schutz Nördliche Düssel, Ostparksiedlung - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 9: Wiederwahl der Schiedsfrau Margret Heuter - einstimmig beschlossen
+- TOP 10: Sanierung von Kunstrasenplätzen für den Stadtbezirk 7 im Jahr 2016 - einstimmig beschlossen
+- TOP 11: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 12: Gestaltungssatzung Hahnenfurther Straße - zurückgezogen
+- TOP 13: Fußgängerquerung Torfbruchstraße - einstimmig beschlossen
+- TOP 14: Gerresheimer Brachflächen entwickeln! - einstimmig beschlossen
+- TOP 15: Joggingstrecke Limburgstraße - mehrheitlich beschlossen
+- TOP 16: Multifunktionale Sportfläche Ostpark - mehrheitlich beschlossen
+- TOP 17: Matschweg Flüchtlingsunterkunft Blanckertzstraße durch Kies aufwerten - einstimmig beschlossen
+- TOP 18: Öffentlich zugängliche Sportanlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 19: Ampel Bertastraße - einstimmig beschlossen
+- TOP 20: Verkehrssicherheit Torfbruchstraße, Bereich Bunker/ Heyebad - mehrheitlich abgelehnt
+- TOP 21: Fahrradstreifen und Abbiegespur südliche Torfbruchstraße - mehrheitlich beschlossen
+- TOP 22: Fahrbahn Keldenichstraße - einstimmig beschlossen
+- TOP 23: Jugendfreizeiteinrichtung (JFE) Heyebad, Nachtigallstraße - einstimmig beschlossen
+- TOP 23.1: Sichere Schulwege zu den neuen Grundschulen an der Diepenstrasse 24 - einstimmig beschlossen
+- TOP 24: Urban Gardening/Grabeland - einstimmig beschlossen
+- TOP 25: Entschädigungsfonds Geschäftsleute Gerresheim / Benderstraße - einstimmig beschlossen
+- TOP 26: Entschädigungsfonds Geschäftsleute Gerresheim/Benderstraße - einstimmig beschlossen
+- TOP 27: Spruchband Neusser Tor 8-12 - mehrheitlich beschlossen
+- TOP 28: Mauern Unterführung Beverweg Richtung Heinzelmännchenweg und Richtung Rotkäppchenweg - mehrheitlich beschlossen
+- TOP 29: Bücherschrank Roter Platz-Heyestraße - zur Kenntnis genommen
+- TOP 30: Radfahrer auf Gehweg Ludenberger Str. - zur Kenntnis genommen
+- TOP 31: Ersatzpflanzungen von 265 Bäumen im Bezirk 7 in den letzten 4 Jahren - zur Kenntnis genommen
+- TOP 32: Öffnungszeiten von Jugendeinrichtungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 33: Staufenhalle Grafenberg
+- TOP 34: Stellplatzschlüssel für geförderten Wohnungsbau im Glasmacherviertel - zur Kenntnis genommen
+- TOP 35: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 36: Mögl. Wegfall der OU Flingern und Auswirkungen auf Gerresheim - zur Kenntnis genommen
+- TOP 37: Abschraffierung der Grafenberger Allee und Ergänzungsantrag - zur Kenntnis genommen
+- TOP 38: Verkehrsversuch Beschleunigung ÖPNV - Abschraffur Straßenbahngleise Grafenberger Allee - zur Kenntnis genommen
+- TOP 39: Informationsangebot im Internet über Gerresheimer Großbaustellen - zur Kenntnis genommen
+- TOP 40: Machbarkeitsstudie für eine leistungsstarke ÖPNV-Erschließung der Bergischen Kaserne - zur Kenntnis genommen
+- TOP 41: Ferienbetreuung Sommer 2016 - zur Kenntnis genommen
+- TOP 42: Verkehrsstaus Bergische Landstraße / Ludenberger Straße / Gräulinger Straße / Dreherstraße / Torfbru - zur Kenntnis genommen
+- TOP 43: Beleuchtung Katharinenstraße - zur Kenntnis genommen
+- TOP 44: Fahrbahndecke Heyestraße / Ecke Hardenbergstraße - zur Kenntnis genommen
+- TOP 45: Querungshilfe Glashüttenstraße - zur Kenntnis genommen
+- TOP 46: Widmung von Straßen Gustav-Kneist-Weg - zur Kenntnis genommen
+- TOP 47: Grütersaaper Weg - zur Kenntnis genommen
+- TOP 48: Verwendung der Einnahmen aus Stellplatz-Ablösungen - zur Kenntnis genommen
+- TOP 49: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 50: Bücherbus im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 51: Arbeiten am Abwasserkanalnetz Heyestraße und Nebenstraßen - zur Kenntnis genommen
+- TOP 52: Tempo 30 Piktogramm Hardenbergstraße - zur Kenntnis genommen
+- TOP 53: Berücksichtigung der Belange des Fahrradverkehrs bei der Einrichtung von Baustellen im Straßenbau - zur Kenntnis genommen
+- TOP 54: Renovierung Heyebad - zur Kenntnis genommen
+- TOP 55: Öffnung der Fußgängerbrücke "Unter den Eichen" für Radfahrer - zur Kenntnis genommen
+- TOP 56: Umgestaltung einer der Treppen am Spielplatz gegenüber dem - zur Kenntnis genommen
