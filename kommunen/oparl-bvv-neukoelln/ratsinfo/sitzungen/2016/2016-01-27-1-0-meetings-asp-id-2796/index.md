@@ -1,0 +1,76 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-01-27T17:00:00+01:00
+- Ende: 2016-01-27T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2796
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2796
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 5.1: Volksentscheid respektieren, Tempelhofer Feld erhalten, Geflüchtete menschenwürdig unterbringen. - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2014 - überwiesen
+- TOP 7.2: Bebauungsplan 8-55B ("Heideläuferweg") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - beantwortet
+- TOP 10.1: Einsatzschwerpunkte Ordnungsamt - beantwortet
+- TOP 10.2: Neues Meldegesetz - beantwortet
+- TOP 10.3: Kein Milieuschutz aus Personalmangel? - beantwortet
+- TOP 10.4: Leerstände Boddinstr.5 - beantwortet
+- TOP 10.5: Sportfrei - Freiwillige vor - in der BVV abgelehnt
+- TOP 10.6: Aufstellungsbeschlüsse und soziale Erhaltungssatzungen umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 10.7: Zweckentfremdung und Ferienwohnungen in Neukölln - beantwortet
+- TOP 10.8: Menschenunwürdige Unterbringung - beantwortet
+- TOP 10.9: Leerstände mit Ausnahmegenehmigung - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Fortschreibung des Neuköllner Integrationspapiers von 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Beteiligung der Rudower Seniorinnen und Senioren - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Frauenförderpreis im Vereinssport - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sportplatz der neuen Clayschule - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Genehmigungskriterien für den Milieuschutz - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bürknerstraße zur Fahrradstraße machen - vertagt
+- TOP 11.7: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Aufstellungsbeschluss für soziale Erhaltungssatzungen - vertagt
+- TOP 11.9: Seniorenarbeit neu strukturieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Mut zu neuen Wegen - Weigandufer als Fahrradstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Prekäre Lebenssituationen junger Neuköllner_innen - vertagt
+- TOP 12.2: Fragen zu den Forderungen zur Änderung des Berliner Kinderschutzgesetz und des SGB VIII - vertagt
+- TOP 12.3: (Kinder-) und Jugendverbände in Neukölln - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Neukölln baut einen Bezirksjugendring auf - überwiesen
+- TOP 14.2: Finanzierung der Seniorenfreizeiteinrichtung in Alt-Rudow sichern - vertagt
+- TOP 14.3: Berliner Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller und geschlechtlicher Vielfalt" endlich auch in Neukölln. - überwiesen
+- TOP 14.4: Grüne Welle für Radfahrende - überwiesen
+- TOP 14.5: Befristete Vermietung in der Heidelberger Straße - überwiesen
+- TOP 14.6: Zusammenarbeit fördern I - überwiesen
+- TOP 14.7: Notunterkunft für queere (LSBTI*Q) Flüchtlinge - überwiesen
+- TOP 14.8: Nachtruhe sichern - überwiesen
+- TOP 14.9: Zusammenarbeit fördern II - überwiesen
+- TOP 14.10: Verkehrsberuhigung Richardplatz - überwiesen
+- TOP 14.11: Hinweismöglichkeit auf Zweckentfremdung auf der Webseite des Bezirksamts - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Neubewertung der Infrastrukturkosten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Spendenmelder - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Zentrale Baustellenkoordination - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bezahlbaren Wohnraum schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bebauungsplan 8-65 vom 29.10.2013 ("Putenweg / Rhodeländerweg") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Anlaufstelle LSBTI im Bezirksamt - vertagt
+- TOP 16.4: Bebauungsplan 8-31 ("Gutshof Britz") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Mehr Radbügel auf dem Rathausvorplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Schwerpunkte im Haushalt kenntlich machen - mit Abschlussbericht zur Kenntnis genommen
