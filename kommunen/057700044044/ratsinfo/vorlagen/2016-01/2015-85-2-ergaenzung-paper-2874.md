@@ -1,0 +1,24 @@
+# Einbringung des Entwurfs der Haushaltssatzung mit Haushaltsplan der Gemeinde Stemwede für das Haushaltsjahr 2016
+
+- Körperschaft: Gemeinde Stemwede
+- Drucksache/Vorlage: 2015 / 85 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2016-01-27
+- Ratsinformationssystem: https://stemwede.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZW5WkzpX6_V0Ug6bcaQ3aVE
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2874
+- Quelle: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Einbringung des Entwurfs der Haushaltssatzung mit Haushaltsplan der Gemeinde Stemwede für das Haushaltsjahr 2016) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3DRmjQyzDtRhnUxn1mGLTqGri0kddQjbOGeE4RxOuk/Beschlussvorlage_2015_-_85_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Veränderungsliste Gesamt) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVrjD15lQAF7FsMR6hYUsRLIdWvjqfF89LLpHyfr3f8-/Veraenderungsliste_Gesamt.pdf
+- Anlage: Beschlussvorlage (Gesamtergebnisplan nach Änderungen) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeQGxf8qntfzBRnsENEclyXXJbvhwZZIRHhh3fvg25lR/Gesamtergebnisplan_nach_Aenderungen.pdf
+- Anlage: Beschlussvorlage (Gesamtfinanzplan nach Änderungen) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc6G01DxjiNVhEvZbr3j9PMP99UdrItTMz8VX4BPZEN9/Gesamtfinanzplan_nach_Aenderungen.pdf
+- Anlage: Beschlussvorlage (Investitionsübersicht nach Änderungen) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRyrnFEPAeTMgGAKpRxzZq9MZCvYHfyh1ILnBcRMiRc3/Investitionsuebersicht_nach_Aenderungen.pdf
+- Anlage: Beschlussvorlage (Haushaltssatzung nach Änderungen) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZfjnN0LEAQEJeWECwXWLhsQf1sA0FRRH4RlX-JpfMMT/Haushaltssatzung_nach_Aenderungen.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Teil 1 bis S. 28) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaVn2pDAwjOG1sgbgadJwoyOj2pV1RBR9ktQLo0k40v0/Entwurf_Haushalt_2016_-_Teil_1_bis_S._28.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Teil 2 bis S. 154) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR0374ptGQC1NSb4W2sPRmbxkIhpkQZXKn76x0tQVvkc/Entwurf_Haushalt_2016_-_Teil_2_bis_S._154.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Teil 3 bis S. 170 - Anlagen) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbQuybE40KFHMU3Z5MQzB1GzB8RUIuHfSGv2IJ-Wyg5n/Entwurf_Haushalt_2016_-_Teil_3_bis_S._170_-_Anlagen.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Teil 4 bis S. 204 - WPL Wasserwerk) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVtHJVqUS9wKipGr3c6rUynftDLSfx86AhX5VVuWkRZi/Entwurf_Haushalt_2016_-_Teil_4_bis_S._204_-_WPL_Wasserwerk.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Teil 5 bis S. 248 - WPL WB Stemwede) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTjTKMifHhtL6UppWATrLT27it_aX6npPhVL18NmTa3f/Entwurf_Haushalt_2016_-_Teil_5_bis_S._248_-_WPL_WB_Stemwede.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Teil 6 bis S. 304 - sonstige Anlagen (Darlehen)) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfBJ9zxwoFyQXrpYKu9c-S2HSk_FqCZTO2JwbrKoI5qj/Entwurf_Haushalt_2016_-_Teil_6_bis_S._304_-_sonstige_Anlagen_-Darlehen-.pdf
+- Anlage: Beschlussvorlage (Entwurf Haushalt 2016 - Investitionsübersicht) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYPYEkpd0VGMgE2c6QskNZDl7symEoNHJK7s2rDBjhcc/Entwurf_Haushalt_2016_-_Investitionsuebersicht.pdf
+- Anlage: Beschlussvorlage (Schreiben Kreis Minden-Lübbecke) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd_v__rKkrvjNN6NPJMmVVOqHm-xpLqT-aIBgoBvULZi/Schreiben_Kreis_Minden-Luebbecke.pdf
+- Beratung:  https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5854 https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
