@@ -1,0 +1,7 @@
+# TOP 6: Sachstand Tagespflegemütter
+
+- Sitzung: 40. öffentliche Sitzung des Jugendhilfeausschusses (2016-01-27)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=30115
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
