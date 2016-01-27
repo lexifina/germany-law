@@ -1,0 +1,80 @@
+# 37. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-01-27T19:00:00+01:00
+- Ende: 2016-01-27T22:05:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4592
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4592
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=70922
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Bezirksgrenzänderung geringer Bedeutung der Bezirke Pankow und Mitte im Bereich des Mauerparks - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: TTIP, CETA und TiSA ablehnen - vertagt
+- TOP 1.10: Kooperation für saubere Grünflächen - Beispiel Stadtplatz "Marie" - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Generationenspielplatz in der Stadtrandsiedlung Kappgraben mit einem Schwerpunkt Sport und Spiel für Erwachsene - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Pankow wird "Kinderfreundliche Kommune" - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Beleuchtung der beliebten Grünfläche am Weißen See sicherstellen! - vertagt
+- TOP 1.14: Verkehrssicherheit im Rispenweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Unterkünfte für Geflüchtete, Studierende und Personen mit geringem Einkommen in Karow Nord (ehem. Kita-Standorte) - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Verkehrsregelung vor Notunterkünften - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: 10-Minuten-Takt der S2 bis Bernau - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Information der Anwohner*innen bei Spielplatz-Sperrung weiter verbessern - überwiesen
+- TOP 1.19: Sportvereine ohne Hallen - Alternativen und Ausgleich finden - überwiesen
+- TOP 1.20: Parkverträgliches Gewerbe im Mauerpark nachhaltig sichern - überwiesen
+- TOP 1.21: Gefahren auf dem Gehweg in der Pankgrafenstraße abstellen - überwiesen
+- TOP 1.22: Handlungskonzept zur Reduzierung der offenen Widersprüche gegen das JobCenter - überwiesen
+- TOP 1.23: Motorisierten Individualverkehr verringern durch Angebotsschaffung im ÖPNV - überwiesen
+- TOP 1.24: BVV bekräftigt Vorrang der Gesundheit: Tempo 30 in der nördlichen Berliner Allee - überwiesen
+- TOP 1.25: Keine rücksichtslose Verdichtung zu Lasten einer Kita - überwiesen
+- TOP 1.26: Unbegleitete minderjährige Ausländer - beantwortet
+- TOP 1.27: Mehr Information über den Leistungsbereich der Krankenhilfe - überwiesen
+- TOP 1.28: Schnelle und unbürokratische Entsorgung von Sperrmüll ermöglichen - überwiesen
+- TOP 1.29: Radfahrstreifen in der Berliner Straße vor der Platanus Schule - überwiesen
+- TOP 1.30: Zentrale Spendenannahme - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Sanierungsbonus für als Notunterkunft fremdgenutzte Schulsporthallen? - beantwortet
+- TOP 1.32: Zweite Ausweitung der Parkraumbewirtschaftung im Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Parkordnung im verkehrsberuhigten Bereich in der Greifenhagener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Beleuchtung von Verkehrswegen durch Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Kein Wechsel von der Willkommensklasse in die Regelklasse ohne ausreichende Deutschkenntnisse - in der BVV abgelehnt
+- TOP 1.36: „Work for Refugees- Refugees for Work“ bekannt machen - überwiesen
+- TOP 1.37: Fuß- und Radwegeverbindung über die Panke in Buch - überwiesen
+- TOP 1.38: Informations- und Beteiligungspotential „jup!“ bekannt machen - überwiesen
+- TOP 1.39: Grundstück an der Busonistraße 133 als Grünfläche sichern - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Lärmschutz an der Stettiner Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Internetportal und Webserver von jugendnetz-berlin.de als Ressource für Stadt und Bezirk retten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Neue Gebiete für die Städtebauförderung im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Illegales Parken entlang des Radfernwanderweges Berlin-Usedom - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Erhaltung der Felder der Elisabethaue – keine Bebauung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Verständliche offizielle Formulare und Kommunikation des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Bedarfe des vereinsungebundenen Freizeitsports beim Umbau des Jahn-Sportparks zur Geltung bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Erhöhung der Verkehrssicherheit in der Friedrich-Engels-Straße im Ortsteil Niederschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Abschiebestopp für geflüchtete Menschen während ihrer Ausbildung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Entwurf des Doppelhaushaltsplans 2016/2017 für den Bezirk Pankow (einschließlich Vorbericht, Anlagen 1 - 3 und Stellenplan) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10.1: Ergänzungen zur Bezirksamtsvorlage VII-1255/2015 Entwurf des Doppelhaushaltsplanes 2016/2017 für den Bezirk Pankow (Nachschiebeliste) einschl. der Anlage 2/Wirtschaftsplan 2016/2017 der Parkraumüberwachung des Bezirks Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Berlin Service-App bekannt machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Brief zur aktuellen Situation Geflüchteter in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrssicherheit an den Flüchtlingseinrichtungen im Areal Storkower Straße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Kaufkraftabflüsse reduzieren, neue Perspektiven für den Einzelhandel eröffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Kniprodestraße 94/96: Stellplatznutzung für die AnwohnerInnen wieder ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Erhöhung der Verkehrssicherheit in der Hauptstraße in Wilhelmsruh - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Migrationsberatung für erwachsene Zuwanderer in der Fröbelstraße auffindbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Planungssicherheit für das Angebot von Volkshochschule und Musikschule gewährleisten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Moorlinse in Berlin-Buch schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Amtshaus in Französisch Buchholz erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Wirtschaftsplan des Eigenbetriebes „Kindergärten NordOst“ für das Jahr 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Benennung der Nummernstraße Straße 101 im Ortsteil Niederschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Zusammenlegung der SE Finanzen/ StD mit der SE Personal - mit Abschlussbericht zur Kenntnis genommen
