@@ -1,0 +1,55 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-01-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818089
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818089
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Gemeinsamer Antrag: Verbesserung des Kitafinders: 1. Priorisierung der Einrichtungen 2. Entwicklung einer mobilen Version
+- TOP .2.: Bürger: Neues Jugendzentrum am Ackermannbogen
+- TOP .1.: Planung der Einsätze der Münchner Sommerspielaktion 2016
+- TOP .2.1.: Wirtschaft
+- TOP .1.: WC-Konzept ?Nette Toilette? in München: Ermittlung des Bedarfs im Stadtgebiet
+- TOP .2.: Elisabethstr. 39 ?Gretels Markt?: Flächenerweiterung einer bestehenden Warenauslage
+- TOP .2.2.: Kultur
+- TOP .1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer: Centa-Herker-Bogen, Elisabeth-Kohn-Straße, Friedrich-Loy-Straße, Klausingweg und Leonhard-Frank-Straße Anhörung zu Textvorschlägen sowie Art und Anzahl der Schilder
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP 1.2.: Elisabethstr. 47-49: Aufstockung um ein Vollgeschoss (Elisabethstr. 47), Aufstockung um ein Vollgeschoss + hofseitiger Balkonanbau(Elisabethstr. 49), Aufstockung um ein Vollgeschoss und Änderung der Dachform (Flachdach zu ausgebautem Satteldach für 8 neue Wohneinheiten (Zentnerstr. 39-41))
+- TOP 1.3.: Schleißheimer Str. 91: Nutzungsänderung und Umbau einer Pension zu 3 Wohnungen
+- TOP 1.4.: Unertlstr. 16: Modernisierung der Gebäudehülle und der Haustechnik eines Mehrfamilienhauses
+- TOP 1.5.: Unertlstr. 20: Modernisierung der Gebäudehülle und der Haustechnik eines Mehrfamilienhauses
+- TOP 1.6.: 1. Schulbauprogramm ?Neubau, Erweiterung und Generalinstandsetzung? Schulbauoffensive 2013-2030 ? Anhörung zum Beschlussentwurf für eine gemeinsame Sitzung verschiedener Stadtratsausschüsse am 18.02.2016
+- TOP 1.2.2.: Wohnen
+- TOP 1.1.: Bürger: Baumschutz in der Anlieferzone des Rewe-Marktes Clemensstr. 131
+- TOP 1.2.: Bürger: Pflasterung der aufgerissenen Gehwege in der Gartenstraße
+- TOP 1.2.1.: Umwelt
+- TOP 1.1.: Krumbacher Str. 1: Fällung eines mehrstämmigen Hollerbaumes
+- TOP 1.2.: Wertstoffcontainerinsel Isoldenstraße / Eisenacher Straße (Schwabinger Krankenhaus): Altplatznachgenehmigung
+- TOP 1.3.: Horscheltstr. 4: Fällung eines Götterbaums
+- TOP 1.4.: Heßstr. 128: Fällung von vier Bäumen
+- TOP 6.7.: Mainzer Str. 17: Fällung dreier Birken
+- TOP 6.2.2.: Verkehr
+- TOP 6.1.: Austausch der Lichtsignalanlage Herzog-/Hiltenspergerstraße
+- TOP 6.2.: Herstellung von Gehbahn und Parkbuchten auf der Westseite der James-Loeb-Straße zwischen Bummstraße und Scheidplatz ? Entscheidung über die Projektplanung (wegen Ortstermin am 14.01.2015 aus 12/15 vertagt)
+- TOP 3.4.: Erinnerungsverfahren des Baureferats Tiefbau: a) Asphaltarbeiten in der Keuslinstraße zwischen Zentner- und Hiltenspergerstraße b) Pflasterarbeiten in der Viktor-Scheffel-Straße zwischen Römer- und Belgradstraße
+- TOP 3.5.: Anfahrtszone für Behindertentransportfahrzeuge in der Belgradstraße Ostseite; Einrichtung zweier allgemeiner Behindertenparkplätze in der Belgradstr. 106/108
+- TOP 3.1.: Öffentliche Toilette in der Agnesstr. 4 während des Umbaus des Elisabethmarktes geöffnet lassen
+- TOP 1: (E) Beleuchtungsstärke im überdachten Außenbereich des GWG-Gebäudes in der Georg-Birk-Straße reduzieren Empfehlung Nr. 14-20 / E 00615 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 08.10.2015
+- TOP 5: (E) Verlegung der Hundewiese im Luitpoldpark weg vom Spielplatz (Ziffer 2 des Antrages) Empfehlung Nr. 14-20 / E 00612 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
+- TOP 6: (E) Gestaltung der Ecke Hohenzollern-/Friedrichstraße durch Sitzgelegenheiten und einen Abfallbehälter Empfehlung Nr. 14-20 / E 00605 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
+- TOP 3: (E) Errichtung einer Rad- und Autofurt über die Trambahngleise in der Parzivalstraße in Höhe James-Loeb-Straße (Ziffer 3 des Antrages) Empfehlung Nr. 14-20 / E 00619 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen und Anhörungen
