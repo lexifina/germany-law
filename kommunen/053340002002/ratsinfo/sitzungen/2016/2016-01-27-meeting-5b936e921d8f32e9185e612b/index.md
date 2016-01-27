@@ -1,0 +1,55 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2016-01-27T17:00:00+01:00
+- Ende: 2016-01-27T20:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3386
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936e921d8f32e9185e612b
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 09.12.2015 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - (offen)
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2016, Produkt 021501, Brandbekämpfung: Beschaffung eines gebrauchten Wechselladerfahrzeuges - ungeändert beschlossen
+- TOP 5: Wahl eines Beigeordneten/einer Beigeordneten für Personal, Organisation, Stadtbetrieb, Feuerwehr und Umwelt - ungeändert beschlossen
+- TOP 6: Stellenplan 2016 - ungeändert beschlossen
+- TOP 7: Haushaltsplanberatungen 2016 - ungeändert beschlossen
+- TOP 8: Entwurf des Jahresabschlusses 2014 - zurückgestellt
+- TOP 9: 3. Nachtrag zur Zweitwohnungssteuersatzung - ungeändert beschlossen
+- TOP 10: Satzung über die Erhebung von Gebühren, Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Aachen (Feuerwehrsatzung) - zurückgestellt
+- TOP 10.1: Satzung über die Erhebung von Gebühren, Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Aachen (Feuerwehrsatzung) - zurückgestellt
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 12: Jahresabschluss zum 31. 12. 2014 und Lagebericht 2014 von Volkshochschule Aachen - ungeändert beschlossen
+- TOP 13: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2016 - geändert beschlossen
+- TOP 13.1: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2016 - ungeändert beschlossen
+- TOP 14: Haushaltssatzung 2016/2017 Zweckverband Region Aachen <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 15: Fusion der bisherigen Fachbereiche "Wohnen" (FB 64) und "Soziales und Integration" (FB 50) zu einem neuen Fachbereich " Wohnen und Soziales" ( FB 56) - zurückgezogen
+- TOP 16: Verlegung von Stolpersteinen Projekt des Kölner Künstlers Gunter Demnig von Volkshochschule Aachen - ungeändert beschlossen
+- TOP 17: Schenkung von 34 Arbeiten des Künstlers Walter Vogel an das Suermondt-Ludwig-Museum - ungeändert beschlossen
+- TOP 18: Erlass einer Satzung zum Schutz und Erhalt von Wohnraum im Stadtgebiet Aachen hier: Tagesordnungsantrag der GRÜNE-Fraktion im Rat der Stadt Aachen vom 08.01.2016 - geändert beschlossen
+- TOP 19: Städtebau-Sonderprogramm des Landes zur Integration von Flüchtlingen hier: Tagesordnungsantrag der GRÜNE-Fraktion vom 11.01.2016 zur Sitzung des Rates der Stadt am 27.01.2016 <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - zurückgestellt
+- TOP 20: Anfragen: - (offen)
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Umbesetzung von Ausschüssen und anderen Gremien - (offen)
+- TOP 21.1: Umbesetzung von Ausschüssen und anderen Gremien -Entsendung eines Mitgliedes des Integrationsrates als Stellvertreterin in den Schulausschuss- - ungeändert beschlossen
+- TOP 21.2: Umbesetzung von Ausschüssen und anderen Gremien hier: Antrag der Fraktion DIE LINKE vom 15.01.2016 - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung - (offen)
+- TOP 23: Ratsanträge - ungeändert beschlossen
+- TOP 24: Ratsantrag Nr. 130/17 der Fraktion "Die Grünen" Finanzierung eines Kommunalen Wohnungsbauprogramms 2016-2020 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
