@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-01-28T17:00:00+01:00
+- Ende: 2016-01-28T19:33:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11578
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11578
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258102.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258102.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258102.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Sportanlage Roßbachstraße 41 - einstimmig beschlossen
+- TOP 9: Sportanlage Deutzer Straße 12 - einstimmig beschlossen
+- TOP 10: Masterplan Kinderspielplätze 2017 - einstimmig beschlossen
+- TOP 11: Kulturbahnhof Eller - beantwortet
+- TOP 12: Supermarkt Schlesische Straße - beantwortet
+- TOP 13: Hauptradwegenetz im Stadtbezirk 8 - beantwortet
+- TOP 14: Jugendfreizeiteinrichtung Kuthsweg - beantwortet
+- TOP 15: Anhörungsrecht der Bezirksvertretung - beantwortet
+- TOP 16: Unterführung Gumbertstraße - beantwortet
+- TOP 17: Radschnellweg Düsseldorf-Erkrath - beantwortet
+- TOP 18: Bücherbus im Stadtbezirk 8 - beantwortet
+- TOP 19: Etatberatung 2016 - beantwortet
+- TOP 20: Bunker Am Bermeshau - beantwortet
+- TOP 21: Grundstück Gumbertstraße 107 - beantwortet
+- TOP 22: Grundstück Ronsdorfer Straße 56 - beantwortet
+- TOP 23: Barrierefreier Ausbau von Bushaltestellen im Stadtbezirk 8 - beantwortet
+- TOP 24: Düssel-Brücke Reichenbacher Weg / Coburger Weg - beantwortet
+- TOP 25: Musikpavillon Schlosspark Eller - beantwortet
+- TOP 26: Grundstück Großer Torfbruch 12 - beantwortet
+- TOP 27: Runder Tisch Waldschänke - mehrheitlich beschlossen
+- TOP 28: Beleuchtung Unterführung Vennhauser Allee - einstimmig beschlossen
+- TOP 29: Ampelanlage Königsberger Straße - einstimmig beschlossen
+- TOP 30: Lichtmasterplan 2 im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 31: Verkehrsregelung Kreuzung Reisholzer Straße / Schlesische Straße / Kuthsweg - einstimmig beschlossen
+- TOP 32: Sitzungssaal Rathaus Eller - einstimmig beschlossen
+- TOP 33: Verkehrsführung Heidlberger Straße / Bernburger Straße / Karlsruher Straße - einstimmig beschlossen
+- TOP 34: Grünfläche im Bereich Reichenbacher Weg / Düssel-Brücke - einstimmig beschlossen
+- TOP 35: Kiosk Heidelberger Straße 42a - einstimmig beschlossen
+- TOP 36: Graffitibeseitigung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 37: Wasserspielplatz Tannenhofweg - einstimmig beschlossen
+- TOP 38: Graffiti - Schutzmaßnahmen an S-Bahnhöfen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Schrägparken Schlesische Straße - zur Kenntnis genommen
+- TOP 40: Bebauungsplan Eichenwand - zur Kenntnis genommen
+- TOP 41: Nebengebäude Schloss Eller - zur Kenntnis genommen
+- TOP 42: Schutz der Grüngebiete im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Postversorgung in Lierenfeld - zur Kenntnis genommen
+- TOP 44: Fahrradständer Friedhof Unterbach - zur Kenntnis genommen
+- TOP 45: Straßensanierung Am Pfaffenbusch 4 - zur Kenntnis genommen
+- TOP 46: Parkregelung Vennhauser Allee in Höhe GGS Vennhauser Allee - zur Kenntnis genommen
+- TOP 47: Geschwindigkeitsmessungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Verkehrsregelung Tichauer Weg - zur Kenntnis genommen
+- TOP 49: Fahrbahndecke Erlenkamp - zur Kenntnis genommen
+- TOP 50: Lehrerparkplatz GGS Vennhauser Allee - zur Kenntnis genommen
+- TOP 51: Geschwindigkeitsregelung Kamper Weg - zur Kenntnis genommen
+- TOP 52: Barrierefreier Ausbau Haltestelle Lierenfeld Betriebshof - zur Kenntnis genommen
+- TOP 53: Renaturierungen Südliche Düssel und Eselsbach / Flachwasserzone Unterbacher See - zur Kenntnis genommen
+- TOP 54: Ladezone Gumbertstraße - zur Kenntnis genommen
+- TOP 55: Sitzgelegenheit Bushaltestelle Vennstraße / Strandbad Nord - zur Kenntnis genommen
+- TOP 56: Anhörungsrecht der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 57: Grundstück Freiheitstraße 78 - zur Kenntnis genommen
