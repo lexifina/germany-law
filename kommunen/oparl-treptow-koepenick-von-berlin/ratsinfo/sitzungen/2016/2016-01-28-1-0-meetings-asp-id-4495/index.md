@@ -1,0 +1,58 @@
+# 43. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-01-28T16:30:00+01:00
+- Ende: 2016-01-28T20:45:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4495
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4495
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=113665
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Brückenbenennung nach Mathilde Rathenau - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: Baustellenmarketing für Bölschestraße - erledigt
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-50 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl von stellvertretenden Kiezpatinnen - gewählt
+- TOP 8.2: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Planreifeerklärung zur Beschlussfassung - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Lärmschutzmaßnahmen an der Bahnstrecke Berlin Ostbahnhof - Erkner, Ortslage Friedrichshagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Schulwegsicherheit in der Köpenicker Landstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kuratorium für die Gedenkstätte Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Anerkennung für Ehrenamtliche - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Belegungsplan für die Urnengemeinschaftsanlage in der Abteilung A VII UGA3 auf dem städtischen Friedhof Müggelheim - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Belegungsplan für die Urnenwahlgrabanlage in der Abteilung IV/A auf dem städtischen Friedhof Bohnsdorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Aufhebung der Friedhofswidmung des Flurstücks 12 (Gemarkung Treptow - 110500, Flur 130, Kbl. 40712) auf dem Friedhof Baumschulenweg - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Gedenken an freie Kommunalwahlen 1946 - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Kosten-Leistungsrechnung im Kulturbereich - überwiesen
+- TOP 14.3: Abfallbehälter auf öffentlichen Spielplätzen - überwiesen
+- TOP 14.4: Benennung des Schöneweider Uferwegs nach Jan Czochralski - überwiesen
+- TOP 14.5: Originalwortlaut bei Stellungnahmen zu Bebauungsplänen von Einwohnerinnen und Einwohnern sowie von Trägern öffentlicher Belange - überwiesen
+- TOP 14.6: Baustellenkoordination in Friedrichshagen - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Urban Gardening am Kaisersteg - überwiesen
+- TOP 14.8: Einwohnerversammlung zum geplanten Neubau eines Verbrauchermarktes in der Mahlsdorfer Straße 34-38a - überwiesen
+- TOP 14.9: Fahrradstraße Schöneweide - überwiesen
+- TOP 14.10: Herstellung der Beleuchtung von Bushaltestellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Schulsozialstation in der Bouché-Grundschule über das Jahr 2016 hinaus sichern - überwiesen
+- TOP 14.12: Demografiekonzept fortschreiben - überwiesen
+- TOP 14.13: Verkehrssicherheit in der Kiefholzstraße (2) - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Standort für ein Nachwuchsleistungszentrum des 1. FC Union Berlin - beantwortet
+- TOP 15.2: Was braucht das Nachwuchsleistungszentrum des 1. FC Union Berlin - beantwortet
