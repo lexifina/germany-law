@@ -1,0 +1,87 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-01-28T18:00:00+01:00
+- Ende: 2016-01-28T20:18:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1471
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1471
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Vereidigung von Ratsmitgliedern
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Ausschussumbesetzungen - einstimmig
+- TOP 3.2.2: Baumschnitt in Frimmersdorf - einstimmig
+- TOP 3.2.3: Fernwärme für Neurath - einstimmig
+- TOP 3.2.4: Leerrohre in Baugebieten - einstimmig
+- TOP 3.2.5: Verkehrsführung Bobbolandia - einstimmig
+- TOP 3.3: UWG
+- TOP 3.3.1: UWG Antrag Nr. 2/2016 - einstimmig
+- TOP 3.3.2: Schaffung von Wohnraum für Asylbewerber - einstimmig
+- TOP 3.3.3: Taktzeiten der Ampelanlage in Kapellen Kreuzung Talstraße, Freidrichstraße, Neusser Straße - einstimmig
+- TOP 3.3.4: FDP-Antrag Nr. 1/2016 - einstimmig
+- TOP 3.3.5: Flexiblere Öffnungszeiten der Grevenbroicher Kindertagesstätten ermöglichen (Antrag Nr. 7/2016) - einstimmig
+- TOP 3.3.6: Evaluation zum probeweisen Abbau der Abfallbehälter im städtischen Forst (Antrag Nr. 8/2016) - einstimmig
+- TOP 3.4: FDP
+- TOP 3.4.1: FDP Antrag Nr. 9/2016 - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Quecksilber - einstimmig
+- TOP 3.5.2: Bürgerbeteiligung - einstimmig
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Verschmutzung Brache Kaplan-Hahn-Strasse - einstimmig
+- TOP 3.7.2: Bürgerbeteiligung durch Einführung eines Bürgerhaushaltes - einstimmig
+- TOP 3.7.3: Verschmutzung Bienefelds Gässchen - einstimmig
+- TOP 3.7.4: Einrichtung "Runder Tisch Innenstadt" - einstimmig
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: Gemeinschaftsanträge
+- TOP 4: SPD, Antrag Nr. 293/2015 - einstimmig
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: Anfragen der CDU-Fraktion
+- TOP 5.2: Anfragen der SPD-Fraktion
+- TOP 5.3: Anfragen der UWG-Fraktion
+- TOP 5.4: Anfragen der FDP-Fraktion
+- TOP 5.4.1: Kommunikationsmanagement der Stadtverwaltung und Flüchtlingsunterbringungen in Grevenbroich - einstimmig
+- TOP 5.4.2: Anfrage Fahrraddiebstähle - einstimmig
+- TOP 5.5: Anfragen der Fraktion Bündnis 90/DIE GRÜNEN
+- TOP 5.6: Anfragen der ABG-Fraktion
+- TOP 5.6.1: Belegung der Turnhalle Neurath mit Flüchtlingen - einstimmig
+- TOP 5.7: Anfragen der Fraktion Mein Grevenbroich
+- TOP 5.8: Anfragen der Fraktion Die Linke/Piraten
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Mittelbereitstellungen
+- TOP 8: Beteiligungsbericht 2015 - einstimmig
+- TOP 9: Unterbringung von Asylbewerbern
+- TOP 10: Abstimmung über Themen und Aufgaben der Integration in Grevenbroich gemäß § 27 Abs. 8 der Gemeindeor - einstimmig
+- TOP 11: Nachbesetzung nebenamtlicher Geschäftsführer Wirtschaftsbetriebe Grevenbroich GmbH
+- TOP 12: Beantwortung Anträge
+- TOP 12.1: CDU, Antrag Nr. 232/15 - einstimmig
+- TOP 12.2: CDU Antrag Nr. 313/2015 - einstimmig
+- TOP 12.3: Detaillierte Auflistung von Pauschalen - einstimmig
+- TOP 12.4: Reinigung Toilette Bahnhof GV - mehrheitlich bei
+- TOP 13: Beantwortung Anfragen
+- TOP 13.1: Beantwortung mündlicher Anfragen - einstimmig
+- TOP 14: mündliche Anträge/Anfragen
+- TOP 14.1: Raumsituation des Deutschen Roten Kreuzes (DRK)
+- TOP 14.2: Slogan "Bundeshauptstadt der Energie"
+- TOP 14.3: Freigabe der Turnhalle "Altes Schloß"
+- TOP 14.4: Nutzung des Sportplatzes Neurath während der Winterzeit
+- TOP 14.5: Baumfällarbeiten L365/Am Dornbusch - Aufforstung
+- TOP 14.6: Ampelanlage Kirchstrasse/Eichenweg
+- TOP 14.7: Parksituation Kirchstrasse
+- TOP 14.8: Müllsituation "Auf dem Wiler"
+- TOP 14.9: Kastanie an der Stadtparkinsel
+- TOP 14.10: Spielplatz Südtstadt - kreative Lösungen
+- TOP 14.11: Sportplatz Neurath - Nutzung als Bolzplatz
+- TOP 14.12: Flüchtlingsunterbringung Bahnhofsgebäude Gustorf
+- TOP 14.13: Austausch "Tempo 30"- Schild Neuenhausen
+- TOP 14.14: Park- und Beleuchtungssituation Königsstrasse
+- TOP 14.15: Parksituation Richard-Wagner-Str. / Blumenstraße
+- TOP 15: Mitteilungen BM
