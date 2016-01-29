@@ -1,49 +1,39 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 8/200
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg, die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 14/2015
 
 - Herausgeber: Land Brandenburg
-- Datum: 2015-10-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/opa2015
+- Datum: 2016-01-29 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/hbs2015
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Immissionsschutz - Verwendung von Offenporigem Asphalt (OPA) im Straßenbau
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Handbuch für die Bemessung von Straßenverkehrsanlagen (HBS, Ausgabe 2015)
 
-vom 30. Oktober 2015
+vom 29. Januar 2016
 
-(ABl./15, [Nr. 46], S.1211)
+(ABl./16, [Nr. 7], S.201)
 
 Der Runderlass richtet sich an
 
-die Straßenbaubehörde des Landes Brandenburg
+die Straßenbaubehörde des Landes Brandenburg,
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 8/2004 vom 18. Oktober 2004 hat das damalige Bundesministerium für Verkehr, Bau- und Wohnungswesen (BMVBW) die nachfolgenden Regelungen zur Verwendung von Offenporigem Asphalt auf Bundesfernstraßen bekannt gegeben.
+Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 14/2015 vom 26. August 2015 hat das Bundesministerium für Verkehr und digitale Infrastruktur das „Handbuch für die Bemessung von Straßenverkehrsanlagen (HBS)“ mit der Bitte um Einführung bekannt gegeben.
 
-Wenn OPA als Bestandteil eines Maßnahmenkonzeptes eingesetzt werden soll, muss der Erläuterungsbericht zur schalltechnischen Untersuchung eine ausführliche Begründung unter Würdigung folgender Punkte enthalten:
+Hiermit werden das HBS, Ausgabe 2015 und die Hinweise des ARS Nr. 14/2015 für Bundesfern- und Landesstraßen im Land Brandenburg eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-OPA kommt nur dort in Betracht, wo ein gesetzlicher Anspruch auf Lärmschutz im Rahmen der Lärmvorsorge besteht beziehungsweise in Sonderfällen bei Maßnahmen der Lärmsanierung.
+Folgende Hinweise sind zu beachten:
 
-OPA sollte nur bei erheblicher Lärmbetroffenheit vorge­sehen werden.
+Für die Bemessung geplanter Anlagen (Neu-, Um- und Ausbau) ist die Bemessungsverkehrsstärke im Prognosezustand anzusetzen.
 
-Die Verwendung von OPA muss künftig nicht mehr beschränkt bleiben auf Fälle mit überhohen Lärmschirmen oder zur Vermeidung von Einhausungen. In Fällen von Lärmbetroffenheit, bei denen Lärmschirme beiderseits der Straße erforderlich sind, kann die Verwendung von OPA deutlich finanzielle Vorteile gegenüber einem -2-dB(A)-Belag bewirken.
+Als Grundlage für die Bemessung ist die jeweils zum Zeitpunkt der Planung aktuelle Verkehrsprognose anzusetzen.
 
-Eine Betrachtung der Wirtschaftlichkeit im Vergleich zu ­einer Deckschicht mit DStrO = -2 dB(A) ist unter Berücksichtigung der im aktuellen Statuspapier zum OPA genannten Zeiträume der lärmtechnischen Wirksamkeit in jedem Einzelfall durchzuführen. Neben den reinen Bau- und ­Erneuerungskosten sind Kriterien wie eventueller Mehraufwand für Erneuerung in ganzer Fahrbahnbreite, zusätzliche Entwässerungseinrichtungen, Winterdienst, Verkehrsführung bei Baustellen zur Erneuerung der Deckschicht sowie gegebenenfalls weitere in die Wirtschaftlichkeitsbetrachtung einzubeziehen.
+Für Netzabschnitte der Straßenkategorie LS I, denen aufgrund einer geringen Verkehrsnachfrage eine Entwurfsklasse (EKL) 2 zugewiesen wird, kann die angestrebte mittlere Pkw-Fahrtgeschwindigkeit nicht in jedem Fall nachgewiesen werden. Für diese Fälle ist eine Einzelfallentscheidung zu punktuell höherem Ausbaustandard oder zur Abminderung der Zielstellung vorzunehmen.
 
-Streckenabschnitte mit OPA dürfen nicht zu einem häufigeren Wechsel der Deckschichtart und dem bei entsprechenden winterlichen Wetterbedingungen hierdurch hervorgerufenen kleinräumigen Wechsel der Ober­flächen­eigen­schaften führen.
+Über die Erfahrungen bei der Anwendung des HBS ist bis zum 30. Juni 2017 zu berichten.
 
-Bei Strecken, auf denen mit stark erhöhter Verschmutzung der Fahrbahnoberfläche zu rechnen ist (zum Beispiel durch landwirtschaftliche Nutzfahrzeuge), darf OPA nicht verwendet werden.
+Das HBS 2015 ist beim FGSV-Verlag GmbH, Wesselinger Straße 17, 50999 Köln, zu beziehen.
 
-Auf Brückenbauwerken wird OPA weiterhin grundsätzlich nicht eingebaut. Sollten zwingende Gründe für seine Verwendung sprechen, so ist vor Einbringen in die schalltechnische Berechnung eine Zustimmung beim für den Brückenbau zuständigen Referat des Ministeriums für Infrastruktur und Landesplanung einzuholen.
-
-Geringere Kosten des aktiven Maßnahmenkonzeptes unter Verwendung von OPA gegenüber dem mit einem -2-dB(A)-Belag können nicht als alleiniges Kriterium für den Einsatz gelten. Vielmehr ist eine Würdigung aller maßgebenden Umstände des Einzelfalls erforderlich, um zu einer begründeten Entscheidung für oder gegen OPA zu gelangen.
-
-Diese Regelungen wurden mit Runderlass des Ministeriums für Infrastruktur und Raumordnung, Abteilung 5, Nummer 21/2005 - Straßenbau vom 10. November 2005 (ABl. 2006 S. 30) für Bundesfern- und Landesstraßen eingeführt sowie zur Anwendung bei Kreisstraßen und dafür in Frage kommenden Kommunalstraßen empfohlen.
-
-Mit Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4 - Nummer 16/2010 - Straßenbau vom 8. Oktober 2010 (ABl. S. 1777) wurde die Geltungsdauer der Regelungen um weitere fünf Jahre verlängert. Hiermit werden diese Regelungen erneut verlängert und gelten somit unver­ändert fort.
-
-Die Anwendungsmöglichkeiten von Asphaltdeckschichten aus Offenporigem Asphalt werden unter Berücksichtigung von schall- und bautechnischen Gesichtspunkten im „Merkblatt für Asphaltdeckschichten aus Offenporigem Asphalt, Ausgabe 2013 (M OPA)“ behandelt. Hier werden Empfehlungen für die Planung, den Bau und die Erhaltung gegeben.
-
-Der Runderlass wird im Brandenburgischen Vorschriftensystem (BRAVORS) veröffentlicht.
+Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse www.landesrecht.brandenburg.de eingestellt.
