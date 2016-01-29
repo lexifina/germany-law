@@ -1,0 +1,63 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-01-29T16:00:00+01:00
+- Ende: 2016-01-29T18:35:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11654
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11654
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258204.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258204.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258204.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Genehmigung der Niederschrift der gemeinsamen Sondersitzung der Bezirksvertretungen 1-10 am 09.11.2015
+- TOP 4: Verpflichtung eines neuen Mitglieds
+- TOP 5: Zulassung eines Vertreters des Jugendrates
+- TOP 6: Zulassung von Sachverständigen zum TOP 7
+- TOP 7: Mündlicher Vortrag Reisholzer Hafen
+- TOP 8: Informationsvorlage Wiederherstellungsmaßnahmen des durch den Orkan ‚Ela‘ stark betroffenen Schlossparks Benrath – Wiede
+- TOP 9: Sanierungskonzept für das ehemalige Thyssen-Krupp-Grundstück Telleringstraße
+- TOP 10: Plan 09/008-Forststr/Hasselsstr-Änderung/1. Verlängerung VÄ
+- TOP 11: B-Plan Vorentwurf Nr.09/011 - Östlich Kölner Landstraße
+- TOP 12: B-Plan 5970/27 - Bonner Straße / Münchener Straße -
+- TOP 13: Hochwasser-Schutz Hoxbach - Einbecker Straße - Bedarfsbeschluss -
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2016
+- TOP 15: Anfrage: Brücke über Werstener Straße/Südpark, Ertüchtigung Geländer
+- TOP 16: Anfrage: A59
+- TOP 17: Anfrage: Verwendung des gesundheitsgefährdenden Baustoffs Woolit
+- TOP 18: Anfrage: Bestand preisgebundener Wohnungen im Stadtbezirk 9
+- TOP 19: Anfrage: Regenrückhaltebecken Kamper Acker
+- TOP 20: Anfrage: Parken auf öffentl. Verkehrsfläche Am Steinkaul/Maikammer
+- TOP 21: Anfrage: Gutshof Niederheid
+- TOP 22: Antrag: Überwerfungsbauwerk RRX
+- TOP 23: Antrag: Einwohnerfragestunde
+- TOP 24: Antrag: Straße „Am Ausleger / Ortweg“ durch die Urdenbacher Kämpe als Fahrrads
+- TOP 25: Antrag: Aufhebung der Einbahnstraßenregelung "Im Diepental"
+- TOP 26: Antrag: Radfahrstreifen Werstener Feld
+- TOP 27: Antrag: Ausweisung von Wohnungsbauflächen im Stadtbezirk 9
+- TOP 28: Antrag: Weitere Verwendung der Grundstücke Kölner Landstraße 391-393
+- TOP 29: Antrag: Verfügungsmittel Lauftreff Düsseldorf-Süd e.V.
+- TOP 30: Antrag: Verfügungsmittel GGS Urdenbach, Zirkusprojekt 2016
+- TOP 31: Antrag: Verfügungsmittel Verein Himmelgeist 1100 e.V.
+- TOP 32: Antrag: Verfügungsmittel Kath. Kita St. Nikolaus; Umgestaltung der Halle
+- TOP 33: Antrag: Verfügungsmittel Peter Behrens School of Arts
+- TOP 34: Antrag: Verfügungsmittel Geranien Rathaus Benrath
+- TOP 35: Antrag: Verfügungsmittel Repräsentation 2016
+- TOP 36: Informationsvorlage zum Beschluss der BV 9 vom 04.09.2015
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 04.09.2015, Errichtung eines Kinderspielplatzes im Be
+- TOP 38: Informationsvorlage zum Beschluss der BV 9 vom 08.05.2015, ehemaliges BEA-Gelände
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 25.09.2015, Carsharing ausweiten
+- TOP 40: Informationsvorlage zum Neubau der Bushaltestellen Ickerswarder Str.
+- TOP 41: Informationsvorlage zur Anfrage "Barrierefreie Kinderspielplätze im Stadtbezirk 9"
+- TOP 42: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015, Prioritätenliste Mischverkehrsflächen
+- TOP 43: Informationsvorlage zur Anfrage "Beleuchtung Nosthoffenstraße"
+- TOP 44: Informationsvorlage Kreisverkehre im Stadtbezirk 9
+- TOP 45: Informationsvorlage Masterplan Kinderspielplätze
+- TOP 46: Informationsvorlage Einsatz der Geschwindigkeitsanzeigetafel im Stadtbezirk 9 im Jahre 2015
