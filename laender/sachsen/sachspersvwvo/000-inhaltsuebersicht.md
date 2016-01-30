@@ -19,7 +19,7 @@ Abschnitt 1 Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wah
 § 16 Wahlhandlung
 § 17 Briefwahl
 § 18 Behandlung der durch Briefwahl abgegebenen Stimmen
-§ 19 Stimmabgabe bei Nebenstellen und Teilen von Dienststellen
+§ 19 Anordnung der Briefwahl
 § 20 Feststellung des Wahlergebnisses
 § 21 Wahlniederschrift
 § 22 Benachrichtigung der gewählten Bewerber
