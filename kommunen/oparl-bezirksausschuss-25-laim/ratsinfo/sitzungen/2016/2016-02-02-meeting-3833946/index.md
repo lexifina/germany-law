@@ -1,0 +1,56 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-02-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833946
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833946
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90/Die Grünen: Pavillonbauten Camerloher Schule - 2
+- TOP 3: Entscheidungsfälle
+- TOP 3.3.: Schreiben Kreisverwaltungsreferat vom 08.01.16: Entscheidung über die Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Antrag auf Genehmigung einer Warenauslage in der Lautensackstr. 9
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 14.01.16: Austausch der Lichtsignalanlage Hans-Thonauer-/Zschokkestr.
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 15.01.16: Ökumenischer Gottesdienst am 22.06.16 auf dem Laimer Anger (Ausweichtermin: 25.06.16)
+- TOP 4.3.: Scheiben Kreisverwaltungsreferat vom 19.01.16: Örtliche Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 4.4.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Friedenheimer Str. 110?112, Gehbahn
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Junkerstr. 75: Sanierung und Erweiterung (Anbau) eines Reihenendhauses mit Abbruch und Neubau einer Garage; hier: Baumbestandsplan
+- TOP 5.2.: Landsberger Str. 214: Neubau eines gewerblich genutzten Gebäudes - Vorbescheid
+- TOP 5.3.: Agnes-Bernauer-Str. 16-24: Neubau eines Wohngebäudes mit Tiefgarage; hier: Baumbestands- und Freiflächengestaltungsplan
+- TOP 5.4.: Camerloherstr. 78: Neubau eines Wohngebäudes (7 WE) mit Tiefgarage
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 12.01.16
+- TOP 7.2.: Sitzung UA Bau vom 12.01.16
+- TOP 7.3.: Ortstermin UA Umwelt und Verkehr vom 12.01.16
+- TOP 7.4.: Ortstermin UA Umwelt und Verkehr vom 18.01.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 13.01.16: Keine Verlegung des Laimer Bauernmarktes an den Willibaldplatz, sondern Priorisierung im "Zentrum" von Laim auf der Fläche der Riegerhof-/Valpichlerstraße (Antrag Nr. 14-20/ A 01707 von Herrn Stadtrat Straßer vom 13.01.16)
+- TOP 8.2.: Schreiben Baureferat vom 30.12.15: Schlechter Fahrbahnbelag in der Guido-Schneble-Straße sowie am Haderner Steg, Ecke Willibaldstraße; Unterführung oder Übergang für Fahrradfahrer im Neubaugebiet Freiham; Sicheres Durchfahren der Bahnunterführung in der Bodenseestraße für Radfahrer; Verwendung nicht entflammbarer Isolierungen bei städtischen Gebäuden (Anfrage Nr. 14-20 / Q 00203 aus der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.15)
+- TOP 8.3.: Schreiben Baureferat vom 13.01.16: Fast-Food-Straßenverkäufe an den Kosten für die Straßenreinigung beteiligen (Anfrage Nr. 14-20 / Q 00212 aus der Bürgerversammlung des Stadtbezirkes 25 Laim am 17.12.15)
+- TOP 8.4.: Schreiben Referat für Gesundheit und Umwelt vom 18.12.15: Lärmbelästigung durch Laubblasegeräte auf dem Anwesen der Paul-Gerhardt-Kirche (Schreiben BA vom 07.12.15)
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 10.12.15: Filmaufnahmen auf öffentlichem Verkehrsgrund; Filmproduktion "Aktenzeichen XY...ungelöst" in der Zeit vom 01.01. bis 31.12.16 auf Straßen innerhalb und außerhalb des Mittleren Rings
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 07.01.16: Schank- und Speisewirtschaft "Cuba Sportsbar one & two", Landsberger Str. 214; Antrag auf Neuerrichtung
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.01.16: Friedberger Str. 11; Vollzug der Baumschutzverordnung, Mitteilung über die Genehmigung der Fällung von 2 Ahornbäumen
+- TOP 8.8.: Bautenliste vom 21.12.-27.12.15 1. Erstantragsverfahren a) Haslangstr. 6 b) Elsenheimerstr. 61
+- TOP 8.9.: Bautenliste vom 04.01.-10.01.16 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 16 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Lanzstr. 25
+- TOP 8.10.: Bautenliste vom 11.01.-17.01.16 1. Erstantragsverfahren a) Perkhoferstr. 10 b) Camerloherstr. 78
+- TOP 8.11.: Schreiben Sozialreferat vom 14.01.16: Vollzug der Satzung über das Verbot der Zweckentfremdung von Wohnraum; Leerstand eines Anwesens in der Rapotostraße (Anfrage Nr. 14-20 / Q 00205 der Bürgerversammlung des 25. Stadtbezirkes Laim vom 24.11.15)
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 11.01.16: Baumaßnahmen der Stadtwerke; Stichtag: 11.01.16
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 18.01.16: Baumaßnahmen der Stadtwerke; Stichtag 18.01.16
+- TOP 8.14.: Beschluss des Bauausschusses vom 12.01.16: Fahrradabstellkonzept (3. Realisierungsabschnitt): a) Ergebnisse der Detailuntersuchungen, b) Kostendarstellung, c) Anträge (Sitzungsvorlage Nr. 14-20 / V 03326)
+- TOP 8.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.16: Unterflur-Containerstandorte in Neubaugebieten mitplanen! (Sitzungsvorlage Nr. 14-20 / V 04859)
+- TOP 8.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.16: Änderung der Münchner Baumschutzverordnung; Empfehlung Nr. 14-20 / E 00411 der Bürgerversammlung des 24. Stadtbezirkes Feldmoching-Hasenbergl am 16.04.15 (Sitzungsvorlage Nr. 14-20 / V 04798)
+- TOP 8.17.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.16: "Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14" (Sitzungsvorlage Nr. 14-20 / V 04733)
+- TOP 8.18.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.16: Wohnungsmarkt München - Expertenbefragung 2015 (Sitzungsvorlage Nr. 14-20 / V 04864)
+- TOP 8.19.: Schreiben Aktion Münchner Fahrgäste vom 27.12.15: Bahnsteigtüren für die U-Bahn
+- TOP 1.2: Bürgerpost an den BA
