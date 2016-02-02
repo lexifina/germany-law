@@ -1,0 +1,8 @@
+# TOP 3: Integriertes Quartiersentwicklungskonzept für die Siedlung Preuswaldhier: Vorstellung des Abschlussberichtes durch stegNRWHierzu wird in der Sitzung mündlich berichtet
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses (2016-02-02)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=73203
+- Ergebnis: ungeändert beschlossen
+- Beschluss (Datei): Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=187621&DOCTYP=138&OTYP=41&ANNOTS=1
