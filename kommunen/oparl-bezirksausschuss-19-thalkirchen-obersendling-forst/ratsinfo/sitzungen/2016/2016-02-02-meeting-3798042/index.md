@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-02-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798042
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798042
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 12.01.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine, Informationen, Antwortschreiben
+- TOP 3: Unterausschuss Budget
+- TOP 0.1.: (E) Katholische Kirchenstiftung St. Matthias: Mitfinanzierung der Festwoche bzw. des Festtages am 18.10.2015
+- TOP 0.2.: (E) Evang.-Luth. Kirchengemeinde München - Andreaskirche: Aufführung der "Schöpfung" von Joseph Haydn am 22.10.2016
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Feuerwerk auf Privatgrund am 11.03.2016
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 0.9.: Verkehrskonzept 19. Stadtbezirk - Aktueller Stand der Ergebnisse
+- TOP 5.1.: (Antrag) Beschilderung Evangelisches Pflegezentrum
+- TOP 5.2.: (Antrag) Anbringung von drei grünen Rechtsabbiegepfeilen
+- TOP 5.3.: (A) Sanierung von Aufpflasterungen in Thalkirchen
+- TOP 5.4.: (Antrag) Optimierung der auf Digitalbetrieb umgestellten Lichtzeichenanlagen
+- TOP 5.5.: (Antrag) Erweiterung des absoluten Haltverbots in der Kistlerhofstr.
+- TOP 5.6.: (Antrag) Wegweisschilder zum BAMF
+- TOP 0.8.: (Antrag) BA 6 - Fahrradstraße Am Isarkanal
+- TOP 5.7.: (Antrag) Schulwegsicherheit Samberger Schule
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Bebauungsplan mit Grünordnung Fürstenried West: Eckdaten- und Aufstellungsbeschluss
+- TOP 6.3.: (Antrag) Sondernutzung Wolfratshauser Str./Tillmannweg
+- TOP 6.4.: (U) Zweckentfremdung: Argelsrieder Str.
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 0.4.: (Anfrage) Ermittlung des Bedarfs von WC-Anlagen nach dem Modell "Nette Toilette" im Stadtgebiet; Sitzungsvorlage Nr. 14-20 / V 03539
+- TOP 7.1.: (A) Standortverlagerung Sozialbürgerhaus/Jugendcafé
+- TOP 7.2.: (A) Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 0.3.: (A) DTKC - Münchner Kanu Triathlon am 01.05.2016
+- TOP 8.1.: (Antrag) Öffentlicher Bücherschrank im Stadtgebiet des BA 19
+- TOP 8.2.: (A) Ansichtskarten-Sammlerbörse am 14.02.2016
+- TOP 0: Bericht (6)
+- TOP 9: Verschiedenes
+- TOP 0.10.: Zusätzliche Fahrradstellplätze U-Bahn-Haltestelle Obersendling - <div></div>
+- TOP 0.3.: Unterrichtsräume für das Gymnasium Fürstenried - <div></div>
