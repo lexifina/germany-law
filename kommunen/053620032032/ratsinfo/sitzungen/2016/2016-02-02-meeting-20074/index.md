@@ -1,0 +1,56 @@
+# Ausschuss für Stadtplanung und Verkehr (11. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-02-02T17:00:00+01:00
+- Ende: 2016-02-02T19:50:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYF58nrtTdcqrSmuhqq47Uk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20074
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZTnxKtrXIqfwgeiFrchzrVApGl2TKcucCXX4P5njeQLi/Bekanntmachung_Ausschuss_fuer_Stadtplanung_und_Verkehr_02.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZV__n84BfUlM5nW9hQAVq92vXN2O8VoC_TBH9c0yxb_l/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_02.02.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung einer Schriftführerin und deren Stellvertretung für die Erstellung der Niederschriften über die Ausschussbeschlüsse
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Einwohner/innen - Fragestunde
+- TOP 4.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 5.: Umsiedlung Manheim
+- TOP 5.1: Umsiedlung Manheim hier: Niederschrift der 21. Sitzung des Bürgerbeirates Manheim
+- TOP 5.2: Bericht der Verwaltung
+- TOP 6.: Stadtentwicklung
+- TOP 6.1: Masterplan hier: Sachstandsbericht
+- TOP 6.2: Lärmbelästigung im Stadtteil Sindorf - fehlender Schallschutz
+- TOP 6.3: Deponiegesellschaft HO Dr. Müller GmbH; Quarzkiestagebau Werk II RW Horrem hier: Abschlussbetriebsplan, zugelassen mit Bescheid vom 17.11.2011 - Geänderter Abschlussbetriebsplan für die Teilfläche Ia vom 14.12.2015
+- TOP 6.4: Stellungnahme der Kolpingstadt Kerpen zum geänderten Entwurf des Landesentwicklungsplan NRW
+- TOP 6.5: Umbenennung des Jamaikaplatzes in Marga und Walter Boll-Platz
+- TOP 6.6: Sozialer Wohnungsbau
+- TOP 7.: Bauleitplanung
+- TOP 7.1: Bebauungsplan BU Nr. 4, 4/1. Änderung und 4/3. Änderung "Broichstraße", Stadtteil Buir hier: Aufhebungsbeschluss gem. § 2 (1) BauGB und § 1 (8) BauGB
+- TOP 7.2: 72. Änderung des Flächennutzungsplanes "Erfttalstraße ( L122)/Erftstraße", Stadtteil Sindorf Hier: Wirksamkeitsbeschluss
+- TOP 7.3: 74. Änderung des Flächennutzungsplanes "Vorrangflächen für Windenergie-Anlagen" hier: Aufstellungsbeschluss
+- TOP 7.4: Abschluss einer Planungsvereinbarung für die Durchführung der 74. Änderung des Flächennutzungsplanes der Kolpingstadt Kerpen
+- TOP 8.: Bergbaulich bedingtes Erdbeben der Stärke 2,7 am 22.12.2015 in Bergheim hier: Transparenzoffensive
+- TOP 9.: Verkehrsplanung
+- TOP 9.1: Niederschrift der 3. Sitzung des Arbeitskreises ÖPNV vom 19.01.2016
+- TOP 9.2: Fehlende Beschilderung Autobahn-Anschlussstelle Elsdorf/Geilrath, Kerpen
+- TOP 9.3: Einbeziehung der Öffentlichkeit bei der Fortschreibung des Radverkehrskonzeptes (Bürgerbeteiligung)
+- TOP 9.4: Wartehäuschen Haltestelle Götzenkirchen Richtung Horremer Bahnhof
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 11.1: Weiteres Vorgehen in Sachen Autohof
+- TOP 11.2: Baulandentwicklung in Buir
+- TOP 11.3: Neue Hochspannungsleitung zwischen Bergerhausen und Mönchskaul
+- TOP 11.4: Lärmaktionsplanung und LKW-Durchfahrverbot hier: Erftstraße im Stadtteil Sindorf und Hauptstraße im Stadtteil Horrem
+- TOP 11.5: Fahrradabstellanlage am S-Bahnhof im Stadtteil Buir
+- TOP 11.6: Radwegquerung Kölner Straße/Erfttalradweg im Stadtteil Kerpen
+- TOP 11.7: Bautechnische Nachbesserung Kreisverkehr Heppendorfer Straße/Am Keuschenend im Stadtteil Sindorf
+- TOP 11.8: Unterbringung von Geflüchteten an der Erftstraße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 12.: Abschluss einer Planungsvereinbarung für die Durchführung der 74. Änderung des Flächennutzungsplanes der Kolpingstadt Kerpen
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
