@@ -1,0 +1,51 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-02-03T17:00:00+01:00
+- Ende: 2016-02-03T18:07:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11450
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11450
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258497.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258497.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258497.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 5: Änderung des Rahmenplans Einzelhandel 2007 im Zusammenhang mit der 51. Änderung des Flächennutzungsp - zur Kenntnis genommen
+- TOP 6: Rahmenplan Genehmigung Dringlichkeitsentscheidung - zur Kenntnis genommen
+- TOP 7: FNP-Änderung Nr. 51 - Nördlich Westfalenstraße - (Ergänzendes Verfahren gem. § 214 BauGB) - zur Kenntnis genommen
+- TOP 8: FN-Plan - Genehmigung Dringleichkeitsentscheidung - zur Kenntnis genommen
+- TOP 9: Plan Nr. 06/015-VogelsangerWeg/Münsterstr-VÄ - zur Kenntnis genommen
+- TOP 10: Plan Nr. 06/014 - Vogelsanger Weg / Münsterstraße - Änderung des Aufstellungsbeschlusses - zur Kenntnis genommen
+- TOP 11: Anfrage CDU: Mühlenbroich/Oberhausener Straße
+- TOP 12: Anfrage CDU: Gasleitung Aaper Wald
+- TOP 13: Anfrage Daxenberger: Verkauf von Holz Aaper Wald
+- TOP 14: Anfrage BÜ90/GRÜNE: Lebendiger Weihnachtsbaum - zur Kenntnis genommen
+- TOP 15: Anfrage BÜ90/GRÜNE u.a.: Öffnungszeiten Jfe - zur Kenntnis genommen
+- TOP 16: Anfrage CDU: Sachstand 1.000 Bänke - zur Kenntnis genommen
+- TOP 17: Anfrage BÜ90/GRÜNE, CDU und FDP: Lärmschutz an der A52
+- TOP 18: Antrag SPD: Verkehrsinsel An der Piwipp - zur Kenntnis genommen
+- TOP 19: Antrag SPD: Annahme Grünschnitt Rath - zur Kenntnis genommen
+- TOP 20: Antrag Daxenberger: Anschaffung Spruchband - zur Kenntnis genommen
+- TOP 21: Interfraktioneller Antrag: Sonderprogramm NRW - zur Kenntnis genommen
+- TOP 22: Trödelmärkte Schützenplatz Rather Broich - zur Kenntnis genommen
+- TOP 23: Zuschussvergabe und Förderung Dritter 2016 - zur Kenntnis genommen
+- TOP 24: MdV - Stopp-Schild Hiddensee-Unterrather Straße - zur Kenntnis genommen
+- TOP 25: MdV - Immissionswerte Bereich Hülsmeyerplatz - zur Kenntnis genommen
+- TOP 26: MdV - Schranke Kalkumer Straße - zur Kenntnis genommen
+- TOP 27: Aufstellung von Geschwindigkeitsanzeigetafeln - zur Kenntnis genommen
+- TOP 28: Maßnahmen Reduktion von Lärm Bochumer Straße - zur Kenntnis genommen
+- TOP 29: Unterhaltung Grundstücke und bauliche Anlagen - zur Kenntnis genommen
+- TOP 30: MdV - Umbau der Haltestelle Elsässer Straße - zur Kenntnis genommen
+- TOP 31: MdV - Ergebnis der Beratungen Haushaltsplan 2016 - zur Kenntnis genommen
+- TOP 32: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 33: MdV - Sichtschutz Tankstellengrundstück Kalkumer Straße - zur Kenntnis genommen
+- TOP 34: MdV - Bodenbelastung Kalkumer Straße - zur Kenntnis genommen
