@@ -1,0 +1,9 @@
+# Amtsblatt der Stadt Köln 2016 Nr. 4 vom 03.02.2016
+
+- Herausgeber: Stadt Köln
+- Ausgabe: 2016-02-03 (erstes Datum auf Seite 1)
+- Nummer: 4
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/pdf13/amtsblatt/amtsblatt_04_20160203.pdf
+- Text: OCR (Tesseract, deu) des Scans der herausgebenden Behörde; nicht Korrektur gelesen
+
+- Text: nicht übernommen - die Ausgabe nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
