@@ -1,0 +1,6 @@
+# TOP 2: Bestätigung der Tagesordnung für die Sitzung sowie der Niederschrift der Sitzung vom 19.01.2016
+
+- Sitzung: 18. Sitzung des Ortschaftsrates Cossebaude (2016-02-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/75575
