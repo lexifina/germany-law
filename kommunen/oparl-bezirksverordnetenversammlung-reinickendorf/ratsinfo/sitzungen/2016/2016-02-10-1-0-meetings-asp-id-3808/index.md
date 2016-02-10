@@ -1,0 +1,74 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-02-10T17:00:00+01:00
+- Ende: 2016-02-10T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3808
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3808
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=87617
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Wahl eines Bezirksstadtrates / einer Bezirksstadträtin - vertagt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: Einwohneranfragen für die 49. Sitzung der BVV am 10.02.2016 - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 49. Sitzung der BVV am 10.02.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Mündliche Anfragen für die 49. Sitzung der BVV am 10.02.2016 - beantwortet
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Wartehäuschen an der Einstiegshaltestelle Alt-Lübars! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Regelmäßiger Bericht über den Bau von Fußgängerüberwegen und Querungshilfen! (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.3: Fahrradparkhaus in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Buslinie 133 neuer Halt auf Areal am Borsigturm (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.5: ÖPNV attraktiver machen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.6: Verkehrssituation an der Feuerwache Wittenau verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: QR-Code für Informations- und Gedenktafeln verwenden - überwiesen
+- TOP 8.8: SIWA-Möglichkeiten für Reinickendorf - überwiesen
+- TOP 8.9: Mehr Mittel für Deutschkurse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.10: Beschulung und Ausbildung junger Flüchtlinge - überwiesen
+- TOP 8.11: Grobscreening für potentielle Milieuschutzgebiete - überwiesen
+- TOP 8.12: Information über IGA 2017 am Außenstandort Frohnau einrichten und für Spenden werben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.13: Schulwegsicherung in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.14: Verkehrskonzept Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Entwicklung des Lauterbach-Standortes zum "Leuchtturm-Projekt" für Inklusion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.16: Zusätzliche Fahrradständer in Reinickendorf-Ost (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.17: Unerlaubtes Parken verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.18: Abschiebung aus Willkommensklassen unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.19: Lehrer für Willkommensklassen frühzeitig einstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.20: betreffend der Aufstellung des Bebauungsplans 12-57 für die Grundstücke Berliner Straße 35, 36-37, Am Borsigturm 142, 160, 162, 168, 170, 172, Gemarkung Tegel Gemeinde, Flur 2, Flurstücke, 858, 866, 964, 965, 966, 967, 968, 969, im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 8.21: betreffend der Einstellung der Bebauungsplanentwürfe XX-B 23 für den Ortsteil Konradshöhe/Tegelort, XX-B 24 für den Ortsteil Heiligensee, XX-B 26 für den Ortsteil Hermsdorf, XX-B 27 für den Ortsteil Waidmannslust und XX-B 28 für den Ortsteil Lübars - überwiesen
+- TOP 8.22: Beschluss über den Bebauungsplanentwurf XX-256a vom 10. Oktober 2012 mit Deckblatt vom 07. Oktober 2015 für das Gelände zwischen dem Grundstück Schloßstraße 5/Königsweg 9, dem Königsweg, der Bernstorffstraße und der Berliner Straße im Bezirk Reinickendorf, Ortsteil Tegel. - überwiesen
+- TOP 8.23: Jahresbericht der Patientenfürsprecherin aus dem Krankenhaus Medical Park Berlin Humboldtmühle für den Zeitraum 01.01.2015 bis 31.12.2015 - überwiesen
+- TOP 8.24: Einstellung des Bebauungsplanentwurfs XX-255 für die Grundstücke Holländerstraße 131-132, Residenzstraße 53-61 und Markstraße 41-45 im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Sanierungsmaßnahmen in Reinickendorf - beantwortet
+- TOP 9.2: Unterbringung von Asylbewerbern / Asylbewerberinnen in Reinickendorf - beantwortet
+- TOP 9.3: Unterbringung für Geflüchtete in Reinickendorf - beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Haltestelle Antonienstr. - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Deutsches Palliativsiegel - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Erhaltung des Gaslichts in Reinickendorf" - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Untersuchung zur Entwicklung der bezirklichen sozialen Infrastruktur durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Montessori-Schule Heiligensee unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Service-APP - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Fahrradunterstand am P+R-Platz - S-Bhf. Hermsdorf instand setzen - überwiesen
+- TOP 13.3: Bessere Ausleuchtung am Laiv-Jugendcafé - ohne Änderungen in der BVV beschlossen
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Radständer am S-Bahnhof Hermsdorf instand setzen - überwiesen
+- TOP 14.2: Dauerbeleuchtung auf Flurbalkonen prüfen - überwiesen
+- TOP 14.3: Stellwerk am S-Bahnhof Tegel sichern - überwiesen
+- TOP 14.4: Anzeige von Anschlussverbindungen - überwiesen
+- TOP 14.5: Erweiterung BVG-Wartebereich Alt-Tegel - überwiesen
+- TOP 14.6: Tempo 30 / Teilbereich Heiligenseestraße - überwiesen
