@@ -1,0 +1,56 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-02-11T17:00:00+01:00
+- Ende: 2016-02-11T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdU5k9L4UPbR5tfIUavU0M0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4560
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUShaSCx-_vq9tqcbpLwdUKqwvdulJM0eInZjMN0zsZ1/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_11.02.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Gesamtgutachten Ittertal
+- TOP 4: Fortgang Baumaßnahmen Hochwasserschutz Eschbach
+- TOP 5: VCD-Anmeldung zum ÖPNV-Bedarfsplan des Landes NRW
+- TOP 6: Austauschprogramm Lichtsignalanlagen
+- TOP 7: Standorte für Wohnbauten in Holztafelbauweise zur Unterbringung von Flüchtlingen (Ergänzung)
+- TOP 8: Unterbringung von Flüchtlingen in Solingen
+- TOP 9: Bauleitplanung Löhdorfer Straße/ Montanushof
+- TOP 10: Bauleitplanung Spielbruch
+- TOP 11: Bauleitplanung Katternberger Straße/ Grundstraße
+- TOP 12: Bauleitplanung Höher Straße/ Locher Kotten
+- TOP 13: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 14: Etatberatungen für das Haushaltsjahr 2016 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2019 und des Haushaltssanierungsplanes 2016 ff.
+- TOP 15: Verschiedenes
+- TOP 16: Zaun Frankfurter Damm
+- TOP 17: Ampelanlage am Seniorenzentrum Friedrichstraße
+- TOP 18: Grünanlage am Kyllmannweg/Parkplätze des Schützenheimes
+- TOP 19: Rats-App
+- TOP 20: Standorte für Wohnbauten in Holztafelbauweise zur Unterbringung von Flüchtlingen
+- TOP 21: Stadtteilentwicklung Burg
+- TOP 22: Sachstand zum Umbau der Konrad-Adenauer-Straße – 2. Bauabschnitt
+- TOP 23: Soziale Stadt Nordstadt: Theaterumfeld und Atrium
+- TOP 24: Mögliche Maßnahmen zur Senkung von Ausbaustandards im Hochbau
+- TOP 25: Baumaßnahme Polnische Mütze und AS Haan-Ost (A46) in Haan
+- TOP 26: Stellungnahme der Stadt Solingen zur ersten Änderung des Bebauungsplans „W-12 Nahversorgung Wiescheid“ der Stadt Langenfeld
+- TOP 27: Sonderprogramm des Landes Nordrhein-Westfalen - „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen“
+- TOP 28: Soziale Wohnraumförderung
+- TOP 29: Teilnahme der Stadt Solingen an der Klimaschutzaktion Earth Hour 2016
+- TOP 30: ÖPNV-Fahrgastbeirat
+- TOP 31: DOC Remscheid, erneute Offenlage des Planentwurfes zum Bebauungsplan Nr. 657 der Stadt Remscheid
+- TOP 32: Erarbeitung eines Kommunalen Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 33: Baumaßnahmen der DB AG in den Fahrplanjahren 2016/2017
+- TOP 34: Erhaltungsmaßnahme A 542
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 4: Verschiedenes
+- TOP 5: Vergabe von Wohnbauten in Holztafelbauweise zur Unterbringung von Flüchtlingen
