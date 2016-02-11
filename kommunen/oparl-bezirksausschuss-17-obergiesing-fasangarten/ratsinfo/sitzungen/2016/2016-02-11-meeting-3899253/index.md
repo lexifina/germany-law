@@ -1,0 +1,120 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3899253
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3899253
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der September-Sitzung 1.3.2 Protokoll der Oktober-Sitzung 1.3.3 Protokoll der Januar-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Grünspitz (FF UA Umwelt)
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Cincinnatistraße 62, 1 Stiel-Eiche
+- TOP 3.9.1.2.: Marklandstraße 36, 1 Ahorn
+- TOP 3.9.1.3.: Weinbauernstraße 9, 1 Rosskastanie
+- TOP 3.9.1.4.: Martin-Luther-Straße 4, 1 Robinie
+- TOP 3.9.1.5.: Cincinnatistraße 1- 29, 8 Fichten
+- TOP 3.9.1.6.: Minnewitstraße 1-23, 18 Fichten
+- TOP 3.9.1.7.: Cincinnatistraße 31, 1 Rotfichte
+- TOP 3.9.1.8.: Cincinnatistraße 44 / Pennstraße 1, 18 Fichten
+- TOP 3.9.1.9.: Marklandstraße 23, 1 Vogel-Süßkirsche
+- TOP 3.9.1.10.: Cincinnatistraße 31-55, 1 Rot-Fichte, 1 Stiel-Eiche
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Fußweg zwischen Wallbergstraße und Chiemgaustraße für Radverkehr öffnen (FF UA Verkehr) - <div>nach Antrag</div>
+- TOP 4.2.: Radübergang am Giesinger Berg für Fußgänger öffnen und verbreitern (FF UA Verkehr) - <div>nach Antrag / mit Ergänzung</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Eltern-Kind-Initiative Mäcki Löffel e.V., für die Maßnahme: Theaterpädagogisches Projekt ab Mitte März 2016 - Juli 2016; Antragssumme: 712,50 ?; Antrag vom 11.01.2016 (FF UA Soziales)
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Chiemgaustraße 66 - 104, Aufstockung und Lärmschutzbebauung mit 116 neuen Wohnungen + Kita - VORBESCHEID; Anhörung vom 22.12.15 (vertagt aus der Januar-Sitzung) 6.1.3.1.2 Lincolnstraße, Neubau Kindertagesstätte mit 3 Kindergartengruppen im EG und 30 Bedienstetenwohnungen im OG; Anhörung vom 28.12.15 (vertagt aus der Januar-Sitzung) 6.1.3.1.3 Kiefernstraße 21-22a, Neubau zweier Appartementhäuser mit TG; Anhörung vom 14.01.15 6.1.3.1.4 Schwanseestraße 89, Nutzungsänderung: Laden- u. Büroeinheit zu Großtagespflege für 10 Kinder; Anhörung vom 20.01.16 6.1.3.1.5. Schlierseestraße 83, Teilung einer Gaststätte (EG) in 2 separate Gaststätten, Anhörung vom 21.01.2016
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Wohnungsmarkt München - Expertenbefragung 2015; Sitzungsvorlagen Nr. 14-20 / V 04864; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016
+- TOP 0.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.3.1 Anwesen Tegernseer Landstraße; Mitteilung vom 23.12.2015
+- TOP 0.4.: Bodelschwinghstraße 2, Fl.Nr. 16154/1, Gemarkung Sektion VIII, Errichtung eines Einfamilienhauses - VORBESCHEID; Stellungnahme des BA 17 aus der November-Sitzung; Schreiben der Lokalbaukommission vom 28.12.2015
+- TOP 0.5.: Schlierseestr. 20 - 22 Schulbauoffensive - Erweiterung des Assam-Gymnasiums zu einem 7-zügigen Gymnasium mit Qualifikationsstufe, Aula, Mensa, 3-Fach-Sporthalle und Tiefgarage (48 Stpl.) - VORBESCHEID - Antwortschreiben des Referates für Bildung und Sport vom 25.01.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Aktiv im Alter, Seniorenstadtplan für Obergiesing, Untergiesing und Harlaching ? aktualisierte Neuauflage; BA-Antrag Nr. 14-20 / B 01741 vom 13.10.2015; Antwortschreiben des RGU vom 14.12.2015
+- TOP 0.2.: Erweiterung des Asam-Gymnasiums, Genehmigung der Bedarfsanmeldung durch verwaltungsinterne Abstimmung; Zuleitung des RBS
+- TOP 0.3.: Förderung/Bezuschussung Projekt "Komm wir finden eine Lösung..." des Kinderschutzbundes, Grundschule an der Lincolnstraße 62; Sachbericht
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für einen mobilen Fahrradständer - Tegernseer Landstraße 123; Beschluss des Bezirksausschusses 17 Obergiesing vom 11.02.2016
+- TOP 0.1.: Sofortmaßnahmen zur Reduzierung der Abgas- und Lärmbelastungen für die Bevölkerung am Mittleren Ring im Stadtbezirk 17; BA-Antrag Nr. 14-20 / B 01059 vom 14.04.15; Beschluss des Umweltausschusses am 12.04.2016; Zuleitung des RGU mit der Bitte um Stellungnahme zum Beschlussentwurf bis 26.02.2015
+- TOP 0.1.: Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg a) Realisierung eienr Fuß- und Radwegbrücke am Giesinger Berg; BV-Empfehlung Nr. 14-20 / E 00036 der BÜV des 17. Stadtbezirks vom 05.06.2014 b) Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg; BV-Empfehlung Nr. 14-20 / E 00508 der BÜV des 17. Stadtbezirkes vom 18.06.2015; Sitzungsvorlage Nr. 14-20 / V 04394; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 20.01.2016 (SB)
+- TOP 0.2.: Anträge zur verkehrlichen Neuordnung der Tegernseer Landstraße Umsetzung Variante 1 (Planfall D); BA-Antrag Nr. 08-14 / B 05585 vom 28.01.14 Anzahl der Kurzzeit-Parkplätze erhalten; BA-Antrag Nr. 08-14 / b 05590 vom 28.01.14 Belieferung der Geschäfte ohne Blockierung des Verkehrs; BA-Antrag Nr. 08-14 / B 05591 vom 28.01.14 Mehr Farradabstellmöglichkeiten; BA-Antrag Nr. 08-14 / B 05592 vom 28.01.14 Bessere Querungsmöglichkeiten der Tegernseer Landstraße; BA-Antrag Nr. 08-14 / B 05594 vom 28.01.14; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 23.12.2015
+- TOP 0.3.: Weißenseestraße Ecke Werner-Schlierf-Straße - Beleuchtungssituation; Schreiben des BA 17 vom 03.12.2015; Antwortschreiben des Baureferats-Tiefbau vom 12.01.2016
+- TOP 0.4.: Spixstraße - Gehsteig Ost und Werner-Schlierf-Straße - Gehsteig Nord, Perlacher Straße / Spixstraße - Gehsteig Süd - Verbesserung der Verkehrssicherheit; Bürgeranliegen aus der Dezember-Sitzung; BA-Antrag Nr. 14-20 / B 01869; Antwortschreiben des Baureferats-Tiefbau vom 21.12.2015
+- TOP 0.5.: Errichtung von Radverkehrsanlagen zur Erschließung der Schule an der Ichostraße (Ziffer 2 des Antrags); Empfehlung Nr. 08-14 / E 00641 der BÜV vom 01.07.2010; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 23.12.2015
+- TOP 0.6.: Wartehalle für die Bushaltestelle Landrichterstraße. Linie 145 Richtung Ostbahnhof; Zwischennachricht der Stadtwerke München GmbH, Unternehmensbereich Verkehr vom 19.01.2016
+- TOP 0.7.: Brücke zwischen Lincolnstraße und Lauensteinstraße; Bürgeranliegen aus der November-Sitzung des BA 17; Antwortschreiben des Baureferats-Ingenieurbau
+- TOP 0.8.: Wieskirch-/Weißenseestraße; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.9.: Gestaltung Giesinger Bahnhofplatz; BA-Antrag Nr. 14-20 / B 01387 vom 14.07.2015; Antwortschreiben der Stadtwerke München GmbH vom 13.01.2016 zu 6.3.4.6 Antwortschreiben des Baureferats-Tiefbau vom 23.11.2015 - Punkt 1 Ergänzung der Baumreihe und Fahrradständer - vertagt aus der Januar-Sitzung
+- TOP 0.10.: Übersichtlichkeit des Zufahrtsbereiches ALDI/Schwanseestraße; Bürgeranliegen aus der Sitzung des BA 17 vom 08.12.2015 (zu TOP 6.3.1.1.) Antwortschreiben des Kreisverwaltungsreferates vom 21.01.2016
+- TOP 0.11.: Handlungsprogramm Mittlerer Ring - fachliche Bewertung, Priorisierungsvorschlag und weiterer Untersuchungsbedarf der drei optionalen Tunnelbaumaßnahmen; Sitzungsvorlagen Nr. 14-20/V 03651; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 (VB) Neufassung vom 12.11.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straße und in öffentlichen Grünflächen sowie in Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken gem. § 13 und § 14 BA-Satzung; Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen und Unterrichtung über sonstige Eingriffe in den Gehölzbestand; Mitteilung des Baureferats-Gartenbau (vertagt aus der Januar-Sitzung)
+- TOP 0.2.: Änderung der Münchner Baumschutzverordnung; Empfehlung Nr. 14-20 / E 00411 der BÜV des Stadtbezirkes 24 vom 16.04.2015; Sitzungsvorlagen Nr. 14-20 / V 04798; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 20.01.2016 (SB)
+- TOP 0.3.: Unterflur-Containerstandorte in Neubaugebieten planen! Stadtratsantrag Nr. 14-20 / A 01394 vom 24.09.2015; Sitzungsvorlagen Nr. 14-20 / V 04859; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 20.01.2016 (SB)
+- TOP 0.4.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.4.1 Schloß-Berg-Straße 5-7, 1 Coloradotanne; Bescheid vom 18.01.2016 6.4.4.4.2 Cincinnatistraße 31-55, 1 Fichte; Bescheid vom 19.01.2016 6.4.4.4.3 Cincinnatistraße 1-29, 8 Fichten; Bescheid vom 19.01.2016 6.4.4.4.4 Minnewitstraße 1-23, 18 Fichten; Bescheid vom 19.01.2016 6.4.4.4.5 Cincinnatistraße 44-60, 20 Fichten; Bescheid vom 20.01.2016
+- TOP 0.5.: Bachräumungstermine 2016 für die Stadt- bzw. Stadtrandbäche
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Straßenbenennung im 17. Stadtbezirk Obergiesing-Fasangarten; Ella-Lingens-Platz; Beschlussvorlage für die Sitzung des Kommunalausschusses vom 14.04.2016 (SB); Zuleitung des Kommunalreferats mit der Bitte um Stellungnahme
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: 1. Sommertreff mit Spielmobil Mütter für Mütter e.V. - Mütterladen Giesing vom 29.04.16 bis 30.09.16 wochentags und 2. Flohmarkt Mütter für Mütter e.V. - Mütterladen Giesing am Walchenseeplatz am 05.05.16 und 24.07.16
+- TOP 0.1.: Giesinger Mittelpunktsbibliothek - Öffnung voraussichtlich erst im Frühjahr 2016, Übergangslösung für den 17. Stadtbezirk anbieten; BA-Antrag Nr. 14-20 / B 01814 vom 10.11.2014; Antwortschreiben der Münchner Stadtbibliothek - Geschäftsleitung vom 12.01.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: 6.6.4.1 Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Hohenschwangauer Hof", Hohenschwangaustraße 17; Mitteilung vom 07.01.2016
+- TOP 0.2.: Erwerbstätigenprognose für die LHM und die Landkreise der Planungsregion 14; Sitzungsvorlagen Nr. 14-20 / V 04733; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 20.01.2016
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Anhörungsrecht der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017; Schreiben des KVR vom 19.01.2016 mit der Bitte um Stellungnahme bis 29.02.2016
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
