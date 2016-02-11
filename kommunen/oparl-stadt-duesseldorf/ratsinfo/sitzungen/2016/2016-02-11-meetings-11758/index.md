@@ -1,0 +1,79 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-02-11T14:00:00+01:00
+- Ende: 2016-02-11T20:44:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11758
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11758
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258551.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258551.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00258551.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung des Ehrenringes des Rates - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell Tierschutzpartei-Freie Wähler: Elektromobilität in Düsseldorf - Zwischen Hoffnung u - beantwortet
+- TOP 4.2: Anfrage aktuell: Unkorrekte Quotierung bei Flüchtlingsunterbringung durch das Land NRW - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Die Linke: Handlungskonzept Zukunft Wohnen - beantwortet
+- TOP 5.2: Anfrage Die Linke: Nachtabschiebungen - beantwortet
+- TOP 5.3: Anfrage des Ratsherrn Maniera: Übergriffe während der Silvesterfeierlichkeiten - zur Kenntnis genommen
+- TOP 5.4: Anfrage TP-Freie Wähler: Abstimmungsgespräche über Planung, Bau und Betrieb des RRX und der RRX-Tras - beantwortet
+- TOP 5.4.1: Anfrage CDU: Le Grand Départ - schriftlich beantwortet
+- TOP 5.5: Anfrage Tierschutzpartei-Freie Wähler: Angespannte finanzielle Situation der Landeshauptstadt Düssel - schriftlich beantwortet
+- TOP 5.6: Anfrage Rf Kraft-Dlangamandla: Städtekoalition gegen Rassismus - schriftlich beantwortet
+- TOP 5.7: Anfrage Bü90-Grü: Internet International - schriftlich beantwortet
+- TOP 5.8: Anfrage Rh Maniera: Unterbringungssituation in städtischen Einrichtungen - schriftlich beantwortet
+- TOP 5.9: Anfrage des Ratsherrn Pfundner: Zur Haushaltslage der Stad - schriftlich beantwortet
+- TOP 5.10: Anfrage Bü90-Grü: : Veranstaltung der AfD im Congress Center Düsseldorf - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission RRX - zur Kenntnis genommen
+- TOP 8: Ausführung und Finanzierung des Projektes - mehrheitlich beschlossen
+- TOP 9: Kronprinzenstraße 107, Gemeinschaftsgrundschule Kronprinzenstraße - einstimmig beschlossen
+- TOP 9.1: Ergänzunsantrag der CDU-Ratsfraktion:Kronpinzenstraße 107, Gemeinschaftsgrundschule Kronpinzenstraße - mehrheitlich abgelehnt
+- TOP 10: Cimbernstraße 24, Friedrich-von-Bodelschwingh-Schule – Erhöhung der Zügigkeit von 2 auf 3 Züge - Aus - einstimmig beschlossen
+- TOP 10.1: Ergänzungsantrag der CDU-Ratsfraktion: - mehrheitlich abgelehnt
+- TOP 11: Kaiserswerther Straße 390, Verwaltungsgebäude des Garten-, Friedhofs- und Forstamtes – Sanierung - A - einstimmig beschlossen
+- TOP 12: Cecilienallee, RÜB Rheinpark - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 13: Umsetzung Bäderkonzept 2020: Neubau/Sanierung Allwetterbad - mehrheitlich beschlossen
+- TOP 14: Public Corporate Governance Kodex für die Beteiligungen der Landeshauptstadt Düsseldorf
+- TOP 15: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 16: Freier Eintritt in städtische Museen für Jugendliche bis 21 Jahre
+- TOP 17: Einsatz von GebärdendolmetscherInnen - zur Kenntnis genommen
+- TOP 18: Vorschlag zur Besetzung des Verwaltungsausschusses der Agentur für Arbeit Düsseldorf - einstimmig beschlossen
+- TOP 19: Bestellung eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 20: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 21: Verlängerung Böhlerstraße - Abschluss einer Verwaltungsvereinbarung
+- TOP 22: "Neuaufstellung des Landesentwicklungsplans (LEP NRW) - 2. Beteiligungsverfahren
+- TOP 23: BPL Nr.04/006 - Südlich Greifweg II - Stellungnahmen; Änderungen; Satzung - mehrheitlich beschlossen
+- TOP 24: Einkünfte aus Nebentätigkeiten im Jahr 2015 für Herrn Oberbürgermeister Thomas Geisel - zur Kenntnis genommen
+- TOP 25: Antrag des Beirats für Menschen mit Behinderung: - einstimmig beschlossen
+- TOP 26: Anträge
+- TOP 26.1: Antrag von, SPD, BÜ90-GRÜ und FDP:Neue Bleiberechtsregelung: sicherer Aufenthalt - mehrheitlich beschlossen
+- TOP 26.2: Antrag der Ratsfraktionen von BÜ90/GRÜ, SPD und FDP: Schwimmbad im Rhein – Anker für neues urbanes L - zur Kenntnis genommen
+- TOP 26.3: Antrag CDU: Finanzielle Unterstützung der Kommunen bei der Versorgung und Unterbringung von Flüchtli - zurückgezogen
+- TOP 26.4: Antrag der CDU-Ratsfraktion: Städtebaulicher Wettbewerb für die Schadowstraße - mehrheitlich abgelehnt
+- TOP 26.4.1: EA Die Linke: Offener und anonymer städtebaulicher Wettbewerb für die Schadowstraße - zur Kenntnis genommen
+- TOP 26.5: Antrag Die Linke: Keine städtischen Mittel für die Tour de France - zurückgezogen
+- TOP 26.6: Antrag von SPD, BÜ90/GRÜ und FDP: Saubere Luft für Düsseldorf: Reduzierung von NOx- -Emissionen vora - einstimmig beschlossen
+- TOP 26.7: Antrag der CDU-Ratsfraktion: Vorausschauendes Personalkonzept auf den Weg bringen - zurückgezogen
+- TOP 26.8: Antrag Tierschutz-Freie Wähler: Erlangung der finanziellen Mindestausstattung
+- TOP 26.9: Antrag DIE LINKE: Einberufung Runder Tisch Waldschänke
+- TOP 26.10: Antrag CDU: Aufsichtsrat für die städtische Holding einrichten - zurückgezogen
+- TOP 26.11: Antrag Die Linke: Verbleib des Kinderbauernhofs/Gutshofs Niederheid in städtischer Hand
+- TOP 26.12: Antrag Die Linke: Einstellung aller Kontakte zum türkischen Konsulat
+- TOP 26.13: Antrag Die Linke: Keine Vermittlung von Jugendlichen an die Bundeswehr
+- TOP 26.14: Antrag Die Linke: Schuldenuhr abbauen
+- TOP 26.15: Antrag Die Linke: AfD keine Plattform geben
+- TOP 26.16: Antrag SPD,Bü90-Grü, FDP und DIE LINKE: Verabschiedung einer Resolution gegen sexualisierte Gewalt
+- TOP 26.17: Antrag der Ratsfraktionen von BÜ90/GRÜ, SPD und FDP: Zukunft für Gut Niederheid
+- TOP 26.18: Antrag der CDU-Ratsfraktion: Düsseldorf-Airport DUS
+- TOP 27: Holding der Landeshauptstadt Düsseldorf GmbH; Einrichtung eines Aufsichtsrates
+- TOP 28: Abbruch von zwei Werkshallen auf ehemaligem Glashüttengelände
