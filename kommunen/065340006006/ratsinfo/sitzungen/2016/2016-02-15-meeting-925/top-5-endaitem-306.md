@@ -1,0 +1,7 @@
+# TOP 5: Willkommenskultur und Unterbringung der hilfesuchenden Menschen in Cölbe; hier: Konzept und Gründung einer Gemeindeentwicklungsgesellschaft
+
+- Sitzung: Ausschuss für Soziales und Integration, Sport und Kultur (2016-02-15)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/306
+- Beratung: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/consultation/212
