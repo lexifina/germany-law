@@ -1,0 +1,105 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-02-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800011
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800011
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Aufführungsort für nächstes Theaterprojekt gesucht
+- TOP 1.2.: Vandalismus auf dem kleinen Sportplatz hinter der Grundschule an der Großhaderner Straße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: Bericht des Behindertenbeauftragten
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Freunde und Förderer der Hauptschule an der Guardinistraße e.V., Oper "Entführung aus dem Serail" am 22.04.2016 (Direktorium, 13.01.16)
+- TOP 2: Kreuzung Würmtal-/Fürstenrieder Straße: eigene Signalisierung für Radfahrer (Antrag 2) (Kreisverwaltungsreferat, 19.01.16) Empfehlung Nr. 14-20 / E 00647 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 3: Änderung der Schaltzeiten der Ampelanlage an der Kreuzung Würmtal-/Kornwegerstraße (Kreisverwaltungsreferat, 19.01.16) Empfehlung Nr. 14-20 / E 00648 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 4: Bessere Kennzeichnung des Rad- und Fußgängerüberganges an der Fürstenrieder-/Ammersee-/Kurparkstraße (Antrag 1) (Kreisverwaltungsreferat, 20.01.16) Empfehlung Nr. 14-20 / E 00651 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 5: Asphaltierung und Beleuchtung des Weges zur Bushaltestelle ?Zöllerstraße? der Buslinie 56 (Baureferat, 27.01.16) Empfehlung Nr. 14-20 / E 00813 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 03.12.2015 - <div>nach Antrag</div>
+- TOP 6: Ampelanlage an der Kreuzung Würmtal-/Eichen-/Zinckgrafstraße (Kreisverwaltungsreferat, 19.01.16) Empfehlung Nr. 14-20 / E 00644 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>vertagt</div>
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung in einer städtischen Grünanlage, Feldmesse von Namen Jesu und Simeonskirche am 10.07.2016 von 09.00 - 13.00 Uhr auf dem Neufriedenheimer Platz, Siedlervereinigung der Kurparksiedlung (Kreisverwaltungsreferat, 20.01.16)
+- TOP 6.2.: Anhörungsrecht der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017 (Kreisverwaltungsreferat, 19.01.16)
+- TOP 6.3.: Spielaktionen in öffentlichen Grünanlagen, hier: Spielkistl in der Blumenau, Spielplatz an der Wastl-Witt-Straße, 06.-10.06.2016, 26.-30.09.2016 (Kreisverwaltungsreferat, 02.02.16)
+- TOP 6.4.: Erinnerungsverfahren: Alpenveilchenstraße Fahrbahnsanierung mit Randarbeiten zwischen Hönigschmidplatz und Gondrellplatz (Baureferat, 04.02.16)
+- TOP 6.5.: Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft: Energieversorgung der Stadt München (Referat für Arbeit und Wirtschaft, 10.02.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Großhaderner Straße 21, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 27813
+- TOP 7.2.: Waldgartenstraße, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 28837
+- TOP 7.3.: Pfingstrosenstraße 30, gem. Baumbestandsplan Nr. 28833
+- TOP 7.4.: Kleinhaderner Straße 2, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24758
+- TOP 7.5.: Pirmaterstraße 10, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 26832
+- TOP 7.6.: Haderunstraße 33, 1 Fichte
+- TOP 7.7.: Kruckenburgstraße 8, 1 Birke
+- TOP 7.8.: Max-Lebsche-Platz 18 - 23, 1 Baum
+- TOP 7.9.: Steinbrechweg 19 a, 1 Linde
+- TOP 7.10.: Terofalstraße 79, 1 Baum
+- TOP 7.11.: Canisiusplatz 2, 3 Kastanien
+- TOP 7.12.: Willibaldstraße 148 - 152, 1 Robinie
+- TOP 7.13.: Würmtalstraße 55, 1 Hainbuche und 1 Ahorn
+- TOP 7.14.: Fürstenrieder Straße, 1 Fichte und 1 Flieder
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 12.01.2016, 18.01.2016, 22.01.2016
+- TOP 7.2.: Wilhelm-Weitling-Straße 34, 3 Fichten (Referat für Stadtplanung und Bauordnung, 02.02.16)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Pfingstrosenstraße 3, 1 Stiel-Eiche (Referat für Stadtplanung und Bauordnung, 13.01.16)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Vollzug der Wassergesetze, Bachräumungstermine 2016 für die Stadt- bzw. Stadtrandbäche (Baureferat, 12.01.16)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: - Kriegerheimstraße; Pkw-Parkzonen (Kreisverwaltungsreferat, 21.12.15) - Haltverbot im Bereich der Bushaltestellen in der Gelbhofstraße, Am Hedernfeld, Gräfelfinger Straße und Haderunstraße (MVG-Linie 167) (Kreisverwaltungsreferat, 07.01.16)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Würmtalstraße (Sozialreferat, 18.12.15) - Nothkaufplatz (Sozialreferat, 19.01.16) - Barbierstraße (Sozialreferat, 26.01.16)
+- TOP 8.4.: BA-Informationsschreiben Nr. 04/15; Umgang mit Spenden, Annahme von Geschenken (Direktorium, 30.12.15)
+- TOP 8.5.: Arbeiten im Straßenraum: Alpenveilchenstraße auf gesamter Länge, Asphaltsanierung (Kreisverwaltungsreferat, 10.02.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Verkehrsführung von der BAB A96 zur BAB A95 und umgekehrt (Kreisverwaltungsreferat, 14.01.16)
+- TOP 9.2.: Baubeginn Neubau Spielplatz Gräfelfinger Straße (Baureferat, 20.01.16)
+- TOP 9.3.: Brunellenweg 31, Sanierung häuslicher Abwasserleitungen (Münchner Stadtentwässerung, 12.01.16)
+- TOP 9.4.: Verbot von Laubbläsern bzw. Regelung für deren Handhabung (Referat für Gesundheit und Umwelt, 07.01.16)
+- TOP 9.6.: Zwischennachricht: Sachstand Glasfaserausbau (Referat für Arbeit und Wirtschaft, 28.01.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Quartierstreff in der Ludlstraße - Mietpreisgestaltung (GEWOFAG, 17.12.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Informationsveranstaltung der SWM am 14.03.2016 um 18.00 Uhr (SWM, 01.02.16)
+- TOP 11.2.: Antrag BA 13 Bogenhausen vom 12.01.2016: Bildungsoffensive 4. Akt
+- TOP 11.3.: Regionalmanagement München Südwest: Einladung Mitgliederversammlung am 11.03.2016 (Referat für Stadtplanung und Bauordnung, 02.02.16)
+- TOP 11.4.: Fußgängerquerung Senftenauerstraße / Hönigschmidplatz (Schr. BA 25 Laim, 08.02.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 16.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04142: Konzeption zur langfristigen Freiraumentwicklung "Freiraum M 2030" A) Bekanntgabe des Konzeptgutachtens B) Vorbereitung der Öffentlichkeitsbeteiligung C) Behandlung des Antrages Nr. 14-20 / A 00044 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 06.06.2014 "Gründung einer Kommission für Grünflächen und Naturschutz"
+- TOP 12.2.: Beschluss vom 16.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03401: Neuordnung der Bauberatung Evalutation der Probephase 01.11.2011 bis 01.12.2012 und der Organisationsprüfung Bauberatung (August 2013 bis Mai 2014); Kontinuierlicher Verbesserungsprozess bis heute
+- TOP 12.3.: Beschluss vom 16.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04049: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsprogramm 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.1.: Beschluss vom 27.01.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04903: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sportausschusses vom 13.01.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04918: Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen, Maßnahmenpaket 2 Kunstrasenplatzbau Bezirkssportanlage Ludwig-Hunger-Straße 11
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04433: Weitere Auslegungsorte für Bebauungspläne im Rahmen der Öffentlichkeitsbeteiligung bei Bauleitplanverfahren
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04020: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04080: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04153: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04110: Haushaltsplan 2016 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04859: Unterflur-Containerstandorte in Neubaugebieten mit planen!
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04798: Änderung der Münchner Baumschutzverordnung
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04066: Mehrjahresinvestitionsprogramm 2015 - 2019 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2015 - 2019 Infrastrukturversorgungskonzept 2015 - 2019
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04092: Entwurf des Mehrjahresinvestitionsprogramms 2015 - 2019 Einzelplan 4 / Jugendamtsbereich
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04109: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2015 - 2019, Einzelplan 4 / Sozialbereich
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 01.12.2015 und des gemeinsamen Bildungs- und Sportausschusses vom 02.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04372: Mehrjahresinvestitionsprogramm (MIP) 2015 - 2019 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 10.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04470: Mehrjahresinvestitionsprogramm 2015 - 2019; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Hinweis / Ergänzung vom 13.01.2016 zur Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04733: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14
+- TOP 12.2.: Hinweis / Ergänzung vom 07.12.2015 zur Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04552: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2015 - 30.06.2015
+- TOP 12.3.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04864: Wohnungsmarkt München - Expertenbefragung 2015
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
