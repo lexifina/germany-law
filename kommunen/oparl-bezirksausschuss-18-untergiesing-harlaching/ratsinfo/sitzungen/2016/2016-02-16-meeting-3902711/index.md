@@ -1,0 +1,118 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2016-02-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3902711
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3902711
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der Dezember-Sitzung 1.3.2 Protokoll der Januar-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Anschluss des BA 18 an die Forderungen des Aktionsbündnisses "Artgerechtes München"; Bürgerantrag vom 26.01.2016
+- TOP 2.2.: Fortschreitende Verwahrlosung der Rabenkopfstraße in Harlaching; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Sachstandsinformation zu den Planungen am Münchner-Kindl-Heim / Am Hollerbusch (vertagt aus der Januar-Sitzung)
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Bürgervereinigung Maibaum-Untergiesing e.V. Maibaumfest Anfang Mai
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Maibaum Menterschwaige e.V. Harlachinger Maifest vom 29.04. bis 01.05.2016
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Kulturverein Harlaching e.V., für die Maßnahme: Eröffnung der Kulturmaitage 2016; Antragssumme: 4.568,23 ?; Antrag vom 13.01.2016
+- TOP 3.2.: AntragstellerIn: BKR KV München - Wasserwacht München-Mitte - Isarrettung, für die Maßnahme: Wasserrettungsstiefel und Neopren-Handschuhe; Antragssumme: 1.177,28 ?; Antrag vom 26.01.2016
+- TOP 3.1.: Budget der Münchner Bezirksausschüsse; Neuberechnung aufgrund der gestiegenen Verbrauchskosten und entsprechende Anhebung; BA-Antrag Nr. 14-20 / B 00301 vom 19.08.2014; Zwischennachricht des Direktoriums vom 19.01.16 mit der Bitte um Fristverlängerung bis Ende Juli 2016
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Antrag für Bau eines Radweges auf der rechten Seite der Oberbiberger Straße vom Mangfallplatz bis Vollmarstraße stadtauswärts; Bürgerantrag vom 13.08.2015 (zuletzt vertagt aus der Januar-Sitzung)
+- TOP 3.2.: Radweg entlang der Oberbiberger Straße; Bürgerantrag (zuletzt vertagt aus der Januar-Sitzung)
+- TOP 1.1.: Straßensanierungsmaßnahme Mondstraße; Antrag der SPD-Fraktion - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 1.1.: Erinnerungsverfahren; Pilgersheimer Straße zwischen Cannabichstraße und Jakob-Gelb-Platz; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 1.2.: Sofortmaßnahmen zur Reduzierung der Abgas- und Lärmbelastungen für die Bevölkerung am Mittleren Ring im Stadtbezirk 17; BA-Antrag Nr. 14-20 / B 01059 des BA 17 vom 14.04.15; Beschluss des Umweltausschusses vom 12.04.2016 (SB); Zuleitung des RGU mit der Bitte um Stellungnahme bis 26.02.2016
+- TOP 1.1.: Verkehrsspiegel für die Kreuzung Seybothstraße / Lorenzonistraße; BA-Antrag Nr. 14-20 / B 01790 vom 17.11.2015; Antwortschreiben des Baureferats-Tiefbau vom 11.01.2016 (negative Erledigung)
+- TOP 1.2.: Treppe zum Candidplatz; Bürgerschreiben vom 14.11. und 19.11.2015; Antwortschreiben des Baureferats-Ingenieurbau vom 11.01.16 (positive Erledigung)
+- TOP 1.3.: Barrierefreier Ausbau und gestalterische Aufwertung der Unterführung an der Tegernseer Landstraße - Höhe Otkerstraße; Schreiben des BA 18 vom 30.12.2015; Antwortschreiben des Baureferats-Ingenieurbau vom 28.01.2016 (neutrale Erledigung)
+- TOP 1.1.: Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg; Empfehlung: a) Realisierung einer Fuß- u. Radwegbrücke am Giesinger Berg; BV-Empfehlung Nr. 14-20 / E 00036 der BÜV des 17. Stadtbezirkes vom 05.06.14 b) Realisierung einer Fuß- und Radwegbrücke am Giesinger Berg; BV-Empfehlung Nr. 14-20 / E 00508 der BÜV des 17. Stadtbezirkes vom 18.06.15; Sitzungsvorlage Nr. 14-20 / V 04394; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 20.01.16 (SB)
+- TOP 1.2.: Tierpark Hellabrunn - Parkhausplanung offen legen! Stadtratsantrag Nr. 14-20 / A 01184 vom 09.04.15; Sofortmaßnahmen zur Entlastung der Verkehrssituation rund um den Tierpark Hellabrunn; BA-Antrag Nr. 14-20 / B 01330 des BA 18 vom 19.05.15; Sitzungsvorlage Nr. 14-20 / V 04520; Beschluss des Ausschusses für Arbeit u. Wirtschaft am 08.12.2015 (SB)
+- TOP 1.3.: Austausch von Lichtsignalanlagen; hier: Sanatoriumsplatz; Mitteilung des KVR vom 12.01.2016
+- TOP 1.3.3: UA Umwelt und Gesundheit
+- TOP 1.1.: Baumbestand Prößlstraße 17; Bürgeranliegen aus der Sitzung des BA 18 vom 20.10.2015; Zwischennachricht der Lokalbaukommission vom 13.01.2015
+- TOP 1.2.: Abholzung an der Isar; Bürgeranliegen; Abdruck des Schreibens der Unteren Naturschutzbehörde an das Baureferat sowie das RGU
+- TOP 1.1.: Errichtung und Betrieb von zwei Toilettenanlagen an der Isar; Gegenwärtiger Stand; Mitteilung des Baureferats-Gartenbau über kleinräumige Entfernung von Sträuchern und einiger kleiner Bäume zur Umsetzung der Maßnahme (vertagt aus der Januar-Sitzung)
+- TOP 1.2.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Baumentfernungen und Gehölzpflegemaßnahmen in Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken; Unterrichtung des Baureferats-Gartenbau gem. § 13 und § 14 der BA-Satzung über bevorstehende Entfernungen von Gefahrenbäumen (vertagt aus der Januar-Sitzung)
+- TOP 1.3.: Unterflur-Containerstandorte in Neubaugebieten mit planen! Stadtratsantrag Nr. 14-20 / A 01394 vom 24.09.2015; Sitzungsvorlagen Nr. 14-20 / V 04859; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 (SB)
+- TOP 1.4.: Vollzug der Wassergesetze; Bachräumungstermine 2016 für die Stadt- bzw. Stadtrandbäche; Zuleitung des Baureferats-Ingenieurbau
+- TOP 1.5.: Änderung der Münchner Baumschutzverordnung; Empfehlung Nr. 14-20 / E 00411 der BÜV des Stadtbezirkes 24 vom 16.04.15; Sitzungsvorlagen Nr. 14-20 / V 04798; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 20.01.2016 (SB)
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Eskalation am Hans-Mielich-Platz; Bürgerschreiben und diesbezüglich Zwischennachricht von AKIM (inkl. Flyer)
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: 3.5.4.3 Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept in München; Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet; Stellungnahme des BA 18 aus der Januar-Sitzung; Nachfrage des Kommunalreferats vom 26.01.16 mit der Bitte um Rückmeldung bis 17.02.16
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Seybothstraße 65, Neubau einer integrierten Diagnostik- u. Versorgungsklinik der Komplementär- und Schulmedizin - VORBESCHEID; Anhörung vom 14.01.16 (vertagt aus der Januar-Sitzung)
+- TOP 1.2.: Sanatoriumsplatz 2, Ersatzneubau und Sanierung Klinikum Harlaching - VORBESCHEID; Anhörung vom 14.01.2016 (vertagt aus der Januar-Sitzung)
+- TOP 1.3.: Am Hollerbusch 1, Unterbringung von Flüchtlingen und Wohnungslosen - Errichtung einer Gemeinschaftsunterkunft für unbegleitete minderjährige Flüchtlinge; Anhörung vom 15.01.16 (vertagt aus der Januar-Sitzung)
+- TOP 1.4.: Theodolindenstraße 24, Unterbringung von Flüchlingen und Wohnungslosen - Brandschutzsanierung, Nutzungsänderung eines Wohnheimes in eine stationäre Jugendhilfebetreuung für männliche unbegleitete minderjährige Flüchtlinge sowie Anbau eines Treppenhauses u. eines erdgeschossigen unterkellerten Seminartrakts; Anhörung vom 27.01.2016
+- TOP 1.5.: Schönegger Weg 8, Umbau und Erweiterung eines Einfamilienhauses; Anhörung vom 20.01.2016
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Arnpeckstraße 6, Neubau eines Mehrfamilienhauses mit TG; Schreiben des BA 18 vom 21.01.2016; Rückmeldung der Lokalbaumkommission zur Thematik "Ersatzpflanzungen/Wiedereingrünung" vom 27.01.2016 (neutrale Erledigung)
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14; Sitzungsvorlagen Nr. 14-20 / V 04733; Bekanntgabe des Ausschusses für Stadtplanung u. Bauordnung vom 20.01.2016
+- TOP 1.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Schilcherweg; Mitteilung vom 12.01.2016
+- TOP 1.4.: Wohnungsmarkt München - Expertenbefragung 2015; Sitzungsvorlagen Nr. 14-20 / V 04864; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 20.01.2016
+- TOP 1.1.: Willroiderstraße 16, Neubau von 5 Wohnhäusern mit TG - VORBESCHEID; Stellungnahme des BA 18 vom 22.10.15; Abdruck des Vorbescheids vom 19.01.2016
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; Flohmarkt Kirschbaum-Kindergarten am Hans-Mielich-Platz am 17.04.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 23.02.2016
+- TOP 1.2.: Veranstaltung im Freien in einer städt. Grünanlage; Maifest des Maibaumvereins Menterschwaige e.V. in der Harthauser Straße / Menterschwaigstraße vom 29.04.16 bis 01.05.16; Zuleitung des KVR mit der Bitte um Stellungnahme bis 04.03.2016
+- TOP 1.3.: Veranstaltung im Freien in einer städtischen Grünanlage; Sommerfest der Kinderwelt Harlaching, Oberbiberger Straße gegenüber Säbener Platz am 09.07.16; Zuleitung des KVR mit der Bitte um Stellungnahme bis 08.04.2016
+- TOP 1.4.: Veranstaltung im Freien in einer städtischen Grünanlage; Harlachinger Burschenfest 2016 in der Grünanlage Oberbiberger Straße, gegenüber Säbener Platz vom 10.06.16 bis 12.06.16; Zuleitung des KVR mit der Bitte um Stellungnahme bis 04.03.2016
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Anhörungsrecht der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017; Schreiben des KVR mit der Bitte um Rückmeldung bis 29.02.2016
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: BA-Informationsschreiben Nr. 04/15; Umgang mit Spenden, Annahme von Geschenken
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 1: (E) Tempo 50 auf der Tegernseer Landstr. (Ziffer 2) Empfehlung Nr. 14-20 / E 00279 der Bürgerversammlung des Stadtbezirkes 18 -Untergiesing-Harlaching am 13.11.2014
