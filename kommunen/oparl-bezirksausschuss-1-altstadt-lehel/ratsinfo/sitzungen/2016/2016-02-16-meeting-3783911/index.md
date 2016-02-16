@@ -1,0 +1,65 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-02-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3783911
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3783911
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Anhörung der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Frauenstraße 8, Abbruch und Neubau Dach / Kellerdecke / Bodenplatte, Einbau eines Aufzugs, Anbau von Balkonen
+- TOP 7.2.: Landschaftstraße, Neubau Informationspavillion ?Bürgerbüro? Marienhof / 2. S-Bahn- Stammstrecke München
+- TOP 7.3.: Lerchenfeldstraße 17, Genehmigung zweier Wohneinheiten im DG und Errichtung zweier Dachgauben, Nutzungsänderung des Ladens im EG / links zu Praxis und Verkauf sowie Änderung der Stellplätze in der Tiefgarage
+- TOP 7.4.: Residenzstraße 18, Erweiterung eines Ladens durch Zusammenlegung 2er Ladeneinheiten und Nutzungsänderung Zugangspassage im EG
+- TOP 7.5.: Rindermarkt 13, Abbruch und Neubau eines Geschäftshauses; Rindermarkt 14, Abbruch und Neubau eines Geschäftshauses + Wohnung inklusive Anpassung Tiefgarage / Anpassung Rosenstraße 5
+- TOP 7.1.: Erinnerungsverfahren Zweibrückenstraße, Radwegsanierung / Sternstraße / Thomas-Wimmer-Ring, Radwegsanierung / Widenmayerstraße 22-35 / Widenmayerstraße 39-52 / Herzogspitalstraße
+- TOP 7.2.1: Gaststätten
+- TOP 7.2.2: Sondernutzungen
+- TOP 2.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: Informationsveranstaltung der Johanniter-Unfallhilfe am 03.12.2016 auf dem Odeonsplatz
+- TOP 2.2.: Italienischer Markt auf dem Rindermarkt, 16.03-19.03.2016
+- TOP 2.3.: Parade und Veranstaltung zum St. Patricks Day auf dem Odeonsplatz am 13.03.2016
+- TOP 2.1.: Antrag auf Baumfällung, Maxburgstraße 1
+- TOP 2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes am St.-Jakobs-Platz 12 Seite: Corneliusstraße
+- TOP 2.1.: Vorstellung einer Eigenproduktion durch eine Vertreterin des Hofspielhauses
+- TOP 2.1.: Beschlussvorlage, BV-Empfehlungen 14-20 / E 00330 und E 00331 vom 04.12.2014, Einführung einer Flatrate für Strom, Gas, Telefon und Internet für München-Pass Besitzer
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bebauungsplan mit Grünordnung Nr. 2102, Sattlerstraße (beiderseits) zwischen Fürstenfelder Straße und Färbergraben, Aufstellungsbeschluss, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.12.2015 Sitzungsvorlage Nr. 14-20 / V03481, Zweitschrift
+- TOP 0.3.: Antwortschreiben des Referats für Stadtplanung und Bauordnung zum Bauvorhaben Mariannenstr. 3 und 5, war 2016.01 B 3.1.1
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Sperrzeitverlängerung für Gaststätte ?Sunshine Pub?, BV-Empfehlung 14-20 / E 00825
+- TOP 0.6.: Antwortschreiben des KVR zur Beschlussvorlage ?Fortschreibung des Standortkonzeptes Kulturstrand 2016 ff.? Sitzungsvorlage Nr. 14-20 / V04729
+- TOP 0.1.: Planfeststellungsbeschluss vom 30.12.2015, Planfeststellung für die Modernisierung und Sanierung des U-Bahnhofes Sendlinger Tor
+- TOP 0.2.: Verkehrsrechtliche Anordnung, Eingeschränktes Haltverbot in der Widenmayerstraße 51
+- TOP 0.3.: Verkehrsrechtliche Anordnung, Blumenstraße, südwestlich Corneliusstraße ? Beschliderung mit Gefahrzeichen ?Kinder? und Zusatzzeichen ?Schule?
+- TOP 0.4.: Bevorstehende Entfernung von Gefahrenbäumen, Karlsplatz
+- TOP 0.5.: Antwortschreiben des Referats für Stadtplanung und Bauordnung, Bürgeranfrage Fußgängerzone Marienplatz
+- TOP 0.1.: Veranstaltungsbericht, Theater des Hölzernen Gelächters ?Die Herzogin von Malfi?, 04.09-06-09.2015
+- TOP 0.2.: Bescheid, Ablehnung einer beantragten Zuwendung, Griechische Erziehungsgesellschaft ?König Otto von Griechenland? e.V
+- TOP 1: (E) Mülleimer in der Müllerstraße aufstellen (Nr. 3 des Antrages) Empfehlung Nr. 14-20 / E 00824 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 03.12.2015
+- TOP 2: (E) Wöchentliche Reinigung der Fußgängerunterführung des Altstadtrings am Isartorplatz Empfehlung Nr. 14-20 / E 00834 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 03.12.2015
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Musica Sacra St. Anna e.V. Konzert "Die Schöpfung" am 17.04.2016
+- TOP 2.2.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Erweiterung des Spielfestes "Luftschloss und Pappburg" vom 08. - 11.09.2016 um einen zusätzlichen Tag und um eine "Frei-Luft-Kantine"
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP 2.3.2: Sonstige
