@@ -1,0 +1,84 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-02-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833516
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833516
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: UA Protokoll Planung und Bau vom 04.12.2015
+- TOP 1.4.2.: UA Protokoll Planung und Bau vom 07.01.2016
+- TOP 1.4.3.: UA Protokoll Kultur vom 13.01.2016
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Paulaner-Brauerei Langwied
+- TOP 2.2.: Anfrage nach Veranstaltungsort
+- TOP 2.3.: Tempo 30 Überwachung Hitlstraße
+- TOP 2.4.: Unansehnliches Grundstück Manzostraße Ecke Korbinian-Beer-Straße
+- TOP 2.5.: Straßenbeleuchtung Pasinger Heuweg
+- TOP 3: Anträge
+- TOP 3.1.: Gerichtsurteil Allacher Straße
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Anhörungsrecht der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 5.2.: Sickenbergerstr. 16, Gemarkung: Untermenzing, Fl.Nr.: 235/11 Neubau eines Mehrfamilienhauses und Vollzug der BaumschutzVO
+- TOP 5.3.: Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept in München; Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet
+- TOP 5.4.: Spielaktionen in öffentlichen Grünanlagen, Artmobil 15.09.-16.09.16, Spielplatz Stieglstraße
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.16: a) Unterflur-Containerstandorte in Neubaugebieten mit planen! (Sitzungsvorlage Nr. 04859) b) Änderung der Münchner Baumschutzverordnung (Sitzungsvoralge Nr. 04798) c) Wohnungsmarkt München - Expertenbefragung 2015 (Sitzungsvorlage Nr. 04864) d) Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14 (Sitzungsvorlage Nr. 04733) e) Hinweis/Ergänzung vom 13.01.16 zur Bekanntgabe "Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14" (Sitzungsvorlage Nr. 04733)
+- TOP 6.2.: Beschluss der Vollversammlung vom 27.01.2016: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen (Sitzungsvorlage Nr. 04903)
+- TOP 7: Verschiedenes
+- TOP 7.1.: 1200 Jahre Menzing / Finanziellen Beteiligung des BA 23
+- TOP 7.2.: Erinnerungsverfahren Ernst-Häckel-Str. 80-98 Holzgeländer und Kiesmakadam als Sicherung zwischen Fahr- und Gehbahn
+- TOP 7.3.: Vertretungsregelung in den Unterausschüssen
+- TOP 7.4.: Informationsveranstaltung der SWM am 14.03.16 um 18:00 Uhr
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Direktorium vom 30.12.2015: BA-Informationsschreiben Nr. 04/15; Umgang mit Spenden, Annahme von Geschenken
+- TOP 9.2.: Schreiben Oberbürgermeister vom Dezember 2015: Reduzierung des Mehrwertsteuersatzes auf Mensaessen in Schulen
+- TOP 9.3.: Schreiben Stadtkämmerei vom 18.01.16: Reduzierung des Mehrwertsteuersatzes auf Mensaessen in Schulen; Antwortschreiben des Bundesministeriums der Finanzen
+- TOP 9.4.: Schreiben Referat für Gesundheit und Umwelt vom 25.01.16: Vollzug der Wassergesetze und des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG); Planfeststellung zur Reaslisierung des 2. Bauabschnitts: Bau eines Seitenarms der Würm und Endausbau der Grünananlage nach dem Rückbau des Allacher Sommerbades im 23. Satdtbezirk Allach-Untermenzing
+- TOP 9.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.01.2016: Behringstr. 27c, Fl.Nr. 845/6, Gemarkung Untermenzing Würm-Grünzug/Beergelände Behringstr. Thyssen Dück GmbH
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.01.16: Eversbuschstr. 168 - VORBESCHEID
+- TOP 9.8.: Schreiben Referat fürStadtplanung und Bauordnung vom 28.01.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Gerberau
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (04.01.-10.01.16, 11.01.-17.01.16, 18.01.-24.01.16, 25.01.-31.01.16)
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Schwabmüllerstr. 21 und 22, Karl-Rahner-Str. 8, Frühaufstr. 15, Schweidnitzer Str. 40, Pfarrer-Grimm-Str. 20, Bauschweg 18, Dachauer Str. 667, Dachauer Str. 665, Ernst-Haeckel-Str. 27, Finsterwalderstr. 47, Hitlstr. 61,Eversbuschstr. 201
+- TOP 9.11.: Schreiben Stadtwerke München vom 11.01.16: Stromprojekt Pasinger Heuweg Netztrafostation
+- TOP 9.12.: Schreiben Stadtwerke München vom 11.01.16, 18.01.16, 25.01.16, 01.02.16: Baumaßnahmen
+- TOP 9.13.: Schreiben Stadtwerke München vom 20.01.16: Unterlagen zum Projekt "Seismikmessungen im Münchner Süden"
+- TOP 9.14.: Schreiben Kreisverwaltungsreferat vom 20.01.16: Erlaubnisbescheid Faschinsumzug der Pfarrei Maria Himmelfahrt am 09.02.16
+- TOP 9.15.: Schreiben Kreisverwaltungsreferat vom 26.01.16: Antrag auf unveränderte Fortführung der Gaststätte "Planet Pizza Kebab"
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 03.02.16: Absolutes Haltverbot Einmündungsbereich Lautenschlägerstr./Hintermeierstr.
+- TOP 9.17.: Schreiben Baureferat vom 12.01.16: Vollzug der Wassergesetze, Bachräumungstermine 2016 für die Stadt- bzw. Stadtrandbäche
+- TOP 9.18.: Schreiben Baureferat vom 02.02.16: Geplanter Grüngürtel in der Schöllstraße BA-Antrag Nr. 00610 vom 11.11.2014
+- TOP 9.19.: Schreiben Gleichstellungsstelle für Frauen vom 26.01.16: Handouts Münchner Frauen-Stadtgespräch
+- TOP 9.20.: Schreiben Kulturreferat vom 28.01.16: Veranstaltungsübersicht Februar 2016
+- TOP 9.21.: Schreiben BA 13 Bogenhausen vom 04.02.16: Bildungsoffensive
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Umgehungsstraße soll Allach-Untermenzing entlasten
+- TOP 10.2.: Straßenzustand Mayrstraße
+- TOP 10.3.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Gerberau
+- TOP 10.4.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (01.02.-07.02.16)
+- TOP 10.5.: Schreiben Baureferat vom 05.02.16: Laubhaufen in Grünanlagen als Überwinterungshilfe für Igel
+- TOP 10.6.: Schreiben Baureferat vom 10.02.16: Realisierung einer öffentlichen Grünfläche nach dem Rückbau des Allacher Sommerbades 2. Bauabschnitt mit Bau eines Seitenarms der Würm, Baumfällungen
+- TOP 10.7.: Schreiben Kreisverwaltungsreferat vom 10.02.16: Verkehrsrechtliche Anordnung: Pasteurstraße; Einrichtung von Haltverboten
+- TOP 10.8.: Schreiben Stadtwerke München vom 08.02.16: Baumaßnahmen
+- TOP 10.9.: Stadtrats- und Ausschussbeschlüsse: Bekanntgabe im Bildungsausschuss vom 18.02.16: Schüler_innen- und Klassenzahlen a) an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonerer Art und der Städt. Franz-Auweck-Aabendschule; Schuljahr 2015/2016 (Sitzungsvorlage Nr. 04883) b) an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2015/2016 (sitzungsvoralge Nr. 04967) c) der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2015/2016 (sitzungsvorlage Nr. 04946) d) an den Beruflichen Schulen in der Trägerschaft der LH München im Schuljahr 2015/2016, Stand 20.10.2015 (Sitzungsvorlage Nr. 04975)
+- TOP 10.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: a) Hinweis/Ergänzung: Infrastruktur München I: Qualifizierte Infrastrukturuntersuchungen (Sitzungsvorlage Nr. 04903) b) Wildtiere in München II, Erfassung der Wildtiere in München (Sitzungsvorlage Nr. 05025) c) Gartenstädte, Erhalt des Charakters und bauliche Entwicklung (Sitzungsvorlage Nr. 04857) d) E-Mobilität: Handlungsfeld 6 - Innerstädtischer Wirtschaftsverkehr (Sitzungsvorlage Nr. 04745)
+- TOP 10.11.: Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwaltungsausschuss des Stadtrates vom 18.02.16: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 05131)
+- TOP 1: (E) Friedhof Allach Parkplatz am Allacher Friedhof (Antrag 16, Ziffer 1) Empfehlung Nr. 14-20 / E 00525 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 23.06.2015 Radweg und Fußgängerbrücke zum Allacher Friedhof Empfehlung Nr. 14-20 / E 00526 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 23.06.2015
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: (E) Budget der Bezirksausschüsse BRK Wasserwacht OG München-West Beschaffung einer Übungspuppe
