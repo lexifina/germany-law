@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-02-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779061
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779061
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Aufstellung von Fahrradständern an der Kreuzung Heß-/Luisenstraße Schreiben eines Bürgers vom 15.01.2016
+- TOP .2.: Schlechter Zustand des Parks hinter der Glyptothek Schreiben mehrerer Bürger vom 04.bzw. 08.01.2016
+- TOP .3.: Krähensichere Mülleimer für den Königsplatz Schreiben eines Bürgers vom 09.01.2016
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Kunstrasen für den Bolzplatz Blutenburgstraße
+- TOP .2.: Aufstellung einer wegweisenden Infotafel mit Lageplan der umliegenden Museen, Sammlungen etc. anstelle der beleuchteten rotierenden Werbesäule an der Ecke Türkenstraße / Gabelsbergerstraße (vor dem Anwesen Türkenstraße 16)
+- TOP .3.: Wettbüros rechtlich den Spielotheken gleichsetzen
+- TOP .4.: Bäume auf dem Platz vor dem Staatsarchiv
+- TOP .5.: Einführung einer Geschwindigkeitsbegrenzung auf Tempo 30 in der Arcisstraße
+- TOP .6.: Baustelleneinrihtungen auf öffentlichem Grund sollen in Größe und Umfgang dem Bauverlauf angepasst werden.
+- TOP .7.: Veranstaltungen am Königsplatz
+- TOP .8.: Kreisverwaltungsreferat, Verkehrsanordnungen, Antwortschreiben Wohnsituation in der Karl-Döpfner-Straße Weitergeleitetes Bürgeranliegen aus der Sitzung vom 12.01.2016
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Bauvorhaben der LBK: 53., 01., 02., 03., 04. KW
+- TOP .2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 01./02., 03./04. KW
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Anhörung Erhalt der historischen Gebäude der tierärztlichen Fakultät am Englischen Garten und Einbeziehung der historischen Gebäude in die Neubauplanung Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung zur Erledigung der Empfehlung Nr. 14-20 / E 00655 aus der Bürgerversammlung am 22.10.2015
+- TOP .4.: Schellingstraße 50 Sanierung, Aufstockung und Nutzungsänderung des ehem. Innenhofateliers vertagt aus der Sitzung vom 12.01.2016 Unterlagen liegen bereits vor
+- TOP .5.: Denisstraße 3 a Neubau eines Gebäudekomplexes für Verwaltung und Büro ? Vorbescheid vertagt aus der Sitzung vom 12.01.2016 Unterlagen liegen bereits vor
+- TOP .6.: Amalienstraße 81 Anbau eines Aufzuges an ein denkmalgeschütztes Gebäude vertagt aus den Sitzungen vom 08.12.2015 und 12.01.2016 nterlagen liegen bereits vor
+- TOP .7.: Heßstraße 43 ? Tektur VGB: DG-Neubau mit Teilabbruch und baulichen Änderungen sowie neuen Balkonen; Wohngebäude Innenhof: Errichtung von neuen Balkonen mit Notleiteranlagen
+- TOP .8.: Oskar-von-Miller-Ring 20-24 Sanierung und Ertüchtigung eines Bürohauses (?Bürohaus OSKAR?) mit Errichtung einer Dachterrasse und von lüftungstechnischen Dachaufbauten, Teilnutzungsänderungen (Büro zu Gaststätte mit Freischankflächen sowie Fahrzeugpflegeflächen zu Stellplätzen)
+- TOP .9.: Augustenstraße 87-89 ? Tektur DG-Neubau mit Teilabbruch und baulichen Änderungen inkl. neuer Balkone und Aufzugsanlagen (VGB) sowie Neubau eines Wohngebäudes und zweier Stadthäuser mit Tiefgarage im Innenhof
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .1.: Theresienstraße 71 a - Tektur Neubau zweier Wohnhäuser mit Keller (BT 1 u. 2), Innenhofbebauung (BT 3 ? 8), Keller- gechoss sowie Großgarage (BT 9), Theresienstraße 71 a und 75 Fällung einer Rotfichte
+- TOP .3.2: Baumfällungen
+- TOP .1.: Georgenstraße 23-25, eine Robinie
+- TOP .2.: Nymphenburger Straße 62 und 64, sechs Roßkastanien
+- TOP .3.: Königinstraße 21, eine Linde
+- TOP .4.: Schellingstraße 136, eine Robinie
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Baumfällung Augustenstraße 87; Genehmigungsbescheid
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnungsmarkt München ? Expertenbefragung 2015 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und und Bauordnung vom 20.01.2016 Sitzungsvorlage Nr. 14-20 / V 04864
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage ?Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14? Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und und Bauordnung vom 20.01.2016 Sitzungsvorlage Nr. 14-20 / V 04733
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Änderung der Münchner Baumschutzverordnung ? Empfehlung Nr. 14-20/E 00411 der Bürgerversammlung Feldmoching-Hasenbergl am 16.04.2015 Beschluss des Ausschusses für Stadtplanung und und Bauordnung vom 20.01.2016 Sitzungsvorlage Nr. 14-20 / V 04798
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Unterflur-Containerstandorte in Neubaugebieten mit planen! Beschluss des Ausschusses für Stadtplanung und und Bauordnung vom 20.01.2016 Sitzungsvorlage Nr. 14-20 / V 04859
+- TOP .6.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Abdruck des Vorbescheids Schellingstraße 64 (Neubau eines Einfamilienhauses als teilweise vierseitige Grenzbebauung mit Einzelgarage und begrüntem Flachdach)
+- TOP .7.: Mieterbeirat der Landeshauptstadt München Protokoll der 11. öffentlichen Sitzung vom 18.01.2016
+- TOP .1.: Antrag der SPD im BA 3 vom 27.12.2015 Tempo 30 für die Karlstraße zwischen Pappenheim- und Seidlstraße vertagt aus der Sitzung vom 12.01.2016 Unterlagen liegen bereits vor
+- TOP .2.: Antrag der Grünen vom 10.01.2016 Tempo 30 in der Karlstraße zwischen Seidl- und Luisenstraße vertagt aus der Sitzung vom 12.01.2016 Unterlagen liegen bereits vor
+- TOP .3.: Antrag der Grünen vom 10.01.2016 Begrünung im Bereich der Abbiegespuren Karl-/Ecke Pappenheimstraße vertagt aus der Sitzung vom 12.01.2016 Unterlagen liegen bereits vor
+- TOP .4.: Antrag der CSU im BA 3 vom 24.11.2015 Altstadtring Nord-West; stadtplanerische Aufwertung des Einganges zum Kunstareal vertagt aus den Sitzungen vom 08.12.2015 und 12.01.2016 Unterlagen liegen bereits vor
+- TOP .5.: Antrag der SPD im BA 3 vom 29.01.2016 Verlängerung der Stadtbuslinie 153
+- TOP .6.: Antrag der CSU im BA 3 vom 01.02.2016 Rechtsabbiegepfeile (grüne Pfeile) an den Lichtzeichenanlagen Karl-/Luisenstraße, Karl-/Augustenstraße und Karl-/Katharina-von-Bora-Straße
+- TOP .7.: Antrag der CSU im BA 3 vom 01.02.2016 Zebrastreifen über die Arcisstraße Ecke Heßstraße
+- TOP .8.: Antrag der CSU im BA 3 vom 01.02.2016 Grünstreifen in der Augustenstraße wieder
+- TOP .9.: Antrag der CSU im BA 3 vom 01.02.2016 Reinigung des ?Staccioli-Rings?
+- TOP .2.1: Verkehr
+- TOP .1.: Baureferat Tiefbau, Straßenunterhalt und -betrieb Asphaltarbeiten im Stauraum Ludwig-/von-der-Tann-Straße
+- TOP 5.2.2: Öffentlicher Raum
+- TOP 5.1.: Baureferat, Beschlussvorlage bauliche Umgestaltung der Kreuzung Sophien-/Arcostraße
+- TOP 5.2.: Kommunalreferat, Anhörung Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 3. Stadtbezirk Maxvorstadt vertagt aus der Sitzung vom 12.01.2016 Unterlagen liegen bereits vor
+- TOP 5.3.: Kreisverwaltungreferat, Bezirksinspektion Nord, Sondernutzungserlaubnisse Gabelsbergerstraße 70, Aufstellung von zwei Warenauslagen für Obst und Gemüse
+- TOP 5.2.3: Gaststätten
+- TOP 5.1.: Kreisverwaltungsreferat, Bezirksinspektion Nord, Freischankflächen Barer Straße 56, Weitergenehmigung einer bis Ende 2015 befristeten Freischankfläche
+- TOP 5.2.: Kreisverwaltungsreferat, Bezirksinspektion Nord, Freischankflächen Gabelsbergerstraße 58, Erweiterung einer bestehenden Freischankfläche
+- TOP 5.2.4: Veranstaltungen
+- TOP 5.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Spendenaktion BreakOut am 03.06.2016 auf dem Geschwister-Scholl-Platz
+- TOP 5.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Tag des Bayerischen Bieres am 25.04.2016 auf der Freifläche Oskar-von-Miller-Ring / Ecke Brienner Straße
+- TOP 5.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Parade zum St. Patrick's Day am 13.03.2016
+- TOP 5.4.: Spiellandschaft Stadt e.V. Voranfrage für Spielaktionen (Anträge beim KVR eingereicht): Artmobil am 09./10.06.2016 im Arnulfpark und Wasserspielbus vom 01. bis 03.07.2016 im Maßmannpark
+- TOP 5.1.: Kreisverwaltungsreferat, Verkehrsanordnungen Umbeschilderung der Lade- und Lieferzone vor Schellingstraße 52 (Seite Barer Straße) in eine Haltverbotszone mit der Freigabe für den Lieferverkehr
+- TOP 5.2.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung einer Kurzparkzone in der Erika-Mann-Straße 23-25
+- TOP 5.3.: Kreisverwaltungsreferat, Verkehrsanordnungen Feuerwehranfahrtszone Heßstraße vor Feuerwache 4
+- TOP 5.4.: Kommunalreferat, Straßenbenennung Rudi-Hierl-Platz: Erläuterungsschild in der 3. KW montiert
+- TOP 5.1.: Kulturreferat, NS-Dokumentationszentrum, Anhörung NS-Dokumentationszentrum und Denkmal zur Bücherverbrennung am Königsplatz Beschlussentwurf für den Kulturausschuss vom 03.03.2016 zur Erledigung eines Stadtratsantrags
+- TOP 5.2.: Öffentlicher Bücherschrank, mögliche Standorte vertagt aus der Sitzung vom 12.01.2016
+- TOP 5.3.: BA-Budget für eigene Veranstaltungen, Entscheidung Filmvorführung am 27.01.2016 (Tag der Opfer des Nationalsozialismus) beantragte Summe: 600,00 ?
+- TOP 5.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 5.1.: Münchner Forum e.V. Kurzbericht zum Buchprojekt ?München NICHT wie geplant?
+- TOP 5.1.: Nächste BA- und UA-Sitzungen
+- TOP 5.1.: Kreisverwaltungsreferat, Wahlen und Abstimmungen, Anhörung Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Umbesetzung der Unterausschüsse
+- TOP 5.4.: Budgetbericht Kinder- und Jugendfest
+- TOP 2: (E) Deutlichere Kennzeichnung der Tempo-30-Zone in der Türkenstraße und Geschwindigkeitsüberwachung zur Sicherstellung der Schutzwirkung Empfehlung Nr. 14-20 / E 00658 der Bürgerversammlung des 3. Stadtbezirkes - Maxvorstadt am 22.10.2015
+- TOP 3: (E) Die Theresienstraße soll, wie vor 1972 versprochen, wieder Wohnstraße mit einer Geschwindigkeitsbegrenzung von 30 km/h werden Empfehlung Nr. 14-20 / E 00659 der Bürgerversammlung des 3. Stadtbezirkes - Maxvorstadt am 22.10.2015
+- TOP 4: (E) Bessere Polizeikontrollen der Radfahrer, die auf Gehwegen fahren Empfehlung Nr. 14-20 / E 00661 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 22.102015
+- TOP 5: (E) Die Fußgängerampel Gabelsberger / Türkenstraße soll konform mit der Ampel am Oskar-von-Miller-Ring geschaltet werden Empfehlung Nr. 14-20 / E 00664 der Bürgerversammlung des 3. Stadtbezirkes - Maxvorstadt am 22.10.2015
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Türkenstraße Schultheater "Voll daneben" am 15.03.2016
+- TOP 5.5.: (E) Budget der Bezirksausschüsse Institut für Kunst und Forschung Projekt "hier wohnte . . ." von Juni bis November 2016
+- TOP 5.1.: Anträge
+- TOP 5.2.: Entscheidungen und Anhörungen
+- TOP 5.3.: Aktuelle Sachstandsberichte
+- TOP 5.4.: Unterrichtungen
