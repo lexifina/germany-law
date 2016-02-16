@@ -1,0 +1,6 @@
+# TOP 8.2: DLRG - Anhängerkupplung (1.000,00 €)
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Heckinghausen (2016-02-16)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/71403
