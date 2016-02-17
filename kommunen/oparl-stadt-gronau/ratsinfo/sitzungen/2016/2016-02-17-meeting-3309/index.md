@@ -1,0 +1,54 @@
+# Rat (22. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2016-02-17T18:00:00+01:00
+- Ende: 2016-02-17T21:52:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQlJQzLzmAFaJqXJucJtgtU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3309
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTj2U7hZxEfApG90Ze8lZb0OmHKTCC0WGYMhIyYc6HI9/Bekanntmachung_Rat_17.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTOxcJ_dSOgkmowvq6onM-hu1TCBeNJb96RY_wQ4yt_V/Oeffentliche_Niederschrift_Rat_17.02.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 3.: Niederschrift vom 25.11.2015
+- TOP 4.: Niederschrift vom 16.12.2015
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der FDP-Fraktion vom 04.12.2015 sowie vom 14.12.2015 Glashaus - Klarstellung und Anfrage - Einstimmig, 1 Enthaltungen
+- TOP 5.2: Anmeldung von Finanzmitteln beim Kreis Borken für das Haushaltsjahr 2016 Antrag der UWG-Fraktion vom 05.02.2016 - 23 Jastimmen, 17 Neinstimmen, 0 Enthaltungen
+- TOP 5.3: Landschaftswacht für die Stadt Gronau Antrag der GAL-Fraktion vom 07.02.2016 - 5 Jastimmen, 34 Neinstimmen, 2 Enthaltungen
+- TOP 6.: Bürgerbeteiligung Stadtwerke Gronau Gründung einer Beteiligungsgesellschaft SEE (GmbH & Co. KG) - 33 Jastimmen, 6 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Bürgerbeteiligung Stadtwerke Gronau 2. Übertragung TEE-Anteile auf die Beteiligungsgesellschaft SEE - 34 Jastimmen, 4 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Bürgerbeteiligung Stadtwerke Gronau 3. Geschäftsführungs-GmbH - 34 Jastimmen, 4 Neinstimmen, 2 Enthaltungen
+- TOP 9.: Änderung der Personalsituation aufgrund der veränderten Flüchtlingszahlen - Einstimmig, 0 Enthaltungen
+- TOP 10.: 97. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Epe-Süd-Fortsetzung", Stadtteil Epe Bebauungsplan Nr. 235 "Industriegebiet Epe-Süd-Fortsetzung", Stadtteil Epe 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden 4. Anordnung der Umlegung - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 71 "Vietmeierstraße", 1. Änderung, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öfefntlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 12.: Jugendhilfeplanung - Betreuungsplätze für Kinder in Kindertageseinrichtungen und Tagespflege, Teil I - Bedarfsplanung 2016 - 2020 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bereitstellung von Haushaltsmitteln für die Schulentwicklung in der haushaltslosen Zeit - Einstimmig, 0 Enthaltungen
+- TOP 14.: Künftiger Schulraumbedarf im Grundschulbereich der Stadt Gronau hier: Mittelfristiger Erhalt der Schul-Standorte im Ortsteil Epe - Einstimmig, 0 Enthaltungen
+- TOP 15.: Konzeptionelle und bauliche Entwicklung der Sekundarschule am Standort Gildehauser Damm - Einstimmig, 0 Enthaltungen
+- TOP 16.: Konzeptionelle und bauliche Entwicklung der Gesamtschule Gronau am Standort Laubstiege - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Bildung einer Kooperationsklasse an der Gesamtschule Gronau - Einstimmig, 0 Enthaltungen
+- TOP 18.: Erste Änderungssatzung zur Satzung über die Erhebung einer Steuer für sexuelle Vergnügungen in der Stadt Gronau (Westf.) vom 30.10.2013 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 1 Enthaltungen
+- TOP 20.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 20.1: Aufsichtsratssitzung der Fa. Chance gGmbH/ Fa. GfA mbH verlegt (Vors. d. Aufsichtsrates RM Arends)
+- TOP 21.: Situation der Unterbringung von Flüchtlingen in Gronau - aktueller Sachstand - Ohne Abstimmung
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 23.: Anfragen
+- TOP 23.1: Höhe der Eigenbeteiligung in stationären Pflegeeinrichtungen (1. Stellv. d. BM Doetkotte)
+- TOP 23.2: Instandhaltung der Gildehauser Straße (1. Stellv. d. BM Doetkotte)
+- TOP 23.3: Information der Unteren Landschaftsbehörde über das Fällen alter Eichen an der Losserstraße erfolgt? (RM Bartels)
+- TOP 23.4: Dauerfalschparker im Bereich der Altstätter Straße/Robert-Koch-Straße (RM Laschke)
+- TOP 23.5: Unzulänglichkeiten bei der Zustellung von Postsendungen durch privaten Dienstleister (RM Wagner)
+- TOP 23.6: Art der Durchführung von Forstmaßnahmen (RM Buchholz)
+- TOP 23.7: Rückstau an der Jet-Tankstelle an der Enscheder Straße (RM Speer)
+- TOP 23.8: Maßnahmen zur Sicherstellung eines Halteverbots an der Enscheder Straße/Dr.-Hendrik-Straße unzureichend (RM Bajorath)
+- TOP 23.9: Infoveranstaltung zur Heliumspeicherung im Amtsvenn (RM Buchholz)
+- TOP 23.10: 40 Jahre Rathausgebäude im April (RM Post)
