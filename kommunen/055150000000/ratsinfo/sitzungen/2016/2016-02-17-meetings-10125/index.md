@@ -1,0 +1,53 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-02-17T17:09:00+01:00
+- Ende: 2016-02-17T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10125
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10125
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00383486.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Ratsgruppe Piraten/ÖDP an den Rat Nr. A/69/2015 vom 24.11.2015, Einführung einer Kastrations-, Kennzeichnungs- und Registrierungspflicht für Freigänger-Katzen (Anlage) - verwiesen zur Vorberatung
+- TOP 2.2: Antrag der SPD-Fraktion A-R/0042/2015 "Ausbauoffensive Kindertagesbetreuung" - einstimmig beschlossen
+- TOP 2.3: Masterplan Aasee prüfen und optimieren - einstimmig geändert beschlossen
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung 2016) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Brandschutzbedarfsplan für die Stadt Münster - einstimmig beschlossen
+- TOP 5: Straßen-, Anlagen- und Aaseeordnung - einstimmig geändert beschlossen
+- TOP 6: Anregung des Integrationsrates "Kommunales Wahlrecht für alle Migrantinnen und Migranten in NRW" - vertagt
+- TOP 7: Handlungsprogramm 2012 bis 2017 – 4. Projektbericht zur Umsetzung - ohne Beschlussfassung geschoben
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 9: Antrag Nr. A-R/0018/2015 der CDU-Fraktion "Wolfgang Borchert Theater nicht noch einmal - von der Tagesordnung abgesetzt
+- TOP 10: Änderung der Hundesteuersatzung der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 11: 3. Nahverkehrsplan Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 11.1: 3. Nahverkehrsplan Stadt Münster
+- TOP 12: Sonderprogramm des Landes NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" - Projekte der Stadt Münster - einstimmig beschlossen
+- TOP 13: Bildungsgang Fachangestellter für Arbeitsmarktdienstleistungen am Hansa-Berufskolleg zum Schuljahr 2016/2017 - einstimmig beschlossen
+- TOP 14: Trägerausschreibung für die Kindertageseinrichtungen an der Malteserstraße (Hiltrup), Bohlweg (Innenstadt) und Josef-Beckmann-Straße (Kinderhaus) - einstimmig beschlossen
+- TOP 15: Erweiterung der Kindertageseinrichtung Heinrich-Piepmeyer-Haus im Bezirk Mitte - einstimmig beschlossen
+- TOP 16: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Willingrott in Handorf - einstimmig beschlossen
+- TOP 17: Wirtschaftsplan 2016/2017 des Theater Münster - einstimmig beschlossen
+- TOP 18: Münster auf dem Weg zur inklusiven Stadt - Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention 1. Bericht über den Stand der Umsetzung - zur Kenntnis genommen
+- TOP 19: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2014 - zur Kenntnis genommen
+- TOP 20: Mobilitätsangebot für Flüchtlinge in Erstaufnahmeeinrichtungen (Notunterkünften) des Landes in Münster - einstimmig beschlossen
+- TOP 20.1: Mobilitätsangebot für Flüchtlinge in Erstaufnahmeeinrichtungen (Notunterkünften) des Landes in Münster
+- TOP 21: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Weitere Umsetzung des Flüchtlingskonzepts und neue temporäre Einrichtungen - ohne Beschlussfassung geschoben
+- TOP 21.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Weitere Umsetzung des Flüchtlingskonzepts und neue temporäre Einrichtungen
+- TOP 22: Sachstandsbericht: Weiterer Umgang mit dem Gebäude der Stadthalle Hiltrup - zur Kenntnis genommen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Mitte
+- TOP 23.1.1: Vorhabenbezogener Bebauungsplan Nr. 565: Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 23.2: Stadtbezirk West
+- TOP 23.2.1: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - von der Tagesordnung abgesetzt
+- TOP 23.3: Stadtbezirk Südost
+- TOP 23.3.1: Veränderungssperre Nr. 106, Erste Verlängerung - einstimmig beschlossen
+- TOP 24: Verschiedenes
