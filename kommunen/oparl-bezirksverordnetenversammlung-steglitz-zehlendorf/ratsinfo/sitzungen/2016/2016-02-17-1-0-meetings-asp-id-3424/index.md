@@ -1,0 +1,89 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-02-17T17:00:00+01:00
+- Ende: 2016-02-17T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3424
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3424
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Eingeschränktes öffentliches Schwimmen in der Schwimmhalle Hüttenweg - beantwortet
+- TOP 3.2: Bauvorhaben Teltower Damm 301 - beantwortet
+- TOP 3.3: Umstellung auf neue Software für Bürgerämter ein Erfolg? - beantwortet
+- TOP 3.4: Stellenausschreibungen in der Marktverwaltung - beantwortet
+- TOP 3.5: Reparatur des Spielplatzzaunes Lauenburger Platz - beantwortet
+- TOP 3.6: Hochbetagte Einwohnerinnen und Einwohner - beantwortet
+- TOP 3.7: Stellenbesetzung der Behindertenbeauftragten - beantwortet
+- TOP 3.8: Beteiligung im Beratungsgremium FahrRat - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Abberufungen - erledigt
+- TOP 7.1: Abberufung einer Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Abberufung einer stellv. Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Wahlen - erledigt
+- TOP 8.1: Wahlvorschläge - erledigt
+- TOP 8.1.1: Wahl einer Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Haushaltsangelegenheiten - erledigt
+- TOP 9.1: Ausschussanträge - erledigt
+- TOP 9.1.1: Sondermittel der BVV für Partners Osteuropa gGmbH - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Bebauungspläne - erledigt
+- TOP 10.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 10.1.1: Bebauungsplan 6-29 B (Goerzallee 155, Lichterfelder Weg) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.1.2: Bebauungsplan 6-28 B (Ostpreußendamm 84-92) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - erledigt
+- TOP 11.1: Kollaps des Jugendamts wegen akuter Personalnot? - beantwortet
+- TOP 11.2: Macht sich Steglitz-Zehlendorf einen schlanken Fuß (III): Wohngeldbearbeitung - beantwortet
+- TOP 12: Anträge - erledigt
+- TOP 12.1: Parksituation am Jagdschloss Grunewald regeln - überwiesen
+- TOP 12.2: Aktive Religionsfreiheit schützen! - überwiesen
+- TOP 12.3: Wohnraum für Flüchtlinge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Radverkehr erleichtern: Neuchateller Straße/Hindenburgdamm - überwiesen
+- TOP 12.5: Einfach mal Danke sagen - überwiesen
+- TOP 12.6: Bundesfreiwilligendienst mit Flüchtlingsbezug - überwiesen
+- TOP 12.7: Anna-Essinger-Gemeinschaftsschule - überwiesen
+- TOP 12.8: Öffnung Fahrradweg Finckensteinallee/Hindenburgdamm - überwiesen
+- TOP 12.9: Museumsdorf Düppel aktiv unterstützen - überwiesen
+- TOP 12.10: Strikte Einhaltung der zulässigen Geschwindigkeit von 30 km/h in der Dessauerstraße, Frobenstraße, Zietenstraße, Derfflingerstraße, Seydlitzstraße und Dillgesstraße - überwiesen
+- TOP 12.11: Denkmal Hubschrauberlandeplatz Steinstücken pflegen - überwiesen
+- TOP 12.12: Berlinweites Meldeportal nutzen - überwiesen
+- TOP 12.13: Geschichte des "Platz des 4. Juli" - überwiesen
+- TOP 12.14: Wohnbebauung statt gefährlichem Öllager am Teltowkanal - überwiesen
+- TOP 12.15: Fußgängerüberweg Beymestraße - überwiesen
+- TOP 12.16: Steuerungsgruppe sichere Schulwege einrichten und Verkehrschaos vor Grundschulen beseitigen - überwiesen
+- TOP 12.17: Zukunft für den Natur- und Erholungsraum Krumme Lanke und Schlachtensee - überwiesen
+- TOP 12.18: Bus 114: Takt verdichten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 13.1: Kranoldmarkt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 14.1: Bürgersteigabsenkung an der Mühlenau-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Familienfreundlicher Bezirk IV: Stadtplanung für Kinder und Jugendliche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: Ein Spielplatz für Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.4: Verkehrsführung Kranoldplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.5: Abgabe von Konsumhilfsmitteln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.6: Informationsveranstaltungen zu neuen Flüchtlingsunterkünften - in der BVV abgelehnt
+- TOP 14.7: Keine Flächenvermietung an Zirkusse mit Wildtieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.8: Hundefreilauf im Paul-Mebes-Park - in der BVV abgelehnt
+- TOP 14.9: Fahrradschnellweg verlängern in Richtung Potsdam - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.10: Ausreichend Schutzräume und Hilfsangebote für von Gewalt betroffene traumatisierte Flüchtlingsfrauen und Kinder schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.11: Gender Budgeting ernst nehmen - in der BVV abgelehnt
+- TOP 14.12: Jugendaustausch mit koreanischer Partnergemeinde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.13: B-Plan S-Bahnhof Kamenzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.14: Nutzung des Platzes des 4. Juli für Fahrschulen sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.15: Bebauungsplan zweiter Ausgang S-Bahnhof Zehlendorf / "Postplatz" / Güterbahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.16: Berliner Rugby-Club (BRC) - Eine Heimat im Bezirk geben. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.17: Barrierefreie Wege im Bereich des Schmidt-Rottluff-Weges - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.18: Erweiterte Fahrradstellflächen am Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.19: Reduzierung der Taxistellplätze am S-Bahnhof Mexikoplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.20: B-Plan für OHH-Gesundheitspark - in der BVV abgelehnt
+- TOP 14.21: Fußgängerüberweg für die Siemensstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.22: Fußgängerüberweg in der Kuhligkshofstraße - in der BVV abgelehnt
+- TOP 14.23: Prüfung Wohnungsbaugenossenschaften für Anhaltinerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
