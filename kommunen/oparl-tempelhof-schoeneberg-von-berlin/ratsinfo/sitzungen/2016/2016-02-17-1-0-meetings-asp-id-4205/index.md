@@ -1,0 +1,95 @@
+# 55. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-02-17T17:00:00+01:00
+- Ende: 2016-02-17T21:45:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4205
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4205
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 3.1: Jahresberichte 2014 beziehungsweise 2015 der Patientenfürsprecher/-innen gem. § 30 des Landeskrankenhausgesetzes und § 40 des Gesetzes für psychisch Kranke - überwiesen
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Inklusion - Umsetzung durch die BVV! - vertagt
+- TOP 6.2: Mehr Qualität in Berliner Kitas - überwiesen
+- TOP 6.3: Nachverdichtungsparadigma noch zeitgemäß? Berlin grün wachsen lassen! - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Illegale Ferienwohnungen - wie bewältigt der Bereich Bürgerdienste und Ordnungsamt seine Aufgaben? - beantwortet
+- TOP 8.2: Harmonie e.V. muss erhalten bleiben! - beantwortet
+- TOP 8.3: Verbleib von Harmonie e.V. in den Räumen in der Katzlerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Widerspruch zum Planfeststellungsbeschluss "Dresdner Bahn" - Zielsetzung auch vor Gericht bekräftigen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Städtebauliche Entwicklung Ortskern Mariendorf - überwiesen
+- TOP 9.3: Vorhandenen Leerstand von Wohn- und Gewerbegebäuden zur Unterbringung von Ob-dachlosen und Flüchtlingen nutzen - überwiesen
+- TOP 9.4: Leerstand von Wohnungen endlich nutzen - überwiesen
+- TOP 9.5: Umbenennung der Monumentenbrücke in "David-Bowie-Brücke" - vertagt
+- TOP 9.6: Viktoria-Luise-Platz - Schmuckplatz ohne Schmuck? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Schutz von Frauen und Kindern in Flüchtlingseinrichtungen verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Glyphosat verbannen - überwiesen
+- TOP 9.9: Dorfteich Marienfelde vor dem Austrocknen bewahren - überwiesen
+- TOP 9.10: Mehr Transparenz bei der Prüfung geeigneter Immobilien für Flüchtlinge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Pilotprojekt: Liegplätze im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Arbeit der Sozialkommissionen öffentlich anerkennen - gegenseitigen Austausch fördern - überwiesen
+- TOP 9.13: Budgetverluste in den Bibliotheken endlich verhindern - funktionierende Zähleinrichtungen für Besuche gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: ReactOS in die Verwaltung - in der BVV zurückgezogen
+- TOP 9.15: Belziger Straße soll Fahrradstraße werden - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Verkehrssicherheit sofort - überwiesen
+- TOP 9.17: Notunterkunft in der Teske Schule erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: LaGeSO-Mindeststandards in der Notunterkunft THF-Hangars fast erreicht? - vertagt
+- TOP 10.2: Wie nutzt der Bezirk seine Partnerschaftsbeziehungen, um die Flüchtlingsproblematik anzugehen? - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Fahrradstellplätze auf der Fahrbahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Jugendliche in der Flüchtlingsfamilienunterbringung im Rathaus Friedenau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Abberufung von Patientenfürsprechern/innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Wahl einer Patientenfürsprecherin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Beschlagnahme von spekulativem Leerstand nach ASOG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Bürgerämter umgehend optimieren - vertagt
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Wahl der Sozialkommissions-/Sondersozialkommissionsmitglieder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Benennung von zwei Stellvertretungen für beratende Mitglieder im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Kein Baustellenverkehr über die Insel: Torgauer Straße aus Richtung Osten wirksam sperren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Aufenthaltsqualität des Bayerischen Platzes verbessern - überwiesen
+- TOP 13.3: Register der anerkannten Träger der freien Jugendhilfe in Tempelhof-Schöneberg erstellen – Transparenz in der Jugendhilfe - überwiesen
+- TOP 13.4: Standort Mobile Bürgerdienste in der Stadtteilbibliothek Marienfelde etablieren - überwiesen
+- TOP 13.5: Jährlicher Bericht zu den Milieuschutzgebieten - überwiesen
+- TOP 13.6: Zahlung nach TV-L Berlin in der Jugendarbeit: Tarifliche Lohnerhöhungen auch bei Freien Trägern berücksichtigen - überwiesen
+- TOP 13.7: Unterstützung des Beschlusses des Landesjugendhilfeausschusses - überwiesen
+- TOP 13.8: Runder Tisch für obdachlose Menschen in Tempelhof-Schöneberg - überwiesen
+- TOP 13.9: Finanzierung der Jugendarbeit und Jugendsozialarbeit sicherstellen - überwiesen
+- TOP 13.10: Angebote der Jugendarbeit und der Jugendsozialarbeit nach dem KJHG - überwiesen
+- TOP 13.11: Aktionswoche: „Alkohol? Weniger ist besser!“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Möglichkeiten einer Benennung nach Hatun Sürücü prüfen - überwiesen
+- TOP 13.13: Unterlagen zur Senioren-BVV endlich zur Verfügung stellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.14: Ausbildungs-Bürgeramt in Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Kontinuität beim Mobilitätsdienst sichern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.16: Welt-Krebstag für Aufklärung nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Gerhard-Hauptmann-Bibliothek im Rathaus Friedenau erhalten - überwiesen
+- TOP 13.18: Entwurf des Bezirkshaushaltsplans - Auflagenbeschlüsse zum Haushaltsplan 2016/ 2017 Hier lfd.-Nr.: 4.6. Kapitel 43 00/ 684 06 (Naturschutzwacht) - überwiesen
+- TOP 13.19: PS-Boliden auch in der Bülowstraße ausbremsen! - überwiesen
+- TOP 13.20: Senior*innenfreizeitstätten vormittags nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.21: Förderung des Landes Berlin für die Friedenauer Gerhart-Hauptmann-Bibliothek zügig in Anspruch nehmen - überwiesen
+- TOP 13.22: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Aufstellung des Bebauungsplans 7-84 für die Grundstücke zwischen Kurfürstenstraße. Potsdamer Straße, Bülow- und Frobenstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg auf der Grundlage von §13 a BauGB als beschleunigtes Verfahren ohne Durchführung einer Umweltprüfung gemäß § 2 Abs. 4 BauGB - überwiesen
+- TOP 13.23: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Einleitung des Verfahrens für eine Gebietserweiterung der Erhaltungsverord-nung § 172 Abs. 1 Nr. 2 BauGB i.V.m. § 30 AGBauGB für die Grundstücke zwischen Grunewald- / Haupt- / Vorberg- und Akazienstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13.24: Änderung des Geltungsbereichs des im Verfahren befindlichen Bebauungsplans 7-68 für eine Teilfläche des Grundstücks Hauptstraße 64, Handjerystraße 98 sowie die Grundstücke Handjerystraße 98A und 99 im Bezirk Tempelhof-Schöneberg, Ortsteil Friedenau - überwiesen
+- TOP 13.25: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Aufstellung des vorhaben-bezogenen Bebauungsplans 7-79 VE für die Grundstücke Lichtenrader Damm 227/241 im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - überwiesen
+- TOP 13.26: Radverkehrsführung auf der Monumentenbrücke bedarfsgerecht gestalten - überwiesen
+- TOP 13.27: Maßnahmenkatalog Gender Mainstreaming im Sport - überwiesen
+- TOP 13.28: Mädchen- und frauengerechte Sportstätten - überwiesen
+- TOP 13.29: Inklusion in Tempelhof-Schöneberg realisieren - überwiesen
+- TOP 13.30: Seh- und hörbehinderte Menschen im Bezirksamt besser unterstützen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.31: W 40 - überwiesen
+- TOP 13.32: Kurzzeitparken an der Wünsdorfer Straße - überwiesen
+- TOP 13.33: Gerhard-Hauptmann-Bibliothek im Rathaus Friedenau erhalten II - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
