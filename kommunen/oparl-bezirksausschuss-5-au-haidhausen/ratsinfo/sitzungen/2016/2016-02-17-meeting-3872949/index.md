@@ -1,0 +1,94 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-02-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3872949
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3872949
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Pflege und Herausstellung eines Gingkobaumes in der Zellstraße am Muffatwerk - <div>nach Antrag</div>
+- TOP .5.: Anträge
+- TOP .1.: Vermehrte Herstellung von Stellplätzen für Lieferfahrzeuge - <div>Zustimmung teilweise</div>
+- TOP .2.: Regerstraße am Südring: Radverkehrsanlage wiederherstellen - <div>nach Antrag</div>
+- TOP .3.: Stolperfalle am Fußüberweg am Ostbahnhof entfernen - <div>nach Antrag</div>
+- TOP .4.: Zebrastreifen am Tassiloplatz - <div>nach Antrag inkl. Ergänzung</div>
+- TOP .5.: Christbaum auf dem Pariser Platz - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Antrag auf Genehmigung/Änderung einer Fahrradabstellfläche vor einem Betrieb für Vermietung, Verkauf oder zum Abstellen vor nach der Reparatur; Oefelestraße 2 - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Anhörungsrecht der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Umgestaltung des Pariser Platzes- Auslobung eines Wettbewerbs - <div>zur Kenntnis genommen</div>
+- TOP .2.: Zaun am Giesinger Feld - <div>zur Kenntnis genommen</div>
+- TOP .3.: Sitzmöglichkeiten vor dem Amt für Wohnen und Migration - <div>erneute Forderung nach Sitzgelegenheiten</div>
+- TOP .4.: Barrierefreier Eingang am Ostbahnhof-Haupteingang - <div>erneuter Antrag der SPD-Fraktion</div>
+- TOP .6.: Raumnot an den Grund- und Realschulen an der Flurstraße und Ernst-Reuter-Straße - <div>zur Kenntnis genommen</div>
+- TOP .7.: Information zum Stand der Baumaßnahme "Schulcontaineranalage an der Flurstraße" - <div>zur Kenntnis genommen</div>
+- TOP .8.: Radlständer an der Haltestelle Schwester Eubulina Platz - <div>zur Kenntnis genommen</div>
+- TOP .9.: Lilienstraße/Lilienberg: Verkehrsplanerische Beurteilung zur Verkehsverteilung - <div>zur Kenntnis genommen</div>
+- TOP .10.: Errichtung einer Leichtbauhalle zur überbrückungsweisen Unterbringung von Flüchtlingen auf einem Grundstück an der Orleansstraße 80 - <div>zur Kenntnis genommen</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB- Anfrage zur Sitzungsvorlage Nr. 14-20/ V 02840 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Baumaßnahmen für die Grundschule an der Flurstraße; Antwortschreiben des RBS vom 13.01.2016 auf die Anfrage der CSU- Fraktion vom 06.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .3.: Entfernung der beschädigten Löwenfigur auf dem Markt am Wiener Platz Anfrage des BA 5 vom 21.10.2015 Antwortschreiben des Kommunalreferates vom 22.01.2016
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Information der Bürgerversammlung über die Ergebnisse der letztjährigen Anträge in geeigneter Weise; BV- Empfehlung Nr. 14-20/ E 00390 der Bürgerversammlung des Stadtbezirkes 5 Au- Haidhausen am 05.03.2015, Sitzungsvorlage Nr. 14-20/ V 03789; Antwortschreiben des Direktoriums an den BA 21 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Vollzug der Wassergesetze; Bachräumungstermine 2016 für die Stadt- bzw. Stadtrandbäche - <div>zur Kenntnis genommen</div>
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Projekt- Laden International Haidhausen, Bitte um Unterstützung - <div>Zustimmung zum Projekt</div>
+- TOP 8.1.: Neuer Kontaktladen off+ in der Balanstraße 34 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Rosenheimer Straße 8, Nutzungsänderung eines Frisörladens zu einer Gaststätte mit gleichzeitiger Verschmelzung mit dem Gastrolokal im EG (TOP B V 2.4 vom 20.01.2016) - <div>nach Antrag</div>
+- TOP 8.2.: Antrag auf Abstellflächen für Fahrräder zum Verleih und/oder für Stadtführungen, Spurwechsel GmbH, Ohlmüllerstraße 5 - <div>abgelehnt</div>
+- TOP 8.1.: "Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14"; Sitzungsvorlagen Nr. 14-20/ V 04733; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Unveränderte Fortführung von Gaststättenbetrieben Schank- Spiesewirtschaft "Metz 7", Metzstraße 7 Bar "R 44", Rosenheimer Straße 44 Kleingaststätte "Gattopardo", Einsteinstraße 127 Konditorei-Cafe "Cafe Glückskind", Seeriederstraße 9 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Nachverdichtung eine Wohnquartiers in Haidhausen/ Modellvorhaben effizient bauen, leistbar wohnen- Vorstellung durch den Architekten
+- TOP 8.2.: Holzhofstraße 6; Anbau eines Aufzugs an ein Wohnhaus - <div>nach Antrag</div>
+- TOP 8.3.: Rosenheimer Straße 5; Abbruch der östlichen Sheddächer, Errichtung einer RWA-Anlage und einer Plakatwand - <div>nach Antrag</div>
+- TOP 8.4.: Falkenstraße 7a; Aufstockung für Büro- und Wohnnutzung sowie Nutzungsänderung (Büro- zu Wohnnutzung) - <div>nach Antrag</div>
+- TOP 8.5.: Kirchenstraße 54; Umbau und Sanierung eines denkmalgeschützten Herbergshauses - <div>nach Antrag</div>
+- TOP 8.6.: Preysingstraße 35; Nutzungsänderung: 2. OG- Büro zu 2 Wohnungen und EG- Wohnung zu Büroeinheit - <div>nach Antrag</div>
+- TOP 8.7.: Rablstraße 35; Ausbau des 2-geschossigen Dachstuhls zu Wohnzwecken, Anbau einer Aufzugsanlage und von Balkonen - <div>nach Antrag</div>
+- TOP 8.1.: Gravelottestraße 6-8, Umbau und Aufstockung eines Pflegeheims; Vorbescheid vom 19.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Wohnungsmarkt München- Expertenbefragung 2015 Sitzungsvorlagen Nr. 14-20/ V 04864, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Erhaltungssatzung "Haidhausen"; Bürgerschreiben vom 25.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Planfeststellung nach dem Personenbeförderungsgesetz für das Vorhaben Straßenbahn-Neubaustrecke "Tram Steinhausen" Tektur b - <div>nach Antrag</div>
+- TOP 8.2.: Erinnerungsverfahren (§6.1 AufgO) Maria-Hilf-Platz Stauraum - <div>nach Antrag</div>
+- TOP 8.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Pariser Straße 12 - <div>nach Antrag</div>
+- TOP 8.4.: Baumfällungen am Ostbahnhof (TOP B I 7.1 vom 20.01.2016) - <div>nach Antrag</div>
+- TOP 8.5.: Baumfällungen in der Seeriederstraße 22-26 (TOP B I 7.1 vom 20.01.2016) - <div>nach Antrag</div>
+- TOP 8.6.: Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept in München Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet; Nachfrage des Kommunalreferates zu den Vorschlägen des BA 5 aus der Sitzung vom 20.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Realisierung einer Fuß-und Radwegbrücke am Giesinger Berg Sitzungsvorlagen Nr. 14-20/ V 04394; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Änderung der Münchner Baumschutzverordnung Empfehlung Nr. 14-20/ E 00411 der Bürgerversammlung des Stadtbezirkes 24- Feldmoching- Hasenbergl am 16.04.2015 Sitzungsvorlage Nr. 14-20/ V 04798; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Information des BA 5 zur aktuellen Verspätungssituation Buslinien148 und 187 email der MVG vom 28.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP 8.1.: Abendforum Strom- Einsparung mit Photovoltaik am 18.02.2016 von 15.30- 17.30 Uhr im Bauzentrum München, Willy- Brandt- Allee 10
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative "Auer/Haidhauser Journal" Herausgabe und Verteilung der Broschüre "Auer/Haidhauser Journal" - <div>vertagt in 03/2016</div>
+- TOP .5.: Barrierefreier Eingang am Ostbahnhof-Haupteingang und barrierefreier Zugang zum Bahnsteigtunnel mit fahrgastrelevanten Einrichtungen - <div>siehe TOP 8.1.4</div>
+- TOP .3.: Entfernung der beschädigten Löwenfigur auf dem Markt am Wiener Platz Anfrage des BA 5 vom 21.10.2015 Antwortschreiben des Kommunalreferates vom 22.01.2016
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
