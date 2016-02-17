@@ -1,0 +1,71 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-02-17T17:49:00+01:00
+- Ende: 2016-02-17T21:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10126
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10126
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00383485.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: AfD-Veranstaltung-Aussagen der Politik
+- TOP 2.2: Klimabelastung durch Dienstreisen der Verwaltung
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Erneuerung der Prinzbrücke - mehrheitlich geändert beschlossen
+- TOP 7.2: Neubau des Bürgerbades an einer neuen Stelle - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 11: Brandschutzbedarfsplan für die Stadt Münster - einstimmig beschlossen
+- TOP 12: Straßen-, Anlagen- und Aaseeordnung - einstimmig geändert beschlossen
+- TOP 13: Anregung des Integrationsrates "Kommunales Wahlrecht für alle Migrantinnen und Migranten in NRW" - von der Tagesordnung abgesetzt
+- TOP 14: Handlungsprogramm 2012 bis 2017 – 4. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 16: Antrag Nr. A-R/0018/2015 der CDU-Fraktion "Wolfgang Borchert Theater nicht noch einmal - von der Tagesordnung abgesetzt
+- TOP 17: Änderung der Hundesteuersatzung der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 18: 3. Nahverkehrsplan Stadt Münster - einstimmig beschlossen
+- TOP 18.1: 3. Nahverkehrsplan Stadt Münster
+- TOP 19: Sonderprogramm des Landes NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" - Projekte der Stadt Münster - mehrheitlich beschlossen
+- TOP 20: Bildungsgang Fachangestellter für Arbeitsmarktdienstleistungen am Hansa-Berufskolleg zum Schuljahr 2016/2017 - einstimmig beschlossen
+- TOP 21: Trägerausschreibung für die Kindertageseinrichtungen an der Malteserstraße (Hiltrup), Bohlweg (Innenstadt) und Josef-Beckmann-Straße (Kinderhaus) - einstimmig beschlossen
+- TOP 22: Erweiterung der Kindertageseinrichtung Heinrich-Piepmeyer-Haus im Bezirk Mitte - einstimmig beschlossen
+- TOP 23: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Willingrott in Handorf - einstimmig beschlossen
+- TOP 24: Wirtschaftsplan 2016/2017 des Theater Münster - einstimmig beschlossen
+- TOP 25: Münster auf dem Weg zur inklusiven Stadt - Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention 1. Bericht über den Stand der Umsetzung - zur Kenntnis genommen
+- TOP 26: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2014 - zur Kenntnis genommen
+- TOP 27: Mobilitätsangebot für Flüchtlinge in Erstaufnahmeeinrichtungen (Notunterkünften) des Landes in Münster - mehrheitlich beschlossen
+- TOP 27.1: Mobilitätsangebot für Flüchtlinge in Erstaufnahmeeinrichtungen (Notunterkünften) des Landes in Münster
+- TOP 28: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Weitere Umsetzung des Flüchtlingskonzepts und neue temporäre Einrichtungen - mehrheitlich beschlossen
+- TOP 28.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Weitere Umsetzung des Flüchtlingskonzepts und neue temporäre Einrichtungen
+- TOP 29: Sachstandsbericht: Weiterer Umgang mit dem Gebäude der Stadthalle Hiltrup - zur Kenntnis genommen
+- TOP 30: Bauleitplanung
+- TOP 30.1: Stadtbezirk Münster-Mitte
+- TOP 30.1.1: Vorhabenbezogener Bebauungsplan Nr. 565: Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 30.2: Stadtbezirk Münster-West
+- TOP 30.2.1: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - von der Tagesordnung abgesetzt
+- TOP 30.3: Stadtbezirk Münster-Südost
+- TOP 30.3.1: Veränderungssperre Nr. 106, Erste Verlängerung - einstimmig beschlossen
+- TOP 31: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 32.1: Münster Cubus - Schnell und nachhaltig bauen - verwiesen
+- TOP 32.2: Prioritäten setzen, Beschäftigte entlasten - verwiesen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Baulandentwicklung beschleunigen - Wohnraum schnell schaffen - verwiesen
+- TOP 33.2: Für mehr Lebensqualität: ÖPNV stärken und Attraktivität emmissionsfreier Fortbewegung erhöhen! - verwiesen
+- TOP 33.3: Geflüchteten eine Stimme geben - verwiesen
+- TOP 33.4: Rasche und dauerhafte Integration von Geflüchteten in den Arbeitsmarkt befördern - Kooperation zwischen Arbeitsagentur - verwiesen
+- TOP 33.5: Bereitstellung einer Immobilie, die den fachlichen, konzeptionellen und finanzierbaren Anforderungen des Vereins „Frauenhaus und Beratung e.V.“ entspricht - verwiesen
+- TOP 33.6: Neue Räume für ein Frauenhaus – Schutz und Hilfe für gewaltbetroffene Frauen und Kinder in unterschiedlichen Familien- und Lebenskonstellationen - verwiesen
+- TOP 34: Verschiedenes
