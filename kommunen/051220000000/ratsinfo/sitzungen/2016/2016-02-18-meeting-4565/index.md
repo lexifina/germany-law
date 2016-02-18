@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-02-18T17:00:00+01:00
+- Ende: 2016-02-18T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfWLPu7mWFaQ3TItj7wOvBY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4565
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXA4vkRkGYazNkhzIEb70l5rbWe83TxCGUvu8FSZ21fz/Oeffentliche_Niederschrift_Rat_18.02.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Vorschlag für eine En-bloc-Abstimmung
+- TOP 5: Wiederwahl des Beigeordneten Ralf Weeke unter erneuter Bestellung zum Stadtkämmerer
+- TOP 6: Altenzentren der Stadt Solingen gGmbH
+- TOP 7: Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 8: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 9: Wasserversorgungsverband Rhein-Wupper
+- TOP 10: Städtisches Klinikum Solingen gGmbH
+- TOP 11: Kommunale Arbeitsgemeinschaft Bergisch Land e.V. (KAG)
+- TOP 12: Kommunale Arbeitsgemeinschaft Bergisch Land e.V. (KAG)
+- TOP 13: Stadt-Sparkasse Solingen
+- TOP 14: Kuratorium "Die Schärfste Klinge"
+- TOP 15: Kuratorium "Die Schärfste Klinge"
+- TOP 16: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 17: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 18: Besetzung des Verwaltungsausschusses der Agentur für Arbeit Solingen-Wuppertal
+- TOP 19: Vertretung der Stadt Solingen
+- TOP 20: Zentrum für verfolgte Künste GmbH
+- TOP 21: Umbesetzung von Ausschüssen und Gremien
+- TOP 22: Umbesetzung von Ausschüssen und Gremien
+- TOP 23: Auswertung "Bürgerbeteiligung light" zum Haushalt 2016
+- TOP 24: Etatberatungen für das Haushaltsjahr 2016 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2019 und des Haushaltssanierungsplanes 2016 ff.
+- TOP 25: Etatberatungen für das Haushaltsjahr 2016 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2019 und des Haushaltssanierungsplanes 2016 ff.
+- TOP 26: Resolution an den Präsidenten des Bundesrates und die Ministerpräsidenten der Länder
+- TOP 27: Sonderprogramm des Landes Nordrhein-Westfalen - „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen“
+- TOP 28: Bürgerbeteiligungskonzept
+- TOP 29: Kriterien zur Auswahl der Lenkungsgruppe Bürgerbeteiligung
+- TOP 30: Beteiligungsbericht 2014 der Stadt Solingen
+- TOP 31: Bauleitplanung Katternberger Straße/ Grundstraße
+- TOP 32: Bauleitplanung Löhdorfer Straße/ Montanushof
+- TOP 33: Bauleitplanung Spielbruch
+- TOP 34: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 35: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 36: Verschiedenes
+- TOP 37: Spar- und Bauverein - Wohnungen für Flüchtlinge
+- TOP 38: Rats-App
+- TOP 39: Entwicklungen im Bereich der Wasserstoff- und Brennstoffzellentechnologie
+- TOP 40: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 4. Quartal 2015
+- TOP 41: Geschäftskreise der Ressortleitungen der Klingenstadt Solingen
+- TOP 42: Vertretungsregelung für den Oberbürgermeister
+- TOP 43: Resolution "Sofortige Stilllegung der Atomkraftwerke Tihange und Doel in Belgien"
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 GO NRW
+- TOP 4: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SW SG)
+- TOP 5: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SW SG)
+- TOP 6: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SW SG)
+- TOP 7: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 8: Verschiedenes
