@@ -1,0 +1,51 @@
+# Gemeinderat (16. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2016-02-18T18:05:00+01:00
+- Ende: 2016-02-18T21:40:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZflUUM0uocUMtuOIjLBLWyo
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1525
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUcaG5-m8YYMuL6rMBDGHmFcvWjOHP65rqM2IZYNBNOm/Bekanntmachung_Gemeinderat_18.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZG4hUmxcj_kj_X9KHnUYkqqB_mZSo97KY0RLFkWYsq0/Oeffentliche_Niederschrift_Gemeinderat_18.02.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.12.2015 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 3.1: Prüfung des Gesamtabschlusses für das Jahr 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Entlastung des Bürgermeisters für den Gesamtabschluss des Jahres 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 4.1: Anregung der Republikaner NRW auf Verbot von Burka und Nikab in öffentlichen Gebäuden und auf öffentlichen Plätzen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Satzungen, Ortsrecht
+- TOP 5.1: Änderung der Vergnügungssteuersatzung - 15 Ja-Stimme(n), 9 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Verleihung der Feuerwehr-Ehrennadel der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Öffentlich-rechtliche Vereinbarung mit der Stadt Linnich über die Unterbringung von Asylbewerbern - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 8.2: Friedhofwesen; Auslastung der Leichenhallen - Zur Kenntnis genommen
+- TOP 8.3: Sachstandsbericht zur Beschaffung eines neuen Feuerwehrfahrzeuges - Zur Kenntnis genommen
+- TOP 9.: Anträge von Fraktionen
+- TOP 9.1: Antrag der CDU-Fraktion hier: Bürgerbus in der Gemeinde Aldenhoven
+- TOP 10.: Beschluss des Haushaltes 2016 und Fortschreibung des Sanierungsplans - 22 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.12.2015 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Auflösung des Vereins ZAR e.V. - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Verpachtung einer gemeindeeigenen Fläche - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Übertragung einer Parzelle - Zur Kenntnis genommen
+- TOP 4.: Umsetzung des Sportstättenkonzeptes - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Förderantrag der Städtebauförderung - 17 Ja-Stimme(n), 1 Nein-Stimme(n), 6 Stimmenthaltung(en)
+- TOP 6.: Unterbringung von Asylbewerbern - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
