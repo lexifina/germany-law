@@ -1,0 +1,96 @@
+# 53. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2016-02-18T17:00:00+01:00
+- Ende: 2016-02-18T19:25:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3466
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3466
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=124681
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Immer noch Ärger mit dem Bürgerservice - aller Erklärungen von Stadtrat Dr. Prüfer zum Trotz. Was ist los in den Bürgerämtern und wurde die BVV richtig informiert? - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Zur Fußverkehrsstrategie für Berlin - Programm "Barrierefreie öffentliche Räume" - beantwortet
+- TOP 8.2: Fahrtkostenerstattung zum Sportunterricht - beantwortet
+- TOP 8.3: Verkehrssicherheit am Kreuzungspunkt Konrad-Wolf-Straße/Altenhofer Straße - beantwortet
+- TOP 8.4: Stellungnahme des Rechtsamtes zur DS/1817/VII - zurückgezogen
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Einzelhandelsstandort Falkenberger Chaussee 95 sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sporthallen für Jugendfreizeiteinrichtungen öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Umsetzung des "Sportfestes für Demokratie und Toleranz" - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Praktischere Flüchtlingshilfe und Forderungen an den Senat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Ausreichend Sprach- und Integrationskurse für Geflüchtete sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Barrierefreiheit auf Gehwegen in 10319 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Sicherheit für Radfahrende an der Kreuzung Buchberger/Schulze-Boysen-Straße/Wiesenweg erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Schaffung von Analphabeten-Kursen zur Verbesserung der Sprachlernfähigkeit für Menschen im Bezirk Lichtenberg - überwiesen
+- TOP 9.9: Familienfest Bunte Platte - überwiesen
+- TOP 9.10: Sicherheit für die Überquerung schaffen - Haltelinie zwischen E-Center und Tramhaltestelle - überwiesen
+- TOP 9.11: Vorhandene Sportfläche in Höhe der Hohenschönhauser Straße 76 wieder nutzbar machen - überwiesen
+- TOP 9.12: Überlassung des Gebäudes der Carl-von-Linnè Schule für die Berlin Bilingual School - überwiesen
+- TOP 9.13: Gedenkstätte Hohenschönhausen erkennbarer machen - überwiesen
+- TOP 9.14: Mehr Sicherheit an den Haltestellenkaps in der Konrad-Wolf-Straße - überwiesen
+- TOP 9.15: Umsteigen am S-Bahnhof Friedrichsfelde-Ost verbessern - überwiesen
+- TOP 9.16: Stellplatz für mobilitätseingeschränkte Personen an der Zufahrt zum Lindencenter schaffen - überwiesen
+- TOP 9.17: Verbesserung des Radverkehrs in der Frankfurter Allee - überwiesen
+- TOP 9.18: Produktkatalog für den Kulturbereich reformieren - überwiesen
+- TOP 9.19: Gesetzliche Pflichtleistungen nach dem Asylbewerberleistungsgesetz auch ausreichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Anbau oder Modularer Ergänzungsbau (MEB) an der Herrmann-Gmeiner-Grundschule - überwiesen
+- TOP 9.21: Einwohnerversammlung zur Entwicklung im Bereich Schule und Sport in Karlshorst - überwiesen
+- TOP 9.22: Projekt "Die bewegte Schulpause" auch an Lichtenberger Grundschulen - überwiesen
+- TOP 9.23: Überschaubare Radfahrmöglichkeit im Gebiet zwischen Hochhaus an der Sewanstraße und U-Bahnhof Tierpark - überwiesen
+- TOP 9.24: Gehwegsanierung Nöldnerstraße in Höhe der Bahnbrücke - überwiesen
+- TOP 9.25: Besser auf barrierefreie Umsteigemöglichkeiten in Bussen hinweisen - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Bordsteinkanten auf Fahrbahnmittelstreifen farblich markieren - überwiesen
+- TOP 9.27: Doppelstockfahrradständer an stark frequentierte S- und U-Bahnhöfe in Lichtenberg - überwiesen
+- TOP 9.28: Hundeauslaufgebiet Hönower Weg für Rollstuhlfahrer_innen nutzbar machen - überwiesen
+- TOP 9.29: Fahrverbot für Fahrgastschiffe und Ankerverbot im Rummelsburger See - überwiesen
+- TOP 9.30: Unterkunft für LSBT-Flüchtlinge im Bezirk einrichten - überwiesen
+- TOP 9.31: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses für die VII. Wahlperiode - gewählt
+- TOP 9.32: Allgemeine Kostensteigerungen bei Zuwendungsempfängern Bezug: DS/1690/VII - Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.33: Vergabe von Bauaufträgen mit Realisierungszeitvorgabe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: Nicht mehr Verlaufen zur Stasi-Gedenkstätte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.35: Funktionsstatus von Fahrstühlen und Rolltreppen der BVG und der S-Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Umweltlehrpfade in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.37: 10 Minuten Takt für Bus 154 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.38: Inklusionsgerechte Anordnung von Fahrradständern bei Einzelhandelseinrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.39: Fußweg am S-Bahnhof Hohenschönhausen beleuchten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Neues Hundegesetz - Sauberkeit durch mehr Abfallbehälter erreichen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.41: Öffentliche Wasserpumpen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.42: ÖPNV-Entlastung im Nordosten schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.43: Entwicklung der Wirtschaftsverkehre in der Vulkanstraße berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.44: Rattenbekämpfung am Anton-Saefkow-Platz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.45: Sicherheit für Fußgänger/innen und Fahrradfahrer/innen am U-Bahnhof Frankfurter Allee/Ecke Gürtelstraße erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.46: BVV-Sondermittel für Ausstellung in Hohenschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.47: Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.48: Kletternetz Große-Leege-Straße wieder anbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.49: Sondermittel für Allgemeiner Blinden- und Sehbehindertenverein Berlin gegr. 1874 e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.50: Bebauungsplan XVII-4 - Beschluss zur öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB Arbeitstitel: "Ostkreuz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - erledigt
+- TOP 12: Große Anfragen - erledigt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Barrierefreie Start- und Zielhaltestelle der Buslinie 396 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Rahmenkonzept zum Ehrenamtsfonds Bezug: DS/1690/VII - Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: 10. Deutsch-Russische Festtage - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Am 10. März Flagge zeigen für Tibet - in der BVV abgelehnt
+- TOP 14.2: Unterstützung der "Lichtenberger Inklusionswoche" - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Beschlussfassung - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bayerische Straßennamen für die entstehende Gartenstadt Karlshorst Bezug: DS/0185/VII - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Kulturentwicklungsplan fortschreiben - zurückgezogen
+- TOP 16.3: Zentraler Busbahnhof und Fernbusstationen nach Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Einbau einer öffentlichen Toilette im Bereich des Bahnhofsvorplatzes Lichtenberg in der Weitlingstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17: Schließung der Sitzung - erledigt
