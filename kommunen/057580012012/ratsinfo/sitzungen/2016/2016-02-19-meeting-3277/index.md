@@ -1,0 +1,54 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2016-02-19T16:00:00+01:00
+- Ende: 2016-02-19T20:30:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfDUKjoF_XJeoJfea2Qlue0
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3277
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUbM0nCfgsWAtuAAYfJmLA2kuoEnuyTymNzk96k8RvXS/Einladung_Rat_19.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXsgqR-Q4OzE6ucF9mWEjyJh2E0A8ounmPglfiU6Fv0Y/Oeffentliche_Niederschrift_Rat_19.02.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 11.12.2015
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.6: Prüfung und Feststellung des Jahresabschlusses 2014, Ergebnisausgleich und Entlastung des Bürgermeisters - (kein Text vorhanden)
+- TOP A.7: 4. Situationsbericht zur Haushaltswirtschaft 2015 - (kein Text vorhanden)
+- TOP A.8: Entwurf der Haushaltssatzung 2016 sowie mittelfristige Ergebnis- und Finanzplanung 2015 - 2019 hier: Einbringung des Entwurfs der Haushaltssatzung 2016 mit ihren Anlagen - (kein Text vorhanden)
+- TOP A.9: Stellenplan für das Haushaltsjahr 2016 - (kein Text vorhanden)
+- TOP A.10: Steuerung von Drittorganisationen:
+- TOP A.10a: Änderung des Wirtschaftsplans IAB aufgrund von Umzug der Ordnungsabteilung sowie der Ausländerbehörde in das Rathaus - (kein Text vorhanden)
+- TOP A.10b: Drittorganisation - Umbesetzungen in Gremien der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.10c: Spenden und Sponsoringmaßnahmen durch städtische Unternehmen in privater Rechtsform - (kein Text vorhanden)
+- TOP A.11: Verhaltensregeln für die Mitglieder des Rates der Hansestadt Herford
+- TOP A.11: Verhaltensregeln für die Mitglieder des Rates der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.12: Vorzeitige Mittelfreigabe für die Vorbereitung von Umzügen verschiedener Abteilungen der Verwaltung in die Verwaltungsgebäude Elsbach 2 und Rathaus - (kein Text vorhanden)
+- TOP A.13: Innovatives ÖPNV-Konzept für die Hansestadt Herford Neuordnung der Rendezvous-Bushaltestelle Alter Markt im Bereich Rennstraße und Tribenstraße mit städtebaulicher Teilumgestaltung dieses Bereichs Erweiterung des Zentralen Omnibusbahnhofes auf 20 Halteplätze Umgestaltung des Knotenpunkts Auf der Freiheit / Wittekindstraße / Bahnhofstraße / Niederstraße zu einem Kreisverkehr
+- TOP A.13: Beschlussantrag der Fraktionen CDU und B90/DIE GRÜNEN (eingegangen am 08.02.16)
+- TOP A.14: Projekt "Markthalle" - (kein Text vorhanden)
+- TOP A.15: B-Plan Nr. 4.63 "Brüderstraße / Klosterstraße" hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.16: Bebauungsplan Nr. 6.25a "Robbenkleve", Änderung Nr. 6.15 hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.17: Sonderprogramm des Landes Nordrhein-Westfalen „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen“ - (kein Text vorhanden)
+- TOP A.18: Antrag der CDU-Fraktion zur Aufnahme des Tagesordnungspunktes A.6 des BauUA vom 21.01.16 zu den Parkplätzen Neuer Markt bezüglich der Vorlage BA/82/2015 (eingereicht am 22.01.16)
+- TOP A.18a: Beschlussantrag der SPD (eingegangen am 18.02.16)
+- TOP A.18a: Freiraumplanerischer Realisierungswettbewerb Neuer Markt hier: Formulierung der Rahmenbedingungen für die Ausschreibung - (kein Text vorhanden)
+- TOP A.19: Orte des Gemeinsamen Lernens in der Sekundarstufe I - (kein Text vorhanden)
+- TOP A.20: Schulentwicklungsplanung; hier: Aufstellungsbeschluss für die Sekundarstufen I und II
+- TOP A.20: Schulentwicklungsplanung; hier: Aufstellungsbeschluss für die Sekundarstufen I und II - (kein Text vorhanden)
+- TOP A.21: Antrag der SPD-Fraktion zum Schulentwicklungsplan (eingereicht am 12.01.16) - (kein Text vorhanden)
+- TOP A.22: Eine Gesellschaft für alle - Herford inklusiv - Teilhabeplanung der Stadt Herford - (kein Text vorhanden)
+- TOP A.23: Herford in der Hanse: Strategische Neuausrichtung und künftige Aktivitäten - (kein Text vorhanden)
+- TOP A.24: Gremienbesetzungen:
+- TOP A.24a: Wahl eines neuen stellvertretenden, stimmberechtigten Mitglied der Jugendverbände für den Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP A.24b: Wahl eines Vertreters des neuen Jugendamtselternbeirates als beratendes Mitglied für den Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP A.24c: Antrag auf Umbesetzung der personellen Vertretung für DIE LINKE im Sozialausschuss, im Sportausschuss, und im Verkehrsausschuss (am 28.01.16 eingegangen) - (kein Text vorhanden)
+- TOP A.25: Antrag der Fraktion DIE LINKE zur Städtekoalition gegen Rassismus (eingegangen am 04.02.16) - (kein Text vorhanden)
+- TOP A.25: Stellungnahme der Verwaltung zum Antrag A.25
