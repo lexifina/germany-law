@@ -1,0 +1,56 @@
+# Hauptausschuss (38. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-02-22T18:00:00+01:00
+- Ende: 2016-02-22T20:05:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcBJNhMbYN3ZYjTdlDuH-44
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6491
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUSGxwfkm4CFlSY0QYsk8e_xM4My3omWl_dqzyUBw-e2/Bekanntmachung_Hauptausschuss_22.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdPJt-N1m7plvd4gKAtwpIzqbiomami3lT1Jv9xphS2U/Oeffentliche_Niederschrift_Hauptausschuss_22.02.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 25.01.2016
+- TOP 2.: Sonderprogramm des Landes NRW „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen Programmantrag: Bau eines Integrationszentrums für Brühl – Ost, - (kein Text vorhanden)
+- TOP 3.: Flüchtlingsunterbringung: außerplanmäßige Ausgabe für die Errichtung eines Containerdorfes an der Willy-Brandt-Straße
+- TOP 3.1: Errichtung eines Containerdorfes Bezug: Anfrage der FDP-Fraktion vom 18.02.2016
+- TOP 3.2: Einrichtung eines Containerdorfes - Anfrage der FDP-Fraktion - (kein Text vorhanden)
+- TOP 4.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 4.1: Anregung gemäß § 24 Gemeindeordnung Nordrhein-Westfalen; hier: Anregung Verbot von Burka und Nikab in öffentlichen Gebäuden und auf öffentlichen Plätzen Bezug: Antrag des Landesvorsitzenden der Partei „Die Republikaner“ vom 21.01.2016 - (kein Text vorhanden)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Rathaus B Steinweg hier: Herbeiführung eines Ratsbürgerentscheids Bezug: RAT 14.12.2015
+- TOP 5.1: Ratsbürgerentscheid Bezug: Antrag der FDP-Fraktion vom 19.02.2016 - (kein Text vorhanden)
+- TOP 6.: Stellenplan 2016 - (kein Text vorhanden)
+- TOP 7.: Wirtschaftsplan der Stadtwerke Brühl GmbH für das Jahr 2016 - (kein Text vorhanden)
+- TOP 8.: Benennung von zwei Mitgliedern / zwei stellvertretenden Mitgliedern für den Aufsichtsrat der Wirtschaftsfördrung Rhein-Erft GmbH (WfG) - (kein Text vorhanden)
+- TOP 9.: Mitteilungen
+- TOP 9.1: Baustelle Otto-Wels-Straße/Pingsdorfer Straße
+- TOP 10.: Anfragen
+- TOP 10.1: Sachstand Thüringer Platz
+- TOP 10.2: Bundesförderprogramm Sport, Jugend und Kultur des Bundesministerium
+- TOP 10.3: Wortwahl im letzten Hauptausschuss anlässlich der Berechnung der Erbpachtzinsen
+- TOP 10.4: Unterführung Balthasar-Neumann-Platz
+- TOP 10.5: Fahrraddiebstahl am Max-Ernst-Gymnasium
+- TOP 10.6: Neue Lärmimmissionsschutz-Richtlinie für die Kommunen
+- TOP B): Nichtöffentliche Sitzung
+- TOP 11.: Wirtschaftsplan der Stadtwerke Brühl GmbH für das Jahr 2016 - (kein Text vorhanden)
+- TOP 12.: Struktur der Flüchtlingsarbeit in der Verwaltung hier: Antrag der CDU-Fraktion vom 12.1.2016
+- TOP 12.1: Organisation Flüchtlingsarbeit - (kein Text vorhanden)
+- TOP 13.: Bewährungszeiten für Beförderungen für die Beamtinnen und Beamten der Stadt Brühl
+- TOP 14.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 15.: Beförderung eines Mitarbeiters - (kein Text vorhanden)
+- TOP 16.: Beförderung einer Mitarbeiterin - (kein Text vorhanden)
+- TOP 17.: Beförderung eines Mitarbeiters - (kein Text vorhanden)
+- TOP 18.: Nachtrag - Stellenplan 2016 - (kein Text vorhanden)
+- TOP 19.: Vereinbarung mit der WEPAG Veranstaltungs-GmbH & Co.KG über die Durchführung von Veranstaltungen
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen
+- TOP 21.1: Las Vegas Cafe
+- TOP 21.2: Wassereinbruch in der Parkgarage am Balthasar-Neumann-Platz
+- TOP 21.3: Wortwahl im letzten Hauptausschuss anlässlich der Berechnung der Erbpachtzinsen
+- TOP 21.4: Sicherheitslage an den Flüchtlingsunterkünften
