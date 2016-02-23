@@ -1,0 +1,68 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-02-23T16:00:00+01:00
+- Ende: 2016-02-23T18:20:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260184.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260184.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260184.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 10 gemäß § 22 Geschäftsordnung des Rates, für bis zum 09.02.2016 eingegangene Fragen
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretungen 1-10, energieeffiziente Straßenbeleuchtung - Gasbeleuchtung, vom 09.11.2015
+- TOP 5: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 6: Berichte und Verwaltungsvorlagen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Verfügungsmittel der Bezirksvertretung 10
+- TOP 6.5: Ausführung und Finanzierung des Projektes Umbau Bürgerwiese Garath
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Repräsentationsfonds des Bezirksbürgermeisters
+- TOP 7: Anfragen
+- TOP 7.1: Umstellung der Kabinenbeleuchtung und des Außengeländes des GSV auf LED
+- TOP 7.2: Wohnungsleerstand im Stadtbezirk 10
+- TOP 7.3: Fußgängerinsel Frankfurter Straße/Carl-Friedrich-Goerdeler-Straße
+- TOP 7.4: Rückkehrer ins Förderschulsystem
+- TOP 7.5: Hundeauslauffläche / Spiel-und Liegewiese in Garath-Nordost im Bereich Wittenberger Weg / Schwarzer
+- TOP 7.6: Einrichtung von internationalen Förderklassen im Stadtbezirk Düsseldorf- Garath und Hellerhof sowie
+- TOP 7.7: Planung von Mehrgenerationenhäusern und seniorengerechte Wohnungen, durch die Wohnungsbaugenossensch
+- TOP 7.8: Information / Einbindung der BV 10 bei Standortprüfungen / -festlegungen der Flüchtlingsunter
+- TOP 8: Anträge
+- TOP 8.1: Vorstellung der polizeilichen Statistik 2015 der PI Süd
+- TOP 8.2: Ständig defekter Aufzug am S-Bahnhof Garath
+- TOP 8.3: Einführung eines Bürger*innenhaushalts
+- TOP 8.4: Pläne der Fachverwaltung für den Bau zusätzlicher Flüchtlingsunterkünfte im Stadtbezirk
+- TOP 8.5: Beleuchtung Parkplatz gegenüber der Bezirksverwaltung
+- TOP 8.6: Einladung des Polizeipräsidenten (oder einer anderen zuständigen Person) zur Berichterstattung über
+- TOP 8.7: Einrichtung eines Dienstleistungsbüros für Senioren im Stadtteil Düsseldorf- Garath und Hellerhof
+- TOP 8.8: Künftige Versorgung des Stadtbezirks mit Pflegeheimplätzen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Emil-Barth-Straße und Stralsunder Straße in D-Garath
+- TOP 9.2: Einsatz der Geschwindigkeitsanzeigetafel im Stadtbezirk 10 im Jahre 2015
+- TOP 9.3: Entfernung Müll aus dem Grünbereich Parkplatz Koblenzer Straße am S-Bahnhof und Unterbindung dauerha
+- TOP 9.4: Baumfällungen in Garath südlich der Heinrich-Lersch-Straße
+- TOP 9.5: Gefahrenstelle Fahrbahn Koblenzer Straße Garath-Südwest unter der Eisenbahnbrücke Richtung Frankfurt
+- TOP 9.6: Geplantes Projekt "Die Garather Schultüte" in Düsseldorf-Garath
+- TOP 9.7: Planung von Mehrgenerationenhäusern und seniorengerechte Wohnungen, durch die Wohnungsbaugenossensch
+- TOP 9.8: Wohnungsleerstand im Stadtbezirk 10
+- TOP 9.9: Sicherstellung der Nahversorgung im Nebenzentrum Garath Südwest
+- TOP 9.10: Künftige Versorgung des Stadtbezirkes Garath/Hellerhof mit Pflegeheimplätzen
+- TOP 9.11: Leere Baumscheibe im Nebenzentrum Garath Nordwest
+- TOP 9.12: Raumnutzung der städt. Montessori-Grundschule und des Herrmann-Harry-Schmitz-Weiterbildungskollegs
+- TOP 9.13: Fußgängerinsel Frankfurter Straße/Carl-Friedrich-Goerdeler-Straße
+- TOP 9.14: Parkplätze im Bereich der Einfamilienhäuser Bebauung Rostocker Straße (Garath Nordost)
+- TOP 9.15: Instandsetzung/Verschönerung der Fassade an der Westseite des S-Bahnhofes Garath
+- TOP 9.16: Wiedereröffnung des Bahnhofskioskes
+- TOP 9.17: Umstellung der Kabinenbeleuchtung und des Außengeländes des GSV auf LED
+- TOP 9.18: Schulbaumaßnahmen
+- TOP 9.19: Instandsetzung taktile Leitsysteme Emil-Barth-Straße
