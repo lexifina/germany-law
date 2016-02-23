@@ -1,0 +1,121 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-02-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3774436
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3774436
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Einwohnerversammlung für Kinder und Jugendliche im 2. Stadtbezirk vom 19.11.2015; Anträge; Vertagung aus 2016.01 TOP A 1.1 a-2) a) Verbesserte Spielmöglichkeiten rund ums KuBu, Am Glockenbach b) Schulwegsicherheit im 2. Stadtbezirk
+- TOP .2.: Sicherung des Diversity Jugendzentrums, Vertagung aus 2016.01 TOP A 1.2
+- TOP .1.: Spielaktionen in öffentlichen Grünanlagen - für BA 2: Nussbaumpark, Anhörung vom 02.02.2016
+- TOP .2.: Bildungsoffensive 4.Akt; BA-Antrag des BA 13 Bogenhausen aus der Sitzung vom 12.01.2016 Der BA 13 bittet die Bezirksausschüsse um Prüfung, ob Schulen im eigenen Bezirk mit ähnlichen Problemstellungen konfrontiert sind
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .5.: Toilette am Gärtnerplatz, Ortstermin 16.02.2016 um 7.30 Uhr mit allen Beteiligten
+- TOP .6.: Pilotprojekt Urban-Farming Gemeinschaftsgewächshaus im BA 2 - Drei Anträge von "YouSocial", vgl. E-Mail vom 04.02.2016
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Holzstraße 5, Anbau dreier Balkone am Nebengebäude (1. - 3. OG), Vertagung aus 2016.01, vgl. TOP B 3.1.12
+- TOP .2.: Maistraße 30, Ausbau Dachgeschoss, Anbau eines Außenaufzugs, Sanierung Fassade WDVS mit Balkonen und Nutzungsänderung im UG - OG von Gewerbe in Wohnen, Vertagung aus 2016.01, vgl. TOP B 3.1.13
+- TOP .3.: Goethestraße 74, Nutzungsänderung: Büros zu Sportwetten-Bereich (EG) und Wohnung (ZG) - TEKTUR, Vertagung aus 2016.01, vgl. TOP B 3.1.14 (N)
+- TOP .4.: Arndtstraße 2, Neubau eines Mehrfamilienhauses mit Tiefgarage - TEKTUR
+- TOP .5.: Landwehrstr. 32 b, Nutzungsänderung eines Lagergebäudes mit Verwaltung in ein Boardinghouse mit drei Einheiten
+- TOP .6.: Ringseisstraße 4 /RGB, Dacherneuerung, DG-Ausbau, Zusammenlegung zweier Wohnungen, Einbau von Dachgauben
+- TOP .7.: Landwehrstraße 24, Umbau und Nutzungsänderung: Laden zu Shishabar
+- TOP .8.: Dreimühlenstraße 31, Nutzungsänderung von Stehausschank zu Wohnung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Bayerstraße 28, Baumfällungsantrag vom 14.01.2016 einer Kastanie
+- TOP .2.: Bayerstraße 16, Baumfällungsantrag vom 14.01.2016 einer Thuja
+- TOP .3.: Bob-van-Benthem-Platz 1, Baumfällungsantrag vom 21.01.2016 von vier Robinien
+- TOP .4.: Thalkirchner Straße 31-33, Baumfällungsantrag vom 29.01.2016 einer Linde
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Auslauf der Erhaltungssatzung "Gärtnerplatzviertel" - Entwurf der Beschlussvorlage vom Referat für Stadtplanung und Bauordnung vom 04.02.2016
+- TOP .1.: Planung des St. Pauls-Platzes, Vorstellung des Baureferates und weiteres Vorgehen in der Plenumssitzung am 23.02.2016, vgl. TOP 2016.01 B 5.1
+- TOP .1.: Mülleimer Theresienwiese; Umrüstung der Mülleimer entlang der Theresienwiese in eine vogelsichere Variante
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 3.1.: Festumzug, Eröffnung 52. Frühlingsfest auf der Theresienwiese am 15.04.2016
+- TOP 3.2.: Theresienwiese, BRK Flohmarkt am 16.04.2016
+- TOP 3.3.: Theresienwiese, 52. Münchner Frühlingsfest am 15.04. - 01.05.2016 mit "Firetage - Festival - 150 Jahre Freiwillige Feuerwehr" Teil 1, 2 und 3
+- TOP 3.3.2: Verkehr
+- TOP 3.1.: Bavariaring 20 bis 48; Radwegsanierung
+- TOP 3.2.: Kapuzinerstraße zwischen Tumblingerstraße und Thalkirchner Straße; Radwegsanierung
+- TOP 3.3.: Lindwurmstraße zwischen Implerstraße und Sendlinger-Tor-Platz; Teilflächensanierung in Radweg und Gehbahn
+- TOP 3.4.: Hans-Fischer-Straße; Radwegsanierung
+- TOP 3.5.: Wittelsbacherstraße 16 - 20 zwischen Auenstraße und Baldeplatz; Sanierung der Gehbahn und Instandsetzung der Fahrbahndecke mit Bushaltestellenbereich
+- TOP 3.6.: Rothmundstraße 2 - 8; Fahrbahn zwischen Lindwurmstraße und Maistraße, Sanierung der Gehbahn und Fahrbahn wegen Verdrückungen
+- TOP 3.7.: Isartalstraße 26 - 44a, Fahrbahn ab Röcklplatz bis Anschluß Lagerhausstraße (Bahnbrücke), Sanierung der Fahrbahndecke wegen Verdrückungen
+- TOP 3.8.: Plangenehmigung nach dem Personenbeförderungsgesetz für das Vorhaben Haltestellenverlängerung Karlsplatz (Stachus) in der Bayerstraße für den Einsatz von Langfahrzeugen (48m); Anhörungsverfahren (Termin 24.02.2016)
+- TOP 3.9.: Reisingerstraße 5-23, Maistraße Ecke Rothmundstraße und Fauenlobstraße (Punktuel), Fahrbahnsanierung
+- TOP 3.10.: Landwehrstraße, Einmündungsbereich Schillerstraße, Fahrbahnsanierung
+- TOP 3.11.: Anfahrts-/Ladezone in der Auenstraße, Anhörung zu verkehrsrechtlicher Anordnung
+- TOP 3.12.: Zweibrückenstraße zwischen Tal und Steinsdorfstraße; Radwegsanierung
+- TOP 3.1.: Begrünungsplan BA2
+- TOP 3.2.: Streetwork am Bahnhofsplatz; Information der Teestube "komm" im UA ÖRM
+- TOP 3.3.: Bürgeranliegen: Graffiti S-Bahnunterführung Tumblingerstraße, Vertagung in den UA ÖRM, vgl. TOP 2016.01 C 5.4
+- TOP 3.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 3.1.: Anhörungsrecht der Bezirksausschüsse bezüglich der örtlichen Lage der Wahllokale; Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 3.2: Termine
+- TOP 3.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 14.03.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 15.03.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 16.03.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 21.03.2016 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 05.04.2016 um 19 Uhr im Saal in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3.&nbsp;: Unterrichtungen
+- TOP 3.1.: BA-Budget: Bescheide
+- TOP 3.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 3.3.: Thalkirchner Straße 108 und 110; Sachstandsmitteilung zu den Objekten, E-Mail von den Markthallen München vom 27.01.2016
+- TOP 3.4.: Ergebnisprotokoll des Gesprächs "Toilettenlösung für den Gärtnerplatz" des Baureferates vom 01.02.2016
+- TOP 3.5.: Referat für Bildung und Sport, Baureferat, Referat für Stadtplanung und Bauordnung, Stadtkämmerei, Kreisverwaltungsreferat, Beschluss Schulbauoffensive 2013-2030, Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwaltungsausschuss des Stadtrates vom 18.02.2016 (VB), Sitzungsvorlage Nr. 14-20 / V 05131
+- TOP 3.6.: Bekanntgabe im Bildungsausschuss des Stadtrates am 18.02.2016, Schüler/innen- und Klassenstand im Schuljahr 2015/2016 an den - öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten, Sitzungsvorlage Nr. 14-20 / V 04946 - städtischen Realschulen, staatlichen Realschulen, städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule, Sitzungsvorlage Nr. 14-20 / V 04883 - städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges, Sitzungsvorlage Nr. 14-20 / V 04967 - Beruflichen Schulen der LHM, Sitzungsvorlage Nr. 14-20 / V 04975
+- TOP 3.7.: Kulturreferat, Beschlussentwurf Münchner Volkstheater GmbH (MVT); BA-Antrag und -Empfehlungen; StR-Anträge; Sitzung des Kulturausschusses am 03.03.2016; Beschlussentwurf zur Kenntnis für den BA 2
+- TOP 3.8.: MünchnerSommerSpielAktion, vgl. TOP 2016.01 A 3.2, Antwortschreiben vom 11.02.2016
+- TOP 3.9.: Mieterbeirat - Berufung eines stimmberechtigten Mitgliedes für den BA 18, Beschluss der Vollversammlung des Stadtrates vom 27.01.2016; Sitzungsvorlage Nr. 14-20 / V 04751
+- TOP 3.1.: Baumaßnahmen der Stadtwerke München
+- TOP 3.2.: Vorbescheid Tumblinger Straße 27 (Neues Volkstheater) vom Referat für Stadtplanung und Bauordnung vom 27.01.2016
+- TOP 3.3.: Bericht über Schäden auf der Weideninsel
+- TOP 3.4.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt (PFA), Anordnung der sofortigen (Teil-)Vollziehung des Planfeststellungsbeschlusses vom 09.06.2015, betreffend die Verlegung einer Fernwärmeleitung mit Zusammenhangsmaßnahmen am Bahnhofsplatz und in der Arnulfstraße im Bereich des Hauptbahnhofs
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Gartenstädte, Erhalt des Charakters und bauliche Entwicklung; Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifiziert überplanten Innenbereich, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016, Sitzungsvorlagen Nr. 14 - 20 / V 04857
+- TOP 3.6.: Neubau Münchener Volkstheater (MVT) im Viehhofgelände
+- TOP 3.7.: Baureferat, Beschluss Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 mit verbindlicher Planung für 2020; Entwurf für das Baureferat, Beschluss der Vollversammlung des Stadtrates vom 16.12.2015, Sitzungsvorlage Nr. 14-20 / V 04757
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP 3.3.: Unveränderte Gaststättenfortführungen
+- TOP 3.4.: Verkehrsrechtliche Anordnungen
+- TOP 3.5.: Erlaubnisbescheide
+- TOP 3.6.: Theresienwiese - Sanierung Wirtsbudenstraße - 2. Bauabschnitt
+- TOP 3.7.: Fahrradstreifen in der Schwanthalerstraße, BA Antrag Nr. 14-20/ B 01905 vom 15.12.2015, BA 8 Schwanthalerhöhe schliesst sich dem Antrag an, vgl. Schreiben des BA 8 vom 21.01.2016
+- TOP 3.8.: Obdachlosen Barracken an der Isarböschung Wittelsbacherstraße, BV-Anfrage Nr. 14-20/Q00201 aus der Bürgerversammlung des BA 2 vom 12.11.2015, Antwortschreiben des Kreisverwaltungsreferates vom 18.01.2016
+- TOP 3.9.: Bürgeranliegen Oktoberfest 2015, Situation am Esperantoplatz, in der Mozart- und Schubertstraße; Antwortschreiben des Kreisverwaltungsreferates vom 22.01.2016
+- TOP 3.10.: entfällt
+- TOP 3.11.: Mülleimer in der Müllerstraße aufstellen; BV Empfehlung Nr. 14 - 20 / E 00824 der Bürgerversammlung des BA 1 vom 03.12.2015, Beschluss des BA 1 vom 16.02.2016 zur Information für den BA 2
+- TOP 3.12.: Radwegekreuzung Hans-Fischer-Unterführung
+- TOP 3.13.: Bürgeranliegen Fußgängerübergang Bayer-/Ecke Hermann-Lingg-Str., vgl. TOP 2015.09 C 5.1; Antwort-E-Mail vom Kreisverwaltungsreferat vom 27.01.2016
+- TOP 3.14.: Runder Tisch Hauptbahnhof, Sachstandsmitteilung des Kreisverwaltungsreferates vom 27.01.2016
+- TOP 3.15.: Genehmigung von Zeitungsentnahmegeräten an folgenden Örtlichkeiten: Hans-Sachs-Straße 22, Holzstraße 27, Klenzestraße 48 und Klenzestraße 74, Schreiben des Kreisverwaltungs-referates vom 18.01.2016 (Entscheidung Oberbürgermeister)
+- TOP 3.16.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage E-Mobilität: Handlungsfeld 6 - Innerstädtischer Wirtschaftsverkehr Antrag Nr. 14-20 / A 00992 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 30.04.2015, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016, Sitzungsvorlagen Nr. 14-20 / V 04745
+- TOP 3.17.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wildtiere in München II; Erfassung der Wildtiere in München Antrag Nr. 14-20 / A 00160 von StRin Dr. Evelyne Menges vom 05.08.2014, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 (SB), Sitzungsvorlagen Nr. 14-20 / V 05025
+- TOP 3.18.: Müllerstraße 3, Aufstellung eines Zeitungsentnahmegerätes, Beschluss des BA 2 vom 26.01.2016, vgl. TOP 2016.01 C 2.2.1, Antwortschreiben des Kreisverwaltungsreferates vom 08.02.2016
+- TOP 3.19.: Bürgeranliegen Parkplatzsituation und Veranstaltungen im Schlachthofviertel, vgl. TOP 2016.01 C 5.1; Antwort-E-Mail des Kreisverwaltungsreferates vom 09.02.2016
+- TOP 3.20.: Bürgeranliegen Oktoberfest - Situation am Esperantoplatz, sowie in der Mozart- und Schubertstraße, vgl. TOP 2015.12 C 5.2; Antwortschreiben des Kreisverwaltungsreferates vom 11.02.2016
+- TOP .1.: (E) Budget der Bezirksausschüsse Capoeira Gerais - Sport und Kultur vereint e.V. Veranstaltung "Batizado 2016" vom 05. - 08.05.2016
+- TOP .2.: (E) Budget der Bezirksausschüsse GbR Kindertheater im Fraunhofer "Zirkus Sardam" ab 13.03.2016
+- TOP 1: (E) Sperrzeitverlängerung für Gaststätte "Sunshine Pub" Empfehlung Nr. 14-20 / E 00825 der Bürgerversammlung des Stadtbezirkes 1 -Altstadt-Lehel am 03.12.2015
+- TOP 1: (E) Bessere Reinigung und mehr Abfalleimer in der Schillerstraße rund um den Hauptbahnhof Empfehlung Nr. 14-20 / E 00754 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 12.11.2015
+- TOP 2: (E) Beleuchtung im Norden des Nußbaumparkes Empfehlung Nr. 14-20 / E 00746 aus der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 12.11.2015
+- TOP 3: (E) Aufstellung von mehr Mülleimern in der Müllerstraße Empfehlung Nr. 14-20 / E 00740 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 12.11.2015
+- TOP 3.5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP 3.3: Veranstaltungen
