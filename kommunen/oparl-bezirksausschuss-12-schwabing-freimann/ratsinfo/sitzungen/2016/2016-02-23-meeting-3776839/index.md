@@ -1,0 +1,86 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776839
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776839
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 10.3.: Anhörungen
+- TOP 9.1.: Gewinnung neuer barrierefreier Wahllokale für die Bundestagswahl 2017
+- TOP 10: sonstiges
+- TOP 10.1.: Parade zum St. Patrick's Day am 13.03.2016
+- TOP 10.2.: Italienischer Markt vom 22. bis 27.04.2016 an der Münchner Freiheit
+- TOP 10.3.: Kunstprojekt ?Die Koffer kommen? für Kinder und Jugendliche ab 04.04.2016 jeden Montag Nachmittag in der Grünanlage Oskar-Schlemmer-Straße
+- TOP 10.1.: "Say hello" - Strukturierte Internet-Verabredungen mit Immigranten
+- TOP 10.2.: Fehlende Kinderkrippenplätze, Kindergartenplätze im Domagkpark
+- TOP 10.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 10.1.: ?Grissini-e-Vini?, Schank- und Speisewirtschaft, Ungererstraße 161
+- TOP 10.1.: Theater des hölzernen Gelächters e.V.: Bericht zur Produktion ?Die Herzogin von Malfi? am 04.bis 06.09.2015 im Amphitheater im Englischen Garten
+- TOP 10.2.: Ablehnungsbescheide an die Initiative ?Maria-Heinrich-Mann-Haus? a) Kunstprojekt im Frühjahr 2016 b) Verlegung eines Stolpersteins im Frühjahr 2016
+- TOP 10.3.: Schüler und Klassenzahlen im Schuljahr 2015 / 2016 - an den städtischen und staatlichen Realschulen; Sitzungsvorlage Nr. 14-20 / V 04883 - an den städtischen und staatlichen Gymnasien; Sitzungsvorlage Nr. 14-20 / V 04967 - an den beruflichen Schulen; Sitzungsvorlage Nr. 14-20 / V 04975 - an den Grund- , Mittel- und Förderschulen, städt. Tagesheimen und Heilpädagogischen Tagesstätten; Sitzungsvorlage Nr. 14-20 / V 04946 Bekanntgabe im Bildungsausschuss des Stadtrates vom 18.02.2016
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Genter Straße 7-7a, vier Fichten und fünf Thujen
+- TOP 10.2.: Vorbescheid Floriansmühlstraße 60-74, Fl.Nr.: 589/19, Standortentwicklung Freimann (STEFM), Temporäre Baustellenzufahrt mit Stellplätzen, Fällung zahlreicher Bäume
+- TOP 10.3.: Ungererstraße 141, Neubau einer Wohnanlage mit Ladengeschäften, Praxen und Tiefgarage, Baumfällungen gemäß Plan
+- TOP 10.4.: Vorbescheid Floriansmühlstraße 60-74, Fl.Nr.: 589/19, Standortentwicklung Freimann (STEFM), Temporäre Baustellenzufahrt mit Stellplätzen, Fällungen laut Fragenkatalog
+- TOP 10.5.: Leopoldstraße 214-228, Fl.Nr.; 857/29, Neubau eines Wohngebäudes mit TG (80 Stellpl.) und Gewerbeflächen (EG), Umbau und Modernisierung einer Wohnanlage, DG-Ausbau (Wilhelm-Hertz-Straße 5-23), Aufstockung und DG-Ausbau der übrigen Bestandsgebäude (Leopoldstraße 214-228/Schendendorfstraße 90-98/Wilhelm-Hertz-Straße 1-23), Baumfällungen gemäß Plänen
+- TOP 10.1.: Gesamtkonzept für das südliche Vorfeld der Fröttmaninger Heide zwischen Fürst-Wrede-Kaserne und Kieferngartensiedlung und Flächenübernahme zur Umsetzung des Gesamtkonzepts ? Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 10.2.: Kaiserstraße 4, Fl.Nr.: 359/5, Sanierung einer gründerzeitlichen Villa mit Erweiterungsbau Wintergarten
+- TOP 10.3.: Biedersteiner Straße 57, Fl.Nr.: 1215/41, Neubau eines Mehrfamilienhauses (3 WE) mit Garage
+- TOP 10.4.: Hohenzollernstraße 2, Fl.Nr.: 363/0, Gastraumerweiterung einer Gaststätte mit Bäckereiverkauf
+- TOP 10.5.: Bauhausplatz Fl.Nr.: 880/144, Domagkpark WA 4 ? Neubau einer Wohnanlage (47 WE) Kompro-B mit Kindergarten, Krippe, Cafè, Kulturbühne, Hausaufgabenbetreuung und Mittelgarage (25 Stellplätze)
+- TOP 10.6.: Änderung der Denkmalliste nach Art. 2 DSchG: Erweiterung der Ensemblefläche des Ensembles Altschwabing
+- TOP 10.1.: Domagkpark - Öffentliche Flächen nördlich des Bauhausplatzes
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Georgenstraße 4, eine Blaufichte
+- TOP 10.2.: Isarring Nordseite, eine Buche (Straßenbaum, Fällung durch das Baureferat Gartenbau als Gefahrenbaum)
+- TOP 10.1.: Bauvorhaben Berliner Straße 85 ? Antwort der Architekten auf BA-Schreiben vom Dezember
+- TOP 10.2.: Gestaltung der Platzfläche an der Tram 23, Domagkstraße ? Technische Entwurfsplanung auf der Grundlage des Gestaltungplans
+- TOP 10.3.: Gartenstädte ? Erhalt des Charakters und bauliche Entwicklung, Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifiziert überplanten Innenbereich, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 17.02.2016, Sitzungsvorlage Nr. 14-20/V 04857
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.: Einrichtung einer Kurzparkzone vor dem Anwesen Grünecker Straße 2
+- TOP 10.2.: Neuregelung der Parkordnung Lützelsteiner Straße/Frankplatz/Völckerstraße
+- TOP 10.1.: Sicherheit und Verschönerung der Kreuzung Wilhelm-/Kaiserstraße Bitte des Referats für Stadtplanung und Bauordnung um Terminvorschläge für einen Ortstermin zu einem Bürgeranliegen aus der Sitzung vom 29.10.2015
+- TOP 10.2.: Asphaltarbeiten an der Bushaltestelle Leopoldstraße 83
+- TOP 10.3.: Sanierung des Frankfurter Rings zwischen Schleißheimer und Ingolstädter Straße
+- TOP 10.4.: Fahrbahnsanierung der Haimhauserstraße
+- TOP 10.5.: Deckschichtsanierung der Fahrbahn des Feldangers
+- TOP 10.7.: Wertstoffcontainerstandort Admiralbogen/Am Kiefernwald (Unterflurcontainer)
+- TOP 10.1.: Carsharing nicht nur in der Innenstadt anbieten
+- TOP 10.1.: ?Wildes? Parken auf dem neugestalteten St.-Nikolaus-Platz dauerhaft unterbinden - Zaun um Grünfläche schließen.
+- TOP 10.1.: Zeitliche Änderung des bestehenden Haltverbotes in der Sulzbacher Straße
+- TOP 10.2.: Dynamische Geschwindigkeitsregelung Isarring
+- TOP 10.3.: Baustelleneinrichtung auf öffentlichem Verkehrsgrund im Bereich Leopoldstraße 65/Herzogstraße/Siegfriedstraße vom 15.02.2016 bis 14.02.2017
+- TOP 10.4.: Freisinger Landstraße/Gut Großlappen/Klärwerk Großlappen/Wallnerstraße: Stilllegung und Umhängung einer Wasserhauptleitung ? verlängert vom 01. bis 29.02.2016
+- TOP 10.1.: Kißkaltplatz ? Vormerkung zur Besprechung am 20.01.2016
+- TOP 10.2.: Erneute Stellungnahme der Landeshauptstadt München zum geplanten Naturschutzgebiet ?Südliche Fröttmaninger Heide?
+- TOP 10.4.: Bei der Planung für die Siedlung im Bereich der Bayernkaserne gleich die Trasse der U26 mit berücksichtigen, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 17.02.2016, Sitzungsvorlage Nr. 14-20/V 03669
+- TOP 10.5.: E-Mobilität: Handlungsfeld 6 ? Innerstädtischer Wirtschaftsverkehr, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 17.02.2016, Sitzungsvorlage Nr. 14-20/V 04745
+- TOP 10.6.: Wildtiere in München II ? Erfassung der Wildtiere in München, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 17.02.2016, Sitzungsvorlage Nr. 14-20/V 05025
+- TOP 10.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: (E) Budget der Bezirksausschüsse Freie Netze München e.V. (i.G.) Freies WLAN für Flüchtlinge im Ankunftszentrum Maria-Probst-Straße - <div></div>
+- TOP 10.2.: (E) Schutz vor Lärmbelästigungen im Event-Areal Kesselhaus Lilienthalallee Empfehlung Nr. 14-20 / E 00590 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 23.07.2015 - <div></div>
+- TOP 10.3.: (E) Budget der Bezirksausschüsse Corso Leopold e.V. Corso Leopold am 11./12.06.16 und 10./11.09.16 - <div></div>
+- TOP 10.4.: (E) Budget der Bezirksausschüsse Mohr-Villa Freimann e.V. Lesung und Begegnungswerkstätte am 15.03.2016 - <div></div>
+- TOP .1.: Vertreter des Bayerischen Rundfunks informiert zum Bau eines ?Aktualitätenzentrums mit Wellenhaus? (auch im UA Stadtplanung und Architektur)
+- TOP 10.1.: Anträge
+- TOP 10.5.: Unterrichtungen
+- TOP 10.2.: Entscheidungen
+- TOP 10.4.: Bürgeranliegen
+- TOP 10.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 10.5.3.: Sonstige Unterrichtungen
+- TOP 10.3.2.: Sonstige Anhörungen
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 10.3.: Vermessungs- und Inspektionsarbeiten an der Strecke der U3
