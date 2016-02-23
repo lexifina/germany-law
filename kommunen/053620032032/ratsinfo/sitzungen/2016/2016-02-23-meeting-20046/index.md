@@ -1,0 +1,84 @@
+# Stadtrat (14. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-02-23T17:00:00+01:00
+- Ende: 2016-02-24T23:28:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcY7hhdNkDuYiJq-0PEPWRQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20046
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXSitg8fQVTG6FUHERmpLnYRFuLwpo-UgFZC0ZX_Y-SY/Bekanntmachung_Stadtrat_23.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXjvBgYtW5uXhtbD4sPhl1vf7EyfAhC-9lu-cWN6KrJ_/Oeffentliche_Niederschrift_Stadtrat_23.02.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung des neuen Stadtverordneten Ahmet Ilhan
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 2a: Wahl des/der Ersten Beigeordneten
+- TOP 3.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk IV (Sindorf, Geilrath, Haus Hahn und umliegende Gehöfte)
+- TOP 4.: Einbringung der Haushaltssatzung für das Jahr 2016
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: hier: Antrag der FDP-Fraktion
+- TOP 5.2: Umbesetzung des Umweltausschusses hier: Antrag der Fraktion B‘90/Die Grünen
+- TOP 5.3: Umbesetzung des Ausschusses für Stadtplanung und Verkehr hier: Antrag der SPD-Fraktion
+- TOP 5.4: Beratende Mitgliedschaft im Schulausschuss und Haupt- und Finanzausschuss hier: Antrag des Stadtverordneten Wolfgang Scharping
+- TOP 5.5: Besetzung des Schulausschusses hier: Benennung von beratenden Mitgliedern
+- TOP 5.6: Gremienbesetzung der Wirtschaftsförderung Rhein-Erft GmbH (WfG); hier: Benennung von zwei Mitgliedern und deren Stellvertretung für den Aufsichtsrat der Wirtschaftsförderung Rhein-Erft GmbH (WfG) - (kein Text vorhanden)
+- TOP 5.7: Gremienbesetzung der Rhein-Erft-Verkehrsgesellschaft (REVG) hier: Antrag der Fraktion B‘90/Die Grünen
+- TOP 5.8: Umbesetzung des Haupt- und Finanzausschusses hier: Antrag der SPD-Fraktion
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: 19. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen;
+- TOP 6.2: Satzung über die Erhebung von Kostenersatz und Gebühren für die Dienstleistungen der Freiwilligen Feuerwehr der Kolpingstadt Kerpen (Feuerwehrsatzung)
+- TOP 6.3: 1. Änderungssatzung zur Satzung über die Erhebung von Gebühren für die Durchführung der Brandverhütungsschau in der Kolpingstadt Kerpen
+- TOP 6.4: 1. Änderung zur Entgeltordnung für die Leistungen der Brandschutzdienststelle der Kolpingstadt Kerpen
+- TOP 6.5: 1. Änderungssatzung zur Satzung über die Festlegung von Mindest- und Höchstsätzen beim Ersatz von Verdienstausfall für beruflich selbstständige Angehörige der Feuerwehr Kolpingstadt Kerpen
+- TOP 6.6: 1. Änderung zur Entgeltordnung für die Leistungen bei der Festlegung von Brand- und Rettungssicherheitswachdiensten sowie der Gestellung von Brandsicherheitswachen
+- TOP 7.: Stadtentwicklung und Bauleitplanung
+- TOP 7.1: 72. Änderung des Flächennutzungsplanes "Erfttalstraße ( L122)/Erftstraße", Stadtteil Sindorf Hier: Wirksamkeitsbeschluss
+- TOP 7.2: Bebauungsplan BU Nr. 4, 4/1. Änderung und 4/3. Änderung "Broichstraße", Stadtteil Buir hier: Aufhebungsbeschluss gem. § 2 (1) BauGB und § 1 (8) BauGB
+- TOP 7.3: 74. Änderung des Flächennutzungsplanes "Vorrangflächen für Windenergie-Anlagen" hier: Aufstellungsbeschluss
+- TOP 7.4: Abschluss einer Planungsvereinbarung für die Durchführung der 74. Änderung des Flächennutzungsplanes der Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 7.5: Stellungnahme der Kolpingstadt Kerpen zum geänderten Entwurf des Landesentwicklungsplan NRW
+- TOP 7.6: Sozialer Wohnungsbau in Kerpen; hier: Anträge der Linksfraktion sowie Anfrage der Fraktion B90/Die Grünen
+- TOP 7.7: Neubau der 380 kV-Hochspannungsleitung Pkt. Mönchskaul-Pkt. Blatzheim, hier: Abschluss einer Vereinbarung über die Bereitstellung und Finanzierung von externen Ausgleichsflächen
+- TOP 8.: LIVE-Streaming von Rats- und Ausschusssitzungen hier: Antrag der SPD-Fraktion
+- TOP 9.: Einberufung eines Arbeitstreffens/einer Arbeitsrunde zur Erstellung von Anforderungen/eines Leistungskataloges für SD.Net (RichClient) hier: Antrag der SPD-Fraktion
+- TOP 10.: Senkung der Kreisumlage hier: Antrag der SPD-Fraktion
+- TOP 11.: Rüge des Bürgermeisters wegen seines Vorgehens in Bezug auf die Erfthalle; hier: Gemeinsamer Antrag der SPD-, Grünen- und Linksfraktion sowie des Stadtverordneten Scharping
+- TOP 12.: Weiteres Vorgehen bei der Sportstättenzielplanung
+- TOP 13.: Maßnahmen zur Sicherstellung des Rechtsanspruches für Kinder über und unter drei Jahren hier: Prüfung alternativer Standorte
+- TOP 14.: Bedarfsplan Kindertagesbetreuung u3 und ü3 bis Eintritt der Schulpflicht
+- TOP 15.: Anbau einer u3-Gruppe an die Kindertagesstätte "Hummelburg" in Sindorf, hier: Generalunternehmer-Ausschreibung
+- TOP -: Fertigstellung der zusätzlichen U3-Gruppe an der Kindertagesstätte Hummelburg im Stadtteil Sindorf hier: Anfrage der CDU-Fraktion
+- TOP 16.: Sozialraumarbeit Sindorf
+- TOP 16 a: Unterbringung von Flüchtlingen in Kerpen hier: aktueller Sachstand
+- TOP 16 b: Förderanträge im Rahmen des Sonderprogramms des Landes Nordrhein-Westfalen "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" hier: Neubau eines Begegnungszentrums in Sindorf sowie Sportplätze Kerpen und Horrem
+- TOP 17.: PC-Ausstattung für Geflüchtete hier: Antrag der SPD-Fraktion
+- TOP 18.: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge in Kerpen - (kein Text vorhanden)
+- TOP 19.: Atomkraftwerk Tihange
+- TOP 20.: Wahl des/der Ersten Beigeordneten
+- TOP 21.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 24.1: Sachstand Vollsortimenter Brüggen hier: Anfrage der CDU-Fraktion
+- TOP 24.2: Erlass der Grundsteuer hier: Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 25.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 25.1: Besetzungsverfahren der Stelle einer / eines Ersten Beigeordneten hier: Erweiterung der Bewerberliste
+- TOP 25.2: Beschaffung von Wohncontainern für Flüchtlinge
+- TOP 25 a: Unterbringung zugewiesener Flüchtlinge in Kerpen hier: Varianten und Maßnahmen 1. zur temporären Unterbringung 2. zur dauerhaften Unterbringung
+- TOP 25 a (1): Unterbringung zugewiesener Flüchtlinge in Kerpen hier: Varianten und Maßnahmen 1. Temporäre Unterbringung in Containern
+- TOP 25 a (2): Unterbringung zugewiesener Flüchtlinge in Kerpen hier: Varianten und Maßnahmen 2. zur dauerhaften Unterbringung
+- TOP 26.: Abschlussvereinbarung / Projektdokumentation zur Planung, Erschließung, Vermarktung und Auseinandersetzung des Industrie- und Gewerbeparks TÜRNICH 3 zwischen der Kolpingstadt Kerpen und der RWE Power AG - (kein Text vorhanden)
+- TOP 26 a: Erarbeitung von Möglichkeiten der Beteiligung der Kolpingstadt Kerpen an Windenergieprojekten
+- TOP 27.: Bericht über die Prüfung des Jahresabschlusses einschließlich Lagebericht und Beteiligungsbericht zum 31.12.2013
+- TOP 28.: Gesamtabschluss nach § 116 der Gemeindeordnung für das Land NRW (GO NRW) auf den 31.12.2013
+- TOP 29.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 30.: Mitteilungen
+- TOP 31.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 32.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 33.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
