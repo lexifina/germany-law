@@ -1,0 +1,7 @@
+# TOP 5: Ausschreibung zum Gutachten für die Prüfung zur Einführung von Parkraumbewirtschaftung in Lichtenberg
+
+- Sitzung: 46. Sitzung in der VII. Wahlperiode des Ausschusses Öffentliche Ordnung und Verkehr (2016-02-23)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=39862
+- Ergebnis: erledigt
