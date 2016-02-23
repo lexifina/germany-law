@@ -1,0 +1,7 @@
+# TOP 19: Anfragen und Mitteilungen
+
+- Sitzung: 1. Sitzung des Strukturausschusses (2016-02-23)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: ja
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2016-STA-0%7CAM-rvr-oef%7C1
+- Beschluss (Datei): Beschluss - Top 19 https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2016-STA-0%7CAM-rvr-oef%7C1
