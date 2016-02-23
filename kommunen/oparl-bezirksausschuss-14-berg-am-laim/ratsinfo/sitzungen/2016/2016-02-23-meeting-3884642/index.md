@@ -1,0 +1,90 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2016-02-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3884642
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3884642
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.: Protokoll über die öffentliche Sitzung vom 26.01.2016
+- TOP 1.2.: Protokoll über die nichtöffentliche Sitzung vom 26.01.2016
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Kreillerstr. 25, Neubau zweier Mehrfamilienhäuser, - Vorbescheid - (vertagt aus 3.1.5./01/16)
+- TOP 3.2.: Heinrich-Wieland-Straße 47, Neubau eines Mehrfamilienhauses (10 WE) mit Tiefgarage (10 Stpl.) - Vorbescheid - (vertagt aus 3.1.7./01/16)
+- TOP 3.3.: Nette Toilette, Ermittlung des Bedarfs derartiger WC-Anlagen im Stadtgebiet
+- TOP 3.4.: Weihenstephaner Str. 32, Neubau eines LIDL-Marktes
+- TOP 3.5.: Ampfingstr. 32, Abbruch Bestand, Neubau Büro- und Geschäftshaus (ggf. teilweise Wohnnutzung ausschl. bei städtebaul. Gesamtkonzeption) - VORBESCHEID -
+- TOP 3.6.: Spielplatz für Kinder und Jugendliche am Permoserplatz
+- TOP 3.1.: Spieleaktionen in öffentlichen Grünanlagen durch den Spielelandschaft Stadt e.V., erneuter Antrag als Sammelantrag für das gesamte Stadtgebiet
+- TOP 3.2.: Sichere Fußgängerüberquerung bei der Schüleinstraße schaffen
+- TOP 3.1.: Bildungsoffensive 4. Akt - Antrag des Bezirksausschusses 13 Bogenhausen
+- TOP 3.2.: Errichtung einer Kindertageseinrichtung mit 6 Kinderkrippengruppen, Grafinger Str. 96, (Innsbrucker Ring 2. BA), Genehmigung des Nutzerbedarfsprogrammes Beschlussvorlage für den Bildungsausschuss am 02.03.2016
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Freundes- und Förderkreis Kirchenmusik ok Chorkonzert am 20.11.2016 Sitzungsvorlage Nr. 14-20 / V 04983 (vertagt aus TOP 3.5.2./01/16)
+- TOP 1: (E) Verlängerung der Grünphasen für Fußgänger zur Überquerung der Kreillerstraße Empfehlung Nr. 14-20 / E 00461 der Bürgerversammlung des 14. Stadtbezirkes Berg-am-Laim am 26.03.2015
+- TOP 3.4.: AKA e.v. Aktiv für InterKulturellen Austausch e.V., Themengebundene Ferienfreizeit vom 21.03.2016 - 24.03.2016 im bayerischen Wald (Selbstversorger)
+- TOP 3.5.: Interkulturelles Projekt "Rote Ziegel, Mosaik - wer bringt grüne Farbe mit?" an der Grundschule an der Grafinger Straße
+- TOP 3.1.: Weihenstephaner Str. 32
+- TOP 3.2.: Truderinger Str. 49-55, Neubau eines Mehrfamilienhauses (9 WE) - VORBESCHEID - (vertagt aus TOP 3.6.2./01/16)
+- TOP 3.3.: Neumarkter Str. 47
+- TOP 3.4.: Grafinger Str. 27 - 29
+- TOP 3.5.: Riffelwandstr. 3
+- TOP 3.6.: Gratlspitzstr. 37
+- TOP 3.7.: Heinrich-Wieland-Str. 31
+- TOP 3.8.: Gronsdorferstr. 13
+- TOP 3.9.: Kath. Pfarramt St.-Michael BaL, Fl.Nr. 66
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bauvorhaben im 14. Stadtbezirk vom 04.01.2016 bis 31.01.2015
+- TOP 4.2.: Zweckentfremdung im 14. Stadtbezirk
+- TOP 4.3.: Rosenheimer Straße zwischen Anzinger Straße und Haus Nr. 143, Planansätze
+- TOP 4.4.: Anzinger Straße, Planansatz
+- TOP 4.5.: Neubau Feuerwache 5 und des zweitenTeils des Zentrums für Katastrophenschutz Anzinger Str. 41 Kunst am Bau Sitzungsvorlage Nr. 14-20/V 04504
+- TOP 4.6.: Infrastukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur Sitzungsvorlage Nr. 14-20/V 04903
+- TOP 4.7.: Wohnungsmarkt München - Expertenbefragung 2015 Sitzungsvorlage Nr. 14-20/V 04864
+- TOP 4.8.: Unterflur-Containerstandorte in Neubaugebieten mit planen! Sitzungsvorlage Nr. 14-20/V 04859
+- TOP 4.9.: Einhausung des Innsbrucker Rings zwischen Innsbrucker Ring Tunnel und Schlüsselbergstraße - Lärmminderungsplanung des RGU
+- TOP 4.10.: Gartenstädte Erhalt des Charakters und bauliche Entwicklung Sitzungsvorlage Nr. 14-20/V 04857
+- TOP 4.11.: Wildtiere in München II Erfassung der Wildtiere in München Sitzungsvorlage Nr. 14-20/V 05025
+- TOP 4.1.: Einhaltung und Durchsetzung der Straßenverkehrsordnung in der Friedenstraße, BA-Antrag Nr. 14-20/B 01826 vom 24.11.2015 - Antwortschreiben -
+- TOP 4.2.: Dreherlaubnis Produktion "Hilf mir! Jung, pleite, verzweifelt"
+- TOP 4.3.: Durchsetzung des verkehrsberuhigten Bereichs Anne-Frank-Anger/Jella-Lepmann-Straße Empfehlung Nr. 14-20/E 00463 der Bürgerversammlung des 14. Stadtbezirkes vom 26.03.2016 - Ausfertigung -
+- TOP 4.4.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14 Sitzungsvorlage Nr. 14-20/V 04733
+- TOP 4.5.: E-Mobilität: Handlungsfeld 6 - Innerstädtischer Wirtschaftsverkehr Sitzungsvorlagen Nr. 14-20/V 04745
+- TOP 4.1.: Schulbauoffensive
+- TOP 4.2.: Schüler_innen- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an denSchulen des Zweiten Bildungsweges im Schuljahr 2015/2016 Sitzungsvorlage Nr. 14-20/V 04967
+- TOP 4.3.: Schüler-innen und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der städtischen Franz-Auweck-Abendschule Sitzungsvorlage Nr. 14-20/V 04883
+- TOP 4.4.: Schüler_innen und Klassenzahlen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2015/2016 Sitzungsvorlage Nr. 14-20/V 04975
+- TOP 4.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2015/2016 Sitzungsvorlage Nr. 14-20/V 04946
+- TOP 4.1.: Budgetmittel Bürgerkreis Berg am Laim e.V.
+- TOP 4.2.: Innere Mission, evang. Jungendhilfeverbund - Bewilligungsbescheid
+- TOP 4.3.: BA-Informationsschreiben Nr. 04/15 Umgang mit Spenden Annahme von Geschenken
+- TOP 4.1.: Vollzug der Wassergesetze, Bachräumungstermine 2016
+- TOP 4.2.: Änderung der Münchner BaumschutzVO Sitzungsvorlage Nr. 14-20/V 04798
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.3.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.3.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.3.5.2.: Ankündigungen
+- TOP 5.1.3.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
