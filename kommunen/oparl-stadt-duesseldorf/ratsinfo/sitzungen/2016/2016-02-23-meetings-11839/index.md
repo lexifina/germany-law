@@ -1,0 +1,56 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-02-23T17:00:00+01:00
+- Ende: 2016-02-23T20:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11839
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11839
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260126.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260126.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260126.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Aktuelle Berichterstattung der Flüchtlingsbeauftragten Miriam Koch - zur Kenntnis genommen
+- TOP 6: Geplante Flüchtlingsunterkunft an der Torfbruchstraße - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Plan Nr. 07/009 - Dreifaltigkeitsstraße - Aufstellung einer Erhaltungssatzung - mehrheitlich beschlossen
+- TOP 9: Zuschuss an den Düsseldorfer Sport-Club 1899 e. V. - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 11: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 12: Künstlerische Gestaltung der Brücke über die Düssel (Ecke Dreherstraße/Bertastraße) - einstimmig beschlossen
+- TOP 13: Schattenspender für den Spielplatz an der Halleschen Straße/Radeberger Straße - einstimmig beschlossen
+- TOP 14: Matschweg Düssel - Diepenstrasse - einstimmig beschlossen
+- TOP 15: S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 16: Umgestaltung einer der Treppen am Spielplatz gegenüber dem Kirchengelände an der Heyestr. - zurückgezogen
+- TOP 17: Verbindungsweg Nymphenburgstraße / Torfbruchstraße - einstimmig beschlossen
+- TOP 18: Fußgängerquerung Morper Str. zur Verbindung Heyestr Süd-Süd und Heyestr. Süd - mehrheitlich beschlossen
+- TOP 19: Staufenhalle Grafenberg - zur Kenntnis genommen
+- TOP 20: Art Deco Häuser Metzkauser Straße - zur Kenntnis genommen
+- TOP 21: Filialkonzept der Deutschen Post AG für Gerresheim - zur Kenntnis genommen
+- TOP 22: Bolzplätze im Stadtbezirk 7 - vertagt
+- TOP 23: Fuß- und Radweg Bergische Landstraße - zur Kenntnis genommen
+- TOP 24: WLAN an Schulen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 25: Wohnungsbau der SWD im Bezirk 7 - zur Kenntnis genommen
+- TOP 26: Tempo 30 auf der Quadenhofstraße - zur Kenntnis genommen
+- TOP 27: Fußgängerüberweg Ludenberger Straße 1a - zur Kenntnis genommen
+- TOP 28: Umlaufschranke Fußgänger-/ Radfahrerübergang - zur Kenntnis genommen
+- TOP 29: Kamper Weg - zur Kenntnis genommen
+- TOP 30: Brücke über die Düssel - Verbindung Diepenstraße - zur Kenntnis genommen
+- TOP 31: Schulbaumaßnahmen - zur Kenntnis genommen
+- TOP 32: Fahrbahn Keldenichstraße - zur Kenntnis genommen
+- TOP 33: Entschädigungsfonds Geschäftsleute Gerresheim/Benderstraße - zur Kenntnis genommen
+- TOP 34: Verkehrssicherungsmaßnahmen Forstbereich Auf der Hardt - zur Kenntnis genommen
+- TOP 35: Matschweg Flüchtlingsunterkunft Blanckertzstraße durch Kies aufwerten - zur Kenntnis genommen
+- TOP 36: Ferienbetreuung 2016 im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 37: Informationsveranstaltung Glasmacherviertel - zur Kenntnis genommen
+- TOP 38: Öffentlich zugängliche sportanlagen im Stadtbezirk 7 - zur Kenntnis genommen
