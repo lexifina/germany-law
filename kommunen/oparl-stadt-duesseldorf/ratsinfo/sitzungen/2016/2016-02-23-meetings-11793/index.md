@@ -1,0 +1,53 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-02-23T17:00:00+01:00
+- Ende: 2016-02-23T20:25:00+01:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11793
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11793
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260207.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260207.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00260207.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 8/2015 vom 09.11.2015 - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: RRX - aktueller Planungsstand und Lärmschutz im Bereich des Stadtbezirks 3; mündl. Bericht der Deutschen Bahn Netz AG - zur Kenntnis genommen
+- TOP 5: BP 03/019 - Östlich Kesselstraße, Öffenltichkeitsbeteiligung - einstimmig beschlossen
+- TOP 6: Plan Nr. 03/009 Oberbilker Allee / Ringelsweide Veränderungssperre - einstimmig beschlossen
+- TOP 6.1: B-Plan Nr. 5174/016 - Beiderseits Hinter der Böck - Änderung des Aufstellungsbeschlusses - vertagt
+- TOP 6.2: Plan Nr. 5174/016 - Beiderseits Hinter der Böck - Dialogverfahren städtebauliches Konzept - vertagt
+- TOP 6.3: Plan Nr. 5174/017 - Beiderseits Hinter der Böck - Veränderungssperre 2. Verlängerung - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Aktuelle Anfragen aus der Bürgerschaft an die Bezirksvertretung 3 - zur Kenntnis genommen
+- TOP 11: Verbesserung der Fußgängersicherheit auf der Brinckmannstraße - einstimmig beschlossen
+- TOP 12: Bürgerhaus Salzmannbau - einstimmig beschlossen
+- TOP 13: Neuanpflanzung einer großen Linde und Erstellung eines Pflanzkonzeptes für den Fürstenplatz - zur Kenntnis genommen
+- TOP 14: Anschaffung eines Spruchbandes (Banner) im Stadtbezirk 03 - zur Kenntnis genommen
+- TOP 14.1: Entwicklung eines Angebotes zur zentralen Sammlung des Grünschnitts für die Kleingartenvereine im B - einstimmig beschlossen
+- TOP 14.2: Verkehrszählung in Hamm - vertagt
+- TOP 14.3: Änderung der Linienstraße zur Einbahnstraße - einstimmig beschlossen
+- TOP 15: Barrierefreier Ausbau der Stadtbahnhaltestellen - vertagt
+- TOP 16: Begrünung rund um den Fürstenplatz - zur Kenntnis genommen
+- TOP 17: Zustellen von Kreuzungen im Stadtbezirk - zur Kenntnis genommen
+- TOP 18: Haltestelle „Sonnenstraße“ der Linie 715 in Richtung D-Unterrath - vertagt
+- TOP 19: Gehweg Hüttenstraße 134 / Ecke Sonnenstraße - zur Kenntnis genommen
+- TOP 20: Baumschnitt-Arbeiten im Auftrage der Deutschen Bahn an städtischen Bäumen in der Gustav-Poensgen-Str - vertagt
+- TOP 21: Übergang / Aufgang Floragarten, Bachstraße - vertagt
+- TOP 22: sog. Klein-Marokko - zur Kenntnis genommen
+- TOP 23: Verkehrskonzept Bachstr./Benzenbergstr./Kronprinzenstr. - vertagt
+- TOP 24: Parken auf dem Ernst-Reuter-Platz - vertagt
+- TOP 24.1: Bauzeitenplanung und Eröffnung der Flüchtlingsunterkunft „Auf´ ´m Tetelberg“ in Bilk - vertagt
+- TOP 25: Fahrradständer Merkurstraße vor Haus Nr. 24 - zur Kenntnis genommen
+- TOP 26: Finanzielle Unterstützung der GGS Sonnenstraße - vertagt
+- TOP 27: Schulhofgestaltung Realschule Florastraße - vertagt
+- TOP 28: Beleuchtung Ellerstraße - einstimmig beschlossen
+- TOP 29: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
