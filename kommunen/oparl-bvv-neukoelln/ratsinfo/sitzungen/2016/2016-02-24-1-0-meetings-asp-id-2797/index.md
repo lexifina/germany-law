@@ -1,0 +1,85 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-02-24T17:00:00+01:00
+- Ende: 2016-02-24T22:45:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2797
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2797
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: Zirkus Mondeo und Schwarzer Kanal retten - überwiesen
+- TOP 2.2: "Mitmachzirkus Mondeo retten" - überwiesen
+- TOP 2.3: 100ter Liste: Zirkus Mondeo und Schwarzer Kanal retten! - beantwortet
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Bennenung eines persönlichen Vertreters eines Mitgliedes des JHA - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Perspektive Alpha-Bündnis Neukölln - beantwortet
+- TOP 9.2: Situation Obdachlose - beantwortet
+- TOP 9.3: Wann gibt es endlich Milieuschutz im Reuter- und Schillerkiez? - beantwortet
+- TOP 9.4: Räumung Wagenplatz wegen Flüchtlingsunterkunft? - beantwortet
+- TOP 9.5: Chaotische Zustände in der Rettungsstelle//Notaufnahme im Vivantes Klinikum Neukölln - beantwortet
+- TOP 9.6: Verwendung der Mittel für fallunspezifische Arbeit (FUA) seit 2011 - beantwortet
+- TOP 9.7: Kontaktperson/Ansprechpartner*in "sexuelle und geschlechtliche Vielfalt" - schriftlich beantwortet
+- TOP 9.8: Schnelle Integration - schriftlich beantwortet
+- TOP 9.9: Zusätzliches Personal für die Bekämpfung von Zweckentfremdung - schriftlich beantwortet
+- TOP 9.10: Tempo 30 - schriftlich beantwortet
+- TOP 9.11: Albert-Schweitzer-Gymnasium in Zukunft ohne Hausaufgabenbetreuung? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Leerstände mit Ausnahmegenehmigung - beantwortet
+- TOP 10.2: Aufstellungsbeschluss für soziale Erhaltungssatzungen - vertagt
+- TOP 10.3: Prekäre Lebenssituationen junger Neuköllner_innen - vertagt
+- TOP 10.4: Fragen zu den Forderungen zur Änderung des Berliner Kinderschutzgesetz und des SGB VIII - vertagt
+- TOP 10.5: (Kinder-) und Jugendverbände in Neukölln - vertagt
+- TOP 10.6: Bürknerstraße zur Fahrradstraße machen - in der BVV abgelehnt
+- TOP 10.7: Finanzierung der Seniorenfreizeiteinrichtung in Alt-Rudow sichern - vertagt
+- TOP 10.8: Anlaufstelle LSBTI im Bezirksamt - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Impfschutz - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Würdiges Erscheinungsbild am Gedenkstein Britz wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Kopfpauschale? - beantwortet
+- TOP 12.2: Sachstand zu der Umwidmung der SIWA I Mittel - vertagt
+- TOP 12.3: Chaos bei der Festlegung von neuen Standorten für modulare Flüchtlingsunterkünfte in Neukölln - beantwortet
+- TOP 12.4: Veraltete Software - vertagt
+- TOP 12.5: Ergebnis des Sozialberichts Neukölln 2016 - vertagt
+- TOP 12.6: Das Bundesministerium zahlt - vertagt
+- TOP 12.7: Abzocke bei Wohnungen für Geflüchtete? - vertagt
+- TOP 12.8: Küchenplanung für den Rütli-Campus - vertagt
+- TOP 12.9: Gebietsfreistellung - vertagt
+- TOP 12.10: Rücknahme großflächiger Freistellungen bei Sozialwohnungen - vertagt
+- TOP 12.11: 1000 Euro für neue Erzieher - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Informationsveranstaltung Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - überwiesen
+- TOP 14.2: Harry-Wollenschlaeger-Platz - überwiesen
+- TOP 14.3: Teilnahme am Bundeswettbewerb Klimaschutz im Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Earth Hour der WWF-Neukölln macht mit - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Personelle Verbesserung für die Neuköllner Kitas - überwiesen
+- TOP 14.6: Modellprojekt Grüner Straßenzug - überwiesen
+- TOP 14.7: Verlängerung der Busspur an der Sonnenallee - überwiesen
+- TOP 14.8: Füttern verboten - überwiesen
+- TOP 14.9: Berliner Mauerweg für Fußgänger und Radfahrer wiederherstellen - überwiesen
+- TOP 14.10: Dokumente mit klaren Lizenzangaben versehen 2016 - überwiesen
+- TOP 14.11: Radstreifen auf der Karl-Marx-Straße - überwiesen
+- TOP 14.12: Sicherheitsgefühl für Frauen am Gemeinschaftshaus Gropiusstadt stärken - überwiesen
+- TOP 14.13: Leerstandsanzeigen - überwiesen
+- TOP 14.14: Aufstellung von Trinkwasserbrunnen - überwiesen
+- TOP 14.15: Genehmigung für Gastsätten - überwiesen
+- TOP 14.16: Open Data für Neukölln 2016 - überwiesen
+- TOP 14.17: Schnittstelle für die Datenbank der FamilienApp - überwiesen
+- TOP 14.18: Änderung der GO §52 - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Mobilitätshilfedienste in Neukölln - mit Abschlussbericht zur Kenntnis genommen
