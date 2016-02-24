@@ -1,0 +1,53 @@
+# 46. öffentliche Sitzung des Ausschusses für Soziale Stadt, QM, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-02-24T17:30:00+01:00
+- Ende: 2016-02-24T20:35:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3774
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3774
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=130076
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Themen
+- TOP 1.1: Ergebnis Bürgerbeteiligungsverfahren Spreeufer Luisenstadt (B-Plan I-32aa). BE: Bezirksamt Mitte, Koordinationsbüro für Stadtentwicklung und Projektmanagement. (gemeinsame Sitzung mit Ausschuss Stadtentwicklung, Sanieren, Bauen und Bebauungspläne)
+- TOP 2: Genehmigung der Tagesordnung / Änderung der Tagesordnung
+- TOP 3: Genehmigung des Protokolls
+- TOP 3.1: der 23. Sitzung am 20.10.2013
+- TOP 3.2: der 24. Sitzung am 20.11.2013
+- TOP 3.3: der 28. Sitzung am 19.03.2014
+- TOP 3.4: der 37. Sitzung am 18.03.2015
+- TOP 3.5: der 39. Sitzung am 20.05.2015
+- TOP 3.6: der 41. Sitzung am 16.09.2015
+- TOP 3.7: der 42. Sitzung am 14.10.2015
+- TOP 3.8: der 43. Sitzung am 18.11.2015
+- TOP 3.9: der 44. Sitzung am 16.12.2015
+- TOP 3.10: der 45. Sitzung am 20.01.2016
+- TOP 4: Aktuelle Themen 2
+- TOP 4.1: Neues QM-Gebiet „Badstraße“. BE: Bezirksamt
+- TOP 4.2: Zielvereinbarung Straßen-und Grünflächenamt 2016. BE: Bezirksamt
+- TOP 5: Berichte der Quartiersräte
+- TOP 6: Aktuelle Viertelstunde
+- TOP 6.1: Mitteilungen des Vorsitzenden
+- TOP 6.2: Mitteilungen des Bezirksamtes
+- TOP 6.3: Anfragen der Ausschussmitglieder
+- TOP 7: Offene und überwiesene Drucksachen
+- TOP 7.1: Demokratie-Erklärung im Bezirk Mitte einführen!
+- TOP 7.2: Zusätzlicher Halt der Linie TXL an der Haltestelle Invalidenpark
+- TOP 7.3: Soziokulturelles Zentrum Kluckstraße 11/Lützowstraße 28 im QM-Gebiet Magdeburger Platz erhalten
+- TOP 7.4: Spreeuferweg: Planungen an der Schillingbrücke zwischen Mitte und Friedrichshain-Kreuzberg abstimmen
+- TOP 7.5: Besseres Willkommen für die Verwaltungsakademie an der Turmstraße
+- TOP 7.6: Baumkataster für Mitte
+- TOP 7.7: Umwidmung einer Wegeverbindung auf der Fischerinsel
+- TOP 7.8: Grüne Welle für Fahrradfahrer
+- TOP 7.9: Muss erst etwas passieren? Kreuzung Invaliden-/Chausseestraße sicher machen!
+- TOP 7.10: Damit ratlose Eltern der Vergangenheit angehören: Bezirkliches Spielplatzportal einrichten
+- TOP 7.11: Wenden in der Invalidenstraße an der Einmündung Caroline-Michaelis-Straße untersagen - bevor es zum Crash kommt
+- TOP 7.12: Ehemalige Sportwiesen wieder dem Breitensport zuführen
+- TOP 8: Verschiedenes
+- TOP 8.1: Themen kommende Sitzungen
+- TOP 8.2: Sonstiges
