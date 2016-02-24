@@ -1,0 +1,62 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2016-02-24T17:00:00+01:00
+- Ende: 2016-02-24T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/719
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/719
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00022483.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00027411.pdf
+
+## Tagesordnung
+
+- TOP 1: Information von Stadtkämmerin Erdel Änderungen des ersten Beratungstages
+- TOP 2: Budgetfestlegung
+- TOP 2.1: Budgetfestlegung für das Haushaltsjahr 2016; - beschlossen
+- TOP 2.2: Budgetfestlegung 2016 für SG12-EDV - beschlossen
+- TOP 2.3: Budgetfestlegung für das Haushaltsjahr 2016; Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - beschlossen
+- TOP 2.4: Budgetfestlegung für das Haushaltsjahr 2016; Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 2.5: Budgetfestlegung für das Haushaltsjahr 2016; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2121, 2122, 2431 - beschlossen
+- TOP 2.6: Budgetfestlegung für das Haushaltsjahr 2016; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2121, 2122 und 2431 - beschlossen
+- TOP 2.7: Budgetfestlegung für das Haushaltsjahr 2016; Gesamtbudget "Sportanlagen" - UA 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 2.8: Budgetfestlegung für das Haushaltsjahr 2016; Budget der Alten Synagoge - UA 3009 - - beschlossen
+- TOP 2.9: Budgetfestlegung für das Haushaltsjahr 2016 - beschlossen
+- TOP 2.10: Budgetfestlegung für das Haushaltsjahr 2016 - beschlossen
+- TOP 2.11: Budgetfestlegung für das Haushaltsjahr 2016;Gesamtbudget 397.180 € - Musikschule - UA 3331 - beschlossen
+- TOP 2.12: Budgetfestlegung für das Haushaltsjahr 2016; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 2.13: Budgetfestlegung für das Haushaltsjahr 2016; Budget der Volkshochschule - UA 3501 - - beschlossen
+- TOP 2.14: Budgetfestlegung HHJ. 2016 Stadtbücherei/SG 132 Unterabschnitt 3521 - beschlossen
+- TOP 2.15: Budgetfestlegung 2016 jungStil - beschlossen
+- TOP 2.16: Budgetfestlegung für das Haushaltsjahr 2016 - beschlossen
+- TOP 2.17: Budgetfestlegung für das Haushaltsjahr 2016 - beschlossen
+- TOP 2.18: Budgetfestlegung für das Haushaltsjahr 2016 - beschlossen
+- TOP 2.19: Budgetfestlegung für das Haushaltsjahr 2016; - beschlossen
+- TOP 2.20: Budgetfestlegung für das Haushaltsjahr 2016, Budget: Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7692, 7693 - beschlossen
+- TOP 2.21: Budgetfestlegung für das Haushaltsjahr 2016; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 2.22: Budgetfestlegung für das Haushaltsjahr 2016; Budget Tourist-Info UA 7901 - beschlossen
+- TOP 2.23: Budgetfestlegung für das Haushaltsjahr 2016; "Städtischer Waldbesitz" - UA 8551 - - beschlossen
+- TOP 2.24: Budgetfestlegung für das Haushaltsjahr 2016; "Wohngrundstücke, Sonstige bebaute Grundstücke" - UA 8801, UA 8802 - - beschlossen
+- TOP 2.25: Budgetfestlegung für das Haushaltsjahr 2016; "Sonstiges Allgemeines Grundvermögen" - UA 8891 - - beschlossen
+- TOP 3: Beratung des Verwaltungshaushaltes 2016
+- TOP 3.1: Antrag AK Mobilfunk Fortschreibung Mobilfunkkonzept - beschlossen
+- TOP 3.2: Antrag der Kulturreferentin; Zeiterfassung im Hinblick auf die Einrichtung eines Kulturamtes
+- TOP 3.3: Antrag der FW-FBW Stadtratsfraktion Nette Toilette für die übrigen Sportheime in der Stadt
+- TOP 3.4: 0800.6556 - Honorar für Suchtberater Anfrage von Stadtrat Hartmann
+- TOP 3.5: 0600.6557 - Gebäudeaufmaße und Bestandsaufnahme Geräteanlagen Anfrage von Stadträtin Schwab
+- TOP 3.6: 0800.5621 - Lehrgänge Auszubildenden und Beamtenanwärter Anfrage von Stadträtin Schwab
+- TOP 3.7: 0800.6311 - Betriebsausflug Anfrage von Stadträtin Wallrapp
+- TOP 3.8: UA 1700 - Sonstige Sicherungsaufgaben - Sicherung von Kalksteintiefbaue Anfrage von Stadtrat Moser
+- TOP 3.9: 1300.5315 - Miete Feuerwehrhaus Hoheim Anfrage von Stadträtin Schwab
+- TOP 3.10: 3311.5311 - Mietkosten für Kostüme Häckerchronik Anfrage von Stadtrat Hartmann
+- TOP 3.11: 3651.1410 - Mieteinnahmen Großlangheimer Turm Anfrage von Stadtrat Hartmann
+- TOP 3.12: UA 3521 - Budget Bücherei Personalkosten Anfrage von Stadtrat Moser
+- TOP 3.13: 4351.5010 - Unterhalt Obdachlosenunterkünfte Anfrage von Stadtrat Moser - abgelehnt
+- TOP 3.14: UA 4641 - Zuschüsse Kindergärten Anfrage von Stadtrat Moser
+- TOP 3.15: 5651.5441 - Strombezugskosten Florian-Geyer-Halle Anfrage von Stadträtin Schwab
+- TOP 3.16: UA 7920 - ÖPNV Anfrage von Stadträtin Schmidt
+- TOP 3.17: Anfrage von Stadtrat Moser Entwicklung Verwaltungshaushalt
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2016 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2015 - 2019
