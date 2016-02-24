@@ -1,0 +1,57 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-02-24T17:00:00+01:00
+- Ende: 2016-02-24T20:05:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3261
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3261
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 10. Sitzung des Hauptausschusses am 02.12.2015 - öffentlicher Teil- - Kenntnisnahme
+- TOP 2: Niederschrift über die 11. Sitzung des Hauptausschusses am 09.12.2015 -öffentlicher Teil- - Kenntnisnahme
+- TOP 3: Dienstreise von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 4: Genehmiung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 4.1: Genehmigung einer Dringlichkeitsentscheidung - Ohne Abstimmung
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 6: 1. Nachtrag zur Satzung der SBMG AöR - Mit Stimmenmehrheit beschlossen
+- TOP 7: Beteiligung der NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 8: Ordnungsbehördliche Verordnungen Verkaufsoffene Sonntage 2016 - Ohne Abstimmung
+- TOP 8.1: Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - Ohne Abstimmung
+- TOP 9: Bau Multifunktionsgebäude Radrennbahn - Einstimmiger Beschluss
+- TOP 9.1: Bau eines Multifunktionsgebäudes und Modernisierung der Freizeitflächen auf der Sportanlage Radrennb - Ohne Abstimmung
+- TOP 10: Soziale Betreuung Flüchtlinge - Einstimmiger Beschluss
+- TOP 11: Auflösungsvereinbarung Betreuungsgeld - Einstimmiger Beschluss
+- TOP 12: Feststellung einer verbindlichen Bedarfsplanung - Ohne Abstimmung
+- TOP 13: Maßnahmen zur Verbesserung der Versorgung der Flüchtlingskinder im Vorschulalter mit einem Betreuu - Einstimmiger Beschluss
+- TOP 13.1: Kindergartenbedarfsplanung 2016/17 Überbelegung in den Kitas - Mit Stimmenmehrheit abgelehnt
+- TOP 13.2: Kindergartenbedarfsplanung 2016/17 Integration von Flüchtlingskindern - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Fortsetzung der zum 31.03.2016 auslaufenden LV mit dem SkF - Einstimmiger Beschluss
+- TOP 15: Benennung des Platzes vor dem Sonnenhaus - Ohne Abstimmung
+- TOP 16: Siebzehnte Satzung über Einheitssätze beitragsfähiger Erschließungsaufwand - Einstimmiger Beschluss
+- TOP 17: Bebauungsplan Nr. 716/S - Stadtbezirk Süd - Kloetersgasse - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 18: Bebauungsplan Nr. 697/S - Stadtbezirk Süd - Hockstein - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 19: Soziale Stadt - Innenstadtkonzept Rheydt - Fortschreibung IHK - Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 20: Festlegung des neuen, erweiterten Soziale Stadt Gebietes „Soziale Stadt Mönchengladbach-Rheydt II“ - Einstimmiger Beschluss
+- TOP 21: Verbandsausschuss des Netteverbandes
+- TOP 22: unter TOP 8.1 behandelt
+- TOP 23: unter TOP 13.1 behandelt
+- TOP 24: unter TOP 13.2 behandelt
+- TOP 25: Quecksilberbelastung der Bevölkerung durch den Fallout regionaler Kohlekraftwerke - Ohne Abstimmung
+- TOP 25.1: Quecksilberbelastung der Bevölkerung durch den Fallout regionaler Kohlekraftwerke - Einstimmiger Beschluss
+- TOP 26: Konzeption der Stadtverwaltung für den Fall von Alarmierung und eventuellen - An den Rat verwiesen
+- TOP 27: Störfall in der Kläranlage Neuwerk durch illegale Einleitung von Chrom in die Kanalisation - Vom Antragsteller zurückgezogen
+- TOP 28: Beitritt zur Klage der Städteregion Aachen gegen den Betrieb des AKW Tihange - Ohne Abstimmung
+- TOP 28.1: Beitritt zur Klage der Städteregion Aachen gegen den Betrieb des AKW Tihange - Einstimmiger Beschluss
+- TOP 29: „Mönchengladbach ohne Barrieren“ - Planungen der Stadtverwaltung Mönchengladbach im Rahmen der Inklusion zur Herstellung von Barrierefreiheit bei kommunalen Einrichtungen und Plätzen; - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Anfragen und Mitteilungen
+- TOP 30.1: Anfrage von Ratsherrn Dr. Schlegelmilch, CDU
+- TOP 30.2: MItteilung von Stadtdirektor und -kämmerer Kuckels
+- TOP 30.3: Anfrage von Ratsherrn Gutowski, Die PiratenPARTEI
+- TOP 30.4: Anfrage von Ratsherrn Gutowski, Die PiratenPARTEI
+- TOP 30.5: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen
+- TOP 30.6: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen
