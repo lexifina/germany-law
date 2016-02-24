@@ -1,0 +1,56 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-02-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818157
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818157
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .3.: Bericht zum Empfang des BA 4 am 03.06.2016 (Beschluss für Empfang bereits 2015)
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 27 ?Präsenz Schuhe? 2 Warenauslagen
+- TOP .2.: Isoldenstr. 37 ?Rossmann?: Aufstellung von 7 Warenschütten und einem mobilen Fahrradständer
+- TOP .2.2.: Kultur
+- TOP .2.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer: Centa-Herker-Bogen, Elisabeth-Kohn-Straße, Friedrich-Loy-Straße, Klausingweg und Leonhard-Frank-Straße - Anzahl der Schilder? (vertagt aus 01/2016)
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Spielaktionen in öffentlichen Grünanlagen: a) MobilSpielFest am 17.04.2016 im Luitpoldpark b) Spielenachmittage (ab Mai jeden Sonntag) im Luitpoldpark c) Kicklusion am 22.05.2016 auf der großen Wiese am Ackermannbogen d) Herbstspielfest vom 01. bis 03.10.2016 im Luitpoldpark
+- TOP .2.1.: Planen
+- TOP .1.: Egmontstr. 5: Errichtung eines neuen Daches (Mansarddach) und dreier Gauben
+- TOP .2.: Elisabethstr. 9: Anbau eines Stahlbalkons im 4. OG hofseitig
+- TOP .3.: Clemensstr. 122: Ausbau und Erweiterung zweier Dachgeschosse, Anbau eines Rückgebäudes mit einer Wohnung, Anbau von Balkonen am Rückgebäude
+- TOP .4.: Schleißheimer Str. 142: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (?Schwabinger Carré II?) - Antrag auf Teilbaugenehmigung für Baugrube, Erdarbeiten und Baumfällungen
+- TOP .5.: Karl-Theodor-Str. 62, 64-68 und 70-72: DG-Ausbau von Mehrfamilienhäusern und Einbau von Doppelparkern in bestehende Garagen
+- TOP .6.: Schleißheimer Str. 280 b: Erweiterung (Anbau) einer Toilette mit Einschütte um eine behindertengerechte Toilette mit Lagerraum
+- TOP .2.2.: Wohnen
+- TOP .1.: Grüne: Smarte MVG-Fahrkartenautomaten
+- TOP .2.: Grüne: Fahrradabstellplätze an der Kreuzung Schwere-Reiter-/Ackermannstraße
+- TOP .3.: Bürger: Fußgängerampel am Kurfürstenplatz zwischen Insel und Westseite
+- TOP .2.1.: Umwelt
+- TOP .1.: Zentnerstr. 35: Fällung von bzw. Kronenrückschnitt an drei Robinien
+- TOP .2.: Kraepelinstr. 2: Fällung mehrerer Bäume
+- TOP .3.: Clemensstr. 74-74 a: Fällung einer Schwarzkiefer
+- TOP .4.: Rossinistr. 5: Fällung einer serbischen Kiefer
+- TOP .2.2.: Verkehr
+- TOP .1.: Erinnerungsverfahren des Baureferats Tiefbau: a) Belgradstraße 104
+- TOP 4.5.: Fußgänger-Schaltung Elisabethstraße - Hiltenspergerstraße
+- TOP 4.1.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017: Bitte um Vorschläge aus dem BA
+- TOP 4.1.: Schaffung eines Fußgängerüberwegs mit Umlaufsperre vor der künftigen Flüchtlingsunterkunft an der Belgradstraße gegenüber vom Penny-Markt
+- TOP .1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. MobilSpielfest am 17.04.2016
+- TOP .2.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Herbstspielfest vom 01. - 03.10.2016
+- TOP .1.: (E) Budget der Bezirksausschüsse Evangelisch-Lutherische Kirchengemeinde Kreuzkirche Konzert zum Karfreitag am 25.03.2016
+- TOP 2: (E) Anbringung von Pfosten zur sicheren Sperrung des Rad- und Fußweges Erich-Kästner-Straße für den Fahrzeugverkehr Empfehlung Nr. 14-20 / E 00607 der Bürgerversammlung des Stadtbezirkes 4 - Schwabing West am 08.10.2015
+- TOP 3: (E) Verlegung des Radwegs in der Karl-Theodor-Straße zwischen Belgrad- und Angererstraße Empfehlung Nr. 14-20 / E 00608 der Bürgerversammlung des Stadtbezirkes 4 Schwabing West am 08.10.2015
+- TOP 4: (E) Durchfahrts- und Parkverbot in der Georg-Birk-Straße zwischen Elisabeth-Kohn- und Petra-Kelly-Straße Empfehlung Nr. 14-20 / E 00617 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West vom 08.10.2015
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
