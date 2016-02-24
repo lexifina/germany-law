@@ -1,0 +1,54 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2016-02-24T15:00:00+01:00
+- Ende: 2016-02-24T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQBCFG71UKfw-ieGuSix2Jw
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/579
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeobimpYrZ6ENfclqAiCmZgZ-VDule3P0oKjgS_HkwIN/Einladung_Seniorenbeirat_24.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZAEKJjqBwmKmlr9P-woUvpJA6-hCMEJb6Lhz8HJWEq5/Oeffentliche_Niederschrift_Seniorenbeirat_24.02.2016.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Museum unter Tage - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Aufstellen von Rettungsschildern im Westpark und längs der Erzbahntrasse - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.3: Erstellen einer Toilettenanlage am Eingang zum Stadtpark - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.4: WC's im Einzelhandel - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.5: Informationen durch den USB - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Vorstellung des Weißen Ringes, Außenstelle Bochum hier: Mdl. Bericht
+- TOP 6.2: Sozialbericht2015 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Bochumer Ortsteile kompakt 2015 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Unterstände und Sitzgelegenheiten der Bushaltestellen Rosenberg-, Fontane- und Heinestraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Sitzhöhe in Wartehäuschen bzw. Bus- und Bahnhaltesellen der BOGESTRA - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Neufassung der Geschäftsordnung für den Seniorenbeirat der Stadt Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Berichte aus den Gremien hier: Mdl. Berichte in der Sitzung
+- TOP 6.8: Bericht der Vorsitzenden hier: Mdl. Bericht in der Sitzung
+- TOP 7: Anfragen
+- TOP 7.1: Bau einer zweiten Seniorenwohnanlage im Hammer Park - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Querungshilfe Gahlensche Straße gegenüber den Glas- und Papiercontainern - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Mögliche Einschränkungen der Müllabfuhr - kein Beratungsergebnis                                                                              
+- TOP 7.4: Konzept zum Umbau des Stadtparks - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.5: Senioreneinrichtungen - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.6: Nahversorgung in den einzelnen Bezirken - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
