@@ -1,0 +1,8 @@
+# TOP 5: Internes Audit im eea-Zertifizierungsprozess 2015
+
+- Sitzung: Ausschuss für Umwelt und Grünflächen (2016-02-25)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/125153
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/19485
