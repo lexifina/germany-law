@@ -1,0 +1,52 @@
+# 21. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-02-25T16:00:00+01:00
+- Ende: 2016-02-25T21:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4936
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4936
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00240612.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - erledigt
+- TOP 2: Bericht des Oberbürgermeisters - erledigt
+- TOP 3: Aktuelle Stunde " Sicherheitslage am Wiener Platz" - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 4.1: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 5.1: Beirat Gesunde Städte - Einigung
+- TOP 6: Umbesetzung Regionaler Planungsverband "Oberes Elbtal/Osterzgebirge" - Einigung
+- TOP 7: Bestellung eines Vertreters für den Zweckverband Tierkörperbeseitigung Sachsen - Einigung
+- TOP 8: Vertretung in den Verbandsversammlungen der Zweckverbände und Besetzung des Aufsichtsrates der Verkehrsverbund Oberelbe GmbH - Einigung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Vertagung Stadtratssitzung 07.05.2015
+- TOP 10.1: Verkauf eines Grundstückes an der Ringstraße - Verweisung
+- TOP 11: Vertagung Stadtratssitzung 21.01.2016 - dringender Beschluss
+- TOP 11.1: Jahresabschlüsse 2014 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 12: Vertagungen Stadtratssitzung 21.01.2016
+- TOP 12.1: Verkauf von Grundstücken an Dresdner Wohnungsgenossenschaften - Ersetzung
+- TOP 12.2: Wohnentwicklung in Dresden - Zustimmung
+- TOP 12.3: Geschäftsordnung der Gestaltungskommission Dresden - Zustimmung
+- TOP 12.4: Grundhafte Instandsetzung einschließlich kompletter Erneuerung des Farbanstriches des Blauen Wunders - Zustimmung
+- TOP 12.5: Vorlage zur Umsetzung des Beschlusses des Petitionsausschusses P/005/2015 vom 25. März 2015 "Sanierung Sanitärbereich Sporthalle BSZ" zur Petition P0009/14 - Zustimmung
+- TOP 12.6: Sanierung und Erweiterung der 39. Grundschule, Schleiermacherstraße 8 in 01187 Dresden mit Ersatzneubau Schulsporthalle und Neugestaltung der Freianlagen - Zustimmung
+- TOP 12.7: Satzung der Landeshauptstadt Dresden über die Erhebung von Benutzungsgebühren des Stadtarchives Dresden (Archivgebührensatzung) - Zustimmung mit Ergänzung
+- TOP 12.8: Sanierung der Brückenrampe der Augustusbrücke (Innere Neustadt) - Zustimmung mit Ergänzung
+- TOP 12.9: Bebauungsplan Nr. 54 a, Dresden-Altstadt I Nr.6, Postplatz/Wallstraße - Zustimmung
+- TOP 12.10: Online-Präsenz von kommunal geförderten Vereinen, Initiativen, Projekten usw. auf der Internetseite www.dresden.de verbessern - Zustimmung
+- TOP 12.11: Schulbauleitlinien der Stadt Dresden - punktweise Zustimmung
+- TOP 12.12: Freifunk für Dresden - Zustimmung
+- TOP 12.13: Erarbeitung einer Strategie zur Unterstützung und Bewerbung der direkten Bahnverbindung Dresden - Wroclaw/Breslau mit dem Ziel der Einführung und des Erhalts eines dauerhaften attraktiven Verkehrsangebots - Zustimmung
+- TOP 12.14: Regionale Wirtschaftsförderung: Gründung einer „INVEST REGION DRESDEN (Oberes Elbtal) GmbH“ - Ablehnung
+- TOP 13: Neufassung der Satzung der Landeshauptstadt Dresden zur Durchführung des Dresdner Stadtfestes (Stadtfestsatzung) - Zustimmung mit Änderung
+- TOP 14: Aufhebung der Außenstelle des Beruflichen Schulzentrums für Dienstleistung und Gestaltung - Zustimmung
+- TOP 15: Stadtbahn 2020 - Teilprojekt 2 Bühlau - Weißig - Vertagung nach 22 Uhr
+- TOP 16: Interkommunale Busverkehre – Vereinbarung zwischen den Aufgabenträgern und Zweckvereinbarung über die Übertragung von Aufgaben des Ersatzverkehres im Öffentlichen Personennahverkehr - Zustimmung
+- TOP 17: Integriertes Stadtentwicklungskonzept "Zukunft Dresden 2025+" - Zustimmung
+- TOP 18: Einrichtung eines zeitweiligen Ausschusses für kommunale Asylangelegenheiten - Vertagung nach 22 Uhr
+- TOP 19: Keine Unterbringung von Asylbewerbern in Dresdner Schulen und Turnhallen - Vertagung nach 22 Uhr
