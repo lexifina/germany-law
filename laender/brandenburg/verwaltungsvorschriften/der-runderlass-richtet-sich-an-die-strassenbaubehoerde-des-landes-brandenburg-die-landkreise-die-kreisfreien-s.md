@@ -1,18 +1,18 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg, die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 14/2015
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg, die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 23/2
 
 - Herausgeber: Land Brandenburg
-- Datum: 2016-01-29 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/hbs2015
+- Datum: 2016-02-26 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tlsbit2015
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Handbuch für die Bemessung von Straßenverkehrsanlagen (HBS, Ausgabe 2015)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Sonderbindemittel und Zubereitungen auf Bitumenbasis, Ausgabe 2015 (TL Sbit-StB 15)
 
-vom 29. Januar 2016
+vom 26. Februar 2016
 
-(ABl./16, [Nr. 7], S.201)
+(ABl./16, [Nr. 11], S.306)
 
 Der Runderlass richtet sich an
 
@@ -20,20 +20,12 @@ die Straßenbaubehörde des Landes Brandenburg,
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 14/2015 vom 26. August 2015 hat das Bundesministerium für Verkehr und digitale Infrastruktur das „Handbuch für die Bemessung von Straßenverkehrsanlagen (HBS)“ mit der Bitte um Einführung bekannt gegeben.
+Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 23/2015 vom 14. Dezember 2015 hat das Bundesministerium für Verkehr und digitale Infrastruktur die „Technischen Lieferbedingungen für Sonderbindemittel und Zubereitungen auf Bitumenbasis, Ausgabe 2015 (TL Sbit-StB 15)“ bekannt gegeben.
 
-Hiermit werden das HBS, Ausgabe 2015 und die Hinweise des ARS Nr. 14/2015 für Bundesfern- und Landesstraßen im Land Brandenburg eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+Mit den TL Sbit-StB 15 werden die Anforderungen an Porenfüllmassen, Regeneriermittel, Nahtkleber, heiß zu verarbeitende Bitumen und bitumenhaltige Massen zur Randabdichtung sowie für gebrauchsfertige Polymermodifizierte Fluxbitumen für Oberflächenbehandlungen beschrieben.
 
-Folgende Hinweise sind zu beachten:
+Hiermit werden die TL Sbit-StB 15 für den Bereich der Bundesfernstraßen und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-Für die Bemessung geplanter Anlagen (Neu-, Um- und Ausbau) ist die Bemessungsverkehrsstärke im Prognosezustand anzusetzen.
+Der Runderlass des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Nummer 9/2002 - Straßenbau - vom 12. März 2002 (ABl. S. 424) sowie das Schreiben vom 16. August 2002 mit Hinweis auf das ARS Nummer 11/2002 des Bundesministeriums für Verkehr, Bau- und Wohnungswesen werden hiermit aufgehoben.
 
-Als Grundlage für die Bemessung ist die jeweils zum Zeitpunkt der Planung aktuelle Verkehrsprognose anzusetzen.
-
-Für Netzabschnitte der Straßenkategorie LS I, denen aufgrund einer geringen Verkehrsnachfrage eine Entwurfsklasse (EKL) 2 zugewiesen wird, kann die angestrebte mittlere Pkw-Fahrtgeschwindigkeit nicht in jedem Fall nachgewiesen werden. Für diese Fälle ist eine Einzelfallentscheidung zu punktuell höherem Ausbaustandard oder zur Abminderung der Zielstellung vorzunehmen.
-
-Über die Erfahrungen bei der Anwendung des HBS ist bis zum 30. Juni 2017 zu berichten.
-
-Das HBS 2015 ist beim FGSV-Verlag GmbH, Wesselinger Straße 17, 50999 Köln, zu beziehen.
-
-Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse www.landesrecht.brandenburg.de eingestellt.
+Die TL Sbit-StB 15 sind bei der FGSV Verlag GmbH, Wesselinger Straße 17, 50999 Köln zu beziehen.
