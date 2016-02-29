@@ -1,0 +1,75 @@
+# Rat (25. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-02-29T18:00:00+01:00
+- Ende: 2016-02-29T20:00:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX69pLzZGuHvPm3y6drQfvg
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6484
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfc7ym6FrGJZuBJi_ipvdxPNTq_t29gDcprIhx1h2fT1/Bekanntmachung_Rat_29.02.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWcY5oghA0OcdM_SG_dkriU45j8vSzdq9sLSePYsKpID/Oeffentliche_Niederschrift_Rat_29.02.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Statistikbericht Flüchtlinge
+- TOP 1.2: Rathausneubau
+- TOP 1.3: Flüchtlinge in Brühl
+- TOP 1.4: Haushalt / Steuererhöhungen
+- TOP 1.5: Pehler Feldchen
+- TOP 1.6: Containerdorf Brühl-West
+- TOP 2.: Niederschrift vom 14.12.2015
+- TOP 3.: Bestellung einer Schriftführerin und einer stellvertretenden Schriftführerin für den RAT - (kein Text vorhanden)
+- TOP 4.: Rathaus B Steinweg hier: Herbeiführung eines Ratsbürgerentscheids Bezug: RAT 14.12.2015 - (kein Text vorhanden)
+- TOP 4.1: Rathaus B Rathaus B Teilabriss sowie Errichtung eines Neubaus zur Bündelung bürgernaher Dienstleistungen - (kein Text vorhanden)
+- TOP 4.2: Ratsbürgerentscheid Bezug: Antrag der FDP-Fraktion vom 19.02.2016 - (kein Text vorhanden)
+- TOP 5.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.1: Dringlichkeitsentscheidung zur Bereitstellung überplanmäßiger Mittel hier: Rückzahlung von Erbpachtzinsen Bezug: VgLA 25.1.2016, Vorlagen-Nr. 14/2016 - (kein Text vorhanden)
+- TOP 5.2: Überplanmäßige Mittelbereitstellung Kanal Markt - (kein Text vorhanden)
+- TOP 6.: Überplanmäßige und außerplanmäßige Mittelbereitstellung
+- TOP 6.1: Überplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich UVG - (kein Text vorhanden)
+- TOP 6.2: Flüchtlingsunterbringung: außerplanmäßige Ausgabe für die Errichtung eines Containerdorfes an der Willy-Brandt-Straße - (kein Text vorhanden)
+- TOP 7.: Satzungen der Anstalt öffentlichen Rechts - (kein Text vorhanden)
+- TOP 8.: Stellenplan 2016 - (kein Text vorhanden)
+- TOP 9.: Bebauungspläne
+- TOP 9.1: Bebauungsplan 08.14 "Liblarer Straße 154, Tennishalle THC" - Aufstellungsbeschluss - - (kein Text vorhanden)
+- TOP 9.2: Bebauungsplan 04.08 "Gewerbegebiet Westlich Bergerstraße" Teilbereich A - Änderung der Begründung - - (kein Text vorhanden)
+- TOP 9.2.1: Bebauungsplan 04.08 "Gewerbegebiet Westlich Bergerstraße" Teilbereich A - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 10.: Sonderprogramm des Landes NRW „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen Programmantrag: Bau eines Integrationszentrums für Brühl – Ost, - (kein Text vorhanden)
+- TOP 11.: Benennung von zwei Mitgliedern / zwei stellvertretenden Mitgliedern für den Aufsichtsrat der Wirtschaftsfördrung Rhein-Erft GmbH (WfG) - (kein Text vorhanden)
+- TOP 12.: Wirtschaftsplan der Stadtwerke Brühl GmbH für das Jahr 2016 - (kein Text vorhanden)
+- TOP 13.: Niederschrift über die 70. Sitzung der Verbandsversammlung des Zweckverbandes der KDVZ am 18.12.2015
+- TOP 14.: Anträge
+- TOP 14.1: Containerdorf Brühl-Ost Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 22.01.2016
+- TOP 14.1.1: Container-Dorf Brühl-Ost Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 22.01.2016
+- TOP 14.2: Überarbeitung der Brühler Straßenordnung vom 27.04.1998 und Erstellung eines Verwarnungs- und Bußgeldrahmen-Kataloges Bezug: Antrag der FDP-Fraktion vom 05.02.2016 - (kein Text vorhanden)
+- TOP 15.: Umbesetzung in Ausschüssen
+- TOP 15.1: Umbesetzungen im Ausschuss für Verkehr und Mobilität Bezug: Antrag der Fraktion Linke&Piraten vom 03.02.2016 - (kein Text vorhanden)
+- TOP 15.2: Beratende Sitze im Schul- und Jugendhilfeausschuss hier: Schreiben Stadtjugendring vom 02.11.2015
+- TOP 16.: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 17.: Mitteilungen
+- TOP 17.1: Senkrechtaufzüge Bundesbahnhof
+- TOP 18.: Anfragen
+- TOP 18.1: Vergleich zwischen der Erbbau - Verpachtung von Grundstücken und deren Verkauf Bezug: Anfrage der FDP-Fraktion vom 05.02.2016
+- TOP 18.2: P&R Parkplatz Schwadorf
+- TOP 18.3: Fassade Kaufhof
+- TOP 18.4: Minikreisel Kaiserstraße
+- TOP 18.5: Markt auf dem BNP
+- TOP 18.6: Rheinischer Hof
+- TOP 18.7: Homepage der Stadt Brühl
+- TOP 18.8: GFG 2016
+- TOP 18.9: Verkehrsbelastung in der Goethestraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Nachtrag - Stellenplan 2016
+- TOP 20.: Annahme von drei Parzellen als Schenkung - (kein Text vorhanden)
+- TOP 21.: Wirtschaftsplan der Stadtwerke Brühl GmbH für das Jahr 2016
+- TOP 22.: Bericht über die 128. Sitzung des Aufsichtsrates der REVG mbH am 03.12.2015
+- TOP 23.: Vereinbarung mit der WEPAG Veranstaltungs-GmbH & Co.KG über die Durchführung von Veranstaltungen - (kein Text vorhanden)
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen
+- TOP 25.1: Rheinischer Hof
+- TOP 25.2: Forderung HGK
