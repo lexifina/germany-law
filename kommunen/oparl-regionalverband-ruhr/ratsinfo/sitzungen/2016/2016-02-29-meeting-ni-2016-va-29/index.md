@@ -1,0 +1,68 @@
+# 6. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-02-29T10:00:00+01:00
+- Ende: 2016-02-29T11:35:00+01:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-VA-29
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-VA-29
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VA-29
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VA-29
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Förderprogramm 'Nahmobilität 2016'
+- TOP 1.2: Förderprogramm 'Kommunaler Straßenbau 2016'
+- TOP 1.3: Fördermöglichkeiten des NRW-Programms Ländlicher Raum, Rückblick 2015
+- TOP 1.4: Jahresbericht 2015 zur ländlichen Entwicklung und Bodenordnung im Gebiet des Regionalverbandes Ruhr
+- TOP 1.5: Städtebauförderung hier: Vorstellung des Sonderlandesprogrammes 'Hilfen im Städtebau zur Integration von Flüchtlingen'
+- TOP 1.6: Bericht über den Stand der Umsetzung der Hochwasserrisikomanagement-Richtlinie und die Ausweisung von Überschwemmungsgebieten im Planungsbereich
+- TOP 1.7: Rückblick auf die Förderung im Naturschutz im Haushaltsjahr 2015
+- TOP 1.8: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik - Kulturregion Ruhrgebiet hier: Beratung und Beschlussfassung 2016
+- TOP -: Vorlagen des Regionalverbandes Ruhr/Planungsausschuss
+- TOP 1.9: Stellungnahme der Regionalplanungsbehörde beim RVR sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Landesentwicklungsplanes Nordrhein-Westfalen (zweites Beteiligungsverfahren)
+- TOP 1.9.1: Stellungnahme der Regionalplanungsbehörde beim RVR sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Landesentwicklungsplanes Nordrhein-Westfalen (zweites Beteiligungsverfahren), hier: Anfrage der Fraktion Die Linke. aus dem Planungsausschuss vom 16.02.2016
+- TOP 1.9.2: Stellungnahme der Regionalplanungsbehörde beim RVR sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Landesentwicklungsplanes Nordrhein- Westfalen (zweites Beteiligungsverfahren) Antrag Fraktion DIE LINKE
+- TOP 1.10: 83. Änderung GEP 99 'Halde Kohlenhuck' Bekanntmachung
+- TOP 1.11: Abgrabungsmonitoring von Nordrhein-Westfalen Lockergesteine Hier: Monitoringberichte für das Planungsgebiet Regionalverband Ruhr zum 01.01.2014 und 01.01.2015
+- TOP 1.12: 5. Änderung des Regionalplanes für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund - westlicher Teil - im Gebiet der Stadt Dortmund (Westfalenhütte) Änderung der Bereiche für gewerbliche und industrielle Nutzungen (GIB), Allgemeinen Siedlungsbereiche (ASB) und Allgemeinen Freiraum- und Agrarbereiche hier: Erarbeitungsbeschluss
+- TOP 1.13: Regionalplan und Handlungsprogramm hier: Sachstand ruhrFIS Siedlungsflächenbedarfsberechnung
+- TOP 1.13.1: Regionalplan und Handlungsprogramm hier: Sachstand ruhrFIS Siedlungsflächenbedarfsberechnung, hier: Anfragen der SPD-Fraktion und der CDU-Fraktion vom 17.02.2016 und Antwort der Verwaltung vom 17.02.2016
+- TOP 1.14: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 1.15: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Verwaltungsvorlagen
+- TOP 2.1: Literaturpreis Ruhr Wahl eines neuen Jurymitgliedes
+- TOP 2.2: Satzung zur 5. Änderung der Verbandsordnung vom 11.03.2016, hier: Erlass des MIK vom 23.02.2016
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.3: Geonetzwerk.metropoleRuhr –Bebauungsplanübersicht Metropole Ruhr
+- TOP 2.4: Regionale ZukunftsLAND 2016 - WALDband
+- TOP 2.5: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr'
+- TOP 2.5.1: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr', hier: Anfrage der SPD aus dem Planungsausschuss vom 17.02.2016 und Antwort der Verwaltung vom 24.02.2016
+- TOP 2.6: Fahrradverleihsystem metropolradruhr Hier: Sachstandsbericht
+- TOP 2.7: Radschnellweg mittleres Ruhrgebiet Hier: Sachstand
+- TOP 2.8: Aufhebung der Erlaubnis zur Aufsuchung von Kohlenwasserstoffen nebst den bei ihrer Gewinnung anfallenden Gasen zu gewerblichen Zwecken für das Feld 'Saxon 1 West'
+- TOP 2.9: Antrag der Dart Energy (Europe) Limited auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen nebst den bei ihrer Gewinnung anfallenden Gasen zu gewerblichen Zwecken für ein Feld 'Freiheit 1'. Hier: Antrag zurückgezogen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.10: Angelegenheiten der Ruhr Tourismus GmbH - Abgabe einer Verpflichtungserklärung im Rahmen des Landeswettbewerbs 'Erlebnis.NRW - Tourismuswirtschaft stärken'
+- TOP 2.11: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrags der LAMBDA GmbH
+- TOP 2.12: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Erwerb eines Geschäftsanteils von 50 % an der DAH1 GmbH (DAH1)
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.13: Internationale Gartenausstellung IGA Metropole Ruhr 2027
+- TOP 2.14: Zielsetzung einer regionalen Radwegeunterhaltung
+- TOP -: Vorlagen aus dem Betriebsausschuss RuhrGrün
+- TOP 2.15: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2015
+- TOP -: Fraktionsanträge
+- TOP 2.16: Software-Lösungen für responsives Layout, Fraktionsantrag der Piraten vom 16.02.2016
+- TOP 2.17: Übertragung und Archivierung der Sitzungen der Verbandsversammlung im Internet, Fraktionsantrag der Piraten vom 16.02.2016
+- TOP 2.18: Anfragen und Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
