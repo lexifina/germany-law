@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 47 Absatz 3 Satz 1 des Personenbeförderungsgesetzes in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690), das zuletzt durch Artikel 482 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung von Ermächtigungen des Personenbeförderungsgesetzes vom 18. Mai 1993 (Brem.GBl. S. 155 - 9240-a-2) wird verordnet:
