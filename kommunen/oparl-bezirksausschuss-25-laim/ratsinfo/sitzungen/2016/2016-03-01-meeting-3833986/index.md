@@ -1,0 +1,97 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-03-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833986
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833986
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Zustand Schlangenwegerl zwischen Von-der-Pfordten-Str. und Vohburger Str.
+- TOP 1.2.2.: Geschwisterkinder an Münchens Schulen
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Unterflur-Wertstoffinseln für das Neubaugebiet Zschokke-/Westendstraße
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 27.01.16: Veit-Stoß-Str.; absolutes Haltverbot an der Südseite zwischen Sturmstr. und Sandrartstr. mit Zeitzusatz "werktags, Mo.-Fr. von 07:00 bis 13:00 Uhr"
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 27.01.16: Joergstr.; absolutes Haltverbot an der Ostseite ab der Einmündung Maxstadtstr. auf 12 m Richtung Süd mit Zeitzusatz "werktags, Mo.-Fr. von 07:00 bis 14:00 Uhr"
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 29.01.16: Laimer Anger; Festival der Marionetten vom 13.09. bis 19.09.16
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 02.02.16: Maifest auf dem Laimer Anger am 30.04. oder 01.05.16
+- TOP 4.5.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Gotthardstr., nördliche Fahrbahn im Abschnitt zwischen Fürstenrieder Str. und Ostendorferweg
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 04.02.16: Hogenbergplatz; Spielfest Regsam AK/Familienzentrum Laim am 24.06.16
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 10.02.16: Laimer Platz; Flohmarkt des Kindergarten Drachenburg e.V. am 09.04.16 (Ersatztermin 23.04.16)
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 04.02.16: Weißenfelderplatz; Kinderflohmarkt des Bärchen e.V. am 24.04.16 (Ausweichtermin 30.04.16)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Von-der-Pfordten-Str. 23: Umbau eines Mehrfamilienhauses in ein Einfamilienhaus mit Einliegerwohnung einschließlich Errichtung zweier Dachgauben / Tektur; hier: Baumbestandsplan
+- TOP 5.2.: Schedelstr. 2: Neubau von Balkonen an ein Mehrfamilienhaus
+- TOP 5.3.: Ofener Str. 22: Neubau einer Doppelhaushälfte mit Garage
+- TOP 5.4.: Lanzstr. 18b - 20: Neubau eines Mehrfamilienhauses (10 WE) mit Tiefgarage
+- TOP 5.5.: Fürstenrieder Str. 41: Neubau einer Wohnanlage / Tektur
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Spiellandschaft Stadt e.V. vom 02.02.16: Spielaktionen in öffentlichen Grünanlagen
+- TOP 6.2.: Schreiben Direktorium vom 08.02.16: Verwendung eines verbliebenen Betrages aus dem BA-Zuschuss für das Ferienprogramm 2015 für Ferienprogramme 2016 (Bezug: BA-Beschluss vom 03.03.15)
+- TOP 6.3.: Schreiben SWM Services GmbH vom 01.02.16: Informationsveranstaltung der SWM am 14.03.16 um 18:00 Uhr in der SWM-Zentrale, Emmy-Noether-Str. 2
+- TOP 6.4.: Schreiben Spielen in der Stadt e.V. vom 11.02.16: Planung der Einsätze der Münchner SommerSpielAktion 2016
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 02.02.16
+- TOP 7.2.: Sitzung UA Bildung und Sozialplanung vom 03.02.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 30.12.15: BA-Informationsschreiben Nr. 04/15; Umgang mit Spenden, Annahme von Geschenken
+- TOP 8.2.: Schreiben Baureferat vom 12.01.16: Vollzug der Wassergesetze; Bachräumungstermine 2016 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.3.: Schreiben Baureferat vom 19.01.16: Unterrichtung über die Entfernung von Gefahrenbäumen; Agnes-Bernauer-Str. 140 und Willibaldplatz (Fällungen Januar/Februar 2016)
+- TOP 8.5.: Schreiben Baureferat vom 02.02.16: Anbindung des Stadtbezirkes Laim an den neuen Radweg Hauptbahnhof-Laim-Pasing; Ausschilderung der Zufahrt auf den Radweg (Anfrage Nr. 14-20 / Q 00211 aus der zusätzlichen Bürgerversammmlung des Stadtbezirkes 25 Laim am 17.12.15)
+- TOP 8.6.: Schreiben Abfallwirtschaftsbetrieb München vom 25.01.16: Wertstoffcontainer am Standort Hans-Thonauer-Str. / Nördlinger Str.
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 18.01.16: Unveränderte Fortführung der Schank- und Speisewirtschaft "Nuova Italia", Landsberger Str. 331
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 08.02.16: Unveränderte Fortführung der Schank- und Speisewirtschaft "Ristorante Il Cortile", Fürstenrieder Str. 8
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 05.02.16: Querungsmöglichkeiten mit Fußgängerampel in der Agnes-Bernauer-Straße auf Höhe der Konditorei Detterbeck und beim Spielplatz Agricolastraße (Antrag aus der Einwohnerversammlung des BA 25 für Kinder und Jugendliche am 27.11.15)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.01.16: Hörkherstr. 3a, Neubau eines Einfamilienhauses; Vorbescheid
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.01.16: Helmpertstr. 19, Neubau eines Pfarrheims und einer Tiefgarage; Vorbescheid
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.01.16: Agnes-Bernauer-Str. 104, Neubau eines Einfamilienhauses; Vorbescheid
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.01.18: Rushaimerstr. 54, Neubau eines Einfamilienhauses mit 2 Garagen; Vorbescheid
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.02.16: Aindorferstr. 77 d, Neubau eines Einfamilienhauses mit Garage; Baugenehmigung
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.02.16: Umweltverbände und Öffentlichkeit frühzeitig in Planungsverfahren einbinden! (Antrag Nr. 14-20 / A 01503 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 29.10.15)
+- TOP 8.16.: Bautenliste vom 18.01. bis 24.01.16 1. Erstantragsverfahren a) Schedelstr. 2 b) Lanzstr. 18b 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Von-der-Pfordten-Str. 23
+- TOP 8.17.: Bautenliste vom 25.01. bis 31.01.16 1. Erstantragsverfahren a) Ofener Str. 22 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Aindorferstr. 77 b
+- TOP 8.18.: Bautenliste vom 01.02. bis 07.02.16 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 1 b) Queristr. 12 c) Camerloherstr. 152
+- TOP 8.19.: Bautenliste vom 08.02. bis 14.02.16 1. Erstantragsverfahren a) Valpichlerstr. 92 b) Landsberger Str. 293 c) Elsenheimerstr. 4a d) Ossietzkystr. 12 e) Valpichlerstr. 84 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Siglstr. 7 b) Agricolastr. 50 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsver- fahren a) Rushaimerstr. 73 b) Haslangerstr. 45
+- TOP 8.20.: Schreiben Referat für Bildung und Sport vom 18.01.16: Erweiterung der Grund- und Mittelschule an der Fürstenrieder Str. 30; Nutzung des Flurstücks Nr. 47/0 Gemarkung Laim an der Agnes-Bernauer-Straße; Vormerkung eines Gesprächs am 07.01.16
+- TOP 8.21.: Schreiben Sozialreferat vom 29.01.16: Öffentliche Veranstaltungen behindertengerecht durchführen und entsprechend kennzeichnen (Empfehlung Nr. 14-20 / E 00789 der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.15)
+- TOP 8.22.: Schreiben Sozialreferat vom 04.02.16: Antrag auf Zweckentfremdung von Wohnraum; Aindorferstr.
+- TOP 8.23.: Schreiben Sozialreferat vom 15.02.16: Geplante Laufzeitänderung für die Flüchtlingsunterkunft in der Elsenheimerstr. 48-50
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 11.01.16: Ablehnung der Tram Westtangente (Empfehlung Nr. 08-14 / E 02113 der Bürgerversammlung des Stadtbezirkes 25 Laim am 26.11.13)
+- TOP 8.25.: Schreiben Referat für Arbeit und Wirtschaft vom 11.01.16: Einsatz von mit Brennstoffzellen oder Wasserstoff betriebenen Bussen in der Fürstenrieder Straße statt Straßenbahn / Antrag 1 (Empfehlung Nr. 08-14 / E 02114 der Bürgerversammlung des Stadtbezirkes 25 Laim am 26.11.13)
+- TOP 8.26.: Schreiben Referat für Arbeit und Wirtschaft vom 06.02.16: Aufstellung einer weiteren Sitzbank an der Haltestelle "Fürstenrieder Straße" der Straßenbahnlinie 19, Fahrtrichtung Pasing (Anfrage Nr. 14-20 / Q 00204 der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.15)
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 25.01.16: Baumaßnahmen der Stadtwerke; Stichtag 25.01.16 - Teil 1
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 25.01.16: Baumaßnahmen der Stadtwerke; Stichtag 25.01.16 - Teil 2
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 01.02.16: Baumaßnahmen der Stadtwerke; Stichtag 01.02.16
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 04.02.16: Baumaßnahmen der SWM; Telekommunikationsprojekt Schrobenhausener Str.
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 08.02.16: Baumaßnahmen der Stadtwerke; Stichtag 08.02.16
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 15.02.16: Baumaßnahmen der Stadtwerke; Stichtag 15.02.16
+- TOP 8.33.: Schreiben Stadtwerke München GmbH / MVG vom 05.02.16: Verkehrssituation Friedenheimer Brücke; Busspur anstatt Parkplätze
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Wildtiere in München II: Erfassung der Wildtiere in München (Sitzungsvorlage Nr. 14-20 / V 05025)
+- TOP 8.35.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Gartenstädte: Erhalt des Charakters und bauliche Entwicklung; Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifiziert überplanten Innenbereich (Sitzungsvorlage Nr. 14-20 / V 04857)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: E-Mobilität: Handlungsfeld 6 - Innerstädtischer Wirtschaftsverkehr (Sitzungsvorlage Nr. 14-20 / V 04745)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Unterflur-Containerstandorte in Neubaugebieten mitplanen! (Sitzungsvorlage Nr. 14-20 / V 04859)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen; Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur (Sitzungsvorlage Nr. 14-20 / V 04903)
+- TOP 8.39.: Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwaltungsausschuss des Stadtrates vom 18.02.16: Schulbauoffensive 2013 - 20130 (Sitzungsvorlage Nr. 14-20 / V 05131)
+- TOP 8.40.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 18.02.16: Schüler_innen- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04883)
+- TOP 8.41.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 18.02.16: Schüler_innen- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04967)
+- TOP 8.42.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 18.02.16: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04946)
+- TOP 8.43.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 18.02.16: Schüler_innen- und Klassenzahlen an den Beruflichen Schulen in der Trägerschaft der LH München im Schuljahr 2015/2016, Stand: 20.10.15 (Sitzungsvorlage Nr. 14-20 / V 04975)
+- TOP 8.44.: Schreiben Behindertenbeirat der Landeshauptstadt München vom 25.01.16: Protokoll der Sitzung der Behindertenvertreterinnen und -vertreter der Bezirksausschüsse mit dem Facharbeitskreis Mobilität im Behindertenbeirat am 14.01.16
+- TOP 8.45.: Schreiben BA 13 Bogenhausen vom 04.02.16: Bildungsoffensive 4. Akt (Antrag des BA 13 Nr. 14-20 / B 01959 vom 12.01.16)
+- TOP 8.46.: Schreiben Katholischer Männerfürsorgeverein e.V. vom 04.02.16: Bus & Bahn Begleitservice München
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 16.02.16: Laimer Anger, Kermesfest vom 21.05. bis 22.05.16
+- TOP 8.4.: Schreiben Baureferat vom 02.02.16: Unterrichtung über die Entfernung von Gefahrenbäumen; Interim, Am Laimer Anger 2
+- TOP 1: (E) Lösung der Müllproblematik vor Bahnstationen (Ziffer 2 des Antrages) Empfehlung Nr. 14-20 / E 00786 der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.2015
+- TOP 2: (E) Reinigung von verschmutzten Wertstoffcontainern Empfehlung Nr. 14-20 / E 00790 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 24.11.2015
+- TOP 3: (E) Lichtzeichenanlage am Stegener Weg aus Gründen der Schulwegsicherheit (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00782 der Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.2015 - <div>vertagt</div>
+- TOP 4: (E) Mehr Platz für die Straßenangabe im Wortmeldezettel der Bürgerversammlungen (Ziffer 2 des Antrages) BV-Empfehlung Nr. 14-20 / E 00788 der Bürgerversammlung des Stadtbezirkes 25 - Laim vom 24.11.2015
+- TOP 5: (E) Neue Versammlungsstätte für die Laimer Bürgerversammlung BV-Empfehlung Nr. 14-20 / E 00784 der Bürgerversammlung des Stadtbezirkes 25 - Laim vom 24.11.2015
+- TOP 1.2: Bürgerpost an den BA
