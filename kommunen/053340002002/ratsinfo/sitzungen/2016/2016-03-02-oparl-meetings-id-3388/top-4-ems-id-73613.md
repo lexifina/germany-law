@@ -1,0 +1,6 @@
+# TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2016-03-02)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=73613
