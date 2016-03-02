@@ -1,0 +1,66 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-03-02T15:00:00+01:00
+- Ende: 2016-03-02T20:37:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3267
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3267
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 11. Sitzung des Rates am 02.11.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 12. Sitzung des Rates am 25.11.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3: Nebentätigkeiten OB - Kenntnisnahme
+- TOP 4: Ausschreibung einer Beigeordnetenstelle - Mit Stimmenmehrheit beschlossen
+- TOP 4.1: Änderungsantrag zu TOP 4 "Ausschreibung einer Beigeordnetenstelle" - Mit Stimmenmehrheit abgelehnt
+- TOP 5: Genehmiung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 6: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 8: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 9.1: Zur Vorlage 1474/IX: RWE-Dividende-Tischvorlage - Mit Stimmenmehrheit beschlossen
+- TOP 10: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 11: Darlehen der Stadt an die Borussia VfL 1900 Mönchengladbach GmbH/Sicherheiten - Mit Stimmenmehrheit beschlossen
+- TOP 12: 1. Nachtrag zur Satzung der SBMG AöR - Mit Stimmenmehrheit beschlossen
+- TOP 13: Beteiligung der NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 14: Ordnungsbehördliche Verordnungen Verkaufsoffene Sonntage 2016 - Mit Stimmenmehrheit beschlossen
+- TOP 14.1: Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - Ohne Abstimmung
+- TOP 15: Bau Multifunktionsgebäude Radrennbahn - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 15.1: Bau eines Multifunktionsgebäudes und Modernisierung der Freizeitflächen auf der Sportanlage Radrennb - Ohne Abstimmung
+- TOP 16: Soziale Betreuung Flüchtlinge - Einstimmiger Beschluss
+- TOP 17: Auflösungsvereinbarung Betreuungsgeld - Einstimmiger Beschluss
+- TOP 18: Feststellung einer verbindlichen Bedarfsplanung - Einstimmiger Beschluss
+- TOP 19: Maßnahmen zur Verbesserung der Versorgung der Flüchtlingskinder im Vorschulalter mit einem Betreuu - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 19.1: Kindergartenbedarfsplanung 2016/17 Überbelegung in den Kitas - Mit Stimmenmehrheit abgelehnt
+- TOP 19.2: Kindergartenbedarfsplanung 2016/17 Integration von Flüchtlingskindern - Mit Stimmenmehrheit abgelehnt
+- TOP 20: Fortsetzung der zum 31.03.2016 auslaufenden LV mit dem SkF - Einstimmiger Beschluss
+- TOP 21: Benennung des Platzes vor dem Sonnenhaus - Einstimmiger Beschluss
+- TOP 22: Siebzehnte Satzung über Einheitssätze beitragsfähiger Erschließungsaufwand - Einstimmiger Beschluss
+- TOP 23: Bebauungsplan Nr. 716/S - Stadtbezirk Süd - Kloetersgasse - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 24: Bebauungsplan Nr. 697/S - Stadtbezirk Süd - Hockstein - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 25: Soziale Stadt - Innenstadtkonzept Rheydt - Fortschreibung IHK - Beschluss des Konzeptes - Mit Stimmenmehrheit beschlossen
+- TOP 26: Festlegung des neuen, erweiterten Soziale Stadt Gebietes „Soziale Stadt Mönchengladbach-Rheydt II“ - Mit Stimmenmehrheit beschlossen
+- TOP 27: Verbandsausschuss des Netteverbandes - Einstimmiger Beschluss
+- TOP 28: Städte-Koalition gegen Rassismus (ECCAR) - Vom Antragsteller zurückgezogen
+- TOP 29: Quecksilberbelastung der Bevölkerung durch den Fallout regionaler Kohlekraftwerke - Mit Stimmenmehrheit abgelehnt
+- TOP 29.1: Quecksilberbelastung der Bevölkerung durch den Fallout regionaler Kohlekraftwerke - Einstimmiger Beschluss
+- TOP 30: Konzeption der Stadtverwaltung im Fall von Großschadensereignissen - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Störfall in der Kläranlage Neuwerk - Vom Antragsteller zurückgezogen
+- TOP 32: Beitritt zur Klage der Städteregion Aachen gegen den Betrieb des AKW Tihange - Vom Antragsteller zurückgezogen
+- TOP 32.1: Beitritt zur Klage der Städteregion Aachen gegen den Betrieb des AKW Tihange - Einstimmiger Beschluss
+- TOP 33: Vermittlung von minderjährigen, erwerbslosen Jugendlichen an die Bundeswehr durch das Jobcenter - Mit Stimmenmehrheit abgelehnt
+- TOP 34: „Mönchengladbach ohne Barrieren“ - Planungen der Stadtverwaltung Mönchengladbach im Rahmen der I - Mit Stimmenmehrheit abgelehnt
+- TOP 34.1: Änderungsantrag der FDP Ratsfraktion zu TOP 34 - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Senkung der Landschaftsumlage über Nachtragshaushalt 2016 beim Landschaftsverband Rheinland (LVR) - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Standortfaktor Hochschule Niederrhein - Vom Antragsteller zurückgezogen
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Anfrage von RH Schultz (DIE LINKE) zu Stolpersteinen
+- TOP 37.2: Anfrage von RH Schultz (DIE LINKE) zu Bauzeiten von städtischen Baugesellschaften
+- TOP 37.3: Anfrage von RH Schoutz zu Kapazitäten zur Unterbringung von Flüchtlingen
+- TOP 37.4: Anfrage von RH Dr. Brenner (Bündnis 90/Die Grünen) zum Projekt "Seasons"
+- TOP 37.5: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur Veröffentlichung der Gehälltern der Vorstandsmitglieder der AöR
+- TOP 37.6: Anfrage von RF Brombeis Bündnis 90/Die Grünen zur Baustelle Roermonder Höfe
