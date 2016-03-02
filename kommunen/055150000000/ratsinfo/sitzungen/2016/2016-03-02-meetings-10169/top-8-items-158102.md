@@ -1,0 +1,8 @@
+# TOP 8: Jahresbericht 2015 der Arbeit der Ombudsstelle für das Jobcenter Münster
+
+- Sitzung: Sitzung (2016-03-02)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/158102
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/59904
