@@ -1,0 +1,26 @@
+# Öffentliche/nichtöffentliche Sitzung des Ortsgemeinderates der Gemeinde Brandscheid
+
+- Körperschaft: Ortsgemeinde Brandscheid
+- Beginn: 2016-03-02T19:30:00+01:00
+- Ende: 2016-03-02T22:15:00+01:00
+- Ort: Dorfgemeinschaftshaus (Sitzungsraum) Brandscheid, , 56459 Brandscheid
+- Status: terminiert
+- Gremium: https://westerburg.gremien.info/oparl/organization/5
+- Ratsinformationssystem: https://westerburg.gremien.info/oparl/meeting/ni_AD-5624
+- OParl: https://westerburg.gremien.info/oparl/meeting/ni_AD-5624
+- Quelle: https://westerburg.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_AD-5624
+- Ergebnisprotokoll: oeffentliches Protokoll https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_AD-5624
+- Wortprotokoll: oeffentliches Protokoll https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_AD-5624
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung der Sitzung
+- TOP 2.: Beratung über geplante Umbaumaßnahmen am Backesgebäude
+- TOP 3.: Informationen für den Gemeinderat
+- TOP 4.: Beratung und Beschlussfassung über die Haushaltssatzung und den Haushaltsplan der Ortsgemeinde Brandscheid für das Haushaltsjahr 2016
+- TOP 5.: Beratung und Beschlussfassung über die Annahme einer Spende
+- TOP 6.: Diensteinteilung für die Landtagswahl am 13.März 2016
+- TOP 7.: Verschiedenes
+- TOP 8.: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.: nicht öffentlicher Tagesordnungspunkt
