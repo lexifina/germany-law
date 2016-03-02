@@ -1,0 +1,87 @@
+# 38. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-03-02T17:30:00+01:00
+- Ende: 2016-03-02T21:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4593
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4593
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=71598
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde auf Antrag der Linksfraktion zum Thema "Fehlplanung Thälmannpark Nord? Bezirksamt verbaut die Zukunft eines Stadtteils" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Nachwahl eines Mitglieds in den Integrationsbeirat Pankow - gewählt
+- TOP 1.10: Nachwahl einer stellvertretenden Bürgerdeputierten im Ausschuss für Schule und Sport - gewählt
+- TOP 1.11: Einwohnerantrag an die BVV Pankow zum Erhalt und zur Nichtbebauung der Parkplätze Lilli-Henoch-Straße – gemäß § 44 des Berliner Bezirksverwaltungsgesetzes - in der BVV abgelehnt
+- TOP 1.12: "Willkommensklassen" in die Schulentwicklungsplanung aufnehmen - in der BVV abgelehnt
+- TOP 1.13: Erweiterung des Denkmalbereichs Gesamtanlage Ernst-Thälmann-Park - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Beleuchtung der beliebten Grünfläche am Weißen See sicherstellen! - überwiesen
+- TOP 1.15: Interkulturelle Kompetenz als eine Standardschlüsselqualifikation in der Personalentwicklung verankern - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Ärztliche Erstversorgung in Notunterkünften für Geflüchtete sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Städtebauliche Kriminalprävention - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Arbeiten des Straßen- und Grünflächenamtes auf der Internetseite mittels Arbeitskalender rechtzeitig ankündigen - in der BVV abgelehnt
+- TOP 1.19: Motorisierten Individualverkehr verringern durch Angebotsschaffung im ÖPNV - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Schnelle und unbürokratische Entsorgung von Sperrmüll ermöglichen - zurückgezogen
+- TOP 1.21: Keine rücksichtslose Verdichtung zu Lasten einer Kita - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: BVV bekräftigt Vorrang der Gesundheit: Tempo 30 in der nördlichen Berliner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Radfahrstreifen in der Berliner Straße vor der Platanus Schule - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Sportvereine ohne Hallen - Alternativen und Ausgleich finden - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Gefahren auf dem Gehweg in der Pankgrafenstraße abstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Professionelle Unterstützung für Opfer von Gewalt in Unterkünften - überwiesen
+- TOP 1.27: Keine teuren und unsozialen Sanierungsmaßnahmen der kommunalen GEWOBAG im Milieuschutzgebiet Kollwitzplatz! - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Schulplatzversorgung in Französisch-Buchholz kurzfristig verbessern und langfristig sichern und weiterentwickeln - mit Änderungen in der BVV beschlossen
+- TOP 1.29: Projekt Pankower Tor: Vorbereitende und verbindliche Bauleitplanung im Parallelverfahren durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Vorgaben für die weitere Entwicklung des Güterbahnhofs Greifswalder Straße - überwiesen
+- TOP 1.31: Verbesserung des ÖPNV nach Rosenthal - überwiesen
+- TOP 1.32: Verkehrsberuhigung im Lindenberger Weg im Ortsteil Blankenburg - überwiesen
+- TOP 1.33: Mieterschutz ernst nehmen – Umfassende Informationen zu Anträgen auf Umwandlung in Wohneigentum bereitstellen - überwiesen
+- TOP 1.34: Teilhabekonzept für Menschen mit Beeinträchtigungen im Bezirk Pankow - überwiesen
+- TOP 1.35: Vorsorge für die Entwicklung sozialer Infrastruktur in Karow treffen - in der BVV abgelehnt
+- TOP 1.36: Florakiez vom Durchgangsverkehr entlasten und Haltestellensituation am S+U-Bahnhof Pankow verbessern - überwiesen
+- TOP 1.37: Integration ermöglichen – Regionale Gegebenheiten und Anforderungen bei den Planungen für Flüchtlingsunterkünfte berücksichtigen - überwiesen
+- TOP 1.38: Informationsveranstaltung zum Investorenprojekt Alter Schlachthof - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Straßenentwässerung in der Krontaler Straße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Wärmeisolierung bezirkseigener Gebäude - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Stille Straße 10 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Flächenerweiterung und Weiterentwicklung prüfen: Rosa-Luxemburg-Oberschule und Wolkensteingrundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Modernisierung der technischen Arbeitsabläufe der BVV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Leitlinien für die Bürger_innenbeteiligung, Information und Konsultation - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Erster Betriebskindergarten im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Kostenübernahme für internationales ALBA Basketballturnier - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Taktverdichtung auf dem nördlichen Ast der M1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Mindestanforderungen für die nicht vertragsgebundene Unterbringung von Obdachlosen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Ukrainische Partnerstadt für Pankow - den Wandel begleiten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Verbesserung der sozialen Betreuung für Geflüchtete - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Sichere Straßenquerung der Darßer Straße auch für behinderte Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Signet "Berlin barrierefrei" für bezirkliche Gebäude - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Inklusionssporthalle jetzt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Einführung der Abonnementkarte von 65plus auf 63plus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Gender Budgeting ernst nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Ampelregulierung der Kreuzung Wolfgang-Heinz-Straße/Robert-Rössle-Straße und der Karower Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Kleingewerbe am S+U-Bahnhof Pankow erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Planungen für die Sanierung der »Brotfabrik« aufnehmen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Verkehrssicherheit in der Treseburger Straße wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Freies WLAN für Geflüchtetenunterkünfte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Clearingverfahren für unbegleitete minderjährige geflüchtete Ausländer_innen (UmA) dringend beschleunigen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Kein Rot ohne Not - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Bundesfreiwilligendienst mit Flüchtlingsbezug auch in Pankow nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Verkehrssicherheit in Berlin-Blankenburg auf dem Karower Damm in Höhe der Treseburger Straße verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Beteiligung der Bezirke bei der Auswahl von Standorten für die Errichtung von modularen Unterkünften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Benennungsabsicht für einen öffentlichen Platz im Ortsteil Niederschönhausen in „Selma- und Paul-Latte-Platz“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Benennungsabsicht für die öffentliche Straße 46 im Ortsteil Blankenburg in „Marie-Grünberg-Straße“ - mit Abschlussbericht zur Kenntnis genommen
