@@ -1,0 +1,97 @@
+# 44. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-03-03T16:30:00+01:00
+- Ende: 2016-03-03T22:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4496
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4496
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=114729
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-51 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1: Zwischenberichte des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 7.1.1: Fluglärm-Messstelle in Müggelheim - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Straßenbahnverkehr der Linie 67 am Sonnabend - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte des Bezirksamtes - (offen)
+- TOP 7.2.1: Pendelstützen von Bahnbrücken für Stadtraumgestaltung nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Informationen auf Internetseiten des Stadtplanungs- und Tiefbauamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Dahme-Radweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.4: Verkehrsorganisatorische Maßnahmen beim Umbau des Hirschgartendreiecks - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Nächtlichen Lärmschutz durch Geschwindigkeitskontrollen gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.6: Städtebaulichen Denkmalschutz für Müggelheim beantragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.7: Bessere Querung für Fußgängerinnen und Fußgänger am S-Bahnhof Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.8: Sicherung von Kleingartenanlagen – Aufstellung von Bebauungsplänen - überwiesen
+- TOP 7.2.9: Sondermittel für den VVN-BdA Köpenick e. V. (SM 14-15) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.10: Lichtzeichenanlage am S-Bahnhof Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.11: Sondermittel für den Förderverein der Fritz-Kühn-Schule e. V. (SM 15-06) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.12: Sondermittel für den Förderverein Landschaftspark Johannisthal / Adlershof e. V. (SM 15-21) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.13: A100-Baustelle in der Kiefholzstraße für nichtmotorisierte Verkehrsteilnehmerinnen und Verkehrsteilnehmer sicher gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.14: Schul- und Sportstättensanierung sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2.15: Rettet die Kultur - Für den Erhalt des Stadttheater Cöpenick - überwiesen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 2 - gewählt
+- TOP 8.4: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Wahl einer stellvertretenden Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den Verein ProWuhlheide e. V. (SM 16-02) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für den Verein Netzwerk e. V. (SM 16-05) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für die Sozialkommission 1 (Soko 1) (SM 16-07) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den Verein Club im Kietz e. V. (SM 16-08) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für den Verein Bürger für Rahnsdorf e. V. (SM 16-09) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für den Förderverein Lokale Agenda 21 Treptow-Köpenick e. V. (SM 16-10) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für das Schlossplatztheater (SM 16-11) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für die ajb GmbH (SM 16-12) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für die Elterninitiative Kita "Adlershofer Marktspatzen" & HVD (SM 16-14) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für den Verein Tauchclub fez e. V. (SM 16-15) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radwegschild Bahnhofstraße - in der BVV zurückgezogen
+- TOP 12.2: Milieuschutz für Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: S-Bahnhof Johannisthal - vertagt
+- TOP 12.4: Regenwassermanagement im Bebauungsplan XV-30b VE - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Buslinie 160 wieder bis zur Hasselwerderstraße führen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Benennung des Schöneweider Uferwegs nach Jan Czochralski - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Kosten-Leistungsrechnung im Kulturbereich - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Abfallbehälter auf öffentlichen Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Ergänzung der aktuellen Investitionsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Radwegeverbindungen am Müggelseedamm während der Bauphase sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-64 ("Rotsch-Hafen") hier: Einleitung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Wohnbebauung auf dem Gelände des B-Planes 9-58 (Rathenau-Hallen) - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Fachbereich Museum personell stärken - überwiesen
+- TOP 14.3: Bebauungsplan Funkwerk - überwiesen
+- TOP 14.4: Lollapalooza nicht im Gartendenkmal Treptower Park - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Schöneweide als Wissenschafts-, Wirtschafts- und Technologiestandort stärken - überwiesen
+- TOP 14.6: Öffentliche städtebauliche Verträge - überwiesen
+- TOP 14.7: Bevölkerungsentwicklung bei StEP Verkehr berücksichtigen - überwiesen
+- TOP 14.8: Geschwindigkeitskontrollen durch das Bezirksamt - überwiesen
+- TOP 14.9: Ausstellungen im Rathaus Treptow - überwiesen
+- TOP 14.10: Sicherstellung der Linie 160 in der Porzer Straße - überwiesen
+- TOP 14.11: Entgeltfreie Weiterbildungskurse für in der Flüchtlingsarbeit engagierte Ehrenamtliche - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Behindertengerechter Umbau der Kreuzung Baumschulenstraße / Kiefholzstraße - überwiesen
+- TOP 14.13: Schutzstreifen Fürstenwalder Damm - überwiesen
+- TOP 14.14: Unterstützung von Ehrenamtlichen zum Aufbau freier Netze in und um Flüchtlingsunterkünfte - überwiesen
+- TOP 14.15: Belebung Griechischer Platz - überwiesen
+- TOP 14.16: Tempo-30-Zone für Bruno-Bürgel-Weg in ganzer Länge - überwiesen
+- TOP 14.17: Keine freiwillige Abgabe von Bebauungsplänen - überwiesen
+- TOP 14.18: Vorfahrt für den Bus 160 in der Porzer Straße - im Ältestenrat zurückgezogen
+- TOP 14.19: Einrichtung eines Eltern-Kind-Zimmers - überwiesen
+- TOP 14.20: Einwohnerversammlung zu Lollapalooza - in der BVV zurückgezogen
+- TOP 14.21: Zeitgemäße Fortführung denkmalgeschützter Industrietradition im B-Plan 9-58 ("Rathenau-Hallen") - überwiesen
+- TOP 14.22: Nachwuchsleistungszentrum des 1. FC Union in der Wuhlheide - überwiesen
+- TOP 15: Große Anfragen - (offen)
