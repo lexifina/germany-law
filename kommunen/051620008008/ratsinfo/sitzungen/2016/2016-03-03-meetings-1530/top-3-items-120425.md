@@ -1,0 +1,6 @@
+# TOP 3: Bericht des Jugendrates
+
+- Sitzung: Jugendhilfeausschuss (2016-03-03)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/120425
