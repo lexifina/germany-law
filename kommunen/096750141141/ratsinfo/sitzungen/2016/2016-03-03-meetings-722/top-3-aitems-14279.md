@@ -1,0 +1,8 @@
+# TOP 3: Bebauungsplan Nr. 18 "Armin-Knab-Straße", 1. Änderung im beschleunigten Verfahren nach § 13a BauGB
+
+- Sitzung: Sitzung des Verwaltungs- und Bauausschusses (2016-03-03)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/14279
+- Ergebnis: beschlossen
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/consultations/4086
