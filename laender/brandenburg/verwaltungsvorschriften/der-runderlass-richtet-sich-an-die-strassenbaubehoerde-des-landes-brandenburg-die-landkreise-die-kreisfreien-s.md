@@ -1,31 +1,37 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg, die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 23/2
+# Der Runderlass richtet sich an: die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Die „Hinweise zur Erstellung von Artenschutzbeiträgen (ASB) fü
 
 - Herausgeber: Land Brandenburg
-- Datum: 2016-02-26 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tlsbit2015
+- Datum: 2016-03-04 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/artenschutz2016
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für Sonderbindemittel und Zubereitungen auf Bitumenbasis, Ausgabe 2015 (TL Sbit-StB 15)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Naturschutz und Landschaftspflege - Hinweise zur Erstellung von Artenschutzbeiträgen (ASB) für Straßenbauvorhaben im Land Brandenburg (Hinweise ASB)
 
-vom 26. Februar 2016
+vom 4. März 2016
 
-(ABl./16, [Nr. 11], S.306)
+(ABl./16, [Nr. 12], S.343)
 
-Der Runderlass richtet sich an
+Der Runderlass richtet sich an:
 
-die Straßenbaubehörde des Landes Brandenburg,
+die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 23/2015 vom 14. Dezember 2015 hat das Bundesministerium für Verkehr und digitale Infrastruktur die „Technischen Lieferbedingungen für Sonderbindemittel und Zubereitungen auf Bitumenbasis, Ausgabe 2015 (TL Sbit-StB 15)“ bekannt gegeben.
+Die „Hinweise zur Erstellung von Artenschutzbeiträgen (ASB) für Straßenbauvorhaben im Land Brandenburg (Hinweise ASB)“ dienen der Vereinheitlichung des methodischen Vorgehens der artenschutzrechtlichen Betrachtung bei Straßenbauvorhaben im Land Brandenburg und einer einheitlichen Interpretation der Verbotstatbestände und Begriffsdefinitionen.
 
-Mit den TL Sbit-StB 15 werden die Anforderungen an Porenfüllmassen, Regeneriermittel, Nahtkleber, heiß zu verarbeitende Bitumen und bitumenhaltige Massen zur Randabdichtung sowie für gebrauchsfertige Polymermodifizierte Fluxbitumen für Oberflächenbehandlungen beschrieben.
+In den Hinweisen erfolgt die Darstellung der gesetzlichen Grundlagen, die Interpretation der Verbotstatbestände gemäß § 44 Absatz 1 in Verbindung mit Absatz 5 BNatSchG, wichtige Begriffsbestimmungen sowie die Beschreibung der methodischen Herangehensweise bei der Erstellung des ASB auf den Ebenen des Landschaftspflegerischen Begleitplans (LBP) und der Umweltverträglichkeitsstudie (UVS). Die Mustertexte und -gliederungen stellen praxisnahe Arbeitshilfen mit Fallbeispielen dar. Sie bieten einen Orientierungsrahmen, der in jedem Fall an die jeweilige Situation und die Art des Projektes angepasst werden muss.
 
-Hiermit werden die TL Sbit-StB 15 für den Bereich der Bundesfernstraßen und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+Die Hinweise ASB wurden erstmals mit Stand 08/2008 erarbeitet und durch das Ergänzungspapier Stand 02/2011 aktualisiert. Die vorliegende Fassung von 03/2015, die im Zusammenhang mit der Fortschreibung des „Handbuchs für die Landschaftspflegerische Begleitplanung bei Straßenbauvorhaben im Land Brandenburg (HB LBP)“ entstand, stellt den Stand des Wissens 06/2014 dar und ersetzt die Fassung von 08/2008 sowie das Ergänzungspapier 02/2011.
 
-Der Runderlass des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Nummer 9/2002 - Straßenbau - vom 12. März 2002 (ABl. S. 424) sowie das Schreiben vom 16. August 2002 mit Hinweis auf das ARS Nummer 11/2002 des Bundesministeriums für Verkehr, Bau- und Wohnungswesen werden hiermit aufgehoben.
+Hiermit werden die „Hinweise zur Erstellung von Artenschutzbeiträgen (ASB) für Straßenbauvorhaben im Land Brandenburg (Hinweise ASB)“, Stand 03/2015, für den Bereich der Bundesfern- und Landesstraßen eingeführt. Künftige Fassungen der Hinweise ASB gelten als eingeführt, sobald die jeweils aktuelle Fassung als Download unter der Internetadresse des Landesbetriebs Straßenwesen Brandenburg zur Verfügung steht. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-Die TL Sbit-StB 15 sind bei der FGSV Verlag GmbH, Wesselinger Straße 17, 50999 Köln zu beziehen.
+Es wird gebeten, künftig die Anwendung der Hinweise ASB in der jeweils aktuellen Fassung bei der Vergabe von entsprechenden freiberuflichen Leistungen zu vereinbaren. Laufende Planungen können auf der entsprechenden Planungsstufe gemäß der bisherigen Mustergliederung abgeschlossen werden. Für die anschließenden Planungsstufen sind die neuen formalen Regelungen anzuwenden.
+
+Der jeweils aktuelle Stand der Hinweise ASB steht unter der Internetadresse des Landesbetriebs Straßenwesen Brandenburg www.ls.brandenburg.de als Download zur Verfügung.
+
+Dieser Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse www.landesrecht.brandenburg.de eingestellt.
+
+Dieser Erlass tritt mit seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
