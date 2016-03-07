@@ -1,0 +1,89 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-03-07T16:03:00+01:00
+- Ende: 2016-03-07T20:06:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12741
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12741
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00190795.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00191293.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00191092.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung einer Schriftführerin für den Hauptausschuss (nur Hauptausschuss)
+- TOP 1.2: Wiederwahl von Herrn Beigeordneten Dr. Kühn (nur Rat) - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Benchmarking Personalausstattung anderer Städte - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 08.06.2015 – Benchmarking Personalausstattung anderer Städte - Entgegennahme ohne Beschluss
+- TOP 2.2: Kohlebeschaffung für das Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Kohlebeschaffung für das Kohlekraftwerk Wilhelmshaven - Antwort auf die Anfrage der Fraktion DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 2.3: Katastrophenschutz für mögliche Störfälle oder Unfälle in belgischen AKW - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf Große Anfrage der Fraktion BÜNDNIS 90 DIE GRÜNEN zum Katatstrophenschutz für möglich Störfälle oder Unfälle in belgischen AKWs - Entgegennahme ohne Beschluss
+- TOP 2.4: Geplante Wohnbebauung an der Müngstener Straße - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf Große Anfrage - Geplante Wohnbebauung an der Müngstener Straße - Entgegennahme ohne Beschluss
+- TOP 2.5: Unbegleitete minderjährige Flüchtlinge - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf Große Anfrage - unbegleitete minderjährige Flüchtlinge - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Asphaltmischwerk Uhlenbruch (nur Hauptausschuss)
+- TOP 3.2: Konsequente Ahndung von Parkverstößen in Wuppertal durch sofortiges Abschleppen (nur Hauptausschuss)
+- TOP 3.3: Erklärung der Stadt Wuppertal gegen Fracking - ungeändert beschlossen
+- TOP 3.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Rundbogenfenster Gebäude Wuppertaler Hauptbahnhof - abgelehnt
+- TOP 4.1.1: Rundbogenfenster Gebäude Wuppertaler Hauptbahnhof - abgelehnt
+- TOP 4.2: WSW AG soll Energiekonzern Engie zur Stilllegung der Atomkraftwerke in Belgien drängen - abgelehnt
+- TOP 4.2.1: Resolution zu den Kernkraftwerken in Tilhange und Doel - ungeändert beschlossen
+- TOP 4.3: Ehrenamtliche Rückführhelfer - abgelehnt
+- TOP 4.4: Initiative zur Senkung der Landschaftsverbandsumlage unterstützen - abgelehnt
+- TOP 4.5: Umsetzung rechtskonformer Kosten der Unterkunft (KdU) - abgelehnt
+- TOP 4.6: Ausschreibung der Stelle einer/eines Beigeordneten für Stadtentwicklung, Bauen, Verkehr, Umwelt - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter
+- TOP 6: Ortsrecht
+- TOP 6.1: Erlass einer neuen Rechnungsprüfungsordnung und Änderung der Geschäftsanweisung für die örtliche Rechnungsprüfung der Stadt Wuppertal (nur Rat) - ungeändert beschlossen
+- TOP 6.2: Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 6.3: Richtlinien des Von der Heydt-Kulturpreises - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten N.N.
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Bestellung stellvertretende Betriebsleitung für den Eigenbetrieb Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan 2016 des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1198 - Waldeckstraße / Auf der Bleiche - - ungeändert beschlossen
+- TOP 9.2: Fluchtlinienplan 774 - Am Katernberg - - ungeändert beschlossen
+- TOP 9.3: Fluchtlinienplan 751 - Am Katernberg - - ungeändert beschlossen
+- TOP 9.4: Fluchtlinienplan 794 - Nördlich Nüller Straße - - ungeändert beschlossen
+- TOP 9.5: Aufhebung überholter Planverfahren im Stadtbezirk Cronenberg - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau einer Tageseinrichtung für Kinder auf dem Teilstück des Sportplatzgeländes Am Eckstein - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bürgerbeteiligungskonzept "Neue Forensische Klinik im Landgerichtsbezirk Wuppertal" - ungeändert beschlossen
+- TOP 11.2: Kündigung der öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben nach dem EA-Gesetz zur Bildung einheitlicher Ansprechpartner in Nordrhein-Westfalen zwischen den Städten Remscheid, Solingen und Wuppertal - ungeändert beschlossen
+- TOP 11.3: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 11.4: Mittelverteilung Netzwerk Frühe Hilfen 2015/2016 - ungeändert beschlossen
+- TOP 11.5: Rahmenvereinbarung zur Übernahme der Gesundheitsversorgung für Asylbewerber durch die Krankenkassen - ungeändert beschlossen
+- TOP 11.6: Ansiedlung eines Designer Outlets in Remscheid-Lennep hier: Einsatz von Rechtsmitteln durch die Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.7: Stadtumbau West/Soziale Stadt Elberfelder Nordstadt/Arrenberg: Mirker Quartier: Richtlinien des Verfügungsfonds im Rahmen des Forum:Mirke - ungeändert beschlossen
+- TOP 11.8: Ausbau der offenen Ganztagsschule um 125 Plätze zum Schuljahr 2016/2017 - ungeändert beschlossen
+- TOP 11.9: Gremientätigkeiten von Herrn Oberbürgermeister Andreas Mucke und Herrn Oberbürgermeister a. D. Peter Jung - Entgegennahme ohne Beschluss
+- TOP 11.10: Integriertes städtebauliches Entwicklungskonzept (ISEK) Innenstadt Barmen – Fortschreibung des Integrierten Handlungskonzeptes - ungeändert beschlossen
+- TOP 11.11: Projekt Seilbahn: Einstieg in die qualifizierte ergebnisoffene Prüfung mit begleitender Bürgerbeteiligung - ungeändert beschlossen
+- TOP 11.11.1: Grundsatzbeschluss - Seilbahn für Wuppertal - zurückgezogen
+- TOP 11.11.2: Änderungsantrag zu VO/0161/16, Projekt Seilbahn: Einstieg in die qualifizierte ergebnisoffene Prüfung mit begleitender Bürgerbeteiligung - abgelehnt
+- TOP 11.12: Aktionsbündnis - "Für die Würde unserer Städte" - ungeändert beschlossen
+- TOP 11.13: Leitlinien für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 11.14: Beteiligung am Sonderprogramm des Landes NRW zur Integration von Flüchtlingen - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung im Aufsichtsrat der AWG Abfallwirtschaftsgesellschaft mbH - ungeändert beschlossen
+- TOP 12.2: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.3: Besetzung / Vertretung für die Arbeiterwohlfahrt Kreisverband Wuppertal im Seniorenbeirat - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.6: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.7: Umbesetzung im Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
