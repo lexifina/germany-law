@@ -1,0 +1,82 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2016-03-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3810547
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3810547
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Nachfolgeeinrichtung Haus am Kirchweg
+- TOP 4.2.: Anfrage und Aufforderung an REWE Sendling
+- TOP 4.3.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes Sitzungsvorlagen Nr. 14-20/ V 04751
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Schulbauoffensive 2013-2030 Sitzungsvorlagen Nr. 14-20/ V 05131
+- TOP 5.2.: Schüler_innen- und Klassenzahlen an Beruflichen Schulen in Trägerschaft der LH München im Schuljahr 2015/16 Sitzungsvorlagen Nr. 14-20/ V 04975
+- TOP 5.3.: Schüler_innen- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an Schulen Zweiten Bildungsweges im Schuljahr 2015/16 Sitzungsvorlagen Nr. 14-20/ V 04967
+- TOP 5.4.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, städtischen Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2015/16 Sitzungsvorlagen Nr. 14-20/ V 04946
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Geschwindigkeitskontrollen im Umfeld der Gotzingerschule
+- TOP 6.2.: Automatische Ampeln Lindwurm-/ Plinganserstraße und Albert-Roßhaupter-/ Meindlstraße
+- TOP 6.3.: Neue Verkehrsführung am Sendlinger Berg
+- TOP 6.4.: Verkehrsrechtliche Anordnung; Aufhebung eines personenbezogenen Behindertenparkplatzes, Lindwurmstr. 169
+- TOP 6.5.: Spielaktionen der Spiellandschaft Stadt e.V. von April bis Oktober 2016
+- TOP 7: Gaststättenangelegenheiten
+- TOP 7.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 8.2.: BA-Budget; Maifest 2016; ? 3000,-
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: E-Mobilität: Handlungsfeld 6; Innerstädtischer Wirtschaftsverkehr Sitzungsvorlagen Nr. 14-20/ V 04745
+- TOP 9.3.: Gartenstädte; Erhalt des Charakters und bauliche Entwicklung Sitzungsvorlagen Nr. 14-20/ V 04857
+- TOP 9.4.: Infrastrukturprogramm München Sitzungsvorlagen Nr. 14-20/ V 04903
+- TOP 9.5.: Unterflur-Containerstandorte in Neubaugebieten mit planen Sitzungsvorlagen Nr. 14-20/ V 04859
+- TOP 9.6.: Erfassung der Wildtiere in München Sitzungsvorlagen Nr. 14-20/ V 05026
+- TOP 9.7.: Wohnbebauung SWM-Gelände Hans-Preißinger- / Schäftlarn- / Brudermühlstraße - <div>Zwischenbericht zur Kenntnis genommen</div>
+- TOP 9.8.: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen Sitzungsvorlagen Nr. 14-20/ V 03733
+- TOP 9.9.: Ensembles ehemaliger Dorfkerne im Sinner des Bayer. Denkmalschutzgesetzes Sitzungsvorlagen Nr. 14-20/ V 03602
+- TOP 9.10.: Opimierung Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung Sitzungsvorlagen Nr. 14-20/ V 04459
+- TOP 9.11.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren Sitzungsvorlagen Nr. 14-20/ V 03291
+- TOP 9.12.: Bauvorhaben Baumgartnerstraße 11
+- TOP 9.13.: Bauvorhaben Implerstraße 66
+- TOP 9.14.: Verlängerung der Gültigkeitsdauer der Erhaltungssatzung Sendling - <div>zur Kenntnis genommen</div>
+- TOP 10: Baureferat
+- TOP 10.1.: Sanierung Basketballspielfeld an der Turnhalle an der Gaißache Straße
+- TOP 10.2.: Hilfe für Rollstuhlfahrer Königsdorfer Str. 6
+- TOP 10.3.: Terminverlängerung Herstellung Gehweg Fallstraße Nordseite
+- TOP 10.4.: Verkehrs- und Straßenkonzept Neubaugebiet Steiner- / Zechstraße - <div>Zwischenbericht zur Kenntnis genommen</div>
+- TOP 10.5.: Runder Tisch "Erholungsraum Isar" am 09.12.2015; Maßnahmen zur Verbesserung an der Isar
+- TOP 10.6.: Erinnerungsverfahren Am Isarkanal 6-16
+- TOP 10.7.: Errichtung und Betrieb zweier Toilettenanlagen an der Isar; Gegenwärtiger Sachstand Sitzungsvorlagen Nr. 14-20/ V 04852
+- TOP 10.8.: Fahrradstellplatzkonzept Sitzungsvorlagen Nr. 14-20/ V 03326
+- TOP 10.9.: Mehrjahresinvestitionsprogramm 2015-2019 Sitzungsvorlagen Nr. 14-20/ V 04757
+- TOP 10.10.: Straßenbauarbeiten Schöttlstraße zwischen Leitpartstr. und Fallstr. (Nordseite)
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Internet-Bürgerplattform zur Thematik Grillen und Feuer an der Isar und am Flaucher
+- TOP 11.2.: Baumfällung Schanzenbachstr. 17
+- TOP 12: Anträge
+- TOP 4: (E) Zeitnahe Erneuerung von maroden Spielplatzgeräten und Information der Bürger durch örtliche Infotafeln Empfehlung Nr. 14-20 / E 00681 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 27.10.2015
+- TOP 4.5.: Montessori Schule für Sendling
+- TOP 6: (E) Straßenniveau in der Wackersberger Str. 16 - 20 anpassen Empfehlung Nr. 14-20 / E 00672 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 27.10.2015
+- TOP 7: (E) Ausbesserung des Radwegs in der Lindwurmstr. von der Plinganserstr. bis zur Implerstr.
+- TOP 14: Verschiedenes
+- TOP 14.1.: Bauvorhaben Hans-Preißinger-Str. 8; geplanter Verkauf des Anwesens der SWM an die PATRIZIA Deutschland GmbH - <div>zur Kenntnis genommen</div>
+- TOP 14.2.: Münchner Volkstheater
+- TOP 14.3.: Öffentliche Vergnügungveranstaltung; Dietramszeller Platz
+- TOP 14.4.: Ermittlung des Bedarfs Nette Toilette
+- TOP 14.5.: Suche von Helferinnen und Helfern zur Herrichtung des Sendlinger Maibaums
+- TOP 8.1.: (E) Budget der Bezirksausschüsse BKR KV München - Wasserwacht München-Mitte - Isarrettung Anschaffung von Wasserrettungsstiefeln und Neoprenhandschuhen - <div>Zustimmung, einstimmig in voller Höhe</div>
+- TOP 1: (E) Verbesserung des Verkehrsflusses aus der Pfeuferstr. nordwärts in die Radlkoferstr. durch Einrichtung einer Linksabbiegerampel Empfehlung Nr. 14-20 / E 00673 der Bürgerversammlung des 06. Stadtbezirkes - Sendling am 27.10.2015 - <div>Zustimmung, einstimmig</div>
+- TOP 2: (E) Verkehrsrechtliche Maßnahmen zum Schutz der Radfahrer in der Axel-von-Ambesser-Straße Empfehlung Nr. 14-20 / E 00675 der Bürgerversammlung des Stadtbezirkes 6 -Sendling am 27.10.2015 - <div>Zustimmung, einstimmig</div>
+- TOP 3: (E) Mehr Sitzbänke am linken Isarufer (Hefner-Alteneck-Straße); mehr Abfalleimer am Flaucher Empfehlung Nr. 14-20 / E00756 der Bürgerversammlung des Stadtbezirkes 2 Ludwigvorstadt-Isarvorstadt am 12.11.2015 - <div>Zustimmung, einstimmig</div>
+- TOP 8.3.: (E) Budget der Bezirksausschüsse Initiative "Pflanzbeet" Vorbereitung des Pflanzbeetes an der Stemmerwiese - <div>Zustimmung, einstimmig in voller Höhe</div>
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
