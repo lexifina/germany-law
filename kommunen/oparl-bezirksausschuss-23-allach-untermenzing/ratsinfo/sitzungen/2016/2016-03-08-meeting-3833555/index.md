@@ -1,0 +1,76 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-03-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833555
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833555
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Familie, Bildung und Soziales vom 19.01.2016
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Hundekot in Untermenzinger Grünanlage
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Gerberau - Neubau eines Quartiersplatzes (Martha-Näbauer-Platz)
+- TOP 5.2.: Krautheimstr. 41, Gemarkung Untermenzing, Fl.Nr. 310/3 Neubau eines Wohnhauses (3WE) und Vollzug der BaumschutzVO
+- TOP 5.3.: Auenbruggerstr. 86, Gemarkung Untermenzing, Fl.Nr. 1029/10 Neubau eines Doppelhauses mit 2 Carports und eines Einfamilienhauses mit Garage und Vollzug der BaumschutzVO
+- TOP 5.4.: Manzostr. 19,Gemarkung: Untermenzing, Fl.Nr.: 583/0 Neubau eines Doppelhauses (3WE)
+- TOP 5.5.: Krayweg 2, Gemarkung: Allach, Fl.Nr.: 312/7 Neubau eines Einfamilienhauses mit Doppelgarage und Vollzug der BaumschutzVO
+- TOP 5.6.: Spielaktion der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet
+- TOP 5.7.: Olympiapark, Wings for Life World Run am 08.05.16
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Bauausschusses vom 12.01.16: Fahrradstellplatzkonzept (3. Realisierungsabschnitt) (Sitzungsvorlage Nr. 03326)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 27.01.16: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 18. Stadtbezirkes (Sitzungsvorlage Nr. 04751)
+- TOP 6.3.: Hinweis/Ergänzung zum Beschluss für Stadtplanung und Bauordnung vom 17.02.16: Unterflur-Container in Neubaugebieten mit planen! (Sitzungsvorlage Nr. 04859)
+- TOP 6.4.: Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwaltungsausschuss des Stadtrates vom 18.02.16: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 05131), Ergänzung vom 11.02.16, 16.02.16, 18.02.16
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 25.02.16: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen (Sitzungsvorlage Nr. 04903)
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.16: a) Georg-Reismüller-Straße (östlich), Ludwigsfelder Str. (südlich), Bahnlinie München-Treuchtlingen (westlich) und imaginäre Verlängerung der Höcherstraße (nördlich) (Aufhebung oder Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) (Sitzungsvorlage Nr. 05247) b) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen (Sitzungsvoralge Nr. 03733) c) Optimierung des Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 04459) d) Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes (Sitzungsvorlage Nr. 03602) e) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten- (Sitzungsdvorlage Nr. 03291)
+- TOP 6.7.: Beschluss des Sozialausschusses vom 10.03.16: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017 (Sitzungsvorlage Nr. 05096)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Ausstellung/Broschüre zur Geschichte von Untermenzing im Rahmen der Jubiläums 1200 Jahre Menzing
+- TOP 7.2.: Bürgerforum Altenpflege am 16.03.16 im alten Rathaus
+- TOP 7.3.: Bus & Bahn Begleitservice München
+- TOP 7.4.: Vertretungsregelung in Unterausschüssen; Abrechnung der Aufwandsentschädigung
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Stadtwerke München vom 15.02.16, 22.02.16: Baumaßnahmen
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.02.16: Kieslagerstätte Behringstraße
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.02.16: Umweltverbände und Öffentlichkeit frühzeitig in Planungsverfahren einbinden! Antr. 01503 der Stadtratsfraktion Bündnis 90/GRÜNEN/RL vom 29.10.15
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.02.16: Verkehrskonzept Allach-Untermenzing westlich der Bahn, Zwischenmitteilung
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Am Lochholz 45, Löfflerstr. 5, Menzinger Str. 126, Vogelloh 72, Pfarrer-Grimm-Str. 28, Ernst-Haeckel-Str. 95, Am Lochholz 19Ernst-Haeckel-Str. 30, Rueßstr. 47
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.02.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Kirschstr. 19, Karl-Gayer-Str. 6, Am Fesenacker 5
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (08.02.16-14.02.16 15.02.-21.02.16)
+- TOP 9.8.: Schreiben Sozialreferat: Antrag auf Zweckentfremdung von Wohnraum, Theodor-Fischer-Str, Rueßstr., Walter-Otto-Str.
+- TOP 9.9.: Schreiben Baureferat vom 09.02.16: Wilhelm-Zwölfer-Str. 28 / 28a
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 15.02.16: Antrag auf unveränderte Fortführung der Gaststätte "Vereinswirtschaft des TSV Allach 09"
+- TOP 9.11.: Schreiben Referat für Arbeit und Wirtschaft vom 25.02.16: Europe direct
+- TOP 9.12.: Schreiben Spielen in der Stadt vom 22.02.16: Weitere Spielbuseinsätze 2016 im SB 23
+- TOP 10: Nachtrag
+- TOP 10.1.: Unterausschuss Protokolle: UA Kultur Protokoll vom 23.02.16
+- TOP 10.2.: Protokoll UA Verkehr vom 24.02.16
+- TOP 10.3.: Antrag: Einschränkung der Parkdauer auf der Höcherstraße zwischen Eversbuschstraße und Franz-Nißl-Straße
+- TOP 10.4.: Bürgerpost an den BA: Straßenbeleuchtung Pasinger Heuweg und Carl-Hanser-Weg
+- TOP 5: Entscheidung: Verkehrsführung nördliche Waldhornstraße Empfehlung Nr. 14-20 / E 00509 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 23.06.2015
+- TOP 5.6.: Anhörung: Bauleitplanung Karlsfeld, B-Plan Nr. 98 Jägerstraße / Allacher Straße, Beteiligung BA 23
+- TOP 5.7.: Umlauf: Schreiben Stadtwerke München vom 25.02.16: Baumaßnahmen der SWM, Wasserprojekt Bauschingerstraße
+- TOP 5.8.: Schreiben Stadtwerke vom 29.02.16: Baumaßnahmen
+- TOP 5.9.: Schreiben Kreisverwaltungsreferat vom 01.03.16: Fußgänger- und Radfahrunterführung an der Bauseweinallee, Höhe S-Bahn Haltepunkt Untermenzing Radweg westlich entlang der Bahngleise nah dem S-Bahn Haltepunkt Untermenzing
+- TOP 5.10.: Schreiben Kreisverwaltungsreferat vom 17.02.16: Haltverbot Franz-Nißl-Straße
+- TOP 5.11.: Schreiben Baureferat vom 15.02.16: Fisch- und Naturlehrpfad entlang der Würm in Allach-Untermenzing
+- TOP 5.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.02.16: Bauanträge (22.02. - 28.02.16)
+- TOP 5.13.: Verschiedenes: 2. Verkehrskonferenz München Nord am 19.04.16
+- TOP 5.14.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Sozialausschusses vom 10.03.16: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Senieorenvertretung 2017 und Ergänzung vom 26.02.16 (Sitzungsvorlage Nr. 05096)
