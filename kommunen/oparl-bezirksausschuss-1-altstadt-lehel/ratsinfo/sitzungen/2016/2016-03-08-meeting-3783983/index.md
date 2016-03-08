@@ -1,0 +1,100 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-03-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3783983
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3783983
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Bürgeranliegen, Antrag auf Erweiterung einer Freischankfläche des Cafe Maelu, Vorabanfrage
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Salvatorstraße 2, Umbau eines Ladens mit Imbiss und Erweiterung der Gastronoimiefläche
+- TOP 7.2.: Neuhauserstraße 43, Umbau eines mehrgeschossigen Gebäudes zu einem Laden für Sportartikel mit Umbau der Eingangsfassade und Installation eines Vordachs
+- TOP 7.3.: Liebherrstraße 20, Modernisierung eines denkmalgeschützen Gebäudes mittels hofseitigem Anbau eines Außenaufzugs
+- TOP 7.4.: Hackenstraße 7, Instandsetzung, Umbau und Erweiterung eines Wohn- und Geschäftshauses mit Neubau einer Tiefgarage (IV. Aufgang) ? Tektur
+- TOP 7.5.: Hildegardstraße 2, Änderung und Teilnutzungsänderung von Büro- und Wohnflächen in Büros mit interner Verbindung zweier Bürogeschosse (3.+4. OG)
+- TOP 7.6.: Gewürzmühlstraße 8, Teilabbruch und Neuerrichtung des Daches (4. OG) mit teilweiser denkmalpflegerischer Wiederherstellung der Dachlandschaft ? Vorbescheid (Gewürzmühlstraße 8 / Sternstraße 3 / Thierschstraße 48)
+- TOP 7.7.: St.-Anna-Straße 16, Abbruch und Neubbau eines Wohnhauses mit 3 Untergeschossen - Vorbescheid
+- TOP 7.1.: Überprüfung einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB, Auslauf der Erhaltungssatzung ?Gärtnerplatzviertel?
+- TOP 7.2.: Erinnerungsverfahren, Isartorplatz zwischen Frauenstraße und Thomas-Wimmer-Ring / Sternstraße zwischen Robert-Koch-Straße und Maximilianstraße
+- TOP 7.1.: Bürgeranliegen, Gestaltung der Fußgängerunterführung Emil-Riedel-Straße / Widenmayerstraße
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Antrag auf Erweiterung einer Freischankfläche, Gaststätte ?Caffe Classico?, Prälat- Zistl-Straße 12, 80331 München
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Antrag auf die Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund, Firma ?Seasons GmbH & Co. KG?, Herzogspitalstraße 10, 80331 München
+- TOP 7.2.: Antrag auf die Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund, Firma ?Blumenhaus Wildgruber, St-Anna-Straße 17, 80538 München
+- TOP 2.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: Veranstaltung, eTour Europe am 29.04 und 30.04.2016 auf dem Odeonsplatz
+- TOP 2.2.: Veranstaltung, Lesung zum Gedenken an die Bücherverbrennung am 10.05.2016 auf dem Odeonsplatz
+- TOP 2.3.: Veranstaltungen in Grünanlagen, Spielabende des Sportamts von Mai - Oktober 2016, jeden Sonntag von 17.00 - 20.30Uhr auf dem Marienhof
+- TOP 2.4.: Veranstaltung, Straßenfest am Fortunabrunnen vom 10.06 ? 12.06.2016
+- TOP 2.1.: Bürgeranliegen, Verbesserungsvorschlag für die Verkehrsproblematik in der Landschaftstraße
+- TOP 2.2.: Bürgeranliegen, Parkplatzproblematik Einfahrt Pilotystraße 2
+- TOP 2.1.: Antrag auf Baumfällung, Alexandrastraße 1
+- TOP 2.2.: Antrag auf Baumfällung, Gewürzmühlstraße 8 / Sternstraße 3
+- TOP 2.1.: Bürgeranliegen, Sportgruppe ?Barlions München? Street-Workout-Anlagen im öffentlichen Raum
+- TOP 2.2.: Anfrage des BA 13, Organisation der Bewirtschaftung von Schulmensen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Antwort des Referats für Stadtplanung und Bauordnung zu: Bürgeranliegen, Anfrage zu Abriss/Neubau des Hauses Sonnenstraße 25
+- TOP 0.3.: Zwischennachricht zu: Umgestaltung und Aufwertung des Isartorplatzes, BV-Empfehlung Nr. 08-14 / E 00352 vom 04.12.2014
+- TOP 0.4.: Gartenstädte: Erhalt des Charakters und bauliche Entwicklung, Sitzungsvorlage Nr. 14-20 / V04857, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016
+- TOP 0.5.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren ? LBK zukunftsfähig ausstatten, Sitzungsvorlage Nr. 14-20 / V 03291, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016
+- TOP 0.6.: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der HA II- Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20 / V 04459, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016
+- TOP 0.7.: Antwort des Referats für Stadtplanung und Bauordnung zu ? Vorbescheid Neuhauserstrae 41, Neubau eines Geschäftshauses, war 2015.09 B 3.1.9
+- TOP 0.1.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.2.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.3.: Unveränderte Gaststättenfortführungen
+- TOP 0.4.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.5.: Beschluss des BA 2 vom 23.02.2016, Auftsellung von mehr Mülleimern in der Müllerstraße, Empfehlung Nr. 14-20 / E 00740 aus der BV des Stadtbezirkes 2 vom 12.11.2015
+- TOP 0.6.: Abdruck Bürgerschreiben zu Wohnraum / Diskotheken in der Müllerstraße
+- TOP 0.7.: Mülleimer in der Müllerstraße aufstellen, Empfehlung Nr. 14-20 / E00824 der Bürgerversammlung des Stadtbezirkes 1 am 03.12.2015, Beschluss des BA 1
+- TOP 0.8.: Wöchentliche Reinigung der Fußgängerunterführung des Altstadtrings am Isartorplatz, Empfehlung Nr. 14-20 / E00834 der Bürgerversammlung des Stadtbezirkes 1 am 03.12.2015, Beschluss des BA 1
+- TOP 0.1.: Antwort des Referats für Stadtplanung und Bauordnung zu BA-Antrag Nr. 14-20 / B 01357 des BA 1 vom 16.06.2015, Verkehrsplanung in Zusammenhang mit der Tiefgarage am Thomas-Wimmer-Ring: Kreuzung Maximilianstraße / Karl-Scharnagl-Ring miteinbeziehen
+- TOP 0.2.: Antwort des Baureferats zum Schreiben des BA 1, Beschluss des BA1 zur Gehwegverbreiterung vor dem Anwesen Triftstraße 10
+- TOP 0.3.: Antwort des Referats für Stadtplanung und Bauordnung zum Bürgeranliegen Sperrung des Marienplatzes für Busse, Taxis und Radler
+- TOP 0.4.: Unterflur-Containerstandorte in Neubaugebieten mit planen, Sitzungsvorlage Nr. 14-20 / V04859, 2. Änderungsantrag von Bündnis90/Die Grünen/RL vom 20.01.2016
+- TOP 0.5.: Fahrradstellplatzkonzept (3. Realisierungsabschnitt), Sitzungsvorlage Nr. 14-20 / V 03326, Beschluss des Bauausschusses vom 12.01.2016
+- TOP 0.6.: E-Mobilität: Handlungsfeld 6 ? Innerstädtischer Wirtschaftsverkehr, Sitzungsvorlage Nr. 14-20 / V04745, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016
+- TOP 0.7.: Temporäre Zulassung des Radverkehrs in der Münchner Fußgängerzone, Sitzungsvorlage Nr. 14-20 / V 03783, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016
+- TOP 0.8.: Wildtiere in München II, Erfassung der Wildtiere in München, Sitzungsvorlage Nr. 14-20 / V 05025, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016
+- TOP 0.9.: Antwort des KVR zum Bürgeranliegen Parkplatznot in der Oettingenstraße
+- TOP 0.10.: Erflogreiche Biotoppflege auf nichtstädtischen Flächen fortführen, Sitzungsvorlage Nr. 14-20 / V 03733, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016
+- TOP 0.11.: Runder Tisch Erholungsraum Isar am 09.12.2015, Maßnahmen zur Verbesserung an der Isar, Schreiben des Baureferats an den BA 19
+- TOP 0.12.: Informationsschreiben des Baureferats zu ?Gefährliche Straßensituation für behinderte Menschen zwischen Isartor und Deutschem Patentamt?
+- TOP 0.13.: Antwort des Referats für Stadtplanung und Bauordnung zum Vorschlag des BA 1 zum Workshop/Bürgerbeteiligung Verkehrsversuch Sendlinger Straße
+- TOP 0.14.: Verkehrsrechtliche Anordnung, Einrichtung einer Fahrradstraße in der Sparkassenstraße
+- TOP 0.15.: Bürgerschreiben bezüglich des Verkehrsversuchs Sendlinger Straße an das Büro des Oberbürgermeisters, zur Kenntnis an den BA 1
+- TOP 0.1.: Antwort von Spielen in der Stadt e.V. zu Planung der Einsätze der MünchnerSommerSpielAktion 2016
+- TOP 0.2.: Schüler_innen- und Klassenzahlen an: - beruflichen Schulen in Trägerschaft der LH München - städtischen Realschulen, staatlichen Realschulen, städtischen Schulen besonderer Art und der städtischen Franz-Auweck-Abendschule - öffentlichen Grund-, Mittel-, und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten - städtischen und staatlichen Gymnasien und Schulen des Zweiten Bildungsweges jeweils für das Schuljahr 2015/2016
+- TOP 0.3.: Schulbauoffensive 2013-2030, Sitzungsvorlage Nr. 14-20 / V05131, inklusive Ergänzung vom 11.02.2016, 16.02.2016 und 18.02.2016
+- TOP 0.4.: Zuwendungsbewilligung Bescheid, PA/Spielen in der Stadt e.V. Erweiterung des Spielfestes "Luftschloss und Pappburg" vom 08. - 11.09.2016 um einen zusätzlichen Tag und um eine "Frei-Luft-Kantine"
+- TOP 0.5.: Zuwendungsbewilligung Bescheid, Musica Sacra St. Anna e.V. Konzert "Die Schöpfung" am 17.04.2016
+- TOP 0.6.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017, Sitzungsvorlage Nr. 14-20 / V 05096, Beschluss des Sozialausschusses vom 10.03.2016 (VB)
+- TOP 2.5.: Veranstaltung, Italienischer Markt vom 15.04-18.04.2016 auf dem Rindermarkt
+- TOP 2.3.: Antrag auf Baumfällung, Am Grieß
+- TOP 2.3.: Bürgeranliegen, Erhalt der Teichanlagen am Rumfordschlössl
+- TOP 1: (E) Kontrolle bestehender Konzessionen gastronomischer Betriebe in der Müllerstraße Empfehlung Nr. 14-20 / E 00823 der Bürgerversammlung des Stadtbezirkes 1 - Altstadt-Lehel- am 03.12.2015 - <div></div>
+- TOP 2: (E) Sandstrand am Vater-Rhein-Brunnen Empfehlung Nr. 14-20 / E 00820 der Bürgerversammlung des 01. Stadtbezirkes - Altstadt-Lehel am 03.12.2015 - <div></div>
+- TOP 1: (E) Parkuhren: ?Wenn-Dann? Funktion (Nr. 2 des Antrages) Empfehlung Nr. 14-20 / E 00808 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 03.12.2015 - <div></div>
+- TOP 2: (E) 30 Km/h Begrenzung am Oberanger Empfehlung Nr. 14-20 / E 00826 der Bürgerversammlung des 1. Stadtbezirkes Altstadt-Lehel am 03.12.2015 - <div></div>
+- TOP 2.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Fußballmodellprojekt am 10.04.2016 - <div></div>
+- TOP 7.8.: Robert-Koch-Straße 13, DG-Ausbau (2. Ebene), Modernisierung, Nutzungsänderung und Umbau des Rückgebäudes in eine Wohnung, Wiederanbringung von Balkonen an der Straßenseite
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP 2.3.2: Sonstige
