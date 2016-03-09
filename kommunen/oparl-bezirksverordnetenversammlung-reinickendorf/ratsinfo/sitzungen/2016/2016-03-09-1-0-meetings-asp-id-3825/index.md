@@ -1,0 +1,88 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-03-09T17:00:00+01:00
+- Ende: 2016-03-09T20:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3825
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3825
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=88140
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 50. Sitzung der BVV am 09.03.2016 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 50. Sitzung der BVV am 09.03.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 50. Sitzung der BVV am 09.03.2016 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Regelmäßiger Bericht Investitionsmaßnahmen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Brücke Ernststraße (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Anwendung von PFA anstelle von Kaltasphalt bei Schlaglöchern erproben! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Sportangebote für Flüchtlinge im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Fußgängerüberweg AVA-Kiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Infotafel vor dem Luftschutzbunker in Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Rauch- und Alkoholverbot auf Spielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Ausstellung "Asyl ist Menschenrecht" (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Eingliederungsmittel für Langzeitarbeitslose in 2015 vollständig ausschöpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Bushaltestelle Welfenallee mit Wartehäuschen ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bericht zu Neubewertungen ehrenamtlicher Arbeit im Jugendbereich - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Personalengpässe im Stadtplanungsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Unterstützung der ersten Gemeinschaftsschule in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Stadtplanung und Elterngeldstelle stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Schwerpunkte im Bereich Straßenbau - überwiesen
+- TOP 7.16: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Anschaffung von Medien zur Förderung der Integration - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Feriensprachlernschulen in Reinickendorf - überwiesen
+- TOP 7.18: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Produkte im Bereich Hilfen zur Erziehung evaluieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Sonderprogramme in Haushaltsplanung integrieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Verkehrsberuhigende Maßnahmen Landesgrenze (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.21: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-31 vom 14. Oktober 2014 mit Deckblatt vom 26. Oktober 2015 für Teilflächen des Grundstücks Bernauer Straße 151 im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.22: Tätigkeitsbericht der Gleichstellungsbeauftragten für den Zeitraum vom 01.01.2015 bis 31.12.2015 - überwiesen
+- TOP 7.23: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausschöpfung des Härtefallfonds für das Schulmittagessen prüfen (als Zwischenbericht) - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Kita für alle! - beantwortet
+- TOP 8.2: Änderungen am Flächennutzungsplan 09/15 - beantwortet
+- TOP 8.2.1: Änderungen am Flächennutzungsplan 09/15 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Vorläufige Geburtsurkunden ausstellen - erledigt
+- TOP 10.2: Zukunftskonzept Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Kurzparkzone Tegel-City prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2014 - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Gartenstadt Frohnau erhalten II - Verstöße gegen die Erhaltungsverordnung höher ahnden - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Dekubitus-Prophylaxe an Reinickendorfer Kliniken - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bericht über Aktivitäten im Kommunalen Nachbarschaftsforum - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Geschwindigkeitskontrollen Wittenauer Straße / Quickborner Straße / Alt-Lübars - Ortsteil Lübars verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Fußgängerüberweg Friederikestr. / Schwarzspechtweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Verkehrssicherheit für Schulkinder in Konradshöhe - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Mehr Verkehrssicherheit in Lübars - in der BVV abgelehnt
+- TOP 10.12: Grünpfeilschild für Rechtsabbieger Alt-Wittenau entfernen - erledigt
+- TOP 10.13: VDSL für ganz Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Einrichtung eines Familienservicebüros - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Interesse an MINT-Fächern stärken: Reinickendorf meets MacGyver - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Wachsmuthstraße behinderten- und seniorenfreundlich gestalten - überwiesen
+- TOP 12.3: Bild des Monats - überwiesen
+- TOP 12.4: Sichere Durchquerung der Dorfaue Alt-Hermsdorf - überwiesen
+- TOP 12.5: Aufbau eines Lokalen Bildungsverbunds - überwiesen
+- TOP 12.6: Straßenschäden in der Meteorstraße - überwiesen
+- TOP 12.7: Auswaschungen im Wesselburer Weg - überwiesen
+- TOP 12.8: Ausgaben für IT in schulischen Liegenschaften zukünftig dokumentieren - überwiesen
+- TOP 12.9: Erhalt der Sportplätze am Uranusweg - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Taubenabwehr am Parkhaus MV instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Sechserbrücke behindertengerecht herrichten - überwiesen
+- TOP 13.3: S-Bahn-Tunnel im Bahnhof Hermsdorf optisch aufwerten - überwiesen
+- TOP 13.4: Busverbindung Lübars - Märkisches Zentrum - überwiesen
+- TOP 13.5: Mehr Licht am Marie-Schlei-Platz - überwiesen
+- TOP 13.6: Briefkasten in der Markstraße - überwiesen
+- TOP 13.7: LKW-Durchgangsverkehr Meteorstraße unterbinden - überwiesen
+- TOP 13.8: Radarkontrollen auf dem Senftenberger Ring - überwiesen
