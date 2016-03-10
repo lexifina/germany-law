@@ -4,11 +4,13 @@ Abschnitt 1 | - Berufsaufgaben und Berufsbezeichnung -
 § 1 | Berufsaufgaben
 § 2 | Geschützte Berufsbezeichnungen
 § 3 | Voraussetzungen für die Eintragung in die Architekten- oder die Stadtplanerliste
+§ 3a | Europäischer Berufsausweis
+§ 3b | Vorwarnmechanismus
 § 4 | Eintragungsvoraussetzungen für Gesellschaften
 § 5 | Versagung der Eintragung
 § 6 | Eintragungs- und Löschungsverfahren
 § 7 | Datenverarbeitung, Löschung der Eintragung
-§ 8 | Auswärtige Architekten und Stadtplaner
+§ 8 | Auswärtige Architektinnen und Architekten und auswärtige Stadtplanerinnen und Stadtplaner
 § 9 | Ausbildungsbezeichnung
 § 10 | Eintragungsausschuss
 Abschnitt 2 | - Architektenkammer -
@@ -19,7 +21,7 @@ Abschnitt 2 | - Architektenkammer -
 § 15 | Organe
 § 16 | Kammerversammlung
 § 17 | Vorstand
-§ 18 | Satzung
+§ 18 | Satzungen
 § 19 | Finanzwesen
 § 20 | Staatsaufsicht
 § 21 | Durchführung der Staatsaufsicht
@@ -34,7 +36,7 @@ Abschnitt 3 | - Berufsgerichtsbarkeit -
 § 29 | Bestellung der Mitglieder der Berufsgerichte
 § 30 | Verhinderung an der Amtsausübung und Erlöschen des Amtes
 § 31 | Beeidigung und Verschwiegenheitspflicht
-§ 32 | Untersuchungsführer
+§ 32 | Untersuchungsführerin oder Untersuchungsführer
 § 33 | Durchführung des berufsgerichtlichen Verfahrens, Verjährung
 § 33a | Rechtsschutz bei überlangen Gerichtsverfahren
 § 34 | Beteiligte des Verfahrens, Beistand
@@ -58,3 +60,4 @@ Abschnitt 4 | - Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen -
 § 51 | Ordnungswidrigkeiten
 § 52 | Übergangsvorschrift
 § 53 | In-Kraft-Treten, Außer-Kraft-Treten
+Anlage zu § 3 Absatz 1 Nummer 2 | 
