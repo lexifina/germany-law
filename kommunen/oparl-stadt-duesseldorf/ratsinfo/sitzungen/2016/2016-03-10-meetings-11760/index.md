@@ -1,0 +1,90 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-03-10T14:00:00+01:00
+- Ende: 2016-03-10T20:37:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11760
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11760
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00261564.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00261564.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00261564.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 2.1: Anfrage SPD: Liquidität der Landeshauptstadt Düsseldorf - beantwortet
+- TOP 2.2: Anfrage aus aktuellem Anlass des Ratsherrn Grenda: Aktuelle Finanzlage - passieren lassen
+- TOP 3: Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage FDP: Veräußerung der „Bilker Arcaden" - beantwortet
+- TOP 3.2: Anfrage Tierschutz-Freie Wähler: Angriffe und /oder Übergriffe auf städtische Bedienstete - beantwortet
+- TOP 3.3: Anfrage Rh Dr. Wlecke:Akut bestehende Finanz- und Liquiditätsprobleme der Landeshauptstadt Düsseldor - beantwortet
+- TOP 3.4: Anfrage CDU: Nachfragen zur Finanzierung des Grand Deoart - beantwortet
+- TOP 3.5: Anfrage der FDP- Ratsfraktion: Was kostet die Projektgruppe Tour de France? - beantwortet
+- TOP 3.6: Anfrage Rf Dr. Strack-Zimmermann: Haushaltsmittel für den Grand Depart - beantwortet
+- TOP 3.7: Anfrage des Ratsherrn Maniera: "“Maghreb-Viertel“ / Entwicklung von Parallelgesellschaften - beantwortet
+- TOP 3.8: Anfrage des Ratsherrn Grenda: Kreditaufnahme bei städtischen Töchtern - beantwortet
+- TOP 3.9: Anfrage der Ratsfraktion DIE LINKE: Externe Gutachten in Düsseldorf - schriftlich beantwortet
+- TOP 3.10: Anfrage Tierschutz-Freie Wähler: Mögliche Entwicklung der Flüchtlingssituation in Düsseldorf 2016 - schriftlich beantwortet
+- TOP 3.11: Anfrage der Ratsfraktion DIE LINKE: AfD-Politiker im Wohnungsamt - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 5: Partnerschaftsvertrag zwischen der Landeshauptstadt Düsseldorf in der Bundesrepublik Deutschland und - mehrheitlich beschlossen
+- TOP 6: Kaiserswerther Straße 380, Aquazoo/Löbbecke Museum – Sanierung - Änderungsbeschluss - - mehrheitlich beschlossen
+- TOP 7: Deutsche Oper am Rhein - Sanierungsmaßnahmen Sommer 2016 - einstimmig beschlossen
+- TOP 8: Ersatzneubau einer Gymnastikhalle auf dem städtischen Grundstück beim TSV Urdenbach, - einstimmig beschlossen
+- TOP 9: Gründung der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - mehrheitlich beschlossen
+- TOP 9.1: ÄA Gründung der Hafen Düsseldorf-Reisholz Entwicklungs GmbH - einstimmig beschlossen
+- TOP 10: Verlängerung Böhlerstraße - Abschluss einer Verwaltungsvereinbarung - einstimmig beschlossen
+- TOP 11: Beteiligung am Sonderprogramm des Landes NRW "Hilfen im Städtebau für Kommunen zur Integration von F - mehrheitlich beschlossen
+- TOP 12: Programm NRW "Hilfen im Städtebau zur Integration von Flüchtlingen" - Welcome-Point - mehrheitlich beschlossen
+- TOP 13: Freier Eintritt in städtische Museen für Jugendliche bis 21 Jahre - einstimmig beschlossen
+- TOP 14: Holding der Landeshauptstadt Düsseldorf GmbH; Einrichtung eines Aufsichtsrates - mehrheitlich beschlossen
+- TOP 14.1: ÄA Rh Grenda: Holding der Stadt - zur Kenntnis genommen
+- TOP 15: Grand Départ (TdF) - Aktueller Projektstatus - zur Kenntnis genommen
+- TOP 16: Public Corporate Governance Kodex für die Beteiligungen der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 17: Annahme von Spenden im Zusammenhang mit dem Orkan Ela für die Neupflanzung von Bäumen in der Landesh - einstimmig beschlossen
+- TOP 18: AGA 2017 und Eurogames 2020 - einstimmig beschlossen
+- TOP 19: Veränderung eines Vergabekriteriums als Voraussetzung zum Erhalt der Ehrenamtskarte NRW in Düsseldor - einstimmig beschlossen
+- TOP 20: Art:card Düsseldorf für Studenten und Auszubildende - einstimmig beschlossen
+- TOP 21: Schenkung für die städtische Sammlung des Museum Kunstpalast, Abteilung Moderne Kunst und Graphisch - einstimmig beschlossen
+- TOP 22: Genehmigung 60er: Zwischenfinanzierung der Albrecht-Dürer-Schule durch die Industrieterrains Düssel - einstimmig beschlossen
+- TOP 23: Gen. 60er:Anmietung von insgesamt fünf winterfesten Leichtbauhallen - mehrheitlich beschlossen
+- TOP 24: Genehmigung 60er: Abbruch von zwei Werkshallen auf ehemaligen Glashüttengelän-de - einstimmig beschlossen
+- TOP 25: Genehmigung 60er: Neue Schauspiel-Gesellschaft mbH – Durchführung von Maß-nahmen des „5-Punkte-Plan - einstimmig beschlossen
+- TOP 26: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 27: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: "Neuaufstellung des Landesentwicklungsplans (LEP NRW) - 2. Beteiligungsverfahren - mehrheitlich beschlossen
+- TOP 29: Plan Nr. 06/015-VogelsangerWeg/Münsterstr-VÄ - einstimmig beschlossen
+- TOP 30: B-Plan 5970/27 - Bonner Straße / Münchener Straße - - einstimmig beschlossen
+- TOP 31: Plan 09/008-Forststr/Hasselsstr-Änderung/1. Verlängerung VÄ - einstimmig beschlossen
+- TOP 32: Plan Nr. 03/009 Oberbilker Allee / Ringelsweide Veränderungssperre - einstimmig beschlossen
+- TOP 33: Plan Nr. 5174/017 - Beiderseits Hinter der Böck - Veränderungssperre 2. Verlängerung - einstimmig beschlossen
+- TOP 34: Anträge
+- TOP 34.1: Antrag Tierschutz-Freie Wähler: Erlangung der finanziellen Mindestausstattung - mehrheitlich abgelehnt
+- TOP 34.2: Antrag DIE LINKE: Einberufung Runder Tisch Waldschänke - zurückgezogen
+- TOP 34.3: Antrag Die Linke: Verbleib des Kinderbauernhofs/Gutshofs Niederheid in städtischer Hand - mehrheitlich abgelehnt
+- TOP 34.4: Antrag der Ratsfraktionen von BÜ90/GRÜ, SPD und FDP: Zukunft für Gut Niederheid - mehrheitlich beschlossen
+- TOP 34.4.1: ÄA CDU: Zukunft für Gut Niederheid - zur Kenntnis genommen
+- TOP 34.5: Antrag Die Linke: Einstellung aller Kontakte zum türkischen Konsulat - mehrheitlich abgelehnt
+- TOP 34.6: Antrag Die Linke: Keine Vermittlung von Jugendlichen an die Bundeswehr
+- TOP 34.7: Antrag Die Linke: Schuldenuhr abbauen
+- TOP 34.7.1: ÄA Rh Grenda: Schuldenuhr abbauen
+- TOP 34.8: Antrag Die Linke: AfD keine Plattform geben - zurückgezogen
+- TOP 34.9: Antrag SPD,Bü90-Grü, FDP und DIE LINKE: Verabschiedung einer Resolution gegen sexualisierte Gewalt
+- TOP 34.9.1: ÄA CDU:Verabschiedung einer Resolution gegen sexualisierte Gewalt
+- TOP 34.9.2: ÄA Tierschutz/Freie Wähler: Verabschiedung einer Resolution gegen sexualisierte Gewalt
+- TOP 34.10: Antrag der CDU-Ratsfraktion: Düsseldorf-Airport DUS - zurückgezogen
+- TOP 34.11: Antrag CDU:Veranstaltungs- und Finanzierungskonzept für den Grand Depart der Tour de France 2017 vor - einstimmig beschlossen
+- TOP 34.12: Antrag CDU: Insel am Schloßweiher braucht keine zwei Bäume
+- TOP 34.13: Antrag der Ratsfraktion Tierschutzpartei/FREIE WÄHLER: Keine Pferde im Karneval
+- TOP 34.14: Antrag von BÜ90/GRÜ, CDU, SPD, FDP und DIE LINKE: Klage gegen die belgischen Atomkraftwerke in Tiha - einstimmig beschlossen
+- TOP 35: Programm NRW "Hilfen im Städtebau zur Integration von Flüchtlingen" - Streetworker - einstimmig beschlossen
+- TOP 36: Verwaltungsrat SSK - Ersatzwahl - - einstimmig beschlossen
+- TOP 37: Anmietung der Liegenschaft Gatherweg 60 - mehrheitlich beschlossen
+- TOP 38: Ankauf von sechs Wohnmodulanlagen zur Unterbringung von Asyl suchenden Personen und Flüchtlingen - zurückgezogen
+- TOP 39: Information des Ältestenrates zur aktuellen Liquiditätssituation - zur Kenntnis genommen
+- TOP 40: Aufsichtsrat der SWW Städt. Wohnungswirtschaftsgesellschaft Düsseldorf mbH & Co. KG - Neuwahl - - zurückgezogen
