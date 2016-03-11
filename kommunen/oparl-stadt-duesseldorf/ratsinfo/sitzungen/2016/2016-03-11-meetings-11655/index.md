@@ -1,0 +1,58 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-03-11T16:00:00+01:00
+- Ende: 2016-03-11T18:00:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11655
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11655
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00261611.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00261611.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00261611.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Zulassung eines Vertreters des Jugendrates
+- TOP 5: Zulassung von Sachverständigen zum TOP 6 - zur Kenntnis genommen
+- TOP 6: Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 7: FNP-Änderung Nr. 140, Südlich Paulsmühlenstraße - zur Kenntnis genommen
+- TOP 8: Ersatzneubau einer Gymnastikhalle auf dem städtischen Grundstück beim TSV Urdenbach, - zur Kenntnis genommen
+- TOP 9: Am Trippelsberg - Baumfällungen im Zuge des barrierefreien Ausbaus der Haltestelle "Lingner Werke" - zur Kenntnis genommen
+- TOP 10: Bezirklicher Bauunterhalt 2016
+- TOP 11: Bezirklicher Bauunterhalt 2016 - zur Kenntnis genommen
+- TOP 12: Bezirklicher Bauunterhalt 2016 - Blumenkübel - zur Kenntnis genommen
+- TOP 13: Umwidmung von Kinderspielplätzen in den Stadtbezirken 1, 3, 8, 9 und 10 - zur Kenntnis genommen
+- TOP 14: Anfrage: Regenrückhaltebecken Kamper Acker - zur Kenntnis genommen
+- TOP 15: Anfrage: Verkehrsprobleme anlässlich von Veranstaltungen im Schloss und Park Benrath
+- TOP 16: Anfrage: Nutzung von Fahrrädern, E-Bikes und Elektroautos für Dienstfahrten von OSD-Mitarbeiter/inne - zur Kenntnis genommen
+- TOP 17: Anfrage: B-Plan-Verfahren Am Scheitenwege-Süd
+- TOP 18: Anfrage:Sachstand „Industriebrache nördl. Paulsmühlenstr.“, Vorlage-Nr. 179/43/2015 und „Neubau Haup - zur Kenntnis genommen
+- TOP 19: Anfrage: Sachstandsbericht DM-Markt in Wersten
+- TOP 20: Anfrage: Feuerwehrzufahrt BSA Am Wald - zur Kenntnis genommen
+- TOP 21: Antrag: Baumschutz und Nachpflanzung im Schlosspark Benrath - zur Kenntnis genommen
+- TOP 22: Antrag: Mehrgenerationenwohnprojekt „Altes Benrather Krankenhaus“ - zur Kenntnis genommen
+- TOP 23: Antrag: Fortschreibung des Sportstättenentwicklungs- und Modernisierungsprogramms - zur Kenntnis genommen
+- TOP 24: Antrag: Prioritätenliste für Mischverkehrsflächen - zur Kenntnis genommen
+- TOP 25: Antrag: Paulsmühlenstr., Stichstraße vor Lauftreff-Süd - zur Kenntnis genommen
+- TOP 26: Antrag: Erinnerungskultur im Stadtbezirk 9 - vier Straßennamen in Urdenbach - zur Kenntnis genommen
+- TOP 27: Antrag: Priorisierung Kinderspielplatz Kammerrathsfeldstraße - zur Kenntnis genommen
+- TOP 28: Antrag: Verfügungsmittel Benrather Kulturkreis; Ausstellung "Look Of Food" - zur Kenntnis genommen
+- TOP 29: Antrag: Verfügungsmittel Sozialverband Deutschland; Ausflug - zur Kenntnis genommen
+- TOP 30: Antrag: Verfügungsmittel "Wir in Wersten"; Osterfeuer 2016 - zur Kenntnis genommen
+- TOP 31: Antrag: Verfügungsmittel "Wir in Wersten"; Stadtrallye 2016 - zur Kenntnis genommen
+- TOP 32: Antrag: Verfügungsmittel Diakonie, Zentrum plus Benrath; Handreichung zur Veranstaltung "Ruhig und - zur Kenntnis genommen
+- TOP 33: Antrag: Verfügungsmittel Evangel. Kirchengemeinde Urdenbach; Seniorenbusfahrt zur Landtagsbesichtigu - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel Die Arche; Stauschrank - zur Kenntnis genommen
+- TOP 35: Antrag: Verfügungsmittel St.-Elisabeth-Schule; Die große Nein-Tonne - zur Kenntnis genommen
+- TOP 36: Antrag: Verfügungsmittel Herz und Hand für Wersten; Rheinschifffahrt - zur Kenntnis genommen
+- TOP 37: Antrag: Verfügungsmittel Spektrum76 - zur Kenntnis genommen
+- TOP 38: Informationsvorlage zur Anfrage zur Sitzung am 04.12.2015, Quartiersentwicklung Wersten Süd-Ost - zur Kenntnis genommen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 25.09.2015, Bauleitplanverfahren Am Scheitenwege 2. B - zur Kenntnis genommen
+- TOP 40: Informationsvorlage Schulbaumaßnahmen - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zur Steinhauerstraße - zur Kenntnis genommen
