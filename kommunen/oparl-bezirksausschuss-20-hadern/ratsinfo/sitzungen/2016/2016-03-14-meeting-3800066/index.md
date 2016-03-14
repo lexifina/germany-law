@@ -1,0 +1,99 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800066
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800066
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Wanderausstellung vom 03.05. - 30.10.2016 (Direktorium, 22.02.16)
+- TOP 5.2.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Ausstellung vom 03.06. - 29.07.2016 (Direktorium, 22.02.16)
+- TOP 5.3.: Budget der Bezirksausschüsse, Stüps-Schulsozialarbeit Grundschule Blumenauer Straße 11 München, Präventionsprojekt von September - Dezember 2016 (Direktorium 22.02.16)
+- TOP 4: Weiterführung des Geh- und Radweges in Richtung Grünanlage in der Sauerbruchstraße neben Hausnummer 56 (Baureferat, 24.02.16) Empfehlung Nr. 14-20 / E 00816 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 03.12.2015 - <div>nach Antrag</div>
+- TOP 5: Kriegerheimstraße: - Verhinderung von LKW-Parken - Abmarkierung einer Radspur (Kreisverwaltungsreferat, 11.02.16) Empfehlung Nr. 14-20 / E 00819 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 03.12.2015 - <div>nach Antrag</div>
+- TOP 6: Geh- und Radweg zwischen Langbehnstraße und Silberdistelstraße mit neuem Belag versehen (Baureferat, 25.02.16) Empfehlung-Nr. 14-20 / E 00814 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 03.12.2015 - <div>nach Antrag</div>
+- TOP 6.7.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Druck einer Festschrift (Direktorium, 26.02.16)
+- TOP 6.8.: Budget der Bezirksausschüsse, TSV München-Großhadern von 1926 e.V., Einrichtung einer Homepage der Haderner Vereine (Direktorium, 01.03.16)
+- TOP 6.9.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V. MFM-Projekt am 02.05.2016 (Direktorium, 02.03.16)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Vollzug des Sprengstoffgesetzes: Feuerwerk am 20.05.16 zwischen 21.45 Uhr und 21.50 Uhr auf dem Grundstück Krokusstr. 35 (Kreisverwaltungsreferat, 18.02.16)
+- TOP 6.2.: Energieversorgung der Stadt München (vertagt aus 02/2016) (Referat für Arbeit und Wirtschaft, 10.02.16)
+- TOP 6.3.: Bauleitplanung der Gemeinde Neuried: Aufstellung des Bebauungsplanes Nr. 11b für das Gebiet "Südlich der Gautinger Straße und östlich der Fichtenstraße", Verfahren nach §§ 13a, 4 Abs. 1 BauGB (Referat für Stadtplanung und Bauordnung, 10.02.16)
+- TOP 6.4.: Erweiterung der Tempo-30-Zone Nr. 315 "Großhadern - nördlich Marchioninistraße" (Kreisverwaltungsreferat, 19.02.16)
+- TOP 6.5.: Gehbahnarbeiten Kurparkstr. 19-21 (Baureferat, 10.02.16)
+- TOP 6.6.: Kreuzungsumbau Großhaderner Straße 6 mit Seite Gräfelfinger Straße (Baureferat, 18.02.16)
+- TOP 6.7.: Nothkaufplatz 7 - Neubau eines Doppelhauses - DHH 1 mit Garage (Referat für Stadtplanung und Bauordnung, 16.02.16)
+- TOP 6.8.: Nothkaufplatz 7 - Neubau eines Doppelhauses - DHH 2 mit Garage (Referat für Stadtplanung und Bauordnung, 16.02.16)
+- TOP 6.9.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, 30. Haderner Dorffest vom 29.04. - 08.05.2016 von 11.00 - 23.00 Uhr (Kreisverwaltungsreferat, 25.02.16)
+- TOP 6.10.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Sommerfest mit Kermes des Mevlana Rumi e.V. am 09. und 10.04.2016 (Kreisverwaltungsreferat, 02.03.16)
+- TOP 6.11.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO, hier: 950 Jahre Hadern und Maibaumaufstellen des BA 20 Hadern am 01.05.2016 von 09.00 - 14.00 Uhr auf dem Canisiusplatz (Kreisverwaltungsreferat, 02.03.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Ringstraße 2, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2016-1550
+- TOP 7.2.: Tannenwaldstraße, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2016-2148
+- TOP 7.3.: Kurparkstraße 47, 1 Vogelkirsche
+- TOP 7.4.: Hochwaldstraße 18, 1 serbische Fichte
+- TOP 7.5.: Stiftsbogen 83, 1 Schlehdorn
+- TOP 7.6.: Wastl-Witt-Straße 17 - 27, 2 Hängebirken, 1 Feldahorn, 1 Hainbuche, 1 Roteiche und 1 Vogelbeere
+- TOP 7.7.: Gladiolenstraße 2, 2 Fichten
+- TOP 7.8.: Eichhornstraße 6, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: - Am Hedernfeld 5; Einrichtung eines personenbezogenen Behindertenparkplatzes (Kreisverwaltungsreferat vom 17.02.16) - Kornwegerstraße; absolutes Haltverbot (Kreisverwaltungsreferat, 16.12.16)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Heiglhofstraße (Sozialreferat, 04.02.16) - Silberblattstraße (Sozialreferat, 25.02.16)
+- TOP 8.3.: Unveränderte Fortführung einer Gaststätte, hier: - "Sushi Wok", Würmtalstr. 99 (Kreisverwaltungsreferat, 11.02.16) - "Osteria", Würmtalstr. 2 (Kreisverwaltungsreferat, 04.02.16)
+- TOP 8.4.: Baumaßnahmen der Stadtwerke München, hier: Guardinistraße 60 (SWM, 22.02.16)
+- TOP 8.5.: Umweltverbände und Öffentlichkeit frühzeitig in Planungsverfahren einbinden (Referat für Stadtplanung und Bauordnung, 05.02.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.3.: Glasfaserausbau (Referat für Arbeit und Wirtschaft, 23.02.16)
+- TOP 9.4.: Heiglhofstr. 17 - Genehmigung des Bauvorhabens (Referat für Stadtplanung und Bauordnung, 19.02.16)
+- TOP 9.5.: Fußgängerquerung Senftenauerstraße / Hönigschmidplatz (Kreisverwaltungsreferat, 25.02.16)
+- TOP 9.6.: Stadtteil München - Großhadern, Hohenklingenstraße / Bereich zwischen Windeckstraße und Stahleckstraße, Antrag auf Begrünung des östlichen Straßenrands (Baureferat, 26.01.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Stau in der Waldwiesenstraße (Rettungszweckverband München, 22.02.16; Klinikum der Universität München, 18.02.16)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Bürgerforum Altenpflege am 16.03.16 im alten Rathaus (Direktorium, 02/16)
+- TOP 11.2.: Einladung zum Fachforum "Elektromobiltät" und "Baustellenverordnung: Sicherheit und Gesundheitsschutz auf Baustellen" (Referat für Gesundheit und Umwelt, 19.02.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 16.12.2015 zur Sitzungsvorlage Nr. 14-20 / V 04757: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 mit verbindlicher Planung für 2020; Entwurf für das Baureferat
+- TOP 12.2.: Beschluss vom 27.01.2016 zur Sitzungsvorlage Nr. 14-20 / V 04751: Mieterbeirat - Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 18. Stadtbezirkes
+- TOP 12.1.: Beschluss vom 25.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 04903: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage Nr. 14-20 / V 04798: Änderung der Münchner Baumschutzverordnung, Empfehlung Nr. 14-20 / E 00411 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 16.04.2015
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 04169: Umgestaltung Canisiusplatz
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 04745: E-Mobilität: Handlungsfeld 6 - Innerstädtischer Wirtschaftsverkehr
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 05025: Wildtiere in München II, Erfassung der Wildtiere in München
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlagen Nr. 14-20 / V 04859: Unterflur- Containerstandorte in Neubaugebieten mit planen!
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 04903: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Infrastruktruprogramm München II: Handlungsprogramm Infrastruktur
+- TOP 12.2.: Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwaltungsausschuss vom 18.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 05131: Schulbauoffensive
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage Nr. 14-20 / V 03733: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzunsvorlage Nr. 14-20 / V 03602: Ensemble ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes a) Sachstand nach dem Entscheidungen des Landesdenkmalrates vom 27.05. und 01.07.2011, bzw. 30.03.2012 b) Maßnahmen zum Erhalt des Ensemblestatus und der weiteren Entwicklung der ehem. Dorfkerne Aubing und Ramersdorf
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage Nr. 14-20 / V 03291: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten - "Impulse für mehr Wohnungsbau in München: Schriftliche Bestätigung von Beratungsgesprächen im Planungsreferat" "Schnellere Baugenehmigungen in der LBK"
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage Nr. 14-20 / V 04459: 1) Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung 2) Anträge: a) Portfolio-Bildung bei Bebauungsplänen, mehr Baurechtsschaffung b) Abbau der Regelungsdichte bei Bebauungsplänen c) Schnittstellenreduzierung und Projektmanagement bei Bebauungsplanverfahren d) Bessere Bürgerbeteiligung bei Bebauungsplanverfahren
+- TOP 12.7.: Beschluss des Sozialausschusses vom 10.03.2016 zur Sitzungsvorlage Nr. 14-20 / V 05096: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 207 Produkt 60 5.4.2.3 Interessenvertretung für ältere Menschen durch den Seniorenbeirat
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage Nr. 14-20 / V 04864: Wohnungsmarkt München - Expertenbefragung 2015
+- TOP 12.2.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage Nr. 14-20 / V 04857: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung: Gutachterlicher Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifiziert überplanten Innenbereich
+- TOP 12.3.: Hinweis / Ergänzung zur Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 20.01.2016 zur Sitzungsvorlage Nr. 14-20 / V 04733: "Erwerbstätigkeitsprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14"
+- TOP 12.4.: Bekanntgabe im Bildungsausschuss vom 18.02.2016: Schüler_innen und Klassenzahlen: - an den Beruflichen Schulen in der Trägerschaft der LH München im Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04975) - der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04946) - an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04967) - an den städtischen Realschulen, den staatlichen Realschulen, den städt. Schulen besonders Art und der Schuljahr 2015/2016 (Sitzungsvorlage Nr. 14-20 / V 04883)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
