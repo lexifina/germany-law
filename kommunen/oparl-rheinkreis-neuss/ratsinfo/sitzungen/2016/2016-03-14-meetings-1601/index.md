@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2016-03-14T15:00:00+01:00
+- Ende: 2016-03-14T18:23:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1601
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1601
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Verpflichtung und Einführung eines neuen Kreistagsabgeordneten
+- TOP 3: Bestellung von Schriftführern/ Schriftführerinnen - einstimmig beschlossen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Änderung der persönlichen Stellvertretung im Beirat bei der Unteren Landschaftsbehörde (BUND) - einstimmig beschlossen
+- TOP 4.2: Benennung von Mitgliedern des Aufsichtsrates der Regiobahn Fahrbetriebsgesellschaft mbH - einstimmig beschlossen
+- TOP 4.3: Anträge auf Umbesetzung - einstimmig beschlossen
+- TOP 4.3.1: Antrag der FKG Kreistagsfraktion vom 29.02.2016 auf Umbesetzung der Ausschüsse - einstimmig beschlossen
+- TOP 4.3.2: Antrag der CDU Kreistagsfraktion vom 03.03.2016 - einstimmig beschlossen
+- TOP 4.3.3: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen vom 09.03.2016 - einstimmig beschlossen
+- TOP 4.3.4: Antrag der Kreistagsfraktion Die Linke vom 10.03.2016 - einstimmig beschlossen
+- TOP 5: Ermächtigungsübertragungen von 2015 nach 2016 im Rahmen des Jahresabschlusses 2015 - zur Kenntnis genommen
+- TOP 6: Haushalt 2016/2017
+- TOP 6.1: Anträge aus den Haushaltsreden
+- TOP 6.1.1: Antrag der FKG Kreistagsfraktion vom 09.03.2016 auf Aufstellung eines zweiten Veränderungsnachweises zum Entwurf des Doppelhaushaltes 2016/2017 - mehrheitlich abgelehnt
+- TOP 6.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.3: Antrag der SPD Kreistagsfraktion auf Drittelung der Umlageerhebung - mehrheitlich abgelehnt
+- TOP 6.2: Kreishaushalt 2016/2017: Beteiligungsrechte der Städte und Gemeinden / Verzicht eines Doppelhaushaltes
+- TOP 6.2.1: Beteiligungsrechte der kreisangehörigen Städte und Gemeinden - mehrheitlich beschlossen
+- TOP 6.2.2: Verzicht auf einen Doppelhaushalt 2016/2017 - mehrheitlich abgelehnt
+- TOP 6.3: Kreishaushalt 2016/2017: Haushaltssatzung/ Senkung des Umlagesatzes des LVR, Landschaftsumlage
+- TOP 6.3.1: Beschluss über die Haushaltssatzung mit ihren Anlagen - mehrheitlich beschlossen
+- TOP 6.3.2: Senkung des Umlagesatzes des LVR / Keine Erhöhung der Landschaftsumlage - einstimmig beschlossen
+- TOP 7: Bericht zur Chancengleichheit - einstimmig beschlossen
+- TOP 8: 46. Änderung des Flächennutzungsplanes der Gemeinde Rommerskirchen - einstimmig beschlossen
+- TOP 9: Änderung der Hauptsatzung des Rhein-Kreises Neuss - mehrheitlich beschlossen
+- TOP 10: Umsetzung des Notfallsanitätergesetzes- Ergänzung des rettungsdienstlichen Bedarfsplanes - einstimmig beschlossen
+- TOP 11: Satzungsänderung der Musikschule Rhein-Kreis Neuss, hier geplante Gebührenerhöhung, Einführung eines Schnupperkurses und einer 10er-Karte für Erwachsene zum 1.10.2016 - einstimmig beschlossen
+- TOP 12: Delegationssatzung nach § 5 der Kreisordnung, § 99 SGB XII und § 3 AG SGB XII NRW - einstimmig beschlossen
+- TOP 13: Gesamtstellenplan und Teilstellenpläne des Rhein-Kreises-Neuss 2016/2017 - einstimmig beschlossen
+- TOP 14: Anträge
+- TOP 15: Mitteilungen
+- TOP 16: Anfragen
+- TOP 16.1: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 10.03.2016: Gehölzpflege an den Straßen im Rhein-Kreis Neuss
+- TOP 16.2: Anfrage der CDU und FDP Kreistagsfraktion vom 10.03.2016 zur Situation der Schulen in Trägerschaft des Rhein-Kreises Neuss
+- TOP 16.3: Anfrage der CDU und FDP Kreistagsfraktion vom 10.03.2016 zu den Auswirkungen der Änderung der Ausbildungsordnung sonderpädagogischer Förderung
+- TOP 17: Einwohnerfragestunde
