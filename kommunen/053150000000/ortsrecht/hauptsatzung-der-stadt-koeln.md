@@ -1,17 +1,17 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2016-01-06 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_06012016.pdf
+- Datum: 2016-03-15 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_15032016.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 14. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 06. Januar 2016
+in der Fassung der 15. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 15.03.2016
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1–
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
@@ -308,7 +308,7 @@ Bezirksvertretungen (§ 69, § 36 Abs. 7 GO)
 (1) Die Teilnahme der Oberbürgermeisterin/des Oberbürgermeisters und der Beigeordneten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 69 und § 36 Abs. 7 GO. Leitende Dienstkräfte i.S.d. § 36 Abs. 7 Satz 2 GO sind die Amtsleiterinnen und Amtsleiter. (2) An den Sitzungen des Rechnungsprüfungsausschusses nimmt die Leiterin/der Leiter des Rechnungsprüfungsamtes teil. (3) Die Leiterin/der Leiter des Bürgeramtes ist verpflichtet, an den Sitzungen der Bezirksvertretung teilzunehmen. (4) Die Teilnahme der Gleichstellungsbeauftragten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 5 Absatz 4 Sätze 1 und 2 GO und § 27 Abs. 3 dieser Hauptsatzung.
 § 30 Zahl der Beigeordneten
 (§ 71 Abs. 1 GO)
-Die Zahl der zu wählenden Beigeordneten wird auf höchstens 7 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
+Die Zahl der zu wählenden Beigeordneten wird auf höchstens 8 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
 § 31 Inkrafttreten der Hauptsatzung
 (§ 7 Abs. 4 GO)
 Diese Hauptsatzung tritt am Tage nach der öffentlichen Bekanntmachung in Kraft. Gleichzeitig tritt die bisher geltende Hauptsatzung vom 13. August 2007 in der Fassung der 2. Änderungssatzung vom 18. März 2008 außer Kraft.
