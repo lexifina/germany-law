@@ -1,0 +1,62 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2016-03-15T18:00:00+01:00
+- Ende: 2016-03-15T21:00:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVyLxpUcuaRe8Ml3fBFt6Jo
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19082
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU69weJpkecsrrwTYs0K10u3i020AGN0M7nJqhCUV3d2/Bekanntmachung_Rat_15.03.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY9z0cVfb_BoXEpS3wGvcl_cUf7RyfjK1aXSMdGVZeEf/Oeffentliche_Niederschrift_Rat_15.03.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 15.12.2015 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten -   
+- TOP 5.: Neubesetzung von Ausschüssen hier: Antrag der UWV-Fraktion vom 01.03.2016 - Einstimmiger Beschluss:
+- TOP 6.: Neubesetzung von Ausschüssen hier: Antrag der SPD-Fraktion - Einstimmiger Beschluss:
+- TOP 7.: Neuregelung der Bestellung der weiteren allgemeinen Vertreter/in der Bürgermeisterin - Einstimmiger Beschluss:
+- TOP 8.: Anregungen und Beschwerden nach § 24 GO NRW hier: Anregung der Republikaner NRW - Einstimmiger Beschluss:
+- TOP 9.: Breitbandausbau in Bad Münstereifel hier: gemeinsamer Antrag der UWV, CDU, SPD, UWV, FDP und Bündnis 90/die Grünen, eingegangen am 01.03.2016 - Einstimmiger Beschluss:
+- TOP 10.: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel - Beschluss mit 31 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 11.: Integriertes Handlungs- und Stadtentwicklungskonzept - Einstimmiger Beschluss:
+- TOP 12.: Fortschreibung des Einzelhandels- und Strukturgutachtens der Stadt Bad Münstereifel; hier: Empfehlung der BBE Handelsberatung zur Entwicklung des zentralen Versorgungsbereiches in Bad Münstereifel -   
+- TOP -: Fortschreibung des Einzelhandels- und Strukturgutachtens der Stadt Bad Münstereifel; hier: Empfehlung der BBE Handelsberatung zur Entwicklung des zentralen Versorgungsbereiches in Bad Münstereifel - Beschluss mit 23 Ja-Stimmen, 8-Nein-Stimmen und 1 Enthaltung:
+- TOP 13.: Bebauungsplan Nr. 54 "Kirspenich, Hardtburgstraße" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss -   
+- TOP -: Bebauungsplan Nr. 54 "Kirspenich, Hardtburgstraße" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen alle einstimmig mit 1 Enthaltung ohne Beteiligung der Fraktion Bündnis 90/Die Grünen. Beschluss mit 23 Ja-Stimmen und 4 Nein-Stimmen:
+- TOP -: Bebauungsplan Nr. 54 "Kirspenich, Hardtburgstraße" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen alle einstimmig mit 1 Enthaltung ohne Beteiligung der Fraktion Bündnis 90/Die Grünen. 
+- TOP -: Bebauungsplan Nr. 54 "Kirspenich, Hardtburgstraße" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss -   
+- TOP 14.: 26. Änderung des Flächennutzungsplanes für den Bereich "Parkplatz am Friedwald" hier: Abwägungsbeschlüsse und abschließender Beschluss - Alle Abwägungsbeschlüsse (=Anlage 3 der Originalniederschrift) erfolgen einstimmig.Einstimmiger Beschluss:
+- TOP 15.: 2. Änderung des Bebauungsplanes Nr. 80a "Ergänzungsstandort Nahversorgung" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse (=Anlage 4 der Originalniederschrift) erfolgen alle einstimmig.Einstimmiger Beschluss:
+- TOP 16.: Regionalplan für den Regierungsbezirk Köln- Entwicklungsplanung der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 17.: Beitritt zur Nordeifeltourismus (NET) GmbH hier: Informationen -   
+- TOP -: Beitritt zur Nordeifeltourismus (NET) GmbH - Einstimmiger Beschluss:
+- TOP 18.: Projektaufruf zum Sonderprogramm des Landes NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen"; hier: Anträge der Fraktion Bündnis`90/Die Grünen vom 14.12.2015, der UWV-Fraktion, der CDU-Fraktion vom 07.01.2016 und der SPD-Fraktion vom 14.01.2016 -hier Genehmigung des Eilbeschlusses- - Beschluss mit 31 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 19.: Bestellung einer Betriebsleiterin für die Eigenbetriebsähnliche Einrichtung "Forstbetrieb der Stadt Bad Münstereifel" hier: Ausscheiden des Betriebsleiters Alexander Büttner - Einstimmiger Beschluss:
+- TOP 20.: Erlass des Wirtschaftsplanes 2016 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 21.: Erlass der Wirtschaftspläne 2016 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Abwasser und Wasser hier: Einbringung der Entwürfe/Änderung -   
+- TOP -: Erlass der Wirtschaftspläne 2016 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Abwasser und Wasser hier: Einbringung der Entwürf/Änderung - Einstimmiger Beschluss:
+- TOP 22.: Erlass der Haushaltssatzung für das Haushaltsjahr 2016 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2017 - 2025 hier: 2. Veränderungsliste -   
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2016 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2017 - 2025 hier: 3. Veränderungsliste und Fortschreibung bis 2025 und Beschlussfassung - Beschluss mit 28 Ja- Stimmen und 4 Nein-Stimmen:
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2016 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2017 - 2025 hier: Veränderungen gegenüber der 2. Veränderungsliste -   
+- TOP 23.: Stellenplan für das Haushaltsjahr 2016 -   
+- TOP -: Stellenplan für das Haushaltsjahr 2016; hier: Aktualisierung im Bereich der tariflich Beschäftigten - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 24.: Anfragen und Mitteilungen
+- TOP 24.1: Einrichtung einer Schulbus-Haltestelle Siedlung Fahl
+- TOP 24.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i.V. mit § 17 Abs. 2 der Hauptsatzung für das 2. Halbjahr 2015
+- TOP 24.3: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und der Bürgermeisterin
+- TOP 24.4: Förderanträge zum Bundesprogramm Sanierung Sport-, Jugend- und Kultureinrichtungen
+- TOP 24.5: Mitteilung der Bürgermeisterin zu Stadtbücherei und Kick
+- TOP 24.6: Anfrage des Stadtverordneten Thomas Bell zur Fortschreibung des Gesamtverkehrskonzeptes
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Personalbericht - Beschluss mit 30 Ja-Stimmen und 2 Enthaltungen:
+- TOP 2.: Aktives Schuldenmanagement - Einstimmiger Beschluss:
+- TOP -: Aktives Schuldenmanagement
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Anfrage des Stadtverordneten Willi Hoever zum Bauhofneubau
