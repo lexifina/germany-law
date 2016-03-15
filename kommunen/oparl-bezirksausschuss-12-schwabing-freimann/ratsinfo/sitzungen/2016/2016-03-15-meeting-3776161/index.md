@@ -1,0 +1,77 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776161
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776161
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Anhörungen
+- TOP 10: sonstiges
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.: Straßenbauarbeiten am Sederanger
+- TOP 10.2.: Fahrbahnsanierung der Haimhauserstraße ? vertagt aus der Sitzung vom 23.02.2016
+- TOP 10.1.: Einrichtung eines absoluten Haltverbotes in der Guerickestraße südlich Fröttmaninger Straße
+- TOP 10.2.: Reparatur der Fernwärmeleitung in der Leinthaler Straße 10-30 (zwischen Erika- und Libellenstraße) ? Änderung der Beschilderung
+- TOP 10.1.: Baustelleneinrichtung in der Grünanlage zwischen Langfeld- und Lützelsteiner Straße
+- TOP 10.2.: Umgestaltung der Kreuzung Josef-Wirth-Weg und Herstellung eines baulichen Rad- und Gehwegs in der Freisinger Landstraße (Ostseite) ? Antwort des Baureferats auf BA-Stellungnahme vom 30.09.2015
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Naturpädagogisches Projekt ?Auf zu neuen Schafen? vom 30.06. bis 01.08.2016 am Fröttmaninger Berg
+- TOP 1.2.: Feuerwerk bei der Gaststätte ?Heidequelle?, Dietersheimer Straße 17 a, am 14.05.2016
+- TOP 1.1.: Aufstellungsgenehmigung für die Skulptur gegenüber dem Freizeittreff Freimann
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: ?MunMun? (ehem. ?Monaco?), Schank- und Speisewirtschaft, Münchner Freiheit 18
+- TOP 1.1.: Planung der Einsätze der Münchner SommerSpielAktion 2016 ? Schreiben von Spielen in der Stadt e.V.
+- TOP 1.2.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017, Beschlussvorlage für den Sozialausschuss vom 10.03.2016, Sitzungsvorlage Nr. 14-20/V 05096
+- TOP 1.3.: Generalinstandsetzung 3-zügige Grundschule mit 4-gruppigem Tagesheim, Sportnutzung und Interimsbauten Fröttmaninger Straße 21 ? Ausführungsgenehmigung, Beschlussvorlage für den Bildungsausschuss vom 02.03.2016, Sitzungsvorlage Nr. 14-20/V 05540
+- TOP 1.1.: Wilhelmstraße 41, Aufstellen von zusätzlichen Verkaufseinrichtungen
+- TOP 1.2.: Leopoldstraße 133, ?Bike Box?, Fahrradabstellfläche vor einem Betrieb für Vermietung, Verkauf oder zum Abstellen vor bzw. nach der Reparatur
+- TOP 1.3.: Germaniastraße 9, Aufstellung eines Zeitungsentnahmegerätes
+- TOP 1.4.: Feilitzschstr. 15, Erweiterung einer bestehenden Freischankfläche der Occam Deli GmbH.
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Föhringer Ring 6, Fl.Nr.: 106/4, Neubau von zwei Überdachungen für Gartengeräte und Fahrräder, Fällung von zwei Bäumen gemäß Plan
+- TOP 1.2.: Osterwaldstraße 71, ein Ahorn, zwei Fichten und vier Lärchen
+- TOP 1.3.: Osterwaldstraße 65-69 a, ein Walnussbaum
+- TOP 1.4.: Occamstraße 14, Fl.Nr.: 273/0, Neubau eines Wohngebäudes (12 WE) mit Tiefgarage, Fällung eines Bergahorn gemäß Plan
+- TOP 1.1.: Bauleitplanung der Gemeinde Ismaning ? Bebauungsplan Nr. 122 für das Wohngebiet nördlich der Ortsmitte Fischerhäuser zwischen Erdinger und Freisinger Straße
+- TOP 1.2.: Werner-Heisenberg-Allee 25, Fl.Nr.: 312/7, ?Allianz-Arena?, Neubau Rechenzentrum und Kühlräume Nord / Ebene 0
+- TOP 1.3.: Occamstr. 14, FlNr: 273/0, Neubau eines Wohngebäudes mit Tiefgarage.
+- TOP 1.5.2.: Genehmigte Baumfällungen
+- TOP 1.1.: Grundschule Burmesterstraße 23, ein Spitzahorn als Gefahrenbaum
+- TOP 1.2.: Sondermeierstraße 108, Fällung einer Blaufichte wird abgelehnt
+- TOP 1.1.: Baumaßnahmen der Stadtwerke a) Stromprojekt Netztrafostation Freystraße b) Stromprojekt Netztrafostation Clemensstraße ? 1. Bauabschnitt
+- TOP 1.2.: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Haupabteilung II Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 02.03.2016, Sitzungsvorlage Nr. 14-20/V 04459
+- TOP 1.3.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren ? LBK zukunftsfähig ausstatten - , Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 02.03.2016, Sitzungsvorlage Nr. 14-20/V 03291
+- TOP 1.4.: Erfolgreiche Biotoppflege auf nichtstädtischen Grundstücken, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 02.03.2016, Sitzungsvorlage Nr. 14-20/V 03733
+- TOP 1.5.: Standorte für hinterleuchtete Werbesäulen ? Protokoll der Bereisung am 23.02.2016: Untersuchte Standorte im Stadtbezirk 12: Frankfurter Ring gegenüber Hausnummer 255, Ungererstraße vor Frankfurter Ring
+- TOP 1.6.: Lilienthalallee 45, Umbau der ehemaligen Dampflokrichthalle in ein Baumarkt-Fachzentrum, Antwort des Referates für Stadtplanung und Bauordnung auf die BA-Stellungnahme vom 28.01.2016
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1: (E) Unzumutbare Belästigungen der Anwohner durch Veranstaltungen im Zenith und Kesselhaus Empfehlung Nr. 14-20 / E 00536 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 07.07.2015
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Kinderschutz e.V. Heide Treff Nachbarschaftstreff Lotsenprojekt Freimann ab 01.04.2016 - Dezember 2016
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Kulturverein Wendes Lesungen und Gesänge am 02.04.2016
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Initiative "In Search of Ground" Ausstellung "In Search of Ground" vom 01.07. - 07.07.2016
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.: Auslagerung der Städtischen Kindertagesstätte Haimhauser Straße 17, Einrichtung eines Shuttle-Services und Einrichtung eines Ersatzstandortes im Bereich der Haimhauser Straße
+- TOP 1.3.: Eröffnungfeier Wedekindplatz / Feilitzschstraße am 07.05.2016
+- TOP 1.5.: Feilitzschstr. 14, Erweiterung einer bestehenden Freischankfläche der Trumpf oder Kritisch GmbH.
+- TOP 1.4.: Bauleitplanung der Gemeinde Ismaning - Bplan Nr. 27b 2. Änderung des Bebauungsplans Nr. 27, Gewerbegebiet 1 (Teilbereich)
+- TOP 1.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.5.3.: Sonstige Unterrichtungen
