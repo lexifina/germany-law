@@ -1,0 +1,90 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779133
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779133
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Gabelsbergerstraße 38, Leerstand und Verfall, Schreiben einer Bürgerin vom 18.02.2016
+- TOP .2.: Baumfällungen in der Brienner Straße und in der Nymphenburger Straße, Schreiben einer Bürgerin vom 25.02.2016
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Durchfahrtsverbot für Fernbusse in Teilen des Marsfeldes
+- TOP .2.: Referat für Bildung und Sport, Antwortschreiben zur Anfrage des BA 3 vom 16.10.2015 ?Wie wird der Turnunterricht bis zur Fertigstellung des Neubaus gewährleistet??
+- TOP .3.: Sicherung und optische Aufwertung der Brache Schleißheimer Straße 16
+- TOP .1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 01.02.2016 Ergebnisse der Stadtklima-Studie des Deutschen Wetterdienstes in der Maxvorstadt beachten und umsetzen vertagt aus der Sitzung vom 16.02.2016 Unterlagen liegen bereits vor
+- TOP .2.: Antrag von Bündnis 90/Die Grünen vom 01.03.2016 Vorkaufsrecht in Erhaltungssatzungsgebieten immer wahrnehmen um die Bevölkerungs- struktur zu erhalten
+- TOP .3.: Antrag von Bündnis 90/Die Grünen vom 01.03.2016 Baumpflanzung in der Adalbertstraße zwischen Türken- und Amalienstraße
+- TOP .4.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 01.03.2016 Baurechtsschaffung nur noch durch Aufstockung von Bestandsgebäuden erlauben
+- TOP .5.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 01.03.2016 Erhaltungssatzungsgebiet südlich der Görresstraße, insbesondere in der Augustenstraße, zügig erlassen und die Umsetzung einhalten
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Katharina-von-Bora-Straße 8 a Teilabbruch und -erneuerung einer Hofdecke sowie Abbruch von ehemaligen Kohletrichtern
+- TOP .2.: Deroystraße 5 Abgrabung zur Grundstücksaufbereitung/freiwillige Altlastensanierung
+- TOP .3.: Denisstraße 3 a Neubau eines Gebäudekomplexes für Verwaltung und Büro ? Vorbescheid vertagt aus den Sitzungen vom 12.01.2016 und 16.02.2016 Unterlagen liegen bereits vor
+- TOP .4.: Liste der Bauvorhaben der LBK: 5., 6., 7. KW
+- TOP .5.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 5., 6., 7., 8. KW
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .1.: Augustenstraße 87 ? 89 Tektur zu Az. 1.2-2015-19795-22 DG-Neubau mit Teilabbruch und baulichen Änderungen inkl. Neuer Balkone und Aufzugsanlagen (VGB) sowie Neubau eines Wohngebudes und zweier Stadthäuser mit Tiefgarage im Innenhof
+- TOP .3.2: Baumfällungen
+- TOP .1.: Arnulfstraße 2, drei Platanen
+- TOP .2.: Brienner Straße Fl.Nr. 5441/0 öffentlicher Grund, eine Robinie
+- TOP .3.: Zentnerstraße 2, einer von drei Stämmen eines Baumes und Baumzuschnitt
+- TOP .4.: Görresstraße 42, eine Robinie
+- TOP .5.: Arcisstraße 21, zwei Spitzahorn, eine Esche Eilentscheidung des Vorsitzenden: Zustim- mung mit der Maßgabe von Ersatzpflanzungen
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Gartenstädte in München ? Erhalt des Charakters und bauliche Entwicklung Beschluss des Ausschusses für Stadtplanung und und Bauordnung vom 17.02.2016
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wildtiere in München II ? Erfassung der Wildtiere in München Beschluss des Ausschusses für Stadtplanung und und Bauordnung vom 17.02.2016 Sitzungsvorlage Nr. 14-20 / V 05025
+- TOP .3.: Baureferat, Ingenieurbau Fuß- und Radwegbrücke Arnulfpark, Informationen zu Baumfällungen
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen und Infrastrukturprogramm München II:Handlungsprogramm Infrastruktur Antrag div. Stadtratsmitglieder vom 22.05.2015 Sitzungsvorlage Nr. 14-20 / A 01073 Beschluss der Vollversammlung des Stadtrates vom 25.02.2016
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren ? LBK zukunftsfähig ausstatten - Sitzungsvorlage Nr. 14-20 / V 03291 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016
+- TOP .6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeits- arbeit, div. Stadtratsanträge Sitzungsvorlage Nr. 14-20 / V 04459 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016
+- TOP .7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen Sitzungsvorlage Nr. 14-20 / V 03733 Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016
+- TOP .8.: Baureferat Finkenstraße ? Siemens Hauptquartier Umbau und Wiederherstellung nach Hochbau
+- TOP .1.: Antrag der SPD im BA 3 vom 27.12.2015 Tempo 30 für die Karlstraße zwischen Pappenheim- und Seidlstraße vertagt aus den Sitzungen vom 12.01.2016 und 16.02.2016 Unterlagen liegen bereits vor
+- TOP .2.: Antrage von Bündnis 90/Die Grünen im BA 3 vom 10.01.2016 Tempo 30 in der Karlstraße zwischen Seidl- und Luisenstraße vertagt aus den Sitzungen vom 12.01.2016 und 16.02.2016 Unterlagen liegen bereits vor
+- TOP .3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 10.01.2016 Begrünung im Bereich der Abbiegespuren Karl-/Ecke Pappenheimstraße vertagt aus den Sitzungen vom 12.01.2016 und 16.02.2016 Unterlagen liegen bereits vor
+- TOP .4.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 01.03.2016 Platzoffensive Siegestor
+- TOP .5.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.02.2016 Umsetzung der Einbahnstraßenöffnung in der Ottostraße
+- TOP .2.1: Verkehr
+- TOP .1.: Baureferat, Tiefbau, Anhörung Wegfall des Radweges in der Königinstraße
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Referat für Arbeit und Wirtschaft, Anhörung Werbenutzungsvertrag, Standorte für Säulenumwandlungen (Litfaßsäulen)
+- TOP .2.: Kreisverwaltungsreferat, Genehmigung einer Fahrradabstellfläche Schleißheimer Straße 106
+- TOP .2.3: Gaststätten
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung a)Münchner Blade-Night 2016 ab 02.05.2016 b) Straßenfest Steinickeweg 4 ? 7 am 04.06.2016
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Recht und Verwaltung Anordnung der sofortigen (Teil-)Vollziehung des Planfeststellungsbeschlusses für den Neubau einer 2. S-Bahn-Stammstrecke München hier: Verlegung einer Fernwärmeleitung am Bahnhofsplatz und in der Arnulfstraße im Bereich des Hauptbahnhofes München
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage E-Mobilität: Handlungsfeld 6 ? Innerstädtischer Wirtschaftsverkehr Beschluss des Ausschusses für Stadtplanung und und Bauordnung vom 17.02.2016 Sitzungsvorlage Nr. 14-20 / V 04745
+- TOP .3.: Baureferat, Beschlussvorlage Fahrradstellplatzkonzept (3. Realisierungsabschnitt) Sitzungsvorlage Nr. 14-20 / V 03326 Beschluss des Bauausschusses vom 12.01.2016
+- TOP .4.: Fahrradabstellkonzept (3. Realisierungsabschnitt) Ergebnisse der Detailuntersuchungen, Kostendarstellung, Anträge Sitzungsvorlage Nr. 14-20 / V 03326 Beschluss des Bauausschusses vom 12.01.2016
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Unterflur-Containerstandorte in Neubaugebieten mit planen! Antrag Nr. 14-20 / A 01394 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 24.09.2015 Sitzungsvorlage Nr. 14-20 / V 04859 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016
+- TOP .6.: Altstadtring Nordwest; Umgestaltung des Oskar-von-Miller-Rings und der Gabelsberger- straße Schreiben des Vorsitzenden an den Herrn Oberbürgermeister Reiter vom 28.02.2016
+- TOP .2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Spielaktionen der Spiellandschaft Stadt e.V. im Stadtgebiet Maxvorstadt: Arnulfpark und Maßmannpark
+- TOP .1.: Referat für Bildung und Sport, Beschlussvorlagen Bekanntgaben im Bildungsausschuss vom 18.02.2016 a) Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2015/2016 Sitzungsvorlage Nr. 14-20 / V 04946 b) Schüler- und Klassenzahlen an den städt. Realschulen, den staatl. Realschulen, den städt. Schulen besonderer Art und der Städt. Franz-Auweck-Abendschule für das Schuljahr 2015/2016 Sitzungsvorlage Nr. 14-20 / V 04883 c) Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2015/2016 Sitzungsvorlage Nr. 14-20 / V 04975 d) Schüler- und Klassenzahlen an den städt. und staatl. Gymnasien sowie an den Schu- len des Zweiten Bildungsweges im Schuljahr 2015/2016 Sitzungsvorlage Nr. 08-14 / V 04987
+- TOP .2.: Spielen in der Stadt e.V. MünchnerSommerSpielAktion 2016; Einsätze im Arnulfpark und Maßmannpark
+- TOP .3.: Sozialreferat, Beschluss Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 18. Stadtbezirkes; Sitzungsvorlage Nr. 14-20 / V 04751 Beschluss der Vollversammlung des Stadtrates vom 27.01.2016
+- TOP .4.: Referat für Bildung und Sport, Baureferat, Referat für Stadtplanung und Bauordnung, Stadtkämmerei, Kreisverwaltungsreferat, gemeinsame Beschlussvorlage Schulbauoffensive 2013 ? 2030 incl. 3. Ergänzung Sitzungsvorlage Nr. 14-20 / V 05131 Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Aus- schuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwal- tungsausschuss des Stadtrates vom 18.02.2016
+- TOP .5.: Sozialreferat, Beschlussvorlage Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung/Wahl der Senioren- vertretung 2017 Sitzungsvorlage Nr. 14-20 / V 05096 Beschluss des Sozialausschusses vom 10.03.2016
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: (E) Budget der Bezirksausschüsse Elterninitiative Springball e.V. Anschaffung eines Regals, eines Regalschranks und eines Rollkastens
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Unterführung Ludwigsstraße" Gestaltung der Unterführung Ludwigsstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
