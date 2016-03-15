@@ -1,0 +1,8 @@
+# TOP 4: Nutzungen auf dem Stubengassenplatz
+
+- Sitzung: Sitzung (2016-03-15)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/157828
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/59417
