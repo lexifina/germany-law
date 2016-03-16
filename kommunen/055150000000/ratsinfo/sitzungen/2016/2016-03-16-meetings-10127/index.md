@@ -1,0 +1,52 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-03-16T17:08:00+01:00
+- Ende: 2016-03-16T21:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10127
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10127
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00385002.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Ratsgruppe Piraten/ÖDP an den Rat Nr. A/69/2015 vom 24.11.2015, Einführung einer Kastrations-, Kennzeichnungs- und Registrierungspflicht für Freigänger-Katzen (Anlage) - einstimmig beschlossen
+- TOP 2.2: Straßenbenennung nach der Partnerstadt Monastir - zur Kenntnis genommen
+- TOP 3: Nutzungen auf dem Stubengassenplatz - einstimmig geändert beschlossen
+- TOP 4: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2016 - mehrheitlich beschlossen
+- TOP 4.1: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2016
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Europäische Charta zur Umsetzung der Gleichberechtigung von Männern und Frauen auf lokaler Ebene, Aktionsplan 2013 – 2015, Auftrag Nr. 9 Männer und Jungen in der Gleichstellung - ohne Beschlussfassung geschoben
+- TOP 6: Feststellung des Jahresabschlusses 2014 der Stadt Münster - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Fairtrade-Stadt Münster - einstimmig geändert beschlossen
+- TOP 9: Anregung des Integrationsrates "Kommunales Wahlrecht für alle Migrantinnen und Migranten in NRW" - ohne Beschlussfassung geschoben
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2016 - mehrheitlich geändert beschlossen
+- TOP 11: Einführung der Satzung zur Erhebung der Beherbergungsteuer - ohne Beschlussfassung geschoben
+- TOP 12: Direktvergabe eines öffentlichen Dienstleistungsauftrags durch die Stadt Münster an die Stadtwerke Münster GmbH gemäß Art. 5 Abs. 2 VO 1370/2007 - ohne Beschlussfassung geschoben
+- TOP 13: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus" - Projektaufruf 2016 - - ohne Beschlussfassung geschoben
+- TOP 14: Prüfergebnis zur Einführung des Instrumentes einer sozialen Erhaltungssatzung (Milieuschutzsatzung) - ohne Beschlussfassung geschoben
+- TOP 15: Antrag zur Änderung des Regionalplans Münsterland zur Darstellung von weiteren Wohnsiedlungsbereichen im Stadtgebiet Münster - ohne Beschlussfassung geschoben
+- TOP 16: Geschwister-Scholl-Gymnasium, Verlängerung der Teilnahme an dem Schulversuch "Abitur nach 12 oder 13 Jahren" - einstimmig beschlossen
+- TOP 17: Modellbausteine für schulische Inklusion - Schule an der Beckstraße - einstimmig beschlossen
+- TOP 18: Unterstützung von Elterninitiativen in finanziellen Notlagen - Auswirkungen aktueller Tariferhöhungen - einstimmig beschlossen
+- TOP 19: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue temporäre Einrichtungen in Modulbauweise an verschiedenen Standorten - mehrheitlich beschlossen
+- TOP 20: Herrichtung des ehemaligen Vereinsheims SC Westfalia Kinderhaus als Flüchtlingseinrichtung und Nachfinanzierung von Baumaßnahmen am Standort Grevener Straße 217 - mehrheitlich geändert beschlossen
+- TOP 21: Jahresbericht 2015 der Arbeit der Ombudsstelle für das Jobcenter Münster - zur Kenntnis genommen
+- TOP 22: Fortsetzung der Ausbauoffensive durch Schaffung neuer Plätze zur Kindertagesbetreuung - Bedarfsentwicklung, weitere Ausbaustrategien sowie immobilienwirtschaftliche und bauliche Handlungssätze - ohne Beschlussfassung geschoben
+- TOP 23: Errichtung einer Gesamtschule am Standort der Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig beschlossen
+- TOP 24: Sanierung Bürgerhaus Kinderhaus nach Unwetterschaden - einstimmig beschlossen
+- TOP 25: Teilnahme am Modellprojekt "Global nachhaltige Kommune in NRW" - ohne Beschlussfassung geschoben
+- TOP 26: Änderung von Gebühren und Entgelten - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 434, 1. Änderung - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk West
+- TOP 27.2.1: 69. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 579 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28: Verschiedenes
