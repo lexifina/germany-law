@@ -1,0 +1,8 @@
+# TOP 8: Zuschüsse Sportförderrichtlinien 2015
+
+- Sitzung: Sportausschuss (2016-03-16)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/125120
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/19624
