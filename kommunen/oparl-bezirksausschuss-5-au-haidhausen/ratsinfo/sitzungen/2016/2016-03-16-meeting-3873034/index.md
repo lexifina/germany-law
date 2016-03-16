@@ -1,0 +1,105 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-03-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3873034
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3873034
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .1.: Erweiterung des RIS München für Bezirksausschüsse - <div>nach Antrag</div>
+- TOP .2.: Verbesserungen an der neuen Bus Endhaltestelle in der Orleansstraße - <div>nach Antrag</div>
+- TOP .3.: Aktueller Stand zu unserer Anfrage Nr. 2014-11-028: Bauzustand der U-Bahnhöfe in Au-Haidhausen - <div>Weiterleitung an das Baureferat</div>
+- TOP .4.: Telefonzelle in der Balanstraße ertüchtigen - <div>erledigt</div>
+- TOP .5.: Gegenläufiger Radweg in der Zeppelinstraße - <div>nach Antrag</div>
+- TOP .6.: LZA am Friedensengel für Fußgänger optimieren - <div>nach Antrag</div>
+- TOP .7.: Regerbrücke als künftiges Einfallstor zur Einkaufsstraße Tegernseer Landstraße- Unterstützung für einen Antrag des BA 17 zur Brücke über den Südring - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Auer/Haidhauser Journal" Herausgabe und Verteilung der Broschüre "Auer/Haidhauser Journal" - <div>nach Antrag</div>
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Neuantrag mit Bestuhlungsplan Schank- und Speisewirtschaft m. regelm. Musikdarbietungen "Manam Food/Time Square Cocktailbar & Club", Rosenheimer Straße 46 (UG)
+- TOP .2.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010: Abhalten eines Flohmarktes am 23.04.2016 auf dem Platz vor dem Alten- und Service- Zentrum Haidhausen in der Wolfgangstraße 18 - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Bürgerversammlungen im Stadtviertel abhalten - <div>zur Kenntnis genommen</div>
+- TOP .2.: Laufwasserkraftwerk der SWM - Maxwerk in den Maximiliansanlagen - <div>vertagt in die nächste Sitzung</div>
+- TOP .3.: Freifläche auf dem ehemaligen Stadtwerksgelände für die schulvorbereitende Einrichtung - <div>zur Kenntnis genommen</div>
+- TOP .4.: Grundschule an der Bazeillesstraße: Vorübergehende Nutzung der bisherigen Kindergartenräume als Hort - <div>zur Kenntnis genommen</div>
+- TOP .5.: Projekt "Auf Herz und Rampen prüfen": Behindertengerechte Grundschule an der Bazeillesstraße - <div>zur Kenntnis genommen</div>
+- TOP .6.: Kreuzungsfreier Radverkehrs links der Isar
+- TOP .7.: Verkehrszeichen Tempo 30 in der Lilienstraße wiederholen - <div>zur Kenntnis genommen</div>
+- TOP .8.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2015-2019 (Investitionsliste 3, Einzelplan 0, Investition 0640.405, Kinder- und Jugendtreff Au) - <div>zur Kenntnis genommen</div>
+- TOP .9.: Quellenbunker (Antrag 2) - <div>zur Kenntnis genommen</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Sachstandsbericht zum Leerstand in der Quellenstraße 44, BA- Intiative Nr. 14-20/ Nr. 14-20/ I 00834 des Bezirksausschusses des Stadtbezirkes 05- Au- Haidhausen vom 16.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Sachstandsbericht zum Grundstück Metzgerstraße 5a, BA-initiative Nr. 14-20/ I00835 des Bezirksausschusses des Stadtbezirkes 05- Au-Haidhausen vom 16.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Aufstellung von Abfallbehältern an der Ecke Orleansplatz/ Weißenburger Straße Antwort des Baureferates auf ein Bürgerschreiben - <div>zur Kenntnis genommen</div>
+- TOP .2.: Bücherschrank in der Au Antwortschreiben der Freunde der Vorstadt Au e.V. vom 04.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP .3.: X30 Linie- Lärmbelästigung durch Busse der MVG - <div>zur Kenntnis genommen</div>
+- TOP .4.: Schulwegsituation im Umgriff der Grundschule in der Bazeillesstraße, Zwischenmitteilung des Kreisverwaltungsreferates vom 12.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Erinnerungstafel für die jüdische Brauereifamilie "Schülein" (Gründer der Unionsbrauerei)
+- TOP 8.2.: Literaturbüro und Galerie "Milchstraße 4" (RSTR.4), Vorstellung des Zuschussantrages
+- TOP 8.3.: UAMO: Stadtteilbezug des Antrags für "Workshop"
+- TOP 8.1.: Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 18. Stadtbezirkes Sitzungsvorlage Nr. 14-20/ V 04751 Beschluss der Vollversammlung des Stadtrates vom 27.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Belegrechtskauf für die Einrichtung der Wohnungslosenhilfe "Haus an der Steinstraße 65"- Träger: Katholischer Männerfürsorgeverein München e.V. Produkt 60 4.1.5 Übergangs- und längerfristige Wohnformen Sitzungsvorlage Nr. 14-20/ V 03943 Beschluss des Sozialausschusses vom 16.02.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung/ Wahl der Seniorenvertretung 2017 Sitzungsvorlage Nr. 14-20/ V 05096 Beschluss des Sozialausschusses vom 10.03.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Schulbauoffensive 2013-2030 Ergänzung vom 11.02.2016, 16.02.2016 und vom 18.02.2016 Sitzungsvorlage Nr. 14-20/ V 05131 Beschluss des Bildungsausschusses gemeinsam mit dem Bauausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Kreisverwaltungsausschuss des Stadtrates vom18.02.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Schüler_innen und Klassenzahlen an den Beruflichen Schulen in der Trägerschaft der LH München im Schuljahr 2015/2016 Stand: 20.10.2015 Sitzungsvorlagen Nr. 14-20/ V 04975 3 Anlagen Bekanntgabe im Bildungsausschuss des Stadtrates vom 18.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Postwiese, Anhörungsverfahren für Spielplatzaktionen Caritas am 02.06.2016 - <div>nach Antrag</div>
+- TOP 8.2.: Wolfgangstraße 8 vor ASZ Haidhausen, Anhörungsverfahren für ASZ-Flohmarkt am 23.04.2016 - <div>nach Antrag</div>
+- TOP 8.3.: Spielaktionen in öffentlichen Grünanlagen im Zeitraum April bis Oktober 2016 - <div>nach Antrag</div>
+- TOP 8.4.: Meillerweg rechtes Isarufer, Anhörungsverfahrenfür Musikperformance des Kulturreferates im Rahmen der Münchner Biennale vom 31.05.-08.06.2016, Anhörungsverfahren - <div>nach Antrag</div>
+- TOP 8.5.: Postwiese, Anhörungsverfahren für Flohmarkt des AKA e.V. am 04.06.2016 (ET 11.06.2016) und 17.09.2016 (ET 24.09.2016) - <div>nach Antrag</div>
+- TOP 8.1.: Anzeige einer Versammlung unter freiem Himmel (Art. 13 BayVersG): Pariser Platz am 21.03.2016 11.45 bis 12.30 Uhr Gemeinsam gegen Rassismus Gemeinschaftsveranstaltung von DGB und AWO - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Unveränderte Fortführung von Gaststättenbetrieben: Kleingaststätte Orleansstraße 69, Panteboy Cafe UG Schank- und Speisewirtschaft Kirchenstraße 5, Le Faubourg - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32- Filmaufnahmen auf öffentlichem Verkehrsgrund vom 01.03.2016- 08.04.2016 für die Produktion: "Straßencops- Jugend im Visier" - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Kirchenstraße 88, Abbruch und Neubau eines Wohnhauses mit zweigeschossiger Tiefgarage- VORBESCHEID - <div>zugestimmt</div>
+- TOP 8.2.: Untere Feldstraße 9, Neubau eines Einfamilienhauses mit Garage- TEKTUR zu 1.2-2014-10632-21 - <div>nach Antrag</div>
+- TOP 8.3.: St.- Wolfgangs- Platz 10-11, Neubau von Kindertageseinrichtungen mit Schul- und Wohnräumen und Tiefgarage (St.- Wolfgangs- Platz 10+11/ Sieboldstraße 11+13) sowie Verkleinerung des Sportplatzes - TEKTUR zu 1.1-2014-15341-21- hier: zusätzliche Galeriebereiche (EG) und Ersatzpflanzungen - <div>nach Antrag</div>
+- TOP 8.4.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 05 Au- Haidhausen und 18- Untergiesing- Harlaching 1) Satzungsbeschluss Erhaltungssatzung ?Untere Au/Untergiesing? 2) Satzungsbeschluss Erhaltungssatzung ?Wettersteinplatz? 3) Empfehlung und Antrag a) Erhaltungssatzung für den Bereich Konradin-, Agilofinger-, Krumpter-, und Arminiusstraße in Untergiesing Empfehlung Nr. 08-14/ E 01164 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing- Harlaching am 10.11.2011 b) Aufnahme div. Wohnanlagen in die Erhaltungssatzung nach §§ 177ff. BauGB BA-Antrags-Nr. 08-14/ B 03952 des Bezirksausschusses des Stadtbezirkes 18- Untergiesing- Harlaching vom 15.05.2012 - <div>nach Antrag</div>
+- TOP 8.1.: Maria- Theresia- Straße 5, Nutzungsänderung: Büroflächen zu Wohnungen Erteilung der Baugenehmigung vom 18.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 05- Au- Haidhausen Satzungsbeschluss Erhaltungssatzung "Haidhausen" Sitzungsvorlagen Nr. 14-20/ V 04616 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Preysingstraße 85 Schulbauoffensive- Neubau einer zweizügigen Grundschule- VORBESCHEID gemäß Art. 71 BayBO vom 11.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.: 1) Optimierung der Bebauungsplanverfahren und er Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II- Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung 2) Anträge Sitzungsvorlagen Nr. 14-20/ V 04459 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.6.: Gartenstädte Erhalt des Charakters und bauliche Entwicklung Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstücks durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifizierten überplanten Innenbereich Sitzungsvorlagen Nr. 14-20/ V 04857 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Nockherstraße 7, Fahrbahnbelagsanierung zwischen Am Nockherberg und Schwalbenstraße - <div>nach Antrag</div>
+- TOP 8.1.: Planfeststellung nach dem Personenbeförderungsgesetz für das Vorhaben Neubau einer Straßenbahnstrecke in München zwischen der Einsteinstraße und der Hultschiner Straße/Zamilastraße ("Tram Steinhausen") Tektur b Schreiben des Planungsreferates an die Regierung von Oberbayern vom 12.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Fahrradabstellplatzkonzept (3. Realisierungsabschnitt) a) Ergebnisse der Detailuntersuchungen b) Kostendarstellung c) Anträge Sitzungsvorlage Nr. 14-20/ V 03326 Beschluss des Bauausschusses vom 12.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Öffnung der in Richtung Norden einbahngeregelten Sieboldstraße zwischen der Barnabasstraße und der Auerfeldstraße für den gegenläufigen Radverkehr verkehrsrechtliche Anordnung nach § 45 StVO vom 16.07.2014, eingegangen in der BA G Ost am 08.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Tonnagebeschränkung Kabelsteg verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO vom 15.12.2015, eingegangen in der BA G Ost am 08.02.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Errichtung und Betrieb von zwei Toilettenanlagen an der Isar Gegenwärtiger Sachstand Sitzungsvorlage Nr. 14-20/ V 04852 Bekanntgabe in der Sitzung des Bauausschusses vom 12.01.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.6.: Wildtiere in München II Erfassung der Wildtiere in München; Antrag Nr. 14-20/ A 00160 von StRin Dr. Evelyne Menges vom 05.08.2014 Sitzungsvorlagen Nr. 14-20/ V 05025 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.7.: Runder Tisch "Erholungsraum Isar" am 09.12.2015 - <div>zur Kenntnis genommen</div>
+- TOP 8.8.: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen Sitzungsvorlagen Nr. 14-20/ V 03733 Beschluss des Ausschusses für Stadtplanung und Bauordnung 02.03.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.9.: Bericht des UA Vorsitzenden zum OT Haidenauplatz - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative ?Graffiti im Münchner Osten? Bild-, Foto- und Materialkosten der Ausstellung ?Graffiti im Münchner Osten? vom 16.06. bis 10.07.2016 - <div>nach Antrag</div>
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
