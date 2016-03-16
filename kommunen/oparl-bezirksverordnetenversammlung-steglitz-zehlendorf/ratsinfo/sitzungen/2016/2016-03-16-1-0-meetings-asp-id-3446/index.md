@@ -1,0 +1,74 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-03-16T17:00:00+01:00
+- Ende: 2016-03-16T20:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3446
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3446
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Gibt es Neuigkeiten zur Instandsetzung der Jugendverkehrsschule Steglitz? - beantwortet
+- TOP 3.2: Heutige Einschränkungen durch historische Tunnelpläne? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Wahlen - erledigt
+- TOP 7.1: Wahlvorschläge - erledigt
+- TOP 7.1.1: Wahl eines Bürgerdeputierten im Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1.2: Wahl einer stellv. Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.1: Neuwahl von ehrenamtlichen Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Haushaltsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Ausschussanträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.1: Sondermittel der BVV für die Ev. Dreifaltigkeitsgemeinde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.2: Sondermittel der BVV für die DLRG LV Berlin Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Bebauungspläne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1.1: Bebauungsplan 6-21 VE (Gelände der ehemaligen Teltowwerft) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.1.2: Bebauungsplan 6-29 B (Goerzallee 155, Lichterfelder Weg) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.1.3: Bebauungsplan 6-41 ("Kolonie Eugen-Kleine-Brücke") - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.1: Personalsituation im Sozialamt - beantwortet
+- TOP 11: Anträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Domäne Dahlem dauerhaft sichern! - überwiesen
+- TOP 11.2: Auflösung der Pauschalen Minderausgaben in Kapitel 4500 Titel 97203 - überwiesen
+- TOP 11.3: Geflüchteten Beteiligung ermöglichen - überwiesen
+- TOP 11.4: Musikschulengruppenunterricht ist wichtig - überwiesen
+- TOP 11.5: Sicheres Überqueren der Busseallee für Kinder - überwiesen
+- TOP 11.6: Demokratiebildung im Bezirk unterstützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Sicherheitsstreifen für die Fahrrad fahrenden Menschen auf dem Wolfensteindamm - überwiesen
+- TOP 11.8: Geflüchtete Frauen gezielt fördern - überwiesen
+- TOP 11.9: Tempo 30 in der Onkel-Tom-Straße - überwiesen
+- TOP 11.10: Anbringung von Fledermauskästen an bezirkseigenen Gebäuden fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Streetworker-Team ermöglichen - überwiesen
+- TOP 11.12: Kunst im Straßenraum - überwiesen
+- TOP 11.13: Anwohnern Ruhe gönnen - überwiesen
+- TOP 11.14: Verkehrskonzept Wannsee - überwiesen
+- TOP 12: Ausschussanträge - (offen)
+- TOP 12.1: Querschnittsfinanzierung des KiJuB - überwiesen
+- TOP 13: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Zehlendorf im Dritten Reich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Familienfreundlicher Bezirk III: Spielleitplanung für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Erinnerungsort Stalag III D in Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: Eigentümer für Naturschutz und Pflege des Privatgrundstückes in Lichterfelde-Süd ("Parks Range") heranziehen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.5: Gestaltung des Ortskerns Zehlendorf in der nächsten Investitionsplanung berücksichtigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.6: Kampagne "Handel(n) verbindet" unterstützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.7: Kein Antrag auf GRW-Mittel für den Landschaftspark Klein-Glienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.8: Erneute Lärmschutzprüfung am Hubschrauberlandeplatz des Klinikums Benjamin Franklin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.9: Personalausweisautomaten zur Entlastung der Bürgerämter auch in Steglitz-Zehlendorf einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.10: Autofahrer beim Einhalten der StVO unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.11: Sachlich falsche Abwägungen VLB - Rundfahrt zu vier kritischen Fällen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.12: Nutzungskonflikt Schlachtensee / Krumme Lanke einer rechtmäßigen Lösung zuführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.13: Parksituation am Jagdschloss Grunewald regeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.14: Bundesfreiwilligendienst mit Flüchtlingsbezug - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.15: Wohnbebauung statt gefährlichem Öllager am Teltowkanal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1: Fusion der Rohrgarten-Grundschule mit der Nikolaus-August-Otto-Schule zu einer Gemeinschaftsschule mit dem Namen Anna-Essinger-Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
