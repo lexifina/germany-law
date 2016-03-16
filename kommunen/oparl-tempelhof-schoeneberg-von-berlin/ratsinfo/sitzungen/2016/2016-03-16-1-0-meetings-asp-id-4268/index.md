@@ -1,0 +1,86 @@
+# 56. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-03-16T17:00:00+01:00
+- Ende: 2016-03-16T20:50:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4268
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4268
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=76280
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 3.1: Nachbesetzung einer/s Bürgerdeputierten als stimmberechtigtes Mitglied im Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin der XVIII. Wahlperiode - XVIII. Wahlperiode - überwiesen
+- TOP 3.3: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin -XIX. Wahlperiode - überwiesen
+- TOP 3.4: Antrag auf Einwohnerversammlung gem. § 4 BezVG - B-Plan 7-66 VE - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Inklusion - Umsetzung durch die BVV! - in der BVV abgelehnt
+- TOP 6.2: Umbenennung der Monumentenbrücke in "David-Bowie-Brücke" - in der BVV abgelehnt
+- TOP 6.3: LaGeSO-Mindeststandards in der Notunterkunft THF-Hangars fast erreicht? - beantwortet
+- TOP 6.4: Wie nutzt der Bezirk seine Partnerschaftsbeziehungen, um die Flüchtlingsproblematik anzugehen? - beantwortet
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Wie geht es weiter in den Bürgerämtern? - beantwortet
+- TOP 8.2: Bürgerämter umgehend optimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Schule ohne Konzept - planloses Bildungszentrum - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Fahrradboxen für Tempelhof-Schöneberg - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Benennung eines öffentlichen Weges in Mariendorf sowie des dazugehörigen Steges über den Teltowkanal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Bewegung ist wichtig - Sportplatz für die Hofpausen endlich freigeben - überwiesen
+- TOP 9.4: Aktive Informationspolitik zur Kiezentwicklung Belziger Straße - überwiesen
+- TOP 9.5: Auf dem Rad zum EUREF-Campus Durchgängiger Radweg in der Torgauer Straße - in der BVV abgelehnt
+- TOP 9.6: Städtepartnerschaftsbeziehungen nutzen, um 35000 syrische Flüchtlinge auszulösen - in der BVV abgelehnt
+- TOP 9.7: Umgestaltung des Nollendorfplatzes voran bringen - überwiesen
+- TOP 9.8: Gemeinnütziges Projekt ''Inselgarten'' unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Wannseebahngraben: Danksagung an den BUND-Berlin für die Verhinderung eines eklatanten Verwaltungsfehlers - in der BVV abgelehnt
+- TOP 9.10: Bessere Durchfahrmöglichkeit des Busses der Linie 175 in der Wünsdorfer Straße schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Internetauftritt über Orte des Erinnerns im Bayerischen Viertel aktualisieren Denkmal für die Ausgrenzung und Entrechtung, Vertreibung, Deportation und Ermordung von Berliner Juden in den Jahren 1933 bis 1945 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Helene Schley würdigen – Kleingärtner nach Kräften unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Auslobung und Verleihung der Ehrenamtsmedaillen und des Förderpreises ab dem Jahr 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Leitlinien für einen fahrradfreundlichen Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Fahrradfahren auf der geschützten Grünanlage Viktoria-Luise-Platz verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Umbenennung des "Pallas Parks" in Lilli-Flora-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Schankterrassen im öffentlichen Land - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Perspektiven für den Ganztagsbetrieb am Rückert-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Kein Wechsel von der Willkommensklasse in die Regelklasse ohne ausreichende Deutschkenntnisse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Erinnerung an Dr. Kurt Gudell prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Erhöhung des ehrenamtlichen Engagements in bezirklichen Bibliotheken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Schul- und Sportstätten: In planbarer Frist sanieren und weiterentwickeln! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Anbringung von Fledermauskästen an bezirkseigenen Gebäuden fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Möglichkeiten zur Erweiterung des Winterfeldtmarktes - in der BVV abgelehnt
+- TOP 11.15: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - DLRG LV Berlin - Bezirk Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Friedenauer Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Quartier Bayerischer Platz e.V. - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Schulsportverein Lichtenrade e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - BSC Kickers 1900 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Mariendorfer SV 06 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Kinder von geflüchteten Menschen im Alter von 0-6 Jahren schnell in einer Kindertageseinrichtung integrieren und schon jetzt planen und Bedarfe benennen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.22: Integration junger geflüchteter Menschen schon jetzt planen und Bedarfe benennen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.23: Wohnbaupotential Boelckestraße 1-7 (ungerade) aktivieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.24: Unterbringung unbegleiteter geflüchteter Mädchen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Benennung der Stellvertretung für ein beratendes Mitglied im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Quo vadis Bahnhofstraße? Geweckte Erwartungen nicht enttäuschen, Planungsprozesse transparent gestalten! - überwiesen
+- TOP 13.2: Radwegevorschub an Kreuzungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Fahrradbügel auf dem Innsbrucker Platz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Spendenbox für Baumspenden aufstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Mülleimer auf dem Breslauer Platz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Gefahrenbeseitigung an der Verkehrsinsel auf der Motzener Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Bürgerämter schellstens aufgabengerecht mit Personal ausstatten - überwiesen
+- TOP 13.8: Förderung des Landes Berlin für die Friedenauer Gerhart-Hauptmann-Bibliothek zügig in Anspruch nehmen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Viktoria-Luise-Platz - Schmuckplatz ohne Schmuck? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Aufstellung des Bebau-ungsplans 7-80 für die Grundstücke Lankwitzer Straße 45-57 (teilweise), Lankwitzer Stra-ße 59 und Ringstraße 43 (teilweise) im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 13.11: Garantie zur Entfernung von Graffiti-Schäden in 48 Stunden - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
