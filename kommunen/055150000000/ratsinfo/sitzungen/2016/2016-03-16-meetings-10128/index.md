@@ -1,0 +1,68 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-03-16T17:50:00+01:00
+- Ende: 2016-03-16T21:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10128
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10128
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00384999.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Sparkassenfilialen "Fernmeldeturm" und "Standort Gelmer" - verwiesen
+- TOP 6.2: Hundekotbeutelspender am Fußweg von Straße "Am Hornbach" bis Straße "Kerkschlag" - verwiesen
+- TOP 6.3: Berücksichtigung landschaftlicher Belange bei der weiteren Planung der mit der Vorlage V/0786/2015 beschlossenen Gebiete und Flächen sowie künftiger Wohnsiedlungsflächen - verwiesen
+- TOP 6.4: Bedenken gegen die in der Vorlage V/0039/2016 vorgesehenen Standorte Amelunxstraße und Nieberdingstraße - verwiesen
+- TOP 6.5: Zusätzliche Parkplätze am Friedhof in Münster-Wolbeck - verwiesen
+- TOP 6.6: Lindberghweg und Lütkenbecker Weg als Fahrradstraße ausweisen - verwiesen
+- TOP 6.7: Keine Ausdünnung der Sparkassen-Filialen "Wolbeck-West" und "Angelmodde-Waldsiedlung" - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Europäische Charta zur Umsetzung der Gleichberechtigung von Männern und Frauen auf lokaler Ebene, Aktionsplan 2013 – 2015, Auftrag Nr. 9 Männer und Jungen in der Gleichstellung - mehrheitlich beschlossen
+- TOP 11: Feststellung des Jahresabschlusses 2014 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Fairtrade-Stadt Münster - einstimmig geändert beschlossen
+- TOP 14: Anregung des Integrationsrates "Kommunales Wahlrecht für alle Migrantinnen und Migranten in NRW" - mehrheitlich geändert beschlossen
+- TOP 15: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2016 - mehrheitlich geändert beschlossen
+- TOP 16: Einführung der Satzung zur Erhebung der Beherbergungsteuer - mehrheitlich beschlossen
+- TOP 17: Direktvergabe eines öffentlichen Dienstleistungsauftrags durch die Stadt Münster an die Stadtwerke Münster GmbH gemäß Art. 5 Abs. 2 VO 1370/2007 - einstimmig beschlossen
+- TOP 18: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus" - Projektaufruf 2016 - - einstimmig beschlossen
+- TOP 19: Prüfergebnis zur Einführung des Instrumentes einer sozialen Erhaltungssatzung (Milieuschutzsatzung) - mehrheitlich geändert beschlossen
+- TOP 20: Antrag zur Änderung des Regionalplans Münsterland zur Darstellung von weiteren Wohnsiedlungsbereichen im Stadtgebiet Münster - mehrheitlich geändert beschlossen
+- TOP 21: Geschwister-Scholl-Gymnasium, Verlängerung der Teilnahme an dem Schulversuch "Abitur nach 12 oder 13 Jahren" - einstimmig beschlossen
+- TOP 22: Modellbausteine für schulische Inklusion - Schule an der Beckstraße - einstimmig beschlossen
+- TOP 23: Unterstützung von Elterninitiativen in finanziellen Notlagen - Auswirkungen aktueller Tariferhöhungen - einstimmig beschlossen
+- TOP 24: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue temporäre Einrichtungen in Modulbauweise an verschiedenen Standorten - mehrheitlich beschlossen
+- TOP 25: Herrichtung des ehemaligen Vereinsheims SC Westfalia Kinderhaus als Flüchtlingseinrichtung und Nachfinanzierung von Baumaßnahmen am Standort Grevener Straße 217 - einstimmig geändert beschlossen
+- TOP 26: Jahresbericht 2015 der Arbeit der Ombudsstelle für das Jobcenter Münster - zur Kenntnis genommen
+- TOP 27: Fortsetzung der Ausbauoffensive durch Schaffung neuer Plätze zur Kindertagesbetreuung - Bedarfsentwicklung, weitere Ausbaustrategien sowie immobilienwirtschaftliche und bauliche Handlungssätze - mehrheitlich geändert beschlossen
+- TOP 28: Errichtung einer Gesamtschule am Standort der Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig beschlossen
+- TOP 29: Sanierung Bürgerhaus Kinderhaus nach Unwetterschaden - einstimmig beschlossen
+- TOP 30: Teilnahme am Modellprojekt "Global nachhaltige Kommune in NRW" - einstimmig beschlossen
+- TOP 31: Änderung von Gebühren und Entgelten - einstimmig beschlossen
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Münster-Mitte
+- TOP 32.1.1: Bebauungsplan Nr. 434, 1. Änderung - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 32.2: Stadtbezirk Münster-West
+- TOP 32.2.1: 69. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 579 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 33: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 34.1: Mehr Transparenz für politische Gestaltung schaffen - mehrheitlich geändert beschlossen
+- TOP 35: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 35.1: Runder Tisch zur Reduktion von Plastiktüten in Münster - verwiesen
+- TOP 35.2: Gleicher Lohn für gleiche Arbeit auch im öffentlichen Personennahverkehr in Münster - verwiesen
+- TOP 35.3: Eine dritte städtische Gesamtschule für Münster - verwiesen
+- TOP 35.4: Photovoltaik in Gewerbegebieten fördern – Nachhaltigkeit und Klimaziele sichern - verwiesen
+- TOP 35.5: Verwaltung zur Schaffung von bezahlbarem Wohnraum entlasten - Projektentwickler einbinden - verwiesen
+- TOP 36: Verschiedenes
