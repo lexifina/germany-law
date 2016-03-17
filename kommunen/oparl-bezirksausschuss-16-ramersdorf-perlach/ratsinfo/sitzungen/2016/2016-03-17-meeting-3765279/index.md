@@ -1,0 +1,172 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2016-03-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3765279
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3765279
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.1: Mobilität und Umwelt (1)
+- TOP 2.2: Budget, Kultur und Sport (1)
+- TOP 2.2.1.: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales (1)
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (1)
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen (1)
+- TOP 3: Anträge
+- TOP 3.1: Mobilität und Umwelt (2)
+- TOP 3.1.2.: Verkehrs- und Parksituation in der Heidestraße Bürgeranliegen vom 11.02.2016 - <div>nach Antrag und Weiterleitung</div>
+- TOP 3.1.3.: Verkehrssicherheit an Fußgängerüberwegen in Neuperlach Süd Bürgerschreiben vom 26.02.2016 - <div>nach Antrag und Weiterleitung</div>
+- TOP 3.1.5.: Errichtung einer Beleuchtung am Fuß- und Radweg entlang der BAB 8 (Westseite) zwischen Brücke zur Peralohstraße und Hochäckerstraße Antrag der Fraktion von DaCG/ÖDP im BA 16 vom 7.3.2016 - <div>nach Antrag</div>
+- TOP 3.2: Budget, Kultur und Sport (2)
+- TOP 3.2.1.: Bezirkssportanlage an der Görzer Straße Erhalt der 400m-Bahn Antrag der Fraktion von Bündnis 90/Die Grünen im BA 16 vom 1.3.2016 - <div>nach Antrag inkl. Ergänzung</div>
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales (2)
+- TOP 3.3.1.: Jobbörse für Flüchtlinge im 16. Stadtbezirk Antrag der Fraktion von Bündnis 90/Die Grünen im BA 16 vom 1.3.2016 - <div>nach Antrag</div>
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (2)
+- TOP 3.4.1.: Änderung der Richtlinien für die Einreichung von Bauanträgen ? Verpflichtende Einführung der Einreichung von Planunterlagen zusätzlich in digitaler Form Antrag der CSU-Fraktion im BA 16 vom 5.3.2016 - <div>nach Antrag</div>
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen (2)
+- TOP 3.5.3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.1: Mobilität und Umwelt (3)
+- TOP 4.1.1.: Kurzparkzone vor Kindergarten Otto-Hahn-Ring 25; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Zuleitung des KVR vom 16.02.2016 mit Bitte um Stellungnahme innerhalb sechs Wochen - <div>nach Antrag</div>
+- TOP 4.1.2.: Quiddestraße/Albert-Schweitzer-Straße-Austausch der Lichtzeichenanlage Zuleitung des Baureferates vom 18.02.2016 mit der Bitte um Stellungnahme innerhalb von sechs Wochen - <div>nach Antrag inkl. Ergänzung und Antrag</div>
+- TOP 4.1.3.: Einrichtung von personenbezogenen Behindertenparkplätzen im 16. Stadtbezirk
+- TOP 4.1.3.1: Peralohstraße Zuleitung vom 23.02.2016 mit der Bitte um Stellungnahme bis 7.4.2016 - <div>nach Antrag</div>
+- TOP 4.1.4.: Siedlungs-, Verkehrs- und Freiraumentwicklung im Hachinger Tal ? Interkommunale Aktivierung der Entwicklungspotenziale Sitzungsvorlagen Nr. 14-20/ V 05446 Beschlussentwurf für die Sitzungdes Ausschusses für Stadtplanung und Bauordnung Zuleitung des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis 13.04.2016 (Mitberatung im UA Bauvorhaben, Stadtplanung und Bürgerbeteiligung) - <div>verwiesen in den UA Mobilität und Umwelt</div>
+- TOP 4.2: Budget, Kultur und Sport (3)
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales (3)
+- TOP 4.3.1.: Annette-von-Aretin-Straße, Einrichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen, Beschlussvorlage für die Sitzung des Bildungsausschusses des Stadtrats am 06.04.2016, Zuleitung des Referats vom Bildung und Sport vom 24.02.2016 mit der Bitte um Stellungnahme bis 18.03.2016 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.2.: Mittelschulorganisation in der Landeshauptstadt München Änderung der Mittelschulverbünde - Schulverbund München Neuperlach - Schulverbund München Südost, Giesing, Harlaching, Ramersdorf Zuleitung des Referats für Bildung und Sport mit der Bitte um Stellungnahme bis 14.04.2016 - <div>nach Antrag</div>
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (3)
+- TOP 4.4.1.: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1: Feichtstraße, Neubau eines Mehrfamilienhauses (18 WE) mit Tiefgarage (19 Stpl.), Zuleitung vom 16.02.2016 - <div>nach Antrag</div>
+- TOP 4.4.1.2: Finsingstraße, Neubau eines Mehrfamilienhauses (3 WE), Zuleitung vom 16.02.2016 - <div>nach Antrag</div>
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen (3)
+- TOP 4.5.1.: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.1.1: Ganzjährige Spielaktionen der Spiellandschaft Stadt e. V. an verschiedenen Stellen im 16. Stadtbezirk Zuleitung des Kreisverwaltungsreferats vom 23.02.2016 mit der Bitte um Stellungnahme (innerhalb von 6 Wochen) - <div>nach Antrag</div>
+- TOP 4.5.1.2: Ostpark "Fit im Park",Gymnastikprogramm des Referats für Bildung und Sport, Mai bis September täglich, Zuleitung vom 29.02.2016 (Termin für die Stellungnahme: 24.03.2016) - <div>nach Antrag</div>
+- TOP 4.5.1.3: Ostpark, Spielnachmittage des Referats für Bildung und Sport, von Mai 2016 bis April 2017, Sonntags Zuleitung vom 29.02.2016 (Termin für die Stellungnahme: 24.03.2016) - <div>nach Antrag</div>
+- TOP 4.5.2.: Claudius-Keller-Straße, 1 City-Light-Säule (beleuchtet) für die wechselnde Produktwerbung Zuleitung des Referats für Stadtplanung und Bauordnung vom 16.02.2016 mit der Bitte um Stellungnahme (innerhalb 1 Monats) - <div>nach Antrag</div>
+- TOP 4.5.3.: Stadteilhomepage- Brainstorming Aufbau einer Stadtteilhomepage aus Mitteln der Sozialen Stadt zur Verstetigung der Vernetzung im Quartier Bitte um Rückäußerung bis März 2016 (TOP 4.5.4 vom 18.02.2016)
+- TOP 7.5.7.6: Sonstige
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 5.2.1: Mobilität und Umwelt (4)
+- TOP 5.2.1.1.: UA 16 - Mobilität und Umwelt - 29.02.2016
+- TOP 5.2.2: Budget, Kultur und Sport (4)
+- TOP 5.2.2.1.: UA 16 - Budget, Kultur und Sport - 23.02.2016
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales (4)
+- TOP 5.2.3.1.: UA 16 - Bildung, Gesundheit, Integration und Soziales - 01.03.2016
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (4)
+- TOP 5.2.4.1.: UA 16 - Bauvorhaben, Stadtplanung und Bürgerbeteiligung - 08.03.2016
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen (4)
+- TOP 5.2.5.1.: UA 16 - Allgemeines, öffentliche Ordnung und Grundsatzfragen - 02.03.2016
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 0: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse (1)
+- TOP 6.1: Mobilität und Umwelt (5)
+- TOP 6.1.1.: Einrichtung einer Höhenkontrolle am Bahnbrückenbauwerk Rosenheimer Straße Antrag Nr. 14-20 / B 1669 des BA 16 vom 16.09.2015 Antwortschreiben des Kreisverwaltungsreferates vom 05.02.2016
+- TOP 6.1.2.: Linksabbiegemöglichkeit von der Bad-Schachener-Straße in die Echardinger Straße Stellungnahme des BA 16 beschlossen in der Sitzung am 18.02.2016 Antwortschreiben des Kreisverwaltungsreferats vom 23.02.2016
+- TOP 6.1.3.: Jetzt zusätzliche P+R-Kapazitäten in Neuperlach Süd schaffen Antrag Nr. 14-20 / B 1241 des BA 16 vom 20.05.2015 Zwischennachricht des Referats für Stadtplanung und Bauordnung vom 18.02.2016
+- TOP 6.1.4.: Adelholzener Straße Neuordnung der aktuellen Parkplatzsituation Antrag Nr. 14-20 / B 1698 des BA 16 vom 15.10.2015 Antwortschreiben des Kreisverwaltungsreferates vom 10.02.2016
+- TOP 6.1.5.: Schulwegsicherheit an der Hochäckerstraße, Bereich Einmündung Balanstraße bis Kreuzung Görzerstraße/Autobahnbrücke Bürgeranliegen in der Sitzung des BA 16 am 10.12.2015 Antwortschreiben des Kreisverwaltungsreferats vom 12.2.2016
+- TOP 6.1.6.: Aktiver Lärmschutz an der Ständlerstraße Antrag Nr. 14-20 / B 1886 des BA 16 vom 10.12.2015 Antwortschreiben des Referats für Gesundheit und Umwelt vom 19.02.2016 und Bürgerschreiben vom 3.3.2016
+- TOP 6.1.8.: Parksituation in der Tribulaunstraße Einrichten eines Parkverbotes für LKW und Busse Empfehlung Nr. 14-20 / E 00551 der Bürgerversammlung des 16. Stadtbezirkes Bezirksteil Perlach am 09.07.2015 verkehrsrechtliche Anordnung vom 4.1.2016
+- TOP 6.1.7.: Bessere Sichtbarkeit der Lichtzeichenanlage für Radfahrer in der Rosenheimer Straße Antrag Nr. 14-20 / B 1784 des BA 16 vom 12.11.2015 Antwortschreiben des Kreisverwaltungsreferats vom 19.02.2016
+- TOP 6.1.9.: Fahrstreifenbegrenzung in der Therese-Giehse-Allee entfernen und Tempo 30 beschildern Antrag Nr. 14-20 / B 1781 des BA 16 vom 12.11.2015 Antwortschreiben des Kreisverwaltungsreferats vom 2.3.2016
+- TOP 6.1.10.: Bessere Beleuchtung des Grünstreifens zwischen der Putzbrunner Straße und dem Rotkäppchenweg Antrag Nr. 14-20 / B 1950 des BA 16 vom 14.01.2016 Antwortschreiben des Baureferats vom 4.3.2016
+- TOP 6.2: Budget, Kultur und Sport (5)
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales (5)
+- TOP 6.3.2.: Beleuchtung der Jugend-Unterstände im Wilrampark und am Adenauerring Antrag Nr. 14-20 / B 1889 des BA 16 vom 10.12.2015 Antwortschreiben des Baureferats vom 18.02.2016
+- TOP 6.3.4.: Bedarfsgerechte Erweiterung der Mittags- und Nachmittagsbetreuung an den Grundschulen an der Feldbergstraße, Markgrafenstraße und Gänselieselstraße sicherstellen Antrag Nr. 08-14 / A 04474 der Stadtrats-Mitglieder Josef Schmid, Mechthilde Wittmann, Beatrix Burkhardt, Hans Podiuk, Dr. Georg Kronawitter vom 23.07.2013 Antwort des Referats für Bildung und Sport vom 29.02.2016
+- TOP 6.3.5.: Schulbauoffensive 2013 bis 2030 Stellungnahme des BA 16 beschlossen in der Sitzung am 14.01.2016 Sitzungsvorlage Nr. 14-20 / V 5131 Beschluss des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Kreisverwaltungsausschusses in der gemeinsamen Sitzung am 18.02.2016 (VB)
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (5)
+- TOP 6.4.1.: Verpflichtende Einführung von veröffentlichten Protokollen zu öffentlichen Erörterungsveranstaltungen im Sinne der § 3 Abs. 1und 2 BauGB Antrag des BA 16 vom 10.12.2015 Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 10.02.2016
+- TOP 6.4.2.: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.2.1: Balanstraße, Unterbringung von Flüchtlingen mit Tiefgarage und Wohnungslosen - Neubau eines Wohnheims mit Tiefgarage Stellungnahme des BA 16 beschlossen in der Sitzung am 18.02.2016 Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 24.02.2016
+- TOP 6.4.3.: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen Antrag Nr. 14-20 / B 1309 des BA 16 vom 18.06.2015 Zwischennachricht des Referats für Stadtplanung und Bauordnung vom 3.2.2016
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen (5)
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 0: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse (2)
+- TOP 7.1: Mobilität und Umwelt (6)
+- TOP 7.1.1.: Holzwiesenstraße, Wintersicherung der Fahrbahn Bürgerschreiben an das Baureferat vom 20.02.2016
+- TOP 7.1.2.: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen Sitzungsvorlage Nr. 14-20 / V 03733 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 (VB) sowie Hinweise und Ergänzungen hierzu
+- TOP 7.1.3.: Unterhachinger Straße S 7 Ost, Abhilfe-Aufforderung, vermeidbare Lärmintensität Bürgerschreiben an die DB Netz Agentur vom 2.3.2016
+- TOP 7.1.4.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, nachträgliche Unterrichtung über entfernte Gefahrenbäume Zuleitung des Baureferats vom 8.2.2016
+- TOP 7.2: Budget, Kultur und Sport (6)
+- TOP 7.2.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.1.1: AntragstellerIn: Isarlust e. V. für die Maßnahme: öffentliche Klaviere an verschiedenen Standorten in der Stadt Antragssumme: 4.002,5 Antrag vom 29.02.2016
+- TOP 7.2.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales (6)
+- TOP 7.3.1.: Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am 29.10.2015 Protokoll der Veranstaltung Zuleitung der Gleichstellungsstelle für Frauen vom 19.02.2016
+- TOP 7.3.2.: 11. öffentliche Sitzung des Mieterbeirats der Landeshauptstadt München am 18.01.2016 Protokoll der Veranstaltung Zuleitung des Mieterbeirats vom 2.2.2016
+- TOP 7.3.3.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung Wahl der Seniorenvertretung 2017 Sitzungsvorlage Nr. 14-20 / V 5096 Beschluss des Sozialausschusses vom 10.03.2016 (VB)
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (6)
+- TOP 7.4.1.: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.2.1: Stephensonplatz, Zuleitung vom 09.02.2016
+- TOP 7.4.3.: Neuordnung des Wohn-Gewerbegebiets in Perlach, südlich des S-Bahnhofes, Umgriff: südlich der Gleistrasse, westlich der Nailla-/Hofer Straße, nördlich der Stadtgrenze, östlich der Unterhachinger Straße Antrag Nr. 14-20 / A 01825 der Stadtratsfraktion von Bündnis 90/DIE GRÜNEN/RL vom 23.02.2016
+- TOP 7.4.4.: Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes a) Sachstand nach den Entscheidungen des Landesdenkmalrates vom 27.05. und 01.07.2011 bzw. 30.03.2012 b) Maßnahmen zum Erhalt des Ensemblestatus und der weiteren Entwicklung der ehem. Dorfkerne Aubing und Ramersdorf Sitzungsvorlagen Nr. 08-14 / V 03602 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 (VB)
+- TOP 7.4.5.: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II ? Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung Sitzungsvorlage Nr. 14-20 / V 04459 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 (VB)
+- TOP 7.4.6.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.4.6.1: Balanstraße, Zuleitung vom 15.02.2016
+- TOP 7.4.7.: Durchführung einer Informationsveranstaltung für Trudering über den Entwurf zur Bebauung des Piederstorfer Geländes; Empfehlung Nr. 14-20/ E 00631 der Bürgerversammlung des Stadtbezirkes 15- Trudering- Riem am 08.10.2015 Sitzungsvorlage Nr. 14-20/ V 04712 Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 (TOP 7.4.6 vom 18.2.2016)
+- TOP 7.4.8.: Gartenstädte Erhalt des Charakters und bauliche Entwicklung Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungs- plan zur Sicherung und Bewahrung der Garten- stadtgebiete im nicht qualifiziert überplanten Innenbereich Sitzungsvorlagen Nr. 14-20 / V 04857 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016
+- TOP 7.4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen (6)
+- TOP 7.5.1.: Ergänzung der Vollmacht des Oberbürgermeisters für die Bezirksausschüsse nach Art. 60 Abs. 2 Satz 2 GO vom 25.01.2016 Zuleitung des Oberbürgermeisters vom 25.01.2016
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.1: Mobilität und Umwelt (7)
+- TOP 8.1.1.1.: 31.03.2016, 19.00 Uhr, Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1
+- TOP 8.1.2: Budget, Kultur und Sport (7)
+- TOP 8.1.2.1.: 05.04.2016, 19.30 Uhr Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales (7)
+- TOP 8.1.3.1.: 29.03.2016, Ort und Zeit wird noch bekannt gegeben
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung (7)
+- TOP 8.1.4.1.: 05.04.2016, 19:00 Uhr, Baureferat, Raum 0409
+- TOP 8.1.4.8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.1.4.1.: 6.4.2016, 19.00 Uhr, Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 4.1.3.2: Behindertenparkplatz an der Therese-Giehse-Allee schaffenund Fußgängerüberweg schützen Antrag Nr. 14-20 / B 1780 des BA 16 vom 18.2.2016 Ortstermin am 3. März 2016 mit dem Kreisverwaltungsreferat und dem BA 16 - <div>auf den Bericht des UA Mobilität und Umwelt wird verwiesen</div>
+- TOP 1: Errichtung von Fahrradabstellanlagen im Bereich der U-Bahnhöfe Innsbrucker Ring und Michaelibad Empfehlung Nr. 14-20 / E 00477 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf-Perlach, Bezirksteil Ramersdorf am 11.06.2015 Sitzungsvorlage Nr. 14-20 / V 05071 Beschlussvorlage des Baureferats - <div>nach Antrag</div>
+- TOP 2.2.1.1: AntragstellerIn: PA/Spielen in der Stadt e.V. für die Maßnahme: ?Baumobil? vom 03. bis 05.06.2016 Antragssumme: 2.610.- ? Sitzungsvorlage Nr. 14-20 / V 5554 - <div>nach Antrag</div>
+- TOP 2.2.1.2: AntragstellerIn: Wohnforum GmbH, Nachbarschaftstreff Langbürgener Straße für die Maßnahme: Frühlingsfest am 30.04.2016 Antragssumme: 613,45 ? Sitzungsvorlage Nr. 14-20 / V 5579 - <div>nach Antrag</div>
+- TOP 2.2.1.3: AntragstellerIn: Nachbarschaftshilfe WSB gGmbH für die Maßnahme: Kunsttreff von März bis September 2016 Antragssumme: 6.000.- ? Sitzungsvorlage Nr. 14-20 / V 5590 - <div>in den UA Budget, Kultur und Sport verwiesen</div>
+- TOP 2.2.1.4: AntragstellerIn: Verein für Sozialarbeit, Projekt Mohrhoftreff für die Maßnahme: Beschaffung von Kinderbüchern, Spiel- und Bastelsachen Antragssumme: 1.000.- ? Sitzungsvorlage Nr. 14-20 / V 5622 - <div>in den UA Budget, Kultur und Sport verwiesen</div>
+- TOP 1: Prüfung der vorhandenen Freiflächen in der Arnold-Sommerfeld-Straße neuer Standort für den Wertstoffhof BV-Empfehlung Nr. 14-20 / E 00542 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf-Perlach, Bezirksteil Perlach am 09.07.2015 Einstellung der Planung für den Bau eines Großmengenwertstoffhofes an der Arnold-Sommerfeld-Straße BV-Empfehlung Nr. 14-20 / E 00543 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf-Perlach, Bezirksteil Perlach am 09.07.2015 Sitzungsvorlage Nr. 14-20 / V 04906 Beschlussvorlage des Kommunalreferats - <div>nach Antrag</div>
+- TOP 3.1.8.: Stellungnahme zum Entwurf des Lärmaktionsplans der Regierung von Oberbayern Antrag der Fraktion von DaCG/ÖDP im BA 16 vom 14.03.2016 - <div>nach Antrag und Weiterleitung an die Regierung von Oberbayern</div>
+- TOP 4.1.5.: Festsetzung des Überschwemmungsgebietes am Hachinger Bach innerhalb der Stadtgrenzen der Landeshauptstadt München durch Erlass einer Rechtsverordnung Zuleitung des Referats für Gesundheit und Umwelt vom 10.3.2016 mit der Bitte um Stellungnahme bis 18.03.2016 - <div>nach Antrag</div>
+- TOP 4.4.2.: zu 4.4.1 Stellungnahmen vorab durch den Vorsitzenden des BA 16 gem. § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 4.5.1.4: Hohenaschauer Str. 3, Gottesdienst in der Grünanlage hinter der Kirche am 08.05.2016, Zuleitung vom 10.3.2016 (Termin für die Stellungnahme: 4.4.2016) - <div>nach Antrag</div>
+- TOP 4.5.1.5: Grünanlage am Theodor-Heuss-Platz, ?WIZEFUE-Kinderspielaktionen? (WIr haben ZEit FUer Euch =Spielen mit Kindern) der Christuskirche Perlach von April-November 2016 Zuleitung vom 14.3.2016 (Termin für die Stellungnahme: 31.3.2016) - <div>nach Antrag</div>
+- TOP 7.5.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 3.1.4.: Verhinderung des wachsenden Schleichverkehrs in der Führichstraße und Aribonenstraße Antrag der CSU-Fraktion im BA 16 vom 5.3.2016 - <div>verwiesen in den UA Mobilität und Umwelt</div>
+- TOP 3.1.7.: Münchner Lösung weitergedacht ? Einbahnregelung prüfen! Antrag der Fraktion von DaCG/ÖDP im BA 16 vom 7.3.2016 - <div>verwiesen in den UA Mobilität und Umwelt</div>
+- TOP 3.1.1.: Verlängerung der Buslinie 155 bis zum Neuen Südfriedhof Antrag der SPD Fraktion im BA 16 vom 26.01.2016 (TOP 3.1.1 vom 18.02.2016) - <div>verwiesen in den UA Mobilität und Umwelt</div>
+- TOP 3.1.6.: Parksuchverkehr im Bereich U-/S-Bahnhof Giesing (Ostseite der Bahntrasse) und im Bereich UBahnhof Karl-Preis-Platz durch geeignete Maßnahmen eindämmen! Antrag der Fraktion von DaCG/ÖDP im BA 16 vom 7.3.2016 - <div>verwiesen in den UA Mobilität und Umwelt</div>
+- TOP 6.3.3.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Kinderspielplatz an der Görzer Straße Ecke Hochäckerstraße errichten Antrag Nr. 14-20 / B 1785 des BA 16 vom 12.11.2015 Antwortschreiben des Baureferats vom 18.01.2016
