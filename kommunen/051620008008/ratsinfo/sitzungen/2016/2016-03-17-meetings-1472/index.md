@@ -1,0 +1,122 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-03-17T18:00:00+01:00
+- Ende: 2016-03-17T19:50:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1472
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1472
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - Kenntnisnahme
+- TOP 1.1.1: Konzept zur jugendfachlichen Nutzung der Alten Feuerwache für alle Grevenbroicher Jugendlichen - einstimmig
+- TOP 1.1.2: Mängelbeseitigung des Pflegezustandes am Friedhof Wevelinghoven - einstimmig
+- TOP 1.1.3: Auslastung des Spielmobils zur sozialpädagogischen Arbeit - einstimmig
+- TOP 1.1.4: Geschwindigkeitsbegrenzung und Parkverbot Jakobusplatz - einstimmig
+- TOP 1.1.5: Teilnahme am Bundesprogramm: "Demokratie leben!" - einstimmig
+- TOP 1.1.6: Umgestaltung L69 (Strecke Wevelinghoven - Widdeshoven) - einstimmig
+- TOP 1.1.7: Mobile Anlage zur Geschwindigkeitskontrolle - einstimmig
+- TOP 1.1.8: Ausschussumbesetzung UmweltA - einstimmig
+- TOP 1.2: CDU
+- TOP 1.3: SPD - Kenntnisnahme
+- TOP 1.3.1: Bedarfsampel für den Radverkehr - einstimmig
+- TOP 1.3.2: Fußgängerzone Steinweg - einstimmig
+- TOP 1.3.3: Grundsatzbeschluss zum öffentlich geförderten Wohnungsbau - einstimmig
+- TOP 1.3.4: Kommunale Wohnungsbaugesellschaft - einstimmig
+- TOP 1.3.5: Kommunales Integrationskonzept - einstimmig
+- TOP 1.3.6: Kurzzeitparken auf dem Marktplatz in Wevelinghoven - einstimmig
+- TOP 1.3.7: Sitzrondell am Partnerschaftsknoten - einstimmig
+- TOP 1.3.8: Steuerungsgruppe zur Prävention - einstimmig
+- TOP 1.3.9: Verkehrslenkung in Neukirchen/Hülchrath - einstimmig
+- TOP 1.3.10: Verbesserung der Verkehrslenkung an der Wassermühle in Gustorf - einstimmig
+- TOP 1.3.11: Verkehrsspiegel - einstimmig
+- TOP 1.3.12: Zugang zur Erft - einstimmig
+- TOP 1.3.13: "Wir stellen uns quer!"
+- TOP 1.4: UWG
+- TOP 1.5: FDP
+- TOP 1.5.1: Aufwertung der Straße "Am Wehr" in Wevelinghoven (Antrag Nr. 22/16) - einstimmig
+- TOP 1.5.2: Gefahrenquelle auf dem Gehweg an der Friedensstraße beseitigen (Antrag Nr. 23/16) - einstimmig
+- TOP 1.5.3: Wirtschaftliche und ökologische Optimierung des städtischen Fuhrparks - einstimmig
+- TOP 1.6: B 90/DIE GRÜNEN
+- TOP 1.7: ABG
+- TOP 1.7.1: Verkehrssituation "Elfgener Platz" (Antrag Nr. 44/16) - einstimmig
+- TOP 2: Schriftliche Anträge
+- TOP 2.1.1: Spielplatz Friedrich-Ebert-Str. (Antrag Nr. 45/16) - einstimmig
+- TOP 2.1.2: Immobilien "Auf der Schanze 86 und 88" - einstimmig
+- TOP 2.1.3: Entfernung des überdachten Fahrradunterstands am Bahnhof im Bereich Bienefeld's Gässchen - einstimmig
+- TOP 2.2: Mein Grevenbroich - Kenntnisnahme
+- TOP 2.3: Die Linke/Piraten
+- TOP 2.4: FBG
+- TOP 2.4.1: Hausarzt-Versorgung der Bevölkerung in Frimmersdorf (Antrag Nr. 25/16) - einstimmig
+- TOP 2.4.2: "Wir stellen uns quer!" - Kenntnisnahme
+- TOP 2.5: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen - Kenntnisnahme
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Unterstützung der Klage der Städteregion Aachen - einstimmig
+- TOP 3.2.2: Sozialraumbetrachtung in den Quartieren - einstimmig
+- TOP 3.2.3: Schulneulinge im Rhein-Kreis Neuss - einstimmig
+- TOP 3.2.4: "300 Millionen Euro für Bahnhöfe in NRW" (Anfrage 27/16) - einstimmig
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Anfrage zu anstehenden Änderungen in der Telekommunikation - einstimmig
+- TOP 3.5.2: Anfrage zum Brandschutz in Schulen - einstimmig
+- TOP 3.5.3: Sachstandsmitteilung zum angestrebten Verkauf städtischer Immobilien - einstimmig
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich - Kenntnisnahme
+- TOP 3.7.1: Umsetzung Anti-Müll-Konzept - einstimmig
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Zusammensetzung des Seniorenbeirates - einstimmig
+- TOP 7: Flüchtlingssituation
+- TOP 7.1: Unterbringung von Asylbewerbern - einstimmig
+- TOP 7.2: Die Linke/Piraten, Antrag Nr. 141/15 - einstimmig
+- TOP 7.3: Beantwortung von Anträgen - mehrheitlich bei
+- TOP 7.4: Mein GV, Antrag Nr. 225/15 - einstimmig
+- TOP 7.5: FDP Antrag Nr. 256/15 - einstimmig
+- TOP 7.6: FDP Antrag Nr. 257/15 - einstimmig
+- TOP 7.7: Schaffung von Wohnraum für Asylbewerber - mehrheitlich bei
+- TOP 7.8: FDP Antrag Nr. 9/2016 - einstimmig
+- TOP 7.9: Kommunikationsmanagement der Stadtverwaltung und Flüchtlingsunterbringungen in Grevenbroich - einstimmig
+- TOP 7.10: Belegung der Turnhalle Neurath mit Flüchtlingen - einstimmig
+- TOP 7.11: Beantwortung von Anträgen und Anfragen - Flüchtlinge - einstimmig
+- TOP 8: Zuleitung JA 2014 - einstimmig
+- TOP 9: Beteiligungsbericht 2015 - einstimmig
+- TOP 10: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2015 - einstimmig
+- TOP 11: Bericht zum Sanierungsplan 2015 und Investitionsübersicht 2016 bis 2020 - einstimmig
+- TOP 12: Spenden/Sponsoring 2015 - einstimmig
+- TOP 13: Nachbesetzung nebenamtlicher Geschäftsführer Wirtschaftsbetriebe Grevenbroich GmbH - einstimmig
+- TOP 14: Entscheidung PlanungsA
+- TOP 14.1: W 51 Satz.beschl. - einstimmig
+- TOP 15: Beantwortung Anträge
+- TOP 15.1: Reinigung Toilette Bahnhof GV - Kenntnisnahme
+- TOP 15.2: Mein GV, Antrag Nr. 226/15 - Kenntnisnahme
+- TOP 15.3: SPD, Antrag Nr. 293/2015 - einstimmig
+- TOP 15.4: Bürgerbeteiligung - einstimmig
+- TOP 15.5: Verschmutzung Brache Kaplan-Hahn-Strasse - einstimmig
+- TOP 15.6: Verschmutzung Bienefelds Gässchen - einstimmig
+- TOP 16: Beantwortung Anfragen - Kenntnisnahme
+- TOP 16.1: Anfrage Fahrraddiebstähle - Kenntnisnahme
+- TOP 16.2: Beantwortung mündlicher Anfragen aus den letzten Ratssitzungen - Kenntnisnahme
+- TOP 17: mündliche Anträge/Anfragen
+- TOP 17.1: Baumpflanzung auf der Marktstr. in Wevelinghoven
+- TOP 17.2: Nachfrage zur Anfrage Nr. 323/15
+- TOP 17.3: Unterrichtsausfall in Grevenbroich
+- TOP 17.4: Einbruchrate im Rhein-Kreis Neuss
+- TOP 17.5: Randbefestigung auf der Gustav-Mahler-Str.
+- TOP 17.6: Glascontainer auf der Hundhausenstr.
+- TOP 17.7: Straßenschilder auf der Energiestr.
+- TOP 17.8: Baumfällungen Gilverather Str.
+- TOP 17.9: Abfallbehälter in Frimmersdorf
+- TOP 17.10: Entwurf des Bundesverkehrswegeplanes
+- TOP 17.11: Parksituation auf der Theodor-Körner-Str.
+- TOP 17.12: Lärmmessungen auf der L142 in Langwaden
+- TOP 17.13: Ortseingangsschild in Neuenhausen
+- TOP 18: Mitteilungen BM
