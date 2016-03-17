@@ -1,0 +1,97 @@
+# 54. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2016-03-17T17:00:00+01:00
+- Ende: 2016-03-17T22:05:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3497
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3497
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=125281
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 7.1: Unregelmäßigkeiten und Mängel an der Volkshochschule - beantwortet
+- TOP 7.2: Haarsträubende Vorgänge an der Volkshochschule Lichtenberg (VHS) - beantwortet
+- TOP 7.3: Prüfung der Zulässigkeit von Kursangeboten an der Margarete-Steffin-Volkshochschule - beantwortet
+- TOP 8: Einwohnerfragestunde - beantwortet
+- TOP 9: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 9.1: Gehörlose Menschen bei bezirklichen Veranstaltungen - beantwortet
+- TOP 9.2: Beseitigung von Winterschäden im öffentlichen Raum - beantwortet
+- TOP 9.3: Umsetzung der Drucksachen 0344/VII und 0345/VII - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - beantwortet
+- TOP 10.1: Vorhabenbezogener Bebauungsplan 11-24 VE - öffentliche Auslegung Arbeitstitel: östlich Arendsweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Mobile Toilette im Rheinsteinpark - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Mehr öffentliche Toiletten durch Schankterrassen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Erfolgreicher Start ins Berufsleben - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Abbiegen Landsberger Allee/Judith-Auer-Straße/Franz-Jacob-Straße erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Aufbringung einer Fahrbahnmarkierung Hohenschönhauser Straße, Höhe Otto-Marquardt-Straße, in Richtung Weißenseer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bewegungsunterricht für Kinder und Jugendliche mit orthopädischen Erkrankungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Berliner Bäderkonzept - Keine Einschränkung des öffentlichen Badebetriebes - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: BVV-Sondermittel für den Förderkreis Museum Lichtenberg im Stadthaus - überwiesen
+- TOP 10.10: Höhere Verkehrssicherheit an der Kreuzung Storkower Straße/Paul-Junius-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Mehr Sicherheit an der Dorfstraße in Wartenberg - überwiesen
+- TOP 10.12: ÖPNV im Bezirk überprüfen und an Bedarfe anpassen - überwiesen
+- TOP 10.13: Bereichsentwicklungspläne überarbeiten - überwiesen
+- TOP 10.14: BVV-Sondermittel für Kalender Rummelsburger Bucht 2017 - überwiesen
+- TOP 10.15: Kommunalen Partnerprozess "Gesundheit für alle" in Lichtenberg aufgreifen - überwiesen
+- TOP 10.16: Barrierefreie Durchwegung zwischen den Häusern Weißenseer Weg 88 und 89 - überwiesen
+- TOP 10.17: Neugestaltung der öffentlichen Grünanlage Otto-Marquardt-Straße südlich Nr. 10 - überwiesen
+- TOP 10.18: Verbessertes Verfahren für mehr freie Fahrradbügel in Lichtenberg - überwiesen
+- TOP 10.19: Zuwegung beim Bauvorhaben Hauptstraße 51-59 in 10317 Berlin - überwiesen
+- TOP 10.20: Erweiterung der Adam-Ries-Grundschule, 10317 Berlin - überwiesen
+- TOP 10.21: Geschwindigkeitsbegrenzung auf der Ahrensfelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Öffentlicher Workshop Bürgerhaushalt - überwiesen
+- TOP 10.23: Erhöhung der Verkehrssicherheit an der Hauptstraße/Ecke Schlichtallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: Rahmenkonzept zum Ehrenamtsfonds Bezug: DS/1690/VII - Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.25: Wartehäuschen für die Buslinie 296/396 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.26: Standorte der Kreativwirtschaft in Lichtenberg unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.27: Friedpark Hoenerweg - ökologisch und attraktiv - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.28: Standortverlagerung des Gewerbeparks Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.29: Radspurführung Nordseite Frankfurter Allee/Rosenfelder Straße unfallsicher machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Wiederherstellung der Lichtinstallation "Atmosphäre" von Veronika Kellndorfer an der S-Bahnbrücke Marktstraße/Boxhagener Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.31: Prävention für Fußgänger - Wege sicherer machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.32: Brunnen am Mühlengrund komplett erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.33: Zugzielanzeigen für Regional- und S-Bahnen in Unterführung U-Bhf. Lichtenberg anbringen - überwiesen
+- TOP 10.34: Sichere Querung des Übergangs Ribnitzer Straße/Ecke Zingster Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.35: Wohnortnahe Freiwillige Feuerwehren gewährleisten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.36: Spendenmelder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: Herausgabe einer Sonderbriefmarke unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.38: Personelle Voraussetzungen zur Sicherung der Aufgabenerfüllung im Jugendamt schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.39: Rückbesinnung auf eine familienfreundliche Wort-Bildmarke des Bezirkes - "Kinder statt Monde" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.40: Errichtung eines Fußgängerüberweges mit abgesenkter Bordsteinkante - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.41: App "Gesundes Lichtenberg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.42: Bebauungsplan 11-60 - öffentliche Auslegung Arbeitstitel: Gotlindestraße 2/20 Lindenhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.43: Vorhabenbezogener Bebauungsplan 11-72 VE - Festsetzung Arbeitstitel: Alt-Friedrichsfelde 69-71 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.44: Bebauungsplan 11-99 - Behördenbeteiligung Arbeitstitel: - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.45: Bebauungsplan 11-111 - frühzeitige Beteiligungen Arbeitstitel: Neustrelitzer Straße 65 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.46: Verleihung der Ehrenurkunde des Bezirkes Berlin-Lichtenberg 2016 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.47: Wirtschaftsbericht 2015 Bezug: DS/0346/IV - überwiesen
+- TOP 10.48: Teilnahme des Nachbarschaftshauses "ORANGERIE" des Trägers Kiezspinne FAS e. V. am Pretest des Bundesprogrammes "Mehrgenerationenhäuser ab 2017" des Bundesministeriums für Familie, Senioren, Frauen und Jugend - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Ersatzwahl einer/s Bürgerdeputierten für den Jugendhilfeausschuss der VII. Wahlperiode - gewählt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Immer noch Ärger mit dem Bürgerservice - aller Erklärungen von Stadtrat Dr. Prüfer zum Trotz. Was ist los in den Bürgerämtern und wurde die BVV richtig informiert? - beantwortet
+- TOP 12.2: Ist das mobile Bürgeramt für immer verloren? - Situation an den Lichtenberger Bürgerämtern - beantwortet
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Fairtrade-Stadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Für starke Musikschulen und Volkshochschulen in den Bezirken! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Lichterhimmel in Lichtenberg - in der BVV abgelehnt
+- TOP 14.2: Ganztagsgrundschule für alle: Bedarfsprüfung für den Hort abschaffen - überwiesen
+- TOP 14.3: Gemeinbedarfsfläche am Ostkreuz sichern (Bebauungsplan XVII-4) - überwiesen
+- TOP 14.4: Vorbereitung der Stadtteilkonferenzen zu den Stadtteilprofilen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Erweiterung des Schulhofes und Verbesserung der Infrastruktur an der Schule an der Victoriastadt - überwiesen
+- TOP 14.6: Beleuchtung der Gehwege im Bereich der Grünanlagen Hönower Weg, zwischen Betriebsbahnhof Rummelsburg bis zu den Wohnquartieren Dolgenseestraße und Mellenseestraße - mit Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Beschlussfassung - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 17: Schließung der Sitzung - erledigt
