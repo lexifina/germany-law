@@ -1,0 +1,68 @@
+# 22. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-03-17T16:00:00+01:00
+- Ende: 2016-03-17T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4937
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4937
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00244020.pdf
+- Wortprotokoll: Nachtrag_SR_2016_03_17 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00244818.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Volkshochschule Dresden
+- TOP 2.2: Zukunft der Gläsernen Manufaktur Dresden
+- TOP 2.3: Abriss Schulgebäude Windmühlenstraße - Neubau Gymnasium Prohlis
+- TOP 2.4: Fortführung der kommunalen Bildungsberatung
+- TOP 2.5: Brandschutz im Rathaus
+- TOP 2.6: Baufortschritt an der Albertbrücke
+- TOP 2.7: Entflechtung Ullersdorfer Platz
+- TOP 2.8: Waffenbesitz von Personen des Dresdner Bewachungsgewerbes
+- TOP 2.9: Sicherheitslage am Wiener Platz und Umgebung
+- TOP 2.10: Werbung auf den elektronischen Verkehrsleittafeln der Stadt
+- TOP 2.11: Kita-Streik 2015
+- TOP 2.12: Bürgerbeteiligung zum Hochwasserschutz in Laubegast
+- TOP 2.13: Hochwasserschäden 2013 - Niedersedlitzer Kreisverkehr
+- TOP 3: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 3.1: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 3.2: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 3.3: Ausschuss für Kultur und Tourismus - Einigung
+- TOP 4: Umbesetzungen Ortsbeiräte
+- TOP 4.1: Umbesetzung Ortsbeirat Cotta - Einigung
+- TOP 4.2: Umbesetzung im Ortsbeirat Klotzsche - Einigung
+- TOP 4.3: Umbesetzung Ortsbeirat Neustadt - Einigung
+- TOP 5: Umbesetzung im Umlegungsausschuss - Einigung
+- TOP 6: Umbestzung im Regionalen Planungsverband ‚Oberes Elbtal/Osterzgebirge‘ - zurückgezogen
+- TOP 7: Tagesordnungspunkte ohne Debatte - erledigt
+- TOP 8: Verweisung letzte Stadtratssitzung am 25. Februar 2016
+- TOP 8.1: Verkauf eines Grundstückes an der Ringstraße - Vertagung
+- TOP 9: Vertagungen letzte Stadtratssitzung am 25. Februar 2016
+- TOP 9.1: Stadtbahn 2020 - Teilprojekt 2 Bühlau - Weißig - Zustimmung
+- TOP 9.2: Einrichtung eines zeitweiligen Ausschusses für kommunale Asylangelegenheiten - Ablehnung
+- TOP 9.3: Keine Unterbringung von Asylbewerbern in Dresdner Schulen und Turnhallen - Ablehnung
+- TOP 10: Veränderung des Sondervermögens des Eigenbetriebes Sportstätten Dresden im Wirtschaftsjahre 2015 - Grundstücksliste - Zustimmung
+- TOP 11: Umsetzung Notfallplanung Asylunterbringung im Haushaltsvollzug 2016 - Zustimmung mit Änderung
+- TOP 12: Kindeswohl in Asyl - Notunterkünften sichern - Vertagung nach 22 Uhr
+- TOP 13: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2016 - Vertagung durch Einreicher
+- TOP 14: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2016 - Vertagung durch Einreicher
+- TOP 15: Satzung zur Änderung der Elternbeitragssatzung vom 15. Mai 2014 - Vertagung
+- TOP 16: Festsetzung der Elternbeiträge ab dem 1. September 2016 - Vertagung nach 22 Uhr
+- TOP 17: Vorhabenbezogener Bebauungsplan Nr. 6011, Dresden-Neustadt, Heinrich-Residenz (ehemaliges Hotel Stadt Leipzig) - Vertagung nach 22 Uhr
+- TOP 18: Vorplanung der Verkehrsbaumaßnahme (VKBM) Bautzner Straße zwischen Glacisstraße und Hoyerswerdaer Straße - Vertagung
+- TOP 19: Maßnahmen zur Kriminalitätsbekämpfung am Wiener Platz - Vertagung nach 22 Uhr
+- TOP 20: Sicherung der kommunalen Bildungsberatung - punktweise Zustimmung mit Änderung
+- TOP 21: Städtische Kitas müssen finanziert werden: Wirtschaftsplan unverzüglich vorlegen! - punktweise Zustimmung
+- TOP 22: Grundhafter Ausbau der Stauffenbergallee (West) im Abschnitt zwischen Königsbrücker Straße und Radeburger Straße - Vertagung
+- TOP 23: Wiederaufbau Narrenhäusel - Zustimmung
+- TOP 27: Zuschuss der Landeshauptstadt Dresden zur baulichen Fertigstellung der Gedenkstätte Sophienkirche/Busmannkapelle - Zustimmung
+- TOP 28: Umbesetzung im Ortsbeirat Neustadt - Einigung
+- TOP 29: Umbesetzung im Ortsbeirat Loschwitz - Einigung
+- TOP 30: Umbesetzung im Ortsbeirat Prohlis - Einigung
+- TOP 31: Umbesetzung im Ortsbeirat Neustadt - Einigung
+- TOP 32: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2015 und Information über die Gewährung von Zuwendungen aus dem Spendenaufkommen für das Hochwasser 2013 - erledigt
