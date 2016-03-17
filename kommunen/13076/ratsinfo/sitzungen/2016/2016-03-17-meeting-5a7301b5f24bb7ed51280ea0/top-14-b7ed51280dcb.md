@@ -1,0 +1,8 @@
+# TOP 14: Antrag der Fraktion Umwelt, Piraten, Freie Wähler: Nachbesetzung einer frei gewordenen Wahlstelle in der Verbandsversammlung des Zweckverbandes Mecklenburgisches Landestheater Parchim
+
+- Sitzung: Sitzung des Kreistages Ludwigslust-Parchim (2016-03-17)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7301b4f24bb7ed51280dcb
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a7301b4f24bb7ed51280da9
