@@ -1,0 +1,79 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-03-17T17:00:00+01:00
+- Ende: 2016-03-17T19:48:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11579
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11579
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00262268.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00262268.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00262268.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Unfallstatistik und Kriminalitätsentwicklung 2015 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Abbruchantrag Gumbertstraße 107 - Abriss eines kleinen Wohn- / Geschäftshauses - mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Spezialmarkt „Düsseldorfer Herbstfestival“ - einstimmig beschlossen
+- TOP 9: Jahrmärkte in Eller auf dem Gertrudisplatz im Jahre 2016 - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Baumaßnahme Vennhauser Allee 272 - beantwortet
+- TOP 13: Grundstück Glashüttenstraße 59 - beantwortet
+- TOP 14: Gefahrenabwehrplan Güterzugstrecke Rath - Eller - beantwortet
+- TOP 15: Ehemaliges REWE-Gelände Gerresheimer Landstraße - beantwortet
+- TOP 16: Falkenheime Erfurter Weg und Siedlung Freiheit - beantwortet
+- TOP 17: Grundstück Karl-Geusen-Straße 171 - beantwortet
+- TOP 18: Lärmschutzmaßnahmen Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 19: Lebensmittelversorgung in Vennhausen - beantwortet
+- TOP 20: Staus im Stadtbezirk 8 - beantwortet
+- TOP 21: Fahrbahnsanierung Unterbacher Straße - beantwortet
+- TOP 22: Unfallhäufigkeit Ausfahrt A46 Richtung Eller - beantwortet
+- TOP 23: Baumfällungen am Menzelsee - beantwortet
+- TOP 24: Bodensanierung am Menzelsee - beantwortet
+- TOP 25: Weiterführung U75 und 705 - beantwortet
+- TOP 26: Unterführung Vennhauser Allee - beantwortet
+- TOP 27: Gehölzrückschnitt an der Düssel - beantwortet
+- TOP 28: Verkehrsbelastung im Stadtbezirk 8 durch das Glasmacherviertel - beantwortet
+- TOP 29: Wochenmarkt auf dem Freiheitplatz - mehrheitlich beschlossen
+- TOP 30: Haltestellen-Displays im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 31: Unterflurcontainer Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 32: Bebauungsplan Eichenwand - einstimmig beschlossen
+- TOP 33: Grundstück Gumbertstraße 107 - einstimmig beschlossen
+- TOP 34: Ausbau Höherhofstraße - einstimmig beschlossen
+- TOP 35: Verkehrsregelung Gubener Straße - einstimmig beschlossen
+- TOP 36: Ausfahrt A46 Fahrtrichtung Eller - einstimmig beschlossen
+- TOP 37: Park- und Ride-Parkplatz Am Kleinforst - einstimmig beschlossen
+- TOP 38: Lichtzeichenanlage Großer Torfbruch / Rothenbergstraße - einstimmig beschlossen
+- TOP 39: Straßenbeleuchtung Großer Torfbruch / Rothenbergstraße - einstimmig beschlossen
+- TOP 40: Wegeerneuerung Nachbarschaftspark Eller-Lierenfeld und Monckartzhofweg - einstimmig beschlossen
+- TOP 41: "Sport im Park" im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 42: Beschilderung an Haltestellen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 43: MitfahrerInnenbank in Unterbach - einstimmig beschlossen
+- TOP 44: Umwidmung von Kinderspielplätzen in den Stadtbezirken 1, 3, 8, 9 und 10 - zur Kenntnis genommen
+- TOP 45: Beschilderung Eller Forst - zur Kenntnis genommen
+- TOP 46: Bordsteinabsenkung Gumbertstraße / Gertrudisplatz - zur Kenntnis genommen
+- TOP 47: Unterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 48: Verkehrsführung Bernburger Straße / Heidelberger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 49: Flüchtlingsunterbringung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Parkregelung Tulpenweg - zur Kenntnis genommen
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52: Umgestaltung Entenpark Lierenfeld - zur Kenntnis genommen
+- TOP 53: Büchereien im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Unterführung Vennhauser Allee - zur Kenntnis genommen
+- TOP 55: Verkehrsführung zwischen Vennhauser Allee / Krippstraße und Ellerkirchstraße / Gumbertstraße - zur Kenntnis genommen
+- TOP 56: Ampelanlage Königsberger Straße - zur Kenntnis genommen
+- TOP 57: Verkehrsführung Heidelberger Straße / Bernburger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 58: Beleuchtung Unterführung Vennhauser Allee - zur Kenntnis genommen
+- TOP 59: Verkehrsregelung Richardstraße / Am Hackenbruch - zur Kenntnis genommen
+- TOP 60: Grünfläche im Bereich Reichenbacher Weg / Düssel - Brücke - zur Kenntnis genommen
+- TOP 61: Förderung des Radverkehrs im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 62: Graffitibeseitigungen im Stadtbezirk 8 - zur Kenntnis genommen
