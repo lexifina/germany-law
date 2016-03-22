@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2016-03-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3884698
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3884698
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Verlängerung der Grünphasen für Fußgänger zur Überquerung der Kreillerstraße Empfehlung Nr. 14-20 / E 00461 der Bürgerversammlung des 14. Stadtbezirkes Berg-am-Laim am 26.03.2015 (TOP 2.1./02/16)
+- TOP 2.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmachte des Oberbürgermeisters vom 26.11.2007; Mobiler Fahrradständer vor dem Dentallabor Klaus Scheitza, Baumkirchner Str. 19
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.4.: Mutschellestr. 30, Neubau eines Doppelhauses mit Garage
+- TOP 3.6.: Baumkirchner Straße, Neubau einer Interims-Sporthalle als Ersatzbau für die ESV-Sporthalle
+- TOP 3.7.: Konzept für Spielplatzversorgung im Südosten Berg am Laims erstellen
+- TOP 3.1.: Maifeier des Maibaumvereins Berg am Laim e.V. am 01.05.2016 auf dem Grünen Markt
+- TOP 3.2.: Radwege in der Sonnwendjochstraße
+- TOP 3.3.: Einrichtung einer Halteverbotszone an der gegenüberliegenden Seite der Anliefereinfahrt zum REWE Markt, Kreillerstr. 33
+- TOP 3.4.: Umleitung während Baustelle Grundschule Berg-am-Laim-Straße
+- TOP 3.2.: Michaeliburgstr. 12
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Liste der Bauvorhaben im 14. Stadtbezirk vom 08.02.2016 - 28.02.2016
+- TOP 4.2.: Zweckentfremdung im 14. Stadtbezirk
+- TOP 4.3.: Infrastrukturprogramm München I; Qualifizierte Infrastrukturuntersuchungen Infrastrukturprogramm München II; Handlungsprogramm Infrastruktur Sitzungsvorlage Nr. 14-20/V 04903
+- TOP 4.4.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausgestalten - Sitzungsvorlage Nr. 14-20/V 03291
+- TOP 4.5.: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung Sitzungsvorlagen Nr. 14-20/V 04459
+- TOP 4.6.: Unterflur-Containerstandorte in Neubaugebieten mit planen! Sitzungsvorlagen Nr. 14-20/V 04895
+- TOP 4.7.: Gartenstädte Erhalt des Charakters und bauliche Entwicklung Sitzungsvorlagen Nr. 14-20/V 04857
+- TOP 4.8.: Wildtiere in München II Erfassung der Wildtiere in München Sitzungsvorlagen Nr. 14-20/V 05025
+- TOP 4.9.: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen Sitzungsvorlagen Nr. 14-20/V 03733
+- TOP 4.10.: Vorschlag barrierefreier Zugang Innsbrucker Ring - Altöttinger Straße Einrichtung einer Schieberrampe in der 8. KW - Antwortschreiben - Barrierefreiheit am Mittleren Ring BA-Antrag Nr. 14-20/B 01983 des BA 14 vom 26.01.2016 - Antwortschreiben -
+- TOP 3.8.: Spielplatz Wildalpjochstraße - Antwortschreiben -
+- TOP 4.1.: Linksabbiegemöglichkeit von der Bad-Schachner-Straße in die Echardinger Straße - Erfahrungsbericht -
+- TOP 4.2.: Sicherheit und Ordnung an der Kreuzung Berg-am-Laim-Straße/Leuchtenbergring erhöhen; BA-Antrag Nr. 14-20/B 01492 des BA 14 vom 28.07.2016 - Antwortschreiben -
+- TOP 4.3.: Fahrradabstellplatzkonzept (3. Realisierungsabschnitt) Sitzungsvorlagen Nr. 14-20/V 03326
+- TOP 4.4.: Filmaufnahmen auf öffentlichem Verkehrsgrund - Erlaubnis für 2016
+- TOP 4.5.: E-Mobilität: Handlungsfeld 6 Innerstädtischer Wirtschaftsverkehr Sitzungsvorlagen Nr. 14-20/V 04745
+- TOP 4.6.: unveränderte Fortführungen von Gaststättenbetrieben im 14. Stadtbezirk
+- TOP 4.7.: Kurzzeitparken Ursberger Straße BA-Antrag Nr. 14-20/B 01981 des BA 14 vom 26.01.2016 - Antwortschreiben -
+- TOP 4.1.: Schulbauoffensive 2013 - 2030 Sitzungsvorlagen Nr. 14-20/V 05131
+- TOP 4.1.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung/ Wahl der Seniorenvertretung 2017 Sitzungsvorlagen Nr. 14-20/V 05096
+- TOP 4.2.: Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 18. Stadtbezirkes Sitzungsvorlagen Nr. 14-20/V 04751
+- TOP 4.1.: Freundes- und Förderkreis Kirchenmusik ok - Bewilligungsbescheid -
+- TOP 4.2.: AKA e.V. - Bewilligungsbescheid -
+- TOP 4.3.: Maibaumverein Berg am Laim e.V. - Bewilligungsbescheid -
+- TOP 4.4.: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München Sitzungsvorlagen Nr. 14-20/05128
+- TOP 4.1.: Nachträgliche Unterrichtung über beseitigte Gefahrenbäume Ludwig-Thoma-Realschule, Fehwiesenstr. 118
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.3.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.3.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.3.5.2.: Ankündigungen
+- TOP 5.1.3.5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Initiative "Projekt Rote Ziegel" Projekt "Rote Ziegel, Mosaik - wer bringt grüne Farbe mit?" von Mai - Juli 2016
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 3.1.: Kreillerstr. 131, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Fehwiesenstr. 102, Aufstockung von 6 Häusern um ein Geschoss und Erweiterung der Tiefgarage um 10 Stpl.
+- TOP 3.3.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Ellingerweg 72, Anbau an ein Einfamilienhaus
+- TOP 3.5.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> St.-Veit-Str. 18, Verschiebung der Tiefgaragen-Zufahrt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
