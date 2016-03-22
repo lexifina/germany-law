@@ -1,0 +1,168 @@
+---
+ecli: "ECLI:DE:BGH:2016:220316IXZB78.15.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-09"
+aktenzeichen: "IX ZB 78/15"
+decided: "2016-03-22"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2016&Sort=1&Seite=26&nr=74409&anz=3286&pos=791&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-09_NA_2016-03-22_IX_ZB_78_15_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/inso/0004.md", "germany/bund/acts/inso/0182.md", "germany/bund/acts/zpo/0003.md", "germany/bund/acts/zpo/0004.md", "germany/bund/acts/zpo/0511.md", "germany/bund/acts/zpo/0522.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, IX ZB 78/15 vom 2016-03-22
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                        BESCHLUSS
+IX ZB 78/15
+                                vom
+
+                           22. März 2016
+
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2016:220316BIXZB78.15.0
+
+                                        - 2 -
+
+
+
+    Der IX. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter
+    Prof. Dr. Kayser, den Richter Vill, die Richterin Lohmann, die Richter Dr. Pape
+    und Dr. Schoppmeyer
+
+
+    am 22. März 2016
+    beschlossen:
+
+
+          Auf die Rechtsbeschwerde der Kläger wird der Beschluss des
+          13. Zivilsenats des Oberlandesgerichts München vom 8. September 2015 im Kostenpunkt und insoweit aufgehoben, als die Berufung der Kläger als unzulässig verworfen worden ist.
+
+
+          Im Umfang der Aufhebung wird die Sache zur erneuten Entscheidung, auch über die Kosten des Rechtsbeschwerdeverfahrens, an
+          das Berufungsgericht zurückverwiesen.
+
+
+          Beschwerdewert: bis zu 3.000 €
+
+
+
+
+                                       Gründe:
+
+
+                                           I.
+
+
+1         Die Kläger erwarben Kommanditbeteiligungen an zwei Fonds KG. Die
+    S.                             GmbH (fortan: Schuldnerin) ist Gründungsgesellschafterin und Komplementärin der Fonds. Die Kläger machten Schadensersatzansprüche aus dem Erwerb der Kommanditbeteiligungen gegen die
+
+                                         - 3 -
+
+
+
+    Schuldnerin geltend. Während des Rechtsstreits eröffnete das Amtsgericht
+    München mit Beschluss vom 26. April 2013 das Insolvenzverfahren über das
+    Vermögen der Schuldnerin und bestellte den Beklagten zum Insolvenzverwalter.
+
+
+2          Mit Schreiben vom 25. Juni 2013 meldeten die Kläger zwei Forderungen
+    über 63.000 € jeweils zuzüglich einer Auslagenpauschale von 20 € zur Tabelle
+    an. Der Beklagte lehnte die Feststellung zur Tabelle ab. Daraufhin nahmen die
+    Kläger den Rechtsstreit gegen den Beklagten wieder auf.
+
+
+3          Mit ihrer Feststellungsklage beantragen die Kläger in erster Linie, eine
+    Insolvenzforderung über 126.000 € Zug-um-Zug gegen Abtretung aller Rechte
+    aus den Kommanditbeteiligungen der Kläger festzustellen. Der Beklagte machte in erster Instanz unter anderem geltend, dass die liquiden Mittel gerade ausreichend seien, um die Kosten des Insolvenzverfahrens zu tragen. Eine Quote
+    sei nicht zu erwarten. Das Landgericht hat die Klage als unzulässig abgewiesen
+    und den Streitwert auf 12.600 € festgesetzt. Die von den Klägern eingelegte
+    Berufung hat das Berufungsgericht als unzulässig verworfen. Hiergegen wenden sich die Kläger mit ihrer Rechtsbeschwerde.
+
+
+
+
+                                           II.
+
+
+4          Die Rechtsbeschwerde führt zur Aufhebung und Zurückverweisung.
+
+
+5          1. Das Berufungsgericht hat gemeint, der nach § 511 Abs. 2 ZPO erforderliche Beschwerdewert von über 600 € sei nicht erreicht. Gemäß § 182 InsO
+    in Verbindung mit § 3 ZPO komme es auf das wirtschaftliche Interesse des
+
+                                         - 4 -
+
+
+
+    Gläubigers an der Feststellung seiner Forderung an. Maßgeblicher Zeitpunkt für
+    die Streitwertfestsetzung sei gemäß § 182 InsO derjenige der Klageerhebung.
+    Im Streitfall sei auf die Klageänderung abzustellen. Zu diesem Zeitpunkt sei
+    keine Quote zu erwarten gewesen. Änderungen, die im Laufe des Rechtsstreits
+    einträten, seien unerheblich. Dass zum Zeitpunkt der Einlegung des Rechtsmittels möglicherweise eine andere Quote zu erwarten gewesen sei, ändere
+    nichts. § 4 ZPO besage nur, dass ein Steigen oder Sinken des Wertes des
+    Streitwerts im Vergleich zum Tag des Eingangs der Klage oder des Eingangs
+    der Rechtsmittelschrift ohne Einfluss auf die Zuständigkeit oder die Zulässigkeit
+    des Rechtsmittels sei. Unabhängig davon habe zum Zeitpunkt der Berufungseinlegung die Masseunzulänglichkeit fortbestanden.
+
+
+6         2. Die Rechtsbeschwerde ist gemäß § 574 Abs. 1 Satz 1 Nr. 1, § 522
+    Abs. 1 Satz 4 ZPO statthaft und auch im Übrigen zulässig, weil die Sicherung
+    einer einheitlichen Rechtsprechung eine Entscheidung des Rechtsbeschwerdegerichts erfordert (§ 574 Abs. 2 Nr. 2 ZPO). Wie die Rechtsbeschwerde darlegt,
+    weicht das Berufungsgericht mit seiner Rechtsprechung vom allgemeinen Verständnis des § 4 ZPO ab.
+
+
+7         a) Der angefochtene Beschluss ist aufzuheben, weil das Berufungsgericht § 4 ZPO missversteht. Ob eine Berufung die erforderliche Beschwerdesumme erreicht, richtet sich nach den Verhältnissen zum Zeitpunkt der Einlegung der Berufung. Dies gilt - wie der Senat mit Beschluss vom 14. Januar
+    2016 (IX ZB 57/15, ZIP 2016, 342) näher begründet und entschieden hat - auch
+    für die Fälle, in denen sich bei unverändertem Streitgegenstand der Wert des
+    Beschwerdegegenstandes gegenüber dem Zuständigkeitsstreitwert erster Instanz verändert hat.
+
+                                        - 5 -
+
+
+
+8         Daher kommt es für die Frage, ob die Mindestbeschwer erreicht ist, darauf an, welche Quote gemäß § 182 InsO für die Forderung zum Zeitpunkt der
+    Einlegung der Berufung zu erwarten war (BGH, Beschluss vom 14. Januar
+    2016 - IX ZB 57/15, ZIP 2016, 342 Rn. 13 mwN). § 182 InsO bestimmt lediglich,
+    welche Maßstäbe für die Wertberechnung bei einer Klage auf Feststellung einer
+    Forderung anzulegen sind, deren Bestand vom Insolvenzverwalter oder von
+    einem Insolvenzgläubiger bestritten wird. Der Zeitpunkt für die Wertberechnung
+    richtet sich jedoch nach den allgemeinen Regeln (§ 4 InsO in Verbindung mit
+    § 4 Abs. 1 ZPO).
+
+
+9         b) Nach diesen Maßstäben ist die Berufung der Kläger zulässig. Da das
+    Landgericht die Feststellungsklage in vollem Umfang abgewiesen hat, ist für die
+    Beschwer der Kläger maßgeblich, welchen Wert die Feststellungsklage bei Einlegung der Berufung hatte. Dies war hier der 20. Mai 2015. Entscheidend ist
+    dabei, welche Quote bei Abschluss des Insolvenzverfahrens voraussichtlich
+    erreicht werden wird, so dass es entgegen der Auffassung des Berufungsgerichts unerheblich ist, ob zum Zeitpunkt der Berufungseinlegung Masseunzulänglichkeit bestand. Vielmehr war nach den ausführlichen Angaben des Beklagten, die sich die Kläger zu eigen gemacht haben und an deren Richtigkeit
+    zu zweifeln kein Anlass besteht, selbst bei ungünstigen Annahmen am 20. Mai
+    2015 jedenfalls mit einer zukünftigen Quote von 1,74 v.H. zu rechnen. Dies
+    ergibt gemäß § 182 InsO, § 3 ZPO eine Beschwerdesumme von mindestens
+    2.192,40 €, welche die Grenze des § 511 Abs. 2 Nr. 1 ZPO übersteigt.
+
+                                        - 6 -
+
+
+
+10         3. Das Berufungsgericht wird daher in der Sache zu entscheiden haben.
+
+
+     Kayser                              Vill                           Lohmann
+
+
+                       Pape                         Schoppmeyer
+
+
+
+
+     Vorinstanzen:
+     LG München I, Entscheidung vom 10.04.2015 - 29 O 25657/12 -
+     OLG München, Entscheidung vom 08.09.2015 - 13 U 1785/15 -
