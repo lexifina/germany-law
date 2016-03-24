@@ -1,6 +1,7 @@
 # Verordnung der Sächsischen Staatsregierung über die Laufbahnen der Beamten und Richter im Freistaat Sachsen (Sächsische Laufbahnverordnung – SächsLVO)
 erlassen als Artikel 1 der Sächsischen Dienstrechtsneuordnungsverordnung
 Vom 16. September 2014
+Rechtsbereinigt mit Stand vom 24. März 2016
 Inhaltsübersicht
 Abschnitt 1 Allgemeines
 § 1 Geltungsbereich
@@ -17,7 +18,7 @@ Abschnitt 4 Erwerb der Laufbahnbefähigung
 § 9 Notenstufen für Prüfungen im Vorbereitungsdienst
 § 10 Erwerb der Laufbahnbefähigung ohne Vorbereitungsdienst
 § 11 Feststellung der Laufbahnbefähigung anderer Bewerber
-Abschnitt 5 Anerkennung von im Ausland erworbenen Berufsqualifikationen als Laufbahnbefähigung
+Abschnitt 5 Anerkennung von in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem durch Abkommen gleichgestellten Staat erworbenen Berufsqualifikationen als Laufbahnbefähigung
 § 12 Anerkennung der Berufsqualifikation
 § 13 Antrag
 § 14 Ausgleichsmaßnahmen
