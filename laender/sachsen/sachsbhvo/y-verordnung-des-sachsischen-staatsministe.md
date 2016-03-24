@@ -1,7 +1,5 @@
 # Verordnung des Sächsischen Staatsministeriums der Finanzen über die Gewährung von Beihilfe in Krankheits-, Pflege-, Geburts- und sonstigen Fällen (Sächsische Beihilfeverordnung – SächsBhVO)
-erlassen als Artikel 21 der Sächsischen Dienstrechtsneuordnungsverordnung
-Vom 16. September 2014
-Rechtsbereinigt mit Stand vom 1. November 2015
+24.11.2016 SächsGVBl. S. 609)
 Inhaltsübersicht
 Abschnitt 1 Allgemeine Regelungen
 § 1 Anwendungsbereich und Rechtsnatur
@@ -42,6 +40,7 @@ Unterabschnitt 6 Sonstige Leistungen der Heil- und Krankenbehandlung
 § 29 Soziotherapie
 § 30 Häusliche Krankenpflege
 § 31 Palliativversorgung
+§ 31a Klinisches Krebsregister
 Unterabschnitt 7 Ergänzende Leistungen
 § 32 Fahrtkosten
 § 33 Unterkunfts- und Verpflegungskosten
@@ -68,7 +67,7 @@ Abschnitt 6 Aufwendungen bei dauernder Pflegebedürftigkeit
 § 50 Teilstationäre Pflege
 § 51 Häusliche Pflege bei Verhinderung der Pflegeperson
 § 52 Kurzzeitpflege
-§ 53 Zusätzliche Betreuungsleistungen
+§ 53 Zusätzliche Betreuungs- und Entlastungsleistungen
 § 54 Pflegehilfsmittel und Maßnahmen zur Verbesserung des individuellen Wohnumfeldes
 § 55 Vollstationäre Pflege
 § 56 Vollstationäre Einrichtung der Behindertenhilfe
@@ -83,26 +82,24 @@ Abschnitt 8 Verfahrensvorschriften
 § 63 Antragsfrist
 § 64 Verwaltungsvorschriften
 Abschnitt 9 Übergangsvorschriften
-§ 62 Übergangsvorschriften
-Anlagenverzeichnis
-Anlage | Titel der Anlage
-Anlage 1 (zu § 4 Abs. 4 Satz 2)
- | Ausgeschlossene und teilweise ausgeschlossene Untersuchungs- und Behandlungsmethoden
+§ 65 Übergangsvorschriften
+Anlage 1 (zu § 4 Absatz 4 Satz 2)
+Ausgeschlossene und teilweise ausgeschlossene Untersuchungs- und Behandlungsmethoden
 Anlage 2 (zu § 9)
- | Voraussetzungen und Höchstbeträge für Leistungen von Heilpraktikern
-Anlage 3 (zu § 26 Abs. 2 und 5)
- | Voraussetzungen und Höchstbeträge für Heilmittel
-Anlage 4 (zu § 39 Abs. 2 und 5)
- | Kurorteverzeichnis
-Anlage 5 (zu § 41 Abs. 4)
- | Beihilfefähigkeit der Aufwendungen durch die Teilnahme am Früherkennungsprogramm für Risikofeststellung und interdisziplinäre Beratung, Gendiagnostik und Früherkennung
-Anlage 6 (zu § 44 Abs. 2)
- | Voraussetzungen und Höchstbeträge für Leistungen von Hebammen
-Anlage 7 (zu § 45 Abs. 1)
- | Beihilfefähigkeit der Aufwendungen für eine künstliche Befruchtung
-Anlage 8 (zu § 62 Abs. 1)
- | Antrag auf Gewährung von Beihilfe
-Anlage 9 (zu § 62 Abs. 1)
- | Kurzantrag auf Gewährung von Beihilfe
-Anlage 10 (zu § 62 Abs. 1)
- | Aufwendungen für dauernde Pflege (Anlage „Pflege“)
+Voraussetzungen und Höchstbeträge für Leistungen von Heilpraktikern
+Anlage 3 (zu § 26 Absatz 2 und 5)
+Voraussetzungen und Höchstbeträge für Heilmittel
+Anlage 4 (zu § 39 Absatz 2 und 5)
+Kurorteverzeichnis
+Anlage 5 (zu § 41 Absatz 4)
+Beihilfefähigkeit der Aufwendungen durch die Teilnahme am Früherkennungsprogramm für Risikofeststellung und interdisziplinäre Beratung, Gendiagnostik und Früherkennung
+Anlage 6 (zu § 44 Absatz 2)
+Voraussetzungen und Höchstbeträge für Leistungen von Hebammen
+Anlage 7 (zu § 45 Absatz 1)
+Beihilfefähigkeit der Aufwendungen für eine künstliche Befruchtung
+Anlage 8 (zu § 62 Absatz 1)
+Antrag auf Gewährung von Beihilfe
+Anlage 9 (zu § 62 Absatz 1)
+Kurzantrag auf Gewährung von Beihilfe
+Anlage 10 (zu § 62 Absatz 1)
+Aufwendungen für dauernde Pflege (Anlage „Pflege“)
