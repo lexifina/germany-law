@@ -1,1 +1,1 @@
-# Radio-Bremen-Gesetz (RBG) vom 23. Januar 2008
+# Radio-Bremen-Gesetz (RBG) vom 22. März 2016
