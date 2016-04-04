@@ -1,0 +1,66 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2016-04-04T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3810588
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3810588
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Meldelisten Bauvorhaben
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 2.1.: Fußgängersicherheit im Bereich der S-Bahnunterführung Margaretenstraße
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Spielaktion "Kicklusion" am 05.06.2016 in der Grünanlage Neuhofener Berg
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Clearinghaus Plinganserstraße 27 - 31; Sicherung der öffentlichen Durchwegung - <div>Zwischenbericht zur Kenntnis genommen</div>
+- TOP 4.2.: Flüchtlingsunterkunft Meindlstraße 14; Zeitplan
+- TOP 4.3.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung
+- TOP 4.4.: Evaluation der Clearing-Einrichtung Implerstraße 51 - <div>zur Kenntnis genommen</div>
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Schulpavillonanlage an der Grundschule Implerstraße 35
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Maifest am Harras von 05.05. - 08.05.2016
+- TOP 6.2.: Motorradproblem in der Wohnanlage an der Hans-Preißinger-Straße
+- TOP 6.3.: "Übergang" Roter-Turm-Platz / Resi-Huber-Platz
+- TOP 6.4.: Aufnahme des Bereichs von Herzog-Ernst-Platz bis Bavariastraße in die Oktoberfest-Abschleppzone
+- TOP 6.5.: MVG-Mietradstation am Gotzinger Platz
+- TOP 6.6.: Netzbaumaßnahmen in Sendling
+- TOP 7: Gaststättenangelegenheiten
+- TOP 8.4.: BA-Budget - Budgetvoranmeldungen 2016
+- TOP 8.5.: BA-Budget - diverse Verwendungsnachweise
+- TOP 8.6.: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse
+- TOP 8.7.: Zukunftsfähiger Regionalzughalt Poccistraße mit S-Bahn-Halt
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldeliste Bauvorhaben
+- TOP 9.2.: Bauvorhaben Brudermühlstraße 42
+- TOP 9.3.: Bauvorhaben Daiserstr. 28
+- TOP 9.4.: Erhaltungssatzung Sendling
+- TOP 9.5.: Bauvorhaben Oberländerstraße 12 - 14
+- TOP 9.6.: Ensembles ehemaliger Dorfkerne (Sitzungsvorlage Nr. 08-14 / V 03602)
+- TOP 9.7.: Infrastrukturprogramm München (Sitzungsvorlage Nr. 08-14 / V 04903)
+- TOP 9.8.: Unterflur-Containerstandorte in Neubaugebieten mit planen (Sitzungsvorlage Nr. 08-14 / V 04859)
+- TOP 9.9.: Wohnen für Alle (Sitzungsvorlage Nr. 08-14 / V 05437)
+- TOP 9.10.: Wildtiere in München (Sitzungsvorlage Nr. 08-14 / V 05025)
+- TOP 9.11.: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen (Sitzungsvorlage Nr. 08-14 / V 03733)
+- TOP 10: Baureferat
+- TOP 10.1.: Wegsanierung zwischen Schinderbrücke und Hefner-Alteneck-Straße
+- TOP 10.2.: Bauschadenwiederherstellung und Fahrbahnsanierung Heißstr. / Plinganserstr.
+- TOP 10.3.: Ortstermin am Bahndeckel am 07.03.2016
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Fällerlaubnis Ganghoferstr. 76
+- TOP 11.2.: Einladung zum 2. Workshop Baumschutz am 08.04.2016
+- TOP 12: Anträge
+- TOP 14: Verschiedenes
+- TOP 14.1.: Pegida in Sendling
+- TOP 8.1.: Budgetantrag der Himmelfahrtskirche, Oster- und Himmelfahrtsoratorium am 30.04.2016; ? 1800,- - <div>Bezuschussung in Höhe von ? 1000,-</div>
+- TOP 8.3.: Budgetantrag des Isarlust e.V., Projekt Play Me, I'm Yours - Aufstellung von öffentlichen Klavieren vom 01.09. - 28.09.2016; ? 2500,- - <div>Vertagung in die Maisitzung</div>
+- TOP 1: (E) LKW-Verkehr in der Oberländerstr. und Laderampe in der Gotzinger Str. 15 Empfehlung Nr. 14-20 / E 00680 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 27.10.2015 - <div>Zustimmung zum Referentenantrag</div>
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
