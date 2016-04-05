@@ -1,0 +1,95 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-04-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834026
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834026
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.0: 2. S-Bahnstammstrecke; Präsentation der Schallschutzwände im Bereich Laim durch das Referat für Stadtplanung und Bauordnung
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Abfalleimer an der Ecke Neuburgerstraße / Agnes-Bernauer-Straße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Erhalt und Wiederinbetriebnahme des Stifterbrunnens in der "Alten Heimat"
+- TOP 2.2.: CSU: Ermittlung der Lage und ggf. Sicherung des Grundsteins der Stiftungssiedlung der "Alten Heimat"
+- TOP 2.3.: CSU: Regelmäßigere und gründlichere Reinigung im Umfeld des Laimer Bahnhofes
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 23.02.2016: Ganzjährige Spielaktionen der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet; Stadtbezirk 25 Laim: 05.05.-07.05.16 Zirkus Pumpernudl, Von-der-Pfordten-Str./Valpichlerstr.; 12.05.-13.05.16 Artmobil, Joergplatz; 13.05.-16.05.16 Zirkus Pumpernudl, Agricolaplatz; 03.08.-05.08.16 Wasserspielbus, Burgerplatz
+- TOP 4.2.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Gehbahnen der Fleckhammerstr., Stürzerstr. und Reindlstr.
+- TOP 4.3.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Radweg Landsberger Str. 291 - 309
+- TOP 4.4.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Gehbahn Schlangenwegerl
+- TOP 4.5.: Erinnerungsverfahren Straßenunterhaltsmaßnahme Gehweg-Kunststeinplatten Fürstenrieder Str. 55-61
+- TOP 4.6.: Perhamerstr. 8-12: Antrag auf Fällung eines Baumes
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Queristr. 12: Neubau eines Dreifamilienhauses mit Duplexgarage und Carport
+- TOP 5.2.: Camerloherstr. 152: Errichtung eines Nebengebäudes mit 2 Abstellräumen, Abbruch einer Garage und Verlegung des PKW-Stellplatzes
+- TOP 5.3.: Agnes-Bernauer-Str. 1: Nutzungsänderung; Laden für Haushaltsgegenstände zu 6 Wohnstudios
+- TOP 5.4.: Landsberger Straße 293: Nutzungsänderung von Personal-/Aufenthalts- und Büroräumen zu Eventräumen für Live Escape Games in einem Teilbereich des Erdgeschosses
+- TOP 5.5.: Rechpacherstr. 15: Abbruch und Neuerrichtung einer Garage, Erweiterung (Anbau) einer Doppelhaushälfte
+- TOP 5.6.: Kiem-Pauli-Weg 1-69: Neubau Kindertagesstätte, 10 Wohngebäude, Nachbarschaftstreff und 3 Tiefgaragen (Alte Heimat, Neubauschritte 1 - 4) - Vorbescheid
+- TOP 5.7.: Camerloherstr. 110: Schulbauoffensive; Neubau 5-zügige Grundschule mit 20 Klassen- und 10 Ganztagesbetreuungsräumen - Vorbescheid
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kreisverwaltungsreferat vom 21.03.16: Veranstaltung "Kulturstrand 2016 am Vater-Rhein-Brunnen"; Vergabeverfahren - Teil 1
+- TOP 6.2.: Schreiben CSU Senioren-Union, Kreisverband München IV vom 22.03.16: Antrag auf Stärkung der Bezirksausschüsse
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 01.03.16
+- TOP 7.2.: Sitzung UA Senioren und Soziales vom 09.03.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 16.02.16: Mehr Spielgeräte für den Spielplatz Hogenbergplatz (Antrag aus der Einwohnerversammlung des BA 25 für Kinder und Jugendliche am 27.11.15)
+- TOP 8.2.: Schreiben Baureferat vom 22.02.16: Unterrichtung über die Entfernung von Gefahrenbäumen; Schule an der Droste-Hülshoff-Str. 9
+- TOP 8.3.: Schreiben Baureferat vom 10.03.16: Fußgängerquerung Senftenauerstraße / Hönigschmidplatz (BA-Schreiben vom 08.02.16)
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 28.01.16: Unveränderte Fortführung der Speiseeiswirtschaft "Il Buon Gelati", Fürstenrieder Str. 65
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 19.02.16: Organisiertes Betteln im Bereich Fürstenrieder Str. zwischen Laimer Kreisel und U-Bahn (BA-Schreiben vom 15.01.16)
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 25.02.16: Fußgängerquerung Senftenauerstr. / Hönigschmidplatz (BA-Schreiben vom 08.02.16)
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 11.02.16: Elsenheimerstr. 31/33, Feuerwehrzufahrt; Verkehrsrechtliche Anordnung
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 23.03.16: Verkehrssicherheit Hauzenberger Str. / Elsenheimerstr.
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.02.16: Bauvorhaben Riegerhofstr. 20; Vorbescheid
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.03.16: Baumbestand auf dem Grundstück St.-Ulrich-Str. 14 (BA-Schreiben vom 04.11.15)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.03.16: Agnes-Bernauer-Str. 1; Vollzug der Baumschutzverordnung, Fällungsgenehmigung mit Ersatzpflanzung
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.03.16: Agnes-Bernauer-Str. 5; Vollzug der Baumschutzverordnung, Fällungsgenehmigung mit Ersatzpflanzung
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.03.16: Ludwig-Richter-Str. 20; Vollzug der Baumschutzverordnung, Fällungsgenehmigung mit Ersatzpflanzung
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.03.16: Lautensackstr. 16; Vollzug der Baumschutzverordnung, Fällungsgenehmigung mit Ersatzpflanzung
+- TOP 8.15.: Bautenliste vom 15.02. bis 21.02.16: 1. Erstantragsverfahren a) Friedenheimer Str. 75 b) Rechpacherstr. 15 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Fürstenrieder Str. 62
+- TOP 8.16.: Bautenliste vom 22.02. bis 28.02.16: 1. Erstantragsverfahren a) Berchemstr. 66 b) Hönlestr. 17 c) Fürstenrieder Str. 52 d) Mergentheimer Str. 8 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Valpichlerstr. 95
+- TOP 8.17.: Bautenliste vom 29.02.-06.03.16 1. Erstantragsverfahren a) Helmpertstr. 11a b) Fürstenrieder Str. 22 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide, Freistellungsverfahren a) Camerloherstr. 110 - Vorbescheid b) Fürstenrieder Str. 35 - Vorbescheid c) Kiem-Pauli-Weg 1 - Vorbescheid
+- TOP 8.18.: Bautenliste vom 07.03.-13.03.16 1. Änderungsverfahren zu genehmigten Bauvorhaben a) Fürstenrieder Str. 62
+- TOP 8.19.: Bautenliste vom 14.03.-20.03.16 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide, Freistellungsverfahren a) Lautensackstr. 4 - Vorbescheid / Genehmigungsverlängerung b) Agnes-Bernauer-Str. 2 - Vorbescheid / Genehmigungsverlängerung c) Aindorferstr. 77 - Vorbescheid
+- TOP 8.20.: Schreiben Sozialreferat vom 25.02.16: Unterkünfte für Flüchtlinge; Bürgeranliegen "Konzept zur Wiederherstellung der Sicherheit in Laim"
+- TOP 8.21.: Schreiben Sozialreferat vom 03.03.16: Flüchtlingsunterkunft Elsenheimerstraße 48-50, Bürgeranfrage
+- TOP 8.22.: Schreiben Sozialreferat vom 11.03.16: Antrag auf Zweckentfremdung von Wohnraum in der Ofener Straße
+- TOP 8.23.: Schreiben Referat für Arbeit und Wirtschaft vom 05.02.16: Postfiliale Gotthardtstraße; bessere Besetzung der Schalter, mehr Packstationen (BA-Schreiben vom 19.01.16)
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 22.02.16: Baumaßnahmen der Stadtwerke; Stichtag 22.02.16
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 29.02.16: Baumaßnahmen der Stadtwerke; Stichtag 29.02.16
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 07.03.16: Baumaßnahmen der Stadtwerke; Stichtag 07.03.16
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 14.03.16: Baumaßnahmen der Stadtwerke; Stichtag 14.03.16
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 16.03.16: Baumaßnahmen der SWM; Infoflyer Stromprojekt Straubinger Str., Netztrafostation - 2. Bauabschnitt
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 21.03.16: Baumaßnahmen der Stadtwerke; Stichtag 21.03.16
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen; Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur / Änderungsantrag (Sitzungsvorlage Nr. 14-20 / V 04903)
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Unterflur-Containerstandorte in Neubaugebieten mitplanen! / Ergänzungsantrag (Sitzungsvorlage Nr. 14-20 / V 04859)
+- TOP 8.32.: Beschluss der Vollversammlung des Stadtrates vom 25.02.16: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München (Sitzungsvorlage Nr. 14-20 / V 05128)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.16: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen (Sitzungsvorlage Nr. 14-20 / V 03733)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.16: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 14-20 / V 04459)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.16: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten - (Sitzungsvorlage Nr. 14-20 / V 03291)
+- TOP 8.36.: Beschluss des Sozialausschusses vom 10.03.16: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017 (Sitzungsvorlage Nr. 14-20 / V 05096)
+- TOP 8.37.: Beschluss der Vollversammlung des Stadtrates vom 16.03.16: Wohnen für Alle: a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge, b) Anpassung des Finanzbedarfs (Sitzungsvorlage Nr. 14-20 / V 05437)
+- TOP 8.38.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses im gemeinsamer Sitzung vom 05.04.16: Zuschussnehmerdatei 2016; Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale (Sitzungsvorlage Nr. 14-20 / V 05336)
+- TOP 8.39.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.04.16: Zuschussnehmerdatei 2016; Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 05326)
+- TOP 8.40.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 05.04.16: Zuschussnehmerdatei 2016; Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 05364)
+- TOP 8.41.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 05.04.16: Zuschussnehmerdatei 2016; Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 05344)
+- TOP 8.42.: Schreiben Gleichstellungsstelle für Frauen vom 19.02.16: Protokoll des 25. Treffens der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse vom 29.10.2015
+- TOP 8.43.: Schreiben BA 9 Neuhausen - Nymphenburg vom 17.02.16: Ausweisung einer Busspur auf der Friedenheimer Brücke (BA-Schreiben vom 19.01.16)
+- TOP 8.44.: Budget des BA 25; Kurzbericht des Faschingclub - Laim e.V. vom 07.03.16 zum Laimer Faschingstreiben am 06.02.16
+- TOP 8.45.: Mieterbeirat der Landeshauptstadt München: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 18.01.16 sowie Einladung zur öffentlichen Sitzung am 11.04.16 um 18:30 Uhr, Rathaus am Marienplatz, Kleiner Sitzungssaal
+- TOP 3.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Spielbus ?Zirkus Pumpernudl? vom 05. bis 07.05.2016 und ?Wasserspielbus? vom 03. bis 05.08.2016
+- TOP 2: (E) Entschärfung der Verkehrssituation an der Kreuzung Agnes-Bernauer-Straße / Fürstenrieder Straße, Nordwestseite (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00841 der Bürgerversammlung des 25. Stadtbezirkes Laim am 17.12.2015 - <div></div>
+
+  						<div>Abweichung von Referentenvorl.</div>
+- TOP 3: (E) Lichtzeichenanlage an der Kreuzung Agnes-Bernauer-Straße / Agricolastraße Empfehlung Nr. 14-20 / E 00792 der Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.2015
+- TOP 1.2: Bürgerpost an den BA
