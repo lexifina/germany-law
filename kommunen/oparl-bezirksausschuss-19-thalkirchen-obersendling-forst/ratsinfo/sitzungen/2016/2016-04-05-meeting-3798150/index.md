@@ -1,0 +1,74 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-04-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798150
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798150
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 01.03.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine, Informationen, Antwortschreiben
+- TOP 2.2.: Sozialreferat - Information zur Flüchtlingsunterkunft Hofmannstr. 51
+- TOP 2.3.: (Antrag) Veranstaltung 8. Mai
+- TOP 3: Unterausschuss Budget
+- TOP 3.2.: (E) Tag des offenen Denkmals
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Wertstoffcontainerstandort Kistlerhofstr.
+- TOP 4.3.: Maßnahmen zur Verbesserung an der Isar
+- TOP 4.4.: (Antrag) Keine kommerzielle Veranstaltungen an der Isar zulassen
+- TOP 4.5.: (U) Mobilfunkanlagen
+- TOP 4.6.: (A) Veranstaltung auf Privatgrund: Feuerwerk (Kat. 2) in der Herterichstr. am 21.05.16
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Aktueller Stand der Ergebnisse
+- TOP 5.2.: (E) Sondernutzungserlaubnis: 1 Warenauslage - Baierbrunner Str. 20
+- TOP 5.3.: (E) Sondernutzungserlaubnis: 2 Zeitungsentnahmegeräte - Graubündener Str. 1
+- TOP 5.4.: (E) Sondernutzungserlaubnis: 15 Zeitungsentnahmegeräte
+- TOP 5.5.: (E) Sondernutzungserlaubnis: 1 Zeitungsentnahmegerät - Tölzer Str. 30
+- TOP 5.6.: (E) Sondernutzungserlaubnis: 1 Zeitungsentnahmegerät - Schäftlarnstr. 178
+- TOP 5.7.: (E) Sondernutzungserlaubnis: 2 Zeitungsentnahmegeräte - Baierbrunner Str. 87/ Königswieser Str. 106
+- TOP 5.8.: (A) Wendemöglichkeit Boschetsrieder Str./ Geisenhauser Str.
+- TOP 5.9.: (A) Behindertenparkplatz: Solothurner Str. 68
+- TOP 5.10.: (A) Aufstellung einer Sitzgelegenheit am Pullacher Platz 8
+- TOP 5.11.: (Antrag) Schmiedberg/ Kreppeberg mit Leitplanke sichern
+- TOP 5.12.: (Antrag) S7 - 10-Minuten-Takt auf der westlichen Tangente
+- TOP 5.13.: (E) Sondernutzungserlaubnis: 2 Zeitungsentnahmegeräte - Baierbrunner Str. 30
+- TOP 5.14.: (E) Sondernutzungserlaubnis: 1 Zeitungsentnahmegerät - St.-Wendel-Str. 53
+- TOP 5.15.: (Antrag) Parksituation Franziska-Reindl-Platz
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: Grünflächenplanung Boschenplatz
+- TOP 6.3.: (U) Zweckentfremdung: Weltistr.
+- TOP 6.4.: (U) Zweckentfremdung: Gilgstr.
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (A) Veranstaltung Kanu-Verband e.V.: Historische Isarfahrt am 04.06.16
+- TOP 8.2.: (A) Veranstaltung Maibaumverein Thalkirchen: Maifest vom 05.05.16 bis 08.05.16
+- TOP 8.3.: (A) Veranstaltung Wiesenwerkstatt e.V.: Flohmarkt (30.04.16) und Sommerfest (10.06.16)
+- TOP 8.4.: (U) Gaststättenfortführung: Kistlerhofstr. 70
+- TOP 0: Bericht (6)
+- TOP 9: Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Maibaumverein Forstenried e.V. Aufstellen des Maibaums am 01.05.2016
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt ?Play Me, I'm Yours? - Aufstellung von öffentlichen Klavieren vom 01. bis 18.09.2016
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Pro Isar Aktion Druck und Verteilung von Flyern von Mai bis Oktober 2016
+- TOP 0.16.: Beschilderung Evangelisches Pflegezentrum Baierbrunner Straße - <div></div>
+- TOP 0.17.: Kistlerhofstraße - Erweiterung des absoluten Haltverbots - <div></div>
+- TOP 0.18.: Widmung Fuß- und Radweg auf dem ehemaligen Siemens-Campus - <div></div>
+- TOP 0.19.: Grundstücke für Fuß-/Radweg und Anger in Forstenried in städtischer Hand behalten - <div></div>
+- TOP 0.5.: Sondernutzung Wolfratshauser Straße/Tillmannweg - <div></div>
