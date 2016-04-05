@@ -1,0 +1,6 @@
+# TOP 7: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 15. Sitzung des Ausschusses für Bauen und Ortsentwicklung der Ortsgemeinde Herxheim (Bauausschuss) (2016-04-05)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2016-205-118%7Czt_0%7C2
