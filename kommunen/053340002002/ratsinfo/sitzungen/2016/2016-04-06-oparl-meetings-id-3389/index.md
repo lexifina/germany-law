@@ -1,0 +1,57 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2016-04-06T17:00:00+02:00
+- Ende: 2016-04-06T18:23:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3389
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3389
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 02.03.2016 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 5: I. Änderung Bebauungsplan Nr. 940 - Laurentiusstraße / Sandhäuschen - hier: Satzungsbeschluss - geändert beschlossen
+- TOP 5.1: I. Änderung Bebauungsplan Nr. 940 - Laurentiusstraße / Sandhäuschen - hier: Satzungsbeschluss - ungeändert beschlossen
+- TOP 6: Bebauungsplan Nr. 922 -Charlottenburger Allee/Elleter-Feld und Änderung Nr. 106 des Flächennutzungsplanes 1980 für den Planbereich im Stadtbezirk Aachen-Haaren im Bereich zwischen Charlottenburger Allee und Haarbachtalhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB zum Bebauungsplan Beschluss der Flächennutzungsplanänderung - ungeändert beschlossen
+- TOP 7: Vorhabenbezogener Bebauungsplan Nr. 953 -Trierer Straße / Vennbahnweg - und Änderung Nr. 129 des Flächennutzungsplanes 1980 für den Planbereich im Stadtbezirk Aachen-Brand im Planbereich zwischen Trierer Straße, Heussstraße und Vennbahnweghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB zum Bebauungsplan Beschluss der Flächennutzungsplanänderung - geändert beschlossen
+- TOP 8: Vorhabenbezogener Bebauungsplan Nr. 962 - Vaalser Straße / Evangelische Kirche - für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen Vaalser Straße, Westfriedhof und Dorbachhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - vertagt
+- TOP 9: Städtepartnerschaft Aachen - Kapstadthier: Gemeinsamer Ratsantrag Nr. 143/17 von CDU und SPD vom 18.02.2016 - ungeändert beschlossen
+- TOP 10: Gebührentarif zum XII.Nachtrag der Friedhofsgebührenordnung der Stadt Aachen vom 01.01.2013hier: Redaktionelle Änderung - ungeändert beschlossen
+- TOP 11: Satzungsänderung von Volkshochschule Aachen - geändert beschlossen
+- TOP 11.1: Satzungsänderung von Volkshochschule Aachenhier: Ergänzung nach der Sitzung des Betriebsausschusses Theater und Volkshochschule am 3.3.2016 - ungeändert beschlossen
+- TOP 12: Fusion der bisherigen Fachbereiche "Wohnen" (FB 64) und "Soziales und Integration" (FB 50) zu einem neuen Fachbereich "Wohnen, Soziales und Integration" ( FB 56) - ungeändert beschlossen
+- TOP 13: Bericht der PricewaterhouseCoopers AG Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2014 und Lagebericht für das Wirtschaftsjahr 2014 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 14: Zuständigkeitsregelung für besoldungsrechtliche Entscheidungen - geändert beschlossen
+- TOP 15: Übersicht der Ermächtigungsübertragungen oberhalb der vom Rat festgesetzten Wertgrenze - ungeändert beschlossen
+- TOP 16: Verlegung eines Stolpersteins Projekt des Kölner Künstlers Gunter Demnigvon Volkshochschule Aachen - ungeändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - ungeändert beschlossen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 18: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 18.1: Umbesetzung von Ausschüssen und anderen Gremienhier: Antrag der GRÜNE-Fraktion vom 07.03.2016 - ungeändert beschlossen
+- TOP 18.2: Studieninstitut für kommunale Verwaltung Aachenhier: Benennung eines ordentlichen Mitgliedes in der Verbandsversammlung des Zweckverbandes für das Studieninstitut - ungeändert beschlossen
+- TOP 18.3: Wahl von städtischen Vertretern in Gesellschaften, Verbänden und sonstigen Organisationen - geändert beschlossen
+- TOP 18.3.1: Tischvorlage: Wahl von städtischen Vertretern in Gesellschaften, Verbänden und sonstigen Organisationen - geändert beschlossen
+- TOP 18.4: Umbesetzung von Ausschüssen und anderen Gremienhier: Antrag der PIRATEN-Fraktion vom 23.03.2016 - ungeändert beschlossen
+- TOP 18.5: Umbesetzung von Ausschüssen und anderen Gremienhier: Antrag der CDU-Fraktion vom 15.03.2016 - ungeändert beschlossen
+- TOP 19: Mitteilungen der Verwaltung
+- TOP 20: Ratsanträge - ungeändert beschlossen
+- TOP 21: Kommunalinvestitionsförderungsgesetz;Verwendung des Anteils der Fördermittel für die U3 Betreuung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
