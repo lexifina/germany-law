@@ -1,0 +1,7 @@
+# TOP 6.1: Modellsport-Club DO-X
+
+- Sitzung: Ausschuss für Kultur, Sport, Vereine und Bürgerengagement (9. Sitzung) (2016-04-07)
+- Körperschaft: Gemeinde Wallenhorst
+- Öffentlich: ja
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/45237
+- Beratung: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/12556
