@@ -1,0 +1,53 @@
+# 50. öffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-04-07T17:30:00+02:00
+- Ende: 2016-04-07T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3800
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3800
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=131065
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Themen (I): Liebenwalder Straße 33
+- TOP 1.1: Liebenwalder Straße 33: Begehung Grundstück (max. 30 Minuten)
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Beratung und Beschlussfassung von Drucksachen (I)
+- TOP 3.1: Bebauungsplan III-213a neu aufstellen um Wohnungsbau zu ermöglichen
+- TOP 4: Aktuelle Themen (II): Milieuschutz
+- TOP 4.1: Milieuschutz in Mitte: Anhörung BE: Bezirksamt Mitte, Sigmar Gude (TOPOS), Werner Oehlert (ehem. ASUM) Reiner Wild (Berliner Mieterverein)
+- TOP 4.2: Beratung und Beschlussfassung von Drucksachen (II)
+- TOP 4.2.1: Festsetzung einer Erhaltungsverordnung gemäß §172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Birkenstraße" im Bezirk Mitte von Berlin
+- TOP 4.2.2: Festsetzung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Bau GB für das Gebiet "Leopoldplatz" im Bezirk Mitte von Berlin
+- TOP 4.2.3: Festsetzung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Sparrplatz" im Bezirk Mitte von Berlin
+- TOP 4.2.4: Aufhebung der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet"Oranienburger Vorstadt" im Bezirk Mitte von Berlin
+- TOP 4.2.5: Festsetzung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Waldstraße" im Bezirk Mitte von Berlin
+- TOP 4.2.6: Festsetzung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Seestraße" im Bezirk Mitte von Berlin
+- TOP 5: Genehmigung der Protokolle
+- TOP 5.1: der 32. Sitzung am 27.08.2014
+- TOP 5.2: der 38. Sitzung am 25.02.2015
+- TOP 5.3: der 39. Sitzung am 25.03.2015
+- TOP 5.4: der 43. Sitzung am 02.09.2015
+- TOP 5.5: der 47. Sitzung am 02.12.2015
+- TOP 5.6: der 48. Sitzung am 27.01.2016
+- TOP 5.7: der 49. Sitzung am 24.02.2016
+- TOP 6: Mitteilungen
+- TOP 6.1: des Vorsitzenden
+- TOP 6.2: des Bezirksamtes
+- TOP 7: Aktuelle Viertelstunde
+- TOP 8: Beratung und Beschlussfassung von Drucksachen (III)
+- TOP 8.1: Wohnbebauung in der Bremer Straße - ökologisch und sozial, mit Kita und Bibliothek
+- TOP 8.2: Lebenswerte Häuser am Hauptbahnhof
+- TOP 8.3: Überbauung von Stellplatzflächen
+- TOP 8.4: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhaben-bezogenen Bebauungsplanes 1-67VE (Lehrter Straße Mittelbereich).
+- TOP 8.5: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-72 (Bachstraße 1-2).
+- TOP 8.6: Einbeziehung der Bürgerschaft in Neubauvorhaben städtischer Wohnungsbaugesellschaften in Mitte
+- TOP 8.7: Bebauungsplan I-58b auf der Fischerinsel festsetzen
+- TOP 8.8: Mieterschutz ernst nehmen – Umfassende Informationen zu Anträgen auf Umwandlung in Wohneigentum bereitstellen
+- TOP 8.9: Prüfung von Standorten zur Unterbringung von Geflüchteten bei städtischen/öffentlichen Grundstücken (MUF)
+- TOP 9: Verschiedenes
+- TOP 9.1: Tagesordnung Ausschusssitzung 27.04.2016 - Ergebnis Werkstattverfahren Wiesenburg - Soziales Infrastrukturkonzept (SIKo) für den Bezirk Mitte
