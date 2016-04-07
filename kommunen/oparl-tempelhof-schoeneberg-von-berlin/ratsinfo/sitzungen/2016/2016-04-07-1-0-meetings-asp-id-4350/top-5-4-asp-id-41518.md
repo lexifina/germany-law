@@ -1,0 +1,7 @@
+# TOP 5.4: Informationstafeln zum Gedenken an Julius und Annedore Leber Winterfestmachung der Baracke -> Zuständigkeit BzStR Krüger
+
+- Sitzung: 46. öffentliche Sitzung des Ausschusses für Bildung und Kultur (2016-04-07)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=41518
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=41518
