@@ -1,1 +1,1 @@
-# Verordnung über die Veröffentlichungspflichten nach dem Bremer Informationsfreiheitsgesetz vom 15. April 2008
+# Verordnung über die Veröffentlichungspflichten und die Berichtspflicht nach dem Bremer Informationsfreiheitsgesetz vom 22. März 2016
