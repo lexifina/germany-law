@@ -1,25 +1,25 @@
 # Gebührensatzung für die Rheinische Musikschule der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2014-01-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/gebuehrensatzung-fuer-die-rheinische-musikschule-20131120.pdf
+- Datum: 2016-04-11 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/gebuehrensatzung-fuer-die-rheinische-musikschule-20160411.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Gebührensatzung für die Rheinische Musikschule der Stadt Köln vom 29.08.2003
-(in der ab 1. Januar 2014 geltenden Fassung der Änderungssatzung vom 20. November 2013)
-- ABl StK 2003, S. 507, 2013, S. 755 Der Rat der Stadt Köln hat in seiner Sitzung vom 29.07.2003 aufgrund der §§ 7 und 76 Abs. 1 der Gemeindeordung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV. NRW 2023) und der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV. NRW 610) in Verbindung mit der Satzung für die Rheinische Musikschule der Stadt Köln vom 22. März 1983 (Amtsblatt der Stadt Köln 1983 S. 85) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - folgende Gebührensatzung beschlossen:
+(in der Fassung der 5. Satzung zur Änderung der Gebührensatzung für die Rheinische Musikschule der Stadt Köln vom 11. April 2016)
+- ABl StK 2003, S. 507, 2013, S. 755, 2016, S. 193 Der Rat der Stadt Köln hat in seiner Sitzung vom 29.07.2003 aufgrund der §§ 7 und 76 Abs. 1 der Gemeindeordung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV. NRW 2023) und der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV. NRW 610) in Verbindung mit der Satzung für die Rheinische Musikschule der Stadt Köln vom 22. März 1983 (Amtsblatt der Stadt Köln 1983 S. 85) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - folgende Gebührensatzung beschlossen:
 § 1 Gebühren
 (1) Die Rheinische Musikschule erhebt Gebühren für die Teilnahme am Unterricht und für die zeitlich begrenzte Überlassung und Benutzung von Musikinstrumenten in Verbindung mit dem Unterricht. (2) Die Höhe der monatlichen Gebühren ergibt sich aus dem anliegenden Gebührentarif, der Bestandteil dieser Satzung ist. (3) Zu Projekten und Kursen werden Teilnehmerbeiträge außerhalb dieser Satzung erhoben. (4) Der Auftritt von Ensembles unterliegt nicht dieser Gebührensatzung, sondern bedarf der Vereinbarung im Einzelfall.
 § 2 Gebührenpflichtige
 Gebührenschuldnerin oder Gebührenschuldner ist die Schülerin oder der Schüler der Musikschule bzw. deren gesetzliche Vertreter.
 § 3 Gebührenpflicht
-(1) Die Gebührenpflicht entsteht mit der Zuteilung zum Unterricht. Die Gebühren werden, wenn im Bescheid kein späterer Zeitpunkt genannt ist, mit Zugang des Gebührenbescheides fällig. (2) Die Gebührenpflicht für den folgenden Unterrichtsabschnitt entsteht, sofern nicht bis zum 30.04. mit Wirkung zum 31.07. (Ende des Unterrichtsabschnitts) oder bis zum 30.09. mit Wirkung zum 31.12. (Ende des Unterrichtsabschnitts) eine schriftliche Abmeldung erfolgt ist. Maßgeblich für den fristgerechten Zugang der Abmeldung ist der Eingang bei der Musikschule. (3) Die Musikalische Früherziehung sowie die Musikalische Grundausbildung enden nach Ablauf von 2 Jahren, das Instrumentalpraktikum und die Beginner-Workshops
+(1) Die Gebührenpflicht entsteht mit der Zuteilung zum Unterricht. Die Gebühren werden, wenn im Bescheid kein späterer Zeitpunkt genannt ist, mit Zugang des Gebührenbescheides fällig. (2) Die Gebührenpflicht für den folgenden Unterrichtsabschnitt entsteht, sofern nicht bis zum 30.04. mit Wirkung zum 31.07. (Ende des Unterrichtsabschnitts) oder bis zum 30.09. mit Wirkung zum 31.12. (Ende des Unterrichtsabschnitts) eine schriftliche Abmeldung erfolgt ist. Maßgeblich für den fristgerechten Zugang der Abmeldung ist der Eingang bei der Musikschule.
 Seite 1 von 7
 
-nach Ablauf des vorher festgelegten Zeitraumes, ohne dass es einer Abmeldung bedarf.
+(3) Die Musikalische Früherziehung sowie die Musikalische Grundausbildung enden nach Ablauf von 2 Jahren, das Instrumentalpraktikum und die Beginner-Workshops nach Ablauf des vorher festgelegten Zeitraumes, ohne dass es einer Abmeldung bedarf.
 (4) Während eines Unterrichtsabschnittes ist eine Abmeldung der Schülerin oder des Schülers nur aus folgenden Gründen zulässig:
 1. nachgewiesene mehr als zweimonatige ununterbrochene Erkrankung der Schülerin oder des Schülers,
 2. Wegzug aus dem Stadtgebiet Köln,
@@ -196,6 +196,10 @@ Tasteninstrumente und Kontrabaß)
 
 10. Beginner-Workshops Die Gebühren werden analog zu den Gebühren des Gruppenunterrichtes erhoben.
 
+11. JeKits im 2. Jahr 11.1 Schwerpunkt Instrumente 11.2 Schwerpunkt Tanzen 11.3 Schwerpunkt Singen
+
+23,00 17,00 12,00
+
 144,00 192,00 288,00
 144,00 192,00 288,00
 60,00 -
@@ -203,6 +207,7 @@ Tasteninstrumente und Kontrabaß)
 144,00
 120,00 144,00 180,00
 60,00
+276,00 204,00 144,00
 
 Seite 6 von 7
 
