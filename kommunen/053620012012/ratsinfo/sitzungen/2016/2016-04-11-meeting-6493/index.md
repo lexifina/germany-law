@@ -1,0 +1,59 @@
+# Hauptausschuss (39. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-04-11T18:00:00+02:00
+- Ende: 2016-04-11T19:50:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaG278v4mkc0ZUEhNfwnuRI
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6493
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYz-W2sSW8CdJBdU3wHGNfAEeZQQYTIX9iJHLOeUmZAk/Bekanntmachung_Hauptausschuss_11.04.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeK6RqMeC4i5mSi9dKJzzMdejdujU3oo68t6TZNqkrZs/Oeffentliche_Niederschrift_Hauptausschuss_11.04.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 22.2.2016
+- TOP 2.: Anregungen und Beschwerden gem. § 24 Gemeindeordnung NW
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Ratsbürgerentscheid "Neubau Rathaus Steinweg"
+- TOP 3.1: Termin Ratsbürgerentscheid Bezug: Antrag der FDP-Fraktion vom 12.03.2016
+- TOP 3.2: Fragestellung Ratsbürgerentscheid Bezug: Antrag der SPD-Fraktion vom 15.03.2016
+- TOP 3.3: Ratsbürgerentscheid Bezug: Antrag der FDP-Fraktion vom 06.04.2016
+- TOP 3.4: Rathaus B Steinweg hier: Herbeiführung eines Ratsbürgerentscheids Bezug: 29.2.2016 - (kein Text vorhanden)
+- TOP 4.: Unterstützung der StädteRegion Aachen gegen den Betrieb der Atomkraftwerke Tihange und Doel / Belgien - (kein Text vorhanden)
+- TOP 5.: Antrag
+- TOP 5.1: Herrichtung des Hauses Bahnhofstraße 21 als Flüchtlingsunterkunft Bezug: Antrag der Fraktion Linke&Piraten vom 5.3.2016 - (kein Text vorhanden)
+- TOP 6.: Mitteilungen
+- TOP 6.1: Austausch des Dienstwagens Bürgermeister
+- TOP 6.2: Zuschuss zur Eigenleistung erzbischöfliche Schulen
+- TOP 6.3: Terminierung Ratssitzung zur Feststellung Ergebnis Ratsbürgerentscheid
+- TOP 7.: Anfragen
+- TOP 7.1: Heißluftballon Phantasialand
+- TOP 7.2: Flüchtlingsunterbringung Hotel Rheinischer Hof
+- TOP 7.3: Turnhallenbelegung durch Flüchtlinge
+- TOP 7.4: Sachstand Flüchtlingsunterbringung
+- TOP 7.5: Containerdorf Bergerstraße
+- TOP 7.6: Platzbedarf FH Bund
+- TOP B): Nichtöffentliche Sitzung
+- TOP 8.: Erlass einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.: Niederschlagungen
+- TOP 9.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.2: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.3: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.4: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 9.5: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt
+- TOP 9.5.1: Unbefristete Niederschlagung einer Forderung Hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 10.: Personalbewegungen
+- TOP 10.1: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 10.2: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 11.: Kauf und Herrichtung von Containern zur Unterbringung von Flüchtlingen (Willy-Brandt-Str.) -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 12.: Mitteilungen
+- TOP 12.1: Max-Ernst-Kabinett
+- TOP 13.: Anfragen
+- TOP 13.1: Sachstand stadteigene Gesellschaften
+- TOP 13.2: Organisation Flüchtlingsarbeit in der Verwaltung
