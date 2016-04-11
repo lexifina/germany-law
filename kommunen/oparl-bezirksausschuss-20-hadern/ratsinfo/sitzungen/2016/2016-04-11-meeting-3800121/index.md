@@ -1,0 +1,108 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800121
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800121
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Kinderkrippe "petitini" - Erweiterung zum Kindergarten
+- TOP 1.2.: Fahrradstreifen in der Kriegerheimstraße
+- TOP 1.3.: Stärkung der Bezirke
+- TOP 1.4.: Stadtteil München - Großhadern, Hohenklingenstraße / Bereich zwischen Windeckstraße und Stahleckstraße Antrag auf Begrünung des östlichen Straßenrandes
+- TOP 1.5.: Tram Westtangente mit Verkehrsverdrängung nach Hadern und mit Hecken eingewachsene Gehwege
+- TOP 1.6.: Stau durch Bushaltestellen in der Waldwiesenstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Umwelt und Region
+- TOP 3.2.: UA Soziales und Kultur
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung in einer städtischen Grünanlage, hier: Private Flohmärkte auf dem Max-Lebsche-Platz am 28.05.2016, 11.06.2016, 24.09.2016, 08.10.2016 (Kreisverwaltungsreferat, 15.03.16)
+- TOP 6.2.: Erinnerungsverfahren: Fürstenrieder Straße 333 - 337, Unterführung BAB A95, Notgehbahn (Baureferat, 17.03.16)
+- TOP 6.3.: Kulturstrand 2016 am Vater-Rhein-Brunnen - Vergabeverfahren - Teil 1 (Kreisverwaltungsreferat, 21.03.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Buschrosenweg, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 3031
+- TOP 7.2.: Am Waldrand 11, gem. Baumbestandsplan Nr. 2948
+- TOP 7.3.: Am Heidebruch, gem. Baumbestandsplan Nr. 522
+- TOP 7.4.: Pfundmayerstraße 20, 1 Stechfichte
+- TOP 7.5.: Am Wiesenhang 30, 1 Kiefer
+- TOP 7.6.: Nothkaufplatz 9, 2 Birken
+- TOP 7.7.: Veilchenstraße 3, 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der SWM, Stromprojekt Am Wiesenhang (SWM, 03.03.16)
+- TOP 8.2.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2016 für den BA (SWM, 15.03.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Beschlussvorlage für den Umweltausschuss: Verbot von Laubbläsern bzw. Regelungen für deren Handhabung (Referat für Gesundheit und Umwelt, 16.03.16)
+- TOP 9.2.: Zwischennachricht: Anwohnerparken rund um die U-Bahn-Haltestelle "Großhadern" (Referat für Stadtplanung und Bauordnung, 23.03.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Veranstaltung in der Schule Am Hedernfeld, Buslinie 167 (MVG, 04.03.16)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Infoflyer "Solaranlagen - Denkmalschutz" und "Denkmalschutz in München" (Referat für Stadtplanung und Bauordnung, 08.03.16)
+- TOP 11.2.: Stadtratsantrag vom 11.03.2016: Weitere MVG-Mietradstationen planen
+- TOP 11.3.: Angebot zur kostenlosen Erstellung der Informationsbroschüre "Hadern - der 20. Stadtbezirk", Auflage 2016
+- TOP 11.4.: Terminvormerkung zur BA-Informationsveranstaltung des Sozialreferates: Montag, 27.06.2016 (Sozialreferat, 24.03.16)
+- TOP 11.5.: Baufibel Aubing (Referat für Stadtplanung und Bauordnung, 23.03.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 25.02.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05128: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 14.01.2016 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 12.2.: Neufassung vom 17.02.2016 zum Beschluss vom 25.02.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04903: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Infrastrukturprogramm München II: Handlungsprogramm Infrastruktur
+- TOP 12.1.: Hinweis / Ergänzung vom 14.03.2016 und Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05437: Wohnen für Alle a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge b) Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015 - 2019 - im Finanzhaushalt 2016
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05025: Wildtiere in München II Erfassung der Wildtiere in München
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04745: E-Mobilität: Handlungsfeld 6 - Innerstädtischer Wirtschaftsverkehr
+- TOP 12.3.: Hinweis / Ergänzung vom 11.02.2016 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04859: Unterflur-Containerstandorte in Neubaugebieten mit planen!
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04169: Umgestaltung Canisiusplatz
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05326: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05336: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Sozialrefrates / Zentrale
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05364: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05344: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04459: 1) Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung 2) Anträge
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 03602: Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes
+- TOP 12.3.: Hinweis / Ergänzung vom 29.02.2016 zum Beschluss des Ausschusses für Stadtplanung vom 02.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 03291: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten -
+- TOP 12.1.: Hinweis / Ergänzung vom 29.02.2016 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 03733: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen
+- TOP 12.2.: Ergänzung vom 26.02.2016 zum Beschluss des Sozialausschusses vom 10.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05096: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05509: Das "Junge Quartier Obersendling" - Ein Integrationszentrum für Bildung, Ausbildung und zur Unterbringung von jungen Menschen mit und ohne Fluchthintergrund
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 02.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04857: Gartenstädte Erhalt des Charakters und bauliche Entwicklung Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifiziert überplanten Innenbereich
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.7.: Verlegung des Containerstandplatzes Willibaldstraße 225 / Haderner Steg
+- TOP 6.4.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Flohmarkt am 10.06.2016 von 13.30 - 16.30 Uhr, Veranstalter: Städtischer Kindergarten Ludwig-Wörl-Weg 44 (Kreisverwaltungsreferat, 29.03.16)
+- TOP 6.5.: MVG-Leistungsprogramm 2017 (MVG, 31.03.16)
+- TOP 6.6.: Veranstaltung in einer städtischen Grünanlage, hier: Stadtteilwoche Hadern des Kulturreferates München auf dem Max-Lebsche-Platz vom 24. - 30.06.2016 (Kreisverwaltungsreferat, 30.03.16)
+- TOP 6.7.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Circus Galliano vom 26. - 28.08.2016 (Kreisverwaltungsreferat, 31.03.16)
+- TOP 7.8.: Aurikelstraße 3, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 4611
+- TOP 7.9.: Fürstenrieder Straße 188, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 4887
+- TOP 1.8.: Lkw-Parkverbot auf Höhe Waldwiesenstraße 19
+- TOP 1.9.: Anfrage Arbeitskreis Industriekultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Bauvorhaben Heiglhofstraße 17 (Referat für Stadtplanung und Bauordnung)
+- TOP 3.3.: UA Bau und Wohnen
+- TOP 7.10.: Zypressenweg 11 a, 1 Scheinzypresse
+- TOP 7.11.: Rolandseckstraße 11, 1 Fichte
+- TOP 8.3.: Neubau / Erweiterung Tagesheim Canisiusplatz 2 (Referat für Bildung und Sport, 31.03.16)
+- TOP 5.1.: Budget der Bezirksausschüsse, Alten- und Service-Zentrum Kleinhadern-Blumenau Maitanz am 12.05., Frühschoppen am 13.05., Sommerfest am 14.07., Geburtstagsfeier am 13.10., Herbsttanz am 10.11., Weihnachtsfeier am 08.12. und Silvesterfeier am 29.12.2016 (Direktorium, 17.03.16)
+- TOP 2: Verhinderung des Abstellens sichtbehindernder Fahrzeuge am Übergang neben der Einmündung Am Ährenfeld über die Waldwiesenstraße (Kreisverwaltungsreferat, 18.03.16) Empfehlung Nr. 14-20 / E 00643 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 3: Markierung mehrerer Übergänge für Fußgänger am Stiftsbogen (Antrag 2) (Kreisverwaltungsreferat, 18.03.16) Empfehlung Nr. 14-20 / E 00652 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 4: Heiglhofstraße: -Verkehrssicherheit auf Höhe des Kinderzentrums -generelle Parksituation auf Höhe der Hausnummern 81 - 121 (Kreisverwaltungsreferat, 18.03.16) Empfehlung Nr. 14-20 / E 00817 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 03.12.2015 - <div>nach Antrag</div>
+- TOP 5: Ausweisung reiner PKW- und Zulieferparkplätze am Straßenrand in der Haderunstraße und Nebenstraßen (Kreisverwaltungsreferat, 18.03.16) Empfehlung Nr. 14-20 / E 00812 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 03.12.2015 - <div>nach Antrag</div>
+- TOP 6: Aufbringen einer mittigen Fahrbahnmarkierung in der Kriegerheimstraße (Antrag 2) (Kreisverwaltungsreferat, 18.03.16) Empfehlung Nr. 14-20 / E 00649 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 7: Schaffung der Voraussetzungen eines Parkverbotes für Fahrzeuge über 7,5 t sowie für Wohnmobile und Anhänger beidseitig in der Kriegerheimstraße zwischen Würmtal- und Zöllerstraße (Kreisverwaltungsreferat, 22.03.16) Empfehlung Nr. 14-20 / E 00650 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 7.8.: Budget der Bezirksausschüsse, Nachbarschaftstreff Blumenau, Verein für Sozialarbeit e.V., Dominoaktion ?Wir bewegen etwas? am 25. und 26.06.2016 (Direktorium, 30.03.16)
+- TOP 7.12.: Waldhüterstraße 1, 2 Fichten
+- TOP 6.8.: Veranstaltung auf Privatgrund, hier: Feuerwerk (Pyrotechnik Kat. 2) in der Heiglhofstraße 36 am 15.04.2016 (Kreisverwaltungsreferat, 08.04.16)
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
