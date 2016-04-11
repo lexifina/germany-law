@@ -1,0 +1,8 @@
+# TOP 5: Bebauungsplan Nr. 3003, Dresden-Schullwitz Nr. 3, Aspichring BE: Stadtplanungsamt
+
+- Sitzung: 22. Sitzung des Ortschaftsrates Schönfeld-Weißig (2016-04-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/77634
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/24024
