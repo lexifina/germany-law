@@ -1,0 +1,7 @@
+# TOP 2: CIMA - Vorstellung Sachstand Innenstadtmanagement (Präsentation)
+
+- Sitzung: Planungsausschuss (2016-04-12)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/120603
+- Ergebnis: Kenntnisnahme
