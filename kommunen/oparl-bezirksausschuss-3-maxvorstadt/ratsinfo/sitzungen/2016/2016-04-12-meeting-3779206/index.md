@@ -1,0 +1,90 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779206
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779206
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Dachauer Straße 37, Umbau zu einem Hotel Anfrage eines Bürgers
+- TOP .2.: Gabelsbergerstraße 38, Leerstand und Verfall, Schreiben einer Bürgerin vom 18.02.2016 vertagt aus der Sitzung vom 15.03.2016, Unterlagen liegen bereits vor
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Antwortschreiben des Baureferates vom 14.03.2016 zu einer Anfrage des BA 3 vom 16.09.2015 Kreuzung Görres-/Augustenstraße und Kreuzung Winzerer-/Schellingstraße; Wildparken auf Fußgängerfurten; Aufstellen von Pollern
+- TOP .2.: Auskunft über Abriss eines Bestandsgebäudes und Bau von Luxuswohnungen im Erhaltungssatzungsgebiet in der Linprunstr. 40
+- TOP .3.: Anbringung eines Radfahrstreifens in der Brienner Straße beidseitig zwischen Königsplatz und Stiglmaierplatz
+- TOP .4.: Rechtsabbiegepfeile (grüne Pfeile) an der LZA Karl-/Luisenstraße, Karl-/Augustenstraße und Karl-/Katharina-von-Bora-Straße
+- TOP .1.: Antrag von Bündnis 90/die Grünen im BA 3 vom 01.02.2016 Vorkaufsrecht in Erhaltungssatzungsgbieten immer wahrnehmen um die Bevölkerungs- struktur zu erhalten. vertagt aus der Sitzung vom 15.03.2016, TOP B 1.2 Unterlage liegen bereits vor
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Antrag der CSU im BA 3 vom 23.03.2016 Zusätzlichen Verdrängungsindikator ?Studenten? als Kriterium für die Ausweisung von Er- haltungssatzungsgebieten aufnehmen
+- TOP .4.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 29.03.2016 Ausgleichszahlung für Bäume erhöhen
+- TOP .5.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 29.03.2016 Schulbauoffensive 2013-2020, hier Berufsoberschule Brienner Straße 37
+- TOP .6.: Antrag der SPD im BA 3 vom 26.03.2016 Wohnungsbau durch städtische Wohnungsbaugesellschaften in der Dachauer Straße 90
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 4., 5. KW
+- TOP .2.: Schleißheimer Straße 25 Sanierung und erweiterung des Dachgeschosses im VGB: Erneuerung des Dachstuhls mit geänderter Dachneigung, Einbau von Gauben und eines Galeriegeschosses, Erneue- rung und Erweiterung Balkone, Einbau eines freistehenden Personenaufzugs.
+- TOP .3.: Steinheilstraße 11 Neubau eines Wohngebäudes
+- TOP .4.: Liste der Bauvorhaben der LBK: 9., 10., 11., 12. KW
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Zieblandstraße 43, ein Nadelbaum
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: 4.1 Haus an der Gabelsbergerstraße (KMFV-Männerwohnheim)
+- TOP .2.: Neubau für den Nachbarschaftstreff Arnulfpark
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Genehmigungsbescheid Baumfällung Heßstraße 77
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Heute nicht für gestern planen 5; intelligente bauliche Lösungen für den Schallschutz Antrag Nr. 14-20 / A 1495 der Stadtratsfraktion Bündnis 90/Die Grünen vom 27.10.2015 Sitzungsvorlage Nr. 14-20 / V 04973 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage A) Studien zu energetischen Standards vorstellen Antrag Nr. 14-20 7 A 01470 div. Mitglieder des Stadtrates vom 22.10.2015 B) Kostengünstig bauen in einer Großstadt ? Modellprojekt der GWG Sitzungsvorlage Nr. 14-20 / V 04989 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadt- rates im Zeitraum vom 07.07.2015 bis 31.12.2015 Sitzungsvorlage Nr. 14-20 7 V 05467, Sitzungsvorlage Nr. 14-20 / V 05466 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 öffentliche und nicht öffentliche Sitzung
+- TOP .1.: Antrag der SPD im BA 3 vom 08.03.2016 Ausweichradstrecke zur Nymphenburger Straße, durchgehend Tempo 30 ab Einmündung Gümbelstraße in die Blutenburgstraße
+- TOP .2.: Antrag der SPD im BA 3 vom 08.03.2016 Sicherheit für Fußgänger an der Kreuzung Pappenheim-/Karl-, bzw. Blutenburgstraße stadtauswärts
+- TOP .3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 10.01.2016 Tempo 30 in der Karlstraße zwischen Seidl- und Luisenstraße vertagt aus der Sitzung vom 15.03.2016 Unterlagen liegen bereits vor
+- TOP .4.: Antrag Bündnis 90/Die Grünen im BA 3 vom 10.01.2016 Begrünung im Bereich der Abbiegespuren Karl-/Ecke Pappenheimstraße vertagt aus der Sitzung vom 15.03.2016 Unterlagen liegen bereits vor
+- TOP .5.: Antrag der SPD im BA 3 vom 14.03.2016 Unterstützung der Konzeptstudie des Vorsitzenden des BA 12 Schwaing-Freimann zur ?Platzoffensive Siegestor? vertagt aus der Sitzung vom 15.03.2016 Unterlagen liegen bereits vor
+- TOP .6.: Antrag der CSU im BA 3 vom 23.03.2016 Einrichtung einer Ladestation für E-Taxis
+- TOP .7.: Antrag der SPD im BA 3 vom 26.03.2016 Erleichterung des Fußgängerflusses in der Augustenstraße Ecke Schellingstraße
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Haltverbote Erika-Mann-Straße, Verschwenkungsbereich, Anhörung
+- TOP .2.2: Öffentlicher Raum
+- TOP 1.2.: Gabelsberger Straße 63 Ecke Augustenstraße gegenüber der Commerzbank Widerruf der Sondernutzungserlaubnis für mobile Zeitungsverkaufseinrichtungen aus Gründen der Verkehrssicherheit
+- TOP 1.2.3: Gaststätten
+- TOP 1.1.: Schellingstraße 42, Genehmigung einer Freischankfläche (Unterlagen liegen bereits vor)
+- TOP 1.2.: Dachauer Straße 28, Genehmigung einer Freischankfläche
+- TOP 1.3.: Schellingstraße 115/Ecke Augustenstraße: Genehmigung einer Freischankfläche
+- TOP 1.4.: Schleißheimer Straße 77, Erweiterung einer bestehenden Freischankfläche
+- TOP 1.2.4: Veranstaltungen
+- TOP 1.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Vergabeverfahren für den Kulturstrand 2016 am Vater-Rhein-Brunnen Erfahrungen der Bezirksausschüsse mit den vier Bewerbern - Bewertungsbogen
+- TOP 1.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro ?München liest aus verbrannten Büchern? am 10.05.2016
+- TOP 1.1.: Toilette im Maßmannpark
+- TOP 1.2.: Eröffnungsfest Josephsplatz
+- TOP 1.3.: Ortstermin ?Norkauerplatz?
+- TOP 1.1.: Baumaßnahmen der Stadtwerke a)Theresien- und Arcisstraße, Wasser b) Ottostraße u. Prinz-Ludwig-Straße, Strom u. Fernwärme
+- TOP 1.2.: Kreisverwaltungsreferat, Verkehrsanordnungen Haltverbot zur Sicherstellung polizeilicher Aufgaben in der Barer Straße
+- TOP 1.3.: Baureferat, Beschlussvorlage Radlstammstrecke ausbauen und fertigstellen Antrag Nr. 14-20 / A 01550 div. Stadtratsfraktionen vom 19.11.2015 Sitzungsvorlage Nr. 14-20 / V 05205 Beschluss des Bauausschusses vom 05.04.2016
+- TOP 1.1.: Antrag des Kinder- und Jugendbeauftragten des BA 3 vom 23.03.2016 Spielgeräte und Sitzgelegenheiten für den Maßmannpark
+- TOP 1.2.: Antrag des UA Soziales und Bildung im BA 3 vom 29.03.2016 Einsicht in die Pläne zur Sanierung der beruflichen Schulen
+- TOP 1.1.: Baureferat, Gartenbau Kunstrasen für den Bolzplatz Blutenburgstraße BA-Antrag Nr. 14-20 / B 1690 des BA 3 vom 13.10.2015, TOP A 6.1/022016
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen für alle a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge b) Anpassung des Finanzbedarfs im MIP 2015 ? 2019 und Finanzhaushalt 2016 Sitzungsvorlage Nr. 14-20 / V 05437 Beschluss der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP 1.2.: Sozialreferat, Beschlussvorlage Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich ?Förderung freier Träger? a) des Sozialreferates/Zentrale b) des Amtes für Soziale Sicherung d) des Stadtjugendamtes e) des Amtes für Wohnen und Migration Sitzungsvorlagen Nrn: 14-20 / V 05336, 05326, 05364, 05344 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung von 05.04.2016
+- TOP 1.3.: Information zum geplanten Standort für Flüchtlinge Karlstraße 20 ? 22 Schreiben des Sozialreferates vom 23.03.2016
+- TOP 1.1.: Veranstaltung zum Tag der Opfer des Nationalsozialismus
+- TOP 1.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.1.: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: Direktorium, Beschlussvorlage, Unterrichtung Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landes- hauptstadt München Sitzungsvorlage Nr. 14-20 / V 05128 Beschluss der Vollversammlung des Stadtrates vom 25.02.2016
+- TOP 1: (E) Bessere Ausstattung der Bus- und Straßenbahnhaltestellen im Museumsviertel (desolater Zustand, Abfalleimer) Empfehlung Nr. 14-20 / E 00660 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 22.10.2015
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen und Anhörungen
+- TOP 1.3.: Aktuelle Sachstandsberichte
+- TOP 1.4.: Unterrichtungen
