@@ -1,0 +1,6 @@
+# TOP 9.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Verbandsgemeinderates Westerburg (2016-04-12)
+- Körperschaft: Verbandsgemeinde Westerburg
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-5582%7Czt_9%7C2
