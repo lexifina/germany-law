@@ -1,0 +1,91 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-04-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 03.03.16
+- TOP 1.4.2.: Protokoll UA Kultur vom 16.03.16
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Anlegung eines Fuß- und Radweges entlang der Würm bis zur Höhe der Rückseite des Allacher Friedhofes
+- TOP 2.2.: Verschmutzung Containerstandort Von-Reuter-Str.
+- TOP 2.3.: Container-Standort Von-Reuter-Straße / Allacher Straße
+- TOP 2.4.: Parkplätze rund um die Kirche Maria Himmelfahrt
+- TOP 2.5.: Feinstaubbelastung Eversbuschstraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Bauleitplanung der Gemeinde Karlsfeld Bebauungsplan Nr. 98 Jägerstraße / Allacher Straße Verfahren nach §§ 13a, 3 Abs. 2 BauGB
+- TOP 5.2.: Willi-Wien-Str. 32, Gemarkung: Untermenzing, Fl.Nr.: 295/4 An-/ Neubau einer Doppelhaushälfte als Dreifamilienhaus mit Duplex-Garage und Stellplatz und Vollzug der BaumschutzVO
+- TOP 5.3.: Untere Angerlohe 8, Gemarkung: Untermenzing, Fl.Nr.: 501/0 Neubau eines Wohn- und Atelierhauses mit Nebengebäude
+- TOP 5.4.: Maßnahmen zur Erhöhung der Verkehrssicherheit an der Von-Reuter-Straße, BV-Empf. Nr. 00510
+- TOP 5.5.: Kulturstrand 2016 am Vater-Rhein-Brunnen (Stadtratsbeschluss vom 15.12.15) Bekanntgabe Bewerber und Bewerberinnen Beurteilung Referenzen
+- TOP 5.6.: Neubau einer landwirtschaftlichen Bergehalle (Ersatzbau) Eversbuschstr. 169, Gemarkung: Allach, Fl.Nr.: 72/0
+- TOP 5.7.: Neubau einer Wohnanlage (59 WE) mit integrierter Gewerbeeinheit und Großgarage (56 Stpl.) Gerberau,Gemarkung: Allach, Fl.Nr. 1398/0
+- TOP 5.8.: Oertelplatz, Gemarkung: Allach, Fl.Nr.: 1324/78 Errichtung eines Einkaufs- und Dienstleistungszentrum mit Tiefgarage (Hintermeierstr./Oertelplatz)
+- TOP 5.9.: MVG-Leistungsprogramm 2017
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 25.02.16: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München (Sitzungsvorlage Nr. 05128)
+- TOP 6.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.02.16: Hinweis/Ergänzung: Unterflur-Containerstandorte in Neubaugebieten mit planen! (Sitzungsvorlagen Nr. 04859)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.16: a) Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) und imaginäre Verlängerung der Höcherstraße (nördlich) (Aufhebung oder Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) Bekanntgabe des Wettbewerbsergebnisses und weiteres Vorgehen (Bebauungsplan mit Grünordnung Nr. 2103) (Sitzungsvorlage Nr. 05247) b) Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes (Sitzungsvorlage Nr. 03602) c) Hinweis/Ergänzung: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen (Sitzungsvorlage Nr. 03733) d) Hinweis/Ergänzung: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren (Sitzungsvorlage Nr. 03291)
+- TOP 6.4.: Beschluss des Kulturausschusses vom 03.03.16: Neubau eines Stadtteilkulturzentrums und Ertüchtigung des bestehenden Vereinsheims im 23. Stadtbezirk Allach-Untermenzing (Sitzungsvoralge Nr. 05359)
+- TOP 6.5.: Beschluss der Vollversammlung vom 16.03.16: a) Neubau eines Stadtteilkulturzentrums und Ertüchtigung des bestehenden Vereinsheims im 23. Stadtbezirk Allach-Untermenzing (Sitzungsvoralge Nr. 05359) b) Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen (Sitzungsvorlage Nr. 05188)
+- TOP 6.6.: Hinweis/Ergänzung zum Beschluss der Vollversammlung vom 16.03.16: Wohnen für Alle (Sitzungsvorlage Nr. 05437), Hinweis/Ergänzung vom 14.03.16
+- TOP 6.7.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.16: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger": a) des Sozialreferates/Zentrale (Sitzungsvorlage Nr. 05336) b) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 05326) c) des Stadtjugendamtes (Sitzungsvorlage Nr. 05364) d) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 05344)
+- TOP 6.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.16 a) Heute nicht für gestern planen, 5 intelligente bauliche Lösungen für den Schallschutz (Sitzungsvoralge Nr. 04973) b) Beschlussvollzugskontrolle (BVK) (Sitzungsvoralgen Nr. 05467 und 05466) c) Studien zu energetischen Standards vorstellen (Sitzungsvorlage Nr. 04989)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Festlegung des Termins zur Eröffnung des Kultur- und Spielpfades Untermenzing im Mai oder Juni 2017 im Rahmen des Festjahresprogramms 1200 Jahre Menzing
+- TOP 7.2.: Grünfläche am ehemaligen Autobahndamm: Beutelspender und Abfallbehälter
+- TOP 7.3.: Park & Ride Parkplatz am S-Bahn-Haltepunkt Untermenzing
+- TOP 7.4.: Fisch- und Naturlehrpfad entlang der Würm in Allach-Untermenzing (BA-Antrag Nr. 01892)
+- TOP 7.5.: BA-Informationsveranstaltung Sozialreferat am 27.06.16, 18:00 Uhr
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.03.16: Dachauer Str. 667, Fl.Nr. 1409/4, Gemarkung: Allach Neubau eines Forschungs- und Entwicklungsgebäudes mit Büro-, Werkstatt- und Lagerflächen
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (29.02.-06.03.16, 07.03.-13.03.16, 14.03.-20.03.16, 21.03.-27.03.16)
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.03.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Behringstr. 109a
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.03.16: Fällungsbescheid, Mayrstr. 8
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Einzelfällungsanträge: Kirchhoffweg 24, Zittauer Str. 25, Lossenstr. 2, Spiegelbergstr. 27, Krayweg 17, Allacher Str. 144, Eduard-Schwartz-Str. 8, Waldhornstr. 17, Mayrstr. 8, Theodor-Fischer-Str. 54, Schöllstr. 3, Streberstr. 17
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.03.16: Baufibel Aubing
+- TOP 9.7.: Schreiben Direktorium vom 04.03.16: Antrag Nr. 01877 der ÖDP vom 03.03.16: Zuwegung zum Allacher Stadtteilkulturzentrum über die Würm
+- TOP 9.8.: Schreiben Direktorium vom 11.03.16: Weitere MVG-Mietradstationen planen,Antrag 01909 der ÖDP
+- TOP 9.9.: Schreiben Stadtwerke München vom 07.03.16, 14.03.16, 21.03.16, 29.03.16: Baumaßnahmen
+- TOP 9.10.: Schreiben Referat für Arbeit und Wirtschaft vom 20.02.16: Zusätzliche Anbindung des Bahnhofes Karlsfeld
+- TOP 9.11.: Schreiben Baureferat vom 08.03.16: Radweg westlich entlang der Bahngleise nahe dem S-Bahn Haltepunkt Untermenzing
+- TOP 9.12.: Schreiben Baureferat vom 03.03.16: Straßenzustand Mayrstraße, 80997 München
+- TOP 9.14.: Schreiben Referat für Gesundheit und Umwelt vom 10.03.16: Paulaner Brauerei Langwied
+- TOP 9.15.: Schreiben Referat für Gesundheit und Umwelt vom 15.03.16: Tauchen im Langwieder See
+- TOP 9.16.: Schreiben Stadtkämmerei vom 29.02.16: Antwortschreiben des deutschen Städtetages und des bayer. Staatsministeriums der Finanzen bzgl. Antrag "Reduzierung des Mehrwertsteuersatzes auf Mensaessen in Schulen"
+- TOP 9.17.: Schreiben Kreisverwaltungsreferat vom 17.03.16: Antrag auf unveränderte Fortführung der Gaststätte "Zur Deutschen Südseeinsel"
+- TOP 9.18.: Schreiben Sozialreferat vom 16.03.16 und 23.03.16: Antrag auf Zweckentfremdung von Wohnraum, Kirschstr., Fastlingerstr.
+- TOP 9.19.: Schreiben Senioren-Union vom 22.03.16: Stärkung der Bezirke
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Anbindung der Waldkolonie an das öffentliche Verkehrsnetz
+- TOP 10.1.1: Wilhelm-Zwölfer-Str. 28a, nicht geleerte Briefkästen
+- TOP 10.2.: Anhörung: Bergetstr., Gemarkung: Allach, Fl.Nr.: 1399/4 Errichtung eines Dreispänners - VORBESCHEID
+- TOP 10.3.: Verschiedenes: Pflegeheim Franz-Nißl-Straße
+- TOP 10.4.: Weitere Vorgehensweise Diamaltgelände
+- TOP 10.5.: Umlauf: Schreiben Kreisverwaltungsreferat vom 14.03.16: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Naglerstr. 34
+- TOP 10.6.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Einzelfällungsanträge: Zittauer Str. 27
+- TOP 10.7.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (28.03.-03.04.16)
+- TOP 10.9.: Schreiben Stadtwerke München vom 04.04.16: Baumaßnahmen
+- TOP 10.10.: Schreiben Arbeitskreis Industriekultur vom 03.04.16: Fabrikbauten
+- TOP 10.11.: Stadtrats- und Ausschussbeschlüsse: Beschluss der Vollversammlung vom 16.03.16: a) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten- (Sitzungsvorlage Nr. 03291) b) Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit; Organisatorische Anpassung in der HA II im Referat für Stadtplanung und Bauordnung (Sitzungsvoralge Nr. 04459) c) Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017 (Sitzungsvorlage Nr. 05096)
+- TOP 10.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.16: a) A) Strukturkonzept für das sog. "Junkersgelände" B) Bebauungsplan Nr. 2110 Pasteurstr. (südlich), Bahnlinie München-Treuchtlingen (westlich), Ludwigsfelder Straße (nördlich) und Schöllstraße -Aufstellungsbeschluss- C) Teilaufhebung des Aufstellungsbeschlusses Nr. 1751 D) Anträge/Empfehlungen (Sitzungsvorlage Nr. 05512) b) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich südlich Ludwigsfelder Straße (Sitzungsvorlage Nr. 03678)
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Verein ?Bühne 23 e.V.? 2. Jazz-Nacht am 11.06.2016 und Konzert ?Rap meets Klassik? am 09.07.2016
+- TOP 10.8.: Schreiben Baureferat vom 18.09.15: Theodor-Fischer-Straße
