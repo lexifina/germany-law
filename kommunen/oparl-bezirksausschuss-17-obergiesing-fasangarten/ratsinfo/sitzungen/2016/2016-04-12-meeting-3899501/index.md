@@ -1,0 +1,136 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3899501
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3899501
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der September-Sitzung 1.3.2 Protokoll der Oktober-Sitzung 1.3.3 Protokoll der Februar-Sitzung 1.3.4 Protokoll der März-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.3.: Grünspitz, Gabelung Martin-Luther-Straße und Tegernseer Landstraße, Müll und Lärmbelästigung; Bürgerschreiben vom 28.03.2016
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung der SIM Sozialplanung und Quartiersentwicklung - Projekt "Örtliche Teilhabeplanung"
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Hohenschwangaustraße 24, 2 Fichten
+- TOP 3.9.1.2.: Pennstraße 1, 4 Rot-Fichten
+- TOP 3.9.1.3.: Marklandstraße 18, 1 Ahorn
+- TOP 3.9.1.4.: Stettnerstraße 5, 2 Fichten
+- TOP 3.9.1.5.: Raintaler Straße 34, 1 Mehlbeere, 1 Spitzahorn
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Stärkung der Bezirke; Schreiben und Antrag der Senioren-Union der CSU, Kreisverband München IV mit der Bitte um Unterstützung - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Bushaltestelle in der Tegernseer Landstraße / Ecke Wirtstraße; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 4.3.: Aktiv für Erhöhung der Verkehrssicherheit und Steigerung der Attraktivität des Radverkehrs in Giesing; Antrag der SPD-Fraktion - <div>nach Antrag / mit Ergänzung und ohne TOP 3</div>
+- TOP 4.4.: Öffentliche Bücherschränke in Giesing; Antrag der SPD-Fraktion - <div>nach Antrag / mit Änderung (nur ein Bücherschrank)</div>
+- TOP 4.5.: Angsträume vermindern und Aufenthaltsqualität verbessern durch gute Straßen-, Wege- und Platzbeleuchtung, insbesondere an den Sitzgelegenheiten vor dem Kulturzentrum Giesinger Bahnhof bis hin zur Wallbergstraße; Antrag der CSU-Fraktion - <div>nach Antrag</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Giesinger Spielkara- wane 2016; Antragssumme: 1.860,00 ?; Antrag vom 29.03.2016
+- TOP 6: Unterausschüsse
+- TOP 6.1.: Erweiterung der Dependance der Erstaufnahmeeinrichtung München McGraw-Kaserne - Situierung der zusätzlichen Gebäude / Lärmschutz für Anwohner (verwiesen aus der Sitzung vom 08.03.2016 - ohne Vorgang)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Tegernseer Landstraße 205 - 205c, Neubau eines Fahrrad- und Müllunterstands; Anhörung vom 02.03.2016 (vertagt aus der Sitzung vom 08.03.16) 6.1.3.1.2 Tegernseer Landstraße 27, Nutzungsänderung Ladenlokal / Vinothek zu Gaststätte einschl. Verlängerung der Öffnungszeit von 20 auf 22 Uhr; Anhörung vom 10.03.2016 6.1.3.1.3 Hermelinweg 13, Neubau eines Doppelhauses mit Garagen; Anhörung vom 16.03.2016 6.1.3.1.4 Tegernseer Landstraße 135, Nutzungsänderung EG/UG zu einem Laden; Anhörung vom 18.03.2016
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten -; Sitzungsvorlage Nr. 14-20 / V 03291; Hinweis / Ergänzung vom 29.02.2016
+- TOP 0.3.: Chiemgaustraße 66 - 104; Aufstockung und Lärmschutzbebauung mit 116 neuen Wohnungen + Kita - VORBESCHEID; Stellungnahme des BA 17 vom 13.01.2016; Abdruck des Vorbescheids der Lbk vom 09.03.2016
+- TOP 0.4.: Wohnen für Alle a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannten Flüchtlinge b) Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramms 2015-2019 - im Finanzhaushalt 2016; Sitzungsvorlagen Nr. 14-20 / V 05437; Beschluss der Vollversammlung des Stadtrates vom 16.03.2016 zu TOP 6.1.4.4 Hinweis / Ergänzung vom 14.03.2016
+- TOP 0.5.: A) Studien zu energetischen Standards vorstellen; Stadtratsantrag Nr. 14-20 / A 01470 vom 22.10.2015 B) Kostengünstig bauen in einer Großstadt - Modellprojekt der GWG; Sitzungsvorlagen Nr. 14-20 / V 04989; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 06.04.2016 (SB)
+- TOP 0.6.: Heute nicht für gestern planen 5 - Intelligente bauliche Lösungen für den Schallschutz; Stadtratsantrag Nr. 14-20 / A 01495 vom 27.10.2015; Sitzungsvorlage Nr. 14-20 / V 04973; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 06.04.2016 (SB)
+- TOP 0.7.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung u. Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 - 31.12.2015; Sitzungsvorlagen Nr. 14-20 / V 05466; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 06.04.2016
+- TOP 0.1.: Bildungsoffensive 4. Akt; Antrag des BA 13 mit der Bitte um Prüfung aller Bezirksausschüsse, ob Schulen im eigenen Stadtbezirk mit einer ähnlichen Problemstellung konfrontiert sind (vertagt aus der Sitzung vom 08.03.2016)
+- TOP 0.2.: Erweiterung der Dependance der Erstaufnahmeeinrichtung München McGraw-Kaserne - Spielplatzsituation (verwiesen aus der Sitzung vom 08.03.2016 - ohne Vorgang)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017; Sitzungsvorlage Nr. 14-20 / V 05096; Beschluss des Sozialausschusses vom 10.03.2016 (VB) zu 6.2.4.1 Hinweis / Ergänzung vom 26.02.2016
+- TOP 0.2.: Grundschule St.-Martin-Straße - Abschlussbericht zum Projekt "Komm wir finden eine Lösung"
+- TOP 0.3.: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" 6.2.4.3.1 des Sozialreferates / Zentrale; Sitzungsvorlage Nr. 14-20 / V 05336 6.2.4.3.2 des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 14-20 / V 05326 6.2.4.3.3 des Stadtjugendamtes; Sitzungsvorlage Nr. 14-20 / V 05364 6.2.4.3.4 des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 14-20 / V 05344; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfe- u. des Sozialausschusses vom 05.04.2016 (SB)
+- TOP 0.1.: Erweiterung der Dependance der Erstaufnahmeeinrichtung München McGraw-Kaserne - Parkplatzsituation für Anwohner und Beschäftigte der Einrichtung (verwiesen aus der Sitzung vom 08.03.2016 - ohne Vorgang)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Programm barrierefreie Bushaltestellen (ÖPNV-Offensive) - Schlierseestraße, Haltestelle Giesing Bahnhof; Beschluss des BA 17 vom 12.04.2016
+- TOP 0.1.: Bereitstellung zusätzlicher Parkplätze für die KITA "Haus für Kinder" in der Münchberger Straße; Sitzungsvorlage Nr. 14-20 / V 04057; BV-Empfehlung Nr. 14-20 / E 00503 vom 18.06.2015; Beschluss des BA 17 aus der Sitzung vom 13.10.2015; Schreiben des Direktoriums vom 29.02.2016 mit der Bitte um Stellungnahme für eine abschließende Entscheidung des Oberbürgermeisters
+- TOP 0.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kesselberg- straße 6; Zuleitung des KVR mit der Bitte um Stellungnahme bis 06.05.2016
+- TOP 0.1.: Spixstraße; Pkw-Parkzone; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: LSA-Taktung Tegernseer Landstraße zur Wirtstraße (Höhe McDonalds-Filiale); Beschluss des BA 17 aus der Sitzung vom 12.01.2016; Antwortschreiben des KVR vom 22.02.2016
+- TOP 0.3.: Zehentbauernstraße und Weinbauernstraße - ursprüngliche Einbahnstraßenregelung wieder herstellen; BA-Antrag Nr. 14-20 / B 02021 vom 11.02.2016; Antwortschreiben des KVR vom 24.02.2016
+- TOP 0.4.: Einbahnregelung der Traunsteiner Straße zwischen Stadelheimer Straße und Alzstraße in Richtung Norden; Einhaltung von Tempo 30; BA-Antrag Nr. 14-20 / B 01649 vom 08.09.2015; Antwortschreiben des KVR vom 18.02.2016
+- TOP 0.5.: Schließung der Radweglücke an der nordöstlichen Seite der Tegernseer Landstraße; BA-Antrag Nr. 14-20 / B 01392 des BA 17 vom 14.07.2015; Stellungnahme des BA 17 aus der Sitzung vom 08.12.2015; Antwortschreiben des KVR vom 22.02.2016
+- TOP 0.6.: Fuß- und Radwegbrücke am Giesinger Berg - Anmeldung für das Bundesförderungsprogramm "Nationale Projekte des Städtebaus 2016"; Sitzungsvorlagen Nr. 14-20 / V 05609; Beschluss der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP 0.7.: Sofortmaßnahmen zur Reduzierung der Abgas- und Lärmbelastungen für die Bevölkerung am Mittleren Ring im Stadtbezirk 17; BA-Antrag Nr. 14-20 / B 01059 vom 14.04.2015; Sitzungsvorlage Nr. 14-20 / V 05023; Beschluss des Umweltausschusses vom 12.04.2016 (SB)
+- TOP 0.8.: Heckscher-Klinikum in der Deisenhofener Straße 28 - erschwerte Ein- und Ausfahrt aus der Tiefgarage; Beschluss des BA 17 aus der Sitzung ovm 08.12.2015; Zwischennachricht des KVR vom 25.02.2016
+- TOP 0.9.: Verkehrsberuhigung im Umfeld der Ecke Balanstraße und Grenzstraße; Bechluss des BA 17 aus der September-Sitzung; Stellungnahme des KVR vom 25.02.2016
+- TOP 0.10.: Fußweg zwischen Wallbergstraße und Chiemgaustraße für Radverkehr öffnen; BA-Antrag Nr. 14-20 / B 02019 vom 11.02.2016; Antwortschreiben des Baureferats-Gartenbau vom 14.03.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen; Sitzungsvorlage Nr. 14-20 / V 03733; Hinweis/Ergänzung vom 29.02.2016
+- TOP 0.2.: Ersatzpflanzungen im 17. Stadtbezirk; Stellungnahme des BA 17 aus der Februar-Sitzung; Antwortschreiben des Baureferats-Gartenbau vom 26.02.2016
+- TOP 0.3.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Sintpertstraße 9; Genehmigungsbescheid vom 01.03.2016 6.4.4.1.2 Münchberger Straße 29; Genehmigungsbescheid vom 09.03.2016
+- TOP 0.4.: Wallbergstraße - Keine Fällung der Bäume an den Bahngleisen Bürgerschreiben vom 20.12.2015; Antwortschreiben des RAW vom 09.03.2016
+- TOP 0.5.: Unterflur-Container im Bereich St.-Martin-Straße / Ecke Schlierseestraße; Beschluss des BA 17 aus der Februar-Sitzung; Antwortschreiben des AWM vom 14.03.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Spielaktionen in öffentlichen Grünanlagen; hier: Schreiben des Vereins Spiellandschaft Stadt e.V. zu diversen Aktionen im 17. Stadtbezirk laut Aufstellung mit der Bitte um Rückmeldung und offizielle Anhörung des KVR vom 23.02.2016 (vertagt aus der Sitzung vom 08.03.2016)
+- TOP 0.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Ichostraße, Giesinger Kirchplatzfest vom 08.07.2016 bis 10.07.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 15.05.2016
+- TOP 0.1.: Ensemble La Vie - Sachbericht zum Projekt "Giesing - das unterschätzte Viertel" vom Herbst 2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Schwanseestraße 85 - Antrag für Zeitungsentnahmegerät; Beschluss des BA 17 vom 12.04.2016
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für Zeitungsentnahmegeräte in der Tegernseer Landstraße 69, Herzogstandstraße 12, St.-Martin-Straße 38, St.-Bonifatius-Straße 5 und Perlacher Straße 53; Beschluss des BA 17 vom 12.04.2016
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für Zeitungsentnahmegerät in der Schwanseestraße 43; Beschluss des BA 17 vom 12.04.2016
+- TOP 0.4.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Zeitungsentnahmegerät in der Tegernseer Landstraße 36; Beschluss des BA 17 vom 12.04.2016
+- TOP 0.5.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Zeitungsentnahmegerät in der Eintrachtstraße 1; Beschluss des BA 17 vom 12.04.2016
+- TOP 0.1.: 6.6.4.1 Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Alpencafé Point", Alpenstraße 10; Mitteilung vom 15.03.2016 6.6.4.1.2 Café "Eiscafé Ida", Schwanseestraße 81; Mitteilung vom 15.03.2016 6.6.4.1.3 SSW "Barka", Fasangartenstraße 124; Mitteilung vom 23.03.2016 6.6.4.1.4 SSW "Rotwand 1", Rotwandstraße 1; Mitteilung vom 23.03.2016
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der LHM; 1. Vorberatungen in der BA-Satzungskommission vom 14.01.2016 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der LHM; Sitzungsvorlage Nr. 14-20 / V 05128; Beschluss der Vollversammlung des Stadtrates vom 25.02.2016
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.1.: AntragstellerIn: Ensemble La Vie e.V., für die Maßnahme: Projekt ?Giesing ? das unterschätzte Viertel? vom 26.06. bis 01.07.2016; Antragssumme: 5.000,00 ?; Beschlussvorlage des Direktoriums vom 04.03.2016 (FF: UA Kultur)
+- TOP 5.2.: AntragstellerIn: Verein für Sozialarbeit e.V., Familientreffpunkt Giesing, für die Maßnahme: ?Sommer im Park 2016? am 24.06.2016; Antragssumme: 6.085,00 ?; Beschlussvorlage des Direktoriums vom 04.03.2016 (FF: UA Kultur)
+- TOP 5.3.: AntragstellerIn: Isarlust e.V., für die Maßnahme: Projekt ?Play Me, I'm Yours? - Aufstellung von öffentlichen Klavieren vom 01. bis 18.09.2016; Antragssumme: 2.500,00 ?; Beschlussvorlage des Direktoriums vom 16.03.2016 (FF: UA Kultur)
+- TOP 5.4.: AntragstellerIn: Poesieboten e.V., für die Maßnahme: poetischer Adventskalender im ?Untergrund? im Dezember 2016; Antragssumme: 1.200,00 ?; Beschlussvorlage des Direktoriums vom 16.03.2016 (FF: UA Kultur)
+- TOP 5.5.: AntragstellerIn: Elternbeirat der Lincoln Grundschule, für die Maßnahme: Zirkusprojekt vom 04. bis 30.07.2016; Antragssumme: 4.875,00 ?; Beschlussvorlage des Direktoriums vom 29.03.2016 (FF: UA FSA)
+- TOP 5.6.: AntragstellerIn: ?Mädcheninternat ? Initiative zur Vernetzung von Künstlern?, für die Maßnahme: Veranstaltung ?Schnell und Schmutzig Nr. 6? am 13.05.2016; Antragssumme: 870,00 ?; Beschlussvorlage des Direktoriums vom 29.03.2016 (FF: UA Kultur)
+- TOP 2.1.: Buslinien im Bereich der Tegernseer Landsraße; Bürgerschreiben vom 11.03.2016 - <div>Wtl. an die BA's 5, 16 und 18 mit der Bitte um Stellungnahme - WV</div>
+- TOP 2.2.: Schlierseestraße - Verstoß gegen das Taubenfütterungsverbot; Bürgerschreiben vom 10.03.2016
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
