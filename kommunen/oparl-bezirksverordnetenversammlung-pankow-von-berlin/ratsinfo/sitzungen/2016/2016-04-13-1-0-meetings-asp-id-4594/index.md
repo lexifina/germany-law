@@ -1,0 +1,77 @@
+# 39. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-04-13T17:30:00+02:00
+- Ende: 2016-04-13T19:50:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4594
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4594
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=71826
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Bebauungsplan 3-46 vom 15. Januar 2014 für den südöstlichen Teil des Grundstücks Robert-Rössle-Straße 10 im Bezirk Pankow, Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Bezirksgrenzänderung geringer Bedeutung der Bezirke Pankow und Mitte im Bereich des Mauerparks - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: TTIP, CETA und TiSA ablehnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Beleuchtung der beliebten Grünfläche am Weißen See sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Information der Anwohner*innen bei Spielplatz-Sperrung weiter verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Grundstück an der Busonistraße 133 als Grünfläche sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Fuß- und Radwegeverbindung über die Panke in Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Mehr Information über den Leistungsbereich der Krankenhilfe - in der BVV abgelehnt
+- TOP 1.16: Handlungskonzept zur Reduzierung der offenen Widersprüche gegen das JobCenter - in der BVV abgelehnt
+- TOP 1.17: „Work for Refugees- Refugees for Work“ bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verbesserung des ÖPNV nach Rosenthal - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Florakiez vom Durchgangsverkehr entlasten und Haltestellensituation am S+U-Bahnhof Pankow verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Straßenentwässerung in der Krontaler Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Integration ermöglichen – Regionale Gegebenheiten und Anforderungen bei den Planungen für Flüchtlingsunterkünfte berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Teilhabekonzept für Menschen mit Beeinträchtigungen im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Besonders schutzbedürftige Geflüchtete in feste Wohnunterkünfte! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Städtebauliche Entwicklungen an der Straße 69 in 13125 Berlin-Karow - mit Änderungen in der BVV beschlossen
+- TOP 1.25: Gesundheitsversorgung für obdach- bzw. wohnungslose Menschen gewährleisten und ausbauen - überwiesen
+- TOP 1.26: Standort-Prüfung für Flüchtlingsunterkünfte zügig abschließen - überwiesen
+- TOP 1.27: Notunterkunft für schutzbedürftige Flüchtlinge einrichten - überwiesen
+- TOP 1.28: Bedarfsprüfungen für die ergänzende Betreuung im offenen Ganztagsbetrieb abschaffen! - überwiesen
+- TOP 1.29: Reinigung der Jugendverkehrsschule Pankow von sog. Graffiti - mit Änderungen in der BVV beschlossen
+- TOP 1.30: Mehr Transparenz in dem örtlichen Beirat des JobCenters - überwiesen
+- TOP 1.31: Weniger Müll auf und am Spielplatz Rhinower Straße 6 - überwiesen
+- TOP 1.32: Ausbau des Fahrrad-Nebenroutennetzes in Pankow - überwiesen
+- TOP 1.33: Temporäre Ausstellung „Filmstadt Weißensee“ dauerhaft im Rathaus Weißensee einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Verbesserung der Querverbindung des ÖPNV vom OT Wilhelmsruh über OT Rosenthal zum OT Blankenfelde - überwiesen
+- TOP 1.35: Erweiterung der Vorhaben- und Projektliste - überwiesen
+- TOP 1.36: Unfallsicherheit bei Einfassungen von Baumscheiben wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Integration von Geflüchteten auf dem Arbeitsmarkt - überwiesen
+- TOP 1.38: Verbesserung der Haltestellen- und Umsteigesituation einschließlich Aufstellung einer Wartehalle im Haltestellenbereich Rosenthal Nord - überwiesen
+- TOP 1.39: Bordsteinabsenkung im Kissingenviertel - überwiesen
+- TOP 1.40: Schutz von wildlebenden Tieren in Zirkussen - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Defibrillatoren in Pankows bezirkseigenen Einrichtungen stationieren - mit Änderungen in der BVV beschlossen
+- TOP 1.42: Mehr Transparenz in der Trägerversammlung des JobCenters - überwiesen
+- TOP 1.43: Information zu Frauenrechten, zu Rechten von Lesben, Schwulen & Transgender und zu Minderheitenschutz für Geflüchtete - überwiesen
+- TOP 1.44: Religionsfreiheit schützen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Personalentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Brandschutz an Pankower Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Personalnotstand in der Stadtbibliothek Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Gedenkort für das ehemalige Krankensammellager Blankenfelde Nord - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Erhöhung der Barrierefreiheit in den bezirklichen Gebäuden und bei Veranstaltungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Erhöhung der Verkehrssicherheit in der Hauptstraße in Wilhelmsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Verbesserung der Verkehrssicherheit an der Richard-Ermisch-Straße/Hermann-Blankenstein-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Notunterkünfte in Sporthallen als allerletzte Alternative - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Zentrale Spendenannahme - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Parkordnung im verkehrsberuhigten Bereich in der Greifenhagener Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Aufstellung des Bebauungsplans XVIII 24 4 für das Grundstück Ingwäonenweg 100 im Bezirk Pankow, Ortsteil Karow, zur Änderung des Bebauungsplans XVIII 24, festgesetzt durch Verordnung vom 05.01.1995 (GVBI. S. 11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Vorhabenbezogener Bebauungsplan 3-48 VE für Teilflächen der Grundstücke Blankenburger Straße 18-28 westlich des Schmöckpfuhlgrabens sowie für die Anbindung dieser Flächen an die Blankenburger Straße über Teilflächen der ehemaligen Industriebahntrasse und des Grundstücks Blankenburger Straße 17 im Bezirk Pankow, Ortsteil Heinersdorf;- Änderung der Geltungsbereiche des vorhabenbezogenen Bebauungsplans 3-48 VE und der Bebauungspläne XVIII-39a und XVIII-39b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Benennung eines öffentlichen Platzes im Ortsteil Niederschönhausen in „Selma- und Paul-Latte-Platz“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Berufung eines neuen Mitgliedes für den Frauenbeirat beim BA Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
