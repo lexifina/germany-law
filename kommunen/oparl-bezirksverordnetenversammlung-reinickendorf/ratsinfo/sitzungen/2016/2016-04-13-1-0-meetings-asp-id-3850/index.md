@@ -1,0 +1,86 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-04-13T17:00:00+02:00
+- Ende: 2016-04-13T20:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3850
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3850
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=88703
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 51. Sitzung der BVV am 13.04.2016 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 51. Sitzung der BVV am 13.04.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 51. Sitzung der BVV am 13.04.2016 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretende Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Bericht Rechtsextremismus in Reinickendorf (als Zwischenbericht) - überwiesen
+- TOP 7.3: Waldweg an der B96 freilegen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Entgeltfreiheit für minderjährige Flüchtlinge in Musikschulen (als Zwischenbericht) - überwiesen
+- TOP 7.5: Kita-Plätze in Reinickendorf - überwiesen
+- TOP 7.6: Arbeiten des Straßen- und Grünflächenamtes auf der Internetseite mittels Arbeitskalenders rechtzeitig ankündigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausstattung von Willkommensklassen - überwiesen
+- TOP 7.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bezirkliche Grünflächenpflege (als Zwischenbericht) - überwiesen
+- TOP 7.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Schülerzahlen der Musikschule erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Bürgerinnen und Bürger sowie BVV bei baulichen Veränderungen im Tegel-Center frühzeitig informieren - überwiesen
+- TOP 7.11: Auf Lokale Allianz für Menschen mit Demenz aufmerksam machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldt-Klinikum, somatischer Bereich, für den Zeitraum 01.01.2015 bis 31.12.2015 - überwiesen
+- TOP 7.13: Jahresbericht des Patientenfürsprechers aus dem Dominikus Krankenhaus für den Zeitraum 01.01.2015 bis 31.12.2015 - überwiesen
+- TOP 7.14: Einstellung des Bebauungsplans XX-293 vom 09. November 1998 mit Deckblättern vom 30. August 2001 und vom 03. Dezember 2001 für das Grundstück Am Springebruch 65 im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 7.15: Leitlinien "Rückwärtige Bebauung in der offenen Bauweise" - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Barrierefreiheit - beantwortet
+- TOP 8.1.1: Barrierefreiheit - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl einer Bezirksbeauftragten bzw. eines Bezirksbeauftragten für Menschen mit Behinderung - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Bolzplatz Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Graspflege "Bei den Wörden" - erledigt
+- TOP 10.3: Hundegarten im Steinbergpark (Wittenau) instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Gartenstadt Frohnau erhalten I - Orientierungshilfe zur Anwendung der Erhaltungsverordnung erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Hundegarten Lübars - Attraktivität weiter steigern ! - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Hundegarten am Seggeluchbecken - Attraktivität weiter steigern ! - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Änderung der Geschäftsordnung - § 39 (2), Einfügung der Absätze 4 und 5 und § 20 (6) und (8) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Eigentümerwechsel Märkisches Zentrum - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Nächtliches Tempo 30 auf der Reginhardstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Beleuchtung Parkplatz Schulfarm - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sportwiese im Steinbergpark ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Informationen der Registerstelle - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Skaterbahnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Stellwerk am S-Bahnhof Tegel sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Anzeige von Anschlussverbindungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Erweiterung BVG-Wartebereich Alt-Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Tempo 30 / Teilbereich Heiligenseestraße - in der BVV abgelehnt
+- TOP 10.18: Ausgaben für IT in schulischen Liegenschaften zukünftig dokumentieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Radständer am S-Bahnhof Hermsdorf instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Ergänzung des § 51 - Einwohnerantrag gem. §§ 42 und 44 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Bezirkliche Kooperation Flohmarkt Markstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Digitalwerkstatt - Mehr digitale Bildung für Kinder - überwiesen
+- TOP 12.3: Jobbörse für Flüchtlinge in Reinickendorf - überwiesen
+- TOP 12.4: Service des Bezirks für junge Eltern verbessern - überwiesen
+- TOP 12.5: Bericht über die Erprobung von PFA anstelle von Kaltasphalt bei Schlaglöchern! - überwiesen
+- TOP 12.6: Beteiligungsplattform meinBerlin nutzen - überwiesen
+- TOP 12.7: Lademöglichkeiten für Elektromobilität auch in privaten Gebäuden ermöglichen - überwiesen
+- TOP 12.8: Kooperation mit einem Müllentsorgungsunternehmen für den Abbau illegaler Altkleidercontainer im öffentlichen Straßenland prüfen - überwiesen
+- TOP 12.9: Casino-Turm denkmalschutzgerecht sanieren, nutzen und öffnen - überwiesen
+- TOP 12.10: Statusbericht des Sanierungsbedarfs Reinickendorfer Schulen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Radständer in der Nordmeile austauschen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Parken für LKW auf der Hermsdorfer Straße einschränken - überwiesen
+- TOP 13.3: Tempo-30-Strecke Waidmannsluster Damm - überwiesen
+- TOP 13.4: Gegenseitige Hinweise auf S- und U-Bahn in Tegel - überwiesen
+- TOP 13.5: Trinkwasserbrunnen in öffentlichen Parkanlagen - überwiesen
+- TOP 13.6: U8 endlich ins Märkische Viertel verlängern - überwiesen
