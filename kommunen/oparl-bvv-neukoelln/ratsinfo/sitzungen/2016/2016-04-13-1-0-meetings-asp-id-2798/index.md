@@ -1,0 +1,100 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-04-13T17:00:00+02:00
+- Ende: 2016-04-13T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2798
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2798
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Bebauungsplan 8-70a ("Harzer Straße / Kiehlufer") - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Veränderungssperre 8-14/30 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Erweiterung QM-Highdecksiedlung - beantwortet
+- TOP 9.2: Mietfrei auf dem Alfred-Scholz-Platz? - beantwortet
+- TOP 9.3: Bauabschnitt Karl-Marx-Straße zwischen Uthmann- und Briesestraße - beantwortet
+- TOP 9.4: Zur Bebauung ungeeignet? - beantwortet
+- TOP 9.5: Katastrophenschutz in Neukölln - beantwortet
+- TOP 9.6: Zirkus auf dem Gelände Karl-Marx-Straße 269-273 - beantwortet
+- TOP 9.7: Kiosk am Europa-Spielplatz - beantwortet
+- TOP 9.8: Wie vertragen sich energetische Vorschriften mit dem Denkmalschutz? - beantwortet
+- TOP 9.9: Marode Brücken in Neukölln? - beantwortet
+- TOP 9.10: Britzer Rosenfest in Gefahr? - beantwortet
+- TOP 9.11: Behindertenparkplätze nach dem Umbau der Karl-Marx-Straße - schriftlich beantwortet
+- TOP 9.12: Gehweg Eichenauer Weg? - schriftlich beantwortet
+- TOP 9.13: Willkommensklassen am Zwickauer Damm - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Aufstellungsbeschluss für soziale Erhaltungssatzungen - in der BVV abgelehnt
+- TOP 10.2: Prekäre Lebenssituationen junger Neuköllner_innen - beantwortet
+- TOP 10.3: Fragen zu den Forderungen zur Änderung des Berliner Kinderschutzgesetz und des SGB VIII - beantwortet
+- TOP 10.4: (Kinder-) und Jugendverbände in Neukölln - beantwortet
+- TOP 10.5: Anlaufstelle LSBTI im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.6: Sachstand zu der Umwidmung der SIWA I Mittel - schriftlich beantwortet
+- TOP 10.7: Veraltete Software - beantwortet
+- TOP 10.8: Ergebnis des Sozialberichts Neukölln 2016 - beantwortet
+- TOP 10.9: Das Bundesministerium zahlt - beantwortet
+- TOP 10.10: Abzocke bei Wohnungen für Geflüchtete? - vertagt
+- TOP 10.11: Küchenplanung für den Rütli-Campus - vertagt
+- TOP 10.12: Gebietsfreistellung - vertagt
+- TOP 10.13: Rücknahme großflächiger Freistellungen bei Sozialwohnungen - vertagt
+- TOP 10.14: Finanzierung der Seniorenfreizeiteinrichtung in Alt-Rudow sichern - mit Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Unhaltbare Zustände in der Rettungsstelle des Klinikum Neuköllns - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Weitere Familienzentren für Nordneukölln - vertagt
+- TOP 11.3: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Genehmigung der im Haushaltsjahr 2014 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Füttern verboten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Zusammenarbeit fördern II - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Informationsveranstaltung Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Islamistische Propaganda an Neuköllner Schulen - vertagt
+- TOP 12.2: PCB-Belastung in Neuköllner Kitas und Schulen - vertagt
+- TOP 12.3: 1000 Wohnungen, aber keine einzige Sozialwohnung? - vertagt
+- TOP 12.4: Haushaltsrisiken im Bezirk?! - vertagt
+- TOP 12.5: Campus Rütli - vertagt
+- TOP 12.6: Flüchtlingsstandorte in Neukölln - vertagt
+- TOP 12.7: Roma Konzept in Neukölln versandet - vertagt
+- TOP 12.8: Kitaplätze in Neukölln - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Betreuung schwangerer Frauen in Flüchtlingsunterkünften - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Patientenkoordinatoren/ -innen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sichere Kreuzungen auf der Blaschkoallee - überwiesen
+- TOP 14.3: Voruntersuchungen durch Aufstellungsbeschlüsse absichern - vertagt
+- TOP 14.4: Defibrillator fürs Rathaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Rücksicht nehmen im Verkehr - überwiesen
+- TOP 14.6: Konzept für Seniorenbeauftragten - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Hundetagesstätte retten - überwiesen
+- TOP 14.8: Ehre, wem Ehre gebührt - überwiesen
+- TOP 14.9: Schwimmsport in Neukölln - überwiesen
+- TOP 14.10: Columbiadamm - überwiesen
+- TOP 14.11: Zweisprachige Formulare für die Schulanmeldung von Kindern Geflüchteter - überwiesen
+- TOP 14.12: Soko Müll - überwiesen
+- TOP 14.13: Kindertagesstätten bei den Flüchtlingsunterkünften - überwiesen
+- TOP 14.14: Bußgelder für illegale Müllentsorgung erhöhen - überwiesen
+- TOP 14.15: Finanzierung der Flüchtlingsarbeit des DAZ - überwiesen
+- TOP 14.16: Polyglotte Neuköllner Schulen - überwiesen
+- TOP 14.17: Förderfähige Wohnungen in städtebaulichen Vertrag festschreiben - überwiesen
+- TOP 14.18: Benennung neuer Bibliothek nach Margarete Kubicka - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Berliner Aktionsprogramm gegen Ambrosia - auch in Neukölln! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Beratungsangebot vom DAZ fortsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Zusammenarbeit fördern I - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Jugendeinrichtung Alt Buckow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Seniorenfreizeitstätte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Bebauungsplan 8-55B ("Heideläuferweg") - mit Abschlussbericht zur Kenntnis genommen
