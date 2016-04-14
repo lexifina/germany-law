@@ -1,0 +1,7 @@
+# TOP 3: Bericht des Bezirksamtes
+
+- Sitzung: 43. (öffentliche) Sitzung des Ausschusses für Arbeit, Soziales und Gesundheit (2016-04-14)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=40168
+- Ergebnis: erledigt
