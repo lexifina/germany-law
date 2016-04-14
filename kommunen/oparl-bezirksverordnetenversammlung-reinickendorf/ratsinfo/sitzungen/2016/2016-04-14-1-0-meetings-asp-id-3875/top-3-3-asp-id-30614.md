@@ -1,0 +1,8 @@
+# TOP 3.3: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-31 vom 14. Oktober 2014 mit Deckblatt vom 26. Oktober 2015 für Teilflächen des Grundstücks Bernauer Straße 151 im Bezirk Reinickendorf, Ortsteil Tegel
+
+- Sitzung: 40. öffentliche Sitzung des Ausschusses für Bauwesen und Stadtplanung (2016-04-14)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=30614
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=30614
