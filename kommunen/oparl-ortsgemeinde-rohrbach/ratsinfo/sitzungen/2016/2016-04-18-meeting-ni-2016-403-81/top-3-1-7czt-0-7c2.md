@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 11. Sitzung des Bauausschusses (Dorfentwicklung und -verschönerung) der Ortsgemeinde Rohrbach (2016-04-18)
+- Körperschaft: Ortsgemeinde Rohrbach
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2016-403-81%7Czt_0%7C2
