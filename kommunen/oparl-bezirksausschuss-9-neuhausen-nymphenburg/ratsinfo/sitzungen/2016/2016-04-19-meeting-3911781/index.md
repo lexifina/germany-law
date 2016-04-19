@@ -1,0 +1,132 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2016-04-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3911781
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3911781
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der Sitzung vom 15.03.2016
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.5.: (E) Budget der Bezirksausschüsse Initative "Kultüren" Veranstaltung "Kultüren" am 22./23.10.2016 - Beantragter Zuschuss: 3.240,- ?
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Unterausschuss für Verkehr
+- TOP 3.1.: (E) Fahrradstellplätze an der Donnersbergerbrücke - Empfehlung Nr. 14-20 / E 00843 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 26.11.2015
+- TOP 3.2.: (E) Verlegung der Haltelinie für Radfahrer an der Kreuzung Arnulfstr. / Landshuter Allee - Empfehlung Nr. 14-20 / E 00798 der Bürgerversammlung des 9. Stadtbezirkes - Neuhausen-Nymphenburg am 26.11.2015
+- TOP 3.3.: CSU: Parkbuchten an Nymphenburger Straße - Kurzparkzonen statt eingeschränktem Haltverbot
+- TOP 3.4.: Bürgeranliegen: Haltverbot in der Karl-Schurz-Straße
+- TOP 3.5.: UA: Nachtabschaltung Ampelanlage Renatastr. / Wendl-Dietrich-Straße
+- TOP 3.6.: Ersatz-Streckenführungen und Haltestellenpositionen des Ersatzverkehrs für die Tram 20 / 21
+- TOP 3.7.: MVG-Leistungsprogramm 2017 - Anhörung der Bezirksausschüsse
+- TOP 3.8.: KVR: Spartenabfrage Radwege Wotanstraße
+- TOP 3.9.: Verkehrskonzept Am Hirschgarten
+- TOP 3.10.: Baustellenverkehr im Falle des Baus der Zweiten Stammstrecke
+- TOP 3.11.: Verkehrssituation an der Rosa-Bavarese-Straße
+- TOP 3.12.: Herstellung eines Radwegs auf der Südseite der Baldurstraße (zwischen Nederlinger Straße und Dantestraße) - Teil I des Antrags
+- TOP 3.13.: KVR: Beschilderung am Lily-Braun-Weg
+- TOP 3.14.: MVG: Streckenverlauf der Buslinie 151
+- TOP 3.15.: Baureferat: Behelfstreppe zur Friedenheimer Brücke
+- TOP 3.16.: Schleichweg Haneberg-/Johann-Schmaus-/Braganzastraße
+- TOP 3.17.: SWM: Baustellen der Stadtwerke München
+- TOP 3.18.: KVR: Einrichtung eines allgemeinen Behindertenparkplatzes in der Dantestr. 22
+- TOP 3.19.: KVR: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Donnersbergerstraße 45
+- TOP 3.20.: Baureferat: Radlstammstrecke ausbauen und fertigstellen (Sitzungsvorlagen Nr. 14-20 / V 05205 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4: Unterausschuss für Bau und Planung
+- TOP 4.1.: Bürgeranliegen: Überbauung des Parkplatzes am Dantebad
+- TOP 4.2.: Bürgeranliegen: Wettbüro in der Schulstraße 1
+- TOP 4.3.: Bürgeranliegen: Gebäudeleerstand in der Südlichen Auffahrtsallee
+- TOP 4.4.: LBK: Anita-Augspurg-Allee - Neubau Strafjustizzentrum
+- TOP 4.5.: LBK: Amperstraße 10 - Neubau eines Einfamilienhauses mit 2 Garagen
+- TOP 4.6.: LBK: Dall'Armistr. 69 - Nachtrag einer Villa in die bayrische Denkmalliste
+- TOP 4.7.: LBK: Margarethe-Danzi-Str. 21 - Erweiterung der Sporthalle
+- TOP 4.8.: LBK: Walhallastraße 36 - Neubau einer Wohnanlage mit TG
+- TOP 4.9.: Anfrage zu Bauten des Industriezeitalters im Stadtbezirk
+- TOP 4.10.: LBK: Sadelerstraße 27 - Antwortschreiben zu BA-Beschluss vom 16.02.2016
+- TOP 4.11.: LBK: Bautennachweise vom 22.02.2016 ? 03.04.2016
+- TOP 4.12.: Planungsreferat: Aufhebung des Bebauungsplans Nr. 104 - Lachnerstraße 28 - Beteiligung der Öffentlichkeit: Planungsdarlegung vom 24.03. mit 26.04.2016
+- TOP 4.13.: A) Studien zu energetischen Standards vorstellen - Antrag Nr. 14-20 / A 01470 vom 22.10.2015 B) Kostengünstig bauen in einer Großstadt - Modellprojekt der GWG (Sitzungsvorlagen Nr. 14-20 / V 04989 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.14.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 - 31.12.2015 - Bereich Planungsreferat (Sitzungsvorlagen Nr. 14-20 / V 05466 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.15.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 - 31.12.2015 - Bereich Wohnungsunternehmen (Sitzungsvorlagen Nr. 14-20 / V 05467 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.16.: Planungsreferat: Veränderungssperre Nr. 665 - Lachnerstraße 26 & 28 - (Sitzungsvorlagen Nr. 14-20 / V 05476 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.17.: Wohnen für Alle a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge b) Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015-2019 - im Finanzhaushalt - (Sitzungsvorlagen Nr. 14-20 / V 05437 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.18.: Planungsreferat: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB - Satzungsbeschluss Erhaltungssatzung "Neuhausen" - Anhörung zu Sitzungsvorlagen Nr. 14-20 / V 05526, unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de
+- TOP 4.19.: Heute nicht für gestern planen 5 - Intelligente bauliche Lösungen für den Schallschutz - Antrag Nr. 14-20 / A 01495 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 27.10.2015 - (Sitzungsvorlagen Nr. 14-20 / V 04973 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 5: Unterausschuss für Umweltfragen
+- TOP 5.1.: SPD: Gestaltung des Spielplatzes am Posseltplatz
+- TOP 5.2.: Anträge auf Baumfällungen - Bäumlstraße 9 - Herthastr. 47 - Maria-Ward-Str. 11 - Romanstr. 78-82 - Savoyenstr. 26 - Volkartstr. 57
+- TOP 5.3.: Taxispark - Öffentliche Grünfläche - Projektkosten - 1. Bedarfs- und Konzeptgenehmigung - 2. Projektauftrag - 3. Standortsuche für den Verein "Ans Werk" (Sitzungsvorlagen Nr. 14-20 / V 05404 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 5.4.: Teilöffnung Taxispark für 2016 vorbereiten und sicherstellen
+- TOP 5.5.: Schloss- und Gartenverwaltung: Abbrucharbeiten auf dem Gelände des künftigen Taxisparks
+- TOP 5.6.: LBK: Lierstraße 9 - Baumfällung
+- TOP 5.7.: RGU: Nächtliche Arbeiten im Zuge der Sanierungsarbeiten am U-Bahnhof Westfriedhof
+- TOP 5.8.: RGU: Verbot von Laubbläsern bzw. Regelungen für deren Handhabung - (Sitzungsvorlagen Nr. 14-20 / V 05254 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 5.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Unterausschuss für Soziales und Integration
+- TOP 6.1.: (E) Budget der Bezirksausschüsse InitiativGruppe ? FiBS ? Frauen in Beruf und Schule 20 Jahre FiBS ? Präsentation und Jubiläumsfeier am 20.04.2016
+- TOP 6.2.: (E) Budget der Bezirksausschüsse Spiellandschaft Stadt e.V. - Spiel- und Werkangebote im Juni und September 2016
+- TOP 6.3.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. - Tanz- und Theaterfestival Rampenlichter vom 19.07. - 24.07.2016
+- TOP 6.4.: (E) Budget der Bezirksausschüsse KJR München-Stadt - Erprobung einer Imkerei von April bis September 2016
+- TOP 6.5.: (E) Flüchtlinge und HelferInnen in der Wotanstraße Willkommen heißen - Empfehlung Nr. 14-20 / E 00794 vom 26.11.2015
+- TOP 6.6.: CSU-Anfrage: Ohne positive Schufa-Auskünfte keine günstigen Stromtarife?
+- TOP 6.7.: Bürgeranliegen: Zu geringe Berücksichtigung der Senioren im Viertel
+- TOP 6.8.: KVR: Spielaktionen des Mütter-Väter-Zentrums Neuhausen e.V. auf dem Spielplatz Ecke Lazarett-/Thorwaldsenstraße von April bis Oktober
+- TOP 6.9.: KVR: Familienspielnachmittag des Mütter-Väter-Zentrums Neuhausen e.V. auf dem Spielplatz Ecke Lazarett-/Thorwaldsenstraße am 02.07.2016
+- TOP 6.10.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017 - Produkt 60 5.4.2.3 - Interessenvertretung für ältere Menschen durch den Seniorenbeirat - (Sitzungsvorlagen Nr. 14-20 / V 05096 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 6.11.: Treff Mosaik - Kurzbericht, Verwendungsnachweis BA-Budget
+- TOP 6.12.: Bericht Interkulturelles Projekt
+- TOP 6.13.: Sachstand Planungen der Unterkünfte
+- TOP 7: Unterausschuss für Kultur
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Initative "Kultüren" - Veranstaltung "Kultüren" am 22./23.10.2016
+- TOP 7.2.: (E) Budget der Bezirksausschüsse - Tanztendenz München e.V. - Veranstaltung "STANDPUNKT.e / 'welcome to my world'" vom 27.05. - 05.06.2016
+- TOP 7.3.: (E) Budget der Bezirksausschüsse - mädcheninternat - Initiative zur Vernetzung von Künstlern - Veranstaltung "Schnell & Schmutzig Nr. 5" am 21.04.2016
+- TOP 7.4.: (E) Budget der Bezirksausschüsse - mädcheninternat - Initiative zur Vernetzung von Künstlern - Veranstaltung "Schnell & Schmutzig Nr. 7" am 09.06.2016
+- TOP 7.5.: (E) Budget der Bezirksausschüsse Initiative "Niwenhaus" Gestaltung der Unterführung Dom-Pedro-/Landshuter Allee
+- TOP 7.6.: (E) Budget der Bezirksausschüsse - Initiative "Skatesounds" - Projekt "Skatesounds: share the bowl" am 21.06.16
+- TOP 7.7.: UA: Sachstand: Gestaltung von zwei Unterführungen an der Landshuter Allee ? ggf. Beschlussfassung zu Eigenanteil aus BA-Mitteln (vertagt aus der Märzsitzung)
+- TOP 7.8.: FW: Errichtung eines Mahn- bzw. Denkmals an der Dachauer/Schwere-Reiter-Straße
+- TOP 7.9.: Namensgebung Hilblestraße: Bürgeranliegen zu
+- TOP 7.10.: KVR: Ausschreibungs- und Vergabeverfahren zu Veranstaltungen
+- TOP 7.11.: Koordinierungsstelle für das Kreativquartier - Antwortschreiben des Kommunalreferats
+- TOP 7.12.: Weitere finanzielle Unterstützung des Widerstandsdenkmals am Platz der Freiheit durch die Landeshauptstadt München - Empfehlung Nr. 14-20 / E 00847 der Bürgerversammlung am 26.11.2015 (Sitzungsvorlagen Nr. 14-20 / V 05851 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 7.13.: Verwendungsnachweise BA-Budget: - Verein zur Förderung bulgarischer Musik - Johanniter-Unfall-Hilfe e.V. - Geschichtswerkstatt Neuhausen
+- TOP 8: Unterausschuss für Bildung und Sport
+- TOP 8.1.: CSU: Umsetzung der Verpflegung der Kinder und Jugendlichen in den Kindertageseinrichtungen und Schulen gemäß den städtischen Beschlüssen
+- TOP 8.2.: CSU: Sportentwicklungsplanung in Neuhausen-Nymphenburg beginnen!
+- TOP 8.3.: SPD: Errichtung eines Schulgartens für die Rudolf-Diesel-Realschule
+- TOP 8.4.: KVR: Skateboardworkshop des RBS im Juli, August und September 2016 im Skatepark Hirschgarten
+- TOP 8.5.: Schulcampus Albrechtstraße
+- TOP 8.6.: RBS: Zügige Sanierung der Hirschbergschule
+- TOP 9: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1.: (E) Gebühren für Straßen-, Vereins- und Schulfeste Empfehlung Nr. 14-20 / E 00805 der Bürgerversammlung
+- TOP 9.2.: (E) Schutz bei Haustürgeschäften / Schutz bei Haustürwerbung - Empfehlung Nr. 14-20 / E 00803 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 26.11.2015 - Empfehlung Nr. 14-20 / E 00804 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 26.11.2015
+- TOP 9.3.: Termin der Junisitzung des BA
+- TOP 9.4.: Kommunalreferat: Vorübergehende gewerbliche Nutzung einer öff. Fläche an der Dachauer / Schwere-Reiter-Straße
+- TOP 9.5.: KVR: SPD-Sommerfest am 20.08.2016 auf dem Rotkreuzplatz
+- TOP 9.6.: KVR: Public Viewing im Hirschgarten - Biergarten am 26. oder 27.04. und am 03. oder 04.05.2016 (ChampionsLeague)
+- TOP 9.7.: KVR: Public Viewing im Hirschgarten - Biergarten vom 10.06. - 10.07.2016 (EM 2016)
+- TOP 9.8.: BA-Budget: Verwendungsnachweise, Kurzberichte und Schriftverkehr
+- TOP 9.9.: Unveränderte Fortführung von Gaststättenbetrieben: - Horemanstr. 30 ("Marbella") - Lachnerstr. 1 ("Neuhauser Wohnküche")
+- TOP 9.10.: Bericht zum Termin Sicherheitswacht
+- TOP 10: Verschiedenes
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse InitiativGruppe ? FiBS ? Frauen in Beruf und Schule 20 Jahre FiBS ? Präsentation und Jubiläumsfeier am 20.04.2016 - Beantragter Zuschuss: 1.140,- ?
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Spiellandschaft Stadt e.V. Spiel- und Werkangebote im Juni und September 2016 - Beantragter Zuschuss: 1.666,- ?
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Tanz- und Theaterfestival Rampenlichter vom 19.07. - 24.07.2016 - Beantragter Zuschuss: 3.000,- ?
+- TOP 2.3.4.: (E) Budget der Bezirksausschüsse KJR München-Stadt Erprobung einer Imkerei von April bis September 2016 - Beantragter Zuschuss: 1.425,- ?
+- TOP 2.3.6.: (E) Budget der Bezirksausschüsse Tanztendenz München e.V. Veranstaltung "STANDPUNKT.e / 'welcome to my world'" vom 27.05. - 05.06.2016 - Beantragter Zuschuss: 4.500,- ?
+- TOP 2.3.7.: (E) Budget der Bezirksausschüsse mädcheninternat - Initiative zur Vernetzung von Künstlern Veranstaltung "Schnell & Schmutzig Nr. 7" am 09.06.2016 - Beantragter Zuschuss: 1.060,- ?
+- TOP 2.3.8.: (E) Budget der Bezirksausschüsse mädcheninternat - Initiative zur Vernetzung von Künstlern Veranstaltung "Schnell & Schmutzig Nr. 5" am 21.04.2016 - Beantragter Zuschuss: 1.000,- ?
+- TOP 2.3.9.: (E) Budget der Bezirksausschüsse Initiative "Niwenhaus" Gestaltung der Unterführung Dom-Pedro-/Landshuter Allee - Beantragter Zuschuss: 4.500,- ?
+- TOP 2.3.10.: (E) Budget der Bezirksausschüsse Initiative "Skatesounds" Projekt "Skatesounds: share the bowl" am 21.06.2016 - Beantragter Zuschuss: 1.800,- ?
+- TOP 1: (E) Fahrradstellplätze an der Donnersbergerbrücke Empfehlung Nr. 14-20 / E 00843 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 26.11.2015
+- TOP 2: (E) Verlegung der Haltelinie für Radfahrer an der Kreuzung Arnulfstr. / Landshuter Allee Empfehlung Nr. 14-20 / E 00798 der Bürgerversammlung des 9. Stadtbezirkes - Neuhausen-Nymphenburg am 26.11.2015
+- TOP 3: (E) Flüchtlinge und HelferInnen in der Wotanstraße Willkommen heißen Empfehlung Nr. 14-20 / E 00794
+- TOP 4: (E) Schutz bei Haustürgeschäften Empfehlung Nr. 14-20 / E 00803 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 26.11.2015 Schutz bei Haustürwerbung Empfehlung Nr. 14-20 / E 00804 der Bürgerversammlung des Stadtabezirkes 9 -Neuhausen-Nymphenburg am 26.11.2015
+- TOP 5: (E) Gebühren für Straßen-, Vereins- und Schulfeste
