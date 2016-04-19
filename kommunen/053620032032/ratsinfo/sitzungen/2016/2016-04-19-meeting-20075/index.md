@@ -1,0 +1,59 @@
+# Ausschuss für Stadtplanung und Verkehr (12. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-04-19T17:00:00+02:00
+- Ende: 2016-04-19T19:13:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZU4bPfXvc-gMOGcVpNjoppU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20075
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXzYp_Hj3m1GVDaRCSn-M98kKA9EhNmEN47L3O-O-mo7/Bekanntmachung_Ausschuss_fuer_Stadtplanung_und_Verkehr_19.04.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRO52KEE174mhrOMQGTt7G9VM5i7U6dONe0xkTiYv4Qn/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_19.04.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Umbesetzung von Arbeitskreisen
+- TOP 2.1: Umbesetzung von Ausschüssen und Arbeitskreisen; hier: Antrag der CDU-Fraktion
+- TOP 2.2: Umbesetzung des Arbeitskreises Verkehrsplanung und Verkehrssicherheit und des Arbeitskreises ÖPNV hier: Antrag der FDP-Fraktion
+- TOP 2.3: Umbesetzung des Arbeitskreises Verkehrsplanung und Verkehrssicherheit und des Arbeitskreises ÖPNV hier: Antrag der SPD-Fraktion
+- TOP 2.4: Umbesetzung von des Arbeitskreises Verkehrsplanung und Verkehrssicherheit hier: Antrag des ADFC Rhein-Erft
+- TOP 2.5: Besetzung des Arbeitskreises Verkehrsplanung und Verkehrssicherheit hier: beratende Mitgliedschaft des Behindertenbeirates
+- TOP 3.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 4.: Umsiedlung Manheim
+- TOP 5.: Stadtentwicklung
+- TOP 5.1: Stellungnahme der Kolpingstadt Kerpen zur 24. Änderung des Regionalplanes, Teilabschnitt Region Köln, hier: Neudarstellung eines Gewerbe - und Industrieansiedlungsbereiches für zweckgebunden Nutzung Autohof, Stadt Elsdorf
+- TOP 5.2: Grundsatzbeschluss zum Einzelhandels- und Zentrenkonzept der Kolpingstadt Kerpen
+- TOP 5.3: Neufassung der Satzung der Kolpingstadt Kerpen über die Ablösung von Stellplätzen
+- TOP 5.4: Wohnraum für Flüchtlinge und Asylsuchende
+- TOP 5.5: Konzept für sozialgerechte Bodennutzung und Planung in Kerpen
+- TOP 5.6: Sozialer Wohnungsbau in Eigenregie
+- TOP 6.: Bauleitplanung
+- TOP 6.1: Abschluss eines städtebaulichen Vertrages zur Umgestaltung des Marktplatzes im Stadtteil Türnich - (kein Text vorhanden)
+- TOP 6.2: Abschluss eines städtebaulichen Vertrages zur Finanzierung von baulichen Verbesserungsmaßnahmen im Bereich des Denkmalplatzes im Stadtteil Brüggen - (kein Text vorhanden)
+- TOP 6.3: 75. Änderung des Flächennutzungsplanes "Sondergebiet Nahversorgungszentrum/ zentraler Versorgungsbereich Brüggen - Heerstraße", Stadtteil Brüggen – Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.4: Abschluss eines Erschließungsvertrages zum Bebauungsplan BR Nr. 356 "Eifelstraße/Heerstraße" - (kein Text vorhanden)
+- TOP 6.5: Teilaufhebung der Bebauungspläne Nr. 27 und Nr. 27/3. Änderung, Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.6: Vorhabenbezogener Bebauungsplan SI 359 "Hahner Äcker West" Stadtteil Sindorf hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB i.V. mit § 12 BauGB Einleitungsbeschluss - (kein Text vorhanden)
+- TOP 6.7: Abschluss eines städtebaulichen Verpflichtungsvertrages im Rahmen des vorhabebezogenen Bebauungsplanes SI Nr. 359 "Hahner Äcker West" - (kein Text vorhanden)
+- TOP 6.8: Bebauungsplan BL 297 "Haagstraße", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB
+- TOP 6.9: Abschluss einer städtebaulichen Planungsvereinbarung für den Bereich des Bebauungsplanes BL Nr. 297 "Haagstraße"
+- TOP 7.: Verkehrsplanung
+- TOP 7.1: Niederschrift der 5. Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit vom 09.03.2016
+- TOP 7.2: Endausbau des Radweges an der Stiftsstraße zum EKZ Langenich
+- TOP 7.3: Lärmschutzgutachten Buir - Zwischenbericht des Gutachters
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Sachstände Kreisel Heppendorfer Straße und Umbau Areal vor KSK Sindorf; hier: Anfrage der SPD-Fraktion
+- TOP 9.2: Umbenennung des "Jamaikaplatzes" in "Marga und Walter Boll-Platz"
+- TOP 9.3: Begrünung der A4-Schallschutzwände im Stadtteil Götzenkirchen hier: Anfrage der Fraktion DIE LINKE vom 31.03.2016
+- TOP 9.4: Archäologische Tätigkeiten im Kelzer Busch/Sophienhöhe (Landschaftsschutzgebiet) hier: Anfrage der SPD-Fraktion
+- TOP 9.5: Stadtentwicklung – Infrastruktur für Entrepreneuere in Kerpen hier: Anfrage der Fraktion DIE LINKE vom 12.04.2016
+- TOP 9.6: Aufstellung herausnehmbarer Poller an der Kreissparkasse Köln, Kerpener Straße im Stadtteil Sindorf
+- TOP 9.7: Erweiterung der Kiesgrube Nowotnik in Richtung Niederbolheim
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
