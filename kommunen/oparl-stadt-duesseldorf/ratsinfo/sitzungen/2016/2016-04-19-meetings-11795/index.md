@@ -1,0 +1,52 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-19T17:00:00+02:00
+- Ende: 2016-04-19T20:40:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11795
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11795
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00263942.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00263942.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00263942.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Vorstellung des Projekts "Sport im Park" - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen aus der Bürgerschaft an die Bezirksvertretung 3 - zur Kenntnis genommen
+- TOP 7: Information über erfolgte Zuschussvergaben - zur Kenntnis genommen
+- TOP 8: Verkehrszählung in Hamm - mehrheitlich beschlossen
+- TOP 9: Hammer Straße - mehrheitlich beschlossen
+- TOP 10: Moorenstraße - Überweg - einstimmig beschlossen
+- TOP 11: Kleinkinderspielplatz Freizeitanlage Ulenbergstraße - einstimmig beschlossen
+- TOP 11.1: Haltestellen der Linie 704 - einstimmig beschlossen
+- TOP 12: Barrierefreier Ausbau der Stadtbahnhaltestellen - vertagt
+- TOP 13: Haltestelle „Sonnenstraße“ der Linie 715 in Richtung D-Unterrath - zur Kenntnis genommen
+- TOP 14: Baumschnitt-Arbeiten im Auftrage der Deutschen Bahn an städtischen Bäumen in der Gustav-Poensgen-Str - zur Kenntnis genommen
+- TOP 15: Übergang / Aufgang Floragarten, Bachstraße - vertagt
+- TOP 16: Verkehrskonzept Bachstr./Benzenbergstr./Kronprinzenstr. - vertagt
+- TOP 17: Parken auf dem Ernst-Reuter-Platz - zur Kenntnis genommen
+- TOP 18: Bauzeitenplanung und Eröffnung der Flüchtlingsunterkunft „Auf´ ´m Tetelberg“ in Bilk - zur Kenntnis genommen
+- TOP 19: Adersstraße 22; Abrissarbeiten auf dem Grundstück - zur Kenntnis genommen
+- TOP 20: Suitbertusstraße 127-129 - zur Kenntnis genommen
+- TOP 21: Oberbilker Markt; Litfaßsäule - vertagt
+- TOP 22: Fernbusbahnhof - zur Kenntnis genommen
+- TOP 23: Oertelstraße; Beschilderung - vertagt
+- TOP 24: Lessingplatz; Platzmängel - vertagt
+- TOP 24.1: Entwicklungskonzept Hafen - zur Kenntnis genommen
+- TOP 24.2: Standorte für Ladestationen und Car Sharing auf - vertagt
+- TOP 24.3: Gebäude Hafen - zur Kenntnis genommen
+- TOP 24.4: Bushaltestellen im Stadtbezirk - vertagt
+- TOP 25: Schulhofgestaltung Realschule Florastraße - zur Kenntnis genommen
+- TOP 26: Realschule Färberstraße; IPads - zurückgezogen
+- TOP 27: Umwidmung von Kinderspielplätzen in den Stadtbezirken 1, 3, 8, 9 und 10 - zur Kenntnis genommen
+- TOP 28: Friedrich-/Breite-/Kasernen-/Elisabethstraße-Provisorische Markierung Radwege - zur Kenntnis genommen
+- TOP 29: Cyanid-Grundwasserverunreinigung Friedr./Karlstadt - Erricht. Grundwassersanierungsanl. - Info - zur Kenntnis genommen
+- TOP 30: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
