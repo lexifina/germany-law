@@ -1,0 +1,114 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-04-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784056
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784056
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Falckenbergstr. 1, Nutzungsänderung, Stehkonzert für 500 Personen Spielhalle / Kammer 2
+- TOP 7.2.: Karlsplatz 7-8, Abbruch und Neubau eine Wohn- und Geschäftshauses Karlsplatz 7 / RGB mit Anbau an das Wohn- und Geschäftshaus Karlsplatz 8 inkl. Umbau und Nutzungsänderung - TEKTUR
+- TOP 7.3.: Promenadeplatz 2, Palaishalle: Nutzungsänderung Halle zu Veranstaltungsraum und Errichtung einer Glaskuppel
+- TOP 7.4.: Platzl 9, Überdachung der Terrasse im Innenhof
+- TOP 7.5.: Theatinerstraße 7, Umbau Mietbereich, Nutzungsänderung Lagerflächen, Verkauf UG, EG und 1.OG, Umbau der Eingangsanlage, Schaufenster und Lichtkuppel über 1.OG
+- TOP 7.6.: Gewürzmühlstraße 8, Teilabbruch und Neuerrichtung des Daches (4. OG) mit teilweiser denkmalpflegerischer Wiederherstellung der Dachlandschaft ? Vorbescheid (Gewürzmühlstraße 8 / Sternstraße 3 / Thierschstraße 48), Vertagung aus 2016.03 B 3.1.6, Eingang Antwort Lokalbaukommission
+- TOP 7.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8.: Knöbelstraße 29, Nutzungsänderung: Kapelle zu Wohnfläche, Errichtung einer Terrasse und Aufstockung um ein Geschoss
+- TOP 7.9.: Hildegardstr. 8, Umbau und Nutzungsänderung von Sprachenschule in Wohnraum (1. OG) sowie in Büro (EG) hier: DG-Ausbau zu Wohnung, Aufzugsanbau an der Südfassade, Balkonerweiterung (1.-3. OG), Umbau/Nutzungsänderung bzw. Rückführung in Wohnungen (EG, 2./3. OG) und Büros (EG/1. OG) - Tektur
+- TOP 7.10.: Müllerstraße 42, Nutzungsänderung: Ehem. Hypo-Vereinsbank-Filiale zu kunstorientierter Bar, Schank- und Speisewirtschaft mit regelmäßigen Kleinkunst-, Theater- und Varietedarbietungen- Tektur
+- TOP 7.11.: Rindermarkt 13 - 14; Rindermarkt 13: Abbruch und Neubau eines Geschäftshauses; Rindermarkt 14: Abbruch und Neubau eines Geschäftshauses inkl. Wohnung
+- TOP 7.1.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2108, Hildegard-, Hochbrücken,- und Neuturmstraße (Änderung des Bebauungsplanes Nr. 387) und Thomas-Wimmer-Ring zwischen Knöbel- und Kanalstraße (Teiländerung der Bebauungspläne Nrn. 31bc und 1376)
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Genehmigung einer Freischankfläche, Gaststätte ?Restaurant Tian?, Frauenstraße 4 (war 2015.12 C 2.1.2)
+- TOP 7.2.: Antrag auf Erweiterung einer Freischankfläche, Gaststätte ?Caffe Classico?, Prälat- Zistl-Straße 12, 80331 München (vertagt aus 2016.03 C 2.1.1), Ortstermin
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Genehmigung der Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund, Firma ?Tchibo GmbH?, Rosental 9
+- TOP 7.2.: Genehmigung der Aufstellung von zusätzlichen Verkaufseinrichtungen auf öffentlichem Grund, "Oma' s Köstlichkeiten", Sendlinger Straße 49
+- TOP 7.3.: Genehmigung der Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, "GARIBALDI GmbH", Burgstraße 2
+- TOP 7.1.: (E) Lärmbelästigung durch gastronomische Betriebe Empfehlung Nr. 14 - 20 / E 00821 aus der Bürgerversammlung des Stadtbezirkes 1 -Altstadt-Lehel- am 03.12.2015
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Veranstaltung, DGB-Veranstaltung zum 01.05.2016, Marienplatz mit Rosenstraße, Kaufingerstraße und Prunkhof im Rathaus
+- TOP 7.2.: Veranstaltung, Pfarrfest St.-Anna-Straße am 26.06.2016 Erzdiözese München und Freising / Französisch Katholische Gemeinde
+- TOP 7.3.: Veranstaltung, Japanfest im Englischen Garten am 17.07.2016
+- TOP 7.4.: Veranstaltung, Europatag am 13.05.2016, Marienplatz
+- TOP 7.5.: konfessionelle Veranstaltung, Stadtmaiandacht am 03.05.2016, Marienplatz
+- TOP 7.6.: Infoveranstaltung der Münchner Tafel am 21.05.2016 auf dem Odeonsplatz
+- TOP 7.7.: Veranstaltung, Lange Nacht der Musik am 30.04.2016 auf dem Odeonsplatz
+- TOP 7.8.: Veranstaltung Kulturstrand 2016 am Vater-Rhein-Brunnen - Vergabeverfahren des Kreisverwaltungsreferates - Bekanntgabe Bewerber und Bewerberinnen, Prüfung Referenzen und Akzeptanz im Stadtviertel (Eilentscheidung)
+- TOP 7.9.: konfessionelle Veranstaltung, Große Fronleichnamsprozession mit Gottesdienst ab Marienplatz am 26.05.2016
+- TOP 7.10.: Veranstaltung, Bayerische Woche der Geodäsie am 26.07.2016 auf dem Odeonsplatz
+- TOP 7.11.: Veranstaltung, Oper für alle am 09.07.2016 auf dem Marstallplatz und am 31.07.2016 auf dem Max-Joseph-Platz
+- TOP 7.12.: Veranstaltung, Kapellenstraße - Tag der offenen Tür des Erzbischöflichen Ordinariats am 30.04.2016
+- TOP 7.13.: Veranstaltung Weihnachtsdorf in der Residenz vom 21.11. bis 22.12.2016
+- TOP 7.14.: konfessionelle Veranstaltung, Orthodoxe Karfreitagsprozession und Auferstehungsfeier Salvatorplatz am 29. und 30.04.2016
+- TOP 7.15.: Veranstaltung, 11. Lesbisches Angertorstraßenfest am 02.07.2016
+- TOP 7.1.: Bürgeranliegen der Anwohner von Christoph- und Seitzstraße, BRK Einsatzfahrzeuge im Lehel, Lärm in der Nacht und am Tag, Behandlung nach Ortstermin (vertagt aus 2015.11 D 1.6)
+- TOP 7.1.: Absolutes Haltverbot Unsöldstraße 9
+- TOP 7.2.: Leistungsprogramm 2017 der MVG (Fahrplanwechsel Dezember 2016)
+- TOP 7.1.: Street-Workout-Anlage im Stadtbezirk 1, vgl. 2016.03 E 1.1, Prüfung Konzept
+- TOP 7.2.: Antrag: Einführung einer Kinder- und Jugendsprechstunde oder -versammlung
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Stärkung der Bezirke - Bitte eines Bürgers um Unterstützung mittels Schreiben an die CSU Fraktion und Schreiben an Herrn Oberbürgermeister Reiter
+- TOP 0.2.: Unterbringung von Flüchtlingen, Meldung von Immobilien im Stadtbezirk 1; vgl. 2015.09 A 5.1, Antwortschreiben des Sozialreferates vom 23.03.2016
+- TOP 0.3.: WLAN-Hotspot in den BA-Geschäftsstellen, Schreiben des Direktoriums vom 04.04.2016
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bescheid, Ausnahmegenehmigung Baustelle Marienplatz 22 / Rindermarkt ? Phase 2
+- TOP 0.3.: Information der Unteren Denkmalschutzbehörde, ?Denkmalschutz in München? / ?Solaranlagen - Denkmalschutz?
+- TOP 0.4.: Mitteilung der Lokalbaukommission / Untere Denkmalschutzbehörde: Keine Einwände bezüglich des Bauvorhabens Mannhardtstraße 7 (war 2016.01 B 3.1.3)
+- TOP 0.5.: Wohnen für Alle ? Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge - Anpassung des Finanzbedarfs incl. Hinweis/Ergänzung vom 14.03.2016, Sitzungsvorlage Nr. 14-20 / V 05437, Beschluss der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP 0.6.: Leerstandsmeldung Knöbelstraße 10, Zwischenmitteilung vom 17.03.2016 und Antwortschreiben des Sozialreferates vom 30.03.2016
+- TOP 0.7.: Beschlussvollzugskontrolle (BVK), Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 ? 31.12.2015, Sitzungsvorlagen Nr. 14-20 / V 05466
+- TOP 0.8.: A) Studien zu energetischen Standards vorstellen Antrag Nr. 14-20 / A 01470 vom 22.10.2015 B) Kostengünstig bauen in einer Großstadt ? Modellprojekt der GWG, Sitzungsvorlagen Nr. 14-20 / V 04989
+- TOP 0.9.: Heute nicht für gestern planen, 5 Intelligente bauliche Lösungen für den Schallschutz, Antrag Nr. 14-20 / A 01495 vom 27.10.2015, Sitzungsvorlagen Nr. 14/20 / V 04973
+- TOP 0.10.: Bauvorhaben St.-Anna-Str. 16: Abbruch und Neubau eines Wohnhauses mit 2 Untergeschossen ? Kopie des Vorbescheids vom 30.03.2016
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Informationsschreiben des Kreisverwaltungsreferats zu Maßnahmen zur Lärm- und Schmutzminderung in der Müllerstraße
+- TOP 0.6.: Antwortschreiben des Bürgers, Bürgeranliegen Gestaltung der Unterführung Emil-Riedel-Straße / Widenmayerstraße
+- TOP 0.7.: Befristete Gaststättenkonzession für eine Schank- und Speisewirtschaft, ?Praterstrand? auf der Praterinsel 3-4 vom 09.05.2016-04.09.2016, Veranstaltungskonzept
+- TOP 0.8.: Eilentscheidung des Vorsitzenden zu den Veranstaltungen: - DGB-Veranstaltung zu Leiharbeit und Werkverträgen am 09.04.2016 auf dem Odeonsplatz - Beschlussentwurf Fussgängerzone Sendlinger Straße - Veranstaltung in Grünanlagen "Kicklusion" am 10.04.2016 Marienhof
+- TOP 0.9.: Veranstaltung auf öffentlichem Verkehrsgrund: Winterliche Veranstaltung im Innenhof des Isartors, Beschluss des Kreisverwaltungsausschusses, Sitzungsvorlage Nr. 14-20/V 05732
+- TOP 0.1.: Planfeststellung für den Neubau einer 2. S-Bahn Stammstrecke, Planfeststellungsabschnitt 2 München Mitte, Bereich Westseite Karlsplatz bis westliches Isarufer mit Haltepunkt Marienhof Spartenverlegung Marienhof
+- TOP 0.2.: Antwortschreiben des Kreisverwaltungsreferats zu Bürgeranliegen Schrägparkplätze in der Oettingenstraße
+- TOP 0.3.: Zwischennachricht des Referats für Stadtplanung und Bauordnung zu Bürgerversammlungs Empfehlung Nr. 14-20 / E 00810, Verkehrsführung und Fahrräder am Isartorplatz
+- TOP 0.4.: Verkehrsrechtliche Anordnung, Einrichtung eines Behindertenparkplatzes am St.-Jakobs Platz 12
+- TOP 0.5.: Antwortschreiben einer Bürgerin, Verkehrssituation in der Prälat-Zistl-Straße
+- TOP 0.6.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Thierschstraße 29 und Adelgundenstraße zwischen Mannhardtstraße und Thierschstraße
+- TOP 0.7.: Verkehrsrechtliche Anordnung, Freigabe des Radverkehrs in der Fußgängerzone zu Nachtzeiten
+- TOP 0.8.: Verkehrsrechtliche Anordnung, Max-Joseph-Platz - Außer kraft setzen Busanfahrtszone aufgrund Opernfestspiele im Zeitraum 25.06. - 31.07.2016
+- TOP 0.9.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzkäfers (ALB); Verzicht auf Rodungen, Empfehlung Nr. 14 - 20 / E 00627 der Bürgerversammlung des Stadbezirkes 15 am 08.10.2015, Sitzungsvorlage Nr. 14 - 20 / V 05188, Beschluss der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP 0.10.: Verbesserungsvorschlag für die Verkehrsproblematik in der Landschaftstraße, vgl. 2016.03 D 1.1, Antwortschreiben des Kreisverwaltungsrefarates vom 29.03.2016
+- TOP 0.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Pläne zur Tram-Nordtangente weiter verfolgen, Sitzungsvorlagen Nr. 14 - 20 / V 04690, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2016
+- TOP 0.12.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Sendlinger Straße - Verkehrsversuch, Sitzungsvorlagen Nr. 14 - 20 / V 04380, 3. Hinweis / Ergänzung vom 24.03.2016 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2016
+- TOP 0.13.: Stolpersteine im BA 1 Gebiet
+- TOP 0.1.: Verwendungsnachweis, Theater des Hölzernen Gelächters, Sommertheater Produktion
+- TOP 0.2.: Bewilligungsbescheid, Budgetantrag von MobilSpiel e.V.
+- TOP 0.3.: Zusschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich ?Förderung freier Träger? des Sozialreferates/ Zentrale, des Amtes für Soziale Sicherung, des Stadtjugendamtes und des Amtes für Wohnen und Migration, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 05.04.2016
+- TOP 0.4.: Sitzungsvorlage Nr. 14-20/ V 05096, Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung, Beschluss der Vollversammlung vom 16.03.2016
+- TOP 7.1.: BA-Antrag, Erneuerung des Bodenbelags vor dem Haus der Kunst
+- TOP 7.16.: Veranstaltung, Französicher Markt auf dem Rindermarkt, 18.05-21.05.2016
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt Play Me, I'm Yours - Aufstellung von öffentlichen Klavieren vom 01.09. - 28.09.2016
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Kultur & Spielraum e.V. Historisches Spielprogramm am 11./12.06.2016
+- TOP 7.4.: (E) Budget der Bezirksausschüsse Isarlust e.V. Veranstaltung "Temporäres Isarflussbad" am 03.07.2016
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
