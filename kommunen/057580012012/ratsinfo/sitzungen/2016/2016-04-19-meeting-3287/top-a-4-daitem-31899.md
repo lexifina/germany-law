@@ -1,0 +1,7 @@
+# TOP A.4: Niederschrift über die Sitzung des Behindertenbeirates vom 28.01.2016
+
+- Sitzung: Behindertenbeirat (8. Sitzung) (2016-04-19)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/31899
+- Beschluss (Datei): Infotext (Niederschrift über die Sitzung des Behindertenbeirates vom 28.01.2016) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZRBU9R47gpXW30JQwPMpLJzJO40ZdKA-lN2i148jeLu/Infotext_TOP_A.4_-oeffentlich-_Beirat_fuer_Menschen_mit_Behinderungen_19.04.2016.pdf
