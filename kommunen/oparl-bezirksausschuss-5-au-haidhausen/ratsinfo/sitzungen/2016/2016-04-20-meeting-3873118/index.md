@@ -1,0 +1,105 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-04-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3873118
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3873118
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .1.: Nutzung des "Maxwerks" in den Maximiliansanlagen (Englischer Garten, Südteil) - <div>Zustimmung mit Ergänzungen und Weiterleitung</div>
+- TOP .2.: Zahlen zum Radverkehr - <div>Zustimmung und Weiterleitung</div>
+- TOP .3.: Pfosten an der Sckellstraße erneuern - <div>Zustimmung und Weiterleitung</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Noel Cafe, Metzstr. 8 - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Laufwasserkraftwerk der SWM - Maxwerk in den Maximiliansanlagen (TOP A 8.1.2 vom 16.03.2016) - <div>zur Kenntnis genommen</div>
+- TOP .2.: Regerstraße am Südring: Radverkehrsanlage wiederherstellen - <div>zur Kenntnis genommen</div>
+- TOP .3.: Verkehrssicherheit in der Franz-Prüller- Straße - <div>zur Kenntnis genommen</div>
+- TOP .4.: Erneuerung der Lichtzeichenanlage Innere Wiener Straße/Höhe Stubenvollstraße
+- TOP .5.: Schadstoffbelastung des Bodens mit krebserregenden PAK Verbindungen- Paulaner Gelände - <div>zur Kenntnis genommen</div>
+- TOP .6.: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2015-2019 (Investitionsliste 3, Einzelplan 0, Investition 0640.405, Kinder- und Jugendtreff Au) - <div>zur Kenntnis genommen</div>
+- TOP .7.: Absolutes Haltverbot in der Sieboldstraße vor der Einmündung Barnabasstraße
+- TOP .8.: Berichte zu Verkehrsunfällen - <div>zur Kenntnis genommen</div>
+- TOP .9.: Änderung der Sondernutzungssatzung - <div>zur Kenntnis genommen</div>
+- TOP .10.: Fahrradständer am Maria-Theresia-Gymnasium
+- TOP .11.: Vorantreiben des Verfahrens zur Schaffung von Räumen für den Hort an der Flurschule - <div>zur Kenntnis genommen</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Schulwegsicherheit im Umgriff der Grundschule in der Bazeillestraße 8 Bürgerschreiben vom 14.12.2015 an den BA 5
+- TOP .2.: Einsteinstr. 28, Grundstückskauf der städtischen Gesellschaft Münchner Volkshochschule Antwortschreiben des Kommunalreferats vom 16.03.2016
+- TOP .3.: Container für die Flurstraße Antwortschreiben des Referats für Bildung und Sport vom 03.03.2016
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .3.: Graffiti in der Flurstraße, Bürgeremail vom 20.03.2016 Antwort des Referates für Gesundheit und Umwelt vom 04.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Dollmanstraße 1-5, Falkenstraße 35; Ablehnung der beantragten Fällung einer Robinie - <div>zur Kenntnis genommen</div>
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Vorstellung des Relief-Entwurfs für die Erinnerungstafel "Josef Schülein" durch den Künstler Toni Preis im Atelier an der Lassallestr. 54 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Sitzung des Unterausschusses "Kultur und Freizeit" im Haidhausen-Museum, Kirchenstraße 24
+- TOP 8.1.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung/ Wahl der Seniorenvertretung 2017 Sitzungsvorlage Nr. 14-20 / V 05096 Beschluss des Sozialausschusses vom 10.03.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Grundschule am Mariahilfplatz18 Anpassung der ursprünglichen Planung für ein Freiluftklassenzimmer Ecke Ohmüller-/Falkenstraße - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.2016 (SB) Sitzungsvorlage Nr. 14-20 / V 05336 - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jungendhilfeausschusses und des Sozialausschusses vom 05.04.2016 Sitzungsvorlage Nr. 14-20 / V 05326 - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.2016 (SB) Sitzungsvorlage Nr. 14-20 / V 05364 - <div>zur Kenntnis genommen</div>
+- TOP 8.6.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gmeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 05.04.2016 (SB) Sitzungsvorlage Nr. 14-20 / V 05344 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Antrag auf Betriebszeitverlängerung auf 01:00 Uhr der Schank- und Speisewirtschaft "Kirr Royal", Rosenheimer Str. 30 - <div>nach Antrag</div>
+- TOP 8.2.: Weißenburger Platz, Veranstaltung im Freien in einer städtischen Grünanlage Fahrradbeleuchtungsaktion des ADFC München e. V. am 04.06.2016 - <div>nach Antrag</div>
+- TOP 8.3.: Postwiese, Veranstaltung im Freien in einer städtischen Grünanlage Skateboard-Aktion des Referats für Bildung und Sport, Juli bis September 2016 - <div>nach Antrag</div>
+- TOP 8.4.: Kulturstrand 2016 am Vater-Rhein-Brunnen (Stadtratsbeschluss vom 15.12.2015) Bekanntgabe Bewerber und Bewerberinnen Beurteilung Referenzen und Akzeptanz bei Anwohnerinnen und Anwohnern im Stadtviertel - <div>auf das UA Protokoll wird verwiesen</div>
+- TOP 8.5.: Teil-Nutzungsänderung der Betriebsräume des Maxwerks zu einer Gaststätte mit Freischankfläche ( 85m²) mit Teilumbau und Sanierung, Max-Planck-Str. 2 VORBESCHEID (TOP B V 2.3)
+- TOP 8.6.: Antrag für Abstellflächen für Fahrräder zum verleih und/oder für Stadtführungen Neue Variante nach Einwendungen Ohlmüllerstraße 5, Spurwechsel GmbH - <div>nach Antrag</div>
+- TOP 8.1.: Erlaubnis von Filmaufnahmen auf öffentlichen Grund am 05.04.2016/Orleansplatz - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Kurzberichte und Verwendungsnachweise: KMFV, Gestaltung der Weihnachtsfeier an Heilig Abend 2015 Adelgundenheim, Kauf von Haushaltsgegenständen für betreute Jugendliche - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Unveränderte Fortführung von Gaststättenbetrieben: Kleingaststätte "Can Kardesler", Rosenheimer Str. 90 Schank- und Speisewirtschaft "Melissa Bar", Einstreinstr. 185 Schank- und Speisewirtschaft "Solo Pizza", Bereiteranger 18 Schankwirtschaft "Sortie Bar & Lounge", Rosenheimer Str. 82 Schank- und Speisewirtschaft "Burger House", Lothringer Str. 7 Kleingaststätte "Kultpub 28", Kirchenstr. 28 Cafe "Cafe Villa Stuck", Prinzregentenstraße 60 - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Verwendungsnachweis Zuschüsse: Kath. Männerfürsorgeverein Mü e.V. Isarlust e.V. - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Widerrrufsbescheid Miteinander.Füreinander.Das Sozialwerk Widerrruf des Bewilligungsbescheides vom 11.08.2015 für die Gewährung eines Zuschusses aus dem Budget des BA 5 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Falkenstr. 40a, Fl. Nr. 3950/0, Wohnraumerweiterung durch Anbau eines Wintergartens - <div>nach Antrag</div>
+- TOP 8.2.: Belfortstr. 14, DG-Ausbau zu einer Wohnung einschl. Gaubenausbildung + Loggien
+- TOP 8.3.: Max-Planck-Straße 2, Teil-Nutzungsänderung der Betriebsräume des Maxwerks zu einer Gaststätte mit Freischankfläche (85qm) mit Teilumbau und Sanierung- VORBESCHEID (TOP B IV 2.5)
+- TOP 8.4.: Asamstraße 25, Nachlegalisierung des Bestands: 3 statt 2 Wohnungen im DG sowie Ausbau des Spitzbodens - <div>nach Antrag</div>
+- TOP 8.5.: Belfortstraße 6-8, Errichtung einer Dachterrasse vor vorhandener Gaube des Rückgebäudes - <div>nach Antrag</div>
+- TOP 8.6.: Kirchenstraße 89a, Nutzungsänderung: KfZ- Werkstatt zu Virtual-Reality-Zentrum - <div>nach Antrag</div>
+- TOP 8.1.: Innere Wiener Str. 40, Fl. Nr. 17102/0 Ausbau (DG - 4. OG) mit Zusammenlegung / Umbau von 2 WE im 3. OG (Rückgebäude), Herstellen von Fluchtleiter und Dachterrrasse (3. OG) Akt - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Wohnen für Alle a) Schaffung von zusätzlichen, dauerhaften Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge b) Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015-2019 - im Finanzhaushalt 2016 Beschluss der Vollversammlung des Stadtrates vom 16.03.2016 Sitzungsvorlagen Nr. 14-20 / V 05437 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Heute nicht für gestern planen 5 Intelligente bauliche Lösungen für den Schallschutz Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 (SB) Sitzungsvorlage Nr. 14-20 / V 04973 - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Beschlussvollzugskontrolle: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015-31.12.2015 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 Sitzungsvorlagen Nr. 14-20 / V 05466 - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Beschlussvollzugskontrolle: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015-31.12.2015 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 Sitzungsvorlagen Nr. 14-20 / V 05467 - <div>zur Kenntnis genommen</div>
+- TOP 8.6.: A) Studien zu energetischen Stadards vorstellen B) Kostengünstig bauen in einer Großstadt - Modellprojekt der GWG Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 Sitzungsvorlagen Nr. 14-20 / V 04989 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Antrag auf Begrünung der Schornstraße und Einbahnstraßenregelung in der Schornstraße - <div>Zustimmung und Weiterleitung</div>
+- TOP 8.1.: Leistungsprogramm 2017 der MVG (Fahrplanwechsel Dezember2016) - <div>Zustimmung zum Votum des UA Gesundheit, Umwelt und Verkehr</div>
+- TOP 8.2.: Umzug der Wanderbaumallee am 27.04.2016 - <div>Zustimmung mit Ergänzung</div>
+- TOP 8.3.: Planfeststellung nach § 18 Allgemeines Eisennbahngesetz (AEG) für das Vorhaben 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt (PFA) 3A, München Ost (S-Bahn)/ München Leuchtenbergring; Antrag vom 21.08.2015 auf Verlängerung der Geltungsdauer des Planfeststellungbeschlusses vom 30.05.2006 - <div>Zustimmung zum Votum des UA Gesundheit, Umwelt und Verkehr</div>
+- TOP 8.1.: Pariser Str. 11/15/17, Sanierung Fernwärmeleitung vom 17.03.2016-14.05.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Knotenpunkt Falken-/Kolumbusstraße, Neubau einer Lichtsignalanlage - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen Empfehlung Nr. 14-20/ E 00627 der Bürgerversammlung des Stadtbezirkes 15 Trudering- Riem am 08.10.2015 Sitzungsvorlage Nr. 14-20/ V 05188 Beschluss der Vollversammlung des Stadtrates vom 16.03.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP 8.1.: Einladung zum Vorbereitungstreffen für das Internationale Stadtteilfest Haidhausen am Mittwoch, den 12. April um 17:30 Uhr in den Räumen des AKA e.V, Rosenheimer Str. 123 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Einladung zur Veranstaltung Bezahlbares Wohnen für ALLE, Wohnungsnot beseitigen - sozialen Frieden erhalten am Mittwoch den 04.05.2016 um 18:30 Uhr, Mathildenstr. 4 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Zukunftskonzepte für die drei kleinen festen Lebensmittelmärkte Konsensverfahren "Markt auf dem Wiener Platz" am 16.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP .1.: Projektraum RSTR 4 Milchstraße 4 Ausstellungen von April bis September 2016 Antragssumme 5.730,00? - <div>Zustimmung gemäß dem dem UA Votum</div>
+- TOP .2.: Isarlust e.V. Projekt ?Play Me, I'm Yours? - Aufstellung von öffentlichen Klavieren vom 01. bis 18.09.2016 Antragssumme 2.500,00? - <div>vertagt bis Standorte bekannt sind</div>
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
