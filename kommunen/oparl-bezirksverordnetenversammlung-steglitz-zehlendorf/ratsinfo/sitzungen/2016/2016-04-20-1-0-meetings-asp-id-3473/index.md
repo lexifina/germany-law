@@ -1,0 +1,78 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-04-20T17:00:00+02:00
+- Ende: 2016-04-20T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3473
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3473
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Sachstand zur aktuellen Planung für den Bierpinsel, die III? - beantwortet
+- TOP 3.2: Maßnahmen zur ökologischen Aufwertung an Schlachtensee und Krumme Lanke - beantwortet
+- TOP 3.3: Plant das Bezirksamt neue Schulen im Bezirk? - beantwortet
+- TOP 3.4: Bußgelder von Diplomaten - beantwortet
+- TOP 3.5: Angebote der Volkshochschule für geflüchtete Menschen - beantwortet
+- TOP 3.6: Wie geht es voran mit der Fuß- und Radfahrerbrücke über den Teltowkanal? (Drs. Nr. 1157/IV) - beantwortet
+- TOP 3.7: Sicherheit Einmündung Königsweg in die Lindenthaler Allee - schriftlich beantwortet
+- TOP 3.8: IGA 2017 wirft ihre Schatten voraus - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - beantwortet
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Menschenwürdige Unterkünfte für geflüchtete Menschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Abberufungen - erledigt
+- TOP 7.1: Abberufung eines Bürgerdeputierten aus dem Ausschuss für Gesundheit und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Wahlen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Wahlvorschläge - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 8.1.1: Wahl eines Bürgerdeputierten im Ausschuss für Gesundheit und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Asylbewerberunterkünfte in Steglitz-Zehlendorfer Grünanlagen - in der BVV zurückgezogen
+- TOP 9.2: Aktueller Verhandlungsstand wegen des Verkaufs des Grünstreifens an der Truman Plaza (Flurstücke 184 und 185) - beantwortet
+- TOP 9.3: Offene Beschlüsse der IV. Wahlperiode - beantwortet
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Schließzeiten der Bolzplätze überprüfen - überwiesen
+- TOP 10.2: Fahrradabstellplätze an touristischen Zielen im Bezirk aufstocken - überwiesen
+- TOP 10.3: Mehr Platz im Hort der Giesensdorfer-Grundschule schaffen - überwiesen
+- TOP 10.4: Gemeinnützige Arbeit im Grünflächenamt - überwiesen
+- TOP 10.5: Lückenschluss des Lankegraben-Fußweges im Grünzug von der Mühlenstraße bis Alt-Lankwitz - überwiesen
+- TOP 10.6: Toiletten öffnen - überwiesen
+- TOP 10.7: Helfer für Entlassungsvorbereitungen aus dem Krankenhaus - überwiesen
+- TOP 10.8: Grünflächen am Rathaus Lankwitz und S-Bahn von Müll befreien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Nachtbuslinie Kamenzer Damm - überwiesen
+- TOP 10.10: MINT in Schulen fördern und unterstützen - überwiesen
+- TOP 10.11: Ausnahmegenehmigung für Rumpelbasar - überwiesen
+- TOP 10.12: Fußgängerüberweg Ostpreußendamm entschärfen - überwiesen
+- TOP 10.13: Parkregelung Riemeisterstraße - überwiesen
+- TOP 10.14: Familienfreundlicher Bezirk VI: Kinder und Jugendliche brauchen Platz - auch zum Lautsein - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Diamorphinabgabe für Schwerstabhängige im Bezirk - überwiesen
+- TOP 10.16: Halteverbote im Lerbacher Weg sichtbar machen und kontrollieren - überwiesen
+- TOP 10.17: Kinderfreundliche Gestaltung der Warteräume im Bezirksamt - überwiesen
+- TOP 10.18: Fußgänger-Querungshilfe in Höhe Asternplatz/Tulpenstraße - überwiesen
+- TOP 10.19: Wildes Urinieren neben dem Rathauseingang - überwiesen
+- TOP 10.20: Ehrenamtstag in Steglitz-Zehlendorf schaffen - überwiesen
+- TOP 10.21: Artenschutz durch mehr blühende Kräuter auch in Steglitz-Zehlendorf fördern - überwiesen
+- TOP 10.22: Besucher des Deutschen Evangelischen Kirchentags unterstützen - überwiesen
+- TOP 10.23: Vermittlung des Bezirksamtes - überwiesen
+- TOP 10.24: Schutz der Grünflächen im Windsteiner Weg - überwiesen
+- TOP 10.25: Schutz der Eichen in der Clauertstraße - überwiesen
+- TOP 10.26: Runder Tisch Grünflächen - überwiesen
+- TOP 10.27: Angebote für nachhaltige Arbeitsmarktintegration von Geflüchteten schaffen - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Mieter und Mieterinnen von Seniorenwohnungen informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Keine Belegung von Sporthallen mehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Assistenzhunde in Wald und Flur - in der BVV abgelehnt
+- TOP 11.4: Friedhofsbahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Einfach mal Danke sagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Berlinweites Meldeportal nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Öffnung Fahrradweg Finckensteinallee/Hindenburgdamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Denkmal Hubschrauberlandeplatz Steinstücken pflegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Steuerungsgruppe sichere Schulwege einrichten und Verkehrschaos vor Grundschulen beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Domäne Dahlem dauerhaft sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
