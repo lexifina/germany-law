@@ -1,0 +1,81 @@
+# 57. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-04-20T17:00:00+02:00
+- Ende: 2016-04-20T20:10:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4352
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4352
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=76755
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 4: Antrag auf BVV-Sondermittel gemäß § 12 Abs. 2 Satz 2 BezVG zur Vorbereitung der Initiatoren der Einwohnerversammlung zur Bautzener Brache - in der BVV abgelehnt
+- TOP 5: Kinder- und Jugendparlament - erledigt
+- TOP 6: Protokollgenehmigung - erledigt
+- TOP 7: Unerledigte Drucksachen - erledigt
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Kulturlustgarten 2016: Hat das Bezirksamt den Worten auch Taten folgen lassen? - beantwortet
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Vorgaben ruhender Verkehr Platz der Luftbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Kahlschlag bei den öffentlichen Toiletten durch den Senat verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Keine Abschiebung aus Jugendeinrichtungen heraus - überwiesen
+- TOP 10.4: Bürgerhaushalt für direkte Demokratie - in der BVV abgelehnt
+- TOP 10.5: Modellprojekte in den Bezirken zum Schulneubau so schnell wie möglich starten - überwiesen
+- TOP 10.6: Erinnerung an Siegfried Translateur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Vorhandenen Leerstand von Wohngebäuden zur Unterbringung von Obdachlosen und Flüchtlingen nutzen - überwiesen
+- TOP 10.8: Betroffene bei Ihrem Einsatz für die Durchsetzung einer anwohnerverträglichen Bauvariante der Dresdner Bahn unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Nutzungsstatut Maaßenstraße überarbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Sportplatznutzungserlaubnis durch Kinder nach 16 Uhr und am Wochenende wieder möglich machen - überwiesen
+- TOP 10.11: Für starke Volkshochschulen in den Berliner Bezirken - überwiesen
+- TOP 10.12: Kostenloses WLAN in Tempelhof-Schöneberg vorantreiben - überwiesen
+- TOP 10.13: Gedenkstein für Friedrich Küter aufarbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Mahnmal am Bornhagenweg um Informationen zum Außenlager des KZ Sachsenhausen ergänzen - überwiesen
+- TOP 10.15: Jugendverkehrsschule - überwiesen
+- TOP 10.16: Benennung eines Platzes nach Kitty Kuse - überwiesen
+- TOP 10.17: Bildungszentrum Tempelhofer Weg - überwiesen
+- TOP 10.18: Kurzzeitparkplätze in der Prinzessinnenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.19: Umwandlung des absoluten in eingeschränktes Halteverbot in der Wünsdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.20: Geschwindigkeitsbegrenzung in der Grunewaldstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Ein Straßenschild für Lilli-Flora Borchardt anbringen - dem BVV-Beschluss Taten folgen lassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - erledigt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Genehmigung der Bezirksrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Tempelhofer Weg in beiden Richtungen für Radverkehr ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Angebote in bezirklichen Bibliotheken für geflüchtete Menschen schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Queere Geschichte am Nollendorfplatz berücksichtigen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Flüchtlinge schneller in die Arbeitswelt integrieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Wohnberechtigungsschein für Asylsuchende und geduldete Flüchtlinge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Qualifizierte Sozialberichterstattung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Vorhandenen Leerstand von Gewerbegebäuden zur Unterbringung von Obdachlosen und Flüchtlingen nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Leerstand von Wohnungen endlich nutzen - überwiesen
+- TOP 12.11: Arbeit der Sozialkommissionen öffentlich anerkennen - gegenseitigen Austausch fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Externe Unterstützung für das Ordnungsamt sichern - Produktentwicklung und Konzeptplanung vorlegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Lichtenrader BC 25 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Verbund KUBIN für das künstlerische Projekt DENK MAL AM ORT - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Abgabe des Grundstücks Tempelhofer Damm 118 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Mehr Qualität in Berliner Kitas - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Beschlussfassung - erledigt
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: Kompromiss zum Werbekonzept Hellweg verhandeln - überwiesen
+- TOP 14.2: Vorplatz Nord am Bahnhof Südkreuz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Konzeptentwicklung Heinrich-von-Kleist-Park - überwiesen
+- TOP 14.4: Überquerung der Barnetstraße für Fußgänger erleichtern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Konzept gegen gruppenbezogene Menschenfeindlichkeit aufgrund der sexuellen Orientierung oder der geschlechtlichen Identität - überwiesen
+- TOP 14.6: Endlich mehr Sitzbänke im Bezirk - überwiesen
+- TOP 14.7: Archiv über Kunstwerke im öffentlichen Raum - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.8: Keine Umsetzung der "Rossebändiger" vom Kleistpark zum "Stadtschloss" - überwiesen
+- TOP 14.9: Tempo-10-Geschwindigkeitsbegrenzung in der Yorckstraße aufheben - Verkehrsschau gemäß VWV-StVO, § 45 durchführen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.10: Mittagessen für alle Kinder - keine Zweiklassengesellschaften an gebundenen Ganztagsschulen - überwiesen
+- TOP 14.11: Erweiterung des Geltungsbereiches des vorhabenbezogenen Bebauungsplanes 7-72VE für das Grundstück Hauptstraße 162 / Willmanndamm 22 im Bezirk Tempelhof - Schöneberg, Ortsteil Schöneberg. - überwiesen
+- TOP 14.12: Unterbringung für Frauen und Kinder - überwiesen
+- TOP 14.13: Fachstandards in den Hilfen zur Erziehung sichern - überwiesen
+- TOP 15: Termin der nächsten Sitzung - erledigt
