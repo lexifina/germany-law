@@ -1,0 +1,52 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-20T17:00:00+02:00
+- Ende: 2016-04-20T20:23:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11452
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11452
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264187.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264187.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264187.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - vertagt
+- TOP 3: Vorstellung Projekt BIWAQ - zur Kenntnis genommen
+- TOP 4: Kriminalitäts- und Verkehrsstatistik - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfrage SPD: Flüchtlinge im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Änderungsantrag FDP: zur Vorlage 176/41/2016 - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Entwicklung an der Theodorstraße zwischen A 52 und Am Hülserhof - weiteres Vorgehen - zur Kenntnis genommen
+- TOP 12: Dringlichkeitsentscheidung Theodorstraße - mehrheitlich beschlossen
+- TOP 13: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 14: Anfrage BÜ90/GRÜNE, CDU und FDP: Lärmschutz an der A52 - zur Kenntnis genommen
+- TOP 15: Anfrage Schumacher (SPD): Jüdisches Gymnasium Borbecker Straße - vertagt
+- TOP 16: Anfrage SPD: Pflege Grünstreifen - zur Kenntnis genommen
+- TOP 17: Anfrage Daxenberger: Wohnungsbau der SWD - vertagt
+- TOP 18: Anfrage CDU: Situation Liliencronstraße - zur Kenntnis genommen
+- TOP 19: Anfrage CDU: Verwendung Einnahmen Stellplatzablösungen - zur Kenntnis genommen
+- TOP 20: Anfrage SPD: Grundstück nördlich Ahrensplatz - vertagt
+- TOP 21: Anfrage SPD: Gaslaternen - vertagt
+- TOP 22: Anfrage BÜ90/GRÜNE: Lärmreduktion Rather Kreuzweg - vertagt
+- TOP 23: Anfrage Helmke (BÜ 90/GRÜ): Querung Straßenbahnhaltestelle Oberrath - vertagt
+- TOP 24: Anfrage BÜ90/GRÜ: Schaffung Lebensraum für Vögel - vertagt
+- TOP 25: Antrag Daxenberger: Projekt "Sport im Park" - einstimmig beschlossen
+- TOP 26: Antrag CDU: Pflege Kreitenplatz - einstimmig beschlossen
+- TOP 27: Antrag CDU: Straßen mit Instandsetzungsbedarf - zurückgezogen
+- TOP 28: Antrag CDU: Beteiligung BV an Straßenbaumaßnahmen - einstimmig beschlossen
+- TOP 29: Antrag SPD: Busverbindung Rath/Lichtenbroich - einstimmig beschlossen
+- TOP 30: Zuschussvergabe und Förderung Dritter 2016 - einstimmig beschlossen
+- TOP 31: MdV - GAT Thewissenweg - zur Kenntnis genommen
+- TOP 32: MdV - GAT An der Piwipp - zur Kenntnis genommen
+- TOP 33: MdV - Annahme Grünschnitt Rath - zur Kenntnis genommen
+- TOP 34: MdV - Aufstellung Glascontainer Lichtenbroich - zur Kenntnis genommen
+- TOP 35: MdV - Strahlenbelastung - zur Kenntnis genommen
