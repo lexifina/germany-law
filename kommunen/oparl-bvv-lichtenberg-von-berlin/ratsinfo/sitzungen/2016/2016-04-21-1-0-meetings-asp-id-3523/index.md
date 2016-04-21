@@ -1,0 +1,108 @@
+# 55. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2016-04-21T17:00:00+02:00
+- Ende: 2016-04-21T20:40:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3523
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3523
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=125906
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Bauen am S-Bahnhof Rummelsburg (Entfall Halt der S-Bahn für ca. 1 Jahr) - beantwortet
+- TOP 8.2: Entwicklungen am Hochschulstandort der HTW in Lichtenberg - beantwortet
+- TOP 8.3: Standort HTW - beantwortet
+- TOP 8.4: Fahrradwegmarkierung Wustrower Straße - beantwortet
+- TOP 8.5: Abbau einer Fußgängerbrücke in Karlshorst - beantwortet
+- TOP 9: Einwohnerfragestunde - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 10.1: Bebauungsplan 11-60 - erneute öffentliche Auslegung Arbeitstitel: Gotlindestraße 2/20 Lindenhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Bebauungsplan 11-60 - Rechtskontrolle Arbeitstitel: Gotlindestraße 2/20 Lindenhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Wandbild "Nicaraguanisches Dorf" - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Barrierefreie Wahllokale - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Gleiche Wohnbedingungen für alle asylsuchenden Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Maßigkeit des in Karlshorst zu bauenden Sportplatzes nach Gesundheitskriterien richten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Wird eine Sozialkommission Wohnbegleitung für Geflüchtete auch in Lichtenberg ins Leben gerufen? - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Produktkatalog für den Kulturbereich reformieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Einwohnerversammlung zur Entwicklung im Bereich Schule und Sport in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Projekt "Die bewegte Schulpause" auch an Lichtenberger Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Schaffung von Analphabeten-Kursen zur Verbesserung der Sprachlernfähigkeit für Menschen im Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: BVV-Sondermittel für Kalender Rummelsburger Bucht 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: BVV-Sondermittel für den Förderkreis Museum Lichtenberg im Stadthaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: BVV-Sondermittel für den Osteuropa Zentrum Berlin e. V. - überwiesen
+- TOP 10.15: Möglichkeiten aus dem Wohnraumversorgungsgesetz bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Besserer Verkehrsfluss Kreuzung Pablo-Picasso-Straße/Gehrenseestraße/Hohenschönhauser Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Verkehrssicherheit in der Hedwigstraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Obersee mit verbessertem Rundwegesystem versehen - überwiesen
+- TOP 10.19: Personalausweisautomaten in Lichtenberg einführen - Zur Not auch ohne die Senatsverwaltung für Inneres und Sport - überwiesen
+- TOP 10.20: Antragsformulare mit Erläuterungen - überwiesen
+- TOP 10.21: Sondermittel für Graffiti-Projekt "Buntes Ostseeviertel" - überwiesen
+- TOP 10.22: Jugendfreizeiteinrichtungen und Freizeiteinrichtungen für Seniorinnen und Senioren in ungenutzten Zeiten nutzen und weitere Einrichtungen prüfen - überwiesen
+- TOP 10.23: Bau Bahnbrücke Friedrichsfelde Ost - überwiesen
+- TOP 10.24: Ausgang Zachertsportplatz ganzjährig öffnen - überwiesen
+- TOP 10.25: Berlin-Pass aus einer Hand - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Verbesserung der Wegebeziehungen im Gensinger Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Vorschlag einer barrierefreien Tour durch den Fennpfuhl - überwiesen
+- TOP 10.28: Kinder brauchen Platz zum Spielen - überwiesen
+- TOP 10.29: Open-Air-Galerie Neu-Hohenschönhausen - überwiesen
+- TOP 10.30: Halterungen für Gehhilfen - überwiesen
+- TOP 10.31: Modellprojekte zur Umsetzung der Radverkehrsstrategie - überwiesen
+- TOP 10.32: Besucher des Deutschen Evangelischen Kirchentags unterstützen - überwiesen
+- TOP 10.33: Verkehrssicherungsmaßnahmen auf der Gensinger Straße vor der Schule - überwiesen
+- TOP 10.34: Anschaffung eines Liftstuhls für den Behindertensportverein Nordost e. V. - überwiesen
+- TOP 10.35: Internationale Gartenausstellung 2017 - ohne Änderungen in der BVV beschlossen
+- TOP 10.36: Bebauungsplan 11-87 - erneute Beteiligung der betroffenen Öffentlichkeit und berührten Behörden Arbeitstitel: KGA "Feldtmannsburg Bezirk II" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.37: Personalabbaumoratorium Bezug: DS/1690/VII - Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.38: Kostenkalkulation für den Bau der öffentlichen Infrastruktur im Gebiet des B-Plans XVII-4 "Ostkreuz" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.39: Lichtverschmutzung durch Gebäude vorbeugen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.40: Umgestaltung des Mittelstreifens in der Frankfurter Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.41: Nahversorgung im Prinzenviertel auch in Zukunft sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.42: Lichtenberger Nebenroutennetz im Bezirk erarbeiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.43: Einführung eines öffentlichen Online-Baumkatasters nach dem Vorbild der Stadt Wien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.44: Nahversorgung im Gensinger Viertel sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.45: Fundierte Prüfung der Straßenbahnführung unter der Brücke Karlshorst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.46: Denkmalgerechte Werbung für die Galerie im Ratskeller - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.47: Willkommensinitiative und Willkommensportal für Ärzte einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.48: 105 Jahre Frauentag 2016: Eine Ausstellung über Lichtenbergerinnen und ihre Berufe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.49: Verkehrssicherheit in der Seehausener Straße verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.50: Sichere Fahrbahnüberquerung in der Gotlindestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.51: Mehr Integrationslotsenstellen für den Bezirk Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.52: Kulturelle Ziele für Schulwandertage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.53: Trennung von Rad- und Fußweg auf der Brücke Friedrichsfelde Ost in südlicher Richtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.54: Mehr Sicherheit an der Kreuzung Gehrenseestraße/Wartenberger Straße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.55: Freies WLAN in allen Flüchtlingsunterkünften im Bezirk gewährleisten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.56: Geschwindigkeit in der Alfred-Kowalke-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.57: Tempo 30 in der Lückstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.58: Umsetzung des Konzepts "Lichtenberger Verwaltung 2021" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.59: Änderung der Wohnlagenfestlegung im Mietspiegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.60: Kindertagesstätten-Projekt zur gesunden Ernährung "Vier Möhren für Lichtenberger Kitas" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.61: Bebauungsplan 11-67 - Einstellung Arbeitstitel: Verbrauchermarkt Ehrlichstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Familienfest Bunte Platte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sicherheit an Lichtenberger Schulen weiter verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Öffentliche Infrastruktur an der Landsberger Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Vorhabenbezogener Bebauungsplan 11-116 VE - Aufstellungsbeschluss Arbeitstitel: Landsberger Allee 315/319 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Vorhabenbezogener Bebauungsplan 11-117 VE - Aufstellungsbeschluss Arbeitstitel: Landsberger Allee 323/339 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Vorhabenbezogener Bebauungsplan 11-118 VE - Aufstellungsbeschluss Arbeitstitel: Landsberger Allee 341/343 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Finanzielle Handlungsspielräume 2016 und 2017 nutzen - überwiesen
+- TOP 12.6: Sitzgelegenheiten entlang der Zobtener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Soziale Eintrittspreise für den Tierpark sichern - Tierpark für alle - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Bürgerbeteiligung weiter entwickeln und Ressourcen nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Transparenz bei Bauprojekten mit besonderer öffentlicher Bedeutung erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Lichtenberger Netzwerk für Alleinerziehende schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15: Schließung der Sitzung - erledigt
