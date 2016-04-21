@@ -1,0 +1,7 @@
+# TOP 13: Sonderprogramm des Landes Nordrhein-Westfalen „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen“
+
+- Sitzung: Finanzausschuss (2016-04-21)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/10330
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/3010
