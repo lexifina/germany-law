@@ -1,0 +1,63 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-04-21T18:00:00+02:00
+- Ende: 2016-04-21T20:45:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1479
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1479
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Beschwerden und Anregungen gem. § 24 GO NW
+- TOP 2.1: die republikaner, antrag nr 24/2016 - einstimmig
+- TOP 2.2: Anregungen und Beschwerden nach § 24 Gemeindeordnung NRW - mehrheitlich bei
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Gesamtkosten der Unterbringung und Betreuung von Flüchtlingen (Antrag Nr. 106/16) - einstimmig
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Müllentsorgung nach Gutsherrenart (Antrag Nr. 98/16) - Kenntnisnahme
+- TOP 3.4: FDP
+- TOP 3.5: B 90/Grüne
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.3.1: Verwendung der Mittel für die Unterbringung/Integration von Asylbewerbern (Anfrage Nr. 79/16) - einstimmig
+- TOP 4.3.2: Buslinie 891 (Anfrage Nr. 97/16) - einstimmig
+- TOP 4.3.3: Kita-Streik 2015: Rückzahlungen zu viel gezahlter Elternbeiträge (Anfrage Nr. 102/16) - einstimmig
+- TOP 4.4: FDP
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.8.1: Sozialer Wohnungsbau in Grevenbroich (Anfrage Nr. 103/16) - einstimmig
+- TOP 4.9: FBG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 5.1: 1. Verlängerung der Veränderungssperre G 189 - mehrheitlich bei
+- TOP 6: Fusion ITK-R mit IT MG - einstimmig
+- TOP 7: Satzung der Stadt Grevenbroich zur Gestaltung der Innenstadt nach straßenrechtlichen Gesichtspunkte - Kenntnisnahme
+- TOP 8: Finanzen
+- TOP 8.1: Einführung KLR - einstimmig
+- TOP 9: Feuerschutz
+- TOP 9.1: Ersatzbeschaffung Sprungpolster - einstimmig
+- TOP 10: Soziales
+- TOP 11: Beantwortung von Anträgen
+- TOP 11.1: Produkt 01061, Antrag der FDP-Fraktion 212/14 - einstimmig
+- TOP 11.2: Mobile Payment in Grevenbroich einführen - einstimmig
+- TOP 11.3: FDP, Antrag Nr. 265/2015 - einstimmig
+- TOP 11.4: CDU, Antrag Nr. 279/2015 - einstimmig
+- TOP 11.5: Bürgerbeteiligung durch Einführung eines Bürgerhaushaltes - einstimmig
+- TOP 11.6: Beantwortung von Anträgen und Anfragen (Sammel) - Kenntnisnahme
+- TOP 12: Beantwortung Anfragen
+- TOP 13: Mündliche Anträge/Anfragen
+- TOP 14: Mitteilungen BM
