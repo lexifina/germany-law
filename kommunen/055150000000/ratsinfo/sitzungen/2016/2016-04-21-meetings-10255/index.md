@@ -1,0 +1,59 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-04-21T17:15:00+02:00
+- Ende: 2016-04-21T19:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10255
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10255
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00386482.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen - entfällt
+- TOP 5: Berichte
+- TOP 5.1: 22. Änderung des Flächennutzungsplans im Bereich westlich Meckmannweg / nördlich Weseler Straße - zur Kenntnis genommen
+- TOP 5.2: Investitionen der Mitgliedsvereine des Stadtsportbund Münster e. V. auf Sportanlagen, hier: Zuschussanträge zum 29.02.2016 - zur Kenntnis genommen
+- TOP 5.3: Arbeitskreise "Älter werden in ....." - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Borkenfeld – Einbau einer Fahrbahnschwelle, Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Bericht zur Wohnbaulandentwicklung 2015 und Fortschreibung des Baulandprogramms 2016 - 2025 - einstimmig beschlossen
+- TOP 7.2: Beschlüsse zur Änderung des Flächennutzungsplans - einstimmig beschlossen
+- TOP 7.3: Städtebauliches Leitbild Ortsmitte Gievenbeck - zur Kenntnis genommen
+- TOP 7.4: Erneuerung von 50 Lichtsignalanlagen aufgrund abgängiger Steuergeräte - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Spielmobil - Platz vor dem Spielplatz Christoph-Bernhard-Graben befestigen - eingebracht
+- TOP 8.2: Einrichtung von Tempo 30 Zonen im Stadtbezirk Münster-West - eingebracht
+- TOP 8.3: Entwässerung Wege Landschaftspark Mecklenbeck - zur Kenntnis genommen
+- TOP 8.4: Verkehrszählung Heroldstraße - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Schulweg- und Verkehrssicherheit in Roxel
+- TOP 9.1.1: Straßenverkehr in Roxel für Fußgänger und Radfahrer sicherer und einfacher machen - zur Kenntnis genommen
+- TOP 9.1.2: Verkehrssicherheit und Parkplatzsituation "Auf dem Dorn" - zur Kenntnis genommen
+- TOP 9.1.3: Parkscheibenregelung an der Annette-von-Droste-Hülshoff-Straße - zur Kenntnis genommen
+- TOP 9.1.4: Schulweg- und Verkehrssicherheit Roxel - zur Kenntnis genommen
+- TOP 9.1.5: Zeitlich begrenztes Parken an der Annette-von-Droste-Hülshoff-Straße ausweiten - zur Kenntnis genommen
+- TOP 9.2: Stromkasten für Gievenbecker Wochenmarkt - vertagt
+- TOP 9.3: Sauberkeit und Austausch Ortseingangsschilder - zur Kenntnis genommen
+- TOP 9.4: Verkehrssicherheit Dingbängerweg Roxel / Mecklenbeck - zur Kenntnis genommen
+- TOP 9.5: Verkehrsberuhigung Potstiege - zur Kenntnis genommen
+- TOP 9.6: Ludgerus-Grundschule in Albachten
+- TOP 9.6.1: Ausbau des Dachbodens der Ludgerus-Grundschule - zur Kenntnis genommen
+- TOP 9.6.2: Albachten wächst - der OGS-Bereich an der Ludgerus Grundschule braucht dringend mehr Platz! - zur Kenntnis genommen
+- TOP 9.7: Einrichtung einer G II Gruppe im städt. Kindergarten Mecklenbeck, Brockmannstraße - zur Kenntnis genommen
+- TOP 9.8: Dingbängerweg sicher machen - sofort! - vertagt
+- TOP 9.9: Verkehrssicherheit in Roxel, Dorffeldstraße - Wulfertstraße - zur Kenntnis genommen
+- TOP 9.10: Heroldstraße zügig ausbessern - zur Kenntnis genommen
+- TOP 9.11: Erweiterung der Fahrradabstellplätze am Waltruper Weg - zur Kenntnis genommen
+- TOP 9.12: Bahnübergang Heroldstraße sicherer machen - zur Kenntnis genommen
+- TOP 9.13: Umsetzung Halbstundentakt Baumbergebahn RB 63 - zur Kenntnis genommen
+- TOP 9.14: Abfallbehälter Landschaftspark Mecklenbeck - zur Kenntnis genommen
+- TOP 10: Verschiedenes - zur Kenntnis genommen
