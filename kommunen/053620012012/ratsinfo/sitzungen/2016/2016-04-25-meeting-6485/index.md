@@ -1,0 +1,59 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-04-25T18:03:00+02:00
+- Ende: 2016-04-25T20:03:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZW_4SDz5giSss3b7PQJGiVM
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6485
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYsEOfcBw0MaAu5_JzmGNnJ3FhG72maYOxIugWbryXtF/Bekanntmachung_Rat_25.04.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY0cy_nN4hrf5JPu6YlqiMHkCnodFoHOkP5iB5f8tiof/Oeffentliche_Niederschrift_Rat_25.04.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3.: Rathaus B Steinweg
+- TOP 3.1: Abstimmungsheft Ratsbürgerentscheid Bezug: Änderungsanträge der Fraktionen CDU und GRÜNE vom 12.04.2016
+- TOP 3.2: Ratsbürgerentscheid Bezug: Antrag der FDP-Fraktion vom 06.04.2016
+- TOP 3.3: Fragestellung Ratsbürgerentscheid Bezug: Antrag der SPD-Fraktion vom 15.03.2016
+- TOP 3.4: Termin Ratsbürgerentscheid Bezug: Antrag der FDP-Fraktion vom 12.03.2016
+- TOP 3.5: Rathaus B Steinweg hier: Herbeiführung eines Ratsbürgerentscheids Bezug: 29.2.2016
+- TOP 3.6: Rathaus B Steinweg hier: Herbeiführung eines Ratsbürgerentscheids Bezug: Rat 29.2.2016, HA 11.4.2016 - (kein Text vorhanden)
+- TOP 4.: Kindertagesbetreuung in Einrichtungen hier: Durchführung eines Interessenbekundungsverfahrens für die Trägerschaft von zwei neuen Kindertageseinrichtungen Bezug: Beschluss des Rates vom 14.12.2015 (Vorlage 557/2015)
+- TOP 5.: Bebauungsplan 04.14 "Bergerstraße / Weißer Straße" - Aufstellungsbeschluss - - (kein Text vorhanden)
+- TOP 6.: Unterstützung der StädteRegion Aachen gegen den Betrieb der Atomkraftwerke Tihange und Doel / Belgien - (kein Text vorhanden)
+- TOP 7.: Ermächtigungsübertragung aus dem Haushaltsplan 2015 nach 2016
+- TOP 8.: Flüchtlingsunterbringung: Ergänzung außerplanmäßige Ausgabe für die Herrichtung des Containerdorfes Bergerstraße - (kein Text vorhanden)
+- TOP 9.: Anträge
+- TOP 9.1: Keine Planung eines weiteren Containerdorfes Bezug: Antrag der FDP-Fraktion vom 12.03.2016 - (kein Text vorhanden)
+- TOP 9.2: Sozialer Wohungsbau Bezug: Antrag der SPD-Fraktion vom 10.04.2016 - (kein Text vorhanden)
+- TOP 9.3: Entwicklung Brühl-Ost Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 21.02.2016
+- TOP 9.3.1: Entwicklung Brühl-Ost hier: Schreiben der IHK Köln vom 30.03.2016 Bezug: Antrag der Fraktionen CDU und Grüne vom 21.02.2016
+- TOP 9.3.2: Gemeinsamer Antrag der Fraktionen CDU und Bündnis 90 die Grünen und Schreiben der IHK - (kein Text vorhanden)
+- TOP 10.: Umbesetzung im Aufsichtsrat der Stadtwerke Brühl
+- TOP 11.: Umbesetzung im Verwaltungsrat der AöR
+- TOP 12.: Umbesetzung in Ausschüssen
+- TOP 12.1: Umbesetzung im Ausschuss für Bauen und Umwelt
+- TOP 12.2: Umbesetzung im Ausschuss für Verkehr und Mobilität
+- TOP 13.: Mitteilungen
+- TOP 13.1: Sondersitzung des Rates und Informationsveranstaltung zum Ratsbürgerentscheid
+- TOP 14.: Anfragen
+- TOP 14.1: Vergleich zwischen der Erbbau - Verpachtung von Grundstücken und deren Verkauf Bezug: Anfrage der FDP-Fraktion vom 05.02.2016
+- TOP 14.1.1: Vergleich zwischen der Erbbau-Verpachtung von Grundstücken und deren Verkauf Bezug: Anfrage der FDP-Fraktion vom 5.2.2016
+- TOP 14.2: Verkehrsbehinderung Heinrich-Esser-Str./Burgstr.
+- TOP 14.3: Etablierung Hochschule des Bundes
+- TOP 14.4: Belegung Turnhalle Gesamtschule
+- TOP 14.5: Baumfällung vor der Eisdiele am Markt
+- TOP B): Nichtöffentliche Sitzung
+- TOP 15.: Kauf und Herrichtung von Containern zur Unterbringung von Flüchtlingen (Willy-Brandt-Str.) -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 16.: Kindertagesbetreuung in Einrichtungen; hier: Vergabe der Trägerschaft für 1. eine Kindertagesstätte mit fünf Gruppen in Brühl-Ost 2. eine bis zu dreigruppige Kindertagesstätte in der Domäne Walberberg als Vorläufereinrichtung für eine zusätzliche Kindertagesstätte im Brühler Süden Bezug: Beschluss des Rates vom 14.12.2015 - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Verwendung Mittel für Ehrenamtler in der Flüchtlingshilfe
+- TOP 18.2: Ehrenamtsbetreuungskonzept
+- TOP 18.3: Fachliche Kriterien bei unbegleiteten Jugendlichen
