@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-26T17:00:00+02:00
+- Ende: 2016-04-26T20:05:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11840
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11840
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264550.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264550.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264550.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 5: Flächennutzungsplanänderung Nr. 138 (Vorentwurf) - Glasmacherviertel - Änderung der Aufstellung - einstimmig beschlossen
+- TOP 5.1: Arbeit und Wohnen für das Glasmacherviertel - mehrheitlich beschlossen
+- TOP 5.2: Flächennutzungsplan Nr. 138 - Glasmacherviertel - - mehrheitlich abgelehnt
+- TOP 6: Am Wallgraben, Haltestelle Gerresheim Rathaus - Barrierefreier Ausbau der Haltestellenanlagen - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Bauern- und Handwerkermarkt und Weihnachtsmarkt auf dem Gerricusplatz und dem Flachsmarkt - einstimmig beschlossen
+- TOP 9.1: Home & Garden auf der Galopprennbahn im Jahre 2016 - einstimmig beschlossen
+- TOP 10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 11: Verkehrssicherheit auf der Gräulinger Straße - einstimmig beschlossen
+- TOP 12: Bergische Kaserne Hubbelrath - einstimmig beschlossen
+- TOP 13: Marktplatz auf dem Bahnhofsvorplatz - einstimmig beschlossen
+- TOP 14: Sitzbänke auf dem Platz Alter Markt - zurückgezogen
+- TOP 15: Glasmacherviertel - mehrheitlich beschlossen
+- TOP 16: Geschwindigkeitsüberwachung Benderstraße - zurückgezogen
+- TOP 17: Öffentliches Grillen im Bezirk 7 - mehrheitlich beschlossen
+- TOP 18: Metallbänke Lichtung Grafenberger Wald - einstimmig beschlossen
+- TOP 19: Sauberkeit Haltestellenbereich Staufenplatz - zurückgezogen
+- TOP 20: Bolzplätze im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 21: Spielgeräte und Sauberkeit Alter Gerresheimer Friedhof - vertagt
+- TOP 22: Situation Gutenbergstraße - vertagt
+- TOP 23: Langfristige Nutzung Staufenplatz - zur Kenntnis genommen
+- TOP 24: Nutzung Grundstücke Kölner Tor - vertagt
+- TOP 25: Glasmacherviertel - vertagt
+- TOP 26: Standort für Wohnungen für Geflüchtete „Am Bongard“ - zur Kenntnis genommen
+- TOP 27: Wohnungsbau durch Stadt / SWD im Glasmacherviertel - zur Kenntnis genommen
+- TOP 28: WLAN im Stadtbezirk 7 - vertagt
+- TOP 29: 1000-Bänke-Programm 2014 - vertagt
+- TOP 30: Kanal- und Straßenbauarbeiten im Bereich der Straße Am Poth - zur Kenntnis genommen
+- TOP 31: Joggingstrecke Limburgstraße - zur Kenntnis genommen
+- TOP 32: Multifunktionale Sportfläche Ostpark - zur Kenntnis genommen
+- TOP 33: Geplante Flüchtlingsunterkunft an der Torfbruchstraße - zur Kenntnis genommen
+- TOP 34: Schulbaumaßnahmen - zur Kenntnis genommen
+- TOP 35: Gerresheimer Brachflächen entwickeln! - zur Kenntnis genommen
+- TOP 36: Pilotprojekt Brötchentaste - zur Kenntnis genommen
+- TOP 37: Schattenspender für den Spielplatz an der Hallesche Straße/Radeberger Straße - zur Kenntnis genommen
+- TOP 38: Urban Gardening/Grabenland - zur Kenntnis genommen
+- TOP 39: Fußgängerquerung Morper Straße zur Verbindung Heyestraße Süd-Süd und Heyestraße Süd - zur Kenntnis genommen
+- TOP 40: Radweg Morperstraße nach Erkrath - Überquerung der Fahrbahn - zur Kenntnis genommen
+- TOP 41: Jugendfreizeiteinrichtung (JFE) Heyebad, Nachtigallstraße - zur Kenntnis genommen
+- TOP 42: Öffnung der Einbahnstraße Kölner Tor für den Radverkehr - zur Kenntnis genommen
+- TOP 43: Matschweg Düssel - Diepenstraße - zur Kenntnis genommen
+- TOP 44: Ampel Bertastraße - zur Kenntnis genommen
+- TOP 45: Künstlerische Gestaltung der Brücke über die Düssel (Ecke Dreherstraße/Bertastraße) - zur Kenntnis genommen
