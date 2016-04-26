@@ -1,0 +1,82 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-26T16:00:00+02:00
+- Ende: 2016-04-26T19:00:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11402
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11402
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264763.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264763.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264763.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung vom 26.04.2016 - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 23.02.2016 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 4.1: Vorstellung der Flüchtlingsbetreuungsarbeit in der Traglufthalle an der Koblenzer Straße durch den Malteser Hilfsdienst e.V. - zur Kenntnis genommen
+- TOP 4.2: Bericht der Deutschen Bahn zu verschiedenen Anfragen und Beschlüssen - zur Kenntnis genommen
+- TOP 4.3: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Straße. 2, im - einstimmig beschlossen
+- TOP 4.4: Trödelmärkte in Garath auf dem Schützenplatz - einstimmig beschlossen
+- TOP 4.5: Trödelmärkte in Garath Zentrum Ost im 2. Halbjahr 2016 - einstimmig beschlossen
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Zuschuss an die Städt. Montessori-Grundschule Emil-Barth-Straße - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10 - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10 - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der BV 10 - einstimmig beschlossen
+- TOP 4.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Haushalt 2016 - einstimmig beschlossen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 5.1: Erwartete Zuweisungen / Standortprüfungen - zur Kenntnis genommen
+- TOP 5.2: Sachstand zur Baumaßnahme des von der kath. Pfarrgemeinde Düsseldorf-Garath geplanten Pfarrzentrum - zur Kenntnis genommen
+- TOP 5.3: Bewachsene Flächen am S-Bahnhof Garath - zur Kenntnis genommen
+- TOP 5.4: Buchungsautomat Stadtsparkasse - zur Kenntnis genommen
+- TOP 5.5: Einführung von Elektrobussen im Düsseldorfer Süden - zur Kenntnis genommen
+- TOP 5.6: Kitaplätze für Flüchtlingskinder - zur Kenntnis genommen
+- TOP 5.7: Schulbezirksgrenzen - zur Kenntnis genommen
+- TOP 5.8: Handlungsmöglichkeiten an der Carl-Friedrich-Goerdeler-Straße - zur Kenntnis genommen
+- TOP 5.9: Befragungen und Beteiligungsprozesse der Rheinbahn - zur Kenntnis genommen
+- TOP 5.10: Nutzung des Grundstücks Theodor-Litt-Straße/Koblenzer Straße nach Beendigung des Mietvertrags für di - zur Kenntnis genommen
+- TOP 6: Anträge - zur Kenntnis genommen
+- TOP 6.1: Zuweisungsstopp - Keine weiteren Zuteilungen von Asylanten und Flüchtlingen nach Garath u. Hellerhof - mehrheitlich abgelehnt
+- TOP 6.2: Resolution: Garath ist keine "No-Go-Area" - mehrheitlich abgelehnt
+- TOP 6.3: Hundefreilauffläche Garath - mehrheitlich abgelehnt
+- TOP 6.4: Durchführung einer Einwohnerfragestunde in der Juni-Sitzung - einstimmig beschlossen
+- TOP 6.5: Regelmäßige Informationen zu Garath 2.0 - einstimmig beschlossen
+- TOP 6.6: Einrichtung einer Toilette und eines Bankautomaten der Stadtsparkasse in Hellerhof - mehrheitlich beschlossen
+- TOP 6.7: Verbot für Fahrradfahrer durch die Urdenbacher Kämpe von Hellerhof nach Urdenbach - zurückgezogen
+- TOP 6.8: Entfernung von Müll aus dem Bereich entlang der Bahn-Trasse am S-Bahnhof Garath - einstimmig beschlossen
+- TOP 6.9: Einladung zum Vortrag Sven Schulte vom Stadtentwicklung und Stadtmarketing über - zurückgezogen
+- TOP 6.10: Einrichtung weiterer Behindertenparkplätze in der Nähe der Freizeitstätte - einstimmig beschlossen
+- TOP 6.11: Anbringung Handlauf unterster Treppenabschnitt an der Bushaltestelle S-Bahn Hellerhof - einstimmig beschlossen
+- TOP 6.12: Vorstellung des aktuellen Standes und der Machbarkeitsstudie zur Planung und Umsetzung des Radschnel - einstimmig beschlossen
+- TOP 6.13: Geplante Wohnbebauung „Am Buchholzer Busch“ - mehrheitlich abgelehnt
+- TOP 7: Informationsvorlagen - zur Kenntnis genommen
+- TOP 7.1: Raumnutzung der städt. Montessori-Grundschule und des Hermann-Harry-Schmitz-Weiterbildungskollegs am - zur Kenntnis genommen
+- TOP 7.2: Verkehrsberuhigter Bereich Ingeborg-Bachmann-Straße - zur Kenntnis genommen
+- TOP 7.3: Hundeauslauffläche / Spiel- und Liegewiese in Garath-Nordost im Bereich Wittenberger Weg / Schwarzer - zur Kenntnis genommen
+- TOP 7.4: Aufstellung von drei neuen Sitzbänken auf dem Verbindungsweg zwischen den Seniorenwohnungen Adalbert - zur Kenntnis genommen
+- TOP 7.5: Entfernung Bauminsel (Parkplatz Wolfgang-Borchert-Straße) - zur Kenntnis genommen
+- TOP 7.6: Wohnungsleerstand im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 7.7: Fußgängerinsel Frankfurter Straße/Carl-Friedrich-Goerdeler-Straße - zur Kenntnis genommen
+- TOP 7.8: Rückkehrer ins Förderschulsystem - zur Kenntnis genommen
+- TOP 7.9: Schulbaumaßnahmen - zur Kenntnis genommen
+- TOP 7.10: Einrichtung eines Dienstleistungsbüros für Senioren im Stadtteil Düsseldorf Garath und Hellerhof - zur Kenntnis genommen
+- TOP 7.11: Kontrolle der Parksituation auf dem P&R Parkplatz in Hellerhof - zur Kenntnis genommen
+- TOP 7.12: Parkverbot an der Carlo-Schmid-Straße - zur Kenntnis genommen
+- TOP 7.13: Einrichtung von internationalen Förderklassen im Stadtbezirk Düsseldorf- Garath und Hellerhof sowie - zur Kenntnis genommen
+- TOP 7.14: Kontrolle Fußgängerzone Garath/Einhaltung der Lieferzeiten - zur Kenntnis genommen
+- TOP 7.15: Gestaltung des Kreuzungsbereiches Koblenzer Straße Ecke Emil-Barth-Straße - zur Kenntnis genommen
+- TOP 7.16: Umwidmung von Kinderspielplätzen in den Stadtbezirken 1, 3, 8, 9 und 10 - zur Kenntnis genommen
+- TOP 7.17: Erwartete Zuweisungen/Standortprüfungen - zur Kenntnis genommen
+- TOP 7.18: Lebende Weihnachtsbäume im Stadtbezirk 10 Garath/Hellerhof - zur Kenntnis genommen
+- TOP 7.19: Beleuchtung Parkplatz gegenüber der Bezirksverwaltung - zur Kenntnis genommen
+- TOP 7.20: Handlungsmöglichkeit an der Carl-Friedrich-Goerdeler-Straße 15 zur Minderung der Lärmbelästigung - zur Kenntnis genommen
+- TOP 7.21: Kitaplätze für Flüchtlingskinder - zur Kenntnis genommen
+- TOP 7.22: Einführung von Elektrobussen im Düsseldorfer Süden - zur Kenntnis genommen
+- TOP 7.23: Befragung und Beteiligungsprozesse der Rheinbahn - zur Kenntnis genommen
+- TOP 7.24: Schulbezirksgrenzen - zur Kenntnis genommen
