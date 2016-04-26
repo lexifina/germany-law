@@ -1,0 +1,94 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2016-04-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3884755
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3884755
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Friedenstr. 24, Abbruch eines Geschäftshauses/Neubau eines Wohnhauses - VORBESCHEID -
+- TOP 3.2.: Friedenstr. 12, ECKPARK - Geb.C - Aufstellen einer temporären Überseecontaineranlage, befristet auf 3 Jahre ab Nutzungsbeginn - Ateliergebäude
+- TOP 3.3.: Friedenstr. 12, ECKPARK - Geb. D - Aufstellen einer temporären Überseecontaineranlage, befristet auf 3 Jahre ab Nutzungsbeginn - Ateliergebäude mit integrierter Kleingastro
+- TOP 3.4.: Friedenstr. 12, ECKPARK - Geb. A - Aufstellen einer temporären Überseecontaineranlage, befristet auf 3 Jahre ab Nutzungsbeginn - Ateliergebäude mit integrierter Kleingastro und Ausstellungsflächen
+- TOP 3.5.: Friedenstr. 12, ECKPARK - Geb.B -Aufstellen einer temporären Überseecontaineranlage, befristet auf 3 Jahre ab Nutzungsbeginn - Ateliergebäude
+- TOP 3.6.: Grafinger Str. 2, Eckhaus - Nutzungsänderung Testküche zu Café mit Außenterrasse sowie Büro zu Einzelhandel
+- TOP 3.7.: Spielmöglichkeiten für Kinder am Überseeplatz erweitern
+- TOP 3.8.: Hundekot und Abfälle entlang des Hachinger Bach Flussbetts
+- TOP 3.9.: Bürgerbeteiligung und -information ernst nehmen; Busbahnhof Michaelibad
+- TOP 3.10.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) Planfeststellungsabschnitt (PFA) 3A - Vorwegmaßnahme Leuchtenbergring - Anhörungsverfahren -
+- TOP 3.11.: Aufstellen von Hundekottütenspender in Berg am Laim
+- TOP 3.12.: Aufnahme der Gartenfläche vom "Mahlerhaus" in die Denkmalliste der Landeshauptstadt München
+- TOP 3.1.: Leistungsprogramm 2017 der MVG (Fahrplanwechsel Dezember 2016)
+- TOP 3.2.: Bauliche Veränderungen des Gehweges an der Josephsburgstraße
+- TOP 3.3.: Fortsetzung des Glasfaserbaus in München Entwurf einer Beschlussvorlage für eine künftige Sitzung des Ausschusses für Arbeit und Wirtschaft
+- TOP 3.1.: Haus für Kinder Seebrucker Straße/Inzeller Weg
+- TOP 3.2.: Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter Sitzungsvorlage Nr. 14-20/V 05271
+- TOP 3.1.: Mittelfristige Finanzplanung 2015 - 2019 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2016 - 2020
+- TOP 3.1.: Grafinger Str. 2, Eckhaus - Nutzungsänderung Testküche zu Café mit Außenterrasse sowie Büro zu Einzelhandel - Baumschutz
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Liste der Bauvorhaben im 14. Stadtbezirk vom 14.03.2016 bis 03.04.2016
+- TOP 4.2.: Spielplatz für Kinder und Jugendliche auf dem Permoserplatz Antrag Nr. 14-20/B 02068 des BA 14 vom 23.02.2016 - Antwortschreiben -
+- TOP 4.3.: Soziale Stadt 2015 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Soziale Stadt" Sitzungsvorlage Nr. 14-20/V 04544
+- TOP 4.4.: Infrastrukturprogramm München I: Qualifizierte Infrastrukturuntersuchungen Sitzungsvorlage Nr. 14-20/V 04903
+- TOP 4.5.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren LBK zukunftsfähig ausstatten Sitzungsvorlage Nr. 14-20/V 03291
+- TOP 4.6.: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung Sitzungsvorlagen Nr. 14-20/V 04459
+- TOP 4.7.: Gartenstädte Erhalt des Charakters und bauliche Entwicklung Sitzungsvorlagen Nr. 14-20/V 04857
+- TOP 4.8.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 bis 31.12.2015 Sitzungsvorlage Nr. 14-20/V 05467
+- TOP 4.9.: A) Studien zu energetischen Standarts vorstellen B) Kostengünstig bauen in einer Großstadt - Modellprojekt der GWG Sitzungsvorlage Nr. 14-20/V 04989
+- TOP 4.10.: Heute nicht für gestern planen 5 Intelligente bauliche Lösungen für den Schallschutz Sitzungsvorlage Nr. 14-20/V 04973
+- TOP 4.11.: Wohnen für Alle a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge b) Anpassung des Finanzbedars - im Mehrjahresinvestitionsprogramm 2015 - 2019 - im Finanzhaushalt 2016 Sitzungsvorlage Nr. 14-20/V 05437
+- TOP 4.12.: Errichtung von Fahrradabstellanlagen im Bereich der U-Bahnhöfe Innsbrucker Ring und Michaelibad Sitzungsvorlage Nr. 14-20/V 05071
+- TOP 4.13.: Überplanung des Ostbahnhofes aktiv angehen Antrag Nr. 14-20/B 01980 des BA 14 vom 26.01.2016 - Antwortschreiben -
+- TOP 4.14.: Wildtiere in München II Erfassung der Wildtiere in München Sitzungsvorlagen Nr. 14-20/V 05025
+- TOP 4.15.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen Sitzungsvorlage Nr. 14-20/V 05188
+- TOP 4.1.: (E) Verlängerung der Grünphasen für Fußgänger zur Überquerung der Kreillerstraße Empfehlung Nr. 14-20 / E 00461 der Bürgerversammlung des 14. Stadtbezirkes Berg-am-Laim am 26.03.2015 - Ausfertigung des Beschlusses -
+- TOP 4.2.: Kreillerstraße/Schatzbogen Austausch der Lichtsignalanlage mit Kreuzungsumbau
+- TOP 4.3.: Einmündung Virgilstraße/Kreillerstraße übersichtlicher machen Antrag Nr. 14-20/B 01985 des BA 14 vom 26.01.2016 - Antwortschreiben -
+- TOP 4.4.: Verbesserungen im Stadtteilzentrum zeitnah verwirklichen Antrag Nr. 14-20/B 01988 des BA 14 vom 26.01.2016 - Antwortschreiben -
+- TOP 4.5.: Evangelisierung durch die Pfarrei Christus Erlöser am 17.04.2016, 24.04.2016, 01.05.2016 und 08.05.2016 von 15.30 Uhr bis 17.30 Uhr in der Grünanlage an der Echardinger Straße Stellungnahme nach § 20 BA-Satzung
+- TOP 4.6.: Riesenkickerturnier am 30.04.2016 von 14.00 Uhr bis 17.00 Uhr in der Grünanlage an der Bad-Kreuther-Straße Stellungnahme nach § 20 BA-Satzung
+- TOP 4.7.: Schank- und Speisenwirtschaft "Grafinger Stuben" Antrag auf unveränderte Fortführung
+- TOP 4.1.: Errichtung einer Kindertageseinrichtung mit 6 Kinderkrippengruppen an der Grafinger Straße 96 (Innsbrucker Ring 2. BA) Sitzungsvorlage Nr. 14-20/V 05315
+- TOP 4.2.: Sichere Perspektive für die Grundschulversorgung im Osten Berg am Laims schaffen Antrag Nr. 14-20/B 01821 des BA 14 vom 28.07.2015 - Antwortschreiben -
+- TOP 4.1.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 14-20/V 05344
+- TOP 4.2.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 14-20/V 05364
+- TOP 4.3.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale Sitzungsvorlage Nr. 14-20/V 05336
+- TOP 4.4.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 14-20/V 05362
+- TOP 4.5.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung/ Wahl der Seniorenvertretung 2017 Sitzungsvorlagen Nr. 14-20/V 05096
+- TOP 4.1.: ESV München Ost e.V., Abt. Fußball - Bewilligungsbescheid
+- TOP 4.2.: Projekt "Rote Ziegel", Bewilligungsbescheid
+- TOP 4.3.: Trägerverein KulturBürgerHaus, Verwendungsnachweis
+- TOP 4.4.: Bürgerkreis Berg am Laim e.V., Verwendungsnachweis
+- TOP 4.1.: Johann-Michael-Fischer-Platz, Ablehnungsbescheid
+- TOP 4.2.: Sonnwendjochstr. 66, Bewilligungsbescheid
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.3.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.3.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.3.5.2.: Ankündigungen
+- TOP 5.1.3.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
