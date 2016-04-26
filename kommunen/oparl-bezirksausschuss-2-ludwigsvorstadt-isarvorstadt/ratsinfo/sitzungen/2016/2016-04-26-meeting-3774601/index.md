@@ -1,0 +1,113 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-04-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3774601
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3774601
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Schulwegsicherheit im 2. Stadtbezirk, vgl. Vertagung 2016.03 TOP C 1.1
+- TOP .1.: Mittelfristige Finanzplanung 2015 - 2019, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2016 bis 2020, Anhörung der Stadtkämmerei, siehe auch B 3.3.1 und C 3.3.2
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .5.: Kriterien für BA-Budget
+- TOP .6.: Straßenfeste
+- TOP .1.: St.-Pauls-Platz, Variante autofreier Kirchplatz, PLENUMSBESCHLUSS
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Reifenstuelstraße 3, DG-Ausbau mit Errichtung von Balkonen und Nutzungsänderung einer Gaststätte im EG zu Büroräumen - TEKTUR
+- TOP .2.: Baaderstraße 86, Neubau eines Mehrfamilienhauses auf Bestandsgründung und Erweiterung der Tiefgarage unterhalb des Neubaus - VORBESCHEID (Fraunhoferstr. 30 - 30 e / Baaderstraße 86 90), Vertagung aus 2016.03 TOP B 3.1.13
+- TOP .3.: Lindwurmstraße 69, Nutzungsänderung: Laden zu Gastronomie durch Zusammenlegung von zwei bisher getrennten Einheiten, vgl. Vertagung 2016.03 TOP B 3.1.14
+- TOP .4.: Corneliusstraße 28/RGB, Erweiterung der Wohnfläche (+ 1 WE) um ein Voll- und ein Dachgeschoss, Neubau von Balkonen sowie Erweiterung des Aufzugs - TEKTUR, vgl. Vertagung aus 2016.03 TOP B 3.1.15
+- TOP .5.: Schillerstraße 30, DG-Aufstockung (6. OG + DG mit Galerieflächen) - VORBESCHEID, vgl. Vertagung aus 2016.03 TOP B 3.1.16
+- TOP .6.: Lindwurmstraße 89, Erweiterung Wohn- und Geschäftshaus durch Aufstockung und Errichtung eines Unterflurparkers - TEKTUR
+- TOP .7.: Kapuzinerstraße 21, Aufstockung eines Mehrfamilienhauses. Anbau eines Aufzuges / VORBESCHEID
+- TOP .8.: Erhardtstraße 10, Neubau eines Wohngebäudes (VGB + RGB) mit Tiefgarage - VORBESCHEID
+- TOP .9.: Adolf-Kolping-Straße 10, Nutzungsänderung eines Parkdecks zu einem temporären Biergarten
+- TOP .10.: Bavariaring 11, Umbau 1. DG (3.OG) / Ausbau 2.DG
+- TOP .11.: Palmstraße 8, Umbau und Sanierung des Gesamtanwesens mit Anbau von vier Balkonanlagen und zwei Außenaufzügen, Änderung e. Ladenwohnung mit EG zu e. separaten WE und e. Büro, Ausbau e. Nebenraums im EG in e.kl. Appartement, Ausbau der 2. DG-Ebene mit Erhöhung des Mansardendachs, Grundrissänderung der Bestandswohnungen
+- TOP .12.: Landwehrstraße 55, Umbau und Nutzungsänderung eines Wohn- und Geschäftshauses in ein Boardinghaus
+- TOP .13.: Schillerstraße 23, Nutzungsänderung - 1.-2.UG, EG: Shishabar und Imbiss zu Gaststätte mit Kleinbrauerei und Laden; 1. - 5. OG: Druckerei/Büro (5.OG) zu Hotel (51 Zimmer / 81 Betten); DG: Druckereikantine zu Betreiberwohnung und Housekeeping/Hotel, vgl. 2013.03 TOP B 3.1.4 und E-Mail der Lokalbaukommission vom 13.04.2016
+- TOP .14.: Mittererstraße 9, Aufstockung, Umbau und Nutzungsänderung eines Bürogebäudes zu einem Beherbergungsbetrieb (103 Zimmer) und einer Gaststätte im EG - Tektur, PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Mittelfristige Finanzplanung 2015 - 2019, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2016 bis 2020, Anhörung der Stadtkämmerei, siehe auch A 3.1 und C 3.3.2
+- TOP .2.: Bebauungsplan mit Grünordnung Josephspitalstraße, Herzog-Wilhelm-Straße, Sendlinger-Tor-Platz und Sonnenstraße, Einholung Stellungnahme als angrenzender Stadtbezirk für Aufstellungsbeschluss
+- TOP .1.: Querungsmöglichkeit an der Ecke Dreimühlen/Isartalstraße, PLENUMSBESCHLUSS
+- TOP .1.: Umgestaltung Holzplatz, vgl. Vertagung 2016.03 TOP C 1.2
+- TOP .2.: Erstellung Abstellfläche für Fahrräder in der Platenstraße (vor oder nähe Hausnummer 4), vgl. Vertagung 2016.03 TOP C 1.4 (N)
+- TOP .3.: Maßnahmen gegen die Bettelei rund um den Hauptbahnhof
+- TOP .4.: Maßnahmen gegen die Schwarzarbeiter rund um den Hauptbahnhof - "Arbeiterstrich"
+- TOP .5.: Altglascontainer am Bavariaring
+- TOP .6.: Umgestaltung Esperantoplatz
+- TOP .7.: Entfernung der Zelte entlang der Isar zwischen Reichenbachstraße und Baldeplatz
+- TOP .8.: Rattenbekämpfung im BA 2
+- TOP .9.: Lindwurmunterführung: Maßnahme zur Verbesserung der Sicherheit für Fußgänger
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Reichenbachstraße 43, Antrag für die Aufstellung einer Warenauslage, PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Mehr Polizeipräsenz und Streetwork in der Landwehrstraße (Abschnitt Paul-Heyse-Straße / Landwehrstraße), Empfehlung Nr. 14 - 20 / E 00747 der Bürgerversammlung des BA 2 vom 12.11.2015, Sitzungsvorlage Nr. 14 - 20/ V 05694; vgl. Vertagung 2016.03 TOP C 2.3.4
+- TOP .1.: LHM-RBS-SpA-FreizeitSport, Longboard-Workshop für Kinder auf der Skateanlage und angrenzende Wege an der Theresienwiese bei Hans-Fischer-Straße am 30.07.2016 und am 02.08.2016
+- TOP .2.: Action Painting im Rahmen der Respekt-Kampagne am 20.05.2016 am Gärtnerplatz
+- TOP .3.: Oktoberfest 2017 - Verlängerung - Anhörung zur Beschlussvorlage (Eilentscheidung)
+- TOP .4.: Regenbogen-Picknick am 11.06.2016 am Gärtnerplatz, PLENUMSBESCHLUSS
+- TOP .5.: Standkonzert am Gärtnerplatz im Rahmen der Respekt-Kampagne am 01.06.2016, PLENUMSBESCHLUSS
+- TOP .6.: Kulturstrand 2016 am Vater-Rhein-Brunnen - Vergabeverfahren des Kreisverwaltungsreferates - Bekanntgabe Bewerber und Bewerberinnen, Prüfung Referenzen und Aktzeptanz im Stadtviertel (Termin 15.04.2016, Eilentscheidung), vgl. Vertagung aus 2016.03 TOP C 3.1.2
+- TOP .3.2: Verkehr
+- TOP .1.: Leistungsprogramm 2017 der MVG (Fahrplanwechsel Dezember 2016)
+- TOP .1.: Tumblingerstraße 11, Aufstellung einer Sitzgelegenheit
+- TOP .2.: Mittelfristige Finanzplanung 2015 - 2019, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2016 bis 2020, Anhörung der Stadtkämmerei, siehe auch A 3.1 und B 3.3.1
+- TOP .3.: Rumfordstraße 26, Aufstellung einer Sitzgelegenheit, PLENUMSBESCHLUSS
+- TOP .4.: Klenzestraße 67, Aufstellung einer Sitzgelegenheit, PLENUMSBESCHLUSS
+- TOP .1.: Begrünungsplan BA 2
+- TOP .2.: Bürgeranliegen, Lindwurmstraße 70 a, Lärmbelästigung durch Bold/A1 "24-Std.-Bar" Konzept sowie dessen Open-Air-Nutzung
+- TOP .3.: Bürgeranliegen, Radweg Thalkirchner Straße, Querparker behindern Fahrradfahrer, vgl. Bürgerfragen BA-Sitzung vom 05.04.2016
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 09.05.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 10.05.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 11.05.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 23.05.2016 um 19 Uhr in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 31.05.2016 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Sozialreferat, Beschluss Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung/Wahl der Seniorenvertretung 2017, Beschluss der Vollversammlung des Stadtrates vom 16.03.2016, Sitzungsvorlage Nr. 14-20/V 05096
+- TOP .4.: Schulbauoffensive 2013-2030, Beschluss der Vollversammlung des Stadtrates vom 25.02.2016
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzkäfers (ALB); Verzicht auf Rodungen, Empfehlung Nr. 14 - 20 / E 00627 der Bürgerversammlung des Stadtbezirkes 15 am 08.10.2015, Sitzungsvorlage Nr. 14 - 20 / V 05188, Beschluss der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neue Förderkategorie im Wohnungsbau / Klein-Wohnungen realisieren Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016, Sitzungsvorlage Nr. 14-20/V 05662
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Wohnen in München V - Erfahrungsbericht für das Jahr 2015, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016, Sitzungsvorlagen Nr. 14 - 20 / V 05855
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Bekanntgabe PERSPEKTIVE MÜNCHEN, Münchner Stadtteilstudie - Fortschreibung 2015, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016, Sitzungsvorlagen Nr. 14 - 20 / V 05569
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichen Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Frühlingsfest 2016 Theresienwiese, Anzeige eines gewerbliches Feuerwerks am 22.04.2016, Information des Kreisverwaltungsreferates vom 05.04.2016
+- TOP .7.: Runder Tisch "Hauptbahnhof", BA-Antrags-Nr. 14 - 20/ B 02094 des BA 2 vom 23.02.2016, Antwortschreiben des Kreisverwaltungsreferates vom 07.04.2016
+- TOP .8.: Baureferat, Beschluss Radlstammstrecke ausbauen und fertigstellen, Sitzungsvorlage Nr. 14 - 20 / V 05205, Beschluss des Bauausschusses vom 05.04.2016 (SB)
+- TOP .9.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinen-lärmschutzverordnung (32. BImSchV), Ausnahmezulassung gem. § 7 Abs.2 der 32. BImSchV für Instandhaltung Fahrweg Tram, Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV, Bescheid vom 08.03.2016 des Referates für Gesundheit und Umwelt
+- TOP .10.: Baustelle Kaiser-Ludwig-Platz, vgl. 2016.03 TOP C 5.4, Antwort-E-Mail vom Kreisverwaltungsreferat vom 13.04.2016
+- TOP .11.: Baureferat, Beschlussvorlage Maßnahmen für eine saubere Isar insbesondere Ergebnisse Runder Tisch "Erholungsraum Isar" am 09.12.2015, Beschluss des Bauausschusses vom 26.04.2016, Sitzungsvorlage Nr. 14 - 20 / V 05605
+- TOP .12.: Angespannte Situation zwischen Radfahrern und Fußgängern am Fußweg am Glockenbach, BV-Anfrage Nr. 08 - 14/Q 00554 aus der Bürgerversammlung des BA 2 vom 07.11.2013, Antwortschreiben des Baureferates vom 08.04.2016
+- TOP .13.: Baureferat, Beschlussvorlage Am Glockenbach und Kreuzungsbereiche Geyer- / Baldestraße und Jahn- / Baumstraße im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt, Straßenumbau, Beschluss des Bauausschusses vom 26.04.2016, Sitzungsvorlage Nr. 14 - 20 / V 05486
+- TOP .14.: Theresienwiese, Anzeige Feuerwerk in München zum Frühlingsfest am 29.04.2016
+- TOP .15.: Behindertengerechter Ausgang an der U-Bahn, Herzog-Heinrich- / Kapuzinerstraße, Anfrage Nr. 14 - 20 / Q00194 aus der Bürgerversammlung des BA 2 vom 12.11.2015, Antwortschreiben des Referates für Arbeit und Wirtschaft vom 07.04.2016
+- TOP .1.: WLAN-Hotspot in den BA-Geschäftsstellen, Schreiben des Direktoriums vom 04.04.2016
+- TOP .2.: Änderung der BA-Satzung und der BA-Geschäftsordnung
+- TOP .1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Veranstaltung "Temporäres Isarflussbad" am 03.07.2016
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
