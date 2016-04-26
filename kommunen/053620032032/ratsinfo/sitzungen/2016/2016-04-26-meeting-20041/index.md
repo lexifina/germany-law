@@ -1,0 +1,85 @@
+# Haupt- und Finanzausschuss (12. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-04-26T17:05:00+02:00
+- Ende: 2016-04-26T21:18:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQtlU_vuvE7H5Yz8wAQ2FLo
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20041
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZet54dO7u79U79d9SpRwTq7UY3GQGMGGLTSLrIFMGWXy/Bekanntmachung_Haupt-_und_Finanzausschuss_26.04.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWyNuRlc207wDCghCvQAYBYnLVAIv5TSwroPZf8jdyDm/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_26.04.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung von Ausschüssen und Arbeitskreisen; hier: Antrag der CDU-Fraktion
+- TOP 3.2: hier: Umbesetzung des Arbeitskreises Personal
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 1. Änderungssatzung zur Satzung der Kolpingstadt Kerpen über die Erhebung von Gebühren für den Krankentransport und Rettungsdienst
+- TOP 4.2: 2. Satzung zur Änderung der Satzung der Stadt Kerpen über die Erhebung von Gebühren für den Einsatz des Notarztes
+- TOP 4.3: Neufassung der Gebührensatzung für die Benutzung der Obdachlosenunterkünfte der Kolpingstadt Kerpen
+- TOP 4.4: Neufassung der Satzung über die Errichtung, Unterhaltung und Benutzung von Obdachlosenunterkünften der Kolpingstadt Kerpen
+- TOP 4.5: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass
+- TOP 4.6: Neufassung der Satzung der Kolpingstadt Kerpen über die Ablösung von Stellplätzen
+- TOP 5.: Dienstanweisung für den Abschluss und die Abwicklung von Finanzgeschäften
+- TOP 6.: Stadtplanung
+- TOP 6.1: Abschluss eines Erschließungsvertrages zum Bebauungsplan BR Nr. 356 "Eifelstraße/Heerstraße"
+- TOP 6.2: Abschluss eines städtebaulichen Vertrages zur Finanzierung von baulichen Verbesserungsmaßnahmen im Bereich des Denkmalplatzes im Stadtteil Brüggen
+- TOP 6.3: Abschluss eines städtebaulichen Vertrages zur Umgestaltung des Marktplatzes im Stadtteil Türnich
+- TOP 6.4: Abschluss einer städtebaulichen Planungsvereinbarung für den Bereich des Bebauungsplanes BL Nr. 297 "Haagstraße"
+- TOP 6.5: Abschluss eines städtebaulichen Verpflichtungsvertrages im Rahmen des vorhabebezogenen Bebauungsplanes SI Nr. 359 "Hahner Äcker West"
+- TOP 6.6: Konzept für sozialgerechte Bodennutzung und Planung in Kerpen
+- TOP 6.7: Sozialer Wohnungsbau für Flüchtlinge in Eigenregie
+- TOP 6.8: Sozialer Wohnungsbau in Eigenregie
+- TOP 7.: Maßnahmenplan zur Sicherstellung des Rechtsanspruchs für Kinder über und unter drei Jahren Prüfung der Standorte Sindorf und Horrem
+- TOP 8.: Personal-/Stellenplanangelegenheiten
+- TOP 8.1: Antrag der Fraktion Bündnis90/Die Grünen vom 07.12.2015
+- TOP 8.2: Vorübergehender Personalmehrbedarf innerhalb der Abteilung 16.1, Stadtplanung
+- TOP 8.3: Personalbedarf in der Abteilung 16.4, Bauordnung
+- TOP 8.4: Stellenbedarf in der Abteilung 18.1, Zentrales Baumanagement
+- TOP 8.5: Stellenmehrbedarf innerhalb der Abteilung 20.4
+- TOP 8.6: Stellenmehrbedarf innerhalb der Abteilung 21.2 Ausländerwesen
+- TOP 8.7: Stellenmehrbedarf in der Abteilung 22.2, Schulsekretariate
+- TOP 8.8: Personalbedarf in der Abteilung 23.4; Kindertagesstätten
+- TOP 8.9: Personalbedarf in der Abteilung 23.4, sonstige Personalfachkraftstunden in den Kindertagesstätten
+- TOP 8.10: Entwurf Stellenplan 2016
+- TOP 8.11: Einrichtung der Stelle eines Mobilitätsmanagers/einer Mobilitätsmanagerin
+- TOP 9.: Haushaltsangelegenheiten
+- TOP 9.1: Haushalt 2016: Zeitnahe Abrechnung von Beiträgen
+- TOP 9.2: Haushalt 2016: Einnahmen durch Werbeflächen
+- TOP 9.3: Haushalt 2016: Home Office, Zentrales Controlling
+- TOP 9.4: Organisations-, Effizienz- und Aufgabenuntersuchung Produkt 11.111.10 - Organisationsangelegenheiten
+- TOP 9.5: Winterdienst an Schulen und Kindertagesstätten
+- TOP 9.6: Moratorium Sachverständigen-, Anwalts- und Gerichtskosten im Bereich "Planmäßig bewirtschaftete Wälder" (Produkt 55.555.10)
+- TOP 9.7: Haushaltssatzung für das Haushaltsjahr 2016 einschließlich eines Haushaltssicherungskonzeptes und des Stellenplanes
+- TOP 9.8: Zuschuss Musikschule La Musica
+- TOP 9.9: Naturkindergarten an Schloss Türnich
+- TOP 9.10: Weitergabe erhöhter Förderbeiträge in Gänze an die Offenen Ganztagsschulen (OGS)
+- TOP 9.11: Schülerbeförderungskosten
+- TOP 10.: Vergabebericht für die Jahre 2014 und 2015
+- TOP 11.: Hallenbad Kerpen - Bericht Gewährleistungsüberwachung und Instandhaltung
+- TOP 12.: Hilfe für Flüchtlinge in Idomeni hier: Antrag der Fraktion Bündnis 90/Die Grünen sowie der Fraktion DIE LINKE
+- TOP 13.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 13.1: Sanierung Erftlagune hier: Bereitstellung von überplanmäßigen Haushaltsmitteln
+- TOP 13.2: Bereitstellung von überplanmäßigen Haushaltsmitteln für das Bauvorhaben: Errichtung von Flüchtlingsunterkünften an der Erftstraße 188 in Kerpen-Sindorf
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Sinkende Flüchtlingszahlen hier: Anfrage der Fraktion DIE LINKE vom 04.04.2016
+- TOP II.: Nichtöffentlicher Teil
+- TOP zu TOP 8.10: Übersicht Veränderungen Stellenplan hier: nichtöffentliche Unterlagen zu TOP 8.10 / Vorlage 122.16
+- TOP 16.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 17.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 17.1: Sanierung Erftlagune hier: Beauftragung eines Ingenieurbüros für die Leistungsphasen 8 und 9 Honorarordnung für Architekten und Ingenieure (HOAI)
+- TOP 18.: Aufhebung einer Dringlichkeitsentscheidung hier: dauerhafte Unterbringung zugewiesener Flüchtlinge in Kerpen
+- TOP 19.: Verkauf einer Teilfläche in Brüggen
+- TOP 20.: Nachtrag Kanal- und Straßenbau Kerpener Straße in Sindorf, IV. und V. Bauabschnitt
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Bestellung und Eingruppierung eines Amtsleiters
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen gem. § 18 Geschäftsordnung
