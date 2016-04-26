@@ -1,0 +1,103 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-04-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776588
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776588
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Stärkung der Bezirke, Schreiben der Senioren Union an OB Reiter, sowie Antrag an die CSU-Fraktion des Bayrischen Landtags
+- TOP 1.3.: Anhörungen
+- TOP 10: sonstiges
+- TOP 10.1.: Ohmstr. 12, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 10.2.: Aufstellung von Zeitungsentnahmegeräten der Schwabing News a) Leopoldstr. 37, neben Bushaltestelle b) Münchner Freiheit 7, neben Kiosk
+- TOP 10.3.: Occamstr.26, Entscheidung über Sondernutzungserlaubnis (Freischankfläche)
+- TOP 10.4.: Leopoldstr. 98, Antrag auf Fahrradabstellfläche vor einem Gewerbebetrieb (Nutzungsänderung)
+- TOP 10.5.: Feilitzschstr. 12, Entscheidung über eine Sondernutzungserlaubnis (Freischankfläche)
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Siegfriedstr. 19, Fl.Nr. 381/9, Umbau und Erweiterung eines Ladenlokals, Baumfällung laut Plan
+- TOP 10.2.: Ungererstr. 141, Fl.Nr. 960/0, Neubau einer Wohnanalge mit Ladengeschäften, Praxen und Tiefgarage. Fällung eines Spitz-Ahorn und einer Stieleiche.
+- TOP 10.3.: Carl-Orff-Bogen 126, 1 Linde und 1 Vogelkirsche
+- TOP 10.4.: Floriansmühlstr. 574, 11 Ahorn
+- TOP 10.5.: Leopoldstraße 252, Fl.Nr. 840/0,Kantine mit Küche zu Kinderkrippe, 1 Kupfer-Felsenbirne, 1 Feuer-Ahorn, 3 Spitzahorn
+- TOP 10.1.: Leopoldstr. 180, Neubau eines 14 geschossigen Wohn- und Geschäftsgebäudes, FlNr. 898/0
+- TOP 10.2.: Leopoldstraße 13, Errichtung eines Wirtsgartens und eines Straßencafés, FlNr. 4423/0
+- TOP 10.3.: Heidemannstr. 50, Errichung des Containerdorfs 7 als Flüchtlingsunterkunft in der ehem. Bayernkaserne, FlNr. 223/6
+- TOP 10.4.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2015 bis 2019 (siehe auch C.3.2.2 und D.3.2)
+- TOP 10.1.: Sofortige Sicherung der Fassade des Hauses Wagnerstraße 1. Die Stadt München möchte den Eigentümer des Hauses Wagnerstr. 1 mit sofortiger Wirkung auffordern, die Fassade des Hauses zu reparieren und für Sicherheit zu sorgen.
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Beschlussvorlage der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP 10.3.: Netzbaumaßnahmen der Stadtwerke
+- TOP 10.4.: Information der Stadtwerke über Baustellen, Stromprojekt
+- TOP 10.5.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen, Empfehlung Nr. 14-20 / E 00627 der Bürgerversammlung des Bezirkes 15 Trudering-Riem.
+- TOP 10.6.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren ? LBK zukunftsfähig ausstatten - , Beschluss des Stadtrates vom16.03.2016, Sitzungsvorlage Nr. 14-20/V 03291
+- TOP 10.7.: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung, Beschluss des Stadtrates vom 16.03.2016, Sitzungsvorlage Nr. 14-20/V 04459
+- TOP 10.8.: Information der Stadtwerke über Baustellen, Wasserprojekt Situlistraße
+- TOP 10.9.: Bebauungsplan mit Grünordnung Nr. 2024 Lilienthalallee (westlich Maria-Probst-Straße (östlich) Herstellung der öffentlichen Verkehrsflächen, Neubau einer Geh- und Radwegverbindung zwischen der U-1678 und der Maria-Probst-Straße, Sitzungsvorlagennummer 14-20 / V 05118
+- TOP 10.1.: Leopoldstraße, Radweg ausbessern (Initiative: Dr. Horst Engler-Hamm)
+- TOP 10.2.: Gehsteigparken bei weiträumigen Baustellenabsperrungen (Initiative: Für die Fraktion der Grünen Ekkehard Pascoe)
+- TOP 1.1.: Leistungsprogramm 2017 der MVG, Fahrplanwechsel Dezember 2016
+- TOP 1.2.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2015 bis 2019 (siehe auch B.3.2.4 und D.3.2)
+- TOP 1.1.: Antrag auf dauernde Radar und Video Überwachung Leopoldstr. / Münchner Freiheit
+- TOP 1.1.: Firmenparkplätze in der Parkstadt Schwabing
+- TOP 1.1.: Kurzparkzone Grünecker Straße 2
+- TOP 1.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Echinger Str. 9 b
+- TOP 1.1.: Wertstoffcontainerstandort Admiralbogen/Am Kiefernwald (Unterflurcontainer)
+- TOP 1.3.: Neuregelung der Parkordnung Lützelsteiner Straße / Frankplatz / Völckerstraße
+- TOP 1.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2016, Pläne zur Tram-Nordtangente weiter verfolgen, Sitzungsvorlagen Nr. 14-20/ V 04690
+- TOP 1.5.: Antwort auf ein weitergeleitetes Bürgeranliegen, Wildes Parken unter der U-Bahn-Hochbrücke Heidemannstraße - Burmesterstraße, A.5.1/02/16
+- TOP 1.6.: Pläne zur Tram-Nordtangente weiter verfolgen, Sitzungsvorlagennummer. 14-20 / V 04690
+- TOP 1.7.: Verbindungsstraße mit Bahnübergang zwischen Maria-Probst-Straße und Lilienthalallee im 12. Stadtbezirk Schwabing Freimann, Sitzungsvorlagennummer 14-20 / V 04965
+- TOP 1.8.: Maßnahmen für eine saubere Isar insbesondere Ergebnisse Runder Tisch ?Erholungsraum Isar? am 09.12.2015, Sitzungsvorlagennummer 14-20 / V 05605
+- TOP 1.1.: Anmeldung einer Veranstaltung, Flohmarkt Parkstadt Schwabing, Grünfläche zwischen Lilly-Reich und Gunta-Stölzl Straße (Parkstadt Schwabing)
+- TOP 1.2.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2015 bis 2019 (siehe auch B.3.2.4 und C.3.2.2)
+- TOP 1.1.: Schulsanierung Maximiliansgymnasium. Ausweichquartier,Schreiben des Elternbeirats sowie der Schulleitung des Maximiliansgymnasiums.
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: "Drei Linden", Kulturheimstr. 36, 80939 München
+- TOP 1.2.: ?Vereinswirtschaft?, nicht öffentliche Vereinswirtschaft, Josef-Wirth-Weg 17, 80939 München
+- TOP 1.3.: ?Ruffs Burger?, Occamstr. 4, 80802 München
+- TOP 1.4.: "Queen's", Leopoldstr. 44, 80802 München
+- TOP 1.5.: ?Don Luca?, Leopoldstr. 44, 80802 München
+- TOP 1.6.: ?Cotidiano? (ehemals ?Caffee Florian?), Hohenzollernstr. 11, 80801 München
+- TOP 1.1.: Zuwendungsbewilligung Corso Leopold e.V.
+- TOP 1.2.: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017, Beschluss der Vollversammlung, V05096
+- TOP 1.3.: Anzeige einer Versammlung ?Gedenktag für verstorbene DrogengebraucherInnen am 21.07.2016, Münchner Freiheit
+- TOP 1.4.: Verwendungsnachweise a) Seniorenwohnen kfg für ?Feierliches Weihnachtssingen? Bescheid vom 23.09.2015 b) Theater des hölzernen Gelächters für ?Sommertheaterproduktion? Bescheid vom 09.07.2015
+- TOP 1.5.: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 a) für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 05326 b) für den Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale, Sitzungsvorlage Nr. 14-20 / V 05336 c) für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 05344 d) für den Bereich ?Förderung freier Träger? des Stadtjugendamtes, Sitzungsvorlage Nr. 14-20 / V 05364
+- TOP 1.6.: Anhörungsverfahren , BMW Open 2016, Aumeisterweg, Eilentscheidung des Vorsitzenden
+- TOP 1.7.: A) Studien zu energetischen Standards vorstellen, Antrag Nr. 14-20 / A 01470, vom 22.10.2015 B) Kostengünstig bauen in einer Großstadt ? Modellprojekt der GWG, Sitzungsvorlagen Nr. 14-20 / V 04989
+- TOP 1.8.: Heute nicht für gestern planen 5 Intelligente bauliche Lösungen für den Schallschutz, Antrag Nr. 14-20 / V 04973
+- TOP 1.9.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für die Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 ? 31.12.2015, Sitzungsvorlagen Nr. 14-20 / V 05466
+- TOP 1.10.: Verwendungsnachweis, Poesieboten e.V., Aktion Mitmach-Poesie 2 vom 30.10.2015
+- TOP 1.11.: Kurzbericht des Rationaltheaters zur Beschaffung eines Videobeamers. BA Beschluss vom 15.12.2015
+- TOP 1.12.: Bescheid Veranstaltung auf öffentlichem Verkehrsgrund, Spezialmarkt ?Die Kunst des italienischen Geschmacks? an der Münchner Freiheit vom 22.04. bis 27.04.2016
+- TOP 1.13.: Schulbauoffensive 2013-2030, Sitzungsvorlagennummer 14-20 / V 05131
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.6.: Leopoldstr. 41, Aufstellung von einer Zeitungskiste auf öffentlichem Grund, Kaiser's Tengelmann GmbH
+- TOP 1: (E) Verkehrsberuhigung im Bereich des Spielplatzes Lillweg und Wallnerstraße Empfehlung Nr. 14-20 / E 00530 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 07.07.2015
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Initiative "Farbe und Faden" Ausstellung "Von Farbe und Faden" vom 22.04. - 05.06.2016
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Initiative "Videokunst" Festival der Videokunst vom 09. - 24.04.2016
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Mohr-Villa-Freimann e.V. Projekt "Mohr-Villa goes Camp: Theater ohne Worte" im Sommer 2016
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt Play Me, I'm Yours - Aufstellung von öffentlichen Klavieren vom 01.09. - 28.09.2016
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Domagkateliers gGmbH Offene Ateliertage vom 10. - 12.06.2016
+- TOP 1.6.: (E) Budget der Bezirksausschüsse Rettet die Traumstadt e.V. Traumstadt-Bürgerfest am 07.05.2016
+- TOP 1.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.5.3.: Sonstige Unterrichtungen
+- TOP 1.2.: Straßenbauarbeiten Freisinger Landstraße, hier Josef-Wirth-Weg vom 29.02.2016 ? Mai 2016
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
