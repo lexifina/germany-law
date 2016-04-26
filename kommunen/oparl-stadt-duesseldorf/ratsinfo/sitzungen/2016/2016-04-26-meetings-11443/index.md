@@ -1,0 +1,59 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-26T17:00:00+02:00
+- Ende: 2016-04-26T19:13:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11443
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11443
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift BV5-Sitzung vom 23.02.2016 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00262161.pdf
+- Ergebnisprotokoll: Niederschrift BV5-Sitzung vom 23.02.2016 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00262161.pdf
+- Wortprotokoll: Niederschrift BV5-Sitzung vom 23.02.2016 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00262161.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung neuer Mitglieder der BV 5 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 2/2016 - einstimmig beschlossen
+- TOP 4: Erneuerung Druckrohrleitung Pumpwerk Arnheimer Straße - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Beanstandung eines Beschlusses - mehrheitlich abgelehnt
+- TOP 9: Kunsthandwerkermärkte auf dem Klemensplatz im Jahre 2016 - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stb. 5 - einstimmig beschlossen
+- TOP 11: Parkscheibenregelung im historischen Ortskern Kaiserswerth - beantwortet
+- TOP 12: Umzug Realschule Golzheim - Verkehrsbelastung - beantwortet
+- TOP 13: Umzug Realschule Golzheim - Bodenbelastung und Wegfall Sportplatz - beantwortet
+- TOP 14: Verkehrssituation Kreuzbergstraße - beantwortet
+- TOP 15: Entwässerungsproblematik Schützenplatz Franz-Vaahsen-Grundschule Wittlaer - beantwortet
+- TOP 16: Platzgestaltung Alte Flughafenstraße/Lilienthalstraße - beantwortet
+- TOP 17: Nutzung der Räumlichkeiten der Angermunder Feuerwehr - beantwortet
+- TOP 18: Umkleidekabinen des TV Kalkum-Wittlaer am Grenzweg - beantwortet
+- TOP 19: Errichtung Fußgängerüberweg in Höhe Franz-Vaahsen-Weg/Duisburger Landstraße
+- TOP 20: Bearbeitungszeit Beanstandung - beantwortet
+- TOP 21: U-Bahnhaltestelle Klemensplatz
+- TOP 22: Instandhaltung und Pflege von Spazier- und Wanderwegen
+- TOP 23: Park & Ride Parkplätze im Stadtbezirk 5
+- TOP 24: Öffnungszeiten Rheinbad nach Eröffnung des Neubaus
+- TOP 25: Rheinbad - Weitere organisatorische Fragen
+- TOP 26: Bänke am neuen Rheindeich Wittlaer - beantwortet
+- TOP 27: Verspäteter Unterrichsbeginn Friedrich-von-Spee-Grundschule Angermund - beantwortet
+- TOP 28: Niederrheinstraße/Spielberger Weg - Abpollern einer Parkbucht - zur Kenntnis genommen
+- TOP 29: Friedhof Angermund - Fläche für Baumbestattungen - zur Kenntnis genommen
+- TOP 30: Nette Toilette im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 31: Parksituation Alte Kalkumer Straße und Zeppenheimer Straße - zur Kenntnis genommen
+- TOP 32: Stadtsparkasse Düsseldorf im Stadtbezirk 5 - einstimmig beschlossen
+- TOP 33: Maßnahmen gegen unzulässiges Befahren und Parken Landschaftsschutzgebiet Kalkumer Forst - einstimmig beschlossen
+- TOP 34: Aufstellung eines öffentlichen Bücherschrankes in Angermund - einstimmig beschlossen
+- TOP 35: Parkplatzsituation An Sankt Swidbert - mehrheitlich beschlossen
+- TOP 36: Mehr Mülleimer auf dem Lohauser Deich - einstimmig beschlossen
+- TOP 37: Umbau südliches Kuhtor - mehrheitlich beschlossen
+- TOP 38: Forschungsprojekt "Welcome Points" - einstimmig beschlossen
+- TOP 39: Stellungnahmen 26.04.2016 - zur Kenntnis genommen
+- TOP 40: Umbau Kinderspielplatz Nordpark - zur Kenntnis genommen
+- TOP 41: Verschiedenes - zur Kenntnis genommen
+- TOP 42: Priorität RRX in Angermund im Bundesverkehrswegeplan - zurückgezogen
