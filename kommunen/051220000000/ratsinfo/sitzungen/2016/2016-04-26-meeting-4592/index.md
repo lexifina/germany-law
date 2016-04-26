@@ -1,0 +1,54 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-04-26T17:00:00+02:00
+- Ende: 2016-04-26T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZNZeW4lUs39sRMT2VrHDsY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4592
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ9VNsh1hqVqXDfUDTWJktpAUU07SZ1UH6B4d-NlMFRS/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_26.04.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Bestellung der Museumsleitung des Deutschen Klingenmuseums Solingen
+- TOP 4: Bestellung des Leiters des Bergischen Veterinär- und Lebensmittelüberwachungsamtes
+- TOP 5: Bestellung der Leitung des Stadtdienstes Planung, Mobilität und Denkmalpflege
+- TOP 6: I. Satzung zur Änderung der Satzung der Stadt Solingen für die Durchführung von Bürgerentscheiden
+- TOP 7: Aufwertung des Theaterumfeldes
+- TOP 8: Bergische Volkshochschule Zweckverband der Städte Solingen - Wuppertal für allgemeine und berufliche Weiterbildung sowie Familienbildung
+- TOP 9: Bildung und Besetzung der Kreiswahlausschüsse für die Wahlkreise 33 Wuppertal III - Solingen II und 34 Solingen I
+- TOP 10: Zusammenarbeit zu Klimaschutz und Anpassung an den Klimawandel mit den Städten Jinotega/Nicaragua und Thiès/Senegal
+- TOP 11: 2030-Agenda für Nachhaltige Entwicklung
+- TOP 12: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP 13: Strategische Neuausrichtung IT
+- TOP 14: Neufassung der Vergabeordnung
+- TOP 15: Aufhebung der Satzung der Stadt Solingen über die Errichtung einer gemeinnützigen Einrichtung im Sinne der §§ 51 ff. AO 1977 (Betreiberschaft Eissporthalle)
+- TOP 16: Selbstverpflichtung des Rates zur arbeitnehmerfreundlicheren Terminfindung für Ausschüsse und Sitzungen
+- TOP 17: Unterausschuss Gender, Inklusion und Demografische Entwicklung
+- TOP 18: Verschiedenes
+- TOP 19: Rats-App
+- TOP 20: Implementierung einer Kalenderfunktion in die RatsApp oder das Ratsportal
+- TOP 21: Versand offizieller Emails durch Praktikanten
+- TOP 22: Umbenennung Bürgerbüro Clemens-Galerien
+- TOP 23: Qualitätsbericht 2015 der Feuerwehrleitstelle Solingen - Wuppertal
+- TOP 24: Sonderprogramm des Landes Nordrhein-Westfalen „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen“
+- TOP 25: Bestellung eines neuen Leiters des Dienstleistungsbetriebs Gebäude Solingen
+- TOP 26: Übertragung der Leitungsverantwortung für den Stadtdienst Einwohnerwesen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Anmietung von Räumlichkeiten zur Unterbringung von Flüchtlingen
+- TOP 4: Vergabe der Notarztdienstleistung 2016 - 2021
+- TOP 5: Genehmigung von Gesellschafterbeschlüssen der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 6: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 7: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG
+- TOP 8: Bestellung der Museumsleitung des Deutschen Klingenmuseums Solingen
+- TOP 9: Bestellung des Leiters des Bergischen Veterinär- und Lebensmittelüberwachungsamtes
+- TOP 10: Bestellung der Leiterin des Stadtdienstes Planung, Mobilität und Denkmalpflege
+- TOP 11: Verschiedenes
