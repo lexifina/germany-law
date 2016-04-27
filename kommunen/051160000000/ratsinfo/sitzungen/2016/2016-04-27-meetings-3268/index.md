@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-04-27T15:00:00+02:00
+- Ende: 2016-04-27T18:13:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3268
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3268
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00119616.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00119616.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00119616.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 13. Sitzung des Rates am 16.12.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 14. Sitzung des Rates am 02.03.2016- öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3: Wahl einer/eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 4: Zusammenschluss mit der ITK Rheinland (HSP 2015 - 0223) - Mit Stimmenmehrheit beschlossen
+- TOP 5: Bericht zur Umsetzung des Haushaltssanierungsplans zum 15.04.2016 - Kenntnisnahme
+- TOP 6: Zuwendungen 2015 - Kenntnisnahme
+- TOP 7: Vergütungsordnung Verwaltungsrat SBMG AöR - Mit Stimmenmehrheit beschlossen
+- TOP 8: Beteiligung der NEW Kommunalholding an der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 10: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 11: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2016 - Kenntnisnahme
+- TOP 12: Auflösung Abendrealschule - Einstimmiger Beschluss
+- TOP 13: Umwandlung der Kath. Grundschule Waisenhausstraße - Einstimmiger Beschluss
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Satzung Veränderungssperre Bonnenbroich-Geneicken - Mit Stimmenmehrheit beschlossen
+- TOP 16: Bebauungsplan Nr. 761/W - Stadtbezirk West - Rheindahlen-Mitte - Mit Stimmenmehrheit beschlossen
+- TOP 17: Bundesverkehrswegeplan 2030 - Stellungnahme der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Fortführung Projekt Stromsparcheck – Zuschuss der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 20: Nitratbelastung im Grundwasser der Stadt Mönchengladbach - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 21: Beschlussrücknahme „Nette Toilette“ & Neu – Konzeptionierung öffentlicher, barrierefreier WCs - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Park & Ride - Flächen - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 24: Antrag "Familienkarte nach Düsseldorfer Modell" - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 25: Umbesetzung - Einstimmiger Beschluss
+- TOP 26: Radstation Mönchengladbach - Stand und weitere Planungen - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Wasserpreismodell der NEW AG - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Umbesetzungen - Einstimmiger Beschluss
+- TOP 29: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 30: RWE-Kraftwerkserneuerungsprogramm - In den nächsten Ratszug geschoben
+- TOP 31: Anfragen und Mitteilungen
+- TOP 31.1: Anfrage von RH Schultz (DIE LINKE) zur Bezahlung (Tarife) in städtischen Gesellschaften
+- TOP 31.2: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zu preisgünstigen Wohnungen
+- TOP 31.3: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zu Personalkosten in der AöR
+- TOP 31.4: Anfrage von RH Dr. Brenner (Bündnis 90/Die Grünen) zu Flüchtlingskindern
+- TOP 31.5: Anfrage von Dr. Wolkowski (Bündnis 90/Die Grünen) zu Flüchtlingsunterkünften
+- TOP 31.6: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zu Ausgrabungen an den Roermonder Höfen
+- TOP 31.7: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Einführung der generellen Gebührenpflicht im Bereich der Rundfunk und Fernsehgebühren
+- TOP 31.8: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zum Brunnenhof, Pfarrsaal der Kath. Gemeinde Sankt Vitus, das Münster und die Propstei
+- TOP 31.9: Mitteilung von Oberbürgermeister Reiners zur Metropolregion Rheinland
+- TOP 31.10: Mitteilung von Oberbürgermeister Reiners zum Thema Seasons
