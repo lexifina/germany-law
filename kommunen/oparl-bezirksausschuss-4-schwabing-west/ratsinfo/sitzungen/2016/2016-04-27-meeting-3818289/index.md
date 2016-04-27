@@ -1,0 +1,77 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-04-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818289
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818289
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .3.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2016-2020 (vgl. TOP D 2.8 und E 2.2.5)
+- TOP .1.: Ackermannbogen e.V.: Kultur-Litfaßsäule am Stadtplatz Ackermannbogen
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 72, ?Samina? Schlafsysteme: Warenauslage in Form eines Schafes
+- TOP .2.: Belgradstr. 15 a, Aufstellung von zwei zusätzlichen Postkartenständern
+- TOP .3.: Aufstellung von Zeitungsentnahmegeräten für die ?Schwabing News? a) vor dem Nordbad, Schleißheimer Straße b) gegenüber Elisabethplatz 1 neben dem Kiosk c) Kurfürstenplatz 6 a, neben dem Kiosk
+- TOP .4.: Herzogstr. 58, ?Fridas Schmuck und Trauringe?: Aufstellen eines Postkartenständers
+- TOP .5.: Elisabethplatz 2, ?Joe's Garage?: Abstellfläche auf öffentlichem Grund für Vermietung und Verkauf oder zum Abstellen von Fahrrädern vor bzw. nach der Reparatur
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Gemeinnützige Flohmärkte auf dem Elisabethplatz (07.05., 04.06., 02.07., 06.08. und 03.09.2016)
+- TOP .1.: Bürgerin: Entfernung der restlichen Kasernenmauer in der Schwere-Reiter-Straße
+- TOP .2.1.: Planen
+- TOP .1.: Bebauungsplan mit Grünordnung Arcisstraße (östlich), Elisabethplatz (südlich) und Nordendstraße (westlich) - (Teiländerung des Bebauungsplans Nr. 259)
+- TOP .2.: Clemensstr. 43: Verbindung des Hobbyraums im KG mit dem EG durch Einbau einer Innentreppe sowie Einbau eines Duschbades im KG
+- TOP .3.: Isabellastr. 23: Umbau, Ausbau und Sanierung des Dachgeschosses sowie Anbau eines Personenaufzugs an ein Wohngebäude
+- TOP .4.: Vorbescheid Infanteriestr. 12: Errichtung dreier Mehrfamilienhäuser mit Büroeinheit (EG) und Tiefgarage
+- TOP .5.: Karl-Theodor-Str. 62: Dachgeschoss-Ausbau
+- TOP .6.: Karl-Theodor-Str. 64-68: DG-Ausbau eines Mehrfamilienhaues, Errichtung von Doppelparkern
+- TOP .7.: Karl-Theodor-Str. 70-72: DG-Ausbau eines Mehrfamilienhaues, Errichtung von Doppelparkern
+- TOP .8.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2016-2020 (vgl. TOP B 2.3 und E 2.2.5)
+- TOP .9.: Egmontstr. 5: Errichtung zweier Gauben und eines neuen Daches (Walmdach)
+- TOP .10.: Vorbescheid Hohenzollernstr. 29/RGB, Aufstockung einer Werkstatt um ein Gewerbe- und drei Wohngeschosse
+- TOP .11.: Hohenzollernstr. 112: Erweiterung der hofseitigen Balkonanlage ? Errichtung zweier Balkone im 1. + 2. OG (Nordseite)
+- TOP .12.: Heßstr. 130: Neubau Feuerlöschwasserbehälter
+- TOP .13.: Viktor-Scheffel-Str. 11: Anbau dreier Balkone
+- TOP .2.2.: Wohnen
+- TOP .1.: SPD: Hinweisschild im U-Bahn-Aufgang für die Seniorenvolkshochschule Belgradstr. 108
+- TOP .2.: Bürger: Tempo-30-Zone Bonner Straße
+- TOP .3.: Bürger: Parkplatzmangel im Bereich Keuslinstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Winzererstr. 73 a: Fällung einer Hainbuche
+- TOP .2.: Winzererstr. 61: Fällung einer Eberesche
+- TOP .3.: Winzererstr. 79: Fällung eines Kirschbaums
+- TOP .4.: Winzererstr. 83: Fällung eines Kirschbaums
+- TOP .5.: Winzererstr. 87: Fällung einer Hainbuche
+- TOP .6.: Kölner Platz 1: Fällung einer Holländischen Linde
+- TOP .2.2.: Verkehr
+- TOP 1.2.: Erinnerungsverfahren des Baureferats Tiefbau: Destouchesstr. 81/Fallmerayerstraße: Umbau der Einfahrt
+- TOP 1.3.: MVG-Leistungsprogramm 2017
+- TOP 1.4.: Schwere-Reiter-Straße / Elisabethstraße ? Verbot des Linksabbiegens durch Änderung der Spurmarkierung und Beschilderung mit entsprechendem Fahrrichtungsgebot
+- TOP 1.5.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2016-2020 (vgl. TOP B 2.3 und D 2.8)
+- TOP 1.6.: Vorplanungen Tengstraße ? Ergebnisse des Ortstermins am 12.04.2016
+- TOP 1.7.: Fahrradstraße in Westschwabing
+- TOP 1.8.: Verbotenes Parken von Lieferwagen auf dem Hohenzollernplatz
+- TOP 1.1.: Benennung von Baumschutzbeauftragten
+- TOP 1.1.: Neubau Klinikum Schwabing: Präsentation in der Stadtgestaltungskommission
+- TOP 1.2.: Aufstellung von Bänken zwischen auf dem Weg zwischen Winzererstraße und See im Olympiapark (hier: Bank 1 an Abzweigung des Martin-Luther-King-Wegs von der Winzererstraße)
+- TOP 1.3.: Smarte MVG-Fahrkartenautomaten
+- TOP 1.4.: Verbesserung des Kita finders+
+- TOP .1.: (E) Budget der Bezirksausschüsse Arbeitskreis Neue Erziehung e.V. Sanierung der Erwachsenentoilette
+- TOP .2.: (E) Budget der Bezirksausschüsse CVJM München e.V./Jugendzentrum LIFE AktivFerien am Ackermannbogen vom 22. - 25.05.2016
+- TOP .4.: (E) Budget der Bezirksausschüsse Eltern-Kind-Zentrum Schwabing/Maxvorstadt e.V. Erneuerung des Spielzeugangebotes
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Kreuzkirche München-Schwabing Jugendkulturprojekt Schubertiade 2016 am 03.07.2016
+- TOP .2.: (E) Budget der Bezirksausschüsse Stiftung Pfennigparade Kabarett am 02.12.2016
+- TOP 1: (E) Winzererstraße zur Fahrradstraße umwidmen (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00153 der Bürgerversammlung des Stadtbezirkes 4 -Schwabing-West am 09.10.2014
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
