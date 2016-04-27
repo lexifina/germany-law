@@ -1,0 +1,377 @@
+---
+ecli: "ECLI:DE:BGH:2016:270416XIIZB485.14.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 485/14"
+decided: "2016-04-27"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2016&Sort=1&Seite=39&nr=74856&anz=3286&pos=1188&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2016-04-27_XII_ZB_485_14_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/1353.md", "germany/bund/acts/bgb/1360.md", "germany/bund/acts/bgb/1360a.md", "germany/bund/acts/bgb/1361.md", "germany/bund/acts/bgb/1567.md", "germany/bund/acts/bgb/1578.md", "germany/bund/acts/bgb/1581.md", "germany/bund/acts/bgb/1603.md", "germany/bund/acts/bgb/1609.md", "germany/bund/acts/bgb/1613.md", "germany/bund/acts/sgb_12/0027.md", "germany/bund/acts/sgb_2/0007.md", "germany/bund/acts/sgb_2/0009.md"]
+---
+
+# Bundesgerichtshof, XII ZB 485/14 vom 2016-04-27
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                   IM NAMEN DES VOLKES
+
+                            BESCHLUSS
+XII ZB 485/14                                                 Verkündet am:
+                                                              27. April 2016
+                                                              Küpferle,
+                                                              Justizamtsinspektorin
+                                                              als Urkundsbeamtin
+                                                              der Geschäftsstelle
+
+                            in der Familiensache
+
+Nachschlagewerk:      ja
+
+BGHZ:                 ja
+
+BGHR:                 ja
+
+
+
+BGB §§ 1360, 1360 a
+
+
+a) Wird ein Ehegatte stationär pflegebedürftig, so entsteht ihm ein besonderer
+   persönlicher Bedarf, der vor allem durch die anfallenden Heim- und Pflegekosten bestimmt wird. In diesem Fall richtet sich der Familienunterhaltsanspruch ausnahmsweise auf Zahlung einer Geldrente.
+
+b) Ein solcher Unterhaltsanspruch setzt die Leistungsfähigkeit des Unterhaltsschuldners voraus. Der dem Unterhaltsschuldner mindestens zu belassende
+   Eigenbedarf kann in zulässiger Weise nach dem in der Düsseldorfer Tabelle
+   und den Leitlinien der Oberlandesgerichte ausgewiesenen sogenannten
+   eheangemessenen Selbstbehalt bemessen werden.
+
+
+
+BGH, Beschluss vom 27. April 2016 - XII ZB 485/14 - OLG Hamm
+                                                    AG Warstein
+
+
+
+
+ECLI:DE:BGH:2016:270416BXIIZB485.14.0
+
+                                          -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 27. April 2016 durch den Vorsitzenden Richter Dose, die Richterin Weber-Monecke und die Richter Dr. Klinkhammer, Dr. Nedden-Boeger und Guhling
+
+    für Recht erkannt:
+
+
+          Die Rechtsbeschwerde gegen den Beschluss des 7. Senats für
+          Familiensachen des Oberlandesgerichts Hamm vom 12. August
+          2014 wird auf Kosten der Antragstellerin zurückgewiesen.
+
+
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                        Gründe:
+
+                                           I.
+
+1         Die Beteiligten sind Ehegatten und streiten um Familienunterhalt.
+
+2         Die Antragstellerin (im Folgenden: Ehefrau) ist aufgrund einer schweren
+    Erkrankung pflegebedürftig. Für sie ist eine Betreuerin bestellt worden. Sie lebt
+    seit dem 28. Mai 2013 in einem Pflegezentrum. Die monatlichen Pflegekosten
+    von 3.923,59 € werden im Wesentlichen aus Sozialhilfeleistungen bestritten.
+    Davon nicht abgedeckt ist ein vom Sozialhilfeträger angesetzter Eigenanteil der
+    Ehefrau in Höhe von monatlich 132,56 €, der aus dem sozialhilferechtlich einbezogenen Einkommen des Antragsgegners (im Folgenden: Ehemann) errechnet worden ist. Der Ehemann ist Rentner und bezieht monatliche Renteneinkünfte von netto 1.042,82 €.
+
+                                           -3-
+
+
+
+3          Die Ehefrau macht, vertreten durch ihre Betreuerin, für die Zeit ab
+    28. Mai 2013 Familienunterhalt in Höhe von monatlich 132,56 € geltend. Das
+    Amtsgericht hat dem Antrag stattgegeben. Auf die Beschwerde des Ehemanns
+    hat das Oberlandesgericht erst für die Zeit ab Juli 2013 Unterhalt zugesprochen
+    und diesen auf monatlich 43 € herabgesetzt. Dagegen richtet sich die zugelassene Rechtsbeschwerde der Ehefrau, die ihre Unterhaltsansprüche noch für die
+    Zeit ab Juli 2013 in voller Höhe weiterverfolgt.
+
+
+
+
+                                             II.
+
+4          Die Rechtsbeschwerde bleibt ohne Erfolg.
+
+5          1. Das Oberlandesgericht hat seine Entscheidung damit begründet, dass
+    die Ehefrau gegen den Ehemann einen Anspruch auf Familienunterhalt aus
+    §§ 1360, 1360 a Abs. 3 iVm § 1613 Abs. 1 BGB habe.
+
+6          Familienunterhalt sei geschuldet, weil ein Getrenntleben der Ehegatten
+    nicht festgestellt werden könne. Allein die Unterbringung eines Ehegatten in
+    einem Pflegeheim erfülle die Voraussetzungen des Getrenntlebens nicht, es sei
+    denn, es könne zusätzlich ein Trennungswille festgestellt werden. Dabei müsse
+    der Wille, die eheliche Lebensgemeinschaft aufzugeben, deutlich erkennbar
+    sein und sich im Verhalten des trennungswilligen Ehegatten manifestieren, was
+    vom Ehemann nicht dargelegt worden sei.
+
+7          Der Ehemann sei allerdings nur begrenzt leistungsfähig. Hierfür sei der in
+    den Leitlinien des Oberlandesgerichts ausgewiesene            "eheangemessene
+    Selbstbehalt" von 1.000 € zu beachten. Zwar hänge der nach dem Halbteilungsgrundsatz zu errechnende Anspruch auf Familienunterhalt grundsätzlich
+    nicht von der Leistungsfähigkeit des Unterhaltsschuldners im Sinne von
+
+                                          -4-
+
+
+
+    §§ 1581, 1603 BGB ab. Deshalb könne in der Regel nicht auf die Selbstbehaltssätze der Leitlinien abgestellt werden. Allerdings begrenze der eheangemessene Selbstbehalt den Anspruch auf Familienunterhalt ausnahmsweise,
+    wenn dieser sich nicht auf Naturalunterhalt, sondern auf eine Geldrente richte.
+    In diesem Fall werde der Unterhaltspflichtige im Ergebnis durch die Unterhaltsverpflichtung so belastet, als schulde er Trennungsunterhalt.
+
+8         Dem Unterhaltsschuldner sei nicht lediglich das Existenzminimum zu belassen, sondern der eheangemessene Selbstbehalt. Zwar sei den Ehegatten
+    innerhalb der intakten Ehe ein größeres Maß an ehelicher Solidarität gegenüber
+    dem pflegebedürftigen Gatten abzuverlangen als nach dem Scheitern der ehelichen Lebensgemeinschaft. Die wirtschaftlichen Konsequenzen träfen den unterhaltspflichtigen Ehegatten jedoch gleichermaßen und unabhängig davon, ob
+    die eheliche Lebensgemeinschaft fortbestehe oder durch Trennung aufgehoben
+    sei. Mit der Unterbringung des pflegebedürftigen Ehegatten entfielen dauerhaft
+    die Synergieeffekte, die das eheliche Zusammenleben erheblich mitbestimmt
+    hätten. Dies rücke die vorliegende Fallkonstellation in die Nähe der Trennungssituation. In Folge der Pflegebedürftigkeit eines Ehegatten, die dessen stationäre Unterbringung erforderlich mache, decke der unterhaltspflichtige Ehegatte
+    durch Ausgaben für die Unterkunft, allgemeine Lebenshaltung und soziale Teilhabe nicht mehr zugleich den eigenen und den Bedarf des Ehegatten. Dem
+    Pflichtigen erwachse vielmehr eine wirtschaftlich ungleich höhere Belastung
+    dadurch, dass er nicht nur den eigenen Lebensunterhalt bestreiten müsse, sondern zusätzlich für Kosten aufzukommen habe, die aus der ehelichen Lebensgemeinschaft resultierten, wie Kosten der Wohnung, eines Fahrzeugs oder
+    Verbindlichkeiten des anderen Ehegatten, ohne dass diese Leistungen dem
+    pflegebedürftigen Ehegatten noch zu Gute kämen. Zu dem Lebensunterhalt des
+    bedürftigen Ehegatten müsse der Schuldner vielmehr gesondert beitragen.
+
+                                          -5-
+
+
+
+9          2. Das hält einer rechtlichen Überprüfung stand.
+
+10         Nach § 1360 Abs. 1 Satz 1 BGB sind Ehegatten einander verpflichtet,
+     durch ihre Arbeit und mit ihrem Vermögen die Familie angemessen zu unterhalten. Der Anspruch auf Familienunterhalt nach § 1360 BGB ist ein grundsätzlich
+     wechselseitiger Anspruch unter Ehegatten bei bestehender Lebensgemeinschaft (MünchKommBGB/Weber-Monecke 6. Aufl. § 1360 Rn. 2 f.; Wendl/
+     Bömelburg Das Unterhaltsrecht in der familienrichterlichen Praxis 9. Aufl. § 3
+     Rn. 1).
+
+11         a) Der vom Gesetz als Wirkung der Ehe vorgesehene Anspruch auf Familienunterhalt setzt das Bestehen der ehelichen Lebensgemeinschaft im Sinne
+     von § 1353 Abs. 1 Satz 2 BGB voraus. Nach Trennung der Ehegatten tritt der
+     Trennungsunterhalt nach § 1361 Abs. 1 BGB an die Stelle des Familienunterhalts zwischen Ehegatten. Das Oberlandesgericht ist rechtsfehlerfrei davon
+     ausgegangen, dass im vorliegenden Fall eine Trennung der Ehegatten nicht
+     erfolgt ist, und hat demzufolge zutreffend das Fortbestehen der ehelichen Lebensgemeinschaft zugrunde gelegt. Die vom Antragsgegner insoweit erhobene
+     Gegenrüge ist unbegründet.
+
+12         aa) Der Begriff des Getrenntlebens ist in § 1567 BGB gesetzlich definiert.
+     Entgegen der Auffassung der Rechtsbeschwerdeerwiderung stimmt der Begriff
+     des Getrenntlebens im Sinne von § 1361 Abs. 1 BGB mit demjenigen des
+     § 1567 BGB überein (vgl. MünchKommBGB/Weber-Monecke 6. Aufl. § 1361
+     Rn. 5; NK-BGB/Kaiser 3. Aufl. § 1360 Rn. 3; Palandt/Brudermüller BGB
+     75. Aufl. § 1361 Rn. 9). Während § 1360 BGB einen Anspruch bei bestehender
+     ehelicher Lebensgemeinschaft gewährt, erfordert die Anwendbarkeit des
+     § 1361 BGB deren Aufhebung.
+
+                                          -6-
+
+
+
+13         Unter der Lebensgemeinschaft der Ehegatten ist primär die wechselseitige innere Bindung der Ehegatten zu verstehen. Die häusliche Gemeinschaft
+     umschreibt dagegen die äußere Realisierung dieser Lebensgemeinschaft in
+     einer beiden Ehegatten gemeinsamen Wohnstätte. Die häusliche Gemeinschaft
+     bezeichnet nur einen äußeren, freilich nicht notwendigen Teilaspekt dieser Gemeinschaft (Senatsurteil BGHZ 149, 140 = FamRZ 2002, 316, 317; vgl. auch
+     Schwab Handbuch des Scheidungsrechts 7. Aufl. Teil II Rn. 135 ff.).
+
+14         Nach § 1567 Abs. 1 Satz 1 BGB leben die Ehegatten getrennt, wenn
+     zwischen ihnen keine häusliche Gemeinschaft besteht und ein Ehegatte sie
+     erkennbar nicht herstellen will, weil er die eheliche Lebensgemeinschaft ablehnt. Allein aus dem Nichtbestehen der häuslichen Gemeinschaft ergibt sich
+     ein Getrenntleben der Ehegatten daher noch nicht. Eine eheliche Lebensgemeinschaft kann vielmehr auch dann bestehen, wenn die Ehegatten einvernehmlich eigenständige Haushalte unterhalten (vgl. Staudinger/Rauscher BGB
+     [2010] § 1567 Rn. 49 ff.). Auch die dauerhafte stationäre Pflege eines Ehegatten in einem Pflegeheim führt für sich genommen nicht zur Trennung der Ehegatten (Senatsurteil vom 25. Januar 1989 - IVb ZR 34/88 - FamRZ 1989, 479;
+     MünchKommBGB/Weber-Monecke 6. Aufl. § 1360 Rn. 2; jurisPK-BGB/Viefhues
+     [Stand: 4. April 2016] § 1361 Rn. 2.1). Der von den Ehegatten vollzogenen
+     räumlichen Trennung kann dann nicht die Bedeutung eines einseitig oder beiderseitig geäußerten Trennungswillens zugemessen werden. Will ein Ehegatte
+     dennoch die Trennung im Sinne von § 1567 BGB herbeiführen, so bedarf es
+     hierzu einer entsprechenden Äußerung oder eines sonstigen für den anderen
+     Ehegatten erkennbaren Verhaltens, das unmissverständlich den Willen zum
+     Ausdruck bringt, die eheliche Lebensgemeinschaft nicht weiterführen zu wollen
+     (vgl. Senatsurteil vom 25. Januar 1989 - IVb ZR 34/88 - FamRZ 1989, 479 f.;
+     vgl. auch BSG FamRZ 2010, 973).
+
+                                             -7-
+
+
+
+15          bb) Das Oberlandesgericht hat demnach zu Recht schon dem Vortrag
+     des Antragsgegners nicht entnommen, dass die eheliche Lebensgemeinschaft
+     der Ehegatten aufgehoben sei. Mit der Aufnahme der Antragstellerin in einer
+     Pflegeeinrichtung war demzufolge lediglich eine Aufhebung der häuslichen
+     Gemeinschaft verbunden. Dass einer der Ehegatten zudem unmissverständlich
+     die Ablehnung auch der ehelichen Lebensgemeinschaft zu erkennen gegeben
+     hat, hat der Antragsgegner nicht vorgetragen und wird von ihm auch in der
+     Rechtsbeschwerdeinstanz nicht vorgebracht.
+
+16          b) Inhaltlich weist der Anspruch auf Familienunterhalt unter Ehegatten
+     nach § 1360 BGB gegenüber dem Anspruch auf Trennungsunterhalt gemäß
+     § 1361 BGB in verschiedener Hinsicht Besonderheiten auf. Anders als letzterer
+     ist der Anspruch grundsätzlich nicht auf Zahlung einer für den Empfänger frei
+     verfügbaren Geldrente gerichtet. Er dient sowohl der Befriedigung des Bedarfs
+     der Ehegatten als auch desjenigen der gemeinsamen minderjährigen Kinder,
+     mithin des Bedarfs des gesamten Familienverbands. In seiner konkreten Ausgestaltung orientiert sich der Anspruch am Einvernehmen der Ehegatten und
+     der von ihnen gewählten Aufgabenverteilung. Der Familienunterhalt wird daher
+     nur in seltenen Fällen, etwa bei Zahlung unzureichenden Wirtschafts- oder Taschengelds an den haushaltführenden Ehegatten, Anlass für eine gerichtliche
+     Geltendmachung geben (vgl. Wendl/Bömelburg Das Unterhaltsrecht in der familienrichterlichen Praxis 9. Aufl. § 3 Rn. 6).
+
+17          aa) Der Anspruch auf Familienunterhalt nach den §§ 1360, 1360 a BGB
+     lässt sich zwar nicht ohne weiteres nach den zum Ehegattenunterhalt nach
+     Trennung oder Scheidung entwickelten Grundsätzen bemessen. Seinem Umfang nach umfasst der Anspruch auf Familienunterhalt gemäß § 1360 a BGB
+     alles, was für die Haushaltsführung und die Deckung der persönlichen Bedürfnisse der Ehegatten und eventueller Kinder erforderlich ist. Sein Maß bestimmt
+
+                                          -8-
+
+
+
+     sich aber nach den ehelichen Lebensverhältnissen, so dass der Senat in Fällen
+     der Konkurrenz mit anderen Unterhaltsansprüchen § 1578 BGB als Orientierungshilfe herangezogen hat (Senatsurteil BGHZ 196, 21 = FamRZ 2013, 363
+     Rn. 33 mwN; BGHZ 186, 350 = FamRZ 2010, 1535 Rn. 30).
+
+18         Der insofern anzuwendende Halbteilungsgrundsatz ist indessen nur auf
+     den Regelfall zugeschnitten und dient dazu, das für Konsumzwecke zur Verfügung stehende Familieneinkommen bei gleichartiger Bedarfslage gerecht unter
+     den Ehegatten aufzuteilen. Wird ein Ehegatte hingegen pflegebedürftig, so entsteht ihm aufgrund seiner Pflegebedürftigkeit ein besonderer, in der Regel existenznotwendiger Bedarf. Dieser wird, wie der vorliegende Fall zeigt, das Einkommen der Ehegatten nicht selten erreichen oder sogar übersteigen. Als unabweisbarer konkreter Bedarf kann er dann - insoweit ähnlich dem allgemeinen
+     Mindestbedarf (vgl. Senatsurteile BGHZ 184, 13 = FamRZ 2010, 357 Rn. 25 ff.
+     und vom 17. Februar 2010 - XII ZR 140/08 - FamRZ 2010, 629 Rn. 32) - nicht
+     auf einen hälftigen Anteil am Familieneinkommen beschränkt bleiben, sondern
+     bemisst sich nach den für den Lebensbedarf des pflegebedürftigen Ehegatten
+     konkret erforderlichen Kosten (vgl. OLG Düsseldorf NJW 2002, 1353; OLG Köln
+     FamRZ 2010, 2076; OLG Celle FamRB 2016, 133). Der Bedarf kann in diesem
+     Fall wie der Bedarf pflegebedürftiger Eltern im Rahmen des Elternunterhalts
+     bemessen werden. Er bestimmt sich somit bei stationärer Pflege nach den
+     Heim- und Pflegekosten zuzüglich eines Barbetrags für die Bedürfnisse des
+     täglichen Lebens (vgl. Senatsurteile vom 21. November 2012 - XII ZR 150/10 -
+     FamRZ 2013, 203 Rn. 15 ff. mwN und vom 19. Februar 2003 - XII ZR 67/00 -
+     FamRZ 2003, 860).
+
+19         bb) Aufgrund der Besonderheiten des Familienunterhalts ist der Senat
+     bislang davon ausgegangen, dass abweichend von der regelmäßigen Rechtsnatur des Unterhalts die Leistungsfähigkeit des Unterhaltspflichtigen keine
+
+                                          -9-
+
+
+
+     Voraussetzung des Unterhaltsanspruchs sei. Der Verpflichtete könne im Verhältnis zu seinem Partner seinen Beitrag zum Familienunterhalt nicht unter
+     Hinweis darauf verweigern, er sei ohne Gefährdung seines Eigenbedarfs zur
+     Unterhaltsleistung nicht in der Lage. Ein solches Verhalten wäre dem ehegemeinschaftlichen Prinzip fremd und widerspräche der familienrechtlichen Unterhaltsregelung (Senatsurteil vom 12. April 2006 - XII ZR 31/04 - FamRZ 2006,
+     1010 Rn. 36 mwN; ebenso BVerfG FamRZ 1984, 346, 350 mwN; vgl.
+     Wendl/Bömelburg Das Unterhaltsrecht in der familienrichterlichen Praxis 9. Aufl.
+     § 3 Rn. 43; NK-BGB/Kaiser 3. Aufl. § 1360 Rn. 14).
+
+20         Diese Erwägungen beziehen sich indessen, wie das Oberlandesgericht
+     richtig gesehen hat, auf den Regelfall des häuslichen Zusammenlebens der
+     Familie. Beim häuslichen Zusammenleben kommen die vom Unterhaltspflichtigen an die Familie geleisteten Beiträge diesem selbst wieder zugute, indem sie
+     auch für seine Lebensbedürfnisse Verwendung finden. Daher besteht in der
+     Regel keine Veranlassung dazu, dem Ehegatten als Selbstbehalt einen Betrag
+     zu belassen, der vergleichbar mit dem Trennungsunterhalt und dem nachehelichen Unterhalt zur Bestreitung seines eigenen Unterhalts bestimmt ist. Zugleich
+     hat der Unterhaltspflichtige regelmäßig seinerseits einen Unterhaltsanspruch.
+     Dieser richtet sich grundsätzlich auf einen gleichwertigen Beitrag des anderen
+     Ehegatten zum Familienunterhalt und kann bei einem nicht erwerbstätigen
+     Ehegatten etwa in der Haushaltsführung bestehen. Es dürfte auch tatsächlicher
+     Handhabung von in häuslicher Gemeinschaft zusammenlebenden Ehegatten
+     entsprechen, dass sie - abgesehen von einer möglichen Vermögensbildung -
+     die verfügbaren Geldmittel zum gemeinsamen Verbrauch verwenden. Reichen
+     diese zur Bestreitung des Familienunterhalts nicht aus, werden - abgesehen
+     von der Aufnahme von Konsumentenkrediten - folgerichtig Sozialleistungen beantragt werden müssen, wobei das Sozialrecht ebenfalls den Bedarf sämtlicher
+     Familienmitglieder einbezieht und im Rahmen der Bedarfs- bzw. Einsatzge-
+
+                                            - 10 -
+
+
+
+     meinschaft das Einkommen beider Ehegatten berücksichtigt (§§ 7 Abs. 3, 9
+     Abs. 2 SGB II; § 27 Abs. 2 SGB XII).
+
+21           Vom Regelfall familiären Zusammenlebens in einer häuslichen Gemeinschaft, in dem bei den einzelnen Familienmitgliedern nur der Elementarbedarf
+     als Regelbedarf anfällt, unterscheidet sich der Fall einer bei einem Ehegatten
+     aufgetretenen Pflegebedürftigkeit wesentlich. Wegen des besonderen Mehrbedarfs des pflegebedürftigen Ehegatten, der seinerseits zu eigenen Familienunterhaltsleistungen nicht in der Lage ist, stellt sich die Frage der gleichmäßigen
+     Verteilung aller verfügbaren Mittel (vgl. § 1603 Abs. 2 Satz 2 BGB) nicht länger.
+     Vielmehr übersteigen die Pflegekosten - wie im vorliegenden Fall - oftmals das
+     gesamte Familieneinkommen und würden bei unbeschränkter Unterhaltspflicht
+     des anderen Ehegatten der übrigen Familie die Mittel entziehen, die diese für
+     den eigenen Lebensbedarf benötigt. Das würde dann folgerichtig etwa auch für
+     minderjährige haushaltsangehörige Kinder gelten und dürfte schon mit deren
+     nach § 1609 Nr. 1 BGB gegenüber dem Familienunterhalt des bedürftigen Ehegatten zu beachtenden unterhaltsrechtlichem Vorrang nicht zu vereinbaren
+     sein.
+
+22           Diese Erwägungen führen dazu, dass bei einem trotz fortbestehender
+     ehelicher Lebensgemeinschaft wegen individueller besonderer Bedürfnisse eines Ehegatten zu dessen gesonderter Verwendung zu leistenden Unterhalt die
+     Leistungsfähigkeit des Unterhaltspflichtigen auch beim Familienunterhalt als
+     Anspruchsvoraussetzung zu beachten ist. Dem Unterhaltspflichtigen muss daher in diesem Fall im Unterschied zum Fall des häuslichen Zusammenlebens
+     auch beim Familienunterhalt der angemessene eigene Unterhalt als Selbstbehalt belassen werden. Das Oberlandesgericht hat diesen mit dem sogenannten
+     Ehegattenselbstbehalt (vgl. Senatsurteil BGHZ 166, 351 = FamRZ 2006, 683,
+     685 f.) bemessen und hat sich hierfür auf eine insoweit dem Trennungsunterhalt
+
+                                          - 11 -
+
+
+
+     vergleichbare Situation berufen (ebenso OLG Düsseldorf NJW 2002, 1353;
+     OLG Köln FamRZ 2010, 2076; OLG Celle FamRB 2016, 133).
+
+23          Dem ist zuzustimmen. Das Oberlandesgericht hat zu Recht ausgeführt,
+     dass die vorliegende Konstellation der Trennungssituation weitgehend angenähert ist. Zwar ist zusammenlebenden Ehegatten grundsätzlich ein höheres Maß
+     an ehelicher Solidarität abzuverlangen als nach der Trennung. Tritt hingegen
+     die stationäre Pflegebedürftigkeit ein, so ist auch beim Familienunterhalt eine
+     übermäßige Belastung des Unterhaltspflichtigen mit den Pflegekosten zu vermeiden. Der Unterhaltspflichtige wird zudem bei Fortbestand der ehelichen Lebensgemeinschaft nicht selten weiterhin Fürsorge für den pflegebedürftigen
+     Ehegatten wahrnehmen und diese etwa in Form von Besuchen, Organisation
+     der Pflege oder sonstiger immaterieller Unterstützung leisten. Würde sich in
+     dieser Situation ein Unterschied zwischen Familienunterhalt und Trennungsunterhalt ergeben, stünde der Ehegatte besser, der sich zur Trennung vom pflegebedürftigen Ehegatten entschließt, was nicht zuletzt diesen weiter beeinträchtigen dürfte.
+
+24          Ob darüber hinaus dem Unterhaltspflichtigen auch gegenüber dem konkreten Bedarf des Unterhaltsberechtigten generell die Hälfte seines Einkommens als Selbstbehalt zu belassen ist (vgl. Senatsurteil BGHZ 192, 45 =
+     FamRZ 2012, 281 Rn. 33 ff.), erscheint naheliegend, bedarf in der vorliegenden
+     Fallkonstellation eines den Ehegattenselbstbehalt nur geringfügig übersteigenden Einkommens aber keiner Entscheidung.
+
+25          Dass sich durch einen gegenüber der (bisherigen) sozialhilferechtlichen
+     Bedarfs- und Leistungsermittlung erhöhten Betrag des dem unterhaltspflichtigen
+     Ehegatten unterhaltsrechtlich zuzubilligenden Eigenbedarfs (Selbstbehalt) eine
+     Deckungslücke hinsichtlich der Heimkosten ergibt, stellt schließlich keinen ent-
+
+                                        - 12 -
+
+
+
+     scheidenden Hinderungsgrund dar. Da es der Ehefrau insoweit an einem dem
+     sozialhilferechtlich der Einsatzgemeinschaft zugerechneten Einkommen korrespondierenden Unterhaltsanspruch mangelt, ist es vielmehr Aufgabe der Sozialhilfe, im Rahmen der gebotenen Existenzsicherung auch für den noch offenen
+     Betrag durch ergänzende Leistungen aufzukommen. Dies entspricht etwa der
+     Lage, wie sie sich bei einem Ausschluss des Anspruchsübergangs auch in anderen Fällen ergibt (vgl. Senatsbeschluss BGHZ 206, 177 = FamRZ 2015, 1467
+     Rn. 31 ff.).
+
+26          cc) Das Oberlandesgericht hat dementsprechend zu Recht den nach
+     seinen Leitlinien für die streitbefangene Zeit maßgebenden Selbstbehaltssatz
+     angewendet. Dass dieser nach einem Zwischenbetrag aus dem sogenannten
+     angemessenen und dem notwendigen Selbstbehalt bemessen ist, ist aus
+     Rechtsgründen nicht zu beanstanden. Zwar erspart der Antragsgegner - wie
+     vom Verfahrensbevollmächtigten der Antragstellerin im Senatstermin zutreffend
+     geltend gemacht worden ist - durch die Heimpflege der Antragstellerin Kosten,
+
+                                      - 13 -
+
+
+
+die im Fall einer fortbestehenden häuslichen Gemeinschaft der Ehegatten anfallen würden. Daraus kann sich aber schon deshalb keine andere Beurteilung
+ergeben, weil der Selbstbehalt bereits auf den Bedarf eines alleinstehenden
+Unterhaltspflichtigen zugeschnitten ist.
+
+
+Dose                           Weber-Monecke                   Klinkhammer
+
+         Nedden-Boeger                            Guhling
+
+
+
+
+Vorinstanzen:
+AG Warstein, Entscheidung vom 12.03.2014 - 3a F 194/13 -
+OLG Hamm, Entscheidung vom 12.08.2014 - II-7 UF 55/14 -
