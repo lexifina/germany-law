@@ -1,0 +1,7 @@
+# TOP 5: Mündlicher Bericht "Ergebnisse der Bürger*innenbefragung zum Neubau des Hallenbads Oberkassel"
+
+- Sitzung: Bezirksvertretung 4 (2016-04-27)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/202773
+- Ergebnis: zur Kenntnis genommen
