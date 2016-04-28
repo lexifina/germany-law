@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-28T14:00:00+02:00
+- Ende: 2016-04-28T20:11:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11762
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11762
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264994.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264994.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00264994.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - beantwortet
+- TOP 3.1: Anfrage aus aktuellem Anlass Tierschutz-Freie Wähler:Brandschutzbedarfsplan der Landeshauptstadt Düs - beantwortet
+- TOP 4: Anfragen - beantwortet
+- TOP 4.1: Anfrage Die Linke: Budgetplanung Grand Départ - beantwortet
+- TOP 4.2: Anfrage DIE LINKE: Abschiebungen 2015 - beantwortet
+- TOP 4.3: Anfrage der CDU-Ratsfraktion: Luxus-Hotel statt Kämmerei? - beantwortet
+- TOP 4.4: Anfrage des Ratsherrn Maniera: Situation der Düsseldorfer Feuerwehr - beantwortet
+- TOP 4.5: Anfrage des Ratsherrn Maniera: Entwicklung der Salafistenszene in Düsseldorf - beantwortet
+- TOP 4.6: Anfrage Tierschutzpartei-Freie Wähler: Aktuelle Finanzlage der Landeshauptstadt Düsseldorf - schriftlich beantwortet
+- TOP 4.7: Anfrage Tierschutz/Freie Wähler: Mögliche Einführung der blauen Umweltplakette - beantwortet
+- TOP 4.8: Anfrage Tierschutzpartei-Freie Wähler: Rückzahlung zu viel gezahlter Elternbeiträge - schriftlich beantwortet
+- TOP 4.9: Anfrage Rh Blanchard:Qualitätssicherung und sichere Arbeitsverhältnisse in der Offenen Ganztagsschul - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Einrichtung einer Kleinen Kommission Grand Départ Düsseldorf 2017 und Information - mehrheitlich beschlossen
+- TOP 7.1: ÄA CDU: Errichtung einer Kleinen Kommission Grand Départ Düsseldorf 2017 und Information über die Be - mehrheitlich beschlossen
+- TOP 8: Informationen zum vorläufigen Jahresabschluss 2015 - zur Kenntnis genommen
+- TOP 9: Ermächtigung zur Aufnahme von Krediten zur Liquiditätssicherung auf das Niveau der Haushaltssatzung - einstimmig beschlossen
+- TOP 10: Konzept zur Aufnahme, Unterbringung und Betreuung von Flüchtlingen - mehrheitlich beschlossen
+- TOP 10.1: ÄA CDU: Konzept zur Aufnahme, Unterbringung und Betreuung von Flüchtlingen - mehrheitlich abgelehnt
+- TOP 11: Bewerbung der Landeshauptstadt Düsseldorf um die Auszeichnung "Europaaktive Kommune des Landes NRW" - mehrheitlich beschlossen
+- TOP 12: Verordnung zum Schutz freilebender Katzen in der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 13: Annahme einer Schenkung- Autographensammlung Kirsten Engelmann / Rita van Endert - einstimmig beschlossen
+- TOP 14: 5. Satzung zur Änderung der Satzung über Ehrenauszeichnungen der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 15: Genehmigungt 60er: Ankauf von sechs Wohnmodulanlagen - mehrheitlich beschlossen
+- TOP 16: Wiederwahl der Schiedsfrau Margret Heuter - einstimmig beschlossen
+- TOP 17: Aufsichtsrat der SWW Städt. Wohnungswirtschaftsgesellschaft Düsseldorf mbH & Co. KG - Neuwahl - - zurückgezogen
+- TOP 18: Verwaltungsrat der Stadtsparkasse Düsseldorf - Ersatzwahl - - einstimmig beschlossen
+- TOP 19: Bestellung beratender Mitglieder des Jugendrates in Ausschüsse - einstimmig beschlossen
+- TOP 20: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 21: FNP-Änderung Nr. 140, Südlich Paulsmühlenstraße - einstimmig beschlossen
+- TOP 22: FNP-Änderung Nr. 172 - Oberbilker Allee / Ringelsweide - einstimmig beschlossen
+- TOP 23: ZUKUNFT WOHNEN.DÜSSELDORF - Ein Handlungskonzept für den Wohnungsmarkt. Anpassung und Konkretisierun - mehrheitlich beschlossen
+- TOP 24: Anträge
+- TOP 24.1: Antrag Die Linke: Keine Vermittlung von Jugendlichen an die Bundeswehr - zurückgezogen
+- TOP 24.2: Antrag Die Linke: Schuldenuhr abbauen - mehrheitlich abgelehnt
+- TOP 24.2.1: ÄA Rh Grenda: Schuldenuhr abbauen - zur Kenntnis genommen
+- TOP 24.2.2: ÄA Tierschutz/Freie Wähler: Verabschiedung einer Resolution gegen sexualisierte Gewalt - mehrheitlich abgelehnt
+- TOP 24.3: Antrag SPD,Bü90-Grü, FDP und DIE LINKE: Verabschiedung einer Resolution gegen sexualisierte Gewalt - mehrheitlich beschlossen
+- TOP 24.3.1: ÄA CDU:Verabschiedung einer Resolution gegen sexualisierte Gewalt - mehrheitlich abgelehnt
+- TOP 24.4: Antrag CDU: Insel am Schloßweiher braucht keine zwei Bäume - verwiesen
+- TOP 24.5: Antrag der Ratsfraktion Tierschutzpartei/FREIE WÄHLER: Keine Pferde im Karneval - mehrheitlich abgelehnt
+- TOP 24.6: Antrag Die Linke:Mehr Transparenz bei städtischen Unternehmen - verwiesen
+- TOP 24.7: Antrag Die Linke: Kommunale Wohnungen für 1.000 EinwohnerInnen - mehrheitlich abgelehnt
+- TOP 24.8: Antrag Die Linke: Kürzung bei Erzieherinnen und Erziehern zurücknehmen - mehrheitlich abgelehnt
+- TOP 24.8.1: ÄA CDU: Kürzung bei Erzieherinnen und Erziehern zurücknehmen - zur Kenntnis genommen
+- TOP 24.9: Antrag der CDU: Unterrichtsausfall endlich präzise und transparent erheben - zur Kenntnis genommen
+- TOP 24.10: ÄA Bü90-Grü: Unterrichtsausfall endlich präzise und transparent erheben - mehrheitlich beschlossen
+- TOP 24.11: Antrag Die Linke:Solidarität mit den inhaftierten Bürgermeisterinnen und Bürgermeistern in der Türke - zurückgezogen
+- TOP 24.12: Antrag Die Linke: Beratungen zur "Waldschänke" gehören in die Bezirksvertretung
+- TOP 24.13: Antrag SPD, Bü90/Grü und FDP: Kostenloser Internetzugang in städtischen Einrichtungen
+- TOP 24.14: Antrag Bü90-Grü: Standorte Flüchtlingsunterkünfte
+- TOP 24.15: Antrag der CDU-Ratsfraktion: Masterplan Handwerk entwickeln
+- TOP 24.16: Antrag FDP,SPD und Bü90-Grü:Einführung eines Controllings für Maßnahmen in der Flüchtlingshilfe
+- TOP 24.17: Antrag CDU, SPD, BÜ90/GRÜ und FDP: Bau einer Waldschule
+- TOP 24.18: Antrag von CDU, SPD, BÜ90/GRÜ, FDP: Weiterer Polizeizug für Düsseldorf
+- TOP 25: Aktualisierung der Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2016 - mehrheitlich beschlossen
