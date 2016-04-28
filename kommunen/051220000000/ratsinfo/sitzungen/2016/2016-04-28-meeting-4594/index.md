@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-04-28T17:00:00+02:00
+- Ende: 2016-04-28T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZa8q3LC2GE5ylR34S__yjjw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4594
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZePgh2Da0SOMTkJM8nTMCf7x3O7GHW0fNK9zq9I108p3/Oeffentliche_Niederschrift_Rat_28.04.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Vorschlag für eine en-bloc-Abstimmung
+- TOP 4: Bergische Volkshochschule Zweckverband der Städte Solingen - Wuppertal für allgemeine und berufliche Weiterbildung sowie Familienbildung
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: Beanstandung eines Beschlusses des Rates vom 18.02.2016 gemäß § 54 GO NRW
+- TOP 7: Wiederwahl des Beigeordneten Ralf Weeke unter erneuter Bestellung zum Stadtkämmerer
+- TOP 8: Abberufung des Betriebsleiters des Dienstleistungsbetriebs Gebäude Solingen
+- TOP 9: Bestellung des Betriebsleiters des Dienstleistungsbetriebs Gebäude Solingen
+- TOP 10: Integriertes kommunales Handlungskonzept Wohnen und vorgezogene Maßnahmen zum Wohnungsbau
+- TOP 11: Kosten der Unterkunft - Aussetzung von Kostensenkungsverfahren
+- TOP 12: Arbeitskampf im Öffentlichen Dienst
+- TOP 13: Bildung und Besetzung der Kreiswahlausschüsse für die Wahlkreise 33 Wuppertal III - Solingen II und 34 Solingen I
+- TOP 14: Umwandlung der Städtefreundschaften mit Jinotega/Nicaragua und Thiès/Senegal in Städtepartnerschaften
+- TOP 15: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP 16: Zusammenarbeit zu Klimaschutz und Anpassung an den Klimawandel mit den Städten Jinotega/Nicaragua und Thiès/Senegal
+- TOP 17: Ausbauplanung Kindertagesbetreuung 2025
+- TOP 18: 2030-Agenda für Nachhaltige Entwicklung
+- TOP 19: Beschluss zur Aufhebung des Verkaufsbeschlusses „Omega-Geländes“ gemäß Beschlussvorlage 598a vom 03.03.2015
+- TOP 20: Aufhebung der Satzung der Stadt Solingen über die Errichtung einer gemeinnützigen Einrichtung im Sinne der §§ 51 ff. AO 1977 (Betreiberschaft Eissporthalle)
+- TOP 21: I. Satzung zur Änderung der Satzung der Stadt Solingen für die Durchführung von Bürgerentscheiden
+- TOP 22: I. Satzung zur Änderung der Satzung der Stadt Solingen für die Durchführung von Bürgerentscheiden
+- TOP 23: Satzung zur Festlegung von Fristen für die Zustands- und Funktionsprüfung bei privaten Abwasserleitungen gemäß § 53 Abs. 1e Satz 1 LWG NRW im Fremdwassergebiet „Wasserturm“
+- TOP 24: Neufassung der Vergabeordnung
+- TOP 25: Entwurf des Jahresabschlusses 2015 der Stadt Solingen
+- TOP 26: Bereitstellung von außerplanmäßigen Mitteln gemäß § 83 GO NRW zur Sanierung der Turnhalle Neuenhofer Straße
+- TOP 27: Wirtschaftsplan 2016 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 28: Atom- und Kohlstromfreie Stadt
+- TOP 29: Integriertes Stadtteilentwicklungskonzept Ohligs
+- TOP 30: Bauleitplanung Hauptstraße/ Kasinostraße
+- TOP 31: Bauleitplanung nördlich der Straße Erbenhäuschen
+- TOP 32: Beschlusskontrolle
+- TOP 33: Verschiedenes
+- TOP 34: Selbstverpflichtung des Rates zur arbeitnehmerfreundlicheren Terminfindung für Ausschüsse und Sitzungen
+- TOP 35: Rats-App 2.0
+- TOP 36: Spar-und Bauverein, Wohnungen für Flüchtlinge
+- TOP 37: Tarifauseinandersetzungen eines Solinger Unternehmens
+- TOP 38: Sonderprogramm des Landes Nordrhein-Westfalen „Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen“
+- TOP 39: Stilllegung der belgischen Atomkraftwerke Tihange und Doel
+- TOP 40: Gesetz zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse und zur Änderung kommunalrechtlicher Vorschriften vom 25. Juni 2015
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Beirat Solinger Kunst-Stiftung
+- TOP 4: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SWS)
+- TOP 5: Verschiedenes
+- TOP 6: RWE Aktien
