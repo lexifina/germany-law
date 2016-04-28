@@ -1,0 +1,7 @@
+# TOP 3: Aktuelle Anfragen
+
+- Sitzung: Rat (2016-04-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/202900
+- Ergebnis: beantwortet
