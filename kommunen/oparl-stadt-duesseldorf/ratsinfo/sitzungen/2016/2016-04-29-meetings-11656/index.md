@@ -1,0 +1,71 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-04-29T16:00:00+02:00
+- Ende: 2016-04-29T19:38:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11656
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11656
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00265149.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00265149.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00265149.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Feststellung der Beschlussfähigkeit
+- TOP 3: Anerkennung Tagesordnung
+- TOP 4: Genehmigung Niederschrift
+- TOP 5: Zulassung eines Vertreters des Jugendrates
+- TOP 6: Zulassung von Sachverständigen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Am Steinebrück 31 - Neubau eines Mehrfamilienhauses mit 10 Wohneinheiten und Tiefgarage mit 7 Stellp
+- TOP 10: Plan-Nr.: 09/001 Südlich Paulsmühlenstraße Satzungsbeschluss
+- TOP 11: Bebauungsplan-Entwurf 09/012 Forststraße / Hasselsstraße
+- TOP 12: Vorstellung des Projektes "BIWAQ - Arbeitsmarktlotsen im Quartier für Wersten / Holthausen" durch die AWO Berufsbildungszentrum gGmbH
+- TOP 13: Neubau Bolzplatz Geeststraße
+- TOP 14: Benrather Jahrmärkte im Jahre 2016
+- TOP 15: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2016
+- TOP 16: Bezirklicher Bauunterhalt 2016
+- TOP 17: Bezirklicher Bauunterhalt 2016 - Blumenkübel
+- TOP 18: Bezirklicher Bauunterhalt Marktplatz + KSP Marbacher Straße
+- TOP 19: Aufstellung der Skulptur "Stierkopf" von Julius Wimmer
+- TOP 20: Anfrage: Verkehrsprobleme anlässlich von Veranstaltungen im Schloss und Park Benrath
+- TOP 21: Anfrage: B-Plan-Verfahren Am Scheitenwege-Süd
+- TOP 22: Anfrage: Sachstandsbericht DM-Markt in Wersten
+- TOP 23: Anfrage: Verkehrserschließung Haus-Endt-Straße und Nebenstraßen
+- TOP 24: Anfrage: Schützenplatz Benrath
+- TOP 25: Anfrage: Tempo 100 auf der A59
+- TOP 26: Anfrage: Hotel Bonner Str./ Baumbestand
+- TOP 27: Antrag: Fußgängerüberweg "Am Spaltwerk"
+- TOP 28: Antrag: Rotlichtüberwachungsanlage Werstener Kreuz
+- TOP 29: Antrag: Entsiegelung von Pflasterflächen im Bereich des Grünzugs Hassels
+- TOP 30: Antrag: Planungsauftrag Benrather Markt
+- TOP 31: Antrag: Planung der RRX-Trasse im Bereich der Further Straße
+- TOP 32: Antrag: Gehweg Pigageallee / Benrather Schlossallee
+- TOP 33: Antrag: Vorstellung des Bauvorhabens DHL-Verteilzentrum auf dem Gelände des SEGRO
+- TOP 34: Antrag: Heggemannstraße, Baumerhalt
+- TOP 35: Antrag: Buslinie 730
+- TOP 36: Antrag: Einrichtung eines Beratungs- und Betreuungsangebotes Kamper Acker
+- TOP 37: Antrag: Optimierung der Ampelschaltung Kreuzung Münchener Str./ Ickerswarder Str.
+- TOP 38: Antrag: Einsiedelstraße, Radfahrschleuse
+- TOP 39: Antrag: Verfügungsmittel Kleingärtnerverein im Himmelgeister Rheinbogen e.V.
+- TOP 40: Antrag: Verfügungsmittel St. Sebastianus Schützenverein Düsseldorf-Holthausen
+- TOP 41: Antrag: Verfügungsmittel Hegering Düsseldorf-Benrath
+- TOP 42: Antrag: Antrag: Verfügungsmittel Neue Düsseldorfer Hofmusik; 7. Internationale Sommerakademie
+- TOP 43: Antrag: Verfügungsmittel Diakonie Düsseldorf, Ev. Tageseinrichtung für Kinder Opladener Str. 63
+- TOP 44: Antrag: Verfügungsmittel Kath. Kirchengemeinde Herz Jesu; Schaukästen
+- TOP 45: Informationsvorlage zur Anfrage "Beleuchtung Nosthoffenstraße"
+- TOP 46: Informationsvorlage zur Denkmalbereichssatzung Benrath
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 04.12.2016
+- TOP 48: Informationsvorlage zum Beschluss der BV 9 vom 29.01.2016, Aufhebung der Einbahnstraßenregelung "Im
+- TOP 49: Informationsvorlage zum Beschluss der BV 9 vom 29.01.2016; Kölner Landstr. 391-393
+- TOP 50: Informationsvorlage zum Beschluss der BV 9 vom 04.12.2015
+- TOP 51: Informationsvorlage zur interfraktionellen Anfrage"Feuerwehrzufahrt Bezirkssportanlage Am Wald"
+- TOP 52: Informationsvorlage zum Beschluss der BV 9 vom 11.03.2016
+- TOP 53: Informationsvorlage zum Beschluss der BV 9 vom 21.11.2014
+- TOP 54: Informationsvorlage zum Beschluss der BV 9 vom 11.03.2016
