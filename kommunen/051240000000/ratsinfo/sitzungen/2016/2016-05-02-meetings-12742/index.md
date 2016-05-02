@@ -1,0 +1,72 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-05-02T16:05:00+02:00
+- Ende: 2016-05-02T19:40:00+02:00
+- Ort: Rathaus, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12742
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12742
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00192849.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00193300.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wiederwahl von Herrn Beigeordneten Meyer - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Fahrgastzahlen von und nach Küllenhahn - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Fahrgastzahlen von und nach Küllenhahn - Antwort auf die Große Anfrage der Fraktion DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 2.2: Dringlichkeitsanfrage: Schadstoffeinleitung in die Wupper - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Schadstoffeinleitung in die Wupper vom 27.04.2016 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Umwandlung des verkehrsberuhigten Bereiches Hofaue 87 - 95 in eine Fußgängerzone
+- TOP 3.2: Öffnung der Fußgängerzonen in Elberfeld und Barmen für den den Fahrradverkehr
+- TOP 3.3: Bürgeranträge gegen die Errichtung einer Maßregelvollzugsklinik am Standort "Kleine Höhe"
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Kein Platz für Zirkusse mit Wildtieren - abgelehnt
+- TOP 4.2: Anonyme Erhebung zur Gewalt gegen Erzieher und Lehrer - abgelehnt
+- TOP 4.3: Umgehende Bearbeitung der Anträge auf „Kleine Waffenscheine“ durch das Polizeipräsidium - abgelehnt
+- TOP 4.4: Antrag: Prüfauftrag an die Verwaltung: Überdachung der Horst-Szymaniak-Tribüne (Nordtribüne) des Stadions am Zoo - Nichtbefassung beschlossen
+- TOP 4.5: Praktika für Flüchtlinge - ungeändert beschlossen
+- TOP 4.6: Abgesetzt. Vorberatung nicht abgeschlossen.Transparenzsatzung - abgesetzt
+- TOP 4.7: Verwaltung 4.0 - Digitalisierungsstrategie - zur Vorberatung verwiesen
+- TOP 4.8: Buslinie 643 – alle WSW-Kund*innen haben Recht auf Beförderung - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Festsetzung des Anteils der Beitragspflichtigen am beitragsfähigen Aufwand für Baumaßnahmen an dem Straßenzug Freyastraße / Hindenburgstraße (Einzelsatzung Hindenburgstraße) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2015 - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss des Gebäudemanagement der Stadt Wuppertal (GMW) für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2014 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2016 - stationärer Bereich - - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1200 - Vogelsangstraße/Vogelsangbach - 1. Verlängerung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 654 - Otto-Hausmann-Ring - 1. Änderung - 2. Verlängerung einer Veränderungssperre - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 50 - Wupperstraße/Am Wunderbau - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1205 - Märkische Straße/Hatzfelder Straße - 1. Verlängerung einer Veränderungssperre - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1208 - Berliner Straße/Rauer Werth - 1. Verlängerung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1224 - Uellendahler Straße/nordöstl. Bornberg - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Wuppertal 2025 - Projekt „Wuppertal als Fahrradstadt“: Radhaus - Radabstellanlage mit Serviceeinheit am Döppersberg - ungeändert beschlossen
+- TOP 10.2: Gemeinsamer Neubau für Grundschule Kruppstraße und Erweiterung der Gesamtschule Uellendahl/Katernberg für Sekundarstufe II am Standort Kruppstraße 139/145 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Richtlinien der Stadt Wuppertal zur aktiven Mitwirkung im Gebiet der Sozialen Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.2: Verbindliche Bedarfsplanung 2016 - 2019 für die Stadt Wuppertal gem. § 7 (6) Alten- und Pflegegesetz NRW (APG NRW) - ungeändert beschlossen
+- TOP 11.3: Handlungsprogramm Brachflächen - geändert beschlossen
+- TOP 11.4: Einrichtung eines Grundschulverbundes im Wege der Änderung zum 01.08.2016 – mit der Gemeinschaftsgrundschule Fritz-Harkort Schule und der Gemeinschaftsgrundschule Beyenburg - ungeändert beschlossen
+- TOP 11.5: Arbeitsmedizinischer Dienst - ungeändert beschlossen
+- TOP 11.6: Bericht zur Geschlechterparität in Wuppertaler Gremien - Entgegennahme ohne Beschluss
+- TOP 11.7: Abgesetzt. Vorberatung nicht abgeschlossen. 2. Aktionsplan zur Gleichstellung von Frauen und Männern, 2016 - 2018 - abgesetzt
+- TOP 11.8: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Abberufung und Bestellung von Vertretern der Stadt Wuppertal in der KDN-Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 12.2: Leitlinien für Bürgerbeteiligung - Einrichtung der Arbeitsgruppe (nur Rat) - geändert beschlossen
+- TOP 12.3: Kuratorium des Von der Heydt-Kulturpreises (nur Rat) - geändert beschlossen
+- TOP 12.4: Umbesetzung von Gremien - ungeändert beschlossen
