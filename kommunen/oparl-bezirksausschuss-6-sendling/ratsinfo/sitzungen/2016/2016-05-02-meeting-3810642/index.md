@@ -1,0 +1,83 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2016-05-02T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3810642
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3810642
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 2.1.: Zweckentfremdung Lindwurmstraße
+- TOP 2.2.: Gestaltung der Rückwand des Sozialbürgerhauses Meindlstraße
+- TOP 2.3.: Baumnachpflanzungen im Umfeld des Harras
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Workshop Altenwohnheim Meindlstraße
+- TOP 4.2.: Durchwegung der Hangkante im Bereich des Clearinghauses Plinganserstraße
+- TOP 4.3.: Einladung und Protokoll der Gleichstellungsstelle für Frauen
+- TOP 4.4.: Wahl der Seniorenvertretung 2017
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Schulentwicklungsplanung
+- TOP 5.2.: Schulbauoffensive 2013 - 2030
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Christkindlmarkt am Harras 2016
+- TOP 6.2.: MVG-Leistungsprogramm 2017
+- TOP 6.3.: Personenbezogener Behindertenparkplatz Königsdorferstr. 17
+- TOP 6.4.: Lichtsignalanlage Lindwurmstraße / Plinganserstraße
+- TOP 6.5.: Anpassung der Lichtsignalanlage Brudermühl- / Thalkirchner- / Implerstraße
+- TOP 6.6.: Fahrkartenautomat am U-Bahn-Aufzug Albert-Roßhaupter-Str. / Meindlstraße
+- TOP 6.7.: MVG-Rad; Informationsveranstaltung vom 22.02.16
+- TOP 6.8.: Leitungsbaumaßnahmen Lindwurm- / Implerstraße
+- TOP 7: Gaststättenangelegenheiten
+- TOP 7.1.: Genehmigung einer Freischankfläche Thalkirchner Str. 126
+- TOP 7.2.: Freischankfläche Uncles Burger Lindwurmstr. 205
+- TOP 8.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt Play Me, I'm Yours - Aufstellung von öffentlichen Klavieren vom 01.09. - 28.09.2016 - <div>Ablehnung, mehrheitlich</div>
+- TOP 8.3.: Änderung der BA-Satzung und der BA-Geschäftsordnung
+- TOP 8.4.: WLAN-Hotspot in den BA-Geschäftsstellen
+- TOP 8.5.: Harrasfest - Bestätigung des öffentlichen Interesses
+- TOP 8.6.: BA-Budget; Verwendungsnachweise
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldeliste Bauvorhaben
+- TOP 9.2.: Bauvorhaben Flößergasse 6e
+- TOP 9.3.: Bauvorhaben Kidlerstr. 20
+- TOP 9.4.: Bauvorhaben Heißstr. 6 - 18
+- TOP 9.5.: Baugenehmigung Großmarkthalle
+- TOP 9.6.: LBK zukunftsfähig ausstatten (Sitzungsvorlage Nr. 14-20 / V 03291)
+- TOP 9.7.: Optimierung Bebauungsplanverfahren (Sitzungsvorlage Nr. 14-20 / V 04459)
+- TOP 9.8.: Baufibel Dorfkern Aubing
+- TOP 9.9.: Studien zu energetischen Standards vorstellen (Sitzungsvorlage Nr. 14-20 / V 04989)
+- TOP 9.10.: Intelligente bauliche Lösungen für den Schallschutz (Sitzungsvorlage Nr. 14-20 / V 04973)
+- TOP 9.11.: Wohnen in München V (Sitzungsvorlage Nr. 14-20 / V 05855)
+- TOP 9.12.: Neue Förderkategorie im Wohnungsbau (Sitzungsvorlage Nr. 14-20 / V 05662)
+- TOP 9.13.: Perspektive München (Sitzungsvorlage Nr. 14-20 / V 05569)
+- TOP 9.14.: Beschlussvollzugskontrolle (Sitzungsvorlage Nr. 14-20 / V 05466)
+- TOP 10: Baureferat
+- TOP 10.1.: Grünanlage Valleyplatz; - Verstärkte Reinigung der Grünanlage und des Wasserbrunnens - Anbringung einer Beleuchtung auf den größeren Verbindungswegen - Errichtung von Sitzgelegenheiten vor dem SBZ-Sendling - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Herstellung eines Gehweges in der Fallstraße / Nordseite
+- TOP 10.3.: Bepflanzung / Pflege der Stemmerwiese
+- TOP 10.4.: Abfallbehälter am U-Bahnaufzug Albert-Roßhaupter-Straße / Meindlstraße
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Maßnahmen für eine saubere Isar - Runder Tisch (Sitzungsvorlage Nr. 14-20 / V 05605)
+- TOP 11.2.: Bekämpfung des Laubholzbockkäfers (Sitzungsvorlage Nr. 14-20 / V 05188)
+- TOP 12: Anträge
+- TOP 12.1.: Die Sortieranlage, das Bauwerk an der Thalkrichner Str. 126, Oberländerstr. 1 mit Gotzinger Str. wird unter Denkmalschutz gestellt
+- TOP 1.2.: Montessori Schule für Sendling; Berücksichtigung bei der Neukonzeption freiwerdender Großmarkthallenflächen
+- TOP 14: Verschiedenes
+- TOP 14.1.: Mehrjahresinvestitionsprogramm 2015 - 2019
+- TOP 14.2.: Steakholderdialog am 10.05.2016 des Abfallwirtschaftsbetriebes
+- TOP 14.3.: Verlängerung des Oktoberfestes 2017
+- TOP 14.4.: Ausschreibung des Ladenlokals 1, Thalkirchner Str. 126
+- TOP 14.5.: Ausschreibung Gaißacher-Bunker
+- TOP 8.2.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Fußballmodellprojekt "Kicklusion . . . und alle kicken mit" am 05.06.2016 - <div>Zustimmung, einstimmig in voller Höhe</div>
+- TOP 1: (E) Verwahrlosung und Überbelegung im Anwesen Engelhardtstr. 31 Empfehlung Nr. 14-20 / E 00688 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 27.10.2015 - <div>Zustimmung zum Antrag der Referentin aber Rückfrage</div>
+- TOP 9: (E) Radlweg in der Schäftlarnstraße Empfehlung Nr. 14-20 / E 00284 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 18.11.2014
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
