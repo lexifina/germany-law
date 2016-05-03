@@ -1,0 +1,85 @@
+# Stadtrat (15. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-05-03T17:00:00+02:00
+- Ende: 2016-05-03T22:02:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTEtdt0uLY1dt4bA1jfnB08
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20047
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbnCYAFyOGAO8fBqXVAlQyFjE0lfIswYRbFMECSo5RUg/Bekanntmachung_Stadtrat_03.05.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSvEiWpXrRbWllMfB9csPtTyxuTRRvZPegsDpYUGbCyb/Oeffentliche_Niederschrift_Stadtrat_03.05.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung des neuen Stadtverordneten Peter Neßeler
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Lärmschutzgutachten Buir - Zwischenbericht des Gutachters
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Umbesetzung von Ausschüssen und Arbeitskreisen; hier: Antrag der CDU-Fraktion
+- TOP 4.2: Umbesetzung von Ausschüssen und Gremien hier: Antrag der SPD-Fraktion
+- TOP 4.3: hier: Umbesetzung der Zweckverbandsversammlung des Zweckverbandes Musikschule „La Musica“ - Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 4.4: hier: Umbesetzung der Gesellschafterversammlung der Strom- und Gasnetzgesellschaften Antrag der FDP-Fraktion
+- TOP 4.5: Umbesetzung des Ausschusses für Sport, Freizeit und Kultur hier: Antrag der Fraktion DIE LINKE
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: 2. Änderung der Satzung über die Benutzung der kulturellen Einrichtungen der Stadt Kerpen - (kein Text vorhanden)
+- TOP 5.2: 1. Änderungssatzung zur Satzung der Kolpingstadt Kerpen über die Erhebung von Gebühren für den Krankentransport und Rettungsdienst
+- TOP 5.3: 2. Satzung zur Änderung der Satzung der Stadt Kerpen über die Erhebung von Gebühren für den Einsatz des Notarztes
+- TOP 5.4: Neufassung der Gebührensatzung für die Benutzung der Obdachlosenunterkünfte der Kolpingstadt Kerpen
+- TOP 5.5: Neufassung der Satzung über die Errichtung, Unterhaltung und Benutzung von Obdachlosenunterkünften der Kolpingstadt Kerpen
+- TOP 5.6: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass
+- TOP 5.7: Neufassung der Satzung der Kolpingstadt Kerpen über die Ablösung von Stellplätzen
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Grundsatzbeschluss zum Einzelhandels- und Zentrenkonzept der Kolpingstadt Kerpen
+- TOP 6.2: Abschluss eines städtebaulichen Vertrages zur Umgestaltung des Marktplatzes im Stadtteil Türnich
+- TOP 6.3: Abschluss eines städtebaulichen Vertrages zur Finanzierung von baulichen Verbesserungsmaßnahmen im Bereich des Denkmalplatzes im Stadtteil Brüggen
+- TOP 6.4: 75. Änderung des Flächennutzungsplanes "Sondergebiet Nahversorgungszentrum/ zentraler Versorgungsbereich Brüggen - Heerstraße", Stadtteil Brüggen – Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.5: Abschluss eines Erschließungsvertrages zum Bebauungsplan BR Nr. 356 "Eifelstraße/Heerstraße"
+- TOP 6.6: Teilaufhebung der Bebauungspläne Nr. 27 und Nr. 27/3. Änderung, Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.7: Vorhabenbezogener Bebauungsplan SI 359 "Hahner Äcker West" Stadtteil Sindorf hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB i.V. mit § 12 BauGB Einleitungsbeschluss - (kein Text vorhanden)
+- TOP 6.8: Abschluss eines städtebaulichen Verpflichtungsvertrages im Rahmen des vorhabebezogenen Bebauungsplanes SI Nr. 359 "Hahner Äcker West" - (kein Text vorhanden)
+- TOP 6.9: Bebauungsplan BL 297 "Haagstraße", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB
+- TOP 6.10: Abschluss einer städtebaulichen Planungsvereinbarung für den Bereich des Bebauungsplanes BL Nr. 297 "Haagstraße"
+- TOP 7.: Stellungnahme der Kolpingstadt Kerpen zur 24. Änderung des Regionalplanes, Teilabschnitt Region Köln, hier: Neudarstellung eines Gewerbe - und Industrieansiedlungsbereiches für zweckgebunden Nutzung Autohof, Stadt Elsdorf
+- TOP 8.: Sozialer Wohnungsbau in Eigenregie
+- TOP zu TOP 8: Sozialer Wohnungsbau in Eigenregie
+- TOP 9.: Sozialer Wohnungsbau für Flüchtlinge in Eigenregie
+- TOP 10.: Hilfe für Flüchtlinge in Idomeni hier: Antrag der Fraktion Bündnis 90/Die Grünen sowie der Fraktion DIE LINKE - (kein Text vorhanden)
+- TOP 11.: Maßnahmenplan zur Sicherstellung des Rechtsanspruchs für Kinder über und unter drei Jahren Prüfung der Standorte Sindorf und Horrem - (kein Text vorhanden)
+- TOP 12.: Dritte Grundschule für Sindorf, Vogelrutherfeld; hier: Antrag des Stadtverordneten Scharping
+- TOP 13.: Vergabebericht für die Jahre 2014 und 2015
+- TOP 14.: Sponsoringbericht 2013/2014
+- TOP 15.: Dienstanweisung für den Abschluss und die Abwicklung von Finanzgeschäften
+- TOP 16.: Haushaltssatzung 2016; hier: Bürgerhaushalt/Einwendungen gemäß § 80 Abs. 3 der Gemeindeordnung für das Land NRW (GO) - (kein Text vorhanden)
+- TOP 17.: Haushaltssatzung für das Haushaltsjahr 2016 einschließlich eines Haushaltssicherungskonzeptes und des Stellenplanes - (kein Text vorhanden)
+- TOP 17.1: Moratorium Sachverständigen-, Anwalts- und Gerichtskosten im Bereich "Planmäßig bewirtschaftete Wälder" (Produkt 55.555.10) - (kein Text vorhanden)
+- TOP 17.2: Einrichtung der Stelle eines Mobilitätsmanagers/einer Mobilitätsmanagerin - (kein Text vorhanden)
+- TOP 18.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Sanierung Erftlagune hier: Bereitstellung von überplanmäßigen Haushaltsmitteln - (kein Text vorhanden)
+- TOP 18.2: Bereitstellung von überplanmäßigen Haushaltsmitteln für das Bauvorhaben: Errichtung von Flüchtlingsunterkünften an der Erftstraße 188 in Kerpen-Sindorf - (kein Text vorhanden)
+- TOP 19.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 20.: Mitteilungen
+- TOP 21.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 22.1: Sinkende Flüchtlingszahlen hier: Anfrage der Fraktion DIE LINKE vom 04.04.2016
+- TOP II.: Nichtöffentlicher Teil
+- TOP 23.: Aufstellung eines Bebauungsplanes für das Grundstück am Nordring in Kerpen
+- TOP 23a: Grunderwerb in Türnich: Abschluss eines Übertragungsvertrages - (kein Text vorhanden)
+- TOP 24.: Nachtrag Kanal- und Straßenbau Kerpener Straße in Sindorf, IV. und V. Bauabschnitt
+- TOP 25.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 25.1: Ersatzbeschaffung eines Pritschenwagens und überplanmäßige Bereitstellung von Haushaltsmitteln in Höhe von 25.000,-- €
+- TOP 25.2: Auftragsvergabe: Erd- und Rohbauarbeiten Neubau Flüchtlingsunterkunft Erftstraße, Kerpen- Sindorf
+- TOP 25.3: Sanierung Erftlagune hier: Beauftragung eines Ingenieurbüros für die Leistungsphasen 8 und 9 Honorarordnung für Architekten und Ingenieure (HOAI)
+- TOP 25.4: Neubeschaffung eines Unterwassersaugers für das Freibad Türnich und überplanmäßige Bereitstellung von Haushaltsmitteln
+- TOP 25.5: Unterbringung zugewiesener Flüchtlinge in Kerpen hier: temporäre Unterbringung in Containern
+- TOP 26.: Aufhebung einer Dringlichkeitsentscheidung hier: dauerhafte Unterbringung zugewiesener Flüchtlinge in Kerpen
+- TOP 27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.1: Bestellung und Eingruppierung eines Amtsleiters
+- TOP 28.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 29.: Mitteilungen
+- TOP 30.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 31.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 32.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
