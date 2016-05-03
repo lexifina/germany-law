@@ -1,0 +1,72 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-05-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834066
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834066
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1: Vorstellung Neubau Grundschule Camerloherstraße 110 durch das Referat für Bildung und Sport
+- TOP 1.2: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.3: Bürgerpost an den BA
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben MVG vom 30.03.16: Leistungsprogramm 2017 der MVG (Fahrplanwechsel Dezember 2016); Anhörungsverfahren
+- TOP 4.2.: Schreiben Stadtkämmerei vom 11.04.16: Mittelfristige Finanzplanung 2015 - 2019; Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2016 - 2020
+- TOP 4.3.: Erinnerungsverfahren Sanierung Bushaltestellen Ammerseebrücke
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 110: Schulbauoffensive; Neubau 5-zügige Grundschule mit 20 Klassen- und 10 Ganztagesbetreuungsräumen - Vorbescheid
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Archiv der Münchner Arbeiterbewegung, Arbeitskreis Industriekultur vom 03.04.16: Anfrage zu Bauten des Industriezeitalters
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 05.04.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 04.04.16: WLAN-Hotspot in den BA-Geschäftsstellen
+- TOP 8.2.: Schreiben Direktorium vom 13.04.16: Änderung der BA-Satzung und der BA-Geschäftsordnung
+- TOP 8.3.: Schreiben Baureferat vom 29.03.16: Lösung der Müllproblematik vor Bahnstationen (Ziffer 2 des Antrages); Empfehlung nr. 14-20 / E 00786 der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.15; BA-Beschluss vom 01.03.16
+- TOP 8.4.: Schreiben Referat für Gesundheit und Umwelt vom 12.04.16: Fachforum "Wärmedämmung an Fassaden" am 10.05.16 von 9:00 bis 12:50 Uhr, Bauzentrum München, Willy-Brandt-Allee 10
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 21.04.16: Flyer Infoabende im Bauzentrum München in der Zeit von Mai bis Juli 2016
+- TOP 8.6.: Schreiben Abfallwirtschaftsbetrieb München vom 07.04.16: Unterflur-Wertstoffinseln für das Neubaugebiet an der Zschokke-/Westendstr. (Antrag des BA 25 Nr. 14-20 / B 02111 vom 01.03.16)
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 23.03.16: Neubau einer Lichtsignalanlage am Knotenpunkt Agnes-Bernauer-Straße / Agricolastraße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 01.04.16: Arbeiten im Straßenraum Zschokkestr. zwischen Westendstr. und Siglstr. (Fernwärmeerschließung Laim Ost - Bauphasen 0, 0a, 0-1 und 1)
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 18.04.16: Fußgängerquerung Senftenauerstr./Hönigschmidplatz
+- TOP 8.10.: Schreiben Referat für Bildung und Sport vom 31.03.16: Eröffnung Tagesheim am Standort Canisiusplatz 2 ab September 2016
+- TOP 8.11.: Schreiben Referat für Bildung und Sport vom 08.04.16: Geschwisterkinder an Münchner Schulen (Schreiben BA 25 vom 07.03.16)
+- TOP 8.12.: Schreiben Referat für Bildung und Sport vom 11.04.16: Information zur Bekanntgabe Schulentwicklungsplanung
+- TOP 8.13.: Schreiben Referat für Bildung und Sport vom 13.04.16: Camerloher Schule; attraktivere Gestaltung des Pausenhofes (Antrag des BA 25 Nr. 14-20 / B 02008 vom 02.02.16)
+- TOP 8.14.: Schreiben Sozialreferat vom 21.03.16: Weiteres Jugendzentrum in Laim bzw. weitere Angebote für die Jugendfreizeit (Antrag aus der Einwohnerversammlung des BA 25 für Kinder und Jugendliche am 27.11.15)
+- TOP 8.15.: Schreiben Sozialreferat vom 13.04.16: Terminvormerkung: BA-Infoveranstaltung der Referatsleitung des Sozialreferates am 27.06.16 um 18:00 Uhr
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.04.16: Egetterstraße 3, Erweiterung eines Wohnhauses und rückwärtiger Neubau eines Doppelhauses; Vorbescheid
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.04.16: Schedelstraße 10; Entscheidung zum Antrag auf Ausbau des zweiten Dach- geschosses zu zwei Wohneinheiten
+- TOP 8.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.04.16: Schedelstraße 12; Entscheidung zum Antrag auf Ausbau des zweiten Dach- geschosses zu zwei Wohneinheiten
+- TOP 8.19.: Bautenliste vom 21.03. bis 27.03.16: 1. Erstantragsverfahren a) Byecherstr. 14 b) Landsberger Str. 159
+- TOP 8.20.: Bautenliste vom 28.03. bis 03.04.16: 1. Änderungsverfahren zu genehmigten Bauvorhaben a) Agnes-Bernauer-Str. 85 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Landsberger Str. 293 (Vorbescheid)
+- TOP 8.21.: Bautenliste vom 04.04. bis 10.04.16: 1. Erstantragsverfahren a) Landsberger Str. 160 b) Riegerhofweg 8 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Wilhelm-Riehl-Str. 11 (Vorbescheid Wilhelm-Riehl-Str. 11-13 / Zschokkestr. 36; Häuser 1 bis 6)
+- TOP 8.22.: Bautenliste vom 11.04. bis 17.04.16: 1. Erstantragsverfahren a) Rattenhuberstr. 13 b) Kärntner Platz c) Agnes-Bernauer-Str. 137 d) Valpichlerstr. 109 e) Elsenheimerstr. 48 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Valpichlerstr. 109
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 29.03.16: Baumaßnahmen der Stadtwerke; Stichtag 29.03.16
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 04.04.16: Baumaßnahmen der Stadtwerke; Stichtag 04.04.16
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 31.03.16: Baumaßnahmen der SWM; Fernwärmeprojekt Laim Ost, 2. Bauabschnitt Zschokkestr.
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 08.04.16: Baumaßnahmen der Stadtwerke; Stichtag 11.04.16
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 18.04.16: Baumaßnahmen der Stadtwerke; Stichtag 18.04.16
+- TOP 8.28.: Schreiben Münchner Verkehrsgesellschaft mbH (MVG) vom 07.04.14: Bürgeranliegen Lärmbelästigung durch Trambahnen
+- TOP 8.29.: Beschluss der Vollversammlung des Stadtrates vom 16.03.16: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen (Sitzungsvorlage Nr. 14-20 / V 05188)
+- TOP 8.30.: Beschluss der Vollversammlung des Stadtrates vom 16.03.16: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten - (Sitzungsvorlage Nr. 14-20 / V 03291)
+- TOP 8.31.: Beschluss der Vollversammlung des Stadtrates vom 16.03.16: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 14-20 / V 04459)
+- TOP 8.32.: Beschluss des Bauausschusses vom 05.04.2016: Radlstammstrecke ausbauen und fertigstellen (Sitzungsvorlage Nr. 14-20 / V 05205)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.16: A) Studien zu energetischen Standards vorstellen B) Kostengünstig Bauen in der Großstadt - Modellprojekt der GWG (Sitzungsvorlage Nr. 14-20 / V 04989)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.16: Heute nicht für gestern planen 5; Intelligente bauliche Lösungen für den Schallschutz (Sitzungsvorlage Nr. 14-20 / V 04973)
+- TOP 8.35.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.16: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.15 bis 31.12.15 (Sitzungsvorlage Nr. 14-20 / V 05466)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: - Neue Förderkataloge im Wohnungsbau - Klein-Wohnungen realisieren (Sitzungsvorlage Nr. 14-20 / V 05662)
+- TOP 8.37.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: Wohnen in München V; Erfahrungsbericht für das Jahr 2015 (Sitzungsvorlage Nr. 14-20 / V 05855)
+- TOP 8.38.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: PERSPEKTIVE MÜNCHEN; Münchner Stadtteilstudie - Fortschreibung 2015 (Sitzungsvorlage Nr. 14-20 / V 05569)
+- TOP 8.39.: Beschluss des Kommunalausschusses vom 28.04.16: Straßenbenennung im 25. Stadtbezirk Laim; Ilse-Weber-Straße (Sitzungsvorlage Nr. 14-20 / V 05810)
+- TOP 8.40.: Schreiben Münchner Verkehrsgesellschaft mbH (MVG) vom 15.04.14: MVG Rad; Unterlagen zur BA-Informationsveranstaltung vom 22.02.16
+- TOP 8.41.: Schreiben Markthallen München vom 12.04.16: Feste Etablierung des Bauernmarktes zum Laimer Anger; Protokoll vom Orts- termin am 08.04.16
