@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798209
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798209
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 05.04.2016
+- TOP 0: Bericht (1)
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine, Informationen, Antwortschreiben
+- TOP 2.2.: Vorstellung Kooperationsplattform
+- TOP 2.3.: (Antrag) WLAN im Bürgersaal
+- TOP 3: Unterausschuss Budget
+- TOP 3.3.: (A) Mittelfristige Finanzplanung 2015-2019 Fortschreibung des Mehrjahresinvestitionsprogrammes für die Jahre 2016 bis 2019
+- TOP 0: Bericht (2)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Keine kommerziellen Veranstaltungen an der Isar zulassen
+- TOP 4.3.: (Antrag) Artgerechtes München
+- TOP 4.4.: (Antrag) Erlebbarer Grünzug Drygalski-Allee
+- TOP 4.5.: (Antrag) Abbau von Wertstoffcontainern während Baustelleneinrichtungen
+- TOP 0: Bericht (3)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Aktueller Stand der Ergebnisse
+- TOP 5.2.: (A) Leistungsprogramm 2017 der MVG
+- TOP 5.3.: (E) Sondernutzungserlaubnis: 16 Zeitungsentnahmegeräte an verschiedenen Standorten
+- TOP 5.4.: (Antrag) Sitzgelegenheit Haltestelle Josephinenstr.
+- TOP 5.5.: (Antrag) Hinweisschild Jugendgästehaus Thalkirchen
+- TOP 5.6.: (A) Markierung Radfahrstreifen Fahrbahn Wolfratshauser Str. zwischen Schmiedberg und Boschetsrieder Str. (Ostseite)
+- TOP 0: Bericht (4)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Satzungsänderung: Neuvermietung von städtischen Immobilien BA-Antrags-Nr. 14-20 / B 01899 des Bezirksausschusses des Stadtbezirks 17 ? Obergiesing-Fasangarten vom 08.12.2015
+- TOP 6.3.: (Antrag) Dorfkern Forstenried ? Baumaßnahmen nur nach den Richtlinien des bayerischen Denkmalschutzgesetzes genehmigen
+- TOP 0: Bericht (5)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Fortschreibung Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren ? aktualisierte Datenblätter; Sitzungsvorlage Nr. 14-20 / V 05271
+- TOP 7.2.: (Antrag) Einbindung des Jugendcafés für 10 bis 14-jährige in das geplante Familienzentrum auf dem EON-Gelände
+- TOP 7.3.: (Antrag) Einbindung des BA 19 in die Planungen des Jugendcafés im ?Jungen Quartier Obersendling?
+- TOP 0: Bericht (6)
+- TOP 8: Unterausschuss Kultur
+- TOP 0: Bericht (7)
+- TOP 9: Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Freunde des Ortskerns Forstenried e.V. Dorffest am 18. und 19.06.2016
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Bürgertreff München-Süd, Treff + Tee e.V. Fest zum 30-jährigen Bestehen am 04.06.2016
+- TOP 0.7.: Straßenbeleuchtung südliche Wolfratshauser Straße - <div></div>
+- TOP 0.8.: Befristete Einführung eines Parklizenzgebietes im Bereich Forstenrieder Allee / Schaffhauser Str. / Winterthurer Str. - <div></div>
