@@ -1,0 +1,8 @@
+# TOP 4.4: - Mitarbeiterinnen und Mitarbeiter im öffentlichen Dienst angemessen entlohnen (vertagt in der 62. Sitzung)
+
+- Sitzung: 63. öffentliche Sitzung des Hauptausschusses (2016-05-04)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=41898
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=41898
