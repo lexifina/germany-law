@@ -1,0 +1,107 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800183
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800183
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrsberuhigung des Canisiusplatzes und Verlängerung der Sperrung für den Durchgangsverkehr
+- TOP 1.2.: Ampelanlage an der Kreuzung Großhaderner Straße / Waldwiesenstraße / Haderunstraße
+- TOP 1.3.: Verkehrsbelastung in der Waldwiesenstraße / Ecke Haderunstraße
+- TOP 1.4.: Gehwegverunreinigung und Parken auf dem Gehweg in der Alpenveilchenstraße / Ecke Krokusstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 1: Ampelanlage an der Kreuzung Würmtal-/Eichen-/Zinkgrafstraße (Kreisverwaltungsreferat, 06.04.16) (vertagt aus 02/16) Empfehlung Nr. 14-20 / E 00644 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 20.10.2015 - <div>nach Antrag</div>
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mittelfristige Finanzplanung 2015 - 2019, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2016 bis 2020 (Stadtkämmerei, 11.04.16)
+- TOP 6.2.: Bekanntgabe im Bildungsausschuss vom 06.04.2016: Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter (Referat für Bildung und Sport, 11.04.16)
+- TOP 6.3.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien, Antrag BA 17 - Obergiesing-Fasangarten vom 08.12.2015 (Direktorium, 21.04.16)
+- TOP 6.4.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten, Antrag BA 2 - Ludwigsvorstadt-Isarvorstadt (Direktorium, 22.04.16)
+- TOP 6.5.: Bauleitplanung der Gemeinde Gräfelfing, B-Plan Nr. 1 N für den Bereich Asamstraße, Röntgenstraße und Gabriel-von-Seidl-Straße Verfahren nach § 4 Abs. 2 BauGB (Referat für Stadtplanung und Bauordnung, 25.04.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Arnikaweg 19, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 6087
+- TOP 7.2.: Stiftsbogen 27, 1 Bergahorn
+- TOP 7.3.: Am Waldspitz 24 a, 1 Nadelbaum
+- TOP 7.4.: Violenstraße 7, 1 Tanne
+- TOP 7.5.: Waldgartenstraße 67, 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Guardinistraße 6, 1 Robinie (Referat für Stadtplanung und Bauordnung, 13.04.16)
+- TOP 7.2.: Liste des Baureferates vom 12.04.2016: 1 Baum auf dem Waldfriedhof
+- TOP 7.3.: Veilchenstraße 3, 1 Kiefer (Referat für Stadtplanung und Bauordnung, 11.04.16)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Mister Gelato", Alpenveilchenstraße 56 a (Kreisverwaltungsreferat, 29.03.16)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Krokusstraße (Sozialreferat, 04.04.16)
+- TOP 8.4.: Änderung der BA-Satzung und der BA-Geschäftsordnung (Direktorium, 13.04.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Fußballplatz Terofalstraße (nördlich vom Treff 21) (Baureferat, 24.03.16)
+- TOP 9.2.: Zuschuss aus dem BA-Budget: Antrag KJR München-Stadt - Kinderhaus Wolkerweg - Küche (Direktorium, 05.04.16)
+- TOP 9.3.: Vandalismus auf dem kleinen Spielplatz hinter der Grundschule an der Großhaderner Straße (Baureferat, 14.04.16)
+- TOP 9.4.: Fußgängerquerung Senftenauerstraße / Hönigschmidplatz (Kreisverwaltungsreferat, 18.04.16)
+- TOP 9.5.: Beleuchtung Gehweg am Stiftsbogen (Baureferat, 19.04.16)
+- TOP 9.6.: Müllbehälterentleerung in der Helmstädtstraße (Baureferat, 25.04.16)
+- TOP 9.7.: Stärkung der Stadtbezirke (Oberbürgermeister Reiter, 25.04.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: WLAN-Hotspot in den BA-Geschäftsstellen (Direktorium, 04.04.16)
+- TOP 11.2.: Einladung zum Festabend "50 Jahre FTM-Blumenau" am 28.11.2016 (FTM-Blumenau von 1966 e.V., 15.03.16)
+- TOP 11.3.: MVG Rad - hier: BA-Informationsveranstaltung vom 22.02.2016 (SWM, 15.04.16)
+- TOP 11.4.: Flyer Infoabende Bauzentrum (Referat für Gesundheit und Umwelt, 21.04.16)
+- TOP 11.5.: Jahresbericht der Caritas-Beratungsstellen (Caritas, 07.04.16)
+- TOP 11.6.: Protokoll Regionalmanagement Südwest e.V. vom 11.03.2016 (Referat für Stadtplanung und Bauordnung, 19.04.16)
+- TOP 11.7.: Projekt Kooperationsplattform (Direktorium, 21.04.16)
+- TOP 11.8.: Antrag des BA 17 Obergiesing-Fasangarten: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05096: Zusammenarbeit zwischen Seniorenvertretung und Stadtverwaltung / Wahl der Seniorenvertretung 2017
+- TOP 12.2.: Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05509: Das "Junge Quartier Obersendling" - Ein Integrationszentrum für Bildung, Ausbildung und zur Unterbringung von jungen Menschen mit und ohne Fluchthintergrund
+- TOP 12.3.: Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 03602: Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes A) Sachstand nach den Entscheidungen des Landesdenkmalrates vom 27.05. und 01.07.2011, bzw. 30.03.2012 B) Maßnahmen zum Erhalt des Ensemblestatus und der weiteren Entwicklung der ehem. Dorfkerne Aubing und Ramersdorf
+- TOP 12.4.: Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 03291: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten -
+- TOP 12.5.: Hinweis / Ergänzung vom 14.03.2016 zum Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05437: Wohnen für Alle a) Schaffung von zusätzlichem, dauerhaftem Wohnraum für wohnberechtigte Haushalte einschließlich anerkannter Flüchtlinge b) Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015 - 2019 - im Finanzhaushalt 2016
+- TOP 12.6.: Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04459: 1) Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung 2) Anträge
+- TOP 12.7.: Beschluss vom 16.03.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05188: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen
+- TOP 12.8.: Beschluss vom 25.02.2016 zur Sitzungsvorlage-Nr. 14-20 / V 5131: Schulbauoffensive 2013 - 2030
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04989: A) Studien zu energetischen Standards vorstellen B) Kostengünstig bauen in einer Großstadt - Modellprojekt der GWG
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04973: Heute nicht für gestern planen 5 Intelligente bauliche Lösungen für den Schallschutz
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05662: Neue Förderkategorie im Wohnungsbau Klein-Wohnungen realisieren
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 02989: Ökologischer Kriterienkatalog Fortschreibung 2016
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2016: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden BEschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 - 31.12.2015
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 27.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05855: Wohnen in München V Erfahrungsbericht für das Jahr 2015
+- TOP 12.3.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 27.04.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05569: PERSPEKTIVE MÜNCHEN Münchner Stadtteilstudie - Fortschreibung 2015
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest der Freiwilligen Feuerwehr München - Abt. Großhadern in der Großhaderner Straße am 11.06.2016 von 11.00 - 18.00 Uhr, FIRETAGE VORORT (Tag der offenen Tür) (Kreisverwaltungsreferat, 27.04.16)
+- TOP 6.7.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest des Musischen Kindergartens Christa Gittner in der Neufriedenheimer Straße 71 - 79 am 25.06.2016 von 14.00 - 18.00 Uhr (Kreisverwaltungsreferat, 27.04.16)
+- TOP 7.6.: Fürstenrieder Straße 276, gem. Baumbestandsplan Nr. 6432
+- TOP 7.7.: Pfingstrosenstraße 44, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 7179
+- TOP 7.8.: Heiglhofstraße 26, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 5611
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: - Heiglhofstraße 13 - Fernwärme (SWM, 04.04.16) - Terofalstraße 71 - Strom (SWM, 25.04.16) - Stromprojekt Am Wiesenhang, Änderung im Terminablauf (SWM, 25.04.16)
+- TOP 1.5.: Containerstellplatz Willibaldstraße 225 / Haderner Steg
+- TOP 1.6.: Sperrmüll in der Maenherstraße
+- TOP 6.8.: Förderung für Bürgerschaftliches Engagement, hier: "Miteinander leben in Hadern e.V." (Sozialreferat, 29.04.16)
+- TOP 6.9.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2016/2017 (Sozialreferat, 29.04.16)
+- TOP 8.5.: Information der Bezirksausschüsse: Neue Bädereintrittspreise (SWM, 27.04.16)
+- TOP 1.6.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Sauerbruchstraße - provisorische Schutzinsel (Baureferat, 04.05.16)
+- TOP 7.9.: Waldhüterstraße 1, 2 Fichten
+- TOP 11.9.: Einladung zum 1. Sonnenhaus-Tag im Bauzentrum München "Solare Energie für Gebäude" am Dienstag, 28.06.2016 (Referat für Gesundheit und Umwelt, 29.04.16)
+- TOP 1.2.: Budget der Bezirksausschüsse, MobilSpiel e.V., Kicklusion ?... und alle kicken mit!? am 07.08.2016 (Direktorium, 06.04.16)
+- TOP 1.3.: Budget der Bezirksausschüsse, München Rugby Football Club e.V., Deutsche Meisterschaft der U12 am 04. und 05.06.2016 (Direktorium, 31.03.16)
+- TOP 1.4.: Budget der Bezirksausschüsse, SMV des Erasmus-Grasser-Gymnasiums, Projekt ?Schule als Staat? vom 22. bis 27.07.2016 (Direktorium, 13.04.16)
+- TOP 1.5.: Budget der Bezirksausschüsse, Regsam e.V., Blumenauer Sommerfest am 23.07.2016 (Direktorium, 26.04.16)
+- TOP 11.10.: Dank für Spielplatz in der Gräfelfinger Straße
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
