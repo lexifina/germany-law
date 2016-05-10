@@ -1,0 +1,6 @@
+# TOP 3.: Einführung und Verpflichtung eines Ratsmitgliedes
+
+- Sitzung: Rat (14. Sitzung) (2016-05-10)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/65553
