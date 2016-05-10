@@ -1,0 +1,108 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779281
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779281
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Ampel Ecke Adalbert- / Amalienstraße Schreiben eines Bürgers vom 04.04.2016
+- TOP .3.: Schreiben der ?Altstadtfreunde München? vom 10.04.2016 Erhalt der Gebäude der Tierklinik am Englischen Garten
+- TOP .4.: Baustelle Theresienstraße 75, Verunreinigung der Straße, Lärmbelästigung Schreiben eines Bürgers vom 08.04.2016
+- TOP .5.: Schreiben der Hochschule für Fernsehen und Film vom 25.04.2016 Situation für Fußgänger an der Straßenbahnhaltestelle Karolinenplatz
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Die Tillystraße ist für den Radverkehr in beiden Richtungen zuzulassen, im Anschluss daran ebenfalls die Georg-Schätzl-Straße
+- TOP .2.: Baumschutz im verdichteten Stadtgebiet verbessern
+- TOP .3.: Schreiben des Oberbürgermeisters an den BA 3 vom 07.04.2016 Altstadtring Nordwest; Umgestaltung des Oskar-von-Miller-Rings und der Gabelsberger- straße
+- TOP .4.: Anfrage bezüglich Karlstraße 20 - 22
+- TOP .5.: Grünstreifen in der Augustenstraße Die Landeshauptstadt München, Baureferat Gartenbau, wird beauftragt, die in den letzten Jahren beschädigten Grünflächen, wasauch insbesondere durch die inzwischen entfernten Schrotträder entstanden ist, durch Nachpflanzungen wieder in die ursprüngliche Form wieder herzustellen.
+- TOP .1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 29.03.2016 Schulbauoffensive 2013 ? 2020, hier Berufsoberschule Brienner Straße 37 vertagt aus der Sitzung vom 12.04.2016, TOP B 1.5 Unterlagen liegen bereits vor
+- TOP .2.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.04.2016 Anfrage an die LBK zu den Neubauten Augustenstraße 66 und Gabelsbergerstraße 38
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Bauvorhaben der LBK: 13., 14., 15. , 16., 17. KW
+- TOP .2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 11./12. KW
+- TOP .3.: Steinheilstraße 3 RGB Neubau eines Rückgebäudes mit Handwerksbetrieb und einer Wohneinheit und eines Garagengebäudes
+- TOP .4.: Schleißheimer Straße 66 a Speicher-Ausbau zu einer Wohneinheit
+- TOP .5.: Adalbertstraße 49 ? Tektur Neubau eines Rückgebäudes
+- TOP .6.: Gabelsbergerstraße 34 Dachgeschossausbau im Vordergebäude vertagt aus der Sitzung vom 12.04.2016, TOP B 2.1.7 Tischvorlage Unterlagen liegen bereits vor
+- TOP .7.: Zentnerstraße 2 Schulbauoffensive ? Ersatzneubau des Dachtragwerkes der Turn- und Gymnastikhalle
+- TOP .8.: Königinstraße 9 ? 11 a Aufstockung eines Gebäudes sowie Neubau eines Verwaltungsgebäudes und eines Verteilerbauwerks
+- TOP .9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Empfehlung Nr. 14-20 / E 00654 der Bürgerversammlung des 3. Stadtbezirkes Maxvor- stadt vom 22.10.2015 Gentrifizierung; Bereitstellung bezahlbaren Wohnraumes Sitzungsvorlage Nr. 14-20 / V 05853
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neue Förderkategorie im Wohnungsbau Klein-Wohnungen realisieren div. Anträge aus dem Stadtrat Sitzungsvorlage Nr. 14-20 / V 05662 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Perspektive München, Münchner Stadtteilstudie ? Fortschreibung 2015 Sitzungsvorlage Nr. 14-20 / V 05569 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen in München V, Erfahrungsbericht für das Jahr 2015 Sitzungsvorlage Nr. 14-20 / V 05855 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Ökologischer Krterienkatalog, Fortschreibung 2016 Sitzungsvorlage Nr. 14-20 / B 02989 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnungsbauatlas für München und die Region Sitzungsvorlage Nr. 14-20 / V 05936 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP .1.: Antrag der CSU im BA 3 vom 23.03.2016 Einrichtung einer Ladestation für E-Taxis vertagt aus der Sitzung vom 12.04.2016, TOP C 1.6 Unterlagen liegen bereits vor
+- TOP .2.: Antrag von Bündnis 90/die Grünen im BA 3 vom 26.04.2016 Anfrage zum Beleuchtungskonzept auf dem Josephsplatz
+- TOP .3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.04.2016 Anfrage an das Baureferat zu den Pflastersteinen am Josephsplatz
+- TOP .2.1: Verkehr
+- TOP .1.: Stadtwerke MVG MVG-Leistungsprogramm 2017
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung eines personenbezogenen Behindertenparkplatzes in der Barer Straße 56 a
+- TOP 3.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichtung eines absoluten Haltverbots in der Hiltenspergerstraße
+- TOP 3.5.: Kreisverwaltungsreferat, Verkehrsanordnungen Radführung Seidlstraße, Lückenschluss
+- TOP 3.2.2: Öffentlicher Raum
+- TOP 3.1.: Baureferat, Anhörung des BA 3 zur nachfolgenden Beschlussvorlage des BA 4 Kreuzungsbereich Winzerer-/Lothstraße am Obelisken durch Grünkonzept optimieren Empfehlung Nr. 14-20 / E 154 der Bürgerversammlung des 4. Stadtbez. am 09.10.2014 Pflanzen einer Baumreihe in der Lothstsraße zwischen Winzerer- und Infanteriestraße Empfehlung Nr. 14-20 / E 155 der Bürgerversammlung des 4. Stadtbez. am 09.10.2014
+- TOP 3.2.3: Gaststätten
+- TOP 3.1.: Schellingstraße 143, Änderung einer bestehenden Freischankfläche
+- TOP 3.2.: Schleißheimer Straße 77, Erweiterung einer bestehenden Freischankfläche
+- TOP 3.3.: Dachauer Straße 2, Genehmigung einer Freischankfläche
+- TOP 3.4.: Odeonsplatz 2, Genehmigung einer Freischankfläche
+- TOP 3.5.: Josephsplatz 1, neue Verkaufseinrichtungen auf öffentl. Grund, Zeitungsentnahmegeräte
+- TOP 3.2.4: Veranstaltungen
+- TOP 3.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Diversity-Tag der LMU am 07.06.2016 auf dem Geschwister-Scholl-Platz
+- TOP 3.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Skateboard-Workshop am 03./04.08.2016 im Maßmannpark
+- TOP 3.3.: Kreisverwaltungsreerat, Veranstaltungs- und Versammlungsbüro Konzertveranstaltung auf dem Königsplatz am 05.06.2016
+- TOP 3.4.: Straßenfest in der Türkenstraße am 09.07.2016
+- TOP 3.1.: Kreisverwaltungsreferat, Verkehrsanordnungen Haltverbote in der Erika-Mann- / Ecke Bernhard-Wicki-Straße
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Kreisverwaltungsreferat Aufhebung der Vorfahrtregelung an der Kreuzung Georgen-/Winzererstraße
+- TOP 3.4.: Baumaßnahmen der Stadtwerke a) Türkenstraße 3, Fernwärme b) Heßstraße REHA BA 1, Fernwärme c) Nymphenburger Straße 43, Strom d) Sandstraße 21, Fernwärme e) Linprunstraße W 23, Fernwärme f) Friedrichstraße 27, Strom g) Theresienstraße 1, Fernwärme h) Theresienstraße 22, Fernwärme
+- TOP 3.5.: Baureferat, Beschlussvorlage Radlstammstrecke ausbauen und fertigstellen, Antrag Nr. 14-20 / A 01550 vom 19.11.2015 Sitzungsvorlage Nr. 14-20 / V 05205 Beschluss des Bauausschusses vom 05.04.2016
+- TOP 3.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung des absoluten Haltverbotes nach Zeichen 283 StVO mit dem zusatz ?Ein- satzfahrzeuge frei? in der Brienner Straße
+- TOP 3.7.: Referat für Umwelt und Gesundheit Vollzug des Bundesimmissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BimschV) Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV
+- TOP 3.8.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung an der Ottostraße
+- TOP 3.9.: Baureferat Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse Sitzungsvorlage Nr. 14-20 / V 5984 Bekanntgabe in der Sitzung des Bauausschusses vom 26.04.2016
+- TOP 3.10.: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG Antrag des BA 17 Obergiesing-Fasangarten Nr. 14-20 7 B 02243
+- TOP 3.11.: Einrichtung eines absoluten Haltverbots in der Erika-Mann-Straße, Höhe Rainer-Wer- ner-Fassbinder-Platz im Verschwenkungsbereich
+- TOP 3.12.: Einrichtung von Bereichen absoluten Haltverbots auf der Südseite der Erika-Mann-Straße
+- TOP 3.1.: Antrag des UA Soziales und Bildung im BA 3 vom 29.03.2016 Einsicht in die Pläne zur Sanierung der beruflichen Schulen vertagt aus der Sitzung vom 12.04.2016, TOP D 1.2 Unterlagen liegen bereits vor
+- TOP 3.1.: Sozialreferat, Entwurf Beschlussvorlge Frauneobdach KARLA 51; Erweiterung am Standort Karlstraße 40, Verlagerung des Schutzraums für Frauen in die Karlstraße 40 vorgesehen für die Sitzung des Sozialausschusses am 09.06.2016
+- TOP 3.1.: Direktorium, Bezirksausschussangelegenheiten Abrechnung des Zuschusses aus dem BA-Budget an den Kindergarten ?Die wilde 13? e.V.
+- TOP 3.2.: Referat für Bildung und Sport, Baureferat, Referat für Stadtplanung und Bauordnung, Stadtkämmerei, Kreiverwaltungsreferat Schulbauoffensive 2013 ? 2030 Sitzungsvorlage Nr. 14 ? 20 / V 05131 Beschluss der Vollversammlung des Stadtrats vom 25.02.2016 Die gesamte Beschlussvorlage kann bei Bedarf in der Geschäftstelle eingesehen werden.
+- TOP 3.3.: Sozialreferat Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich ?Förderung freier Träger? des Stadt- jugendamtes; Neufassung der Haushalts-/Zuschussliste Sitzungsvorlage Nr. 14-20 / V 05980 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.2016
+- TOP 3.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Kulturreferat, Beschlussvorlage NS-Dokumentationszentrum und Denkmal zur Bücherverbrennung am Königsplatz Antrag Nr. 08-14 / A 04246 der StR Offmann und Quaas vom 14.05.2013 Sitzungsvorlage Nr. 14-20 / V 05520 Beschluss des Kulturausschusses vom 03.03.2016 und der Vollversammlung des Stadt- rates vom 16.03.2016
+- TOP 3.2.: Kurzbericht der Tollhaus Theater Compagnie zu der aus dem Budget des BA geförderten Produktion ?Zigeuner-Boxer?
+- TOP 3.1.: Stadtkämmerei, Anhörung Mittelfristige Finanzplanung 2015 ? 2019, Mehrjahresinvestitionsprogramm ? Anhörungs- verfahren, Fortschreibung für die Jahre 2016 bis 2020
+- TOP 3.2.: Direktorium Änderung der BA-Satzung und der BA-Geschäftsordnung
+- TOP 3.3.: BA-Schaukasten Josephsplatz Standortvorschlag des Baureferates
+- TOP 3.4.: Direktorium Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien BA-Antrag Nr. 14-20 / B 01899 des BA 17 Obergiesing-Fasangarten vom 08.12.2015
+- TOP 3.5.: Direktorium Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten. BA-Antrag Nr. 14-20 / B 01903 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 15.12.2015
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Aktuelle Entwicklung zur Neuplanung der BA-Homepage
+- TOP 3.8.: Planung Kinder- und Bürgerfest am 11.06.2016
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP 3: (E) Keine Einbahnstraßenregelung in der Nordendstraße (Nr. 2 der Empfehlung) Empfehlung Nr. 14-20 / E 00657 der Bürgerversammlung des 3. Stadtbezirkes - Maxvorstadt am 26.10.2015
+- TOP .2.: Anfrage des Arbeitskreises Industriekultur vom 03.04.2016 Bedeutung der Bauten des Industriezeitalters in München stärken
+- TOP 3.1.: Anträge
+- TOP 3.2.: Entscheidungen und Anhörungen
+- TOP 3.3.: Aktuelle Sachstandsberichte
+- TOP 3.4.: Unterrichtungen
