@@ -1,0 +1,105 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-05-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784128
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784128
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien, BA- Antrag Nr. 14-20 / B 01899 des BA 17 ? Obergiesing-Fasanengarten vom 08.12.2015
+- TOP .2.: Anhörung, Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten, BA- Antrag Nr. 14-20 / B 01903 des BA 02 ? Ludwigsvorstadt - Isarvorstadt vom 15.12.2015
+- TOP .3.: Mittelfristige Finanzplanung 2015-2019, Mehrjahresinvestitionsprogramm ? Anhörungsverfahren, Fortschreibung für die Jahre 2016-2019
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Bürgeranliegen, Vorstellung der Umgestaltungspläne Alpines Museum des DAV auf der Praterinsel
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Rindermarkt 13 - 14; Rindermarkt 13: Abbruch und Neubau eines Geschäftshauses; Rindermarkt 14: Abbruch und Neubau eines Geschäftshauses inkl. Wohnung (vertagt aus 2016.04 3.1.11)
+- TOP 7.2.: Prannerstraße 4, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage und Ladehofgarage für das Nachbarhotel (KF-1)
+- TOP 7.3.: Karlsplatz 7 - 8, Abbruch und Neubau eines Wohn- und Geschäftshauses Karlsplatz 7 / RGB mit Anbau an das Wohn- und Geschäftshaus Karlsplatz 8 inkl. Umbau und Nutzungsänderung - TEKTUR (vertagt aus 2016.04 3.1.2)
+- TOP 7.4.: Sonnenstraße 25; Neubau eines Hotels (469 Betten) mit Restaurant und Tiefgarage
+- TOP 7.5.: Neuhauser Straße 15; Umbau und Sanierung der Passage im EG sowie Verkaufsflächenreduzierung einhergehend mit Anpassungen der sicherheitstechnischen Einrichtungen in den Verkaufslächen EG, 1. OG und den Lagerflächen UG, Erneuerung und Vergrößerung der Personenaufzugsanlage
+- TOP 7.6.: Maximiliansplatz 12; Fassadenumgestaltung EG-Laden rechts, Vergrößerung Ladenfläche EG rechts, Nutzungsänderung 1. OG rechts: Brüo- zu Ladenflächen
+- TOP 7.7.: Sonnenstraße 7; Nutzungsänderung: UG von Kino zu Verkauf (Drogeriemarkt), 1. OG von Verkauf zu Lager und Praxis; bauliche Änderung vom UG - 1. OG für zweigeschossige Verkaufsfläche (UG - EG) und Fassade im EG
+- TOP 7.1.: Anhörung zu Bebauungsplan Nr. XXYY, Josephspitalstraße (südlich), Herzog-Wilhelm-Straße (westlich), Sendlinger-Tor-Platz (nördlich) und Sonnenstraße (östlich)
+- TOP 7.2.: Erinnerungsverfahren, Gehwegsanierung Blumenstraße 26-28a
+- TOP 7.1.: Erinnerung an die Anhörung zur Änderung der Straßenreinigungssatzung
+- TOP 7.1.: Bürgeranliegen; Müllverschmutzung im Englischen Garten
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Genehmigung einer Freischankfläche, Gaststätte ?The High?, Blumenstraße 15, 80331 München
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Maximlianstraße 31, Antrag für einen Fahrradständer
+- TOP 7.1.: Ohlmüllerstraße 5, 2 Anträge auf Genehmigung einer Abstellfläche für Fahrräder für Stadtführungen
+- TOP 2: (E) Lärmbelastung durch gastronomische Betriebe Empfehlung Nr. 14-20 / E 00821 der Bürgerversammlung des Stadtbezirkes 1 -Altstadt-Lehel am 03.12.2015
+- TOP 2.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: Sommerfest im Innenhof des Isartors am 02.06.2016
+- TOP 2.2.: Infoveranstaltung von Care Deutschland, 25.06.2016 auf dem Rindermarkt
+- TOP 2.3.: Straßenfest Westenriederstraße am 18. und 19.06.2016
+- TOP 2.4.: Veranstaltung StadtLesen vom 11.08.-14.08.2016 auf dem sog. Odeonsplatz
+- TOP 2.5.: Münchner Stadtlauf 2016 am 26.06.2016, Innenstadt
+- TOP 2.6.: Veranstaltung UniCredit Festspiel-Nacht am 24.06.2016
+- TOP 2.7.: Stadtgründungsfest 18. und 19.06.2016 in der Innenstadt rund um den Marienplatz
+- TOP 2.1.: Antrag für 2 Sitzgelegenheiten (Stühle), Ruffini's Store, Rindermarkt 10, 80331 München
+- TOP 2.1.: Bürgeranliegen, Einbahnstraßenregelung Sparkassennstraße, BV-Empfehlung Nr. 14- 20 / E 00829
+- TOP 2.1.: Antrag auf Baumfällung, Widenmayerstraße 13-14
+- TOP 2.2.: Einrichtung zweier allgemeiner Behindertenparkplätze in der Maxburgstraße 5 und Aufhebung zweier allgemeiner Behindertenparkplätze in der Karmelitenstraße 2 Seite: Maxburgstraße
+- TOP 2.3.: Austausch Lichtzeichenanlage, Liebig- / Triftstraße
+- TOP 2.4.: Austausch Lichtzeichenanlage, Blumen- / Papa-Schmid-Straße
+- TOP 2.5.: Praterinsel 3 bis 5, Fahrbahnsanierung
+- TOP 2.1.: Wikipedia im Stadtbezirk 1
+- TOP 2.2.: Onkel Emma Einkaufsgenossenschaft, Vorstellung/Kooperationsmöglichkeiten
+- TOP 2.1.: Patenschaften für Übergangsklassen gesucht ! , Anregung aus der Sitzung 2016.04 Übernahme von BA-Patenschaft für Übergangsklassen im Stadtbezirk 1
+- TOP 2.2.: BA-Antrag, Konzept für eine Kinder- und Jugendsprechstunde des BA 1 im Jahr 2016 (vertagt aus 2016.04 E 1.2)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Kinderfest am St.-Anna-Platz" Kinderfest am 04.06.2016
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Änderungen der BA Satzung und der BA Geschäftsordnung
+- TOP 0.2.: Projekt Kooperationsplattform
+- TOP 0.3.: Praterinsel Dauercamp, vgl. TOP 2016.04 A 3.1; Sachstandsmitteilung per E-Mail der Polizei vom 25.04.2016
+- TOP 0.4.: Vermietung des Ladenlokals Christophstraße 10, Antwort des BRK-Kreisverbands München
+- TOP 0.5.: Stärkung der Stadtbezirke, Schreiben des Oberbürgermeisters Dieter Reiter vom 25.04.2016
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Ökologischer Kriterienkatalog ? Fortschreibung 2016, Sitzungsvorlagenr. 14-20 / V02989, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 (VB)
+- TOP 0.3.: Neue Förderkategorie im Wohnungsbau, Klein-Wohnungen realisieren, Sitzungsvorlage Nr. 14-20 / V 05662, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 (SB)
+- TOP 0.4.: Perspektive München, Münchner Stadtteilstudie ? Fortschreibung 2015, Sitzungsvorlage Nr. 14-20 / V 05569, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP 0.5.: Wohnen in München V ? Erfahrungsbericht für das Jahr 2015, Sitzungsvorlage Nr. 14-20 / V 05855, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP 0.6.: Genehmigung der Zweckentfremdung von Wohnraum durch Nutzungsänderung, Seitzstraße 8 / Rückgebäude
+- TOP 0.7.: Zwischennachricht an die Antragstellerin zu BV- Empfehlung Nr. 14-20 / E 00809, Gestaltung des Isartorplatzes
+- TOP 0.8.: Wohnungsbauatlas für München und die Region, Sitzungsvorlagen Nr. 14-20 / V 05936, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP 0.9.: Gerichtsurteil zur Müllerstraße 42, Antwort des Referats für Stadtplanung und Bauordnung
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: BV-Empfehlung Nr. 14-20 / E 00821, Lärmbelastung durch gastronomische Betriebe, Beschluss des BA 1 vom 19.04.2016
+- TOP 0.1.: Verkehrsrechtliche Anhordnung, Absolutes Haltverbot in der Widenmayerstraße, südlich der Gewürzmühlstraße
+- TOP 0.2.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV für Firma Xaver Pittrich GmbH & Co. KG
+- TOP 0.3.: Maßnahmen für eine saubere Isar, insbesondere Ergebnisse Runder Tisch ?Erholungsraum Isar? am 09.12.2015, Sitzungsvorlage Nr. 14-20 / V 05605, Beschluss des Bauausschusses vom 26.04.2016 (SB)
+- TOP 0.4.: Pläne zur Tram-Nordtangente weiter verfolgen, Sitzungsvorlage Nr. 14-20 / V 04690, Beschluss der Vollversammlung des Stadtrats vom 20.04.2016
+- TOP 0.5.: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG, BA-Antrag Nr. 14-20 / B 02243 des BA 17, Information
+- TOP 0.6.: Rolltreppen am Isartor dauerhaft in Betrieb halten, Empfehlung Nr. 14-20/00815 und 00833 der Bürgerversammlung des BA 1 vom 03.12.2015, Zwischennachricht des Referates für Arbeit und Wirtschaft vom 22.04.2016
+- TOP 0.7.: Verkehrsrechtliche Anordnung Sparkassenstraße; Einrichtung einer Lieferzone an der Westseite vor Anwesen Ledererstraße 3
+- TOP 0.8.: Verkehrsrechtliche Anordnung Maximilianstraße; Anbringung von Aufstellstreifen für Radfahrer unmittelbar gegenüber der Einmündungen Falkenturmstraße und Alfons-Goppel-Straße
+- TOP 0.9.: Verkehrsrechtliche Anordnung Thierschstraße 29 ggü. und Adelgundenstraße zwischen Mannhardtstraße und Thierschstraße (Aufschlussbohrungen)
+- TOP 0.10.: Verkehrssituation Unsöldstraße, Schreiben des Kreisverwaltungsreferats
+- TOP 0.11.: Anfrage des BA 1 zur Route des Bus Nr. 132, Antwortschreiben der MVG
+- TOP 0.1.: Dokumentation und Pressespiegel zu Festival Anfänge(R), 11-15.03.2016, Gesellschaft zur Förderung des Puppenspiels e.V
+- TOP 0.2.: Bericht von Mobilspiel e.V zu ?Kicklusion? am 10.04.2016 auf dem Marienhof
+- TOP 0.3.: Schulbauoffensive 2013-2030, Sitzungsvorlage Nr. 14-20 / V 05131, Beschluss der Vollversammlung des Stadtrats vom 25.02.2016
+- TOP 0.4.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich ?Förderung freier Träger? des Sozialreferates - Stadtjugendamt, Neufassung der Haushalts- / Zuschussliste; Sitzungsvorlage Nr. 14 - 20 / V 05980, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 26.04.2016
+- TOP 0.5.: Zuwendungsbewilligungen bzw. -ablehnungen
+- TOP 0.6.: Information der Bezirksausschüsse über neue Bädereintrittspreise, Schreiben der Stadtwerke München GmbH
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP 2.3.2: Sonstige
