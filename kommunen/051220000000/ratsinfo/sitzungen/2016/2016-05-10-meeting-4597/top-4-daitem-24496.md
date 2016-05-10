@@ -1,0 +1,6 @@
+# TOP 4: Atom- und Kohlestromfreie Stadt - gegen Strahlentod und Klimakatastrophe!
+
+- Sitzung: Beteiligungsausschuss (2016-05-10)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/24496
