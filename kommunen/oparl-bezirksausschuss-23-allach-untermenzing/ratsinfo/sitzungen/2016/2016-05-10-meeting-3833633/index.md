@@ -1,0 +1,88 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-05-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833633
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833633
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 07.04.16
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Grünanlage an der Servetstr. 29
+- TOP 2.2.: Bushaltestelle Von-Kahr-Straße
+- TOP 2.3.: Geburtsjahr von Untermenzing
+- TOP 2.4.: Provisorischer Gehweg Ernst-Haeckel-Str. 80-96
+- TOP 2.5.: Mittagsbetreuung / Hortplatz Sprengel Manzoschule
+- TOP 2.3: Quartiersplatz Gerberau
+- TOP 2.4: Situation und Darstellung von statistischen Daten von/zu Menschen mit Migrationshintergrund in Allach-Untermenzing Erhebung des Migrationshintergrundes der Mitglieder des Bezirksausschusses (anonym und freiwillig)
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Neubau von 5 Wohngebäuden / VORBESCHEID Theodor-Kitt-Str., Gemarkung: Untermenzing, Fl.Nr.: 771/0
+- TOP 5.2.: Neubau von 4 Wohngebäuden - VORBESCHEID Achwaldstr., Gemarkung: Allach,Fl.Nr.: 724/31
+- TOP 5.3.: Umbau und Erweiterung eines Mehrfamilienhauses Zittauer Str. 17-17a, Gemarkung: Untermenzing, Fl.Nr.: 385/11 und Vollzug der BaumschutzVO
+- TOP 5.4.: Neubau eines Doppelhauses mit 2 Carports und eines Einfamilienhauses mit Garage Auenbruggerstr. 86, Gemarkung: Untermenzing, Fl.Nr.: 1029/10
+- TOP 5.5.: Gerberau 13, Gemarkung: Allach, Fl.Nr.: 1398/73 Neubau dreier Wohnhäuser (84 WE) mit Tiefgarage (84 Stpl.)
+- TOP 5.6.: Esmarchstr. 17, Gemarkung: Untermenzing, Fl.Nr.: 782/3 Neubau einer Wohnanlage (15 WE) mit Tiefgarage
+- TOP 5.7.: Mittelfristige Finanzplanung 2015-2019 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2016-2020
+- TOP 5.8.: Bekanntgabe Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter
+- TOP 5.9.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 5.10.: Neuvermietung städtischer Immobilien
+- TOP 5.11.: Sommerfest Grünanlage ehem. Allacher Sommerbad Eversbuschstr. 213
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung vom 25.02.16: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 05131)
+- TOP 6.2.: Beschluss des Kinder - und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.16: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Neufassung der Haushalts-/Zuschussliste (Sitzungsvorlage Nr. 05980)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: a) Neue Förderkategorie im Wohnungsbau; Klein-Wohnungen realisieren (Sitzungsvorlage Nr. 05662) b) Bekanntgabe: Wohnen in München V (Sitzungsvorlage Nr. 05855) c) Bekanntgabe: Perspektive München (Sitzungsvorlage Nr. 05569) d) Wohnungsbauatlas für München und die Region (Sitzungsvorlage Nr. 05936) e) Ökologischer Kriterienkatalog Fortschreibung 2016 (Sitzungsvoralge Nr. 02989)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Öffentliche Erörterung Diamaltgelände am 13.06.16, 18:30 Uhr Aula Louise-Schroeder-Gymnasium, Pfarrer-Grimm-Str. 1
+- TOP 7.2.: Erhebung des Migrationshintergrundes der Mitglieder des Bezirksausschusses
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 1.2.: Schreiben Oberbürgermeister vom 25.04.2016: Stärkung der Stadtbezirke
+- TOP 1.3.: Schreiben Direktorium vom 21.04.16: Projekt Kooperationsplattform
+- TOP 1.4.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (04.04.-10.04.16, 11.04.-17.04.16, 18.04.-24.04.16)
+- TOP 1.5.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Einzelfällungsanträge: Waldhornstr. 37, Hormayrstr. 10, Waldhornstr. 17, Eversbuschstr. 251, Schneider-Ulrich-Weg 4, Anton-Fehr-Str. 4, Pfarrer-Grimm-Str. 28, Frühaufstr. 31, Menzinger Str. 130, Nikolaus-Rüdinger-Str. 12, Friedrich-Zahn-Str. 15
+- TOP 1.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.04.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Dachauer Str. 665, Tubeufstr. 19a
+- TOP 1.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.04.16: Regionalmanagement München Südwest e.V.
+- TOP 1.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.04.16: Manzostr. 37a
+- TOP 1.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.04.16 und 21.04.16: Verlegung Angerlohstraße
+- TOP 1.10.: Schreiben Baureferat vom 19.04.16: Verlegung Angerlohstraße
+- TOP 1.11.: Schreiben Baureferat vom 25.04.16: Verschmutzung Wilhelm-Zwölfer-Straße
+- TOP 1.12.: Schreiben Stadtwerke München, MVG vom 15.04.16: MVG Rad
+- TOP 1.13.: Schreiben Stadtwerke München vom 08.04.16, 18.04.16, 25.04.16: Baumaßnahmen
+- TOP 1.14.: Schreiben Kreisverwaltungsreferat vom 20.10.15: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Behringstr. 113
+- TOP 1.15.: Schreiben Kreisverwaltungsreferat vom 19.04.16: Vollsperren Asphaltsanierung vom 19.04.16-18.05.16 Prantlstr., zw. Mederer- und Grovestr. Grovestr., zw. Prantl- und Kunstmannstr.
+- TOP 1.16.: Schreiben Kreisverwaltungsreferat vom 11.04.16: Feuerstutzen-Traditionsschießen am 14.05.16
+- TOP 1.17.: Schreiben Kulturreferat vom 19.04.2016: Neubau eines Stadtteilkulturzentrums und Ertüchtigung des bestehenden Vereinsheims im 23. Stadtbezirk Allach-Untermenzing
+- TOP 1.18.: Schreiben Referat für Arbeit und Wirtschaft vom 08.04.16: Anbindung der Waldkolonie an das öffentliche Nahverkehrsnetz
+- TOP 1.19.: Schreiben BA 17 Obergiesing-Fasangarten vom 22.04.16: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG
+- TOP 1.20.: Schreiben Bund Naturschutz in Bayern e.V. vom 21.04.16: Stellungnahme MVG-Leistungsprogramm 2017
+- TOP 1.21.: Schreiben Isaria vom 20.04.16: Diamalt-Gelände, fehlende Schulversorgung
+- TOP 10: Nachtrag
+- TOP 10.1.: Unterausschuss Protokoll: Protokoll UA Familie, Bildung und Soziales mit dem UA Freizeit und Sport vom 16.03.2016
+- TOP 10.2.: Anhörung: Erinnerungsverfahren Straßenunterhaltsmaßnahme Ernst-Haeckel-Str. 80 - 98; Gehbahn-Provisorium und Holzgeländer zwischen Fahr- und Gehbahn
+- TOP 10.3.: Verschiedenes: Ausschreibung Kinder-Aktions-Koffer 2016/2017
+- TOP 10.4.: Umlauf: Schreiben Baureferat vom 25.04.16: Gerichtsurteil Allacher Straße
+- TOP 10.5.: Schreiben Direktorium vom 03.05.16: BA-Budget; Bescheid an den Verein Musizierende Kinder in München Tamino e.V.
+- TOP 10.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.05.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Fastlingerstr. 13
+- TOP 10.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.05.16: Fällgenehmigung Anton-Fehr-Str. 4
+- TOP 10.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.05.16: Bauanträge (25.04.-01.05.16)
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.05.16: Vollzug der BaumschutzVO, hier: Einzelfällungsanträge, Eversbuschstr. 27, Korbinian-Beer-Str. 28
+- TOP 10.10.: Schreiben Kulturreferat vom 28.04.16: Veranstaltungen Mai 2016
+- TOP 10.11.: Schreiben Stadtwerke München vom 27.04.16: Information bzgl. neuer Bäderpreise
+- TOP 10.12.: Schreiben Stadtwerke München vom 02.05.16: Baumaßnahmen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Kulturforum München-West e.V. Herausgabe einer Broschüre "Duo Menzing"
+- TOP 1: Schreiben Oberbürgermeister vom 25.04.16: Parkzeitbegrenzung rund um die Pfarrkirche Maria-Himmelfahrt (Antrag 3, Ziffer 1) Empfehlung Nr. 14-20 / E 00511 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 23.06.2015 - <div></div>
