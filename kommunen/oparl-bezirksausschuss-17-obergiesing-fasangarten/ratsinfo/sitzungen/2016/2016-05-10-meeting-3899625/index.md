@@ -1,0 +1,116 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3899625
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3899625
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der September-Sitzung 1.3.2 Protokoll der Oktober-Sitzung 1.3.3 Protokoll der April-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Verkehrsberuhigte Zone Obergiesing; Bürgerantrag
+- TOP 2.2.: Lärmbelästigung durch Bewohner der Erstaufnahmeeinrichtung, Tegernseer Landstraße, Gelände der ehemaligen McGraw-Kaserne
+- TOP 2.3.: Unfallvermeidung auf der südlichen Tegernseer Landstraße; Bürgerschreiben vom 19.04.2016
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Hohenschwangaustraße 4, 1 Pappel
+- TOP 3.9.1.2.: Hohenschwangaustraße 24, 1 Fichte
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Mehr Personal für die Fachstelle für Demokratie und gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit; Antrag des BA 12 - Schwabing Freimann; Zuleitung des Beauftragten gegen Rechtsextremismus im BA 18 mit der Bitte um Unterstützung
+- TOP 4.2.: Erweiterung des Gebiets für die Erhaltungssatzung "Tegernseer Landstraße"; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17
+- TOP 4.3.: Querung für Fahrradfahrer auf dem geplanten Quartiersplatz Fasangarten; Antrag der SPD-Fraktion
+- TOP 4.4.: Endlich Neugestaltung und Instandsetzung des Spielplatzes am Scharfreiterplatz - Priorisierung bei der Projektplanung Scharfreiterplatz; Antrag der SPD-Fraktion
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Spiellandschaft Stadt e.V. Giesinger Spielekarawane vom 18. bis 29.07.2016
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Initiative ?Tela? Recherche- und Ausstellungsprojekt ?Unsere Tela ? Die Tegernseer Landstraße im Wandel der Zeit? vom 30.06. bis 15.09.2016
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten; BA-Antrag Nr. 14-20 / B 01903 des BA 2 vom 15.12.2015; Schreiben des Direktoriums vom 22.04.2016 mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 0.2.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Watzmannstraße, Neubau eines Mehrfamilienhauses mit TG sowie eines Atelierwohngebäudes; Anhörung vom 18.04.2016 6.1.3.1.2 Lincolnstraße 62, Interimslösung für die Unterbringung zweier Kindergartengruppen in Containern als Anbau an den bestehenden Kindergarten; Anhörung vom 19.04.2016 6.1.3.1.3 Soyerhofstraße 17, Staatsbediensteten-Wohnungsbau - VORBESCHEID; Anhörung vom 19.04.2016 6.1.3.1.4 Schlierseestraße 19, Nutzungsänderung: Ladenräume zu Großtagespflege für Kinder; Anhörung vom 19.04.2016 6.1.3.1.5 St.-Bonifatius-Str. 1, Modernisierung und Umbau eines denkmalgeschützten Wohn- u. Geschäftshauses (31 WE / 2 Geschäftsräume); Anhörung vom 21.04.2016 6.1.3.1.6 St.-Bonifatius-Str. 3, Modernisierung und Umbau eines Wohn- u. Geschäftshauses (17 WE / 2 Geschäftsräume); Anhörung vom 21.04.2016
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Soziale Stadt 2015 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Soziale Stadt" A) Fortschreibung der Integrierten Handlungskonzepte in den Sanierungsgebieten am Mittleren Ring Südost B) Abschlussbericht des Sanierungsgebietes "Petuelring" C) Städtebauförderung D) Stadtratsantrag Nr. 14-20 / A 01494 vom 27.10.2015; Sitzungsvorlagen Nr. 14-20 / V 04544; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 13.04.16
+- TOP 0.3.: Quartiersplatz Siedlung am Perlacher Forst; Antrag der Bürgerinitiative Amisiedlung; BA-Antrag Nr. 14-20 / B 02027 vom 11.02.2016; Antwortschreiben des Baureferats-Tiefbau vom 01.04.2016
+- TOP 0.4.: Wohnen in München V - Erfahrungsbericht für das Jahr 2015; Sitzungsvorlagen Nr. 14-20 / V 05855; Bekanntgabe des Ausschusses für Stadtplanung u. Bauordnung vom 27.04.2016
+- TOP 0.5.: Neue Förderkategorie im Wohnungsbau; Stadtratsantrag Nr. 14-20 / A 01565 vom 26.11.2015; Klein-Wohnungen realisieren; Stadtratsantrag Nr. 14-20 / A 01567 vom 26.11.2015; Sitzungsvorlage Nr. 14-20 / V 05662; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016 (SB)
+- TOP 0.6.: PERSPEKTIVE MÜNCHEN - Münchner Stadtteilstudie - Fortschreibung 2015; Sitzungsvorlagen Nr. 14-20 / V 05569; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016
+- TOP 0.7.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.7.1 Anwesen Holtzendorffstraße; Mitteilung vom 20.04.2016
+- TOP 0.8.: Wohnungsbauatlas für München und die Region; Sitzungsvorlagen Nr. 14-20 / V 05936; Bekanntgabe des Ausschusses für Stadtplanung u. Bauordnung vom 27.04.2016
+- TOP 0.9.: Soziale Stadt 2015 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Soziale Stadt"; Sitzungsvorlage Nr. 14-20 / V 04544; Anlage: Änderungsantrag der Fraktion DIE GRÜNEN / RL vom 13.04.2016; Beschluss der Vollversammlung des Stadtrates vom 20.04.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter; Information des RBS vom 11.04.2016 mit der Bitte um Einschätzung bzgl. der Standorte im Stadtbezirk
+- TOP 0.1.: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Neufassung der Haushalts-/Zuschussliste; Sitzungsvorlage Nr. 14-20 / V 05980; Beschluss des Kinder- u. Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.2016 (SB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Leistungsprogramm 2017 der MVG; Fahrplanwechsel Dezember 2016; Zuleitung der MVG mit der Bitte um Stellungnahme bis 13. Mai 2016
+- TOP 0.1.: Siedlung am Perlacher Forst - Pflanzung von Bäumen in Teilbereichen der am Straßenrand befindlichen Grünflächen und Parkplätze zur Veränderung der Sichtverhältnisse und Einhaltung von Tempo 30; BA-Antrag Nr. 14-20 / B 01627 vom 08.09.2015; Antwortschreiben des Baureferats-Tiefbau vom 05.04.2016
+- TOP 0.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Minnewitstraße 2; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.3.: Aufnahme der BAB 995 von der Stadtgrenze bis zur Einmündung in die Tegernseer Landstraße in den "Entwurf des Lärmaktionsplanes"; BA-Antrag Nr. 14-20 / B 02022 vom 11.02.16; Antwortschreiben des RGU vom 23.03.2016
+- TOP 0.4.: Anbindung der Brücke am Giesinger Berg in das Radwege-Verkehrsnetz; BA-Antrag Nr. 14-20 / B 02127 vom 08.03.2016 Unterstützung der "Brückenallianz Giesinger Berg" - Bundesprogramm "Nationale Projekte des Städtebaus 2016"; BA-Antrag Nr. 14-20 / B 02133 vom 08.03.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 06.04.2016
+- TOP 0.5.: S-Bahnhof St.-Martin-Straße; Bessere Beschilderung des Wegs zum Ostfriedhof; BA-Antrag Nr. 14-20 / B 01652 vom 08.09.15; Schreiben des BA 17 vom 30.12.2015 mit der Bitte um Ortstermin; Antwortschreiben des RAW vom 13.04.2016
+- TOP 0.6.: Heckscher-Klinik in der Deisenhofener Str. 28 - erschwerte Ein- und Ausfahrt aus der Tiefgarage; Protokoll zum Ortstermin vom 23.03.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen Scharfreiterplatz und Hohenschwangauplatz im 17. Stadtbezirk Obergiesing-Fasangarten; Zuleitung des Baureferats-Tiefbau vom 26.04.16 mit der Bitte um Zustimmung zum Entwurf der Beschlussvorlage
+- TOP 0.1.: Änderung der gängigen Praxis bei der Bekämpfung des Laubholzbockkäfers (ALB); Verzicht auf Rodungen; Sitzungsvorlage Nr. 14-20 / V 05188; Beschluss der Vollversammlung des Stadtrates vom 16.03.2016
+- TOP 0.2.: Ökologischer Kriterienkatalog; Fortschreibung 2016; Sitzungsvorlagen Nr. 14-20 / V 02989; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016 (VB)
+- TOP 0.3.: Langgras- / Wildblumenwiese Perlacher Straße / Ecke Fockensteinstraße; Bürgeranliegen aus der März-Sitzung des BA 17; Antwortschreiben des Baureferats-Gartenbau vom 13.04.2016
+- TOP 0.4.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Stettnerstraße 5; Bescheid vom 04.04.2016 6.4.4.1.2 Deisenhofener Str. 110-112b; Bescheid vom 04.04.2016 6.4.4.1.3 Raintaler Str. 34-38; Bescheid vom 27.04.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Veranstaltung im Freien auf öffentlichem Verkehrsgrund; hier: Straßenfest in der Bergstraße am 11. und 12.06.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 24.05.2016
+- TOP 0.1.: Denkmal in der Weinbauernstr. 15, Verschönerung des Gebäudes und Aufstellen einer Informationstafel; BA-Antrag Nr. 08-14 / B 05881 vom 11.03.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 15.04.2016
+- TOP 0.2.: Straßenbenennung im 17. Stadtbezirk Obergiesing-Fasangarten, Ella-Lingens-Platz; Sitzungsvorlage Nr. 14-20 / V 05640; Beschluss des Kommunalausschusses vom 14.04.2016 (SB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien; BA-Antrag Nr. 14-20 / B 01899 vom 08.12.2015; Schreiben des Direktoriums vom 21.04.2016 mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Mittelfristige Finanzplanung 2015 - 2019; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2016 bis 2020; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme bis 30.05.2016
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Kostenfreies WLAN im Kulturzentrum Giesinger Bahnhof und den Außenbereich; BA-Antrag Nr. 08-14 / B 05034; Antwortschreiben des Direktoriums vom 22.03.2016
+- TOP 7.2.: Projekt Kooperationsplattform; Schreiben des Direktoriums vom 21.04.2016
+- TOP 7.3.: Stärkung der Stadtbezirke; Antwortschreiben von Herrn Oberbürgermeister Reiter an die CSU-Senioren-Union, Kreisverband München IV
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
