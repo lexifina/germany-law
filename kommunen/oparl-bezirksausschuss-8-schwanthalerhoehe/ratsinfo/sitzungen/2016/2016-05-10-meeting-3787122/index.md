@@ -1,0 +1,55 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2016-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3787122
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3787122
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Nutzungsänderung Leonhard-Henninger-Haus
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Leerstände Schwanthalerstr. 119 und Holzapfelstr. 10
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Ortstermin Wochenmarkt
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Sondernutzung Freischankfläche Kazmairstr. 37
+- TOP 6.1.: MIP 2016-2020
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Gaststättenfortführung Trappentreustr. 35
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: Kinder-Aktion-Koffer
+- TOP 7.1.: Workshop - Migration im Westend
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Standort Radständer Georg-Freundorfer-Platz (Bauernmarkt)
+- TOP 8.2.: MVG Leistungsprogramm 2017
+- TOP 8.3.: Veranstaltung "Patrozinium" am Gollierplatz
+- TOP 8.4.: Veranstaltung im Bavariapark (Spendenlauf)
+- TOP 8.5.: Straßenfest Gollierstraße
+- TOP 8.6.: Wartehallen MVG
+- TOP 8.7.: Donnersbergerbrücke Tempo 50kmh
+- TOP 8.8.: KIKS-Festival am Bavariapark
+- TOP 8.1.: "Wiesn" 2016 (Antwort RAW)
+- TOP 8.2.: MVG - Rad
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 10.1.: Einnahmen aus der Verlängerung des Oktoberfestes 2017 den angrenzenden Stadtbezirken zufließen lassen
+- TOP 10.2.: Mehr Personal für die Fachstelle für Demokratie und gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit
+- TOP 11: Verschiedenes
+- TOP 11.1.: Satzungsänderung - Neuvermietung städtischer Immobilien
+- TOP 11.2.: Satzungsänderung - Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 11.3.: Änderung der BA-Satzung und der BA-Geschäftsordnung
+- TOP 11.4.: Projekt Kooperationsplattform
+- TOP 11.5.: Stärkung der Stadtbezirke
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
