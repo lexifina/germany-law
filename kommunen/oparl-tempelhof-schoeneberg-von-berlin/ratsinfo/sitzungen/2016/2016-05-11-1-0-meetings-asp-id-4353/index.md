@@ -1,0 +1,84 @@
+# 58. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-05-11T17:00:00+02:00
+- Ende: 2016-05-11T19:30:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4353
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4353
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 4.1: Aufbesserung des Bosespielplatzes - erledigt
+- TOP 4.2: Zebrastreifen an der Paul-Klee-Grundschule - erledigt
+- TOP 4.3: Eine Ampel in der Marienfelder Straße 66-80 - (offen)
+- TOP 4.4: Sicherung von Metallketten auf dem Hexenspielplatz in der Friedrich-Karl-Straße 24 - (offen)
+- TOP 4.5: Trennzaun zwischen Fußballplatz und Skateranlage (Ringpark an der Ringstraße) - (offen)
+- TOP 4.6: Bau eines Fahrstuhls am S-Bahnhof Marienfelde - (offen)
+- TOP 4.7: Schultoiletten in Tempelhof-Mariendorf - (offen)
+- TOP 4.8: Neue und größere Cafeteria an der Johanna-Eck-Schule - (offen)
+- TOP 4.9: Mehr Service / Reinigungskräfte für die Kiepert-Grundschule - (offen)
+- TOP 4.10: Zebrastreifen für die St. Alfons Grundschule - (offen)
+- TOP 4.11: Zebrastreifen vor der B-H-B - (offen)
+- TOP 4.12: Schultoiletten an der Solling-Oberschule - (offen)
+- TOP 4.13: Die stinkenden Toiletten an der UvH - (offen)
+- TOP 4.14: Umgestaltung des Sitzungsraumes in der Strelitzstraße 15 - (offen)
+- TOP 4.15: Änderung der Ampelschaltung an der Bartnet- und der Grimmstraße in Lichtenrade - (offen)
+- TOP 4.16: Schulhof der Solling-Oberschule - (offen)
+- TOP 4.17: Smartboards für die 5. und 6. Klassen der Kiepert-Grundschule - (offen)
+- TOP 4.18: Exhibitionist an der Heilandsweide - (offen)
+- TOP 4.19: Zäune an der Barbarossagrundschule - (offen)
+- TOP 4.20: Renovierung Spielplatz Berchtesgadenerstraße - (offen)
+- TOP 4.21: Spielplatz der Ruppin-GS - (offen)
+- TOP 4.22: Reparaturen auf dem hinteren Schulhof - (offen)
+- TOP 4.23: Reparatur der Weitsprunganlage - (offen)
+- TOP 4.24: Der kaputte Fußballplatz der Scharmützelsee-GS - (offen)
+- TOP 4.25: Die kaputte Mauer auf dem Schulhof der Scharmützelsee-GS - (offen)
+- TOP 4.26: Zebrastreifen an der Rheingau, Ecke Schwalbachterstraße - (offen)
+- TOP 4.27: Schließfächer für die Scharmüzelsee Grundschule - (offen)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Zustimmung zu Containerstandorten und Standorten für temporäres Wohnen durch das Bezirksamt? - beantwortet
+- TOP 8.2: Situation des Wohnungsmarktes im Bezirk und Mietschuldenstatistik - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Umsetzung des Präventionsgesetzes - neue Chancen für den Bezirk - überwiesen
+- TOP 9.2: Durchgang zur Schwäbischen Straße übersichtlicher gestalten - überwiesen
+- TOP 9.3: Fahrradabstellanlage vor dem Einkaufszentrum ''T-Damm Center'' - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Spätverkaufsstellen im Ladenöffnungsgesetz erfassen - überwiesen
+- TOP 9.5: Verlängerung der Auslegungsdauer des Bebauungsplans 7-68 (Fläche des ehemaligen Güterbahnhofs Wilmersdorf) - in der BVV abgelehnt
+- TOP 9.6: Die Brache in der Säntisstraße endlich entwickeln - vertagt
+- TOP 9.7: Altkleidercontainer auf öffentlichen Grundstücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Wohnumgebung in Mariendorf familien- und seniorenfreundlicher gestalten - überwiesen
+- TOP 9.9: Öffentliche Erörterung des Abwägungsergebnisses der Beteiligung zum B-Plan 7-68 Güterbahnhof Wilmersdorf - in der BVV abgelehnt
+- TOP 9.10: Sicherer über die Barnetstraße vor der Carl-Zeiß-Oberschule - überwiesen
+- TOP 9.11: Gartendenkmale angemessen unterhalten - überwiesen
+- TOP 9.12: Luise-Henriette-Schule: Kunst-am-Bau-Wettbewerb - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.13: Parksituation rund um die Monumentenstraße verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: Fahrradverkehr bei Straßenbauarbeiten im Bezirk berücksichtigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Bewegung ist wichtig - Sportplatz für die Hofpausen endlich freigeben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Rad- und fußverkehrsfreundlicher Knoten Südwestkorso, Bundesallee, Varziner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Tempo 30 in der Grunewaldstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Verkehrssicherheit sofort - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Endlich mehr Sitzbänke im Bezirk - überwiesen
+- TOP 11.6: Bildungszentrum Tempelhofer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Schwimmgemeinschaft Schöneberg Berlin e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13: Beschluss über die Erweiterung der sozialen Erhaltungsverordnung "Kaiser-Wilhelm-Platz" im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg um Grundstücke zwischen Grunewaldstraße, Hauptstraße, Vorbergstraße und Akazienstraße - überwiesen
+- TOP 14: Abwägung der Beteiligung der Öffentlichkeit und Behörden und sonstigen Träger öffentlicher Belange sowie Planreife zum vorhabenbezogenen Bebauungsplanentwurf 7-73VE für das Grundstück Tempelhofer Weg 13-24 und Sach-sendamm 67-71 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 15: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 15.1: Integrationsbericht weiterentwickeln - überwiesen
+- TOP 15.2: Pilotprojekt: Liegeplätze im Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Gemeinnütziges Projekt ''Inselgarten'' unterstützen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Budgetverluste in den Bibliotheken endlich verhindern - funktionierende Zähleinrichtungen für Besuche gewährleisten - überwiesen
+- TOP 16: Termin der nächsten Sitzung - erledigt
