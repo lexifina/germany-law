@@ -1,0 +1,57 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-05-11T17:00:00+02:00
+- Ende: 2016-05-11T21:50:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2799
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2799
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 5.1: Gedenkort für Burak Bektas - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Integriertes Friedhofsentwicklungskonzept für die Evangelischen Friedhöfe an der Hermannstraße (IFEK Hermannstraße) - vertagt
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Änderung der GO § 36 (6) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Änderung der GO §25 (1) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Änderung der GO §33, (5) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Änderung der GO § 40, (2) - zurückgezogen
+- TOP 10.5: Kitaplätze in Neukölln - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Kreativ- und Innovationsbeauftragter für Neukölln - in der BVV abgelehnt
+- TOP 11.2: Verbesserung der Verkehrssicherheit - in der BVV abgelehnt
+- TOP 11.3: Verbesserung der Straßenbeleuchtung Thomasstraße / Hermannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Fußgängerüberweg vor Kita Momo - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Harry-Wollenschlaeger-Platz - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Schulbau- und –bewirtschaftung in Landeshand - beantwortet
+- TOP 12.2: Wie steht der Bezirk zum Vorkaufsrecht in Milieuschutzgebieten? - beantwortet
+- TOP 12.3: Bewerbung für BMUB Mittel zum Klimaschutz im Radverkehr - beantwortet
+- TOP 12.4: Neuköllner Erfolgsprojekte Mobile Bürgerämter - beantwortet
+- TOP 12.5: Wie steht's um die Zweckentfremdung? - beantwortet
+- TOP 12.6: Gentrifizierung: Politische Steuerung oder Pfadabhängigkeit - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Schulträgerschaft im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Vorkaufsrecht in Milieuschutzgebieten - überwiesen
+- TOP 14.3: JobOption für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Kindertagesstätte in der Gropiusspassage realisieren - überwiesen
+- TOP 14.5: Kinder und Jugenderholung wieder aufleben lassen - überwiesen
+- TOP 14.6: Verdachtsunabhängige PCB-Messungen in Schulen und Kitas - überwiesen
+- TOP 14.7: Parkscheiben in der Köpenicker Str. - überwiesen
+- TOP 14.8: Rathaus-Ralley wiederbeleben - überwiesen
+- TOP 14.9: Frauenschwimmen in der Halle des Kombibads Lipschitzallee - überwiesen
+- TOP 15: Mitteilungen - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
