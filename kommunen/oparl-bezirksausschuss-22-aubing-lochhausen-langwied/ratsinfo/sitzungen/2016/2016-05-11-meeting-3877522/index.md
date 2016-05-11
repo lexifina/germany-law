@@ -1,0 +1,118 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2016-05-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3877522
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3877522
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Verkehrssituation an den Ampeln an der Lochhausener Straße (vertagt aus 04/16 in den UA Verkehr)
+- TOP 2.2.: Teichanlagen neben Wonhaus Ramses am Westkreuz von Algen/Cyanbakterien befallen
+- TOP 2.3.: Wertstoffinsel am Aufseßer Platz / Giechstraße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen zu Bauvorhaben: - Papinstraße, Schr. Referat für Stadtplanung und Bauordnung vom 12.04.16 N - Grafrather Str. 9, Schr. Referat für Stadtplanung und Bauordnung vom 27.04.16
+- TOP 3.2.: Ablehnungsbescheid zu Baumfällungsantrag: - Rothenfelser Str. 25, Schr. Referat für Stadtplanung und Bauordnung vom 14.04.16
+- TOP 3.3.: Genehmigungsbescheid zu Baumfällungsantrag: - Ravensburger Ring 70-72, Schr. Referat für Stadtplanung und Bauordnung vom 14.04.16 - Erlbachstr. 45, Schr. Referat für Stadtplanung und Bauordnung vom 13.04.16 N - Leisaustr. 4, Schr. Referat für Stadtplanung und Bauordnung vom 03.05.16
+- TOP 3.4.: Baumfällung auf Anforderung: - Altostr. 70 - Leisaustr. 4 N - Pirolstr. 4 N - Dinkelsbühler Str. 30 N - Allinger Str. 21
+- TOP 4: Anträge
+- TOP 4.1.: Bauprojekt Wohnen für Alle - Bodenseestr. / Mainaustr. 12
+- TOP 4.2.: Abkoppelung der Ertüchtigung der Außenäste von der Realisierung der 2. Stammstrecke
+- TOP 4.3.: Einrichtung eines Altenservicezentrums im Neubaugebiets Henschelstraße
+- TOP 4.4.: Einrichtung eines Altenservicezentrums im Westkreuz
+- TOP 4.5.: Verbesserung der Parksituation in der westlichen Georg-Böhmer-Straße
+- TOP 4.6.: Anfrage zum Sachstand Grundschule Limesstraße - Pavillion Anton-Böck-Straße
+- TOP 4.7.: Grundschule Limesstaße, Pavillon Anton-Böck-Straße
+- TOP 4.8.: Überlastung der Langwieder Seenplatte
+- TOP 4.9.: Schulsprengel Stadtbezirk 22
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Veranstaltung im Freien auf Privatgrund und in einer städtischen Grünanlage: Teufelsberglauf in der Aubinger Lohe (Ziegeleistraße) am 06.11.16, Anhörung KVR vom 18.04.16
+- TOP 6.1.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen Colmdorfstraße Nord, Bebauung Aubing Mitte WA 1 am Freihamer Weg, Anhörung Referat für Bildung und Sport vom 27.04.16
+- TOP 6.2.: Veranstaltung in einer städtischen Grünanlage: Johannisfeuer am 17.06.16, Anhörung KVR vom 28.04.16
+- TOP 6.3.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2016/2017 - Bewerbung; Anhörung Sozialreferat vom 29.04.16
+- TOP 6.1.: Einrichtung und Ausschreibung von zwei Nachbarschaftstreff in der Gartenstadt Freiham und eine Integrationsstelle zur Öffnung der quartiersbezogenen Bewohnerarbeit für Flüchtlinge - Beschlussvorlage, Schr. Sozialreferat vom 18.04.16
+- TOP 6.2.: Partybetrieb auf dem ehemaligen DSG-Gelände in der Brunhamstraße - Kulturcafe Sürahi, Schr. KVR vom 11.04.16 und Schr. Referat für Stadtplanung und Bauordnung vom 21.04.16
+- TOP 6.3.: Veranstaltungen/Kooperationen im Mai 2016, Schr. Kulturreferat vom 28.04.16
+- TOP 6.4.: Anträge aus dem Kinder- und Jugendforum vom 13.11.15: Errichtung Schwimmbad in Freiham, Erneuerung Sportplatz und Errichtung von drei Bodentrampolins auf der Jugendspielfläche in der Nähe der Grundschule an der Wiesentfelser Straße, Schr. Referat für Bildung und Sport vom 26.04.16
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Beschluss zum Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen Limesstr. 38 und Wiesentfelser Str. 53, Schr. Referat für Bildung und Sport vom 19.04.16
+- TOP 6.2.: Bauprogramm 2014 zur Realisierung von Kinderbetreuungsplätzen: Errichtung eines Hauses für Kinder mit 2 Kindergarten- und 2 Kinderkrippengruppen am Roggensteiner Weg 1, Schr. Baureferat vom 25.04.16
+- TOP 6.3.: Schulweg zur Grundschule Freiham-Süd (BA-Antrag Nr. 14-20 / B 01999 des BA 22 vom 20.01.16), Schr. Baureferat vom 19.04.16
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Fahrbahnsanierung Gotzmannstr. 25-27, Anhörung Baureferat vom 15.04.16
+- TOP 6.1.: Baustellensituation Wiesentfelser Straße, Schr. KVR vom 15.04.16
+- TOP 6.2.: Erstellung eines Gesamtverkehrsplans für den 22. Stadtbezirk (Ziffer 2 des Antrags vom 26.07.2007), Zwischennachricht Referat für Stadtplanung und Bauordnung vom 13.04.16
+- TOP 6.3.: Erstellung eines Gesamtverkehrsplans für den 22. Stadtbezirk (Ziffer 2 des Antrags vom 03.07.2008), Zwischennachricht Referat für Stadtplanung und Bauordnung vom 13.04.16
+- TOP 6.4.: Höhenbeschränkung der Limesunterführung auf 3,50 m, Zwischennachricht Referat für Stadtplanung und Bauordnung vom 14.04.16
+- TOP 6.5.: Verkehrsberuhigung Brunhamstraße; Verzicht auf die Unterführung unter der S5 Neuaubing (BVE Nr. 32 vom 16.12.2003), Zwischennachricht Referat für Bildung und Sport vom 14.04.16
+- TOP 6.6.: Baustellenverkehr - Sperrung Wiesentfelser Str. / Bodenseestr., Schr. KVR vom 13.04.16
+- TOP 6.7.: MVG Rad - Informationsveranstaltung vom 22.02.16, Schr. SWM vom 15.04.16
+- TOP 6.8.: Verkehrssituation Straßenkreuzung Mälzerei-/Lochhausener Straße, Schr. KVR vom 14.04.16
+- TOP 6.9.: Einrichtung eines Sonderparkplatzes in der Zwernitzer Str. 28 a, Schr. KVR vom 19.04.16
+- TOP 6.10.: Schulweg zur Grundschule Freiham-Süd, Schr. Baureferat vom 19.04.16
+- TOP 6.11.: S-Bahn München, Schr. Referat für Stadtplanung und Bauordnung vom 20.04.16
+- TOP 6.12.: Beschleunigung Buslinie 57, 160, 162 mit Durchstich Haberlandstraße und Kaflerstraße, Zwischennachricht Referat für Arbeit und Wirtschaft vom 20.04.16
+- TOP 6.13.: Verkehrsrechtliche Anordnung: Geschwindigkeitsbeschränkung auf 30 km/h in der Hanfgartenstraße und Mälzereistraße, Schr. KVR vom 29.03.16
+- TOP 6.14.: Leistungsprogramm der MVG - Stellungnahme Bund Naturschutz und Arbeitskreis Attraktiver Nahverkehr, Schr. Bund Naturschutz vom 21.04.16
+- TOP 6.15.: Prüfung von Lärmschutzmaßnahmen an Bahnstrecken, Schr. RGU vom 11.04.16
+- TOP 6.16.: Unterführung am S-Bahnhof Freiham, Schr. Baureferat vom 05.04.16
+- TOP 6.17.: Verkehrsrechtliche Anordnung: Errichtung einer Kurzparkzone Clarita-Bernhard-Str. 10, Schr. KVR vom 22.03.16
+- TOP 6.18.: Baustellenlogistik Freiham-Nord
+- TOP 6.19.: Umgestaltung der Ampel Lochhausener Str. / Sumpfmeisenweg, Schr. KVR vom 28.04.16
+- TOP 6.20.: Dietrichstein-/Ehrenbürgstraße - Grasbereich sichern, Schr. Baureferat vom 27.04.16
+- TOP 6.21.: Durchgängige Fahrradwegverbindung Lochhausener Straße, Schr. Baureferat vom 29.04.16
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Mainaustr. 12: Wohnen für Alle - Neubau einer öffentlichen geförderten Wohnanlage, Anhörung Referat für Stadtplanung und Bauordnung vom 20.04.16
+- TOP 6.2.: Bauleitplanung der Gemeinde Gröbenzell: B-Plan Nr. 91, Entwicklungsbereich Bahnhofstraße, Verfahren nach § 4 Abs. 1 BauGB, Anhörung Referat für Stadtplanung und Bauordnung vom 25.04.16
+- TOP 6.3.: Bauleitplanung der Gemeinde Gräfelfing: B-Plan Nr. 1 für den Bereich Asamstraße, Röntgenstraße und Gabriel-von-Seidl-Straße, Verfahren nach § 4 Abs. 2 BauGB, Anhörung Referat für Stadtplanung und Bauordnung vom 25.04.16
+- TOP 6.4.: Papinstraße - Nutzungsbezogenene Abgrabung in den Abtretungsflächen an die LHM (Gleisharfe) im Rahmen der Umsetzung des Bebauungsplanes mit Grünordnung Nr. 1998 b, Anhörung Referat für Stadtplanung und Bauordnung vom 26.04.16
+- TOP 6.9.: Bauvorhaben im 22. Stadtbezirk vom 11.04.-17.04.16, 18.04.-24.04.16, 25.04.-01.05.16, Schr. Planungsreferat vom 18.04.16, 25.04.16, 02.05.16
+- TOP 6.10.: Baumaßnahmen der Stadtwerke München - Stichtag: 18.04.16, 25.04.16, 25.04.-29.04.16
+- TOP 6.1.: Bautätigkeit in der Leisaustr. 5, Schr. Referat für Stadtplanung und Bauordnung vom 13.04.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München: - Stromprojekt Limesstraße, Schr. SWM vom 12.04.16 - Wasserprojekt Altenburgstraße, Schr. SWM vom 20.04.16
+- TOP 6.3.: Gewerbegebiet Freiham, Schr. Kommunalreferat vom 13.04.16
+- TOP 6.4.: Fabrikbauten im 22. Stadtbezirk, Schr. Arbeitskreis Industriekultur vom 03.04.16 (vertagt aus 04/16)
+- TOP 6.5.: Beteiliegung der Öffentlichkeit: Planungsgebiet - Bebauungsplan mit Grünordnung Nr. 2092, Bundesautobahn A 99 mit Anschlussstelle Germering-Nord bis 500m nach Osten, Plandarlegung vom 26.04.16 - 27.05.16, Schr. Referat für Stadtplanung und Bauordnung vom 18.04.16
+- TOP 6.6.: Mitteilung über ein Grundstücksgeschäft: Straßengrunderwerb in der Marzellgasse, Schr. Kommunalreferat vom 18.04.16
+- TOP 6.7.: Vollzug der Grünanlagensatzung: Baustelleneinrichtung an der Anton-Böck-Str., Schr. KVR vom 22.04.16
+- TOP 6.8.: Brachfläche an der Friedrichshafener Straße neu überplanen, Schr. Referat für Stadtplanung und Bauordnung vom 19.04.16
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten - BA-Antrag Nr. 14-20/B 01903 des BA 2 vom 15.12.15, Anhörung Direktorium vom 22.04.16
+- TOP 7.2.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien - BA-Antrag Nr. 14-20 / B 01899 des BA 17, Anhörung Direktorium vom 21.04.16
+- TOP 7.3.: Sprechstunde des Kommunalreferats für Bezirksausschüsse, Anhörung Kommunalreferat vom 25.04.16
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Änderung der BA-Satzung und der BA-Geschäftsordnung, Schr. Direktorium vom 13.04.16
+- TOP 8.2.: Stärkung der Stadtbezirke, Schr. Herr Oberbürgermeister Reiter vom 25.04.16
+- TOP 8.3.: Projekt Kooperationsplattform, Schr. Direktorium vom 21.04.16
+- TOP 8.4.: Neue Bädereintritspreise, Schr. SWM vom 27.04.16
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrats vom 25.02.16: - Schulbauoffensive 2013-2030
+- TOP 10.2.: Beschluss/Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: - Neue Förderkategorie im Wohnungsbau, Klein-Wohnungen realisieren - Wohnen in München V, Erfahrungsbericht für das Jahr 2015 - Perspektive München: Münchner Stadtteilstudie - Fortschreibung 2015 - Wohnungsbauatlas für München und die Region - Ökologischer Kriterienkatalog, Fortschreibung 2016
+- TOP 10.3.: Beschluss des Bauausschusses vom 26.04.16: Kreuzungsbereich Radolfzeller Str. / Aubinger Str. / Ravensburger Ring - Ausführungsgenehmigung
+- TOP 10.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.16: Zuschussnehmerdatei 2016: Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes - Neufassung des Haushalts-/Zuschussliste
+- TOP 10.5.: Beschluss des Sozialausschusses vom 03.05.16: In Wohnungen kommen - in Wohnungen bleiben, Neuausrichtung der Unterstützung, Begleitung und Nachsorge von wohnungslosen Haushalten, Trägerschaftsauswahl für die Betreuung im Verbund Kastelburgstraße, Zuschuss an das Evangelische Hilfswerk München gemeinnützige GmbH, Änderung des MIP 2015-2019
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG - BA-Antrag Nr. 14-20 / B 02243 des BA 17, Schr. BA 17 vom 22.04.16
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 15.06.16 um 19.30 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 02.05.16 um 19 Uhr, Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, 03.05.16 um 19 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 11.05.16 um 18.30 Uhr, Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Soziales/Familie/Senioren/Kultur: Dienstag, 03.05.16, 19.30 Uhr, Bildungslokal, Limesstr. 81
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 11.2.: Einladung zur Infoveranstaltung Bauvorhaben "Wohnen für Alle" an der Bodenseestr. 166 und Bodenseestr. / Ecke Mainaustr. am 13.05.16, Beginn: 17.00 Uhr, Ende: 19.30 Uhr, Festsaal Bay. Schnitzel- und Hendlhaus, Limesstr. 63, Schr. GEWOFAG und GWG vom 03.05.16
+- TOP 1: 10-Minuten-Takt S 4 (Antrag 2); Verstärkungzüge zum Fahrplanwechsel (Antrag 3) Empfehlung Nr. 14-20 / E 00668 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 27.10.2015
+- TOP 2.4.: MVV Fahrtintervalle und Haltestellenverlegung Wertheimerstraße
