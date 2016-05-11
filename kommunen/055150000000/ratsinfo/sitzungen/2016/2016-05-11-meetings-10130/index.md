@@ -1,0 +1,67 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-05-11T17:48:00+02:00
+- Ende: 2016-05-11T22:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10130
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10130
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00387468.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Schließung Sparkassenfiliale Berg Fidel
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Beibehaltung Sparkassenfiliale Berg Fidel - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Perspektiven für den Haushaltsplan 2017 - Finanzeckwerte - zur Kenntnis genommen
+- TOP 11: Innensanierung Stadthaus I
+- TOP 11.1: Denkmalwert des Objekts Klemensstr. 10 - zur Kenntnis genommen
+- TOP 11.2: Stadthaus 1 - Innensanierung - Zustimmung zur Planung - mehrheitlich geändert beschlossen
+- TOP 11.3: Optimierung bürgerorientierter Dienstleitungen: Stadthaus 1 als zentraler Ort bürgerorientierter Dienstleistungen - Innensanierung: Zukünftiger Betrieb der Kantine im Stadthaus 1 - mehrheitlich geändert beschlossen
+- TOP 12: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Mitte, Bereich Hammer Straße und im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup - mehrheitlich beschlossen
+- TOP 13: VGM-Tarifmaßnahme zum 1. August 2016 - mehrheitlich beschlossen
+- TOP 14: Betrauungsakt Münsterland e.V. - einstimmig beschlossen
+- TOP 15: „Modell: Münster-Integration – Unusual aspects of integration oder “Die andere Blickrichtung in/für Westfalen auf „Integration” hier: Modellbauprojekt "Wohnen für Alle" - Vorlage eingebracht
+- TOP 16: Bericht zur Wohnbaulandentwicklung 2015 und Fortschreibung des Baulandprogramms 2016 - 2025 - einstimmig geändert beschlossen
+- TOP 17: Umsetzung des Projektes "Angekommen in deiner Stadt", - einstimmig beschlossen
+- TOP 18: Errichtungsbeschluss: Neubau einer 3-Gruppen Kita auf dem Gelände der Hermannschule im Bezirk Mitte - mehrheitlich geändert beschlossen
+- TOP 19: Landesprogramm "KOMM-AN NRW" Stärkung der Kommunen zum Thema Zuwanderung und Flucht - mehrheitlich beschlossen
+- TOP 20: Entgeltordnung für die städtische Einrichtung "Kap.8" im Bürgerhaus Kinderhaus - mehrheitlich beschlossen
+- TOP 21: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Errichtung einer temporären Flüchtlingseinrichtung am Schifffahrter Damm und weitere Maßnahmen - mehrheitlich beschlossen
+- TOP 22: Anpassung der Pflegekonferenz an die gesetzlichen Vorgaben nach dem Alten- und Pflegegesetz NRW - einstimmig beschlossen
+- TOP 23: Verbindlicher Kommunaler Pflegebedarfsplan 2016 - 2019 für Münster - einstimmig beschlossen
+- TOP 24: Weiterentwicklung der NRW-Sportschule - Pascal-Gymnasium - einstimmig beschlossen
+- TOP 25: 8. Verleihung des Historikerpreises der Stadt Münster - einstimmig geändert beschlossen
+- TOP 26: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 27: Abfallwirtschaftskonzept 2016 der Stadt Münster - einstimmig beschlossen
+- TOP 28: Beschlüsse zur Änderung des Flächennutzungsplanes mit dem Ziel der Darstellung neuer Wohnbauflächen in den Bereichen Nördlich Stadthafen 1, Südlich und nördlich der Roddestraße, Albachten (Steinbrede), Sprakel (östlich der Eisenbahn), Mauritz-Ost (Ma - einstimmig geändert beschlossen
+- TOP 29: Bauleitplanung
+- TOP 29.1: Stadtbezirk Münster-Mitte
+- TOP 29.1.1: Vorhabenbezogener Bebauungsplan Nr. 565: Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 29.2: Stadtbezirk Münster-Südost
+- TOP 29.2.1: 71. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 582 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 31.1: Münster für alle - Städtebauförderung für Coerde beantragen - verwiesen
+- TOP 31.2: Audio-Livestream für Sitzungen des Rates - verwiesen
+- TOP 31.3: Ein Zentrum für Bildung auf dem Hörster-Parkplatz - verwiesen
+- TOP 31.4: Politische Partizipation ernst nehmen - Engagement honorieren - verwiesen
+- TOP 31.5: Zukunftskonzept auf solider Basis: Finanzierbare mittelfristige Investitionsplanung - verwiesen
+- TOP 31.6: Rechts- und Ausländeramt stärken - verwiesen
+- TOP 31.7: Vorrang für Natur- und Vogelschutz in den Rieselfeldern - verwiesen
+- TOP 31.8: Ein neues Stadtteilzentrum für Hiltrup - verwiesen
+- TOP 31.9: Starke Quartiere – Starke Menschen - verwiesen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Verschiedenes
