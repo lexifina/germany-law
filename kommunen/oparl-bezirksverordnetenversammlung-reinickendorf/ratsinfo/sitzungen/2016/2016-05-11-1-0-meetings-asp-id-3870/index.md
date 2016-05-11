@@ -1,0 +1,99 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-05-11T17:00:00+02:00
+- Ende: 2016-05-11T21:15:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3870
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3870
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=89323
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 52. Sitzung der BVV am 11.05.2016 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 52. Sitzung der BVV am 11.05.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 52. Sitzung der BVV am 11.05.2016 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Rent-A-Bike in Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Nächtliches Tempo 30 / Hennigsdorfer Straße (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Strandbad Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Grundschulneubau zukunftsweisend planen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Anbringung von Display-Monitoren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Wegbeleuchtung zwischen Genfer Straße bis zur Seniorenresidenz Domicil Thaterstraße - überwiesen
+- TOP 7.7: Sicherer Fußweg in Heiligensee (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.8: Ergänzung Radverkehrskonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Zusätzliche Grundschule für Reinickendorf-OST dringend benötigt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Wanderweg am Tegeler Fließ begehbar halten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: S-Bahnzug nach Reinickendorf benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Umleitungsstrecken für U6-Dammsanierung rechtzeitig abstimmen und frei halten (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Flohmarkt Markstraße (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Verkehrskonzept Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Flüchtlingsintegration in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Geplante Mittel für das Betreuungsgeld in den Kita-Ausbau stecken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Sanierung U6 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Fernbushaltestelle in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Radfahrverkehrsanlagen Landesgrenze (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.20: Stationäre Geschwindigkeitsüberwachungsanlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: "Praxistag Bus" durchführen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.22: Kurzparkzone Tegel-City prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Keine Budgetkürzung für Nachnutzung Flughafen Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Information zur Verhinderungspflege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Bericht über Aktivitäten im Kommunalen Nachbarschaftsforum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Wartehäuschen 220er - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Deutsches Palliativsiegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Erhaltung des Gaslichts in Reinickendorf" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Montessori-Schule Heiligensee unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Dringenden Bedarf eines Grundschulneubaus in Reinickenorf-Ost anerkennen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.31: Briefkasten Am Vierrutenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: LED-Leuchtmittel - überwiesen
+- TOP 7.33: Service-APP - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Interesse an MINT-Fächern stärken: Reinickendorf meets MacGyver - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.35: Jahresbericht des Patienternfürsprechers aus dem Krankenhaus des Maßregelvollzugs für den Zeitraum 01.01.2015 bis 31.12.2015 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Rollender Radverkehr in und durch Reinickendorf - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Genehmigungsverfahren von Gebrauchtwarenmärkten mit sensibler Umfeldbetrachtung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Standort Glascontainer Falkenplatz - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Kennzeichnung der Gedenkorte im Karl-Bonhoeffer-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Dauerbeleuchtung auf Flurbalkonen prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Wachsmuthstraße behinderten- und seniorenfreundlich gestalten - überwiesen
+- TOP 10.6: Straßenschäden in der Meteorstraße - überwiesen
+- TOP 10.7: Auswaschungen im Wesselburer Weg - überwiesen
+- TOP 10.8: Mehr Licht am Marie-Schlei-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Bild des Monats - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Ausschreibung für den Kiezfond 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Parkdauer in der Heinsestraße auf zwei Stunden erhöhen - überwiesen
+- TOP 12.2: Wahlen zur Seniorenvertretung vorbereiten - überwiesen
+- TOP 12.3: Erweiterung der Kurzparkzone am S-Bahnhof Heiligensee - überwiesen
+- TOP 12.4: Instandsetzung Radweg am Borsigdamm - überwiesen
+- TOP 12.5: Ortsteilschild Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Historische Sitzbank an der Ecke Frohnauer Staße / Alemannenstraße wiederherstellen - überwiesen
+- TOP 12.7: Ortsteilschild Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Reinigung der Balustraden am Ludolfingerplatz und Zeltinger Platz - überwiesen
+- TOP 12.9: Sportzentrum Nord im MV erhalten - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: FGÜ zwischen Märkischem Zentrum und Mittelfeldbecken - überwiesen
+- TOP 13.2: Stärkung der Sicherheit in Reinickendorf - überwiesen
+- TOP 13.3: Ungepflegtes Umfeld am Bahnübergang Gorkistraße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Reinigung der Gräben im MV - überwiesen
+- TOP 13.5: Waldweg im Forst Jungfernheide attraktiv gestalten - überwiesen
+- TOP 13.6: Installierung von Calisthenics-Geräten - überwiesen
+- TOP 13.7: Präventive Zusammenarbeit zwischen Schulen und Polizei verstärken - überwiesen
+- TOP 13.8: Kentertraining in Hallenbädern - überwiesen
+- TOP 13.9: Naturschutz und Mauergedenken - Angebote der deutschen Waldjugend am Berliner Mauerweg bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Fahrgäste auf S-Bahnhof Wittenau vor Taubenkot schützen - überwiesen
+- TOP 13.11: Wartehäuschen für Busbenutzer am S-Bahnhof Hermsdorf - überwiesen
+- TOP 13.12: Parkplatz für Menschen mit Behinderung in der Glienicker Straße - überwiesen
+- TOP 13.13: Mieterschutz in Reinickendorf-Ost - überwiesen
