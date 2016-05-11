@@ -1,0 +1,107 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-05-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3873204
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3873204
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Antrag auf Entfernung der Entsorgungscontainer vor der Kirche St. Gabriel, Versailler Str. 20 - <div>nach Antrag inkl. Ergänzungen</div>
+- TOP .5.: Anträge
+- TOP .1.: Ehemalige Gaststätte "Hutterer" am Wiener Platz: Verwahrlosung des Grundstücks, Gefährdung des Kastanienbaumes - <div>nach Antrag</div>
+- TOP .2.: Krähensichere Abfallbehälter anschaffen und installieren - <div>nach Antrag</div>
+- TOP .3.: LZA Innere Wiener Straße - <div>nach Antrag</div>
+- TOP .5.: Städtisches Telefonbuch den Bezirksausschussmitgliedern zur Verfügung stellen - <div>nach Antrag inkl. Ergänzungen</div>
+- TOP .6.: Erklärende Zuschatzschilder an Straßenschildern - <div>nach Antrag inkl. Ergänzungen</div>
+- TOP .7.: Tempo 30 vor Schulen - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .3.: Isarlust e.V. Projekt ?Play Me, I'm Yours? - Aufstellung von öffentlichen Klavieren vom 01. bis 18.09.2016 (vertagt vom 20.04.2016) Antragssumme: 2.500,00?
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP 5.1.: Mittelfristige Finanzplanung 2015-2019 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2016 bis 2020
+- TOP 5.2.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien BA-Antrags-Nr. 14-20/ B 01899 des Bezirksausschusses des Stadtbezirkes 17 Obergiesing- Fasangarten vom 08.12.2015
+- TOP 5.3.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten BA-Antrag Nr. 14-20/B 01903 des Bezirksausschusses des Stadtbezirks 2 Ludwigsvorstadt- Isarvorstadt vom 15.12.2015
+- TOP 5.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 5.1.: Haltestelle Haidenauplatz- Mehr Sicherheit und Komfort für Fahrgäste - <div>zur Kenntnis genommen</div>
+- TOP 5.2.: Erhöhung des monatlichen Zuschusses für die Nachbarschaftshilfe in der Au - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Vermehrte Herstellung von Stellplätzen und Lieferzonen - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Anfrage zur Lärmbelästigung am Feuerbächl - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Pflege und Herausstellung eines Gingkobaumes in der Zellstraße am Muffatwerk - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Christbaum auf dem Pariser Platz - <div>zur Kenntnis genommen</div>
+- TOP 5.7.: Rundbank an der Ecke Elsässer Straße/Spicherenstraße aufstellen - <div>zur Kenntnis genommen</div>
+- TOP 5.8.2: Reaktionen auf BA-Schreiben
+- TOP 5.8.3: Weitere Unterrichtungen
+- TOP 5.2.: Änderung der BA-Satzung und der BA-Geschäftsordnung - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Projekt Kooperationsplattform; Schreiben des Direktoriums vom 21.04.2016 an die Bezirksausschüsse - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Sanierung Gasteig- Bürgerschreiben vom 11.02.2016, Antwortschreiben von Frau v. Welser vom 12.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Stärkung der Bezirke, Schreiben des Altbürgermeisters Ofer; Antwortschreiben des Oberbürgermeisters vom 25.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Abbau Schaukasten Ismaninger Straße 3, Information über die Entfernung des Schaukastens vom 26.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 5.7.: Neue Bädereintrittspreise ab 01.05.2016, Information der SWM vom 27.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 5.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 5.1.: Regsam
+- TOP 5.2.: Kinder und Jugend
+- TOP 5.3.: Behinderte und Barrierefreiheit
+- TOP 5.4.: Ausländer und Flüchtlinge
+- TOP 5.5.: Frauen und Mädchen
+- TOP 5.6.: Internet
+- TOP 5.7.: Baumschutz
+- TOP 5.1.: Maria-Theresia-Straße 12; Fällung einer Zeder - <div>Ablehnung der Fällung, Schutz des Baumes</div>
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter Sitzungsvorlage Nr. 14-20 / V 05271 Bekanntgabe im Bildungsausschuss des Stadtrates vom 06.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Neufassung der Haushalts-/Zuschussliste Sitzungsvorlage Nr. 147-20/ V 05980 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Erhöhung des monatlichen Zuschusses für die Nachbarschaftshilfe in der Au e.V. BA-Antrag Nr. 14-20/ Nr. 01978 vom 20.01.2016; Antwortschreiben des Sozialreferates vom 14.04.2016 (auch TOP A 8.1.2) - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: siehe TOP 6.1
+- TOP 8.1.: Antrag für eine Fahrradabstellfälche vor einem Betrieb Wörthstr. 11 - <div>nach Antrag</div>
+- TOP 8.2.: Antrag für eine Fahrradabstellfläche vor einem Betrieb Innere Wiener Str. 42 - <div>nach Antrag</div>
+- TOP 8.3.: Rodeo Festival Standort für "WELTMASCHINE UNTERWEGS" Areal um St-Nikolai-Kirche 06.10-2016-09.10.2016 - <div>abgelehnt</div>
+- TOP 8.4.: Isarauen von Richenbachbrücke bis Thalkirchner Brücke, Veranstaltung im Freien in seiner städtischen Grünanlage Lozzilauf, 25.07.2016 - <div>nach Antrag</div>
+- TOP 8.5.: Hypopark, Skatboard- Workshop ab 02.05.2016-02.09.2016 - <div>nach Antrag</div>
+- TOP 8.6.: Antrag auf Erteilung einer Sondernutzungserlaubnis zum Aufstellen eines Zeitungsentnahmegerätes zur unentgeltlichen Entnahme der Zeitung "Bogenhausener News" auf öffentlichem Verkehrsgrund am Wiener Platz (BA 5 hatte Erteilung mit Beschluss vom 20.01.2016 abgelehnt) - <div>erneut abgelehnt</div>
+- TOP 8.7.: Sponsorenlauf auf dem Mariahilfplatz am 17.06.2016 - <div>nach Antrag</div>
+- TOP 8.8.: Bordeauxplatz und Pariser Platz, IGH- Sommer- und Familienfest am 04. und 05.06.2016 - <div>nach Antrag</div>
+- TOP 8.1.: Unveränderte Fortführung von Gaststättenbetrieben: Kleingaststätte "VebLounge", Einsteinstr. 103 Schank- und Speisewirtschaft "Einstein Bar & Grill", Einsteinstr. 143 Kleingaststätte "Emmi's kitchen", Rosenheimer Str. 67 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Kuglerstr. 7, Neubau eines Mehrfamilienhauses mit 19 Werkswohnungen, Laden + Tiefgarage ( Kuglerstr. 7 / Einsteinstr. 95) - <div>nach Antrag inkl. Ergänzungen</div>
+- TOP 8.2.: Steinstr. 44, Tektur zu 1.2-2015-26501-21, Nutzungsänderung 1. OG: Büroeinheit zu 2 Wohnungen - <div>Zustimmung aber weiterhin Klärung der Stellplatznachfrage</div>
+- TOP 8.3.: Entenbachstr. 10, Nutzungsänderung DG: Aktenlager zu Aufenthaltsräumen; Errichtung eines Notausstiegs im DG als 2. Rettungsweg - <div>Zustimmung gemäß Antrag</div>
+- TOP 8.4.: Entenbachstr. 14, Nutzungsänderung: Laden zu Büro - <div>Zustimmung gemäß Antrag</div>
+- TOP 8.5.: Pariser Str. 30, Brandschutztechnische Sanierung, Errichtung einer Außentreppe (2. RW) und eines Müllhäuschens - <div>Zustimmung gemäß Antrag</div>
+- TOP 8.6.: Milchstr. 21, Tektur zu 1.2-2015-23245-21, Erweiterung eines Wohnhauses (mit 2 Zimmern) - <div>abgelehnt</div>
+- TOP 8.7.: Rosenheimer Str. 42, Nutzungsänderung einer Bank in einen Laden - <div>Zustimmung gemäß Antrag</div>
+- TOP 8.8.: Lucile- Grahn- Straße 22, Dachaufstockung (1+2 DG) eines Mehrfamilienhauses - <div>Zustimmung gemäß Antrag</div>
+- TOP 8.1.: Wohnen in München V Erfahrungsbericht für das Jahr 2015 Sitzungsvorlagen Nr. 14-20 / V 05855 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Neue Förderkategorie im Wohnungsbau Antrag Nr. 14-20 / A 01565 vom 26.11.2015 Klein Wohnungen realisieren Antrag Nr. 14-20 / A 01567 Sitzungsvorlagen Nr. 14-20/V 05662 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Erlass der Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 05 - Au-Haidhausen und 18 - Untergiesing-Harlaching 1) Satzungsbeschluss Erhaltungssatzung "Untere Au / Untergiesing" 2) Satzungsbeschluss Erhaltungssatzung "Wettersteinplatz" 3) Empfehlung und Antrag Sitzungsvorlagen Nr. 14-20 / V 05501 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Perspektive München Münchner Stadtteilstudie - Fortschreibung 2015 Sitzungsvorlagen Nr. 14-20 / V 05569 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Wohnungsbauatlas für München und die Region Sitzungsvorlage Nr. 14-20/ V 05936 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Stellungnahme des BUND und AAN zum Leistungsprogramm der MVG 2017 - <div>Zustimmung und Weiterleitung an die SWM</div>
+- TOP 8.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Pariser Straße 12 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Ökologischer Kriterienkatalog Fortschreibung 2016 Sitzungsvorlage Nr. 14-20/ V 02989 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Information des BA 5 Au- Haidhausen zu Baumaßnahmen Fugensanierung Ostbahnhof ab 09.05.2016 - <div>Weiterleitung der Stellungnahme an die MVG</div>
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP 8.1.: Spielplatzsanierung Johannisplatz, Ortstermin am 12.06.2016, 13.30 Uhr
+- TOP .1.: Lyrikpreis München e.V. Vorrundenlesung des Lyrikpreises München am 23.05.2016 Antragssumme: 910,00? - <div>Zustimmung in beantragter Höhe</div>
+- TOP .2.: Pariser Gschaftlhuber e.V. Straßenfest am 03.07.2016 Antragssumme: 1300,00? - <div>Zustimmung in Höhe von 800,00?</div>
+- TOP 1: Verkehrsberuhigung in der Rosenheimer Straße zwischen Rosenheimer Platz und Orleansstraße; verschiedene Maßnahmen - <div>Zustimmung gemäß der Referentenvorlage</div>
+- TOP 2: Generelles Linksabbiegeverbot an der Kreuzung Pilgersheimer- / Humboldtstraße - <div>Zustimmung gemäß der Referentenvorlage</div>
+- TOP 3: Barrierefreie Pflasterung im öffentlichen Raum Einrichtung von ?sog. Furten? Empfehlung Nr. 14-20 / E 00854 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 25.02.2016 - <div>Zustimmung gemäß der Referentenvorlage</div>
+- TOP 4: Erhalt der Fußgängerlichtsignalanlage in der Eduard-Schmid-Straße / Höhe Boosstraße Empfehlung Nr. 14-20 / E 00865 derBürgerversammlung des 5. Stadtbezirkes - Au-Haidhausen am 03.03.2016 - <div>Zustimmung gemäß der Referentenvorlage</div>
+- TOP 5: Wiederinbetriebnahme der Ampelschaltung an der Taubenstraße (Nähe Bushaltestelle Linie 52) nach 22.00 Uhr Empfehlung Nr. 14-20 / E 00861 der Bürgerversammlung des 5. Stadtbezirkes - Au-Haidhausen am 03.03.2016 - <div>Zustimmung gemäß der Referentenvorlage</div>
+- TOP .4.: Sicheres Gehen und Radeln am Orleansplatz - <div>Verweis in den UA Gesundheit, Umwelt und Verkehr</div>
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
