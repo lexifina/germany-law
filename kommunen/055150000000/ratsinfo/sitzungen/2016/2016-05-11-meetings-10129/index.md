@@ -1,0 +1,51 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-05-11T17:07:00+02:00
+- Ende: 2016-05-11T22:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10129
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10129
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00388018.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2016) - einstimmig beschlossen
+- TOP 3: Jahresabschluss 2015 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 4: Jahresabschluss 2015 der Westfälische Bauindustrie GmbH (WBI) - einstimmig beschlossen
+- TOP 5: Flexibles Jugendhilfeangebot für Grundschulen zum Schuljahr 2016/ 2017 - einstimmig beschlossen
+- TOP 6: Leistungen der Grundsicherung für Arbeitsuchende (SGB II) für geflüchtete Menschen im Jobcenter der Stadt Münster / Förderung der beruflichen Entwicklung und Inklusion – Eckpunktepapier und gemeinsames Arbeitsmarkt und Integrationsprogramm für geflüc - mehrheitlich beschlossen
+- TOP 7: Wald der Stadt Münster – Zustimmung zum Forstbetriebsplan - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Perspektiven für den Haushaltsplan 2017 - Finanzeckwerte - ohne Beschlussfassung geschoben
+- TOP 9: Innensanierung Stadthaus I
+- TOP 9.1: Denkmalwert des Objekts Klemensstr. 10 - ohne Beschlussfassung geschoben
+- TOP 9.2: Stadthaus 1 - Innensanierung - Zustimmung zur Planung - ohne Beschlussfassung geschoben
+- TOP 9.3: Optimierung bürgerorientierter Dienstleitungen: Stadthaus 1 als zentraler Ort bürgerorientierter Dienstleistungen - Innensanierung: Zukünftiger Betrieb der Kantine im Stadthaus 1 - ohne Beschlussfassung geschoben
+- TOP 10: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Mitte, Bereich Hammer Straße und im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup - ohne Beschlussfassung geschoben
+- TOP 11: VGM-Tarifmaßnahme zum 1. August 2016 - mehrheitlich beschlossen
+- TOP 12: Betrauungsakt Münsterland e.V. - einstimmig beschlossen
+- TOP 13: Bericht zur Wohnbaulandentwicklung 2015 und Fortschreibung des Baulandprogramms 2016 - 2025 - ohne Beschlussfassung geschoben
+- TOP 14: Umsetzung des Projektes "Angekommen in deiner Stadt", - einstimmig beschlossen
+- TOP 15: Errichtungsbeschluss: Neubau einer 3-Gruppen Kita auf dem Gelände der Hermannschule im Bezirk Mitte - ohne Beschlussfassung geschoben
+- TOP 16: Landesprogramm "KOMM-AN NRW" Stärkung der Kommunen zum Thema Zuwanderung und Flucht - einstimmig beschlossen
+- TOP 17: Entgeltordnung für die städtische Einrichtung "Kap.8" im Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 18: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Errichtung einer temporären Flüchtlingseinrichtung am Schifffahrter Damm und weitere Maßnahmen - einstimmig beschlossen
+- TOP 19: Anpassung der Pflegekonferenz an die gesetzlichen Vorgaben nach dem Alten- und Pflegegesetz NRW - einstimmig beschlossen
+- TOP 20: Verbindlicher Kommunaler Pflegebedarfsplan 2016 - 2019 für Münster - einstimmig beschlossen
+- TOP 21: Weiterentwicklung der NRW-Sportschule - Pascal-Gymnasium - einstimmig beschlossen
+- TOP 22: 8. Verleihung des Historikerpreises der Stadt Münster - einstimmig geändert beschlossen
+- TOP 23: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 24: Abfallwirtschaftskonzept 2016 der Stadt Münster - einstimmig beschlossen
+- TOP 25: Beschlüsse zur Änderung des Flächennutzungsplanes mit dem Ziel der Darstellung neuer Wohnbauflächen in den Bereichen Nördlich Stadthafen 1, Südlich und nördlich der Roddestraße, Albachten (Steinbrede), Sprakel (östlich der Eisenbahn), Mauritz-Ost (Ma - ohne Beschlussfassung geschoben
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Mitte
+- TOP 26.1.1: Vorhabenbezogener Bebauungsplan Nr. 565: Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26.2: Stadtbezirk Südost
+- TOP 26.2.1: 71. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 582 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 27: Verschiedenes
