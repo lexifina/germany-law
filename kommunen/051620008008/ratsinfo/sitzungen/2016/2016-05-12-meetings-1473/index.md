@@ -1,0 +1,118 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-05-12T18:00:00+02:00
+- Ende: 2016-05-12T20:05:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1473
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1473
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Einwohnerfragestunde gem. § 18 der Geschäftsordnung des Rates der Stadt Grevenbroich
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Gestaltung Außenbereich Schwimmbad (Antrag Nr. 123/2016) - einstimmig
+- TOP 3.1.2: Erweiterung und Verlagerung der Skater-Anlage (Antrag Nr. 124/2016) - einstimmig
+- TOP 3.1.3: Jugendkompass (Antrag Nr. 125/2016) - einstimmig
+- TOP 3.1.4: Einführung eines kommunalpolitischen Schülerpraktikums (Antrag Nr. 126/2016) - einstimmig
+- TOP 3.1.5: Vergleich der ÖPNV-Fahrpläne mit den Öffnungszeiten der Gastronomieangebote (Antrag Nr. 127/2016) - einstimmig
+- TOP 3.1.6: Verbesserung der nächtlichen ÖPNV-Anbindung an Neuss & Düsseldorf (Antrag Nr. 128/2016) - einstimmig
+- TOP 3.1.7: Flächen für die Jugend (Antrag Nr. 129/2016) - einstimmig
+- TOP 3.1.8: Schaffung von Proberäumen (Antrag Nr. 130/2016) - einstimmig
+- TOP 3.1.9: Ausschussumbesetzung UmweltA (Antrag Nr. 146/16) - einstimmig
+- TOP 3.1.10: Ausschussumbesetzungen (Antrag Nr. 138/2016) - einstimmig
+- TOP 3.1.11: Begrüßung von Neubürgern mit Kindern (Antrag Nr. 140/2016) - einstimmig
+- TOP 3.1.12: Halteverbot "Am Sodbach" (Antrag Nr. 141/2016) - einstimmig
+- TOP 3.1.13: "KiTa-Navigator" (Antrag Nr. 142/2016) - einstimmig
+- TOP 3.1.14: Lärmschutz an der L375 (Antrag Nr. 143/2016) - einstimmig
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Verkehrssituation auf der Straße Am Hammerwerk (Antrag Nr. 110/16) - einstimmig
+- TOP 3.3.2: Nutzung des Sportplatzes Frimmersdorf nach Abschalten der Kraftwerksblöcke (Antrag Nr. 96/16) - einstimmig
+- TOP 3.3.3: Bauschutt/Absperrgitter am Bahnübergang in Noithausen (Antrag Nr. 99/16) - einstimmig
+- TOP 3.3.4: Fahrbahndecke in Kapellen Friedrichstraße (Antrag Nr. 100/16) - einstimmig
+- TOP 3.3.5: Nutzung der Fahrradständer im Parkhaus am Bahnhof in Grevenbroich hinter der heutigen Taxizentrale (Antrag Nr. 78/16) - einstimmig
+- TOP 3.3.6: Pflegeleistungen der Grünflächen und Friedhöfen in Grevenbroich (Antrag Nr. 95/16) - einstimmig
+- TOP 3.3.7: Straßenzustand in Allrath Bongarder Straße (Antrag Nr. 121/16) - einstimmig
+- TOP 3.3.8: Ladestationen für Elektrofahrzeuge (Antrag Nr. 122/16) - Kenntnisnahme
+- TOP 3.3.9: Fußbedienung an den Abfallbehältnissen auf den Friedhöfen im Stadtgebiet (Antrag Nr. 111/2016) - einstimmig
+- TOP 3.3.10: Aufhebung der Parkzeitbegrenzung an der Friedensstraße 85 in Gindorf (Antrag Nr. 114/2016) - einstimmig
+- TOP 3.3.11: Gut in Grevenbroich integriert - Kampagne für erfolgreiche Integration (Antrag Nr. 107/16) - einstimmig
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Kraftwerkserneuerungsprogramm (Antrag Nr. 105/16) - einstimmig
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Müllgefäße in der Innenstadt/Fußgängerzone (Antrag Nr. 117/16) - einstimmig
+- TOP 3.7.2: Ausschussumbesetzung (Antrag Nr. 118/16) - einstimmig
+- TOP 3.7.3: Verkehrssituation Erftwerkstraße (Antrag Nr. 119/16) - einstimmig
+- TOP 3.7.4: Vermüllung des Industriegebiet Ost, sowie der Straßen "An der Glashütte/Industriestraße" - einstimmig
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 3.10: Gemeinschaftsanträge
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.1.1: Stellung von Brandwachen (Anfrage Nr. 131/2016) - einstimmig
+- TOP 4.1.2: Fördergelder für die Quartiersentwicklung (Anfrage Nr. 135/2016) - einstimmig
+- TOP 4.1.3: Entlastung KiTa-Personal (Anfrage Nr. 134/2016) - einstimmig
+- TOP 4.1.4: Sachstand Kolumbarium (Anfrage 136/2016) - einstimmig
+- TOP 4.1.5: Mittagessen in den KiTas (Anfrage Nr. 137/2016) - einstimmig
+- TOP 4.1.6: "GOT in der Südstadt" (Anfrage Nr. 144/2016) - einstimmig
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.3.1: Bohrschlämme auch in Stadtgebiet Grevenbroich (Anfrage Nr. 101/16) - einstimmig
+- TOP 4.4: FDP
+- TOP 4.4.1: Schulleitermangel in Grevenbroich - einstimmig
+- TOP 4.4.2: Sicherheit von Mitarbeitern des Ordnungsamtes - einstimmig
+- TOP 4.4.3: Fördermittel (Anfrage Nr. 115/16) - einstimmig
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.5.1: Einmalkosten und laufende Kosten einer Straßenbeleuchtung in LED Technik (Anfrage Nr. 104/16) - einstimmig
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.7.1: Kostenaufschlüsselung Stadtmanagement (Anfrage Nr. 108/16) - einstimmig
+- TOP 4.7.2: Sitzbänke Marktplatz (Anfrage Nr. 132/2016) - einstimmig
+- TOP 4.7.3: Einzug von Asylbewerbern in das alte Finanzamt (Anfrage Nr. 133/16) - einstimmig
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.9: FBG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 5.1: 1. Verlängerung der Veränderungssperre G 189 - mehrheitlich bei
+- TOP 6: Mittelbereitstellungen
+- TOP 6.1: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2015 - Kenntnisnahme
+- TOP 6.2: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2016 - Kenntnisnahme
+- TOP 7: Nachbesetzung stellvertretendes Aufsichtsratsmitglied SEG und WGV - einstimmig
+- TOP 8: Verlagerung der Skulptur „Knospenbaum“ - einstimmig
+- TOP 9: 2. Änderung Baumschutzsatzung - einstimmig
+- TOP 9.1: Grundsätzliche Überarbeitung der Baumschutzsatzung (Antrag Nr. 139/2016) - Kenntnisnahme
+- TOP 10: Fortsetzung des Vertrages aus 2006 über Dauerleihgaben mit der Rheinischen-Friedrich-Wilhelms-Univer - einstimmig
+- TOP 11: Entscheidung PlanungsA
+- TOP 11.1: 10. Änd. G 158 - Aufstellungsbeschluss - mehrheitlich bei
+- TOP 11.2: Gu 26 Gustav-Mahler-Str. erneuter Aufstellungsbeschluss - einstimmig
+- TOP 12: BetriebsA
+- TOP 12.1: Jahresabschluss 2014 Eigenbetrieb Abwasseranlagen - einstimmig
+- TOP 13: Beantwortung Anträge
+- TOP 13.1: Mein GV, Antrag Nr. 225/15 - Kenntnisnahme
+- TOP 13.2: FDP, Antrag Nr. 271/2015 - Kenntnisnahme
+- TOP 13.3: Beantwortung von Anträgen - Kenntnisnahme
+- TOP 13.4: Immobilien "Auf der Schanze 86 und 88" - Kenntnisnahme
+- TOP 14: Beantwortung Anfragen
+- TOP 14.1: "300 Millionen Euro für Bahnhöfe in NRW" (Anfrage 27/16) - Kenntnisnahme
+- TOP 14.2: Unterstützung der Klage der Städteregion Aachen - Kenntnisnahme
+- TOP 14.3: Brandschutz in Schulen - Kenntnisnahme
+- TOP 14.4: Beantwortung von Anträgen und Anfragen - hier: Sammelbeantwortung - Kenntnisnahme
+- TOP 15: mündliche Anträge/Anfragen
+- TOP 15.1: Neues Buslinienkonzept
+- TOP 15.2: Nachfrage zur Beantwortung des Antrages "Lärm- und Verkehrsbelastung auf der L 142 in Langwaden" (Antrag Nr. 232/2016)
+- TOP 15.3: Arbeiten der Deutschen Glasfaser im Neubaugebiet Kapellen
+- TOP 15.4: Vermüllung am Tribünenweg
+- TOP 15.5: Fehlende Müllgefäße am Neurather See
+- TOP 15.6: Baustelle Auf dem Strenkelrath
+- TOP 15.7: Überdachungsmöglichkeit des Feierabendmarktes
+- TOP 15.8: Nachfrage zur Anfrage Nr. 85/2016 (Glascontainer auf der Hundhausenstr.)
+- TOP 15.9: Nachfrage zur Anfrage Nr. 189/2015 (Kein Einsatz des krebsverdächtigen Herbizidwirkstoffs Glyphosat auf Flächen der Stadt Grevenbroich)
+- TOP 15.10: Straßenbegleitgrün Auf dem Mergendahl
+- TOP 16: Mitteilungen BM
