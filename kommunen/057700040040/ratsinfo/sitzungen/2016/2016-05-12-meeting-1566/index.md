@@ -1,0 +1,54 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2016-05-12T17:00:00+02:00
+- Ende: 2016-05-12T19:00:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcAHg_QO6xvIWeWycWgJubI
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1566
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQooFivSJ_NAzgPId61-L4Wd1WJeDqMG-PwVX9SqWHl7/Bekanntmachung_Rat_12.05.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWnL6NAZX1Tz7ymDIFoRyL21PiNwX9mREi_rrTUy6x-j/Oeffentliche_Niederschrift_Rat_12.05.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Aufstellung des Bebauungsplanes Nr. 92 „Reitschule Bössel" und 80. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 5.: Aufstellung des Bebauungsplanes Nr. 89 „Flachsstraße/Lübbecker Straße" zur Ausweisung einer Wohnbaufläche in Rahden Beratung und Beschlussfassung über die Aufstellung des Bebauungsplanes im Verfahren gem. § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung des Bebauungsplanes Nr. 89 „Flachsstraße/Lübbecker Straße“ gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB. - Einstimmig, 0 Enthaltungen
+- TOP 6.: 6. Änderung des Bebauungsplanes Nr. 4 „Alter Markt/nördliches Ahlfeld" Beratung und Beschlussfassung über das Ergebnis der erneuten Beteiligung der Öffentlichkeit und der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der erneuten Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 4a Abs. 3 Satz 1 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erlass einer Außenbereichssatzung gem. § 35 Abs. 6 BauGB für den Bereich "Lemförder Straße" - 31 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 8.: 46. ADAC Rallye Stemweder Berg am 25.06.2016 in Rahden- Pr. Ströhen - 24 Stimmen dafür, 8 dagegen, 1 Enthaltungen
+- TOP 9.: Neubesetzung von Ausschüssen und Gremien - Einstimmig, 0 Enthaltungen
+- TOP 10.: Besetzung des "Arbeitskreises Ehrenamt"
+- TOP 11.: Bekanntgaben
+- TOP 11.1: Ausbau Flachsstraße/Eibenweg
+- TOP 11.2: Masterplan Breitbandausbau
+- TOP 11.3: Bündnis regionaler Baukultur
+- TOP 11.4: Jubiläumsfeierlichkeiten des Feuerwehrlöschzuges Pr. Ströhen
+- TOP 11.5: Jubiläum der Städtepartnerschaft Rahden-Galgaheviz
+- TOP 11.6: Bereitstellung eines Freifunknetzes
+- TOP 12.: Verschiedenes
+- TOP 12.1: Baumaßnahme "Weher Straße"
+- TOP 12.2: Museumshof
+- TOP 12.3: Landschaftsplan
+- TOP 12.4: Flüchtlingsbetreuung
+- TOP 12.5: Jubiläum Museumshof
+- TOP 12.6: Mäharbeiten Wiese "Schäferhundverein"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 13.: Kommunales Energieeffizienz-Netzwerk Ostwestfalen und Niedersachsen (KEEN Ostwestfalen und Niedersachsen); hier: Beteiligung der Stadt Rahden
+- TOP 14.: Neubau des Feuerwehrgerätehauses für die Löschgruppen Varl und Sielhorst; hier: Vergabe des Auftrages für die Architektenleistungen - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 15.: Grundstücksangelegenheiten
+- TOP 15.1: Grundstücksangelegenheiten; hier: Erwerb des Grundstücks Gemarkung Kleinendorf Flur 1 Flurückstück 39 von den Eheleuten Heinrich und Irmtraud Windhorst, Lemförder Straße 61, 32369 Rahden-Kleinendorf - 33 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 15.2: Veräußerung von städtischen Gewerbeflächen im Gewerbegebiet Ost - Einstimmig, 0 Enthaltungen
+- TOP 15.3: Bekanntgabe der im I. Quartal 2016 abgeschlossenen Grundstücksverträge
+- TOP 16.: Bekanntgaben
+- TOP 16.1: Verkauf von Feuerwehrfahrzeugen
+- TOP 17.: Verschiedenes
+- TOP 17.1: Einstellung einer Mitarbeiterin/eines Mitarbeiters für Stadtmarketing und Wirtschaftsförderung
+- TOP 17.2: Gesundheitszentraum Rahden
+- TOP 17.3: Bau eines Holzhauses an der "Weher Straße"
