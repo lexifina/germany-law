@@ -1,0 +1,84 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-05-12T17:00:00+02:00
+- Ende: 2016-05-12T19:12:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11580
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11580
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00266172.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00266172.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00266172.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Flächennutzungsplanänderung Nr. 138 (Vorentwurf) - Glasmacherviertel - Änderung der Aufstellung - zur Kenntnis genommen
+- TOP 6: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2016 - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Radfahrstreifen Gubener Straße - beantwortet
+- TOP 10: S-Bahnhof Eller - beantwortet
+- TOP 11: Kulturbahnhof Eller - beantwortet
+- TOP 12: Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 13: B-Plan Am Kleinforst - beantwortet
+- TOP 14: Grundstücke Reichenbacher Weg - beantwortet
+- TOP 15: Düssel zwischen Gothaer Weg und Eller Kamp - beantwortet
+- TOP 16: Spielplatz Flüchtlingsunterkunft Posener Straße 128 - 132 - beantwortet
+- TOP 17: Ehemaliger Spielplatz Sandstraße - beantwortet
+- TOP 18: Tagespflegeeinrichtung in Unterbach - beantwortet
+- TOP 19: U3 / Ü3 - Betreuungsangebote in Unterbach - beantwortet
+- TOP 20: Kreisverkehr Gubener Straße / Höherhofstraße - beantwortet
+- TOP 21: Fahrradabstellanlage Vennhauser Allee / Gumbertstraße - einstimmig beschlossen
+- TOP 22: Parksituation Tulpenweg - einstimmig beschlossen
+- TOP 23: Verkehrsregelung Sandträgerweg - einstimmig beschlossen
+- TOP 24: Düsselweg zwischen Coburger Weg und Sandträgerweg - einstimmig beschlossen
+- TOP 25: Streckenführung Buslinie 721 - mehrheitlich abgelehnt
+- TOP 26: Verkehrsregelung Chemnitzer Straße - einstimmig beschlossen
+- TOP 27: Behindertenparkplatz Gumbertstraße - zur Kenntnis genommen
+- TOP 28: Grundstück Königsberger Straße 91 - einstimmig beschlossen
+- TOP 29: Straßenbeleuchtung Höherhofstraße - einstimmig beschlossen
+- TOP 30: P&R-Parkplatz Am Kleinforst - einstimmig beschlossen
+- TOP 31: Verkehrsführung Kreuzung Karlsruher Straße / Heidelberger Straße / Bernburger Straße - einstimmig beschlossen
+- TOP 32: Fahrplan und Streckenführung Buslinie 737 - einstimmig beschlossen
+- TOP 33: Verbindungsweg Am Schmiedekotten - einstimmig beschlossen
+- TOP 34: Parksituation Tulpenweg - zurückgezogen
+- TOP 35: Polleranlage Gertrudisplatz - einstimmig beschlossen
+- TOP 36: Fahrradabstellanlagen S-Bahnhof Eller-Süd - einstimmig beschlossen
+- TOP 37: Überplanung Gertrudisplatz - einstimmig beschlossen
+- TOP 38: Kreuzung Bernburger Straße / Alt-Eller / Karlsruher Straße / Heidelberger Straße - einstimmig beschlossen
+- TOP 39: Verkehrsregelung Krippstraße - mehrheitlich beschlossen
+- TOP 40: P&R-Parkplatz Am Kleinforst - einstimmig beschlossen
+- TOP 41: Einrichtung einer Skateranalage - zur Kenntnis genommen
+- TOP 42: Flüchtlingsunterkunft Posener Straße - zur Kenntnis genommen
+- TOP 43: Haltverbotregelung Oelser Straße / Am Hackenbruch - zur Kenntnis genommen
+- TOP 44: Grundstück Grüner Weg 55 - zur Kenntnis genommen
+- TOP 45: Grundstück Erkrather Straße 401 - zur Kenntnis genommen
+- TOP 46: Lärmschutzmaßnahmen Logistik-Zentrum Dillenburger Weg - zur Kenntnis genommen
+- TOP 47: Verkehrsunfälle Ausfahrt A46 Anschlussstelle Eller - zur Kenntnis genommen
+- TOP 48: Grundstück Gumbertstraße 107 - zur Kenntnis genommen
+- TOP 49: Unterflurcontainer Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 50: Straßenbeleuchtung Großer Torfbruch / Rothenbergstraße - zur Kenntnis genommen
+- TOP 51: Park & Ride - Parkplatz Am Kleinforst - zur Kenntnis genommen
+- TOP 52: Ausfahrt A46 Fahrtrichtung Eller - zur Kenntnis genommen
+- TOP 53: Ausbau Höherhofstraße - zur Kenntnis genommen
+- TOP 54: Feuerwehrzufahrt Am Hackenbruch 2 - 16 - zur Kenntnis genommen
+- TOP 55: Baumfällungen am Menzelsee - zur Kenntnis genommen
+- TOP 56: Bodensanierung am Menzelsee - zur Kenntnis genommen
+- TOP 57: "Sport im Park" im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 58: Lichtzeichenanlage Großer Torfbruch / Rothenbergstraße - zur Kenntnis genommen
+- TOP 59: Wegeerneuerung Nachbarschaftspark Eller-Lierenfeld und Monckartzhofweg - zur Kenntnis genommen
+- TOP 60: Kiosk Heidelberger Straße 42a - zur Kenntnis genommen
+- TOP 61: Parkregelung Kornblumenweg - zur Kenntnis genommen
+- TOP 62: Verunreinigungen S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 63: Gebiet Am Kleinforst - zur Kenntnis genommen
+- TOP 64: Radfahrstreifen Gubener Straße - zur Kenntnis genommen
+- TOP 65: Barrierefreier Umbau S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 66: Bahnböschung Eller-Mitte - zur Kenntnis genommen
+- TOP 67: Kulturbahnhof Eller - zur Kenntnis genommen
