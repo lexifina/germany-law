@@ -1,0 +1,59 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2016-05-12T17:00:00+02:00
+- Ende: 2016-05-12T23:15:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ7dVZPP4UJMIZc01FLq1EU
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3293
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZtQqGY7v1jG90XZFAxrHO_rJNckWLe5iwHaKtAogb4A/Einladung_Rat_12.05.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbKWWOjyji292qTMcxX7Xm36QTBGnC7KYMgzTHpLPngC/Oeffentliche_Niederschrift_Rat_12.05.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 19.02.2016
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Herforder Eishockey Verein e.V.- Antrag auf Verlängerung der Eiszeiten - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.10: Nachtabschaltung der Straßenbeleuchtung - Bei 1 Enthaltung und 8 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.8: Haushaltssatzung 2016 sowie mittelfristige Ergebnis- und Finanzplanung 2015 - 2019 hier: Verabschiedung der Haushaltssatzung 2016 mit ihren Anlagen
+- TOP A.8: Haushaltssatzung 2016 sowie mittelfristige Ergebnis- und Finanzplanung 2015 - 2019 hier: Verabschiedung der Haushaltssatzung 2016 mit ihren Anlagen - Bei 1 Enthaltung und 1 Nein-Stimme wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.9: Stellenplan für das Haushaltsjahr 2016 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Abspaltung des Geschäftsfelds "Steuerung Beteiligungen" innerhalb der Westfalen Weser Energie- Gruppe - Bei 2 Enthaltungen und 1 Nein-Stimme wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.5b: Erwerb von Anteilen an der Trianel Erneuerbare Energien GmbH & Co. KG (TEE) durch die die Westfalen Weser Beteiligungen GmbH (WWB, gegenwärtig firmierend als Westfalen Weser Energie 2. Vermögensverwaltungs- GmbH) bzw. alternativ die Westfalen Weser Energie GmbH & Co. KG (WWE). - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5c: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2015 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5d: Änderung des Finanzplans 2016 der Herforder Versorgungs- und Verkehrs-Beteiligungs- GmbH (HVV GmbH) - Bei 2 Enthaltungen und 1 Nein-Stimme wurde folgender Beschluss gefasst: 
+- TOP A.5e: Bestellung der Arbeitnehmervertreter im Aufsichtsrat der Stadtwerke Herford GmbH/Freizeiteinrichtungen Stadtwerke Herford GmbH
+- TOP A.5e: Bestellung der Arbeitnehmervertreter im Aufsichtsrat der Stadtwerke Herford GmbH/Freizeiteinrichtungen Stadtwerke Herford GmbH
+- TOP A.5f: Bestellung der Arbeitnehmervertreter im Aufsichtsrat der Wohn- und Wirtschafts- Service- Herford GmbH (WWS)
+- TOP A.5f: Bestellung der Arbeitnehmervertreter im Aufsichtsrat der Wohn- und Wirtschafts- Service- Herford GmbH (WWS)
+- TOP A.5g: Gutachten “Status quo und Entwicklungen der SWK Servicegesellschaft für Wirtschaft und Kommunen mbH aus rechtlicher und wirtschaftlicher Perspektive“ - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5h: INTERKOMM GmbH: Jahresabschluss 2015, Ergebnisverwendung, Entlastung der Geschäftsführung, Bestellung der Wirtschaftsprüfungsgesellschaft für die Prüfung des Jahresabschlusses 2016 - Einstimmig bei 3 Enthaltungen wurde folgender Beschluss gefasst: 
+- TOP A.22: Antrag Fraktion B90/DIE GRÜNEN: "Aufnahme und Eingliederung von Flüchtlingen" (hier eingegangen am 25.04.16)
+- TOP A.22: Stellungnahme der Verwaltung zum Antrag der Fraktion B90/DIE GRÜNEN bezüglich "Aufnahme und Eingliederung von Flüchtlingen"
+- TOP A.23: Antrag der SPD-Fraktion bezüglich einer Familienkarte für die Freibäder der Stadt Herford (hier eingegangen am 27.04.16) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.7: Papierlose Gremienarbeit - Umsetzung auch im Integrationsrat - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Fortschreibung Kindertagesstättenbedarfsplanung Kitajahr 2016 / 2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Bericht der Verwaltung zum Dienstleistungs-, Informations- und Beteiligungsangebot der Stadt Herford
+- TOP A.13: Wahl einer Schiedsperson für den Schiedsamtsbezirk Herford III - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Europäisches Schülerparlament 2016
+- TOP A.15: Konversion: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus" - Bewerbung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Sportentwicklungs- und Sportstättenbedarfsplan - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.17: Bebauungsplan Nr. 4.65 "Waisenhausstraße" hier: Anordnung einer Veränderungssperre
+- TOP A.18: Ostwestfälisch-lippische Regiopolregion: Sachstand und MORO-Projekt
+- TOP A.19: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz
+- TOP A.20: Mitgliederversammlung des Städtetages NRW am 14.04.16 in Aachen hier: kurzer Erfahrungsbericht der mitgereisten Delegierten
+- TOP A.21: Mitgliederbesetzungen in städtischen Gremien
+- TOP A.21a: Wahl eines Vertreters der Kreispolizeibehörde als beratendes Mitglied für den Verkehrsausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21b: Gremienbesetzung - Sportausschuss Antrag des Stadtsportverband Herford e.V. - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21c: Antrag der Fraktion DIE LINKE bezügl. der Umbesetzung im Sportausschuss (hier eingegangen am 22.04.2016) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21d: Antrag der CDU-Fraktion bezügl. der Umbesetzung von städtischen Gremien (hier eingegangen am 25.04.2016) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21e: Antrag der Fraktion B90/DIE GRÜNEN bezügl. Umbesetzungen in Gremien (hier eingegangen am 25.04.16) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21f: Antrag der SPD-Fraktion bezügl. der Umbesetzung in städtischen Gremien (hier eingegangen am 26.04.16) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.21: Beschlussantrag der Fraktion B90/Die GRÜNEN bezügl. der Umbesetzung im Seniorenbeirat (hier eingegangen am 02.05.16)
