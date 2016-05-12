@@ -1,0 +1,60 @@
+# 24. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-05-12T16:00:00+02:00
+- Ende: 2016-05-12T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4939
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4939
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2016_05_12 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00251810.pdf
+- Wortprotokoll: Nachtrag_SR_2016_05_12 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00252036.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Public Viewing in Dresden zur Europameisterschaft 2016 - erledigt
+- TOP 3.2: Kauf des Hotels Prinz Eugen durch die STESAD - erledigt
+- TOP 3.3: Erfolge der Dienstreisen des Oberbürgermeisters - erledigt
+- TOP 3.4: Gymnasium Plauen - erledigt
+- TOP 3.5: Ausschreibungen für die Betreibung von Asylunterkünften - erledigt
+- TOP 3.6: Haushalt 2015 - Haushaltssperre - erledigt
+- TOP 3.7: Auswirkungen der Hochwassersanierung "Österreicher Straße" auf die umliegenden Gewerbetreibenden - erledigt
+- TOP 3.8: Tennenplatz Bodenbacher Straße - erledigt
+- TOP 3.9: Sperrung des Areales vor dem Landgericht am 10.05.2016 - erledigt
+- TOP 3.10: Wohnungsbau in Dresden - erledigt
+- TOP 3.11: Denkmalschutz am Sachsenbad - erledigt
+- TOP 3.12: Steuermehreinnahmen der Landeshauptstadt Dresden - erledigt
+- TOP 3.13: Krankenversicherungskarte für AsylbewerberInnen - erledigt
+- TOP 3.14: Ambulante Verkaufsstellen der Dresdner Morgenpost im Stadtgebiet - erledigt
+- TOP 4: Gremienumbesetzung - Ortsbeiräte
+- TOP 4.1: Umbesetzung im Ortsbeirat Prohlis - Zustimmung
+- TOP 4.2: Umbenennung im Ortsbeitrat Prohlis - Zustimmung
+- TOP 4.3: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 4.4: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Vertagungen letzte Stadtratssitzung 14. April 2016
+- TOP 6.1: Vorplanung der Verkehrsbaumaßnahme (VKBM) Bautzner Straße zwischen Glacisstraße und Hoyerswerdaer Straße - Zustimmung mit Änderung
+- TOP 6.2: Grundhafter Ausbau der Stauffenbergallee (West) im Abschnitt zwischen Königsbrücker Straße und Radeburger Straße - Zustimmung mit Änderung
+- TOP 7: Verweisung letzte Stadtratssitzung 14. April 2016
+- TOP 7.1: Maßnahmen zur Kriminalitätsbekämpfung am Wiener Platz - Vertagung nach 22 Uhr
+- TOP 8: Änderung der Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen zur Förderung der Gleichstellung von Frau und Mann - Zustimmung mit Änderung
+- TOP 9: Reaktivierung des Schulstandortes auf der Fröbelstraße 1 - 3 in 01159 Dresden für die 153. Grundschule - Zustimmung
+- TOP 10: Neubau Schulstandort Dresden - Pieschen, Gehestraße, für die 145. Oberschule und das Gymnasium Pieschen - Zustimmung
+- TOP 11: Änderung der Richtlinie der Landeshauptstadt Dresden zur Namensgebung für Schulen vom 27. September 1996, zuletzt geändert am 27. September 2012 - Vertagung
+- TOP 12: Wiederaufbauplan der Landeshauptstdt Dresden zum Juni-Hochwasser 2013 in der Fassung vom 30.09.2015/20.10.2015 sowie das daraus resultierende Hochwasserbudget, Fortschreibung der Antragstellung und Bereitstellung der erforderlichen Mittel im Haushalt - Zustimmung
+- TOP 13: Wohnungsbau sofort beginnen - Ersetzung
+- TOP 14: Beauftragung der STESAD GmbH mit der Vorplanung kommunaler Wohnungsbaustandorte - zurückgezogen
+- TOP 15: Mittelbereitstellung in Form eines Darlehens für beide Eigenbetriebe Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum, und Städtisches Krankenhaus Dresden-Neustadt in Höhe von insgesamt 11.000 TEuro - Zustimmung
+- TOP 16: Neufassung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Vertagung nach 22 Uhr
+- TOP 17: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2014 - Zustimmung
+- TOP 18: Vorhaben- und Erschließungsplan Nr. 594, Dresden-Obergohlis Nr. 1, Wohnpark Gohlis - Zustimmung
+- TOP 19: Bebauungsplan Nr. 3003, Dresden-Schullwitz Nr. 3, Aspichring - Zustimmung
+- TOP 20: Betriebsordnung Krematorium - Zustimmung
+- TOP 21: Mitgliedschaft der Stadt Dresden in der UNESCO-Städtekoalition gegen Rassismus - Vertagung nach 22 Uhr
+- TOP 25: Vergabenummer: 5020/16 Hochwasserschadensbeseitigung 2013 - Schadensbeseitigung Tunnel Neustädter Markt B0024 - Ablehnung
+- TOP 27: Übertragung der investiven Budgetreste vom Haushaltsjahr 2015 nach 2016 - zur Kenntnis genommen
