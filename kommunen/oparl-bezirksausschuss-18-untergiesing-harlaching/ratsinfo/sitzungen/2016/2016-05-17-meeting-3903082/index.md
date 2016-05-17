@@ -1,0 +1,115 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2016-05-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3903082
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3903082
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.4 Wahl der / des neuen Vorsitzenden des UA Budgetangelegenheiten und ggf. Neubesetzung des UA Budgetangelegenheiten
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Nutzung Grundstück Hebenstreitstraße (unterhalb Bahndamm), Untergiesing; Bürgerschreiben vom 28.04.2016
+- TOP 2.2.: Ruhestörung Kulturjurte Hebenstreitstraße; Abdruck eines Bürgerschreibens an Herrn Oberbürgermeister Reiter
+- TOP 2.3.: Grünstreifen Höhe Grünwalder Straße 248 bis 252 - Anbringen von Metallbügeln um ein Befahren zu verhindern; Bürgerantrag
+- TOP 2.4.: Beschwerde wegen der Nutzungsänderung in der Anlage Säbener Str. 152 - 158; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ladezone in der Säbener Straße 9; Bürgerantrag
+- TOP 3.1.: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG; BA-Antrag Nr. 14-20 / B 02243 des BA 17 mit der Bitte um Kenntnisnahme und ggf. Unterstützung
+- TOP 3.1.: Parkhaus-Bauplanung Tierpark Hellabrunn; Bürgeranliegen aus der Sitzung des BA 18 vom 15.03.2016; Antwortschreiben des Planungsreferates vom 28.04.2016 (neutrale Erledigung)
+- TOP 3.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Grünwalder Straße 19; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Erhöhung der Ausgleichszahlungen für die Ablösung notwendiger Baum-Ersatzpflanzungen; BA-Antrag Nr. 14-20 / B 02030 vom 16.02.2016; Antwortschreiben der UNB vom 30.03.2016 (negative Erledigung)
+- TOP 3.1.: Ökologischer Kriterienkatalog; Fortschreibung 2016; Sitzungsvorlagen Nr. 14-20 / V 02989; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016 (VB)
+- TOP 3.2.: Maßnahmen für eine saubere Isar insbesondere Ergebnisse Runder Tisch "Erholungsraum Isar" am 09.12.2015; Isarflimmern statt Ballermann - Isarufer wieder für alle Münchnerinnen und Münchner verweilenswert machen; Stadtratsantrag Nr. 14-20 / A 01208 vom 13.07.2015; Feiern an der Isar - ein Landschaftsschutzgebiet kollabiert: Neue Maßnahmen zur Entschärfung der Konflikte sind dringend notwendig! Stadtratsantrag Nr. 14-20 / A 01213 vom 14.07.2015; Isarflimmern statt Ballermann II - Ideen für eine verbesserte Öffentlichkeitsarbeit; Stadtratsantrag Nr. 14-20 / A 01546 vom 18.11.2015; Petition: Verbesserung des Erholungsgebiets an der Isar; Sitzungsvorlage Nr. 14-20 / V 05605; Beschluss des Bauausschusses vom 26.04.2016 (SB)
+- TOP 3.3.: 3.3.6.3 Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.3.1 Harthauser Str. 15 und 17; Bescheid vom 02.05.2016
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Ausschreibung Kinder-Aktions-Koffer 2016/2017; Zuleitung des Stadtjugendamtes, Bewerbungsfrist: 30. Juni 2016
+- TOP 3.2.: Errichtung einer Kindertageseinrichtung mit 3 Krippengruppen am Sanatoriumsplatz, 18. Stadtbezirk; Genehmigung des Nutzerbedarfsprogramms; Zuleitung des RBS mit der Bitte um Stellungnahme
+- TOP 3.1.: Zuschussnehmerdatei 2016; Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Neufassung der Haushalts-/Zuschussliste; Sitzungsvorlage Nr. 14-20 / V 05980; Beschluss des Kinder- u. Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.2016 (SB)
+- TOP 3.2.: Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter; Sitzungsvorlage Nr. 14-20 / V 05271; Bekanntgabe im Bildungsausschuss des Stadtrates vom 06.04.2016; Zuleitung des RBS vom 11.04.2016
+- TOP 3.3.5: UA Bau und Planung
+- TOP 1: (E) Fluchtwegtafeln in der Schule am Agilolfingerplatz Instand setzen - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 1.1.: 3.5.4.3 Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien; BA-Antrag Nr. 14-20 / B 01899 des BA 17 vom 08.12.2015; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 1.2.: 3.5.4.4 Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten; BA-Antrag Nr. 14-20 / B 01903 des BA 2 vom 15.12.2015; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Tierparkstraße 30, Nutzungserweiterung für temporäre Veranstaltungen im Haus der kleinen Affen; Anhörung vom 18.04.2016
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklungen; Gutachterliche Stellungnahme zu Rechtsfragen der Entschädigungspflicht nach § 42 BauGB bei Änderung oder Aufhebung der zulässigen Nutzung eines Grundstückes durch Bebauungsplan zur Sicherung und Bewahrung der Gartenstadtgebiete im nicht qualifiziert überplanten Innenbereich; Sitzungsvorlage Nr. 14-20 / V 04857; Stellungnahme des BA 18 aus der Sitzung vom 15.03.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 13.04.2016 (neutrale Erledigung)
+- TOP 1.2.: Dreifachturnhalle des städtischen Theodolinden-Gymnasiums - Anfrage zur Belegung; Antwortschreiben des RBS vom April 2016 (neutrale Erledigung)
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Bebauungsplan mit Grünordnung Nr. 2088 Candidstraße (südlich), Hellabrunner Straße (östlich), Salierstraße (westlich) (Änderung des Bebauungsplanes Nr. 10b) - ehemaliges Osramgelände - A) Bericht über das Ergebnis des städtebaulichen und landschaftsplanerischen Wettbewerbes B) Weiteres Vorgehen; Sitzungsvorlagen Nr. 14-20 / V 05830; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016 (SB)
+- TOP 1.3.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 05 - Au-Haidhausen und 18 - Untergiesing-Harlaching 1) Satzungsbeschluss Erhaltungssatzung "Untere Au / Untergiesing" 2) Satzungsbeschluss Erhaltungssatzung "Wettersteinplatz" 3) Empfehlung und Antrag a) Erhaltungssatzung für den Bereich Konradin-, Agilolfinger-, Krumpter- und Arminiusstraße in Untergiesing; Empfehlung Nr. 08-14 / E 01164 der BÜV vom 10.11.2011 b) Aufnahme div. Wohnanlagen in die Erhaltungssatzung nach §§ 177 ff BauGB; BA-Antrag Nr. 08-14 / B 03952 vom 15.05.2012; Sitzungsvorlagen Nr. 14-20 / V 05501; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016 (VB)
+- TOP 1.4.: Wohnungsbauatlas für München und die Region; Sitzungsvorlagen Nr. 14-20 / V 05936; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2016
+- TOP 1.5.: Neue Förderkategorie im Wohnungsbau; Stadtratsantrag Nr. 14-20 / A 01565 vom 26.11.2015; Klein-Wohnungen realisieren; Stadtratsantrag Nr. 14-20 / A 01567; Sitzungsvorlage Nr. 14-20/V 05662; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016 (SB)
+- TOP 1.6.: Wohnen in München V; Erfahrungsbericht für das Jahr 2015; Sitzungsvorlagen Nr. 14-20 / V 05855; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016
+- TOP 1.7.: PERSPEKTIVE MÜNCHEN Münchner Stadtteilstudie - Fortschreibung 2015; Sitzungsvorlagen Nr. 14-20 / V 05569; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 27.04.2016
+- TOP 1.8.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.9.1 Anwesen Winterstraße; Mitteilung vom 25.04.2016 3.5.6.9.2 Anwesen Lohstraße; Mitteilung vom 01.04.2016
+- TOP 1.9.: Soziale Stadt 2015 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Soziale Stadt"; Sitzungsvorlagen Nr. 14-20/V 04544; Änderungsantrag der Fraktion Die Grünen/RL vom 13.04.2016; Beschluss der Vollversammlung des Stadtrates vom 20.04.2016
+- TOP 1.10.: Agfa-Sportverein e.V., Abschluss eines Mietvertrags über die Räumlichkeiten (Schießanlage) im Betriebsgebäude der Bezirkssportanlage Agilolfingerstraße 6; Sitzungsvorlage Nr. 14-20 / V 05479; Beschluss des Sportausschusses des Stadtrates vom 06.04.2016 (SB)
+- TOP 1.11.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.8.1 Anwesen Sutnerstraße; Mitteilung vom 07.04.2016 3.5.6.8.2 Anwesen Winterstraße; Mitteilung vom 25.04.2016 3.5.6.8.3 Anwesen Widdersteinstraße; Mitteilung vom 26.04.2016 3.5.6.8.4 Anwesen Perathonerstraße; Mitteilung vom 26.04.2016 3.5.6.8.5 Anwesen Mondstraße; Mitteilung vom 28.04.2016
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Veranstaltung in einer städtischen Grünanlage; hier: Waldfest 2016, Grünanlage Oberbiberger Straße am 16.07.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 20.05.2016
+- TOP 1.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Straßenfest des Kreisjugendrings München Stadt - FEZI, KJT am Wettersteinplatz am 22.07.2016; hier: Fromundstraße von Säbener Straße / Wettersteinplatz bis Otkerstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 03.06.2016
+- TOP 1.3.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Giesing Cup - Fußballturnier des Sozialreferates - Amt für Wohnen und Migration in der Grünanlage Isar, zwischen Candidstraße und Eisenbahnbrücke (Fitness Parcour Isarauen) am 05.06.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 20.05.2016
+- TOP 1.4.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund; hier: Pfarrfest in der Arminiusstraße am 26.06.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 27.05.2016
+- TOP 1.1.: Rosengarten, Gymnastikprogramm Freizeitsport ab 05.05.2016; negative Stellungnahme des BA 18 aus der April-Sitzung; Rückmeldung des KVR vom 21.04.2016 (neutrale Erledigung)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Mittelfristige Finanzplanung 2015 - 2019; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2016 bis 2020; Zuleitung der Stadtkämmerei vom 11.04.16 mit der Bitte um Stellungnahme bis 30.05.2016
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Projekt Kooperationsplattform; Schreiben des Direktoriums vom 21.04.2016
+- TOP 4.2.: Information der Bezirksausschüsse; Neue Bädereintrittspreise; Schreiben der SWM GmbH vom 27.04.2016
+- TOP 4.3.: Stärkung der Stadtbezirke; Schreiben von Herrn Oberbürgermeister Reiter vom 25.04.2016 an die CSU Senioren-Union, Kreisverband München IV
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.2.: Grünanlage südöstlich der Oberbiberger Straße - Hunde-Poller; Bürgeranliegen aus der Mai-Sitzung des BA 18; Antwortschreiben des Baureferates-Gartenbau mit der Bitte um Stellungnahme zum Kompromissvorschlag
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
