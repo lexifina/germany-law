@@ -1,0 +1,7 @@
+# TOP 1: (E) Freigabe des Weges ?An der Schloßmauer? für Radfahrer Empfehlung Nr. 14-20 / E 00799 aus der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 26.11.2015
+
+- Sitzung: BA 09 - Vollgremium (2016-05-17)
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/438182
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/438182
