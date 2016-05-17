@@ -1,0 +1,7 @@
+# TOP 5: Vorstellung Planung zur Teilinstandsetzung Drainageleitungen im Neuen Heidehof
+
+- Sitzung: 23. Sitzung des Ortschaftsrates Langebrück (2016-05-17)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/79231
+- Ergebnis: Zustimmung
