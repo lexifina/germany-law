@@ -1,0 +1,176 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2016-05-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3911843
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3911843
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der Sitzung vom 19.04.2016
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Entscheidungsfälle (1)
+- TOP 3: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle (2)
+- TOP 3.1.1.: (E) Freigabe des Weges ?An der Schloßmauer? für Radfahrer - Empfehlung Nr. 14-20 / E 00799 aus der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 26.11.2015
+- TOP 3.2: Bürgeranliegen, Anträge (1)
+- TOP 3.2.2.: Gestaltung "Merianplatz" - Antrag der Grünenfraktion
+- TOP 3.2.3.: Wiederinbetriebnahme der öffentlichen Toilette an der Amalienburgstraße / Endhaltestelle Tram 17 und Busse
+- TOP 3.2.4.: Grüner Pfeil an der Einmündung der Nibelungenstraße in die Arnulfstraße - Antrag der Seniorenvertretung des 9. Stadtbezirks
+- TOP 3.2.5.: Schutzmaßnahmen für Fußgänger beim Überqueren der Romanstraße - Antrag der Seniorenvertretung des 9. Stadtbezirks
+- TOP 3.2.6.: Ausweichradstrecke zur Nymphenburger Straße, durchgehend Tempo 30 in der Blutenburgstraße - Antrag des BA 3 Maxvorstadt
+- TOP 3.2.7.: Anpassung der Richtlinien für die Richtlinien von Wartehallen der MVG - Antrag des BA 17 Obergiesing-Fasangarten
+- TOP 3.2.8.: Schulwegsicherheit an der Margarethe-Danzi-Str. 17 - Antrag der Grundschule
+- TOP 3.2.9.: Menzinger Straße / Wintrichring / Maria-Ward-Straße - Kreuzungsumbau mit Fußgängerunterführung
+- TOP 3.2.10.: Bürgeranliegen: Nutzung der Busspur in der Wotanstraße durch Rechtsabbieger in die Margarethe-Danzi-Straße
+- TOP 3.2.11.: Bürgeranliegen: Schleichweg in der Braganzastraße / Johann-von-Schmaus-Weg
+- TOP 3.2.12.: Bürgeranliegen: Bauarbeiten in der Romanstraße
+- TOP 3.2.13.: Bürgeranliegen: Neugestaltung des Romanplatzes
+- TOP 3.2.14.: DacG/ÖDP: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing - hier: Teilstück Erika-Mann-Straße und Bernhard-Wicki-Straße
+- TOP 3.2.15.: DacG/ÖDP: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing - hier: Teilstück Richelstraße
+- TOP 3.2.16.: DacG/ÖDP: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing - hier: Teilstück Parkplatz Richelstraße
+- TOP 3.2.17.: DacG/ÖDP: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing - hier: Teilstück westlich vom Backstage
+- TOP 3.2.18.: DacG/ÖDP: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing - hier: Teilstück eines kleinen Verbindungsweges am Hirschgarten Süd
+- TOP 3.2.19.: Zeit- und Ablaufplan für den Gordischen Knoten am S-Bahnhof Laim - Antrag der Grünenfraktion
+- TOP 3.2.20.: Beschilderung "Wenden verboten" am Steubenplatz
+- TOP 3.2.21.: Fahrradstellplätze Nymphenburger Str. 155 & Notburgastr. / Südliche Auffahrtsallee 177
+- TOP 3.3: Anhörungen (1)
+- TOP 3.3.1.: RAW: Veränderung der Straßenbahn-Gleisanlagen am Romanplatz - Trassierungsbeschluss vor Einleitung des Planfeststellungsverfahrens
+- TOP 3.3.2.: KVR: Donnersbergerbrücke: Reduzierung der Höchstgeschwindigkeit auf 50 km/h
+- TOP 3.3.3.: KVR: Fußgängerzone mit temporärer Freigabe für den Radverkehr auf dem Rotkreuzplatz
+- TOP 3.3.4.: Baureferat: Rückbau der Radwege in der Nibelungenstraße
+- TOP 3.3.5.: KVR: Austausch der Lichtzeichenanlagen an der Dachauer-/ Postillonstraße
+- TOP 3.3.6.: KVR: Haltverbot in der Schlagintweinstraße
+- TOP 3.3.7.: KVR: Spartenabfrage Bahnradweg Nymphenburg Süd
+- TOP 3.3.8.: KVR: Spartenabfrage: Ignaz-Perner-Straße 3 - 17 & ggü.
+- TOP 3.3.9.: KVR: Spartenabfrage Tizianstraße 137 - 143
+- TOP 3.4: Antwortschreiben (1)
+- TOP 3.4.1.: Umbenennung der Haltestelle "Fasaneriestraße" in "Institut für Zeitgeschichte"
+- TOP 3.4.2.: KVR: Bürgerantrag zur Verkehrsführung in der Kemnathenstraße und Walhallastraße
+- TOP 3.4.3.: Baureferat: Gehweg in der Unterführung Bärmannstraße - Margarethe-Danzi-Straße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen (1)
+- TOP 3.5.1.: Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse (Sitzungsvorlagen Nr. 14-20 / V 05984 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 3.5.2.: KVR: Feuerwehrausfahrt Schwere-Reiter-Straße - Verkehrsrechtliche Anordnung
+- TOP 3.5.3.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Hedwig-Dransfeld-Allee
+- TOP 3.5.4.: MVG Leistungsprogramm 2017 - Stellungnahme von AAN & BN
+- TOP 3.5.5.: SWM: Information über derzeit anstehende und laufende Bauvorhaben der Stadtwerke
+- TOP 3.6: Verschiedenes (1)
+- TOP 4: Unterausschuss für Bau und Planung
+- TOP 4.1: Entscheidungsfälle (3)
+- TOP 4.2: Bürgeranliegen, Anträge (2)
+- TOP 4.3: Anhörungen (2)
+- TOP 4.3.1.: Planungsreferat: Bebauungsplan Nr. 1954 - Kreativquartier an der Dachauer Straße / Schwere-Reiter-Straße - Teilbereich "Feld"
+- TOP 4.3.2.: Arnulfstraße 102 - Neugestaltung der Fassade und Umgestaltung der Zimmer des Hostel
+- TOP 4.3.3.: Arnulfstr. 150 - 152 - Neuerrichtung der oberirdischen Geschosse für eine Wohnnutzung nach Teilabbruch des bestehenden Bürogebäudes
+- TOP 4.3.4.: Barellistraße 2 - Neubau eines Einfamilienhauses mit Tiefgarage
+- TOP 4.3.5.: Birketweg (Baufeld MK3) - Neubau eines Bürogebäudes, teilweise mit Gastronomie und Einzelhandelsflächen
+- TOP 4.3.6.: Blutenburgstraße 122 - Neubau eines Wohngebäudes mit Gewerbenutzung im EG
+- TOP 4.3.7.: Fasoltstraße - Neubau eines Wohngebäudes mit TG (126 WE) mit Arztpraxis, Büro, Kindereinrichtung und Seniorenwohngruppen
+- TOP 4.3.8.: Laimer Straße 36 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.3.9.: Mechthildenstraße 40 - Dachgeschossausbau, Balkonanbau und Aufzugerrichtung
+- TOP 4.3.10.: Menzinger Str. 38 - Neubau eines Einfamilienhauses mit automatischer PKW-Parkanlage
+- TOP 4.3.11.: Nymphenburger Str. 149 - Dachgeschoss-Ausbau und Rekonstruktion des Eckturms
+- TOP 4.3.12.: Nymphenburger Str. 182 - Abbruch des Bestandsgebäudes und Neubau eines Gebäudes mit Büronutzung im Hinterhof
+- TOP 4.3.13.: Romanstr. 24 - Teilabbruch und Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 4.3.14.: Südliche Auffahrtsallee 20 - Errichtung einer Dacheinschnitt-Terrasse
+- TOP 4.3.15.: Südliche Auffahrtsallee 36 - Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 4.3.16.: Wilhelm-Düll-Straße 29 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.3.17.: Wotanstraße 84 - Vordergebäude - Ausbau des Dachspitzbodens, Anbau eines Aufzugs, Erweiterung der Wohnräume, Errichtung eines straßenseitigen Erkers sowie einer Laube und einer Loggia im Dachgeschoss
+- TOP 4.3.18.: Wotanstraße 84 - Rückgebäude - Umbau und Erweiterung durch Ausbau der Garagen zu Wohnräumen
+- TOP 4.4: Antwortschreiben (2)
+- TOP 4.4.1.: Sozialreferat: Umnutzung Südliches Schlossrondell 1
+- TOP 4.4.2.: CA Immo: "MY.O" im Schlossviertel Nymphenburg
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen (2)
+- TOP 4.5.1.: Bautennachweise vom 04.04. - 01.05.2016
+- TOP 4.5.2.: PERSPEKTIVE MÜNCHEN - Münchner Stadtteilstudie - Fortschreibung 2015 (Sitzungsvorlagen-Nr. 14-20 / V 05569 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.5.3.: Wohnen in München V - Erfahrungsbericht für das Jahr 2015 - (Sitzungsvorlagen-Nr. 14-20 / V 05855 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.5.4.: Wohnungsbauatlas für München und die Region - (Sitzungsvorlagen-Nr. 14-20 / V 05936 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.5.5.: Neue Förderkategorie im Wohnungsbau / Kleinwohnungen realisieren - (Sitzungsvorlagen-Nr. 14-20 / V 05662 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 4.6: Verschiedenes (2)
+- TOP 5: Unterausschuss für Umweltfragen
+- TOP 5.1: Entscheidungsfälle (4)
+- TOP 5.2: Bürgeranliegen, Anträge (3)
+- TOP 5.2.1.: Bürgeranliegen: Musik am Rotkreuzplatz
+- TOP 5.2.2.: Bürgeranliegen: Lärmbelästigung durch Verkehrsaufkommen in Nymphenburg
+- TOP 5.2.3.: Bürgeranliegen: Sammelcontainer Dom-Pedro-Straße / Ecke Fuetererstraße
+- TOP 5.2.4.: Bürgeranliegen: Biotonnenpflicht in München
+- TOP 5.2.5.: Anpassung der Bepflanzung an der Landshuter Allee
+- TOP 5.3: Anhörungen (3)
+- TOP 5.3.1.: Anträge auf Baumfällungen - Emma-Ihrer-Straße - Flüggenstr. 12 - Ferdinand-Maria-Str. 41 - Hohenlohestraße 41 - Leonrodstr. 62 - Prinzenstr. 44 - 46 - Sadelerstr. 33 - Washingtonstr. 15 - 19
+- TOP 5.4: Antwortschreiben (3)
+- TOP 5.4.1.: Basketballkörbe im Grünwaldpark
+- TOP 5.4.2.: Fahrradständer am Grünwaldpark
+- TOP 5.4.3.: LBK: Claire-Watson-Straße 12 - Baumfällung
+- TOP 5.4.4.: LBK: Sadelerstr. 35 - Baumfällung
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen (3)
+- TOP 5.5.1.: Ökologischer Kriterienkatalog - Fortschreibung 2016 - (Sitzungsvorlagen-Nr. 14-20 / V 02989 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 5.6: Verschiedenes (3)
+- TOP 6: Unterausschuss für Soziales und Integration
+- TOP 6.1: Entscheidungsfälle (5)
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse - Spielnest e.V. - Sanierung des Spielplatzes
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse - Clean-Projekt-Neuhausen e.V. - Ausstattung des Fitnessraumes
+- TOP 6.2: Bürgeranliegen, Anträge (4)
+- TOP 6.2.2.: Kinderfest des BA 9
+- TOP 6.3: Anhörungen (4)
+- TOP 6.4: Antwortschreiben (4)
+- TOP 6.4.1.: Zentrum für Altersmedizin für den Münchner Norden - Empfehlung Nr. 14-20 / E 00850 der Bürgerversammlung vom 26.11.2015 - (Sitzungsvorlagen-Nr. 14-20 / V 05401 unter dieser Nummer einsehbar im Ratsinformationssystem http://www.ris-muenchen.de)
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen (4)
+- TOP 6.5.1.: Planung "World-Café"
+- TOP 6.6: Verschiedenes (4)
+- TOP 7: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle (6)
+- TOP 7.2: Bürgeranliegen, Anträge (5)
+- TOP 7.2.1.: Modernes Gedenken - Eisenbahnerdenkmal auf dem Bundeswehrgelände - Antrag VPJ e.V.
+- TOP 7.2.2.: Vorbereitung Gestaltung der Fußgängerunterführung Landshuter Allee
+- TOP 7.3: Anhörungen (5)
+- TOP 7.4: Antwortschreiben (5)
+- TOP 7.5: Antwortschreiben (6)
+- TOP 7.6: Verschiedenes (5)
+- TOP 8: Unterausschuss für Bildung und Sport
+- TOP 8.1: Entscheidungsfälle (7)
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse - Initiative "Schulbücherei" - Kauf von Büchern für die Hirschbergschule
+- TOP 8.1.2.: (E) Sanierung der alten Skateanlage im Hirschgarten - Empfehlung Nr. 14-20 / E 00845 aus der Bürgerversammlung des Stadtbezirkes 9-Neuhausen-Nymphenburg am 16.11.2015
+- TOP 8.2: Bürgeranliegen, Anträge (6)
+- TOP 8.2.1.: Weiteres Vorgehen beim Käthe-Kollwitz-Gymnasium
+- TOP 8.2.2.: Skifahren und Wintersport gemäß Lehrplan für alle Schülerinnen und Schüler in Neuhausen-Nymphenburg ? Antrag CSU-Fraktion
+- TOP 8.3: Anhörungen (6)
+- TOP 8.3.1.: RBS: Fortschreibung der Schulentwicklungsplanung
+- TOP 8.4: Antwortschreiben (7)
+- TOP 8.4.1.: SWM: Neubau einer Wohnanlage an der Postillonstraße 3
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen (5)
+- TOP 8.6: Verschiedenes (6)
+- TOP 9: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle (8)
+- TOP 9.2: Bürgeranliegen, Anträge (7)
+- TOP 9.2.1.: Anfrage zur Aktivierung leerstehender Lebensmittelmärkte in den Stadtbezirken
+- TOP 9.3: Anhörungen (7)
+- TOP 9.3.1.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien
+- TOP 9.3.2.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 9.3.3.: Stadtkämmerei: Mittelfristige Finanzplanung 2015 - 2019 - Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2016 - 2019
+- TOP 9.3.4.: KVR: Straßenfest an der Hanfstaenglstr. am 25.06.2016
+- TOP 9.3.5.: KVR: Magdalenenfest im Hirschgarten vom 09.07. - 24.07.2016
+- TOP 9.3.6.: KVR: Ökumenischer Gottesdienst im Hirschgarten am 09.07.2016
+- TOP 9.3.7.: KVR: Gottesdienst im Grünwaldpark am 05.05.2016
+- TOP 9.3.8.: KVR: Französischer Markt vom 03.-08.06.2016 auf dem Rotkreuzplatz
+- TOP 9.3.9.: KVR: Open Picnic für Nachbarn am 04.06.2016 in der Grünanlage am Eisnergutbogen
+- TOP 9.4: Antwortschreiben (8)
+- TOP 9.4.1.: KVR: Kunst- und Kulinarium Spezialmarkt vom 23.-26.09.2016 auf dem Rotkreuzplatz
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen (6)
+- TOP 9.5.1.: Stärkung der Stadtbezirke - Schreiben des Oberbürgermeisters
+- TOP 9.5.2.: KVR: Unveränderte Fortführung von Gaststättenbetrieben - Blutenburgstr. 112 (Mai Linh) - Heideckstr. 12 (Dalmatia - vormals Francis) - Renatastr. 35 (Goldener Hirsch) - Wendl-Dietrich-Str. 11 (Shisha Bar Diamant)
+- TOP 9.6: Verschiedenes (7)
+- TOP 10: Verschiedenes (8)
+- TOP 3.2.1.: Anträge zum "Arnulfsteg" a) Realisierung des Arnulfstegs - Antrag der Grünenfraktion b) Fuß- und Radwegsteg Arnulfpark-Westend - Antrag der CSU-Fraktion
+- TOP 6.2.1.: Anträge zur Fachstelle für Demokratie und gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit a) Ausbau der Fachstelle für Demokratie und gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit - Gemeinschaftsantrag Grüne/SPD b) Mehr Personal für die Fachstelle für Demokratie und gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit ? Beschluss BA 4 & 12
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Spielnest e.V. Sanierung des Spielplatzes
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Clean-Projekt-Neuhausen e.V. Ausstattung des Fitnessraumes
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Initiative "Schulbücherei" Kauf von Büchern für die Hirschbergschule
+- TOP 1: (E) Freigabe des Weges ?An der Schloßmauer? für Radfahrer Empfehlung Nr. 14-20 / E 00799 aus der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 26.11.2015
+- TOP 2: (E) Sanierung der alten Skateanlage im Hirschgarten Empfehlung Nr. 14-20 / E 00845 aus der Bürgerversammlung des Stadtbezirkes 9-Neuhausen-Nymphenburg am 16.11.2015
