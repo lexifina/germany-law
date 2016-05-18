@@ -1,0 +1,57 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-05-18T17:00:00+02:00
+- Ende: 2016-05-18T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3494
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3494
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Hundeverbot im Widerspruch - beantwortet
+- TOP 3.2: Glyphosat - beantwortet
+- TOP 3.3: Schließung der Müllabwurfanlagen in der Thermometersiedlung ohne Not? - beantwortet
+- TOP 3.4: Partizipation beim Platz des 4. Juli gewollt? - beantwortet
+- TOP 3.5: Sind geflüchtete Menschen versichert? - beantwortet
+- TOP 3.6: Wann nimmt die Ombudsstelle im JobCenter ihre Arbeit auf? - beantwortet
+- TOP 3.7: Perspektiven für junge Mütter - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Bebauungspläne - erledigt
+- TOP 7.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Bebauungsplan 6-31 VE (Dessauerstraße 37/39) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Radwege Königsberger Straße ertüchtigen - überwiesen
+- TOP 8.2: Imker unterstützen - überwiesen
+- TOP 8.3: Zusätzliche Räume für die Hortbetreuung - überwiesen
+- TOP 8.4: Geflüchteten im Bezirk eine Perspektive bieten - überwiesen
+- TOP 8.5: Ampelschaltzeiten Kranoldplatz fußgängergerechter gestalten - überwiesen
+- TOP 8.6: Resolution: Freihandelsabkommen: So nicht - überwiesen
+- TOP 8.7: KITA-Ausbau in Zehlendorf unterstützen - überwiesen
+- TOP 8.8: Umsetzung des Präventionsgesetzes im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 8.9: Sitzungsgelder für Beiratsmitglieder - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Für Schulische Suchtprävention und Suchthilfekoordination ausreichende Stellenbesetzung - in der BVV abgelehnt
+- TOP 9.2: Holzmodule statt Container - in der BVV zurückgezogen
+- TOP 9.3: Suchthilfekoordination im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Aktive Religionsfreiheit schützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Geflüchtete Frauen gezielt fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Tempo 30 in der Onkel-Tom-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Geflüchteten Beteiligung ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Sicherheitsstreifen für den Radverkehr auf dem Wolfensteindamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Kunst im Straßenraum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Verkehrskonzept Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Nachtbuslinie Kamenzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Wildes Urinieren neben dem Rathauseingang - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.13: Besucher des Deutschen Evangelischen Kirchentags unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: MINT in Schulen fördern und unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.15: Fußgänger-Querungshilfe in Höhe Asternplatz/Tulpenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Vermittlung des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
