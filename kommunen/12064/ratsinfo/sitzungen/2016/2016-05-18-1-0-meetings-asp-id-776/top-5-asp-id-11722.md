@@ -1,0 +1,7 @@
+# TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 16. Sitzung des Kreistages Märkisch-Oderland (2016-05-18)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=11722
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
