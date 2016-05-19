@@ -1,0 +1,52 @@
+# Gemeinderat (18. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2016-05-19T18:00:00+02:00
+- Ende: 2016-05-19T21:40:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUH4vWXvMetX1F78VkE5N9U
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1527
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZen0nLJKhGg9U9tMGJjqPGSWYu9RLDgmUrHSjolKey1_/Bekanntmachung_Gemeinderat_19.05.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYywcBS4N518ZTI63P6nv-Q958rJ3lMVF8pLkWxxd_zS/Oeffentliche_Niederschrift_Gemeinderat_19.05.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.03.2016 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 27. Änderung des Bebauungsplans 15 A - Konrad-Adenauer-Straße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage und der erneuten Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: 8. Änderung des Bebauungsplans 17 A - Industriegebiet - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 8. Änderung des Bebauungsplans 17 A - Industriegebiet - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 4.1: Schulentwicklungsplanung der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 5.1: Erweiterung der Kita Regenbogen, Pestalozziring; Abwicklung der Baumaßnahme - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Anträge von Fraktionen
+- TOP 6.1: Antrag der CDU-Fraktion hier: Resolution zur Flüchtlingsfinanzierung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: Satzung der Gemeinde Aldenhoven über die erforderlichen Stellplätze für Kraftfahrzeuge und die Ablösebeträge für Kraftfahrzeugstellplätze (Stellplatzsatzung) - 20 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Finanzen, Haushalt
+- TOP 8.1: 1. Änderung des Stellenplanes für das Jahr 2016 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2: Jahresabschluss für das Haushaltsjahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.3: Nachträgliche Änderung des Hebesatzes für die Grundsteuer B für das Jahr 2016 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Ausführung des Haushalts
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.03.2016 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Verkauf eines gemeindlich Wohnbaugrundstückes - Einstimmig, 2 Enthaltung(en)
+- TOP 3.2: Verkauf einer gemeindeeigenen Parzelle - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Verkauf von Teilflächen einer gemeindeeigenen Parzelle - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Beratung zur Nutzung einer gemeindlichen Fläche - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: Verkauf einer Teilfläche einer gemeindlichen Parzelle - Einstimmig, 0 Enthaltung(en)
+- TOP 3.6: Verkauf einer gemeindeeigenen Parzelle - 20 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 3.7: Verkauf eines gemeindeeigenen Grundstücks - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Sachstandsberichte der Verwaltung
+- TOP 4.1: Interkommunale Zusammenarbeit
+- TOP 5.: Verschiedenes
