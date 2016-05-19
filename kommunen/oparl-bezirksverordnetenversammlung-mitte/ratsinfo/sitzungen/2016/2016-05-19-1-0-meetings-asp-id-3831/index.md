@@ -1,0 +1,135 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-05-19T17:30:00+02:00
+- Ende: 2016-05-19T21:23:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3831
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3831
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=132078
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde
+- TOP 2: Mitteilungen
+- TOP 2.1: des Vorstandes
+- TOP 2.2: der Fraktionen
+- TOP 2.3: der Ausschüsse
+- TOP 2.4: des Bezirksamtes
+- TOP 3: Konsenslisten
+- TOP 4: Thematische Stunde
+- TOP 5: Mündliche Anfragen
+- TOP 5.1: Märchenhütten - Ende gut, alles gut?
+- TOP 5.2: Stellenausschreibung SE PersFin AL
+- TOP 5.3: Bäume noch zu retten in der Ifflandstr. 1 – 4
+- TOP 5.4: Hochhaus auf der Fischerinsel
+- TOP 5.5: Keine privaten Schenkungen von Kunstwerken mehr an den Bezirk Mitte – einsame Entscheidung des Bezirksamtes?
+- TOP 5.6: Verfahrensauswertungen Bebauungspläne nicht mehr zur Kenntnis der Bezirksverordnetenversammlung (BVV)?
+- TOP 5.7: Verhindern Spatzen den Abriss des Wohngebäudes Wilhelmstraße 56 – 59?
+- TOP 5.8: Kosten kleiner Tiergarten
+- TOP 5.9: Anliegenmanagementsystem (AMS)
+- TOP 5.10: zu: BVV-Beschluss DS 2488/IV zur Umwidmung einer Wegeverbindung auf der Fischerinsel
+- TOP 5.11: Außerschulische Lernorte landesgesetzlich verankert – Alle drei Standorte der Jungendverkehrsschule sichern und entwickeln
+- TOP 5.12: Motivationszuwendungen / Anerkennungszuwendungen
+- TOP 5.13: Rattenbefall Spielplatz Ottopark
+- TOP 5.14: Barrierefreiheit Wahllokale
+- TOP 6: Dringlichkeitsanfragen
+- TOP 6.1: Bau des neuen Zaunes am Magdeburger Platz
+- TOP 6.2: Niemand hat die Absicht, die Bezirksverordneten bei ihrer Arbeit zu behindern
+- TOP 6.3: Sonderkonditionen zur Sondernutzung für das Formel-E-Rennen auf der Karl-Marx-Allee?
+- TOP 7: Große Anfragen
+- TOP 7.1: Bleibt der Friedrich-Ebert Platz dauerhaft geschlossen?
+- TOP 7.2: Umsetzung BVV-Beschluss DS 2695/IV zu „Genehmigungskriterien für Umsetzung der Erhaltungsverordnung gemäß §172 Abs. 1 Satz 1 Nr.2 BauGB unter Berücksichtigung der gebietsspezfischen Mietspiegel“
+- TOP 7.3: Prostitution in der Fennstraße?
+- TOP 7.4: Leerstand und Zweckentfremdung
+- TOP 7.5: Umbau Gendarmenmarkt ab 2017?
+- TOP 7.6: Zielvereinbarung für das Jahr 2016 zwischen Jobcenter, Arbeitsagentur und Bezirksamt
+- TOP 7.7: Handbuch Gendarmenmarkt
+- TOP 7.8: Bebauung „südlich Ifflandstraße 1-4/Holzmarktstr. 70“
+- TOP 7.9: Nachpflanzungen von Straßenbäumen entlang der Stromstraße
+- TOP 7.10: Sparen zu Lasten der Zukunft – welche Investitionen wurden bis wann verschoben?
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 9: Vorlagen zur Beschlussfassung
+- TOP 9.1: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes I-9-1 VE „Axel-Springer-Campus“
+- TOP 9.2: Genehmigung der im Haushaltsjahr 2015 zugelassenen über- und außerplan-mäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung
+- TOP 11: Dringlichkeitsanträge
+- TOP 11.1: Palais am Festungsgraben - gute Nutzung für Berlin in der Welt
+- TOP 11.2: Bewohner in der Berlichingenstraße nicht im Stich lassen
+- TOP 11.3: Integrationspreis 2016
+- TOP 11.4: Keine Subventionierung der Formel-E durch Erlass der Sondernutzungsgebühren zu Lasten des Bezirks!
+- TOP 11.5: Fischerinsel / Mühlendamm: Kreuzungsbereich Fischerinsel 1 - Weg und Parkplätze wieder zur Verfügung stellen
+- TOP 11.6: Platz der Kinderrechte – wir unterstützen Buddy Bären e.V. und UNICEF
+- TOP 12: Anträge
+- TOP 12.1: Disc-Golf-Anlage in Mitte
+- TOP 12.2: Video - Dolmetschdienst
+- TOP 12.3: Änderung der Geschäftsordnung
+- TOP 12.4: Verkehrsberuhigung in der Barfusstraße
+- TOP 12.5: Über den Dächern und unter den Wolken Dachbebauung für Erholung, Freizeit, Spiel und Sport in Mitte möglich machen
+- TOP 12.6: Arbeit 4.0: Digitale Kompetenzen von Beschäftigten ausbauen
+- TOP 12.7: Text der Gedenktafel für ermordete Polizisten auf dem ehem. Bülowplatz
+- TOP 12.8: Mülleimer für Hundeauslaufgebiet in der Rehberge
+- TOP 12.9: Dreck weg – an Kleidersammelstellen und Altglascontainern
+- TOP 12.10: Internet in Seniorenpflegeeinrichtungen
+- TOP 12.11: Gesamtkonzept Ruheplatzstraße 8-12
+- TOP 12.12: Tiergehege in der Rehberge sinnvoll nutzen
+- TOP 12.13: Verkehrsbelastung in Wohngebieten des nördlichen Moabits reduzieren
+- TOP 12.14: Zentralen Festplatz aufgeben
+- TOP 12.15: Tacheles-Areal: Gedenkort und Gedenktafel für die Synagoge der jüdischen Reformgemeinde zu Berlin, Johannisstraße 16, sichern
+- TOP 12.16: Gamification für Mittes Ämter
+- TOP 12.17: Rassisten in ihre Schranken weisen
+- TOP 12.18: Computerkurse für Senioren in der VHS Mitte einführen
+- TOP 12.19: Bebauung südlich Ifflandstraße vereinbar mit der Erhaltungssatzung?
+- TOP 12.20: Unternehmerinnen und Unternehmer nichtdeutscher Herkunft unterstützen II
+- TOP 12.21: Benennung einer öffentlichen Straße im Ortsteil Moabit, Bebauungsplan II – 201 db am Humboldthafen zwischen den Baufeldern H3 und H4
+- TOP 13: Dringliche Entschließungen
+- TOP 14: Entschließungen
+- TOP 15: Anträge/Beschlussempfehlung
+- TOP 15.1: Bebauungsplan III-213a neu aufstellen um Wohnungsbau zu ermöglichen
+- TOP 15.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.3: Ehemalige Sportwiesen wieder dem Breitensport zuführen
+- TOP 15.4: Schnupperangebot der Musikschule insbesondere für geflüchtete Menschen schaffen
+- TOP 15.5: Bebauungsplan I-58b auf der Fischerinsel festsetzen
+- TOP 15.6: Mieterschutz ernst nehmen – Umfassende Informationen zu Anträgen auf Umwandlung in Wohneigentum bereitstellen
+- TOP 15.7: Prüfung von bezirklichen Handlungsmöglichkeiten für den „Milan Urban Food Policy Pact
+- TOP 15.8: Erlass einer Katzenschutzverordnung mit Aufnahme Kastrations- und Kennzeichnungspflicht in Berlin
+- TOP 16: Vorlagen zur Kenntnisnahme
+- TOP 16.1: Bibliotheksplanung in Moabit
+- TOP 16.2: Altkleider sammeln mit Konzept - Aufstellung von Altkleidersammelcontainern in Mitte ausschreiben
+- TOP 16.3: Angebote der Bibliotheken und der Volkshochschule für Seniorinnen und Senioren verbessern
+- TOP 16.4: Sondersozialkommission für Flüchtlinge einrichten
+- TOP 16.5: Machbarkeitsstudie zur Vergrößerung der Bruno-Lösche-Bibliothek
+- TOP 16.6: Verkehrssicherheit im Umfeld der Leo-Lionni-Grundschule erhöhen
+- TOP 16.7: Fußgängerüberweg Ungarnstraße 75
+- TOP 16.8: Bauvorhaben Bachstraße 1-2: Wohnungsbauvorhaben gemäß Ergebnis des städtebaulichen Wettbewerbs endlich umsetzen
+- TOP 16.9: Patenschaften für Flüchtlingskinder im Bezirk
+- TOP 16.10: Berufspraktika für geflüchtete Menschen
+- TOP 16.11: Leerstehenden Wohnraum für Flüchtlinge nutzen
+- TOP 16.12: Café Leo nicht über den Jordan
+- TOP 16.13: Belegrechte im Haus Holon nutzen - geflüchtete oder obdachlose Menschen unterbringen
+- TOP 16.14: Fahrradstellplätze für die Grundschule am Arkonaplatz
+- TOP 16.15: Verbesserung der Verkehrssicherheit vor der Grundschule am Arkonaplatz
+- TOP 16.16: Keine weiteren Übertragungen von Jugendfreizeiteinrichtungen (JFE)
+- TOP 16.17: Bundesfreiwilligendienst mit Flüchtlingsbezug
+- TOP 16.18: Keine Härtefallregelung ab 01.08.2016 nach dem "Berliner Spielhallengesetz"
+- TOP 16.19: Zusätzlicher Halt der Linie TXL an der Haltestelle Invalidenpark
+- TOP 16.20: Bärgida-Demonstrationsroute nicht am LAGeSo vorbeiführen
+- TOP 16.21: Umwidmung einer Wegeverbindung auf der Fischerinsel
+- TOP 16.22: Ergänzung der Fahrradabstellanlage an der Wilhelmshavener Straße
+- TOP 16.23: Verantwortliches öffentliches Handeln beim Vera-Brittain-Ufer
+- TOP 16.24: Kita Sonnenstern nicht allein lassen
+- TOP 16.25: Interessenbekundungsverfahren für den Betrieb eines Imbiss-Kioskes auf dem Leopoldplatz in Berlin Mitte aussetzen
+- TOP 16.26: Barrierefreien Notruf bekannt machen
+- TOP 16.27: Milieuschutz in Mitte: Beobachtungsgebiete nicht nur aus dem Rathaus beobachten II
+- TOP 16.28: Fahrradständer am Hansaplatz
+- TOP 16.29: Buddy-Bär-Ausstellung temporär Platz zur Verfügung stellen!
+- TOP 16.30: Kein Formel E Rennen „FIA Formel E Championship 2016“ auf der Karl-Marx-Allee
+- TOP 16.31: Entwicklung der Bürgerbeteiligungskultur im Bezirk Mitte - Beauftragung eines Dienstleisters mit dem Ziel der Entwicklung von Leitlinien der Bürgerbeteiligung
+- TOP 16.32: Aufstellung des Bebauungsplans I-57-1 "Monbijoutheater" und die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB und die Beteiligung der Behörden gemäß § 4 Abs. 2 BauGB
+- TOP 16.33: Die Entwicklung und Verwendung von Stiftungsmitteln der "Conrad-Stiftung Bürger* für Mitte" im Haushaltsjahr 2015
+- TOP 16.34: Beschluss über die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB für den Entwurf des Bebauungsplanes 1-22B
+- TOP 16.35: Beschluss über die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB für den Entwurf des Bebauungsplanes 1-32B
+- TOP 16.36: Beschluss über die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB für den Entwurf des Bebauungsplanes 1-28B
