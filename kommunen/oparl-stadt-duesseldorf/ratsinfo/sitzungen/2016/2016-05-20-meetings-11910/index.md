@@ -1,0 +1,54 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-05-20T14:00:00+02:00
+- Ende: 2016-05-20T19:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11910
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11910
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00266691.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00266691.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00266691.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 04/2016 vom 22.04.2016 - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: "Essbare Stadt" - zur Kenntnis genommen
+- TOP 5: Spielplatzrenovierungen Schwanenmarkt
+- TOP 6: Gebäude am Ende des Spielplatzes Spichernplatz - beantwortet
+- TOP 7: Aschenbecher für die Altstadt - beantwortet
+- TOP 8: Gustaf-Gründgens-Denkmal - beantwortet
+- TOP 9: Turm auf dem Grabbeplatz - beantwortet
+- TOP 10: Großbrand auf dem Gelände der Ulmer Höh' - beantwortet
+- TOP 11: „Rivertime“ am Burgplatz bald in neuem Glanz? - beantwortet
+- TOP 12: Evaluation und Weiterentwicklung der Rheinbahnlinie 708
+- TOP 13: Zustand der Kulturgebäude im Stadtbezirk 1
+- TOP 14: Gustaf-Gründgens-Platz - Bürgerinformationsveranstaltung - einstimmig beschlossen
+- TOP 15: B-Plan Nr. 01/008 Klosterstraße/Oststraße. Offenlagebeschluss+Aufstellungsbeschluss. Verfahren nach - mehrheitlich beschlossen
+- TOP 16: Kasernenstraße 49 - Abbruch des Bürogebäudes - einstimmig beschlossen
+- TOP 17: Oberflächenumbau Am Wehrhahn - zur Kenntnis genommen
+- TOP 18: NRW-Tag 2016 - zur Kenntnis genommen
+- TOP 19: Umbenennung des E.ON-Platz in Ulrich-Hartmann-Platz - vertagt
+- TOP 20: Trödelmärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2016 - einstimmig beschlossen
+- TOP 21: Baumartenwahl für die Königsallee - zur Kenntnis genommen
+- TOP 22: Konzert des AURORE e. V. im Ehrenhof - einstimmig beschlossen
+- TOP 23: WIU-Fest im Ehrenhof - einstimmig beschlossen
+- TOP 24: Feierlichkeit der Staatskanzlei im Rahmen "70 Jahre NRW" im Ehrenhof - einstimmig beschlossen
+- TOP 25: Rochusmarkt besser kontrollieren - mehrheitlich abgelehnt
+- TOP 26: Rochusmarkt: Stromkabel richten - einstimmig beschlossen
+- TOP 27: Worringer Platz - einstimmig beschlossen
+- TOP 28: Tempo 30-Zone auf der Nordstraße - mehrheitlich beschlossen
+- TOP 29: Kenntlichmachung der Fußgängerzone am Dreieck auf der Nordstraße - mehrheitlich beschlossen
+- TOP 30: Mobile Geschwindigkeitsanzeigetafeln im Stadtbezirk 1 - mehrheitlich beschlossen
+- TOP 31: Zustand Bahnhof Derendorf - einstimmig beschlossen
+- TOP 32: Museumsreform Düsseldorf - einstimmig beschlossen
+- TOP 33: Ideenwettbewerb zur Gestaltung des Bolker Sterns - einstimmig beschlossen
+- TOP 34: Schirmerstraße zur Einbahnstraße erklären - mehrheitlich beschlossen
+- TOP 35: Erstellung eines Katasters für mögliche Gebäudeaufstockungen - zurückgezogen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - einstimmig beschlossen
