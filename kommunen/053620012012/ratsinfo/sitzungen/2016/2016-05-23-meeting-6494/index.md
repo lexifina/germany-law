@@ -1,0 +1,60 @@
+# Hauptausschuss (40. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-05-23T18:00:00+02:00
+- Ende: 2016-05-23T19:06:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfGHf1b4yw9eK9MBwVTpcGo
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6494
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjM7SQXGx1OKAWv42yyW2Ay9GgROKNo81uHwaFD4DXF/Bekanntmachung_Hauptausschuss_23.05.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe7Q5Hi-3lafkRI-BScrIiKBDRL2ZDtAZzPxxesybnm3/Oeffentliche_Niederschrift_Hauptausschuss_23.05.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 11.04.2016
+- TOP 2.: Sondersatzung Steinweg - (kein Text vorhanden)
+- TOP 3.: 1. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule an den Grundschulen der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.: Bürgerantrag zur Benennung einer Straße nach Hedwig Gries Bezug: Antrag gem. § 24 GO NW vom 19.04.2016
+- TOP 4.1: Bürgerantrag zur Benennung einer Straße nach Hedwig Gries - (kein Text vorhanden)
+- TOP 5.: Einrichtung eines Kommunalen Ordnungsdienstes im Schichtdienstbetrieb - (kein Text vorhanden)
+- TOP 6.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 6.1: überplanmäßiger Mehraufwand - Pensionsrückstellungen - (kein Text vorhanden)
+- TOP 6.2: Überplanmäßige Aufwendung und Auszahlung Kreisumlage und damit verbundene Steuerbelastung - (kein Text vorhanden)
+- TOP 6.3: Überplanmäßige Ausgabe für die Ausstattung von weiteren Unterkünften zur Flüchtlingsunterbringung Außerplanmäßige Ausgaben für den Sicherheitsdienst in Flüchtlingsunterkünften - (kein Text vorhanden)
+- TOP 6.4: Haushaltskonsolidierung Bezug: Antrag der FDP-Fraktion vom 19.05.2016 - (kein Text vorhanden)
+- TOP 7.: Bestellung von Vertretern der Stadt Brühl zur Wahrnehmung von Mitgliedschaftsrechten hier: Wasser- und Bodenverband Brühl-Schwadorf - (kein Text vorhanden)
+- TOP 8.: Mitteilungen
+- TOP 8.1: Kunstrasenplatz Vochem
+- TOP 8.2: Flüchtlingszahlen
+- TOP 8.3: Ergänzung zu Vorlage 144/2016 überplanmäßiger Mehraufwand Pensionsrückstellungen
+- TOP 9.: Anfragen
+- TOP 9.1: Corporate Identity – Linie der Stadt Brühl Bezug: Anfrage der CDU-Fraktion vom 22.04.2016
+- TOP 9.1.1: Corporate Identity – Linie der Stadt Brühl Corporate Identity - Linie der Stadt Brühl hier: Anfrage der CDU-Fraktion vom 20.4.2016 - (kein Text vorhanden)
+- TOP 9.2: Platzbedarf FH Bund
+- TOP 9.3: Rückbau Kreisel Kaiserstr.
+- TOP 9.4: RWE-Gelände
+- TOP 9.5: Finanzielle Situation aufgrund Flüchtlingslage
+- TOP 9.6: Zwischenbilanz zum Haushalt 2016
+- TOP 9.7: Kamera in Brühl-Ost
+- TOP 9.8: Spielfläche Containerdorf Brühl-Ost
+- TOP 9.9: Aufkommen von Straftaten im Zusammenhang mit Flüchtlingen
+- TOP 9.10: Öffnung Übergänge Bahnseitenweg
+- TOP 9.11: Wahlbenachrichtigung zum Ratsbürgerentscheid
+- TOP 9.12: Zählung wegen Hundesteuer
+- TOP B): Nichtöffentliche Sitzung
+- TOP 10.: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 11.: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 12.: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 13.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 14.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.: Mitteilungen
+- TOP 15.1: Erläuterungen zum kommunalen Ordnungsdienst im Schichtbetrieb
+- TOP 15.2: Straßenbenennung
+- TOP 16.: Anfragen
+- TOP 16.1: WLAN in den Fraktionszimmern
+- TOP 16.2: Gleichstellungsbeauftragte
+- TOP 16.3: AÖR Sitzung am 01.06.2016
