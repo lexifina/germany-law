@@ -1,0 +1,8 @@
+# TOP 8.2: Modellprojekte in den Bezirken zum Schulneubau so schnell wie möglich starten (Antrag der CDU Fraktion)
+
+- Sitzung: 40. öffentliche Sitzung des Ausschusses für Facility Management 26. öffentliche Sitzung des Unterausschusses Bibliotheken (2016-05-24)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=42130
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=42130
