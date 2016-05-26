@@ -1,0 +1,73 @@
+# 46. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-05-26T16:30:00+02:00
+- Ende: 2016-05-26T19:05:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4498
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4498
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=116399
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-53 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Gedenkstätte Köpenicker Blutwoche durch gut sichtbare und lesbare Wegweiser kenntlich machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Bedarfsplanung zur ärztlichen Versorgung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Wohnbebauung auf dem Gelände des B-Planes 9-58 (Rathenau-Hallen) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Sondermittel für Industriesalon Schöneweide Forum für Industrie-Technik-Kultur e. V. (SM 1103) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Sondermittel für den Freundeskreis Brücke der Herzen (SM 1306) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Sondermittelantrag der RodewaldFoest Produktion GbR (SM 13-26) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.4: Sondermittelantrag der Theatergruppe "Die Immergrünen" (SM 14-29) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Sondermittelantrag des Kunstfabrik e. V. (SM 13-32) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.6: Sondermittel für Schlossplatztheater / Alte Möbelfabrik (SM 14-07) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.7: Sondermittel für den Kungerkiezinitiative e. V. (SM 14-35) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.8: Sondermittel für die DLRG Treptow-Köpenick (SM 15-20) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.9: Sondermittel für den Verein FiPP e. V. (SM 15-33) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.10: Radweg am Treptower Spreeufer - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den SV Turbine Berlin, Abt. Schach (SM 16-04) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für den Allende 2 hilft e. V. (SM 16-22) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Dr. Kurt Wernicke, Heinrich Langmaack, Andreas Hempel (SM 16-31) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für die KungerKiezinitiative e. V. (SM 16-32) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für die Stiftung SPI/GB Stadtentwicklung, Ausnahme & Regel, Treffpunkt Strohhalm (SM 16-33) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Planreifeerklärung zur Beschlussfassung - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Lokalen Buchhandel stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Information über die nachteiligen Umweltwirkungen von Terrassenheizstrahlern - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Maßnahmen zur verkehrlichen Strukturierung der Kiefholzstraße zwischen Lohmühlen- und Bouchéstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Schöneweide als Wissenschafts-, Wirtschafts-, Technologie- sowie Kunst- und Kulturstandort stärken - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Unterstützung von Ehrenamtlichen zum Aufbau freier Netze in und um Flüchtlingsunterkünfte - zurückgezogen
+- TOP 12.7: Erhalt des Theaters Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Unfallfreie Wendemöglichkeit unter der Brücke über Edisonstraße / Treskowallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Belebung Griechischer Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Besucher des Deutschen Evangelischen Kirchentags unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mehrgenerationenhaus Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Luftmessstationen einrichten - überwiesen
+- TOP 14.3: Budgetzuweisung für Schulen des Bezirks im Haushaltsjahr 2017 - überwiesen
+- TOP 14.4: Parken Straße An der Wuhlheide - überwiesen
+- TOP 14.5: Internet für Flüchtlingsunterkünfte - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Sichere Querung Fürstenwalder Damm - überwiesen
+- TOP 14.7: Grab der Eheleute Ratsch erhalten - überwiesen
+- TOP 14.8: Zwischen- und Schlussberichte des Bezirksamtes - überwiesen
+- TOP 14.9: Schöner Parken und Leben am ehemaligen Görlitzer Bahndamm - überwiesen
+- TOP 14.10: Unterführung am Bahnhof Hirschgarten - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Einwohnerantrag Bohnsdorfer Kreisel - überwiesen
+- TOP 14.12: Geflüchtete Menschen aus der Notunterkunft in der Glienicker Straße in ihrem sozialen Umfeld belassen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
