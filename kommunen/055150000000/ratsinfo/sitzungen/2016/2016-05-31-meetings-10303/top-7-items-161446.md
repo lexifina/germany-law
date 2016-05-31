@@ -1,0 +1,8 @@
+# TOP 7: Bürgerumfrage 2016: Zentrale Ergebnisse zu den Fragenkomplexen "Ziele der Stadtentwicklung / Einflussfaktoren bis 2030", "Bewertung der Lebensbedingungen" und Einkaufsstandort Innenstadt / Auswirkungen des Online-Handels"
+
+- Sitzung: Sitzung (2016-05-31)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/161446
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/60393
