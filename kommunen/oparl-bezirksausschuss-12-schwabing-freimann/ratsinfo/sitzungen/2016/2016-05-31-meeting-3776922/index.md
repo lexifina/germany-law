@@ -1,0 +1,115 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-05-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776922
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776922
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Änderung der BA-Satzung und der BA-Geschäftsordnung
+- TOP .2.: Stärkung der Stadtbezirke, Antwortschreiben des Oberbürgermeisters
+- TOP 10.3.: Anhörungen
+- TOP 9.1.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien, BA-Antrags-Nr 14-20 / B 01899 des BA 17 ? Obergiesing-Fasangarten vom 08.12.2015.
+- TOP 9.2.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohngen in Erhaltungssatzungsgebieten, BA-Antrag Nr. 14-20 / B 01903 des Bezirksausschusses 2 ? Ludwigsvorstadt-Isarvorstadt
+- TOP 10: sonstiges
+- TOP 10.1.: Schnelle Lösung für den Hort der Schule an der Burmesterstraße (Initiative: Marianne Weinzierl)
+- TOP 10.1.: Anzeige für öffentliche Vergnügungsveranstaltungen, Gottesdienst im Grünen am 30.07.2016 von 09.00 ? 16:00, Sondermeier Straße, gelegen zw. Leinthaler- und Floriansmühlstr. , Advent-Gemeinde München-Nymphenburg
+- TOP 10.2.: Antrag auf Festsetzung einer Veranstaltung gemäß §69 Gewerbeordnung, Münchner Freiheit, Anhörungsverfahren für den Kunsthandwerkermarkt vom 17.06. - 20.06.2016
+- TOP 10.6.: Anzeige für öffentliche Vergnügungsveranstaltungen, Quartiersflohmarkt Nikolaiplatz/Schwabing, 11.06.2016 10 ? 16 Uhr, bei Dauerregen eine Woche später. Grünanlage Nikolaiplatz
+- TOP 10.3.: Anzeige für öffentliche Vergnügungsveranstaltungen, Picknick im Park im Park an der Oscar-SchlemmerStraße auf Höhe des Hotels Ibis am 18.06.2016 von 15.00-22.00 Uhr
+- TOP 10.4.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Grund, Streetlife Festival /Corso Leopol
+- TOP 10.5.: Anzeige für öffentliche Vergnügungsveranstaltungen, öffentlicher Fußballplatz hinter der Sportanlage FC Alte Heide, Guerickestr.
+- TOP 10.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 10.1.: ?Hamptons Grill + Bar?, Aumeisterweg 10, 80805 München
+- TOP 10.2.: ?Iceguerilla?, Leopoldstr. 19, 80802 München
+- TOP 10.1.: Spielbusse 2016, Antwortschreiben
+- TOP 10.2.: Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich ?Förderung freier Träger? des Stadtjugendamtes Neufassung der Haushalts-/Zuschussliste, Sitzungsvorlagennr. 14-20 / V 05980
+- TOP 10.3.: Information über neue Bädereintrittspreise
+- TOP 10.4.: Betreuungssituation an der Grundschule an der Gertrud Grunow-Straße, Antwortschreiben des Referates für Bildung und Sport
+- TOP 10.5.: Anmeldung der Versammlung ?Behörden u. Justizwillkür, Grund u. Menschenrechte? am 1. Juli, 2. Juli, 20. September 2016
+- TOP 10.6.: Ausnahmegenehmigung für die Spielaktionen und Bewegungsangebote für Kinder und Jugendliche, Aufbau eines Zeltes und zweier Biertischgarnituren, Haidpark Freimann, zwischen Admiralbogen und Am Kiefernwald.
+- TOP 10.7.: Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 23. Stadtbezirkes, Sitzungsvorlagennummer 14-20 / V 05389
+- TOP 10.1.: Baumschutzverordnung, geändertes Verfahren zur Kontrolle angeordneter Ersatzpflanzungen. (Initiative: Dietrich Keitel)
+- TOP 10.1.: Herzogstr. 1, 80803 München, Entscheidung über die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Flächenerweiterung)
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Guerickestr. 2, Fln.Nr. 940/0, Neubau Interimsgebäude für eine mobile Schulraumeinheit-Grundschule
+- TOP 10.2.: Margarete-Schütte-Lihotzky-Str. , Fl.Nr. 880/153, Neubau eines Jugendspielplatzes (Domagkpark)
+- TOP 10.3.: Leopoldstraße 144-144b, Fl.Nr. 906/0, Neubau einer Wohnanlage (temporäres Wohnen) einschl. Einzelhandelseinrichtung und Tiefgarage - Vorbescheid, 3 Eschen, 8 Robinien, 1 Eberesche, 1 Mehlbeere, 5 Ahorn, 3 Weiden, 1 Birne
+- TOP 10.4.: Herbert-Bayer-Str. 3, Fl.Nr. 844/17, Neubau eines Produktions- und Bürogebäudes mit Tiefgarage (Herbert-Bauer-Str. 3 / Wilhelm-Wagenfeld-Str. 7-11) mehrere Bäume gemäß Baumbestandsplan.
+- TOP 10.1.: Werner-Eck-Bogen 33-39, Fahrbahn und Busbucht, Erinnerungsverfahren
+- TOP 10.2.: Erinnerungsverfahren, Karl-Theodor-Str. 2-34, ab Leopoldstr. Bis Hausnr. 29
+- TOP 10.3.: Seestr. 5, Fl.Nr. 139/0, Erweiterung des Bestands und Neubau eines Einfamilienhauses, Vorbescheid
+- TOP 10.4.: Ursulasr. 4, Fl.Nr. 207/10, Abbruch Garagen, Neubau Rückgebäude, Vorbescheid
+- TOP 10.5.: Heidemannstr. 1, Fl.Nr. 228/18, Nutzungsänderung Verkaufsfläche EG zu Vergnügungsstätte / Wettbüro mit Verweildauer und Erstellen von vier zusätzlichen Stlp. - Vorbescheid
+- TOP 10.6.: Antrag für Sitzgelegenheit, Marchgrabenplatz 12
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Carl-Orff-Bogen 126-134, Wolf-Ferrari-Weg 2-8, Fl.Nr. 222/22, 1 Vogelkirsche
+- TOP 10.2.: Osterwaldstr. 71, 1 Silberahorn, 1 Lärche.
+- TOP 10.3.: Floriansmühlstr. , Fl.Nr. 574/1, 5 Ahorn
+- TOP 10.1.: Gesamtkonzept für das südliche Vorfeld der Fröttmanninger Heide zwischen Fürst-Wrede-Kaserne und Kieferngartensiedlung und Flächenübernahme zur Umsetzung des Gesamtkonzepts, Sitzungsvorlagennummer 14-20 / V 04716
+- TOP 10.2.: Neue Förderkategorie im Wohnungsbau, Klein-Wohnungen realisieren, Sitzungsvorlagennummer 14-20 / V 05662
+- TOP 10.3.: Perspektive München, Münchner Stadtteilstudie ? Fortschreibung 2015, Sitzungsvorlagennummer 14-20 / V 05569
+- TOP 10.4.: Wohnen in Münches V, Erfahrungsbericht für das Jahr 2015, Sitzungsvorlagennummer 14-20 / V 05855
+- TOP 10.5.: Workshop zur Neugestaltung der Münchner Freiheit, Antrag NR. 08-14 / B 01671 des BA 12
+- TOP 10.6.: Eröffnungsfeier Wedekindplatz am 07.05.2016, Bescheid
+- TOP 10.7.: Wohnungsbauatlas für München und die Region, Sitzungsvorlagennummer 14-20 / V 05936
+- TOP 10.8.: A) Studien zu energetischen Standards vorstellen, Antrag Nr. 14-20 / V A 01470 B) Kostengünstig bauen in einer Großstadt ? Modellprojekt der GWG Situngsvorlagennr. 14-20 / V 05989
+- TOP 10.9.: Heute nicht für gestern planen 5 intelligente bauliche Lösungen für den Schallschutz Antrag Nr. 14-20 / A 01495, Sitzungsvorlagennr. 14-20 / V 04973
+- TOP 10.10.: Beschlussvollzugskontrolle (BVK), Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für sTadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2015 ? 31.12.2015, Sitzungsvorlagennr. 14-20 / V 05466
+- TOP 10.11.: Generalinstandsetzung 3-zügige Grundschule mit 4-gruppigem Tagesheim, Sportnutzung und Interimsbauten Fröttmaninger Straße 21 im 12. Stadtbezirk Schwabing-Freimann, Sitzungsvorlagennr. 14-20 / V 05540
+- TOP 10.12.: Kanalbau, ?RS Schwabing-Freimann (Nord)? Inspektionsgebiete 1059-44/46 u.a. Gesamtkosten (Reparatur- und Renovierungskosten): 500.000,-?
+- TOP 10.13.: Gewerbegebiet Parkstadt Schwabing; Vergabe einer städtischen Gewerbefläche an der Georg-Muche-Straße
+- TOP 10.14.: BA-Antrag Nr. 08-14 / B 05572, Zwischennachricht
+- TOP 10.15.: BA-Antrag Nr. 14-20 / B 00687, Zwischennachricht
+- TOP 10.16.: 1. Bebauungsplan mit Grünordnung Nr. 2024 Lilienthalallee (westlich), Maria-Probst-Straße (östlich), Herstellung der öffentlichen Verkehrsflächen (Teil A) im 12. Stadtbezirk Schwabing-Freimann, Bedarfs- und Konzeptgenehmigung 2. Neubau einer Geh- und Radwegverbindung zwischen der U-1678 und der Maria-Probst-Straße (Teil B) im 12. Stadtbezirk Schwabing-Freimann, Bedarfs- und Konzeptgenehmigung Sitzungsvorlagennummer 14-20 / V05118
+- TOP 10.17.: Protokoll vom Ortstermin in der Freisinger Landstraße am 06.04.2016
+- TOP 10.18.: Verbindungsstraße mit Bahnübergang zwischen Maria-Probst-Straße und Lilientahlallee im 12. Stadtbezirk, Sachstand zum Genehmigungsverfahren, Sitzungsvorlagennummer 14-20 / V 04965
+- TOP 10.20.: Beschluss der Vollversammlung, Pläne zur Tram-Nordtangente weiter verfolgen Antrag Nr. 14-20 / A 01357, Sitzungsvorlagennr. 14-20 / V 04690
+- TOP 10.1.: Infoschreiben bzw. Flyer bezüglich der Regelungen für den Naturschutz auf der Fröttmaninginger Heide. Ratschläge für den Erwerb eines Hundeführerscheins. (Initiative: Bündnis 90 / Die Grünen)
+- TOP 10.1.: KiClub Kindertagesstätte in der Leopoldstraße 252, Anfahrtszone für Eltern
+- TOP 10.1.: Erinnerungsverfahren, Leopoldstraße Radwegsanierung Nahmobilitätspauschale, zw. Haus Nr. 5 bis 136 Teilflächen
+- TOP 10.1.: Lützelsteiner Straße, Unterstützung für ein Halteverbot
+- TOP 10.2.: Lützelsteiner Straße 10-16, derzeitige Parksituation überprüfen, diverse Bürgerschreiben
+- TOP 10.1.: Einrichtung von Elektro-Carsharing-Plätzen in den Parklizenzgebieten, BA-Antrags-Nr. 14-20 / B01840 vom 24.11.2015
+- TOP 10.1.: Leinthalerstr.10-30, (zwischen Begonienstr. Und Libellenstr.), Reparatur Fernwärmeleitung
+- TOP 10.3.: Feilitzschstr, hier: Straßenneubau zwischen der Gunezrainerstr. Und der Biedersteiner Str.)
+- TOP 10.1.: Vollzug der Naturschutzgesetze; Inkrafttreten der Naturschutzgebietsverordnung ?Südlichen Fröttmaninger Heide? in der LHM und im Landkreis München sowie der Verordnung zur Beschränkung der Erholung in der freien natur aus Sicherheitsgründen im Naturschutzgebiet ?Südliche Fröttmaninginger Heide? in der LHM und im Landkreis München
+- TOP 10.2.: Mehrjahresinvestitionsprogramm 2016-2020, Anhörung der Bezriksausschüsse
+- TOP 10.3.: Bescheid der LHM, Münchner Blade Night 2016 vom 16.05. bis einschl. 05.09.2016
+- TOP 10.4.: Ökologischer Kriterienkatalog, Fortschreibung 2016, Sitzungsvorlagennummer 14-20 / V 02989
+- TOP 10.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Kunst im Karrèe 2016 am 09./10.07.2016
+- TOP 10.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Erlöserkirche München-Schwabing Stand und Programm "Kreis der Religionen" auf dem Corso Leopold am 11./12.06.2016
+- TOP 10.3.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion 2016 im August/September 2016
+- TOP 10.4.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Freizeittreff Freimann Spielefest am 03.08.2016
+- TOP 10.2.: Fortführung des Kinderprojekts ?Fahrender Raum? (Initiative: Johannes Trischler)
+- TOP 10.5.: Gewährung eines Zuschusses aus dem Budget des BA 12 in Höhe von 1.310,52 ? an die Magda Bittner-Simmet Stiftung für die Publikation über die Münchner Malerin Magda Bittner-Simmet
+- TOP 10.7.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund, School's cover Jam 2016, Münchner Freiheit, 29.07.2016
+- TOP 10.1.: Auslagerung der Städtischen Kindertagesstätte Haimhauserstraße 17, Antwort auf den Antrag Nr. 14-20 / B 02158 vom 15.03.2016
+- TOP 10.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.: Entscheidung über Sondernutzungserlaubnis, Antrag auf Flächenerweiterung ambulanter Händler, Hohenzollernstr. 2, Seite Leopoldstr.
+- TOP 10.5.: Leopoldstr. 59-61, Fl.Nr. 358/0, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage ? Vorbescheid (3 Var.), Baufällungen gemäß Plan
+- TOP 10.21.: - entfällt -
+- TOP 10.22.: Leistungsbilanzen der Hauptabteilungen Tiefbau und Gartenbau für den Stadtbezirk 12, Bezirksteil Freimann
+- TOP 10.5.: Liebergesellestraße zwischen Biedersteiner Straße und Jungwirthstraße; Vollständige Sanierung der Gehsteige und der Fahrbahn
+- TOP 10.1.: Anträge
+- TOP 10.5.: Unterrichtungen
+- TOP 10.2.: Entscheidungen
+- TOP 10.4.: Bürgeranliegen
+- TOP 10.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 10.5.3.: Sonstige Unterrichtungen
+- TOP 10.3.2.: Sonstige Anhörungen
+- TOP 10.5.: Maßnahmen für eine saubere Isar insbesondere Ergebnisse Runder Tisch ?Erholungsraum Isar? am 09.12.2015, Sitzungsvorlagennummer 14-20 / V 05605
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 10.4.: Anfahrtszone für die KiTa in der Haimhauserstr. 17
