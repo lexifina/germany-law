@@ -1,0 +1,88 @@
+# 40. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-06-01T17:30:00+02:00
+- Ende: 2016-06-01T21:35:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4595
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4595
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=72879
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachberufung eines stellvertretenden beratenden Mitgliedes des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VII. Wahlperiode. - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Nachberufung eines beratenden Mitgliedes des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Verordnung über die Veränderungssperre IV-23/11 für das Grundstück Ahlbecker Straße 16 (Gemarkung Prenzlauer Berg, Flur 318, Flurstück 316) im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Zentren- und Einzelhandelskonzept des Bezirkes Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Herstellung von öffentlichen Erschließungsanlagen gemäß § 125 Abs. 2 BauGB für die Grundstücke Blankenburger Straße 18-28 (Gewerbeareal Heinersdorf) sowie für die Anbindung dieser Fläche an die Blankenburger Straße im Bezirk Pankow, Ortsteil Heinersdorf - überwiesen
+- TOP 1.13: Kleinere Unterkünfte für Geflüchtete einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Kampagne "Handel(n) verbindet" unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Vorgaben für die weitere Entwicklung des Güterbahnhofs Greifswalder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Verkehrsberuhigung im Lindenberger Weg im Ortsteil Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Bordsteinabsenkung im Kissingenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Modulare Ergänzungsbauten (MEB) für Schulen im Bezirk Pankow - beantwortet
+- TOP 1.19: Würdigung von Professor Werner Klemke - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Wird in Pankow das Zweckentfremdungsverbot umgesetzt? - beantwortet
+- TOP 1.21: Zweckentfremdungsverbot in Pankow konsequent umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Umsetzungskonzept der Studie über Partizipationsmöglichkeiten und -hemmnisse von Migrantinnen und Migranten in Pankow - zurückgezogen
+- TOP 1.23: Sicherheit für Fußgänger an der Fahrbahnüberquerung Landsberger Allee, Höhe Fritz-Riedel-Straße verbessern - überwiesen
+- TOP 1.24: Absage eines städtebaulichen Wettbewerbs für den Bereich Güterbahnhof Greifswalder Straße / Lilli-Henoch-Straße? - beantwortet
+- TOP 1.25: Wird Grün in Prenzlauer Berg durch das Bezirksamt bekämpft? - beantwortet
+- TOP 1.26: Informationsschilder zur Dokumentenausgabe im Warteraum der Pankower Bürgerämter - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Verkehrliche Aspekte bei der Entwicklung des Areals um den Blankenburger Pflasterweg frühzeitig berücksichtigen - in der BVV abgelehnt
+- TOP 1.28: Güterbahnhof Greifswalder Straße Ost erhalten und entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Sanierung an der Tesla-Gemeinschaftsschule bedarfsgerecht durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Radverkehrslösung für den Caligariplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Entwicklung des Areals um den Arkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Wohnstraßen im Kiez um den Arnimplatz von Umleitungsverkehren entlasten - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Traglufthalle für Obdachlose - überwiesen
+- TOP 1.34: Gemeinnützige Arbeit im Grünflächenamt - überwiesen
+- TOP 1.35: Zusatz statt Ersatz – Kein Verzicht auf den Vivantes-Standort Prenzlauer Berg - überwiesen
+- TOP 1.36: Sicherheit für Radfahrer*innen und Fußgänger*innen auf der Eberswalder Straße auch am Wochenende - überwiesen
+- TOP 1.37: Müllsammelbehälter in der Hermann-Blankenstein-Straße - überwiesen
+- TOP 1.38: Sicherung von potentiellen Gewerbeflächen Pankows - überwiesen
+- TOP 1.39: Landschaftsschutzgebiet Blankenfelde schützen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Spielleitplan umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: B-Plan-Verfahren XIX-61 zur Sicherung der KGA Famos festsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Zentrale Erstberatung bei Diskriminierung in den Räumen des Bürgeramts Fröbelstraße 17 einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Schulwegsicherheit im Umfeld der Schulen verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Vorsorge für weiter wachsenden Bezirk treffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Benennung eines Platzes nach Prof. Werner Klemke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Elektromobilität II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Regelmäßiges Forum gegen Rechtsradikalismus in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Ukrainische Partnerstadt für Pankow - den Wandel begleiten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Bezirkliche Archive dauerhaft im Landesarchivgesetz verankern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Projekt "Pankower Tor" voranbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Evaluation der erhaltungsrechtlichen Genehmigungskriterien und ihrer Anwendung in den Milieuschutzgebieten Pankows - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Generationenspielplatz in der Stadtrandsiedlung Kappgraben mit einem Schwerpunkt Sport und Spiel für Erwachsene - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Pankow wird "Kinderfreundliche Kommune" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Ampelregulierung der Kreuzung Wolfgang-Heinz-Straße/Robert-Rössle-Straße und der Karower Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Freies WLAN für Geflüchtetenunterkünfte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Verkehrssicherheit im Rispenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Kein Rot ohne Not - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Verkehrssicherheit in Berlin-Blankenburg auf dem Karower Damm in Höhe der Treseburger Straße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Kavalierstraße 19/19a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Verkehrsregelung vor Notunterkünften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Ärztliche Erstversorgung in Notunterkünften für Geflüchtete sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: BVV bekräftigt Vorrang der Gesundheit: Tempo 30 in der nördlichen Berliner Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Sportvereine ohne Hallen - Alternativen und Ausgleich finden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Informationsveranstaltung zum Investorenprojekt Alter Schlachthof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Schulplatzversorgung in Französisch-Buchholz kurzfristig verbessern und langfristig sichern und weiterentwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Information zum Jahresabschlussergebnis 2015 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Gleichstellungspolitische Berichterstattung der Legislaturperiode 2011 bis 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Einstellung der Verfahren zur Aufstellung der Bebauungspläne XIX-3, XIX-16, 3-11, 3-24 und 3-28 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Herstellung von öffentlichen Erschließungsanlagen gemäß § 125 Abs. 2 BauGB für die Grundstücke Blankenburger Straße 18-28 (Gewerbeareal Heinersdorf) sowie für die Anbindung dieser Fläche an die Blanken-burger Straße im Bezirk Pankow, Ortsteil Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Bebauungsplan IV-45 für das Gelände zwischen Bahnanlagen, Schwedter Straße, Gleimtunnel und der Bezirksgrenze zum Bezirk Mitte im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
