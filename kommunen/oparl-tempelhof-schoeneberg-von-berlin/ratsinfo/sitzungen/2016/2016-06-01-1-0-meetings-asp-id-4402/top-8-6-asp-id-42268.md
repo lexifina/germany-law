@@ -1,0 +1,8 @@
+# TOP 8.6: Änderung der Ampelschaltung an der Bartnet- und der Grimmstraße in Lichtenrade
+
+- Sitzung: 64. öffentliche Sitzung des Hauptausschusses (2016-06-01)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=42268
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=42268
