@@ -1,0 +1,67 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-06-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818352
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818352
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Ackermannbogen e.V.: Kultur-Litfaßsäule am Stadtplatz Ackermannbogen (vertagt aus 04/16, Antragstellerinnen in den UA eingeladen)
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Schleißheimer Str. 204, ?Schämanns Metzgerei?: Genehmigung einer Freischankfläche
+- TOP .2.: Hohenzollernstr. 70, ?Azzurina?: Aufstellen einer Bambusstellage und eines Korbes
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Veranstaltungen des Willi-Graf-Gymnasiums im Luitpoldpark a) Spendenlauf am 21.07.2016 b) Sportfest am 25.07.2016
+- TOP .2.: Quartiersflohmarkt Ackermannbogen am 18.06.2016
+- TOP .3.: Bürgerfest der SPD am 23.07.2016 auf dem Elisabethplatz
+- TOP .2.1.: Planen
+- TOP .1.: Sailerstr. 11, Sanierung, Um- und Ausbau 2er Wohnkomplexe (82 WE + Stellplätze): a) Vordergebäude b) Rückgebäude
+- TOP .2.: Agnesstr. 16/RGB, DG-Ausbau mit 6 Gauben, Loggia und Aufzug
+- TOP .3.: Hohenzollernplatz 8, Entfernen einer tragenden Wand
+- TOP .4.: Tektur Elisabethstr. 91, Nutzungsänderung/Umbau eines Bürogebäudes zu Wohnungen, Anbau einer Doppelfassade (Wintergärten) zur Lärm- und Wärmeschutzertüchtigung, Anbau von Balkonen, Anbau einer Liftanlage im NW, An-/Einbau einer Lift- Treppenanlage im NO, Anbau von Abstellräumen im Keller, Erweiterung des Terrassengeschosses
+- TOP .5.: Bebauungsplan mit Grünordnung Nr. 1954 ? Schwere-Reiter-Straße (südöstlich), Infanteriestraße (südwestlich), St.-Barbara-Kirche (nordwestlich), Verlängerung Heßstraße (nordöstlich) inkl. Verkehrsflächen Verlängerung Heßstraße ? Kreativquartier an der Dachauer Straße/Schwere-Reiter-Straße Teilbereich Kreativfeld (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1009 b)
+- TOP .6.: Vorbescheid Theo-Prosel-Weg 1, Umbau und Aufstockung eines zweigeschossigen Gebäudeteils um drei Vollgeschosse und ein Staffelgeschoss (33 Studentenappartements + eine DG-Wohnung) und Nutzungsänderung eines Gewerbebetriebs in ein Studentenwohnheim
+- TOP .7.: Hohenzollernstr. 91, Fassadensanierung mit Neubau von Balkonen und DG-Ausbau
+- TOP .8.: Viktoriastr. 25, Teil-Nutzungsänderung eines Ladengeschäfts in Gastronomie (Ausschank von alkoholischen Getränken sowie Servieren von erwärmten Speisen)
+- TOP .9.: Franz-Joseph-Str. 38, Erweiterung einer Büroeinheit ins DG mit Wohnnutzung, DG-Ausbau und -Sanierung mit zwei zusätzlichen Wohneinheiten, Errichtung eines Balkons mit Fluchtleiter und -treppe aus dem EG ins Freie, Erneuerung der Aufzugsanlage im Treppenauge
+- TOP .10.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich I/36 Dachauer Straße (nordöstlich), Schwere-Reiter-Straße (südöstlich), Infanteriestraße (südwestlich), Heßstraße (südwestlich), Lothstraße (nordwestlich) ? Kreativquartier
+- TOP .11.: Bonner Str. 31-35, Neubau einer Wohnanlage (28 Wohneinheiten) mit Tiefgarage (52 Stellplätze) sowie Aufstockung eines Wohngebäudes (10 Wohneinheiten)
+- TOP .12.: Vorbescheid Fürstenbergstr. 4, Abbruch des Bestandsgebäudes und Neubau einer Wohnanlage mit Tiefgarage
+- TOP .13.: Burgunderstr. 4, Neubau eines Wohngebäudes (11 WE) und Tiefgarage
+- TOP .14.: Lothstr. 29, Herstellung eines Ausgangs ins Freie aus notwendigem Treppenhaus und Änderung der Büroraumstruktur
+- TOP .15.: Römerstr. 1, Errichtung eines Anbaus (Aufenthaltsraum)
+- TOP .16.: Adelheidstr. 31, Balkonsanierung und Anbau neuer Balkone
+- TOP .17.: Hohenzollernstr. 112, Anbau eines Balkons
+- TOP .18.: Tektur Schleißheimer Str. 91, DG-Neubau mit 3 Wohnungen, Anbau von Balkonen sowie Schließen der Loggien im 1. bis 5. OG
+- TOP .19.: Tektur Sailerstr. 4, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .20.: Tektur Therese-Studer-Straße, Neubau einer Wohn-Arbeits-Einheit
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Pflanzung eines beschädigten Baums gegenüber Hauseingang Giselherstr. 7
+- TOP .2.1.: Umwelt
+- TOP .1.: Friedrichstr. 27: Fällung einer Rosskastanie
+- TOP .2.2.: Verkehr
+- TOP .1.: Erinnerungsverfahren des Baureferats Tiefbau: Radwegsanierung in der Herzogstraße zwischen Fallmerayer- und Belgradstraße
+- TOP .2.: Bepflanzungskonzept für den Mittelteiler der Belgradstraße zwischen Scheidplatz und Petuelring
+- TOP 3.1.: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien, Anhörung zu einem Antrag des BA 17 ? Obergiesing-Fasangarten
+- TOP 3.2.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten Anhörung zu einem Antrag des BA 2 Ludwigsvorstadt-Isarvorstadt
+- TOP 3.1.: Piktogramm "Achtung Radfahrer" und rote Radwegmarkierung an der Kreuzung Elisabeth-/Hiltenspergerstraße
+- TOP 3.2.: Keine dauerhafte Belegung der Kindertagesstätte Lissi-Kaeser-Str. 13 durch ausgelagerte Gruppen aus der Haimhauserstr. 17
+- TOP .1.: (E) Budget der Bezirksausschüsse Verein für Internationale Jugendarbeit, Ortsverein München e.V. Teamfortbildung vom 10. - 12.06.2016
+- TOP .2.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 06.08. - 04.09.2016
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Kunst im Karrèe 2016 am 09./10.07.2016
+- TOP .2.: (E) Budget der Bezirksausschüsse Pflege von Kunst und Volkskultur URUCUNGO München e.V. Internationales Capoeira-Festival vom 29.04. - 01.05.2016
+- TOP 3: (E) Verkehrsberuhigung der Winzererstraße zwischen Hohenzollern- und Herzogstraße Empfehlung Nr. 14-20 / E 00610 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 08.10.2015
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
