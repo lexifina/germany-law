@@ -1,0 +1,6 @@
+# TOP 2.: Niederschrift vom 25.02.2016
+
+- Sitzung: Ausschuss für Arbeit, Soziales, Familie und Bevölkerungsentwicklung (9. Sitzung) (2016-06-01)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/38750
