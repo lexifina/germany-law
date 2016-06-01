@@ -1,170 +1,379 @@
-# 01.01.2014 – 28.06.2018
+# 01.06.2016 – 30.11.2017
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2014-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/13952.1
+- Datum: 2016-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11605.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
+A.
+
+Bestellung und Zuständigkeit
+
 I.
 
-Stiftungszweck
+Beamte der ersten Einstiegsebene der Laubahngruppe 2 oder vergleichbare Beschäftigte werden als Bezirksrevisoren bestellt
 
-Der Freistaat Sachsen stiftet als staatliche Anerkennung jeweils verbunden mit einer Verleihungsurkunde die Feuerwehr- und Helfer-Ehrenzeichen am Band für den langjährigen aktiven, ehrenamtlichen Dienst in der Freiwilligen Feuerwehr, im Rettungsdienst und in den Einheiten des Katastrophenschutzes und die Feuerwehr- und Helfer-Ehrenzeichen als Steckkreuz für besondere Verdienste um die Entwicklung des Brandschutzes, des Rettungsdienstes oder des Katastrophenschutzes sowie für besonders mutiges und entschlossenes Verhalten im Einsatz.
+1.
+
+beim Oberlandesgericht, den Landgerichten und den Präsidialamtsgerichten durch den Präsidenten des Oberlandesgerichts,
+
+2.
+
+beim Sächsischen Landesarbeitsgericht durch den Präsidenten des Sächsischen Landesarbeitsgerichts sowie
+
+3.
+
+beim Sächsischen Landessozialgericht durch den Präsidenten des Sächsischen Landessozialgerichts.
+
+Die Bestellung und Abberufung des Bezirksrevisors beim Oberlandesgericht erfolgt im Einvernehmen mit dem Präsidenten des Sächsischen Oberverwaltungsgerichts, dem Präsidenten des Sächsischen Finanzgerichts, dem Generalstaatsanwalt des Freistaates Sachsen und dem Präsidenten des Sächsischen Anwaltsgerichtshofs.
 
 II.
 
-Beschaffenheit, Gestaltung und Trageweise
-
-1.
-
-Ehrenzeichen am Band
-
-a)
-
-Das Feuerwehr-Ehrenzeichen am Band besteht aus einem gleichschenkligen, geprägten Kreuz an einem weiß-grün-weißen, bronze-, silber- oder goldfarben eingefassten Band. Auf der Vorderseite des Kreuzes ist mittig ein Flammenkreuz konturenhaft dargestellt. In der Mitte des Flammenkreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz und das Flammenkreuz sind rot emailliert und mit einem bronze-, silber- oder goldfarbenen Rand eingefasst. Die Rückseite trägt die Inschrift „Für langjährigen aktiven Dienst“. Die Bandschnalle ist mit einem bronze-, silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen.
-
-b)
-
-Das Helfer-Ehrenzeichen am Band besteht aus einem gleichschenkligen, geprägten Kreuz an einem weiß-grün-weißen, bronze-, silber- oder goldfarben eingefassten Band. Auf der Vorderseite der Schenkel des Kreuzes sind bronze-, silber- oder goldfarbene Eichenblätter dargestellt. In der Mitte des Kreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz ist weiß emailliert und mit einem bronze-, silber- oder goldfarbenen Rand eingefasst. Die Rückseite trägt die Inschrift „Für langjährigen aktiven Dienst“. Die Bandschnalle ist mit einem bronze-, silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen.
-
-2.
-
-Ehrenzeichen als Steckkreuz
-
-a)
-
-Das Feuerwehr-Ehrenzeichen als Steckkreuz besteht aus einem gleichschenkligen, geprägten schwarzen Kreuz. Auf der Vorderseite ist mittig ein rotes Flammenkreuz konturenhaft dargestellt. In der Mitte des Flammenkreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz und das Flammenkreuz sind emailliert und mit einem silber- oder goldfarbenen Rand eingefasst. Die Rückseite ist silber- oder goldfarben. Die Schenkel des Kreuzes verbindet ein silber- oder goldfarbener geprägter Kranz aus Eichenlaub. Die Bandschnalle ist mit einem silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen. In der Mitte ist ein silber- oder goldfarbenes Feuerwehremblem aufgesetzt.
-
-b)
-
-Das Helfer-Ehrenzeichen als Steckkreuz besteht aus einem gleichschenkligen, geprägten schwarzen Kreuz. Auf der Vorderseite der Schenkel sind silber- oder goldfarbene Eichenblätter dargestellt. In der Mitte des Kreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz ist emailliert und mit einem silber- oder goldfarbenen Rand eingefasst. Die Rückseite ist silber- oder goldfarben. Die Schenkel des Kreuzes verbindet ein silber- oder goldfarbener geprägter Kranz aus Eichenlaub. Die Bandschnalle ist mit einem silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen. In der Mitte sind zwei silber- oder goldfarbene Eichenlaubblätter aufgesetzt.
-
-3.
-
-Verleihungsurkunde
-
-Die Verleihungsurkunde trägt das Wappen des Freistaates Sachsen, die Unterschrift des Staatsministers des Innern sowie das Siegel des Staatsministeriums des Innern. Der dem Stiftungszweck entsprechende Auszeichnungsanlass ist aufgetragen.
-
-4.
-
-Trageweise
-
-Die Ehrenzeichen sind mittig auf der linken oberen Brustseite der Dienstkleidung in gleicher Höhe nebeneinander zu tragen. Das Ehrenzeichen am Band wird nur in der höchsten verliehenen Stufe (Ziffer III Nr. 1 Buchst. a) getragen. Die Bandschnalle des Ehrenzeichens ist oberhalb der linken Brusttasche jedoch nicht gemeinsam mit den Ehrenzeichen zu tragen. Mehrere Bandschnallen für die Dienstkleidung sind nebeneinander zu tragen.
+Die Erprobungszeit vor der Bestellung beträgt sechs Monate; sie kann verkürzt oder verlängert werden.
 
 III.
 
-Ehrenzeichen am Band
-
-1.
-
-Persönliche Voraussetzungen
-
-a)
-
-Das Feuerwehr-Ehrenzeichen am Band wird den Angehörigen der Freiwilligen Feuerwehren, das Helfer-Ehrenzeichen am Band den Mitarbeitern im Rettungsdienst und den Helfern im Katastrophenschutz jeweils in den Stufen Bronze für 10-jährigen, Silber für 25-jährigen und Gold für 40-jährigen aktiven ehrenamtlichen Dienst verliehen.
-
-b)
-
-Die aktive ehrenamtliche Dienstzeit muss ohne wesentliche Unterbrechung erfolgt sein. Wehrdienst, Wehrersatzdienst oder eine nachgewiesene Krankheit gelten nicht als Unterbrechung. Wurde die aktive ehrenamtliche Dienstzeit bei verschiedenen Organisationen nach Buchstabe a geleistet oder wurde sie unterbrochen, sind die Dienstzeiten zusammenzufassen. Bei Doppelzugehörigkeiten in Organisationen nach Buchstabe a wird das Ehrenzeichen nur für einen aktiven ehrenamtlichen Dienst verliehen. Vergleichbare aktive ehrenamtliche Dienstzeiten in anderen Ländern oder anderen Mitgliedstaaten der Europäischen Union werden auf Nachweis angerechnet. Zeiten einer haupt- oder nebenberuflichen Tätigkeit werden nicht berücksichtigt.
-
-2.
-
-Vorschlagsberechtigte
-
-Vorschlagsberechtigt sind
-
-a)
-
-für die Angehörigen der Freiwilligen Feuerwehren die Gemeinden,
-
-b)
-
-für die Mitarbeiter im Rettungsdienst die Rettungszweckverbände und die Landkreise und Kreisfreien Städte, die sich nicht zu einem Rettungszweckverband zusammengeschlossen haben,
-
-c)
-
-für die nicht unter Buchstabe a und b erfassten Helfer im Katastrophenschutz die Landkreise und Kreisfreien Städte,
-
-d)
-
-in den Fällen Buchstaben b und c können auch die privaten Hilfsorganisationen Vorschläge einreichen.
-
-3.
-
-Vorschlagsverfahren
-
-Die Vorschläge für das laufende Jahr sind der Landesdirektion Sachsen getrennt nach Stufen in einer Vorschlagsliste bis zum 31. Januar vorzulegen. Im Falle der kreisangehörigen Gemeinden und der privaten Hilfsorganisationen erfolgt zunächst bis zum 31. Dezember des Vorjahres die Vorlage an den Landkreis oder an die Kreisfreie Stadt. Diese bestätigen die Kenntnisnahme und leiten die Vorschlagslisten bis zum 31. Januar des laufenden Jahres an die Landesdirektion Sachsen weiter. Für die Einreichung der Vorschläge sind die von der Landesdirektion Sachsen vorgegebenen Vorschlagslisten zu verwenden. Die Landesdirektion Sachsen meldet dem Staatsministerium des Innern bis zum 28. Februar des laufenden Jahres den Bedarf an Ehrenzeichen.
-
-4.
-
-Entscheidung über die Auszeichnungsvorschläge
-
-Die Landesdirektion Sachsen entscheidet über die Vorschläge zur Verleihung der Ehrenzeichen am Band. Sie teilt ihre Entscheidungen den Vorschlagsberechtigten auf dem Dienstweg mit. Das Staatsministerium des Innern stellt nach Anforderung der Landesdirektion Sachsen die Ehrenzeichen und die Verleihungsurkunden bereit.
-
-5.
-
-Verleihung
-
-a)
-
-Die Feuerwehr-Ehrenzeichen am Band in der Stufe Bronze werden durch die Bürgermeister oder Oberbürgermeister ausgehändigt, die Feuerwehr-Ehrenzeichen in den Stufen Silber und Gold sowie die Helfer-Ehrenzeichen am Band in den Stufen Bronze, Silber und Gold durch die Landräte beziehungsweise Oberbürgermeister. Bei der Verleihung der Feuerwehr-Ehrenzeichen am Band sind die Kreisbrandmeister und die Leiter der Berufsfeuerwehren zu beteiligen.
-
-b)
-
-Die Übergabe nach Buchstabe a kann im Einzelfall durch den Staatsminister des Innern oder einen von ihm Beauftragten erfolgen.
-
-c)
-
-Dem Auszuzeichnenden ist mit dem Ehrenzeichen am Band die Verleihungsurkunde in einer dem Anlass entsprechenden Form zu übergeben. Zugleich soll der Dank nach der Verordnung des Sächsischen Staatsministeriums des Innern über die Gewährung von Jubiläumszuwendungen an ehrenamtlich Tätige in den Freiwilligen Feuerwehren, den Rettungsdiensten und den Einheiten des Katastrophenschutzes im Freistaat Sachsen (Sächsische BRK-Jubiläumszuwendungsverordnung –
-SächsBRKJubZVO) vom 16. März 2011 (SächsGVBl. S. 55), zuletzt geändert durch Verordnung vom 21. Mai 2013 (SächsGVBl. S. 339), ausgesprochen werden.
+Den Bezirksrevisoren können von den Präsidenten der Gerichte Prüfungsbeamte zur Unterstützung zugewiesen werden.
 
 IV.
 
-Ehrenzeichen als Steckkreuz
+Es sind zuständig
 
 1.
 
-Persönliche Voraussetzungen
-
-Die Feuerwehr- und Helfer-Ehrenzeichen als Steckkreuz werden für besondere Verdienste um die Entwicklung des Brandschutzes, des Rettungsdienstes oder des Katastrophenschutzes sowie für besonders mutiges und entschlossenes Verhalten im Einsatz verliehen. Im Einzelfall kann eine Verleihung postum erfolgen. Die Vorschläge müssen eine ausreichende Begründung der Verleihungsvoraussetzungen enthalten sowie eine Beurteilung der Persönlichkeit ermöglichen. Aus der Begründung für einen Vorschlag muss im besonderen Maße der außerordentliche Verdienst des für die Verleihung mit dem Ehrenzeichen als Steckkreuz Vorgeschlagenen hervorgehen. Sie sollten sich die besonderen Verdienste nicht nur in der eigenen Feuerwehr oder der Gemeinde und der Hilfsorganisation, sondern auch über deren Grenzen hinaus erworben haben. Die Aufzählung von Funktionen und damit verbundenen Aktivitäten reichen nicht aus.
-
-2.
-
-Vorschlagsberechtigte
-
-Vorschlagsberechtigt sind die unter Ziffer III Nr. 2 Genannten sowie der Präsident der Landesdirektion Sachsen, der Vorsitzende des Landesfeuerwehrverbandes, die Landräte, die Vertreter der Landesorganisationen der privaten Hilfsorganisationen und das Staatsministerium des Innern.
-
-3.
-
-Vorschlagsverfahren
+der Bezirksrevisor beim Oberlandesgericht
 
 a)
 
-Bei den Vorschlägen ist das Muster nach Anlage zu verwenden. Der Vorschlag ist schriftlich zu begründen. Die Vorschläge der Gemeinden, Landkreise und Kreisfreien Städte sind in zweifacher Ausfertigung auf dem Dienstweg der Landesdirektion Sachsen vorzulegen. Zu den Vorschlägen der kreisangehörigen Gemeinden haben der Kreisbrandmeister oder der Leiter der Berufsfeuerwehr Stellung zu nehmen, bei Vorschlägen zum Helfer-Ehrenzeichen der Landkreis beziehungsweise die Kreisfreie Stadt. Die Vorschläge des Vorsitzenden des Landesfeuerwehrverbandes sind der Landesdirektion Sachsen vorzulegen, bei Wohnorten außerhalb des Freistaates Sachsen dem Staatsministerium des Innern. Die Landesdirektion Sachsen nimmt zu den bei ihr eingereichten Vorschlägen Stellung und legt sie mit den eigenen Vorschlägen dem Staatsministerium des Innern vor.
+für das Oberlandesgericht,
 
 b)
 
-Wegen der herausragenden Bedeutung des Ehrenzeichens als Steckkreuz soll die Anzahl der jährlichen Verleihungen auf höchstens 60 Steckkreuze begrenzt werden. Von der Landesdirektion Sachsen können bis zu 45 Vorschläge in der Stufe Silber und bis zu 15 Vorschläge in der Stufe Gold eingereicht werden. Hiervon abweichende Regelungen können durch das Staatsministerium des Innern getroffen werden.
+für das Sächsische Oberverwaltungsgericht und die Verwaltungsgerichte,
+
+c)
+
+für das Sächsische Finanzgericht,
+
+d)
+
+für die Generalstaatsanwaltschaft,
+
+e)
+
+für den Dienstgerichtshof für Richter,
+
+f)
+
+für den Sächsischen Anwaltsgerichtshof,
+
+g)
+
+für das Landesberufsgericht für die Heilberufe sowie
+
+h)
+
+für das Landesberufsgericht für Architekten,
+
+2.
+
+die Bezirksrevisoren bei den Landgerichten für das Landgericht und die Amtsgerichte des jeweiligen Landgerichtsbezirks mit Ausnahme der Präsidialamtsgerichte sowie für die Staatsanwaltschaft am Sitz des Landgerichts, die Bezirksrevisoren beim Landgericht Leipzig darüber hinaus für das Richterdienstgericht,
+
+3.
+
+die Bezirksrevisoren bei einem Präsidialamtsgericht für das jeweilige Amtsgericht,
 
 4.
 
-Entscheidung und Verleihung
+der Bezirksrevisor beim Sächsischen Landesarbeitsgericht für das Sächsische Landesarbeitsgericht und die Arbeitsgerichte,
 
-Das Staatsministerium des Innern entscheidet über die Vorschläge zur Verleihung des Ehrenzeichens als Steckkreuz. Die Verleihung erfolgt durch den Staatsminister des Innern oder einen von ihm Beauftragten.
+5.
+
+der Bezirksrevisor beim Sächsischen Landessozialgericht für das Sächsische Landessozialgericht und die Sozialgerichte.
+
+B.
+
+Vertretung
+
+Mehrere Bezirksrevisoren eines Gerichts vertreten sich gegenseitig. Ist nur ein Bezirksrevisor bestellt, bestimmt der Präsident des Gerichts einen Beamten der ersten Einstiegsebene der Laubahngruppe 2 oder einen vergleichbaren Angestellten als Vertreter. Dabei kann die Vertretung auf mehrere Personen verteilt werden.
+
+C.
+
+Dienstaufgaben
+
+I.
+
+Den Bezirksrevisoren sind im Rahmen ihrer örtlichen Zuständigkeit folgende Dienstaufgaben als Hauptaufgaben übertragen:
+
+1.
+
+Vertretung der Staatskasse gemäß § 7 Absatz 1 Satz 1 Nummer 1 der Vertretungsverordnung in der Fassung der Bekanntmachung vom 10. April 2013 (SächsGVBl. S. 240), die durch Artikel 1 der Verordnung vom 24. September 2015 (SächsGVBl. S. 510) geändert worden ist, in der jeweils geltenden Fassung in Verfahren kostenrechtlicher Art, insbesondere:
+
+a)
+
+der Bewilligung von Prozess- und Verfahrenskostenhilfe,
+
+b)
+
+der Vergütung der beigeordneten und bestellten Rechtsanwälte,
+
+c)
+
+der gerichtlichen Festsetzung nach dem
+Justizvergütungs- und -entschädigungsgesetz,
+
+d)
+
+der Kostenfestsetzung für und gegen die Staatskasse nach § 464b der
+Strafprozessordnung
+
+e)
+
+der Festsetzungen von Vergütungen, Aufwendungsersatz und Aufwandsentschädigung in Familien-, Betreuungs- und Pflegschaftssachen,
+
+f)
+
+der Erinnerungen und Beschwerden gegen den Kostenansatz,
+
+g)
+
+der Wertfestsetzung nach dem Gerichts- und Notarkostengesetz, dem                Gerichtskostengesetz und dem Gesetz über Gerichtskosten in Familiensachen,
+
+h)
+
+nach den §§ 307, 337 Abs. 1 des
+Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
+
+i)
+
+der Überprüfung von kostenrechtlichen Entscheidungen nach § 8 Abs. 1 Satz 1 der
+Justizbeitreibungsordnung,
+
+j)
+
+der Bewilligung von Pauschvergütungen nach dem
+Rechtsanwaltsvergütungsgesetz,
+
+k)
+
+aufgrund von Prüfungsmitteilungen des Rechnungsprüfungsamtes,
+
+l)
+
+nach § 304 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
+
+m)
+
+im Rahmen der Anhörung zur Nichterhebung von Kosten wegen unrichtiger Sachbehandlung und
+
+n)
+
+im Rahmen der Verjährungseinrede.
+
+2.
+
+Aufgaben des Kostenprüfungsbeamten, vor allem:
+
+a)
+
+die Kostenprüfung gemäß § 39 der durch die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz zur Kostenverfügung in Kraft gesetzten bundeseinheitlichen Kostenverfügung,
+
+b)
+
+die Überprüfung der Auslagen in Rechtssachen,
+
+c)
+
+die regelmäßige Besprechung mit den Kostenbeamten,
+
+d)
+
+die Erstellung von Kosteninformationen für eine einheitliche Kostenbehandlung,
+
+e)
+
+die schriftliche oder telefonische Klärung von Grundsatzproblemen vor Ort,
+
+f)
+
+die bedarfsgerechte Anleitung der Kostenbeamten,
+
+g)
+
+die Prüfung des Kostenansatzes nach Ziffer VI Nr. 4 Buchst. a der VwV Stundung und Erlass und
+
+h)
+
+die Überprüfung der Nichterhebung von Kosten nach § 10 der Kostenverfügung.
+
+3.
+
+Sonstige Aufgaben:
+
+a)
+
+Prüfung aufgrund der Mitteilungen der Landesjustizkasse nach Nummer 1.4 der Dienstanweisung des Oberlandesgerichts Dresden für das automatisierte Kosteneinziehungsverfahren (KE) der Landesjustizkasse (DAKE) vom 1. Oktober 2014,
+
+b)
+
+Mitwirkung bei der Geschäftsprüfung der Sozialarbeiter der Justiz entsprechend Abschnitt F Ziffer XV Nummer 1 der VwV Sozialer Dienst/FA vom 11. Juli 2014 (SächsJMBl. S. 71), enthalten in der Verwaltungsvorschrift vom 8. Dezember 2015 (SächsABl. SDr. S. S 362),
+
+c)
+
+Mitteilen von Entscheidungen grundsätzlicher Bedeutung auf dem Gebiet des Kostenrechts an die Kostenbeamten ihres Geschäftsbereichs,
+
+d)
+
+Hinwirken auf eine einheitliche Kostensachbehandlung,
+
+e)
+
+Unterrichtung des dienstvorgesetzten Präsidenten über die aus den Akten gewonnenen Erkenntnisse, die Anlass zu Maßnahmen der Dienstaufsicht, insbesondere organisatorischer Art, geben könnten.
+
+4.
+
+dem Bezirksrevisor beim Oberlandesgericht außerdem:
+
+Wahrnehmung von Koordinierungsaufgaben, insbesondere
+
+a)
+
+die Unterrichtung der Bezirksrevisoren über besondere Prüfungsschwerpunkte, die aufgrund von Feststellungen gebildet werden, die auch für Bezirksrevisoren anderer Gerichte von Bedeutung sind und
+
+b)
+
+die Koordinierung von Rechtsbehelfen in Kostensachen sowie die Unterrichtung der Bezirksrevisoren über die für ihre Aufgaben wichtigen Entscheidungen der Senate des Oberlandesgerichts, etwa auf dem Gebiet des Kostenrechts einschließlich der Entschädigungsgesetze.
+
+II.
+
+Zusatzaufgaben:
+
+Den Bezirksrevisoren können durch ihren dienstvorgesetzten Präsidenten darüber hinaus weitere Verwaltungsaufgaben, insbesondere im Rahmen des Qualitätsmanagements, als Referenten übertragen werden, sofern dadurch die ordnungsgemäße Erledigung der Hauptaufgaben, insbesondere die Kontrollfunktion des Bezirksrevisors, nicht beeinträchtigt wird oder die weiteren Verwaltungsaufgaben der Erledigung nicht entgegenstehen.
+
+D.
+
+Befugnisse
+
+I.
+
+Den Bezirksrevisoren ist die Einsicht in Akten, Bücher, Register, Verzeichnisse, Tabellen und Rechnungsbelege gestattet. Sie können sich diese Unterlagen an ihren Dienstsitz übersenden lassen. Dies gilt auch, wenn Unterlagen mittels elektronischer Datenverarbeitung geführt werden. Soweit erforderlich, sind aktuelle Ausdrucke zu fertigen. Darüber hinaus können sie die Anfertigung zusätzlicher Aufstellungen verlangen, soweit sie diese für die Erfüllung ihrer Aufgaben zwingend benötigen.
+
+II.
+
+Die Bezirksrevisoren können von den Mitarbeitern der zu prüfenden Stelle näheren Aufschluss über die Behandlung von Geschäften verlangen.
+
+III.
+
+Die den Bezirksrevisoren im Rahmen von Großbuchstabe C übertragenen Dienstaufgaben erledigen sie in eigener Verantwortung.
+
+IV.
+
+Die Bezirksrevisoren können vor der Entscheidung über die Geschäftsverteilung und Organisation der Kostenbeamten und Beamten, die Festsetzungen nach dem
+Justizvergütungs- und -entschädigungsgesetz vornehmen, beratend tätig werden.
 
 V.
 
+Die Bezirksrevisoren erarbeiten für die Kostenbeamten allgemeinverbindliche Richtlinien zur Kostenbehandlung, die ständig aktualisiert werden.
+
+E.
+
+Kostenprüfungen
+
+I.
+
+Der Zeitpunkt, die Abfolge und der Umfang der Kostenprüfungen werden unter Berücksichtigung gerichts- und behördenspezifischer Besonderheiten oder rechtlicher Probleme durch die Bezirksrevisoren bestimmt. Aufgabengebiete, in denen mit Fehlern regelmäßig nicht zu rechnen ist, können nach pflichtgemäßem Ermessen der Bezirksrevisoren von der Prüfung ausgenommen werden. Dabei ist darauf zu achten, dass die Prüfungsgebiete so gewählt werden, dass alle wesentlichen Bereiche, in denen eine Gefährdung der Ansprüche der Staatskasse zu besorgen ist, nach dem Zufallsprinzip geprüft werden.
+
+II.
+
+Prüfungen bei den Staatsanwaltschaften, dem Sächsischen Oberverwaltungsgericht und den Verwaltungsgerichten, dem Sächsischen Finanzgericht sowie dem Sächsischen Anwaltsgerichtshof werden im Einvernehmen mit dem jeweiligen Behördenleiter durchgeführt.
+
+III.
+
+Die Prüfung des Kostenansatzes und die Maßnahmen zu seiner Berichtigung richten sich nach Abschnitt 5 der Anlage zur Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz zur Kostenverfügung sowie Ziffer I Nummer 10 Buchstabe f der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz zur Kostenverfügung. Ferner ist darauf zu achten, ob
+
+1.
+
+in allen geeigneten Fällen von der Möglichkeit der Sicherung des Kosteneingangs durch Erhebung von Vorschüssen oder Ausübung des Zurückbehaltungsrechts in erforderlichem Maße Gebrauch gemacht wird,
+
+2.
+
+nur in zweifelsfreien Fällen des Unvermögens des Kostenschuldners vom Kostenansatz abgesehen wird.
+
+IV.
+
+Der Kostenansatz der Rechtsmittelinstanz ist bei den Gerichten des ersten Rechtszugs zu prüfen, soweit die Akten dort aufbewahrt werden. In den Fällen, in denen die Akten in Straf- und Bußgeldverfahren nicht bei der Staatsanwaltschaft aufbewahrt werden, ist der Kostenansatz beim verwahrenden Gericht zu prüfen.
+
+V.
+
+Die Bezirksrevisoren bescheinigen die Prüfung bei Registern und Listen in der Spalte Bemerkungen neben dem letzten Eintrag, bei Akten auf der Innenseite der Aktenumschläge oder auf der Kostenrechnung unter Beifügung des Datums und ihres Namenszeichens. Bei elektronischer Aktenführung ist dafür ein gesondertes Dokument zu erstellen und zur Akte zu nehmen.
+
+F.
+
+Geschäftsführung
+
+I.
+
+Die Bezirksrevisoren führen ihren Schriftwechsel unter der Bezeichnung „Bezirksrevisor beim [Bezeichnung des Gerichts]“. Prüfungsbeamte zeichnen „Im Auftrag“. Vertreter, die nicht selbst Bezirksrevisoren sind, zeichnen „In Vertretung“.
+
+II.
+
+Die Bezirksrevisoren vermerken eine Prüfung in grüner Farbe.
+
+III.
+
+Mehrere Bezirksrevisoren desselben Gerichts haben sich zu grundsätzlichen und allgemeinen Fragen zu verständigen. Kommt eine Einigung nicht zustande, entscheidet der Präsident des Gerichts.
+
+G.
+
+Niederschrift über die Kostenprüfung
+
+I.
+
+Die Niederschrift gemäß § 44 der Kostenverfügung fertigen die Bezirksrevisoren für jede Behörde gesondert an.
+
+II.
+
+Die Niederschrift ist bei Prüfung einer Staatsanwaltschaft dem Leiter dieser Behörde, bei der Prüfung des Sächsischen Oberverwaltungsgerichts und der Verwaltungsgerichte, des Sächsischen Finanzgerichts sowie des Sächsischen Anwaltsgerichtshofs dem jeweiligen Präsidenten, im Übrigen dem dienstvorgesetzten Präsidenten vorzulegen und auf dem Dienstweg dem Leiter der geprüften Behörde oder des geprüften Gerichts zuzuleiten.
+
+H.
+
+Jahresbericht der Bezirksrevisoren
+
+I.
+
+Der Jahresbericht nach § 45 der Kostenverfügung hat sich auch auf die übrigen den Bezirksrevisoren zugewiesenen Aufgabengebiete zu erstrecken; insbesondere soll er die Anzahl aller Geschäfte, die nach Großbuchstabe C angefallen sind, enthalten.
+
+II.
+
+Dem Jahresbericht ist für den Fall, dass mehrere Bezirksrevisoren bestellt sind, der Geschäftsverteilungsplan für die Bezirksrevisoren beizufügen.
+
+I.
+
+Erfahrungsaustausch
+
+I.
+
+Zur Erörterung von Fragen aus dem Aufgabengebiet der Bezirksrevisoren treffen sich die Bezirksrevisoren der ordentlichen Gerichtsbarkeit und der Fachgerichtsbarkeiten auf Einladung des Bezirksrevisors beim Oberlandesgericht regelmäßig zu Dienstbesprechungen. Diese sollen mindestens einmal pro Jahr anberaumt werden. Im Bedarfsfall können weitere Beratungen auf Anregung einzelner Bezirksrevisoren einberufen werden.
+
+II.
+
+Über die Dienstberatungen sind kurze Niederschriften zu fertigen, die allen Bezirksrevisoren und dem Staatsministerium der Justiz zu übersenden sind.
+
+III.
+
+Sind Projekt- oder Arbeitsgruppen oder Qualitätszirkel gebildet, können sich diese eigenständig zu Dienstberatungen treffen.
+
+J.
+
 Inkrafttreten und Außerkrafttreten
 
-Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. Januar 2014 in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Stiftung eines Feuerwehr-Ehrenzeichens (VwV Feuerwehr-Ehrenzeichen – VwVFeuEZ) vom 29. April 2008 (SächsABl. S. 971), geändert durch Ziffer III der Verwaltungsvorschrift vom 1. März 2012 (SächsABl. S. 336, 337), zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), außer Kraft.
+Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz über Dienstaufgaben und Geschäftsführung der Bezirksrevisoren (VwV Bezirksrevisoren – VwVBezRev) vom 6. Februar 2006 (SächsJMBl. S. 31), enthalten in der Verwaltungsvorschrift vom 11. Dezember 2009 (SächsABl. SDr. S. S 2431), außer Kraft.
 
-Dresden, den 8. April 2014
+Dresden, den 3. Dezember 2010
 
-Der Staatsminister des Innern
+Der Staatsminister der Justiz und für Europa
 
-Markus Ulbig
-
-Anlage
+Dr. Jürgen Martens
