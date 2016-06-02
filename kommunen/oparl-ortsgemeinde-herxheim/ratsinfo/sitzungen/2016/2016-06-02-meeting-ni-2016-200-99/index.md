@@ -1,0 +1,55 @@
+# 16. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2016-06-02T19:00:00+02:00
+- Ende: 2016-06-02T22:25:00+02:00
+- Ort: Rathaus Herxheim, Ratssaal (Nr. 1.10) im 1. OG, Obere Hauptstraße 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2016-200-99
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2016-200-99
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-200-99
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-200-99
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-200-99
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Nachwahlen in Ausschüssen
+- TOP 3: Übertragung von Haushaltsermächtigungen des Haushaltsjahres 2015 in das Haushaltsjahr 2016
+- TOP 4: Feststellung des Jahresabschlusses 2015 für das Altenzentrum St. Josef mit Beschlussfassung über die Behandlung des Jahresverlusts
+- TOP 5: Beitritt zur Rahmenvereinbarung zur Überleitung des Zweiten Pflegestärkegesetzes (PSG II) - Neue Pflegesätze ab 01.01.2017
+- TOP 6: Antrag des Schützenverein Herxheim e.V. auf Gewährung eines Zuschusses für die Installation einer elektronischen Zielauswertung für Luftdruckwaffen in der vorhandenen Schießanlage im 1. OG des Schützenhauses
+- TOP 7: Antrag des Bouleclub Herxheim e.V. auf Gewährung eines Zuschusses für die Errichtung einer Zaunanlage zwischen der Boule Anlage und dem Sportgelände des SV Viktoria Herxheim
+- TOP 8: 
+- TOP 9: Antrag zur Änderung des Flächennutzungsplanes der Verbandsgemeinde Herxheim
+- TOP 10: 2. Änderung Bebauungsplan Industriegebiet 'Kleinwald'
+- TOP 11: Bebauungsplan 'Westlich der Luitpoldstraße'
+- TOP 12: Bebauungsplan 'Gewerbegebiet Ost, 2. Änderung und Erweiterung'
+- TOP 13: 
+- TOP 14: Auftragsvergaben
+- TOP 14.1: Auftragsvergaben
+- TOP 14.2: Auftragsvergaben
+- TOP 15: Mitteilungen und Anfragen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
