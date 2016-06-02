@@ -1,0 +1,6 @@
+# TOP 8: Runder Tisch "ehrenamtliche Flüchtlingshilfe" der Bezirksvertretung Burg/Höhscheid
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (14. Sitzung) (2016-06-02)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/29117
