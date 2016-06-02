@@ -1,0 +1,51 @@
+# 25. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-06-02T16:00:00+02:00
+- Ende: 2016-06-02T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4940
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4940
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00254363.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Einwohnerinnen- und Einwohnerfragestunde
+- TOP 3.1: Sicherer Schulweg zum Gymnasium in Dresden-Bühlau
+- TOP 3.2: Integration von Geflüchteten in Wohnquartiere
+- TOP 3.3: Schaffung von Sanitäranlagen am Elbradweg zwischen Elbbrücke Alt-Pieschen und Pillnitz
+- TOP 3.4: Radverkehr auf dem Blauen Wunder
+- TOP 3.5: Aufstockung von Asylsuchenden im Ortsamtbereich Cotta
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 4.1: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 4.2: Ausschuss für Petitionen und Bürgeranliegen - Einigung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 5.1: Umbesetzung Ortsbeirat Leuben - punktweise Abstimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Widerspruch zu Beschluss V1105/16 vom 12.05.2016 nach § 52 Abs. 2 SächsGemO
+- TOP 7.1: Vergabenummer: 5020/16 Hochwasserschadensbeseitigung 2013 - Schadensbeseitigung Tunnel Neustädter Markt B0024 - Zustimmung
+- TOP 8: Vertagung der Stadtratssitzung vom 14. April 2016
+- TOP 8.1: Verkauf eines Grundstückes an der Ringstraße - Ersetzung - punktweise Abstimmung
+- TOP 9: Vertagungen der Stadtratssitzung vom 12. Mai 2016 - öffentlich
+- TOP 9.1: Maßnahmen zur Kriminalitätsbekämpfung am Wiener Platz - punktweise Abstimmung mit Änderung
+- TOP 9.2: Änderung der Richtlinie der Landeshauptstadt Dresden zur Namensgebung für Schulen vom 27. September 1996, zuletzt geändert am 27. September 2012 - Zustimmung mit Ergänzung
+- TOP 9.3: Neufassung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Zustimmung mit Ergänzung
+- TOP 9.4: Mitgliedschaft der Stadt Dresden in der UNESCO-Städtekoalition gegen Rassismus - Vertagung nach 22 Uhr
+- TOP 10: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Entschädigung ehrenamtlich Tätiger (Entschädigungssatzung) vom 16. Oktober 2003 - Vertagung
+- TOP 11: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden vom 4. September 2014; hier: Änderung von § 29 Hauptsatzung / Ausschreibung der Stelle der/des Beigeordneten für Bildung - Vertagung nach 22 Uhr
+- TOP 12: Wirtschaftsplanung 2016 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 13: Durchfinanzierung der Gesamtinvestition Nanoelektronikzentrum Dresden in der NanoelektronikZentrumDresden GmbH - Vertagung nach 22 Uhr
+- TOP 14: Grunderwerb zur Entwicklung des "Wissenschaftsstandortes Dresden Ost" - Zustimmung
+- TOP 15: Maßnahmepläne der Landeshauptstadt Dresden für die Budgets "Bund" und "Sachsen" nach dem Sächsischen Investitionskraftstärkungsgesetz - Zustimmung mit Änderung
+- TOP 16: Polizeiverordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung in der Landeshauptstadt Dresden (PolVO Sicherheit und Ordnung) - Vertagung nach 22 Uhr
+- TOP 17: Bewerbung der Landeshauptstadt Dresden um den Titel Kulturhauptstadt Europas 2025 - Zustimmung mit Änderung
+- TOP 18: Änderung der Richtlinie der Landeshauptstadt Dresden zur kommunalen Kulturförderung vom 15. Dezember 2011 in der geänderten Fassung vom 24. September 2015 - Vertagung nach 22 Uhr
+- TOP 19: Förderung von Angeboten nach Fachförderrichtlinie Sozialamt vom 19. Oktober 2009 im Haushaltsjahr 2016 - Vertagung nach 22 Uhr
+- TOP 20: Neubenennung von Straßen - Vertagung
+- TOP 21: Aufhebung des Punktes 8e) des Stadtratsbeschlusses V0120/14 (SR/010/2015) vom 7. Mai 2015 - Entscheidung über Verkauf und Bebauung der nicht von der Kita genutzten Teilfläche oder Nutzung dieser Flächen als öffentlicher Kinderspielplatz - Vertagung nach 22 Uhr
+- TOP 22: Damit Dresden wirklich summt: So geht das! - Vertagung nach 22 Uhr
