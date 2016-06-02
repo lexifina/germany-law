@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-06-02T14:00:00+02:00
+- Ende: 2016-06-02T19:44:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11764
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11764
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00267873.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00267873.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00267873.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 2.1: Anfrage aktuell Tierschutzpartei-Freie Wähler: Vogelsterben in der Düsseldorfer Innenstadt - beantwortet
+- TOP 2.2: Anfrage aktuell Bü90-Grü: Wiederaufbau des Salinenbrunnens - beantwortet
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage CDU: Rückführung von ausreisepflichtigen Asylsuchenden und Geflüchteten - beantwortet
+- TOP 3.2: Anfrage Tierschutzpartei-Freie Wähler: Erster Bauabschnitt U81 - beantwortet
+- TOP 3.3: Anfrage CDU: Personalsituation in den Bezirksverwaltungsstellen - beantwortet
+- TOP 3.4: Anfrage FDP: Zusatzgebühr bei Barzahlungen - beantwortet
+- TOP 3.5: Anfrage FDP: Reinigung und Müllentsorgung im öffentlichem Raum - schriftlich beantwortet
+- TOP 3.6: Anfrage der Ratsfrau Dr. Strack-Zimmermann: Werbemaßnahme der Stadt Düsseldorf in der Wirtschaftswoc - schriftlich beantwortet
+- TOP 3.7: Anfrage Die Linke: Gewinnausschüttungen an die Landeshauptstadt Düsseldorf aus Firmenbeteiligungen" - schriftlich beantwortet
+- TOP 3.8: Anfrage Rh Vogel: Bargeldabschaffung auch bei der Stadt Düsseldorf - schriftlich beantwortet
+- TOP 3.9: Anfrage Rh Maniera: Unterbringungen in den Traglufthallen - schriftlich beantwortet
+- TOP 3.10: Anfrage Die Linke - Schulbegleitung für Kinder mit Beeinträchtigung - schriftlich beantwortet
+- TOP 3.11: Anfrage Bü90-Grü: Mehr Fluglärm in Düsseldorf - schriftlich beantwortet
+- TOP 3.12: Anfrage Rh Grenda: Hafengelände Fringsstraße - Alte Papierfabrik - schriftlich beantwortet
+- TOP 3.13: Anfrage Rh Grenda: Mautpflicht im Stadtgebiet Düsseldorf – Überlegungen und Sachstand - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 6: Finanzierung Grand Départ Düsseldorf 2017 - zurückgezogen
+- TOP 7: Kirchfeldstraße 74 – 80, Dumont-Lindemann-Schule - einstimmig beschlossen
+- TOP 8: Lohbachweg 16-18, - Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 9: Ausbau der Wiesenstraße - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 10: Zukunftswerkstatt Düsseldorf GmbH - Anpassung des Gesellschaftsvertrags - einstimmig beschlossen
+- TOP 11: Annahme einer Spende - einstimmig beschlossen
+- TOP 12: Annahme einer Schenkung für die städtische Sammlung des Museum Kunstpalast, Abteilung Moderne Kunst - einstimmig beschlossen
+- TOP 13: Annahme von Spenden im Zusammenhang mit dem Orkan Ela für die Neupflanzung von Bäumen in der Landesh - einstimmig beschlossen
+- TOP 14: Aufsichtsrat der Holding der Landeshauptstadt Düsseldorf GmbH - Neuwahl - - einstimmig beschlossen
+- TOP 15: Nachwahl zum Beirat bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 16: Wiederbestellung von Mitgliedern des Umlegungsausschusses - zur Kenntnis genommen
+- TOP 17: Neuwahl von Schulausschussmitgliedern in das Kuratorium der Volkshochschule - zur Kenntnis genommen
+- TOP 18: Umbesetzung von Ausschüssen und sonstigen Gremien - zur Kenntnis genommen
+- TOP 19: Bebauungsplan Nr. 04/005 - B7 Brüsseler Straße - Anschlussstelle Heerdter Lohweg - - zur Kenntnis genommen
+- TOP 20: Vorhabenbezogener B-Plan Nr. 02/008 Wohnhochhaus Mercedesstraße - zur Kenntnis genommen
+- TOP 20.1: VorhabenbezB-Plan02/008-Wohnhochh.Mercedesstr.-Erg. zu 61/39/2016 - zur Kenntnis genommen
+- TOP 21: Plan-Nr.: 09/001 Südlich Paulsmühlenstraße Satzungsbeschluss - zur Kenntnis genommen
+- TOP 22: Bebauungsplan-Entwurf 09/012 Forststraße / Hasselsstraße - zur Kenntnis genommen
+- TOP 23: Bebauungsplan Nr. 4977/039 Gewerbe- und Industriegebiete südlich Heerdter Landstraße - zur Kenntnis genommen
+- TOP 24: Anträge - zur Kenntnis genommen
+- TOP 24.1: Antrag Die Linke:Solidarität mit den inhaftierten Bürgermeisterinnen und Bürgermeistern in der Türke - zur Kenntnis genommen
+- TOP 24.2: Antrag Die Linke: Beratungen zur "Waldschänke" gehören in die Bezirksvertretung - zur Kenntnis genommen
+- TOP 24.3: Antrag SPD, Bü90/Grü und FDP: Kostenloser Internetzugang in städtischen Einrichtungen - zur Kenntnis genommen
+- TOP 24.4: Antrag SPD, Bü90-Grü und FDP: Standorte Flüchtlingsunterkünfte - zur Kenntnis genommen
+- TOP 24.5: Antrag der CDU-Ratsfraktion: Masterplan Handwerk entwickeln - zur Kenntnis genommen
+- TOP 24.6: Antrag FDP,SPD und Bü90-Grü:Einführung eines Controllings für Maßnahmen in der Flüchtlingshilfe - zur Kenntnis genommen
+- TOP 24.6.1: ÄA CDU-Einführung eines Controllings für Maßnahmen in der Flüchtlingshilfe - zur Kenntnis genommen
+- TOP 24.7: Antrag von CDU, SPD, BÜ90/GRÜ, FDP: Weiterer Polizeizug für Düsseldorf - zur Kenntnis genommen
+- TOP 24.8: Antrag Tierschutzpartei-Freie Wähler: Politisches Testament Joachim Erwin - zur Kenntnis genommen
+- TOP 24.8.1: ÄA CDU: Politisches Testament des vor acht Jahren verstorbenen Oberbürgermeisters Joachim Erwin - zur Kenntnis genommen
+- TOP 24.9: Antrag der CDU: Krankenhaus im Linksrheinischen erhalten - zur Kenntnis genommen
+- TOP 24.10: Antrag Die Linke: Poolbildung bei der Schulbegleitung für Kinder mit Beeinträchtigung verschieben" - zur Kenntnis genommen
+- TOP 24.10.1.1: Antrag Rf Die Linke: Anhörung zu Kommunalem Wohnungsbau in Wien - zur Kenntnis genommen
+- TOP 24.10.1.2: Antrag Rf Die Linke: Resolution für den sozialen Wohnungsbau in Europa - zur Kenntnis genommen
+- TOP 24.10.2: ÄA von CDU, SPD, BÜ90-GRÜ und FDP: Poolbildung bei der Schulbegleitung für Kinder mit Beeinträchtigu - zur Kenntnis genommen
+- TOP 25: Parkscheibenregelung Kaiserswerth - zur Kenntnis genommen
