@@ -1,0 +1,55 @@
+# Hauptausschuss (41. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-06-06T18:00:00+02:00
+- Ende: 2016-06-06T20:00:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcXtiLxFFDKT-y6nDsGLIw4
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6495
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYPkTlRQdl6NpTC24p7JmOew_8HkBm2wnXAGM_kQWpbu/Bekanntmachung_Hauptausschuss_06.06.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT76_9W0A4OnBDWDwgI_wQ0Tt9VBCqaZME-xYFOmQkpH/Oeffentliche_Niederschrift_Hauptausschuss_06.06.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Zur Tagesordnung
+- TOP 2.: Überplanmäßige Mittelbereitstellung hier: Ersatzbeschaffung Drehleiter - (kein Text vorhanden)
+- TOP 3.: Anträge gem. § 24 GO NRW
+- TOP 3.1: Bürgerantrag zur Benennung einer Straße nach Marie Curie Bezug: Antrag gem. § 24 GO NW vom 25.05.2016 - (kein Text vorhanden)
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Bürgerantrag gem. § 24 GO NRW auf Ablehnung der Freihandelsabkommen CETA, TTIP und TISA Bezug: Antrag gem. § 24 GO NRW vom 23.05.2016
+- TOP 3.3.1: Antrag gem. § 24 GO NRW des Brühler Bürgerbündnisses gegen Freihandelsabkommen vom 23.05.2016 Bezug: Antrag Bürgerbündnis vom 5.6.2015, Rat 22.6.2015, Vorlage-Nr. 269/2015 und Anfrage Linke&Piraten vom 12.9.2014, Rat 3.11.2014, Vorlage-Nr. 362/2014
+- TOP 3.3.2: Freihandelsabkommen CETA, TTIP und TISA Hier: Alternativantrag zum „Bürgerantrag“ TOP 1.3 im Hauptausschuss am 06.06.2016 Bezug: Antrag der CDU-Fraktion vom 03.06.2016 - (kein Text vorhanden)
+- TOP 4.: Dringlichkeitsentscheidung hier: Überplanmäßige Ausgabe Abstimmungsheft Ratsbürgerentscheid - (kein Text vorhanden)
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Haushaltskonsolidierung Bezug: Antrag der FDP-Fraktion vom 19.05.2016 - (kein Text vorhanden)
+- TOP 6.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 6.1: Überplanmäßige Aufwendung und Auszahlung Kreisumlage und damit verbundene Steuerbelastung - (kein Text vorhanden)
+- TOP 6.2: überplanmäßiger Mehraufwand - Pensionsrückstellungen - (kein Text vorhanden)
+- TOP 6.3: Überplanmäßige Ausgabe für die Ausstattung von weiteren Unterkünften zur Flüchtlingsunterbringung Außerplanmäßige Ausgaben für den Sicherheitsdienst in Flüchtlingsunterkünften - (kein Text vorhanden)
+- TOP 6.4: Überplanmäßige Mittelbereitstellung Straßen- und Kanalbau Badorfer Straße / Buschgasse / Schiffergasse / Euskirchener Straße - (kein Text vorhanden)
+- TOP 6.5: Überplanmäßige Mittelbereitstellung für die Beförderung von Schülerinnen und Schülern im Brühler Stadtgebiet - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 7.1: I-Rich-Zugriff in den Fraktionsbüros
+- TOP 8.: Anfragen
+- TOP 8.1: Sachstand Immobilienmanagement
+- TOP 8.2: Parkplatz Wasserturm
+- TOP 8.3: Interesse an Ratsarbeit
+- TOP 8.4: Behinderung durch Bauarbeiten Badorfer Straße/Buschgasse/Euskirchener Straße
+- TOP 8.5: Kunstwerk Kreisel Liblarer Straße/Pingsdorfer Straße
+- TOP 8.6: Niederschrift Hauptausschuss 11.4.2016
+- TOP 8.7: Toilettenanlage Bahnhof Brühl
+- TOP 8.8: Sachstand Flüchtlinge
+- TOP 8.9: Freies WLan in Brühl
+- TOP 8.10: Parkplatz Talstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Deckungsmittel für über-und außerplanmäßige Mittelbereitstellung Bezug: HA 23.05.2016; Vorlagen-Nr. 144/2016, 134/2016 und 148/2016
+- TOP 10.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 11.: Altersteilzeitregularien der Stadt Brühl - (kein Text vorhanden)
+- TOP 12.: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen
+- TOP 14.1: Thüringer Platz
