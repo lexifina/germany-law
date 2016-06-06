@@ -1,0 +1,70 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2016-06-06T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3810683
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3810683
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 2.1.: Spielplätze in Sendling
+- TOP 2.2.: Baumpflanzung Meindlstraße
+- TOP 2.3.: Schulweg S-Bahnunterführung Margaretenstraße
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Ausschreibung: Einsatz des Kinder-Aktions-Koffers 2016 / 2017
+- TOP 4.2.: Clearingshaus Plinganserstr.; Vorbesprechung zur Durchwegung Kidlerstr.
+- TOP 4.3.: Finanzielle Aufwertung sozialer Einrichtungen zügig umsetzen; Information der Bezirksausschüsse über geplante Streichungen bereits zugesagter finanzieller Erhöhungen von sozialen Einrichtungen - <div>zur Kenntnis genommen</div>
+- TOP 4.4.: Protokoll Mieterbeirat vom 11.04.2016
+- TOP 4.5.: Einladung Behindertenbeirat am 30.05.2016
+- TOP 5: Referat für Bildung und Sport
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Sommerfest Am Harras von 01.07.2016 - 03.07.2016
+- TOP 6.2.: Sommerfest am Resi-Huber-Platz am 10.07.2016
+- TOP 6.3.: Sponsorenlauf in den Isarauen am 25.07.2016
+- TOP 6.4.: Geländepraktikum in den Isarauen von 18.07.2016 - 05.08.2016
+- TOP 6.5.: Bladenight 2016 - Genehmigungsbescheid
+- TOP 6.6.: Sendlinger Christkindlmarkt Am Harras 2016
+- TOP 6.7.: Leipartstr. 22; Sitzgelegenheiten vor Gewerbebetrieb
+- TOP 6.8.: Implerstr. 88; Sitzgelegenheit vor Gewerbebetrieb
+- TOP 6.9.: Straßenbauprojekt Flößergasse / Zechstraße / Fallstraße; zukünftige Führung der Buslinie 134
+- TOP 6.10.: Haltverbotszone zur Gewährleistung der Befahrbarkeit der Bleyerstr. durch Schulbusse
+- TOP 6.11.: Leistungsfähigkeit der Plinganserstraße im Bereich des Harras
+- TOP 6.12.: Missachtung der Fußgängerampel S-Bahnunterführung Albert-Roßhaupter-Straße durch Autofahrer und Fußgänger - Ortstermin Verkehrsausschuss des BA7
+- TOP 7: Gaststättenangelegenheiten
+- TOP 7.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Bauvorhaben Margaretenplatz 6 - 10
+- TOP 9.3.: Vorbescheid Karwendelstraße, FlNr. 9346/3
+- TOP 9.4.: Danklstraße 7; Zweckentfremdung von Wohnraum
+- TOP 9.5.: Kidlerstraße 20; Vollzug der Erhaltungssatzung Sendling
+- TOP 10: Baureferat
+- TOP 10.1.: Fahrbahnsanierung Gaißacher Str. 18 - 20
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Fällung von Gefahrenbäumen im Isar Hochwasserbett
+- TOP 12: Anträge
+- TOP 12.1.: Offensive Denkmalschutz IX; Ensembleschutz für die Großmarkthalle
+- TOP 14: Verschiedenes
+- TOP 14.1.: Erneute Vermietung des früheren Obst- und Gemüseladens in der Sortieranlage Thalkirchner Str. 126 durch die Großmarkthalle
+- TOP 14.2.: Wiederbelebung der Ladengeschäfte und Gaststätten der ehemaligen Sortieranlage der Großmarkthalle - <div>Folgeantrag BA6</div>
+- TOP 14.3.: Sprechstunde des Kommunalreferates für Bezirksausschüsse
+- TOP 14.4.: Einnahmen aus der Verlängerung des Oktoberfestes 2017 den angrenzenden Stadtbezirken zufließen lassen
+- TOP 14.5.: Sanierung der Wirtsbudenstraße
+- TOP 14.6.: Welche Rolle spielen städtische Gebühren bei der Erhaltung von Traditions- und Brauchtumsveranstaltungen? Den Bezirksausschüssen ein Befreiungsrecht einräumen
+- TOP 14.7.: Neue Bäderpreise
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Theaterwerkstatt l-piccoli von Gerhard Weiß Projekt zur Aufführung "Der unergetzlichen Tragödie von der Historie der Sendlinger Bauernschlacht" Januar 2017 - <div>Vertagung</div>
+- TOP 8.1.: (E) Budget der Bezirksausschüsse Initiative ?Historische Lernorte Sendling? ?Sendling - ?arisiert? - Projektstufe III? vom 20.10. bis 15.12.2016
+- TOP 8.2.: (E) Budget der Bezirksausschüsse Kleingartenverein SW82 Villa Flora Feierlichkeiten anlässlich des 100jährigen Bestehens vom 15. bis 17.07.2016
+- TOP 8.3.: (E) Budget der Bezirksausschüsse Caritasverband München + Freising e.V. Elternkurs Familienteam ab Oktober 2016
+- TOP 1: (E) Radlweg in der Schäftlarnstraße Empfehlung Nr. 14-20 / E 00677 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 27.10.2015
+- TOP 6.13.: Standortvorschläge für Elektrotankstellen in Sendling - <div>Kenntnisnahme</div>
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
