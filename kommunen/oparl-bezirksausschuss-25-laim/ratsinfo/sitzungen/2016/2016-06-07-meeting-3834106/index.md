@@ -1,0 +1,88 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-06-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834106
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834106
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.0: Wettbewerbsverfahren zur Überplanung des ehemaligen Bus- und Straßenbahnbetriebshofes zwischen Zschokkestraße, Westendstraße und Hans-Thonauer-Straße; Information durch das Referat für Stadtplanung und Bauordnung
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Bauvorhaben Mitterhoferstr. 7/Schäufeleinstr.; Prüfung der Denkmalschutzeigenschaft des Gebäudes Mitterhoferstr. 7
+- TOP 1.2.2.: 1. Wildes Plakatieren im Stadtgebiet durch Zirkus 2. Dauerparken von Anhängern ohne Zugmaschinen 3. Parksituation Ludwig-Richter-Str.; Dank für Überwachung durch die Polizei 4. Parksituation Elsenheimerstr.
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 21.04.16: Anhörungsrecht der Bezirksausschüsse bei Neuvermietung städtischer Immobilien (Antrag Nr. 14-20 / B 01899 des BA 17 Obergiesing-Fasangarten vom 08.12.15)
+- TOP 4.2.: Schreiben Direktorium vom 22.04.16: Unterrichtung der Bezirksaussschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten (Antrag Nr. 14-20 / B 01903 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 15.12.15)
+- TOP 4.3.: Schreiben Kulturreferat vom 03.05.16: Neubau eines gemeinsamen Stadtteilkulturzentrums für die Stadtbezirke 25 Laim und 7 Sendling-Westpark; Grundsatzbeschluss und Genehmigung des vorläufigen Nutzerbedarfsprogramms; Entwurf einer Beschlussvorlage für den Kulturausschuss des Stadtrates am 30.06.16
+- TOP 4.4.: Schifferlstr. 9: Antrag auf Fällung eines Ahorn
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 17.05.16: Veranstaltung auf dem Laimer Anger; Kermes Vision Lernpunkte e.V. am 08.10. und 09.10.16 jeweils von 10:00 bis 20:00 Uhr
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 12.05.16: Veranstaltung auf dem Laimer Anger; Kermes Kulturfest am 08.07. und 09.07.16 jeweils von 10:00 bis 22:00 Uhr
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Rattenhuberstr. 13: Neubau eines Mehrfamilienhauses (4 WE) mit Tiefgarage (6 Stpl.)
+- TOP 5.2.: Landsberger Str. 159: Halle 6 /EG + 1. OG; Nutzungsänderung und Aufteilung einer Diskothek in mehrere Nutzungseinheiten (Lagerflächen und Eventfläche)
+- TOP 5.3.: Landsberger Str. 380: Neubau eines Lebensmittelverbrauchermarktes mit Park- decke im EG und oberirdischen Stellplätzen
+- TOP 5.4.: Geigerstr. 4: Neubau eines Einfamilienhauses mit Garage
+- TOP 5.5.: Guido-Schneble-Str. 75: Neubau von Wohnhäusern als Nachverdichtungsmaß- nahme im Bereich Guido-Schneble-Str. 75 ? 85 / Inderstorferstr. 17a-33b / Joerg-str. 92 ? 102 / Saherrstr. 92 ? 102 / Senftenauerstr. 22 ? 46; Vorbescheid
+- TOP 5.6.: Landsberger Str. 216: Neubau einer Anlage zur Unterbringung von Asylbewer- bern; Vorbescheid
+- TOP 5.7.: Stöberlstr. 75: Um- und Anbau sowie Aufstockung eines Pflegeheims; Vorbescheid (Stöberlstr. 75 / Valpichlerstr. 100 / Von-der-Pfordten-Str. 44)
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 29.04.16: Ausschreibung Einsatz des Kinder-Aktions-Koffers 2016/2017 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung
+- TOP 6.2.: Schreiben Bezirksausschuss 16 Ramersdorf-Perlach vom 19.05.16: Welche Rolle spielen städtische Gebühren bei der Erhaltung von Traditions- und Brauchtumsveranstaltungen? Den Bezirksausschüssen ein Befreiungsrecht einräumen! (Antrag des BA 16 Nr. 14-20 / B 02389 vom 12.05.16)
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 03.05.16
+- TOP 7.2.: Sitzung UA Kultur vom 02.05.16
+- TOP 7.3.: Sitzung UA Bau vom 03.05.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Herr Oberbürgermeister Dieter Reiter vom 25.04.16: Reinigung von verschmutzten Wertstoffcontainern (Empfehlung Nr. 14-20 / E 00790 der Bürgerversammlung des 25. Stadtbezirkes Laim vom 24.11.15; Beschluss des BA 25 vom 01.03.16)
+- TOP 8.2.: Schreiben Herr Oberbürgermeister Dieter Reiter vom 25.04.16: Stärkung der Stadtbezirke
+- TOP 8.3.: Schreiben Direktorium vom 21.04.16: Projekt Kooperationsplattform
+- TOP 8.4.: Schreiben Direktorium vom 12.05.16: Protokoll zum Treffen der BA-Vorsitzenden am 28.04.16
+- TOP 8.5.: Schreiben Baureferat vom 21.04.16: Abfalleimer an der Ecke Neuburgerstr. / Agnes-Bernauer-Str. (Beschluss des BA 25 vom 05.04.16)
+- TOP 8.6.: Schreiben Baureferat vom 03.05.16: Sanierung der Fahrbahn der Willibaldstraße im Abschnitt zwischen Langbehn- und Krokusstr. in der Zeit vom 09.05. bis 02.06.16
+- TOP 8.7.: Schreiben Baureferat vom 09.05.16: Dokumentation "40 Jahre Wettbewerb Mehr Grün für München"
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 29.04.16: 1. Sonnenhaus-Tag "Solare Energie für Gebäude" im Bauzentrum München, Willy-Brandt-Allee 10, am 28.06.16
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 08.04.16: Unveränderte Fortführung der Schank- und Speisewirtschaft "Duman", Landsberger Str. 315
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 21.04.16: Unveränderte Fortführung der Schank- und Speisewirtschaft "Star", Agnes-Bernauer-Str. 21
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 25.04.16: Fahrbahnsanierung Guido-Schneble-Str. 65-83 in der Zeit vom 20.06. bis 08.07.16; Verkehrsrechtliche Anordnung
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 18.04.16: Verkehrsrechtliche Anordnung: Senftenauerstr./Hönigschmidplatz; Zeichen 136 StVO (Kinder) mit Zusatz "Schulweg"
+- TOP 8.13.: Schreiben Kulturreferat vom 23.05.16: Mittelfristige Finanzplanung 2015 ? 2019: Mehrjahresinvestitionsprogramm ? Anhörungsverfahren, Fortschreibung für die Jahre 2016 ? 2020; hier: Schreiben BA vom 10.05.16, Punkt c) ?Kulturelles Zentrum Westendstraße?
+- TOP 8.14.: Schreiben Referat für Bildung und Sport vom 04.05.16: Instandhaltung und Reinigung von Schulcontainern; Antrag aus der Einwohnerversammlung das BA 25 für Kinder und Jugendliche am 27.11.15 (Schreiben BA vom 26.01.16)
+- TOP 8.15.: Schreiben Referat für Bildung und Sport vom 04.05.16: Schule an der Fürstenrieder Str. 30; Klettergerüst und Schaukel für den Pausenhof sowie Renovierung der Toiletten; Anträge aus der Einwohnerversammlung für Kinder und Jugendliche am 27.11.15 (Schreiben BA vom 26.01.16)
+- TOP 8.16.: Schreiben Sozialreferat vom 26.04.16: Unterbringung Asylbewerber/Flüchtlinge in der Elsenheimerstr. 48-50 (Stellungnahme zu Bürgeranfrage)
+- TOP 8.17.: Schreiben Sozialreferat vom 24.05.16: Konzept zur Wiederherstellung der Sicherheit im Stadtteil Laim
+- TOP 8.18.: Bautenliste vom 18.04. bis 24.04.16: 1. Erstantragsverfahren a) Landsberger Str. 159 b) Mitterhoferstr., Flur-Nr. 303/9 (Mitterhoferstr./Schäufeleinstr.) 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Mitterhoferstr., Flur-Nr. 303/9 (Mitterhoferstr./Schäufeleinstr.)
+- TOP 8.19.: Bautenliste vom 25.04. bis 01.05.16: 1. Erstantragsverfahren a) Kärntner Platz 3 b) Hartelstr. 20 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Schrobenhausener Str. 15
+- TOP 8.20.: Bautenliste vom 02.05. bis 08.05.16: 1. Erstantragsverfahren a) Schäufeleinstr. 2 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Landsberger Str. 216
+- TOP 8.21.: Bautenliste vom 09.05. bis 15.05.16: 1. Erstantragsverfahren a) Geigerstr. 4 b) Landsberger Str. 155 c) Elsenheimerstr. 4a d) Landsberger Str. 380 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Ofener Str. 22 b) Agnes-Bernauer-Str. 137 c) Stöberlstr. 75 d) Guido-Schneble-Str. 75
+- TOP 8.22.: Bautenliste vom 16.05. bis 22.05.16: 1. Erstantragsverfahren a) Mergentheimer Str. 8 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Senftenauerstr. 122
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 25.04.16: Baumaßnahmen der Stadtwerke; Stichtag 25.04.16
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 02.05.16: Baumaßnahmen der Stadtwerke; Neueinträge vom 25.04. - 29.04.16
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 09.05.16: Baumaßnahmen der Stadtwerke; Stichtage 02.05. - 06.05.16
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 17.05.16: Baumaßnahmen der Stadtwerke; Stichtage 09.05. - 13.05.16
+- TOP 8.27.: Schreiben der Stadtwerke München GmbH vom 11.05.16: Baumaßnahmen der SWM; Telekommunikationsprojekt Droste-Hülshoff-Str.
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 27.04.16: Information der Bezirksausschüsse über die neuen Bädereintrittspreise ab der Saison 2016
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 11.05.16: Baumaßnahme Straßenbahnlinie 18 im Bereich Sigl-/Zschokkestr.; Schienenersatzverkehr zwischen Gondrellplatz und U-Bahnstation Westendstr. und weiter zur Agnes-Bernauer-Str. in der Zeit vom 25.07. bis 15.08.16
+- TOP 8.30.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 26.04.16: Zuschussnehmerdatei 2016; Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Neufassung der Haushalts-/Zuschussliste (Sitzungsvorlage Nr. 14-20 / V 05980)
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: Ökologischer Kriterienkatalog, Fortschreibung 2016 (Sitzungsvorlage Nr. 14-20 / V 02989)
+- TOP 8.32.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: Wohnungsbauatlas für München und die Region (Sitzungsvorlage Nr. 14-20 / V 05936)
+- TOP 8.33.: Beschluss des Sozialausschusses vom 03.05.16: Nachbarschaftsarbeit "Alte Heimat"; Trägerschaftsauswahl für ein Projekt der quartiersbezogenen Bewohnerarbeit in der "Alten Heimat", Kiem-Pauli-Weg (Sitzungsvorlage Nr. 14-20 / V 04438)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters (Sitzungsvorlage Nr. 14-20 / V 05902)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: BeSPIELbare und beSITZbare Stadt auch für München (Sitzungsvorlage Nr. 14-20 / V 05031)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes Untergiesing- Harlaching (Sitzungsvorlage Nr. 14-20 / V 05085)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: Ökologischer Kriterienkatalog, Fortschreibung 2016 (Sitzungsvorlage Nr. 14-20 / V 02989)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit: A) Jahresausstellung ?Freiraum 2030? und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrages ?Wettbewerb für Münchens schönste Bäume? (Antrag Nr. 08-14 / A 05098 der Stadtratsfraktion Die Grünen/RL vom 11.02.14) (Sitzungsvorlage Nr. 14-20 / V 05954)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinations- stelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenhei- ten (PlanTreff) (Sitzungsvorlage Nr. 14-20 / V 04822)
+- TOP 8.40.: Schreiben BA 17 Obergiesing-Fasangarten vom 22.04.16: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG (Antrag des BA 17 Nr. 14-20 / B 02243 vom 12.04.16)
+- TOP 8.41.: Schreiben Mieterbeirat vom 09.05.16: Protokoll der 15. öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München vom 11.04.16
+- TOP 8.42.: Schreiben BUND Naturschutz in Bayern e.V., Arbeitskreis Attraktiver Nahverkehr vom 21.04.16: Stellungnahme zum Leistungsprogramm 2017 der MVG
+- TOP 8.43.: Schreiben Stadtwerke München GmbH vom 23.05.16: Baumaßnahmen der Stadtwerke; Stichtage 17.05. - 20.05.16
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Initiative Buchproduktion Buchprduktion: "Dr. Ernst Rehm und die Kuranstalt Neufriedenheim in Laim" - <div>vertagt</div>
+- TOP 1.2: Bürgerpost an den BA
