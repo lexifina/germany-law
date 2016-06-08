@@ -1,0 +1,98 @@
+# 53. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-06-08T17:00:00+02:00
+- Ende: 2016-06-08T18:35:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3894
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3894
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=89880
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 53. Sitzung der BVV am 08.06.2016 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 53. Sitzung der BVV am 08.06.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 53. Sitzung der BVV am 08.06.2016 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Brücke Ernststraße (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Interkultureller Garten in Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Kinderstadtpläne für alle Ortsteile erstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Erhalt und Sanierung des ehemaligen Pferdestalles der Feuerwache Hermsdorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Standorte der Dog-Service-Stations in Reinickendorf auf der Internetseite des Bezirks darstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Hausbesuche bei Tagesmüttern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Wettbewerb "Blühender Schulhof" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Markstraße sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Lichtsignale für Radfahrer in der Scharnweberstraße sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Globalsumme für die Jugendarbeit - überwiesen
+- TOP 7.11: Zukunftskonzept Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: "Praxistag Bus" durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Hundegarten im Steinbergpark (Wittenau) instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Kostenfreier Gesundheitspass für ehrenamtlich Tätige - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Hundegarten Lübars - Attraktivität weiter steigern ! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Hundegarten am Seggeluchbecken - Attraktivität weiter steigern ! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Untersuchung zur Entwicklung der bezirklichen sozialen Infrastruktur durchführen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.18: Sportwiese im Steinbergpark ertüchtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Bessere Ausleuchtung am Laiv-Jugendcafé - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Einstellung des Bebauungsplanentwurfs XX-242 für das Gelände zwischen An der Mühle und Karolinenstraße, eine Teilfläche der Karolinenstraße zwischen Nordgraben und der Verlängerung der südöstlichen Grenze des Grundstücks Karolinenstraße 3, 3A, eine Teilfläche des Geländes zwischen Karolinenstraße und dem Tegeler Fließ und der Kolonie "Eisenbahn-Landwirtschaft", das Grundstück Karolinenstraße 2A, eine Teilfläche des Grundstücks Waidmannsluster Damm 1, eine Teilfläche des Grundstücks Buddestraße 3 - überwiesen
+- TOP 7.21: Einstellung des Bebauungsplanentwurfs XX-150 für den Straßenzug An der Mühle/ Waidmannsluster Damm zwischen Gabrielenstraße und Ostgrenze der S-Bahnbrücke, für die Buddestraße zwischen Bernstorffstraße und Waidmannsluster Damm sowie für Teilflächen der Gabrielenstraße, der Karolinenstraße, der Berliner Straße und der Schloßstraße im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.22: Auswertung der eingegangenen Anregungen bzw. Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB zum Bebauungsplanentwurf 12-53 für die Grundstücke Emmentaler Str. 90/100A, Friedrich-Wilhelm-Str. 78-87 u. Residenzstr. 130-137 sowie Teilflächen der Emmentaler Str. u. Residenzstr. u. einen Abschnitt der Friedrich-Wilhelm-Str. im Bezirk Reinickendorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Verkehrssicherheit in Hermsdorf - erledigt
+- TOP 10.2: Geschwindigkeit in der Frohnauer Straße stärker kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Wahrung der Intimsphäre bei der Altersbestimmung bei jungen geflüchteten Menschen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Verkehrskonzept Heinsestraße I - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Fortführung des Programms "FIT! FIT! FIT!" sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bessere Einsicht an der Einmündung Heiligenseestraße / Am Südfeld - mit Änderungen in der BVV beschlossen
+- TOP 10.7: jup! Internet-Angebot - erledigt
+- TOP 10.8: Sichere Durchquerung der Dorfaue Alt-Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: S-Bahn-Tunnel im Bahnhof Hermsdorf optisch aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Briefkasten in der Markstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: LKW-Durchgangsverkehr Meteorstraße unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Radarkontrollen auf dem Senftenberger Ring - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Sechserbrücke behindertengerecht herrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Busverbindung Lübars - Märkisches Zentrum - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Erhalt der Sportplätze am Uranusweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Jobbörse für Flüchtlinge in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Bericht über die Erprobung von PFA anstelle von Kaltasphalt bei Schlaglöchern! - in der BVV abgelehnt
+- TOP 10.18: Lademöglichkeiten für Elektromobilität auch in privaten Gebäuden ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Tempo-30-Strecke Waidmannsluster Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Trinkwasserbrunnen in öffentlichen Parkanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: U8 endlich ins Märkische Viertel verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Gegenseitige Hinweise auf S- und U-Bahn in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Parken für LKW auf der Hermsdorfer Straße einschränken - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Casino-Turm denkmalschutzgerecht sanieren, nutzen und öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Fahrgäste auf S-Bahnhof Wittenau vor Taubenkot schützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Parkplatz für Menschen mit Behinderung in der Glienicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: FGÜ zwischen Märkischem Zentrum und Mittelfeldbecken - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Wartehäuschen für Busbenutzer am S-Bahnhof Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Parkdauer in der Heinsestraße auf zwei Stunden erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: Erweiterung der Kurzparkzone am S-Bahnhof Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Anrechnungsgrundlage auf den Personalschlüssel für Erzieherinnen in einer berufsbegleitenden Ausbildung - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Grünpfeilschild für Rechtsabbieger Alt-Wittenau entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Ergänzung des Straßenschildes für den Singdrosselsteig - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Kinderfreundliche Wartebereiche im Bezirksamt - überwiesen
+- TOP 12.3: Bessere Ausschilderung Fahrradhauptrouten - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Fassaden der Eingangsgebäude S-Bahnhof Hermsdorf reinigen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Schuldnerberatungsstellen in Reinickendorf - überwiesen
+- TOP 13.3: Fahrradschutzstreifen Bernauer Straße - überwiesen
+- TOP 13.4: Wohnungen in Reinickendorf endlich von Asbest befreien! - überwiesen
+- TOP 13.5: NEB bei Heidekrautbahn unterstützen - überwiesen
+- TOP 13.6: Fahrradschutzstreifen Ollenhauer Straße - überwiesen
+- TOP 13.7: Dog-Stationen in der Freien Scholle einrichten - überwiesen
+- TOP 13.8: Fahrradschutzstreifen Scharnweberstraße und Seidelstraße - überwiesen
+- TOP 13.9: Rückbau der Fahrrad-Lichtsignalanlagen Berliner Straße / Am Borsigturm - überwiesen
+- TOP 13.10: Rückbau der Fahrrad-Lichtsignalanlage Hermsdorfer Straße / Oranienburger Staße - überwiesen
