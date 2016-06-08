@@ -1,0 +1,51 @@
+# 8. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-06-08T10:00:00+02:00
+- Ende: 2016-06-08T13:05:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-PA-32
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-PA-32
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 07. Sitzung des Planungsausschusses vom 17.02.2016
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Windenergie-Erlass NRW vom 4.11.2015
+- TOP 2.2: Abgrabungsmonitoring von Nordrhein-Westfalen – Lockergesteine Hier: Monitoringbericht für das Planungsgebiet Regionalverband Ruhr zum 01.01.2016
+- TOP 2.3: Änderungsverfahren 21 E (Hammer Strasse / Overhammshof - Erstaufnahmeeinrichtung) zum Regionalen Flächennutzungsplan – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 2.4: Wasserstraßen-, Hafen- und Logistikkonzept des Landes NRW
+- TOP 2.5: Abfallwirtschaftsplan Nordrhein-Westfalen - Teilplan Siedlungsabfälle
+- TOP 2.6: Anträge
+- TOP 2.7: Anfragen und Mitteilungen
+- TOP 2.7.1: Raumordnungsverfahren Zeelink II Hier: Sachstand
+- TOP 2.7.2: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 3: Regionaler Diskurs / Regionalplan Ruhr
+- TOP 3.1: Sicht der Kommunen und Kreise auf den Regionalen Diskurs Hier: Kommentar einer kreisfreien und einer kreisangehörigen Stadt sowie eines Kreises
+- TOP 3.2: Sachstand Regionalplan Ruhr
+- TOP 3.3: Anfragen und Mitteilungen
+- TOP 3.3.1: Beantwortung der Anfrage der FDP-Fraktion vom 22.04.2016 zum Hafenkonzept NRW
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Sachstandsbericht zur Durchführung des „Wissenslabors Ruhr – Möglichkeitsräume“ im Ruhrgebiet (KENNISLAB RUHR) hier: Abschluss Kennislab Ruhr 1 + 2 und weiteres Vorgehen
+- TOP 4.2: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht
+- TOP 4.3: Gemeinsame Treibhausgasbilanz für die Metropole Ruhr
+- TOP 4.4: Route der Industriekultur – RVR-Vertrag mit dem Land NRW
+- TOP 4.5: Innovationsband Radschnellweg Ruhr – Gemeinsamer Workshop mit der Städteregion Ruhr am 03.11.2015 hier: Dokumentation
+- TOP 4.6: Fahrradverleihsystem metropolradruhr Hier: Sachstandsbericht
+- TOP 4.7: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr'
+- TOP 4.8: Antrag der Mingas-Power GmbH auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen nebst den bei ihrer Gewinnung anfallenden Gasen zu gewerblichen Zwecken für das Feld 'Haard-Gas' Hier: 1)Stellungnahme des Regionalverbandes Ruhr als Regionalplanungsbehörde und als Träger öffentlicher Belange 2)Erteilung der Erlaubnis
+- TOP 4.9: Regionalkonferenz Schutzsuchende Hier: Ankündigung auf dem RVR-Planernetzwerk „Unterbringung von Flüchtlingen“ am 29.4.2016
+- TOP 4.10: Anträge
+- TOP 4.11: Anfragen und Mitteilungen
+- TOP 4.11.1: Beantwortung der Anfrage der Fraktion DIE LINKE zur Größenordnung der betriebsgebundenen Erweiterungsflächen im Verbandsgebiet vom 21.03.2016
+- TOP 4.11.2: Beantwortung der Anfrage der Fraktion DIE LINKE zur Fortführung des Regionalen Wohnungsmarktberichtes vom 09.05.2016
+- TOP 4.11.3: Regionale Baustellenkonferenz
+- TOP 4.11.4: Bericht über laufende Verfahren - RVR als Träger öffentlicher Belange
+- TOP 4.11.5: Ankündigung: VRR-Nahverkehrsplan 2016 hier: Formales Beteiligungsverfahren
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
