@@ -1,0 +1,7 @@
+# TOP 7: Anmeldung der Förderanträge für das Förderprogramm Aktive Zentren
+
+- Sitzung: 48. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2016-06-14)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=23046
+- Ergebnis: erledigt
