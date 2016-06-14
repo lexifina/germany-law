@@ -1,0 +1,122 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779357
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779357
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Beantwortung der Fragen aus der Sitzung vom 10.05.2016 durch die PI 12
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Gebühr für die Teilnahme an Hofflohmärkten? Schreiben einer Bürgerin vom 30.04.2016
+- TOP .2.: Anfrage des Arbeitskreises Industriekultur vom 03.94.206 Bedeutung der Bauten des Industriezeitalters in München stärken vertagt aus der Sitzung vom 10.05.2016 Unterlagen liegen bereits vor
+- TOP .3.: Lärmbelästigung durch ?Freiluftdisco? auf dem Gebiet der Hochschule für Fernsehen und Film Schreiben eines Bürgers aus der Maxvorstadt vom 21.05.2016
+- TOP .4.: Ampelübergange in der Maxvorstadt werden durch Pkw zugeparkt Schreiben eines Bürgers aus der Maxvorstadt vom 22.05.2016
+- TOP .5.: Hamburger Fischmarkt auf dem Josephsplatz Schreiben eines Bürgers vom 27.05.2016
+- TOP .6.: Maßnahmen gegen Skater auf dem Klaus-Mann-Platz Schreiben einer Bürgerin aus der Maxvorstadt vom 24.05.2016
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Sandstraße 25 - Sanierung bzw. Abriss im Erhaltungssatzungsgebiet; wie werden die Kriterien der Erhaltungssatzung eingefordert und eie Ein- haltung kontrolliert?
+- TOP .2.: Abmarkierter Fahrradweg auf der östlichen Fahrspur des Oskar-von-Miller-Rings zwischen Brienner Straße und Gabelsbergerstraße
+- TOP .3.: Direktorium Anwesen Gabelsbergerstraße 38 Zwischennachricht zum Schreiben des BA vom 15.04.2016 an den Oberbürgermeister
+- TOP .4.: Benennung des Straßennamens Heßstraße
+- TOP .5.: Baureferat, Antwortschreiben BA-Antrag Nr. 14-20 / B 02160 vom 15.03.2016, Platzoffensive Siegestor
+- TOP .6.: Kreisverwaltungsreferat, Verkehrsabteilung Antwortschreiben zur Anfrage des BA 3 vom 13.05.2016, Ampelanlage Adalbert-/Amalien- straße (TOP A 5.2.1/052016)
+- TOP .1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 29.03.2016 Schulbauoffensive 2013 ? 2020, hier Berufsoberschule Brienner Straße 37 vertagt aus den Sitzungen vom 12.04.2016 und 10.05.2016 Unterlagen liegen bereits vor
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Türkenstraße 35 ? Vorbescheid Ausbau Dachgeschoss, Änderung der Dachform von Satteldach auf Mansarddach
+- TOP .2.: Augustenstraße 4 ? Vorbescheid Neubau eines Rückgebäudes
+- TOP .3.: Sandstraße 21/RGB Bestandssanierung, Aufstockung und Nutzungsänderung des Rückgebäudes zu einer Beherbergungsstätte
+- TOP .4.: Thorwaldsenstraße 13 ? Tektur Schulbauoffensive: Nutzungsänderung einer außerschulischen Betreuung in eine Tageseinrichtung für Kinder und eine Praxisberatung für das Stadtjugendamt im 1. OG sowie Anbau einer Fluchttreppe ? Änderung des 2. Rettungsweges aus den Räumen Kochen/Essen und Büro
+- TOP .5.: Gabelsbergerstraße 34 Dachgeschossausbau im Vordergebäude vertagt aus den Sitzungen vom 12.04.2016 und 10.05.2016 Unterlagen liegen bereits vor
+- TOP .6.: Königinstraße 9 ? 11 a Aufstockung eines Gebäudes sowie Neubau eines Verwaltungsgebäudes und eines Verteilerbauwerks mit Tiefgarage ? Vorbescheid vertagt aus der Sitzung vom 10.05.2016 Unterlagen liegen bereits vor
+- TOP .7.: Nymphenburger Straße 64 Neubau zweier Wohngebäude mit dreigeschossiger Wohntiefgarage und Freianlagen vertagt aus der Sitzung vom 10.05.2016 Unterlagen liegen bereits vor
+- TOP .8.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 16./17., 18./19. KW
+- TOP 9.10.: Fürstenstraße 7 Nutzungsänderung des Rückgebäudes von einem Technik- in ein Wohngebäude mit Fassadenänderung und Aufstockung eines Terrassengeschosses - Vorbescheid
+- TOP 9.11.: Blutenburgstraße 31 Errichtung von vier Wohnungen durch Aufstockung des Rückgebäudes und Baulücken- schließung - Vorbescheid
+- TOP 9.12.: Lenbachplatz 1 Nutzungsänderung Büroflächen zu Gastronomiebetrieb (EG u. 1. UG)
+- TOP 9.13.: Schellingstraße 50 Nutzungsänderung Altbestand Atelier Innenhof
+- TOP 9.14.: Linprunstraße 5 Neubau zweier Wohngebäude mit Tiefgarage ? Vorbescheid (Linprunstr. 5/Sandstr. 25)
+- TOP 9.15.: Liste der Bauvorhaben der LBK: 17., 18., 19. , 20., 21. KW
+- TOP 9.16.: Referat für Stadtplanung und Bauordnung, Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2082a Katharina-von-Bora-Straße (östlich), Karlstraße (nördlich)
+- TOP 9.17.: Königinstraße 26 Neubau (Königinstraße 26) - Vorbescheid
+- TOP 9.18.: Schleißheimer Straße 25 Sanierung und Erweiterung des Dachgeschosses im VGB: Erneuerung des Dachstuhls mit geänderter Dachneigung, Einbau von Gauben und eines Galeriegeschosses, Erneue- rung und Erweiterung Balkone, Einbau eines freistehenden Personenaufzugs
+- TOP 9.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 9.3.1: Vollzug der Baumschutzverordnung
+- TOP 9.3.2: Baumfällungen
+- TOP 9.1.: Georgenstraße 63, eine Robinie
+- TOP 9.2.: Nordendstraße 12, ein Bergahorn
+- TOP 9.3.: Theresienstsraße 90, eine Kaukasische Zelkove
+- TOP 9.3.3: Grün- und Freiflächenplanung
+- TOP 9.1.: Referat für Stadtplanung und Bauordnung, Genehmnigungsbescheid Baumfällung Winzererstsraße 83, eine Zierkirsche
+- TOP 9.2.: Referat für Stadtplanung und Bauordnung, Baugenehmigung Augustenstraße 87
+- TOP 9.3.: Realisierungswettbewerb für den Bereich Altstadtring Nordwest, Gabelsbergerstraße mit Eingang zum Kunstareal Antrag Nr. 14-20 / A 02127 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürger- beteiligung vom 13.05.2016
+- TOP 9.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neuberufung des Heimatpflegers der LHM und seines Stellvertreters Sitzungsvorlage Nr. 14-20 / V 05902 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 9.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage BeSPIELbare Stadt auch für München Antrag Nr. 14-20 / A 869 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 02.04.2015 BA-Antrag Nr. 14-20 / B 01130 des BA 5 Au-Haidhausen vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 05031 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 9.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGb im Stadtbezirks 9 Neuhausen-Nymphenburg Sitzungsvorlage Nr. 14-20 / V 05526 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 9.8.: Referat für Stadtplanung und Bauordnung Katharina-von-Bora-Straße 8, Teilabbruch und -erneuerung einer Hofdecke sowie Abbruch von ehemaligen Kohletrichtern; Baugenehmigung
+- TOP 9.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Ökologischer Kriterienkatalog, Fortschreibung 2016 Sitzungsvorlage Nr. 14-20 / V 02989 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 9.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit Sitzungsvorlage Nr. 14-20 / V 05954 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 9.11.: Referat für Stadtplanung und Bauordnung Baugenehmigung Linprunstraße 40
+- TOP 9.1.: Antrag der CSU im BA 3 vom 23.03.2016 Einrichtung einer Ladestation für E-Taxis vertagt aus den Sitzungen vom 12.04.2016 und 10.05.2016 Unterlagen liegen bereits vor
+- TOP 9.2.: Antrag der CSU im BA 3 vom 02.05.2016 Ortstermin am Königsplatz, Teilnehmer: BA 3, Amt für Abfallwirtschaft, MVG, Anwohner
+- TOP 9.3.: Antrag Bündnis 90/Die Grünen im BA 3 vom 30.05.2016 Vorfahrtregelung Kreuzung Luisenstraße/Zieblandstraße/Tengstraße aufheben und Rechts-vor-Links-Regelung einführen
+- TOP 9.4.: Antrag der FDP im BA 3 vom 31.05.2016 Anbringung von Hinweistafeln über die Herkunft des jeweiligen Straßennamens an allen Straßenschildern in der Maxvorstadt
+- TOP 9.2.1: Verkehr
+- TOP 9.1.: Kreisverwaltungsreferat, Verkehrsanordnungen Wegweisende Beschilderung Altstadtringtunnel
+- TOP 9.2.: Kreisverwaltungsreferat, Verkehrsmanagement Radführung Seidlstraße ? Lückenschluss, Vorlage des Konzeptes durch das KVR
+- TOP 9.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichtung eines allgemeinen Behindertenparkplatzes, Seidlstraße 23
+- TOP 4.2.2: Öffentlicher Raum
+- TOP 4.1.: Dachauer Straße 6, Umwandlung einer bestehenden unbeleuchteten Litfaßsäule in eine beleuchtete (Ersatz)
+- TOP 4.2.: Modell des ursprünglichen Alten Botanischen Gartens als Bürgerinformation im jetzigen Alten Botanischen Garten
+- TOP 4.3.: entfällt
+- TOP 4.4.: Sondernutzungen auf öffentlichem Grund a) Ludwigstraße 11, Verkaufseinrichtung b) Dachauer Straße 42, Verkaufseinrichtung c) Zieblandstraße 2, Verkaufseinrichtung
+- TOP 4.2.3: Gaststätten
+- TOP 4.1.: Freischankflächen, Sondernutzungserlaubnisse a) Schellingstraße 29, Genehmigung einer Freischankfläche b) Augustenstraße 123, Genehmigung einer Freischankfläche, Änderungsantrag c) Ludwigstraße 20 und Professor-Huber-Platz 2, Verkaufseinrichtung auf öffentl. Grund d) Schellingstraße 20, Genehmigung einer Freischankfläche e) Türkenstraße 21, Genehmigung einer Freischankfläche f) Marsstraße 13, Genehmigung einer Freischankfläche g) Adalbertstraße 33, Genehmigung einer Freischankfläche f) Odeonsplatz 2, Rücknahme der Erlaubnis einer Freischankfläche
+- TOP 4.2.4: Veranstaltungen
+- TOP 4.1.: Münchner Sportfestival am 10.07.2016 auf dem Königsplatz
+- TOP 4.2.: 500 Jahre Reinheitsgebot vom 22.07. bis 24.07.2016 auf dem sog. Odeonsplatz, Wittelsbacherplatz, Brienner Straße und Ludwigstraße
+- TOP 4.3.: Oben Ohne Open Air des Kreisjugendrings München am 23.07.2013 auf dem Königsplatz
+- TOP 4.4.: Kino-Open-Air auf dem Königsplatz vom 25.07. bis 02.08.2016
+- TOP 4.5.: Jugendgeschichtswerkstatt ?sommer.dok? am 20.07.2016 auf dem Königsplatz
+- TOP 4.1.: Neue Reinigungsklassen im Bereich Hauptbahnhof Bericht einer Mitarbeiterin des Baureferates, Tiefbau, Strassenreinigung
+- TOP 4.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Ausnahmegenehmigung Vollzug der Grünanlagensatzung, Baustelleneinrichtung Marlene-Dietrich-Straße 47
+- TOP 4.2.: Baureferat, Beschlussvorlage Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse Sitzungsvorlage Nr. 14-20 / V 05984 Bekanntgabe in der Sitzung des Bauausschusses vom 26.04.2016
+- TOP 4.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Eilentscheidung a) Streetlife Festival/Corso Leopold am 11.06. und 12.06.2016 zwischen Odeonsplatz und Münchner Freiheit b)Straßenfest in der Schleißheimer Straße 1-30 am 18.06.2016 Eilentscheidungen des Vorsitzenden vom 16.05.2016: jeweils Zustimmung
+- TOP 4.4.: Kreisverwaltungsreferat, Verkehrsmanagement, strategische Konzepte Markierung von beidseitigen Radverkehrsanlagen auf der Fahrbahnder Schleißheimer Straße zwischen Elisabethstraße und Theresienstraße/Maßmannstraße
+- TOP 4.5.: Brienner Straße, Einbahnrichtung Antrag div. StadträteInnen der SPD-Fraktion vom 13.05.2016
+- TOP 4.7.: Ampelanlage Adalbert/Amalienstraße, Schreiben eines Bürgers vom 24.05.2016
+- TOP 4.8.: Schleißheimer Straße 66, Genehmigung einer Fahrradabstellfläche vor einem Gewerbe- betrieb; Eilentscheidung des Vorsitzenden vom 24.05.2016: Zustimm
+- TOP 4.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid, Open Air Konzert mit Herbert Grönemeyer am 05.06.2016
+- TOP 4.10.: Baumaßnahmen der Stadtwerke a) Steinheilstraße, Fernwärme b) Linprunstraße 22, Fernwärme c) Linprunstraße 3, Fernwärme
+- TOP 4.1.: Sozialreferat, Beschlussvorlage Frauenobdach KARLA 51, Erweiterung am Standort Karlstraße 40 Verlagerung des Schutzraums für Frauen in die Karlstraße 40 Sitzungsvorlage Nr. 14-20 / V 05894 Beschuss des Sozialausschusses vom 09.06.2016
+- TOP 4.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4.1.: Öffentlicher Bücherschrank in der Maxvorstadt
+- TOP 4.2.: Terminplanung Sitzungen 2017
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Welche Rolle spielen städtische Gebühren bei der Erhaltung von Traditions- und Brauch- tumsveranstaltungen? Den Bezirksausschüssen ein Befreiungsrecht einräumen! Antrag des BA 16 Ramersdorf-Perlach vom 26.04.2016 Der BA 16 bittet um Unterstützung seines Antrages.
+- TOP 4.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Förderung von Bürgerschaftlichem Engagement, Schaffung einer Koordinatinsstelle Sitzungsvorlage Nr. 14-20 / V 04822 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 4.6.: Direktorium, Antrag zur Änderung der BA-Satzung Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhal- tungssatzungsgebieten BA-Antrag Nr. 14-20 / B 02164 des BA 6 Sendling
+- TOP 4.1.: Nächste BA- und UA-Sitzungen
+- TOP 9: (E) Gentrifizierung; Bereitstellung bezahlbaren Wohnraumes Empfehlung Nr. 14-20 / E 00654 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 22.10.2015
+- TOP 4: (E) Tempo-30-Zone in der Sandstraße zwischen Nymphenburger und Dachauer Straße zur Vermeidung von Lärmbelästigungen und Gefährdung von Anwohnern und Kindergartenkindern
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Campus for Change e.V. Förderung der Integration von jungen Flüchtlingen und Asylbewerbern
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauerstraße 98 Zirkusprojekt vom 17.-23.07.2016
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Kunst im Karrèe 2016 am 09./10.07.2016
+- TOP 4.2.: (E) Budget der Bezirksausschüsse easy!upstream - Verein zur Förderung und Unterstützung zeitgenössischer Kunst e.V. Ausstellung junger Kunst vom 03.06. - 26.06.2016
+- TOP 4.1.: Anträge
+- TOP 4.2.: Entscheidungen und Anhörungen
+- TOP 4.3.: Aktuelle Sachstandsberichte
+- TOP 4.4.: Unterrichtungen
+- TOP 4.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes Empfehlung Nr. 14-20 / E 00719 der BV des 18. Stadtbezirkes vom 12.11.2015 Sitzungsvorlage Nr. 14-20 / V 5085 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
