@@ -1,0 +1,110 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-06-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784200
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784200
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Ferienausschusses 2016; Größe, Zusammensetzung und Wahl einer/s Vorsitzenden
+- TOP .2.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten, Antrag des BA 6 - Sendling
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Bürgeranliegen, Frage zu Neubau in der Thierschstraße 10
+- TOP 7.2.: Bürgeranliegen, Geplante Baumfällarbeiten im Zuge des Vorhabens TOM, Tiefgarage unter dem Thomas-Wimmer-Ring
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Frauenstraße 40-42, DG-Ausbau Balkonanbau, Anbau zweier außenliegender, verglaster Außenanzüge - Tektur
+- TOP 7.2.: Oettingenstraße 16, Nutzungsänderung / Umbau und Sanierung, Einbau eines notwendigen Treppenhauses und zusätzlicher Gaube sowie Anbau von Balkonen Nutzungsänderung: Bewohner-/Pflegezimmer im EG zu Gesundheitszentrum, Bewohner-/Pflegezimmer im 1-4. OG zu Senioren-/Mitarbeiterappartments, Personalzimmer im 5. OG zu Mitarbeiterwohnungen
+- TOP 7.3.: Mariannenstraße 3, Aufstockung um 2 Geschosse, DG-Abbruch und -Neuerrichtung, Aufstockung des Aufzugs
+- TOP 7.4.: Pilotystraße 4, Nutzungsänderung eines Wohn- und Bürogebäudes mit einer zusammenhängenden Büroeinheit im EG, 1.OG, 2.OG, 3.OG und teilweise 5.OG zu jeweils einer seperaten Büroeinheit im EG, 1.OG, 2.OG, 3.OG sowie Zahnarztpraxis im 1. OG und einer Wohnung im 5.OG
+- TOP 7.5.: Pestalozzistraße 2, Unterbringung von Flüchtlingen, Errichtung eines gebäudes in System-/Modulbauweise, TEKTUR
+- TOP 7.6.: Briennerstraße 7, Umbau Mietung EG, Slowear und Erneuerung der Glasdachkonstruktuion des hofseitigen Pavillons einer Ladenfläche
+- TOP 7.7.: Lerchenfeldstraße 2, Generalsanierung und Erweiterung der Archäologischen Staatssammlung
+- TOP 7.8.: Marienplatz 22, Errichtung eines temporären Verkaufscontainers mit WCs und einer Freischankfläche für die Dauer der Baustelleneinrichtung
+- TOP 7.9.: Hackenstraße 7, Instandsetzung, Umbau und Erweiterung eines Wohn- und Geschäftshauses mit Neubau einer Tiefgarage, TEKTUR
+- TOP 7.10.: Maximilianstraße 6-8, Umbau, Sanierung und Erweiterung eines Büro-, Wohn- und Geschäftshauses, TEKTUR
+- TOP 7.1.: Erinnerungsverfahren, Gehwegsanierung nach Hochbaumaßnahme, Am Einlaß 3
+- TOP 7.1.: Gemeinsamer BA Antrag zu Straßenreinigungsgebühren, Anträge der SPD und FDP Fraktionen (vertagt aus 2016.05 C 1.2 / 1.3)
+- TOP 7.2.: Bürgeranliegen, Bierbike- und Prosecco Touren, Lärm- und Müllprobleme
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Freischankfläche, Sporerstraße 2, Gaststätte ?Chang City?
+- TOP 7.2.: Freischankfläche, Residenzstraße 22, Gewerbebetrieb ?Eilles?
+- TOP 7.3.: Freischankfläche, Damenstiftstraße 12, Gaststätte ?Favorit Bar?
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Mobiler Fahrradständer, Maximiliansplatz 18, tem Brock Immobilien GmbH
+- TOP 7.2.: Verkaufseinrichtung auf öffentlichem Grund, Triftstraße 10, Blumen im Lehel
+- TOP 7.3.: Mobiler Fahrradständer, Maximilianstraße 21, Münchner Hausbau, Planungs- und Baumanagement GmbH
+- TOP 7.4.: Mobiler Fahrradständer, Residenzstraße 23, Engel & Völkers München GmbH
+- TOP 7.5.: Mobiler Fahrradständer, Pacellistraße 5, Ergonomie Studio Muckenthaler
+- TOP 7.6.: Mobiler Fahrradständer, Widerruf einer Erlaubnis nach Umzug
+- TOP 7.1.: Bücherflohmarkt, 25.06.2016, Isarpromenande entlang der Widenmayerstraße (zwischen Maximilianstr. und Liebigstr. bis zur Praterinsel)
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Informationsveranstaltung NATOUR, 21.06.2016, sog. Odeonsplatz
+- TOP 7.2.: Klassik am Odeonsplatz, 16.07.-17.07.2016
+- TOP 7.3.: Christopher-Street-Day, Marienplatz / Marienhof / Rindermarkt 09.07-10.07.2016
+- TOP 7.4.: Festival 500 Jahre Bayerisches Reinheitsgebot, Odeons- / Wittelsbacherplatz / Brienner-/ Ludwigstraße, 22.07.-24.07.2016
+- TOP 7.5.: Unicef-Aktion zum Weltflüchtlingstag, Marienhof, 25.06.2016
+- TOP 7.6.: Kirchenzug zum Gärtnertag, Innenstadt, 02.08.2016
+- TOP 7.7.: Metzgersprung mit Festumzug, Innenstadt, 11.09.2016
+- TOP 7.8.: Gemeindefest Gartenlust, Mariannenplatz, 10.07.2016
+- TOP 7.9.: Gemeinsam Sport ? Gemeinsam Spaß 2016, Marienplatz und Marienhof, 16.07.2016
+- TOP 7.10.: Festzug anlässlich 500 Jahre Bayerisches Reinheitsgebot, Thomas-Wimmer-Ring bis Maximilianstraße, 24.07.2016
+- TOP 7.11.: Kulturveranstaltung ?Feel Russia?, Marienhof, 02.07.-03.07.2016
+- TOP 7.12.: Straßenfest Mariannenstraße, 30.07.2016
+- TOP 7.13.: Bennofest auf dem sog. Odeonsplatz, 25.06.2016
+- TOP 7.1.: Veranstaltung auf Privatgrund, Fränkisches Weinfest im Alten Hof, 08.07.-24.07.2016
+- TOP 7.1.: Information über die Auswirkungen der Baustelle Ifflandstraße / Isarring auf den Verkehr im Stadtbezirk 1
+- TOP 1.2.: Verbreiterung der Gehbahn vor dem Haus Triftstraße 10
+- TOP 4.1.: Verlängerung des Bewilligungszeitraums für den Budgetantrag der Initiative Kinderfest am St.-Anna-Platz
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Wohnungsbauatlas für München und Region
+- TOP 0.3.: Satzungsbeschluss Erhaltungssatzung ?Gärtnerplatz-/Glockenbachviertel? und Verlängerung der Erhaltungssatzung ?Gärtnerplatzviertel?, Beschluss der Vollversammlung des Stadtrates vom 11.05.2016, Sitzungsvorlage Nr. 14-20 / V 05196
+- TOP 0.4.: Neuberufung eines Heimatpflegers der LH München und seines Stellvertreters, Sitzungsvorlage Nr. 14-20 / V 05902
+- TOP 0.5.: Schaffung von neuem Baurecht im 18. Stadtbezirk, Sitzungsvorlage Nr. 14-20 / V 05085 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 0.6.: Ökologischer Kriterienkatalog Fortschreibung 2016, Sitzungsvorlage Nr. 14-20 / V02989, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 0.7.: Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit ? Jahresausstellung ?Freiraum 2030?, Sitzungsvorlage Nr. 14-20 / V05954 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 0.8.: Ergebnisprotokoll der Erörterungsveranstaltung zum Bebauungsplan Nr. 2018 Hildegard-, Hochbrücken- und Neuturmstraße sowie Thomas-Wimmer-Ring zwischen Knöbel- und Kanalstraße
+- TOP 0.9.: Antwort des Baureferats zu BA-Antrag Nr. 14-20 / B 02282, Bodenbelag vor dem Haus der Kunst erneuern
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Antwort des Baureferats zur Instandsetzung verschiedener Bänke im Stadtbezirk 1
+- TOP 0.6.: Eilentscheidungen Veranstalungen
+- TOP 0.1.: Vorbereitungsmaßnahmen zum Verkehrsversuch Fußgängerzone Sendlinger Straße
+- TOP 0.2.: Maßnahmen für eine saubere Isar, insbesondere Ergebnisse Runder Tisch ?Erholungsraum Isar? am 09.12.2015, Petition: Verbesserung des Erholungsgebiets an der Isar, Beschluss des Bauausschusses vom 26.04.2016, Sitzungsvorlage Nr. 14-20 / V05605
+- TOP 0.3.: Genehmigungsbescheid Baumfällung Widemayserstr. 13-14
+- TOP 0.4.: Antwort des Kreisverwaltungsreferats auf Bürgerschreiben zur Verkehrssituation Maximiliansbrücke
+- TOP 0.5.: Förderprogramm Elektromobilität in München
+- TOP 0.6.: Ausnahmegenehmigung, Baustelleneinrichtung an der Grünanlage Herzog-Wilhelm-Straße
+- TOP 0.7.: Antwort des Referats für Stadtplanung und Bauordnung zur schriftlichen Anfrage, ?Kann das Planungsreferat bei dem Verkehrsversuch Sendloinger Straße die Kleinteiligkeit der gewerblichen Strukturen gewährleisten??
+- TOP 0.8.: Verkehrsversuch FGZ Sendlinger Straße, Informationen zu weiteren Verfahrensschritten, Zeitplan und Kommunikationskonzept
+- TOP 0.9.: Planfeststellung für den Neubau einer 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt 3, München Ost Bereich westliches Isarufer bis östlich S-Bahnhof Leuchtenbergring mit Ostbahnhof
+- TOP 0.10.: Verkehrsrechtliche Anordnung zu Arbeiten im Straßenraum, Thierschstraße 29 und Adelgundenstraße zwischen Mannhardtstraße und Thierschstraße
+- TOP 0.11.: Ausnahmezulassung für bestimmte Baumaschinen und -geräte im Straßenraum Kreuzstraße 18 am 19.06.2016
+- TOP 0.1.: Mieterbeirat, Änderung der Vergütungsregelungen, Sitzungsvorlage Nr. 14-20 / V 05619, Beschluss der Vollversammlung des Stadtrates vom 11.05.2016
+- TOP 0.2.: BeSPIELbare und beSITZbare Stadt auch für München, Sitzungsvorlage Nr. 14-20 / V 05031 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 0.3.: Förderung Bürgerschaftlichen Engagements, Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20 / V04822 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016
+- TOP 0.4.: Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für des 23. Stadtbezirkes, Sitzungsvorlage Nr. 14-20 / V 05389, Beschluss der Vollversammlung des Stadtrates vom 20.04.2016
+- TOP 1: (E) Fahrradverkehr auf der Zweibrückenstraße ordnen Kontrolle der Sondernutzungsflächen von Fahrradtourenanbietern Empfehlungen Nr. 14-20 / E 00831 und 832 der Bürgerversammlung des Stadtbezirkes 1 -Altstadt-Lehel vom 03.12.2015
+- TOP 3: (E) Rolltreppen am Isartor dauerhaft in Betrieb halten (Antrag 8 auf dem Beiblatt) Empfehlung Nr. 14-20 / E 00833 der Bürgerversammlung des Stadtbezirks 1 Altstadt - Lehel am 03.12.2015 Rolltreppen S-Bahn Station Isartor (Nr. 3 des Antrages) Empfehlung Nr. 14-20 / E 00815 der Bürgerversammlung des Stadtbezirks 1 Altstadt - Lehel am 03.12.2015
+- TOP 4: (E) Kontrolle der ordnungsgemäßen Nutzung der Einbahnstraße in der Sparkassenstraße Kontrolle von LKW und Lieferfahrzeugen, die die Gehwege in der Altstadt blockieren Geschwindigkeitskontrollen am Thomas-Wimmer-Ring durchführen Empfehlungen Nr. 829, 830 und 835 der Bürgerversammlung des 1. Stadtbezirkes am 03.12.2015
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion im August/September 2016
+- TOP 4.4: Unterrichtungen (siehe Anlage)
+- TOP 4.0: Bericht
+- TOP 4.1: Anträge und Bürgeranliegen
+- TOP 4.2: Entscheidungen
+- TOP 4.3: Anhörungen
+- TOP 7.3.2: Sonstige
