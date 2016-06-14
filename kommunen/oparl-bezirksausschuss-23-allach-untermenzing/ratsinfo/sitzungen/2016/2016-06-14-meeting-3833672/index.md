@@ -1,0 +1,95 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-06-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833672
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833672
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll Planung und Bau vom 09.05.16
+- TOP 1.4.2.: Protokoll UA Familie, Bildung und Soziales vom 19.04.2016
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Ampel St.-Johann-Str./Eversbuschstraße
+- TOP 2.2.: Straßenschäden Kreckestraße
+- TOP 3: Anträge
+- TOP 3.1.: Weitere Jugendeinrichtung im Zentrum des 23. Stadtbezirkes
+- TOP 3.2.: Sozialpädagoge sowie Übungsleiter für das Nightball-Angebot in der Jugendeinrichtung orange.planet
+- TOP 3.3.: S-Bahn-Haltepunkt Untermenzing: Fahrgastinformationssystem
+- TOP 3.4.: Nachbarschaftstreff Diamalt-Gelände
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Kulturforum München-West e.V. Herausgabe einer Broschüre "Duo Menzing"
+- TOP 5: Anhörungen
+- TOP 5.1.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/39 Theodor-Fischer-Straße (südlich), Pasinger Heuweg (östlich)
+- TOP 5.2.: Finsterwalderstr. 11, Gemarkung: Untermenzing, Fl.Nr.: 171/19 Umbau und Erweiterung (Anbau) eines Einfamilienhauses
+- TOP 5.3.: Ernst-von-Beling-Str. 4, Gemarkung: Untermenzing, Fl.Nr.: 379/3 Neubau eines Doppel- und eines Reihenhauses - VORBESCHEID
+- TOP 5.4.: Schulwegsicherheit an der Kreuzung Ludwigsfelder Straße / Eversbuschstraße, BV-Empf. Nr. 00513
+- TOP 5.5.: Ausdehnung des Haltverbotes für die Müllabfuhr am Mühlhölzlweg
+- TOP 5.6.: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.04.16: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger": a) des Stadtjugendamtes (Sitzungsvorlage Nr. 05364) b) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 05326) c) des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 05336) d) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 05344)
+- TOP 6.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 26.04.16: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger": a) des Stadtjugendamtes (Sitzungsvorlage Nr. 05364+ 05980) b) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 05326) c) des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 05336) d) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 05344)
+- TOP 6.3.: Beschluss der Vollversammlung vom 20.04.16: Mieterbeirat (Sitzungsvorlage Nr. 05389)
+- TOP 6.4.: Beschluss des Bauausschusses vom 31.05.16: Bebauungsplan mit Grünordnung Nr. 1655 a Oertelplatz, Bahnlinie München-Ingolstadt (westlich), Hintermeiertstr. (nördlich), Lautenschlägerstr. (östlich), Vesaliusstr. (südlich) und Georg-Reismüller-Str. (östlich) sowie Franz-Nißl-Straße (westlich) (Sitzungsvorlage Nr. 05542)
+- TOP 6.5.: Beschluss der Vollversammlung vom 11.05.16: Mieterbeirat (Sitzungsvorlage Nr. 05619)
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: a) Ökologischer Kriterienkatalog, Fortschreibung 2016 (Sitzungsvorlage Nr. 02989) b) Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes (Sitzungsvorlage Nr. 05085) c) Neuberufung des Heimatpflegers (Sitzungsvorlage Nr. 05902) d) BeSpielbare und beSitzbare Stadt auch für München (Sitzungsvorlage Nr. 05031) e) Langfristige Freiraumentwicklung - Öffentlichkeitsarbeit (Sitzungsvorlage Nr. 05954) f) Förderung von Bürgerschaftlichem Engagement (Sitzungsvorlage Nr. 04822)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Kieshalde Stieglstraße
+- TOP 7.2.: Einladung Informationsveranstaltung am 27.06.16, 18:30 -20:30 Uhr
+- TOP 7.3.: Bürgerforum Altenpflege am 05.07.16 im alten Rathaus, 18:00-20:00 Uhr
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 1.2.: Schreiben Städt. Friedhöfe vom 28.04.16: Parkplatz am Allacher Friedhof, Fuß- und Radweg entlang der Würm zum Allacher Friedhof
+- TOP 1.3.: Schreiben Baureferat vom 27.04.16: Nächtliche Ruhestörungen an der Grünanlage Servetstraße / Kleselstraße
+- TOP 1.4.: Schreiben Baureferat vom 01.06.16: S-Bahnhof Untermenzing; Reinigung der Wände der Unterführung zwischen Bauseweinallee und Megerlestraße
+- TOP 1.5.: Schreiben Münchner Stadtentwässerrung vom 19.02.16: Kanalbau Gerberau
+- TOP 1.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.05.16: Beteiligung der Öffentlichkeit; 1. Änderung Flächennutzungsplan mit integrierter Landschaftsplanung für den Bereich IV/37, Pasteurstraße (südlcih), Georg-Reismüller-Straße (östlich), Bahnlinie München-Treuchtlingen (westlich) 2. Bebauungsplan mit Grünordnung Nr. 2103 Georg-Reismüller-Str. (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) und imaginäre Verlängerung der Höcherstraße (nördlich)
+- TOP 1.7.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Eversbuschstr. 12, Ernst-Haeckel-Str. 91
+- TOP 1.8.: Schreiben Referat für Stadtplanung und Bauordnung, Einzelfällungsanträge: Eversbuschstr. 206, Allacher Str. 214, Langerhansstr. 13, Zwiedineckstraße 33
+- TOP 1.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (02.05.-08.05.16, 09.05.-15.05.16, 16.05.-22.05.16, 23.05.-29.05.16)
+- TOP 1.10.: Schreiben Stadtwerke München vom 09.05.16, 17.05.16, 23.05.16, 30.05.16: Baumaßnahmen
+- TOP 1.11.: Schreiben Stadtwerke München vom 27.05.16: Baumaßnahmen, Stromprojekt BG Gerberau
+- TOP 1.12.: Schreiben Kommunalreferat vom 11.05.16: Stadteigenes Anwesen Schöllstr. 8, Zirkus Roberto vom 23.05.-10.07.16
+- TOP 1.13.: Schreiben Kreisverwaltungsreferat vom 09.05.16: Einschränkung der Parkdauer auf der Höcherstraße zwischen Baumstänglstraße und Franz-Nißl-Straße
+- TOP 1.14.: Schreiben Kreisverwaltungsreferat vom 15.03.16: Aufhebung der Vorfahrtsregelung im Einmündungsbereich Finsterwalderstraße / Haldenbergerstraße / Kunstmannstraße / Niethammerstraße
+- TOP 1.15.: Schreiben Kreisverwaltungsreferat vom 17.02.16: Haltverbot Franz-Nißl-Straße
+- TOP 1.16.: Schreiben Kreisverwaltungsreferat vom 03.12.15: Haltverbot als Ausweichstelle für den Linienbusverkehr in der Kleselstraße
+- TOP 1.17.: Schreiben Kreisverwaltungsreferat vom 06.05.16: Erlaubnis zur befristeten Nutzungsänderung einer Schießanlage
+- TOP 1.18.: Schreiben Kreisverwaltungsreferat vom 18.05.16: Drehgenehmigung Auenbruggerstr. 38 und gegenüber, 23.05.-24.05.16, 7:00-20:00 Uhr
+- TOP 1.19.: Schreiben Kreisverwaltungsreferat vom 27.05.16: Drehgenehmigung, 09.06.16, Kunstmannstr. 28
+- TOP 1.20.: Schreiben Kreisverwaltungsreferat vom 02.06.16: Kulturstrand 2016 am Vater-Rhein-Brunnen; Nachbesserung der Auswahlentscheidung gemäß Beschluss des Verwaltungsgerichtes vom 31.05.16
+- TOP 1.21.: Schreiben Sozialreferat vom 09.05.16: Noterstaufnahme Tubeufstr. 19d
+- TOP 1.22.: Schreiben Sozialreferat vom 09.05.16: Stelle für soziale Betreuung in der Noterstaufnahme Tubeufstr. 19d
+- TOP 1.23.: Schreiben Sozialreferat vom 24.05.16: Antrag auf Zweckentfremdung von Wohnraum, Auenbruggerstr.
+- TOP 1.24.: Schreiben BA 16 Ramersdorf-Perlach vom 19.05.16: Städt. Gebühren und Traditions- und Brauchtumsveranstaltungen
+- TOP 1.25.: Schreiben Mieterbeirat vom 11.05.16: Protokoll vom 11.04.16
+- TOP 1.26.: Schreiben Fa. Erlbau vom 12.05.16: Feinstaubbelastung und Verschmutzung Eversbuschstraße
+- TOP 10: Nachtrag
+- TOP 10.1.: Anhörung: Eversbuschstr. 12, Gemarkung: Untermenzing, Fl.Nr.: 17/0 Neubau zweier Mehrfamilienhäuser (11 WE) mit gemeinsamer Tiefgarage
+- TOP 10.2.: Angerlohstr. 14, Gemarkung: Untermenzing, Fl.Nr.: 574/4 Neubau eines Mehrfamilienhauses mit Garage und Vollzug der BaumschutzVO
+- TOP 10.3.: Eversbuschstr. 192a, Gemarkung: Allach, Fl.Nr.: 1318/8 Neubau einer Hotelerweiterung mit Tiefgarage - VORBESCHEID
+- TOP 10.4.: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen
+- TOP 10.5.: Kulturstrand Nachbesserung der Auswahlentscheidung
+- TOP 10.6.: Verschiedenes: Oktoberfest 2016; Reservierung in der Ratsboxe
+- TOP 10.7.: Einweihung des neuen Seitenarms auf dem Gelände des ehemaligen Allacher Sommerbades am 23.06.16, 10:00 Uhr
+- TOP 10.8.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Hitlstr. 45, Bechtolsheimstr. 18
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (30.05.-05.06.16)
+- TOP 10.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.06.16: Fällungsgenehmigungen: Allacher Str. 214a, Zwiedineckstr. 33
+- TOP 10.11.: Schreiben Stadtwerke München vom 06.06.16: Baumaßnahmen
+- TOP 10.12.: Schreiben Referat für Bildung und Sport vom 01.06.16: Betreuungssituation Grundschule Manzostraße
+- TOP 10.13.: Schreiben Kulturreferat vom 07.06.16: Veranstaltungen Juni 2016
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Freiwillige Feuerwehr Allach von 1874 e.V. Beschaffung eines elektronischen Lüfters
+- TOP 4.3.: (E) TSV München-Allach 1909 e. V. Neubau eines Kunstrasenplatzes Förderung des Projekts nach den Sportförderrichtlinien der Landeshauptstadt München
+- TOP 1: Schreiben Oberbürgermeister vom 17.05.16: Maßnahmen zur Erhöhung der Verkehrssicherheit an der Von-Reuter-Straße Empfehlung Nr. 14-20 / E 00510 der Bürgerversammlung des 23. Stadtbezirkes -Allach-Untermenzing am 23.06.2015
