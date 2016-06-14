@@ -1,0 +1,56 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2016-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3787169
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3787169
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Landsberger Str. 103
+- TOP 6.2.: Schießstättstr. 4
+- TOP 6.3.: Landsberger Str. 31
+- TOP 6.4.: Ligsalzstr. 5
+- TOP 6.5.: Trappentreustr. 1
+- TOP 6.6.: Tulbeckstr. 32
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Toilette am Georg-Freundorfer-Platz; Stellungnahme der Lokalbaukommission zu den Standortvorschlägen
+- TOP 6.3.: Leerstand Holzapfelstr. 10 und Schwanthalerstr. 119 (Antwort zur Anfrage BV v. 19.04.16)
+- TOP 6.4.: Gaststättenfortführung Trappentreustr. 23
+- TOP 6.5.: Gaststättenfortführung Trappentreustr. 2
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer
+- TOP 7.1.: Projekt "Migration bewegt die Stadt"
+- TOP 7.2.: Informationsveranstaltung Sozialreferat am Montag, 27.06.16
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Sondernutzung - Freischankfläche Kazmairstr. 58
+- TOP 8.2.: Sondernutzung - Verkaufseinrichtung Holzapfelstr. 7
+- TOP 8.1.: Baumfällungsantrag Anglerstr. 23
+- TOP 8.2.: Veranstaltung - "World Neighbours Day" in der Westendstraße am 16.07.16
+- TOP 8.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes August-Kühn-Str. 16
+- TOP 8.1.: Bauernmarkt - Standort Georg-Freundorfer-Platz
+- TOP 8.2.: Fahrradstellplätze an der Donnersbergerbrücke
+- TOP 8.3.: Aufhebung eines personenbezogenen Parkplatzes im Bereich Bergmannstr. 58
+- TOP 8.4.: Antrag auf Fristverlängerung zu "Projekt Kiosk" am Bahndeckel und "Konzept Toilettenanlage mit kleiner Gastronomie auf dem Georg-Freundorfer-Platz"
+- TOP 8.5.: Müllbeseitigung und Begrünung Max-Friedlaender-Bogen (Antwort zur Anfrage BV v. 19.04.16)
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Zuschuss Bericht "Open Westend"
+- TOP 9.2.: Zuschuss Bericht "Hörgang"
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Satzungsänderung - Vorkaufsrechtprüfungsverfahren in Erhaltungssatzungsgebieten
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
