@@ -1,0 +1,125 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4046311
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4046311
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Scharfes Auge auf Baumfällungen; Bürgerschreiben vom 25.05.2016 (FF: UA Umwelt und Gesundheit)
+- TOP 2.2.: Blumenwiese Perlacher Straße / Ecke Fockensteinstraße; Dankschreiben eines Bürgers mit der Bitte um Aufstellung eines Mülleimers sowie eines Infoschildes (FF: UA Umwelt und Gesundheit)
+- TOP 2.3.: Luftqualität Tegernseer Landstraße / Ichostraße; Bürgerschreiben vom 13.05.2016 (FF: UA Umwelt und Gesundheit)
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung Green City e.V., Begrünungsbüro
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Bacherstraße 39 bis 43; 2 Spitzahorne, 3 Fichten, 1 Bergahorn
+- TOP 3.9.1.2.: Fasangartenstraße 131a; 1 Birke, 2 Kiefern
+- TOP 3.9.1.3.: Scharfreiterplatz 12, 1 Linde
+- TOP 3.9.1.4.: Arzberger Str. 7; 1 doppelstämmige Tanne
+- TOP 3.9.1.5.: Flossenbürger Straße 1; 1 Fichte
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Welche Rolle spielen städtische Gebühren bei der Erhaltung von Traditions- und Brauchtumsveranstaltungen? Den Bezirksausschüssen ein Befreiungsrecht einräumen! Antrag des BA 16 mit der Bitte um Unterstützung
+- TOP 4.2.: ?Wohngeld II" für angestammte Quartiersbewohner z.B. im Stadtteil Giesing
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Initiative ?Werner-Schlierf-Jahr?, für die Maßnahme: Veranstaltungen i.R.d. ?Werner-Schlierf-Jahres 2016? vom 16.06. bis 24.11.2016; Antragssumme: 1.200,00 ?; Beschlussvorlage des Direktoriums vom 09.05.2016
+- TOP 5.2.: AntragstellerIn: Evang.-Luth. Kirchengemeinde München Giesing, für die Maßnahme: Sommerfest am 12.06.2016; Antragssumme: 400,00 ?; Beschlussvorlage des Direktoriums vom 10.05.2016
+- TOP 5.3.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher/Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 16.07.2016; Antragssumme: 2.350,10 ?; Beschlussvorlage des Direktoriums vom 27.05.2016
+- TOP 5.4.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Giesinger Spielekarawane vom 18. bis 29.07.2016; Antragssumme: 1.860,00 ?; Beschlussvorlage des Direktoriums vom 01.04.2016 (FF: UA FSA, vertagt vom 10.05.2016)
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Lebenshilfe München Wohnen GmbH für Arbeitsgemeinschaft St.-Quirins-Fest München Giesing, für die Maßnahme: 19. St.-Quirins-Fest am 14.07.2016; Antragssumme: 7.715,35 ?;
+- TOP 5.2.: AntragstellerIn: Nachbarschaftstreff am Walchenseeplatz, für die Maßnahme: Frühlingsfest am 30.06.2016; Antragssumme: 650,00 ?; Antrag vom 11.05.2016
+- TOP 5.3.: AntragstellerIn: Nachbarschaftstreff am Walchenseeplatz, für die Maßnahme: Sommerfest am 21.07.2016; Antragssumme: 2.000,00 ?; Antrag vom 11.05.2016
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Gemeinde Neubiberg, Bebauungsplan Nr. 76 für den Bereich "nördlich der Brunhildenstraße zwischen Josef-Kyrein-Straße und Wotanstraße"; Anhörung durch das Planungsreferat vom 19.05.2016
+- TOP 0.2.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Minnewitstraße 29, Neubau einer Wohn- und Gewerbeanlage mit TG (80 Stpl.); Anhörung vom 12.05.2016 6.1.3.1.2 Watzmannstraße 4-6, Ausbau von Garagen in den Bestandsgebäuden zu 10 Studentenappartements; Anhörung vom 25.05.2016 6.1.3.1.3 Soyerhofstraße 17, Staatsbediensteten-Wohnungsbau - VORBESCHEID; Anhörung vom 19.04.2016 (vertagt vom 10.05.2016)
+- TOP 0.3.: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten; BA-Antrag Nr. 14-20 / B 02164 des BA 06 - Sendling vom 07.03.2016; Schreiben des Direktoriums vom 30.05.2016 mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Vollzug der Erhaltungssatzung "Trauchtberg- / Forggenseestraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.2.1 Anwesen Warngauer Straße; Mitteilung vom 26.04.2016
+- TOP 0.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.3.1 Anwesen Hermelinweg; Mitteilung vom 24.05.2016
+- TOP 0.4.: Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinierungsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung u. Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff); Sitzungsvorlagen Nr. 14-20 / V 04822; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 01.06.2016 (VB)
+- TOP 0.5.: Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes; Empfehlung Nr. 14-20 / E 00719 der BÜV des 18. Stadtbezirkes vom 12.11.2015; Sitzungsvorlagen Nr. 14-20 / V 05085; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 01.06.2016 (SB)
+- TOP 0.6.: Angsträume vermindern und Aufenthaltsqualität verbessern durch gute Straßen-, Wege- und Platzbeleuchtung, insbesondere an den Sitzgelegenheiten vor dem Kulturzentrum Giesinger Bahnhof bis hin zur Wallbergstraße; BA-Antrag Nr. 14-20 / B 02239 vom 12.04.2016; Antwortschreiben des Baureferats-Tiefbau vom 24.05.2016 (Ortstermin)
+- TOP 0.1.: siehe TOP 5.1.4
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 1: (E) Instandsetzung Bolzplatz Lincolnstraße - <div>nach Antrag / mit Ergänzung</div>
+- TOP 1.1.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2016/2017; Schreiben des Sozialreferats vom 29.04.2016, Bewerbungsfrist: 30. Juni 2016
+- TOP 1.1.: Mieterbeirat; Berufung eines stimmberechtigten MItgliedes für den Bezirksausschuss des 23. Stadtbezirkes; Sitzungsvorlage Nr. 14-20 / V 05389; Beschluss der Vollversammlung des Stadtrates vom 20.04.2016
+- TOP 1.2.: BeSPIELbare und beSITZbare Stadt auch für München; Stadtratsantrag Nr. 14-20 / A 00869 vom 02.04.2015; BA-Antrag Nr. 14-20 / B 01130 des BA 5 vom 15.04.2015; Sitzungsvorlagen Nr. 14-20 / V 05031; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 01.06.2016 (SB)
+- TOP 1.3.: Mieterbeirat - Änderung der Mieterbeiratssatzung und der Geschäftsordnung; Änderung der Vergütungsregelungen Antrag Nr. 1/2016 des Mieterbeirates; Sitzungsvorlage Nr. 14-20 / V 05619; Beschluss der Vollversammlung des Stadtrates vom 11.05.2016
+- TOP 1.4.: Solidarität mit Klaus D - Der Bezirksausschuss 17 solidarisiert sich mit seinem Beauftragten gegen Rechtsextremismus; BA-Antrag Nr. 14-20 / B 02128 des BA 17 vom 08.03.2016; Antwortschreiben der Fachstelle für Demokratie - gegen Rechtsextremismus vom 19.05.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Erinnerungsverfahren - Deisenhofener Str. 28, Baumgraben ausheben, Kies lagenweise einbauen, Herstellung mit Asphaltdeckschicht; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 0.1.: Bereitstellung zusätzlicher Parkplätze für die KITA "Haus für Kinder" in der Münchberger Straße; BV-Empfehlung Nr. 14-20 / E 00503 vom 18.06.2016; Schreiben des Oberbürgermeisters Reiter vom 09.05.2016
+- TOP 0.2.: LSA-Taktung Tegernseer Landstraße zur Wirtstraße; Schreiben des BA 17 vom 15.01.16 und Stellungnahme des BA 17 vom 12.04.2016; Antwortschreiben des KVR vom 28.04.2016
+- TOP 0.3.: Buslinien im Bereich der Tegernseer Landsraße; Bürgeranliegen aus der April-Sitzung des BA 17; Rückmeldung des BA 16 vom 18.05.2016 zum zugeleiteten Bürgerschreiben
+- TOP 0.4.: Ganzjährige Nutzung des gesamten Park- und Ride-Parkplatzes am St.-Quirin-Platz ermöglichen; BA-Antrag Nr. 14-20 / B 02126 vom 08.03.2016; Antwortschreiben des Baureferats-Tiefbau vom 17.05.2016
+- TOP 0.5.: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG; BA-Antrag Nr. 14-20 / B 02243; Stellungnahmen des BA 8 - Schwanthalerhöhe vom 12.05. und des BA 20 - Hadern vom 17.05.2016
+- TOP 0.6.: Bushaltestelle in der Tegernseer Landstraße / Ecke Wirtstraße; BA-Antrag Nr. 14-20 / B 02237 vom 12.04.2016; Antwortschreiben der SWM GmbH vom 12.05.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Georg-Meisenbach-Straße 5; Bescheid vom 27.04.2016 6.4.4.1.2 Hermelinweg 23; Bescheid vom 27.04.2016
+- TOP 0.2.: Unterflur-Containerstandorte in Neubaugebieten mit planen! Sitzungsvorlage Nr. 14-20 / V 04859; Beschluss des BA 17 aus der Sitzung vom 11.02.2016; Antwortschreiben des Baureferats-Tiefbau vom 12.05.2016
+- TOP 0.3.: Ökologischer Kriterienkatalog, Fortschreibung 2016; Sitzungsvorlagen Nr. 14-20 / V 02989; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 01.06.2016 (VB)
+- TOP 0.4.: Langfristige Freiraumentwicklung - Öffentlichkeitsarbeit A) Jahresausstellung "Freiraum 2030" und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrags "Wettbewerb für Münchens schönste Bäume" Stadtratsantrag Nr. 08-14 / A 05098 vom 11.02.2014; Sitzungsvorlagen Nr. 14-20 / V 05954; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 01.06.2016 (VB)
+- TOP 0.1.: Denkmal in der Weinbauernstr. 15, Verschönerung des Gebäudes und Aufstellen einer Informationstafel; BA-Antrag Nr. 08-14 / B 05881 vom 11.03.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 15.04.2016 (vertagt vom 10.05.2016)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Veranstaltung im Freien auf öffentlichem Verkehrsgrund; hier: Straßenfest in der Landrichterstraße am 18.07.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 24.06.2016
+- TOP 0.1.: Information der Bezirksausschüsse; Neue Bädereintrittspreise; Schreiben der Stadtwerke München GmbH vom 27.04.2016
+- TOP 0.2.: Öffentliche Bücherschränke in Giesing; BA-Antrag Nr. 14-20 / B 02244 vom 12.04.2016; Antwortschreiben der Münchner Stadtbibliothek vom 06.05.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Gaststätten (Neuerrichtung); Mitteilungen des KVR 6.6.4.2.1 Schankwirtschaft "Giesinger Play Cafe", Schlierseestraße 83 (links); Mitteilung vom 11.05.16
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Giesinger Play Bar", Schlierseestraße 83 (rechts); Mitteilung vom 11.05.16 6.6.4.1.2 SSW "Terreno Bistro Bar Cafe", St.-Martins-Platz 5; Mitteiliung vom 13.05.16
+- TOP 0.3.: Sicherheit am Bargeld-Automat; BA-Antrag Nr. 14-20 / B 02125 vom 08.03.2016; Antwortschreiben des RAW vom 06.05.2016
+- TOP 0.4.: Neuberufung eines Heimatpflegers der LHM und seines Stellvertreters; Sitzungsvorlagen Nr. 14-20 / V 05902; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 01.06.2016 (VB)
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
