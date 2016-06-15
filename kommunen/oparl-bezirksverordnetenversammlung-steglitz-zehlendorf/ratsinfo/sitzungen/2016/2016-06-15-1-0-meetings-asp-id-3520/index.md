@@ -1,0 +1,59 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-06-15T17:00:00+02:00
+- Ende: 2016-06-15T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3520
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3520
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Müllabwurfanlagen in Lichterfelde-Süd - beantwortet
+- TOP 3.2: Rettung des Pavillons im Dreipfuhl-Park - beantwortet
+- TOP 3.3: Wo sind die City-Wiesen? - beantwortet
+- TOP 3.4: Seniorenwohnen - verkauft und vergessen? - beantwortet
+- TOP 3.5: Toiletten verzweifelt gesucht - beantwortet
+- TOP 3.6: Weitere Verdichtung am Platz des 4. Juli? - beantwortet
+- TOP 3.7: Baumscheiben XXL - der neue Stil? - beantwortet
+- TOP 3.8: Spielplatz Curtiusstraße - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringende Große Anfragen - erledigt
+- TOP 6.1.1: Blockade beim FUBIC brechen - beantwortet
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Ausschussanträge - erledigt
+- TOP 7.1.1: Sondermittel der BVV für den Berliner Hockey-Club e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1.2: Sondermittel der BVV für den Städtepartnerschaftsverein Steglitz-Zehlendorf e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1.3: Sondermittel der BVV für den Mittelhof e. V. - Nachbarschaftshaus Lilienthal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Planungen für die Umgestaltung der Argentinischen Allee - beantwortet
+- TOP 8.2: Macht sich Steglitz-Zehlendorf einen schlanken Fuß?( IV): Wohnungsräumungsverfahren - beantwortet
+- TOP 8.3: Ist der Bezirk 2017 pleite? - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Blindengerechte Bürgersteige - überwiesen
+- TOP 9.2: Sperrung Platz des 4. Juli durch einen Zaun - überwiesen
+- TOP 9.3: Keine großflächige Entsiegelung des "Platz des 4. Juli" - überwiesen
+- TOP 9.4: Wohnungsbörse für psychisch kranke Wohnungssuchende einführen - überwiesen
+- TOP 9.5: Asbestregister für Steglitz-Zehlendorfer Wohnungen - überwiesen
+- TOP 9.6: Anpassung der Software bei Lichtzeichenanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Sicheres Fahrradfahren am Kranoldplatz - überwiesen
+- TOP 9.8: Ampel an der Kreuzung Argentinische Allee/ Waltraudstraße/ Am Waldfriedhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Teilentsiegelung des Platzes des 4. Juli nur mit Konzept - überwiesen
+- TOP 9.10: Dringend notwendige Sanierung des Fahrradweges Kaiser-Wilhelm-Straße zwischen Zietenstraße und Seydlitzstraße in Richtung Lankwitz Kirche - überwiesen
+- TOP 9.11: Ausreichend Geräteräume in neuen Schulsporthallen - überwiesen
+- TOP 9.12: Beidseitige Beleuchtung in der Lange Straße in Lichterfelde - überwiesen
+- TOP 9.13: Erinnerungsstele auf dem Gelände Unter den Eichen 82-84 - überwiesen
+- TOP 9.14: Reinigung des Paul-Ernst-Gedenksteins - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Platz des 4. Juli erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Querschnittsfinanzierung des KiJuB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Geflüchteten im Bezirk eine Perspektive bieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Ampelschaltzeiten Kranoldplatz fußgängergerechter gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
