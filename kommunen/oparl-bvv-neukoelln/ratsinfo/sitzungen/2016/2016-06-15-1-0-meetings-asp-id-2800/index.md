@@ -1,0 +1,95 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-06-15T17:00:00+02:00
+- Ende: 2016-06-15T23:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2800
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2800
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Ayla darf nicht aus ihrer Heimat Neukölln abgeschoben werden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Nachwahl eines stellvertretenden Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 6.2: Wahl von Schiedsfrauen und Schiedsmännern für die Schiedsamtsbezirke 1, 2, 3, 4, 5, 6 und 7 - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Ernennung einer / eines Seniorenbeauftragten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Vertragsentwurf für Betreibung von Flüchtlingsunterkünften - beantwortet
+- TOP 9.2: Instandsetzung von beschlagnahmten Turnhallen - beantwortet
+- TOP 9.3: Gespräche zwischen Bezirksamt und Eigentümer*innen der Häuser Fram-, Nansen- und Pannierstraße - beantwortet
+- TOP 9.4: Reichsbürger - beantwortet
+- TOP 9.5: Beratungsergebnis Wagenplatz Kanal - beantwortet
+- TOP 9.6: Katastrophale Zunahme von Drogentoten in Neukölln seit 2015 - beantwortet
+- TOP 9.7: Informationsveranstaltung zum Thema „sexuelle und geschlechtliche Vielfalt“ - schriftlich beantwortet
+- TOP 9.8: Sachstand Schulsanierungen - schriftlich beantwortet
+- TOP 9.9: Stand der Vorbereitungen der Wahlen am 18. September 2016 - schriftlich beantwortet
+- TOP 9.10: Kiefholzstraße 74 - beantwortet
+- TOP 9.11: Mülleimer im Körnerpark - schriftlich beantwortet
+- TOP 9.12: Plattform Hasenheide - schriftlich beantwortet
+- TOP 9.13: Veranstaltung „Neukölln fährt Rad“ - schriftlich beantwortet
+- TOP 9.14: Staubentwicklung - schriftlich beantwortet
+- TOP 9.15: Baumfällungen an der Fritz-Karsen-Schule? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Integriertes Friedhofsentwicklungskonzept für die Evangelischen Friedhöfe an der Hermannstraße (IFEK Hermannstraße) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Harry-Wollenschlaeger-Platz - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Absolutes Halteverbotsschild entfernen - in der BVV abgelehnt
+- TOP 11.2: Hundetagesstätte retten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Notunterkunft für queere (LSBTI*Q) Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: "Mitmachzirkus Mondeo retten" - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Berliner Mauerweg für Fußgänger und Radfahrer wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Förderfähige Wohnungen in städtebaulichen Vertrag festschreiben - in der BVV abgelehnt
+- TOP 11.7: Voruntersuchungen durch Aufstellungsbeschlüsse absichern - in der BVV abgelehnt
+- TOP 11.8: Kindertagesstätten bei den Flüchtlingsunterkünften - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Pfandflaschen gehören nicht in den Mülleimer! - in der BVV abgelehnt
+- TOP 11.10: Leerstand beenden - in der BVV abgelehnt
+- TOP 11.11: Finanzierung der Flüchtlingsarbeit des DAZ - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Verlängerung der Busspur an der Sonnenallee - in der BVV abgelehnt
+- TOP 11.13: Leerstandsanzeigen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Stadtteilmütter in Neukölln - beantwortet
+- TOP 12.2: Hochzeitskonfetti am Standesamt Blaschkoallee - beantwortet
+- TOP 12.3: Fahrradparken auf Fahrbahnen - beantwortet
+- TOP 12.4: Vertuschung von Asbestbelastung? - beantwortet
+- TOP 12.5: Förderung des Radverkehrs in Neukölln - beantwortet
+- TOP 12.6: Wohnungsbaupotential Supermärkte - beantwortet
+- TOP 12.7: Spende von Baulöwe Groth - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Bußgeldverfahren durch Bürgerämter - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Deutschkurse der VHS - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Parken mit Parkscheibe in Alt-Buckow - überwiesen
+- TOP 14.3: Pilotprojekt für Fahrradparken auf Fahrbahnen - mit Änderungen in der BVV beschlossen
+- TOP 14.4: Europäische Mobilitätswoche - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Radverkehrskompetenz der Bezirke nutzen, um Radverkehrsinfrastruktur auszubauen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7: Förderung des Radverkehrs in Neukölln fortsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Grundschule am Fliederbusch unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Gedenkort in der Grünfläche Möwenweg / Laubsängerweg - zurückgezogen
+- TOP 14.10: Gedenkort für Burak Bektas - mit Änderungen in der BVV beschlossen
+- TOP 14.11: Fußgängerampelzeit über die Gutschmidtstraße verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Fußgängerampelzeit über die Späthstraße verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Selbstverpflichtung des Bezirksamtes zur Zurückhaltung von als Wahlkampf interpretierbarer Öffentlichkeitsarbeit - vertagt
+- TOP 14.14: Stadttoilette - in der BVV zurückgezogen
+- TOP 14.15: Anmeldung per Listen - vertagt
+- TOP 14.16: Modellprojekt „Fahrradparken auf der Fahrbahn“ auf Landesebene wieder auflegen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Personal der Hörberatungsstelle - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Zweisprachige Formulare für die Schulanmeldung von Kindern Geflüchteter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Veränderungssperre 8-14/30 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Straßenumbenennung nach Kirsten Heisig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Internationale Wochen gegen Rassismus vom 10.03. bis zum 23.03.2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Anwohner informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Fachtagung zur Jugendberufsagentur - mit Abschlussbericht zur Kenntnis genommen
