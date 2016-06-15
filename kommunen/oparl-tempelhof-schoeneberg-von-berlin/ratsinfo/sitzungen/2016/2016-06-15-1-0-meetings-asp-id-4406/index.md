@@ -1,0 +1,133 @@
+# 59. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-06-15T17:00:00+02:00
+- Ende: 2016-06-15T21:10:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4406
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4406
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=78008
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - erledigt
+- TOP 4: Kinder- und Jugendparlament - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1: Zebrastreifen für die St. Alfons Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Schultoiletten in Tempelhof-Mariendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Neue und größere Cafeteria an der Johanna-Eck-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Mehr Service / Reinigungskräfte für die Kiepert-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Die stinkenden Toiletten an der UvH - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Umgestaltung des Sitzungsraumes in der Strelitzstraße 15 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Smartboards für die 5. und 6. Klassen der Kiepert-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Zäune an der Barbarossagrundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Spielplatz der Ruppin-GS - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Reparaturen auf dem hinteren Schulhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Reparatur der Weitsprunganlage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Der kaputte Fußballplatz der Scharmützelsee-GS - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Die kaputte Mauer auf dem Schulhof der Scharmützelsee-GS - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 6.1: Situation des Wohnungsmarktes im Bezirk und Mietschuldenstatistik - beantwortet
+- TOP 6.2: Die Brache in der Säntisstraße endlich entwickeln - überwiesen
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Entwicklung der Schullandschaft in Tempelhof-Schöneberg - beantwortet
+- TOP 8.2: Ist die Unterbringung der Flüchtlinge in den Hangars noch zu verantworten? - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Verbesserter S-Bahn Zugang am S-Bhf. Yorckstraße und ein schöneres Stadtbild im Bereich der Yorckbrücken - überwiesen
+- TOP 9.2: Wohnungen in Tempelhof-Schöneberg endlich von Asbest befreien! - überwiesen
+- TOP 9.3: "Personalrisiken" in der Bauabteilung nicht hinnehmbar - überwiesen
+- TOP 9.4: Streaming-Angebot von ITDZ - in der BVV abgelehnt
+- TOP 9.5: Blumen statt Rindenmulch, damit der Viktoria-Luise-Platz 2017 wieder in alter Schönheit erblüht! - überwiesen
+- TOP 9.6: Fußgängerfurten Fritz-Elsas Ecke Innsbrucker Straße freihalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Durchgangsverkehr im Zuge der Bahn- und Albanstraße (Marienfelde) unterbinden - überwiesen
+- TOP 9.8: Grünfläche für die Anwohnerinnen und Anwohner akzeptabel gestalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Stellungnahme zu B-Plan 7-36 Werdauer Weg - in der BVV abgelehnt
+- TOP 9.10: B-Plan-Verfahren Werdauer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Zusätzliche Räume für die Nachmittagsbetreuung am Schulhort - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Denkmalschutz für den Bahnhof Tempelhof - überwiesen
+- TOP 9.13: Das Kunstprojekt TRANSITCROSS auf dem Tempelhofer Feld administrativ fördern - überwiesen
+- TOP 9.14: Entschließung Integration (für diese Wahlperiode) erledigen - in der BVV abgelehnt
+- TOP 9.15: Statusbericht zur Integration in Tempelhof-Schöneberg - Konkrete Ziele, konkrete Maßnahmen, konkrete Erfolge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Cheruskerpark durch Bewässerung als Grünfläche erhalten - überwiesen
+- TOP 9.17: Wohnungsbau in der Monumentenstraße 13f ermöglichen - überwiesen
+- TOP 9.18: "Radfahrer frei" im Einbahnstraßensystem Kleineweg/Leonhardyweg ergänzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.19: Lektorengruppe für Graphic Novels - in der BVV abgelehnt
+- TOP 9.20: Öffentliche mit Gas betriebene Straßenlaternen wieder in Betrieb nehmen - überwiesen
+- TOP 9.21: Wahl eines stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: Wundersame Metamorphose von Wohnraum in ein Museum? - vertagt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Grünfläche in der Ebersstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 11.2: Öffentliche Plätze für öffentliche Nutzung! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Fußgängersicherheit an der BAB-Anschlussstelle Saarstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Kinderfreundliche Kleingärten statt Missachtung von Vorschriften der Senatsverwaltung für Stadtentwicklung! - in der BVV abgelehnt
+- TOP 11.5: Maßnahmenpaket "Stadtmobilität im 21. Jahrhundert" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Sichere Querungen für Kinder rund um die Martin-Luther-Straße! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Stadtmöblierung für Senior*innen und Menschen mit Behinderungen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Mitarbeiterinnen und Mitarbeiter im öffentlichen Dienst angemessen entlohnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Leerstand von Wohnungen endlich nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Umgestaltung des Nollendorfplatzes voran bringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Gartendenkmale angemessen unterhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Beschluss über die Erweiterung der sozialen Erhaltungsverordnung "Kaiser-Wilhelm-Platz" im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg um Grundstücke zwischen Grunewaldstraße, Hauptstraße, Vorbergstraße und Akazienstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Abwägung der Beteiligung der Öffentlichkeit und Behörden und sonstigen Träger öffentlicher Belange sowie Planreife zum vorhabenbezogenen Bebauungsplanentwurf 7-73VE für das Grundstück Tempelhofer Weg 13-24 und Sachsendamm 67-71 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Wiedereröffnung der Gerhart-Hauptmann-Bibliothek im Rathaus Friedenau 2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Kulturdolmetscher gegen islamistische Rattenfänger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Aktive Informationspolitik zur Kiezentwicklung Belziger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Keine Nachteinsätze der Polizei in Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Sportplatznutzungserlaubnis durch Kinder nach 16 Uhr und am Wochenende wieder möglich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Kostenloses WLAN in Tempelhof-Schöneberg vorantreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Umsetzung des Präventionsgesetzes - neue Chancen für den Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Beschluss des Landesjugendhilfeausschuss zu Kita und Flucht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.22: Feststellung der Beschlusserledigung im Stadtentwicklungsausschuss zur Drucksache 1829/XIX - Unerledigte Drucksachen der Bezirksverordnetenversammlung von Berlin - XIX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.23: Feststellung der Beschlusserledigung im Ausschuss für Integration zur Drucksache 1829/XIX - Unerledigte Drucksachen der Bezirksverordnetenversammlung von Berlin - XIX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Festsetzung des Bebauungsplans 7-68 (ehem. Güterbahnhof Wilmersdorf) für eine Teilfläche des Grundstücks Hauptstraße 64, Handjerystraße 98 sowie die Grundstücke Handjerystraße 98A und 99 im Bezirk Tempelhof-Schöneberg, Ortsteil Friedenau - überwiesen
+- TOP 12.2: über die Planreife gemäß § 33 Abs. 1 BauGB zum vorhabenbezogenen Bebauungsplanentwurf 7-66VE - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Aufklärung über Scientology in Tempelhof-Schöneberg - überwiesen
+- TOP 13.2: Fortbildung zu Gender Mainstreaming in der Bezirksverwaltung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Eigentümer-Nutzer-Modell im Bezirksverbund umsetzen und sich bei der Senatsverwaltung für Finanzen für ein Modellprojekt einsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.5: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.6: Mittel zur Radwegsanierung aufstocken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Entfernung illegal aufgestellter Sammelcontainer für Altkleider - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Baugenehmigung für das Bauvorhaben Crellestr. 22a dringend überprüfen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Bericht über die Planung eines Familienbürgerbüros - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Bebauungsplan 7-38 - Geplanter Waldorf-Campus Monumentenstraße/ Hohenfriedbergstraße/ Geßlerstraße Anwohner-Bedürfnisse berücksichtigen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Mahnmal am Bornhagenweg um Informationen zum Außenlager des KZ Sachsenhausen ergänzen - überwiesen
+- TOP 13.12: Parkraumbewirtschaftung prüfen - überwiesen
+- TOP 13.13: Informationstafeln zum Gedenken an Julius und Annedore Leber Winterfestmachung der Baracke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.14: Bürgerfreundliche Verwaltung II – hier: Ausweitung der Öffnungszeiten in den Abendstunden sowie Einführung einer Samstagssprechstunde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Finanzielle Absicherung der Schulstationen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.16: Tuberkulose-Untersuchungsstelle im Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Umbenennung des "Pallas Parks" in Lilli-Flora-Park - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.18: Ein Straßenschild für Lilli-Flora Borchardt anbringen - dem BVV-Beschluss Taten folgen lassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.19: Vorkaufsrecht für ehemalige BIMA-Häuser energisch verfolgen - überwiesen
+- TOP 13.20: Dokumentenprüfgeräte in die Bürgerämter - überwiesen
+- TOP 13.21: Prioritäten im "Plätzeprogramm" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.22: Dem Aufruf von Rio aus 1992 folgen: Nachhaltigkeitsziele für den Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.23: Erlaubnis zur Untervermietung von Jugendfreizeiteinrichtungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.24: Eckpunkte der Weiterentwicklung des Bebauungsplans 7-65ve ("Wohnquartier Alboinpark") - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.25: Größere Müllbehälter im Winterfeldtkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.26: Einheitliches Konzept für die Schulsozialarbeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.27: Die Galerie im Rathaus Tempelhof erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.28: Zukunft für das Theater Hans-Wurst-Nachfahren am Winterfeldtplatz rechtzeitig planen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.29: Beratungsstelle für Sportprojekte mit Flüchtlingseinrichtungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.30: 1. Reduzierung des Geltungsbereichs des im Verfahren befindlichen Bebauungsplans XI-231ab um die Teilfläche des Grundstücks Gotenstr. 52-53 / Tempelhofer Weg 39-47 (Geltungsbereich des im Verfahren befindlichen vorhabenbezogenen Bebauungsplans 7-81 VE) - überwiesen
+- TOP 13.31: Umstellung des Bebauungsplanverfahrens 7-47 von einem beschleunigten Verfahren auf ein Verfahren mit Umweltprüfung - überwiesen
+- TOP 13.32: Querungshilfen in der Yorckstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.33: Weniger Leerstand bei Sozialwohnungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.34: EUREF-Campus - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.35: Von der Bankiers-Bahn zum Multifunktionsweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.36: Unterbringungsmöglichkeiten schaffen für allein reisende geflüchtete Frauen mit und ohne Kinder in der Augsburger Straße und der Handjerystraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.37: Flüchtlinge schneller in die Arbeitswelt integrieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.38: Schutz von Frauen und Kindern in Flüchtlingseinrichtungen verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.39: Künftige Nutzung des Schulgebäudes am Tempelhofer Weg (ehem. Teske-Schule) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.40: Externe Unterstützung für das Ordnungsamt sichern - Produktentwicklung und Konzeptplanung vorlegen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
