@@ -1,0 +1,8 @@
+# TOP 8: Einrichtung einer Querungshilfe auf der Berghauser Straße 100
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Cronenberg (2016-06-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/72759
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/34409
