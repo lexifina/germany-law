@@ -1,0 +1,6 @@
+# TOP 12.1: Reparatur des Hausanschlusses Vordamm 5
+
+- Sitzung: Betriebsausschuss Wasser und Abwasser (5. Sitzung) (2016-06-15)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/19877
