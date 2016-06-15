@@ -1,0 +1,132 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2016-06-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3877580
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3877580
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Baumaßnahmen Bodenseestr. / Wiesentfelser Str.
+- TOP 2.2.: Haltverbot Aubing-Ost-Str. 1-7 wegen Unfallgefahr
+- TOP 2.3.: Parken auf dem Gehsteig in der Streitbergstraße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städt. Immobilien, in Friedhöfen oder auf anderen städt. Grundstücken, hier: Entfernung von Gefahrenbäumen in der Mooswiesenstr. (Fl.Nr. 2544/0 Aubing), Schr. Baureferat vom 21.04.16
+- TOP 4: Anträge
+- TOP 4.1.: Finanzierung des Kinder- und Jugendfonds "Lasst uns mal ran"
+- TOP 4.2.: Kommunalreferat: Sprechstunde für Bezirksausschüsse offen für alle BA-Mitglieder
+- TOP 4.3.: Unpassierbarkeit der Feuerwehrzufahrt in der Kastelburgstr. 56-60
+- TOP 4.4.: Verbindungsweg Kastelburg-/ Bergsonstraße
+- TOP 4.5.: Sofortige Nutzung der Baustraße Freiham für die Baustellenlogistik Aubing-Mitte
+- TOP 4.6.: Planung eines Mehrgenerationenhauses in Freiham
+- TOP 4.7.: Parksituation Kunreuthstraße
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung gem. Vollmacht des OB, hier: Umgestaltung und Auwertung des sog. "Indianerspielplatzes" Nähe Kunreuthstr. 39-41
+- TOP 5.3.: Entscheidung gem. Vollmacht des OB über die Projektplanung, hier: Öffentliche Grünanlage "Kiefernhain": Umbau Aktivitätenband mit Bolzplatz Hans-Steinkohl-Straße ( Freiham Süd)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Play me, I`m yours / Standort & Co. im 22. Stadtbezirk, Schreiben Isarlust e.V. vom 12.05.16
+- TOP 6.2.: Flüchtlingscontainer Mainaustraße, Schr. Sozialreferat vom 18.05.16
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Grundschule Wiesentfelser Straße; Ausbesserung des Gehweges, Schr. Ref. f. Bildung u. Sport vom 17.05.16
+- TOP 6.2.: Wegabkürzung an der Grund- und Mittelschule Wiesentfelser Straße verhindern, Schr. Ref. f. Bildung u. Sport vom 17.05.16
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Gehbahnsanierung Dietrichsteinstraße, Anhörung Baureferat vom 18.05.16
+- TOP 6.1.: Parksituation in der Streitbergstraße, Schr. KVR vom 12.05.16
+- TOP 6.2.: Arbeiten im Straßenraum, Bodenseestr. zwischen Sportlerweg und Wiesentfelser Str. vom 20.05.16-12.09.16, Schr. KVR vom 04.05.16
+- TOP 6.3.: Fugängerampel an der Alto- / Ubostr., Schr. KVR vom 11.05.16
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Gefahrenzeichen Z 101 Bergsonstraße Südseite, Schr. KVR vom 05.04.16
+- TOP 6.5.: Leihfahrradstation am S-Bahnhof Aubing, Lochhausen und Langwied, BA-Antrag Nr. 14-20 / A 00595 vom 19.11.14, Schr. MVG vom 17.03.16
+- TOP 6.6.: Verkehrsberuhigter Bereich Schussenrieder Straße, Schr. KVR vom 03.05.16
+- TOP 6.7.: Arbeiten im Straßenraum - Radolfzeller Str. im Kreuzungsbereich mit der Aubinger Str., Fahrbahnsanierung vom 06.06.-09.09.16, Schr. KVR vom 25.04.16
+- TOP 6.8.: Arbeiten im Straßenraum, Bodenseestr. zwischen Sportlerweg und Wiesentfelser Str. (Straßenbau, hier: Phase 100-1) vom 11.05.-19.05.16, Schr. KVR vom 04.05.16
+- TOP 6.9.: Projekt "Siedlung Freiham Süd", Herstellung der Anton-Böck-Straße südlich der Clarita-Bernhard-Straße, Schr. Baureferat vom 02.05.16
+- TOP 6.10.: Verkehrsrechtliche Anordnung, hier: Verlängerung der Wartezone für Linienbusse in der Zwernitzer Straße, Schr. KVR vom 01.10.15
+- TOP 6.11.: Arbeiten im Straßenraum: Bodenseestr., Hans-Steinkohl-Str., Freihamer Weg, Schr. KVR vom 18.15.16
+- TOP 6.12.: Verbesserung der Verkehrssicherheit im Ensemblebereich Aubing, Schr. KVR vom 20.05.16
+- TOP 6.13.: Sicherung der Straßenbankette in der Langwieder Hauptstraße, Schr. Baureferat vom 19.05.16
+- TOP 6.14.: Parkplatz vor UBO 9 - Prüfung auf Parkbegrenzung, Schr. KVR vom 24.05.16
+- TOP 6.16.: Verkehrsrechtliche Anordnung, hier: Z 283 StVO Langwieder Hauptstraße Südostseite, Schr. KVR vom 29.03.16
+- TOP 6.17.: Verkehrsrechtliche Anordnung, hier: Radwegführung / Haltverbot Wiedehopfweg, Schr. KVR vom 03.02.16
+- TOP 6.15.: Genehmigung der Arbeitsvergabe für Baumaßnahme: - Kreuzung Radolfzeller Str. / Aubinger Str. / Hellensteinstr. vom 06.06.16-09.09.16, Schr. Baureferat vom 20.05.16 - Rothenfelser Str. zwischen Limesstr. und Freienfelsstr. vom 13.06.-29.07.16, Schr. Baureferat vom 25.05.16
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Bodenseestr. 166, Wohnen für Alle, Neubau einer Wohnanlage, Anhörung Planungsreferat vom 12.05.16
+- TOP 6.2.: Bergsonstr. 151, Aufstellung einer Werbeanlage mit Beleuchtung, Anhörung Planungsreferat vom 03.05.16
+- TOP 6.3.: Pretzfelder Str. 4b, Neubau eines Mehrfamilienhauses mit TG, Anhörung Planungsreferat vom 17.05.16
+- TOP 6.4.: Bebauungsplan mit Grünordnung Nr. 1998 b, ehemalige Gleisharfe - Baumaßnahme, Anhörung Baureferat vom 18.05.16
+- TOP 6.5.: Bauleitplanung der Gemeinde Gröbenzell: Vorhabensbezogener B-Plan Augsburger Str. 8, Anhörung Referat für Stadtplanung und Bauordnung vom 19.05.16
+- TOP 6.3.: Anfrage zum Grundstück hinter der Aral-Tankstelle und Gleis, Schr. Planungsreferat vom 12.05.16
+- TOP 6.4.: Baubeginnsanzeige der Mobilfunksendeanlage am Standort Gemarkung Aubing, Flurstück 3489/3, Schr. Ref. f. Gesundheit u. Umwelt vom 06.05.16
+- TOP 6.5.: "Smart cities" die Bürger mitnehmen, Konzeption/Projekte/Zeitrahmen, Schr. Planungsreferat vom 02.05.16
+- TOP 6.6.: Bebauung in der Limesstr. 34, Schr. Planungsreferat vom 18.05.16
+- TOP 6.7.: Nutzungsbezogene Abgrabung Papinstraße - Antrag zurückgezogen, Schr. Planungsreferat vom 19.05.16
+- TOP 6.8.: Gestaltung Unterführung Westkreuz, Schr. Baureferat vom 18.05.16
+- TOP 6.10.: Baustelleneinrichtung an der Dietrichsteinstraße, Schr. KVR vom 20.05.16
+- TOP 6.11.: Baumaßnahmen der Stadtwerke, Stromprojekt Limesstraße, Änderung im Terminverlauf, Schr. SWM vom 27.05.16
+- TOP 6.12.: Baumaßnahmen der Stadtwerke, Stromprojekt Grabenfleckstraße, Schr. SWM vom 23.05.16
+- TOP 6.9.: Baumaßnahmen der Stadtwerke München: Stromprojekt Anton-Böck-Straße - Änderung im Terminablauf, Schr. SWM vom 18.05.16
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorverkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten, Anhörung Direktorium vom 30.05.16
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung der Kleingaststätte "Joleens Kebaphaus", Bodenseestr. 235, Schr. KVR vom 06.05.16
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Pretzfelder Str., Schr. Sozialreferat vom 25.05.16
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 05.04.16: - Zuschussnehmerdatei 2016, Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger"
+- TOP 10.2.: Beschluss des Bauausschusses vom 26.04.16: - Kreuzungsbereich Radolfzeller Str. / Aubinger Str. / Ravensburger Ring
+- TOP 10.3.: Beschluss des Bauausschusses vom 05.04.16: - Siedlungsschwerpunkt Freiham, Freiham Nord, Provisorischer Anschluss an die BAB A 99
+- TOP 10.4.: Beschluss und Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 27.04.16: - Perspektive München, Münchner Stadtteilkultur - Fortschreibung 2015 - Ökologischer Kriterienkatalog, Fortschreibung 2016 - Neue Förderkategorie im Wohnungsbau; Klein-Wohnungen realisieren - Wohnungsbauatlas für München und die Region - Wohnen in München V, Erfahrungsbericht für das Jahr 2015
+- TOP 10.5.: Beschluss der Vollversammlung des Stadtrates vom 11.05.16: Mieterbeirat - Änderung der Mieterbeiratssatzung und der Geschäftsordnung, Änderung der Vergütungsregelung
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.16: - Ausschreibungsbeschluss Konzeptausschreibung: 1. Bauabschnitt im 1. Realisierungsabschnitt Freiham Nord, Konzeptioneller Mietwohnungsbau (KMB), Festlegung der Ausschreibungskriterien für die Vergabe von Grundstücken - Ökologischer Kriterienkatalog, Fortschreibung 2016 - Neuberufung des Heimatpflegers - Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirks - BeSPIELbare und beSITZbare Stadt auch für München - Förderung von Bürgerschaftlichem Engagement: Schaffung einer Koordinationsstelle für Bürgerschaftl. Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) - Langfristige Freiraumentwicklung - Öffentlichkeitsarbeit
+- TOP 10.7.: Beschluss des Bildungsausschusses vom 01.06.16: - Generalinstandsetzung und Umbau der ehemaligen Grundschule Schussenrieder Str. 5 in ein Haus für Kinder
+- TOP 10.8.: Beschluss der Vollversammlung vom 20.04.16: - Realisierung eines Projektes des Kommunalen Wohnungsbauprogramms/Städtische Wohnheime 1. Realisierungsabschnitt Freiham Nord, Bebauungsplan mit Grünordnung Nr. 2068, Bauquartier WA 7 - Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 23. Stadtbezirkes - Modernisierung und Erweiterung der Fahrradabstellanlage auf der P+R-Anlage Lochhausen Nord, Ausführungsgenehmigung
+- TOP 10.9.: Beschluss des Bauausschusses vom 31.05.16: - Gewerbegebiet Freiham Süd - Ausgleichsflächen, Bebauungsplan mit Grünordnung Nr. 1916 a, Ausgleichsflächen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 11.04.16
+- TOP 11.2.: Protokoll der Sitzung vom Weltspieltag zum Weltkindertag am 03.05.16
+- TOP 11.3.: Städtische Gebühren und Traditions- und Brauchtumsveranstaltungen - Antrag des BA 16 vom 12.05.16
+- TOP 11.4.: Einladung zur Informationsveranstaltung "Standortkonzept Bürgerbüros", Schr. KVR vom 13.05.16
+- TOP 11.5.: Planfeststellung nach § 18 Allg. Eisenbahngesetz für den Neubau einer 2. Stammstrecke, Planfeststellungsabschnitt 3 neu München Ost, Bereich westliches Isarufer bis östlich S-Bahnhof Leuchtenbergring mit Ostbahnhof (tief), (Unterlagen nur auf CD in der BA-Geschäftsstelle)
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.6.: Freienfelsstr. 11-25, Neubau e. Mehrfamilienhauses mit Ladenflächen im EG + Tiefgarage (85 Stpl.), e. Kindertagesstätte mit Gemeinschaftszentrum u. e. Mehrfamilienhauses (6 WE) als Erweiterungsbau, Abbruch e. Supermarktes u. e. Wohnhauses (24 WE) sowie Nutzungsänderung des Waschhauses zu e. Gemeinschaftseinrichtung - Vorbescheid, Anhörung Planungsreferat vom 31.05.16
+- TOP 12.1.: Achtung geändert: Nächste BA-Sitzung am Mittwoch, den 13.07.2016 um 19.30 Uhr im Bürgersaal am Westkreuz, Friedrichshafener Str. 17 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 06.06.16 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, 07.06.16 um 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 08.06.16 um 19.00 Uhr, Limesstr. 81 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, 09.06.16 um 19.00 Uhr, Friedrichshafener Str. 11
+- TOP 3.3.: Baumfällungen auf Anforderung: - Wildenrother Str. 12 - Ravensburger Ring 30 - Am Lochhauser Hügel 3 - Rabensteinstr. 18 - Lichtenfelser Str. 22 - Lindacher Str. 22 - Mainaustr. 7 - Hallstätter Str. 21 (N) - Lichtenfelser Str. 34 (N) - Giechstr. 2
+- TOP 6.18.: Sicherung der Straßenbankette am Langwieder Bach, Schr. Baureferat vom 30.05.16
+- TOP 6.19.: Jetzt Tangente Pasing-Nordring ausbauen, Schr. Planungsreferat vom 27.05.16
+- TOP 11.6.: München-dezentral 2016 - Kunst im öffentlichen Raum
+- TOP 2.4.: Frühdienst im Tagesheim Limesstraße
+- TOP 3.2.: Baumfällungen zu Bauvorhaben: (N) - Papinstr. 22 (N) - Limesstr. 39 (N) - Neideckstr. 71
+- TOP 6.2.: Temporäre Kunst im öff. Raum - Radio NeuWest (skulpturaler Pavillon) vom 11.07.-31.07.16 Grünanlage Zwernitzer Straße, Anhörung Baureferat vom 03.06.16
+- TOP 6.3.: Temporäre Kunst im öff. Raum - Plypso - 06.07. bis max. 31.12.16 - Wiesentfelser Str. 53, Anhörung Baureferat vom 03.06.16
+- TOP 6.4.: Kulturstrand - Nachbesserung Auswahlentscheidung, Anhörung KVR vom 06.06.16
+- TOP 6.4.: Veranstaltungen/Kooperationen des Kulturreferats, Schr. Kulturreferat vom 07.06.16
+- TOP 6.3.: Zweiter Grundschulstandort in Lochhausen, Schr. Planungsreferat vom 31.05.16
+- TOP 6.20.: Planung einer neuen Zufahrt zum Parkplatz Goteboldstraße, Schr. Planungsreferat vom 31.05.16
+- TOP 6.21.: Errichtung eines Bushäuschens Lochhausener Str. / Pirolstr., Schr. Ref. f. Arbeit u. Wirtschaft vom 02.06.16
+- TOP 6.7.: Colmdorfstraße - Neubau eines Wohngebäudes mit Kindertagesstätte, Gewerbeeinheiten und gemeinsamer Tiefgarage (Colmdorfstr./Freihamer Weg), Anhörung Planungsreferat vom 06.06.16
+- TOP 6.1.: Bauvorhaben im 22. Stadtbezirk vom 02.05.-08.05.16, 09.05.-15.5.16, 16.05.-22.05.16, 23.05.-29.05.16, 30.05.-05.06.16, Schr. Planungsreferat vom 09.05.16, 18.05.16, 23.05.16, 30.05.16, 06.06.16
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München - Stichtag: 02.05.-06.05.16, 09.05.-13.05.16, 17.05.-20.05.16, (N) 23.05.-27.05.16, (N) 30.05.-03.06.16
+- TOP 6.3.: Ehemaliges Zwangsarbeiterlager Neuaubing - wie geht es weiter?, Schr. Kommunalreferat vom 24.05.16 und Schr. MGS vom 05.06.16
+- TOP 6.5.: Temporäre Kunst im öff. Raum - Himmelbettskulptur - Grünanlage Radolfzeller Str. vom 08.07. bis max. 31.12.16, Anhörung Baureferat vom 07.06.16
+- TOP 6.6.: Belandwiesenweg, Aubinger Herbstfest vom 08.09.-13.09.16, Anhörung KVR vom 07.06.16
+- TOP 5.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied: Widmung einer Teilstrecke der Ilse-Fehling-Straße, der Gesamtstrecke des Rosemarie-Fendel-Bogens, einer Teilstrecke der Konstanze-Vernon-Straße, der Gesamtstrecke des Eva-Vaitl-Weges und der Gesamtstrecke des Gret-Palucca-Weges
+- TOP 5.4.: Budget der Bezirksausschüsse Kinder- und Jugendtreff Aubinger Tenne (KJR München Stadt) Hinterhofgestaltung - Holzveranda
+- TOP 2.5.: Vorschlag Parkplatz am Langwieder See
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest Wiesentfelser Str., "Stadtteilfest" am 23.07.16, Anhörung KVR vom 17.05.16, (N) Schr. KVR vom 08.06.16 u. 09.06.16
+- TOP 2.6.: Schulweg-Konzept für die Grundschule Freiham-Süd
+- TOP 6.5.: Abbrennen eines Feuerwerks in der Kreuzkapellenstr. 89, Schr. KVR vom 14.06.16
