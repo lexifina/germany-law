@@ -1,0 +1,129 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-06-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3873290
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3873290
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Wiener Platz, Beleuchtung Geldautomat und fehlendes Schild Chorherrstraße - <div>nach Antrag</div>
+- TOP .2.: Zunehmender Busverkehr in der Maria-Theresia-Straße (südlicher Teil) - <div>nach Antrag</div>
+- TOP .3.: Parkraumsituation zur Auer Dult - <div>nach Antrag</div>
+- TOP .4.: Neubepflanzung Bereiteranger 15 - <div>nach Antrag</div>
+- TOP .5.: Parksituation im Kreuzungsbereich Metzstraße/Sedanstraße - <div>nach Antrag</div>
+- TOP .6.: Auffüllung des Kopfsteinpflasters am Kirchplatz (Mariahilfplatz) - <div>nach Antrag</div>
+- TOP .5.: Anträge
+- TOP .1.: Brunnenanlage um den Johannisbrunnen instand setzen - <div>nach Antrag</div>
+- TOP .2.: "Enzis" auf dem Mariahilplatz - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Weißenburger Platz 6 - <div>nach Antrag</div>
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, Obstverkaufsstand vor dem Anwesen Steinstr. 44 - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP 2.1.: Welche Rolle spielen städtische Gebühren bei der Erhaltung von Traditions- und Brauchtumsveranstaltungen? Den Bezirksausschüssen ein Befreiungsrecht einräumen! Beschluss des BA 16 Ramersdorf- Perlach vom 12.05.2016 mit der Bitte um Unterstützung - <div>Zustimmung zum Beschluss des BA 16</div>
+- TOP 2.2.: Änderung der BA-sitzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtssprüfungsverfahren in Erhaltungssatzungsgebieten BA-Antrags-Nr. 14-20/ B 02164 des Bezirksausschusses des Stadtbezirks 06- Sendling vom 07.03.2016 - <div>zur Kenntnis genommen</div>
+- TOP 2.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 2.1.: Markthallen München - Markt am Wiener Platz Sanierung des Lebensmittelmarktes am Wiener Platz I; BA-Antrag-Nr. 14-20/ B 01528 des Bezirksausschusses des Stadtbezirkes 05 - Au-Haidhausen vom 15.07.2015 Sanierung des Lebensmittelmarktes am Wiener Platz II; BA-Antrag-Nr. 14-20/ B 01529 des Bezirksausschusses des Stadtbezirkes 05 - Au-Haidhausen vom 15.07.2015 Konsensverfahren für den Wiener Platz; BA-Antrag Nr. 14-20 / B 01315 des Bezirksausschusses des Stadtbezirkes 05 - Au-Haidhausen vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 05606 Kurzübersicht zum Beschluss des Kommunalausschusses als Werkausschuss für die Markthallen München vom 14.04.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 2.2.: Sitzmöglichkeiten vor dem Amt für Wohnen und Migration - <div>zurück gestellt</div>
+- TOP 2.3.: Reinigung und Instandsetzungen rund um die Grundschule Mariahilfplatz - <div>zur Kenntnis genommen</div>
+- TOP 2.4.: Ostbahnhof- mehr Platz für Fußgänger - <div>weitere Nachfrage Baureferat</div>
+- TOP 2.8.2: Reaktionen auf BA-Schreiben
+- TOP 2.8.3: Weitere Unterrichtungen
+- TOP 2.1.: Bürgerschreiben Hunde in den Frühlingsanlagen Antwortschreiben des Baureferats vom 06.05.2016 - <div>zur Kenntnis genommen</div>
+- TOP 2.2.: Handlungsraumkonzept im Münchner Osten ( Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing") - <div>zur Kenntnis genommen</div>
+- TOP 2.3.: Münchner Wochen- und Bauernmärkte - Standort Mariahilfplatz - <div>zur Kenntnis genommen</div>
+- TOP 2.5.: Umpfarrung eines Teils des Pfarrgebietes von München- Heilig Kreuz/Giesing, Festlegung des neuen Verlaufs der Pfarrgrenze zwischen München- Heilig Kreuz/Giesing, München- St. Franziskus und München- Mariahilf - <div>zur Kenntnis genommen</div>
+- TOP 2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 2.1.: Regsam
+- TOP 2.2.: Kinder und Jugend
+- TOP 2.3.: Behinderte und Barrierefreiheit
+- TOP 2.4.: Ausländer und Flüchtlinge
+- TOP 2.5.: Frauen und Mädchen
+- TOP 2.6.: Internet
+- TOP 2.7.: Baumschutz
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer, hier Einsteinstraße - <div>Stellungnahme beschlossen</div>
+- TOP 8.2.: Neues Team im Theater Hoch X in der Entenbachstraße - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Erklärende Zusatzschilder an Straßenschildern, Bitte um weitere Mitteilungen, Kostenübernahme und Anzahl der Schilder - <div>Stellungnahme beschlossen</div>
+- TOP 8.1.: Bauvergabe/Baubeginn Domicil-Seniorenprojekt; Einsteinstr./Ecke Grillparzerstr. - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Zuschussnehmerdatei 2016 Vollzug des Haushaltsplanes 2016 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale Sitzungsvorlage Nr. 14-20 / V 05336 - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Mieterbeirat Änderung der Mieterbeiratssatzung und der Geschäftsordnung Änderung der Vergütungsregelung Antrag Nr. 1/2016 des Mieterbeirates Sitzungsvorlage Nr. 14-20 / V 05619 Beschluss der Vollversammlung des Stadtrates vom 11.05.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Antrag auf Genehmigung einer Fahrradabstellfläche vor einem Betrieb Humboldtstr. 15 - <div>nach Antrag</div>
+- TOP 8.2.: Lothringer Str. 9-12, Veranstaltung im Freien auf öffentlichen Verkehrgrund Straßenfest am 08.07.2016 - <div>nach Antrag</div>
+- TOP 8.3.: Bordeauxplatz, Veranstaltung im Freien in einer städtischen Grünanlage SPD-Sommerfest am 16.07.2016 - <div>nach Antrag</div>
+- TOP 8.4.: Johannisplatz, Veranstaltung im Freien in einer städtischen Grünanlage Internationales Stadtteilfest des AKA e.V. am 03.07.2016 - <div>nach Antrag</div>
+- TOP 8.5.: Antrag auf Erweiterung /Zusätzliche Fahrradabstellfläche vor einem Betrieb Oefelestraße 2 - <div>nach Antrag</div>
+- TOP 8.6.: Pariser Str. zwischen Lothringer- und Rosenheimer Str., Veranstaltung im Freien auf öffentlichem Verkehrsgrund, Straßenfest in der Pariser Straße, 03.07.2016 - <div>nach Antrag</div>
+- TOP 8.1.: Unveränderte Fortführung von Gaststättenbetrieben: Schank- und Speisewirtschaft "Ashoka", Wolfgangstr. 19 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Wiener Platz, Anzeige einer Versammlung unter freiem Himmel, 17.06.16 von 17:15-20:45 Uhr - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Vollzug der Grünanlagensatzung vom 15.06.2012 Filmaufnahmen Frühlingsanlagen am 13.06.2016 - <div>nach Antrag</div>
+- TOP 8.1.: Preysingstr. 105, Errichtung einer temporären Containerschule für eine Nutzungsdauer von weniger als 25 Monaten - <div>nach Antrag</div>
+- TOP 8.2.: Weißenburger Str. 24, Nutzungsänderung: Ladengeschäft zu Gaststätte - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Claude-Lorrain-Str. 9, Tektur zu 1.2-2013-29867-21, Errichtung eines Balkons im 4. OG mit Notleiterabstieg als 2. Rettungsweg hofseitiger Wohung des 2. - 4. OGs (WE 7, 10, 13+14)
+- TOP 8.4.: Entenbachstr. 44, Tektur zu 1.2-2015-21515-21, Sanierung und Aufstockung eines Wohnhauses und Errichtung eines Wohngebäudes mit Tiefgarage - <div>nach Antrag</div>
+- TOP 8.5.: Sommerstr. 2, Einbau zweier Dachgauben - <div>nach Antrag</div>
+- TOP 8.6.: Wörthstr. 47/RGB, Tektur zu 1.2-2015-14295-21, Neubau eines Dreifamilienhauses mit 3 Stellplätzen - <div>zur Kenntnis genommen</div>
+- TOP 8.7.: Ismaninger Str. 42-46, Neubau eines Wohn- und Geschäftshauses mit zweigeschossiger Tiefgarage 44 Wohnungen, 38 Einheiten im Boardinghaus, Gastronomie und 68 Stellplätze - <div>Zustimmung mit Ergänzung</div>
+- TOP 8.8.: Grütznerstr. 8, Nutzungsänderung in einem denkmalgeschützten Gebäude: Gaststätte zur Büro - <div>vorerst keine Entscheidung</div>
+- TOP 8.9.: Hochstraße 31- Schulbauoffensive- Errichtung einer 3-zügigen Grundschule inkl. Mensa und Nebengebäude ("GSH Neubau Grundschule Hochstraße") - <div>nach Antrag</div>
+- TOP 8.10.: Eggernstraße 10, TEKTUR/ DG-Ausbau mit Zusammenlegung und Instandsetzung der Wohnungen 14 und 15 (3. OG), Wiederherstellung einer Dachterrasse mit Austrittsgaube - <div>nach Antrag</div>
+- TOP 8.11.: Franziskaner Straße 15, Neubau einer Wohnanlage mit TG - <div>abgelehnt</div>
+- TOP 8.12.: Balanstraße 34, Nutzungsänderung von Verkaufsflächen in einen Kontaktladen für KonsumentInnen illegaler Drogen - <div>nach Antrag</div>
+- TOP 8.13.: Mariahilfplatz 18; Nutzungsänderung: ehemalige Wartehalle zu Pausenraum - <div>nach Antrag</div>
+- TOP 8.14.: Preysingstraße 105, Umbau und Sanierung "Edith-Stein-Gymnasium" mit Verlagerung Sanitärbereiche und Aufzug, Einbau Atrium und Eingriffen in das Tragwerk - <div>nach Antrag</div>
+- TOP 8.15.: Gravelottestraße 6-8, Nutzungsänderung VGB: Altenheim zu Büros, 2 Wohneinheiten, Arztpraxis und Versorgungsküche für das Pflegeheim im RGB - <div>nach Antrag</div>
+- TOP 8.16.: Orleansstraße 35, Umbau und Sanierung, Anbau Personenlift+ Balkone, DG-Ausbau, Nutzungsänderung (Laden mit Lager im EG zu Büro+ 2 Wohnungen)- TEKTUR zu 1.2-2014-26020-21 - <div>nach Antrag</div>
+- TOP 8.1.: Kirchenstr. 34, DG-Ausbau VGB mit Erhöhung des Kniestocks und Änderung der Dachneigung; geringfügige Änderung Plandarstellung - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes Empfehlung Nr. 14-20 / E 00719 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching vom 12.11.2015 Sitzungsvorlage Nr. 114-20 / V 05085 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: BeSPIELbare und beSITZbare Stadt auch für München Antrag Nr. 14-20 / A 00869 vom 02.05.2015 BA-Antrags-Nr. 14-20 / B 01130 vom 15.04.2015 Sitzungsvorlagen Nr. 14-20 / V 05031 Beschluss des Ausschusses für Stadtplanung und Bauordnung - <div>zur Kenntnis genommen</div>
+- TOP 8.4.: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Sitzungsvorlagen Nr. 14-20 / V 05902 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.5.: Förderung von Bürgerschaftlichem Engagement Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Sitzungsvorlagen Nr. 14-20 / V 04822 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.6.: Langfristige Freiraumentwicklung - Öffentlichkeitsarbeit A) Jahresaufstellung "Freiraum 2030" und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrags "Wettbewerb für Münchens schönste Bäume" Antrag Nr. 08-14 / A 05098 vom 11.02.2014 Sitzungsvorlagen Nr. 14-20 / V 05954 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 8.7.: Kirchenstraße 88- Vorbescheid der LBK vom 27.05.2016 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Bürgeranliegen zu den Buslinien im Bereich der Tegernseer Landstraße Initiative Nr. 14-20 / I 0990 Unterstützung des BA 17 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Sicheres Gehen und Radeln am Orleansplatz (vertagt, TOP 5.4 vom 11.05.2016) - <div></div>
+
+  						<div>ohne Entscheidung</div>
+- TOP 8.1.: Umbeschilderung einer Ladezone in ein absolutes Halteverbot mit Freigabe für den Lieferverkehr beim Penny-Markt an der Milch-/Wörthstraße für Anwesen Preysingstraße 42 - <div>nach Antrag</div>
+- TOP 8.2.: Installation von Unterflurcontainern in der Lucile-Grahn-Straße/ Haidhauser Straße - <div>nach Antrag</div>
+- TOP 8.3.: Installation von Unterflurcontainern in der Luciel-Grahn-Straße/Schrägparkbuchten - <div>nach Antrag</div>
+- TOP 8.4.: Bericht vom Ortstermin Europaplatz - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Planfeststellung nach dem Personenbeförderungsgesetz für das Vorhaben Straßenbahn-Neubaustrecke der Stadtwerke München GmbH in München von der Einsteinstraße zur Hultschinger Straße/Zamilastraße ("Tram Steinhausen") Änderung und Ergänzungen zum Planfeststellungsbeschluss vom 25.09.2015 - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Straßenbahnneubaustrecke "Tram Steinhausen" - Tektur b; Antrag des BA 5 zum Bau einer Buswartehalle und eines Fahrradständers im Bereich der Trambahnhaltestelle Flurstraße - <div>zur Kenntnis genommen</div>
+- TOP 8.3.: Fünf Plätze attraktiv gestalten Rosenheimer Straße/Lilienstraße/Zeppelinstraße - <div>zur Kenntnis genommen</div>
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.1.: Ergebnis-Protokoll Ortstermin Spielplatz am Johannisplatz, 12.05.2016, 13:30 Uhr - Angebot für ein Spielhäuschen am Spielplatz Johannisplatz - Angebot für Rollrasen am Spielplatz und 2 Metallbänke - <div>Installation von zwei Bänken und Bauzaun sowei Rollrasen sollen voran gehen</div>
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP 8.1.: 1. Sonnenhaus-Tag im Bauzentrum München, "Solare Energie für Gebäude" am Dienstag, 28.06.2016
+- TOP 8.2.: Tag der offenen Tür Tagesheim und Mittelschule an der Hochstraße 31, 08.06.2016 von 13:30 Uhr - 16:30 Uhr
+- TOP 8.3.: Informationsveranstaltung für die Münchner Bezirksausschüsse am 27.06.2016 von 18:30 Uhr - 20:30 Uhr, Sitzungssaal 1082, Sozialreferat, Orleansplatz11
+- TOP 8.4.: Das RBS trifft die Bezirksausschüsse am 22.06.2016 um 16.00 Uhr, Bayerstraße 28, Raum 5.074
+- TOP 8.5.: Fachtagung zur Vorstellung der Ergebnisse der Sinus- Jugendstudie am 28.0.72016, 9.30 Uhr bis 12.30 Uhr, CVJM- Haus, Landwehrstraße 13
+- TOP 8.6.: Familientag Don Bosco am 12.06.2016 ab 11 Uhr
+- TOP 8.7.: Gemeinsam stark für Münchens Kinder & Jugendliche: Lilalu Get-together im Olympiapark am 14.08.2016 von 12.30 Uhr bis 14.00 Uhr
+- TOP 8.8.: Bürgerforum Altenpflege am 05.07.2016 von 18- 20 Uhr, Altes Rathaus,Festsaal
+- TOP .1.: Budget der Bezirksausschüsse IGH e.V. Sommerfest am 04. und 05.06.2016 Antragssumme: 4.659,00 Euro - <div>Zustimmung in Höhe von 2.500,000?</div>
+- TOP .2.: Budget der Bezirksausschüsse Eigenwerk+Unsinn e.V. Sommerfest mit 10-Jahres Feier am 03.07.2016 Antragssumme: 400,00 Euro - <div>Zustimmung in voller höhe </div>
+- TOP .3.: Budget der Bezirksausschüsse Arbeitsgemeinschaft für Kinder und Jugendliche in Au/Haidhausen Stand auf dem Haidhauser Kultursonntag am 03.07.2016 Antragssumme: 690,00 Euro - <div>nach Antrag</div>
+- TOP .4.: Budget der Bezirksausschüsse Jugendtreff Au (Kreisjugendring München-Stadt) Feier zum 50jährigen Jubiläum am 15.07.2016 Antragssumme: 1.146,12 Euro - <div>nach Antrag</div>
+- TOP .5.: Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 06.07.2016 Antragssumme: 850,00 Euro - <div>nach Antrag</div>
+- TOP 1: (E) Mariahilfplatz wieder in städtische Hand und als kostenlose Parkmöglichkeit für Bewohner der gesamten Au Empfehlung Nr. 14-20 / E 00858 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 03.03.2016 - <div>nach Antrag inkl. Ergänzung</div>
+- TOP 2: (E) Verbesserung der Aufenthaltsqualität am Preysingplatz durch mehr Bänke Empfehlung Nr. 14-20 / E 00855 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 25.02.2016 - <div>nach Antrag</div>
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
