@@ -1,0 +1,53 @@
+# Finanzausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-06-16T17:00:00+02:00
+- Ende: 2016-06-16T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZed1iv9GRlIMPGd7C88R3tg
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4617
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVc2gSbopDdOLCWo5WtgJf9F4keKhGbbuhs2l5KIcNU1/Oeffentliche_Niederschrift_Finanzausschuss_16.06.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die xx. Sitzung des Finanzausschusses am
+- TOP 3: Verwendung der Sportpauschale
+- TOP 4: Verwendung der Sportpauschale
+- TOP 5: VIII. Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 6: III. Änderungssatzung zur Satzung der Stadt Solingen über die Erhebung von Elternbeiträgen (Elternbeitragssatzung)
+- TOP 7: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 8: Bereitstellung von außerplanmäßigen Mitteln gemäß § 83 GO NW zur Sanierung der Wilhelm-Hartschen-Schule
+- TOP 9: Bürgerbeteiligte Haushaltssicherung für den Haushalt 2017
+- TOP 10: Präzisierung der Zuständigkeit des Unterausschusses Aufgabenkritik
+- TOP 11: Kosten der Unterkunft - Aussetzung von Kostensenkungsverfahren
+- TOP 12: Verwendung der Bildungspauschale
+- TOP 13: Portfolioanalyse der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 14: Abbau von Ampelanlagen
+- TOP 15: Prüfung der Erhebung einer Pferdesteuer in der Stadt Solingen
+- TOP 16: Optimierung der Post- und Botendienste im Gesamt-Konzern Stadt Solingen
+- TOP 17: Carsharing/Carpooling für städtische Fahrzeuge
+- TOP 18: Verkauf von Klein- und Randgrundstücken
+- TOP 19: Optimierung der Wärmeversorgungsinfrastruktur
+- TOP 20: Klimaschutz – Einsatz von LED-Technik
+- TOP 21: Langfristige Immobilienstrategie Konzern Stadt Solingen
+- TOP 22: Prüf-/Arbeitsaufträge aus der Etatberatung 2016 für das Finanzmanagement
+- TOP 23: 1. Quartalsbericht zum Ergebnisplan des Haushaltes 2016 und HSP-Controlling lt. Stärkungspaktgesetz
+- TOP 24: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Quartal 2016
+- TOP 25: Verschiedenes
+- TOP 26: Sanierung Gebäude Nibelungenstraße
+- TOP 27: Hochbauvermögen der Stadt Solingen
+- TOP 28: Verwendung der Bildungspauschale
+- TOP 29: Forderungsmanagement
+- TOP 30: Stadtbibliothek Solingen
+- TOP 31: Kommunale Anleihe - Städteanleihe No 4
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die xx. Sitzung des Finanzausschusses am
+- TOP 3: Option zur weiteren Beauftragung zur Errichtung von Wohnbauten in Holztafelbauweise zur Unterbringung von Flüchtlingen
+- TOP 4: Verkauf einer städtischen Liegenschaft im Bereich Ellerstraße
+- TOP 5: Verschiedenes
