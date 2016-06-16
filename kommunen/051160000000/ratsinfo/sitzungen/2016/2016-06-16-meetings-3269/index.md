@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-06-16T15:00:00+02:00
+- Ende: 2016-06-16T19:27:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3269
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3269
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 15. Sitzung des Rates am 27.04.2016 - öffentlicher Teil -
+- TOP 1.1: "Eine Stadt zwei Schilder" - Mit Stimmenmehrheit abgelehnt
+- TOP 2: Berichterstattung Kampagne Fairtrade Towns - Kenntnisnahme
+- TOP 3: Stellungnahme zum Ratsbeschluss 1392/IX - Verweisung in zuständige Fachausschüsse
+- TOP 4: Public Corporate Governance Kodex (PCGK) - Kenntnisnahme
+- TOP 4.1: Ergänzungsantrag zur Berichtsvorlage 1651/IX Public Corporate Governance Kodex (PCGK) - Einstimmiger Beschluss
+- TOP 5: Gesellschaftsvertragsanpassung MVZ - Einstimmiger Beschluss
+- TOP 6: Beteiligung der NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 7: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2016 - Kenntnisnahme
+- TOP 8: Errichtung Grundschulverbund KGS Venn / KGS Hehn - Mit Stimmenmehrheit beschlossen
+- TOP 9: Offene Ganztagsschule - Einstimmiger Beschluss
+- TOP 9.1: Offene Ganztagsschule - Ergänzungsantrag zur Vorlage 1615/IX - Vom Antragsteller zurückgezogen
+- TOP 9.2: Ergänzungsantrag zu Vorlage 1615/IX - Offene Ganztagsschule - Mit Stimmenmehrheit abgelehnt
+- TOP 10: 22. Nachtrag zur Hauptsatzung und 21. Nachtrag zur Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 11: Schiedsamtswiederwahl Ost/2 - Einstimmiger Beschluss
+- TOP 12: Leistungsvereinbarung Flüchtlingsrat - Einstimmiger Beschluss
+- TOP 13: Leistungsvereinbarungen über Mahlzeitendienste - Einstimmiger Beschluss
+- TOP 14: Jahresabschluss 2015 der GSM und Verwendung des Jahresüberschusses - Mit Stimmenmehrheit beschlossen
+- TOP 15: Jahresbericht zur Abwasserbeseitigung 2015 der NEW AG - Kenntnisnahme
+- TOP 16: Straßenbenennung im Bereich des BP Nr. 480/VI,III - Mit Stimmenmehrheit beschlossen
+- TOP 17: Wachsende Stadt - „Wachstum in Qualität“ - Mit Stimmenmehrheit beschlossen
+- TOP 18: Veränderungssperre Bahnanlagen um den Mönchengladbacher Hauptbahnhof - Einstimmiger Beschluss
+- TOP 19: Veränderungssperre Stapper Weg - Einstimmiger Beschluss
+- TOP 20: Kapazitätserweiterung Flughafen Düsseldorf - Stellungnahme Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 20.1: Änderung der Betriebsgenehmigung des Flughafens Düsseldorf, hier: Stellungnahme der Verwaltung gegen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 21: Erstellung eines schlüssigen Konzeptes zur Neuordnung der Kosten der Unterkunft nach § 22 SGB II und - Vom Antragsteller zurückgezogen
+- TOP 22: Integrierte Stadtteil- und Quartiersarbeit - Getrennte Abstimmung (s. Niederschrift)
+- TOP 23: RWE-Kraftwerkserneuerungsprogramm - Mit Stimmenmehrheit abgelehnt
+- TOP 23.1: RWE-Kraftwerkserneuerungsprogramm - Einstimmiger Beschluss
+- TOP 24: Denkmalschutzkonzept für die Stadt Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Vorstellung der Bildungs- und Teilhabeleistungen im Rahmen der Berichtsvorlage 1397/IX - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 27: Mobilitätskonzept - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Strategisches Raumkonzept - Getrennte Abstimmung (s. Niederschrift)
+- TOP 29: Sichtachse zur Kaiser-Friedrich-Halle wiederherstellen - Verweisung in zuständige Fachausschüsse
+- TOP 30: Erweiterung des Verwaltungsrates der Stadtbetriebe Mönchengladbach AöR - Mit Stimmenmehrheit beschlossen
+- TOP 31: Weiterentwicklung der wirtschaftspolitischen Leitbranchen - "Digitale Wirtschaft/Industrie 4.0" - Mit Stimmenmehrheit beschlossen
+- TOP 31.1: Ergänzungsantrag zu TOP 32 - Weiterentwicklung der wirtschaftspolitischen Leitbranchen „Digitale Wi - Einstimmiger Beschluss
+- TOP 32: Kommission zur Begleitung der Weiterentwicklung von IT und Telekommunikation und deren zugrundeliege - Mit Stimmenmehrheit beschlossen
+- TOP 33: Anfragen und Mitteilungen
+- TOP 33.1: Anfrage von RF Brombeis (Bündnis90/Die Grünen) zur Behandlung von Anfragen außerhalb von Gremien
+- TOP 33.2: Anfrage von RH Zabci (PiPa-Gruppe) zur Radstation
+- TOP 33.3: Anfrage von RH Schultz (DIE LINKE) zu verkaufsoffenen Sonntagen
+- TOP 33.4: Anfrage von RH Schultz (DIE LINKE) zur Aktion "Frieden ohne Atomwaffen"
