@@ -1,0 +1,81 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-06-16T18:00:00+02:00
+- Ende: 2016-06-16T20:05:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1582
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1582
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Zugang zu einer Fußgängergasse in Barrenstein (Antrag Nr. 171/16) - einstimmig
+- TOP 2.1.2: Parksituation in Barrenstein (Antrag Nr.169/16) - einstimmig
+- TOP 2.1.3: Verkehrssituation in Barrenstein (Antrag Nr. 170/16) - einstimmig
+- TOP 2.1.4: Baumaßnahmen in Hemmerden der Deutschen Glasfaser (Antrag Nr. 172/16) - einstimmig
+- TOP 2.1.5: Maßnahmen ISEK (Antrag Nr. 173/16) - einstimmig
+- TOP 2.1.6: Brunnenanlage Eichendorffplatz (Antrag Nr. 176/16) - einstimmig
+- TOP 2.1.7: Lärmschutz für Hemmerden (Antrag Nr. 177/16) - Kenntnisnahme
+- TOP 2.2: SPD
+- TOP 2.3: UWG
+- TOP 2.4: FDP
+- TOP 2.4.1: Zustand des Waldfriedhofes in Gustorf (Antrag Nr. 165/2016) - einstimmig
+- TOP 2.4.2: Möglichkeit zur Teilnahme am Landeswettbewerb - Stadt.Umland.NRW prüfen (Antrag Nr. 166/2016) - einstimmig
+- TOP 2.4.3: Digitalisierungs Update: Konzept zur weiteren Verbreitung des freien WLANs (Antrag Nr. 145/16) - einstimmig
+- TOP 2.4.4: Straßenschilder auf der Energiestraße (Antrag Nr. 163/16) - einstimmig
+- TOP 2.4.5: Todesfalle Zaun an der Frimmersdorfer Höhe (Antrag Nr. 174/16) - einstimmig
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.6: ABG
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.7.1: Kontrolle des fließenden Verkehrs (Antrag Nr. 178/16) - einstimmig
+- TOP 2.7.2: Freischnitt der Sichtachsen und Rückbau der Sitzbänke (Antrag Nr. 179/16) - einstimmig
+- TOP 2.8: Die Linke/Piraten
+- TOP 2.9: FBG
+- TOP 2.10: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: 300 Millionen Euro für Bahnhöfe in NRW - hier: Nachfrage (Anfrage Nr. 148/2016) - einstimmig
+- TOP 3.3.2: Schließt die Stadt aktiv heimische Gastronomen bei Veranstaltungen in GV aus? (Anfrage Nr. 147/16) - einstimmig
+- TOP 3.3.3: Baumbepflanzung Marktstraße in Wevelinghoven (Anfrage Nr. 167/2016) - einstimmig
+- TOP 3.3.4: Sachstand zum geplanten Memoriam Garten auf dem Friedhof Elsen (Anfrage Nr. 168/2016) - einstimmig
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Demografiebericht Grevenbroich (Anfrage Nr. 180/16) - einstimmig
+- TOP 3.7.2: Niederflurbusse (Anfrage Nr. 175/16) - einstimmig
+- TOP 3.7.3: Landesvorrangfläche (Anfrage Nr. 164/16) - einstimmig
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Mittelfristige Finanzplanung - Investitionsstau - einstimmig
+- TOP 7: Soziale Grundlagendaten - einstimmig
+- TOP 8: Fusion ITK-R mit IT MG - einstimmig
+- TOP 9: Beantwortung Anträge
+- TOP 9.1: Fernwärme für Neurath - einstimmig
+- TOP 9.2: Gefahrenquelle auf dem Gehweg an der Friedensstraße beseitigen (Antrag Nr. 23/16) - einstimmig
+- TOP 9.3: Bauschutt/Absperrgitter am Bahnübergang in Noithausen (Antrag Nr. 99/16) - einstimmig
+- TOP 9.4: Sammelbeantwortung - einstimmig
+- TOP 10: Beantwortung Anfragen
+- TOP 10.1: Kita-Streik 2015: Rückzahlungen zu viel gezahlter Elternbeiträge (Anfrage Nr. 102/16) - einstimmig
+- TOP 10.2: Sozialer Wohnungsbau in Grevenbroich (Anfrage Nr. 103/16) - einstimmig
+- TOP 10.3: Sicherheit von Mitarbeitern des Ordnungsamtes (Anfrage 113/16) - einstimmig
+- TOP 10.4: Stellung von Brandwachen (Anfrage Nr. 131/2016) - Kenntnisnahme
+- TOP 11: mündliche Anträge/Anfragen
+- TOP 11.1: Entleerung von Müllgefäßen (Antrag Nr. 184/16)
+- TOP 11.2: Neubaugebiet Königslindenstr.(Anfrage Nr. 185/16)
+- TOP 11.3: Grünarbeiten Hundhausenstr. / Buckaugebiet (Anfrage Nr. 186/16)
+- TOP 11.4: Alternative Lösung für die Zaunanlage am Neurather Graben (Antrag Nr. 187/16)
+- TOP 11.5: Neubau Ecke Bahnstr. / Ostwall (Antrag Nr. 188/16)
+- TOP 11.6: Schülertransport Diedrich-Uhlhorn Realschule (Anfrage Nr. 189/16)
+- TOP 11.7: Historie Zaunanlage Frimmersdorfer Höhe (Anfrage Nr. 190/16)
+- TOP 12: Mitteilungen BM
