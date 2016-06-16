@@ -1,0 +1,186 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-06-16T17:30:00+02:00
+- Ende: 2016-06-16T22:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3848
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3848
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=132960
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde
+- TOP 2: Mitteilungen
+- TOP 2.1: des Vorstandes
+- TOP 2.2: der Fraktionen
+- TOP 2.3: der Ausschüsse
+- TOP 2.4: des Bezirksamtes
+- TOP 3: Konsenslisten
+- TOP 4: Thematische Stunde
+- TOP 4.1: Beschlüsse der BVV ernst nehmen (1): Jugendverkehrsschule in der Bremer Straße 10 sichern, nachhaltig entwickeln und Betrieb gewährleisten!
+- TOP 4.2: Beschlüsse der BVV ernst nehmen (2): Bezirkliches Konzept zur Mobilitätserziehung fortschreiben – alle drei Standorte der Jugendverkehrsschulen sichern und für die Zukunft entwickeln
+- TOP 4.3: Nicht auf Landesmittel für die bezirklichen Jugendverkehrsschulen verzichten!
+- TOP 5: Mündliche Anfragen
+- TOP 5.1: Mittes Verwaltung bald obdachlos?
+- TOP 5.2: Wahlen im September 2016 gefährdet?
+- TOP 5.3: Bußgelder für StraßenmusikerInnen
+- TOP 5.4: Öffentliches Interesse contra Interessen Einzelner im Bezirksamt zum „Platz der Kinderrechte“ und Ausstellung der Buddy-Bären (zu DS 2778/IV)
+- TOP 5.5: Willkommensklassen
+- TOP 5.6: Nicht auf Landesmittel für Bildungsverbünde in Mitte verzichten!
+- TOP 5.7: Asbest in Mittes Mietwohnungen - was tut der Bezirk?
+- TOP 5.8: Jobcenter Mitte: Eingliederungsmittel für Langzeitarbeitslose in 2016 – wie weit schon ausgeschöpft?
+- TOP 5.9: Asbest in Wohnungen nicht von ungefähr, interessiert Bezirksamt Mitte wohl nur peripher?
+- TOP 5.10: Mit Konsequenz und Härte gegen die „Kleinen“ – „law and order“ à la CDU
+- TOP 5.11: 24 Stunden Lärm durch MotelOne-Baustelle für Anwohner der Rathausstraße
+- TOP 5.12: Fahrradstellplätze für die Grundschule am Arkonaplatz hier: Aktueller Stand Umsetzung BVV-Beschluss DS 2316/IV
+- TOP 5.13: Gebühren für Straßennutzung Formel E – Rennen
+- TOP 5.14: Pflanzungen durch private Initiativen auf öffentlichen Flächen
+- TOP 5.15: Einrichtung einer Fahrradspur / Anordnung Geschwindigkeitsbeschränkung Tempo 30 km/h auf der Annenstraße
+- TOP 5.16: Aktion gegen Falschparken in ausgewählten Straßenzügen in Berlin: Berliner falschgeparkte Kraftfahrzeuge insbesondere auf Busspuren und Radwegen im Visier der Polizei und Ordnungsämter - Für eine Woche kam der Abschleppwagen auch in Berlin-Mitte?
+- TOP 5.17: Sondernutzungsgebühren Formel E Rennen auf der Karl-Marx-Allee
+- TOP 5.18: "Anzeigen" gegen Falschparken beim Ordnungsamt Mitte
+- TOP 5.19: Antrag 2375/IV - Ausreichend Fahrradabstellanlangen für Schulen einrichten
+- TOP 5.20: Werbeanhänger Standort Emdener Straße 58
+- TOP 5.21: Kein Gründerzentrum für Moabit trotz Gründerboom im Bezirk: Was ist bis zum Schlussbericht der Drs. 701/IV passiert?
+- TOP 5.22: Innenhofgestaltung der Ernst-Schering-Schule
+- TOP 5.23: Neue Schulen für unseren Bezirk - neue Grundschule im Wedding ?
+- TOP 5.24: Modulare Ergänzungsbauten (MEBs) in Mitte : alles im grünen Bereich?
+- TOP 6: Dringlichkeitsanfragen
+- TOP 6.1: "ALLE Baumaßnahmen an Schulen verschoben oder gestrichen: Haushaltskonsolidierung als Alibi für massive Querfinanzierung des Bezirkshaushaltes aus Investitionsmitteln? Nachfrage zur Großen Anfrage Drs. 2738/ IV“
+- TOP 6.2: Wahlkampf an der Anna-Lindh-Grundschule und die Folgen
+- TOP 7: Große Anfragen
+- TOP 7.1: Ausschreibungen in Mitte: Einige können es, andere nicht?
+- TOP 7.2: Niemand hat die Absicht, die Bezirksverordneten bei ihrer Arbeit zu behindern (2)
+- TOP 7.3: Termine für Einbürgerungsgespräche in Mitte erst in einem Jahr verfügbar – in anderen Bezirken innerhalb von drei Tagen?
+- TOP 7.4: Mehr Geld für Grünanlagen in Mitte?
+- TOP 7.5: Warum auf einmal alles so schnell und heimlich beim Blockkonzept Heinrich-Heine-Straße?
+- TOP 7.6: Willkommensklassen: Genug Plätze für geflüchtete Kinder und Jugendliche an Mittes Schulen?
+- TOP 7.7: Nutzung von Sporthallen als Notunterkünfte
+- TOP 7.8: Ausschreibung Mieterberatung
+- TOP 7.9: Verkehrssicherheit im Kreuzungsbereich Schloßplatz / Ecke Breite Straße
+- TOP 7.10: Können alle Berliner_innen in Berlin wählen?
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 9: Vorlagen zur Beschlussfassung
+- TOP 9.1: Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für das Gebiet Wilhelmstraße im Bezirk Mitte von Berlin gem. § 172 Abs. 1 Satz 1 Nr. 1 BauGB
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2014
+- TOP 10.2: Bezirksgrenzänderung geringer Bedeutung der Bezirke Pankow und Mitte im Bereich des Mauerparks
+- TOP 10.3: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes I-9-1 VE „Axel-Springer-Campus“
+- TOP 11: Dringlichkeitsanträge
+- TOP 11.1: Kleinkünstlertum in Mitte fördern
+- TOP 11.2: Mitglied des Jugendhilfeausschusses
+- TOP 11.3: Antrag auf Entscheidung der Bezirksaufsicht hinsichtlich der Beanstandung des BVV-Beschlusses gemäß Vorlage zur Kenntnisnahme DS 2778/IV („Platz für Kinderrechte“ in Mitte schaffen – und damit UNICEF unterstützen!) – Aufhebung des Bezirksamtsbeschlusses 1662 für die „Ausstellung“ von UNICEF und der Buddy Bär Stiftung
+- TOP 11.4: Ruhe und Sicherheit für die Dresdener Straße
+- TOP 12: Anträge
+- TOP 12.1: Änderung der Geschäftsordnung
+- TOP 12.2: Alle Verfahrensauswertungen von Bebauungsplänen weiterhin der Bezirksverordnetenversammlung zur Kenntnis geben
+- TOP 12.3: Kulturelle Zwischennutzung im Bärenzwinger
+- TOP 12.4: Neugeborene von Flüchtlingen ohne Identität
+- TOP 12.5: Nachbarschaftsmanagement zur Integration von geflüchteten Menschen in Berlin Mitte
+- TOP 12.6: Keine Intoleranz im Tiergarten
+- TOP 12.7: Fahrradverkehr in der Stromstraße erleichtern
+- TOP 12.8: Tempo 30 vor allen Schulen, Kitas, Krankenhäusern und Seniorenheimen des Bezirks Mitte
+- TOP 12.9: Auskunfts- und Informationssystem (Daisy) für die Haltestelle des TXL - Karl- Liebknecht- Ecke Dircksenstraße installieren
+- TOP 12.10: Keine Einnahmen aus der Nutzung öffentlicher Sportanlagen privatisieren!
+- TOP 12.11: Ermittlung der öffentlichen Meinung
+- TOP 12.12: Uferweg zwischen Karl-Liebknecht-Straße und Rathausbrücke wieder herstellen!
+- TOP 12.13: Freie Radwege und Busspuren sichern
+- TOP 12.14: Zwangsräumungen und Stromsperren dokumentieren
+- TOP 12.15: Bauhafen der U-5-Baustelle am Nikolaiviertel erhalten!
+- TOP 12.16: Mieterinformationen Milieuschutz
+- TOP 12.17: Umsicht gegenüber den Anliegern bei BVG-Baustellensperrung der Chausseestraße
+- TOP 12.18: Prävention im Kleinen Tiergarten zwischen Heilandskirche und Stromstraße Sicherheitsgefühl wiederherstellen
+- TOP 12.19: Auf gute Nachbarschaft von Anfang an – der BND als guter Nachbar an Scharnhorst- und Chausseestraße
+- TOP 12.20: Handbuch Gendarmenmarkt veröffentlichen
+- TOP 12.21: Ergänzende Berichterstattung zu Liegenschaften (2)
+- TOP 12.22: Fahrradbügel für die Beusselstraße
+- TOP 12.23: Saubere Gehwege – nicht kaputte Gehwege
+- TOP 12.24: Freies WLAN auch für die bezirklichen Einkaufsstraßen
+- TOP 12.25: Bericht zur Transfersteuerung im Bereich Jugend
+- TOP 12.26: Landesprogramm für Stelen, Tafeln und Gedenksteine der Erinnerungskultur im öffentlichen Raum mit Wiedererkennungsfaktor, zeitgemäßem Datenspeicher und Datenabrufsystem
+- TOP 13: Dringliche Entschließungen
+- TOP 14: Entschließungen
+- TOP 15: Anträge/Beschlussempfehlung
+- TOP 15.1: Ergänzende Informationstafel zum Gedenkstein für Mai-Tote 1929 - Wiesenstraße/Walter-Röber-Brücke
+- TOP 15.2: Würdigung der Keimzelle Berlins
+- TOP 15.3: Damit die Pizza nicht mehr von der Tankstelle kommt: Eine Perspektive für Spätis auch in Mitte ermöglichen- Berliner Ladenöffnungsgesetz den Realitäten anpassen
+- TOP 15.4: Kann der Bezirk Mitte eine eigene Unterkunft für geflüchtete Menschen betreiben?
+- TOP 15.5: Bürgerbeteiligung in Mitte (I): Erarbeitung von Leitlinie der Bürgerbeteiligung
+- TOP 15.6: Schulbesuch von Geflüchteten (1)
+- TOP 15.7: Überbauung von Stellplatzflächen
+- TOP 15.8: Bierbikes: Wo ein Wille ist, ist auch ein Weg!
+- TOP 15.9: Städtepartnerschaften auch für die Unternehmen in Mitte nutzen und Türen öffnen
+- TOP 15.10: Sprachenvielfalt bei der Anschaffung neuer Medien in den Bibliotheken stärken
+- TOP 15.11: Keine Flächenvermietung an Zirkusse mit Wildtieren
+- TOP 15.12: Erstellen von Bauplanungsunterlagen beschleunigen: auch durch externe Firmen
+- TOP 15.13: Planungsverfahren für die Gestaltung einer Begegnungszone am Checkpoint-Charlie
+- TOP 15.14: Fahrradweg Kreuzung Afrikanische Straße/Petersallee
+- TOP 15.15: Messeauftritt des Bezirksamtes Mitte beim Tag des Dualen Studiums an der HWR ab 2017
+- TOP 15.16: „Sudhaus-Kupferkessel" zurück ins Schultheiss-Quartier
+- TOP 15.17: Video - Dolmetschdienst
+- TOP 15.18: Internet in Seniorenpflegeeinrichtungen
+- TOP 15.19: Zentralen Festplatz aufgeben
+- TOP 15.20: Gamification für Mittes Ämter
+- TOP 15.21: Computerkurse für Seniorinnen und Senioren in der VHS Mitte einführen
+- TOP 15.22: Palais am Festungsgraben - gute Nutzung für Berlin in der Welt
+- TOP 16: Vorlagen zur Kenntnisnahme
+- TOP 16.1: Verkehrssicherheit erhöhen: Mobilitätserziehung für die Jüngsten qualifizieren und Straßen sicherer machen!
+- TOP 16.2: Jugendkunstschulen ins Schulgesetz aufnehmen
+- TOP 16.3: Anonymisierte Bewerbungsverfahren im Bezirk Mitte durchführen - Beteiligung am Pilotprojekt der Senatsintegrationsverwaltung
+- TOP 16.4: Wiedereinstieg ins Berufsleben für Frauen
+- TOP 16.5: Willkommens - Zentrum Berlin, Service-Punkt-Integration
+- TOP 16.6: Schlossfreiheit
+- TOP 16.7: Sicherer Fußgängerüberweg an der Roßstraßenbrücke
+- TOP 16.8: Erhalt der Parkplätze in der Parkraumbewirtschaftungszone in der Holzmarktstr.
+- TOP 16.9: Pfandschlupf bekämpfen
+- TOP 16.10: Grünes Licht für Fußgängerüberweg am U-Bahnhof Naturkundemuseum
+- TOP 16.11: Städtebauliche Besonderheiten in der Turmstraße
+- TOP 16.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.13: Gartenstadt Berlin
+- TOP 16.14: Trinkprotokolle in Seniorenpflegeeinrichtungen
+- TOP 16.15: Schutz des Monbijouparks und seiner Anwohnerinnen und Anwohner
+- TOP 16.16: Musisches Bildungszentrum Müllerstraße 158 möglich machen
+- TOP 16.17: Lokale Allianz für Menschen mit Demenz
+- TOP 16.18: Fußballplatz Pohlstraße erhalten
+- TOP 16.19: Fahrradwege am Hauptbahnhof sichern
+- TOP 16.20: Sprachliche Vielfalt in Mitte stärken!
+- TOP 16.21: Informations- und Erinnerungsstele zu Karl Wolffsohn am Ort des ehemaligen Großkinos Lichtburg in Berlin-Gesundbrunnen
+- TOP 16.22: Transparenz bei Sonderprogrammen
+- TOP 16.23: Umfassende Beteiligung bei Erstellung eines Positiv-/Negativkatalogs
+- TOP 16.24: Umgehung der nächtlichen Zutrittssperre am LAGeSo kurzfristig unterbinden
+- TOP 16.25: Zukunftsgerechtes Infrastrukturkonzept für Mitte entwickeln - BVV einbeziehen und Bürgerbeteiligung sicherstellen
+- TOP 16.26: Soziokulturelles Zentrum Kluckstraße 11/Lützowstraße 28 im QM-Gebiet Magdeburger Platz erhalten
+- TOP 16.27: Unwürdige Wartebedingungen am LAGeSo abstellen
+- TOP 16.28: Grüne Mitte - Gartenflächen kenntlich machen und zur Verfügung stellen
+- TOP 16.29: Besseres Wartemanagement am Landesamt für Gesundheit und Soziales
+- TOP 16.30: Gesicherte Zuständigkeit für geflüchtete Menschen zwischen Weihnachten und Neujahr
+- TOP 16.31: Charakter der Dortmunder Straße erhalten!
+- TOP 16.32: Damit es auch zukünftig ein Durchkommen ins Nikolaiviertel gibt
+- TOP 16.33: Härtefallfonds: Hortbetreuung für Flüchtlingskinder
+- TOP 16.34: Baumkataster für Mitte
+- TOP 16.35: Grüne Welle für Radfahrende
+- TOP 16.36: Damit ratlose Eltern der Vergangenheit angehören: Bezirkliches Spielplatzportal einrichten
+- TOP 16.37: Feste Unterkünfte statt Sporthallen
+- TOP 16.38: Gedenkstein für Johnny K.
+- TOP 16.39: Charakter der Dortmunder Straße erhalten (III)
+- TOP 16.40: Kreuzungsbereich Afrikanische Straße/Transvaalstraße sicherer machen
+- TOP 16.41: Verkehrs-Poller besser kenntlich machen - Vorlage zur Kenntnisnahme 1675/IV Regelung für Gesamtberlin
+- TOP 16.42: Geldkarte für Flüchtlinge einführen
+- TOP 16.43: Aufzugstörungen automatisiert melden
+- TOP 16.44: Umgehende Rechtskraft von Milieuschutzbeschlüssen sicherstellen
+- TOP 16.45: Veranstaltungsort Universal Hall in Moabit erhalten
+- TOP 16.46: Gaslaternen-Museum muss im Tiergarten bleiben!
+- TOP 16.47: Bärbel-Bohley-Ring und Lichtburgring im Baugebiet Am Mauerpark
+- TOP 16.48: Umfassende Beteiligung bei der Erstellung eines Positiv-Negativ-Katalogs
+- TOP 16.49: Barrierefreiheit erhalten
+- TOP 16.50: Mülltrennung nicht erschweren
+- TOP 16.51: Wahrnehmung von Vorkaufsrechten in Milieuschutzgebieten durch Ankauffonds sicherstellen
+- TOP 16.52: Blockentwicklungskonzept Heinrich-Heine-Straße vollständig veröffentlichen
+- TOP 16.53: Platz der Kinderrechte – wir unterstützen Buddy Bären e.V. und UNICEF
+- TOP 16.54: Liegenschaftsfonds (Drs. 32/I)
+- TOP 16.55: Benennung einer Privatstraße in Berlin-Mitte, Ortsteil Moabit, an der Lehrter Straße
+- TOP 16.56: Bericht 2016 zur Umsetzung der Sozialraumorientierung im Bezirksamt Mitte
