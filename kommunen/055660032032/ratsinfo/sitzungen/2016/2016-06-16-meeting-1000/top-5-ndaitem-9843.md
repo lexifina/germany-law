@@ -1,0 +1,7 @@
+# TOP 5: Antrag SPD Zebrastreifen Tecklenburger Straße Zebrastreifen Mühlenstraße
+
+- Sitzung: Rat der Gemeinde Ladbergen (21. Sitzung) (2016-06-16)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9843
+- Beratung: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/5843
