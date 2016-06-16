@@ -1,0 +1,54 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-06-16T16:05:00+02:00
+- Ende: 2016-06-16T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10142
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10142
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00389424.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird.
+- TOP 3: Münster Hauptbahnhof-Ostseite - Entwurf Landmarken AG - einstimmig beschlossen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Anträge und Eingaben
+- TOP 5.1: Bekanntgabe
+- TOP 5.2: Stellungnahmen
+- TOP 6: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 6.1: Standortbeschluss für eine Flüchtlingseinrichtung an der Dülmener Straße 9, Albachten - ohne Beschlussfassung geschoben
+- TOP 6.2: Mehrfachbeauftragung zur Freiflächengestaltung Südseite Stadthafen 1 - zur Kenntnis genommen
+- TOP 6.3: Städtebaulicher Wettbewerb "Quartier Moldrickx" - Auslobung - einstimmig beschlossen
+- TOP 6.4: Planungsprozess "Stadtraum Windthorststraße" - Sachstand und Ausblick - mehrheitlich beschlossen
+- TOP 6.5: Stadtteilentwicklungskonzept Kinderhaus - zur Kenntnis genommen
+- TOP 6.6: Städtebauförderung: Fortschreibung Integriertes Handlungskonzept Münster-Innenstadt - ohne Beschlussfassung geschoben
+- TOP 6.7: Antrag der SPD-Fraktion an den Rat A-R/0015/2016 "Münster für alle - Städtebauförderung für Coerde beantragen". - einstimmig beschlossen
+- TOP 6.8: Stadtgespräche zum Thema ‚Wohnen in Münster‘: Rückblick auf das 7. Stadtgespräch am 24.11.2015 und Ausblick - zur Kenntnis genommen
+- TOP 6.9: Gesamtstädtische Bevölkerungsprognose für den Zeitraum 2015 – 2030 als Grundlage für die Kleinräumige Bevölkerungsprognose 2015 - 2025: - zur Kenntnis genommen
+- TOP 6.10: Bürgerumfrage 2016: Zentrale Ergebnisse zu den Fragenkomplexen "Ziele der Stadtentwicklung / Einflussfaktoren bis 2030", "Bewertung der Lebensbedingungen" und Einkaufsstandort Innenstadt / Auswirkungen des Online-Handels" - zur Kenntnis genommen
+- TOP 6.11: 4. Koordinierte Bürgerbefragung 2015 zur Lebensqualität in deutschen Städten. Die Ergebnisse für die Stadt Münster im deutschen Städtevergleich - zur Kenntnis genommen
+- TOP 6.12: „Modell: Münster-Integration" – Unusual aspects of integration oder „Die andere Blickrichtung in/für Westfalen auf Integration” hier: Modellbauprojekt „Wohnen für Alle" - mehrheitlich beschlossen
+- TOP 6.13: Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau (Benennungsrechtssatzung) - einstimmig geändert beschlossen
+- TOP 7: Stadtplanung
+- TOP 7.1: 65. Änderung FNP - Stellungnahmen - Satzungsbeschluss - mehrheitlich geändert beschlossen
+- TOP 7.2: Bebauungsplan Nr. 147, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 7.3: Vorhabenbezogene 1. Änderung des Bebauungsplans Nr. 353 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.4: Bebauungsplan Nr. 567 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.5: 48. Änderung des FNP im Stadtbezirk Münster-Ost, Stadtteil Handorf, - einstimmig beschlossen
+- TOP 7.6: Weiterentwicklung der städtischen Bäderlandschaft - ohne Beschlussfassung geschoben
+- TOP 7.7: Weiterentwicklung des Bürgerbades Handorf - ohne Beschlussfassung geschoben
+- TOP 8: Verkehr
+- TOP 8.1: Tempo 50 auf der B 51 - Ratsantrag Nr.: A-R/0042/2013 vom 17.09.2013 - zur Kenntnis genommen
+- TOP 8.2: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2017 - einstimmig beschlossen
+- TOP 8.3: Programm "Verbesserungen an Haltestellen" für 2017/2018 - einstimmig beschlossen
+- TOP 8.4: Hafenstraße für alle VerkehrsteilnehmerInnen sicher machen - zur Kenntnis genommen
+- TOP 8.5: Wolbecker Straße – Straßenausbau zwischen Verfürthweg und Einmündung Lohausweg - mehrheitlich beschlossen
+- TOP 8.6: Errichtung einer Mittelinsel auf der Grevener Straße - vertagt, mit Prüfauftrag
+- TOP 9: Bauvorhaben
+- TOP 10: Verschiedenes
