@@ -1,0 +1,56 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-06-17T16:00:00+02:00
+- Ende: 2016-06-17T20:12:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11657
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11657
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269073.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269073.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269073.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Vorstellung der Kriminalstatistik 2015 für den Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 5: Treff am Kamper Acker-Vorstellung eines Konzeptes zur Versorgung drogenabhängiger KlientInnen in Holthausen - zur Kenntnis genommen
+- TOP 6: Vorstellung des DHL-Bauvorhabens Bonner Straße - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Neubau Kinderspielplatz Kammerrathsfeldstraße - zur Kenntnis genommen
+- TOP 11: FNP-Ändrung Nr 185 B-Plan VE Nr 09/013 - D.Port/Reisholzer Hafen - frührz. Bürgerbeteiligung
+- TOP 12: Bezirklicher Bauunterhalt - Stadtbücherei Benrath - zur Kenntnis genommen
+- TOP 13: Anfrage: Stellplätze im Bereich der Sportanlage Woermannstraße (TSV Urdenbach)
+- TOP 14: Anfrage: Gutshof Niederheid - zur Kenntnis genommen
+- TOP 15: Anfrage: Schimmelpfennigstr., Altlasten im Bereich der Starkstromtrasse?
+- TOP 16: Anfrage: Sachstand Radschnellweg, Radhauptnetz - zur Kenntnis genommen
+- TOP 17: Anfrage: Flüchtlingsunterkünfte in Wersten - zur Kenntnis genommen
+- TOP 18: Antrag: Erich-Müller-Straße, Radfahrschleuse - zur Kenntnis genommen
+- TOP 19: Antrag: Bürgerhaus Wersten - zur Kenntnis genommen
+- TOP 20: Antrag: Zebrastreifen Werstener Feld/Ecke Opladener Straße - zur Kenntnis genommen
+- TOP 21: Antrag: Fahrradständer am Werstener Kreuz/Spaltwerk - zur Kenntnis genommen
+- TOP 22: Antrag: Verkehrsprobleme auf der Werstener Friedhofstraße - zur Kenntnis genommen
+- TOP 23: Antrag: Beschilderung Scheidlingsmühlenweg - zur Kenntnis genommen
+- TOP 24: Antrag: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 25: Antrag: Klein-/ Telleringstraße - zur Kenntnis genommen
+- TOP 26: Antrag: Buslinie 788 - zur Kenntnis genommen
+- TOP 27: Antrag: Verfügungsmittel Karnevalsgesellschaft Düsseldorfer Räbbelche - zur Kenntnis genommen
+- TOP 28: Antrag: Verfügungsmittel Benrather Marktinitiative - zur Kenntnis genommen
+- TOP 29: Antrag: Verfügungsmittel Henri-Dunant-GGS - zur Kenntnis genommen
+- TOP 30: Antrag: Verfügungsmittel GGS Urdenbach - zur Kenntnis genommen
+- TOP 31: Antrag: Verfügungsmittel Benrather Schlossnarren - zur Kenntnis genommen
+- TOP 32: Antrag: Verfügungsmittel Grundschule Schloss Benrath/KGS St. Cäcilia - zur Kenntnis genommen
+- TOP 33: Antrag: Verfügungsmittel St. Sebastianus Reiterkorps Düsseldorf-Wersten e. V. - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel Grundschulen - zur Kenntnis genommen
+- TOP 35: Informationsvorlage zur Anfrage "Regenrückhaltebecken Kamper Acker" - zur Kenntnis genommen
+- TOP 36: Informationsvorlage zum Beschluss der BV 9 vom 11.03.2016, Mehrgenerationenwohnprojekt - zur Kenntnis genommen
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 11.03.2016, Prioritätenliste für Mischverkehrsflächen - zur Kenntnis genommen
+- TOP 38: Informationsvorlage zur Anfrage "Sachstand Industriebrache nördl. Paulsmühlenstr." - zur Kenntnis genommen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 11.03.2016, Fortschreibung des Sportstättenentwicklun - zur Kenntnis genommen
