@@ -1,0 +1,6 @@
+# TOP 2.26: Anfragen und Mitteilungen
+
+- Sitzung: 8. Sitzung des Verbandsausschusses (2016-06-20)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: ja
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2016-VA-30%7CAM-lpg-oef%7C1
