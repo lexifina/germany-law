@@ -1,0 +1,60 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-06-20T18:00:00+02:00
+- Ende: 2016-06-20T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfQLMjrZa-9IYpcvsYxdayw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4620
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRK70TSIcJiTlzvuPdFP01C4sxkiQABMsG_OpjCVIVe/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_20.06.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Mühlenplatz - Umgestaltung der Platzfläche
+- TOP 4: Aufwertung des Theaterumfeldes
+- TOP 5: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 6: Vorstellung neuer Teilbetrieb Stadtgrün und Stadtbildpflege
+- TOP 7: Qualitätssicherung Sonderelemente/Sonderflächen im Stadtraum
+- TOP 8: Naturschutzmaßnahmen in Solingen, Umsetzung durch Förderung
+- TOP 9: Gesamtgutachten Ittertal
+- TOP 10: Stellungnahme zur Fortschreibung des kommunalen Einzelhandels- und Zentrenkonzeptes der Stadt Wuppertal
+- TOP 11: Soziale Stadt - Solinger Nordstadt
+- TOP 12: City 2013: Umgestaltung des Elisenplatzes/Ufergartens
+- TOP 13: Umgestaltung Elisenplatz/Ufergarten
+- TOP 14: E-Bus 2020
+- TOP 15: Beschlusskontrolle ASUKM 2015
+- TOP 16: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 17: Bauleitplanung Cronenberger Straße/ Klauberger Straße
+- TOP 18: Bauleitplanung Kamper Straße/ Kleine Kamper Straße
+- TOP 19: Bauleitplanung Aachener Straße/ Heiligenstock
+- TOP 20: Bauleitplanung Steinstraße/ Sauerbreystraße
+- TOP 21: Bauleitplanung ehemaliges Freibad Höher Heide
+- TOP 22: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 23: Sanierung Eschbach - Buslinienführung
+- TOP 24: Verschiedenes
+- TOP 25: Inlinersanierung Lochbachtal
+- TOP 26: Straßenbaubeiträge für den Austausch der Straßenbeleuchtung;
+- TOP 27: Fachwerkhaus Birkenweiher/Ecke Kölner Straße
+- TOP 28: Vorstellung des Statistischen Sozialberichts 2015
+- TOP 29: City 2013: Kreativ- und Standortoffensive für die Solinger Innenstadt
+- TOP 30: Haltestelle Piepersberg – Linie 683/Wuppertaler Straße
+- TOP 31: Ersatzstandort für die Einrichtung "Faxe"
+- TOP 32: Integriertes Stadtteilentwicklungskonzept Ohligs
+- TOP 33: ÖPNV-Fahrgastbeirat
+- TOP 34: Teilnahme am Netzwerk „Zukunftsnetz Mobilität NRW“
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 4: Bauleitplanung ehemaliges Freibad Höher Heide
+- TOP 5: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 6: Verschiedenes
+- TOP 7: Klage gegen die Widmung der Stichstraße - Nibelungenstraße
+- TOP 8: Errichtung eines Parkplatzes auf dem Grundstück Konrad-Adenauer-Str. 17
+- TOP 9: Sachstand Standortsuche Hundeschule Denig
