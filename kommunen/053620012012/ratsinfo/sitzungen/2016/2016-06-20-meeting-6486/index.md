@@ -1,0 +1,67 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-06-20T18:02:00+02:00
+- Ende: 2016-06-20T19:10:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRouboHjpnrR5h03hFbWC8o
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6486
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfGf5_2XsLmnjgeSxqjBBc-zhN2hbLlSjul0FdcdbnbM/Bekanntmachung_Rat_20.06.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVXf8yxjJE5aMBKrNmOLzOpLHB2ZqVDc40zazHDra3MT/Oeffentliche_Niederschrift_Rat_20.06.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 25.04.2016
+- TOP 3.: Erklärung des Rates der Stadt Brühl zu Falschaussagen im Kontext des Ratsbürgerentscheides Bezug: Antrag der Fraktionen CDU/GRÜNE vom 20.06.2016
+- TOP 4.: Bürgeranträge gem. § 24 GO NRW
+- TOP 4.1: Benennung von Straßen in Brühl – Ost -HA am 6.6.2016, Vorlage 207/2016 - (kein Text vorhanden)
+- TOP 4.1.1: Bürgerantrag zur Benennung einer Straße nach Marie Curie Bezug: Antrag gem. § 24 GO NW vom 25.05.2016
+- TOP 4.1.2: Bürgerantrag zur Benennung einer Straße nach Hedwig Gries Bezug: Antrag gem. § 24 GO NW vom 19.04.2016
+- TOP 4.1.2.1: Bürgerantrag zur Benennung einer Straße nach Hedwig Gries - (kein Text vorhanden)
+- TOP 5.: Unterschriftenaktion "Kleingärten müssen bleiben" gegen die östliche Erweiterung des Phantasialandes; hier: Kleingartengelände an der Kuhgasse
+- TOP 6.: Sondersatzung Steinweg - (kein Text vorhanden)
+- TOP 7.: 1. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule an den Grundschulen der Stadt Brühl - (kein Text vorhanden)
+- TOP 8.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 8.1: Überplanmäßige Aufwendung und Auszahlung Kreisumlage und damit verbundene Steuerbelastung
+- TOP 8.1.1: Überplanmäßige Aufwendung und Auszahlung Kreisumlage - (kein Text vorhanden)
+- TOP 8.2: überplanmäßiger Mehraufwand - Pensionsrückstellungen
+- TOP 8.2.1: Überplanmäßiger Mehraufwand - Pensionsrückstellungen Bezug: Vorlage Nr. 144/2016 HA 23.5. und 6.6.2016 - (kein Text vorhanden)
+- TOP 8.3: Überplanmäßige Ausgabe für die Ausstattung von weiteren Unterkünften zur Flüchtlingsunterbringung Außerplanmäßige Ausgaben für den Sicherheitsdienst in Flüchtlingsunterkünften
+- TOP 8.3.1: Überplanmäßige Ausgabe für die Ausstattung von weiteren Unterkünften zur Flüchtlingsunterbringung; Außerplanmäßige Ausgaben für den Sicherheitsdienst in Flüchtlingsunterkünften Bezug: Vorlage Nr. 148/2016, HA 23.5. und 6.6.2016 - (kein Text vorhanden)
+- TOP 8.4: Überplanmäßige Mittelbereitstellung hier: Ersatzbeschaffung Drehleiter - (kein Text vorhanden)
+- TOP 8.5: Überplanmäßige Mittelbereitstellung Straßen- und Kanalbau Badorfer Straße / Buschgasse / Schiffergasse / Euskirchener Straße - (kein Text vorhanden)
+- TOP 8.6: Überplanmäßige Mittelbereitstellung für die Beförderung von Schülerinnen und Schülern im Brühler Stadtgebiet - (kein Text vorhanden)
+- TOP 8.7: Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 2. bis 4. Quartal 2015
+- TOP 9.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 9.1: Dringlichkeitsentscheidung hier: Überplanmäßige Ausgabe Abstimmungsheft Ratsbürgerentscheid - (kein Text vorhanden)
+- TOP 10.: Entwurf des Jahresabschlusses 2015 - (kein Text vorhanden)
+- TOP 11.: Ermächtigungsübertragung aus dem Haushaltsplan 2015 nach 2016 Bezug: 1. Übertragungsvorlage im Rat am 25.04.2016
+- TOP 12.: Gesellschafterversammlung Gebausie - Jahresabschluss 2015 - (kein Text vorhanden)
+- TOP 13.: Kunstrasenplatz Brühl-Vochem - (kein Text vorhanden)
+- TOP 14.: Abbruch „Puddinghaus“ Bezug: HA 19.10.2015
+- TOP 15.: Anträge
+- TOP 15.1: Haushaltskonsolidierung Bezug: Antrag der FDP-Fraktion vom 19.05.2016
+- TOP 15.2: Haushaltssituation Bezug: gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 03.06.2016 - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Gremien und Ausschüssen
+- TOP 16.1: Umbesetzung in Ausschüssen/Umbesetzung Aufsichtsrat Gebausie Bezug: Antrag der Fraktion GRÜNE vom 03.06.2016 - (kein Text vorhanden)
+- TOP 16.2: Bestellung von Vertretern der Stadt Brühl zur Wahrnehmung von Mitgliedschaftsrechten hier: Wasser- und Bodenverband Brühl-Schwadorf - (kein Text vorhanden)
+- TOP 16.3: Benennung eines stellvertretenden sachkundigen Bürgers im Ausschuss für Verkehr und Mobilität
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Schäden am Thüringer Platz
+- TOP 18.2: Tippfehler
+- TOP 18.3: Verschmutzung im Bereich "An Hornsgarten"
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Altersteilzeitregularien der Stadt Brühl - (kein Text vorhanden)
+- TOP 19.1: Vorlage Altersteilzeit
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen
+- TOP 21.1: Aktion der "Bürgerinitiative Rathaus Steinweg" am Tag der offenen Tür der Feuerwehr
+- TOP 21.2: Sachkundige Bürger
+- TOP 21.3: Pressemitteilung zur gemeinsamen Erklärung des Rates zu den Falschaussagen im Kontext des Ratsbürgerentscheides
+- TOP 21.4: Forderung einer Unterlassungserklärung an die "Bürgerinitiative Rathaus Steinweg"
