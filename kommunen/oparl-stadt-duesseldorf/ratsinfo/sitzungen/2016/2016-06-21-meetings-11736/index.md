@@ -1,0 +1,59 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-06-21T15:00:00+02:00
+- Ende: 2016-06-21T16:20:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11736
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11736
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269704.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269704.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269704.pdf
+
+## Tagesordnung
+
+- TOP 1: TO - einstimmig beschlossen
+- TOP 1.1: Zulassung als Sachverständige gemäß § 21 (14) Geschäftsordnung des Rates - einstimmig beschlossen
+- TOP 2: Niederschrift - zur Kenntnis genommen
+- TOP 2.1: Genehmigung der Niederschrift vom 12.04.2016 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift vom 10.05.2016 - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 3.1: Anfrage DIE LINKE. - Werbemaßnahmen Bundeswehr u. Unternehmen an KITAs - zur Kenntnis genommen
+- TOP 3.2: Anfrage DIE LINKE. - Belegung von KITA-Plätzen durch die Bundeswehr - zur Kenntnis genommen
+- TOP 4: Berichte - zur Kenntnis genommen
+- TOP 4.1: Vorstellung des Projektes "Navi-Kid" - zur Kenntnis genommen
+- TOP 4.2: Vorstellung der Webseite Youpod - Düsseldorfer Jugendportal - zur Kenntnis genommen
+- TOP 4.3: Sachstandsbericht umF - Aktueller Stand - zur Kenntnis genommen
+- TOP 5: Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 5.1: Anerkennung von zwei Kitas als plusKITA i.S.d. 2. Änderungsgesetzes KiBiz - einstimmig beschlossen
+- TOP 6: Investitionszuschüsse an freie Träger von Kindertageseinrichtungen - zur Kenntnis genommen
+- TOP 6.1: Investitionszuschüsse an fr. Träger von Kitas – Kita Adalbertstr. 10 - einstimmig beschlossen
+- TOP 6.2: Investitionszuschüsse an fr. Träger von Kitas – Kita Am Mergelsberg 3a - einstimmig beschlossen
+- TOP 6.3: Investitionszuschüsse an fr. Träger von Kitas – Kita Hasselsstr. 69a - einstimmig beschlossen
+- TOP 6.4: Investitionszuschüsse an fr. Träger von Kitas - Kita Lindenstr. 128 - einstimmig beschlossen
+- TOP 7: Jugendförderung - zur Kenntnis genommen
+- TOP 7.1: Gliederung des Partizipationsberichtes - zur Kenntnis genommen
+- TOP 8: Kinderhilfezentrum - zur Kenntnis genommen
+- TOP 8.1: Qualitätsentwicklung § 79a SGB VIII - Familiäre Bereitschaftsbetreuung - einstimmig beschlossen
+- TOP 8.2: HzE in Vollzeitpflege in Pflegefamilien - Vormundschaften - zur Kenntnis genommen
+- TOP 9: Soziale Dienste - zur Kenntnis genommen
+- TOP 9.1: Einführung des Online-Instrumentes „Frühe Hilfen“ - zur Kenntnis genommen
+- TOP 9.2: Refinanzierung unbegleitete minderjährige Flüchtlinge - zur Kenntnis genommen
+- TOP 9.3: UmF – Clearingverfahren und Ablauf der Einschulung - zur Kenntnis genommen
+- TOP 10: Familienförderung - zur Kenntnis genommen
+- TOP 10.1: Seniorenhilfe – ein Jahr nach der Neuorganisation - zur Kenntnis genommen
+- TOP 11: Anerkennungen als Träger der freien Jugendhilfe gem. § 75 SGB VIII - zur Kenntnis genommen
+- TOP 11.1: Anerkennung gem. § 75 SGB VIII – hier: Villa Luna - einstimmig beschlossen
+- TOP 11.2: Anerkennung gem. § 75 SGB VIII – hier: Spielen ohne Grenzen - einstimmig beschlossen
+- TOP 11.3: Anerkennung gem. § 75 SGB VIII – hier: Provi Pänz e.V. - einstimmig beschlossen
+- TOP 11.4: Verlängerung Ankerkennung gem. § 75 SGB VIII - hier: M.T.O. - einstimmig beschlossen
+- TOP 12: Controllingberichte - zur Kenntnis genommen
+- TOP 12.1: Controllingbericht Kindertagespflege - zur Kenntnis genommen
+- TOP 12.2: Controllingbericht Zuwendungen und Zuschüsse - Geschäftsjahr 2015 - zur Kenntnis genommen
+- TOP 12.3: Beschlusskontrolle I/2016 - zur Kenntnis genommen
+- TOP 13: Fachübergreifende Vorlagen - zur Kenntnis genommen
+- TOP 13.1: Änderung des Tarifsystems für die städtischen Bäder in Düsseldorf - zur Kenntnis genommen
+- TOP 13.2: Wohnprojekte für "Junges Wohnen in Düsseldorf" - Errichtung eines Auszubildendenwohnheims - Gründung - einstimmig beschlossen
