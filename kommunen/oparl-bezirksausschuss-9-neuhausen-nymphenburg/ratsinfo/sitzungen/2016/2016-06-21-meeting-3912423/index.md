@@ -1,0 +1,136 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2016-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3912423
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3912423
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse - Abhaltung eines World Café - Beantragter Zuschuss: 4000,- ?
+- TOP 2.4: Entscheidungsfälle (1)
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen (1)
+- TOP 3: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle (2)
+- TOP 3.2: Bürgeranliegen, Anträge (1)
+- TOP 3.2.1.: Bürgeranliegen: Nutzung der Busspur in der Wotanstraße durch Rechtsabbieger in die Margarethe-Danzi-Straße (vertagt aus der Sitzung vom 17.05.2016)
+- TOP 3.2.2.: Bürgeranliegen: Verkehrskonzept am Hirschgarten
+- TOP 3.2.3.: Bürgeranliegen: Gefahrenstelle Menzingerstraße / Franz-Schrank-Straße
+- TOP 3.3: Anhörungen (1)
+- TOP 3.3.1.: KVR: Austausch von Lichtsignalanlagen an der Wotan-/Herthastraße
+- TOP 3.4: Antwortschreiben (1)
+- TOP 3.4.1.: PI: Wendeverhalten am Steubenplatz, Parken auf dem Gehweg Romanstr. 1, Zufahrt Lily-Braun-Weg
+- TOP 3.4.2.: KVR: Nachtabschaltung Ampelanlage Renata-/Wendl-Dietrich-Straße
+- TOP 3.4.3.: KVR: Grüner Pfeil an der Einmündung der Nibelungenstraße in die Arnulfstraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen (2)
+- TOP 3.5.1.: KVR: Verkehrliche Maßnahmen im Zusammenhang mit dem Tollwood-Festival vom 29.06.-24.07.2016
+- TOP 3.5.2.: SWM: Baumaßnahmen der Stadtwerke
+- TOP 3.6: Verschiedenes (1)
+- TOP 4: Unterausschuss für Bau und Planung
+- TOP 4.1: Entscheidungsfälle (3)
+- TOP 4.1.1.: (E) Baurecht für Kulturbetrieb auf CLZ-Gelände schaffen
+- TOP 4.1.2.: (E) Realisierung des Projekts "Die Resonanz - Musikstadt München" auf dem Gelände Arnulfstraße 195
+- TOP 4.2: Bürgeranliegen, Anträge (2)
+- TOP 4.2.1.: Bürgeranliegen: Gebäudeleerstand an der Südlichen Auffahrtsallee
+- TOP 4.2.2.: Bürgeranliegen: Bauvorhaben Wendl-Dietrich-Straße 14
+- TOP 4.2.3.: Aktivierung leerstehender Ladenlokale zur Nahversorgung
+- TOP 4.3: Anhörungen (2)
+- TOP 4.3.1.: Planungsreferat: Aufhebung des Bebauungsplans Nr. 104 - Lachnerstraße
+- TOP 4.3.2.: Planungsreferat: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich I/36 - Dachauer Straße (nordöstlich), Schwere-Reiter-Straße (südöstlich), Infanteriestraße (südwestlich), Heßstraße (südwestlich), Lothstraße (nordwestlich) - Kreativquartier
+- TOP 4.3.3.: Sozialreferat: Baldurstraße - Zweckentfremdung von Wohnraum
+- TOP 4.3.4.: LBK: Hanebergstraße 2 - Neubau und Umbau eines Bestandsgebäudes zu einem Hotel mit 180 Zimmern
+- TOP 4.4: Antwortschreiben (2)
+- TOP 4.4.1.: LBK: Prinzenstraße 35 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen (3)
+- TOP 4.5.1.: LBK: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.5.2.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 09 - Neuhausen-Nymphenburg Satzungsbeschluss Erhaltungssatzung "Neuhausen" - Sitzungsvorlagen-Nr. 14-20 / V 05526
+- TOP 4.5.3.: Kommunales Wohnungsbauprogramm: Bauträgerauswahl für die Teilfläche eines städtischen Grundstücks für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B
+- TOP 4.5.4.: Veränderungssperre Nr. 655 - Lachnerstraße - Flurstück Nr. 576/19 Gemarkung Neuhausen - Erste Verlängerung nach § 17 Abs. 1 Satz 3 BauGB - Sitzungsvorlagen-Nr. 14-20 / V 06182
+- TOP 4.5.5.: Planungsreferat: Förderung von Bürgerschaftlichem Engagement Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) - Vorlagen-Nr. 14-20 / V 04822
+- TOP 4.5.6.: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters - Sitzungsvorlage Nr. 14-20 / V 05902
+- TOP 4.6: Verschiedenes (2)
+- TOP 5: Unterausschuss für Umweltfragen
+- TOP 5.1: Entscheidungsfälle (4)
+- TOP 5.2: Bürgeranliegen, Anträge (3)
+- TOP 5.2.1.: Bürgeranliegen: Geräusche durch die Lüftungstechnik auf den Dächern der Gebäude am Forum am Hirschgarten
+- TOP 5.2.2.: Bürgeranliegen: Schutz von Ausgleichsflächen vor Schädigungen durch Baumaßnahmen
+- TOP 5.2.3.: Betonkasten an der Ecke Wendl-Dietrich-Straße / Andréestraße (Anfrage CSU)
+- TOP 5.3: Anhörungen (3)
+- TOP 5.3.1.: LBK: Anhörung über Baumfällungsanträge: - Funkerstraße 5 - Fraasstraße 14 - Gerner Str. 56 - Klugstraße 138 - Pegnitzstr. 3 - Romanstr. 58 - Waisenhausstr. 20 - Zeno-Diemer-Str. 5
+- TOP 5.4: Antwortschreiben (3)
+- TOP 5.4.1.: Pflege und Instandsetzung des Arnulfparks
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen (4)
+- TOP 5.5.1.: Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit A) Jahresausstellung ?Freiraum 2030? und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrags ?Wettbewerb für Münchens schönste Bäume? - Antrag Nr. 08-14 / A 05098 der Stadtratsfraktion DIE GRÜNEN/RL vom 11.02.2014 Sitzungsvorlage Nr. 14-20 / V 05954
+- TOP 5.6: Verschiedenes (3)
+- TOP 6: Unterausschuss für Soziales und Integration
+- TOP 6.1: Entscheidungsfälle (5)
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse - Johanniter-Unfall-Hilfe e.V. - Spielprogramm "Umsonst und Draußen" vom 06.08. - 04.09.2016
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse - Abhaltung eines World Café
+- TOP 6.2: Bürgeranliegen, Anträge (4)
+- TOP 6.2.1.: Bürgeranliegen: Unterkunft Hanebergstraße 2
+- TOP 6.3: Anhörungen (4)
+- TOP 6.4: Antwortschreiben (4)
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen (5)
+- TOP 6.5.1.: Bespielbare und besitzbare Stadt auch für München - Antrag Nr. 14-20 / A 00869 vom 02.04.2015 - BA-Antrag Nr. 14-20 / B 01130 des BA 5 vom 15.04.2015
+- TOP 6.5.2.: Bericht und Sachstand zur Vorbereitung des World Café
+- TOP 6.5.3.: BA-Kinderfest am 16.07.2016 im Kreativquartier
+- TOP 6.6: Verschiedenes (4)
+- TOP 7: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle (6)
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Kontrapunkt gGmbH - Jugend Kunst Kultur Sommerausstellung vom 20.-23.07.2016
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Labor München e.V.
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Initiative Frundsbergstr
+- TOP 7.2: Bürgeranliegen, Anträge (5)
+- TOP 7.2.1.: "Let the music and poetry transport you" - Die Münchner U-Bahn wird zur Kulturzone der BürgerInnen
+- TOP 7.2.2.: Tunnelgestaltung "Wildwechsel" (Fußgängerunterführung Schlörstraße)
+- TOP 7.3: Anhörungen (5)
+- TOP 7.3.1.: Kulturreferat: Stadtteilkultureinrichtung "Neuhauser Trafo" - Vorläufiges Betriebskonzept
+- TOP 7.4: Antwortschreiben (5)
+- TOP 7.4.1.: Stadtarchiv: Namensgebung Hilblestraße
+- TOP 7.5: Unterrichtungen
+- TOP 7.5.1.: KVR: SkateSoundZ am 21.06.2016 in der Skateanlage Hirschgarten
+- TOP 7.5.2.: BA-Budget: Bericht über ein Konzert im Schwere Reiter
+- TOP 7.6: Verschiedenes (5)
+- TOP 8: Unterausschuss für Bildung und Sport
+- TOP 8.1: Entscheidungsfälle (7)
+- TOP 8.1.1.: (E) Erhalt der Sportanlage an der Postillonstraße - Empfehlung Nr. 14-20 / E 00844 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 26.11.2015
+- TOP 8.2: Bürgeranliegen, Anträge (6)
+- TOP 8.2.1.: Versorgungsgrad Schulkinderbetreuung Neuhausen-Nymphenburg 2016 - Antrag der CSU-Fraktion
+- TOP 8.3: Anhörungen (6)
+- TOP 8.4: Antwortschreiben (6)
+- TOP 8.4.1.: Zügige Sanierung der Hirschbergschule
+- TOP 8.4.2.: - Sanierungsmaßnahmen in der Grundschule an der Hirschbergstraße - BV-Empfehlung Nr. 08-14 / E 01180 - Sanierung der Grundschule und Kindertagesstätte Hirschbergstraße - BV-Empfehlung Nr. 08-14 / E 01605 - Renovierung der Hirschbergschule - BV-Empfehlung Nr. 14-20 / E 00326 Schreiben des Stadtschulrats
+- TOP 8.4.3.: Bericht Referat für Bildung und Sport zum Käthe-Kollwitz-Gymnasium
+- TOP 8.4.4.: Basketballkörbe im Grünwaldpark
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen (6)
+- TOP 8.6: Verschiedenes (6)
+- TOP 9: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle (8)
+- TOP 9.2: Bürgeranliegen, Anträge (7)
+- TOP 9.3: Anhörungen (7)
+- TOP 9.4: Antwortschreiben (7)
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen (7)
+- TOP 9.5.1.: KVR: Tollwood-Sommerfestival vom 29.06. - 24.07.2016
+- TOP 9.5.2.: KVR: Pfarrverbandsfest St. Clemens am 03.07.2016
+- TOP 9.5.3.: KVR: Sommerfest Kita Infanterix an der Grünanlage Leonrodstr. 55
+- TOP 9.5.4.: Unveränderte Fortführung von Gaststättenbetrieben: - Blutenburgstr. 94 ("Rosetti") - Frundsbergstr. 46 ("Avra Taverna" - früher "Big Easy")
+- TOP 9.6: Verschiedenes (7)
+- TOP 10: Verschiedenes (8)
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 06.08. - 04.09.2016 Beantragter Zuschuss: 2000,- ?
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Kontrapunkt gGmbH - Jugend Kunst Kultur Sommerausstellung vom 20.-23.07.2016 Beantragter Zuschuss: 3.720,- ?
+- TOP 2.3.4.: (E) Budget der Bezirksausschüsse Labor München e.V. Projekt "URBAN" vom 14.-24.07.2016 Beantragter Zuschuss: 4.800,- ?
+- TOP 2.3.5.: (E) Budget der Bezirksausschüsse Initiative Frundsbergstr Straßenfest am 23.07.2016 Beantragter Zuschuss: 728,83 ?
+- TOP 2: (E) Baurecht für Kulturbetrieb auf CLZ-Gelände schaffen Empfehlung Nr. 08-14 / E 02096 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 21.11.2013
+- TOP 3: (E) Realisierung des Projekts ?Die Resonanz - Musikstadt München? auf dem Gelände Arnulfstraße 195 Empfehlung Nr. 14-20 / E 00848 der Bürgerversammlung des Stadtbezirkes 09 ? Neuhausen-Nymphenburg vom 26.11.2015
+- TOP 4: (E) Erhalt der Sportanlage an der Postillonstraße Empfehlung Nr. 14-20 / E 00844 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 26.11.2015
+- TOP 1: (E) Fahrradstraße im Bereich Erika-Mann-Straße
+- TOP 3.1.1.: (E) Fahrradstraße im Bereich Erika-Mann-Straße
