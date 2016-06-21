@@ -1,0 +1,53 @@
+# Ausschuss für Stadtplanung und Verkehr (13. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-06-21T17:00:00+02:00
+- Ende: 2016-06-21T19:16:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZU9PDeRmOsgW9kU6o6qyMpI
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20076
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZeBAQsKC8d9DukNhpe99FJetGa-59_25T-UrM176YK1U/Bekanntmachung_Ausschuss_fuer_Stadtplanung_und_Verkehr_21.06.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZeUxSayiKtVQb2rF9A9uqVP8bW3F4AJsLCePU9z2KDh1/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_21.06.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Umsiedlung Manheim hier: Niederschriften der 22. und 23. Sitzung des Bürgerbeirates Manheim
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Lärmschutzgutachten Buir - Zwischenbericht des Gutachters
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Verlängerung Kaufoption Seniorendorf Vogelrutherfeld im Stadtteil Sindorf
+- TOP 4.4: Sachstand Projekt Schloß Türnich
+- TOP 4.5: Grundsatzbeschluss zum Einzelhandels- und Zentrenkonzept der Kolpingstadt Kerpen
+- TOP 4.6: Dauerhafte Wohnstandorte für die Unterbringung von Flüchtlingen
+- TOP 5.: Bauleitplanung
+- TOP 5.1: 75. Änderung des Flächennutzungsplanes "Sondergebiet Nahversorgungszentrum/zentraler Versorgungsbereich Brüggen – Heerstraße“, Stadtteil Brüggen hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 5.2: Bebauungsplan TÜ 356 "Eifelstraße/Heerstraße", Stadtteil Brüggen Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 5.3: 76. Änderung des Flächennutzungsplanes "RAA-Anlage Haus Forst" im Stadtteil Kerpen Manheim hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.4: Bebauungsplan MA 360 "RAA-Anlage Haus Forst" im Stadtteil Kerpen Manheim hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.5: Abschluss einer städtebaulichen Planungsvereinbarung mit der Fa. REMEX Mineralstoff GmbH im Rahmen des BP MA Nr. 360 "RAA-Anlage Haus Forst"
+- TOP 5.6: Bebauungsplan BL 297 "Haagstraße", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB
+- TOP 5.7: Abschluss einer städtebaulichen Planungsvereinbarung für den Bereich des Bebauungsplanes BL Nr. 297 "Haagstraße" - (kein Text vorhanden)
+- TOP 5.8: Stationäre Pflege, Neubau im Stadteil Sindorf hier: Sachstandsbericht
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Teilnahme der Kolpingstadt Kerpen an der Kampagne "Stadtradeln"
+- TOP 6.2: Einrichtung der Stelle eines Mobilitätsmanagers/einer Mobilitätsmanagerin
+- TOP 6.3: Niederschrift der 4. Sitzung des Arbeitskreises ÖPNV vom 15.06.2016
+- TOP 6.4: Besetzung des Arbeitskreises ÖPNV hier: Delegierte der Kolpingstadt Kerpen im Aufsichtsrat der REVG
+- TOP 6.5: Erhöhte Geschwindigkeiten auf der Dürener Straße in Kerpen-Blatzheim hier: Geschwindigkeitskontrollen und bauliche Maßnahmen
+- TOP 7.: Mitteilungen
+- TOP 7.1: Information über die Neuaufstellung des Regionalplans Köln
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: Sachstandsbericht Bebauungsplan Josef-Bitschnau-Straße im Stadtteil Horrem
+- TOP 8.2: Sachstandsbericht Bebauungsplan Gelände Winterberg/ehemalige Kiesgrube im Stadtteil Horrem
+- TOP 8.3: Umbaumaßnahmen am Areal der Kreissparkasse Köln im Stadtteil Sindorf hier: Sachstandsbericht
+- TOP 8.4: Querungshilfen für Fußgänger und Fahrradfahrer hier: Sachstandsbericht - (kein Text vorhanden)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 9.: Aufstellung eines Bebauungsplanes für das Grundstück am Nordring in Kerpen
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
