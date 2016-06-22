@@ -1,0 +1,22 @@
+# 35. öffentliche Sitzung des Integrationsausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-06-22T17:00:00+02:00
+- Ende: 2016-06-22T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=45
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3544
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3544
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung der Protokolle vom 06.04.2016 und 25.05.2016 - erledigt
+- TOP 3: Asylbewerber und Flüchtlinge in Steglitz-Zehlendorf - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Helfer für Entlassungsvorbereitungen aus dem Krankenhaus - im Ausschuss abgelehnt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Beirat für Integration und Migration - erledigt
+- TOP 7: Verschiedenes - erledigt
