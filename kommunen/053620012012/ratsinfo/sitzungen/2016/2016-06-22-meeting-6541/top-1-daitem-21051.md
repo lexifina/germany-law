@@ -1,0 +1,6 @@
+# TOP 1.: Niederschrift vom 02.02.2016 und 05.04.2016
+
+- Sitzung: Ausschuss für Verkehr und Mobilität (10. Sitzung) (2016-06-22)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/21051
