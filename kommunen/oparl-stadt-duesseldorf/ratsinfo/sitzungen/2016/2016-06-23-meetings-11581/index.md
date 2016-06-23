@@ -1,0 +1,77 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-06-23T17:00:00+02:00
+- Ende: 2016-06-23T19:06:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11581
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11581
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269662.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269662.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00269662.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Welcome Point 08 in Eller - zur Kenntnis genommen
+- TOP 5: Nebengebäude Schloss Eller - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Eichkatzstraße 7 - Abbruch von 1-geschossigen ehemaligen Stallgebäuden (4 Nebengebäude) - mehrheitlich beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 im Jahre 2016 - mehrheitlich beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Bebauung und Nahversorgung Breidenplatz - beantwortet
+- TOP 11: Bebauungsplan-Vorentwurf Am Kleinforst - beantwortet
+- TOP 12: Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 13: Kulturbahnhof Eller - beantwortet
+- TOP 14: Bunker Am Bermeshau - beantwortet
+- TOP 15: Verkehrssituation / Staubildung im Stadtbezirk 8 - beantwortet
+- TOP 16: Gleisanschlüsse in Lierenfeld - beantwortet
+- TOP 17: S-Bahnhöfe im Stadtbezirk 8 - beantwortet
+- TOP 18: Herkunftssprachlicher Unterricht im Stadtbezirk 8 - beantwortet
+- TOP 19: Feuerwehreinsätze im Stadtbezirk 8 - beantwortet
+- TOP 20: Nahversorgung in Unterbach - beantwortet
+- TOP 21: Verkehrsregelung Reisholzer Straße / Schlesische Straße - beantwortet
+- TOP 22: Jugendtreff Hasseler Richtweg - einstimmig beschlossen
+- TOP 23: Barrierefreie Haltestelle Am Stufstock - Linie 705 - einstimmig beschlossen
+- TOP 24: Lärmschutz Autobahnausfahrt A 46 Eller - einstimmig beschlossen
+- TOP 25: Richtlinie für die Dachbegrünung - Einbeziehung Stadtbezirk 8 - einstimmig beschlossen
+- TOP 26: S-Bahnhof Eller-Mitte - einstimmig beschlossen
+- TOP 27: Spielgeräte Grundstück Posener Straße 128 - 132 - einstimmig beschlossen
+- TOP 28: Unterflurcontainer Parkplatz Eller-Mitte - mehrheitlich beschlossen
+- TOP 29: Unterflurcontainer Schlesische Straße / Entenpark - einstimmig beschlossen
+- TOP 30: Sitzgelegenheiten an den Haltestellen Fuldaer Straße und Vennstraße / Seeweg - einstimmig beschlossen
+- TOP 31: Radfahrstreifen / Radweg Gubener Straße - einstimmig beschlossen
+- TOP 32: Lichtzeichenanlage Kleiner Torfbruch / Rothenbergstraße - einstimmig beschlossen
+- TOP 33: Parkregelung Vennhauser Allee - mehrheitlich abgelehnt
+- TOP 34: Ausbau der A 46 - einstimmig beschlossen
+- TOP 35: Verkehrssituation Zum Hexenkotten / Rathelbeckstraße - vertagt
+- TOP 36: Radverkehr zwischen Bernburger Straße und Reisholzer Straße - einstimmig beschlossen
+- TOP 37: Trinkbrunnen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Unwetter- / Hochwasserschutzmaßnahmen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 39: PFT-Boden- und Grundwasserverunreinigung Gerresheim - Information - - zur Kenntnis genommen
+- TOP 40: Verkehrsregelung Kreuzung Reisholzer Straße / Schlesische Straße / Kuthsweg - zur Kenntnis genommen
+- TOP 41: Haltestellenbeschilderung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Ehemaliger Spielplatz Sandstraße - zur Kenntnis genommen
+- TOP 43: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Verkehrsregelung Gubener Straße - zur Kenntnis genommen
+- TOP 45: Verkehrsregelung Krippstraße - zur Kenntnis genommen
+- TOP 46: Haltestellen-Displays im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Stadtweite Einführung des Konzeptes Nette Toilette - Beschluss - - zur Kenntnis genommen
+- TOP 48: Straßenumbau Sebastiansweg zwischen An der Schützenwiese und Egilweg - Ausbauplanung - zur Kenntnis genommen
+- TOP 49: MitfahrerInnenbank in Unterbach - zur Kenntnis genommen
+- TOP 50: Verkehrsregelung Reisholzer Straße / Schlesische Straße - zur Kenntnis genommen
+- TOP 51: Radwegeplanung Gubener Straße - zur Kenntnis genommen
+- TOP 52: Herkunftssprachlicher Unterricht im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Verkehrsregelung Chemnitzer Straße - zur Kenntnis genommen
+- TOP 54: Verkehrsregelung Sandträgerweg - zur Kenntnis genommen
+- TOP 55: Kreuzung Bernburger Straße / Alt-Eller / Karlsruher Straße / Heidelberger Straße - zur Kenntnis genommen
+- TOP 56: Behindertenparkplatz Gumbertstraße - zur Kenntnis genommen
+- TOP 57: Überplanung Gertrudisplatz - zur Kenntnis genommen
+- TOP 58: Düsselweg zwischen Coburger Weg und Sandträgerweg - zur Kenntnis genommen
+- TOP 59: P&R-Parkplatz Am Kleinforst - zur Kenntnis genommen
+- TOP 60: Gleisanschlüsse in Lierenfeld - zur Kenntnis genommen
