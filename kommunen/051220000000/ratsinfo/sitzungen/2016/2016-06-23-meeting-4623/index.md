@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-06-23T17:00:00+02:00
+- Ende: 2016-06-23T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbZvyLQD4pD7XrqBF-uobPs
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4623
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVYfzWCb_letJXvsZ8Psx7B5etibY8wb9F6Z1IJirH97/Oeffentliche_Niederschrift_Rat_23.06.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5: Bestellung eines Vorstandsmitgliedes der Stadt-Sparkasse Solingen
+- TOP 6: civitec - Zweckverband Kommunale Informationsverarbeitung
+- TOP 7: Stellenschaffung der Stadtdienstleitung des Bergischen Veterinär- und Lebensmittelüberwachungsamtes
+- TOP 8: Umbesetzung von Ausschüssen und Gremien
+- TOP 9: Aufwertung des Theaterumfeldes
+- TOP 10: Fraktionsfinanzierung
+- TOP 11: Kooperation der Feuerwehren
+- TOP 12: Sicherheit in Solingen - Kommunale Kriminalprävention
+- TOP 13: Umbenennung der Städtischen Förderschule Pestalozzischule
+- TOP 14: Bereitstellung von außerplanmäßigen Mitteln gemäß § 83 GO NW zur Sanierung der Wilhelm-Hartschen-Schule
+- TOP 15: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 16: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 17: VIII. Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 18: III. Änderungssatzung zur Satzung der Stadt Solingen über die Erhebung von Elternbeiträgen (Elternbeitragssatzung)
+- TOP 19: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2015
+- TOP 20: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2015
+- TOP 21: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2015
+- TOP 22: Jahresabschluss 2015 der Technischen Betriebe Solingen
+- TOP 23: Jahresabschluss 2015 der Technischen Betriebe Solingen
+- TOP 24: Jahresabschluss 2015 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 25: Jahresabschluss 2015 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 26: Soziale Stadt - Solinger Nordstadt
+- TOP 27: Bauleitplanung Aachener Straße/ Heiligenstock
+- TOP 28: Bauleitplanung Cronenberger Straße/ Klauberger Straße
+- TOP 29: Bauleitplanung Kamper Straße/ Kleine Kamper Straße
+- TOP 30: Prüfung Leerstandssteuer
+- TOP 31: Freies WLAN in Solingen vorantreiben
+- TOP 32: Transparenzsatzung
+- TOP 33: Stadtfeste ermöglichen
+- TOP 34: Verschiedenes
+- TOP 35: Keine Bundeswehr-Werbung in Solingen
+- TOP 36: Internet-/WLAN-Verbindung für RatsApp
+- TOP 37: Bescheinigung für nach Solingen geflüchtete Menschen
+- TOP 38: Wirtschaftsförderung - Verkaufskriterien Gewerbeflächen
+- TOP 39: Rückführungen
+- TOP 40: Bienen als wichtiger Bestandteil unseres Bio- und Ökosystems
+- TOP 41: Unternehmerregion Remscheid, Solingen, Wuppertal
+- TOP 42: Event-Arena (Arena Bergisch Land)
+- TOP 43: Spezifische Angebote in kulturellen Einrichtungen für Menschen mit Behinderung
+- TOP 44: Anfrage zum Einsatz von Windows XP
+- TOP 45: Wohnungen für Flüchtlinge
+- TOP 46: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Quartal 2016
+- TOP 47: Umbau des Schwimmbades Vogelsang
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Verkauf eines Geschäftsanteils der Stadtwerke Solingen GmbH (SW SG) an die Stadt-Sparkasse Solingen (SSS)
+- TOP 4: Änderung des Gesellschaftsvertrages der Stadtwerke Solingen GmbH (SW SG)
+- TOP 5: Verschiedenes
+- TOP 6: RWE Aktien
+- TOP 7: Zeitungsbeilage zum Thema "Integration"
+- TOP 8: Errichtung eines Parkplatzes auf dem Grundstück Konrad-Adenauer-Str. 17
