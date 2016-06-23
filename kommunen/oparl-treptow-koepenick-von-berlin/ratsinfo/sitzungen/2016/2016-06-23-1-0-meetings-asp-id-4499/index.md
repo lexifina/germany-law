@@ -1,0 +1,99 @@
+# 47. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-06-23T16:30:00+02:00
+- Ende: 2016-06-23T21:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4499
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4499
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=241846
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-54 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Konzept bezirklicher Wirtschaftsförderung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Touristisches Leitsystem an Verkehrsknotenpunkten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Ausdehnung der nächtlichen Tempo 30-Zone in der Straße am Treptower Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Verkehrsstrukturierung der Hämmerlingstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Praktikumsinitiative für Flüchtlinge in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Buslinie 160 wieder bis zur Hasselwerderstraße führen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Steganlage an der Großen Krampe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Sondermittelantrag des Schlossplatztheater/ c/o Alte Möbelfabrik e. V. (SM 13-27) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Sondermittelantrag des Industriesalon Schöneweide e. V. (SM 14-02) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.6: Sondermittel für das Schlossplatztheater c/o Alte Möbelfabrik e. V. (SM 14-25) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Vorbereiten für die Funktionsweise des Gesetzes zur Einführung von Immobilien- und Standortgemeinschaften (BIG Gesetz) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Treptow-Köpenick bei "visitBerlin" bewerben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Sondermittel für die SAMBA KIDS e. V. (SM 15-15) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Vorwegweiser Baustelle Schnellerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Kreuzung Kiefholz- Ecke Wildenbruchstraße schadenfrei kreuzen und queren - überwiesen
+- TOP 7.2.12: Sondermittel für den Verein Allende 2 hilft e. V. (SM 15-29) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Uhren für den S-Bahnhof Baumschulenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Anwohnerversammlung zum geplanten Neubau eines Verbrauchermarktes in der Mahlsdorfer Straße 34-38a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Abberufung eines stellvertretenden Bürgerdeputierten des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Vorhabenbezogener Bebauungsplanentwurf XV-30b VE ("Hotel und Wohnen an der Spree") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB und der Öffentlichkeit gemäß § 3 Abs. 2 BauGB - überwiesen
+- TOP 11.2: Sondermittel für den b2social e. V. (T-K) (SM 16-34) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den Förderverein KIEZKLUB RAHNSDORF e. V. (SM 16-35) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für das Schlossplatztheater (SM 16-36) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für das Katzengrabenfestkomitee (SM 16-37) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für den Hauptmann von Köpenick (SM 16-38) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für die Bürger für Rahnsdorf e. V. (SM 16-39) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Sondermittel für das Rabenhaus e. V. (SM 16-40) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Änderung des BA-Beschlusses vom 15.03.2016 (BA-Vorlage Nr. 446/2016) über die "Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Alt-Treptow" im Bezirk Treptow-Köpenick von Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: "Zentren- und Einzelhandelskonzept Treptow-Köpenick 2016 - Perspektiven der Zentren- und Einzelhandelsentwicklung im Berliner Bezirk Treptow-Köpenick" sowie die räumliche Abgrenzung der zentralen Versorgungsbereiche, Fachmarkt-agglomerationen und -standorte (Zentrensteckbriefe) als fachlicher Teilplan der bezirklichen Bereichsentwicklungsplanung (BEP) als Fortschreibung des aus dem Jahr 2009 stammenden Zentren- und Einzelhandelskonzepts - überwiesen
+- TOP 11.11: • Entwurf des vorhabenbezogenen Bebauungsplans XV-37ea-1 VE nebst Begründung • Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan XV-37ea-1 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - überwiesen
+- TOP 11.12: Änderung des BA-Beschlusses vom 14.6.2016 (BA-Vorlage Nr. 466/2016) über die "Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Alt-Treptow" im Bezirk Treptow-Köpenick von Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Verbesserung der Reinigungsleistung an Schulen und anderen öffentlichen Gebäuden - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Einzugsbereich von Gemeinschaftsschulen klar definieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: S-Bahnhof Johannisthal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Variante Einrichtungsverkehr beim Bohnsdorfer Kreisel vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Lärmsanierungskonzepte umsetzen: Verkehrssicherheit für die Baumschulen- und Edisonstraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Keine Parkplatzwüste am Rand der Altstadt Köpenick - überwiesen
+- TOP 12.7: Änderung B-Planverfahren 9-30 (Parkplatz Amtswäldchen) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Uferweg für Radverkehr freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Sicherheit im Baustellenbereich für nichtmotorisierte Verkehrsteilnehmerinnen und -teilnehmer gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Manege frei: Spaß ohne Wildtiere und Ponykarussells bei Zirkussen und Jahrmärkten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Konzept zur Gewerbeflächensicherung - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Kein Zweirichtungsverkehr Am Treptower Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Asylbewerber/-innen und Flüchtlinge gleichmäßig verteilt über die Ortsteile unterbringen und damit einhergehend Sporthallen im Bezirk freiziehen - mit Änderungen in der BVV beschlossen
+- TOP 12.14: Sichere Querung Fürstenwalder Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Veranschlagung für Schulen des Bezirks ab Haushaltsjahr 2017 - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Luftmessstationen einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Nachwuchsleistungszentrum des 1. FC Union in der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Kostenloses Musikschulangebot für Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Unterzeichnung der Städtepartnerschaftsvereinbarung zwischen dem Bezirk Treptow-Köpenick von Berlin und dem Bezirk Tepebasi-Eskisehir - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Einführung eines Leitbildes für das Bezirksamt Treptow-Köpenick von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Beschluss der Grundsätze zur Weiterentwicklung der sozialen und grünen Infrastruktur im "Infrastrukturkonzept 2015 - Bezirkliches Konzept zur Entwicklung der sozialen und grünen Infrastruktur in Treptow-Köpenick" als Steuerungs- und Handlungsinstrument für die Infrastruktursicherung im Bezirk - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Innere Einkehr und Trauerbewältigung - Würdige Nutzung von Trauerhallen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Gemeinschaftsschule im Entwicklungsgebiet Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Einrichtung eines Fußgängerüberweges in der Porzer Straße / Ecke Coloniaallee - überwiesen
+- TOP 14.4: Jugendarbeit sichern – Perspektive für den Mellowpark / all eins e. V. entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Aufhebung BVV-Beschluss 1168/53/11 "Verlängerung der A 100" (Drs. VI/1063) - in der BVV abgelehnt
+- TOP 14.6: Verkehrsberuhigung in der Neuen Krugallee - überwiesen
+- TOP 14.7: Illegalen Autoabstellplatz an der Pfarrwöhrde beseitigen - überwiesen
+- TOP 14.8: Schöner Fahrradparken im Ortsteil Alt-Treptow - überwiesen
+- TOP 14.9: Rasen sichern beim Lollapalooza - mit Änderungen in der BVV beschlossen
+- TOP 14.10: Sachmittel für freiwilliges Engagement wieder für Denkmalschutz zur Verfügung stellen - überwiesen
+- TOP 14.11: Lichtzeichenanlage Firlstraße - überwiesen
+- TOP 14.12: Radfahrstreifen Edisonstraße - überwiesen
+- TOP 14.13: Radverkehr Rudolf-Rühl-Allee - überwiesen
+- TOP 15: Große Anfragen - (offen)
