@@ -1,0 +1,6 @@
+# TOP 2: Verkauf eines Geschäftsanteils der Stadtwerke Solingen GmbH (SW SG) an die Stadt-Sparkasse Solingen (SSS)
+
+- Sitzung: Beteiligungsausschuss (2016-06-23)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/27188
