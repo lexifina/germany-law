@@ -1,0 +1,8 @@
+# TOP 4: Betriebsaufnahme DB Arriva (AVV-Beirat)
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Mobilitätsausschusses (2016-06-23)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=75855
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=21197&bi=26762
