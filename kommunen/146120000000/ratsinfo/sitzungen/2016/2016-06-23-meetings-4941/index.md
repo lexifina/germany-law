@@ -1,0 +1,69 @@
+# 26. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-06-23T13:10:00+02:00
+- Ende: 2016-06-24T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4941
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4941
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2016_06_23/24 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00257291.pdf
+- Wortprotokoll: Nachtrag_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00258225.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Asylleistungsbetrug durch Mehrfachregistrierung - erledigt
+- TOP 3.2: Gestaltung Wiener Platz - erledigt
+- TOP 3.3: Entwicklung der Nachfrage Sozialticket - erledigt
+- TOP 3.4: Planungen für die Sanierung der Pirnaer Landstraße - erledigt
+- TOP 3.5: Sanierung der 15. Grundschule - erledigt
+- TOP 3.6: Zukunft des beruflichen Schulzentrums für Wirtschaft „Prof. Dr. Zeigner“ - erledigt
+- TOP 3.7: Unterbringung von Flüchtlingen in der Landeshauptstadt Dresden - erledigt
+- TOP 3.8: Betrieb des Übergangswohnheims Karl-Stein-Straße 24 durch die TBM Tourismus-Beherbergungs-Management Dresden GmbH - erledigt
+- TOP 3.9: Unterschriften zur geplanten Ausweichstraße zwischen Laubegast und Tolkewitz - erledigt
+- TOP 3.10: Melde- und Wahldatenchaos in Berlin - Lehren für Dresden mit MESO-VOIS - erledigt
+- TOP 3.11: Ergebnisse des Lenkungsausschusses zur Integration in Ausbildung und Arbeit in Dresden - erledigt
+- TOP 3.12: Ratskeller Dresden - erledigt
+- TOP 3.13: Aktueller Sachstand zur Aufwertung des Bereiches der Fähranlegerstelle Kleinzschachwitz bis zum Kurhaus - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 4.1: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Vertagungen der Stadtratssitzung vom 2. Juni 2016
+- TOP 6.1: Mitgliedschaft der Stadt Dresden in der UNESCO-Städtekoalition gegen Rassismus - punktweise Abstimmung mit Ergänzung
+- TOP 6.2: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Entschädigung ehrenamtlich Tätiger (Entschädigungssatzung) vom 16. Oktober 2003 - Zustimmung mit Änderung
+- TOP 6.3: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden vom 4. September 2014; hier: Änderung von § 29 Hauptsatzung / Ausschreibung der Stelle der/des Beigeordneten für Bildung - Zustimmung mit Ergänzung
+- TOP 6.4: Durchfinanzierung der Gesamtinvestition Nanoelektronikzentrum Dresden in der NanoelektronikZentrumDresden GmbH - Zustimmung
+- TOP 6.5: Polizeiverordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung in der Landeshauptstadt Dresden (PolVO Sicherheit und Ordnung) - Zustimmung mit Änderung
+- TOP 6.6: Änderung der Richtlinie der Landeshauptstadt Dresden zur kommunalen Kulturförderung vom 15. Dezember 2011 in der geänderten Fassung vom 24. September 2015 - punktweise Abstimmung mit Ergänzung
+- TOP 6.7: Förderung von Angeboten nach Fachförderrichtlinie Sozialamt vom 19. Oktober 2009 im Haushaltsjahr 2016 - Zustimmung mit Änderung
+- TOP 6.8: Neubenennung von Straßen - Zustimmung
+- TOP 6.9: Aufhebung des Punktes 8e) des Stadtratsbeschlusses V0120/14 (SR/010/2015) vom 7. Mai 2015 - Entscheidung über Verkauf und Bebauung der nicht von der Kita genutzten Teilfläche oder Nutzung dieser Flächen als öffentlicher Kinderspielplatz - Zustimmung mit Änderung
+- TOP 6.10: Damit Dresden wirklich summt: So geht das! - Zustimmung
+- TOP 7: Ersatzneubau einer Einfeld-Schulsporthalle für die 35. Oberschule, Bünaustraße 32 in 01159 Dresden - Zustimmung
+- TOP 8: Neubau eines Schulgebäudes, Leisniger Straße 78 in 01127 Dresden und Neubau einer Einfeldsporthalle mit Sanierung der Bestandssporthalle der Schule zur Lernförderung „A. S. Makarenko“, Leisniger Straße 76 - Zustimmung mit Ergänzung
+- TOP 9: Feststellung der Jahresabschlussergebnisse 2014 einschließlich des Anhanges mit Anlagen und des Rechenschaftsberichtes mit Anlagen - Zustimmung
+- TOP 10: Prüfbericht zur Übertragung von (Teil-) Aufgaben des Eigenbetriebes IT-Dienstleistungen Dresden auf eine städtische Gesellschaft - Zustimmung
+- TOP 11: Zusammenfassung der Eigenbetriebe Städtisches Krankenhaus Dresden-Neustadt und Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum zu einem Eigenbetrieb "Städtisches Klinikum Dresden" - Zustimmung mit Änderung
+- TOP 12: Änderung Wirtschaftsplanung 2016 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 13: Änderung Wirtschaftsplanung 2016 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 14: Festlegung von Schlüsselprodukten in der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 15: Neuer Standort "Volkshochschule Dresden e. V." - Anmietung im Objekt Annenstraße 10, 01067 Dresden - Zustimmung mit Änderung
+- TOP 16: Umsetzung des Notfallsanitätergesetzes (NotSanG) - Zustimmung
+- TOP 17: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2016/2017 - Zustimmung mit Ergänzung
+- TOP 18: Abstimmungsvereinbarung mit Der Grüne Punkt - Duales System Deutschland GmbH (DSD) zur Erfassung gebrauchter Verkaufsverpackungen - Zustimmung
+- TOP 19: Weiterführung des Ausbaus der Vereinigten Weißeritz in den Jahren 2016 ff, Lose 1 und 2 - Zustimmung
+- TOP 20: Bericht zur Umsetzung der Maßnahmen des "Luftreinhalteplanes für die Landeshauptstadt Dresden 2011" zum Stand vom 31.12.2015 - Zustimmung
+- TOP 21: Beitritt der Landeshauptstadt Dresden zur europäischen Initiative "Konvent der Bürgermeister für Klima und Energie" - Zustimmung
+- TOP 22: Fortschreibung des Integrierten Handlungskonzeptes „Soziale Stadt Gorbitz 2 2016-2025“ - punktweise Abstimmung mit Änderung
+- TOP 23: Bebauungsplan Nr. 373, Dresden-Löbtau Nr. 3, Gewerbe-Park Freiberger Straße - Zustimmung
+- TOP 24: Bebauungsplan Nr. 54.2, Dresden-Altstadt I Nr. 6, Postplatz/Wallstraße - Zustimmung
+- TOP 25: Königsbrücker Straße von Albertplatz bis Stauffenbergallee - Zustimmung mit Ergänzung
+- TOP 26: Neustart des Bund-Länder-Programms Soziale Stadt in den Gebieten Dresden-Prohlis und Dresden - Am Koitschgraben - Zustimmung
+- TOP 27: Vorhabenbezogener Bebauungsplan Nr. 523.1, Dresden-Laubegast, Wohnpark Solitude (Änderungssatzung) - Zustimmung mit Änderung
+- TOP 28: Wohneigentum für Dresdner Familien fördern - Vertagung
+- TOP 30: Neues Rathaus Dresden; Kompensation von Brandschutzmängeln im unsanierten Gebäudeteil - Zustimmung mit Änderung
