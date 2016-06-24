@@ -37,7 +37,7 @@ Erster Teil: Das Recht der Polizei
 2. Unterabschnitt:Befugnisse zur Informationsverarbeitung
 § 27 | Grundsätze der Datenerhebung
 § 28 | Datenerhebung
-§ 29 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonders gefährdeten Objekten, auf öffentlichen Flächen, zur Eigensicherung und durch automatische Kennzeichenerkennung
+§ 29 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonders gefährdeten Objekten und im öffentlichen Verkehrsraum
 § 30 | Datenerhebung mit besonderen Mitteln und Methoden
 § 31 | Polizeiliche Beobachtung
 § 32 | Datenerhebung durch Observation
