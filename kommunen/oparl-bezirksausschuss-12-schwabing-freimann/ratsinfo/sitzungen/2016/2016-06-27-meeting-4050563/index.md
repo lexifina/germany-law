@@ -1,0 +1,116 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4050563
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4050563
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Bürgerbüro Riesenfeldstraße verbessern (Initiative: Horst Engler-Hamm)
+- TOP .1.: BA Sitzungskalender BAG Mitte 2017, Sitzungstermine 2017 für den BA 12
+- TOP .2.: Besetzung des Ferienausschusses und Wahl der/des Vorsitzenden des Ferienausschusses 2017
+- TOP 10.3.: Anhörungen
+- TOP 9.1.: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten, BA-Antrags-Nr. 14-20 / B 02164 des Bezirksausschusses 06 ? Sendling vom 07.03.2016
+- TOP 9.2.: Oktoberfest 2016, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 9.3.: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen, BA-Antrags-Nr. 14-20 / B 01309 des Bezirksausschusses 16 ? Ramersdorf-Perlach
+- TOP 9.4.: Aktionsplan UN-Behindertenrechtskonvention, Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung.
+- TOP 10: sonstiges
+- TOP 10.1.: Vorstellung der Projekte ?Mini München? und ?Fahrender Raum? durch Kultur & Spielraum e.V.
+- TOP 10.1.: Reinigung des Wedekindplatzes (Initiative: Horst Engler-Hamm)
+- TOP 10.2.: Fußgängerampel am Föhringer Ring auf Höhe Beach Arena / Max Planck Institut (Initiative: Horst Engler-Hamm)
+- TOP 10.3.: Radweg nach Bogenhausen (Initiative: Bernhard Dufter)
+- TOP 10.4.: Hinweisschild ?Parkstadt Center / Domagkstraße? an der Kreuzung Anni-Albers- / Lyonel-Feininger-Straße anbringen (Initiative: Lars Mentrup)
+- TOP 10.5.: Verkehrszählung in der Marianne-Brandt-Straße mit Differenzierung nach Fahrzeugtypen (Initiative: Lars Mentrup)
+- TOP 10.1.: Absolutes Halteverbot in der Antwerpener Straße, Hollandstraße und Luxemburger Straße
+- TOP 10.1.: Anhörung Haltestelle ?Mildred-Scheel Bogen?
+- TOP 10.1.: Sauberkeit im zentralen Park der Parkstadt Schwabing
+- TOP 10.2.: Füchse im Wohngebiet
+- TOP 10.3.: Einführung der Parklizenzierung für das Wohngebiet Alte Heide
+- TOP 10.4.: Entwurf des Bundesverkehrswegeplan: Sechsspuriger Ausbau der Autobahn A9 zwischen Anschlussstelle Frankfurter Ring und Anschlussstelle Schwabing
+- TOP 10.1.: Radweg in der Leopoldstraße ausbessern, BA-Antrags-Nr 14-20 / B 02318 des BA 12 Schwabing-Freimann vom 26.04.2016
+- TOP 10.2.: Errichtung einer Linksabbiegerspur Domagkstraße in die Walter-Gropius-Straße, BA-Antrags-Nr 14-20 / B 00683
+- TOP 10.3.: Gehsteigparken bei weiträumigen Baustellenabsperrungen, BA-Antrags-Nr. 14-20 / B 02319 des Bezriksausschusses 12 Schwabing-Freimann vom 26.04.2016
+- TOP 10.4.: Einsatz leiser Fahrzeuge auf Nachtlinien, Antrag Nr. 14-20 / B 01906 des BA 12 vom 15.12.2015
+- TOP 10.1.: Neuer Abschnitt Josef-Wirth-Weg östlich der Freisinger Landstraße
+- TOP 10.2.: Sicherheitszone CSU-Landeszentrale Mies-van-der-Rohe-Straße und Lyonel-Feioninger-Straße
+- TOP 10.1.: Vollzug der Grünanlagensatzung vom 15.06.2012, Filmaufnahmen Fröttmaninger Berg
+- TOP 10.2.: Vollzug der Grünanlagensatzung vom 15.06.2012, Fotoaufnahmen Petuelpark
+- TOP 10.3.: Eilentscheidung des Vorsitzenden bezüglich erneuter Lärmbelästigungen 21.-22.05.2016 im Kesselhaus
+- TOP 10.1.: Mobile Toiletten für vorhersehbare ?spontane? Menschenansammlungen auf der Leopoldstraße (Initiative: Bernhard Dufter)
+- TOP 10.1.: (E) Budget der Bezirksausschüsse NaturKind Waldkindergarten e.V. 20-Jahres Feier am 25.06.2016
+- TOP 10.2.: (E) Budget der Bezirksausschüsse Magda Bittner-Simmet Stiftung Publikation über die Münchner Malerin Magda Bittner-Simmet
+- TOP 10.3.: (E) Budget der Bezirksausschüsse Seidlvilla e.V. Seidlvilla-Sommerfest am 16.07.2016
+- TOP 10.1.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund, Domagkparkfest am 09.07.2016
+- TOP 10.2.: Anzeige für öffentliche Vergnügungsveranstaltungen im Freien, Spieleaktionen am Heidemarkt , 15.07./22.07 und 29.07. bis 19 Uhr
+- TOP 10.3.: Anzeige für öffentliche Vergnügungsveranstaltungen im Freien, Frisbee-Kurs im Rhhmen des Feriensports, 1.-5.08. und 5.-9.09. 12.00 ? 15.00 Uhr
+- TOP 10.4.: Anzeige für öffentliche Vergnügungsveranstaltungen, Spielefest im Carl-Orff-Bogen Park, 03.08.16 von 14-18 Uhr
+- TOP 10.5.: Anzeige für öffentliche Vergnügungsveranstaltungen, ?Fußballspektakel?, Fußballaktion für jung und alt mit kleinem Rahmenprogramm auf der Grünfläche und dem Bolzplatz in der Wilhelm-Wagenfeld-Str.
+- TOP 10.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 10.1.: Leopoldstr. 60, Trattoria
+- TOP 10.2.: Frankplatz 15, Vereinsheim ESV München-Freimann
+- TOP 10.3.: Nikolaistr. 9, The Fusion
+- TOP 10.4.: Alfred-Arndt-Str. 1, Hasia
+- TOP 10.1.: Mieterbeirat, Änderung der Mieterbeiratssatzung und der Geschäftsordnung, Änderung der Vergütungsregelungen, Antrage Nr. 1/2016 des Mieterbeirates, Sitzungsvorlagennummer 14-20 / V 05619
+- TOP 10.2.: Kurzbericht bezüglich einer Zuwendung aus dem Budget des BA 12, Internationale Woche gegen Rassismus ? Die Opfer des NSU- Ausstellung und Begegnungswerkstatt in der Mohr-Villa im März 2016
+- TOP 10.3.: Verwendungsnachweise: Rettet die Traumstadt e.V. vom 02.05.16, Theater Heppel & Ettlich vom 09.07.15, Tams Theater vorm 01.10.15, Rationaltheater München e.V. vom 17.12.15.
+- TOP 10.4.: Verwendungsnachweise über den Bewilligungsbescheid der LHM vom 25.02.2015 für die Aktion ?Woche gegen den Rassismus...?
+- TOP 10.5.: Anzeige einer sich fortbewegenden Versammlung unter freiem Himmel, ?Bayern stoppt CETA wir demonstrieren und sammeln Unterschriften für das Volksbegehren gegen CETA....?
+- TOP 10.1.: Gentrifizierung in Altschwabing ? Milieuschutz, Aufstellung eines Bebauungsplans (Initiative: Werner Lederer-Piloty)
+- TOP 10.1.: Entscheidungen gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung, Programm barrierefreie Bushaltestellen (ÖPNV Offensive) Leopoldstr. - Haltestelle Potsdamer Straße, Projektnummer 5589
+- TOP 10.2.: Feilitzschstr. 25, Entscheidung über Sondernutzungserlaubnis (Freischankfläche)
+- TOP 10.3.: Leopoldstr. 41, Entscheidung über Sondernutzungserlaubnis, Antrag für eine Zeitungskiste
+- TOP 10.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing- Freimann Widmung der Gesamtstrecke der Max-Bill-Straße
+- TOP 10.5.: Entscheidung über Sondernutzungserlaubnis, Antrag für eine Flächenerweiterung eines ambulanten Händlers, Leopoldstr. 23
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Heidemannstr. 50/ Geb. 08, Fl.Nr. 223/6, Unterbringung von Flüchtlingen ? Befristete Nutzungsänderung eines Kasernengebäudes zu Mensa, Wohnheim und Wäscherei
+- TOP 10.2.: Heidemannstraße 60/Geb. 39, Fl.Nr. 223/5, Unterbringung von Flüchtlingen, Befristete Nutzung von Containerpavillons als Impfstation, 1 Roßkastanie, 1 Hängebirke
+- TOP 10.3.: Danziger Str. 7, 1 Ahorn.
+- TOP 10.4.: Floriansmühlstr. 60, Fl.Nr. 589/19, Versetzen einer temporären Büro-Containeranlage, 2 Birken und 1 Stiel-Eiche
+- TOP 10.5.: Osterwaldstr. 81, Fl.Nr. 1022/26, Tektur, Neubau eines Einfamilienhauses mit Gartenhaus, 1 Lärche, 3 Fichten, 1 Esche, 1 Kastanie
+- TOP 10.6.: Imhofstr.11, 1 Birke
+- TOP 10.7.: Gundelindenstr. 6, 1 Spitzahorn
+- TOP 10.8.: Heimstättenstr. 12, Fl.Nr. 111/7, Neubau eines Einfamilienhauses mit Doppelgarage, 1 Rotbuche, 1 Hartriegel, 1 Birke
+- TOP 10.9.: Hutgasse 4, Fl.Nr. 309/446, Baumbestand gemäß Plan
+- TOP 10.1.: -entfällt-
+- TOP 10.2.: Verfahren nach §4 Abs. 2 BauGB, Gemeinde Unterföhring, Bebauungsplan Nr. 49c/16 für das Grundstück an der Feringastr. 6
+- TOP 10.3.: Planfeststellungsverfahren für das Vorhaben A99, Autobahnring München, Achtstreifiger Ausbau zwischen dem AK-Nord und der AS Haar, Bauabschnitt I: AK München-Nord bis AS Aschheim/Ismaning, Fahrbahnverbreiterung und Neubau von Brückenbauwerken bis Isarquerung (Bau-Km 1+630)
+- TOP 10.4.: Ursulastr. 4, Fl.Nr. 207/10, Abbruch Garagen, Neubau Rückgebäude ? Vorbescheid, vertagt aus der Sitzung vom 31.05.2016
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Unterrichtung über bevorstehende Beseitigungen von Gefahrenbäumen, Nachträgliche Unterrichtung über beseitigte Gefahrenbäume
+- TOP 10.2.: Leopoldstr. 107, Fl.Nr. 787/0, Fällungsantrag vom 24.05.2016
+- TOP 10.3.: Genter Str. 7-7a, Fällungsantrag vom 28.12.2015
+- TOP 10.1.: ?RS Schwabing-Freimann (Nord)?, Inspektionsgebiete 1059-44/46 u.a. Gesamtkosten (Reparatur- und Renovierungskosten)
+- TOP 10.2.: Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes, Empfehlung Nr. 14-20 / E 00719 der BV des Stadtbezirkes 18 ? Untergiesing-Harlaching am 12. 11.2015, Sitzungsvorlagennummer 14-20 / V 05085
+- TOP 10.3.: Neuberufung des Heimatpflegers der LHM und seines Stellvertreters, Sitzungsvorlagennummer 14-20 / V 05902
+- TOP 10.4.: BeSPIELbare und beSITZbare Stadt auch für München, Antrag Nr. 14-20 / A 00869 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 02.04.2015, BA-Antrags-Nr. 14-20 / B 01130 des Bezirksausschusses 5 Au-Haidhausen vom 15.04.2015, Sitzungsvorlagennummer 14-20 / V 05031
+- TOP 10.6.: Förderung von Bürgerschaftlichem Engagement, Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Sitzungsvorlagennummer 14-20 / V 04822
+- TOP 10.7.: Ökologischer Kriterienkatalog, Fortschreibung 2016, Sitzungsvorlagennummer 14-20 / V 02989
+- TOP 10.8.: Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit A) Jahresausstellung ?Freiraum 2030? und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrags ?Wettbewerb für Münchens schönste Bäume? Antrag Nr. 08-14 / A 05098 der Stadtratsfraktion DIE GRÜNEN/RL vom 11.02.2014, Sitzungsvorlagennummer 14-20 / V 05954
+- TOP 10.9.: Information der SWM über Baustellen in Ihrer Nähe, Stromprojekt Leopoldstraße, Änderung im Terminablauf
+- TOP 10.11.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung an der Maria-Probst-Straße
+- TOP 10.12.: Leopoldstr. 252, Fl.Nr. 840/0, Nutzungsänderung: Kantine mit Küche zu Kinderkrippe, Baugenehmigung
+- TOP 10.13.: Förderung von Bürgerschaftlichem Engagement, Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff), Sitzungsvorlagennummer 14-20 / V 04822
+- TOP 10.14.: Information der SWM über Baustellen, Stromprojekt Leopoldstraße
+- TOP 10.15.: Landschaftsplanerischer und künstlerischer Workshop zur Neugestaltung des ?Bauhausplatzes? im Domagkpark im 12. Stadtbezirk, Sitzungsvorlagennummer 14-20 / V 06347
+- TOP 10.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: Anträge
+- TOP 10.5.: Unterrichtungen
+- TOP 10.2.: Entscheidungen
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 10.3.2.: Sonstige Anhörungen
+- TOP 10.4.: Bürgeranliegen
+- TOP 10.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 10.5.3.: Sonstige Unterrichtungen
+- TOP 10.7.: Eilentscheidung, öffentliche Vergnügungsveranstaltung vom 28.05.-19.06., Wannda e.V.
+- TOP 10.10.: Gesamtkonzept für das südliche Vorfeld der Fröttmaninger Heide zwischen Fürst-Wrede-Kaserne und Kieferngartensiedlung und Flächenübernahme zur Umsetzung des Gesamtkonzepts, Sitzungsvorlagennummer 14-20 / V 04716
