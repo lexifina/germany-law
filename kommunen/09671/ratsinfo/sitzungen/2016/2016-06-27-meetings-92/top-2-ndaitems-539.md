@@ -1,0 +1,7 @@
+# TOP 2: Fortschreibung Nahverkehrsplan der Region Bayerischer Untermain - Sachstand; Entwurf für das Maßnahmen- und Zielkonzept
+
+- Sitzung: Sitzung des Ausschusses für Umwelt und ÖPNV (2016-06-27)
+- Körperschaft: Landkreis Aschaffenburg
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/agendaitems/539
+- Beratung: https://oparl.digitalfabrix.de/bodies/Landkreis-Aschaffenburg/consultations/142
