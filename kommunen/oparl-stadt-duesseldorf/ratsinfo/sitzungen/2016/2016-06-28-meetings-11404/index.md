@@ -1,0 +1,54 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-06-28T16:00:00+02:00
+- Ende: 2016-06-28T18:15:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11404
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11404
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270097.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270097.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270097.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirkes 10 gemäß § 22 Geschäftsordnung des Rates, für bis zum 14.06.2016 eingegangene Fragen
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 5: Berichte und Verwaltungsvorlagen
+- TOP 5.1: Planungsstand Buchholzer Busch, Berichterstattung durch das städtische Planungsamt
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Aufhebung des Beschlusses der Bezirksvertretung 10 vom 23.02.2016
+- TOP 5.4: Umbau Kinderspielplatz Graf-von-Stauffenberg-Straße
+- TOP 5.5: Verfügungsmittel der BV 10, Hier: Zuschuss an den Sportring Düsseldorf-Süd e.V.
+- TOP 5.6: Verfügungsmittel der BV 10, Zuschuss an den Helferkreis Flüchtlinge Duderstädter Straße Hellerhof
+- TOP 5.7: Sondersitzung der Bezirksvertretung 10 am 30.08.2016
+- TOP 5.8: Wiederwahl des Schiedsmannes Jürgen Fallasch
+- TOP 6: Anfragen
+- TOP 6.1: Ausstattung der Unterkunft für die neuen Bewohner in Hellerhof, Duderstädter Straße
+- TOP 6.2: Streichung zusätzlicher Arbeitsgemeinschaften nd anderer Bildungsangebote, die von OGS-MitarbeiterIn
+- TOP 6.3: Künftige Versorgung des Stadtbezirks mit Pflegeheimplätzen
+- TOP 7: Anträge
+- TOP 7.1: Entfernung der Sperrpfosten auf dem Parkplatz Emil-Barth-Straße
+- TOP 7.2: Reinigung des Parkplatzes in Garath, Peter-Behrens-Straße/Koblenzer Straße
+- TOP 7.3: Einladung des Schulleiters der Alfred- Herrhausen- Schule
+- TOP 7.4: Änderung des Grünordnungsplanes Rostocker Str. / Neustrelitzer Str.
+- TOP 7.5: Trinkbrunnen
+- TOP 7.6: Vollständige Beantwortung der Anfrage 170/103/2016
+- TOP 7.7: Schnellbusanbindung Garath/Hellerhof - Universität Düsseldorf
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Einrichtung einer Toilette und eines Bankautomaten der Stadtsparkasse in Hellerhof
+- TOP 8.2: Lückenschluss Urdenbacher Kämpe
+- TOP 8.3: Nutzung des Grundstücks Theodor-Litt-Straße nach Beendigung des Mietvertrages für die Traglufthalle
+- TOP 8.4: Aktueller Stand und Machbarkeitsstudie zur Planung und Umsetzung des Radschnellweges
+- TOP 8.5: Anbringung Handlauf unterster Treppenabschnitt der Bushaltestelle S-Bahn Hellerhof
+- TOP 8.6: Stadtweite Einführung des Konzeptes Nette Toilette - Beschluss -
+- TOP 8.7: Parkplatzsituation an den S-Bahnhöfen im Stadtbezirk 10
+- TOP 8.8: Einrichtung weiterer Behindertenparkplätze in der Nähe der Freizeitstätte
+- TOP 8.9: Künftige Versorgung des Stadtbezirks mit Pflegeheimplätzen
+- TOP 9: Verschiedenes
