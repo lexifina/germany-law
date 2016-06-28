@@ -1,0 +1,58 @@
+# Haupt- und Finanzausschuss (13. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-06-28T17:00:00+02:00
+- Ende: 2016-06-28T21:04:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZh4kri-Q5HWknf9qJF2AP0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20042
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRGp9wo0Lc5RYf_iXJTN3hHAdbfIY1uZAbZOx1veEFnL/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_28.06.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Dauerhafte Wohnstandorte für die Unterbringung von Flüchtlingen
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 5.1: Anregung und Beschwerde nach § 24 GO NRW hier: Pflegezustand öffentlicher Grünanlagen im Bereich Vogelrutherfeld
+- TOP 6.: Veröffentlichung Kommunaler Daten im Open-Data Portal NRW
+- TOP 7.: Änderung der Geschäftsordnung des Rates: Schluss der Debatte; hier: Antrag der SPD-Fraktion
+- TOP 8.: Bürgerhaushalt 2016 hier: Behandlung der Vorschläge
+- TOP 9.: Optimierung der Kommunalen Aufwandsteuern
+- TOP 10.: Abrechnung von Erschließungsbeiträgen nach den §§ 127 ff BauGB hier: Sachstand Altfälle bzw. weitere Vorgehensweise
+- TOP 11.: Ersatz des Alten Gemeindehauses in Kerpen-Sindorf
+- TOP 12.: Ausschreibung der Stromlieferung für die städtischen Objekte hier: Festlegung der Beschaffenheit
+- TOP 13.: Stadtplanung
+- TOP 13.1: Umsiedlung Manheim hier: Niederschriften der 22. und 23. Sitzung des Bürgerbeirates Manheim
+- TOP 13.2: Abschluss einer städtebaulichen Planungsvereinbarung für den Bereich des Bebauungsplanes BL Nr. 297 "Haagstraße"
+- TOP 13.3: Abschluss einer städtebaulichen Planungsvereinbarung mit der Fa. REMEX Mineralstoff GmbH im Rahmen des BP MA Nr. 360 "RAA-Anlage Haus Forst"
+- TOP 14.: Organisations-, Effizienz- und Aufgabenuntersuchung
+- TOP 15.: Personal-/Stellenplanangelegenheiten
+- TOP 15.1: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Aufhebung der 6-monatigen Wiederbesetzungssperre in der Abteilung 20.4, Beitragsangelegenheiten und zentrale Vergabestelle.
+- TOP 15.2: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Aufhebung der 6-monatigen Wiederbesetzungssperre in der Abteilung 24.2, Gebäude- und Energiewirtschaft, Klimaschutzmaßnahmen, Bäder.
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.1: Internetauftritt der Kolpingstadt Kerpen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 18.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 19.: Liegenschaftsangelegenheiten
+- TOP 19.1: Verkauf eines Baugrundstückes in Türnich
+- TOP 19.2: Verkauf eines Baugrundstückes in der Gemarkung Türnich (Ecke Heerstraße/ Am Ginsterberg)
+- TOP 19.3: Verkauf von Grundstücksflächen in der Gemarkung Horrem
+- TOP 19.4: Erwerb von Straßenverkehrsfläche in der Ulrichstraße
+- TOP 19.5: Grunderwerb einer Teilfläche in Horrem
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: Verkauf eines Gewerbe-Grundstückes im Rahmen des Projektes "Horrem 2010" Im Gleisdreieck, am Bahnhof Horrem
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Bestellung zum Amtsleiter 16 "Planen, Bauen und Umweltschutz"
+- TOP 21.2: Versetzung einer Beamtin in den Ruhestand
+- TOP 21.3: Ernennung einer Stadtoberverwaltungsrätin zur Stadtverwaltungsdirektorin
+- TOP 21.4: Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 23.1: Sachstand Lörsfelder Hof (Ökohof)
