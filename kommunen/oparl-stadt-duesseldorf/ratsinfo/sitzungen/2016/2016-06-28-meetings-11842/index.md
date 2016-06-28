@@ -1,0 +1,61 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-06-28T17:00:00+02:00
+- Ende: 2016-06-28T20:50:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11842
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11842
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270084.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270084.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270084.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zurückgezogen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tour de France - zur Kenntnis genommen
+- TOP 5: Flüchtlingsunterbringung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 6: Geplante Flüchtlingsunterkunft auf dem Gelände der Bergischen Kaserne - zurückgezogen
+- TOP 7: B-Plan-Vorentwurf - Ernst-Poensgen-Allee 3 - Öffentlichkeitsbeteiligung (Verfahren gem. § 13a BauGB) - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Weihnachtsmarkt auf dem Gerricusplatz und dem Flachsmarkt in Gerresheim im Jahre 2016 - einstimmig beschlossen
+- TOP 10: "Dog Event Düsseldorf" im Jahre 2016 - einstimmig beschlossen
+- TOP 11: Nutzung Apostelplatz - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2016) - einstimmig beschlossen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14: Bertastraße - einstimmig beschlossen
+- TOP 15: Bertastraße - Sicherheit für Fußgänger und Radfahrer - - einstimmig beschlossen
+- TOP 16: Bertastraße - einstimmig beschlossen
+- TOP 17: Verkehrssicherheit Bertastraße/Zamenhofweg - zurückgezogen
+- TOP 18: High-Tech-Laternen - einstimmig beschlossen
+- TOP 19: Sachstandsbericht Renaturierung Pillebach - einstimmig beschlossen
+- TOP 20: Solar-Fahrradweg für den Stadtbezirk 7 - mehrheitlich abgelehnt
+- TOP 21: Böschung Bahndamm Zamenhofweg - einstimmig beschlossen
+- TOP 22: Bänke und Abfalleimer auf dem Trotzhofweg - einstimmig beschlossen
+- TOP 23: Freies WLAN für Hubbelrath und Ludenberg - einstimmig beschlossen
+- TOP 24: Neubau Altenheim SANA-Klinik/Altenheim Gallberg - einstimmig beschlossen
+- TOP 25: Fuß- und Radweg Bergische Landstraße - einstimmig beschlossen
+- TOP 26: Dreherpark - zur Kenntnis genommen
+- TOP 27: Radfahren in Gegenrichtung von Einbahnstraßen - vertagt
+- TOP 28: E-Bike-Ladestationen - zur Kenntnis genommen
+- TOP 29: Werkstattverfahren zum Glasmacherviertel - zur Kenntnis genommen
+- TOP 30: Lärmschutzwand im Glasmacherviertel - zur Kenntnis genommen
+- TOP 31: Instandsetzungsprogramm Straßen - vertagt
+- TOP 32: Nach den Mauresköthen - Bauhaus - vertagt
+- TOP 33: Flugroutenänderung über Gerresheim/Ludenberg/Hubbelrath - zur Kenntnis genommen
+- TOP 34: Erneuerung Fahrbahnbelag Gräulinger Straße - zur Kenntnis genommen
+- TOP 35: Nutzung der Parkplätze rund um die Rennbahn durch Parkfirmen - zur Kenntnis genommen
+- TOP 36: Metallbänke Lichtung Grafenberger Wald - zur Kenntnis genommen
+- TOP 37: Verkehrssicherheit auf der Gräulinger Straße - zur Kenntnis genommen
+- TOP 38: Mauer Sichelstraße - zur Kenntnis genommen
+- TOP 39: Bordsteinabsenkung Keldenichstraße 96 Ecke Metzkauser Straße - zur Kenntnis genommen
+- TOP 40: Stadtweite Einführung des Konzeptes Nette Toilette - Beschluss - - zur Kenntnis genommen
+- TOP 41: Busverbindung zum Unterbacher See - zur Kenntnis genommen
+- TOP 42: Parkplätze Straße "Am Gartenkamp" - zur Kenntnis genommen
+- TOP 43: Öffentliches Grillen im Bezirk 7 - zur Kenntnis genommen
+- TOP 44: Fahrradfahren auf der Grafenberger Allee - zur Kenntnis genommen
