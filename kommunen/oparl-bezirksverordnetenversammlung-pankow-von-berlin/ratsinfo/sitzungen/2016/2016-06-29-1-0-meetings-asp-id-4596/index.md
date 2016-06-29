@@ -1,0 +1,97 @@
+# 41. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-06-29T17:30:00+02:00
+- Ende: 2016-06-29T21:35:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4596
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4596
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=127175
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Öffentliche Informationsveranstaltung zur Bebauung der Elisabethaue - vertagt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Bildung eines zeitweiligen Ausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.9: Bürgerservice: Informationen über absehbar verlängerte Wartezeiten - zurückgezogen
+- TOP 1.10: Checkliste für den Informationsschalter des Bürgeramts - zurückgezogen
+- TOP 1.11: Ausstellung Kunst "Made in Pankow" - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Parkverträgliches Gewerbe im Mauerpark nachhaltig sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Mieterschutz ernst nehmen – Umfassende Informationen zu Anträgen auf Umwandlung in Wohneigentum bereitstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Professionelle Unterstützung für Opfer von Gewalt in Unterkünften - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Erweiterung der Vorhaben- und Projektliste - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Gesundheitsversorgung für obdach- bzw. wohnungslose Menschen gewährleisten und ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Mehr Transparenz in der Trägerversammlung des JobCenters - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Standort-Prüfung für Flüchtlingsunterkünfte zügig abschließen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Mehr Transparenz in dem örtlichen Beirat des JobCenters - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Weniger Müll auf und am Spielplatz Rhinower Straße 6 - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Bedarfsprüfungen für die ergänzende Betreuung im offenen Ganztagsbetrieb abschaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Verbesserung der Haltestellen- und Umsteigesituation einschließlich Aufstellung einer Wartehalle im Haltestellenbereich Rosenthal Nord - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Notunterkunft für schutzbedürftige Flüchtlinge einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Ausbau des Fahrrad-Nebenroutennetzes in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Zusatz statt Ersatz – Kein Verzicht auf den Vivantes-Standort Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Traglufthalle für Obdachlose - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Sicherheit für Radfahrer*innen und Fußgänger*innen auf der Eberswalder Straße auch am Wochenende - in der BVV abgelehnt
+- TOP 1.28: Sicherheit für Fußgänger an der Fahrbahnüberquerung Landsberger Allee, Höhe Fritz-Riedel-Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Herstellung von öffentlichen Erschließungsanlagen gemäß § 125 Abs. 2 BauGB für die Grundstücke Blankenburger Straße 18-28 (Gewerbeareal Heinersdorf) sowie für die Anbindung dieser Fläche an die Blankenburger Straße im Bezirk Pankow, Ortsteil Heinersdorf - mit Änderungen in der BVV beschlossen
+- TOP 1.30: Verhindert der neue Gemeindepsychiatrieverbund die Beteiligung von Selbstbetroffenen und kleinen Trägern? - beantwortet
+- TOP 1.31: Prioritäten für die Entwicklung von Wohnungsbaustandorten im Bezirk Pankow - überwiesen
+- TOP 1.32: Ist Pankow gut vorbereitet auf den 18. September? - beantwortet
+- TOP 1.33: Behutsame Nachverdichtung an der Michelangelostraße - mit Änderungen in der BVV beschlossen
+- TOP 1.34: Gebäudescan Pankower Schulen - vertagt
+- TOP 1.35: Die Kurt-Tucholsky-Bibliothek soll im VÖBB bleiben! - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Geflüchtete willkommen heißen - AnwohnerInnen informieren - vertagt
+- TOP 1.37: Bezirksdolmetscherdienst einrichten - vertagt
+- TOP 1.38: Freihaltung einer Straßenbahntrasse Michelangelostraße - vertagt
+- TOP 1.39: City-Toiletten erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Knaackstraße 60-68 – keine Verdrängung! - vertagt
+- TOP 1.41: Gemeindepsychiatrischen Verbund qualifizieren und weiterentwickeln - überwiesen
+- TOP 1.42: Qualität in der Unterbringung und Betreuung von Geflüchteten realisieren - vertagt
+- TOP 1.43: Verkehrschaos in Französisch-Buchholz verringern - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Personalentwicklung und Personalmanagement - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Wegeleitsystem für das Bezirksamtsgelände Fröbelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Informationen zum Ausbau der BAB A114 auch auf der Internetseite des Bezirksamtes veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Regionalen Wochenmarkt Pankow einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Verlängerung Buslinie M21 - vertagt
+- TOP 1.49: Budgetzuweisung für Lehr- und Lernmittel für Schulen des Bezirks aufstocken - überwiesen
+- TOP 1.50: Ein Wunschbaum für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.51: Anbindung von Gewerbeflächen an die Erschließungsstraße im Gewerbegebiet Heinersdorf nur insoweit die äußere Erschließung gesichert ist - zurückgezogen
+- TOP 1.52: Zufahrt zum Pankow-Park anwohnerverträglich gestalten – Unfälle verhindern - überwiesen
+- TOP 1.53: Kino Toni & Tonino langfristig sichern - vertagt
+- TOP 1.54: Kooperationsvertrag mit der Gemeinde Adass Jisroel - ohne Änderungen in der BVV beschlossen
+- TOP 1.55: Errichtung von "Dogstations" in stark frequentierten Spazierwegen und Grünanlagen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - vertagt
+- TOP 2.4: Sicherung der Planungs- und Gestaltungshoheit des Bezirkes und seiner BürgerInnen für das Areal Thälmannpark / Fröbelstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Mieter_innen vor übermäßiger Umlage bei energetischer Modernisierung schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Ausweitung der Gebiete des sozialen Erhaltungsrechts ("Milieuschutzgebiete") im Bezirk Pankow - vertagt
+- TOP 2.8: Interkulturelle Kompetenz als eine Standardschlüsselqualifikation in der Personalentwicklung verankern - vertagt
+- TOP 2.9: Unterkünfte für Geflüchtete, Studierende und Personen mit geringem Einkommen in Karow Nord (ehem. Kita-Standorte) - vertagt
+- TOP 2.10: Städtebauliche Kriminalprävention - vertagt
+- TOP 2.11: Zentrale Spendenannahme - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Gefahren auf dem Gehweg in der Pankgrafenstraße abstellen - vertagt
+- TOP 2.13: „Work for Refugees- Refugees for Work“ bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Straßenentwässerung in der Krontaler Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Teilhabekonzept für Menschen mit Beeinträchtigungen im Bezirk Pankow - vertagt
+- TOP 2.16: Unfallsicherheit bei Einfassungen von Baumscheiben wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Städtebauliche Entwicklungen an der Straße 69 in 13125 Berlin-Karow - vertagt
+- TOP 2.18: Defibrillatoren in Pankows bezirkseigenen Einrichtungen stationieren - vertagt
+- TOP 2.19: Benennung der öffentlichen Straße 46 im Ortsteil Blankenburg in „Marie-Grünberg-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Fortschreibung der Globalsummen 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bezirkliches Wohnbaukonzept Pankow Schlussbericht des Bezirklichen Wohnbaukonzepts Pankow – WBK Pankow - vertagt
+- TOP 2.22: Entwicklungskonzept für die soziale und grüne Infrastruktur für den Bezirk Pankow - vertagt
+- TOP 2.23: Einrichtung der Arbeitsgruppe Koordinierung Infrastruktur - Standortentwicklung (KIS) beim Stadtentwicklungsamt - mit Abschlussbericht zur Kenntnis genommen
