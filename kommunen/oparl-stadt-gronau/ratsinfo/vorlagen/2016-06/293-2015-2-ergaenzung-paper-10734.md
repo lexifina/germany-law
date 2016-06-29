@@ -1,0 +1,22 @@
+# Errichtung eines Jugendparlaments;
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 293/2015 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2016-06-29
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZeq9Ly7l7euPBdDLKoxEIBo
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10734
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Errichtung eines Jugendparlaments;) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaxuD7Su_QLHhRAlL1DgRwvYEPCPeOliEDPVYDlJG3h3/Beschlussvorlage_293-2015_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Sitzungsvorlage 293/2015 1.Ergänzug) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQvTDNMaU3bCSqo2hehFNNtOobMdE-eiFiTeVfVe__xN/Sitzungsvorlage_293-2015_1.Ergaenzug.pdf
+- Anlage: Beschlussvorlage (Sitzungsvorlage 293/2015) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1a2_QYm42MhKMBuTPUFx-kDoBR3Wdup5tbpZWrUe9-/Sitzungsvorlage_293-2015.pdf
+- Anlage: Beschlussvorlage (Jugendschülerparlament) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTcdGP_bgEwKJfaQTGDm5ZE_BCADEyodDfBW1sgzoLQV/Jugendschuelerparlament.pdf
+- Anlage: Beschlussvorlage (Satzung Stadtjugendring) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYmeFlZ-lJU9bHMlXd_bBAbCRyJjvmnBAFj27n1JneCC/Satzung_Stadtjugendring.pdf
+- Anlage: Beschlussvorlage (Wahlordnung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcSioaKer5qtymwVRFcQHOjEx1K8DIYUkruMNT40OeN3/Wahlordnung.pdf
+- Anlage: Beschlussvorlage (Antrag Pro!Bürgerschaft/Piraten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbP6lJWlNImEsjpyeEuReQ3fbzPH7dXoeiMw_YpG5zR3/Antrag_Pro-Buergerschaft-Piraten.pdf
+- Anlage: Beschlussvorlage (Anlage 7: Auszug aus dem Fachausschuss vom 16.06.2016) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSM4urztIvTbHtRUiq7akjb3_WSgG0NNY7D-kyd64MDH/Anlage_7-_Auszug_aus_dem_Fachausschuss_vom_16.06.2016.pdf
+- Anlage: Beschlussvorlage (Anlage 8: Auszug aus dem Fachausschuss vom 23.06.2016) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbHyGu2kXRJi_ZTtK-G0kTuOj0hoeIBtRI2ipLvAFkYC/Anlage_8-_Auszug_aus_dem_Fachausschuss_vom_23.06.2016.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3293 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-131
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3286 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3314 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-82
