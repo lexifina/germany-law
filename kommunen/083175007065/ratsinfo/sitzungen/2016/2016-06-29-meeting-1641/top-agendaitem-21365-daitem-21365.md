@@ -1,0 +1,6 @@
+# TOP -: Vorstellung der Arbeit des Vereins Frauen helfen Frauen Ortenau e.V. (Evelyn Krümmel)
+
+- Sitzung: Ausschuss für Soziales, Bildung und Sport (3. Sitzung) (2016-06-29)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21365
