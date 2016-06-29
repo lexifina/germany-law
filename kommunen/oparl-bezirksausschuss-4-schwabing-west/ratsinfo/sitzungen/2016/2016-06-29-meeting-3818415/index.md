@@ -1,0 +1,60 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-06-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818415
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818415
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Ackermannbogen e.V.: Kultur-Litfaßsäule am Stadtplatz Ackermannbogen (vertagt aus 04/16, Antragstellerinnen in den UA eingeladen)
+- TOP .2.1.: Wirtschaft
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Italienisches Straßenfest am 23.07.2016 in der Georgenstraße
+- TOP .2.: Straßenfest in der Apianstraße am 16.07.2016
+- TOP .3.: Italienischer Markt auf dem Hohenzollernplatz (01. bis 06.08.2016)
+- TOP .2.1.: Planen
+- TOP .1.: Nachträgliche Aufnahme von Gebäuden in die Denkmalliste: a) Schulgebäude Hiltenspergerstr. 72 (Grundschule Bayernplatz) b) Wohn- und Geschäftshaus Franz-Joseph-Str. 26
+- TOP .2.: Tektur Fürstenbergstr. 11 a, Aufstockung des bestehenden Anwesens
+- TOP .3.: Vorbescheid Kathi-Kobus-Str. 22-24, Neubau von Mehrfamilienhäusern mit TG
+- TOP .4.: Tengstr. 32, Teilausbau Dachgeschoss
+- TOP .5.: Clemensstr. 61, Nutzungsänderung im EG: Gaststätte zu Büro 1, Metzgerei zu Büro 2
+- TOP .6.: Infanteriestr. 8, Neubau eines Rückgebäudes auf vorhandener Tiefgarage und Umbau des Kantinenpavillons
+- TOP .7.: Rümannstr. 9, Umbau und Nutzungsänderung im EG: Laden zu medizinischem Behandlungszentrum für Menschen mit Behinderung
+- TOP .8.: Tektur Belgradstr. 128 a, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Pflegemaßnahmen zur Erhaltung eines Baumes am H'Otello Fallmerayerstr. 22
+- TOP .2.1.: Umwelt
+- TOP .1.: Installation von Unterflur-Wertstoffcontainern am Standort Therese-Studer-Straße / Gustav-Landauer-Bogen
+- TOP .2.: Schleißheimer Str. 203-209: Antrag auf Fällung eines Lebensbaums und einer Kiefer
+- TOP 3.4.: Kurfürstenstraße/Ecke Franz-Joseph-Straße: Antrag auf Fällung einer Robinie
+- TOP 3.2.2.: Verkehr
+- TOP 3.1.: Anfahrtszone für den Kindergarten Mainzer Str. 14
+- TOP 3.2.: Erinnerungsverfahren des Baureferats Tiefbau: Fahrbahnsanierung in der Mittermayrstraße zwischen Clemens- und Herzogstraße
+- TOP 3.3.: Fahrradabstellplätze an der Kreuzung Schwere-Reiter-/Ackermannstraße (BA-Antrag Nr. 14-20/B 02076 vom 24.02.2016): Anhörung zu den Umsetzungsvorschlägen des Baureferats
+- TOP 3.1.: Sitzungstermine 2017
+- TOP 3.2.: Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten ? Anhörung zu einem Antrag des BA 6 Sendling
+- TOP 3.3.: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 3.4.: Oktoberfest-Reservierung für den BA 4: Wunschtermine mit Zeitraum und Teilnehmerzahl
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Ferienausschuss am 24.08.2016 1.Benennung der Mitglieder 2.Wahl der/des Ferienausschuss-Vorsitzenden 3.Vertretungsregelung
+- TOP 3.7.: Aktionsplan der UN-Behindertenrechtskonvention ? Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung
+- TOP 3.1.: Hinweis auf den neuen Standort der Senioren-Volkshochschule im U-Bahnhof Scheidplatz
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Basketball für Flüchtlinge" Basketball-Training für minderjährige Flüchtlinge vom 03.07.-18.12.2016
+- TOP .1.: (E) Budget der Bezirksausschüsse Labor München e.V. Projekt "URBAN" vom 14.-24.07.2016
+- TOP .2.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Fünf Filme "Local Heros" vom 14. - 16.10.2016
+- TOP 3: (E) Kreuzungsbereich Winzerer- / Lothstraße am Obelisken durch Grünkonzept optimieren (Ziffer 2 des Antrags) Empfehlung Nr. 14-20 / E 00154 der Bügerversammlung des Stadtbezirkes 4 Schwabing-West am 09.10.2014 Pflanzen einer Baumreihe in der Lothstraße zwischen Winzerer- und Infanteriestraße (Ziffer 3 des Antrags) Empfehlung Nr. 14-20 / E 00155 der Bügerversammlung des Stadtbezirkes 4 Schwabing-West am 09.10.2014
+- TOP 3.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing- West Widmung einer Teilstrecke der Adams-Lehmann-Straße, einer Teilstrecke der Petra-Kelly-Straße und von Teilstrecken der Georg-Birk-Straße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
