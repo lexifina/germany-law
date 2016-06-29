@@ -1,0 +1,6 @@
+# TOP 2.3: Bericht zum Projekt EuroArt-Jahr - Landschaftsfenster
+
+- Sitzung: Kultur- und Sozialausschuss (2. Sitzung) (2016-06-29)
+- Körperschaft: Stadt Kronberg im Taunus
+- Öffentlich: ja
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/47044
