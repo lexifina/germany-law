@@ -1,0 +1,65 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2016-06-29T17:00:00+02:00
+- Ende: 2016-06-29T20:10:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3391
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3391
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 11.05.2016 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Therapeutische Versorgung in städtischen Kindertageseinrichtungen - geändert beschlossen
+- TOP 5: Sachstand zur Entwicklung der Präventionskette - "KiM - Kinder im Mittelpunkt" - ungeändert beschlossen
+- TOP 6: Verlängerung und Förderung der Bundesinitiative "Netzwerke Frühe Hilfen und Familienhebammen" - ungeändert beschlossen
+- TOP 7: Raumordnungsverfahren Gasfernleitung Zeelink I - Stellungnahme der Stadt Aachen - ungeändert beschlossen
+- TOP 8: Zentren- und Nahversorgungskonzept der Stadt Aachenhier: Bericht über die Behörden- und ÖffentlichkeitsbeteiligungBeschluss des Konzeptes - ungeändert beschlossen
+- TOP 9: Familienfreundliche Stadtplanung;hier: Überarbeitung und Ergänzung der bisherigen Kritierien um das Thema FamilienzeitBeschluss der Kriterien - ungeändert beschlossen
+- TOP 10: I. Änderung Bebauungsplan Nr. 849 -Burggrafenstraße-hier: Änderungs- und Satzungsbeschluss - geändert beschlossen
+- TOP 10.1: I. Änderung Bebauungsplan Nr. 849 -Burggrafenstraße-hier: Änderungs- und Satzungsbeschluss - ungeändert beschlossen
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 967 -Wildbacher Mühle- für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen Wildbacher Mühle, Wildbach und der Bahnlinie Aachen-Mönchengladbachhier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 12: Änderung der Richtlinien der Stadt Aachen zur Förderung des Sports - ungeändert beschlossen
+- TOP 13: Änderung der Hauptsatzunghier: § 27 - Öffentliche Bekanntmachung - ungeändert beschlossen
+- TOP 14: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 14.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2016Laurentiusstraßehier: Hangsicherung der Zufahrt zur Kirche St. Laurentius - ungeändert beschlossen
+- TOP 14.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen -Haushaltsjahr 2016- Ersatzbau KGS Bildchen - ungeändert beschlossen
+- TOP 14.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2016Maßnahme Krugenofen, Umbau - ungeändert beschlossen
+- TOP 14.4: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2016Maßnahme Bismarckstraße Erneuerung - ungeändert beschlossen
+- TOP 15: Geprüfter Jahresabschluss 2014/2015 von Stadttheater und Musikdirektion Aachen per 31.07.2015 - ungeändert beschlossen
+- TOP 16: Jahresabschluss für den Kulturbetrieb E 49 für das Jahr 2014 - ungeändert beschlossen
+- TOP 17: Anpassung des Schulgeldes der Musikschule der Stadt Aachen - ungeändert beschlossen
+- TOP 17.1: Anpassung des Schulgeldes der Musikschule der Stadt AachenErgänzung - ungeändert beschlossen
+- TOP 18: Entwurf Gesamtabschluss 2010 - ungeändert beschlossen
+- TOP 19: Bericht über die Prüfung des Jahresabschlusses 2014 - ungeändert beschlossen
+- TOP 20: Bericht mit Stellungnahme der Rechnungsprüfung zur überörtlichen Prüfung der Gemeindeprüfungsanstalt 2014 - geändert beschlossen
+- TOP 21: Verlegung von Stolpersteinen Projekt des Kölner Künstlers Gunter DemnigVolkshochschule Aachen - ungeändert beschlossen
+- TOP 22: Kunst im öffentlichen Raum Schenkungsangebot Büste Ritter Gerardus Chorus - ungeändert beschlossen
+- TOP 23: Schließung des katholischen Teilstandortes Barbarastraße der GGS Brühlstraße - ungeändert beschlossen
+- TOP 24: Städteregion - Zuständigkeit für die Anerkennung niedrigschwelliger Betreuungs- und Entlastungsangebote sowie die Qualitätssicherung im Pflegebereich - ungeändert beschlossen
+- TOP 25: Anfragen:
+- TOP 25.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 25.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 26: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 27: Wahl von städtischen Vertretern in Gesellschaften, Verbänden und sonstigen Organisationen; hier: Aufsichtsrat der Aachener Straßenbahn- und Energieversorgungs-Aktiengesellschaft (ASEAG) - ungeändert beschlossen
+- TOP 28: Mitteilungen der Verwaltung
+- TOP 29: Ratsanträge - zur Kenntnis genommen
+- TOP 30: Sachstandsbericht Tivoli: Technische Anlagen und Einrichtungen - ungeändert beschlossen
+- TOP 31: Annahme einer Schenkung für die städtische Sportplatzanlage Kitzenhausweg - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
