@@ -6,7 +6,7 @@ Finanzämter sind für den Bereich anderer Finanzämter wie folgt zuständig:
 Lfd. Nr. | Finanzamt | zuständig für den Bereich des Finanzamts | Nr. | übertragene Zuständigkeit
 Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
 1 | Bremen-Nord | Alle Finanzämter im Lande Bremen | 1.1 | Verwaltung der Rennwett- und Lotteriesteuer
- |  |  | 1.2 | Verwaltung der Kraftfahrzeugsteuer
+ |  |  | 1.2 | (aufgehoben)
  |  | Bremen | 1.3 | Verwaltung der Spielbankabgabe einschließlich der Steueraufsicht
  |  |  | 1.4 | Durchführung der Einheitsbewertung und Bedarfsbewertung des Grundvermögens
  |  |  | 1.5 | Verwaltung der
@@ -15,7 +15,7 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  |  | 1.5.3 | Vergnügungssteuer
  |  |  | 1.6 | Festsetzung und Erhebung der Grundbesitzabgaben
  |  |  | 1.7 | Kassengeschäfte
- |  |  | 1.8 | Vollstreckung
+ |  |  | 1.8 | (aufgehoben)
 2 | Bremen | Alle Finanzämter im Lande Bremen | 2.1 | Besteuerung der in Norwegen, Finnland und Lettland ansässigen Unternehmer auf Grund bundesweit verordneter Übertragung der örtlichen Zuständigkeit hinsichtlich
  |  |  | 2.1.1 | der Umsatzsteuer
  |  |  | 2.1.2 | der Steuern vom Einkommen und Vermögen, wenn der Unternehmer Bauleistungen (§ 48 Absatz 1 Satz 2 Einkommensteuergesetz) erbringt
