@@ -1,0 +1,83 @@
+# 9. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-07-01T11:00:00+02:00
+- Ende: 2016-07-01T14:15:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-VV-27
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-VV-27
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-VV-27
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VV-27
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VV-27
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Sachstand zu den gemäß § 9 Abs. 4 LPlG beschlossenen Jahresbauprogrammen 2016 für a) die Maßnahmen des Landesstraßenausbauplans b) den Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten c) den Radwegebau an bestehenden Landesstraßen
+- TOP 1.2: Städtebauförderung hier: Aufstellung des Städtebauförderprogramms 2016
+- TOP 1.2.1: Ergänzender Beschlussvorschlag zum Tagesordnungspunkt „Aufstellung des Städtebauförderprogramms 2016“ (Drucksache 13/0526), Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 30.06.2016
+- TOP 1.3: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik hier: Beratung und Beschlussfassung 2016
+- TOP 1.4: Neuaufstellung des Bundesverkehrswegeplans (BVWP 2030) Information über die Beschlüsse des Verbandsausschusses vom 11.04.2016 Regionale Voten für die Bereiche Straße, Schiene, Wasserstraße
+- TOP -: Vorlagen des Regionalverbandes Ruhr/Planungsausschuss
+- TOP 1.5: Abgrabungsmonitoring von Nordrhein-Westfalen – Lockergesteine Hier: Monitoringbericht für das Planungsgebiet Regionalverband Ruhr zum 01.01.2016
+- TOP 1.6: Änderungsverfahren 21 E (Hammer Strasse / Overhammshof - Erstaufnahmeeinrichtung) zum Regionalen Flächennutzungsplan – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 1.7: Wasserstraßen-, Hafen- und Logistikkonzept des Landes NRW
+- TOP 1.8: Abfallwirtschaftsplan Nordrhein-Westfalen - Teilplan Siedlungsabfälle
+- TOP 1.9: Raumordnungsverfahren Zeelink II Hier: Sachstand
+- TOP 1.10: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 1.11: Sachstand Regionalplan Ruhr
+- TOP 1.12: Anfragen und Mitteilungen
+- TOP -: Stellungnahme der IHK zu Essen zum Entwurf des Bundesverkehrswegeplans 2030
+- TOP -: Stellungnahme der Südwestfälischen Industrie- und Handelskammer zu Hagen zum Entwurf des Bundesverkehrswegeplans 2030
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.1: Standortmarketingkampagne - Budgetansatz und weiteres Vorgehen
+- TOP 2.2: Bericht über die Prüfung des Jahresabschlusses 2014, Feststellung des Jahresabschlusses 2014 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2014 bis 31.12.2014
+- TOP 2.3: Beschluss über die Behandlung des Jahresüberschusses 2014
+- TOP 2.4: Übertragung von Ermächtigungen aus dem Haushaltsjahr 2015 in das Haushaltsjahr 2016
+- TOP 2.5: Umbesetzung in den Fachausschüssen/Wechsel in den Gremien
+- TOP 2.5.1: Umbesetzung in den Fachausschüssen
+- TOP 2.5.2: Ersatzwahl eines beratenden Mitgliedes der Verbandsversammlung
+- TOP 2.5.3: Arbeitskreis NWL-RVR-VRR, Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 30.06.2016
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Sachstandsbericht zur Durchführung des „Wissenslabors Ruhr – Möglichkeitsräume“ im Ruhrgebiet (KENNISLAB RUHR) hier: Abschluss Kennislab Ruhr 1 + 2 und weiteres Vorgehen
+- TOP 2.7: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht
+- TOP 2.7.1: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht Ergänzung des Beschlussvorschlages und schriftliche Stellungnahme der Verwaltung vom 30.06.2016
+- TOP 2.8: Gemeinsame Treibhausgasbilanz für die Metropole Ruhr
+- TOP 2.9: Route der Industriekultur – RVR-Vertrag mit dem Land NRW
+- TOP 2.10: Innovationsband Radschnellweg Ruhr – Gemeinsamer Workshop mit der Städteregion Ruhr am 03.11.2015 hier: Dokumentation
+- TOP 2.11: Fahrradverleihsystem metropolradruhr Hier: Sachstandsbericht
+- TOP 2.12: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr'
+- TOP 2.12.1: Regionales Mobilitätsentwicklungskonzept (RME) für die Metropole Ruhr; hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr', Antrag der Fraktionen CDU, SPD und Bündnis90/Die Grünen vom 08.06.2016
+- TOP 2.12.2: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr'
+- TOP 2.13: Antrag der Mingas-Power GmbH auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen nebst den bei ihrer Gewinnung anfallenden Gasen zu gewerblichen Zwecken für das Feld 'Haard-Gas' Hier: 1)Stellungnahme des Regionalverbandes Ruhr als Regionalplanungsbehörde und als Träger öffentlicher Belange 2)Erteilung der Erlaubnis
+- TOP 2.14: Regionalkonferenz Schutzsuchende Hier: Ankündigung auf dem RVR-Planernetzwerk „Unterbringung von Flüchtlingen“ am 29.4.2016
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.15: Angelegenheiten der Freizeitgesellschaften Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2015
+- TOP 2.16: Angelegenheiten der Freizeitgesellschaften Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2015
+- TOP 2.17: Angelegenheiten der Kultur Ruhr GmbH - Aktualisierung der Nebenabrede 2018-2020
+- TOP 2.18: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.19: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2015
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.20: Zielsetzung einer regionalen Radwegeunterhaltung
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.21: Aktualisierte Fassung der Nachhaltigkeitsvereinbarung zwischen RVR und Land NRW
+- TOP 2.21.1: „Nachhaltigkeitsvereinbarung“ - Änderungsantrag, Antrag der Fraktionen CDU, SPD, Bündnis 90/Die Grünen, Die Linke., FDP, Piraten und Freie Wähler vom 08.06.2016
+- TOP 2.21.2: Umsetzung der Großveranstaltung „Sing! Day of Song“ in 2018
+- TOP -: Fraktionsanträge
+- TOP 2.22: Barrierefreiheit der Web-Angebote des RVRs und seiner Eigenbetriebe, Antrag der Piraten-Fraktion vom 07.06.2016 Der Antrag wird von der Piraten-Fraktion zurückgezogen.
+- TOP 2.23: OpenData weiter ausbauen, Antrag der Fraktionen CDU, SPD und Bündnis90/Die Grünen vom 08.06.2016
+- TOP 2.24: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.24.1: Angelegenheiten der Freizeitgesellschaften: Beschlussfassung über das weitere Vorgehen zur Neustrukturierung der Freizeitgesellschaften, Antrag der Fraktion Die Linke. vom 10.06.2016
+- TOP 2.24.2: Weiteres Vorgehen zur Neustrukturierung der Freizeitgesellschaften, Antrag der Fraktion Die Linke. vom 10.06.2016
+- TOP 2.24.3: Angelegenheiten der Freizeitgesellschaften - Aktueller Restrukturierungsprozess der Freizeitgesellschaften
+- TOP 2.24.4: 
+- TOP 2.25: Anfragen und Mitteilungen
+- TOP -: Regionaler Diskurs – Fortschreibung der „Perspektiven zur räumlichen Entwicklung der Metropole Ruhr“, Anfrage der SPD-Fraktion vom 29.06.2016
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
