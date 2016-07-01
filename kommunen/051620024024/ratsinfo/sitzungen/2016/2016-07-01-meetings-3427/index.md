@@ -1,0 +1,65 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2016-07-01T16:00:00+02:00
+- Ende: 2016-07-01T21:59:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3427
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3427
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - zur Kenntnis genommen
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Satzungsänderung Obdachlosenunterkünfte - einstimmig zugestimmt
+- TOP 8: Konzept "Diversität in der Kultur" der Neusser Kultureinrichtungen - einstimmig zugestimmt
+- TOP 9: Mainstraße - Verbreiterung eines Gehweges - einstimmig zugestimmt
+- TOP 10: Behringstraße - Straßenwiederherstellung zw. Preußenstraße und Im Jagdfeld nach Kanalsanierung - einstimmig zugestimmt
+- TOP 11: Nordkanalallee - Straßenwiederherstellung zw. Friedr.-Ebert-Pl. u. Selikumer Str. i. z. Kanalsan. - einstimmig zugestimmt
+- TOP 12: Lange Hecke - Gehwegergänzung im Bereich Kindertagesstätte - einstimmig zugestimmt
+- TOP 13: Kreuzstraße - Straßenwiederherstellung nach Arbeiten an Versorgungsleitungen - einstimmig zugestimmt
+- TOP 14: Neufassung der Entgeltordnung der Volkshochschule Neuss ab dem 2. Semester 2016 - einstimmig zugestimmt
+- TOP 15: Tierschutzgerechtes Stadttauben-Konzept Neuss - einstimmig zugestimmt
+- TOP 16: Änderung der Hundesteuersatzung - mehrheitlich zugestimmt
+- TOP 17: Stadthistorisches Informationssystem - einstimmig zugestimmt
+- TOP 18: BP 113/2 - Sopienstraße / Kölner Str. - Auslegung - einstimmig zugestimmt
+- TOP 19: Der Tagesordnungspunkt "Grundsätze für weitere Darstellungen von Wohnbauland im neuen Flächennutzungsplan" wurde in den kommenden APS vertagt - abgesetzt
+- TOP 20: Ausbau eines Feldweges parallel zur K 30 zur Schaffung einer alternativen Radverkehrsführung - mehrheitlich zugestimmt
+- TOP 21: Erneuerung der Eisenbahnüberführung Weberstraße - einstimmig zugestimmt
+- TOP 22: Entwicklung Hammfeld II - zur Kenntnis genommen
+- TOP 23: Hans-Peter-Keller-Straße - einstimmig zugestimmt
+- TOP 24: Kinderspielplatzprogramm inklusive Ausbauplanung 2016 - einstimmig zugestimmt
+- TOP 25: Vermietungspreise in Räumlichkeiten von offenen Kinder- und Jugendeinrichtungen, die sich in Gebäude - vertagt
+- TOP 26: Jugendhilfeplanung "Kindertagesbetreuung": Bedarfsplan Kindertagesbetreuung 2016/17 und Maßnahmen de - einstimmig zugestimmt
+- TOP 27: Jugendhilfeplanung "Kindertagesbetreuung", hier: Veränderte Finanzierungsstruktur der Ev. Jugendhilf - zur Kenntnis genommen
+- TOP 28: Prüfung des Gesamtabschlusses 2011 - einstimmig zugestimmt
+- TOP 29: Prüfung des Gesamtabschlusses 2012 - einstimmig zugestimmt
+- TOP 30: Offene Ganztagsschule – Erhöhung der Trägerbudgets nach erneuter Erhöhung der Landesmittel - einstimmig zugestimmt
+- TOP 31: Gesamtschule Nordstadt: Umbau des ehemaligen HM-Hauses zur Verwaltung: Planung und Kostenschätzung - einstimmig zugestimmt
+- TOP 32: Tour de France - mehrheitlich zugestimmt
+- TOP 33: Neufassung der Ehrenordnung des Rates der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 34: Personelle Besetzung in Wasser- und Bodenverbänden - einstimmig zugestimmt
+- TOP 35: Abgabe der Beihilfebearbeitung - einstimmig zugestimmt
+- TOP 36: Antrag der Fraktion UWG/BIG betr.: Umstrukturierung des Bürgeramtes und Änderungsantrag der Fraktion - einstimmig zugestimmt
+- TOP 37: Antrag der SPD-Fraktion betr.: Alle Kinder fahren mit - einstimmig zugestimmt
+- TOP 38: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr.: Aufnahme von Verhandlungen mit dem Projek - mehrheitlich zugestimmt
+- TOP 39: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr.: Fortlaufende Berichterstattung zu Persona - einstimmig zugestimmt
+- TOP 40: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr.: Resolution des Rates der Stadt Neuss zum - zur Kenntnis genommen
+- TOP 41: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr.: Neustrukturierung der Kreiskrankenhäuser - zur Kenntnis genommen
+- TOP 42: Antrag der Fraktion DIE LINKE betr.: Verbesserung der Baustellenabsicherungen im Bereich von Geh- un - verwiesen
+- TOP 43: Antrag der Fraktion DIE LINKE betr.: Bildung eines Kinder- und Jugendstadtrates in Neuss - verwiesen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Umsetzung NTSK - zur Kenntnis genommen
+- TOP 46: Antrag der Flughafen Düsseldorf GmbH auf Erteilung eines Planfeststellungsbeschlusses sowie Änderung - zur Kenntnis genommen
+- TOP 47: Sprechzeiten der Verwaltung ab 01.08.2016 - zur Kenntnis genommen
+- TOP 48: Aktueller Stand zur interkulturellen Öffnung der Verwaltung - zur Kenntnis genommen
+- TOP 49: Stand der Organisationsuntersuchung im Amt für Umwelt und Stadtgrün - zur Kenntnis genommen
+- TOP 50: Einwohnerfragestunde - zur Kenntnis genommen
