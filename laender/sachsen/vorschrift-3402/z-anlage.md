@@ -38,10 +38,11 @@ Leipzig II | Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 g) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertrags-arbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 9. | Lohnsteuer-Außenprüfung |  | 
 a) | für Betriebe mit 100 oder mehr Arbeitnehmern | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
-Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-Dresden-Nord | Dresden-Nord Dresden-Süd Freital Meißen Pirna
+Bautzen | Bautzen Hoyerswerda
 Eilenburg | Eilenburg Oschatz
 Freiberg | Döbeln Freiberg Mittweida
+Görlitz | Görlitz Löbau
+Pirna | Freital Pirna
 Zwickau | Hohenstein-Ernstthal Zwickau
 b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle
