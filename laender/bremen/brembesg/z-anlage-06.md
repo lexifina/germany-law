@@ -1,13 +1,13 @@
 # Anlage 6 - Amtszulagen, Stellenzulagen, Zulagen
 Anlage 6
 Amtszulagen, Stellenzulagen, Zulagen
-Gültig ab 01. Juli 2015
+Gültig ab 01. Juli 2016
 Amtszulagen, Stellenzulagen, Zulagen
 (Monatsbeträge in Euro) in der Reihenfolge der Gesetzestabellen
 Dem Grunde nach geregelt in | Betrag in Euro |  |  | 
 Besoldungsordnungen A und B |  |  |  | 
 Vorbemerkungen |  |  |  | 
-Nummer 4 | 207,11 |  |  | 
+Nummer 4 | 211,87 |  |  | 
 Nummer 5 |  |  |  | 
 Die Zulage beträgt für Beamtinnen und Beamte |  |  |  | 
  | der Besoldungsgruppen |  |  | 
@@ -31,9 +31,9 @@ Nummer 10 | 25,56 |  |  |
 Nummer 11 | 38,35 |  |  | 
 Nummer 12 |  |  |  | 
  | Buchstabe a |  |  | 
- |  | Doppelbuchstabe aa | 19,61 | 
- |  | Doppelbuchstabe bb | 76,71 | 
- | Buchstabe b | 85,25 |  | 
+ |  | Doppelbuchstabe aa | 20,06 | 
+ |  | Doppelbuchstabe bb | 78,47 | 
+ | Buchstabe b | 87,21 |  | 
 Besoldungsordnung W |  |  |  | 
 Vorbemerkungen |  |  |  | 
 Nummer 1 | 260,00 |  |  | 
@@ -43,28 +43,28 @@ Nummer 2 |  |  |  |
  |  | in der Besoldungsgruppe R 2 | 230,08 | 
 Besoldungsordnungen A und B |  |  |  | 
 Besoldungsgruppen | Fußnote |  |  | 
-A 4 | 2 | 67,55 |  | 
-A 5 | 2 | 67,55 |  | 
-A 6 | 2 | 36,61 |  | 
-A 9 | 1 | 272,63 |  | 
+A 4 | 2 | 69,10 |  | 
+A 5 | 2 | 69,10 |  | 
+A 6 | 2 | 37,45 |  | 
+A 9 | 1 | 278,90 |  | 
 A 10 | 3, 4 | 25,56 |  | 
 A 11 | 1, 2 | 25,56 |  | 
 A 12 | 3 | 25,56 |  | 
- | 7 | 154,36 |  | 
+ | 7 | 157,91 |  | 
 A 12 a | 2 | 25,56 |  | 
- | 5 | 154,36 |  | 
-A 13 | 1, 9, 10 | 270,09 |  | 
- | 12 | 185,17 |  | 
- | 14 -kw- | 166,69 |  | 
- | 15 | 83,12 |  | 
-A 14 | 2 | 185,17 |  | 
-A 15 | 1 | 123,47 |  | 
- | 4 | 185,17 |  | 
- | 6 | 308,57 |  | 
- | 7 -kw- | 342,35 |  | 
-A 16 | 3 | 207,11 |  | 
+ | 5 | 157,91 |  | 
+A 13 | 1, 9, 10 | 276,30 |  | 
+ | 12 | 189,43 |  | 
+ | 14 -kw- | 170,52 |  | 
+ | 15 | 85,03 |  | 
+A 14 | 2 | 189,43 |  | 
+A 15 | 1 | 126,31 |  | 
+ | 4 | 189,43 |  | 
+ | 6 | 315,67 |  | 
+ | 7 -kw- | 350,22 |  | 
+A 16 | 3 | 211,87 |  | 
 Besoldungsgruppen | Fußnote |  |  | 
-R 1 | 1 | 204,73 |  | 
-R 2 | 1, 2, 6, 7, 8 | 204,73 |  | 
- | 3 | 331,62 |  | 
-R 3 | 1 | 204,73 |  | 
+R 1 | 1 | 209,44 |  | 
+R 2 | 1, 2, 6, 7, 8 | 209,44 |  | 
+ | 3 | 339,25 |  | 
+R 3 | 1 | 209,44 |  | 
