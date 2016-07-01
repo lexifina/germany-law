@@ -18,7 +18,7 @@ Kapitel 2 Berufsfeuerwehren
 § 12 | Aufgaben im vorbeugenden Gefahrenschutz
 Kapitel 3 Freiwillige Feuerwehren
 § 13 | Verwaltung, Leitung und Mitgliedschaft
-§ 14 | Bereitschaftsführer und Bereichsführer
+§ 14 | Bereitschaftsführung und Bereichsführung
 § 15 | Versicherungsschutz
 § 16 | Aufwandsentschädigung
 § 17 | Ersatz von Auslagen, Reisekosten
@@ -40,24 +40,25 @@ Kapitel 2 Durchführung des Rettungsdienstes
 § 28 | Rettungsmittelbedarfsplan
 § 29 | Mitwirkung anderer Stellen
 § 30 | Besetzung der Rettungsmittel
-§ 31 | Ärztlicher Leiter Rettungsdienst
+§ 31 | Ärztliche Leitung Rettungsdienst
 § 32 | Fortbildung
 § 33 | Qualitätsmanagement im Rettungsdienst
-Kapitel 3 Private Unternehmer
+Kapitel 3 Private Unternehmen
 § 34 | Betätigung im Krankentransport
 Kapitel 4 Regelungen für den Großschadensfall im Rettungsdienst
 § 35 | Massenanfall verletzter oder erkrankter Personen, Schnell-Einsatz-Gruppen
-§ 36 | Leitender Notarzt, Organisatorischer Leiter Rettungsdienst
+§ 36 | Leitende Notärztin, Leitender Notarzt, Organisatorische Leitung Rettungsdienst
 Teil 4 Katastrophenschutz
 Kapitel 1 Allgemeine Vorschriften
 § 37 | Aufgabe
+§ 37a | Unterbringung und Versorgung von Asylbegehrenden und Flüchtlingen
 § 38 | Aufgabenträger
 § 39 | Mitwirkung im Katastrophenschutz
 § 40 | Öffentliche Träger mit ihren Einheiten und Einrichtungen
 § 41 | Private Träger mit ihren Einheiten und Einrichtungen
-§ 42 | Helfer im Katastrophenschutz
-§ 43 | Rechtsverhältnisse der Helfer
-§ 44 | Entschädigung der Helfer
+§ 42 | Helferinnen und Helfer im Katastrophenschutz
+§ 43 | Rechtsverhältnisse der Helferinnen und Helfer
+§ 44 | Entschädigung der Helferinnen und Helfer
 Kapitel 2 Vorbereitende Maßnahmen
 § 45 | Aufgaben der Katastrophenschutzbehörden
 § 46 | Auskunftspflicht
@@ -68,7 +69,7 @@ Teil 5 Überörtliche Hilfe
 § 49 | Nachbarliche Hilfe im Brandschutz und bei technischer Hilfeleistung
 § 50 | Bereichsübergreifender Rettungsdienst
 § 51 | Überörtliche Katastrophenschutzhilfe
-Teil 6 Rechtsverhältnisse der ehrenamtlich tätigen Mitglieder der Freiwilligen Feuerwehren und Helfer im Katastrophenschutz
+Teil 6 Rechtsverhältnisse der ehrenamtlich tätigen Mitglieder der Freiwilligen Feuerwehren und Helferinnen und Helfer im Katastrophenschutz
 § 52 | Freistellung, Lohnfortzahlung, Verdienstausfall
 § 53 | Schadensersatzleistungen an die ehrenamtlich Tätigen
 § 54 | Haftung der ehrenamtlich Tätigen
@@ -83,7 +84,7 @@ Teil 9 Ordnungswidrigkeiten
 § 60 | Bußgeldvorschrift
 Teil 10 Datenschutzregelungen
 § 61 | Datenverarbeitung
-§ 62 | Datenverarbeitung für das Qualitätsmanagement im Rettungsdienst
+§ 62 | Datenverarbeitung für das Qualitätsmanagement in Rettungsdienst
 § 63 | Datenerhebung und Zweckbindung
 § 64 | Datenübermittlung
 § 65 | Rechtsverordnung zu Datenschutzregelungen
@@ -92,6 +93,5 @@ Teil 11 Schlussvorschriften
 § 67 | Zuständigkeiten anderer Behörden
 § 68 | Erlass von Verwaltungsvorschriften
 § 69 | Übergangsregelungen
-§ 70 | Änderung anderer Vorschriften
-§ 71 | Aufteilung der Feuerschutzsteuer
-§ 72 | Inkrafttreten, Außerkrafttreten
+§ 70 | Aufteilung der Feuerschutzsteuer
+§ 71 | Inkrafttreten, Außerkrafttreten
