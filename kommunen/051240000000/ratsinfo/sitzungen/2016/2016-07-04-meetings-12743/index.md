@@ -1,0 +1,97 @@
+# öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-07-04T16:07:00+02:00
+- Ende: 2016-07-04T20:32:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12743
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12743
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung m. d. Ergebnissen d. Vorberatung - Stand 24.06.2016 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00194804.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00195589.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde
+- TOP 2.1: Überschuldung der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion "Überschuldung der Stadt Wuppertal" (VO/0375/16) vom 10.05.2016 - Entgegennahme ohne Beschluss
+- TOP 2.2: Sachstandsbericht zu Treppen, Brücken und Fußwegen in Wuppertal - vertagen
+- TOP 2.2.1: Sachstandbericht zu Treppen und Ingenieurbauwerken - vertagen
+- TOP 2.3: Aktueller Sachstandsbericht Flüchtlinge, Geduldete, Asylbewerber - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Sachstandsbericht Flüchtlinge, Geduldete, Asylbewerber in Wuppertal" (VO/0516/16) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag der Nachbarschaftsinitiative zur Reduzierung von unerwünschten Graffitis an Häuserfassaden in Oberbarmen-Wichlinghausen vom 15.04.2016
+- TOP 3.2: Bürgerantrag zum Setzen von Pfosten in der Hahnerberger Str. 15 zur Vermeidung des Gehwegparkens
+- TOP 3.3: Bürgerantrag zur Änderung der Hauptsatzung der Stadt Wuppertal
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Großveranstaltungen und Stadtteilfeste in Wuppertal weiterhin ermöglichen - zurückgezogen
+- TOP 4.1.1: Genehmigung von Großveranstaltungen (Ergänzung) - Entgegennahme ohne Beschluss
+- TOP 4.2: Resolution – Abschaffung des Tariftreue- und Vergabegesetzes NRW - vertagen
+- TOP 4.3: Resolution: Dank an ALLE Verwaltungsmitarbeiter*innen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.4: Geflüchtete aus den Lagern in Griechenland nach Wuppertal holen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.4.1: Gemeinsame Erklärung / Antrag zur Tagesordnung zur aktuellen Flüchtlingsmigration - ungeändert beschlossen
+- TOP 4.5: Abgesetzt. Vorberatung im Kulturausschuss nicht abgeschlossen. Kulturentwicklungsplan für Wuppertal 2025 - Kultur nachhaltig entwickeln und zukunftsfähig machen - abgesetzt
+- TOP 4.6: Klageverzicht gegen die Stadt Remscheid in Sachen "Designer Outlet Center" - abgelehnt
+- TOP 4.7: Mehr Frauen in Führungspositionen - abgelehnt
+- TOP 4.8: Wartechaos am Steinweg beseitigen - Vollständige Wiederöffnung der Bürgerbüros - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.8.1: Änderungsantrag zum Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - Drucksachennummer VO/0522/16 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.8.2: Gemeinsamer Antrag - Einwohnermeldeamt und Straßenverkehrsamt kurz-, mittel- und langfristig optimieren. - geändert beschlossen
+- TOP 4.8.3: Einwohnermeldeamt - Ergänzungsantrag zur Vorlage 0540/16 TOP 4.8.2 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.9: Auflösung des Dezernates für Bürgerbeteiligung - zurückgezogen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Vorberatung nicht abgeschlossen. Änderung der Hauptsatzung der Stadt Wuppertal - abgesetzt
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Änderungen zum Einsatz der Mittel des Bundesinvestitionsprogramms - ungeändert beschlossen
+- TOP 7.2: Wiederbereitstellung von Finanzmitteln für Baudurchführungen - Verstärkung Brücke Ohligsmühle - ungeändert beschlossen
+- TOP 7.3: Begleitbeschluss zum Haushaltsplan 2016/2017 und zur Fortschreibung des Haushaltssanierungsplanes für das Jahr 2016 - ungeändert beschlossen
+- TOP 7.3.1: Änderungsantrag zur Verwaltungsdrucksache VO/0389/16 - abgelehnt
+- TOP 7.3.2: Änderungsantrag zur Verwaltungsdrucksache VO/0389/16 - abgelehnt
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2015 der Jobcenter Wuppertal Anstalt öffentlichen Rechts (AöR) - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2015 der Wirtschaftsförderung Wuppertal (WiFö) Anstalt öffentlichen Rechts (AöR) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2015 der Wuppertaler Stadtwerke (WSW) Energie & Wasser AG - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2015 der Wuppertaler Stadtwerke (WSW) mobil GmbH - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss und Konzernabschluss 2015 der Wuppertaler Stadtwerke (WSW) GmbH - ungeändert beschlossen
+- TOP 8.6: Wahrnehmung von Gesellschafterrechten bei den Wuppertaler Stadtwerken (WSW) mobil: Jahresabschlüsse 2015 der Verkehrs-Service GmbH (VSG) und der Gesellschaft für kommunale Entsorgungsdienstleistungen mbH (GKE) - ungeändert beschlossen
+- TOP 8.7: Wahrnehmung von Gesellschafterrechten bei den Wuppertaler Stadtwerken GmbH (WSW): Jahresabschlüsse 2015 des Gemeinschaftswerkes Hattingen GmbH (GWH) und BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 8.8: Bestellung und Abberufung des Betriebsleiters des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.9: Bestellung eines Wirtschaftsprüfers für das Geschäftsjahr 2016 der Abfallwirtschaftsgesellschaft mbH Wuppertal (AWG) - ungeändert beschlossen
+- TOP 8.10: Übernahme der Grundstücke und Gebäude des Zoologischen Gartens in das Sondervermögen des Gebäudemanagements - ungeändert beschlossen
+- TOP 8.11: Abberufung und Bestellung eines Geschäftsführungsmitglieds des Gemeinschaftswerkes Hattingen GmbH (GWH) - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1200 - Vogelsangstraße / Vogelsangbach - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 634 - Funckstraße - - geändert beschlossen
+- TOP 9.3: Bebauungsplan 366 - Mühle - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1208 - Berliner Straße / Rauer Werth - Anordnung einer Veränderungssperre - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1207 - Westring- 1. Verlängerung der Veränderungssperre - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1206 - Carnaper Straße / Hatzfelder Straße- 1. Verlängerung der Veränderungssperre - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1222 - Monschaustraße 10- Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.8: Satzung über die Festsetzung des Anteils der Beitragspflichtigen am beitragsfähigen Aufwand für Baumaßnahmen an der Straße Stockmannsmühle - Einzelsatzung Stockmannsmühle - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Umbau der Hauptschule Nocken im Schulzentrum West für die Grundschule Yorckstraße - ungeändert beschlossen
+- TOP 10.2: Neubau einer Tageseinrichtung für Kinder in der Uellendahler Straße 400 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Förderung des Mehrgenerationenhauses Ostersbaum - ungeändert beschlossen
+- TOP 11.2: Umwandlung des Wilhelm-Dörpfeld-Gymnasiums zu einem gebundenen Ganztagsgymnasium - ungeändert beschlossen
+- TOP 11.3: Förderschule Lernen Ost - Erweiterung des bestehenden Förderschwerpunkts Lernen um die Förderschwerpunkte emotionale und soziale Entwicklung und Sprache - ungeändert beschlossen
+- TOP 11.4: Förderschule Wuppertal West - Erweiterung des bestehenden Förderschwerpunkts Lernen um die Förderschwerpunkte emotionale und soziale Entwicklung und Sprache - ungeändert beschlossen
+- TOP 11.5: Digitaler Gremiendienst in den Bezirksvertretungen - Durchführungsbeschluss - ungeändert beschlossen
+- TOP 11.6: Abgesetzt. Vorberatung nicht abgeschlossen. Fortschreibung des Einzelhandels- und Zentrenkonzeptes für den Zentralen Versorgungsbereich von Elberfeld - abgesetzt
+- TOP 11.6.1: Abgesetzt. Vorberatung nicht abgeschlossen. Ergänzungsantrag zur Fortschreibung des Einzelhandels- und Zentrenkonzeptes für den Zentralen Versorgungsbereich von Elberfeld - abgesetzt
+- TOP 11.7: Auswahlverfahren für Veranstalter von Weihnachtsmärkten - Entgegennahme ohne Beschluss
+- TOP 11.8: Abgesetzt. Vorberatung nicht abgeschlossen. Städtebauliche Entwicklungsperspektive Döppersberg und Innenstadt Elberfeld - abgesetzt
+- TOP 11.9: Bildung eines Teilstandortes für die Hauptschule Barmen-Südwest am Standort Dieckerhoffstr. 6 zur Alternativbeschulung von Jugendlichen - ungeändert beschlossen
+- TOP 11.10: Anpassung der Zuwendung für die Durchführung außerunterrichtlicher Angebote an offenen Ganztagsschulen zum 01.08.2016 - ungeändert beschlossen
+- TOP 11.11: Errichtung einer Notfallsanitäterschule - ungeändert beschlossen
+- TOP 11.12: Abgesetzt. Vorberatung nicht abgeschlossen. 2. Aktionsplan zur Gleichstellung von Frauen und Männern, 2016 - 2018 - abgesetzt
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bildung der Kreiswahlausschüsse für die Landtagswahl am 14.05.2017 (nur Rat) - geändert beschlossen
+- TOP 12.2: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.3: Wahl der/des Vorsitzenden des Verwaltungsrates der Stadtsparkasse Wuppertal (nur Rat) - geändert beschlossen
+- TOP 12.4: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.5: Leitlinien für Bürgerbeteiligung - Erweiterung der Arbeitsgruppe - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennung - ungeändert beschlossen
