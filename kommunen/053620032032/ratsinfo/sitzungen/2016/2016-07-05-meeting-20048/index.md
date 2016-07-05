@@ -1,0 +1,57 @@
+# Stadtrat (16. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-07-05T17:01:00+02:00
+- Ende: 2016-07-05T19:35:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWXY0_jKWOQrpYBu2BPUFyk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20048
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfMl7OMZScIs7fzAqoh05lxwQeMiptPd8RxhzEYirs-D/Bekanntmachung_Stadtrat_05.07.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQIvOnU6SMWUg39cccGgsTJKs28Txg9zbHnZUSYk3U8x/Oeffentliche_Niederschrift_Stadtrat_05.07.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Dauerhafte Wohnstandorte für die Unterbringung von Flüchtlingen - (kein Text vorhanden)
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung von Ausschüssen hier: Antrag der SPD-Fraktion
+- TOP 3.2: hier: Antrag der FDP-Fraktion
+- TOP 3.3: hier: Antrag der Fraktion Die Linke
+- TOP 3.4: hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 3.5: hier: Antrag des Rheinischen Landwirtschafts-Verband e.V.
+- TOP 4.: Änderung der Geschäftsordnung des Rates: Schluss der Debatte; hier: Antrag der SPD-Fraktion
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Grundsatzbeschluss zum Einzelhandels- und Zentrenkonzept der Kolpingstadt Kerpen
+- TOP 5.2: Bebauungsplan BL 297 "Haagstraße", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB
+- TOP 5.3: Abschluss einer städtebaulichen Planungsvereinbarung für den Bereich des Bebauungsplanes BL Nr. 297 "Haagstraße" - (kein Text vorhanden)
+- TOP 5.4: 76. Änderung des Flächennutzungsplanes "RAA-Anlage Haus Forst" im Stadtteil Kerpen Manheim hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.5: Bebauungsplan MA 360 "RAA-Anlage Haus Forst" im Stadtteil Kerpen Manheim hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.6: Abschluss einer städtebaulichen Planungsvereinbarung mit der Fa. REMEX Mineralstoff GmbH im Rahmen des BP MA Nr. 360 "RAA-Anlage Haus Forst" - (kein Text vorhanden)
+- TOP 5.7: 75. Änderung des Flächennutzungsplanes "Sondergebiet Nahversorgungszentrum/zentraler Versorgungsbereich Brüggen – Heerstraße“, Stadtteil Brüggen hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 5.8: Bebauungsplan TÜ 356 "Eifelstraße/Heerstraße", Stadtteil Brüggen Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 6.: Einstellung der Braunkohle-Kraftwerksplanung BoAplus in Bergheim-Niederaußem; hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 7.: Ausschreibung der Stromlieferung für die städtischen Objekte hier: Festlegung der Beschaffenheit
+- TOP 7 a: Erstellung eines Masterplans hier: Aufhebung des Sperrvermerks
+- TOP 8.: Energiepartner Kerpen GmbH; hier: Bericht des Geschäftsführers und Ausblick auf das Projekt E-Mobilität
+- TOP 9.: Sponsoringbericht 2015
+- TOP 10.: Kerpens Standpunkte gegen Gewalt - (kein Text vorhanden)
+- TOP 11.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Mitteilungen
+- TOP 13.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Bestellung zum Amtsleiter 16 "Planen, Bauen und Umweltschutz"
+- TOP 15.2: Versetzung einer Beamtin in den Ruhestand
+- TOP 15.3: Ernennung einer Stadtoberverwaltungsrätin zur Stadtverwaltungsdirektorin - (kein Text vorhanden)
+- TOP 15.4: Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor - (kein Text vorhanden)
+- TOP 15 a: Aufhebung der Vergabe "Erweiterung der Kita Hummelburg um eine U3 Gruppe - Einrichtung eines Anbaus mit Gruppenraum, Nebenraum, Ruheraum, Sanitärraum und Abstellraum"
+- TOP 16.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 17.: Mitteilungen
+- TOP 18.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 20.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
