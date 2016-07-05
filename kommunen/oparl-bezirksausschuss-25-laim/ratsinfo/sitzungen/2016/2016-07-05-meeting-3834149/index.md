@@ -1,0 +1,64 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-07-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834149
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834149
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Verkehrsrechtliche Anordnung zur Verhinderung von dauerhaftem Parken von LKW`s in der Fürstenrieder Str. 57 - 61
+- TOP 1.2.2.: Verschmutzte und verwilderte Grünfläche in der Straubinger Straße
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Initiative Buchproduktion Buchprduktion: "Dr. Ernst Rehm und die Kuranstalt Neufriedenheim in Laim" (vertagt aus der BA-Sitzung vom 07.06.16) - <div>vertagt</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 30.05.16: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten (Antrag des BA 6 Sendling Nr. 14-20 / B 02164 vom 07.03.16)
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 02.06.16: Flohmarkt der Kindertagesstätte Drachenei e.V. am 10.09.16 (Ersatztermin 15.10.16) auf dem Hogenbergplatz
+- TOP 4.3.: Schreiben Direktorium vom 08.06.16: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen (Antrag des BA 16 Ramersdorf-Perlach Nr. 14-20 / B 01309 vom 18.06.15)
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 13.06.16: Weißenfelderplatz; Kindergarten-Flohmarkt Die Bärchen e.V. am 11.09.16 (Ausweichtermin 18.09.16)
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 14.06.16: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Geßlerstr. 21
+- TOP 4.6.: Schreiben Direktorium vom 16.06.16: Aktionsplan UN-Behindertenrechtskonvention; Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 15.06.2016: Kermes Kulturfest; neues Veranstaltungsdatum 10.07. und 11.07.16 sowie neuer Aufbauplan mit Hüpfburg
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 160 - 162: Neubau eines Hotels mit Tiefgarage; Baupläne und Freiflächengestaltungsplan
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Bildung und Sport vom 13.06.16: Einladung zur Gesprächsrunde "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" - Stadtbezirke 8, 9 und 25 - am 13.07.16 um 16:00 Uhr im Referat für Bildung und Sport, Bayerstraße 28, Raum 5.074
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 07.06.16
+- TOP 8: Umlauf
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Schreiben Baureferat vom 19.05.16: Regelmäßige gründliche Reinigung im Umfeld des Laimer Bahnhofes (Antrag des BA 25 Nr. 14-20 / B 02224 vom 05.04.16)
+- TOP 8.3.: Schreiben Referat für Gesundheit und Umwelt vom 02.06.16: Ausnahmezulassung gemäß § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung (32. BImSChV) für mechanische Instandhaltung Fahrweg Tram; nächtliche Arbeiten an den Straßenbahngleisen in der Landsberger Straße zwischen Barth- und Lautensackstraße vom 12.06. bis 17.06.16 sowie von der Lautensackstraße über die Agnes-Bernauer-Straße bis in die Siglstraße im Zeitraum vom 19.06. bis 24.06.16
+- TOP 8.4.: Schreiben Referat für Gesundheit und Umwelt vom 17.06.16: Ausnahmezulassung gemäß § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung (32. BImSChV) für Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn; nächtliche Arbeiten an der Abzweigung Siglstr./Agnes-Bernauer-Str. ab ca. 25. Kalenderwoche
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 16.06.16: Veranstaltung im Bauzentrum München am 07.07.16 von 15:30 bis 17:40 Uhr: gesunde Raumluft bauen - Schadstoffmanagement in Gebäuden
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 31.05.16: Ofener Str. 22 und Ofener Str. 2 ggü. (Sammelstandplatz AWM): Verkehrsrechtliche Erlaubnis zur Aufstellung eines Autokrans und zur Materiallagerung im Zeitraum vom 04.07. bis 12.08.16
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 17.05.16: Unveränderte Fortführung der Schank- und Speisewirtschaft "Trattoria Lindengarten", Agnes-Bernauer-Str. 115
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 13.06.16: Maßnahmen zur Entspannung der Parksituation vor dem Gebäude Landsberger Str. 270-280 (Antrag des BA 25 Nr. 14-20 / B 01675 vom 06.10.15)
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.06.16: Vollzug Baumschutzverordnung; Schifferlstraße 9; Stellungnahme zum BA-Beschluss vom 07.06.16
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.06.16: Queristr. 12, Neubau eines Dreifamilienhauses mit Duplexgarage und Carport; Stellungnahme zum BA-Beschluss vom 05.04.16
+- TOP 8.11.: Bautenliste vom 23.05. bis 29.05.16: 1. Erstantragsverfahren a) Landsberger Str. 214 b) Reutterstr. 20
+- TOP 8.12.: Bautenliste vom 30.05. bis 05.06.16: 1. Erstantragsverfahren a) Hogenbergstr. 3 b) Gotthardstr. 4 c) Friedenheimer Str. 68 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Reindlstr. 2
+- TOP 8.13.: Bautenliste vom 06.06. bis 12.06.16: 1. Erstantragsverfahren a) Hönlestr. 30 b) Fürstenrieder Str. 50 c) Elsenheimerstr. 6 d) Stöberlstr. 38
+- TOP 8.14.: Bautenliste vom 13.06. bis 19.06.16: 1. Erstantragsverfahren a) Ludwig-Richter-Str. 24 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Valpichlerstr. 109 b) Landsberger Str. 191 c) Senftenauerstr. 124 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Landsberger Str. 160
+- TOP 8.15.: Schreiben Sozialreferat vom 13.06.16: Unterkunft für Flüchtlinge in der Zschokkestraße; Präsentation zur Info-Veranstaltung am 16.06.16
+- TOP 8.16.: Schreiben Sozialreferat vom 20.06.16: Unterbringung unbegleiteter minderjähriger Flüchtlinge; Wochenbericht für die 24. Kalenderwoche
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 30.05.16: Baumaßnahmen der Stadtwerke; Stichtage 23.05. - 27.05.16
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 06.06.16: Baumaßnahmen der Stadtwerke; Stichtage 30.05. - 03.06.16
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 13.06.16: Baumaßnahmen der Stadtwerke; Stichtage 06.06. - 10.06.16
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 20.06.16: Baumaßnahmen der Stadtwerke; Stichtage 13.06. - 17.06.16
+- TOP 8.21.: Schreiben der Stadtwerke München GmbH vom 09.06.16: Baumaßnahmen der SWM; Stromprojekt Agircolastraße
+- TOP 8.22.: Beschluss der Vollversammlung des Stadtrates vom 15.06.16: Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) (Sitzungsvorlage Nr. 14-20 / V 04822)
+- TOP 8.23.: Bekanntgabe im Bildungsausschuss vom 29.06.16: KITA-Jahresstatistik 2015, Onlinebefragung (Sitzungsvorlage Nr. 14-20 / V 05890)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.16: Barrierefreie Querungen im Fuß- und Radverkehr; Priorisierung bestehender und geplanter Querungsbauwerke (Sitzungsvorlage Nr. 14-20 / V 01203)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.16: Stellplatzschlüssel im Wohnungsbau (Sitzungsvorlage Nr. 08-14 / V 13593
+- TOP 8.26.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.06.16: Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität (Sitzungsvorlage Nr. 14-20 / V 06199)
+- TOP 8.27.: Schreiben BA 12 Schwabing-Freimann vom 10.06.16: Neupflanzungen von Bäumen und Sträuchern im Stadtgebiet (Antrag des BA 12 Nr. 14-20 / B 02448 vom 06.06.16)
+- TOP 3: (E) Lichtzeichenanlage am Stegener Weg aus Gründen der Schulwegsicherheit (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00782 der Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.2015 - <div>Abweichung von Referentenvorl.</div>
+- TOP 1.2: Bürgerpost an den BA
