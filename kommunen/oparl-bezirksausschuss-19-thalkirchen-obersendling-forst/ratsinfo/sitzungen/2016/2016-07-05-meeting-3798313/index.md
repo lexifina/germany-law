@@ -1,0 +1,55 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-07-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798313
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798313
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 07.06.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Terminplanung 2017
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Feuerwerk auf Privatgrund: Sommerfest Forst-Kasten-Allee am 23.07.16
+- TOP 4.4.: (U) Mobilfunkanlagen
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Stand der Ergebnisse
+- TOP 5.3.: (A) Abbau Lichtsignalanlage: Königswieser Str./ Allgäuer Str.
+- TOP 5.4.: (A) Austausch Lichtsignalanlage: Ratzingerplatz
+- TOP 5.5.: (Antrag) Sanierung des Fußwegs am Schmiedberg
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Satzungsänderung: Erstellung von städtebaulichen Rahmenplänen
+- TOP 6.4.: (A) Bauleitplanung Gemeinde Neuried: ?Gartencenter westlich der Parkstraße?
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: (Antrag) Rundbank am Schweizer Platz
+- TOP 7.3.: (A) Aktionsplan UN-Behindertenrechtskonvention
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.2.: (A) Erläuterungsschild zur Erinnerung an NS-Verfolgte und Widerstandskämpfer am Franziska-Reindl-Platz
+- TOP 8.3.: (A) MTB-Kurs für Einsteiger*Innen auf der Dirtbikeanlage am 09.08. und 12.08.16
+- TOP 8.4.: (A) 26. Internationales Isarschwimmen 2016 am 17.09.16
+- TOP 8.5.: (A) Vermietung stadteigenes Grundstück: Aidenbachstr./ Boschetsrieder Str.
+- TOP 0: Bericht (6)
+- TOP 9: Verschiedenes
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Condrobs e.V. Beschaffung von Ausstattung für pädagogisch betreutes Boxtraining für jugendliche Flüchtlinge
+- TOP 0.7.: Sitzgelegenheit Bushaltestelle Josephinenstraße - <div></div>
+- TOP 8.1.: Antwortschreiben, Unterrichtungen
