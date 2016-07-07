@@ -1,0 +1,7 @@
+# TOP 8: Sonstiges
+
+- Sitzung: 51. (öffentliche) Sitzung des Ausschusses für Weiterbildung und Kultur Achtung: kurzfristige Raumverlegung in den Raum 118 bitte beachten (2016-07-07)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=41311
+- Ergebnis: gegenstandslos
