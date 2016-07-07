@@ -1,0 +1,102 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-07-07T18:00:00+02:00
+- Ende: 2016-07-07T19:00:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1474
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1474
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Erftstrand Apfelwiese - einstimmig
+- TOP 2.1.2: Nutzung der Flüchtlingszelte am Hagelkreuz - einstimmig
+- TOP 2.1.3: Grundstücke Ecke Merkatorstr. / Rheydter Str. - einstimmig
+- TOP 2.1.4: Zukunftssicherung GOT - einstimmig
+- TOP 2.2: SPD
+- TOP 2.3: UWG
+- TOP 2.3.1: Sportstätten in Grevenbroich - einstimmig
+- TOP 2.3.2: Mangelhafte Baumaßnahmen der Deutschen Glasfaser in Kapellen - einstimmig
+- TOP 2.3.3: Europa bei uns - einstimmig
+- TOP 2.4: FDP
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.5.1: Open Government - Transparente Veröffentlichung von Daten durch die Stadtverwaltung zur Verbesserung - einstimmig
+- TOP 2.6: ABG
+- TOP 2.6.1: Senkung der Beiträge nach § 8 KAG (Antrag Nr. 191/16) - einstimmig
+- TOP 2.6.2: Ausschussumbesetzung - einstimmig
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.7.1: Beseitigung des Unkrauts auf den Verkehrsinseln im Stadtgebiet, schlechter Pflegezustand des öffentl - einstimmig
+- TOP 2.7.2: Nachhaltige Lösung und Beseitigung des Wildwuchses im Bereich des Parkplatzes und der Fahrradständer - einstimmig
+- TOP 2.7.3: Aufenthalts- und Beratungseinrichtung für Personen aus Alkohol- und Drogen konsumierenden Straßensze - einstimmig
+- TOP 2.8: Die Linke/Piraten
+- TOP 2.9: FBG
+- TOP 2.10: Gemeinschaftsanträge
+- TOP 2.10.1: Vertretung des Stadtsportverbandes Grevenbroich im JHA und im Sport- und BäderA - einstimmig
+- TOP 2.11: Weitere Anträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Schlossbad - archäologische Ausgrabungen - Kenntnisnahme
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Leitbild Grevenbroich 2030 - einstimmig
+- TOP 7: Ersatzbenennung Erftverband - Kenntnisnahme
+- TOP 8: Städtepartnerschaft mit der Gemeinde Peel en Maas/Kessel - einstimmig
+- TOP 9: Wiederwahl einer Schiedsperson - einstimmig
+- TOP 10: Beratungspunkte Ausschüsse PlanA
+- TOP 10.1: 19 FNP Änd. Aufh. Fest.beschl.+ ern.Beschl.§6 - einstimmig
+- TOP 10.2: Aufst.+Ausl.1.Änd.W 46- 13a Verf. - einstimmig
+- TOP 10.3: Aufst.G 213 Satz.beschl+städtebaul.Vertrag - einstimmig
+- TOP 11: JHA 9.6.16
+- TOP 11.1: Umsetzung „Onlinesystem Frühe Hilfen“ - einstimmig
+- TOP 12: UmweltA
+- TOP 12.1: Friedhofsgebührensatzung - mehrheitlich bei
+- TOP 12.2: 4. Änderung der Friedhofssatzung - einstimmig
+- TOP 13: BauA 23.06.
+- TOP 13.1: Teileinziehung Steinweg und Oelgasse Antrag 60/16 - Kenntnisnahme
+- TOP 14: Beratung RechnungspA
+- TOP 14.1: Feststellung des Jahresabschlusses 2014 und abschließende Beschlussfassung - einstimmig
+- TOP 14.2: Bestätigung des Gesamtabschlusses 2010 und abschließende Beschlussfassung - einstimmig
+- TOP 15: Beantwortung Anträge
+- TOP 15.1: Quecksilber (Antrag Nr. 3/2016) - einstimmig
+- TOP 15.2: Immobilien "Auf der Schanze 86 und 88" (Antrag Nr. 51/16) - einstimmig
+- TOP 15.3: Straßenschilder auf der Energiestraße (Antrag Nr. 163/16) - einstimmig
+- TOP 15.4: Demografiebericht Grevenbroich (Anfrage Nr. 180/16) - einstimmig
+- TOP 15.5: Sammelbeantwortung - einstimmig
+- TOP 16: Beantwortung Anfragen
+- TOP 16.1: Umsetzung Anti-Müll-Konzept (Anfrage Nr. 54/16) - einstimmig
+- TOP 16.2: Unterstützung der Klage der Städteregion Aachen - einstimmig
+- TOP 16.3: Sitzbänke Marktplatz (Anfrage Nr. 132/2016) - einstimmig
+- TOP 17: mündliche Anträge/Anfragen
+- TOP 17.1: Absperrmaßnahmen Fußgängerzone (Antrag Nr. 208/16)
+- TOP 17.2: Radweg Hemmerdener Weg (Antrag Nr. 209/16)
+- TOP 17.3: Straßenmängel Hofbuschweg (Höhe Hausnr. 7) (Antrag Nr. 210/16)
+- TOP 17.4: Rasenschnitt Waldwiese (Antrag Nr. 211/16)
+- TOP 17.5: Grünschnitt Äuelsbergstr. Neurath (Antrag Nr. 225/16)
+- TOP 17.6: Spielstraße Josef-Lützenkirchen-Str. (Antrag Nr. 212/16)
+- TOP 17.7: Vergnügungssteuer (Anfrage Nr. 213/16)
+- TOP 17.8: "Gute Schule 4.0" (Antrag Nr. 214/16)
+- TOP 17.9: Beseitigung von Unkraut auf der Gilverather Straße (Antrag Nr. 215/16)
+- TOP 17.10: Parkverbot Parkplatz Friedensstraße zum Schützenfest (Anfrage Nr. 216/16)
+- TOP 17.11: Abholung Sperrmüll (Antrag Nr. 217/16)
+- TOP 17.12: Sitzbänke Haus Hartmann und am Rondell des alten Schlosses (Antrag Nr. 218/16)
+- TOP 17.13: Straßenschäden Viehstraße (Antrag Nr. 219/16)
+- TOP 17.14: Mauer an der Grundschule Kapellen (Antrag Nr. 220/16)
+- TOP 17.15: Straßenüberprüfungen in Kapellen (Antrag Nr. 221/16)
+- TOP 17.16: Kolumbarium (Anfrage Nr. 222/16)
+- TOP 17.17: Fahrradweg Richard-Wagner-Str. (Antrag Nr. 223/16)
+- TOP 17.18: Straßenschäden Calvinerbuschstr. und Am Jägerhof (Antrag Nr. 224/16)
+- TOP 18: Mitteilungen BM
