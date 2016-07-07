@@ -1,0 +1,54 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2016-07-07T17:00:00+02:00
+- Ende: 2016-07-07T19:50:00+02:00
+- Ort: Grundschule Rahden, Schulstraße 2, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZa1rTqQkaxX1Nz2O-RiDPc
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1572
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT05LHDDU621H6HARfogGK53v7Yw3am-nmY87BvKpGOL/Bekanntmachung_Rat_07.07.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe6hgggNn-0aVslZjmddIbhLt4sTRdrd16oBqKrOD7pB/Oeffentliche_Niederschrift_Rat_07.07.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Breitband-Masterplan für den Kreis Minden-Lübbecke; hier: a) Vorstellung der Ergebnisse b) Umsetzung des weiteren Breitbandausbaus - Einstimmig, 0 Enthaltungen
+- TOP 5.: Zukünftige Förderung der dörflichen Entwicklung / Dorferneuerung - 31 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 6.: Aufstellung des Bebauungsplanes Nr. 90 "Gewerbegebiet Pr. Ströhen -B239-" sowie 78. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 78. Änderung des Flächennutzungsplanes - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 7.: 11. vereinfachte Änderung des Bebauungsplanes Nr. 34 "Mühlendamm" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 8.: 7. vereinfachte Änderung des Bebauungsplanes Nr. 15 "Gewerbegebiet Ost" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: Antrag der FWG Rahden e.V. auf Bau eines Rundweges um den Teich am Museumshof
+- TOP 10.: Erfassung von Alttextilien im Kreis Minden-Lübbecke - 29 Stimmen dafür, 0 dagegen, 3 Enthaltungen
+- TOP 11.: Ersatzwahlen zu Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 12.: Sparkassenangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 13.: Neuregelung zur Umsatzbesteuerung von Leistungen juristischer Personen des öffentli-chen Rechtes hier: Optionserklärung der Kommunen
+- TOP 14.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2016
+- TOP 15.: Bekanntgaben
+- TOP 15.1: Wanderungssaldo Stadt Rahden
+- TOP 15.2: Bekanntgabe zum Protokoll der letzten Ratssitzung am 12.05.2016
+- TOP 16.: Verschiedenes
+- TOP 16.1: ADAC-Rallye Stemweder Berg - 24./25.06.2016
+- TOP 16.2: Rathausumbau
+- TOP 16.3: Friedhofsgestaltung
+- TOP 16.4: Vorstellung Mitarbeiterin Stadtmarketing und Wirtschaftsförderung
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 17.: Neuabschluss des Konzessionsvertrages Strom in der Stadt Rahden
+- TOP 18.: Neuabschluss des Konzessionsvertrages Strom in der Stadt Rahden - 28 Stimmen dafür, 4 dagegen, 0 Enthaltungen
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.1: Anerkennung von Ausbildungszeiten als ruhegehaltfähige Dienstzeiten - Einstimmig, 0 Enthaltungen
+- TOP 19.2: Frauenförderplan der Stadt Rahden
+- TOP 19.3: Gleichstellungs- und Familienbeauftragte der Stadt Rahden
+- TOP 20.: Grundstücksangelegenheiten
+- TOP 20.1: Grundstücksangelegenheiten - 23 Stimmen dafür, 9 dagegen, 0 Enthaltungen
+- TOP 20.2: Grunderwerb für das Gesundheitszentrum am Krankenhaus - Einstimmig, 0 Enthaltungen
+- TOP 20.3: Unbebaute Gewerbefläche im Gewerbegebiet Ost - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bekanntgaben
+- TOP 22.: Verschiedenes
+- TOP 22.1: Stadtfest Rahden 2017
+- TOP 22.2: Grundschule Varl - Besetzung der Hausmeisterstelle
