@@ -1,0 +1,78 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-07-07T13:00:00+02:00
+- Ende: 2016-07-07T19:32:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11776
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11776
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270888.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270888.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00270888.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wahl einer/eines Beigeordneten - einstimmig beschlossen
+- TOP 4: Anfrage aktuell Rh Grenda: Tourstart 2016 - Vertrag mit ASU - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der FDP-Ratsfraktion: Externe Vermietungsverhältnisse - beantwortet
+- TOP 5.2: Anfrage Tierschutzpartei-Freie Wähler: Überstundensituation der Düsseldorfer Feuerwehrleute und Verä - beantwortet
+- TOP 5.3: Anfrage FDP: Städtische Elektroautos nach Feierabend nutzen - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion DIE LINKE: Bürgeranleihen - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion DIE LINKE: Auswirkungen von CETA auf Düsseldorf - beantwortet
+- TOP 5.6: Anfrage der CDU-Ratsfraktion: Sicherheit beim Japan-Tag - beantwortet
+- TOP 5.7: Anfrage der CDU-Ratsfraktion: Verwaltung 2020 - schriftlich beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Gutt: Budgethilfe zur Finanzierung des Grand Départ 2017 - schriftlich beantwortet
+- TOP 5.9: Anfrage Rh Maniera: Vorfälle in Unterkünften für Asylanten und Flüchtlinge - schriftlich beantwortet
+- TOP 5.10: Anfrage Rh Lehne: Ruhestörungen rund um Flüchtlingsunterkünfte? - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfraktion von BÜ90/GRÜ: Kunstkommission - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 9: Finanzierung Grand Départ Düsseldorf 2017 - mehrheitlich beschlossen
+- TOP 10: Übertragene Ermächtigungen von 2015 nach 2016 - einstimmig beschlossen
+- TOP 11: Bericht der Gemeindeprüfungsanstalt NRW Überörtliche Prüfung Gesamtabschluss und Beteiligungen der S - zur Kenntnis genommen
+- TOP 12: Jahresabschluss 2014 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 13: Jahresabschluss 2015 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 14: Erstellung eines Gesamtkonzeptes zum Verwaltungsstandort Technischer Rathauskomplex (TVG I - V) Auf' - mehrheitlich beschlossen
+- TOP 15: Marktplatz 5-6, Verwaltungsgebäude, Gesamtsanierung - Bedarfsbeschluss - mehrheitlich beschlossen
+- TOP 15.1: ÄA CDU : Marktplatz 5 - 6, Verwaltungsgebäude, Gesamtsanierung - mehrheitlich abgelehnt
+- TOP 16: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 16.1: EA CDU: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung, hier: Gru - mehrheitlich abgelehnt
+- TOP 17: Projekt Verwaltung 2020 - mehrheitlich beschlossen
+- TOP 18: Stadtweite Einführung des Konzeptes Nette Toilette - Beschluss - - einstimmig beschlossen
+- TOP 19: Wohnprojekte für "Junges Wohnen in Düsseldorf" - Errichtung eines Auszubildendenwohnheims - Gründung - einstimmig beschlossen
+- TOP 20: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf - zur Kenntnis genommen
+- TOP 21: Düsseldorfer Innovations- und Wissenschaftsagentur GmbH (DIWA); Liquidation - Beschluss - - mehrheitlich beschlossen
+- TOP 22: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2015 - zur Kenntnis genommen
+- TOP 23: Antrag der Flughafen GmbH auf Erteilung eines Planfeststellungsbeschlusses - gesamtstädtische Stellu - mehrheitlich beschlossen
+- TOP 23.1: ÄA Bü90-Grü: Planfeststellungsverfahren „Kapazitätserweiterung Flughafen Düsseldorf - mehrheitlich abgelehnt
+- TOP 24: Namensänderung der Gesamtschule Lindenstraße - einstimmig beschlossen
+- TOP 25: Genehmigung 60er: Mehrkosten beim Abbruch von zwei Werkshallen auf ehemaligem Glashüttengelände - einstimmig beschlossen
+- TOP 26: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landesha - einstimmig beschlossen
+- TOP 27: Aufsichtsrat der SWW - zur Kenntnis genommen
+- TOP 28: Ausschuss für anzeigepflichtige Entlassungen bei der Agentur für Arbeit Düsseldorf - mehrheitlich beschlossen
+- TOP 29: Abberufung von zwei Prüferinnen und Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 30: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 31: Rahmenplan Einzelhandel 2015 (Vorentwurf) Stellungnahmen, Änderungen - zur Kenntnis genommen
+- TOP 32: B-Plan Nr. 03/001 Oberbilker Allee / Ringelsweide - mehrheitlich beschlossen
+- TOP 33: BPlan 05/004 "An der Buschgasse - einstimmig abgelehnt
+- TOP 34: Anträge
+- TOP 34.1: Antrag Die Linke: Kein Empfang und keine Unterstützung für den Schiesswettbewerb der Bundeswehr - mehrheitlich abgelehnt
+- TOP 34.2: Antrag Die Linke: Forderungen des Gesamtpersonalrates zu Verwaltungsumbau 2020 umsetzen" - mehrheitlich abgelehnt
+- TOP 34.3: Antrag Die Linke: Informationen zu TTIP, CETA und TiSA im Stadtrat - zurückgezogen
+- TOP 34.4: Antrag der CDU-Ratsfraktion: Runder Tisch zur Zukunft von Gut Niederheid - mehrheitlich abgelehnt
+- TOP 34.5: Antrag der CDU-Ratsfraktion: Düsseldorfer Radschläger -Tradition und Moderne - zur Kenntnis genommen
+- TOP 34.6: Antrag SPD, BÜ90-GRÜ: Partizipation von Kindern und Jugendlichen bei Bürgerbeteiligungsverfahren - zur Kenntnis genommen
+- TOP 34.7: Antrag CDU: Sichere Unterbringung von geflüchteten Christen - zur Kenntnis genommen
+- TOP 34.8: Antrag FDP: Brexit nutzen - Unternehmen in Düsseldorf ansiedeln
+- TOP 34.8.1: ÄA CDU: Brexit nutzen – Unternehmen in Düsseldorf ansiedeln
+- TOP 34.8.1.1: ÄA BÜ90-GRÜ: Brexit nutzen - Unternehmen in Düsseldorf ansiedeln
+- TOP 34.9: Antrag CDU, SPD, BÜ90/GRÜ und FDP:2030 Agenda des Rates der Gemeinden und Regionen Europas
+- TOP 35: Bestellung eines stellvertretenden Vorsitzenden des Gutachterausschusses für Grundstückswerte in der - einstimmig beschlossen
+- TOP 36: Änderung des Verfahrens zur Besetzung von Schulleitungsstellen - einstimmig beschlossen
