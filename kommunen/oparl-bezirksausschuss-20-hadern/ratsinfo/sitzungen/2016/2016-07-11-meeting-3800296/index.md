@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800296
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800296
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Beleuchtung für den Durchgang von der Haseneystraße zum Parkplatz des Klinikums Großhadern
+- TOP 1.2.: Entschärfung der unfallträchtigen Einmündung der Zinkgrafstraße in die Würm- talstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Soziales und Kultur
+- TOP 3.2.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Weiterführung der U5 nach Pasing/Freiham; Offenhalten eines Abzweigers mit vorläufiger Endhaltestelle Blumenau (Fraktion Die Grünen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Aktionsplan UN-Behindertenrechtskonvention Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung (Direktorium, 16.06.16)
+- TOP 6.2.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Neuried, Bebauungsplan Nr. 46 "Gartencenter Ries" (Referat für Stadtplanung und Bauordnung, 15.06.16)
+- TOP 6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes Am Hedernfeld 17 (Kreisverwaltungsreferat, 13.06.16)
+- TOP 6.4.: Änderung der BA-Satzung: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen, Antrag BA 16 - Ramersdorf-Perlach (Direktorium, 08.06.16)
+- TOP 6.5.: Erinnerungsverfahren: Hohenklingenstraße 16 (Baureferat, 08.06.16)
+- TOP 6.6.: Kurparkstraße, Flur-Nr. 269/0 ? Sofortmaßnahme zur vorübergehenden Unterbringung von Flüchtlingen, befristet auf 2 Jahre bis zum 31.04.2018 (Kurpark- / Schröfelhofstraße / Stiftsbogen) (Referat für Stadtplanung und Bauordnung, 23.06.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Ludlstraße 55 - 75, 1 Birke
+- TOP 7.2.: Würmtalstraße 45, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 11132
+- TOP 7.3.: Magnolienweg 17, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 11906
+- TOP 7.4.: Klematisstraße 1, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 10323
+- TOP 7.5.: Würmtalstraße 154, 2 Lärchen
+- TOP 7.6.: Gelbhofstraße 1-3, 1 Hemlocktanne
+- TOP 7.7.: Kurparkstraße, Flur-Nr. 269/0, gem. Baumbestands- und Freiflächengestaltungs- plan Nr. 12232
+- TOP 7.8.: (N) Gräfelfinger Str. 96-104, 1 Ahorn
+- TOP 7.9.: (N) Am Heidebruch 6, 1 Eibe, 1 Rotbuche
+- TOP 7.10.: (N) Waldgartenstraße 40, 2 Serbische Fichten
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Kruckenburgstraße 2, 1 serbische Fichte (Referat für Stadtplanung und Bauordnung, 08.06.16)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der SWM, Stromprojekt Terofalstraße (SWM, 14.06.16)
+- TOP 8.2.: Unveränderte Fortführung einer Gaststätte, hier: - Santorini, Großhaderner Straße 47 (Kreisverwaltungsreferat, 16.06.16)
+- TOP 8.3.: Wegesanierung Silberdistelstraße / Ammerseestraße (Baureferat, 24.06.16)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Pfingstrosenstraße (Sozialreferat, 03.06.16) - Ringstraße (Sozialreferat, 09.06.16) - Aurikelstraße (Sozialreferat, 20.06.16) - Am Kornacker (Sozialreferat, 20.06.16) - Würmtalstraße (Sozialreferat, 27.06.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Ampelanlage an der Kreuzung Würmtal- / Eichen- / Zinckgrafstraße - zusätzlicher Signalgeber für Radfahrer (Kreisverwaltungsreferat, 16.06.16)
+- TOP 9.2.: Zwischennachricht: Energieversorgung der Stadt München (Referat für Arbeit und Wirtschaft, 09.06.16)
+- TOP 9.3.: Sauerbruchstraße - provisorische Schutzinsel (Baureferat, 01.06.16)
+- TOP 9.4.: Stadtteil München - Großhadern Hohenklingenstraße / Bereich zwischen Windeckstraße und Stahleckstraße Antrag auf Begrünung des östlichen Straßenrandes (Baureferat, 24.05.16)
+- TOP 9.5.: Mehrjahresinvestitionsprogramm 2016 - 2020 Anhörung der Bezirksausschüsse, Anregungen des BA 20 Hadern (Stadtkämmerei, 30.05.16)
+- TOP 9.6.: Gehwegverunreinigungen und übergewachsene Hecke auf dem Gehweg in der Alpenveilchenstraße / Ecke Krokusstraße (Baureferat, 01.06.16)
+- TOP 9.7.: Unterführung Schröfelhofstraße (Kreisverwaltungsreferat, 02.06.16)
+- TOP 9.8.: Fahrradstreifen in der Kriegerheimstraße (Kreisverwaltungsreferat, 03.06.16)
+- TOP 9.9.: Ampelanlage an der Kreuzung Haderun- / Waldwiesenstraße (Kreisverwaltungsreferat, 07.06.16)
+- TOP 9.10.: Beschilderung Haderunstraße / Gelbhofstraße (Kommunalreferat, 08.06.16)
+- TOP 9.11.: Sperrmüll in der Maenherstraße 40 und 45 (Kreisverwaltungsreferat, 08.06.16)
+- TOP 9.12.: Verkehrsberuhigung des Canisiusplatzes und Verlängerung der Sperrung für den Durchgangsverkehr (Referat für Stadtplanung und Bauordnung, 21.06.16)
+- TOP 9.13.: Überplanung des Bolzplatzes Krokus- / Veilchenstraße (Baureferat, 05.07.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Taktung der Buslinien (MVG, 08.06.16)
+- TOP 10.2.: Tempolimit für Busfahrer (MVG, 27.06.16)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfest 2016, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse (Bürgermeisterin Strobl, 07.06.16)
+- TOP 11.2.: Antrag des BA 12 Schwabing-Freimann vom 23.05.2016: Neupflanzungen von Bäumen und Sträuchern im Stadtgebiet
+- TOP 11.3.: Antrag auf Erteilung einer Sondernutzungserlaubnis zum Aufstellen eines Zei-tungsentnahmegerätes zur unentgeltlichen Entnahme der Zeitung ?Bogenhau- sen News? auf öffentlichem Verkehrsgrund; Anfrage zu derartigen Zeitungsentnahmekästen des Antragstellers in anderen Stadtbezirken (BA 13 Bogenhausen, 22.06.16)
+- TOP 11.4.: (N) Infotermin zum Thema ?Flüchtlinge und Wohnen für Alle? am 27.07.2016 von 18:00 bis 20:00 Uhr im Sozialbürgerhaus Sendling / Westpark, Meindlstraße 20, Sitzungssaal (Sozialreferat, 27.06.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 15.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04822: Förderung von Bürgerschaftlichem Engagement Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) (Sach- und Personalmehrkosten ab 2016 = 51.600,- ? + 182.330,- ? = 233.930,- ? / Jahr)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
