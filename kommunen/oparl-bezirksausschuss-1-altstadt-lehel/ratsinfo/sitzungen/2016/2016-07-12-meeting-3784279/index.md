@@ -1,0 +1,109 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-07-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784279
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784279
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Aktionsplan UN-Behindertenrechtskonvention, Anpassung der BA-Satzung. Der BA- Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung.
+- TOP .2.: Beteiligung der Bezirksausschüsse bei der Erstellung von städtebaulichen Rahmenplänen, BA-Antrag Nr. 14-20 / B01309 des BA 16 ? Ramersdorf-Perlach
+- TOP .3.: Oktoberfest 2016, Reservierung der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Bürgeranliegen, Werbeanlagen am Deutschen Alpenverein
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: St.-Anna-Straße 18, Umbau und Nutzungsänderung eines Ladengeschäfts in eine Gaststätte mit Verkaufsfläche
+- TOP 7.2.: Lerchenfeldstraße 2, Generalsanierung und Erweiterung der Archäologischen Staatssammlung, vertagt aus 2016.06 B 3.1.7
+- TOP 7.3.: Thierschstraße 8-10, Neubau eines Wohnheims für Angestellte der LH München
+- TOP 7.4.: Sendlingerstraße 40, Neubau eines Büro- und Geschäftshauses mit Wohnung im DG - Vorbescheid
+- TOP 7.5.: Kaufingerstraße 24, Neubau eines Wohn- und Geschäftshauses - Vorbescheid
+- TOP 7.6.: Klosterhofstraße 4, Änderung / Aufstockung und hofseitige Anbauten, Wohnhaus - Vorbescheid
+- TOP 7.7.: Platzl 9, Überdachung der Terasse im Innenhof, Änderungen und Information durch die Architektin, vertagt aus 2016.04 B 3.1.4
+- TOP 7.8.: Mariannenstraße 3, Aufstockung, DG-Abbruch und -Neuerrichtung, Aufstockung des Aufzugs, vertagt aus 2016.06 B 3.1.3
+- TOP 7.9.: Pfarrstraße 10, umbau und Sanierung eines Mehrfamilienhauses sowie Anbau Außenaufzug und Balkone - TEKTUR
+- TOP 7.10.: Frauenstraße 26, Generalsanierung eines Wohn- und Geschäftshauses mit DG- Ausbau in Verbindung mit Neubau Dachstuhl und Dacherhöhung, Einbau von Dachgauben und Erstellung einer zustätzlichen Wohneinheit im Vordergebäude, Nutzungsänderung zweier Gewerbeeinheiten in WE, neue Balkone, Gauben, Dachterrassen im Rückgebäude.
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: BA-Antrag zu Straßenreinigungsgebühren
+- TOP 7.2.: Bürgeranliegen, organisierte Bettler in der Sonnenstrasse
+- TOP 7.3.: BA-Antrag, Trinkbrunnen im öffentlichen Raum ? St. Anna Platz
+- TOP 7.4.: Bürgeranliegen, Vorstellung der Wildfleck gUG, Vater-Rhein-Brunnen, Treppe am Kabelsteg
+- TOP 7.5.: BA-Antrag, zusätzliche Bänke am St.-Anna-Platz
+- TOP 7.2.1: Gaststätten
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Mobiler Fahrradständer, Maximiliansplatz 18, tem Brock Immobilien GmbH
+- TOP 7.2.: Mobiler Fahrradständer, Residenzstraße 23, Engel & Völkers München GmbH
+- TOP 7.3.: Mobiler Fahrradständer, Maximilianstraße 21, Münchner Hausbau, Planungs- und Baumanagement GmbH
+- TOP 7.4.: Mobiler Fahrradständer, Pacellistraße 5, Ergonomie Studio Muckenthaler
+- TOP 7.5.: Mobiler Fahrradständer, Triftstr. 4, Sparda-Bank München eG
+- TOP 7.6.: Mobiler Fahrradständer, Widerruf einer Erlaubnis nach Umzug
+- TOP 7.7.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund, Triftstraße 10, Kaiser's Tengelmann GmbH
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Australisches Kulturfest, Rindermarkt, 05.08.-07.08.2016
+- TOP 7.2.: Oktoberfest Wiesnzüge 2016, 17.09. und 18.09.2016
+- TOP 7.1.: Antrag für zwei Sitzgelegenheiten, Odeonsplatz 11, ?Dorothee Schumacher Store?
+- TOP 7.2.: Antrag für zwei Sitzgelegenheiten, Rosental 1, ?Ruth Moser Taschen?
+- TOP 7.1.: Offene Fragen zur Fußgängerzone Sendlinger Straße (vertagt aus 2016.06 D 1.1)
+- TOP 7.2.: BA-Antrag, Umwidmung eines Teilbereiches der Liebigstraße in eine Fahrradstraße
+- TOP 7.3.: BA-Antrag, Verkehrsberuhigter Geschäftsbereich ? Tempo 20 im Bereich der St.-Anna-Straße
+- TOP 7.4.: BA-Antrag, Auflösung von Parkplätzen in der Zweibrückenstraße, um Fahrradabstellplätze für die S-Bahn Station Isartor zu schaffen
+- TOP 7.1.: Antrag auf Baumfällung, Franz-Josef-Strauß Ring 4
+- TOP 7.2.: Bahnknoten München 2. Stammstrecke, a) Sachstand b) Vorwegmaßmahmen am Hauptbahnhof und Marienhof
+- TOP 7.1.: (E) Budget der Bezirksausschüsse caminando Verlag 3tägige Lesereihe zwischen 10. - 30.09.2016
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Konfetti e.V. 25-Jahr Feier am 23.07.2016
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Haushaltsplan 2016 LH München
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Ergebnisse der Studie Wohnen Arbeiten Mobilität, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016, Sitzungsvorlage Nr. 14-20 / V06199
+- TOP 0.3.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2018, Hildegardstraße / Thomas-Wimmer-Ring, Billigungsbeschluss des Ausschusses für Stadtplanung und Bauordnungvom 29.06.2016, Sitzungsvorlage Nr. 14-20 / V06364
+- TOP 0.4.: Bebauungsplan mit Grünordnung Nr. 2114, Josephspitalstraße, Herzog-Wilhelm-Straße, Sendlinger-Tor-Platz, Sonnenstraße, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016, Sitzungsvorlage Nr. 14-20 / V06228
+- TOP 0.5.: Stellplatzschlüssel im Wohnungsbau, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016, Sitzungsvorlage Nr. 08-14 / V 13593
+- TOP 0.6.: Preis für Stadtbildpflege ? Wettbewerb ?Bauen und Sanieren in historischer Umgebung? 2016, Prämierung von Wettbewerbsbeitägen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016, Sitzungsvorlage Nr. 14-20 / V06506
+- TOP 0.7.: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau, BV-Empfehlung Nr. 14-20 / E00856 der BV des Stadtbezirkes 5 vom 25.02.2016, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016, Sitzungsvorlage Nr. 14-20 / V 06304
+- TOP 0.8.: Nach Vorbild der ?Perspektive Freimann?, Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016, Sitzungsvorlage Nr. 14-20 / V06382
+- TOP 0.9.: Perspektive München, Langfristige Siedlungsentwicklung, Statusbericht 2015, Anträge und Empfehlungen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016, Sitzungsvorlage Nr. 14-20 / V06054
+- TOP 0.10.: Antwort des Referats für Stadtplanung und Bauordnung zur Anfrage Wegfall von Parkplätzen beim Neubau Thierschstraße
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Winterliche Veranstaltung im Innenhof des Isartors, Beschluss der Vollversammlung des Stadtrates vom 20.04.2016, Sitzungsvorlage Nr. 14-20 / V05732
+- TOP 0.6.: Kulturveranstaltung ?Feel Russia? auf dem Marienhof, Antwortschreiben des KVR
+- TOP 0.7.: Nicht genehmigungsfähige Zeitungsentnahmegeräte, Schreiben des BA 13
+- TOP 0.1.: Barrierefreie Querungen im Fuß- und Radverkehr, Priorisierung bestehender und geplanter Querungsbauwerke, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20 / V01203
+- TOP 0.2.: Neupflanzung von Bäumen und Sträuchern im Stadtgebiet, Antrag des Ba 12 Schwabing-Freimann
+- TOP 0.3.: Einrichtung allgemeiner Behindertenparkplätze in der Maxburgstraße und Karmeliterstraße
+- TOP 0.4.: Zwischennachricht zu BV-Empfehlung Nr. 14-20 / E00818, Erhalt des Landschaftsschutzgebietes Isarauen / Isaranlagen als Erholungsgebiet
+- TOP 0.5.: Bescheid über Ausnahmezulassung für Baumaschinen und -geräte in der Frauenstraße 8, 15.06.-18.06.2016
+- TOP 0.6.: Zwischennachricht zu BA-Antrag Nr. 14-20 / B01432, Öffnung der Westenriederstraße für den Radverkehr entgegen der Einbahnrichtung zwischen Viktualienmarkt und Radlsteg
+- TOP 0.7.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum der Widenmayerstraße, Emil-Riedel-Straße, Karolinenstraße, Dianastraß
+- TOP 0.8.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum der Sonnenstraße
+- TOP 0.9.: Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar, Bekanntgabe des Bauausschusses vom 28.06.2016, Sitzungsvorlage Nr. 14-20 / V06521
+- TOP 0.10.: Antwort des Baureferates zu Turnus der Schrotträderentfernung
+- TOP 0.11.: Zwischennachricht des Referats für Stadtplanung und Bauordnung zu BV-Empfehlung Nr. 08-14 / E00352, Umgestaltung und Aufwertung des Isartorplatzes
+- TOP 0.12.: Ausstattung der Bushaltestelle Viktualienmarkt stadtauswärts, Schreiben des Behindertenbeirats
+- TOP 0.13.: Radwegbeschilderung am Hofgarten, Schreiben der Bayrischen Verwaltung der staatlichen Schlösser, Gärten und Seen an das Kreisverwaltungsreferat
+- TOP 0.14.: Ausnahmegenehmigung für eine Baustelleneinrichtung auf dem Promenadeplatz
+- TOP 0.15.: Antwort des Referats für Bildung und Sport zur Anfrage des BA bezüglich Fahrradabstellmöglichkeiten bei der Salvator-Realschule
+- TOP 0.1.: Antwort des Baureferats zu ?Wildes Campieren? ; Dauercamperin auf der Praterinsel
+- TOP 0.2.: KITA Jahresstatistik 2015, Bekanntgabe des Bildungsausschusses vom 29.06.2016, Sitzungsvorlage Nr. 14-20 / V05890
+- TOP 0.3.: Förderung von Bürgerschaftlichem Engagement, Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung udnd Bauordnung, Beschluss der Vollversammlung vom 15.06.2016, Sitzungsvorlage Nr. 14-20 / V 04822
+- TOP 0.4.: Sportflächenversorgungsplan Fortschreibung 2015, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016, Sitzungsvorlage Nr. 14-20 / V06071
+- TOP 0.5.: Einführung einer Flatrate für Strom, Gas und Telefon mit Grundpreisermäßigung, BV-Empfehlung Nr. 14-20 / E 00330 und Kostenlose Installation einer Flatrate für Telefon und Internet für München-Pass-Besitzer, BV-Empfehlung Nr. 14-20 / E00331, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 07.06.2016, Sitzungsvorlage Nr. 14-20 / V05794
+- TOP 0.6.: Antwort des Referats für Bildung und Sport zur Nutzung der Schulsportfreianlage Himmelreichstraße 5
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
