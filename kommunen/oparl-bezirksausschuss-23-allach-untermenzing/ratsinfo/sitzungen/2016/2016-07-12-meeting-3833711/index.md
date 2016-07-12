@@ -1,0 +1,103 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-07-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833711
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833711
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Genehmigung des Protokolls der Einwohnerversammlung vom 08.06.16
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 09.06.16
+- TOP 1.4.2.: Protokoll UA Kultur vom 21.06.16
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Straßenarbeiten in der Prantlstraße
+- TOP 2.2.: Verschmutzung ehemaliger Containerstandort Von-Reuter-Straße
+- TOP 2.3.: Anbindung der Waldkolonie an das öffentliche Verkehrsnetz
+- TOP 2.4.: Buslinie 163 von Allach bis Moosach
+- TOP 2.5.: Streetball-Anlage an der Megerlestraße
+- TOP 2.6.: Verkehrssituation Anliegerstraße Willstätterstraße
+- TOP 2.7.: Parkplatzsituation im Gustav-Otto-Bogen
+- TOP 2.8.: Grünplanung Bebauungsplan 1655a, Oertelplatz
+- TOP 2.9.: Parkerlaubnis in der Auenbruggerstraße
+- TOP 2.3: Bebauungsplan mit Grünordnung Nr. Eversbuschstraße (östlich), Bahnlinie München-Ingolstadt (westlich), Otto-Warburg-Straße (nördlich)
+- TOP 2.4: Baugrundstück Oertelplatz B-Plan Nr. 1655a WA 2
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Erweiterung und Aufstockung eines Mehrfamilienhauses Paul-Ehrlich-Weg 44, Gemarkung: Allach, Fl.Nr.: 640/0
+- TOP 5.2.: Errichtung eines überdachten Freisitzes Von-Kahr-Str., Gemarkung: Untermenzing, Fl.Nr.: 156/0
+- TOP 5.3.: Neubau eines Mehrfamilien- und Einfamilienhauses mit Tiefgarage Naglerstr. 3, Gemarkung: Allach, Fl.Nr.: 203/0 und Vollzug der BaumschutzVO
+- TOP 5.4.: Erweiterung einer Wohneinheit durch Nutzungsänderung einer Werkstatt / Schmiede Eversbuschstr. 46, Gemarkung: Untermenzing, Fl.Nr.: 56/0
+- TOP 5.5.: Neubau eines Doppel- und eines Einfamilienhauses mit Garagen Allacher Str. 114, Gemarkung: Untermenzing, Fl.Nr.: 383/7
+- TOP 5.6.: Anbau Förderanlage Fahrerhauslackiererei MAN Gebäude A 46 (Silo) Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1410/0
+- TOP 5.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Korbinian-Beer-Str. 35
+- TOP 5.8.: Aktionsplan UN-Behindertenrechtskonvention Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung vom 15.06.2016: Förderung von Bürgerschaftlichem Engagement (Sitzungsvorlage Nr. 04822)
+- TOP 6.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.16: a) Barrierefreie Querungen im Fuß- und Radverkehr (Sitzungsvoralge Nr. 01203) b) Stellplatzschlüssel im Wohnungsbau (Sitzungsvorlage Nr. 013593) c) Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität (Sitzungsvorlage Nr. 06199)
+- TOP 6.3.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 29.06.16: KITA-Jahresstatistik 2015 (Sitzungsvorlage Nr. 05890)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: a) PERSPEKTIVE München; Langfristige Siedlungsentwicklung (Sitzungsvorlage Nr. 06054) b) Preis für Stadtbildpflege (Sitzungsvorlage Nr. 06506) c) Spielflächenversorgungsplan (Sitzungsvorlage Nr. 06071) d) Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau (Sitzungsvorlage Nr. 06304) e) Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln (Sitzungsvorlage Nr. 06382) f) Wohnen für Alle (Sitzungsvorlage Nr. 06537)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Änderung von Hinweisschildern auf der A 99 und der A 8 (Schreiben BA 21 vom 10.06.16)
+- TOP 7.2.: Einweihung des Kultur-und Spielpfades Untermenzing am 23.06.17, 15:00 Uhr in der Anlage an der Hitlstraße: Genehmigung, Programm, örtliche Ausweichmöglichkeit bei schlechtem Wetter, Finanzierung der Veranstaltung durch den BA, Anmeldung zum Festjahreskalender 1200 Jahre Menzing
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Referat für Bildung und Sport vom 27.06.16: Neue Grundschule Allach, Theodor-Fischer-Straße
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Einzelfällungsanträge: Lewaldstr. 11, Menzinger Str. 138, Aurel-Voß-Str. 9, Eversbuschstr. 251, Bauschingerstr. 15, Bergetstr. 24, Menzinger Str. 126
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.06.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Dachauer Str. 665, Menzinger Str. 134
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.06.16: Haftung bei Schäden im Falle der Ablehnung von Baumfällungen durch BA-Beauftragte
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (06.06.-12.06.16, 13.06.-19.06.16, 20.06.-26.06.16)
+- TOP 9.6.: Schreiben Baureferat vom 16.06.16: Erstmalige Herstellung Krayweg
+- TOP 9.7.: Schreiben Baureferat vom 27.06.16: Fahrbahnbelag Karl-von-Roth-Straße und Zufahrt Allacher Unterführung
+- TOP 9.8.: Schreiben Baureferat vom 30.06.16: Straßenschäden in der Kreckestraße
+- TOP 9.9.: Schreiben Stadtwerke München vom 22.06.16: Baumaßnahmen Stromprojekt Naßlstraße
+- TOP 9.10.: Schreiben Stadtwerke München GmbH vom 13.06.16, 20.06.16, 27.06.16: Baumaßnahmen
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 09.05.16: Beidseitig absolutes Haltverbot Bauseweinallee im Kurvenbereich in Höhe der Bahnunterführung
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 27.06.16: Protokoll über Infoveranstaltung am 17.06.16
+- TOP 9.13.: Schreiben Sozialreferat vom 20.06.16: Wochenbericht UM 24. KW
+- TOP 9.14.: Schreiben Sozialreferat vom 09.06.16: Zweckentfremdung von Wohnraum, Sickenbergerstr.
+- TOP 9.15.: Schreiben Sozialreferat vom 30.06.16: Grünanlage an der Servetstr. 29
+- TOP 9.16.: Schreiben Sozialreferat vom 29.06.16: Antrag auf Zweckentfremdung von Wohnraum, Naglerstraße
+- TOP 9.17.: Schreiben BA 12 Schwabing-Freimann vom 23.05.2016: Neupflanzung von Bäumen und Sträuchern im Stadtgebiet
+- TOP 9.18.: Schreiben BA 13Bogenhausen vom 22.06.16: Sondernutzungserlaubnis zum Aufstellen eines Zeitungsentnahmegerätes der "Bogenhausener News"
+- TOP 9.19.: Schreiben Aktion Fahrgäste vom 17.06.2016: "Personen im Gleis": Es besteht dringend Handlungsbedarf
+- TOP 9.20.: Schreiben Wasserwacht OG München-West vom 10.06.2016: Dank für Zuwendung aus BA-Budget
+- TOP 9.21.: Schreiben Kulturforum München-West vom 20.06.16: Zurückziehung der Budget-Anträge
+- TOP 10: Nachtrag
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Initiative Ausstellung 1200 Jahre Untermenzing Ausstellung "1200 Jahre Untermenzing" vom 15.09.2017 bis Dezember 2017
+- TOP 10.1.: Unterausschuss Protokolle: Protokoll UA Umwelt, Freizeit und Sport vom 01.07.16
+- TOP 10.2.: Bürgerpost an den BA: Grundstück Stieglstr. 47
+- TOP 10.3.: (E) Budget der Bezirksausschüsse Bühne 23 e.V. Jazznacht 1200 Jahre Menzing am 07.10.2017
+- TOP 10.4.: Anhörungen: Errichtung eines Mehrfamilienhauses mit Tiefgarage Nigglstr. 11, Gemarkung: Allach, Fl.Nr.: 157/13 und Vollzug der BaumschutzVO
+- TOP 10.5.: TEKTUR - Neubau eines Zweifamilienhauses mit Garage Hausmannstr. 14, Gemarkung: Allach, Fl.Nr.: 1338/4
+- TOP 10.6.: Neubau eines Mehrfamilienhauses (8WE) mit Tiefgarage Vesaliusstr. 12, Gemarkung: Allach, Fl.Nr.: 1095/5
+- TOP 10.7.: Antrag auf Durchführung des Oktoberfest-Traditionsschießens 2016, Servetstr. 1
+- TOP 10.8.: Verschiedenes: Einladung Netzwerkkonferenz: Gemeinsam gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit - für ein buntes Miteinander in München am 25.07.16, ab 16:00 Uhr
+- TOP 10.9.: Umlauf: Schreiben Direktorium vom 30.06.16: Einführung der Kooperations-Plattform "Alfresco" bei den Bezirksausschüssen
+- TOP 10.10.: Schreiben Direktorium vom 01.07.16: Verstärkung der Fachstelle für Demokratie, Stadtrats-Antrag Nr. 02245
+- TOP 10.11.: Schreiben Baureferat vom 29.06.16: Erstmalige Herstellung der Ernst-Haeckel-Straße
+- TOP 10.12.: Schreiben Baureferat vom 05.07.16: Fußgängerbrücke über die Würm in Höhe Allacher Straße
+- TOP 10.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.06.16: Fällungsgenehmigung, Menzinger Str. 126b
+- TOP 10.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.07.16: Fällungsgenehmigung, Grünspechtstr. 16
+- TOP 10.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.07.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben, Ernst-von-Beling-Str. 4
+- TOP 10.16.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Hier Einzelfällungsanträge: Grünspechtstr. 16
+- TOP 10.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.07.16: Bauanträge (27.06.-03.07.16)
+- TOP 10.18.: Schreiben Stadtwerke München vom 04.07.16: Baumaßnahmen der Stadtwerke
+- TOP 10.19.: Schreiben Sozialreferat vom 05.07.16: Antrag auf Zweckentfremdung von Wohnraum: Ernst-Haeckel-Str., Esmarchstr.
+- TOP 10.20.: Schreiben Kreisverwaltungsreferat vom 05.07.16: Filmaufnahmen auf öffentlichem Verkehrsgrund, Karl-Schmolz-Str. 25
+- TOP 10.21.: Schreiben Kulturreferat vom 06.07.16: Veranstaltungen Juli 2016
+- TOP 10.22.: Schreiben Spiellandschaft Stadt e.V. vom 01.07.16: Vom Weltspieltag zum Weltkindertag, Protokoll
+- TOP 10.23.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: Hinweis/Ergänzung: Perspektive München (Sitzungsvorlagen Nr. 06054)
