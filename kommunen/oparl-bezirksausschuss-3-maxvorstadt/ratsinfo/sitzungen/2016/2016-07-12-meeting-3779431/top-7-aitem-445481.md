@@ -1,0 +1,7 @@
+# TOP .7.: Marsstraße 20 ? 22 Nutzungsänderung Bank zu Büro
+
+- Sitzung: BA 03 - Vollgremium (2016-07-12)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/445481
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/445481
