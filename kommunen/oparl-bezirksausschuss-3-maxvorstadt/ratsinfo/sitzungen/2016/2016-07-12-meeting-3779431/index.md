@@ -1,0 +1,94 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779431
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779431
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Verschmutzung und Lärmbelästigung durch die Baustelle Theresienstraße 75 Schreiben eines Bürgers vom 01.06.2016
+- TOP .2.: Lärmbelästigung durch Schwerlastverkehr und Anlieferungsverkehr in der Georgenstraße Schreiben eines Bürgers vom 02.06.2016
+- TOP .3.: Lärmbelästigung durch Veranstaltungen auf dem Gelände der HFF (Partybus) Schreiben eines Bürgers aus der Maxvorstadt vom 11.06.2016
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Sicherheit für Fußgänger an der Kreuzung Pappenheim-/Karl- bzw. Bluten- burgstraße stadtauswärts
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Zusätzlichen Verdrängungsidikator "Studenten" als Kriterium für die Ausweisung von Erhaltungssatzungsgebieten aufnehmen
+- TOP .4.: Anfrage zum Beleuchtungskonzept auf dem Josephsplatz
+- TOP .5.: Die Ergebnisse der Stadtklima-Studie des Deutschen Wetterdienstes müssen dringend in der Maxvorstadt beachtet und umgesetzt werden.
+- TOP .6.: Begrünung im Bereich der Rechtsabbiegespur von der Karl- in die Pappenheimstraße
+- TOP .1.: Antrag SPD Fraktion im BA 3 vom 14.06.2016 Wohnbebauung am ehemaligen MAHAG-Gelände endlich ermöglichen
+- TOP .2.: Antrag SPD-Fraktion im BA 3 vom 20.06.2016 Leerstand Linprunstraße 13 und 19
+- TOP .3.: Antrag des Kinder- und Jugendbeauftragten des BA 3 vom 23.06.2016 Planungen für den Nachbarschaftstreff Arnulfpark ohne weitere Verzögerungen voran- treiben
+- TOP .2.1: Bauvorhaben
+- TOP .1.: WEB-Listen der LBK:22., 23., 24. KW
+- TOP .2.: Türkenstraße 9, Neubau einer Wohnanlage mit Tiefgarage, Tektur
+- TOP .3.: Kreittmayrstraße 16 VGB u. Südhof: DAG-Ausbau mit Aufzug sowie Dachgauben und Dachterrassen-Einschnitt Abbruch einer Doppelgarage; RGB u. Nordhof: Nutzungsänderung im EG u. 1. OG von Gewerbe zu Wohnen, Umbau der Geschosse 1 ? 3 zur Verbesserung der Fluchtsituation, Anbau von Balkonen und Notleitern, Umnutzung Garagengebäude zu überdachtem Terrassenbereich und Terrasse im 1. OG
+- TOP .4.: Neureutherstraße 14, Umnutzung Anbau, Aufstockung RG,DG-Ausbau eines Mehramilien- hauses, Neubau eines Außenaufzuges, Vorbescheid vertagt aus der Sitzung vom 14.06.2016, Unterlagen liegen bereits vor
+- TOP .5.: Steinheilstraße 14, Abbruch eines Wohngebäudes mit dazugehörigem Rückgebäude mit Werkstattnutzung sowie Neubau eines Geschosswohnungsbaus mit Tiefgarage, Vorbescheid
+- TOP .6.: Schleißheimer Straße 78 Nutzungsänderung EG und VGB: Gewerbeeinheit zu Wohnungen
+- TOP .7.: Marsstraße 20 ? 22 Nutzungsänderung Bank zu Büro
+- TOP .8.: Denisstraße 3 a Neubau eines Gebäudekomplexes für Verwaltung und Büro - Vorbescheid
+- TOP .9.: Georgenstraße 97 DG-Ausbau, Fassadensanierung und Anbau einer Fluchtleiter
+- TOP .10.: Barer Straße 51 DG-Ausbau, Einbau Dachterrasse - Vorbescheid
+- TOP .11.: Ludwigstraße 6 ? 10 Umbau und denkmalgerechte Sanierung eines denkmalgeschützten Brüro- und Geschäfts- hauses sowie Nutzungsänderung: Flächen der Hochschule für Politik zu Büroflächen (Lud- wigstraße 6 ? 10/Schönfeldstraße 6/Von-der-Tann-Straße 2 a)
+- TOP .12.: Nymphenburger Straße 55, DG-Ausbau
+- TOP .13.: Baulisten der LBK: 22.., 24., 25. KW
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Kurfürstenstraße 11, eine Kastanie
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung Sitzungsvorlage Nr. 14 ? 20 / V 04822 Beschluss der Vollversammlung vom 15.06.206
+- TOP .2.: Neupflanzung von Bäumen und Sträuchern im Stadtgebiet Antrag der SPD-Fraktion im Bezirksausschuss Schwabing-Freimann vom 23.05.2016
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage a) Stellplatzschlüssel im Wohnungsbau b) Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität Sitzungsvorlage Nr. 14-20 / V 06199 c) Bebauungsplan mit Grünordnung Nr. 2115 Arcisstraße (östlich), Elisabethplatz (südlich) Nordendstraße (westlich), Teiländerung des Bebauungsplans Nr. 259) Sitzungsvorlage Nr. 14-20 / V 06302 Sitzungsvorlage Nr. 08-14 / V 13593 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, div. Beschlussvorlagen a) Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit Sitzungsvorlage Nr. 14-20 / V 05954 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 b) Ökologischer Kriterienkatalog, Fortschreibung 2016 Sitzungsvorlage Nr. 14-20 / V 02989 Beschluss des Ausschluss für Stadtplanung und Bauordnung vom 01.06.2016 c) Nach Vorbild der ?Perspektive Freimann?: Lokale Entwicklungsperspektiven mit Bürger- beteiligung entwickeln Sitzungsvorlage Nr. 14-20 7 V 06382 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 d) Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau Sitzungsvorlage Nr. 14-20 / V 06304 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 e) Spielflächenversorgungsplan, Fortschreibung 2015 Sitzungsvorlage Nr. 14-20 / V 06071 Bekanntg. i.d. Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 f) Preis für Stadtbildpflege ? Wettbewerb ?Bauen und Sanieren in historischer Umgebung? 2016; Prämierung von Wettbewerbsbeiträgen Sitzungsvorlage Nr. 14-20 / V 06506 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 g) Perspektive München, Langfristige Siedlungsentwicklung Sitzungsvorlage Nr. 14-20 / V 06054 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Fällgenehmigung für drei Robinien, Zentnerstraße 35
+- TOP .1.: Antrag SPD Fraktion im BA 3 vom 15.06.2016 Verbesserung für den Radverkehr (1): Breiterer Radweg für die Dachauer Straße
+- TOP .2.: Antrag SPD Fraktion im BA 3 vom 15.06.2016 Verbesserung für den Radverkehr (2): Abmarkierungen in der Lothstraße
+- TOP .3.: Antrag CSU Fraktion im BA 3 vom 19.06.2016 Aufwertung des Rudi-Hierl-Platzes
+- TOP .4.: Antrag SPD Fraktion im BA 3 vom 22.06.2016 Größere und mehr Mülleimer am Arnulfpark
+- TOP .5.: Antrag SPD Fraktion im BA 3 vom 22.06.2016 Größere und mehr Mülleimer im Univiertel
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen neue Verkehrsanordnungen auf dem Gebiet des Arnulfparks
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Hotelanfahrtszone Dachauer Straße 37
+- TOP .2.: Schellingstraße 20, Sondernutzung, zwei Bänke
+- TOP .3.: Ludwigstraße 2 und Prof.-Huber-Platz 2 Zeitungsentnahmegeräte
+- TOP .4.: Neue Reinigungsklassen im Bereich Hauptbahnhof, Anhörung (s. TOP C 2.5.1/062016)
+- TOP .2.3: Gaststätten
+- TOP .1.: Luisenstraße 27, Genehmigung einer Freischankfläche
+- TOP .2.: Zieblandstraße 2, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Erlaubnisbescheid, Open-Air-Konzert Königsplatz ?Unheilig? am 19.06.2016
+- TOP .2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro nicht genehmigungspflichtiges barockes Feuerwerk am 01.07.2016 um 22.00 Uhr, Königinstraße 5
+- TOP .3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Baustelleneinrichtungan der Marlene-Dietrich-Straße 47, Verlängerung der Ausnahmege- nehmigung bis 15.07.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Barrierefreie Querung im Fuß- und Radverkehr, Priorisierung bestehender und beplanter Querungsbauwerke Sitzungsvorlage Nr. 14-20 / V 01203 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016
+- TOP .5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Uni-Sommerfest am 08.07.2016 in der LMU, Geschwister-Scholl-Platz 1 Eilentscheidung des Vorsitzenden am 20.06.2016: Zustimmung b) ?Unbedingt Wider!? 1. Münchner Antirassismustag am 02.07.2016 auf dem Wittelsba- cherplatz Eilentscheidung des Vorsitzenden am 20.06.2016: Zustimmung mit dem Hinweis, dass aus Sicht des BA 3 der Wittelsbacherplatz nicht für zusätzliche, wiederkehrende Veran- staltungen beansprucht werden sollte. c) Kino-Open-Air auf dem Königsplatz vom 25.07. bis 02.08.2016, Nachtrag zur Anhörung Der Veranstaltung wurde bereits in der Sitzung am 14.06.2016 zugestimmt. Eilentscheidung des Vorsitzenden vom 21.06.2016: Bitte an den Veranstalter, nach Ver- anstaltungsende den Platz gewissenhaft zu reinigen.
+- TOP .6.: Baumaßnahmen der Stadtwerke a) Sanstraße 49, Fernwärme b) Gabelsbergerstraße Schacht 7511 ? 7732, Fernwärme c) Theresienstraße 71 a, Strom d) Adalbertstraße 31, Fernwärme e) Seidlstraße 27, Fernwärme f) Sandstraße Schacht 10009-10010, Fernwärmeinstandsetzung g) Rheinbergerstraße 2, 1. u. 2. Bauabschnitt, Strom h) Georgenstraße Schacht 3231- 3190, Fernwärmeinstandsetzung
+- TOP .7.: Baureferat, Erinnerungsverfahren Finkenstraße zwischen Wittelsbacherplatz und Oskar-von-Miller-Ring: Fahrbahnsanierung
+- TOP .1.: Referat für Bildung und Sport, Beschlussvorlage KITA-Jahresstatistik 2015, Onlinebefragung Sitzungsvorlage Nr. 14-20 / V 05890 Bekanntgabe im Bildungsausschuss des Stadtrates vom 29.06.2016
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Direktorium, Anhörung Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen BA-Antrag Nr. 14 ? 20 / B 01309 des BA 16 Ramersdorf-Perlach vom 18.06.2015
+- TOP .2.: Zusammensetzung Ferienausschuss des BA 3 am 09.08.2016
+- TOP .3.: Direktorium, Satzungsänderung Aktionsplan UN-Behindertenrechtskonvention; Anassung der BA-Satzung, der BA-Ge- schäftsordnung sowie der Bürger- und Einwohnerversammlungs-satzung
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: (E) Budget der Bezirksausschüsse Kindernest-Schwabing e.V. Renovierung des Kindergartens und Ergänzung der Spielzeuge
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Drucklegung" Drucklegung ?Die silbernen Zwanziger Jahre. Literatur, Topographie und Geschichte in München und der Maxvorstadt?
+- TOP .2.: (E) Budget der Bezirksausschüsse MIR e.V. Veranstaltung anlässlich des 25. Gründungstages von MIR e.V. am 15.07.2016
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
