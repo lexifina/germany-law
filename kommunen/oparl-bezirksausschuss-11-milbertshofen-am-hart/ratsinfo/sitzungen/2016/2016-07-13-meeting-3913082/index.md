@@ -1,0 +1,78 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2016-07-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3913082
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3913082
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Ersatzpflanzungen für die gefällten Bäume im Park Aussiger Platz
+- TOP 4.1.: Stillgelegte Linksabbiegespur Frankfurter Ring / Knorrstraße erhalten und ertüchtigen
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: (E) Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Projektname: Wiegandweg Projekt-Nr.: 100758
+- TOP 6.2.: (E) Programm barrierefreie Bushaltestellen (ÖPNV Offensive) - Leopoldstraße - Haltestelle Griegstraße
+- TOP 6.3.: (E) Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Gaststätte "Kultbrettl" Keferloherstr. 101c
+- TOP 7: Anträge
+- TOP 7.1.: Antrag FW/ÖDP-Fraktion: Bolzplatz Frankfurter Ring erhalten und nicht zwischen Wohngebäuden einzwängen
+- TOP 7.1.: Antrag FW/ÖDP-Fraktion: Fachstelle gegen Rechtsextremismus zur Fachstelle gegen Extremismus erweitern
+- TOP 8: Anhörungen
+- TOP 8.1.: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten
+- TOP 8.2.: Direktorium: Aktionsplan UN-Behindertenrechtskonvention - Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung
+- TOP 8.3.: Änderung der BA-Satzung; Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen
+- TOP 8.1.: LBK: Neuherbergstr. 2 - Neubau eines Gemeindezentrums
+- TOP 8.2.: LBK: Doeberlstraße 8 - Neubau eines Dreispänners mit Garagen
+- TOP 8.3.: LBK: Bauvorhaben Knorrstr. - Neubau Hybridgebäude im BA1 mit der notwendigen Beseitigung und Entsorgung von Untergrundverunreinigungen (BMW Fiz Future 1. BA)
+- TOP 8.1.: Anhörungsverfahren zur Änderung der Grundschulorganisation - Sprengeländerung der Grundschulen - Nadistraße 3 - Waldmeisterstraße 38 - SItzungsvorlagen Nr. 14-20 / V 05829
+- TOP 8.1.: MVG: Anhörung zur neuen Haltestelle "Augustin-Rösch-Straße" für die MVG-StadtBuslinie 172
+- TOP 8.2.: Baureferat: Moosacher Straße in Höhe Hausnummer 30 ? Mittelteiler-Öffnung und barrierefreier Ausbau von Bushaltestellen
+- TOP 8.3.: KVR: Einrichtung eines absoluten Haltverbotes in der Frauenstädtstraße
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: KVR: "Bavarian Run" im Olympiapark am 17.07.2016
+- TOP 9.2.: KVR: "Siedlerfest Neuherberge" am 09.07.2016 am Spengelplatz
+- TOP 9.3.: KVR: Olympiapark, 24hrace vom 09.- 10.07.2016
+- TOP 9.4.: Berichte über vom bezuschusste Projekte: a) Zirkusferien des Verein Stadtteilarbeit
+- TOP 9.5.: KVR: Curt-Mezger-Platz: Straßenfest der ev. Dankeskirche am 26.07.16
+- TOP 9.6.: KVR: B2Run-Firmenlauf 2016 im Olympiapark am 14.07.2016
+- TOP 9.7.: Unveränderte Fortführung von Gaststättenbetrieben a) Knorrstr. 170 "Galerie-Stüberl" b) Milbertshofener Str. 94 "Riva" c) Riesenfeldstraße 58 "Olympia"
+- TOP 9.8.: Offener Brief zur Bebauung des letzten Bolzplatzes in Milbertshofen
+- TOP 9.1.: Langfristige Freiraumentwicklung ? Öffentlichkeitsarbeit A) Jahresausstellung ?Freiraum 2030? und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrags ?Wettbewerb für Münchens schönste Bäume? Antrag Nr. 08-14 / A 05098 der Stadtratsfraktion DIE GRÜNEN/RL vom 11.02.2014 Sitzungsvorlagen Nr. 14-20 / V 05954
+- TOP 9.2.: RAW: Vergabe eines Gewerbegrundstücks am Frankfurter Ring
+- TOP 9.3.: Schleißheimer Straße (beiderseits), Rathenaustraße (südlich), Knorrstraße (beiderseits), Bremer Straße (beiderseits) Masterplan FIZ Future Langfristige Entwicklung der BMW Group im Bereich des Forschungs- und Innovationszentrums (FIZ) A) Bekanntgabe des Ergebnisses für den städtebaulichen und landschaftsplanerischen Wettbewerb und für den Masterplan FIZ Future B) Aufstellungsbeschlüsse 1. Bebauungsplan mit Grünordnung Nr. 2116 Troppauer Straße (südlich), Oberhofer Weg (westlich), Hufelandstraße (beiderseits), DB-Nordring (nördlich), Knorrstraße (östlich) mit Knoten Max-Diamand-Straße (westlich) (Teilverdrängung der Bebauungspläne Nrn. 813, 1505b und 948a) 2. Bebauungsplan mit Grünordnung Nr. 2117 Max-Diamand-Straße (südlich), Knorrstraße (westlich), DB-Nordring (nördlich), Schleißheimer Straße (östlich) (Teilverdrängung der Bebauungspläne Nrn. 1505b und 1948) Stadtbezirk 11 ? Milbertshofen-Am Hart Stadtbezirk 24 ? Feldmoching-Hasenbergl Sitzungsvorlagen-Nr. 14-20 / V 06296
+- TOP 9.4.: Bebauungsplan mit Grünordnung Nr. 1898b Weyprechtstraße, Max-Liebermann-Straße, Kämpferstraße, Dientzenhoferstraße, Humannweg (jeweils beiderseits), Lieberweg (beiderseits zwischen Humannweg und Röbling- bzw. Wiegandweg) ? GWG-Siedlung Harthof, Teilbereich Nord ? (Verdrängung des Bebauungsplans Nr. 620 und Teilverdrängung des Bebauungsplans mit Grünordnung Nr. 1898a) - Billigungsbeschluss - Sitzungsvorlagen-Nr. 14-20 / V 06415
+- TOP 9.5.: Lerchenauer Straße (westlich), Georg-Brauchle-Ring (nördlich), Brundageplatz (östlich), Helene-Mayer-Ring (südlich) - ehemaliger Busbahnhof Olympiazentrum - A) Grundsatzbeschluss B) Anträge Sitzungsvorlagen-Nr. 14-20 / V 03323
+- TOP 9.6.: Stellplatzschlüssel im Wohnungsbau - Sitzungsvorlagen-Nr. 08-14 / V 13593
+- TOP 9.7.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität Sitzungsvorlagen Nr. 14-20 / V 06199
+- TOP 9.8.: Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln Sitzungsvorlagen Nr. 14-20 / V 06382
+- TOP 9.9.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2016; Prämierung von Wettbewerbsträgern Sitzungsvorlagen Nr. 14-20 / V 06506
+- TOP 9.10.: Meldelisten Bauvorhaben vom 23.05. - 26.06.2016
+- TOP 9.1.: Standort Norderneyer Straße 10 - Flüchtlinge gerecht auf alle Stadtteile verteilen, Empfehlung Nr. 14-20 / E 00587, Aussetzung des Stadtratsbeschlusses 20.05.2015 - Keine Bebauung der Norderneyer Straße 10, Empfehlung Nr. 14-20 / E 00583 Sitzungsvorlagen-Nr. 14-20 / V 05743
+- TOP 9.2.: Bespielbare und besitzbare Stadt auch für München - Sitzungsvorlage Nr. 14-20 / V 05031
+- TOP 9.3.: KITA-Jahresstatistik 2015 Onlinebefragung - Sitzungsvorlagen-Nr. 14-20 / V 05890
+- TOP 9.4.: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau (Ziffern 1 und 2) Empfehlung Nr. 14-20 / E00856 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 25.02.2016 Sitzungsvorlagen Nr. 14-20 / V 06304
+- TOP 9.5.: Spielflächenversorgungsplan Fortschreibung 2015 Sitzungsvorlagen Nr. 14-20 / V 06071
+- TOP 9.6.: Nachgehakt: Wird der Olympiepark verramscht? Anfrage Nr. 14-20 / F 00621 von DIE LINKE vom 20.06.2016
+- TOP 9.1.: Anliefersituation des Lebensmittelmarktes Lieberweg 42
+- TOP 9.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO a) Feuerwehranfahrtszone Hamburger Straße b) Verkehrliche Maßnahmen im Zusammenhang mit dem Tollwood-Festival vom 29.06.-24.07.2016 c) Curt-Mezger-Platz
+- TOP 9.3.: Barrierefreie Querungen im Fuß- und Radverkehr - Priorisierung bestehender und geplanter Querungsbauwerke - Sitzungsvorlagen Nr. 14-20 / V 01203
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
