@@ -1,0 +1,91 @@
+# 54. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-07-13T17:00:00+02:00
+- Ende: 2016-07-13T19:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3914
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3914
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=90370
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 54. Sitzung der BVV am 13.07.2016 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 54. Sitzung der BVV am 13.07.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 54. Sitzung der BVV am 13.07.2016 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Regelmäßiger Bericht Baumaßnahmen (als Zwischenbericht) - überwiesen
+- TOP 7.2: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Papierlose BVV anstreben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Schutzstreifen Hennigsdorfer Straße (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Eingeschränktes Halteverbot Oranienburger Str., Fahrtrichtung Süd (Lübarser Str. - Schlitzer Str.) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Interkulturelle Angebote in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Bearbeitungszeiten im Jugendbereich - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Reinickendorf summt (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausreichende Personalausstattung in der Betreuung sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Prioritätenliste Schulsanierungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bereitstellung von Investitionsmitteln für den Neubau einer Sporthalle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Erziehungshilfen dürfen kein finanzielles Risiko für den Bezirk sein - überwiesen
+- TOP 7.12: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Zuschläge für Flüchtlingsbetreuung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Weiterentwicklung der Kosten- und Leistungsrechnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Vertretung langzeiterkrankter Beamter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Ausbildungs- und Arbeitsplatzbörse "Workeer" bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Dekubitus-Prophylaxe an Reinickendorfer Kliniken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Fahrbahnbelag Falkenplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Räume für zentrale Spendenlagerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Hostels für Flüchtlinge in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Wartehäuschen 220er - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Kostenfreies Parken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: VDSL für ganz Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.23: Skaterbahnen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.24: Erweiterung BVG-Wartebereich Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Ausgaben für IT in schulischen Liegenschaften zukünftig dokumentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Ausschreibung für den Kiezfond 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Änderung des Beschlusses über die Aufstellung der Bebauungspläne 12-49b für die Grundstücke Quickborner Straße 192 A-C einschließlich der privaten Erschließungsstraße im Bezirk Reinickendorf, Ortsteil Lübars sowie 12-49c für die Grundstücke Alter Bernauer Heerweg 31/35, einschließlich der privaten Erschließungsstraße, sowie einen Abschnitt des Alten Bernauer Heerwegs im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 7.28: Auswertung der eingegangenen Anregungen bzw. Stellungnahmen aus der frühzeitigen Bete-ligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB am Bebauungs-planverfahren 12-52 für die Grundstücke Blankestraße 9 - 11 sowie für eine südliche Teilfläche des Dankes - Nazareth Kirchhofs im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Städtebaulicher Wettbewerb Schumacher-Quartier - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Wachsmuthstraße behinderten- und seniorenfreundlich gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Straßenschäden in der Meteorstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Auswaschungen im Wesselburer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Aufbau eines Lokalen Bildungsverbunds - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Beteiligungsplattform meinBerlin nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Kooperation mit einem Müllentsorgungsunternehmen für den Abbau illegaler Altkleidercontainer im öffentlichen Straßenland prüfen - erledigt
+- TOP 10.7: Barrierefreiheit - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Digitalwerkstatt - Mehr digitale Bildung für Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Service des Bezirks für junge Eltern verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Statusbericht des Sanierungsbedarfs Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Historische Sitzbank an der Ecke Frohnauer Straße / Alemannenstraße wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Reinigung der Balustraden am Ludolfingerplatz und Zeltinger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Reinigung der Gräben im MV - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Präventive Zusammenarbeit zwischen Schulen und Polizei verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Stärkung der Sicherheit in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Waldweg im Forst Jungfernheide attraktiv gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: NEB bei Heidekrautbahn unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Fahrradschutzstreifen Bernauer Straße - in der BVV abgelehnt
+- TOP 10.19: Fahrradschutzstreifen Scharnweberstraße und Seidelstraße - in der BVV abgelehnt
+- TOP 10.20: Kinderfreundliche Wartebereiche im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Personelle Verstärkung im Amt für Weiterbildung und Kultur - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Nachwahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Erneuerung Ollenhauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Spielplatzprojekt in Reinickendorf - überwiesen
+- TOP 12.3: Spielplatz-Scouts - überwiesen
+- TOP 12.4: Sitzbänke am östlichen Hermsdorfer Bahnhofsvorplatz wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Gutachten für Halbmarathon über Brücke in der Ernststraße - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Verkehrskonzept für Bauvorhaben in der Cité Foch - überwiesen
+- TOP 12.7: Inklusion an der Havelmüller-Grundschule - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Ampelschaltzeiten Einmündung Ruppiner Chaussee / Heiligenseestraße / Karolinenstraße - überwiesen
+- TOP 13.2: Mehr Abfalleimer in Waidmannslust und Lübars - überwiesen
