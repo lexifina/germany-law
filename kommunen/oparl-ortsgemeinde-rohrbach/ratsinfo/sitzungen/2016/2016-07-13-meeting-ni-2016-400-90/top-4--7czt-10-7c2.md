@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 13. Sitzung des Ortsgemeinderates Rohrbach (2016-07-13)
+- Körperschaft: Ortsgemeinde Rohrbach
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2016-400-90%7Czt_10%7C2
