@@ -1,0 +1,55 @@
+# 51. öffentliche Sitzung des Ausschusses für Soziale Stadt, QM, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-07-13T17:10:00+02:00
+- Ende: 2016-07-13T20:40:00+02:00
+- Ort: Jasmunder Str., 13355 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3895
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3895
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=134086
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung / Änderung der Tagesordnung
+- TOP 2: Genehmigung des Protokolls
+- TOP 2.1: der 23. Sitzung am 20.10.2013
+- TOP 2.2: der 24. Sitzung am 20.11.2013
+- TOP 2.3: der 28. Sitzung am 19.03.2014
+- TOP 2.4: der 37. Sitzung am 18.03.2015
+- TOP 2.5: der 39. Sitzung am 20.05.2015
+- TOP 2.6: der 41. Sitzung am 16.09.2015
+- TOP 2.7: der 42. Sitzung am 14.10.2015
+- TOP 2.8: der 44. Sitzung am 16.12.2015
+- TOP 2.9: der 43. Sitzung am 18.11.2015
+- TOP 2.10: der 46. Sitzung am 24.02.2016
+- TOP 2.11: der 47. Sitzung am 16.03.2016
+- TOP 2.12: der 48. Sitzung am 20.04.2016
+- TOP 2.13: der 50. Sitzung am 15.06.2016
+- TOP 3: Aktuelle Themen
+- TOP 3.1: QM Brunnenviertel – Ackerstraße. Aufgaben, Ziele, Integriertes Handlungskonzept. BE: Bezirksamt; QM-Team
+- TOP 3.2: Vernachlässigtes Engelbecken? BE: Bezirksamt
+- TOP 3.3: Drucksache 2696/IV: Laternen im Moabiter Kiez. BE: Bezirksamt Mitte, N.N. Senatsverwaltung für Stadtentwicklung und Umweltschutz; Ausschuss-Vorsitzender Hr. Sack
+- TOP 4: Berichte der Quartiersräte
+- TOP 5: Aktuelle Viertelstunde
+- TOP 5.1: Mitteilungen des Vorsitzenden
+- TOP 5.2: Mitteilungen des Bezirksamtes
+- TOP 5.3: Anfragen der Ausschussmitglieder
+- TOP 6: Beratung von Drucksachen
+- TOP 6.1: Demokratie-Erklärung im Bezirk Mitte einführen!
+- TOP 6.2: Gegen sexualisierte Gewalt und Angsträume in Mitte
+- TOP 6.3: Lieferzonen auf der Chausseestraße einrichten
+- TOP 6.4: Laternen im Moabiter Kiez um die Arminiusmarkthalle bei der Umstellung auf LED dem Gründerzeitquartier anpassen!
+- TOP 6.5: Denkmalgerechte Umgestaltung des U-Bahnhofs Birkenstraße
+- TOP 6.6: Regionalmanagement Alexanderplatz einrichten
+- TOP 6.7: Fahrradverkehr in der Stromstraße erleichtern
+- TOP 6.8: Prävention im Kleinen Tiergarten zwischen Heilandskirche und Stromstraße Sicherheitsgefühl wiederherstellen
+- TOP 6.9: Auf gute Nachbarschaft von Anfang an – der BND als guter Nachbar an Scharnhorst- und Chausseestraße
+- TOP 6.10: Saubere Gehwege – nicht kaputte Gehwege
+- TOP 6.11: Kleinkünstlertum in Mitte fördern
+- TOP 6.12: Ruhe und Sicherheit für die Dresdener Straße
+- TOP 7: Verschiedenes
+- TOP 7.1: Themen kommende Sitzung
+- TOP 7.2: Sonstiges
