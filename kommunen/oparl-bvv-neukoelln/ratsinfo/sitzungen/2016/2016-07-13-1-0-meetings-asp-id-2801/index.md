@@ -1,0 +1,104 @@
+# 53. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-07-13T17:00:00+02:00
+- Ende: 2016-07-13T21:51:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2801
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2801
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 5.1: Sonderfonds zur Ausübung des Vorkaufsrechts in Milieuschutzgebieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Gute Krankenhauspflege für die Neuköllnerinnen und Neuköllner - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Nachwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 6.2: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan XIV-78a vom 07.07.2015 („Hermannstraße 134“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan XIV-262b („Parkanlage Gerlinger Straße / Warmensteinacher Straße“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Bebauungsplan XIV-246 („Karl-Marx-Straße / Reuterstraße“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Bebauungsplan XIV-290b („Am Großen Rohrpfuhl“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Bebauungsplan XIV-274aba („Waßmannsdorfer Chaussee - Mauerweg“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Bebauungsplan XIV-245ba-1 („Sonnenallee 228“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Bebauungsplan XIV-293a („Mariendorfer Weg / Eschersheimer Straße“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Flughafenstraße / Donaustraße“ im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.9: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Rixdorf“ im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.10: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Körnerpark“ im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.11: Einzelhandels- und Zentrenkonzept für den Bezirk Neukölln von Berlin, Fort-schreibung April 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Leitlinien Personalmanagement des Bezirksamtes Neukölln von Berlin: Aktualisierte Fassung (jährliche Vorlage) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Selbstverpflichtung des Bezirksamtes zur Zurückhaltung von als Wahlkampf interpretierbarer Öffentlichkeitsarbeit - in der BVV abgelehnt
+- TOP 10.2: Anmeldung per Listen - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Präventionskette im Lebensverlauf - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Neukölln baut einen Bezirksjugendring auf - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Befristete Vermietung in der Heidelberger Straße - in der BVV abgelehnt
+- TOP 11.4: Modellprojekt Grüner Straßenzug - in der BVV abgelehnt
+- TOP 11.5: Sicherheitsgefühl für Frauen am Gemeinschaftshaus Gropiusstadt stärken - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Radstreifen auf der Karl-Marx-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Aufstellung von Trinkwasserbrunnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Dokumente mit klaren Lizenzangaben versehen 2016 - in der BVV abgelehnt
+- TOP 11.9: Schnittstelle für die Datenbank der FamilienApp - in der BVV abgelehnt
+- TOP 11.10: Rücksicht nehmen im Verkehr - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: JobOption für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Kindertagesstätte in der Gropiusspassage realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Vorkaufsrecht in Milieuschutzgebieten - in der BVV abgelehnt
+- TOP 11.14: Frauenschwimmen in der Halle des Kombibads Lipschitzallee - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Rathaus-Ralley wiederbeleben - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Berliner Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller und geschlechtlicher Vielfalt" endlich auch in Neukölln. - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Seniorengerechtes Wohnen - in der BVV abgelehnt
+- TOP 11.28: Free the Robots II: Return of the Bezirksseiten über Suchmaschinen auffindbar machen - in der BVV abgelehnt
+- TOP 11.29: Werbung für gesundheitsgefährdende Genussmittel auf bezirkseigenen Werbeflächen - in der BVV abgelehnt
+- TOP 11.30: Multilinguale Internetpräsenz. - in der BVV abgelehnt
+- TOP 11.31: Projekt "Stadtteilmütter" in vollem Umfang erhalten - in der BVV abgelehnt
+- TOP 11.32: Laufende Öffentlichkeitsbeteiligungen auf die Startseite des Bezirksamts - in der BVV abgelehnt
+- TOP 11.33: Verdachtsunabhängige PCB-Messungen in Schulen und Kitas - in der BVV abgelehnt
+- TOP 11.34: Langzeiterwerbslose nicht vorzeitig in Rente schicken - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Deutsch als Fremdsprache - schriftlich beantwortet
+- TOP 12.2: Stand der Planungen für die Unterkünfte von Geflüchteten - beantwortet
+- TOP 12.3: Jobcenter Neukölln - nur fordern oder auch fördern? - beantwortet
+- TOP 12.4: Neuinvestoren für Neukölln - beantwortet
+- TOP 12.5: Berliner Energie- und Klimaschutzprogramm (BEK) in Neukölln umsetzen - schriftlich beantwortet
+- TOP 12.6: 452 Mio. Euro für Neuköllner Schulsanierung? - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Fußgängerüberweg in der Köpenicker Straße / Alt Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Dauerstau Saalestraße - in der BVV abgelehnt
+- TOP 14.3: Kaputte Bänke in der Grünanlage am Wildenbruchplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Finanzmittel „IGA dezentral“ beantragen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Müllsituation im Körnerpark - in der BVV abgelehnt
+- TOP 14.6: Poller - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Fußgänger- und Fahrradbrücke über den Britzer Verbindungskanal - in der BVV abgelehnt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: „Kooperation Schule und Jugendhilfe“ in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Zirkus Mondeo und Schwarzer Kanal retten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Dreck-Weg-App: Meldung von Verunreinigungen für Bürgerinnen und Bürger vereinfachen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Gefährliche Keime im Krankenhaus - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Energetische Betrachtungen der bezirklichen Liegenschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Altenhilfeplanung erarbeiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Heimaufsicht für Flüchtlingsunterkunft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Umbenennung Straße 574 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Erhalt der Brunnengalerie im Blumenviertel bis 2022 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Ausstellung "Gegen die Regeln - Lesben und Schwule im Sport" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Informationen über die Mietpreisbremse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Finanzierung der Seniorenfreizeiteinrichtung in Alt-Rudow sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Zusammenarbeit fördern II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Füttern verboten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Teilnahme am Bundeswettbewerb Klimaschutz im Radverkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Earth Hour der WWF-Neukölln macht mit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Bebauungsplan 8-70a ("Harzer Straße / Kiehlufer") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Konzept für Seniorenbeauftragten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Rauchwarnmelderpflicht endlich auch in Berlin durchsetzen! - mit Abschlussbericht zur Kenntnis genommen
