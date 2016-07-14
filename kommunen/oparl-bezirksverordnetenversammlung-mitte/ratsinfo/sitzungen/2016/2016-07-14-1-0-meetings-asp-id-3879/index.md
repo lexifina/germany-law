@@ -1,0 +1,158 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-07-14T17:30:00+02:00
+- Ende: 2016-07-14T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3879
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3879
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=134057
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Verleihung des Integrationspreises
+- TOP 3: Mitteilungen
+- TOP 3.1: des Vorstandes
+- TOP 3.2: der Fraktionen
+- TOP 3.3: der Ausschüsse
+- TOP 3.4: des Bezirksamtes
+- TOP 4: Konsenslisten
+- TOP 5: Thematische Stunde
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Flüchtlingskonzept des Bezirksamtes an BVV und Integrationsausschuss vorbei?
+- TOP 6.2: Sommer in Berlin - Überraschung an der Plansche?
+- TOP 6.3: Wie weiter mit der KITA-Gutscheinstelle?
+- TOP 6.4: Schulbeginn 2016/17: Haben alle Kinder und Jugendlichen in Mitte ihren Schulplatz gefunden?
+- TOP 6.5: Mieterinformation bei Beendigung der öffentlichen Förderung zum Zweiten
+- TOP 6.6: Wiesenburg: Keine QM-Mittel für Konzepterarbeitung Zwischennutzung Sammelhalle?
+- TOP 6.7: Ein Sportplatz für die Moabiter Grundschule: Alle sind dafür, aber wer ist zuständig?
+- TOP 6.8: Wann kommt nun endlich die Kaufland-Filiale im ehemaligen Berlin-Carré?
+- TOP 6.9: Radweg Müllerstraße
+- TOP 6.10: Durchfahrt im Englischen Viertel
+- TOP 6.11: Fahrradbügel am U-Bhf. Birkenstraße
+- TOP 6.12: Wann kann auf dem Magdeburger Platz wieder gepicknickt werden?
+- TOP 6.13: Umbau Arminius-Markthalle
+- TOP 6.14: Situation am Leopoldplatz
+- TOP 7: Dringlichkeitsanfragen
+- TOP 7.1: Ferienbetrieb der Jugendverkehrsschule in der Bremer Straße gesichert?
+- TOP 7.2: Wann wird der Boden bereitet für bezahlbare Wohnungen?
+- TOP 7.3: Wo bleibt der Beschluss zum Eigentümer-Wechsel des ehemaligen Diesterweg -Gymnasiums (DEGEWO) im Brunnenviertel?
+- TOP 7.4: Blockkonzept westlicher Melchiorblock: Sportstadträtin spricht sich für Abbruch einer Sporthalle aus, ignoriert die Betroffenenvertretung Nördliche Luisenstadt und nimmt einem Sportverein die Existenzgrundlage
+- TOP 7.5: Plakate nur gegen Kaution?
+- TOP 8: Große Anfragen
+- TOP 8.1: Geschlossene Jugendeinrichtungen
+- TOP 8.2: Soziale Erhaltungssatzung – Mieterinformation über Mieterberatung
+- TOP 8.3: Wie geht es weiter mit der Kinderfarm in der Triftstraße?
+- TOP 8.4: Haus der Gesundheit
+- TOP 8.5: Umstrukturierungen bei PersFin
+- TOP 8.6: Schulsportplatz Moabiter Grundschule – Chance verpasst?
+- TOP 8.7: Moabiter Grundschule
+- TOP 8.8: Leitbild Potsdamer Straße
+- TOP 8.9: Ist der Kinder- und Jugendschutz in Mitte sichergestellt?
+- TOP 8.10: Toilettenstandorte in Mitte
+- TOP 8.11: Umbau Gendarmenmarkt ab 2017 (II)
+- TOP 8.12: Jede 5. Berliner Grundschule ohne Schulleitung: wie sieht es in unserem Bezirk aus?
+- TOP 8.13: Willkommensklassen: 120 Kinder und Jugendliche ohne Schulplatz trotz vorhandenerSchulplätze? Nachfrage zu Drs. 2799/IV und 2829/IV
+- TOP 8.14: Zielvereinbarung Hilfen zur Erziehung (HZE) – Mitte ist nicht dabei?
+- TOP 9: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 10: Vorlagen zur Beschlussfassung
+- TOP 11: Vorlagen zur Beschlussfassung/Beschlussempfehlung
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2015 zugelassenen über- und außerplan-mäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 12: Dringlichkeitsanträge
+- TOP 12.1: Benennungsvorschläge für die noch offenen Benennungen im Baugebiet Heidestraße („Europacity“)
+- TOP 12.2: Alfred Döblin am Alexanderplatz ehren
+- TOP 12.3: Schulbesuch von Geflüchteten sicherstellen
+- TOP 12.4: Prostitutionshinterlassenschaften zügig beseitigen, Grünflächen transparent gestalten
+- TOP 12.5: Queere Jugendarbeit fördern
+- TOP 12.6: Kulturpavillon von HEKTICKET am Berlin Carré erhalten
+- TOP 12.7: Mehr Sicherheit bei der Querung der Bremer Straße / Ecke Siemensstraße
+- TOP 13: Anträge
+- TOP 13.1: Haus der Gesundheit – kommunal erwerben!
+- TOP 13.2: Kundenorientierung an allen BVG-Verkehrsknotenpunkten
+- TOP 13.3: Eigentümerinformationen Milieuschutz nachvollziehbar machen
+- TOP 13.4: B-Plan Fischerinsel festsetzen – Jetzt aber!
+- TOP 13.5: Wohnungen in Berlin-Mitte endlich von Asbest befreien!
+- TOP 13.6: Volle Transparenz für Online-Meldungen ans Ordnungsamt Mitte schaffen – wie in anderen Bezirken auch!
+- TOP 13.7: Moabiter Grundschule in das Schul- und Sportanlagensanierungsprogramm 2017 aufnehmen
+- TOP 13.8: Mitte aktiv für niedrigschwellige Informationszugänge zum Beratungsangebot „Minijob?– Mach mehr draus!“
+- TOP 13.9: Bericht zur baulichen Situation der Schulhöfe inklusive Grünpflege im Bezirk Mitte: Sichere Bewegungs- und Freiräume?
+- TOP 13.10: Haus der Gesundheit
+- TOP 13.11: Bewohner in der Berlichingenstraße nicht im Stich lassen
+- TOP 13.12: Mehr Grünpflege, mehr Sauberkeit in unseren Grünanlagen
+- TOP 13.13: Maßnahme zur nachhaltigen Sicherung der Aufgabenerfüllung des regionalen Sozialpädagogischen Dienstes (RSD)
+- TOP 13.14: Kitagutscheinstelle Schließzeiten vermeiden!
+- TOP 14: Dringliche Entschließungen
+- TOP 15: Entschließungen
+- TOP 15.1: Erhalt und Ausbau der Jugendarbeit
+- TOP 15.2: Ausbau der aufsuchenden Jugendsozialarbeit
+- TOP 16: Anträge/Beschlussempfehlung
+- TOP 16.1: Würdigung des Ursprungs des Gesundbrunnen
+- TOP 16.2: Ponyreiten auf Weihnachtsmärkten und Straßenfesten in begründeten Fällen unterbinden
+- TOP 16.3: Ehrenamtstag in Berlin-Mitte schaffen
+- TOP 16.4: Lieferzonen auf der Chausseestraße einrichten
+- TOP 16.5: Laternen im Moabiter Kiez um die Arminiusmarkthalle bei der Umstellung auf LED dem Gründerzeitquartier anpassen!
+- TOP 16.6: Regionalmanagement Alexanderplatz einrichten
+- TOP 16.7: Mülleimer für Hundeauslaufgebiet in der Rehberge
+- TOP 16.8: Tiergehege in der Rehberge sinnvoll nutzen
+- TOP 16.9: Alle Verfahrensauswertungen von Bebauungsplänen weiterhin der Bezirksverordnetenversammlung zur Kenntnis geben
+- TOP 16.10: Kulturelle Zwischennutzung im Bärenzwinger
+- TOP 16.11: Beschlüsse der BVV ernst nehmen (1): Jugendverkehrsschule in der Bremer Straße 10 sichern, nachhaltig entwickeln und Betrieb gewährleisten!
+- TOP 16.12: Neugeborene ohne Identitätsnachweis
+- TOP 16.13: Fahrradverkehr in der Stromstraße erleichtern
+- TOP 16.14: Ermittlung der öffentlichen Meinung
+- TOP 16.15: Freie Radwege und Busspuren sichern
+- TOP 16.16: Zwangsräumungen und Stromsperren dokumentieren
+- TOP 16.17: Durchwegung zwischen Scharnhorst- und Chausseestraße ermöglichen
+- TOP 16.18: Kleinkünstlertum in Mitte fördern
+- TOP 16.19: Ruhe und Sicherheit für die Dresdener Straße
+- TOP 17: Vorlagen zur Kenntnisnahme
+- TOP 17.1: Konzept für Seniorenfreizeitstätten
+- TOP 17.2: Eigentümer-Nutzer-Modell im Bezirk realisieren und in der KLR abbilden
+- TOP 17.3: Gedenken an die „Zerstörte Vielfalt“ in der Feldzeugmeisterstraße zeigen
+- TOP 17.4: beabsichtigte Neueinstellungen im 2. Quartal 2016
+- TOP 17.5: Infos über "Asbest in Wohnräumen" auf die Homepage des Bezirksamtes!
+- TOP 17.6: Eine Fußgängerzone am Potsdamer Platz
+- TOP 17.7: Schönerer Tunnel
+- TOP 17.8: Mehr Ruhe für die Köpenicker Straße
+- TOP 17.9: Geschwindigkeitsbeschränkung in der Köpenicker Str.
+- TOP 17.10: Qualitätsspiegel Soz 2016: Kundenbefragungen im Sozialamt
+- TOP 17.11: Geschwindigkeitsbeschränkung in der Köpenicker Straße während der Nachtstunden
+- TOP 17.12: Gesunde Männer für Mitte!
+- TOP 17.13: Temporeduzierung in der Alexanderstraße bei Nacht
+- TOP 17.14: Geschwindigkeitsbeschränkung in der Wollankstraße während der Nachtstunden
+- TOP 17.15: Die BVV und die Ruine
+- TOP 17.16: Flüchtlingskonzept erstellen- Aktualisierung des Integrationsprogramms
+- TOP 17.17: Dokumentenprüfgeräte in den Bürgerämtern
+- TOP 17.18: Technische Gestaltung der Webseite - Terminvergabe im Bürgeramt
+- TOP 17.19: Medienhof Wedding sichern: bessere Bildung in Wedding-Gesundbrunnen!
+- TOP 17.20: Stärkung des Stadtplanungsamtes durch "Wachsende Stadt"
+- TOP 17.21: Europäische Woche der Mobilität: Motto 2015 "Clever unterwegs, besser leben" - Mitte ab 2016 dabei!? Maßnahmen zur Förderung einer nachhaltigen Mobilität in der Stadt
+- TOP 17.22: Lebensqualität in Moabit Ost verbessern: Stadtplätze als Treffpunkte für die Nachbarschaft schaffen
+- TOP 17.23: Urban Gardening im Bezirk Mitte stärken
+- TOP 17.24: Erstberatung im Sozialamt Mitte schaffen / Einrichtung einer Eingangszone
+- TOP 17.25: Spreeuferweg: Planungen an der Schillingbrücke zwischen Mitte und Friedrichshain-Kreuzberg abstimmen
+- TOP 17.26: Planungen für die Wiesenburg (Wiesenstraße 55-59)
+- TOP 17.27: Grüne Welle für Radfahrende
+- TOP 17.28: Online-Sprechstunden für die Wirtschaftsförderung erproben
+- TOP 17.29: Lebenswerte Häuser am Hauptbahnhof
+- TOP 17.30: Flüchtlingskinder werden krank durch Dauerlicht (1)
+- TOP 17.31: Gedenkstein für Johnny K.
+- TOP 17.32: Verkehrs-Poller besser kenntlich machen - Vorlage zur Kenntnisnahme 1675/IV Regelung für Gesamtberlin
+- TOP 17.33: Brüsseler Kiez entschleunigen
+- TOP 17.34: Bewohner_innenbeiräte in den Gemeinschafts- und Notunterkünften schaffen
+- TOP 17.35: Wohnraum erhalten – Zwangsräumungen verhindern!
+- TOP 17.36: Werkstattverfahren Wiesenburg fortführen
+- TOP 17.37: Einbeziehung der Bürgerschaft in Neubauvorhaben städtischer Wohnungsbaugesellschaften in Mitte
+- TOP 17.38: Bremer Straße als sozial-ökologisch-pädagogischen Nahraum entwickeln
+- TOP 17.39: Elektromobilität im Bezirk durch Ladestationen in und an öffentlichen und privaten Gebäuden stärken
+- TOP 17.40: Spielplätze wirklich realisieren
+- TOP 17.41: Genehmigungskriterien für Umsetzung der Erhaltungsverordnung gemäß §172 Abs. 1 Satz 1 Nr.2 BauGB unter Berücksichtigung der gebietsspezfischen Mietspiegel
+- TOP 17.42: Fischerinsel / Mühlendamm: Kreuzungsbereich Fischerinsel 1 - Weg und Parkplätze wieder zur Verfügung stellen
+- TOP 17.43: Sachmittel für freiwilliges Engagement in Nachbarschaften im Bezirk Mitte im Jahr 2016
+- TOP 17.44: Conrad-Stiftung Bürger* für Mitte - Förderungen 2016
+- TOP 17.45: I-14a (Stallschreiberblock)
+- TOP 17.46: Bibliothekentwicklungsplan 2016 - 2020
