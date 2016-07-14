@@ -1,0 +1,8 @@
+# TOP 13: Jahresabschluss zum 31.12.2015 - Eigenbetrieb Rettungsdienst
+
+- Sitzung: Sitzung des Kreistages Ludwigslust-Parchim (2016-07-14)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7301b2f24bb7ed51280bee
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a7301b2f24bb7ed51280beb
