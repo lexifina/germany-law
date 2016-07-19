@@ -1,0 +1,131 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2016-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3903326
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3903326
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Wettersteinplatz 1. Einhaltung Tempo 30 2. Falschparker 3. Baumfällungen ohne Ersatz 4. Verkehrslärm 5. Flaschencontainer 6. Krankenwagen mit Alarmsirenen; Bürgerschreiben vom 13.06.2016
+- TOP 2.2.: Pro Isar Aktion und aktuelle Eskalationen; Bürgerschreiben vom 27.06.2016 - <div></div>
+- TOP 2.3.: Kreuzung Humboldtstraße / Pilgersheimer Straße, Hupkonzerte; Bürgerschreiben vom 28.06.2016 - <div></div>
+
+  						<div>Weiterleitung PI 21 / KVR</div>
+- TOP 2.4.: Geschwindigkeitsüberwachung Konradinstraße; Bürgerschreiben - <div></div>
+- TOP 2.5.: Tempo 30 in der Karolingerallee am Albert-Einstein-Gymnasium; Bürgerschreiben vom 01. Juli 2016 - <div></div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung des Projekts Geothermie Schäftlarnstraße im HKW Süd durch die SWM GmbH
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Familienbaum GbR, für die Maßnahme: Schaffung von Angeboten in den Bereichen Bewegung, Spiel, Kreativität, Musik, Kunst, Kultur uvm.; Antragssumme: 9.015,60 ?; Beschlussvorlage des Direktoriums vom 04.07.2016 - <div></div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Verwendungsnachweise 3.1.6.1.1 Maibaumverein Untergiesing; Fest am 1. Mai 2016 3.1.6.1.2 BI "Mehr Platz zum Leben"; verschiedene Veranstaltungen vom 27.02.2015 - 28.11.2015
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Gesperrter U-Bahn Eingang Kolumbusplatz; Bürgerschreiben vom 19.06.2016 (verwiesen aus der Juni-Sitzung) - <div></div>
+
+  						<div>zur Kenntnis genommen</div>
+- TOP 3.1.: Absicherung der Garageneinfahrt Schlehdorfer Straße 11 / Tegernseer Landstraße 172; Antrag der SPD-Fraktion (vertagt aus der Juni-Sitzung) - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Buslinienführung am Marienplatz, Beschlussentwurf für den Ausschuss für Arbeit und Wirtschaft; Zuleitung des Referates für Stadtplanung u. Bauordnung mit der Bitte um Stellungnahme zur BV-Empfehlung Nr. 14-20 / E 00721 (vertagt aus der Juni-Sitzung)
+- TOP 3.2.: Grünwalder Straße 190; Kurzparkzone; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Benediktenwandstraße 5; Zuleitung des KVR mit der Bitte um Stellungnahme bis 05.08.2016
+- TOP 3.1.: Maßnahmen ergreifen, um den Umgehungsverkehr in der Harthauser Straße, Gabriel-Max-Straße, Benediktenwandstraße und Rabenkopfstraße während der Baumaßnahmen und starker Frequentierung der Geiselgasteigstraße zu unterbinden / bzw. zu reduzieren; BA-Antrag Nr. 14-20 / B 02392 vom 17.05.2016; Antwortschreiben des KVR vom 13.06.2016 (neutrale Erledigung)
+- TOP 3.2.: Rabenkopfstraße - Sanierung und verkehrsberuhigende Maßnahmen - Ortstermin mit Vertretern des Baureferates Tiefbau und des Kreisverwaltungsreferates; Stellungnahme des KVR vom 23.06.2016 (negative Erledigung)
+- TOP 3.3.: Rechts vor Links in der Schyrenstraße / Freibadstraße; Antwortschreiben des KVR zu BA-Antrag Nr. 14-20 / B 00579; Beschluss des BA 18 aus der August-Sitzung 2015; Antwortschreiben des KVR vom 23.06.2016 (negative Erledigung)
+- TOP 3.4.: Instandsetzung des Grünstreifens Höhe Grünwalder Straße 248 bis 252; BA-Antrag Nr. 14-20 / B 02152; Antwortschreiben des Baureferats-Gartenbau (positive Erledigung)
+- TOP 3.5.: Verkehrschaos am Tierpark; Bürgerschreiben aus der Sitzung des BA 18 vom 19.04.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 29.06.2016 (neutrale Erledigung)
+- TOP 3.6.: Ladezone in der Säbener Straße 9; Bürgerantrag; Beschluss des BA 18 aus der Mai-Sitzung; Stellungnahme des KVR vom 21.06.16 mit der Bitte um Rückäußerung zur Ladezeit nur von Montag bis Freitag
+- TOP 3.1.: Barrierefreie Querungen im Fuß- und Radverkehr; Priorisierung bestehender und geplanter Querungsbauwerke a) Grundsatzbeschluss zur Priorisierung bestehender und geplanter Querungsbauwerke im Fuß- und Radverkehr b) Behandlung von Anträgen und Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 01203; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 (VB)
+- TOP 3.2.: Akazienstraße; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Umbau der Schönstraße zwischen Candidstraße und Lebschéestraße im 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten; Bedarfs- und Konzeptgenehmigung; Sitzungsvorlage Nr. 14-20 / V 06089; Beschluss des Bauausschusses vom 28.06.2016 (SB)
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Neupflanzungen von Bäumen und Sträuchern im Stadtgebiet; Antrag des BA 12 mit der bitte um Kenntnisnahme und Unterstützung
+- TOP 3.1.: Haftungsfrage im Schadensfall bei negativem Bescheid für Baumfällung; Antrag Nr. 14-20 / B 01970 des BA 15 - Trudering-Riem vom 21.01.2016; Antwortschreiben der UNB vom 13.05.2016 für alle Bezirksausschüsse zur Kenntnisnahme
+- TOP 3.2.: Harthauser Straße 17; Fällungsantrag vom 25.12.2015; Nachfrage des BA 18 vom 20.05.2016; Antwortschreiben der UNB vom 14.06.2016 (neutrale Erledigung)
+- TOP 3.1.: Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar; Gegenwärtiger Sachstand; Sitzungsvorlage Nr. 14-20 / V 06521; Bekanntgabe in der Sitzung des Bauausschusses vom 28.06.2016
+- TOP 3.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Candidstraße 18; Bescheid vom 16.06.2016 3.3.6.1.2 Theodolindenstraße 59; Bescheid vom 24.06.2016 3.3.6.1.3 Haselburgstraße 14; Bescheid vom 15.06.2016 3.3.6.1.4 Willroiderstraße 2; Bescheid vom 05.07.2016
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Aktionsplan UN-Behindertenrechtskonvention; Anpassung der BA-Satzung, der BA-Geschäftsordnung sowie der Bürger- und Einwohnerversammlungs-Satzung; Schreiben des Direktoriums vom 16.06.2016 mit der Bitte um Stellungnahme
+- TOP 3.1.: Spielflächenversorgungsplan Fortschreibung 2015; Sitzungsvorlagen Nr. 14-20 / V 06071; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 06.07.2016
+- TOP 3.2.: KITA-Jahresstatistik 2015, Onlinebefragung; Sitzungsvorlage Nr. 14-20 / V 05890; Bekanntgabe im Bildungsausschuss des Stadtrates vom 29.06.2016
+- TOP 3.3.: Errichtung einer Kindertageseinrichtung mit 3 Krippengruppen am Sanatoriumsplatz, 18. Stadtbezirk Untergiesing-Harlaching; Genehmigung des Nutzerbedarfsprogramms; Sitzungsvorlage Nr. 14-20 / V 06389; Beschluss des Bildungsausschusses des Stadtrates vom 29.06.2016 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anfrage Bebauungsplan Wilhelm-Kuhnert-Straße; Bürgerschreiben vom 13.06.2016 (verwiesen aus der Juni-Sitzung)
+- TOP 3.1.: 3.5.4.3 Beteiligung der Bezirksausschüsse bei der Erstellung von städtebaulichen Rahmenplänen; BA-Antrag Nr. 14-20 / B 01309 des BA 16 vom 18.06.2015; Schreiben des Direktoriums vom 08.06.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen (vertagt aus der Juni-Sitzung)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Ulmenstraße 16, Neubau eines Mehrfamilienhauses mit Tiefgarage - TEKTUR; Anhörung vom 27.06.2016
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Klimaanlage "Motel One" / "Agfa-Gebäude" Tegernseer Landstraße; BA-Antrag Nr. 14-20 / B 02151; Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 01.07.2016
+- TOP 3.2.: Verkaufsstand für regionales Obst u. Gemüse im Bereich des Krankenhauses Harlaching (Sanatoriumsplatz) oder der Trambahn Wendeschleife (Geiselgasteigstraße); BA-Antrag Nr. 14-20 / B 02281 vom 19.04.2016; Antwortschreiben des RAW vom 28.06.2016 (positive Erledigung)
+- TOP 3.3.: Versorgungskonzept für den 18. Stadtbezirk; BA-Antrag Nr. 14-20 / B 02146 vom 15.03.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 24.06.2016 (negative Erledigung)
+- TOP 3.4.: Ensembleschutz für Altharlaching; BV-Empfehlung Nr. 14-20 / E 00725 vom 12.11.2015; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 10.06.2016
+- TOP 3.5.: Karolingerallee 35 - Verlängerung des Pachtvertrags für den Kopierladen; Auskunft zur weiteren Nutzung des Grundstücks; BA-Antrag Nr. 14-20 / B 01216, B 01217 und B 01699; Antwortschreiben des Kommunalreferates vom 24.06.2016 (positive Erledigung)
+- TOP 3.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.2.: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2016; Prämierung von Wettbewerbsbeiträgen; Sitzungsvorlagen Nr. 14-20 / V 06506; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (SB)
+- TOP 3.3.: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau (Ziffern 1 und 2); Empfehlung Nr. 14-20 / E 00856 der BÜV des Stadtbezirkes 05 Au-Haidhausen am 25.02.2016; Sitzungsvorlagen Nr. 14-20 / V 06304; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (SB)
+- TOP 3.4.: PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung A. Statusbericht 2015 B. Anträge und Empfehlungen; Sitzungsvorlage Nr. 14-20 / V 06054; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (VB)
+- TOP 3.5.: Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität; Sitzungsvorlagen Nr. 14-20 / V 06199; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016
+- TOP 3.6.: Stellplatzschlüssel im Wohnungsbau; Sitzungsvorlagen Nr. 08-14 / V 13593; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 (SB)
+- TOP 3.7.: Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinierungsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff); Sitzungsvorlagen Nr. 14-20 / V 04822; Beschluss der Vollversammlung vom 15.06.2016
+- TOP 3.8.: Mitteilung über ein Grundstücksgeschäft (Erbbaurechtsvergabe); hier: Sachsenstraße 6, Flst. 12124/2 Sektion VII; Mitteilung des Kommunalreferats vom 24.06.2016
+- TOP 3.9.: Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln; Stadtratsantrag Nr. 14-20 / A 01481 vin 26.10.2015; Sitzungsvorlagen Nr. 14-20 / V 06382; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (SB)
+- TOP 3.10.: Fortsetzung des Glasfaserausbaus in München; Ausbau des Glasfasernetzes im 18. Stadtbezirk; BA-Antrag Nr. 14-20 / B 00903 vom 19.02.2015; Sitzungsvorlage Nr. 14-20 / V 06047; Beschluss des Ausschusses für Arbeit und Wirtschaft am 07.06.2016 (SB)
+- TOP 3.11.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.12.1 Anwesen Reichenhaller Straße; Mitteilung vom 23.06.2016
+- TOP 3.12.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.8.1 SSW "Antika Trattoria Nuova", Braunstraße 6; Mitteilung vom 29.06.2016 3.5.6.8.2 SSW "Schönhof", Schönstraße 76; Mitteilung vom 08.06.2016
+- TOP 3.13.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.13.1 Anwesen Lohstraße; Mitteilung vom 06.06.2016 3.5.6.13.2 Anwesen Cannabichstraße; Mitteilung vom 06.06.2016
+- TOP 3.1.: Sondernutzungserlaubnis zum Aufstellen eines Zeitungsentnahmegerätes der "Bogenhauser News"; Prüfung des Direktoriums hinsichtlich genehmigungsfähiger Presseerzeugnisse; Zuleitung des BA 13 mit der Bitte um Kenntnisnahme und ggf. Prüfung
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG) und der Straßenverkehrsordnung (StVO); Erteilung einer Sondernutzungserlaubnis / verkehrliche Genehmigung; hier: Hans-Mielich-Platz, Wochenmarktveranstaltungen; Zuleitung der Markthallen München
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: FC Alemannia München e.V. auf dem Sportplatz Schyrenbad; BA-Antrag Nr. 14-20 / B 02274 vom 19.04.2016; Antwortschreiben des RBS vom 13.06.2016 (negative Erledigung) - <div></div>
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
