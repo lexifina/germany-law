@@ -1,0 +1,90 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2016-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3911971
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3911971
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Kinderwerkstatt Neuhausen / Initiative Kunsttankstelle Bildnerisches Gestalten mit minderjährigen unbegleiteten Flüchtlingen von November 2016 bis November 2017
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Pathos München e.V. Magdalena Project vol2. München Neuhausen vom 14.-16.10.2016
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Inkunst e.V., Theater werkmünchen Theaterprojekt "After Math" vom 23. - 26.07.2016
+- TOP 2.3.4.: (E) Budget der Bezirksausschüsse Initiative "Die arabische Nacht" Theaterstück "Die arabische Nacht" vom 26.08. - 15.09.2016
+- TOP 2.4: Entscheidungsfälle (1)
+- TOP 2.4.1.: Raumsuche GS Margarethe-Danzi-Str. unterstützen
+- TOP 2: (E) Baurecht für Kulturbetrieb auf CLZ-Gelände schaffen Empfehlung Nr. 08-14 / E 02096 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 21.11.2013
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen (1)
+- TOP 3: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle (2)
+- TOP 3.2: Bürgeranliegen, Anträge (1)
+- TOP 3.3: Anhörungen (1)
+- TOP 3.4: Antwortschreiben (1)
+- TOP 3.4.1.: Realisierung des Arnulfstegs
+- TOP 3.4.2.: Fuß- und Radwegsteg Arnulfpark-Westend
+- TOP 3.4.3.: Umgehende Realisierung der Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhaltepunkt Donnersbergerbrücke
+- TOP 3.4.4.: Zeitnaher Bau zumindest einer Geh- und Radwegbrücke über die Bahnlinie von Nymphenburg nach Laim
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen (2)
+- TOP 3.6: Verschiedenes (1)
+- TOP 4: Unterausschuss für Bau und Planung
+- TOP 4.1: Entscheidungsfälle (3)
+- TOP 4.2: Bürgeranliegen, Anträge (2)
+- TOP 4.3: Anhörungen (2)
+- TOP 4.4: Antwortschreiben (2)
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen (3)
+- TOP 4.6: Verschiedenes (2)
+- TOP 5: Unterausschuss für Umweltfragen
+- TOP 5.1: Entscheidungsfälle (4)
+- TOP 5.2: Bürgeranliegen, Anträge (3)
+- TOP 5.3: Anhörungen (3)
+- TOP 5.3.1.: Auf den Einsatz von Laubbläsern verzichten
+- TOP 5.4: Antwortschreiben (3)
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen (4)
+- TOP 5.5.1.: Haftungsfrage im Schadensfall bei negativen Bescheid für Baumfällung
+- TOP 5.6: Verschiedenes (3)
+- TOP 6: Unterausschuss für Soziales und Integration
+- TOP 6.1: Entscheidungsfälle (5)
+- TOP 6.2: Bürgeranliegen, Anträge (4)
+- TOP 6.3: Anhörungen (4)
+- TOP 6.4: Antwortschreiben (4)
+- TOP 6.4.1.: Ohne positive Schufa-Auskünfte keine günstigen Stromtarife?
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen (5)
+- TOP 6.6: Verschiedenes (4)
+- TOP 7: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle (6)
+- TOP 7.2: Bürgeranliegen, Anträge (5)
+- TOP 7.3: Anhörungen (5)
+- TOP 7.4: Antwortschreiben (5)
+- TOP 7.5: Antwortschreiben (6)
+- TOP 7.6: Verschiedenes (5)
+- TOP 8: Unterausschuss für Bildung und Sport
+- TOP 8.1: Entscheidungsfälle (7)
+- TOP 8.2: Bürgeranliegen, Anträge (6)
+- TOP 8.3: Anhörungen (6)
+- TOP 8.4: Antwortschreiben (7)
+- TOP 8.4.1.: Rudolf-Diesel-Realschule: Abriss und Neubau
+- TOP 8.4.2.: Schwimmunterricht und Schwimmstätten im 9. Stadtbezirk
+- TOP 8.4.3.: Eine internationale Reformschule in öffentlicher Trägerschaft für Nymphenburg Süd
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen (6)
+- TOP 8.5.1.: Verbindliche Aufnahme der Baumaßnahmen am Käthe-Kollwitz-Gymnasium in das 2. Bauprogramm der Schulbauoffensive
+- TOP 8.6: Verschiedenes (6)
+- TOP 9: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle (8)
+- TOP 9.2: Bürgeranliegen, Anträge (7)
+- TOP 9.3: Anhörungen (7)
+- TOP 9.3.1.: Änderung der BA-Satzung; Anhörungsrecht für die Bezirksausschüsse bei Vorkaufsrechtsprüfungsverfahren in Erhaltungssatzungsgebieten
+- TOP 9.3.2.: Beteiligung des Bezirksausschusses bei der Erstellung von städtebaulichen Rahmenplänen
+- TOP 9.4: Antwortschreiben (8)
+- TOP 9.4.1.: Benennung von vorab feststehenden Themen auf Einladungen zu Bürgerversammlungen
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen (7)
+- TOP 9.6: Verschiedenes (7)
+- TOP 10: Verschiedenes (8)
