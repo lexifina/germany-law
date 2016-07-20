@@ -1,0 +1,69 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-07-20T17:00:00+02:00
+- Ende: 2016-07-20T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3541
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3541
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Stiefmütterliche Behandlung der Märkte im Bezirk? - beantwortet
+- TOP 3.2: Spielplatz Augustaplatz - beantwortet
+- TOP 3.3: Weiterentwicklung des Standortes Thielallee für geflüchtete Menschen - beantwortet
+- TOP 3.4: Ist Minus das neue Plus? - beantwortet
+- TOP 3.5: Wann kommt der / die neue Behindertenbeauftragte? - beantwortet
+- TOP 3.6: Wie werden Alleinerziehende im Bezirk unterstützt ? - beantwortet
+- TOP 3.7: Baustelle statt Spielplatz im Gemeindepark Lankwitz - beantwortet
+- TOP 3.8: Sonntags-Markt auf dem Herrmann-Ehlers-Platz bis 18 Uhr? - beantwortet
+- TOP 3.9: Bemalen der grauen Steinbänke - beantwortet
+- TOP 3.10: Besondere Gefahren an Badegewässern für Geflüchtete? - beantwortet
+- TOP 3.11: Grundstücke der Fachbereiche Grünflächen und Tiefbau - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - beantwortet
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - beantwortet
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Ausschussanträge - erledigt
+- TOP 7.1.1: Sondermittel der BVV für Klara Nemethy Art - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.2.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Bebauungspläne - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.1: Bebauungsplan X - B2c (Westliche Krottnaurerstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2.1: Einstellung des Landschaftsplanes XII-2 "Lichterfelde-Süd" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.1: Sanierungsbedarf an Berliner Schulen von 5 Milliarden Euro durch rot/roten Sparwahnsinn? - beantwortet
+- TOP 9.2: Unterkünfte für geflüchtete Menschen - beantwortet
+- TOP 9.3: Auch im Rathaus Steglitz Geld versenkt? - beantwortet
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Barrierefreiheit am S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Optimierung der Lichtsignalanlagen (LSA) im Bereich Lichterfelde-Süd - überwiesen
+- TOP 10.3: Transparenz zum Zustand der Berliner Schulen noch vor den Wahlen - überwiesen
+- TOP 10.4: Infrastruktur Stadtpark Steglitz verbessern - überwiesen
+- TOP 10.5: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Geschichte des "Platz des 4. Juli" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Mehr Platz im Hort der Giesensdorfer-Grundschule schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Schließzeiten der Bolzplätze überprüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Lückenschluss des Lankegraben-Fußweges im Grünzug von der Mühlenstraße bis Alt-Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Parkregelung Riemeisterstraße - in der BVV abgelehnt
+- TOP 11.6: Kinderfreundliche Gestaltung der Warteräume im Bezirksamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Ehrenamtstag in Steglitz-Zehlendorf schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Gemeinnützige Arbeit im Grünflächenamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Fahrradabstellplätze an touristischen Zielen im Bezirk aufstocken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Toiletten öffnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Artenschutz durch mehr blühende Kräuter auch in Steglitz-Zehlendorf fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Schutz der Grünflächen im Windsteiner Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Runder Tisch Grünflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Angebote für nachhaltige Arbeitsmarktintegration von Geflüchteten schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Hobby-Imker unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Bessere Bedingungen für die Hortbetreuung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Ausreichend Geräteräume in neuen Schulsporthallen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
