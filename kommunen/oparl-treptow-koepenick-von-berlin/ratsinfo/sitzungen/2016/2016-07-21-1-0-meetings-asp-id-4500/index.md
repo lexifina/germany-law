@@ -1,0 +1,94 @@
+# 48. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-07-21T16:30:00+02:00
+- Ende: 2016-07-21T19:45:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4500
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4500
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=244331
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - vertagt
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-55 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.1: Kein Schwerlastverkehr in der Dörpfeldstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Kreuzung Kiefholzstraße / Bouchéstraße – Gehwegvorstreckung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Radweg Köpenicker Landstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Vorgezogene Haltelinie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Überprüfung der Radwegbenutzungspflicht, Köpenick / Lange Brücke (Dahme) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Tempo 30 in der Karl-Kunger-Straße zwischen Wildenbruchstraße und Krüllsstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Inklusion und Barrierefreiheit in Anlagen und Einrichtungen des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Überprüfung der Radwegbenutzungspflicht in der Puschkinallee zwischen Bouchéstraße und Elsenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.9: Kurzzeitparken für Bibliotheksnutzerinnen und Bibliotheksnutzer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.10: Verkehrssicherheit in der Kiefholzstraße (2) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.11: Sicherstellung der Linie 160 in der Porzer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.12: Tempo-30-Zone für Bruno-Bürgel-Weg in ganzer Länge - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Entlastung der Baumschulenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Plastiken, Denkmäler und Brunnen mit Bildern ins Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Erhalt des Köpenicker Standorts der Joseph-Schmidt-Musikschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Sondermittel für das Schloßplatztheater (SM 13-09) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Sondermittelantrag der Jugendfeuerwehr Oberschöneweide (SM 13-22) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Weiterer Fußgängerüberweg in der Neuen Krugallee - überwiesen
+- TOP 7.2.7: Sichere Querung der Jordanstraße Ecke Bouchéstraße - überwiesen
+- TOP 7.2.8: Sondermittel für die Jugendfeuerwehr Schöneweide (SM 14-20) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Rettungstaucher im Berliner Südosten stationieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Erweiterung der Querungshilfen an der Schönefelder Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Sondermittel für den Ortsverein Grünau e. V. (SM 15-05) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Sondermittel für den Industriesalon Schöneweide (SM 15-25) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Schleusenzeiten verlängern – Wassertourismus in Treptow-Köpenick stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Sondermittel für die Sozialkommission 1 (Soko 1) (SM 16-07) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.15: Bevölkerungsentwicklung bei StEP Verkehr berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den Verein zur Förderung sozialer und kultureller Kontakte e. V. (SM 16-41) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für die DLRG Treptow-Köpenick (SM 16-42) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den Behindertenverein Köpenick e. V. (SM 16-43) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für die Berliner Parkeisenbahn gGmbH (SM 16-44) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Umbenennung der Haltestelle "Jugendzentrum" - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Grab der Eheleute Ratsch erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Parken Straße An der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Schöner Parken und Leben am ehemaligen Görlitzer Bahndamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Einrichtung eines Fußgängerüberweges in der Porzer Str./ Ecke Coloniaallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Verkehrsberuhigung in der Neuen Krugallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Illegalen Autoabstellplatz an der Pfarrwöhrde beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Lichtzeichenanlage Firlstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Radverkehr Rudolf-Rühl-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: "Zentren- und Einzelhandelskonzept Treptow-Köpenick 2016 - Perspektiven der Zentren- und Einzelhandelsentwicklung im Berliner Bezirk Treptow-Köpenick" sowie die räumliche Abgrenzung der zentralen Versorgungsbereiche, Fachmarktagglomerationen und -standorte (Zentrensteckbriefe) als fachlicher Teilplan der bezirklichen Bereichsentwicklungsplanung (BEP) als Fortschreibung des aus dem Jahr 2009 stammenden Zentren- und Einzelhandelskonzepts - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: • Entwurf des vorhabenbezogenen Bebauungsplans XV-37ea-1 VE nebst Begründung • Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan XV-37ea-1 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Zwischen- und Schlussberichte des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Sachmittel für freiwilliges Engagement wieder für Denkmalschutz zur Verfügung stellen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Umbenennung des Parkweges im Ortsteil Alt-Treptow in "Bernhard-Langwaldt-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Schulentwicklungsplanung für die Jahre 2016 - 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Riviera und Gesellschaftshaus als Ort für Kultur und Gastronomie mit öffentlicher Zugänglichkeit zum Wasser sichern! - überwiesen
+- TOP 14.2: Verkehrskonzept Schöneweide - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Informationen an Spielplätzen - überwiesen
+- TOP 14.4: Wartehäuschen am Groß-Berliner Damm - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Verkehrssicherheit im Königsheideweg - überwiesen
+- TOP 14.6: Netz in der Grünstraße - überwiesen
+- TOP 14.7: Paddelnaturerlebnis auf dem Gosener Graben erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Hortanmeldung erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Radverkehr in der Johannisthaler Chaussee - überwiesen
+- TOP 14.10: Radweg Köpenicker Landstraße instand setzen - überwiesen
+- TOP 14.11: Beseitigung der Brandschäden am historischen Kinderspiel- und Turnplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Stau an der Kreuzung Schnellerstraße / Karlshorster Straße entgegenwirken - überwiesen
+- TOP 14.13: Einrichtung einer Kontaktbörse zur Absicherung der haus- und fachärztlichen Versorgung im Bezirk Treptow-Köpenick - überwiesen
+- TOP 14.14: Entfernung von abgestorbenen Bäumen - überwiesen
+- TOP 14.15: Bürgerbeteiligung Spreepark ernst meinen - überwiesen
+- TOP 14.16: Fahrradstraße Sandbacher Weg - überwiesen
+- TOP 15: Große Anfragen - (offen)
