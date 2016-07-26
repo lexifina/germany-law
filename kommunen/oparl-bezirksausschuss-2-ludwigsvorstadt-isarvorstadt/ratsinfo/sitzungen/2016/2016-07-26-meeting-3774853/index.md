@@ -1,0 +1,130 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-07-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3774853
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3774853
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Errichtung eines Welcome-Centers in München
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .5.: Thalkirchnerstraße 108 und 112 - Sachstandsbericht des Sozialreferates -Amt für Wohnen und Migration- im Unterausschuss KJS zu TOP 2016.03 A 2.4
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .7.: Stadtteilwoche - Ausarbeitung eines BA-Antrages, damit die Kulturwoche baldmöglichst erneut im Bereich des BA 2 stattfinden kann
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Auenstraße 2a; Nutzungsänderung: Laden zu Konditorei und Café, vgl. Vertagung TOP 2016.06 B 3.1.11
+- TOP .2.: Adolf-Kolping-Straße 10, Nutzungsänderung: Parkdeck zu einem temporären Kulturdachgarten & Biergarten 2.0, vgl. Vertagung TOP 2016.06 B 3.1.12
+- TOP .3.: Landwehrstraße 53, Nutzungsänderung EG: Gaststätte und Frisör zu Wettbüro, vgl. Vertagung TOP 2016.06 B 3.1.13
+- TOP .4.: Lindwurmstraße 25-27, Nutzungsänderung einer Gaststätte zu einer Vergnügungsstätte, vgl. Vertagung TOP 2016.06 B 3.1.14
+- TOP .5.: Klenzestraße 1/RGB, Abbruch und Neuerrichtung Rückgebäude sowie Neubau einer Tiefgarage mit Einbau zweier Parklifte
+- TOP .6.: Mathildenstraße 5/RGB, Anbau von 2 Balkonanlagen mit Notleitern, Errichtung eines Innenaufzuges, Ausbau des Speichers zu einer 2. DG-Wohnung, Einbau einer Dachgaube
+- TOP .7.: Zweigstraße 6, Nutzungsänderung und Umbau von Speicher in Hotelzimmer
+- TOP .8.: Landwehrstraße 35, Nutzungsänderung und Umbau einer Internet-Lounge in einen Friseurladen sowie eines Ladens mit Shisha-Tea-Lounge in eine Shisha-Tea-Lounge
+- TOP .9.: Adlzreiterstraße 26 - VGB, Umbau und Sanierung mit Anbau 3er Balkonanlagen, Einbau Innenaufzug, DG-Ausbau, Zusammenlegung 2er Wohnungen zu einer Maisonette-Wohnung und Grundrissänderungen der Bestandseinheiten
+- TOP .10.: Haydnstraße 11, Neubau eines Mehrfamilienhauses (27 WE + 5 Büroeinheiten) mit Baumfällungen, Tektur, PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Platenstraße 2, Fällungsantrag vom 25.06.2016 eines Spitzahorn, PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Anträge aus der Einwohnerversammlung vom 07.06.2016 bzgl. Gestaltung des St.-Pauls-Platzes 1) Hermann-Lingg-Straße ganz schliessen 2) Schliessung Hermann-Lingg-Straße, mehr Platz vor dem Hauptportal 3) Verbesserung Beschilderung Anwohnerparken 4) a) Lichtkonzept - b) Brunnenanlage im Osten der Kirche - c) Behandlung des Baumbestandes, wie vom Baureferat vorgeschlagen 5) Parkplatzsituation - Nutzung der bestehenden Parkplätze auf der Theresienwiese durch Lizenzinhaber 6) Befürwortung Konzept, jedoch Prüfung, ob weniger Parkplätze wegallen könnten 7) Mitbeteiligung der Hauseigentümer an der Planung 8) Auswirkungen der Verkehrsberuhigung auf die St.-Pauls-Straße 9) zusätzliche Anregung: Einführung Einbahnregelung für die gesamte St.-Pauls-Straße in nördlicher Richtung
+- TOP .2.: Mehr Sitzgelegenheiten an öffentlichen Plätzen, Stadtbezirk 2
+- TOP .1.: Bürgeranliegen aus der BA 2 Sitzung vom 28.06.2016, vgl. Protokoll; Dreimühlenviertel Parkplatznot
+- TOP .2.: Baustelle Jahnstraße 21/21 a
+- TOP .1.: Optimierung der Containeranlage "Am Glockenbach"
+- TOP .2.: Umgestaltung Holzplatz, vgl. Vertagung TOP 2016.06 C 1.1
+- TOP .3.: Erstellung Abstellfläche für Fahrräder in der Platenstraße (vor oder nah Hausnr. 4), vgl. Vertagung TOP 2016.06 C 1.2
+- TOP .4.: Container Bavariaring - neuer Standort, vgl. Vertagung TOP 2016.06 C 1.5 - Ortstermin
+- TOP .5.: Übernahme Bürgeranliegen: Versetzung der Containeranlage Auenstraße 100 auf die Seite des Grünspitzes Wittelsbacherstraße, PLENUMSBESCHLUSS
+- TOP .6.: Übernahme Bürgeranliegen: Prüfantrag eines Radstreifens auf der Auenstraße zwischen Balde- und Roecklplatz, PLENUMSBESCHLUSS
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Schillerstraße 16, Aufhebung der Sperrzeit
+- TOP .2.: Ehrengutstraße 18, Genehmigung einer Freischankfläche
+- TOP .3.: Landwehrstraße 44, Genehmigung einer Freischankfläche, PLENUMSBESCHLUSS
+- TOP .4.: Ickstattstraße 1a, Erweiterung einer Freischankfläche, PLENUMSBESCHLUSS
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Rumfordstraße 10, Aufstellung eines Zeitungsentnahmegerätes
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Oktoberfest Wiesnzüge 2016; Wiesneinzug der Festwirte und Brauereien ab Josephspitalstraße am 17.09.2016 und Trachten- und Schützenzug ab Maximilianstraße am 18.09.2016
+- TOP .2.: München Marathon am 09.10.2016
+- TOP .3.: Hans-Sachs-Straßenfest in der Hans-Sachs-Straße und Ickstattstraße am 20.08.2016, PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1.: Bahnknoten München 2. Stammstrecke - Vorwegmaßnahmen, Stellungnahme für Beschlussvorlage für die Vollversammlung des Stadtrates am 20.07.2016
+- TOP .2.: Straßenreinigung - Reinigungsklassen in den einzelnen Stadtbezirken, Einführung einer neuen Reinigungsklasse, vgl. ÖRM Protokoll April 2016, Unterlagen liegen BA vor
+- TOP .3.: Erhardt-/Fraunhoferstraße, Austausch von Lichtsignalanlagen, vgl. Vertagung TOP 2016.06 C 3.2.2; PLENUMSBESCHLUSS
+- TOP .4.: Buslinienführung am Marienplatz - Beschlussentwurf für den Ausschuss für Arbeit und Wirtschaft am 05.07.2016 und Vollversammlung des Stadtrates am 20.07.2016 - Stellungnahme BA 2, vgl. Vertagung TOP 2016.06 C 3.2.4
+- TOP .5.: Gärtnerplatz 3, Staatstheater, Geh- und Fahrbahnsanierung nach Hochbaumaßnahme
+- TOP .1.: Klenzestraße 91, Antrag für Sitzgelegenheit (Holzbank)
+- TOP .2.: Aufstellung eines Streetworkerbusses des Condrobs e.V. am Esperantoplatz während des Oktoberfestes (17.09.2016 bis 03.10.2016)
+- TOP .1.: Begrünungsplan BA 2, Workshop in der Geschäftsstelle Mitte, Tal 13, 80331 München um 19.00 Uhr
+- TOP .2.: Bürgeranliegen, Umsetzung der Glascontainer Auenstr. 100
+- TOP .3.: Bürgeranliegen aus der BA 2 Sitzung vom 28.06.2016, vgl. Protokoll; Auenstraße, Kennzeichnung Radweg zwischen Balde- und Röcklplatz
+- TOP .4.: Bürgeranliegen; Umzäunung Theresienwiese wegen Aufbau Oktoberfest und ZLF
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: Änderung der BA-Satzung; Beteiligung der Bezirksausschüsse bei der Erstellung von städtebaulichen Rahmenplänen; BA-Antrags-Nr. 14-20 / B01309 des BA 16 ? Ramersdorf-Perlach vom 18.06.2015, Schreiben des Direktoriums vom 08.06.2016, vgl. Vertagung aus TOP 2016.06 D 1.5
+- TOP .2.: BürgerInnen-Information und -Beteiligung stärken; Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen; Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren; BA-Antrags-Nr. 14 - 20 / B 01952 des BA 16 - Ramersdorf-Perlach- vom 14.01.2016, Anhörungsschreiben des Direktoriums vom 11.07.2016, PLENUMSBESCHLUSS
+- TOP .3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 14 Abschnitt Sozialreferat: "Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist" in ein Entscheidungsrecht; BA-Antrags-Nr. 14 - 20 / B 01092 des BA 16 - Ramersdorf-Perlach - vom 16.04.2015; Anhörungsschreiben des Direktoriums vom 12.07.2016, PLENUMSBESCHLUSS
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2: Termine
+- TOP .1.: Die Unterausschüsse und die Vorstandssitzung entfallen. Der Ferienausschuss findet am Dienstag, den 30.08.2016 um 19 Uhr in der Geschäftsstelle, Tal 13 (5.OG), 80331 München statt.
+- TOP .1.: Neue Örtlichkeit für die Bürgerversammlung des BA 2 am 10.11.2016 und künftige Bürgerversammlungen: Turnhalle der Förderschule Klenzestraße 27, 80469 München
+- TOP .2.: Konzeptstudie Südliches Bahnhofsviertel, Podiumsdiskussion am 28.07.2016 um 18:00 Uhr im Deutschen Theater (Silbersaal), Schwanthalerstr. 13
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Spielflächenversorgungsplan Fortschreibung 2015, Sitzungsvorlagen Nr. 14 - 20 / V 06071, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016
+- TOP .4.: Attraktivere Öffnungszeiten Schyrenbad, vgl. TOP 2016.05 A 1.1, BA-Antrags-Nr. 14 - 20 / B02439, Unterstützung des BA 18 Untergiesing-Harlaching, vgl. Schreiben vom 27.06.2016
+- TOP .5.: "Wohngeld II" - Antrag des BA 17 - Obergiesing-Fasangarten, BA-Antrags-Nr. 14-20/ B 02590, Bitte an alle BA' s um Unterstützung
+- TOP .6.: Kommunalreferat, Kulturreferat, Beschluss Münchner Volkstheater GmbH (MVT); Neubau auf dem Viehhofgelände, Beschluss der Vollversammlung des Stadtrates vom 15.06.2016, u.a. mit Erledigung des BA-Antrages-Nr. 14-20/ 02084 des BA 2 vom 23.02.2016; Sitzungsvorlage Nr. 14 - 20 / V 05892
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau (Ziffern 1 und 2), Empfehlung Nr. 14 - 20 / E 00856 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 25.02.2016, Sitzungsvorlagen Nr. 14 - 20 / V 06304, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (SB)
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln, Antrag Nr. 14 - 20 / A 01481 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 26.10.2015, Sitzungsvorlagen Nr. 14 - 20 / V 06382, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (SB)
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2016, Prämierung von Wettbewerbsbeiträgen, Sitzungsvorlagen Nr. 14 - 20 / V 06506, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (SB)
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Bekanntgabe PERSPEKTIVE MÜNCHEN Fortschreibung Innenstadtkonzept, Teilbereich Südliches Bahnhofsviertel Ergebnisse der Konzeptstudie "Maßnahmenkonzept zur Stärkung des Wohnens" 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt Sitzungsvorlagen Nr. 14 - 20 / V 06429, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016
+- TOP .6.: Landwehrstraße 75, Neubau eines Mehrfamilienhauses (84 WE), eines Boardinghouses als Beherbergungsbetrieb mit einer maximalen Verweildauer von 6 Monaten (16 Appartements) und einer TG (92 Stpl.) - Baugenehmigung des Referates für Stadtplanung und Bauordnung vom 27.06.2016
+- TOP .7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung A. Statusbericht 2015, B. Anträge und Empfehlungen, Sitzungsvorlage Nr. 14-20 / V 06054 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (VB)
+- TOP .8.: Umgestaltung Esperantoplatz
+- TOP .9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Modellquartiere für nachhaltige Mobilität - Pilotprojekt "City2Share" a) City2Share - Teilnahme der Landeshauptstadt München am Kooperativen Projekt zur nachhaltigen Mobilität im Förderprogramm "Erneuerbar Mobil" des Bundesministeriums für Umwelt (BMUB) b) Anträge 1. "Wohnkosten senken und gleichzeitig zukunftsfähige Mobilität befördern III - Mobilitätsstationen fördern" (Ziffern 2 - 5 des Antrags), 2. "Mehr Platz für alle freimachen" Sitzungsvorlagen Nr. 14-20 / V 06313, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (VB)
+- TOP .10.: Tiefgarage St.-Pauls-Platz, BA-Antrags-Nr. 14 - 20 / B 02213 des BA 2 vom 25.02.2014, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 29.06.2016
+- TOP .11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Gesamtfortschreibung des Regionalplans, Sitzungsvorlagen Nr. 14-20 / V 06588, Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP .12.: Asiatischer Laubholzbockkäfer (ALB) Konditionen für Nachpflanzungen im Stadtgebiet, Schaffung einer Härtefallregelung zur Wurzelstockentfernung für von ALB-Fällungen betroffene Grundstückseigentümer, BA-Antrags-Nr.: 14-20 / B 01543 des Bezirksausschusses des Stadtbezirkes 16 - Ramersdorf-Perlach vom 18.08.2015, Sitzungsvorlagen Nr. 14-20/V 05807, Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichen Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Aufstellung von Zeitungsentnahmegeräte, Information des BA 13 - Bogenhausen vom 22.06.2016
+- TOP .7.: entfällt, siehe C 4.11
+- TOP .8.: Übergang Braunauer Eisenbahnbrücke für Fußgänger, BV-Empfehlungen Nr. 14-20/E 210, 748,755 der Bürgerversammlungen des BA 2 vom 06.11.2014 und 12.11.2015, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 24.06.2016
+- TOP .9.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Vollzug der Richtlinien für Sondernutzung an öffentlichen Straßen der LHSt München (Sondernutzungsrichtlinien); Genehmigung eines Zeitungsentnahmegerätes Müllerstraße 3, Schreiben des Oberbürgermeisters Dieter Reiter vom 29.06.2016
+- TOP .10.: Unterlassung der Bewerbung kommerzieller Massenveranstaltungen im Hochwasserbett der Isar
+- TOP .11.: Baureferat, Bekanntgabe Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar - Gegenwärtiger Sachstand, Sitzungsvorlage Nr. 14 - 20 / V 06521, Bekanntgabe in der Sitzung des Bauausschusses vom 28.06.2016
+- TOP .12.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Antrag auf Erweiterung einer Freischankfläche (sog. Kleinstfläche) - Müllerstraße 23, vgl. TOP 2016.03 C 2.1.2 - Schreiben des Oberbürgermeisters Dieter Reiter vom 06.06.2016
+- TOP .13.: Vollzug des Bundes-Immissionsschutzgesetzes (BIMSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV Nußbaumstraße/ Ziemssenstraße, LMU Innenstadtklinikum, Bescheid vom 11.07.2016 des Referates für Gesundheit und Umwelt
+- TOP .14.: ÖPNV Offensive IV - Barrierefreier Ausbau von Bushaltestellen, Corneliusstraße; Haltestelle Gärtnerplatz, Information des Baureferates vom 08.07.2016
+- TOP .15.: Kreisverwaltungsreferat, Beschluss Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat, Beschluss der Vollversammlung des Stadtrates vom 15.06.2016 und Neufassung vom 14.06.2016, Sitzungsvorlagen Nr. 14 - 20/ V 06221
+- TOP .16.: Referat für Stadtplanung und Bauordnung, Zwischennachricht Innerstädtischer Isarraum, Durchführung der Verkehrsuntersuchung, Zwischennachricht der Stadtbaurätin Prof. Dr. (I) Elisabeth Merk vom 08.07.2016
+- TOP .17.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bahnknoten München 2. Stammstrecke a) Sachstand b) Vorwegmaßnahmen am Hauptbahnhof und Marienhof, Sitzungsvorlagen Nr. 14-20 / V 06300, Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP .18.: Bürgeranliegen Lindwurmstraße 70 a, Bold/A1 Bar/Hotel, vgl. BA-Sitzung vom 28.06.2016, Antwort-Email des Kreisverwaltungsreferates vom 15.07.2016
+- TOP .19.: Bürgeranliegen Parkraumgebiet Lindwurmstraße - Änderung der Parkraumbewirtschaftung rund um den Schlachthof/Viehhof, vgl. TOP 2016.06 C 5.4, Antwort-Email des Referates für Stadtplanung und Bauordnung -Abteilung Verkehrsplanung vom 18.07.2016
+- TOP .1.: Direktorium, Beschluss Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse, BV-Empfehlung Nr. 14-20/E00849 der Bürgerversammlung des Stadtbezirks 9 - Neuhausen-Nymphenburg vom 26.11.2015, Sitzungsvorlage Nr. 14-20/V 05618, Beschluss des Verwaltungs- und Personalausschusses am 08.06.2016 (SB)
+- TOP .1.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 12.08.2016 - <div></div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Firma A.U.G.E. Außergewöhnliche Veranstaltug großartiger Ereignisse Kindertheater am 23.07., 30.07. und 02.08.2016 - <div></div>
+- TOP .3.: (E) Budget der Bezirksausschüsse Koreanisch Deutsches Sportinstitut e.V. Ausflug mit den Vereinskindern am 23./24.07.2016 - <div></div>
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
