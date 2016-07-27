@@ -1,0 +1,62 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818478
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818478
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Bürger: Lärmbelästigung durch Discounter NETTO am Hohenzollernplatz
+- TOP .2.1.: Wirtschaft
+- TOP .2.2.: Kultur
+- TOP .2.: Öffentlicher Bücherschrank und Infotafel auf dem Stadtplatz Ackermannbogen
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: München Marathon am 09.10.2016 und Trachtenlauf am 08.10.2016
+- TOP .2.1.: Planen
+- TOP .1.: Giselherstr. 1-7 / Schleißheimer Str. 252-258: DG-Ausbau und Anbau von Aufzügen
+- TOP .2.: Bonner Str. 20: Erneuerung und Vergrößerung der Balkone
+- TOP .3.: Tektur Lerchenauer Str. 12 a: Dachausbau mit Gauben (im Zuge einer Dachsanierung)
+- TOP .4.: Herzogstr. 49: DG-Ausbau mit 2 WE, Fassadensanierung mit Fenstern und Balkonen
+- TOP .5.: Römerstr. 18: Nutzungsänderung Ladenflächen zu Großtagespflege
+- TOP .6.: Tektur Schwere-Reiter-Straße: jetzt Neubau zweier Gebäude mit Einzelhandel und Gastronomie im EG, Boardinghouse, nicht gewerblich genutzten Apartments sowie Wohnungen und einer Tiefgarage
+- TOP .7.: Tektur Karl-Theodor-Str. 92: Neubau eines 2-geschossigen Schulpavillons (12 Klassenzimmer + Nebenräume) in Modulbauweise mit Aufzug, befristet auf max. 11 Jahre
+- TOP .8.: Tektur Hohenstaufenstr. 13: Neubau eines Studentenwohnheims mit Mehrzweckraum im UG
+- TOP .9.: Schleißheimer Str. 118: Nutzungsänderung im UG: Lager- zu Verkaufsflächen, Verbindung zweier Läden im EG zu einem Laden, Errichtung einer Verbindungstreppe zwischen UG und EG und einer Galerieebene im EG-Laden sowie Aufteilung einer Wohnung im Mansardgeschoss (4. OG) in zwei Wohnungen
+- TOP .10.: Arcisstr. 61: Errichtung einer Außenaufzugsanlage im Innenhof und Änderung dreier Treppenläufe
+- TOP .11.: Bauerstr. 38 a: Änderung zweier Balkonanlagen
+- TOP .12.: Belgradstr. 75-81: Anforderungen des BA an denTagungsraum für bürgerschaftliche Nutzung
+- TOP .13.: Elisabethstr. 47-49: Elisabethstr. 47: Aufstockung um ein Vollgeschoss; Elisabethstr. 49: Aufstockung um ein Vollgeschoss und hofseitiger Balkonanbau (1. bis 6. OG); Zentnerstr. 39-41: Aufstockung um ein Vollgeschoss und Änderung der Dachform von Flach- zu Satteldach (Ausbau mit insgesamt 8 neuen Wohneinheiten)
+- TOP .14.: Viktor-Scheffel-Str. 14: Errichtung einer Dachterrasse
+- TOP .15.: Sailerstr. 11: Sanierung, Um- und Ausbau zweier Wohnkomplexe ? hier: Vordergebäude Antrag auf Fällung von vier Bäumen in Zusammenhang mit dem Bauvorhaben
+- TOP .16.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 4, 11 und 12 ? Satzungsbeschluss Erhaltungssatzung ?Milbertshofen?
+- TOP .17.: Hiltenspergerstr. 47
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Georgenstraße zwischen Arcis- und Schleißheimer Straße für den Schwerlastverkehr sperren
+- TOP .2.: Bürger: Aufstellung von Elektroladesäulen in der nördlichen Winzererstraße
+- TOP .3.: Bürger: Feier zur Eröffnung der neuen Linienführung der Buslinie 59
+- TOP .4.: Bürger: Feier zur neuen Linienführung der Buslinie 59
+- TOP .2.1.: Umwelt
+- TOP .1.: Habsburgerstr. 2: Antrag auf Fällung eines Weißdorns
+- TOP .2.: Mottlstr. 25: Antrag auf Pflegeschnitte an zwei Hainbuchen und einem Ahorn
+- TOP .3.: Bauerstr. 12: Fällung einer Pappel
+- TOP .4.: Hiltenspergerstr. 77: Pflegeschnitt an bzw. Fällung einer Kiefer
+- TOP .5.: Luitpoldpark: Antwort auf die Stellungnahme des Baureferates
+- TOP .2.2.: Verkehr
+- TOP .1.: Programm barrierefreie Bushaltestellen: Isoldenstraße ? Haltestelle Heckscherstraße West Entscheidung über die Projektplanung
+- TOP .1.: BürgerInnen-Information und -Beteiligung stärken; Internetseiten des Bezirksausschusses der ?Internet-Gegenwart? anpassen; Arbeit des Internetbeauftragten entsprechend honorieren Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Änderung des Anhörungsrechts der Anlage 1 BA-Satzung Ziffer 14 Abschnitt Sozialreferat ?Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist? in ein Entscheidungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP .1.: Verlängerung der Grünphase am Fußgängerüberweg in der Ackermannstraße Höhe Winzererstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
