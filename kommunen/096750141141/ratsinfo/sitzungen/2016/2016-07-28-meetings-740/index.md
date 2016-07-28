@@ -1,0 +1,53 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2016-07-28T17:00:00+02:00
+- Ende: 2016-07-28T00:00:00+02:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/740
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/740
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00024914.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00024940.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der öffentlichen Niederschrift des Stadtrates vom 07.07.2016 und des Finanzausschusses vom 30.06.2016 - beschlossen
+- TOP 2: Bürgerantrag gemäß Art. 18 b GO "Parkdeck für 300 PKW-Stellplätze" - beschlossen
+- TOP 3: Kommunales Unternehmensrecht - Beteiligungsbericht 2014 - Ohne Abstimmung
+- TOP 4: Auftragsvergaben
+- TOP 4.1: Entwicklungskonzeption Galgenwasen 13 - 37; Sanierung der städtischen Wohngebäude; Vergabe der Architektenleistungen nach Durchführung des VOF-Verfahrens - beschlossen
+- TOP 4.2: Bau der Nordtangente BA IIIb, Umbau der bestehenden höhengleichen Kreuzung Nordtangente / St 2271 zu einer höhenfreien Kreuzung; hier: Nachträge Straßen- und Ingenieurbau - beschlossen
+- TOP 5: Bedarfsplanung von Kita-Plätzen - beschlossen
+- TOP 6: Einziehung einer Teilfläche der Ortsstraße Marktstraße, Fl.Nr. 13 - beschlossen
+- TOP 7: Anträge von Fraktionen und Gruppen
+- TOP 7.1: Antrag der SPD-Fraktion vom 20.06.2016/26.01.2016; Sozialer Wohnungsbau der Stadt Kitzingen - beschlossen
+- TOP 7.2: Antrag der SPD-Fraktion vom 20.06.2016 zur Förderung des Baus von Sozialwohnungen in Kitzingen - abgelehnt
+- TOP 7.3: Antrag Nr. 167/16 der KIK-Fraktion: Turnusmäßige Berichterstattung über die wirtschaftliche Betätigung der Stadt Kitzingen - abgelehnt
+- TOP 7.4: Antrag der CSU-Fraktion vom 27.06.2016 zur Sanierung Oberer Mainkai - beschlossen
+- TOP 8: Wohngrundstücke der Stadt Kitzingen in der Verwaltung der Kitzinger BauGmbH; Unterhaltsarbeiten zur Wiederherstellung der Vermietbarkeit - beschlossen
+- TOP 9: Budgetübertrag
+- TOP 9.1: Budgetabrechnung 2015; - beschlossen
+- TOP 9.2: Budgetabrechnung für das Haushaltsjahr 2015; Budget Verkehrsüberwachung - UA 1122, UA 6815 - Ohne Abstimmung
+- TOP 9.3: Budgetabrechnung für das Haushaltsjahr 2015; Budget Feuerwehr - UA 1300 - - Ohne Abstimmung
+- TOP 9.4: Budgetabrechnung für das Haushaltsjahr 2015; Budget "Schulischer Sachaufwand" für die Friedrich-Bernbeck-Schule - UA 2431 und D.-Paul-Eber-Mittelschule - UA 2121 - Ohne Abstimmung
+- TOP 9.5: Budgetabrechnung für das HHJ.2015, Budget Alte Synagoge - UA 3009 - beschlossen
+- TOP 9.6: Budgetabrechnung für das HHJ.2015; Budget Volkshochschule - UA 3501 - Ohne Abstimmung
+- TOP 9.7: Budgetabrechnung für das Haushaltsjahr 2015; Gesamtbudget "Sportanlagen" - UA 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 9.8: Budgetabrechnung für das Haushaltsjahr 2015; Budget Gärtnerei - UA 5821 - beschlossen
+- TOP 9.9: Budgetabrechung für das Haushaltsjahr 2015; Gesamtbudget Straße, Wege, Plätze - UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900 und 7850 - beschlossen
+- TOP 9.10: Budgetabrechnung für das Haushaltsjahr 2015; Gesamtbudget Abwassserbeseitigung UA 7000, 7002, 7006, 7146, 7189 - beschlossen
+- TOP 9.11: Budgetabrechnung 2015 - Ohne Abstimmung
+- TOP 9.12: Budgetübertrag 2015; hier: Gesamtbudget Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7692, 7693 - beschlossen
+- TOP 9.13: Budgetabrechnung für das Haushaltsjahr 2015; Budget Bauhof - UA 7711 - beschlossen
+- TOP 9.14: Budgetabrechnung für das Haushaltsjahr 2015; Budget Tourist-Info - UA 7901 - beschlossen
+- TOP 9.15: Budgetabrechnung 2015; Budget "Städtischer Waldbesitz" - UA 8551 - Ohne Abstimmung
+- TOP 9.16: Budgetabrechnung 2015; Budget "Wohngrundstücke, sonstige bebaute Grundstücke" - UA 8801, UA 8802 - Ohne Abstimmung
+- TOP 9.17: Budgetabrechnung 2015; Budget "Sonstiges Allgemeines Grundvermögen" - UA 8891 - Ohne Abstimmung
+- TOP 10: Haushaltsüberschreitung; HSt. 7711 9357 - Bauhof; Beschaffung von Fahrzeugen - Ohne Abstimmung
+- TOP 11: Änderung der Besetzung des Verwaltungs- und Bauausschusses bei der UsW-Fraktion - beschlossen
+- TOP 12: Berichtswesen
+- TOP 13: Sonstiges
+- TOP 13.1: Hinweis von Stadtrat Moser; Tablets und digitale Sitzungsladung
