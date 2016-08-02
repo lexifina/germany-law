@@ -1,0 +1,80 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-08-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834202
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834202
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Aufstellung von Fahrkartenautomaten an der Trambahnhaltestelle "Fürstenrieder Straße" sowie der Bushaltestelle "Fürstenrieder Straße" Westseite
+- TOP 3: Entscheidungsfälle
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Initiative Buchproduktion Buchprduktion: "Dr. Ernst Rehm und die Kuranstalt Neufriedenheim in Laim" (vertagt aus der BA-Sitzung vom 05.07.16) - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.3.: Beschlussvorlage Baureferat: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Programm barrierefreie Bushaltestellen (ÖPNV Offensive) Zschokkestraße - Haltestelle Westendstraße
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 06.07.16: Erinnerungsverfahren Gehbahn Kindertagesstätte Hogenbergstr. 33
+- TOP 4.2.: Flotowstr. 16: Antrag auf Fällung einer Weide
+- TOP 4.3.: Schreiben Direktorium vom 11.07.16: BürgerInnen-Information und -Beteiligung stärken; Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen, Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
+- TOP 4.4.: Schreiben Direktorium vom 12.07.16: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 14 Abschnitt Sozialreferat: ?Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommenen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist? in ein Entscheidungsrecht (Antrag des BA 16 Ramersdorf-Perlach Nr. 14-20 / B 01092 vom 16.04.15)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.07.16: Vergabe einer Machbarkeitsstudie zur Verbesserung des Lärmschutzes sowie der lufthygienischen und städtebaulichen Situation im Bereich der A 96 im Stadtgebiet der Landeshauptstadt München; Entwurf einer Beschlussvorlage für die Vollversammlung des Stadtrates
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Geigerstraße 1: Neubau zweier Mehrfamilienhäuser mit 2 Einzelgaragen - hier: Haus 1; Bauplan und Baumbestandsplan
+- TOP 5.3.: Geigerstraße 1: Neubau zweier Mehrfamilienhäuser mit 2 Einzelgaragen - hier: Haus 2; Bauplan und Baumbestandsplan
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben MobilSpiel e.V. vom 12.07.16: Kicklusion-Fußballfest für Alle mit und ohne Handicap am 07.08.16 von 14:00 bis 18:00 Uhr im Westpark / Nähe Rosengarten
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 05.07.16
+- TOP 7.2.: UA Kultur vom 04.07.16
+- TOP 8: Umlauf
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Schreiben Direktorium vom 30.06.16: Einführung in die Kooperations-Plattform "Alfresco" bei den Bezirksausschüssen
+- TOP 8.3.: Schreiben Direktorium vom 05.07.16: BA-Sitzungsunterlagen in digitaler Form (Antrag BA 25 Nr. 14-20 / B 00659 vom 02.10.14)
+- TOP 8.4.: Schreiben Direktorium vom 01.07.16: Verstärkung der Fachstelle für Demokratie; Antrag Nr. 14-20 / A 02245 der CSU-Stadtratsfraktion vom 28.06.16
+- TOP 8.5.: Schreiben Direktorium vom 05.07.16: BA-Sitzungsunterlagen in digitaler Form (Antrag BA 25 Nr. 14-20 / B 00659 vom 02.12.14)
+- TOP 8.6.: Schreiben Baureferat vom 14.07.16: Fahrradabstellkonzept (3. Realisierungsabschnitt); Errichtung von Fahrradständern im Bereich des Geschäftshauses "Fürst 51" (Antrag des BA 25 Nr. 08-14 / B 04584 vom 05.02.13)
+- TOP 8.7.: Schreiben Baureferat vom 20.07.16: Zustand Gehweg Landsberger Str. 272 (Schreiben BA 25 vom 10.05.16)
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 21.04.16: Neuerrichtung eines Gaststättenbetriebes: "Cafe Lilly", Burgkmairstr. 48; Ausschank von Getränken und Abgabe von zubereiteten Speisen in einem Ladengeschäft
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 18.05.16: Unveränderte Fortführung eines Gaststättenbetriebes: Schank und Speisewirtschaft "Pizzeria Meraviglia", Riegerhofstr. 20
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 15.07.16: Protokoll der Informationsveranstaltung für die Bezirksausschüsse zur Machbarkeitsstudie und zum Standortkonzept für die Bürgerbüros am 17.06.16
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.07.16: Bauvorhaben Riegerhofweg 8, Bescheid vom 05.07.16
+- TOP 8.12.: Bautenliste vom 20.06. bis 26.06.16: 1. Erstantragsverfahren a) Weißenfelderplatz 7 b) Inderstorferstr. 72 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Zschokkestr. 36
+- TOP 8.13.: Bautenliste vom 27.06. bis 03.07.16: 1. Erstantragsverfahren a) Geigerstr. 1, Haus 1 b) Geigerstr. 1, Haus 2 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Flantinstr. 10 b) Camerloherstr. 78 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Lutzstr. 23/RGB
+- TOP 8.14.: Bautenliste vom 04.07. bis 10.07.16: 1. Erstantragsverfahren a) Landsberger Str. 159a 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Fachnerstr. 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Mitterhoferstr. 7
+- TOP 8.15.: Bautenliste vom 11.07. bis 17.07.16: 1. Erstantragsverfahren a) Elsenheimerstr. 9 b) Fürstenrieder Str. 21 c) Landsberger Str. 362 d) Riegerhofweg 3
+- TOP 8.16.: Sozialreferat; Präsentation zum Info-Termin "Flüchtlinge und Wohnen für Alle" am 04.07.16
+- TOP 8.17.: Schreiben Sozialreferat vom 13.07.16: Gesamtkonzept Münchner Altenhilfe und Konzept Wohnen für Alle; Protokoll der Informationsveranstaltung vom 27.06.16
+- TOP 8.18.: Schreiben Sozialreferat vom 14.07.16: Kinder-Aktions-Koffer: Entscheidung für den 8. Stadtbezirk Schwanthalerhöhe als Austragungsort
+- TOP 8.19.: Schreiben Sozialreferat vom 13.07.16: Vollzug der Erhaltungssatzung "Laim"; Unterrichtung über nicht genehmigungspflichtige Modernisierungsmaßnahme für Wohnraum in der Agnes-Bernauer-Str.
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 27.06.16: Baumaßnahmen der Stadtwerke; Stichtage 20.06. - 24.06.16
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 04.07.16: Baumaßnahmen der Stadtwerke; Stichtage 27.06. - 01.07.16
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 11.07.16: Baumaßnahmen der Stadtwerke; Stichtage 04.07. - 08.07.16
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 18.07.16: Baumaßnahmen der Stadtwerke; Stichtage 11.07. - 15.07.16
+- TOP 8.24.: Schreiben MVG vom 22.06.16: Baustellenbedingte Linienwegsänderung der Tramlinie 18 mit Schienenersatzverkehr vom 27.07. mit 15.08.16 wegen Sanierung der Gleisanlagen im Bereich Zschokkestraße
+- TOP 8.25.: Beschluss des Verwaltungs- und Personalausschusses vom 08.06.16: Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse; Empfehlung Nr. 14-20 / E 00849 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg vom 26.11.15 (Sitzungsvorlage Nr. 14-20 / V 05618)
+- TOP 8.26.: Beschluss der Vollversammlung des Stadtrates vom 15.06.16: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat (Sitzungsvorlage Nr. 14-20 / V 06221)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung; A) Statusbericht 2015, B) Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 06054)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: Preis für Stadtbildpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2016; Prämierung von Wettbewerbsbeiträgen (Sitzungsvorlage Nr. 14-20 / V 06506)
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau (Ziffern 1 und 2); Empfehlung Nr. 14-20 / E 00856 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 25.02.16 (Sitzungsvorlage Nr. 14-20 / V 06304)
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln; Antrag Nr. 14-20 / A 01481 der Stadtratsfraktion Die Grünen/RL vom 26.10.15 (Sitzungsvorlage Nr. 14-20 / V 06382)
+- TOP 8.31.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.16: Spielflächenversorgungsplan, Fortschreibung 2015 (Sitzungsvorlage Nr. 14-20 / V 06071)
+- TOP 8.32.: Beschluss der Vollversammlung des Stadtrates vom 20.07.16: Asiatischer Laubholzbockkäfer (ALB): Konditionen für Nachpflanzungen im Stadtgebiet; Schaffung einer Härtefallregelung zur Wurzelstockentfernung für von ALB-Fällungen betroffene Grundstückseigentümer (Sitzungsvorlage Nr. 14-20 / V 05807)
+- TOP 8.33.: Beschluss der Vollversammlung des Stadtrates vom 20.07.16: Gesamtfortschreibung des Regionalplans (Sitzungsvorlage Nr. 14-20 / V 06588)
+- TOP 8.34.: Beschluss der Vollversammlung des Stadtrates vom 20.07.16: Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) (Sitzungsvorlage Nr. 14-20 / V 04822)
+- TOP 8.35.: Beschluss der Vollversammlung des Stadtrates vom 20.07.16: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung; A) Statusbericht 2015, B) Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 06054; Neufassung vom 12.07.16)
+- TOP 8.36.: Schreiben Bezirksausschuss 13 Bogenhausen vom 22.06.16: Antrag auf Erteilung einer Sondernutzungserlaubnis zum Aufstellen eines Zeitungsentnahmegerätes zur unentgeltlichen Entnahme der Zeitung ?Bogenhau- sen News? auf öffentlichem Verkehrsgrund; Anfrage zu derartigen Zeitungsent-nahmekästen des Antragstellers in anderen Stadtbezirken
+- TOP 8.37.: Schreiben BA 15 Trudering-Riem vom 28.06.16: Stellungnahme des Planungsreferates zum Antrag "Haftungsfrage im Schadensfall bei negativem Bescheid für Baumfällungen" (Antrag Nr. 14-20 / B 01970 des BA 15 vom 21.01.16)
+- TOP 8.38.: Schreiben BA 17 Obergiesing-Fasangarten vom 07.07.16: "Wohngeld II" für angestammte Quartiersbewohner z.B. im Stadtteil Giesing (Antrag BA 17 Nr. 14-20 / B 02590 vom 14.06.16)
+- TOP 8.39.: Schreiben Spiellandschaft Stadt e.V. vom 06.07.16: Vom Weltspieltag zum Weltkindertag - Spielen überwindet Grenzen: Protokoll zur Sitzung vom 01.07.2016
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Camerloher Kids e.V., Mittagsbetreuung Beschaffung eines Containers
+- TOP 3.4.: (E) Budget der Bezirksausschüsse DKSB München e.V., Familienzentrum Laim Spielaktion von 14.09.-23.09.2016 - <div>nach Antrag</div>
+- TOP 5: (E) Instandsetzung der Uhr am S-Bahnhof Laim über der Laimer Unterführung, Südseite (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00787 der Bürgerversammlung des Stadtbezirkes 25 Laim am 24.11.2015 - <div>nach Antrag</div>
+- TOP 1.2: Bürgerpost an den BA
