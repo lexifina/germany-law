@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-08-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798429
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798429
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 05.07.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Condrobs e.V. Beschaffung von Ausstattung für pädagogisch betreutes Boxtraining für jugendliche Flüchtlinge
+- TOP 3.3.: (A) Satzungsänderung: Aufwandsentschädigungen für Baumschutzbeauftragte und Internetbeauftragte
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Wertstoffcontainerstandort Kistlerhofstr.
+- TOP 4.4.: (A) Wertstoffcontainerstandort Drygalski-Allee/ Herterichstr. (2 Alternativen)
+- TOP 4.5.: (Antrag) Verschmutzung Parkanlage Baierbrunner Str.
+- TOP 4.6.: (U) Mobilfunkanlagen
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Stand der Ergebnisse
+- TOP 5.3.: (A) Abbau Lichtsignalanlage: Königswieser Str./ Allgäuer Str.
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Haltverbot Fritz-Baer-Str.
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Haltverbot Plattlinger Str.
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Haltverbot Bleibtreustr.
+- TOP 5.7.: (Antrag) Sicherheit Kindergarten Garatshausener Str.
+- TOP 8: (E) Ziff. 1: Erneuerung des Straßenbelags in der Diefenbachstraße Empfehlung Nr. 14-20 / E 00956 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 12.05.2016 - <div></div>
+- TOP 8.9.: (Antrag) Kennzeichnung Abbiegespur Sollner Str./ Wolfratshauser Str.
+- TOP 8.10.: (Antrag) Parkplatzsituation Winterthurer Str.
+- TOP 8.11.: (Antrag) Radwegebenutzungspflicht Boschetsrieder Str.
+- TOP 8.12.: (Antrag) Sauberkeit der S-Bahnhöfe Siemenswerke und Solln
+- TOP 0: Bericht (3)
+- TOP 0.14.: Haltverbot vor dem Viva Clara in der Machtlfinger Straße - <div></div>
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Änderungsantrag Schießstätte Hubertus Jagd- und Sportschießen e.V.
+- TOP 6.4.: (A) Teileigentumserwerb von Räumen für das Kinder- und Familienzentrum an der Boschetsrieder Straße (Am Südpark) Bebauungsplan Nr. 2072a Sitzungsvorlage Nr. 14-20 / V 06698
+- TOP 0: Bericht (4)
+- TOP 0.5.: Historischen Derzbachhof in Forstenried retten - <div></div>
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: (A) Haushaltsjahr 2017 Bürgertreff München Süd, Treff und Tee
+- TOP 7.3.: (A) Keine Beschäftigung von Wachpersonal mit Vorstrafen in Flüchtlingsunterkünften BV-Empfehlung Nr. 14-20 / E 00961 der Bürgerversammlung vom 12.05.2016
+- TOP 7.4.: (A) Satzungsänderung: Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung
+- TOP 7.5.: (Antrag) BA 17 - ?Wohngeld II? für angestammte Quartiersbewohner
+- TOP 0: Bericht (5)
+- TOP 0.6.: Einbindung des Jugendcafés für 10 bis 14-jährige in das geplante Familienzentrum auf dem EON-Gelände - <div></div>
+- TOP 0.7.: Einbindung des BA 19 in die Planungen des Jugendcafés im "Jungen Quartier Obersendling" - <div></div>
+- TOP 8: Unterausschuss Kultur
+- TOP 8.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.: (U) Gaststättenfortführung: Koppstr. 19
+- TOP 8.4.: (A) Wildwasser Abfahrtsrennen auf dem Floßkanal am 17.09.2016
+- TOP 8.5.: (U) Gaststättenfortführung: Hofmannstr. 23
+- TOP 8.6.: (Antrag) Sondernutzung für öffentliche Bücherschränke
+- TOP 8.7.: (Antrag) Öffentliches Singen beim Projekt "Play Me, I'm Yours"
+- TOP 8.8.: (Antrag) Zwischennutzung Ratzingerplatz
+- TOP 8.9.: (A) Aktion "Play Me, I'm Yours? vom 01.09. bis 18.09.2016
+- TOP 0: Bericht (6)
+- TOP 9: Verschiedenes
+- TOP 8.1.: Antwortschreiben, Unterrichtungen
