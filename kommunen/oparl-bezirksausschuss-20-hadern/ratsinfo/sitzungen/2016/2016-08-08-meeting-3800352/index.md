@@ -1,0 +1,100 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-08-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800352
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800352
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Lärmbelästigung am Bolzplatz Stiftsbogen 15 a
+- TOP 1.2.: Parkbereich ausschließlich für Personenkraftwagen vor den Anwesen Kriegerheimstraße 6 und 6 a
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 1: Verkehrsgefährdung in der Eichhorn- und Platanenstraße; bessere Sichtbarmachung der Kennzeichnung ?Spielstraße? (Kreisverwaltungsreferat, 30.06.16) - <div>nach Antrag</div>
+- TOP 1.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Alpenveilchenstraße 49 (Kreisverwaltungsreferat, 05.07.16)
+- TOP 1.3.: Budget der Bezirksausschüsse, Regsam e.V., "Spielkistl" vom 26.09.-30.09.2016 (Direktorium, 03.08.16)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Beschlussentwurf: Vergabe einer Machbarkeitsstudie zur Verbesserung des Lärmschutzes sowie der lufthygienischen und städtebaulichen Situation im Bereich der A96 im Stadtgebiet der Landeshauptstadt München (Referat für Stadtplanung und Bauordnung, 15.07.16)
+- TOP 6.2.: Stadtjugendamt / Förderung freier Träger, Haushaltsjahr: 2017, Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 05.07.16)
+- TOP 6.3.: Antrag BA 16 Ramersdorf-Perlach: BürgerInnen-Information und -Beteiligung stärken Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren (Direktorium, 11.07.16)
+- TOP 6.4.: Antrag BA 16 Ramersdorf-Perlach: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 14 Abschnitt Sozialreferat: "Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist" in ein Entscheidungsrecht (Direktorium, 12.07.16)
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: Alpenveilchenstraße 6 - 20, Städtebauliche Nachverdichtung Ludl-Menari-Straße West / Neubau von freifinanzierten Mietwohnungen mit TG (Alpenveilchenstraße 6-20 / Ludlstraße 52-70 + 55 -75 / Menaristraße 18-36 / Rudi-Seibold-Straße 1-41) (Referat für Stadtplanung und Bauordnung, 13.07.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Cochemstraße 10, 1 Birke und 1 Fichte
+- TOP 7.2.: Hochwaldstraße 12, 2 Fichten
+- TOP 7.3.: Senftenauerstraße 69, 2 Ebereschen
+- TOP 7.4.: Toemlingerstraße 29, 1 Scheinzypresse
+- TOP 7.5.: Zinckgrafstraße 8, 1 Zeder
+- TOP 7.6.: Alpenveilchenstraße 6 - 20, gem. Baumbestands- und Freiflächengestaltungsplan
+- TOP 7.7.: Stahleckstraße 3, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 13019
+- TOP 7.8.: Kornwegerstraße, gem. Baumbestands- und Freiflächengestaltungsplänen Nrn. 13283, 5990, 5991, 5993 und 5992
+- TOP 7.9.: Guardinistraße 126 - 174, 1 Esche, 1 Kirsche und 1 Spitzahorn
+- TOP 7.10.: Gaberlstraße 1, 1 Blautanne
+- TOP 7.11.: Ettenhoferstraße 2 a, 1 Tanne
+- TOP 7.12.: Rolf-Pinegger-Straße 4 - 14, 1 Pappel
+- TOP 7.13.: Mohnweg 6, 1 Linde und 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Terofalstraße 103, 1 Scheinakazie und 1 Bergahorn
+- TOP 7.2.: Listen des Baureferates vom 27.06.16
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Antrag des BA 15 Trudering-Riem: Haftungsfrage im Schadensfall bei negativem Bescheid für Baumfällung (Referat für Stadtplanung und Bauordnung, 13.05.16)
+- TOP 8.2.: Einführung der Kooperations-Plattform "Alfresco" bei den Bezirksausschüssen (Direktorium, 30.06.16)
+- TOP 8.3.: Kinder-Aktions-Koffer: Entscheidung für den 8. Stadtbezirk (Sozialreferat, 14.07.16)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Heiglhofstraße (Sozialreferat, 12.07.16) - Steinpilzweg (Sozialreferat, 14.07.16) - Hallgartenstraße (Sozialreferat, 19.07.16)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: - Öffnung des Hans-Grässel-Weges zwischen Fürstenrieder Straße und Lichtensteinstraße für den gegenläufigen Radverkehr, Markierung Ein- und Ausfahrtsbereiche (Kreisverwaltungsreferat, 20.07.16) - Unfallhäufung im Kreuzungsbereich Gräfelfinger Straße, Anordnung von absoluten Haltverboten (Kreisverwaltungsreferat, 22.07.16)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, hier: Großhaderner Straße 50, Telekommunikation (SWM, 25.07.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Stadtteil München - Großhadern Hohenklingenstraße / Bereich zwischen Windeckstraße und Stahleckstraße, Antrag auf Begrünung des östlichen Straßenrandes (Baureferat, 11.07.16)
+- TOP 9.2.: Umgestaltung Canisiusplatz (Baureferat, 05.07.16)
+- TOP 9.3.: Zwischennachricht: Wegeverbindung Lobelienweg - Silberdistelstraße (Kommunalreferat, 19.07.16)
+- TOP 9.4.: Sauerbruchstraße - provisorische Schutzinsel (Baureferat, 20.07.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Containerstandort Willibaldstraße 225 / Ecke Haderner Steg (Remondis, 13.07.16)
+- TOP 10.2.: Lift an der U-Bahnstation "Klinikum Großhadern" (MVG, 19.07.16)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Stadtratsantrag: Verstärkung der Fachstelle für Demokratie (Direktorium, 01.07.16)
+- TOP 11.2.: Antrag BA 17 Obergiesing-Fasangarten vom 14.06.2016: "Wohngeld II" für angestammte Quartiersbewohner z.B. im Stadtteil Giesing
+- TOP 11.3.: Wiesn-Besuch der Bezirksausschüsse im Jahr 2016, BA 20: Freitag, 30.09.2016 (Direktorium, 03.08.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 15.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05954: Langfristige Freiraumentwicklung - Öffentlichkeitsarbeit A) Jahresausstellung "Freiraum 2030" und weitere Öffentlichkeitsbeteiligung B) Behandlung des Antrags "Wettbewerb für Münchens schönste Bäume"
+- TOP 12.2.: Beschluss vom 15.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05902: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 12.3.: Beschluss vom 15.06.2016 zur SItzungsvorlage-Nr. 14-20 / V 06221: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat
+- TOP 12.1.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05807: Asiatischer Laubholzbockkäfer (ALB) Konditionen für Nachpflanzungen im Stadtgebiet Schaffung einer Härtefallregelung zur Wurzelstockentfernung für von ALB-Fällungen betroffene Grundstückseigentümer
+- TOP 12.2.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06588: Gesamtfortschreibung des Regionalplans
+- TOP 12.3.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06054: PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung A. Statusbericht 2015 B. Anträge und Empfehlungen
+- TOP 12.4.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04822: Förderung von Bürgerschaftlichem Engagement Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 08.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05618: Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05722: Modellprojekt präventiver Schimmelschutz durch mineralische Oberflächen
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05085: Schaffung von neuem Baurecht im Bereich des 18. Stadtbezirkes
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05031: BeSPIELbare und beSITZbare Stadt auch für München
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 13593: Stellplatzschlüssel im Wohnungsbau
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06506: Preis für Stadtteilpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2016; Prämierung von Wettbewerbsbeiträgen
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06304: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06382: Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 02989: Ökologischer Kriterienkatalog Fortschreibung 2016
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 01203: Barrierefreie Querungen im Fuß- und Radverkehr Priorisierung bestehender und geplanter Querungsbauwerke
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06199: Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität
+- TOP 12.2.: Bekanntgabe im Bildungsausschuss vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05890: KITA-Jahresstatistik 2015 Onlinebefragung
+- TOP 12.3.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06071: Spielflächenversorgungsplan Fortschreibung 2015
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
