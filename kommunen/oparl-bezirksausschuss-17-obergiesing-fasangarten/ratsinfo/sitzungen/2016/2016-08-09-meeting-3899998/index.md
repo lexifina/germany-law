@@ -1,0 +1,83 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3899998
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3899998
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Kesselbergstraße 12, 1 Thuja
+- TOP 3.9.1.2.: Pennstraße 14-47, 2 Rot-Fichten
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Münchner Volkshochschule GmbH, Stadtbereich Ost Konzert am 16.09.2016
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, 103er - Freizeittreff Obergiesing Theatertage vom 22.-25.11.2016 - <div>vertagt</div>
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben 6.1.1 Schönseer Straße 3, Abbruch des Daches und Aufbau eines neuen Dachgeschosses (2 WE); Anhörung vom 19.07.16 6.1.2 Tegernseer Landstraße 22, Nutzungsänderung einer Wohnung im 1. OG; Anhörung vom 19.07.2016 6.1.3 Sintpertstraße 46, Umbau einer Studentenwohnung des STWM zu einer Krippe; Anhörung vom 19.07.2016 6.1.4 Herzogstandstraße 7, Rückbau u. Neuerrichtung des Dachspitzes zu einer Wohnung, Anbau eines Außenaufzugs - TEKTUR; Anhörung vom 19.07.2016 6.1.5 Kappellenfeldstraße 16, DG-Ausbau mit Gauben und Dacheinschnitt
+- TOP 0.1.: 7.1 Baufälle im 17. Stadtbezirk
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: 6.5 Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 14 Abschnitt Sozialreferat: ?Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist? in ein Entscheidungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2016; Schreiben des Direktoriums vom 12.07.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: 7.2 Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken gem. § 13 und § 14 der BA-Satzung; hier: Unterrichtung des Baureferats-Gartenbau vom 30.06.2016 über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: 6.2 Weißenseepark, Anhörungsverfahren für das Gastspiel des Circus Galliano vom 30.09.2016 bis 16.10.2016; Zuleitung des KVR mit der Bitte um Stellungnahme bis 30.08.2016 - <div>einstimmig zugestimmt</div>
+- TOP 0.2.: 6.6 Sondernutzung auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG; hier: Aktion ?PLAY ME, I'M YOURS 2016? vom 01.09. bis 18.09.2016 ? Giesinger Bahnhof; Zuleitung des KVR mit der Bitte um Stellungnahme bis 25.08.2016 - <div>einstimmig zugestimmt</div>
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: 6-3 BürgerInnen-Information und -Beteiligung stärken; Internetseiten des Bezirksausschusses der ?Internet-Gegenwart? anpassen; Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren; BA-Antrag Nr. 14-20 / B 01952 des BA 16 vom 14.01.2016; Schreiben des Direktoriums vom 11.07.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
