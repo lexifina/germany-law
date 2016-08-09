@@ -1,0 +1,88 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-08-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784354
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784354
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Widenmayerstraße 28, DG-Ausbau Restfläche, Schaffung eines 2. Rettungswegs für die Wohnung 4.OG/DG und Aufzugsaufstockung
+- TOP 7.2.: Paradiesstraße 10, Wiederherstellung von Rundgiebel, Mansarden und ursprünglichem Dachquerschnitt, DG-Ausbau, Liftanbau und Einbau von Stapelparkern
+- TOP 7.3.: Mariannenstraße 3, Aufstockung 2 Geschosse, DG-Abbruch und -Neuerrichtung, Aufstockung des Aufzugs, vertagt aus 2016.07 B 3.1.8
+- TOP 7.4.: Sendlingerstraße 62, Nutzungsänderung einer Einzelhandelsfläche als Erweiterung einer Gastronomie
+- TOP 7.5.: Liebigstraße 8, Nutzungsänderung (Nachlegalisierung)
+- TOP 7.6.: Weinstraße 6, Neubau eines Geschäfts- und Bürogebäudes, TEKTUR
+- TOP 7.7.: Oettingenstraße 40, Ausbau Dachspitz und Anbau von Balkonen im Innenhof
+- TOP 7.8.: Residenzstraße 17, Umbau Ladeflächen im EG + 1 OG., Fassadenänderung
+- TOP 7.1.: Antrag auf Änderung des Planfeststellungsbeschlusses vom 30.12.2015 für den Umbau des U-Bahnhofs Sendlinger Tor
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Freischankfläche, Gaststätte ?Marien Restaurant & Shishalounge?, Kapellenstraße 1
+- TOP 7.2.: Freischankfläche, Gaststätte ?New Deli?, Müllerstraße 52
+- TOP 7.3.: Freischankfläche, Gaststätte ?Mlinar?, Marienplatz 16
+- TOP 7.4.: Freischankfläche, Gaststätte ?Hai Asia?, Altheimer Eck 1
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund, WMF Group GmbH, Weinstraße 4
+- TOP 7.2.: Aufstellung eines mobilen Fahrradständers, Pfarrstraße 7
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Nachtschwärmer Kultur- und Shoppingnacht, Innenstadt, 09.09.2016
+- TOP 7.2.: ?Play Me. I am yours? - Klavier-Aktion, 01.09.-18.09.2016 (Aufbau ab 29.08., Abbau bis 21.09.)
+- TOP 7.3.: Isarinselfest, 02.09.-04.09.2016
+- TOP 7.4.: Straßentheater des Gesundheitsladens, Marienhof, 17.09.2016
+- TOP 7.1.: Antrag für zwei Sitzgelegenheiten, Odeonsplatz 11, ?Dorothee Schumacher Store?
+- TOP 7.2.: Antrag für zwei Sitzgelegenheiten, Rosental 1, ?Ruth Moser Taschen?
+- TOP 7.3.: Antrag für die Aufstellung von zwei Sitzgelegenheiten, Herzogspitalstraße 5
+- TOP 7.1.: Bürgeranliegen, Baumpflanzungen in der Seitzstraße
+- TOP 7.2.: BA-Antrag, Schulweghelfer Ampelquerung Prinzregentenstraße / Lerchenfeldstraße, Wagmüllerstraße
+- TOP 7.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes, Einlaß 3
+- TOP 7.2.: Verkehrsrechtliche Anordnung, Ladezone Herzog-Wilhelm-Straße, Aufhebung eines Behindertenparkplatzes Sonnenstraße 5 und Einrichtung eines Behindertenparkplatzes Sonnenstraße 17
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Information des Oberbürgemeisters zur Einhaltung der Bearbeitungsfrist bei Anträgen aus den Bezirksausschüssen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Gesamtfortschreibung des Regionalplans, Sitzungsvorlage Nr. 14-20 / V06588, Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP 0.3.: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2016, Sitzungsvorlage Nr. 14-20/V06039, Bekanntgabe des Sozialausschusses vom 07.07.2016
+- TOP 0.4.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2018, Hildegard-, Hochbrücken- und Neuturmstraße und Thomas-Wimmer-Ring zwischen Knöbel- und Kanalstraße (Teiländerung der Bebauungspläne Nr. 31bc und 1376) - Billigungsbeschluss- Sitzungsvorlage Nr. 14-20 / V06364, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016
+- TOP 0.1.: Erlaubnisbescheide
+- TOP 0.2.: Anmeldung von Versammlungen
+- TOP 0.3.: Drehgenehmigungen
+- TOP 0.4.: Unveränderte Gaststättenfortführung
+- TOP 0.5.: Entscheidung des Oberbürgemeisters zu Erweiterung einer Freischankfläche, Gaststätte ?Augustiner Klosterwirt? Frauenstraße 2
+- TOP 0.6.: Münchner Christkindlmarkt 2016, Sitzungsvorlage Nr. 14-20 / V06171, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 05.07.2016
+- TOP 0.1.: Umbau der Dultstraße zu einer Fußgängerzone, Bodendenkmal
+- TOP 0.2.: Bürgerschreiben, Taxiverkehr und Gehsteigbepflanzung in der Wurzerstraße
+- TOP 0.3.: Bahnknoten München 2. Stammstrecke, Sachstand und Vorwegmaßnahmen am Hauptbahnhof und Marienhof, Sitzungsvorlage Nr. 14-20 / V06300, Beschluss der Vollversammlung vom 20.07.2016
+- TOP 0.4.: Asiatischer Laubholzbockkäfer ? Konditionen für Nachpflanzungen im Stadtgebiet, Sitzungsvorlage Nr. 14-20 / V05807, Beschluss der Vollversammlung vom 20.07.2016
+- TOP 0.5.: ÖPNV Offensive IV, barrierefreier Ausbau der Haltestelle Prinzregentenstraße
+- TOP 0.6.: Protokoll der Begehung der Fußgängerzone Sendlingerstraße am 07.07.2016
+- TOP 0.7.: Zwischennachricht, Innerstädtischer Isarraum - Durchführung einer Verkehrszählung
+- TOP 0.8.: Anordnungen zu Radverkehrsanlagen durch das Kreisverwaltungsreferat, Sitzungsvorlage Nr. 14-20 / V0621, Beschluss des Kreisverwaltungsausschusses vom 14.06.2016
+- TOP 0.9.: Ertüchtigung der Radverkehrsverbindung nördlich des Odeonsplatzes zwischen Briennerstraße und Hofgarten
+- TOP 0.10.: Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar, Sitzungsvorlage Nr. 14-20 / V06521, Bekanntgabe in der Sitzung des Bauausschusses vom 28.06.2016
+- TOP 0.11.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Prinzregentenstraße 26-28
+- TOP 0.12.: Aufhebung eines personenbezogenen Behindertenparkplatzes, St.-Jakobs-Platz 12
+- TOP 0.13.: Information zum Betriebskonzept während der Regenerierung der Anlagen zur Grundwasserhaltung am U-Bahnhof Hauptbahnhof Linien U1/U2
+- TOP 0.14.: Radfahren auf dem Gehweg Lerchenfeldstrasse entgegen der Einbahnrichtung im Teilbereich zwischen Seeaustrasse bis Prinzregentenstrasse
+- TOP 0.3.: Antrag des BA 17, ?Wohngeld II? für angestammte Quartiersbewohner, mit der Bitte um Unterstützung
+- TOP 0.4.: Zuwendungsbewilligung, Konfetti e.V
+- TOP 0.5.: Bescheid über Ablehnung einer beantragten Zuwendung, Caminando Verlag
+- TOP 0.6.: Informationen zur Veranstaltung, Spielen in der Stadt ? Luftschloss und Pappburg am Vater-Rhein-Brunnen, 08.-11.09.2016
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
+- TOP 0.2.: Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse, Sitzungsvorlage Nr. 14-20 / V05618, Beschluss des Verwaltungs- und Personalaussschusses vom 08.06.2016
