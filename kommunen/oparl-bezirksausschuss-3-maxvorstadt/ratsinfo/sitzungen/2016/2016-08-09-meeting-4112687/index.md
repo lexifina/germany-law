@@ -1,0 +1,53 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4112687
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4112687
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Baulisten der LBK:26., 27., 28., 29. KW
+- TOP .2.: WEB-Listen der LBK: 24., 25., 26., 27., 28. KW
+- TOP .3.: Schraudolphstraße 36 DG-Neubau und Anbau eines Aufzugs, Errichtung von Balkonen und einer Notleiteranlage
+- TOP .4.: Rambergstraße 2 Errichtung eines neuen Dachgeschosses (10 WE) undje eines Aufzugs im Treppenauge der Bestandstreppenhäuser, Teilüberdachung des offenen Innenhofs zur Überdachung von Fahrradstellplätzen, Errichtung zweier Kfz-Stellplätze
+- TOP .5.: Türkenstraße 97 Errichtung eines neuen Dachgeschosses (9 WE), eines Aufzugs im Treppenauge sowie eines Multiparkers (10 Stellplätze) und eines Stellplatzes
+- TOP .6.: Gabelsbergerstraße 38 Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage
+- TOP .7.: Denkmal Schwindstraße 23 / Zentnerstraße 2 ? Grundschule an der Schwindstraße Nachtrag eines Schulanwesens in die Denkmalliste
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Barer Straße 27, zwei Kastanien
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .2.1: Verkehr
+- TOP .1.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Brienner Straße 55
+- TOP .2.2: Öffentlicher Raum
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreittmayrstraße 11, Genehmigung einer Freischankfläche
+- TOP .2.: Türkenstraße 21, Genehmigung einer Freischankfläche
+- TOP .3.: Theresienstraße 63, Genehmigung einer Freischankfläche
+- TOP .4.: Wittelbacherplatz 2, Genehmigung einer Freischankfläche
+- TOP .5.: Karlstraße 54, (Teil-)Widerruf einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: BürgerInen-Information und -Beteiligung stärken, Internetseiten des Bezirksausschusses der ?Internet-Gegenwart? anpassen; Arbeit des Internetbeauftragten oder der -Beauftrag- ten entsprechend honorieren BA-Antrag Nr. 14-20 / B 01952 des BA 16 Ramersdorf-Perlach vom 14.01.2016
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
