@@ -1,0 +1,69 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2016-08-10T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3913157
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3913157
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Aufhebung des absoluten Halteverbots in der Frohschammerstraße
+- TOP 4.2.: Fahrradstellplätze in Milbertshofen - Am Hart
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: (E) Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Cig Köfte von Efsane (Restaurant), Schleißheimer Str. 303
+- TOP 6.2.: (E) Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Imera, Schleißheimer Str. 506 (im Einkaufszentrum Mira)
+- TOP 7: Anträge
+- TOP 8: Anhörungen
+- TOP 8.1.: Änderung der BA-Satzung; Aufwandsentschädigung für Internet- und Baumschutzbeauftragte
+- TOP 8.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.: Änderung der BA-Satzung Anlage 1, Ziffer 14 im Abschnitt Sozialreferat; Entscheidungsrecht bei "Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist"
+- TOP 8.4.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB 1) Satzungsbeschluss Erhaltungssatzung "Milbertshofen" 2) Aufwertungsprozesse im Stadtbezirk auch künftig sozial verträglicher gestalten: Erhaltungssatzung Milbertshofen verlängern und weiterentwickeln
+- TOP 8.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung vom Wohnraum Wohnraum: Ostermayrstr. 4
+- TOP 8.2.: Baumfällungsanträge a) Wachterstr. 47 b) Feuchtwangerstr. 3 c) Schleißheimer Str. 247
+- TOP 8.1.: Anhörung zu den Veranstaltungen "München Marathon", 09.10.2016 und "Trachtenlauf", 08.10.2016
+- TOP 8.2.: Bedarfsnotwendige Erweiterung / Außenstelle der Familienangebote des Familienzentrums und Mehrgenerationenhauses "Unter den Arkaden" / ETC (MGH)
+- TOP 8.3.: Anhörung zur Veranstaltung evangelische Glaubensverkündigung vom 09.-11.09.2016
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO a) Absolutes Halteverbot Griegstraße b) Beschilderung Dientzenhoferstraße
+- TOP 8.2.: Erinnerungsverfahren Einfahrt Baumarkt, Lerchenauerstr. 134-136
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Förderung von Bürgerschaftlichem Engagement Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Sitzungsvorlagen Nr. 14-20 / V 04822
+- TOP 9.2.: Fortführung des Gaststättenbetriebs a) "KERVAN", Schleißheimer Str. 442 b) "Bistro Eiscafé Ischia", Frauenstädtstr. 11 c) "Treffer", Wenzelstr. 2
+- TOP 9.3.: Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse Sitzungsvorlagen Nr. 14-20 / V 05618
+- TOP 9.4.: Bürgeranliegen: Olympiaberg kein Trainingsgelände für Radsportler
+- TOP 9.1.: Baumentfernung Kita Bad-Soden-Straße 29
+- TOP 9.2.: Meldelisten Bauvorhaben vom 27.06 - 24.07.
+- TOP 9.3.: PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung A. Statusbericht 2015 B. Anträge und Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 06054
+- TOP 9.4.: Masterplan FIZ Future Bebauungsplan und Ergebnis des städtebaulichen Wettbewerbs Sitzungsvorlagen Nr. 14-20 / V 066296 Neufassung vom 12.07.2016
+- TOP 9.5.: Sanierungsmaßnahmen an Holzpavillons der Stadt München Typ 1-3 in den Sommerferien 2016
+- TOP 9.6.: Mülleimer im 24. Stadtbezirk: 1. Verschließbare Mülleimer an öffentlichen Plätzen 2. Ausstattung der Rathenaustraße mit Mülleimern Empfehlung Nr. 14-20 / E 00909 Sitzungsvorlage Nr. 14-20 / V 06114
+- TOP 9.7.: Asiatischer Laubholzbockkäfer (ALB) Konditionen für Nachpflanzung im Stadtgebiet Sitzungsvorlagen Nr. 14-20/ V 05807
+- TOP 9.8.: Gesamtfortschreibung des Regionalplans Sitzungsvorlagen Nr. 14-20 / V 06588
+- TOP 9.9.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige a) Doeberlstr. 8 b) Hürnbeckstr. 23
+- TOP 9.1.: Ambulante medizinische Versorgung in München Beschlussvorlage für den GA am 07.07.2016
+- TOP 9.2.: Berichte von bezuschussten Projekten a) Familien-Mutmach-Tag, 05.05.2016
+- TOP 9.1.: - TOP abgesetzt -
+- TOP 9.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO a) Haltverbot Georg-von-Mayr-Straße
+- TOP 9.3.: Vollzug der Grünanlagensatzung vom 15.06.2012 a) Baustelleneinrichtung an der Weyprechtstraße (U-Bahn-Station Harthof) b) Baustelleneinrichtung an der Dientzenhoferstraße 54-60
+- TOP 9.4.: SWM Verlegung der FTTB-Glasfaserleitung im Gebiet Harthof - Cluster 170 Harthof Hugo-Wolf-Straße, Weyprechtstraße, Parlerstraße
+- TOP 9.5.: Anordnung von Radverkehrsanlagen durch das Kreisverwaltungsreferat Sitzungsvorlagen Nr. 14-20 / V 06221
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
