@@ -1,0 +1,6 @@
+# TOP 1: Führung durch das Areal "Kraftwerk Mitte"
+
+- Sitzung: 20. Sitzung des Ortsbeirates Altstadt (2016-08-17)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/80446
