@@ -1,0 +1,52 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-08-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818541
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818541
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Seniorenbeirätin: Stadtteilspaziergang am 20.10.2016 im Rahmen der Seniorenwoche
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Elisabethstr. 53, ?La Cantina?: Aufstellung von zusätzlichen Verkaufseinrichtungen
+- TOP .2.: Elisabethstr. 19, ?Casa Giardino?: Aufstellung von zusätzlichen Verkaufseinrichtungen
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Straßenfest in der Agnesstraße am 17.09.2016
+- TOP .2.: Italienischer Spezialitätenmarkt vom 12.10. - 15.10.2016 (ursprünglich vom 05. bis 08.10.2016) auf dem Hohenzollernplatz
+- TOP .1.: Bürger: Nachnutzung des Instituts für Pathologie Schwabing als medizin-historisches Museum
+- TOP .2.1.: Planen
+- TOP .1.: Barlachstr. 6: Neubau eines Wohngebäudes (24 WE) mit Sparkassenfiliale und Tiefgarage (Barlachstr. 6 / Belgradstr. 162)
+- TOP .2.: Tektur Clemensstr. 122: Ausbau und Erweiterung zweier Dachgeschosse, Anbau eines Rückgebäudes mit einer Wohnung, Anbau von Balkonen am Rückgebäude
+- TOP .3.: Tektur Agnesstr. 16 RGB: DG-Ausbau mit 6 Gauben, Loggia und Aufzug ? hier: Aufzug entfällt, Änderung der Notleitern und Dachflächenfenster
+- TOP .4.: Vorbescheid Hörwarthstr. 21: Abbruch des Dachgeschosses und Neuerrichtung in geänderter Form als Wohngeschoss (Hörwarthstr. 21 / Simmernstr. 7-15)
+- TOP .5.: Sailerstr. 6: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .6.: Herzogstr. 54 RGB: Dachsanierung, Ausbau der Bestandswohnung, Aufstockung Anbau
+- TOP .7.: Tektur Clemensstr. 102: Schulbauoffensive ? Neubau einer Pavillonanlage für die Erweiterung der Grundschule Hiltenspergerstr. 72, befristet auf maximal 10 Jahre
+- TOP .8.: Tektur Herzogstr. 142: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (?Schwabinger Carré II? - Herzogstr. 142 / Schleißheimer Str. 139 / Herzogstr. 104)
+- TOP .9.: Tektur Giselherstr. 1-7: Dachabbruch, Aufstockung und Anbau von Aufzügen (Giselherstr. 1-7 / Schleißheimer Str. 252 ? 258)
+- TOP .10.: Tektur Hohenzollernstr. 97: Errichtung zweier Wohnungen im DG und Spitzboden, Nutzungsänderung Souterrain, Vorbau eines Personenaufzugs
+- TOP .11.: Belgradtsr. 42/RGB: Dachgeschoss-Ausbau
+- TOP .12.: Franz-Joseph-Str. 31: Änderung von Dachgauben
+- TOP .13.: Tektur Schwere-Reiter-Straße: Neubau zweier Gebäude mit Einzelhandel und Gastronomie im EG, Boardinghouse, nicht gewerblich genutzten Appartements, Wohnungn und Tiefgarage
+- TOP .2.2.: Wohnen
+- TOP .2.1.: Umwelt
+- TOP .1.: Zentnerstr. 32: Fällung einer Vogel-Kirsche
+- TOP .2.: Düsseldorfer Straße: Fällung einer Eberesche
+- TOP .2.2.: Verkehr
+- TOP .1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS), Sitzungsvorlagennummer 08-14 / V 09305
+- TOP .1.: Aufstellung von zwei Sitzbänken in der Birnauer Straße
+- TOP .2.: Bebauungsplan mit Grünordnung Nr. 1954 Räume für die ärztliche Versorgung der Bevölkerung einplanen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
