@@ -1,0 +1,55 @@
+# Gemeinderat (20. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2016-08-25T18:05:00+02:00
+- Ende: 2016-08-25T20:23:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcwKwvdx_Jrcu7pVfxJo45I
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1573
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfkyYQu3fkuhjBNtqALXoSpZ7ZwuxCMOGLfywhZX8CVE/Bekanntmachung_Gemeinderat_25.08.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ89zBv1XXIE7AmMKTjxkIAzJKNP22f4rvy2tjEdwez9/Oeffentliche_Niederschrift_Gemeinderat_25.08.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 23.06.2016 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1. Änderung des Bebauungsplans 36 S - Südstraße - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 1. Änderung des Bebauungsplans 36 S - Südstraße - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß §13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: 11. Änderung des Bebauungsplans 8 A - Zehnthofstraße - - 3 Ja-Stimme(n), 21 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Antrag der GL-Fraktion hier: Vermarktung des Römerparks - 22 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Gebühren, Beiträge
+- TOP 5.1: Erhebung von Anliegerbeiträgen für die Erneuerung der Fahrbahn in Aldenhoven, Gemarkung Freialdenhoven, "Schanzstraße" (Teilstück zwischen Schulstraße und Mauritiusstraße) a) Festlegung der Grenze des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Zuschussgewährung
+- TOP 6.1: Rheinisches Revier an Inde und Rur; LEADER-Fördermaßnahme Rheinischer Energielehrpfad - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Anträge von Fraktionen
+- TOP 7.1: Antrag des SPD-Fraktion hier: Förderprogramm "Gute Schule 2020" - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 8.2: Beteiligungsbericht für das Jahr 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1: 2. Änderung des Stellenplanes 2016 - 23 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Landschaftswacht des Kreises Düren für 2017 -2020; Neubestellung des Beauftragten für den Außendienst (Landschaftswart) - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 23.06.2016 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Verkauf von gemeindlichen Wohnbaugrundstücken - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Verkauf von gemeindlichen Wohnbaugrundstücken - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Verkauf von gemeindlichen Wohnbauflächen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Verkauf von gemeinlichen Wohnbauflächen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: Verkauf einer Teilfläche einer gemeindeeigenen Parzelle - Einstimmig, 0 Enthaltung(en)
+- TOP 3.6: Überlassung von gemeindeeigenen Flächen - Abgesetzt
+- TOP 3.7: Abschluss eines städtebaulichen Vertrags und Verkauf von gemeineeigenen Flächen - Abgesetzt
+- TOP 3.8: Verkauf von gemeindeeigenen Flächen - Abgesetzt
+- TOP 4.: Bauleitplanung
+- TOP 4.1: Bebauungsplan Nr. 39 A "Dietrich-Mülfahrt-Straße" - Erschließungsvertrag - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: EDV-Support in den Schulen der Gemeinde Aldenhoven; Fortsetzung der interkommunalen Zusammenarbeit - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
