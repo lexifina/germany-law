@@ -1,0 +1,94 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-08-25T18:00:00+02:00
+- Ende: 2016-08-25T19:34:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1475
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1475
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.2: SPD
+- TOP 2.2.1: Mobiles Netz NRW (Antrag Nr. 241/2016) - einstimmig
+- TOP 2.2.2: Flüchtlingsintegrationsmaßnahmen (Antrag Nr. 242/2016) - einstimmig
+- TOP 2.2.3: Zukunft Tiergehege im Bend (Antrag Nr. 238/2016) - einstimmig
+- TOP 2.3: UWG
+- TOP 2.3.1: Pflege/Unterhalt von Kunstwerken in Grevenbroich (Antrag Nr. 228/16) - einstimmig
+- TOP 2.3.2: Gewerbesteuerzerlegung (Antrag Nr. 230/16) - einstimmig
+- TOP 2.3.3: Ausschussumbesetzungen - UWG (Antrag Nr. 231/16) - einstimmig
+- TOP 2.3.4: Zustand des Kreisverkehres bei Gustorf (K22) bis zur Zufahrt auf die L116 (Antrag 235/16) - einstimmig
+- TOP 2.3.5: Schützenvereine vorausschauend und problemlösungsorientiert aktiv begleiten (Antrag Nr. 229/16) - Kenntnisnahme
+- TOP 2.4: FDP
+- TOP 2.4.1: Verkehrspolitische Analyse zur idealen Anbindung des neuen Baugebiets in Gustorf durchführen - einstimmig
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.6: ABG
+- TOP 2.6.1: Bau eines Calisthenics-Parks (Street Workout Park) (Antrag Nr. 236/2016) - einstimmig
+- TOP 2.6.2: Maßnahmen zur Verkehrsberuhigung der Karl-Oberbach-Straße (Antrag Nr. 240/2016) - Kenntnisnahme
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.8: Die Linke/Piraten
+- TOP 2.9: FBG
+- TOP 2.10: Gemeinschaftsanträge
+- TOP 2.11: Weitere Anträge
+- TOP 2.11.1: Ausschussumbesetzung - BDKJ (Antrag Nr. 234/16) - einstimmig
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Toilettenanlage an der Schule in Kapellen (Anfrage Nr. 226/16) - Kenntnisnahme
+- TOP 3.3.2: Zukunft Schneckenhaus (Anfrage Nr. 227/16) - Kenntnisnahme
+- TOP 3.3.3: Essensgeld im Kindergarten (Anfrage Nr. 237/2016) - Kenntnisnahme
+- TOP 3.3.4: Besserstellung städtischer Wahlhelfer (Anfrage Nr. 233/16) - Kenntnisnahme
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.8.1: Starkregen (Anfrage Nr. 232/16) - Kenntnisnahme
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 5.1: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2016 - einstimmig
+- TOP 6: Ersatzbenennung Erftverband - einstimmig
+- TOP 7: Einrichtung von Car-Sharing Parkplätzen - einstimmig
+- TOP 8: Finanzen
+- TOP 8.1: Jahresabschluss 2015 - einstimmig
+- TOP 8.2: Finanzzwischenbericht 2016 - einstimmig
+- TOP 8.3: Bericht an den Landrat zum Sanierungsplan (Stichtag 30.06.2016) - einstimmig
+- TOP 9: Flüchtlings- und Integrationsangelegenheiten
+- TOP 10: Entscheidung PlanungsA
+- TOP 10.1: Gestaltungssatzung SEM Kapellen - mehrheitlich bei
+- TOP 10.2: ern.Aufst.+Ausl.2.Änd.G 134- 13a Verf. - einstimmig
+- TOP 11: Beantwortung Anträge
+- TOP 11.1: Baumaßnahmen in Hemmerden der Deutschen Glasfaser (Antrag Nr. 172/16) - einstimmig
+- TOP 11.2: Todesfalle Zaun an der Frimmersdorfer Höhe (Antrag Nr. 174/16) - einstimmig
+- TOP 11.3: Kontrolle des fließenden Verkehrs (Antrag Nr. 178/16) - einstimmig
+- TOP 11.4: Freischnitt der Sichtachsen und Rückbau der Sitzbänke (Antrag Nr. 179/16) - einstimmig
+- TOP 11.5: Senkung der Beiträge nach § 8 KAG (Antrag Nr. 191/16) - einstimmig
+- TOP 11.6: Mangelhafte Baumaßnahmen der Deutschen Glasfaser in Kapellen (Antrag Nr. 194/16) - einstimmig
+- TOP 11.7: Nachhaltige Lösung und Beseitigung des Wildwuchses im Bereich des Parkplatzes und der Fahrradständer (199/16) - einstimmig
+- TOP 11.8: Erftstrand Apfelwiese (Antrag Nr. 202/16) - einstimmig
+- TOP 11.9: Sammelbeantwortung - einstimmig
+- TOP 12: Beantwortung Anfragen
+- TOP 12.1: Schulneulinge im Rhein-Kreis Neuss - einstimmig
+- TOP 12.2: Sachstand Kolumbarium (Anfrage 136/2016) - einstimmig
+- TOP 12.3: Schließt die Stadt aktiv heimische Gastronomen bei Veranstaltungen in GV aus? (Anfrage Nr. 147/16) - einstimmig
+- TOP 12.4: 300 Millionen Euro für Bahnhöfe in NRW - hier: Nachfrage (Anfrage Nr. 148/2016) - einstimmig
+- TOP 12.5: Landesvorrangfläche (Anfrage Nr. 164/16) - einstimmig
+- TOP 12.6: Baumbepflanzung Marktstraße in Wevelinghoven (Anfrage Nr. 167/2016) - einstimmig
+- TOP 13: mündliche Anträge/Anfragen
+- TOP 13.1: Aufhebung des Parkverbotes am ehem. Geschäft Lipzick (Anfrage 244/16)
+- TOP 13.2: Aktualisierung der Kreistagsabgeordneten auf der Homepage der Stadt Grevenbroich (Antrag Nr. 245/16)
+- TOP 13.3: Nachfrage zur Kultur- und VHS Ausschusssitzung Herbst 2016 (Anfrage Nr. 246/16)
+- TOP 13.4: Hinweis zur Nutzungsmöglichkeit des KFZ-Tools des Landschaftsverbandes (Antrag Nr. 247/16)
+- TOP 13.5: Beschilderung Neukirchen (Antrag Nr. 248/16)
+- TOP 13.6: Terminierung Ratssitzungen (Antrag 249/16)
+- TOP 13.7: Akteneinsicht Windkraftanlagen Hoisten (Antrag 250/16)
+- TOP 13.8: Grüne Handbuch des Rates (Antrag Nr. 251/16)
+- TOP 14: Mitteilungen BM
