@@ -1,0 +1,99 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-25T17:00:00+02:00
+- Ende: 2016-08-25T20:08:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11582
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11582
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00272909.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00272909.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00272909.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Radwegeplanung Gubener Straße - zur Kenntnis genommen
+- TOP 5: Wichernschule, Brorsstraße 5 - Beschlussvorlage zur Herbeiführung eines Ausführungsbeschlusses - einstimmig beschlossen
+- TOP 6: Alt Eller 17 - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Flottenstraße 30,32 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Zuschuss an den Arbeitskreis Kultur - einstimmig beschlossen
+- TOP 12: Zuschuss an den Freundeskreis Kulturbahnhof - einstimmig beschlossen
+- TOP 13: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 14: Kindertagesstätte Tannenhofweg - beantwortet
+- TOP 15: Hell & Dunkel Festival am Unterbacher See - beantwortet
+- TOP 16: Wochenmarkt Freiheitplatz - beantwortet
+- TOP 17: Bezirksbezogener Bauunterhalt im Stadtbezirk 8 - beantwortet
+- TOP 18: Entwässerungsgraben Rathelbeckstraße - beantwortet
+- TOP 19: Elternbefragung an Grundschulen im Stadtbezirk 8 - beantwortet
+- TOP 20: Gasleitungen Vennstraße - beantwortet
+- TOP 21: P&R - Parkplatz Eller-Mitte - beantwortet
+- TOP 22: Stellplätze Skaterpark Eller und Nebengebäude Schloss Eller - beantwortet
+- TOP 23: Grundstück Königsberger Straße 91 - beantwortet
+- TOP 24: Skaterpark Eller - beantwortet
+- TOP 25: Renaturierung Südliche Düssel - beantwortet
+- TOP 26: Flüchtlingsunterkunft Gatherweg 60 - mehrheitlich beschlossen
+- TOP 27: Flüchtlinge im Stadtbezirk 8 - beantwortet
+- TOP 28: Verkehrssituation Zum Hexenkotten / Rathelbeckstraße - einstimmig beschlossen
+- TOP 29: Verlängerung der Buslinie 736 - einstimmig beschlossen
+- TOP 30: Verkehrsentlastung Vennhausen - einstimmig beschlossen
+- TOP 31: Verkehrsentlastung Lierenfeld - einstimmig beschlossen
+- TOP 32: Barrierefreier Zugang S-Bahnhof Eller Mitte - zurückgezogen
+- TOP 33: Lärmschutz an Bahnstrecken im Stadtbezirk 8 - zurückgezogen
+- TOP 34: Radweg Reisholzer Straße - einstimmig beschlossen
+- TOP 35: P&R - Parkplatz Am Kleinforst - einstimmig beschlossen
+- TOP 36: E-Bike Ladestation am Breidenplatz - einstimmig beschlossen
+- TOP 37: Sitzgelegenheiten Breidenplatz - einstimmig beschlossen
+- TOP 38: Rampen Breidenplatz - einstimmig beschlossen
+- TOP 39: Grünschnitt Großer Torfbruch - einstimmig beschlossen
+- TOP 40: Beleuchtung Monckartzhofweg - einstimmig beschlossen
+- TOP 41: Trinkbrunnen auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 42: Verkehrszeichen Rütgerstraße / Gertrudisplatz - einstimmig beschlossen
+- TOP 43: Fahrradständer Veenpark / In den Kötten - einstimmig beschlossen
+- TOP 44: Stromversorgung GGS Vennhauser Allee 160-162 - einstimmig beschlossen
+- TOP 45: Fuß- / Radweg Neusalzer Weg - einstimmig beschlossen
+- TOP 46: Toilettensanierung GGS Vennhauser Allee 160-162 - einstimmig beschlossen
+- TOP 47: Verkehrssituation Wilhelm-Heinrich-Weg / Gatherweg - einstimmig beschlossen
+- TOP 48: Gehwegparken Allensteiner Straße - einstimmig beschlossen
+- TOP 49: Gehwegparken Memeler Straße - einstimmig beschlossen
+- TOP 50: Fahrradluftpumpe auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 51: Einrichtung eines Zentrums für Berufsorientierung und Übergänge (ZBÜ)Umzug des Technikzentrums für H - zur Kenntnis genommen
+- TOP 52: 4. Maßnahmenpaket zur Umsetzung schulorganisatorischer Maßnahmen - zur Kenntnis genommen
+- TOP 53: Information § 60 GO NRW getroffenen dringlichen Entscheidung: Skatepark Eller - zur Kenntnis genommen
+- TOP 54: Rhein-Ruhr-Express - Zusammenfassung Ergebnisse der Betroffenheitsbereiche Planfeststellungsbereiche - zur Kenntnis genommen
+- TOP 55: Fahrradabstellanlage Vennhauser Allee / Gumbertstraße - zur Kenntnis genommen
+- TOP 56: Fahrplan und Streckenführung Buslinie 737 - zur Kenntnis genommen
+- TOP 57: Postversorgung in Eller - zur Kenntnis genommen
+- TOP 58: Parkregelung Hersfelder Straße - zur Kenntnis genommen
+- TOP 59: 'Nette Toilette' im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 60: Radfahrstreifen / Radweg Gubener Straße - zur Kenntnis genommen
+- TOP 61: Barrierefreie Haltestelle Am Stufstock - Linie 705 - zur Kenntnis genommen
+- TOP 62: Ausbau der A 46 - zur Kenntnis genommen
+- TOP 63: Verkehrszählung Gatherweg - zur Kenntnis genommen
+- TOP 64: Straßenbeleuchtung Höherhofstraße - zur Kenntnis genommen
+- TOP 65: Sitzgelegenheiten an den Haltestellen Fuldaer Straße und Vennstraße / Seeweg - zur Kenntnis genommen
+- TOP 66: Parksituation Tulpenweg - zur Kenntnis genommen
+- TOP 67: Verbindungsweg Am Schmiedekotten - zur Kenntnis genommen
+- TOP 68: Bebauungsplan-Vorentwurf Am Kleinforst - zur Kenntnis genommen
+- TOP 69: Radverkehr zwischen Bernburger Straße und Reisholzer Straße - zur Kenntnis genommen
+- TOP 70: Unterflurcontainer Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 71: Unterflurcontainer Schlesische Straße / Entenpark - zur Kenntnis genommen
+- TOP 72: Unwetter- / Hochwasserschutzmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 73: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 74: Trinkbrunnen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 75: Baumnachpflanzungen nach Sturm Ela im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 76: Verkehrssituation / Staubildung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 77: Richtlinie der Landeshauptstadt Düsseldorf zur Dach-, Fassaden- und Innenhofbegrünung - zur Kenntnis genommen
+- TOP 78: Bauvorhaben Freiheitstraße 78 - zur Kenntnis genommen
+- TOP 79: Wochenmarkt auf dem Freiheitplatz - zur Kenntnis genommen
+- TOP 80: Jugendtreff Hasseler Richtweg - einstimmig beschlossen
+- TOP 81: Lichtzeichenanlage Kleiner Torfbruch / Rothenbergstraße - einstimmig beschlossen
+- TOP 82: Elternbefragung an Grundschulen im Stadtbezirk 8 - einstimmig beschlossen
