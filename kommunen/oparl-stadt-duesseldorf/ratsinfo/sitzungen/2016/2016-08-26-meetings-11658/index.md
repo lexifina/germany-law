@@ -1,0 +1,64 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-26T16:00:00+02:00
+- Ende: 2016-08-26T18:10:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11658
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11658
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273057.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273057.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273057.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: B-Plan Nr.: 09/006 Am Scheitenwege-Süd Stellungnahmen; Änderungen; erneute öffentliche Auslegung
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: 4. Maßnahmenpaket zur Umsetzung schulorganisatorischer Maßnahmen
+- TOP 7: CKW/PFT-Grundwasserverunreinigung Hilden/Benrath - Information -
+- TOP 8: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2016
+- TOP 9: Stadtweite Einführung des Konzeptes Nette Toilette - Beschluss -
+- TOP 10: Anfrage: Stellplätze im Bereich der Sportanlage Woermannstraße (TSV Urdenbach)
+- TOP 11: Anfrage: Schimmelpfennigstr., Altlasten im Bereich der Starkstromtrasse?
+- TOP 12: Anfrage: Parkplatz Hospitalstraße / Benrodestraße
+- TOP 13: Anfrage: Fällung Riesen-Lebensbaum am Rathaus Benrath
+- TOP 14: Anfrage: Bürgerhaus Benrath
+- TOP 15: Antrag: Trinkwasserbrunnen im Stadtbezirk 9
+- TOP 16: Antrag: Fachvortrag Geschwindigkeitsüberwachung BAB 46 und BAB 59
+- TOP 17: Antrag: Errichtung zusätzlicher Fahrradboxen
+- TOP 18: Antrag: Bike & Ride-Stellplätze
+- TOP 19: Antrag: Radweg Koblenzer Straße
+- TOP 20: Antrag: Tempo 20-Zone Am Scheitenweg
+- TOP 21: Antrag: Parkplatz Cäcilienstraße
+- TOP 22: Antrag: Umlaufschranke Hoxbachstraße / Hasselsstraße
+- TOP 23: Antrag: Grünanlage Hasselstraße / Zoppoter Straße
+- TOP 24: Antrag zur Verwaltungsvorlage 40/77/2016
+- TOP 25: Antrag: Verfügungsmittel Werstener Jonges e.V., Mundartveranstaltung
+- TOP 26: Antrag: Verfügungsmittel Karnevalsgesellschaft "Reisholzer Quatschköpp e. V." 1982, Veed
+- TOP 27: Antrag: Verfügungsmittel SV Wersten 04
+- TOP 28: Antrag: Verfügungsmittel Chorverband Düsseldorf e. V.
+- TOP 29: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz e.V.; Martinsumzug
+- TOP 30: Antrag: Verfügungsmittel Gemeinschaft Schlossparksiedlung Urdenbach
+- TOP 31: Antrag: Verfügungsmittel St. Seb. Schützenbruderschaft Düsseldorf-Himmelgeist; Weihnachtsbaum
+- TOP 32: Antrag: Verfügungsmittel Künstlergruppe K1.10; Ausstellung Werft 77
+- TOP 33: Antrag: Verfügungsmittel ABVU, Weihnachtsbaum
+- TOP 34: Antrag: Verfügungsmittel Sana Seniorenzentrum Benrath, Ausflug
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 04.09.2015, Taxidurchfahrt Heubesstraße
+- TOP 36: Informationsvorlage zu den Beschlüssen der BV 9 vom 29.04.2016, Rotlichtüberwachungsanlagen am Wers
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 06.11.2015, Zusätzliche Fahrradboxen am Bahnhof Benra
+- TOP 38: Informationsvorlage zum Beschluss der BV 9 vom 29.04.2016, Buslinie 730
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 25.09.2015, Rahmenplan Einzelhandel
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 05.09.2014, Aufhebung des Durchfahrtsverbots
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 29.04.2016, Gehweg Pigagealle/Benrather Schlossallee
+- TOP 42: Informationsvorlage zum Beschluss der BV 9 vom 17.06.2016, Zebrastreifen Werstener Feld / Ecke Oplad
+- TOP 43: Informationsvorlage zum Beschluss der BV 9 vom 17.06.2016, Barrierefreier Ausbau der Bushaltestellen
+- TOP 44: Informationsvorlage zum Beschluss der BV 9 vom 20.02.2015, Ausweitung des Wochenmarktes in Holthause
+- TOP 45: Informationsvorlage zum Beschluss der BV 9 vom 21.11.2014, Lebende Weihnachtsbäume im Stadtbezirk 9
+- TOP 46: Informationsvorlage zum Beschluss der BV 9 vom 25.09.2015, Ladestationen für E-Bikes/Pedelecs
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 17.06.2016, Buslinie 788
