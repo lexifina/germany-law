@@ -1,0 +1,7 @@
+# TOP 7: CKW/PFT-Grundwasserverunreinigung Hilden/Benrath - Information -
+
+- Sitzung: Bezirksvertretung 9 (2016-08-26)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/204779
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/82203
