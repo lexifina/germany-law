@@ -1,0 +1,62 @@
+# Hauptausschuss (42. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-08-29T18:00:00+02:00
+- Ende: 2016-08-29T19:35:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf--Q6cV0bc9xyWN9STEfss
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6496
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQqLKYjKG0lZ-u2Tm-iAgza74M5coI9kaShuPBCiZNCK/Bekanntmachung_Hauptausschuss_29.08.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeOvhzv6wvTjlu2VBx9OFRkStv_Y_x19Rrg6u1L3jlTn/Oeffentliche_Niederschrift_Hauptausschuss_29.08.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschriften vom 23.05.2016 und 06.06.2016
+- TOP 2.: Lärmbelästigung Wallstraße hier: "Bürgerantrag" der IG Wallstraße vom 15.5.2016 - Beratung in nichtöffentlicher Sitzung -
+- TOP 3.: Ergebnis der Kommunalen Verschuldungsdiagnose 2015
+- TOP 4.: 1. Zwischenbericht zur Haushaltslage 2016 zum 30.06.16 mit Prognose zum 31.12.16
+- TOP 5.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2015 - (kein Text vorhanden)
+- TOP 6.: Energie- und Kostensparkonzept für finanzschwache Haushalte hier: Zahlung eines städtischen Zuschusses an den Caritasverband für den Rhein-Erft-Kreis e.V. Bezug: Sozialausschuss 1.9.2015, Hauptausschuss 28.9.2015, Vorlage-Nr. 326/2015 - (kein Text vorhanden)
+- TOP 7.: außerplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich BSHG/SGB XII - (kein Text vorhanden)
+- TOP 8.: Innenstadtstudie "Vitale Innenstädte 2016" hier: Beteiligung der Stadt Brühl an der Befragung
+- TOP 9.: Anträge
+- TOP 9.1: Besetzung der Stelle eines Verkehrsingenieurs im Fachbereich 80
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen
+- TOP 11.1: Genehmigung Tiefgarageneinfahrt zur Landesstraße beim Gebäude Alte Bonnstraße/Pehler Hülle
+- TOP 11.2: Anfahren der barrierefreien Bushaltestellen durch die Busfahrer
+- TOP 11.3: Einweisung in Haushaltsgeräte im Containerdorf Brühl Ost
+- TOP 11.4: Deutschkurse für Flüchtlinge bei Dialog e.V.
+- TOP 11.5: Unterbringung minderjähriger Flüchtlinge im Haus der Arbeiterwohlfahrt
+- TOP 11.6: Halteverbot während der Baumaßnahme Pützgasse/Ecke Steingasse
+- TOP 11.7: Baumaßnahme Brühler Landstraße
+- TOP 11.8: Regelung Fahrradverkehr Alte Bonnstraße
+- TOP 11.9: Baumaßnahme Weyhestraße/Lennéstraße
+- TOP 11.10: Parken von Wohnwagen auf dem Parkplatz Bonnstraße
+- TOP 11.11: Verkehr Theodor-Heuss-Str./Luxemburger Str.
+- TOP 11.12: Ampelschaltungen für Fahrradfahrer
+- TOP 11.13: Zeitplan Baustelle Euskirchener Str.
+- TOP 11.14: Kabelverlegung durch NetCologne auf der Badorfer Str.
+- TOP B): Nichtöffentliche Sitzung
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.: Sportzentrum Brühler Turnverein Betriebskostenabrechnungen für die Jahre 2010 - 2012
+- TOP 14.: Niederschlagungen
+- TOP 14.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 14.2: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 14.3: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 14.4: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 14.5: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 14.6: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 14.7: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 15.: Stundungen
+- TOP 15.1: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 15.2: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 16.: Vergleich über den Teilerlass einer städtischen Forderung hier: Rückzahlung einer gegen Kostenersatz gewährten Hilfe zum Lebensunterhalt - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 17.1: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 18.: Anfragen
