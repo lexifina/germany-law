@@ -1,0 +1,52 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-30T17:00:00+02:00
+- Ende: 2016-08-30T20:45:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11446
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11446
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273402.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273402.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273402.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift 31.05.2016 - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift 28.06.2016 - einstimmig beschlossen
+- TOP 5: Rhein-Ruhr-Express - Zusammenfassung Ergebnisse der Betroffenheitsbereiche Planfeststellungsbereiche - zur Kenntnis genommen
+- TOP 6: Gesamtschule Kaiserswerth, Standort: Pfaffenmühlenweg - zur Kenntnis genommen
+- TOP 7: 4. Maßnahmenpaket zur Umsetzung schulorganisatorischer Maßnahmen - zur Kenntnis genommen
+- TOP 8: Montessori-Grundschule Farnweg -Ausführungsbeschluss - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2016 - zur Kenntnis genommen
+- TOP 14: Straßenbegleitgrün im Stadtbezirk 5
+- TOP 15: Glyphosat-Einsatz im Stadtbezirk 5 - beantwortet
+- TOP 16: Schilder zur Erläuterung von Straßennamen - beantwortet
+- TOP 17: Künstlerische Gestaltung von Versorgungskästen im öffentlichen Straßenraum Angermund
+- TOP 18: Versorgung mit palliativen Fachkräften im Stadtbezirk 5 - beantwortet
+- TOP 19: Hundekotbeutelspender im Stadtbezirk 5 - Patenschaften - beantwortet
+- TOP 20: Straßennamenschilder in Angermund - beantwortet
+- TOP 21: Bessere Erreichbarkeit des Flughafens mit ÖPNV - beantwortet
+- TOP 22: Besondere Gestaltung von Stadteingängen nach Düsseldorf
+- TOP 23: Priorisierung von Projekten der Bezirksvertretung 5 - beantwortet
+- TOP 24: Schwerpunktmaßnahmen zum Abschleppen von Langzeitparkern - beantwortet
+- TOP 25: Bauunterhalt im Stadtbezirk 05 - beantwortet
+- TOP 26: Verkehrssituation Fliednerstraße - beantwortet
+- TOP 27: Asphaltierung von Straßenzügen im Stockumer "Blumenviertel" - beantwortet
+- TOP 28: Sanierung des Gehweges rund um den Platz an der Begonienstraße - beantwortet
+- TOP 29: Grünrückschnitt entlang der Anger nördlich Angermunder Straße - einstimmig beschlossen
+- TOP 30: Herrichtung der Unterführungen am Dreiecksparkplatz - einstimmig beschlossen
+- TOP 31: Wittgatt - Sanierung der Bankette zwischen Fritz-Köhler-Weg und Duisburger Landstraße - einstimmig beschlossen
+- TOP 32: Instandsetzung der Fuß- und Wanderwege rund um den Fliedner-See - einstimmig beschlossen
+- TOP 33: Ruhebänke entlang des "Leinpfad" - zurückgezogen
+- TOP 34: Stellungnahmen 30.08.2016 - zur Kenntnis genommen
+- TOP 35: Verschiedenes - zur Kenntnis genommen
