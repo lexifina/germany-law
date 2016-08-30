@@ -1,0 +1,54 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-30T15:00:00+02:00
+- Ende: 2016-08-30T17:05:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11737
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11737
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00272481.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00272481.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00272481.pdf
+
+## Tagesordnung
+
+- TOP 1: TO - einstimmig beschlossen
+- TOP 2: Zulassung als Sachverständige - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 21.06.2016 - einstimmig beschlossen
+- TOP 4: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 4.1: Anfrage Ampelfraktionen - Betriebliche Kinderbetreuung in Düsseldorf - zur Kenntnis genommen
+- TOP 4.2: Anfrage CDU - Instandhaltung städtischer Kitas - zur Kenntnis genommen
+- TOP 5: Informationen und Berichte - zur Kenntnis genommen
+- TOP 5.1: Sachbericht über die Verwendung eines städt. Zuschusses - zur Kenntnis genommen
+- TOP 5.2: Wahl des Düsseldorfer Jugendrates 2016 - zur Kenntnis genommen
+- TOP 5.3: Sachstandsbericht zum 16. Deutschen Kinder- und Jugendhilfetag vom 28. - 30. März 2017 - zur Kenntnis genommen
+- TOP 6: Soziale Dienste / Kinderhilfezentrum - zur Kenntnis genommen
+- TOP 6.1: Sachstandsbericht umF - zur Kenntnis genommen
+- TOP 6.2: Zwischenbericht Projekt "Ausbau von HzE in Vollzeitpflege für umF in Gastfamilien" - zur Kenntnis genommen
+- TOP 6.3: Inobhutnahmen von Kindern und Jugendlichen in Düsseldorf - zur Kenntnis genommen
+- TOP 6.4: Aktuelle Berichterstattung zum Mädchenhaus Düsseldorf - zur Kenntnis genommen
+- TOP 7: Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 7.1: Gesetz zur Änderung des Kinderbildungsgesetzes - zur Kenntnis genommen
+- TOP 7.2: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 8: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 8.1: Investitionszuschüsse an fr. Träger von Kitas - Kita Oberratherstr. 33 - einstimmig beschlossen
+- TOP 8.2: Investitionszuschüsse an fr. Träger von Kitas - Kita Reinhold-Schneider-Straße 4 - einstimmig beschlossen
+- TOP 8.3: Investitionszuschüsse an fr. Träger von Kitas - Kita Aachener Straße 166 - einstimmig beschlossen
+- TOP 8.4: Investitionszuschüsse an fr. Träger von Kitas - Kita An den Linden 7 - einstimmig beschlossen
+- TOP 8.5: Investitionszuschüsse an fr. Träger von Kitas - Kita Brorsstraße 5a - einstimmig beschlossen
+- TOP 8.6: Investitionszuschüsse an fr. Träger von Kitas - Kita Diedenhofener Straße 7a - einstimmig beschlossen
+- TOP 8.7: Investitionszuschüsse an fr. Träger von Kitas - Kita Glashüttenstraße 38 - einstimmig beschlossen
+- TOP 8.8: Investitionszuschüsse an fr. Träger von Kitas - Kita Lörickerstraße 31 - einstimmig beschlossen
+- TOP 8.9: Investitionszuschüsse an fr. Träger von Kitas - Kita Niederrheinstraße 231 - einstimmig beschlossen
+- TOP 8.10: Investitionszuschüsse an fr. Träger von Kitas - Kita Völklinger Straße 4c - mehrheitlich beschlossen
+- TOP 8.11: Investitionszuschüsse an fr. Träger von Kitas - Kita Lindenstr. 176/178 - einstimmig beschlossen
+- TOP 9: Anerkennung als Träger der freien Jugendhilfe - zur Kenntnis genommen
+- TOP 9.1: Anerkennung Träger der fr. Jugendhilfe § 75 SGB VIII - Werkstatt Lebenshunger e.V. - einstimmig beschlossen
+- TOP 9.2: Trägerwechsel IMAZ e.V. - einstimmig beschlossen
+- TOP 10: Fachübergreifende Vorlagen - zur Kenntnis genommen
+- TOP 10.1: Qualitätsstandards zur Bildungsförderung für Kinder von 0 bis 10 Jahren - einstimmig beschlossen
+- TOP 10.2: Garath 2.0 - Den Wandel gestalten. Analyse und Konzeptentwicklung - einstimmig beschlossen
+- TOP 10.3: Information § 60 GO NRW getroffenen dringlichen Entscheidung: Skatepark Eller - zur Kenntnis genommen
