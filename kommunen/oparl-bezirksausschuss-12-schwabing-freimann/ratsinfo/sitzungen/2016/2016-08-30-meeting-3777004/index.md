@@ -1,0 +1,95 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-08-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3777004
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3777004
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 10.3.: Anhörungen
+- TOP 10: sonstiges
+- TOP 10.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Freizeittreff Freimann Selbstbehauptungskurse im Oktober 2016
+- TOP 10.2.: (E) Budget der Bezirksausschüsse WOGENO e.G. Fassadengestaltung im Herbst 2016
+- TOP 10.1.: Anfrage bezüglich der Verlegung der Bücherbushaltestelle in Schwabing
+- TOP 10.2.: Anhörung § 29 StVO (Stadtbezirke 1, 3, 12) Streetlife Festival / Corso Leopold mit BioErleben am 10.09. und 11.09.2016 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 10.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 10.1.: Eisenacher Straße 2c
+- TOP 10.2.: Bismarckstraße 21
+- TOP 10.1.: Zurückziehen des BA Antrags ?LOK Arrival? vom 18.05.2016, beschlossen am 26.07.2016
+- TOP 10.2.: Spielflächenversorgungsplan, Fortschreibung 2015, Sitzungsvorlagennummer 14-20 / V 06071
+- TOP 10.3.: Oskar-Schlemmer-Str., Grünanlage, Anhörungsverfahren für das Parkstadt Festival 2016 am 16.09.2016, Eilentscheidung des Vorsitzenden
+- TOP 10.4.: Ecke Carl-Orff-Bogen / Paul-Indermith-Alee, Kleinzirkus, Eilentscheidung des stellvertretenden Vorsitzenden
+- TOP 10.5.: Ausstellung ?Von Farbe und Faden? - Kurzbericht
+- TOP 10.1.: Biedersteiner Straße 6, Entscheidung über Sondernutzungserlaubnis, Freischankfläche
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Boxberger Straße 6, 1 Fichte
+- TOP 10.2.: Haimhauserstr. 18, Neubau von 4 Rückgebäuden ? VORBESCHEID, Baumfällungen gemäß Plan
+- TOP 10.3.: Maria-Josepha-Straße 6, 3 Spitzahorn, 1 gemeiner Wacholder, 1 Hainbuche, 2 Winterlinden, 2 gemeine Eschen
+- TOP 10.4.: Längsweg 7, Baumfällungen gemäß Plan
+- TOP 10.5.: Floriansmühlstr. 60-74, Baumfällungen gemäß Plan
+- TOP 10.6.: Sondermeierstr. 105, 1 Baum
+- TOP 10.7.: Habsburgerpl. 4, 1 Akazie
+- TOP 10.8.: Langackerweg 5, Baumfällungen gemäß Plan
+- TOP 10.1.: Gemeinde Oberschleißheim; a) Bebauungsplan Nr. 73a Am Stutenanger 2 Sondergebiet Lebensmittelmarkt / Marktplatz, b) Bebauungsplan Nr. 73b Am Stutenanger 4 Mischgebiet Wohn- und Gewerbehaus
+- TOP 10.2.: Am Blütenring 72a, Neubau eines Dreifamilienhauses mit Doppelgarage (4 Duplex-Stpl.) - VORBESCHEID
+- TOP 10.3.: Lillweg 8, Anbau eines Mehrfamilienhauses mit Garagen und Stellplätzen an ein Wohnhaus
+- TOP 10.4.: Kaiserpl. 13, 1-geschossige Aufstockung eines Studentenwohnheims (?Pater Rupert Mayer Heim?) für 30 Studenten - VORBESCHEID
+- TOP 10.5.: Jungwirthstr. 2, Einbau 2er Gauben
+- TOP 10.6.: Auwaldgasse 6, Neubau eines Einfamilienhauses mit Doppelgarage, TEKTUR
+- TOP 10.7.: Untere Hausbreite 16, Neubau einer Doppelhaushälfte (2 WE) / Haus B
+- TOP 10.8.: Untere Hausbreite 16, Neubau einer Doppelhaushälfte (2 WE) / Haus A
+- TOP 10.9.: Mies-van-der-Rohe-Straße 5, Aufstockung eines Bürogebäudes ? VORBESCHEID
+- TOP 10.10.: Bauhauspl. , TEKTUR zu 1.1-2015-28766-41 ? Domagkpark WA 4 ? Neubau einer Wohnanlage (47 WE, neu: 48 WE) Kompro-B mit Kindergarten, Krippe, Café, Kulturbühne, Hausaufgabenbetreuung und Mittelgarage (25 Stpl.)<<Bauhauspl. / Max-Bill-Straße>>
+- TOP 10.11.: Crailshaimstr. , Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID
+- TOP 10.12.: Peter-Paul-Althaus-Str. 10-16, Neubau eines Wohngebäudes (Nachverdichtung) - VORBESCHEID
+- TOP 10.13.: AW Freimann ? B-Plan 2024 (hier: Maria-Probst-Straße)
+- TOP 10.14.: Bebauungsplan Nr. 1982a: Sportgelände an der Ingolstädter Straße, Teil B, Fuß- und Radweg
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Willi-Graf-Straße
+- TOP 10.2.: Imhofstraße 11
+- TOP 10.1.: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung, Sitzungsvorlagennummer 14-20 / V 06054
+- TOP 10.2.: Förderung von Bürgerschaftlichem Engagement, Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff), Sitzungsvorlagennummer 14-20 / V 04822
+- TOP 10.3.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/56 Freisinger Landstraße, Floriansmühlstraße und Bebauungsplan mit Grünordnung... B)Anträge Sitzungsvorlagennummer 14-20 / V 06106
+- TOP 10.4.: Asiatischer Laubholzbockkäfer (ALB), Konditionen für Nachpflanzungen im Stadtgebiet, Schaffung einer Härtefallregelung zur Wurzelstockentfernung für von ALB-Fällungen betroffene Grundstückseigentümer, Sitzungsvorlagennummer 14-20 / V 05807
+- TOP 10.5.: Gesamtfortschreibung des Regionalplans, Sitzungsvorlagennummer 14-20 / V 06588
+- TOP 10.6.: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014, Vollzug der Erhaltungssatzung, Vollzug der Zweckentfremdungssatzung, Sitzungsvorlagennummer 14-20 / V 06039
+- TOP 10.7.: Beabsichtigte Überplanung des Gebiets Lilly-Reich-Straße und Anni-Albers-Straße (südlich), Tramlinie 23 (östlich), Lyonel-Feiniger-Straße (westlich und östlich), Sitzungsvorlagennummer 14-20 / V 06275
+- TOP 10.8.: Nach Vorbild der ?Perspektive Freimann?: Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln, Antrag Nr. 14-20 / A 01481 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 26.10.2015, Sitzungsvorlagennummer 14-20/ V 06382
+- TOP 10.9.: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau (Ziffern 1 und 2), Sitzungsvorlagennummer 14-20 / V 06304
+- TOP 10.10.: Preis für Stadtbildpflege ? Wettbewerb ?Bauen und Sanieren in historischer Umgebung? 2016; Prämierung von Wettbewerbsbeiträgen, Sitzungsvorlagennummer 14-20 / V 06506
+- TOP 10.11.: Stellplatzschlüssel im Wohnungsbau, Sitzungsvorlagennummer 14-20 / V 13593
+- TOP 10.12.: Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität, Sitzungsvorlagennummer 14-20/ V 06199
+- TOP 10.13.: Ortstermin Leopoldstraße, Sondernutzungen, Referatsschreiben
+- TOP 10.1.: Absolutes Haltverbot Tristanstraße
+- TOP 10.2.: Hinweisbeschilderung Katholische Akademie
+- TOP 10.1.: Arbeiten im Straßenraum, Freisinger Landstraße 8, (Verlegung Gasanschluss)
+- TOP 10.3.: Arbeiten im Straßenraum, Haimhauserstraße 23 zwischen Ursula- und Biedersteiner Straße; Generalsanierung Grundschule, Neueinbindung Regenwasserleitungen
+- TOP 10.4.: Arbeiten im Straßenraum, Klementinenstraße zwischen Dietlindenstraße und Gundelindenstraße; Weisgerberstraße 2 ? 4 auf ggü. (Baustelleneinrichtung); Asphaltsanierung
+- TOP 10.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann, Widmung der Gesamtstrecke der Max-Bill-Straße, Sitzungsvorlagennummer 14-20 / V 06210
+- TOP 10.2.: Arbeiten im Straßenraum, Rümannstraße und Isoldenstraße, Bau von Fahrbahn und Gehwegen, Ausbau der Bushaltestellen Kloppstockstraße
+- TOP 10.3.: Barrierefreie Querungen im Fuß- und Radverkehr, Priorisierung bestehender und geplanter Querungsbauten, Sitzungsvorlagennummer 14-20 / V 01203
+- TOP 10.4.: Planfeststellung nach §§ 17d, 17a FstrG i.V.m. Art. 67 Abs. 1, Art. 72 ff. BayVwVfG ? Anhörungsverfahren für das Vorhaben ?A99 Autobahnring München Achtstreifiger Ausbau zwischen dem AK-Nord und der AS Haar, Bauabschnitt I,...
+- TOP 10.5.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 10.6.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann, Sitzungsvorlagennummer 14-20 / V 06550
+- TOP 10.7.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung im Petuelpark
+- TOP 10.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: Anträge
+- TOP 10.5.: Unterrichtungen
+- TOP 10.2.: Entscheidungen
+- TOP 10.4.: Bürgeranliegen
+- TOP 10.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 10.5.3.: Sonstige Unterrichtungen
+- TOP 10.3.2.: Sonstige Anhörungen
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 10.5.: Arbeiten im Straßenraum, Isarring zwischen Ifflandstraße und Dietlindenstraße und Vollsperrung Ifflandstraße; (Straßenbau; Bauphase 3b)
