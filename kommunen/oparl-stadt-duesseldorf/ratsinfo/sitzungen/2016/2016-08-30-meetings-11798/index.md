@@ -1,0 +1,57 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-30T17:00:00+02:00
+- Ende: 2016-08-30T22:15:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11798
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11798
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273423.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273423.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273423.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften 4/2016 und 5/2016 vom 31.05.2016 und 28.06.2016 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Auf`m Tetelberg 17 - Neubau von temporären Unterkünften für Flüchtlinge - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Neubau eines Wohn-und Geschäftshauses - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Bieterverfahren- Wohnen am Turm - Auslobungstext - einstimmig abgelehnt
+- TOP 10.1: B-Plan Nr. 01/013 Harkortstraße Frühzeitige Öffentlichkeitsbeteiligung gemäß §3(1) BauGB - zur Kenntnis genommen
+- TOP 11: Gutachterverfahren Neusser Straße / Lahnweg (ehemaliges Siemensgelände) Kenntnisgabe Auslobung - einstimmig beschlossen
+- TOP 12: Plan-Nr.: 03/005 (alt: 5275/022) Speditionstraße West Stellungnahmen, Änderungen in roter, grüner un - mehrheitlich beschlossen
+- TOP 13: Verpflichtungserklärung zum B-Plan-Nr.: 03/005 (alt: 5275/022) Speditionstraße West - mehrheitlich beschlossen
+- TOP 14: Bebauungsplan Nr. 5676/049 Moskauer Straße Änderung gem. § 13 BauGB Aufstellung Öffentliche Auslegun - einstimmig beschlossen
+- TOP 15: Rhein-Ruhr-Express - Zusammenfassung Ergebnisse der Betroffenheitsbereiche Planfeststellungsbereiche - zur Kenntnis genommen
+- TOP 16: Anfragen aus der Bürgerschaft an die Bezirksvertretung 3 - zur Kenntnis genommen
+- TOP 16.1: Brückengeländer Karolingerstraße - zur Kenntnis genommen
+- TOP 16.2: Einstellung der Umbauarbeiten an Brücken im Stadtbezirk 3; Dringlichkeitsbeschluss - einstimmig beschlossen
+- TOP 17: Freigabe aller Einbahnstraßen als Zweirichtungsradweg - zur Kenntnis genommen
+- TOP 18: Zweirichtungsradweg auf Ostseite Friedrichstraße, unterhalb Bahnbrücke - zur Kenntnis genommen
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Gleichzeitige Sperrung von Hauptverkehrsstraßen - vertagt
+- TOP 22: Installation von Schutzgittern an Brücken im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 23: Anpassung der Beschilderung Himmelgeister Straße / südliche Suitbertusstraße - zur Kenntnis genommen
+- TOP 24: Emmastraße 24 - zur Kenntnis genommen
+- TOP 25: Umbenennung Wissmannstr. – Empfehlung der Bezirksvertretung - zur Kenntnis genommen
+- TOP 26: Vergitterung der Brückengeländer - zur Kenntnis genommen
+- TOP 27: Verkehrsführung Radweg - vertagt
+- TOP 28: Hydranten - vertagt
+- TOP 28.1: Aufzug Bachstraße 117-137 - zurückgezogen
+- TOP 28.2: Bauunterhaltungsmittel der Bezirksvetretung - vertagt
+- TOP 28.3: WC GAP - vertagt
+- TOP 28.4: Innenhof und Klimaanpassung - einstimmig beschlossen
+- TOP 28.5: Straßenbahn 709 und Bus 732 - einstimmig beschlossen
+- TOP 28.6: Straßenbahnhaltestelle Berliner Allee; Wartehäuschen - einstimmig beschlossen
+- TOP 29: 4. Maßnahmenpaket zur Umsetzung schulorganisatorischer Maßnahmen - zur Kenntnis genommen
+- TOP 30: Namensänderung der Realschule Luisenstraße - zur Kenntnis genommen
+- TOP 31: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
