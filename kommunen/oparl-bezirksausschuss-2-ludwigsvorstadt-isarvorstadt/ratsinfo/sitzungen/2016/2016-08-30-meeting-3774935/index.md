@@ -1,0 +1,100 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-08-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3774935
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3774935
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse MaxChor, Kirchenchor der Pfarrkirche St. Maximilian Kirchenkonzert "Stabat mater" am 08.10.2016
+- TOP .1.: Stadtjugendamt, Förderung Freier Träger Projekt: Nachbarschaft Westermühlbach e.V.
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Fraunhoferstraße 36, Modernisierung von Wohnungen im 1. - 4. OG sowie des Ladens im EG, Anbau einer Aufzugsanlage mit Balkonen und Notleiteranlage, Erneuerung des Dachstuhls, DG-Ausbau und Änderung der DG-Wohnung eines Mehrfamilienhauses
+- TOP .2.: Baaderstraße 16, Umbau, Ausbau und Erweiterung des Dachspeichers, Einbau dreier Wohnungen
+- TOP .3.: Bayerstraße 77a, Ausbau des Dachspitzes (zu " WE) im Bereich des Mittelgebäudes
+- TOP .4.: Sonnenstraße 2, Dachaufstockung, Vorbescheid
+- TOP .5.: Lindwurmstraße 30, Abbruch und Neubau von 5 Dachgauben
+- TOP .6.: Auenstraße 32, DG-Ausbau, Erneuerung des Dachstuhls, Anbau einer Aufzugsanlage, Anbau von Balkonen, Nutzungsänderung EG: Wohn- zu Gewerbeeinheit, Einbau von versenkbaren Parkstapelsystemen im Hinterhof, Nachrüsten eines Wärmedämmver-bundsystems - TEKTUR - hier: Erweiterung 2er genehmigter zu 3 DG-Wohnungen und Teilung einer EG-Wohnung in 2 WE
+- TOP .7.: Gärtnerplatz 1, Nutzungsänderung: Laden zu Cafe mit Errichtung einer Freischankfläche
+- TOP .8.: Baaderstraße 19/RGB, Erneuerung eines Teils der Hofdecke und Abbruch Attika mit Umbau des Randbereichs am Lichtgraben im ersten Innenhof
+- TOP .9.: Baumstraße 19, TEKTUR, Erhöhung des Dachstuhls, Umbau der Wohnungen und Errichtung von Balkonen
+- TOP .10.: Schwanthalerstraße 46, Nutzungsänderung eines Ladens in ein Wettbüro - TEKTUR
+- TOP .11.: Herzog-Heinrich-Straße 24, DG-Ausbau, Nutzungsänderung (Gewerbe zu Wohnungen), Balkon- und Liftanbau (Herzog-Heinrich-Straße 24 / Mozartstraße 15) - TEKTUR
+- TOP .12.: Lindwurmstraße 68, Erweiterung einer DG-Wohnung mit Dacheinschnitt und nachträgliche Genehmigung eines bestehenden Dacheinschnitts
+- TOP .13.: Landwehrstraße 52, Abbruch und Neuerrichtung von Balkonen mit zusätzlicher Außenwanddämmung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Haydnstraße 11, Bauvorhaben Neubau Mehrfamilienhaus, vgl. TOP 2016.07 B 3.1.10, Baumfällungen - Ortstermin - Rückmeldung an die Lokalbaukommission ist seitens der Geschäftsstelle am 09.08.2016 erfolgt
+- TOP .2.: Auenstraße 76, Fällungsantrag einer Kastanie
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Container Bavariaring - neuer Standort, vgl. Vertagung TOP 2016.07 C 1.4 - Ortstermin
+- TOP .2.: Auenstraße/Fraunhoferstraße, Briefkasten soll umgesetzt werden
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Hermann-Lingg-Straße 13, Genehmigung einer Freischankfläche
+- TOP .2.: Landwehrstraße 87, Genehmigung einer Freischankfläche
+- TOP .3.: Sonnenstraße 6, Genehmigung einer Freischankfläche
+- TOP .4.: Landwehrstraße 81, Genehmigung einer Freischankfläche
+- TOP .5.: Kapuzinerstraße 35, Genehmigung einer Freischankfläche
+- TOP .6.: Landwehrstraße 24, Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Genehmigung von 3 Zeitungsentnahmegeräten der ?Abendzeitung?, Rumfordstraße 10 / Müllerstraße 3 / Müllerstraße 13
+- TOP .2.: Schillerstraße 12, mobiler Fahrradständer
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.2: Verkehr
+- TOP .1.: Maistraße 33, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP .2.: Adolf-Kolping-Straße, Zweig- und Schlosserstraße, verschiedene Verkehrsregelungen, verkehrsrechtliche Anordnung nach §45 StVO, vgl. hierzu auch TOP 2016.06 C 3.2.3
+- TOP .1.: Begrünungsplan BA 2
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 12.09.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 13.09.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 14.09.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 19.09.2016 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 27.09.2016 um 19 Uhr im Saal in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Sozialreferat, Bekanntgabe Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014, Vollzug der Erhaltungssatzungen, Vollzug der Zweckentfremdungssatzung, Sitzungsvorlage Nr. 14 - 20 / V 06039, Bekanntgabe in der Sitzung des Sozialausschusses vom 07.07.2016
+- TOP .4.: Abfallbeseitigung und Toiletten am Gärtnerplatz
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Stadtteilwoche Ludwigsvorstadt-Isarvorstadt
+- TOP .7.: Anpassung der Einstufung von Wohnlagen im Mietspiegel
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Mobile Toiletten am Gärtnerplatz und dauerhafte Lösung und Standortvorschlag Toilette am Gärtnerplatz, BA-AntragsNr. 14 - 20 / B 01333 des BA 2 vom 23.06.2015
+- TOP .3.: Variante autofreier Kirchplatz für den St.-Pauls-Platz erarbeiten, BA-Antrags-Nr. 14 - 20 / B 02262 des BA 2 vom 09.04.2016 und ergänzender Antrag zur Neugestaltung des Platzes vor der St. Pauls Kirche vom 03.05.2016, Zwischennachricht des Baureferates vom 22.07.2016
+- TOP .4.: Reichenbachstraße 25; Baumfällungsbescheid zur Fällung einer Schwarzpappel vom 04.08.2016
+- TOP .5.: Bevorstehende Entfernung von Gefahrenbäumen, Unterrichtung des Baureferates vom 18.05.2016
+- TOP .6.: Sonnenstraße 2, Vorbescheid des Referates für Stadtplanung und Bauordnung vom 10.08.2016 bzgl. Dachaufstockung
+- TOP .7.: Erhardtstraße 10, Vorbescheid des Referates für Stadtplanung und Bauordnung vom 10.08.2016 bzgl. Neubau eines Wohngebäudes mit Tiefgarage
+- TOP .8.: Reisingerstraße 7, Baumfällungsbescheid zur Fällung eines Götterbaumes vom 12.08.2016
+- TOP .9.: Münchner Stadtentwässerung; Sanierung mit Umbau am Dükerunterhaupt an der Ludwigsbrücke
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichen Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Information zum Betriebskonzept während der Regenerierung der Anlagen zur Grundwassererhaltung am U-Bhf. Hauptbahnhof U1/U2, Schreiben der MVG vom 20.07.2016
+- TOP .7.: Wildtierverbot für alle Veranstaltungen auf der Theresienwiese
+- TOP .8.: Bürgeranliegen Jahnstraße, Straßenreinigung, Leerung der Mülleimer mangelhaft, vgl. TOP 2016.06 C 5.5, Antwortschreiben des Baureferates vom 28.07.2016
+- TOP .9.: Maßnahmen gegen die Bettelei rund um den Hauptbahnhof
+- TOP .10.: Lindwurmstraße Parkraumgebiet Lindwurmstraße; Bürgeranliegen, vgl. TOP 2016.06 C 5.3, Antwortschreiben des Kreisverwaltungsrefarates vom 04.08.2016
+- TOP .11.: Isarmüll, Bürgeranliegen im Juli 2016, Antwort-Email des Baureferates vom 04.08.2016
+- TOP .12.: Firetage Vorwiesn - Veranstaltung der Freiwilligen Feuerwehr im Marstall auf der Theresienwiese am 11.09.2016 - Eilentscheidung des Vorsitzenden vom 07.08.2016
+- TOP .13.: Einnahmen aus der Verlängerung des Oktoberfestes 2017 den angrenzenden Stadtbezirken zufließen lassen, BA-Antrags-Nr. / B 02358 des BA 8 Schwanthalerhöhe, Antwortschreiben des Referates für Arbeit und Wirtschaft vom 27.07.2016 dem BA 2 zur Kenntnis
+- TOP .14.: Container Auenstraße 100 - häufigere Leerung & neuer Standort
+- TOP .1.: Unterrichtung der Bezirksausschüsse über Anträge auf Genehmigung von Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten, BA-Antrags-Nr. 14-20 / B 01903 des BA 2 vom 15.12.2015; Zwischennachricht des Direktoriums vom 19.07.2016
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
