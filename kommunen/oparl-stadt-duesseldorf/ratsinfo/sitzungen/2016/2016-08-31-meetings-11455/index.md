@@ -1,0 +1,61 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-31T17:00:00+02:00
+- Ende: 2016-08-31T20:33:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11455
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11455
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273524.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273524.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273524.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Gutachterverfahren Beiderseits Vogelsanger Weg - einstimmig beschlossen
+- TOP 3.1: Dringlichkeitsbeschluss Vogelsanger Weg - einstimmig beschlossen
+- TOP 4: Rhein-Ruhr-Express - Zusammenfassung Ergebnisse der Betroffenheitsbereiche Planfeststellungsbereiche - zur Kenntnis genommen
+- TOP 5: 184. Änderung des FNP (Vorentwurf) Nördlich Theodorstraße: Möbelfachmärkte Öffentlichkeitsbeteiligu - mehrheitlich beschlossen
+- TOP 5.1: Dringlichkeitsbeschluss Theodorstraße - mehrheitlich beschlossen
+- TOP 6: Vorhabenbezogener B-Plan-Vorentwurf Nr. 06/016 Theodorstraße / A 52 Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 6.1: Dringlichkeitsbeschluss Theodorstraße - mehrheitlich beschlossen
+- TOP 6.2: Mehrfachbeauftragung Fassaden- und Freiraumplanung Vorhabenbezogener B-Plan-Vorentwurf Theodorstraß - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Kleinschmitthauser Weg / Irenenstraße - Umgestaltung Verkehrsinsel - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Ökologische Umgestaltung des alten Schwarzbachgrabens in Unterrath - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 13: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 14: Anfrage Schumacher (SPD): Jüdisches Gymnasium Borbecker Straße - beantwortet
+- TOP 15: Anfrage FDP: Verkehrsplanung Parsevalstraße/Kieshecker Weg/Wanheimer Straße - beantwortet
+- TOP 16: Anfrage Helmke (BÜ90/GRÜNE): Essbare Stadt - beantwortet
+- TOP 17: Anfrage SPD: Spontanvegetation - beantwortet
+- TOP 18: Anfrage CDU: Rather Broich / S-Bahn Brücke - beantwortet
+- TOP 19: Anfrage CDU/FDP: Überfälle Stadtbezirk 6 - vertagt
+- TOP 20: SPD-Anfrage: Flüchtlingsstandort "In der Nießdonk" - beantwortet
+- TOP 21: Antrag SPD: Wattenscheider Straße 3 - einstimmig beschlossen
+- TOP 22: CDU Antrag: Hallenabriss Oberhausener Straße / Mühlenbroich - einstimmig beschlossen
+- TOP 23: CDU/FDP Antrag: Abriss Opernhallen Dülmener Weg - mehrheitlich beschlossen
+- TOP 24: CDU Antrag: Tafel Denkmal Gut Heiligendonk - einstimmig beschlossen
+- TOP 25: CDU-Antrag: Fußwegverbindung Penny-Markt / Rather Kirchplatz - einstimmig beschlossen
+- TOP 26: FDP-Antrag: Parkverbotszone Bochumer Straße - einstimmig beschlossen
+- TOP 27: BÜNDNIS 90/DIE GRÜNEN Antrag: Informationen Baumfällungen - einstimmig beschlossen
+- TOP 28: BÜNDNIS 90/DIE GRÜNEN Antrag: ISS Dome besser sichtbar machen - einstimmig beschlossen
+- TOP 29: Interfr. Antrag: GGS Krahnenburgstraße - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2016 - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2016 - einstimmig beschlossen
+- TOP 32: Förderung Dritter 2016 - mehrheitlich beschlossen
+- TOP 33: Förderung Dritter 2016 - ART - mehrheitlich beschlossen
+- TOP 34: MdV - Busverbindung Düsseldorf-Rath und -Lichtenbroich - zur Kenntnis genommen
+- TOP 35: MdV - Sportplatz Herdecker Straße (Kita) - zur Kenntnis genommen
+- TOP 36: MdV - Busanbindung Airport City - zur Kenntnis genommen
+- TOP 37: MdV - Theodorstraße 366 - zur Kenntnis genommen
+- TOP 38: MdV - Höxterweg/Bottroper Straße - zur Kenntnis genommen
+- TOP 39: MdV - Waldstraße Parkplatz - zur Kenntnis genommen
+- TOP 40: MdV - Urban Gardening - zur Kenntnis genommen
