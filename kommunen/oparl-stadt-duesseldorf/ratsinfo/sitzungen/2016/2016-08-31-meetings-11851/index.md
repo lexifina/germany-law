@@ -1,0 +1,53 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-08-31T16:00:00+02:00
+- Ende: 2016-08-31T18:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11851
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11851
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273607.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273607.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00273607.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung von Niederschriften - zur Kenntnis genommen
+- TOP 2.1: Genehmigung Niederschrift der gemeinsamen Sitzung von APS, AWTL, AUS und der BV1 vom 09.12.2015 - einstimmig beschlossen
+- TOP 2.1.1: Genehmigung der Niederschrift vom 13.04.2016 - einstimmig beschlossen
+- TOP 2.1.2: Genehmigung der Niederschrift vom 11.05.2016 - einstimmig beschlossen
+- TOP 2.1.3: Genehmigung der Niederschrift vom 22.06.2016 - einstimmig beschlossen
+- TOP 3: Anfragen, Anträge - zur Kenntnis genommen
+- TOP 4: Bieterverfahren- Wohnen am Turm - Auslobungstext - mehrheitlich beschlossen
+- TOP 4.1: (Ampel-)Änderungsantrag zu Vorlage 61/ 105/2016, TOP 4 - mehrheitlich beschlossen
+- TOP 5: Neusser Straße / Lahnweg (ehemaliges Siemensgelände) Gutachterverfahren - mehrheitlich beschlossen
+- TOP 6: Gutachterverfahren Beiderseits Vogelsanger Weg - einstimmig beschlossen
+- TOP 6.1: Mehrfachbeauftragung Fassaden- und Freiraumplanung Vorhabenbezogener B-Plan-Vorentwurf Theodorstraß - zur Kenntnis genommen
+- TOP 6.2: B-Plan Nr. 01/013 Harkortstraße Frühzeitige Öffentlichkeitsbeteiligung gemäß §3(1) BauGB - einstimmig beschlossen
+- TOP 7: B-Plan-Vorentwurf - Ernst-Poensgen-Allee 3 - Verfahren gem. § 13a BauGB Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Nördlich Theodorstraße: Möbelfachmarkt - zur Kenntnis genommen
+- TOP 8.1: FNP-Änderung Nr. 184 Nördlich Theodorstraße: Möbelfachmärkte Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 8.2: Vorhabenbezogener B-Plan-Vorentwurf Nr. 06/016 Theodorstraße / A 52 Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 9: Nördlich Konrad-Adenauer-Platz - zur Kenntnis genommen
+- TOP 9.1: FNP-Ä Nr. 122 -Nördlich-Konrad-Adenauer-Platz- - einstimmig beschlossen
+- TOP 9.2: B-Plan-Entwurf 01/012 Konrad-Adenauer-Platz 1 Beschluss zur öffentlichen Auslegung - einstimmig beschlossen
+- TOP 10: B-Plan Entwurf Nr. 09/006 - Am Scheitenwege Süd - Stellungnahmen; Änderungen; erneute öffentliche Auslegung - vertagt
+- TOP 11: Bebauungsplan Nr. 5676/049 Moskauer Straße Änderung gem. § 13 BauGB Aufstellung Öffentliche Auslegun - einstimmig beschlossen
+- TOP 12: Speditionstraße - zur Kenntnis genommen
+- TOP 12.1: Verpflichtungserklärung zum B-Plan-Nr.: 03/005 (alt: 5275/022) Speditionstraße West - mehrheitlich beschlossen
+- TOP 12.2: B-Plan Entwurf Nr. 03/005 (alt: 5275/022) Speditionstraße West Stellungnahmen, Änderungen, Satzung - mehrheitlich beschlossen
+- TOP 13: Genehmigung einer dringlichen Entscheidung Auf´m Tetelberg 17 - einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Investorenausawahlverfahren Heinrich-Erhardt-Straße 61 - einstimmig beschlossen
+- TOP 16: Verkauf Dechenweg 52 - mehrheitlich beschlossen
+- TOP 17: Garath 2.0 - Den Wandel gestalten. Analyse und Konzeptentwicklung - mehrheitlich beschlossen
+- TOP 18: Gebührensatzung für das Vermessungs- und Katasteramt - einstimmig beschlossen
+- TOP 19: Fortschreibung des Regionalplans Düsseldorf (RPD), Entwurf Stand Juni 2016 Stellungnahme der Landesh - passieren lassen
+- TOP 20: Regionale Kooperation für den Wohnungsbau- mündlicher Bericht - - zur Kenntnis genommen
+- TOP 21: Richtlinien Kunst am Bau und im öffentlichen Raum - passieren lassen
