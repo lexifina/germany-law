@@ -1,0 +1,53 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2016-08-31T15:00:00+02:00
+- Ende: 2016-08-31T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUN-ldcidu_Dj0Kf3G50MKI
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/577
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW0ZNsBwgMFWOmCYxhwFrLTL6xkSWSEiy5OaaZeFq9nK/Einladung_Seniorenbeirat_31.08.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc6IMAJ0XlzREla7Toxl5G_yc-oJuFrZ9x0ONTJcFGC-/Oeffentliche_Niederschrift_Seniorenbeirat_31.08.2016.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Beseitigung von Baumangel an Springorumradweg X Springorumallee - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Straßengrün auf dem Radweg der "Gahlensche Straße" von der Porschestraße bis zur Amtsstraße (rechtsseitig) - Der Antrag ist gegenstandslos, daher keine Abstimmung.                                              
+- TOP 3.3: Bänke am Bodelschwinghplatz - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.4: Sitzbänke auf dem Platz der Hammer-Runde - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Vorstellung des Verbandes Weißer Ring - Aussenstelle Bochum hier: Mündlicher Bericht
+- TOP 6.2: Haushalts- und Familienhilfe hier: Mdl. Bericht zu Betreuungsleistungen nach § 45b Sozialgesetzbuch
+- TOP 6.3: Konzept zum Umbau des Stadtparks - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Erstellen einer Toilettenanlage am Eingang zum Stadtpark - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Senioren Fitness-Parcours im Stadtpark - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Bürgerbus zu Seniorenbüros - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Rettungsschilder im Westpark und längs der Erzbahntrasse - Zwischenmitteilung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Instandsetzung des Weges von der Dorstener Straße bis zur Seniorenwohnanlage Lohstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Seniorenbüros "Homepage" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Gahlensche Straße hier: Querungshilfe Gahlensche Straße gegenüber den Glas- und Papiercontainern - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Berichte aus den Gremien hier: Mdl. Berichte in der Sitzung
+- TOP 7: Anfragen
+- TOP 7.1: Gehwege und Stolperfallen - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Personelle Situation der Seniorenbüros Bochum - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Erreichbarkeit REWE - Ihr Kaufpark, Castroper Hellweg 20 - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
