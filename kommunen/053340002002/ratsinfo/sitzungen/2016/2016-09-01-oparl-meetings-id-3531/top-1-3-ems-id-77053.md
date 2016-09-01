@@ -1,0 +1,6 @@
+# TOP 1.3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Planungsausschusses (2016-09-01)
+- Körperschaft: Stadt Aachen
+- Öffentlich: nein
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=77053
