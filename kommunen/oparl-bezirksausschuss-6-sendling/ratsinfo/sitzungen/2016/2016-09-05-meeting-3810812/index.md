@@ -1,0 +1,98 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2016-09-05T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3810812
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3810812
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 2.1.: Suche nach einem Übungsraum
+- TOP 2.2.: SkF-Betreuungsverein stellt sich vor
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Neubau der Großmarkthalle; Nutzung der Westseite entlang der Thalkirchner Straße
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Info-Veranstaltung FU Meindlstraße
+- TOP 5: Referat für Bildung und Sport
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Absolutes Haltverbot Nordseite Fallstraße
+- TOP 6.2.: Parksituation Am Isarkanal
+- TOP 6.3.: Missachtung der Busspur in der Plinganserstr. südlich Am Harras
+- TOP 6.4.: Arbeiten im Starßenraum; Gaißacher Straße 20-28
+- TOP 6.5.: Verstopfter Gully in der Alramstraße
+- TOP 6.6.: Aufhebung eines personenbezogenen Behindertenparkplatzes in der Alramstraße
+- TOP 6.7.: Straßenbauprojekt Flößergasse / Zechstraße / Fallstraße - zukünftige Linienführung der Buslinie 134 - <div>Wechsel der Federführung zur Kenntnis genommen</div>
+- TOP 6.8.: Ladesäulensystem für E-Fahrzeuge
+- TOP 6.9.: Verstopfter Gully in der Danklstraße
+- TOP 6.10.: Italienischer Markt auf dem Harras
+- TOP 6.11.: Erweiterung eines Obststandes ggü Kidlerplatz 8
+- TOP 6.12.: Drehgenehmigung Fallstraße
+- TOP 7: Gaststättenangelegenheiten
+- TOP 7.1.: unveränderte Gaststättenforführung Senserstr. 7
+- TOP 8.1.: verschiedene Verwendungsnachweise
+- TOP 8.2.: Budgetantrag Lyrikpreis München e.V.
+- TOP 8.3.: (E) Budget der Bezirksausschüsse Kunst in Sendling e.V. Offenen Ateliertage von 07.-09.10.2016 - <div></div>
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Bauvorhaben Flößergasse 6e
+- TOP 9.2.: Bauvorhaben Kidlerplatz 5
+- TOP 9.3.: Evaluierung der Fahrradabstellplatzsatzung
+- TOP 9.4.: Erhalt der Kleingartenanlage Südwest24
+- TOP 9.5.: Baulisten
+- TOP 9.9.: Bauvorhaben Kidlerstr.20
+- TOP 10: Baureferat
+- TOP 10.1.: Fehlende Spielgeräte auf den Sendlinger Spielplätzen am Valleyplatz, in den Neuhofener Anlagen und am Spielplatz Sendlinger Baumhaus - <div>Antwortschreiben zur Kenntnis genommen</div>
+- TOP 10.2.: Geldautomat im Landschaftschutzgebiet Flaucher
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: unplugged auf dem Isarfloß durch's Landschaftsschutzgebiet - <div>Antwortschreiben zur Kenntnis genommen</div>
+- TOP 11.2.: Aufnahme der Grünfläche an der Ecke Alram-/Aberlestraße 14 in die Grünanlagensatzung - <div>Antwortschreiben zur Kenntnis genommen</div>
+- TOP 11.3.: Öffentlichkeitskampagne "Wahre Liene ist..."
+- TOP 11.4.: Baumfällung Karwendelstraße
+- TOP 11.5.: Baumfällung Implerstraße
+- TOP 11.6.: Baumfällung Flößergasse
+- TOP 12: Anträge
+- TOP 14: Verschiedenes
+- TOP 14.1.: Richtungswechsel der Rolltreppe am U-Bahnhof Implerstraße
+- TOP 14.2.: Wies'n-Besuch 2016
+- TOP 14.3.: Einnahmen aus der Verlängerung des Oktoberfestes 2017 den ang?enzneden Stadtbezirken zufließen lassen; Antrag Nr. 14-20/ B 2358 des BA 8
+- TOP 14.4.: Protokoll der Mieterbeiratssitzung vom 18.07.16
+- TOP 14.5.: Protokoll Behindertenbeirat vom 14.07.16
+- TOP 14.6.: Neuvermietung Ladenlokal in der Sortieranlage
+- TOP 14.7.: Baumaßnahmen der SWM im 2. Halbjahr 2016
+- TOP 14.8.: Stellungnahme des BA 8 zur Veranstaltung "Firetage 2016"
+- TOP 14.9.: Kunstprojekt am Harras
+- TOP 14.10.: Sitzungstermine 2017
+- TOP 14.11.: Unterflurcontainer am Margaretenplatz einrichten - <div>BA-Stellungnahme zum Antwortschreiben</div>
+- TOP 2.3.: Ausbau Radlweg in der Schäftlarnstraße
+- TOP 2.4.: Grillen am Flaucher
+- TOP 2.5.: Parken im Bereich des Herzog- Ernst-Platzes
+- TOP 2.6.: Naturkindergarten
+- TOP 2.7.: Unterflucontainer Margartenplatz
+- TOP 2.8.: Standortsuche für Kultur in Sendling e.V.
+- TOP 2.9.: TG- Sanierung in der Pfeuferstr. 33-39
+- TOP 2.10.: Baumfällung Albert-Roßhaupter-Str. / Meindlstr.
+- TOP 4.2.: Betrieb FU Meindlstr.14
+- TOP 5.1.: Schulbauoffensive GS Plinganserstr.28
+- TOP 6.13.: Einrichtung eines allg. Behindertenparkplatzes; Steinerstr. 4
+- TOP 6.14.: Aufstellung von stummen Zeitungsverkläufern, Thalkirchner Str. 190
+- TOP 6.15.: Zuteilung einer Adresse zum Resi-Huber-Platz
+- TOP 6.16.: Pfosten Jägerwirthstr.
+- TOP 7.2.: unveränderte Gaststättenfortführung Thalkirchner Str. 126
+- TOP 8.4.: Antrag des Kinder- und Jugendbeauftragen
+- TOP 9.6.: Bauvorhaben Leipartstr. 28
+- TOP 9.7.: Bauvorhaben Steinerstr. 16
+- TOP 9.8.: Bauvorhaben Schäftlarnstr. 124
+- TOP 9.10.: Bauvorhaben Lenggrieser Str.5
+- TOP 9.11.: Bauvorhaben Meindlstr.14-16
+- TOP 10.3.: Leistungsübersicht Baureferat
+- TOP 14.12.: Trägerschaft Südbahnhof
+- TOP 14.13.: Neuauflage Stadtteilbroschüre; BA 6
+- TOP 14.14.: Firetage 11-09-16; BA 2
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
