@@ -1,0 +1,55 @@
+# Haupt- und Finanzausschuss (14. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-09-06T17:05:00+02:00
+- Ende: 2016-09-06T19:58:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSRCBmgvfI8p8YJpLhAqISs
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20043
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfThNoRviQT26ZvsFdblo7cDLD4RQ3elvfrLdaFOIQPD/Bekanntmachung_Haupt-_und_Finanzausschuss_06.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQ8NEeyM7mGbk56eV0tlvEcwAl-Ew_XmXzTC1huMlfJ0/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_06.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 1a: Umsetzung Haushaltssicherungskonzept hier: Spielplatzbedarfskonzept - (kein Text vorhanden)
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Interkommunale Zusammenarbeit hier: Abschluss einer öffentlich-rechtlichen Vereinbarung mit der Gemeinde Merzenich zur Übernahme von Personalverwaltungsaufgaben durch die Kolpingstadt Kerpen sowie Erweiterung der Stellenplanes 2016 - (kein Text vorhanden)
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Neufassung der Satzung der Kolpingstadt Kerpen über die Ablösung von Stellplätzen - (kein Text vorhanden)
+- TOP 5.: Novellierung der Umsatzbesteuerung der öffentlichen Hand
+- TOP 6.: Personal-/Stellenplanangelegenheiten
+- TOP 6.1: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Auswirkungen der 6-monatigen Wiederbesetzungssperre in der Abteilung 15.1, Straßen - (kein Text vorhanden)
+- TOP 6.2: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Auswirkungen der 6-monatigen Wiederbesetzungssperre in der Abteilung 16.4, Bauordnung - (kein Text vorhanden)
+- TOP 6.3: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Auswirkungen der 6-monatigen Wiederbesetzungssperre in der Abteilung 22.1, Senioren, Menschen mit Behinderung und Soziale Hilfen - (kein Text vorhanden)
+- TOP 6.4: Stellenplanerweiterung 2016 und Aufhebung der Wiederbesetzungssperre hier: Abteilung 22.2 Schulen, Schulsekretariate
+- TOP 6.5: Stellenplan 2016 hier: befristete Stellenerweiterung Zentraler Außendienst (ZAD), Abt. 21.1; Einrichtung auf Dauer - (kein Text vorhanden)
+- TOP 6.6: Umsetzung der Maßnahmen aus dem Haushaltssicherungskonzept hier: Auswirkungen der 6-monatigen Wiederbesetzungssperre im Amt 22, Soziales und Schulen
+- TOP 7.: Genehmigung des Haushaltssicherungskonzeptes für die Jahre 2016 bis 2023 und der Verringerung der Allgemeinen Rücklage durch den Rhein-Erft-Kreis
+- TOP 8.: Halbjahresbericht Budget/Einnahmen; hier: Antrag der SPD-Fraktion
+- TOP 9.: Umsetzung Haushaltssicherungskonzept hier: Spielplatzbedarfskonzept -vorgezogen, s. TOP 1a -
+- TOP 10.: Forstwirtschaftsplan 2016 hier: Aufhebung des Sperrvermerks - (kein Text vorhanden)
+- TOP 11.: Einführung des "papierlosen Mandats" in Kerpen; hier: Antrag der Grünen-Fraktion - (kein Text vorhanden)
+- TOP 12.: Sachstandsbericht "Zukunfts-Ensemble Schloss Türnich"
+- TOP 13.: Belastung der Stadtkasse durch Eintreiben des Rundfunkbeitrages
+- TOP 14.: Kolpinghaus Kerpen hier: Antrag der Fraktion Die Linke
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.1: Sozialer Wohnungsbau in Eigenregie: Wirtschaftlichkeitsprüfung hier: Anfrage der Fraktion Die Linke
+- TOP 16.2: Neues Vergabeverfahren; hier. Anfrage der Fraktion B90/Die Grünen
+- TOP 16.3: Projekt "100xWLAN" der Landesregierung NRW; hier: Anfrage der Grünen-Fraktion
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 18.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Auftragsvergabe "Lieferung von Erdgas für städtische Objekte" - (kein Text vorhanden)
+- TOP 18.2: Ankauf des Grundstückes Gemarkung Türnich, Flur 36, Flurstück 1010 (Landwirtschaft/Ackerland) - (kein Text vorhanden)
+- TOP 19.: Jahreswirtschaftsbericht der Wirtschaftsförderung 2015
+- TOP 20.: Veräußerung eines Grundstückes "Am Gleis 7" hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Stellenplan 2016; Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor - (kein Text vorhanden)
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen gem. § 18 Geschäftsordnung
