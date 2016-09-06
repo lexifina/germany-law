@@ -1,0 +1,7 @@
+# TOP 2.: Sanierung des Sekretariates im St. Michael-Gymnasium hier: Vergabe der Inneneinrichtung
+
+- Sitzung: Bau- und Feuerwehrausschuss (12. Sitzung) (2016-09-06)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/31887
+- Ergebnis: Einstimmiger Verweisungsbeschluss
