@@ -1,0 +1,8 @@
+# TOP 8: Raumordnungsverfahren für den Neubau einer Gasfernleitung
+
+- Sitzung: Planungs- und Bauausschuss (2016-09-06)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/127849
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/21720
