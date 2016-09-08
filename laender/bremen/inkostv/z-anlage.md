@@ -147,15 +147,16 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 120.61 | Amtshandlungen des Polizeivollzugsdienstes, soweit für sie eine Gebühr in dieser Kostenverordnung oder der Allgemeinen Kostenverordnung nicht festgesetzt oder eine Erstattung von Aufwendungen im Sinne von § 11 Bremisches Gebühren- und Beitragsgesetz nicht vorgeschrieben ist | Gebührenfrei
 120.62 | Schriftliche Verbote und Gebote nach dem Bremischen Polizeigesetz | 63 bis 1 255
 121 | Melde- und Ausweiswesen | 
-121.00 | Einfache Melderegisterauskunft nach § 32 Abs. 1 Meldegesetz | je Einwohner 6
-121.01 | Erweiterte Melderegisterauskunft nach § 32 Abs. 2 Meldegesetz | je Einwohner 10
-121.02 | Melderegisterauskunft, deren Erteilung besondere Feststellungen oder einen sonstigen erhöhten Arbeitsaufwand erforderlich macht | je Einwohner 15
-121.03 | Melderegisterauskunft aus der mikroverfilmten Kartei | je Einwohner 20
-121.04 | Automatisierte Auskunftserteilung Für Gruppenauskünfte, Datenabgleiche und sonstige Auswertungen, die in automatisierter Form bearbeitet werden | Gebühr nach Zeit- und Sachaufwand zuzüglich Auslagen
-121.05 | Meldebescheinigung | je Bescheinigung 6
-121.06 | Meldebescheinigung, deren Ausstellung besondere Feststellungen oder einen sonstigen erhöhten Arbeitsaufwand erforderlich machen | je Bescheinigung 15
-121.07 | Erteilung oder Verlängerung einer Unbedenklichkeitsbescheinigung für Markt- und Meinungsforschungsinstitute | 129
-121.08 | Meldebescheinigung aus der mikroverfilmten Kartei | je Einwohner 20
+121.00 | Einfache Melderegisterauskunft nach § 44 Absatz 1 Bundesmeldegesetz | je Einwohner 7,50
+121.01 | Erweiterte Melderegisterauskunft nach § 45 Bundesmeldegesetz | je Einwohner 12
+121.02 | Melderegisterauskunft, deren Erteilung besondere Feststellungen oder einen sonstigen erhöhten Arbeitsaufwand erforderlich macht | je Einwohner 18
+121.03 | Melderegisterauskunft aus der mikroverfilmten Kartei | je Einwohner 24
+121.04 | Einfache Melderegisterauskunft im automatisierten Verfahren aus dem Internet nach § 49 Absatz 2 Bundesmeldegesetz | je Einwohner 6
+121.05 | Gruppenauskünfte nach § 46 Bundesmeldegesetz | Gebühr nach Zeit- und Sachaufwand zuzüglich Auslagen
+121.06 | Meldebescheinigung | je Bescheinigung 7,50
+121.07 | Meldebescheinigung, deren Ausstellung besondere Feststellungen oder einen sonstigen erhöhten Arbeitsaufwand erforderlich machen | je Bescheinigung 18
+121.08 | Erteilung oder Verlängerung einer Unbedenklichkeitsbescheinigung für Markt- und Meinungsforschungsinstitute | 156
+121.09 | Meldebescheinigung aus der mikroverfilmten Kartei | je Einwohner 24
 122 | Sondernutzungen und allgemeine Ordnungsangelegenheiten | 
 122.06 | Verfügung nach den Vorschriften über Lärmbekämpfung | 43 bis 800
 122.07 | Verfügung nach dem Gesetz über das Halten von Hunden | 40 bis 800
