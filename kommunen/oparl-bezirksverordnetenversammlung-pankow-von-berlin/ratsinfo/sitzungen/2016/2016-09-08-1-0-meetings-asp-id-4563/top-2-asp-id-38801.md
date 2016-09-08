@@ -1,0 +1,7 @@
+# TOP 2: Antrag auf Aufhebung der Sperre bei Kapitel 3306, Titel 51140
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Finanzen, Personal und Immobilien (2016-09-08)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=38801
+- Ergebnis: (offen)
