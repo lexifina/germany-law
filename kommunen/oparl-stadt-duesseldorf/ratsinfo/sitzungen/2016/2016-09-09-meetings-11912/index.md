@@ -1,0 +1,53 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-09-09T14:00:00+02:00
+- Ende: 2016-09-09T18:30:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11912
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11912
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00274108.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00274108.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00274108.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 06/2016 - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift über die gemeinsame Sitzung des APS mit der Bezirksvertretung 1 am 09.12.2015 - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige
+- TOP 5: Bebauung Oststraße 93 - zur Kenntnis genommen
+- TOP 6: Nächtliche Störungen der BewohnerInnen in der Essener Straße - zur Kenntnis genommen
+- TOP 7: Schließung von Geschäften auf der Derendorfer Straße
+- TOP 8: Bezirksbezogene Bauunterhaltung - zur Kenntnis genommen
+- TOP 9: Öffnung der Fußgängerpassagen am Worringer Platz - zur Kenntnis genommen
+- TOP 10: Alter Hafen - zur Kenntnis genommen
+- TOP 11: Jedermannrennen „Race am Rhein“ am 18.09.2016 - zur Kenntnis genommen
+- TOP 12: Grand Depart - Race am Rhein - zur Kenntnis genommen
+- TOP 13: FNP-Ä Nr. 122 -Nördlich-Konrad-Adenauer-Platz- - einstimmig beschlossen
+- TOP 14: B-Plan-Verfahren 01/012 Konrad-Adenauer-Platz 1 Beschluss zur öffentlichen Auslegung - einstimmig beschlossen
+- TOP 15: B-Plan Nr. 01/013 Harkortstraße Frühzeitige Öffentlichkeitsbeteiligung gemäß §3(1) BauGB - einstimmig beschlossen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Umbau 2. Bauabschnitt Halbinsel Spee'scher Graben - einstimmig beschlossen
+- TOP 21: KGS Essener Straße 1, Erhöhung der Zügigkeit um einen Zug auf drei Züge - einstimmig beschlossen
+- TOP 22: Kostensteigerung Maßnahme Tersteegenstraße, Dachsanierung - einstimmig beschlossen
+- TOP 23: Zuschussantrag: Die Pünktchens und Antons - einstimmig beschlossen
+- TOP 24: Immobilienmarkt in den Schadow Arkaden - einstimmig beschlossen
+- TOP 25: Rhein-Ruhr-Express - Zusammenfassung Ergebnisse der Betroffenheitsbereiche Planfeststellungsbereiche - zur Kenntnis genommen
+- TOP 26: Rund um die Münsterstraße - zur Kenntnis genommen
+- TOP 27: Berichtswesen Bezirksvertretung 1 - zur Kenntnis genommen
+- TOP 28: Golzheimer Friedhof - zur Kenntnis genommen
+- TOP 29: Golzheimer Friedhof: Gedenkplatz - einstimmig beschlossen
+- TOP 30: Tempo 30-Zone im Bereich zwischen Breite Straße und Berliner Allee - mehrheitlich abgelehnt
+- TOP 31: Toilettencontainer am Burgplatz - einstimmig beschlossen
+- TOP 32: Fahrradständer bzw. -bügel Am Wehrhahn - einstimmig beschlossen
+- TOP 33: Mündlicher Sachstandsbericht zum Bau des Aufzuges U-Bahn auf der Kaiserstraße - einstimmig beschlossen
+- TOP 34: Lärmbelästigung durch die Rheinbahn Immermannstraße/Oststraße - mehrheitlich beschlossen
+- TOP 35: Dauerhafte Einbahnstraßenregelung Wielandstraße - mehrheitlich abgelehnt
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
