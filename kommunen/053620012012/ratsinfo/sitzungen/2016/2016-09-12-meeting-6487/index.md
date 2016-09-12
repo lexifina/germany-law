@@ -1,0 +1,63 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-09-12T18:00:00+02:00
+- Ende: 2016-09-12T20:35:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUgq2HYFQuvsafvG7xNsF-I
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6487
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZbwF3cdpYLQxP3H88iPpGC6hYKSUmR7zi_D1FF40sOV/Bekanntmachung_Rat_12.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfOf2Z84uk62wBLPj3HZUxbUokiz8Zq5R4WzQkNdVM-r/Oeffentliche_Niederschrift_Rat_12.09.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschriften vom 20.06.2016 und 05.07.2016
+- TOP 3.: Rathaus Steinweg
+- TOP 3.1: Rathaus Steinweg
+- TOP 3.2: Rathaus Steinweg Bezug: Änderungsantrag der Fraktion Linke&Piraten vom 09.09.2016
+- TOP 3.3: Projekt Rathausneubau Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 11.09.2016 - (kein Text vorhanden)
+- TOP 4.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2015 - (kein Text vorhanden)
+- TOP 5.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 5.1: außerplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich BSHG/SGB XII - (kein Text vorhanden)
+- TOP 6.: Änderung der - Beitragssatzung Kindertagesbetreuung - Beitragssatzung OGS - (kein Text vorhanden)
+- TOP 7.: Bebauungsplan 04.20 "Sondergebiet südlich Lise-Meitner-Straße" - Veränderungssperre gemäß § 14 - 18 BauGB - - (kein Text vorhanden)
+- TOP 8.: Maßnahmen zur Darstellung und Hervorhebung internationaler Städtepartnerschaften und -freundschaften - (kein Text vorhanden)
+- TOP 9.: Kultur- / Festivalprogramm 2017 - (kein Text vorhanden)
+- TOP 10.: Bildung der Einigungsstelle nach § 67 LPVG NW (Landespersonalvertretungsgesetz Nordrhein-Westfalen) - (kein Text vorhanden)
+- TOP 11.: Verfahren zur Bestellung der Schulleiterin/des Schulleiters gemäß § 61 Schulgesetz NRW hier: Verfahren ab 01.01.2016 - (kein Text vorhanden)
+- TOP 12.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahre 2015 hier: Schreiben der KSK vom 12.07.2016 - (kein Text vorhanden)
+- TOP 13.: Anträge
+- TOP 13.1: Übernahme der Förderschulen durch den Rhein-Erft-Kreis Bezug: Antrag der FDP-Fraktion vom 26.08.2016 - (kein Text vorhanden)
+- TOP 14.: Umbesetzung in Ausschüssen
+- TOP 14.1: Umbesetzung im Schulausschuss hier: Vertreter des Max-Ernst-Gymnasiums - (kein Text vorhanden)
+- TOP 14.2: Umbesetzung im Sozialausschuss und Jugendhilfeausschuss
+- TOP 15.: Mitteilungen
+- TOP 15.1: Aufruf zur Teilnahme am Stadtradeln
+- TOP 15.2: Finanzierung der Büstra an der Kreuzung in Schwadorf
+- TOP 16.: Anfragen
+- TOP 16.1: Belastung der Stadtkasse durch Eintreiben von Gebühren etc. im Auftrag Dritter Bezug: Anfrage der FDP-Fraktion vom 26.08.2016
+- TOP 16.2: Belastung der Stadtkasse durch Eintreiben von Gebühren etc. im Auftrag Dritter Bezug: Anfrage der FDP Fraktion vom 26.08.2016 - (kein Text vorhanden)
+- TOP 16.3: Bürgerinteresse an dieser Ratssitzung
+- TOP 16.4: Ausschreibung der Stelle eines Verkehrsingenieurs
+- TOP 16.5: Gehnehmigung einer Tiefgarageneinfahrt beim Neubau an der Alten Bonnstraße
+- TOP 16.6: Provisorischer Kreisel an der Pingsdorfer Str.
+- TOP 16.7: Aufstellung von Fahrradständern
+- TOP 16.8: Aktuelle Flüchtlingssituation
+- TOP 16.9: Qualität der gelben Säcke
+- TOP 16.10: Überprüfung der modernisierten Ampeln auf der Römerstraße
+- TOP 16.11: Kreisel Kaiserstraße/Friedrichstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 17.: Bürgschaftsübernahme Darlehen Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 18.: Ausschreibung von Baugrundstücken - (kein Text vorhanden)
+- TOP 19.: Ausschreibung von Baugrundstücken im BPlangebiet 04.04 II "Rosenhof; Bezug: VgLA 23.05.2016; Vorlagen-Nr. 208/2016 - (kein Text vorhanden)
+- TOP 20.: Bericht über die 129. Sitzung des Aufsichtsrates der REVG mbH am 07.03.2016 - (kein Text vorhanden)
+- TOP 21.: Bericht über die 129. Sitzung des Aufsichtsrates der REVG mbH am 07.03.2016 - (kein Text vorhanden)
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen
+- TOP 23.1: Nicht zurückgekommene Wahlunterlagen und Stromausfall beim Ratsbürgerentscheid
+- TOP 23.2: Betriebsübergang bei OGS-Trägerwechsel
