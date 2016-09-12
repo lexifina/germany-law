@@ -1,0 +1,109 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800409
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800409
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) (Referat für Stadtplanung und Bauordnung, 04.08.16)
+- TOP 6.2.: Bauleitplanung der Gemeinde Gräfelfing; 11. Flächennutzungsplanänderung und Vorhabensbezogener Bebauungsplan Nr. 33 "Transportbetonmischanlage Glück", Verfahren nach § 4 Abs. 1 BauGB (Referat für Stadtplanung und Bauordnung, 10.08.16)
+- TOP 6.3.: Stiftsbogen 152 - 166; Errichtung eines Punkthochhauses (21 WE) / Tektur (Referat für Stadtplanung und Bauordnung, 23.08.16)
+- TOP 6.4.: Mehr Grün und Blumen in Münchens Straßen möglich machen, Antrag aus dem Münchner Stadtrat (Kreisverwaltungsreferat, 01.09.16)
+- TOP 6.5.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: "Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat" in ein Entscheidungsrecht, Antrag BA 16 Ramersdorf-Perlach vom 16.04.2015 (Direktorium, 31.08.16)
+- TOP 6.6.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Herbstfest des Verein für Bildung vom 21. - 23.10.2016 von 10.00 - 21.00 Uhr (Auf- und Abbau jeweils einen Tag davor bzw. danach) (Kreisverwaltungsreferat, 30.08.16)
+- TOP 6.7.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils" (Anlage 1 BA-Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht Änderung des Ahörungsrechtes "Förderung und Unterstützung von Vereinen, Gruppen und Initiativen" (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht, Antrag BA 16 Ramersdorf-Perlach vom 16.04.2015 (Direktorium, 02.09.16)
+- TOP 6.8.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten" (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht, Antrag BA 16 Ramersdorf-Perlach vom 16.04.2015 (Direktorium, 02.09.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Auf der Vogelwiese 1, 1 Zeder
+- TOP 7.2.: Ettenhoferstraße 2 a, 1 Tanne
+- TOP 7.3.: Gaberlstraße 1, 1 Blautanne
+- TOP 7.4.: Rolf-Pinegger-Straße 4 - 14, 1 Pappel
+- TOP 7.5.: Stiftsbogen 74, 1 Holunder, 1 Stieleiche, 4 Feldahorn und 4 Silberahorn
+- TOP 7.6.: Würmtalstraße 135, 2 Birken
+- TOP 7.7.: Maenherstraße 6, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 14577
+- TOP 7.8.: Gräfelfinger Straße 122, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 11268
+- TOP 7.9.: Gladiolenstraße 2, 1 Birke
+- TOP 7.10.: Senftenauerstr. 7-9, 1 Feldahorn, 1 Apfelbaum
+- TOP 7.11.: Ludlstr. 5a, 1 Platane, 1 Winterlinde
+- TOP 7.12.: Ludlstr. 2 - 16a, 1 Spitzahorn, 5 Hainbuchen
+- TOP 7.13.: Senftenauerstr. 1-5, 1 Feldahorn, 1 Eberesche, 1 Rotbuche
+- TOP 7.14.: Konrad-Dreher-Str. 27-35, 1 Weide, 1 Vogelkirsche
+- TOP 7.15.: Ludlstr. 1-15, 3 Winterlinden
+- TOP 7.16.: Ludlstr. 17-43, 1 Buche, 3 Bergahorn, 1 Winterlinde
+- TOP 7.17.: Ludlstr. 7, 1 Holunder
+- TOP 7.18.: Ludlstr. 55, 1 Robinie, 1 Birke
+- TOP 7.19.: Alpenveilchenstr. 42-48 / Konrad-Dreher-Str. 26-36, 3 Ahorn
+- TOP 7.20.: Stiftsbogen 152 - 166, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 17041
+- TOP 7.21.: Pfingstrosenstr. 30, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 16284
+- TOP 7.22.: Wildtaubenweg 1, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 15652
+- TOP 7.23.: Senftenauerstraße 155, 1 Birke
+- TOP 7.24.: Gräfelfinger Straße 111, 1 Latschenkiefer
+- TOP 7.25.: Stiftsbogen 63 - 81 a, 1 Silberahorn
+- TOP 7.26.: Sonnenblumenstraße 40, 1 Vogelkirsche
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Immastraße 15, 1 Fichte
+- TOP 7.2.: Auflistung Baureferat vom 09.08.16: Waldfriedhof (68 Fichten)
+- TOP 7.3.: Auflistung Baureferat vom 09.08.16: Zöllerstraße, Waldgartenstraße, Tischlerstraße, Brombeerschlag, Stiftsbogen (6 Fichten)
+- TOP 7.4.: Auflistung Baureferat vom 19.08.16: Waldfriedhof (33 Fichten)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Würmtalstraße 154, 1 Lärche (Referat für Stadtplanung und Bauordnung, 04.08.16)
+- TOP 7.2.: Hochwaldstr. 12, 2 Bäume (Referat für Stadtplanung und Bauordnung, 09.08.16)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Löwen-Picknick", Blumenauer Straße 4 (Kreisverwaltungsreferat, 09.08.16)
+- TOP 8.2.: Baumaßnahmen der SWM, hier: - Stromprojekt Sauerbruchstraße Netztrafostation, 2. Bauabschnitt (SWM, 02.08.16) - Stromprojekt Terofalstraße, Änderung im Terminablauf (SWM, 02.08.16) - Baumaßnahmen der SWM - 2. Halbjahr 2016 (SWM, 10.08.16)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Kurparkstraße (Sozialreferat, 28.07.16)
+- TOP 8.4.: Wegesanierung Silberdistelstraße / Ammerseestraße (Baureferat, 16.08.16)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Terre di Toscana", Heiglhofstraße (Kreisverwaltungsreferat, 22.08.16)
+- TOP 8.6.: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2015 (Sozialreferat, 19.08.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Haltverbot in der Waldgartenstraße (Kreisverwaltungsreferat, 08.08.16)
+- TOP 9.2.: Beleuchtung für den Durchgang von der Haseneystraße zum Parkplatz des Klinikums Großhadern (Baureferat, 09.08.16)
+- TOP 9.3.: Parkverbot für Fahrzeuge über 7,5 t in der Kriegerheimstraße (Oberbürgermeister Reiter, 02.08.16)
+- TOP 9.4.: Ampelanlage an der Kreuzung Schröfelhof- / Ossinger- / Kurparkstraße (Kreisverwaltungsreferat, 26.07.16)
+- TOP 9.5.: Mülleimer an der Grünanlage Schröfelhofstraße (Baureferat, 25.07.16)
+- TOP 9.6.: Fortschreibung der Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren - aktualisierte Datenblätter, Bekanntgabe im Bildungsausschuss vom 06.04.16 (Referat für Bildung und Sport, 30.08.16)
+- TOP 9.7.: Lärmbelästigung am Bolzplatz Stiftsbogen 15 a (Baureferat, 08.09.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Terminplanung 2017
+- TOP 11.2.: Anfrage bezüglich der Verlegung der Bücherbushaltestelle in Blumenau (Münchner Stadtbibliothek, 11.08.16)
+- TOP 11.3.: Stadtteilwoche Hadern (Kulturreferat, 08.08.16)
+- TOP 11.4.: Kurzbericht zum Projekt "Schule als Staat" am Erasmus-Grasser-Gymnasium
+- TOP 11.5.: Flächennutzungsplan mit integrierter Landschaftsplanung, Neuauflage des FNP-Faltblatts (Referat für Stadtplanung und Bauordnung, 29.08.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06588: Gesamtfortschreibung des Regionalplans
+- TOP 12.2.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06054: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung
+- TOP 12.3.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 04822: Förderung von Bürgerschaftlichem Engagement, Schaffung einer Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff)
+- TOP 12.4.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05807: Asiatischer Laubholzbockkäfer (ALB), Konditionen für Nachpflanzungen im Stadtgebiet, Schaffung einer Härtefallregelung zur Wurzelstockentfernung für von ALB-Fällungen betroffene Grundstückseigentümer
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06506: Preis für Stadtteilpflege - Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2016; Prämierung von Wettbewerbsbeiträgen
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06382: Nach Vorbild der "Perspektive Freimann": Lokale Entwicklungsperspektiven mit Bürgerbeteiligung entwickeln
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 13593: Stellplatzschlüssel im Wohnungsbau
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06304: Aktiver Ankauf von Grundstücken für den geförderten Wohnungsbau
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 01203: Barrierefreie Querungen im Fuß- und Radverkehr, Priorisierung bestehender und geplanter Querungsbauwerke
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.06.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06199: Ergebnisse der Studie WAM Wohnen Arbeiten Mobilität
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 06.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06071: Spielflächenversorgungsplan, Fortschreibung 2015
+- TOP 12.3.: Bekanntgabe im Sozialausschuss vom 07.07.2016 zur Sitzungsvorlage-Nr. 14-20 7 V 06039: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnung in Erhaltungssatzungsgebieten; Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014; Vollzug der Erhaltungssatzung; Vollzug der Zweckentfremdungssatzung; Bekanntgabe der Jahresstatistik 2015
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 3.2.: UA Kinder, Jugend, Schule, Sport
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
