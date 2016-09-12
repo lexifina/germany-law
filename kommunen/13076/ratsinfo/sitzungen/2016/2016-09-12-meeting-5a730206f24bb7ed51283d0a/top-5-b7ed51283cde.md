@@ -1,0 +1,7 @@
+# TOP 5: Besichtigung des Krankenhauses in Crivitz unter dem Aspekt der gesundheitlichen Vorsorge im ländlichen Raum
+
+- Sitzung: Sitzung des Ausschusses für Soziales, Familie und Gesundheit (2016-09-12)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730206f24bb7ed51283cde
+- Ergebnis: (offen)
