@@ -1,0 +1,7 @@
+# TOP 3: Inklusive Beschulung von Kindern mit einer Behinderung
+
+- Sitzung: Ausschuss für Schule und Weiterbildung (2016-09-13)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/3803
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/23723
