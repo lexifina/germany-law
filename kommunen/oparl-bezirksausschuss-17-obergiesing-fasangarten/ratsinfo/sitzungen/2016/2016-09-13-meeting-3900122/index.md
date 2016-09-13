@@ -1,0 +1,134 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3900122
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3900122
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der September-Sitzung 2015 1.3.2 Protokoll der Oktober-Sitzung 2015 1.3.3 Protokoll der Mai-Sitzung 1.3.4 Protokoll der Juni-Sitzung 1.3.5 Protokoll der Juli-Sitzung (1.3.6 Protokoll der Sitzung des Ferienausschusses)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Warum es die Giesinger Bahnhofstraße nicht mehr gibt? Bürgeranfrage vom 13.07.2016
+- TOP 2.2.: Setzbergstraße - Parksuchverkehr; Ausweisung als Anwohner-Parkzone - <div>nach Antrag / mit Ergänzung</div>
+- TOP 2.3.: Sportanlage der Mittelschule Perlacher Straße - Lärmbelästigung; Bürgerschreiben - <div>Anfrage RBS</div>
+- TOP 2.5.: Parkplatzordnung in der Siedlung am Perlacher Forst; Infoschreiben der BImA; Bürgerschreiben vom 01.08.2016
+- TOP 2.6.: Balanstraße 351/353 unbebaut - übermäßigen Wuchs der Trauerweide eindämmen
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Heimgartenstraße 14, 1 Lorbeer-Pappel
+- TOP 3.9.1.2.: Balanstraße 373, 1 Birke
+- TOP 3.9.1.3.: Fasangartenstr. 150b, 1 Goldzypresse
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Parkverbot Lincolnstraße - Freie Sicht für Fußgänger und Radfahrer; Antrag der SPD-Fraktion (FF: UA Verkehr)
+- TOP 4.2.: Giesing wird zum Bankenviertel! Aufenthaltsqualität im Freien für Alle steigern; Antrag der SPD-Fraktion (FF: UA Umwelt u. Gesundheit) - <div>nach Antrag / mit Ergänzung</div>
+- TOP 4.3.: Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund; Antrag der SPD-Fraktion (FF: UA Verkehr)
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Kreisjugendring München-Stadt, 103er - Freizeittreff Obergiesing, für die Maßnahme: Theatertage vom 22.-25.11.2016; Antragssumme: 2.215,00 ?; Beschlussvorlage des Direktoriums vom 30.06.2016 (FF: UA FSA - vertagt aus der Sitzung des Ferienausschusses)
+- TOP 5.2.: AntragstellerIn: Evang.-Luth. Kirchengemeinde München Giesing, für die Maßnahme: Kunstausstellung "WellenWeite" vom 16.10.-20.11.2016; Antragssumme: 400,00 ?; Beschlussvorlage des Direktoriums vom 12.08.2016 - <div>nach Antrag</div>
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Kulturlust e.V., für die Maßnahme: Filmworshop für junge Geflüchtete vom 19.09. bis 30.11.2016; Antragssumme: 1.200,00 ?; Antrag vom 05.08.2016
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 1: (E) Sanierung der Fahrbahndecke Perlacher Straße Empfehlung Nr. 14-20 / E 00976 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016
+- TOP 1.1.: Anhörungen zu Bauvorhaben 6.1.3.1.1 Zugspitzstraße 8, Dachgeschoss-Ausbau; Anhörung vom 04.08.2016 (vertagt aus der Sitzung des Ferienausschusses) 6.1.3.1.2 Watzmannstraße, Neubau eines Wohngebäudes (38 WE) mit Tiefgarage; Anhörung vom 04.08.2016 (vertagt aus der Sitzung des Ferienausschusses)
+- TOP 1.2.: Bauleitplanung der Gemeinde Unterhaching B-Plan Nr. 170/2015 "zwischen Adejeweg und Walter-Paetzmann-Straße" Verfahren nach §§ 13a, 4 Abs. 1 BauGB; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 26.09.2016
+- TOP 1.3.: Neubaumaßnahme Minnewittstr. 29 - Verfahren für einen vorhabenbezogenen Bebauungsplan für das gesamte Areal einleiten Empfehlung Nr. 14-20/E 00975 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016 Ansiedlung von fußläufigen kleinteiligen Einzelhandelsgeschäften entlang der Nordseite der Fasangartenstraße zwischen Haus Nr. 130 bis 160 ermöglichen und fördern durch die Aufstellung und Anpassung von Bauleitplänen Empfehlung Nr. 14-20/E 00978 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016 Sitzungsvorlagen Nr. 14-20/V 06958 - ENTWURF -
+- TOP 1.1.: Baufälle im 17. Stadtbezirk
+- TOP 1.2.: Förderung von Bürgerschaftlichem Engagement; Schaffung einer Koordinierungsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung u. Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff); Sitzungsvorlage Nr. 14-20 / V 04822; 4. Änderungsantrag der SPD-Stadtratsfraktion vom 15.06.2016; Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP 1.3.: PERSPEKTIVE MÜNCHEN; Langfristige Siedlungsentwicklung A. Statusbericht 2015 B. Anträge und Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 06054; Hinweis/Ergänzung vom 30.06.2016 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 (VB) zu 6.1.4.3 Neufassung vom 12.07.2016
+- TOP 1.6.: Gesamtfortschreibung des Regionalplans; Sitzungsvorlagen Nr. 14-20 / V 06588; Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP 1.7.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.7.1 Anwesen Weinbauernstraße; Mitteilung vom 06.07.2016 6.1.4.7.2 Anwesen Stettnerstraße; Mitteilung vom 20.07.2016
+- TOP 1.8.: ?Wohngeld II ? für angestammte Quartiersbewohner z.B. im Stadtteil Giesing; BA-Antrag Nr. 14-20 / B 02590 vom 14.06.2016; Unterstützung durch den BA 5 - Au-Haidhausen, den BA 19 - Thalkirchen, den BA 13 - Bogenhausen und den BA 20 - Hadern
+- TOP 1.9.: Anwesen Obere Grasstraße 6; Mietwohnungserhalt in städtischer Hand; BA-Antrag Nr. 14-20 / B 02431 vom 10.05.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 28.07.2016
+- TOP 1.10.: Vollzug der Erhaltungssatzung "Trauchberg- / Forggenseestraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 6.1.4.10.1 Anwesen Fockensteinstraße; Mitteilung vom 25.07.2016 6.1.4.10.2 Anwesen Fockensteinstraße / Fischbachauer Straße; Mitteilung vom 02.08.2016
+- TOP 1.12.: Baumaßnahmen der SWM - 2. Halbjahr 2016; Schreiben der SWM GmbH vom 10.08.2016
+- TOP 1.13.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.13.1 Alpenstraße; Mitteilung vom 11.08.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Entscheidung für den 8. Stadtbezirk als Einsatzort für den Kinder-Aktions-Koffer 2017; Schreiben der Kinderbeauftragten der LHM vom 12.07.2016
+- TOP 0.2.: Endlich Neugestaltung und Instandsetzung des Spielplatzes am Scharfreiterplatz- Priorisierung bei der Projektplanung Scharfreiterplatz; BA-Antrag Nr. 14-20 / B 02430 vom 10.05.2016; Antwortschreiben Baureferat-Gartenbau vom 28.07.2016
+- TOP 0.3.: Änderung der Mittelschulorganisation der LHM; Neubildung bzw. Änderung der Mittelschulverbünde - Schulverbund "München Neuperlach" - Schulverbund "München Südost"; Sitzungsvorlage Nr. 14-20 / V 06079; Beschluss des Bildungsausschusses des Stadtrates vom 29.06.2016 (SB)
+- TOP 0.4.: Asam-Gymnasium, Schlierseestraße 20, Erweiterung und Neubau einer Dreifachsporthalle - Vorstellung Vorplanung, Gesprächstermin am 19.07.2016 im RBS, Sachstandsinformation
+- TOP 0.5.: KITA-Jahresstatistik 2016 - Onlinebefragung, Sitzungsvorlage Nr. 14-20 / V 05890; Anfrage des BA 17 aus der Juli-Sitzung; Antwort des RBS vom 18.07.2016
+- TOP 0.6.: Giesinger Spiele-Karawane - Projektbericht 2016 des Vereins Spiellandschaft Stadt e.V.
+- TOP 0.7.: Dringender Handlungsbedarf bei Kinderbetreuungs- und Bildungseinrichtungen infolge der demographischen Entwicklung im 17. Stadtbezirk; BA-Antrag Nr. 08-14 / B 04607 vom 13.02.2013; Antwortschreiben des RBS vom 10.08.2016
+- TOP 0.1.: Fahrrad frei; rücksichtsloses Radfahren auf dem Fußweg Wallbergstraße / Chiemgaustraße; Erhöhung der Verkehrssicherheit; Bürgeranliegen vom 01.07.2016 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 0.2.: Parkplätze vor Penny-Markt in der Perlacher Straße; Bürgeranliegen (verwiesen aus der Sitzung vom 12.07.2016)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Evaluation der Satzung der LHM über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS); Schreiben des Referates für Stadtplanung und Bauordnung vom 04.08.2016 mit der Bitte um Stellungnahme bis 10. Oktober 2016
+- TOP 0.2.: Anfrage bzgl. der Verlegung der Bücherbushaltestelle im Fasangarten; Schreiben der Münchner Stadtbibliothek vom 11.08.2016 mit der Bitte um Rückmeldung zweier konkreter Standortvorschläge bis 30.09.2016
+- TOP 0.3.: Beschlussentwurf - Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt; Verkehrliche Neuordnung der Tegernseer Landstraße; Sitzungsvorlage Nr. 14-20 / V 03073; Zuleitung des Referates für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis 23.09.2016 zu 6.3.3.1 Stellungnahme des BA 18 aus der August-Sitzung
+- TOP 0.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Leifstraße gegenüber der Hausnummer 13
+- TOP 0.3.: Einrichtung einer zusätzlichen LÜB-Messstation an der Tegernseer Landstraße, Anbschnitt zwischen Grünwalder Sraße und Chiemgaustraße; BA-Antrag Nr. 14-20 / B 02132 vom 08.03.2016; Antwortschreiben des RGU vom 09.06.2016 und Stellungnahme des RGU vom 09.08.2016 - <div>zur Kenntnis genommen</div>
+- TOP 0.5.: Ergebnisprotokoll "Runder Tisch" zum Thema "Parkplatzsituation rund um den neuen Hochsicherheitsgerichtssaal in der JVA Stadelheim und dauerhaft aktiviertes Parkverbot zu festen Zeiten entlang der Stettnerstraße
+- TOP 0.6.: Haltverbot Stettnerstraße; Prüfung einer Alternativroute; Antwortschreiben der PI 23 vom 27.07.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 1: (E) Mülleimer für Hundekotbeutel aufstellen und Gehwege öfter reinigen (Ziffer 3 des Antrages) Empfehlung Nr. 14-20 / E 00990 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016
+- TOP 2: (E) Entfernung des Dixie Klos auf dem Gehweg der Wieskirchstraße (Ziffer 2 ?ohne Wildbiesler?) Empfehlung Nr. 14-20 / E 00989 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016
+- TOP 3: (E) Straßenreinigung in der Untersbergstraße zwischen Firstalmstraße und Weißenseestraße verbessern Empfehlung Nr. 14-20 / E 00977 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016 - <div>nach Antrag</div>
+- TOP 3.1.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel" im 3. Bauabschnitt im 17. Stadtbezirk Obergiesing-Fasangarten; Sitzungsvorlage Nr. 14-20 / V 06644; Zuleitung des Baureferats mit der Bitte um Stellungnahme zum Beschlussentwurf
+- TOP 3.1.: Asiatischer Laubholzbockkäfer (ALB); Konditionen für Nachpflanzungen im Stadtgebiet; Schaffung einer Härtefallregelung zur Wurzelstockentfernung für von ALB-Fällungen betroffene Grundstückseigentümer; BA-Antrag Nr. 14-20 / B 01543 des BA 16 vom 18.08.2015; Sitzungsvorlagen Nr. 14-20 / V 05807; Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP 3.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Bacherstraße 39 - 43; Bescheid vom 07.07.2016 6.4.4.1.2 Fasangartenstraße 102a; Bescheid vom 10.08.2016
+- TOP 3.3.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen Scharfreiterplatz und Hohenschwangauplatz im 17. Stadtbezirk Obergiesing-Fasangarten; Sitzungsvorlage Nr. 14-20 / V 05403; Beschluss des Bauausschusses vom 28.06.2016 (SB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Evang.-Luth. Pfarramt Lutherkirche St.-Martin-Straße; Dankschreiben für die finanzielle Unterstützung des diesjährigen Sommerfestes
+- TOP 0.1.: Lärmbeeinträchtigungen durch die Gaststätte Ecke Hohenwaldeck- / St.-Martin-Straße (Bürgeranliegen aus der Sitzung vom 14.06.2016, zuletzt verwiesen aus der Juli-Sitzung - ohne Vorgang)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 25.11.2007; hier: Alpenstraße 17, Erweiterung einer bestehenden Freischankfläche; Beschluss des BA 17 am 13.09.2016
+- TOP 0.1.: Keine Briefkastenleerung im gesamten Bereich Fasangarten am Sonntag; Bürgerschreiben vom 27.06.2016; Antwortschreiben des Referates für Arbeit und Wirtschaft vom 08.08.2016
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen / Antrag auf Neuerrichtungen); Mitteilungen des KVR 6.6.4.1.1 "Watz Art", Watzmannstraße 4, Ausschank von Getränken und/oder Abgabe von Speisen in einer Veranstaltungsstätte; Mitteilung vom 12.07.2016 6.6.4.1.2 SSW "Eurocafe 1 / Ladies Like", Eintrachtstraße 2; Mitteilung vom 02.08.2016
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Elektronischer Versand von BA-Sitzungsunterlagen; BA-Antrag Nr. 14-20 / B 00309 vom 10.06.2014; Antwortschreiben des Direktoriums vom 05.07.2016
+- TOP 7.2.: Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse; BV-Empfehlung Nr. 14-20 / E 00849 der BV des Stadtbezirkes 9 - Neuhausen-Nymphenburg vom 26.11.2015; Sitzungsvorlage Nr. 14-20 / V 05618; Beschluss des Verwaltungs- und Personalausschusses am 08.06.2016 (SB)
+- TOP 7.3.: Einhaltung der Bearbeitungsfrist bei Anträgen der Bezirksausschüsse; Abdruck des Schreibens von Herrn Oberbürgermeister Reiter an alle Referate der LHM
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.: Maßnahmen zur Einhaltung der Geschwindigkeitsbegrenzung im Bereich Herzogstandstraße / Perlacher Straße
+- TOP 0.3.: Eine Uhr für den Giesinger Bahnhofplatz; Bürgeranliegen vom Juli 2016, Antwortschreiben des Baureferates vom 18.08.2016
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
