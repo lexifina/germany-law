@@ -1,0 +1,113 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779503
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779503
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 5.3: Vorstellungen und Berichte (1)
+- TOP 5.3.1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 5.3.2.: Beschluss über die endgültige Tagesordnung
+- TOP 5.3.3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.3.4.: Fragen an die Polizei
+- TOP 5.3.5.: Bürgeranliegen
+- TOP 5.3.5.1: Der Bürger hat das Wort
+- TOP 5.3.5.2: Bürgerpost an den BA 3
+- TOP 5.3.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 06.07.2016 ?Wildparken? auf dem Josephsplatz
+- TOP 5.3.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 12.07.2016 Zu geringes Gefälle auf dem Josephsplatz
+- TOP 5.3.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 13.07.2016 Neugestaltung Josephsplatz
+- TOP 5.3.4.: Schreiben einer Betriebsrätin aus der Maxvorstadt vom 18.07.2016 Telekom-Kindergarten Blutenburgstraße Ecke Pappenheimstraße soll schließen
+- TOP 5.3.5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 01.08.2016 Gentrifizierung; Wohnanlage in der Prinz-Ludwig-Straße
+- TOP 5.3.6.: Schreiben eines Bürgers aus der Maxvorstadt vom 06.08.2016 Lärmbelästigung durch Basketballturnier auf der Wiese hinter der Alten Pinakothek
+- TOP 5.3.7.: Schreiben einer Bürgerin vom 06.08.2016 Anbringen einer Bodenmarkierung im Bereich der Trambahnhaltestelle Karlstraße stadt- einwärts mit dem Ziel, dass Parken nur mit 1,5 Meter Abstand zu den Gleisen zulässig ist.
+- TOP 5.3.8.: Schreiben einer Bürgerin aus der Maxvorstadt vom 11.08.2016 Parkplätze in der Heßstraße; Wiederherstellung der ehemaligen Anordnung der Parkplätze
+- TOP 5.3: Vorstellungen und Berichte (2)
+- TOP 5.3.1.: Die Leiterin der Abteilung Wohnraumerhalt im Amt für Wohnen und Migration berichtet über Erhaltungssatzungen in München
+- TOP 5.3.6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 5.3.1.: Fassadenbegrünung am ehemaligen Heizkraftwerk in der Theresienstraße 36
+- TOP 5.3.2.: Der BA Maxvorstadt fordert die LH München auf, die Forderung nach Einrichtung eines Erhaltungssatzungsgebietes südlich der Görresstraße baldmöglichst umzusetzen und damit den Fordrungen des BA-Antrages vom 07.10.2014 endlich nachzukommen.
+- TOP 5.3.3.: Verbleib des Cafe Netzwerk in der Maxvorstadt
+- TOP 5.3.4.: Unterstützung der Pfarrei St. Bonifaz durch eine Halbtagsstelle
+- TOP 5.3.5.: Forderungen des Bürgergutachtens Kunstareal: Stand der Planungen beim "Boulevard Kunstareal"
+- TOP 5.3.6.: Wahrnehmung des Vorkaufsrechts in Erhaltungssatzungsgebieten
+- TOP 5.3.7.: entfällt
+- TOP 5.3.8.: Baumpflanzung in der Adalbertstraße zwischen Türken- und Amalienstraße Ergänzungsantrag zum BA-Antrag Nr. 14-20 / B 01589 vom 15.09.2015
+- TOP 5.3.9.: Kreisverwaltungsreferat,Antwortschreiben auf Anfrage eines Bürgers Lärmbelästigung durch Schwerlast- und Lieferverkehr in der Georgenstraße
+- TOP 5.3.10.: Ausweichstrecke zur Nymphenburger Straße, durchgehend Tempo 30 ab Einmündung Gümbelstraße in die Blutenburgstraße
+- TOP 5.3.11.: Tempo 30 in der Karlstraße zwischen Seidl- und Luisenstraße
+- TOP 5.3.12.: Referat für Arbeit und Wirtschaft Verlängerung der Stadtbuslinie 153 Antrag Nr. 14-20 7 B 02041 des BA 3 vom 16.02.2016
+- TOP 5.3.13.: Anfrage an das Baureferat zu den Pflastersteinen am Josephsplatz
+- TOP 5.3.14.: Referat für Bildung und Sport BA-Antrag Nr. 14-20 / B 02362 des BA 3 vom 10.05.2016, Zwischennachricht
+- TOP 5.3.15.: Ausgleichszahlung für Bäume erhöhen
+- TOP 5.3.16.: Aufwertung des Rudi-Hierl-Platzes; es soll dafür Sorge getragen werden, dass für das Schachbrett Figuren vorhanden sind, wie im Alten Nördlichen Friedhof und am Königsplatz
+- TOP 5.3.17.: Aufwertung des Rudi-Hierl-Platzes
+- TOP 5.3.1.: Antrag der CSU-Fraktion vom 28.08.2016 ?Coffe-to-go-again? Pilotprojekt der AWM in der Maxvorstadt
+- TOP 5.3.2.1: Bauvorhaben
+- TOP 5.3.1.: Liste der Bauvorhaben: 30., 31., 33., 34. KW
+- TOP 5.3.2.: Liste der Abgeschlossenheitsbescheinigungen:
+- TOP 5.3.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 5.3.3.1: Vollzug der Baumschutzverordnung
+- TOP 5.3.1.: Brienner Straße 37 Schulbauoffensive ? Neubau Mensa und Schulerweiterung mit Nutzungsänderung im EG Vorbescheid (Brienner Straße 37/Luisenstraße 29)
+- TOP 5.3.3.2: Baumfällungen
+- TOP 5.3.1.: Schellingstraße 34, eine Fichte
+- TOP 5.3.2.: Schleißheimer Straße 40, eine Blaufichte
+- TOP 5.3.3.: Schleißheimer Straße 100, eine Zierkirsche
+- TOP 5.3.4.: Türkenstraße 32, drei Fichten
+- TOP 5.3.3.3: Grün- und Freiflächenplanung
+- TOP 5.3.1.: Referat für Stadtplanung und Bauordnung a)Gesamtfortschreibung des Regionalplans Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 6588 b) Asiatischer Laubholzbockkäfer (ALB); Konditionen für Nachpflanzungen im Stadtgebiet Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 05807 c) Bahnknoten München, 2. Stammstrecke: a) Sachstand, b) Vorwegmaßnahmen am Hauptbahnhof und Marienhof Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 06300 d) Bebauungsplan mit Grünordnung Nr. 2115 Arcisstraße (östl.), Elisabethplatz (südl.), Nordendstraße (westl.), Teiländerung des Bebauungsplan Nr. 259, Aufstellungsbeschluss, Durchführung eines Realisierungswettbewerbes, Neufassung vom 13.07.2016 Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 06302 e) Perspektive München, Langfristige Siedlungsentwicklung, Neufassung vom 12.07.2016 Sitzungsvorlage Nr. 14-20 7 V 06054
+- TOP 5.3.2.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Baumfällung Kurfürstenstraße 11, Fällgenehmigung
+- TOP 5.3.3.: Referat für Stadtplanung und Bauordnung Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten; Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.12.2014 ? Vollzug der Erhaltungssatzungen und der Zweckentfremdungssatzung; Bekanntgabe der Jahresstatistik 2015 Bekanntgabe im Sozialausschuss vom 07.07.2016 Sitzungsvorlage Nr. 14-20 / V 06039
+- TOP 5.3.4.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Baumfällung Georgenstraße 63, Bescheid
+- TOP 5.3.5.: Referat für Stadtplanung und Bauordnung Perspektive München, Langfristige Siedlungsentwicklung, Neufassung vom 12.07.2016 Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 06054
+- TOP 5.3.6.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Fällgenehmigung Arnulfstraße
+- TOP 5.3.1.: Antrag der SPD-Fraktion vom 15.06.2016 Verbesserung für den Radverkehr (1): breiterer Radweg für die Dachauer Straße vertagt aus der Sitzung vom 12.07.2016 Unterlagen liegen bereits vor
+- TOP 5.3.2.: Antrag der SPD-Fraktion vom 24.08.2016 Verbesserung für den Radverkehr (3): Erstellung eines generellen Radkonzepts am Stiglmaierplatz
+- TOP 5.3.3.: Antrag der CSU-Fraktion vom 28.08.2016 Sicherheit im Alten Botanischen Garten
+- TOP 5.3.4.: Antrag der FDP-Fraktion vom 28.08.2016 Hinweistafeln zur Erläuterung der Herkunft von Straßennamen
+- TOP 5.3.5.: Antrag der SPD-Fraktion vom 30.08.2016 Maßnahmen zum Schutz des Alten Nördlichen Friedhofs
+- TOP 5.3.2.1: Verkehr
+- TOP 5.3.1.: Baureferat, Beschlussvorlage Programm barrierefreie Bushaltestellen (ÖPNV Offensive) ? Schellingstraße, Haltestelle Arcisstraße, Projektnummer 5579
+- TOP 5.3.2.: Baureferat, Beschlussvorlage Programm barrierefreie Bushltestellen (ÖPNV Offensive) -Schellingsstraße, Haltestelle Luisenstraße, Projekt-Nr. 5580
+- TOP 5.3.3.: Kreisverwaltungsreferat, Anhörungen Einrichtung einer Haltestelle für Stadtrundfahrten in der Nymphenburger Straße am Löwenbräukeller
+- TOP 5.3.2.2: Öffentlicher Raum
+- TOP 5.3.1.: Referat für Stadtplanung und Bauordnung, Anhörung Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereit- haltung von Abstellplätzen für Fahrräder (Farradabstellplatzsatzung - FabS)
+- TOP 5.3.2.: Hackerbrücke Nordseite, südlich der Litfaßsäule: Aufstellung eines Obstverkaufsstandes
+- TOP 5.3.3.: Aufstellung von Zeitungsentnahmegeräten a) Professor-Huber-Platz 2, Seite Ludwigstraße b) Arcisstraße 17, am Halteverbotsschild vor der TU-Mensa
+- TOP 5.3.2.3: Gaststätten
+- TOP 5.3.1.: Dachauer Straße 92, Genehmigung einer Freischankfläche
+- TOP 5.3.2.: Neureutherstraße 21, Erweiterung einer bestehenden Freischankfläche
+- TOP 5.3.2.4: Veranstaltungen
+- TOP 5.3.1.: München Marathon am 09.10.2016 und Trachtenlauf am 08.10.2016
+- TOP 5.3.1.: Kreisverwaltungsreferat, Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Barer Straße 56 a
+- TOP 5.3.2.: Kreisverwaltungsreferat, Beschlussvorlage Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreis- verwaltungsreferat Antrag Nr. 14-20 / A 01290 div. Mitglieder des Stadtrates vom 05.08.2015 Sitzungsvorlage Nr. 14-20 / V 06221 Beschluss der Vollversammlung des Stadtrates vom 15.06.2016, Neufassung v. 14.06.2016
+- TOP 5.3.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Eilentscheidungen a) Bauernmarktmeile am 04.09.2016 auf dem Odeonsplatz und in der Ludwigstraße
+- TOP 5.3.4.: Bezirksausschuss 9 Neuhausen-Nymphenburg Neuregelung des Verkehrs im Arnulfpark Kopie der Stellungnahme des BA 9 an das Kreisverwaltungsreferat
+- TOP 5.3.5.: Kreisverwaltungsreferat, Ausnahmegenehmigung Baustelleneinrichtung an der Marlene-Dietrich-Straße 47
+- TOP 5.3.6.: Stadtwerke München Informationen über Netzbaumaßnahmen
+- TOP 5.3.7.: Baureferat Arnulfpark ? Restherstellung Fahrbahndecken; Information über die geplante Bauabwicklung
+- TOP 5.3.8.: Baumaßnahmen der Stadtwerke a) ReHa Oskar-von-Miller-Ring, Fernwärme b) Schwindstraße 15, Fernwärme c) Linprunstraße 6, Fernwärme d) Lothstraße Schacht 8872, Fernwärmeleitung e) Erzgießereistraße 14, Strom
+- TOP 5.3.9.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen a)Arbeiten im Straßenraum, Heßstraße 2 bis 8, Verlegen einer Fernwärmeleitung b) Arbeiten im Straßenraum, Bahnhofplatz 1 Ecke Schützenstraße, Bahnhofplatz 2 Ecke Bayerstraße und Luisenstraße 4
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.1.: (E) Budget der Bezirksausschüsse Frauenobdach KARLA 51 Anschaffung von Schulmaterial
+- TOP 5.3.1.: Direktorium, Bezirksausschussangelegenheiten Abrechnung des Zuschusses aus dem BA-Budget an die Elterninitiative ?Springball? e.V.
+- TOP 5.3.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde St. Markus Aufstellung und Bespielung der Utopia Toolbox vom 07.07. - 23.07.2017
+- TOP 5.3.2.: (E) Budget der Bezirksausschüsse Initiative "Wohlstandsbank" Kunstobjekt "Wohlstandsbank" Ende November/Dezember 2016
+- TOP 5.3.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 5.3.1.: Kulturreferat Kunstprojekt ?Wohlstandsbank?, Förderung durch das Kulturreferat
+- TOP 5.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.2.: Direktorium Angleichung des Anteils der Eigenmittel bei Anträgen auf Gewährung einer Zuwendung aus dem Budget der Bezirksausschüsse
+- TOP 5.3.3.: Einhaltung der Bearbeitungsfrist bei Anträgen der Bezirksausschüsse Schreiben des Oberbürgermeisters vom 18.07.2016 an die Referate
+- TOP 5.3.1.: Nächste BA- und UA-Sitzungen
+- TOP 5.3.1.: Direktorium, Anhörung Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Ent- scheidungsrechte übertragen; BA-Antrag Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015
+- TOP 5.3.1.: Anträge
+- TOP 5.3.2.: Entscheidungen und Anhörungen
+- TOP 5.3.3.: Aktuelle Sachstandsberichte
+- TOP 5.3.4.: Unterrichtungen
