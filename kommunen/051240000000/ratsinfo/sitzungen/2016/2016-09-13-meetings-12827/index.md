@@ -1,0 +1,63 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-09-13T16:07:00+02:00
+- Ende: 2016-09-13T17:44:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12827
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12827
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand:01.09.16) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00196908.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00198104.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2015 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2015 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2015 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2015 der Bergischen Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2015 der Wuppertaler Quartierentwicklungsgesellschaft mbH (WQG) - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2015 der Regionale Bahngesellschaft mbH (Regio-Bahn) - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2015 der APH Service GmbH - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2015 der Kinder- und Jugendwohngruppen (KIJU) - Entgegennahme ohne Beschluss
+- TOP 1.8.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2015 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2016/2017 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan 2017 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Liquidationsschlussrechnung 2015 der WiBeFö GmbH i.L. - ungeändert beschlossen
+- TOP 3.2: Änderung der Satzung der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.3: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2016 bis 30.06.2017 - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Finco-Bericht zum 31.08.2016 - Entgegennahme ohne Beschluss
+- TOP 5.2: Stand der Schulden und Kassenkredite zum 30.06.2016 - Entgegennahme ohne Beschluss
+- TOP 5.3: Zukünftige Nutzung und Gestaltung des Carnaper Platzes - Entgegennahme ohne Beschluss
+- TOP 5.4: Neuregelung zum Umsatzsteuerrecht - § 2b UStG - Entgegennahme ohne Beschluss
+- TOP 5.5: „Bürgerhaushalt“ - Bürgerbeteiligung zur Haushaltsplanung 2018/2019 im Rahmen des EU-Projekts EMPATIA - Entgegennahme ohne Beschluss
+- TOP 5.6: Prüfauftrag zur Bergisch-Rheinischen IT-Kooperation BRIT; Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 5.7: Betriebliche Kinderbetreuung bei der Stadtverwaltung Wuppertal - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Aufhebung des Begleitbeschlusses zum Haushaltsplan 2016/2017 und zur Fortschreibung des Haushaltssanierungsplanes für das Jahr 2016 - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Transparenzsatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 7.1.1: Transparenzsatzung
+- TOP 7.2: Dividendenausschüttung der WSW Energie & Wasser AG an ENGIE - Entgegennahme ohne Beschluss
+- TOP 7.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE - Dividendenausschüttung der WSW Energie & Wasser AG an ENGIE - Entgegennahme ohne Beschluss
+- TOP 7.3: Software-Tool zur bedarfsorientierten Fahrzeug-Bestellung - Entgegennahme ohne Beschluss
+- TOP 7.3.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 30.08.2016/Softwaretool zur bedarfsorientierten Fahrzeug-Bestellung - Entgegennahme ohne Beschluss
+- TOP 7.4: Stadtentwässerung - Maßnahmenkatalog 2017/Katalogentwurf 2018 - ungeändert beschlossen
+- TOP 7.5: Stadterneuerungsprogramm 2016 des Landes Nordrhein-Westfalen - Entgegennahme ohne Beschluss
+- TOP 7.6: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 7.7: Unterjährige Änderung des Straßenverzeichnisses zur Straßenreinigungssatzung 2016 - ungeändert beschlossen
+- TOP 7.8: Durchführung der Weihnachtsmärkte - abgesetzt
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das II. Quartal 2016 - Entgegennahme ohne Beschluss
+- TOP 10: Berichte und Mitteilungen
