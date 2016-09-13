@@ -1,0 +1,52 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2016-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3787310
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3787310
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: St. Rupert Laboratorium (Veranstaltungsreihe)
+- TOP 4.2.: Parkplatznot durch Baustelle an der Ridlerstraße
+- TOP 4.3.: "Haus mit roter Fahne"
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Bauvorhaben Schwanthalerstr. 125
+- TOP 6.2.: Bauvorhaben Gollierstr. 30
+- TOP 6.3.: Evatluation der Fahrradabstellplatzsatzung
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Denkmalgeschützte Schulmauer der Schule an der Bergmannstraße
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: Schulbauoffensive - Bedarfsentwicklung und -planung für die öffentl. Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 7.1.: Bericht von "AKIM" (Gollierplatz und anderes)
+- TOP 7.2.: Keine Zwischennutzung auf dem Baufeld MK2 und Entlastung des Schulstandortes Ridlerstraße (Antwort RBS)
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Forum Schwanthalerhöhe - Beschluss zur Empfehlung aus der Bürgerversammlung vom 19.04.16
+- TOP 8.2.: Freischankfläche Bergmannstr. 48
+- TOP 3.1.: Baumfällantrag Westendstr. 136
+- TOP 3.2.: Baumfällantrag Guldeinstr. 40
+- TOP 3.3.: Mehr Grün und Blumen in Münchens Straßen möglich machen
+- TOP 3.1.: Hans-Fischer-Straße; Einrichtung eines absoluten Haltverbotes
+- TOP 3.2.: Baumaßnahmen der SWM - 2. Halbjahr 2016 (Baustellenkarte im Internet)
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Trinkwasserspender auf dem Georg-Freundorfer-Platz (Beschluss zur Empfehlung aus der Bürgerversammlung vom 19.04.16)
+- TOP 11.2.: Satzungsänderung - Förderung von Pflege und Brauchtum sowie von Vereinen, Gruppen und Initiativen
+- TOP 11.3.: Satzungsänderung - Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten
+- TOP 12: Protokoll und Umlauf
+- TOP 4: (E) Trinkwasserspender auf dem Georg-Freundorfer-Platz Empfehlung Nr. 14-20 / E 00930 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 20.04.2016 - <div></div>
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
+- TOP 3: Forum Münchner Höhe Ziffer1: Umwelt- und bewohnerfreundliches Verkehrskonzept Ziffer2: Tiefgaragenzufahrt über Bavariaring Ziffer3: Verpflichtende Gebäudereinigung Empfehlung Nr. 14-20 / E 00932 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 19.04.2016 - <div></div>
