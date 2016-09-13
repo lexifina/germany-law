@@ -1,0 +1,85 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834258
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834258
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Erweiterung der Fahrradabstellanlage am Laimer Platz
+- TOP 1.2.2.: Unfälle mit der Straßenbahn in der Agricolastraße / Ecke Agnes-Bernauer-Straße
+- TOP 1.2.3.: Einrichtung einer Lieferzone in der Landsberger Straße auf Höhe Haus-Nr. 317
+- TOP 1.2.4.: Fachnerstraße; Beeinträchtigung durch Erschütterungen und Brummgeräusche
+- TOP 1.2.5.: Elsenheimerstr.; Begrünung des Gleisbetts der Straßenbahn
+- TOP 1.2.6.: Kneipp-Anlage im Westpark; Erneuerung der Barfußpfad-Stationen
+- TOP 2: Anträge
+- TOP 2.1.: Unterausschuss Bildung und Sozialplanung: Kostenübernahme von 1.000,-- Euro aus dem BA-Budget für zwei Moderatoren / Moderatorinnen zur Stadtteilerkundung und Aktivierung von Kindern und Jugendlichen zur Vorbereitung und Partizipation an der Kinder- und Jugendeinwohnerversammlung 2016
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kirchenchor St. Philippus Kirchenkonzert am 20.11.2016
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Elternbeirat Grundschule Camerloherstraße Tanzprojket "Tanz und Schule" Ende 2016
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Paul-Gerhardt-Chor München-Laim PGC-Konzert am 23.10.2016
+- TOP 3.4.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.16 über die Projektplanung: Elsenheimerstraße, Haltestelle Lautensackstraße (Programm Barrierefreie Bushaltestellen)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 12.07.16: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 14 Abschnitt Sozialreferat: ?Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommenen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist? in ein Entscheidungsrecht (Antrag des BA 16 Ramersdorf-Perlach Nr. 14-20 / B 01092 vom 16.04.15) (vertagt aus der BA-Sitzung vom 02.08.16)
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.08.16: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 4.3.: Elsenheimerstr. 59: Antrag auf Fällung eines Ahorns
+- TOP 4.4.: Lutzstr. 9-11: Antrag auf Fällung von 3 Buchen
+- TOP 4.5.: Joergstr. 14: Antrag auf Fällung einer Fichte
+- TOP 4.6.: Heinrich-Heine-Str. 6a-14: Antrag auf Fällung eines Ahorns
+- TOP 4.7.: Maria-Birnbaum-Str. 8: Antrag auf Fällung einer Fichte
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 25.08.16: Flohmarkt am Laimer Platz am 08.10.16 (Ersatztermin 15.10.16)
+- TOP 4.9.: Schreiben Kommunalreferat vom 24.08.16: Umsetzung des Städtebaulichen Entwicklungskonzepts Alte Heimat, Genehmigung der Generalunternehmerausschreibung für die Neubauabschnitte 1 und 2; Beschlussvorlage für den Kommunalausschuss am 15.09.16 (Sitzungsvorlage Nr. 14-20 / V 06905) - s. auch TOP 9 nichtöffentliche Sitzung -
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 29.08.16: Veranstaltung auf dem Laimer Anger; Politischer Frühschoppen am 24.09.16
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Burgkmairstr. 9: Nutzungsänderung eines Altenwohnheims in ein Wohnhaus für sozial bedürftige Personen (gemäß Stiftungszweck) mit Gebäudeerweiterung nach Norden / Vorbescheid
+- TOP 5.2.: Fürstenrieder Str. 21: Umbau des ehemaligen "Kaufhaus Beck" in ein Gewerbe- und Geschäftshaus
+- TOP 6: Sonstiges
+- TOP 6.1.: Termine der BA-Sitzungen und der Bürgerversammlung 2017
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Bau vom 27.07.16
+- TOP 7.2.: Sitzung UA Bildung und Sozialplanung vom 27.07.16
+- TOP 7.3.: BA-Sitzung vom 02.08.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben des Oberbürgermeisters vom 18.07.16: Einhaltung der Bearbeitungsfrist bei Anträgen der Bezirksausschüsse
+- TOP 8.2.: Schreiben Direktorium vom 03.08.16: Oktoberfest 2016, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse (BA 25: 22.09.16 ab 17:00 Uhr)
+- TOP 8.3.: Schreiben Baureferat vom 04.08.16: Schaukeln am Spielplatz Burgkmairpark (BA-Schreiben vom 08.07.16)
+- TOP 8.4.: Schreiben Baureferat vom 08.08.16: Fahrradabstellkonzept (3. Realisierungsabschnitt) Umsetzung "Fürst 51"
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 29.07.16: Flyer Infoabende im Bauzentrum von September bis Dezember 2016
+- TOP 8.6.: Schreiben Kommunalreferat vom 20.07.16: Erhalt des Gebäudes Kiem-Pauli-Weg 22 als Begegnungsstätte; Zwischennachricht zur Behandlung der Empfehlung Nr. 14-20 / E 00780 der Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.15
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 11.08.16: Tübinger Straße und Zschokkestraße; Fernwärmeerschließung Laim Ost - Erweiterung des Baufelds bis zur Westendstraße; Verkehrsrechtliche Anordnung für Arbeiten im Straßenraum
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 18.08.16: Siglstraße, Ludwig-Richter-Straße und Pfarrer-Endres-Weg; Fernwärmeerschließung Laim Ost - Bauphase 1.1 c); Verkehrsrechtliche Anordnung für Arbeiten im Straßenraum
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 29.07.16: Ampel für Fahrradfahrer an den Kreuzungen Westend-/Zschokke-/Tübinger Straße sowie Gotthard-/Von-der-Pfordten-Straße (BA-Schreiben vom 08.07.16)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.07.16: Wildes Plakatieren im Stadtgebiet durch einen Zirkus (BA-Schreiben vom 18.05.16)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.08.16: Landsberger Str. 214; Neubau eines gewerblich genutzten Gebäudes / Vorbescheid
+- TOP 8.12.: Bautenliste vom 25.07. bis 31.07.16: 1. Erstantragsverfahren a) Hönlestr. 23
+- TOP 8.13.: Bautenliste vom 01.08. bis 07.08.16: 1. Erstantragsverfahren a) Justinus-Kerner-Str. 27 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Zschokkestr. 36
+- TOP 8.14.: Bautenliste vom 08.08. bis 14.08.16: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Burgkmairstr. 9 b) Camerloherstr. 78
+- TOP 8.15.: Schreiben Sozialreferat vom 12.08.16: Sachstand zur Unterkunft für Flüchtlinge in der Elsenheimerstr. 48-50
+- TOP 8.16.: Schreiben Sozialreferat vom 22.08.16: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2015
+- TOP 8.17.: Schreiben Sozialreferat vom 23.08.16: Zweckentfremdung von Wohnraum durch Abbruch und Neubau; Camerloherstraße
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 21.07.16: Baumaßnahmen der SWM; Fernwärmeprojekt Landsberger Str. 156-162
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 10.08.16: Baumaßnahmen der SWM - 2. Halbjahr 2016; Baustellenkarte im Internet: www.swm-infrastruktur.de/baustellenkarte oder www.swm.de/baustellenkarte
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 25.07.16: Baumaßnahmen der Stadtwerke; Stichtage 18.07. - 25.07.16
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 01.08.16: Baumaßnahmen der Stadtwerke; Stichtage 26.07. - 29.07.16
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 08.08.16: Baumaßnahmen der Stadtwerke; Stichtage 01.08. - 05.08.16
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 16.08.16: Baumaßnahmen der Stadtwerke; Stichtage 08.08.-12.08.16
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 22.08.16: Baumaßnahmen der Stadtwerke; Stichtage 16.08.-19.08.16
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 29.08.16: Baumaßnahmen der Stadtwerke; Stichtage 22.08.-26.08.16
+- TOP 8.26.: Bekanntgabe des Sozialausschusses vom 07.07.16: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten; Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.14; Vollzug der Erhaltungssatzungen, Vollzug der Zweckentfremdungssatzung; Bekanntgabe der Jahresstatistik 2015 (Sitzungsvorlage Nr. 14-20 / V 06039)
+- TOP 8.27.: Beschluss des Kulturausschusses vom 15.09.2016: Neubau eines gemeinsamen Stadtteilkulturzentrums für die Stadtbezirke 25 Laim und 7 Sendling-Westpark (Sitzungsvorlage Nr. 14-20 / V 06929)
+- TOP 8.28.: Schreiben Mieterbeirat der Landeshauptstadt München vom 02.08.16: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 18.07.16
+- TOP 8.29.: Schreiben Behindertenbeirat der Landeshauptstadt München vom 02.08.16: Protokoll der gemeinsamen Sitzung des Facharbeitskreises Mobilität und Behindertenvertretungen der Bezirksausschüsse vom 14.07.16
+- TOP 8.30.: Schreiben Förderverein der Kindertageseinrichtung St. Philippus in München e.V. vom 15.08.16: Budget des BA 25; Kurzbericht über die Verwendung des BA-Zuschusses für die Anschaffung eines Sofas
+- TOP 8.31.: Schreiben MobilSpiel e.V. vom 16.08.16: Budget des BA 25; Kurzbericht zur Veranstaltung Kicklusion "...und alle kicken mit!" am 07.08.16
+- TOP 8.32.: Schreiben Bürger-Initiative BAB 96 München vom 15.08.16: Stellungnahme zum Entwurf der Beschlussvorlage "Vergabe einer Machbarkeitsstudie zur Verbesserung des Lärmschutzes sowie der lufthygienischen und städtebaulichen Situation im Bereich der A 96 im Stadtgebiet der Landeshauptstadt München"
+- TOP 8.33.: Schreiben mitbauzentrale münchen Beratung für gemeinschaftsorientiertes Wohnen vom 08.08.16: Tag der offenen Wohnprojekte am 24.09.16 (www.mitbauzentrale-muenchen.de)
+- TOP 8.34.: Schreiben Deutscher Kinderschutzbund Ortsverband München e.V. vom 27.07.16: Bericht zum Spielfest am 24.06.16 auf dem Hogenbergplatz
+- TOP 8.35.: Schreiben Schülermitverantwortung Schülerausschuss des Erasmus-Grasser-Gymnasiums vom 25.08.16: Budget des BA 25; Kurzbericht zum Projekt "Schule als Staat"
+- TOP 1.2: Bürgerpost an den BA
