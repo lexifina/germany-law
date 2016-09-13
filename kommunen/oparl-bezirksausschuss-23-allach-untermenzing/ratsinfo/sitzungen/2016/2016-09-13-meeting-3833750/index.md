@@ -1,0 +1,106 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-09-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833750
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833750
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokoll der Einwohnerversammlung vom 08.06.16
+- TOP 1.2.: Protokoll des Ferienausschusses vom 09.08.16
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 13.07.16
+- TOP 1.4.2.: Protokoll UA Kultur vom 03.08.16
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Nächtliche Ruhestörung entlang der Würm
+- TOP 2.2.: Unfallgefahr durch eingeschränkt nutzbaren Gehweg in der Ganzenmüllerstraße
+- TOP 2.3.: Streetballanlage Megerlestraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 5.2.: Geschwindigkeitsbeschränkung Storchenweg
+- TOP 5.3.: Beschlussvorlage "Schulbauoffensive 2013-2030" für den Bildungsausschuss am 05.10.16
+- TOP 5.4.: Verkehrsführung nördliche Waldhornstraße BV-Empf. 509 vom 23.06.15
+- TOP 5.5.: Aufhebung Behindertenparkplatz Auenbruggerstraße
+- TOP 5.6.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: "Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat"
+- TOP 5.7.: Hausmannstr. 13, Gemarkung Allach, Fl.Nr. 1337/7 Neubau eines Dreispänners mit Walmdach und 3 Stellplätzen und Vollzug der BaumschutzVO
+- TOP 5.8.: Achwaldstr. 17, Fl.Nr. 587/15, Gemarkung Allach TEKTUR - Errichtung eines unterkellerten Doppelhauses mit Walmdach und 2 Stellplätzen und Vollzug der BaumschutzVO
+- TOP 5.9.: Achwaldstr. 4, Gemarkung Allach, Fl.Nr. 724/33 Neubau eines Mehrfamilienhauses und zweier Einfamilienhäuser mit Tiefgarage - VORBESCHEID und Vollzug der BaumschutzVO
+- TOP 5.10.: Oertelplatz 4, Gemarkung: Allach, Fl.Nr.: 1324/29 Neubau eines Büro- und Geschäftsgebäudes sowie einer P+R-Tiefgarage (Oertelplatz 4 + 4b / Georg-Reismüller-Str. / Lautenschlägerstr.)
+- TOP 5.11.: Theodor-Kitt-Str., Gemarkung: Untermenzing, Fl.Nr.: 747/6 Neubau 3er Mehrfamilienhäuser mit Tiefgarage (geförderter Wohnungsbau)-VORBESCHEID und Vollzug der BaumschutzVO
+- TOP 5.12.: Franz-Töpsl-Weg 11a Neubau eines 3-Familienhauses mit Duplexgarage
+- TOP 5.13.: Eversbuschstr. 161, Flurst. 80/0 Neubau des Stadtteilkulturzentrums Allach-Untermenzing, Sanierung des Vereinsheims, Abbruch bestehender Nebengebäude- VORBESCHEID
+- TOP 5.14.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten? (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht
+- TOP 5.15.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadt-teils? (Anlage 1 BA-Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht sowie Änderung des Anhörungsrechtes ?Förderung und Unterstützung von Vereinen, Gruppen und Initiativen? (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Kreisverwaltungsreferates vom 19.07.16: Errichtung einer P+R-Tiefgarage am S-Bahnhaltepunkt Allach im Versorgungszentrum am Oertelplatz (Sitzungsvorlage Nr. 06626)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Anträge aus der Einwohnerversammlung vom 08.06.16
+- TOP 7.2.: Betreiberprogramm Kulturbürgerhaus
+- TOP 7.3.: Stellungnahme des BA 23 zur Betriebsbeschreibung des Kulturreferates für das Kulturbürgerhaus Allach-Untermenzing
+- TOP 7.4.: Torbogen "In Treu fest" in der Angerlohe
+- TOP 7.5.: Budgetmittel für Eigenveranstaltung des BA 23 für die Einweihung des Kultur- und Spielpfades Untermenzing am 23.06.17
+- TOP 7.6.: Wiesn-Besuch BA 23 am 28.09.16, 17:00 Uhr
+- TOP 7.7.: Besuch des BAs im AWO Jugenzentrum Planet Orange am 09.11.16 ab 17:00 Uhr bzw. 18:00 Uhr
+- TOP 7.8.: Sitzungstermine 2017 (Entwurf)
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Abbestr. 21 (2x), Dachauer Str. 665
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Theodor-Fischer-Str. 27, Pfarrer-Grimm-Str. 2, Klessingweg 29, Vogelloh 21, Ramannstr. 15, Dachauer Str. 665
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (25.07.-31.07.16, 01.08.-07.08.16, 08.08.-14.08.16, 15.08.-21.08.16, 22.08.-28.08.16)
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.08.16: Verlängerung des Lippweges zur Eversbuschstraße; BV-Empf. 01040
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.08.16: Neugestaltung Allach & Verkehrskonzept
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.07.16: Einrichtung eines Kulturraumes als Dauereinrichtung auf dem Diamalt-Gelände, BV-Empf. 01049, Zwischennachricht
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.08.16: Verkehrskonzept für Allach, BV-Empf. Nr. 1038 vom 28.06.16 Zwischennachricht
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.08.16: Parklizenzgebiet für die Gerberau, BV-Empf. Nr. 1039 vom 28.06.16 Zwischennachricht
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.08.16: Durchführung eines Workshops zum Thema "Verkehrsberuhigung im Stadtbezirk 23" bis Juni 2017, BV-Empf. Nr. 1043 vom 28.06.16 Zwischennachricht
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.08.16: Verschwenkung der Eversbuschstraße ab Allacher Straße nach Westen, BV-Empf. 1384 vom 19.06.12; Zwischennachricht
+- TOP 9.11.: Schreiben Referat für Bildung und Sport vom 06.06.16: Aufstellung der Pavillons für die Mittelschule Franz-Nißl-Str. in 2016
+- TOP 9.12.: Schreiben Kommunalreferat vom 09.08.16: Vertragsverlängerung Zirkus Roberto, Schöllstr. 8
+- TOP 9.13.: Schreiben Münchner Stadtentwässerung vom 01.08.16: Kanalsanierung der Naglerstraße
+- TOP 9.14.: Schreiben Sozialreferat vom 01.08.16: Baumaßnahmen Altenheim Franz-Nißl-Straße
+- TOP 9.15.: Schreiben Sozialreferat vom 27.07.16, 10.08.16, 11.08.16: Antrag auf Zweckentfremdung von Wohnraum: Abbestr., Eversbuschstr., Angerlohstr.
+- TOP 9.16.: Schreiben Sozialreferat vom 02.08.16: Sozialpädagoge sowie Übungsleiter für das Nightball-Angebot in der Jugendeinrichtung orange.planet
+- TOP 9.17.: Schreiben Sozialreferat vom 22.08.16: Zahlen, Daten,Fakten 2015 der Stiftungsverwaltung
+- TOP 9.18.: Schreiben AKIM vom 17.08.16: Streetballanlage Megerlestraße
+- TOP 9.19.: Schreiben Kreisverwaltungsreferat vom 18.08.16: Radwegroute Lochhausener Str. - Bauphase 3
+- TOP 9.21.: Schreiben Stadtwerke München vom 08.08.16: Baumaßnahmen der SWM, Stromprojekt Naßlstraße, Änderung im Terminablauf
+- TOP 9.22.: Schreiben Stadtwerke München vom 26.07.16: Baumaßnahmen der Stadtwerke, Erdgasprojekt Bergetstraße - Gerberau
+- TOP 9.23.: Schreiben Stadtwerke München vom 24.08.16: Baumaßnahmen der SWM, Stromprojekt Parrotstraße
+- TOP 9.24.: Schreiben Stadtwerke München vom 10.08.16: Baumaßnahmen der SWM - 2. Halbjahr 2016
+- TOP 9.25.: Schreiben Stadtwerke München vom 01.08.16, 08.08.16, 16.08.16, 22.08.16, 29.08.16: Baumaßnahmen
+- TOP 9.26.: Schreiben Behindertenbeirat vom 02.08.16: Protokoll gemeinsame Sitzung der Behindertenvertreter/Inklusionbeauftragten/Vertreter FAK Mobilität
+- TOP 9.27.: Schreiben Deutsche Bahn AG vom 12.08.16: Fahrkartenautomaten am S-Bahn-Haltepunkt Allach
+- TOP 9.28.: Schreiben GBW Management GmbH vom 01.08.16: Antrag auf Baugenehmigung, Vorbescheid vom 15.07.16 - Vogelloh 12-48 Fl.Nr.: 1402/28 und 1402/30, Gemarkung Allach
+- TOP 9.29.: Schreiben mitbauzentrale münchen vom 08.08.16: Einladung zum Tag der offenen Wohnprojekte in München 2016 am 24.09.16
+- TOP 9.30.: Schreiben Mieterbeirat vom 02.08.16: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 18.07.16
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Ruhestörung Grünanlage Servetstraße
+- TOP 10.2.: Anhörung: Mehr Grün und Blumen in Münchens Straßen möglich machen; Antrag aus dem Münchner Stadtrat
+- TOP 10.3.: Erweiterung eines Wohnhauses (Esszimmer/Wohnzimmer) Eversbuschstr. 131, Flurstück 119/7
+- TOP 10.4.: 2 Werbeanlagen für termingebundenen wechselnden Plakatanschlag Eversbuschstr. 90, Fl.Nr. 90/0, Gemarkung Untermenzing
+- TOP 10.5.: Lautenschlägerstraße
+- TOP 10.6.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung vom 05.09.16: Bauanträge (29.08.-04.09.16)
+- TOP 10.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.09.16: Planung weiterer Nord-Süd-Verbindungen zur Eversbuschstraße; BV-Empf. Nr. 00514 vom 23.06.15; Zwischennachricht
+- TOP 10.8.: Schreiben Kreisverwaltungsreferat vom 31.08.16: Drehgenehmigung am 14.09.16 und 15.09.16; Allacher Straße und Waldhornstraße
+- TOP 10.9.: Schreiben Kreisverwaltungsreferat vom 06.09.16: Geschwindigkeitsmessungen Hitlstraße
+- TOP 10.10.: Schreiben Sozialreferat vom 30.08.16: Weitere Jugendeinrichtung im Zentrum des 23. Stadtbezirkes
+- TOP 10.11.: Schreiben Sozialreferat vom 30.08.16 und 05.09.16: Antrag auf Zweckentfremdung von Wohnraum: Franz-Töpsl-Weg, Achwaldstr.
+- TOP 10.12.: Schreiben Stadtwerke München vom 05.09.16: Baumaßnahmen
+- TOP 10.13.: Schreiben Münchner Stadtentwässerung vom 30.08.16: Kanalisierung der Neumeyerstraße, Konto-Nr. 8-6000-63B70 "Kanalbau i.V.m. Wohnungs- und Gewerbebau"; Gesamtkosten (Kostenberechnung): 40.000,- ?
+- TOP 10.14.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Bildungsausschusses des Stadtrates vom 14.09.16: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen (Sitzungsvorlage Nr. 06885)
+- TOP 4.2.: (E) Budget der Bezirksausschüsse TSV Allach 09 e.V. Beschaffung von Kleinfeldtoren
+- TOP 4.1.: (E) Nachtfahrverbot bzw. Prüfung der zunehmenden nächtlichen LKW-Fahrten in der Eversbuschstraße und Paul-Ehrlich-Weg
