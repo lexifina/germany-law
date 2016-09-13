@@ -1,0 +1,8 @@
+# TOP 2: (E) Einrichtung eines absoluten Haltverbots in der Alten Allee (Ostseite) zwischen Petzetstraße und Eisenhartstraße
+
+- Sitzung: BA 21 - Vollgremium (2016-09-13)
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/454765
+- Ergebnis: <div>nach Antrag</div>
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/454765
