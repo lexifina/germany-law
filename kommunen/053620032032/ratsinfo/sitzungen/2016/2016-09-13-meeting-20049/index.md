@@ -1,0 +1,60 @@
+# Stadtrat (17. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-09-13T17:00:00+02:00
+- Ende: 2016-09-13T22:02:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdmRkC5IfpoefG-C5WMyHFo
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20049
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSkWFGIuaaC88QdCekGUlBYNo9euLXFht8grb7yC1hQv/Bekanntmachung_Stadtrat_13.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdJtXCA-FrKa6YQ0Game94SVP6407SX3SvjpnMrKB9jt/Oeffentliche_Niederschrift_Stadtrat_13.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Interkommunale Zusammenarbeit hier: Abschluss einer öffentlich-rechtlichen Vereinbarung mit der Gemeinde Merzenich zur Übernahme von Personalverwaltungsaufgaben durch die Kolpingstadt Kerpen sowie Erweiterung der Stellenplanes 2016 - (kein Text vorhanden)
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: hier: Antrag der CDU-Fraktion - (kein Text vorhanden)
+- TOP 4.: Einführung des "papierlosen Mandats" in Kerpen; hier: Antrag der Grünen-Fraktion - (kein Text vorhanden)
+- TOP 5.: Live-Streaming von Ausschüssen und Stadtrat in der Kolpingstadt Kerpen; hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: Neufassung der Satzung der Kolpingstadt Kerpen über die Ablösung von Stellplätzen - (kein Text vorhanden)
+- TOP 7.: Stadtentwicklung und Bauleitplanung
+- TOP 7.1: Aufhebung des Bebauungsplanes BU Nr. 4, 4/1. Änderung und 4/3. Änderung "Broichstraße", Stadtteil Buir hier: Beschluss zur Offenlage gem. § 3 (2) BauGB - (kein Text vorhanden)
+- TOP 7.2: 77. Änderung des Flächennutzungsplans "Kindertagesstätte Mastenweg", Stadtteil Sindorf - Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 7.3: Einspruch gegen den Beschluss des Ausschusses für Stadtplanung und Verkehr vom 30.08.2016 zu Tagesordnungspunkt 5 - Seniorendorf Sindorf - (kein Text vorhanden)
+- TOP 8.: Prioritätenliste Hochbaumaßnahmen - (kein Text vorhanden)
+- TOP 9.: Fördermittel für die Schulen der Kolpingstadt Kerpen; hier: Antrag der SPD-Fraktion
+- TOP 9 a.: Anbau Mühlenfeldschule - Mobile Module als Zwischenlösung; hier: Antrag der CDU-Fraktion
+- TOP 10.: Novellierung der Umsatzbesteuerung der öffentlichen Hand - (kein Text vorhanden)
+- TOP 11.: Erstellung eines Masterplans hier: Aufhebung des Sperrvermerks - (kein Text vorhanden)
+- TOP 12.: Personal-/Stellenplanangelegenheiten
+- TOP 12.1: Stellenplanerweiterung 2016 und Aufhebung der Wiederbesetzungssperre hier: Abteilung 22.2 Schulen, Schulsekretariate - (kein Text vorhanden)
+- TOP 12.2: Stellenplan 2016 hier: befristete Stellenerweiterung Zentraler Außendienst (ZAD), Abt. 21.1; Einrichtung auf Dauer - (kein Text vorhanden)
+- TOP 12.3: Beamtenbesoldung; hier: Antrag der Linksfraktion - (kein Text vorhanden)
+- TOP 12.4: Hausmeisterpool; hier: Antrag der Linksfraktion
+- TOP 13.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 14.: Mitteilungen
+- TOP 15.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.1: Pflegezustand der Außenanlagen städtischer Schulgebäude; hier: Anfrage der SPD-Fraktion
+- TOP 16.2: Neubau der Begegnungsstätte in Sindorf; hier: Anfrage des Stadtverordneten Torsten Bielan
+- TOP 16.3: Projekt Zukunftsensemble Schloss Türnich - Risiken für die Stadt; hier: Anfrage der Linksfraktion
+- TOP 16.4: Ehemalige Schule Manheim-alt hier: Anfrage der Fraktion Bündnis 90/Die Grünen vom 13.09.2016
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Kommunalrabatt Konzessionsverträge - (kein Text vorhanden)
+- TOP 17 a.: Auftragsvergabe: Lieferung von vier Nutzfahrzeugen mit Pritsche - (kein Text vorhanden)
+- TOP 17 b.: Veräußerung eines Grundstückes "Am Gleis 7" hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 17 c.: Nachträgliche Anpassung zum Architektenvertrag Sanierung Erftlagune - (kein Text vorhanden)
+- TOP 17 d: Moratorium Stadtwerke im haftungsrechtlich relevanten Bereich unter Fortführung der Energieprojekte der Kolpingstadt Kerpen hier: Antrag der CDU-Fraktion, FDP-Fraktion und BBK/Piraten-Fraktion vom 13.09.2016
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.1: Stellenplan 2016; Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor
+- TOP 19.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 20.: Mitteilungen
+- TOP 21.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 23.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
