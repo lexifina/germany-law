@@ -1,0 +1,70 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2016-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3913234
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3913234
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Erstellung eines öffentlich zugänglichen Parkour-Übungsplatzes am Hart / Harthof
+- TOP 4.1.: KVR: Einrichtung eines absoluten Haltverbotes in der Frauenstädtstraße
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: (E) Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Programm barrierefreie Bushaltestellen Weyprechtstraße / Hugo-Wolf-Straße - Haltestelle Harthof
+- TOP 7: Anträge
+- TOP 7.1.: Antrag FW/ÖDP-Fraktion: Bolzplatz Frankfurter Ring erhalten und nicht zwischen Wohngebäuden einzwängen
+- TOP 7.2.: Antrag CSU-Fraktion: Überprüfung und Aktualisierung des Bebauungsplans Nr. 462 für die Siedlung Am Hart
+- TOP 7.1.: Antrag CSU-Fraktion: Spielplatz am Grünstreifen zwischen der Josef-Ressel-Straße und der Permanederstraße
+- TOP 7.2.: Antrag CSU-Fraktion: Spielplatz hinter der Grundschule Hildegard-von-Bingen-Anger
+- TOP 7.3.: Antrag CSU-Fraktion: Mehr Haus- und Kinderärzte im Münchener Norden
+- TOP 7.1.: Antrag FDP: Absolutes Haltverbot an der Nordseite der Frauenstädtstraße
+- TOP 8: Anhörungen
+- TOP 8.1.: Änderung der BA-Satzung; Aufwandsentschädigung für Internet- und Baumschutzbeauftragte
+- TOP 8.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.: Änderung der BA-Satzung Anlage 1, Ziffer 14 im Abschnitt Sozialreferat; Entscheidungsrecht bei "Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Angelegenheiten der Jugendhilfe), soweit die Tätigkeit auf den jeweiligen Stadtbezirk beschränkt ist"
+- TOP 8.4.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB 1) Satzungsbeschluss Erhaltungssatzung "Milbertshofen" 2) Aufwertungsprozesse im Stadtbezirk auch künftig sozial verträglicher gestalten: Erhaltungssatzung Milbertshofen verlängern und weiterentwickeln
+- TOP 8.5.: Evaluation der Fahrradabstellplatzsatzung
+- TOP 8.1.: Gemeinde Oberschleißheim - a) Bebauungsplan Nr. 73a - Am Stutenanger 2 - Sondergebiet Lebensmittelmarkt / Marktplatz b) Bebauungsplan Nr. 73b - Am Stutenanger 4 - Mischgebiet Wohn- und Gewerbehaus
+- TOP 8.2.: Frankfurter Ring Wohnen für Alle - Neubau einer öffentlich geförderten Wohnanlage
+- TOP 8.3.: Kaadener Str. 9 Neubau eines Mehrfamilienhauses (4 WE) mit Garagen
+- TOP 8.4.: Dientzenhoferstr. 70-90 Neubau dreier öffentl. geförderter Mietwohnhäuser (80 WE) mit Tiefgarage
+- TOP 8.5.: Schleißheimer Str. 247 Neubau einer Wohnanlage (102 WE) mit Tiefgarage (102 Stpl.)
+- TOP 8.6.: Riesenfeldstr., Fl.Nr. 100/5 BMW Werk 01.30 - Werkzeug- und Anlagenbau: Schaffung von Mitarbeiter- und Besucherparkplätzen
+- TOP 8.7.: Toni-Merkens-Weg 4 Errichtung von Leichtbauhallen zur vorübergehenden Unterbringung von Flüchtlingen, befristet bis 31.12.2018
+- TOP 8.8.: Schleißheimer Str. 321 Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid -
+- TOP 8.9.: Schleißheimer Str. 450 - 452 Abbruch und Neubau zweier Wohngebäude mit Seniorenwohnungen und einer Seniorenbegegnungsstätte einschließlich Tiefgarage - Vorbescheid -
+- TOP 8.10.: Riesenfeldstr. 83 - 83b Neubau eines Flexiwohnheims für Migranten - Vorbescheid -
+- TOP 8.11.: Baumfällungsanträge a) Wachterstr. 47 b) Feuchtwangerstr. 3 c) Schleißheimer Str. 247
+- TOP 8.12.: Ingolstädter Str., Fl.Nr. 263/0 Austausch: 1 City-Light-Säule (beleuchtet) für die wechselnde Produktwerbung (Nr. 56)
+- TOP 8.13.: Riesenfeldstr. 18 Nutzungsänderung: Ladeneinheit Nr. 58 und Nr. 1 zu Fahrschule, Nr. 3 zu Praxis für Kinder- und Jugendmedizin sowie Nr. 5 mit Café und Wirtsgarten zu Laden für Sportgeräte
+- TOP 8.14.: Taunusstr. 19 Neubau eines Büro- und Gewerbegebäudes mit Hochregal- und Auslieferungslager sowie einer Tiefgarage
+- TOP 8.1.: BV-Empfehlung 14-20 / E 01109 - Bau einer Wohn- und Pflegeeinrichtung für Senioren Beschlussentwurf für den Sozialausschuss am 13.10.2016
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 StVO Einrichtung eines absoluten Haltverbots in der Konstanzer Straße
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Fortführung eines Gaststättenbetriebes a) "Pilsstüberl", Moosacher Str. 17 b) "Irmgard Stüberl", Milbertshofener Str. 29
+- TOP 9.1.: Meldelisten Bauvorhaben vom 25.07. bis 28.08.
+- TOP 9.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige a) Bischof-Adalbert-Str. 26 b) Permanederstr. 16 c) Georg-von-Mayr-Str. 6
+- TOP 9.3.: Baustelleneinrichtungen a) Arbeiten im Straßenraum vom 16.08. bis 15.12.2016 Weyprechtstraße, Lieberweg, Reicherstorfferweg, Dientzenhoferstraße, Schliemannweg, Kämpferstraße, Rockefellerstraße und Humannweg b) Baustelleneinrichtung am Harthofanger c) Baustelleneinrichtung an der Weyprechtstraße (U-Bahn-Station Harthof) d) Arbeiten im Straßenraum 22.08. bis 21.12.2016 Weyprechtstraße, Schleißheimer Straße, Neuherbergstraße, Dolleschelstraße, Hugo-Wolf-Straße, Feuchtwangerstraße und Marx-von-Laue-Straße e) Baumaßnahmen der Stadtwerke München Taunusstraße, Schleißheimer Straße, Lieberweg
+- TOP 9.1.: Kurzbericht zur Durchführung einer bezuschussten Veranstaltung a) Feier zum Vereinsjubiläum vom SV Olympiadorf-Concordia e.V. am 23.07.2016
+- TOP 9.1.: Projekt "Schnelle Radverbindung für den Münchener Norden"
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
