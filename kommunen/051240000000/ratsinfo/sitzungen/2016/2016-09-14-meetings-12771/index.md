@@ -1,0 +1,91 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-09-14T16:06:00+02:00
+- Ende: 2016-09-14T17:00:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12771
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12771
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit d. Ergebnissen d. Vorberatungen - Stand: 06.09.2016 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00196990.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00198141.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Sachstandsbericht zu Treppen, Brücken und Fußwegen in Wuppertal
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Sachstandsbericht zu Treppen, Brücken und Fußwegen in Wuppertal vom 14.06.2016
+- TOP 2.2: Potenziale der migrantischen Wirtschaft stärker nutzen
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Potenziale der migrantischen Wirtschaft stärker nutzen" (VO/0655/16) vom 23.08.2016
+- TOP 2.3: Widerspruchsbewältigung durch die Jobcenter Wuppertal Anstalt öffentlichen Rechts (AöR)
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE "Widerspruchsbewältigung durch die Jobcenter Wuppertal Anstalt öffentlichen Rechts (AöR)" (VO/0673/16) vom 25.08.2016
+- TOP 2.4: Abgesetzt. Die Beantwortung erfolgt in der Sitzung des Rates am 14.11.2016. Ausschaffungen bzw. Abschiebungen seit Anfang 2015
+- TOP 2.5: Straftaten mit rechtsextremer Motivation im Jahr 2015
+- TOP 2.5.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Straftaten mit rechtsextremer Motivation im Jahr 2015" (VO/0682/16) vom 24.08.2016
+- TOP 2.6: Abgesetzt. Die Beantwortung erfolgt in der Sitzung des Rates am 14.11.2016. Maghrebiner als Flüchtlinge im Stadtgebiet
+- TOP 2.7: Kontrollrecht des Rates der Stadt gegenüber der Verwaltung
+- TOP 2.7.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Kontrollrecht des Rates der Stadt gegenüber der Verwaltung" vom 19.08.2016
+- TOP 2.8: Lärm- und Luftschadstoffbelastungen an Landes- und Bundesstraßen
+- TOP 2.9: Geheimgespräche zum Thema Bürgerbüros?
+- TOP 2.9.1: Bürgerbüros - Antwort Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 06.09.2016
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Umgestaltung der Rechtsabbiegespur Gathe/Neumarkt - ungeändert beschlossen
+- TOP 3.2: Bürgerantrag für den Erhalt eines Bergahorns an der Kreuzung Schmiedestraße/Mollenkotten sowie die Einbindung der Bürgerinnen und Bürger bei der Umgestaltung des Straßenraumes in Wuppertal-Nord vom 26.06.2016 - ungeändert beschlossen
+- TOP 3.3: Bürgerantrag zur Ermittlung und Rückbau nicht benutzungspflichtiger Radwege im Stadtgebiet - geändert beschlossen
+- TOP 3.4: Bürgerantrag für einen autofreien Tag, einen grünen Park am Döppersberg und ein Konzept für sichere Fuß- und Radwege zu weiterführenden Schulen - geändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Resolution – Abschaffung des Tariftreue- und Vergabegesetzes NRW - ungeändert beschlossen
+- TOP 4.2: Abgesetzt. Von der Antrag stellenden Fraktion für erledigt erklärt. Schüler*innenbeförderung sicherstellen! - abgesetzt
+- TOP 4.3: Transparenzsatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.3.1: Transparenzsatzung - geändert beschlossen
+- TOP 4.4: Beitritt des Oberbürgermeisters zum Bündnis Mayors United Against Anti-Semitism - für erledigt erklärt
+- TOP 4.5: Verbot der Ganzkörperverschleierung von Beamten und Beschäftigten der Stadt im Dienst sowie generell in städtischen Gebäuden - abgelehnt
+- TOP 4.6: Resolutionsantrag: Wuppertal beglückwünscht South Tyneside zum pro-Brexit-Votum - abgelehnt
+- TOP 4.7: Freies Internet in allen öffentlichen Verkehrsmitteln - abgelehnt
+- TOP 4.8: Offenlage sämtlicher Seilbahn-Informationen - abgelehnt
+- TOP 4.9: Sicherheitsmaßnahmen für Omnibus-Fahrer der Wuppertaler Stadtwerke - abgelehnt
+- TOP 4.10: Konsequentes Eintreten für Menschenrechte und Klimaschutz – auch bei Kapitalanlagen und Finanzen - abgelehnt
+- TOP 4.11: Fahrradboxen statt Radhaus - zur Entscheidung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Buslinie 643 – alle WSW-Kund*innen haben Recht auf Beförderung - zur Entscheidung verwiesen
+- TOP 6: Ortsrecht
+- TOP 6.1: 15. Änderung der Hauptsatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Änderung des Straßenverzeichnisses zur Straßenreinigungssatzung 2016 - ungeändert beschlossen
+- TOP 6.2.1: Änderungsantrag zu VO/0621/16, Anlage 7, Unterjährige Änderung im Straßenverzeichnisses 2016 - vertagen
+- TOP 6.3: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Aufhebung des Begleitbeschlusses zum Haushaltsplan 2016/2017 und zur Fortschreibung des Haushaltssanierungsplanes für das Jahr 2016 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung der Satzung der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts (AöR) - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2015 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2015 der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 8.5: Abberufung eines Aufsichtsratsmitglieds der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und der GWG Stadt- und Projektentwicklungsgesellschaft mbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Aufhebung von Bauleitplänen im Bereich Berliner Straße / Bahnhof Oberbarmen - ungeändert beschlossen
+- TOP 9.2: 88. Flächennutzungsplanänderung - Albertstraße - - ungeändert beschlossen
+- TOP 9.3: 21. Flächennutzungsplanänderung - Albertstraße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1237 - nördlich Müngstener Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erweiterung der städtischen Tageseinrichtung Dahler Straße 59 und Errichtung eines Ersatzbaues - ungeändert beschlossen
+- TOP 10.2: Errichtung einer Tageseinrichtung für Kinder auf dem Gelände der ehemaligen Grundschule Yorckstraße 28 - geändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2017/Katalogentwurf 2018 - ungeändert beschlossen
+- TOP 11.2: Stellungnahme der Stadt Wuppertal zum Regionalplan-Entwurf Düsseldorf 2016 - ungeändert beschlossen
+- TOP 11.3: Bildung der Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW (LPVG NRW) - ungeändert beschlossen
+- TOP 11.4: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2016 bis 30.06.2017 - ungeändert beschlossen
+- TOP 11.5: Fortschreibung des Medienentwicklungsplanes - ungeändert beschlossen
+- TOP 11.6: Fortschreibung des Einzelhandels- und Zentrenkonzeptes für den Zentralen Versorgungsbereich von Elberfeld - ungeändert beschlossen
+- TOP 11.6.1: Ergänzungsantrag zur Fortschreibung des Einzelhandels- und Zentrenkonzeptes für den Zentralen Versorgungsbereich von Elberfeld - abgelehnt
+- TOP 11.7: Abgesetzt. Vorberatung nicht abgeschlossen. Auswahlverfahren für Veranstalter von Weihnachtsmärkten
+- TOP 11.8: 2. Aktionsplan zur Gleichstellung von Frauen und Männern, 2016 - 2018 - geändert beschlossen
+- TOP 11.8.1: Änderungsantrag zu VO/0324/16/ 2. Neuf., 2. Aktionsplan zur Gleichstellung von Frauen und Männern 2016 -2018, Anlage 01 Zweiter Aktionsplan - abgelehnt
+- TOP 11.9: Metropolregion Rheinland
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.3: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen (nur Rat)
+- TOP 12.4: TOP 12 Gremienbesetzung / Benennung - ungeändert beschlossen
