@@ -1,0 +1,68 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2016-09-14T17:00:00+02:00
+- Ende: 2016-09-14T19:05:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3392
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3392
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Einführung und Verpflichtung neuer Ratsmitglieder:
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 29.06.2016 - ungeändert beschlossen
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 5: Spielhallenkonzept Aachenhier: Beschluss des Konzeptes - ungeändert beschlossen
+- TOP 6: Neuausrichtung Abfallwirtschaft - ungeändert beschlossen
+- TOP 7: Nachtragssatzung zur Abfallwirtschaftssatzung vom 10.12.2008 - ungeändert beschlossen
+- TOP 8: Gründung des Vereins "Metropolregion Rheinland e.V."hier: Mitgliedschaft der Stadt Aachen - vertagt
+- TOP 9: Bebauungsplan Nr. 964 - Eilendorfer Straße / Am Tiergarten - für den Planbereich im Stadtbezirk Aachen Brand zwischen Eilendorfer Straße, Erberichshofstraße und ‚Am Tiergarten’hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Gestaltungssatzung - Eilendorfer Straße / Am Tiergarten -hier: Satzungsbeschluss - zurückgezogen
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 963 - Süsterfeldstraße / Am Guten Hirten - den Planbereich im Stadtbezirk Aachen-Mitte zwischen Süsterfeldstraße und Bahntrasse hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 12: Vorhabenbezogener Bebauungsplan Nr. 958 - Zollamtstraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Burtscheider Straße und Zollamtstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - verwiesen
+- TOP 13: Bebauungsplan Nr. 933 - Preusweg Nord - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen der Lütticher Straße, dem Lutherweg, dem Preusweg und dem Hasselholzer Weghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Teilaufhebung des Bebauungsplans Nr. 750S – Ortskern Haaren Teil Süd – für den Planbereich im Stadtbezirk Aachen-Haaren zwischen Laachgasse, Germanusstraße und dem Haarbachhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 15: Teilaufhebung des Bebauungsplans Nr. 16 der ehem. Gemeinde Haaren für den Planbereich im Stadtbezirk Aachen-Haaren zwischen Laachgasse, Germanusstraße, Alt-Haarener-Straße und dem Haarbachhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 16: Aufhebung des Durchführungsplans Nr. 2 der ehem. Gemeinde Haaren einschließlich aller Änderungen für den Planbereich im Stadtbezirk Aachen-Haaren zwischen Hergelsbendenstraße, Kochstraße, Alt-Haarener-Straße und Wurmbachhier: Satzungsbeschluss gem.§10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 17: Vergrößerung der Fläche des Naturparks Eifel auf dem Gebiet der Stadt Aachen - zurückgezogen
+- TOP 18: Jahresabschluss für den Kulturbetrieb 2015 - ungeändert beschlossen
+- TOP 19: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW Umbau und Erneuerung des Feuerwehrgerätehauses Aachen-Sief Bereitstellung zusätzlicher Haushaltsmittel - ungeändert beschlossen
+- TOP 20: Inbetriebnahme KiTa Eintrachtstraße 7hier: Genehmigung der Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 21: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 21.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2016Eupener Straßehier: Kosten der Erneuerung durch zusätzlichen Einbau einer Binderschicht - ungeändert beschlossen
+- TOP 21.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2016Maßnahme Albert-Einstein-Straße, Umbau und Erneuerung - ungeändert beschlossen
+- TOP 21.3: Haushaltsjahr 2016 - Bereitstellung außerplanmäßiger Mittel für die Planungskosten der Baumaßnahme Reimannstr. 8-12 - ungeändert beschlossen
+- TOP 21.4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2016, Produkt 021501 Brandbekämpfung: Ersatzbeschaffung Atemschutzgerätewagen - ungeändert beschlossen
+- TOP 22: Ordnungsbehördliche Verordnung über die Öffnungszeiten von Verkaufsstellen in Kur-, Ausflugs-, Erholungs- und Wallfahrtsorten an Sonn- und Feiertagen in der Stadt Aachen - ungeändert beschlossen
+- TOP 23: Nachwahl eines stellvertretenden Mitglieds für den Beirat bei der Unteren Landschaftsbehörde - ungeändert beschlossen
+- TOP 24: Anfragen:
+- TOP 24.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 24.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 25: Umbesetzungen in Ausschüssen und anderen Gremien:
+- TOP 25.1: Bildung einer Einigungsstelle bei der Stadt Aachen gemäß § 67 LPVG NRW und Benennung eines Vorsitzenden und stellvertretenden Vorsitzenden - ungeändert beschlossen
+- TOP 25.2: Umbesetzungsantrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 25.3: Umbesetzungsantrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 25.4: Umbesetzungsantrag der GRÜNE-Fraktion - ungeändert beschlossen
+- TOP 26: Mitteilungen der Verwaltung
+- TOP 27: Ratsanträge - zur Kenntnis genommen
+- TOP 28: Nachtragssatzung zur Abfallgebührensatzung einschließlich der Gebührenkalkulation - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
