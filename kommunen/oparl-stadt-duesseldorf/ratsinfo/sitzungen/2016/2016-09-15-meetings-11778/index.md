@@ -1,0 +1,100 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-09-15T14:00:00+02:00
+- Ende: 2016-09-15T21:05:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11778
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11778
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00274628.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00274628.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00274628.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell Tierschutz-Freie Wähler: Betroffenheit der Düsseldorfer BürgerInnen angesichts der n - zur Kenntnis genommen
+- TOP 3.2: Anfrage aktuell CDU: "alltours Race am Rhein" - Informationspolitik zu den Straßensperrungen - zur Kenntnis genommen
+- TOP 3.3: Anfrage aktuell CDU: Warum gewährt der Oberbürgermeister keine Akteneinsicht bzgl. SSK - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage aktuell Bü90-Grü: duesseldorf.de - Relaunch des Internetauftritts der Stadt Düsseldorf - zur Kenntnis genommen
+- TOP 4.2: Anfrage FDP: Gestaltung des Geländers an der Düsselbrücke Karolingerstraße - zur Kenntnis genommen
+- TOP 4.3: Anfrage der FDP-Ratsfraktion: Keine ARD-Übertragung der Tour de France 2017? - zur Kenntnis genommen
+- TOP 4.4: Anfrage Tierschutzpqrtei-Freie Wähler: Radfahrer am Hofgartenweiher - zur Kenntnis genommen
+- TOP 4.5: Anfrage der Ratsfraktion DIE LINKE: Schulbegleitung für Kinder mit Beeinträchtigung - zur Kenntnis genommen
+- TOP 4.6: Anfrage der Ratsfraktion DIE LINKE: Soziale Betreuung von Flüchtlingen - zur Kenntnis genommen
+- TOP 4.7: Anfrage Tierschutzpartei-Freie Wähler: RRX und RRX-Trasse - zur Kenntnis genommen
+- TOP 4.8: Anfrage Dr.Strack-Zimmermann: Belastung der Stadtkasse durch Eintreiben des Rundfunkbeitrags“ - zur Kenntnis genommen
+- TOP 4.9: Anfrage Rf Dr. Strack-Zimmermann: Management gastronomisch genutzter Außenterrassen - zur Kenntnis genommen
+- TOP 4.10: Anfrage der CDU-Ratsfraktion: alltours Race am Rhein - zur Kenntnis genommen
+- TOP 4.11: Anfrage Rh Maniera: Bedarf von Kitaplätzen in Düsseldorf und Instandhaltung - zur Kenntnis genommen
+- TOP 4.12: Anfrage Rh Maniera: Asylanten- und Flüchtlingszuweisungen nach Ende des Aufnahmestopps - zur Kenntnis genommen
+- TOP 4.13: Anfrage der Ratsfraktion Bü90/Grü: Wohnsitzauflage für anerkannte Flüchtlinge - zur Kenntnis genommen
+- TOP 4.14: Anfrage Rh Grenda: Open-Goverment Pakt - Auswirkungen auf Düsseldorf - zur Kenntnis genommen
+- TOP 4.15: Anfrage Rh Grenda: Verlust von Wohnmietraum in Düsseldorf durch Baumängel - zur Kenntnis genommen
+- TOP 5: Einbringung des Haushaltsplanentwurfs 2017 - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 8: KGS Essener Straße 1, Erhöhung der Zügigkeit um einen Zug auf drei Züge - zur Kenntnis genommen
+- TOP 9: Montessori-Grundschule Farnweg -Ausführungsbeschluss - zur Kenntnis genommen
+- TOP 10: Wichernschule, Brorsstraße 5 - Beschlussvorlage zur Herbeiführung eines Ausführungsbeschlusses - zur Kenntnis genommen
+- TOP 11: Roßstraße 68 – ehemaliges Finanzamt Nord – Umnutzung und Herrichtung des Bürogebäudes als Asylunterk - zur Kenntnis genommen
+- TOP 12: Richtlinien Kunst am Bau und im öffentlichen Raum - zur Kenntnis genommen
+- TOP 13: Gebührensatzung für das Vermessungs- und Katasteramt - zur Kenntnis genommen
+- TOP 13.1: ÄA RH Grenda: Gebührensatzung für das Vermessungs- und Katasteramt - zur Kenntnis genommen
+- TOP 14: Neufassung der Satzung über Kostenersatz für Einsätze und über Gebühren für die Durchführung von Bra - zur Kenntnis genommen
+- TOP 15: Neufassung der Entgeltordnung für freiwillige Hilfeleistungen und Leistungen des vorbeugenden Brands - zur Kenntnis genommen
+- TOP 16: Eurogames 2020 in Düsseldorf - zur Kenntnis genommen
+- TOP 17: Betrauung einer städt. Beteiligungsgesellschaft mit gemeinwirtschaftlichen Aufgaben - zur Kenntnis genommen
+- TOP 18: Kapitalvertretung bei städtischen Eigengesellschaften und Beteiligungsunternehmen - zur Kenntnis genommen
+- TOP 19: Kapitalvertretungen - zur Kenntnis genommen
+- TOP 20: Patronatserklärungen zu Gunsten der IPM Immobilien Projekt Management GmbH (IPM) - zur Kenntnis genommen
+- TOP 21: Annahme einer Schenkung für das SchifffahrtMuseum - zur Kenntnis genommen
+- TOP 22: Satzung zur Änderung der Satzung über Ersatz von Verdienstausfall für beruflich selbstständige ehren - zur Kenntnis genommen
+- TOP 23: Vertretung des Oberbürgermeisters - zur Kenntnis genommen
+- TOP 24: 58. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 25: Neufassung der Satzung "Düsseldorfer Jugendrat" - zur Kenntnis genommen
+- TOP 26: 6. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - zur Kenntnis genommen
+- TOP 27: Aufhebung der Benutzungsordnung für den Veranstaltungsraum im Feuerwehrhaus Kalkum der Landeshauptst - zur Kenntnis genommen
+- TOP 28: Kompetenzzentrum Kultur-und Kreativwirtschaft - Aufgaben, Strategien, Maßnahmen - Beschluss - - zur Kenntnis genommen
+- TOP 29: Errichtung eines Gymnasiums am Schulstandort Schmiedestraße 25 - zur Kenntnis genommen
+- TOP 30: Namensänderung der Realschule Luisenstraße - zur Kenntnis genommen
+- TOP 31: Genehmigung 60er: Skate Park Eller - zur Kenntnis genommen
+- TOP 32: Genehmigung 60er: Beteiligung der Landeshauptstadt Düsseldorf an einer neu zu gründenden Wirtschafts - zur Kenntnis genommen
+- TOP 33: Wiederwahl des Schiedsmannes Jürgen Fallasch - zur Kenntnis genommen
+- TOP 34: Landtagswahl am 14. Mai 2017 - Wahl der Mitglieder des Kreiswahlausschusses - zur Kenntnis genommen
+- TOP 35: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH - Ersatzwahl - - zur Kenntnis genommen
+- TOP 36: Benennung von stellvertretenden Mitgliedern des Verwaltungsausschusses der Agentur für Arbeit Düssel - zur Kenntnis genommen
+- TOP 37: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" - zur Kenntnis genommen
+- TOP 38: Umbesetzung von Ausschüssen und sonstigen Gremien - zur Kenntnis genommen
+- TOP 39: Verpflichtungserklärung zum B-Plan-Nr.: 03/005 (alt: 5275/022) Speditionstraße West - zur Kenntnis genommen
+- TOP 40: Plan-Nr.: 03/005 (alt: 5275/022) Speditionstraße West Stellungnahmen, Änderungen in roter, grüner un - zur Kenntnis genommen
+- TOP 41: Garath 2.0 - Den Wandel gestalten. Analyse und Konzeptentwicklung - zur Kenntnis genommen
+- TOP 41.1: ÄA Die Linke: Garath 2.0 - zur Kenntnis genommen
+- TOP 42: Fortschreibung des Regionalplans Düsseldorf (RPD), Entwurf Stand Juni 2016 Stellungnahme der Landesh - zur Kenntnis genommen
+- TOP 42.1: ÄA Bü90-Grü: Fortschreibung des Regionalplans Düsseldorf (RPD) - zur Kenntnis genommen
+- TOP 42.2: ÄA Bü90-Grü,SPD und FDP: Fortschreibung des Regionalplans Düsseldorf (RPD) - zur Kenntnis genommen
+- TOP 42.3: ÄA CDU: Fortschreibung des Regionalplans Düsseldorf (RPD) - zur Kenntnis genommen
+- TOP 42.4: ÄA Bü90-Grü und FDP: Fortschreibung des Regionalplans Düsseldorf - zur Kenntnis genommen
+- TOP 43: Anträge
+- TOP 43.1: Antrag der CDU-Ratsfraktion: Runder Tisch zur Zukunft von Gut Niederheid
+- TOP 43.2: Antrag der CDU-Ratsfraktion: Düsseldorfer Radschläger -Tradition und Moderne
+- TOP 43.3: Antrag SPD, BÜ90-GRÜ: Partizipation von Kindern und Jugendlichen bei Bürgerbeteiligungsverfahren
+- TOP 43.4: Antrag CDU: Sichere Unterbringung von geflüchteten Christen
+- TOP 43.4.1: ÄA CDU: Brexit nutzen – Unternehmen in Düsseldorf ansiedeln
+- TOP 43.4.2: ÄA BÜ90-GRÜ: Brexit nutzen - Unternehmen in Düsseldorf ansiedeln
+- TOP 43.5: Antrag FDP: Brexit nutzen - Unternehmen in Düsseldorf ansiedeln
+- TOP 43.6: Antrag CDU, SPD, BÜ90/GRÜ und FDP:2030 Agenda des Rates der Gemeinden und Regionen Europas
+- TOP 43.7: Antrag FDP: Überprüfung der Solidaritätsabgabe durch das Bundesverfassungsgericht
+- TOP 43.8: Antrag der CDU-Ratsfraktion: Kommunal-Soli- Gemeinsam in Revision gehen
+- TOP 43.9: Antrag der CDU-Ratsfraktion: Pilotquartier "Gigabit-City Düsseldorf"
+- TOP 43.10: Antrag der Ratsfraktion DIE LINKE: CETA verhindern
+- TOP 43.11: Antrag der Ratsfraktion DIE LINKE: Sozialtarif für Strom einführen
+- TOP 43.12: Antrag Tierschutzpartei-Freie Wähler: Unverzüglicher Bau von Schulgebäuden und bezahlbaren Wohnungen
+- TOP 43.13: Antrag der Ratsfraktion Bü90/Grü und SPD: Umsetzung der Wohnsitzauflage für anerkannte Flüchtlinge
+- TOP 43.14: Aufsichtsrat der Digital Innovation Hub Düsseldorf/Rheinland GmbH – Neuwahl –
