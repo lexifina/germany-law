@@ -1,0 +1,70 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-09-15T17:00:00+02:00
+- Ende: 2016-09-15T20:47:00+02:00
+- Ort: Rathaus Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3737
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3737
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dienstreisen von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 2: Bericht zur Umsetzung des Haushaltssanierungsplans zum 30.06.2016 - Kenntnisnahme
+- TOP 3: Jahresabschluss der Stadtsparkasse 2015 - Einstimmiger Beschluss
+- TOP 4: Entlastung Sparkassenorgane 2015 - Einstimmiger Beschluss
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 6: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2016 - Kenntnisnahme
+- TOP 7: Überplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 11 030 10 - Abwasser - Einstimmiger Beschluss
+- TOP 8: Satzung über die mags Mönchengladbacher Abfall-, Grün- und Straßenbetriebe - Mit Stimmenmehrheit beschlossen
+- TOP 9: Anpassung Gesellschaftsvertrag Kommunalholding - Einstimmiger Beschluss
+- TOP 9.1: Beteiligung an der DigiHub - An den Rat verwiesen
+- TOP 10: Fortschreibung des Rettungsdienstbedarfsplans - Einstimmiger Beschluss
+- TOP 11: Satzung Kostenersatz Feuerwehr - Einstimmiger Beschluss
+- TOP 12: Stellungnahme zum Ratsbeschluss 1392/IX - Kenntnisnahme
+- TOP 13: Auflösung des Zweckverbandes IT-Kooperation Rhein-Ruhr - Einstimmiger Beschluss
+- TOP 14: Wahl von Mitgliedern der Verbandsversammlung der ITK Rheinland - In den nächsten Ratszug geschoben
+- TOP 15: Städtische Flüchtlingseinrichtungen; Weiterentwicklung der Infrastrukturen - Kenntnisnahme
+- TOP 16: Schulorganisatorische Maßnahme im Primarbereich - Einstimmiger Beschluss
+- TOP 17: Festlegung von weiteren Schulen mit dem Angebot zum Gemeinsamen Lernen - Einstimmiger Beschluss
+- TOP 18: Integrierte Stadtteil- und Quartiersarbeit - Mit Stimmenmehrheit beschlossen
+- TOP 19: Änderung der Betriebskostenförderung der Jugendfreizeitstätten der Freien Träger und entsprechende Ä - Einstimmiger Beschluss
+- TOP 20: Leistungsvereinbarung mit dem SkF zu Familienpaten - Einstimmiger Beschluss
+- TOP 21: Verlängerung der Leistungsvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchengladbach e - Einstimmiger Beschluss
+- TOP 22: Auslaufende Leistungsvereinbarung zum 30.09.2016 mit der Diakonisches Werk gGmbH über die Sozialpäda - Einstimmiger Beschluss
+- TOP 23: Leistungsvereinbarung mit der Diakonisches Werk Mönchengladbach gGmbH über die Sozialpädagogische Be - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarung Drogenberatung - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung Brennpunktprojekt - Einstimmiger Beschluss
+- TOP 26: Leistungsvereinbarung AIDS - Einstimmiger Beschluss
+- TOP 27: Schiedsamtswahl West/1 - Einstimmiger Beschluss
+- TOP 28: ÖPNV-Linienkonzept für den neuen Nahverkehrsplan (HSP 2012-0183) - Mit Stimmenmehrheit beschlossen
+- TOP 29: LAP 2. Stufe - Mit Stimmenmehrheit beschlossen
+- TOP 30: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2016 - An den Rat verwiesen
+- TOP 31: Vorkaufsrechtssatzung City Ost - Einstimmiger Beschluss
+- TOP 32: Verein „Metropolregion Rheinland e.V.“ - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 33: 222. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 34: Bebauungsplan Nr. 775/W - Stadtbezirk West - Hehn - Mit Stimmenmehrheit beschlossen
+- TOP 35: 50. Nachtrag zur Entwässerungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 36: Stellungnahme der Stadt zum Entwurf des neuen Regionalplanes - Mit Stimmenmehrheit beschlossen
+- TOP 37: Zweckverband Naturpark Schwalm-Nette - Einstimmiger Beschluss
+- TOP 38: Schwalmverband - Einstimmiger Beschluss
+- TOP 39: Netteverband - Einstimmiger Beschluss
+- TOP 40: Niersverband - Einstimmiger Beschluss
+- TOP 41: Zukunft des Rathauses Giesenkirchen - Mit Stimmenmehrheit beschlossen
+- TOP 41.1: Änderungsantrag zur Vorlage Nr. 1805/IX: Zukunft des Ratshauses Giesenkirchen - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Instandsetzung von Spielplätzen im Stadtbezirk West - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Die Stadtverwaltung, vertreten durch den Oberbürgermeister, lädt die GAYCOM für das Jahr 2017 nach M - An den Rat verwiesen
+- TOP 44: RWE-Aktien - Mit Stimmenmehrheit abgelehnt
+- TOP 44.1: RWE-Aktien (Änderungsantrag) - Mit Stimmenmehrheit abgelehnt
+- TOP 45: Modernisierung des städtischen Hausbesitzes - Mit Stimmenmehrheit beschlossen
+- TOP 46: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 46.1: Mitteilung von RH Gutowski (PiPa-Gruppe) zum Ratsinformationssystems - Zur Kenntnis genommen
+- TOP 46.2: Anfrage von RH Schultz (Die Linke) zum Thema KdU (Kosten der Unterkunft) - Zur Kenntnis genommen
+- TOP 46.3: RH Sasserath (Bündnis 90/Die Grünen) zum Thema Sozialwohnungen - Zur Kenntnis genommen
+- TOP 46.4: RF Brombeis (Bündnis 90/Die Grünen) zum Thema "Ermäßigung in Schwimmbädern" mit Ticket2000 - Zur Kenntnis genommen
+- TOP 46.5: RF Finger (FDP) Anfrage zum Protokoll der letzten Sitzung - Zur Kenntnis genommen
+- TOP 46.6: RH Eibenberger (CDU) zum Thema Mietpreisbindung - Zur Kenntnis genommen
+- TOP 46.7: Mitteilung von Herrn OB Reiners zum Thema "Tagebaurandgemeinde" - Zur Kenntnis genommen
