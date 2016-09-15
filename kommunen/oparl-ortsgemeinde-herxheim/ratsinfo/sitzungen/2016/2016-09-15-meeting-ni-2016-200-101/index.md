@@ -1,0 +1,53 @@
+# 18. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2016-09-15T19:02:00+02:00
+- Ende: 2016-09-15T22:10:00+02:00
+- Ort: Rathaus Herxheim, Ratssaal (Nr. 1.10) im 1. OG, Obere Hauptstraße 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2016-200-101
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2016-200-101
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-200-101
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-200-101
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-200-101
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Neuwahlen in Ausschüsse
+- TOP 3: Bericht über den Stand des Haushaltsvollzugs zum 30.06.2016 (Zwischenbericht)
+- TOP 4: Feststellung des Jahresabschlusses und Erteilung der Entlastung
+- TOP 5: Feststellung des Jahresabschlusses 2015 der Gemeindewerke Herxheim
+- TOP 6: Erweiterung der Kita 'Nord-West'
+- TOP 7: Marketingkonzept und Marketingmaßnahmen
+- TOP 8: Festsetzung der Ablösungsbeträge, bzw. der Vorausleistungsraten auf den Erschließungsbeitrag im Neubaugebiet ?Am Wingert? in Hayna
+- TOP 9: Festlegung des Kaufpreises für das Neubaugebiet 'Am Wingert' in Hayna
+- TOP 10: Verlängerung des verkehrsberuhogten Bereiches in der Käsgasse in Richtung Untere Hauptstraße
+- TOP 11: Ausweisung eines Teilstückes des Landauer Weges als Einbahnstraße
+- TOP 12: Ausweisung eines Teilstückes der Augustastraße mit Tempo 30
+- TOP 13: Auftragsvergaben
+- TOP 13.1: Auftragsvergaben; Radweg zwischen Kreisel Hayna und westlichem Waldrand
+- TOP 13.2: 
+- TOP 13.3: 
+- TOP 14: Neuregelung der Umsatzbesteuerung der öffentlichen Hand ab 2017 (§ 2b UStG) hier: Ausübung des Wahlrechts nach § 27 Abs. 22 UStG
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.3: 
+- TOP 16: Grundstücksangelegenheiten
+- TOP 17: Mitteilungen und Anfragen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
