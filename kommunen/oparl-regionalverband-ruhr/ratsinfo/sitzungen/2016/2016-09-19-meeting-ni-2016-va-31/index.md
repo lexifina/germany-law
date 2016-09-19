@@ -1,0 +1,72 @@
+# 9. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-09-19T10:00:00+02:00
+- Ende: 2016-09-19T11:25:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-VA-31
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-VA-31
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2016-VA-31
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2016-VA-31
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Haushaltsangelegenheiten
+- TOP 2.1.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2017
+- TOP 2.1.2: Einbringung des Haushaltes 2017
+- TOP 2.1.3: Entwurf des NKF-Gesamtabschlusses 2013
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Neuaufstellung des Bundesverkehrswegeplans (BVWP 2030) Information zur Endfassung des BVWP 2030
+- TOP 1.2: Städtebauförderung hier: Veröffentlichung des Städtebauförderprogramms 2016
+- TOP 1.3: Krankenhausplan 2015 hier: Sachstandsmitteilung zu den Versorgungsgebieten
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.4: 82. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99 ) im Gebiet der Stadt Rheinberg Umnutzung eines Oberflächengewässers für die zweckgebundene Nutzung Ruhehafen Ossenberg Hier: Erarbeitungsbeschluss
+- TOP 1.5: Stellungnahme der Regionalplanungsbehörde zum Planfeststellungsverfahren Ausbau Flughafen Düsseldorf
+- TOP 1.6: Abgrabungsmonitoring Nordrhein-Westfalen – Lockergesteine Hier: Landesbericht Abgrabungsmonitoring NRW 2016 – Ergebnisse aus den Monitoringberichten der sechs Planungsgebiete – Zeitraum 2011 bis 2015
+- TOP 1.7: Kabinettsbeschluss zum Landesentwicklungsplan
+- TOP 1.8: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 1.9: Sachstand Regionalplan Ruhr
+- TOP 1.10: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.2: klimametropole RUHR 2022 - Projektvorhaben TWINS-Dialog inkl. TWINS-Konferenz 'Stadt im Klimawandel - Cities in Climate Change'
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.3: Fortführung Geonetzwerk.metropoleRuhr als Daueraufgabe
+- TOP 2.4: Interregionale Kooperation mit Berlin im Bereich Industriekultur
+- TOP 2.5: Stellungnahme des RVR als TÖB zum Entwurf des Nahverkehrsplanes der VRR AöR
+- TOP 2.5.1: Stellungnahme des RVR als TÖB zum Entwurf des Nahverkehrsplanes der VRR AöR, hier: Anfrage der CDU-Fraktion vom 07.09.2016 und Antwort der Verwaltung vom 13.09.2016
+- TOP 2.6: Stellungnahme des RVR als Träger öffentlicher Belange zum 1. Deckblatt vom 30.11.2015 zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen [ABS46/2] Planfeststellungsabschnitt 1.2 Oberhausen-Sterkrade“
+- TOP 2.7: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Leistungsbeschreibung
+- TOP 2.8: Weiterentwicklung des Regionalen Radwegenetzes für die Metropole Ruhr
+- TOP 2.9: Radschnellwege in der Metropole Ruhr hier: Sachstandsbericht
+- TOP 2.10: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht
+- TOP 2.10.1: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht Ergänzung des Beschlussvorschlages und schriftliche Stellungnahme der Verwaltung vom 30.06.2016
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.11: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.12: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Beteiligung an der Ruhr:HUB GmbH
+- TOP 2.12.1: Evaluierung der Ergebnisse der Ruhr:Hub GmbH, Antrag der Fraktion Die Linke. vom 12.09.2016
+- TOP 2.13: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.14: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2015
+- TOP 2.15: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2015
+- TOP 2.16: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2015
+- TOP 2.17: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.18: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.18.1: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2015
+- TOP 2.18.2: Angelegenheiten der Freizeitgesellschaften - Sachstand aktueller Restrukturierungsprozess Ergebnisse der Arbeitsaufträge aus dem VV-Beschluss vom 01.07.2016
+- TOP 2.18.3: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH Änderung des Gesellschaftsvertrages sowie der Nebenabrede zum Gesellschaftsvertrag
+- TOP 2.19: Bestellung von Vertreter/innen in den Gremien der Beteiligungen des RVR
+- TOP 2.20: Standortmarketingkampagne - Benennung von Mitgliedern für die Jury
+- TOP 2.21: Mitgliedschaft in der Einkaufsgenossenschaft der Kommunen in NRW: KoPart eG Erwerb eines Mitgliedanteils
+- TOP 2.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.23: Genehmigung einer Dienstreise gemäß § 13 Abs. 4 VO
+- TOP 2.24: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Verschmelzung der bds Boden- und Deponie-Sanierungs GmbH auf die AGR mbH zum 01.01.2016
+- TOP 2.25: Anfragen und Mitteilungen
+- TOP -: Sachstand der Notfallbeschilderung auf Rad- und Wanderwegen des RVR, Anfrage der CDU-Fraktion vom 13.09.2016
+- TOP -: Sanierungsmaßnahmen in den RVR-Verwaltungsgebäuden, Anfrage der CDU-Fraktion vom 13.09.2016
+- TOP -: Schafe am Kemnader See, Anfrage der CDU-Fraktion vom 13.09.2016
+- TOP -: Kooperation 115, Anfrage der CDU-Fraktion vom 13.09.2016
