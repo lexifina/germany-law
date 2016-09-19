@@ -1,0 +1,61 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-09-19T17:00:00+02:00
+- Ende: 2016-09-19T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZV9ytdyMf2wbeWwop1fRzCw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4649
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWT64z0g-dStHEqnQAHrH6QTI2dhmTJCDA2S8Rnu-iua/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_19.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: E-Bus 2020
+- TOP 4: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 5: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 6: 2. Sachstandsbericht und weitere Vorgehensweise Neuausrichtung und Qualitätssicherung Straßenbegleitgrün
+- TOP 7: Solingen Burg: Integriertes Stadtteilentwicklungskonzept Satzung über die förmliche Festlegung des Sanierungsgebietes Solingen-Burg
+- TOP 8: Dickenbusch
+- TOP 9: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf,
+- TOP 10: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf
+- TOP 11: Knotenpunktgestaltung an der Kölner Straße/Birkerstraße
+- TOP 12: Frankfurter Damm
+- TOP 13: Entwurf Nahverkehrsplan VRR 2016
+- TOP 14: Ergebnisse der Fahrgastzählung 2013 und 2015
+- TOP 15: Entwicklung von Anforderungen/Vorgaben von Sozial- und Qualitätsstandards an öffentliche Dienstleistungsaufträge im öffentlichen Personennahverkehr
+- TOP 16: Sachstandsbericht Wupperbrücke Strohn
+- TOP 17: Bauleitplanung Piepersberg-West/ Arena Bergisch-Land
+- TOP 18: Bauleitplanung Keldersstraße/ Forststraße
+- TOP 19: Bauleitplanung Neuenhofer Straße/ Erfer Straße
+- TOP 20: Bauleitplanung Focher Straße/ Nümmener Feld
+- TOP 21: Bauleitplanung Goudastraße
+- TOP 22: Bauleitplanung Eckstumpf
+- TOP 23: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 24: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 25: Sachstandsbericht über die Einrichtung eines Baustelleninformationssystems im Internet
+- TOP 26: Abbau von Ampelanlagen
+- TOP 27: Elektromobilität
+- TOP 28: Verschiedenes
+- TOP 29: Pestizide in Kleingartenanlagen
+- TOP 30: Event-Arena (Arena Bergisch Land)
+- TOP 31: Ersatzstandort für die Einrichtung „FAXE“
+- TOP 32: ÖKOPROFIT 2015/16
+- TOP 33: Integriertes Stadtteilentwicklungskonzept Ohligs Prüfergebnisse der Anregungen aus der Bürgerbeteiligung
+- TOP 34: Parksituation Frankfurter Damm
+- TOP 35: Entfernung statischer Grünpfeil
+- TOP 36: Fördermittel für die Erstellung eines integrierten Elektromobilitätskonzeptes
+- TOP 37: ÖPNV-Fahrgastbeirat
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll über die . Sitzung des ASUKM am
+- TOP 4: Bauleitplanung Goudastraße
+- TOP 5: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 6: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 7: Verschiedenes
