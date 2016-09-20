@@ -1,0 +1,87 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2016-09-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3912091
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3912091
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: DOWNLOAD DER TAGESORDNUNG UNTER "DOKUMENTE"
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Kinderwerkstatt Neuhausen / Initiative Kunsttankstelle Bildnerisches Gestalten mit minderjährigen unbegleiteten Flüchtlingen von November 2016 bis November 2017
+- TOP 2.4: Entscheidungsfälle (1)
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen (1)
+- TOP 3: Unterausschuss für Verkehr
+- TOP 3.1: Entscheidungsfälle (2)
+- TOP 3.2: Bürgeranliegen, Anträge (1)
+- TOP 3.3: Anhörungen (1)
+- TOP 3.4: Antwortschreiben (1)
+- TOP 3.4.1.: Ausweichstrecke zur Nymphenburger Straße, durchgehend Tempo 30 ab Einmündung Gümbelstraße in die Blutenburgstraße
+- TOP 3.4.2.: Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze
+- TOP 3.4.3.: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing Hier: Teilstück Richelstraße
+- TOP 3.4.4.: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing Hier: Teilstück Parkplatz Richelstraße
+- TOP 3.4.5.: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing Hier: Teilstück westlich vom Backstage
+- TOP 3.4.6.: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing Hier: Teilstück Verbindungsweg am Hirschgarten Süd
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen (2)
+- TOP 3.6: Verschiedenes (1)
+- TOP 4: Unterausschuss für Bau und Planung
+- TOP 4.1: Entscheidungsfälle (3)
+- TOP 4.2: Bürgeranliegen, Anträge (2)
+- TOP 4.3: Anhörungen (2)
+- TOP 4.4: Antwortschreiben (2)
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen (3)
+- TOP 4.6: Verschiedenes (2)
+- TOP 5: Unterausschuss für Umweltfragen
+- TOP 5.1: Entscheidungsfälle (4)
+- TOP 5.2: Bürgeranliegen, Anträge (3)
+- TOP 5.3: Anhörungen (3)
+- TOP 5.4: Antwortschreiben (3)
+- TOP 5.4.1.: AWM: Wertstoffinsel Dom-Pedro-Straße / Ecke Fuetererstraße
+- TOP 5.4.2.: Witterungsunabhängige Nutzung der Wertstoffcontainer Hedwig-Dransfeld-Allee ermöglichen
+- TOP 5.4.3.: Containerstandort Lazarettstraße überprüfen
+- TOP 5.4.4.: Zustand des Betonkastens Andreestr. / Ecke Wendl-Dietrich-Str. (vor dem Penny-Markt)
+- TOP 5.4.5.: Begrünung Landshuter Allee
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen (4)
+- TOP 5.6: Verschiedenes (3)
+- TOP 6: Unterausschuss für Soziales und Integration
+- TOP 6.1: Entscheidungsfälle (5)
+- TOP 6.2: Bürgeranliegen, Anträge (4)
+- TOP 6.3: Anhörungen (4)
+- TOP 6.4: Antwortschreiben (4)
+- TOP 6.4.1.: Kinderbetreuung im 9. Stadtbezirk endlich auf stadtweiten Versorgungsgrad aufstocken
+- TOP 6.4.2.: Gestaltung des Spielplatzes am Posseltplatz
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen (5)
+- TOP 6.6: Verschiedenes (4)
+- TOP 7: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle (6)
+- TOP 7.2: Bürgeranliegen, Anträge (5)
+- TOP 7.3: Anhörungen (5)
+- TOP 7.4: Antwortschreiben (5)
+- TOP 7.5: Antwortschreiben (6)
+- TOP 7.6: Verschiedenes (5)
+- TOP 8: Unterausschuss für Bildung und Sport
+- TOP 8.1: Entscheidungsfälle (7)
+- TOP 8.2: Bürgeranliegen, Anträge (6)
+- TOP 8.3: Anhörungen (6)
+- TOP 8.4: Antwortschreiben (7)
+- TOP 8.4.1.: Umsetzung der Verpflegung der Kinder und Jugendlichen in den Kindertageseinrichtungen und Schulen gemäß den städtischen Beschlüssen
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen (6)
+- TOP 8.6: Verschiedenes (6)
+- TOP 9: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle (8)
+- TOP 9.2: Bürgeranliegen, Anträge (7)
+- TOP 9.3: Anhörungen (7)
+- TOP 9.4: Antwortschreiben (8)
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen (7)
+- TOP 9.6: Verschiedenes (7)
+- TOP 10: Verschiedenes (8)
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Schützengesellschaft Falkenauge 1891 e.V. 125-jähriges Jubiläum am 12.11.2016
