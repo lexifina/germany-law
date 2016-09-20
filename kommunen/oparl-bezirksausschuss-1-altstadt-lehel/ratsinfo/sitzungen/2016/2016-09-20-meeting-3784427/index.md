@@ -1,0 +1,119 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-09-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784427
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784427
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: BürgerInnen-Information und -Beteiligung stärken; Internetseiten des Bezirksausschusses der ?Internet-Gegenwart? anpassen und Arbeit des/der Internetbeauftragten entsprechend honorieren ? BA-Antrag Nr. 14-20 / B 01092 des BA 16
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 14, Abschnitt Sozialreferat, ?Laufende Gewährung von Zuschüssen an örtliche Vereine, Elterninitiativen mit sozialen Aufgaben und Einrichtungen der freiwilligen Sozialbetreuung (ausgenommen Jugendhilfe), soweit die Tätigkeit auf den Stadtbezirk beschränkt ist? in ein Entscheidungsrecht. BA-Antrag Nr. 14-20 / B 01092 des BA 16
+- TOP .4.: Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung, Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: ?Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat? in ein Entscheidungsrecht, BA- Antrag Nr. 14-20 / B 01092 des BA 16
+- TOP .5.: Änderung des Anhörungsrechtes "Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten" (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht, BA-Antrags-Nr. 14-20 / B 01092 des BA 16 - Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 02.09.2016
+- TOP .6.: Änderung des Anhörungsrechtes, "Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils" (Anlage 1 BA Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht; Änderung des Anhörungsrechtes "Förderung und Unterstützung von Vereinen, Gruppen und Initiativen" (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht BA-Antrags-Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 02.09.2016
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Bericht zum Sachstand der Verhandlungen zur ?Alten Akademie?
+- TOP 7.1.: Bürgeranliegen, Nahversorgung in leerstehende Immobilien
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Rumfordstraße 15, Errichtung eines Außenaufzuges, zweier Balkonanlagen und einer Notleiteranlage als 2. Rettungsweg, sowie Erweiterung zweier DG-Wohnungen durch Speicherausbau
+- TOP 7.2.: Sendlinger Straße 27, Nutzungsänderung 6. OG: Wohnung/Kantine/Schneiderei zu Büro
+- TOP 7.3.: Weinstraße 6, Neubau eines Geschäfts- und Bürogebäudes, Tektur, vertagt aus 2016.08 B 3.1.6
+- TOP 7.4.: Paradiesstraße 10, Wiederherstellung von Rundgiebel, Mansarden und ursprünglichem Dachquerschnitt, DG-Ausbau, Liftanbau, Einbau von Stapelparkern sowie Genehmigung bestehender Balkone (Ostseite) - TEKTUR
+- TOP 7.5.: Neuturmstraße 1, Errichtung temporärer bzw. fliegender Aufbauten für die witterungsabhängige Nutzung der Dachterrasse des Hotels ?Mandarin Oriental? - Vorbescheid
+- TOP 7.6.: Hackenstraße 1, Nutzungsänderung 1. OG (Büro zu 2 Praxen) sowie Zusammenlegung zweier Appartments im 3. OG
+- TOP 7.7.: Odeonsplatz 18, Umbau des Gastronomiebereichs im UG, EG und Mezzanin, Nutzungsänderung eines Ladengeschäfts
+- TOP 7.8.: Prannerstraße 7, Erweiterung und denkmalgerechte Sanierung eines Büro- und Geschäftsgebäudes, Vorbescheid
+- TOP 7.9.: Sonnenstraße 25, Neubau eines Hotels (378 Betten) mit Restaurant und Tiefgarage, Tektur
+- TOP 7.10.: Christophstraße 10; Sanierung, Umbau und Erweiterung eines Büro- und Wohnhauses mit Tiefgarage mit Vollzug der Baumschutzverordnung
+- TOP 7.1.: Aufstellung eines Bebauungsplans für den Bereich der Tennisanlage in der Oettingenstraße / Tivolistraße
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Erweiterung einer bestehenden Freischankfläche, Gaststätte ?Seidelei?, Reitmorstraße 3
+- TOP 7.2.: Erweiterung einer bestehenden Freischankfläche, Gaststätte ?Petit Cafe?, Marienstraße 2
+- TOP 7.3.: Genehmigung einer Freischankfläche, Gaststätte ?minimis?, Westenriederstraße 18
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Genehmigung eines mobilen Fahrradständers, Petersplatz 9
+- TOP 7.2.: Nochmalige Entscheidung über die Genehmigung von mobilen Fahrradständern an der Residenzstraße 23 und Maximilianstraße 21, aktualisierte Fotos und Anträge
+- TOP 7.1.: Genehmigung eines Flohmarktes (Bücherflohmarkt) auf öffentlichem Verkehrsgrund, Widenmayerstraße, 24.09.2016
+- TOP 7.2.: Aufstellung zusätzlicher Bänke am St. Anna Platz, Ortstermin vom 27.07.2016
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Münchner Eiszauber, 18.11.2016-15.01.2016, Karlsplatz
+- TOP 7.2.: Lange Nacht der Münchner Museen, 15.10.2016, Odeonsplatz
+- TOP 7.3.: Ungarischer Markt, 06.10.-09.10.2016, Rindermarkt
+- TOP 7.4.: Standkonzert der Kriegsgräberfürsorge, 12.10.2016, Odeonsplatz
+- TOP 7.5.: Infoveranstaltung der BRH Rettungshundestaffel am 17.12.2016, Odeonsplatz
+- TOP 7.6.: Midissage Play me I'm yours am 15.09.2016 auf dem Promenadeplatz
+- TOP 7.7.: Internationaler Mädchentag am 11.10.2016, Marienplatz
+- TOP 7.8.: Prinzenpaarproklamation am 11.11.2016, Marienplatz
+- TOP 7.9.: Infoveranstaltung Weg der Erinnerung am 09.11.2016, verschiedene Stationen vom Marienplatz bis zur Herzog-Max-Straße
+- TOP 7.1.: Antrag für die Aufstellung einer Sitzgelegenheit (Bank), Damenstiftstraße 6
+- TOP 7.2.: Antrag für die Aufstellung von Sitzgelegenheiten (4 Bänke), Briennerstraße 13 mit Seite Maximiliansplatz
+- TOP 7.3.: Antrag für die Aufstellung einer Sitzgelegenheit (Bank), Blumenstraße 3
+- TOP 7.4.: Antrag für die Aufstellung von Sitzgelegenheiten (2 Stühle), Prälat-Zistl-Straße 14
+- TOP 7.5.: Mehr Grün und Blumen in Münchens Straßen möglich machen - Antrag aus dem Münchner Stadtrat
+- TOP 7.1.: BA-Antrag, Absolutes Halterbot an der Biegung ?Am Gries?
+- TOP 7.1.: Sitzungsvorlage Nr. 14-20 / V06569 zu BV-Empfehlung Nr. 14-20 / E00828 Linksabbiegemöglichkeit am Altstadtring zur Maximilianstraße
+- TOP 7.2.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung)
+- TOP 7.1.: Bürgeranliegen, Vorstellung des Projekts ?Concrete? Ein analoger Blog im digitalen Zeitalter, Antrag für Zeitungskästen / stumme Verteiler
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Gesellschaft zur Förderung des Puppenspiels e.V. Festival "ANFÄNGE(R)" vom 23.-27.03.2017
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Initiative "Fassadenrenovierung" Fassadenrestaurierung Seitzstraße 10 ab Mai 2016
+- TOP 7.1.: Anmietung zusätzlicher Räume für ein Jugendcafé in der Blumenstraße 29 durch den Träger diversity München e.V.
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Stellungnahme der Rechtsabteilung zu Video-/Tonaufzeichnungen während BA-Sitzungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Stellungnahme des Deutschen Alpenvereins zu Werbeanlagen des Alpinen Museums, war 2016.07 B1.1
+- TOP 0.3.: Antwort des Referats für Stadtplanung und Bauordnung bezüglich Geplanter Baumfällungen im Zuge des Vorhabens TOM, Tiefgarage unter demThomas-Wimmer-Ring
+- TOP 0.4.: Baumaßnahmen der SWM im 2. Halbjahr 2016, Baustellenkarte im Internet
+- TOP 0.5.: Zwischennachricht zur Fristverlängerung bezüglich BA-Antrag Nr. 14-20 / B02359 ? Anforderung von Stellungnahmen durch die Untere Denkmalschutzbehörde
+- TOP 0.6.: Stellungnahme des Referats für Stadtplanung und Bauordnung zu Antrag auf Änderung des Planfeststellungsbeschlusses für den Umbau des U-Bahnhofs Sendlinger Tor
+- TOP 0.7.: Antwortschreiben des Planungsreferates zur Stellungnahme des BA 1 bezüglich des Bauvorhabens Klosterhofstraße 4 vom 18.07.2016
+- TOP 0.8.: Antwortschreiben des Planungsreferates zur Stellungnahme des BA 1 bezüglich des Bauvorhabens Sendlinger Straße 40 vom 18.07.2016
+- TOP 0.9.: Abschiedsschreiben der Teamleiterin in der Lokalbaukommission für den Stadtbezirk 1
+- TOP 0.10.: Flächennutzungsplan mit integrierter Landschaftsplanung, Juli 2016
+- TOP 0.11.: Bürgerbeteiligung stärken ! Antrag Nr. 14-20 / A02097 der Stadtratsfraktion Freiheitsrechte Transparenz und Bürgerbeteiligung, Sitzungsvorlage Nr. 14-20 / V06615, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Lärmbeschwerde zu Stadtstrand Vater-Rhein-Brunnen
+- TOP 0.6.: Trinkbrunnen im öffentlichen Raum - St. Anna Platz
+- TOP 0.7.: Temporäre Kunst im öffentlichen Raum, Musikperformance am Marienhof/Münzstraße/Wiener Platz, 06.10.-08.10. 2016 und 14.10.-15.10.2016
+- TOP 0.8.: Antwortschreiben des Kreisverwaltungsreferats zur Stellungnahme des BA 1 bezüglich des Isarinselfestes 2016
+- TOP 0.9.: Änderung des Zugwegs zum Metzgersprung am 11.09.2016
+- TOP 0.10.: Temporäre Kunst im öffentlichen Raum, Projekt ?UnlimitedLimited?, Marienhof, 12.09.-10.10.2016
+- TOP 0.11.: Projekt ?Verkehrsversuch Sendlinger Straße?, Vorgehen bei der Genehmigung von Freischankflächen und Veranstaltungen, Schreiben der Bezirksinspektion Mitte
+- TOP 0.13.: Anfrage zu Veranstaltungen auf verschiedenen Plätzen im Stadtbezirk 1, vgl. TOP 2016.07 C 1.6, Antwortschreiben des Kreisverwaltungsrefarates vom 01.09.2016
+- TOP 0.1.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Widenmayerstraße 46-52, Emil-Riedel-Straße 21-23, Karolinenstraße 1-5, Dianastraße 1-2
+- TOP 0.2.: Abdruck zu Antwort auf Bürgerbeschwerde, Taxiverkehr und Gehsteigbepflanzung in der Wurzerstraße
+- TOP 0.3.: Vollzug der Grünanlagensatzung, Baustelleneinrichtung an der Herzog-Wilhelm-Straße
+- TOP 0.4.: Zwischennachricht/Fristverlängerung zu BA-Antrag Nr. 14-20/B01433, Öffnung der Einbahnstraßenregelung für den Fahrradverkehr in entgegengesetzter Richtung im Bereich Josephspital-/Brunn-/Hackenstraße
+- TOP 0.5.: Sanierung Fuß- und Radweg Max-Joseph-Brücke
+- TOP 0.6.: Verkehrsrechtliche Erlaubnis, Vollsperrung Alexandrastraße 3
+- TOP 0.7.: Zwischennachricht und Fristverlängerung zu BA-Antrag Nr. 14-20 / B2628 Tempo 20 in der St.-Anna-Straße
+- TOP 0.8.: Abdruck zur Anfrage der Grünen Stadtratsfraktion Radverkehr im Zuge der Nord-Süd-Querung der Innenstadt beobachten und untersuchen ? Monitoring während der Baumaßnahmen am Marienplatz
+- TOP 0.9.: Provisorische Treppe an der Praterinsel im Bereich der Wehranlage ? Wehr VI
+- TOP 0.10.: Buslinienführung am Marienplatz, Sitzungsvorlage Nr. 14-20 / V06408, Beschluss der Vollversammlung des Stadtrates am 20.07.2016
+- TOP 0.12.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Sonnenstraße und Karlsplatz zwischen Prielmayerstraße und Schwanthalerstraße
+- TOP 0.13.: Verkehrsrechtliche Anordnung, Öffnung der in Richtung Westen einbahngeregelten Westenriederstraße zwischen Viktualienmarkt und Radlsteg
+- TOP 0.14.: Sendlinger Straße Fußgängerzone; Zufahrtsregelung für stark bewegungseingeschränkte Patienten der anliegenden Ärzte, Antwortschreiben des Kreisverwaltungsrefarates vom 06.09.2016
+- TOP 0.15.: Aufbau öffentlicher Ladeinfrastruktur für E-Fahrzeuge, Protokoll der Informationsveranstaltung für Bezirksausschüsse am 20.07.2016
+- TOP 0.1.: Verwenungsnachweis, Mobilspiel e.V. Projekt ?Kicklusion...und alle kicken mit?
+- TOP 0.2.: Dankschreiben der Initiative ?Kinderfest am St. Anna Platz?
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
+- TOP 0.11.: Abdruck Zwischennachricht an Bürger zu BV-Empfehlung Nr. 14-20 / E02122 Rückbau der Abbiegespuren in der Oettingen- und Sternstraße
