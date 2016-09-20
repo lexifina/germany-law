@@ -1,0 +1,51 @@
+# Rat (100. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2016-09-20T17:02:00+02:00
+- Ende: 2016-09-20T18:03:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbyW07wpxMJj0q4QKk5yNac
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13816
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRIuBST9IBtK2QVIs-9A1vyJ_jqIJAck82t2zxUvCHQo/Bekanntmachung_Rat_20.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSxRpr_tXt1gxkHP2di7nyK-pks9H9qUUaooOmkC8icR/Oeffentliche_Niederschrift_Rat_20.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 05.07.2016
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Verpflichtung und Einführung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 5.: Umbesetzung von Gremien - Einstimmig
+- TOP 6.: Genehmigung der Dringlichkeitsentscheidung zur "Durchführung einer Dachabdichtungsmaßnahme an der Sporthalle am Hallenbad" - Einstimmig
+- TOP 7.: Finanzangelegenheiten
+- TOP 7.1: Gesamtabschluss 2011 - Einstimmig
+- TOP 7.2: Jahresabschluss 2015 - Bestätigter Entwurf - Einstimmig
+- TOP 8.: Stadtwerke Emsdetten GmbH
+- TOP 8.1: Jahresabschluss 2015 Stadtwerke Emsdetten GmbH und Kapitalausschüttung - Einstimmig
+- TOP 9.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2015 mit Jahresabschluss zum 31.12.2015 - Einstimmig
+- TOP 10.: Vorzeitige Ausschüttung vom Jahresüberschuss 2016 des Abwasserwerkes - 38 Ja-Stimme(n), 0 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 11.: Änderung der Rechtsform von d-NRW in eine Anstalt des öffentlichen Rechts - Einstimmig
+- TOP 12.: Aufstellung eines qualifizierten Mietspiegels für nicht preisgebundenen Wohnraum in Emsdetten - Zur Kenntnis genommen
+- TOP 13.: Satzungsrecht
+- TOP 13.1: III. Nachtrag zur Satzung der Stadt Emsdetten über die Erhebung von Vergnügungssteuer (Vergnügungssteuersatzung) vom 29.11.2006 - Einstimmig
+- TOP 14.: Ausübung der Übergangsfrist nach § 27 Abs. 22 Umsatzsteuergesetz - Einstimmig
+- TOP 15.: Festlegung des Kaufpreises für die Gewerbe- und Industrieflächen im Erweiterungsbereich des Industriegebietes Süd - Bebauungsplan 17 C V - Einstimmig
+- TOP 16.: Bereitstellung des städtischen Eigenanteils für den geförderten Breitbandausbau in den unterversorgten Außenbereichen Emsdettens - Einstimmig
+- TOP 17.: Erfahrungen mit der Sperrgutsammlung auf Anforderung; Weiterführung 2017 ff. Jahre - Einstimmig
+- TOP 18.: Bebauungspläne
+- TOP 18.1: Bebauungsplan Nr. 29 A "Habichtshöhe Nord", 6. Änderung - Satzungsbeschluss - - Einstimmig
+- TOP 18.2: Bebauungsplan Nr. 111 "Rheiner Straße / Hermannstraße", 1. Änderung - Beschluss zur öffentlichen Auslegung - Einstimmig
+- TOP 19.: Privaterschließungs- und städtebauliche Verträge
+- TOP 19.1: Bebauungsplan Nr. 8 K "Rheiner Straße / Emsstraße" - Städtebaulicher Vertrag - - 28 Ja-Stimme(n), 10 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 20.: Planung von Tiefbauvorhaben
+- TOP 20.1: Fahrbahnerneuerung der Straße "Im Hagenkamp zwischen dem Nordring (B481) und der Münsterstraße"; Änderung des Ausbauprogramms - Einstimmig
+- TOP 21.: Schulangelegenheiten
+- TOP 21.1: Begrenzung der in die Eingangsklassen der Grundschulen aufzunehmenden Schülerinnen und Schüler gem. § 46 Abs. 3 Satz 3 Schulgesetz - Einstimmig
+- TOP 22.: Allgemeine Umweltangelegenheiten
+- TOP 22.1: European Energy Award®, Fortführung des Projektes und Rezertifizierung - 34 Ja-Stimme(n), 7 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 22.2: Plastiktütenfreie Stadt Emsdetten - Einstimmig
+- TOP 23.: Verschiedenes
