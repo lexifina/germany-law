@@ -1,0 +1,161 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2016-09-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3873463
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3873463
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Pokémon Go am Bordeauxplatz - Abschlussbericht AKIM
+- TOP .5.: Anträge
+- TOP .1.: Erweiterung des RIS München für Bezirksausschüsse - Aufnahme in den Anforderungskatalog - <div>nach Antrag</div>
+- TOP .2.: Genehmigungspflicht von Lieferrampen in Parkbuchten - <div>Zustimmung</div>
+- TOP .3.: Ehemaliges Wohnhaus Preysingplatz 8: Ruinöser Leerstand des Gebäudes und Verwahrlosung des Grundstücks - <div>Zustimmung mit Ergänzungen</div>
+- TOP .4.: Schaffung einer Sitzbank zu Füßen der Kreuzigungsgruppe am Gasteig - <div>Zustimmung</div>
+- TOP .5.: "Rechts vor links" am Pariser Platz verdeutlichen - <div>Zustimmung</div>
+- TOP .6.: Sexualisierte Werbung im Stadtteil - <div>Zustimmung</div>
+- TOP .7.: "Pokemon Go!" am Bordeuxplatz - <div>Zustimmung mit Ergänzungen</div>
+- TOP .8.: Sanierung/Instandsetzung der Eisenbahnbrücke in der Rosenheimer Straße neu priorisieren? - <div>Zustimmung</div>
+- TOP .9.: Baupfusch an der Containeranlage für die Grundschule an der Flurstraße - <div>Zustimmung mit Ergänzungen</div>
+- TOP .10.: Rückfragen zur BA-Antrags-Nr. 14-20 / B 01108 vom 24.06.2016 "Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren" - <div>Zustimmung</div>
+- TOP .11.: Errichtung eines schnellen, ampelfreien Radweg vom Haidenauplatz stadtauswärts bis zum S-Bahnhof Berg am Laim - <div>Zustimmung</div>
+- TOP .12.: Vergabe der freifinanzierten Wohnungen der ehemaligen Kegelhofmühle - <div>Zustimmung</div>
+- TOP .13.: Mobile Durchfahrtszone für Kfz in der Quellenstraße - <div>Zustimmung</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Beschaffung Haushaltsgeräte für bedürftige Jugendliche und junge Erwachsene - <div>Bezuschussung mit 1.650,00 ?</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Freundeskreis der städtischen Ludwig-Thoma-Realschule München e.V. ?Wir-Werkstatt? vom 14. bis 16.09.2016 - <div>Bezuschussung mit 1.600,00 ?</div>
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Milchstr. 17: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Ohlmüllerstr. 22: Kleingaststätte mit Laden "Il Ristorantino" auf Genehmigung einer Freischankfläche
+- TOP .3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Lilienstr. 34: Genehmigung einer Freischankfläche
+- TOP .4.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Paul-Heyse-Str. 2-4: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .5.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Karl-Müller-Weg (an der Ludwigsbrücke) öffentliche Bedürfnisanstalt / Gaststätte "Boazn) Genehmigung einer Freischankfläche
+- TOP .6.3: Weitere Entscheidungen
+- TOP 1: (E) Darstellung der zu erwartenden Schülerzahlen ....
+- TOP 2: (E) Luftmessung in der Rosenheimer Straße Empfehlung Nr. 14-20 / E 00857 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 25.02.2016 - <div></div>
+
+  						<div>Stellungnahme - Weiterleitung an RGU</div>
+- TOP 3: (E) Mariahilfplatz wieder in städtische Hand und als kostenlose Parkmöglichkeit für Bewohner der gesamten Au Empfehlung Nr. 14-20 / E 00858 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 03.03.2016 - <div></div>
+
+  						<div> Rückfrage an Arbeit und Wirtschaft</div>
+- TOP 4: (E) Kein Bau einer Isar-Philharmonie auf dem Gelände des Stadtbezirks 5 - Au-Haidhausen - <div>Zustimmung</div>
+- TOP 4.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten" (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht
+- TOP 4.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: "Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat" in ein Entscheidungsrecht
+- TOP 4.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils" (Anlage 1 BA-Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht Änderunge des Anhörungsrechtes "Förderung und Unterstützung von Vereinen, Gruppen und Initiativen" (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht
+- TOP 4.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 4.1.: Krähensichere Abfallbehälter anschaffen und installieren - <div>Kenntnisnahme</div>
+- TOP 4.2.: Kreuzungsfreier Radverkehrs links der Isar - <div>Kenntnisnahme</div>
+- TOP 4.3.: Verringerung der Unfallgefahr auf dem steilem Streckenabschnitt am Fußgänger - und Radweg beim Maximilianeum - <div>neuer Antrag; Antrag offen lassen</div>
+- TOP 4.4.: ASZ plus Haidhausen auch ASZ plus für die Au - <div>Kenntnisnahme</div>
+- TOP 4.5.: Überprüfung der Ampelschaltung an der Lichtzeichenanlage Elsässer-/Orleansstraße - <div>Kenntnisnahme</div>
+- TOP 4.6.: Baumpflanzung in der Lilienstraße - <div>Kenntnisnahme</div>
+- TOP 4.7.: LZA Innere Wiener Straße - <div>nicht zufiedenstellend, MVG Ansprechpartner kontaktieren</div>
+- TOP 4.8.2: Reaktionen auf BA-Schreiben
+- TOP 4.1.: Schulanlange Flurstraße 4 Sachstand Pavillonnutzung
+- TOP 4.2.: Seeriederstr. 5 - 29, Fl.Nr. 17769/4, Gemarkung Sektion IX Brunnenanlage um den Johannisbrunnen instand setzen BA-Antrags-Nr. 14-20 / B 02513 des Bezirksausschusses des Stadtbezirkes 05 - Au-Haidhausen vom 15.06.2016 Zwischennachricht des Referats für Stadtplanung und Bauordnung
+- TOP 4.3.: BA-Antrag-Nr. 14-20 / B 02365 vom 11.05.2016 Ehemalige Gaststätte Hutterer am Wiener Platz: Verwahrlosung des Grundstücks, Gefährdung des Kastanienbaums Zwischenmitteilung über den aktuellen Sachstand
+- TOP 4.4.: Tram Steinhausen Antrag des BA 5 zum Bau einer Buswartehalle im Bereich der Trambahnhaltestelle Flurstraße Zwischenmittelung der SWM
+- TOP 4.5.: Parkraumangel in der Oberen Au - Schreiben des Referats für Stadtplanung und Bauordnung auf BA-Initiative Nr. 14-20 / I 01243 vom 20.07.2016
+- TOP 4.6.: Laderampe im Parkbucht vor DM Markt Weißenburger Str. 41, Bürgermail vom 25.08.2016 Antwort des Kreisverwaltungsreferats vom 05.09.2016
+- TOP 4.7.: Gefährliche Kreuzungen Einsteinstraße aufgrund Baustellensituation; Bürgeranliegen vom 13.08.2016 Antwort des Kreisverwaltungsreferats vom 05.09.2016
+- TOP 4.8.3: Weitere Unterrichtungen
+- TOP 4.1.: Wiener Platz, FlNr. 17042/0, Gemarkung München Sekt. IX Nachtrag eines Marktstandes (Nr. 4) in die Denkmalliste
+- TOP 4.2.: Veranstaltung im Freien auf öffentlichem Verkehrsgrund gem. § 29 StVO "Herbstfest" des Vereins der Förderer des Hauses des Deutschen Ostens am 16.09.2016 am Lilienberg - bereits nach § 20 Abs. 1 Satz 2 BezirksausschussS am 02.08.2016 zugestimmt -
+- TOP 4.3.: Sondernutzung auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG Aktion "PLAY ME, I'M YOURS 2016" und Kunstinstallation Corneliusbrücke vom 01.09. - 18.09.2016 - bereits nach § 20 Abs. 1 Satz 2 BezirksausschussS am 02.08.2016 zugestimmt -
+- TOP 4.4.: Temporäre Kunst im öffentlichen Raum - Barbarian Blue (Musikperformance) - Marienhof/Münzstr./Wiener Platz am 06., 07., 08., 14., 15.10.2016 - bereits nach § 20 Abs. 1 Satz 2 BezirksausschussS am 19.08.2016 zugestimmt -
+- TOP 4.6.: Veranstaltung im Freien auf öffentlichem Verkehrsgrund gem. § 29 StVO Handwerk meets Play me I'm yours am 16.09.2016 auf dem Wiener Platz - bereits nach § 20 Abs. 1 Satz 2 BezirksausschussS am 07.09.2016 zugestimmt -
+- TOP 4.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 4.1.: Mitgliederwerbung für Hilfsorganisationen auf den Haidhauser Plätzen; Bürgerschreiben vom 06.09.2016
+- TOP 4.2.: Fortführungen von Gaststättenbetrieben - Schank- und Speisewirtschaft (Name noch nicht bekannt), Rosenheimer Str. 111 - Schank- und Speisewirtschaft "Yasemin PUB", Einsteinstr. 185 - Schank- und Speisewirtschaft "Cro Nomad's Sportsbar", Einsteinstr. 103
+- TOP 4.3.: Drehgenehmigungen: 25. - 27.08.2016: Wörthstr. 9 bis Einmündung Metzstraße 30.08.2016: Eduard-Schmid-Str. 6 und gegenüber 04.09. - 10.09.2016: Maximilliansbrücke, Max-Planck-Straße, Grillparzerstraße zwischen Häckländerstraße und Gaisbergstraße, Einsteinstraße zwischen Versaillerstraße und Lucille-Grahn-Straße
+- TOP 4.1.: Regsam
+- TOP 4.2.: Kinder und Jugend
+- TOP 4.3.: Behinderte und Barrierefreiheit
+- TOP 4.4.: Ausländer und Flüchtlinge
+- TOP 4.5.: Frauen und Mädchen
+- TOP 4.6.: Internet
+- TOP 4.7.: Baumschutz
+- TOP 8: Gegen Rechtsextremismus
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Termin-Info: Eröffnung ?Theater Hoch X? am 17.09.2016 um 18:30 Uhr
+- TOP 8.1.: Stadtjugendamt / Förderung freier Träger Haushaltsjahr: 2017 Projekt: Nachbarschaftshilfe in der Au / Stadtbezirk 5 seitens des Sozialreferates gefördert seit 1989
+- TOP 8.1.: Spielflächenversorgungsplan Fortschreibung 2015 Sitzungsvorlagen Nr. 14-20 / V 06071 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.07.2016 ? Antwortschreiben zu der Rückfrage vom 27.07.2016
+- TOP 8.1.: Preysing-Apotheke, Wörthstraße 3: Antrag für eine Sitzgelegenheit
+- TOP 8.2.: Mehr Grün und Blumen in Münchens Straßen möglich machen Antrag aus dem Münchner Stadtrat
+- TOP 8.3.: Veranstaltung im Freien auf öffentlichen Verkehrsgrund gem. § 29 StVO AKIM Aktionsnachmittag des Sozialreferates am 05.10.2016 am Kolumbusplatz
+- TOP 8.4.: Anfrage zur Durchführung eines Bouletuniers auf dem Mariahilfplatz
+- TOP 8.5.: Grillparzerstr. 53: Umbau / Nutzungsänderung: Gewerbe (Apotheke) zu Wohneinheit
+- TOP 8.6.: Rosenheimer Str. 44: Nutzungsänderung: Cafébar und Wettannahmestelle zu Sportwettbüro
+- TOP 8.1.: Projektvorstellung "Concrete" - ein analoger Blog im digitalen Zeitalter
+- TOP 8.2.: Verwendungsnachweise über BA-Zuschüsse: - Arbeitsgemeinschaft Kinder und Jugend in Haidhausen-Au (mit Bericht) - Lyrikpreis München e. V (mit Bericht) - Erziehungshilfezentrum Adelgundenheim (mit Bericht) - Initiative "Graffiti im Münchner Osten" - IGH e. V.
+- TOP 8.1.: "Werksviertel" a) Bebauungsplan mit Grünordnung NR. 2061 Mühldorfstraße (südlich), Aschheimer Straße (westlich), Ampfing Straße (westlich), Rosenheimer Straße (nördlich), Anzinger Straße (nördlich), Friedenstraße (östlich) b) Aufhebung gemäß § 173 Abs. 3 des Bundesbaugesetzes (BBauGB) übergeleiteter einfacher Bebauungspläner
+- TOP 8.2.: Rosenheimer Str. 112 + 114: Holzkontor - Neubau eines Bürohauses, eines Hotels und eines Wohngebäudes mit Tiefgerage
+- TOP 8.3.: Einsteinstr. 32: Vergrößerung der Balkone
+- TOP 8.4.: Weißenburger Str. 16: Entkernung und Umbau (VGB) sowie Abbruch und Neubau (RGB) eines Wohn- und Geschäftshauses
+- TOP 8.5.: Ismaninger Str. 42 - 46: Neubau eines Wohn- und Geschäftshauses mit zweigeschossiger Tiefgarage, 44 Wohnungen, 38 Einheiten im Boardinghaus, Gastronomie und 68 Stellplätzen - TEKTUR
+- TOP 8.6.: Hochstr. 9: Neubau eines Hotels (67 Zimmer) mit Tiefgarage (18 Stpl.) - TEKTUR; Baugenehmigung vom 10.08.2016
+- TOP 8.7.: Ohlmüllerstr. 42: Neubau der Hauptverwaltung PAULANER BRAUEREI mit Tiefgarage (101 Stpl.), Teilabbruch "Zacherlbau" unter Erhalt denkmalgeschützter Bereiche (Falkenstr. 11 / Ohlmüllerstr. 42) - TEKTUR
+- TOP 8.8.: Welfenstr.: Neubau von Wohnhäusern >> Baugebiet 3 / Häuser 21 - 23 << (BA 05)
+- TOP 8.9.: Wörthstr. 9: Umbau und Sanierung der Wohnung im 4. OG, Einbau eines Unterzugs
+- TOP 8.10.: Wörthstr. 27: Umbau und Sanierung - VGB: Anbau 2er Balkonanlagen u. e. Außenaufzugs mit Erhöhung Treppenhaus u. Aufbau e. Dachterasse, DG-Ausbau (Whg. m. Galerie) u. Grundrissänderung Bestandswohnungen; RGB: Anbau 3er Balkonanlagen u. e. 2-geschossigen Anbaus im Gartenbereich, Nutzungsänderung e. Büroeinheit im EG in e. Whg. u. e. Nebenraums im EG in e. kl. Appartement, Grundrissänderung u. teilw. Zusammenlegung d. Bestandswohnungen sowie DG-Neuaufbau zu 2 WE - TEKTUR
+- TOP 8.11.: Milchstr. 11: Erweiterung von Kellerräumen mit Außentreppe
+- TOP 8.12.: Wörthstr. 3: Rückbau des Notdachs aus dem Jahr 1945 und Wiederherstellung des ursprünglichen Mansarddachs von 1895 mit DG-Ausbau sowie Anbau eines Personenlifts
+- TOP 8.13.: Rablstr. 24 + 26: Nutzungsänderung Büroflächen (OG 2 - 4) zu Schulungsräumen für das Goetheinstitut / "Quartier Haidhausen"
+- TOP 8.14.: Wiener Platz 8: DG-Ausbau in 2 Ebenen zu Wohnungen und Errichtung eines Außenaufzuges
+- TOP 8.15.: Elsässer Str. 24: Umbau Wohnung 1/EG + Laden 2, Nutzungsänderung Laden 2
+- TOP 8.16.: Kirchenstr. 88: Abbruch und Neubau eines Wohnhauses mit zweigeschossiger Tiefgarage - Vorbescheid
+- TOP 8.17.: Balanstr. 49: Haus B + C, 2. OG: Änderung der Fluchtwegsituation einer Büroeinheit mit neuer Raumaufteilung
+- TOP 8.18.: Bereiteranger 13: Aufstockung und Anbau an ein Wohngebäude sowie Nutzungsänderung im EG von Ladenwohnung zu Wohnung, Neubau an ein Wohngebäude sowie Nutzungsänderung im EG von Ladenwohnung zu Wohnung, Neubau von Garagen - TEKTUR
+- TOP 8.19.: Sedanstr. 23: Anbau Aufzug, Nutzungsänderung Ladenwohnung zu 2 Wohnungen im EG und Backstube / Lager zu Wohnung im UG - TEKTUR
+- TOP 8.20.: Lucile-Grahn-Str. 19: Schulbauoffensive - Errichtung einer temporären Schuleinheit für 5 Klassen (für die Schule an der Flurstr. 4); Schulanlage Flurstraße 4 Sachstand Pavillionnutzung (siehe TOP A)
+- TOP 8.1.: Perspektive München Langfristige Siedlungsentwicklung A. Statusbericht 2015 B. Anträge und Empfehlungen Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 06054
+- TOP 8.2.: Stellplatzschlüssel im Wohnungsbau Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2016 Sitzungsvorlagen Nr. 08-14 / V13593
+- TOP 8.3.: Hochstraße 9: Neubau eines Hotels mit Tiefgarage Baugenehmigung vom 10.08.2016
+- TOP 8.1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 8.2.: Anfahrtszone zum Kinderhaus Casa Don Bosco, Auerfeldstraße 15 Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 8.3.: Beschlussentwurf Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt Verkehrliche Neuordnung der Tegernseer Landstraße
+- TOP 8.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kolumbusstr. 34
+- TOP 8.5.: Rosenheimer Straße zwischen Rosenheimer Platz und Orleansstraße ? Radverkehrsanlage im 5. Stadtbezirk Au ? Haidhausen ? Beschlussentwurf Sitzungsvorlage Nr. 14-20 / V 06547
+- TOP 8.6.: Baumschutz Falkenstr. 3: 2 Eichen
+- TOP 8.7.: Baumschutz Holzhoferstr. 6: 1 Kirsche
+- TOP 8.8.: Baumschutz Lilienstr. 17: 1 Feldahorn
+- TOP 8.9.: MVG Rad Station am Mariahilfplatz
+- TOP 8.10.: Baumschutz Lilienstr. 17 - 19: 1 Linde
+- TOP 8.11.: Baumschutz Breisacher Str. 9a: 5 Bäume
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV Einsteinstraße vom Leuchtenbergring bis zur Truderinger Straße 23
+- TOP 8.2.: Arbeiten im Straßenraum Einsteinstraße zwischen Vogelweideplatz und Bothestraße; (Tram Steinhausen; Bauphase 300_1 und 350_1)
+- TOP 8.3.: Baumaßnahmen der SWM - 2. Halbjahr 2016
+- TOP 8.4.: Information zum Betriebskonzept während der Regenierung der Anlagen zur Grundwassererhaltung am U-Bhf. Hauptbahnhof U1/U2
+- TOP 8.5.: Lärm- und Schmutzbelastung an den Busverbindungen 148 / 187; Antwort der MVG - <div>Kenntnisnahme</div>
+- TOP 8.6.: Maßnahmen der Unfallkommisssion im Bereich Am Nockerherberg/ St.-Bonifatius-Str.
+- TOP 8.7.: Parkraumsituation zur Auer Dult
+- TOP 8.8.: Buslinienführung am Marienplatz Beschluss der Vollversammlung des Stadtrates vom 20.07.2016 Sitzungsvorlage Nr. 14-20 / V 06408
+- TOP 8.9.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV Kreuzung Einsteinstraße / Vogelweidestraße
+- TOP 8.10.: Zahlen zum Radverkehr - <div>Kenntnisnahme</div>
+- TOP 8.11.: Parkverbot für LKW, Wohnmobile und Busse auf Höhe der Herbergshäuser in der Hochstraße BV-Empfehlung Nr. 14-20 / Q 00216
+- TOP 8.12.: Verringerung der Unfallgefahr auf dem steilem Streckenabschnitt am Fußgänger - und Radweg beim Maximilianeum BA-Antrag Nr. 14-20 / B 01843 (siehe auch TOP 8.1.3)
+- TOP 8.1.: Berichte von wahrgenommenen Terminen
+- TOP 8.2.: Nächste UA-Sitzungen
+- TOP 8.3.: Nächste BA-Sitzung
+- TOP 8.4.: Sonstige Termine
+- TOP 8.1.: Sanierung der Spielflächen am Johannisplatz - Beteiligungskonzept Beteiligung der Kinder: 28.09.2016 von 10.00 - 18.00 Uhr am Spielplatz (Regenersatztermin: 29.09.2016) Beteiligung der Erwachsenen: 05.10.2016 von 10.00 - 18.00 Uhr am Kleinkinderspielplatz (Regenersatztermin: 13.10.2016)
+- TOP 8.2.: Aktionsnachmittag am Kolumbusplatz Wir am Kolumbusplatz: Institutionen am Platz stellen sich vor 05.10.2016 16-18 Uhr, Kolumbusplatz (schlechtes Wetter ASZ)
+- TOP 8.3.: Wir planen die Spielplätze am Johannisplatz neu! Workshop für Schulkinder ab 6 Jahre 28.09.2016, 10 - 18 Uhr, Spiel- und Bolzplatz am Johannisplatz (Regen-Ersatztermin 29.09.2016 Sammlung von Ideen der Erwachsenen am 05.10.2016, 10 - 18 Uhr, Kleinkinderspielplatz (Regen-Ersatztermin 10 - 18 Uhr)
+- TOP 8.4.: Abschlusspräsentation WiR-Werkstatt zur Verbesserung des Schulklimas (Städtische Ludwig-Thoma-Realschule): Freitag, 16.09.2016 ab 11:30 Uhr, Fehwiesenstr. 118
+- TOP 8.5.: Orleansplatz - 2. SBSS (Spartenverlegung August 2018 - März 2019) und Ende der Fugensanierung (Mitte November 2016)
+- TOP 8.6.: Armut hat viele Gesichter - 18 werden auch! Das KJR-Spendenprojekt Hilfe für Kids wird 18; Vernissage am 27.10.2016 um 19 Uhr, Paul-Heyse-Str. 22 (Galerie 90)
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Unterrichtungen
