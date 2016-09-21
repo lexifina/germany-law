@@ -1,0 +1,6 @@
+# TOP 24: Neubesetzung des Kreisausschusses, des Jugendhilfeausschusses, der Regionalversammlung der Regionalen Planungsgemeinschaft Oderland-Spree und der Fachausschüsse
+
+- Sitzung: 18. Sitzung des Kreistages Märkisch-Oderland (2016-09-21)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=12266
