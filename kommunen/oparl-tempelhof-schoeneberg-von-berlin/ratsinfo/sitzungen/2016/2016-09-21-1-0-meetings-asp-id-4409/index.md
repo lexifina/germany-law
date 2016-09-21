@@ -1,0 +1,104 @@
+# 61. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-09-21T17:00:00+02:00
+- Ende: 2016-09-21T19:10:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4409
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4409
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=79270
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 3.1: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin der XIX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin der XVIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Endlich mehr Sitzbänke im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorhandenen Leerstand von Wohngebäuden zur Unterbringung von Obdachlosen und Flüchtlingen nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Für starke Volkshochschulen in den Berliner Bezirken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Mahnmal am Bornhagenweg um Informationen zum Außenlager des KZ Sachsenhausen ergänzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Ein-Stele-Lösung für das Mahnmal am Bornhagenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.6: Die Brache in der Säntisstraße endlich entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.7: Das Kunstprojekt TRANSITCROSS auf dem Tempelhofer Feld administrativ fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.8: Benennung des PallasPark nach Lilli-Flora - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.9: Für Bürgerinnen und Bürger des Bezirks kostenfreie Nutzung der öffentlichen Gebäude - in der BVV abgelehnt
+- TOP 6.10: Mehr Frühstück für noch faireren Handel - in der BVV abgelehnt
+- TOP 6.11: Überfahrt am Alice-Salomon-Park durchgängig gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.12: Sichere Querung am Südwestkorso - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.13: Umsetzung des Masterplans Integration im Bezirk - beantwortet
+- TOP 6.14: Ersatzvornahme bzw. Mängelbeseitigung im Zuge der Rehabilitation der G87 - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Verwendung der 600 000 Euro für Integrationsprojekte - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Zukunft der Maaßenstraße - Bürgerwünsche berücksichtigen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Fußwege verbreitern! - überwiesen
+- TOP 9.3: Neues Multifunktionsbad nach Helene Lewissohn benennen - überwiesen
+- TOP 9.4: Ampelschaltung anpassen - überwiesen
+- TOP 9.5: Aus Jugendeinrichtungen keine Abschiebungen vollziehen - überwiesen
+- TOP 9.6: Sichere Schulwege für unsere Kinder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Falls Dringlichkeit beschlossen: Vergabe von Sondermitteln – FC Viktoria 1889 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 12: Yorckbrücke Nr. 5: Rad- und Fußwegüberquerung ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13.1: Aufstellung einer Vorschlagsliste für ehrenamtliche Richter_innen am Landessozialgericht Berlin-BRandenburg für die Geschäftsjahre 2016 bis 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Wahl der Sozialkommissions-/ Sondersozialkommissionsmitglieder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: Lärm reduzieren, Sicherheit erhöhen - ein Verkehrskonzept für die B 96 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Lärm reduzieren, Sicherheit erhöhen - ein Verkehrskonzept für die B 96 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Intranet Anschluss für die Bezirksverordneten einrichten ! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Wahlbeteiligung zur Seniorenvertretung steigern – Seniorenarbeit sichtbarer machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Fahrradfreigabe auf dem Wittenbergplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Beschlussempfehlung zum Bezirkshaushaltsplan 2012/2013 - Teilplan 2013 - - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Neu-Tempelhofer Anwohner nachhaltig vor Verkehrsbelastungen schützen - überwiesen
+- TOP 14.8: Quo vadis Bahnhofstraße? Geweckte Erwartungen nicht enttäuschen, Planungsprozesse transparent gestalten! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.9: Weiterführung des Fahrradwegs aus dem Cheruskerpark - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.10: Runder Tisch für obdachlose Menschen in Tempelhof-Schöneberg - überwiesen
+- TOP 14.11: Verkehrssituation verbessern - hier: Absolutes Halteverbot Motzener Straße verlängern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.12: Flughafengebäude - Bezirk nicht weiter außen vor lassen - überwiesen
+- TOP 14.13: Benennung des Grünzugs Torgauer Straße nach Annedore Leber - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.14: Fußgängersicherheit an der BAB-Anschlussstelle Saarstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.15: Gewerbegebiete für Handwerk sichern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.16: Perspektiven für den Ganztagsbetrieb am Rückert-Gymnasium - überwiesen
+- TOP 14.17: Volksentscheid achten - vorhandene Möglichkeiten nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.18: Mehr Geschwindigkeitskontrollen in Tempo 30-Zonen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.19: Vorhandenen Leerstand von Gewerbegebäuden zur Unterbringung von Obdachlosen und Flüchtlingen nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.20: Glyphosat verbannen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.21: Dorfteich Marienfelde vor dem Austrocknen bewahren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.22: Verbleib von Harmonie e.V. in den Räumen in der Katzlerstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.23: Externe Unterstützung für das Ordnungsamt sichern - Produktentwicklung und Konzeptplanung vorlegen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.24: Nutzungsstatut Maaßenstraße überarbeiten - überwiesen
+- TOP 14.25: Gedenkstein für Friedrich Küter aufarbeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.26: Geschwindigkeitsbegrenzung in der Grunewaldstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.27: Gartendenkmale angemessen unterhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.28: Luise-Henriette-Schule: Kunst-am-Bau-Wettbewerb - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.29: Wiedereröffnung der Gerhart-Hauptmann-Bibliothek im Rathaus Friedenau 2016 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.30: Fußgängerfurten Fritz-Elsas Ecke Innsbrucker Straße freihalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.31: Zusätzliche Räume für die Nachmittagsbetreuung am Schulhort - überwiesen
+- TOP 14.32: Wohnungsbau in der Monumentenstraße 13f ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.33: Beschluss des Landesjugendhilfeausschuss zu Kita und Flucht - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.34: Tierschutz auf Tempelhof-Schöneberger Flächen sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.35: Sitzbänke auf dem Grazer Platz instand setzen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.36: Beschluss des von der AG SRO erarbeiteten und verabschiedeten Maßnahmenplans für die BZR Tempelhof - überwiesen
+- TOP 14.37: Öffentliche Plätze für öffentliche Nutzung! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.38: Berlin wächst - Höheren Anforderungen dynamisch begegnen - überwiesen
+- TOP 14.39: Auswirkungen der Haushaltssperre - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.40: Benennung eines öffentlichen Weges in Mariendorf sowie des dazugehörigen Steges über den Teltowkanal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.41: Umgestaltung des Sitzungsraumes in der Strelitzstraße 15 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.42: Reparaturen auf dem hinteren Schulhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.43: Reparatur der Weitsprunganlage - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.44: Der kaputte Fußballplatz der Scharmützelsee-GS - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.45: Grünfläche für die Anwohnerinnen und Anwohner akzeptabel gestalten - überwiesen
+- TOP 14.46: Wohnungsbau ermöglichen - Votum des Ausschusses für Stadtentwicklung umsetzen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.47: Bessere Pflegebedingungen bei Vivantes - überwiesen
+- TOP 14.48: Verkehrssicherheit für Kinder durch Tempo 30 und Bodenschwellen bzw. Fahrbahnkissen gewährleisten! - überwiesen
+- TOP 15: Termin der nächsten Sitzung - (offen)
