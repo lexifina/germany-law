@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-09-21T15:00:00+02:00
+- Ende: 2016-09-21T18:33:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3270
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3270
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 16. Sitzung des Rates am 16.06.2016 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 17. Sitzung des Rates am 20.07.2016 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3: Bericht zur Umsetzung des Haushaltssanierungsplans zum 30.06.2016 - Kenntnisnahme
+- TOP 4: 11. Konferenz der Ratsmitglieder beim Städtetag NRW am 14.12.2016 in Köln - Einstimmiger Beschluss
+- TOP 5: Jahresabschluss der Stadtsparkasse 2015 - Einstimmiger Beschluss
+- TOP 6: Entlastung Sparkassenorgane 2015 - Einstimmiger Beschluss
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 8: Jahresabschluss 2015 - Kenntnisnahme
+- TOP 9: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2016 - Kenntnisnahme
+- TOP 10: Überplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 11 030 10 - Abwasser - Einstimmiger Beschluss
+- TOP 11: Satzung über die mags Mönchengladbacher Abfall-, Grün- und Straßenbetriebe - Mit Stimmenmehrheit beschlossen
+- TOP 12: Beteiligung an der DigiHub - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 12.1: Beteiligung an der DigiHub - Zur Kenntnis genommen
+- TOP 13: Anpassung Gesellschaftsvertrag Kommunalholding - Einstimmiger Beschluss
+- TOP 14: Fortschreibung des Rettungsdienstbedarfsplans - Einstimmiger Beschluss
+- TOP 15: Satzung Kostenersatz Feuerwehr - Einstimmiger Beschluss
+- TOP 16: Auflösung des Zweckverbandes IT-Kooperation Rhein-Ruhr - Einstimmiger Beschluss
+- TOP 17: Städtische Flüchtlingseinrichtungen; Weiterentwicklung der Infrastrukturen - Kenntnisnahme
+- TOP 18: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 19: Schulorganisatorische Maßnahme im Primarbereich - Einstimmiger Beschluss
+- TOP 20: Festlegung von weiteren Schulen mit dem Angebot zum Gemeinsamen Lernen - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 21: Integrierte Stadtteil- und Quartiersarbeit - Mit Stimmenmehrheit beschlossen
+- TOP 22: Änderung der Betriebskostenförderung der Jugendfreizeitstätten der Freien Träger und entsprechende Ä - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 23: Leistungsvereinbarung mit dem SkF zu Familienpaten - Mit Stimmenmehrheit beschlossen
+- TOP 24: Verlängerung der Leistungsvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchengladbach e - Einstimmiger Beschluss
+- TOP 25: Auslaufende Leistungsvereinbarung zum 30.09.2016 mit der Diakonisches Werk gGmbH über die Sozialpäda - Einstimmiger Beschluss
+- TOP 26: Leistungsvereinbarung mit der Diakonisches Werk Mönchengladbach gGmbH über die Sozialpädagogische Be - Einstimmiger Beschluss
+- TOP 27: Leistungsvereinbarung Drogenberatung - Mit Stimmenmehrheit beschlossen
+- TOP 28: Leistungsvereinbarung Brennpunktprojekt - Mit Stimmenmehrheit beschlossen
+- TOP 29: Leistungsvereinbarung AIDS - Mit Stimmenmehrheit beschlossen
+- TOP 30: Schiedsamtswahl West/1 - Einstimmiger Beschluss
+- TOP 31: ÖPNV-Linienkonzept für den neuen Nahverkehrsplan (HSP 2012-0183) - Mit Stimmenmehrheit beschlossen
+- TOP 32: LAP 2. Stufe - Mit Stimmenmehrheit beschlossen
+- TOP 33: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2016 - Ohne Abstimmung
+- TOP 33.1: Vergabe der Mittel "Wohnumfeldverbesserung bei bürgerschaftlichem Engagement" für das Jahr 2016 (Vor - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 34: Vorkaufsrechtssatzung City Ost - Einstimmiger Beschluss
+- TOP 35: Verein „Metropolregion Rheinland e.V.“ - Mit Stimmenmehrheit beschlossen
+- TOP 36: 222. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 37: Bebauungsplan Nr. 775/W - Stadtbezirk West - Hehn - Mit Stimmenmehrheit beschlossen
+- TOP 38: 50. Nachtrag zur Entwässerungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 39: Stellungnahme der Stadt zum Entwurf des neuen Regionalplanes - Mit Stimmenmehrheit beschlossen
+- TOP 40: Zweckverband Naturpark Schwalm-Nette - Einstimmiger Beschluss
+- TOP 41: Schwalmverband - Einstimmiger Beschluss
+- TOP 42: Netteverband - Einstimmiger Beschluss
+- TOP 43: Niersverband - Einstimmiger Beschluss
+- TOP 44: RWE-Aktien - Mit Stimmenmehrheit abgelehnt
+- TOP 44.1: RWE-Aktien (Änderungsantrag) - Mit Stimmenmehrheit abgelehnt
+- TOP 45: Zukunft des Rathauses Giesenkirchen - Mit Stimmenmehrheit beschlossen
+- TOP 45.1: Änderungsantrag zur Vorlage Nr. 1805/IX: Zukunft des Ratshauses Giesenkirchen - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Instandsetzung von Spielplätzen im Stadtbezirk West - Mit Stimmenmehrheit abgelehnt
+- TOP 46.1: Anfrage von RF Brombeis zur Vorlage 1793/IX zum TOP 46 der Ratssitzung vom 21.09.2016 - Zur Kenntnis genommen
+- TOP 47: Modernisierung des städtischen Hausbesitzes - Mit Stimmenmehrheit beschlossen
+- TOP 48: Die Stadtverwaltung, vertreten durch den Oberbürgermeister, lädt die GAYCOM für das Jahr 2017 nach M - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 49: Pilotprojekt Mitternachtssport - Verweisung in zuständige Fachausschüsse
+- TOP 50: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 51: Umbesetzungen - Einstimmiger Beschluss
+- TOP 52: Anfragen und Mitteilungen
+- TOP 52.1: Anfrage von RH Schultz (DIE LINKE) zum Bau eines Kauflands in MG-Holt
+- TOP 52.2: Anfrage von RH Schultz (DIE LINKE) zum Haus Westland
+- TOP 52.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zu kommunalen Handlungskonzepten gegen Rechtsextremismus
+- TOP 52.4: Anfrage von RF Yildirim (DIE LINKE) zum Schulwegeplan
+- TOP 52.5: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zu Altersrenten
