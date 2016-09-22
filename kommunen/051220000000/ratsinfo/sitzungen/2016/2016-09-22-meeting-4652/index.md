@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-09-22T17:00:00+02:00
+- Ende: 2016-09-22T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZegoeMCMoMjxZ-b5VbwDu-o
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4652
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVQ75Pu1PZqmqmuQsxuLz5lxoL-xAch5Cd_76brgM-TB/Oeffentliche_Niederschrift_Rat_22.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll der 16. Sitzung des Rates am 23.06.2016
+- TOP 3: Vorschlag für eine en-bloc-Abstimmung
+- TOP 4: Wiederwahl des Stadtdirektors Hartmut Hoferichter unter erneuter Bestellung zum allgemeinen Vertreter des Oberbürgermeisters
+- TOP 5: Einbringung des Haushaltsentwurfes für das Jahr 2017
+- TOP 6: Beirat Untere Landschaftsbehörde
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Metropolregion Rheinland - Mustervorlage für die zu beteiligenden Gremien in den Kommunen/Kammern
+- TOP 9: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf,
+- TOP 10: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf, erneute Stellungnahme der Stadt Solingen
+- TOP 11: Ausbauplanung Kindertagesbetreuung 2025 1. Fortschreibung
+- TOP 12: Neubauplanungen für die Gesamtschule Höhscheid
+- TOP 13: Neubauplanungen für die Gesamtschule Höhscheid
+- TOP 14: Bekenntnis der Stadt Solingen zum Mehrgenerationenhaus
+- TOP 15: Vergnügungssteuersatzung der Klingenstadt Solingen für das Vermitteln oder Veranstalten von Pferde- und Sportwetten in Einrichtungen
+- TOP 16: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 17: Anpassung privatrechtlicher Nutzungsentgelte für die Vermietung und Verpachtung von unbebautem städtischen Grundbesitz
+- TOP 18: Solingen Burg: Integriertes Stadtteilentwicklungskonzept Satzung über die förmliche Festlegung des Sanierungsgebietes Solingen-Burg
+- TOP 19: Bauleitplanung Focher Straße/ Nümmener Feld
+- TOP 20: Bauleitplanung Keldersstraße/ Forststraße
+- TOP 21: Bauleitplanung Piepersberg-West/ Arena Bergisch-Land
+- TOP 22: Bauleitplanung Neuenhofer Straße/ Erfer Straße
+- TOP 23: Bauleitplanung Goudastraße
+- TOP 24: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 25: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 26: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 27: Bauleitplanung Eckstumpf
+- TOP 28: Entwidmung eines Teiles des Stadtfriedhofes Vogelsang
+- TOP 29: Aufhebung der Satzung der Stadt Solingen über die Ernennung von Beamten auf Zeit
+- TOP 30: Verschiedenes
+- TOP 31: Bescheinigung für nach Solingen geflüchtete Menschen
+- TOP 32: Vergabe des Rettungsdienstes
+- TOP 33: Bienen als wichtiger Bestandteil unseres Bio- und Ökosystems
+- TOP 34: Event-Arena (Arena Bergisch Land)
+- TOP 35: Mitgliedschaft im Bündnis "Mayors for peace" (Bürgermeister für den Frieden)
+- TOP 36: Vergabe Rettungsdienstleistungen an den Arbeiter-Samariter-Bund (ASB)
+- TOP 37: Barrierefreie Stadt
+- TOP 38: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Quartal 2016
+- TOP 39: Tätigkeitsbericht des Seniorenbeirats der Stadt Solingen für 2015/2016
+- TOP 40: Haushaltsverfügung für das Jahr 2016
+- TOP 41: Stilllegung der belgischen Atomkraftwerke Tihange und Doel –Aktueller Sachstand, Auskunftsersuchen an die EU-Kommission
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll der 16. Sitzung des Rates am 23.06.2016
+- TOP 3: Betrauung der Musikschule Solingen GmbH (MSS) mit der gemeinwirtschaftlichen Verpflichtung der Förderung der musikalischen und weiteren künstlerischen Bildung und Erziehung von Kindern, Jugendlichen und Erwachsenen
+- TOP 4: Änderung des Gesellschaftsvertrages der Kunstmuseum Solingen Betriebsgesellschaft mbH - Vorberatung eines Gesellschafterbeschlusses
+- TOP 5: Erwerb eines Geschäftsanteils der Verband der kommunalen RWE-Aktionäre GmbH durch die BSG
+- TOP 6: Bauleitplanung Goudastraße
+- TOP 7: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 8: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 9: Verschiedenes
+- TOP 10: RWE Aktien
+- TOP 11: Beirat Solinger Kunst-Stiftung
