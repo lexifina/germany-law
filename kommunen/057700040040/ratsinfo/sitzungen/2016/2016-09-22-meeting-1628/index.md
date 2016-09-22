@@ -1,0 +1,53 @@
+# Rat (17. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2016-09-22T17:00:00+02:00
+- Ende: 2016-09-22T19:30:00+02:00
+- Ort: Gymnasium Rahden, Freiherr-vom-Stein-Straße 5, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcbMByXkNUvVBNIXBTufQdM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1628
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYPdTnV1LxkPrp638z-j2o2I55pSO3G1yRSLV-LXft3/Bekanntmachung_Rat_22.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQlS_Ku9EFNSMD-gHfA1Kn4Okmsa3WnLgupXcNXIomjd/Oeffentliche_Niederschrift_Rat_22.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Gesellschaftsvertrag und Beteiligung der MHV an der OWL Verkehr GmbH - Einstimmig, 0 Enthaltungen
+- TOP 5.: Umsetzung des Breitband - Masterplans für den Kreis Minden-Lübbecke; hier: Abschluss der Kooperationsvereinbarung und Bereitstellung des kommunalen Eigenanteils - Einstimmig, 0 Enthaltungen
+- TOP 6.: Erlass einer Außenbereichssatzung "Lemförder Straße" gemäß § 35 Abs. 6 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über die im Rahmen der öffentlichen Auslegung und der Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange zum Sat- zungsentwurf vorgebrachten Anregungen b) Beratung und Beschlussfassung über den Satzungsbeschluss - 32 Stimmen dafür, 0 dagegen, 2 Enthaltungen (G. Meyer/Thielemann)
+- TOP 7.: 7. vereinfachte Änderung des Bebauungsplanes Nr. 15 "Gewerbegebiet Ost" der Stadt Rahden; hier: Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 8.: 11. vereinfachte Änderung des Bebauungsplanes Nr. 34 "Mühlendamm" der Stadt Rahden; hier: Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 9.: Antrag der CDU-Fraktion zum Neubau des Geh-/ Radweges an der Mindener Straße - Einstimmig, 0 Enthaltungen
+- TOP 10.: Antrag auf Änderung der Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 (Friedhofssatzung) - Ohne Abstimmung
+- TOP 11.: Aufgabenübertragung an die Kommunale Versorgungskasse Westfalen-Lippe - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bestellung von Wildschadenschätzern - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bestellung eines Ortsheimatpflegers für die Ortschaft Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bekanntgaben
+- TOP 14.1: Haushalt 2017
+- TOP 15.: Verschiedenes
+- TOP 15.1: Ergebnisse des Rundganges mit Rollatoren durch die Rahdener Innenstadt
+- TOP 15.2: WC Ortgies Parkplatz
+- TOP 15.3: Arbeitskreis "Ehrenamtskarte"
+- TOP 15.4: Löschgruppe Varl
+- TOP 15.5: Antrag auf Stadtverschönerung
+- TOP 15.6: Seniorenbeauftragter der CDU Fraktion
+- TOP 15.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.8: Öffentliches WLAN
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 16.: Beschaffung eines Löschgruppenfahrzeuges (LF 10) für die Löschgruppen Sielhorst/Varl; hier: Auftragsvergabe - Einstimmig, 0 Enthaltungen
+- TOP 17.: Grundstücksangelegenheiten
+- TOP 17.1: Grundstücksangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 17.2: Veräußerung von städtischen Gewerbeflächen im Gewerbegebiet Ost - Einstimmig, 0 Enthaltungen
+- TOP 17.3: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden-Süd - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bekanntgaben
+- TOP 19.: Verschiedenes
+- TOP 19.1: Klausurtagung
+- TOP 19.2: Arbeitskreis "Schulentwicklungsplanung für die Grundschulen der Stadt Rahden"
+- TOP 19.3: Richtfest für den Rathausneubau
+- TOP 19.4: Feuerwehrgerätehaus Varl/Sielhorst
