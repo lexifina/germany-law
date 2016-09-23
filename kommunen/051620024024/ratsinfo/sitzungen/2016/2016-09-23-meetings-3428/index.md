@@ -1,0 +1,79 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2016-09-23T16:05:00+02:00
+- Ende: 2016-09-23T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Prüfung des Jahresabschlusses und der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) 2014 - einstimmig zugestimmt
+- TOP 7: Vermietungspreise in Räumlichkeiten von offenen Kinder- und Jugendeinrichtungen, die sich in Gebäude - verwiesen
+- TOP 8: Bergheimer Straße zwischen Dreikönigenstraße und Kantstraße: Straßenwiederherstellung nach Kanalbau - mehrheitlich zugestimmt
+- TOP 9: Rheydter Straße - Umbau der Nebenanlage im Bereich der Häuser Nr. 82 - 94 - einstimmig zugestimmt
+- TOP 10: Bismarckstraße und Stauffenbergstraße: Straßenwiederherstellung nach Kanalbau - einstimmig zugestimmt
+- TOP 11: Feststellung des Jahresabschlusses 2015 der Liegenschaften und Vermessung Neuss (LVN) sowie Beschlus - einstimmig zugestimmt
+- TOP 12: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Dienstreisegenehmigung Expo Real vom 04. - mehrheitlich zugestimmt
+- TOP 13: Grundsätze für weitere Darstellungen von Wohnbauland im neuen Flächennutzungsplan - einstimmig zugestimmt
+- TOP 14: vBP 368/1 - Furth-Süd, Katharina-Braeckeler Straße - Auslegung - einstimmig zugestimmt
+- TOP 15: Vorhabenbezogener Bebauungsplan Nr. V 109/6 – Vogelsang, Römerstraße – Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 16: Bebauungsplan Nr. V 113/2 – Sophienstraße - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 17: BP 475 Kita Weckhoven - Auslegung - einstimmig zugestimmt
+- TOP 18: Weckhoven Querungshilfe Kita - einstimmig zugestimmt
+- TOP 19: BP 476 - Leuchtenberg - Aufstellung - einstimmig zugestimmt
+- TOP 20: Plankstraße - Querungshilfe, barrierefreier Ausbau - einstimmig zugestimmt
+- TOP 21: Viktoriastraße - Umgestaltung im Nachlauf von Kanal- und Straßensanierungsarbeiten - einstimmig zugestimmt
+- TOP 22: Umbau Kanalstraße - abgesetzt
+- TOP 23: Bebauungsplan Nr. 465 – Uedesheim, Kreuzfeld – - einstimmig zugestimmt
+- TOP 24: Innenstadtstärkungsprogramm - Beschlüsse über Maßnahmen - mehrheitlich zugestimmt
+- TOP 25: Umbau Freithof - Außengastronomie Schwan - einstimmig zugestimmt
+- TOP 26: Umbau Freithof - westlicher Platzbereich - mehrheitlich zugestimmt
+- TOP 27: Festellung des Jahresabschlusses 2013 - einstimmig zugestimmt
+- TOP 28: Begrenzung der Klassenstärke für GL-Schulen auf 25 SuS gemäß § 46 Abs. 3 SchulG - einstimmig zugestimmt
+- TOP 29: Genehmigung der Dringlichkeitsentscheidung Nr. 94.: Ausbau Bergheimer Str., Friedrich-Ebert Platz un - mehrheitlich zugestimmt
+- TOP 30: Einbringung des Jahresabschlusses 2015 - einstimmig zugestimmt
+- TOP 31: Einbringung Haushaltsplan 2017 - einstimmig zugestimmt
+- TOP 32: Einrichtung einer Arbeitsgruppe Konsolidierung - mehrheitlich zugestimmt
+- TOP 33: 11. Konferenz der Ratsmitglieder beim Städtetag NRW - einstimmig zugestimmt
+- TOP 34: Neuss-Düsseldorfer Häfen GmbH & Co. KG – Neuregelung der Vertretung in den Gesellschafterversammlung - zur Kenntnis genommen
+- TOP 35: Vertretung der Stadt Neuss in der Neuen Hanse (Hansekommission) - einstimmig zugestimmt
+- TOP 36: Antrag der AfD-Fraktion betr.: Finanzielle Unterstützung von Kitty e.V. - mehrheitlich abgelehnt
+- TOP 37: SPD: Teilnahme am Präventionsprojekt "Kein Kind zurücklassen" - verwiesen
+- TOP 38: UWG/BIG: Haftpflichtversicherung für Asylbewerber und Flüchtlinge - mehrheitlich abgelehnt
+- TOP 39: CDU: Politische Beteiligung stärken - einstimmig zugestimmt
+- TOP 40: CDU/Grüne: IKPS Gutachten umgehend zur Verfügung stellen - zur Kenntnis genommen
+- TOP 41: CDU/Grüne: Kommunalen Servicedienst stärken - einstimmig zugestimmt
+- TOP 42: CDU/Grüne: Sirenen wieder einführen - mehrheitlich abgelehnt
+- TOP 43: CDU/Grüne: Freiwillige Feuerwehr stärken - einstimmig zugestimmt
+- TOP 43.1: Antrag der Fraktion UWG/BIG - Versicherung für die Gebäude der Stadt Neuss - verwiesen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Anfrage Dr. Weinert betr. Feuerwehrausfahrt Hammfeld - zur Kenntnis genommen
+- TOP 46: Anfrage Dr. Weinert: Bevorrechtigung ÖPNV - zur Kenntnis genommen
+- TOP 47: Anfrage Hoff betr. Dachbegrünung - zur Kenntnis genommen
+- TOP 48: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52: Umstrukturierung und Optimierung des Bürgeramtes - zur Kenntnis genommen
+- TOP 53: Handlungsrahmen preisgünstiger Wohnraum in Neuss 2030 - zur Kenntnis genommen
+- TOP 54: Sitzungskalender des Rates und der Ausschüsse 2017 - zur Kenntnis genommen
+- TOP 55: Neusser Transparenz- und Steuerungskodex: Änderung des Gesellschaftsvertrages der Stadtwerke Neuss - zur Kenntnis genommen
+- TOP 56: Ziele und Kennzahlen - zur Kenntnis genommen
+- TOP 57: Klimaanpassungskonzept für Neuss - zur Kenntnis genommen
+- TOP 58: Kenntnisnahme üpl./apl. Aufwendungen und Auszahlungen I.+II./2016 - zur Kenntnis genommen
+- TOP 59: Bericht zur aktuellen Flüchtlingssituation in Neuss - zur Kenntnis genommen
+- TOP 59.1: Mitteilung der Verwaltung zum Antrag der Fraktionen CDU und BÜNDNIS 90/DIE GRÜNEN betr.: Sirenen - zur Kenntnis genommen
+- TOP 59.2: Mitteilung der Verwaltung zum Antrag der Fraktionen CDU und BÜNDNIS 90/DIE GRÜNEN betr.: Freiwillige - zur Kenntnis genommen
+- TOP 60: Einwohnerfragestunde - zur Kenntnis genommen
