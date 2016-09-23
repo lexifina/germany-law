@@ -1,0 +1,64 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2016-09-23T16:00:00+02:00
+- Ende: 2016-09-24T22:00:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZwIBVR7sOHZ1ZIPpFwvufA
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3323
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSBrdJh6NIFyJBz2vBeYAN5907gjHfOnQdbZYko5J8ot/Einladung_Rat_23.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQgNM45Gi6GHyZPl4KMVhpQz4_2FRgs7FfN6YEOPv0sy/Oeffentliche_Niederschrift_Rat_23.09.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift der öffentlichen Teile der Sitzungen des Rates vom 24.06.2016 und 30.06.2016
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Umstrukturierung der Herforder Versorgungs- und Verkehrs- Beteiligungs- GmbH (HVV): Ergebnisse des IKS- Gutachtens der KSB INTAX Treuhand GmbH
+- TOP A.5b: Gutachten “Status quo und Entwicklungen der SWK Servicegesellschaft für Wirtschaft und Kommunen mbH aus rechtlicher und wirtschaftlicher Perspektive“
+- TOP A.5c: MHV GmbH: Beteiligung an der OWL Verkehr GmbH - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5d: MHV GmbH: Mitteilung zur Gründung der WestfalenTarif GmbH
+- TOP A.5e: Beteiligungsbericht 2015 / 2016
+- TOP A.5f: Bericht aus dem Beteiligungscontrolling: Jahresprognose 2016
+- TOP A.5g: Jahresabschluss 2015 des Immobilien- und Abwasser-Betriebes Herford Feststellung, Ergebnisverwendung, Entlastung für das Wirtschaftsjahr 2015 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5h: Beteiligung weiterer kommunaler Gesellschafter an der Westfalen Weser Energie GmbH & Co. KG; Änderung der Gesellschafsverträge - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5h: Beteiligung weiterer kommunaler Gesellschafter an der Westfalen Weser Energie GmbH & Co. KG; Änderung der Gesellschafsverträge - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5i: Spendenverfahren der HVV GmbH betr.: Verwendung von Spenden der HVV GmbH für den Kulturbereich
+- TOP A.5j: Spendenverfahren der HVV GmbH: betr.: Anträge über das Spendenverfahren der HVV GmbH, betreffend den Bereich Soziales
+- TOP zu TOP A.5i u.j: Antrag der Fraktion B90/DIE GRÜNEN zu den Spendenverfahren der HVV GmbH
+- TOP B.2a: Besetzungsverfahren Geschäftsführung Kultur gGmbH - Bei 1 Enthaltung und 17 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.6: 2. Situationsbericht zur Haushaltswirtschaft 2016
+- TOP A.7: Vorlage zum Stand der Umsetzung des Haushaltsbegleitbeschlusses 2016
+- TOP A.8: Durchführung des Ostervolksfestes im Bereich "Auf der Freiheit/Janup" - Bei 22 Ja-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.9: Umsetzung der gesetzlichen Neuregelung der Umsatzbesteuerung der juristischen Personen des öffentlichen Rechts (§ 2b Umsatzsteuergesetz - UStG) zum 01.01.2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10: Archäologisches Fenster am Münster - Bei 4 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.11: Anpassung der Stiftungssatzung der Menge-Stiftung an die Mustersatzung gem. Anlage 1 zu § 60 Abgabenordnung (AO) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Neubesetzung der Einigungsstelle nach dem Landespersonalvertretungsgesetz (LPVG) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Beschlussantrag der Fraktion B90/DIE GRÜNEN zum TOP A.12
+- TOP A.13: Fördermaßnahmen nach dem Kommunalinvestitionsförderungsgesetz (KInvFG) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Projekt Markthalle, Sachstandsbericht
+- TOP A.15: Gründung des Vereins Westfälischer Hansebund e.V. - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.16: Wahl einer Schiedsperson für den Schiedsamtsbezirk Herford I - Bei 5 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.17: Wahl einer Schiedsperson für den Schiedsamtsbezirk Herford II - Bei 5 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.18: Verlust des Ratsmandats eines Herforder Ratsmitglieds aufgrund des Wegfalls der Wählbarkeitsvoraussetzungen - Bei 10 Enthaltungen und ohne Nein-Stimme wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.19: Änderung der Satzung über die Errichtung und Unterhaltung von städtischen Unterkünften für Wohnungslose der Stadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.20: Einfacher Bebauungsplan Nr. 7.64 "Kurfürstenstraße" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Bebauungsplan Nr. 12.39 „Vlothoer Straße-Süd / Wentworth-Kaserne“ hier: Anordnung einer Veränderungssperre - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22: Bebauungsplan Nr. 12.17 „Ulmenstraße“ Änderung Nr. 5.15 hier: Anordnung einer Veränderungssperre - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Vorhabenbezogener Bebauungsplan Nr. 7.65 „Oberste Kamp“ hier: Satzungsbeschluss - Bei 2 Nein-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.24: Bebauungsplan Nr. 12.38 „Vlothoer Straße-Nord / Hammersmith-Kaserne“ hier: Anordnung einer Veränderungssperre - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.25: Bebauungsplan Nr. 10.44 "Klinikumsgelände Auf dem Dudel" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.26: Änderungsbebauungsplan Nr. 4.16 des Bebauungsplanes Nr. 7.49a Änderung 1.09 „Wittekindstraße“ hier: Satzungsbeschluss - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.27: Gremienbesetzung:
+- TOP A.27a: Gremienbesetzung Sportausschuss, Antrag des Stadtsportverbands Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.28: Förderprogramm "Gute Schule 2020" des Landes NRW - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29: Antrag der SPD-Fraktion: Vorbereitung auf das Förderprogramm "Gute Schule 2020" (hier eingegangen am 19.07.2016) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.30: Antrag der Fraktion B90/DIE GRÜNEN zum Thema "Ostwestfälisch-lippische Regiopolregion" (hier eingegangen am 06.09.2016)
+- TOP A.30a: Regiopolregion Bielefeld: Erste Projekte
+- TOP A.31: Antrag der CDU-Fraktion zum Thema "Bericht des Bürgermeisters zur Situation der Wirtschaftsförderung im Hinblick auf die Zusammenarbeit mit dem Kreis Herford (Wirtschaftsförderungsgesellschaft)" hier eingegangen am 07.09.2016
