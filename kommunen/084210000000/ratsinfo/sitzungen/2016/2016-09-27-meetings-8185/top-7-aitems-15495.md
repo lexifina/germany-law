@@ -1,0 +1,8 @@
+# TOP 7: Neugestaltung Frauenstraße Süd
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt (2016-09-27)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/15495
+- Ergebnis: Kenntnis genommen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/5901
