@@ -1,0 +1,58 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-09-27T16:00:00+02:00
+- Ende: 2016-09-27T17:10:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11405
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11405
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275589.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275589.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275589.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 4: Haushaltsplanberatung
+- TOP 4.1: Haushalt 2017 - Erhöhung der Mittel zur Grünpflege
+- TOP 4.2: Haushalt 2017 - Aufstellung von Fahrradboxen für den S-Bahnhof Hellerhof
+- TOP 4.3: Haushalt 2017 - Rücknahme der Kürzung der Bauunterhaltungsmittel
+- TOP 5: Berichte und Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2017
+- TOP 5.4: Weihnachtsmarkt auf dem Parkplatz Carlo-Schmidt-Straße
+- TOP 5.5: Verfügungsmittel der Bezirksvertretung 10, Joyful Voices e.V.
+- TOP 5.6: Verfügungsmittel der Bezirksvertretung 10, Tafelausgabe
+- TOP 5.7: Verfügungsmittel der Bezirksvertretung 10, Hellerhofer Sportverein e.V.
+- TOP 5.8: Verfügungsmittel der Bezirksvertretung 10
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen
+- TOP 6.1: Baurechtliche oder anderweitige Ausweisung des Grundstücks südwestlich "Am Kapeller Feld" und nördli
+- TOP 6.2: Grundwasserstand und Grundwassermessstelle in Hellerhof
+- TOP 6.3: Entschärfung/Erweiterung des Kreuzungsbereiches Frankfurter Straße- Rostocker Straße
+- TOP 6.4: Hygienemaßnahmen Sandspielplätze
+- TOP 6.5: Überdachung von Bushaltestellen im Stadtbezirk
+- TOP 7: Anträge
+- TOP 7.1: Fuß-/Radweg Paul-Bonatz-Straße
+- TOP 7.2: Reinigung von Gullys in Garath Süd-West
+- TOP 7.3: Kennzeichung der Verkehrsinsel Frankfurter Str./Matthias-Erzberger-Str. mit reflektierenden Bordstei
+- TOP 7.4: Jugendratswahl
+- TOP 7.5: Überprüfung der Feuerwehrzufahrten im Stadtbezirk 10
+- TOP 7.6: Befestigung des Weges Bertha-von-Suttner-Straße
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Sachstand zur Herrichtung einer Multifunktionsfläche im Stadtbezirk 10
+- TOP 8.2: Trinkbrunnen
+- TOP 8.3: Streichung zusätzlicher Arbeitsgemeinschaften, Montessorieschule Emil-Barth-Straße 45
+- TOP 8.4: Vollständige Beantwortung der Anfrage 170/ 103/2016
+- TOP 8.5: Sachstand zur Neugestaltung der Bürgerwiese
+- TOP 8.6: Bau eines umrandeten Kunstrasenkleinfeldes auf dem Gelände der Bezirkssportanlage des Garather SV
+- TOP 8.7: Änderung des Grünordnungsplanes Rostocker Straße / Neustrelitzer Straße
+- TOP 8.8: Grundwasserstand und Grundwassermessstelle in Hellerhof
+- TOP 8.9: Entschärfung/Erweiterung des Kreuzungsbereiches Frankfurter Straße-Rostocker-Straße
+- TOP 9: Verschiedenes
