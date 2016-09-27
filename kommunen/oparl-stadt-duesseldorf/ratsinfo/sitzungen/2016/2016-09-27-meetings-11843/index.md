@@ -1,0 +1,76 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-09-27T17:00:00+02:00
+- Ende: 2016-09-27T20:51:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11843
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11843
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275460.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275460.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275460.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Projekt "Willkommen" im Stadtteil Grafenberg - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Haushaltsentwurf 2017 mit Anlagen - mehrheitlich beschlossen
+- TOP 10.1: Haushalt 2017: Kundenaufzug für die Stadtbücherei Gerresheim - zurückgezogen
+- TOP 10.2: Haushalt 2017: Machbarkeitsstudie für eine Tunnellösung zur Entlastung der Ludenberger Straße - mehrheitlich abgelehnt
+- TOP 10.3: Haushalt 2017: Sportpark "Gerresheim-Süd", Glasmacherviertel - mehrheitlich abgelehnt
+- TOP 10.4: Haushalt 2017: Einrichtung einer Fußgängerbedarfsampel auf der Ludenberger Straße/ "Vor der Hardt" - mehrheitlich abgelehnt
+- TOP 10.5: Haushalt 2017: Rheinbahn-Haltestelle "Knuppertsbrück", Glashüttenstraße Westseite - zurückgezogen
+- TOP 11: Sitzungstermine der Bezirksvertretung 7 im Jahre 2017 - zur Kenntnis genommen
+- TOP 12: 4. Maßnahmenpaket zur Umsetzung schulorganisatorischer Maßnahmen - zur Kenntnis genommen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14: Anbindung Bergische Kaserne - Varianten - - zur Kenntnis genommen
+- TOP 15: Gutachten zur Verkehrserschließung der Bergischen Kaserne - zur Kenntnis genommen
+- TOP 16: Anbindung Bergische Kaserne - Varianten - - mehrheitlich beschlossen
+- TOP 17: Seilbahn zur Erschließung der Bergischen Kaserne mit dem ÖPNV - mehrheitlich beschlossen
+- TOP 18: Streckenführung einer möglichen Seilbahn zur Erschließung der Bergischen Kaserne - mehrheitlich beschlossen
+- TOP 19: Bergische Kaserne – zukünftiges Wohnen für unterschiedliche Bedürfnisse - zurückgezogen
+- TOP 20: LM-Markt Dreherstraße 177/179 - mehrheitlich beschlossen
+- TOP 21: Fahrradverkehr Steinweg und Gerricusplatz - einstimmig beschlossen
+- TOP 22: Übernachtungsplatz für Wohnmobile im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 23: Sicherheit auf der Bertastraße - einstimmig beschlossen
+- TOP 24: Sicherheit für Radfahrer auf dem Zamenhofweg - einstimmig beschlossen
+- TOP 25: Radfahrmöglichkeiten auf der Benderstraße - einstimmig beschlossen
+- TOP 26: Darstellung der Heyestraße - einstimmig beschlossen
+- TOP 27: Altstoffcontainer - einstimmig beschlossen
+- TOP 28: Baumpflanzung am Staufenplatz - einstimmig beschlossen
+- TOP 29: Bürgerbeteiligung nach dem Ratsbeschluss zur Gasbeleuchtung - zur Kenntnis genommen
+- TOP 30: Verfahren zum Erhalt oder zur Umrüstung von bestehenden Gaslaternen im Stadtbezirk 07 - zurückgezogen
+- TOP 31: Gaslaternen - einstimmig beschlossen
+- TOP 32: Anwohnerparken Bergische Landstraße 3-17, 23, 27 und 31, - einstimmig beschlossen
+- TOP 33: Radfahren in Gegenrichtung von Einbahnstraßen - zur Kenntnis genommen
+- TOP 34: Instandsetzungsprogramm Straßen - vertagt
+- TOP 35: Nach den Mauresköthen - Bauhaus - zur Kenntnis genommen
+- TOP 36: Denkmalschutz Gebäude und Freiflächen Bergische Kaserne - zur Kenntnis genommen
+- TOP 37: Einzelhandel Bergische Kaserne - zur Kenntnis genommen
+- TOP 38: Rheinbahn-Haltestelle Sulzbachstraße - zur Kenntnis genommen
+- TOP 39: Rheinbahn-Haltestelle "Neuenhaus", Richtung Mettmann - vertagt
+- TOP 40: Anwohnerparken Bergische Landstraße 3-17, 23, 27 und 31 - zurückgezogen
+- TOP 41: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 42: Marktplatz auf dem Bahnhofsvorplatz - zur Kenntnis genommen
+- TOP 43: High-Tech-Laternen - zur Kenntnis genommen
+- TOP 44: Böschung Bahndamm Zamenhofweg - zur Kenntnis genommen
+- TOP 45: Bänke und Abfalleimer auf dem Trotzhofweg - zur Kenntnis genommen
+- TOP 46: Fuß- und Radweg Bergische Landstraße - zur Kenntnis genommen
+- TOP 47: Fußgängerquerung Torfbruchstraße - zur Kenntnis genommen
+- TOP 48: Sachstandsbericht Renaturierung Pillebach - zur Kenntnis genommen
+- TOP 49: Denkmalschutz Bergische Kaserne Hubbelrath - zur Kenntnis genommen
+- TOP 50: Rahmenplan Einzelhandel 2015 - zur Kenntnis genommen
+- TOP 51: Sicherer Schulweg für die Kinder der Hanna-Zürndorfer-Schule - zur Kenntnis genommen
+- TOP 52: Regionalplan - zur Kenntnis genommen
+- TOP 53: Offener Bücherschrank Heyestraße - zur Kenntnis genommen
+- TOP 54: Abschraffur der Straßenbahngleise auf der Grafenberger Allee - zur Kenntnis genommen
