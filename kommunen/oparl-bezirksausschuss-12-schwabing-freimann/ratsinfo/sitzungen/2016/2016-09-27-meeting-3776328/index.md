@@ -1,0 +1,122 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-09-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776328
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776328
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Neues Domizil der Burschenschaft Danubia Flugblatt an alle Schwabingerinnen und Schwabinger
+- TOP .1.: Einhaltung der Bearbeitungsfrist bei Anträgen der Bezirksausschüsse
+- TOP 1.3.: Anhörungen
+- TOP 9.1.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechttes der Anlage 1 BA-Satzung Ziffer 8.1 Abscnitt Referat für Stadtplanung und Bauordnung: ?Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat? in ein Entscheidungsrecht, BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschuss 16 Ramersdorf-Perlach vom 16.04.2016
+- TOP 9.2.: Bebauungsplan mit Grünordnung NR. XXYY Oettingenstraße 74-80 (östlich), Tivolistraße (südlich) und Theodorparkstraße (westlich) a) Aufstellungsbeschluss, b) BA-Antrag Nr. 08-14 / B 05451 des Bezirksausschusses 01 Altstadt-Lehel vom 10.12.2013
+- TOP 9.3.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils? (Anlage 1 BA-Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht, Änderung des Anhörungsrechtes ?Förderung und Unterstützung von Vereinen, Gruppen und Initiativen? (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht, BA-Antrags-Nr 14-20 / B 01092 des Bezirksausschusses 16 ? Ramersdorf-Perlach vom 16.04.2016
+- TOP 9.4.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten? (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht, BA-Antrags-Nr 14-20 / B 01092 des Bezirksausschusses 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 10: sonstiges
+- TOP 10.1.: Linksabbiegen aus der Dietlinden- in die Kunigundenstraße (Initaitve: Dagmar Föst-Reich)
+- TOP 10.1.: Anni-Albers-Straße, eingeschränktes Haltverbot
+- TOP 4.1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS), Sitzungsvorlagennummer 08-14 / V 09305
+- TOP 4.2.: Schaffung von Kurzzeitparkplätzen am Marchgrabenplatz, Bürgeranliegen vom 14.12.2015, C.4.1-01/16, BA-Antrag 14-20 / B 02671 Referatsschreiben
+- TOP 4.3.: AW Freimann ? B-Plan 2024 (hier: Maria-Probst-Straße), vertagt aus der Sitzung vom 30.08.2016
+- TOP 4.4.: Bebauungsplan Nr. 1982a: Sportgelände an der Ingolstädter Straße, Teil B, Fuß- und Radweg, vertagt aus der Sitzung vom 30.08.2016
+- TOP 4.5.: Aufstellung von Wertstoffcontainern an der Domagkstraße neben dem Interhyp Gebäude (2 Alternativen)
+- TOP 4.6.: Aufstellung von Wertstoffcontainern an der Gertrud-Grunow-Straße (2 Alternativen)
+- TOP 4.1.: Fußgängersituation Grünecker Str. Ecke Domgakstr.
+- TOP 4.2.: Verbesserung der Radwegs-Zuführung von der Innenstadt bis zur Stadtgrenze
+- TOP 4.3.: Verkehrsberuhigung Occamstraße, vertagt aus der Sitzung vom 26.07.2016
+- TOP 4.4.: Vorschlag zur Verkehrsberuhigung und Parkplatzgewinnung (B11, Freisinger Landstraße 74-90)
+- TOP 4.5.: Barrieren am Fuß- / Fahrradweg Weißenhofweg
+- TOP 4.6.: Hinweisbeschilderung für die verschiedenen Hotels an der Tramhaltestelle Anni-Albers-Str. der Linie 23
+- TOP 4.7.: Straßenführung Mandl- / Biedersteinstraße
+- TOP 4.8.: Übervoller Abfalleimer und Sandkiste in der Haimhauserstraße
+- TOP 4.1.: Hinweisschild "Parkstadt Center / Domagkstraße" an der Kreuzung Anni-Albers- / Lyonel Feininger-Straße anbringen
+- TOP 4.2.: Prüfung des Tarifsystems/Kartensystems der MVG, Anfrage 14-20/Q00267 aus der BV des 12. Stadtbezirks
+- TOP 4.3.: Geltende Regelungen für den Naturschutz auf der Fröttmaninger Heide werden durch Infoschreiben bzw. Flyer an die Anwohner sowie im Internet publiziert; BA-Antrags-Nr. 14-20 / B 02447 des BA 12 vom 31.05.2016
+- TOP 4.5.: Brunnen am Wedekindplatz regelmäßig reinigen
+- TOP 4.6.: Wertstoffsammlung im Domagkpark
+- TOP 4.7.: Parkstadt Schwabing, Verlagerung der Sperre der Georg-Muche-Straße während der Bauarbeiten auf W A6, Klärung der künftigen Nutzung der Fläche südlich der Georg-Muche-Straße
+- TOP 4.8.: Station MVG Rad am Nordfriedhof einrichten
+- TOP 4.9.: Kaputte Lampe an der Münchner Freiheit
+- TOP 4.1.: Parklizenzgebiet ?Giselastraße? - Baustellenbedingte Änderung der Mischparkregelung in der Gedonstraße
+- TOP 4.1.: Antwortschreiben des Kreisverwaltungsreferats auf das Bürgeranliegen ?Füchse im Wohngebiet? vom 29.06.2016
+- TOP 4.2.: Bürgeranliegen Einführung der Parklizenzierung für das Wohngebiet Alte Heide vom 29.06.2016
+- TOP 4.3.: -entfällt-
+- TOP 4.4.: Bürgeranliegen Lärmbelästigung durch Waschanlage, Referatsschreiben
+- TOP 4.5.: Information zum Projekt ?Schnelle Radverbindung für den Münchner Norden?mit der Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 21.09.2016
+- TOP 4.6.: Neubau einer Lichtsignalanlage am Knotenpunkt Maria-Probst-Straße / Baumarkt
+- TOP 4.7.: Gleiserneuerung zwischen Münchner Freiheit und Scheidplatz
+- TOP 4.1.: Künstlerische Ausgestaltung der Unterführung Ungerer- / Freystraße (Initiative: Ekkehard Pascoe)
+- TOP 2.1.: Schwabinger Weihnachtsmarkt vom 25.11. bis 24.12.2016 an der Münchner Freiheit
+- TOP 2.2.: 18.jetzt ? Fest junger Erwachsener im Rathaus am 29.10.2016: Teilnahme BA 12?
+- TOP 2.1.: Beeinträchtigung der Anwohner durch das ?Lustspielhaus?
+- TOP 2.1.: Wachdienst im Ankunftszentrum und der Bayernkaserne, BV Anfrage 14-20 / Q 00257
+- TOP 2.2.: Schulsanierung Maximiliansgymnasium, Ausweichquartier, Referatsschreiben
+- TOP 2.3.: Schulbauplanungen im Neubaugebiet auf der ehemaligen Bayernkaserne
+- TOP 2.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 2.1.: Leopoldstraße 48, Schank- und Speisewirtschaft "Via Appia"
+- TOP 2.2.: Bismarckstr. 21, Schank- und Speisewirtschaft "Annapurna"
+- TOP 2.3.: Leopoldstr. 124, Shishabar "BarOn"
+- TOP 2.1.: Festival der Videokunst vom 09. - 24.04.2016, halle50 städtisches Atelierhaus am Domagkpark, Sachbericht
+- TOP 2.2.: Verwendungsnachweis der Initiative ?Videokunst? für das Festival der Videokunst
+- TOP 2.3.: Kurzbericht, Zuschuss aus den Mitteln des BA 12 für das Sommerfest der Seidlvilla am 16.07.2016
+- TOP 2.4.: Verwendungsnachweise a) Domagkateliers b) Farbe und Faden c) Mohr-Villa Freimann e.V. d) KJR München-Stadt, Freizeittreff Freimann e) Seidlvilla
+- TOP 2.5.: Kurzbericht, Zuschuss aus den Mitteln des BA 12 für ?Freifunk für Flüchtlinge?
+- TOP 2.6.: Antwortschreiben der Stadtratsfraktion Bürgerliche Mitte -BAYERNPARTEI / FREIE WÄHLER auf das Schreiben des Bezirksausschusses vom 29.06.2016
+- TOP 2.7.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen, Beschlussvorlage für den Bildungsausschuss vom 14.09.2016, Sitzungsvorlage Nr. 14-20 / V 06885
+- TOP 2.8.: Konzert für einen verurteilten Mörder auf dem Corso Leopold? Stadt stellt Unterstützung ein, Stadtratsantrag Nr. 14-20/A 02428 der ALFA vom 01.09.2016
+- TOP 2.9.: Generalinstandsetzung des Kindergartens Haimhauserstr. 17 ? Kopie des Planungsauftrags
+- TOP 1.2.: Ohmstr. 12, Entscheidung über Sondernutzungserlaubnis (Freischankfläche)
+- TOP 1.3.: Münchner Freiheit 2, Entscheidung über Sondernutzungserlaubnis (Zeitungsentnahmegerät für die ?Concrete Stadtzeitung?)
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Werner-Heisenberg-Allee 25, Allianz Arena München, Gästeeingang West: Neubau eines Parkhauses mit Buspark- und PKW-Stellplätzen einschl. Fußgängerüberführung
+- TOP 1.2.: Schlößlanger 37, TEKTUR- Neubau dreier verbundener Stadthäuser mit Doppelparker + Carport, 1 serbische Fichte
+- TOP 1.3.: Lindenfelser Straße 1, 1 Akazie
+- TOP 1.4.: Floriansmühlstraße 60, Standortentwicklung Freimann (STEFM) ? Neubau Servicecenter mit Parkhaus und Kindertagesstätte, Baumfällungen laut Baumbestandsplan
+- TOP 1.1.: Osterwaldstr. 41, Neubau eines Doppelhauses mit Tiefgarage
+- TOP 1.2.: Helene-Wessel-Bogen 27, Unterbringung von Flüchtlingen ? Nutzungsänderung von Dienstgebäude Nr. 1 in eine Flüchtlingsunterkunft
+- TOP 1.3.: Mehr Grün und Blumen in Münchens Straßen möglich machen, Antrag aus dem Münchner Stadtrat
+- TOP 1.4.: Grammstr. 4, Neubau einer Wohnanlage mit Tiefgarage ? VORBESCHEID (2 Varianten)
+- TOP 1.7.: Simmernstraße 4-8, Abbruch der Dachgeschosse und Neuerrichtung in geänderter Form als Wohngeschosse - VORBESCHEID
+- TOP 1.8.: Leopoldstraße 120, Neuerrichtung eines Hotel-Erweiterungsbaus und Vergrößerung des Frühstücksbereichs im Bestandsgebäudes
+- TOP 1.9.: Werneckstr. 6, Neubau eines Studentenwohnheims mit 12 Appartements
+- TOP 1.10.: Bauleitplanung der Stadt Garching, B-Plan Nr. 173 ?Maier-Leibnitz-Straße/Niels-Bohr-Straße?
+- TOP 1.11.: Städtebauliche Entwicklung Freisinger Landstraße, Neubau einer Dreifach-Sporthalle auf dem Gelände der Turnerschaft Jahn, Empfehlung Nr. 14-20 / E 01018 der Bürgerversammlung am 23.06.2016, Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP 1.12.: Zirbelweg 3, Neubau eines Wohnhauses (2 WE) mit Carport
+- TOP 1.1.: Baumschutzverordnung, geändertes Verfahren zur Kontrolle angeordneter Ersatzpflanzungen BA-Antrags-Nr. 14-20 / B 02445 des Bezirksausschusses 12 ? Schwabing-Freimann vom 31.05.2016
+- TOP 1.2.: Absicherung der Brücke am Ende der Mommsenstraße / Eingang Englischer Garten, Anfrage Nr. 14-20 / Q 00270 aus der Bürgerversammlung des Stadtbezirkes 12 am 14.07.2016
+- TOP 1.5.2.: Genehmigte Baumfällungen
+- TOP 1.1.: Boxberger Straße 6
+- TOP 1.1.: Workshop zur ?Ertüchtigung der vorhandenen öffentlichen Grünflächen? in der Parkstadt Schwabing, Referatsschreiben
+- TOP 1.2.: Gestaltung des Bauhausplatzes, Ergebnis des landschaftsplanerischen und künstlerischen Workshops, Referatsschreiben
+- TOP 1.3.: Feilitzschstr. 25, Antrag auf Erweiterung einer Freischankfläche, Entscheidung des Oberbürgermeisters vom 07.09.2016 nach dem ablehnenden BA-Beschluss vom 27.06.2016
+- TOP 1.4.: Bürgerbeteiligung stärken! Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 21.09.2016, Sitzungsvorlage Nr. 14-20 / V 06615
+- TOP 1.5.: Teilfortschreibung des Landesentwicklungsprogrammes (LEP), Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 21.09.2016, Sitzungsvorlage Nr. 14-20 / V 07001)
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 2: (E) Parkraumüberwachung in Freimann (Ziffer 2 des Antrags)
+- TOP 3: (E) Tempo 30 Zone in der Lützelsteiner Straße in Bezug auf die Parksituation verändern Verkehrsregelung in der Lützelsteiner Straße verändern Fußgängerüberwege Harnierplatz und Völckerstraße 4B (Pkt. 1 und 2 des Antrags) Zwei Halteverbotsschilder am Gehweg Harnierplatz 10 (Pkt. 3 des Antrags)
+- TOP 4: (E) Verkehrsberuhigung Liebergesellstraße / Jungwirthstraße / Keferstraße
+- TOP 1: (E) Poststellenservice in Freimann verbessern Empfehlung Nr. 14-20 / E 01010 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 23.06.2016
+- TOP 2: (E) Schaffung von Kinderbetreuungseinrichtungen im Quartier "Schwabinger Tor"
+- TOP 10.2.: Eilantrag: Stellungnahme zu TOP B.5.1.7, Bewohnerinnen und Bewohner der Parkstadt Schwabing vom Bauverkehr entlasten. Provisorische Sperre an der Lyonel-Feininger-Straße/Marianne-Brandt-Straße sofort errichten ? Nördlichen Stöpsel temporär entfernen. (Initiative: Lars Mentrup)
+- TOP 1: (E) Toilette im Bereich des U-Bahnhofs Freimann Empfehlung Nr. 14-20 / E 01011 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 23.06.2016
+- TOP 2.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 2.2.: Entscheidungen
+- TOP 4.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.6.: entfällt
+- TOP 1.5.3.: Sonstige Unterrichtungen
