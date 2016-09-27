@@ -1,0 +1,7 @@
+# TOP .6.: Neubau Münchner Volkstheater, Planung, Benennung zweier Jurymitglieder aus dem BA2
+
+- Sitzung: BA 02 - Vollgremium (2016-09-27)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/455486
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/455486
