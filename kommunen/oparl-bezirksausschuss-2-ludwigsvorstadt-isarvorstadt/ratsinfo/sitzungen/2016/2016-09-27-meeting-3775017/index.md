@@ -1,0 +1,109 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-09-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3775017
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3775017
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: BA-eigenes Budget: Eröffnungsfeier Kinderspielplatz Lagerhausstraße am 30.09.2016 zusammen mit dem BA 6 Sendling, beantragte Summe aus dem BA eigenen Budget: 350,00 ?
+- TOP .1.: zu 4.3 Stellungnahme BA 2
+- TOP .2.: zu 4.4. Stellungnahme BA 2 zum Informationszentrum Friedhofs- und Bestattungskultur Alter Südlicher Friedhof (als Vorstandsentscheidung am 20.09.2016 an das Referat für Gesundheit und Umwelt versandt)
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Neubau Münchner Volkstheater, Planung, Benennung zweier Jurymitglieder aus dem BA2
+- TOP .7.: Bürgeranliegen, Lärmbelästigung Viehhofgelände, PLENUMSBESCHLUSS
+- TOP .8.: Schwanthalerhöhe, Erhaltungssatzung läuft aus
+- TOP .9.: Straßen- oder Gebäudenennung aller BA-Mitglieder an welchen Orten Fassadenbegrünung oder Straßenbegleitgrün wünschenswert ist, vgl. Vorstellung GREEN City in der BA-Sitzung vom 26.07.2016
+- TOP .1.: Prüfung auf Ensembleschutz für das Dreimühlenviertel
+- TOP .2.: Dreimühlen- und Thalkirchnerstraße; Bitte an den Verein für Volkswohnungen eG um Öffnung des Durchgangs zwischen beiden Straßen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Kohlstraße 5, Isar Gymnasium München, Errichtung eines Außenaufzugs als barrierefreier Zugang (Haus 1/VGB) mit Baumbestandserklärung
+- TOP .2.: Ruppertstraße 5, Schulbauoffensive - Neubau einer Berufsschule für Kinderpflege, einer Fachakademie für Sozialpädagogik, eines Hauses für Kinder mit vier Krippen- und drei Kindergartengruppen, eines Stadtteilkulturzentrums, einer Dreifachsporthalle und einer Tiefgarage mit Vollzug der Baumschutzverordnung
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kapuzinerstraße 5 - 7a, Aufstockung zweier Wohn- und Geschäftshäuser, PLENUMSBESCHLUSS
+- TOP .5.: Schillerstraße 30, Aufstockung 6. OG + DG (Bestand: EG bis 5. OG) für eine Beherbergungsanlage (Apartment-Hotel), PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Zweibrückenstraße 12, Fällungsantrag vom 25.08.2016 einer Robinie, PLENUMSBESCHLUSS
+- TOP .2.: Bavariaring 8, Fällungsantrag vom 18.08.2016 einer Linde, PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS), PLENUMSBESCHLUSS
+- TOP .2.: Landwehrstraße 42; Eine Digital Wandanlage als Ersatz für bestehende Werbeanlage, PLENUMSBESCHLUSS
+- TOP .1.: Bürgeranliegen, Baustelle MVG Bushaltestelle Gärtnerplatz 6
+- TOP .1.: Umgestaltung Holzplatz, vgl. Vertagung TOP 2016.07 C 1.2
+- TOP .2.: Ampelschaltung Kapuziner- Ecke Thalkirchner Straße optimieren
+- TOP .3.: Änderung der Sondernutzungsrichtlinien für Zeitungsentnahmegeräte, PLENUMSBESCHLUSS
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Landwehrstraße 87, Genehmigung einer Freischankfläche, vgl. TOP 2016.08 C 2.1.2, Schreiben des Kreisverwaltungsreferates - Bezirksinspektion Mitte vom 08.09.2016, PLENUMSBESCHLUSS
+- TOP .2.: Herzog-Heinrich-Straße 38, Genehmigung einer Freischankfläche, PLENUMSBESCHLUSS
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Landwehrstraße 31, Seite Schillerstraße, Aufstellung eines neuen Zeitungsentnahmegerätes
+- TOP .2.: Müllerstraße 3, Müllerstraße 13 und Rumfordstraße 10, Aufstellung von Zeitungsentnahmegeräten, vgl. TOP 2016.08 C 2.2.1, Schreiben des Kreisverwaltungsreferates - Bezirksinspektion Mitte vom 07.09.2016
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.2: Verkehr
+- TOP .1.: Querung des Westermühlbaches für Fahrräder an der Holzstraße
+- TOP .2.: Regionalzughalt Poccistraße, Referat für Stadtplanung und Bauordnung; Stellungnahme zum Beschlussentwurf vom 01.09.2016
+- TOP .3.: Schillerstraße 28, Hotelanfahrtszone, verkehrsrechtliche Anordnung nach § 45 StVO, PLENUMSBESCHLUSS
+- TOP .1.: siehe B 3.3.1
+- TOP .2.: Mehr Grün und Blumen in Münchens Straßen möglich machen - Antrag aus dem Münchner Stadtrat
+- TOP .1.: Begrünungsplan BA 2
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: "Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat" in ein Entscheidungsrecht, BA-Antrags-Nr. 14-20 / B 01092 des BA 16 - Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 31.08.2016
+- TOP .2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten" (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht, BA-Antrags-Nr. 14-20 / B 01092 des BA 16 - Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 02.09.2016
+- TOP .3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen Änderung des Anhörungsrechtes, "Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils" (Anlage 1 BA Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht Änderung des Anhörungsrechtes "Förderung und Unterstützung von Vereinen, Gruppen und Initiativen" (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht BA-Antrags-Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015, Anhörungsschreiben des Direktoriums vom 02.09.2016
+- TOP .4.: Einführung Plattform "Alfresco", Vorstellung im BA 2 am 25.10.2016 - Nutzungsbedingungen
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 10.10.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 11.10.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 12.10.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 17.10.2016 in der BA-Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 25.10.2016 um 19 Uhr im Saal in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .1.: AKIM - Kurzbericht über die Präsenzeinsätze Gärtnerplatz, 26.10.2016, 17 Uhr
+- TOP .2.: 18.jetzt - Fest junger Erwachsener am 29.10.2016 im Rathaus
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Hortplätze bzw. Räume für Mittagsbetreuung in der Isarvorstadt
+- TOP .4.: Referat für Gesundheit und Umwelt, Grundsatzbeschluss Informationszentrum Friedhofs- und Bestattungskultur Alter Südlicher Friedhof; Informationsstelle für Besucher des Alten Südlichen Friedhofs einrichten und Einrichtung eines Bestattungsmuseums in München prüfen, Sitzungsvorlage Nr. 14-20 / V 05239, Beschluss des Gesundheitsausschusses vom 22.09.2016 (VB)
+- TOP .5.: Sozialreferat, Beschlussvorlage In Wohnungen kommen - in Wohnungen bleiben, Neuausrichtung der Unterstützung, Begleitung und Nachsorge von wohnungslosen Haushalten; Trägerschatsauswahl für die Betreuung im Verbund Schwanthalerstraße, Zuschuss an das Evangelische Hilfswerk München, Änderung des Mehrjahresinvestitionsprogramms 2015 - 2019; Sitzungsvorlage Nr. 14-20 / V 06655, Beschluss des Sozialausschusses vom 22.09.2016 (VB)
+- TOP .6.: Attraktivere Öffnungszeiten Schyrenbad
+- TOP .7.: Sozialreferat, Beschluss Mieterbeirat, Änderung der Mieterbeiratssatzung und der Geschäftsordnung, Änderung der Vergütungsregelungen Antrag Nr. 1/2016 des Mieterbeirates, Sitzungsvorlage Nr. 14 - 20 / V 05619, Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, aktueller Flächennutzungsplan mit integrierter Landschaftsplanung
+- TOP .3.: Baumfällungen im Bereich des BA 2 Ecke Fraunhofer-/Erhardtstraße; aktuelle Information der Lokalbaukommission vom 31.08.2016
+- TOP .4.: Bürgeranliegen Baustelle Jahnstraße 21/21 a, vgl. TOP 2016.07 B 5.2; Antwortschreiben des Kreisverwaltungsreferates vom 29.08.2016
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Referat für Stadtplanung und Bauordnung, Information zum Projekt "schnelle Radverbindung für den Münchner Norden"
+- TOP .7.: Baureferat, Ruppertstraße 5, Verwaltungsinterner Projektauftrag mit Projektgenehmigung dem BA 2 zur Kenntnis
+- TOP .8.: Zukunftsfähiger Regionalzughalt Poccistraße mit S-Bahn-Halt - Ein zentraler Baustein für den Ausbau des Bahnknotens München, BA-Antrag-Nr.: 14-20 / B 02086 des BA 2 vom 23.02.2016, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 06.09.2016
+- TOP .9.: Zenettistraße 4, Abrisserlaubnis der Unteren Denkmalschutzbehörde vom 12.08.2015
+- TOP .10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bürgerbeteiligung stärken! Antrag Nr. 14-20 / A 02097 der Stadtratsfraktion Freiheitsrechte Transparenz und Bürgerbeteiligung vom 06.05.2016, Sitzungsvorlagen Nr. 14-20 / V 06615, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 (SB)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichen Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Maßnahmen hinsichtlich der Situation der Tageslohnarbeiter im südlichen Bahnhofsviertel
+- TOP .7.: Müllerstraße/Fraunhoferstraße: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn - Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV, Information des Referates für Gesundheit und Umwelt vom 30.05.2016 per Email vom 29.08.2016
+- TOP .8.: Fahrradschutzstreifen in der Schwanthalerstraße, Empfehlung Nr. 14-20 / E 00743 der Bürgerversammlung des BA 2 vom 12.11.2015; Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 01.09.2016
+- TOP .9.: Bürgeranliegen Lärmbelästigung Freischankfläche Maistraße 63; Antwortschreiben des Kreisverwaltungsreferates - Bezirksinspektion Mitte vom 07.09.2016
+- TOP .10.: Umgebung Theresienwiese, Wies'n 2016, Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV, Einsatz von Müllsammelfahrzeugen in den Wohngebieten um die Theresienwiese
+- TOP .11.: Öffentliche Toilette Gärtnerplatz, vgl. TOP 2016.08 B 4.2, Schreiben einer Hausverwaltung vom 15.09.2016 dem BA 2 zur Kenntnis
+- TOP .12.: Bürgeranliegen Obdachlose St.-Pauls-Platz, vgl. TOP 2016.08 C 5.2,Antwortschreiben Teestube "komm" vom 16.09.2016
+- TOP .13.: Container Bavariaring - neuer Standort
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
+- TOP .12.: Verkehrliche Erschließung des Bereichs zwischen Sonnenstraße, Lindwurmstraße, Ziemsenstraße, Schillerstraße und Landwehrstraße verbessern; BV-Empfehlung Nr. 08-14 / E 02053 der Bürgerversammlung des BA 2 vom 07.11.2013, Zwischennachricht des Planungsreferates vom 15.09.2016
