@@ -1,0 +1,72 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-09-27T16:00:00+02:00
+- Ende: 2016-09-27T20:26:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11705
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11705
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275491.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275491.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275491.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Kriminalstatistik 2015 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Birkenstraße 82a, 82b, 82c, 82d - Neubau von 4 Reihenhäusern - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Bezirkssportanlage Flinger Broich 85-87 - einstimmig beschlossen
+- TOP 11: Platz der Diakonie Weihnachtsmarkt - mehrheitlich beschlossen
+- TOP 12: Haushalt 2017 - zur Kenntnis genommen
+- TOP 12.1: Neubau Allwetterbad - Haushaltsantrag - einstimmig beschlossen
+- TOP 12.2: Zoopark - Haushaltsantrag - einstimmig beschlossen
+- TOP 12.3: Haushaltsbegleitantrag 1 - mehrheitlich abgelehnt
+- TOP 12.4: Haushaltsbegleitantrag 2 - mehrheitlich abgelehnt
+- TOP 13: Hans-Günther-Sohl-Straße Umbenennung - mehrheitlich beschlossen
+- TOP 14: Abbenennung Hans-Günther-Sohl-Straße - zurückgezogen
+- TOP 15: Arbeit mit Flüchtlingen - einstimmig beschlossen
+- TOP 16: Standorte der Gasleuchten im Geoportal zeigen - einstimmig beschlossen
+- TOP 17: Toilettenhäuschen Schillerplatz - mehrheitlich abgelehnt
+- TOP 18: Bezirksbezogene Haushaltsmittel – Bürgerinitiative Flingern - einstimmig beschlossen
+- TOP 19: Lärmbelastung im Bereich Humboldtstr. / Uhlandstraße - mehrheitlich abgelehnt
+- TOP 20: Glascontainer - einstimmig beschlossen
+- TOP 21: Durchfahrmöglichkeiten für Rettungsfahrzeuge - zurückgezogen
+- TOP 22: Rotlichtüberwachung im Stadtbezirk 2 - zurückgezogen
+- TOP 23: Überprüfung gefährdender Bordsteinkanten - zurückgezogen
+- TOP 24: Fahrplan Linie 708 - mehrheitlich abgelehnt
+- TOP 25: Querung Werdener Straße - schriftlich beantwortet
+- TOP 26: Zebrastreifen Kita Metrostraße - schriftlich beantwortet
+- TOP 27: Güterbahntrasse neben Ronsdorfer Straße - schriftlich beantwortet
+- TOP 28: Fahrgastzählung - schriftlich beantwortet
+- TOP 29: Auslastung Kindergartenplätze im Bezirk 2 - schriftlich beantwortet
+- TOP 30: Ampelquerung Hellweg/Junkersstraße/Dieselstraße - schriftlich beantwortet
+- TOP 31: "Leise Bahnen" der Rheinbahn
+- TOP 32: Neubau Hallen- und Freibad in Flingern - schriftlich beantwortet
+- TOP 33: Elternbefragung an Grundschulen - schriftlich beantwortet
+- TOP 34: Bänke für die sogenannte Brille - zur Kenntnis genommen
+- TOP 35: Einrichtung eines Grünpfeils Cranachstraße stadtauswärts / Hans-Günther-Sohl-Straße - zur Kenntnis genommen
+- TOP 36: Elektrische Grillstation Zoopark - zur Kenntnis genommen
+- TOP 37: Dachbegrünung und Erdschicht auf Tiefgaragen - zur Kenntnis genommen
+- TOP 38: Verbindungsweg Schlüterstraße Schwabstraße - zur Kenntnis genommen
+- TOP 39: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 40: Franklinbrücke/Rethelstr./ Humboldtstr. Radwegeplan - zur Kenntnis genommen
+- TOP 41: Erfahrungsbericht Quartiersgaragen - zur Kenntnis genommen
+- TOP 42: Stadtbezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 43: Fahrradständer Dorotheenstraße - zur Kenntnis genommen
+- TOP 44: Wochenmarkt Düsseltal - zur Kenntnis genommen
+- TOP 45: Fahrradweg Graf-Recke-Straße - zur Kenntnis genommen
+- TOP 46: 4. Maßnahmenpaket zur Umsetzung schulorganisatorischer Maßnahmen - zur Kenntnis genommen
+- TOP 47: Stadt-Natur-Park Flingern - zur Kenntnis genommen
+- TOP 48: Abschraffur der Straßenbahngleise auf der Grafenberger Allee - zur Kenntnis genommen
+- TOP 49: Tiefgarage Schillerplatz - zur Kenntnis genommen
+- TOP 50: Lärmreduzierung U71 - zur Kenntnis genommen
+- TOP 51: KZ-Außenkager, Erinnerungszeichen - zur Kenntnis genommen
