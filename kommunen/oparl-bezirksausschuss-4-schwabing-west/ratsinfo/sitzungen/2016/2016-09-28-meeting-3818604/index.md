@@ -1,0 +1,57 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-09-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818604
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818604
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: 18.jetzt ? Fest junger Erwachsener im Rathaus am 29.10.2016: Teilnahme BA 4?
+- TOP .1.: Bürger: Nachnutzung des Instituts für Pathologie Schwabing als medizin-historisches Museum (vertagt aus dem Ferienausschuss vom 24.08.2016)
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Franz-Joseph-Str. 48 ?Kurfürsten-Apotheke?: Aufstellung eines mobilen Fahrradständers
+- TOP .2.: Georgenstr. 84 ?84 GHz?: Aufstellung eines mobilen Fahrradständers
+- TOP .3.: Aufstellung von Zeitungsentnahmegeräten für die ?tz? a) Nordendstr. 50 (Trambahnhalt Elisabethmarkt) b) Isoldenstr. 41 (vor dem Edeka-Markt)
+- TOP .4.: Mehr Grün und Blumen in Münchens Straßen möglich machen ? Anhörung zu einem Stadtratsantrag (Pflanzgefäße an Freischankflächengrenzen zulassen)
+- TOP .5.: Aufstellung von Zeitungsentnahmegeräten für die Gratis-Stadtzeitung ?Concrete? a) Hohenzollernplatz
+- TOP .6.: Elisabethplatz 1, EMIRAT AG: Aufstellung eines mobilen Fahrradständers
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP .1.: Tektur Herzogstr. 142: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (?Schwabinger Carré II? - Herzogstr. 142 / Schleißheimer Str. 139 / Herzogstr. 104) (vertagt aus dem Ferienausschuss vom 24.08.2016)
+- TOP .2.: Tektur Giselherstr. 1-7: Dachabbruch, Aufstockung und Anbau von Aufzügen (Giselherstr. 1-7 / Schleißheimer Str. 252 ? 258) (vertagt aus dem Ferienausschuss vom 24.08.2016)
+- TOP .3.: Tektur Hohenzollernstr. 97: Errichtung zweier Wohnungen im DG und Spitzboden, Nutzungsänderung Souterrain, Vorbau eines Personenaufzugs (vertagt aus dem Ferienausschuss vom 24.08.2016)
+- TOP .4.: Schleißheimer Str. 198: DG-Neubau zur Wohnnutzung durch Aufstockung eines 5-geschossigen Wohnhauses
+- TOP .5.: Infanteriestr. 11 a: Nutzungsänderung Anbau Geb. B: Verkaufsraum/Showroom zu Büro
+- TOP .6.: Vorbescheid Elisabethplatz: Errichtung Interimsbau temporäre Marktstände
+- TOP .7.: Vorbescheid Stauffenbergstr. 32-36: Neubau eines Mehrfamilienhauses (24 WE) mit Tiefgarage (Nachverdichtung)
+- TOP .8.: Bauerstr. 2: Nutzungsänderung 1. OG Mitte: Büro zu Wohnung, 2. OG rechts: Wohnung zu Büro; 3. OG links: Wohnung zu Büro
+- TOP .9.: Herzogstr. 67: Anbau einer Aufzugsanlage
+- TOP .10.: Tektur Hohenstaufenstr. 5: Umbau und Modernisierung zweier DG-Wohnungen mit Ausbau der jeweils daüber befindlichen Dachräume, Wiederaufbau eines Giebels einschließlich zweier Dachgauben (2 Bauabschnitte)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Abfallkörbe mit sog. ?Flaschensammlern? ausstatten
+- TOP .2.: Bürgerin: Emanuelstraße zum Radfahren entgegen der Einbahnrichtung freigeben
+- TOP .2.1.: Umwelt
+- TOP .1.: Rümannstr. 28: Fällung einer Eiche
+- TOP .2.: Belgradstr. 5 a: Fällung einer Weide
+- TOP .2.2.: Verkehr
+- TOP .1.: Anordnung eines absoluten Haltverbots auf der Westseite der Belgradstraße (gegenüber Hausnummer 132): Zufahrt zum Lagerplatz des Baureferats Gartenbau
+- TOP .2.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS) (vertagt aus dem Ferienausschuss vom 24.08.2016)
+- TOP 3.4.: Öffnung der in Richtung Süden einbahngeregelten Egmontstraße zwischen Garten- und Wilhelm-Meister-Straße für den gegenläufigen Radverkehr
+- TOP 3.1.: Änderung des Anhörungsrechts der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: ?Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat? in ein Entscheidungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 3.2.: Änderung des Anhörungsrechts der Anlage 1 BA-Satzung Ziffer 6 Abschnitt Kommunalreferat: ?Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten? in ein Entscheidungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 3.3.: Änderung der Anhörungsrechte der Anlage 1 BA-Satzung Ziffer 8 Abschnitt Kulturreferat: ?Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur im Stadtteil? sowie Ziffer 9 Abschnitt Kulturreferat ?Förderung und Unterstützung von Vereinen, Gruppen und Initiativen? in Entscheidungsrechte Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 3: (E) Freigabe der Zentnerstraße zum Radfahren entgegen der Einbahnrichtung zwischen Elisabeth- und Hohenzollernstraße wieder aufheben
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
