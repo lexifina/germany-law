@@ -1,0 +1,68 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-09-28T17:11:00+02:00
+- Ende: 2016-09-28T21:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10133
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10133
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00393460.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Ratsgruppe ÖDP-Piraten an den Rat Nr. A-R 0063/2015: "Münster braucht eine No-Spy-Klausel" - einstimmig beschlossen
+- TOP 3: Jahresabschlüsse von Gesellschaften
+- TOP 3.1: Jahresabschluss 2015 der AirportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 3.2: Jahresabschluss 2015 der Wohn+Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 3.3: Jahresabschluss 2015 der GML Gewerbepark Münster-Loddenheide (GML GmbH) - einstimmig beschlossen
+- TOP 3.4: Jahresabschluss 2015 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - mehrheitlich beschlossen
+- TOP 3.4.1: Jahresabschluss 2015 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH)
+- TOP 3.5: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2015 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr 2015 und Rückgewährung - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Stadthaus 1 als zentraler Ort bürgerorientierter Dienstleistungen - Innensanierung: Zukünftiger Betrieb der Kantine im Stadthaus 1, Beantwortung der in der Sitzung des Rates am 11.05.2016 beschlossenen Prüfaufträge zum Themenbereich "Integrationsbetr - ohne Beschlussfassung geschoben
+- TOP 4.1: Stadthaus 1 als zentraler Ort bürgerorientierter Dienstleistungen - Innensanierung: Zukünftiger Betrieb der Kantine im Stadthaus 1, Beantwortung der in der Sitzung des Rates am 11.05.2016 beschlossenen Prüfaufträge zum Themenbereich "Integrationsbetr
+- TOP 5: Stadthaus 1, Klemensstraße 10, Innensanierung - ohne Beschlussfassung geschoben
+- TOP 5.1: Stadthaus 1, Klemensstraße 10, Innensanierung
+- TOP 6: Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 7: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2016 - ohne Beschlussfassung geschoben
+- TOP 7.1: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2016
+- TOP 8: NKF-Gesamtabschluss zum 31.12.2014 der Stadt Münster (Entwurf) - zur Kenntnis genommen
+- TOP 9: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011, 2012 und 2014 - einstimmig beschlossen
+- TOP 10: Gründung einer Projektgesellschaft zum Ankauf der Konversionsflächen der Oxford- und der York-Kaserne (KonvOY GmbH) - von der Tagesordnung abgesetzt
+- TOP 11: Flughafen Münster/Osnabrück GmbH: Änderung des Gesellschaftsvertrages - ohne Beschlussfassung geschoben
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2016 - zur Kenntnis genommen
+- TOP 13: Änderung des Gesellschaftsvertrages der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 14: Änderung des Gesellschaftsvertrages der Theaterhaus Pumpenhaus gGmbH (Pumpenhaus) - einstimmig beschlossen
+- TOP 15: Gewährung eines zinslosen Darlehens an den Trägerverein "De Bockwindmüel" - zur Kenntnis genommen
+- TOP 16: Verschmelzung der Energiepark Detmold Verwaltungs-GmbH auf die Stadtwerke Münster GmbH, Anwachsung der Energiepark Detmold GmbH + Co. WP DT KG auf die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 17: Liquidation der WLE-Spedition GmbH - einstimmig beschlossen
+- TOP 17.1: Liquidation der WLE-Spedition GmbH
+- TOP 18: Einführung des Westfalen Tarifes und unmittelbare sowie mittelbare Beteiligung an hierfür - mehrheitlich beschlossen
+- TOP 19: Implementierung stadtregionaler Velorouten in der Stadtregion Münster - einstimmig beschlossen
+- TOP 20: Richtlinie der Stadt Münster zur Verwendung der Mittel gem. § 11 Abs. 2 ÖPNVG NRW (ÖPNV-Pauschale) - einstimmig beschlossen
+- TOP 21: Schulsozialarbeit für Internationale Förderklassen (IFK) an den Berufskollegs - einstimmig beschlossen
+- TOP 22: Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte, - einstimmig beschlossen
+- TOP 23: Schulträgerbeteiligung bei der Besetzung von Schulleitungsstellen städtischer Schulen - ohne Beschlussfassung geschoben
+- TOP 24: Johann-Conrad-Schlaun-Gymnasium - einstimmig beschlossen
+- TOP 25: Bewerbung zur Teilnahme am "Bundesprogramm Mehrgenerationenhaus" des Trägers MuM-Mehrgenerationenhaus und Mütterzentrum Münster e.V. - einstimmig beschlossen
+- TOP 26: Nutzung der Räume der ehemaligen internationalen Schule in Gievenbeck als Kindertageseinrichtung - einstimmig beschlossen
+- TOP 27: Trägerausschreibungen für Kindertageseinrichtungen
+- TOP 27.1: Trägerausschreibung für die Kindertageseinrichtung York-Höfe - einstimmig beschlossen
+- TOP 27.2: Trägerausschreibung für die Kindertageseinrichtung Hermannschule - ohne Beschlussfassung geschoben
+- TOP 27.3: Trägerausschreibung für die Kindertageseinrichtung Willingrott - ohne Beschlussfassung geschoben
+- TOP 28: Erweiterung der Kindertageseinrichtung Wersepiraten in Handorf um eine vierte Gruppe - einstimmig beschlossen
+- TOP 29: Stärkung des Ehrenamts in der Flüchtlingshilfe - ohne Beschlussfassung geschoben
+- TOP 30: Satzung zur Änderung von Festsetzungen des Rezesses der "Interessenten der Rüschheide, der Rahringsheide und Rahringsunder - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Mehrere Stadtbezirke
+- TOP 31.1.1: 65. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 31.2: Stadtbezirk Mitte
+- TOP 31.2.1: Bebauungsplan Nr. 327, 1. Änderung - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 31.2.2: Bebauungsplan Nr. 571 - Beschluss über Stellungnahmen, Satzungsbeschluss - einstimmig beschlossen
+- TOP 32: Verschiedenes
