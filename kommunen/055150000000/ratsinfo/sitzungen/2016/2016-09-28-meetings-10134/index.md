@@ -1,0 +1,74 @@
+# 19. Sitzung (Einbringung Haushalt 2017)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-09-28T17:37:00+02:00
+- Ende: 2016-09-28T21:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10134
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10134
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00393458.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2017 - einstimmig beschlossen
+- TOP 11: Bürgerhaushalt 2016 - Einbringung der 20 bestplatzierten Bürgervorschläge - Vorlage eingebracht
+- TOP 12: Stadthaus 1 als zentraler Ort bürgerorientierter Dienstleistungen - Innensanierung: Zukünftiger Betrieb der Kantine im Stadthaus 1, Beantwortung der in der Sitzung des Rates am 11.05.2016 beschlossenen Prüfaufträge zum Themenbereich "Integrationsbetr - einstimmig beschlossen
+- TOP 12.1: Stadthaus 1 als zentraler Ort bürgerorientierter Dienstleistungen - Innensanierung: Zukünftiger Betrieb der Kantine im Stadthaus 1, Beantwortung der in der Sitzung des Rates am 11.05.2016 beschlossenen Prüfaufträge zum Themenbereich "Integrationsbetr
+- TOP 13: Stadthaus 1, Klemensstraße 10, Innensanierung - mehrheitlich beschlossen
+- TOP 13.1: Stadthaus 1, Klemensstraße 10, Innensanierung
+- TOP 14: Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 15: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2016 - einstimmig beschlossen
+- TOP 15.1: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2016
+- TOP 16: NKF-Gesamtabschluss zum 31.12.2014 der Stadt Münster (Entwurf) - zur Kenntnis genommen
+- TOP 17: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011, 2012 und 2014 - einstimmig beschlossen
+- TOP 18: Gründung einer Projektgesellschaft zum Ankauf der Konversionsflächen der Oxford- und der York-Kaserne (KonvOY GmbH) - von der Tagesordnung abgesetzt
+- TOP 19: Flughafen Münster/Osnabrück GmbH: Änderung des Gesellschaftsvertrages - mehrheitlich beschlossen
+- TOP 20: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2016 - zur Kenntnis genommen
+- TOP 21: Änderung des Gesellschaftsvertrages der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 22: Änderung des Gesellschaftsvertrages der Theaterhaus Pumpenhaus gGmbH (Pumpenhaus) - einstimmig beschlossen
+- TOP 23: Gewährung eines zinslosen Darlehens an den Trägerverein "De Bockwindmüel" - zur Kenntnis genommen
+- TOP 24: Verschmelzung der Energiepark Detmold Verwaltungs-GmbH auf die Stadtwerke Münster GmbH, Anwachsung der Energiepark Detmold GmbH + Co. WP DT KG auf die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 25: Liquidation der WLE-Spedition GmbH - einstimmig beschlossen
+- TOP 25.1: Liquidation der WLE-Spedition GmbH
+- TOP 26: Einführung des Westfalen Tarifes und unmittelbare sowie mittelbare Beteiligung an hierfür - mehrheitlich beschlossen
+- TOP 27: Implementierung stadtregionaler Velorouten in der Stadtregion Münster - einstimmig beschlossen
+- TOP 28: Richtlinie der Stadt Münster zur Verwendung der Mittel gem. § 11 Abs. 2 ÖPNVG NRW (ÖPNV-Pauschale) - einstimmig beschlossen
+- TOP 29: Schulsozialarbeit für Internationale Förderklassen (IFK) an den Berufskollegs - einstimmig beschlossen
+- TOP 30: Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte, - mehrheitlich beschlossen
+- TOP 31: Schulträgerbeteiligung bei der Besetzung von Schulleitungsstellen städtischer Schulen - mehrheitlich beschlossen
+- TOP 32: Johann-Conrad-Schlaun-Gymnasium - einstimmig beschlossen
+- TOP 33: Bewerbung zur Teilnahme am "Bundesprogramm Mehrgenerationenhaus" des Trägers MuM-Mehrgenerationenhaus und Mütterzentrum Münster e.V. - einstimmig beschlossen
+- TOP 34: Nutzung der Räume der ehemaligen internationalen Schule in Gievenbeck als Kindertageseinrichtung - mehrheitlich beschlossen
+- TOP 35: Trägerausschreibungen für Kindertageseinrichtungen
+- TOP 35.1: Trägerausschreibung für die Kindertageseinrichtung York-Höfe - mehrheitlich beschlossen
+- TOP 35.2: Trägerausschreibung für die Kindertageseinrichtung Hermannschule - mehrheitlich beschlossen
+- TOP 35.3: Trägerausschreibung für die Kindertageseinrichtung Willingrott - mehrheitlich beschlossen
+- TOP 36: Erweiterung der Kindertageseinrichtung Wersepiraten in Handorf um eine vierte Gruppe - einstimmig beschlossen
+- TOP 37: Stärkung des Ehrenamts in der Flüchtlingshilfe - mehrheitlich geändert beschlossen
+- TOP 38: Satzung zur Änderung von Festsetzungen des Rezesses der "Interessenten der Rüschheide, der Rahringsheide und Rahringsunder - einstimmig beschlossen
+- TOP 39: Bauleitplanung
+- TOP 39.1: 65. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 39.2: Stadtbezirk Münster-Mitte
+- TOP 39.2.1: Bebauungsplan Nr. 327, 1. Änderung - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 39.2.2: Bebauungsplan Nr. 571 - Beschluss über Stellungnahmen, Satzungsbeschluss - einstimmig beschlossen
+- TOP 40: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 41: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 41.1: Ein Auszubildenden-Wohnheim für Münster - verwiesen
+- TOP 41.2: Gleichstellung in Ratsgremien einschließlich Aufsichtsräten umsetzen - verwiesen
+- TOP 42: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 43: Umbesetzung im Beirat nach dem Landschaftsgesetz - einstimmig beschlossen
+- TOP 44: Besetzung des Beirates für Stadtgestaltung - von der Tagesordnung abgesetzt
+- TOP 45: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 46: Verschiedenes
