@@ -1,0 +1,7 @@
+# TOP 9.2: Mitgliedschaften
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreistages (2016-09-28)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/15082
+- Ergebnis: mehrheitlich beschlossen
