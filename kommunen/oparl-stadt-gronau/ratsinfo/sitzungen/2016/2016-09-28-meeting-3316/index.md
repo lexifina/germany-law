@@ -1,0 +1,52 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2016-09-28T18:00:00+02:00
+- Ende: 2016-09-28T22:28:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTm_i0PqBs1w91jdB3Fwy6A
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3316
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXD0ol4etR3pXCzT0MzfKJzQy8At_7AwTDCo6_Vl8Rmf/Bekanntmachung_Rat_28.09.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUtBSi-btYUUVMAmJUfNyLOL8nlQ80rj0_EquHdq53HJ/Oeffentliche_Niederschrift_Rat_28.09.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Strategische Sozialplanung für die Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 3.1: Stellungnahme zum "Strahlenschutzgesetz" (Referentenentwurf); Antrag der GAL-Fraktion vom 28.09.2016
+- TOP 4.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2013 Bestätigung des Gesamtergebnisses sowie die Behandlung des Gesamtjahresfehlbetrages - Einstimmig, 0 Enthaltungen
+- TOP 5.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2013 Entlastung der Bürgermeisterin - Einstimmig, 0 Enthaltungen
+- TOP 6.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2015 Bestätigung und Feststellung des Ergebnisses Behandlung des Jahresfehlbetrages - Einstimmig, 0 Enthaltungen
+- TOP 7.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2015 Entlastung der Bürgermeisterin - Einstimmig, 0 Enthaltungen
+- TOP 8.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2015 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Budgetbericht zum II. Quartal 2016 - Ohne Abstimmung
+- TOP 10.: Gesamtschule - 12 Jastimmen, 21 Neinstimmen, 2 Enthaltungen
+- TOP 11.: Fortschreibung des Integrierten Handlungskonzepts (IHK) für die Stadt Gronau - Ohne Abstimmung
+- TOP 12.: A. Antrag auf Aufstellung eines vorhabenbezogenen Bebauungsplans für das Gelände der ehem. Spinnerei Germania an der Vennstraße im Stadtteil Epe B. Einleitung eines Verfahrens zur Änderung des Regionalplans Münsterland - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 43 "Freiherr-von-Vincke-Straße", 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13 a BauGB) Aufstellungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 14.: Ausbau und Weiterentwicklung des Netzwerkes Frühe Hilfen in Gronau - Einstimmig, 0 Enthaltungen
+- TOP 15.: Neufassung der Satzung über die Erhebung von Kostenersatz und Gebühren für Leistungen der Freiwilligen Feuerwehr Gronau - Einstimmig, 0 Enthaltungen
+- TOP 16.: Steuerliche Optimierung; Einrichtung eines Betriebs gewerblicher Art - Einstimmig, 0 Enthaltungen
+- TOP 17.: Änderung der Dienstanweisung für die Finanzbuchhaltung - Ohne Abstimmung
+- TOP 18.: Bildung einer Einigungsstelle gemäß § 67 Landespersonalvertretungsgesetz (LPVG NRW) - Einstimmig, 0 Enthaltungen
+- TOP 19.: Rücknahme einer Kommunalverfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2013 - Einstimmig, 0 Enthaltungen
+- TOP 19.1: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 19.1.1: Mitarbeitervertreter im Aufsichtsrat der Fa. Chance gGmbH angestrebt
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 21.: Anfragen
+- TOP 21.1: Anfragen zur Gronauer Bevölkerung mit türkischem Migrationshintergrund (RM Krause)
+- TOP 21.2: Belastbarkeit des neuen Vorplatzes der St. Agatha-Kirche (RM Krause)
+- TOP 21.3: Verlegung des Wochenmarktes (RM von Borczyskowski)
+- TOP 21.4: Zeitplan der Ausschreibung der Sachversicherungen (RM von Borczyskowski)
+- TOP 21.5: Deckung aus Mehreinnahmen im Bereich der Flüchtlingsbetreuung? (RM von Borczyskowski)
+- TOP 21.6: Sachstand Geruchsbelästigung Losserstraße (RM Hübler)
+- TOP 21.7: Leistungen im Bereich der Straßenreinigung (RM U. Doetkotte)
+- TOP 21.8: Harmonisierung der städtischen Gesellschaftsverträge gefährdet? (RM Laschke)
+- TOP 21.9: Fragen zur Anwendung der Geschäftsordnung (RM Strestik)
+- TOP 21.10: Verkehrssituation an der Anne-Frank-Schule (RM Buchholz)
+- TOP 21.11: Antworten auf Anfragen im Ratsinformationsdienst hinterlegen (1. Stellv. d. BM Doetkotte)
