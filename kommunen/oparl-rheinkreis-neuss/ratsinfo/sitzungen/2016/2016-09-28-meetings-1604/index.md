@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2016-09-28T15:05:00+02:00
+- Ende: 2016-09-28T18:55:00+02:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1604
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1604
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreistag 28.09.2016 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00040154.pdf
+- Ergebnisprotokoll: Einladung Kreistag 28.09.2016 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00040154.pdf
+- Wortprotokoll: Einladung Kreistag 28.09.2016 - öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00040154.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 1.1: Anträge zur Tagesordnung
+- TOP 1.1.1: Antrag die Tagesordnungspunkte 11.2 und 11.3 von der Tagesordnung abzusetzen - mehrheitlich abgelehnt
+- TOP 1.1.2: Antrag die Tagesordnung um den Punkt "Aktuelle Situation RWE" zu erweitern - einstimmig beschlossen
+- TOP 2: Verpflichtung und Einführung eines neuen Kreistagsabgeordneten
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Anträge auf Umbesetzung - einstimmig beschlossen
+- TOP 4: Einbringung des Entwurfs des Gesamtabschlusses zum 31.12.2014 - einstimmig beschlossen
+- TOP 5: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 6: Verzeichnis der über-/außerplanmäßigen Aufwendungen und Auszahlungen im Haushaltsjahr 2016 - einstimmig beschlossen
+- TOP 7: Beitritt des Rhein-Kreises Neuss als Träger der mit Wirkung zum 01. Januar 2017 in Kraft tretenden rechtsfähigen Anstalt des öffentlichen Rechts mit der Bezeichnung „d-NRW AöR“ - einstimmig beschlossen
+- TOP 8: Entwicklungsplan Kulturlandschaft im Rhein-Kreis Neuss, Fertigstellung des Gesamtplans - zur Kenntnis genommen
+- TOP 9: Metropolregion Rheinland
+- TOP 9.1: Beitritt zur Metropolregion - einstimmig beschlossen
+- TOP 9.2: Mitgliedschaften - mehrheitlich beschlossen
+- TOP 9.3: Aufgabenübertragung - einstimmig beschlossen
+- TOP 9.4: Politische Beteiligung
+- TOP 9.5: Finanzierung
+- TOP 10: Satzung für den Rettungsdienst des Rhein-Kreises Neuss - einstimmig beschlossen
+- TOP 11: Aktuelle Situation RWE
+- TOP 11.1: Verweisungsantrag des neuen Tagesordnungspunkts "Situation RWE" in den Polizeibeirat - mehrheitlich beschlossen
+- TOP 11.2: Berichterstattung zur "Aktuellen Situation RWE"
+- TOP 11.3: Mündlicher Antrag der CDU Kreistagfraktion zur Vermeidung von Straftaten - einstimmig beschlossen
+- TOP 12: Anträge
+- TOP 12.1: Antrag der Kreistagsfraktion SPD vom 24.08.2016 zum Thema "Senkung der Kreisumlage für das Haushaltsjahr 2017" - mehrheitlich abgelehnt
+- TOP 12.2: Resolution der Kreistagsfraktionen CDU und FDP vom 16.09.2016 zum Thema "Entlastung der Städte und Gemeinden im Rhein-Kreis Neuss" - mehrheitlich beschlossen
+- TOP 12.3: Resolution der Kreistagsfraktionen CDU und FDP vom 07.09.2016 zum Thema "Dienstrecht NRW" - mehrheitlich beschlossen
+- TOP 12.4: Antrag der Kreistagsfraktionen CDU und FDP vom 14.09.2016 zum Thema "Mehr junge Menschen für die Kreispolitik begeistern - einstimmig beschlossen
+- TOP 12.5: Antrag der SPD-Kreistagsfraktion vom 21.09.2016 zum Thema "Beirat Krankenhäuser" - zurückgestellt
+- TOP 12.6: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen vom 16.09.2016 zum Thema "Vortragsreihe: Wichtige Unternehmen der Region - 3M"
+- TOP 13: Mitteilungen
+- TOP 14: Sitzungskalender 2017 - zur Kenntnis genommen
+- TOP 15: Anfragen
+- TOP 15.1: Anfrage der Kreistagsfraktionen CDU und FDP vom 21.09.2016 zum Thema "Kinderarmut im Rhein-Kreis Neuss"
+- TOP 16: Einwohnerfragestunde
