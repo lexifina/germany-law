@@ -1,0 +1,70 @@
+# 30. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-09-29T16:00:00+02:00
+- Ende: 2016-09-29T22:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4944
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4944
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00268673.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Heinrich-Schütz-Konservatorium - Regelungen für Honorarkräfte - erledigt
+- TOP 3.2: Verzögerungen beim Abschluss der Erweiterung Oberschule Weißig - erledigt
+- TOP 3.3: Islamisches Neujahr im Neuen Rathaus - erledigt
+- TOP 3.4: Verfahrensweise bei Veranstaltungsgenehmigung - erledigt
+- TOP 3.5: Unternehmenspartnerschaften bei den Feierlichkeiten zum 3. Oktober - erledigt
+- TOP 3.6: Abriss Scheunenhofstraße 3 - erledigt
+- TOP 3.7: Errichtung eines Revolutionsweges - erledigt
+- TOP 3.8: Narrenhäusel - Umsetzung des Stadtratsbeschluss zur Ausschreibung des Grundstückes - erledigt
+- TOP 3.9: Stadtmöblierung - erledigt
+- TOP 3.10: Schulstandort Boxberger Straße/Dresden-Prohlis - erledigt
+- TOP 3.11: Probleme bei Sanierung und Neubau der Sportanlage Stuttgarter Straße - erledigt
+- TOP 3.12: Fehlende Barrierefreiheit städtischer Liegenschaften mit Publikumsverkehr am Beispiel des Gesundheitsamtes - erledigt
+- TOP 3.13: Sprengstoffanschläge gegen Moschee und Internationales Konkresszentrum - Reaktion von Stadtspitze und Stadtgesellschaft - erledigt
+- TOP 3.14: Garagenhöfe - Verpachtung an Garagengemeinschaften - erledigt
+- TOP 4: Gremienumbesetzung - Ortsbeiräte
+- TOP 4.1: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 4.2: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 4.3: Umbesetzung Ortsbeirat Loschwitz - Zustimmung
+- TOP 5: Nachbesetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 6: Wahl von Friedensrichterinnen und Friedensrichtern sowie Protokollführerinnen und Protokollführern für die Schiedsstellen der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Jahresabschluss 2015 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 9: Jahresabschluss 2015 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 10: Jahresabschluss 2015 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 11: Jahresabschluss 2015 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 12: Jahresabschluss 2015 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 13: Jahresabschluss 2015 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 14: Jahresabschluss 2015 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 15: Vertagungen der Stadtratssitzung vom 8. September 2016
+- TOP 15.1: Konzeptausschreibung zum Zwecke des Verkaufes des Grundstückes Baufeld 3, Sachsenplatz, Flurstück 19 d, Teil von 1153/5 der Gemarkung Dresden Altstadt II - Ersetzung
+- TOP 16: Personalentwicklungskonzept der Stadtverwaltung Dresden - Vertagung nach 22 Uhr
+- TOP 17: Betreiber- und Bespielungskonzept Kulturpalast Dresden ab 2017 - Zustimmung
+- TOP 18: Städtische Musikschule - Bildung eines Eigenbetriebes Heinrich-Schütz-Konservatorium Dresden - Zustimmung mit Änderung
+- TOP 19: Vereinbarung zwischen der Landeshauptstadt Dresden und dem Freistaat Sachsen über die Kosten der Stiftung Deutsches Hygiene-Museum Dresden für Maßnahmen im Rahmen des Bauunterhalts sowie des Betriebes des Deutschen Hygiene-Museums - Zustimmung
+- TOP 20: Satzung über eine städtebauliche Sanierungsmaßnahme "Sanierungsgebiet Dresden S4/Dresden-Loschwitz" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 21: Satzung über eine städtebauliche Sanierungsmaßnahme "Sanierungsgebiet Dresden S-11, Dresden Friedrichstadt" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 22: Satzung über eine städtebauliche Sanierungsmaßnahme "Sanierungsgebiet Dresden-Äußere Neustadt" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 23: Satzung über eine städtebauliche Sanierungsmaßnahme "Sanierungsgebiet Dresden S 2 Dresden-Pieschen" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 24: Satzung über eine städtebauliche Sanierungsmaßnahme Sanierungsgebiet "Dresden S 3; Dresden-Hechtviertel" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 25: Satzung über eine städtebauliche Sanierungsmaßnahme "Sanierungsgebiet Dresden S-05.1, Dresden-Plauen" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 26: Satzung über eine städtebauliche Sanierungsmaßnahme "Sanierungsgebiet Dresden S6/1 Dresden-Löbtau" nach §§ 136 ff. BauGB - Zustimmung
+- TOP 27: Direktvergabe von öffentlichen Personenverkehrsdiensten in der Landeshauptstadt Dresden an die Müller Busreisen GmbH und die Satra Eberhardt GmbH - Zustimmung
+- TOP 28: Entwicklungskonzept als integrativer Handlungsrahmen für das Gebiet - Zustimmung
+- TOP 29: Entwicklungskonzept als integrativer Handlungsrahmen für das Gebiet - Zustimmung
+- TOP 30: Bebauungsplan Nr. 110.6, Dresden-Mickten Nr. 7, Wohnbebauung Sternstraße - Vertagung durch Einreicher
+- TOP 31: Änderung der Abwassergebührensatzung - Vertagung nach 22 Uhr
+- TOP 32: Benennung von kommunalen Sportstätten in Dresden - Vertagung
+- TOP 33: Vorkaufsrecht bei kommunalen Grundstücken einräumen - Vertagung nach 22 Uhr
+- TOP 34: Nachnutzung der Liegenschaft des tjg - Vertagung nach 22 Uhr
+- TOP 35: "Dynamo-Stadion" ein Stadion für Dresden - Vertagung nach 22 Uhr
+- TOP 36: Bearbeitungszeiten im Denkmalschutzamt verbessern - Antragsstau zeitnah abarbeiten - Vertagung nach 22 Uhr
+- TOP 37: Umgestaltung des Gedenkobelisken in Dresden-Nickern - Vertagung nach 22 Uhr
