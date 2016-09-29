@@ -1,0 +1,7 @@
+# TOP 8: Partizipationskonzept für Kinder und Jugendliche in Neuss (Verwaltungsergänzung zum Antrag SPD / Die
+
+- Sitzung: Jugendhilfeausschuss (2016-09-29)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/126146
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/20500
