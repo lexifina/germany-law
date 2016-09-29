@@ -1,0 +1,98 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-09-29T18:00:00+02:00
+- Ende: 2016-09-29T20:35:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1476
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1476
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsreden 2017 - Bürgermeister & Stadtkämmerin http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00075516.pdf
+- Ergebnisprotokoll: Haushaltsreden 2017 - Bürgermeister & Stadtkämmerin http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00075516.pdf
+- Wortprotokoll: Haushaltsreden 2017 - Bürgermeister & Stadtkämmerin http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00075516.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - Kenntnisnahme
+- TOP 2: Goldene Buch - Asmuth - Kenntnisnahme
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Kreisverkehr Neukirchen, Hülchrather Straße (Antrag Nr. 255/16) - einstimmig
+- TOP 3.1.2: Kein Kind zurücklassen (Antrag Nr. 257/16) - einstimmig
+- TOP 3.1.3: Ausschussumbesetzungen (Antrag Nr. 258/16) - einstimmig
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Instandsetzung der Bahnsteige am Bahnhaltepunkt Gustorf (Antrag Nr. 252/16) - einstimmig
+- TOP 3.3.2: Interkommunale Beschaffung und Nutzung der Unkraut-EX Maschine prüfen (Antrag Nr. 243/16) - einstimmig
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Ausführung des Ersten Glückspielstaatsvertrages (Antrag Nr. 261/16) - einstimmig
+- TOP 3.7.2: Bürgerbüro (Antrag Nr. 259/16) - einstimmig
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 3.10: Gemeinschaftsanträge
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.1.1: Wartehalle an der Haltestelle "Am Hammerwerk" gegenüber Aldi - stadteinwärts - (Anfrage Nr. 256/16) - einstimmig
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: ABG
+- TOP 4.6.1: (Un)Kontrollierter Einlass von großen Mengen Ab(Prozess-)wasser in das Kanalnetz (Anfrag Nr. 254/16) - Kenntnisnahme
+- TOP 4.6.2: Geschwindigkeitsüberschreitungen an der Bahnstraße (Anfrage Nr. 260/16) - Kenntnisnahme
+- TOP 4.6.3: Aussengastronomie im öffentlichen Strassenraum (Anfrage Nr. 262/16) - Kenntnisnahme
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.8.1: Nitratbelastung (Anfrage Nr. 253/16) - Kenntnisnahme
+- TOP 4.9: FBG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Breitbandausbau - Kooperationsvertrag mit dem Rhein-Kreis Neuss im Rahmen des Bundesförderprogramms - einstimmig
+- TOP 8: Feuerschutz
+- TOP 8.1: Ersatzbeschaffung von Schutzkleidung und Umrüstung von Feuerwehrfahrzeugen auf Digitalfunk - einstimmig
+- TOP 8.2: Satzung über die Erhebung von Kostenersatz, Entgelten und Gebühren bei Einsätzen der Feuerwehr
+- TOP 8.3: Verdienstausfallsatzung Feuerwehr - einstimmig
+- TOP 9: Ausschreibung der Stelle einer/s Beigeordneten - einstimmig
+- TOP 10: Haushalt 2017
+- TOP 10.1: Haushaltsentwurf 2017 - Schreiben der Kommunalaufsicht - einstimmig
+- TOP 11: Flüchtlings- und Integrationsangelegenheiten
+- TOP 12: Entscheidung PlanungsA
+- TOP 12.1: Aufst.2. Änd.G 134 Satz.beschl § 13a - einstimmig
+- TOP 12.2: Aufst.3. Änd.G 92 Satz.beschl § 13a - einstimmig
+- TOP 12.3: ISEK - Aktualisierung des Gesamtkonzeptes - mehrheitlich bei
+- TOP 12.4: Bildung Arbeitskreis Nahmobilität - einstimmig
+- TOP 12.5: Stellungnahme Stadt zur 2. Auslegung Regionalplan - mehrheitlich bei
+- TOP 12.6: Fußgängerzone Steinweg - mehrheitlich bei
+- TOP 13: BauA 21.09.2016
+- TOP 13.1: 8. Änderung der Satzung - einstimmig
+- TOP 14: Beantwortung Anträge
+- TOP 14.1: Mobile Payment in Grevenbroich einführen - mehrheitlich bei
+- TOP 14.2: FDP, Antrag Nr. 265/2015 - einstimmig
+- TOP 14.3: Kommunales Integrationskonzept - einstimmig
+- TOP 14.4: Gut in Grevenbroich integriert - Kampagne für erfolgreiche Integration (Antrag Nr. 107/16) - einstimmig
+- TOP 14.5: Lärmschutz für Hemmerden (Antrag Nr. 177/16) - einstimmig
+- TOP 14.6: Beseitigung des Unkrauts auf den Verkehrsinseln im Stadtgebiet, schlechter Pflegezustand des öffentl - einstimmig
+- TOP 14.7: Aufenthalts- und Beratungseinrichtung für Personen aus Alkohol- und Drogen konsumierenden Straßensze - einstimmig
+- TOP 14.8: Zustand des Kreisverkehres bei Gustorf (K22) bis zur Zufahrt auf die L116 (Antrag 235/16) - einstimmig
+- TOP 14.9: Sammelbeantwortung - einstimmig
+- TOP 15: Beantwortung Anfragen
+- TOP 15.1: Fördermittel (Anfrage Nr. 115/16) - einstimmig
+- TOP 15.2: Toilettenanlage an der Schule in Kapellen (Anfrage Nr. 226/16) - einstimmig
+- TOP 15.3: Zukunft Schneckenhaus (Anfrage Nr. 227/16) - einstimmig
+- TOP 15.4: Essensgeld im Kindergarten (Anfrage Nr. 237/2016) - einstimmig
+- TOP 16: mündliche Anträge/Anfragen
+- TOP 16.1: Sachstand der Anfrage 233/16
+- TOP 16.2: Kastanienbaum am Bürgerbüro
+- TOP 16.3: Ortstermin Straße Heyerweg/ Kolpingschule (Antrag Nr. 263/16)
+- TOP 16.4: Sachstand zum European Energy Award (Anfrage Nr. 264/16)
+- TOP 16.5: Fahrbahnabsenkung Schillerstraße (Antrag 265/16)
+- TOP 16.6: Geschwindigkeitsmessung Langwadener Straße (Antrag 266/16)
+- TOP 16.7: Würdigung von Zivilcourage
+- TOP 16.8: Parken am Alten Hof in Noithausen (Antrag 267/16)
+- TOP 16.9: SEG Parkplatz
+- TOP 17: Mitteilungen BM
