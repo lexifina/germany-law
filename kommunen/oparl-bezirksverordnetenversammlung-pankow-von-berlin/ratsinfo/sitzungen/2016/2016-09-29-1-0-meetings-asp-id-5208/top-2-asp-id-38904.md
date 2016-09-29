@@ -1,0 +1,7 @@
+# TOP 2: Überwiesene Drucksache
+
+- Sitzung: Öffentliche außerordentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2016-09-29)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=38904
+- Ergebnis: erledigt
