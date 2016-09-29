@@ -1,0 +1,103 @@
+# 49. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-09-29T16:30:00+02:00
+- Ende: 2016-09-29T21:55:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4501
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4501
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=246884
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-56 und VII-57 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Eheschließungen und die Begründung eingetragener Lebenspartnerschaften außerhalb der Rathäuser ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Barrierefreie Wahllokale - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Betrieb einer Fähre zur barrierefreien Querung der Spree im Bereich des Spreetunnels in Friedrichshagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Feuerwehrzufahrt Volkshochschule Baumschulenweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Hunzinger-Skulptur "Die sich Erhebende" am alten Standort aufstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Hinweisschild für "Bunkerberg" in Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Sanierung der Volkshochschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Integrationsbezirk Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.9: Sondermittel für den SV Turbine Berlin, Abt. Schach (SM 16-04) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Bauherreninformation - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Unterstützung von Kooperationen zwischen Museen und Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Transparente Vereinbarungen beim Müggelsee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Bürgerbeteiligung stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Ruhender Radverkehr in der Altstadt Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Anlaufstelle für Gewaltopfer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Rodelbergweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Präsenz der Bibliotheken auf bezirklichen Festen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Hundsfelder Straße als Einbahnstraße ausweisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Angebote für obdachlose Minderjährige ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Stadtteilzentrenvertrag im Zuge der wachsenden Stadt ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Sondermittel für den Verein Schutzhülle e. V. (SM 15-32) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Sondermittel für den Verein TJP e. V. (SM 15-35) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: 70 Jahre Johannisthaler Filmgeschichte in die Dauerausstellung des Museums Treptow aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.15: Bezirksregionenprofil (BZRP) für Köllnische Vorstadt / Spindlersfeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.16: Bezirksregionenprofil (BZRP) für Adlershof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.17: Information über die nachteiligen Umweltwirkungen von Terrassenheizstrahlern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.18: Radwegeverbindungen am Müggelseedamm während der Bauphase sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.19: Sondermittel für den Verein Club im Kietz e. V. (SM 16-08) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.20: Schöneweide als Wissenschafts- , Wirtschafts-, Technologie- sowie Kunst- und Kulturstandort stärken - überwiesen
+- TOP 7.2.21: Sondermittel für den Verein Netzwerk e. V. (SM 16-05) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.22: Sondermittel für den Verein Tauchclub fez e. V. (SM 16-15) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.23: Luftmessstationen einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2015 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Bebauungsplanentwurf 9-22 ("ehemaliges Rewatex-Gelände") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB - Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 2 BauGB - Ergebnis der Stellungnahmen aus der Abwägung der erneuten eingeschränkten Beteiligung der Öffentlichkeit gem. § 4a Abs. 3 Satz 4 BauG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Vorhabenbezogener Bebauungsplanentwurf 9-43 VE ("Bärensiegel") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Adlershof - Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB - Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 2 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Bezirkshaushaltsrechnung 2015 - überwiesen
+- TOP 11.5: Verordnung über den Erlass der Veränderungssperre 9-65/18 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Personalentwicklungskonzept für das Bezirksamt Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Sauberkeit im Schlesischen Busch - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Weiterer Fußgängerüberweg in der Neuen Krugallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.4: Sichere Querung der Jordanstraße Ecke Bouchéstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.5: Kreuzung Kiefholz- Ecke Wildenbruchstraße schadenfrei kreuzen und queren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.6: Wegeleitsystem für Sportvereine - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schutz der öffentlichen Erholungs- und Grünanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Verkehrsschilder in Müggelheim (Straße Alt-Müggelheim) - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Radfahrstreifen Edisonstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Informationen an Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Verkehrssicherheit im Königsheideweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Stau an der Kreuzung Schnellerstraße / Karlshorster Straße entgegenwirken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Entfernung von abgestorbenen Bäumen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Einrichtung einer Kontaktbörse zur Absicherung der haus- und fachärztlichen Versorgung im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Bezirkshaushaltsrechnung 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Keine Parkplatzwüste am Rand der Altstadt Köpenick - überwiesen
+- TOP 12.17: Vorhabenbezogener Bebauungsplanentwurf XV-30b VE ("Hotel und Wohnen an der Spree") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB und der Öffentlichkeit gemäß § 3 Abs. 2 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Radweg Köpenicker Landstraße instand setzen - mit Änderungen in der BVV beschlossen
+- TOP 12.19: Bürgerbeteiligung Spreepark ernst meinen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Netz in der Grünstraße - mit Änderungen in der BVV beschlossen
+- TOP 12.21: Fahrradstraße Sandbacher Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-65 ("Am Bellevuepark") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan 9-63 hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Neueinrichtung der Abteilung E1 RG1 (Urnenreihengräber) auf dem städtischen Friedhof Adlershof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Bebauungsplan XV-37d ("Gartenstadt Falkenberg: Bohnsdorfer Kirchsteig") hier: Ergebnis der Abwägung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB und der Öffentlichkeit gemäß § 3Abs. 2 BauGB - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplanverfahren 9-55 ("Am Wiesenweg") im Bezirk Treptow-Köpenick, Ortsteil Bohnsdorf Änderung zum Bezirksamtsbeschluss Nr. 562/11 vom 22.11.2011 Räumlicher Geltungsbereich: für das Gelände zwischen Am Falkenberg, gewidmetem Bahngelände, Bruno-Taut-Straße und Plumpengraben im Bezirk Treptow-Köpenick, Ortsteil Bohnsdorf (Anlage 1) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Tourismusstrategie Treptow-Köpenick 2015-2025 einschließlich des Handlungs- und Maßnahmenplans - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ergänzung Schulentwicklungsplanung - überwiesen
+- TOP 14.2: Nachwuchsleistungszentrum 1. FC Union – Gespräch mit SSV Köpenick-Oberspree suchen - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Ampel Fürstenwalder Damm / Aßmannstraße - überwiesen
+- TOP 14.4: Nutzungsentgelt für Lollapalooza in die Hände der Anwohnerinnen und Anwohner - in der BVV abgelehnt
+- TOP 14.5: Befragung zur Benennung der neuen Mittelpunktbibliothek - überwiesen
+- TOP 14.6: Zebrastreifen am Strandbad Müggelsee - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Ampel in der Schnellerstraße außerhalb der Geschäftszeiten abschalten - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
