@@ -1,0 +1,59 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-09-30T16:00:00+02:00
+- Ende: 2016-09-30T18:13:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11659
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11659
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275760.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275760.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275760.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Umbau Kinderspielplatz Stendaler Straße / In der Donk - einstimmig beschlossen
+- TOP 6: Schulbaumaßnahmen im Stadtbezirk 9 - mündl. Vortrag - zur Kenntnis genommen
+- TOP 7: Anfrage: Stellplätze im Bereich der Sportanlage Woermannstraße (TSV Urdenbach)
+- TOP 8: Anfrage: "Parkplatz " Hospitalstraße 1 / Benrodestraße - beantwortet
+- TOP 9: Anfrage: Bürgerhaus Benrath - beantwortet
+- TOP 10: Anfrage: Hydraulische Poller Marktplatz Benrath
+- TOP 11: Anfrage: Fahrräder und Fahrradständer als Werbeträger
+- TOP 12: Anfrage: Beleuchtung Verbindungsweg zwischen Itterstr. und Schützenplatz Itter
+- TOP 13: Anfrage: Bauunterhaltungsmittel BV 9 - beantwortet
+- TOP 14: Anfrage: Öffnung der Einbahnstraßen in der "Grünen Siedlung" für Radfahrer
+- TOP 15: Anfrage: Flüchtlinge im Stadtbezirk 9 - beantwortet
+- TOP 16: Anfrage: Stellplatzkonzept Schloss Benrath - beantwortet
+- TOP 17: Anfrage: Benrath-Urdenbacher Rheinufer
+- TOP 18: Anfrage: Öffentliche Toilette Werstener Kreuz - beantwortet
+- TOP 19: Anfrage: Busbuchten Ickerswarder Straße
+- TOP 20: Antrag: Querungshilfe Harffstraße - einstimmig beschlossen
+- TOP 21: Antrag: Durchgang zum Brückerbach - einstimmig beschlossen
+- TOP 22: Antrag: Wertstoff-Container Bonner Straße - einstimmig beschlossen
+- TOP 23: Antrag: Friedhof Hassels - einstimmig beschlossen
+- TOP 24: Antrag: "Soziale Stadt Düsseldorf" - einstimmig beschlossen
+- TOP 25: Antrag: Umrüstung Gaslaternen im Stadtbezirk 9 - mehrheitlich abgelehnt
+- TOP 26: Antrag: Benennung von Geh-/ Radwegen - mehrheitlich abgelehnt
+- TOP 27: Antrag: Fallschutz Spielgeräte Benrather Marktplatz - zurückgezogen
+- TOP 28: Antrag: Verfügungsmittel Märchenfieber - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel St. Antonius Schützenbruderschaft Düsseldorf-Hassels e.V. - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Gemeinschaftsaktion "Ein Weihnachtsbaum für Hassels" - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Martinsfreunde Hassels - einstimmig beschlossen
+- TOP 32: Informationsvorlage zum Beschluss der BV 9 vom 29.04.2016 - zur Kenntnis genommen
+- TOP 33: Antrag: Haushalt 2017 - einstimmig beschlossen
+- TOP 34: Haushalt 2017 - Bezirkssportanlage Am Wald 130 - einstimmig beschlossen
+- TOP 35: Haushalt 2017 - 3-fach Sporthalle Itterstraße - einstimmig beschlossen
+- TOP 36: Haushalt 2017 - TSV Urdenbach - einstimmig beschlossen
+- TOP 37: Haushalt 2017 - Grünpflege - einstimmig beschlossen
+- TOP 38: Antrag: Haushalt 2017 - Benrather Schlossallee, Radfahrstreifen - einstimmig beschlossen
+- TOP 39: Antrag: Haushalt 2017 - Sozialraum Kamper Acker - einstimmig beschlossen
+- TOP 40: Antrag: Haushalt 2017 - Kürzung Bauunterhaltungsmittel - einstimmig beschlossen
+- TOP 41: Antrag: Verfügungsmittel Diakonie Düsseldorf - einstimmig beschlossen
+- TOP 42: Antrag: Umbenennung der Haltestelle Südallee - einstimmig beschlossen
