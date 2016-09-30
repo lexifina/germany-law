@@ -1,0 +1,82 @@
+# 10. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-09-30T10:00:00+02:00
+- Ende: 2016-09-30T12:47:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-VV-28
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-VV-28
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-VV-28
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VV-28
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VV-28
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Bildung und Besetzung von Gremien
+- TOP 2.1.1: Bestellung von Vertreter/innen in den Gremien der Beteiligungen des RVR
+- TOP 2.1.2: Umbesetzung in den Fachausschüssen
+- TOP 2.1.3: Standortmarketingkampagne - Benennung von Mitgliedern für die Jury
+- TOP 2.1.3.1: Besetzung der Fachjury Standortwerbekampagne, Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 28.09.2016
+- TOP 2.1.3.2: Standortmarketingkampagne - Benennung der Mitglieder für die Jury Änderungsantrag der Fraktionen DIE LINKE, Piratenfraktion, FREIE WÄHLER NRW, FDP vom 29.09.2016
+- TOP 2.1.4: Arbeitskreis NWL-RVR-VRR, Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 30.06.2016
+- TOP 2.2: Ausschreibung der Stellen der Beigeordneten der Bereiche II Wirtschaftsführung und IV Umwelt
+- TOP 2.3: Haushaltsangelegenheiten
+- TOP 2.3.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2017
+- TOP 2.3.2: Einbringung des Haushaltes 2017
+- TOP 2.3.3: Entwurf des NKF-Gesamtabschlusses 2013
+- TOP 2.4: Resolutionen
+- TOP 2.4.1: Resolution „Stahlstandort Metropole Ruhr“, Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 28.09.2016
+- TOP 2.4.2: Ja zu Olympia in der Metropole Ruhr!, Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 28.09.2016
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Neuaufstellung des Bundesverkehrswegeplans (BVWP 2030) Information zur Endfassung des BVWP 2030
+- TOP 1.2: Städtebauförderung hier: Veröffentlichung des Städtebauförderprogramms 2016
+- TOP 1.3: Krankenhausplan 2015 hier: Sachstandsmitteilung zu den Versorgungsgebieten
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.4: 82. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99 ) im Gebiet der Stadt Rheinberg Umnutzung eines Oberflächengewässers für die zweckgebundene Nutzung Ruhehafen Ossenberg Hier: Erarbeitungsbeschluss
+- TOP 1.5: Stellungnahme der Regionalplanungsbehörde zum Planfeststellungsverfahren Ausbau Flughafen Düsseldorf
+- TOP 1.6: Abgrabungsmonitoring Nordrhein-Westfalen – Lockergesteine Hier: Landesbericht Abgrabungsmonitoring NRW 2016 – Ergebnisse aus den Monitoringberichten der sechs Planungsgebiete – Zeitraum 2011 bis 2015
+- TOP 1.7: Kabinettsbeschluss zum Landesentwicklungsplan
+- TOP 1.8: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 1.9: Sachstand Regionalplan Ruhr
+- TOP 1.10: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.5: klimametropole RUHR 2022 - Projektvorhaben TWINS-Dialog inkl. TWINS-Konferenz 'Stadt im Klimawandel - Cities in Climate Change'
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Fortführung Geonetzwerk.metropoleRuhr als Daueraufgabe
+- TOP 2.7: Interregionale Kooperation mit Berlin im Bereich Industriekultur
+- TOP 2.8: Stellungnahme des RVR als TÖB zum Entwurf des Nahverkehrsplanes der VRR AöR
+- TOP 2.8.1: Stellungnahme des RVR als TÖB zum Entwurf des Nahverkehrsplanes der VRR AöR, hier: Anfrage der CDU-Fraktion vom 07.09.2016 und Antwort der Verwaltung vom 13.09.2016
+- TOP 2.8.2: Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Nahverkehrsplanes der VRR AöR, Antrag der Piraten-Fraktion vom 28.09.2016
+- TOP 2.8.3: Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Nahverkehrsplanes der VRR AöR, Antrag der Fraktionen CDU, SPD und B90/Die Grünen vom 28.09.2016
+- TOP 2.9: Stellungnahme des RVR als Träger öffentlicher Belange zum 1. Deckblatt vom 30.11.2015 zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen [ABS46/2] Planfeststellungsabschnitt 1.2 Oberhausen-Sterkrade“
+- TOP 2.10: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Leistungsbeschreibung
+- TOP 2.11: Weiterentwicklung des Regionalen Radwegenetzes für die Metropole Ruhr
+- TOP 2.12: Radschnellwege in der Metropole Ruhr hier: Sachstandsbericht
+- TOP 2.13: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht
+- TOP 2.13.1: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht Ergänzung des Beschlussvorschlages und schriftliche Stellungnahme der Verwaltung vom 30.06.2016
+- TOP 2.13.2: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht Antrag der Fraktionen CDU, SPD, B90/Die Grünen vom 20.09.2016
+- TOP 2.13.3: Regionales Klimaschutzteilkonzept: Erneuerbare Energie in der Metropole Ruhr hier: Endbericht Änderungsantrag der Fraktion DIE LINKE vom 29.09.2016
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.14: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.15: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Beteiligung an der Ruhr:HUB GmbH
+- TOP 2.15.1: Evaluierung der Ergebnisse der Ruhr:Hub GmbH, Antrag der Fraktion Die Linke. vom 12.09.2016
+- TOP 2.16: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.17: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2015
+- TOP 2.18: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2015
+- TOP 2.19: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2015
+- TOP 2.20: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.21: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.21.1: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2015
+- TOP 2.21.2: Angelegenheiten der Freizeitgesellschaften - Sachstand aktueller Restrukturierungsprozess Ergebnisse der Arbeitsaufträge aus dem VV-Beschluss vom 01.07.2016
+- TOP 2.21.3: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH Änderung des Gesellschaftsvertrages sowie der Nebenabrede zum Gesellschaftsvertrag
+- TOP 2.22: Mitgliedschaft in der Einkaufsgenossenschaft der Kommunen in NRW: KoPart eG Erwerb eines Mitgliedanteils
+- TOP 2.23: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Verschmelzung der bds Boden- und Deponie-Sanierungs GmbH auf die AGR mbH zum 01.01.2016
+- TOP -: Fraktionsanträge
+- TOP 2.24: Anfragen und Mitteilungen
+- TOP -: Antwort der Verwaltung auf die AfD-Anfrage aus der Sitzung der Verbandsversammlung vom 01.07.2016, hier: Ankündigung auf dem RVR-Planernetzwerk „Unterbringung von Flüchtlingen“ am 29.4.2016
