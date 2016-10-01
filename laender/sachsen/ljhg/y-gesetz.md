@@ -1,5 +1,5 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 1. November 2015
+Rechtsbereinigt mit Stand vom 1. Oktober 2016
 Inhaltsübersicht
 Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
@@ -40,6 +40,7 @@ Fünfter Abschnitt Frühförderung, Schutz von Kindern und Jugendlichen in Pfleg
 § 32 Sicherstellung des Schulunterrichts bei Gewährung von Hilfe zur Erziehung in einer Einrichtung
 Sechster Abschnitt Unbegleitete ausländische Kinder und Jugendliche
 § 32a Verteilung
+§ 32c Verwaltungskostenpauschale
 Siebenter Abschnitt Sonstige Vorschriften
 § 33 Zuständigkeiten
 § 34 Befreiung von familiengerichtlicher Aufsicht
