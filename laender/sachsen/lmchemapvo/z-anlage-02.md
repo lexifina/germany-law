@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 16 Abs. 1)
+# Anlage 2 Prüfungsfächer und inhaltliche Schwerpunkte des Ersten Prüfungsabschnitts
 Prüfungsfächer und inhaltliche Schwerpunkte des Ersten Prüfungsabschnitts
 1. Anorganische und Analytische Chemie
 Grundbegriffe und -gesetze, Nomenklatur, Atombau und Periodensystem, Arten chemischer Bindungen, zwischenmolekulare Bindungskräfte, Lösungen und heterogene Systeme, Grundlagen der Thermodynamik und Kinetik chemischer Reaktionen, chemisches Gleichgewicht, Massenwirkungsgesetz, Säure-Base- und Redox-Systeme, Reaktionsgleichungen und Stöchiometrie, Vorkommen, Darstellung, Eigenschaften, Formeln (Summen-, Struktur- und Stereo-Formeln) und Reaktionsverhalten der Elemente und Stoffgruppen sowie deren qualitative und quantitative anorganische Analytik unter besonderer Berücksichtigung von häufig in Lebensmitteln vorkommenden, für den Umweltschutz oder aufgrund der Toxikologie relevanten Elementen

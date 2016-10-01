@@ -1,5 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz über die Ausbildung und Prüfung der staatlich geprüften Lebensmittelchemiker (LMChemAPVO)
 Vom 29. August 2013
+Rechtsbereinigt mit Stand vom 1. Oktober 2016
 Aufgrund von § 6 Abs. 2 Satz 1 des Gesetzes zur Ausführung des Lebensmittel- und Futtermittelgesetzbuches, des Vorläufigen Tabakgesetzes und des Verbraucherinformationsgesetzes im Freistaat Sachsen (SächsAGLFGB-VIG) vom 25. Januar 2008 (SächsGVBl. S. 62), das zuletzt durch Artikel 41 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 146) geändert worden ist, wird im Einvernehmen mit dem Staatsministerium für Wissenschaft und Kunst verordnet:
 Inhaltsübersicht
 Abschnitt 1 Allgemeines

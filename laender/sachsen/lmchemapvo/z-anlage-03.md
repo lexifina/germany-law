@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 17 Abs. 2 bis 5)
+# Anlage 3 Prüfungsfächer und inhaltliche Schwerpunkte des Zweiten Prüfungsabschnitts
 Prüfungsfächer und inhaltliche Schwerpunkte des Zweiten Prüfungsabschnitts
 Mündliche Prüfung
 1. Chemie und Analytik der Lebensmittel, der Futtermittel, der Tabakerzeugnisse, der kosmetischen Mittel, sonstiger Bedarfsgegenstände und des Wassers

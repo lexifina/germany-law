@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 7 Abs. 1 und 2 Nr. 3)
+# Anlage 1 Leistungsnachweise
 Leistungsnachweise für den Ersten Prüfungsabschnitt
 Für die Zulassung zum Ersten Prüfungsabschnitt ist je ein Nachweis über die regelmäßige und erfolgreiche Teilnahme an folgenden Lehrveranstaltungen vorzulegen:
 1. Praktika
@@ -34,5 +34,5 @@ Für die Zulassung zum Zweiten Prüfungsabschnitt ist je ein Nachweis über die 
 5. mikroskopische Untersuchungen von Lebensmitteln und Futtermitteln.
 Leistungsnachweise für den Dritten Prüfungsabschnitt
 Für die Zulassung zum Dritten Prüfungsabschnitt sind vorzulegen:
-1. je ein Nachweis über die Absolvierung der Ausbildungsbereiche nach § 3 Abs. 1 Satz 2 Nr. 1 bis 4,
+1. je ein Nachweis über die Absolvierung der Ausbildungsabschnitte nach § 3 Absatz 3 Satz 4 Nummer 1 bis 4,
 2. Nachweis über Teilnahme am Fachseminar nach § 3 Abs. 1 Satz 3 und 4.
