@@ -1,0 +1,62 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-10-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834298
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834298
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Wiederherstellung der früheren ebenerdigen Fußgängerübergänge Siglstraße / Ecke Zschokkestraße (Rückbau der Randsteine)
+- TOP 1.2.2.: Sauberkeit der Spiel- und Sportanlagen an der Valpichlerstraße
+- TOP 1.2.3.: Quietschgeräusch der Straßenbahn Linien 18 und 19 im Kurvenbereich der Agnes-Bernauer-Straße / Haltestelle Lautensackstraße
+- TOP 1.2.4.: Einrichtung von dauerhaften "Blitzern" in der Landsberger Straße im Abschnitt zwischen Friedenheimer Brücke und Laimer Würfel
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.2.: Gewährung eines Zuschusses aus dem Budget des BA 25 für eine Veranstaltung des Bezirksausschusses gemeinsam mit dem Interim: Genehmigung eines Zuschusses in Höhe von 6.000,-- Euro für die Internale vom 17.11. bis 20.11.16 (siehe TOP 7.2 Protokoll des UA Kultur)
+- TOP 3.3.: Gewährung eines Zuschusses aus dem Budget des BA 25 für eine Veranstaltung des Bezirksausschusses: Genehmigung eines Zuschusses in Höhe von 1.500,-- Euro für 5 Adventskonzerte eines Bläserquartetts (siehe TOP 7.2 Protokoll des UA Kultur)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 31.08.16: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: "Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat" in ein Entscheidungsrecht; Antrag des BA 16 Ramersdorf-Perlach Nr. 14-20 / B 01092 vom 16.04.15
+- TOP 4.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten? (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.15
+- TOP 4.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils? (Anlage 1 BA-Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht sowie Änderung des Anhörungsrechtes ?Förderung und Unterstützung von Vereinen, Gruppen und Initiativen? (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.15
+- TOP 4.4.: Schreiben Baureferat vom 05.09.16: Erinnerungsverfahren; Radwegsanierung Zschokkestr. nördliche und südliche Straßenseite
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.08.16: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) (vertagt aus der BA-Sitzung vom 13.09.16)
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 01.09.16: "Mehr Grün und Blumen in Münchens Straßen möglich machen"; Stadtratsantrag Nr. 14-20 / A 02395 vom 11.08.16
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Zschokkestr. 36: Neubau dreier Mehrfamilienhäuser mit Tiefgaragen BA NORD / VBA 2 (Zschokkestr. 36 / Wilhelm-Riehl-Str. 11+13) / Vorbescheid
+- TOP 5.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.09.16: Landsberger Str. 293: Umrüstung einer Mega-Light-Anlage auf eine LED Mega Light Wechselwerbeanlage, 2-seitig freistehend
+- TOP 6: Sonstiges
+- TOP 6.1.: Termine der BA-Sitzungen und der Bürgerversammlung 2017
+- TOP 6.2.: Schreiben Direktorium vom 07.09.16: 18.jetzt - Fest junger Erwachsener im Rathaus am Marienplatz am 29.10.2016
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 13.09.16
+- TOP 7.2.: Sitzung UA Kultur vom 19.09.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 07.09.16: Nachträgliche Unterrichtung über einen entfernten Gefahrenbaum in der Zschokkestraße, Mittelstreifen auf Höhe Straubinger Straße
+- TOP 8.2.: Schreiben Referat für Gesundheit und Umwelt vom 08.09.16: Einladung zum Fachtag "Wohnen in München - auch mit Behinderung und Einschränkungen!" am 18.11.16 im Bauzentrum München
+- TOP 8.3.: Schreiben Referat für Gesundheit und Umwelt vom 14.09.16: Einladung zum kostenfreien Abendforum "Der sichere Betrieb von Kühltürmen" am 13.10.2016 von 15:30 bis 18:00 Uhr im Bauzentrum München
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.09.16: Vollzug der Baumschutzverordnung; Reutterstr. 93, Bescheid vom 09.09.16
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.09.16: Stöberlstr. 75, Um- und Anbau sowie Aufstockung eines Pflegeheims, Vorbescheid
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.09.16: PERSPEKTIVE MÜNCHEN - Weiterentwicklung des Handlungsraumansatzes; Terminankündigung für ein moderiertes Gespräch mit der Politik (Stadtrat und Bezirksausschüsse) am 07.11.16 von 18:30 bis ca. 20:30 Uhr im Rathaus am Marienplatz, Ratstrinkstube
+- TOP 8.8.: Bautenliste vom 22.08. bis 28.08.16: 1. Erstantragsverfahren a) Hartelstr. 36 b) Kirchmairstr. 22 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Hönlestr. 17 b) Camerloherstr. 76
+- TOP 8.9.: Bautenliste vom 29.08. bis 04.09.16: 1. Erstantragsverfahren a) Aindorferstr. 159 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Rechpacherstr. 15
+- TOP 8.10.: Bautenliste vom 05.09. bis 11.09.16: 1. Erstantragsverfahren a) Stöberlstr. 80 b) Schäufeleinstr.
+- TOP 8.11.: Bautenliste vom 12.09. bis 18.09.16: 1. Erstantragsverfahren a) Landsberger Str. 214
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 05.09.16: Baumaßnahmen der Stadtwerke; Stichtage 29.08. - 02.09.16
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 12.09.16: Baumaßnahmen der Stadtwerke; Stichtage 05.09. - 09.09.16
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 19.09.16: Baumaßnahmen der Stadtwerke; Stichtage 12.09. - 16.09.16
+- TOP 8.15.: Beschluss der Vollversammlung des Stadtrates vom 20.07.16: Mieterbeirat; Änderung der Mieterbeiratssatzung und der Geschäftsordnung, Änderung der Vergütungsregelungen (Sitzungsvorlage Nr. 14-20 / V 05619)
+- TOP 8.16.: Beschluss des Bildungsausschusses des Stadtrates vom 14.09.16: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012/2013/2014 - Fortschreibung Bauprogramm 2016 - Änderung des Mehrjahresinvestitionsprogrammes 2015-2019 (Sitzungsvorlage Nr. 14-20 / V 06885)
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.16: Bürgerbeteiligung stärken!; Antrag Nr. 14-20 / A 02097 der Stadtratsfraktion Freiheitsrechte Transparenz und Bürgerbeteiligung vom 06.05.16 (Sitzungsvorlage Nr. 14-20 / V 06615)
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.16: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP) (Sitzungsvorlage Nr. 14-20 / V 07001)
+- TOP 8.19.: Schreiben Deutsche Bahn AG vom 14.09.16: Instandsetzung der Uhr am S-Bahnhof Laim
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Bohemia After Dark e.V. Theaterstück "The Deviant" am 25.11 + 26.11.2016
+- TOP 1.2: Bürgerpost an den BA
