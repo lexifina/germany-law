@@ -1,0 +1,62 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-10-05T17:00:00+02:00
+- Ende: 2016-10-05T19:05:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11456
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11456
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275998.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275998.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00275998.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfrage CDU/FDP: Überfälle Stadtbezirk 6 - beantwortet
+- TOP 6: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 7: Anfrage SPD: Unterrather Tor - vertagt
+- TOP 8: Anfrage Wieroszewsky: Flughafen Park-Servicefirmen - schriftlich beantwortet
+- TOP 9: Anfrage Daxenberger: Erdgasleitung Aaper Wald - schriftlich beantwortet
+- TOP 10: Anfrage SPD: Haltestelle Am Röttchen - vertagt
+- TOP 11: Anfrage CDU: Theodorstraße 366 - schriftlich beantwortet
+- TOP 12: Antrag Daxenberger: Wohnraum Zeisigweg/Am Roten Haus - einstimmig beschlossen
+- TOP 13: Antrag SPD: Kreuzung Kalkumer Straße - einstimmig beschlossen
+- TOP 14: Antrag FDP und Fr. Sültenfuß: Fußgängerinsel Eckenerstraße - einstimmig beschlossen
+- TOP 15: Antrag FDP und Fr. Sültenfuß: Umrüstung Gaslaternen - zurückgezogen
+- TOP 16: Interfr. Antrag: Traglufthalle - einstimmig beschlossen
+- TOP 17: Interfr. Antrag: Sportplatz Herdecker Straße - einstimmig beschlossen
+- TOP 18: HH-Antrag SPD: Radweg Münsterstraße - einstimmig beschlossen
+- TOP 19: HH-Antrag SPD: Verkehrsgutachten Rath - einstimmig beschlossen
+- TOP 20: HH-Antrag SPD: Unterrather Straße - einstimmig beschlossen
+- TOP 21: HH-Antrag CDU, BÜ90/GRÜNE und FDP: Unterrather Straße - einstimmig beschlossen
+- TOP 22: HH-Antrag SPD: JFE Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 23: HH-Antrag CDU, BÜ90/GRÜNE und FDP: JFE Blue Rock - einstimmig beschlossen
+- TOP 24: HH-Antrag CDU: Bürgersaal Rath - einstimmig beschlossen
+- TOP 25: HH-Antrag BÜ90/GRÜNE: Essbare Stadt - einstimmig beschlossen
+- TOP 26: HH-Antrag BÜ90/GRÜNE: Bezirksradwegenetz - einstimmig beschlossen
+- TOP 27: HH-Antrag CDU: Ascheplatz AGON 08 - einstimmig beschlossen
+- TOP 28: HH-Antrag CDU, FDP und BÜ90/GRÜNE: Spontanvegetation - einstimmig beschlossen
+- TOP 29: HH-Antrag CDU: Überplanung Unterrather Straße - einstimmig beschlossen
+- TOP 30: HH-Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 31: HH-Antrag CDU: Lichtquelle Grünanlage St.-Franziskus-Straße - einstimmig beschlossen
+- TOP 32: HH-Antrag CDU: Beleuchtung Kittelbach - einstimmig beschlossen
+- TOP 33: HH-Antrag Interfraktionell: In der Nießdonk - einstimmig beschlossen
+- TOP 34: HH-Antrag Interfraktionell: KSP Schwietzkestraße - einstimmig beschlossen
+- TOP 35: Beratung Haushalt 2017 - mehrheitlich beschlossen
+- TOP 36: Trödelmärkte Rather Broich - einstimmig beschlossen
+- TOP 37: Zuschussvergabe 2016 - JBH - einstimmig beschlossen
+- TOP 38: Förderung Dritter 2016 - einstimmig beschlossen
+- TOP 39: MdV - Kreitenplatz - zur Kenntnis genommen
+- TOP 40: MdV - Fortschreibung Regionalplan - zur Kenntnis genommen
+- TOP 41: Förderung Dritter 2016 - einstimmig beschlossen
+- TOP 42: Förderung Dritter 2016 - einstimmig beschlossen
+- TOP 43: Bauunterhaltungsmittel 2016 - einstimmig beschlossen
+- TOP 44: Zuschussvergabe 2016 - GGS Max-Halbe-Straße - einstimmig beschlossen
+- TOP 45: Bauunterhaltungsmittel 2016 - Restmittel 2016 - einstimmig beschlossen
