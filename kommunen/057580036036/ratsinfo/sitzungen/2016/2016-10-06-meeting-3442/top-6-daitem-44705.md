@@ -1,0 +1,6 @@
+# TOP 6.: Kommunales Integrationszentrum: Aktueller Sachstand, Rückblick, Ausblick
+
+- Sitzung: Ausschuss für Soziales, Senioren, Integration und Gleichstellung (5. Sitzung) (2016-10-06)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/44705
