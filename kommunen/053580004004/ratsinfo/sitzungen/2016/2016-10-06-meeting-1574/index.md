@@ -1,0 +1,57 @@
+# Gemeinderat (21. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2016-10-06T18:05:00+02:00
+- Ende: 2016-10-06T21:15:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRdo2xfnxciP-H8UJfMKexQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1574
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX5s4iKCGG1y8Rv3isMcVZqBGhVWBv6zDwiTaEelGdYn/Bekanntmachung_Gemeinderat_06.10.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRtbkWGHhiIBVTKYtlDLp8ZnM3dOebrwLgfiTd4v2nBh/Oeffentliche_Niederschrift_Gemeinderat_06.10.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.08.2016 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1. Änderung der 23. Änderung des Bebauungsplans 15 A - Autohaus Chorus - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: 6. Änderung Bebauungsplan 35 A - Am Schwanenkamp - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 6. Änderung des Bebauungsplans 35 A - Am Schwanenkamp - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß §13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB- - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: 9. Änderung Bebauungsplan 17 A - Industriegebiet - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 9. Änderung des Bebauungsplans 17 A - Industriegebiet - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß §13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - 15 Ja-Stimme(n), 10 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 3.4: 1. Änderung Bebauungsplan 57 DE - WK IV - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 1. Änderung des Bebauungsplans 57 DE - WK IV - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB c.) Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie die Beteiligung der Behörden und berührten Träger öffentlicher Belange nach § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: Bebauungsplan 66 A - Marienstraße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.6: Bebauungsplan 1 E - Engelsdorf - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Aufhebungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.7: Bebauungsplan 67 A - Niedermerzer Straße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - 22 Ja-Stimme(n), 1 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 3.8: 3. Änderung des Bebauungsplans 42 N - Am Aldenhovener Weg - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.9: Bebauungsplan 69 E - Burg Engelsdorf - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 69 E - Burg Engelsdorf - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB c.) Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie die Beteiligung der Behörden und berührten Träger öffentlicher Belange nach § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Anträge von Fraktionen
+- TOP 4.1: Antrag der CDU-Fraktion: Sachstandbericht zum Spielplatz / Jugendtreff im Bereich Pestalozziring
+- TOP 5.: Gebühren, Beiträge
+- TOP 5.1: Erhebung von Anliegerbeiträgen für die Erneuerung der Beleuchtungseinrichtungen in Aldenhoven, Gemarkung Aldenhoven, "Martinusstraße" (Teilstück zwischen Barbarastraße und L 136) a) Festlegung der Grenze des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Erhebung von Anliegerbeiträgen für die Erneuerung der Beleuchtungseinrichtungen in Aldenhoven, Gemarkung Siersdorf, "Pützgracht" (Teilstück zwischen Bettendorfer Straße und St.-Georg-Straße) a) Festlegung der Grenze des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Widmung von Straßen gemäß § 6 Straßen- und Wegegesetz NRW a) Käthe-Kollwitz-Ring b) Im Uhrfeld - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Ausführung des Haushalts
+- TOP 8.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.08.2016 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Erwerb von landwirtschaftlichen Flächen - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 3.: Anträge von Fraktionen
+- TOP 3.1: Antrag der SPD-Fraktion zur teilweisen Übernahme von Verfüllungskosten wegen des Stolleneinbruchs in Schleiden - Abstimmungsergebnis: Ohne Abstimmung
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Kooperationsprojekte der EWV im Netzbereich - Zur Kenntnis genommen
+- TOP 4.2: Berichte aus den Gremien
+- TOP 5.: Auftragsvergaben
+- TOP 5.1: Neustrukturierung der EDV-Anlage im Rathaus - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Grundstücksangelegenheiten
+- TOP 6.1: Verkauf einer gemeindeeigenen Parzelle - Einstimmig, 1 Enthaltung(en)
+- TOP 6.2: Verkauf von gemeindlichen Grundstücken - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Verkauf von gemeindlichen Wohnbaugrundstücken - Einstimmig, 0 Enthaltung(en)
+- TOP 6.4: Verkauf von gemeindlichen Wohnbauflächen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
