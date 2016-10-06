@@ -1,0 +1,56 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-10-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798535
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798535
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 06.09.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.2.: (E) Condrobs e.V.: Beschaffung von Ausstattung für pädagogisch betreutes Boxtraining für jugendliche Flüchtlinge; Sitzungsvorlage Nr.: 14-20 / V 06565
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 4.4.: (A) Satzungsänderung: Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten; BA-Antrags Nr. 14-20 / B 01092 des Bezirksausschusses 16 Ramersdorf-Perlach vom 16.04.2015
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk ? Aktueller Stand der Ergebnisse
+- TOP 5.3.: (A) Evaluation Fahrradabstellplatzsatzung (FabS)
+- TOP 5.4.: (Antrag) Durchfahrverbot für die Winterhalterstr.
+- TOP 5.5.: (E) Programm barrierefreie Bushaltestellen (ÖPNV Offensive) ? Siemensallee Haltestelle Carola-Neher-Straße; Projekt Nr. 5605; Umsetzung Sitzungsvorlage Nr. 08-14 / V 13721
+- TOP 6.7.: (A) Mehr Grün und Blumen in Münchens Straßen möglich machen; Antrag aus dem Münchner Stadtrat
+- TOP 6.8.: (Antrag) Temporäres Haltverbot Aidenbachstr.
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Satzungsänderung: Werbeanlagen mit Entscheidungskompetenz beim Referat für Stadtplanung und Bauordnung; BA-Antrags Nr. 14-20 / B 01092 des Bezirksausschusses 16 Ramersdorf-Perlach vom 16.04.2015
+- TOP 6.4.: (U) Zweckentfremdung: Uhdestr.
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: (A) Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen an der Kistlerhofstr./ Boschetsrieder Str.; Genehmigung des Nutzerbedarfsprogrammes
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.2.: (A) Satzungsänderung: Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils und Förderung und Unterstützung von Vereinen, Gruppen und Initiativen; BA-Antrags Nr. 14-20 / B 01092 des Bezirksausschusses 16 Ramersdorf-Perlach vom 16.04.2015
+- TOP 0: Bericht (6)
+- TOP 9: Verschiedenes
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Maibaumverein Thalkirchen e.V. Beschaffung, Aufstellung und Beleuchtung eines Christbaumes vom 26.11.2016 bis 06.01.2017
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Katholisches Pfarramt Sankt Ansgar Herbstball am 22.10.2016
+- TOP 6: (E) Schulwegsicherheit an der Ecke Possenhofener Straße / Forstenrieder Allee erhöhen - <div></div>
+- TOP 0.9.: Verkehrliche Änderungsmaßnahmen in der Warnbergstraße Ziff. 3: Verlegung der Haltestelle des Bus 135 - <div></div>
+- TOP 0.3.: Aufwertung des Schweizer Platzes - <div></div>
+- TOP 0.4.: Schwimmkurse für Kinder und Jugendliche - <div></div>
+- TOP 8.1.: Antwortschreiben, Unterrichtungen
