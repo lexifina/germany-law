@@ -1,0 +1,7 @@
+# TOP 6: Mitteilungen des Landrates und Aussprache
+
+- Sitzung: Sitzung des Kreistages Ludwigslust-Parchim (2016-10-06)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7301aff24bb7ed51280aef
+- Ergebnis: (offen)
