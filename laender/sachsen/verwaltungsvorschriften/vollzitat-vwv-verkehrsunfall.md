@@ -1,8 +1,8 @@
 # Vollzitat: VwV Verkehrsunfall
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2009-12-11 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/10111.2
+- Datum: 2016-10-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/10111.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-11.12.2009
+07.10.2016
 bis
-06.10.2016
+17.09.2026
 
 VwV Verkehrsunfall
 
@@ -280,7 +280,7 @@ Die Unfallstelle ist unter Beachtung der Maßnahmen zur Beweissicherung schnell 
 h)         
 
 
-Wurde mindestens eine Person getötet oder mehrere Personen lebensgefährlich verletzt, ist die Staatsanwaltschaft sofort zu benachrichtigen (§ 159 Abs. 1 der                 Strafprozessordnung [StPO]). Die Leiche ist sicherzustellen oder zu beschlagnahmen. Die Feststellung des Todes sowie der Todesursache erfolgt durch einen Arzt, der die Todesbescheinigung ausstellt. Unfalltote sind mit einem Tuch abzudecken oder auf andere geeignete Weise dem Anblick von Zuschauern zu entziehen.                     
+Wurde mindestens eine Person getötet oder mehrere Personen lebensgefährlich verletzt, ist die Staatsanwaltschaft sofort zu benachrichtigen (§ 159 Abs. 1 der                 Strafprozessordnung [StPO]). Die Leiche ist sicherzustellen oder zu beschlagnahmen. Die Feststellung des Todes sowie der Todesursache erfolgt durch einen Arzt, der die Todesbescheinigung ausstellt. Unfalltote sind mit einem Tuch abzudecken oder auf andere geeignete Weise dem Anblick von Zuschauern zu entziehen.                                        
 
 
 2.        
@@ -364,13 +364,13 @@ Bestehen Anzeichen dafür, dass körperliche oder geistige Mängel, zum Beispiel
 cc)         
 
 
-Liegen die Voraussetzungen für die Entziehung einer deutschen Fahrerlaubnis vor (§ 69 des                 Strafgesetzbuches [StGB              ]), ist der Führerschein sicherzustellen oder zu beschlagnahmen (§ 94 StPO). Ebenso ist bei Inhabern von ausländischen Fahrerlaubnissen zur Eintragung der vorläufigen Entziehung zu verfahren (§ 111a Abs. 6                 StPO). Der sichergestellte oder beschlagnahmte Führerschein ist unverzüglich mit der Verkehrsunfallanzeige oder, soweit diese noch nicht gefertigt werden kann, mit Vorausmeldung der Staatsanwaltschaft zu übersenden.                       
+Liegen die Voraussetzungen für die Entziehung einer deutschen Fahrerlaubnis vor (§ 69 des                 Strafgesetzbuches [StGB              ]), ist der Führerschein sicherzustellen oder zu beschlagnahmen (§ 94 StPO). Ebenso ist bei Inhabern von ausländischen Fahrerlaubnissen zur Eintragung der vorläufigen Entziehung zu verfahren (§ 111a Abs. 6                 StPO). Der sichergestellte oder beschlagnahmte Führerschein ist unverzüglich mit der Verkehrsunfallanzeige oder, soweit diese noch nicht gefertigt werden kann, mit Vorausmeldung der Staatsanwaltschaft zu übersenden.                                                         
 
 
 dd)         
 
 
-Gibt es Anhaltspunkte dafür, dass Fahrzeugmängel ursächlich für den Unfall waren, sind das Fahrzeug oder Teile davon sicherzustellen oder zu beschlagnahmen. Soweit Mängel als Unfallfolge eine Vorschriftswidrigkeit gemäß §§ 30 ff. der                 Straßenverkehrs-Zulassungs-Ordnung (                            StVZO) in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), die zuletzt durch Artikel 3 der Verordnung vom 21. April 2009 (BGBl. I S. 872, 885) geändert worden ist, begründen, ist ein Mängelbericht zu fertigen.                     
+Gibt es Anhaltspunkte dafür, dass Fahrzeugmängel ursächlich für den Unfall waren, sind das Fahrzeug oder Teile davon sicherzustellen oder zu beschlagnahmen. Soweit Mängel als Unfallfolge eine Vorschriftswidrigkeit gemäß §§ 30 ff. der                 Straßenverkehrs-Zulassungs-Ordnung (                            StVZO) in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), die zuletzt durch Artikel 3 der Verordnung vom 21. April 2009 (BGBl. I S. 872, 885) geändert worden ist, begründen, ist ein Mängelbericht zu fertigen.                                           
 
 
 ee)         
@@ -505,7 +505,7 @@ Bei Verkehrsunfällen mit 20 oder mehr beteiligten Fahrzeugen ist der Gesamtverb
 Verkehrsunfälle auf Bahnübergängen und Bahnanlagen der Eisenbahnen des Bundes          
 
 
-Bei Verkehrsunfällen, die die Sicherheit des Bahnverkehrs auf Bahnanlagen der Eisenbahnen des Bundes beeinträchtigen, sind sofort die nächste Bahndienststelle sowie die zuständige Stelle der Bundespolizei zu verständigen. Die Zuständigkeit der Bundespolizei ist funktional auf die Abwehr eisenbahnspezifischer Gefahren und die Verfolgung bahnpolizeilicher Straftaten gemäß § 12 Abs. 1 des Gesetzes über die Bundespolizei (Bundespolizeigesetz               –                 BPolG) vom 19. Oktober 1994 (BGBl. I S. 2978, 2979), das zuletzt durch Artikel 1 des Gesetzes vom 26. Februar 2008 (BGBl. I S. 215) geändert worden ist, sowie räumlich auf das Gebiet der Bahnanlagen der Eisenbahnen des Bundes begrenzt. Die Zuständigkeit der Landespolizei auf dem Gebiet der Bahnanlagen bleibt im Übrigen unberührt.                       
+Bei Verkehrsunfällen, die die Sicherheit des Bahnverkehrs auf Bahnanlagen der Eisenbahnen des Bundes beeinträchtigen, sind sofort die nächste Bahndienststelle sowie die zuständige Stelle der Bundespolizei zu verständigen. Die Zuständigkeit der Bundespolizei ist funktional auf die Abwehr eisenbahnspezifischer Gefahren und die Verfolgung bahnpolizeilicher Straftaten gemäß § 12 Abs. 1 des Gesetzes über die Bundespolizei (Bundespolizeigesetz               –                 BPolG) vom 19. Oktober 1994 (BGBl. I S. 2978, 2979), das zuletzt durch Artikel 1 des Gesetzes vom 26. Februar 2008 (BGBl. I S. 215) geändert worden ist, sowie räumlich auf das Gebiet der Bahnanlagen der Eisenbahnen des Bundes begrenzt. Die Zuständigkeit der Landespolizei auf dem Gebiet der Bahnanlagen bleibt im Übrigen unberührt.                                                      
 
 
 3.        
@@ -514,7 +514,7 @@ Bei Verkehrsunfällen, die die Sicherheit des Bahnverkehrs auf Bahnanlagen der E
 Verkehrsunfälle mit Haarwild          
 
 
-Unter einem Wildschaden wird ein Zusammenstoß eines in Bewegung befindlichen Fahrzeugs mit Haarwild im Sinne des               Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849), zuletzt geändert durch Artikel 5 des Gesetzes vom 26. März 2008 (BGBl. I S. 426, 439), verstanden. Zur Schadenregulierung ist der Versicherungsnehmer verpflichtet, den Schaden außer dem Versicherungsunternehmen auch der nächsten Polizeidienststelle unverzüglich zu melden. Dem Meldenden ist eine Bescheinigung im Sinne der Anlage 4 zur Vorlage bei dem Versicherungsunternehmen auszustellen.                     
+Unter einem Wildschaden wird ein Zusammenstoß eines in Bewegung befindlichen Fahrzeugs mit Haarwild im Sinne des               Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849), zuletzt geändert durch Artikel 5 des Gesetzes vom 26. März 2008 (BGBl. I S. 426, 439), verstanden. Zur Schadenregulierung ist der Versicherungsnehmer verpflichtet, den Schaden außer dem Versicherungsunternehmen auch der nächsten Polizeidienststelle unverzüglich zu melden. Dem Meldenden ist eine Bescheinigung im Sinne der Anlage 4 zur Vorlage bei dem Versicherungsunternehmen auszustellen.                                        
 
 
 4.        
@@ -523,7 +523,7 @@ Unter einem Wildschaden wird ein Zusammenstoß eines in Bewegung befindlichen Fa
 Verkehrsunfälle mit Beteiligung der Streitkräfte          
 
 
-Bei Beteiligung von Fahrzeugen der Bundeswehr sind unverzüglich die zuständigen Dienststellen der Feldjäger zu unterrichten. Ist ein Dienstfahrzeug ausländischer Streitkräfte an einem Verkehrsunfall mit Fremdschaden beteiligt, ist der zuständigen Verwaltungsbehörde, der Bundesanstalt für Immobilienaufgaben, Schadensregulierungsstelle – Regionalbüro Ost Erfurt –, Ludwig-Erhard-Ring 8, 99099 Erfurt, eine Mehrfertigung der Verkehrsunfallanzeige direkt zu übersenden. Schadenersatzansprüche Geschädigter sind ebenfalls an diese Stelle zu richten. Dem Geschädigten ist das als Anlage 5 angefügte Merkblatt auszuhändigen.         
+Bei Beteiligung von Fahrzeugen der Bundeswehr sind unverzüglich die zuständigen Dienststellen der Feldjäger zu unterrichten. Ist ein Dienstfahrzeug ausländischer Streitkräfte an einem Verkehrsunfall mit Fremdschaden beteiligt, ist der zuständigen Verwaltungsbehörde, der Bundesanstalt für Immobilienaufgaben, Schadensregulierungsstelle – Regionalbüro Ost Erfurt –, Drosselbergstraße 2, 99097 Erfurt, eine Mehrfertigung der Verkehrsunfallanzeige direkt zu übersenden. Schadenersatzansprüche Geschädigter sind ebenfalls an diese Stelle zu richten. Dem Geschädigten ist das als Anlage 5 angefügte Merkblatt auszuhändigen.
 
 
 5.        
@@ -571,7 +571,7 @@ polizeiliche Maßnahmen, die keine weitere Freiheitsbeschränkung oder Freiheits
 e)         
 
 
-die Erteilung von Verwarnungen mit oder ohne Verwarnungsgeld sowie die Einleitung und Durchführung von Bußgeldverfahren nach den Vorschriften des                 Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch Artikel 2 des Gesetzes vom 7. August 2007 (BGBl. I S. 1786, 1787).                     
+die Erteilung von Verwarnungen mit oder ohne Verwarnungsgeld sowie die Einleitung und Durchführung von Bußgeldverfahren nach den Vorschriften des                 Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch Artikel 2 des Gesetzes vom 7. August 2007 (BGBl. I S. 1786, 1787).                                           
 
 
 Auf die            
@@ -615,7 +615,7 @@ Sofern eine Sicherheitsleistung erforderlich ist, ist diese grundsätzlich in Ab
 c)         
 
 
-Ist ein ausländisches Fahrzeug nach einem Verkehrsunfall nicht mehr verkehrssicher, ist in der Regel die Weiterfahrt zu unterbinden. Auf § 22 der Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung               –                 FZV) vom 25. April 2006 (BGBl. I S. 988), die durch Artikel 4 Abs. 17 des Gesetzes vom 29. Juli 2009 (BGBl. I. S. 2258, 2271) geändert worden ist, wird hingewiesen.                       
+Ist ein ausländisches Fahrzeug nach einem Verkehrsunfall nicht mehr verkehrssicher, ist in der Regel die Weiterfahrt zu unterbinden. Auf § 22 der Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr (Fahrzeug-Zulassungsverordnung               –                 FZV) vom 25. April 2006 (BGBl. I S. 988), die durch Artikel 4 Abs. 17 des Gesetzes vom 29. Juli 2009 (BGBl. I. S. 2258, 2271) geändert worden ist, wird hingewiesen.                                                         
 
 
 d)         
@@ -627,7 +627,7 @@ Fahrzeuge, die nicht in Mitgliedstaaten der Europäischen Union zugelassen sind,
 e)         
 
 
-Von Beteiligten mit im Ausland zugelassenen Fahrzeugen, für die in Deutschland kein Versicherungsnachweis auf Basis des amtlichen Kennzeichens besteht (§ 8a des               Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger in der im Bundesgesetzblatt Teil III, Gliederungsnummer 925-2, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 297 der Verordnung vom 31. Oktober 2006 [BGBl. I S. 2407, 2446] geändert worden ist, in Verbindung mit der Verordnung zur Durchführung der Richtlinie des Rates der Europäischen Gemeinschaften vom 24. April 1972 betreffend die Angleichung der Rechtsvorschriften der Mitgliedstaaten bezüglich der Kraftfahrzeug-Haftpflichtversicherung und der Kontrolle der entsprechenden Versicherungspflicht vom 8. Mai 1974 [BGBl. I S. 1062], zuletzt geändert durch Artikel 7 des Gesetzes vom 10. Dezember 2007 [BGBl. I S. 2833, 2836]), sind die Anschrift der Versicherungsgesellschaft und die Nummer der grünen internationalen Versicherungskarte oder des rosa Grenzversicherungsscheines festzustellen und in die Unfallakten aufzunehmen. Die aktuelle Übersicht der betreffenden Länder ist den Internetseiten des Deutschen Büros Grüne Karte e.V. unter www.gruene-karte.de zu entnehmen. Ein Duplikat der internationalen Versicherungskarte kann mit Zustimmung des Fahrzeugführers den Akten beigefügt werden.                     
+Von Beteiligten mit im Ausland zugelassenen Fahrzeugen, für die in Deutschland kein Versicherungsnachweis auf Basis des amtlichen Kennzeichens besteht (§ 8a des               Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger in der im Bundesgesetzblatt Teil III, Gliederungsnummer 925-2, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 297 der Verordnung vom 31. Oktober 2006 [BGBl. I S. 2407, 2446] geändert worden ist, in Verbindung mit der Verordnung zur Durchführung der Richtlinie des Rates der Europäischen Gemeinschaften vom 24. April 1972 betreffend die Angleichung der Rechtsvorschriften der Mitgliedstaaten bezüglich der Kraftfahrzeug-Haftpflichtversicherung und der Kontrolle der entsprechenden Versicherungspflicht vom 8. Mai 1974 [BGBl. I S. 1062], zuletzt geändert durch Artikel 7 des Gesetzes vom 10. Dezember 2007 [BGBl. I S. 2833, 2836]), sind die Anschrift der Versicherungsgesellschaft und die Nummer der grünen internationalen Versicherungskarte oder des rosa Grenzversicherungsscheines festzustellen und in die Unfallakten aufzunehmen. Die aktuelle Übersicht der betreffenden Länder ist den Internetseiten des Deutschen Büros Grüne Karte e.V. unter www.gruene-karte.de zu entnehmen. Ein Duplikat der internationalen Versicherungskarte kann mit Zustimmung des Fahrzeugführers den Akten beigefügt werden.                                        
 
 
 VI. 
@@ -695,7 +695,7 @@ Liegen die Voraussetzungen gemäß Ziffer VI Nr. 2 Buchst. a im Zusammenhang mit
 c)         
 
 
-Liegen die Voraussetzungen gemäß Ziffer VI Nr. 2 Buchst. a im Zusammenhang mit einem Strafverfahren vor und wird berechtigtes Interesse von Rechtsanwälten auf Grundlage einer Vollmacht begründet, kann diesen auch in diesen Fällen ein Abdruck der Verkehrsunfallanzeige oder ein Ausdruck der Einzelmaßnahme „Verkehrsunfallanzeige“ des IVO-Vorgangs zur Verfügung gestellt werden, soweit hiergegen nicht im Einzelfall Bedenken bestehen (§ 406e Abs. 2               StPO). In Zweifelsfällen ist die Entscheidung der zuständigen Staatsanwaltschaft einzuholen.                     
+Liegen die Voraussetzungen gemäß Ziffer VI Nr. 2 Buchst. a im Zusammenhang mit einem Strafverfahren vor und wird berechtigtes Interesse von Rechtsanwälten auf Grundlage einer Vollmacht begründet, kann diesen auch in diesen Fällen ein Abdruck der Verkehrsunfallanzeige oder ein Ausdruck der Einzelmaßnahme „Verkehrsunfallanzeige“ des IVO-Vorgangs zur Verfügung gestellt werden, soweit hiergegen nicht im Einzelfall Bedenken bestehen (§ 406e Abs. 2               StPO). In Zweifelsfällen ist die Entscheidung der zuständigen Staatsanwaltschaft einzuholen.                                           
 
 
 d)         
@@ -710,7 +710,7 @@ In Fällen gemäß Ziffer VI Nr. 2 Buchst. b und c ist bei Übermittlung der Ver
 Unfallservice          
 
 
-Zur Erleichterung des privatrechtlichen Schadensausgleiches ist darauf hinzuwirken, dass die Unfallbeteiligten an Ort und Stelle die Angaben zur Person und zum Versicherer gemäß § 34 Abs. 1 Ziffer 5 Buchst. b der                 Straßenverkehrs-Ordnung (StVO) vom 16. November 1970 (BGBl. I S. 1565), die zuletzt durch Artikel 1 der Verordnung vom 26. März 2009 (BGBl. I S. 734) geändert worden ist, austauschen. Den Unfallbeteiligten ist der Vordruck „Personalienaustauschkarte“ (Anlage 6) auszuhändigen.                     
+Zur Erleichterung des privatrechtlichen Schadensausgleiches ist darauf hinzuwirken, dass die Unfallbeteiligten an Ort und Stelle die Angaben zur Person und zum Versicherer gemäß § 34 Abs. 1 Ziffer 5 Buchst. b der                 Straßenverkehrs-Ordnung (StVO) vom 16. November 1970 (BGBl. I S. 1565), die zuletzt durch Artikel 1 der Verordnung vom 26. März 2009 (BGBl. I S. 734) geändert worden ist, austauschen. Den Unfallbeteiligten ist der Vordruck „Personalienaustauschkarte“ (Anlage 6) auszuhändigen.                                        
 
 
 VII. 
@@ -724,7 +724,7 @@ Straßenverkehrsunfallstatistik
 Meldung an das Statistische Landesamt          
 
 
-Die Daten gemäß § 2 Abs. 1 und 2 des Gesetzes über die Statistik der Straßenverkehrsunfälle (              Straßenverkehrsunfallstatistikgesetz               –                 StVUnfStatG) vom 15. Juni 1990 (BGBl. I S. 1078), das zuletzt durch Artikel 298 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407, 2446) geändert worden ist, sind als Elektronischer-Unfalltypen-Steckkarten-(EUSKa)-Datensatz in Form eines erweiterten elektronischen Datensatzes UM001x grundsätzlich innerhalb von zehn Tagen an das Statistische Landesamt Sachsen weiterzuleiten. Dazu ist durch den Sachbearbeiter die Einzelmaßnahme „Verkehrsunfallaufnahme“ so vollständig als möglich und innerhalb der genannten Frist abzuschließen. Bei Veränderungen oder Ergänzungen einer bereits abgeschlossenen Einzelmaßnahme „Verkehrsunfallaufnahme“ sind diese an die Polizeidirektion nachzumelden. Diese Nachmeldung erfolgt durch Übersendung eines Ausdrucks des Statistikteils der Verkehrsunfallanzeige mit der entsprechenden Kenntlichmachung der Veränderungen oder Ergänzungen.                       
+Die Daten gemäß § 2 Abs. 1 und 2 des Gesetzes über die Statistik der Straßenverkehrsunfälle  		  (Straßenverkehrsunfallstatistikgesetz – StVUnfStatG) vom 15. Juni 1990 (BGBl. I S. 1078), das zuletzt durch Artikel 298 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407, 2446) geändert worden ist, sind als Elektronischer-Unfalltypen-Steckkarten-(EUSKa)-Datensatz in Form eines erweiterten elektronischen Datensatzes UM001x grundsätzlich innerhalb von zehn Tagen an das Statistische Landesamt Sachsen weiterzuleiten. Dazu ist durch den Sachbearbeiter die Einzelmaßnahme „Verkehrsunfallaufnahme“ so vollständig als möglich und innerhalb der genannten Frist abzuschließen. Bei Veränderungen oder Ergänzungen einer bereits abgeschlossenen Einzelmaßnahme „Verkehrsunfallaufnahme“ sind diese an die Polizeidirektion nachzumelden. Diese Nachmeldung erfolgt durch Übersendung eines Ausdrucks des Statistikteils der Verkehrsunfallanzeige mit der entsprechenden Kenntlichmachung der Veränderungen oder Ergänzungen.                                             
 
 
 2.        
@@ -757,7 +757,7 @@ mindestens eine schwerverletzte Person, aber keine Getöteten
 Unfall Kategorie 3:
 
 
-mindestens eine leichtverletzte Person, aber keine Getöteten und Schwerverletzten         
+mindestens eine leichtverletzte Person, aber keine Getöteten und Schwerverletzten
 
 
 b)         
@@ -813,7 +813,7 @@ Diese Verwaltungsvorschrift tritt am ersten Tag des auf ihre Veröffentlichung f
 Dresden, den 30. März 2008       
 
 
-Der Staatsminister des Innern 
+Der Staatsminister des Innern
 
 
 Dr. Albrecht Buttolo       
@@ -821,22 +821,30 @@ Dr. Albrecht Buttolo
 
 Anlagen
 
-Anlage 1      
+Anlage 1
+Unfallursachenverzeichnis
 
 
-Anlage 2      
+Anlage 2
+Art der Verkehrsbeteiligung
 
 
-Anlage 3      
+Anlage 3
+Spurzeichnungen auf der Fahrbahn
+
+(Signaturen)
 
 
-Anlage 4      
+Anlage 4
+Bescheinigung
 
 
-Anlage 5      
+Anlage 5
+Belehrung von Geschädigten über die Antragsfrist bei Schadenersatzansprüchen
 
 
-Anlage 6      
+Anlage 6
+Personalientauschkarte
 
 
 Verweis auf Bundesgesetze
@@ -849,9 +857,9 @@ Fsn-Nr.: 22-V08.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 11. Dezember 2009
+Fassung gültig ab:  7. Oktober 2016
 
-Fassung gültig bis:  6. Oktober 2016
+Fassung gültig bis: 17. September 2026
 
 Drucken/Speichern
 
@@ -859,7 +867,7 @@ HTML-Gesamtansicht
 
 Vorschrift als PDF
 
-Anlagen als PDF
+Vorschrift mit allen Anlagen
 
 Einzeldruck
 
@@ -878,7 +886,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/10111.2
+https://www.revosax.sachsen.de/vorschrift/10111.3
 Stand vom
 18.11.2026
 
