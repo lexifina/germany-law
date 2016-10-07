@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-10-07T14:00:00+02:00
+- Ende: 2016-10-07T18:55:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11913
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11913
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00276112.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00276112.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00276112.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 07/2016 über die Sitzung am 09.09.2016 - einstimmig beschlossen
+- TOP 3: Verpflichtung eines neuen Mitglieds der Bezirksvertretung 1 - zur Kenntnis genommen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Geplante Nutzung des historischen Hauses "En de Canon" - zur Kenntnis genommen
+- TOP 6: Böschung am Kö-Graben vom Tritonenbrunnen bis zur Steinstraße - zur Kenntnis genommen
+- TOP 7: Einbindung der Gastronomie bei Großveranstaltungen
+- TOP 8: Ausstellung von Sonderparkausweisen für HandwerkerInnen
+- TOP 9: Verkaufsoffene Sonntage
+- TOP 10: Rad- und Rollatorenweg am Burgplatz
+- TOP 11: Patchwerk - Stadtteilzeitung in Pempelfort - zur Kenntnis genommen
+- TOP 12: Bau des Aufzuges auf der Kaiserstraße U-Bahnhof Nordstraße - zur Kenntnis genommen
+- TOP 13: Vorstellung Beigeordnete Cornelia Zuschke
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Parkpflegewerk für den Hofgarten - vertagt
+- TOP 16: Klever Straße / Jülicher Straße - Radverkehrsführung - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 17: Freizeitsportfläche Theodor-Heuss-Brücke - einstimmig beschlossen
+- TOP 18: Weihnachtsmarkt auf der Nordstraße vom 17.11.2016 bis 23.12.2016 - einstimmig beschlossen
+- TOP 19: Antikmärkte in der Kö-Galerie und in den Schadow Arkaden im Jahre 2017 - einstimmig beschlossen
+- TOP 20: Zuschussantrag: KZ-Außenlager Rather Straße -Kennzeichnung durch Erinnerungszeichen - einstimmig beschlossen
+- TOP 21: Künstlerische Gestaltung von Verteilerkästen - einstimmig beschlossen
+- TOP 22: Sitzungstermine 2017 - einstimmig beschlossen
+- TOP 23: Haushaltsplan 2017 - zur Kenntnis genommen
+- TOP 24: Neue Bänke/ Fahrradabstellanlagen - einstimmig beschlossen
+- TOP 25: Erhalt und Umrüstung von bestehenden Gaslaternen im Stadtbezirk 1 - einstimmig abgelehnt
+- TOP 26: Reparatur der Poller auf der Bäckerstraße - einstimmig beschlossen
+- TOP 27: Kunststoffverschmutzung durch HochzeitsteilnehmerInnen im Hofgarten - einstimmig beschlossen
+- TOP 28: Ausweichstellplätze im Stadtbezirk 1 während der Tour de France - einstimmig beschlossen
+- TOP 29: Bäume auf der Königsallee - einstimmig beschlossen
+- TOP 30: Aufwertung der Gartenstraße - mehrheitlich beschlossen
+- TOP 31: Drogenhandel Friedrich-Ebert-Straße - mehrheitlich abgelehnt
+- TOP 32: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 33: Zuschussantrag: Zirkuswagen -Montessori Kinderhaus - Zirkuswagen - einstimmig beschlossen
+- TOP 34: Kapelle Nordfriedhof-Erweiterung der induktiven Höranlage - einstimmig beschlossen
