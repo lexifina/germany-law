@@ -1,0 +1,21 @@
+# Bezirkshaushaltsplan für die Jahre 2016/2017 (Doppelhaushalt)
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 1375/XIX
+- Art: Vorlage zur Beschlussfassung
+- Datum: 2016-10-10
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=4994
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=4994
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=55714
+- Beratung: Vorberatung  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2694 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2590 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2484 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2561 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=23
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2551 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2734 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2621 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2456 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2534 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=45
