@@ -1,0 +1,66 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800464
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800464
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Containerstandort Willibaldstraße 225 / Ecke Haderner Steg
+- TOP 1.2.: Massive Verschmutzung und Vandalismus auf der Spielfläche Stiftsbogen / Schröfelhofstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über eine zusätzliche Beleuchtung, hier: Haseneystraße, Durchgang zum Parkplatz des Klinikums Großhadern (Baureferat, 27.09.16)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Bauleitplanung der Gemeinde Gräfelfing, Vorhabenbezogener B-Plan Nr. 38 "Büro- und Laborgebäude mit integriertem Parkdeck; Lochhamer Schlag 11, Fl. Nr. 209/3" Verfahren nach § 4 Abs. 2 BauGB (Referat für Stadtplanung und Bauordnung, 14.09.16)
+- TOP 6.2.: Erinnerungsverfahren: Senftenauerstraße Haus Nr. 93 bis 155 c Südseite, Rad- und Gehwegsanierung (Baureferat, 27.09.16)
+- TOP 6.3.: Antrag BA 16 - Ramersdorf-Perlach vom 16.04.2015: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung" in ein Anhörungsrecht (Direktorium, 28.09.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Am Hedernfeld 40 - 44, 1 Göttingerbaum
+- TOP 7.2.: Ringstraße 24, 1 Fichte
+- TOP 7.3.: Silberblattstraße 20, 1 Zeder
+- TOP 7.4.: Heinrich-Lammel-Straße 10, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 17930
+- TOP 7.5.: Am Heidebruch 20, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 14560
+- TOP 7.6.: Chrysanthemenstraße 10, 2 Fichten
+- TOP 7.7.: Ettenhoferstraße 2 a, 2 Fichten
+- TOP 7.8.: Kriegerheimstraße 20 a, 1 Rotbuche, 1 Hängebuche und 1 Birke
+- TOP 7.9.: Am Waldspitz 12 - 16, 1 Zierkirsche
+- TOP 7.10.: Pelargonienweg 12, 1 Birke
+- TOP 7.11.: Levkojenplatz 2, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Liste des Baureferates vom 09.09.2016: 11 Bäume auf dem Waldfriedhof
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Am Heidebruch (Sozialreferat, 06.09.16) - Pfingstrosenstraße (Sozialreferat, 22.09.16)
+- TOP 8.2.: Baumaßnahmen der SWM, hier: - Stromprojekt Haderunstraße (SWM, 19.09.16) - Silberdistelstraße 67, Wasser und Gas (SWM, 26.09.16)
+- TOP 9: Antworten der Stadt
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Kommission für Stadtgestaltung; Sitzungstermine 2017 (Referat für Stadtplanung und Bauordnung, 08.10.16)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05619: Mieterbeirat Änderung der Mieterbeiratssatzung und der Geschäftsordnung Änderung der Vergütungsregelungen
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06615: Bürgerbeteiligung stärken!
+- TOP 12.2.: Beschluss des Bauausschusses vom 04.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07087: Toiletten in öffentlichen Grünanlagen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07001: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 5.1.: Budget der Bezirksausschüsse, Nachbarschaftstreff Blumenau, Verein für Sozialarbeit e.V. Blumenauer Potpourri 2016 am 28.10.2016 (Direktorium, 07.09.16)
+- TOP 5.2.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Beschaffung von Magnetrahmen (Direktorium, 21.09.16) - <div>vertagt</div>
+- TOP 5.3.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Beschaffung eines Planschrankes (Direktorium, 21.09.16) - <div>vertagt</div>
+- TOP 5.4.: Budget der Bezirksausschüsse, SV Sentilo Blumenau e.V., Maßnahme: Aufstellen von Beleuchtungsballons (Direktorium, 21.09.16)
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
