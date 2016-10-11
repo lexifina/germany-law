@@ -1,0 +1,126 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3900246
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3900246
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Verkehrssituation Ichoschule / Grundschule an der Ichostraße 2; Bürgerschreiben vom 21.09.2016 - <div>Wtl an Schule und Antrag an Kommunale Verkehrsüberwachung</div>
+- TOP 2.2.: Bepflanzung von geeigneten Flächen mit Bäumen entlang der Perlacher Straße; Bürgerschreiben vom 13.09.2016 - <div>nach Antrag </div>
+- TOP 2.3.: Gefährliche Ampel auf der Tegernseer Landstraße (Höhe Edelweißplatz); Bürgerschreiben vom 15.09.2016
+- TOP 2.4.: Akute und dauerhafte Ruhestörung auf dem Gelände Sintpert- / Ecke Setzbergstraße der Volksschule Perlacher Straße; Bürgerschreiben vom 20.09.2016 - <div>Weiterleitung RBS</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Fasangartenstraße 101, 1 Schwarzpappel
+- TOP 3.9.1.2.: Amerstorfferstraße 13-29, 3 Zitterpappeln
+- TOP 3.9.1.3.: Oberviechtacher Str. 40a, 2 Fichten
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Informationen über eine Machbarkeitsstudie zum Cincinnati-Kino; Antrag der SPD-Fraktion - <div>nach Antrag / mit Ergänzung</div>
+- TOP 4.2.: 1. Mehr Klarheit über Hallenbedarfe von Giesinger Vereinen und Sportgruppen 2. Hallennutzung an der Europäischen Schule; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 4.3.: Rote Karte für Rennstrecken - Mehr Schutz für Anwohnende 1. Tempo 30 als Standard in städtischen Lebensbereichen 2. Mehr Parkraum für Anwohner 3. Mehr Grün für Rennstrecken 4. Raser sehen Rot in Wohngebieten 5. Schleichwege eindämmen 6. Denkanstoß für alle Verkehrsteilnehmer; Antrag der SPD-Fraktion - <div>mit Änderungen: Punkt 4 u. 5, Vertagung: Punk 1 u. 2, Zurückgezogen: Punkt 3</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 1.1.: Ansiedlung von fußläufigen kleinteiligen Einzelhandelsgeschäften entlang der Nordseite der Fasangartenstraße zwischen Haus Nr. 130 bis 160 ermöglichen und fördern durch die Aufstellung und Anpassung von Bauleitplänen; Empfehlung Nr. 14-20 / E 00978 vom 09.06.2016; Beschlussentwurf des Referates für Stadtpl. u. Bauordnung vom 29.08.2016 mit der Bitte um Stellungnahme (vertagt aus der September-Sitzung)
+- TOP 1.2.: Vollzug von §13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Giesinger Bahnhofplatz, 1 beleuchtete City-Light-Säule (Nr. 187) für die wechselnde Produktwerbung (Neuaufbau); Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme
+- TOP 1.3.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Watzmannstraße, Neubau eines Wohngebäudes (38 WE) mit Tiefgarage; Anhörung vom 04.08.2016 (zuletzt vertagt aus der September-Sitzung) 6.1.3.1.2 St.-Bonifatius-Straße 1, Modernisierung und Umbau eines denkmalgeschützten Wohn- u. Geschäftshauses (31 WE / 2 Geschäftsräume) - TEKTUR; Anhörung vom 14.09.2016 6.1.3.1.3 Münchberger Straße 8, Neubau eines Dreifamilienhauses mit Duplexgarage und Carport; Anhörung vom 14.09.2016 6.1.3.1.4 Tegernseer Landstraße 40, Zusammenlegung je dreier Wohnungen (1. OG + DG / VGB) zu je einer Wohnung sowie Nutzungsänderung Ladenwohnung zu Laden (EG); Abbruch und Neuerrichtung RGB sowie Verbindungsbau mit Erweiterung Laden und 5 Wohnungen - VORBESCHEID; Anhörung vom 14.09.2016 6.1.3.1.5 Herzogstandstraße 7, Rückbau und Neuerrichtung des Dachspitzes zu einer Wohnung, Anbau eines Außenaufzugs; Anhörung vom 14.09.2016 6.1.3.1.6 St.-Bonifatius-Straße 3, Modernisierung und Umbau eines Wohn- und Geschäftshauses (17 WE / 2 Geschäftsräume) - TEKTUR; Anhörung vom 14.09.2016 6.1.3.1.7 Spixstraße, Umbau einer Büroeinheit, Ausbau des darüberliegenden Geschosses sowie Schaffung einer internen Verbindung durch eine nicht notwendige Treppe; Anhörung vom 15.09.2016
+- TOP 1.4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtpl. und Bauordnung: "Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat" in ein Entscheidungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 31.08.16 mit der Bitte um Stellungnahme
+- TOP 1.5.: - Die LHM soll Leerstand von Häusern und Wohnungen verbieten - Die LHM soll hierfür hohe Strafsteuern verhängen; Empfehlung Nr. 14-20 / E 01000 der BV des Stadtbezirkes 17 vom 09.06.2016; Zuleitung des Sozialreferates mit der Bitte um Stellungnahme zum Beschlussentwurf bis 20.11.2016
+- TOP 1.6.: Sachstandsbericht Herbert-Quandt-Straße a) Anträge und Empfehlungen b) Bebauungsplan mit Grünordnung Nr. 2120 Ständlerstraße (südlich), Bahnlinie München-Deisenhofen (westlich), Lincolnstraße (nördlich), Friedhof am Perlacher Forst (östlich) (Teiländerung der Bebauungspläne Nr. 1476 und Nr. 1108 sowie des Bebauungsplanes mit Grünordnung Nr. 2037) - Aufstellungsbeschluss
+- TOP 1.1.: Bauvorhaben im 17. Stadtbezirk
+- TOP 1.2.: Bürgerbeteiligung stärken! Stadtratsantrag Nr. 14-20 / A 02097 vom 06.05.2016; Sitzungsvorlagen Nr. 14-20 / V 06615; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 (SB)
+- TOP 1.3.: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP); Sitzungsvorlagen Nr. 14-20 / V 07001; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 (VB)
+- TOP 1.4.: Schönseer Straße 3, Abbruch des Daches und Aufbau eines neuen Dachgeschosses (2 WE); Stellungnahme des BA 17 vom 10.08.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 21.09.2016
+- TOP 1.5.: Erweiterung des Gebiets für die Erhaltungssatzung ?Tegernseer Landstraße?; BA-Antrag Nr. 14-20 / B 02428 vom 10.05.2016; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 25.08.2016
+- TOP 1.6.: Regionale Kooperationen stärken (III) - A. Folgeprojekte Regionale Wohnungsbaukonferenzen B. Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsobjekte) C. Anträge und Empfehlungen; Sitzungsvorlagen Nr. 14-20 / V 06894; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 05.10.2016 (VB)
+- TOP 1.7.: Bericht zur Wohnungssituation in München 2014 - 2015; Sitzungsvorlagen Nr. 14-20 / V 07098; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 05.10.16 (SB)
+- TOP 1.8.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2118 Münchberger Straße (östlich), Kronacher Straße (südlich), BAB München-Salzburg (westlich) und Fasangartenstraße (nördlich) - Eckdaten- und Aufstellungsbeschuss - B) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes; Sitzungsvorlagen Nr. 14-20 / V 06867; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 21.09.2016 (VB) zu 6.1.4.4 Hinweis / Ergänzung ovm 31.08.2016
+- TOP 1.9.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.9.1 Anwesen Münchberger Straße; Unterrichtung vom 23.08.2016
+- TOP 1.10.: Vollzug der Erhaltungssatzung ?Trauchberg-/Forggenseestraße?; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.10.1 Anwesen Werinherstraße; Unterrichtung vom 23.09.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung? in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 28.09.16 mit der Bitte um Stellungnahme
+- TOP 0.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012/2013/2014 - Fortschreibung im Bauprogramm 2016 - Änderung des Mehrjahresinvestitionsprogrammes 2015 - 2019; Sitzungsvorlage Nr. 14-20 / V 06885; Beschluss des Bildungsausschusses des Stadtrates vom 14.09.2016 (VB)
+- TOP 0.2.: Asam-Gymnasium, Schlierseestraße 20; Erweiterung zum Untersuchungsauftrag vom 23.11.2015
+- TOP 0.1.: Maßnahmen zur Einhaltung der Geschwindigkeitsbegrenzung im Bereich Herzogstandstraße / Perlacher Straße; Bürgeranliegen (verwiesen aus der September-Sitzung) - <div>nach Antrag / mit Änderung - teilweise Ablehnung</div>
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 2.1.: Erinnerungsverfahren; Maurerstraße 2-10 - Herstellung von Parkflächen in der Rasenfläche zwischen Stettnerstraße und Holtzendorffstraße; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 2.1.: Barrierefreier Ausbau und gestalterische Aufwertung der Fuß- und Radwegunterführung unter der Chiemgaustraße zwischen Neuschwansteinplatz und Scharfreiterplatz im 17. Stadtbezirk Obergiesing-Fasangarten; Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße / Chiemgaustraße; Sitzungsvorlage Nr. 14-20 / V 06807; Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP 2.2.: Zeitnahe, straßenbauliche Herrichtung der Grenzstraße von der Einmündung der Kiesmüllerstraße in östlicher Richtung bis zur Balanstraße sowie in Fortführung die vergleichbare Herrichtung der Balanstraße von der Grenzstraße bis zur Hausnummer 288 in nördlicher Richtung; BA-Antrag Nr. 14-20 / B 02630 vom 12.07.16; Antwortschreiben des Baureferats vom 02.09.2016
+- TOP 2.3.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Fortschreibung des Grundsatzbeschlusses vom 23.11.2005 b) Anträge Sitzungsvorlagen Nr. 14-20 / V 05253; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 05.10.2016 (VB)
+- TOP 2.4.: E-Mobilität - Aufladestationen für Elektrobmobilität an der Post am Tegernseer Platz und dem "Quartiersplatz" im 17. Stadtbezirk; BA-Antrag Nr. 14-20 / B 02130 vom 08.03.2016; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 02.09.2016
+- TOP 2.5.: Unterführung Chiemgaustraße - Schwanseestraße; Stadtratsantrag Nr. 14-20 / A 02062 vom 27.04.2016; Abdruck des Antwortschreibens des Referates für Stadtpl. u. Bauordnung vom 30.08.2016
+- TOP 2.6.: Stopp der Verwahrlosung der südlichen Unterführung am S-Bahnhof Fasangarten; BA-Antrag Nr. 14-20 / B 02617 vom 12.07.2016; Antwortschreiben des Baureferats-Tiefbau vom 22.09.2016
+- TOP 1: (E) Taubenplage bekämpfen Empfehlung Nr. 14-20 / E 00998 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 1.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten" (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.15; Schreiben des Direktoriums vom 02.09.16 mit der Bitte um Stellungnahme
+- TOP 1.2.: Mehr Grün und Blumen in Münchens Straßen möglich machen; Antrag aus dem Münchner Stadtrat; Schreiben des KVR vom 01.09.2016 mit der Bitte um Stellungnahme bis 24.10.2016
+- TOP 1.3.: Unterflur-Containerstandorte in Neubaugebieten mit planen! Sitzungsvorlage Nr. 14-20 / V 04859; BA-Antrag Nr. 14-20 / B 01626 vom 08.09.2015; Schreiben des Baureferats-Tiefbau vom 22.09.2016 mit der Bitte um Zustimmung
+- TOP 1.1.: Toiletten in öffentlichen Grünanlagen; Sitzungsvorlage Nr. 14-20 / V 07087; Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP 1.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Forggenseestraße 5-7; Ablehnungsbescheid vom 15.09.2016 6.4.4.1.2 Balanstraße 373; Genehmigungsbescheid vom 19.09.2016 6.4.4.1.3 Pennstraße 55; Genehmigungsbescheid vom 19.09.2016
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes "Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils" (Anlage 1 BA-Saztung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht; Änderung des Anhörungsrechtes "Förderung und Unterstützung von Vereinen, Gruppen und Initiativen" (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 02.09.16 mit der Bitte um Stellungnahme
+- TOP 0.1.: Bericht Projekt "Unsere Tela" (bezuschusst durch den BA 17)
+- TOP 0.2.: Ein Bücherschrank für den Giesinger Bahnhofplatz; Bitte um Prüfung aus der Juli-Sitzung des BA 17; Antwortschreiben des KVR vom 30.08.2016
+- TOP 0.1.: Lärmbeeinträchtigungen durch die Gaststätte Hohenwaldeck- / St.-Martin-Straße (Bürgeranliegen aus der Sitzung vom 14.06.2016, zuletzt verwiesen aus der September-Sitzung - ohne Vorgang)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Antrag für ein Zeitungsentnahmegerät "Concrete Stadtzeitung", Silberhornstraße, Trambahnstationen Insel ("Tegernseer Platz"); Beschluss des BA 17 am 11.10.2016 (vertagt aus der Sitzung vom 13.09.2016) zu 6.6.2.1 Projektvorstellung "CONCRETE"; ein analoger Blog im digitalen Zeitalter
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 Kleingaststätte "Bacchus-Stüberl", Tegernseer Landstraße 155; Mitteilung vom 14.09.16 6.6.4.1.2 Betrieb eines Cafés "Spritz", Werner-Schlierf-Straße 25; Mitteilung vom 14.09.16 6.6.4.1.3 SSW "Alt-Giesing", Tegernseer Landstraße 93; Mitteilung vom 27.09.16
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Kulturlust e.V. Partizipatives Filmprojekt "Wie smart bist du?" vom 31.10.2016 - 31.1.2017 - <div>Ablehnung</div>
+- TOP 1: (E) Ella-Lingens-Platz - Entsiegelung sowie umwelt- und menschenfreundlichere Gestaltung Empfehlung Nr. 14-20 / E 00992 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 09.06.2016 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 1: (E) Tempo 30 auf der südlichen Tegernseer Landstraße - <div>in die November-Sitzung vertagt</div>
+- TOP 2: (E) Totales Haltverbot in der Sackgasse Wieskirchstraße (Ziffer 1) - <div>nach Antrag</div>
+- TOP 1: (E) Errichtung von Wertstoffcontainern am Giesinger Bahnhofplatz Empfehlung Nr. 14-20 / E 00974 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 09.06.2016
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
