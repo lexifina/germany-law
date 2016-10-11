@@ -1,0 +1,23 @@
+# Initiative des Bezirkes gegen Rechtsextremismus
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 0039/XIX
+- Art: Vorlage zur Kenntnisnahme - SB
+- Datum: 2016-10-11
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=3662
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=3662
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=49359
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1595 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1644 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1686 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1719 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1714 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=35
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1741 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1768 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1793 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1822 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1818 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2321 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2322 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=70
