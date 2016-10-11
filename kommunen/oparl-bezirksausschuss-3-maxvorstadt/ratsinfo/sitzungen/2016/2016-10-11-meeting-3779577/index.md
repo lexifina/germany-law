@@ -1,0 +1,89 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779577
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779577
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 06.09.2016 Umgestaltung des Kunstareals
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 22.09.2016 Verkehrssituation in der Blütenstraße
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Aufwertung des Rudi-Hierl-Platzes
+- TOP .2.: Aufwertung des Rudi-Hierl-Platzes; es soll dafür Sorge getragen werden, dass für das Schachbrett Figuren vorhanden sind, wie im Alten Nördlichen Friedhof und am Königsplatz
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Bauvorhaben: 35., 36., 37., 38. KW
+- TOP .2.: Liste der Abgeschlossenheitsbescheinigungen: 33., 34., 36., 37. KW
+- TOP .3.: Neureutherstraße 29 Abbruch und Neuerrichtung einer Balkonanlage
+- TOP .4.: Dachauer Straße 90 Neubau eines Verwaltungsgebäudes für das Referat für Gesundheit und Umwelt sowie Neubau eines Hauses für Kinder für das Referat für Bildung und Sport - Vorbescheid
+- TOP .5.: Schwindstraße 23 Schulbauoffensive ? Umbau Nordflügel 2. OG
+- TOP .6.: Linprunstraße 40 Neubau eines Wohngebäudes mit Tiefgarage und Hinterhaus ? Tektur
+- TOP .7.: Nymphenburger Straße 55 Aufstockung und DG-Ausbau ? Tektur
+- TOP .8.: Augustenstraße 87-89 DG-Neubau mit Teilabbruch und baul. Änderungen inkl. neuer Balkone und Aufzugsanlagen (VGB) sowie Neubau eines Wohngebäudes und zweier Stadthäuser mit Tiefgarage im Innenhof - Tektur
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Schleißheimer Straße 102, ein Spitzahorn, ein Bergahorn
+- TOP .2.: Gabelsbergerstraße 43, ein Ahorn
+- TOP .3.: Von-der-Tann-Straße / Finanzgarten, eine Winterlinde
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung Bürgerbeteiligung stärken! Antrag Nr. 14-20 / A 02097 der Stadtratsfraktion Freiheitsrechte Transparenz und Bürger- beteiligung vom 06.05.2016
+- TOP .2.: Referat für Stadtplanung und Bauordnung Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP) Sitzungsvorlage Nr. 14-20/ V 07001 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016
+- TOP .3.: Referat für Stadtplanung und Bauordnung Vertiefte Machbarkeitsuntersuchung für das Pilotprojekt ?schnelle Radverbindung für den Münchner Norden? Sitzungsvorlage Nr. 14-20 / V 06451 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln: a) Fortschreibung des Grundsatzbeschlusses vom 23.11.2016, b) Anträge Sitzungsvorlage Nr. 14-20 / V 05253
+- TOP .5.: Referat für Stadtplanung und Bauordnung Regionale Kooperationen stärken (II): A) Folgeprojekte Regionale Wohnungsbaukonferenzen, B) Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsprojekte, C) Anträge und Empfehlungen Sitzungsvorlage Nr. 14-20 / V 06894 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP .6.: Referat für Stadtplanung und Bauordnung Bericht zur Wohnungssituation in München 2014-2015 Sitzungsvorlage Nr. 14-20 / V 07098 Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP .1.: Antrag der SPD im BA 3 vom 20.09.2016 Zügige Sanierung der öffentlichen WCs im U-Bahnhof Josephsplatz
+- TOP .2.: Antrag der SPD im BA 3 vom 23.09.2016 Radeln im Winter ermöglichen
+- TOP .3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 23.09.2016 Befahren und Parken auf dem Josephsplatz verhindern
+- TOP .4.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 23.09.2016 Sind Mülltonnenboxen, die das Stadtbild negativ beeinflussen, genehmigungspflichtig und erwünscht?
+- TOP .5.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.09.2016 Ampelschaltung an der Kreuzung Türken-/Theresienstraße überprüfen
+- TOP .6.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.09.2016 Fahrradbügel an der Kreuzung Türken-/Theresienstraße anbringen
+- TOP .7.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.09.2016 Baumpflanzungen im Bereich der neu zu schaffenden Fahrradabstellflächen in der Blüten- und in der Adalbertstraße prüfen und umsetzen
+- TOP .2.1: Verkehr
+- TOP .1.: Baureferat Tiefbau, Beschlussvorlage Projekt Adalbert-/Amalienstraße: Abbau der Lichtsignalanlage, Projekt-Nr. 100802
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement Öffnung des einbahngeregelten Teils der Schackstraße für den gegenläufigen Radverkehr
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Fahrradabstellplatz in der Barer Straße 61 bzw. Seitenstraßen vertagt aus der Sitzung vom 13.09.2016 (TOP C 2.2.4)
+- TOP .2.: Kommunalreferat, Straßenbenennung Hinweistafeln zu Straßennamen in der Maxvorstadt BA-Antrag Nr. 14-20 / B 02775 vom 13.09.2016 Kostenübernahmeerklärung des BA und Art der Schilder (ein- bzw. doppelseitig bedruckt)?
+- TOP .3.: Aufstellung von Zeitungsentnahmegeräten a) Professor-Huber-Platz 2, Seite Ludwigstraße b) Arcisstraße 17, am Halteverbotsschild vor der TU-Mensa Bitte der Bezirksinspektion um nochmalige Behandlung, da der ablehnende Beschluss des BA 3 vom 13.09.2016 nicht umgesetzt werden kann
+- TOP .2.3: Gaststätten
+- TOP .1.: Mehr Grün und Blumen in Münchens Straßen möglich machen Anhörung zu einem Antrag aus dem Stadtrat zur Aufstellung von Pflanzgefäßen an den Rändern von Freischankflächen
+- TOP .2.: Schleißheimer Straße 66, Genehmigung einer Freischankfläche
+- TOP .3.: Gabelsbergerstraße 69, Genehmigung einer Freischankfläche
+- TOP .4.: Schellingstraße 15, Genehmigung einer Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Geänderte Verkehrsführung im Bereich Schönfeld-, Kaulbach-, Veterinärstraße während eines Bauvorhabens am Josephinum Architekt stellt im UA die geplanten Maßnahmen vor
+- TOP .1.: Kreisverwaltungsreferat a) Genehmigungsbescheid Streetlife Festival/Corso Leopold am 10. und 11.09.2016
+- TOP .2.: Streetlife Festival/Corso Leopold am 10. und 11.09.2016, Nachträge Eilentscheidung des Vorsitzenden, Zustimmung durch Fristablauf
+- TOP .3.: Referat für Arbeit und Wirtschaft Aufbau öffentlicher Ladeinfrastruktur für E-Fahrzeuge; Protokoll der Infoveranstaltung für die Bezirksausschüsse am 20.07.2016
+- TOP .4.: Kreisverwaltungsreferat Einrichtung eines Fußgängerüberweges in der Georgenstraße, östlich Isabellastraße und Änderung der Vorfahrtsregelung
+- TOP .5.: Baureferat Gartenbau Toiletten in öffentlichen Grünanlagen ? Folgebeschluss Beschluss des Bauausschusses vom 04.10.2016 Sitzungsvorlage Nr. 14-20 / V 07087
+- TOP .1.: Antrag des Kinder und Jugendbeauftragten vom 22.08.2016 Unterführung am Oskar-von-Miller-Ring als Kreativraum für Jugendliche nutzen statt zu- schütten! vertagt aus der Sitzung vom 13.09.2016 Unterlagen liegen bereits vor
+- TOP .2.: Antrag des Unterausschusses Soziales und Bildung im BA 3 vom 26.09.2016 Erhalt des Kindergartens in der Blutenburgstraße 1
+- TOP .1.: Pädagogische Aktion/Spielen in der Stadt e.V. Kurzbericht über den bezuschussten Spielmobileinsatz im Maßmannpark
+- TOP .2.: Sozialreferat Förderung freier Träger zur Übernahme höherer Miet- und Mietnebenkosten für die Projekte des IG Stammhaus in der Karlstraße 44 Beschluss des Kinder- und Jugendhilfeausschusses vom 04.10.2016 Sitzungsvorlage Nr. 14-20 / V 06710
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: 84 GHz: Kurzbericht zu ?Kunst im Karrée? 2016
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Ent- scheidungsrechte übertragen; Änderung verschiedener Anhörungsrechtes der Anlage 1 BA-Satzung in Entscheidungsrechte BA-Antrag Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015 a) Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung ?Werbeanlagen, über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat? in ein Entscheidungsrecht b) Ziffer 6 Abschnitt Kommunalreferat ?Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten? c) Abschnitt Kulturreferat Ziffer 8 ?Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils? und Ziffer 9 ?Förderung und Unterstützung von Vereinen, Gruppen und Initiativen?
+- TOP .2.: Antrag des BA-Vorsitzenden vom 26.09.2016 Stimmrecht beim Preis für Stadtbildpflege
+- TOP .1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Blutenburgstraße 3 Beschaffung von Tablets
+- TOP .2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Einrichtung Musisches Zentrum Anschaffung einer Küche, eines Tisches und eines Hockers
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
