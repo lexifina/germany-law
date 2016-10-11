@@ -1,0 +1,83 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-10-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833789
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833789
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Parksituation in der Robert-Hartig-Straße
+- TOP 2.3: GWG-Projekt Wohnen für Alle Achwaldstraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.5.: (E) Budget der Bezirksausschüsse TSV Allach 09 e.V. Beschaffung von Kleinfeldtoren - <div></div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Evaluation der Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 5.2.: Aufhebung der Parkerlaubnis in der Auenbruggerstraße
+- TOP 5.3.: Riedererstr. 40, Gemarkung: Allach, Fl.Nr.: 312/3 Neubau eines Zweifamilienhauses
+- TOP 5.4.: Lautenschlägerstr., Gemarkung: Allach, Fl.Nr.: 1324/51 Neubau einer Wohnanlage (12 WE) / Häuser 15 + 16
+- TOP 5.5.: Angerlohstr. 57, Gemarkung: Allach, Fl.Nr.: 1180/7 Umbau des Bestandes und Anbau
+- TOP 5.6.: Behringstr. 73, Gemarkung: Allach, Fl.Nr.: 157/15 Neubau eines Mehrfamilienhauses mit Garagen -TEKTUR
+- TOP 5.7.: Storchenweg 32, Gemarkung: Allach, Fl.Nr.: 1259/32 Neubau eines Einfamilienhauses
+- TOP 5.8.: Bürgergerechte und mehr sozialverträgliche Städtplanung und Städtebau für bezahlbaren Wohnraum BV-Empf. 01054 vom 28.06.16
+- TOP 5.9.: Gruithuisenstr. 19, Gemarkung: Untermenzing, Fl.Nr.: 640/1 Errichtung eines profilgleichen Anbaus
+- TOP 5.10.: Lautenschlägerstr., Gemarkung: Allach, Fl.Nr.: 1324/51 Neubau einer Wohnanlage ( 24 WE) / Häuser 11-14
+- TOP 5.11.: Beschluss Zukunftskonzept der MÜNCHENSTIFT GmbH
+- TOP 5.12.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung)" in ein Anhörungsrecht
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.16: a) Bürgerbeteiligung stärken! (Sitzungsvorlage Nr. 06615) b) Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP) (Sitzungsvorlage Nr. 07001)
+- TOP 6.2.: Beschluss des Bauausschusses vom 04.10.16: Toiletten in öffentlichen Grünanlagen (Sitzungsvorlage Nr. 07087)
+- TOP 6.3.: Beschluss des Bildungsausschusses des Stadtrates vom 05.10.16: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 07118)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.16: a) Regionale Kooperationen stärken (II) (Sitzungsvorlage Nr. 06894) b) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzlösemitteln (Sitzungsvorlage Nr. 05253) c) Bericht zur Wohnungssituation in München 2014-2015 (Sitzungsvorlage Nr. 07098)
+- TOP 7: Verschiedenes
+- TOP 7.1.: 18.jetzt - Fest junger Erwachsener am 29.10.16
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.16: Beteiligung der Öffentlichkeit; Frühzeitige Unterrichtung gem. § 3 Abs. 1 BauGB; Beschleunigtes Verfahren Planungsgebiet: Bebauungsplan Nr. 2110, Pasteurstraße (südlich), Bahnlinie München - Treuchtlingen (westlich), Ludwigsfelder Straße (nördlich) und Schöllstraße
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.16: Lauthstr. 8, Fl.Nr.: 668/0, Gemarkung: Allach Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Garagen - Vorbescheid
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.09.16: Straßenverbindung Pasteurstraße-Birkenstraße, BA-Antr. 00969 Zwischenmitteilung
+- TOP 9.5.: Schreiben Referat für Gesundheit und Umwelt vom 08.09.16: Einladung zum Fachtag; Wohnen in München - auch mit Behinderung und Einschränkungen; 18.11.16
+- TOP 9.6.: Schreiben Spiellandschaft Stadt e.V. vom 15.09.16: Protokoll der Sitzung AG Spiellandschaft Stadt am 14.09.16
+- TOP 9.7.: Schreiben Aktion Münchner Fahrgäste vom 15.09.16 und 18.09.16: MVV-Tariferhöhung 2017
+- TOP 9.8.: Schreiben Sozialreferat vom 21.09.16: ASZ-Dependance am Oertelplatz
+- TOP 9.9.: Schreiben Sozialreferat vom 21.09.16: Antrag auf Zweckentfremdung von Wohnraum, Behringstr.
+- TOP 9.10.: Schreiben Sozialreferat vom 09.09.16: Antrag auf Zweckentfremdung von Wohnraum, Vesaliusstr.
+- TOP 9.11.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (05.09.-11.09.16, 12.09.-18.09.16, 19.09.-25.09.16)
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Nußhäherstr. 25, Eduard-Schwartz-Str. 8,Spiegelbergstr. 32, Tubeufstr. 20, Freybergweg 6, Eversbuschstr. 235, Gruithuisenstr. 2, Allacher Str. 193, Augustenfelder Str. 7, Nätherstr. 3, Eversbuschstr. 235, Behringstr. 85, Franz-Albert-Str. 21Jenneerstr. 27, Schweidnitzer Str. 36
+- TOP 9.13.: Schreiben Stadtwerke München vom 12.09.16, 19.09.16, 26.09.16: Baumaßnahmen
+- TOP 9.14.: Schreiben Kulturreferat vom 21.09.16: Protokoll 15. Informations- und Arbeitstreffen zur Stadtteilkultur
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Verkehrsinsel und Poller am Pasinger Heuweg / Mühlangerstraße
+- TOP 10.3.: Verschiedenes: München lebt interkulturelle Vielfalt 19.11.16, 9:30 - 15:00 Uhr
+- TOP 10.4.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 10.5.: Informationsbroschüre "Allach-Untermenzing"
+- TOP 10.6.: Umlauf: Schreiben Sozialreferat vom 26.09.16: Nachbarschaftstreff Diamalt-Gelände
+- TOP 10.7.: Schreiben Sozialreferat vom 28.09.16: Übersicht Unterkünfte Flüchtlinge und Wohnungslose
+- TOP 10.8.: Schreiben Referat für Arbeit und Wirtschaft vom 16.09.16: Inbetriebnahme der Busverbindung 163 S-Bahn-Allach-Untermenzing bereits im Herbst/Winter 2016/2017 BV-Empf. 01044 vom 28.06.16 Zwischennachricht
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.10.16: Bauanträge (26.09.-02.10.16)
+- TOP 10.10.: Schreiben Stadtwerke München vom 27.09.16: Baumaßnahmen Erdgasprojekt Bergetstraße
+- TOP 10.11.: Schreiben Stadtwerke München vom 04.10.16: Baumaßnahmen
+- TOP 10.12.: Schreiben Baureferat vom 05.10.16: Fahrradabstellanlage Untermenzing
+- TOP 10.13.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Bildungsausschusses des Stadtrates vcom 05.10.16: Ergänzung: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 07118)
+- TOP 10.14.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 12.10.16: Energienutzungsplan für München (Sitzungsvorlage Nr. 07115)
+- TOP 1: (E) Errichtung einer Ampelanlage an der Einmündung Georg-Reismüller-Straße/Ludwigsfelder Straße - <div></div>
+- TOP 2: (E) Einrichtung eines absoluten Haltverbots in der Höcherstraße, Westseite - <div></div>
+- TOP 3: (E) Einrichtung eines Bodenschachs beim Kultur- und Spielpfad in der Grünanlage an der Hitlstraße (Ziffer 1) Empfehlung Nr. 14-20 / E 01048 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 28.06.2016 - <div></div>
+- TOP 4: (E) Erhöhung der Verkehrssicherheit in der Naglerstraße - <div></div>
+- TOP 10.2.: Entscheidungen: Budget der Bezirksausschüsse ARTVISION e.V. Fördernde Vereinigung zeitgenössischer Kunst und Kultur 2. Malaktion ?Menschen in Menzing? während der Festwoche 1200 Jahre Menzing vom 13.-23.07.17 - <div></div>
