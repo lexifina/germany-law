@@ -1,0 +1,65 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2016-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3913306
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3913306
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Halteverbote auf der Nordseite der Frauenstädtstraße
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7: Anträge
+- TOP 7.1.: Sicherer Schulweg zur Grundschule am Hildegard-von-Bingen-Anger
+- TOP 7.2.: ADFC: Antrag auf Rücknahme von Verkehrszeichen auf Grundlage des § 45 Straßenverkehrsordnung
+- TOP 8: Anhörungen
+- TOP 8.1.: - Planung und Errichtung von Ladenzeilen im Zuge der Umsetzung des neuen Bebauungsplans 1898 b - GWG-Siedlung Harthof Nord - Aufruf in der Presse und bei berufsständischen Vertretungen für mögliche Interessenten von Gewerberäumen und Arztpraxen
+- TOP 8.2.: KVR: Mehr Grün und Blumen in Münchens Straßen möglich machen - Stadtratsantrag
+- TOP 8.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 8.1 Abschnitt Referat für Stadtplanung und Bauordnung: ?Werbeanlagen über die der Ausschuss für Stadtplanung und Bauordnung zu entscheiden hat? in ein Entscheidungsrecht BA-Antrags-Nr. 14 ? 20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 8.4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Errichtung, wesentliche Umgestaltung und Auflassung von Bedürfnisanstalten? (Anlage 1 BA-Satzung, Ziffer 6 im Abschnitt Kommunalreferat) in ein Entscheidungsrecht BA-Antrags-Nr. 14 ? 20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 8.5.: Evaluation der Fahrradabstellplatzsatzung
+- TOP 8.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes ?Förderung und Pflege der Geschichte, des Brauchtums und der Volkskultur des Stadtteils? (Anlage 1 BA-Satzung, Ziffer 8 im Abschnitt Kulturreferat) in ein Entscheidungsrecht Änderung des Anhörungsrechtes ?Förderung und Unterstützung von Vereinen, Gruppen und Initiativen? (Anlage 1 BA-Satzung, Ziffer 9 im Abschnitt Kulturreferat) in ein Entscheidungsrecht BA-Antrags-Nr. 14 ? 20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 8.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung)? in ein Anhörungsrecht BA-Antrags-Nr. 14 - 20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Unveränderte Fortführung von Gaststättenbetrieben: - "Face" - Nietzschestr. 11 - "Kreta Meer" - Moosacher Str. 81 - "Red Diamond" - Max-Diemand-Str. 21
+- TOP 9.2.: Budget des BA 11: - Verwendungsnachweis SV Olympiadorf-Concordia e.V. - Verwendungsnachweis Diakonie Hasenbergl e.V. - Kurzbericht Mobilspiel e.V.
+- TOP 9.1.: WAL-Vorhaben Frankfurter Ring/Schmalkaldener Straße a) Bolzplatz an der Schmalkaldener Straße / Frankfurter Ring erhalten, Antrag Nr. 14-20 / B 02354 des Bezirksausschusses des Stadtbezirkes 11 - Milbertshofen-Am Hart vom 13.04.2016 b) Erhalt des Bolzplatzes am Frankfurter Ring in seiner bestehenden Größe, Empfehlung Nr. 14-20 / E 01110 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016 c) Petition: Erhaltung des Fußballplatzes an der Schmalkaldener Straße vom 26.07.2016 - Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 21.09.2016 -
+- TOP 9.2.: Änderung des B-Plans Siedlung am Hart Empfehlung Nr. 14-20 / E 00580 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 23.07.2015
+- TOP 9.3.: Bürgerbeteiligung stärken! - Antrag Nr. 14-20 / A 02097 der Stadtratsfraktion Freiheitsrechte Transparenz und Bürgerbeteiligung vom 06.05.2016 Sitzungsvorlagen Nr. 14-20 / V 06615
+- TOP 9.4.: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP) 14-20 / V 07001 - Sitzungsvorlagen Nr. 14-20 / V 07001
+- TOP 9.5.: Meldelisten über Bauvorhaben vom 29.08. - 25.09.
+- TOP 9.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Forschreibung im Bauprogramm 2012/2013/2014 - Fortschreibung im Bauprogramm 2016 - Änderung des MIP 2015 - 2019
+- TOP 9.1.: Vertiefte Machbarkeitsuntersuchung für das Pilotprojekt "schnelle Radverbindung für den Münchner Norden" - Sitzungsvorlagen Nr. 14-20 / V 06451
+- TOP 9.2.: Baumaßnahmen der Stadtwerke
+- TOP 9.3.: KVR: Verkehrsrechtliche Anordnung Dientzenhoferstraße
+- TOP 9.4.: MVG: Einstellung des U-Bahnbetriebs zwischen den U-Bahnhöfen Münchner Freiheit und Scheidplatz zwischen 31.10.2016 und 31.03.2017
+- TOP 10: Sonstiges
+- TOP 6.1.: (E) Budget der Bezirksausschüsse Evangelisch-Lutherische Versöhnungskirche München Harthof Orgelkonzert am 30.10.2016
+- TOP 6.2.: (E) Budget der Bezirksausschüsse Sozialverband VdK München, OV Milbertshofen Volkstrauertag am 13.11.2016
+- TOP 6.3.: (E) Budget der Bezirksausschüsse Gesellschaft für Deutsch-Indische Zusammenarbeit e.V. Indisches Lichterfest Diwali am 29.10.2016
+- TOP 6.4.: (E) Budget der Bezirksausschüsse Kulturverein WENDES Lesungen und Gesänge des Singidunum Chors am 06.11.2016 in der St. Georg Kirche
+- TOP 6.5.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Einrichtung Musisches Zentrum Anschaffung einer Küche, eines Tisches und eines Hockers
+- TOP 1: (E) Verkehrssicherheit Dientzenhoferstraße, Lieberweg, Parlerstraße, Bernaysstraße - <div></div>
+- TOP 2: (E) Abschaltung der Ampel in der Hufelandstraße Ecke Oberhofer Weg samstags und sonntags
+- TOP 3: (E) Einführung eines Wochenmarktes auf der Freifläche Weyprechtstraße 76-86 Empfehlung Nr. 14-20 / E 01100 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016 - <div></div>
+- TOP 7.1.: Mehr Grün in der Stadt und besonders im Gebiet des BA 11
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
