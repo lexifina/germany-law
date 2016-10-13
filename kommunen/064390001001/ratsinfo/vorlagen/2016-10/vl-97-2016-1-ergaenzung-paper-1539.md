@@ -1,0 +1,29 @@
+# Entwurf der Haushaltssatzung der Gemeinde Aarbergen für das Rechnungsjahr 2017 mit Stellenplan und sonstigen Anlagen
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-97/2016 1. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2016-10-13
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcksat_P5nyMKsQ-TGNebvA
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/1539
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Entwurf der Haushaltssatzung der Gemeinde Aarbergen für das Rechnungsjahr 2017 mit Stellenplan und sonstigen Anlagen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV6tfMHlrYdJCS50H7dAWLCqYXOvq8A0GEw5xiCRsClY/Beschlussvorlage_Gemeindevertretung_VL-97-2016_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Inhaltsverzeichnis) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcyZHcfxii_08YxKHnvnt9YXrEBQ4Ph6fvY2K2OZt243/Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (HH-Satzungsentwurf-2017) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaaEuCGInMtnoDbKZ4tbmYWzbpNxofjaU5paPAuyt64l/HH-Satzungsentwurf-2017.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Vorbericht-2017) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd9De5KJIb9zRpHme1w7VJwiob36UGWtI8yn8_1KUNJb/Vorbericht-2017.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ergebnishaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdQEYOb0r15rHU764Kh1nsPKZP4s_qT5DivAhyUeYIhS/Ergebnishaushalt.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Finanzhaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQkqUA1nCNT08h5uZfUgiY4-zeL9b05CCF0TRpwacCAg/Finanzhaushalt.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Entwurf Produktplan-2017) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaGbTCEfNWFnSHBTdS8gLTHUWAsSmhy4yj3NxuK-_e_3/Entwurf_Produktplan-2017.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Deckungs-Übertragungsvermerke) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcPfYfIKYwHDSDGXZrba2wN1aiuBWMKfzs43yHsBFd95/Deckungs-Uebertragungsvermerke.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Mittelfristige Ergebnisplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTtecq7obQ8F6hv5D8MKek6bVgsm8JiyF23x-6blwV7-/Mittelfristige_Ergebnisplanung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Mittelfristige Finanzplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRE19t2u_X6tcasngTtOSsBlKWKuYz_5Vs-mzvoDh1-_/Mittelfristige_Finanzplanung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Investitionsprogramm) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVaf9f_ZNZAUxbyZqGTGWK9oeHE6DoLO2fZzMyq1SbjY/Investitionsprogramm.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Stellenplan) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcdNE-Ei82rlel3zWFp5X-iHM9iAudPdHFlANR2TycRT/Stellenplan.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Übersicht Verpflichtungsermächtigungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUCRRp0UzfUZoqCcCpUuvEpNankkp1-ew09UizCRkhTG/Uebersicht_Verpflichtungsermaechtigungen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Verbindlichkeitenübersicht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeIPflWp5d8GWURKcdkn_msV7Oxylr57BFOQWin9WSCe/Verbindlichkeitenuebersicht.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Rücklagen-Rückstellungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQaFXwWwG68Z7iDt7VCnRrVrfLhXkbHxJemYPnlScIxB/Ruecklagen-Rueckstellungen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Budgetplan) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYL2TmES-NvKdJEkLtMqvGnK32nm077ljkkkUDUjGtNx/Budgetplan.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Jahresabschluss-2014) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRUafB9UTlgfXARgy3vGEPVDoCyMohKlerCLZuNnQ__0/Jahresabschluss-2014.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (HH-Entwurf-2017-Komplettexemplar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTfnCFFrowPRVVmKKBm7gStYsoI4U4mGdW5YKKTsnA9I/HH-Entwurf-2017-Komplettexemplar.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/794 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
