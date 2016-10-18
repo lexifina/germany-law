@@ -1,0 +1,91 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-10-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784500
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784500
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Gewinnung neuer barrierefreier Wahllokale für die Bundestagswahl 2017
+- TOP .2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1(Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung)? in ein Anhörungsrecht, BA-Antrags-Nr. 14 - 20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Sendlinger Straße 54, DG-Ausbau, Nutzungsänderung zu 2 WE und Instandsetzung der Straßenfassade, Aufstockung Wohnen Rückgebäude, Abbruch Lager/Werkstatt und Neubau Wohnhaus
+- TOP 7.2.: Müllerstraße 2-6, Verschiedene Nutzungsänderungen, DG- Abbruch Dachstuhl und Neubau Flachterrasse, EG- Büro und Wohnen zu Gaststätte und Wohnen, 1.-2. OG und DG- Wohnen für Flüchtlinge; Handwerksbetrieb, Wohnen und Büro zu Bildungswerkstatt und Büro
+- TOP 7.3.: Herzogspitalstraße 6, Neustrukturierung eines gastronomischen Betriebes mit Erweiterungsvorhaben
+- TOP 7.4.: Neuhauserstraße 7, Vorbescheid: Abbruch und Neubau eines Geschäfts-, Büro- und Wohnhauses mit Tiefgarage
+- TOP 7.5.: Marienstraße 14-16, Aufstockung eines Bürogebäudes um ein Geschoss mit Nutzung 2 WE
+- TOP 7.6.: Rindermarkt 10, Sanierung und Umbau Ruffiniblock (Rindermarkt 10, Rosental 1, Sendlinger Straße 1)
+- TOP 7.7.: Marienplatz 1, DG-Ausbau und Zusammenlegung mit der darunterliegenden Wohnung
+- TOP 7.8.: Neuhauserstraße 43, Umbau eines mehrgeschossigen Gebäudes zu einem Laden für Sportartikel mit Umbau der Eingangsfassade im EG sowie Erneuerung des Vordachs
+- TOP 7.9.: Sendlinger Straße 54, DG-Ausbau, Nutzungsänderung zu 2 WE und Instandsetzung der Straßenfassade, Aufstockung Wohnen Rückgebäude, Abbruch Lager/Werkstatt und Neubau Wohnhaus Innenhof, Vorbescheid
+- TOP 7.10.: Hildegardstraße 10, Balkonanbau 2./3. OG + DG, Aufzugsanbau an der Südfassade
+- TOP 7.11.: Altenhofstraße 4, Wohn- und Geschäftsgebäude, Umbau und Sanierung mit Aufstockung und teilweiser Nutzungsänderung, Einzelhandel mit Verwaltung und 5 Wohneinheiten, Vorbescheid
+- TOP 7.1.: Werbeanlagenverordnung erlassen; Empfehlung Nr. 14-20/E827 der Bürgerversammlung des Stadtbezirkes 1 am 03.12.2015, Sitzungsvorlage Nr. 14-20/V06471, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 7.2.: Anhörung zu Bebauungsplan mit Grünordnung Nr. XXYY Oettingenstraße 74-80 und Tivolistraße, vertagt aus 2016.09 B 3.2.1
+- TOP 7.1.: Bürgeranliegen, Freihaltung von Plätzen
+- TOP 7.2.: Bürgeranliegen, Mehr Mülleimer in der Widenmayerstraße für Hundekottüten
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Antrag für die Genehmigung einer Freischankfläche, Bäckerei Riedlmair, Orlandostraße 1
+- TOP 7.2.: Antrag für die Genehmigung einer Freischankfläche, Gaststätte ?Minimis?, Westenriederstraße 18, vertagt aus 2016.09 C 2.1.3
+- TOP 7.3.: Antrag für die Erweiterung einer Freischankfläche, Hillinger Munich GmbH, St.-Anna- Straße 18
+- TOP 7.4.: Antrag für die Erweiterung einer Freischankfläche, Gaststätte ?Rischart's ? Max eatery?, Karlsplatz 8
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Aufstellung neuer Bänke am St.-Anna-Platz, vertagt aus 2016.09 C 2.3.2
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Münchner Feuerzangenbowle, 25.11.-06.01.2016, Innenhof Isartorplatz
+- TOP 7.2.: Münchner Christkindlmarkt, 25.11.-24.12.2016, Innenstadt/Marienplatz
+- TOP 7.1.: Antrag für die Aufstellung von 2 Sitzgelegenheiten, Damenstiftstraße 11, vertagt aus 2016.09 C 3.2.6
+- TOP 7.1.: Bürgeranliegen, Beschilderung Sendlinger Straße
+- TOP 7.2.: Bürgeranliegen, Haltestreifen Radweg Prinzregentenstraße / Wagmüllerstraße
+- TOP 1.1.: Austausch von Lichtsígnalanlagen, Maximilian-/Stern-/Widenmayerstraße
+- TOP 1.2.: Beschleunigung der Buslinie 63 und 132, Projektkosten 3.740.000?, Projektgenehmigung, Genehmigung der verwaltungsinternen Ausführungsgenehmigungen und Änderung des Mehrjahresinvestitionsprogrammes 2016-2020, Sitzungsvorlage Nr. 14-20 / V06855, Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss vom 08.11.2016
+- TOP 1.3.: Sperre des Max-Joseph-Platzes für Busse
+- TOP 1.4.: Antrag auf Baumfällung, Lerchenfeldstraße 33
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Einführung der Kooperationsplattform ?Alfresco? bei den Bezirksausschüssen, Nutzungsbedingungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Archäologische Kartierung der Münchner Altstadt; Zwischenbericht für 2015, Sitzungsvorlage Nr. 14-20 / V06524, Bekanntgabe des Ausschusses für Stadtplaunung und Bauordnung vom 21.09.2016
+- TOP 0.3.: Teilfortschreibung des Landesentwicklungprogramms Bayern, Sitzungsvorlage Nr. 14-20/ V07001, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016
+- TOP 0.4.: Regionale Kooperation stärken (II) ? Folgeprojekte Regionale Wohnungsbaukonferenzen, Finanzierungsbeschluss für regionale Projekte, Sitzungsvorlage Nr. 14-20 / 06894, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 0.5.: Bericht zur Wohnungssituation in München 2014-2015, Sitzungsvorlage Nr. 14-20 / V 07098, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 0.6.: Zwischennutzung Gebäudeensemble an der Kardinal-Faulhaber-Straße
+- TOP 0.7.: Bürgeranliegen, Nahversorgung im Stadtbezirk 1 Altstadt-Lehel, Zwischennachricht Referat für Arbeit und Wirtschaft
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.1.: Toilettennutzung in öffentlichen Grünanlagen, Sitzungsvorlage Nr. 14-20 / V07087, Beschluss des Bauausschusses vom 04.10.2016
+- TOP 0.2.: Einsatz eines Schulweghelfers oder einer Schulweghelferin bei der Ampelquerung über die Prinzregentenstraße höhe Lerchenfeldstraße/ Wagmüllerstraße
+- TOP 0.3.: Tempo 20 in der St.-Anna-Straße
+- TOP 0.4.: Strukturelles Umestzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20/V05253, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 0.5.: Fahrbahnsanierung, Rochusberg zwischen Jungernturmstraße und Prannerstraße
+- TOP 0.6.: Fahrbahnsanierung, Herzogspitalstraße zwischen Sonnenstraße und Herzog-Wilhelm-Straße
+- TOP 0.7.: Unterrichtung über die bevorstehende Entfernung von Gefahrenbäumen, 1 Spitzahorn / Thierschplatz
+- TOP 0.8.: Energienutzungsplan für München, Sitzungsvorlage Nr. 14-20/V07115, Beschlussdes Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 12.10.2016
+- TOP 0.9.: Modernisierung U-Bahnhof Sendlinger Tor, Information über Baumfällungen und Rückschnitte
+- TOP 0.10.: Eilentscheidung zu Modernisierung U-Bahnhof Sendlinger Tor, Baumfällungen Containeranlage
+- TOP 0.11.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Gewürzmühlstraße 10
+- TOP 0.12.: Informationen zur Änderung der Verkehrssituation entlang der Uferstraße zwischen Mariannenbrücke und Praterwehrbrücke
+- TOP 0.13.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Am Einlaß 3
+- TOP 0.1.: München lebt interkulturelle Vielfalt ? Pilotprojekt für Bezirksausschüsse, Einladung zur Informations- und Austauschveranstaltung am 19.11.2016
+- TOP 0.2.: Mieterbeirat, Änderung der Mieterbeiratssatzung und der Geschäftsordnung, Änderung der Vergütungsregelungen, Sitzungsvorlage Nr. 14-20/V05619, Beschluss der Vollversammlung des Stadtrates vom 20.07.2016
+- TOP 0.3.: Sachbericht zum 4. Historischen Spielfest am Isartor
+- TOP 1: (E) Erhalt des Landschaftsschutzgebietes Isarauen / Isaranlagen als Erholungsgebiet; Empfehlung Nr. 14-20 / E 00818 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt Lehel am 03.12.2015 - <div></div>
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 7.3.2: Sonstige
