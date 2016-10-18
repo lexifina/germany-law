@@ -1,0 +1,7 @@
+# TOP .2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1(Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung)? in ein Anhörungsrecht, BA-Antrags-Nr. 14 - 20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 ? Ramersdorf-Perlach vom 16.04.2015
+
+- Sitzung: BA 01 - Vollgremium (2016-10-18)
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/458821
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/458821
