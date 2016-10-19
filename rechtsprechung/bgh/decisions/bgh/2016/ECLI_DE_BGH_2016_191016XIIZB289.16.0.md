@@ -1,0 +1,232 @@
+---
+ecli: "ECLI:DE:BGH:2016:191016XIIZB289.16.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 289/16"
+decided: "2016-10-19"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2016&Sort=1&Seite=89&nr=76531&anz=3286&pos=2687&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2016-10-19_XII_ZB_289_16_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/1896.md", "germany/bund/acts/famfg/0026.md"]
+---
+
+# Bundesgerichtshof, XII ZB 289/16 vom 2016-10-19
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                            BESCHLUSS
+XII ZB 289/16
+
+                                    vom
+
+                              19. Oktober 2016
+
+                           in der Betreuungssache
+
+Nachschlagewerk:      ja
+
+BGHZ:               nein
+
+BGHR:                 ja
+
+
+
+BGB § 1896 Abs. 2; FamFG § 26
+
+
+Zur Erforderlichkeit einer Betreuung bei Vorliegen einer Vorsorgevollmacht (im Anschluss   an    Senatsbeschlüsse   vom    17. Februar   2016   - XII ZB   498/15 -
+FamRZ 2016, 704 und vom 3. Februar 2016 - XII ZB 425/14 - FamRZ 2016, 701).
+
+BGH, Beschluss vom 19. Oktober 2016 - XII ZB 289/16 - LG Traunstein
+                                                      AG Traunstein
+
+
+
+
+ECLI:DE:BGH:2016:191016BXIIZB289.16.0
+
+                                           -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 19. Oktober 2016 durch den
+    Vorsitzenden Richter Dose, die Richter Dr. Günter, Dr. Nedden-Boeger und
+    Guhling und die Richterin Dr. Krüger
+
+    beschlossen:
+
+
+          Auf die Rechtsbeschwerde der Betroffenen wird der Beschluss der
+          4. Zivilkammer des Landgerichts Traunstein vom 19. Mai 2016
+          aufgehoben.
+
+          Die Sache wird zur erneuten Behandlung und Entscheidung, auch
+          über die Kosten des Rechtsbeschwerdeverfahrens, an das Landgericht zurückverwiesen.
+
+          Wert: 5.000 €
+
+
+
+
+                                       Gründe:
+
+                                            I.
+
+1         Die im Jahre 1928 geborene Betroffene erteilte einer ihrer beiden Töchter, der Beteiligten zu 4, im Dezember 2012 eine notariell beglaubigte Vorsorgevollmacht. Nachdem die Betroffene im Jahre 2013 in ihrem Haus zweimal
+    gestürzt war, bezog sie Ende 2013 ein Zimmer in einem Seniorenzentrum. Anfang 2014 kam es mit dem Sohn ihrer anderen Tochter zu einer gerichtlichen
+    Auseinandersetzung, bei der es darum ging, dass ihr Enkel (der Beteiligte zu 3;
+    im Folgenden: Enkel) ihr den Besitz an der im ersten Stock gelegenen Wohnung in ihrem Anwesen wieder einräumen sollte. Im Zuge dieses Gerichtsverfahrens wurde ein Privatgutachten eines Facharztes für Psychiatrie und Psy-
+
+                                          -3-
+
+
+
+    chotherapie vom 5. Juni 2014 vorgelegt, das der Betroffenen Geschäftsfähigkeit
+    bestätigte. Am 8. Juli 2014 erteilte die Betroffene ihrem Enkel eine notarielle
+    General- sowie Vorsorge- und Betreuungsvollmacht.
+
+2         Ende August 2014 hat die Beteiligte zu 4 daraufhin beim Amtsgericht die
+    Einrichtung einer Betreuung für die Betroffene angeregt und mitgeteilt, sie sehe
+    sich zur Ausübung ihrer Vorsorgevollmacht nicht in der Lage. Grund sei der eskalierende Familienkonflikt, bei dem es darum gehe, dass ihre Schwester die
+    finanziellen Verpflichtungen gegenüber der Betroffenen aus einem im Jahre
+    1993 abgeschlossenen Betriebsübergabevertrag nicht erfülle.
+
+3         Nach Einholung und Ergänzung eines Sachverständigengutachtens sowie persönlicher Anhörung der Betroffenen hat das Amtsgericht einen Berufsbetreuer für den Aufgabenkreis Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Abschluss, Änderung und Kontrolle eines Heim-Pflegevertrags, Haus- und Grundstücksangelegenheiten sowie Entgegennahme, Öffnen
+    und Anhalten der Post im Rahmen der übertragenen Angelegenheiten bestellt
+    und den 2. Juni 2022 als spätesten Überprüfungszeitpunkt bestimmt. Die Beschwerde der Betroffenen ist erfolglos geblieben.
+
+4         Mit ihrer Rechtsbeschwerde wendet sich die Betroffene weiterhin gegen
+    die Einrichtung einer Betreuung.
+
+
+
+
+                                           II.
+
+5         Die Rechtsbeschwerde hat Erfolg. Sie macht zu Recht geltend, dass das
+    Landgericht seiner Amtsermittlungspflicht (§ 26 FamFG) nicht genügt hat.
+
+                                          -4-
+
+
+
+6         1. Das Landgericht hat zur Begründung seiner Entscheidung ausgeführt,
+    die Betroffene leide an einem demenziellen Syndrom, aufgrund dessen sie ihre
+    Angelegenheiten in dem von der Betreuung umfassten Aufgabenkreis nicht besorgen könne. Die Betreuung sei nicht wegen der dem Enkel erteilten Vollmacht
+    entbehrlich. Denn es bestünden erhebliche Bedenken, dass die Betroffene am
+    8. Juli 2014 geschäftsfähig gewesen sei. Bereits fast ein Jahr zuvor habe ein
+    Facharzt für Neurologie die Auffassung vertreten, die Betroffene sei nicht mehr
+    voll geschäftsfähig. Dies korrespondiere auch mit den Diagnosen, die im Herbst
+    2013 im Rahmen eines zu Rehabilitationszwecken durchgeführten Klinikaufenthalts gestellt wurden. Der gerichtliche Sachverständige habe nach einer Untersuchung der Betroffenen im Januar 2015 ausgeführt, zum Zeitpunkt seiner Untersuchung habe keine volle Geschäftsfähigkeit vorgelegen, und zum Zeitpunkt
+    der Vollmachterteilung sei die Geschäftsfähigkeit nur schwer einzuschätzen,
+    weil bei der Erkrankung der Betroffenen durchaus ein schwankender Verlauf
+    gegeben sein könne. In seiner ergänzenden Stellungnahme sei er dann zu der
+    Auffassung gelangt, die Betroffene sei bei Vollmachterteilung an den Enkel mit
+    sehr hoher Wahrscheinlichkeit nicht mehr in vollem Umfang geschäftsfähig gewesen.
+
+7         2. Diese Ausführungen halten der rechtlichen Nachprüfung nicht stand.
+    Die bislang getroffenen Feststellungen tragen nicht den Schluss, eine Betreuung sei trotz der dem Enkel erteilten Vorsorgevollmacht erforderlich im Sinne
+    des § 1896 Abs. 2 Satz 2 BGB. Weder hat das Landgericht ausreichend aufgeklärt, ob die Betroffene zum Zeitpunkt der Erteilung geschäftsfähig war, noch
+    lassen sich dem angefochtenen Beschluss tragfähige Gründe dafür entnehmen,
+    weshalb die Vollmacht dann, wenn man Zweifel an ihrer wirksamen Erteilung
+    unterstellt, nicht gleichwohl zumindest teilweise der Erforderlichkeit der Betreuung entgegenstehen sollte. Hierauf kommt es auch an, nachdem der vom Betreuer im Juni 2015 ausgesprochene Widerruf der Vollmacht keine Wirksamkeit
+
+                                          -5-
+
+
+
+    erlangen konnte, weil dem Betreuer nicht der Aufgabenkreis des Widerrufs der
+    Vorsorgevollmacht ausdrücklich zugewiesen war (vgl. hierzu Senatsbeschluss
+    BGHZ 206, 321 = FamRZ 2015, 1702 Rn. 20).
+
+8         a) Ein Betreuer darf nur bestellt werden, soweit die Betreuerbestellung
+    erforderlich ist (§ 1896 Abs. 2 Satz 1 BGB). An der Erforderlichkeit fehlt es, soweit die Angelegenheiten des Betroffenen durch einen Bevollmächtigten ebenso gut wie durch einen Betreuer besorgt werden können (§ 1896 Abs. 2 Satz 2
+    BGB). So wie die - eine Betreuung erfordernde - Krankheit mit hinreichender
+    Sicherheit feststehen muss, eine bloße Verdachtsdiagnose also nicht ausreicht,
+    genügt ein bloßer Verdacht nicht, um die Vermutung der Wirksamkeit einer vorliegenden Vollmachtsurkunde zu erschüttern. Kann die Unwirksamkeit einer
+    Vorsorgevollmacht nicht positiv festgestellt werden, bleibt es somit bei der wirksamen Bevollmächtigung (Senatsbeschluss vom 3. Februar 2016 - XII ZB
+    425/14 - FamRZ 2016, 701 Rn. 11). Eine Vorsorgevollmacht steht daher der
+    Bestellung eines Betreuers grundsätzlich entgegen.
+
+9         Ob eine bestehende Vollmacht dann, wenn sie in Zweifel gezogen wird,
+    dem Bevollmächtigten ermöglicht, die Angelegenheiten des Betroffenen ebenso
+    gut wie durch einen Betreuer zu besorgen, ist eine nachgeordnete Frage, die
+    sich erst stellt, wenn die Frage der Wirksamkeit der Vollmacht im Rahmen der
+    Aufklärung von Amts wegen nach § 26 FamFG ausermittelt ist und nicht positiv
+    festgestellt werden kann, ob sie wirksam oder unwirksam ist (Senatsbeschluss
+    vom 3. Februar 2016 - XII ZB 425/14 - FamRZ 2016, 701 Rn. 12). Dabei entscheidet der Tatrichter über Art und Umfang seiner Ermittlungen nach pflichtgemäßem Ermessen. Dem Rechtsbeschwerdegericht obliegt lediglich die Kontrolle auf Rechtsfehler, insbesondere die Prüfung, ob die Tatsachengerichte alle
+    maßgeblichen Gesichtspunkte in Betracht gezogen haben und die Würdigung
+
+                                           -6-
+
+
+
+     auf einer ausreichenden Sachaufklärung beruht (Senatsbeschluss vom
+     17. Februar 2016 - XII ZB 498/15 - FamRZ 2016, 704 Rn. 13 mwN).
+
+10           Bleiben Bedenken an der Wirksamkeit der Vollmachterteilung oder am
+     Fortbestand der Vollmacht, kommt es darauf an, ob dadurch die Akzeptanz der
+     Vollmacht im Rechtsverkehr eingeschränkt ist, entweder weil Dritte die Vollmacht unter Berufung auf diese Bedenken zurückgewiesen haben oder weil
+     entsprechendes konkret zu besorgen ist (Senatsbeschluss vom 3. Februar
+     2016 - XII ZB 425/14 - FamRZ 2016, 701 Rn. 12; vgl. auch Senatsbeschluss
+     vom 17. Februar 2016 - XII ZB 498/15 - FamRZ 2016, 704 Rn. 12 mwN). Trotz
+     Vorsorgevollmacht kann eine Betreuung zudem dann erforderlich sein, wenn
+     der Bevollmächtigte ungeeignet ist, die Angelegenheiten des Betroffenen zu
+     besorgen, insbesondere weil zu befürchten ist, dass die Wahrnehmung der Interessen des Betroffenen durch jenen eine konkrete Gefahr für das Wohl des
+     Betroffenen begründet. Letzteres ist der Fall, wenn erhebliche Bedenken an der
+     Geeignetheit oder Redlichkeit des Bevollmächtigten bestehen (Senatsbeschluss vom 17. Februar 2016 - XII ZB 498/15 - FamRZ 2016, 704 Rn. 12
+     mwN).
+
+11           b) Wie die Rechtsbeschwerde im Ergebnis zutreffend rügt, beruht die
+     Feststellung des Landgerichts, es bestünden erhebliche Zweifel an der Geschäftsfähigkeit der Betroffenen bei Vollmachterteilung am 8. Juli 2014, auf einer unzureichenden und daher nicht § 26 FamFG genügenden Sachaufklärung.
+
+12           Der gerichtliche Sachverständige hat ausgeführt, dass das Krankheitsbild
+     der Betroffenen vermutlich starken Schwankungen unterlegen habe. Der Privatsachverständige hatte sie rund einen Monat vor Erteilung der Vollmacht untersucht und war dabei nicht nur zu dem Ergebnis gelangt, die Betroffene sei geschäftsfähig, sondern hatte sie auf der Grundlage des Explorationsgesprächs
+
+                                            -7-
+
+
+
+     auch als "bewusstseinsklar, zeitlich, örtlich, situativ und zur eigenen Person orientiert" beschrieben. Zur Beurteilung der Frage, ob die Betroffene am 8. Juli
+     2014 geschäftsfähig war, kam es mithin ersichtlich auf ihre konkrete Verfassung
+     an diesem Tag an, weshalb sich dem Tatrichter aufdrängen musste, die bei der
+     Beurkundung neben der Betroffenen anwesenden Personen, nämlich den Notar
+     und den Enkel, hierzu zu befragen. Das hat das Landgericht im Ansatz offenbar
+     auch erkannt, da es den Notar aufgefordert hat, schriftlich zum psychischen
+     Zustand der Betroffenen am 8. Juli 2014 und zu dem anlässlich der Beurkundung geführten Gespräch Stellung zu nehmen. Dieser konnte jedoch keine eindeutige Stellungnahme abgeben, weil ihm, wie er erklärte, die Urkunde und
+     eventuelle Nebenakten nicht vorlagen. Eine erneute Befragung des Notars unter Vorhalt von Urkunde und eventuellen Nebenakten als Erinnerungshilfe ist
+     jedoch ebenso unterblieben wie die Befragung des Enkels. Damit hat das
+     Landgericht nicht in der gebotenen Weise die zur Verfügung stehenden Aufklärungsmöglichkeiten zum Zustand der Betroffenen am 8. Juli 2014 und damit zu
+     vollständigen Anknüpfungstatsachen für den gerichtlichen Sachverständigen
+     ausgeschöpft.
+
+13         c) Aber auch das Bestehen von Zweifeln an der Geschäftsfähigkeit der
+     Betroffenen bei Vollmachterteilung unterstellt fehlt es derzeit an einer tragfähigen Grundlage für die Annahme, dass eine Betreuung für die Betroffene erforderlich ist. Die angefochtene Entscheidung enthält weder ausreichende Feststellungen dazu, dass etwaige Bedenken gegen die Wirksamkeit der Vorsorgevollmacht zu Akzeptanzproblemen im Rechtsverkehr führen, noch dazu, dass
+     der Enkel als Bevollmächtigter ungeeignet ist.
+
+14         3. Die angefochtene Entscheidung ist daher aufzuheben und die Sache
+     ist an das Landgericht zurückzuverweisen. Dieses wird die weitere Sachaufklärung zur Frage der Geschäftsfähigkeit der Betroffenen bei Erteilung der Voll-
+
+                                     -8-
+
+
+
+macht an den Enkel vorzunehmen haben. Abhängig vom Ergebnis dieser Ermittlungen wird es dann ggf. auch Feststellungen zu Akzeptanzproblemen der
+Vollmacht im Rechtsverkehr und zur Eignung des Enkels als Bevollmächtigtem
+für die Erledigung der für die Betroffene zu regelnden Angelegenheiten zu treffen haben.
+
+
+
+
+Dose                                Günter                     Nedden-Boeger
+
+                Guhling                           Krüger
+
+
+
+
+Vorinstanzen:
+AG Traunstein, Entscheidung vom 08.06.2015 - XVII 673/14 -
+LG Traunstein, Entscheidung vom 19.05.2016 - 4 T 2962/15 -
