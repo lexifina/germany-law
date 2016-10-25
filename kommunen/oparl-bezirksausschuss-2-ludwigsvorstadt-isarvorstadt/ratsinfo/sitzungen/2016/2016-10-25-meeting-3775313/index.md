@@ -1,0 +1,129 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-10-25T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3775313
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3775313
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: BA-Antrag, Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung ?Ludwigsvorstadt / Schwanthalerhöhe?
+- TOP .2.: BA-Antrag zum geplanten Informationszentrum Friedhofs- und Bestattungskultur Alter Südlicher Friedhof und Informationsstelle für Besucher des Alten Südlichen Friedhofs, PLENUMSBESCHLUSS
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .5.: Bürgeranliegen, Museum und Infozentrum am Südlichen Friedhof
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Zenettistraße 33, Ausbau DG mit 3 Wohneinheiten
+- TOP .2.: Auenstraße 26, Balkonanbau mit Errichtung einer Staglstütze im EG
+- TOP .3.: Kapuzinerstraße 16, DG Neubau, Anbau, Fassadenaufzug und Balkone
+- TOP .4.: Jahnstraße 9, DG-Erweiterung durch Ausbau des Dachspeichers und Zusammenfassung in eine Maisonettewohnung mit Einbau einer hofseitigen Dachterrasse
+- TOP .5.: Baaderstraße 16, Abbruch und Neubau eines Daches, Aufstockung, Einbau dreier Wohnungen
+- TOP .6.: Ehrengutstraße 4, Sanierung und Aufstockung eines Mehrfamilienhauses mit Anbau eines Außenlifts, Einbau einer Dachterrasse, Anbau von Balkonen und Neubau von 2 WE
+- TOP .7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .8.: Schillerstraße 30, Aufstockung 6. OG + DG (Bestand: EG bis 5. OG) für eine Beherbergungsanlage (Apartment-Hotel), vertagt aus 2016.09 B 3.1.4
+- TOP .9.: Kapuzinerstraße 5 - 7a, Aufstockung zweier Wohn- und Geschäftshäuser, vertagt aus 2016.09 B 3.1.5
+- TOP .10.: Reifenstuelstraße 12, Umbaumaßnahmen im Dachgeschoß
+- TOP .11.: Fraunhoferstraße 9, Nutzungsänderung eines Lagers in ein Büro sowie Anbau von Balkonen und einer Fluchtleiteranlage
+- TOP .12.: Landwehrstraße 26, Nutzungsänderung eines Bürohauses mit 2 WE in ein Boardinghaus / Beherbergungsstätte (23 Einheiten, 55 Betten), Aufteilung und Nutzungsänderung: Laden zu Shisha-Bar, Imbiss und Laden
+- TOP .13.: Lindwurmstraße 65, Aufstockung und Ausbau zu Wohnungen - TEKTUR
+- TOP .14.: Ickstattstraße 6, DG-Ausbau und Errichtung eines neuen Dachstuhls
+- TOP .15.: Museumsinsel 1, Zwischennutzung des Kongresssaalgebäudes des Deutschen Museums, befristet auf fünf Jahre
+- TOP .16.: Jahnstraße 31, Modernisierung, Balkonerweiterung, Dachgeschoss-Erneuerung und Nutzungsänderung Erdgeschoss Werkstatt in Büro des Rückgebäudes - TEKTUR
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Kaiser-Ludwig-Platz 3, Antrag auf Fällung eines Spitzahorns, PLENUMSBESCHLUSS
+- TOP .2.: Müllerstraße 7, Antrag auf Fällung einer Blumenesche, PLENUMSBESCHLUSS
+- TOP .3.: Poccistraße 2, Antrag auf Fällung einer Rotfichte, PLENUMSBESCHLUSS
+- TOP .4.: Nußbaumstraße 20, Antrag auf Fällung einer Esche, PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Landwehrstraße 42; Eine Digital Wandanlage als Ersatz für bestehende Werbeanlage, vertagt aus 2016.09 B 3.2.2 (Eilentscheidung)
+- TOP .1.: Ruppertstraße 5, Stadtteilkulturzentrum Aktuelle Pläne stehen dem AK in der BA-Geschäftsstelle zur weiteren Begutachtung zur Verfügung
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: BA-Antrag, Mülleimer in der Lindwurmstraße aufstellen
+- TOP .2.: BA-Antrag, Lindwurmunterführung (vgl. 2016.09 Allg. Bürgerfragen)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Sonnenstraße 2; Antrag für die Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .2.: Schillerstraße 14; Antrag für einen mobilen Fahrradständer
+- TOP .2.3: Sonstige Entscheidungen
+- TOP 1.1.: Schluss- und Erfahrungsbericht Oktoberfest 2016, Anforderung des Referates für Arbeit und Wirtschaft
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Regionalzughalt Poccistraße, Referat für Stadtplanung und Bauordnung; Stellungnahme zum Beschlussentwurf vom 01.09.2016, vertagt aus 2016.09 C 3.2.2 (Eilentscheidung)
+- TOP 1.2.: Radweg Thalkirchner Straße
+- TOP 1.3.: Rückmeldung Oktoberfest 2016 aus verkehrlicher Sicht
+- TOP 1.4.: Beschleunigung der Buslinie 63 und 132, Projektkosten 3.740.000?, Projektgenehmigung, Genehmigung der verwaltungsinternen Ausführungsgenehmigungen und Änderung des Mehrjahresinvestitionsprogrammes 2016-2020, Sitzungsvorlage Nr. 14-20 / V06855, Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss vom 08.11.2016 (Eilentscheidung)
+- TOP 1.1.: Kapuzinerstraße 41, Antrag für die Aufstellung von Sitzgelegenheiten
+- TOP 1.1.: Begrünungsplan BA 2
+- TOP 1.2.: Umgestaltung Holzplatz, vgl. TOP 2016.09 C 1.1
+- TOP 1.3.: Bürgeranliegen, Planungen betreffend einer öffentliche Toilette am Gärtnerplatz
+- TOP 1.4.: Bürgeranliegen, Oktoberfest 2016: Verkehrsregelungen
+- TOP 1.5.: Bürgeranliegen, Radlfahrer auf Gehweg, Schwanthalerstraße 69
+- TOP 1.6.: Bürgeranliegen, Bänke am Kapuzinerplatz
+- TOP 1.7.: Holzstraße 25, Rasenbereich; "Stummer Verkäufer" vor Geschäft vorhanden
+- TOP 1.8.: Glascontainerstandort Bavariaring
+- TOP 1.9.: Goethe-/Landwehrstraße, Arbeitsanbahnung
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung)? in ein Anhörungsrecht, BA-Antrags-Nr. 14 - 20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 1.2.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 1.2: Termine
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 07.11.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 08.11.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 09.11.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 14.11.2016 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 22.11.2016 um 19 Uhr im Saal in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.1.: München lebt interkulturelle Vielfalt, Informations- und Austauschveranstaltung ? Pilotprojekt für Bezirksausschüsse, Samstag, 19.11.2016 von 09.30-15.00 Uhr, siehe auch TOP 2016.10 A 4.4
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.3.: Grundsatzbeschluss Informationszentrum Friedhofs- und Bestattungskultur Alter Südlicher Friedhof, Sitzungsvorlage Nr. 14-20 / V05239, Beschluss der Vollversammlung des Stadtrates vom 28.09.2016
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021, Änderung des Mehrjahresinvestitionsprogramms 2016.2020; Finanzierung, Sitzungsvorlagen Nr. 14-20 /V 07205, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.2016 (VB)
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München
+- TOP 1.2.: Regionale Kooperation stärken (II) ? Folgeprojekte Regionale Wohnungsbaukonferenzen, Finanzierungsbeschluss für regionale Projekte, Sitzungsvorlage Nr. 14-20 / 06894, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 1.3.: Bericht zur Wohnungssituation in München 2014-2015, Sitzungsvorlage Nr. 14-20 / V 07098, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 1.4.: Energienutzungsplan für München, Sitzungsvorlage Nr. 14-20/V07115, Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 12.10.2016
+- TOP 1.5.: Fahrbahnsanierung, Klenzestraße im Bereich des Gärtnerplatztheaters
+- TOP 1.6.: Modernisierung U-Bahnhof Sendlinger Tor, Information über Baumfällungen und Rückschnitte
+- TOP 1.7.: Querung Auenstraße/Wittelsbacherstraße, vgl. TOP 2016.03 B 5.2; Stellungnahme des Baureferates per Email vom 07.10.2016
+- TOP 1.8.: Klenzestraße 1/RGB, Abbruch und Neuerrichtung Rückgebäude sowie Neubau einer Tiefgarage mit Einbau zweier Parklifte - Vorbescheid des Referates für Stadtplanung und Bauordnung vom 11.10.2016
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Handlungsprogramm Mittlerer Ring Wohnen am Ring Fortführung des Förderprogramms, Anpassung des Finanzbedarfs, Erfahrungsbericht Sitzungsvorlage Nr. 14-20 / V 06790, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Veränderung im Baurecht aufgrund der Beschleunigung der Asylverfahren, Antrag Nr. 14-20 / A 01449 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürgerbeteiligung vom 13.10.2015, Sitzungsvorlage Nr. 14 - 20 / V 7305, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (SB)
+- TOP 1.11.: Fragen zur aktuellen Situation des Laubholzbockkäfers in Bogenhausen, BA-Antrag-Nr. 14 - 20 / B 02697 des BA 13 -Bogenhausen, Antwortschreiben des Direktoriums vom 12.10.2016
+- TOP 1.12.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 - 30.06.2016, Sitzungsvorlagen Nr. 14-20 / V 06610; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Toiletten in öffentlichen Grünanlagen, Folgebeschluss Sitzungsvorlage Nr. 14-20 / V07087, Beschluss des Bauausschusses vom 04.10.2016
+- TOP 1.7.: Maßnahmen der Unfallkommission im Bereich Müllerstraße, Ecke Hans-Sachs-Straße
+- TOP 1.8.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlagen Nr. 14-20 / V05253, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016
+- TOP 1.9.: Arbeiten im Straßenraum, Arnulfstraße Bahnplatz Spur Richtung Süden, Bayerstraße 25-27 bis Schillerstraße, Umlegung der Fernwärmeleitung und des Kanals für die 2. SBSS
+- TOP 1.10.: Antwortschreiben des BA-Vorsitzenden zum Bürgeranliegen Öffentliche Toiletten am Gärtnerplatz, war TOP 2016.09 C 4.11
+- TOP 1.11.: Zwischennachricht mit Fristverlängerung zu BA-Antrag Nr. 14-20/B2655, Schrägparkplätze Bavariaring
+- TOP 1.12.: Antwort der Deutschen Bahn zu Bürgeranliegen Isartalstraße 44, Lärmbelästigung durch Schienenverkehr
+- TOP 1.13.: Ausnahmegenehmigung, Hörfunkaufnahmen Grünanlage Sendlinger-Tor-Platz / Nußbaumstraße1
+- TOP 1.14.: Bürgeranliegen Obdachlose vor der Kirche am St.-Pauls-Platz, vgl. TOP 2016.08 C 5.2, Antwortschreiben des Kreisverwaltungsreferates vom 06.10.2016
+- TOP 1.15.: Verschmutzung Isarvorstadt, Hundekottütenspender, Email des Baureferates vom 13.10.2016 zur Information
+- TOP 1.16.: Feiern in der Müllerstraße; Halbjährlicher Bericht; Email des Kreisverwaltungsreferates vom 13.10.2016 an BA 1
+- TOP 1.17.: Baureferat, Beschlussvorlage Aktion Saubere Stadt, Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung, Sitzungsvorlage Nr. 14 - 20/V 06637, Beschluss des Bauausschusses vom 25.10.2016 (SB)
+- TOP 1.18.: Abbau der Sitzgelegenheiten an der Tramhaltestelle Hauptbahnhof, Information des MVG vom 29.09.2016
+- TOP 1.19.: Bürgeranliegen Isartalstraße 44, Lärmbelästigung durch Schienenverkehr, vgl. TOP 2016.06 C 5.9 (N); Antwortschreiben des Referates für Arbeit und Wirtschaft vom 13.10.2016
+- TOP 1.20.: Oktoberfest 2016 - Rückmeldung Busparkplätze/Wohnmobilparkplätze
+- TOP 1.1.: Erhöhung der Freibeträge für Aufwandsentschädigungen, BA-Antrag-Nr. 14-20 / B 02720 vom 16.08.2016 des BA 18 Untergiesing-Harlaching; Antwortschreiben des Direktoriums vom 11.10.2016 zur Kenntnis
+- TOP .2.: (E) Budget der Bezirksausschüsse Kirchenstiftung St. Andreas im Pfarrverband Isarvorstadt Andreaskonzert am 25.11.2016
+- TOP 1: (E) Beschilderung der Fuß ? und Radwege an der Isar optimieren, Antrag Nr. 2
+- TOP .1.: (E) Budget der Bezirksausschüsse Evangelische Kirchengemeinde St. Matthäus Projekt ?no borders? am 15.10.2016
+- TOP 1.5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Leben im Alter, Wohnen 2 - Wohnungsgrundrisse für veränderbare Wohnungsgrößen, Sitzungsvorlage Nr. 14-20 / V 07222, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
