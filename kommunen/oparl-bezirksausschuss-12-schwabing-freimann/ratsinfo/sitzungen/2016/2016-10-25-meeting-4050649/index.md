@@ -1,0 +1,83 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4050649
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4050649
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Einführung der Kooperationsplattform Alfresco in den Bezirksausschüssen, Nutzungsbedingungen
+- TOP 1.3.: Anhörungen
+- TOP 9.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung)? in ein Anhörungsrecht BA-Antrags-Nr. 14 - 20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 ? Ramersdorf-Perlach vom 16.04.2015
+- TOP 9.2.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 10: sonstiges
+- TOP 10.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Kißkaltplatz, Provisorium baulich fassen
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Willi-Graf-Straße 3-7, Umbau und Modernisierung eines Studentenwohnheims (Hausgruppe 6 / Studentenstadt Freimann)
+- TOP 10.2.: Heidemannstraße 50, Baumfällungen gemäß Plan
+- TOP 10.3.: Frankfurter Ring 218, Erweiterung und Umbau eines Autohauses mit Ausstellung, Verkauf und Werkstatt
+- TOP 10.4.: Rainackerweg 12, 1 Walnuss Baum
+- TOP 10.1.: Lindberghstraße 28, Nutzungsänderung: Betriebsgebäude zu islamischem Kulturzentrum ? VORBESCHEID
+- TOP 10.2.: Werneckstraße 6, Neubau eines Studentenwohnheims mit 12 Appartements, vertagt aus der Sitzung vom 27.09.2016
+- TOP 10.3.: Tristanstr. 5, Aufstockung einer Stadtvilla
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Gondershauser Straße 18
+- TOP 10.2.: Tengstraße 14
+- TOP 10.1.: Neubau einer Schule und Kita mit Tiefgarage, Eilentscheidung des Vorsitzenden des BA 12
+- TOP 10.2.: Überprüfung und Erlass einer Erhaltungssatzung nach §172 Abs. 1 Satzu 1 Nr. 2 BaugB in den Stadtbezirken 04 ? Schwabing Wet, 11 ? Milbertshofen am Hart und 12 ? Schwabing-Freimann, Sitzungsvorlagennummer 14-20 / V 06634
+- TOP 10.3.: Regionale Kooperationen stärken (II) ? A. Folgeprojekte Regionale Wohnungsbaukonferenzen, B. Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsprojekte), C. Anträge und Empfehlungen, Sitzungsvorlagennummer 14-20 / V 06894
+- TOP 10.4.: Bericht zur Wohnungssituation in München 2014-2015, Sitzungsvorlagennummer 14-20 / V 07098
+- TOP 10.5.: Energienutzungsplan für München, Sitzungsvorlagennummer 14-20 / V 07115
+- TOP 10.6.: Bebauungsplan mit Grünordnung Nr. 2031 a Freisinger Landstraße (östlich), Garchinger Mühlbach Altgerinne (westlich) und Verlängerung Josef-Wirth-Weg (südlich) im 12. Stadtbezirk, Umgestaltung Kreuzung Freisinger Landstraße / Josef-Wirth-Weg und Herstellung eines baulichen Radwegs und Gehwegs in der Freisinger Landstraße (Ostseite) (Teil B), Sitzungsvorlagennummer 14-20 / V 06465
+- TOP 10.3.: S-Bahn Ring um München (Initiative: Horst Engler-Hamm)
+- TOP 10.1.: entfällt
+- TOP 3.1.: Öffnung des einbahngeregelten Teils in der Schackstraße für den gegenläufigen Radverkehr
+- TOP 3.1.: Sicherung eines ausreichend breiten Gehwegs entlang der Sturystraße BA-Antrags-Nr 14-20 / B 02687, Referatsschreiben
+- TOP 3.1.: Verbesserung der Radwegs-Zuführung von der Innenstadt bis zur Stadtgrenze, vertagt aus der Sitzung vom 27.09.2016, die Unterlagen liegen dem Gremium vor
+- TOP 3.2.: Vorschlag zur Verkehrsberuhigung und Parkplatzgewinnung (B11, Freisinger Landstraße 74-90), vertagt aus der Sitzung vom 27.09.2016, die Unterlagen liegen dem Gremium vor
+- TOP 3.1.: Busspur zwischen Münchner Freiheit und Hohenzollernstraße für E-Fahrzeuge freigeben, BA-Antrag Nr. 14-20 / B 02672 des BA 12 vom 29.07.2016
+- TOP 3.2.: Zugangserleichterung der Tiefgarage Otl-Aicher-Straße 25, BA-Antrag Nr. 14-20 / B 02321 des BA 12 vom 26.04.2016
+- TOP 3.1.: Zeitänderung am Haltverbot zur Freihaltung der Bücherbushaltestelle in der Paul-Hindemith-Allee
+- TOP 3.1.: Toiletten in öffentlichen Grünanlagen, Sitzungsvorlagennummer 14-20 / V 07087
+- TOP 3.2.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlagennummer 14-20 / V 05253
+- TOP 3.3.: Vertiefte Machbarkeitsuntersuchung für das Pilotprojekt ?schnelle Radverbindung für den Münchner Norden?, Sitzungsvorlagennummer 14-20 / V 06451
+- TOP 3.4.: Aktion Saubere Stadt, Wiederholung der Kampagne für ?Rein. Und Sauber?, das städt. Servicetelefon gegen Vermüllung, Sitzungsvorlagennummer 14-20 / V 06637
+- TOP 3.1.: Künstlerische Ausgestaltung der Unterführung Ungerer- / Freystraße (Initiative: Ekkehard Pascoe), vertagt aus der Sitzung vom 27.09.2016, die Unterlagen liegen dem Gremium vor
+- TOP 1.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 12. Stadtbezirk Schwabing-Freimann: Anhörung zu Textvorschlägen, Anzahl und Art der Schilder
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: Leopoldstraße 44
+- TOP 1.2.: Wilhelmstraße 27
+- TOP 1.3.: Leutkircher Straße 1
+- TOP 1.1.: Verwendungsnachweise a) Dauerkleingartenanlage NO 65 b) Freie Netze München e.V.
+- TOP 1.2.: Kurzbericht ?Kunst im Karrée 2016?
+- TOP 1.3.: Fortführung des Projekts ?DER FAHRENDE RAUM? in Freimann, Sitzungsvorlagennummer 14-20 / V 05887
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.5.: Heidemannstr. 50, Baumfällungen gemäß Plan (Antrag 2)
+- TOP 1.2.: Veranstaltung in städtischen Grünanlagen, hier: Kurt-Landauer-Weg, Disc Golf Turnier am Fröttmaninger Berg am 13.11.2016
+- TOP 10.1.: Rattenbekämpfung an der Münchner Freiheit (Initiative: Dagmar Föst-Reich)
+- TOP 10.2.: Hinweisschild auf Englischer Garten / Chinesischer Turm auf der Tivolistraße (Initiative: Patric Wolf)
+- TOP 10.5.: Haltverbotszone in der Heinrich-Groh-Straße, Räum- und Streupflicht (Initiative: Gunhilde Peter)
+- TOP 2: (E) Leerung und Reinigung der Gully-Kübel Empfehlung Nr. 14-20 / E 01081 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 14.07.2016
+- TOP 3: (E) Schwabinger Bach entlang der Liebergesellstraße freischneiden Empfehlung Nr. 14-20 / E 01090 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 14.07.2016
+- TOP 1: (E) Wiese an der Biedersteiner Straße wieder als Spielwiese herstellen Empfehlung Nr. 14-20 / E 01075 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 14.07.2016
+- TOP 10.6.: Antrag zu TOP C.5.3.3, Alternative Radwegverbindung über die Route Ungerer-Freisinger-Landstraße-Garching (Initiative: Unterausschuss Umwelt und Verkehr)
+- TOP 10.4.: Abbau der Bedarfsampel an der Kreuzung Untererstr. / Föhringer Ring (Initiative: Gunhilde Peter)
+- TOP 3.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 3.2.: Entscheidungen
+- TOP 3.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.5.3.: Sonstige Unterrichtungen
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen
