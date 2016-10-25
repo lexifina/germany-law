@@ -1,0 +1,7 @@
+# TOP 4.: Anfragen und Mitteilungen
+
+- Sitzung: Betriebsausschuss (9. Sitzung) (2016-10-25)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/12031
+- Beschluss (Datei): Beschlusstext (Anfragen und Mitteilungen) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWsVaxMUAsKVRn0Zg3sxftT78jctlpbAy7QvxkSv2n1q/Beschlusstext_TOP_4._-oeffentlich-_Betriebsausschuss_25.10.2016.pdf
