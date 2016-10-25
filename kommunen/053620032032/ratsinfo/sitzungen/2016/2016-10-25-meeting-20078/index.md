@@ -1,0 +1,62 @@
+# Ausschuss für Stadtplanung und Verkehr (15. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-10-25T17:03:00+02:00
+- Ende: 2016-10-25T20:45:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVajBU0-qUYNNUAfaktk2Dw
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20078
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSViy0LMPISFqV8kGi2EXFYuij2umlyjcOKqxU3I48ID/Bekanntmachung_Ausschuss_fuer_Stadtplanung_und_Verkehr_25.10.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZ-DUWb_EeLL7D3mg7eMAQM5Jn1LEdUM2FAKuZF1PSR1/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_25.10.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Seniorendorf Sindorf
+- TOP 3.1: Kein Handeln gegen die Demografie hier: Antrag der Fraktion DIE LINKE
+- TOP 3.2: Klarstellung Vergaberichtlinien
+- TOP -: Vergaberichtlinien Seniorendorf
+- TOP 4.: Umbesetzung von Arbeitskreisen
+- TOP 4.1: Umbesetzung von Arbeitskreisen und Besetzung der Kinderunfallkommission hier: Antrag der SPD-Fraktion
+- TOP 4.2: Umbesetzung von Arbeitskreisen und Besetzung der Kinderunfallkommission hier: Antrag der BBK/Piraten-Fraktion
+- TOP 5.: Umsiedlung Manheim
+- TOP 5.1: Sachstandsbericht
+- TOP 6.: Stadtentwicklung
+- TOP 6.1: Errichtung eines Studentenwohnheimes im Horremer Gleisdreieck hier: Antrag der FDP-Fraktion - (kein Text vorhanden)
+- TOP 6.2: Vorstellung des Sachstandes zukünftiger Leitprojekte Stadtentwicklung der Kolpingstadt Kerpen
+- TOP zu TOP 6.2: Sachstandsbericht Masterplan hier: Antrag der SPD-Fraktion
+- TOP zu TOP 6.2: Stadtplanerische Fortenwicklung im Zuge des zunehmenden Bedarfs an Wohnflächen hier: Antrag der FDP-Fraktion
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Angebot zur Erstellung eines Klimaschutzkonzeptes hier: externer Vortrag des Büros infas enermetric
+- TOP 6.5: Hahnenpassage - Sachstandsbericht
+- TOP 7.: Bauleitplanung
+- TOP 7.1: 80. Änderung des Flächennutzungsplanes "Vinger Weg", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.2: Bebauungsplan KE BP 362 "Vinger Weg", Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 7.3: Abschluss eines städtebaulichen Vertrages zur Übernahme von Planungskosten für den Bereich des öffentlich-rechtlichen Bebauungsplanes KE Nr. 362 "Vinger Weg" im Stadtteil Kerpen
+- TOP 7.4: 79. Änderung des Flächennutzungsplanes "Gemeinbedarfsfläche Hüttenstraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.5: Bebauungsplan SI 301/1. Änderung "Grünfläche Hüttenstraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.6: Bebauungsplan SI 363 "Kindertagesstätte Mastenweg", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 8.: Verkehrsplanung
+- TOP 8.1: Erweiterung der Tank- und Rastanlage Ville Ost und West hier: Vorabinformation durch einen Vertreter des Landesbetriebes Straßen NRW
+- TOP 8.2: Prioritätenliste Barrierefreier Ausbau des Straßenraums in der Kolpingstadt Kerpen hier: Sachstand
+- TOP 8.3: Erhöhte Geschwindigkeiten auf der Dürener Straße in Kerpen-Blatzheim hier: Geschwindigkeitsmessungen
+- TOP 9.: Mitteilungen
+- TOP 9.1: Projektaufruf Quartiersförderung hier: Schreiben der SPD-Fraktion vom 04.10.2016
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.1: Sachstand zum Umbau Areal vor der Kreissparkasse in Sindorf hier: Anfrage der SPD-Fraktion
+- TOP 10.2: Autohof Elsdorf hier: Anfrage der CDU-Fraktion
+- TOP 10.3: Autobahnauffahrt Kreuz Kerpen hier: Anfrage der CDU-Fraktion
+- TOP 10.4: Hahnenpassage - Sachstandsbericht hier: Anfrage der BBK/Piraten-Fraktion
+- TOP 10.5: Fahrradabstellanlage am S-Bahnhof im Stadtteil Buir hier: Anfrage der CDU-Fraktion
+- TOP 10.6: Bau- und Gewerbeflächenentwicklung im Stadtteil Buir hier: Anfrage der CDU-Fraktion
+- TOP 10.7: Neue Radwege entlang der K17 hier: Anfrage der CDU-Fraktion
+- TOP 10.8: Sachstand Querungshilfen für Fußgänger und Fahrradfahrer insbesondere an klassifizierten Straßen hier: Anfrage der SPD-Fraktion - (kein Text vorhanden)
+- TOP 10.9: Situation Thaliastraße im Stadtteil Sindorf
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
