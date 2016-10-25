@@ -1,0 +1,53 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-10-25T16:00:00+02:00
+- Ende: 2016-10-25T17:55:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11406
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11406
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00277535.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00277535.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00277535.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern * entfällt - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Grand Départ 2017 - zur Kenntnis genommen
+- TOP 4.2: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmidt-Straße 2, im 1.Halbjahr 2017 - einstimmig beschlossen
+- TOP 4.3: Trödelmärkte in Garath Zentrum Ost im 1. Halbjahr 2017 - einstimmig beschlossen
+- TOP 4.4: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 1. Halbjahr 2017 - einstimmig beschlossen
+- TOP 4.5: Martinszug 2016 in Garath - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung10 - mehrheitlich beschlossen
+- TOP 4.7: Verfügungsmittel derr Bezirksvertretung 10 - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10 - mehrheitlich beschlossen
+- TOP 5: Anfragen
+- TOP 5.1: Brandstiftungen in Garath/Hellerhof - zur Kenntnis genommen
+- TOP 5.2: Grundstücke im Bezirk 10 Garath/Hellerhof - vertagt
+- TOP 5.3: Betretungsrecht im Garather Forst - vertagt
+- TOP 6: Anträge
+- TOP 6.1: Blaues Band; Entfernung Stolperstellen - einstimmig beschlossen
+- TOP 6.2: Änderung der Verwaltungsabläufe zum Haushaltsplan 2017 - einstimmig beschlossen
+- TOP 6.3: Einladung des Leiters des Sportamtes Düsseldorf - einstimmig beschlossen
+- TOP 6.4: Anbringung eines Spiegels Ecke Clausthal-Zellerfelder-Straße/Bad Harzburger Straße - einstimmig beschlossen
+- TOP 6.5: Fußgängerübergang an der Carlo-Schmidt-Straße EKZ Hellerhof - mehrheitlich beschlossen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Hygienemaßnahmen auf Sandspielplätzen - zur Kenntnis genommen
+- TOP 7.2: Überdachung von Bushaltestellen im Stadtbezirk - zur Kenntnis genommen
+- TOP 7.3: Renaturierung Garather Mühlenbach - zur Kenntnis genommen
+- TOP 7.4: Reinigung von Gullys in Garath Süd-West - zur Kenntnis genommen
+- TOP 7.5: Betretungsrecht im Garather Forst - zur Kenntnis genommen
+- TOP 7.6: Baurechtliche oder anderweitige Ausweisung des Grundstücks gelegen südwestlich von der Straße „Am Ka - zur Kenntnis genommen
+- TOP 7.7: Grundwasserstand und Grundwassermessstelle Hellerhof - zur Kenntnis genommen
+- TOP 7.8: Änderung des Grünordnungsplanes Rostocker Straße / Neustrelitzer Straße - zur Kenntnis genommen
+- TOP 7.9: Bau eines umrandeten Kunstrasenkleinspielfeldes auf dem Gelände der Bezirkssportanlage des Garather - zur Kenntnis genommen
+- TOP 7.10: Überprüfung der Feuerwehrzufahrten im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 7.11: Brandstiftungen in Garath/Hellerhof - zur Kenntnis genommen
+- TOP 8: Verschiedenes
