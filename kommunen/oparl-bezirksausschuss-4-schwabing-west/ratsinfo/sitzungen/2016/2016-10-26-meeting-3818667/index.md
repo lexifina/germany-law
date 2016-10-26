@@ -1,0 +1,56 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-10-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818667
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818667
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .2.: Haus für Kinder in der Lissi-Kaeser-Straße
+- TOP .3.: Verkürzung der Annahmefrist für Kita-Anmeldungen auf 10 Tage
+- TOP .1.: Versetzen einer beleuchteten City-Light-Säule für wechselnde Produktwerbung vom Petuelring in die Schleißheimer Straße
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Aufstellung eines Zeitungsentnahmegeräts für die Gratis-Stadtzeitung ?Concrete? am Hohenzollernplatz ? Bitte der Bezirksinspektion um nochmalige Behandlung, da der ablehnende BA-Beschluss vom 28.09.2016 nicht umgesetzt werden kann
+- TOP .2.2.: Kultur
+- TOP .2.: BA-Gemeinschaftsprojekt Oper ?Zaide?
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Bürger: Aktueller Sachstand beim geplanten Abriss des Wohngebäudes Kraepelinstr. 4-4b
+- TOP .2.1.: Planen
+- TOP .1.: Tektur Barlachstr. 6: Neubau eines Wohngebäudes (24 WE) mit Sparkassenfiliale und Tiefgarage (Barlachstr. 6 / Belgradstr. 162)
+- TOP .2.: Georgenstr. 132: Abbruch von Garagen, Ersatzbau durch Carportanlage mit Müll- und Fahrradunterstand
+- TOP .3.: Friedrichstr. 19: Neubau eines Wohnhauses mit Tiefgarage und eines Stadthauses
+- TOP .4.: Friedrichstr. 19: Errichtung eines temporären Kranturms für eine Vodafone-Antennenanlage
+- TOP .5.: Tektur Herzogstr. 48: DG-Ausbau mit 2 Wohneinheiten, Fassadensanierung mit Fenstern und Balkonen
+- TOP .6.: Tektur Elisabethstr. 47-49: Elisabethstr. 47, Aufstockung um ein Vollgeschoss, Elisabethstr. 49, Aufstockung um ein Vollgeschoss und hofseitiger Balkonanbau (1. bis 6. OG), Zentnerstr. 39-41, Aufstockung um ein Vollgeschoss und Änderung der Dachform (Flach- zu Satteldach) mit DG-Ausbau (8 WE)
+- TOP .7.: Hohenzollernstr. 84: Umbau im EG-Bereich mit Nutzungsänderung: Café zu REWE to GO-Markt
+- TOP .8.: Tektur Franz-Joseph-Str. 38: Erweiterung einer Büroeinheit ins DG mit Wohnnutzung, DG-Ausbau und -Sanierung (2 WE zusätzlich), Errichtung eines Balkons mit Fluchtleiter und -treppe aus dem EG ins Freie, Erneuerung der Aufzugsanlage im Treppenauge
+- TOP .9.: Hiltenspergerstr. 47: Rückbau der Wintergärten
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürgerin: Begrünung der Fläche vor dem Café in der Schleißheimer Str. 187 a
+- TOP .2.: Bürger: Verkehrssituation in der Kaiserstraße
+- TOP .3.: Bürger: Geschwindigkeitskontrollen, Zebrastreifen und Einschränkung des Lieferverkehrs in der Angererstraße
+- TOP .4.: Bürgerin: Rückkehr zur früheren Aufteilung der Fahrspuren an der Kreuzung Schleißheimer Straße / Hohenzollernstraße stadtauswärts
+- TOP .5.: Bürger: Beschwerde Studiomuc Schwere-Reiter-Straße
+- TOP .2.1.: Umwelt
+- TOP .1.: Schleißheimer Str. 276: Fällung einer Kiefer und eines Silberahorn
+- TOP .2.2.: Verkehr
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Umbesetzung in den Unterausschüssen
+- TOP .3.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 1 Abschnitt Referat für Bildung und Sport: ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP .4.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017: Weitere Vorschläge aus dem BA?
+- TOP .1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Einrichtung Musisches Zentrum Anschaffung einer Küche, eines Tisches und eines Hockers
+- TOP .1.: (E) Budget der Bezirksausschüsse Chorgemeinschaft Ackermannbogen Konzert am 20.11.2016
+- TOP .1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing-West Widmung der Gesamtstrecke des Mildred-Scheel-Bogens
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
