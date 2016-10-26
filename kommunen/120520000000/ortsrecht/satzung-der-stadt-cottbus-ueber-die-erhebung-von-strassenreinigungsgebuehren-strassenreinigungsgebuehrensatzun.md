@@ -1,163 +1,111 @@
 # Satzung der Stadt Cottbus über die Erhebung von Straßenreinigungsgebühren (Straßenreinigungsgebührensatzung)
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
-- Datum: 2015-11-25 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/Strassenreinigungs_Gebsatz2016-2.pdf
+- Datum: 2016-10-26 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://cottbus.de/satzungen/7_Strassenreinigungsgebsatz_2017-2.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Anlage 1
-
 Satzung der Stadt Cottbus über die Erhebung von Straßenreinigungsgebühren (Straßenreinigungsgebührensatzung)
-
 Präambel
-
-Aufgrund der §§ 3, 12 und § 28 Absatz 2 Nr. 9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung und zur Einführung der Direktwahl der Landräte sowie zur Änderung sonstiger kommunalrechtlicher Vorschriften (KommRRefG) vom 18. Dezember 2007 (GVBl. I S. 286) in der jeweils geltenden Fassung, der §§ 1, 2, 4 und 6 des Kommunalabgabengesetzes für das Land Brandenburg (KAG) in der Fassung der Bekanntmachung vom 31. März 2004 (GVBl. I S. 174) in der jeweils geltenden Fassung, des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) in der jeweils geltenden Fassung, sowie des § 49a des Brandenburgischen Straßengesetzes (BbgStrG), in der Fassung der Bekanntmachung vom 28. Juli 2009 (GVBl. I Nr. 15) zuletzt geändert durch Gesetz vom 18. Oktober 2011 (GVBl .I Nr. 24), und der Satzung der Stadt Cottbus über die Straßenreinigung (Straßenreinigungssatzung) vom 26.11.2008 in der Fassung der 8. Änderungssatzung vom 25.11.2015 hat die Stadtverordnetenversammlung in ihrer Tagung am 25.11.2015 die folgende Satzung der Stadt Cottbus über die Erhebung von Straßenreinigungsgebühren (Straßenreinigungsgebührensatzung) beschlossen.
-
+Aufgrund der §§ 3, 12 und § 28 Absatz 2 Nr. 9 des Artikel 1 (Kommunalverfassung des Landes Brandenburg) des Gesetzes zur Reform der Kommunalverfassung und zur Einführung der Direktwahl der Landräte sowie zur Änderung sonstiger kommunalrechtlicher Vorschriften (KommRRefG) vom 18. Dezember 2007 (GVBl. I S. 286) in der jeweils geltenden Fassung, der §§ 1, 2, 4 und 6 des Kommunalabgabengesetzes für das Land Brandenburg (KAG) in der Fassung der Bekanntmachung vom 31. März 2004 (GVBl. I S. 174) in der jeweils geltenden Fassung, des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) in der jeweils geltenden Fassung, sowie des § 49a des Brandenburgischen Straßengesetzes (BbgStrG), in der Fassung der Bekanntmachung vom 28. Juli 2009 (GVBl. I Nr. 15) zuletzt geändert durch Gesetz vom 04. Juli 2014 (GVBl .I Nr. 27), und der Satzung der Stadt Cottbus über die Straßenreinigung (Straßenreinigungssatzung) vom 26.10.2016 hat die Stadtverordnetenversammlung in ihrer Tagung am 26.10.2016 die folgende Satzung der Stadt Cottbus über die Erhebung von Straßenreinigungsgebühren (Straßenreinigungsgebührensatzung) beschlossen.
 §1 Benutzungsgebühren
-
 Die Stadt Cottbus erhebt für die von ihr durchgeführte Reinigung der öffentlichen Straßen Benutzungsgebühren nach den folgenden Vorschriften. Den Kostenanteil der auf das allgemeine öffentliche Interesse an der Straßenreinigung sowie auf die Reinigung der Straßen oder Straßenteile entfällt, für die eine Gebührenpflicht nicht besteht, trägt die Stadt.
-
 §2 Gebührenmaßstab
-
-(1)Maßstab für die Benutzungsgebühren sind die Quadratwurzel aus der Fläche der Grundstücke, die durch die zu reinigende Straße erschlossen sind, und der sich im Verzeichnis der Anlage zur 8. Änderung der Straßenreinigungssatzung vom 25.11.2015 nach Reinigungsklassen zu ermittelnde Gebührensatz.
-
+(1)Maßstab für die Benutzungsgebühren sind die Quadratwurzel aus der Fläche der Grundstücke, die durch die zu reinigende Straße erschlossen sind, und der sich im Verzeichnis der Anlage zur Straßenreinigungssatzung vom 26.10.2016 nach Reinigungsklassen zu ermittelnde Gebührensatz.
 (2)Nicht zur anrechnungsfähigen Grundstücksfläche gehören landwirtschaftliche Nutzfläche Grünland, landwirtschaftliche Nutzfläche Ackerland und Wald, sofern nicht innerhalb der Ortslage eine sinnvolle wirtschaftliche Grundstücksnutzung ermöglicht wird.
-
 (3)Wird ein Grundstück von mehreren an die Straßenreinigung angeschlossenen Straßen erschlossen, so sind von jeder der erschließenden Straße entsprechend Absatz 1 und 2 die in Betracht kommenden Grundstücksflächen zu ermitteln. Es werden die Grundstücksseiten an den Straßen zu Grunde gelegt, durch die eine wirtschaftliche Nutzung des Grundstücks möglich ist.
-
-§3 Gebührensatz
-
-(1) Der Gebührensatz für das Kalenderjahr 2016, beträgt nach Reinigungsklassen (Rk) für
-
-Rk 12 =
-
-Die Stadt betreibt die Reinigung der Fb der Anliegerstraße
-
-€
-
-2,57
-
-1
-
-Rk 14 = Rk 15 = Rk 17 = Rk 22 = Rk 25 = Rk 27 = Rk 32 = Rk 34 = Rk 35 = Rk 37 = Rk 42 = Rk 43 = Rk 49 = Rk 50 =
 
 Anlage 1
 
-1x wöchentlich sowie den Winterdienst der Fb
+§3 Gebührensatz
 
-Die Stadt betreibt die Reinigung der Fb der Anliegerstraße, €
+(1) Der Gebührensatz für das Kalenderjahr 2017, beträgt nach Reinigungsklassen (Rk) für
 
-5,17
+Rk 12 =
 
-der angrenzenden Geh/Radwege 1x wöchentlich sowie
+Die Stadt betreibt die Reinigung der Fb 1x wöchentlich sowie
+
+€
+
+1,74
 
 den Winterdienst der Fb
 
-Die Stadt betreibt die Reinigung der Fb der Anliegerstraße, €
+Rk 14 =
 
-7,37
-
-der angrenzenden Geh/Radwege 1x wöchentlich sowie den
-
-Winterdienst der Fb und der Geh/Radwege
-
-Die Stadt betreibt die Reinigung der Fb der Anliegerstraße
+Die Stadt betreibt die Reinigung der Fb, der angrenzenden
 
 €
 
-4,77
+3,74
 
-1x wöchentlich sowie den Winterdienst der Fb und der
+Geh/Radwege 1x wöchentlich sowie den Winterdienst der Fb
 
-Geh/Radwege
+Rk 15 =
 
-Die Stadt betreibt die Reinigung der Fb der Sammelstraße
-
-€
-
-2,57
-
-1x wöchentlich sowie den Winterdienst der Fb
-
-Die Stadt betreibt die Reinigung der Fb der Sammelstraße, €
-
-7,37
-
-der angrenzenden Geh/Radwege 1x wöchentlich sowie den
-
-Winterdienst der Fb und der Geh/Radwege
-
-Die Stadt betreibt die Reinigung der Fb der Sammelstraße
+Die Stadt betreibt die Reinigung der Fb, der angrenzenden
 
 €
 
-4,77
+4,72
 
-1x wöchentlich sowie den Winterdienst der Fb und Geh/Radwege
+Geh/Radwege 1x wöchentlich sowie den Winterdienst der Fb
 
-Die Stadt betreibt die Reinigung der Fb der Hauptverkehrs-€
+und der Geh/Radwege
 
-2,57
+Rk 17 =
 
-straße 1x wöchentlich sowie den Winterdienst der Fb
+Die Stadt betreibt die Reinigung der Fb 1x wöchentlich sowie
 
-Die Stadt betreibt die Reinigung der Fb der Hauptverkehrs-€
+€
 
-5,17
-
-straße, der angrenzenden Geh/Radwege 1x wöchentlich sowie
-
-den Winterdienst der Fb
-
-Die Stadt betreibt die Reinigung der Fb der Hauptverkehrs-€
-
-7,37
-
-straße, der angrenzenden Geh/Radwege 1x wöchentlich sowie
+2,72
 
 den Winterdienst der Fb und der Geh/Radwege
 
-Die Stadt betreibt die Reinigung der Fb der Hauptverkehrs-€
+Rk 42 =
 
-4,77
-
-straße 1x wöchentlich sowie den Winterdienst der Fb und der
-
-Geh/Radwege
-
-Die Stadt betreibt die Reinigung der Geh/Radwege
+Die Stadt betreibt die Reinigung der Geh/Radwege 1x wöchentlich sowie den Winterdienst der Geh/Radwege
 
 €
 
-4,80
+2,98
 
-1x wöchentlich sowie den Winterdienst der Geh/Radwege
+Rk 43 =
 
-Die Stadt betreibt die Reinigung der Geh/Radwege
+Die Stadt betreibt die Reinigung der Geh/Radwege 2x wöchentlich sowie den Winterdienst der Geh/Radwege
 
 €
 
-7,40
+4,98
 
-2x wöchentlich sowie den Winterdienst der Geh/Radwege
+Rk 49 =
 
 Die Stadt betreibt die Reinigung der Fußgängerzone 1x wöchentlich sowie den Winterdienst der Geh/Radwege
 
 €
 
-26,20
+17,88
+
+Rk 50 =
 
 Die Stadt betreibt die Reinigung der Fußgängerzone 2x wöchentlich sowie den Winterdienst der Geh/Radwege
-2
 
 €
 
-50,20
+34,78
 
-Anlage 1
+Rk 51 =
+
+Die Stadt betreibt die Reinigung der Fußgängerzone 3x wöchentlich sowie den Winterdienst der Geh/Radwege
+
+€
+
+51,68
 
 Rk 60 =
 
@@ -165,7 +113,7 @@ Die Stadt betreibt den Winterdienst der Fahrbahn
 
 €
 
-1,03
+0,54
 
 Rk 70 =
 
@@ -175,11 +123,13 @@ Die Stadt betreibt den Winterdienst der Geh/Radwege
 
 €
 
-2,20
+0,98
 
 §4 Gebührenpflichtige, Anzeige- und Auskunftspflicht
 
 (1)Gebührenpflichtig ist der Eigentümer des erschlossenen Grundstücks, das an die Straßenreinigung angeschlossen ist. Besteht für das Grundstück ein Erbbaurecht oder ein Nutzungsrecht für die in § 9 des Sachenrechtsbereinigungsgesetzes genannten natürlichen oder juristischen Personen des privaten und des öffentlichen Rechts, so tritt an die Stelle des Grundstückseigentümers der Erbbauberechtigte oder Nutzungsberechtigte. Bei ungeklärten Eigentumsverhältnissen nimmt derjenige die Pflichten des Eigentümers wahr, der die tatsächliche Sachherrschaft über das Grundstück ausübt.
+
+Anlage 1
 
 (2)Mehrere Gebührenpflichtige haften als Gesamtschuldner.
 
@@ -193,26 +143,41 @@ Die Stadt betreibt den Winterdienst der Geh/Radwege
 
 (2)Ändern sich die Grundlagen für die Berechnung der Gebühr, so mindert oder erhöht sich die Benutzungsgebühr vom 1. des Monats an, der der Änderung folgt.
 
-(3)Es besteht kein Anspruch auf Gebührenminderung
+(3)Es besteht kein Anspruch auf Gebührenminderung a) bei Ausfall oder Einschränkung der satzungsmäßigen Reinigung an Wochenfeiertagen, b) bei Ausfall der satzungsmäßigen Reinigung durch unvorhersehbare Betriebsstörungen, durch Witterungseinflüsse, durch Straßenbauarbeiten oder durch andere zwingende Gründe bis zu einem zusammenhängenden Monat,
 
-a) bei Ausfall oder Einschränkung der satzungsmäßigen Reinigung an Wochenfeiertagen,
+oder auf Gebührenerhöhung c) durch Schwerpunktbildung zur Beseitigung von Laub.
 
-b) bei Ausfall der satzungsmäßigen Reinigung durch unvorhersehbare Betriebsstörungen, durch Witterungseinflüsse, durch Straßenbauarbeiten oder durch andere zwingende Gründe bis zu einem zusammenhängenden Monat, oder auf Gebührenerhöhung
-c) durch Schwerpunktbildung zur Beseitigung von Laub.
-3
+Die Gebührenerstattung erfolgt für den Zeitraum, der die in b) genannte Zeit überschreitet. Dabei werden angefangene Monate als volle Monate gerechnet.
+
+(4)Die Gebührenschuldner erhalten über die zu entrichtende Gebühr einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann. Bei Wohnungseigentümern kann die Gebühr für die Wohnungseigentümergemeinschaft festgesetzt werden. Bei Wohnungseigentümern wird die Gebühr einheitlich für das Gesamtgrundstück festgesetzt und in einem Bescheid dem Verwalter zugestellt.
+
+(5)Die Straßenreinigungsgebühren nach § 3 für ein Kalenderjahr werden am 15.02., 15.05., 15.08. und 15.11. zu je gleichen Teilbeträgen fällig. Sie können auf Antrag auch in einem Jahresbetrag bis zum 01.07. des laufenden Kalenderjahres entrichtet werden.
+
+§6 Ordnungswidrigkeiten
+
+(1)
+
+Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 Anlage 1
-Die Gebührenerstattung erfolgt für den Zeitraum, der die in b) genannte Zeit überschreitet. Dabei werden angefangene Monate als volle Monate gerechnet.
-(4)Die Gebührenschuldner erhalten über die zu entrichtende Gebühr einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann. Bei Wohnungseigentümern kann die Gebühr für die Wohnungseigentümergemeinschaft festgesetzt werden. Bei Wohnungseigentümern wird die Gebühr einheitlich für das Gesamtgrundstück festgesetzt und in einem Bescheid dem Verwalter zugestellt.
-(5)Die Straßenreinigungsgebühren nach § 3 für ein Kalenderjahr werden am 15.02., 15.05., 15.08. und 15.11. zu je gleichen Teilbeträgen fällig. Sie können auf Antrag auch in einem Jahresbetrag bis zum 01.07. des laufenden Kalenderjahres entrichtet werden.
-§6 Ordnungswidrigkeiten
-(1)Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
 1. entgegen § 4 Abs. 3, den Wechsel des Gebührenpflichtigen der Stadt nicht anzeigt und entsprechend nachweist;
+
 2. entgegen § 4 Abs. 4, die verlangten Auskünfte und Mitteilungen nicht, nicht vollständig oder unrichtig erteilt.
-(2)Für das Verfahren gelten die Vorschriften des Gesetzes über die Ordnungswidrigkeiten (OWiG) in der jeweils gültigen Fassung. Zuständige Behörde im Sinne § 36 Absatz 1 Nr. 1 OWiG ist der Oberbürgermeister.
-(3)Ordnungswidrigkeiten können mit einer Geldbuße in Höhe von 5 € bis 1000 € geahndet werden.
+
+(2)
+
+Für das Verfahren gelten die Vorschriften des Gesetzes über die Ordnungswidrigkeiten
+
+(OWiG) in der jeweils gültigen Fassung. Zuständige Behörde im Sinne § 36 Absatz 1 Nr. 1
+
+OWiG ist der Oberbürgermeister.
+
+(3) Ordnungswidrigkeiten können mit einer Geldbuße in Höhe von 5 € bis 1000 € geahndet werden.
+
 §7 Inkrafttreten
-Diese Satzung der Stadt Cottbus über die Erhebung von Straßenreinigungsgebühren (Straßenreinigungsgebührensatzung) vom 25.11.2015 tritt am 01.01.2016 in Kraft.
-Cottbus, 26.11.2015
+
+Diese Satzung der Stadt Cottbus über die Erhebung von Straßenreinigungsgebühren (Straßenreinigungsgebührensatzung) vom 26.10.2016 tritt am 01.01.2017 in Kraft.
+
+Cottbus, 28.10.2016
 gez. Holger Kelch Oberbürgermeister der Stadt Cottbus
-4
