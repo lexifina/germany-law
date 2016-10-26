@@ -1,0 +1,64 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2016-10-26T17:00:00+02:00
+- Ende: 2016-10-26T19:10:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3393
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3393
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 14.09.2016 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Einbringung des Haushaltsplanentwurfs 2017 mit Anlagen - ungeändert beschlossen
+- TOP 5: Vorhabenbezogener Bebauungsplan Nr. 958 - Zollamtstraße - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Burtscheider Straße und Zollamtstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 6: Wirtschaftsplan 2017 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 7: Wirtschaftsplan der Volkshochschule Aachen 2017 - ungeändert beschlossen
+- TOP 8: Chorbiennale 2017Antrag der GRÜNE Fraktion im Rat der Stadt Aachen zur Tagesordnung für die Sitzung des Betriebsausschusses Theater / VHS am 22. September 2016 - zurückgezogen
+- TOP 9: Jahresabschluss 2015 Eurogress Aachen (Anlage) - ungeändert beschlossen
+- TOP 10: Satzungsänderungen der "Stiftungen": Ludwig Mies van der Rohe, Salvatorkirche sowie Musik, Wissenschaft und Kunst - ungeändert beschlossen
+- TOP 11: 13. Nachtrag der Gebührenordnung für die Inanspruchnahme des Rettungsdienstes der Stadt Aachen - ungeändert beschlossen
+- TOP 12: Einrichtung eines Härtefallfonds zur Vermeidung von Energiesperren - Ratsantrag der Fraktion DIE LINKE Nr. 195/17 vom 06.09.2016 - ungeändert beschlossen
+- TOP 13: Besetzung von Schulleitungsstellen - Änderung der Hauptsatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 14: Schülerspezialverkehr Barbarstraße - BrühlstraßeHier: Antrag der Fraktion "DIE LINKE" vom 07.06.2016 - zurückgezogen
+- TOP 15: Gründung des Vereins "Metropolregion Rheinland e.V."hier: Mitgliedschaft der Stadt Aachen - vertagt
+- TOP 16: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 16.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen2. Bericht über die Fallzahlen- und Kostenentwicklung im Bereich der Hilfen zur Erziehung und Maßnahmen nach § 35 a SGB VIII für das Haushaltsjahr 2016 für den Zeitraum vom 01.01.2016 bis zum 24.08.2016 - ungeändert beschlossen
+- TOP 16.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen und Verpflichtungsermächtigungen Haushaltsjahr 2016Erschließungsgebiet Rombachstraße / Vennbahnweg - Ausführungsbeschluss - ungeändert beschlossen
+- TOP 17: Annahme einer Spende für die Neugestaltung der Außenanlagen an der KGS Höfchensweg - ungeändert beschlossen
+- TOP 18: Benennung von Ratsmitgliedern zur Teilnahme an der 11. Konferenz der Ratsmitglieder beim Städtetag NRW am 14.12.2016 in Köln - ungeändert beschlossen
+- TOP 19: Beitritt der Stadt Aachen als Gründungsmitglied zur d-NRW AöR - geändert beschlossen
+- TOP 19.1: Beitritt der Stadt Aachen als Gründungsmitglied zur d-NRW AöR - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Umbesetzungen in Ausschüssen und anderen Gremien:
+- TOP 21.1: Gremienbesetzung des Sparkassenzweckverbandes - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung
+- TOP 23: Ratsanträge - ungeändert beschlossen
+- TOP 24: Vergrößerung der Fläche des Naturparks Eifel auf dem Gebiet der Stadt Aachen - ungeändert beschlossen
+- TOP 25: Projektaufruf zum Landesprogramm Zuweisungen für Investitionen an Gemeinden zur Förderung von Quartieren mit besonderem Entwicklungsbedarf - geändert beschlossen
+- TOP 25.1: Projektaufruf zum Landesprogramm Zuweisungen für Investitionen an Gemeinden zur Förderung von Quartieren mit besonderem Entwicklungsbedarfhier: Ergänzung des Antrages Zuschuss für Umbaumaßnahmen im Spielhaus des Abenteuerspielplatzes Zum Kirschbäumchen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
