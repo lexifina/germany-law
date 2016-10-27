@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-10-27T17:00:00+02:00
+- Ende: 2016-10-27T18:13:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11584
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11584
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00277898.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00277898.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00277898.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Gartendenkmalpflegerische Maßnahmen im Schlosspark Eller - einstimmig beschlossen
+- TOP 5: Bebauungsplan-Vorentwurf Nr. 08/007 - Breidenplatz - - einstimmig beschlossen
+- TOP 6: Information über den Grand Départ 2017 - zur Kenntnis genommen
+- TOP 7: Sportanlage Vennhauser Allee 256a (FC Tannenhof) - einstimmig beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 10: Grundstücke im Stadtbezirk 8 - beantwortet
+- TOP 11: Unterführung Vennhauser Allee - beantwortet
+- TOP 12: Gewerbegebiete in Lierenfeld - beantwortet
+- TOP 13: Kulturbahnhof Eller - beantwortet
+- TOP 14: Masterplan Schulen - beantwortet
+- TOP 15: Ortsumgehung Flingern - beantwortet
+- TOP 16: Barrierefreie Bushaltestellen im Stadtdtbezirk 8 - beantwortet
+- TOP 17: Grundstück Ronsdorfer Straße / Höherweg - beantwortet
+- TOP 18: Nebengebäude Schloss Eller - beantwortet
+- TOP 19: Fahrbahninstandsetzungen im Stadtbezirk 8 - beantwortet
+- TOP 20: Radverkehrsförderung im Stadtbezirk 8 - beantwortet
+- TOP 21: Verkehrsregelung Wittenbruchstraße - einstimmig beschlossen
+- TOP 22: Bürgersteig Kamper Weg / Neusalzer Weg - einstimmig beschlossen
+- TOP 23: Parkregelung Neusalzer Weg - einstimmig beschlossen
+- TOP 24: Verkehrsregelung Gubener Straße - verwiesen
+- TOP 25: Bordsteinabsenkung Arnstadter Weg / Meininger Weg - einstimmig beschlossen
+- TOP 26: Spielplatz Kamper Weg 243a - einstimmig beschlossen
+- TOP 27: Schaltkästen vor dem Rathaus Eller - einstimmig beschlossen
+- TOP 28: Reinigung am Taubenschlag Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 29: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 30: Fahrradluftpumpe auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 31: Grundstück Königsberger Straße 91 - zur Kenntnis genommen
+- TOP 32: Gehwegparken Memeler Straße - zur Kenntnis genommen
+- TOP 33: Fuß- / Radweg Neusalzer Weg - zur Kenntnis genommen
+- TOP 34: Schlossgrabenweiher Schloss Eller - zur Kenntnis genommen
+- TOP 35: Öffentliches WLAN im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Verlängerung der Buslinie 736 - zur Kenntnis genommen
+- TOP 37: Masterplan Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Toilettensanierung GGS Vennhauser Allee 160-162 - zur Kenntnis genommen
+- TOP 39: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Ortsumgehung Flingern - zur Kenntnis genommen
