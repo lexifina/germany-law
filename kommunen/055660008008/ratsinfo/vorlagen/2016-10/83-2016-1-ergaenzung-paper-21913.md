@@ -1,0 +1,26 @@
+# Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) zum 01.08.2016
+
+- Körperschaft: Stadt Emsdetten
+- Drucksache/Vorlage: 83/2016 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2016-10-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXFx42bLZByrHxI8diwBAb0
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/21913
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) zum 01.08.2016) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXH_WhXcKdiGOwjVgj8xwnW-RyQn8qVqOXU5FlGd_vQU/Beschlussvorlage_83-2016_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Elternbeitragstabelle) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXFL9zFsyWbSlokHQ9SVKRXlnhinUzLeR8fr2-qcLoD7/Elternbeitragstabelle.pdf
+- Anlage: Beschlussvorlage (Anlage 2 Elternbeiträge) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdPjDg8hW3gHrfcg90oi6L920bKT8FTtXZJXM-Xy8ryR/Anlage_2_Elternbeitraege.pdf
+- Anlage: Beschlussvorlage (Anlage 3 Elternbeiträge) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcVFvKGqHn4_xTe8MOhG1_SVYxI-KbMbQIRr_bq8oK9Z/Anlage_3_Elternbeitraege.pdf
+- Anlage: Beschlussvorlage (Anlage 5 Antrag der CDU-Fraktion) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYhXa3Y1nVotcD6Sq7U_zn85dXXbfw7Pjx8jI8wgfoyO/Anlage_5_Antrag_der_CDU-Fraktion.pdf
+- Anlage: Beschlussvorlage (Anlage 6 Antrag Die Linke) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZewOuX6GqNOL0Y34gy8iGjar1SPKOS1STFRodwoRKoOf/Anlage_6_Antrag_Die_Linke.pdf
+- Anlage: Beschlussvorlage (Anlage 1 Satzung und Richtlinien) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ9BWbaVqqfgsSb64RQlJ1a1yxlVh1s8Yu_7uN2tFrLJ/Anlage_1_Satzung_und_Richtlinien.pdf
+- Anlage: Beschlussvorlage (Anlage 4 Elternbeiträge) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa82yaxhosFfFg34h-eoxTiHMdE9DHM7gbZDHYCgFMob/Anlage_4_Elternbeitraege.pdf
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13793 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-30
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13794 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13796 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13797 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13801 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-30
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13807 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13814 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13815 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- underDirectionOf: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-575
