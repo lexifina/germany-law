@@ -1,0 +1,91 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-10-31T17:00:00+01:00
+- Ende: 2016-10-31T20:45:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQRhkw6UGjM7PugCDnHr93c
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6488
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRnMIBqGwHvyybR2nMaRHitecK14nvinO2RbOb8NsRsG/Bekanntmachung_Rat_31.10.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeo7xkFzdCp5SzUx4QLkRATJY-DUhf48gynHViGMidQf/Oeffentliche_Niederschrift_Rat_31.10.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Rathaus Steinweg
+- TOP 1.2: Bürgerbegehren Rathaus Steinweg
+- TOP 1.3: Rathaus Steinweg
+- TOP 1.4: Baugebiet Südfriedhof
+- TOP 2.: Niederschrift vom 12.09.2016
+- TOP 3.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2017 - (kein Text vorhanden)
+- TOP 4.: Wegen Verstoß gegen das Öffentlichkeitsgebot zu wiederholende Tagesordnungspunke aus der Ratssitzung vom 12.09.2016
+- TOP 4.1: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2015
+- TOP 4.2: außerplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich BSHG/SGB XII - (kein Text vorhanden)
+- TOP 4.3: Änderung der - Beitragssatzung Kindertagesbetreuung - Beitragssatzung OGS - (kein Text vorhanden)
+- TOP 4.4: Bebauungsplan 04.20 "Sondergebiet südlich Lise-Meitner-Straße" - Veränderungssperre gemäß § 14 - 18 BauGB - - (kein Text vorhanden)
+- TOP 4.5: Maßnahmen zur Darstellung und Hervorhebung internationaler Städtepartnerschaften und -freundschaften
+- TOP 4.5.1: Maßnahmen zur Darstellung und Hervorhebung internationaler Städtepartnerschaften und -freundschaften
+- TOP 4.5.2: Maßnahmen zur Darstellung und Hervorhebung internationaler Städtepartnerschaften und -freundschaften - (kein Text vorhanden)
+- TOP 4.6: Kultur- / Festivalprogramm 2017 - (kein Text vorhanden)
+- TOP 4.7: Bildung der Einigungsstelle nach § 67 LPVG NW (Landespersonalvertretungsgesetz Nordrhein-Westfalen) - (kein Text vorhanden)
+- TOP 4.8: Verfahren zur Bestellung der Schulleiterin/des Schulleiters gemäß § 61 Schulgesetz NRW hier: Verfahren ab 01.01.2016 - (kein Text vorhanden)
+- TOP 4.9: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahre 2015 hier: Schreiben der KSK vom 12.07.2016
+- TOP 4.10: Anträge
+- TOP 4.10.1: Übernahme der Förderschulen durch den Rhein-Erft-Kreis Bezug: Antrag der FDP-Fraktion vom 26.08.2016 - (kein Text vorhanden)
+- TOP 4.11: Umbesetzung in Ausschüssen
+- TOP 4.11.1: Umbesetzung im Schulausschuss hier: Vertreter des Max-Ernst-Gymnasiums - (kein Text vorhanden)
+- TOP 4.11.2: Umbesetzung im Sozialausschuss und Jugendhilfeausschuss Bezug: mündlicher Antrag der CDU-Fraktion in der Ratssitzung am 12.09.2016 - (kein Text vorhanden)
+- TOP 4.12: Anfragen
+- TOP 4.12.1: Belastung der Stadtkasse durch Eintreiben von Gebühren etc. im Auftrag Dritter Bezug: Anfrage der FDP-Fraktion vom 26.08.2016
+- TOP 4.12.2: Belastung der Stadtkasse durch Eintreiben von Gebühren etc. im Auftrag Dritter Bezug: Anfrage der FDP Fraktion vom 26.08.2016
+- TOP 4.13: Rathaus Steinweg
+- TOP 4.13.1: Rathaus Steinweg
+- TOP 4.13.2: Rathaus Steinweg Bezug: Änderungsantrag der Fraktion Linke&Piraten vom 09.09.2016
+- TOP 4.13.3: Projekt Rathausneubau Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 11.09.2016 - (kein Text vorhanden)
+- TOP 5.: Rathaus Steinweg und Neugestaltung Janshof
+- TOP 5.1: Wettbewerbsmanagement Rathausneubau und Janshof (Vorl.-Nr.:414/2016) Bezug: Änderungsantrag der FDP-Fraktion vom 19.10.2016
+- TOP 5.2: Wettbewerbsverfahren für die Projekte Rathausanbau Steinweg und Neugestaltung Janshof Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 11.09.2016 bezügl. „Procedere beim Projekt Rathausanbau – TOP 3 Rat am 12.09.2016“. - (kein Text vorhanden)
+- TOP 6.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2015 - (kein Text vorhanden)
+- TOP 7.: Offene Ganztagsschulen im Primarbereich hier: Qualitätskriterien und Trägerverträge Bezug: Ratsbeschluss vom 27.04.2015, Antrag SPD 163/2015, Antrag Schwarz 236/2016 - (kein Text vorhanden)
+- TOP 8.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 06.92, "Gallbergsiedlung" 2.Änderung - (kein Text vorhanden)
+- TOP 9.: Benennung Leopold-Bähr-Platz Bezug: Rat vom 17.12.90 Vorlage 387/80 r - (kein Text vorhanden)
+- TOP 10.: Kulturfördergesetz NRW: hier: Fördervereinbarung Land NRW mit der Stadt Brühl betreffend Förderung der Brühler Schlosskonzerte e.V.
+- TOP 11.: Einführung eines kommunalen Wahlrechts für alle auf Dauer in NRW lebenden Menschen mit nicht-deutscher Staatsangehörigkeit hier: Schreiben des Vorsitzenden der Verfassungskommission des Landtages NRW vom 8.9.2016 Bezug: IntRAT 5.5.2015, RAT 22.6.2016 - Vorlage-Nr. 166/2015
+- TOP 12.: Job-Ticket-Ausgabe im Jahr 2017 - (kein Text vorhanden)
+- TOP 13.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 13.1: Überplanmäßige Ausgabe Hier: Umsetzung der Sanierungsauflagen der Versicherung im Archiv - (kein Text vorhanden)
+- TOP 14.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 14.1: Dringlichkeitsentscheidung; Umbenennung eines Teils des Franziskanerhofes in Leamington-Platz - (kein Text vorhanden)
+- TOP 14.2: Dringlichkeitsentscheidung: Thüringer Platz - Sanierung der Fahrbahn - (kein Text vorhanden)
+- TOP 15.: Anträge
+- TOP 15.1: Umlage des Rhein-Erft-Kreises Bezug: Antrag der SPD-Fraktion vom 10.10.2016 - (kein Text vorhanden)
+- TOP 15.2: Bürgerbeteiligung vor Verabschiedung des neuen Parkraumkonzepts Bezug: Antrag der FDP-Fraktion vom 15.10.2016 - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Ausschüssen und Gremien
+- TOP 16.1: Kulturstiftung für die Stadt Brühl hier: Besetzung Stiftungsrat Bezug: KPTA 08.09.2016 - (kein Text vorhanden)
+- TOP 16.2: Umbesetzung im Schulausschuss hier: Vertreterin der Stadtschulpflegschaft - (kein Text vorhanden)
+- TOP 16.3: Neubestellung stimmberechtigter Mitglieder im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 16.4: Umbesetzung im Sportausschuss
+- TOP 16.5: Umbesetzung im Sportausschuss
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Transparent im Zuschauerraum
+- TOP 18.2: Verkehrsbehinderungen durch parkende Fahrzeuge anlässlich des Hubertusmarktes
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Bestellung eines stellvertretenden Leiters der Freiwillligen Feuerwehr - (kein Text vorhanden)
+- TOP 20.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk I (südlicher Stadtbezirk) - (kein Text vorhanden)
+- TOP 21.: Bericht über die 131. Sitzung des Aufsichtsrates der REVG mbH am 30.06.2016
+- TOP 22.: Offene Ganztagsschulen im Primarbereich
+- TOP 22.1: Qualität und Bezahlung nach Tarif in der Offenen Ganztagsschule (OGS) Bezug: Anfrage der SPD-Fraktion vom 09.10.2016
+- TOP 22.2: Qualität und Bezahlung nach Tarif in der Offenen Ganztagsschule (OGS) Bezug: Anfrage der SPD-Fraktion vom 09.10.2016, Vorlage Nr. 435/2016
+- TOP 22.3: Offene Ganztagsschulen im Primarbereich hier: Befragung der OGS-Träger und finanzielle Ausstattung Bezug: Ratsbeschluss vom 27.04.2015, Antrag SPD 163/2015, Vorlage-Nr. 389/2016 - (kein Text vorhanden)
+- TOP 22.4: Offene Ganztagsschulen im Primarbereich Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 28.10.2016 - (kein Text vorhanden)
+- TOP 23.: Mitteilungen
+- TOP 23.1: Sachstandsbericht Vorgänge Stadtwerke
+- TOP 24.: Anfragen
+- TOP 24.1: Sachstandsbericht Stadtwerke
+- TOP 24.2: Zustände Containersiedlung Brühl-Ost
+- TOP 24.3: Umgang mit vertraulichen Sitzungsangelegenheiten
