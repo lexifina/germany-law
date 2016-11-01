@@ -189,63 +189,65 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 123.22 | Anordnungen, Maßnahmen nach §§ 7, 8 Jugendschutzgesetz | 40 bis 173
 13 | Personenstandswesen | 
 13.1 | Eheschließung | 
-13.1.1 | Prüfung der Ehevoraussetzungen (§ 13 PStG), | 
-13.1.1.1 | wenn nur deutsches Recht zu beachten ist | 40
-13.1.1.2 | wenn auch ausländisches Recht zu beachten ist | 80
-13.1.2 | Erneute Prüfung der Ehevoraussetzungen (§ 29 Abs. 2 PStV), | 
-13.1.2.1 | wenn nur deutsches Recht zu beachten ist | 20
-13.1.2.2 | wenn auch ausländisches Recht zu beachten ist | 40
-13.1.3 | Vornahme der Eheschließung (§ 14 PStG) | 
-13.1.3.1 | vor einem anderen als dem für die Anmeldung der Eheschließung zuständigen Standesamt (§ 12 PStG) | 25
-13.1.3.2 | außerhalb der üblichen Öffnungszeiten des Standesamtes, ausgenommen bei Vorliegen einer lebensgefährlichen Erkrankung (§ 13 Abs. 3 PStG) | 80
-13.1.3.3 | im Übrigen | gebührenfrei
+13.1.1 | Prüfung der Ehevoraussetzungen (§ 13 Personenstandsgesetz), | 
+13.1.1.1 | wenn nur deutsches Recht zu beachten ist | 44
+13.1.1.2 | wenn auch ausländisches Recht zu beachten ist | 88
+13.1.2 | erneute Prüfung der Ehevoraussetzungen (§ 29 Absatz 2 Personenstandsverordnung), | 
+13.1.2.1 | wenn nur deutsches Recht zu beachten ist | 22
+13.1.2.2 | wenn auch ausländisches Recht zu beachten ist | 44
+13.1.3 | Vornahme der Eheschließung (§ 14 Personenstandsgesetz) | 
+13.1.3.1 | vor einem anderen als dem für die Anmeldung der Eheschließung zuständigen Standesamt (§ 12 Personenstandsgesetz) | 28
+13.1.3.2 | außerhalb der üblichen Öffnungszeiten des Standesamtes, ausgenommen bei Vorliegen einer lebensgefährlichen Erkrankung (§ 13 Absatz 3 Personenstandsgesetz) | 88
+13.1.3.3 | an einem Außentraustandort | 91
+13.1.3.4 | im Übrigen | gebührenfrei
 13.2 | Ehefähigkeitszeugnis | 
-13.2.1 | Ausstellung eines Ehefähigkeitszeugnisses (§ 39 PStG), | 
-13.2.1.1 | wenn nur deutsches Recht zu beachten ist | 40
-13.2.1.2 | wenn auch ausländisches Recht zu beachten ist | 80
+13.2.1 | Ausstellung eines Ehefähigkeitszeugnisses (§ 39 Personenstandsgesetz), | 
+13.2.1.1 | wenn nur deutsches Recht zu beachten ist | 44
+13.2.1.2 | wenn auch ausländisches Recht zu beachten ist | 88
 13.2.1.3 | wenn die Gebührenbefreiung im Rahmen zwischenstaatlicher Vereinbarungen vorgesehen ist | gebührenfrei
-13.2.2 | Beschaffung eines Ehefähigkeitszeugnisses für eine Ausländerin oder einen Ausländer | 40
+13.2.2 | Beschaffung eines Ehefähigkeitszeugnisses für eine Ausländerin oder einen Ausländer | 44
 13.3 | Begründung einer Lebenspartnerschaft | 
-13.3.1 | Prüfung der Voraussetzungen für die Begründung einer Lebenspartnerschaft (§ 17 in Verbindung mit § 13 PStG), | 
-13.3.1.1 | wenn nur deutsches Recht zu beachten ist | 40
-13.3.1.2 | wenn auch ausländisches Recht zu beachten ist | 80
-13.3.2 | Erneute Prüfung der Voraussetzungen für die Begründung einer Lebenspartnerschaft (§ 30 in Verbindung mit § 29 Abs. 2 PStV), | 
-13.3.2.1 | wenn nur deutsches Recht zu beachten ist | 20
-13.3.2.2 | wenn auch ausländisches Recht zu beachten ist | 40
+13.3.1 | Prüfung der Voraussetzungen für die Begründung einer Lebenspartnerschaft (§ 17 in Verbindung mit § 13 Personenstandsgesetz), | 
+13.3.1.1 | wenn nur deutsches Recht zu beachten ist | 44
+13.3.1.2 | wenn auch ausländisches Recht zu beachten ist | 88
+13.3.2 | Erneute Prüfung der Voraussetzungen für die Begründung einer Lebenspartnerschaft (§ 30 in Verbindung mit § 29 Absatz 2 Personenstandsverordnung), | 
+13.3.2.1 | wenn nur deutsches Recht zu beachten ist | 22
+13.3.2.2 | wenn auch ausländisches Recht zu beachten ist | 44
 13.3.3 | Mitwirkung an der Begründung einer Lebenspartnerschaft | 
-13.3.3.1 | vor einem anderen als dem für die Anmeldung der Begründung einer Lebenspartnerschaft zuständigen Standesamt (§ 17 in Verbindung mit § 12 PStG) | 25
-13.3.3.2 | außerhalb der üblichen Öffnungszeiten des Standesamtes, ausgenommen bei Vorliegen einer lebensgefährlichen Erkrankung (§ 17 in Verbindung mit § 13 Abs. 3 PStG) | 80
-13.3.3.3 | im Übrigen | gebührenfrei
+13.3.3.1 | vor einem anderen als dem für die Anmeldung der Begründung einer Lebenspartnerschaft zuständigen Standesamt (§ 17 in Verbindung mit § 12 Personenstandsgesetz) | 28
+13.3.3.2 | außerhalb der üblichen Öffnungszeiten des Standesamtes, ausgenommen bei Vorliegen einer lebensgefährlichen Erkrankung (§ 17 in Verbindung mit § 13 Absatz 3 Personenstandsgesetz) | 88
+13.3.3.3 | an einem Außentraustandort | 91
+13.3.3.4 | im Übrigen | gebührenfrei
 13.4 | Beurkundungsgrundlagen, Beurkundungen, Beglaubigungen und Bescheinigungen | 
-13.4.1 | Abnahme einer Versicherung an Eides statt (§ 9 Abs. 2 Satz 2 PStG) | 25
+13.4.1 | Abnahme einer Versicherung an Eides statt (§ 9 Absatz 2 Satz 2, § 13 Absatz 2 Personenstandsgesetz, § 2 Absatz 2 Personenstandsverordnung) | 28
 13.4.2 | Beurkundung | 
-13.4.2.1 | einer im Ausland geschlossenen Ehe (§ 34 Abs. 1 PStG) | 65
-13.4.2.2 | einer vor einer ermächtigten Person im Inland geschlossenen Ehe zwischen Ausländern (§ 34 Abs. 2 PStG) | 65
-13.4.2.3 | einer im Ausland begründeten Lebenspartnerschaft (§ 35 Abs. 1 PStG) | 65
-13.4.2.4 | einer Geburt im Ausland (§ 36 Abs. 1 PStG) | 50
-13.4.2.5 | eines Sterbefalls im Ausland (§ 36 Abs. 1 PStG) | 30
+13.4.2.1 | einer im Ausland geschlossenen Ehe (§ 34 Absatz 1 Personenstandsgesetz) | 72
+13.4.2.2 | einer vor einer ermächtigten Person im Inland geschlossenen Ehe zwischen Ausländern (§ 34 Absatz 2 Personenstandsgesetz) | 72
+13.4.2.3 | einer im Ausland begründeten Lebenspartnerschaft (§ 35 Absatz 1 Personenstandsgesetz) | 72
+13.4.2.4 | einer Geburt im Ausland (§ 36 Absatz 1 Personenstandsgesetz) | 55
+13.4.2.5 | eines Sterbefalls im Ausland (§ 36 Absatz 1 Personenstandsgesetz) | 33
 13.4.3 | Beglaubigung oder Beurkundung einer Erklärung | 
-13.4.3.1 | zur Namensführung von Ehegatten (§ 41 Abs. 1 PStG) oder Lebenspartnern oder Lebenspartnerinnen (§ 42 Abs. 1 PStG) | 25
+13.4.3.1 | zur Namensführung von Ehegatten (§ 41 Absatz 1 Personenstandsgesetz) oder Lebenspartnern oder Lebenspartnerinnen (§ 42 Absatz 1 Personenstandsgesetz) | 28
 13.4.3.1.1 | zur Namensführung, wenn der in der Ehe oder Lebenspartnerschaft zu führende Name bei der Eheschließung oder Begründung der Lebenspartnerschaft bestimmt wird | gebührenfrei
-13.4.3.2 | zur Namensangleichung nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch (§ 43 Abs. 1 PStG) | 30
-13.4.3.3 | zur Namensangleichung nach § 94 des Bundesvertriebenengesetzes (§ 43 Abs. 1 PStG) | gebührenfrei
-13.4.3.4 | zur Anerkennung der Vaterschaft oder Mutterschaft (§ 44 Abs. 1 und 2 PStG) | gebührenfrei
-13.4.3.5 | zur Namensführung des Kindes (§ 45 Abs. 1 PStG) | 25
+13.4.3.2 | zur Namensangleichung nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch (§ 43 Absatz 1 Personenstandsgesetz) | 33
+13.4.3.3 | zur Namensangleichung nach § 94 des Bundesvertriebenengesetzes (§ 43 Absatz 1 Personenstandsgesetz) | gebührenfrei
+13.4.3.4 | zur Anerkennung der Vaterschaft oder Mutterschaft (§ 44 Absatz 1 und 2 Personenstandsgesetz) | gebührenfrei
+13.4.3.5 | zur Namensführung des Kindes (§ 45 Absatz 1 Personenstandsgesetz) | 28
 13.4.3.5.1 | zur Namensführung, wenn der Geburtsname des Kindes bestimmt wird und das Kind dadurch erstmals einen Geburtsnamen erhält | gebührenfrei
-13.4.4 | Bescheinigungen über Erklärungen zur Namensführung (§ 46 PStV) | 10
+13.4.4 | Bescheinigungen über Erklärungen zur Namensführung (§ 46 Personenstandsverordnung) | 11
 13.5 | Personenstandsurkunden | 
-13.5.1 | Ausstellung von Personenstandsurkunden (§ 55 PStG, §§ 49 bis 52 PStV) | 
-13.5.1.1 | Ausstellung einer Ehe-, Lebenspartnerschafts-, Geburts- oder Sterbeurkunde oder eines beglaubigten Registerausdrucks (§ 55 Abs. 1 PStG) | 10
-13.5.1.2 | Ausstellung einer Personenstandsurkunde durch ein anderes als das für die Ausstellung zuständige Standesamt durch Ausdruck und Beglaubigung der vom registerführenden Standesamt übermittelten Daten (§ 56 Abs. 4 Satz 2 PStG) | 10
-13.5.1.3 | Übermittlung der Urkundsdaten durch das registerführende Standesamt an das Ausstellungsstandesamt (§ 56 Abs. 4 Satz 1 PStG) | 8
-13.5.1.4 | für ein zweites und jedes weitere Stück einer Personenstandsurkunde, wenn es gleichzeitig beantragt und in einem Arbeitsgang hergestellt wird | 5
-13.5.2 | Erteilung von Personenstandsurkunden an Behörden und Gerichte (§ 65 PStG) | gebührenfrei
-13.5.3 | Eintragung in ein internationales Stammbuch der Familie (§ 52 PStV) | 10
-13.5.4 | Auskunft aus einem oder Einsicht in einen Registereintrag oder Auskunft aus den und Einsicht in die Sammelakten (§ 62 Abs. 2 PStG) | nach Zeitaufwand gemäß Allgemeinen Kostenverordnung
-13.5.5 | Auskunft aus einem oder Einsicht in einen Registereintrag für Behörden und Gerichte (§ 65 PStG) | gebührenfrei
-13.5.6 | Auskunft aus einem oder Einsicht in Personenstandsregister oder Sammelakten oder Gewährung der Durchsicht von Personenstandsregistern oder Sammelakten für wissenschaftliche Zwecke (§ 66 PStG) | gebührenfrei
+13.5.1 | Ausstellung von Personenstandsurkunden | 
+13.5.1.1 | Ausstellung einer Ehe-, Lebenspartnerschafts-, Geburts- oder Sterbeurkunde oder eines beglaubigten Registerausdrucks (§ 55 Absatz 1 Personenstandsgesetz) | 11
+13.5.1.2 | Ausstellung einer Personenstandsurkunde durch ein anderes als das für die Ausstellung zuständige Standesamt durch Ausdruck und Beglaubigung der vom registerführenden Standesamt übermittelten Daten (§ 56 Absatz 4 Satz 2 Personenstandsgesetz) | 11
+13.5.1.3 | Übermittlung der Urkundsdaten durch das registerführende Standesamt an das Ausstellungsstandesamt (§ 56 Absatz 4 Satz 1 Personenstandsgesetz) | 9
+13.5.1.4 | für ein zweites und jedes weitere Stück einer Personenstandsurkunde, wenn es gleichzeitig beantragt und in einem Arbeitsgang hergestellt wird | 6
+13.5.2 | Erteilung von Personenstandsurkunden an Behörden und Gerichte (§ 65 Personenstandsgesetz) | gebührenfrei
+13.5.3 | Eintragung in ein internationales Stammbuch der Familie (§ 52 Personenstandsverordnung) | 11
+13.5.4 | Auskunft aus einem oder Einsicht in einen Registereintrag oder Auskunft aus den und Einsicht in die Sammelakten (§ 62 Absatz 2 Personenstandsgesetz) | nach Zeitaufwand gemäß Allgemeinen Kostenverordnung
+13.5.5 | Auskunft aus einem oder Einsicht in einen Registereintrag für Behörden und Gerichte (§ 65 Personenstandsgesetz) | gebührenfrei
+13.5.6 | Auskunft aus einem oder Einsicht in Personenstandsregister oder Sammelakten oder Gewährung der Durchsicht von Personenstandsregistern oder Sammelakten für wissenschaftliche Zwecke (§ 66 Personenstandsgesetz) | gebührenfrei
  | Anmerkungen zu Nummer 13 bis 13.5.6: | 
- | Auslagen sind gesondert nach Maßgabe von § 11 des Bremischen Gebühren- und Beitragsgesetzes in der tatsächlich entstandenen Höhe zu erheben. Zu den erstattungspflichtigen Auslagen gehören auch die Aufwendungen für einen zugezogenen Dolmetscher oder Übersetzer oder die auf Wunsch der Eheschließenden oder zukünftigen Lebenspartnerinnen oder Lebenspartner veranlassten Kosten für die Bereitstellung von Räumlichkeiten außerhalb der Diensträume des Standesamtes. | 
+ | Auslagen sind gesondert nach Maßgabe von § 11 des Bremischen Gebühren- und Beitragsgesetzes in der tatsächlich entstandenen Höhe zu erheben. Zu den erstattungspflichtigen Auslagen gehören auch die Aufwendungen für einen zugezogenen Dolmetscher oder Übersetzer. | 
 140 | Feldordnungsrecht | 
 140.00 | Bestätigung als Feldhüter gemäß § 8 Abs. 1 Satz 2 des Feldordnungsgesetzes | 63,25
  | Wenn Antragsteller Behörde oder öffentlich-rechtliche Körperschaft ist | gebührenfrei
