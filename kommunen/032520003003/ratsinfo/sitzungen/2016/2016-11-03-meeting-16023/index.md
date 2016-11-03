@@ -1,0 +1,54 @@
+# Rat der Stadt Bad Pyrmont (1. Sitzung)
+
+- Körperschaft: Stadt Bad Pyrmont
+- Beginn: 2016-11-03T17:00:00+01:00
+- Ende: 2016-11-03T19:14:00+01:00
+- Ort: Rathaus, Rathausstraße 1, 31812 Bad Pyrmont, Ratssaal
+- Status: 
+- Gremium: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZ2X2jtkWNQufV3nfbH_4yM
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16023
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdnqubKHUo0WARNYhhClUcWi4UDv71ZMEDd3yizatMlY/Bekanntmachung_Rat_der_Stadt_Bad_Pyrmont_03.11.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYiinJpR04CZTX7oPtidrM9O7k_3nu_rm3ggyD4sbbDg/Oeffentliche_Niederschrift_Rat_der_Stadt_Bad_Pyrmont_03.11.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit sowie der Tagesordnung
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Feststellung der/des Altersvorsitzenden und Übergabe des Vorsitzes für die Wahl der/des Ratsvorsitzenden gemäß § 61 NKomVG
+- TOP 4.: Wahl der/des Ratsvorsitzenden - Einstimmig, 1 Enthaltung(en)
+- TOP 5.: Vertretung der/des Ratsvorsitzenden - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Verabschiedung ehemaliger Ratsmitglieder
+- TOP 8.: Verabschiedung des ehemaligen Ratsvorsitzenden
+- TOP 9.: Geschäftsordnung des Rates - Beschluss über die Geschäftsordnung - - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Bekanntgabe der Fraktionen und Gruppen im Rat
+- TOP 11.: Erhöhung der Anzahl der Beigeordneten gemäß § 74 Abs. 2 Satz 2 NKomVG - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Bestimmung der Beigeordneten
+- TOP 12.1: Feststellung der auf die einzelnen Fraktionen und Gruppen entfallenden Sitze im Verwaltungsausschuss nach dem Hare-Niemeyer-Verfahren
+- TOP 12.2: Benennung der Beigeordneten
+- TOP 12.3: Bestimmung der Stellvertreterinnen und Stellvertreter für den Verwaltungsausschuss
+- TOP 12.4: Feststellungsbeschluss über die Zusammensetzung des Verwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Wahl der ehrenamtlichen Vertreterinnen oder Vertreter des Bürgermeisters aus den Beigeordneten - 32 Ja-Stimme/n, 1 Gegenstimme/n, 0 Stimmenthaltung/en
+- TOP 14.: Ausschüsse des Rates
+- TOP 14.1: Bildung der Ausschüsse nach § 73 NKomVG (Pflichtausschüsse) - Einstimmig, 0 Enthaltung(en)
+- TOP 14.2: Bildung der Ausschüsse nach § 71 NKomVG - Einstimmig, 0 Enthaltung(en)
+- TOP 14.3: Bestimmung der Anzahl der Ausschusssitze - Einstimmig, 0 Enthaltung(en)
+- TOP 14.4: Feststellung der Sitzverteilung in den Ausschüssen
+- TOP 14.5: Benennung der Ausschussmitglieder und deren Vertreterinnen und Vertreter - Einstimmig, 0 Enthaltung(en)
+- TOP 14.6: Zuteilung der Ausschussvorsitze und Benennung der Ausschussvorsitzenden
+- TOP 15.: Bestimmung der Ortsvorsteherinnen und Ortsvorsteher für die Ortsteile Baarsen, Eichenborn, Großenberg, Kleinenberg, Neersen und Thal - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Benennung der Vertreter/innen der Stadt im Integrationsrat - 31 Ja-Stimme/n, 0 Gegenstimme/n, 2 Stimmenthaltung/en
+- TOP 17.: Verwaltungsrat der Stadtsparkasse Bad Pyrmont
+- TOP 17.1: Bestätigung der Wahl der Beschäftigtenvertreter in den Verwaltungsrat der Stadtsparkasse Bad Pyrmont gemäß § 110 Personalvertretungsgesetz - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Vertretung der Stadt Bad Pyrmont in Verbänden, Gesellschaften und Institutionen 1. Kreissiedlungsgesellschaft Hameln-Pyrmont 2. Zweckverband Kreisvolkshochschule Hameln-Pyrmont 3. Kuratorium Schloss 4. Bad Pyrmont Tourismus GmbH 5. Landschaftsverband Hameln-Pyrmont e.V. 6. Unterhaltungsverband Emmer-Humme 7. Lenne-Verband 8. Klimaschutzagentur Weserbergland - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Beschlussfassung für eine überplanmäßige Auszahlung im Rahmen der Maßnahme "Neubau Humboldt-Gymnasium" gemäß § 117 NKomVG - 30 Ja-Stimme/n, 0 Gegenstimme/n, 3 Stimmenthaltung/en
+- TOP 20.: Regularien
+- TOP 20.1: Mitteilungen und Berichte
+- TOP 20.2: Bekanntgabe von Eilentscheidungen
+- TOP 20.2.1: Eilentscheidung eines überplanmäßigen Aufwandes für erhöhte Kontoführungsgebühren
+- TOP 20.2.2: Eilentscheidung eines überplanmäßigen Aufwandes für die Maßnahme „Dorfentwicklungsplanung Pyrmonter Bergdörfer“
+- TOP 20.2.3: Eilentscheidung einer überplanmäßigen Auszahlung für die Maßnahme "Ausbau Bad Freienwalder Brücke"
+- TOP 21.: Beantwortung von Anfragen
