@@ -1,0 +1,54 @@
+# 31. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-11-03T16:00:00+01:00
+- Ende: 2016-11-03T22:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4945
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4945
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00273049.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 2.1: Ausfall der Elbfähre Kleinzschachwitz - Pillnitz - erledigt
+- TOP 2.2: Verkehrssituation an der Zamenhofstraße - erledigt
+- TOP 2.3: Geplante Sperrung der Augustusbrücke - erledigt
+- TOP 2.4: Garagengemeinschaften in Dresden - erledigt
+- TOP 2.5: Umgang mit Ausgrabungsergebnissen am Postplatz - erledigt
+- TOP 2.6: Montägliche Demonstrationen und deren Auswirkung auf den Einzelhandel - erledigt
+- TOP 2.7: Wiedereröffnung der 61.GS in Rochwitz und den damit zusammenhängenden Schulweg auf der Hutbergstraße zwischen Bühlau und Rochwitz - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - Ausschuss
+- TOP 3.1: Ausschuss für Kultur und Tourismus - Einigung
+- TOP 4: Nachbesetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt Dresden - gewählt
+- TOP 5: Wahl des/der Beigeordneten für den Geschäftskreis Bildung und Jugend - gewählt
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Vertagungen der Stadtratssitzung vom 29. September 2016
+- TOP 7.1: Personalentwicklungskonzept der Stadtverwaltung Dresden - Zustimmung mit Änderung
+- TOP 7.2: Bebauungsplan Nr. 110.6, Dresden-Mickten Nr. 7, Wohnbebauung Sternstraße - Vertagung durch Einreicher
+- TOP 7.3: Änderung der Abwassergebührensatzung - Zustimmung
+- TOP 7.4: Benennung von kommunalen Sportstätten in Dresden - Vertagung durch Einreicher
+- TOP 7.5: Vorkaufsrecht bei kommunalen Grundstücken einräumen - Ablehnung
+- TOP 7.6: Nachnutzung der Liegenschaft des tjg - Zustimmung mit Ergänzung
+- TOP 7.7: "Dynamo-Stadion" ein Stadion für Dresden - Vertagung durch Einreicher
+- TOP 7.8: Bearbeitungszeiten im Denkmalschutzamt verbessern - Antragsstau zeitnah abarbeiten - Zustimmung
+- TOP 7.9: Umgestaltung des Gedenkobelisken in Dresden-Nickern - Ersetzung
+- TOP 8: Ausschreibung einer Dienstleistungskonzession für die Organisation und Durchführung einer Thematischen Weihnachtsveranstaltung auf dem Postplatz in den Jahren 2017 bis 2019 (einschließlich einer Option bis 2021) - Zustimmung mit Änderung
+- TOP 9: Gewerbegebiet am Promigberg - Neubau Innere Erschließungsstraße in Dresden Weixdorf - Zustimmung
+- TOP 10: Grundhafter Ausbau Innere Erschließung Industriepark Klotzsche - „Zur Wetterwarte“ und „Zum Windkanal“ - Zustimmung
+- TOP 11: Schulbauleitlinie der Landeshauptstadt Dresden - Vertagung
+- TOP 12: Zusammenfassung der Eigenbetriebe Städtisches Krankenhaus Dresden-Neustadt und Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum zu einem Eigenbetrieb "Städtisches klinikum Dresden" - Zustimmung mit Änderung
+- TOP 13: Richtlinie der Landeshauptstadt Dresden über die Gewährung einmaliger Zuschüsse für Um- und Ausbau von Atelier-, Arbeits- und Probenräumen freischaffender Künstlerinnen und Künstler - Verweisung
+- TOP 14: Änderung der Satzung des Eigenbetriebes Kindertageseinrichtungen Dresden sowie der Satzung der Landeshauptstadt Dresden für das Jugendamt - Vertagung
+- TOP 15: Betreibung der Kindertageseinrichtung Max-Schwan-Straße 1 in 01156 Dresden durch den freien Träger DRK Kreisverband Dresden e. V. - Zustimmung
+- TOP 16: Stadtbahn 2020 – Anpassungen im Straßenbahn- und Busliniennetz - punktweise Abstimmung mit Ergänzung
+- TOP 17: Mitgliedschaft der Landeshauptstadt Dresden, Amt für Geodaten und Kataster, im Deutschen Verein für Vermessungswesen (DVW) – Gesellschaft für Geodäsie, Geoinformation und Landmanagement – Landesverein Sachsen e. V. - Zustimmung
+- TOP 18: Bebauungsplan Nr. 3002, Dresden-Altstadt II Nr. 26, Parkhaus Pfotenhauerstraße - Zustimmung
+- TOP 19: Zukunftssicherung Ostrale Dresden - Zustimmung mit Ergänzung
+- TOP 20: An Guernica erinnern - Vertagung
+- TOP 21: Kurzfristige Maßnahmen zur Verbesserung der Fußwegsicherheit für mobilitätseingeschränkte Personen in der Innenstadt - Zustimmung mit Ergänzung
+- TOP 22: Erweiterung des Radweg-Winterdienstes - Zustimmung mit Änderung
