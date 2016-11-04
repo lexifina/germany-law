@@ -1,0 +1,65 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-11-04T16:00:00+01:00
+- Ende: 2016-11-04T18:12:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11660
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11660
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00278415.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00278415.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00278415.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 2: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - mehrheitlich abgelehnt
+- TOP 5: Vorstellung der Dezernentin für Planen, Bauen und Grundstückswesen - vertagt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: B-Plan Nr.: 09/006 Am Scheitenwege-Süd Stellungnahmen; Änderungen; erneute öffentliche Auslegung - zur Kenntnis genommen
+- TOP 10: Verkehrsgutachten zur Erschließung des Gebietes Paulsmühle Nord - vertagt
+- TOP 11: Einbringung des Entwurfs des Nahverkehrsplans der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 12: Informationsvorlage - Einbau eines Spielgerätes, KSP Marbacher Straße - zur Kenntnis genommen
+- TOP 13: Entwicklung des Fischbestandes in der Urdenbacher Kämpe - Information- - zur Kenntnis genommen
+- TOP 14: Festlegung der Sitzungstermine für das Jahr 2017 - abweichend beschlossen
+- TOP 15: Anfrage: Hydraulische Poller Marktplatz Benrath - vertagt
+- TOP 16: Anfrage: Fahrräder und Fahrradständer als Werbeträger - beantwortet
+- TOP 17: Anfrage: Beleuchtung Verbindungsweg zwischen Itterstr. und Schützenplatz Itter - beantwortet
+- TOP 18: Anfrage: Öffnung der Einbahnstraßen in der "Grünen Siedlung" für Radfahrer - beantwortet
+- TOP 19: Anfrage: Benrath-Urdenbacher Rheinufer - beantwortet
+- TOP 20: Anfrage: Busbuchten Ickerswarder Straße - beantwortet
+- TOP 21: Anfrage: Erntedankfest in Urdenbach - vertagt
+- TOP 22: Anfrage : Abbau und Umrüstung von antiken Gaslaternen im Stadtbezirk 9 - beantwortet
+- TOP 23: Anfrage: Radschnellweg-Planung - beantwortet
+- TOP 24: Anfrage: 1000-Bänke-Programm - beantwortet
+- TOP 25: Antrag: Industriegelände Hildener Straße - abweichend beschlossen
+- TOP 26: Antrag: Marktplatz Benrath - einstimmig beschlossen
+- TOP 27: Antrag: Querungshilfe Harffstraße - abweichend beschlossen
+- TOP 28: Antrag: Absolutes Haltverbot Cronenberger Weg - einstimmig beschlossen
+- TOP 29: Antrag: Bäume Heubesstraße, Haltestelle Urdenbacher Allee - einstimmig beschlossen
+- TOP 30: Antrag: Kunstwerk "Holthausen Mosaik" - einstimmig beschlossen
+- TOP 31: Antag: Verkehrs- und Sicherheits- und Parkraumkonzept für den Weihnachtsmarkt Schloss Benrath - beantwortet
+- TOP 32: Antrag: Baudenkmal Urdenbacher Dorfstraße 11 - vertagt
+- TOP 33: Antrag: Verfügungsmittel Heimatverein Holthausen-Himmelgeist-Itter e.V. - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeist e.V. - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel SG Benrath-Hassels 1910/12 e.V. - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel Kath. Kirchengemeinde St. Hubertus - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel Aktionsgemeinschaft Benrath e.V. - einstimmig beschlossen
+- TOP 38: Antrag: Verfügungsmittel Aktionsgemeinschaft Benrath e.V.; Weihnachtsbeleuchtung - einstimmig beschlossen
+- TOP 39: Antrag: Verfügungsmittel Bürgerhaus Reisholz - einstimmig beschlossen
+- TOP 40: Antrag: Verfügungsmittel VdK - einstimmig beschlossen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 04.12.2015 - zur Kenntnis genommen
+- TOP 42: Informationsvorlage zum Beschluss der BV 9 vom 17.06.2016 - zur Kenntnis genommen
+- TOP 43: Informationsvorlage zum Beschluss der BV 9 vom 26.08.2016 - zur Kenntnis genommen
+- TOP 44: Informationsvorlage zum Beschluss der BV 9 vom 17.06.2016 - zur Kenntnis genommen
+- TOP 45: Informationsvorlage Baumfällungen - zur Kenntnis genommen
+- TOP 46: Informationsvorlage: Umsetzung Mako Urdenbacher Kämpe - zur Kenntnis genommen
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 30.09.2016 - zur Kenntnis genommen
