@@ -1,0 +1,26 @@
+# Strandbad "Müggelsee"
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Drucksache/Vorlage: VI/0957
+- Art: Schlussbericht in MdV
+- Datum: 2016-11-07
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=3125
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/papers.asp?id=3125
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=130&id=88222
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2243 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2286 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2305 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2304 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2350 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2373 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2415 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2416 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2484 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2395 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2532 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2559 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2588 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2597 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4784 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=at&id=88
