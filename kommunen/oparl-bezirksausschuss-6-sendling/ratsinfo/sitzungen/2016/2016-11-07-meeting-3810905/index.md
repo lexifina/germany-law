@@ -1,0 +1,105 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2016-11-07T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3810905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3810905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 2.1.: Lärmbelästigung durch Zugverkehr im Bereich der Bavariastraße - <div></div>
+- TOP 2.2.: Bauliche und verkehrstechnische Änderungen in der Axel-von-Ambesser-Straße - <div></div>
+- TOP 2.3.: Parkverhalten der Firma Eichenseher rund um den Firmensitz an der Oberländer- / Gotzinger Straße - <div></div>
+- TOP 2.4.: Entschleunigung der Schäftlarnstraße - <div></div>
+- TOP 2.5.: Zukünftiger Standort für die Sendlinger Montessorischule - <div></div>
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Genehmigung von Marktveranstaltungen am Harras - <div></div>
+- TOP 3.2.: Vorstellung Konzept Sendlinger Christkindlmarkt 2016 - <div></div>
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Südbadtreppe - <div></div>
+- TOP 4.2.: Piktogrammflyer "Orientierung als Neu-Münchnerinnen und Neu-Münchner im öffentlichen Raum" - <div></div>
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Öffnung der Schulhöfe und Schulsportanlagen - <div></div>
+- TOP 5.2.: Informationen zu gebundenen Ganztagsschulklassen - <div></div>
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Erweiterungsantrag des Obststandes am Kidlerplatz - <div></div>
+- TOP 6.2.: Motorradstellplatz Hans-Preißinger-Straße - <div></div>
+- TOP 6.3.: Sperrung der Privatstraße "Schulgasserl" zwischen Meindlstraße und Plinganserstraße - <div></div>
+- TOP 6.4.: Parklizenzen für Schulen - <div></div>
+- TOP 6.5.: Größere Verkehrsschilder für den Tempo-30-Bereich vor der Implerschule - <div></div>
+- TOP 6.6.: City2Share - Präsentation der Informationsveranstaltung vom 20.10.2016 - <div></div>
+- TOP 6.7.: Sendlinger Christkindlmarkt 2016 - <div></div>
+- TOP 6.8.: Martinszug und Martinsfest am Gotzinger Platz am 10.11.2016 - <div></div>
+- TOP 6.9.: Leistungsprogramm der MVG für 2017; Sitzungsvorlage Nr. 14.20 / V 06236 - <div></div>
+- TOP 6.10.: Busbeschleunigung der Buslinie 63 und 132 ? Antwortschreiben - <div></div>
+- TOP 6.11.: Die S-Bahn München ? Kapazitätsgrenzen - <div></div>
+- TOP 7: Gaststättenangelegenheiten
+- TOP 8.2.: Antrag auf Eigenbudget - Soziale Bude Sendlinger Christkindlmarkt; ? 1000,- - <div></div>
+- TOP 8.3.: Diverse Verwendungsnachweise und Sachberichte zu Budgetanträgen - <div></div>
+- TOP 8.4.: Bürgerhaushalt auf Stadtbezirksebene - <div></div>
+- TOP 8.5.: Protokoll des Treffens der BA-Vorsitzenden vom 23.06.2016 - <div></div>
+- TOP 8.6.: Erhöhung der Freibeträge für Aufwandsentschädigungen - <div></div>
+- TOP 8.7.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse - <div></div>
+- TOP 8.8.: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde? - <div></div>
+- TOP 8.9.: Änderung der BA-Satzung: Anhörungsrecht bei Befreiungen von der Stellplatzsatzung - <div></div>
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben - <div></div>
+- TOP 9.2.: Bauvorhaben Gotzinger Str. 19 - <div></div>
+- TOP 9.3.: Bauvorhaben Oberländerstr. 20a - <div></div>
+- TOP 9.4.: Bauvorhaben Daiserstr. 43 - <div></div>
+- TOP 9.5.: Bauvorhaben Wackersberger Str. 11 - <div></div>
+- TOP 9.6.: Bauvorhaben Brudermühlstr. 3 - <div></div>
+- TOP 9.7.: Ablehnung Vorbescheid Schäftlarnstr. 124 - <div></div>
+- TOP 9.8.: Energienutzungsplan für München (Sitzungsvorlage Nr. 14-20 / V 07115) - <div></div>
+- TOP 9.9.: Wohnen in München VI (Sitzungsvorlage Nr. 14-20 / V 07205) - <div></div>
+- TOP 9.10.: Beschlussvollzugskontrolle (Sitzungsvorlage Nr. 14-20 / V 06610) - <div></div>
+- TOP 9.11.: Handlungsprogramm Mittlerer Ring - Wohnen am Ring (Sitzungsvorlage Nr. 14-20 / V 06790) - <div></div>
+- TOP 9.12.: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren (Sitzungsvorlage Nr. 14-20 / V 07305) - <div></div>
+- TOP 9.13.: Leben im Alter (Sitzungsvorlage Nr. 14-20 / V 07222) - <div></div>
+- TOP 10: Baureferat
+- TOP 10.1.: Bauliche Maßnahmen in der Axel-von-Ambesser-Straße - <div></div>
+- TOP 10.2.: Aufstellung von Mülleimern im unmittelbaren Umfeld des Schulzentrums Meindlstraße 8 - <div></div>
+- TOP 10.3.: Sachstandsbericht zur Aktion "Wahre Liebe ist..." - <div></div>
+- TOP 10.4.: Geldautomat im Landschaftsschutzgebiet Flaucher - <div></div>
+- TOP 10.5.: Grünanlagenverzeichnis und Übersichtslageplan der städt. Grünanlagensatzung den Münchnerinnen und Münchnern auf der städtischen Website zugänglich machen - <div></div>
+- TOP 10.6.: Verbesserung der Abstellsituation für Fahrräder (Sitzungsvorlage Nr. 14-20 / V 06809) - <div></div>
+- TOP 10.7.: Aktion saubere Stadt (Sitzungsvorlage Nr. 14-20 / V 06637) - <div></div>
+- TOP 10.8.: Toiletten in öffentlichen Grünanlagen (Sitzungsvorlage Nr. 14-20 / V 07087) - <div></div>
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Lipowskystr. 17-19 - <div></div>
+- TOP 11.2.: Baumfällung Schäftlarnstraße; Erdgastankstelle der SWM - <div></div>
+- TOP 11.3.: Fällung von Gefahrenbäumen im öffentlichen Raum - <div></div>
+- TOP 11.4.: Asiatischer Laubholzbockkäfer - <div></div>
+- TOP 12: Anträge
+- TOP 12.1.: Neuauflage der Sendlinger Stadtteilbroschüre - <div></div>
+- TOP 12.2.: Angemessene Beteiligung der Betroffenen bei der Gestaltung des neuen MVV-Tarifs - <div></div>
+- TOP 14: Verschiedenes
+- TOP 14.1.: WC-Konzept "Nette Toilette" - <div></div>
+- TOP 14.2.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer - <div></div>
+- TOP 14.3.: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen - <div></div>
+- TOP 14.4.: Grundstück Karwendelstraße 39 - Sachstandsbericht - <div></div>
+- TOP 14.5.: Übertragung der städtischen Immobilie MK6 Radlkofer- / Pfeuferstraße an die GWG - <div></div>
+- TOP 14.6.: Anmietung Gaißacherbunker; Absage für den Sendlinger Bunker e.V - <div></div>
+- TOP 10.9.: Schrottfahrräder auf öffentlichen Verkehrsflächen - <div>Stadtratsentscheidung im BA zur Kenntnis genommen</div>
+- TOP 2.6.: Einsatz von Laubbläsern im Bereich der Kraelerstraße - <div></div>
+- TOP 2.7.: Anmietung Gaißacherbunker; Absage für den Sendlinger Bunker e.V. - <div></div>
+- TOP 4.3.: Neuvergabe von insgesamt sieben Nachbarschaftstreffs der Wohnforum GmbH in regionaler Kombination (SV 14-20 / V 7182) - <div></div>
+- TOP 6.12.: Verkehrsrechtliche Anordnung; Einrichtung einer Schulbushaltestelle in der Bleyerstraße - <div></div>
+- TOP 6.13.: Verkehrsrechtliche Anordnung; Schulbushaltestelle Valleystr. Änderung des Zeitzusatzes - <div></div>
+- TOP 6.14.: Verkehrsrechtliche Anordnung;Radwegmarkierung in der Plinganserstr. (Westseite) zw. Jägerwirthstr. und Plinganserstr.14a - <div></div>
+- TOP 6.15.: Italienischer Markt Am Harras vom 06.10.-15.10.16 - <div></div>
+- TOP 6.16.: Beschilderung der Fuß- und Radwege an der Isar optimieren (SV 14-20 / V 7181) - <div></div>
+- TOP 7.1.: Unveränderte Gaststättenfortführung Gotzinger Str.14 - <div></div>
+- TOP 7.2.: Stellungnahme der BI-Süd zu Bürgerbeschwerde ?Gaststätte Vrabas? - <div></div>
+- TOP 9.14.: Teilfortschreibung des Landesentwicklungsprogramms Bayern (Sitzungsvorlage 14-20 / V 07001) - <div></div>
+- TOP 9.15.: Bauvorhaben Waldkindergarten Isarauen - <div></div>
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
