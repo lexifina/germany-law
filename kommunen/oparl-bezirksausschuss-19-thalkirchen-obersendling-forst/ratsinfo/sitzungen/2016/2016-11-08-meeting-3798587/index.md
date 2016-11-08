@@ -1,0 +1,54 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-11-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798587
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798587
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 06.10.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Unterausschuss Budget
+- TOP 3.4.: (A) Bürgerhaushalt auf Stadtbezirksebene
+- TOP 3.5.: (A) Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk ? Aktueller Stand der Ergebnisse
+- TOP 5.3.: (A) Einrichtung eines Behindertenparkplatzes: Lechnerstr.
+- TOP 5.4.: (A) Einrichtung eines Behindertenparkplatzes: Gilgstr.
+- TOP 5.5.: (Antrag) Parksituation Ecke Hofmann-/ Zielstattstr.
+- TOP 5.6.: (A) Satzungsänderung: Befreiungen von der Stellplatzsatzung BA-Antrags-Nr. 14-20 / B 02847 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 22.09.2016
+- TOP 5.7.: (Antrag) Modernisierung des südwestlichen Treppenaufgangs am S-Bahnhof Solln und regelmäßige Reinigung
+- TOP 5.8.: (A) Einrichtung eines Behindertenparkplatzes: Engadiner Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (U) Zweckentfremdung: Forstenrieder Allee
+- TOP 6.4.: (A) Änderung der Stadtrats-Geschäftsordnung: Wertgrenzen bei Baumaßnahmen; Auswirkungen auf BA-Satzung und OB-Vollmacht
+- TOP 6.5.: (A) Satzungsänderung: Stellungnahmen Denkmalschutzbehörde BA-Antrags-Nr. 14-20 / B 02359 des Bezirksausschusses des Stadtbezirks 1 ? Altstadt-Lehel vom 10.05.2016
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: (A) Öffnung der Schulhöfe und Schulsportanlagen
+- TOP 7.3.: (Antrag) Sanierung Behindertentoilette und Duschen beim TSV Forstenried
+- TOP 7.4.: (A) WC-Konzept ?Nette Toilette? in München
+- TOP 8: Unterausschuss Kultur
+- TOP 8.2.: (Antrag) Erklärende Zusatzschilder an Straßenschildern im Stadtbezirk 19
+- TOP 8.3.: (A) Veranstaltung: Thalkirchner Christkindlmarkt vom 16.12. bis 18.12.2016
+- TOP 9: Verschiedenes
+- TOP 3.2.: (E) Budget der Bezirksausschüsse FC Hertha München e.V. Beschaffung Trainingsanzüge, Regenjacken, Poloshirts
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Katholische Kirchenstiftung St. Joachim Adventskonzert am 27.11.2016
+- TOP 5.9.: Sanierung des Fußwegs am Schmiedberg - <div></div>
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
