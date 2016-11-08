@@ -1,0 +1,64 @@
+# Stadtrat (19. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-11-08T17:00:00+01:00
+- Ende: 2016-11-08T21:47:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZRL5j2hTU1i-8A--zUmP9I
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20050
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSYJ_uPRJs-l1K5TQaWsrmgRv_obwEi3c17xeqntedCG/Bekanntmachung_Stadtrat_08.11.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZSXaEdvShn8aS3W5ne5A4cU8rCp7ywXF3XQtzXMcKwA/Oeffentliche_Niederschrift_Stadtrat_08.11.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Einspruch gegen die Niederschrift der Sitzung des Stadtrates am 13.09.2016 hier: Abstimmungsergebnis zum Tagesordnungspunkt 9a "Anbau Mühlenfeldschule - Mobile Module als Zwischenlösung" - (kein Text vorhanden)
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung des Bau- und Feuerschutzausschusses hier: Antrag der Fraktion Bündnis 90/Die Grünen - (kein Text vorhanden)
+- TOP 3.2: Umbesetzung von Ausschüssen hier: Antrag der FDP-Fraktion - (kein Text vorhanden)
+- TOP 3.3: Umbesetzung der Zweckverbandsversammlung „La Musica“ hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 3.4: Umbesetzung des Sozialausschusses hier: Antrag der CDU-Fraktion - (kein Text vorhanden)
+- TOP 4.: Kostenersparnis bei amtlichen Bekanntmachungen hier: Antrag der CDU-Fraktion - (kein Text vorhanden)
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Abschluss eines städtebaulichen Vertrages zur Übernahme von Planungskosten für den Bereich des öffentlich-rechtlichen Bebauungsplanes KE Nr. 362 "Vinger Weg" im Stadtteil Kerpen - (kein Text vorhanden)
+- TOP 5.2: 80. Änderung des Flächennutzungsplanes "Vinger Weg", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB - (kein Text vorhanden)
+- TOP 5.3: Bebauungsplan KE BP 362 "Vinger Weg", Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB - (kein Text vorhanden)
+- TOP 5.4: Verlängerung der Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE 263, 3. Änderung "Zum Hubertusbusch" im Stadtteil Kerpen - (kein Text vorhanden)
+- TOP 5.5: 75. Änderung des Flächennutzungsplanes "Sondergebiet Nahversorgungszentrum Zentraler“. Versorgungsbereich", Stadtteil Brüggen
+- TOP 5.6: 79. Änderung des Flächennutzungsplanes "Gemeinbedarfsfläche Hüttenstraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB - (kein Text vorhanden)
+- TOP 5.7: Bebauungsplan SI 301/1. Änderung "Grünfläche Hüttenstraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB - (kein Text vorhanden)
+- TOP 5.8: Bebauungsplan SI 363 "Kindertagesstätte Mastenweg", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB - (kein Text vorhanden)
+- TOP 6.: Erstellung eines Masterplans hier: Aufhebung eines Sperrvermerks - (kein Text vorhanden)
+- TOP 6a: Erstellung eines integrierten Energie- und Klimaschutzkonzepts hier: Aufhebung des Sperrvermerks - (kein Text vorhanden)
+- TOP 7.: Gründung von Stadtwerken
+- TOP 8.: Sachstand Ausbauplanung Kindertagesstätten
+- TOP 9.: Sportstättenzielplanung; hier: 1. Übertragung der Unterhaltung von städtischen Sportaußenanlagen und Sportlerheimen an die Vereine 2. Gewährung von einzelfallbezogenen Investitionszuschüssen an Vereine, die der Werterhaltung bzw. Wertverbesserung der Sportanlage dienen - (kein Text vorhanden)
+- TOP 10.: Hallenbad Kerpen hier: Außerplanmäßige Mittelbereitstellung für den Einbau einer Entkalkungsanlage - (kein Text vorhanden)
+- TOP 11.: Bericht zur Ausführung des Haushalts 2016
+- TOP 12.: Nachlass eines Kerpener Bürgers hier: Antrag der Fraktion DIE LINKE - (kein Text vorhanden)
+- TOP 13.: Fortschreibung des Rettungsdienstbedarfsplans des Rhein-Erft-Kreises - Auswirkungen für die Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.1: Personalentwicklungskonzept Amt 13 / ABC-Dienst-Modell
+- TOP 14.2: Bildung einer Einigungsstelle gem. § 67 LPVG - (kein Text vorhanden)
+- TOP 15.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 15.1: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk V (Horrem, Neu-Bottenbroich und Götzenkirchen) - (kein Text vorhanden)
+- TOP 16.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 17.: Mitteilungen
+- TOP 18.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 19.1: Pflegezustand Außenanlagen städtischer Schulen
+- TOP 19.2: Autohof Elsdorf
+- TOP II.: Nichtöffentlicher Teil
+- TOP 20.: Gründung von Stadtwerken - (kein Text vorhanden)
+- TOP 21.: Auftragserweiterung für die Baumaßnahme "Endausbau BP Brüggen 306 Burgackerstraße" - (kein Text vorhanden)
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.1: Stellenplan 2016; Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor - (kein Text vorhanden)
+- TOP 23.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 24.: Mitteilungen
+- TOP 25.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 26.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
