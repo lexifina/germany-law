@@ -1,0 +1,117 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2016-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3900370
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3900370
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Öffentliche Sicherheit - Laternen auf dem Fußweg von der Marklandstraße zur S-Bahn-Station Fasangarten; Bürgerschreiben vom 11.10.2016
+- TOP 2.2.: Zebrastreifen Lincolnstraße; Bürgerantrag vom 13.10.2016
+- TOP 2.3.: Deisenhofener Straße - Fahrradstellplätze gegen Autoparkplätze; Bürgerschreiben vom 12.10.2016
+- TOP 2.4.: Anfrage zum Anwesen Zugspitzstraße 16; Bürgerschreiben vom 08.10.2016
+- TOP 2.5.: Parkraum Perlacher Straße und Spixstraße - Einführung der Parklizenz; Bürgerantrag vom 23.10.2016
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Pennstraße 38-60; 1 Fichte
+- TOP 3.9.1.2.: Waldmünchenerstraße 3; 2 Fichten, 3 doppelstämmige Birken
+- TOP 3.9.1.3.: Schwarzenbacher Str. 18, 1 Fichte
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Beschlussentwurf Regerbrücke; Anhörung des Referates für Stadtplanung und Bauordnung zum Entwurf der Beschlussvorlage mit der Bitte um Stellungnahme bis 30.11.2016
+- TOP 0.2.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Schwanseestraße 41, Neubau eines Wohn- und Geschäftsgebäudes - VORBESCHEID (2 Var.), Chiemgaustraße / Schwanseestraße 41; Anhörung vom 29.09.2016 (vertagt aus der Oktober-Sitzung) 6.1.3.1.2 Traunsteiner Straße 32, Neubau eines Einfamilienhauses mit Tiefgarage; Anhörung vom 13.10.2016 6.1.3.1.3 Holtzendorffstraße 47, Errichtung einer zweiten Wohneinheit in einer Doppelhaushälfte; Anhörung vom 13.10.2016 6.1.3.1.4 Untere Grasstraße 15, Umbau eines Geschäfts- u. Wohnhauses sowie DG-Ausbau - TEKTUR; Anhörung vom 13.10.2016 6.1.3.1.5 Lincolnstraße 64, Neubau eines Pflegeheims (133 Plätze) mit Betreutem Wohnen (15 WE), Dienstwohnungen (9 WE) und Tiefgarage (23 Stpl.) - TEKTUR; Anhörung vom 19.10.2016 6.1.3.1.6 Giesinger Bahnhofplatz 1, Errichtung eines eingeschossigen Magazingebäudes; Anhörung vom 24.10.2016
+- TOP 0.3.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen; Schreiben des Direktoriums vom 25.10.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.4.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung; BA-Antrag Nr. 14-20 / B 02847 des BA 15 vom 22.09.2016; Schreiben des Direktoriums vom 26.10.2016 mit der Bitte um Stellungnahme innerhalb von sechs Wochen
+- TOP 0.5.: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde?, BA-Antrags-Nr. 14-20 / B 02359 des BA 1 vom 10.05.2016; Schreiben des Direktoriums vom 26.10.2016 mit der Bitte um Stellungnahme innerhalb von sechs Wochen
+- TOP 0.1.: Veränderung im Baurecht aufgrund der Beschleunigung der Asylverfahren; Stadtratsantrag Nr. 14-20 / A 01449 vom 13.10.2015; Sitzungsvorlagen Nr. 14-20 / V 7305; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (SB)
+- TOP 0.2.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 - 30.06.2016; Sitzungsvorlagen Nr. 14-20 / V 06610; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 0.3.: Handlungsprogramm Mittlerer Ring - Wohnen am Ring - Fortführung des Förderprogramms - Anpassung des Finanzbedarfs im Mehrjahresinvestitionsprogramm 2015-2019 im Finanzhaushalt 2017 - Erfahrungsbericht; Sitzungsvorlage Nr. 14-20 / V 06790; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (VB)
+- TOP 0.4.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021; Änderung des Mehrjahresinvestitionsprogramms 2016-2020; Finanzierung; Sitzungsvorlagen Nr. 14-20 / V 07205; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.2016 (VB) zu 6.1.4.4 Hinweis / Ergänzung vom 11.10.2016
+- TOP 0.5.: Leben im Alter Wohnen 2 - Wohnungsgrundrisse für veränderbare Wohnungsgrößen; Stadtratsantrag Nr. 14-20 / A 02116 vom 12.05.2016; Sitzungsvorlage Nr. 14-20 / V 07222; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (SB)
+- TOP 0.6.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.6.1 Werinherstraße 11; Mitteilung vom 12.10.2016 6.1.4.6.2 Warngauer Str. 7; Mitteilung vom 12.10.2016 6.1.4.6.3 Warngauer Str. 20; Mitteilung 12.10.2016 6.1.4.6.4 Herzogstandstraße 6; Mitteilung vom 12.10.2016 6.1.4.6.5 Warngauer Str. 3; Mitteilung vom 12.10.2016 6.1.4.6.6 Rotwandstraße 18; Mitteilung vom 12.10.2016
+- TOP 0.7.: Bauvorhaben im 17. Stadtbezirk
+- TOP 0.8.: ?Wohngeld II ? für angestammte Quartiersbewohner z.B. im Stadtteil Giesing; BA-Antrag Nr. 14-20 / B 02590 vom 12.05.2016; Schreiben der Bezirksausschüsse 16 und 21
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Giesinger Mädchen-Treff; Bericht zum Gewaltpräventionsprojekt, unterstützt aus dem Budget des BA 17
+- TOP 0.2.: Eltern-Kind-Initiative Mäcki Löffel e.V.; Bericht zur 25-Jahr-Feier, unterstützt aus dem Budget des BA 17
+- TOP 0.1.: Überplanung der Verkehrssituation Kreuzung Lincolnstraße; Antrag der IWAP vom 10.10.2016 (verwiesen aus der Oktober-Sitzung)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Freigabe der Einbahnstraßenregelung in der Alpenstraße zwischen Zugspitzstraße und Tegernseer Landstraße für Radfahrer in beiden Richtungen - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 0.1.: Beschlussentwurf Unterführung Chiemgaustraße - Schwanseestraße; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme zum Entwurf bis 30.11.2016
+- TOP 0.2.: Sachstandsbericht Herbert-Quandt-Straße a) Anträge und Empfehlungen b) Bebauungsplan mit Grünordnung Nr. 2120 Ständlerstraße (südlich), Bahnlinie München-Deisenhofen (westlich), Lincolnstraße (nördlich), Friedhof am Perlacher Forst (östlich) (Teiländerung der Bebauungspläne Nr. 1476 und Nr. 1108 sowie des Bebauungsplanes mit Grünordnung Nr. 2037) - Aufstellungsbeschluss - Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme zur Beschlussvorlage (vertagt aus der Oktober-Sitzung, FF: UA Verkehr) zu 6.3.3.1 Sachstandsbericht Herbert-Quandt-Straße; Sitzungsvorlage Nr. 14-20 / V 07108; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (SB)
+- TOP 0.1.: Aufhebung der Bushaltestellen Ostfriedhof; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: Parksituation am Ostfriedhof; St.-Martin-Straße; verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 0.3.: Barrierefreier Ausbau und gestalterische Aufwertung der Fuß-und Radwegunterführung unter der Chiemgaustraße zwischen Neuschwansteinplatz und Scharfreiterplatz im 17. Stadtbezirk Obergiesing-FasangarteN, Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße / Chiemgaustraße; Sitzungsvorlage Nr. 14-20 / V 06807; Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP 0.4.: Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegunterführung an der Otkerstraße unter der Tegernseer Landstraße im 17. Stadtbezirk Obergiesing-Fasangarten und im 18. Stadtbezirk Untergiesing-Harlaching; Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße / Chiemgaustraße; Sitzungsvorlage Nr. 14-20 / V 06801; Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP 0.5.: Setzbergstraße - Parksuchverkehr; Ausweisung als Anwohner-Parkzone; BA-Antrag Nr. 14-20 / B 02770 vom 13.09.2016; Antwortschreiben des KVR vom 29.09.2016
+- TOP 0.6.: Traunsteiner Straße; Haltverbotsänderung; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Energienutzungsplan für München; Sitzungsvorlagen Nr. 14-20 / V 07115; Beschluss des gemeinsamen Ausschusses für Stadtplanung u. Bauordnung und des Umweltausschusses vom 12.10.2016 (VB)
+- TOP 0.2.: Aktion Saubere Stadt; Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung; Stadtratsantrag Nr. 14-20 / A 01212; Sitzungsvorlage Nr. 14-20 / V 06637; Beschluss des Bauausschusses vom 25.10.2016 (SB)
+- TOP 0.3.: Giesing wird zum Bankenviertel! Aufenthaltsqualität im Freien für Alle steigern; BA-Antrag Nr. 14-20 / B 02766 vom 13.09.2016; Antwortschreiben Baureferat-Tiefbau vom 04.10.2016
+- TOP 0.4.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße / Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel" 3. Bauabschnitt im 17. Stadtbezirk; Sitzungsvorlage Nr. 14-20 / V 06644; Beschluss des Bauausschusses vom 25.10.2016 (SB)
+- TOP 0.5.: Toiletten in Grünanlagen - Folgebeschluss; Sitzungsvorlage Nr. 14-20 / V 07087; Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Freischankfläche Tegernseer Landstraße 56; Zuleitung des KVR; Beschluss des BA 17 vom 08.11.2016
+- TOP 0.1.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl; Schreiben des KVR mit der Bitte um Rückmeldung
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Restaurant Gabelspiel", Zehentbauernstraße 20; Mitteilung vom 06.10.2016
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage; Zuleitung des Direktoriums vom 20.10.16 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Erhöhung der Freibeträge für Aufwandsentschädigungen; Antrag Nr. 14-20 / B 02720 des BA 18 vom 16.08.2016; Antwortschreiben des Direktoriums vom 11.10.2016 zur Kenntnisnahme an alle Bezirksausschüsse
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
