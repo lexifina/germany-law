@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834338
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834338
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Leerstand von Wohnungen in der Geyerspergerstraße
+- TOP 1.2.2.: Neue Schilderstangen in der Stroblstraße dazu: Schreiben des Kreisverwaltungsreferates vom 04.10.16
+- TOP 1.2.3.: Blaulichteinsätze in Laim dazu: Schreiben der Polizeiinspektion 41 vom 30.09.16 und Branddirektion München vom 27.09.16
+- TOP 1.2.4.: Drittkindermäßigung in Elterninitiativen
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 13.10.16: Veranstaltung in einer städtischen Grünanlage, hier: Hogenbergplatz, Flohmarkt Laimer Strolche e.V. am 01.04.2017
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 27.09.16: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017
+- TOP 4.4.: Schreiben Direktorium vom 28.09.16: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, ZIffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenverordnung" in ein Anhörungsrecht; Antrag des BA 16 Ramersdorf-Perlach vom 16.04.15
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 18.10.16: Veranstaltung in einer städtischen Grünanlage, hier: Hogenbergplatz, Flohmarkt Laimer Schlümpfe am 06.05.17 und 16.09.17
+- TOP 4.6.: Schreiben Kommunalreferat vom 06.10.16: Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept "Nette Toilette" in München Stellungnahme zur Beschlussvorlage des Kommunalreferates
+- TOP 4.7.: Schreiben Direktorium vom 20.10.16: Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage
+- TOP 8.9.: Schreiben Baureferat vom 18.10.16: Erinnerungsverfahren Laimer Kreisel / Wotanstraße, Fahrbahnsanierung
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 25.10.16: Veranstaltung in einer städtischen Grünanlage, hier: Hogenbergplatz, Flohmarkt Familienzentrum Laim e.V. am 20.05.2017 und 30.09.2017
+- TOP 8.11.: Schreiben Direktorium vom 25.10.16: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP 8.12.: Schreiben Direktorium vom 26.10.16: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung, Antrag BA 15 - Trudering-Riem vom 22.09.16
+- TOP 8.13.: Schreiben Direktorium vom 26.10.16: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung "inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde", Antrag BA 1 - Altstadt-Lehel vom 10.05.16
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 70: Neubau eines Büro- und Geschäftshauses mit Tiefgarage (Fürstenrieder Str. 70 / Gotthardstr. 53)
+- TOP 5.2.: Westendstr. 170: Errichtung einer Terrasse mit Nutzung als Freischankfläche (Wechselnutzung)
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 26.09.16: München lebt interkulturelle Vielfalt - Pilotprojekt für Bezirksausschüsse Einladung zur Informations- und Austauschveranstaltung am 19.11.2016, 09.30 - 15.00 Uhr
+- TOP 6.2.: Schreiben Kulturreferat vom 10.10.16: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen
+- TOP 6.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.10.16: Information der Bezirksausschüsse zum Programm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 04.10.16
+- TOP 7.2.: Sitzung UA Kultur vom 05.10.16
+- TOP 7.3.: Sitzung UA Bau vom 04.10.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 11.10.16: Erhöhung der Freibeträge für Aufwandsentschädigungen, Antrag des BA 18 Untergiesing-Harlaching
+- TOP 8.2.: Schreiben Baureferat vom 28.09.16: Grünanlage an der Burgkmairstraße; Versetzen von Sitzbänken auf die Hundwiese
+- TOP 8.3.: Schreiben Baureferat vom 12.10.16: Erweiterung der Fahrradabstellflächen am Laimer Platz
+- TOP 8.4.: Schreiben Baureferat vom 19.10.16: Zwischennachricht zur Empfehlung Nr. 08-14 / E 01593 Installation weiterer Fahrradständer an den U-Bahnhöfen Laimer Platz und Friedenheimer Straße
+- TOP 8.5.: Schreiben Baureferat vom 18.10.16: Zwischennachricht zu den Empfehlungen Nrn. 08-14 / E 01156 und 08-14 / E 001596 Erweiterung der Fahrradabstellplätze am U-Bahnhof Laimer Platz
+- TOP 8.6.: Schreiben Baureferat vom 26.10.16: Radler- / Fußgängerfalle Siglstraße
+- TOP 8.7.: Schreiben Referat für Gesundheit und Umwelt vom 21.10.16: Geräusche verbunden mit Vibrieren des Fußbodens und des Balkons in der Wohnung Fachnerstraße
+- TOP 8.8.: Schreiben Referat für Arbeit und Wirtschaft vom 12.10.16: Aufstellung von Fahrkartenautomaten an der Trambahnhaltestelle "Fürstenrieder Straße" sowie der Bushaltestelle "Fürstenrieder Straße" / Westseite
+- TOP 8.9.: Schreiben Referat für Arbeit und Wirtschaft vom 25.10.16: Zwischennachricht zu den Empfehlungen Nrn. 14-20 / E 00307 und 14-20 / E 00308 - Einstellung der Weiterplanung zur Tram-Westtangente - Information aller mit der Trambahn Westtangente befassten Mitglieder des Stadtrates über die vorgelegten Argumente der Gegner vor Abstimmung
+- TOP 8.10.: Schreiben Sozialreferat vom 28.09.16: Übersicht Unterkünfte Flüchtlinge und Wohnungslose
+- TOP 8.11.: Schreiben Sozialreferat vom 12.10.16: Strukturen und räumliche Ausstattung des Flüchtlingshelferkreises Laim sowie Unterkunft mit mehr Privatsphäre und Kochmöglichkeiten für die Bewohner der Unterkunft in der Tübinger Straße 1 - 3
+- TOP 8.12.: Schreiben Sozialreferat vom 17.10.16: Piktogrammflyer AKIM für Neu-Münchnerinnen und Neu-Münchner
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 12.10.16: Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Geßlerstr. 21
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 13.10.16: Absolutes Haltverbot Wilhelm-Riehl-Straße
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 30.09.16: Beantragung Beschilderung wegen Parkverhalten von Lkw in der Fürstenrieder Straße 57 - 61
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 12.10.16: Duale Führung mit Schutzstreifen und Radwegen ohne Benutzungspflicht in der Elsenheimerstraße; Übermittlung des Abschlussberichtes
+- TOP 8.17.: Schreiben Kulturreferat vom 21.09.16: Protokoll vom 15. Informations- und Arbeitstreffen zur Stadtteilkultur am 05.07.16
+- TOP 8.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.09.16: Lutzstr. 9-11; Vollzug der Baumschutzverordnung, Bescheid vom 22.09.16
+- TOP 8.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.10.16: Burgkmairstr. 9, Fl.Nr. 387/2, Gemarkung Laim Nutzungsänderung eines Altenwohnheims in ein Wohnhaus für sozial bedürftige Personen (gem. Stiftungszweck) mit Gebäudeerweiterung nach Norden - Vorbescheid
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.09.16: Mitterhoferstr. 7, Fl.Nr. 303/4, Gemarkung Laim Prüfung der Denkmalschutzeigenschaft des Gebäudes Mitterhoferstr. 7
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.09.16: Zwischennachricht zur Empfehlung Nr. 14-20 / E 00783 Ausführung des Baus der U5 nach Pasing und Weiterführung nach Freiham (Ziffer 2 des Antrages)
+- TOP 8.22.: Bautenliste vom 26.09. - 02.10.16: 1. Erstantragsverfahren a) Berchemstr. 13 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Senftenauerstr. 122
+- TOP 8.23.: Bautenliste vom 03.10. - 09.10.16: 1. Erstantragsverfahren a) Camerloherstr. 203 b) Senftenauerstr. 124 c) Schrobenhausener Str. 15 d) Riegerhofstr. 3
+- TOP 8.24.: Bautenliste vom 10.10. - 16.10.16: 1. Erstantragsverfahren a) Ossietzkystr. 12 b) Friedenheimer Str. 68 c) Elsenheimerstr. 24 d) Westendstr. 170 e) Eringerstr. 11 f) Fürstenrieder Str. 70 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Agricolastr. 79
+- TOP 8.25.: Bautenliste vom 17.10. - 23.10.16: 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 137 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Fürstenrieder Str. 21
+- TOP 8.26.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtage 19.09. - 23.09.16, 26.09. - 30.09.16, 04.10. - 07.10.16, 10.10. - 14.10.16, 17.10. - 21.10.16
+- TOP 8.27.: Schreiben Stadtwerke München vom 20.10.16: Erdgasprojekt Landsberger Straße
+- TOP 8.28.: Beschluss der Vollversammlung vom 28.09.16: Neubau eines gemeinsamen Stadtteilkulturzentrums für die Stadtbezirke 25 Laim und 7 Sendling-Westpark; Grundsatzbeschluss; Genehmigung des vorläufigen Nutzerbedarfsprogramms (Sitzungsvorlage Nr. 14-20 / V 06929)
+- TOP 8.29.: Beschluss der Vollversammlung vom 28.09.16: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung (Sitzungsvorlage Nr. 14-20 / V 05740)
+- TOP 8.30.: Beschluss des Bauausschusses vom 04.10.16: Toiletten in öffentlichen Grünanlagen; Folgebeschluss (Sitzungsvorlage Nr. 14-20 / V 07087)
+- TOP 8.31.: Beschluss des Bauausschusses vom 25.10.16: Aktion Saubere Stadt Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung (Sitzungsvorlage Nr. 14-20 / V 06637)
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.16: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln; Fortschreibung des Grundastzbeschlusses vom 23.11.05 (Sitzungsvorlage Nr. 14-20 / V 05253)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.16: Regionale Kooperation stärken (II) - A. Folgeprojekte Regionale Wohnungsbaukonferenzen, B. Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsprojekte), C. Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 06894)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.16: Leben im Alter; Wohnen 2; Wohnungsgrundrisse für veränderbare Wohnungsgrößen (Sitzungsvorlage Nr. 14-20 / V 07222)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.16: Handlungsprogramm Mittlerer Ring; Wohnen am Ring; - Fortführung des Förderprogramms - Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015 - 2019 - im Finanzhaushalt 2017 - Erfahrungsbericht (Sitzungsvorlage Nr. 14-20 / V 06790)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.16: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP) (Sitzungsvorlage Nr. 14-20 / V 07001)
+- TOP 8.37.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 12.10.16: Energienutzungsplan für München (Sitzungsvorlage Nr. 14-20 / V 07115)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.16: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren (Sitzungsvorlage Nr. 14-20 / V 07305)
+- TOP 8.39.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 26.10.16: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 - 30.06.2016 (Sitzungsvorlage Nr. 14-20 / V 06610)
+- TOP 8.40.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 05.10.16: Bericht zur Wohnungssituation in München 2014-2015 (Sitzungsvorlage Nr. 14-20 / V 07098)
+- TOP 8.41.: Hinweis / Ergänzung vom 11.10.16 und Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.16: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021; Änderung des Mehrjahresinvestitionsprogramms 2016 - 2020; Finanzierung (Sitzungsvorlage Nr. 14-20 / V 07205)
+- TOP 8.42.: Schreiben MVG vom 21.10.16: Information über das U-Bahn-Betriebskonzept während der Schienenschleifarbeiten auf der U5-West
+- TOP 8.43.: Schreiben BA 7 Sendling-Westpark vom 20.10.16: Kneipp-Anlage im Westpark
+- TOP 8.44.: Schreiben Pädagogische Aktion/Spielen in der Stadt e.V. vom 31.08.16: Kurzbericht über den bezuschussten Spielmobileinsatz 2016
+- TOP 3.1.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Faschingsclub Laim e.V., 14. Laimer Faschingstreiben am 25.02.2017
+- TOP 8: Schreiben Direktorium vom 17.10.16: Lichtzeichenanlage am Stegener Weg aus Gründen der Schulwegsicherheit (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00782 der Bürgerversammlung des 25. Stadtbezirkes Laim am 24.11.2015
+- TOP 1.2: Bürgerpost an den BA
