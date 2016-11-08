@@ -1,0 +1,7 @@
+# TOP 21.: Auftragserweiterung für die Baumaßnahme "Endausbau BP Brüggen 306 Burgackerstraße"
+
+- Sitzung: Stadtrat (19. Sitzung) (2016-11-08)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/53443
+- Ergebnis: (kein Text vorhanden)
