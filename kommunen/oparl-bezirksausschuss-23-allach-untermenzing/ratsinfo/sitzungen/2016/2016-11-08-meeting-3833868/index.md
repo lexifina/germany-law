@@ -1,0 +1,104 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-11-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833868
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833868
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 12.10.16
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Streetballanlage Megerlestraße
+- TOP 2.2.: Anwesen Georg-Reismüller-Str. 45
+- TOP 2.3.: Müllabfuhr Schlehbuschstraße / Nusshäherstraße
+- TOP 2.4.: Zufahrt zu Gartengrundstück Flur-Nr. 367/4
+- TOP 2.5.: St.-Johann-Straße, zwischen Franz-Nißl-Straße und der Georg-Reismüller-Straße, Spielstraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: B-Plan 2044, 3. Abschnitt Gerberau West, -Ost und Dienstbarkeitsfläche Mittelstück Gerberau
+- TOP 5.2.: Anmietung von Räumen für eine Außenstelle des Alten- und Service-Zentrums (ASZ) Allach-Untermenzing im 23. Stadtbezirk am Oertelplatz in Allach
+- TOP 5.3.: Bürgerhaushalt auf Stadtbezirksebene
+- TOP 5.4.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP 5.5.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung
+- TOP 5.6.: Änderung der BA-Satzung; Erweiterung derZiffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung "inklusive zugehöriger Stellungnahme der zuständigen Denkmalschutzbehörde"
+- TOP 5.7.: Bauschweg 21, Gemarkung: Allach, Fl.Nr.: 341/4 Neubau eines Mehrfamilienhauses (5WE) mit 2 Duplexgaragen + Stellplatz und Vollzug der BaumschutzVO
+- TOP 5.8.: Behringstr. 109a, Gemarkung: Allach, Fl.Nr.; 186/0 Neubau eines Doppel- und eines Einfamilienhauses mit Garagen und Vollzug der BaumschutzVO
+- TOP 5.9.: Behringstr. 109a, Gemarkung:Allach, Fl.Nr.: 186/0 TEKTUR zu Neubau eines Doppel- und eines Einfamilienhauses mit Garage
+- TOP 5.10.: Lautenschlägerstr. , Gemarkung: Allach, Fl.Nr.: 1089/2 TEKTUR zu Neubau einer Wohnanlage (Haus 1-8 / 78 WE) mit Tiefgarage (114 Stpl.)
+- TOP 5.11.: Theodor-Fischer-Str. 79, Gemarkung: Untermenzing, Fl.Nr.: 1041/8 TEKTUR zu Neubau eines Mehrfamilienhauses mit TG
+- TOP 5.12.: Herbigstr. 4 , Gemarkung: Untermenzing, Fl.Nr.: 1049/6 Neubau eines Mehrfamilienhauses mit Garagen und Vollzug der BaumschutzVO
+- TOP 5.13.: Am Münchfeld 44, Gemarkung: Allach, Fl.Nr.: 1020/2 Nutzungsänderung einer Teilfläche des ehem. Diamalt Kesselhauses: Produktionsflächen zu Büro- und Verkaufsflächen
+- TOP 5.14.: Krauss-Maffei-Str. 11, Gemarkung: Allach, Fl.Nr.: 1220/7 Aufstellung von Containeranlagen, hier: 2.3 Sozialcontaineranlage EG/OG
+- TOP 5.15.: Neubau eines LIDL-Markts - Vorbescheid Georg-Reismüller-Str. 28 +28a, Gemarkung: Allach, Fl.Nr.: 1129/0
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.16: Hinweis / Ergänzung: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 (Sitzungsvorlage Nr. 07205)
+- TOP 6.2.: Beschluss des Bauausschusses vom 04.10.2016: Toiletten in öffentlichen Grünanlagen (Sitzungsvorlage Nr. 07087)
+- TOP 6.3.: Beschluss des Bauausschusses vom 25.10.2016: Aktion Saubere Stadt (Sitzungsvorlage Nr. 06637)
+- TOP 6.4.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.2016: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 (Sitzungsvorlage Nr. 07205)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016: a) Leben im Alter (Sitzungsvorlage Nr. 07222) b) Handlungsprogramm Mittlerer Ring; Wohnen am Ring (Sitzungsvorlage Nr. 06790) c) Veränderungen im Baurecht aufgrund der Beschleunigung des Asylverfahren (Sitzungsvorlage Nr. 07305) d) Beschlussvollzugskontrolle (Sitzungsvorlage Nr. 06610)
+- TOP 6.6.: Beschluss der Vollversammlung vom 28.09.2016: Schulbauoffensive (SBO) 2013/30; Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung (Sitzungsvorlage Nr. 05740)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Beschlussfassung über Neuauflage der Info-Broschüre Allach-Untermenzing Gruppenfoto BA-Mitglieder und Foto bei einer Sitzung für die Broschüre
+- TOP 7.2.: Das Referat für Bildung und Sport trifft die Bezirksausschüsse: 23.11.16 , 16:00 Uhr, Bayerstr. 28
+- TOP 7.3.: Bebauungsplan Nr. 2110, Pasteurstraße (südddlich), Bahnlinie München - Treuchtlingen (westlich), Ludwigsfelder Straße (nördlich) und Schöllstraße
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Direktorium vom 11.10.16: Erhöhung der Freibeträge für Aufwandsentschädigungen
+- TOP 9.2.: Schreiben Referat für Arbeit und Wirtschaft vom 05.10.2016: Anbindung der Waldkolonie an das öffentliche Nahverkehrsnetz
+- TOP 9.3.: Schreiben Referat für Gesundheit und Umwelt vom 06.10.16: Konkrete Konzepte und Maßnahmen gegen Feinstaub und Stickoxidbelastung; Messungen in Allach (BV-Empf. 01055) Zwischennachricht
+- TOP 9.4.: Schreiben Stadtwerke München vom 05.10.16: Stromprojekt Mühlangerstraße Netztrafostation (1. Bauabschnitt)
+- TOP 9.5.: Schreiben Stadtwerke München vom 10.10.16: Stromprojekt Parrrotstraße, Änderung im Terminablauf
+- TOP 9.6.: Schreiben Stadtwerke München vom 17.10.16: Stromprojekt Angerlohstraße Netztrafostation (1. Bauabschnitt)
+- TOP 9.7.: Schreiben Stadtwerke München vom 10.10.16, 17.10.16, 24.10.16: Baumaßnahmen
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (03.10.-09.10.16, 10.10.-16.10.16, 17.10.-23.10.16)
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.10.16: Information der BAs zum Programm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.10.16: Kieshalden Behringstraße und Stieglstraße
+- TOP 9.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.10.16: Ausgleichsmaßnahme Grundstück Am Lochholz
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.10.16: Regionale Wohnungsbaukonferenzen am 10.05.2017 und am 17.10.2018
+- TOP 9.13.: Schreiben Referat für Bildung und Sport vom 17.10.16: Öffnung der Schulhöfe und Schulsportanlagen; Beschluss vom 01.07.1992
+- TOP 9.14.: Schreiben Referat für Bildung und Sport vom 26.10.16: Gebundene Ganztagsschulklassen an Grundschulen Schuljahr 2016/17
+- TOP 9.15.: Schreiben Kulturreferat vom 10.10.16: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen
+- TOP 9.16.: Schreiben Kulturreferat vom 26.10.16: Stadtteilkulturzentrum Allach-Untermenzing
+- TOP 9.17.: Schreiben Sozialreferat vom 17.10.16: Piktogrammflyer AKIM
+- TOP 9.18.: Schreiben Sozialreferat vom 04.10.16, 17.10.16, 27.10.16: Antrag auf Zweckentfremdung von Wohnraum: Hausmannstr., Theodor-Fischer-Str., Herbigstr.
+- TOP 9.19.: Schreiben Kreisverwaltungsreferat vom 06.07.16: Ausdehnung des absoluten Haltverbotes am Mühlhölzlweg für die Müllabfuhr
+- TOP 9.20.: Schreiben Bühne 23 vom 04.10.16: Verwendungsnachweis Jazznacht Allach
+- TOP 9.21.: Schreiben Verein für Jugend-, Alten- und Familienpflege in Allach-Untermenzing e.V.: Kurzbericht Schulfrühstück Mittelschule Franz-Nißl-Straße
+- TOP 9.22.: Schreiben Referat für Stadtplanung und Bauordnung, Einzelfällungsanträge: Waldhornstr. 89, Hauseggerstr. 3, Friedrich-Zahn-Str. 4, Eversbuschstr. 32, Ramannstr. 33, Von-Kahr-Str. 41, Frickhingerweg 27, Am Gemeindewald 6
+- TOP 10: Nachtrag
+- TOP 10.1.: Unterausschuss Protokoll: Protokoll UA Kultur vom 25.10.16
+- TOP 10.2.: Bürgerpost an den BA: Fahrradstraßen
+- TOP 10.3.: Anhörungen: Franz-Töpsl-Weg 11, Gemarkung: Allach, Fl.Nr.: 692/8 Neubau eines Dreifamilienhauses mit Garagen
+- TOP 10.4.: Verschiedenes: Einladung RBS am 23.11.16, ca. 16:00-18:00 Uhr
+- TOP 10.5.: Antrag Seniorenbeirat bzgl. Gruppenfoto "Seniorenvertretung" in Stadtteilbroschüre
+- TOP 10.6.: Bürgerforum Altenpflege am 05.12.16 im alten Rathaus
+- TOP 10.7.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Ramannstr. 20, Allacher Str. 204
+- TOP 10.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.10.16: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben: Dachauer Str. 667
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.10.16: Bauanträge (24.10.-30.10.16)
+- TOP 10.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.10.16: Achwaldstr. 4, Fl.Nr.: 724/33, Gemarkung Allach Neubau eines Mehrfamilienhauses und zweier Einfamilinehäuser mit Tiefgarage - VORBESCHEID
+- TOP 10.11.: Schreiben Direktorium vom 31.10.16: Verwendungsnachweis Schulfrühstück
+- TOP 10.12.: Schreiben Stadtwerke München vom 31.10.16: Baumaßnahmen
+- TOP 10.13.: Schreiben Kreisverwaltungsreferat vom 02.11.16: Verlängerung Lochausener Str. Phase 2 und Terminverschiebung
+- TOP 10.14.: Schreiben Kreisverwaltungsreferat vom 25.08.16: Einrichtung einer Schulbushaltestelle in der Waldhornstraße für den Schülerverkehr zu den Münchner Regionalhäusern
+- TOP 10.15.: Schreiben Kreisverwaltungsreferat vom 31.10.16: Verkehrs- und Schulwegsicherheit Eversbuschstr. 29-29g und 33-37 Verkehrssicherheit in der Eversbuschstr. nördlich der Pasteurstr.
+- TOP 10.16.: Schreiben Kreisverwaltungsreferat vom 13.10.16: Einmündungsbereich Bauschingerstraße / Otto-Warburg-Straße / Rhoda-Erdmann-Straße
+- TOP 10.17.: Schreiben Kreisverwaltungsreferat vom 02.11.16: Protokoll vom Ortstermin Eversbuschstraße am 18.10.16
+- TOP 10.18.: Schreiben Verkehrsausschuss der Gemeinden nordwestlich Landkreis FFB vom 29.10.16 und 01.11.16: Auslassen von S-Bahn-Halten bei Verspätungen
+- TOP 10.19.: Antrag: Erstausbau der Menzinger Straße - frühzeitige Beteiligung der Anwohner/-innen
+- TOP 1: (E) Herstellung einer Gehbahn ab Eversbuschstr. 283 (ca. 200 m) Empfehlung Nr. 14-20 / E 01056 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 28.06.2016
+- TOP 2: (E) Bauliche Maßnahmen um das Befahren der Rad- und Fußwege im Paul-Ehrlich-Weg durch Pkws / Lkws zu verhindern Empfehlung Nr. 14-20 / E 01032 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 28.06.2016
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Bürgervereinigung Obermenzing e.V. Feuerwerk am 22.07.17 anlässlich der Feierlichkeiten 1200 Jahre Menzing
