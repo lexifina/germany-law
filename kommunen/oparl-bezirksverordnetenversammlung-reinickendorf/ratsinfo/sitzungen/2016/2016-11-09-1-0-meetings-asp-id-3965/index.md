@@ -1,0 +1,101 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-11-09T17:20:00+01:00
+- Ende: 2016-11-09T21:20:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3965
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3965
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=232411
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.1: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 9 GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 10 (1) GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.3: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 14 (3) GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 18 (2) GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 2: Wahl der stellv. Schriftführerinnen / Schriftführer in den Vorstand der BVV - gewählt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 3.1: 1. Einwohneranfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 3.2: 2. Einwohneranfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 4: Konsensliste - (offen)
+- TOP 4.1: Konsensliste für die 2. Sitzung der BVV am 09.11.2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.2: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.3: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.4: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.5: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.6: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.7: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.8: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.9: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.10: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - beantwortet
+- TOP 5.11: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - schriftlich beantwortet
+- TOP 5.12: Mündliche Anfrage für die 2. Sitzung der BVV am 09.11.2016 - schriftlich beantwortet
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Rent-A-Bike in Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Buslinie 124 Richtung Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Sekundarschulangebot ausbauen - vertagt
+- TOP 7.4: Bezirksplanung zur kurz- und mittelfristigen Unterbringung von Flüchtlingen in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Tätigkeit des Bezirksamts im Portfolio-Ausschuss des Liegenschaftsfonds / BIM - vertagt
+- TOP 7.6: Eine Uhr für das Fontanehaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Reinickendorf nicht ohne Strandbad Tegel - vertagt
+- TOP 7.8: Umleitungsstrecken für U6-Dammsanierung rechtzeitig abstimmen und frei halten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Übertragung Strandbad Tegel - vertagt
+- TOP 7.10: Flohmarkt Markstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Volkspark Wittenau umbenennen in Göschenpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Genehmigungsverfahren von Gebrauchtwarenmärkten mit sensibler Umfeldbetrachtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Unterstützung Netzwerk "Wir in Reinickendorf" - vertagt
+- TOP 7.14: Geschwindigkeit in der Frohnauer Straße stärker kontrollieren (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.15: Fußgängerüberweg Friederikestr. / Schwarzspechtweg (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.16: Eigentümerwechsel Märkisches Zentrum - vertagt
+- TOP 7.17: VDSL für ganz Reinickendorf (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.18: Bessere Einsicht an der Einmündung Heiligenseestraße / Am Südfeld (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.19: Stellwerk am S-Bahnhof Tegel sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Dauerbeleuchtung auf Flurbalkonen prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Straßenschäden in der Meteorstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: S-Bahn-Tunnel im Bahnhof Hermsdorf optisch aufwerten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Mehr Licht am Marie-Schlei-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Briefkasten in der Markstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: LKW-Durchgangsverkehr Meteorstraße unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Radarkontrollen auf dem Senftenberger Ring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Sechserbrücke barrierefrei herrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Taubenabwehr am Parkhaus MV instand setzen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.29: Trinkwasserbrunnen in öffentlichen Parkanlagen - vertagt
+- TOP 7.30: U8 endlich ins Märkische Viertel verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Bezirkliche Kooperation Flohmarkt Markstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Digitalwerkstatt - Mehr digitale Bildung für Kinder - vertagt
+- TOP 7.33: Radständer in der Nordmeile austauschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Gegenseitige Hinweise auf S- und U-Bahn in Tegel - vertagt
+- TOP 7.35: Casino-Turm denkmalschutzgerecht sanieren, nutzen und öffnen (als Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.36: Reinigung der Balustraden am Ludolfingerplatz und Zeltinger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.37: Fahrgäste auf S-Bahnhof Wittenau vor Taubenkot schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.38: Reinigung der Gräben im MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.39: Naturschutz und Mauergedenken - Angebote der deutschen Waldjugend am Berliner Mauerweg bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.40: Wartehäuschen für Busbenutzer am S-Bahnhof Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.41: Erweiterung der Kurzparkzone am S-Bahnhof Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.42: Ortsteilschild Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.43: Ortsteilschild Lübars - vertagt
+- TOP 7.44: Waldweg im Forst Jungfernheide attraktiv gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.45: Neue gleichstellungspolitische Ziele und Handlungsgrundlagen im Bereich Gender Mainstreaming/Budgeting des Bezirksamtes Reinickendorf - vertagt
+- TOP 7.46: Auswertung der eingegangenen Anregungen bzw. Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB am Bebauungsplanverfahren 12-58 für die Egellsstraße 21 (teilweise), Biedenkopfer Straße 42, 44 und 64, Sterkrader Straße 60 und 62 sowie einen Abschnitt der verlängerten Egellsstraße im Bezirk Reinickendorf, Ortsteil Tegel. - vertagt
+- TOP 7.47: Neubau einer Grundschule in Reinickendorf - Ost - vertagt
+- TOP 7.48: Verteilung der Geschäftsbereiche und Vertretung der Bezirksamtsmitglieder in ihren Geschäftsbereichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Turn- und Sporthallen gehören dem Sport! - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2015 - vertagt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: BVV für Erhalt von Arbeitsplätzen bei MAN in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: MAN-Standort in Berlin-Tegel erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Offenes Rathaus - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Weiterbau der U8 wieder auf die Tagesordnung setzen - ohne Änderungen in der BVV beschlossen
