@@ -1,0 +1,8 @@
+# TOP 8: Einbringung des Entwurfs des Nahverkehrsplans der Landeshauptstadt Düsseldorf
+
+- Sitzung: Bezirksvertretung 2 (2016-11-09)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/206715
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/83992
