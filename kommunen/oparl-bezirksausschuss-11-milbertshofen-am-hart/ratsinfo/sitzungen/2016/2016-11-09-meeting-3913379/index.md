@@ -1,0 +1,67 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2016-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3913379
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3913379
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Fachstelle gegen Rechtsextremismus zur Fachstelle gegen Extremismus erweitern
+- TOP 4.1.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 04 ? Schwabing West, 11 ? Milbertshofen-Am Hart und 12 ? Schwabing-Freimann 1) Satzungsbeschluss Erhaltungssatzung ?Milbertshofen? 2) Aufwertungsprozesse im Stadtbezirk auch künftig sozial verträglicher gestalten: Erhaltungssatzung Milbertshofen verlängern und weiterentwicklen BA-Antrags-Nr. 14-20 / B 02410 des Bezirksausschusses des Stadtbezirks 11 ? Milbertshofen-Am Hart vom 11.05.2016 Sitzungsvorlagen Nr. 14-20 / V 06634
+- TOP 4.1.: KVR: Schulwegsicherheit an der Torquato-Tasso-Straße
+- TOP 4.2.: Baureferat: Projektplanung Barrierefreie Bushaltestellen Weyprechtstraße / Hugo-Wolf-Straße - Haltestelle Harthof
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1.2.: Mehr Sitzgelegenheiten, Abfalleimer und Hundekotbeutel in Park- und Grünanlagen
+- TOP 3.4.: Festlegung der BA-Sitzungstermine 2017
+- TOP 7: Anträge
+- TOP 7.1.: SPD: Ersatz für kaputte Mülleimer in der Nordhaide
+- TOP 8: Anhörungen
+- TOP 8.1.: Kommunalreferat: WC-Konzept "Nette Toilette"
+- TOP 8.2.: KVR: Gewinnung neuer barrierefreier Wahllokale
+- TOP 8.3.: Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage
+- TOP 8.1.: Keferloherstr. 91 - 97 - Modernisierung mit Anbau von Personenaufzügen und Wohnungsbalkonen sowie Nachverdichtung mit Aufstockung von 83 WE und Neubau zweier Tiefgaragen
+- TOP 8.2.: Eulerstr. 29 - Neubau von vier Mehrfamilienhäusern (je 23 WE) mit TG sowie eines Bauhofs - Antrag auf Vorbescheid
+- TOP 8.3.: Moosacher Str. 80 - Erhöhung der Geschossfläche / Anpassung GFZ, Verkehrsanbindung Lerchenauer Straße, Umfahrt Parkhaus, Wertstoffhof im Bereich der "Fläche mit besonderen Entwicklungsmaßnahmen" - Antrag auf Vorbescheid
+- TOP 8.4.: Riesenfeldstraße 87 - Antrag auf Baumfällungen
+- TOP 8.5.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung
+- TOP 8.6.: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung "inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde"
+- TOP 8.7.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen - Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP 8.8.: Planfeststellung Elektronisches Stellwerk München-Milbertshofen/Freimann
+- TOP 8.1.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Frauenstädtstraße
+- TOP 8.2.: KVR: Curt-Mezger-Platz - Weihnachtszelt der Dankeskirche am 27.11.2016
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: KVR: Unveränderte Fortführung von Gaststättenbetrieben - "Red Diamond" - Max-Diamand-Str. 21 - "Riva" - Milbertshofener Str. 94 - "Pilsfarm" - Wenzelstr. 2
+- TOP 9.2.: BA-Budget: Verwendungsnachweise, Schriftverkehr, Sachberichte
+- TOP 9.3.: Direktorium: Erhöhung der Freibeträge für Aufwandsentschädigungen
+- TOP 9.1.: LBK: Bauvorhaben Schleißheimer Str. 247
+- TOP 9.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/57 und Bebauungsplan mit Grünordnung Nr. 1939d (BMW Forschung- und Innovationszentrum Nord) - Rathenaustraße (südlich), Knorrstraße (westlich), FIZ-Erweiterung Nord (nördlich) - ehemalige Kronprinz-Rupprecht-Kaserne und Teilbereich des ehemaligen Virginia-Depots - Planungsdarlegung vom 21.10.2016 mit 22.11.2016
+- TOP 9.3.: LBK: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 9.4.: RGU: Unterrichtung über Mobilfunkstandorte
+- TOP 9.1.: Schreiben der Leitung der Grund- und Mittelschule Bernaysstraße
+- TOP 9.2.: RBS: Situation der Mittagsbetreuungen in Münchner Schulen
+- TOP 9.1.: KVR: Verkehrsrechtliche Anordnung nach § 45 StVO: Kämpferstraße / Dientzenhoferstraße - Beschilderung mit Gefahrzeichen "Kinder" und Zusatzzeichen "Schulweg"
+- TOP 9.2.: KVR: Verkehrsrechtliche Anordnung nach § 45 StVO: Gegenläufiger Radweg Knorrstraße Westseite
+- TOP 10: Sonstiges
+- TOP 1: (E) Verbesserung der Fahrradabstellmöglichkeiten am U-Bahnhof Harthof Empfehlung Nr. 14-20 / E 01115 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 21.07.2016 - <div></div>
+- TOP 3: (E) Sauberhaltung von Gehwegen bei Grünflächenarbeiten Empfehlung Nr. 14-20 / E 01116 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 21.07.2016 - <div></div>
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
