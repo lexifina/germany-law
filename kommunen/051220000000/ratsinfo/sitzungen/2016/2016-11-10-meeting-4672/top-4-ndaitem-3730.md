@@ -1,0 +1,7 @@
+# TOP 4: Neuregelung zum Umsatzsteuerrecht § 2b UStG
+
+- Sitzung: Finanzausschuss (2016-11-10)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/3730
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/24741
