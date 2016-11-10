@@ -1,0 +1,56 @@
+# 6. Sitzung des Ausschusses für soziale Angelegenheiten
+
+- Körperschaft: Landkreis Erlangen-Höchstadt
+- Beginn: 2016-11-10T09:00:00+01:00
+- Ende: 2016-11-10T12:07:00+01:00
+- Ort: Sitzungssaal des Landratsamtes in Erlangen
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/organizations/gr/8
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/360
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/360
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Wortprotokoll: Niederschrift (GI, MI, BI) https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/downloadfiles/a/00020719.pdf
+
+## Tagesordnung
+
+- TOP 1: Umbesetzung des Seniorenbeirates des Landkreises Erlangen-Höchstadt - einstimmig beschlossen
+- TOP 2: Unterbringung von Asylbewerberinnen und Asylbewerbern im Landkreis - zur Kenntnis genommen
+- TOP 3: Anträge auf Kreiszuschüsse;
+- TOP 3.1: Anträge auf Kreiszuschüsse; Frauenzentrum Erlangen e.V. - einstimmig beschlossen
+- TOP 3.2: Anträge auf Kreiszuschüsse; Soziale Betriebe der Laufer Mühle gGmbH für den "LebensMittelPunkt" Höchstadt - mehrheitlich beschlossen
+- TOP 3.3: Anträge auf Kreiszuschüsse; Offene Tür Erlangen e.V. - einstimmig beschlossen
+- TOP 3.4: Anträge auf Kreiszuschüsse; Bayerisches Rotes Kreuz Kreisverband Erlangen-Höchstadt für die Förderung der Verbandstätigkeit - einstimmig beschlossen
+- TOP 3.5: Anträge auf Kreiszuschüsse; Diakonisches Werk Bamberg-Forchheim e.V. für die Asylsozialberatung in der Gemeinschaftsunterkunft in Höchstadt - einstimmig beschlossen
+- TOP 3.6: Diakonisches Werk Erlangen e.V. für
+- TOP 3.6.1: Anträge auf Kreiszuschüsse; Diakonisches Werk Erlangen e.V. für die Bahnhofsmission Erlangen - einstimmig beschlossen
+- TOP 3.6.2: Anträge auf Kreiszuschüsse, Diakonisches Werk Erlangen e.V. für den Bereich der Familienpflege - einstimmig beschlossen
+- TOP 3.6.3: Anträge auf Kreiszuschüsse, Diakonisches Werk Erlangen e.V. für die Förderung der Verbandstätigkeit - einstimmig beschlossen
+- TOP 3.6.4: Anträge auf Kreiszuschüsse; Diakonisches Werk Erlangen e.V. für die Erlanger Tafel - einstimmig beschlossen
+- TOP 3.6.5: Anträge auf Kreiszuschüsse, Diakonisches Werk Erlangen e.V. für die Förderung der Dorfhelferinnen - einstimmig beschlossen
+- TOP 3.6.6: Anträge auf Kreiszuschüsse, Diakonisches Werk Erlangen e.V. für die Förderung der Altenhilfe - einstimmig beschlossen
+- TOP 3.6.7: Anträge auf Kreiszuschüsse; Diakonisches Werk Erlangen e.V. für die Asylsozialberatung - einstimmig beschlossen
+- TOP 3.7: Anträge auf Kreiszuschüsse; Diakonieverein Eckental e.V. für die Eckentaler Tafel - zurückgestellt
+- TOP 3.8: Anträge auf Kreiszuschüsse; Notruf und Beratung für vergewaltigte Mädchen und Frauen e.V. - mehrheitlich beschlossen
+- TOP 3.9: Anträge auf Kreiszuschüsse; Arbeiterwohlfahrt - KV Erlangen-Höchstadt e.V. und Arbeiter-Samariter-Bund - RV Erlangen-Höchstadt e.V. für die Fachstelle für pflegende Angehörige - einstimmig beschlossen
+- TOP 3.10: Arbeiterwohlfahrt - KV Erlangen-Höchstadt e.V. für
+- TOP 3.10.1: Anträge auf Kreiszuschüsse; Arbeiterwohlfahrt - KV Erlangen-Höchstadt e.V. für die Förderung der Verbandstätigkeit - mehrheitlich beschlossen
+- TOP 3.10.2: Anträge auf Kreiszuschüsse; Arbeiterwohlfahrt - KV Erlangen-Höchstadt e.V. für die Migrationsberatung - zurückgestellt
+- TOP 3.11: Arbeiter-Samariter-Bund RV Erlangen-Höchstadt e.V. für
+- TOP 3.11.1: Anträge auf Kreiszuschüsse; Arbeiter-Samariter-Bund RV Erlangen-Höchstadt e.V. für die Asylsozialberatung - zurückgestellt
+- TOP 3.11.2: Anträge auf Kreiszuschüsse; Arbeiter-Samariter-Bund RV Erlangen-Höchstadt e.V. für die Migrationsberatung - zurückgestellt
+- TOP 3.12: Anträge auf Kreiszuschüsse; Paritätischer Wohlfahrtsverband - Bezirksverband Mittelfranken - einstimmig beschlossen
+- TOP 3.13: Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt/Aisch e.V. für
+- TOP 3.13.1: Anträge auf Kreiszuschüsse; Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt/Aisch e.V. für die Altenhilfe - zurückgestellt
+- TOP 3.13.2: Anträge auf Kreiszuschüsse; Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt/Aisch e.V. für die Verbandstätigkeit - zurückgestellt
+- TOP 3.13.3: Anträge auf Kreiszuschüsse; Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt/Aisch e.V. für die Dorfhelferinnen - zurückgestellt
+- TOP 3.13.4: Anträge auf Kreiszuschüsse; Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt/Aisch e.V. für die Asylsozialberatung - zurückgestellt
+- TOP 3.14: Anträge auf Kreiszuschüsse; Evangelisch-Lutherisches Kirchengemeindeamt Bamberg für die Dorfhelferinnenstation - einstimmig beschlossen
+- TOP 3.15: Anträge auf Kreiszuschüsse; Informations-, Beschwerde- und Schlichtungsstelle (IBS) - einstimmig beschlossen
+- TOP 3.16: Anträge auf Kreiszuschüsse; Arbeitslosenberatung Herzogenaurach - einstimmig beschlossen
+- TOP 3.17: Anträge auf Kreiszuschüsse; Verein zum Schutz misshandelter Frauen e.V. - mehrheitlich beschlossen
+- TOP 4: Durchführung der Asylsozialberatung, Migrationsberatung und Ehrenamtskoordination - Ermächtigung zur Zuschussgewährung und weiteres Vorgehen - einstimmig beschlossen
+- TOP 5: Durchführung der allgemeinen sozialen Beratung - Ermächtigung zur Verhandlungsführung und weiteres Vorgehen - einstimmig beschlossen
+- TOP 6: Rückforderung von Kreiszuschüssen;
+- TOP 6.1: Rückforderung von Kreiszuschüssen; Evangelisch-Lutherisches Kirchengemeindeamt Bamberg für die Dorfhelferinnenstation - einstimmig beschlossen
+- TOP 6.2: Rückforderung von Kreiszuschüssen; Offene Tür Erlangen e.V. für das Jahr 2015 - einstimmig beschlossen
+- TOP 7: Vorberatung des Haushalts 2017 - einstimmig beschlossen
