@@ -1,0 +1,67 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-11-14T16:03:00+01:00
+- Ende: 2016-11-14T19:12:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12745
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12745
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 04.11.16 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00199361.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00199951.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Ausschaffungen bzw. Abschiebungen seit Anfang 2015 - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Ausschaffungen bzw. Abschiebungen seit 2015" (VO/0684/16) vom 19.08.2016 - Entgegennahme ohne Beschluss
+- TOP 2.2: Maghrebiner als Flüchtlinge im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Maghrebiner als Flüchtlinge im Stadtgebiet" (VO/0686/16) vom 19.08.2016 - Entgegennahme ohne Beschluss
+- TOP 2.3: Jobcenter - Budget für Öffentlichkeitsarbeit - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE "Jobcenter - Budget für Öffentlichkeitsarbeit" (VO/0827/16) vom 21.10.2016 - Entgegennahme ohne Beschluss
+- TOP 2.4: Vertagt auf die Sitzung des Rates am 19.12.2016 - Jobcenter Widerspruchsbewältigung - vertagen
+- TOP 2.5: Postlaufzeiten bei Jobcenterbriefen - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE "Postlaufzeiten bei Jobcenterbriefen" (VO/0829/16) vom - Entgegennahme ohne Beschluss
+- TOP 2.6: Asylbewerber aus sicheren Herkunftsstaaten und sonstige ausreisepflichtige Asylbewerber - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Asylbewerber aus sicheren Herkunftsstaaten und sonstige ausreisepflichtige Asylbewerber" (VO/0839/16) vom 26.10.2016 - Entgegennahme ohne Beschluss
+- TOP 2.7: Gewalt gegen Asylbewerber, die religiösen Minderheiten angehören - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Gewalt gegen Asylbewerber, die religiösen Minderheiten angehören" (VO/0840/16) vom 26.10.2016 - Entgegennahme ohne Beschluss
+- TOP 2.8: Politische Informationen gegen Gebühren? - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Antwort auf die Anfrage der FDP-Fraktion "Politische Informationen gegen Gebühren?" (VO/0843/16) vom 28.10.2016 - Entgegennahme ohne Beschluss
+- TOP -: Politische Informationen gegen Gebühren
+- TOP 2.9: Lärm- und Luftschadstoffbelastungen an Landes- und Bundesstraßen - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 01.09.2016 "Lärm- und Luftschadstoffbelastungen an Landes- und Bundesstraßen" - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Beschlussqualität in Sachen Freigabe von Einbahnstraßen für den Radverkehr
+- TOP 3.2: Bürgerantrag für einen autofreien Tag, einen grünen Park am Döppersberg und ein Konzept für sichere Fuß- und Radwege zu weiterführenden Schulen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Gesundheitsversorgung von Flüchtlingen - Sachstandsbericht für Wuppertal - ungeändert beschlossen
+- TOP 4.2: Dringlichkeitsantrag - Planungssicherheit für verkaufsoffenen Sonntag schaffen - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Abgesetzt. Für erledigt erklärt. Unterjährige Änderung im Straßenverzeichnis 2016 - abgesetzt
+- TOP 5.2: Buslinie 643 – alle WSW-Kund*innen haben Recht auf Beförderung - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 7.2: 6. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2017 - ungeändert beschlossen
+- TOP 7.3: Nachtragshaushaltsplan 2017 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses für den Eigenbetrieb Wasser und Abwasser (WAW) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2015 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau einer städtischen Tageseinrichtung für Kinder an der Bromberger Straße - ungeändert beschlossen
+- TOP 10.2: Wuppertal 2025 - Projekt "Wuppertal als Fahrradstadt": Radabstellanlage am Döppersberg - ungeändert beschlossen
+- TOP 10.2.1: Fahrradboxen statt Radhaus - abgelehnt
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik - Entgegennahme ohne Beschluss
+- TOP 11.2: Übernahme von Trägeranteilen für neu geschaffene Betreuungsplätze in Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Besetzung der Verbandsversammlung des Wupperverbandes - Nachbenennung eines Delegierten - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.3: Vertretung der Gemeinde in Aufsichtsräten - Entgegennahme ohne Beschluss
