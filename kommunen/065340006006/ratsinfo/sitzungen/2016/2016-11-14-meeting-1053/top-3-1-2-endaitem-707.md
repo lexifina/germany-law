@@ -1,0 +1,7 @@
+# TOP 3.1.2: Auflösung des Heimatmuseums in Bürgeln
+
+- Sitzung: Gemeindevertretung (2016-11-14)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/707
+- Ergebnis: Kenntnisnahme                                                                                       
