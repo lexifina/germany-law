@@ -1,0 +1,99 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2016-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3800521
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3800521
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation in der Ossingerstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.3.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Beschaffung von Magnetrahmen (Direktorium, 16.09.16) (vertagt aus 10/16) - <div></div>
+- TOP 5.4.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Beschaffung eines Planschrankes (Direktorium, 16.09.16) (vertagt aus 10/16) - <div></div>
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017 (Kreisverwaltungsreferat, 27.09.16)
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.: Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage (Direktorium, 20.10.16)
+- TOP 6.4.: Beschluss des Kommunalausschusses vom 10.12.2015 zum WC-Konzept "Nette Toilette" in München Stellungnahme zur Beschlussvorlage des Kommunalreferates (Kommunalreferat, 06.10.16)
+- TOP 6.5.: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung "inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde", Antrag BA 1 Altstadt-Lehel vom 10.05.2016 (Direktorium, 26.10.16)
+- TOP 6.6.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung, Antrag BA 15 - Trudering-Riem vom 22.09.16 (Direktorium, 26.10.16)
+- TOP 6.7.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse (Direktorium, 25.10.16)
+- TOP 6.8.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest auf dem Canisiusplatz - abgesperrter Bereich am 03. und 04.12.2016 (Kreisverwaltungsreferat, 27.10.16)
+- TOP 6.9.: Nothkaufplatz - Spielflächenabgrenzung durch eine niedrige Hecke (Baureferat, 27.10.16)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Konrad-Dreher-Straße 6, 1 Feldahorn
+- TOP 7.2.: Marchioninistraße 15, 6 Pappeln
+- TOP 7.3.: Sonnenblumenstraße 62, 1 Kiefer
+- TOP 7.4.: Terofalstraße 79, 1 Silberahorn
+- TOP 7.5.: Fürstenrieder Straße 188, gem. Baumbestands- und Freiflächengestaltungsplänen Nrn. 18725 und 18727
+- TOP 7.6.: Würmtalstraße 94, 2 Birken
+- TOP 7.7.: Saalburgstraße 13, 1 Weißtanne
+- TOP 7.8.: Ludlstraße 18 - 22, 1 Silberahorn und 1 Feldahorn
+- TOP 7.9.: Violenstraße 6, 1 Eschen-Ahorn
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates: - vom 28.09.2016: 69 Bäume auf dem Waldfriedhof - vom 13.10.2016: 2 Bäume Würmtalstraße 126
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der SWM, hier: - Stromprojekt Haderunstraße, Änderung im Terminablauf (SWM, 10.10.16) - Fernwärmeprojekt Heiglhofstraße / Lupinenweg (SWM, 17.10.16) - Mehrspartenprojekt Silberdistelstraße (SWM, 20.10.16)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Am Hedernfeld 17 (Kreisverwaltungsreferat, 05.10.16)
+- TOP 8.3.: Übersicht Unterkünfte Flüchtlinge und Wohnungslose (Sozialreferat, 28.09.16)
+- TOP 8.4.: Erhöhung der Freibeträge für Aufwandsentschädigungen, Antrag des BA 18 (Direktorium, 11.10.16)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Pfingstrosenstraße (Sozialreferat, 17.10.16)
+- TOP 8.6.: Information der Bezirksausschüsse zum Programm "Bürgerinnen und Bürger gestalten ihre Stadt" (Referat für Stadtplanung und Bauordnung, 21.10.16)
+- TOP 8.7.: Arbeiten im Straßenraum: Ludlstraße 52 - 55, Fernwärme-Hausanschlüsse (Kreisverwaltungsreferat, 25.10.16)
+- TOP 8.8.: Gebundene Ganztagsschulklassen an Grundschulen im Schuljahr 2016/2017 (Referat für Bildung und Sport, 26.10.16)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Bolzplatz am Stiftsbogen 15 a (Baureferat, 20.10.16)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Bushaltestelle in der Würmtalstraße (MVG, 04.10.16)
+- TOP 10.2.: Vermüllung der Spielfläche Stiftsbogen / Schröfelhofstraße (Studentenwerk München, 25.10.16)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen (Kulturreferat, 10.10.16)
+- TOP 11.2.: Stadtteilkulturzentrum Guardini90, Raumnutzung (Münchner Volkshochschule, 14.10.16)
+- TOP 11.3.: Piktogrammflyer AKIM für Neu-Münchnerinnen und Neu-Münchner (Sozialreferat, 17.10.16)
+- TOP 11.4.: Kurzbericht zum "Spielkistl"-Einsatz in der Blumenau (REGSAM, 04.10.16)
+- TOP 11.5.: Das Referat für Bildung und Sport trifft die Bezirksausschüsse am Mittwoch, 23.11.2016 um 16.00 Uhr im RBS, Bayerstr. 28 (Referat für Bildung und Sport, 21.10.16)
+- TOP 11.6.: Bürgerforum Altenpflege am 05.12.2016 im alten Rathaus (Direktorium, Oktober 2016)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 20.07.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06236: Leistungsprogramm der MVG für die Fahrplanperiode 2017
+- TOP 12.2.: Beschluss vom 28.09.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05740: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06615: Bürgerbeteiligung stärken!
+- TOP 12.2.: Beschluss des Bauausschusses vom 04.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07087: Toiletten in öffentlichen Grünanlagen
+- TOP 12.1.: Beschluss des Bauausschusses vom 25.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06637: Aktion Saubere Stadt Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07305: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 zur Sitzugnsvorlage-Nr. 14-20 / V 07222: Leben im Alter Wohnen 2 Wohnungsgrundrisse für veränderbare Wohnungsgrößen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07001: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP)
+- TOP 12.1.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 12.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07115: Energienutzungsplan für München
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05253: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06894: Regionale Kooperation stärken (II) - A. Folgeprojekte Regionale Wohnungsbaukonferenzen B. Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsprojekte) C. Anträge und Empfehlungen
+- TOP 12.4.: Hinweis / Ergänzung vom 11.10.2016 und Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07205: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021 Änderung des Mehrjahresinvestitionsprogramms 2016 - 2020; Finanzierung
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06790: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms - Anpassung des Finanzierungsbedarfs - im Mehrjahresinvestitionsprogramm 2015 - 2019 - im Finanzhaushalt 2017 - Erfahrungsbericht
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 05.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07098: Bericht zur Wohnungssituation in München 2014 - 2015
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 26.10.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06610: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 - 30.06.2016
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.10.: Verlegung der Bücherbushaltestelle in Blumenau (Münchner Stadtbibliothek, 03.11.16)
+- TOP 6.11.: Bauleitplanung der Gemeinde Gräfelfing, B-Plan Nr. 26 B für die Erweiterung des Gewerbegebiets an der A 96 / St 2063 neu, Verfahren nach § 4 Abs. 2 BauGB (Referat für Stadtplanung und Bauordnung, 08.11.16)
+- TOP 6.12.: Veilchenstraße 18, Neubau des Kindergartens Fronleichnam (Referat für Stadtplanung und Bauordnung, 07.11.16)
+- TOP 7.10.: Gräfelfinger Straße 83 a, 2 Birken
+- TOP 7.11.: Veilchenstraße 18, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 21239
+- TOP 5.1.: Budget der Bezirksausschüsse, Caritasverband, Alten- und Service-zentrum Kleinhadern-Blumenau, Druck und Design des Seniorenführers für Hadern (Direktorium, 21.10.16) - <div></div>
+- TOP 5.2.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule an der Großhaderner Str. 50, Trommelworkshops zur Festigung der Klassengemeinschaft im Januar 2017 (Direktorium, 28.10.16) - <div></div>
+- TOP 3.1.: UA Bau und Wohnen
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
