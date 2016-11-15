@@ -1,0 +1,130 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2016-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3903937
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3903937
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Protokoll der September-Sitzung Protokoll der Oktober-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Zebrastreifen Mangfallplatz; Bürgerschreiben vom 13.10.2016 - <div>nach Antrag</div>
+- TOP 2.2.: Antrag auf Aufnahme der Straße auf der Seite des Griechenplatzes 3 in das Vollanschlussgebiet für die Straßenreinigung; Bürgerantrag vom 11.10.2016
+- TOP 2.3.: Gegen die geplante Sperrung der Hebenstreitstraße; Bürgerschreiben vom 08.10.2016
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung des BV Soyerhofstraße 17, Staatsbediensteten-Wohnungsbau, durch die STADIBAU GmbH
+- TOP 2.2.: Beschlussentwurf "Zukunftskonzept der Münchenstift GmbH"; Vorstellung der Planungen durch Vertreter des Sozialreferates und der Münchenstift GmbH (siehe auch TOP 3.4.4.1)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.: Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage; Zuleitung des Direktoriums vom 20.10.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.: Spiellandschaft Stadt e.V., Verwendungsnachweis für die Aktion "Erzähl mir was! Spiel mit mir!"
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; ÖPNV-Offensive IV Candidplatz, Haltestelle Candidplatz; Beschluss des BA 18 am 15.11.2016 (vertagt aus der Sitzung vom 18.10.2016)
+- TOP 3.1.: Angemessene Beteiligung der Betroffenen bei der Gestaltung des neuen MVV-Tarifs; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 (vertagt aus der Sitzung vom 18.10.2016) - <div>nach Antrag und Weiterleitung an alle BA's</div>
+- TOP 3.2.: Einrichtung einer Kurzparkzone im 18. Stadtteil Untergiesing-Harlaching vor der Filiale Hypovereinsbank München Harlaching; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 3.1.: Beschlussentwurf Regerbrücke; Anhörung des Referates für Stadtplanung und Bauordnung zum Entwurf mit der Bitte um Stellungnahme bis 30.11.2016
+- TOP 3.2.: Tegernseer Landstraße - Tempo 50 vom McGraw-Graben bis zum Wald; BV-Empfehlung Nr. 14-20 / E 00733 vom 12.11.2015; Schreiben des Direktoriums vom 17.10.2016 mit der Bitte um Stellungnahme
+- TOP 3.1.: Parkplatz-Markierung in der Alemannenstraße in Untergiesing; BA-Antrag Nr. 14-20 / B 02740 vom 16.08.2016; Antwortschreiben des KVR vom 19.10.2016 (positive Erledigung)
+- TOP 3.2.: Aufstellen von Schildern zur Parkdauerbegrenzung vor dem Ladengeschäft des Anwesens Autharistraße 6; BA-Antrag Nr. 14-20 / B 02733 vom 16.08.2016; Antwortschreiben des KVR vom 19.10.2016 (positive Erledigung)
+- TOP 3.3.: Freibadstraße in die Verkehrszählung aufnehmen; BA-Antrag Nr. 14-20 / B 02821 vom 20.09.2016 (positive Erledigung)
+- TOP 3.4.: Parksituation Weyarner Straße; BA-Antrag Nr. 14-20 / B 02722 vom 16.08.2016; Antwortschreiben des KVR vom 07.10.2016 (neutrale Erledigung)
+- TOP 3.5.: Schrotträder am Kolumbusplatz, U-Bahn-Aufgang Plattnerstraße, entfernen; BA-Antrag Nr. 14-20 / B 02833 vom 20.09.2016; Antwortschreiben des Baureferats vom 10.10.2016 (positive Erledigung)
+- TOP 3.6.: Hebenstreitstraße - dreimonatige testweise Sperrung; Verkehrszählung Freibad-/Pilgersheimer Straße und Plattner-/Humboldtstraße sowie temporäre Ahängung noch vor Baubeginn des Studentenwohnheims; BA-Antrag Nr. 14-20 / B 01575; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 06.10.2016 (positive Erledigung)
+- TOP 3.7.: Fahrradstellplätze an den U-Bahnstationen; BA-Antrag Nr. 14-20 / B 01895 vom 15.12.2015; Antwortschreiben des Baureferats-Tiefbau vom 04.10.2016 (positive Erledigung), mit der Bitte um Rückmeldung zur vorgeschlagenen Umwandlung des Kfz-Stellplatzes Jamnitzerstraße
+- TOP 3.8.: Umgestaltung Wettersteinplatz (Fahrradständer, MVG-Rad, Verkehrszeichen etc.); BA-Antrag Nr. 14-20 / B 02149 vom 15.03.2016; Antwortschreiben des Baureferats-Tiefbau vom 30.09.2016 (positive Erledigung)
+- TOP 3.9.: Regelung des Fußgängerüberwegs und der Zufahrt zum Parkplatz des Tierparks; BA-Antrag Nr. 14-20 / B 02636 vom 19.07.16; Antwortschreiben des KVR vom 11.10.2016 (negative Erledigung)
+- TOP 3.10.: Verkehrsberuhigende Maßnahmen für die Soyerhofstraße; Bürgerschreiben vom 10.08.2016; BA-Antrag Nr. 14-20 / B 02903 vom 20.09.16; Verkehrsberuhigte Zone mit Tempobeschränkung 30 und Zebrastreifen in der Soyerhofstraße; Bürgerschreiben vom 11.08.2016; BA-Antrag Nr. 14-20 / B 02904; Antwortschreiben des KVR vom 25.10.2016 (neutrale Erledigung)
+- TOP 3.11.: Ein Jahr Prüfung der neu umgestalteten Bushaltestelle Autharistraße / Seybothstraße auf Vor- und Nachteile; BA-Antrag Nr. 14-20 / B 02723 vom 16.08.2016; Antwortschreiben des Baureferats-Tiefbau vom 28.10.16 (neutrale Erledigung)
+- TOP 3.12.: Fragenkatalog zum barrierefreien Ausbau der Haltestelle Seyboth- / Ecke Autharistraße, Bus 139; BA-Antrag Nr. 14-20 / B 02724 vom 16.08.16; Antwortschreiben des Baureferats-Tiefbau vom 27.10.16 (neutrale Erledigung)
+- TOP 3.1.: Reichhardtweg; verkehrsrechtliche Anordnung nach § 45 StVO (Zusatzzeichen "Radfahrer frei"); Mitteilung des KVR
+- TOP 3.2.: Naupliastraße / St.-Magnus-Straße; Austausch der Lichtsignalanlage, Kreuzungsumbau zur Verbesserung der Nahmobilität und barrierefreier Ausbau der Bushaltestelle im 18. Stadtbezirk Untergiesing-Harlaching; Sitzungsvorlage Nr. 14-20 / V 06090; Beschluss des Bauausschusses vom 04.10.2016
+- TOP 3.1.: Bericht zum Ortstermin Wettersteinplatz (vertagt aus der Sitzung vom 18.10.2016)
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: 1. Aufstellung von Mülleimern am neugestalteten Claude Gelee Denkmal 2. Bereinigung des Wildwuchses am Hang vor dem Anna Kircherl; BA-Antrag Nr. 14-20 / B 02551 vom 21.06.2016; Antwortschreiben des Baureferats-Gartenbau vom 04.10.2016 (positive Erledigung)
+- TOP 3.1.: Energienutzungsplan für München; Sitzungsvorlagen Nr. 14-20 / V 07115; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 12.10.2016 (VB)
+- TOP 3.2.: Aktion Saubere Stadt; Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung; Stadtratsantrag Nr. 14-20 / A 01212; Sitzungsvorlage Nr. 14-20 / V 06637; Beschluss des Bauausschusses vom 25.10.2016 (SB)
+- TOP 3.3.: Toiletten in öffentlichen Grünanlagen; Folgebeschluss; Sitzungsvorlage Nr. 14-20 / V 07087; Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP 3.4.: Unterrichtungen der UNB im Vollzug der Baumschtzverordnung 3.3.6.2.1 Authariplatz 11; Bescheid vom 12.10.16 3.3.6.2.2 Herminde-Bland-Straße 4a; Bescheid vom 11.10.16 3.3.6.2.3 Prößlstraße 12; Bescheid vom 27.10.2016
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Neugestaltung des Spielplatzes "Am Hohen Weg" im 18. Stadtteil Untergiesing-Harlaching; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Münchenstift GmbH - Umsetzung des Zukunftskonzeptes mit Eigenkapitalzuführung für zwei Neubauten und Grundstücksübertragung - Verlängerung der Pachtverträge und Regelung des Bauunterhalts; Beschlussentwurf des Sozialreferates mit der Bitte um Stellungnahme zu Punkt 4.2 - Haus an der Tauernstraße (vertagt aus der Sitzung vom 18.10.2016)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Schulbauoffensive (SBO) 2013/30; Bedarfsentwickung und -planung für die öffentlichen Realschulen und Gymnasien - Fortschreibung; Beschluss des Bildungsausschusses vom 14.09.2016; Stellungnahme des BA 18 aus der Sitzung vom 20.09.2016; Antwortschreiben des RBS vom 26.10.2016 (neutrale Erledigung)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: 3.5.4.3 Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen; Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse; Schreiben des Direktoriums vom 25.10.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.2.: 3.5.4.4 Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung; BA-Antrag Nr. 14-20 / B 02847 des BA 15 vom 22.09.16; Schreiben des Direktoriums vom 26.10.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.3.: 3.5.4.5 Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung "inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde"; BA-Antrags-Nr. 14-20 / B 02359 des BA 1 vom 10.05.2016; Schreiben des Direktoriums vom 26.10.2016 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Grünwalder Straße 4, Kapazitätserweiterung Städt. Stadion an der Grünwalder Straße von 12.500 auf 15.000 Zuschauer - VORBESCHEID; Anhörung vom 14.09.2016 (vertagt aus der Sitzung vom 18.10.2016)
+- TOP 3.2.: Grünwalder Straße 4, Kapazitätserweiterung Städt. Stadion an der Grünwalder Straße von 12.500 auf 18.500 Zuschauer - VORBESCHEID; Anhörung vom 14.09.2016 (vertagt aus der Sitzung vom 18.10.2016)
+- TOP 3.3.: Säbener Str. 152 - 158, Errichtung eines Mehrfamilienhauses (27 WE) mit Tiefgarage; Anhörung vom 13.10.2016
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anfrage bezüglich des Anwesens Wilhelm-Kuhnert-Straße; BA-Antrag Nr. 14-20 / B 02718 vom 16.08.16; Antwortschreiben des Kommunalreferates vom 13.10.2016 (neutrale Erledigung)
+- TOP 3.2.: Anwesen Sachsenstraße 6 - Nachfrage beim Kommunalreferat bzgl. der Auflagen; BA-Antrag Nr. 14-20 / B 02270 vom 19.04.2016; Antwortschreiben des Kommunalreferates vom 05.10.2016 (neutrale Erledigung)
+- TOP 3.3.: Gewachsene Wirtschaftsstrukturen im Viertel erhalten und fördern; BA-Antrag Nr. 14-20 / B 02730 vom 16.08.2016; Antwortschreiben des RAW vom 18.10.2016 (neutrale Erledigung)
+- TOP 3.1.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 - 30.06.2016; Sitzungsvorlagen Nr. 14-20 / V 06610; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 3.2.: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren; Stadtratsantrag Nr. 14-20 / A 01449 vom 13.10.2015; Sitzungsvorlagen Nr. 14-20 / V 07305; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (SB)
+- TOP 3.3.: Handlungsprogramm Mittlerer Ring - Wohnen am Ring - Fortführung des Förderprogramms - Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015-2019 - im Finanzhaushalt 2017 - Erfahrungsbericht; Sitzungsvorlage Nr. 14-20 / V 06790; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (VB)
+- TOP 3.4.: Leben im Alter; Wohnen 2; Wohnungsgrundrisse für veränderbare Wohnungsgrößen; Stadtratsantrag Nr. 14-20 / A 02116 vom 12.05.2016; Sitzungsvorlage Nr. 14-20 / V 07222; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016 (SB)
+- TOP 3.5.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021; Änderung des Mehrjahresinvestitionsprogramms 2016-2020; Finanzierung; Sitzungsvorlagen Nr. 14-20 / V 07205; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.2016 (VB) zu 3.5.6.5 Hinweis / Ergänzung vom 11.10.2016
+- TOP 3.6.: Baufälle im 18. Stadtbezirk
+- TOP 3.7.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.7.1 Anwesen Mondstraße; Mitteilung vom 12.10.2016 3.5.6.7.2 Anwesen Pilgersheimer Straße; Mitteilung vom 11.10.2016 3.5.6.7.3 Anwesen Waldeckstraße; Mitteilung vom 10.10.2016
+- TOP 3.8.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.8.1 Anwesen Athener Straße; Mitteilung vom 21.10.2016 3.5.6.8.2 Anwesen Rabenkopfstraße; Mitteilung vom 20.10.2016 3.5.6.8.3 Anwesen St.-Magnus-Straße; Mitteilung vom 04.10.2016 3.5.6.8.4 Anwesen Athosstraße; Mitteilung vom 24.10.2016
+- TOP 3.1.: Athosstraße 1, Fl.Nr. 12876/2, Neubau dreier verbundener Stadthäuser mit 3 Carports; Stellungnahme des BA 18 vom 23.09.2016; Abdruck der Baugenehmigung vom 17.10.2016
+- TOP 3.2.: Grünwalder Str. 24, Fl.Nr. 12941/9; DG-Ausbau zu 9 Wohnungen; Stellungnahme des BA 18 vom 27.09.16; Abdruck der Baugenehmigung vom 14.10.2016
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Weihnachtsmarkt am Hans-Mielich-Platz vom 02.12. - 04.12.16; Zuleitung des KVR mit der Bitte um Stellungnahme bis 16.11.2016
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Instandsetzung Fußballplatz Rotbuchenstraße - Ausstattung mit Flutlichtanlage; Wunsch des BA 18 aus der September-Sitzung nach einem Ortstermin; Antwortschreiben des RBS vom 21.10.2016 (neutrale Erledigung)
+- TOP 4.2.: Erhöhung der Freibeträge für Aufwandsentschädigungen; BA-Antrag Nr. 14-20 / B 02720 vom 16.08.2016; Zwischennachricht des Direktoriums vom 11.10.2016
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
