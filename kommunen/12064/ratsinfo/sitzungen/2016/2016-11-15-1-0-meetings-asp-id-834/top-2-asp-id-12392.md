@@ -1,0 +1,6 @@
+# TOP 2: Vorstellung der Eckpunkte des Entwurfs zum Landesentwicklungsplan Hauptstadtregion (LEP HR)
+
+- Sitzung: 15. Sitzung des Ausschusses für Wirtschaft (2016-11-15)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=12392
