@@ -1,0 +1,53 @@
+# 9. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-11-15T10:10:00+01:00
+- Ende: 2016-11-15T12:05:00+01:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-WA-27
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-WA-27
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-WA-27
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-WA-27
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung des öffentlichen Teils der Niederschrift der Sitzung vom 06.09.2016
+- TOP 3: Bestellung von Vertreter/innen in den Gremien der Beteiligungen des RVR
+- TOP 4: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr
+- TOP 4.1: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Übersicht zur EU-Förderung für die Metropole Ruhr 2007 - 2013
+- TOP 4.2: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Grüne Infrastruktur Ruhr - Sachstandsbericht
+- TOP 4.3: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Konzept Ruhr / Wandel als Chance - Statusbericht 2016
+- TOP 5: Angelegenheiten der Ruhr Tourismus GmbH - Bericht über die Ergebnisentwicklung zum 30.09.2016
+- TOP 6: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH
+- TOP 6.1: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Bericht über die Ergebnisentwicklung zum 31.08.2016
+- TOP 6.2: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Gründung der Ruhr:HUB GmbH - Bericht zur Anzeigenbestätigung
+- TOP 7: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 7.1: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der ÖKODATA GmbH
+- TOP 7.2: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der Minegas GmbH
+- TOP 8: Angelegenheiten der Freizeitgesellschaften
+- TOP 8.1: Angelegenheiten der Freizeitgesellschaften - Sachstand aktueller Restrukturierungsprozess - Beschlussfassungen der kommunalen Mitgesellschafter
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Bericht über die Ergebnisentwicklung zum 30.09.2016
+- TOP 8.3: Angelegenheiten der Freizeitgesellschaften Sonderzuschuss für energetische Maßnahmen - Revierpark Nienhausen GmbH - Bau einer Brunnenanlage - Freizeitzentrum Kemnade GmbH - Sanierung des Seglerhauses
+- TOP 8.4: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH Änderung des Gesellschaftsvertrages sowie der Nebenabrede zum Gesellschaftsvertrag
+- TOP 9: Angelegenheiten der Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2015
+- TOP 10: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2015
+- TOP 11: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2015 Beschluss über die Zuführung in die Ausgleichrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 12: Haushalt 2017 - Haushalt 2017 für den Bereich Wirtschaftsführung und das Referat Europäische und regionale Netzwerke Ruhr sowie die Stabstelle Gleichstellung
+- TOP 13: Route der Industriekultur / Emscher Landschaftspark – RVR-Vertrag mit dem Land NRW
+- TOP 14: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2015 nach der Gemeindeordnung NRW (GO NRW)
+- TOP 15: Anträge
+- TOP 16: Anfragen und Mitteilungen
+- TOP 16.1: Anfragen und Mitteilungen - Beantwortung der Anfrage der CDU-Fraktion im Verbandsausschuss am 19.09.2016: Einsatz einer Schafherde zur Pflege der Grünflächen im Freizeitzentrum Kemnade
+- TOP 16.2: Anfragen und Mitteilungen - Digitale Metropole Ruhr
+- TOP 16.3: Jahresabschluss der ecce GmbH zum 31.12.2015
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
