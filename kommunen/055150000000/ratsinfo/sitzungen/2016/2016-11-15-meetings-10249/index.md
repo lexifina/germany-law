@@ -1,0 +1,56 @@
+# 19. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-11-15T17:03:00+01:00
+- Ende: 2016-11-15T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10249
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10249
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00396334.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Berichte
+- TOP 2.1: Quartier Moldrickx: Vorstellung Wettbewerbsergebnisse - zur Kenntnis genommen
+- TOP 2.2: Bürgerumfrage 2016: Zentrale Ergebnisse zum Fragenkomplex "Parks und Grünanlagen" - zur Kenntnis genommen
+- TOP 2.3: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 2.4: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2015 - zur Kenntnis genommen
+- TOP 2.5: Anhörungsbeschlüsse der letzten Sitzung/en
+- TOP 3: Anhörungen
+- TOP 3.1: Gewerbeflächenentwicklungskonzept Münster - einstimmig beschlossen
+- TOP 3.2: Anträge zur Erarbeitung von Stadtteilentwicklungskonzepten bzw. Durchführung von Stadtteilentwicklungswerkstätten - einstimmig beschlossen
+- TOP 3.3: Gimbter Straße (K 21) – Ausbau eines gemeinsamen Geh- und Radweges zwischen Am Hangkamp und Stadtgrenze (Aa) - einstimmig beschlossen
+- TOP 3.4: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Nord - einstimmig beschlossen
+- TOP 3.5: Änderung der Bädertarife und der Tarifstruktur für die städtischen Hallen- und Freibäder - von der Tagesordnung abgesetzt
+- TOP 3.6: Ausweitung der Öffnungszeiten in den städtischen Hallenbädern - von der Tagesordnung abgesetzt
+- TOP 3.7: Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster ab dem 01.01.2017 - einstimmig beschlossen
+- TOP 4: Entscheidungen
+- TOP 4.1: Bestellung einer Trägervertreterin/eines Trägervertreters für die städtische Kindertageseinrichtung Am Edelbach, Coerdestiege 15 - einstimmig geändert beschlossen
+- TOP 4.2: Straßenbenennung Hanns-Wienhausen-Platz - einstimmig beschlossen
+- TOP 4.3: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bereich Nord - einstimmig beschlossen
+- TOP 4.4: Wiederwahl der stellvertretenden Schiedsperson für den Bezirk 9 Münster-Sprakel - einstimmig beschlossen
+- TOP 4.5: Unterhaltung der Grundstücke und baulichen Anlagen 2017 im Stadtbezirk Nord, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 4.6: Sanierung von Spielplätzen im Stadtbezirk Münster-Nord -Festlegung der Reihenfolge 2017- Grundlage für die Haushaltsberatung 2017 - einstimmig beschlossen
+- TOP 4.7: Sanierung des Schulhofes Melanchthonschule im Stadtbezirk Münster-Nord - einstimmig beschlossen
+- TOP 5: Haushaltsberatungen
+- TOP 5.1: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2017 unter Berücksichtigung der Veränderungsblätter - ohne Beschlussfassung geschoben
+- TOP 5.2: Aufteilung der frei verfügbaren Haushaltsmittel der Bezirksvertretung Münster-Nord für das Haushaltsjahr 2017
+- TOP 5.2.1: Antrag zu den frei verfügbaren Haushaltsmitteln 2017 (Produktgruppe 0101) - einstimmig beschlossen
+- TOP 6: Anfragen/Anträge/Anregungen
+- TOP 6.1: Haushaltsentwurf 2017 - zur Kenntnis genommen
+- TOP 6.2: Mietbefreiung der Bürgervereinigung Kinderhaus - eingebracht
+- TOP 6.3: 5. Bauabschnitt Bürgerhaus Kinderhaus - eingebracht
+- TOP 6.4: Stadtteilentwicklungskonzept Kinderhaus auf den Weg bringen - eingebracht
+- TOP 6.5: Tempo 30, besonders vor Grundschulen und Kindertagesstätten, für mehr Sicherheit im Stadtbezirk Nord - einstimmig beschlossen
+- TOP 6.6: Leitborde am Parkplatz Idenbrockplatz - mehrheitlich abgelehnt
+- TOP 6.7: Auslaufen aller freiwilligen Zuschüsse zum 31.12.2017 - mehrheitlich abgelehnt
+- TOP 6.8: Wiederherstellung der Verkehrsberuhigung im Eimermacherweg - mehrheitlich abgelehnt
+- TOP 6.9: Beleuchtung des Fußweges zwischen Wangeroogeweg und Kanalstraße - einstimmig beschlossen
+- TOP 6.10: Schaffung neuer Parkmöglichkeiten im Bereich der Königsberger Straße - einstimmig beschlossen
+- TOP 7: Stellungnahmen der Verwaltung zu Anträgen und Anregungen der Bezirksvertretung
+- TOP 8: Stellungnahmen der Verwaltung zu Anfragen von Mitgliedern der Bezirksvertretung
+- TOP 9: Verschiedenes
