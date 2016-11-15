@@ -1,0 +1,109 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779649
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779649
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 29.09.2016 Verkehr in der Georgenstraße
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 06.10.2016 Lärmbelästigung auf dem Königsplatz durch Tanzveranstaltungen
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 17.10.2016 Radfahren auf den Gehwegen der Maxvorstadt
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Fahrradfahren entgegen der Einbahnstraßenregelung in der Blütenstraße erlauben
+- TOP .2.: Wohnbebauung am ehemaligen MAHAG Gelände endlich ermöglichen
+- TOP .4.: Verbesserung für den Radverkehr (2): Erstellung eines generellen Radkonzepts am Stiglmaierpltz
+- TOP .5.: "Coffe-to-go-again" Pilotprojekt der AWM in der Maxvorstadt
+- TOP .6.: Referat für Stadtplanung und Bauordnung Rückbau der Radwege in der Katharina-von-Bora-Straße und Umbau der Kreuzung Katharina-von-Bora-Straße/Karlstraße
+- TOP .7.: Einsichtnahme in die Pläne zur Sanierung des Thomas-Wimmer-Schulzentrums Terminvorschläge des Referates für Bildung und Sport BA-Antrag Nr. 14-20 / 02362 des BA 3
+- TOP .1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 31.10.2016 Auflagen der Abwendungserklärung in Erhaltungssatzungsgebieten verstärkt kontrollieren und die Einhaltung einfordern
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Bauvorhaben: 39., 40., 41., 42., 43. KW
+- TOP .2.: Liste der Abgeschlossenheitsbescheinigungen: 38., 39. KW
+- TOP .3.: Referat für Stadtplanung und Bauordnung Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB Satzungsbeschluss Erhaltungssatzung ?Maxvorstadt?
+- TOP .4.: Schönfeldstraße 8 ? 10 Aufstockung eines Wohnhauses, Abbruch des Dachstuhls mit Speicherflächen sowie einer ausgebauten DG-Wohneinheit, Aufstockung für acht neue Wohneinheiten mit Auf- zug und Dachgauben (Variante 1 und 2), Vorbescheid
+- TOP .5.: Linprunstraße 40 Neubau eines Wohngebäudes mit Tiefgarage und Hinterhaus ? Tektur
+- TOP .6.: Königinstraße 26 Neubau K 26 - Vorbescheid
+- TOP .7.: Referat für Stadtplanung, Beschlussvorlage ? Entwurf Bebauungsplan mit Grünordnung Nr. 2089, Pappenheimstraße (westlich) zwischen Marsplatz und Blutenburgstraße (Teiländerung des Bebauungsplanes Nr. 1466)
+- TOP .8.: Heßstraße 14 Aufstockung Vordergebäude, Neubau Rückgebäude - Vorbescheid
+- TOP .9.: Türkenstraße 52 und 54 Neubau Vorder- und Rückgebäude mit Wohnnutzung, Gastronomie und Tiefgarage
+- TOP .10.: Amalienstraße 93 Neubau eines Wohngebäudes (22 WE) mit Ladeneinheit und Tiefgarage ? Tektur - jetzt: 18 Wohneinheiten
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Schwindstraße 18, ein Ahorn
+- TOP .2.: Josephsplatz 8, eine Birke, eine Kiefer
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung Energienutzungsplan für München Sitzungsvorlage Nr. 14-20/ V 07115 Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 21.09.2016
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Fällungsantrag Türkenstraße 32, Ablehnungsbescheid
+- TOP .3.: Direktorium Fragen zur aktuellen Situation des Laubholzbockkäfers im Stadtbezirk Bogenhausen BA-Antrag Nr. 14-20 / B 02697 des BA 13 Bogenhausen vom 12.07.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Handlungsprogramm Mittlerer Ring, Wohnen am Ring Sitzungsvorlage Nr. 14-20 / V 06790 Beschluss des Auschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren Antrag Nr. 14-20 / A 01449 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürger- beteiligung vom 13.10.2015 Sitzungsvorlage Nr. 14-20 / V 7305 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP .6.: Referat für Stadtplanung und Bauordnung Wohnungspolitisches Handlungsprogramm ?Wohnen in München VI? 2017 ? 20121 Änderung des Mehrjahresinvestitionsprogramms 2016 ? 2020; Finanzierung Sitzungsvorlage Nr. 14-20 / V 07205 Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung, des Sozialausschusses, des Kommunalausschusses und des Finanzausschusses vom 26.10.2016
+- TOP .7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Beschlussvollzugskontrolle (VBK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadt- rates im Zeitraum vom 01.01.2016 bis 30.06.2016 Sitzungsvorlage Nr. 14 ? 20 / V 06610 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP .8.: Baureferat Realisierungswettbewerb für den Bereich Altstadtring Nordwest, Gabelsbergerstraße mit Eingang zum Kunstareal Antrag Nr. 14-20 / A 02127 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürger- beteiligung vom 13.05.2016
+- TOP .1.: Antrag der SPD im BA 3 vom 27.10.2016 Einhaltung der zulässigen Höchstgeschwindigkeit im Altstadtringtunnel
+- TOP .2.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 31.10.2016 Markierung Fahrradweg auf der östlichen Fahrspur des Oskar-von-Miller-Rings zwischen Brienner Straße und Gabelsbergerstraße ausführen
+- TOP .3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 31.10.2016 Einführung Tempo 30 in der Sandstraße zwischen Nymphenburger und Dachauer Straße zum Schutze der Kindergartenkinder
+- TOP .4.: Antrag der FDP im BA 3 vom 02.11.2016 Brunnen im Alten Nördlichen Friedhof
+- TOP .5.: Antrag der CSU im BA 3 vom 02.11.2016 Delphinbrunnen auf dem sog. ?Norkauer-Platz? Dachauer Straße / Augustenstraße
+- TOP .2.1: Verkehr
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: MVG-Radstation am Königsplatz ? Ortstermin am 05.10.2016 vertagt aus der Sitzung vom 11.10.2016 (Tischvorlage TOP C 2.2.4)
+- TOP .2.: Kreisverwaltungsreferat, Sondernutzungserlaubnis a) fünf Zeitungsentnahmegeräte vor den Anwesen Ludiwgstraße 27, Seite Schellingstraße; Geschwister-Scholl-Platz 1, Seite Ludwigstraße; Prof.-Huber-Platz 2, Seite Ludwigstraße; Theresienstraße 61, Seite Theresienstraße und Theresienstraße 41, Seite Barer Straße
+- TOP .3.: Kreisverwaltungsreferat, Sondernutzungserlaubnis Christbaumverkaufsplatz in der Veterinärstraße 13 (am östlichen Ende des Straßenbegleitgrüns)
+- TOP .2.3: Gaststätten
+- TOP .1.: Augustenstraße 1, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Kommunalreferat, Beschlussvorlage Öffentliche WC-Anlagen in München: ?Nette Toilette? vorgesehen für den Kommunalausschuss am 27.10.2016
+- TOP .3.: Hiltenspergerstraße 8, Teilwiderruf einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Strohsterne in den Bäumen des Alten Botanischen Gartens vom 27.11. bis 06.01.2017
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung eines allgemeinen Behindertenparkplatzes in der Brienner Straße 55
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung eines allgemeinen Behindertenparkplatzes in der Seidlstraße 23
+- TOP .3.: Baureferat Aktion Saubere Stadt; Wiederholung der Kampagne für ?Rein. Und Sauber?, das städt. Servicetelefon gegen Vermüllung Sitzungsvorlage Nr. 14-20 / V 06637 Beschluss des Bauausschusses vom 25.10.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung Vertiefte Machbarkeitsuntersuchung für das Pilotprojekt ?schnelle Radverbindung für den Münchner Norden? Sitzungsvorlage Nr. 14-20 / V 06451 Beschluss der Vollversammlung des Stadtrates vom 19.10.2016
+- TOP .5.: Referat für Gesundheit und Umwelt Vollzug des Bundesimmissionsschutzgesetzes (BImSchG), Ausnahmezulassung für Arbeiten an Anlagen des öffentlichen Personennahverkehrs (ÖPNV)
+- TOP .6.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Arbeiten im Straßenraum Brienner Straße zwischen Augusten- und Luisenstraße Neuverlegung einer Fernwärmeleitung, Bauphasen 3 und 3 a (Luisen-/Brienner Straße9
+- TOP .7.: Kreisverwaltungsreferat, Verkehrsmanagement, Großbaustellen Bahnhofplatz u.a., Bauphase 1 a mit Sperrung Bahnhofplatz West
+- TOP .8.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Heßstraße 2 bis 8, Arbeiten im Straßenraum, Verlegen einer Fernwärmeleitung
+- TOP .9.: Baureferat, Temporäre Kunst im öffentlichen Raum ? UTOPIA TOOLBOX ? auf dem Geschwister-Scholl-Platz und vor der Markus-Kirche in der Gabelsbergerstraße Eilentscheidung des Vorsitzenden vom 19.10.2016: Zustimmung
+- TOP .10.: Baureferat, Beschlussvorlage Toiletten in öffentlichen Grünanlagen Sitzungsvorlage Nr. 14- 20 / V 07087 Beschluss des Bauausschusses vom 04.10.2016
+- TOP .11.: Kreisverwaltungsreferat, Eilentscheidung Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz vom 24.11. bis 23.12.2016 Eilentscheidung des Vorsitzenden vom 20.10.2016: Zustimmung
+- TOP .12.: Baumaßnahmen der Stadtwerke a) Gabelsbergerstraße 26, Fernwärmeinstandsetzung b) Kaubachstraße 29 a, Strom c) Akademiestraße 7, Fernwärme
+- TOP .13.: Kreisverwaltungsreferat verkehrsaufsichtliche Erlaubnis Schönfeldstsraße24, Seite Hahnenstraße
+- TOP .14.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anfahrtszone für Busse des Stadtugendamtes in der Marsstraße 19
+- TOP .15.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Änderung des Zeitzusatzes an der Schulbushaltestelle Türkenstraße 68
+- TOP .1.: Antrag der CSU im BA 3 vom 10.09.2016 Freizügigkeitsrecht in der Maxvorstadt konsequent anwenden
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Leben im Alter, Wohnen 2, Wohnungsgrundrisse für veränderbare Wohnungsgrößen Antrag Nr. 14-20 / A 02116 div. Stadtratsmitglieder vom 12.05.2016 Sitzungsvorlage Nr. 14-20 / V 07222 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP .2.: Direktorium, Budget Initiative Wohlstandsbank, Kunstobjekt Wohlstandsbank, Verlängerung des Bewilligungs- zeitraums bis 31.03.2017
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Vorstellung und Einführung der Kooperations-Plattform ?Alfresco? durch das Direktorium D-III, IT-Strategie und -Steuerung
+- TOP .2.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Ent- scheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 1 (Abschnitt Referat für Bildung und Sport) BA-Satzung ?Mittel- und langfristige Planungskonzepte zur Schul- und Kindertagesstättenversorgung? in ein Anhörungsrecht BA-Antrag Nr. 14-20 / B 01092 des BA 16 Ramersdorf-Perlach vom 16.04.2015
+- TOP .3.: Kreisverwaltungsreferat, Wahlen und Abstimmungen Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017 Aktueller Sachstand ? weitere Vorschläge des BA?
+- TOP .4.: Direktorium Erhöhung der Freibeträge für Aufwandsentschädigungen BA-Antrag Nr. 14-20 / B 02720 des BA 18 vom 16.08.2016
+- TOP .5.: Direktorium, Entwurf einer Beschlussvorlage Bürgerhaushalt auf Stadtbezirksebene
+- TOP .6.: Direktorium, Anhörung Änderung der Geschäftsordnung des Stadtrates, Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP .7.: Direktorium, Anhörung a) Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutz- behörde? BA-Antrag Nr. 14-20 / B 02359 des BA 1 Altstadt-Lehel vom 10.05.2016 b) Änderung der BA-Satzung: Anhörungsrecht der Bezirksausschüsse bei Befreiung von der Stellplatzsatzung BA-Antrag Nr. 14-20 / B 02847 des BA 15 Trudering-Riem vom 22.09.2016 c) Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP .8.: Veranstaltung des Baureferats am Josephsplatz und Kinder- und Bürgerfest 2017
+- TOP .9.: Schaukästen des BA 3 ? Arcis-/Brienner Straße; Stiglmaierplatz und Mailingerstraße
+- TOP .10.: Antrag des BA 3 ? Abrechnung der Sitzungsgelder
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .3.: Baureferat Aufrüstung einer Sitzbank am Klaus-Mann-Platz mit einer Rückenlehne BA-Antrag Nr. 14-20 / B 02625 des BA 3 vom 12.07.2016
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiativ Gruppe - Interkulturelle Begegnung und Bildung e.V. Konzertreihe "TAKTVOLL" vom 14.10.2016 ? 24.03.2017
