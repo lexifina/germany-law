@@ -1,0 +1,67 @@
+# ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-11-16T17:30:00+01:00
+- Ende: 2016-11-16T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5235
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5235
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=134522
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Bezirksstadtrates - in der BVV abgelehnt
+- TOP 1.9: Wahl eines Bezirksstadtrates - gewählt
+- TOP 1.10: Wahl des Beisitzers - im Ausschuss abgelehnt
+- TOP 1.11: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2015 - überwiesen
+- TOP 1.12: Ausschussbildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Sitzungsplan der BVV Pankow von Berlin November 2016 bis März 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Änderung der Aufstellordnung der Stellplätze in der Anton-Saefkow-Straße - überwiesen
+- TOP 1.15: Städtebauliche Entwicklung des Angers von Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Überprüfung der Bezirksverordneten zur Feststellung einer hauptamtlichen oder inoffiziellen Tätigkeit für das MfS/ AfNS - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Verkehrsanbindung des Stadtquartiers „Wilhelmsruher Tor“ / B-Plan 3-18 - überwiesen
+- TOP 1.18: Schulwegsicherheit an der Hauptstraße und der Berliner Straße in Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Mehr Aufenthaltsqualität und Lebendigkeit für die Gustav-Adolf-Straße und den Caligari-Platz - überwiesen
+- TOP 1.20: Verkehrsberuhigung im Areal Parkstraße/ Elfenallee/ Eddastraße/ Chamissostraße - überwiesen
+- TOP 1.21: Keine Sondernutzungsgebühren und keine Gebühren für Verwaltungsakte im Zusammenhang mit von gemeinnützigen Organisationen durchgeführten Festen - überwiesen
+- TOP 1.22: Budgetzuweisung für Lehr- und Lernmittel für Schulen des Bezirks aufstocken - überwiesen
+- TOP 1.23: Durchsetzung der Parkordnung im Pölnitzweg - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Kultur- und Bildungsentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2.1: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Bürger_innenfreundlichkeit erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Fahrplan der Tram M10 einhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Mehr Transparenz in dem örtlichen Beirat des JobCenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Verbesserung der Haltestellen- und Umsteigesituation einschließlich Aufstellung einer Wartehalle im Haltestellenbereich Rosenthal Nord - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Wohnstraßen im Kiez um den Arnimplatz von Umleitungsverkehren entlasten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Entwicklung des Areals um den Arkenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Müllsammelbehälter in der Hermann-Blankenstein-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Freihaltung einer Straßenbahntrasse Michelangelostraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Behutsame Nachverdichtung an der Michelangelostraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Botanischer Volkspark Blankenfelde – Verhandlungen mit Grün Berlin aussetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Dauer von Miet- und Nutzungsverträgen in landeseigenen Erholungsanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Nachweis der im 1.Halbjahr 2016 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Verteilung der Erträge der Sammelstiftung Kreuzberg 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: "Vertiefungskonzept Grüne Stadt 2015" im Rahmen des ISEKs Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Einstellung des Verfahrens zur Aufstellung des Bebauungsplans 3-31 B für das Gelände zwischen Eberswalder Straße, Schönhauser Allee, Kastanienenallee und Oderberger Straße mit Ausnahme der Grundstücke Oderberger Straße 19 und Kastanienallee 10 - 12 (teilweise) im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Benennung eines neuen privaten Erschließungsweges (Privatstraße) an der Straße Am Friedrichshain in Am Märchenbrunnen im Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Benennung einer neuen privaten Erschließungsstraße (Privatstraße) an der Wackenbergstraße / Grumbkowstraße in Karlinekenweg im Ortsteil Niederschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplan 3-50 für die Grundstücke Breite Straße 44 – 48 und Hadlichstraße 31 – 38 sowie für einen Abschnitt der Hadlichstraße vom Grundstück Hadlichstraße 33 bis zum Grundstück Hadlichstraße 38 im Bezirk Pankow, Ortsteil Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplan 3-25 für die Grundstücke Oderberger Straße 19 sowie Kastanienallee 10-12 (teilweise) im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Festlegung der Beauftragten für den Haushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Geschäftsverteilung und Vertretungsregelung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennung der öffentlichen Grünanlage im Ortsteil Pankow in "Paracelsusplatz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Flächennutzungsplan Lfd. Nr.05/16 - Nachnutzung ehemaliger Rangierbahnhof Pankow (Pankow) Bezirkliche Stellungnahme im Rahmen der frühzeitigen Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gemäß §4 Abs. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
