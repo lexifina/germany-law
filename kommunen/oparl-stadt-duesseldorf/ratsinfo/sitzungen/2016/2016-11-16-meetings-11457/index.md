@@ -1,0 +1,55 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-11-16T17:00:00+01:00
+- Ende: 2016-11-16T20:25:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11457
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11457
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279539.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279539.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279539.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Kapazitätserweiterung Flughafen DUS
+- TOP 3: Schallschutzgutachten In der Nießdonk
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Grundschule Max-Halbe-Straße 14, Erhöhung der Zügigkeit von zwei auf drei Züge - einstimmig beschlossen
+- TOP 6: Einbringung des Entwurfs des Nahverkehrsplans der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 9: Anfrage SPD: Unterrather Tor - schriftlich beantwortet
+- TOP 10: Anfrage SPD: Haltestelle Am Röttchen - schriftlich beantwortet
+- TOP 11: Anfrage CDU: Theodorstraße 366 - schriftlich beantwortet
+- TOP 12: Anfrage SPD-Fraktion: Verkehrsführung Gartenstadt Reitzenstein - schriftlich beantwortet
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage CDU-Fraktion: Städtische KiTas im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 16: Anfrage CDU-Fraktion: Spielhallen im Bezirk 6 - schriftlich beantwortet
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage Fraktion BÜNDNIS 90/DIE GRÜNEN: Möbelhaus Theodorstraße - vertagt
+- TOP 19: Anfrage Fraktion BÜNDNIS 90/DIE GRÜNEN: Aktivitäten Tour de France - schriftlich beantwortet
+- TOP 20: Antrag BÜNDNIS 90/DIE GRÜNEN: Anpassung Straßenbahnkapazität - einstimmig beschlossen
+- TOP 21: Antrag CDU-Fraktion: Radschläger-Skulptur - einstimmig beschlossen
+- TOP 22: Antrag FDP-Fraktion, CDU-Fraktion + Fraktion BÜNDNIS 90/DIE GRÜNEN: Sitzbänke Wilhelm-Raabe-Straße - einstimmig beschlossen
+- TOP 23: Antrag SPD-Fraktion: Fahrradständer Flughafenbahnhof - einstimmig beschlossen
+- TOP 24: Antrag SPD-Fraktion: Fahrradständer Bahnhof Unterrath S - einstimmig beschlossen
+- TOP 25: Antrag CDU-Fraktion: Verkehrsberuhigung In der Nießdonk - einstimmig beschlossen
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Verlängerung einer Lärmschutzwand an der DB-Strecke in Düsseldorf-Rath - Information - - zur Kenntnis genommen
+- TOP 28: Umbenennung Planstraße 3419 - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2016 - Bürgerverein Mörsenbroich - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2016 - Einkaufs Trümpfe - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2016 - Rather Familienzentrum - einstimmig beschlossen
+- TOP 32: Verfügungsmittel 2016 - einstimmig beschlossen
+- TOP 33: Jahresempfang 2017 - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2016 - laufende Maßnahmen - mehrheitlich beschlossen
+- TOP 35: Sitzungen BV 6 im Jahr 2017 - zur Kenntnis genommen
+- TOP 36: MdV - Baumfällung - zur Kenntnis genommen
+- TOP 37: MdV - Waldstraße Parkplatz - zur Kenntnis genommen
+- TOP 38: MdV - GAT Diezelweg - zur Kenntnis genommen
