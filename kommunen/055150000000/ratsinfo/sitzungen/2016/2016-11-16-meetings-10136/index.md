@@ -1,0 +1,67 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-11-16T17:19:00+01:00
+- Ende: 2016-11-16T20:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10136
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10136
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00396527.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: In den Wintermonaten Abschiebungen in die Balkan-Staaten verhindern
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8.1: Wohnprojektetag 2017 - verwiesen
+- TOP 9: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Änderung der Satzung, der Satzung für die Wahl, der pädagogischen Begleitung, der Transparenz und der Arbeitsweise des Jugendrates - verwiesen
+- TOP 10: Bestellung des allgemeinen Vertreters des Oberbürgermeisters - einstimmig beschlossen
+- TOP 11: Wahl des/der Beigeordneten für das Dezernat III - einstimmig beschlossen
+- TOP 12: Modifikation der städtischen Regelungen zur Altersteilzeit der Beamten und Beamtinnen im Rahmen der nachhaltigen Haushaltssanierung (NaSa) - mehrheitlich beschlossen
+- TOP 13: Straßen-, Anlagen- und Aaseeordnung - einstimmig beschlossen
+- TOP 13.1: Straßen-, Anlagen- und Aaseeordnung
+- TOP 14: Entwurf des Jahresabschlusses zum 31.12.2015 der Stadt Münster - einstimmig beschlossen
+- TOP 15: Bürgerhaushalt 2016 - Einbringung der 20 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 16: Nachhaltige Haushaltssanierung 2017 - mehrheitlich beschlossen
+- TOP 17: Gründung einer Projektgesellschaft zum Ankauf der Konversionsflächen der Oxford- und der York-Kaserne (KonvOY GmbH) - einstimmig beschlossen
+- TOP 17.1: Gründung einer Projektgesellschaft zum Ankauf der Konversionsflächen der Oxford- und der York-Kaserne (KonvOY GmbH)
+- TOP 18: Westfälische Landes-Eisenbahn GmbH (WLE GmbH): - einstimmig beschlossen
+- TOP 18.1: Westfälische Landes-Eisenbahn GmbH (WLE GmbH):
+- TOP 19: Regionalverkehr Münsterland GmbH (RVM GmbH) und der RVM Verkehrsdienst GmbH, Westf. Verkehrsgemeinschaft (WVG) mbH: - einstimmig beschlossen
+- TOP 20: Westfälische Fernwärmeversorgung GmbH: Anpassung des Gesellschaftsvertrages an kommunalrechtliche Anforderungen - einstimmig beschlossen
+- TOP 21: Reform der Umsatzbesteuerung öffentlicher Körperschaften durch die Neufassung des § 2b Umsatzsteuergesetz (UStG) - zur Kenntnis genommen
+- TOP 22: Bestellung des Abschlussprüfers für das Geschäftsjahr 2016 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 23: Änderung der Gesellschaftsverträge der Wirtschaftsförderung Münster GmbH (WFM), der Technologieförderung Münster GmbH (TFM) und der CeNTech GmbH - einstimmig beschlossen
+- TOP 24: Dauerhafte Einrichtung des Gemeinsamen Lernens zum Schuljahr 2017/2018 an weiteren drei städtischen Schulen - mehrheitlich beschlossen
+- TOP 25: Bewerbung zur Teilnahme am "Bundesprogramm Mehrgenerationenhaus" (2017-2020) der Ev. Familienbildungsstätte Münster - einstimmig beschlossen
+- TOP 26: Integrationsmonitoring 2015 - zur Kenntnis genommen
+- TOP 27: Einbringung von Vorlagen zu Managementkontrakten
+- TOP 27.1: Zielvereinbarung (Managementkontrakt) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - Vorlage eingebracht
+- TOP 27.2: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH) - Vorlage eingebracht
+- TOP 27.3: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - Vorlage eingebracht
+- TOP 27.4: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021 - Vorlage eingebracht
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28.1: Neuordnung der Dezernate - verwiesen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 29.1: „Gute Schule 2020“ als Ganztags- und Fachraumoffensive für Münsters Schulen nutzen - verwiesen
+- TOP 29.2: Anne Henscheidt ehren- eine frühe Kämpferin für lesbische Frauen- eine vergessene Tochter unserer Stadt - verwiesen
+- TOP 29.3: Entwicklung eines Masterplans zur flächendeckenden Freifunk-Nutzung in Münster. Mit Freifunk Medienkompetenz und Teilhabe erhöhen - verwiesen
+- TOP 29.4: Eine Familien-App für die familienfreundliche Stadt Münster - verwiesen
+- TOP 29.5: Gemeinschaftsorientiertes und genossenschaftliches Wohnen in Münster fördern - verwiesen
+- TOP 29.6: Münster ist Vielfalt! Leitbild und integriertes Handlungskonzept gegen Gruppenbezogene Menschenfeindlichkeit - verwiesen
+- TOP 29.7: Das virtuelle Rathaus weiterentwickeln - verwiesen
+- TOP 29.8: Kinderrechte für minderjährige Geflüchtete - verwiesen
+- TOP 30: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 31: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus" – Projektaufruf 2017 - einstimmig beschlossen
+- TOP 32: Verschiedenes
