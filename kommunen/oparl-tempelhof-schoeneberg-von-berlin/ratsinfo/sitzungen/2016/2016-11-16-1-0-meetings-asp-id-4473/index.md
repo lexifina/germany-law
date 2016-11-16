@@ -1,0 +1,64 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-11-16T17:00:00+01:00
+- Ende: 2016-11-16T19:55:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4473
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4473
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=271228
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - Der Tagesordnungspunkt entfällt - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 3.1: Bildung des Ausschusses für Geschäftsordnung - vertagt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - erledigt
+- TOP 9: Anträge / Wahlen der Mitglieder zum Bezirksamt - (offen)
+- TOP 9.1: Wahl der Bezirksbürgermeisterin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wahl des stellvertretenden Bürgermeisters und zugleich eines Bezirksamtsmitglieds - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahl eines Bezirksamtsmitgliedes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Wahl eines Bezirksamtsmitglieds - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Wahl eines Bezirksamtsmitglieds - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Obdachlose vor dem Erfrieren retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Änderung der Geschäftsordnung der Bezirksverordnetenversammlung - überwiesen
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Benennung eines Platzes nach Melitta Sundström - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Umbenennung der Straßen im sog. "Fliegerviertel" (Neu-Tempelhof) - vertagt
+- TOP 11.3: Benennung eines Platzes nach Kitty Kuse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Neues Multifunktionsbad nach Helene Lewissohn benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Offener Brief mit der Forderung einer besseren Eingruppierung der Sozialarbeiter*innen in der Jugendhilfe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Unterstützung des Konzepts "Campus der Generationen im Schöneberger Norden" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Konfliktsituation in der Kurfürstenstraße lösen - vertagt
+- TOP 13.2: Stadtentwicklung und Quartiersgestaltung:Demografischen Wandel berücksichtigen - vertagt
+- TOP 13.3: Wohnbaupotential an der Reißeckstraße - vertagt
+- TOP 13.4: Potentialanalyse Reißeckstraße und Umgebung - vertagt
+- TOP 13.5: Städtebauliche Entwicklung Ortskern Mariendorf - vertagt
+- TOP 13.6: Würdigung für diejenigen, die helfen und Wärme schenken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Neue Mitte Tempelhof II - vertagt
+- TOP 13.8: Videoüberwachung auf Tempelhof-Schöneberger S-Bahnhöfen verstärken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Rad- und fußverkehrsfreundlicher Knoten Südwestkorso, Bundesallee, Varziner Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Umsetzung des Antikriegsmahnmals auf dem IKEA-Gelände - vertagt
+- TOP 13.11: Mehr Service / Reinigungskräfte für die Kiepert-Grundschule - vertagt
+- TOP 13.12: Wohnungen in Tempelhof-Schöneberg endlich von Asbest befreien! - vertagt
+- TOP 13.13: Denkmalschutz für den Bahnhof Tempelhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.14: Das Kunstprojekt TRANSITCROSS auf dem Tempelhofer Feld administrativ fördern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Aufzug am U-Bahnhof Platz der Luftbrücke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.16: Mehr und modernere Fahrradabstellmöglichkeiten im Bezirk - auch bei den städtischen Wohnungsbaugesellschaften! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Sicher über die Boelckestraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.18: Bedarfsplanung zur Tagesbetreuung für Kinder in Tempelhof-Schöneberg - vertagt
+- TOP 13.19: Verstetigung einer bezirklichen Präventionskette von der Schwangerschaft bis zum Eintritt in den Beruf - vertagt
+- TOP 13.20: Die Geltungsbereichserweiterung des Bebauungsplanes 7-84 im Bereich der Bülowstraße bis zur Straßenmitte; wobei der Titel des Bebauungsplanes unverändert weiter lautet: Bebauungsplan 7-84 für die Grundstücke zwischen Kurfürstenstraße, Potsdamer Straße, Bülow- und Frobenstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg Die Geltungsbereichsänderung des Bebauungsplanes XI-101 m im Bereich der Bülowstraße bis zur Straßenmitte; wobei der Titel des Bebauungsplanes unverändert weiter lautet... - vertagt
+- TOP 13.21: Sicherung einer bedarfsgerechten und wohnortnahen Daseinsvorsorge für den Wohnungsneubaustandort Schöneberger Linse auf den Grundstücken Tempelhofer Weg 62-63 in 10829 Berlin, Bezirk Tempelhof-Schöneberg, OT Schöneberg (Gemarkung Schöneberg, Flur 055, Flurstücke127/5, 142, 143). - vertagt
+- TOP 14: Termin der nächsten Sitzung - erledigt
