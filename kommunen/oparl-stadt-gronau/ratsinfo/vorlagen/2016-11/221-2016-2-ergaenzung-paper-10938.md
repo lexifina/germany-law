@@ -1,0 +1,22 @@
+# Bürgerantrag Nr. 5/2016 auf Umwandlung der Sekundarschule Epe in eine Gesamtschule
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 221/2016 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2016-11-16
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbP1zJdILxRF76CJIspQEEw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/10938
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bürgerantrag Nr. 5/2016 auf Umwandlung der Sekundarschule Epe in eine Gesamtschule) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaHqRhvsJP0mW-8VrM8RJCIoeTvBXPLGvpxXy53iwirR/Beschlussvorlage_221-2016_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Bürgerantrag) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaesnQ-KYXzXl_CImQcQ7c7Eg4oAIG42mwLyhoRYJVMk/Buergerantrag.pdf
+- Anlage: Beschlussvorlage (Raumprogramm Sek 1, Gesamtschule Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS8JzljdVyh3PFuypP4cgqpVA7PRKYo9z6B7WEg4wUWv/Raumprogramm_Sek_1-_Gesamtschule_Epe.pdf
+- Anlage: Beschlussvorlage (Raumprogramm Sek 2, Gesamtschule Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdEZE-T1wQGYOaAXZaw67P7JI0rYOu_B6Lz4RY06ImD0/Raumprogramm_Sek_2-_Gesamtschule_Epe.pdf
+- Anlage: Beschlussvorlage (Vorlage 221/2016, 1. Ergänzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQhlfyqXwTJEz2HlOj9gCrPCQPS1H0TRRMFRtavaTkAT/Vorlage_221-2016-_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Vorlage 328/2016, 1. Ergänzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTWn_nHTWGoovo37oFEIGh9iFlmppf1zbhCe9hx2y4TH/Vorlage_328-2016-_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Schreiben der EUREGIOSCHULE über das Votum der Schulkonferenz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb8WS8LXPMlZQCnaN1hMR_FHj5ogLE7oDBCFXJgaOshl/Schreiben_der_EUREGIOSCHULE_ueber_das_Votum_der_Schulkonferenz.pdf
+- Anlage: Beschlussvorlage (Stellungnahme Stadt Ochtrup zur Gründung einer Gesamtschule Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUPntgfNiju-ZTuFAQaODescTK1Y0YiyzZtwjQw5CUtX/Stellungnahme_Stadt_Ochtrup_zur_Gruendung_einer_Gesamtschule_Epe.pdf
+- Anlage: Beschlussvorlage (Stellungnahme der Stadt Ahaus zur Gründung der Gesamtschule Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa2u_2yo-2HRzUCe7jGCWPeiT_x1GanQhBPNXSs4FMXW/Stellungnahme_der_Stadt_Ahaus_zur_Gruendung_der_Gesamtschule_Epe.pdf
+- Anlage: Beschlussvorlage (Stellungnahme der Gemeinde Heek zur Gründung der Gesamtschule Epe) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX8tLOh_LQRA4ASQCkKee2kT857eV_DDLRa-__ZFJBfu/Stellungnahme_der_Gemeinde_Heek_zur_Gruendung_der_Gesamtschule_Epe.pdf
+- Anlage: Beschlussvorlage (Tischvorlage Pro!Bürgerschaft/Piraten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfsiIXG7uWDef1rokXsBcIvb9o95s7uTGuwrgtnKfyDG/Tischvorlage_Pro-Buergerschaft-Piraten.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3318 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-45
