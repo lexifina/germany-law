@@ -1,0 +1,59 @@
+# 2. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-11-16T16:30:00+01:00
+- Ende: 2016-11-16T18:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4783
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4783
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=248511
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-58 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - (offen)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Kreuzung Kiefholzstraße / Bouchéstraße – Gehwegvorstreckung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Sammlung über die Plastiken, Denkmäler und Brunnen veröffentlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Sicherung der bezirklichen Kulturarbeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Sichere Straßenquerung am Alten Wasserwerk Friedrichshagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Maßnahmeplan zur Sicherung, Neustrukturierung und finanziellen Konsolidierung der Bildungs- und Kulturangebote - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Einleitung eines Bebauungsplanverfahrens für den Standort Zeltplatz Zeuthen I/Teikyo-University - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Kulturangebote für finanziell Schwache erweitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Müllbeseitigungskapazitäten im Treptower Park erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Straßenbenennung in Bernhard-Langwaldt-Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.5: Buslinie 164 - Verstärkung der Abfahrtzeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Vollzug der Räumungsandrohung aussetzen - überwiesen
+- TOP 7.2.7: Brückenbenennung nach Mathilde Rathenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Sondermittel für die ajb GmbH (SM 16-12) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Sondermittel für den Verein Kunstfabrik e. V. (SM 16-19) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Internet für Flüchtlingsunterkünfte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Sondermittel für den SV Turbine Berlin, Abt. Schach (SM 16-04) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: Sondermittel für die Stiftung SPI/GB Stadtentwicklung, Ausnahme & Regel, Treffpunkt Strohhalm (SM 16-33) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Wartehäuschen am Groß-Berliner Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Beseitigung der Brandschäden am historischen Kinderspiel- und Turnplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sitzungstermine der BVV im Jahr 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Uferkonzeption Treptow-Köpenick bestehend aus Textteil und Karten (Anlagen 1a bis 1c) als Teilplan der Bereichsentwicklungsplanung (BEP) zum Fachplan „Grün- und Freiraum“ - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-48 VE ("Mellowpark") hier: Änderung des Bezirksamtsbeschlusses Nr. 333/15 vom 20.01.2015 zum Bebauungsplanverfahren 9-48 VE („Mellowpark“) für die Grundstücke An der Wuhlheide 250, 252 und 256 im Bezirk Treptow-Köpenick, Ortsteile Oberschöneweide und Köpenick - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ausschussbildung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Illegale Autorennen unterbinden - überwiesen
+- TOP 14.3: Elektronische Zustellung der Unterlagen der BVV - mit Änderungen in der BVV beschlossen
+- TOP 14.4: Einrichtung einer Bushaltestelle - überwiesen
+- TOP 14.5: Beirat für Umwelt und Natur unverzüglich einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
