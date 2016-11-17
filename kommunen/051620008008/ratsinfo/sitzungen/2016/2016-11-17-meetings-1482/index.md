@@ -1,0 +1,72 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-11-17T09:25:00+01:00
+- Ende: 2016-11-17T18:30:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1482
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1482
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bürgeranträge nach § 24 Gemeindeordnung für das Land Nordrhein Westfalen (GO NRW)
+- TOP 2.1: Beschwerde über die Flüchtlingsunterkunft Neuenhausen, Bruchstr. 15 - 19 - Kenntnisnahme
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Aufbau des Controllings (Antrag Nr. 308/16) - einstimmig
+- TOP 3.2.2: Zuständigkeiten des Personalausschusses (Antrag Nr. 282/16) - Kenntnisnahme
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.4.1: Sachstandsbericht zur Umsetzung des Antrages "Crowdfunding-Plattform nutzen" Antrag Nr. 301/16 - einstimmig
+- TOP 3.4.2: Jährlicher Digitalisierungsbericht der Stadt Grevenbroich (Antrag Nr. 302/16) - einstimmig
+- TOP 3.5: B 90/Grüne
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.2.1: Lehren aus Gutachten (Anfrage Nr. 314/16) - einstimmig
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.4.1: Turnhallen in Wevelinghoven (Anfrage 303/16) - einstimmig
+- TOP 4.4.2: Stellplatzablösebeträge (Anfrage Nr. 304/16) - einstimmig
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.9: FBG
+- TOP 5: Haushaltsangelegenheiten
+- TOP 5.1: Steuern, Gebühren, Zuschüsse
+- TOP 5.1.1: Erhöhung Hebesatz Grundsteuer B - mehrheitlich bei
+- TOP 5.1.2: Einführung einer Wettbürosteuer zum 01.01.2017 - mehrheitlich bei
+- TOP 5.1.3: 1. Änderung der Satzung der Stadt Grevenbroich über die Erhebung einer Zweitwohnungssteuer - mehrheitlich bei
+- TOP 5.1.4: Gebührenbedarfsberechnung 2017 Straßenrenigung und Winterdienst - einstimmig
+- TOP 5.1.5: Musikschule des RKN - mehrheitlich bei
+- TOP 5.2: Anträge HH 2017
+- TOP 5.2.1: Produkt 01021 - Verwaltungsführung - Kenntnisnahme
+- TOP 5.2.2: Produkt 01061 - Verwaltungsservice - Kenntnisnahme
+- TOP 5.2.3: Produkt 01081 - Personalservice - Kenntnisnahme
+- TOP 5.2.4: Produkt 01093 - Haushalts- und Finanzsteuerung - Kenntnisnahme
+- TOP 5.2.5: Produkt 01096 - Veranlagung/Erhebung von Steuern und Gebühren - Kenntnisnahme
+- TOP 5.2.6: Produkt 01122 - Bereitstellung von städt. genutzten Gebäuden und Liegenschaften - Kenntnisnahme
+- TOP 5.2.7: Produkt 02022 - Wochen- und Jahrmärkten (Kirmessen) - Kenntnisnahme
+- TOP 5.2.8: Produkt 02101 - Gefahrenabwehr - Kenntnisnahme
+- TOP 5.2.9: Produkt 04051 - Stadtbücherei - Kenntnisnahme
+- TOP 5.2.10: Produkt 06022 - Hilfe zur Erziehung Minderjähriger - Kenntnisnahme
+- TOP 5.2.11: Produkt 08021 - Sportstätten - Kenntnisnahme
+- TOP 5.2.12: Produkt 12011 - Straßen, Wege, Plätze - Kenntnisnahme
+- TOP 5.2.13: Produkt 13011 - Öffentliche Ordnung - mehrheitlich bei
+- TOP 5.2.14: Produkt 13031 - Friedhofs- und Bestattungswesen - Kenntnisnahme
+- TOP 5.2.15: Produkt 15012 - Tourismusförderung und Stadtmarketing - Kenntnisnahme
+- TOP 5.2.16: Produkt 15021 - Öffentliche Gemeinschaftseinrichtungen - Kenntnisnahme
+- TOP 5.3: Haushalt 2017
+- TOP 5.3.1: Haushalt 2017 - mehrheitlich bei
+- TOP 6: Mündliche Anträge/Anfragen
+- TOP 7: Mitteilungen BM
