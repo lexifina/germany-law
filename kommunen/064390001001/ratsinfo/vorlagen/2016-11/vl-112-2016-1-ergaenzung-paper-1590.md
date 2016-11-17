@@ -1,0 +1,25 @@
+# Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2016
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-112/2016 1. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2016-11-17
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZd7_i2FkHs-zn4IW84Ml0Hg
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/1590
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2016) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc-7lKhPah9RHTfckYbCVUT_43UhB-kU8KGG0csduWWQ/Beschlussvorlage_Gemeindevertretung_VL-112-2016_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Inhaltsverzeichnis) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe73eOhowgjd5958iucEmtQCgXIzkHTsq2m8JE4ltie6/Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Nachtragssatzungsentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd9Jzrxm6FUBJvToon3fl_kGEttPf4xVwMrlL9aSlbnH/Nachtragssatzungsentwurf.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Vorbericht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdrUyoZul1CPPjWY418ivwx7pzsjDRx3ATESQJzrmKo/Vorbericht.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Gesamtergebnishaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYKsXt1i51UtSZtpPA0WJRyRlfBtr4PKrhhYEskzGvoJ/Gesamtergebnishaushalt.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Gesamtfinanzhaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZZAyMKCGfQbipEhme-MkOnAeiPZXQuIyawBUBljVB8/Gesamtfinanzhaushalt.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Nachtragshaushaltsplanentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSnWABaJt5oAtf_gUqTpuJEC1oo7wT4G2RmaxvqjegPM/Nachtragshaushaltsplanentwurf.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Kreditaufnahmen-Tilgungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb-c-2kE3MJdA6L6tT3BXs9sEzuMhQfhZ2YtAcTg1aoB/Kreditaufnahmen-Tilgungen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Deckungs-Übertragungsvermerke) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbek1S9NRdN0mlV-Pb0wwaDOmzEB5i8jPCyvZ7MiQ6z3/Deckungs-Uebertragungsvermerke.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (MF Ergebnisplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZEcrzhnnbCPZr3uQ7Z6gDEC36c-GV4wvn3ZZJ_WJhCx/MF_Ergebnisplanung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (MF Finanzplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRzOHyUTI_CkCQBqhqWFooSaW5SkDR8vlrmJdsQD_r1Z/MF_Finanzplanung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Verpflichtungsermächtigungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbQvxLsSUBxmQAkmOTLxb8nDOFDtcRKZcGVpMcJXbbYg/Verpflichtungsermaechtigungen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Verbindlichkeiten) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTBMVk-OeXtTvku7NYOP2iIVdIkB6UjqiyzfQu2OB-Wa/Verbindlichkeiten.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Rücklagen-Rückstellungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeABT8mpwp0gv9NMvueuI65_pwSGGbyExHJ28JMiQ2bV/Ruecklagen-Rueckstellungen.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/795 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
