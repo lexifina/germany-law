@@ -1,0 +1,51 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2016-11-17T15:00:00+01:00
+- Ende: 2016-11-17T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRDRfkqZfsRuDvt9EnWM1H0
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/576
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWj1om-QaT6F6T-Q8OwtV0e5Z22NSNs73P5by4dFadIw/Einladung_Seniorenbeirat_17.11.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa9nfSQGkc6X_aNg5qEeslzZVv2LjxtecQd-OgfcPckZ/Oeffentliche_Niederschrift_Seniorenbeirat_17.11.2016.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Aufnahme des Seniorenbeirats in die Hauptsatzung der Stadt - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Wegezustand auf dem Friedhof in Werne - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Projekt "Seniorensicherheitsberater" hier: Mdl. Bericht
+- TOP 6.2: Fachgutachten zur Untersuchung des Bus- und Straßenbahnliniennetzes - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Barrierefreiheit im ÖPNV, Ausbau von Straßenbahnhaltestellen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Haltestelle der BoGeStra "Rathaus - Linie 306" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Integriertes Stadtentwicklungskonzept Werne - Langendreer Alter Bahnhof - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Bochumer Ortsteile kompakt 2016 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Hammer Park - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Hundeplatz am Hammer Friedhof - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Ausschilderung der Behindertenparkplätze RuhrCongress - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Berichte aus den Gremien hier: Mdl. Berichte
+- TOP 7: Anfragen
+- TOP 7.1: Sitzgelegenheiten an stark frequentierten ÖPNV-Haltestellen - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Bestattungen auf dem östlichen Teil des Friedhofs Freigrafendamm - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Seniorenveranstaltung in der Stadthalle Wattenscheid - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.4: Ümminger See - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
