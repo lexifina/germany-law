@@ -1,0 +1,52 @@
+# 21. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-11-17T17:09:00+01:00
+- Ende: 2016-11-17T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10421
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10421
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00396818.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW - entfällt
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Konzept für den Bereich des Zentralklinikums - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Bürgerumfrage 2016: Zentrale Ergebnisse zum Fragenkomplex "Parks und Grünanlagen" - zur Kenntnis genommen
+- TOP 5.2: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Künstlerische Gestaltung der Bahnunterführung in Münster-Albachten durch Anbringung eines Graffiti - einstimmig beschlossen
+- TOP 6.2: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bereich West - einstimmig beschlossen
+- TOP 6.3: Unterhaltung der Grundstücke und baulichen Anlagen 2017 im Stadtbezirk West, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Osthofstraße - Einrichtung einer Mittelinsel in Höhe der Einmündung Tweehues - einstimmig beschlossen
+- TOP 7.2: Städtebaulicher Wettbewerb "Albachten-Ost" - Auslobung - einstimmig beschlossen
+- TOP 7.3: 22. Änderung des FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 7.4: Bebauungsplan Nr. 536 - Erweiterter Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig geändert beschlossen
+- TOP 7.5: Barrierefreier Ausbau der Bushaltestelle „Gescherweg B“ in der Hensenstraße - einstimmig geändert beschlossen
+- TOP 7.6: Anträge zur Erarbeitung von Stadtteilentwicklungskonzepten bzw. Durchführung von Stadtteilentwicklungswerkstätten - einstimmig geändert beschlossen
+- TOP 7.7: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk West - einstimmig beschlossen
+- TOP 7.8: Ökologische Verbesserung der Hunnebecke - einstimmig beschlossen
+- TOP 7.9: Änderung der Bädertarife und der Tarifstruktur für die städtischen Hallen- und Freibäder - von der Tagesordnung abgesetzt
+- TOP 7.10: Ausweitung der Öffnungszeiten in den städtischen Hallenbädern - von der Tagesordnung abgesetzt
+- TOP 7.11: Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster ab dem 01.01.2017 - einstimmig beschlossen
+- TOP 7.12: Entwurf des Haushaltsplanes 2017
+- TOP 7.12.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2017 - einstimmig beschlossen
+- TOP 7.12.2: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2017 unter Berücksichtigung der Veränderungsblätter - mehrheitlich beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Antrag zum 3. Nahverkehrsplan der Stadt Münster (Fahrplan gültig seit dem 10.10.2016) - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.2: Hinweisschild auf der Hensenstraße Höhe Haus Nr. 176 ändern - eingebracht
+- TOP 8.3: Fußgängerübergang an der Hanseller Straße - eingebracht
+- TOP 8.4: Anpassung der BV-Mittel aufgrund gestiegener Kosten im Bereich der Spielplätze - mehrheitlich beschlossen
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Entwicklungskonzept Dingbängerweg - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.2: Verkehrskonzept Schmeddingstraße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.3: Bürgerbüro Gievenbeck - Ausweitung der Öffnungszeiten - vertagt
+- TOP 10: Verschiedenes - zur Kenntnis genommen
