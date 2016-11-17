@@ -1,0 +1,93 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-11-17T14:00:00+01:00
+- Ende: 2016-11-17T20:37:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11780
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11780
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279550.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279550.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279550.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung des Ehrenringes des Rates - zur Kenntnis genommen
+- TOP 2: Anerkennung TO
+- TOP 3: Genehmigung NS
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4.1: Anfrage der CDU-Ratsfraktion aus aktuellem Anlass: Welche Zukunft hat der Düsseldorfer Großmarkt? - zur Kenntnis genommen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Tierschutz-Freie Wähler; Geplante Elektroinstallation auf dem Düsseldorfer Fernsehturm - zur Kenntnis genommen
+- TOP 5.2: Anfrage Tierschutz-Freie Wähler: Luftreinhaltung in Düsseldorf - zur Kenntnis genommen
+- TOP 5.3: Anfrage Rh Dr. Wlecke: Situation von Gewerbesteuererstattungen - zur Kenntnis genommen
+- TOP 5.4: Anfrage der FDP- Ratsfraktion: Race am Rhein - zur Kenntnis genommen
+- TOP 5.5: Anfrage CDU - Interkommunale Zusammenarbeit bei der Unterbringung von Geflüchteten - zur Kenntnis genommen
+- TOP 5.6: Anfrage Bü90-Grü: Luftreinhalteplan - zur Kenntnis genommen
+- TOP 5.7: Anfrage DIE LINKE: Verteilung der Verkehrsarten - zur Kenntnis genommen
+- TOP 5.8: Anfrage CDU: Reinigung von Schulen und Kindergärten - zur Kenntnis genommen
+- TOP 5.9: Anfrage der Ratsfraktion DIE LINKE: Fahrscheinloser Tag in Düsseldorf - zur Kenntnis genommen
+- TOP 5.10: Anfrage Rf Krüger:Situation des Schutzes von Tier und Mensch am Hofgartenweiher - zur Kenntnis genommen
+- TOP 5.11: Anfrage FDP: Gestaltungsmodelle zur Minderung der Gewerbesteuer - zur Kenntnis genommen
+- TOP 5.12: Anfrage der Ratsfrau Dr. Strack-Zimmermann: Testbetrieb 5G - zur Kenntnis genommen
+- TOP 5.13: Anfrage des Ratsherrn Maniera: Kostenentwicklung bei Asylanten und Flüchtlingen - zur Kenntnis genommen
+- TOP 5.14: Anfrage des Ratsherrn Maniera: Einfluss energetischer Sanierungen auf Mietpreise - zur Kenntnis genommen
+- TOP 5.15: Anfrage Rh Lehne: Einlagerung von Containern für die Unterbringung von Geflüchteten - zur Kenntnis genommen
+- TOP 5.16: Anfrage des Ratsherrn Grenda: Aktuelle Finanzsituation - zur Kenntnis genommen
+- TOP 5.17: Anfrage Bü90-Grü:Planungen der Verwaltung zur Etablierung einer Generaldirektorin / eines Generaldir - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 9: Anträge (Restanten) - zur Kenntnis genommen
+- TOP 9.1: Antrag der CDU-Ratsfraktion: Runder Tisch zur Zukunft von Gut Niederheid - zur Kenntnis genommen
+- TOP 9.2: Antrag der CDU-Ratsfraktion: Düsseldorfer Radschläger -Tradition und Moderne - zur Kenntnis genommen
+- TOP 9.3: Antrag SPD, BÜ90-GRÜ: Partizipation von Kindern und Jugendlichen bei Bürgerbeteiligungsverfahren - zur Kenntnis genommen
+- TOP 9.4: Antrag FDP: Brexit nutzen - Unternehmen in Düsseldorf ansiedeln - zur Kenntnis genommen
+- TOP 9.4.1: ÄA CDU: Brexit nutzen – Unternehmen in Düsseldorf ansiedeln - zur Kenntnis genommen
+- TOP 9.4.2: ÄA BÜ90-GRÜ: Brexit nutzen - Unternehmen in Düsseldorf ansiedeln - zur Kenntnis genommen
+- TOP 9.5: Antrag CDU, SPD, BÜ90/GRÜ und FDP:2030 Agenda des Rates der Gemeinden und Regionen Europas - zur Kenntnis genommen
+- TOP 9.6: Antrag FDP: Überprüfung der Solidaritätsabgabe durch das Bundesverfassungsgericht - zur Kenntnis genommen
+- TOP 9.7: Antrag der CDU-Ratsfraktion: "Kommunal-Soli"- Gemeinsam Verfahren in Karlsruhe fortsetzen - zur Kenntnis genommen
+- TOP 9.8: Antrag der CDU-Ratsfraktion: Pilotquartier "Gigabit-City Düsseldorf" - zur Kenntnis genommen
+- TOP 9.9: Antrag der Ratsfraktion DIE LINKE: CETA verhindern - zur Kenntnis genommen
+- TOP 9.10: Antrag der Ratsfraktion DIE LINKE: Sozialtarif für Strom einführen - zur Kenntnis genommen
+- TOP 9.11: Antrag Tierschutzpartei-Freie Wähler: Unverzüglicher Bau von Schulgebäuden und bezahlbaren Wohnungen - zur Kenntnis genommen
+- TOP 9.12: Antrag der Ratsfraktion Bü90/Grü und SPD: Umsetzung der Wohnsitzauflage für anerkannte Flüchtlinge - zur Kenntnis genommen
+- TOP 10: Naturnaher Ausbau der Südlichen Düssel in Vennhausen vom Spaltwerk Höherhof bis Sandträgerweg, 1.Bau - zur Kenntnis genommen
+- TOP 11: Erschließung des Baugebietes Rather Straße (ehem. Schlachthofgelände) - zur Kenntnis genommen
+- TOP 11.1: ÄA Die Linke: Erschließung des Baugebietes Rather Straße - zur Kenntnis genommen
+- TOP 12: Umsetzung Bäderkonzept 2020: Neubau Allwetterbad - zur Kenntnis genommen
+- TOP 12.1: EA Tierschutzpartei/FREIE WÄHLER:Umsetzung Bäderkonzept 2020 - zur Kenntnis genommen
+- TOP 13: Umgestaltung Kaiserswerther Markt - Bedarfsbeschluss - zur Kenntnis genommen
+- TOP 13.1: ÄA FDP, SPD und Bü90-Grü: Umgestaltung Kaiserswerther Markt - zur Kenntnis genommen
+- TOP 14: Sanierung des Düsseldorfer Schauspielhauses am Gustaf-Gründgens-Platz - zur Kenntnis genommen
+- TOP 14.1: EA CDU: Sanierung des Düsseldorfer Schauspielhauses am Gustaf-Gründgens-Platz - zur Kenntnis genommen
+- TOP 14.2: ÄA Bü90-Grü, SPD:Sanierung des Düsseldorfer Schauspielhauses am Gustaf-Gründgens-Platz - zur Kenntnis genommen
+- TOP 15: Satzung zur Änderung der Gebührentarife zur Gebührensatzung über die Inanspruchnahme des Rettungsdie - zur Kenntnis genommen
+- TOP 16: Annahme einer Schenkung als Beitrag zur Finanzierung des Projektes ‚Tour de France – Grand Départ Dü - zur Kenntnis genommen
+- TOP 17: ARTIG Zentrale für Culturelle Entwicklung/Bericht - zur Kenntnis genommen
+- TOP 18: Schenkung an die städtische Sammlung des Museum Kunstpalast, Abteilung Moderne Kunst - zur Kenntnis genommen
+- TOP 19: Neufassung des Vertrags zwischen Landschaftsverband Rheinland und Stadt Düsseldorf für das „LVR-Zent - zur Kenntnis genommen
+- TOP 20: Änderung der Benutzungsordnung für die Stadtbüchereien - zur Kenntnis genommen
+- TOP 20.1: ÄA Die Linke: Änderung der Benutzungsordnung der Stadtbücherei - zur Kenntnis genommen
+- TOP 21: Beitritt zur Metropolregion Rheinland e.V. und Gründung eines Regionalmanagements - Beschluss - - zur Kenntnis genommen
+- TOP 21.1: EA Bü90-Grü, CDU, SPD und FDP:Beitritt zur Metropolregion Rheinland e.V. und Gründung eines Regional - zur Kenntnis genommen
+- TOP 22: Auszeichnung der Landeshauptstadt Düsseldorf als "Europaaktive Kommune 2016" - zur Kenntnis genommen
+- TOP 23: Abberufung eines Prüfers - zur Kenntnis genommen
+- TOP 24: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 25: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - Ersatzbestellungen - zur Kenntnis genommen
+- TOP 26: Bestellung des Vorsitzenden des Gutachterausschusses für Grundstückswerte - zur Kenntnis genommen
+- TOP 27: Nachwahl eines Mitgliedes für die Jury Förderpreis für bildende Kunst der Landeshauptstadt Düsseldor - zur Kenntnis genommen
+- TOP 28: Ersatzwahl in den JHA - zur Kenntnis genommen
+- TOP 29: Bebauungsplan 01-007 - Kö-Bogen 2. BA - Änderung Teilbereich Gustaf-Gründgens-Platz -Stellungnahmen, - zur Kenntnis genommen
+- TOP 30: Anträge
+- TOP 30.1: Antrag der CDU-Ratsfraktion: Umstellung auf Elektro-Busse und Wasserstoffantriebe vorantreiben - zur Kenntnis genommen
+- TOP 30.2: Antrag von BÜ90/GRÜ, SPD und FDP: Schnellere Modernisierung der Rheinbahn-Busflotte - zur Kenntnis genommen
+- TOP 30.3: Antrag der FDP-Ratsfraktion: Offenlegung der Verträge mit der A.S.O. - zur Kenntnis genommen
+- TOP 30.4: Resolution der CDU: Erhalt und notwendiger Sanierung des D - zur Kenntnis genommen
+- TOP 30.5: Antrag der Ratsfraktion DIE LINKE: Keine Mittel für Rheinkomet
+- TOP 30.6: Antrag der CDU-Ratsfraktion: Rückforderung zu viel gezahlter Rechtsanwaltskosten
+- TOP 31: Umbesetzung von Ausschüssen und sonstigen Gremien - zur Kenntnis genommen
