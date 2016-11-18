@@ -1,0 +1,58 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2016-11-18T16:00:00+01:00
+- Ende: 2016-11-18T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3429
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3429
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Unterzeichnung der Erklärung 2030-Agenda für nachhaltige Entwicklung - einstimmig zugestimmt
+- TOP 7: Festsetzung der Gebühren im Rettungswesen ab 2017 - einstimmig zugestimmt
+- TOP 8: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2017 - einstimmig zugestimmt
+- TOP 9: Prüfauftrag Klimasch. Teilkonz.ept f e.Gewerbeg. gem. Antrag CDU Grüne - mehrheitlich zugestimmt
+- TOP 10: BP 43/12 - Freiheitstraße- Aufstellung - einstimmig zugestimmt
+- TOP 11: V BP V 212/2 Aufstellung - einstimmig zugestimmt
+- TOP 12: Konzentrationszonen Windkraft - Auslegung - mehrheitlich zugestimmt
+- TOP 13: BP 57/25 Kita Neusser Weyhe - einstimmig zugestimmt
+- TOP 14: Umbau Kanalstraße - mehrheitlich zugestimmt
+- TOP 15: Standortentwicklung ETEX-Gelände, Berhäuschensweg - abgesetzt
+- TOP 16: ZIN Zuschuss - einstimmig zugestimmt
+- TOP 17: Jugendhilfeplanung "Spielraumplanung": Rahmenplanung Qualifizierung Bolzplätze - mehrheitlich zugestimmt
+- TOP 18: Vermietungspreise in Räumlichkeiten von offenen Einrichtungen, die sich in Gebäude - mehrheitlich zugestimmt
+- TOP 19: Friedhofsatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP 20: Feststellung des Jahresabschlusses 2014 - einstimmig zugestimmt
+- TOP 21: Feststellung des Jahresabschlusses 2015 - einstimmig zugestimmt
+- TOP 22: EEA Folgeförderung- Umstellung auf 4 Jahres- Zyklus - einstimmig zugestimmt
+- TOP 22.1: Sportentwicklung - mehrheitlich zugestimmt
+- TOP 23: Errichtung einer Anstalt öffentlichen Rechts "d-NRW AöR" - Beitritt der Stadt Neuss - einstimmig zugestimmt
+- TOP 24: Gesamtabschluss Entwürfe 2013 und 2014 - einstimmig zugestimmt
+- TOP 25: Vertretung der Stadt Neuss in Drittgremien - einstimmig zugestimmt
+- TOP 26: Teilnahme am Projektaufruf des Bundes zur Förderung von investitionen in nationale Projekte des Städ - einstimmig zugestimmt
+- TOP 26.1: Wahl einer Beigeordneten/eines Beigeordneten hier: Ausschreibung der Stelle und Verfahrensablauf - mehrheitlich zugestimmt
+- TOP 26.2: Jugendhilfeplanung "Spielraumplanung", hier: Grundsatzbeschluss zur Grunderneuerung von Kinderspielp - einstimmig zugestimmt
+- TOP 27: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Errichtung eines Ersatzbaus für die Dreik - verwiesen
+- TOP 28: Antrag der FDP-Fraktion betr.: Nutzung des "Förderprogramms Gute Schule 2020 für die Schulinfrastruk - verwiesen
+- TOP 29: Antrag der Fraktion DIE LINKE betr.: Erlass einer Zweckentfremdungssatzung - einstimmig zugestimmt
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Bericht zur aktuellen Flüchtlingssituation in Neuss - zur Kenntnis genommen
+- TOP 37: Zwischenbericht Zukunftskommission Digitale Agenda - zur Kenntnis genommen
+- TOP 38: Entwicklung der Schmutz- und Regenwassergebühren für 2017 - zur Kenntnis genommen
+- TOP 39: Prioritätenliste zum Programm „Gute Schule 2020“ - zur Kenntnis genommen
+- TOP 40: Tour de France - zur Kenntnis genommen
+- TOP 41: Einwohnerfragestunde - zur Kenntnis genommen
