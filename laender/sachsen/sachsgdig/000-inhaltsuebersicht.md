@@ -10,4 +10,4 @@
 § 9 Privatrechtliche Entgelte sowie Gebühren und Auslagen, Erteilung von Lizenzen und öffentlich-rechtlichen Erlaubnissen
 § 10 Ermächtigung zum Erlass von Rechtsverordnungen
 § 11 Übergangsbestimmungen
-Anlage (zu § 3 Abs. 4 Nr. 2)
+Anlage (zu § 3 Absatz 4 Nummer 2)
