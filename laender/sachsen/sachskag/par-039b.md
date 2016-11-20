@@ -1,0 +1,2 @@
+# § 39b Anpassung von Satzungen an die durch das Gesetz zur Änderung des Sächsischen Kommunalabgabengesetzes vom 26. Oktober 2016 geltende Rechtslage
+Örtliche Satzungen zur Erhebung der Kurtaxe oder Fremdenverkehrsabgabe, die aufgrund dieses Gesetzes in der bis zum 19. November 2016 geltenden Fassung erlassen worden sind, gelten weiter und sind erforderlichenfalls bis zum 31. Dezember 2018 anzupassen. § 2 Absatz 2 gilt auch für Satzungen, die nach den §§ 34 und 35 in der bis zum 19. November 2016 geltenden Fassung erlassen worden sind.
