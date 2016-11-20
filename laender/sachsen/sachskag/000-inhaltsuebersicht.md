@@ -39,12 +39,13 @@ Abschnitt 5 Beiträge für Verkehrsanlagen
 § 32 Besondere Wegebeiträge
 Abschnitt 6 Aufwandsersatz und sonstige Abgaben
 § 33 Ersatz des Aufwands für Haus- und Grundstücksanschlüsse
-§ 34 Kurtaxe
-§ 35 Fremdenverkehrsabgabe
+§ 34 Gästetaxe
+§ 35 Tourismusabgabe
 § 36 Sonstige öffentlich-rechtliche Abgaben und Umlagen
 Abschnitt 7 Übergangs- und Schlussbestimmungen
 § 37 Übergangsbestimmungen
 § 38 Einschränkung von Grundrechten
 § 39 Aufhebung von Rechtsvorschriften
 § 39a Anpassung der Satzungen an die durch das Verwaltungsmodernisierungsgesetz geänderte Rechtslage
+§ 39b Anpassung von Satzungen an die durch das Gesetz zur Änderung des Sächsischen Kommunalabgabengesetzes vom 26. Oktober 2016 geltende Rechtslage
 § 40 In-Kraft-Treten
