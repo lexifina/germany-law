@@ -1,0 +1,6 @@
+# TOP 3: Protokoll über die 15. Sitzung am 24.10.2016
+
+- Sitzung: Zuwanderer- und Integrationsrat (16. Sitzung) (2016-11-21)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/8730
