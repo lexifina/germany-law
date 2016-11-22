@@ -1,0 +1,109 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3777086
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3777086
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Stellungnahme zum Bürgerhaushalt ? Entwurf des Direktoriums vom 20.10.2016 (Initiative: Ekkehard Pascoe)
+- TOP .1.: Freibeträge für die Aufwandsentschädigungen ehrenamtlich tätiger Bürgerinnen und Bürger
+- TOP .2.: Sicherheitsbericht der Polizei bei Bürgerversammlungen
+- TOP 7.3.: Anhörungen
+- TOP 9.1.: Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage
+- TOP 9.2.: Änderung der BA-Satzung, Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung, BA-Antrags-Nr 14-20 / B 02847 des BA 15 Trudering-Riem vom 22.09.2016
+- TOP 9.3.: Änderung der BA-Satzung, Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde?, BA-Antrags-Nr 14-20 / B 02359 des BA 1 Altstadt-Lehel vom 10.05.2016
+- TOP 9.4.: Änderung der Geschäftsordnung des Stadtrates, Wertgrenzen bei Baumaßnahmen, Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP 9.5.: Anhörungsrecht für Planen im Bereich ?Wohnen für Alle? Antrag des BA 15 ? Trudering-Riem Nr. 14-20 / B 02859 vom 22.09.2016
+- TOP 10: sonstiges
+- TOP 10.1.: (E) Budget der Bezirksausschüsse TamS Theater Weihnachtsgeschichten an den Sonntagen im Advent 2016 - <div></div>
+- TOP 10.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Einrichtung Musisches Zentrum Anschaffung einer Küche, eines Tisches und eines Hockers - <div></div>
+- TOP 10.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 12. Stadtbezirk Schwabing-Freimann: Anhörung zu Textvorschlägen, Anzahl und Art der Schilder, vertagt aus der Sitzung am 25.10.2016, Unterlagen liegen vor.
+- TOP 10.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 10.1.: Nikolaistr. 9
+- TOP 10.2.: Leopoldstraße 49
+- TOP 10.1.: Leben im Alter, Wohnen 2, Wohnungsgrundrisse für veränderbare Wohungsgrößen, Sitzungsvorlagennummer 14-20 / V 07222
+- TOP 10.2.: Vollzug des Bundes-Immissionsschutzgesetzes, Anfrage des BA 12 wegen Beeinträchtigung der Anwohner durch das Lustspielhaus, hier: Lärmbelästigung, Referatsschreiben
+- TOP 10.3.: Sachbericht, Zuschuss aus dem BA-Budget, Sommerfest der Teestube 2016
+- TOP 10.4.: Verwendungsnachweise a) Ev. Luth. Erlöserkirche für ?Programm Kreis der Religionen? 500,00? b) 84 GHz ? Raum für Gestaltung für ?Kunst im Karrée 2016? 2.000,00? c) Evang. Hilfswerk München für ?Sommerfest der Teestube ?Komm? am 12.08.16? 167,30? d) Metropoltheater gGmbH für ?Theaterzugang für Behinderte? 2.000,00?
+- TOP 10.5.: Verlegung der Bücherbushaltestelle in Schwabing, Antwortschreiben
+- TOP 10.6.: Schulbauoffensive (SBO) 2013/30, Bedarfsentwickung und -planung für die öffentlichen Münchner Realschulen und Gymnasiuen ? Fortschreibung, Sitzungsvorlagennummer 14-20 / V 05740
+- TOP 10.7.: Haushaltsplan 2017 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Sozialreferats: Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses am 22.11.2016 a) Zentrale (Sitzungsvorlage Nr. 14-20 / V 07226) b) Stadtjugendamt (Sitzungsvorlage Nr. 14-20 / V 07218 c) Amt für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 07237) d) Amt für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 07291)
+- TOP 10.8.: Mehrjahresinvestitionsprogramm für die Jahre 2016 ? 2020 (auch unter C.5.3.12 und D.3.8)
+- TOP 10.9.: ?Konzert für einen verurteilten Mörder auf dem Corso Leopold? Stadt stellt Unterstützung ein?, Antrag Nr. 14-20 / A 02428 der ALFA, Referatsschreiben
+- TOP 10.3.1.: Baumfällungen
+- TOP 10.1.: Heidemannstr. 182, Neubau einer Sporthalle
+- TOP 10.2.: Wolf-Ferrari-Weg 4, 1 Linde
+- TOP 10.3.: Osterwaldstr. 108, Neubau von 18 Wohneinheiten mit Tiefgarage
+- TOP 10.1.: Freystr. 6, Abbruch Garagen und Neubau Wohngebäude (7WE)
+- TOP 10.2.: Heidemannstr. 182, Neubau Schule + Kita mit Tiefgarage
+- TOP 10.1.: Neupflanzungen von Bäumen und Sträuchern im Stadtgebiet, BA-Antrags-Nr. 14-20 / B 02448 des BA 12 vom 31.05.2016
+- TOP 10.5.2.: Genehmigte Baumfällungen
+- TOP 10.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 10.1.: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren Antrag Nr. 14-20 / A 01449 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürgerbeteiligung vom 13.10.2015, Sitzungsvorlagen Nr. 14-20 / V 7305
+- TOP 10.2.: Handlungsprogramm Mittlerer Ring, Wohnen am Ring, Sitzungsvorlagennummer 14-20 / V 06790
+- TOP 10.3.: Fragen zur aktuellen Situation des Laubholzbockkäfers im Stadtbezirk Bogenhausen, BA-Antrag NR. 14-20 / B 02697 des BA 13 vom 12.07.2016
+- TOP 10.4.: Wohnungspolitisches Handlungsprogramm, ?Wohnen in München VI? 2017-2021, Änderung des Mehrjahresinvestitionsprogramms 2016-2020, Finanzierung, Sitzungsvorlagennummer 14-20 / V 07205
+- TOP 10.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 ? 30.06.2016, Sitzungsvorlagennummer 14-20 / V 06610
+- TOP 10.6.: Maria-Josepha-Str. 6, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage, Baugenehmigung
+- TOP 10.7.: Realisierungswettbewerb, Schulstandorte auf dem Gelände der ehemaligen Bayernkaserne, Sitzungsvorlagennummer 14-20 / V 07392
+- TOP 10.8.: Programm ?Bürgerinnen und Bürger gestalten ihre Stadt?, Bürgerbeteiligung in den Stadtvierteln
+- TOP 10.9.: Toilette im Bereich des U-Bahnhofs Freimann, Beschlussvorlage für den BA12 zur öffentlichen Sitzung des BA am 27.09.2016, Referatsschreiben
+- TOP 10.10.: Bebauungsplan mit Grünordnung Nr. 2031 a, Freisinger Landstarße (östlich), Garchinger Mühlbach Altgerinne (westlich) und Verlängerung Josef-Wirth-Weg (südlich) im 12. Stadtbezirk Schwabing-Freimann, Umgestaltung Kreuzung Freisinger Landstraße / Josef-Wirth-Weg und Herstellung eines baulichen Radwegs und Gehwegs in der Freisinger Landstraße (Ostseite) (Teil B), Sitzungsvorlagennummer 14-20 / V 06465
+- TOP 10.11.: Überprüfung und Erlass einer Erhaltungssatzung nach §172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 04, 11 und 12, Sitzungsvorlagennummer 14-20 / V 06634
+- TOP 10.12.: Mehrjahresinvestitionsprogramm für die Jahre 2016 ? 2020 (auch unter B. 5.3.8 und D. 5. 3. 8)
+- TOP 10.1.: Mülltonnen und Bodendecker am Kinderspielplatz an der Münchner Freiheit entfernen (Initiative: Horst Engler-Hamm)
+- TOP 10.2.: Fußgängerüberweg an der Münchner Freiheit besser sichern (Initiative: Horst Engler-Hamm)
+- TOP 10.3.: Fußgängerbedarfsampel an der Kreuzung Kunigunden- / Biedersteiner Straße (Initiative: Janne Weinzierl)
+- TOP 10.4.: Fahrradstation der MVG Rad an der südlichen Seite der Kreuzung Franz-Josefstraße / Leopoldstraße (Initiative: Ekkehard Pascoe)
+- TOP 1: (E) Durchsetzung des Taubenfütterungsverbotes an der Münchner Freiheit - <div></div>
+- TOP 2: (E) Korrektur der Verkehrsführung Dietlindenstraße / Bieder-steiner Straße - <div></div>
+- TOP 3: (E) Verkehrs- und Parksituation in der Mommsenstraße, Ecke Osterwaldstraße - <div></div>
+- TOP 4: (E) Videoüberwachung der Fußgängerunterführung Harkortweg - <div></div>
+- TOP 4.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing- Freimann Widmung von Teilstrecken des Josef-Wirth-Weges - <div></div>
+- TOP 6: (E) Straßenunterhalt Tramtrasse Leopoldstraße / Johann-Fichte-Straße Empfehlung Nr. 14-20 / E 01082 der Bürgerversammlung des Stadtbezirkes 12 ? Schwabing - Freimann am 14.07.2016 - <div></div>
+- TOP 7: (E) Personelle Aufstockung der Polizeiinspektion 47 - <div></div>
+- TOP 7.1.: Einrichtung von Haltverboten in der Oskar-Schlemmer-Straße
+- TOP 7.1.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben Eisenbahnnordring ? Elektronisches Stellwerk (ESTW) München-Milbertshofen/-Freimann
+- TOP 7.2.: Anhörung gemäß §9 der Satzung für die Bezirksausschüsse, Georgen-/ Friedrich-/ Türkenstraße ? LSA-Abbau
+- TOP 7.3.: Planfeststellung nach §§ 8 ff des Luftverkehrgesetztes und § 9 des Gesetzes über die Umweltverträglichkeitsprüfung für das Vorhaben Verlegung der Polizeihubschrauberstaffel Bayern vom Verkehrsflughafen München an den bestehenden Hubschraubersonderlandeplatz Oberschleißheim
+- TOP 7.1.: Vermüllter Gehsteig und Grünanlage in der Leopoldstraße / Ecke Heckscherstraße
+- TOP 7.2.: Verbesserung der Radwegs-Zuführung von der Innenstadt bis zur Stadtgrenze
+- TOP 7.3.: Ersatzverkehr U3 von der Münchner Freiheit zum Scheidplatz
+- TOP 7.1.: Radweg nach Bogenhausen, BA-Antrags-Nr. 14-20 / B 02581 des BA 12 vom 27.06.2016
+- TOP 7.2.: Sicherung eines ausreichend breiten Gehwegs entlang der Sturystraße, BA-Antrags-Nr. 14-20 / B 02687 des BA 12 vom 26.07.2016
+- TOP 7.3.: Linksabbiegen aus der Dietlinden- in die Kunigundenstraße, BA-Antrags-Nr. 14-20 / B 02878 des BA 12 vom 27.09.2016
+- TOP 7.1.: Lützelsteiner Straße bei Anwesen 1a-5 und südlich Leutkircher Straße
+- TOP 7.3.: Einrichtung einer Schulbushaltestelle im Josef-Wirth-Weg
+- TOP 7.4.: Georg-Muche-Straße / Marianne-Brandt-Straße
+- TOP 7.5.: Neubau einer Lichtsignalanlage, Knotenpunkt Edmund-Rumpeler-Str./ Lilienthalallee
+- TOP 7.6.: Völckerstraße / Wünscherstraße, absolutes Haltverbot
+- TOP 7.1.: Leistungsprogramm der MVG für die Fahplanperiode 2017, Sitzungsvorlagennummer 14-20 / V 06236
+- TOP 7.2.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung an der Maria-Probst-Straße
+- TOP 7.3.: Toiletten in öffentlichen Grünanlagen, Sitzungsvorlagennummer 14-20 / V 07087
+- TOP 7.4.: Barrieren am Fuß-/ Fahrradweg Weißenhofweg, B.4.5 ? 09/16, Referatsschreiben
+- TOP 7.5.: Maria-Probst-Straße, erstmalige Herstellung im Umgriff des Bebauungsplans Nr. 2024
+- TOP 7.6.: Aktion Saubere Stadt, Wiederholung der Kampagne für ?Rein. Und Sauber?, des städt. Servicetelefon gegen Vermüllung, Sitzungsvorlagennummer 14-20 / V 06637
+- TOP 7.7.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlagennummer 14-20 / V 05253
+- TOP 7.8.: Mehrjahresinvestitionsprogramm für die Jahre 2016 ? 2020 (auch unter B. 5.3.8 und C. 5.3.12)
+- TOP 7.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: Anträge
+- TOP 7.5.: Unterrichtungen
+- TOP 10.2.: Entscheidungen
+- TOP 7.4.: Bürgeranliegen
+- TOP 7.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 7.5.3.: Sonstige Unterrichtungen
+- TOP 7.3.2.: Sonstige Anhörungen
+- TOP 7.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 7.7.: Arbeiten im Straßenraum der Leopoldstraße an beiden Straßenseiten zwischen der Herzog- und der Rheinstraße (Radwegsanierung)
