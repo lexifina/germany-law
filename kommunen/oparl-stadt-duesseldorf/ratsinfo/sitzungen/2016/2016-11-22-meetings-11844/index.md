@@ -1,0 +1,52 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-11-22T17:00:00+01:00
+- Ende: 2016-11-22T19:40:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11844
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11844
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279932.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279932.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00279932.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Umbau Öffentliche Grünanlage Apostelplatz - zur Kenntnis genommen
+- TOP 5: Nahverkehrsplan - einstimmig beschlossen
+- TOP 6: Rheinbahn-Haltestelle "Hardenbergstraße", Richtung S-Bhf. Gerresheim - einstimmig beschlossen
+- TOP 7: Nahverkehrsplan 2017
+- TOP 8: Einbringung des Entwurfs des Nahverkehrsplans der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 9: Ergänzungspflanzungen Ostpark - zur Kenntnis genommen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 11: Sitzungstermine der Bezirksvertretung 7 im Jahr 2017 - zur Kenntnis genommen
+- TOP 12: Verwendung von Haushaltsmitteln - mehrheitlich beschlossen
+- TOP 13: Fehlende Fahrradstellplätze auf der Benderstraße - mehrheitlich beschlossen
+- TOP 14: Nachlässiges Parken an der Benderstraße - mehrheitlich beschlossen
+- TOP 15: Vermeidung von Plastikmüll durch den Verzicht auf Plastiktüten - mehrheitlich abgelehnt
+- TOP 16: Mittelinsel Ikenstraße/Pfeifferstraße - mehrheitlich beschlossen
+- TOP 17: Grütersaaper Weg - einstimmig beschlossen
+- TOP 18: Gaslaternen – Erhaltungsbereich Dreifaltigkeitsstr., Vereinsstr., Ottostr. - zurückgezogen
+- TOP 19: Radwegeverbindung nach Erkrath - einstimmig beschlossen
+- TOP 20: Sicherer Schulweg für die Kinder der Hanna-Zürndorfer-Schule - einstimmig beschlossen
+- TOP 21: Instandsetzungsprogramm Straßen - vertagt
+- TOP 22: Rheinbahn-Haltestelle "Neuenhaus", Richtung Mettmann
+- TOP 23: Multifunktionsfläche - zur Kenntnis genommen
+- TOP 24: Saubere Luft für Anwohner/ innen der Ludenberger Straße - zur Kenntnis genommen
+- TOP 25: Gaslaternen – Abarbeitung des Ratsbeschlusses vom 15.12.2015 - zur Kenntnis genommen
+- TOP 26: Bürgersteige Benderstraße - zur Kenntnis genommen
+- TOP 27: Erweiterung Zentraldeponie Hubbelrath (ZDH)/Alternative - zur Kenntnis genommen
+- TOP 28: Schaffung zusätzlicher Kapazitäten zur Unterbringung von Asyl suchenden Personen - zur Kenntnis genommen
+- TOP 29: Fahrradverkehr Steinweg und Gerricusplatz - zur Kenntnis genommen
+- TOP 30: Übernachtungsplatz für Wohnmobile im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 31: Altstoffcontainer - zur Kenntnis genommen
+- TOP 32: Radfahrmöglichkeiten auf der Benderstraße - zur Kenntnis genommen
+- TOP 33: Aufstellung einer Gedenktafel - zur Kenntnis genommen
+- TOP 34: LM-Markt Dreherstraße 177/179 - zur Kenntnis genommen
+- TOP 35: Anwohnerparken Bergische Landstraße 3-17, 23, 27 und 31 - zur Kenntnis genommen
