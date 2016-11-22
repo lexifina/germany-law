@@ -1,0 +1,118 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-11-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3775118
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3775118
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Bahnwärter Kulturstätten GmbH Tanz- und Theaterabende 27.11.16 ? 01.05.17
+- TOP .2.: BA-eigenes Budget: Projekt "Zaide - eine Flucht" von W.A Mozart, Friedensoper am 11.,13. und 14.01.2017 in der Alten Kongresshalle, beantragte Summe aus dem BA eigenen Budget: 1200,00 ?
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Zu folgenden Unterrichtungen wurden im Unterausschuss KJS Anmerkungen getroffen: A 4.3: Prüfung auf Ensembleschutz für das Dreimühlenviertel, BA-Antrags-Nr. 14 - 20 / B 02873 des BA 2 vom 27.09.2016, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 17.10.2016 A 4.4 Baureferat, Folgebeschluss Toiletten in öffentlichen Grünanlagen, Sitzungsvorlage Nr. 14-20 / V 07087, Beschluss des Bauausschusses vom 04.10.2016 (SB) A 4.5 Programm "Bürgerinnen und Bürger gestalten ihre Stadt" Bürgerbeteiligung in den Stadtvierteln, Information des Referates für Stadtplanung und Bauordnung vom 21.10.2016 A 4.7 Lärmbelästigung Viehhofgelände, vgl. BA Sitzung vom 27.09.2016 TOP A 5.7, Zwischennachricht des Kreisverwaltungsreferates vom 25.10.2016
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Offener Bücherschrank
+- TOP .4.: Viehhof
+- TOP .5.: Anfrage von DOKU e.V. München an BA 2, Suche nach einem Atelierhaus für Künstlerinnen und Künstler, PLENUMSBESCHLUSS
+- TOP .1.: Beim Modellprojekt City2Share breit für intelligente gemeinsame Kfz-Nutzung werben und Vorteile im Öffentlichen Straßenraum erlebbar machen, PLENUMSBESCHLUSS
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Lindwurmstraße 65, Aufstockung und Ausbau zu Wohnungen - TEKTUR, vgl. Vertagung aus 2016.10 B 3.1.13 (Eilentscheidung des Vorsitzenden)
+- TOP .3.: Museumsinsel 1, Zwischennutzung des Kongresssaalgebäudes des Deutschen Museums, befristet auf fünf Jahre, vgl. Vertagung aus 2016.10 B 3.1.15
+- TOP .4.: Paul-Heyse-Straße 17, Anbau von Balkonen und eines Außenaufzugs, vgl. Vertagung aus 2016.10 B 3.1.17
+- TOP .5.: Reifenstuelstraße 6, Errichtung eines Außenlifts, Balkonen und Dachgeschossbau, vgl. Vertagung aus 2016.10 B 3.1.18
+- TOP .6.: Klenzestraße 57 b - 57 c, Zusammenlegung dreier Wohneinheiten zu zwei Maisonettenwohnungen (1. + 2 OG), vgl. Vertagung aus 2016.10 B 3.1.19
+- TOP .7.: Mathildenstraße 5/RGB, Anbau zweier Balkonanlagen mit Notleitern, Ausbau des Speichers zu einer 2. DG-Wohnung mit Einbau einer Dachgaube, Nutzungsänderung der Gewerbeeinheiten im EG zu Wohnungen, vgl. Vertagung aus 2016.10 B 3.1.20
+- TOP .8.: Jahnstraße 11, Nutzungsänderung mit Umbau (RGB): Gewerbe zu Wohnen mit Errichtung einer Dachterrasse, Unterkellerung und Neuaufbau der vorderen Außenwand - TEKTUR, vgl. Vertagung aus 2016.10 B 3.1.21
+- TOP .9.: Baaderstraße 86, Abbruch des Bestandsgebäudes und Neubau einer Wohnanlage (76 WE) auf Bestandsgründung mit erdgeschossiger Mischnutzung - VORBESCHEID
+- TOP .10.: Buttermelcherstraße 17, Umbau einer Wohneinheit (Nr. 7) und Abbau eines Balkons im 2.OG
+- TOP .11.: Baaderstraße 52; Aufstockung eines erdgeschossigen Werkstattgebäudes um zwei Geschosse zu Wohnzwecken sowie Errichtung einer Dachterrasse auf dem Nebengebäude - Vorbescheid
+- TOP .12.: Geyerstraße 3 / RGB; Abbruch des Pultdach-Dachstuhls, Aufstockung um zwei Geschosse
+- TOP .13.: Goethestraße 30-34, Teilabbruch, Um- und Neubau eines Wohn- und Geschäftsgebäudes mit großflächigem Lebensmitteleinzelhandelsbetrieb und Tiefgarage - TEKTUR, PLENUMSBESCHLUSS
+- TOP .14.: Waltherstraße 31, Neubau Boardinghouse mit Supermarkt, PLENUMSBESCHLUSS
+- TOP .15.: Bayerstraße 7, Aufstockung eines Hotels - Vorbescheid, PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Bürgeranliegen: MVG Buslinie Nr. 62 kommt immer zu spät an. Längere Zeit kommt kein Bus, dann plötzlich mehrere Busse auf einmal.
+- TOP .1.: Alter Südlicher Friedhof, Nutzung als Stadtteil-Friedhof
+- TOP .2.: Sanierung bzw. Erneuerung Fahrbahn "Am Glockenbach", PLENUMSBESCHLUSS
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Klenzestraße 72, Genehmigung einer Freischankfläche
+- TOP .2.: Thalkirchner Straße 16, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Nutzungsanfrage Theresienwiese 2017, Anhörung des Referates für Arbeit und Wirtschaft, PLENUMSBESCHLUSS
+- TOP .2.: Nutzung der Theresienwiese - Anfrage zum Busparken am 13.05.2017
+- TOP .3.: Kulturstrand 2017, Parallelveranstaltungsort Corneliusbrücke, PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1.: Lindwurmstraße 127, Antrag für Sitzgelegenheiten, vgl. Vertagung aus 2016.10 C 3.3.3
+- TOP .2.: Gärtnerplatz 1, Antrag für Sitzgelegenheiten, PLENUMSBESCHLUSS
+- TOP .1.: Begrünungsplan BA 2
+- TOP .2.: Umgestaltung Holzplatz
+- TOP .3.: Bürgeranliegen, Bänke am Kapuzinerplatz, vgl. Vertagung aus 2016.10 C 5.6
+- TOP .4.: Bürgeranliegen, Vandalismus am Gärtnerplatz
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen; Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse, Anhörungsschreiben des Direktoriums vom 25.10.2016
+- TOP .2.: Kooperationsplattform "Alfresco"
+- TOP .3.: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung "inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde", BA-Antrags-Nr. 14-20/B 02359 des BA 1 - Altstadt-Lehel- vom 10.05.2016, Anhörungsschreiben des Direktoriums vom 26.10.2016
+- TOP .4.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei Befreiung von der Stellplatzsatzung, BA-Antrags-Nr. 14-20/B 02847 des BA 15 - Trudering-Riem vom 22.09.2016; Anhörungsschreiben des Direktoriums vom 26.10.2016
+- TOP .5.: Gewinnung neuer barrierefreier Wahllokale zur Bundestagswahl 2017, vgl. Vertagung aus 2016.10 D 1.2
+- TOP .6.: Änderung der BA-Satzung: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle", Antrag des BA 15 - Trudering-Riem Nr. 14 - 20/ B 02859 vom 22.09.2016; Anhörungsschreiben vom 10.11.2016, PLENUMSBESCHLUSS
+- TOP .7.: Bürgerhaushalt: Stellungnahme zur öffentlichen Beschlussvorlage
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 05.12.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 06.12.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 07.12.2016 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung enfällt. Die BA-Sitzung findet am Dienstag, den 13.12.2016 um 19 Uhr im Saal in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Prüfung auf Ensembleschutz für das Dreimühlenviertel, BA-Antrags-Nr. 14 - 20 / B 02873 des BA 2 vom 27.09.2016, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 17.10.2016
+- TOP .4.: Baureferat, Folgebeschluss Toiletten in öffentlichen Grünanlagen, Sitzungsvorlage Nr. 14-20 / V 07087, Beschluss des Bauausschusses vom 04.10.2016 (SB)
+- TOP .6.: Referat für Bildung und Sport, Beschluss Schulbauoffensive (SBO) 2013/30, Bedarfsentwicklung und -planung für die öffentlichen Münchener Realschulen und Gymnasien - Fortschreibung
+- TOP .7.: Schulentwicklungsplanung, Sitzungsvorlage Nr. 14-20/V01135, Stellungnahmen des BA 2 vom 27.07.2016 und 28.09.2016; Antwortschreiben des Referates für Bildung und Sport vom 26.10.2016
+- TOP .8.: Lärmbelästigung Viehhofgelände, vgl. BA Sitzung vom 27.09.2016 TOP A 5.7, Zwischennachricht des Kreisverwaltungsreferates vom 25.10.2016
+- TOP .9.: Sozialreferat, Beschlussvorlage Haushaltsplan 2017, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger?, - der Zentrale, Sitzungsvorlage Nr. 14-20 / V 07226 - des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 07237 - des Stadtjugendamtes, Sitzungsvorlage Nr. 14-20 / V 07218 - des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 07291
+- TOP .10.: Stadtkämmerei, Mehrjahresinvestitionsprogramm (MIP) 2016 - 2020, Beschlussvorlage Sitzungsvorlage Nr. 14 - 20 / V 07337, Beschluss der Vollversammlung des Stadtrates vom 15.11.2016 - Kurzübersicht für BA 2
+- TOP .11.: Referat für Stadtplanung und Bauordnung, Beschluss Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021; Änderung des Mehrjahresinvestitionsprogramms 2016-2020; Finanzierung, Sitzungsvorlagen Nr. 14-20 / V 07205, Beschluss der Vollversammlung des Stadtrates vom 15.11.2016
+- TOP .12.: Schaffung von mehr Graffiti-Flächen an der Tumblingerstraße, BA-Antrags-Nr.: 14-20/00475 vom 21.10.2014 des BA2, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 09.11.2016
+- TOP .13.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen! Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern, Sitzungsvorlagen Nr. 14 -20 / V 07430, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 (SB)
+- TOP .14.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters, Sitzungsvorlagen Nr. 14 - 20 / V 07360, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 (VB)
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Baustellen- und Verkehrsschilder in Grünflächen, vgl. BA2 Sitzung vom 27.09.2016, Schreiben des Baureferates vom 19.10.2016
+- TOP .3.: Baureferat, Beschlussvorlage Aktion Saubere Stadt - Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung, Sitzungsvorlage Nr. 14-20 / V 06637, Beschluss des Bauausschusses vom 25.10.2016 (SB)
+- TOP .4.: Bevorstehende Entfernungen von Gefahrenbäumen
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm 2016 - 2020, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016 - 2020, Infrastrukturversorgungskonzept 2016 - 2020; Sitzungsvorlagen Nr. 14 - 20 / V 07482; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 (VB)
+- TOP .6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020, Natur- und Denkmalschutz, Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Lokalbaukommission, Stadtplanung, Städtebauförderung, Förderung Wohnungsbau & Wohnsiedlung; Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 6,7,9,20,21 und 25, Sitzungsvorlagen Nr. 14 - 20 / V 07533, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 (VB)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichen Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Bürgeranfragen: Bänke am Baldeplatz und Grillen auf der Weideninsel, Antwortschreiben des Baureferates vom 18.10.2016
+- TOP .7.: Bürgeranliegen "Lärmbelästigung durch schnelle und laute Autos in der Schwanthalterstraße", Antwortemail des Referates für Gesundheit und Umwelt vom 19.10.2016
+- TOP .8.: Zusatzschild ?Radfahrer frei? an dem Abbiegeverbot in der Müllerstr. Richtung Süden, Ecke Pestalozzistr.
+- TOP .9.: Briefkasten an der Auenstraße/Fraunhoferstraße soll umgesetzt werden
+- TOP .10.: Genehmigungen von Zeitungsentnahmegeräten; Schreiben des Kreisverwaltungsreferates vom 20.10.2016, Einholung einer Entscheidung des Oberbürgermeisters zum weiteren Verfahren
+- TOP .11.: Bürgeranliegen; Theresienwiese - Beschwerde, ästhetischer Art, Antwort-Email des Referates für Arbeit und Wirtschaft vom 03.11.2016 als Information
+- TOP .12.: Bürgeranliegen; Oktoberfest 2016 - Verkehrsregelungen, vgl. TOP 2016.10 C 5.4; Antwort-Email des Kreisverwaltungsreferates vom 03.11.2016
+- TOP .13.: Standortfrage für die Veranstaltung "Kulturstrand" - Vater-Rhein-Brunnen/Corneliusbrücke (Einbindung der Bezirksausschüsse 1 und 2), Eilentscheidung des Vorsitzenden vom 07.11.2016
+- TOP .14.: Referat für Stadtplanung und Bauordnung, Beschluss Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlagen Nr. 14-20 / V05253, Beschluss der Vollversammlung des Stadtrates vom 15.11.2016
+- TOP .15.: Oktoberfestparkplatz im Viehhof; Schreiben des BA 2 vom 18.09.2016; Antwortschreiben des Kommunalreferates vom 26.10.2016
+- TOP .16.: Änderung der Sondernutzungsrichtlinien Zeitungsentnahmegeräte; Antrags-Nr. 14 - 20 / B 02875 des BA 2 vom 27.09.2016; Zwischennachricht des Kreisverwaltungsreferates vom 08.11.2016
+- TOP .17.: Bürgeranliegen, Radfahrer auf Gehweg, Schwanthalerstraße, vgl. TOP 2016.10 C 5.5, Antwort der Polizeiinspektion 14 per Email vom 10.11.2016
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
+- TOP .1.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" Bürgerbeteiligung in den Stadtvierteln, Information des Referates für Stadtplanung und Bauordnung vom 21.10.2016
