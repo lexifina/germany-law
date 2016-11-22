@@ -1,0 +1,116 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-11-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Anhörung zum Bürgerhaushalt Stadtratsaufträge aus dem Beschluss 14-20/ V 02563 der Vollversammlung vom 25.03.2015
+- TOP .2.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen, Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP .3.: Änderung der BA-Satzung, Anhörung der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung, BA-Antrag des BA 15 ? Trudering-Riem
+- TOP .4.: Änderung der BA-Satzung, Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde?, Antrag des Bezirksausschuss 1 Altstadt-Lehel
+- TOP .5.: Änderung der BA-Satzung, Anhörungsrecht Planungen im Bereich ?Wohnen für Alle?, Antrag des BA 15 - Trudering-Riem
+- TOP .6.: Rückmeldung zu Vater-Rhein-Brunnen ?Stadtstrand 2016?
+- TOP .7.: Standortfrage für die Veranstaltung "Kulturstrand" 2017 ? Vater-Rhein- Brunnen/Corneliusbrücke
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Planungsstand Tiefgarage Thomas-Wimmer-Ring
+- TOP 7.1.: Bürgeranliegen, Planungsstand Tiefgarage Thomas-Wimmer-Ring
+- TOP 7.2.: Bürgeranliegen, Brandschutz und Stellplätze Adelgundenstraße 7
+- TOP 7.3.: Bürgeranliegen, Sanierung und Erhalt des Bewegungsbades BRK Lehel
+- TOP 7.4.: BA-Antrag, Dienstbarkeit Durchgang BRK Seitzgasse über Innenhof zur St.-Anna- Straße
+- TOP 7.5.: Bürgeranliegen, Praterinsel, Bewerbung um Atelierräume
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Oettingenstraße 50-54, DG-Neuerrichtung und -Ausbau mit 5 neuen Wohnungen sowie Anbau von Aufzügen an drei Mehrfamilienhäuser
+- TOP 7.2.: Ledererstraße 14, Erweiterung und Sanierung eines denkmalgeschützten Gebäudes
+- TOP 7.3.: Stollbergstraße 1, Anbau eines Wohn- und Geschäftshauses mit Tiefgarage an das bestehende Wohnhaus
+- TOP 7.4.: Müllerstraße 2-6, verschiedene Nutzungsänderungen, Vorstellung durch den Bauherrn, vertagt aus 2016.10 B 3.1.2
+- TOP 7.5.: Kreuzstraße 17, Neubau eines Wohn- und Geschäftshauses; Sendlinger Straße 46 Umbau, Sanierung, Erweiterung und Nutzungsänderung eines Hotel- und Geschäftshauses
+- TOP 7.1.: Antwortschreiben des Referats für Stadtplanung und Bauordnung zu Stellungnahmen des BA 1 bezüglich der Bauvorhaben Weinstraße 6 und Prannerstraße 7
+- TOP 7.2.: Werbeanlagenverordnung erlassen, Empfehlung Nr. 14-20/E00827 aus der Bürgerversammlung des Stadtbezirks 1 am 03.12.2015, Sitzungsvorlage Nr. 14- 20/V06471, Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP 7.1.: Antrag aus der Kinder- und Jugendversammlung, Bolzplatz auf der Wiese nördlich des Vater-Rhein-Brunnens
+- TOP 7.2.: Antrag aus der Kinder- und Jugendversammlung, Kunstrasen- bzw. Rasenbelag auf dem Bolzplatz bei Frl. Grüneis im Englischen Garten
+- TOP 7.3.: Bürgeranliegen, Störung der Veranstaltung ?Weg der Erinnerung? am 09.11.2016
+- TOP 7.4.: Bürgeranliegen, Wildcampen im Tal, Bettler im Tal, Freischankfläche der Gaststätte ?Sausalitos?
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Antrag für die Erweiterung einer Freischankfläche, St.-Anna-Straße 18, vertagt aus 2016.10 C 2.1.4, Entscheidung nach Ortstermin
+- TOP 7.2.: Antrag für die Genehmigung einer Freischankfläche, Mannhardtstraße, Onkel Emma eG
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Anträge für Mobile Fahrradständer, Residenzstraße 23 und Maximilianstraße 21, vertagt aus 2016.09 C 2.2.2, Entscheidung nach Ortstermin
+- TOP 7.2.: Antrag für die Aufstellung eines Zeitungsentnahmegerätes, Sendlinger Straße 62
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Vorabanfrage, Oper für alle 2017, Max-Joseph-Platz
+- TOP 7.1.: Information zum Umbau U-Bahnhof Sendlinger Tor
+- TOP 7.1.: Bürgeranliegen bezüglich Mobilfunk
+- TOP 7.2.: Antrag aus der Kinder- und Jugendversammlung, Fußgängerampel östliche Überquerung Prinzregentenstraße/Oettingenstraße
+- TOP 7.3.: Antrag aus der Kinder- und Jugendversammlung, Mehr Geschwindigkeitskontrollen und Polizeipräsenz auf Straßen im Viertel
+- TOP 7.4.: Antrag aus der Kinder- und Jugendversammlung, Zweite Rettungsvorrichtung vor dem Wehr im Eisbach
+- TOP 7.5.: BA-Antrag, Absolutes Haltverbot an der Biegung ?Am Gries?, Entscheidung nach Ortstermin, vertagt aus 2016.09 D 1.1
+- TOP 7.6.: BA-Antrag, Bäume am Marienhof / Ecke Residenz- und Schrammerstraße, 2. Stammstrecke
+- TOP 7.1.: Antrag auf Baumfällung, Rosskastanie, Platzl 9
+- TOP 7.2.: Antrag des Bezirksausschusses 3, Einhaltung der zulässigen Höchstgeschwindigkeit im Altstadtringtunnel
+- TOP 7.3.: Pflanzung von Bäumen in der Seitzstraße
+- TOP 7.4.: Antrag auf Baumfällung, Neuhauserstraße 8-10, Alte Akademie / Schmuckhof
+- TOP 7.1.: Antrag aus der Kinder- und Jugendversammlung, Waveboardanlage im Viertel
+- TOP 7.2.: Antrag aus der Kinder- und Jugendversammlung, Trainingsgeräte an Eisbachwiese
+- TOP 7.3.: Antrag aus der Kinder- und Jugendversammlung , Rollschuhhalle
+- TOP 7.4.: Antrag aus der Kinder- und Jugendversammlung, Skaterpark im Viertel
+- TOP 7.5.: Antrag aus der Kinder- und Jugendversammlung, Wiedererrichtung der Nestschaukel am Spielplatz neben dem Bolzplatz Englischer Garten
+- TOP 7.6.: Antrag aus der Kinder- und Jugendversammlung, Jugendtreff für Jugendliche über zwölf Jahre
+- TOP 7.7.: Antrag aus der Kinder- und Jugendversammlung, Spielgeräte vor dem Kartencontainer beim Deutschen Museum, Empfehlung für den Bezirksausschuss 2
+- TOP 7.8.: Bürgeranliegen, Suche nach einem Haus für Künstlerinnen und Künstler
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Theater Hofspielhaus Theaterstück ?Rasputin? vom 09.11. - 30.12.2016 - <div></div>
+- TOP 7.1.: Öffnung von Schulhöfen und Schulsportanlagen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Erhöhung der Freibeträge für Aufwandsentschädigungen
+- TOP 0.2.: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse, Sitzungsvorlage Nr. 14-20 / V06610, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung
+- TOP 0.3.: Mehrjahresinvesititionsprogramm für die Jahre 2016-2020
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München VI? 2017-2021, Sitzungsvorlage Nr. 14-20 / V07205
+- TOP 0.3.: Nord-Süd-Querung der Altstadt für den Radverkehr, Bauliche Maßnahmen im 1. Stadtbezirk, Sitzungsvorlage Nr. 14-20/V06472, Bekanntgabe in der Sitzung des Bauausschusses vom 25.10.2016
+- TOP 0.4.: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren - Antrag Nr. 14-20 / A 01449 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürgerbeteiligung vom 13.10.2015, Sitzungsvorlage Nr. 14-20 / V 07305, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 0.5.: Handlungsprogramm Mittlerer Ring, Wohnen am Ring, Sitzungsvorlage Nr. 14-20/V06790 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 0.6.: Leben im Alter, Wohnen 2, Wohnungsgrundrisse für veränderbare Wohnungsgrößen, Sitzungsvorlage Nr. 14-20 / V07222 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 0.7.: Frauenplatz und Löwengrube, Gesamtkonzeption, Sitzungsvorlage Nr. 14-20 / V 07146, Beschluss des Bauausschusses vom 25.10.2016
+- TOP 0.8.: Bericht zur Wohnungssituation in München 2014-2015, Sitzungsvorlage Nr. 14-20/V07098
+- TOP 0.9.: Regionale Kooperationen stärken (III) ? Folgeprojekte Regionale Wohnungsbaukonferenzen, Finanzierungsbeschluss für regionale Projekte, Sitzungsvorlage Nr. 14-20/V06894
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Bürgerschreiben, Zweckentfremdung von Streugutboxen
+- TOP 0.1.: Aktion Saubere Stadt, Sitzungsvorlage Nr. 14-20/V06637, Beschluss des Bauausschusses vom 25.10.2016
+- TOP 0.2.: Toiletten in öffentlichen Grünanlagen, Sitzungsvorlage Nr. 14-20 / V07087, Beschluss des Bauausschusses vom 04.10.2016
+- TOP 0.3.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum: Thomas-Wimmer-Ring 9-17
+- TOP 0.4.: Linksabbiegemöglichkeit zum Altstadtring, BV-Empfehlung Nr. 14-20 / E00828, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016
+- TOP 0.5.: Leistungsprogramm der MVG für die Fahrplanperiode 2017
+- TOP 0.6.: Abdruck, Schreiben zu Taxiverkehr und Gehsteigbepflanzung in der Wurzerstraße
+- TOP 0.7.: Abdruck, Erhalt des Landschftsschutzgebietes Isarauen / Isaranlagen als Erholungsgebiet, Beschluss des Bezirksausschusses 1 vom 18.10.2016, Sitzungsvorlage Nr. 14-20 / 07058
+- TOP 0.8.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20 / V 05253
+- TOP 0.9.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen, Burgstraße 4-6
+- TOP 0.10.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Marienstraße 18
+- TOP 0.11.: Energienutzungsplan für München, Sitzungsvorlage Nr. 14-20/V07115
+- TOP 0.1.: Schulbauoffensive 2013/30, Bedarfsentwicklung und Planung für die Münchner Realschulen und Gymnasien ? Fortschreibung, Sitzungsvorlage Nr. 14-20 / V05740, Beschluss der Vollversammlung des Stadtrates vom 28.09.2016
+- TOP 0.2.: Abdruck, Direktoriumsschreiben an Hofspielhaus wegen doppelter Förderung zur Gründung eines Jugendclubs
+- TOP 0.3.: Gebundene Ganztagsschulklassen an Grundschulen im Schuljahr 2016/2017, Übersicht gemäß Treffen der BA-Vorsitzenden mit der Stadtschulrätin
+- TOP 0.4.: Haushaltsplan 2017 ? Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2017
+- TOP 0.5.: Verwendungsnachweis, Hofspielhaus ?Schwestern?
+- TOP 0.6.: Anmietung zusätzlicher Räume für ein Jugendcafe in der Blumenstraße 29 durch den Träger Diversity e.V., Sitzungsvorlage Nr. 14-20 / V07006
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
+- TOP 7.6.: Antrag auf Baumfällung, St. Anna-Straße 19
