@@ -1,0 +1,8 @@
+# TOP 8: Arbeitsmarkt- und Integrationsprogramm des Jobcenters der Stadt Münster 2017
+
+- Sitzung: Sitzung (Etat) (2016-11-23)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/165613
+- Ergebnis: vertagt
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/61942
