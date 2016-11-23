@@ -1,0 +1,56 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2016-11-23T20:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3818730
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3818730
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Kinderland Kubus Puchatek e.V. Wiederherstellung und Instandsetzung der Blitzschutzanlage
+- TOP .2.: (E) Budget der Bezirksausschüsse Elternbeirat an der Grundschule an der Wilhelmstraße Tanzprojekt ab Mitte Januar 2017
+- TOP .1.: Bürger: Suche nach einem Atelierhaus für Künstlerinnen und Künstler
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Elisabethplatz 2: ?Friede+Stern?: Aufstellen neuer Verkaufseinrichtungen
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Silvesterlauf im Olympiapark und entlang der Ackermannstraße
+- TOP .2.1.: Planen
+- TOP .1.: Vorbescheid St.-Blasien-Str. 1a ? 3a: Neubau eines Wohngebäudes (35 WE) mit Tiefgarage
+- TOP .2.: Hohenzollernstr. 29: Aufstockung des Seitengebäudes im Foyerbereich
+- TOP .3.: Clemensstr. 103: Einhausung der Dachterrasse einer DG-Wohnung
+- TOP .4.: Infanteriestr. 14: Neubau eines Mehrfamilienhauses (98 WE) mit Büroeinheit im EG (470 m²) mit Tiefgarage (120 Stellplätze)
+- TOP .5.: Vorbescheid Clemensstr. 85-95 a: Neubau eines Wohnhauses (Hofbebauung)
+- TOP .6.: Vorbescheid Emanuelstr. 20: Aufstockung zweier Wohngebäude um je 2 Geschosse
+- TOP .7.: Tengstr. 37: DG-Ausbau mit Errichtung zweier Wohnungen sowie je zweier Balkone und Gauben
+- TOP .8.: Parzivalstr. 16: Errichtung einer Dampfcontaineranlage für das Klinikum Schwabing (befristet bis 31.12.2022)
+- TOP .9.: Vorbescheid Kurfürstenstr. 22 RGB: Neubau eines kleinen Rückgebäudes im Innenhof des Anwesens mit einer Wohnung (Varianten 1, 1 A, 2)
+- TOP .10.: Mainzer Str. 22: Umbau zweier Freisitze zu aufgeständerten Terrassen auf EG-Niveau
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürgerin: Parksituation im Bereich Elisabeth-Kohn-Straße/Centa-Herker-Bogen/Agnes-Neuhaus-Straße
+- TOP .2.: Bürgerin: Sicherer Überweg Schleißheimer / Unertlstraße (vertagt aus 10/16)
+- TOP .3.: Grüne: Blindengerechter Ausbau des Hohenzollernplatzes
+- TOP .2.1.: Umwelt
+- TOP .1.: Schleißheimer Str. 203 a: Fällung eines Bergahorn
+- TOP .2.: Elisabethstr. 2: Fällung eines Ahorn
+- TOP .3.: Birnauer Straße (am Ufer des Nymphenburg-Biedersteiner-Kanals): Fällung einer Esche
+- TOP .2.2.: Verkehr
+- TOP 1: (E) Busanbindung des Ackermannbogens an den Scheid- und Rotkreuzplatz zeitgleich mit der neuen Linienführung der Linie 59 Empfehlung Nr. 14-20 / E 01134 der Bürgerversammlung des Stadtbezirkes 04 ? Schwabing West am 06.10.2016
+- TOP 1.2.: Georgen-/Friedrichstraße und Georgen-/Türkenstraße: Abbau der Lichtsignalanlagen und Umbau der Kreuzungen
+- TOP 1.1.: Bürgerhaushalt auf Stadtbezirksebene; Anhörung zum Entwurf der Beschlussvorlage für den Stadtrat
+- TOP 1.2.: Änderung der Geschäftsordnung des Stadtrates; Wertgrenzen bei Baumaßnahmen Auswirkungen auf die BA-Satzung und die OB-Vollmacht für die Bezirksausschüsse
+- TOP 1.3.: Änderung der BA-Satzung: Anhörungsrecht der Bezirksausschüsse bei Befreiungen von der Stellplatzsatzung (Antrag des BA 15 Trudering-Riem)
+- TOP 1.4.: Änderung der BA-Satzung: Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde? (Antrag des BA 1 Altstadt-Lehel)
+- TOP 1.5.: Anhörungsrecht für Planungen im Bereich ?Wohnen für alle? (Antrag des BA 15 Trudering-Riem)
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
