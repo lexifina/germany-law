@@ -1,0 +1,54 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-11-24T17:05:00+01:00
+- Ende: 2016-11-24T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10145
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10145
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00397745.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Zwischenbericht "Fortschreibung Einzelhandels- und Zentrenkonzept Münster"
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Anträge und Eingaben
+- TOP 5.1: Bekanntgabe
+- TOP 5.2: Stellungnahmen
+- TOP 6: Haushaltsplanberatungen
+- TOP 6.1: Beratungen des Haushaltsplans 2017, des Finanzplans und des Investitionsprogramms 2017 - 2020
+- TOP 6.2: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa) - ohne Beschlussfassung geschoben
+- TOP 7: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 7.1: Gewerbeflächenentwicklungskonzept Münster - einstimmig beschlossen
+- TOP 7.2: „Modell: Münster-Integration – Unusual aspects of integration oder Die andere Blickrichtung in/für Westfalen auf Integration” hier: Modellbauprojekt „Wohnen für Alle” - einstimmig beschlossen
+- TOP 7.3: Fortschreibung der Kleinräumigen Bevölkerungsprognose (KBP) für den Zeitraum 2015 - 2025: Zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 7.4: Prioritätensetzung bei der Bearbeitung der vorliegenden Anträge zu Stadteilentwicklungskonzepten - einstimmig geändert beschlossen
+- TOP 7.5: Förderung von Stadterneuerungsprojekten - Sachstand 2016 und Anträge 2017 - einstimmig beschlossen
+- TOP 8: Stadtplanung
+- TOP 8.1: 22. Änderung des FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 8.2: Bebauungsplan Nr. 536 - Erweiterter Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 8.3: Bebauungsplan Nr. 569 - Erneute Offenlegung - zur Kenntnis genommen
+- TOP 8.4: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2015 - zur Kenntnis genommen
+- TOP 8.5: Städtebaulicher Wettbewerb "Albachten-Ost" - Auslobung - einstimmig geändert beschlossen
+- TOP 9: Verkehr
+- TOP 9.1: Radverkehrskonzept - Münster 2025 - mehrheitlich geändert beschlossen
+- TOP 9.2: Entwicklung des Fernbuslinienverkehrs in Münster - zur Kenntnis genommen
+- TOP 9.3: Barrierefreier Ausbau der Bushaltestelle „Gescherweg B“ in der Hensenstraße - einstimmig beschlossen
+- TOP 9.4: Handorfer Straße - Ausbau des östlichen Geh- und Radweges zwischen Zufahrt Gartencenter und Gildenstraße - einstimmig beschlossen
+- TOP 9.5: Gimbter Straße (K 21) – Ausbau eines gemeinsamen Geh- und Radweges zwischen Am Hangkamp und Stadtgrenze (Aa) - einstimmig beschlossen
+- TOP 9.6: Hiltruper Straße - Optimierung der Radverkehrsanlagen - einstimmig beschlossen
+- TOP 9.7: Verkehrsverhältnisse im Kreuzungsbereich Trauttmansdorffstraße/An den Loddenbüschen - von der Tagesordnung abgesetzt
+- TOP 9.8: Osthofstraße - Einrichtung einer Mittelinsel in Höhe der Einmündung Tweehues - einstimmig beschlossen
+- TOP 9.9: Barrierefreier Ausbau der Bushaltestellen „Angelmodde Kirche" Antrag lfd. Nr. A-SO/0003/2015 der CDU-Fraktion (Anlage 1) - vertagt
+- TOP 9.10: Fortführung des Verkehrssicherheitsprogramms 2017 - ohne Beschlussfassung geschoben
+- TOP 10: Bauvorhaben
+- TOP 10.1: Neubau Wohngebäude (Friedrich-Ebert-Str. 180/Scheibenstr. 60, 62) - von der Tagesordnung abgesetzt
+- TOP 10.2: Umbau und Nutzungsänderung (Hostel) eines Wohn- und Geschäftshauses (Ludgeristr. 51, 53/Verspoel 1) - von der Tagesordnung abgesetzt
+- TOP 10.3: Neugestaltung Fürstenbergplatz/Jesuitengang - einstimmig beschlossen
+- TOP 11: Verschiedenes
