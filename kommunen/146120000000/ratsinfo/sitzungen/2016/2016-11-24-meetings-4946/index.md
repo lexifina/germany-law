@@ -1,0 +1,52 @@
+# 32. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-11-24T16:00:00+01:00
+- Ende: 2016-11-24T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4946
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4946
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00276020.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Einwohnerinnen- und Einwohnerfragestunde
+- TOP 2.1: Zwischenstand zur "Wiederbelebung des Fernsehturmes Dresden" - erledigt
+- TOP 2.2: Verantwortung für Schloß Übigau und Park - erledigt
+- TOP 2.3: Verkehrssituation auf der Buchenstraße - Dresden Neustadt - erledigt
+- TOP 2.4: Umgestaltung und Erneuerung des Stadtteils Pieschen - erledigt
+- TOP 2.5: Entschäfung des Unfallschwerpunktes Elberadweg am Blauen Wunder - Schillerplatz - erledigt
+- TOP 2.6: marode Bürgersteige in Striesen - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 3.1: Umbesetzung im OBR Klotzsche - Zustimmung
+- TOP 3.2: Umbesetzung im OBR Leuben - Zustimmung
+- TOP 3.3: Umbesetzungen im OBR Blasewitz - Zustimmung
+- TOP 3.4: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 4: Besetzung des Bildungsbeirates gemäß § 2 der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Einwendungen gegen den Entwurf der Haushaltssatzung 2017/2018 gemäß § 76 SächsGemO - Zustimmung mit Änderung
+- TOP 7: Haushaltssatzung 2017/2018 und Wirtschaftspläne 2017 der Eigenbetriebe - Zustimmung mit Änderung
+- TOP 8: Vertagungen der Stadtratssitzung vom 3. November 2016
+- TOP 8.1: Bebauungsplan Nr. 110.6, Dresden-Mickten Nr. 7, Wohnbebauung Sternstraße - Vertagung durch Einreicher
+- TOP 8.2: Benennung von kommunalen Sportstätten in Dresden - Ersetzung
+- TOP 8.3: "Dynamo-Stadion" ein Stadion für Dresden - Zustimmung
+- TOP 8.4: Schulbauleitlinie der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 8.5: Änderung der Satzung des Eigenbetriebes Kindertageseinrichtungen Dresden sowie der Satzung der Landeshauptstadt Dresden für das Jugendamt - Ersetzung
+- TOP 9: Verkauf eines Grundstückes in Dresden-Neustadt - Vertagung nach 22 Uhr
+- TOP 10: Ausverkauf stoppen – Grundstücke der Landeshauptstadt für Sozialraumplanung und Wohnungsbau sichern! - Vertagung nach 22 Uhr
+- TOP 11: Nachtrag zum Erbbaurechtsvertrag Eisenacher Straße 21 - Zustimmung
+- TOP 12: Nutzungsänderung zur Unterbringung von Asylbewerberinnen und Asylbewerbern in Unterbringung von unbegleiteten ausländischen Minderjährigen (uaM) - Vertagung nach 22 Uhr
+- TOP 13: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 14: Planungsrahmen der Kinder- und Jugendhilfe in Dresden - Vertagung nach 22 Uhr
+- TOP 15: Neubenennung einer Straße - Zustimmung
+- TOP 16: Betriebssatzung für den Eigenbetrieb Städtisches Friedhofs- und Bestattungswesen Dresden der Landeshauptstadt Dresden - Zustimmung
+- TOP 17: Sachstand Plan Hochwasservorsorge Dresden (PHD) - Zustimmung
+- TOP 18: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2016, 2017 und 2018 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 19: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 20: Mehrjährige Förderung freier Träger - Vertagung nach 22 Uhr
+- TOP 21: Einrichtung einer Wohnberatungsstelle für alters- und behindertengerechtes Wohnen - Vertagung nach 22 Uhr
+- TOP 22: Fernbuslinien von Dresden nach Berlin erhalten - Haltestelle Neustädter Bahnhof für alle Linien sichern - Vertagung nach 22 Uhr
