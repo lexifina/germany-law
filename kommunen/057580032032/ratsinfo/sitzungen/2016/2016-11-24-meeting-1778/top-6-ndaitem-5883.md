@@ -1,0 +1,9 @@
+# TOP 6: 5. vereinfachte Änderung des Bebauungsplanes Nr. 5 "Gewerbegebiet Wallenbrück Teil I"; Beratung und Beschlussfassung über die im Rahmen der Beteiligung der betroffenen Öffentlichkeit und der Trägerbeteiligung gem. § 13 Abs. 2 Baugesetzbuch (BauGB) vorgebrachten Stellungnahmen sowie Satzungsbeschluss gem. § 10 BauGB
+
+- Sitzung: Rat (18. Sitzung) (2016-11-24)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5883
+- Beratung: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1985
+- Beschluss (Datei): Beschlusstext (5. vereinfachte Änderung des Bebauungsplanes Nr. 5 "Gewerbegebiet Wallenbrück Teil I";
+Beratung und Beschlussfassung über die im Rahmen der Beteiligung der betroffenen Öffentlichkeit und der Trägerbeteiligung gem. § 13 Abs. 2 Baugesetzbuch (BauGB) vorgebrachten Stellungnahmen sowie Satzungsbeschluss gem. § 10 BauGB) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTC7kYbsUr1ku-MKQ4yamrCgEoYRnRSyACmFdF8VjUOO/Beschlusstext_95-2016_-oeffentlich-_Rat_24.11.2016.pdf
