@@ -1,0 +1,60 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2016-11-24T16:00:00+01:00
+- Ende: 2016-11-24T17:45:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2016-RAT-97
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2016-RAT-97
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-RAT-97
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Entwurf Gesamtabschluss gemäß § 116 Gemeindeordnung NRW für das Jahr 2010
+- TOP 4: Zustimmung zum Wirtschaftsplanentwurf 2017 des EUV für a) Teilbetrieb VII - Dienstleistungen b) Teilbetrieb IX - Straßeninfrastruktur
+- TOP 5: Finanzcontrolling: Unternehmensbericht Stand 30.09.2016
+- TOP 6: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 7: Bestellung von 2 Arbeitnehmervertreter/innen in den Aufsichtsrat der Forum Castrop-Rauxel Betriebsgesellschaft mbH
+- TOP 8: Interkommunales, integriertes Handlungskonzept (IHK) Emscherland 2020 der vier Städte Castrop-Rauxel, Recklinghausen, Herne und Herten und der Emschergenossenschaft (EGLV) hier: Beschluss für das 'IHK Emscherland 2020'
+- TOP 9: Nationale Projekte des Städtebaus - Projektaufruf 2017 hier: 'Sprung über die Emscher - Wasserkreuz Castrop-Rauxel'
+- TOP 10: Besetzung Beirat 'wewole Stiftung e.V.' (vormals Werkstatt für Behinderte Herne/Castrop-Rauxel e.V.)
+- TOP 11: Umbesetzung in den Aufsichtsgremien der Stadtwerke Castrop-Rauxel GmbH; Gesellschafterversammlung und Aufsichtsrat 1. Vertretung in der Gesellschafterversammlung der Stadtwerke Castrop-Rauxel GmbH 2. Vertretung im Aufsichtsrat der Stadtwerke Castrop-Rauxel GmbH
+- TOP 12: Umbesetzung in den Aufsichtsgremien der Stadtwerke Castrop-Rauxel GmbH Wechsel in der Geschäftsführung der Stadtwerke Castrop-Rauxel GmbH
+- TOP 13: Bereitstellung von außerplanmäßigen Haushaltsmitteln für das Haushaltsjahr 2016 gem. § 83 Absatz 2 GO NRW bei der Buchungsstelle 54.01/0687.789105 (Rückz. Investitionszu-wendung Bahnhofstraße 1. BA / K 28) in Höhe von 28.742,05 € und 54.01/0133.789105 (Rückz. Investitionszuwendung Bahnhofstraße 4. BA / K 28) in Höhe von 53.566,08 €.
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung vom 19.10.2016 gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung NW (GO NW) zur Bereitstellung von außerplanmäßigen Haushaltsmitteln gem. § 83 GO NW bei der Buchungsstelle 61.01.524710029 konsumtiver Aufwand „Deckensanierung Cottenburgstraße zw. B 235 und Bochumer Str.“
+- TOP 15: Satzung der Volkshochschule
+- TOP 16: Honorarordnung der Satzung für die Volkshochschule der Stadt Castrop-Rauxel
+- TOP 17: Verkaufsoffene Sonntage 2017; Konzept und Grundsatzbeschluss auf Grund des Beschlusses des OVG NRW vom 10.06.2016
+- TOP 18: Anpassung der Satzung über die Erhebung von Gebühren für die Durchführung der Brandverhütungsschau und sonstige brandschutztechnische Leistungen der Feuerwehr der Stadt Castrop-Rauxel
+- TOP 19: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel (Feuerwehrsatzung)
+- TOP 20: Zentren- und Einzelhandelskonzept der Stadt Castrop-Rauxel hier: Beschluss der Fortschreibung 2016
+- TOP 21: Planfeststellungsverfahren für den Neubau der B474n Ortsumgehung Waltrop
+- TOP 22: Änderung der Friedhofssatzung für die städtischen Friedhöfe in Castrop-Rauxel
+- TOP 23: Gebührenbedarfsberechnung 2017 'Friedhofswesen'
+- TOP 24: Neubaumaßnahme Brücke Am Bennertor
+- TOP 24.a: Antrag DIE LINKE vom 08.11.2016_Gestaltungswettbewerb Brückenneubau
+- TOP 25: Erlass einer neuen Rechnungsprüfungsordnung für die örtliche Rechnungsprüfung der Stadt Castrop-Rauxel
+- TOP 26: Erlass einer neuen Dienstanweisung für die örtliche Rechnungsprüfung der Stadt Castrop-Rauxel
+- TOP 27: Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2015
+- TOP 28: Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)
+- TOP 29: Gührenbedarfsberechnung 2017 - Abfallentsorgung und Erlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung
+- TOP 30: Gebührenbedarfsberechnung 2017 - Straßenreinigung und Erlass einer 1. Änderungssatzung zur Straßenreinigungs- und Gebührensatzung der Stadt Castrop-Rauxel
+- TOP 31: Gebührenbedarfsberechnung 2017 - Wochenmärkte und Erlass einer Gebührensatzung für die Wochenmärkte in Castrop-Rauxel
+- TOP 32: Erlass einer 9. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel
+- TOP 33: Umbesetzung der Vertretung des Caritasverbandes im Beirat für Menschen mit Behinderung
+- TOP 34: Antrag DIE LINKE vom 08.11.2016_Gründung GutachterInnenbüro zur Erstellung von Planungen und Gutachten
+- TOP 35: Antrag DIE LINKE vom 08.11.2016_Investitionsänderungen
+- TOP 36: Antrag der Janusz-Korczak-Gesamtschule vom 03.05.2016
+- TOP 37: Bereitstellung zusätzlicher Haushaltsmittel gem. § 83 GO NW bei der Buchungsstelle 36.04.533455 (Aufwendungen für die Unterbringung minderjähriger Flüchtlinge) in Höhe von 1.170.000 €
+- TOP 38: Gemeinsamer Antrag der Fraktionen CDU und FWI vom 14.11.2016; Gemeinsame Resolution Integrationspauschale
+- TOP 39: Antrag FDP Ratsfraktion vom 23.11.2016_Ausschussumbesetzung B3
+- TOP 40: Anfragen der Ratsmitglieder
+- TOP 41: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
