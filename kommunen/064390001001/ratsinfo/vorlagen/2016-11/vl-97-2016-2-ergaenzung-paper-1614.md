@@ -1,0 +1,29 @@
+# Entwurf der Haushaltssatzung der Gemeinde Aarbergen für das Rechnungsjahr 2017 mit Stellenplan und sonstigen Anlagen
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-97/2016 2. Ergänzung
+- Art: Beschlussvorlage Ausschuss HFA
+- Datum: 2016-11-28
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZaj7f0Ogp3YLv7q-PWHNVDY
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/1614
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss HFA (Entwurf der Haushaltssatzung der Gemeinde Aarbergen für das Rechnungsjahr 2017 mit Stellenplan und sonstigen Anlagen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYRTrhkrwXbA8GHvk22gpzHSIzFQ3NrSFG6Ti_pX1y35/Beschlussvorlage_Ausschuss_HFA_VL-97-2016_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Inhaltsverzeichnis) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcuO4DEHbuMcDvvCuj0H3jwPs7lzYLOfsCD7NQHcoyZX/Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (HH-Satzungsentwurf-2017) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVnQVbJcf3IA2caBzkKzhd_XMwCOOpMwBMrOMhaWibRI/HH-Satzungsentwurf-2017.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vorbericht-2017) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYltgVlUOK2-8Y3MVxxCUjmfOQ0sBVeDdTCtBZahuOY5/Vorbericht-2017.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Ergebnishaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWnvkeVk_8HsAlMx3gYmufaXt-dDddfQBFoAyEyqeuwV/Ergebnishaushalt.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Finanzhaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS350NF956DdIWssQcSGGt5MaNPxuGHTLFUFx0BzjVTR/Finanzhaushalt.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Entwurf Produktplan-2017) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWnNjZHYeJ3uxmNFnqxOB08EPx4mSicSVfj_QIeODaxt/Entwurf_Produktplan-2017.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Deckungs-Übertragungsvermerke) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWySHy9JqvzkyXsgeGySv2SmpLyNUvnJLeKVNl7pBR_W/Deckungs-Uebertragungsvermerke.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Mittelfristige Ergebnisplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcjSDDEf7beFobKFNvWf0hO_FDbTiudCEFKnN3qtLZnU/Mittelfristige_Ergebnisplanung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Mittelfristige Finanzplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaf8cBxXTJRRtnLymHt-S5H9fzEyM8iZM4YNkfswHLcu/Mittelfristige_Finanzplanung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Investitionsprogramm) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbFxGrftJd0c2YfFN7EQTKAODNNEECsTxq39jqCSksU-/Investitionsprogramm.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Stellenplan) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjnbKXw3V_v264awBxqES0X_V2rhPGag71ytllwruGA/Stellenplan.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Übersicht Verpflichtungsermächtigungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa-uB-gPRhfjKgYzF5BAWJ5HvSIcmDS3asTgXM8jucL5/Uebersicht_Verpflichtungsermaechtigungen.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Verbindlichkeitenübersicht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYXFKD1r3RdliTERyLirPkV3538CZ3Bttw12iVoGFrzj/Verbindlichkeitenuebersicht.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Rücklagen-Rückstellungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1ARrA_Huj6u-fyPwdEi5yZPVOndxTk-Oyre1l-Neqf/Ruecklagen-Rueckstellungen.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Budgetplan) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWjzyGx5ovAZMj79LMw5EQCc1DEEXleQguON4nha917K/Budgetplan.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Jahresabschluss-2014) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWY-5CRfCPAXs5jlgVktz7IjH0RsR9Rcq5GBB688GZSS/Jahresabschluss-2014.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (HH-Entwurf-2017-Komplettexemplar) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd6xQWZL-Cts1bbyspezG4NMYqWTrKpsRnq4PKJesN1F/HH-Entwurf-2017-Komplettexemplar.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/903 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
