@@ -1,0 +1,25 @@
+# Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2016
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-112/2016 2. Ergänzung
+- Art: Beschlussvorlage Ausschuss HFA
+- Datum: 2016-11-28
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZVss2-qygbNsvJ7rXSV-mPA
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/1610
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss HFA (Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2016) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTIty1jlOsjWuvw5Ex3eQpjZOrLJfkrBZS8zfNWhwa3l/Beschlussvorlage_Ausschuss_HFA_VL-112-2016_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Inhaltsverzeichnis) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXaFBiQHf9TjJYbtCYt3bV_k9nMcAmSqD8pbdc7K-iUs/Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Nachtragssatzungsentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR6WbM6hpStCFsr8dmeNy91_x0d_T6C80RkwLi7MjcVS/Nachtragssatzungsentwurf.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vorbericht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ8nBiyWcXlwMyrMUHLuLvlnmC8qgFgwdKY65XwzKoO_/Vorbericht.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Gesamtergebnishaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFKtbyXcc7kVR-r6JR9HXWivlEIuZr_uHfhMHPfrNF2/Gesamtergebnishaushalt.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Gesamtfinanzhaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXCG_mXEfvLg8N5bfxzsU5dBMmCZNd_vknclRj2Ds5xV/Gesamtfinanzhaushalt.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Nachtragshaushaltsplanentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcEInifkltlKHy7jGqHiuF7GAmyzGjJga1LXIFVEyAKq/Nachtragshaushaltsplanentwurf.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Kreditaufnahmen-Tilgungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUXrz4oIJatMIbmteYrXEzdzXaYcfLzuH42o09DOj4Jc/Kreditaufnahmen-Tilgungen.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Deckungs-Übertragungsvermerke) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUrMQMH1KfdeF3A7bGKE1DtluApS1adrx2Yo6ASs4Fas/Deckungs-Uebertragungsvermerke.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (MF Ergebnisplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVsbKv9kLTAy6YK1bMrHIlhaGI23rP4Fvw2CI-3LKRd6/MF_Ergebnisplanung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (MF Finanzplanung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYbfL51MlRU1PtUpSa1fNYVrw1pz1GVo58iIDYSxiDyX/MF_Finanzplanung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Verpflichtungsermächtigungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZchQSsNiD5QPXzvArXQvefpLdpRBZ808TpR_wDTBUTuT/Verpflichtungsermaechtigungen.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Verbindlichkeiten) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWOle8a4477uEpGT45mKY5MJtdTFnwfDlyjDH__jBWMo/Verbindlichkeiten.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Rücklagen-Rückstellungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdk1a9tkTq8J19xnQLyZONe-jdEbIM4K_oCr7y5qbs8M/Ruecklagen-Rueckstellungen.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/903 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
