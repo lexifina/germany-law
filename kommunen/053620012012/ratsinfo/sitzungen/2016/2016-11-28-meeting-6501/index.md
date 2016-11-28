@@ -1,0 +1,59 @@
+# Hauptausschuss (46. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-11-28T17:03:00+01:00
+- Ende: 2016-11-28T20:48:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRjjVAM9cT4J0Lnlai-sOIs
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6501
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpGmu-dryUSonS8XKG94-xIXAw8Cc7PIn8YjOmVHqEO/Bekanntmachung_Hauptausschuss_28.11.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcy-tPifRRYOp9tRlzMTyUNmGO42m29mEp8L8V9Q8NjA/Oeffentliche_Niederschrift_Hauptausschuss_28.11.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 14.11.2016
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Bürgerbeteiligung in der Stadt Brühl - Erlass von Leitlinien - (kein Text vorhanden)
+- TOP 4.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 4.1: überplanmäßige Mehraufwendungen / Mehrausgaben im Bereich Personalkosten für das Jahr 2016 - (kein Text vorhanden)
+- TOP 4.2: Überplanmäßige Mittelbereitstellung Hier: Erhöhung von Rückstellungen Sanierung Tiefgarage Bleiche und Schlossparkstadion –Sanierung nach Wasserschaden - (kein Text vorhanden)
+- TOP 4.3: überplanmäßige Auszahlungsermächtigung hier: Ausgleich von Verbindlichkeiten gegenüber dem Stadtservicebetrieb Brühl -AöR- (AöR) - (kein Text vorhanden)
+- TOP 5.: Satzungen
+- TOP 5.1: 1. Satzung der Stadt Brühl über die Erhebung einer Steuer auf Vergnügungen sexueller Art 2. Satzung über die Erhebung von Vergnügungssteuer in der Stadt Brühl- Vergnügungssteuersatzung - (kein Text vorhanden)
+- TOP 5.2: 1. Satzung zur Änderung der Satzung über die Errichtung und Unterhaltung von Übergangsheimen und Wohnunterkünften der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.3: Satzung der Stadt Brühl über den Anschluss und die Benutzung der Fernwärmeversorgung in Neubaugebieten im Brühler Süden - (kein Text vorhanden)
+- TOP 6.: Stundung, Niederschlagung und Erlass von Geldansprüchen der Stadt Brühl im Bereich des Fachbereiches Soziales und Demographie - (kein Text vorhanden)
+- TOP 7.: Haushalt 2017
+- TOP 7.1: Konsolidierung des städtischen Haushalts 1. Vorstellung neuer Datenblätter 2. Abstimmungsliste zu den Datenblättern (TEP 1107 und TEP 5403) Bezug: bisherige HA
+- TOP 7.2: Einbringung der Haushaltssatzung für das Haushaltsjahr 2017 - (kein Text vorhanden)
+- TOP 7.3: Beratung Haushaltsentwurf 2017 hier: 1. erste verwaltungsseitige Fortschreibung 2. Beantwortung von offenen Fragen
+- TOP 7.4: Nutzungskonzept frei werdender Schulraum Bezug: Antrag der SPD-Fraktion vom 12.11.2016 zum Entwurf der Haushaltssatzung 2017
+- TOP 7.5: Barrierefreie Kinderspielplätze Bezug: Antrag der Fraktion Linke&Piraten vom 27.11.2016
+- TOP 7.6: Haushaltssatzung 2017 hier: Stellenplan und Stellenübersicht nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 7.7: Stellungnahme des Personalrates zum Stellenplan 2017 vom 24.11.2016 - (kein Text vorhanden)
+- TOP 8.: Mitteilungen
+- TOP 8.1: Deckung bei der Vorlage Nr. 20/2016
+- TOP 8.2: Aktuelle Flüchtlingssituation
+- TOP 9.: Anfragen
+- TOP 9.1: Prüfung des Fraktionsstatus
+- TOP 9.2: Barrierefreier Zugang zur Linie 18 in Badorf
+- TOP 9.3: Sachstand Park & Ride Parkplatz in Schwadorf
+- TOP 9.4: Sachstand Flüchtlingsunterbringung im Rheinischen Hof
+- TOP 9.5: Verkehrssituation Brühler Straße/Kölnstraße/K7
+- TOP B): Nichtöffentliche Sitzung
+- TOP 10.: Haushaltssatzung 2017 hier: Erläuterungen zum Stellenplan 2017 - (kein Text vorhanden)
+- TOP 11.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 06.02 "Pehler Hülle, Badorfer Straße, Vorgebirgsstraße, Alte Bonnstraße" - (kein Text vorhanden)
+- TOP 12.: Niederschlagungen und Erlasse
+- TOP 12.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 12.2: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 12.3: Erlass einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 13.1: Erläuterungen zur Sanierung Tiefgarage Bleiche
+- TOP 13.2: Erläuterungen zur Sanierung Schlossparkstadion
+- TOP 13.3: Immobilienliste
+- TOP 14.: Anfragen
+- TOP 14.1: Erreichbarkeit der Kunst- und Musikschule
