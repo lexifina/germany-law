@@ -1,0 +1,79 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-11-29T16:00:00+01:00
+- Ende: 2016-11-29T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfnM8gZ1sIE_-t45KqFIFto
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4685
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcRGe_-uVGailifXql1luqyQhwfER_XmvqNIafhWyjs9/Oeffentliche_Niederschrift_Beteiligungsausschuss_29.11.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 19. Sitzung des Beteiligungsausschusses am 31.10.2016
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 5: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 6: Wirtschaftsplan 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 7: Wirtschaftsplan 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 8: Wirtschaftsplan 2017 der Technischen Betriebe Solingen
+- TOP 9: Wirtschaftsplan 2017 der Technischen Betriebe Solingen (TBS)
+- TOP 10: Wirtschaftsplan 2017 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 11: Wirtschaftsplan 2017 des Eigenbetriebes Wasserversorgung Solingen (EBW)
+- TOP 12: Ersatzneubau des Hallenbades Vogelsang
+- TOP 13: Verschiedenes
+- TOP 14: Arena Bergisches Land
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 19. Sitzung des Beteiligungsausschusses am 31.10.2016
+- TOP 3: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) Wiederbestellung eines Geschäftsführers
+- TOP 4: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) Geschäftsordnung für die Geschäftsführung
+- TOP 5: Maßnahmenvorschläge der Geschäftsführung der BSG und der Verwaltung zur Abwendung der drohenden Insolvenz
+- TOP 6: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 7: Wirtschaftsplan 2017 der Entsorgung Solingen GmbH
+- TOP 8: Wirtschaftsplan 2017 der Entsorgung Solingen GmbH (ESG)
+- TOP 9: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 10: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 11: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 12: Bergische Symphoniker - Grundsatzbeschluss zur mittel- und langfristigen Finanzierung
+- TOP 13: Jahresabschluss 2015 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 14: Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2016 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 15: Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2016 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 16: Kunstmuseum Solingen Betriebsgesellschaft mbH Einzahlung in die Kapitalrücklage für das Geschäftsjahr 2017
+- TOP 17: Altenzentren der Stadt Solingen gemeinnützige GmbH Betriebsvereinbarung Urlaubsrahmenplanung
+- TOP 18: Städtisches Klinikum Solingen gemeinnützige GmbH - Wirtschaftsplan 2017
+- TOP 19: Städtisches Klinikum Solingen gemeinnützige GmbH - Erneuerung der Aufzugsanlagen in Haus E
+- TOP 20: Wirtschaftsplan 2017 der Bergische Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 21: Bergische Struktur- und Wirtschaftsförderungsgesellschaft (BSWG) - Geschäftsführerangelegenheiten
+- TOP 22: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der BSWG
+- TOP 23: Wirtschaftsplan 2017 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 24: Jahresabschluss 2015 der Bergische Institut für Produktentwicklung und Innovationsmanagement gGmbH i. L. (BIP)
+- TOP 25: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Teilrückführung eines Gesellschafterdarlehens
+- TOP 26: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der IGOS
+- TOP 27: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der IGOS
+- TOP 28: Wirtschaftsplan 2017 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 29: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der GuT
+- TOP 30: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der GuT
+- TOP 31: Wirtschaftsplan 2017/2018 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 32: Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö Verwaltungs GmbH
+- TOP 33: Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö Verwaltungs GmbH
+- TOP 34: Wirtschaftsplan 2017 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 35: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Grundstücksverkauf
+- TOP 36: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö
+- TOP 37: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö
+- TOP 38: Wirtschaftsplan 2017 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 39: Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2016 der Solinger Bädergesellschaft mbH
+- TOP 40: Wirtschaftsplan 2017 der Solinger Bädergesellschaft mbH
+- TOP 41: Wirtschaftsplan 2017 der ELBA-Omnibusreisen GmbH
+- TOP 42: SWS Netze Solingen GmbH Jahresabschluss 2015/2016
+- TOP 43: Stadtwerke Solingen GmbH (SW SG) Jahresabschluss 2015/2016
+- TOP 44: RW Gesellschaft öffentlich rechliche Anteilseigner II GmbH Jahresabschluss 2015
+- TOP 45: Beteiligungsgesellschaft Stadt Solingen mbH Einzahlung in die Kapitalrücklage der Kunstmuseum Solingen Betriebsgesellschaft mbH für das Geschäftsjahr 2017
+- TOP 46: Beteiligungsgesellschaft Stadt Solingen mbH Bestellung des Abschlussprüfers für das Jahr 2016
+- TOP 47: Beteiligungsgesellschaft Stadt Solingen mbH Feststellung des Wirtschaftsplanes 2017
+- TOP 48: Verschiedenes
