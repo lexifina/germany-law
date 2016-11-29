@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-11-29T17:00:00+01:00
+- Ende: 2016-11-29T19:02:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11449
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11449
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00280928.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00280928.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00280928.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift vom 25.10.2016 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Flächennutzungsplanänderung Nr. 169 (Entwurf) Wacholderstraße Aufstellung, Öffentlichkeitsbeteiligun - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Einbringung des Entwurfs des Nahverkehrsplans der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 8.1: Ergänzungsantrag Nahverkehrsplan 2017 - mehrheitlich beschlossen
+- TOP 8.2: Ergänzungsantrag Nahverkehrsplan 2017 - mehrheitlich beschlossen
+- TOP 8.3: Ergänzungsantrag Nahverkehrsplan 2017 - Videoüberwachung - abweichend beschlossen
+- TOP 8.4: Ergänzungsantrag Nahverkehrsplan - U81-Brücke vorziehen - mehrheitlich beschlossen
+- TOP 8.5: Ergänzungsantrag Nahverkehrsplan - Taktverdichtung U79 - mehrheitlich beschlossen
+- TOP 8.6: Ergänzungsantrag Nahverkehrsplan - Erhöhung Fahrzeugstückzahlen - mehrheitlich beschlossen
+- TOP 8.7: Ergänzungsantrag Nahverkehrsplan - Verlängerung 760 - mehrheitlich beschlossen
+- TOP 8.8: Ergänzungsantrag Nahverkehrsplan - Netzentwicklung U 80 - mehrheitlich beschlossen
+- TOP 9: Bezirkssportanlage Freiheitshagen 31 - Umbau der Sprintlaufbahn - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - abweichend beschlossen
+- TOP 11: Ruhebänke entlang des Rheins und der Rheinauen Kaiserswerths - beantwortet
+- TOP 12: Denkmalbereichssatzung - Graf-Engelbert-Straße - beantwortet
+- TOP 13: Zebrastreifen Kreuzbergstraße - beantwortet
+- TOP 14: Pflanzringe im Stadtbezirk 5 - beantwortet
+- TOP 15: Zukünftige Planung Grün-/Brachfläche östlich Lilienthalstraße
+- TOP 16: Aufwertung Ortsmitte Stockum - beantwortet
+- TOP 17: Planungsziele für den Düsseldorfer Norden, insb. nördlich Kalkumer Schloßallee - beantwortet
+- TOP 18: StadtUmland.NRW - Kooperationen mit den Nachbarstädten - beantwortet
+- TOP 19: P&R-Platz in Angermund
+- TOP 20: Städtebauliche Entwicklung für den Stadtbezirk 5
+- TOP 21: Interfraktionelle Gesprächsrunden im Stadtbezirk 5 - beantwortet
+- TOP 22: Vogelschlag-Gutachten Flughafen Düsseldorf
+- TOP 23: Asphaltierung des Weges vom TG Nord bis Eingang Lantz'scher Park - abweichend beschlossen
+- TOP 24: Herrichtung/Instandsetzung Der Grüne Weg von Nagelsweg bis Lohauser Deich - einstimmig beschlossen
+- TOP 25: Keine Zustimmung zur Planung nördlich Kalkumer Schloßallee gegen den Willen der Bezirksvertretung 5 - zurückgezogen
+- TOP 26: Umfassende Unterrichtung der BV5 zur Umweltsituation im Bereich des Wettbewerbs StadtUmland.NRW, nör - einstimmig beschlossen
+- TOP 27: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Schulen - abweichend beschlossen
+- TOP 28: Nachhaltige Stadtentwicklungspolitik im Düsseldorfer Norden - abweichend beschlossen
+- TOP 29: Stellungnahmen 29.11.2016 - zur Kenntnis genommen
+- TOP 30: Beschlusskontrolle (ö) 2. Halbjahr 2016 - zur Kenntnis genommen
+- TOP 31: Verschiedenes - zur Kenntnis genommen
+- TOP 32: Nutzung einer Teilfläche des Nordparks im Rahmen der "Tour de France 2017" - mehrheitlich abgelehnt
