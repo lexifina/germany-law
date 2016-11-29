@@ -1,0 +1,54 @@
+# Stadtentwicklungsausschuss (13. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2016-11-29T18:00:00+01:00
+- Ende: 2016-11-29T20:20:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa3eRDSLPrXJYHcaCm3byZw
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19116
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrCrToODe1Iu8B2E65Ixl1tdC5vC7iaT89byWwqxSRZ/Bekanntmachung_Stadtentwicklungsausschuss_29.11.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3-OBbm9X0eF92xWVXj2zz5FxbyJCpv5LXy5JP38W-l/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_29.11.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 13.09.2016 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Wirtschaftswegekataster hier: Sachstandsbericht - Einstimmiger Beschluss: 
+- TOP 4.: Verkehrsführung Hardtbrücke; hier: Antrag der FDP-Fraktion vom 01.05.2016 - Einstimmiger Beschluss:
+- TOP 5.: Straßenbenennungen im Neubaugebiet "Hardtburgstraße" in Bad Münstereifel-Kirspenich; hier: CDU-Antrag vom 24.10.2016 - Einstimmiger Beschluss:
+- TOP 6.: Standorte für Ladestationen für Elektrofahrzeuge; hier: Antrag der CDU-Fraktion vom 05.07.2016 - Einstimmiger Beschluss:
+- TOP 7.: Anregung gemäß § 24 der Gemeindeordnung NRW: Parkstände in der Marktstraße; hier: Antrag der Ladeninhaber zum Rückbau der Parkmöglichkeiten vor den Geschäftslokalen - Beschluss bei 1 Enthaltung: 
+- TOP 8.: Aktualisierung des Integrierten Klimaschutzkonzeptes zur Beantragung eines/r Klimaschutzmanager/in - Einstimmiger Beschluss:
+- TOP 9.: Errichtung eines Zentralen Omnibusbahnhofes (ZOB) an der Kölner Straße (L 234) in Bad Münstereifel hier: Gestaltung des Bahnhofsumfeldes außerhalb der geförderten Flächen - Einstimmiger Beschluss:
+- TOP 10.: Straßenwiederherstellung "An der Hüh" in Bad Münstereifel-Mahlberg hier: Bestimmung der Ausbauvariante - Beschluss bei 1 Gegenstimme: 
+- TOP 11.: Änderung des Bebauungsplan Nr. 65 "Arloff - Talstraße" hier: Antrag auf eine bauliche Entwicklung des Flurstücks Gem. Arloff, Flur 4, Flurstück Nr. 201 - Einstimmiger Beschluss: 
+- TOP 12.: Änderung des Bebauungsplanes Nr. 35 "Nöthen-Süd" hier: Antrag auf weitere bauliche Entwicklung von Grundstücken entlang der Brunnenstraße - Richtung Sportplatz - Einstimmiger Beschluss:
+- TOP 13.: 29. Änderung des Flächennutzungsplanes für die Ortslage Ohlerath - Hoffmannstraße hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 14.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Ohlerath für einen Bereich südlich der Hoffmannstraße (Ergänzungssatzung) hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 15.: 1. Änderung des Bebauungsplanes Nr. 24 "Houverath - Mühlenberg" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 16.: Bauliche Entwicklung in Eschweiler - Falderstraße/Kanderweg - Beschluss bei 1 Gegenstimme: 
+- TOP 17.: Bauliche Entwicklung in Iversheim - Auf der Kumm - Beschluss bei 1 Gegenstimme: 
+- TOP 18.: Bauanträge für die Grundstücke Gemarkung Münstereifel, Flur 1, Flurstücke 5342, 5343, 5344, 5345 - Bad Münstereifel, Müllendorffstraße - Beschluss bei 1 Enthaltung: 
+- TOP 19.: Ergänzung des Baudenkmals Euskirchener Straße 81, Gemarkung Iversheim, Flur 6, Flst.-Nr. 65 gem. § 3 DSchG NRW, Denkmalliste Nr. 83 - Einstimmiger Beschluss:
+- TOP 20.: Förderprogramm -LEADER-Region Eifel Beantragung von Zuschüssen für verschiedene Projekte - Einstimmiger Beschluss:
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Anfragen und Mitteilungen; Verbesserungsmaßnahmen in der Ortsdurchfahrt Scheuren; hier: Antrag der SPD-Fraktion vom 03.11.2014 - Antrag der SPD-Fraktion vom 14.03.2016 -Maßnahmenoptimierung - Sachstandsbericht
+- TOP 21.2: Anfragen und Mitteilungen: Rückbau von zwei öffentlichen Parkständen in der Marquardstraße
+- TOP 21.3: Anfragen und Mitteilungen hier: Antrag der UWV-Fraktion vom 28.08.2014 zur Ortsdurchfahrt L 165 Esch
+- TOP 21.4: Anfragen und Mitteilungen: Maßnahmen zur Schulwegsicherheit in der Ortsdurchfahrt Mahlberg (K 50)
+- TOP 21.5: ÖPNV-Anbindung des Höhengebietes nach Rheinbach
+- TOP 21.6: Pilotprojekt Monatsticket TaxiBusPlus-Zuschlag
+- TOP 21.7: Sachstand und weitere Vorgehensweise zur Erstellung eines integrierten Stadtentwicklungskonzeptes
+- TOP 21.8: Berichterstattung zum City Outlet Bad Münstereifel hier: Jour fixe
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Verkauf eines Grundstücks in Bad Münstereifel-Effelsberg - Einstimmiger Beschluss:
+- TOP 2.: Splittersiedlung Stockert; hier: vertragliche Regelung Brandschutz - Beschluss bei 1 Enthaltung: 
+- TOP 3.: Anfrage zur Änderung des Bebauungsplanes für die Grundstücke Gemarkung Münstereifel, Flur 1, Flurstücke 5006 und 5113 - Sebastian-Kneipp-Promenade 28 hier: Darlegung wirtschaftlicher Verhältnisse - Einstimmiger Beschluss:
+- TOP 4.: Anfragen und Mitteilungen
+- TOP 4.1: Wege- und Leitungsrechte auf Grundstück Konvikt, Trierer Straße 16
+- TOP 4.2: Verkauf des Grundstückes "Zimmerei"
+- TOP 4.3: Parkhotel Bad Münstereifel hier: Sicherungsmaßnahmen am Gebäude
