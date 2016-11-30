@@ -1,0 +1,6 @@
+# TOP 4.: Sachstand der laufenden Projekte und Ausblick für 2017
+
+- Sitzung: Ortsbeirat Daisbach (7. Sitzung) (2016-11-30)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/9237
