@@ -1,0 +1,54 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-12-01T17:00:00+01:00
+- Ende: 2016-12-01T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQPHu86-Xg8taDsm07vP7R0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4688
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRIaahVJ-dzgztzQglVcZdcYDZneFmZ615Snx98OKkvN/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_01.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 18. Sitzung des Haupt- und Personalausschusses am 15.11.2016
+- TOP 3: 1. Änderung der Ordnungsbehördlichen Verordnung über die Freigabe von acht verkaufsoffenen Sonntagen in verschiedenen Stadtbezirken und in Gesamt-Solingen vom 03.09.2015
+- TOP 4: 1. Änderung der Ordnungsbehördlichen Verordnung über die Freigabe von acht verkaufsoffenen Sonntagen in verschiedenen Stadtbezirken und in Gesamt-Solingen vom 03.09.2015
+- TOP 5: Jugendstadtrat Neufassung der Satzung und der Wahlordnung
+- TOP 6: Benennung eines Mitgliedes der Veranstaltergemeinschaft Lokalfunk Remscheid-Solingen (Radio RSG)
+- TOP 7: Sicherheit in Solingen - Kommunale Kriminalprävention
+- TOP 8: Stellenplannachtrag 2017
+- TOP 9: Etatberatungen für das Haushaltsjahr 2017 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2020 und des Haushaltssanierungsplanes 2017 ff.
+- TOP 10: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 18. Sitzung des Haupt- und Personalausschusses am 15.11.2016
+- TOP 3: Auftragsvergabe zur Tierkadaverentsorgung
+- TOP 4: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 5: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 6: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 7: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Grundstücksverkauf
+- TOP 8: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö
+- TOP 9: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö
+- TOP 10: Wirtschaftsplan 2017 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 11: Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö Verwaltungs GmbH
+- TOP 12: Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der WiFö Verwaltungs GmbH
+- TOP 13: Wirtschaftsplan 2017 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 14: Bergische Struktur- und Wirtschaftsförderungsgesellschaft (BSWG) - Geschäftsführerangelegenheiten
+- TOP 15: Wirtschaftsplan 2017 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 16: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der BSWG
+- TOP 17: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Teilrückführung eines Gesellschafterdarlehens
+- TOP 18: Wirtschaftsplan 2017 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 19: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der IGOS
+- TOP 20: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der IGOS
+- TOP 21: Wirtschaftsplan 2017 der Bergische Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 22: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der GuT
+- TOP 23: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2016 der GuT
+- TOP 24: Wirtschaftsplan 2017/2018 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 25: Beförderung von Beamten
+- TOP 26: Verschiedenes
+- TOP 27: Auftragsvergabe zum Tier- und Tierkadavertransport
