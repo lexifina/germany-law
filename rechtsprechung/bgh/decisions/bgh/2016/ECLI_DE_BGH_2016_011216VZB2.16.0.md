@@ -1,0 +1,144 @@
+---
+ecli: "ECLI:DE:BGH:2016:011216VZB2.16.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-05"
+aktenzeichen: "V ZB 2/16"
+decided: "2016-12-01"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2016&Sort=1&Seite=101&nr=76850&anz=3286&pos=3047&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-05_NA_2016-12-01_V_ZB_2_16_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bbaug/0172.md", "germany/bund/acts/bgb/0878.md", "germany/bund/acts/famfg/0071.md", "germany/bund/acts/gbo/0078.md", "germany/bund/acts/gnotkg/0036.md"]
+---
+
+# Bundesgerichtshof, V ZB 2/16 vom 2016-12-01
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                        BESCHLUSS
+V ZB 2/16
+                               vom
+
+                         1. Dezember 2016
+
+                       in der Grundbuchsache
+
+
+
+
+ECLI:DE:BGH:2016:011216BVZB2.16.0
+
+                                         -2-
+
+
+
+    Der V. Zivilsenat des Bundesgerichtshofs hat am 1. Dezember 2016 durch die
+    Vorsitzende Richterin Dr. Stresemann, die Richterin Prof. Dr. Schmidt-Räntsch
+    und die Richter Dr. Kazele, Dr. Göbel und Dr. Hamdorf
+
+
+    beschlossen:
+
+
+          Auf die Rechtsmittel der Beteiligten werden der Beschluss des
+          1. Zivilsenats des Kammergerichts vom 8. Dezember 2015 und
+          Nr. 3      der   Zwischenverfügung     des   Amtsgerichts   Mitte
+          - Grundbuchamt - vom 2. Juni 2015 aufgehoben.
+
+
+          Die Sache wird an das Grundbuchamt zur Entscheidung über den
+          Antrag der Beteiligten vom 5. März 2015 zurückverwiesen.
+
+
+          Der Gegenstandswert des Rechtsbeschwerdeverfahrens beträgt
+          5.000 €.
+
+
+
+
+                                       Gründe:
+
+
+                                          I.
+
+
+1         Die Beteiligte ist Eigentümerin des im Eingang dieses Beschlusses bezeichneten bebauten Grundstücks. Es befindet sich im Geltungsbereich einer
+    durch den Bezirk Pankow von Berlin nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB zur
+    Erhaltung der Zusammensetzung der Wohnbevölkerung erlassenen Erhaltungsverordnung. Am 3. März 2015 machte der Senat von Berlin von der in
+
+                                         -3-
+
+
+
+    § 172 Abs. 1 Satz 4 BauGB enthaltenen Ermächtigung Gebrauch und erließ
+    eine Verordnung über einen Genehmigungsvorbehalt für die Begründung von
+    Wohnungs- oder Teileigentum in dem Gebiet der Erhaltungsverordnung
+    (GVBl. 2015, S. 43 - nachfolgend: Umwandlungsverordnung oder UmwandV).
+    Die Umwandlungsverordnung wurde am 13. März 2015 verkündet und ist am
+    14. März 2015 in Kraft getreten. Sie ist gemäß § 3 Satz 2 UmwandV auf Anträge auf Begründung von Wohnungs- und Teileigentum, die vor dem
+    3. März 2015 gestellt worden sind, nicht anzuwenden.
+
+
+2         Mit notarieller Urkunde vom 4. März 2015 teilte die Beteiligte das Grundstück in Wohnungs- und Teileigentumseinheiten auf und bewilligte die Aufteilung. Auf den am 6. März 2015 eingegangenen Vollzugsantrag vom
+    5. März 2015 hat das Amtsgericht - Grundbuchamt - am 2. Juni 2015 eine Zwischenverfügung erlassen und in deren Nr. 3 darauf hingewiesen, dass der Eintragung das Fehlen einer Genehmigung nach der Umwandlungsverordnung
+    entgegenstehe. Die dagegen gerichtete Beschwerde hat das Kammergericht
+    zurückgewiesen. Mit der zugelassenen Rechtsbeschwerde möchte die Beteiligte weiter die Aufhebung der Zwischenverfügung erreichen.
+
+
+
+
+                                          II.
+
+
+3         Das Beschwerdegericht meint, das von dem Grundbuchamt aufgezeigte
+    Eintragungshindernis bestehe, da der durch die Beteiligte beantragte Vollzug
+    der Teilungserklärung einer Genehmigung nach § 1 UmwandV bedürfe und die
+    Beteiligte insoweit einer Verfügungsbeschränkung unterliege. Dass die Umwandlungsverordnung zum Zeitpunkt der Antragstellung beim Grundbuchamt
+    noch nicht in Kraft gewesen sei, ändere hieran nichts, weil für die Beurteilung
+
+                                         -4-
+
+
+
+    der Verfügungsbefugnis der Zeitpunkt der Eintragung in das Grundbuch maßgeblich sei. Zwar könnten nach § 878 BGB Verfügungsbeschränkungen den
+    Rechtserwerb nicht mehr beeinflussen, wenn die dingliche Einigung bindend
+    und der Eintragungsantrag gestellt worden sei. Ob dies für die Teilungserklärung entsprechend gelte, könne jedoch dahinstehen, weil es hier an der für eine
+    analoge Anwendung erforderlichen Regelungslücke im Gesetz fehle. Der Gesetzgeber habe die Frage eines im Zeitpunkt der Antragstellung beim Grundbuchamt schützenswerten Vertrauens gesehen und abschließend geregelt.
+
+
+
+
+                                          III.
+
+
+4         Die nach § 78 Abs. 1 GBO statthafte und auch im Übrigen gemäß § 78
+    Abs. 3 GBO i.V.m. § 71 FamFG zulässige Rechtsbeschwerde ist begründet. Die
+    Annahme des Beschwerdegerichts, Nr. 3 der Zwischenverfügung des Grundbuchamts sei zu Recht ergangen, hält einer rechtlichen Prüfung nicht stand. Die
+    von der Beteiligten bewilligte Aufteilung ihres Grundstücks bedarf keiner Genehmigung nach § 172 Abs. 1 Satz 4 BauGB i.V.m. § 1 UmwandV. Dies folgt
+    aus einer entsprechenden Anwendung des § 878 BGB, wie der Senat durch
+    Beschluss vom 12. Oktober 2016 in dem Parallelverfahren V ZB 198/15 (zur
+    Veröffentlichung bestimmt) entschieden hat. Zur Vermeidung von Wiederholungen nimmt der Senat auf die Gründe dieses Beschlusses Bezug.
+
+                                        -5-
+
+
+
+                                        IV.
+
+
+5         Eine Kostenentscheidung ist nicht veranlasst. Die Festsetzung des Gegenstandswerts beruht auf § 61 Abs. 1 i.V.m. § 36 Abs. 1 und 3 GNotKG.
+
+
+
+
+    Stresemann                      Schmidt-Räntsch                      Kazele
+
+
+                      Göbel                                Hamdorf
+
+
+
+
+    Vorinstanzen:
+    AG Berlin-Mitte, Entscheidung vom 02.06.2015 - 47 PB 1870N-29 -
+    KG, Entscheidung vom 08.12.2015 - 1 W 905/15 -
