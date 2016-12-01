@@ -1,0 +1,60 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-12-01T17:04:00+01:00
+- Ende: 2016-12-01T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10204
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10204
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00397756.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Hinweise / Anmerkungen zur Niederschrift
+- TOP 3: Festsetzung der Tagesordnung
+- TOP 3.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Einbringen von Eingaben
+- TOP 6: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 6.1: Radverkehrskonzept - Münster 2025
+- TOP 6.2: FINANZfairTEILUNG:Umsetzungsstand und Ergebnisse der Projektbeispiele - zur Kenntnis genommen
+- TOP 6.3: Bürgerumfrage 2016: Zentrale Ergebnisse zum Fragenkomplex "Parks und Grünanlagen" - zur Kenntnis genommen
+- TOP 6.4: Mündlicher Bericht des Amtes für Immobilienmanagement über die Analyse von Kindertageseinrichtungen in Modulbauweise - zur Kenntnis genommen
+- TOP 6.5: Erläuterungsbericht zum Arbeitsprogramm des Amtes für Immobilienmanagement für das Haushaltsjahr 2017 - zur Kenntnis genommen
+- TOP 6.6: Information zu Richtlinien für Zuschussvergaben durch das Amt für Grünflächen, Umwelt und Nachhaltigkeit - zur Kenntnis genommen
+- TOP 6.7: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa) - mehrheitlich beschlossen
+- TOP 6.8: Fortführung des Verkehrssicherheitsprogramms 2017 - mehrheitlich beschlossen
+- TOP 6.9: Entwicklung der Schulstandorte - Instandsetzungs- und Sanierungsmaßnahmen sowie Investitionsbedarfe für städtische Schulen - einstimmig beschlossen
+- TOP 6.10: Digitale Stadt Münster: Breitbandausbau - Städt. Schulen und weitere Verwaltungsstandorte - - einstimmig beschlossen
+- TOP 6.11: Rahmenbedingungen zum Neubau des Südbades am Standort Inselbogen - mehrheitlich geändert beschlossen
+- TOP 6.12: TIMM - Tiefbau Infrastruktur Management Münster - mehrheitlich beschlossen
+- TOP 6.13: Anpassung der Ortssatzung über die Entwässerung der Grundstücke - einstimmig beschlossen
+- TOP 6.14: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 6.15: Neufassung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 6.16: Änderung des Gebührentarifs für Sondernutzungen - hier Baustelleneinrichtungen - an öffentlichen Straßen - mehrheitlich beschlossen
+- TOP 6.17: Neufassung des Tarifs für die Bereitstellung und Ausleihe von Absperrmaterialien des Bau- und Betriebshofs der Stadt Münster - mehrheitlich beschlossen
+- TOP 6.18: Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster ab dem 01.01.2017 - einstimmig beschlossen
+- TOP 6.19: Beirat für Klimaschutz - Berufung neuer Mitglieder - einstimmig beschlossen
+- TOP 6.20: Antrag der CDU-Fraktion "Auf dem Weg zur familienfreundlichen Stadt Deutschlands, für einen Abenteuerspielplatz in Münster" - mehrheitlich beschlossen
+- TOP 6.21: Erneuerung der maschinellen Schlammentwässerung auf der Hauptkläranlage Münster - einstimmig beschlossen
+- TOP 6.22: Errichtung einer Prozesswasserbehandlungsanlage (Membranstrippung) auf der Hauptkläranlage Münster auf Basis der aktualisierten Kostenberechnung - einstimmig beschlossen
+- TOP 6.23: Wibbeltstraße, Robert-Blum-Straße und Jostesstraße - einstimmig beschlossen
+- TOP 6.24: Ökologische Verbesserung der Hunnebecke - einstimmig beschlossen
+- TOP 6.25: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bereich Hiltrup - einstimmig beschlossen
+- TOP 6.26: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bereich Mitte - einstimmig beschlossen
+- TOP 6.27: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Nord - einstimmig beschlossen
+- TOP 6.28: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Ost - einstimmig beschlossen
+- TOP 6.29: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Südost - einstimmig beschlossen
+- TOP 6.30: Maßnahmenprogramm 2017/2018 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk West - einstimmig beschlossen
+- TOP 6.31: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.32: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.33: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.34: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.35: Geplante Veranlagungen in 2017 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 7: Beratung des Entwurfs des Haushaltsplanes 2017 sowie des Finanzplanes und des Investitionsplanes 2017 ff.
+- TOP 8: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 9: Verschiedenes
