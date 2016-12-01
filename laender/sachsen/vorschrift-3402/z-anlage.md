@@ -9,29 +9,27 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
 2.2 | Steueraufsicht Spielbank Chemnitz Spielbank Dresden Spielbank Leipzig | Chemnitz-Mitte Dresden-Nord Leipzig II | 
 3. | Wahrnehmung der Rechte an der Zerlegung der Körperschaftsteuer nach dem Zerlegungsgesetz vom 6. August 1998 (BGBl. I S. 1998), das zuletzt durch Artikel 6 des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2531) geändert worden ist | Dresden-Süd | Freistaat Sachsen
 4. | Erbschaft- und Schenkungsteuer | Chemnitz-Mitte | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Bautzen | Bautzen, Dresden-Nord, Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
+Bautzen | Bautzen, Dresden-Nord, Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig I | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 5. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO | Dresden-Süd | Freistaat Sachsen
 6. | (gestrichen) |  | 
 7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und deren Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
 8. | Betriebsprüfung |  | 
 a) | Betriebsprüfung allgemein | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-Dresden-Nord | Dresden-Nord Meißen
-Dresden-Süd | Dresden-Süd Freital Pirna
 b) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
 Eilenburg | Eilenburg Oschatz
 Freiberg | Döbeln Freiberg Mittweida
 Zwickau | Hohenstein-Ernstthal Zwickau
 c) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 12 Millionen Euro | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Mittweida Schwarzenberg Stollberg Zschopau
+Dresden-Nord | Dresden-Nord Dresden-Süd Meißen Pirna
 Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
 Zwickau | Hohenstein-Ernstthal Plauen Zwickau
 d) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbaubetriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-Dresden-Nord | Dresden-Nord Dresden-Süd Freital Meißen Pirna
 e) | Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
+Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 f) | Versorgungsbetriebe | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
+Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 g) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertrags-arbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 9. | Lohnsteuer-Außenprüfung |  | 
@@ -40,20 +38,19 @@ Bautzen | Bautzen Hoyerswerda
 Eilenburg | Eilenburg Oschatz
 Freiberg | Döbeln Freiberg Mittweida
 Görlitz | Görlitz Löbau
-Pirna | Freital Pirna
 Zwickau | Hohenstein-Ernstthal Zwickau
 b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle
 a) | allgemein | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
+Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 b) | bei zentralisierter Zuständigkeit für Fälle des § 20a AO oder Nummer 7 dieser Anlage | Chemnitz-Süd | Freistaat Sachsen
 11. | Grunderwerbsteuer | Dresden-Süd | Dresden-Nord Dresden-Süd Meißen
 Leipzig I | Eilenburg Leipzig I Leipzig II
-Löbau | Bautzen Freital Görlitz Hoyerswerda Löbau Pirna
+Löbau | Bautzen Görlitz Hoyerswerda Löbau Pirna
 Schwarzenberg | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Grimma Hohenstein-Ernstthal Mittweida Oschatz Plauen Schwarzenberg Stollberg Zschopau Zwickau
 12. | Umsatzsteuer-Sonderprüfungen, Umsatzsteuer-Nachschauen und sonstige Ermittlungshandlungen im Sinne des § 88 AO zur Umsatzsteuer in länderübergreifenden und grenzüberschreitenden Fällen in Zusammenarbeit mit der Zentralen Koordinierungsstelle beim Bundeszentralamt für Steuern | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
+Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 II. Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen (ohne zentrale Zuständigkeiten nach Abschnitt I)
 Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen (ohne zentrale Zuständigkeiten nach Abschnitt I)
@@ -171,7 +168,6 @@ Dresden-Süd, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  |
  | Wilsdruffer Vorstadt/ Seevorstadt-West |  |  |  | 
 Eilenburg | Vom Landkreis Nordsachsen die Gemeinden Bad Düben, Delitzsch, Doberschütz, Eilenburg, Jesewitz, Krostitz, Laußig, Löbnitz, Rackwitz, Schkeuditz, Schönwölkau, Taucha, Wiedemar, Zschepplin |  |  |  | 
 Freiberg | Vom Landkreis Mittelsachsen die Gemeinden Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Dorfchemnitz, Eppendorf, Flöha, Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Halsbrücke, Leubsdorf, Lichtenberg/Erzgeb., Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Sayda, Weißenborn/Erzgeb. |  |  |  | 
-Freital | Vom Landkreis Sächsische Schweiz-Osterzgebirge die Gemeinden Altenberg, Bannewitz, Dippoldiswalde, Dorfhain, Freital, Glashütte, Hartmannsdorf-Reichenau, Hermsdorf/Erzgeb., Klingenberg, Kreischa, Rabenau, Tharandt, Wilsdruff |  |  |  | 
 Görlitz | Vom Landkreis Görlitz die Gemeinden Bad Muskau, Boxberg/O.L., Gablenz, Görlitz, Groß Düben, Hähnichen, Hohendubrau, Horka, Kodersdorf, Königshain, Krauschwitz, Kreba-Neudorf, Markersdorf, Mücka, Neißeaue, Niesky, Quitzdorf am See, Reichenbach/O.L., Rietschen, Rothenburg/O.L., Schleife, Schöpstal, Trebendorf, Vierkirchen, Waldhufen, Weißkeißel, Weißwasser/O.L. |  |  |  | 
 Grimma | Landkreis Leipzig |  |  |  | 
 Hohenstein- Ernstthal | Vom Landkreis Zwickau die Gemeinden Bernsdorf, Callenberg, Gersdorf, Glauchau, Hohenstein-Ernstthal, Lichtenstein/Sa., Limbach-Oberfrohna, Meerane, Niederfrohna, Oberlungwitz, Oberwiera, Remse, Schönberg, St. Egidien, Waldenburg |  |  |  | 
@@ -192,7 +188,7 @@ Löbau | Vom Landkreis Görlitz die Gemeinden Beiersdorf, Bernstadt a. d. Eigen,
 Meißen | Landkreis Meißen |  |  |  | 
 Mittweida | Vom Landkreis Mittelsachsen die Gemeinden Altmittweida, Burgstädt, Claußnitz, Erlau, Frankenberg/Sa., Geringswalde, Hainichen, Hartmannsdorf, Königsfeld, Königshain-Wiederau, Kriebstein, Lichtenau, Lunzenau, Mittweida, Mühlau, Penig, Rochlitz, Rossau, Seelitz, Striegistal, Taura, Wechselburg, Zettlitz |  |  |  | 
 Oschatz | Vom Landkreis Nordsachsen die Gemeinden Arzberg, Beilrode, Belgern-Schildau, Cavertitz, Dahlen, Dommitzsch, Dreiheide, Elsnig, Liebschützberg, Mockrehna, Mügeln, Naundorf, Oschatz, Torgau, Trossin, Wermsdorf |  |  |  | 
-Pirna | Vom Landkreis Sächsische Schweiz-Osterzgebirge die Gemeinden Bad Gottleuba-Berggießhübel, Bad Schandau, Bahretal, Dohma, Dohna, Dürrröhrsdorf-Dittersbach, Gohrisch, Heidenau, Hohnstein, Königstein/Sächs. Schw., Liebstadt, Lohmen, Müglitztal, Neustadt i. Sa., Pirna, Rathen, Rathmannsdorf, Reinhardtsdorf-Schöna, Rosenthal-Bielatal, Sebnitz, Stadt Wehlen, Stolpen, Struppen |  |  |  | 
+Pirna | Landkreis Sächsische Schweiz-Osterzgebirge |  |  |  | 
 Plauen | Vogtlandkreis |  |  |  | 
 Schwarzenberg | Vom Erzgebirgskreis die Gemeinden Aue, Bad Schlema, Bockau, Breitenbrunn, Eibenstock, Grünhain-Beierfeld, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Stützengrün, Zschorlau |  |  |  | 
 Stollberg | Vom Erzgebirgskreis die Gemeinden Auerbach, Burkhardtsdorf, Gornsdorf, Hohndorf, Jahnsdorf/Erzgeb., Lugau/Erzgeb., Neukirchen, Niederdorf, Niederwürschnitz, Oelsnitz/Erzgeb., Stollberg/Erzgeb., Thalheim/Erzgeb., Zwönitz |  |  |  | 
