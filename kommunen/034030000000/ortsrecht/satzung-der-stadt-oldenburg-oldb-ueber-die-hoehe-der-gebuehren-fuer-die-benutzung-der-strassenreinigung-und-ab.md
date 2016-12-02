@@ -1,24 +1,23 @@
-# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2016
+# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2017
 
 - Gemeinde: Stadt Oldenburg (Oldb) (ARS 034030000000)
-- Datum: 2015-11-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2016_vom_30.11.2015.pdf
+- Datum: 2016-12-02 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02__2017.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 7.02
-
 Satzung der Stadt Oldenburg (Oldb)
 
-über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2016 vom 30.11.2015
-
-Aufgrund der §§ 10 und 111 des Niedersächsischen Kommunalverfassungsgesetzes (NKomVG) vom 17.12.2010 (Nds. GVBl. S. 576), zuletzt geändert durch Gesetz vom 16.12.2014 (Nds. GVBl. S. 434), sowie der §§ 1, 2 und 5 des Niedersächsischen Kommunalabgabengesetzes vom 23.01.2007 (Nds. GVBl. S. 41), zuletzt geändert durch Gesetz vom 17.09.2015 (Nds. GVBl. S. 186), hat der Rat der Stadt Oldenburg (Oldb) am 30.11.2015 folgende Satzung beschlossen:
+über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2017 vom 21.11.2016
+(Amtsblatt Stadt Oldenburg vom 02.12.2016, S. 90)
+Aufgrund der §§ 10 und 111 des Niedersächsischen Kommunalverfassungsgesetzes (NKomVG) vom 17.12.2010 (Nds. GVBl. S. 576), zuletzt geändert durch Gesetz vom 12.11.2015 (Nds. GVBl. S. 311), sowie der §§ 1, 2 und 5 des Niedersächsischen Kommunalabgabengesetzes vom 23.01.2007 (Nds. GVBl. S. 41), zuletzt geändert durch Gesetz vom 17.09.2015 (Nds. GVBl. S. 186), hat der Rat der Stadt Oldenburg (Oldb) am 21.11.2016 folgende Satzung beschlossen:
 
 §1
 
-Gemäß § 6 der Satzung der Stadt Oldenburg (Oldb) über die Reinigung der öffentlichen Straßen und über die Erhebung von Gebühren für die Straßenreinigung vom 16.10.1989, zuletzt geändert durch Satzung vom 24.11.2014, werden die Gebühren für die Benutzung der Straßenreinigung wie folgt festgesetzt:
+Gemäß § 6 der Satzung der Stadt Oldenburg (Oldb) über die Reinigung der öffentlichen Straßen und über die Erhebung von Gebühren für die Straßenreinigung vom 21.11.2016 werden die Gebühren für die Benutzung der Straßenreinigung wie folgt festgesetzt:
 
 Die Gebühren betragen je laufenden Meter Straßengrundstücksfront jährlich
 
@@ -80,7 +79,7 @@ jährlich für einen Abfallbehälter mit einem Füllraum von
 
 11. 1 100 Liter
 
-32,80 €, 57,40 €, 82,00 €, 98,40 €, 131,20 €, 196,80 €, 393,60 €, 624,00 €, 780,00 €, 1.201,20 €, 1.716,00 €.
+29,80 €, 52,15 €, 74,50 €, 89,40 €, 119,20 €, 178,80 €, 357,60 €, 564,00 €, 705,00 €, 1.085,70 €, 1.551,00 €.
 
 Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter verdoppeln sich die betreffenden Gebühren.
 
@@ -88,27 +87,27 @@ Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter ve
 
 1. 60 Liter unter Berücksichtigung der Pauschalgebühr 2. 80 Liter unter Berücksichtigung der Pauschalgebühr 3. 120 Liter unter Berücksichtigung der Pauschalgebühr 4. 240 Liter unter Berücksichtigung der Pauschalgebühr
 
-15,00 €, 47,80 €, 113,40 €, 310,20 €.
+15,00 €, 44,80 €, 104,40 €, 283,20 €.
 
 Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 5. 60 Liter ohne Pauschalgebühr 6. 80 Liter ohne Pauschalgebühr 7. 120 Liter ohne Pauschalgebühr 8. 240 Liter ohne Pauschalgebühr
 
-98,40 €, 131,20 €, 196,80 €, 393,60 €.
+89,40 €, 119,20 €, 178,80 €, 357,60 €.
 
 (4) Die Gebühren bei einmaliger zusätzlicher Entleerung von Restabfallbehältern betragen für einen Behälter mit einem Füllraum von
 
 1. 35 Liter 2. 50 Liter 3. 60 Liter 4. 80 Liter 5. 120 Liter 6. 240 Liter
 
-2,55 €, 3,45 €, 4,10 €, 5,35 €, 7,90 €, 15,45 €.
+2,35 €, 3,20 €, 3,75 €, 4,90 €, 7,20 €, 14,05 €.
 
-(5) Die Gebühr bei zusätzlicher Entsorgung von Restabfall mittels eines Abfallnormsackes mit 50 Liter Füllraum beträgt 3,60 €.
+(5) Die Gebühr bei zusätzlicher Entsorgung von Restabfall mittels eines Abfallnormsackes mit 50 Liter Füllraum beträgt 3,35 €.
 
 (6) Die Gebühren bei einmaliger zusätzlicher Entleerung von Bioabfallbehältern betragen für einen Behälter mit einem Füllraum von
 
 1. 60 Liter 2. 80 Liter 3. 120 Liter 4. 240 Liter
 
-4,10 €, 5,35 €, 7,90 €, 15,45 €.
+3,75 €, 4,90 €, 7,20 €, 14,05 €.
 
 3
 
@@ -120,15 +119,15 @@ Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 20,00 €.
 
-(9) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Abs. 4 Satz 1 Abfallgebührensatzung 150,75 €/t. Die Mindestgebühr beträgt 30,00 €. Unter den Voraussetzungen des § 2 Abs. 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
+(9) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Abs. 4 Satz 1 Abfallgebührensatzung 148,60 €/t. Die Mindestgebühr beträgt 29,00 €. Unter den Voraussetzungen des § 2 Abs. 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
 
 1. Sperrmüll
 
-28,60 €/m³,
+28,20 €/m³,
 
 2. Kompostierbaren Gartenabfällen
 
-28,60 €/m³.
+28,20 €/m³.
 
 Bei Anlieferung von Altreifen beträgt die Gebühr pro Stück:
 
@@ -170,5 +169,5 @@ der gemäß Abs. 9 berechneten Entsorgungsgebühr und der Logistikgebühr zusamm
 
 10,00 €
 
-§3 Diese Satzung tritt am 01.01.2016 in Kraft.
-Oldenburg (Oldb), den 30.11.2015
+§3 Diese Satzung tritt am 01.01.2017 in Kraft.
+Oldenburg (Oldb), den 21.11.2016
