@@ -1,0 +1,7 @@
+# TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Vergabe- und Liegenschaftsausschuss (71. Sitzung) (2016-12-05)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/21989
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
