@@ -1,0 +1,64 @@
+# Finanzausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-12-05T09:00:00+01:00
+- Ende: 2016-12-05T10:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZaK4BYOoziJeTln9xj_2WOI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4690
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY60UxmuMVV94h-kYocZD7JJfBDs9rl9bKciJ2ge37qG/Oeffentliche_Niederschrift_Finanzausschuss_05.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 19. Sitzung des Finanzausschusses am 10.11.2016
+- TOP 3: Sachstand der Organisationsuntersuchung im Stadtdienst Immobilienmanagement
+- TOP 4: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 5: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 6: Überplanmäßige Ausgaben für die Tagesbetreuung für Kinder
+- TOP 7: Verwendung der Sportpauschale
+- TOP 8: Verwendung der Sportpauschale
+- TOP 9: Obdachlosenangelegenheiten
+- TOP 10: Obdachlosenangelegenheiten
+- TOP 11: Neubauplanung Sporthalle Gesamtschule Höhscheid
+- TOP 12: Ersatzneubau des Hallenbades Vogelsang
+- TOP 13: Wirtschaftsplan 2017 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 14: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 15: II. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 16: II. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 17: III. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 18: Optimierung der Straßenreinigung und Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 19: Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 20: II. Änderungssatzung zur Friedhofssatzung und Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 21: Wirtschaftsplan 2017 der Technischen Betriebe Solingen
+- TOP 22: Wirtschaftsplan 2017 der Technischen Betriebe Solingen
+- TOP 23: Forderungsmanagement
+- TOP 24: 3. Quartalsbericht zum Ergebnisplan des Haushaltes 2016 und HSP-Controlling lt. Stärkungspaktgesetz
+- TOP 25: Themenplan Finanzausschuss 2017
+- TOP 26: Etatberatungen für das Haushaltsjahr 2017 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2020 und des Haushaltssanierungsplanes 2017 ff.
+- TOP 27: Verschiedenes
+- TOP 28: Arena Bergisches Land
+- TOP 29: Überplanmäßige Bereitstellung der Fördermittel aus Bundesprogramm „Demokratie Leben“
+- TOP 30: Städtische Immobilienstrategie
+- TOP 31: Interkommunale Zusammenarbeit
+- TOP 32: IT im Konzern Stadt Solingen
+- TOP 33: Heidebad
+- TOP 34: Landesvorhaben "Gute Schule 2020"
+- TOP 35: Wirkung von Gutachten zur Konsolidierung kommunaler Haushalte
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 19. Sitzung des Finanzausschusses am 10.11.2016
+- TOP 3: Maßnahmenvorschläge der Geschäftsführung der BSG und der Verwaltung zur Abwendung der drohenden Insolvenz
+- TOP 4: Maßnahmenvorschläge der Geschäftsführung der BSG und der Verwaltung zur Abwendung der drohenden Insolvenz
+- TOP 5: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 6: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 7: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 8: Verkauf einer städtischen Liegenschaft
+- TOP 9: Grundstücksübertragung zwischen den Technischen Betrieben Solingen und der Kernverwaltung
+- TOP 10: Verkauf einer städtischen Liegenschaft
+- TOP 11: Ankauf einer Liegenschaft unter Bereitstellung von überplanmäßigen Mitteln gem. § 83 GO NRW
+- TOP 12: Verschiedenes
