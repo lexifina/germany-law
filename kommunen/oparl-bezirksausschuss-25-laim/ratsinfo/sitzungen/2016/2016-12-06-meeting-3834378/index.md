@@ -1,0 +1,74 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2016-12-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3834378
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3834378
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Errichtung von Gehwegnasen in der Wilhelm-Riehl-Straße
+- TOP 1.2.2.: Fußgängerampel an der Kreuzung Landsberger Straße / Friedenheimer Brücke
+- TOP 1.2.3.: Zwischenlösung zur Erweiterung der Fahrradabstellanlage am Laimer Platz
+- TOP 1.2.4.: Neuer Anstrich in der Unterführung Fürstenrieder Straße
+- TOP 1.2.5.: MVG-Verkaufsstelle Pronnerplatz
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Beleuchtung am Agricolapark
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 10.11.16: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle", Antrag BA 15 Trudering-Riem vom 22.09.16
+- TOP 4.2.: Schreiben Direktorium vom 26.10.16: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Elternbeirats der Grundschule Camerloherstraße, Tanzprojekt, Verlängerung des Bewiligungszeitraums
+- TOP 4.3.: Schreiben Sozialreferat vom 15.11.16: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen", im Stadtbezirk
+- TOP 4.4.: Schreiben Baureferat vom 07.11.16: Entscheidung gem. Vollmacht des Oberbürgermeisters über die Projektplanung Programm barrierefreie Bushaltestellen Elsenheimerstraße, Haltestelle Lautensackstraße
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.11.16: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Straße 137: Neubau zweier Mehrfamilienhäuser (insges. 29 WE) mit Tiefgarage (31 Stpl.) (Agnes-Bernauer-Straße 137 / Agricolastraße)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 08.11.16
+- TOP 7.2.: Sitzung UA Bildung und Sozialplanung vom 25.10.16
+- TOP 7.3.: Sitzung UA Kultur vom 09.11.16
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 19.10.16: Baumentfernung Siglstraße
+- TOP 8.2.: Schreiben Baureferat vom 09.11.16: Kneipp-Anlage im Westpark, Erneuerung von Barfußpfad-Stationen
+- TOP 8.3.: Schreiben Baureferat vom 02.11.16: Zschokkestraße / Siglstraße; Überprüfung der Höhe der Bordsteinkante an der Querungsinsel des Radweges
+- TOP 8.4.: Schreiben Baureferat vom 02.11.16: Sport / Spielplatz an der Valpichlerstraße (Ecke Von-der-Pfordten-Straße)
+- TOP 8.5.: Schreiben Kommunalreferat vom 26.10.16: Umbenennung der Paul-Lagarde-Straße
+- TOP 8.6.: Schreiben Kommunalreferat vom 31.10.16: Verunreinigte und verwilderte Fläche, Flst. 405/2 Gemarkung Laim
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 02.11.16: Errichtung einer Ampel in der Elsenheimer Straße 41
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 02.11.16: Verkehrsrechtliche Anordnungen, hier: - Einrichtung einer weiteren Schulbushaltestelle in der Schrobenhausener Straße für den Schülerverkehr zu den Münchner Regionalhäusern - Einrichtung einer Schulbushaltestelle in der Hans-Thonauer-Straße für den Schülerverkehr zu den Münchner Regionalhäusern - Einrichtung einer weiteren Schulbushaltestelle in der Camerloherstraße für den Schülerverkehr zu den Münchner Regionalhäusern
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 21.11.16: Unveränderte Fortführung eines Gaststättenbetriebes, hier: "Sabatono Restaurant", Zschokkestraße 55
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.10.16: Baugenehmigung Geigerstraße 1, Neubau zweier Einfamilienhäuser mit 2 Einzelgaragen
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.11.16 und Schreiben vom Sozialreferat vom 21.11.16: Leerstand Wohnungen Geyerspergerstraße 29
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.11.16: Bauvorhaben Guido-Schneble-Straße 75, Neubau von Wohnhäusern als Nachverdichtungsmaßnahme im Bereich Guido-Schneble-Straße 75 - 85 / Inderstorferstraße 17 a - 33 b / Joergstraße 92 - 102 / Saherrstraße 50 - 62 / Senftenauerstraße 22 - 46 - Vorbescheid
+- TOP 8.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14.: Schreiben Sozialreferat vom 14.11.16: Zweckentfremdung von Wohnraum, hier: Geigerstraße
+- TOP 8.15.: Schreiben Sozialreferat vom 16.11.16: Übersicht Unterkünfte Flüchtlinge und Wohnungslose
+- TOP 8.16.: Schreiben Stadtkämmerei vom 07.11.16: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020
+- TOP 8.17.: Bautenliste vom 31.10. - 06.11.16: 1. Erstantragsverfahren: a) Friedrich-von-Pauli-Str. 21 b) Landsberger Str. 380 c) Riegerhofstr. 17 d) Haslangstr. 9
+- TOP 8.18.: Bautenliste vom 14.11. - 20.11.16: 1. Erstantragsverfahren: a) Landsberger Str. 160
+- TOP 8.19.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtage: 14.11. - 18.11.2016
+- TOP 8.20.: Schreiben Stadtwerke München vom 14.11.16: Baumaßnahmen der SWM, hier: Stromprojekt Fürstenrieder Straße
+- TOP 8.21.: Beschluss der Vollversammlung vom 28.09.16: Teilfortschreibung des Landesentwicklungsprogramms Bayern (LEP) (Sitzungsvorlage Nr. 14-20 / V 07001)
+- TOP 8.22.: Beschluss der Vollversammlung vom 15.11.16: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlage Nr. 14-20 / V 05253)
+- TOP 8.23.: Beschluss der Vollversammlung vom 19.10.16: Regionale Kooperationen stärken (II) - A. Folgeprojekte Regionale Wohnungsbaukonferenzen B. Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsprojekte) C. Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 06894)
+- TOP 8.24.: Beschluss der Vollversammlung vom 15.11.16: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021 Änderung des Mehrjahresinvestitionsprogramms 2016 - 2020; Finanzierung (Sitzungsvorlage Nr. 14-20 / V 07205)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.16: Leben im Alter Wohnen 2 Wohnungsgrundrisse für veränderbare Wohnungsgrößen (Sitzungsvorlage Nr. 14-20 / V 07222)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.16: Mehrjahresinvestitionsprogramm 2016 - 2020 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016 - 2020 Infrastrukturversorgungskonzept 2016 - 2020 (Sitzungsvorlage Nr. 14-20 / V 07482)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.16: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung (Sitzungsvorlage Nr. 14-20 / V 07533)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.16: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters (Sitzungsvorlage Nr. 14-20 / V 07360)
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.16: Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen! XII Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern (Sitzungsvorlage Nr. 14-20 / V 07430)
+- TOP 8.30.: Beschluss des Sozialausschusses in der gemeinsamen SItzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 22.11.16: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 07237)
+- TOP 8.31.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.16: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 07218)
+- TOP 8.32.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.16: Zuschussnehmerdatei 2017 Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 07291)
+- TOP 8.33.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.16: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Sozialreferates / Stiftungsverwaltung - Bürgerschaftliches Engagement (BE) und Zentrale (Sitzungsvorlage Nr. 14-20 / V 07226)
+- TOP 8.34.: Beschluss des Bauausschusses vom 25.10.16: Aktion Saubere Stadt Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung (Sitzungsvorlage Nr. 14-20 / V 06637)
+- TOP 8.35.: Schreiben Grundschule Camerloherstraße vom 08.11.16: Baufahrzeuge auf dem Schulhof
+- TOP 8.36.: Schreiben Familienzentrum Laim vom 26.10.16: Zuwendung aus dem Budget der Bezirksausschüsse, Kurzbericht zur Offenen Spielaktion "Kommt ein Vogerl geflogen - Singen, Spielen, Basteln im Herbst" vom 14.09. - 23.09.2016
+- TOP 1.2: Bürgerpost an den BA
