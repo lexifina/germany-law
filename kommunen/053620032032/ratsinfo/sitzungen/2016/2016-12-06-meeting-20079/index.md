@@ -1,0 +1,52 @@
+# Ausschuss für Stadtplanung und Verkehr (16. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-12-06T17:00:00+01:00
+- Ende: 2016-12-06T19:15:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQOVyKVZ_ns2GhPVPTdRHr8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20079
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSSjFDVyFefBQt8G9xrKcED1TeLhTgePypUM_ay47-P3/Bekanntmachung_Ausschuss_fuer_Stadtplanung_und_Verkehr_06.12.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcmNQ3_mTM0mUf6t_2SI-fDSSToo8wQtWbp-mmJemKXp/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_06.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Entwicklungsgebiet Horrem-Nord hier: Vorstellung der Entwicklungsstudie durch die Firma Leienfelder Ingenieure
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 4.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 4.1: Anregung gem. § 24 GO NRW der Initiative "Auch WIR sind Sindorf"; hier: Platzbenennung "Platz der Integration"
+- TOP 4.2: hier: geplante Erweiterung der Autobahnraststätte Ville West und Ville Ost an der BAB 1
+- TOP 5.: Umbesetzung von Arbeitskreisen
+- TOP 5.1: Besetzung der Kinderunfallkommission hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.2: Umbesetzung des Arbeitskreises Verkehrsplanung und Verkehrssicherheit sowie der Kinderunfallkommission hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 6.: Umsiedlung Manheim
+- TOP 6.1: Umsiedlung Manheim hier: Niederschrift der 24. Sitzung des Bürgerbeirates Manheim
+- TOP 6.2: Sachstandsbericht
+- TOP 7.: Stadtentwicklung
+- TOP 7.1: ISEK Maastrichter Straße - Beschluss gem. § 171 e (3) BauGB - (kein Text vorhanden)
+- TOP 7.2: Erweiterung des Lärmschutzes für den Stadtteil Buir - (kein Text vorhanden)
+- TOP 7.3: Baulandentwicklung in Buir
+- TOP 7.3.1: Zukünftige Baulandentwicklung im Stadtteil Buir
+- TOP 7.3.2: Entwicklung alte Schule (Eichemstraße) im Stadtteil Buir - (kein Text vorhanden)
+- TOP 7.4: Genehmigungsantrag der Fa. SL-Windenergie GmbH zur Errichtung von 5 Windenergieanlagen in Kerpen-Türnich vom 20.07.2016 gemäß § 4 BImSchG hier: Stellungnahme - (kein Text vorhanden)
+- TOP 7.5: Sachstand Villa Trips im Stadtteil Horrem - (kein Text vorhanden)
+- TOP 7.6: Stadtplanerische Fortentwicklung im Zuge des zunehmenden Bedarfs an Wohnflächen hier: Stellungnahme der Verwaltung
+- TOP 7.7: Flurbereinigungsverfahren Hambach Ost, Änderung der Stadtgrenze hier: Aufhebung des Ratsbeschlusses vom 11.12.2012 - (kein Text vorhanden)
+- TOP 8.: Bauleitplanung
+- TOP 8.1: Verlängerung der Veränderungssperre für den Geltungsbereich des Bebauungsplanes TÜ 356 "Eifelstraße/Heerstraße", Stadtteil Brüggen - (kein Text vorhanden)
+- TOP 9.: Verkehrsplanung
+- TOP 9.1: Niederschrift der 6. Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit vom 16.11.2016 - (kein Text vorhanden)
+- TOP 9.2: Hinweisschilder zum Industriegebiet „Kelzer Busch“ sowie Umbenennung der Straßenbezeichnung „Kieswerk“ im Stadtteil Blatzheim hier: Antrag der CDU-Fraktion
+- TOP 9.3: Durchführung eines Mobilitätsleitbild-Prozesses „Kolpingstadt Kerpen 2030“
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11a: Durchführung eines Mobilitätsleitbild-Prozesses „Kolpingstadt Kerpen 2030“ hier: Auftragsvergabe Anträge der CDU-Fraktion
+- TOP 12.: 75. Änderung des Flächennutzungsplan „Sondergebiet Nahversorgungszentrum + Zentraler Versorgungsbereich Brüggen“ und Bebauungsplan TÜ 356 „Eifelstraße/Heerstraße“ hier: Sachstandsbericht
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
