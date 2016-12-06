@@ -1,0 +1,60 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2016-12-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3798639
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3798639
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 08.11.2016
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Wahl der/des neuen Vorsitzenden des Unterausschusses Kultur
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Sanierung Fußweg Schmiedberg
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Autobahnlärm BAB 95 - Stadtgrenze
+- TOP 5.4.: (Antrag) Entschleunigung Schäftlarnstr.
+- TOP 5.5.: (Antrag) Parksituation Ecke Hofmann-/ Zielstattstr.
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Haltverbot Hofbrunnstr.
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Haltverbot Bannwaldseestr.
+- TOP 5.8.: (Antrag) Busverbindung Fürstenried West - Appenzeller Str. - Neuried
+- TOP 5.9.: Programm barrierefreie Bushaltestellen: Züricher Str. und Limmatstr.
+- TOP 5.10.: (E) Sondernutzungserlaubnis: Freischankfläche Kistlerhofstr.
+- TOP 5.11.: (Antrag) Parksituation Höglwörther Str.
+- TOP 5.12.: (Antrag) Kindergarten Konrad-Witz-Str.
+- TOP 5.13.: (Antrag) Baustelle Zielstattstr.
+- TOP 5.14.: (U) Verkehrsrechtliche Anordnung: Baierbrunner Str.
+- TOP 5.15.: Buslinie 132 - Haltestelle Spielmannsauerstr.
+- TOP 5.16.: (Anträge) Verkehrsproblematik Bleibstreustr./ Wilhelm-Leibl-Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf Bebauungsplan mit Grünordnung Nr. 1930; Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbs für den ehemaligen Parkplatz der Firma Siemens an der Gmunder Straße
+- TOP 6.4.: (A) Satzungsänderung: Anhörungsrecht für Planungen im Bereich ?Wohnen für Alle?
+- TOP 6.5.: (U) Grundstücksgeschäft: Nähe Koppstr.
+- TOP 6.6.: (Antrag) Abbruch des Real Marktes an der Machtlfinger Str.
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: (A) Ausschreibung: ?Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen?
+- TOP 7.3.: (Antrag) Flüchtlingsunterkunft Forstenrieder Allee
+- TOP 8: Unterausschuss Kultur
+- TOP 8.2.: (A) Veranstaltung: 26. Münchner Kanu-Triathlon (MKT) am 14.05.2017
+- TOP 8.3.: (A) Veranstaltung: Forstenrieder Volkslauf am 01.04.2017
+- TOP 9: Verschiedenes
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Freiwillige Feuerwehr Solln von 1873 Beschaffung eines Lüfters
+- TOP 5.17.: Aufstellfläche für Linksabbieger in der Sollner Straße/ Wolfratshauser Straße - <div></div>
+- TOP 7.4.: Dringlichkeitsantrag Bebauung Herterichstraße 158 - <div></div>
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
