@@ -1,0 +1,74 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2016-12-07T17:00:00+01:00
+- Ende: 2016-12-07T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2941
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2941
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Neukölln sagt Nein zu Rassismus - Neukölln bleibt weltoffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl eines Mitgliedes in den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten SüdOst" - gewählt
+- TOP 5.2: Wahl eines stellvertretenden Mitgliedes in den Verwaltungsrat des Eigenbetriebes"Kindertagesstätten SüdOst" - gewählt
+- TOP 5.3: Wahl von Bürgerdeputierten gem. §21 Bezirksverwaltungsgesetz - gewählt
+- TOP 5.4: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 5.5: Wahl zum Bezirksstadtrat auf Vorschlag der Fraktion der AfD - vertagt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - vertagt
+- TOP 6.2: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2016/2017 und im Jahr 2017 - vertagt
+- TOP 6.3: Genehmigung der im Haushaltsjahr 2015 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - vertagt
+- TOP 7.2: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - vertagt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Lage von Geflüchteten und Stand der Unterbringung in Neukölln? - vertagt
+- TOP 9.2: Wie neutral ist das Projekt "Schule ohne Rassismus - Schule mit Courage"? - vertagt
+- TOP 9.3: Künftiger Umgang mit Asbestbelastung - vertagt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Gedenkort für Burak Bektas - vertagt
+- TOP 10.2: Unterbringung von Geflüchteten in Neukölln - vertagt
+- TOP 10.3: Asbestregister und -sanierung durchführen - vertagt
+- TOP 11: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11.1: Zustimmung zur Entscheidung über den Ausbau der Radwege Buckower Damm zwischen Mohriner Allee und Bauhüttenweg - vertagt
+- TOP 11.2: Neukölln fahrrad- und fußgänger/innenfreundlich (9): Sicherheit in der High-Deck-Siedlung - vertagt
+- TOP 11.3: Mehrsprachiges Informationsmaterial für Migrantinnen und Migranten - vertagt
+- TOP 11.4: Sehbehindertengerechte Stufen im Rathaus Neukölln - vertagt
+- TOP 11.5: Verkehrssicherheit Hermannplatz - vertagt
+- TOP 11.6: Milieuschutz - vertagt
+- TOP 11.7: Tempo 30 in der Gerlinger Str. - vertagt
+- TOP 11.8: Halteverbot in der Kanalstraße - vertagt
+- TOP 11.9: Fußgängerquerungshilfe (Fußgängerüberweg/ggfs. Anforderungsampel) in der Stubenrauchstraße - vertagt
+- TOP 11.10: Parken im Wendehalsweg - vertagt
+- TOP 11.11: SAPV-Versorgung in Neukölln sicherstellen - vertagt
+- TOP 11.12: Lichtzeichenanlage für Fußgänger*innen in der Lahnstraße - vertagt
+- TOP 11.13: Projekt „Stadtteilmütter“ - vertagt
+- TOP 11.14: Gutachten/Studien der Öffentlichkeit zugänglich machen - vertagt
+- TOP 11.15: Verein Islamische Gemeinschaft e.V. wegen islamistischer Hetze verbieten - vertagt
+- TOP 11.16: Online-Formularservice auf berlin.de verbessern - vertagt
+- TOP 11.17: Zeitplan für Milieuschutzgebiete - vertagt
+- TOP 11.18: IHK – Außenstelle in Neukölln - vertagt
+- TOP 11.19: Zusätzlicher Fahrradweg in der Kanalstraße - vertagt
+- TOP 11.20: Aufstellungsbeschluss für zwei soziale Erhaltungsgebiete - vertagt
+- TOP 11.21: Genehmigungskriterien für den Milieuschutz - vertagt
+- TOP 11.22: Informationsveranstaltung "Bürgernahe Kommunalpolitik" - vertagt
+- TOP 11.23: Weitere Voruntersuchungen für die Einführung von sozialen Erhaltungssatzungen - vertagt
+- TOP 11.24: Impfschutz - vertagt
+- TOP 11.25: Würdiges Erscheinungsbild am Gedenkstein Britz wiederherstellen - vertagt
+- TOP 11.26: Sicherheitsgefühl für Frauen am Gemeinschaftshaus Gropiusstadt stärken - vertagt
+- TOP 11.27: Informationsveranstaltung Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - vertagt
+- TOP 11.28: "Mitmachzirkus Mondeo retten" - vertagt
+- TOP 11.29: Unhaltbare Zustände in der Rettungsstelle des Klinikum Neuköllns - vertagt
+- TOP 11.30: Patientenkoordinatoren/ -innen - vertagt
+- TOP 11.31: Hundetagesstätte retten - vertagt
+- TOP 11.32: Fußgängerüberweg in der Köpenicker Straße / Alt Rudow - vertagt
