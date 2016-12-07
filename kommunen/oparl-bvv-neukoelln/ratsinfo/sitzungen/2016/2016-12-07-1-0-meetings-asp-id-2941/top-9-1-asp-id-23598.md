@@ -1,0 +1,8 @@
+# TOP 9.1: Lage von Geflüchteten und Stand der Unterbringung in Neukölln?
+
+- Sitzung: 2. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2016-12-07)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=23598
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=23598
