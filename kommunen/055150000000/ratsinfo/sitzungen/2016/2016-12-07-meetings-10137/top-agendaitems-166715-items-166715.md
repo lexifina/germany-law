@@ -1,0 +1,6 @@
+# TOP -: Vorberatung von Ratsentscheidungen im Rahmen der Haushaltsberatungen
+
+- Sitzung: 20. Sitzung (Etat) (2016-12-07)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/166715
