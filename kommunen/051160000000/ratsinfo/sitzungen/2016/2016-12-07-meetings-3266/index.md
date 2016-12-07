@@ -1,0 +1,69 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-12-07T17:00:00+01:00
+- Ende: 2016-12-07T21:45:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3266
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3266
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 14. Sitzung des Hauptausschusses am 08.06.2016 -öffentlicher Teil- - Kenntnisnahme
+- TOP 2: Niederschrift über die 16. Sitzung des Hauptausschusses am 16.11.2016 -öffentlicher Teil- - Kenntnisnahme
+- TOP 3: Bericht zur Umsetzung des HSP zum 30.09.2016 - Kenntnisnahme
+- TOP 4: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2016 - Kenntnisnahme
+- TOP 5: Stellenplan 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Entwurf des Haushaltes 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Entwurf des Haushalts 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des HSP - Ohne Abstimmung
+- TOP 6.2: Haushaltsplan 2017 – Förderprogramm „Gute Schule 2020“ - Mit Stimmenmehrheit abgelehnt
+- TOP 6.3: Entwurf des Haushaltes 2017; Haushaltssatzung einschließlich Anlagen und der Fortschrei-bung des Hau - Mit Stimmenmehrheit abgelehnt
+- TOP 6.4: Entwurf des Haushaltes 2017; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Haus - Mit Stimmenmehrheit abgelehnt
+- TOP 6.5: HSP - Maßnahme 2012-0031 (Übernachtungssteuer) - Mit Stimmenmehrheit abgelehnt
+- TOP 6.6: Entwurf des Haushaltes 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des Haushaltssanie - Mit Stimmenmehrheit beschlossen
+- TOP 6.7: Entwurf des Haushaltes 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des Haushaltssanie - Mit Stimmenmehrheit beschlossen
+- TOP 6.8: Entwurf des Haushaltes 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des Haushaltssanie - Mit Stimmenmehrheit beschlossen
+- TOP 6.9: Vorlage Nr. 1960/IX: Enjtwurf des Haushalts 2017 einschließlich Entwurf der Fortschreibung des Haush - Mit Stimmenmehrheit abgelehnt
+- TOP 6.10: Entwurf des Haushaltes 2017; Haushaltssatzung einschließlich - Mit Stimmenmehrheit beschlossen
+- TOP 6.11: HSP 2016-0229 (Reduzierung der Kosten der Unterkunft) - Mit Stimmenmehrheit abgelehnt
+- TOP 6.12: Einführung einer Wettbürosteuer - Vom Antragsteller zurückgezogen
+- TOP 6.13: Streichung der HSP-Maßnahme 2012-0085 (Einnahmen aus Kursgebühren) - Mit Stimmenmehrheit abgelehnt
+- TOP 6.14: Modernisierung der Bezirkssportanlage Puffkohlen - Mit Stimmenmehrheit abgelehnt
+- TOP 7: Anpassung von Gesellschaftsverträgen - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 7.1: Änderungsantrag zur Beschlussvorlage 1782/IX Anpassungen von Gesellschaftsverträgen - Vom Antragsteller zurückgezogen
+- TOP 8: Änderung der Abfallgebührensatzung - Kenntnisnahme
+- TOP 8.1: Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfall - An den Rat verwiesen
+- TOP 9: Änderung der Straßenreinigungs- und Gebührensatzung - Kenntnisnahme
+- TOP 10: Bildung des Kreiswahlausschusses - An den Rat verwiesen
+- TOP 11: Förderprogramm "Gute Schule 2020" - Mit Stimmenmehrheit beschlossen
+- TOP 11.1: Umsetzung Programm „NRW.Bank.Gute Schule 2020“ - Mit Stimmenmehrheit beschlossen
+- TOP 12: Mehrgenerationenhaus des Trägers PariSozial - Einstimmiger Beschluss
+- TOP 13: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldnerberatung " - Einstimmiger Beschluss
+- TOP 14: Leistungsvereinbarungen mit dem gemeinnützigen Verein Frauenhaus Rheydt/Frauenberatungsstelle e.V. u - Einstimmiger Beschluss
+- TOP 15: Leistungsvereinbarung mit dem Arbeitslosenzentrum - Mit Stimmenmehrheit beschlossen
+- TOP 15.1: Leistungsvereinbarung mit dem Arbeitslosenzentrum Mönchengladbach e.V. (1985/IX); hier: Weiterentwic - Mit Stimmenmehrheit beschlossen
+- TOP 16: Präventionsprojekt HOME - Hilfe und Orientierung für Mönchengladbacher Eltern - Projektverlängerung - Einstimmiger Beschluss
+- TOP 17: Betreuungsplätze in LENA-Gruppen für Kinder unter 3 Jahren - Einstimmiger Beschluss
+- TOP 18: Leistungsvereinbarung pro familia - Einstimmiger Beschluss
+- TOP 19: Leistungsvereinbarung Frauenberatungsstelle - Einstimmiger Beschluss
+- TOP 20: LV Selbsthilfegruppen - Einstimmiger Beschluss
+- TOP 21: Verlängerung der Leistungsvereinbarungen - Einstimmiger Beschluss
+- TOP 22: 22. NT Kanalbenutzungsgebührensatzung und 9. NT Klärschlammbeseitigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 23: Satzung Zweite Verlängerung Veränderungssperre Steinsstraße - Einstimmiger Beschluss
+- TOP 24: Satzung Zweite Verlängerung Veränderungssperre Am Nordpark - Einstimmiger Beschluss
+- TOP 25: Satzung Zweite Verlängerung Veränderungssperre City Ost - Einstimmiger Beschluss
+- TOP 26: Tagebaufolgelandschaft Garzweiler - Mit Stimmenmehrheit beschlossen
+- TOP 26.1: Änderungsantrag zur Beratungsvorlage Nr. 1990/IX (Tagebaufolgelandschaft Garzweiler - Weitergehende - Mit Stimmenmehrheit abgelehnt
+- TOP 27: TOP 27 wurde bereits unter TOP 11.1 behandelt - Zur Kenntnis genommen
+- TOP 28: TOP 28 wurde bereits unter TOP 6.11 behandelt
+- TOP 29: Raumsuche für den Verein Rollbrettunion - Vom Antragsteller zurückgezogen
+- TOP 30: TOP 30 wurde bereits unter TOP 6.12 behandelt
+- TOP 31: TOP 31 wurde bereits unter TOP 6.13 behandelt
+- TOP 32: TOP 32 wurde bereits unter TOP 6.14 behandelt
+- TOP 33: Anfragen und Mitteilungen
+- TOP 33.1: Anfrage von Ratsherrn Sasserath,
+- TOP 33.2: Anfrage von Ratsherrn Boss, CDU
+- TOP 33.3: Anfrage von Ratsfrau Brombeis,
