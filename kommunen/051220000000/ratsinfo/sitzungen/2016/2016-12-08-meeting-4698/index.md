@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2016-12-08T17:00:00+01:00
+- Ende: 2016-12-08T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYOmPxxmGOmRNChCJM0ZZko
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4698
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfk0q543EOuzkOyZXO0F1o-KkvZ4GAlQsdvFLDR52uzk/Oeffentliche_Niederschrift_Rat_08.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll der 18. Sitzung des Rates am 17.11.2016
+- TOP 3: Vorschlag für eine en-bloc-Abstimmung
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Benennung eines Mitgliedes der Veranstaltergemeinschaft Lokalfunk Remscheid-Solingen (Radio RSG)
+- TOP 6: Stellenplannachtrag 2017
+- TOP 7: Etatberatungen für das Haushaltsjahr 2017 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2020 und des Haushaltssanierungsplanes 2017 ff.
+- TOP 8: Sicherheit in Solingen - Kommunale Kriminalprävention
+- TOP 9: Jugendstadtrat Neufassung der Satzung und der Wahlordnung
+- TOP 10: Überplanmäßige Ausgaben für die Tagesbetreuung für Kinder
+- TOP 11: Neubauplanung Sporthalle Gesamtschule Höhscheid
+- TOP 12: Obdachlosenangelegenheiten
+- TOP 13: Obdachlosenangelegenheiten
+- TOP 14: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 15: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 16: Neufassung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung Eintritte)
+- TOP 17: Vergabe des Lokalen Agenda 21-Preises der Stadt Solingen 2016
+- TOP 18: Erarbeitung eines Integrierten Stadtteilentwicklungskonzeptes (ISEK) für den Stadtteil Solingen-Wald
+- TOP 19: Erarbeitung eines Integrierten Stadtteilentwicklungskonzeptes (ISEK) für den Stadtteil Solingen-Wald
+- TOP 20: Wirtschaftsplan 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 21: Wirtschaftsplan 2017 der Technischen Betriebe Solingen
+- TOP 22: Wirtschaftsplan 2017 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 23: II. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 24: II. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 25: III. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 26: Optimierung der Straßenreinigung und Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 27: Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 28: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 29: II. Änderungssatzung zur Friedhofssatzung und Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 30: Gesetz zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse und zur Änderung kommunalrechtlicher Vorschriften vom 25.Juni 2015
+- TOP 31: Entwurf des Gesamtabschlusses 2015 der Stadt Solingen
+- TOP 32: Bauleitplanung Steinstraße/ Sauerbreystraße
+- TOP 33: Förderung der E-Mobilität in Solingen
+- TOP 34: Gesamtdarstellung der in Planung befindlichen Solinger Gewerbeflächen
+- TOP 35: Integration 2.0 – zielgruppenorientierterer Dialog mit Migranten
+- TOP 36: Mehr Sauberkeit im öffentlichen Raum
+- TOP 37: Verschiedenes
+- TOP 38: Arena Bergisches Land
+- TOP 39: Wohnsitzauflage u.a.m.
+- TOP 40: Nachhaltigkeitspreis 2016: Klingenstadt erhält Sonderpreis des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll der 18. Sitzung des Rates am 17.11.2016
+- TOP 3: Bergische Symphoniker - Grundsatzbeschluss zur mittel- und langfristigen Finanzierung
+- TOP 4: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 5: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 6: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 7: Ankauf einer Liegenschaft unter Bereitstellung von überplanmäßigen Mitteln gem. § 83 GO NRW
+- TOP 8: Verschiedenes
