@@ -1,0 +1,101 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2016-12-08T18:00:00+01:00
+- Ende: 2016-12-08T21:45:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1477
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1477
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsreden 2017 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00075413.pdf
+- Ergebnisprotokoll: Haushaltsreden 2017 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00075413.pdf
+- Wortprotokoll: Haushaltsreden 2017 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00075413.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Einwohnerfragestunde gem. § 18 der Geschäftsordnung des Rates der Stadt Grevenbroich
+- TOP 2.1: Schriftliche Anträge
+- TOP 2.2: CDU
+- TOP 2.2.1: Neuvergabe von Hausnummern in Gruissem (Antrag Nr. 322/16) - einstimmig
+- TOP 2.2.2: Ausschussumbesetzung PlanungsA (Antrag Nr. 323/16) - einstimmig
+- TOP 2.2.3: Innenentwicklung an der Gürather Straße in Neurath (Antrag Nr. 325/16) - einstimmig
+- TOP 2.2.4: Überplanung Spielplatz An St. Lambertus in Neurath (Antrag Nr. 326/16) - einstimmig
+- TOP 2.3: SPD
+- TOP 2.4: UWG
+- TOP 2.4.1: Beseitigung der größten Schäden u. Herst. der Verkehrssicherh. Auf dem Hamm (Antrag Nr. 315/16) - einstimmig
+- TOP 2.4.2: Umfang der Anträge von Fraktionen (Antrag Nr. 317/16) - einstimmig
+- TOP 2.4.3: Verbesserungen des Unterhaltsvorschussgesetzes nicht auf Kosten der Stadt Grevenbroich herbeiführen - einstimmig
+- TOP 2.5: FDP
+- TOP 2.6: B 90/DIE GRÜNEN
+- TOP 2.7: ABG
+- TOP 2.8: Mein Grevenbroich
+- TOP 2.8.1: Einrichtung einer 30er - Zone Bahnstraße (Antrag Nr. 319/16) - einstimmig
+- TOP 2.9: Die Linke/Piraten
+- TOP 2.10: FBG
+- TOP 2.11: Gemeinschaftsanträge
+- TOP 2.11.1: Beteiligung Grünplanung im Stadtgebiet (Antrag Nr. 324/16) - einstimmig
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Spielplatz Friedrich-Ebert-Straße (Anfrage Nr. 320/16) - Kenntnisnahme
+- TOP 3.7.2: Ansiedlungsdichte von Wettbüros (Anfrage Nr. 321/16) - Kenntnisnahme
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Wahl einer/eines hauptamtlichen Beigeordneten - mehrheitlich bei
+- TOP 7: Broschüre Frauenstraßennamen - einstimmig
+- TOP 8: Außerplanmäßige Verpflichtungsermächtigung - mehrheitlich bei
+- TOP 9: Flüchtlings- und Integrationsangelegenheiten
+- TOP 10: Entscheidung PlanungsA
+- TOP 10.1: 22. Änd. FNP, W 52,W 53 ehem.Zuckerfabrik-Aufst.beschl. - einstimmig
+- TOP 10.2: 1.Änd. K 12 - Aufstellung + Auslegung - einstimmig
+- TOP 10.3: N 40 Aufst.+Öff.Bet. - einstimmig
+- TOP 10.4: 1.Änd.W 46 Satz.beschl. - einstimmig
+- TOP 10.5: Aufnahme Grabenanlage Schwanenburg in Denkmalliste - einstimmig
+- TOP 10.6: Aufnahme Wohnhaus Poststraße 85 in Denkmalliste - einstimmig
+- TOP 10.7: Translozierung Wegestock Hülchrather Str. 28 - einstimmig
+- TOP 10.8: Wahl von Mitgliedern für den Umlegungsausschuss - einstimmig
+- TOP 10.9: K 32 Satz.beschl. - einstimmig
+- TOP 10.10: 17. Änd. FNP SO 8 - Genehmigung nach § 6 BauGB - mehrheitlich bei
+- TOP 11: SchulA
+- TOP 11.1: Medienentwicklungsplanung für die städt. Schulen - einstimmig
+- TOP 12: Betriebsausschuss
+- TOP 12.1: Wirtschaftsplan des Eigenbetriebs Abwasseranlagen für das Jahr 2017 - einstimmig
+- TOP 12.2: Abwassergebührenkalkulation 2017
+- TOP 13: JHA
+- TOP 13.1: Satzung der Stadt Grevenbroich über die Förderung von Kindern in Kindertagespflege - einstimmig
+- TOP 14: HFD-A
+- TOP 14.1: Einführung einer Wettbürosteuer zum 01.01.2017 - mehrheitlich bei
+- TOP 14.2: 1. Änderung der Satzung der Stadt Grevenbroich über die Erhebung einer Zweitwohnungssteuer - mehrheitlich bei
+- TOP 14.3: Erhöhung Hebesatz Grundsteuer B - mehrheitlich bei
+- TOP 14.4: Gebührenbedarfsberechnung 2017 Straßenrenigung und Winterdienst - einstimmig
+- TOP 15: LUA
+- TOP 15.1: Friedhofsgebühren 2017 - mehrheitlich bei
+- TOP 15.2: Gebührenbedarfsberechnung Abfall 2017 - einstimmig
+- TOP 15.3: Öffentlich-rechtliche Vereinbarung zur Übertragung von Entsorgungsaufgaben - einstimmig
+- TOP 16: Konzept zur Personalkostenreduzierung - mehrheitlich bei
+- TOP 17: Haushalt 2017
+- TOP 17.1: Beteiligungsverfahren Kreishaushaltssatzung - einstimmig
+- TOP 17.2: Reden der Fraktionsvorsitzenden zum Haushalt 2017 bzw. persönliche Erklärungen von Einzelratsmitgliedern zum Haushalt 2017
+- TOP 17.3: Haushalt 2017 - mehrheitlich bei
+- TOP 18: Beantwortung Anträge
+- TOP 18.1: Gewerbesteuerzerlegung (Antrag Nr. 230/16) - einstimmig
+- TOP 18.2: Ausführung des Ersten Glückspielstaatsvertrages (Antrag Nr. 261/16) - einstimmig
+- TOP 18.3: Sammelbeantwortung - einstimmig
+- TOP 19: Beantwortung Anfragen
+- TOP 19.1: Aussengastronomie im öffentlichen Strassenraum (Anfrage Nr. 262/16) - einstimmig
+- TOP 19.2: Besserstellung städtischer Wahlhelfer (Anfrage Nr. 233/16) - einstimmig
+- TOP 20: mündliche Anträge/Anfragen
+- TOP 20.1: Presseartikel Schulweg unbeleuchtet (Antrag Nr. 329/16)
+- TOP 20.2: Geruchsbelästigung - Konzept für die Viktoria-Grundschule Neurath (Antrag Nr. 330/16)
+- TOP 20.3: European Energy Award (Anfrage Nr. 331/16)
+- TOP 21: Mitteilungen BM
