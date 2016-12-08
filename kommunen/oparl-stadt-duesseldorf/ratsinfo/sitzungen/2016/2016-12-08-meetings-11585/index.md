@@ -1,0 +1,78 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-12-08T17:00:00+01:00
+- Ende: 2016-12-08T18:57:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11585
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11585
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00281780.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00281780.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00281780.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Verpflichtung eines Mitgliedes der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Einbringung des Entwurfs des Nahverkehrsplans der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Planungsbeschluss Vennstraße - einstimmig beschlossen
+- TOP 9: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 10: Bezirkssportanlage Vennhauser Allee 129 - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2016 - einstimmig beschlossen
+- TOP 13: Weihnachtsmarkt in Unterbach - einstimmig beschlossen
+- TOP 14: Friedhof Unterbach - beantwortet
+- TOP 15: Schadstoffbelastung im Stadtbezirk 8 - beantwortet
+- TOP 16: Bürgerbeteiligung Nahverkehrsplan 2017 - beantwortet
+- TOP 17: Straßenbaustellen im Stadtbezirk 8 - beantwortet
+- TOP 18: Ortsumgehung Gerresheim - beantwortet
+- TOP 19: Baumaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 20: Jugendfreizeitstätte Lierenfeld - beantwortet
+- TOP 21: Baumaßnahmen im Eller Zentrum - beantwortet
+- TOP 22: Brückenbauten Am Kleinforst - beantwortet
+- TOP 23: Multifunktionale Sportstätten im Stadtbezirk 8 - beantwortet
+- TOP 24: Beratungsangebote für junge Menschen mit Migrationshintergrund - beantwortet
+- TOP 25: Verkehrsregelung Gubener Straße - mehrheitlich beschlossen
+- TOP 26: Fahrbahnmarkierungen Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 27: Hundeauslaufplatz Ellerkirchstraße - einstimmig beschlossen
+- TOP 28: Hinweistafeln im Schlosspark Eller - einstimmig beschlossen
+- TOP 29: Querungshilfe Eller Kamp - einstimmig beschlossen
+- TOP 30: Beleuchtung Grünanlage Kamper Weg / FC Tannenhof - einstimmig beschlossen
+- TOP 31: Tempo 30 im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 32: Nahverkehrsplan 2017 - zurückgezogen
+- TOP 33: Unterführung Gumberstraße - einstimmig beschlossen
+- TOP 34: Fahrbahnsanierung Bernburger Straße - einstimmig beschlossen
+- TOP 35: Bürgersteig Ellerbittweg / Bernburger Straße - einstimmig beschlossen
+- TOP 36: Gehweg Gerresheimer Landstraße / Millrather Weg - einstimmig beschlossen
+- TOP 37: Gesamtkonzept Multifunktionale Sportflächen - zur Kenntnis genommen
+- TOP 38: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 39: Sitzungstermine der Bezirksvertretung 8 im Jahre 2017 - zur Kenntnis genommen
+- TOP 40: 'Nette Toilette' im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Grundstücke im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Sitzgelegenheiten und Rampen auf dem Breidenplatz - zur Kenntnis genommen
+- TOP 43: Park & Ride - Parkplatz Am Kleinforst - zur Kenntnis genommen
+- TOP 44: Verkehrsentlastung Vennhausen - zur Kenntnis genommen
+- TOP 45: Verkehrsentlastung Lierenfeld - zur Kenntnis genommen
+- TOP 46: Wochenmarkt auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 47: Haltestellenbeschilderung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Kinderspielplatz Gerresheimer Landstraße 91 - zur Kenntnis genommen
+- TOP 49: Unterführung Vennhauser Allee - zur Kenntnis genommen
+- TOP 50: Verkehrsregelung Krippstraße - zur Kenntnis genommen
+- TOP 51: Gasbeleuchtung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Reinigung am Taubenschlag Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 53: Fahrbahninstandsetzungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Multifunktionale Sportflächen - zur Kenntnis genommen
+- TOP 55: Verkehrsregelung Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 56: Stromversorgung GGS Vennhauser Allee 160-162 - zur Kenntnis genommen
+- TOP 57: Bürgersteig Kamper Weg / Neusalzer Weg - zur Kenntnis genommen
+- TOP 58: Verkehrsregelung Wittenbruchstraße - zur Kenntnis genommen
+- TOP 59: Nebengebäude Schloss Eller - zur Kenntnis genommen
+- TOP 60: Schadstoffbelastung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 61: Beratungsangebote für junge Menschen - zur Kenntnis genommen
