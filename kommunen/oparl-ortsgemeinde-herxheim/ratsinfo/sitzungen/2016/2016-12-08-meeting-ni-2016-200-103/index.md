@@ -1,0 +1,54 @@
+# 21. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2016-12-08T18:03:00+01:00
+- Ende: 2016-12-08T20:50:00+01:00
+- Ort: Rathaus Herxheim, Ratssaal (Nr. 1.10) im 1. OG, Obere Hauptstraße 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2016-200-103
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2016-200-103
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-200-103
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-200-103
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-200-103
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP -: Einwohnerfragestunde; Baugebiet im Bruch
+- TOP 2: Haushaltsplanung; Finanzwirtschaftliche Eckdaten für den Haushaltsplan 2017
+- TOP 3: Änderung der Hauptsatzung der Ortsgemeinde Herxheim
+- TOP 4: Zentrumskonzept
+- TOP 5: Zentrumsmanagement
+- TOP 6: Landesentwicklungsprogramm IV, 3. Teilfortschreibung
+- TOP 7: Bebauungsplan ?An der Augustastraße?
+- TOP 8: Planungsvorschläge Verkehrsraumgestaltung Obere Hauptstraße / Südring
+- TOP 9: Verbesserung der Sanitäranlagen im 'Waagegebäude' im Waldstation
+- TOP 10: Förderung des Familienzentrums querbeet Herxheim e. V. für das Jahr 2017
+- TOP 11: Modifizierung der Vergaberichtlinien für gemeindeeigene Baugrundstücke
+- TOP 12: Neufassung der Verträge über die Mitbenutzung der Gemeindestraßen, -wege und -plätze durch die Verbandsgemeindewerke
+- TOP -: Auftragsvergaben
+- TOP 13: Auftragsvergaben; Umbau und Erweiterung Kindertagesstätte St. Maria
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Grundstücksangelegenheiten
+- TOP 15.1: Grundstücksangelegenheiten; Erbbaurecht hinsichtlich der Kath. Kita St. Maria
+- TOP 15.2: Grundstücksangelegenheiten
+- TOP 15.3: Neubau einer Rettungswache in Herxheim
+- TOP 16: Mitteilungen und Anfragen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
