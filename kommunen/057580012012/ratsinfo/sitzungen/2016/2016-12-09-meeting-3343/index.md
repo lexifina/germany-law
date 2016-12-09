@@ -1,0 +1,73 @@
+# Rat (17. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2016-12-09T16:00:00+01:00
+- Ende: 2016-12-10T22:55:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcVAzwDIutpGLzdpZaPKdvs
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3343
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeVJTINjgBqkIkRX5LvSM3857rccwaCW8PC5Wxv3k6-u/Einladung_Rat_09.12.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR-kWlXHE6YNtGL1v6YEf50w1GykORBC_eCYf5f5tqk-/Oeffentliche_Niederschrift_Rat_09.12.2016.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 02.11.2016
+- TOP A.3: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Prüfung und Feststellung des Jahresabschlusses 2015, Ergebnisausgleich und Entlastung des Bürgermeisters
+- TOP A.7: 3. Situationsbericht zur Haushaltswirtschaft 2016
+- TOP A.8: Entwurf der Haushaltssatzung 2017 sowie mittelfristige Ergebnis- und Finanzplanung 2016 - 2020 hier: Einbringung des Entwurfs der Haushaltssatzung 2017 mit ihren Anlagen - Die Kenntnisnahme des Rates wurde festgestellt und einvernehmlich wie folgt entschieden:
+- TOP zu TOP A.8: Haushaltsplanentwurf 2017 als pdf-Datei
+- TOP A.9: Stellenplan für das Haushaltsjahr 2017 - Die Kenntnisnahme des Rates wurde festgestellt und einvernehmlich wie folgt entschieden:
+- TOP A.10: Steuerung von Drittorganisationen:
+- TOP A.10a: HVV- Konzern: a) Geänderte Wirtschaftspläne 2016 und Wirtschaftspläne 2017 des HVV- Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV GmbH und der WWS GmbH b) Bericht aus dem Beteiligungscontrolling: Jahresprognose 2016 - Bei 1 Enthaltung und 2 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst : 
+- TOP A.10b: Änderung des IAB-Wirtschaftsplanes 2016 und Wirtschaftsplan 2017 incl. Mittelfristplanung
+- TOP A.10b: Änderung des IAB-Wirtschaftsplanes 2016 und Wirtschaftsplan 2017 incl. Mittelfristplanung - Bei 3 Enthaltungen und 17 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.10c: Neuabschluss des Stromkonzessionsvertrags der Hansestadt Herford - Bei 1 Enthaltung wurde einstimmig beschlossen, den TOP in die nächste Ratssitzung zu vertagen. Die in der Sitzung angeregten Nachverhandlungsaspekte (Besserungsklausel und mögliche Erdleitungen) werden zu den nächsten Verhandlungsgesprächen genommen.
+- TOP A.10d: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen- Lippe GmbH: Wirtschaftsplan 2017 - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.10e: Spendenverfahren FSH:
+- TOP A.10e)1: Anträge über das Spendenverfahren der FSH, betreffend den Bereich Soziales - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10e)2: Verwendung von Spenden der FSH GmbH für den Kulturbereich - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10e)3: Anträge der Sportvereine über das Spendenverfahren der FSH GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10f: Arbeitnehmermitbestimmung im Aufsichtsrat der HVV GmbH
+- TOP A.10g: Kauf von Geschäftsanteilen der Interagem GmbH durch die Herforder Versorgungs- und Vertriebs- Beteiligungs- GmbH (HVV) - Bei 1 Enthaltung und 22 Ja-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.10h: Verkauf von Geschäftsanteilen der Nähwärmeversorgung Hiddenhausen GmbH (NWH) durch die Stadtwerke Herford GmbH (SWH) an die Gemeinde Hiddenhausen über die eigenbetriebsähnliche Einrichtung Servicebetriebe Hiddenhausen - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.10i: 4. Stufe Kläranlage Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Gründung der interkommunalen Wirtschaftsförderungsgesellschaft mbH im Kreis Herford; Beteiligung der Hansestadt Herford
+- TOP A.12: Projekt "Markthalle" a) Sachstandsbericht b) Bilanzielle Rückübertragung - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.13: Beitritt der Hansestadt Herford zur Anstalt öffentlichen Rechts "d-NRW AöR" - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.14: Neufassung des Pakts mit dem Sport - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.15: 3. Fortschreibung Rettungsdienstbedarfsplan - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Aktualisierung des städtischen Frauenförderplans - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Satzung über die Erhebung der Wettbürosteuer für das Vermitteln oder Veranstalten von Pferde- und/oder Sportwetten in Einrichtungen (Wettbüros) der Hansestadt Herford (Wettbürosteuersatzung der Hansestadt Herford) - Bei 1 Nein-Stimme und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.18: Qualifizierungs- und Unterstützungsprojekt zur Verbesserung der Lebenssituation von Alleinerziehenden – Zielgruppenprojekt im Rahmen der Regio NRW-Förderung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.19: Familienhilfen: Prozess Robustes Jugendamt: Organisationsveränderung im Pflegekinderdienst (PKD) - Bei 2 Nein-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.20: ZWAR - Zwischen Arbeit und Ruhestand - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Erlass eines Verwarnungs- und Bußgeldkataloges als Anlage zur „Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung der Hansestadt Herford“ - Bei 3 Nein-Stimmen und 5 Enthaltungen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.22: Durchführung verkaufsoffener Sonntage im Jahre 2017 - Mit 24 Ja-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst:
+- TOP A.23: Integriertes städtebauliches Entwicklungskonzept (ISEK) „Konversion Stiftberg“ hier: Beschluss des Berichts
+- TOP zu A.23: Integriertes städtebauliches Entwicklungskonzept (ISEK) „Konversion Stiftberg“ hier: Beschluss des Berichts - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Konversion: Förderprogramm „Nationale Projekte des Städtebaus 2016" - Entree-Entwicklung BildungsCampus Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.25: Gebührenhaushalt Straßenreingiung 6. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.26: Gebührenhaushalt Abfallentsorgung 3. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford
+- TOP A.27: Antrag der CDU-Fraktion zum TOP A.27 (hier eingegangen am 06.12.16) - Bei 1 Enthaltung wurde mit 25 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.28: Termine der Ratssitzungen für das Jahr 2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29: Gremienbesetzungen
+- TOP A.29a: Benennung eines beratenden Mitglieds des Schulausschusses: Nachbesetzung der Vertretung für die Grundschulen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29b: Wahl eines Vertreters des neuen Jugendamtselternbeirates als beratendes Mitglied für den Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29c: Benennung eines Mitgliedes für den Beirat für Stadtbildpflege - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29d: Nachbesetzung im Behindertenbeirat - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29e: Antrag Fraktion SPD bezügl. Umbesetzung im Schulausschuss (eingeg. am 26.10.2016) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29f: Antrag der Fraktion DIE LINKE bezügl. Neubesetzung bzw. Umbesetzung (eingeg. am 16.11.2016)
+- TOP A.29g: Antrag Fraktion BfH bezügl. Gremienumbesetzungen (eingeg. am 23.11.2016) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.30: Antrag der Fraktionen B90/DIE GRÜNEN und SPD bezügl. "Änderung der Geschäftsordnung des Rates der Stadt Herford" (eing. am 17.11.2016 um 09:41 Uhr) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.31: Antrag der Fraktion DIE LINKE bezügl. "Einstieg in eine Leerstandabgabe für Immobilien" (eingeg. am 17.11.2016 um 11:49 Uhr) - Bei 2 Enthaltungen und 21 Ja-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP zu A.31: "Einstieg in eine Leerstandsabgabe für Immobilien" Bericht der Verwaltung zum Antrag der Fraktion Die Linke vom 17.11.2016
+- TOP A.32: Mitteilungen
