@@ -1,0 +1,81 @@
+# 11. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2016-12-09T10:00:00+01:00
+- Ende: 2016-12-09T12:25:00+01:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2016-VV-29
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2016-VV-29
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2016-VV-29
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VV-29
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2016-VV-29
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Haushalt 2017
+- TOP 2.1.1: Benehmensherstellung mit den Mitgliedskörperschaften gemäß § 55 KrO NRW zur Verabschiedung der Haushaltssatzung 2017
+- TOP 2.1.1.1: Änderungsantrag der FDP-Fraktion
+- TOP 2.1.2: Verabschiedung des Haushaltes 2017
+- TOP 2.1.2.1: Verabschiedung des Haushaltes 2017 Antrag: Veränderungen im Haushaltsplan zur Erfüllung von Aufgabenstellungen aus dem Strategie- und Zielkonzept des Verbandes
+- TOP 2.1.2.2: Anträge zum Haushaltsplanentwurf 2017
+- TOP 2.1.2.3: Vorsorgliche Kündigung der Gesellschafterverträge mit den Freizeitgesellschaften Wischlingen und Geysenberg
+- TOP 2.1.2.4: Mündlicher Antrag der AfD-Fraktion in der Sitzung der Verbandsversammlung zur Drucksache Nr. 13/0601-2
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten (Titel 777 12) - Priorisierung für 2017
+- TOP 1.2: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14): Priorisierung der Maßnahmen für das Jahr 2017
+- TOP 1.3: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik hier: Beratung und Beschlussfassung 2017
+- TOP 1.4: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2017 Beratung und Beschlussfassung
+- TOP 1.5: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik hier: Rückblick auf die Förderung 2016
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.6: Sachstand ÖPNV-Bedarfsplan
+- TOP 1.7: Zukünftige Vorgehensweise bei der Erstellung von Stellungnahmen des RVR als Staatliche Regionalplanung in den Verbandsgremien
+- TOP 1.8: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.2: Satzung zur Änderung der Verbandsordnung
+- TOP 2.3: Änderung der Geschäftsordnung vom 09.12.2016
+- TOP 2.4: Umbesetzung in den Fachausschüssen
+- TOP 2.4.1: Umbesetzung von Mitgliedern im Arbeitskreis NWL-RVR-VRR, Antrag der Fraktion Bündnis90/Die Grünen vom 09.12.2016
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.5: Route der Industriekultur / Emscher Landschaftspark – RVR-Vertrag mit dem Land NRW
+- TOP 2.5.1: Route der Industriekultur / Emscher Landschaftspark – RVR-Vertrag mit dem Land NRW, hier: Anfrage der Fraktion Die Linke. vom 16.11.2016 und Antwort der Verwaltung vom 22.11.2016
+- TOP 2.6: Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Nahverkehrsplanes der Stadt Oberhausen
+- TOP 2.7: Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Nahverkehrsplanes des Ennepe-Ruhr-Kreises
+- TOP 2.8: Haushalt 2017 - Haushalt 2017 für den Bereich Planung Drucksache Nr. 13/0641 TOP ist laut Beschluss des Verbandsausschusses von der Tagesordnung abgesetzt.
+- TOP 2.9: Radschnellweg Ruhr RS1 Hier: Planungsstand und Öffentlichkeitsarbeit
+- TOP 2.9.1: RS1 als Innovationsband für eine integrierte Stadtentwicklung Beteiligung als städteübergreifendes Kooperationsprojekt an der Initiative „StadtUmland.NRW“ des MBWSV NRW hier: Stellungnahme der Verwaltung vom 05.12.2016
+- TOP 2.10: RS1 als Innovationsband für eine integrierte Stadtentwicklung Beteiligung als städteübergreifendes Kooperationsprojekt an der Initiative „StadtUmland.NRW“ des MBWSV NRW
+- TOP 2.11: Radschnellweg mittleres Ruhrgebiet Hier: Sachstandsbericht
+- TOP 2.12: Fahrradverleihsystem metropolradruhr Hier: Jahresbericht
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.13: Bestellung von Vertreter/innen in den Gremien der Beteiligungen des RVR
+- TOP 2.14: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Gründung der Ruhr:HUB GmbH - Bericht zur Anzeigenbestätigung
+- TOP 2.15: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der ÖKODATA GmbH
+- TOP 2.16: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der Minegas GmbH
+- TOP 2.17: Angelegenheiten der Freizeitgesellschaften Sonderzuschuss für energetische Maßnahmen - Revierpark Nienhausen GmbH - Bau einer Brunnenanlage - Freizeitzentrum Kemnade GmbH - Sanierung des Seglerhauses
+- TOP 2.18: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH Änderung des Gesellschaftsvertrages sowie der Nebenabrede zum Gesellschaftsvertrag
+- TOP 2.19: Angelegenheiten der Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.20: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2015
+- TOP 2.21: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2015 Beschluss über die Zuführung in die Ausgleichrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.22: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2015 nach der Gemeindeordnung NRW (GO NRW)
+- TOP 2.23: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Übersicht zur EU-Förderung für die Metropole Ruhr 2007 - 2013
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.24: Konzept Ausstellungsprojekt 2020
+- TOP -: Vorlagen aus dem Betriebsausschuss RuhrGrün
+- TOP 2.25: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2017
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.26: Regionales Wirtschaftsförderungsprogramm des Landes Nordrhein-Westfalen; RVR Infrastrukturprojekte (Stand: November 2016)
+- TOP 2.27: Anfragen und Mitteilungen
+- TOP 2.27.1: Anfrage der FDP-Fraktion vom 27.10.2015 'Kooperationen in der Metropole Ruhr', hier: Antwort der Verwaltung
+- TOP 2.27.1.1: Antrag der FDP-Fraktion zu „Kooperationen in der Metropole Ruhr“
+- TOP 2.27.2: Anfrage der Freien Wähler vom 31.10.2016 'Entsorgung von Polystyrol-Dämmstoffen' und Antwort der AGR, hier: Anfrage der Freien Wähler vom 05.12.2016
+- TOP 2.27.3: 
+- TOP 2.27.4: 
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
