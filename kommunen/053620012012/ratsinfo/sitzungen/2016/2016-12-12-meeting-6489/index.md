@@ -1,0 +1,79 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2016-12-12T17:03:00+01:00
+- Ende: 2016-12-12T20:53:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTFxBZLSppMxiciWzlYQwjM
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6489
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVT648osrARByBOJBW-1Gtm5vPM--uuv3-wu7HG2sBYX/Bekanntmachung_Rat_12.12.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWqtwwT2hk80s9Cs-jMly5RhYPLzHjWL1SOHWMi_6GvW/Oeffentliche_Niederschrift_Rat_12.12.2016.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 31.10.2016
+- TOP 3.: Haushalt 2017
+- TOP 3.1: Haushaltssatzung 2017 hier: Stellenplan und Stellenübersicht nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 3.1.1: Stellungnahme des Personalrates zum Stellenplan 2017 vom 24.11.2016
+- TOP 3.2: Erlass der Haushaltssatzung 2017 Rat 31.10. u. HA 14.11., 28.11.16 - (kein Text vorhanden)
+- TOP 4.: Prüfung Jahresabschluss 2015 Bezug: RPA 05.12.2016 - (kein Text vorhanden)
+- TOP 5.: Bürgerbeteiligung in der Stadt Brühl - Erlass von Leitlinien - (kein Text vorhanden)
+- TOP 6.: Wirtschaftsplan der Gebausie für das Jahr 2017 - (kein Text vorhanden)
+- TOP 7.: Bewilligung KOMM-AN Fördermittel
+- TOP 8.: Stundung, Niederschlagung und Erlass von Geldansprüchen der Stadt Brühl im Bereich des Fachbereiches Soziales und Demographie - (kein Text vorhanden)
+- TOP 9.: Energie- und Kostensparkonzept für finanzschwache Haushalte (Stromsparcheck-Kommunal) - (kein Text vorhanden)
+- TOP 10.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 10.1: überplanmäßige Auszahlungsermächtigung hier: Ausgleich von Verbindlichkeiten gegenüber dem Stadtservicebetrieb Brühl -AöR- (AöR) - (kein Text vorhanden)
+- TOP 11.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 11.1: überplanmäßige Mehraufwendungen / Mehrausgaben im Bereich Personalkosten für das Jahr 2016 - (kein Text vorhanden)
+- TOP 11.2: Überplanmäßige Mittelbereitstellung Kanalerneuerung Markt - (kein Text vorhanden)
+- TOP 11.3: Überplanmäßige Mittelbereitstellung Hier: Erhöhung von Rückstellungen Sanierung Tiefgarage Bleiche und Schlossparkstadion –Sanierung nach Wasserschaden - (kein Text vorhanden)
+- TOP 12.: Satzungen
+- TOP 12.1: 1. Satzung der Stadt Brühl über die Erhebung einer Steuer auf Vergnügungen sexueller Art 2. Satzung über die Erhebung von Vergnügungssteuer in der Stadt Brühl- Vergnügungssteuersatzung - (kein Text vorhanden)
+- TOP 12.2: 1. Satzung zur Änderung der Satzung über die Errichtung und Unterhaltung von Übergangsheimen und Wohnunterkünften der Stadt Brühl - (kein Text vorhanden)
+- TOP 12.3: Satzung der Stadt Brühl über den Anschluss und die Benutzung der Fernwärmeversorgung in Neubaugebieten im Brühler Süden - (kein Text vorhanden)
+- TOP 13.: Bebauungsplan 06.02 "Pehler Hülle, Badorfer Straße, Vorgebirgsstraße, Alte Bonnstraße" - Satzungsbeschluss -
+- TOP 13.1: Bebauungsplan 06.02 "Pehler Hülle, Badorfer Straße, Vorgebirgsstraße, Alte Bonnstraße" - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 14.: Bebauungsplan 04.20 und 43. FNP-Änderung, Veränderungssperre - Aufhebung - - (kein Text vorhanden)
+- TOP 15.: Schulentwicklungsplanung der Stadt Brühl Hier: Zusammenlegung der KGS Brühl-Vochem mit der GGS Melanchthon Bez: Schulausschuss vom 22.11.2016 - (kein Text vorhanden)
+- TOP 16.: „Gute Schule 2020“ Mittelverwendung und Maßnahmenplanung
+- TOP 17.: Offene Ganztagsschule im Primarbereich hier: Qualitätskriterien Bezug: Ratsbeschluss vom 31.10.2016 - (kein Text vorhanden)
+- TOP 18.: Max-Ernst-Gymnasium Einrichtung des Gemeinsamen Lernens - (kein Text vorhanden)
+- TOP 19.: Jedem Kind Instrument, Tanzen, Singen (JeKits)“; Bezug: Rat 27.04.2015
+- TOP 20.: Bericht über die Entwicklung der Ehrenamtskarte NRW in Brühl - (kein Text vorhanden)
+- TOP 21.: Bestätigung des AfVM-Beschlusses zur Umsetzung des Klimaschutzteilkonzept Mobilität Bezug: AfVM am 22.06.2016; Vorlagen-Nr. 250/2016 - (kein Text vorhanden)
+- TOP 22.: Änderung der Gemeindeordnung
+- TOP 23.: Änderung der Geschäftskreise der Beigeordneten der Dezernate I und II - (kein Text vorhanden)
+- TOP 24.: Kulturstiftung für die Stadt Brühl hier: Besetzung Stiftungsrat Bezug: KPTA 08.09.2016
+- TOP 25.: Antrag
+- TOP 25.1: Visualisierung des Haushaltes der Stadt Brühl hier: Antrag der Fraktion Linke&Piraten vom 12.05.2015
+- TOP 25.1.1: Visualisierung des Haushaltes der Stadt Brühl hier: Antrag der Fraktion Linke & Piraten vom 12.05.2015, Vorlage 219/2015
+- TOP 26.: Anfragen
+- TOP 26.1: Evaluierung in der Stadtverwaltung Bezug: Anfrage der FDP-Fraktion vom 28.11.2016
+- TOP 26.1.1: Evaluierung in der Stadtverwaltung Bezug: Antrag der FDP-Fraktion vom 28.11.2016
+- TOP 26.2: Baumaßnahme Schulstraße/Kapellenweg
+- TOP 26.3: Zugang zur Linie 18 an der Haltestelle Brühl-Badorf
+- TOP 26.4: Relaunch der städtischen Homepage
+- TOP 26.5: Fahrbahnschäden am Thüringer Platz
+- TOP 26.6: Erscheinungsbild Thüringer Platz
+- TOP 26.7: Telefonverzeichnis der Stadt
+- TOP 27.: Umbesetzung in Ausschüssen
+- TOP 27.1: Umbesetzung in verschiedenen Ausschüssen Bezug: Antrag der Fraktion Linke&Piraten vom 20.11.2016 - (kein Text vorhanden)
+- TOP 27.2: Besetzung im Schulausschuss hier: stellvertretende beratende Mitglieder - (kein Text vorhanden)
+- TOP 28.: Mitteilungen
+- TOP 28.1: European Energy Award
+- TOP 28.2: Bevorstehende Baustellen
+- TOP B): Nichtöffentliche Sitzung
+- TOP 29.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Brühl durch die Gemeindeprüfanstalt Nordrhein-Westfalen für die Haushaltsjahre 2009 - 2013
+- TOP 30.: Inanspruchnahme Restkreditermächtigung 2015 in 2016 - (kein Text vorhanden)
+- TOP 31.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 06.02 "Pehler Hülle, Badorfer Straße, Vorgebirgsstraße, Alte Bonnstraße" - (kein Text vorhanden)
+- TOP 32.: Schulentwicklungsplanung der Stadt Brühl hier: Ratsbeschluss vom 14.12.2015 Bezug: Antrag der SPD-Fraktion vom 27.11.2015
+- TOP 33.: Offene Ganztagsschule im Primarbereich hier: Trägerverträge Bezug: Ratsbeschluss vom 31.10.2016 - (kein Text vorhanden)
+- TOP 34.: Mitteilungen
+- TOP 34.1: Sachstandsbericht Stadtwerke
+- TOP 35.: Anfragen
