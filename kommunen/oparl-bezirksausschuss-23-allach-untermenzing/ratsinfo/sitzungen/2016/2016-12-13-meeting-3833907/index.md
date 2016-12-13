@@ -1,0 +1,101 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2016-12-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3833907
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3833907
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Angebot Dialog-Display
+- TOP 2.2.: Atelierhaus für Künstlerinnen und Künstler
+- TOP 2.3.: Ausstellung "150 Jahre Bahnlinie München Ingolstadt und 125 Jahre Personenverkehr"
+- TOP 2.4.: Verkehrssituation Eversbuschstraße
+- TOP 2.5.: Bebauungspläne Manzostraße (derzeit Hans-Sieber-Haus)
+- TOP 2.6.: Müllcontainer Ecke Sieberstraße / Kleselstraße
+- TOP 2.7.: Parken in der Pottstraße
+- TOP 2.3: Vorstellung des Projekts: Bemalung der Unterführung an der Karl-Gayer-Straße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"
+- TOP 5.2.: Beschlussentwurf: Rechtzeitige Anpassung des Mitarbeiterschlüssels im Sozialbürgerhaus Pasing an das Wachstum im Stadtbezirk (BV-Empf. Nr. 01053 vom 28.06.16)
+- TOP 5.3.: Wings for Life Run am 07.05.17
+- TOP 5.4.: Wohnen für Alle - Neubau einer öffentlich geförderten Wohnanlage Achwaldstr., Gemarkung: Allach, Fl.Nr.: 600/2
+- TOP 5.5.: Erweiterung der Trailerflächen um 24 Stellplätze im Bereich des abzubrechenden Gebäudes A4 und versiegelter Lagerflächen Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1410/0
+- TOP 5.6.: Erweiterung und Sanierung einer Doppelhaushälfte Listerstr. 2, Gemarkung: Allach, Fl.Nr.: 968/16
+- TOP 5.7.: Naumannstr. 11, Gemarkung: Untermenzing, Fl.Nr.: 591/42 Einbau zweier Gauben, Erneuerung der Dachkonstruktion, Nutzungsänderung Dachgeschoss
+- TOP 5.8.: Auenbruggerstr. 15, Gemarkung: Untermenzing, Fl.Nr.: 840/2 Umbau und Erweiterung eines Einfamilienhauses mit Einliegerwohnung in ein Zweifamilienhaus mit 2 Garagen
+- TOP 5.9.: Franz-Nißl-Str. 55, Gemarkung: Allach, Fl.Nr.: 1054/0 Schulbauoffensive - Neubau einer Schulpavillonanlage und Vollzug der BaumschutzVO
+- TOP 5.10.: Absolutes Haltverbot Manzostr. 45
+- TOP 5.11.: Absolutes Haltverbot Peter-Müller-Straße
+- TOP 5.12.: Absolutes Haltverbot Von-Reuter-Straße
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Bauausschusses vom 25.10.2016: Aktion Saubere Stadt (Sitzungsvorlage Nr. 06637)
+- TOP 6.2.: Beschluss der Vollversammlung vom 15.11.16: a) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlage Nr. 05253) b) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 (Sitzungsvorlage Nr. 07205)
+- TOP 6.3.: Beschluss des Kinder - und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.16: Zuschussnehmerdatei 2017; Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" a) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 07291) b) des Stadtjugendamtes (Sitzungsvorlage Nr. 07218) c) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 07237) d) des Sozialreferates/Stiftungsverwaltung-Bürgerschaftliches Engagement (BE) und Zentrale (Sitzungsvorlage Nr. 07226)
+- TOP 6.4.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 23.11.16: Mehrjahresinvestitionsprogramm (MIP) 2016-2020 (Sitzungsvorlage Nr. 07517)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.16: a) Anwendungen der Baumschutzverordnung auf öffentlichen Grünflächen im gesamten Stadtgebiet (Sitzujgsvorlage Nr. 07547) b) Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes; Sachstand der Beurteilung durch den Landesdenkmalrat (Sitzungsvorlage Nr. 07551) c) Perspektive München; Zukunftsschau 2040 +- Szenarien zur Stadtentwicklung (Sitzungsvorlage Nr. 07418) d) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlage Nr. 05253)
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.16: a) Mehrjahresinvestitionsprogramm 2016-2020; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen und Infrastrukturversorgungskonzept (Sitzungsvorlage Nr. 07482) b) Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen!; Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern (Sitzungsvorlage Nr. 07430) + Hinweis/Ergänzung vom 21.11.16 c) Mehrjahresinvestitionsprogramm für die Jahre 2016-2020; Gliederungsziffern (Sitzungsvorlage Nr. 07533) d) Neuberufung des Heimtpflegers und seines Stellvertreters (Sitzungsvorlage Nr. 07360) e) Mehrjahresinvestitionsprogramm für die Jahre 2016-2020 (Sitzungsvorlage Nr. 07533)
+- TOP 6.7.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.16: Gewerbeflächenentwicklungsprogramm - GEWI (Sitzungsvorlage Nr. 07490)
+- TOP 6.8.: Beschluss des Kommunalreferates vom 26.01.17: Teilumbenennung der Straße "Gerberau" in Paula-Hahn-Weinheimer-Weg
+- TOP 6.9.: Beschluss des Kulturausschusses vom 24.11.16: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2016 - 2020 und Stellungnahmen zu den Anregungen der Bezirksausschüsse (Sitzungsvorlage Nr. 07548)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen" (Arbeitstitel), im Stadtbezirk
+- TOP 7.2.: Einladung "Sich Wohlfühlen im öffentlichen Raum? Handlungsansätze für subjektive Sicherheit in München", am 20.01.17
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 1: Schreiben Oberbürgermeister vom 15.11.2016: Verkehrsführung nördliche Waldhornstraße Empfehlung Nr. 14-20 / E 00509 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 23.06.2015
+- TOP 1.2.: Schreiben Oberbürgermeister vom 08.11.2016: Sicherheitsbericht der Polizei bei Bürgerversammlungen
+- TOP 1.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.10.2016: Einwohnerversammlung vom 08.06.16; Bebauungsplanverfahren Franz-Nißl-Str. (Nr. 1617c)
+- TOP 1.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.11.16: Fälungsantrag in Zusammenhang mit einem Bauvorhaben: Tubeufstr. 19c
+- TOP 1.5.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (31.10.-06.11.16, 07.11.-13.11.16, 14.11.-20.11.16, 21.11.-27.11.16)
+- TOP 1.6.: Schreiben Stadtwerke München vom 15.11.16: Stromprojekt Fastlingerstraße
+- TOP 1.6.1: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, hier Einzelfällungsanträge: Hauseggerstr. 2a, Rudhartstr. 13, Dyroffstr. 10, Reinhard-von-Frank-Str., Schweidnitzer Str. 43, St.-Johann-Str. 14, Ganzenmüllerstr. 12, Theodor-Fischer-Str. 101, Eversbuschstr. 36, LSG Würmniederung, Krayweg 19
+- TOP 1.7.: Schreiben Stadtwerke München vom 14.11.16: Gasprojekt Gerberau
+- TOP 1.8.: Schreiben Stadtwerke München vom 14.11.16: Wasserprojekt Josef-Führer-Straße
+- TOP 1.9.: Schreiben Stadtwerke München vom 24.11.16: Bushaltestelle Von-Kahr-Straße / Medererstraße
+- TOP 1.10.: Schreiben Stadtwerke München vom 07.11.16, 14.11.16, 21.11.16, 28.11.16: Baumaßnahmen
+- TOP 1.11.: Schreiben Stadtkämmerei vom 07.11.2016: Mehrjahresinvestitionsprogramm für die Jahre 2016-2020
+- TOP 1.12.: Schreiben Sozialreferat vom 16.11.16: Übersicht Unterkünfte und Wohnungslose
+- TOP 1.13.: Schreiben Sozialreferat vom 02.11.16 und 15.11.16: Antrag auf Zweckentfremdung von Wohnraum: Nigglstr. ,Vorherstr.
+- TOP 1.14.: Schreiben Kreisverwaltungsreferat vom 28.10.16: Absolutes Haltverbot im Kurvenbereich der Theodor-Lipps-Straße
+- TOP 1.15.: Schreiben Kreisverwaltungsreferat vom 24.11.16: Arbeiten im Straßenraum: Esmarchstr. 12 und Seite Neumeyerstr.
+- TOP 1.16.: Schreiben Kreisverwaltungsreferat vom 25.11.16: Aufhebung der Parkerlaubnis in der Auenbruggerstraße
+- TOP 1.17.: Schreiben Kreisverwaltungsreferat vom 18.10.16: Absolutes Haltverbot Rhoda-Erdmann-Straße
+- TOP 1.18.: Schreiben Kreisverwaltungsreferat vom 22.11.16: Eversbuschstraße
+- TOP 1.19.: Schreiben Baureferat vom 16.11.16: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 1.20.: Schreiben Baureferat vom 28.11.16: Verkehrsinsel und Poller am Pasinger Heuweg / Mühlangerstraße
+- TOP 1.21.: Schreiben Abfallwirtschaftsbetrieb München vom 23.11.16: Müllabfuhr Schlehenbuschstraße / Nusshäherstraße
+- TOP 1.22.: Schreiben Polizeiinspektion 44 vom 21.11.16: Unfallsituation in der Eversbuschstraße
+- TOP 1.23.: Schreiben BA 21 Pasing-Obermenzing: Protokoll Ortstermin Menzinger Straße
+- TOP 1.24.: Schreiben Mieterbeirat der LHM vom 08.11.16: Protokoll der öffentlichen Sitzung vom 10.10.16
+- TOP 1.25.: Schreiben Baureferat vom 30.11.16: Straßenbankette Stieglstraße und Schneider-Ulrich-Weg
+- TOP 10: Nachtrag
+- TOP 10.1.: Anhörungen: Planung der SommerSpielAktion 2017
+- TOP 10.2.: Erinnerungsverfahren: Georg-Reismüller-Str. und Franz-Nißl-Str.
+- TOP 10.3.: Erinnerungsverfahren Kiesweg
+- TOP 10.4.: Wollnystr. 4, Gemarkung Untermenzing, Fl.Nr.: 344/3 Neubau eines Doppelhauses und Vollzug der BaumschutzVO
+- TOP 10.5.: Umlauf: Schreiben der Stadtwerke vom 05.12.16: Baumaßnahmen
+- TOP 10.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.12.16 Bauanträge
+- TOP 10.7.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Hier im Zusammenhang mit einem Bauvorhaben: Achwaldstr.
+- TOP 10.8.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Hier Einzefällungsantrag: Krayweg 19
+- TOP 10.9.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Bauausschusses vom 22.11.16: Aktion Saubere Stadt (Sitzungsvorlage Nr. 06637)
+- TOP 10.10.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.16: Gewerbeflächenprogramm - GEW (Sitzungsvorlage Nr. 07490)
+- TOP 10.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.16: a) Erstellung von Stadtbezirksprofilen - Personalbedarf (Sitzungsvorlage Nr. 07138) b) Hinweis/Ergänzung: Perspektive München (Sitzungsvorlage Nr. 07418)
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Heimat- und Trachtenverein D'Würmtaler Menzing e.V. Ausrichtung der 61. Huosigau-Heimattage - Historischer Festzug durch Menzing am 23.07.2017
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Verein für Volksmusik und Volkstanz ?D'Blutenburgler? e.V. Veranstaltung ?Morgentanz in Menzing? am 16.07.2017
+- TOP 4.3.: (E) Budget der Bezirksausschüsse Bühne 23 e.V. Auftritt des Oratorienchors am 26.11.2017
