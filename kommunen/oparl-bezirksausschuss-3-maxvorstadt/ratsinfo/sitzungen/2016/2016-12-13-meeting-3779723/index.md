@@ -1,0 +1,103 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2016-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3779723
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3779723
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Antworten auf die Fragen aus der Sitzung vom 15.11.2016
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus dem Stadtbezirk Bogenhausen vom 09.11.2016 Luftverschmutzung durch Stau in der Gabelsbergerstraße
+- TOP .2.: Anfrage einer Künstlervereinigung wegen eines Atelierhauses vom 10.11.2016
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vm 15.11.2016 Wilder Parkplatz hinter Gabelsbergerstraße 47 und Durchgang zur Glyptothek
+- TOP .4.: Schreiben zweier Bürgerinnen aus den Stadtbezirken Schwabing-Freimann und Maxvor- stadt vom 10.11.2016 und 23.11.2016 Starke Verschmutzung durch Hundekot im Eingangsbereich der städt. Grundschule und Kindergarten Türkenstraße 68
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .2.: Baureferat, Antwortschreiben Befahren und Parken auf dem Josephsplatz, BA-Antrag Nr. 14-20 / B 02918 des BA 3 vom 11.10.2016
+- TOP .3.: Maßnahmen zum Schutz des Alten Nördlichen Friedhofs
+- TOP .4.: Stand der Planungen für den Nachbarschaftstreff Arnulfpark
+- TOP .5.: Abrechnung der Sitzungsgelder professionalisieren
+- TOP .6.: Baureferat, Antwortschreiben auf Anfrage des BA 3 zu Straßenbauarbeiten in der Neu- reutherstraße im Bereich Tengstraße mit Arcisstraße (TOP A 5.2.4/112016)
+- TOP .7.: Verbesserung für den Radverkehr (1): breiterer Radweg für die Dachauer Straße
+- TOP .8.: Kreisverwaltungsreferat Abdruck eines Antwortschreibens des KVR vom 07.11.2016 zu einer Bürgeranfrage ?Tramhaltestelle Karlstraße?
+- TOP .1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Kennzeichnung der Tekturen zu Bauvorhaben
+- TOP .2.1: Bauvorhaben
+- TOP .3.: Liste der Abgeschlossenheitsbescheinigungen: 44., 45., 46., 47. KW
+- TOP .1.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2093 Deroystraße (westlich),Arnulfstraße (nördlich), Marsstraße (östlich und südlich), Ände- rung des Bebauungsplanes Nr. 945 ? Stuerzentrum vertagt aus der Sitzung vom 15.11.2016, TOP B 2.1.11
+- TOP .2.: Liste der Bauvorhaben: 44., 45., 46. KW
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Gabelsbergerstraße 11-13, eine Flügelnuss
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2089, Pappenheimstraße (westlich) zwischen Mars- platz und Blutenburgstraße (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1466) Unterrichtungs- und Äußerungsmöglichkeit für die Öffentlichkeit gem. § 13 a Abs. 3 Satz 1 Nr. 2 BauGB ? Beschleunigtes Verfahren -
+- TOP .2.: Baureferat, Gartenbau Baumentfernungen und Gehölzpflegemaßnahmen an Straße und in öffentlichen Grünflä- chen sowie in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Sitzungsvorlage Nr. 14 ? 20 / V 05253 Beschluss der Vollversammlung des Stadtrates vom 15.11.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnungspolitisches Handlungsprogramm ?Wohnen in München VI? 2017 ? 2021 Änderung des Mehrjahresinvestitionsprogrammes 2016 ? 2020; Finanzierung Sitzungsvorlage Nr. 14-20 / V 07205 Beschluss der Vollversammlung des Stadtrates vom 15.11.2016
+- TOP .5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren Antrag Nr. 14-20 / A 01449 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürger- beteiligung vom 13.10.2015 Sitzungsvorlage Nr. 14-20 / V 7305
+- TOP .6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm 2016 ? 2020; Festsetzung derReihenfolge großer Siedlungsmaßnahmen für die Jahre 2016 ? 2020, Infrastrukturversorgungskonzept 2016 - 2020 Sitzungsvorlage Nr. 14-20 / V 07482
+- TOP .7.: Baureferat Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentl. Grünfächen
+- TOP .8.: Referat für Stadtplanung und Bauordnung Fällgenehmigung Josephsplatz 8, eine Birke
+- TOP .9.: Referat für Stadtplanung und Bauordnung Planfeststellung nach dem Personenbeförderungsgesetz für das Vorhaben Verlängerung von Haltestellen (Gruppe 1) Eilentscheidung des Vorsitzenden vom 22.11.2016: Zustimmung zum Wegfall des Plan- feststellungsverfahrens
+- TOP .10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage a)Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters Sitzungsvorlage Nr. 14-20 7 V 07360 b) Wohnen für Alle ermöglichen ? Soziale Wohnraumversorgung in München sicherstellen XII; Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern Sitzungsvorlage Nr. 14-20 / V 07430 einschließlich Hinweis/Ergänzung vom 21.11.2016 c) Mehrjahresinvestitionsprogramm für die Jahre 2016- 2020 Sitzungsvorlage Nr. 14-20 / V 07533
+- TOP .11.: Baureferat, Gartenbau Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grün- flächen und in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken
+- TOP .12.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen a) Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadt- gebiet Empfehlung Nr. 14-20 / E 01097 der Bürgerversammlung des Stadtbezirkes 11 Milberts- hofen-Am Hart am 21.07.2016, Sitzungsvorlage Nr. 14-20 / V 07547 b) Perspektive München, Zukunftsschau 2040 + - Szenarien zur Stadtentwicklung Sitzungsvorlage Nr. 14-20 / V 07418 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 c) Gewerbeflächenentwicklungsprogramm GEWI, Fortschreibung und Öffentichkeitsbe- teiligung Sitzungsvorlage Nr. 14-20 / V 07490 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Aus- schuss für Arbeit und Wirtschaft vom 07.12.2016 d) Strukturelles Umsetzungskonzept ffür die Verwirklichung verkehrlicher Maßnahmen un- ter Verwendung von Stsellplatzablösemitteln Sitzungsvorlage Nr. 14-20 / V 05253 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016
+- TOP .1.: Antrag der SPD im BA 3 vom 13.11.2016 Größere und mehr Mülleimer im Uni- und Museumsviertel
+- TOP .2.: Antrag der SPD im BA 3 vom 13.11.2016 Größere und mehr Mülleimer im Arnulfpark
+- TOP .3.: Antrag des Kinder- und Jugendbeauftragten im BA 3 vom 26.11.2016 MVV-Tickets für Jugendliche bezahlbar machen!
+- TOP .4.: Antrag der CSU im BA 3 vom 26.11.2016 Ampel an der Theresienstraße Ecke Amalienstraße nachts ausschalten
+- TOP .5.: Antrag der CSU im BA 3 vom 26.11.2016 Entrümpelung des öffentlichen Raums; Erlaubnis für die Aufstellung von Zeitungsentnah- megeräten im öffentlichen Raum einschränken!
+- TOP .6.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Einbeziehung der Luftreinhaltevorgaben in die Planungen zur Sicherheitsnachrüstung des Altstadtringtunnels, Durchführung von Messungen
+- TOP .7.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Aufstellen von Bänken auf dem ?Norkauer Platz?, Karlstraße 47
+- TOP .8.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Fahrradabstellflächen an der Theresienstraße, Höhe Hausnummer 60
+- TOP .9.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Heßstraße als Fahrradstraße ? Unterstützung des Antrages des BA 9
+- TOP .10.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Informationstafeln auf Spielplätzen ? Rattenbefall vorbeugen
+- TOP .2.1: Verkehr
+- TOP .1.: Baureferat Georgen-, Friedrich-, Türkenstraße, Lichtsignalanlagenabbau
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsanordnung Absolutes Haltverbot Schleißheimer Straße und Rottmannstraße
+- TOP .3.: Baureferat, Anhörung Altstadtreing Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Straßenumbau Oskar-von-Miller-Ring und Von-der-Tann-Straße
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: MVG-Radstation am Königsplatz ? Ortstermin am 05.10.2016 vertagt aus der Sitzung vom 11.10.2016 (Tischvorlage TOP C 2.2.) und der Sitzung am 15.11.2016 (TOP C 2.2.1) Unterlagen liegen bereits vor
+- TOP .2.: Kreisverwaltungsreferat, Beschlussvorlage, Verkaufseinrichtung auf öffentlichem Grund a)Fünf Zeitungsentnahmegeräte vor den Anwesen Ludwigstraße 27, Geschwister- Scholl- Platz 1, Prof.-Huber-Platz 2, Theresienstsraße 61 und Theresienstraße 41 vertagt aus der Sitzung vom 15.11.2016 (TOP C 2.2.2) Unterlagen liegen bereits vor b) Aufstellen einer Zeitungsverkaufseinrichtung Schleißheimer Straße 86
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Sondernutzungen a) Brienner Stsraße 49, Rücknahme einer Sondernutzungserlaubnis, Freischankfläche b) Hiltenspergerstraße 8, Teilwiderruf der Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Baureferat Aktion Saubere Stadt; Wiederholung der Kampagne für ?Rein. Und Sauber?, das städt. Servicetelefon gegen Vermüllung
+- TOP .2.: Kreisverwaltungsreferat Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG), zwei Zeitungsentnahmegeräte: Arcisstraße 17, Prof.-Huber-Platz 2
+- TOP .3.: Baureferat, Beschlussvorlage Dachauer Straße zwischen Lori- und Gabelsbergerstraße im 3. Stadtbezirk Maxvorstadt Verbesserung der Radverkehrsführung mit Kreuzungsumbau im Zuge des Austausches von Lichtsignalanlagenabbau, Sitzungsvorlage Nr. 14-20 / V 06874 Beschluss des Bauausschusses vom 22.11.2016
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neubau Hauptbahnhof München a) Sachstand und Rahmenvereinbarung b) ?Hauptbahnhof München von außen verwahrlost? Sitzungsvorlage Nr. 14-20 / V 07576 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016
+- TOP .5.: Kreisverwaltungsreferat, Verkehrsmanagement a) Kurzparkzone Erika-Mann-Straße vor Anwesen 2 b) absolutes Haltverbot in der Bernhard-Wicki-Straße Südseite außerhalb der Parkbuchten c) verkehrsrechtliche Anordnungen für den Fußgängerbereich Josephsplatz d) Schackstraße, Öffnung für den gegenläufigen Radverkehr e) Arbeiten im Straßenraum, Heßstraße 2 bis 8, Verlegen Fernwärmeleitung
+- TOP .6.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Austausch von Lichtsignalanlagen: Arnulf-/Hopfenstraße
+- TOP .7.: Vollzug der Sondernutzungsrichtlinien der Landeshauptstadt München, Schreiben des Oberbürgermeisters zur Ablehnung von Anträgen für zwei Zeitungsentnahmegeräte, Arcisstraße 17 und Prof.-Huber-Platz 2
+- TOP .1.: Sozialreferat, Haushaltsplan 2017, div. Beschlussvorlagen Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze; Zuschussnehmerdatei 2017; Vollzug des Haushaltsplanes 2017 für den Bereich ?Förderung freier Träger? des Sozialreferates/Stiftungsverwaltung-Bürgerschaftliches Engagement (BE) und Zentrale, des Amtes für Soziale Sicherung, des Stadtjugendamtes und des Amtes für Wohnen und Migration Sitzungsvorlagen Nr. 14-20 / V 07226, 07237, 07218, 07291 Beschluss des Kinder- und Jugendhilfeausschusses des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.2016
+- TOP .2.: Sozialreferat Förderung freier Träger zur Übernahme höherer Miet- und Mietnebenkossten für die Pro- jekte des IG Stammhaus, Sitzungsvorlage Nr. 14-20 / V 06710
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Kulturreferat Förderung des Projektes ?Wohlstandsbank?, Fristverlängerung, Fördersumme
+- TOP .1.: Stadtkämmerei, Beschlussvorlage Entwurf Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 einschließlich Neufassung vom 21.11.2016, Sitzungsvorlage Nr. 14-20 / V 07533
+- TOP .2.: Direktorium, Anhörung Anhörungsrecht für Planungen im Bereich ?Wohnen für Alle? Antrag des BA 15 Trudering-Riem, Nr. 14-20 / B 02859 vom 22.09.2016
+- TOP .3.: Aufstellung eines Infokastens an der Barer Straße
+- TOP .4.: Direktorium, Anhörung Bürgerhaushalt auf Stadtbezirksebene; Anhörung der Bezirksausschüsse zum Entwurf der Beschlussvorlage vertagt aus der Sitzung vom 15.11.2016 Unterlagen liegen bereits vor
+- TOP .5.: Ergebnis der Kassenprüfung 2015
+- TOP .6.: Bürgerversammlung 2017: Versammlungslokal
+- TOP .7.: Antrag der SPD im BA 3 vom 23.11.2016 Internetzugang im Bürgerbüro und Plenarsitzungssaal des BA 3
+- TOP .8.: Antrag der SPD im BA 3 vom 28.11.2016 Städtisches Telefonbuch auf Alfresco zur Verfügung stellen
+- TOP .9.: Örtlichkeit Kinder- und Bürgerfest 2017
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: (E) Budget der Bezirksausschüsse Stiftung Pinakothek der Moderne 3. Kunstareal-Fest vom 23. - 25.06.2017
+- TOP .1.: Befahren und Parken auf dem Josephsplatz verhindern
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
