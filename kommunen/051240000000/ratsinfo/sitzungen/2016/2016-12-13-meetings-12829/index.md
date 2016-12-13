@@ -1,0 +1,66 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-12-13T16:04:00+01:00
+- Ende: 2016-12-13T17:13:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12829
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12829
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand_02.12.16) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00200983.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00201766.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse / Entlastungen
+- TOP 1.1: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 1.2: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2015 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2015 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2015 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2017 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 2.4: Abgesetzt. Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2017 - stationärer Bereich -
+- TOP 2.5: Abgesetzt. Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2017 - Fachbereich Senioren und Freizeit -
+- TOP 2.6: Wirtschaftsplan für 2017 KIJU - Entgegennahme ohne Beschluss
+- TOP 2.7: Wirtschaftsplan 2017 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.8: Wirtschaftsplan 2017 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR) - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Bestellung eines Prokuristen bei der Historische Stadthalle Wuppertal Service GmbH - ungeändert beschlossen
+- TOP 3.2: Veränderung in der Besetzung des Aufsichtsrates der Helios Klinikum Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: FinCo-Bericht zum 30.11.2016 - Entgegennahme ohne Beschluss
+- TOP 5.2: Jahresbericht 2015 - Bergisches Veterinär- und Lebensmittelüberwachungsamt - Entgegennahme ohne Beschluss
+- TOP 5.3: Ausbau des öffentlichen WLAN-Netzes - vertagen
+- TOP 5.4: Finanzierung und Abrechnung der Nordbahntrasse - Entgegennahme ohne Beschluss
+- TOP 5.5: Stand der Umsetzung des Bundesinvestitionsprogramms - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Nachtragshaushaltsplan 2017 - ungeändert beschlossen
+- TOP 6.2: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2015 - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Neugestaltung Döppersberg - Erhöhung der Projektkosten und Sicherstellung der Finanzierung - ungeändert beschlossen
+- TOP 7.2: Strategische Raumplanung für die Stadtverwaltung - vertagen
+- TOP 7.3: Bürgerbeteiligung zur Haushaltsplanung 2018/2019 im Rahmen des EU-Projekts EMPATIA - ungeändert beschlossen
+- TOP 7.4: Beitritt der Stadt Wuppertal als Träger zur d-NRW AöR mit Wirkung ab 01. Januar 2017 - ungeändert beschlossen
+- TOP 7.5: Gebührensatzung zur Abfallwirtschaft 2017 - ungeändert beschlossen
+- TOP 7.6: Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2017 - ungeändert beschlossen
+- TOP 7.7: Umsetzung des Förderprogramms „Gute Schule 2020“ des Landes Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 7.8: - Verlagerung des WSV-Jugendleistungszentrums zum Stadion am Zoo - zur Entscheidung verwiesen
+- TOP 7.8.1: VO/0873/16, hier: Neubau einer Sporthalle in der Nevigeser Straße - zur Entscheidung verwiesen
+- TOP 7.9: Fortschreibung des Integrierten Stadtentwicklungskonzeptes - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 7.10: Fortschreibung des Integrierten Stadtentwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 7.11: Grundsatzbeschluß zur Weiterentwicklung des Historischen Zentrums/Engels Haus - Projekt Engels 2020 - ungeändert beschlossen
+- TOP 7.12: Grundstücksverkauf Teilfläche Hastener Str. 4-8 - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Wirtschaftsplan 2017 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 10: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 11: 4. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12: 10. Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
