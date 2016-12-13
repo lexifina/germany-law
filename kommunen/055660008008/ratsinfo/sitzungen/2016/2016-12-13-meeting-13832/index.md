@@ -1,0 +1,51 @@
+# Haupt-, Finanz- und Steuerungsausschuss (80. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2016-12-13T17:01:00+01:00
+- Ende: 2016-12-13T20:36:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Sitzungsraum 415
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRoXCTJnvPah0Ji5_nL_BPE
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13832
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVa0kKY0G_UZQmEjNiIJRvK00QncooSiA7wCSuxhmBBC/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_13.12.2016.pdf
+
+## Tagesordnung
+
+- TOP II.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 25.10.2016
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Finanzangelegenheiten
+- TOP 3.1: Managementbericht zum 31.10.2016 - Einstimmig
+- TOP 3.2: Feststellung des Jahresabschlusses 2015, Behandlung des Fehlbetrages und Entlastung des Bürgermeisters - Zur Kenntnis genommen
+- TOP 3.3: Beteiligungsbericht 2015 - Zur Kenntnis genommen
+- TOP 4.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2017 - 12 Ja-Stimme(n), 0 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 5.: Satzungsrecht
+- TOP 5.1: IV. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 19. Dezember 2012 auf Grundlage der Gebührenkalkulation für das Jahr 2017 - 14 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 5.2: XIV. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 5.3: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) vom 20.12.2007 in der Fassung des X. Nachtrages - 14 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.4: V. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04.07.2012 - Einstimmig
+- TOP 5.5: Anpassung der Entwässerungssatzung und der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen an das novellierte Landeswassergesetz des Landes Nordrhein - Westfalen - Einstimmig
+- TOP 6.: Bebauungsplan
+- TOP 6.1: Vorhabenbezogener Bebauungsplan VEP Nr. 3 "Nahversorgungsstandort Nordwalder Straße" - Einleitungs- und Aufstellungsbeschluss - - Einstimmig
+- TOP 6.2: Bebauungsplan Nr. 111 "Rheiner Straße / Hermannstraße", 1. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 6.3: Bebauungsplan Nr. 35 A "Kanalweg", 5. Änderung - Satzungsbeschluss - - Einstimmig
+- TOP 6.4: Bebauungsplan Nr. 116 "nördlich Weststraße / Stefanstraße" - Satzungsbeschluss - - Einstimmig
+- TOP 7.: Privaterschließungs- und städtebauliche Verträge
+- TOP 7.1: Städtebaulicher Vertrag nach BauGB - Einstimmig
+- TOP 8.: Schulangelegenheiten
+- TOP 8.1: Planungen zum Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 8.2: Zustimmung zur Einrichtung des Gemeinsamen Lernens an Emsdettener Grundschulen gem. § 20 Abs. 5 Schulgesetz - Einstimmig
+- TOP 9.: Kulturangelegenheiten
+- TOP 9.1: Ergänzung der Benutzungs- und Gebührenordnung der Stadtbibliothek - Einstimmig
+- TOP 10.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 10.1: Entwicklung ombudschaftlicher Strukturen in der Jugendhilfe im Kreis Steinfurt - Einstimmig
+- TOP 10.2: Elternbeitragssatzung - 10 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.3: Anpassung der Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Familienerholung - Einstimmig
+- TOP 11.: Stellenplan
+- TOP 11.1: Stellenplan 2017 - (kein Text vorhanden)
+- TOP 11.1.1: Stellenplan 2017 - Einstimmig
+- TOP 12.: Etat/Budget
+- TOP 12.1: Entwurf Haushaltssatzung und Haushaltsplan 2017 - 11 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 13.: Verschiedenes
