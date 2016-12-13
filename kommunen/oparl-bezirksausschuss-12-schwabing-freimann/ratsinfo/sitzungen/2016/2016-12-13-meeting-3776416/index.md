@@ -1,0 +1,108 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2016-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3776416
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3776416
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 4.3.: Anhörungen
+- TOP 10: sonstiges
+- TOP 10.1.: Vorstellung von ?Apassionata?
+- TOP 10.2.: Kurzvortrag zum Status Bayernkaserne
+- TOP 10.3.: Einführung der Kooperationsplattform ?Alfresco?
+- TOP 10.1.: Tram-Einrückstrecke Parzivalstraße für Personenbeförderung freigeben (Initative: Dagmar Föst-Reich)
+- TOP 10.2.: Tram-Einrückstrecke Parzivalstraße für Personenbeförderung ertüchtigen (Initative: Dagmar Föst-Reich)
+- TOP 10.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Ungererstraße / Domagkstraße
+- TOP 10.1.: Plangenehmigung nach dem Personenbeförderungsgesetz für das Vorhaben Errichtung des neuen bahnübergangs ?Lindberghstr.?
+- TOP 10.1.: Buslinie 181, Direktfahrt Josef-Wirth-Weg - Studentenstadt
+- TOP 10.2.: Beschilderung der Siegfriedstraße
+- TOP 10.3.: Errichtung eines Rad- und Fußweges zwischen dem Gelände der ehemaligen Papierfabrik an der Freisinger Landstraße und der Sondermeierstraße
+- TOP 10.1.: Verkehrszählung in der Marianne-Brandt-Straße mit Differenzierung nach Fahrzeugtypen, BA-Antrags-Nr. 14-20 / B 02583 des BA 12 vom 23.06.2016
+- TOP 10.2.: Parkscheibenregelung am Marchgrabenplatz, Antrag Nr. 14-20 / B 02671 des BA 12 vom 29.07.2016
+- TOP 10.3.: Räum- und Streupflicht in der Heinrich-Groh-Straße für die Landeshauptstadt München, Ziffer 3 des Antrags, BA-Antrags-Nr. 14-20 / B 02972 des BA 12 vom 25.10.2016
+- TOP 10.1.: Absolutes Haltverbot in der Antwerpener Straße, Hollandstraße und Luxemburger Straße
+- TOP 10.2.: Neuordnung der Verkehrsregelung in der Kieferngartensiedlung (Schlößlanger Seitenstraßen)
+- TOP 10.3.: Wegweisung Katholische Akademie
+- TOP 10.4.: Öffnung der in Richtung Osten einbahngeregelten Schackstraße für den gegenläufigen Radverkehr (zwischen Einfahrtbereich Gebäude Ludwigstraße 28 und Kaulbachstraße)
+- TOP 10.5.: Lade- und Anfahrtszone Anni-Albers-Straße für Walter-Gropius-Straße 5
+- TOP 10.6.: Z 283 StVO Tristanstraße Ostseite gegenüber Einmündung König-Marke-Straße
+- TOP 10.2.: Verkehrsberuhigung Occamstraße, B.4.3-09/16, Referatsschreiben
+- TOP 10.3.: Bürgeranliegen an den BA 12 ? Mitteilung an die Polizeiinspektion 13, Haltverbotsbereich in der Hollandstraße
+- TOP 10.4.: Information der SWM über Baustellen, Stromprojekt Netztrafostation Grasmeierstraße, 1. Bauabschnitt
+- TOP 10.5.: Vertiefte Machbarkeitsuntersuchung für das Pilotprojekt ?schnelle Radverbindung für den Münchner Norden?, Sitzungsvorlagennummer 14-20 / V 06451
+- TOP 10.6.: Häufigere Leerung der Mülleimer an der Münchner Freiheit, A.5-08/16, Referatsschreiben
+- TOP 10.7.: Fortschreibung Grundsatzbeschluss Radverkehr 2017 XII, Sichere Radverbindung beidseits der Freisinger Landstraße südlich des Josef-Wirth-Weges ? Antrag zum Grundsatzbeschluss 2017, Antrag Nr. 14-20 / A 02654 der Stadtratsfraktion Die Grünen ? rosa Liste vom 18.11.2016
+- TOP 10.8.: Verkehrsberuhigung Occamstraße, Referatsschreiben
+- TOP 10.10.: Historisch belastete Straßennamen untersuchen und einen Vorschlag für den Umgang damit erarbeiten, Antrag Nr. 14-20 / A 01143 der SPD-Stadtratsfraktion vom 30.06.2016, u.a. Umbenennung des Kißkaltplatzes Antrag Nr. 08-14 / B 05695 des Bezirksausschusses 12 vom 25.02.2014, Sitzungsvorlagennummer 14-20 / V 04354
+- TOP 10.11.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Kißkaltplatz, Provisorium baulich fassen, B.2.1-10/16, Referatsschreiben
+- TOP 4.1.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag der WOGENO e.G. vom 18.07.2016, Fassadengestaltung, Referatsschreiben
+- TOP 4.1.: Suche nach einem Atelierhaus für Künstlerinnen und Künstler
+- TOP 4.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 4.1.: Margot-Kalinke-Straße 4
+- TOP 4.2.: Leopoldstraße 33
+- TOP 4.1.: In Wohnungen kommen ? in Wohnungen bleiben, Neuausrichtung der Unterstützung, Begleitung und Nachsorge von wohnungslosen Haushalten, Änderung des Mehrjahresinvestitionsprogramms 2015-2019, Sitzungsvorlagennummer 14-20 / V 06850
+- TOP 4.2.: Wohnen für Alle ermöglichen ? Soziale Wohnraumversorgung in München sicherstellen! XII, Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern, Sitzungsvorlagennummer 14-20 / V 07430
+- TOP 4.3.: Verwendungsnachweis, NaturKind Waldkindergarten e.V. vom 03.08.2016
+- TOP 4.4.: a) Verwendungsnachweis, Freizeittreff Freimann vom 30.08.2016 b) Verwendungsnachweis, Corso Leopold e.V. vom 04.03.2016
+- TOP 4.3.1.: Baumfällungen
+- TOP 4.1.: Kaiserstr. 7 / RGB, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 4.2.: Kieferngartenstr. 31, Neubau eines Doppelhauses mit Garagen
+- TOP 4.3.: Wilhelm-Wagenfeld-Str., zeitlich befristete Aufstellung von Containern im Grünbereich
+- TOP 4.4.: Leinthalerstraße 10, 1 Kastanie
+- TOP 4.5.: Ungererstraße 108, 1 Hainbuche
+- TOP 4.6.: Ungererstraße 124, 1 Robinie
+- TOP 4.7.: Margarete-Schütte-Lihotzky-Straße, 5 Bäume
+- TOP 4.8.: Weisgerberstraße 2, 2 Rotbuchen
+- TOP 4.1.: Verfahren nach § 4 Abs. 2 BauGB, Gemeinde Unterföhring, Bebauungsplan Nr. 84 / 16 zur Realisierung der Unterföhringer Ortsmitte
+- TOP 4.2.: Osterwaldstr. 108, Neubau von 18 Wohneinheiten mit Tiefgarage
+- TOP 4.1.: Domagk Park: Wünsche/Anregungen zur Platzgestaltung zwischen WA8 und WA9
+- TOP 4.5.2.: Genehmigte Baumfällungen
+- TOP 4.1.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Teil 1
+- TOP 4.2.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Teil 2
+- TOP 4.1.: Regionale Kooperationen stärken (II), Sitzungsvorlagennummer 14-20 / V 06894
+- TOP 4.2.: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2016 ? 30.06.2016, Sitzungsvorlagennummer 14-20 / V 06610
+- TOP 4.3.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München VI? 2017-2021 Änderung des Mehrjahresinvestitionsprogramms 2016-2020, Finanzierung, Sitzungsvorlagennummer 14-20 / V 07205
+- TOP 4.4.: Bericht zur Wohnungssituation in München 2014-2015, Sitzungsvorlagennummer 14-20 / V 07098
+- TOP 4.5.: Energienutzungsplan für München, Sitzungsvorlagennummer 14-20 / V 07115
+- TOP 4.6.: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren, Antrag Nr. 14-20 / A 01449 der Stadtratsfraktion Freiheitsrechte, transparenz und Bürgerbeteiligung vom 13.10.2015, Sitzungsvorlagennummer 14-20 / V 7305
+- TOP 4.7.: Mehrjahresinvestitionsprogramm 2016-2020, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016-2020, Infrastrukturversorgungskonzept 2016-2020, Sitzungsvorlagennummer 14-20 / V 07482
+- TOP 4.8.: Vorhabenbezogeneer Bebauungsplan mit Grünordnung Nr. 2031b, Freisinger Landstraße (östlich), Garchinger Mühlbach (westlich) und Verlängerung Josef-Wirth-Weg (nördlich), Sitzungsvorlagennummer 14-20 / V 07453
+- TOP 4.9.: Gentrifizierung in Altschwabing ? Milieuschutz, Aufstellung eines Bebauungsplans, BA-Antrags-Nr. 14-20 / B 02586 des BA 12 vom 27.06.2016, Sitzungsvorlagennummer 14-20 / V 07364
+- TOP 4.10.: Mehrjahresinvestitionsprogramm für die Jahre 2016-2020, Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Förderung Wohnungsbau & Wohnsiedlung, Stellungnahmen zu den Anträgen der Bezirksausschüsse 4,6,7,9,20,21 und 25, Sitzungsvorlagennummer 14-20 / V 07533
+- TOP 4.11.: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters, Sitzungsvorlagennummer 14-20 / V 07360
+- TOP 4.12.: Lilienthalallee 37, Nutzungsänderung mit baul. Änderungen Notausgänge, Verlängerung der Nutzungsdauer bis 31.12.2016
+- TOP 4.13.: Lilienthalallee, Nutzungsänderung ehemaliger Antikpalast in Autowerkstatt
+- TOP 4.14.: Mehrjahresinvestitionsprogramm für die Jahre 2016 ? 2020 Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Förderung Wohnungsbau & Wohnsiedlung, Stellungnahmen zu den Anträgen der BA 4, 6, 7, 9, 20, 21 und 25, Sitzungsvorlagennummer 14-20 / V 07533
+- TOP 4.15.: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet, Emfpehlung Nr. 14-20 / E 01097 der Bürgerversammlung des Stadtbezirkes 11 am 21.07.2016, Sitzungsvorlagennummer 14-20 / V 07547
+- TOP 4.16.: PERSPEKTIVE MÜNCHEN, Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung, Sitzungsvorlagennummer 14-20 / V 07418
+- TOP 4.17.: Gewerbeflächenentwicklungsprogramm ? GEWI, Sitzungsvorlagennummer 14-20 / V 07490
+- TOP 4.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 9.1.: Änderung der BA-Satzung, Erweiterung der Ziffer 7.2 der Anlage 1 der BA-Satzung um die Formulierung ?inklusive zugehöriger Stellungnahmen der zuständigen Denkmalschutzbehörde?, BA-Antrags-Nr 14-20 / B 02359 des BA 1 Altstadt-Lehel vom 10.05.2016, vertagt aus der Sitzung vom 22.11.2016, Unterlagen liegen vor.
+- TOP 4.3.: Heidemannstr. 182, Neubau Schule + Kita mit Tiefgarage, vertagt aus der Sitzung vom 22.11.2016, Unterlagen liegen vor.
+- TOP 4.2.: Planung der Einsätze der Münchner SommerSpielAktion 2017
+- TOP 10.3.: Einrichtung eines flächendeckendes Netzes für Stromtankstellen in Bereichen des Geschosswohnbaus (Initiative: Ekkehard Pascoe)
+- TOP 10.2.: (E) Budget der Bezirksausschüsse Elternbeirat an der Grundschule an der Wilhelmstraße Tanzprojekt ab Mitte Januar 2017 - <div></div>
+- TOP 10.3.: (E) Budget der Bezirksausschüsse Kinderschutz e.V. Heide Treff Nachbarschaftstreff Lotsenprojekt Freimann vom 01.01.2017 ? 31.12.2017 - <div></div>
+- TOP 4: (E) Zentrales Bewohnerzentrum in der Parkstadt Schwabing Empfehlung Nr. 14-20 / E 01079 der Bürgerversammlung des Stadtbezirks 12 - Schwabing-Freimann am 14.07.2016 - <div></div>
+- TOP 4.5.: (E) Budget der Bezirksausschüsse Theatergruppe Heidekraut e.V. Theaterstück "Geralds Tod" vom 12.01.2017 - Oktober 2017 - <div></div>
+- TOP 4.1.: Anträge
+- TOP 4.5.: Unterrichtungen
+- TOP 4.2.: Entscheidungen
+- TOP 10.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 4.3.2.: Sonstige Anhörungen
+- TOP 4.4.: Bürgeranliegen
+- TOP 4.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 4.5.3.: Sonstige Unterrichtungen
+- TOP 10.9.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlagennummer 14-20 / V 05253
