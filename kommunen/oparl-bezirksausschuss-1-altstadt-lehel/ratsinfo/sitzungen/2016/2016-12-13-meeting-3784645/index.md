@@ -1,0 +1,87 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2016-12-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3784645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3784645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: BA-Antrag der SPD Fraktion, Bäume am Marienhof/ Ecke Residenz- und Schrammerstraße / 2. Stammstrecke, vertagt aus 2016.11 D 1.6
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Westenriederstraße 14, Umbau und Aufstockung eines Mehrfamilienhauses
+- TOP 7.2.: Widenmayerstraße 51, Nutzungsänderung / Umbau einer Klinik zu einem Wohngebäude
+- TOP 7.3.: Sendlinger-Tor-Platz, Errichtung eines Informationspavillons für die Dauer von 6 Jahren
+- TOP 7.4.: Tal 36, Dachsanierung und Aufstockung eines Teils des Dachs, Vorbescheid
+- TOP 7.5.: Westenriederstraße 13, Vergrößerung der Gastraumfläche
+- TOP 7.6.: St.-Anna-Straße 16, Abbruch und Neubau eines Wohn- und Geschäftshauses mit 3 Untergeschossen
+- TOP 7.1.: Bürgeranliegen, Bettler im Tal, Wildcampen im Tal, Freischankfläche ?Sausalitos?, vertagt aus 2016.11
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Sendlinger Straße 62 / Herzog-Wilhelm-Straße
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Antrag für die Aufstellung eines Zeitungsentnahmegerätes, Isartorplatz / Frauenstraße
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Inthronisation des Nahrhalla-Faschingsprinzenpaares am 14.01.2017, Marienplatz
+- TOP 7.1.: Bericht zu 2016.12 D 4.10, Änderung der Verkehrssituation entlang der Uferstraße zwischen Mariannenbrücke und Praterwehrbrücke, Wegfall von Parkplätzen
+- TOP 7.1.: BA-Antrag der FDP Fraktion, Parkplätze Marstallplatz
+- TOP 7.2.: Bürgeranliegen, Geh- / Radwegwegmarkierung auf der Tivoli- und Max-Josephs- Brücke
+- TOP 7.3.: Bürgeranliegen, Feedback zum Verkehrsversuch Sendlinger Straße
+- TOP 7.4.: Bürgeranliegen, Verkehrsversuch Sendlinger Straße
+- TOP 7.5.: Bürgeranliegen, Nachfrage zu Fahrbahnmarkierung Haltestreifen an der Prinzregenten- / Wagmüllerstraße (Vgl. TOP 2016.12 D 4.3)
+- TOP 7.1.: Einrichtung zweier algemeiner Behindertenparkplätze, Odeonsplatz 6 / Seite Galeriestraße
+- TOP 7.2.: Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Straßenumbau Oskar-von-Miller-Ring und Von-der-Tann-Straße, Sitzungsvorlage Nr. 14-20/V06080
+- TOP 7.3.: Antrag auf Baumfällung, Sternstraße 26
+- TOP 7.4.: Verkehrsführung, Widmung und Beschilderung der Kustermannfahrbahn, Sitzungsvorlage Nr. 14-20/V07661
+- TOP 7.1.: Bürgeranliegen, Suche nach einem Atelierhaus für Künstelrinnen und Künstler
+- TOP 7.2.: Anträge aus der Kinder- und Jugendversammlung: Standortsuche für Waveboard-, Rollschuh- und Skateanlage im Stadtbezirk 1, vertagt aus 2016.11
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Gewerbeflächenentwicklungsplan, Sitzungsvorlage Nr. 14-20 / V07490
+- TOP 0.3.: Perspektive München ? Zukunftsschau 2040+, Sitzungsvorlage Nr. 14-20/V07418
+- TOP 0.4.: Vorhabenbezogener Bebauungplan mit Grünordnung Nr. 2018, Hildegard-, Hochbrücken- und Neuturmstraße sowie Thomas-Wimmer-Ring zwischen Knöbel- und Kanalstraße, Satzungsbeschluss, Sitzungsvorlage Nr. 14-20/V07509
+- TOP 0.5.: Stellungnahme ses Heimatpflegers der Landeshauptstadt Münchnen zum Thema Alte Akademie
+- TOP 0.6.: Antwort des Planungsreferates auf BA-Antrag Nr. 14-20/B02950, Freiflächengestaltung Adelgundenstraße 7
+- TOP 0.7.: Bürgerschreiben, Pedalhelden / Müllerstraße - Dank für Unterstützung
+- TOP 0.8.: Neuberufung eines Heimatpflegers der Landeshauptstadt Münchnen und seines Stellvertreters, Sitzungsvorlage Nr. 14-20/V07360
+- TOP 0.9.: Wohnen für alle ermöglichen ? Soziale Wohnraumversorgung in München sicherstellen! XII ? Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte, Sitzungsvorlage Nr. 14-20/V07430
+- TOP 0.10.: Protokoll der Stadtgestaltungskommission vom 26.07.2016, Neuplanung Altstadtring / Werbeplakat Baustelle Hugendubel
+- TOP 0.11.: Erstellung von Stadtbezirksprofilen ? Personalbedarf, Sitzungsvorlage Nr. 14-20 / V07138
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführungen
+- TOP 0.5.: Bestätigung des Baureferates zur Aufstellung von Sitzbänken auf dem St.-Anna-Platz
+- TOP 0.6.: Mitteilung des Baureferates, Aufstellung von Mülleimern in der Liebigstraße gemäß Bürgeranliegen und Bitte des BA
+- TOP 0.7.: Aktion Saubere Stadt, Wiederholung der Kampagne für ?Rein und Sauber?, Sitzungsvorlage Nr. 14-20 / V06637
+- TOP 0.8.: Veranstaltung Aufstellen eines Chanukkaleuchters, Zustimmung des 1. stellvertretenden Vorsitzenden per Eilentscheidung
+- TOP 0.1.: Strukturelles Umsetzungskonzeot für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20/V05253
+- TOP 0.2.: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet, Sitzungsvorlage Nr. 14-20/V07547
+- TOP 0.3.: Rückmeldung des Kreisverwaltungsreferates zum Bürgeranliegen Straßenmarkierung Prinzregentenstraße / Wagmüllerstraße (war 2016.10 D 1.2)
+- TOP 0.4.: MVG Detailinformation zum Umbau U-Bahnhof Sendlinger Tor, insbesondere Parkplätze
+- TOP 0.5.: Antwort zum Stadtratsantrag Nr. 14-20/A02396, Residenzstraße ordnen
+- TOP 0.6.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 0.7.: Aufhebung eines personenbezogenen Behindertenparkplatzes, Infanteriestraße 12
+- TOP 0.8.: Lieferdienst für Münchens Innenstadteinzelhandel initiieren, Sitzungsvorlage Nr. 14-20/V07214
+- TOP 0.9.: Beschleunigung der Buslinien 62 und 132, Sitzungsvorlage Nr. 14-20/V06855
+- TOP 0.10.: Änderung der Verkehrssituation entlang der Uferstraße zwischen Mariannenbrücke und Praterwehrbrücke, Wegfall von Parkplätzen
+- TOP 0.11.: Antwortschreiben der Bürgermeisterin Christine Strobl an einen Bürger zu Taxiverkehr in der Wurzerstraße
+- TOP 0.1.: Ausschreibung ?Vom Weltspieltag zum Weltkindertag 2017?, Spielend Raum gewinnen, im Stadtbezirk
+- TOP 0.2.: Abrechnung mit Rückzahlung zu Budgetantrag ?Kinderfest am St. Anna Platz 2016?
+- TOP 0.3.: Kurzbericht über das bezuschusste Spielfest ?Luftschloss und Pappburg? 2016
+- TOP 7.4: Unterrichtungen (siehe Anlage)
+- TOP 7.0: Bericht
+- TOP 7.1: Anträge und Bürgeranliegen
+- TOP 7.2: Entscheidungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.2: Sonstige
