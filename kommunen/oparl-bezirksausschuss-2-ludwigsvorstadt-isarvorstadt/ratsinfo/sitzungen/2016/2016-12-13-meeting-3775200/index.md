@@ -1,0 +1,97 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2016-12-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3775200
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3775200
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Planung der Einsätze der Münchner SommerSpielAktion 2017 ? Spielbuseinsätze, PLENUMSBESCHLUSS
+- TOP .1.: Kulturzentrum Südbahnhof 2/6
+- TOP .2.: Flüchtlinge/Wohnungslose
+- TOP .3.: Bürgeranliegen: Offener Bücherschrank im 2. Stadtbezirk
+- TOP .4.: Viehhof
+- TOP .5.: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen" im Stadtbezirk
+- TOP .6.: Anfrage von DOKU e.V. München an BA 2, Suche nach einem Atelierhaus für Künstlerinnen und Künstler, vgl. Vertagung TOP 2016.11 A 5.5
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Isartalstraße 28, Einbau einer Dachterrasse
+- TOP .2.: Goethestraße 30-34; Teilabbruch, Um- und Neubau eines Wohn- und Geschäftsgebäudes mit großflächigem Lebensmitteleinzelhandelsbetrieb und Tiefgarage ? TEKTUR, vgl. Vertagung TOP 2016.11 B 3.1.13
+- TOP .3.: Waltherstraße 31, Neubau Boardinghouse mit Supermarkt, vgl. Vertagung TOP 2016.11 B 3.1.14
+- TOP .4.: Bayerstraße 7, Aufstockung eines Hotels ? VORBESCHEID, vgl. Vertagung TOP 2016.11 B 3.1.15
+- TOP .5.: Goethestraße 7, Nutzungsänderung (EG): Zusammenlegung dreier Läden
+- TOP .6.: Schwanthalerstraße 84, Aufstockung Treppenhaus, innere Umbauten und Nutzungsänderung: Tagesklinik und Fachambulanz für Suchtkranke zu Boardinghouse
+- TOP .7.: Jahnstraße 21-21a, Neubau eines Dreispänners mit Tiefgarage sowie Umbau von vier Balkonen zu Terrassen - TEKTUR
+- TOP .8.: Landwehrstraße 26, Nutzungsänderung eines Bürohauses mit 2 WE in ein Boardinghaus/Beherberungsstätte (23 Einheiten, 55 Betten), Aufteilung und Nutzungsänderung: Laden zu Sisha-Bar (100 Gäste), Imbiss und Laden
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Ruppertstraße 11, Fällungsantrag dreier Pappeln
+- TOP .2.: Ehrengutstraße 14, Fällungsantrag einer Esche
+- TOP .3.: Herzog-Heinrich-Straße 1, Fällungsantrag einer Kegelakazie
+- TOP .4.: Isartalstraße 16, Fällungsantrag einer Eberesche
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Sanierung bzw. Erneuerung Fahrbahn ?Am Glockenbach?, vgl. Vertagung TOP 2016.11 C 1.2
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Lindwurmstraße 127, Antrag für die Aufstellung von Warenauslagen
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.2: Verkehr
+- TOP .1.: Implerstraße/Lindwurmstraße; Austausch von Lichtsignalanlagen
+- TOP .2.: Fraunhoferstraße/Reichenbachstraße; Austausch von Lichtsignalanlagen
+- TOP .3.: Arnulf-/Hopfenstraße, Austausch von Lichtsignalanlagen
+- TOP .1.: Häberlstraße 14, Antrag auf Aufstellung von Sitzgelegenheiten
+- TOP .1.: Begrünungsplan BA 2
+- TOP .2.: Umgestaltung Holzplatz
+- TOP .3.: Bürgeranliegen, Radweg Fraunhoferstraße
+- TOP .4.: Bürgeranliegen; Beibehaltung der Einbahnstraße Reichenbachstraße Abschnitt Fraunhoferstraße - Gärtnerplatz
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 09.01.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 10.01.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 11.01.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 16.01.2017 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 24.01.2017 um 19 Uhr im Saal in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Übersicht der Unterkünfte für Flüchtlinge und Wohnungslose, Information des Sozialreferates vom 16.11.2016
+- TOP .4.: Ergebnisse des AKIM Abschlussgesprächs vom 26.10.2016 bezüglich Gärtnerplatz
+- TOP .5.: Veranstaltungen im Viehhof, Schreiben des Kommunalreferates vom 18.10.2016
+- TOP .6.: Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung "Ludwigsvorstadt/Schwanthalerhöhe"
+- TOP .7.: Schwanthalerschule - Rücklaufquote von Briefen an Eltern von schulpflichtigen Kindern im Schulsprengel der Schwanthalerschule
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Bevorstehende Entfernungen von Gefahrenbäumen
+- TOP .3.: Gestaltung Am Glockenbach - nördliche und südliche Fahrbahnen am Glockenbach pflastern
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neubau Hauptbahnhof München; a) Sachstand und Rahmenvereinbahrung, b) "Hauptbahnhof München von außen verwahrlost", Sitzungsvorlagen Nr. 14-20 /V 07576; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016
+- TOP .5.: Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) Haydnstraße 11, Neubau eines Mehrfamilienhauses Haydnstraße 11/Herzog-Heinrich-Straße 19
+- TOP .6.: BBZ Ruppertstraße, Schulbauoffensive - Schreiben des Baureferates an das Referat für Stadtplanung und Bauordnung vom 18.11.2016
+- TOP .7.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben ?München Hbf ? Umbau des Holzkirchner Flügelbahnhofs? in der Landeshauptstadt München ? Planfestellungsbeschluss vom 26.09.2016
+- TOP .8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet; Empfehlung Nr. 14 ? 20/E 01097 der Bürgerversammlung des BA 11 ? Milbertshofen -Am Hart am 21.07.2016; Sitzungsvorlagen Nr. 14 ? 20/V 07547; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 (SB)
+- TOP .13.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage PERSPEKTIVE MÜNCHEN Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung; Sitzungsvorlagen Nr. 14 ? 20/ V 07418; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 (VB), Neufassung vom 01.12.2016
+- TOP .14.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Gewerbeflächenentwicklungsprogramm -GEWI; Fortschreibung und Öffentlichkeitsbeteiligung ? Anhörung der Bezirksausschüsse und Wirtschaftskammern, Sitzungsvorlagen Nr. 14-20 / V 07490, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.2016 (VB), Neufassung vom 01.12.2016
+- TOP .9.: Beschleunigung der Buslinie 63 und 132, Sitzungsvorlage Nr. 14-20/V06855, Beschluss der Vollversammlung des Stadtrates am 15.11.2016
+- TOP .10.: Reifenstuelstraße 2; Baustelle; vgl. 2016.11 TOP II Bürgeranfragen; Information der Lokalbaukommission vom 30.11.2016
+- TOP .11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erstellung von Stadtbezirksprofilen ? Personalbedarf, Sitzungsvorlage Nr. 14-20/V07137, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 (VB)
+- TOP .12.: Lärmbelästigung Laubbläser; Anfrage Nr. 14 - 20 / Q 00326 aus der Bürgerversammlung des 2. Stadtbezirkes vom 10.11.2016; Antwortschreiben des Referates für Gesundheit und Umwelt vom 05.12.2016
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichen Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Bürgeranliegen; Länger parkendes Fahrzeug in der Buttermelcherstraße, Antwortemail des Kreisverwaltungsreferates vom 18.11.2016
+- TOP .11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .7.: Tollwood Winterfestival, Testfahrten mit Wasserstoff betriebenen Autos, Eilentscheidung des Vorsitzenden vom 24.11.2016
+- TOP .8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln ? Fortschreibung des Grundsatzbeschlusses vom 23.11.2005; Anträge E-Mobilität, Handlungsfeld 8 ? Laden und Parken; Mehr Ökologie für das ?2000-Stellplätze-Programm?; Prioritätensetzung bei der Verwendung von Stellplatzablöse-mitteln, Sitzungsvorlagen Nr. 14 ? 20 / V 05253; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 (VB)
+- TOP .9.: Pink Christmas auf dem Stephansplatz vom 24.11.2016 bis 23.12.2016, Stellungnahme des BA 2 vom 26.10.2016, Schreiben des Kreisverwaltungsreferates vom 24.11.2016
+- TOP .10.: Aktion Saubere Stadt; Wiederholung der Kampagne für ?Rein. Und Sauber?, das städt. Servicetelefon gegen Vermüllung, Sitzungsvorlage Nr. 14-20 /V 06637, Beschluss des Bauausschusses vom 22.11.2016 (SB)
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "ZAIDE" Kartenkontingent für benachteiligte Menschen - <div></div>
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
