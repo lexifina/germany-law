@@ -1,0 +1,79 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2016-12-14T17:00:00+01:00
+- Ende: 2016-12-14T19:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4474
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4474
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=271930
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Neuwahl der Bezirksverordneten für den Beirat in Sozialhilfeangelegenheiten gemäß § 34 des Gesetzes über die Zuständigkeiten in der allgemeinen Berliner Verwaltung (AZG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Bildung von Ausschüssen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Konfliktsituation in der Kurfürstenstraße lösen - überwiesen
+- TOP 6.2: Stadtentwicklung und Quartiersgestaltung: Demografischen Wandel berücksichtigen - überwiesen
+- TOP 6.3: Wohnbaupotential an der Reißeckstraße - überwiesen
+- TOP 6.4: Potentialanalyse Reißeckstraße und Umgebung - überwiesen
+- TOP 6.5: Städtebauliche Entwicklung Ortskern Mariendorf - überwiesen
+- TOP 6.6: Umbenennung der Straßen im sog. "Fliegerviertel" (Neu-Tempelhof) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.7: Neue Mitte Tempelhof II - überwiesen
+- TOP 6.8: Umsetzung des Antikriegsmahnmals auf dem IKEA-Gelände - überwiesen
+- TOP 6.9: Mehr Service / Reinigungskräfte für die Kiepert-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.10: Wohnungen in Tempelhof-Schöneberg endlich von Asbest befreien! - überwiesen
+- TOP 6.11: Bedarfsplanung zur Tagesbetreuung für Kinder in Tempelhof-Schöneberg - überwiesen
+- TOP 6.12: Verstetigung einer bezirklichen Präventionskette von der Schwangerschaft bis zum Eintritt in den Beruf - überwiesen
+- TOP 6.13: Die Geltungsbereichserweiterung des Bebauungsplanes 7-84 im Bereich der Bülowstraße bis zur Straßenmitte; wobei der Titel des Bebauungsplanes unverändert weiter lautet: Bebauungsplan 7-84 für die Grundstücke zwischen Kurfürstenstraße, Potsdamer Straße, Bülow- und Frobenstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg Die Geltungsbereichsänderung des Bebauungsplanes XI-101 m im Bereich der Bülowstraße bis zur Straßenmitte; wobei der Titel des Bebauungsplanes unverändert weiter lautet... - überwiesen
+- TOP 6.14: Sicherung einer bedarfsgerechten und wohnortnahen Daseinsvorsorge für den Wohnungsneubaustandort Schöneberger Linse auf den Grundstücken Tempelhofer Weg 62-63 in 10829 Berlin, Bezirk Tempelhof-Schöneberg, OT Schöneberg (Gemarkung Schöneberg, Flur 055, Flurstücke127/5, 142, 143). - überwiesen
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Leerstand der Immobilie in Friedenau im Eckhaus Stubenrauch-/Odenwaldstraße - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Bürger*innen bei der Evaluation des Projektes BZ Maaßenstraße beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Ausweis aus dem Automaten – Bürgerämter entlasten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Betr.: Benennung einer Straße oder eines Platzes nach Georg Hermann - überwiesen
+- TOP 9.4: Änderung der Geschäftsordnung § 27 - überwiesen
+- TOP 9.5: Ampelanlagen am Breslauer Platz/Rheinstraße sehbindertengerecht ausstatten - überwiesen
+- TOP 9.6: Benennung: Am Bülowbogen - überwiesen
+- TOP 9.7: Änderung von §81 der Geschäftsordnung – Audio-Livestream - überwiesen
+- TOP 9.8: Umsetzung des Antikriegsmahnmals auf dem IKEA-Gelände - überwiesen
+- TOP 9.9: Haltestellensymbol auf dem Radweg der Haltestelle Kaisereiche - überwiesen
+- TOP 9.10: Anwohnerwünschen folgen und die unvollendete Parkraumbewirtschaftung Friedenau nach mehr als 15 Jahren zum Abschluss bringen - überwiesen
+- TOP 9.11: Änderung von §81 der Geschäftsordnung – Tonaufnahme - überwiesen
+- TOP 9.12: Sitzbank für die Selbstständigkeit von Senior*innen aufstellen - vertagt
+- TOP 9.13: Altenhilfeplanung erarbeiten – Altenhilfe koordinieren! - überwiesen
+- TOP 9.14: Voraussetzungen für einen Ganztagsbetrieb am Robert-Blum-Gymnasium - überwiesen
+- TOP 9.15: Bürgerforen in allen Ortsteilen etablieren - vertagt
+- TOP 9.16: Behindertenberatungsstelle endlich mit ausreichender Zahl an Fachkräften ausstatten - überwiesen
+- TOP 9.17: Bezirk finanziell am Wirtschaftsaufkommen gerecht beteiligen - überwiesen
+- TOP 9.18: Optimierte Verkehrsführung, hier: Ausfahrt AS Sachsendamm (von der BAB A 103 kommend) - vertagt
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: Warum werden Kinder an der Spreewald-Schule vom Mittagessen ausgeschlossen? - schriftlich beantwortet
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Vorlage zur Beschlussfassung über die Wahl von zwei neuen Schiedspersonen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Wahl des Beirates in Sozialhilfeangelegenheiten gemäß § 34 des Gesetzes über die Zuständigkeiten in der allgemeinen Berliner Verwaltung (AZG) in der Fassung vom 22. Juli 1996 (GVBl. 302, 472), zuletzt geändert durch Art. 1 Neuntes ÄndG vom 16.05.2014 (GVBl. S. 122) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: PKW-Blockade der BVG-Buslinie 106 beenden – Haltestellenbereich Suttnerstraße markieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Abstimmung mit dem FahrRat verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Neues Vereinshaus für den TSV Tempelhof-Mariendorf im Volkspark Mariendorf - überwiesen
+- TOP 13.4: Fahrradboxen für Tempelhof-Schöneberg - überwiesen
+- TOP 13.5: Kostenloses WLAN in Tempelhof-Schöneberg vorantreiben <span style="color: #888a85" title="Zusatzinfo">(Zwischenbericht)</span> - überwiesen
+- TOP 13.6: Verbesserter S-Bahn Zugang am S-Bhf. Yorckstraße und ein schöneres Stadtbild im Bereich der Yorckbrücken - überwiesen
+- TOP 13.7: Mitteleinsatz für den Bibliotheksstandort Friedenau - überwiesen
+- TOP 13.8: Machbarkeitsstudie für Radweg-Durchstiche in Mariendorf - überwiesen
+- TOP 13.9: Neubau der Gustav-Heinemann-Oberschule zwingend notwendig - überwiesen
+- TOP 13.10: Überfahrt am Alice-Salomon-Park durchgängig gestalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Ampelschaltung anpassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Aufhebung des Bezirksamtsbeschlusses vom 22. Februar 1993 (Bezirksamt Tempelhof) zur Aufstellung des Bebauungsplanes XIII-84-1 für eine Teilfläche des Grundstücks Bornhagenweg 57/57C, Pechsteinstraße 62/80E und Im Domstift 45 im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
