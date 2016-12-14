@@ -1,0 +1,121 @@
+# 21. Sitzung (Verabschiedung Haushalt 2017)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2016-12-14T17:39:00+01:00
+- Ende: 2016-12-14T22:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10138
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10138
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00398116.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP -: Beratungen zum Haushalt 2017 Reden der Vorsitzenden der Fraktionen, der Gruppe und der fraktionslosen Ratsmitglieder
+- TOP 10: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2017 - mehrheitlich beschlossen
+- TOP 11: Bürgerhaushalt 2016 - Beratung der 20 bestplatzierten Bürgervorschläge - mehrheitlich beschlossen
+- TOP 12: Digitale Stadt Münster: Einrichtung einer Stelle Breitbandkoordination - einstimmig beschlossen
+- TOP 13: Wirtschaftsplan 2017 der citeq - einstimmig beschlossen
+- TOP 14: Digitale Stadt Münster: Breitbandausbau - Städt. Schulen und weitere Verwaltungsstandorte - - einstimmig beschlossen
+- TOP 15: Fortschreibung des Bedarfsplanes für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 16: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 16.1: Neufassungen der Satzungen der Feuerwehr - einstimmig beschlossen
+- TOP 16.2: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa) - mehrheitlich beschlossen
+- TOP 16.3: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster mit der Anlage - mehrheitlich beschlossen
+- TOP 16.4: Neufassung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 16.5: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 16.6: Änderung des Gebührentarifs für Sondernutzungen - hier Baustelleneinrichtungen - an öffentlichen Straßen - mehrheitlich beschlossen
+- TOP 16.7: Neufassung des Tarifs für die Bereitstellung und Ausleihe von Absperrmaterialien des Bau- und Betriebshofs der Stadt Münster - mehrheitlich beschlossen
+- TOP 16.8: Neufassung der Entgeltordnung für die Volkshochschule der Stadt Münster - mehrheitlich beschlossen
+- TOP 16.9: Schulpsychologische Förderangebote, hier: Neufassung der Satzung und Entgeltordnung - mehrheitlich beschlossen
+- TOP 16.10: 8.Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - mehrheitlich beschlossen
+- TOP 16.11: Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik - mehrheitlich beschlossen
+- TOP 16.12: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen": Erhöhung der Entgelte für städtische Sportstätten einschließlich der Tennis- und Speckbrettplätze mit wassergebundener Decke - mehrheitlich beschlossen
+- TOP 16.13: Satzung für die Benutzung der städtischen Übergangsheime für Flüchtlinge und Obdachlose der Stadt Münster und Neufestsetzung der Benutzungsgebühren - mehrheitlich beschlossen
+- TOP 16.14: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2017 - einstimmig beschlossen
+- TOP 16.15: Abfallgebühren 2017 - einstimmig beschlossen
+- TOP 16.16: Straßenreinigungsgebühren 2017 - einstimmig beschlossen
+- TOP 16.17: Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster ab dem 01.01.2017 - mehrheitlich beschlossen
+- TOP 17: Managementkontrakte
+- TOP 17.1: Zielvereinbarung (Managementkontrakt) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - einstimmig beschlossen
+- TOP 17.2: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH) - von der Tagesordnung abgesetzt
+- TOP 17.3: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - von der Tagesordnung abgesetzt
+- TOP 17.4: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021 - von der Tagesordnung abgesetzt
+- TOP 18: Fortführung des Verkehrssicherheitsprogramms 2017 - mehrheitlich beschlossen
+- TOP 19: TIMM - Tiefbau Infrastruktur Management Münster - mehrheitlich beschlossen
+- TOP 20: Kommunale Projekte im Übergang Schule - Beruf - einstimmig beschlossen
+- TOP 21: Integrierte Jugendhilfe- und Schulentwicklungsplanung Teilprojekt Neuausrichtung Schulsozialarbeit zum Schuljahr 2017/2018 - mehrheitlich beschlossen
+- TOP 21.1: Integrierte Jugendhilfe- und Schulentwicklungsplanung Teilprojekt Neuausrichtung Schulsozialarbeit zum Schuljahr 2017/2018
+- TOP 22: Errichtung der Kindertageseinrichtung Wurzelkinder e. V. in Münster-Gievenbeck - einstimmig geändert beschlossen
+- TOP 23: Personalbedarf für die Betreuung von Geflüchteten im Jobcenter der Stadt Münster - einstimmig beschlossen
+- TOP 24: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 25: Europäische Charta zur Gleichstellung von Männern und Frauen auf lokaler Ebene Zweiter Aktionsplan 2013 - 2015, Abschlussbericht, Stand Juli 2016 - zur Kenntnis genommen
+- TOP 26: Beitritt der Stadt Münster zur d-NRW AöR - einstimmig beschlossen
+- TOP 26.1: Beitritt der Stadt Münster zur d-NRW AöR
+- TOP 27: Ordnungsbehördliche Verordnung zur Aufhebung dreier ordnungsbehördlicher Verordnungen - einstimmig beschlossen
+- TOP 28: „Modell: Münster-Integration – Unusual aspects of integration oder Die andere Blickrichtung in/für Westfalen auf Integration” hier: Modellbauprojekt „Wohnen für Alle” - einstimmig beschlossen
+- TOP 28.1: „Modell: Münster-Integration – Unusual aspects of integration oder Die andere Blickrichtung in/für Westfalen auf Integration” hier: Modellbauprojekt „Wohnen für Alle”
+- TOP 28.1.1: „Modell: Münster-Integration – Unusual aspects of integration oder Die andere Blickrichtung in/für Westfalen auf Integration” hier: Modellbauprojekt „Wohnen für Alle”
+- TOP 29: Bericht über die Beteiligungen der Stadt Münster im Jahr 2015 (Beteiligungsbericht 2015) - zur Kenntnis genommen
+- TOP 30: Aufnahme der Mark-E Aktiengesellschaft als Gesellschafter der items GmbH zum 01.01.2017 durch Kapitalerhöhung - einstimmig beschlossen
+- TOP 31: Westfälische Bauindustrie Münster GmbH: Anpassung des Gesellschaftsvertrages an kommunalrechtliche Anforderungen - einstimmig beschlossen
+- TOP 32: Vorabgewinnausschüttung auf den Bilanzgewinn 2016 der Stadtwerke Münster GmbH und Rückzahlung zu viel abgeführter Konzessionsabgabe - mehrheitlich beschlossen
+- TOP 33: Anpassung der Fahrpreise zum 1. August 2017 im neuen Westfalentarif - mehrheitlich beschlossen
+- TOP 34: Projektgesellschaft "KonvOY GmbH": Businessplan, Finanzierung und Personal - mehrheitlich beschlossen
+- TOP 34.1: Projektgesellschaft "KonvOY GmbH": Businessplan, Finanzierung und Personal
+- TOP 35: Untersuchung zum zukünftigen Betrieb der städtischen Bäder - mehrheitlich geändert beschlossen
+- TOP 35.1: Untersuchung zum zukünftigen Betrieb der städtischen Bäder
+- TOP 36: Rahmenbedingungen zum Neubau des Südbades am Standort Inselbogen - mehrheitlich geändert beschlossen
+- TOP 37: MünsterZukünfte 20 30 50 - strategisch Zukunft gestalten, kurzfristig handeln: Umsetzung der Ergebnisse der Gremienberatungen und weiteres Vorgehen - einstimmig geändert beschlossen
+- TOP 38: Gewerbeflächenentwicklungskonzept Münster - einstimmig beschlossen
+- TOP 39: Anpassung der Ortssatzung über die Entwässerung der Grundstücke - einstimmig beschlossen
+- TOP 40: Wirtschaftsplan 2017 von Münster Marketing - einstimmig beschlossen
+- TOP 41: Entwicklung der Schulstandorte - Instandsetzungs- und Sanierungsmaßnahmen sowie Investitionsbedarfe für städtische Schulen - einstimmig beschlossen
+- TOP 42: Neukonzeption der Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen, Schwerpunkte: Evaluation und ggfs. Nachsteuerung - mehrheitlich beschlossen
+- TOP 42.1: Neukonzeption der Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen, Schwerpunkte: Evaluation und ggfs. Nachsteuerung
+- TOP 43: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)" - mehrheitlich beschlossen
+- TOP 44: Überplanmäßige Mittelbereitstellung im Produktbereich 06 "Kinder-, Jugend- und Familienhilfe" - einstimmig beschlossen
+- TOP 45: Förderung Musikschularbeit (Produktgruppe 0403 Westfälische Schule für Musik und Förderung der Stadtteilmusikschulen) - einstimmig beschlossen
+- TOP 45.1: Förderung Musikschularbeit (Produktgruppe 0403 Westfälische Schule für Musik und Förderung der Stadtteilmusikschulen)
+- TOP 46: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2015 - zur Kenntnis genommen
+- TOP 47: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2017 - einstimmig beschlossen
+- TOP 48: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 49: Satzung zur Änderung der Festsetzungen des Rezesses der Interessenten der Lehmheide, Mariendorf und der Interessenten der Mauritzheide, Mauritz, Stadtbezirk Ost - einstimmig beschlossen
+- TOP 50: Beirat für Klimaschutz - Berufung neuer Mitglieder - einstimmig beschlossen
+- TOP 51: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - einstimmig beschlossen
+- TOP 52: Bauleitplanung
+- TOP 52.1: Stadtbezirk Münster-West
+- TOP 52.1.1: 22. Änderung des FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 52.1.2: Bebauungsplan Nr. 536 - Erweiterter Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 53: Bildung eines gemeinsamen Kreiswahlausschusses für die Landtagswahl am 14.05.2017,Wahl der Beisitzer und Beisitzerinnen und der stellvertretenden Beisitzer und Beisitzerinnen des Kreiswahlausschusses für die Landtagswahl am 14.05.2017 - einstimmig geändert beschlossen
+- TOP 54: Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster - mehrheitlich beschlossen
+- TOP 55: Besetzung des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 55.1: Besetzung des Beirates für Stadtgestaltung
+- TOP 56: Entsendung eines zusätzlichen Mitgliedes in den EUREGIO-Rat - einstimmig beschlossen
+- TOP 56.1: Entsendung eines zusätzlichen Mitgliedes in den EUREGIO-Rat
+- TOP 57: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 58: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 59: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 59.1: Friedensstadt Münster konkret - verwiesen
+- TOP 59.2: Zweckgebundene Verwendung freiwilliger Zuschüsse sicherstellen - verwiesen
+- TOP 59.3: Ein Haus für Helfer – Synergien nutzen und Kosten sparen - verwiesen
+- TOP 59.4: „Dauerhaft“ aus Zuschussanträgen streichen - verwiesen
+- TOP 59.5: Einheitliche Antragsformulare für die Zuschussvergabe einführen - verwiesen
+- TOP 59.6: Zuschussbericht aussagekräftig gestalten - verwiesen
+- TOP 59.7: Modern und bürgerfreundlich - Eine neue Bürgerhalle für Hiltrup - verwiesen
+- TOP 59.8: Strukturen der städtischen Gesellschaften optimieren – Neue Perspektiven für die Westfälische Bauindustrie (WBI) - verwiesen
+- TOP 59.9: Abbau prekärer Beschäftigung bei der Stadt Münster - verwiesen
+- TOP 60: Verschiedenes
