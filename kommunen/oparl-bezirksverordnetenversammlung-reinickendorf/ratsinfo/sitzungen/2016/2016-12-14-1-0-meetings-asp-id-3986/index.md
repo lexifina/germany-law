@@ -1,0 +1,94 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2016-12-14T17:00:00+01:00
+- Ende: 2016-12-14T20:25:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3986
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3986
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=233942
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.1: Gewalt ist kein Mittel der politischen Auseinandersetzung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Bildung von Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 1.3: Bauvorhaben Bettina-Brache - in der BVV zurückgezogen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfrage für die 3. Sitzung der BVV am 14.12.2016 - Bewohner und Gewerbetreibende Trettachzeile 15 - beantwortet
+- TOP 2.2: Einwohneranfrage für die 3. Sitzung der BVV am 14.12.2016 - Bebauungsplanverfahren Trettachzeile 15 - beantwortet
+- TOP 2.3: Einwohneranfrage für die 3. Sitzung der BVV am 14.12.2016 - Kindergarten "Mondschein" - beantwortet
+- TOP 2.4: Einwohneranfrage für die 3. Sitzung der BVV am 14.12.2016 - Beschlüsse Autobahnausbau A 111 - Gelände Trettachzeile 15 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 3. Sitzung der BVV am 14.12.2016 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Sportunterricht Otfried-Preußler-Grundschule - beantwortet
+- TOP 4.2: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Absage "Turmblasen" - beantwortet
+- TOP 4.3: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Baumaßnahme Oranienburger Straße - beantwortet
+- TOP 4.4: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Veranstaltungen Humboldt-Jahr - beantwortet
+- TOP 4.5: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - SIWA-Projekte - beantwortet
+- TOP 4.6: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Amazon-Verteilzentrum am Borsigturm - beantwortet
+- TOP 4.7: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Heizung Otfried-Preußler-Schule - beantwortet
+- TOP 4.8: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Bauvorhaben Bettina-Brache - beantwortet
+- TOP 4.9: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Lärmschutz Kita "Tegeler Lieblingskinder" - beantwortet
+- TOP 4.10: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Einbruch Bürgeramt Teichstraße - beantwortet
+- TOP 4.11: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Flugverkehrskonzept für Berlin - beantwortet
+- TOP 4.12: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Planungsrechtliche Grundlage "Hermsdorfer Trasse" - beantwortet
+- TOP 4.13: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Heizungsanlage Grundschule an der Peckwisch - schriftlich beantwortet
+- TOP 4.14: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Gemeinschaftsunterkunft für Geflüchtete Bernauer Straße - schriftlich beantwortet
+- TOP 4.15: Mündliche Anfrage für die 3. Sitzung der BVV am 14.12.2016 - Einladungen an die Spielplatzkommission - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Sekundarschulangebot ausbauen - überwiesen
+- TOP 5.2: Tätigkeit des Bezirksamts im Portfolio-Ausschuss des Liegenschaftsfonds / BIM - überwiesen
+- TOP 5.3: Reinickendorf nicht ohne Strandbad Tegel - überwiesen
+- TOP 5.4: Übertragung Strandbad Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Unterstützung Netzwerk "Wir in Reinickendorf" - überwiesen
+- TOP 5.6: Eigentümerwechsel Märkisches Zentrum - überwiesen
+- TOP 5.7: Trinkwasserbrunnen in öffentlichen Parkanlagen - überwiesen
+- TOP 5.8: Digitalwerkstatt - Mehr digitale Bildung für Kinder - überwiesen
+- TOP 5.9: Gegenseitige Hinweise auf S- und U-Bahn in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Ortsteilschild Lübars - überwiesen
+- TOP 5.11: Neue gleichstellungspolitische Ziele und Handlungsgrundlagen im Bereich Gender Mainstreaming/Budgeting des Bezirksamtes Reinickendorf - überwiesen
+- TOP 5.12: Auswertung der eingegangenen Anregungen bzw. Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB am Bebauungsplanverfahren 12-58 für die Egellsstraße 21 (teilweise), Biedenkopfer Straße 42, 44 und 64, Sterkrader Straße 60 und 62 sowie einen Abschnitt der verlängerten Egellsstraße im Bezirk Reinickendorf, Ortsteil Tegel. - überwiesen
+- TOP 5.13: Neubau einer Grundschule in Reinickendorf - Ost - überwiesen
+- TOP 5.14: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2015 - überwiesen
+- TOP 5.15: Offenes Rathaus - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Entgeltfreiheit für minderjährige Flüchtlinge in Musikschulen - überwiesen
+- TOP 7.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Zusätzliche Aufgaben in der Volkshochschule abfedern - überwiesen
+- TOP 7.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Straßensozialarbeit unterstützen und aktive Flüchtlings- und Integrationsarbeit in Reinickendorf stärken (als Zwischenbericht) - überwiesen
+- TOP 7.4: Bild des Monats - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Durchgänge zum Wanderweg am Herrnholzbecken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Jahresbericht der Patientenfürsprechering aus dem Vivantes Humboldt-Klinikum - Psychiatrie, Psychotherapie und Psychosomatik für das Jahr 2015 - überwiesen
+- TOP 7.7: Standort für den Neubau einer Grundschule in der Thurgauer Straße/Aroser Allee (Reinickendorf Ost) - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Situation im Reinickendorfer Standesamt - überwiesen
+- TOP 8.2: Zustand der Sanitäranlagen in Reinickendorfer Schulen - beantwortet
+- TOP 8.3: Quartier Trettachzeile / Altes Wasserwerk Tegel behutsam und kooperativ mit den Anwohnerinnen und Anwohnern entwickeln! - beantwortet
+- TOP 8.3.1: Quartier Trettachzeile / Altes Wasserwerk Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschlussfassung über die Änderungen der vorläufigen Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 19 (12) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bildung von Ausschüssen - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Gewegabsenkung für Rollstuhlfahrer in der Glienicker Straße - überwiesen
+- TOP 12.2: Präsentation der Gastgeschenke - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Entmüllung der Straße Am Nordgraben - überwiesen
+- TOP 12.4: Familienfreundliches Reinickendorf (1) – Familienbüro - überwiesen
+- TOP 12.5: Leerstand in der Residenzstraße verringern - überwiesen
+- TOP 12.6: Hilfe für Fußgänger am Hermsdorfer Damm - überwiesen
+- TOP 12.7: Keine Wildtiere im Zirkus! - überwiesen
+- TOP 12.8: Sicherheit für Fußgänger und Radfahrer am Franz-Neumann-Platz erhöhen - überwiesen
+- TOP 12.9: Lärmschutz in der Markstraße - überwiesen
+- TOP 12.10: Sachmittelvergabe im Grundschulbereich - überwiesen
+- TOP 12.11: Kurzparkzone im Frohnauer Zentrum ausweiten - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Fußgängerüberweg in der Heinsestraße - überwiesen
+- TOP 13.2: Unisex-Sanitärräume und -Umkleiden in Schwimmbädern - überwiesen
+- TOP 13.3: Barrierefreiheit am S-Bahnhof Bonhoeffer-Nervenklinik - überwiesen
+- TOP 13.4: Sichere Überquerung des Hermsdorfer Damm in Höhe der DJH "Ernst Reuter" - überwiesen
