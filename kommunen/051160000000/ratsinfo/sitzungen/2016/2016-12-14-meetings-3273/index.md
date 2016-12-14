@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2016-12-14T15:00:00+01:00
+- Ende: 2016-12-14T18:58:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3273
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3273
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 18. Sitzung des Rates am 21.09.2016 - öffentlicher Teil -
+- TOP 2: 39. ordentliche Hauptversammlung des Deutschen Städtetages 2017 - Einstimmiger Beschluss
+- TOP 3: Zehnter Nachtrag zur Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse - Einstimmiger Beschluss
+- TOP 4: Bericht zur Umsetzung des HSP zum 30.09.2016 - Kenntnisnahme
+- TOP 5: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2016 - Kenntnisnahme
+- TOP 6: Stellenplan 2017 - Zur Kenntnis genommen
+- TOP 6.1: Stellenplan 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 7: Entwurf des Haushaltes 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Anpassung von Gesellschaftsverträgen - Einstimmiger Beschluss
+- TOP 9: Änderung der Abfallgebührensatzung - Kenntnisnahme
+- TOP 9.1: Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Stadt Mönchengladbach (Abfall - Ohne Abstimmung
+- TOP 9.2: TOP 9.1 Vorlage 2049/IX : Satzung über die Erhebung von Gebühren für die Abfallentsorgung in der Sta - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 10: Änderung der Straßenreinigungs- und Gebührensatzung - Kenntnisnahme
+- TOP 11: Bildung des Kreiswahlausschusses - Einstimmiger Beschluss
+- TOP 12: Förderprogramm "Gute Schule 2020" - Mit Stimmenmehrheit beschlossen
+- TOP 12.1: Umsetzung Programm „NRW.Bank.Gute Schule 2020“ - Mit Stimmenmehrheit beschlossen
+- TOP 13: Mehrgenerationenhaus des Trägers PariSozial - Einstimmiger Beschluss
+- TOP 14: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldnerberatung " - Einstimmiger Beschluss
+- TOP 15: Leistungsvereinbarungen mit dem gemeinnützigen Verein Frauenhaus Rheydt/Frauenberatungsstelle e.V. u - Einstimmiger Beschluss
+- TOP 16: Leistungsvereinbarung mit dem Arbeitslosenzentrum - Einstimmiger Beschluss
+- TOP 16.1: Leistungsvereinbarung mit dem Arbeitslosenzentrum Mönchengladbach e.V. (1985/IX); hier: Weiterentwic - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 17: Präventionsprojekt HOME - Hilfe und Orientierung für Mönchengladbacher Eltern - Projektverlängerung - Einstimmiger Beschluss
+- TOP 18: Betreuungsplätze in LENA-Gruppen für Kinder unter 3 Jahren - Einstimmiger Beschluss
+- TOP 19: Leistungsvereinbarung pro familia - Einstimmiger Beschluss
+- TOP 20: Leistungsvereinbarung Frauenberatungsstelle - Einstimmiger Beschluss
+- TOP 21: LV Selbsthilfegruppen - Einstimmiger Beschluss
+- TOP 22: Verlängerung der Leistungsvereinbarungen - Einstimmiger Beschluss
+- TOP 23: 22. NT Kanalbenutzungsgebührensatzung und 9. NT Klärschlammbeseitigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 24: Satzung Zweite Verlängerung Veränderungssperre Steinsstraße - Einstimmiger Beschluss
+- TOP 25: Satzung Zweite Verlängerung Veränderungssperre Am Nordpark - Einstimmiger Beschluss
+- TOP 26: Satzung Zweite Verlängerung Veränderungssperre City Ost - Einstimmiger Beschluss
+- TOP 27: Tagebaufolgelandschaft Garzweiler - Mit Stimmenmehrheit beschlossen
+- TOP 27.1: Änderungsantrag zur Beratungsvorlage Nr. 1990/IX (Tagebaufolgelandschaft Garzweiler - Weitergehende - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Besetzung von Ausschüssen-Vertretungsregelung - Einstimmiger Beschluss
+- TOP 29: Entwurf des Haushaltes 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des Haushaltssanie - Mit Stimmenmehrheit beschlossen
+- TOP 30: Entwurf des Haushaltes 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des Haushaltssanie - Mit Stimmenmehrheit beschlossen
+- TOP 31: Entwurf des Haushaltes 2017; Haushaltssatzung einschl. Anlagen und Fortschreibung des Haushaltssanie - Mit Stimmenmehrheit beschlossen
+- TOP 32: Webcams - Mit Stimmenmehrheit beschlossen
+- TOP 33: Beitritt der Stadt Mönchengladbach zur Innovationsregion Rheinisches Revier - Mit Stimmenmehrheit beschlossen
+- TOP 34: Organisationseinheit Wachstumscontrolling - Mit Stimmenmehrheit beschlossen
+- TOP 35: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 36: Vorlage 1923/IX Nahverkehrsplan: Ziele in Qualität - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Besetzung von Ausschüssen - Vertretungsreihenfolge - Einstimmiger Beschluss
+- TOP 38: Umbesetzung "Härtefallkommission" - Einstimmiger Beschluss
+- TOP 39: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 40: Umbesetzung Hauptausschuss - Einstimmiger Beschluss
+- TOP 41: Anfragen und Mitteilungen
+- TOP 41.1: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zu Augaben der Stadt für den Radverkehr
+- TOP 41.2: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zur Versendung von Sitzungsunterlagen
+- TOP 41.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zum Bereich nördlich der Steinsstraße, zwischen der Bahnstraße und der Duvenstraße (B 59n)
+- TOP 41.4: Anfrage RH Schultz (DIE LINKE) zu Anfragen in Rat und Ausshüssen
+- TOP 41.5: Anfrage RH Eibenberger (CDU) zu Anrechnungsquoten bei Flüchtlingen
+- TOP 41.6: Anfrage RF Brombeis (Bündnis 90/Die Grünen) zu Personalausweisgebühren
