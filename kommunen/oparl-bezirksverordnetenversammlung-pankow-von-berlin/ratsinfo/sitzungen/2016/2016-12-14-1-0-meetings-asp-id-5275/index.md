@@ -1,0 +1,55 @@
+# 3. ordentlichen Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2016-12-14T17:30:00+01:00
+- Ende: 2016-12-14T21:00:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5275
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5275
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=135690
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Übergriffe in Pankow - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Bezirksstadtrates - in der BVV abgelehnt
+- TOP 1.9: Wahl des Beisitzers - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.12: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Wahl von Mitgliedern des Kuratoriums der Seniorenstiftung Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Wahl der Bürgerdeputierten sowie der stellvertretenden Bürgerdeputierten für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.15: Aufhebung der verbindlichen Erläuterung im Haushaltsjahr 2017 im Kapitel 3630/42723 - überwiesen
+- TOP 1.16: Durchsetzung der Parkordnung im Pölnitzweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Verkehrsberuhigung im Areal Parkstraße/ Elfenallee/ Eddastraße/ Chamissostraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Vorstellung der Bürgerdeputierten - überwiesen
+- TOP 1.19: Änderung des Bebauungsplan IV 2a - überwiesen
+- TOP 1.20: Sicherheit auf dem und Nutzbarkeit des Spielplatz(es) an der Schäferstege erhöhen - überwiesen
+- TOP 1.21: Freihaltung einer Straßenbahntrasse Michelangelostraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Mikrofonanlage BVV-Saal - überwiesen
+- TOP 1.23: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Straße/ BAB A114 sowie Bucher Straße / Pankgrafenstraße - überwiesen
+- TOP 1.24: Sowjetisches Ehrenmal in die Liste historischer Orte aufnehmen! - überwiesen
+- TOP 1.25: Beleuchtungssituation an der und um die Königsteinbrücke verbessern - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Fahrradstraßen für Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Keine teuren und unsozialen Sanierungsmaßnahmen der kommunalen GEWOBAG im Milieuschutzgebiet Kollwitzplatz! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3.1: Knaackstraße 60-68 – keine Verdrängung! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Vorgaben für die weitere Entwicklung des Güterbahnhofs Greifswalder Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Müllsammelbehälter in der Hermann-Blankenstein-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Kino Toni & Tonino langfristig sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Benennung des Vorsitzenden des Kuratoriums der „Seniorenstiftung Prenzlauer Berg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Benennung eines Mitgliedes für den Vorstand der Albert Schweitzer Stif-tung – Wohnen & Betreuen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Bestellung von Mitgliedern des Bezirksamts Pankow von Berlin für das Heimkuratorium „Seniorenwohnen am Schloßpark“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Benennung bezirklicher Mitglieder der Trägerversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Bestellung von Mitgliedern im Verwaltungsrat des Eigenbetriebes „Kindergärten NordOst“ - mit Abschlussbericht zur Kenntnis genommen
