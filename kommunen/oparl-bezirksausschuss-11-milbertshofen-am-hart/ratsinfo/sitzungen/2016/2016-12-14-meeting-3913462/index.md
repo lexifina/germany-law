@@ -1,0 +1,90 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2016-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3913462
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3913462
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3: (E) Zeitnahe Abstimmung über Anträge nach deren Vortrag BV-Empfehlung Nr. 14-20 / E 1095 der Bürgerversammlung des Stadtbezirkes 11 vom 21.07.2016 Zeitnahe Bearbeitung von BV-Empfehlungen BV-Empfehlung Nr. 14-20 / E 11112 der Bürgerversammlung des Stadtbezirkes 11 vom 21.07.2016 - <div></div>
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Berichte der Polizei und aus dem Stadtrat
+- TOP 3: Vorstellung der GWG zum aktuellen Planungsstand Spielwiese Frankfurter Ring
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 4.1.: Sofortiger Wiederaufbau der Fußball-Tore auf dem Bolzplatz an der Schmalkaldener Straße/ Frankfurter Ring
+- TOP 4.2.: Ausstattung des Spielplatzes hinter der Grundschule Hildegard-von-Bingen-Anger mit neuen Spielgeräten
+- TOP 4.3.: Spielplatz am Grünstreifen zwischen der Josef-Ressel-Straße und der Permanederstraße
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 4.1.: Sicherer Schulweg zur Grundschule am Hildegard-von-Bingen-Anger
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: (E) Budget der Bezirksausschüsse Elternbeirat der städt. Balthasar-Neumann-Realschule Projekt ?Ökolandbau? im Schuljahr 2016/2017 ab 18.11.2016
+- TOP 6.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Hildegard von Bingen Anger Besuch vom Nikolaus am 06.12.2016
+- TOP 6.3.: (E) Budget der Bezirksausschüsse TSV München-Milbertshofen e.V. Weihnachtsfeier KinderSportSchule am 21.12.2016
+- TOP 6.4.: (E) Budget der Bezirksausschüsse TSV München-Milbertshofen e.V. Weihnachtsfeier Handball-Jugend am 18.12.2016
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Errichtung eines Stadtteilzentrums mit Begegnungszentrum und Kulturtreff Empfehlung Nr. 14-20 / E 01105 der Bürgerversammlung des Stadtbezirkes 11 ? Milbertshofen-Am Hart am 21.07.2016 - <div></div>
+- TOP 2: (E) Polizeipräsenz und Geschwindigkeitskontrollen mit wechselnden Standorten in der Ingolstädter Straße - <div></div>
+- TOP 3.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 11 Milbertshofen-Am Hart Umstufung einer Teilstrecke der Wegenerstraße - <div></div>
+- TOP 3.5.: Zumutbares Verhältnis von gefördertem und freifinanziertem Wohnraum durch die GWG schaffen - <div></div>
+- TOP 7: Anträge
+- TOP 8.8.2: Bau/Umwelt
+- TOP 7.1.: Mehr Grün in der Stadt und besonders im Gebiet des BA 11
+- TOP 7.2.: Spielplatzkonzept im BA 11
+- TOP 7.3.: Attraktivität der Sportmöglichkeiten steigern und hier besonders am SBZ
+- TOP 7.1.: Fahrbahnmarkierung - Querung Lauchstätterstraße + Taunusstr.
+- TOP 8: Anhörungen
+- TOP 8.1.: Bewilligungsverlängerung der Zuwendung für den Kulturverein Wendes - M bis zum 31.01.2017 - Begründung: Verschiebung des Konzerts auf den 08.01.2017
+- TOP 8.1.: Anhörungsrecht für Planungen im Bereich ?Wohnen für Alle?
+- TOP 8.2.: Vollzug der BaumschutzVO: Josef-Ressel-Str. 15, Gemarkung Milbertshofen, Fl.Nr. 189/14 - Neubau eines D-Hauses mit Garagen (hier: Haus 1) - AZ: 602-1.2-2016-22381-41
+- TOP 8.3.: Planfeststellung Eisenbahnnordring - Elektronischen Stellwerk M-Milbertshofen/-Freimann (Vertagungsfall aus der BA-Sitzung v. 11/16)
+- TOP 8.4.: Verlegung der Polizeihubschrauberstaffel Bayern - Verkehrsflughafen München -> Hubschraubersonderlandeplatz Oberschleißheim
+- TOP 8.5.: Vollzug der BaumschutzVO: Kaadener Str. 9, Gemarkung Milbertshofen, Fl.Nr. 163/15 - Neubau eines Mehrfamilienhauses mit Garagen
+- TOP 8.1.: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen im Stadtbezirk (Bewerbungsschluss 17.02.17)
+- TOP 8.2.: Veranstaltung "Wings for Life World Run 2017" am 07.05.2017 - Olympiapark (Rückmeldefrist bis 24.03.2017)
+- TOP 8.1.: Lieberweg 28, Seite Reichertstorfferweg: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr a) Mobilspiel e.V. b) Ev. Hilfswerk München c) VdK - Ortsverband Milbertshofen im Kreisverband München
+- TOP 9.2.: Unterrichtung über die Fortführung eines Gaststättenbetriebes a) Cafe-Bar-Lounge -Nietzschestr. 11 b) Café Treff Bar - Wenzelstr. 2
+- TOP 9.3.: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020
+- TOP 9.4.: MünchnerStiftungsFrühling - Nutzungsgenehmigung Vorplatz Eingang Nord der BMW-Welt
+- TOP 9.1.: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms - Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015-2019 - im Finanzhaushalt 2017 - Erfahrungsbericht
+- TOP 9.2.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Fortschreibung des Grundsatzbeschlusses vom 23.11.2005 b) Anträge ba) E-Mobilität: Handlungsfeld 8 ? Laden und Parken bb) Mehr Ökologie für das ?2000-Stellplätze-Programm? bc) Prioritätensetzung bei der Verwendung von Stellplatzablösemitteln
+- TOP 9.3.: Aktion Saubere Stadt - Wiederholung der Kampagne für ?Rein. Und Sauber?, das städt. Servicetelefon gg. Vermüllung
+- TOP 9.4.: Regionale Kooperationen stärken (II) - A. Folgeprojekte Regionale Wohnungsbaukonferenzen B. Finanzierungsbeschluss für regionale Projekte (Einrichtung einer Pauschale für Regionale Kooperationsprojekte) C. Anträge und Empfehlungen - Sozial geförderter Wohnungsbau einvernehmlich mit dem Umland Münchens - Großraum München braucht Bautätigkeit in den Umlandgemeinden
+- TOP 9.5.: Toiletten in öffentlichen Grünanlagen
+- TOP 9.6.: Bericht zur Wohnungssituation in München 2014-2015
+- TOP 9.7.: Energienutzungsplan - nachhaltige und vorausschauende Energieplanung für München
+- TOP 9.8.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 ? 2021 Änderung des Mehrjahresinvestitionsprogramm 2016 ? 2020 ? Finanzierung -
+- TOP 9.9.: Leben im Alter Wohnen 2 - Wohnungsgrundrisse für veränderbare Wohnungsgrößen
+- TOP 9.10.: Veränderungen im Baurecht aufgrund der Beschleunigung der Asylverfahren
+- TOP 9.11.: Neuberufung des Heimatpflegers der LHSt. München und seines Stellvertreters
+- TOP 9.12.: PERSPEKTIVE MÜNCHEN Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung
+- TOP 9.13.: Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen! XII Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern
+- TOP 9.14.: Mehrjahresinvestitionsprogramm 2016 -2020 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016 - 2020 Infrastrukturversorgungskonzept 2016 - 2020
+- TOP 9.15.: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 9.16.: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 Gliederungsziffern 3601 Natur - und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 9.17.: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebietung
+- TOP 9.18.: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 9.19.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 9.1.: Bedarfsermittlung zur pflegerischen Versorgung in der LHSt. München und Sechster Marktbericht Pflege des Sozialreferats Bau einer Wohn- und Pflegeeinrichtung für Senioren
+- TOP 9.2.: Mehrjahresinvestitionsprogramm (MIP) 2016 - 2020 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 9.3.: Aktualisierte Liste + Karte der Standorte für Flüchtlinge und Wohnungslose
+- TOP 9.4.: Suche nach Atelierhaus für Künstlerinnen und Künstler
+- TOP 9.1.: Verkehrsrechtliche Anordnung nach § 45 StVO a) Nietzschestr. 5 - Zeichen 283 StVO b) Frauenstädtstr. - Umwandlung eingeschränktes Haltverbot: Nordseite zw. Lichtmast 2 - Einmündung Ricarda-Huch-Str. - in ein absolutes Haltverbot
+- TOP 9.2.: Fa Knorr-Bremse AG: Herstellung öffentl. Verkehrsflächen im Christl-Marie-Schultes-Weg (vorgesehen: Beendigung Bauarbeiten im Sommer 2017)
+- TOP 10: Sonstiges
