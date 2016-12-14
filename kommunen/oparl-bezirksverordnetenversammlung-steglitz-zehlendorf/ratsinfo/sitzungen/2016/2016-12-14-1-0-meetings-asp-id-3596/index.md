@@ -1,0 +1,85 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2016-12-14T17:00:00+01:00
+- Ende: 2016-12-14T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3596
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3596
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Wann wird Steglitz-Zehlendorf Fairtrade-Town? - beantwortet
+- TOP 3.2: Akute Verkehrssicherheitsmaßnahmen an der Gutzmann-/Leo-Baeck-Straße - beantwortet
+- TOP 3.3: Islamischer Kulturverein oder Moschee in Steglitz-Zehlendorf? - beantwortet
+- TOP 3.4: Bürgerinnenbeteiligung am Bebauungsplan 6/30 (Lichterfelde-Süd) - beantwortet
+- TOP 3.5: Wohnungsbau auf dem Gelände des ehemaligen Güterbahnhofs in Zehlendorf - beantwortet
+- TOP 3.6: Absinken des Wasserstandes im Naturteich des Parkes "Vierling" - beantwortet
+- TOP 3.7: Unerlaubte Werbung an Autos - schriftlich beantwortet
+- TOP 3.8: 80. Gedenktag der Bombardierung von Gernika in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.9: Benachrichtigung zur Abholung von Personaldokumenten - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Wahlen - gewählt
+- TOP 7.1: Vorlagen zur Beschlussfassung - gewählt
+- TOP 7.1.1: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Haushaltsangelegenheiten - erledigt
+- TOP 8.1: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 8.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2015 - überwiesen
+- TOP 8.1.2: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2015 - überwiesen
+- TOP 9: Große Anfragen - beantwortet
+- TOP 9.1: Läuft alles rund beim Volksentscheid Offenhaltung TXL? - beantwortet
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Versetzung des Ernst-Reuter-Denkmals innerhalb des Rathauses Zehlendorf - überwiesen
+- TOP 10.2: Weltkulturerbe "Landschaftspark Glienicke" in einer Hand zusammenführen - überwiesen
+- TOP 10.3: Arbeitsgruppe zur Modernisierung der BVV-Arbeit - überwiesen
+- TOP 10.4: E-Government Pilotbezirk Steglitz-Zehlendorf - überwiesen
+- TOP 10.5: Fahrstuhl am S-Bahnhof Zehlendorf schnellstmöglich in Betrieb nehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Fahrraderlaubnis Lilienthalpark - überwiesen
+- TOP 10.7: RB 33 nach Steglitz verlängern - überwiesen
+- TOP 10.8: Bildung von Ausschüssen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Ausweis-/Dokumentenprüfgeräte - überwiesen
+- TOP 10.10: Dialogdisplay im Lichterfelder Ring aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Stammbahn und Fahrradschnellweg - überwiesen
+- TOP 10.12: Konzeptentwicklung Gewerbe- und Industriegebiet Goerzallee - überwiesen
+- TOP 10.13: Bänke vor dem Forum Zehlendorf wieder herrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Illegale Nutzung des "Platz des 4. Juli" kurzfristig unterbinden - überwiesen
+- TOP 10.15: Willkommenszentrum für Steglitz-Zehlendorf - überwiesen
+- TOP 10.16: Begrenztes Halte- und Parkverbot in der Scheelestraße einrichten - überwiesen
+- TOP 10.17: Keine großflächige Entsiegelung des "Platz des 4. Juli" - überwiesen
+- TOP 10.18: Gehwegsicherung in der Königstraße - überwiesen
+- TOP 10.19: Ein Seniorensportplatz für Lichterfelde-Süd! - überwiesen
+- TOP 10.20: Beseitigung Altkleidersammel-Container ohne Sondernutzungserlaubnis - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Mehr Sitzbänke in Lichterfelde-Süd! - überwiesen
+- TOP 10.22: Flüchtlingsunterkünfte Leonorenstraße - überwiesen
+- TOP 10.23: Keine "Laubbläser" in Steglitz-Zehlendorf - überwiesen
+- TOP 10.24: Kreuzungen Grunewaldstraße/Schloßstraße und Albrechtstraße/Düppelstraße - überwiesen
+- TOP 10.25: Tempo 30 vor der Kita "Kiddies International" - überwiesen
+- TOP 10.26: Licht auf dem Parkplatz S-Bahnhof Sundgauer Straße - überwiesen
+- TOP 10.27: Zusammensetzung eines neuen Beirates für Menschen mit Behinderung im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 10.28: Ausbau des Baseballplatzes - Sportplatz Sachtlebenstraße - überwiesen
+- TOP 10.29: Endlich Platzbenennung nach Richard Draemert - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.30: Steglitz-Zehlendorf soll endlich Fairtrade-Town werden - überwiesen
+- TOP 10.31: Sonderausschuss "Entwicklung und Pflege des Grunewald-Seengebietes" einsetzen - überwiesen
+- TOP 10.32: Gedenk-Stele zur Erinnerung an die Erfassung und Verfolgung der Sinti und Roma durch die „Rassenhygienische und Erbbiologische Forschungsstelle“ des Reichgesundheitsamts 1935 bis 1945 - überwiesen
+- TOP 10.33: Prüfung der Gehwege auf Eignung für die maschinelle Winterreinigung - überwiesen
+- TOP 10.34: Umsetzung des Präventionsgesetzes im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 10.35: Sicheres Fahrradfahren am Kranoldplatz - überwiesen
+- TOP 10.36: Infrastruktur Stadpark Steglitz - überwiesen
+- TOP 10.37: Beidseitige Beleuchtung in der Lange Straße in Lichterfelde - überwiesen
+- TOP 10.38: Maßnahmen zur Sicherheit auf dem S-Bahnhof Schlachtensee gefordert - überwiesen
+- TOP 10.39: Endlich ein sauberer Bahnhofsvorplatz am U-Bahnhof Oskar-Helene-Heim - überwiesen
+- TOP 10.40: Verlängerte Betriebszeiten der Buslinie 318 vom S-Bahnhof Wannsee zum Hahn-Meitner-Platz - überwiesen
+- TOP 10.41: Zebrastreifen über den Ahlener Weg - überwiesen
+- TOP 11: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 11.1: Auswirkungen der Wahlen zum Abgeordnetenhaus auf den Widerspruchsbeirat in Sozialhilfeangelegenheiten - überwiesen
+- TOP 12: Vorlagen zur Kenntnisnahme - beantwortet
+- TOP 12.1: Qualitätsanspruch und Qualitätssicherung - Anspruch an eine professionelle Servicekultur im Bezirksamt Steglitz-Zehlendorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Informationsanspruch der Bürger bei der Entscheidung, den Sportplatz an der Lissabonallee 6 mit Tempohomes für Flüchtlinge zu bebauen - zur Kenntnis genommen (Beratungsfolge beendet)
