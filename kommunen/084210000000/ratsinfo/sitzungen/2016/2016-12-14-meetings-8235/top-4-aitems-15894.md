@@ -1,0 +1,7 @@
+# TOP 4: Wiederbesetzung der Stelle "Leitung der Hauptabteilung Verkehrsplanung und Straßenbau, Grünflächen, Vermessung"
+
+- Sitzung: Sitzung des Gemeinderats (2016-12-14)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/15894
+- Ergebnis: abgesetzt
