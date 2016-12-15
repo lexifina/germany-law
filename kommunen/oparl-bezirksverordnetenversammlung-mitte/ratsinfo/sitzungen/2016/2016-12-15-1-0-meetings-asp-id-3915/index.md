@@ -1,0 +1,110 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2016-12-15T17:40:00+01:00
+- Ende: 2016-12-15T21:30:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3915
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3915
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=135701
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=136029
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Zurück in die Zukunft - in und mit Mitte? Zukunftskongress "Staat und Verwaltung" - beantwortet
+- TOP 5.2: Was wird aus dem Parkcafé Rehberge? - beantwortet
+- TOP 5.3: Mangelnde Unterbringung anerkannter Asylbewerber - Turnhallen weiterhin belegt - beantwortet
+- TOP 5.4: Berlin braucht Tegel - beantwortet
+- TOP 5.5: Sitzen die BewohnerInnen des Obdachlosenheims Alt-Moabit 105 Ende des Jahres 2016 auf der Straße? - beantwortet
+- TOP 5.6: Himmelbeet Status - schriftlich beantwortet
+- TOP 5.7: Finanzierung der Kinderkunstwerkstatt Seepferdchen e.V. - schriftlich beantwortet
+- TOP 5.8: Außerschulische Bildungsorte in Mitte - schriftlich beantwortet
+- TOP 5.9: Aktivität des Bezirksamtes in den Sozialen Medien - schriftlich beantwortet
+- TOP 5.10: Was lange währt, wird endlich gut?: Wann kommt endlich die dritte Stelle in der bezirklichen Wirtschaftsförderung? - schriftlich beantwortet
+- TOP 5.11: Petriplatz - schriftlich beantwortet
+- TOP 5.12: Bau(m)maßnahmen am Wikingerufer - schriftlich beantwortet
+- TOP 5.13: Stand zur Drucksache 2742/IV (Verkehrsbelastung in Wohngebieten des nördlichen Moabits reduzieren) - schriftlich beantwortet
+- TOP 5.14: Sperrung des Gehweges an der Turmstraße zwischen Stromstraße und Lübecker Straße - mit Änderungen in der BVV beschlossen
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Gerichtshöfe und die Umbenennung der GESOBAU in „Gesellschaft-So-wie-wir`s-wollen-wird`s-gemacht-Bauvertreibung“ - beantwortet
+- TOP 6.2: Rechtliche Begründung der Sicherungsmaßnahmen für den Weg des ehemaligen Betreibers durch das Gelände der ehemaligen "Weddinger Kinderfarm" - erledigt
+- TOP 6.3: Tennishalle in der Köpenicker Str. 125 – Nutzung durch bauordnungsrechtliche Mängel gefährdet?! - erledigt
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Spielhallenentwicklung in Berlin Mitte - Erfolgt nunmehr der ersehnte Rückgang? - beantwortet
+- TOP 7.2: Personalentwicklung im Bezirk - Wo steht der Bezirk? - beantwortet
+- TOP 7.3: Bau(m)maßnahmen am Wikingerufer - beantwortet
+- TOP 7.4: Kein Weihnachtsbaum in Mittes Rathäusern? - schriftlich beantwortet
+- TOP 7.5: Grüne Mitte - schriftlich beantwortet
+- TOP 7.6: Turnhallen in Mitte wieder für den Schul- und Vereinssport nutzen - schriftlich beantwortet
+- TOP 7.7: Notunterkunft Levetzowstr. 3-5 - schriftlich beantwortet
+- TOP 7.8: Kautionen für Wahlplakate - schriftlich beantwortet
+- TOP 7.9: Schäden an der "Gleimoase" in der Gleimstraße im Rahmen von Baumaßnahmen - schriftlich beantwortet
+- TOP 7.10: Home-Sharing - schriftlich beantwortet
+- TOP 7.11: Eine (un)endliche Geschichte: Sanierung Wikingerufer - schriftlich beantwortet
+- TOP 7.12: Jugendverkehrsschule Bremer Straße - schriftlich beantwortet
+- TOP 7.13: Rattenfreies Spielen in Mitte - schriftlich beantwortet
+- TOP 7.14: Uferweg am Wikingerufer - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Sitzungskalender für das Jahr 2017 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: B12 – Menschenunwürdige Zustände beenden! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schließung der NUK Pankstrasse – Keine Folgeunterbringung in Hallen oder Hangars! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Wahl von Bürgerdeputierten und Stellvertretern - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Benennung von Bezirksverordneten für den JHA - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Das Bezirksamt darf den tradtionellen Berliner Firefighter Stairrun nicht abfackeln - überwiesen
+- TOP 11.6: Verlässlichkeit für das Straßenkunstfestival „Berlin lacht“ auf dem Alexanderplatz - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Änderung Geschäftsordnung der BVV Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Alkoholverbot am Leopoldplatz - überwiesen
+- TOP 12.3: Gefährdungsbeurteilung - GBU "Physische und psychische Belastung am Arbeitsplatz in der Bezirksverwaltung" - überwiesen
+- TOP 12.4: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Änderung der Geschäftsordnung der BVV Mitte - überwiesen
+- TOP 12.6: Alt Moabit zwischen Kleinem Tiergarten Spree-Bogen/McFit sicher überqueren - überwiesen
+- TOP 12.7: Fahrradbügel für die Alte Jacobstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Eltern politisches Ehrenamt ermöglichen - für eine Kinderbetreuung während der Sitzung der Bezirksverordnetenversammlung - überwiesen
+- TOP 12.9: Kein Alkohol ist auch keine Lösung - überwiesen
+- TOP 12.10: Besetzung des JHA - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Mitte-Bürgeramt: kundenorientiert und digital - überwiesen
+- TOP 12.12: Fahrradbügel für die Gartenstraße/Stadtbad Mitte - überwiesen
+- TOP 12.13: Eine Zukunft für alle auf dem Leopoldplatz - überwiesen
+- TOP 12.14: Erhalt des Projektbüros mit Siebdruckwerkstatt des Kulturring in Berlin e.V. in der Köpenicker Straße - überwiesen
+- TOP 12.15: Gewerbliche Wohnraum-Zweckentfremdung ahnden, modernes Wohnen und Home-Sharing unterstützen - überwiesen
+- TOP 12.16: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Fläche für Urban Gardening Umfeld Tucholsky-/Torstraße - überwiesen
+- TOP 12.18: Drogenhilfe für die Heinrich-Heine-Straße - überwiesen
+- TOP 12.19: Information und Veröffentlichung von Gutachten - V. Legislaturperiode - in der BVV zurückgezogen
+- TOP 12.20: Barrierefreien Poststandort in Moabit West erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Palais am Festungsgraben - ein guter Ort für die Vereinten Nationen und für öffentliche Nutzungen im Zentrum Berlins - überwiesen
+- TOP 12.22: Anwohnerparkplätze für die Fischerinsel - überwiesen
+- TOP 12.23: Jungen Eltern politisches Ehrenamt ermöglichen - Kinderbetreuung während der BVV-Sitzungen anbieten - in der BVV zurückgezogen
+- TOP 12.24: Ein neuer Anlauf für das "Leitsystem" in der Friedrichstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Bestandsaufnahme der Akteur*innen und Projekte der entwicklungspolitischen Zusammenarbeit im Bezirk Mitte - überwiesen
+- TOP 12.26: Sicher spielen: Spielplatz-"Ausbrüche" vermeiden - überwiesen
+- TOP 12.27: Kleinklassen gegen Schuldistanz - überwiesen
+- TOP 12.28: Straßennamenerläuterungsschild zur Karl-Heinrich-Ulrichs-Straße in Mitte - in der BVV zurückgezogen
+- TOP 12.29: Finanzierung der externen Begleitung des Projektes "Schülerhaushalt" sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: WBM-Bebauungsplanungen hinter Ifflandstraße 1-4: Anwohner*innen in Planungsdiskussion einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Fußgängerüberweg Ungarnstraße 75 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Besseres Willkommen für die Verwaltungsakademie an der Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Überprüfung von Verträgen und Vergaben durch das Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Eigentümerinformationen Milieuschutz nachvollziehbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Beschluss des aktualisierten Integrierten Stadtentwicklungskonzeptes 2016 (ISEK 2016) zur Stadtumbau West Förderkulisse Mitte/Tiergarten – Nordring/Heidestraße im Bezirk Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: die Neukonstituierung des Beirates für Migration, Inklusion und Partizipation - Migrationsbeirat - beim Bezirksamt Mitte von Berlin für die Wahlperiode 2016-2021 - mit Abschlussbericht zur Kenntnis genommen
