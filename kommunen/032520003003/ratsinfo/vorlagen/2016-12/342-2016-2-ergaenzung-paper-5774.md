@@ -1,0 +1,21 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2017 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2017
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 342/2016 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2016-12-15
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfNT9op0oeqY080YYHDRcwk
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/5774
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2017 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2017) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ9O5G64qiLY4U9UJBLp8GnBzA2pdjcjbA6q-TPmDkFZ/Beschlussvorlage_342-2016_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJo2z31jiamvuxt8Iq6ciZB4VVuqtpPNFvLqo6DeoO8/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaBi8bVQlmoPWsi-8a85M-mtkz_5ImyhaZSgDIH5E4q7/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSgdsqrQWMXIWDJMlS7E6jqv8oAu9YlcArZyvppxmB_-/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRJl7yGk48GUD1BJuRXpLSU_LphE45tX6ASOCwmvzLq-/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWrbb8Vds3cIJF0VS2algixk6DsvCTdRKOUm1A4q5mRG/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZU_slSqu2OrsVC8kMTw6cIEftJvtpY9JwQmCjthTbvh/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQXJnUchIpkzG7i3P2UfWC4Nlt7-OX3TdAHeO405-2c6/Anlage_zur_Beschlussvorlage_342-2016.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 342/2016 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYWpK8zVsIpzhdhDsmM1bIOCb9VfvoopyFlfdDhQ1f50/Anlage_zur_Beschlussvorlage_342-2016_2._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16057 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16024 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
