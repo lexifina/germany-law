@@ -1,0 +1,71 @@
+# 33. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-12-15T13:45:00+01:00
+- Ende: 2016-12-16T22:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4947
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4947
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2016_12_15/16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00279312.pdf
+- Wortprotokoll: Nachtrag_SR_2016_12_15/16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00279993.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - 1 Runde
+- TOP 3.1: Berufliche Schulzentrum für Wirtschaft "Franz-Ludwig-Gehe" - erledigt
+- TOP 3.2: Ausweichstraße Laubegast-Tolkewitz - erledigt
+- TOP 3.3: Überprüfung der Arbeit der Versammlungsbehörde - erledigt
+- TOP 3.4: Nutzung der Schwimmhallen durch Schwimmvereine - erledigt
+- TOP 3.5: Narrenhäusel - Umsetzung Stadtratsbeschluss - erledigt
+- TOP 3.6: Albertstraße – Querungsmöglichkeit und Neueinrichtung Radwege - erledigt
+- TOP 3.7: Sicherheitsstandards auf Bolzplätzen - erledigt
+- TOP 4: Umbesetzung in den Ortsbeiräten
+- TOP 4.1: Umbesetzung im Ortsbeirat Leuben - Vertagung durch Einreicher
+- TOP 4.2: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 4.3: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ausschuss
+- TOP 5.1: Umbesetzung Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Aufsichtsräte
+- TOP 6.1: Aufsichtsrates Zoo Dresden GmbH - Einigung
+- TOP 6.2: Aufsichtsrat der STESAD GmbH - Vertagung durch Einreicher
+- TOP 7: Bestimmung von Mitgliedern für die Aufsichtsräte der EnergieVerbund Dresden GmbH, der DREWAG - Stadtwerke Dresden GmbH, der ENSO Energie Sachsen Ost AG - Zustimmung
+- TOP 8: Umbesetzung in der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - Zustimmung
+- TOP 9: Neubesetzung (Vorsitzender) des Umlegungsausschusses - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Verweisung der Stadtratssitzung vom 3. November 2016
+- TOP 11.1: Richtlinie der Landeshauptstadt Dresden über die Gewährung einmaliger Zuschüsse für Um- und Ausbau von Atelier-, Arbeits- und Probenräumen freischaffender Künstlerinnen und Künstler - Zustimmung mit Änderung
+- TOP 12: Vertagungen der letzten Stadtratssitzung vom 24. November 2016
+- TOP 12.1: Bebauungsplan Nr. 110.6, Dresden-Mickten Nr. 7, Wohnbebauung Sternstraße - Vertagung durch Einreicher
+- TOP 12.2: Verkauf eines Grundstückes in Dresden-Neustadt - Zustimmung mit Ergänzung
+- TOP 12.3: Ausverkauf stoppen – Grundstücke der Landeshauptstadt für Sozialraumplanung und Wohnungsbau sichern! - Ablehnung
+- TOP 12.4: Nutzungsänderung zur Unterbringung von Asylbewerberinnen und Asylbewerbern in Unterbringung von unbegleiteten ausländischen Minderjährigen (uaM) - Zustimmung mit Ergänzung
+- TOP 12.5: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 12.6: Planungsrahmen der Kinder- und Jugendhilfe in Dresden - Zustimmung mit Änderung
+- TOP 12.7: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 12.8: Mehrjährige Förderung freier Träger - punktweise Zustimmung mit Änderung
+- TOP 12.9: Fernbuslinien von Dresden nach Berlin erhalten - Haltestelle Neustädter Bahnhof für alle Linien sichern - Zustimmung mit Änderung
+- TOP 13: Weitere Veranschlagung der mit der Umsetzung der Maßnahmen verbundenen Einnahmen und Ausgaben in den Produktbereichen 71 - 76, Besondere Schadensereignisse, Finanzierung der Hochwasserschadensbeseitigung 2013 auf Grundlage der Bewilligung 30.06.2016 - Zustimmung
+- TOP 14: Betrauung der Dresdner Verkehrsbetriebe AG (DVB) mit öffentlichen Personenverkehrsdiensten in der Landeshauptstadt Dresden - Zustimmung
+- TOP 15: Abschluss einer Kontrollvereinbarung mit dem Landkreis Meißen - Zustimmung
+- TOP 16: Beitritt der Landeshauptstadt Dresden, Regiebetrieb Zentrale Technische Dienstleistungen (ZTD), zur Gütegemeinschaft Kompost Sachsen-Thüringen e. V. - Zustimmung
+- TOP 17: Satzung zur Änderung der Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 18: Erklärung der Landeshauptstadt Dresden nach § 27 Abs. 22 Satz 3 Umsatzsteuergesetz - Zustimmung
+- TOP 19: Satzung der Landeshauptstadt Dresden über die Feuerwehr (Feuerwehrsatzung) - Zustimmung mit Ergänzung
+- TOP 20: Neufassung der Rettungsdienstentgeltsatzung der Landeshauptstadt Dresden ab 1. Januar 2017 - Zustimmung
+- TOP 21: Bibliotheksentwicklungsplan 2017 bis 2019 - Zustimmung mit Ergänzung
+- TOP 22: Erhöhung der Kapitaleinlage in die Kommunale Immobilien Dresden GmbH & Co. KG - Zustimmung
+- TOP 23: Erlass der Satzung der Landeshauptstadt Dresden für die Unterbringung von leistungsberechtigten Personen - Zustimmung
+- TOP 24: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) vom 2. Juni 2016 - Zustimmung
+- TOP 25: Aufnahme des Hortes am Schulstandort Aktive Schule Dresden, Leipziger Straße 33 in 01097 Dresden in den Bedarfsplan der Landeshauptstadt Dresden - Zustimmung
+- TOP 26: Rahmenplan Nr. 791, Südvorstadt Dresden: Bildung und Stadt im Dialog - Zustimmung
+- TOP 27: Beteiligung am Projektaufruf „Förderung von Investitionen in nationale Projekte des Städtebaus“ - Zustimmung mit Ergänzung
+- TOP 28: Zweckgebundene Verwendung der QAD-Restmittel für Leistungsberechtigte nach SGB II - Zustimmung
+- TOP 29: Sondernutzung für Grünflächengestaltung durch Private - Zustimmung mit Änderung
+- TOP -: ausgereichte Informationsvorlagen
+- TOP -: Beteiligungsbericht 2015 der Landeshauptstadt Dresden - erledigt
+- TOP 33: Doppelhaushalt 2017/2018 – Mittelumverteilung zugunsten der Förderung zusätzlicher Maßnahmen der Tourismusförderung und Unterstützung der Bewerbung als Kulturhauptstadt auf Grundlage der Beschlussfassung zur V1334/16 - Ersetzung
