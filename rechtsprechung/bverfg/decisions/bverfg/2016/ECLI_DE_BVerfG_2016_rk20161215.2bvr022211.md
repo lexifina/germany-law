@@ -1,0 +1,680 @@
+---
+ecli: "ECLI:DE:BVerfG:2016:rk20161215.2bvr022211"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 222/11"
+decided: "2016-12-15"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 15. Dezember 2016\n- 2 BvR 222/11 -, Rn. 1-57,\n                    https://www.bverfg.de/e/rk20161215_2bvr022211"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rk20161215_2bvr022211.html"
+corpus_doc_id: "BVerfG_2016-12-15_K_2_BvR_0222_11_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0053.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093c.md", "germany/bund/acts/bverfgg/0095.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/100.md", "germany/bund/acts/grundgesetz/artikel/101.md", "germany/bund/acts/lfgb/0002.md", "germany/bund/acts/lfgb/0004.md", "germany/bund/acts/lfgb/0006.md", "germany/bund/acts/lfgb/0007.md", "germany/bund/acts/lfgb/0068.md", "germany/bund/acts/uwg_2004/0004.md", "germany/bund/acts/uwg_2004/0008.md", "germany/bund/acts/zpo/0148.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 222/11 vom 2016-12-15
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvR 222/11 -
+
+
+
+
+                            IM NAMEN DES VOLKES
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+
+der Firma D… GmbH,
+vertreten durch ihren Geschäftsführer Dr. G…,
+
+- Bevollmächtigte:   Krohn Rechtsanwälte,
+                     Esplanade 41, 20354 Hamburg -
+
+gegen     das Urteil des Bundesgerichtshofs vom 15. Juli 2010 - I ZR 99/09 -
+
+hat die 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                 den Richter Huber
+
+                                 und die Richterinnen Kessal-Wulf,
+
+                                 König
+
+am 15. Dezember 2016 einstimmig beschlossen:
+
+        Das Urteil des Bundesgerichtshofs vom 15. Juli 2010 - I ZR 99/09 - verletzt die Beschwerdeführerin in ihrem grundrechtsgleichen Recht aus
+        Artikel 101 Absatz 1 Satz 2 des Grundgesetzes.
+
+        Das Urteil wird aufgehoben.
+
+        Die Sache wird an den Bundesgerichtshof zurückverwiesen.
+
+        Die Bundesrepublik Deutschland hat der Beschwerdeführerin ihre notwendigen Auslagen zu erstatten.
+
+                                   Gründe:
+ Die Verfassungsbeschwerde betrifft die Frage, ob der Bundesgerichtshof der Beschwerdeführerin dadurch den gesetzlichen Richter entzogen hat, dass er Auslegung
+und Reichweite der in Art. 14 Abs. 9 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemei-
+
+
+
+                                         1/19
+
+nen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur
+Lebensmittelsicherheit (ABl EG L 31 vom 1. Februar 2002, S. 1) (Verordnung <EG>
+Nr. 178/2002, hier: Lebensmittel-Basis-VO) enthaltenen Verweisung auf das nationale Recht nicht dem Gerichtshof der Europäischen Union vorgelegt hat.
+
+                                          I.
+ 1. Die Beschwerdeführerin produziert und vertreibt in Deutschland Nahrungsergänzungsmittel. Sie ist der Auffassung, dass die Herstellung und das Inverkehrbringen
+von Nahrungsergänzungsmitteln mit den Stoffen Glucosaminsulfat und Chondroitinsulfat in Deutschland unzulässig sei, weil die Stoffe nicht zugelassene Lebensmittelzusatzstoffe seien und ein Inverkehrbringen von Nahrungsergänzungsmitteln mit diesen Stoffen gegen § 6 Abs. 1 in Verbindung mit § 2 Abs. 3 Satz 2 Nr. 1, § 4 Abs. 1 Nr.
+2 LFGB verstoße.
+
+  2. Vor diesem Hintergrund ging die Beschwerdeführerin auf der Grundlage von § 6        3
+Abs. 1 in Verbindung mit § 2 Abs. 3 Satz 2 Nr. 1 LFGB und § 3, § 4 Nr. 11, § 8 Abs. 1
+UWG a.F. in zwei Parallelverfahren gerichtlich gegen zwei Konkurrenzunternehmen,
+die W… GmbH & Co. KG (2 BvR 222/11) und die Q… GmbH & Co. KG (2 BvR 221/
+11), vor, die jeweils Nahrungsergänzungsmittel mit Glucosaminsulfat und Chondroitinsulfat ohne entsprechende Zulassung ausschließlich in Deutschland produzieren
+und vertreiben.
+
+ 3. Mit Urteil vom 26. Juni 2008 hat das Landgericht Hamburg die Klage gegen die         4
+W… GmbH & Co. KG abgewiesen (315 O 792/07). Dabei ist das Landgericht davon
+ausgegangen, dass die Voraussetzungen der § 6 Abs. 1 Nr. 1 Buchstabe a, § 2 Abs.
+3 Satz 2 Nr. 1 LFGB nicht vorlägen. Glucosamin- und Chondroitinsulfat seien in dem
+streitgegenständlichen Produkt keine Lebensmittelzusatzstoffen gleichgestellten
+Stoffe, sondern charakteristische Zutat des Nahrungsergänzungsmittels.
+
+  4. Die gegen diese Entscheidung eingelegte Berufung hat das Hanseatische Oberlandesgericht mit Urteil vom 11. Juni 2009 zurückgewiesen (3 U 125/08). Auch das
+Hanseatische Oberlandesgericht ging davon aus, dass der Beschwerdeführerin kein
+Unterlassungsanspruch nach § 8 Abs. 1, § 3, § 4 Nr. 11 UWG a.F. in Verbindung mit
+§ 6 Abs. 1 Nr. 1 Buchstabe a und Nr. 2 LFGB zustehe. Glucosamin- und Chondroitinsulfat seien zwar Lebensmittelzusatzstoffe im Sinne von § 6 Abs. 1 Nr. 1 Buchstabe a
+und Nr. 2 LFGB. Die beklagte Wettbewerberin handle jedoch dadurch, dass sie Nahrungsergänzungsmittel in den Verkehr bringe, denen Glucosamin- und Chondroitinsulfat in pharmakologisch nicht wirksamen Dosen zugesetzt seien, allein wegen der
+fehlenden Zulassung dieser Stoffe nicht unlauter im Sinne von § 3, § 4 Nr. 11 UWG
+a.F. Das Bundesinstitut für Risikobewertung sei zu dem Ergebnis gekommen, dass
+die verfügbaren Daten nicht darauf hindeuteten, dass die Stoffe bei gesunden und
+nicht schwangeren Erwachsenen ernst zu nehmende gesundheitliche Risiken mit
+sich brächten. Damit sei den allgemeinen Anforderungen an die Lebensmittelsicherheit gemäß Art. 14 Abs. 1 und Abs. 2 Buchstabe a Lebensmittel-Basis-VO Genüge
+
+
+                                         2/19
+
+getan. Zwar beantworte die Risikobewertung durch das Bundesinstitut für Risikobewertung die Frage der Zulassungspflicht der Stoffe nach deutschem Recht nicht;
+auch hätten die Vorschriften der § 6 Abs. 1 Nr. 1 Buchstabe a und Nr. 2, § 4 Abs.
+1 Nr. 2, § 2 Abs. 3 Satz 2 Nr. 1 LFGB eine marktverhaltensregelnde Bedeutung. Im
+zu entscheidenden Fall gehe es aber nur darum, ob sich derjenige unlauter verhalte,
+dessen Produkte zwar den materiellen Anforderungen des unmittelbar geltenden europäischen Verordnungsrechts genügten, aber ohne Zulassung in Verkehr gebracht
+würden. Für die Entscheidung komme es daher auch nicht darauf an, ob das nationale Recht, das nur auf den Tatbestand der Zulassung abstelle, mit Sekundärrecht
+vereinbar sei. Ob mit der Lebensmittel-Basis-VO im Bereich der Lebensmittelsicherheit eine Vollharmonisierung bezweckt und schon erreicht sei, die dem nationalen
+Gesetzgeber keinen Spielraum mehr lasse, wenigstens für eine Übergangszeit die
+Verwendung von den Zusatzstoffen gleichgestellten Stoffen generell von einer Zulassung abhängig zu machen, sei eine Frage der Auslegung der Lebensmittel-Basis-VO. Wenn es für die Entscheidung darauf ankäme, ob die Voraussetzungen eines
+Verbots nach nationalem Recht vorlägen, müsste der Senat die Frage der Sperrwirkung der Lebensmittel-Basis-VO gegenüber einer generell-abstrakten Zulassungspflicht für gleichgestellte Stoffe dem Europäischen Gerichtshof vorlegen. Das sei
+aber nicht der Fall.
+
+  5. In der Revision rügte die Beschwerdeführerin unter anderem, dass das Berufungsgericht die Vereinbarkeit der nationalen Verbotsnorm mit dem Sekundärrecht
+zwar für nicht entscheidungserheblich erklärt habe, im Ergebnis jedoch zu einem jedenfalls lauterkeitsrechtlich bedeutsamen Anwendungsvorrang der Lebensmittel-Basis-VO vor dem Verbot mit Erlaubnisvorbehalt gemäß den § 2 Abs. 3 Satz 2 Nr. 1,
+§ 4 Abs. 1 Nr. 2, § 6 Abs. 1 Nr. 1 Buchstabe a und Nr. 2, § 7 Abs. 1 Nr. 1 und Nr. 2 LF-GB gelangt sei. Dies halte revisionsrechtlicher Nachprüfung nicht stand, weil ernährungsphysiologische Lebensmittelzusätze bislang noch nicht vollständig harmonisiert
+seien. Die Regelungskompetenz des deutschen Gesetzgebers im hier in Rede stehenden Bereich der gleichgestellten Stoffe werde durch die Lebensmittel-Basis-VO
+nicht eingeschränkt. Art. 14 Lebensmittel-Basis-VO lege lediglich fest, dass Lebensmittel, die nicht sicher seien, nicht in den Verkehr gebracht werden dürften. Dies sei
+nur als Mindeststandard zu verstehen. Es laufe daher grundsätzlich nicht dem Gemeinschafts- beziehungsweise Unionsrecht zuwider, dass ein Mitgliedstaat verbiete,
+Lebensmittel ohne vorherige Genehmigung in den Verkehr zu bringen, wenn ihnen
+Nährstoffe wie zum Beispiel andere als die durch die gemeinschafts- beziehungsweise unionsrechtliche Regelung als Zusatz zugelassenen Vitamine und Mineralstoffe
+hinzugefügt worden seien (unter Verweis auf EuGH, Urteil vom 5. März 2009, Kommission/Spanien - C-88/07 -, Slg. 2009, I-1353, Rn. 86, 87). In seiner
+„Knoblauchkapsel-Entscheidung“ (EuGH, Urteil vom 15. November 2007, Kommission/Deutschland - C-319/05 -, Slg. 2007, I-9811, Rn. 84) habe der Europäische Gerichtshof sogar mit Blick auf die Lebensmittel-Basis-VO ausdrücklich festgestellt,
+dass Art. 14 Abs. 9 dieser Verordnung die einzelstaatlichen Bestimmungen unberührt
+lasse, die in Ermangelung besonderer gemeinschafts- beziehungsweise unionsrecht-
+
+
+                                          3/19
+
+licher Vorgaben gälten. Solange durch spezifische Vorschriften des Gemeinschaftsbeziehungsweise Unionsrechts keine Harmonisierung der Lebensmittelzusatzstoffen
+gleichgestellten Stoffe erfolgt sei, stehe es den Mitgliedstaaten frei, auf nationaler
+Ebene weitere geeignete Handlungsinstrumente zur Gewährleistung des Gesundheitsschutzes einzurichten. In dem hier in Rede stehenden Bereich der gleichgestellten Stoffe seien die Bestimmungen der Lebensmittel-Basis-VO daher nicht einschlägig. Vielmehr komme es insoweit allein auf die einschlägigen Vorschriften des
+Lebensmittel- und Futtermittelgesetzbuchs an. Auf das Verhältnis zwischen der europäischen Lebensmittel-Basis-VO und dem Lebensmittel- und Futtermittelgesetzbuch
+komme es im vorliegenden Fall schließlich deshalb nicht an, weil er keinen Bezug
+zum grenzüberschreitenden Handel in der Europäischen Union aufweise.
+
+ 6. Der Bundesgerichtshof hat die Revision mit Urteil vom 15. Juli 2010 zurückgewiesen (I ZR 99/09). Zur Begründung hat er ausgeführt, das Berufungsgericht habe im
+Ergebnis zu Recht angenommen, dass der auf § 8 Abs. 1 Satz 1 und Abs. 3 Nr. 1, §
+3, § 4 Nr. 11 UWG a.F. in Verbindung mit § 6 Abs. 1 Nr. 2 in Verbindung mit Nr. 1
+Buchstabe a, § 2 Abs. 3 Satz 1 und Satz 2 Nr. 1, § 4 Abs. 1 Nr. 2 LFGB gestützte Klageanspruch nicht bestehe, weil die insoweit einschlägigen lebensmittelrechtlichen
+Bestimmungen im Hinblick auf das vorrangig anzuwendende Gemeinschafts- beziehungsweise Unionsrecht ein Verbot nicht rechtfertigten.
+
+  a) Zwar habe das Berufungsgericht nicht berücksichtigt, dass die Regelung in           8
+Art. 14 Lebensmittel-Basis-VO als allgemeine Bestimmung über die Anforderungen
+an die Lebensmittelsicherheit lediglich einen Mindeststandard festlege. Dies folge
+insbesondere aus der ansonsten nicht verständlichen Regelung in Art. 14 Abs. 9
+Lebensmittel-Basis-VO. Es habe im Ergebnis jedoch zutreffend angenommen, dass
+die nationalen Bestimmungen, die die Verwendung von Zusatzstoffen, die Lebensmitteln aus anderen als technologischen Gründen zugegeben würden, beschränkten,
+im Streitfall im Hinblick auf die vorrangig anzuwendende Regelung in Art. 14
+Lebensmittel-Basis-VO nicht anwendbar seien.
+
+ aa) Die Anwendung nationaler Bestimmungen zur Lebensmittelsicherheit stehe gemäß Art. 14 Abs. 9 Lebensmittel-Basis-VO unter dem Vorbehalt, dass diese mit dem
+Primärrecht, insbesondere mit Art. 34, Art. 36 AEUV, in Einklang stünden. Dies sei
+beim Lebensmittel- und Futtermittelgesetzbuch nicht der Fall, da der genannte Vorbehalt - anders als die Revision meine - nicht auf grenzüberschreitende Sachverhalte
+beschränkt sei. Andernfalls stellte die Wendung in Art. 14 Abs. 9 Lebensmittel-Basis-VO „sofern diese Bestimmungen unbeschadet des Vertrags, insbesondere der Artikel
+28 und 30 (nun: Art. 34, 36 AEUV), erlassen und angewandt werden“ einen überflüssigen und allenfalls klarstellenden Hinweis auf das höherrangige Primärrecht dar. Vor
+allem aber würde die Bestimmung in dieser Auslegung den in Art. 1 Abs. 2 UAbs. 1
+Lebensmittel-Basis-VO bestimmten Zweck verfehlen, auf denjenigen Teilgebieten
+des Lebensmittelrechts, auf denen spezifische Bestimmungen der Union fehlen, die
+allgemeinen Grundsätze für Lebensmittel im Allgemeinen und für die Lebensmittelsicherheit im Besonderen nicht nur auf der Ebene der Union, sondern auch auf einzel-
+
+
+                                         4/19
+
+staatlicher Ebene festzulegen.
+
+  bb) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union laufe es           10
+dem Gemeinschafts- beziehungsweise Unionsrecht allerdings grundsätzlich nicht zuwider, dass ein Mitgliedstaat verbiete, Lebensmittel ohne vorherige Genehmigung in
+den Verkehr zu bringen, wenn ihnen andere Nährstoffe hinzugefügt worden seien als
+die unionsrechtlich zugelassenen Vitamine oder Mineralstoffe (unter Verweis auf
+EuGH, Urteil vom 5. März 2009, Kommission/Spanien - C-88/07 -, Slg. 2009, I-1353,
+Rn. 87; EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich - C-333/08 -, Slg.
+2010, I-757, Rn. 80, jeweils m.w.N.). Im Hinblick auf den Grundsatz der Verhältnismäßigkeit müsse eine solche Regelung jedoch ein leicht zugängliches und innerhalb
+eines angemessenen Zeitraums abzuschließendes Verfahren vorsehen, das es den
+Wirtschaftsteilnehmern ermögliche, die Aufnahme des Nährstoffs in die nationale Liste der zugelassenen Stoffe zu erreichen (unter Verweis auf EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich - C-333/08 -, Slg. 2010, I-757, Rn. 81 m.w.N.).
+Dabei dürfe der Aufnahmeantrag nur dann abgelehnt werden, wenn eine eingehende
+Einzelfallprüfung, bei der die neuesten wissenschaftlichen Erkenntnisse berücksichtigt würden, ergebe, dass der Stoff tatsächlich ein Risiko für die Gesundheit der Bevölkerung berge (unter Verweis auf EuGH, Urteil vom 5. März 2009, Kommission/
+Spanien - C-88/07 -, Slg. 2009, I-1353, Rn. 93 f.; EuGH, Urteil vom 28. Januar 2010,
+Kommission/Frankreich - C-333/08 -, Slg. 2010, I-757, Rn. 82, jeweils m.w.N.). Zudem müsse eine ablehnende Entscheidung einer gerichtlichen Überprüfung unterliegen (unter Verweis auf EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich -
+C-333/08 -, Slg. 2010, I-757, Rn. 81 m.w.N.).
+
+  Die für die Zulassung von aus anderen als technologischen Gründen verwendeten          11
+Lebensmittel-Zusatzstoffen einschlägigen Bestimmungen des deutschen Lebensmittelrechts entsprächen diesen Anforderungen nicht. Für diese Stoffe gelte grundsätzlich weiterhin die Zusatzstoff-Zulassungsverordnung vom 22. Dezember 1981. Nach
+ihr seien Glucosamin- und Chondroitinsulfat weder allgemein noch für bestimmte Lebensmittel oder bestimmte Verwendungszwecke zugelassen. Ein Dispens von dem
+in § 6 Abs. 1 Nr. 2 in Verbindung mit Nr. 1 Buchstabe a LFGB geregelten generellen
+Verbot scheide aus, weil das zuständige Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (§ 4 Abs. 3 LFGB) von der in § 7 Abs. 1 Nr. 2 LFGB
+enthaltenen Verordnungsermächtigung keinen Gebrauch gemacht habe. Eine Ausnahmegenehmigung nach § 68 LFGB könne dagegen nur erteilt werden, wenn die
+Voraussetzungen eines der in § 68 Abs. 2 Nr. 1 bis Nr. 5 LFGB abschließend aufgeführten Erteilungsgründe erfüllt seien. Das sei hier nicht der Fall.
+
+ b) Das Urteil vom 15. Juli 2010 wurde der Beschwerdeführerin am 31. Dezember            12
+2010 zugestellt und enthält folgenden Leitsatz: Die Anwendung nationaler Bestimmungen zur Lebensmittelsicherheit - hier: Verbote für Stoffe, die den Lebensmittel-Zusatzstoffen nach § 2 Abs. 3 Satz 2 LFGB gleichgestellt sind - steht, sofern spezifische Bestimmungen der Gemeinschaft fehlen, auch bei nicht grenzüberschreitenden
+Lebenssachverhalten unter dem Vorbehalt, dass sie den Erfordernissen entspre-
+
+
+                                         5/19
+
+chen, die sich für Reglementierungen des Warenverkehrs bei grenzüberschreitenden
+Lebenssachverhalten aus dem primären Unionsrecht, insbesondere aus Art. 34 und
+Art. 36 AEUV, ergeben.
+
+                                         II.
+ 1. Mit ihrer am 31. Januar 2011 vorab per Telefax, am 1. Februar 2011 im Original      13
+eingegangenen Verfassungsbeschwerde rügt die Beschwerdeführerin eine Verletzung ihrer Rechte aus Art. 101 Abs. 1 Satz 2 und Art. 3 Abs. 1 GG durch das Urteil
+des Bundesgerichtshofs vom 15. Juli 2010.
+
+ a) Das angegriffene Urteil verstoße wegen der Nichtvorlage an den Gerichtshof der      14
+Europäischen Union und wegen Fehlens einer Auseinandersetzung mit der Vorlagepflicht gemäß Art. 267 Abs. 3 AEUV gegen Art. 101 Abs. 1 Satz 2 GG.
+
+  aa) Der Bundesgerichtshof habe mit seiner Entscheidung mit äußerst knapper Begründung den jahrzehntelang geltenden Grundsatz aus der Rechtsprechung des Gerichtshofs der Europäischen Union, wonach die Vorschriften zur Warenverkehrsfreiheit im Primärrecht einer reinen Inländerdiskriminierung nicht entgegenstehen,
+beendet. Die angegriffene Entscheidung lasse schon nicht erkennen, dass sich der
+Senat hinsichtlich der Reichweite von Art. 14 Abs. 9 Lebensmittel-Basis-VO ausreichend kundig gemacht und eine Vorlage an den Europäischen Gerichtshof überhaupt
+in Erwägung gezogen habe, obwohl er dazu nicht nur aufgrund der Revisionsbegründung und der später zur Vorbereitung der Revisionsverhandlung vorgelegten Urteile
+des Verwaltungsgerichts Hamburg (VG Hamburg, Urteil vom 19. Januar 2010 - 4 K
+2003/08 -, LMuR 2010, S. 96) und des Landgerichts Hamburg (LG Hamburg, Urteil
+vom 16. März 2010 - 312 O 300/09 -, LMuR 2010, S. 89) Anlass gehabt hätte. Zudem
+habe das Berufungsgericht ausdrücklich festgestellt, dass die Frage des Vorrangs
+von Art. 14 Lebensmittel-Basis-VO vor § 6 Abs. 1 in Verbindung mit § 2 Abs. 3 Satz 2
+Nr. 1 LFGB im Fall der Entscheidungserheblichkeit dem Gerichtshof vorzulegen wäre.
+
+  bb) Mit seiner Auslegung von Art. 14 Abs. 9 Lebensmittel-Basis-VO stelle sich der     16
+Bundesgerichtshof gegen die etablierte Rechtsprechung des Europäischen Gerichtshofs. Entgegen dessen bisheriger Rechtsprechung nehme er an, dass Art. 34, Art. 36
+AEUV auch für Inlandssachverhalte gälten. Die vom Bundesgerichtshof zitierten Entscheidungen des Gerichtshofs beträfen jedoch ausschließlich Fälle, in denen für Lebensmittel aus anderen Mitgliedstaaten kein vereinfachtes Zulassungsverfahren vorgesehen gewesen sei. Die Auslegung von Art. 14 Abs. 9 Lebensmittel-Basis-VO
+durch den Bundesgerichtshof widerspreche zudem der Auslegung in der
+„Knoblauchkapsel-Entscheidung“ des Gerichtshofs (EuGH, Urteil vom 15. November
+2007, Kommission/Deutschland - C-319/05 -, Slg. 2007, I-9811). In seinem Urteil vom
+12. Juli 2005 (Alliance for Natural Health u.a. - C-154/04 und C-155/04 -, Slg. 2005,
+I-6451) habe dieser im Hinblick auf eine mit Art. 14 Abs. 9 Lebensmittel-Basis-VO
+vergleichbare Regelung deutlich gemacht, dass für nationale Regelungen die Vorgaben von Art. 34, Art. 36 AEUV nur bei grenzüberschreitenden Sachverhalten zu be-
+
+
+                                         6/19
+
+achten seien.
+
+  cc) Selbst wenn man davon ausginge, dass es überhaupt keine ergiebige Rechtsprechung des Gerichtshofs in Bezug auf die Auslegung von Art. 14 Abs. 9
+Lebensmittel-Basis-VO gebe, habe der Bundesgerichtshof seinen nach der Rechtsprechung des Bundesverfassungsgerichts bestehenden Beurteilungsspielraum in
+unvertretbarer Weise überschritten. Er sei willkürlich davon ausgegangen, dass es
+sich bei Art. 14 Abs. 9 Lebensmittel-Basis-VO um einen „acte clair“ handle und habe
+dabei übersehen, dass es eine zumindest vertretbare - und in dem Verfahren sowie
+in der Praxis auch ganz überwiegend vertretene - alternative Auslegung gebe. Das
+habe der Bundesgerichtshof selbst anerkannt. Auch nach der Kommentierung von
+Meyer/Streinz zu Art. 14 Lebensmittel-Basis-VO erschöpfe sich der Regelungsgehalt
+der Vorschrift ganz offensichtlich in der Regelung grenzüberschreitender Sachverhalte. Das lasse sich auch den Erwägungsgründen 26 und 27 entnehmen. Schließlich
+seien die Leitlinien des Ständigen Ausschusses für die Lebensmittelkette und Tiergesundheit der Europäischen Union für die Anwendung der Art. 11, Art. 12, Art. 14, Art.
+17, Art. 18, Art. 19 und Art. 20 Lebensmittel-Basis-VO ein weiteres Indiz dafür, dass
+Art. 14 Abs. 9 Lebensmittel-Basis-VO nicht die Reichweite habe, die ihm der Bundesgerichtshof beigemessen habe.
+
+  b) Auch wenn man Art. 14 Abs. 9 Lebensmittel-Basis-VO als Bezugsnorm für die          18
+Überprüfung durch das Bundesverfassungsgericht nehme, werde deutlich, dass der
+Bundesgerichtshof seinen Beurteilungsspielraum bei der Auslegung der Vorschrift in
+unvertretbarer Weise überschritten habe. Die von ihm angegebene Begründung sei
+mit Blick auf den Wortlaut der Vorschrift, die Systematik des EU-Lebensmittelrechts
+und die Rechtsprechung des Gerichtshofs unvertretbar. Klarstellende Hinweise sehe
+der europäische Gesetzgeber vielfach vor, beispielsweise in Art. 11 Abs. 2 der Richtlinie 2002/46/EG, Art. 17 Abs. 3 der Verordnung (EG) Nr. 1925/2006, Art. 6 der Verordnung (EG) Nr. 1935/2004 oder Art. 3 Abs. 2 der Richtlinie 2001/95/EG. Zudem
+müsse Art. 14 Abs. 9 Lebensmittel-Basis-VO im Zusammenhang mit Absatz 7 gesehen werden. Dass die EU-Organe Hinweise auf die Geltung von Art. 34, Art. 36
+AEUV bei grenzüberschreitenden Sachverhalten weiterhin für notwendig hielten, ergebe sich auch aus dem Bericht der Kommission an den Rat und das Europäische
+Parlament über die Verwendung anderer Stoffe als Vitamine und Mineralstoffe in
+Nahrungsergänzungsmitteln vom 5. Dezember 2008. Mit der Annahme, Art. 14 Abs.
+9 Lebensmittel-Basis-VO würde, wenn er auf grenzüberschreitende Sachverhalte beschränkt würde, den in Art. 1 Abs. 2 UAbs. 1 der Verordnung bestimmten Zweck verfehlen, widerspreche sich der Bundesgerichtshof im Ergebnis selbst. Denn er habe
+festgestellt, dass Art. 14 Lebensmittel-Basis-VO nur einen Mindeststandard an Lebensmittelsicherheit festlege, so dass sich dann auch der Zweck der Verordnung auf
+die Gewährleistung dieses Mindeststandards beschränke. Daher sei es nicht ausgeschlossen, dass in einzelnen Mitgliedstaaten ein höherer Standard vorgeschrieben
+werde. Vor diesem Hintergrund könne Art. 14 Abs. 9 Lebensmittel-Basis-VO allein
+grenzüberschreitende Sachverhalte erfassen. Schließlich zeigten auch Art. 11 und
+
+
+
+                                         7/19
+
+Art. 12 der Verordnung (EG) Nr. 1925/2006, dass der Verordnungsgeber mit Blick auf
+sonstige Stoffe wie das hier betroffene Glucosamin- und Chondroitinsulfat von einer
+nationalen Regelungskompetenz ausgehe, die nur bei grenzüberschreitenden Sachverhalten von Art. 34, Art. 36 AEUV beeinflusst werde.
+
+  2. Das Bundesministerium der Justiz und für Verbraucherschutz, das Bundesministerium für Ernährung und Landwirtschaft sowie die Beklagte des Ausgangsverfahrens erhielten Gelegenheit zur Äußerung. Die Akten des Ausgangsverfahrens wurden beigezogen.
+
+ a) Die Bundesregierung hat von einer Stellungnahme abgesehen.                             20
+
+ b) Die Beklagte des Ausgangsverfahrens ist der Auffassung, dass die Sache einer           21
+Vorlage an den Europäischen Gerichtshof nicht bedurft habe. Die Verfassungsbeschwerde sei daher unbegründet, das Recht auf den gesetzlichen Richter aus Art.
+101 Abs. 1 Satz 2 GG nicht verletzt.
+
+  Der Bundesgerichtshof habe sich hinsichtlich des europäischen Rechts ausreichend kundig gemacht und die maßgebliche Rechtsprechung des Europäischen Gerichtshofs erkennbar gesichtet und ausgewertet. Er habe sich mit der Frage der Vorlagepflicht auseinandergesetzt und in diesem Zusammenhang die vom Gerichtshof
+bereits im Verfahren C-333/08 entwickelten Maßstäbe herausgearbeitet und auf den
+Streitfall angewandt. § 2 Abs. 3 Satz 2 Nr. 1 LFGB sei eine Maßnahme gleicher Wirkung im Sinne des Art. 34 AEUV, da sie den freien Warenverkehr innerhalb der Gemeinschaft unmittelbar oder mittelbar, tatsächlich oder potentiell beeinträchtigen könne, und müsse sich daher auch an den vom Gerichtshof entwickelten
+Rechtfertigungsanforderungen messen lassen. Dabei könne es keine Rolle spielen,
+dass der streitige Sachverhalt ein rein innerstaatlicher sei, denn § 2 Abs. 3 Satz 2 Nr.
+1 LFGB gelte für inländische und ausländische Hersteller gleichermaßen. Insoweit
+habe § 2 Abs. 3 Satz 2 Nr. 1 LFGB auch bei nicht grenzüberschreitenden Sachverhalten durchaus potentielle Auswirkungen auf die Warenverkehrsfreiheit, weshalb die
+Vorschrift an den Maßstäben der Art. 34, Art. 36 AEUV zu messen sei.
+
+                                          III.
+  Die Verfassungsbeschwerde ist zur Entscheidung anzunehmen, weil dies zur                 23
+Durchsetzung des grundrechtsgleichen Rechts der Beschwerdeführerin aus Art. 101
+Abs. 1 Satz 2 GG angezeigt ist (§ 93a Abs. 2 Buchstabe b BVerfGG). Der Verfassungsbeschwerde ist durch die Kammer stattzugeben, da die maßgeblichen verfassungsrechtlichen Fragen durch das Bundesverfassungsgericht bereits entschieden
+sind und die zulässige Verfassungsbeschwerde offensichtlich begründet ist (§ 93b
+Satz 1 i.V.m. § 93c Abs. 1 Satz 1 BVerfGG). Das angegriffene Urteil des Bundesgerichtshofs verletzt das grundrechtsgleiche Recht der Beschwerdeführerin aus Art.
+101 Abs. 1 Satz 2 GG.
+
+ Der Bundesgerichtshof hat in der angegriffenen Entscheidung vom 15. Juli 2010 -           24
+anders als die Vorinstanz - nicht nur die Regelungen der § 8 Abs. 1 in Verbindung mit
+
+
+                                          8/19
+
+§ 3 Abs. 1, § 4 Nr. 11 UWG a.F. und dabei insbesondere den Begriff der „Unlauterkeit“ geschäftlicher Handlungen unter Zugrundelegung einer aus Art. 14 Abs. 1 und
+Abs. 2 Buchstabe a Lebensmittel-Basis-VO entnommenen Wertung ausgelegt. Er ist
+dem Berufungsurteil des Hanseatischen Oberlandesgerichts Hamburg ausdrücklich
+nur im Ergebnis, nicht aber in den Gründen gefolgt und hat - allgemein und nicht nur
+unter dem Aspekt der Lauterkeit eines geschäftlichen Verhaltens - seine Entscheidung unmittelbar auf Art. 14 Abs. 9 Lebensmittel-Basis-VO und dessen Anwendungsvorrang vor dem nationalen Lebensmittelrecht gestützt (vgl. Stallberg, LMuR 2011, S.
+1 <3>). Der Leitsatz der Entscheidung deutet sogar darauf hin, dass er das Verhältnis zwischen nationalen Bestimmungen zur Lebensmittelsicherheit und Regelungen
+des Primärrechts grundsätzlich, das heißt, nicht nur im Verhältnis zu Art. 14 Abs. 9
+Lebensmittel-Basis-VO, klären wollte.
+
+  1. Der Gerichtshof der Europäischen Union ist gesetzlicher Richter im Sinne des         25
+Art. 101 Abs. 1 Satz 2 GG (vgl. BVerfGE 73, 339 <366>; 75, 223 <233 f.>; 82, 159
+<192>; 126, 286 <315>; 128, 157 <186 f.>; 129, 78 <105>; 135, 155 <230 Rn. 177>).
+Unter den Voraussetzungen des Art. 267 Abs. 3 AEUV sind die Fachgerichte daher
+von Amts wegen gehalten, den Gerichtshof anzurufen (vgl. BVerfGE 82, 159 <192
+f.>; 128, 157 <187>; 129, 78 <105>; stRspr). Kommt ein deutsches Gericht seiner
+Pflicht zur Anrufung des Gerichtshofs im Wege des Vorabentscheidungsverfahrens
+nicht nach, kann dem Rechtsschutzsuchenden des Ausgangsrechtsstreits der gesetzliche Richter entzogen sein (vgl. BVerfGE 73, 339 <366 ff.>; 126, 286 <315>;
+135, 155 <231 Rn. 177>).
+
+  a) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union (vgl. EuGH,          26
+Urteil vom 6. Oktober 1982, CILFIT - C-283/81 -, Slg. 1982, 3415, Rn. 21; weiterentwickelt in EuGH, Urteil vom 17. Mai 2001, TNT Traco - C-340/99 -, Slg. 2001, I-4109,
+Rn. 30 ff.; EuGH, Urteil vom 15. September 2005, Intermodal Transports - C-495/03 -
+, Slg. 2005, I-8151, Rn. 33 ff.; EuGH, Urteil vom 9. September 2015, X/Inspecteur
+van de Rijksbelastingdienst - C-72/14 -, EU:C:2015:564, Rn. 55 ff.; EuGH, Urteil vom
+9. September 2015, João Filipe Ferreira da Silva e Brito u.a./Estado português -
+C-160/14 -, EU:C:2015:565, Rn. 38 ff.; vgl. insgesamt Wolff, in: AöR 141 <2016>, S.
+40 <55 ff.>) muss ein letztinstanzliches nationales Gericht seiner Vorlagepflicht nachkommen, wenn sich in einem bei ihm anhängigen Verfahren eine Frage des Unionsrechts stellt, es sei denn, dass die gestellte Frage nicht entscheidungserheblich ist,
+dass die betreffende unionsrechtliche Bestimmung bereits Gegenstand einer Auslegung durch den Gerichtshof war oder dass die richtige Anwendung des Unionsrechts
+derart offenkundig ist, dass für einen vernünftigen Zweifel keinerlei Raum bleibt (vgl.
+auch BVerfGE 82, 159 <193>; 128, 157 <187>; 129, 78 <105 f.>; 135, 155 <231 Rn.
+178>).
+
+ b) Das Bundesverfassungsgericht beanstandet die Auslegung und Anwendung von              27
+Normen, die die gerichtliche Zuständigkeitsverteilung regeln, allerdings nur, wenn sie
+bei verständiger Würdigung der das Grundgesetz bestimmenden Gedanken nicht
+mehr verständlich erscheinen und offensichtlich unhaltbar sind (vgl. BVerfGE 29, 198
+
+
+                                          9/19
+
+<207>; 82, 159 <194>; 135, 155 <231 Rn. 179>). Durch die grundrechtsähnliche Gewährleistung des Art. 101 Abs. 1 Satz 2 GG wird das Bundesverfassungsgericht nicht
+zu einem Kontrollorgan, das jeden die gerichtliche Zuständigkeitsordnung berührenden Verfahrensfehler korrigieren müsste. Vielmehr ist es gehalten, seinerseits die
+Kompetenzregeln zu beachten, die den Fachgerichten die Kontrolle über die Befolgung der Zuständigkeitsordnung übertragen (vgl. BVerfGE 82, 159 <194>; 135, 155
+<231 Rn. 179>).
+
+  Diese Grundsätze gelten auch für die unionsrechtliche Zuständigkeitsvorschrift des     28
+Art. 267 Abs. 3 AEUV. Daher stellt nicht jede Verletzung der unionsrechtlichen Vorlagepflicht zugleich einen Verstoß gegen Art. 101 Abs. 1 Satz 2 GG dar (vgl. BVerfGE
+126, 286 <315>; 135, 155 <231 f. Rn. 180>). Das Bundesverfassungsgericht überprüft nur, ob die Auslegung und Anwendung der Zuständigkeitsregel des Art. 267
+Abs. 3 AEUV bei verständiger Würdigung der das Grundgesetz bestimmenden Gedanken nicht mehr verständlich erscheint und offensichtlich unhaltbar ist (vgl.
+BVerfGE 126, 286 <315 f.>; 128, 157 <187>; 129, 78 <106>). Durch die zurückgenommene verfassungsrechtliche Prüfung behalten die Fachgerichte bei der Auslegung und Anwendung von Unionsrecht einen Spielraum eigener Einschätzung und
+Beurteilung, der demjenigen bei der Handhabung einfachrechtlicher Bestimmungen
+der deutschen Rechtsordnung entspricht. Das Bundesverfassungsgericht wacht allein über die Einhaltung der Grenzen dieses Spielraums. Ein „oberstes Vorlagenkontrollgericht“ ist es nicht (vgl. BVerfGE 82, 159 <194>; 126, 286 <315 f.>; 128, 157
+<187>; 129, 78 <106>; 135, 155 <232 Rn. 180>).
+
+  Das Bundesverfassungsgericht hat diese auf eine Willkürkontrolle reduzierte Prüfungsdichte anhand beispielhafter Fallgruppen präzisiert.
+
+  aa) Danach wird die Vorlagepflicht nach Art. 267 Abs. 3 AEUV in den Fällen offensichtlich unhaltbar gehandhabt, in denen ein letztinstanzliches Hauptsachegericht eine Vorlage trotz der - seiner Auffassung nach bestehenden - Entscheidungserheblichkeit einer unionsrechtlichen Frage überhaupt nicht in Erwägung zieht, obwohl es
+selbst Zweifel hinsichtlich der richtigen Beantwortung der Frage hegt und das Unionsrecht somit eigenständig fortbildet (grundsätzliche Verkennung der Vorlagepflicht;
+vgl. BVerfGE 82, 159 <195 f.>; 126, 286 <316 f.>; 128, 157 <187 f.>; 129, 78 <106
+f.>; 135, 155 <232 Rn. 181>).
+
+  bb) Gleiches gilt in den Fällen, in denen das letztinstanzliche Hauptsachegericht in   31
+seiner Entscheidung bewusst von der Rechtsprechung des Gerichtshofs zu entscheidungserheblichen Fragen abweicht und gleichwohl nicht oder nicht neuerlich vorlegt
+(sog. bewusstes Abweichen ohne Vorlagebereitschaft; vgl. BVerfGE 82, 159 <195
+f.>; 126, 286 <316 f.>; 128, 157 <187 f.>; 129, 78 <106 f.>; 135, 155 <232 Rn. 182>).
+
+ cc) Liegt zu einer entscheidungserheblichen Frage des Unionsrechts einschlägige         32
+Rechtsprechung des Gerichtshofs der Europäischen Union noch nicht vor oder hat
+eine vorliegende Rechtsprechung die entscheidungserhebliche Frage möglicherweise noch nicht erschöpfend beantwortet oder erscheint eine Fortentwicklung der
+
+
+                                         10/19
+
+Rechtsprechung des Gerichtshofs nicht nur als entfernte Möglichkeit (Unvollständigkeit der Rechtsprechung), wird Art. 101 Abs. 1 Satz 2 GG verletzt, wenn das letztinstanzliche Hauptsachegericht den ihm in solchen Fällen notwendig zukommenden Beurteilungsrahmen in unvertretbarer Weise überschreitet (vgl. BVerfGE 82, 159
+<195 f.>; 126, 286 <316 f.>; 128, 157 <187 f.>; 129, 78 <106 f.>; 135, 155 <232 f. Rn.
+183>). Dies ist jedenfalls dann der Fall, wenn das Fachgericht das Vorliegen eines
+„acte clair“ oder eines „acte éclairé“ willkürlich bejaht (vgl. BVerfGE 135, 155 <233
+Rn. 183>).
+
+  Das Gericht muss sich daher hinsichtlich des materiellen Unionsrechts hinreichend      33
+kundig machen. Etwaige einschlägige Rechtsprechung des Gerichtshofs muss es
+auswerten und seine Entscheidung hieran orientieren (vgl. BVerfGE 82, 159 <196>;
+128, 157 <189>; 135, 155 <233 Rn. 184>). Auf dieser Grundlage muss das Fachgericht unter Anwendung und Auslegung des materiellen Unionsrechts (vgl. BVerfGE
+75, 223 <234>; 128, 157 <188>; 129, 78 <107>; 135, 155 <233 Rn. 184>) die vertretbare Überzeugung bilden, dass die Rechtslage entweder von vornherein eindeutig
+(„acte clair“) oder durch Rechtsprechung in einer Weise geklärt ist, die keinen vernünftigen Zweifel offenlässt („acte éclairé“; vgl. BVerfGE 129, 78 <107>; 135, 155
+<233 Rn. 184>).
+
+ Unvertretbar gehandhabt wird Art. 267 Abs. 3 AEUV im Falle der Unvollständigkeit        34
+der Rechtsprechung insbesondere dann, wenn das Fachgericht eine von vornherein
+eindeutige oder zweifelsfrei geklärte Rechtslage ohne sachlich einleuchtende Begründung bejaht (vgl. BVerfGE 82, 159 <196>; 126, 286 <317>; 135, 155 <233
+Rn. 185>).
+
+ 2. Gemessen an diesen Grundsätzen hat der Bundesgerichtshof das grundrechtsgleiche Recht der Beschwerdeführerin aus Art. 101 Abs. 1 Satz 2 GG verletzt, indem
+er zur Auslegung von Art. 14 Abs. 9 Lebensmittel-Basis-VO nicht gemäß Art. 267
+Abs. 3 AEUV ein Vorabentscheidungsersuchen beim Gerichtshof der Europäischen
+Union gestellt hat.
+
+  a) Zwar hat der Bundesgerichtshof die Vorlagepflicht gemäß Art. 267 Abs. 3 AEUV        36
+nicht grundsätzlich verkannt. Auch wenn er bei seiner Auslegung von Art. 14 Abs. 9
+Lebensmittel-Basis-VO nicht ausdrücklich erörtert hat, ob es - insbesondere in Bezug
+auf die Reichweite der Anwendbarkeit nationalen Rechts - einer Vorlage an den Gerichtshof der Europäischen Union bedurfte, hat er ersichtlich die unionsrechtliche
+Vorlagepflicht in Erwägung gezogen, insoweit aber angenommen, dass die Rechtslage unter Berücksichtigung der bisherigen Rechtsprechung des Gerichtshofs klar sei
+(vgl. BVerfGE 135, 155 <233 f. Rn. 186>). Der Bundesgerichtshof war sich offenkundig bewusst, dass die für ihn entscheidungserhebliche Frage der Anwendbarkeit des
+nationalen Rechts gemäß Art. 14 Abs. 9 Lebensmittel-Basis-VO eine Frage des Unionsrechts ist. Er hat Art. 14 Abs. 9 Lebensmittel-Basis-VO unter Berücksichtigung
+seines unionsrechtlichen Kontexts und Zwecks sowie unter Auswertung der seiner
+Ansicht nach einschlägigen Rechtsprechung des Gerichtshofs ausgelegt. Hinzu
+
+
+
+                                         11/19
+
+kommt, dass das Berufungsgericht - wie im Parallelverfahren (vgl. OLG Hamburg,
+Urteil vom 11. Juni 2009 - 3 U 161/08 -, LMuR 2009, S. 161 <165 f.>) - ausdrücklich
+darauf hingewiesen hatte, dass aus seiner Sicht die Frage der Sperrwirkung der
+Lebensmittel-Basis-VO gegenüber einer nationalen generell-abstrakten Zulassungspflicht für Lebensmittelzusatzstoffen gleichgestellte Stoffe im Fall ihrer Entscheidungserheblichkeit dem Gerichtshof vorzulegen wäre. Vor diesem Hintergrund kann
+nicht davon ausgegangen werden, dass der Bundesgerichtshof eine Vorlage von Art.
+14 Abs. 9 Lebensmittel-Basis-VO nicht in Erwägung gezogen hat. Er hat jedoch die
+Frage nach der Anwendbarkeit des nationalen Rechts für so eindeutig erachtet, dass
+er keine Zweifel an der Richtigkeit seiner Antwort hegte.
+
+ b) Der Bundesgerichtshof ist bei seiner Auslegung von Art. 14 Abs. 9 Lebensmittel-      37
+Basis-VO auch nicht bewusst von der Rechtsprechung des Gerichtshofs abgewichen. Er ist nicht davon ausgegangen, dass sich der Gerichtshof zur Reichweite der
+Anwendbarkeit des nationalen Rechts gemäß Art. 14 Abs. 9 Lebensmittel-Basis-VO
+bereits eindeutig geäußert habe.
+
+ c) Der Bundesgerichtshof hat jedoch den ihm zukommenden Beurteilungsspielraum           38
+hinsichtlich der Vorlage überschritten und das Vorliegen eines „acte clair“ beziehungsweise „acte éclairé“ in unvertretbarer Weise bejaht. Er hat sich hinsichtlich des
+materiellen Unionsrechts nicht hinreichend kundig gemacht (aa), insbesondere die
+einschlägige Rechtsprechung des Gerichtshofs nur partiell ausgewertet und seine
+Entscheidung daher nicht in der gebotenen Weise an dieser orientiert (bb). Die Annahme eines „acte clair“ beziehungsweise „acte éclairé“ ist auf dieser Grundlage
+nicht mehr vertretbar (cc).
+
+ aa) Der Bundesgerichtshof hat sich bei der Auslegung von Art. 14 Abs. 9                 39
+Lebensmittel-Basis-VO hinsichtlich des materiellen Unionsrechts nicht hinreichend
+kundig gemacht.
+
+  (1) Zwar geht er zutreffend vom Wortlaut des Art. 14 Abs. 9 Lebensmittel-Basis-VO      40
+aus und leitet aus der vorgesehenen Anwendbarkeit von Bestimmungen des nationalen Lebensmittelrechts im Fall des (vorliegend bejahten) Fehlens spezifischer unionaler Bestimmungen in verfassungsrechtlich nicht zu beanstandender Weise ab,
+dass die Lebensmittel-Basis-VO insoweit nur einen Mindeststandard für die Lebensmittelsicherheit festlege.
+
+ (2) Die danach anschließende teleologische Auslegung ist jedoch lückenhaft (a)          41
+und in sich widersprüchlich (b).
+
+ (a) Es trifft zwar zu, dass der Verweis von Art. 14 Abs. 9 Lebensmittel-Basis-VO auf    42
+Art. 34, Art. 36 AEUV nur klarstellende Bedeutung hat, wenn er sich allein auf grenzüberschreitende Sachverhalte bezieht. Für diese Auslegung sprechen jedoch gewichtige Gründe, mit denen sich der Bundesgerichtshof nicht weiter auseinandersetzt. Namentlich berücksichtigt er nicht, dass derartige klarstellende Regelungen im
+Unionsrecht wie in der Unionspraxis weder ausgeschlossen noch ungewöhnlich sind
+
+
+
+                                         12/19
+
+(vgl. Kraft, DLR 2011, S. 126 <129 f.>; Stallberg, LMuR 2011, S. 1 <4>) und dass das
+Sekundärrecht gerade im Bereich des Binnenmarktes typischerweise der Konkretisierung der Grundfreiheiten dient (vgl. Bast, in: Grabitz/Hilf/Nettesheim, Das Recht
+der Europäischen Union, Band I, Art. 26 AEUV Rn. 6, 9 <Juli 2016>).
+
+  (b) Zudem widerspricht die Annahme, Art. 14 Abs. 9 Lebensmittel-Basis-VO verfehlte den in Art. 1 Abs. 2 UAbs. 1 Lebensmittel-Basis-VO bestimmten Zweck, wenn die
+dort vorgesehene Anwendbarkeit des nationalen Lebensmittelrechts durch die primärrechtlichen Regelungen der Art. 34, Art. 36 AEUV allein für grenzüberschreitende
+Sachverhalte eingeschränkt würde, der eigenen Einschätzung, dass Art. 14
+Lebensmittel-Basis-VO nur einen Mindeststandard für die Lebensmittelsicherheit
+festlegt. Die Annahme eines Mindeststandards impliziert nämlich, dass in den Fällen,
+in denen es keine spezifischen unionsrechtlichen Vorgaben gibt, strengere Bestimmungen des nationalen Lebensmittelrechts anwendbar bleiben, soweit sie dem reibungslosen Funktionieren des Binnenmarktes nicht entgegenstehen, also insbesondere den freien Warenverkehr zwischen den Mitgliedstaaten im Sinne von Art. 34
+AEUV nicht beeinträchtigen (vgl. LG Hamburg, Urteil vom 16. März 2010 - 312 O 300/
+09 -, LMuR 2010, S. 89 <91>; Reese/Stallberg, ZLR 2009, S. 137 <147, 157>; Teufer, ZLR 2007, S. 236 <238 f.>). Andernfalls würden die Regelungen des Mitgliedstaates, die das geringste Schutzniveau statuieren, zugleich das Schutzniveau für
+den innerstaatlichen Warenverkehr in den anderen Mitgliedstaaten bestimmen.
+Art. 14 Lebensmittel-Basis-VO legte dann keinen Mindeststandard, sondern einen
+Höchststandard auf unterstem Niveau fest. Strengere nationale Regelungen zur Lebensmittelsicherheit stehen darüber hinaus den in Art. 1 Abs. 1 Lebensmittel-Basis-VO verankerten Zielen eines hohen Schutzniveaus für die Gesundheit bei einer Anwendung auf reine Inlandssachverhalte nicht entgegen; sie fördern vielmehr ein
+dermaßen hohes Schutzniveau; für das Funktionieren des Binnenmarktes sind sie
+dagegen ohne Relevanz.
+
+  bb) Bei der Auslegung von Art. 14 Abs. 9 Lebensmittel-Basis-VO hat der Bundesgerichtshof zwar einschlägige Entscheidungen des Gerichtshofs der Europäischen Union herangezogen (1), diese jedoch nur unvollständig ausgewertet und Unterschiede
+zu dem im fachgerichtlichen Verfahren zugrunde liegenden Sachverhalt übergangen
+(2 und 3). Er hat sich weder mit der „Knoblauchkapsel-Entscheidung“ des Gerichtshofs, die sich explizit zur Auslegung von Art. 14 Abs. 9 Lebensmittel-Basis-VO geäußert hat und auf die die Beschwerdeführerin in ihrer Revisionsschrift ausdrücklich Bezug genommen hat (4), noch mit der die sehr ähnliche Vorschrift des Art. 11 Abs. 2
+der Richtlinie 2002/46/EG betreffenden Entscheidung des Gerichtshofs vom 12. Juli
+2005 auseinandergesetzt (5). Auch die Auffassung der Kommission zur Auslegung
+von Art. 14 Abs. 9 Lebensmittel-Basis-VO hat er nicht berücksichtigt (6).
+
+ (1) Zwar geht der Bundesgerichtshof zutreffend davon aus, dass es dem Unionsrecht nach der Rechtsprechung des Gerichthofs der Europäischen Union nicht grundsätzlich zuwiderläuft, wenn ein Mitgliedstaat (im insoweit nicht harmonisierten Bereich) verbiete, Lebensmittel ohne vorherige Genehmigung in den Verkehr zu bringen
+
+
+                                         13/19
+
+(vgl. EuGH, Urteil vom 5. März 2009, Kommission/Spanien - C-88/07 -, Slg. 2009,
+I-1353, Rn. 87, unter Verweis auf EuGH, Urteil vom 23. September 2003, Kommission/Dänemark - C-192/01 -, Slg. 2003, I-9693, Rn. 44; EuGH, Urteil vom 5. Februar
+2004, Kommission/Frankreich - C-24/00 -, Slg. 2004, I-1277, Rn. 25 und 51; EuGH,
+Urteil vom 29. April 2004, Kommission/Österreich - C-150/00 -, Slg. 2004, I-3887, Rn.
+87; vgl. auch EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich - C-333/
+08 -, Slg. 2010, I-757, Rn. 80, unter Verweis auf EuGH, Urteil vom 16. Juli 1992,
+Kommission/Frankreich - C-344/90 -, Slg. 1992, I-4719, Rn. 8; EuGH, Urteil vom 23.
+September 2003, Kommission/Dänemark - C-192/01 -, Slg. 2003, I-9693, Rn. 44).
+Ebenso zutreffend entnimmt er den von ihm herangezogenen Entscheidungen des
+Gerichtshofs, dass eine solche Genehmigungspflicht nur dann unionsrechtskonform
+ist, wenn ein leicht zugängliches und innerhalb eines angemessenen Zeitraums abzuschließendes Verfahren vorgesehen ist, im Rahmen dessen die Aufnahme des
+zulassungspflichtigen Stoffes in die nationale Liste der zugelassenen Stoffe erreicht
+werden kann, ein entsprechender Aufnahmeantrag nur dann abgelehnt werden kann,
+wenn eine eingehende einzelfallbezogene Prüfung unter Berücksichtigung der neuesten wissenschaftlichen Erkenntnisse ergibt, dass der Stoff tatsächlich ein Risiko
+für die Gesundheit der Bevölkerung birgt, und wenn eine ablehnende Entscheidung
+im Rahmen eines gerichtlichen Verfahrens überprüft werden kann (vgl. EuGH, Urteil
+vom 28. Januar 2010, Kommission/Frankreich - C-333/08 -, Slg. 2010, I-757, Rn. 81
+f., unter Verweis auf EuGH, Urteil vom 16. Juli 1992, Kommission/Frankreich - C-344/
+90 -, Slg. 1992, I-4719, Rn. 9; EuGH, Urteil vom 23. September 2003, Kommission/
+Dänemark - C-192/01 -, Slg. 2003, I-9693, Rn. 46; EuGH, Urteil vom 5. Februar 2004,
+Kommission/Frankreich - C-24/00 -, Slg. 2004, I-1277, Rn. 26 f.).
+
+  (2) Die Annahme, dass die im vorliegenden Fall einschlägigen Bestimmungen des            46
+deutschen Lebensmittelrechts gemäß § 6 Abs. 1 Nr. 2 in Verbindung mit Nr. 1 Buchstabe a, § 2 Abs. 3 Satz 1 und Satz 2 Nr. 1, § 4 Abs. 1 Nr. 2 LFGB diesen Anforderungen generell nicht genügten und daher generell - auch bezogen auf reine Inlandssachverhalte - nicht anwendbar seien, verkennt jedoch, dass sich die vom
+Gerichtshof aufgestellten Anforderungen ausschließlich auf grenzüberschreitende
+Sachverhalte beziehen (vgl. EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich - C-333/08 -, Slg. 2010, I-757, Rn. 1, 38 ff.; vgl. auch EuGH, Urteil vom 16. Juli
+1992, Kommission/Frankreich - C-344/90 -, Slg. 1992, I-4719, Rn. 1 ff.; EuGH, Urteil
+vom 5. Februar 2004, Kommission/Frankreich - C-24/00 -, Slg. 2004, I-1277, Rn. 21
+ff.). Der Bundesgerichtshof lässt außen vor, dass der Gerichtshof bei der Entwicklung
+der genannten Maßstäbe ausdrücklich von Lebensmitteln oder Stoffen „aus anderen
+Mitgliedstaaten“ und Hemmnissen des „freien Verkehrs“, also des grenzüberschreitenden Warenverkehrs zwischen den Mitgliedstaaten, spricht (vgl. EuGH, Urteil vom
+28. Januar 2010, Kommission/Frankreich - C-333/08 -, Slg. 2010, I-757, Rn. 74 ff.;
+EuGH, Urteil vom 5. März 2009, Kommission/Spanien - C-88/07 -, Slg. 2009, I-1353,
+Rn. 81 ff.; vgl. auch EuGH, Urteil vom 16. Juli 1992, Kommission/Frankreich - C-344/
+90 -, Slg. 1992, I-4719, Rn. 1, 7; EuGH, Urteil vom 23. September 2003, Kommission/
+Dänemark - C-192/01 -, Slg. 2003, I-9693, Tenor, Rn. 1, 38 ff.; EuGH, Urteil vom
+
+
+                                          14/19
+
+5. Februar 2004, Kommission/Frankreich - C-24/00 -, Slg. 2004, I-1277, Rn. 21 ff.;
+EuGH, Urteil vom 29. April 2004, Kommission/Österreich - C-150/00 -, Slg. 2004,
+I-3887, Rn. 80 ff.; EuGH, Urteil vom 15. November 2007, Kommission/Deutschland
+- C-319/05 -, Slg. 2007, I-9811, Rn. 79 ff.; so auch Meyer, in: Meyer/Streinz, LFGB,
+BasisVO, HCVO, 2. Aufl. 2012, § 2 LFGB Rn. 39 f.), und wendet sie ohne Weiteres
+auf die im vorliegenden Verfahren zugrunde liegenden innerstaatlichen Sachverhalte
+an.
+
+  (3) Hinzu kommt, dass der Europäische Gerichtshof in der vom Bundesgerichtshof         47
+herangezogenen Rechtsprechung ausdrücklich festgestellt hat, dass es mangels
+Harmonisierung Sache der Mitgliedstaaten sei, unter Berücksichtigung der Erfordernisse des freien Warenverkehrs innerhalb der Gemeinschaft zu bestimmen, in welchem Umfang sie den Schutz der Gesundheit und des Lebens von Menschen gewährleisten wollten und ob sie daher für das Inverkehrbringen von Stoffen
+beziehungsweise Lebensmitteln eine vorherige Genehmigung verlangen (vgl. EuGH,
+Urteil vom 23. September 2003, Kommission/Dänemark - C-192/01 -, Slg. 2003,
+I-9693, Rn. 42; EuGH, Urteil vom 5. Februar 2004, Kommission/Frankreich - C-24/00
+-, Slg. 2004, I-1277, Rn. 50; EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich - C-333/08 -, Slg. 2010, I-757, Rn. 85; a.A. im Ergebnis Meisterernst, in: Festschrift für Ulf Doepner, 2008, S. 245 <250 f.>, der von einer Vollharmonisierung
+durch Art. 14 Lebensmittel-Basis-VO ausgeht). Dies dürfte - insbesondere unter Berücksichtigung der allgemein vertretenen Auffassung, dass die Grundfreiheiten
+grundsätzlich nur für grenzüberschreitende Sachverhalte gelten oder nur an Sachverhalte anknüpfen, die zumindest Auswirkungen auf den freien Waren-/Personen-
+/Dienstleistungs- und Kapitalverkehr zwischen den Mitgliedstaaten haben, und einer
+Inländerdiskriminierung grundsätzlich nicht entgegenstehen (vgl. z.B. den Wortlaut
+von Art. 34 AEUV „zwischen den Mitgliedstaaten“; EuGH, Urteil vom 27. Oktober
+1982, Morson und Jhanjan - 35/82 u.a. -, Slg. 1982, 3723, Rn. 15 ff.; EuGH, Urteil
+vom 8. Dezember 1987, Gauchard - 20/87 -, Slg. 1989, 4879, Rn. 10 ff.; EuGH, Urteil
+vom 16. Februar 1995, Aubertin u.a. - C-29/94 u.a. -, Slg. 1995, I-301, Rn. 9 ff.;
+EuGH, Urteil vom 16. Juni 1994, Steen II - C-132/93 -, juris, Rn. 9; EuGH, Urteil vom
+7. Mai 1997, Pistre - C-321/94 u.a. -, Slg. 1997, I-2343, Rn. 41 ff.; EuGH, Urteil vom
+16. Januar 2003, Kommission/Italien - C-14/00 - Slg. 2003, I-513, Rn. 72; OLG Hamburg, Urteil vom 29. Januar 2009 - 3 U 54/08 -, juris, Rn. 63 ff.; VG Hamburg, Urteil
+vom 19. Januar 2010 - 4 K 2003/08 -, LMuR 2010, S. 96 <101>; LG Hamburg, Urteil
+vom 16. März 2010 - 312 O 300/09 -, LMuR 2010, S. 89 <90 f.>; Kraft, DLR 2011, S.
+126 <127>; Riese/Noll, NVwZ 2007, S. 516 <518 f.>; Schroeder, in: Streinz, EUV/
+AEUV, 2. Aufl. 2012, Art. 34 AEUV Rn. 20 ff.) - so zu verstehen sein, dass die Mitgliedstaaten in Bezug auf Sachverhalte ohne grenzüberschreitenden Bezug im nicht
+harmonisierten Bereich grundsätzlich frei sind, ob und in welcher konkreten Ausgestaltung sie zum Schutz der Gesundheit ein Genehmigungsverfahren als Voraussetzung für das Inverkehrbringen von Waren vorsehen wollen (vgl. Streinz, ZLR 2010,
+S. 455 <456 f.>; Meyer, in: Meyer/Streinz, LFGB, BasisVO, HCVO, 2. Aufl. 2012, Art.
+14 Basis-VO Rn. 56; Rathke, in: Zipfel/Rathke, Lebensmittelrecht, § 6 LFGB Rn. 12 f.
+
+
+                                         15/19
+
+<157. EL 2014>).
+
+  Weshalb dies mit Blick auf Art. 14 Abs. 9 Lebensmittel-Basis-VO anders sein sollte        48
+und die einschlägigen nationalen Regelungen über die Zulassung von Lebensmitteln
+entgegen der allgemein anerkannten, auch in der Revision nochmals vergegenwärtigten Dogmatik zu Art. 34, Art. 36 AEUV im Widerspruch zum Unionsrecht stehen
+sollten, begründet der Bundesgerichtshof nur mit dem Verweis auf die andernfalls lediglich deklaratorische Natur des Art. 14 Abs. 9 Lebensmittel-Basis-VO a.E. sowie mit
+dem in sich widersprüchlichen Verweis auf den Zweck der Verordnung gemäß Art. 1
+Abs. 2 UAbs. 1 Lebensmittel-Basis-VO. Eine detailliertere Auseinandersetzung mit
+der Anwendung der Grundfreiheiten auch auf innerstaatliche Sachverhalte hätte hier
+insbesondere deshalb nahegelegen, weil die dem Bundesgerichtshof von der Beschwerdeführerin im Rahmen des Revisionsverfahrens vorgelegten Entscheidungen
+des Landgerichts Hamburg (LG Hamburg, Urteil vom 16. März 2010 - 312 O 300/09 -,
+LMuR 2010, S. 89 <90 f.>) und des Verwaltungsgerichts Hamburg (VG Hamburg, Urteil vom 19. Januar 2010 - 4 K 2003/08 -, LMuR 2010, S. 96 <101>) auf dieses Problem ausdrücklich hingewiesen hatten.
+
+  (4) Der Bundesgerichtshof hat ferner die sogenannte „Knoblauchkapsel-                     49
+Entscheidung“ (EuGH, Urteil vom 15. November 2007, Kommission/Deutschland -
+C-319/05 -, Slg. 2007, I-9811) - trotz ausdrücklichen Hinweises der Revision - bei seiner Auslegung nicht berücksichtigt, obgleich sich diese Entscheidung unmittelbar zu
+Art. 14 Abs. 9 Lebensmittel-Basis-VO verhält. Ihr ist nicht nur zu entnehmen, dass
+der Gerichtshof die Frage der Genehmigungspflichtigkeit von Lebensmitteln nicht als
+abschließend harmonisiert ansieht (vgl. EuGH, Urteil vom 15. November 2007, Kommission/Deutschland - C-319/05 -, Slg. 2007, I-9811, Rn. 83 ff.; vgl. auch EuGH, Urteil vom 23. September 2003, Kommission/Dänemark - C-192/01 -, Slg. 2003, I-9693,
+Rn. 42; EuGH, Urteil vom 5. Februar 2004, Kommission/Frankreich - C-24/00 -, Slg.
+2004, I-1277, Rn. 50; EuGH, Urteil vom 28. Januar 2010, Kommission/Frankreich -
+C-333/08 -, Slg. 2010, I-757, Rn. 85). Diese Entscheidung legt es vielmehr auch nahe, dass die Schranken in Art. 14 Abs. 9 Lebensmittel-Basis-VO a.E. (und von Art. 11
+Abs. 2 der Richtlinie 2002/46/EG) als klarstellenden Hinweis auf Art. 28, Art. 30 EG
+(nun: Art. 34, Art. 36 AEUV) verstanden werden müssen (so wohl auch Reese/Stallberg, ZLR 2009, S. 137 <147 Fn. 42>; vgl. - wenn auch die Ansicht des EuGH ablehnend - Meisterernst, in: Festschrift für Ulf Doepner, 2008, S. 245 <252>).
+
+  (5) Das folgt auch aus einer früheren, vom Bundesgerichtshof ebenfalls nicht berücksichtigten Entscheidung des Gerichtshofs. Zu der mit Art. 14 Abs. 9
+Lebensmittel-Basis-VO vergleichbaren Regelung von Art. 11 Abs. 2 der Richtlinie
+2002/46/EG hat diese festgestellt, dass bis zum Erlass spezieller Gemeinschafts- beziehungsweise Unionsvorschriften die nationalen Bestimmungen (über andere Nährstoffe als Vitamine und Mineralstoffe oder andere Stoffe mit ernährungsspezifischer
+oder physiologischer Wirkung, die als Zutaten von Nahrungsergänzungsmitteln Verwendung fänden,) unter Beachtung des Vertrages weiter angewandt werden könnten
+(vgl. EuGH, Urteil vom 12. Juli 2005, Alliance for Natural Health u.a. - C-154/04 u.a. -,
+
+
+                                          16/19
+
+Slg. 2005, I-6451, Rn. 59; vgl. auch EuGH, Urteil vom 29. April 2010, Solgar u.a. -
+C-446/08 -, Slg. 2010, I-3973, Rn. 22 ff.; Reese/Stallberg, ZLR 2009, S. 137 <140>).
+Hinweise auf eine vom allgemeinen Verständnis des Vertrages und seines Anwendungsbereichs, insbesondere von Art. 28, Art. 30 EG (nun: Art. 34, Art. 36 AEUV),
+abweichende Bedeutung sind der Entscheidung nicht zu entnehmen. Solche ergeben
+sich auch nicht aus dem in Bezug genommenen achten Erwägungsgrund der Richtlinie 2002/46/EG. Danach können bis zum Erlass spezifischer unionrechtlicher Vorschriften (über andere Nährstoffe als Vitamine und Mineralstoffe oder andere Stoffe
+mit ernährungsspezifischer und physiologischer Wirkung) die nationalen Bestimmungen (über Nährstoffe oder andere Stoffe mit ernährungsspezifischer oder physiologischer Wirkung, die als Zutaten von Nahrungsergänzungsmitteln Verwendung finden
+und für die keine speziellen Gemeinschafts- beziehungsweise Unionsvorschriften erlassen wurden,) unbeschadet des Vertrages angewandt werden.
+
+  (6) Schließlich versteht auch die Europäische Kommission Art. 14 Abs. 9               51
+Lebensmittel-Basis-VO als Ausprägung des Prinzips der gegenseitigen Anerkennung
+zur Gewährleistung des freien Verkehrs innerhalb des Binnenmarktes (vgl. KOM-Dokument vom 5. Dezember 2008, Celex-Nr. 52008DC824) und daher als deklaratorischen Hinweis auf die Beachtung der allgemein geltenden vertraglichen Vorgaben
+der Art. 28, Art. 30 EG (nun: Art. 34, Art. 36 AEUV).
+
+  cc) Der Bundesgerichtshof hat seine Überzeugung vom Vorliegen eines „acte clair“      52
+beziehungsweise „acte éclairé“ mit Blick auf Art. 14 Abs. 9 Lebensmittel-Basis-VO
+somit auf einer offensichtlich unzureichenden Grundlage gebildet. Seine Annahme,
+die Auslegung des entscheidungserheblichen Unionsrechts sei eindeutig, kann vor
+diesem Hintergrund nicht mehr als vertretbar angesehen werden. Das Unterlassen,
+zur Auslegung von Art. 14 Abs. 9 Lebensmittel-Basis-VO eine Vorabentscheidung
+beim Gerichtshof der Europäischen Union einzuholen, verletzt die Beschwerdeführerin daher in ihrem grundrechtsgleichen Recht aus Art. 101 Abs. 1 Satz 2 GG.
+
+  3. Die Annahme der Verfassungsbeschwerde zur Durchsetzung der in § 90 Abs. 1          53
+BVerfGG genannten Rechte der Beschwerdeführerin gemäß § 93a Abs. 2 Buchstabe
+b BVerfGG scheitert nicht daran, dass deutlich abzusehen wäre, dass das Verfahren
+für die Beschwerdeführerin auch im Fall der Zurückverweisung des Rechtsstreits
+nicht erfolgreich verlaufen und die Klage abermals abgewiesen würde (vgl. BVerfGE
+90, 22 <25 f.>).
+
+  a) Zwar hat das Bundesverwaltungsgericht in einem Verfahren, das ähnliche Nahrungsergänzungsmittel betraf wie das im Ausgangsverfahren streitgegenständliche
+Produkt der Beklagten (vgl. BVerwG, Urteil vom 1. März 2012 - 3 C 15/11 -, juris, Rn.
+1), mit Urteil vom 1. März 2012 entschieden, dass die Zutaten Glucosamin- und
+Chondroitinsulfat in diesen Produkten weder Lebensmittelzusatzstoffe noch diesen
+gleichgestellte Stoffe im Sinne von § 2 Abs. 3 Satz 2 Nr. 1 LFGB, sondern charakteristische Zutat der Nahrungsergänzungsmittel im Sinne von § 2 Abs. 3 Satz 2 Nr. 1
+LFGB seien, so dass diese nicht der Genehmigungspflicht gemäß § 6 Abs. 1 Nr. 1
+
+
+
+                                        17/19
+
+und 2, § 4 Abs. 1 Nr. 2, § 2 Abs. 3 Satz 2 Nr. 1 LFGB unterfielen (vgl. BVerwG, Urteil
+vom 1. März 2012 - 3 C 15/11 -, juris, Rn. 9 ff.). Es ist allerdings nicht abzusehen, ob
+sich der Bundesgerichtshof dieser Rechtsprechung anschließt.
+
+  b) Ebenso wenig steht es einer Annahme der Verfassungsbeschwerde entgegen,               55
+dass das Verwaltungsgericht Braunschweig mit Beschluss vom 27. Mai 2015 (5 A 67/
+13) dem Gerichtshof der Europäischen Union die Frage vorgelegt hat, ob Art. 34, Art.
+35, Art. 36 AEUV in Verbindung mit Art. 14 Lebensmittel-Basis-VO beziehungsweise
+Art. 14, Art. 6, Art. 7 und Art. 55 Lebensmittel-Basis-VO so auszulegen sind, dass sie
+einer nationalen gesetzlichen Regelung, die das Inverkehrbringen von Nahrungsergänzungsmitteln mit Aminosäuren verbietet und nur aufgrund einer Zulassung im
+Sinne von § 68 LFGB erlaubt, entgegenstehen. Die von Art. 267 Abs. 3 AEUV statuierte Vorlagepflicht entfällt nicht deshalb, weil die entscheidungserhebliche und klärungsbedürftige unionsrechtliche Frage oder eine ähnlich gelagerte Frage bereits
+Gegenstand eines noch nicht abgeschlossenen Verfahrens vor dem Gerichtshof ist.
+Ein schon anhängiges Vorlageverfahren macht ein weiteres Verfahren zur selben
+oder zu einer ähnlichen Frage - ebenso wie im Fall des Art. 100 GG (vgl. Sieckmann,
+in: v. Mangoldt/Klein/Starck, GG, Bd. 3, 6. Aufl. 2010, Art. 100 Rn. 7) - nicht unzulässig. Zumindest aber muss, wenn die Voraussetzungen der Vorlagepflicht nach Art.
+267 Abs. 3 AEUV bestehen und die gleiche oder eine ähnliche Vorlagefrage bereits
+Gegenstand eines noch nicht abgeschlossenen Verfahrens vor dem Gerichtshof ist,
+der nationale Rechtsstreit gemäß § 148 ZPO (analog) im Hinblick auf die zu erwartende Entscheidung einstweilen ausgesetzt werden, um nach Abschluss des Vorlageverfahrens zu prüfen, ob die Vorlagepflicht fortbesteht oder die Frage eindeutig geklärt wurde (vgl. Borchardt, in: Lenz/Borchardt, EU-Verträge, 6. Aufl. 2012, Art. 267
+Rn. 34).
+
+ 4. Das Urteil des Bundesgerichtshofs ist daher gemäß § 93c Abs. 2 in Verbindung           56
+mit § 95 Abs. 2 BVerfGG aufzuheben. Die Sache ist an den Bundesgerichtshof zurückzuverweisen.
+
+ 5. Die Entscheidung über die Auslagenerstattung beruht auf § 34a Abs. 2 BVerfGG.          57
+
+                 Huber               Kessal-Wulf                König
+
+
+
+
+                                          18/19
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Zweiten Senats vom
+15. Dezember 2016 - 2 BvR 222/11
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 15. Dezember 2016 - 2 BvR 222/11 - Rn. (1 - 57), http://www.bverfg.de/e/
+                rk20161215_2bvr022211.html
+
+ECLI           ECLI:DE:BVerfG:2016:rk20161215.2bvr022211
+
+
+
+
+                                    19/19
