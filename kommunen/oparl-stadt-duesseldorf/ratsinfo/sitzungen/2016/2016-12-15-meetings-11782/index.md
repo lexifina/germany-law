@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2016-12-15T09:00:00+01:00
+- Ende: 2016-12-15T20:49:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11782
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11782
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00282373.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00282373.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00282373.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Anfrage der Ratsfraktion Tierschutzpartei/FREIE WÄHLER:Antwortqualität der Beigeordneten auf Anfrage - zur Kenntnis genommen
+- TOP 3: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 4: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 5: Jahresabschluss und Lagebericht 2015 des Stadtbetriebs Zentrale Dienste - zur Kenntnis genommen
+- TOP 6: Wirtschaftsplan 2017 des Stadtbetriebs Zentrale Dienste - zur Kenntnis genommen
+- TOP 7: Jahresabschluss zum 31.12.2015 und Lagebericht für das Wirtschaftsjahr 2015 des Stadtentwässerungsbe - zur Kenntnis genommen
+- TOP 8: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2017 - - zur Kenntnis genommen
+- TOP 9: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - zur Kenntnis genommen
+- TOP 10: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - zur Kenntnis genommen
+- TOP 11: Gebührenkalkulation Straßenreinigung für 2017 - zur Kenntnis genommen
+- TOP 12: 31. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - zur Kenntnis genommen
+- TOP 13: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2017 - zur Kenntnis genommen
+- TOP 14: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düssel - zur Kenntnis genommen
+- TOP 15: Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshauptstadt Düsse - zur Kenntnis genommen
+- TOP 16: Neufassung der Entgeltordnung für die Feuerwehrschule und die staatlich anerkannte Schule für Rettun - zur Kenntnis genommen
+- TOP 17: Gebührenkalkulation Abfall für 2017 - zur Kenntnis genommen
+- TOP 18: 27. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düss - zur Kenntnis genommen
+- TOP 19: 12. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 20: Gebühren Satzung Tarif öffentlicher Gesundheitsdient Land NRW - zur Kenntnis genommen
+- TOP 21: Anpassung von Elternbeiträgen im Rahmen der offenen Ganztagsschule - zur Kenntnis genommen
+- TOP 22: Radschnellverbindung Neuss, Düsseldorf, Langenfeld und Monheim - zur Kenntnis genommen
+- TOP 23: Theodor-Heuss-Brücke, Teilsanierung -Bedarfsbeschluss- - zur Kenntnis genommen
+- TOP 24: Integrierte Quartiersentwicklung Garath 2.0 - zur Kenntnis genommen
+- TOP 25: Einsatz von Gebärdendolmetscherinnen/-dolmetschern während der öffentlichen Teile der Ratssitzungen - zur Kenntnis genommen
+- TOP 26: Brände in Haifa: Hilfe für die Partnerstadt - zur Kenntnis genommen
+- TOP 27: Projekt Verwaltung 2020: Sachstandsbericht - zur Kenntnis genommen
+- TOP 28: Etatberatung 2017
+- TOP 28.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2017 mit Anlage - zur Kenntnis genommen
+- TOP 28.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung - zur Kenntnis genommen
+- TOP 28.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2017 - zur Kenntnis genommen
+- TOP 28.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2017 - zur Kenntnis genommen
+- TOP 29: Grundschule Max-Halbe-Straße 14, Erhöhung der Zügigkeit von zwei auf drei Züge - zur Kenntnis genommen
+- TOP 30: Graf-Recke-Straße 153 - Carl-Sonnenschein-Grundschule- Erweiterung von 2 auf 4 Züge mit Neubau einer - zur Kenntnis genommen
+- TOP 31: Cecilien-Gymnasium, Schorlemerstraße 99, Erhöhung der Zügigkeit um zwei Züge auf fünf Züge - zur Kenntnis genommen
+- TOP 32: Bastionstraße 24 -Luisen-Gymnasium- Sanierung Natursteinfassade - zur Kenntnis genommen
+- TOP 33: Fleher Str. 213 - Um- und Erweiterungsbau - - zur Kenntnis genommen
+- TOP 34: Erweiterung Gymnasium Koblenzer Straße und Errichtung einer Dreifachsporthalle - zur Kenntnis genommen
+- TOP 35: Wiederaufbau der denkmalgeschützten Parkanlage Hofgarten und der Gasbeleuchtung im Hofgarten - zur Kenntnis genommen
+- TOP 36: Heckteichstraße / Höherhofstraße - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 37: Liliencronstraße - Bedarfsbeschluss - - zur Kenntnis genommen
+- TOP 38: Klever Straße / Jülicher Straße - Radverkehrsführung - Bedarfsbeschluss - zur Kenntnis genommen
+- TOP 39: Umbenennung der Hans-Günther-Sohl-Straße in Luise-Rainer-Straße - zur Kenntnis genommen
+- TOP 39.1: ÄA CDU: Umbenennung der Hans-Günther-Sohl-Straße in Luise-Rainer-Straße - zur Kenntnis genommen
+- TOP 40: Abfallwirtschaftskonzept für die Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 41: Nutzung einer Teilfläche des Nordparks im Rahmen der "Tour de France 2017" - zur Kenntnis genommen
+- TOP 42: Bewerbung um die REGIONALE 2022 / 2025 in NRW - zur Kenntnis genommen
+- TOP 43: Benutzungsordnung für die Vermietung von Räumen im historischen Rathaus der Landeshauptstadt Düsseld - zur Kenntnis genommen
+- TOP 44: Bestellung eines Prüfers für das Rechnungsprüfungsamt - zur Kenntnis genommen
+- TOP 45: Vorstand des Bergisch-Rheinischen Wasserverbandes - zur Kenntnis genommen
+- TOP 46: Vorhabenbezogenen Bebauungsplan 02-008 "Wohnhochhaus Mercedesstraße (Upper Nord Tower)" - zur Kenntnis genommen
+- TOP 47: Durchführungsvertrag Vorhabenbez. B-Plan 02/008 - zur Kenntnis genommen
+- TOP 48: B-Plan-Verf. Nr. 01/012 "Konrad-Adenauer-Platz 1", Satzungsbeschluss - zur Kenntnis genommen
+- TOP 49: 122. FNP-Ä. -Nördl.-Konrad-Adenauer-Platz-, Planbeschluss - zur Kenntnis genommen
+- TOP 50: Förderprogramm „Gute Schule 2020“ des Landes Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 51: Ermächtigung zur Aufnahme von Krediten zur Liquiditätssicherung bis zum In-Kraft-Treten der Haushalt - zur Kenntnis genommen
