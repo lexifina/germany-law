@@ -1,0 +1,82 @@
+# 3. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2016-12-15T16:30:00+01:00
+- Ende: 2016-12-15T22:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4784
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4784
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=256111
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gegenstandslos
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - gegenstandslos
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-01 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Konzeption zur Aufstellung von Sitzgelegenheiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Kooperation im Naturschutz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Arbeitsfähigkeit der Bezirksverordneten in der BVV sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Benennung des Schöneweider Uferwegs nach Jan Czochralski - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Erhalt des Theaters Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Kostenloses Musikschulangebot für Kitas - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Einrichtung eines Fußgängerüberweges in der Porzer Str. / Ecke Coloniaallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Winterdienst im Bohnsdorfer Tunnel (2) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Strandbad "Müggelsee" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Direktübertragung der Bezirksverordnetenversammlung im Internet - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.4: Wuhlewanderweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Treptow-Köpenick im Web 2.0 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.6: Begleitantrag zum Bezirkshaushaltsplan 2014/2015 - Weiterbildung und Kultur - überwiesen
+- TOP 7.2.7: Einsatz von E-Mailverschlüsselung im Amt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.8: Vorbereitung der Ablösung von Windows 7 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.9: Feuerwehrzufahrt Volkshochschule Baumschulenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.10: Straßenbenennung Alois Kloecker - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.11: Umbenennung der Haltestelle "Jugendzentrum" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.12: "Zug der Liebe" aus dem Treptower Park heraus halten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.13: Attraktivität Uferpromenade Luisenhain steigern, Müllproblem verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.14: Musikschule: Kooperationen stärken - Kosten- und Leistungsrechnung verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.15: Verbesserung der Raumakustik im BVV-Saal des Rathauses Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.16: Rettet die Kultur - Für den Erhalt des Stadttheater Cöpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.17: Anerkennung für Ehrenamtliche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.18: WLAN für die Notunterkünfte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.19: Gedenken an freie Kommunalwahlen 1946 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.20: Sondermittel für den Ortsverein Schmöckwitz e. V. (SM 16-29) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.21: Asylbewerber/innen und Flüchtlinge dezentral verteilt über die Ortsteile unterbringen und damit einhergehend Sporthallen im Bezirk freiziehen - überwiesen
+- TOP 7.2.22: Geflüchtete Menschen aus der Notunterkunft in der Glienicker Straße in ihrem sozialen Umfeld belassen - überwiesen
+- TOP 7.2.23: Netz in der Grünstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.24: Sondermittel für den Behindertenverein Köpenick e. V. (SM 16-43) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.3: Wahl der Bürgerdeputierten und stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 8.4: Wahl des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.5: Berufung beratender Mitglieder des Jugendhilfeausschusses - vertagt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sitzungsterminplan 2017 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung von 2 Vertreterinnen bzw.Vertretern und deren Stellvertreterinnen bzw. Stellvertretern für die Trägerversammlung des Jobcenters Berlin Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Im I. Halbjahr 2016 zugelassene über- und außerplanmäßige Ausgaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Überprüfung der Bezirksverordneten auf Mitarbeit beim Ministerium für Staatssicherheit der DDR - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Mehrgenerationenhaus in der Rudower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: Veröffentlichung bezirklicher Gremien im Internet - überwiesen
+- TOP 14.4: Taxiaufstellfläche am Schlesischen Busch - überwiesen
+- TOP 14.5: Modellversuch "Schulwegsprechstunde" - überwiesen
+- TOP 14.6: Sanierung der Regattatribünen in Grünau - vertagt
+- TOP 14.7: Natur- und Artenschutz und Anliegerinteressen am Müggelsee in Einklang bringen - überwiesen
+- TOP 14.8: Lichtsignalanlage an der Kreuzung Wilhelminenhofstraße / Rathenaustraße - überwiesen
+- TOP 14.9: Änderung der Schulentwicklungsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Versorgung wohnungsloser Menschen in Treptow-Köpenick - vertagt
