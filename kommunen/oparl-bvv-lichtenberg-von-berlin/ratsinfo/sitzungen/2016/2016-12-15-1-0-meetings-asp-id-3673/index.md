@@ -1,0 +1,70 @@
+# 3. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2016-12-15T17:00:00+01:00
+- Ende: 2016-12-15T21:40:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3673
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3673
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=207831
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5.1: Kältehilfe in Lichtenberg - schriftlich beantwortet
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Wahl der PatientenfürsprecherInnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Die Wohnbevölkerung im Weitlingkiez in ihrer Zusammensetzung erhalten - überwiesen
+- TOP 7.5: Ein gesonderter Titel für den Unterhalt von Fußverkehrsinfrastruktur in Haushaltsplänen - überwiesen
+- TOP 7.6: Ein gesonderter Titel für den Unterhalt von Radverkehrsinfrastruktur in Haushaltsplänen - überwiesen
+- TOP 7.7: Schutz von wildlebenden Tieren in Zirkussen - überwiesen
+- TOP 7.8: Mülleimer an Spazierwegen - überwiesen
+- TOP 7.9: Tierschutz in Lichtenberg - keine Unterhaltung auf Kosten des Wohls von Tieren - überwiesen
+- TOP 7.10: Finanzierung von Judomatten - überwiesen
+- TOP 7.11: Parkhausausfahrt des Lindencenters sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 7.12: Keine vollendeten Tatsachen in der Ruschestraße schaffen - überwiesen
+- TOP 7.13: Antrag auf Änderung des Flächennutzungsplans Berlin im Bereich des Gleisdreiecks Kietzer Weg, Wartenberg-Straße, Tasdorfer Straße, Wiesenweg - überwiesen
+- TOP 7.14: BVV-Sondermittel für den Förderkreis Museum Lichtenberg im Stadthaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Sondermittel für Graffiti-Projekt "Buntes Ostseeviertel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Vorschlag einer barrierefreien Tour durch den Fennpfuhl - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.17: Soziale Eintrittspreise für den Tierpark sichern - Tierpark für alle - überwiesen
+- TOP 7.18: BVV-Sondermittel für den Osteuropa Zentrum Berlin e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: BVV-Sondermittel für den Förderverein des Manfred von Ardenne Gymnasiums - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Weg unter der Karlshorster Brücke für RadfahrerInnen kenntlich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Sondermittel für das Kulturfest der Vielfalt und Begegnung "HERZBERGER LICHTER" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: BVV-Sondermittel für den SC Borussia - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Sondermittel für die Festwoche zum 25. Jahrestag Miteinander Wohnen e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Gemeinsamer Fahrrad- und Gehweg in der Waldowallee in Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.25: Haltelinie auf Höhe der Tamseler Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Die BVV bei Veräußerungen bezirkseigener Flächen einbeziehen - überwiesen
+- TOP 7.27: Gute Arbeit und gute Fachkräfte für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Schilder - verkehrsberuhigte Zone besser anbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: BVV-Sondermittel für den Wartenberger Sportverein e.V. Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: AG "Infrastruktur Wachsende Stadt" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.31: Arbeitsstruktur zur Vorbereitung und Umsetzung des Berliner E-Government-Gesetzes (EGovG Bln) im Bezirk Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.32: Teilnahme des Nachbarschaftshauses "Orangerie" des Trägers Kiezspinne FAS e. V. am Bundesprogramm "Mehrgenerationenhaus" des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMFSFJ) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.33: Bericht des Bezirksamtes zu Maßnahmen und Projekten des Bezirkes Lichtenberg im Integrationsfonds/Bezirkliches Nachbarschaftsprogramm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.34: Bebauungsplan XVII-4 - Fortführung des Verfahrens Arbeitstitel: Ostkreuz - überwiesen
+- TOP 7.35: Bereichsentwicklungsplanung Lichtenberg, Fachlicher Teilplan: Bereichsentwicklungsplanung Wohnen (BEP Wohnen), Auswertung der Beteiligung der Senatsverwaltungen, bezirklichen Fachämter, Nachbarbezirke, Nachbargemeinden und sonstiger TöB - überwiesen
+- TOP 8: Wahlen - (offen)
+- TOP 8.1: Wahl des Bezirksamtes - gewählt
+- TOP 9: Anträge zur Beschlussfassung - (offen)
+- TOP 9.1: Ertüchtigung der Sportanlage neben den Turnhallen Klützer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Moderne Polizeiwache für Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Lückenschluss am Fahrradweg Gehrenseestraße - überwiesen
+- TOP 9.4: Anträge, Anfragen und Kenntnisnahmen nur noch in gegenderter Sprache - überwiesen
+- TOP 9.5: Reformationsausstellung nach Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Unterstützung des Tages-Treffs für Wohnungslose im Weitlingkiez - mit Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 10.1: Bebauung des Innenhofs Paul-Zobel-Straße 10 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Schließung der Sitzung - erledigt
