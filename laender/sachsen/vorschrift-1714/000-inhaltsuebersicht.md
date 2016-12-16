@@ -1,12 +1,14 @@
 # Inhaltsübersicht
 Abschnitt 1 Befähigung und Ausbildung für den Gerichtsvollzieherdienst
 § 1 Befähigung zum Gerichtsvollzieher
-§ 2 Ziel der Ausbildung
-§ 3 Zulassung zur Ausbildung
+§ 2 Ziel der Gerichtsvollzieherausbildung
+§ 3 Zulassung zur Gerichtsvollzieherausbildung
+§ 3a Zulassung weiterer Bewerber
 § 4 Rechtsstellung
-§ 5 Ausbildung
+§ 4a Vorbereitende Ausbildung
+§ 5 Gerichtsvollzieherausbildung
 § 6 Ausbildende in der praktischen Ausbildung
-§ 7 Vorgesetzte
+§ 7 (weggefallen)
 § 8 Inhalt der praktischen Ausbildung
 § 9 Ausbildungszeugnisse in der praktischen Ausbildung
 § 10 Gestaltung der praktischen Ausbildung
@@ -18,8 +20,8 @@ Abschnitt 2 Gerichtsvollzieherprüfung
 § 15 Örtliche Prüfungsleiter
 § 16 Prüfungsausschuss und Prüfer
 § 17 Zulassung zum schriftlichen Teil der Prüfung
-§ 18 Prüfungsnoten
-§ 19 Mündliche Prüfung
+§ 18 Bewertung der Leistungen
+§ 19 (weggefallen)
 § 20 Prüfungszeugnis
 § 21 Festsetzung der Platznummern
 § 22 Ausscheiden aus der Ausbildung
