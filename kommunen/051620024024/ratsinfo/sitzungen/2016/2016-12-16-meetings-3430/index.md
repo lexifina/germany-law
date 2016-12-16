@@ -1,0 +1,59 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2016-12-16T16:03:00+01:00
+- Ende: 2016-12-16T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3430
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3430
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Deutsch als Fremdsprache. Aktueller Stand und Entwicklung 2016/2017 - einstimmig zugestimmt
+- TOP 7: Radverkehrsanlagen Kölner Straße / Bonner Straße zw. Nixhütter Weg und Kasterstraße - einstimmig zugestimmt
+- TOP 8: Viktoriastraße, Moltkestraße, Roonstraße u. Bismarckstr..: Straßenwiederherstellung nach Kanalbau - einstimmig zugestimmt
+- TOP 9: Feststellung des Jahresabschlusses des Tiefbaumanagements Neuss zum 31.12.2015 - einstimmig zugestimmt
+- TOP 10: Wirtschaftsplan 2017 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP 11: Gewinnverwendungsbeschluss 2015 der Liegenschaften und Vermessung Neuss (LVN) - einstimmig zugestimmt
+- TOP 12: Offene Ganztagsschule - Weiterentwicklung Neusser Modell - einstimmig zugestimmt
+- TOP 13: Schulentwicklungsplan Grundschulen - einstimmig zugestimmt
+- TOP 14: Führung der Buslinien 841 und 850 in den Bezirken Rosellen, Uedesheim und Norf - einstimmig zugestimmt
+- TOP 15: BP 489 - Skihalle - - einstimmig zugestimmt
+- TOP 16: Umbau Knotenpunkt Albertus-Magnus-/Altebrücker/Neuenbaumer Str. zu einem Mini-KV/Aufhebungsbeschl. - einstimmig zugestimmt
+- TOP 17: Am alten Bach - Anlegen eines Parkstreifens - einstimmig zugestimmt
+- TOP 18: Prüfung des Gesamtabschlusses 2013 - einstimmig zugestimmt
+- TOP 19: Prüfung des Gesamtabschlusses 2014 - einstimmig zugestimmt
+- TOP 20: Prüf. d. Jahresabschl. sowie d. Jahresabschl. d. 2 Sonderhaush.(Hesemann- und Reindl-Stiftung) 2015 - einstimmig zugestimmt
+- TOP 21: Änderung der Rechnungsprüfungsordnung (RPO) - einstimmig zugestimmt
+- TOP 22: Vertrag mit der Ev. Jugend- und Familienhilfe gGmbH über die Förderung der Ambulanz für Kinderschutz - einstimmig zugestimmt
+- TOP 23: Genehmigung von überplanmäßigen Aufwendungen im Bereich der Hilfen zur Erziehung und der Vormundscha - einstimmig zugestimmt
+- TOP 24: Abfallgebühren 2017 - einstimmig zugestimmt
+- TOP 25: Jahresabschluss GMN 2015 - einstimmig zugestimmt
+- TOP 26: Wirtschaftsplan GMN 2017 - einstimmig zugestimmt
+- TOP 27: Sanierung Rathaus Norf, Kostendarstellung - einstimmig zugestimmt
+- TOP 28: Vereinbarung zur Übertragung von Entsorgungsaufgaben (Elektronikgerätegesetz) - einstimmig zugestimmt
+- TOP 29: Beschlüsse zur Ergebnisverbesserung des Haushaltes 2017 - mehrheitlich zugestimmt
+- TOP 30: Beratung des Haushaltsplan-Entwurfes 2017 - mehrheitlich zugestimmt
+- TOP 31: Mittelfristige Ergebnisplanung 2016 - 2020 - mehrheitlich zugestimmt
+- TOP 32: Beratung Investitionsprogramm 2016-2020 - mehrheitlich zugestimmt
+- TOP 33: Erlass Hebesatzsatzung - mehrheitlich zugestimmt
+- TOP 34: Erlass Haushaltssatzung 2017 - mehrheitlich zugestimmt
+- TOP 35: Verkaufsoffene Sonntage 2017-2019 - mehrheitlich zugestimmt
+- TOP 36: Änderung der Vergabeordnung der Stadt Neuss - einstimmig zugestimmt
+- TOP 37: Benennung von Delegierten zur 39. ordentlichen Hauptversammlung des Deutschen Städtetages - einstimmig zugestimmt
+- TOP 38: Genehmigung Dringlichkeitsentscheidung Nr.110 Insel Hombroich Förderung - einstimmig zugestimmt
+- TOP 39: Antrag DIE LINKE: Einrichtung einer Arbeitsgruppe „ Wohnungs- und Obdachlosigkeit in Neuss“ - verwiesen
+- TOP 40: Antrag der Fraktion UWG/BIG: Event Location für Neuss - verwiesen
+- TOP 40.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Bericht zur aktuellen Flüchtlingssituation in Neuss - zur Kenntnis genommen
+- TOP 42: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 43: Kenntnisnahme üpl/apl IV./2015 und III/2016 - zur Kenntnis genommen
+- TOP 44: Einwohnerfragestunde - zur Kenntnis genommen
