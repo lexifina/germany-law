@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Münster 2016 Nr. 50 vom 16.12.2016
+
+- Herausgeber: Bezirksregierung Münster
+- Ausgabe: 2016-12-16 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 50
+- Quelle: https://www.brms.nrw.de/system/files/media/document/file/amtsblatt_50_2016.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 2 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
