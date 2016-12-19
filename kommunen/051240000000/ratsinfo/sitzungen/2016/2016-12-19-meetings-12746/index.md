@@ -1,0 +1,89 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2016-12-19T16:10:00+01:00
+- Ende: 2016-12-19T19:25:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12746
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12746
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung m. d. Ergebnissen d. Vorberatung - Stand: 09.12.16 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00201099.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00201894.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Jobcenter Widerspruchsbewältigung - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Jobcenter Widerspruchsbewältigung" (VO/0828/16) vom 21.10.2016 - Entgegennahme ohne Beschluss
+- TOP 2.2: Betreuung im Jobcenter Wuppertal und Prüfungen durch den Bundesrechnungshof - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Betreuung im Jobcenter Wuppertal und Prüfungen durch den Bundesrechnungshof " (VO/0984/16) vom 28.11.2016 - Entgegennahme ohne Beschluss
+- TOP 2.3: Anfrage zu Postrückständen im Jobcenter Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Postrückstände im Jobcenter Wuppertal" (VO/0986/16) vom 28.11.2016 - Entgegennahme ohne Beschluss
+- TOP 2.4: Anfrage Jobcenter - Sanktionen durch lange Postlaufzeiten? - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Jobcenter - Sanktionen durch lange Postlaufzeiten?" (VO/0988/16) vom 28.11.2016 - Entgegennahme ohne Beschluss
+- TOP 2.5: Döppersberg-Journal - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 29.11.16 - Döppersberg Journal - Entgegennahme ohne Beschluss
+- TOP 2.6: Auftreten von Krätze (Skabies) im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER vom 05.12.2016 - Entgegennahme ohne Beschluss
+- TOP 2.7: Ausstieg aus der Beteiligung am Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Ausstieg aus der Beteiligung am Kohlekraftwerk Wilhelmshaven - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 06.12.2016 - Entgegennahme ohne Beschluss
+- TOP 2.8: Verspätungssituation / Ausfälle auf der S-Bahn-Linie S 9 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Sonderprüfung der Geschäftsbeziehung Stadt – WMG – Firma ASS durch das Rechnungsprüfungsamt - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Änderung der Hauptsatzung der Stadt Wuppertal - vertagen
+- TOP 6.2: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Neufassung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen - vertagen
+- TOP 6.3: Gebührensatzung zur Abfallwirtschaft 2017 - ungeändert beschlossen
+- TOP 6.4: 1. Satzung zur Änderung der Abfallwirtschaftssatzung der Stadt Wuppertal vom 19.12.2012 - ungeändert beschlossen
+- TOP 6.5: 10. Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Neufassung der Satzung des Jugendamts der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.7: 4. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.8: Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2017 - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2015 (nur Rat) - ungeändert beschlossen
+- TOP 7.2: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2015 (nur Rat) - ungeändert beschlossen
+- TOP 7.3: Neugestaltung Döppersberg - Erhöhung der Projektkosten und Sicherstellung der Finanzierung - ungeändert beschlossen
+- TOP 7.4: Nachtragshaushaltsplan 2017 - ungeändert beschlossen
+- TOP 7.5: Bürgerbeteiligung zur Haushaltsplanung 2018/2019 im Rahmen des EU-Projekts EMPATIA - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2017 des Eigenbetriebes Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan 2017 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan 2017 der Kinder- und Jugendwohngruppen - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2017 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: - Verlagerung des WSV-Jugendleistungszentrums zum Stadion am Zoo - ungeändert beschlossen
+- TOP 9.1.1: VO/0873/16, hier: Neubau einer Sporthalle in der Nevigeser Straße - abgelehnt
+- TOP 9.2: Bebauungsplan 1239 - Sportplatz Nevigeser Straße - (mit Flächennutzungsplanberichtigung 111B) - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1198 - Waldeckstraße / Auf der Bleiche - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1206 - Carnaper Straße/ Hatzfelder Straße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 846 - Schwarzbach / Hügelstraße - 1. Änderung - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung eines Modulbaus für den Offenen Ganztag der Grundschule Birkenhöhe als Ersatz für den abgängigen Leichtbau - ungeändert beschlossen
+- TOP 10.2: Sanierung des Gymnasiums am Kothen, Schluchtstr. 34, 42285 Wuppertal - ungeändert beschlossen
+- TOP 10.3: Grundsatzbeschluss zur Weiterentwicklung des Historischen Zentrums/Engels Haus - Projekt Engels 2020 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Vorberatungen nicht abgeschlossen. Freies Internet in allen öffentlichen Verkehrsmitteln - vertagen
+- TOP 11.1.1: Abgesetzt. Vorberatungen nicht abgeschlossen. Stellungnahme der Verwaltung zum freien Internet in allen öffentlichen Verkehrsmitteln - vertagen
+- TOP 11.2: Antrag auf Genehmigung der Erhöhung der Zügigkeit eines Bildungsgangs gemäß § 81 Absatz 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.3: Grundschulentwicklung der Stadt Wuppertal im Stadtbezirk Oberbarmen - ungeändert beschlossen
+- TOP 11.4: Umsetzung des Förderprogramms „Gute Schule 2020“ des Landes Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.5: Rettungsdienstbedarfsplan der Stadt Wuppertal 2016 - ungeändert beschlossen
+- TOP 11.6: Fortschreibung des Integrierten Stadtentwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.7: Fortschreibung des Integrierten Stadtentwicklungskonzeptes - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.8: Wuppertal 2025 - Zwischenbericht zur Umsetzung - Entgegennahme ohne Beschluss
+- TOP 11.9: Abgesetzt. Vorberatung nicht abgeschlossen.Strategische Raumplanung für die Stadtverwaltung - vertagen
+- TOP 11.10: Beitritt der Stadt Wuppertal als Träger zur d-NRW Anstalt öffentlichen Rechts mit Wirkung ab 01.01.2017 - ungeändert beschlossen
+- TOP 11.11: Beteiligung der Stadt Wuppertal am Landesprogramm "NRWeltoffen: Lokale Handlungskonzepte gegen Rechtsextremismus und Rassismus" - ungeändert beschlossen
+- TOP 11.12: Sanierungsstau Wuppertaler Ingenieurbauwerke - Entgegennahme ohne Beschluss
+- TOP 11.12.1: Sanierungsstau Wuppertaler Ingenieurbauwerke - Entgegennahme ohne Beschluss
+- TOP 11.13: Projekt Seilbahn - Bericht - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Wiederberufung der Mitglieder des Gestaltungsbeirats - ungeändert beschlossen
+- TOP 12.2: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.3: 39. ordentliche Hauptversammlung des Deutschen Städtetages vom 30. Mai bis 01. Juni 2017 in Nürnberg - Entsendung der Delegierten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung – Antrag der CDU-Fraktion vom 12.12.2016 - ungeändert beschlossen
