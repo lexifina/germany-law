@@ -1,0 +1,74 @@
+# Stadtrat (20. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2016-12-20T17:00:00+01:00
+- Ende: 2016-12-20T21:39:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZb04YyN8iW3DsbXPa161-5c
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/20051
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXPrt5LeNQah6glxOgVcQuuGw3-sJs_KAU6Th6XoeJ00/Bekanntmachung_Stadtrat_20.12.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZegOQ-aVNtWWMH4IrQfQuhYJYE-bZ48lfengSHtErAef/Oeffentliche_Niederschrift_Stadtrat_20.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 1a: Gewährung von einzelfallbezogenen Investitionszuschüssen an Vereine hier: Umwandlung des Tennensportplatzes im Wolfgang-Graf-Berghe-von-Trips-Stadion in einen Kunstrasenplatz - (kein Text vorhanden)
+- TOP 1b: Sanierung der Erftlagune
+- TOP 2.: Einbringung des Entwurfs der Haushaltssatzung für das Jahr 2017
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung des Bau- und Feuerschutzausschusses hier: Antrag der Fraktion DIE LINKE - (kein Text vorhanden)
+- TOP 3.2: Umbesetzung des Ausschusses für Sport, Freizeit und Kultur hier: Antrag der Fraktion DIE LINKE - (kein Text vorhanden)
+- TOP 3.3: Umbesetzung Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 3.4: Besetzung von Räten in städtischen Kindertageseinrichtungen - (kein Text vorhanden)
+- TOP 3.5: Umbesetzung von Ausschüssen hier: Antrag der CDU-Fraktion - (kein Text vorhanden)
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 20. Satzung zur Änderung der Hauptsatzung der Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 4.2: 8. Änderungssatzung der Bestattungs- und Friedhofssatzung der Stadt Kerpen - (kein Text vorhanden)
+- TOP 4.3: 25. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen - (kein Text vorhanden)
+- TOP 4.4: 17. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen - (kein Text vorhanden)
+- TOP 4.5: 10. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen - (kein Text vorhanden)
+- TOP 4.6: 16. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen - (kein Text vorhanden)
+- TOP zu 4.6: 16. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Verlängerung der Veränderungssperre für den Geltungsbereich des Bebauungsplanes TÜ 356 "Eifelstraße/Heerstraße", Stadtteil Brüggen - (kein Text vorhanden)
+- TOP 5.2: Flurbereinigungsverfahren Hambach Ost, Änderung der Stadtgrenze hier: Aufhebung des Ratsbeschlusses vom 11.12.2012 - (kein Text vorhanden)
+- TOP 5.3: Beschlussergänzung zu DRS-Nr. 638.16 ISEK Maastrichter Straße - Beschluss gem. § 171 e (3) BauGB - (kein Text vorhanden)
+- TOP 5.3.1: ISEK Maastrichter Straße - Beschluss gem. § 171 e (3) BauGB
+- TOP 5.4: BP HO Nr. 364 "Sandweg", hier: Abschluss einer Projektvereinbarung über die Entwicklung von Bauflächen - (kein Text vorhanden)
+- TOP 5.5: Genehmigungsantrag der Fa. SL-Windenergie GmbH zur Errichtung von 5 Windenergieanlagen in Kerpen-Türnich vom 20.07.2016 gemäß § 4 BImSchG hier: Stellungnahme
+- TOP 6.: Errichtung einer Kindertagesstätte im Bereich Gleisdreieck/Horrem
+- TOP 7.: Anbau einer dritten Gruppe an die städtische Kindertagesstätte Pusteblume Manheim- neu hier: Antrag der Ortsvorsteherin Lonie Lambertz - (kein Text vorhanden)
+- TOP 8.: Erweiterung der Ulrichschule Sindorf / Integration einer Begegnungsstätte hier: Anträge der SPD-Fraktion - (kein Text vorhanden)
+- TOP 9.: Umsetzung Haushaltssicherungskonzept hier: Spielplatzbedarfskonzept - (kein Text vorhanden)
+- TOP 10.: Sachstandsbericht zur Flüchtlingsunterbringung in der Kolpingstadt Kerpen
+- TOP 11.: Entwurf des Jahresabschlusses auf den 31.12.2014 - (kein Text vorhanden)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1: Stellenplan: Einrichtung zusätzlicher Stellen für die Intensivierung des Zuschuss- und Förderwesens innerhalb der Abteilung 18.1 hier: Antrag der Fraktion DIE LINKE - (kein Text vorhanden)
+- TOP 13.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 14.: Mitteilungen
+- TOP 15.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.1: Projekt "ZunkunftsEnsemble Schloss Türnich" hier: Anfrage der Faktion DIE LINKE
+- TOP 16.2: Kolpinghaus Kerpen hier: Anfrage der Fraktion DIE LINKE
+- TOP 16.3: Umsetzung des Tarifvertrages für den Sozial- und Erziehungsdienst aus 2015 in Kerpen hier: Anfrage der Faktion DIE LINKE
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Eigentumserwerb Maastrichter Straße 5-7 hier: Bericht des Rechtsanwaltes Dr. Jennißen
+- TOP 18.: Verkauf der städtischen Grundstücke in der Gemarkung Sindorf, Flur 16, Flurstücke 1200 und 1201 (ehemaliges Hallenbad Sindorf) - (kein Text vorhanden)
+- TOP 19.: Prüfung des Jahresabschlusses 2016 sowie der Gesamtabschlüsse 2014, 2015 und 2016
+- TOP 20.: Durchführung eines Mobilitätsleitbild-Prozesses „Kolpingstadt Kerpen 2030“ hier: Auftragsvergabe Anträge der CDU-Fraktion - (kein Text vorhanden)
+- TOP 21.: Nachtragsbeauftragungen Sanierung Erftlagune
+- TOP 21.1: 2. Nachträgliche Anpassung zum Architektenvertrag „Sanierung Erftlagune“ - (kein Text vorhanden)
+- TOP 21.2: 5. Nachtragsbeauftragung zur Lüftungstechnik „Sanierung Erftlagune“ - (kein Text vorhanden)
+- TOP 21a: Auftragsvergabe: Wärmeversorgungsanlagen Bürgerzentrum Manheim-Neu - (kein Text vorhanden)
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.1: Beförderungen zum Stadtverwaltungsrat - (kein Text vorhanden)
+- TOP 22.2: Abberufung eines Verwaltungsprüfers - (kein Text vorhanden)
+- TOP 23.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 24.: Mitteilungen
+- TOP 25.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 26.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
