@@ -1,0 +1,56 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2016-12-20T17:30:00+01:00
+- Ende: 2016-12-20T19:45:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRpo15BsLoAcvws2ppE2Scg
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1101
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWfWObM05QKJ2H_5j-9-ALf0jykHjDsJUK0lkQXn3IYr/Bekanntmachung_Rat_20.12.2016.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfJjNbG9u8c71puQc4NrUlnH10tg4fmfOFfp_guHb3p5/Oeffentliches_Beschlussprotokoll_Rat_20.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 17.11.2016
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Gedenken der Opfer des Anschlages auf dem Weihnachtsmarkt in Berlin
+- TOP 11.: Wirtschaftsangelegenheiten
+- TOP 11.1: Weiterführung von Marketingaktivitäten zum Wirtschaftsstandort Wallenhorst
+- TOP 4.: Satzungsrecht
+- TOP 4.1: 2. Änderung der Hauptsatzung Beschließende Ausschüsse - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Aufhebung der Satzung über die Rechtsstellung der Gleichstellungsbeauftragten der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kommunalrechtsangelegenheiten
+- TOP 5.1: Berufung einer hauptamtlichen Gleichstellungsbeauftragten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Bildung der beschließenden Ausschüsse „Bauen, Planen, Straßen und Verkehr“ und „Wirtschaft und Finanzen“ Benennung der stellvertretenden Ausschussmitglieder - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Bildung des Ausschusses für Kindergärten, Schulen und Bildung Vertretung der Lehrer, Eltern und Schüler - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Jahresabschluss 2015 der Gemeindewerke Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Feststellung des Wirtschaftsplanes der GWW GmbH für 2017 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Seniorenangelegenheiten
+- TOP 7.1: Jahresbericht Seniorenbeirat
+- TOP 8.: Verkehrsangelegenheiten
+- TOP 8.1: Umbau Kreuzungsbereich „Am Pingelstrang/Stüvestraße/Pyer Kirchweg“ - mehrheitlich mit 25 Ja-Stimme(n), 8 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 9.: Bauleitpläne
+- TOP 9.1: Vorhabenbezogener Bebauungsplan Nr. 270 „Ehemaliger Schützenplatz Hollage“ hier: Entwurfsbeschluss und Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 BauGB und zur Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB - mehrheitlich mit 29 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.2: Aufstellungsbeschluss zur Aufhebung des ´Vorhabenbezogenen Bebauungsplanes´ Nr. 227 „Östlich der Niedersachsenstraße“ in der Fassung der 1. Änderung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Aufstellungsbeschluss Bebauungsplan Nr. 273 „Rathausallee / Alte Hofstelle“ - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 9.4: Bebauungsplan Nr. 254 "Östlich Pollerweg / südlich Hansastraße" hier: Aufhebung des Satzungsbeschlusses und Neufassung des Satzungsbeschlusses mit geänderter Planzeichnung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Umsetzung des Klimaschutzkonzeptes hier: Änderung der Förderkulisse: Einrichtung einer Fahrradstraße „Pyer Straße/Wessels Straße/südlicher Boerskamp“ und „Umbau des Knotenpunktes Osnabrücker Straße/Pyer Straße“ - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 10.2: Sanierungsmaßnahme "Wallenhorst-Zentrum" hier: Antrag der Anwohner „Berliner Viertel“ auf Erstellung eines Fußgängerüberweges an der ´Hollager Straße´ zwischen Einmündung ´Große Straße´ und dem ehemaligen Standort des Sportgeschäftes Dierker - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 10.3: Sanierungsmaßnahme „Wallenhorst-Zentrum“ hier: Ausbau des Bereichs „Große Straße – Nord“ - zurückverwiesen, mit 33 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 10.4: Aufhebung des ´Vorhabenbezogenen Bebauungsplanes´ Nr. 227 „Östlich der Niedersachsenstraße“ in der Fassung der 1. Änderung hier: Beschluss über den Erlass einer Satzung für eine Veränderungssperre gem.§ 14 Baugesetzbuch (BauGB) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.5: Satzung über ein besonderes Vorkaufsrecht nach § 25 Abs. 1 Nr. 2 Baugesetzbuch (BauGB) für den Bereich „Rathausallee / Alte Hofstelle“ - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 10.6: Fortschreibung des Einzelhandelskonzeptes der Gemeinde Wallenhorst - mehrheitlich mit 30 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.: Kämmereiangelegenheiten
+- TOP 12.1: Übernahme einer Bürgschaft zu Gunsten der Niedersächsichen Landgesellschaft mbH (NLG) - mehrheitlich mit 26 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.2: Genehmigung einer überplanmäßigen Auszahlung für den Umbau und die Erweiterung der Obdachlosenunterkunft Dreskamp 2 zu einer Flüchtlingsunterkunft - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Genehmigung zur Annahme von Zuwendungen (Ratsbeschluss) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Zeitnahe Information der Ratsmitglieder bei besonderer Einladung von Gästen zu Sitzungen
+- TOP 13.2: Zuweisung des Landkreises Osnabrück an die Kommunen
