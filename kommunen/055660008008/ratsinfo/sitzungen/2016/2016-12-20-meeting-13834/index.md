@@ -1,0 +1,63 @@
+# Rat (102. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2016-12-20T17:06:00+01:00
+- Ende: 2016-12-20T19:40:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVq0IAix1MSAIjsLnCW_RnU
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13834
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcF0Z2U-mJnDU9KJcWedtJfSba33eRd5y-kUbgPoQ1wT/Bekanntmachung_Rat_20.12.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQqDPVcNfOehxWm8o76JyIwERsnqUUIA4WZHe2IpU3yr/Oeffentliche_Niederschrift_Rat_20.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Verpflichtung und Einführung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift über die letzte Sitzung vom 27.10.2016
+- TOP 4.: Anträge und Anfragen; Eingänge
+- TOP 5.: Umbesetzung von Gremien - (kein Text vorhanden)
+- TOP 5.1: Umbesetzung von Gremien - Einstimmig
+- TOP 6.: Gesundheitsversorgung und Rettungsdienst in Emsdetten
+- TOP 7.: Satzung zur Änderung der Hauptsatzung für die Stadt Emsdetten - Einstimmig
+- TOP 8.: Neufassung der Richtlinien der Stadt Emsdetten zur Förderung von Städtepartnerschaftsaktivitäten - Einstimmig
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: Feststellung des Jahresabschlusses 2015, Behandlung des Fehlbetrages und Entlastung des Bürgermeisters - Zur Kenntnis genommen
+- TOP 9.2: Beteiligungsbericht 2015 - Zur Kenntnis genommen
+- TOP 10.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2017 - 33 Ja-Stimme(n), 0 Gegenstimme(n), 12 Enthaltung(en)
+- TOP 11.: Bebauungspläne
+- TOP 11.1: Vorhabenbezogener Bebauungsplan VEP Nr. 3 "Nahversorgungsstandort Nordwalder Straße" - Einleitungs- und Aufstellungsbeschluss - - Einstimmig
+- TOP 11.2: Bebauungsplan Nr. 111 "Rheiner Straße / Hermannstraße", 1. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 11.3: Bebauungsplan Nr. 35 A "Kanalweg", 5. Änderung - Satzungsbeschluss - - Einstimmig
+- TOP 11.4: Bebauungsplan Nr. 116 "nördlich Weststraße / Stefanstraße" - Satzungsbeschluss - - Einstimmig
+- TOP 12.: Privaterschließungs- und städtebauliche Verträge
+- TOP 12.1: Städtebaulicher Vertrag nach BauGB - Einstimmig
+- TOP 13.: IV. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 19. Dezember 2012 auf Grundlage der Gebührenkalkulation für das Jahr 2017 - 40 Ja-Stimme(n), 0 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 14.: XIV. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 15.: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) vom 20.12.2007 in der Fassung des X. Nachtrages - 43 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 16.: V. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04.07.2012 - Einstimmig
+- TOP 17.: Anpassung der Entwässerungssatzung und der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen an das novellierte Landeswassergesetz des Landes Nordrhein - Westfalen - Einstimmig
+- TOP 18.: Neubau einer Parkpalette am Bahnhof - 44 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 19.: Planung von Tiefbauvorhaben
+- TOP 19.1: Bauprogramm Sternbusch - Einstimmig
+- TOP 19.2: Bauprogramm Schwarzer Weg - Einstimmig
+- TOP 19.3: Bauprogramm Stichweg Friedhofsweg - Einstimmig
+- TOP 19.4: Kanalsanierung Mischwasserkanal Marienstraße - Einstimmig
+- TOP 20.: Schulangelegenheiten
+- TOP 20.1: Planungen zum Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 20.2: Zustimmung zur Einrichtung des Gemeinsamen Lernens an Emsdettener Grundschulen gem. § 20 Abs. 5 Schulgesetz - Einstimmig
+- TOP 21.: Kulturangelegenheiten
+- TOP 21.1: Ergänzung der Benutzungs- und Gebührenordnung der Stadtbibliothek - Einstimmig
+- TOP 22.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 22.1: Entwicklung ombudschaftlicher Strukturen in der Jugendhilfe im Kreis Steinfurt - Einstimmig
+- TOP 22.2: Elternbeitragssatzung - 35 Ja-Stimme(n), 10 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.3: Anpassung der Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Familienerholung - Einstimmig
+- TOP 23.: Stellenplan
+- TOP 23.1: Stellenplan 2017 - (kein Text vorhanden)
+- TOP 23.2: Stellenplan 2017 - 44 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 24.: Etat / Budget
+- TOP 24.1: Haushaltssatzung und Haushaltsplan 2017 - 34 Ja-Stimme(n), 11 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 25.: Verschiedenes
