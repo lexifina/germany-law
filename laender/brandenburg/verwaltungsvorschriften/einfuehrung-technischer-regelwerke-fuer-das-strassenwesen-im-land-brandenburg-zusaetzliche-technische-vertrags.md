@@ -1,35 +1,37 @@
-# Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für die Bauliche Erhaltung von Verkehrsflächenbefestigungen - Betonbauweisen, Ausgabe 2015 (ZTV BEB-StB 15)
+# Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für Fugen in Verkehrsflächen, Ausgabe 2015 (ZTV Fug-StB 15)
 
 - Herausgeber: Land Brandenburg
-- Datum: 2015-08-05 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ztbbeb2015
+- Datum: 2016-12-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ztv_fug_stb_15
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für die Bauliche Erhaltung von Verkehrsflächenbefestigungen - Betonbauweisen, Ausgabe 2015 (ZTV BEB-StB 15)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für Fugen in Verkehrsflächen, Ausgabe 2015 (ZTV Fug-StB 15)
 
-vom 5. August 2015
+vom 20. Dezember 2016
 
-(ABl./15, [Nr. 33], S.735)
+(ABl./17, [Nr. 02], S.35)
 
 Der Runderlass richtet sich an
 
-die Straßenbaubehörde des Landes Brandenburg,
+die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nummer 07/2015 vom 17. April 2015 hat das Bundesministerium für Verkehr und digitale Infrastruktur die „Zusätzlichen Technischen Vertragsbedingungen und Richtlinien für die Bauliche Erhaltung von Verkehrsflächenbefestigungen - Betonbauweisen, Ausgabe 2015 (ZTV BEB-StB 15)“ bekannt gegeben.
+Mit dem Allgemeinen Rundschreiben Straßenbau Nummer 11/2016 vom 11. April 2016 hat das Bundesministerium für Verkehr und digitale Infrastruktur die „Zusätzlichen Technischen Vertragsbedingungen und Richtlinien für Fugen in Verkehrsflächen, Ausgabe 2015 (ZTV Fug-StB 15)“ bekannt gegeben.
 
-Die Behandlung von Mängeln ist im „Handbuch für die Vergabe und Ausführung von Bauleistungen im Straßen- und Brückenbau (HVA B-StB)“, Abschnitt 3.10 Mängelansprüche geregelt.
+Die ZTV Fug-StB 15 behandeln die Herstellung von Fugen in Verkehrsflächen bei Neubau- und Erhaltungsmaßnahmen sowie für Flugplatzbefestigungen.
 
-Der Auftraggeber kann bei Über- und Unterschreitungen von Grenzwerten der Einbaudicke, der Einbaumenge, des Bindemittelgehaltes, des Verdichtungsgrades oder der Ebenheit, die einen Sachmangel nach § 13 Nummer 1 der Vergabe- und Vertragsordnung für Bauleistungen, Teil B: Allgemeine Vertragsbedingungen für die Ausführung von Bauleistungen (VOB/B) darstellen, dem Auftragnehmer anbieten, im Rahmen einer einzelvertraglichen Vereinbarung die Geltendmachung von Mängelansprüchen (§ 13 Nummer 5 VOB/B) vorerst zurückzustellen und dafür als Ausgleich einen Abzug vorzunehmen. Die Höhe des Abzugs bemisst sich dann nach den im Anhang G
+Bei Fahrbahndecken aus Beton kann zur Sicherstellung einer dauerhaften Dichtigkeit der Fugenfüllsysteme neben der Einhaltung der DIN EN 14188 und der „Technischen Lieferbedingungen für Fugenfüllstoffe in Verkehrsflächen, Ausgabe 2015 (TL Fug-StB 15)“ zusätzlich einzelvertraglich auch der Nachweis über ein performance-orientiertes Untersuchungsverfahren in den Ausschreibungsunterlagen abgefordert werden.
 
-der Zusätzlichen Technischen Vertragsbedingungen und Richtlinien für den Bau von Tragschichten mit hydraulischen Bindemitteln und Fahrbahndecken aus Beton, Ausgabe 2007 (ZTV Beton-StB 07) angegebenen Abzugsformeln.
+Aufgrund aktueller Erfahrungen bei der Verwendung von heiß verarbeitbaren Fugenmassen bei Fugenarbeiten im Bereich von Straßen in Betonbauweise ist ergänzend zu beachten, dass
 
-Hiermit werden die ZTV BEB-StB 15 für den Bereich der Bundesfernstraßen und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+der Fugenspalt (Kammerschnitt) möglichst spät (mindestens 14 Tage) nach dem Kerbschnitt herzustellen ist.
 
-Der Runderlass des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Nummer 18/2003 - Straßenbau vom 27. Januar 2003 (ABl. S. 286) wird aufgehoben.
+Hiermit werden die ZTV Fug-StB 15 für den Bereich der Bundesfernstraßen und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-Die ZTV BEB-StB 15 sind bei der FGSV Verlag GmbH, Wesselinger Straße 17, 50999 Köln zu beziehen.
+Der Runderlass des Ministeriums für Stadtentwicklung, Wohnen und Verkehr, Abteilung 5, Nummer 15/2003 - Straßenbau - vom 8. Januar 2003 (ABl. S. 189) wird hiermit aufgehoben.
+
+Die ZTV Fug-StB 15 sind bei der FGSV-Verlag GmbH, Wesselinger Straße 17, 50999 Köln zu beziehen.
