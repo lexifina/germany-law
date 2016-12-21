@@ -1,18 +1,18 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Runderlass des Ministeriums für Infrastruktur und Landw
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau Nummer 17/2016
 
 - Herausgeber: Land Brandenburg
-- Datum: 2016-12-12 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/od_leitfaden2016
+- Datum: 2016-12-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tl_g_dsh_v_stb_15
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Leitfaden für die Gestaltung von Ortsdurchfahrten in Brandenburg (OD-Leitfaden) - Ausgabe 2011
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für die Bauliche Erhaltung von Verkehrsflächenbefestigungen, Teil: Güteüberwachung, Teil: Ausführung von Dünnen Asphaltdeckschichten in Heißbauweise auf Versiegelung, Ausgabe 2015 (TL G DSH-V-StB 15)
 
-vom 12. Dezember 2016
+vom 21. Dezember 2016
 
-(ABl./17, [Nr. 1], S.3)
+(ABl./17, [Nr. 02], S.35)
 
 Der Runderlass richtet sich an
 
@@ -20,12 +20,18 @@ die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4, Nummer 13/2011 - Straßenentwurf vom 1. September 2011 (ABl. S. 1952) wurde der OD-Leitfaden für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Straßen eingeführt.
+Mit dem Allgemeinen Rundschreiben Straßenbau Nummer 17/2016 vom 17. Juli 2016 hat das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) die „Technischen Lieferbedingungen für die Bauliche Erhaltung von Verkehrsflächenbefestigungen, Teil: Güteüberwachung, Teil: Ausführung von Dünnen Asphaltdeckschichten in Heißbauweise auf Versiegelung, Ausgabe 2015 (TL G DSH-V-StB 15)“ bekannt gegeben.
 
-Der Runderlass ist mit Ablauf des 31. August 2016 außer Kraft getreten.
+Die TL G DSH-V-StB 15 regeln die Güteüberwachung der Bauweise Dünne Asphaltdeckschicht in Heißbauweise auf Versiegelung.
 
-Hiermit wird er in der Fassung des Runderlasses Nr. 13/2011 für den Bereich der Bundes- und Landesstraßen wieder eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung des OD-Leitfadens nach § 45 des Brandenburgischen Straßengesetzes als bautechnische Regelung erneut empfohlen.
+Im Auftrag der Obersten Straßenbaubehörde des Landes Brandenburg gibt der Landesbetrieb Straßenwesen Brandenburg (LS) die güteüberwachten Ausführenden und Sprühfertiger aus dem Land Brandenburg über eine Liste auf der Internetseite  bekannt (www.ls.brandenburg.de).
 
-Für den OD-Leitfaden besteht Überarbeitungsbedarf. Bis zum Vorliegen des evaluierten Leitfadens dient die Ausgabe 2011 weiterhin als Anleitung zur Gestaltung von Ortsdurchfahrten, speziell für Brandenburger Gegebenheiten. Grundlage für die Technische Planung eines Entwurfes sind weiterhin die Regelwerke des Bundes und die derzeit gültigen StVO-Regelungen.
+Die Fremdüberwachungsberichte der im Land Brandenburg ansässigen ausführenden Firmen sind dem LS zuzusenden. Güteüberwachte Ausführende und Sprühfertiger aus anderen Bundesländern gelten in Brandenburg als anerkannt.
 
-Der Runderlass wird im Amtsblatt für Brandenburg und im Brandenburgischen Vorschriftensystem (BRAVORS) veröffentlicht.
+In den Ausschreibungsunterlagen für die Bauweise Dünne Asphaltdeckschichten in Heißbauweise auf Versiegelung ist der Nachweis der Durchführung der Fremdüberwachung gemäß
+
+TL G DSH-V-StB 15 abzufordern.
+
+Hiermit werden die Regelungen des BMVI und die TL G DSH-V-StB 15 für den Bereich der Bundesfernstraßen und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+
+Die TL G DSH-V-StB 15 sind bei der FGSV-Verlag GmbH, Wesselinger Str. 17, 50999 Köln zu beziehen.
