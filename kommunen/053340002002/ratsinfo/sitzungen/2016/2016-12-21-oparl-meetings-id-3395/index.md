@@ -1,0 +1,69 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2016-12-21T17:00:00+01:00
+- Ende: 2016-12-21T20:25:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3395
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3395
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 23.11.2016 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Änderung der Richtlinien der Stadt Aachen über die Gewährung einer laufenden Geldleistung an Tagespflegepersonen gem. § 23 Abs. 1 und Abs. 2 des SGB VIII - ungeändert beschlossen
+- TOP 5: Programm "Gute Schule 2020", hier: Ratsanträge von SPD, CDU, GRÜNE und Piraten - geändert beschlossen
+- TOP 5.1: Programm "Gute Schule 2020", Hier: Ratsanträge von SPD, CDU, GRÜNE und Piraten - ungeändert beschlossen
+- TOP 6: Entwurf des Jahresabschlusses 2015 - ungeändert beschlossen
+- TOP 7: Bebauungsplan Nr. 968 - Weißhausstraße / Höfchensweg - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Weißhausstraße, Eupener Straße, Höfchensweg und der Bahnlinie Aachen - Hergenrathhier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Erlass einer Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Aachen (Feuerwehrsatzung) - ungeändert beschlossen
+- TOP 9: Erlass einer Satzung über die Erhebung von Gebühren für die Durchführung der Brandverhütungsschau in der Stadt Aachen - ungeändert beschlossen
+- TOP 10: 19. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt AachenHier: notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 11: Neufassung der Entwässerungssatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 12: 16. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 13: 29. Nachtragssatzung zur Straßenreinigungs- und Gebührensatzung - ungeändert beschlossen
+- TOP 14: Friedhofsgebührenordnung der Stadt Aachen- Gebührenbedarfsberechnung 2017 - - ungeändert beschlossen
+- TOP 15: Bericht der PricewaterhouseCoopers AG Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2015 und Lagebericht für das Wirtschaftsjahr 2015 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 16: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2015 - ungeändert beschlossen
+- TOP 17: Wirtschaftsplan 2017 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 18: Jahresabschluss zum 31. 12. 2015 und Lagebericht 2015 der Volkshochschule Aachen - ungeändert beschlossen
+- TOP 19: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2017 - geändert beschlossen
+- TOP 19.1: Ergänzungsvorlage zum Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2017 - ungeändert beschlossen
+- TOP 20: Wirtschaftsplan 2017 Eurogress Aachen - ungeändert beschlossen
+- TOP 21: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 21.1: Über-und außerplanmäßige Aufwendungen/ Auszahlungen/Verpflichtungsermächtigungen im Hhj.2016Überplanmäßige Mittelbereitstellung für die Maßnahme "Aufwertung des öffentlichen Spielplatzes Neumarkt" - ungeändert beschlossen
+- TOP 21.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2016; Produkt 100201 für die Einführung von E-Flottenmanagement bei der Stadt Aachen - ungeändert beschlossen
+- TOP 22: Wahl des Kreiswahlausschusses für die Landtagswahl am 14.05.2017 - ungeändert beschlossen
+- TOP 23: Neuregelung der Umsatzbesteuerung der juristischen Person des öffentlichen Rechts gem. § 2b Umsatzsteuergesetz (UStG) - ungeändert beschlossen
+- TOP 24: Gründung des Vereins "Metropolregion Rheinland e.V."hier: Mitgliedschaft der Stadt Aachen - vertagt
+- TOP 25: Benennung von 2 stimmberechtigten Delegierten für die 39. ordentliche Hauptversammlung des Deutschen Städtetages vom 30. Mai bis 01. Juni 2017 in Nürnberg - ungeändert beschlossen
+- TOP 26: Fortführung des Grenzinfopunktes Aachen/Eurode - ungeändert beschlossen
+- TOP 27: Anfragen:
+- TOP 27.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 27.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 28: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 28.1: Umbesetzungsantrag der Ratsgruppe "Allianz für Aachen" - ungeändert beschlossen
+- TOP 28.2: Umbesetzungsantrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 28.3: Umbesetzungsantrag der Piraten-Fraktion - ungeändert beschlossen
+- TOP 29: Mitteilungen der Verwaltung
+- TOP 30: Ratsanträge - zur Kenntnis genommen
+- TOP 31: Trinationale Ratskonferenz der MAHHL-Städte - Atomkraft in der Euregio Maas Rheinhier: Tagesordnungsantrag der GRÜNE-Fraktion vom 06.12.2016 - geändert beschlossen
+- TOP 32: Ingenieurleistungen - bedarfsgerecht und kosteneffizientRatsantrag Nr. 166/17 der Fraktionen SPD und CDU vom 29.04.2016 - verwiesen
+- TOP 33: Ratsantrag Nr. 219/17 vom 11.11.2016 zur Ratssitzung 23.11.2016;Allianz für Aachen - demokratische Mitwirkungsmöglichkeiten u.a. - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
