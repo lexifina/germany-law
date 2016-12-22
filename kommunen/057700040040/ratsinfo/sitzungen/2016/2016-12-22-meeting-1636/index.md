@@ -1,0 +1,66 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2016-12-22T17:00:00+01:00
+- Ende: 2016-12-22T21:30:00+01:00
+- Ort: Gymnasium Rahden, Freiherr-vom-Stein-Straße 5, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZsHx9vF-3-uoWzZkwQjojY
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1636
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfz7H1nJehstryv36iEwIBSv868LboF44yaRqgVRKftx/Bekanntmachung_Rat_22.12.2016.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXqjjIOTpoeiWoHl-x1jb0Zl2yR_rbK2xKgAvIiobI4K/Oeffentliche_Niederschrift_Rat_22.12.2016.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Grundsteuer A
+- TOP 4.: Antrag der Firma Heinrich Meier Eisengießerei GmbH & Co. KG, Auf der Welle 5-7, 32369 Rahden, auf Einziehung der Gemeindestraße "Auf der Welle" im Abschnitt von der "Weher Straße" bis zur Einmündung der Straße "Lange Reihe" zum Zwecke der Nutzung als Werkstraße - 29 Stimmen dafür, 3 dagegen (Spreen/Korte/Staubach), 0 Enthaltungen
+- TOP 5.: 72. Änderung des Flächennutzungsplanes der Stadt Rahden zur Darstellung von Konzentrationszonen für die Windenergienutzung im Stadtgebiet Rahden; hier: Beratung und Beschlussfassung über die während der Offenlage des Entwurfes des Bauleitplanes vorgebrachten Anregungen gem. § 3 Abs. 2 sowie § 4 Abs. 2 BauGB Beratung und Beschlussfassung über die erneute öffentliche Auslegung des Änderungsplanes für die 72. Änderung des Flächennutzungsplanes gem. § 4a Abs. 3 Baugesetzbuch (BauGB) - 28 Stimmen dafür, 3 dagegen (Staubach/Zimmermann/Steinkamp), 1 Enthaltung (G. Meyer)
+- TOP 6.: Aufstellung des Bebauungsplanes Nr. 89 "Flachsstraße/Lübbecker Straße" zur Ausweisung einer Wohnbaufläche in Rahden Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 7.: Aufstellung des Bebauungsplanes Nr. 91 "Wehe - Husen" sowie 79. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 91 "Wehe - Husen" sowie des Änderungsplanes für die 79. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 8.: 3. vereinfachte Änderung des Bebauungsplanes Nr. 41 „Gewerbegebiet Pr. Ströhen" Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im vereinfachten Verfahren gem. § 13 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Entwurf und über die Beteiligung der betroffenen Öffentlichkeit sowie der der berührten Behörden und sonstigen Träger öffentlicher Belange gemäß § 13 Abs. 2 Nr. 2 und 3 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 9.: Ansprechpartner für Seniorinnen/Senioren in der Stadt Rahden - Ohne Abstimmung
+- TOP 10.: Fortschreibung des Einzelhandelskonzeptes der Stadt Rahden; hier: abschließende Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 11.: Ersatzwahl eines Mitgliedes für den Feuerwehrausschuss - Einstimmig, 0 Enthaltungen
+- TOP 12.: 1. Aufwandsentschädigung für Ausschussvorsitzende Änderung der Hauptsatzung - Einstimmig, 0 Enthaltungen
+- TOP 13.: Rückbau und Ersatz für den Sportplatz im Ortskern von Tonnenheide an der Tonnenheider Straße - 30 Stimmen dafür, 2 dagegen (Staubach/Steinkamp), 0 Enthaltungen
+- TOP 14.: Beratung und Beschlussfassung über den Stellenplan 2017 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Rahden (Hebesatzsatzung) - 17 Stimmen dafür, 14 dagegen (CDU), 1 Enthaltung (Korte)
+- TOP 16.: Entwurf der Haushaltssatzung 2017 mit Haushaltsplan - 29 Stimmen dafür, 3 dagegen (Staubach/Steinkamp/Zimmermann), 0 Enthaltungen
+- TOP 17.: Antrag auf Änderung der Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 (Friedhofssatzung) - 29 Stimmen dafür, 3 dagegen (Staubach/Steinkamp/Zimmermann), 0 Enthaltungen
+- TOP 18.: Neubau des Feuerwehrgerätehauses für die Löschgruppen Varl-Sielhorst; hier: Bauplanungen - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bildung eines Grundschulverbundes zwischen der Gemeinschaftsgrundschule Tonnenheide-Wehe und der Ev. Grundschule Pr. Ströhen der Stadt Rahden zum Schuljahr 2017/18 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bildung von Eingangsklassen im Schuljahr 2017/18 und Verteilung auf die Grundschulen der Stadt Rahden - 27 Stimmen dafür, 3 dagegen (Bruhn/Korte/Spreen), 2 Enthaltungen (Krückemeier, Steinkamp)
+- TOP 21.: Durchführung von Baumaßnahmen im Feuerwehrgerätehaus Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 22.: Beschaffung eines Löschgruppenfahrzeuges (LF 10) für die Löschgruppe Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 23.: Erlass der 12. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung der öffentlichen Abfallentsorgung in der Stadt Rahden vom 19.12.1994 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2017 - Einstimmig, 0 Enthaltungen
+- TOP 25.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2017 - Einstimmig, 0 Enthaltungen
+- TOP 26.: 6.Änderungssatzung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 27.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2017 - Einstimmig, 0 Enthaltungen
+- TOP 28.: 6. Satzung vom __________ zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 29.: Antrag der Fraktion BÜNDNIS90/DIE GRÜNEN vom 11.10.2016 - 30 Stimmen dafür, 2 dagegen (BÜNDNIS 90/DIE GRÜNEN), 0 Enthaltungen
+- TOP 30.: Bündelausschreibung Strom/Ökostrom - 31 Stimmen dafür, 0 dagegen, 1 Enthaltung (Dodenhöft)
+- TOP 31.: Beitritt der Stadt Rahden zur Anstalt des öffentlichen Rechts "d-NRW AöR" - Einstimmig, 0 Enthaltungen
+- TOP 32.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33.: Bekanntgaben
+- TOP 34.: Verschiedenes
+- TOP 34.1: Verschwiegenheit von Ratsmitgliedern
+- TOP 34.2: Trinkwasserqualität in Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 35.: Ausschreibung der Restmüll-, Bioabfall- und Sperrmüllabfuhr zum 01.07.2018 - Einstimmig, 0 Enthaltungen
+- TOP 36.: Auftragsvergabe für die Beschaffung eines Löschgruppenfahrzeuges (LF 10) für die Löschgruppe Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 37.: Muliprofessionelle Teams zur Integration durch Bildung für neu zugewanderte Schülerinnen und Schüler - 30 Stimmen dafür, 1 dagegen (Staubach), 0 Enthaltungen
+- TOP 38.: Grundstücksangelegenheiten
+- TOP 38.1: Erwerb einer landwirtschaftlichen Tauschfläche - 29 Stimmen dafür, 2 dagegen (Dodenhöft/Henke), 0 Enthaltungen
+- TOP 39.: Bekanntgaben
+- TOP 40.: Verschiedenes
+- TOP 40.1: Forstarbeiten an der B239
+- TOP 40.2: Sportplatz des TuS Eintracht Tonnenheide
+- TOP 40.3: Silvesterparty in der Rahdener Innenstadt
+- TOP 40.4: Musikschulverband Espelkamp-Rahden-Stemwede
