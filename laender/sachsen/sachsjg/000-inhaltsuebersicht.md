@@ -23,7 +23,8 @@ Abschnitt 2 Ausführung von die ordentliche Gerichtsbarkeit betreffenden verfahr
 § 18 Legalisation
 § 19 Insolvenzverfahren über das Vermögen juristischer Personen des öffentlichen Rechts
 § 20 Strafrechtliche Zuständigkeitskonzentration
-§ 21 Amtsanwälte
+§ 21 (aufgehoben)*
+* red. Korrektur, siehe bei § 21 (die Red.)
 Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 22 Vertrauensleute
 § 23 Dienstaufsicht
@@ -32,7 +33,7 @@ Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 25a Verwaltungsgerichtliche Zuständigkeitskonzentration
 § 25b Zuständigkeiten im Verfahren über die Bewilligung von Prozesskostenhilfe
 § 26 Widerspruchsbehörde bei Verwaltungsakten einer Polizeidienststelle
-§ 27 Widerspruchsbehörde bei Verwaltungsakten in Selbstverwaltungsangelegenheiten sowie im Vermessungs- , Aufstiegsfortbildungsförderungs-, sozialen Entschädigungs- und Umweltrecht
+§ 27 Widerspruchsbehörde bei Verwaltungsakten in Selbstverwaltungsangelegenheiten sowie im Vermessungs-, Aufstiegsfortbildungsförderungs-, sozialen Entschädigungs- und Umweltrecht
 § 27a Vorverfahren bei der Notarkammer Sachsen und der Rechtsanwaltskammer Sachsen
 Abschnitt 4 Ausführung des Arbeitsgerichtsgesetzes
 § 28 Oberste Landesbehörde
@@ -98,4 +99,4 @@ Teil 8 Schlussvorschriften
 § 72 Einschränkung von Grundrechten
 § 73 Änderung und Aufhebung anderer Rechtsvorschriften
 § 74 In-Kraft-Treten, Außer-Kraft-Treten
-Anlage (zu § 1 Abs. 4)
+Anlage (zu § 1 Absatz 4)
