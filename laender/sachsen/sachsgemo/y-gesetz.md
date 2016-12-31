@@ -1,5 +1,5 @@
 # Gemeindeordnung für den Freistaat Sachsen (Sächsische Gemeindeordnung – SächsGemO)
-Rechtsbereinigt mit Stand vom 9. Mai 2015
+Rechtsbereinigt mit Stand vom 31. Dezember 2016
 Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet der Gemeinde
 Erster Abschnitt Rechtsstellung und Aufgaben
@@ -26,12 +26,12 @@ Zweiter Teil Einwohner und Bürger der Gemeinde
 § 18 Ablehnung ehrenamtlicher Tätigkeit
 § 19 Pflichten ehrenamtlich Tätiger
 § 20 Ausschluss wegen Befangenheit
-§ 21 § 21 Entschädigung für ehrenamtliche Tätigkeit
-§ 22 § 22 Einwohnerversammlung
-§ 23 § 23 Einwohnerantrag
-§ 24 § 24 Bürgerentscheid
-§ 25 § 25 Bürgerbegehren
-§ 26 § 26 Ehrenbürgerrecht
+§ 21 Entschädigung für ehrenamtliche Tätigkeit
+§ 22 Einwohnerversammlung
+§ 23 Einwohnerantrag
+§ 24 Bürgerentscheid
+§ 25 Bürgerbegehren
+§ 26 Ehrenbürgerrecht
 Dritter Teil Verfassung und Verwaltung der Gemeinde
 Erster Abschnitt Gemeinderat
 § 27 Rechtsstellung des Gemeinderats
