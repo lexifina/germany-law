@@ -1,12 +1,11 @@
 # Anlage 1 - Besoldungsordnung A
 Anlage 1
 Besoldungsordnung A
-Gültig ab 01. Juli 2016
-Besoldungsordnung A
 Grundgehaltssätze (Monatsbeträge in Euro)
-Besol- dungs- gruppe | 2-Jahres-Rhythmus | 3-Jahres-Rhythmus | 4-Jahres-Rhythmus |  |  |  |  |  |  |  |  | 
-Erfahrungsstufe |  |  |  |  |  |  |  |  |  |  |  | 
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 
+Gültig ab 01. Juli 2016
+Besol- dungs- gruppe | 2-Jahres-Rhythmus | 3-Jahres-Rhythmus | 4-Jahres-Rhythmus | 
+Erfahrungsstufe
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 A 3 | 1.955,27 | 2.000,63 | 2.045,98 | 2.091,33 | 2.136,71 | 2.182,08 | 2.227,43 |  |  |  |  | 
 A 4 | 1.997,03 | 2.050,45 | 2.103,82 | 2.157,25 | 2.210,65 | 2.264,04 | 2.317,41 |  |  |  |  | 
 A 5 | 2.012,22 | 2.080,60 | 2.133,73 | 2.186,85 | 2.239,98 | 2.293,10 | 2.346,23 | 2.399,38 |  |  |  | 

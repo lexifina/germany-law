@@ -5,23 +5,23 @@ Direktorin der Kataster- und Vermessungsverwaltung, Direktor der Kataster- und V
 Direktorin des Landesinstituts für Schule, Direktor des Landesinstituts für Schule
 Direktorin der Verwaltungsschule, Direktor der Verwaltungsschule
 Direktorin einer Gesamtschule, Direktor einer Gesamtschule
-- mit mehr als 1000 Schülerinnen und Schülern -
+- mit mehr als 1 000 Schülerinnen und Schülern -
 - mit Oberstufe -
 Direktorin einer Oberschule, Direktor einer Oberschule
-- als Leiterin oder als Leiter
-einer Oberschule im Aufbau mit
+- als Leiterin oder als Leiter -
+- einer Oberschule im Aufbau mit
 mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt,
 mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen,
-mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen,
-einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern -
+mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen -
+- einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern -
 Direktorin eines Schulzentrums, Direktor eines Schulzentrums
-- der Sekundarstufe I mit mehr als 1000 Schülerinnen und Schülern -
+- der Sekundarstufe I mit mehr als 1 000 Schülerinnen und Schülern -
 - der Sekundarstufe II -
 Leitende Akademische Direktorin, Leitender Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 Leitende Direktorin2), Leitender Direktor2)
 Leitende Polizeidirektorin, Leitender Polizeidirektor
-- als Polizeivizepräsidentin3) oder als Polizeivizepräsident3)-
+- als Polizeivizepräsidentin3) oder als Polizeivizepräsident3) -
 Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Oberschulrätin4), Oberschulrat4)
 Oberstudiendirektorin, Oberstudiendirektor
@@ -32,7 +32,7 @@ mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt,
 mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen,
 mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen,
 eines voll ausgebauten Gymnasiums mit mehr als 360 Schülerinnen und Schülern,
-eines zweizügig voll ausgebauten Oberstufengymnasiums oder eines Oberstufengymnasiums mit mindestens zwei Schultypen
+eines zweizügig voll ausgebauten Oberstufengymnasiums oder eines Oberstufengymnasiums mit mindestens zwei Schultypen,
 einer Oberschule im Aufbau mit
 mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt,
 mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen,

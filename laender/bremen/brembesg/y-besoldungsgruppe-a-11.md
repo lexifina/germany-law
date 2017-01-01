@@ -1,7 +1,7 @@
 # Besoldungsgruppe A 11
 Besoldungsgruppe A 11
 Amtfrau, Amtmann
-Fachlehrerin1)2)3), Fachlehrer1)2)3)
+Fachlehrerin 1) 2) 3), Fachlehrer 1) 2) 3)
 Kriminalhauptkommissarin3), Kriminalhauptkommissar3)
 Polizeihauptkommissarin3), Polizeihauptkommissar3)
 Fußnoten

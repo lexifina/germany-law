@@ -1,6 +1,6 @@
 # Besoldungsgruppe A 6
 Besoldungsgruppe A 6
-Erste Justizhauptwachtmeisterin1)2), Erster Justizhauptwachtmeister1)2)
+Erste Justizhauptwachtmeisterin1) 2), Erster Justizhauptwachtmeister1) 2)
 Oberamtsmeisterin1), Oberamtsmeister1)
 Sekretärin3), Sekretär3)
 Fußnoten

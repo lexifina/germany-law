@@ -1,4 +1,3 @@
-## Besoldungsordnung R
 # Besoldungsgruppe R 1
 Besoldungsgruppe R 1
 Richterin am Amtsgericht, Richter am Amtsgericht

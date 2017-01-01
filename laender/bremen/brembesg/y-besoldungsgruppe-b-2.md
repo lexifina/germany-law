@@ -7,10 +7,10 @@ Leitende Branddirektorin, Leitender Branddirektor
 - als Leiterin oder als Leiter der Feuerwehr Bremen -
 Leitende Direktorin1), Leitender Direktor1)
 Rektorin der Hochschule Bremerhaven2), Rektor der Hochschule Bremerhaven2)
-Rektorin der Hochschule für Künste Bremen2), Rektor der Hochschule für Künste Bremen2)
-Rektorin der Hochschule für Öffentliche Verwaltung2), Rektor der Hochschule für Öffentliche Verwaltung2),
+Rektorin der Hochschule für Künste2), Rektor der Hochschule für Künste2)
+Rektorin der Hochschule für Öffentliche Verwaltung2), Rektor der Hochschule für Öffentliche Verwaltung2)
 Leitende Regierungsdirektorin1), Leitender Regierungsdirektor1)
-Senatsrätin1)3), Senatsrat1)3)
+Senatsrätin1) 3), Senatsrat1) 3)
 - bei einer obersten Landesbehörde -
 Fußnoten
 1) Soweit nicht in den Besoldungsgruppen A 16, B 3.

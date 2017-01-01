@@ -1,10 +1,10 @@
 # Besoldungsgruppe A 10
 Besoldungsgruppe A 101)
-Jugendleiterin2)3)4), Jugendleiter2)3)4)
+Jugendleiterin 2) 3) 4), Jugendleiter2) 3) 4)
 Kriminaloberkommissarin, Kriminaloberkommissar
 Oberinspektorin, Oberinspektor
 Polizeioberkommissarin, Polizeioberkommissar
-Technische Lehrerin2)3)4), Technischer Lehrer2)3)4)
+Technische Lehrerin2) 3) 4), Technischer Lehrer2) 3) 4)
 Fußnoten
 1) Als Einstiegsamt in der Fachrichtung Technische Dienste und der Fachrichtung Feuerwehr.
 2) Als Einstiegsamt.

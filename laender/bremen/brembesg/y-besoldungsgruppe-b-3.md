@@ -7,7 +7,7 @@ Landesbeauftragte für die Verwirklichung der Gleichberechtigung der Frau, Lande
 Leitende Direktorin2), Leitender Direktor2)
 Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Rektorin der Hochschule Bremen1), Rektor der Hochschule Bremen1)
-Senatsrätin2)3), Senatsrat2)3)
+Senatsrätin2) 3), Senatsrat2) 3)
 - bei einer obersten Landesbehörde -
 Fußnoten
 1) Soweit nicht in der Besoldungsgruppe W 3.

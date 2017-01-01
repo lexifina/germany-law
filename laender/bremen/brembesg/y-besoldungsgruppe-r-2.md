@@ -6,15 +6,15 @@ Direktorin des Arbeitsgerichts1), Direktor des Arbeitsgerichts1)
 Direktorin des Sozialgerichts1), Direktor des Sozialgerichts1)
 Oberstaatsanwältin, Oberstaatsanwalt
 - als Abteilungsleiterin oder als Abteilungsleiter bei der Staatsanwaltschaft beim Landgericht2) -
-- als Dezernentin oder als Dezernent bei der Staatsanwaltschaft beim Hanseatischen Oberlandesgericht3)-
+- als Dezernentin oder als Dezernent bei der Staatsanwaltschaft beim Hanseatischen Oberlandesgericht3) -
 Richterin am Amtsgericht, Richter am Amtsgericht
-- als weitere aufsichtsführende Richterin4) oder als weiterer aufsichtsführender Richter4)-
-- als die ständige Vertretung der Direktorin oder des Direktors des Amtsgerichts Bremen-Blumenthal5)-
+- als weitere aufsichtsführende Richterin4) oder als weiterer aufsichtsführender Richter4) -
+- als die ständige Vertretung der Direktorin oder des Direktors des Amtsgerichts Bremen-Blumenthal5) -
 Richterin am Arbeitsgericht, Richter am Arbeitsgericht
 - als die ständige Vertretung der Direktorin oder des Direktors des Arbeitsgerichts5) -
 Richterin am Finanzgericht, Richter am Finanzgericht
 Richterin am Landessozialgericht, Richter am Landessozialgericht
-am Oberlandesgericht, Richter am Oberlandesgericht
+Richterin am Oberlandesgericht, Richter am Oberlandesgericht
 Richterin am Oberverwaltungsgericht, Richter am Oberverwaltungsgericht
 Richterin am Sozialgericht, Richter am Sozialgericht
 - als die ständige Vertretung der Direktorin oder des Direktors des Sozialgerichts5) -

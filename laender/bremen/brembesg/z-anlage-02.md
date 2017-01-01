@@ -1,9 +1,8 @@
 # Anlage 2 - Besoldungsordnung B
 Anlage 2
 Besoldungsordnung B
-Gültig ab 01. Juli 2016
-Besoldungsordnung B
 Grundgehaltssätze (Monatsbeträge in Euro)
+Gültig ab 01. Juli 2016
 Besoldungsgruppe | 
 B 1 | 5.981,53
 B 2 | 6.939,63

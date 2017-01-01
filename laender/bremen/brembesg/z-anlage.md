@@ -1,3 +1,3 @@
-# Anlage I - Besoldungsordnungen A und B (Regelung zur Ersetzung der Bundesbesoldungsordnungen A und B)
+# Anlage I - Besoldungsordnungen A und B (zu § 22 Absatz 1 Nummer 1)
 Anlage I
-Besoldungsordnungen A und B (Regelung zur Ersetzung der Bundesbesoldungsordnungen A und B)
+Besoldungsordnungen A und B (zu § 22 Absatz 1 Nummer 1)

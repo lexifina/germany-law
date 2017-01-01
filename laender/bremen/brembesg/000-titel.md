@@ -1,1 +1,1 @@
-# Bremisches Besoldungsgesetz in der Fassung der Bekanntmachung vom 22. April 1999
+# Gesetz über die Besoldung der bremischen Beamtinnen und Beamten sowie Richterinnen und Richter (Bremisches Besoldungsgesetz - BremBesG) vom 20. Dezember 2016
