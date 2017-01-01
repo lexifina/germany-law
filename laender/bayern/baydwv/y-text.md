@@ -1,0 +1,1 @@
+Auf Grund des Art. 9 Abs. 1 des Bayerischen Besoldungsgesetzes (BayRS 2032-1-1-F), zuletzt geändert durch Art. 12 des Gesetzes vom 27. Dezember 1996 (GVBl S. 519), erläßt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
