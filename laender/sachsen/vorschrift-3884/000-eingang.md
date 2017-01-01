@@ -1,4 +1,3 @@
-# Gesetz über die Rechtsstellung des Sächsischen Landesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (Landesbeauftragtengesetz)
+# Gesetz zur Regelung der Tätigkeit des Sächsischen Landesbeauftragten für die Unterlagen des Staatssicherheitsdienstes und der fortwährenden Aufarbeitung der SED-Diktatur, ihrer Entstehung, ihrer Auflösung und ihrer Nachwirkungen auf dem Gebiet des Freistaates Sachsen (Landesbeauftragtengesetz)
 Vom 30. Juni 1992
-Rechtsbereinigt mit Stand vom 9. September 2003
-Der Sächsische Landtag hat am 12. Juni 1992 das folgende Gesetz beschlossen:
+Rechtsbereinigt mit Stand vom 1. Januar 2017
