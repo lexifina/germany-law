@@ -64,7 +64,7 @@ Unterabschnitt 1 Allgemeines
 § 51 | Schadensersatz (§ 48 des Beamtenstatusgesetzes)
 § 52 | Übergang von Schadensersatzansprüchen
 § 53 | Ausschluss und Befreiung von Amtshandlungen
-§ 54 | Wohnungswahl, Dienstwohnung
+§ 54 | Wohnungswahl, Dienstwohnung, dienstlicher Wohnsitz
 § 55 | Aufenthalt in erreichbarer Nähe
 § 56 | Dienstkleidungsvorschriften
 § 57 | Amtsbezeichnung
