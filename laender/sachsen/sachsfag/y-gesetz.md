@@ -1,5 +1,5 @@
 # Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Sächsisches Finanzausgleichsgesetz – SächsFAG)
-Rechtsbereinigt mit Stand vom 1. Januar 2016
+Rechtsbereinigt mit Stand vom 1. Januar 2017
 Inhaltsübersicht
 Abschnitt 1 Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
@@ -25,7 +25,7 @@ Abschnitt 4 Zweckgebundene investive Schlüsselzuweisungen
 § 15 Zweckgebundene investive Schlüsselzuweisungen
 Abschnitt 5 Ausgleich für übertragene Aufgaben
 § 16 Ausgleich für übertragene Aufgaben
-§ 16a Ergänzender Mehrbelastungsausgleich Verwaltungs- und Funktionalreform 2008
+§ 16a Mehrbelastungsausgleich für die Verwaltungs- und Funktionalreform 2008
 Abschnitt 6 Ausgleich von Sonderlasten
 § 17 Ausgleich von Sonderlasten
 Unterabschnitt 1 Straßenlastenausgleich
@@ -60,4 +60,4 @@ Abschnitt 12 Gemeinsame Vorschriften, Verfahren und Inkrafttreten
 § 34 Beirat für den kommunalen Finanzausgleich
 § 35 Verjährung
 § 36 (Inkrafttreten)
-Anlage 1 (zu § 7 Abs. 3) Anlage 2 (zu § 22 Abs. 2 Nr. 6) Anlage 3 (zu § 22 Abs. 2 Nr. 7) Anlage 4 (zu § 16a) Anlage 5 (zu § 21a)
+Anlage 1 (zu § 7 Abs. 3) Anlage 2 (zu § 22 Abs. 2 Nr. 6) Anlage 3 (zu § 16a) Anlage 4 (zu § 21a)
