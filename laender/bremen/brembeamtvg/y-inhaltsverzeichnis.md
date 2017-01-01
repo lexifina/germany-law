@@ -108,6 +108,7 @@ Abschnitt 13 Übergangsvorschriften
 § 93 | Hochschullehrerinnen und Hochschullehrer sowie wissenschaftliche Assistentinnen und Assistenten
 § 94 | Übergangsregelung für die Verminderung der Berücksichtigung von Hochschulausbildungszeiten
 § 95 | Übergangsregelung zur Anhebung des Ruhestandseintrittsalters
+§ 95a | Übergangsregelung aus Anlass der Neuregelung des Pflege- und Kinderpflegeergänzungszuschlags
 Abschnitt 14 Schlussvorschriften
 § 96 | Allgemeine Verwaltungsvorschriften
 § 97 | Verwendung von Beamtinnen und Beamten, Richterinnen und Richtern aus Anlass der Herstellung der Einheit Deutschlands
