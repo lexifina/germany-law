@@ -1,4 +1,4 @@
-# Anlage (zu § 1 Absatz 4)
+# Anlage (zu § 1 Abs. 4)
 Anlage
 Amtsgericht | Zuständigkeit
 Amtsgericht | Zuständigkeit für die Landkreise, Kreisfreien Städte und Gemeinden
