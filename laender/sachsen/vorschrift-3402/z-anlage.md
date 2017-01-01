@@ -41,9 +41,9 @@ Görlitz | Görlitz Löbau
 Zwickau | Hohenstein-Ernstthal Zwickau
 b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle
-a) | allgemein | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
-Leipzig II | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
+a) | allgemein | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau
+Dresden-Nord | Bautzen Dresden-Nord Dresden-Süd Görlitz Hoyerswerda Löbau Meißen Pirna
+Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
 b) | bei zentralisierter Zuständigkeit für Fälle des § 20a AO oder Nummer 7 dieser Anlage | Chemnitz-Süd | Freistaat Sachsen
 11. | Grunderwerbsteuer | Dresden-Süd | Dresden-Nord Dresden-Süd Meißen
 Leipzig I | Eilenburg Leipzig I Leipzig II
