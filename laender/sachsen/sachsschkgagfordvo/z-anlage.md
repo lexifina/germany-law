@@ -10,7 +10,7 @@ II. Basiswerte
 Basiswerte
 Nr. | Beschreibung | Dauer
 1. | Aufwand für Weiterbildung | 
- | Für Weiterbildung können maximal 2 400 Minuten pro Vollzeitäquivalent pro Jahr angerechnet werden. Eine Zusatzqualifikation für die Schwangerschaftskonfliktberatung wird zusätzlich angerechnet, indem sie von der Jahresarbeitszeit abgezogen wird. | abhängig von der tatsächlichen Durchführung
+ | Für Weiterbildung können maximal 2 400 Minuten pro Vollzeitäquivalent pro Jahr angerechnet werden. Eine Zusatzqualifikation für die Schwangerschaftskonfliktberatung wird zusätzlich angerechnet. | abhängig von der tatsächlichen Durchführung
 2. | Aufwand für Supervision | 
  | Für Supervision können maximal 1 800 Minuten pro Vollzeitäquivalent pro Jahr angerechnet werden | abhängig von der tatsächlichen Durchführung
 3. | Durchschnittlicher Zeitbedarf | 
