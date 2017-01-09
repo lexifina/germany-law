@@ -1,0 +1,82 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4211784
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4211784
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Umgestaltung des Canisiusplatzes
+- TOP 1.2.: Ergänzende Spielplatzausstattung
+- TOP 1.3.: Verbot oder Einschränkung von Silvesterfeuerwerk durch Privatpersonen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Umwelt und Region
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 6.2.: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen", im Stadtbezirk (Sozialreferat, 15.11.16) (vertagt aus 12/16)
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Klematisstraße 1, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24981
+- TOP 7.1.2.: Cochemstraße 7, 3 Birken
+- TOP 7.1.3.: Terofalstraße 66, 1 Sommerlinde, 1 Spitzahorn und 1 Bergahorn
+- TOP 7.1.4.: Karl-Witthalm-Straße 4, 1 Spitzahorn
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.2.1.: Listen des Baureferates vom 29.11.2016 und 02.12.2016
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.4.: Münchner Wochen- und Bauernmärkte - dringender Appell (Kommunalreferat, 10.12.16)
+- TOP 8.5.: Verkehrsaufsichtliche Erlaubnis zur Nutzung von öffentlichem Verkehrsgrund, hier: Nothkaufplatz 7 vom 06.02. - 28.04.2017 (Kreisverwaltungsreferat, 19.12.16)
+- TOP 8.6.: Arbeiten im Straßenraum, Ludlstraße 52 - 55, Fernwärme-Hausanschlüsse, Verlängerung der verkehrsrechtlichen Anordnung (Kreisverwaltungsreferat, 20.12.16)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Pflege der Außenanlagen von "Guardini90" am Haderner Stern (Kommunalreferat, 23.12.16)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Informationsveranstaltung über zukünftige Projekte der GEWOFAG am Mittwoch, 01.02.2017 um 18.00 Uhr (GEWOFAG, 02.01.17)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Vorstellung des Projektes Glasfaser-Erschließung für München durch die SWM
+- TOP 5.1.: Budget der Bezirksausschüsse, Elternbeirat Montessori-Schule der Aktion Sonnenschein Tanzprojekt "Tanz und Schule" vom 19.01. - 23.03.2017 (Direktorium, 05.12.16)
+- TOP 5.2.: Budget der Bezirksausschüsse, Kirchenmusikverein St. Ignatius e.V., Festkonzert 29.01.2017 (Direktorium, 16.12.16)
+- TOP 5.3.: Beleuchtung des Parks / Bolzplatzes an der Menari- / Ecke Ludlstraße Empfehlung Nr. 14-20 / E 01196 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 20.10.2016 (Baureferat, 21.12.16)
+- TOP 6.1.: Beschlussentwurf für den Kulturausschuss: Projekt Bürgersaal voranbringen (Kulturreferat, 12.12.16)
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: - Großhaderner Straße 60; Feuerwehrzufahrt (Kreisverwaltungsreferat, 12.12.16) - Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Guardinistraße 91 (Kreisverwaltungsreferat, 20.12.16)
+- TOP 8.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, hier: - Jahresgenehmigung 2017 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München (Referat für Gesundheit und Umwelt, 08.12.16) - Betrieb von Müllsammelfahrzeugen (Referat für Gesundheit und Umwelt, 13.12.16)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Fürstenrieder Straße (Sozialreferat, 12.12.16) - Stahleckstraße (Sozialreferat, 15.12.16)
+- TOP 1.1.1.: Beschluss vom 15.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06790: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms - Anpassung des Finanzbedarfs - im Mehrjahresinvestitionsprogramm 2015 - 2019 - im Finanzhaushalt 2017 - Erfahrungsbericht
+- TOP 1.1.2.: Beschluss vom 15.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07205: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021 Änderung des Mehrjahresinvestitionsprogramms 2016 - 2020; Finanzierung
+- TOP 1.1.3.: Beschluss vom 15.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05253: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 1.1.4.: Beschluss vom 15.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07344: Städtebauförderung in München Sanierungsgebiet "Neuaubing / Westkreuz" Sicherung der Finanzierung von Maßnahmen der Stadtsanierung in einem Bund-Länder-Städtebauförderungsprogramm Stadtbezirk 22 - Aubing-Lochhausen-Langwied
+- TOP 1.2.1.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07756: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021 München Modell-Eigentum a) Förderrichtlinien neu fassen b) München Modell-Eigentum erweitern
+- TOP 1.2.2.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 02990: Tram Westtangente Von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Optimierung und Überarbeitung der bisherigen Planung
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Hinweis / Ergänzung vom 21.11.2016 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07430: Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen! XII Modulbauweise für städtsichen Wohnungsbau und Flüchtlingsunterkünfte fördern
+- TOP 2.1.2.: Beschluss des Bauausschusses vom 22.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 06637: Aktion Saubere Stadt Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung
+- TOP 2.1.3.: Beschluss des Sportausschusses vom 23.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07531: Infrastrukturprogramm Sport in München Rückblick 2016 und Fortschreibung 2017
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07547: Anwendung der Baumschutzverordnung auf öffentlichen Grünflächen im gesamten Stadtgebiet
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07482: Mehrjahresinvestitionsprogramm 2016 - 2020 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016 - 2020 Infrastrukturversorgungskonzept 2016 - 2020
+- TOP 3.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07360: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 3.1.3.: Beschluss des Kulturausschusses vom 24.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07548: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2016 - 2020 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 3.1.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07533: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Hinweis / Ergänzung vom 24.11.2016 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07418: PERSPEKTIVE MÜNCHEN Zukunftsschau 2040 + - Szenarien zur Stadtentwicklung Schaffung einer Diskussionsreihe für Münchner Bürgerinnen und Bürger
+- TOP 3.2.2.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07490: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung
+- TOP 3.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07138: Erstellung von Stadtbezirksprofilen - Personalbedarf
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07551: Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes; Sachstand der Beurteilung durch den Landesdenkmalrat
