@@ -1,0 +1,75 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232511
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232511
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Radweg Elsenheimerstraße
+- TOP 1.2.2.: Parkende Autobusse in Einfahrt der Agnes-Bernauer-Straße 53
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Zschokkestr. 36: Neubau dreier Mehrfamilienhäuser mit Tiefgaragen BA SÜD / VBA 1 + 2 (Zschokkestr. 36 / Wilhelm-Riehl-Str. 11-13) - VORBESCHEID
+- TOP 5.2.: Riegerhofstr. 20: Erweiterung Lukas-Gymnasium und Lukas-Mittelschule
+- TOP 5.3.: Landsberger Str. 216: Neubau eines Laufhauses und eines Saunaclubs - Vorbescheid
+- TOP 5.4.: Ilmmünsterstr. 67: Neubau eines Einfamilienhauses mit Garage
+- TOP 5.5.: Seehoferstr. 12: Neubau eines Doppelhauses mit 2 Carports
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 06.12.16
+- TOP 7.2.: Sitzung UA Kultur vom 05.12.16
+- TOP 7.3.: Sitzung UA Umwelt und Verkehr am 19.12.16
+- TOP 8: Umlauf
+- TOP 1.2: Bürgerpost an den BA
+- TOP 3.1.: Beschlussvorlage Baureferat vom 29.11.2016: Entscheidung gemäß Vollmacht des Oberbürgermeisters über die Projektplanung: Umgestaltung der öffentlichen Grünflächen am Fröbelplatz und an der Sandrartstraße
+- TOP 3.2.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse Diakonie - Jugendhilfe Oberbayern, Schulsozialarbeit an der Georg-Büchner-Realschule Schwarzlichttheater-Projekttage Nov/Dez 2017
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 24.11.2016: verkehrsrechtliche Anordnung; Haltverbot Aldegreverstraße Westseite und Südseite
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 24.11.2016: verkehrsrechtliche Anordnung; Halteverbot Sturmstraße Westseite
+- TOP 4.3.: Schreiben Baureferat vom 28.11.2016: Erinnerungsverfahren Radweg Gotthardstraße zwischen Fürstenrieder Str. und Siglstr.
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 08.12.2016: Anhörungsverfahren für "Festival der Marionetten" vom 12.09.2017 - 19.09.2017 am Laimer Anger
+- TOP 4.5.: Schreiben Baureferat vom 01.12.2016: Baumentfernung und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen Grundstücken hier: Stadtbibliothek Fürstenrieder Str. 53 (Seite Hogenbergstr.)
+- TOP 4.6.: Schreiben Spielen in der Stadt e.V. vom 05.12.2016: Planung der SommerSpielAktion 2017
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 13.12.2016: Veranstaltung in einer städtischen Grünanlage; hier: Hogenbergplatz, Flohmarkt Kita DrachenEi am 25.03.17 (Ersatztermin 22.04.17) und 09.09.17
+- TOP 6.1.: Schreiben GEWOFAG vom 01.12.2016: Bauvorhaben Brantstraße 99 - Verzug der Fertigstellung
+- TOP 6.2.: Schreiben Kommunalreferat vom 10.12.2016: Münchner Wochen- und Bauernmärkte - dringender Appell
+- TOP 6.3.: Schreiben Sozialreferat vom 19.12.2016: Einladung zum Fachtag "Sich wohlfühlen im öffentlichen Raum? Handlungsansätze für subjektive Sicherheit in München" am 20.01.2017
+- TOP 8.1.: Schreiben Baureferat vom 22.11.2016 und 29.11.2016: Entfernung von Gefahrenbäumen in verschiedenen Straßen und Grünanlagen
+- TOP 8.2.: Schreiben Baureferat am 08.12.2016: Unterführung Fürstenrieder Straße, Neuer Anstrich
+- TOP 8.3.: Schreiben Referat für Gesundheit und Umwelt vom 08.12.2016: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImschV: Jahresgenehmigung 2017 für Reinigungsarbeiten an U-Bahnhöfen
+- TOP 8.4.: Schreiben Referat für Gesundheit und Umwelt vom 13.12.2016: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV / Verlängerung Betrieb von Müllsammelfahrzeugen
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 05.12.2016: Beidseitiger Radweg Agnes-Bernauer-Straße
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 07.12.2016: Helmpertstr. 2: unveränderte Fortführung "Ristorante Al Cuore"
+- TOP 8.7.: Schreiben Sozialreferat vom 09.12.2016: Zuwendung aus dem Budget der Bezirksausschüsse, Verwendungsnachweis für Ferienmaßnahmen vom Juni 2015 - September 2016
+- TOP 8.8.: Schreiben Sozialreferat vom 13.12.2016: Agnes-Bernauer-Str.: Vollzug der Erhaltungssatzung "Laim" Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichung der Bezirksausschüsse
+- TOP 8.9.: Bautenliste vom 21.11. - 27.11.2016: 1.) Erstantragsverfahren: a) Junkerstr. 53 b) Riegerhofstr. 20 2.) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren: a) Landsberger Str. 216
+- TOP 8.10.: Bautenliste vom 28.11. - 04.12.2016: 1.) Erstantragsverfahren: a) Lautensackstr. 2a
+- TOP 8.11.: Bautenliste vom 05.12. - 11.12.2016: 1.) Erstantragsverfahren: a) Seehoferstr. 12 b) Ilmmünsterstr. 67
+- TOP 8.12.: Bautenliste vom 12.12. - 18.12.2016: 1.) Erstantragsverfahren: a) Rushaimerstr. 54 b) Von-der-Pfordten-Str. 23 c) Hörkherstr. 3a d) Camerloherstr. 110 2.) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren: a) Mitterhoferstr.
+- TOP 8.13.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtag 05.12. - 09.12.2016
+- TOP 8.14.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Tram Westtangente Von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Optimierung und Überarbeitung der bisherigen Planung (Sitzungsvorlagen Nr. 14-20 / V 02990)
+- TOP 8.15.: Beschluss der Vollversammlung des Stadtrates vom 15.11.2016: Handlungsprogramm Mittlerer Ring Wohnen am Ring (Sitzungsvorlagen Nr. 14-20 / V 06790)
+- TOP 8.16.: Beschluss der Vollversammlung des Stadtrates vom 15.11.2016: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021 Änderung des Mehrjahresinvestitionsprogramms 2016-2020; Finanzierung (Sitzungsvorlagen Nr. 14-20 / V 07205)
+- TOP 8.17.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 München Modell-Eigentum a) Förderrichtlinien neu fassen b) München Modell-Eigentum erweitern (Sitzungsvorlagen Nr. 14-20 / V 07756)
+- TOP 8.18.: Beschluss der Vollversammlung des Stadtrates vom 15.11.2016: Städtebauförderung in München Sanierungsgebiet "Neuaubing/ Westkreuz" Sicherung der Finanzierung von Maßnahmen der Stadtsanierung in einem Bund-Länder-Städtebauförderungsprogramm Stadtbezirk 22 - Aubing-Lochhausen-Langwied (Sitzungsvorlagen Nr. 14-20 / V 07344)
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016: Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen! XII Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte fördern (Sitzungsvorlagen Nr. 14-20 / V 07430)
+- TOP 8.20.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung (Sitzungsvorlagen Nr. 14-20 / V 07533)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016: Mehrjahresinvestitionsprogramm 2016-2020 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016-2020 Infrastrukturversorgungskonzept 2016-2020 (Sitzungsvorlagen Nr. 14-20 / V 07482)
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016: PERSPEKTIVE MÜNCHEN - Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung (Sitzungsvorlagen Nr. 14-20 / V 07418)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016: Anwendung der Baumschutzverordung auf öffentlichen Grünflächen im gesamten Stadtgebiet (Sitzungsvorlagen Nr. 14-20 / V 07547)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016: Erstellung von Stadtbezirksprofilen - Personalbedarf (Sitzungsvorlage Nr. 14-20 / V 07138)
+- TOP 8.25.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.2016: Gewerbeflüchenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung (Sitzungsvorlage Nr. 14-20 / V 07490)
+- TOP 8.26.: Beschluss des Bauausschusses vom 22.11.2016: Aktion Saubere Stadt Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung (Sitzungsvorlage Nr. 14-20 / V 06637)
+- TOP 8.27.: Beschluss des Kulturausschusses vom 24.11.2016: Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2016 - 2020 und Stellungnahme zu den Anregungen der Bezirksausschüsse (Sitzungsvorlagen Nr. 14-20 / V 07548)
+- TOP 8.28.: Beschluss des Sportausschusses des Stadtrats vom 23.11.2016: Infrastrukturprogramm Sport in München Rückblick 2016 und Fortschreibung 2017 (Sitzungsvorlagen Nr. 14-20 / V 07531)
+- TOP 8.29.: Schreiben Kleingartenverein SW82 e.V. "Villa Flora" vom 21.11.2016: Zuwendung aus dem Budget der Bezirksausschüsse; Kurzbericht zur 100-Jahr-Feier
+- TOP 8.30.: Tagesordnungspunkt (betrifft Privatpersonen)
