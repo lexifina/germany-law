@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281519
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281519
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.3.: Genehmigung der Protokolle vom 06.12.2016
+- TOP 2: Allgemeines
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Entschleunigung Schäftlarnstr.
+- TOP 5.4.: (Antrag) Parksituation Höglwörther Str.
+- TOP 5.5.: (A) Austausch Lichtsignalanlage: Kistlerhofstr./ Machtlfinger Str.
+- TOP 5.7.: (A) Haltverbot: Boschetsrieder Str. östlich Höglwörther Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2.1.: Termine
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Sonderpädagogisches Förderzentrum München Süd erlebnispädagogisches Segeln vom 25. bis 28.04.2017
+- TOP 3.3.: (E) Budget der Bezirksausschüsse TSV Forstenried e.V. Beschaffung von Tischtennisplatten
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.6.: (A) Einrichtung eines Behindertenparkplatz: Traubinger Str.
+- TOP 5.8.: (E) Programm barrierefreie Bushaltestellen (ÖPNV Offensive) - Aidenbachstraße
+- TOP 5.9.: Verkehrliche Änderungsmaßnahmen in der Warnbergstraße Ziff. 1: Errichtung einer Einbahnstraße zwischen Wolfratshauser Straße und Wilhelm-Leibl-Straße
+- TOP 5.10.: Verkehrliche Änderungsmaßnahmen in der Warnbergstraße Ziff. 2: Errichtung eines Gehweges
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.3.: (U) Grundstücksgeschäft: Nähe Koppstr.
+- TOP 6.4.: Vermietung städtisches Grundstück Meglingerstr.
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Münchner SommerSpielAktion 2017
+- TOP 7.3.: Sanierung Behindertentoilette und Duschen beim TSV Forstenried
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
