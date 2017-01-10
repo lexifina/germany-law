@@ -1,0 +1,75 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266408
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266408
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 15.11.16
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Aufstellung über Gefahrenstellen in der Pasteurstraße
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Fällungsantrag Von-Reuter-Str. 4
+- TOP 5.5.: Einrichtung eines absoluten Haltverbotes in der Georg-Reismüller-Straße zwischen Ludwigsfelder Straße und Franz-Nißl-Straße
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 7.1.: Präsentation Leitlinie Soziales am 18.01.17
+- TOP 7.2.: Vorbescheidsverfahren Kulturbürgerhaus
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, hier Einzelfällungsanträge: August-Horch-Str. 8, Peter-Müller-Str. 19
+- TOP 10.: Nachtrag
+- TOP 10.6.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Eversbuschstr. 31
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Bühne 23 e.V. Auftritt des Oratorienchors am 26.11.2017
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Trachtenverein "Alpenrösl" München-Allach e.V. Beschaffung von Trachten
+- TOP 4.3.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Faschingsumzug am 28.02.2017
+- TOP 5.2.: Franz-Nißl-Str. 55, Gemarkung: Allach, Fl.Nr.: 1054/0 Schulbauoffensive; Brandschutz der Mittelschule, Anbau eines Treppenhauses an der Südfassade und Vollzug der BaumschutzVO
+- TOP 5.3.: Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1410/0 Hallenbau F9 Karosseriebau
+- TOP 5.4.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/25 Bundesautobahn A 8 München Stuttgart (südlich), Bundesautobahnring A 99 (östlich), Mühlangerstraße (nördlich)
+- TOP 6.1.: Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 13.09.16: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen (Sitzungsvorlage Nr. 06885)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 19.10.16: Schulbauoffensive (Sitzungsvorlage Nr. 07118)
+- TOP 6.3.: Beschluss des Sportausschusses des Stadtrats vom 23.11.16: Infrastrukturprogramm Sport in München; Rückblick 2016 und Fortschreibung 2017 (Sitzungsvorlage Nr. 07531)
+- TOP 6.4.: Beschluss der Vollversammlung vom 14.12.16: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 (Sitzungsvorlage Nr. 07756)
+- TOP 9.1.: Schreiben Kulturreferat vom 21.11.16: KZ-Außenstelle Allach
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.12.16, 20.12.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Am Münchfeld 50, Gemarkung Allach, Fl.Nr.: 1021/11, Abgrabung / Altlastensanierung; Krauss-Maffei-Str. 11, Neubau Parkdeck
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (05.12.-11.12.16, 12.12.-18.12.16)
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.12.16: A99 - Achtstreifiger Ausbau zw. AK München-West und AK München-Nord, zweite Röhre für den Allacher Tunnel, Bundesverkehrswegeplan Projektnummer A099-G020-BY
+- TOP 9.6.: Schreiben Baureferat vom 16.12.16: Prüfung einer Abbiegespur von Süden der Eversbuschstraße her in Richtung Ludwigsfelder Straße
+- TOP 9.7.: Schreiben Baureferat vom 07.12.16: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.8.: Schreiben Stadtwerke München vom 12.12.16, 19.12.16: Baumaßnahmen
+- TOP 9.9.: Schreiben Sozialreferat vom 07.12.16: Zuständigkeit AKIM - Allparteiliches Konfliktmanagement in München
+- TOP 9.10.: Schreiben Sozialreferat vom 06.12.16, 12.12.16: Behringstr., Riederstr.
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 25.08.16: Haltverbot in der Karl-Gayer-Straße
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 23.06.19: Geschwindigkeitsbeschränkung auf 30 km/h im Storchenweg
+- TOP 9.13.: Schreiben Kreisverwaltungsreferat vom 29.11.16: Haltverbot Zufahrt Wilhelm-Zwölfer-Straße 20-24
+- TOP 9.14.: Schreiben Kreisverwaltungsreferat vom 07.12.16: Haltverbot Feuerwehr Allacher Str. östlich Karl-von-Roth-Straße
+- TOP 9.15.: Schreiben Kommunalreferat vom 10.12.16: Münchner Wochen- und Bauernmärkte - dringender Appell
+- TOP 9.16.: Schreiben Referat für Gesundheit und Umwelt vom 13.12.16: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung/Verlängerung Betrieb von Müllfahrzeugen
+- TOP 9.17.: Schreiben Bund Naturschutz in Bayern e.V.: Baumschutz in München ist Klimaschutz für München
+- TOP 10.1.: Anhörungen: Neubau 3er verbundener Stadthäuser sowie eines Doppelparkers und eines Carports Manresastr. 50, Gemarkung: Untermenzing, Fl.Nr.: 1104/7 und Vollzug der BaumschutzVO
+- TOP 10.2.: Anbau eines Versandlagers an bestehende Bäckerei und Erneuerung Sozialbereiche Mitarbeiter Kirschstr. 21, Gemarkung: Untermenzing, Fl.Nr.: 747/1
+- TOP 10.3.: Umlauf: Schreiben 2. Bürgermeister vom 19.12.16: Beschlussvorlage zum WC-Konzept "Nette Toilette"
+- TOP 10.4.: Schreiben Kommunalreferat vom 28.12.16: Marktfeste Wochenmärkte "love your local market"
+- TOP 10.5.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (19.12.-25.12.16)
+- TOP 10.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.12.16: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Karl-Gayer-Str. 10
+- TOP 10.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.12.16: Baumfällungen auf einer Ausgleichsfläche der Bahn
+- TOP 10.9.: Schreiben Abfallwirtschaftsbetrieb München vom 28.12.16: Altkleidercontainer Ecke Siberstraße / Kleselstraße
+- TOP 10.10.: Schreiben Sozialreferat vom 19.12.16: Antrag auf Zweckentfremdung von Wohnraum, Bauschweg
+- TOP 10.11.: Stadtrats- und Ausschussbeschlüsse: Beschluss der Vollversammlung des Stadtrates vom 14.12.16: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei Vollzug des Haushaltsplans 2017 für den Bereich "Förderung freier Träger" a) des Sozialreferats/ Stiftungsverwaltung-Bürgerschaftliches Engagement (BE) und Zentrale (Sitzungsvorlage Nr. 07226) b) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 07237)
+- TOP 10.12.: Kurzübersicht zum Beschluss des Kommunalausschusses vom 24.11.16: Mehrjahresinvestitionsprogramm 2016-2020; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf (Sitzungsvorlage Nr. 07463)
