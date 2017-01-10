@@ -1,0 +1,113 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2017-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4114001
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4114001
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Gabelsbergerstraße 48 f, eine Hainbuche
+- TOP 3.2.2.: Königinstraße 27, drei Fichten
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.8.: Kreisverwaltungsreferat, Anhörung, Genehmigung einer Fahrradabstellfläche vor einem Betrieb, Heßstraße 54
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.3.: entfällt
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 04.12.2016 Verkehrssituation wegen Sperrung der Hahnenstraße
+- TOP 5.2.2.: Schreiben von Bürgern aus der Maxvorstadt vom 01.12.2016 Verkehrsprobleme in der Veterinärstraße
+- TOP 5.2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 06.12.2016 Lärmbelästigung, Theresienstraße 146 - 148
+- TOP 5.2.4.: Schreiben eines Bürgers aus dem Stadtbezirk 12 Schwabing-Freimann vom 16.12.2016 Anbindung des Museumsareals, Sanierung des Altstadtrings
+- TOP 5.2.5.: Schreiben eines Bürgers aus der Maxvorstadt Baumpflanzungen vor dem Anwesen Augustenstraße 15
+- TOP 5.2.6.: Bürgerinnen und Bürger gestalten ihre Stadt Projekt von Südliche Maxvorstadt e.V. Projekt Grüne Achsen
+- TOP 6.1.: Erklärungsschild für den Delphinbrunnen an der Dachauer-/Ecke Augustenstraße auf dem sog. "Norkauer Platz"
+- TOP 6.2.: Referat für Stadtplanung und Bauordnung, Antwortschreiben Verbesserung für den Radverkehr (2): Erstellung eines generellen Radkonzepts am Stiglmaierplatz, BA-Antrag Nr. 14-20 / B 02774 des BA 3 vom 15.09.2016
+- TOP 6.3.: Ehemalige Brunnen im Alten Nördlichen Friedhof evtl. wieder in Betrieb nehmen
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag der CSU-Fraktion im BA 3 vom 27.12.2016 Öffentliche Verkehrsflächen nach Neubauten wiederherstellen
+- TOP 2.1.1.: Linprunstraße 21, Tektur Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.2.: Fürstenstraße 9 Umbau und Nutzungsänderung der Remise im zweiten Hinterhof zu zwei Wohneinheiten
+- TOP 2.1.3.: Erzgießereistraße 48 Nutzungsänderung zwei Gaststätten zu einer Spielhalle
+- TOP 2.1.4.: Zieblandstraße 43 Errichtung einer neuen Hofbebauung für fünf neue Wohnung sowie einer Tiefgarage
+- TOP 2.1.5.: Referat für Stadtplanung und Bauordnung, Anhörung zur Beschlussvorlage Verlängerung der Erhaltungssatzung für das Gebiet Teng-, Adelheid-, Georgen-, Zentner-, Schleißheimer- und Theresienstraße Empfehlung Nr. 14-20 / E 01211 der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt vom 20.10.2016
+- TOP 2.1.6.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2093, Änderung des Bebauungsplanes Nr. 945 Steuerzentrum vertagt aus der Sitzung vom 13.12.2016, Unterlagen liegen bereits vor
+- TOP 2.1.7.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 46., 47., 48., 49., 50. KW
+- TOP 2.1.8.: Liste der Bauvorhaben der LBK: 48., 49., 50. KW
+- TOP 2.1.9.: Gabelsbergerstraße 38 Neubau eines Mehrfamilienhauses mit Tiefgarage, Tektur
+- TOP 2.1.10.: Augustenstraße 66-70 Neubau eines Wohn- und Geschäftshauses mit Tiefgarage, Tektur
+- TOP 2.1.11.: Linprunstraße 40 Errichtung eines Mehrfamilienhauses mit Rückgebäude und Tiefgarage, Tektur
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2082 a Katharina-von-Bora-Straße (östlich), Karlstraße (nördlich) Sitzungsvorlage Nr. 14-20 / V 07286 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016
+- TOP 5.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage a) Erstellung von Stadtbezirksprofilen – Personalbedarf Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 Sitzungsvorlage Nr. 14-20 / V 07138 b) Perspektive München Zukunftsschau 2040 +- Szenarien zur Stadtentwicklung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 Neufassung vom 01.12.2016; Sitzungsvorlage Nr. 14-20 / V 07418 c) Gewerbeflächenentwicklungsprogramm – GEWI Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Aus- schuss für Arbeit und Wirtschaft vom 07.12.2016 Neufassung vom 01.12.2016; Sitzungsvorlage Nr. 14-20 / V 07490 d) Wohnungspolitisches Handlungsprogramm „Wohnen in München VI 2017 – 20121“ Beschluss der Vollversammlung des Stadtrates vom 14.12.2016 Sitzungsvorlage Nr. 14-20 / V 07756
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung, Auszug aus einem Vorbescheid zum Bau- vorhaben Brienner Straße 37/Luisenstraße 29, Schulbauoffensive
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag des UA Kultur des BA 3 vom 06.12.2016 Anbringung eines Hinweises an der Unterführung in der Ludwigstraße
+- TOP 1.2.: Antrag der SPD im BA 3 vom 03.12.2016 Der BA 3 fordert die Landeshauptstadt München auf, die verkehrliche Neugestaltung der Augustenstraße, insbesondere im Hinblick auf eine zeitgemäße, modifizierte Verkehrsfüh- rung, zeitnah zu planen und umzusetzen.
+- TOP 1.3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 28.11.2016 Fahrradabstellflächen an der Theresienstraße, Höhe Hausnummer 60 vertagt aus der Sitzung vom 13.12.2016, Unterlagen liegen bereits vor
+- TOP 1.4.: Antrag der SPD im BA 3 vom 13.11.2016 Größere und mehr Mülleimer im Arnulfpark vertagt aus der Sitzung vom 13.12.2016, Unterlagen liegen bereits vor
+- TOP 1.5.: Antrag der CSU-Fraktion im BA 3 vom 27.12.2016 Ampel an der Ecke Loth-/Hessstr. wie ursprünglich geplant zur FW-Einsatz-Bedarfsampel machen
+- TOP 1.6.: Antrag der CSU-Fraktion im BA 3 vom 27.12.2016 Grünpfeilschaltung an der Kreuzung Augusten-/Theresienstraße verzögern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Referat für Stadtplanung und Bauordnung, Entwurf einer Beschlussvorlage Radverkehrsinfrastruktur in der Elisenstraße
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Schulwegsicherheit Georgenstraße/Zentnerstraße: Einrichtung von absoluten Haltverboten
+- TOP 2.2.1.: Baureferat, Erinnerungsverfahren Fahrbahnsanierung Rückbau Großsteinpflaster in der Heßstraße
+- TOP 2.2.2.: Programm „Bürgerinnen und Bürger gestalten ihre Stadt“, Bürgerbeteiligung in den Stadt- vierteln a) Urbanes Wohnen e.V. München, „Aktion GrüneHausportale“ b) Südliche Maxvorstadt e.V., Umgestaltung des Gebietes um den Hauptbahnhof
+- TOP 2.2.3.: MVG-Radstation am Königsplatz – Ortstermin am 05.10.2016 vertagt aus den Sitzungen vom 11.10.2016, 15.11.2016 und 13.12.2016 Unterlagen liegen bereits vor
+- TOP 2.2.4.: Kreisverwaltungsreferat, Beschlussvorlage, Verkaufseinrichtung auf öffentlichem Grund Fünf Zeitungsentnahmegeräte vor den Anwesen Ludwigstraße 27, Geschwister-Scholl- platz 1, Prof.-Huber-Platz 2, Theresienstraße 61 und Theresienstraße 41 vertagt aus den Sitzungen vom 15.11.2016 und 13.12.2016, Unterlagen liegen bereits vor
+- TOP 2.2.5.: Referat für Stadtplanung und Bauordnung, Werbeanlagen Eine City-Light-Säule (beleuchtet) für wechselnde Produktwerbung (Austausch) Karlsplatz/Elisenstraße
+- TOP 2.2.6.: (E) Zusätzliches Personal (Streetwork) für den Alten Botanischen Garten Empfehlung Nr. 14-20 / E 01203 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2016
+- TOP 2.2.7.: (E) Zusätzliche Hundekottütenspender für den Alten Botanischen Garten Empfehlung Nr. 14-20 / E 01206 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2016
+- TOP 2.3.1.: Theresienstraße 122, Weitergenehmigung einer Freischankflächenerlaubnis
+- TOP 2.3.2.: Marsstraße 13, Weitergenehmigung einer Freischankflächenerlaubnis
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Spendenaktion BreakOut am 25.05.2017 auf dem Geschwister-Scholl-Platz
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Tunnelparty, Oskar-von-Miller-Ring/Gabelsbergerstraße, Fußgängertunnel am 03.12.2016 Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 3.2.: Baureferat, Beschlussvorlage Aktion Saubere Stadt Beschluss des Bauausschusses vom 22.11.2016, Sitzungsvorlage Nr. 14-20 / V 06637
+- TOP 3.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Veranstaltung anlässlich 500 Jahre Reformation am 29.06.2017 im Kreuzungsbereich Gabelsbergerstraße 6/Türkenstraße/Oskar-von-Miller-Ring, Voranfrage Eilentscheidung des Vorsitzenden vom 06.12.2016: Zustimmung mit Maßgaben
+- TOP 3.5.: Kreisverwaltungsreferat Arbeiten im Straßenraum zwischen Franz-Joseph-Straße und Akademiestraße, Radwegsanierung und Sperre der Einmündung Georgenstraße/Leopoldstraße
+- TOP 3.6.: Referat für Umwelt und Gesundheit, Immissionsschutz Jahresgenehmigungen 2017 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 3.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Evtl. Aufhebung der Tempo-30-Zonen und weitere Verkehrsmaßnahmen im Arnulfpark Schreiben des KVR vom 07.12.2016
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung Neubau Hauptbahnhof München Beschluss der Vollversammlung des Stadtrates vom 14.12.2016 Sitzungsvorlage Nr. 14-20 / V 07576
+- TOP 3.9.: Kommunalreferat, Markthallen München Schreiben vom 10.12.2016 betreffend Münchner Wochen- und Bauernmärkte
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag des Kinder- und Jugendbeauftragten im A 3 vom 26.11.2016 MVV-Tickets für Jugendliche bezahlbar machen! vertagt aus der Sitzung vom 13.12.2016, Unterlagen liegen bereits vor
+- TOP 1.2.: Antrag des Unterausschusses Soziales und Bildung Zwischennutzung auf dem Gelände Karlstraße 77
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Spielen in der Stadt e.V. Platzvorschläge für das Jahr 2017
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Referat für Bildung und Sport Infrastrukturprogramm Sport in München; Rückblick 2016 und Fortschreibung 2017
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP G: Nicht öffentliche Sitzung
