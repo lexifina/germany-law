@@ -1,0 +1,79 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-01-11T17:05:00+01:00
+- Ende: 2017-01-11T20:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4016
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4016
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=234897
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfrage für die 4. Sitzung der BVV am 11.01.2017 - Robinson Crusoe Spielplatz - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 4. Sitzung der BVV am 11.01.2017 - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Unentschuldigte Fehlzeiten und Schulversäumnisanzeigen an Schulen - beantwortet
+- TOP 4.2: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Schulverweigerer in Reinickendorf - beantwortet
+- TOP 4.3: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Gefährdung von Schülerlotsinnen und Schülerlotsen - beantwortet
+- TOP 4.4: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Strandbad Tegel - beantwortet
+- TOP 4.5: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Aktionsprogramm Handwerker - beantwortet
+- TOP 4.6: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017- Schulwegsicherung - beantwortet
+- TOP 4.7: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Buddestraße 21 - beantwortet
+- TOP 4.8: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Schlüsselverträge - beantwortet
+- TOP 4.9: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Schulverweigerer - zurückgezogen
+- TOP 4.10: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Denkmalbeirat - beantwortet
+- TOP 4.11: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Scharfenberg-Fähre - beantwortet
+- TOP 4.12: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Erzieherinnen/Erzieher und Tageseltern - beantwortet
+- TOP 4.13: Mündliche Anfrage für die 4. Sitzung der BVV am 11.01.2017 - Strafanzeigen gegen Graffiti-Sprayer - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Spielhallen in Reinickendorf - beantwortet
+- TOP 8.2: Milieuschutz in Reinickendorf - beantwortet
+- TOP 8.2.1: Empfehlungen der Voruntersuchung Milieuschutz in Reinickendorf umsetzen - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der Patientenfürsprecher/innen für die Krankenhäuser im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - überwiesen
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von Bürgerdeputierten - gewählt
+- TOP 11.2: Wahl von Bürgerdeputierten - gewählt
+- TOP 11.3: Wahl von Bürgerdeputierten in den Integrationsausschuss - gewählt
+- TOP 11.4: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichend Kitaplätze - überwiesen
+- TOP 12.2: Barrierefreie Geschäfte in Frohnau - überwiesen
+- TOP 12.3: Transparente Mitwirkung bei SIKO - überwiesen
+- TOP 12.4: Würdigung 70 Jahre Flughafen Tegel - überwiesen
+- TOP 12.5: Schulentwicklungsplan - überwiesen
+- TOP 12.6: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichend Schulplätze - überwiesen
+- TOP 12.7: Ausstattung der Bürgerämter mit “Ausweisautomaten” - Bürgerterminals - überwiesen
+- TOP 12.8: Sicherstellung des Turmblasens am Silvesterabend - überwiesen
+- TOP 12.9: Jugendsport fördern - überwiesen
+- TOP 12.10: Transparenz und Bürgernähe (1) – B-Plan-Karten - überwiesen
+- TOP 12.11: Aktiv Akzeptanz fördern! - überwiesen
+- TOP 12.12: Das Märkische Viertel fit machen für den Zuzug weiterer Einwohner - überwiesen
+- TOP 12.13: Verkehrskonzept Heinsestraße II - überwiesen
+- TOP 12.14: SIBUZ - überwiesen
+- TOP 12.15: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichende Freizeitmöglichkeiten - überwiesen
+- TOP 12.16: Transparenz und Bürgernähe (2) - Homepage des Bezirksamtes - überwiesen
+- TOP 12.17: Gutachten zum Bauvorhaben "Umbau Tegel-Center" vorlegen - überwiesen
+- TOP 12.18: Ersatzstandort für die Kita "Tegeler Lieblingskinder" - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichende Lehrerkapazitäten - überwiesen
+- TOP 13.2: Busverbindung Lübars - Märkisches Zentrum endlich umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Örtliche Zuständigkeit für Leistungen nach § 33 SGB VIII - überwiesen
+- TOP 13.4: Gemeinschaftsschule im Schumacher-Quartier - überwiesen
+- TOP 13.5: Autobahntunnel A111 / Ortskern Tegel zügig sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Taktung S-Bahn - überwiesen
+- TOP 13.7: Gleichbehandlung von Abschlüssen der Schulen mit sonderpädagogischem Förderbedarf - überwiesen
+- TOP 13.8: Tempo 30 - Teilabschnitt Waidmannsluster Damm - überwiesen
+- TOP 13.9: Dezentrale Unterbringung geflüchteter Menschen im Märkischen Viertel - überwiesen
