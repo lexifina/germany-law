@@ -346,7 +346,7 @@ Nr. | Kostentatbestand | Kostensatz in EUR
  | Anmerkung zu den Nummern 160.31 und 160.32: |  | 
  | Die Untergrenze ist insbesondere für Verlängerungen anzuwenden. |  | 
 160.33 | § 10 Absatz 4 WaffG |  | 
- | Ausstellung eines Kleinen Waffenscheins | 50 | 
+ | Ausstellung eines Kleinen Waffenscheins | 100 | 
 160.34 | § 10 Absatz 5 WaffG |  | 
  | Erlaubnis zum Schießen außerhalb von Schießstätten | 50 bis 200 | 
 160.35 | § 11 Absatz 1 WaffG |  | 
