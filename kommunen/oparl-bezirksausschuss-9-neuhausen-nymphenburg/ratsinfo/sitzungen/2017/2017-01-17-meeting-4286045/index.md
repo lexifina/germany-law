@@ -1,0 +1,84 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286045
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286045
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Initiative "Die geträumten Unterwelten" Theaterstück "Die geträumten Unterwelten" vom 12.-14.01.2017
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse ESV München e.V. Anschaffung eines neues Sanitäranhängers
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.4.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 9 Neuhausen-Nymphenburg Widmung der Gesamtstrecke der Josef-Obenhin-Straße
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.3: Anhörungen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Wegweisung und Weggestaltung des kürzesten Wegs von der De-La-Paz-Straße und Winfriedstraße zum Radweg an der Stammstrecke
+- TOP 3.4.2.: Öffnung des Bahngeländes Richelstraße für den Fußgänger- und Radverkehr
+- TOP 3.4.3.: Realisierung des Arnulfstegs
+- TOP 3.4.4.: Kurzfristige Information über Straßensperrung Arnulfpark
+- TOP 3.4.5.: "Barrierefreies Gern II" - Absenkung von Bordsteinkanten am Nederlinger Platz
+- TOP 3.4.6.: Baumzuschnitt zur besseren Sichtbarkeit der Beschilderung am Fahrradweg Menzinger Straße bei der Überquerung Schragenhofstraße
+- TOP 3.4.7.: Verbesserung der Einsicht in die Romanstraße für von aus der Hirschgartenallee kommende PKW und Radverkehr
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Mehr Sitzbänke & Sitzgelegenheiten in Neuhausen-Nymphenburg
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Wie ist der Sachstand bezüglich der Flüchtlingsunterkunft Wotanstr. 88?
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Kreativquartier - Untersuchung der Historie
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Mittagsverpflegung an der Mittelschule Winthirplatz
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
