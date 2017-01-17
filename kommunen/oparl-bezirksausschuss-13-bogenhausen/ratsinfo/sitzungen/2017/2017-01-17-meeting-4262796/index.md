@@ -1,0 +1,119 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262796
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262796
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Neuwahl eines Vorsitzenden bzw. Bestellung eines stellv. Vorsitzenden für den UA SÖÖ
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Runder Tisch "Teerung der Wege im Denninger Anger"
+- TOP 2.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.3.: Vorstellung des Bauvorhabens Prinz-Eugen-Park WA1+2 der GEWOFAG
+- TOP 2.2.4.: Berufsbildungswerk München-Johanneskirchen - Generalsanierung; Schreiben des Bezirk Oberbayern vom 24.11.2016
+- TOP 2.2.9.: Musenbergstraße 40: Nutzungsänderung: Lagerhalle zu kultureller Veranstaltungshalle, befristet auf 10 Jahre; Erstantragsverfahren
+- TOP 2.2.10.: Sensburger Straße 5: Erweiterung eines Autohauses um eine Werkstatthalle mit 2 Arbeitsplätzen und 5 Elektroladestationen sowie Ersatzbau des Reifenlagers; Erstantragsverfahren
+- TOP 2.2.12.: Cosimastr.: Errichtung 2er Wohngebäude im geförderten Wohnungsbau mit Kindertageseinrichtung und Tiefgarage; Anhörung des Referats für Stadtplanung und Bauordnung vom 22.12.2016
+- TOP 2.2.13.: Mauerkircherstr. 155: Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung des Referats für Stadtplanung und Bauordnung vom 22.12.2016
+- TOP 2.2.14.: Salzstr. 30: Nutzungsänderung und Erweiterung eines Pferdehofs zu einem Schafzuchtbetrieb; Anhörung des Referats für Stadtplanung und Bauordnung vom 29.12.2016
+- TOP 2.2.15.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.1.: Beschlussentwurf Verkehrskonzept Münchner Norden - Schienengüterverkehr und Feldmochinger Kurve - ; Anhörung des Referats für Stadtplanung und Bauordnung vom 12.12.2016
+- TOP 2.3.2.: Sternwartstraße/Lamontstraße; Einrichtung eines absoluten Halteverbotes im Einmündungsbereich und Anbringung Gefahrzeichen "Kinder" mit Zusatz "Schulweg"; Anhörung des Kreisverwaltungsreferats vom 01.12.2016
+- TOP 2.3.6.: Diverse Bürgerbeschwerden über den MVV-Fahrplanwechsel (Verlängerung der Tramlinie 25, Buslinie 190 und 191)
+- TOP 2.3.8.: Vorfahrtsregelung Truderinger Straße; Schreiben des Kreisverwaltungsreferats vom 12.12.2016
+- TOP 2.3.9.: Johanneskirchner Str., westlich Haferweg: Einrichtung eines absoluten Halteverbotes; Schreiben des Kreisverwaltungsreferats vom 12.12.2016
+- TOP 2.3.10.: Anfahrtszone Kindergrippe Johanneskirchner Straße 81; Schreiben des Kreisverwaltungsreferats vom 12.12.2016
+- TOP 2.3.11.: Einrichtung von Kurzparkzonen am Einkaufszentrum Freischützstraße (Hochhaus); Antrag Nr. 14-20 / B 01794 des Bezirksausschusses des Stadtbezirks 13 - Bogenhausen vom 10.11.2016 - Nachfrage; Anhörung des Kreisverwaltungsreferats vom 26.10.2016
+- TOP 2.3.14.: Beschlussentwurf Vierspuriger Ausbau des Föhringer Rings (St 2088); Anhörung des Referats für Stadtplanung und Bauordnung vom 23.12.2016
+- TOP 2.3.15.: Verschiedene Anliegen eines Bürgers aus Bogenhausen; Bürgerschreiben vom 02.12.2016
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.1.: Planung der Einsätze der Münchner SommerSpielAktion 2017; Anhörung des Vereins "Spielen in der Stadt e. V." vom 05.12.2016
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.3.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Schreiben des Baureferats vom 05. und 06.12.2016
+- TOP 2.6.4.: Freilaufende Hunde bzw. Einführung einer Leinenpflicht im Odinspark sowie im Denninger Anger
+- TOP 2.6.6.: Künftige Organisation des Unterausschusses
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.10.: Zebrastreifen Mauerkircherstraße / Spielplatz Grüntal; Schreiben der 3. Bürgermeisterin an den Bürger vom 22.12.2016
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.2.1.: Aktion Saubere Stadt, Wiederholung der Kampagne für "Rein. Und Sauber", das städt. Servicetelefon gegen Vermüllung; Beschluss des Bauausschusses vom 22.11.2016 (SB), Sitzungsvorlage Nr. 14-20 / V 06637
+- TOP 7.2.2.: Schulbauoffensive 2013 - 2030, Fortschreibung des Schulbaupavillion - Bauprogramms 2016 mit Fertigstellung in 2017; Neubau Schulpavillion, Stuntzstr. 55 im 13. Stadtbezirk Bogenhausen; Verwaltungsinterne Erteilung des Projektauftrags und der Projektgenehmigung vom 22.12.2016
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.4.1.: Mehrjahresinvestitionsprogramm 2016 - 2020; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf; Beschluss des Kommunalausschusses vom 24.11.2016, Sitzungsvorlage Nr. 14-20 / V 07463
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.2.: Erstellung von Stadtbezirksprofilen - Personalbedarf; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 (VB), Sitzungsvorlage Nr. 14-20 / V 07138
+- TOP 7.7.3.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021; Änderung des Mehrjahresinvestitionsprogramms 2016-2020; Finanzierung; Beschluss der Vollversammlung des Stadtrates vom 15.11.2016, Sitzungsvorlagen Nr. 14-20 / V 07205
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.8.2.: Schulbauoffensive 2013-2030; Beschluss der Vollversammlung des Stadtrates vom 19.10.2016, Sitzungsvorlage Nr. 14-20 / V 07118
+- TOP 7.8.3.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen; Beschluss der Vollversammlung des Stadtrates vom 28.09.2016, Sitzungsvorlage Nr. 14-20 / V 06885
+- TOP 7.8.4.: Infrastrukturprogramm Sport in München Rückblick 2016 und Fortschreibung 2017; Beschluss des Sportausschusses des Stadtrats vom 23.11.2016; Sitzungsvorlage Nr. 14-20 / V 07531
+- TOP 7.8.5.: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2017, Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.2016 (SB), Sitzungsvorlage Nr. 14-20 / V 07218
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.5.: Oberföhringer Straße 109 + 111: Neubau zweier Wohngebäude mit Tiefgarage – Vorbescheid; Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren
+- TOP 2.2.6.: Wahnfriedallee 11: Neubau eines Mehrfamilienhauses mit Tiefgarage – Vorbescheid; Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren
+- TOP 2.2.7.: Freischützstraße 75: Aufstockung eines gemischt genutzten Gebäudes – Vorbescheid; Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren
+- TOP 2.2.8.: Hochstiftsweg: Neubau von Mehrfamilienhäusern sowie von Gebäuden mit Wohnungen in Form von Wohnen zum Zweck und für Zwecke der Altenpflege mit erdgeschossigen Gewerbe sowie einer Tiefgarage – Vorbescheid; Erstantragsverfahren
+- TOP 2.2.11.: Möhlstraße 36: Neubau eines Geschäftshauses mit Tiefgarage [genehmigter Erstantrag: Neubau eines Wohnhauses und Geschäftshauses mit Tiefgarage] – Genehmigungsverlängerung; Erstantragsverfahren
+- TOP 2.3.3.: Heckenschnitt an Bürgersteige
+- TOP 2.3.4.: Versetzung des BA-Informationskastens Cosimastraße zum Fritz-Meyer-Weg auf Höhe Straßenbahnhaltestelle Linie 16 (stadteinwärts) bzw. auf Höhe Bushaltest. Linie 50 BA-Antrags-Nr. 14-20 / B 01081 vom 20.04.2015; Schreiben des Kommunalreferats vom 14.12.2016
+- TOP 2.3.5.: Reperaturen am und im Bürgerpark Oberföhring zur Verbesserung der Verkehrssicherheit
+- TOP 2.3.7.: Parksituation Hörselberger Str. / Barbarossastr. aufgrund einer Baustelle
+- TOP 2.3.12.: (E) Winterdienst für die Brodersenstraße und den Dornacher Weg Empfehlung Nr. 14-20 / E 01225 der Bürgerversammlung des Stadtbezirks 13 Bogenhausen am 27.10.2016
+- TOP 2.3.13.: Beschlussvorlage zum WC-Konzept „Nette Toilette“; Schreiben des 2. Bürgermeisters an den BA 8 vom 19.12.2016
+- TOP 2.5.2.: Ausschreibung „Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen“ im Stadtbezirk; Schreiben des Sozialreferats vom 15.11.2016
+- TOP 2.6.1.: Baumfällungen (Anhörungen): - Effnerstr.: lt. Plan - Wahnfriedallee 11: lt. Plan - Friedrich-Eckart-Str. 2: lt. Plan - Bülowstr. 10 - 20: lt. Plan - Ruth-Drexel-Str.: lt. Plan (vertagt vom 13.12.2016) - Ruth-Drexel-Str.: lt. Plan (vertagt vom 13.12.2016) - Oberföhringer Str. 109 + 111: lt. Plan - Salzstr. 30: lt. Plan - Haushoferstr. 2: 1 Esche - Holbeinstr. 22: 1 Laubbaum - Innstr. 16: 1 Ahorn - Oberföhringer Str. 20: 1 Buche, 1 Ahorn - Oberföhringer Str. 75: 6 Bäume - Oberföhringer Str. 111: 5 Bäume - Oberföhringer Str. 113: 5 Bäume - Oberföhringer Str 211: 2 Bäume - Silvanastr. 1 - 7: 3 Bäume - Wölzlstr. 23: 1 Douglasie - Wopfnerweg 3: 1 Linde - Asgardstr. 21: 1 Birke - Ismaninger Str. 109: 1 Robinie
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Laplacestr. 21 (lt. Bescheid), Savitsstr. 10 (lt. Bescheid), Möhlstr. 6 (lt. Bescheid), Bruno-Walter-Ring (1 Ahorn), Gröbenstr. 11 (2 Fichten), Knappertsbuschstr. 17 (2 Bäume)
+- TOP 2.6.5.: (E) Aufstellen von Mülleimern bei den Grünflächen Friedrich-Eckart-Straße sowie Neckarstraße / Spessartstraße Empfehlung Nr. 14-20 / E 01238 der Bürgerversammlung des Stadtbezirks 13 Bogenhausen am 27.10.2016
+- TOP 2.6.7.: Baumschutz in München ist Klimaschutz für München, Die Münchner Bezirksausschüsse handeln – jetzt; Schreiben des BUND Naturschutz in Bayern e. V. vom 20.12.2016
+- TOP 5.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Faschingszug Gaudiwurm am 26.02.2017; Start: Kirchplatz Johnneskirchen; Anhörung des Kreisverwaltungsreferats vom 23.12.2016
+- TOP 6.1.: Allwetter-Fahrradweg und Beleuchtung durch den Englischen Garten
+- TOP 6.2.: Kündigung aller Gewerbe, Einzelhandel, Arztpraxen im Freischützgarten
+- TOP 6.3.: Einplanung von E-Ladesäulen für Elektrofahrzeuge im Neubaugebiet "Prinz-Eugen-Park"
+- TOP 6.4.: Hausnummern für den "Am Eschbichl" Weg
+- TOP 6.5.: Bildungsoffensive 4. Akt
+- TOP 6.6.: Überprüfung der Zweckentfremdung im Anwesen Cosimastraße 81
+- TOP 6.7.: Verbesserungsmöglichkeiten an der Bushaltestelle "Odinpark" für die Bewohner des München-Stift-Hauses
+- TOP 6.8.: Bebauung Glücksburger Str. 76 - 80
+- TOP 6.9.: Wartung Trambahn, unrunde Räder
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättenbetriebes: Freisinger Hof, Oberföhringer Str. 189
+- TOP 7.7.1.: Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum; Beschluss der Vollversammlung des Stadtrates vom 14.12.2016, Sitzungsvorlagen Nr. 14-20 / V 07756
+- TOP 7.7.4.: Wohnen für Alle ermöglichen - Soziale Wohnraumversorgung in München sicherstellen! XII Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunerkünfte fördern; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.11.2016 (SB), Sitzungsvorlagen Nr. 14-20 / V 07430 (Hinweis / Ergänzung vom 21.11.2016)
+- TOP 7.8.1.: Schulbauoffensive (SBO) 2013/30 Verlegung des Staatl. Wilhelm-Hausenstein-Gymnasiums vom Standort Elektrastraße 61 an den Salzsenderweg im 13. Stadtbezirk Bogenhausen; Beschluss des Bildungsausschusses des Stadtrates vom 29.06.2016 (SB); Sitzungsvorlage Nr. 14-20 / V 06386
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch; Gröbenstr. 6 vorher: 58 m² bzw. 1 WE, geplant: 206 m² bzw. 2 WE
