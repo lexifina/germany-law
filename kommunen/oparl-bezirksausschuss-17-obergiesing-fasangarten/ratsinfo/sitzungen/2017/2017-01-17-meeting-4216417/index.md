@@ -1,0 +1,152 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4216417
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4216417
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Traunsteiner Straße 1-13, 1 Ahorn
+- TOP 3.9.1.2.: Traunsteiner Str. 21-29, 3 Fichten
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.2.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"; BA-Antrag Nr. 14-20 / B 02859 des BA 15; Schreiben des Direktoriums vom 10.11.16 mit der Bitte um Stellungnahme (vertagt aus der Dezember-Sitzung)
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Bauvorhaben im 17. Stadtbezirk
+- TOP 6.1.4.2.: Erstellung von Stadtbezirksprofilen - Personalbedarf; Sitzungsvorlage Nr. 14-20 / V 07138; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 07.12.16 (VB)
+- TOP 6.1.4.3.: PERSPEKTIVE MÜNCHEN - Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung; Schaffung einer Diskussionsreihe für Münchner Bürgerinnen und Bürger; Empfehlung Nr. 14-20 / E 01257 der BV des Stadtbezirkes 07 - Sendling-Westpark am 10.11.16; Sitzungsvorlage Nr. 14-20 / V 07418; Neufassung vom 01.12.16; Hinweis/Ergänzung vom 24.11.2016 zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 07.12.2016 (VB)
+- TOP 6.1.4.6.: Mehrjahresinvestitionsprogramm 2016 - 2020; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf; Sitzungsvorlage Nr. 14-20 / V 07463; Kurzübersicht zum Beschluss des Kommunalausschusses vom 24.11.2016 (VB)
+- TOP 6.1.4.7.: Schloß-Berg-Straße 24, Dachausbau mit Dachgauben, Dachterrasse und Balkonen; Anhörung vom 02.11.16; Nachfrage zu weiteren Planunterlagen; Antwortschreiben der Lbk vom 14.12.16
+- TOP 6.1.4.8.: Anforderung des BA 17 von Bauvorhaben zur Anhörung; Rückmeldung der Lbk vom 27.12.16 zum BV Kesselbergstraße 10
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.2.3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2017; Schreiben des Vereins Spielen in der Stadt e.V. mit der Bitte um Rückmeldung bis 20.01.2017
+- TOP 6.2.3.2.: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen" (Arbeitstitel), im Stadtbezirk; Schreiben des Sozialreferats-Stadtjugendamt, Bewerbungsschluss: 17.02.2017 (vertagt aus der Dezember-Sitzung - Einholung weiterer Informationen)
+- TOP 6.2.4.2.: Spielflächenversorgungsplan - Fortschreibung 2015; Anfrage des BA 17 aus der Sitzung vom 12.07.16; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 22.11.16
+- TOP 6.3: UA Verkehr
+- TOP 6.3.2.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung St.-Martin-Sr. / Schlierseestraße; Umplanung der Einmündung der Schlierseestraße in die St.-Martin-Straße; Beschluss des BA 17 vom 14.02.2017
+- TOP 6.3.4.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Leifstraße gegenüber Hausnummer 13; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 6.3.4.4.: Bereitstellung zusätzlicher Parkplätze für die KITA "Haus für Kinder" in der Münchberger Straße; BV-Empfehlung Nr. 14-20 / E 00503 vom 18.06.15; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 06.12.16 zur erneuten Überprüfung der Verkehrssituation innerhalb eines Jahres nach Inbetriebnahme
+- TOP 6.3.4.5.: Eintrachtstraße 4, Aufhebung des Sonderparkplatzes; verkehrsrechtliche AO gem. § 45 StVO; Mitteilung des KVR
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.4.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen gem. § 13 u. § 14 der BA-Satzung; Baumentfernungen u. Gehölzpflegemaßnahmen in den Außenanlagen städt. Immobilien, in Friedhöfen oder auf anderen städt. Grundstücken gem. § 13 und § 14 der BA-Satzung; hier: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 05.12.2016
+- TOP 6.4.4.2.: Beschlussvorlage zum WC-Konzept "Nette Toilette"; Abdruck des Antwortschreibens von Herrn Bürgermeister Schmid an den BA 8 vom 19.12.2016 an alle Bezirksausschüsse zur Kenntnis
+- TOP 6.4.4.5.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.16
+- TOP 6.4.4.6.: Ella-Lingens-Platz - Entsiegelung sowie umwelt- und menschenfreundlichere Gestaltung; BV-Empfehlung Nr. 14-20 / E 00992 vom 09.06.16; Sitzungsvorlage Nr. 14-20 / V 06883; Stellungnahme des Baureferats-Tiefbau vom 16.12.16 zur Prüfung von temporären mobilen Bepflanzungslösungen
+- TOP 6.4.6.1.: Urbanes BezirksNaturNetz; Antrag auf Förderung aus dem Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"; Schreiben des Vereins "Urbanes Wohnen e.V. München vom 15.12.16
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.4.1.: Sachbericht zu der vom BA geförderten Veranstaltung "St.-Quirin-Fest" am 14.07.2016; Zuleitung der Arbeitsgemeinschaft St.-Quirin-Fest Giesing
+- TOP 6.5.4.2.: Sachbericht zu der vom BA geförderten Veranstaltung "Von Kiesgruben-Krattlern und Haberfeldtreibern - Sepp Raith spielt eigene Lieder und liest Werner Schlierf" im Rahmen des Werner-Schlierf-Jahres; Zuleitung der Münchner Volkshochschule
+- TOP 6.5.4.3.: Infrastrukturprogramm Sport in München; Rückblick 2016 und Fortschreibung 2017; Sitzungsvorlage Nr. 14-20 / V 07531; Beschluss des Sportausschusses des Stadtrats vom 23.11.16 (SB)
+- TOP 6.5.6.1.: Münchner Wochen- und Bauernmärkte - dringender Appell; Schreiben des Kommunalreferats vom 10.12.16
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.4.1.: Gewerbeflächenentwicklungsprogramm - GEWI; Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern; Neufassung vom 01.12.2016; Sitzungsvorlagen Nr. 14-20 / V 07490; Beschluss des gemeinsamen Ausschusses für Stadtpl. u. Bauordnung u. Ausschuss für Arbeit und Wirtschaft vom 07.12.2016 (VB)
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Erweiterung Parklizenzgebiet Walchenseeplatz; Bürgerantrag vom 08.12.2016
+- TOP 2.1.2.2.: Fußgängerbrücke S-Bahn Lincolnstraße; Bürgernachfrage zum Schulweg vom 16.12.2016
+- TOP 2.1.2.3.: Ständiger Lärm seit Aufbau der Container in der Sintpertstraße; Bürgerschreiben (vertagt aus der Dezember-Sitzung, Ortstermin unter FF UA FSA)
+- TOP 2.1.2.4.: Parkregelung Traunsteiner Straße / Alzstraße, Zunahme der Geschwindigkeit; Bürgerschreiben vom 07.12.2016
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Mörderische Schwestern Bayern e.V. Literaturfestival „Tatort Tela“ im März 2017
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Unentgeltliche Rückgabe einer städtischen Immobilie; Anhörung des Bezirksausschusses gem. § 13 der BA-Satzung; hier: Auerspitzstraße; Zuleitung des Kommunalreferats mit der Bitte um Stellungnahme
+- TOP 6.1.3.3.: 6.1.3.1 Anhörungen zu Bauvorhaben im Stadtbezirk 6.1.3.1.1 Eslarner Str. 9, Abbruch Wohngebäude u. Errichtung eines Einfamilienhauses (6 WE) mit TG (6 Stpl.); Anhörung vom 20.12.16 6.1.3.1.2 Fasangartenstraße 104, Neubau 2er Mehrfamilienhäuser mit gemeinsamer TG; Anhörung vom 20.12.16 6.1.3.1.3 Schloß-Berg-Straße 24, Dachausbau mit Dachgauben, Dachterrasse und Balkonen; Anhörung vom 02.11.16 (zuletzt vertagt aus der Dezember-Sitzung) 6.1.3.1.4 St.-Martin-Str. 2, Umbau u. Nutzungsänderung einer städtischen Bibliothek zu einer Ladeneinheit und einer Wohnung; Anhörung vom 16.12.16 6.1.3.1.5 Martin-Luther-Str. 2, Nutzungsänderung im EG (Lager zu Gastronomie mit Stehausschank) mit leichten baulichen Änderungen sowie Errichtung eines Nebengebäudes im Hof; Anhörung vom 20.12.16
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.4.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021; München Modell-Eigentum a) Förderrichtlinien neu fassen b) München Modell-Eigentum erweitern; Stadtratsantrag Nr. 14-20 / A 02468 vom 15.09.16; Sitzungsvorlagen Nr. 14-20 / V 07756; Beschluss der Vollversammlung des Stadtrates vom 14.12.16
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße", Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 6.1.4.5.1 Anwesen Herzogstandstraße; Mitteilung vom 28.11.16
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Hellere Beleuchtung der Icho-Unterführung im 17. Stadtbezirk; BA-Antrag Nr. 14-20 / B 02960; Antwortschreiben des Baureferats-Tiefbau vom 22.12.2016 (mit Vorschlag Ortstermin)
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP 6.3.1.1.: Rote Karte für Rennstrecken - Mehr Schutz für Anwohnende1. Tempo 30 als Standard in städtischen Lebensbereichen2. Mehr Parkraum für Anwohner3. Mehr Grün für Rennstrecken4. Raser sehen Rot in Wohngebieten5. Schleichwege eindämmen6. Denkanstoß für alle Verkehrsteilnehmer; BA-Antrag Nr. 14-20 / B 02916; Antwortschreiben des KVR vom 07.11.16 (verwiesen aus der Dezember-Sitzung, Ortstermin)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Fahrrad frei; rücksichtsloses Radfahren auf dem Fußweg Wallbergstraße / Chiemgaustraße; Erhöhung der Verkehrssicherheit; BA-Antrag Nr. 14-20 / B 02792 vom 13.09.16; Antwortschreiben des Baureferats-Gartenbau vom 29.11.16
+- TOP 6.3.4.3.: Rücknahme der Bescheide für Straßenausbaubeiträge für die Fasangartenstraße (Maßnahme aus dem Jahr 2007); BA-Antrag Nr. 14-20 / B 02913 vom 11.10.16; Antwortschreiben des Baureferats vom 01.12.16
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.3.: Bepflanzung von geeigneten Flächen mit Bäumen entlang der Perlacher Straße; Bürgerschreiben vom 13.09.2016; BA-Antrag Nr. 14-20 / B 02907; Antwortschreiben Baureferat-Gartenbau vom 29.11.2016 mit der Bitte um Rückmeldung zur vorgeschlagenen Vorgehensweise
+- TOP 6.4.4.4.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.4.1 Traunsteiner Str. 21-29; Genehmigungsbescheid vom 13.12.16
+- TOP 6.4.4.7.: Öffentliche Toilette Weißenseepark; Antrag der Inklusionsbeauftragten; BA-Antrag Nr. 14-20 / B 02620 vom 12.07.16; Antwortschreiben Baurefrat-Gartenbau vom 28.12.16
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.2.: Kostenfreies W-LAN im Stadtteilkulturzentrum Giesinger Bahnhof; BA-Antrag Nr. 14-20 / B 02901 vom 13.09.16; Antwortschreiben des Direktoriums vom 01.12.2016
+- TOP 6.6.4.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.2.1 SSW "Terreno Bistro Bar Cafe", St.-Martins-Platz 5; Mitteilung vom 21.12.16 6.6.4.2.2 SSW "Yildiz Cafe Bar Restaurant", Perlacher Str. 3; Mitteilung vom 22.12.16 6.6.4.2.3 SSW "Giesinger Alm", Deisenhofener Str. 17; Mitteilung vom 20.12.16 6.6.4.2.4 SSW "TOPBAR 92", Tegernseer Landstraße 92; Mitteilung vom 08.12.16
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
