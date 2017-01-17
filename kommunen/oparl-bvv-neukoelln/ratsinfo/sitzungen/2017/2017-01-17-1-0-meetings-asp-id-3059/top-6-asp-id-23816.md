@@ -1,0 +1,7 @@
+# TOP 6: Nächste Sitzung am 21. Februar 2017
+
+- Sitzung: 2. öffentliche Sitzung des Ausschusses für Integration (2017-01-17)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=23816
+- Ergebnis: erledigt
