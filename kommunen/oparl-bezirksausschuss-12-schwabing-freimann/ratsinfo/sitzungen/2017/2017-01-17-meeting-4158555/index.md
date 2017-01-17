@@ -1,0 +1,124 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4158555
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4158555
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, zwei Warenauslagen
+- TOP 3.1.: Baumfällungen
+- TOP 3.1.2.: Alois-Wolfmüller-Str. 1
+- TOP 3.1.3.: Ursulastr. 6, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Kunigundenstr. , Neubau eines Mehrfamilienhauses mit Garagen - VORBESCHEID
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.2.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 5.2.2.: Ungererstraße 108, eine Hainbuche
+- TOP 5.2.3.: Margarete-Schütte-Lihotzky-Straße, mehrere Bäume
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.6.: Mehrjahresinvestitionsprogramm 2016-2020, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2016-2020, Infrastrukturversorgungskonzept 2016-2020, Sitzungsvorlagennummer 14-20 / V 07482
+- TOP 5.3.7.: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters, Sitzungsvorlagennummer 14-20 / V 07360
+- TOP 5.3.8.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2031b, Freisinger Landstraße (östlich, Garchinger Mühlbach (westlich) und Verlängerun Josef-Wirth-Weg (nördlich), Sitzungsvorlagennummer 14-20 / V 07453
+- TOP 5.3.9.: Anwendung der Baumschutzverordnung auf öffentlichen Grünflächen im gesamten Stadtgebiet, Empfehlung Nr. 14-20 / E 01097 der BV des 11. Stadtbezirks am 21.07.2016, Sitzungsvorlagennummer 14-20 / V 07547
+- TOP 1.1.: Einrichtung eines flächendeckendes Netzes für Stromtankstellen in Bereichen des Geschosswohnbaus (Initiative: Ekkehard Pascoe), vertagt aus der Sitzung vom 13.12.2016
+- TOP 1.2.: Leerung der Müllcontainer an der Münchner Freiheit auch an Sonn- und Feiertagen (Initiative: Horst Engler-Hamm)
+- TOP 2.3.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über Standortgenehmigung für Parkscheinautomaten, Herzogstraße gegenüber Hausnummer 11
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.2.: Erinnerungsverfahren, Rainackerweg/Obere-Länge/Möslweg/Langacker./Dorfgrabenweg
+- TOP 3.2.3.: Beschlussentwurf Vierspuriger Ausbau des Föhringer Rings (St. 2088)
+- TOP 4.1.: Errichtung eines Rad- und Fußweges zwischen dem Gelände der ehemaligen Papierfabrik an der Freisinger Landstraße und der Sondermeierstraße, vertagt aus der Sitzung vom 13.12.2016
+- TOP 4.2.: Haltverbotregelung in der Fröttmaninger Straße
+- TOP 5.1.1.: Fußgängerbedarfsampel für die Kreuzung Kunigunden- / Dietlindenstraße
+- TOP 5.2.1.: Absolutes Haltverbot in der Schwedenstraße
+- TOP 5.2.2.: Radwegführung Freisinger Landstraße Höhe Oberjägerstraße
+- TOP 5.2.3.: Z 283 StVO in der Grünecker Straße Einmündungsbereich zur Domagkstraße
+- TOP 5.2.4.: Max-Bill-Straße
+- TOP 5.3.1.: Weiterentwicklung des MVV-Gemeinschaftstarifs, Tarifanpassung zum 11.12.2016, Finanzierung, Sitzungsvorlagennummer 14-20 / V 07330
+- TOP 5.3.4.: PERSPEKTIVE MÜNCHEN, Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung, Sitzungsvorlagennummer 14-20 / V 07418
+- TOP 5.3.6.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlagennummer 14-20 / V 05253
+- TOP 5.3.7.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung im Leopoldpark
+- TOP 5.3.8.: Verlegung der Polizeihubschrauberstaffel Bayern vom Verkehrsflughafen München nach Oberschleißheim
+- TOP 5.3.11.: Vollzug des BimSchG und der 32. BimSchV; Ausnahmezulassung, Jahresgenehmigung 2017 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 1.1.: Verbesserung des Services an den Schaltern der Deutschen Post (Initiative: Horst Engler-Hamm)
+- TOP 3.1.: Anhörungsverfahren zum School´s over Jam am 28.07.2017, Anhörungsfrist: 30.06.2017
+- TOP 3.2.: Grundschulorganisation in der Landeshauptstadt München; Änderung bzw. Neubildung der Sprengel für die Grundschulen Fröttmaninger Straße 21, Bauhausplatz 9
+- TOP 5.1.1.: Barrierefreier Zugang zu den Schulen im 12. Stadtbezirk Schwabing-Freimann, BA-Antrags-Nr. 02-08 / B 01094 des BA 12 vom 21.04.2006
+- TOP 5.1.2.: Schnelle Lösung für den Hort der Schule an der Burmesterstraße, Antrag Nr. 14-20 / B 02443 vom 31.05.2016
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: Frankfurter Ring
+- TOP 5.2.2.: Guerickestraße 6
+- TOP 5.3.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen, Sitzungsvorlagennummer 14-20 / V 06885
+- TOP 5.3.4.: Infrastrukturprogramm Sport in München, Rückblick 2016 und Fortschreibung 2017, Sitzungsvorlagennummer 14-20 / V 07531
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Situlistr. 87, Brandschutztechnische Sanierung der Situlischule, Gebäudeteil „Rotes Haus“ mit Anbau einer Außentreppe
+- TOP 5.: Unterrichtungen
+- TOP 5.3.1.: Neubau Hauptbahnhof München a) Sachstand und Rahmenvereinbarung, b) „Hauptbahnhof von außen verwahrlost“ Antrag aus dem Stadtrat, Sitzungsvorlagennummer 14-20 / V 07576
+- TOP 5.3.2.: Erstellung von Stadtbezirksprofilen – Personalbedarf, Sitzungsvorlagennummer 14-20 / V 07138
+- TOP 5.3.3.: Antrag für ein Zeitungsentnahmegerät (Zeitschrift „Concrete“) an der Münchner Freiheit 2, Schreiben des Oberbürgermeisters
+- TOP 5.3.4.: Wohnungspolitisches Handlungsprogramm „Wohnen in München VI“ 2017-2021, München Modell-Eigentum a)Förderrichtlinien neu fassen, b) München Modell-Eigentum erweitern, Sitzungsvorlagennummer 14-20 / V 07756
+- TOP 5.3.5.: Wohnungspolitisches Handlungsprogramm „Wohnen in München VI“ 2017-2021, Änderung des Mehrjahresinvestitionsprogramms 2017-2021; Finanzierung, Sitzungsvorlagennummer 14-20 / V 07205
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Bebauungsplan mit Grünordnung Nr. 1982 a Ingolstädter Straße (östlich), Stadtgrenze (südlich) - Sportgelände an der Ingolstädter Straße - im 12. Stadtbezirk Schwabing-Freimann Herstellung einer Fuß- und Radwegverbindung (Teil B) Projektkosten (Kostenobergrenze): 850.000 € Projektgenehmigung
+- TOP 2.2.: (E) Mehrfache Öffnung des Erdwalls am Schmidbartlanger zum Ablauf des Oberflächenwassers Empfehlung Nr. 14-20 / E 01007 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 23.06.2016
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Anhörung zum Beschlussentwurf Verkehrskonzept Münchner Norden – Schienengüterverkehr und Feldmochinger Kurve
+- TOP 3.2.4.: AW Freimann – B-Plan 2024 (hier: Lilienthalallee, U-1678 Geh- & Radweg zur Maria-Probst-Straße)
+- TOP 3.2.5.: Baumschutz in München ist Klimaschutz für München, „Die Münchner Bezirksausschüsse handeln – jetzt!“
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.2.: Aktion Saubere Stadt, Wiederholung der Kampagne für „Rein. Und Sauber“, das städt. Servicetelefon gegen Vermüllung, Sitzungsvorlagennummer 14-20 / V 06637
+- TOP 5.3.3.: Gewerbeflächenentwicklungsprogramm – GEWI, Sitzungsvorlagennummer 14-20 / V 07490
+- TOP 5.3.5.: Planfeststellung nach § 18 Allgemeine Einsenbahngesetz (AEG) für das Vorhaben Eisenbahnnordring – Elektronisches Stellwerk München-Milbertshofen/-Freimann, Referatsschreiben
+- TOP 5.3.9.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben Eisenbahnnordring – Elektronisches Stellwerk (ESTW) München-Milbertshofen/-Freimann
+- TOP 5.3.10.: „Vermüllter Gehsteig und Grünanlage in der Leopoldstraße / Ecke Heckscher Straße“ Bürgeranliegen aus November 2016, Referatsschreiben
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat Maximiliansgymnasium Musicalprojekt "Grease" am 16. und 17.03.2017
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anhörungen
+- TOP 3.3.: „Sanierung der Kita Haimhauserstraße [...]“, Empfehlung Nr. 14-20 / E 01073 der Bürgerversammlung des 12. Stadtbezirkes am 14.07.2016, Empfehlung Nr. 14-20 / E 01074 des Bürgerversammlung des 4. Stadtbezirkes vom 14.07.2016, Referatsschreiben
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.3.: Fortführung des Projekts „DER FAHRENDE RAUM“ in Freimann, BA-Antrags-Nr 14-20 / B 002444 des BA 12 vom 31.05.2016, Sitzungsvorlagennummer 14-20 / V 05887
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.2.: Verwendungsnachweise a) Domagkateliers, Bewilligungsbescheid vom 2.05.2016 b) Freizeittreff Freimann, Bewilligungsbescheid vom 30.08.2016
+- TOP 5.3.3.: Wohnen für Alle ermöglichen – Soziale Wohnraumversorgung in München sicherstellen! XII, Modulbauweise für städtischen Wohnungsbau und Flüchtlingsunterkünfte förder, Sitzungsvorlagennummer 14-20 / V 07430
+- TOP 5.3.5.: Haushaltsplan 2017 – Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2017, Vollzug des Haushaltsplanes 2017 für den Bereich „Förderung freier Träger“ des Stadtjugendamtes, Sitzungsvorlagennummer 14-20 / V 07218
+- TOP 5.3.6.: Beschlussvorlage zum WC-Konzept „Nette Toilette“, Schreiben des Bürgermeisters
+- TOP 5.3.7.: Haushaltsplan 2017 – Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2017, Vollzug des Haushaltsplans 2017 für den Bereich „Förderung freier Träger“, des Sozialreferats/Stiftungsverwaltung – Bürgerschaftliches Engagement (BE) Zentrale, Sitzungsvorlagennummer 14-20 / V 07226
+- TOP 5.3.8.: Haushaltsplan 2017 – Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2017, Vollzug des Haushaltsplans 2017 für den Bereich „Förderung freier Träger“, des Amtes für Soziale Sicherung, Sitzungsvorlagennummer 14-20 / V 07237
+- TOP 5.3.9.: Haushaltsplan 2017 – Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2017, Vollzug des Haushaltsplans 2017 für den Bereich „Förderung freier Träger“, des Amtes für Wohnen und Migration, Sitzungsvorlagennummer 14-20 / V 07291
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
