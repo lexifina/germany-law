@@ -1,0 +1,52 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4331793
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4331793
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Verabschiedung Gerhard Ameres (Leiter der IG Feuerwache) und Vorstellung seines Nachfolgers Markus Hönig
+- TOP 3.2.: Bericht Büro Kinderbeauftragte zum Kinderaktionskoffer
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Feuerfeste Garderobenschränke / Bildtafeln an der Bergmannschule
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Holzapfelstr. 10
+- TOP 6.2.2.: Landsberger Str. 14
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Erhalt der Verwendung des Gebäudes Tulbeckstr. 4f
+- TOP 6.3.3.: Gaststättenfortführung Ganghoferstr. 25
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.2.1.: Marktfeste für Kinder 2017
+- TOP 8: Umwelt und Verkehr
+- TOP 8.3.1.: Verkehrsüberwachung Westend
+- TOP 8.3.2.: Beschlussvorlage zum WC-Konzept "Nette Toilette"
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 10.1.: Gegen das Vergessen - Realisierung der Wanderausstellung "Anne Frank" für München prüfen
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Dringender Appell bzgl. Münchner Wochen- und Bauernmärkte
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Initiative open Westend Open Westend 2017
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
