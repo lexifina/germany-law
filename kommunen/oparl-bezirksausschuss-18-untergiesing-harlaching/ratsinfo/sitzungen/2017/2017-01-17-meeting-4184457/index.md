@@ -1,0 +1,157 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4184457
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4184457
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.2.5.6.: Beleuchtung des öffentlichen Weges zwischen Rotbuchenstraße und Am Hohen Weg; BV-Empfehlung Nr. 14-20 / E 00718 vom 12.11.15; Schreiben des BA 18 vom 27.10.16; Antwortschreiben des Baureferats-Tiefbau vom 14.12.16 (negative Erledigung)
+- TOP 3.2.5.7.: Haltestelle Autharistraße - Zusammenfassung des Ortstermins vom 21.11.2016; Zuleitung des Baureferats-Tiefbau
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.3.5.2.: Beschlussvorlage zum WC-Konzept "Nette Toilette"; Abdruck des Antwortschreibens von Herrn Bürgermeister Schmid an den BA 8 vom 19.12.2016 an alle Bezirksausschüsse
+- TOP 3.3.7.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz e.V.
+- TOP 3.4: UA Soziales
+- TOP 3.4.5.2.: Beschlussvorlage "Münchenstift GmbH - Umsetzung des Zukunftskonzeptes"; Stellungnahme des BA 18 aus der Sitzung vom 15.11.2016; Antwortschreiben des Sozialreferates vom 14.12.2016 (positive Erledigung)
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1.: 3.5.4.3 Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"; Antrag Nr. 14-20 / B 02859 des BA 15 vom 22.09.16; Schreiben des Direktoriums vom 10.11.16 mit der Bitte um Stellungnahme (vertagt aus der Dezember-Sitzung)
+- TOP 3.5.4.2.: 3.5.4.4 Keine Veräußerung öffentlichen Eigentums; BV-Empfehlung Nr. 14-20 / E 01306 vom 24.11.16; Zuleitung des Kommunalreferats mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Hans-Mielich-Str. 1a, Umbau u. Sanierung des Gesamtanwesens mit Anbau dreier Balkonanlagen u. eines Außenaufzugs, Änderung einer Gaststätte im EG zu einem Büro, Grundrissänderungen der Einheiten EG - 3. OG, Neuerrichtung des Dachgeschosses u. Ausbau zu 3 Wohnungen; Anhörung vom 15.11.16 (vertagt aus der Dezember-Sitzung)
+- TOP 3.5.4.1.2.: Karolingerallee 34, Umbau einer Pferdestallung zu einer Betriebsleiterwohnung mit überdachtem Stellplatz, Errichtung eines Gartenhauses u. Nutzungsänderung einer Jauchegrube zu einem Schwimmbad; Anhörung vom 22.12.2016
+- TOP 3.5.4.1.3.: Tierparkstraße 30, Neubau Mühlendorf; Anhörung vom 19.12.2016
+- TOP 3.5.4.1.4.: Traminer Str. 6, Neubau von 4 Mehrfamilienhäusern mit Tiefgarage; Anhörung vom 14.12.16
+- TOP 3.5.4.1.5.: Traminer Str. 6, Neubau 2er Mehrfamilienhäuser mit 2 Tiefgaragen; Anhörung vom 12.12.16
+- TOP 3.5.4.1.6.: Gindelalmstraße 5, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 23.12.16
+- TOP 3.5.4.1.7.: Steingadener Str. 10, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 23.12.16
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.5.4.: Verwertungsmoratorium für nach der Umsetzung des Sanierungskonzeptes freiwerdenden Flächen des Städt. Klinikums Harlaching; BA-Antrag Nr. 14-20 / B 01546 vom 18.08.16; Zwischennachricht der Stadtkämmerei vom 16.12.16
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.4.: Gewerbeflächenentwicklungsprogramm - GEWI; Fortschreibung u. Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse u.Wirtschaftskammern; Neufassung vom 01.12.16; Sitzungsvorlagen Nr. 14-20 / V 07490; Beschluss des gemeinsamen Ausschusses für Stadtpl. u. Bauordnung u. Ausschuss für Arbeit u. Wirtschaft vom 07.12.16 (VB)
+- TOP 3.5.6.5.: PERSPEKTIVE MÜNCHEN; Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung; Schaffung einer Diskussionsreihe für Münchner Bürgerinnen und Bürger; Sitzungsvorlagen Nr. 14-20 / V 07418; Neufassung vom 01.12.16; Hinweis/Ergänzung vom 24.11.16 zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 07.12.2016 (VB)
+- TOP 3.5.7.1.: Josef-Vötter-Str. 26, Fl.Nr. 12878/155, Gemarkung: Sektion VII, Neubau eines Mehrfamilien- u. eines Reihenendhauses mit Tiefgarage; Stellungnahme des BA 18 vom 19.07.16; Abdruck der Baugenehmigung vom 13.12.16
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.7.1.: Münchner Wochen- und Bauernmärkte - dringender Appell; Schreiben des Kommunalreferats vom 10.12.2016
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Tempo 30 am Albert-Einstein-Gymnasium, Karolingerallee; Bürgerantrag
+- TOP 2.1.2.2.: BV Traminer Str. 6; Bürgerschreiben vom 04.12.2016
+- TOP 2.1.2.3.: Bauvorhaben Geiselgasteigstraße 147; Bürgerschreiben vom 20.12.2016
+- TOP 2.1.2.4.: MVG-Anschluss-Optimierung Mangfallplatz (Süd) - Haltestelle Bus 139 Richtung Klinikum Harlaching; Verlegung der Echtzeit-Anzeiger nach unten in den Gang im Sperrengeschoss; Bürgerantrag vom 23.12.16
+- TOP 2.1.2.5.: Anfrage zum BV Traminer Str. 6; Bürgerschreiben vom 10.12.16
+- TOP 3.1.3.1.1.: Antragsteller: G. Görlich, für die Maßnahme: Erstellung und Druck des neuen Seniorenstadtteilplans; Antragssumme: 6.000,00 €; Antrag vom 03.01.2017
+- TOP 3.1.5.1.: Budget der Münchner Bezirksausschüsse; Neuberechnung aufgrund der gestiegenen Verbrauchskosten und entsprechende Anhebung; BA-Antrag Nr. 14-20 / B 00301 vom 19.08.14; Zwischennachricht des Direktoriums vom 21.12.16 mit der Bitte um Fristverlängerung bis 30.04.17
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Einrichtung einer Kurzparkzone im 18. Stadtteil Untergiesing-Harlaching vor der Filiale Hypovereinsbank München Harlaching; BA-Antrag Nr. 14-20 / B 02999 vom 15.11.2016; Antwortschreiben des KVR vom 08.12.16 (positive Erledigung)
+- TOP 3.2.5.2.: Die LHM wird aufgefordert, den Schulbus für die Rotbuchenschule weiterhin zu betreiben; BA-Antrag Nr. 14-20 / B 02808; Antwortschreiben des RBS vom 06.12.16 (neutrale Erledigung)
+- TOP 3.2.5.3.: Elektronische Geschwindigkeitsanzeige für die Harthauser Straße; BA-Anfrage Nr. 14-20 / Q 00340 vom 24.11.16; Antwortschreiben des KVR vom 02.12.16 (neutrale Erledigung)
+- TOP 3.2.5.4.: Geschwindigkeitsüberwachung in der Hans-Mielich-Straße; BA-Antrag Nr. 14-20 / B 02942 vom 20.09.16; Antwortschreiben KVR vom 22.12.16 (neutrale Erledigung)
+- TOP 3.2.5.5.: Verkehrsführung Kreuzung St.-Magnus-Straße / Ecke Naupliastraße; BA-Antrag Nr. 14-20 / B 02840 vom 20.09.16; Verbesserung der Verkehrssicherheit in der Naupliastraße; BA-Antrag Nr. 14-20 / B 02852 vom 20.09.16; Zwischennachricht des Baureferats-Tiefbau vom 13.12.16
+- TOP 3.2.5.8.: Bushaltestelle neu, Bus 139 Autharistraße; Bürgerschreiben vom 04.07.2016; BA-Antrag Nr. 14-20 / B 02877; Antwortschreiben des RAW vom 21.12.16 (neutrale Erledigung)
+- TOP 3.2.5.9.: Buslinie 58 / 100 / 148 - Linienführung; BV-Anfrage Nr. 14-20 / Q 00342 vom 24.11.16; Antwortschreiben des RAW vom 28.12.16 (neutrale Erledigung)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Grünwalder Straße - Verschmutzung auf öffentlichem Grund; Bürgerschreiben vom 22.08.2016; BA-Antrag Nr. 14-20 / B 02855; Antwortschreiben des Baureferats-Tiefbau vom 01.12.16 (positive Erledigung)
+- TOP 3.3.5.3.: Begrünung / Bepflanzung am Hans-Mielich-Platz; BV-Anfrage Nr. 14-20 / Q 00337 vom 24.11.16; Antwortschreiben des Baureferats-Tiefbau vom 23.12.16 (neutrale Erledigung)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordung 3.3.6.1.1 Söltlstraße 3; Bescheid vom 13.12.16
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Verbleib des Kindergartens im Hollerbusch-Park? BV-Anfrage Nr. 14-20 / Q 00347 vom 24.11.16; Antwortschreiben des RBS vom 13.12.16 (neutrale Erledigung)
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Errichtung einer Mehrzweckhalle nahe den Sportanlagen Agilolfingerstraße / Sachsenstraße; Antrag der Fraktion Bündnis 90/Die Grünen (vertagt aus der Dezember-Sitzung)
+- TOP 3.5.3.2.: Candidhaus - Planungsstand und Zeitplan für die Bebauung der Fläche am Candidplatz; Antrag der Fraktion Bündnis 90/Die Grünen (verwiesen aus der Dezember-Sitzung)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Blockierter Gehweg in der Humboldtstraße durch Läden und Imbisse; BV-Anfrage Nr. 14-20 / Q 00339 vom 24.11.16; Antwortschreiben KVR vom 13.12.16 (neutrale Erledigung)
+- TOP 3.5.5.2.: "Milieuschutz" gewährleisten im Block Candid-, Agilolfinger-, Krumpter-, Hans-Mielich-Straße (im so genannten "Hans-Mielich-Carée")! BA-Antrag Nr. 14-20 / B 02835 vom 20.09.16; Antwortschreiben Referat für Stadtpl. u. Bauordnung vom 12.12.16 (positive Erledigung)
+- TOP 3.5.5.3.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing" durch das Sozialreferat betreffend der Hans-Mielich-Straße 1a; Schreiben vom 02.08.2016 - Fragenkatalog an das Sozialreferat / Amt für Wohnen und Migration der LHM; BA-Antrag Nr. 14-20 / B 02810 vom 20.09.16; Antwortschreiben des Sozialreferats vom 16.12.16 (neutrale Erledigung)
+- TOP 3.5.5.5.: Nächtliche Beleuchtung der Container bei der Pfarrei "Hl. Familie", Am Hollerbusch; BV-Anfrage Nr. 14-20 / Q 00346 vom 24.11.16; Antwortschreiben des Sozialreferats vom 22.12.16 (neutrale Erledigung)
+- TOP 3.5.5.6.: Raumplanung /-belegung der städt. Einrichtungen; BA-Antrag Nr. 14-20 / B 02145 vom 15.03.16; Antwortschreiben des RBS vom 23.12.16 (neutrale Erledigung)
+- TOP 3.5.5.7.: Freifläche Oberbiberger Straße / Friedrich-Ebert-Straße; Anfrage an die LHM bzgl. der Planungen; BA-Antrag Nr. 14-20 / B 02817 vom 20.09.16; Zwischennachricht des Baureferats-Gartenbau vom 21.12.16
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.2.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021; München Modell-Eigentum a) Förderrichtlinien neu fassen b) München Modell-Eigentum erweitern; Stadtratsantrag Nr. 14-20 / A 02468 vom 15.09.16; Sitzungsvorlagen Nr. 14-20 / V 07756; Beschluss der Vollversammlung des Stadtrates vom 14.12.2016
+- TOP 3.5.6.3.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Cannabichstraße; Mitteilung vom 06.12.16
+- TOP 3.5.6.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.6.1 Kleingaststätte "Cafe la Morosa", Pilgersheimer Str. 42; Mitteilung vom 09.12.16
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Genehmigung der Stele am Hans-Mielich-Platz; BV-Anfrage Nr. 14-20 / Q 00344 vom 24.11.16; Antwortschreiben des Baureferats-Tiefbau vom 22.12.16 (neutrale Erledigung)
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.1.1.: (E) Homepage des BA 18 - Veröffentlichung der Tagesordnung BV-Empfehlung Nr. 14-20 / E 01321 der Bürgerversammlung des Stadtbezirkes 18 vom 24.11.2016
+- TOP 4.1.2.: (E) Änderung der Satzung für Bürgerversammlungen - Sachstandsinformation auf der aktuellen Bürgerversammlung über letztjährige, noch nicht realisierte BV-Empfehlungen
