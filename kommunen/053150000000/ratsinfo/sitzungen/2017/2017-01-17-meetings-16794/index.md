@@ -1,0 +1,58 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-17T14:10:00+01:00
+- Ende: 2017-01-17T16:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16794
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16794
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Präsentationen
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Investiver Zuschuss für diverse Beschaffungen des Trägers "Theaterpädagogisches Zentrum e.V. Köln". - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Jugendhilfeplanung der Kindertagesbetreuung für das Kindergartenjahr 2017/18 als Grundlage der Beantragung von Landeszuschüssen nach § 21 KiBiz - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Koordination multiprofessionelle Teams und Gruppenleitung Schulsozialarbeit - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Mitteilung über die Benennung eines neuen beratenden Pflichtmitgliedes für den Jugendhilfeausschuss - ungeändert empfohlen
+- TOP 5: Anträge aus der Politik (schriftlich)
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (schriftlich)
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Pool-Lösungen für schulische Integrationshilfen - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der SPD- Fraktion (DS Nr. AN/1866/2016) zum Thema "Pool- Lösungen für schulische Integrationshilfen" - Kenntnis genommen
+- TOP 6.1.2: Mehr Mehrgenerationenplätze in Köln? - Sache ist erledigt
+- TOP -: Mehr Mehrgenerationenplätze in Köln? - Kenntnis genommen
+- TOP 6.1.3: Befristete Arbeitsverträge in Kindertagesstätten - Sache ist erledigt
+- TOP -: Befristete Arbeitsverträge in Kindertagesstätten - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? - zurückgestellt
+- TOP 7: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (mündlich)
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Neue Mitglieder des Jugendhilfeausschusses - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Herausforderung extremistischer Salafismus - Kenntnis genommen
+- TOP 8.4.2: Anfrage der Piratengruppe "KidS - Kommunalpolitik in die Schule " - auch was für Köln? - Kenntnis genommen
+- TOP 8.4.3: Gefahr durch Granulat auf Kunstrasenplätzen und Kinderspielplätzen - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Schutz von Kindern jugendamtsbekannter Eltern, die illegale Drogen konsumieren bzw. sich in Substitutionsbehandlung befinden - Kenntnis genommen
+- TOP 11.2: Vorlage 0051/2017 wurde in den nicht-öffentlichen Teil vorgezogen --> TOP 8.5.1
