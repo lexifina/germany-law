@@ -1,0 +1,74 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-01-18T17:00:00+01:00
+- Ende: 2017-01-18T21:00:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4498
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4498
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=272695
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 1.1: Bericht aus dem Ausschuss für Eingaben und Beschwerden - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: "Stasi-Überprüfung" der Bezirksverordneten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Anzahl der Bürgerdeputierten in den Ausschüssen der Bezirksverordnetenversammlung Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Änderung der Geschäftsordnung der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.7: Wahl einer Bürgerdeputierten und von stellvertretenden Bürgerdeputierten – hier: Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.8: Wahl eines Bürgerdeputierten und eines stellvertretenden Bürgerdeputierten in den Integrationsausschuss - gegenstandslos
+- TOP 3.9: Wahl einer Bürgerdeputierten und stellvertretenden Bürgerdeputierten – hier: Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.10: Wahl von Beisitzern und stellvertretenden Beisitzern für den Vorstand der BVV gem. § 11 Abs. 5 Geschäftsordnung der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.11: Wahl der Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.12: Benennung beratender Mitglieder im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 6.1: Sitzbank für die Selbstständigkeit von Senior*innen aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Bürgerforen in allen Ortsteilen etablieren - überwiesen
+- TOP 6.3: Optimierte Verkehrsführung, hier: Ausfahrt AS Sachsendamm (von der BAB A 103 kommend) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Zukunft der Jugendfreizeiteinrichtung Potse und Drugstore - beantwortet
+- TOP 8.2: Umsetzung des "Masterplan Integration und Sicherheit" in Tempelhof-Schöneberg - beantwortet
+- TOP 8.3: Situation Prävention an Schulen gegen Radikalisierung - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Entwicklung auf dem EUREF-Campus - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sicher zur Schule - mit und ohne Schülerlotsen und zwar jeden Tag! - überwiesen
+- TOP 9.3: Erste Sofortmaßnahmen für mehr Verkehrssicherheit auf dem Schulweg - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Rasen vor Schulen im Bezirk - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Schülerlotsendienst an Grundschulen sichern - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Obdachlosenrahmenplan erarbeiten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Charta für die Verkehrssicherheit beitreten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Tegel offenhalten - gegenstandslos
+- TOP 9.9: Sitzbänke aufstellen mit Plan: Prioritätenliste für Bänke - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Schulen am Tag der Verkehrssicherheit beteiligen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Gesundheitsamt personell aufrüsten - Handlungsfähigkeit erhalten - überwiesen
+- TOP 9.12: Instandsetzungsmaßnahmen John-F.-Kennedy-Platz - überwiesen
+- TOP 9.13: Ehemaligen BVV-Saal im Rathaus Tempelhof wieder für die Öffentlichkeit zugänglich machen - überwiesen
+- TOP 9.14: Kandidat*innenvorstellung und -flyer für die Wahlen zur Seniorenvertretung online stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.15: Durch Umorganisation den Ausschluss von Kindern vom Schulmittagessen verhindern! - überwiesen
+- TOP 9.16: Tempo 30 in der Akazienstraße durch Überführung in Bezirkszuständigkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.17: Schwimmbad in der Klosteranlage „Vom Guten Hirten“ unterstützen! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Mariendorfer Damm 16-17 - überwiesen
+- TOP 9.19: Mehr Zebrastreifen im Bezirk - überwiesen
+- TOP 9.20: Befestigung und Beleuchtung des Mariendorfer-Hafen-Weges - überwiesen
+- TOP 9.21: Stellenansatz bei der Beauftragten für Menschen mit Behinderungen prüfen - überwiesen
+- TOP 9.22: Gäste des Evangelischen Kirchentags in Tempelhof-Schöneberg herzlich willkommen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Änderung der Geschäftsordnung § 27 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Änderung von §81 der Geschäftsordnung – Audio-Livestream - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Änderung von §81 der Geschäftsordnung – Tonaufnahme - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - erledigt
+- TOP 13: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 14: Bildung eines Beirates von und für Menschen mit Behinderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15: Termin der nächsten Sitzung - erledigt
