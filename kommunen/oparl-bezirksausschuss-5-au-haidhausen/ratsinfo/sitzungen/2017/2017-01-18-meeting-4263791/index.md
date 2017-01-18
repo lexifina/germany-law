@@ -1,0 +1,160 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-01-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263791
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263791
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 7.1.: MVG Radstation Rosenheimer Platz / Steinstraße
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Mehrjahresinvestitionsprogramm für die Jahre 2016-2020
+- TOP 8.2.4.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 7.1.: Sckellstr. 1: Fällung von 1 Bergahorn
+- TOP 7.2.: Seeriederstr. 5: Fällung von 1 Eberesche
+- TOP 7.3.: Max-Planck-Str. 1: Fällung von 5 Bäumen
+- TOP 7.4.: Breisacher Str. 13: Fällung von 1 Kirsche
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.1.: Erklärende Zusatzschilder an Straßenschildern
+- TOP II.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Planung der Einsätze der Münchner SommerSpielAktion 2017
+- TOP 3.1.: Schulbauoffensive 2013-2030; Vorbereitung für das 2. Schulbauprogramm - Informationsveranstaltung für die Bezirksausschüsse am 11.01.17, 18 Uhr, Referat für Bildung und Sport
+- TOP 2.1.: Marktveranstaltungen auf dem Orleansplatz 2017; Platzvergabe nach Grünanlagensatzung
+- TOP 2.3.: "love your local market" am 09.05.17 am Wochenmarkt Weißenburger Platz
+- TOP 2.4.: Schank- und Speisewirtschaft "gast", Rosenheimer Str. 5; Antrag auf Betriebszeitverlängerung des Wirtschaftsgartens
+- TOP 3.1.: WC-Konzept "Nette Toilette"
+- TOP 3.3.: Münchner Wochen- und Bauernmärkte - dringender Appell
+- TOP 1.1.: Vorstellung des Bauvorhabens Ismaninger Str. Ecke Prinzregentenstraße im Unterausschuss durch die Architekten
+- TOP 2.1.: Planfeststellung nach § 18 Allg. Eisenbahngesetz für das Vorhaben S-Bahn-Station Rosenheimer Platz - Brandschutztechnische Ertüchtigung, Neubau einer maschinellen Rauchabzugsanlage
+- TOP 2.2.: Schneckenburgerstr. 30: Errichtung von 4 Dachgauben und Verlegung bzw. Bau eines DG-Balkons
+- TOP 2.3.: Schneckenburgerstr. 32: Errichtung von 4 Dachgauben, Erweiterung des Balkons und Einbau einer Empore in eine DG-Wohnung
+- TOP 2.4.: Wörthstr. 9, Rückgebäude: Nutzungsänderung von ehem. Gewerbeflächen einer Näherei in 6 getrennte, eigenständige gewerbliche Einheiten mit Büro- und Praxisnutzung
+- TOP 2.5.: Sedanstr. 8: Errichtung einer Wohneinheit in der Hofeinfahrt und Nutzungsänderung im EG (Ladeneinheit zu Wohnung)
+- TOP 2.6.: Grillparzerstr. 37: Umbau und Modernisierung eines Wohn- und Geschäftsgebäudes durch Anbau von Balkonen und eines Fassadenlifts sowie Neuerrichtung 1. und 2. DG; Neubau eines Rückgebäudes mit Tiefgarage; Tektur
+- TOP 2.7.: Orleansstr. 39: DG-Restausbau
+- TOP 2.8.: Einsteinstr. 95: Neubau eines Mehrfamilienhauses mit 19 Werkswohnungen, Laden und Tiefgarage; Tektur
+- TOP 2.9.: Franziskanerstr. 14: Nutzungsänderung Büroflächen (OG 2-4) zu Schulungsräumen für das Goetheinstitut sowie Aufteilung der Büroflächen OG 1-6 in 22 Nutzungseinheiten
+- TOP 2.10.: Rosenheimer Str. 79: Nutzungsänderung: Apotheke im EG zu Buchmacherladen und Kiosk mit Tipp-Annahme sowie Apothekenkeller im UG zu Keller
+- TOP 2.11.: Grillparzerstr. 51: Sanierung einer Wohnung im DG sowie Neuerrichtung Dachstuhl
+- TOP 2.12.: Metzstr. 8: Nutzungsänderung: Ladengeschäft zu Gaststätte mit Verkauf von Backwaren und Geschenkartikeln, Tektur
+- TOP 2.13.: Orleansstr. 45a: Anbau von Balkonen und Errichtung einer Dachterrasse an ein Wohnhaus sowie Neugestaltung des Müllunterstandes im Hinterhof
+- TOP 2.14.: Hochstr. 75: Abbruch aller Bestandsgebäude auf dem ehem. Paulaner-Gelände
+- TOP 2.15.: Lucile-Grahn-Str. 23: Abbruch des Bestandsgebäudes und Neubau eines Wohnhauses mit Einzelhandel und Tiefgarage, Vorbescheid
+- TOP 3.1.: Balanstr. 34: Nutzungsänderung von Verkaufsflächen in einen Kontaktladen für KonsumentInnen illegaler Drogen; Baugenehmigung
+- TOP 3.5.: Vorbescheide Grillparzerstr. 34, Hackländerstr. 1-7, Versailler Str. 17
+- TOP 2.2.: Schutzzone für Kinder, Welfenstr. 34 & Welfenhöfe
+- TOP 3.1.: Jahresgenehmigung 2017 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Schlotthauerstr. 4
+- TOP 3.5.: Luftmessung in der Rosenheimer Straße Empfehlung Nr. 14-20 / E 00857 der Bürgerversammlung Au-Haidhausen am 25.02.2016 Ergänzende Fragen zum Beschluss des BA 5 vom 20.07.2016 Vertagung aus der Sitzung vom 16.12.16
+- TOP 3.6.: Umbau der Lichtzeichenanlage Am Gasteig
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Veranstaltungsprogramm des NS-Dokumentationszentrums Januar bis März 2017
+- TOP 4.2.: Siebte Münchner Bildungskonferenz am 08.03.17, Thema: Bildung für nachhaltige Entwicklung (Vorankündigung)
+- TOP 4.3.: Präsentation der Leitlinie Soziales am 18.01.17, 17 Uhr, Orleansplatz 11
+- TOP 4.4.: Informationsveranstaltung über zukünftige Projekte der GEWOFAG am 01.02.17 um 18 Uhr
+- TOP 4.5.: Absage der geplanten Bürgerversammlung am 16.02.17 in der Au und am 22.02.17 in Haidhausen - Neue Terminfindung
+- TOP A: Allgemeines
+- TOP 4.2.1.: Entfernung eines Steinstapels vor Steinstr. 11
+- TOP 4.2.2.: Spendenattacken am Weißenburger und Pariser Platz (Antwortschreiben auf Bürgeranliegen)
+- TOP 5.1.: Stadtgestaltungskommission: Tätigkeit transparenter darstellen
+- TOP 5.2.: Wertstoffcontainer an den Haidenauplatz
+- TOP 5.3.: Neue Holzschaukel für den Spielplatz am Vater-Rhein-Brunnen
+- TOP 5.4.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt !
+- TOP 5.5.: Kommunales Bildungsmanagement auch für den Stadtbezirk 5 Au-Haidhausen Vertagung aus der Sitzung vom 16.12.16
+- TOP 5.6.: Illegalen Autoverkehr in der Fußgängerzone beim Genoveva-Schauer-Platz wirksam unterbinden
+- TOP 5.7.: Stadtbaumkampagne
+- TOP 5.8.: Finanzierung Modellprojekt Rosenheimer Straße
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Münchner Science & Fiction Festival Science & Fiction Festival vom 28. - 30.04.2017 (siehe auch UA Arbeit und Wirtschaft und UA Kultur)
+- TOP 6.2.1.: Aufstellung von neuen Verkaufseinrichtungen für das Magazin "Concrete" am Max-Weber-Platz, Wiener Platz und Rosenheimer Platz => dazu: Schreiben Kreisverwaltungsreferat (Vertagung aus der Sitzung vom 16.12.16) (siehe auch UA Arbeit und Wirtschaft)
+- TOP 6.2.2.: Erweiterung einer bestehenden Freischankfläche in der Einsteinstr. 125 (siehe auch UA Arbeit und Wirtschaft)
+- TOP 8.1.1.: Schulklimabefragung in Au-Haidhausen
+- TOP 8.1.2.: Schulklimabefragung in Au-Haidhausen BA-Antrag Nr. 14-20 / B 02981
+- TOP 8.1.3.: Anmietung von Räumen in Gaststätten durch Gruppierungen, die den sozialen Frieden gefährden, unterbinden
+- TOP 8.1.4.: Schaffung einer Sitzbank zu Füßen der Kreuzigungsgruppe am Gasteig
+- TOP 8.1.5.: Sanierung/Instandsetzung der Eisenbahnbrücke in der Rosenheimer Straße neu priorisieren ? BA-Antrag Nr. 14-20 / B 02894 und Priorisierung im Programm "Erneuerung von Eisenbahnbrücken" in der Rosenheimer Strasse beschleunigen => dazu: Ergänzendes Schreiben Baureferat zu den Unfallzahlen BA-Antrag Nr. 14-20 / B 02980
+- TOP 8.1.6.: Rückgebäude Innere Wiener Str. 28 / Preysingplatz 8: Jahrelanger weitgehender Leerstand des Gebäudes; unansehnliche, unfertige Fassade; überdimensionierter Metallkran im Bereich des Flachdachs (Terrasse)
+- TOP 8.1.7.: Mobile Durchfahrtssperre für Kfz in der Quellenstraße BA-Antrag Nr. 14-20 / B 02899
+- TOP 8.1.8.: "Pokemon Go!" am Bordeuxplatz
+- TOP 8.1.9.: Auffüllung des Kopfsteinpflasters am Kirchplatz (Mariahilfplatz)
+- TOP 8.1.10.: Christbaum auf dem Pariser Platz während dem Bau der 2. S-Bahn-Stammstrecke BA-Antrag Nr. 14-20 / B 03151
+- TOP 8.1.11.: Haidenaupark: Platanendach realisieren
+- TOP 8.1.12.: "Enzis" auf dem Mariahilfplatz
+- TOP 8.2.2.: Orleansplatz: Architektenwettbewerb BA-Antrag Nr. 08-14 / B 03038 Bitte um Fristverlängerung bis 31.07.2017
+- TOP 8.2.3.: Wettbewerb zur Umgestaltung des Orleansplatzes BA-Antrag Nr. 08-14 / B 02477 Bitte um Fristverlängerung bis 31.07.2017
+- TOP 8.4.1.: Fortführung einer Schank- und Speisewirtschaft: - Johannisplatz 11 - Franziskanerstr. 4
+- TOP 8.4.2.: Ausfertigung von Zweitschriften der Sitzungsvorlagen: - Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Sitzungsvorlagen Nr. 14-20 / V 07205, Beschluss der Vollversammlung des Stadtrates vom 15.11.2016
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.3.: Budget der Bezirksausschüsse Münchner Science & Fiction Festival Science & Fiction Festival vom 28. - 30.04.2017 (siehe auch UA Arbeit und Wirtschaft und TOP A 6.1.1)
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Münchner Science & Fiction Festival Science & Fiction Festival vom 28. - 30.04.2017 (siehe auch UA Kultur und TOP A 6.1.1)
+- TOP 1.2.: Aufstellung von neuen Verkaufseinrichtungen für das Magazin "Concrete" am Max-Weber-Platz, Wiener Platz und Rosenheimer Platz (siehe auch TOP A 6.2.1) => dazu: Schreiben Kreisverwaltungsreferat (Vertagung aus der Sitzung vom 16.12.16)
+- TOP 1.3.: Erweiterung einer bestehenden Freischankfläche in der Einsteinstr. 125 (siehe auch TOP A 6.2.2)
+- TOP 2.: Anhörungen
+- TOP 2.2.: Roadshow-Bauwagen-Tour 2. S-Bahn-Stammstrecke - am 02.02.17 am Pariser Platz - am 09.02. und 16.02.17 am Weißenburger Platz - am 23.02.17 an der Elsässer-/Breisacher Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.2.: Gewerbeflächenentwicklungsprogramm Sitzungsvorlage Nr. 14-20 / V 07490, Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP 3.4.: Verwendungsnachweis / Sachbericht für eine Zuwendung aus dem Budget des Bezirksausschusses: - Musikprojekt der Theater und Live Art e.V. - Haushaltsgegenstände für betreute Jugendliche des Adelgundenheims - WIR-WERKSTATT des Freundeskreis LTR München
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich Rosenheimer Straße (nordwestlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingstraße (westlich), Mühldorfstraße (südwestlich) und Friedenstraße (südöstlich) Sitzungsvorlage Nr. 14-20 / V 07487, Beschluss der Vollversammlung des Stadtrats vom 14.12.16
+- TOP 3.3.: Bebauungsplan mit Grünordnung Nr. 2061 Rosenheimer Straße (nördlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Mühldorfstraße (südlich) und Friedenstraße (östlich) Sitzungsvorlagen Nr. 14-20 / V 07664, Beschluss der Vollversammlung des Stadtrats vom 14.12.16
+- TOP 3.4.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" von 2017-2021; München Modell-Eigentum Sitzungsvorlagen Nr. 14-20 / V 07756, Beschluss der Vollversammlung des Stadtrats vom 14.12.16
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Tempo 30 vor Schulen Antrag Nr. 14-20 / B 02369 Aktueller Stand und Fristverlängerung bis 30.06.17
+- TOP 2.3.: Sckellstr. 1: Fällung von 1 Bergahorn
+- TOP 2.4.: Seeriederstr. 5: Fällung von 1 Eberesche
+- TOP 2.5.: Max-Planck-Str. 1: Fällung von 5 Bäumen
+- TOP 2.6.: Breisacher Str. 13: Fällung von 1 Kirsche
+- TOP 2.7.: Hochstr. 75: Abgrabung zur Grundstücksaufbereitung / freiwillige Altlastensanierung / Teilabbruch Tiefkeller 34; hier: Baumfällungen
+- TOP 2.8.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt ! (siehe auch TOP A 5.4)
+- TOP 3.: Unterrichtungen
+- TOP 3.2.: Fällungsgenehmigungen der Unteren Naturschutzbehörde: - Grillparzerstraße - Auerfeldstr. 21 - Lothringer Str. 28
+- TOP 3.4.: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet Sitzungsvorlage Nr. 14-20 / V 07547, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016
+- TOP 3.7.: Parkraummanagement; Parklizenzgebiete "nördliche Au" und "südliche Au"; Ohlmüllerstraße zwischen Eduard-Schmid-Straße und Falkenstraße/Mariahilfplatz - Ausweisung aller dort befindlichen Stellplätze mit der Lizenzparkregelung "Mischparken" - verkehrsrechtliche Anordnung
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 06.02.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 06.02.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 07.02.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb.. UA Kultur, 08.02.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 09.02.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 15.02.2017, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 31.01.2017, 19 Uhr, Linse, Friedenstraße 40
