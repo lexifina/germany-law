@@ -1,0 +1,58 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-01-18T17:00:00+01:00
+- Ende: 2017-01-18T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3614
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3614
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - beantwortet
+- TOP 3: Kleine Anfragen - beantwortet
+- TOP 3.1: Aktive Teilnahme des Jugendamtes an Schulhilfekonferenzen - beantwortet
+- TOP 3.2: Bündnis für Schulsport, insbesondere der Sportunterricht in der Ludwig-Bechstein-Schule - beantwortet
+- TOP 3.3: Wann findet man die neue Behindertenbeauftragte des Bezirks auch im Internet? - beantwortet
+- TOP 3.4: Obdachlose im Rathaus Zehlendorf und im Bezirk - beantwortet
+- TOP 3.5: Anzahl Gewerbean- und -abmeldungen 2016 - beantwortet
+- TOP 3.6: Verstößt das Bezirksamt mit der Ausweisung der Integrationsbeauftragten im Geschäftsbereich der noch zu wählenden Stadträtin / des noch zu wählenden Stadtrats gegen das Partizipations- und Integrationsgesetz vom 15. Dezember 2010 (PartIntG)? - beantwortet
+- TOP 3.7: Rumpelpiste für Radfahrer_innen in der Altensteinstraße - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - beantwortet
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - beantwortet
+- TOP 6: Dringlichkeiten - (offen)
+- TOP 6.1: Dringlichkeitswahlvorschläge - (offen)
+- TOP 6.1.1: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.2: Wahl der stellvertretenden Mitglieder (Bürgerdeputierten) in den Jugendhilfeausschuss für die V. Wahlperiode der BVV Steglitz-Zehlendorf - erledigt
+- TOP 6.2: Dringl. Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.2.1: Wahl der Bürgerdeputierten und deren Stellvertreter/innen sowie die Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfeausschusses für die V. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Dringlichkeitsanträge - (offen)
+- TOP 6.3.1: Bildung des JHA - erledigt
+- TOP 7: Wahlen - (offen)
+- TOP 7.1: Wahlvorschläge - (offen)
+- TOP 7.1.1: Bürgerdeputierte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1.2: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Bebauungspläne - überwiesen
+- TOP 8.1: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 8.1.1: Bebauungsplan 6 - 9 B (Lichterfelde-West) - überwiesen
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Informationsstand Standorte für Flüchtlingsunterkünfte: Lissabonallee und weitere Standorte - schriftlich beantwortet
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Kurfürstentor des Jagdschlosses Glienicke als Teil des Weltkulturerbes wiederherstellen - überwiesen
+- TOP 10.2: Gender Budgeting ernst nehmen - überwiesen
+- TOP 10.3: JHA bilden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Unfallgefahr im Kreuzungsbereich Feuerbachstr./Körnerstr. verringern - überwiesen
+- TOP 10.5: Restaurierung des Wassertores im Park Glienicke als Teil des UNESCO-Weltkulturerbes - überwiesen
+- TOP 10.6: Toilettenanzahl im Bezirk steigern - überwiesen
+- TOP 10.7: Partnerstadt Kobane - überwiesen
+- TOP 10.8: Sperrung des Platzes durch einen vorläufigen Zaun - überwiesen
+- TOP 10.9: Ein Reset für das bezirkliche Wohnraumbündnis - überwiesen
+- TOP 10.10: Gedenktag Guernica angemessen begehen - überwiesen
+- TOP 10.11: Kreuzungen Leonorenstraße/ Ecke Siemensstraße und Siemensstraße/Ecke Albrechtstraße - überwiesen
+- TOP 10.12: Vogelschutz an Glasarchitektur - überwiesen
+- TOP 10.13: Zebrastreifen an der Hildburghauser Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Konstituierung der Ausschüsse - erledigt
