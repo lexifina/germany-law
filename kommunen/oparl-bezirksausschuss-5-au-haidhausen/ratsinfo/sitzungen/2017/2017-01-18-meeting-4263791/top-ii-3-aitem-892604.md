@@ -1,0 +1,7 @@
+# TOP II.3.: Budget der Bezirksausschüsse Münchner Science & Fiction Festival Science & Fiction Festival vom 28. - 30.04.2017 (siehe auch UA Arbeit und Wirtschaft und TOP A 6.1.1)
+
+- Sitzung: BA 05 - Vollgremium (2017-01-18)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/892604
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/892604
