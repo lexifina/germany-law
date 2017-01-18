@@ -1,0 +1,69 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285150
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285150
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.2.3.: Ersatz für kaputte Mülleimer in der Nordhaide
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 8.2.2.: Riesenfeldstraße 83 - 83b - Neubau eines Flexiwohnheims mit Schwerpunkt für Auszubildende und Familien
+- TOP 8.2.3.: Lärmschutz an der Quelle: Umrüstung der alten Güterzüge auf leise Technologien und Reduzierung der Fahrgeschwindigkeit - Anhörung zu Sitzungsvorlage Nr. 14-20 / V 07771
+- TOP 8.2.4.: Anhörungen über Baumfällungsanträge: Max Diamand-Str. 18
+- TOP 8.4.1.: Beschlussentwurf Verkehrskonzept Münchner Norden - Schienengüterverkehr und Feldmochinger Kurve -
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.1.: Beschlussvorlage zum WC-Konzept "Nette Toilette" - Schreiben des 2. Bürgermeisters
+- TOP 9.1.2.: BA-Budget: Verwendungsnachweise - Schriftverkehr
+- TOP 9.1.3.: Unveränderte Fortführung des Gaststättenbetriebes "Mekan", Motorstr. 32b
+- TOP 9.2.1.: Planfeststellung Eisenbahnnordring - Elektronischen Stellwerk Milbertshofen/-Freimann
+- TOP 9.2.2.: Verlegung der Polizeihubschrauberstaffel Bayern vom Verkehrsflughafen München an den Hubschraubersonderlandeplatz Oberschleißheim
+- TOP 9.2.3.: Entfernung von Gefahrenbäumen am Hildegard-von-Bingen-Anger und Fingerkrautanger
+- TOP 9.2.7.: Meldelisten über Bauvorhaben im Stadtbezirk 11
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Bolzplatz Frankfurter Ring erhalten und nicht zwischen Wohngebäuden einzwängen
+- TOP 4.2.2.: Prüfung des Baus einer neuen Grund- und Mittelschule auf dem Grund der GWG mit anschließendem Grundstückstausch
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Pfarrei St. Georg Musical "Ritter Rost und Prinz Protz" am 13. / 14.05.2017
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Anhörungen über Baumfällungsanträge a) Schleißheimer Straße / Moosacher Straße b) Wachterstraße 37
+- TOP 8.3: Kultur / Soziales
+- TOP 8.4: Verkehr
+- TOP 8.4.2.: Errichtung einer Vollampel an der Hugo-Wolf-Straße / Ecke Weyprechtstraße
+- TOP 9.1: Plenum
+- TOP 9.1.4.: Unveränderte Fortführung des Gaststättenbetriebes Bordell "Red-Diamond", Max-Diamand-Str. 21
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.4.: PERSPEKTIVE MÜNCHEN Zukunftsschau 2040+ - Szenarien zur Stadtentwicklung Schaffung einer Diskussionsreihe für Münchner Bürgerinnen und Bürger Vorlagen Nr. 14-20 / V 07418
+- TOP 9.2.5.: Gewerbeflächenentwicklungsprogramm - GEWI Neufassung der Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern Vorlagen Nr. 14-20 / V 07490
+- TOP 9.2.6.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 München Modell-Eigentum a) Förderrichtlinien neu erfassen b) München-Modell-Eigentum erweitern Vorlagen-Nr. 14-20 / V 07756
+- TOP 9.2.8.: Erstellung von Stadtbezirksprofilen - Personalbedarf - Vorlagen Nr. 14-20 / V 07138
+- TOP 9.2.9.: Eulerstr. 29 - Neubau von vier Mehrfamilienhäusern mit TG sowie eines Bauhofs - Vorhaben widerspricht dem Flächennutzungsplan und wurde wegen Unzulässigkeit zurückgezogen -
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Anordnungen des KVR nach § 45 StVO: a) Frauenstädtstraße 5 - Personenbezogener Behindertenparkplatz b) Hanselmannstraße - Errichtung absolutes Haltverbot c) Naagerstr./Rothpletzstr. - Einrichtung von absoluten Haltverboten d) Griegstraße - Errichtung absolutes Haltverbot e) Moosacher Str - Wendeverbote auf dem Mittelteiler
