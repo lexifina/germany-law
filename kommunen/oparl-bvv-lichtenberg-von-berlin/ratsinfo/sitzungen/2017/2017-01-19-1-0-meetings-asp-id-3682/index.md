@@ -1,0 +1,70 @@
+# 4. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-01-19T17:00:00+01:00
+- Ende: 2017-01-19T21:40:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3682
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3682
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=208984
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 5.1: Neuordnung Katastrophen- und Zivilschutz - gegenstandslos
+- TOP 5.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 5.3: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Wahl der Bürgerdeputierten und stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss der VIII. Wahlperiode - gewählt
+- TOP 6.2: Wahl der Bürgerdeputierten und stellvertretenden Bürgerdeputierten im Integrationsausschuss der VIII. Wahlperiode - gewählt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Neues oder Unbekanntes am HTW-Standort in Lichtenberg - beantwortet
+- TOP 8.2: Gutachten Parkraumbewirtschaftung - beantwortet
+- TOP 8.3: Stand der Sanierung Sporthalle Wustrower Str. - beantwortet
+- TOP 8.4: Stellplätze statt Kitaplätze an der Gotlinde-, Ecke Ruschestraße - beantwortet
+- TOP 8.5: Bauvorhaben Rhinstr. / Gehrenseestr (ehemalige Arbeiterwohnheime) - beantwortet
+- TOP 9: Wahlen - (offen)
+- TOP 9.1: Wahlen zum Bezirksamt - gewählt
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: BVV-Sondermittel für den Wartenberger Frühlingstag 2017 - überwiesen
+- TOP 11.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.3: Sensiblerer Umgang mit personenbezogenen Daten und Bildern - überwiesen
+- TOP 11.4: BürgerInnenbeteiligung in der Stadtentwicklung stärken - überwiesen
+- TOP 11.5: Konzept zur Schaffung neuer Kitaplätze und deren Ausgestaltung - überwiesen
+- TOP 11.6: BVV-Sondermittel für das Gomel-Projekt - überwiesen
+- TOP 11.7: Digitalisierung der Verwaltung bürgernah gestalten - überwiesen
+- TOP 11.8: Kurzzeitparkmöglichkeiten in der Otto-Marquardt-Straße - überwiesen
+- TOP 11.9: Bezirksverordnete der BVV Lichtenberg auf eine frühere Stasi-Mitarbeit überprüfen - überwiesen
+- TOP 11.10: Erhöhung der Sicherheit für Radfahrende zwischen Schreiberhauerstraße/Hauffstraße und Pfarrstraße - überwiesen
+- TOP 11.11: Wertvolle Naturfläche in der Tannhäuser Straße 97-101 erhalten - überwiesen
+- TOP 11.12: Sichere Querung der Lückstraße Höhe Blockpark/Emanuelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Wegebeleuchtung für den Gutspark Lichtenberg - überwiesen
+- TOP 11.14: Hinweise auf Hausnummern in der Gensinger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Fortschreibung des Berichts "Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11.16: Bebauungsplan 11-61 - Änderung des Titels und der Planungsziele Arbeitstitel: Landsberger Allee 29 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.17: Vorhabenbezogener Bebauungsplan 11-116 VE - frühzeitige Beteiligungen Arbeitstitel: Landsberger Allee 315/319 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.18: Vorhabenbezogener Bebauungsplan 11-118 VE - frühzeitige Beteiligungen Arbeitstitel: Landsberger Allee 341/343 - überwiesen
+- TOP 11.19: Verleihung Inklusionspreis 2016 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.20: Situation Amphibien im Bezirk Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.21: Bebauungsplan 11-84 - frühzeitige Beteiligungen Arbeitstitel: Degnerstraße/Oberseestraße/Konrad-Wolf-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.22: Bebauungsplan 11-107 - frühzeitige Beteiligungen Arbeitstitel: Nördlich Schleizer Straße - überwiesen
+- TOP 11.23: Geschäftsverteilung des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.24: Machbarkeitsstudie für eine dreizügige Grundschule, Hauptstraße 8 in 10317 Berlin-Lichtenberg - überwiesen
+- TOP 11.25: Bebauungsplan XVII-4 – Abwägung der erneuten Behördenbeteiligung und Beteiligung der Öffentlichkeit; Arbeitstitel: „Ostkreuz“ - überwiesen
+- TOP 11.26: Gremienzuständigkeit der Bezirksamtsmitglieder - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Politische Bildungsarbeit stärken - überwiesen
+- TOP 12.2: Zingster Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Reisezentrum erhalten – Bahnhof Lichtenberg attraktiver machen - überwiesen
+- TOP 12.4: Wiederaufnahme der Essensversorgung an der Gutenberg Oberschule und anderen betroffenen Schulen - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 14: Schließung der Sitzung - erledigt
