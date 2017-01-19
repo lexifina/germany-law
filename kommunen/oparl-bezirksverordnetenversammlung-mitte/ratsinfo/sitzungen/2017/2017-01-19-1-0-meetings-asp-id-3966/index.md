@@ -1,0 +1,113 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2017-01-19T17:33:00+01:00
+- Ende: 2017-01-19T20:36:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3966
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3966
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=136336
+
+## Tagesordnung
+
+- TOP 1: Einwohneranfragen - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Büroflächenbedarf in Mitte - beantwortet
+- TOP 5.2: Folgen falscher Angaben über eine Tätigkeit beim MfS - beantwortet
+- TOP 5.3: „Stille Post-Stadion“ - beantwortet
+- TOP 5.4: Gute Pflege vor Ort: Modellprojekt zur Pflegeberatung auch im Bezirk Mitte realisieren - beantwortet
+- TOP 5.5: Sachstand Unterbringung Geflüchteter in Hostels/Hotels in Mitte - schriftlich beantwortet
+- TOP 5.6: Aktueller Stand Levetzowstraße - beantwortet
+- TOP 5.7: Wohnungs- und Obdachlosigkeit am Hansaplatz - schriftlich beantwortet
+- TOP 5.8: Flaniermeile Unter den Linden - schriftlich beantwortet
+- TOP 5.9: Umsetzung BVV-Beschlüsse hier: BVV Beschluss DS 2740/IV zu "Gesamtkonzept Ruheplatzstraße 8-12" II - schriftlich beantwortet
+- TOP 5.10: Verdrängung auf dem Hansaplatz – Warum darf die Berliner Obdachlosenhilfe nicht mehr helfen? - schriftlich beantwortet
+- TOP 5.11: Asbest in Mittes Gebäuden - wie geht‘s weiter? - schriftlich beantwortet
+- TOP 5.12: „SuperSpace“ - Prototyp einer Unterkunft für Geflüchtete in Mitte - schriftlich beantwortet
+- TOP 5.13: Straßenlaternen in der Kruppstraße - schriftlich beantwortet
+- TOP 5.14: Umsetzung BVV-Beschlüsse, hier: BVV Beschluss DS 2570/IV zu „Bürgerbeteiligung in Mitte (II): Vorhabenliste“ II Umsetzung BVV-Beschlüsse, hier: BVV Beschluss DS 2570/IV zu „Bürgerbeteiligung in Mitte (II): Vorhabenliste“ II - schriftlich beantwortet
+- TOP 5.15: Sachstand Queere Jugendarbeit in Mitte - schriftlich beantwortet
+- TOP 5.16: Um- und Neubauarbeiten in der Charlotte- Pfeffer- Schule? - schriftlich beantwortet
+- TOP 5.17: Sozialarbeiter*innen für junge unbegleitete Geflüchtete am Alex: - schriftlich beantwortet
+- TOP 5.18: Dach über dem Kopf statt Zelten im großen Tiergarten: Wie werden wir der großen Obdachlosigkeit im Bezirk Herr? - schriftlich beantwortet
+- TOP 5.19: Zeitplan Haushaltsaufstellung? - schriftlich beantwortet
+- TOP 5.20: Mehr Bio für Moabit: Kommt der Ökomarkt an der Thusnelda-Allee zurück? - schriftlich beantwortet
+- TOP 5.21: Es grünt nicht so grün auf dem Hamberger-Areal - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Wasserschaden in der Leo-Lionni-Grundschule - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Milieuschutz - beantwortet
+- TOP 7.2: Mäßigungsgebot für Mitarbeitende des Bezirksamtes Mitte - beantwortet
+- TOP 7.3: „Ist mehr Sicherheit vor Terror in Berlin-Mitte möglich?“ - beantwortet
+- TOP 7.4: Verhindert das Zweckentfremdungsverbot die Unterbringung von Geflüchteten? - beantwortet
+- TOP 7.5: „Sicher und sauber“ auf Kosten der Obdachlosen am Hansaplatz? - beantwortet
+- TOP 7.6: Kundenorientierung und Digitalisierung – wie ist der Stand im Bürgeramt Mitte? - schriftlich beantwortet
+- TOP 7.7: Blieb in Mitte Geld für wichtige bauliche Maßnahmen liegen? - schriftlich beantwortet
+- TOP 7.8: Kita in der Brunnenstrasse 70/71 - schriftlich beantwortet
+- TOP 7.9: Mitte-Bürgerämter – die neue Kundenfreundlichkeit? - schriftlich beantwortet
+- TOP 7.10: Gerichtshöfe und Ergebnis Begehung 28.12.2016 - schriftlich beantwortet
+- TOP 7.11: Rechtliche Begründung der Sicherungsmaßnahmen für den Weg des ehemaligen Betreibers durch das Gelände der ehemaligen "Weddinger Kinderfarm" - schriftlich beantwortet
+- TOP 7.12: Rasern Grenzen aufzeigen – statt alle auszubremsen - schriftlich beantwortet
+- TOP 7.13: Förderung von Arbeitsverhältnissen (FAV) - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans I-43a „Südliche Alexanderstraße“ - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Berufung eines stimmberechtigten Mitgliedes der BVV und dessen Stellvertretung für den Verwaltungsrat „Kindergärten City, Eigenbetrieb von Berlin“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Benennung eines beratenden Mitgliedes des Jugendhilfeausschusses und dessen Stellvertretung für den Verwaltungsrat „Kindergärten City, Eigenbetrieb von Berlin“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sozialarbeiter*innen vor der Räumung von Obdachlosen informieren! - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Kein Personalabbau beim Ordnungsamt durch die Hintertür- Präsenz des Ordnungsamtes im gesamten Bezirk sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Keine Verdrängungspolitik am Hansaplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Verzicht auf Sondernutzungsgebühr für einen Tag - zurückgezogen
+- TOP 12.3: Gedenken an die Toten des Breitscheidplatzes - zurückgezogen
+- TOP 12.4: Dialog mit dem Senat suchen – 17. Juni für Verkehr frei halten! - überwiesen
+- TOP 12.5: Obdachlose menschenwürdig versorgen- dezentrale Anlaufstellen einrichten - überwiesen
+- TOP 12.6: Vorausschauende Bedarfsplanung für Fahrradabstellanlagen in Mitte: - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Webauftritt des Bezirkes Mitte zweisprachig - überwiesen
+- TOP 12.8: VERTIEFENDE UNTERSUCHUNGEN FÜR MILIEUSCHUTZ DURCHFÜHREN - überwiesen
+- TOP 12.9: Besetzung des JHA - zurückgezogen
+- TOP 12.10: Mehr Ordnung im öffentlichen Raum: Fahrräder reparieren, nicht verschrotten - überwiesen
+- TOP 12.11: Hilfe für Obdachlose unterstützen und Angebote koordinieren: - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: ZWECKENTFREMDUNG ERFASSEN - überwiesen
+- TOP 12.13: Ausreichend Fahrradabstellanlagen für Schulen einrichten (zur Drucksache 2375/IV) - überwiesen
+- TOP 12.14: Wahl von Bürgerdeputierten und Stellvertretern - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: FHAIN/XBERG ZUM VORBILD NEHMEN: SEXISTISCHE UND DISKRIMINIERENDE WERBUNG RAUS AUS MITTE! - überwiesen
+- TOP 12.16: Berufsorientierung und Fachkräfteakquise unterstützen: Tag des offenen Unternehmens im Bezirk Mitte ausrichten - überwiesen
+- TOP 12.17: Sanierung des Ufergehwegs im Nikolaiviertel - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Nikolaiviertel baulich ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Wahl von Bürgerdeputierten und stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Die Berichterstattung zur DS 0931/IV auch in der V. Wahlperiode bis auf Widerruf fortzuführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Benennungsvorschläge für die noch offenen Benennungen im Baugebiet Heidestraße ("Europacity") - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 13.1: Dank und Anerkennung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 15.1: Gefährdungsbeurteilung - GBU "Physische und psychische Belastung am Arbeitsplatz in der Bezirksverwaltung" - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Eltern politisches Ehrenamt ermöglichen - für eine Kinderbetreuung während der Sitzung der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Fahrradbügel für die Gartenstraße/Stadtbad Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Fläche für Urban Gardening Umfeld Tucholsky-/Torstraße - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Drogenhilfe für die Heinrich-Heine-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Anwohnerparkplätze für die Fischerinsel - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Sicher spielen: Spielplatz-"Ausbrüche" vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Das Bezirksamt darf den tradtionellen Berliner Firefighter Stairrun nicht abfackeln - erledigt
+- TOP 15.9: Verlässlichkeit für das Straßenkunstfestival „Berlin lacht“ auf dem Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Kitagutscheinstelle Schließzeiten vermeiden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Neukonstituierung eines Beirates von und für Menschen mit Behinderung - Behindertenbeirat- beim Bezirksamt Mitte von Berlin für die Wahlperiode 2016 bis 2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Ernennung von Mitgliedsfrauen für den Frauenbeirat Mitte beim Bezirksamt Mitte von Berlin sowie Beschluss zur Geschäftsordnung für die Wahlperiode 2016-2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Änderung und Ergänzung der BA-Vorlage Nr. 2 vom 28. Oktober 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: „Regionalen Kooperationsvereinbarung zur Zusammenarbeit im Rahmen der Jugendberufsagentur (JBA) Berlin“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Einbindung der Mehrgenerationenhäuser im Bezirk in die bezirklichen Planungen - mit Abschlussbericht zur Kenntnis genommen
