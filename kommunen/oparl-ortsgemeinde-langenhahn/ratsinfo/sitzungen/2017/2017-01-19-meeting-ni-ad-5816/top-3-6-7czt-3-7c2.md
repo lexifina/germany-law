@@ -1,0 +1,6 @@
+# TOP 3.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: nichtöffentliche Sitzung des Rechnungsprüfungsausschusses (2017-01-19)
+- Körperschaft: Ortsgemeinde Langenhahn
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-5816%7Czt_3%7C2
