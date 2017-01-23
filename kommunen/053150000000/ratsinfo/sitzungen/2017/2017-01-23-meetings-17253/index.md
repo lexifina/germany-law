@@ -1,0 +1,60 @@
+# 19. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-23T17:10:00+01:00
+- Ende: 2017-01-23T19:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17253
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17253
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597345.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597345.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597345.pdf
+
+## Tagesordnung
+
+- TOP -: Besetzung der Stelle Leitung des Bürgeramtes Mülheim - ungeändert beschlossen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: geplanter Neubau der Gesamtschule Köln-Höhenhaus (Az.: 02-1600-74/16) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Markgrafenstraße - Übergang Geh- und Radweg (Az.: 02-1600-150/16) - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Einrichtung von Fahrradstraßen in Köln Mülheim (Az.: 02-1600-146/16) - ungeändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation an der Busschleuse Florentine-Eichler-Straße / Hochwinkel in Köln-Dellbrück (Az.: 02-1600-197/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die GGS Dellbrücker Hauptstraße (Regenbogenschule) - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Berliner Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Verkehrssicherheit auf dem Stammheimer Ring - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Halteverbot vor dem Grünzug Charlier - geändert beschlossen
+- TOP 8.1.2: Erhöhung der Sicherheit entlang der Fahrradroute von Bergisch Gladbach nach Mülheim (Prüfauftrag) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufwertung von zentralen Plätzen im Stadtbezirk Mülheim; Planungsbeschluss der Bezirksvertretung Mülheim zur Ausarbeitung des Umgestaltungskonzeptes "Dellbrücker Marktplatz" in Köln-Dellbrück - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Wiederinbetriebnahme von vier stationären Geschwindigkeitsmessanlagen - ungeändert beschlossen
+- TOP 9.2.2: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - ungeändert beschlossen
+- TOP 9.2.3: Seniorenkoordination im Stadtbezirk - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.2.4: Grüne Infrastruktur Köln - ungeändert beschlossen
+- TOP 9.2.5: Auflösende Schließung der Förderschule Lernen Finkenberg-Schule ab dem Schuljahr 2017/18 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP -: Baumfällungen 2016 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Wahlperiode
+- TOP 10.2.3: Neuaufstellung des Regionalplans - Kenntnis genommen
+- TOP 10.2.4: Verbesserung der Rad- und Fußwegverbindung zwischen Hardthofstraße und Penningsfelder Weg durch Installierung von in Teilen fehlenden Beleuchtungen sowie Erneuerung eines Teils des Weges durch Aufschotterung - Kenntnis genommen
+- TOP 10.2.5: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 10.2.6: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 10.2.7: Aktueller Bericht des Ordnungs- und Verkehrsdienstes
+- TOP 10.3: Bemerkungen zur Niederschrift
