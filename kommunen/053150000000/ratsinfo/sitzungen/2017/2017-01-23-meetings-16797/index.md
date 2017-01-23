@@ -1,0 +1,62 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-23T15:00:00+01:00
+- Ende: 2017-01-23T17:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16797
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16797
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597820.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597820.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597820.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: Beantwortung von mündlichen Nachfragen aus der Sitzung des Integrationsrates am 31.10.2016 zum TOP 1.2 zum Thema Gesundheitswegweiser (3126/2016)
+- TOP 1.2: Beantwortung einer Anfrage des AK 5 zum Sachstand der Umsetzung des Interkulturellen Maßnahmenprogramms - Maßnahmeempfehlungen - generelle Aufnahme der Thematik 'IKK'
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage zur Mitteilung der Verwaltung zum Kölner Modell zur Förderung und Integration von Flüchtlingskindern im Elementarbereich (AN/1820/2016)
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Europäischer Hilfsfonds für die am stärksten benachteiligten Personen (EHAP)
+- TOP 3.4: Beantwortung einer mündlichen Anfrage aus der Sitzung vom 31.10.2016 Sachstandsmitteilung zu den Projekten des Europäischen Sozialfonds „Weiterentwicklung Willkommen in Köln" und „Willkommen und Ankommen in Köln“
+- TOP 3.5: Anwendung des § 5 der Entschädigungsverordnung NRW (EntschVO) für die Mitglieder des Integrationsrates
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zu Ressourcen für KiTas im Bereich mehrsprachige Förderung
+- TOP 4.2: Anfrage zum Präventionsprogramm gegen gewaltbereiten Salafismus
+- TOP 4.3: Anfrage zu Beratungsstellen für Senior*innen mit Zuwanderungsgeschichte
+- TOP 4.4: Anfrage zu Altenpflegeeinrichtungen für Senior*innen mit Zuwanderungsgeschichte
+- TOP 5: Mitteilungen
+- TOP 5.1: Landesprogramm "Wegweiser!"
+- TOP 5.2: Darstellung der Sparten im Kulturausschuss
+- TOP 5.3: 11. Bericht zur aktuellen Flüchtlingssituation
+- TOP 5.4: Kölner Initiative für vernetzte Kriminalitätsbekämpfung (KIVEK)
+- TOP 5.5: Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen"
+- TOP 5.6: 1. Tätigkeitsbericht der Ombudsstelle für Flüchtinge in Köln
+- TOP 5.7: Mitteilung zum Projektstart des ESF-Projektes „Willkommen und Ankommen in Köln“ ab 01.01.2017
+- TOP 5.8: Mal- und Fotowettbewerb zur Rainbow-Cities-Ausstellung 2017
+- TOP 5.9: Pressemitteilung zu Unterkünften für LGBTI-Geflüchtete
+- TOP 5.10: Praktika für geflüchtete junge Menschen
+- TOP 5.11: Aktuelle Situation der Beschulung neu zugewanderter Kinder und Jugendliche
+- TOP 5.12: Aktuelle Informationen zur Unterbringung und Integration von Flüchtlingen - 12. Bericht
+- TOP 5.13: Beschluss des Rates in seiner Sitzung vom 20.12.2016 zu Mindeststandards für die Unterbringung und Betreuung von Geflüchteten
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Verabschiedung des Positionspapieres ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - zurückgestellt
+- TOP 6.2: Antrag zur Erstellung eines Handlungskonzeptes zur Erhöhung der Bewerbungs- und Einstellungszahlen von Jugendlichen mit Migrationshintergrund - ungeändert beschlossen
+- TOP -: Stellungnahme zum Antrag (AN/2161/2016) Erstellung eines Handlungskonzepts zur Erhöhung der Bewerbungs- und Einstellungszahlen von Jugendlichen mit Migrationshintergrund
+- TOP 6.3: Benennung eines Teilstückes des Stammheimer Ufers nach Ali Kurt - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Übertragung von Finanzmitteln des Integrationsrates in das Jahr 2017 - ungeändert beschlossen
+- TOP 8.2: "Flüchtlinge in Köln willkommen heißen" - ein Projekt zur Unterstützung von Flüchtlingsinitiativen – Kooperationsprojekt Forum für Willkommenskultur Träger: Kölner Flüchtlingsrat e. V. und Kölner Freiwilligen Agentur e. V. - ungeändert beschlossen
+- TOP 8.3: Dringend notwendige Errichtung von mobilen Wohneinheiten zur Flüchtlingsunterbringung - hier: An den Gelenkbogenhallen, 50679 Köln-Deutz, Flur 33, Flurstück 904 - ungeändert beschlossen
+- TOP 8.4: Errichtung von vier konventionellen Bauten auf den städtischen Grundstücken Pater-Prinz-Weg - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
