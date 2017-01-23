@@ -1,0 +1,51 @@
+# Hauptausschuss (47. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-01-23T18:02:00+01:00
+- Ende: 2017-01-23T21:26:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaonxF2E7je27ZIAqYCadok
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6669
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfES1W7Tl_onk5pBTT1_R-oos8b_8MfjLA6DR0LzENnM/Bekanntmachung_Hauptausschuss_23.01.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQSB-XM5lhf0Uu10YFe7bnk8qPScuxE30dPcyaClMOY_/Oeffentliche_Niederschrift_Hauptausschuss_23.01.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 28.11.2016
+- TOP 2.: Anregungen und Beschwerden nach § 24 Gemeindeordnung NRW
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.1: Anregung nach § 24 GO NRW; hier: Anbringung je eines abschließbaren Pollers vor den Garageneinfahrten zu den Häusern Wallstr. 4 und 8 Bezug: Nachtragsantrag der IG Wallstraße vom 30.12.2016 zum Antrag vom 21.11.2016 (siehe Vorlage Nr. 547/2016) - (kein Text vorhanden)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Bürgerbeteiligung in der Stadt Brühl - Erlass von Leitlinien - (kein Text vorhanden)
+- TOP 4.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 4.1: Außerplanmäßige Mittelbereitstellung Baufeldfreimachung Kita Ost - (kein Text vorhanden)
+- TOP 5.: Wirtschaftlichkeitsvergleich in der Gebäudereinigung Vergleich Fremd-/Eigenreinigung am Beispiel der KITA Sophie-Scholl - (kein Text vorhanden)
+- TOP 6.: Straßenbenennungen
+- TOP 6.1: Benennung einer Straße im Bebauungsplangebiet 06.02 Vorgebirgsstraße Eifelstr. Badorfer Str. Pehler Hülle - (kein Text vorhanden)
+- TOP 6.2: Benennung Knappschaftsstraße - (kein Text vorhanden)
+- TOP 7.: Sachstand Relaunch Brühler Homepage bruehl.de Bezug: Anfrage Ratsherr Bobe Ratssitzung 29.02.2016 und 12.12.2016
+- TOP 8.: Antrag
+- TOP 8.1: Schadstoffbelastung GGS Badorf Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 13.01.2017
+- TOP 8.1.1: Schadstoffbelastung GGS Brühl-Badorf
+- TOP 9.: Mitteilungen
+- TOP 9.1: Haushalt 2017
+- TOP 10.: Anfragen
+- TOP 10.1: Sicherung Schulweg an der Baustelle In der Maar/Pingsdorfer Str.
+- TOP 10.2: Einsatz von Schülerlotsen an der Baustelle In der Maar
+- TOP 10.3: Weg hinter dem Schützenheim auf der Bonnstr.
+- TOP 10.4: Parken trotz Halteverbot " In der Maar"
+- TOP B): Nichtöffentliche Sitzung
+- TOP 11.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 12.: Niederschlagungen und Stundungen
+- TOP 12.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 12.2: Kindertagesbetreuung Hier: Stundung überzahlter laufender Geldleistungen für Kindertagespflege - (kein Text vorhanden)
+- TOP 12.3: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen
+- TOP 14.1: Anzeigepflicht für Mitglieder des Integrationsrates
+- TOP 14.2: Sondersitzung Rat am 30.01.2017
