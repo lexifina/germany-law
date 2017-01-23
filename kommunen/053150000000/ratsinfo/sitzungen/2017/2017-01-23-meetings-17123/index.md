@@ -1,0 +1,87 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-23T17:00:00+01:00
+- Ende: 2017-01-23T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17123
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17123
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Begrüßung der neu gewählten-, sowie Verabschiedung der ausgeschiedenen Seniorenvertreterinnen und Seniorenvertreter - Kenntnis genommen
+- TOP -: B Aktuelle Stunde "Gymnasium Rodenkirchen: Zustand der Turnhalle" - geändert beschlossen
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1.1: Bürgereingabe gem. § 24 GO "Verkehrssituation Brühler Straße in Raderthal" AZ.: 02-1600-128/16 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beschluss der Bezirksvertretung Rodenkirchen in der Sitzung am 07.11.2016 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.1.2: Sachstand zum neuen Verkehrsgutachten für Rodenkirchen, Sürth, Weiß und Godorf - Kenntnis genommen
+- TOP 7.1.3: Anfrage der Fraktion Die Grünen "Sürther Aue: kürzliche Versteigerung einer Ackerfläche - Motivation für hohen Preis" (AN/1915/2016) - Kenntnis genommen
+- TOP 7.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.5: Fehlender bedarfsgerechter Ausbau der Kindertagesbetreuung für unter 3-Jährige in Godorf und Immendorf - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.1.6: Beantwortung der Anfrage der Freien Wähler Köln betreffend: Nord-Süd Stadtbahn Köln Baukosten und Kritik an mangelhafter Transparenz (AN/1450/2016) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Fehlender bedarfsgerechter Ausbau der Kindertagesbetreuung für unter 3-Jährige in Godorf und Immendorf; Anfrage der CDU Fraktion - Sache ist erledigt
+- TOP 7.2.2: Neuer Einzelhändler an der Otto-Hahn-Straße im Gewerbegebiet Köln-Godorf; Anfrage der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Erhaltungssatzung Englische Siedlung in Raderthal; Anfrage der Fraktion Die Grünen - Kenntnis genommen
+- TOP -: Beantwortung: Volksparksiedlung Raderthal: Erhalt des charakteristischen Baumbestandes - Kenntnis genommen
+- TOP 7.2.4: Sürther Feld: Jagdgebiet; Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Ausübung der Jagd auf den Grünflächen des Sürther Feldes; Anfrage der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.7: Verkehrsführung während der Baumaßnahme der Nord-Süd-Bahn auf der Bonner Straße; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Feinstaubbelastung(Staubemissionen)im Bereich Godorfer Hauptstrasse/Wendehammer/Kerkrader Straße/Industriestrasse durch die Alpha Calcit Füllstoff mbh&CoKG Otto-Hahn Str.9-11, sowie hochfrequente Töne aus dem Werksbereich; Anfrage der CDU Fraktion - Kenntnis genommen
+- TOP -: Beantwortung: Feinstaubbelastung (Staubemissionen) im Bereich Godorfer Hauptstrasse/Wendehammer/Kerkrader Straße/Industriestrasse durch die Alpha - Kenntnis genommen
+- TOP 7.2.9: Leerstand von GAG-Wohnungen in der Heinrich-Eberts-Straße in Meschenich; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: 30 km/h auf der Rodenkirchener Straße, Köln-Rondorf; Gemeinsamer Antrag der Fraktionen CDU, SPD, Die Grünen und der FDP - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Modifizierung des Verkehrsberuhigungskonzept Bayenthal/Marienburg; Gemeinsamer Antrag der Fraktionen CDU, SPD, Die Grünen und der FDP - zurückgestellt
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Gülle-Einbringung in Sürth; Gemeinsamer Antrag der Fraktionen CDU, SPD und Die Grünen - geändert beschlossen
+- TOP 8.1.6: Eröffnung einer Kitagruppe mit 24 h Betreuungsangebot im Stadtbezirk Köln-Rodenkirchen; Antrag der FDP Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8: Umgestaltung des Bereiches Alteburger Straße/ Bayenthalgürtel/ An de rAlteburger Mühle im Bereich der Bismarcksäule; Gemeinsamer Antrag der Fraktionen CDU und SPD - ungeändert beschlossen
+- TOP 8.1.9: Illegales Parken auf Geh- und Radwegen: hier Stadtteil Zollstock; Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.10: Ergänzung der Standardtagesordnung der BV Rodenkirchen; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 8.1.11: Parkstadt Süd; Antrag der SPD Fraktion - zurückgestellt
+- TOP 8.1.12: Baugebiet „Sürther Feld“ (B-Plan Nr. 71380): eigene Baustraße für den 3. Bauabschnitt; Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.13: Errichtung einer kontinuierlich aktiven Messstelle für Benzol-Schadstoffe in Godorf zur Überwachung der Luftqualität; Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 8.1.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.15: Erhalt der Bäume entlang der Josef-Kallscheuer-Straße; Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.16: Verkehrskreisel Rodenkirchen Barbarastraße; Antrag der CDU Fraktion - endgültig abgelehnt
+- TOP 8.1.17: Container mit 4 Klassenräumen für die Grüngürtelschule; Antrag der SPD - Fraktion, Beitritt der CDU-Fraktion, der Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sportanlage Zaunhofstr., Köln-Meschenich - ungeändert beschlossen
+- TOP 9.1.2: Errichtung einer Mega-Light-Anlage vor dem Grundstück Brühler Straße - Hitzeler Straße 13 - Alternative beschlossen
+- TOP 9.1.3: Mittelfreigabe Bau Vereinheim Zaunhofstr. - ungeändert empfohlen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 1. Änderung der Kölner Stadtordnung (KSO) - Kenntnis genommen
+- TOP 9.2.2: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - ungeändert empfohlen
+- TOP 9.2.3: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP -: Beschlussvorschlag zu TOP 9.2.3 (Seniorenkoordination im Bezirk) - geändert beschlossen
+- TOP 9.2.4: Errichtung von vier konventionellen Bauten auf den städtischen Grundstücken Pater-Prinz-Weg - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ortsumgehung Köln-Meschenich - Kenntnis genommen
+- TOP 10.2.2: 66380/03; Husarenstraße in Köln-Rondorf; Offenlage - Kenntnis genommen
+- TOP 10.2.3: Neuaufstellung des Regionalplans - Kenntnis genommen
+- TOP 10.2.4: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 10.2.5: Umgestaltung der Barbarastraße, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der Finanzstelle 6601-1201-2-1018, Bar - Kenntnis genommen
+- TOP 10.2.6: Baumfällungen 2016 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.7: Bürgereingabe gem. § 24 GO, betr.: Baumfällungen im Zusammenhang mit dem 3. Bauabschnitt der Nord-Süd-Stadtbahn (Az.: 02-1600-132/16) - Kenntnis genommen
+- TOP 10.2.8: Weiteres Vorgehen Verkehrskonzept Bayenthal/Marienburg - Kenntnis genommen
+- TOP 10.2.9: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
