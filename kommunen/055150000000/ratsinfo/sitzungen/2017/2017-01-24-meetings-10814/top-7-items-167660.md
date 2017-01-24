@@ -1,0 +1,6 @@
+# TOP 7: Umbau und Nutzungsänderung (Hostel) eines Wohn- und Geschäftshauses (Ludgeristr. 51, 53/Verspoel 1)
+
+- Sitzung: Sitzung (2017-01-24)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/167660
