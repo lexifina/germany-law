@@ -1,0 +1,6 @@
+# TOP 1: Gleichstellungsrelevante Angelegenheiten
+
+- Sitzung: 18. Sitzung des Ausschusses für Anregungen und Beschwerden (2017-01-24)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/218071
