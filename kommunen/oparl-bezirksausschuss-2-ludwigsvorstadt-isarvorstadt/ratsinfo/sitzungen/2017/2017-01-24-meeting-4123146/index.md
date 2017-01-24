@@ -1,0 +1,149 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-01-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123146
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123146
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 1.1.: Gewerbehof für Künstler, vgl. Vertagung TOP 2016.12 A 1.6 (N)
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.1.: Kulturzentrum Südbahnhof 2/6
+- TOP 5.2.: Flüchtlinge/Wohnungslose
+- TOP 5.3.: Offener Bücherschrank
+- TOP 5.4.: Viehhof
+- TOP 5.5.: Bürgeranliegen; Mietergemeinschaft Thalkirchner Straße 80, vgl. BA-Sitzung vom 13.12.2016 Punkt II Nr. 3 Bürgerfragen an den Bezirksausschuss
+- TOP 5.6.: Anfrage von DOKU e.V. München an BA 2, Suche nach einem Atelierhaus für Künstlerinnen und Künstler, vgl. Vertagung TOP 2016.12 A 5.6
+- TOP 5.7.: Nachfrage an das Referat für Bildung und Sport zur Antwort auf den BA-Antrag-Nr. 14-20/B 02235 bezüglich der Rücklaufquote von Briefen an Eltern von schulpflichtigen Kindern im Schulsprengel der Schwanthalerschule
+- TOP 6: Berichte der Beauftragten
+- TOP 2.1.: Geyerstraße, Begrünung, Entscheidung über die Projektplanung
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Tumblingerstraße 17; Umbau, Renovierung, DG-Ausbau, Anbau von Balkonen (VGB+RGB); Nutzungsänderung von Gewerbe zu Büro (EG/RGB); Ausbau von Kellerräumen zu Gewerbe, Anbau eines Außenaufzugs (VGB), Einbau eines Aufzugs (RGB), Einbau/Austausch von Fenstern, Eingangstür und Tür-Fenster (VGB + RGB) sowie Einbau und Erneuerung von Balkonen (VGB + RGB) - TEKTUR
+- TOP 3.1.2.: Mozartstraße 4, Teilnutzungsänderung: Foyer zu Café/Bar
+- TOP 3.1.3.: Lindwurmstraße 35 und 37; Abbruch Lindwurmstraße 37 und Neubau mit 12 Wohnungen und Hotel mit 54 Zimmer und 110 Betten als Erweiterung des bestehenden Hotels Lindwurmstraße 35, sowie Neubau des Rückgebäudes auf dem Haus Nr. 35 und 37 und Erweiterung der Tiefgarage auf der Haus Nr. 37 mit 30 Stellplätzen, sowie Errichtung einer Gaststätte im EG mit 81 Gastplätzen
+- TOP 3.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.8.: Goethestraße 30 bis 34; Teilabbruch, Um- und Neubau eines Wohn- und Geschäftsgebäudes mit großflächigem Lebensmitteleinzelhandelsbetrieb und Tiefgarage
+- TOP 3.1.9.: Klenzestraße 12, Umbau einer DG-Wohnung mit Spitzbodenausbau zu einer Maisonettewohnung mit teilweiser Veränderung der hofseitigen Dachneigung
+- TOP 3.1.10.: Goethestraße 7a; Erweiterung der Gastfläche einer Shisha-Bar
+- TOP 3.1.11.: Fraunhoferstraße 12; DG-Ausbau mit Einbau von acht Gauben und eines Aufzuges ins Treppenhaus
+- TOP 3.1.12.: Geyerstraße 17; Neubau zweier Mehrfamilienhäuser mit Tiefgarage und Autoaufzug - VORBESCHEID
+- TOP 3.1.13.: Landwehrstraße 49; Neubau eines Jugendhotels (146 Betten) mit Frühstücksraum - TEKTUR
+- TOP 3.1.15.: Corneliusstraße 4, Nutzungsänderung MFH: Grundrißänderungen im Eingang und in Wohnungen, Abbruch und Neuerrichtung DG inkl. begrünte Dachterrasse, Neueinteilung Nebenräume (UG), Änderung Fassade (Straße und Hofseite) inkl. Erneuerung und Vergrößerung der Balkone sowie Erstellen einer Fluchttreppe für baulichen 2. Rettungsweg, Erneuerung und Vergrößerung der Aufzugsanlage (barrierefreier Zugang)
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.2.: Isartalstraße 20, Fällungsantrag einer Eberesche, PLENUMSBESCHLUSS
+- TOP 3.2.3.: Thalkirchnerstraße 25, Fällungsantrag einer Thuja, PLENUMSBESCHLUSS
+- TOP 3.2.4.: Dreimühlenstraße 2, Fällungsantrag einer Kastanie, PLENUMSBESCHLUSS
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Nutzung Theresienwiese
+- TOP 1.2.: Schutz der Isar vor Silvesterfeuerwerk, PLENUMSBESCHLUSS
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Adlzreiterstraße 1, Erweiterung einer Freischankfläche
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.2.1.: Fraunhoferstraße 14a, Ecke Klenzestraße U-Bahn Zugang, Aufstellung eines Zeitungsentnahmegerätes
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.2.2.: Adolf-Kolping-Straße zwischen Schillerstraße und Sonnenstraße, Fahrbahnsanierung
+- TOP 3.2.3.: Arnulfstraße Südseite zwischen Hackerbrücke und ZOB, Fahrbahnsanierung, PLENUMSBESCHLUSS
+- TOP 3.3.1.: Mittererstraße 9, Aufstellung von Sitzgelegenheiten, PLENUMSBESCHLUSS
+- TOP 5.1.: Begrünungsplan BA 2
+- TOP 5.2.: Umgestaltung Holzplatz
+- TOP 5.3.: Bürgeranliegen; Fahrbahnüberquerung im Bereich Holz-, Pestalozzi- und Müllerstraße, vgl. hierzu auch BA-Sitzung vom 13.12.2016 Punkt II Nr. 4 Bürgerfragen an den Bezirksauschuss 2
+- TOP 5.5.: Bürgeranliegen; Verschönerung Thalkirchner Straße/Ecke Waltherstraße
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Kassenprüfung im Vorstand, Bericht der Kassenprüfer im Plenum
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.8.: Betteln im Bereich Schwanthalerschule, Anliegen aus der Kinder- und Jugendeinwohnerversammlung 2016 des BA 2, vgl. TOP 2016.12 A 1.4, Antwort der Polizei vom 16.01.2017
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Ehrengutstraße 14, Baumfällungsbescheid zur Fällung einer Esche vom 14.12.2016
+- TOP B 4.4.: Müllerstraße 7, Baumfällungsbescheid zur Fällung einer Blumenesche vom 16.12.2016
+- TOP B 4.5.: Bevorstehende Entfernungen von Gefahrenbäumen
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.11.: Fehlender Rettungsring Holzstraße wurde ersetzt, vgl. Email Antwort des Baureferates vom 19.12.2016
+- TOP C 4.15.: Öffnung Glockenbach, BA-Antrags-Nr. 14-20 / B 01991 des BA 2 vom 26.01.2016; Zwischenmitteilung des Baureferates vom 29.12.2016
+- TOP C 4.19.: Information über Betriebskonzept der Linien U3/U6 während Entfernung der Hintergleiswerbung am U-Bahnhof Sendlinger Tor
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.2.: Antrag aus der Kinder- und Jugendversammlung 2016 des Stadtbezirkes 1 Altstadt-Lehel - Standort im Stadtbezirk 2: Spielgeräte vor dem Kartencontainer beim Deutschen Museum
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Sonstiges
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.4.: Schillerstraße 20; Neuaufteilung des „Hotel Daheim“ - Nutzungsänderung Wohnung / 4. OG zu Hotel, Neubau Hotelzimmer (Schließung der Baulücke Schillerstraße)
+- TOP 3.1.6.: Landwehrstraße 75; Neubau eines Gebäudes mit 157 Serviced Apartments und Tiefgarage (41 Stellplätze); Hinweis der Lokalbaukommission
+- TOP 3.1.7.: Adlzreiterstraße 13; VGB: Nutzungsänderung – Gastwirtschaft zu Wohneinheit im EG; Kellerräume zu Wohnräumen im UG; Einbau einer internen Verbindungstreppe zwischen EG und UG, sowie Teilumbau von neun Wohneinheiten im EG – 3. OG
+- TOP 3.1.14.: Palmstraße 12; Umbau einer Gaube in einen Dacheinschnitt (Terrasse)
+- TOP 3.1.16.: Baaderstraße 86, Abbruch des Bestands und Neubau einer Wohnanlage (79 WE) auf Bestandsgründung mit erdgeschossiger Mischnutzung – Vorbescheid
+- TOP 3.1.17.: Isartalstraße 6, Abbruch Pflegeheim, Neubau Wohnstift und Pflegeheim mit Tiefgarage - Vorbescheid
+- TOP 3.1.18.: Rothmundstraße 3, DG-Ausbau und Sanierung eines denkmalgeschützten Wohnhauses – Vorbescheid, PLENUMSBESCHLUSS
+- TOP 3.1.19.: Mozartstraße 23, Nutzungsänderung und Umbau einer Pension zu zwei Wohnungen mit Büro im 3. OG, eine Wohnung im 2. OG links und eine Wohnung im 1.OG links, PLENUMSBESCHLUSS
+- TOP 3.1.20.: Schwanthalerstraße 55 und 57; Nutzungsänderung und Umbau bestehender Schulgebäude für Hotelnutzung, Neubau eines Hotelgebäudes mit Tiefgarage – Vorbescheid; PLENUMSBESCHLUSS
+- TOP 3.2.1.: Goethestraße 70, Fällungsantrag zweier Robinien, PLENUMSBESCHLUSS
+- TOP 3.3.1.: Schützenstraße; Roadshow-Bauwagen-Tour 2. S-Bahnstammstrecke
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: „Eiche-Fasching“ am 28.02.2017 in der Reichenbachstraße (Abschnitt Reichenbachplatz und Gärtnerplatz)
+- TOP 3.2.1.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben S-Bahn-Station München Isartor (MIT); Neubau einer maschinellen Rauchabzugsanlage (MRA), einer Netzersatzanlage (NEA) und einer Aufzugsanlage im Zuge der brandschutztechnischen Ertüchtigung der S-Bahn-Stammstrecke München
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.4.: Bürgeranliegen; Verkehrszeichen „Grüner Pfeil“ an der Ampelkreuzung Kaiser-Ludwig-Platz - Beethovenstraße
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnungspolitisches Handlungsprogramm „Wohnen in München VI“ 2017-2021, München Modell-Eigentum, Sitzungsvorlagen Nr. 14-20/V 07756, Beschluss der Vollversammlung des Stadtrates vom 14.12.2016
+- TOP A 4.4.: Schwanthalerschule - Übergangs-KITA
+- TOP A 4.5.: Referat für Bildung und Sport, Geschäftsbereich Sport, Beschlussvorlage Infrastrukturprogramm Sport in München, Rückblick 2016 und Fortschreibung 2017, Sitzungsvorlage – Nr. 14-20/V07531, Beschluss des Sportausschusses des Stadtrats vom 23.11.2016 (SB)
+- TOP A 4.6.: Antrag aus der Kinder- und Jugendversammlung des BA 2 vom 24.11.16, Grünphase an der Ampel Maistraße/Ecke Tumblingerstraße ist zu kurz, vgl. TOP 2016.12 A 1.3 (N), Antwortemail des Kreisverwaltungsreferates vom 21.12.2016
+- TOP A 4.7.: Einbeziehung des BA 2 in die weitere Planung der "Informationsstelle Alter Südlicher Friedhof"
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Information über Betriebskonzept der Linien U3/U6 während Einbau der Notunterstützung am U-Bahnhof Poccistraße
+- TOP B 4.6.: Gesamtkonzept für Mobilitätstation und Fahrradstellplätze am Goetheplatz abstimmen
+- TOP B 4.7.: Beim Modellprojekt City2Share breit für gemeinsame Kfz-Nutzung werben und Vorteile im Öffentlichen Straßenraum erlebbar machen
+- TOP B 4.8.: Gestaltung Am Glockenbach – nördliche und südliche Fahrbahnen am Glockenbach Pflastern, BA-Antrags-Nr. 14 – 20/B 02446 des BA 2 vom 31.05.2016, vgl. auch TOP 2016.12 C 1.1 und B 4.3; Antwortschreiben des Baureferates vom 30.12.2016
+- TOP B 4.9.: Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO), Schwanthalerstraße 67, Teilabbruch des straßenseitigen Gebäudeteils, Neuerrichtung des straßenseitigen Gebäudeteils mit Errichtung eines verglasten Verbindungsgangs im 1. OG zum rückwärtigen Gebäudeteil
+- TOP B 4.10.: Kein Bau des Klenzestegs
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.6.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinen-lärmschutzverordnung (32. BImSchV), Jahresgenehmigungen 2017 für Reinigungsarbeiten an U-Bahnhöfen
+- TOP C 4.7.: Konzessionen mehrerer Kneipen und Gaststätten
+- TOP C 4.8.: Zusätzliche Abfalleimer in der Müllerstraße
+- TOP C 4.9.: Referat für Stadtplanung und Bauordnung, Beschluss Neubau Hauptbahnhof München, Sitzungsvorlagen Nr. 14-20/ V 07576, Beschluss der Vollversammlung des Stadtrates vom 14.12.2016; Neufassung vom 09.12.2016
+- TOP C 4.10.: Monate lange Gesamtsperrung der Theresienwiese
+- TOP C 4.12.: Kennzeichnung der Radwege vorallem am Sendlinger Tor durch aufgemalte Fahrräder
+- TOP C 4.13.: Beschlussvorlage zum WC Konzept „Nette Toilette“, Information von Herrn Bürgermeister Josef Schmid vom 19.12.2016 an alle Bezirksausschüsse
+- TOP C 4.14.: Ampelschaltung Kapuziner- Ecke Thalkirchner Straße optimieren
+- TOP C 4.16.: Zukunftsfähiger Regionalzughalt Poccistraße mit S-Bahn-Halt - Ein zentraler Baustein für den Ausbau des Bahnknotens München Referat für Stadtplanung und Bauordnung, Beschlussvorlage, Sitzungsvorlagen Nr. 14-20/V 06453, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2017 (VB)
+- TOP C 4.17.: Sperrung Pink Christmas; Antwort-Email des Kreisverwaltungsreferates vom 13.01.2017
+- TOP C 4.18.: Aufstellung von vier Mülleimern an der Lindwurmstraße zwischen Sendlinger Tor Platz und Goetheplatz (Isarseite).
+- TOP D 4: Bereich BA-Angelegenheiten
