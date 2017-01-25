@@ -1,0 +1,118 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-01-25T17:15:00+01:00
+- Ende: 2017-01-25T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2984
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2984
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Zivilgesellschaftliches Engagement für ein tolerantes Neukölln muss unterstützt und geschützt werden! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl zum Bezirksstadtrat auf Vorschlag der Fraktion der AfD - gewählt
+- TOP 6.2: Übertragung eines Geschäftsbereichs an ein neues Bezirksamtsmitglied - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Wahl einer stellv. Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 6.4: Wahl einer stellv. Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 6.5: Wahl einer stellv. Bürgerdeputierten in den Ausschuss für Umwelt- und Naturschutz - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Bebauungsplan XIV-108-1 („Käthe-Dorsch-Ring/Agnes-Straub-Weg“) - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Anmeldung des Bezirks Neuköllns zur Investitionsplanung für die Jahre 2017 - 2021 - überwiesen
+- TOP 7.4: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2015 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Al-Nur-Moschee - beantwortet
+- TOP 9.2: Rechtskundekurse für Flüchtlinge - beantwortet
+- TOP 9.3: Gefährliche Abfälle bei KATI GmbH Co KG - beantwortet
+- TOP 9.4: Brennende Kinderwagen - beantwortet
+- TOP 9.5: Religionsunterricht an Neuköllner Schulen - beantwortet
+- TOP 9.6: Ferienwohnungen in Neukölln - schriftlich beantwortet
+- TOP 9.7: Schülerlotsen - schriftlich beantwortet
+- TOP 9.8: Unentschuldigtes Fernbleiben vom Unterricht an Neuköllner Schulen - schriftlich beantwortet
+- TOP 9.9: Kunstrasen TSV Rudow - schriftlich beantwortet
+- TOP 9.10: Wahlen zur Seniorenvertretung - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2016/2017 und im Jahr 2017 - vertagt
+- TOP 10.3: Genehmigung der im Haushaltsjahr 2015 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 10.4: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.5: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.6: Lage von Geflüchteten und Stand der Unterbringung in Neukölln? - vertagt
+- TOP 10.7: Wie neutral ist das Projekt "Schule ohne Rassismus - Schule mit Courage"? - vertagt
+- TOP 10.8: Künftiger Umgang mit Asbestbelastung - vertagt
+- TOP 10.9: Gedenkort für Burak Bektas - mit Änderungen in der BVV beschlossen
+- TOP 10.10: Unterbringung von Geflüchteten in Neukölln - vertagt
+- TOP 10.11: Asbestregister und -sanierung durchführen - vertagt
+- TOP 10.12: Zustimmung zur Entscheidung über den Ausbau der Radwege Buckower Damm zwischen Mohriner Allee und Bauhüttenweg - vertagt
+- TOP 10.13: Neukölln fahrrad- und fußgänger/innenfreundlich (9): Sicherheit in der High-Deck-Siedlung - vertagt
+- TOP 10.14: Mehrsprachiges Informationsmaterial für Migrantinnen und Migranten - vertagt
+- TOP 10.15: Sehbehindertengerechte Stufen im Rathaus Neukölln - vertagt
+- TOP 10.16: Verkehrssicherheit Hermannplatz - vertagt
+- TOP 10.17: Milieuschutz - vertagt
+- TOP 10.18: Tempo 30 in der Gerlinger Str. - vertagt
+- TOP 10.19: Halteverbot in der Kanalstraße - vertagt
+- TOP 10.20: Fußgängerquerungshilfe (Fußgängerüberweg/ggfs. Anforderungsampel) in der Stubenrauchstraße - vertagt
+- TOP 10.21: Parken im Wendehalsweg - vertagt
+- TOP 10.22: SAPV-Versorgung in Neukölln sicherstellen - vertagt
+- TOP 10.23: Lichtzeichenanlage für Fußgänger*innen in der Lahnstraße - vertagt
+- TOP 10.24: Projekt „Stadtteilmütter“ - vertagt
+- TOP 10.25: Gutachten/Studien der Öffentlichkeit zugänglich machen - vertagt
+- TOP 10.26: Verein Islamische Gemeinschaft e.V. wegen islamistischer Hetze verbieten - vertagt
+- TOP 10.27: Online-Formularservice auf berlin.de verbessern - vertagt
+- TOP 10.28: Zeitplan für Milieuschutzgebiete - vertagt
+- TOP 10.29: IHK – Außenstelle in Neukölln - vertagt
+- TOP 10.30: Zusätzlicher Fahrradweg in der Kanalstraße - vertagt
+- TOP 10.31: Aufstellungsbeschluss für zwei soziale Erhaltungsgebiete - vertagt
+- TOP 10.32: Genehmigungskriterien für den Milieuschutz - vertagt
+- TOP 10.33: Informationsveranstaltung "Bürgernahe Kommunalpolitik" - vertagt
+- TOP 10.34: Weitere Voruntersuchungen für die Einführung von sozialen Erhaltungssatzungen - vertagt
+- TOP 10.35: Impfschutz - vertagt
+- TOP 10.36: Würdiges Erscheinungsbild am Gedenkstein Britz wiederherstellen - vertagt
+- TOP 10.37: Sicherheitsgefühl für Frauen am Gemeinschaftshaus Gropiusstadt stärken - vertagt
+- TOP 10.38: Informationsveranstaltung Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - vertagt
+- TOP 10.39: "Mitmachzirkus Mondeo retten" - vertagt
+- TOP 10.40: Unhaltbare Zustände in der Rettungsstelle des Klinikum Neuköllns - vertagt
+- TOP 10.41: Patientenkoordinatoren/ -innen - vertagt
+- TOP 10.42: Hundetagesstätte retten - vertagt
+- TOP 10.43: Fußgängerüberweg in der Köpenicker Straße / Alt Rudow - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Neuköllner Einsatzgruppe Rechtsextremismus - vertagt
+- TOP 12.2: Neuköllner Jugendarbeit - vertagt
+- TOP 12.3: Maserninfektionen in Neukölln - vertagt
+- TOP 12.4: Serie rechter Gewalttaten in Neukölln - vertagt
+- TOP 12.5: „Strategischer Leerstand“ Schillerpromenade - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Neuköllner Einsatzgruppe “Rechtsextremismus” wird gebraucht! - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: GO - Beteiligungsrechte gemäß Berliner Seniorenmitwirkungsgesetzes - vertagt
+- TOP 14.3: Maßnahmen an Werner-Seelenbinder-Gedenkstätte - vertagt
+- TOP 14.4: Antrag zur Geschäftsordnung - vertagt
+- TOP 14.5: GO - Arbeitsweise der Ausschüsse - vertagt
+- TOP 14.6: Antrag zur Geschäftsordnung II - vertagt
+- TOP 14.7: Fußgängerampelzeit Werbellinstraße/ Ecke Morusstraße - vertagt
+- TOP 14.8: Antrag zur Geschäftsordnung III - vertagt
+- TOP 14.9: GO - Redaktionelle Änderung - vertagt
+- TOP 14.10: Antrag zur Geschäftsordnung IV - vertagt
+- TOP 14.11: Antrag zur Änderung der Geschäftsordnung - vertagt
+- TOP 14.12: Trinkwasserspender für die Grundschule am Fliederbusch - vertagt
+- TOP 14.13: Bushaltestelle “Seeadlerweg - vertagt
+- TOP 14.14: Baumnachpflanzungen am Buckower Damm - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauungsplan XIV-78a vom 07.07.2015 („Hermannstraße 134“) - vertagt
+- TOP 16.2: Bebauungsplan XIV-262b („Parkanlage Gerlinger Straße / Warmensteinacher Straße“) - vertagt
+- TOP 16.3: Bebauungsplan XIV-290b („Am Großen Rohrpfuhl“) - vertagt
+- TOP 16.4: Bebauungsplan XIV-274aba („Waßmannsdorfer Chaussee - Mauerweg“) - vertagt
+- TOP 16.5: Pilotprojekt für Fahrradparken auf Fahrbahnen - vertagt
