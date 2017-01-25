@@ -1,0 +1,77 @@
+# 4. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-01-25T17:30:00+01:00
+- Ende: 2017-01-25T21:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5297
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5297
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=136930
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.5.1: Unverzügliche Maßnahmen zur Herstellung des Brandschutzes an der Elisabeth-Christinen-Schule - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Bezirksstadtrates - in der BVV abgelehnt
+- TOP 1.9: Wahl des stellvertretenden Bezirksbürgermeisters zugleich Bezirksstadtrat - gewählt
+- TOP 1.10: Wahl der Bürgerdeputierten für den Integrationsausschuss der Bezirksverordnetenversammlung für die VIII. Wahlperiode - vertagt
+- TOP 1.11: Wahl der Bürgerdeputierten für den Integrationsausschuss der Bezirksverordnetenversammlung Pankow von Berlin für die VIII. Wahlperiode - vertagt
+- TOP 1.12: Wahl von 2 Bezirksverordneten als Mitglieder des Heimkuratoriums der Senioreneinrichtungen der Paritätischen Gesellschaft für Gesundheit- und Sozialdienste - gewählt
+- TOP 1.13: Wahl einer/s Bezirksverordneten in den Vorstand des Vereins der Städtepartnerschaft mit Kolobrzeg - gewählt
+- TOP 1.14: Wahl eines / einer Bezirksverordneten als Mitglied in den Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - gewählt
+- TOP 1.15: Wahl eines Mitgliedes in den Vorstand der Albert-Schweitzer-Stiftung - Wohnen & Betreuen - gewählt
+- TOP 1.16: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.17: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.18: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.19: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.20: Berufung beratender Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VIII. Wahlperiode - gewählt
+- TOP 1.21: Wahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 1.22: Verkehrsanbindung des Stadtquartiers „Wilhelmsruher Tor“ / B-Plan 3-18 - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Mehr Aufenthaltsqualität und Lebendigkeit für die Gustav-Adolf-Straße und den Caligari-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Budgetzuweisung für Lehr- und Lernmittel für Schulen des Bezirks aufstocken - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Aufhebung der verbindlichen Erläuterung im Haushaltsjahr 2017 im Kapitel 3630/42723 - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Änderung des Bebauungsplan IV 2a - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Straße/ BAB A114 sowie Bucher Straße / Pankgrafenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Beleuchtungssituation an der und um die Königsteinbrücke verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Städtebaulicher Rahmenplan für den Ortskern Heinersdorf - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: LED-Boden-Warnsystem – Mehr Sicherheit am Straßenbahn-Übergang - überwiesen
+- TOP 1.31: Fristgerechte Aufstellung des Bezirkshaushaltes ermöglichen - Termine der Sitzungen der BVV ändern - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Transparenz bei Vergabe der Pankower Sportstätten - überwiesen
+- TOP 1.33: Möglichkeiten der Nutzung von bezirklichen Räumen verbessern - überwiesen
+- TOP 1.34: Fußgängerüberweg in der Berliner Straße auf Höhe der Dr. Markus Straße - überwiesen
+- TOP 1.35: Planverfahren Grünzug - überwiesen
+- TOP 1.36: Die Anton-Saefkow-Straße 33 für bezirkliche Nutzungen und Ziele sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Verstärkte Verunreinigung durch Hundekot im Neumannkiez - überwiesen
+- TOP 1.38: Verbesserung für den Fußverkehr in der Cantianstraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Park am Weißen See an starke Nutzung anpassen - überwiesen
+- TOP 1.40: Kreisverkehr für die Kreuzung Treseburger Straße/Karower Damm in Blankenburg - überwiesen
+- TOP 1.41: Retroreflektierende Einrichtungen auf Radfernweg - überwiesen
+- TOP 1.42: Sicherung des Übergangs für VerkehrsteilnehmerInnen an der Kreuzung Heinersdorferstr./Langhansstr. - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Alle gesperrten Spielplätze in Pankow umgehend instand setzen und öffnen - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Lichtsignalanlage an der Kreuzung Lessingstraße / Hauptstraße in Wilhelmsruh - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Notfalleinsätze in der Parkraumbewirtschaftungszone - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Fußgängerüberweg an der Bucher Chaussee in Höhe Hofzeichendamm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Sanierungskonzept für den Wilhelmsruher See - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Buchholzer Straße aus dem übergeordneten Verkehrsnetz herausnehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Bezirkliche Spielplatzplanung fortschreiben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Querungshilfe in der Straße Alt-Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Inklusionssporthalle jetzt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Moorlinse in Berlin-Buch schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Verkehrsberuhigung im Lindenberger Weg im Ortsteil Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Verkehrschaos in Französisch-Buchholz verringern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Handbuch zur Information und Beratung für Geflüchtete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Clearingverfahren zur Feststellung der Kostenträger zur Kostenübernahme von Krankheits- und Gesundheitskosten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Gesundheitsversorgung für obdach- bzw. wohnungslose Menschen sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Geschäftsverteilung und Vertretungsregelung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
