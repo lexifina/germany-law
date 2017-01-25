@@ -1,0 +1,79 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-01-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118386
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118386
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Standortvorschläge für eine integrative Begegnungsbaustelle?
+- TOP 2.1.: Wirtschaft
+- TOP 2.1.2.: Evaluierung der Sondernutzungsrichtlinien
+- TOP 2.2.: Kultur
+- TOP 2.2.2.: Theater der Jugend
+- TOP 2.3.: Veranstaltungen
+- TOP 2.3.1.: Benefizflohmärkte auf dem Elisabethplatz am 01.04., 06.05., 24.06. und 09.09.2017
+- TOP 2.1.: Planen
+- TOP 2.1.1.: Kölner Platz 1 Klinikum Schwabing, Neubau Klinik für Kinder- und Jugendmedizin, Gynäkologie und Geburtshilfe + Notfallzentrum (Haus 24.1) sowie Umbau und Sanierung der Kinderklinik Haus 24
+- TOP 2.1.2.: Adelheidstr. 27, DG-Ausbau (3 Wohneinheiten) mit darüber liegender Dachterrasse und Anbau eines Aufzugs am Bestandsgebäude im Hof
+- TOP 2.1.3.: Georgenstr. 118, Teilausbau DG zu Wohnung und Teilausbau Spitzboden zu Galeriebereich der DG-Wohnung
+- TOP 2.1.4.: Tektur Sailerstr. 4, Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage (5 Stellplätze)
+- TOP 2.1.6.: Arcisstr. 61, Dachgeschoss-Ausbau (2 WE)
+- TOP 2.1.7.: Isabellastr. 25, Umbau und Sanierung einer 2-geschossigen DG-Wohnung ohne Änderung der Öffnungen in der Gebäudehülle
+- TOP 2.1.8.: Mainzer Str. 22, Nutzungsänderung Teileinheit Nr. 1: Büro zu Wohnung
+- TOP 2.1.9.: Hohenzollernstr. 56, Dachgeschoss-Ausbau (1 WE)
+- TOP 2.1.10.: Tektur Sailerstr. 6, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.11.: Vorbescheid Fallmerayerstr. 22, Nutzungsänderung Boardinghouse zu Wohnen mit untergeordneter gewerblicher Nutzung im EG, bauliche Erweiterung des Bestandsgebäudes (Anbau Richtung Südwesten, DG-Aufstockung), Neubau eines Rückgebäudes
+- TOP 2.1.12.: Vorbescheid Adelheidstr. 16-20, Abbruch einer Garagenanlage und Neubau eines Wohngebäudes mit Tiefgarage im Hinterhof (Adelheidstr. 16-20/Agnesstr. 19-21)
+- TOP 2.1.13.: Vorbescheid Herzogstr. 105, Aufstockung um ein Vollgeschoss und ein dreiseitig zurückgesetztes Dachgeschoss
+- TOP 2.1.14.: Vorbescheid Hohenzollernstr. 59, Neubau eines Wohn- und Geschäftshauses (VGB + RGB) mit Tiefgarage
+- TOP 2.1.15.: Friedrichstr. 19, Neubau eines Wohnhauses mit Tiefgarage und eines Rückgebäudes
+- TOP 2.1.16.: Friedrich-Loy-Str. 12-14, Neubau eines Kinderhauses mit Studentenwohnheim, Wohnungen und Tiefgarage
+- TOP 2.1.17.: Friedrich-Loy-Str. 4, Erweiterung und Aufstockung des Bestandsgebäudes mit Wohnungen und Tiefgarage
+- TOP 2.1.19.: Clemensstr. 103, Anbau eines Balkons
+- TOP 2.2.: Wohnen
+- TOP 1.1.: Bürger: Gefährdung von Fußgängern an der Trambahnhaltestelle Barbarastraße
+- TOP 1.2.: Bürgerin: Stadtplatz Ackermannbogen: Durchsetzung des Durchfahrtsverbots
+- TOP 1.3.: Bürger: Dauerparken von Lkw-Anhängern und Wohnwagen in der Ackermannstraße
+- TOP 2.1.: Umwelt
+- TOP 2.1.1.: Vorschläge für die Neuaufnahme von Bäumen in die Naturdenkmalliste?
+- TOP 2.2.: Verkehr
+- TOP 2.2.1.: Einrichtung von absoluten Haltverboten an der Kreuzung Georgen-/Zentnerstraße
+- TOP 2.2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Schleißheimer Str. 171
+- TOP A: Allgemeines
+- TOP B: Soziales
+- TOP 2.2.: „Sanierung der Kita Haimhauserstraße“ - Empfehlungen aus der Bürgerversammlung Schwabing am 14.07.2016 – Anhörung zu einer Beschlussvorlage für den Bildungsausschuss des Stadtrats
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Elisabethstr. 2, Tagescafé „Di Natale“: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V., KulturBüro Ausstellung "wie geWOHNT" vom 06. - 27.04.17
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.5.: „Stadtrat soll Marktstände am Elisabethplatz erhalten“ - Stellungnahme des BA für die Beschlussvorlage zur Erledigung einer Empfehlung aus der Bürgerversammlung 2016
+- TOP 2.1.18.: Barlachstr. 6, Neubau eines Wohngebäudes mit Sparkassenfiliale und Tiefgarage - Baumfällungen in Zusammenhang mit dem Bauvorhaben
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.2.: (E) Absenkung der Bordsteinkante zwischen den Häusern Rümannstr. 57 und 59 im Zuge der laufenden Straßenbaumaßnahme Empfehlung Nr. 14-20 / E 01128 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 06.10.2016
+- TOP 2.2.4.: Öffnung der Emanuelstraße zwischen Fallmerayer- und Rankestraße für den gegenläufigen Radverkehr sowie Freigabe der Einfahrt aus der Herzog- in die Rankestraße für Radfahrer
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
+- TOP I: Erledigte BA-Anträge
+- TOP I.1.: Abfallkörbe mit sogenannten "Flaschensammlern" ausstatten
+- TOP I.2.: Grenzmarkierung vor der Gehwegabsenkung in der Rümannstraße zur Verdeutlichung des Haltverbots
