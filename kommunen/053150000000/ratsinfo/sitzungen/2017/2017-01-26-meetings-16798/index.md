@@ -1,0 +1,76 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-26T15:30:00+01:00
+- Ende: 2017-01-26T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16798
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16798
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00596087.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00596087.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00596087.pdf
+
+## Tagesordnung
+
+- TOP -: A) Bestellung eines Schriftführers für die Sitzung des Ausschusses Soziales und Senioren am 26.01.2017 - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Einführung einer Wohnungstauschbörse für Köln - zurückgestellt
+- TOP 2.2: Einführung einer Wohnungstauschbörse für Köln - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Verteilung der Globalmittel 2017 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Das "Kooperative Baulandmodell Köln - Richtlinie zur Anwendung in Bebauungsplanverfahren"; hier: Fortschreibung - ohne Votum in nachfolgende Gremien
+- TOP 4.2: "Flüchtlinge in Köln willkommen heißen" - ein Projekt zur Unterstützung von Flüchtlingsinitiativen – Kooperationsprojekt Forum für Willkommenskultur Träger: Kölner Flüchtlingsrat e. V. und Kölner Freiwilligen Agentur e. V. - ungeändert empfohlen
+- TOP 4.3: Dringend notwendige Errichtung von mobilen Wohneinheiten zur Flüchtlingsunterbringung - hier: An den Gelenkbogenhallen, 50679 Köln-Deutz, Flur 33, Flurstück 904 - ungeändert empfohlen
+- TOP 4.4: Errichtung von vier konventionellen Bauten auf den städtischen Grundstücken Pater-Prinz-Weg - ungeändert empfohlen
+- TOP 4.5: Evaluierung der Wohnraumschutzsatzung zwei Jahre nach Inkrafttreten - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.1.1: Evaluierung der Wohnraumschutzsatzung - ohne Votum in nachfolgende Gremien
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 8.2.1: Beantwortung der mündlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses für Soziales und Senioren vom 27.102016 bezugnehmend auf die Beantwortung 3133/2016 des Jobcenters Köln zur Anfrage der Fraktion DIE LINKE AN 1359/2016 - zurückgestellt
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Sachstand der Ausstattung der Flüchtlingswohnheime mit WLAN - Kenntnis genommen
+- TOP 9.1.1.1: Sachstand der Ausstattung der Flüchtlingwohnheime mit WLAN - Kenntnis genommen
+- TOP 9.1.2: Interne Umschichtungen in der Containeranlage in Köln-Worringen - Kenntnis genommen
+- TOP 9.1.3: Befragung von Flüchtlingen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.2: Aktuelle Informationen zur Unterbringung und Integration von Flüchtlingen - 12. Bericht - Kenntnis genommen
+- TOP 9.3: 1. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 01/2017 - Kenntnis genommen
+- TOP 10.2: Mitnahme von E-Scootern bei der KVB AG - zurückgestellt
+- TOP 10.3: Mitnahme von E-Scootern bei der KVB AG - zurückgestellt
+- TOP 10.4: Handlungskonzept Behindertenpolitik - "Köln überwindet Barrieren - eine Stadt für alle", 2. Folgebericht - 0990/2016 - Ergänzende Forderungen der stimmberechtigten Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik Köln - 2763/2016 - Kenntnis genommen
+- TOP 10.5: Inklusionsvereinbarung - zurückgestellt
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Mehr Mehrgenerationenplätze in Köln? - Kenntnis genommen
+- TOP 11.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Blankovollmachten für die Konten von Sozialhilfeempfängern - Kenntnis genommen
+- TOP 11.2.1.1: Blankovollmachten für die Konten von Sozialhilfeempfängern - Kenntnis genommen
+- TOP 11.2.2: Stadtteileltern und Stadtteilmütterprojekte in Vingst/Höhenberg und Rondorf/Meschenich - Kenntnis genommen
+- TOP 11.2.2.1: Beantwortung der Anfrage der SPD-, CDU-, FDP-Fraktionen sowie der Fraktionen Bündnis 90/Die Grünen und Die Linke zum Thema "Stadtteileltern und Stadtteilmütterprojekte in Vingst/Höhenberg und Rondorf/Meschenich" (AN/2011/2016) - Kenntnis genommen
+- TOP 11.2.3: Angebote der Bratungsstellen in Köln für Menschen mit Behinderungen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.2.4: Internet-Ausstattung in den städtischen Altenpflegeeinrichtungen für Senioren und Seniorinnen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.2.5: Schuldnerberatung bei der Stadt Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.2.6: Wohnraum für benachteiligte Personengruppen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Fortführung der "Fachärztlichen Beratung in Gemeinschaftsunterkünften für Geflüchtete" - Kenntnis genommen
+- TOP 12.2: Beantwortung einer Nachfrage zu TOP 4.4 aus der Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales vom 07.11.2016 - Kenntnis genommen
+- TOP 12.3: Drogenkonsum und Aufenthalt im öffentlichen Raum um den Neumarkt/Josef-Haubrich-Hof - Kenntnis genommen
+- TOP 12.4: Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 12.5: Mitteilung zum Projektstart des ESF-Projektes „Willkommen und Ankommen in Köln“ ab 01.01.2017 - Kenntnis genommen
+- TOP 12.6: Mal- und Fotowettbewerb zur Rainbow-Cities-Ausstellung 2017 - Kenntnis genommen
+- TOP 12.7: Pressemitteilung zu Unterkünften für LGBTI-Geflüchtete - Kenntnis genommen
+- TOP 12.8: Überblick über die gesetzlichen Änderungen zum 01.01.2017 - Kenntnis genommen
