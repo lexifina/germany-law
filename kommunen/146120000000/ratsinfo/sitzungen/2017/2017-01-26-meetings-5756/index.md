@@ -1,0 +1,57 @@
+# 34. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-01-26T16:00:00+01:00
+- Ende: 2017-01-26T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5756
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5756
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00283675.pdf
+- Wortprotokoll: Nachtrag_SR_2017_01_16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00284346.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Sozialbetrug durch Flüchtlinge und Asylbewerber in Dresden - erledigt
+- TOP 3.2: Beschluss zum Sachsenbad - erledigt
+- TOP 3.3: Baugenehmigung Trainingsgelände im Ostragehege - erledigt
+- TOP 3.4: Aktueller Stand des Projektes - Neubau Trainingszentrum Dynamo Dresden - erledigt
+- TOP 3.5: Pflege des Wäldchens an der Zinnowitzer Straße in Klotzsche - erledigt
+- TOP 3.6: Winterdienst in Dresden - erledigt
+- TOP 3.7: 13. Februar - erledigt
+- TOP 3.8: Denkmalschutz der Grünfläche an der Bautzner Straße - erledigt
+- TOP 3.9: Einführung einer Vorteilskarte - erledigt
+- TOP 3.10: Anfrage beim Finanzamt zur Vorlage V 1441/16 - erledigt
+- TOP 3.11: Parkplätze in Loschwitz - erledigt
+- TOP 3.12: Aktuelle Situation an der Oberschule Weißig - erledigt
+- TOP 3.13: Grundstückskauf durch Garagengemeinschaften - erledigt
+- TOP 3.14: Zur Einbeziehung der Ortsbeiräte bei Stadtratsvorlagen bzw. Anträge der Stadtratsfraktionen - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 4.1: Umbesetzung im Ortsbeirat Leuben - Zustimmung mit Ergänzung
+- TOP 4.2: Umbesetzung im Ortsbeirat Leuben - Zustimmung
+- TOP 5: Besetzung der zweiten Vertreterinnen oder Vertreter der stimmberechtigten Mitglieder des Jugendhilfeausschusses - Zustimmung
+- TOP 6: Einigungsverfahren Aufsichtsräte
+- TOP 6.1: Aufsichtsrat der STESAD GmbH - Vertagung
+- TOP 7: Bestimmung von Mitgliedern für die Aufsichtsräte der Kommunale Immobilien Dresden GmbH & Co. KG und STESAD GmbH - Vertagung
+- TOP 8: Besetzung des Aufsichtsrates der NanoelektronikZentrumDresden GmbH und der Dresden Marketing GmbH - punktweise Zustimmung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Vertagungen der letzten Stadtratssitzung vom 15./16. Dezember 2016
+- TOP 10.1: Bebauungsplan Nr. 110.6, Dresden-Mickten Nr. 7, Wohnbebauung Sternstraße - Zustimmung
+- TOP 10.2: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 11: Konzept zur Ausrichtung des Germany Travel Mart ™ 2018 in Dresden - Zustimmung mit Änderung
+- TOP 12: Gründung einer städtischen Wohnungsbaugesellschaft GmbH & Co. KG - Vertagung
+- TOP 13: Veränderungssperre für den Bebauungsplan Nr. 357 C, Dresden-Neustadt Nr. 41, Leipziger Straße/Alexander-Puschkin-Platz - Zustimmung
+- TOP 14: Gebietsbezogene Integrierte Handlungskonzepte (GIHK) ESF 2014 bis 2020 - Zustimmung
+- TOP 15: Einsatz von EFRE-Fördermitteln zur Realisierung der Fernwärmetrasse Dresden Pieschen mit Dükerung der Elbe - Zustimmung
+- TOP 16: Unterstützung der Einrichtung eines Schulversuches der Stadt Dresden in Kooperation mit der TU Dresden als Modellversuch zum Schuljahr 2018/19 - Zustimmung mit Änderung
+- TOP 17: Entschädigungssatzung - Ersetzung
+- TOP 18: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden zur Rechtsstellung und Finanzierung der Fraktionen des Dresdner Stadtrates (Fraktionsrechtsstellungssatzung) vom 28. Oktober 2010 - Ersetzung
+- TOP 19: Abbau und Einlagerung des "Pinguin-Cafés" - Zustimmung mit Ergänzung
+- TOP 20: Baudenkmalpflegerische Bewertung von Bauten der Moderne aus den sechziger/siebziger Jahren in der Lingnerstadt - Vertagung
+- TOP 21: Kulturdenkmal „Sachsenbad“ erhalten! Handlungsempfehlungen für eine zukunftsfähige und denkmalverträgliche Nutzung erarbeiten - Zustimmung mit Änderung
+- TOP 23: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden Wahlkreis 5 - Mandat DIE LINKE (DIE LINKE) - Zustimmung
