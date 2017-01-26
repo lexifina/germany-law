@@ -1,0 +1,8 @@
+# TOP -: Die Stellungnahme der Verwaltung liegt vor.
+
+- Sitzung: 23. Sitzung der Bezirksvertretung Chorweiler (2017-01-26)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/220390
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/102705
