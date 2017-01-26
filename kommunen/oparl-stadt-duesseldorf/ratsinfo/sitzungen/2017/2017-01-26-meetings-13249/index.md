@@ -1,0 +1,73 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-01-26T17:00:00+01:00
+- Ende: 2017-01-26T19:00:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13249
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13249
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284224.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284224.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284224.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2017 - mehrheitlich beschlossen
+- TOP 7: Elektromobilität im Stadtbezirk 8 - beantwortet
+- TOP 8: Jugendtreff Hasseler Richtweg - beantwortet
+- TOP 9: Bürgerhaus Eller - beantwortet
+- TOP 10: Skaterpark Eller - beantwortet
+- TOP 11: Bahnübergänge Am Hackenbruch und Kamper Weg - beantwortet
+- TOP 12: Ausstattung Rathaus Eller - beantwortet
+- TOP 13: Verkehrssituation Gubener Straße / Höherhofstraße - beantwortet
+- TOP 14: Elektromobilität im Stadtbezirk 8 - beantwortet
+- TOP 15: Lichtmasterplan 2 im Stadtbezirk 8 - beantwortet
+- TOP 16: Haltestellen-Displays im Stadtbezirk 8 - beantwortet
+- TOP 17: Straßenkategorisierung im Stadtbezirk 8 - beantwortet
+- TOP 18: Unterflurcontainer Schlesische Straße - beantwortet
+- TOP 19: GHS Bernburger Straße - beantwortet
+- TOP 20: Auswirkungen der Sportlärmschutzverordnung im Stadtbezirk 8 - beantwortet
+- TOP 21: Grundstück Ellerkirchstraße 57 - beantwortet
+- TOP 22: Jugendfreizeiteinrichtungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 23: Hinweisschilder Unterbacher See - einstimmig beschlossen
+- TOP 24: 2. Kunstrasenplatz BSA Vennhauser Allee 129 - zurückgezogen
+- TOP 25: Plakatwände Unterführung Vennhauser Allee - einstimmig beschlossen
+- TOP 26: Grundstück Reichenbacher Weg - einstimmig beschlossen
+- TOP 27: Einzelhandel auf der Gumbertstraße - einstimmig beschlossen
+- TOP 28: Fahrradabstellanlagen S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 29: Baumaßnahmen im Eller Zentrum - zur Kenntnis genommen
+- TOP 30: Kreuzung Bernburger Straße / Heidelberger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 31: Bebauungsplan Eichenwand - zur Kenntnis genommen
+- TOP 32: Parkregelung Neusalzer Weg - zur Kenntnis genommen
+- TOP 33: Tempo 30 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Fahrbahnmarkierungen Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 35: Hundeauslaufplatz Ellerkirchstraße - zur Kenntnis genommen
+- TOP 36: Spielwiese Kamper Weg 243a - zur Kenntnis genommen
+- TOP 37: Bauvorhaben Freiheitstraße 78 - zur Kenntnis genommen
+- TOP 38: Bordsteinabsenkung Arnstadter Weg / Meininger Weg - zur Kenntnis genommen
+- TOP 39: Öffentliche Bekanntmachungen - zur Kenntnis genommen
+- TOP 40: Bürgersteig Klein-Eller / Ellerbittweg - zur Kenntnis genommen
+- TOP 41: Bushaltestelle "Strandbad Nord" - zur Kenntnis genommen
+- TOP 42: Hinweistafeln im Schlosspark Eller - zur Kenntnis genommen
+- TOP 43: Kinderspielplatz Gerresheimer Landstraße 91 - zur Kenntnis genommen
+- TOP 44: Haltestellen-Displays im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Ortsumgehung Gerresheim - zur Kenntnis genommen
+- TOP 46: Baumfällungen Südliche Düssel - zur Kenntnis genommen
+- TOP 47: Querungshilfe Eller Kamp - zur Kenntnis genommen
+- TOP 48: Gehweg Gerresheimer Landstraße / Millrather Weg - zur Kenntnis genommen
+- TOP 49: Lichtmasterplan 2 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Flüchtlingsunterkunft Am Straußenkreuz 116 - zur Kenntnis genommen
+- TOP 51: Skaterpark Eller - zur Kenntnis genommen
+- TOP 52: Bürgerhaus Eller - zur Kenntnis genommen
+- TOP 53: Unterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 54: Auswirkung der Sportanlagenlärmschutzverordnung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 55: Sportanlage Vennhauser Allee 256a - zur Kenntnis genommen
+- TOP 56: Tagesordnungspunkt (betrifft Privatpersonen)
