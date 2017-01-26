@@ -1,0 +1,86 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-01-26T18:00:00+01:00
+- Ende: 2017-01-26T20:35:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1692
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1692
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.2: SPD
+- TOP 2.2.1: Schotterparkplätze (Antrag Nr. 14/17) - einstimmig
+- TOP 2.2.2: Verkehrsspiegel (Antrag Nr. 15/17) - einstimmig
+- TOP 2.3: UWG
+- TOP 2.4: FDP
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.5.1: Versetzung eines Parkverbotsschildes auf der Talstraße (Antrag Nr. 5/17) - einstimmig
+- TOP 2.5.2: Aktuelle Situation der Regionalbahn RB38 (Antrag Nr. 12/17) - einstimmig
+- TOP 2.6: ABG
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.7.1: Prüfauftrag Verlagerung des Schützenplatzes auf das Gelände Baubetriebshofes (Antrag Nr. 10/17) - einstimmig
+- TOP 2.8: Die Linke/Piraten
+- TOP 2.9: FBG
+- TOP 2.10: Gemeinschaftsanträge
+- TOP 2.10.1: Wassertransportleitung von Zons in das "Rest Loch Garzweiler 2" (Antrag Nr. 6/17) - einstimmig
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Zuwendungen Fitness-Studio für Asylbewerber (Anfrage-Nr. 1/17) - Kenntnisnahme
+- TOP 3.3.2: Instandsetzung der Bahnsteige in Gustorf (Anfrage-Nr. 2/17) - Kenntnisnahme
+- TOP 3.3.3: Externe Gutachten im Jahr 2016 (Anfrage-Nr. 3/17) - Kenntnisnahme
+- TOP 3.3.4: Kein Platz für neue Gewerbetreibende und Planungsstopp des Gewerbegebietes (Anfrage-Nr. 4/17) - Kenntnisnahme
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Beantragung von Landesmittel aus der "Strukturhilfe für Kohlerückzugsgebiete" (Anfrage Nr. 13/17) - Kenntnisnahme
+- TOP 3.5.2: Ziel- Quellverkehr für Kapellen und Wevelinghoven (Anfrage Nr. 328/16) - Kenntnisnahme
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Werbebanner/-tafeln im Bereich Kaplan-Hahn-/Bahnstraße (Anfrage Nr. 7/17) - Kenntnisnahme
+- TOP 3.7.2: Starkregenereignis am 07.06.2016 (Anfrage Nr. 8/17) - Kenntnisnahme
+- TOP 3.7.3: IG-Ost (Anfrage Nr. 9/17) - Kenntnisnahme
+- TOP 3.7.4: Gewerbegebiet Neurath (Anfrage Nr. 11/17) - Kenntnisnahme
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Flüchtlings- und Integrationsangelegenheiten
+- TOP 7: Änderung der Hauptsatzung der Stadt Grevenbroich - einstimmig
+- TOP 8: Geschäftskreise der Beigeordneten - einstimmig
+- TOP 9: Wiederwahl einer Schiedsperson - einstimmig
+- TOP 10: Konzept zur Personalkostenreduzierung - Kenntnisnahme
+- TOP 11: Feuerwehr
+- TOP 12: Beratungspunkte aus der Sitzung des Betriebsausschusses vom 15.11.2016
+- TOP 12.1: JA Eigenbetrieb 2015 - einstimmig
+- TOP 13: Entscheidung PlanungsA
+- TOP 13.1: 10.Änd. G 158 Satzungsbeschluss - einstimmig
+- TOP 14: RPA
+- TOP 14.1: Feststellung des Jahresabschlusses 2015 - einstimmig
+- TOP 15: Beantwortung Anträge
+- TOP 15.1: Beteiligung Grünplanung im Stadtgebiet (Antrag Nr. 324/16) - Kenntnisnahme
+- TOP 15.2: Beantwortung von Anträgen und Anfragen - hier: Sammelbeantwortung - Kenntnisnahme
+- TOP 16: Beantwortung Anfragen
+- TOP 16.1: Nitratbelastung (Anfrage Nr. 253/16) - Kenntnisnahme
+- TOP 16.2: Bürgerbüro (Antrag Nr. 259/16) - Kenntnisnahme
+- TOP 16.3: Ansiedlungsdichte von Wettbüros (Anfrage Nr. 321/16) - Kenntnisnahme
+- TOP 17: mündliche Anträge/Anfragen
+- TOP 17.1: Besuch von Vertretern der Partnerstadt Peel en Maas (Anfrage Nr. 17/17)
+- TOP 17.2: Streifen auf der Karl-Oberbach-Straße (Anfrage Nr. 18/17)
+- TOP 17.3: Straßenschäden Am Hofbuschweg (Anfrage Nr. 19/17)
+- TOP 17.4: Lehrschwimmbecken Neurath (Anfrage Nr. 20/17)
+- TOP 17.5: Grundstück ehemaliges Wellenfreibad (Anfrage Nr. 21/17)
+- TOP 17.6: Anwohnerparkausweise (Anfrage Nr. 22/17)
+- TOP 17.7: Windräder auf der Vollrather Höhe (Anfrage Nr. 23/17)
+- TOP 17.8: Kehrmaschine in Neurath (Anfrage Nr. 24/17)
+- TOP 17.9: Ratsvorlage in Papierform abbestellen (Anfrage Nr. 25/17)
+- TOP 17.10: Straßenschäden in der Montanusstraße (Anfrage Nr. 26/17)
+- TOP 17.11: Erinnerung an Beantwortung der Anfrage Nr. 254/16
+- TOP 18: Mitteilungen BM
