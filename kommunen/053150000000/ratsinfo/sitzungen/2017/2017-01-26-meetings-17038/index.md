@@ -1,0 +1,77 @@
+# 23. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-26T17:00:00+01:00
+- Ende: 2017-01-26T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17038
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17038
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Kinderspielplatz Gustorfer Weg Ecke Stallagsweg - Kenntnis genommen
+- TOP 7.1.2: Widerrechtliche Nutzungen von Grünflächen im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.3: Einziehung eines Fußweges in Seeberg-Süd - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstandsanfrage; Auftrag an die Stadt Köln auf Anlegung eines Zebrastreifens an dem Fußgängerüberweg Liverpooler Platz - in Höhe der Glascontainer / Richtung Cafe Olko aus 2014 - AN/1480/2014 Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Die Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.2: Kinderspielplatz Giershausener Weg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Straßenbeleuchtung des Fußgängerweges Am Baggerfeld: zwischen Donatusstraße und Frohnhofstraße Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Mehr Verkehrssicherheit an der Toni-Welter-Str. /Anna-Langohr.-Weg in Volkhoven Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Heizkraftwerk Merkenich Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.6: LKW-Parken auf der Autobahnbrücke Volkhovenerweg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Reinigungsintervalle in Parkanlagen im Bezirk Chorweiler - Kenntnis genommen
+- TOP 8.1.2: Bushaltestelle Unnauer Weg - geändert beschlossen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: LKW Zufahrtsverbot für die Causemannstr. in Köln-Merkenich Interfraktioneller Antrag der CDU-Fraktion und der Fraktion Bündnis`90 / Die Grünen - geändert beschlossen
+- TOP -: Die Stellungnahme der Verwaltung liegt vor. - zurückgestellt
+- TOP 8.3.2: Erneuerung des Fußweges Akeleiweg in Köln-Seeberg Antrag der Fraktion Bündnis`90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.3: Erneuerung der Fahrbahn Weilerweg in Volkhoven-Weiler, Köln Antrag der Fraktion Bündnis`90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.4: Keine Verlagerung des städtischen Großmarkts nach Lindweiler/Volkhoven/Weiler! Dringlichkeitsantrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Soziale Stadt Köln-Chorweiler Hier: Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds Chorweiler-Mitte - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 9.2.2: Gestaltungsplanung für die Erweiterung des Kooperationsgräberfeldes auf dem Friedhof Esch - ungeändert beschlossen
+- TOP 9.2.3: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke hier: Überarbeitung des Kriterienkataloges - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Prinzenempfang 17.02.2017 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 10.2.2: Planfeststellungsbeschluss zum Ausbau der BAB 1 zwischen der Anschlussstelle Köln-Niehl und dem Autobahnkreuz Leverkusen-West einschließlich Neubau der Rheinbrücke Leverkusen - Kenntnis genommen
+- TOP 10.2.3: Baumfällungen 2016 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.4: Elfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 10.2.6: Verkehrsauswirkungen auf die für den Lkw-Verkehr gesperrten Leverkusener Autobahnbrücke - zurückgestellt
+- TOP 10.2.7: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler Ausschreibungsergebnis zum Projekt "Evaluation des Integrierten Handlungskonzeptes Lindweiler" - Kenntnis genommen
+- TOP 10.2.8: "Starke Veedel - Starkes Köln" Bürgerbeteiligung im Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" am 30.11.2016 - zurückgestellt
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Verkehrssituation in der Göteborgstraße - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
