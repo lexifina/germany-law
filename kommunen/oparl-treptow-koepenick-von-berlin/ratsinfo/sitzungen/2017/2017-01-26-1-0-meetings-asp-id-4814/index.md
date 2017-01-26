@@ -1,0 +1,100 @@
+# 4. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2017-01-26T16:30:00+01:00
+- Ende: 2017-01-26T21:55:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4814
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4814
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=256326
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-02 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Standort ehemaliges Zwangsarbeiterlager kenntlich machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Computerwartung an Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Kuratorium für die Gedenkstätte Köpenicker Blutwoche - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Gemeinschaftsschule im Entwicklungsgebiet Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Einrichtung einer Kontaktbörse zur Absicherung der haus- und fachärztlichen Versorgung im Bezirk Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Erhalt Wasserwerk Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Global denken – lokal handeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Gedenkorte bekannter machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.4: Entwicklungskonzept ÖPNV - WISTA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Regionalbahnhof Köpenick - überwiesen
+- TOP 7.2.6: Aufwertung Umfeld Bürgerhaus Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.7: Schulobst ermöglichen - überwiesen
+- TOP 7.2.8: Verbesserung der Anbindung des Stadions an der Alten Försterei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.9: Dauerhafte Lösung für Teltowkanal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.10: Ausstellung in der Gedenkstätte Köpenicker Blutwoche bewerben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.11: Barrierefreier Schulstandort an den Püttbergen - überwiesen
+- TOP 7.2.12: Schutzvorrichtungen an Treptow-Köpenicker Brücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.15: Sondermittel für die Blasmusikfreunde Köpenick e. V. (SM 15-09) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.16: Sondermittel für das Schlossplatztheater / c/o Alte Möbelfabrik e. V. (SM 15-26) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.17: Kontrollen der ausgeführten Straßenbauarbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.18: Ergänzung der aktuellen Investitionsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.20: Sondermittel für den Verein Das fünfte Rad e. V. (SM 16-06) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.21: Besucher des Deutschen Evangelischen Kirchentags unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.22: Sondermittel für den Verein Mengerzeile e. V. (SM 16-23) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.23: Sondermittel für die SHG "Multiple Sklerose" (SM 16-28) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.24: Grab der Eheleute Ratsch erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.25: Sondermittel für Dr. Kurt Wernicke, Heinrich Langmaack, Andreas Hempel (SM 16-31) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.26: Parken Straße An der Wuhlheide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.27: Sondermittel für das Rabenhaus e. V. (SM 16-40) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl einer / eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss (Stichwahl) - gewählt
+- TOP 8.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 8.3: Berufung beratender und stellvertretender beratender Mitglieder des Jugendhilfeausschusses - gewählt
+- TOP 8.4: Berufung weiterer beratender und stellvertretender beratender Mitglieder des Jugendhilfeausschusses - gewählt
+- TOP 8.5: Wahl einer/s Bezirksverordneten als stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8.6: Wahl einer/s Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8.7: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 6 - vertagt
+- TOP 8.8: Wahl der Kiezpatinnen und Kiezpaten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Sanierung der Regattatribünen in Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Versorgung wohnungsloser Menschen in Treptow-Köpenick - vertagt
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Beschluss über die Fortschreibung der Sanierungsziele im förmlich festgelegten Sanierungsgebiet Treptow-Niederschöneweide - überwiesen
+- TOP 11.2: Sondermittel für den Behinderten-Sportverein Köpenick e. V. (SM 17-01) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Sicherung und Nutzung des ehemaligen Bärenquell-Geländes - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Keine Parkplatzwüste am Rand der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Asylbewerber/innen und Flüchtlinge dezentral verteilt über die Ortsteile unterbringen und damit einhergehend Sporthallen im Bezirk freiziehen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Geflüchtete Menschen aus der Notunterkunft in der Glienicker Straße in ihrem sozialen Umfeld belassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Ergänzung Schulentwicklungsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Ampel Fürstenwalder Damm / Aßmannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Illegale Autorennen unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Einrichtung einer Bushaltestelle - mit Änderungen in der BVV beschlossen
+- TOP 12.9: Lichtsignalanlage an der Kreuzung Wilhelminenhofstraße / Rathenaustraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Begleitantrag zum Bezirkshaushaltsplan 2014/2015 - Weiterbildung und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Neueinrichtung der Abteilung G II (Urnenstelen) auf dem städtischen Friedhof Grünau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Neueinrichtung der Abteilung G II 8 (Urnenstelen) auf dem städtischen Friedhof Oberschöneweide - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Benennung des künftigen Straßenabschnittes der Süd-Ost-Verbindung zwischen Rummelsburger Straße und der Köpenicker Landstraße in Minna-Todenhagen-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Neueinrichtung der Abteilung M III (Urnenstelen) auf dem städtischen Friedhof Rahnsdorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Nahverkehrsanbindung des Flughafens Schönefeld - überwiesen
+- TOP 14.2: Park am Altglienicker Straßenbahndepot - überwiesen
+- TOP 14.3: Rekonstruktion der ursprünglichen keramischen Fassadenverkleidung am Alexander-von-Humboldt-Gymnasium - überwiesen
+- TOP 14.4: Mehr Integrationslotsinnen und Integrationslotsen für Treptow-Köpenick - überwiesen
+- TOP 14.5: Würdigung 150. Geburtstag Dr. Walther Rathenau - überwiesen
+- TOP 14.6: FEIN-Mittel für die Köllnische Vorstadt - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Steganlagenkonzeption - überwiesen
+- TOP 14.8: Schulwegpläne - Radschulwegpläne - überwiesen
+- TOP 14.9: Informationsveranstaltung zur Schutzgebietsausweisung Müggelsee - überwiesen
+- TOP 14.10: Namensgebung der Straßenbrücke über die Edisonstraße in Oberschöneweide - überwiesen
+- TOP 15: Große Anfragen - (offen)
