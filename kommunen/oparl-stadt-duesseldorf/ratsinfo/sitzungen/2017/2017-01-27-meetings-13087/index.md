@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-01-27T14:00:00+01:00
+- Ende: 2017-01-27T18:10:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13087
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13087
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284239.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284239.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284239.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 10/2016 vom 09.12.2016 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 08/2016 über die gemeinsame Sitzung des APS und der Bezirksvertretung 1 vom 02.11.2016 - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 5: Nutzungsänderung des Musikpavillions - zur Kenntnis genommen
+- TOP 6: Bäume Bolkerstraße - zur Kenntnis genommen
+- TOP 7: Nutzung der Gehwege auf der Nordstraße - zur Kenntnis genommen
+- TOP 8: Leuchtbänke im Hofgarten - zur Kenntnis genommen
+- TOP 9: Errichtung von Hotels im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 10: Neugestaltung Mühlenstraße
+- TOP 11: Leerstand des Hauses Augustastraße 35 - zur Kenntnis genommen
+- TOP 12: "Quartierswerkstatt" - zur Kenntnis genommen
+- TOP 13: FNP Nr. 120 Öffentlichkeitsbeteiligung Behördenbeteiligung Öffentliche Auslegung. - einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Sanierung Schumannhaus Bilker Straße 15 - einstimmig beschlossen
+- TOP 16: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2017
+- TOP 17: Veranstaltungen Burgplatz - Jahresprogramm 2017 - einstimmig beschlossen
+- TOP 18: HSD Zuschussantrag Photo Weekend - einstimmig beschlossen
+- TOP 19: Berichtswesen Bezirksvertretung 1 - zur Kenntnis genommen
+- TOP 20: Erhalt des Hohe-Straße-Festes - zurückgezogen
+- TOP 21: Unterstützung der Ausstattung weiterer Haltestellen mit Dynamischen Fahrgastinformationen - zurückgezogen
+- TOP 22: Unterstützung der Ausstattung weiterer Haltestellen mit Dyfa - einstimmig beschlossen
+- TOP 23: Fußweg am Derendorfer S-Bahnhof - einstimmig beschlossen
+- TOP 24: Fahrradfreundliche Nordstraße - mehrheitlich beschlossen
+- TOP 25: Gedenkstele auf der Mühlenstraße - einstimmig beschlossen
+- TOP 26: Stele auf dem ehemaligen Güterbahnhof - einstimmig beschlossen
+- TOP 27: Erinnerungspfad und Broschüre "Alter Güterbahnhof" - einstimmig beschlossen
+- TOP 28: Garten-, Rosen-, Mozart-, Tauben- und Feldstraße: Tempo-30-Bodenmarkierungen - einstimmig beschlossen
+- TOP 29: Vorstellung des Ausschreibungsergebnisses zu "En de Canon" - einstimmig beschlossen
+- TOP 30: Eisbahn auf dem Corneliusplatz - einstimmig beschlossen
+- TOP 31: Sicherstellung ausreichender Straßenbeleuchtung auf der Becherstraße - mehrheitlich beschlossen
+- TOP 32: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
