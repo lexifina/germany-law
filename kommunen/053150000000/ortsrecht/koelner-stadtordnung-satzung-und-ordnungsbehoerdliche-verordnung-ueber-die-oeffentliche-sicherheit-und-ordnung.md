@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
 - Datum: 2017-01-29 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/gruenflaechenordnung_in_der_koelner_stadtordnung_20170129.pdf
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/koelner_stadtordnung_20170129.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -135,6 +135,7 @@ a) bestimmte Formen des Bettelns • aggressives Betteln oder aggressive Verkauf
 b) wiederkehrende Ansammlungen von Personen, von denen Störungen ausgehen, wie z. B. Verunreinigungen oder Belästigungen von Passanten,
 c) Störungen in Verbindung mit Alkohol- oder Drogenkonsum (z. B. Verunreinigungen, Grölen, Belästigung von Personen, Gefährdung Anderer durch Herumliegenlassen von Flaschen) und
 d) Verrichten der Notdurft. (2) Zelten oder Nächtigen ist in öffentlichen Grünflächen und auf Spiel- und Bolzplätzen untersagt. Im übrigen Geltungsbereich dieser Verordnung nach § 1 ist es verboten, zu lagern oder einen Schlafplatz einzurichten oder zu nutzen. § 11a Alkohol- und Drogenkonsum in unmittelbarer Umgebung von
+
 Kindergärten und Schulen
  Im unmittelbaren Eingangsbereich von Kindergärten und Schulen ist das Konsumieren von Alkohol und/oder Drogen im öffentlichen Raum verboten.
 Seite 7/17
@@ -153,7 +154,8 @@ Seite 8/17
 § 19 Taubenfütterungsverbot (1) Verwilderte Haustauben und Wildtauben dürfen im Gebiet der Stadt Köln nicht gefüttert werden. Als Füttern im Sinne von Satz 1 gilt auch das Auslegen oder Anbieten von Futter in sonstiger Weise. Futter für andere Tiere ist so auszulegen, dass es von verwilderten Haustauben und Wildtauben nicht erreicht werden kann. (2) Absatz 1 gilt nicht für Futterplätze, die von der Stadt Köln bzw. im Einverständnis mit der Stadt Köln eingerichtet wurden.
 § 20 Fütterungsverbot von Wasservögeln und Fischen Wasservögel und Fische dürfen an öffentlichen Gewässern, insbesondere an Teichen, Weihern und Kiesgrubengewässern, nicht gefüttert werden. Als Füttern im Sinne von Satz 1 gilt auch das Auslegen oder Anbieten von Futter in sonstiger Weise.
 IV.Schutz der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen
-§ 21 Beschädigung der Verkehrsflächen, öffentlichen Anlagen und Einrichtungen
+§ 21 Beschädigung der Verkehrsflächen, öffentlichen Anlagen und
+ Einrichtungen
 
 (1) Jegliche Beschädigung von Verkehrsflächen, öffentlichen Anlagen und Einrichtungen im Sinne dieser Verordnung ist verboten. (2) Die öffentlichen Anlagen dürfen nur so genutzt werden, wie es sich aus der Natur der einzelnen Anlage und ihrer Zweckbestimmung ergibt. Die Benutzung muss schonend erfolgen, so dass Flora, Fauna oder die Ausstattungen nicht beschädigt, beschmutzt oder anderweitig beeinträchtigt werden.
 § 22 Fahrzeuge Das Fahren, das Parken, das Mitführen oder Abstellen von Kraftfahrzeugen, Fahrzeugen und Anhängern
