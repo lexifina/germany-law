@@ -1,0 +1,7 @@
+# TOP 16: Pflasterung Walder Kirchplatz
+
+- Sitzung: Bezirksvertretung Wald (17. Sitzung) (2017-01-30)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/10320
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/2602
