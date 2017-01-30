@@ -1,0 +1,74 @@
+# 21. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-30T17:00:00+01:00
+- Ende: 2017-01-30T20:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17094
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17094
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597451.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597451.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597451.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Bauvorhaben auf dem Woolworth-Gelände in Köln-Ehrenfeld (Az.: 02-1600-193/16) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme eines Kunstrasenkleinspielfeldes als Spende der Lukas-Podolski-Stiftung auf der Bezirkssportanlage Bocklemünd, Heinrich-Rohlmann-Straße in Köln-Ossendorf - ungeändert beschlossen
+- TOP 5.2: Annahme einer Spende - für die Einrichtung und Ausstattung des Familienhauses „Familie im Zentrum – FIZ“ in Bocklemünd-Mengenich - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Einhaltung des Fahrplans der Buslinie 140 - Kenntnis genommen
+- TOP 6.1.1: Einhaltung des Fahrplans der Buslinie 140 TOP 7.3 am 12.09.2016, AN/1367/2016 - Kenntnis genommen
+- TOP 6.2: Metropolregion - Kenntnis genommen
+- TOP 6.2.1: Metropolregion - Kenntnis genommen
+- TOP 6.3: Neuaufstellung des Regionalplanes – Wohnen und Arbeiten in Ehrenfeld - Kenntnis genommen
+- TOP 6.3.1: Neuaufstellung des Regionalplans - Wohnen und Arbeiten in Ehrenfeld - Kenntnis genommen
+- TOP 6.4: Bauvorhaben Venloer Str 310-316, Philippstr. 9, Hansemannstr. 4-12 - zurückgestellt
+- TOP 6.5: Denkmalwert Gebäude aus dem Jahr 1879 Alpenerstraße 4-6 - Kenntnis genommen
+- TOP 6.5.1: Wohnungsbauoffensive - Kenntnis genommen
+- TOP 6.6: Verlängerung Linie 4 nach Widdersdor - Kenntnis genommen
+- TOP 6.6.1: Verlängerung Linie 4 nach Widdersdorf - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Kommunizieren von Mailzusätzen (bzw. Apps) und Services in der Mailkommunikation von Kölner Mandatsträgern - Kenntnis genommen
+- TOP 7.1.1: Beantwortung der Anfrage der FDP-/Piratenfraktion in der Bezirksvertretung Ehrenfeld AN/0037/2017 - Kenntnis genommen
+- TOP 7.2: Parkraumuntersuchung für Ehrenfeld - Kenntnis genommen
+- TOP 7.3: Markierungsarbeiten Heliosstraße - zurückgestellt
+- TOP 7.4: Bauvorhaben Weinsbergstr./Eisen- bzw. Ölstr. - zurückgestellt
+- TOP 7.5: Bauvorhaben Venloer Straße 525, 525a - zurückgestellt
+- TOP 7.6: Bauarbeiten auf dem Maarweg - zurückgestellt
+- TOP 7.7: Still und starr ruht der Bau? - zurückgestellt
+- TOP 7.8: Recht auf Bildung ermöglicht? - zurückgestellt
+- TOP 7.9: Bezirkssportanlage Ehrenfeld - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Nachpflanzung von Bäumen auf öffentlichem Grund - ungeändert beschlossen
+- TOP 8.2: Rochusplatz, Venloerstraße in Bickendorf - geändert beschlossen
+- TOP 8.3: ÖPNV-Anbindung von Widdersdorf und Pulheim-Brauweiler über die Stadtbahnlinie 4 - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Vergabe der bezirksorientierten Mittel 2016 - ungeändert beschlossen
+- TOP 9.2: Sonderprogramm NRW "Hilfen im Städtebau zur Integration von Flüchtlingen" - Anträge 8 - 12 zum Verfügungsfonds - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: DE Kostenerhöhungsbeschluss Ersatzhalle Bocklemünd - ungeändert beschlossen
+- TOP 10.2: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - ungeändert beschlossen
+- TOP 10.3: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Änderungen zum Fahrplanwechsel 2016 - Kenntnis genommen
+- TOP 12.2: Neuaufstellung des Regionalplans - Kenntnis genommen
+- TOP 12.3: Baumfällungen 2016 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.4: Fertiggestellte Baumaßnahmen auf öffentlichen Spiel- und Bolzplätzen im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.5: Fußgängerüberweg in der Heliosstraße - Kenntnis genommen
+- TOP 12.6: Kreuzung Venloer Straße/Rath Mengenicher Weg (Auf dem Paulsacker) - Kenntnis genommen
+- TOP 12.7: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 12.8: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 12.9: Bauvorhaben Venloer Straße 310-316 mit Lkw-Anlieferung in der Philippstraße - Kenntnis genommen
+- TOP 12.10: 63469/07; Ehemaliger Güterbahnhof in Köln-Ehrenfeld; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 13: mündliche Anfragen
+- TOP 13.1: Umbau der Vogelsanger Straße - Kenntnis genommen
+- TOP 13.2: Tagesordnungspunkt (betrifft Privatpersonen)
