@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-30T16:00:00+01:00
+- Ende: 2017-01-30T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16800
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16800
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597666.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597666.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00597666.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau; TOP 1.3 - Kenntnis genommen
+- TOP 1.4: Vorstellung einer neuen Schulrätin
+- TOP 1.5: Film "talentCAMpus" - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Partizipation von Kinder und Jugendlichen stärken - Arbeit der Bezriksschüler*innenvertretung und der Schüler*innenvertretungen sicherstellen - ungeändert beschlossen
+- TOP 2.2: Fensterreinigung an Schulen - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Wirkliche Nutzung der Onlineangebote der Stadt Köln im Rahmen des „Konzepts zu einer ganzheitlichen technischen Schul-IT an Kölner Schulen" - zu Anfrage AN/1960/2016 - Kenntnis genommen
+- TOP 3.1.2: Generalsanierung Georg-Büchner-Gymnasium - Kenntnis genommen
+- TOP 3.1.3: Schulbau Montessori-Schule (Ehemaliges Gelände Nippes-Bad und Bildungslandschaft Riehl) - Kenntnis genommen
+- TOP 3.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.5: Beantwortung der Anfrage der SPD-Fraktion (DS Nr. AN/1866/2016) zum Thema "Pool-Lösungen für schulische Integrationshilfen" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.6: Anfrage der Piratengruppe "KidS - Kommunalpolitik in die Schule " - auch was für Köln? - Kenntnis genommen
+- TOP 3.1.7: Träger und Beschäftigte im Offenen Ganztag an Kölner Schulen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Leerstand nutzen: Schulräume statt Leerräume?
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Errichtung eines Mensa-Neubaus in modularer Bauweise für die Gemeinschaftsgrundschule Lochnerstr. 13-15, 50674 Köln - ungeändert beschlossen
+- TOP 4.2: Koordination multiprofessionelle Teams und Gruppenleitung Schulsozialarbeit - ungeändert beschlossen
+- TOP 4.3: 6. Satzung zur Änderung der Gebührensatzung für die Rheinische Musikschule - ungeändert beschlossen
+- TOP 4.4: Auflösende Schließung der Förderschule Lernen Finkenberg-Schule ab dem Schuljahr 2017/18 - ungeändert beschlossen
+- TOP 4.5: Zügigkeitserweiterung des Deutzer Gymnasiums, Schaurtestraße 1 in Köln-Deutz zum Schuljahr 2017/18 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.6: Beschluss über die kommunale Klassenrichtzahl und somit die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen für das Schuljahr 17/18 - ungeändert beschlossen
+- TOP 4.7: Baubeschluss: Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Turnhalle am Standort des ehemaligen "Nippesbad", Friedrich-Karl-Str. / Ecke Niehler Kirchweg, 50733 Köln-Nippes, in Modulbauweise - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Schulentwicklungsplanung im Dialog - Übersicht über die Rückmeldungen von Bezirksvertretungen und Schulen zur "Aktualisierung der Schulentwicklungsplanung Köln 2016" sowie Stellungnahme der Verwaltung
+- TOP -: Aktualisierung der Schulentwicklungsplanung Köln 2016 - Maßnahmen zur bedarfsgerechten Weiterentwicklung der Kölner Schullandschaft allgemein bildender Schulen bis 2025 - Kenntnis genommen
+- TOP 5.2: Übertragung Schulschwimmbäder - Kenntnis genommen
+- TOP 5.3: Sachstand Notfalltopf - Kenntnis genommen
+- TOP 5.4: Einrichtung einer Sport-Profilklasse an der Heinrich-Böll-Gesamtschule - Kenntnis genommen
+- TOP 5.5: Neues Programm der Volkshochschule Köln - Kenntnis genommen
+- TOP 5.6: Digital Schools Cologne - Lehren und Lernen mit digitalen Medien - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.7: Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 5.8: Erster Bericht der Abteilung Regionale Bildungslandschaft im Amt für Schulentwicklung - Kenntnis genommen
+- TOP 5.9: Aktueller Stand im MOQI-Projekt zur Motivation, Qualifikation und Integration für Jugendliche und junge Erwachsene - Kenntnis genommen
+- TOP 5.10: Aktuelle Situation der Beschulung neu zugewanderter Kinder und Jugendliche - Kenntnis genommen
+- TOP 5.11: Pilotversuch „Verfahren zur Übertragung der Entscheidungskompetenz über die Verwendung von Mitteln des Schulträgers auf die Schulleitungen der Modellschulen"; Beendigung des Pilotversuches zum 31.12.2016 - zurückgestellt
+- TOP 5.12: Besserer Zugang zu öff. Bildungseinrichtungen für geflüchtete Kinder, Jugendliche und junge Erwachsene - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
