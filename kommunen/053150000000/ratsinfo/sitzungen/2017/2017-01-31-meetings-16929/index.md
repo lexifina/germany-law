@@ -1,0 +1,61 @@
+# 23. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-31T16:07:00+01:00
+- Ende: 2017-01-31T17:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16929
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16929
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines sachkundigen Einwohners
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Umgestaltung des Ebertplatzes - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Offenlage der Planungsunterlagen zum Niehler Gürtel - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Verkehrsbelastung im Stadtbezirk Mülheim senken! - zurückgestellt
+- TOP 2.1.1: Ergänzungsantrag zu TOP 2.2 "Verkehrsbelastung im Stadtbezirk Mülheim senken!" - zurückgestellt
+- TOP 2.1.2: Änderungsantrag zu TOP 2.1 der SPD "Verkehrsbelastung im Stadtbezirk Mülheim senken" - Optimierung Pendlerverkehre zwischen Köln und dem Rheinisch-Bergischen Kreis - zurückgestellt
+- TOP 2.1.3: Kölner Bevölkerung schützen – Schadstoffbelastung senken! - zurückgestellt
+- TOP 2.2: Tarifregelung zur Kurzstrecke - ungeändert beschlossen
+- TOP 2.3: Autonome Busse oder U-Bahnen – Prüfung von Pilotprojekten für Köln - geändert beschlossen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: Tunnel Grenzstraße, hier: Bedarfsfeststellung für die Installation und Aufschaltung der Leittechnik auf die Tunnelwache - ungeändert beschlossen
+- TOP 4.2: Machbarkeitsstudie für eine "Kölner Südbahn S 16" - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Satzung über die abweichende Herstellung der Erschließungsanlage Zum Neuen Kreuz von Von-Kleist-Straße bis Haus-Nr. 24 einschließlich in Köln-Widdersdorf - ungeändert empfohlen
+- TOP 5.2: Änderungsbeschluss zum Planungsbeschluss zum nachträglichen Einbau von trockenen Löschwasserleitungen in bestehende Stadtbahnanlagen (Drucksachen-Nr. 0779/001) und zum erweiterten Baubeschluss (Vorlage-Nr. 3054/2009) - ungeändert empfohlen
+- TOP 5.3: Umgestaltung des Einmündungsbereichs Sebastianstraße/Niehler Damm, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der - ungeändert empfohlen
+- TOP 5.4: 258. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 5.5: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 5.6: Programm RRX-Außenäste - ohne Votum in nachfolgende Gremien
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Fuß- und Radwegeführung bei Baustellen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: Kreuzung Venloer Straße/Rath Mengenicher Weg (Auf dem Paulsacker) - Sache ist erledigt
+- TOP 6.3: Beantwortung einer Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Verkehrsausschusses vom 08.11.2016 (AN/1801/2016) - zurückgestellt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Weiteres Vorgehen Verkehrskonzept Bayenthal/Marienburg - Kenntnis genommen
+- TOP 7.2: Sachstand und weiteres Vorgehen Verkehrskonzept Zülpicher Straße - Kenntnis genommen
+- TOP 7.3: Modellvorhaben in Köln: Förderung aktiver Mobilität in städtischen Quartieren - Kenntnis genommen
+- TOP 7.4: Umsetzung Radverkehrskonzept Innenstadt - Kenntnis genommen
+- TOP 7.5: Planfeststellungsbeschluss zum Ausbau der BAB 1 zwischen der Anschlussstelle Köln-Niehl und dem Autobahnkreuz Leverkusen-West einschließlich Neubau der Rheinbrücke Leverkusen - Kenntnis genommen
+- TOP 7.6: Verkehrsauswirkungen auf die für den Lkw-Verkehr gesperrten Leverkusener Autobahnbrücke - Kenntnis genommen
+- TOP 7.7: Bericht der Stadt Köln gemäß Art. 7 der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 7.8: Förderung der Elektromobilität - zurückgestellt
+- TOP 7.9: Nord-Süd Stadtbahn Köln, 1. Baustufe; Berichtswesen 1. und 2. Quartal 2016 - Kenntnis genommen
+- TOP 7.10: Nord-Süd Stadtbahn Köln, 2. Baustufe; Berichtswesen 1. und 2. Quartal 2016 - Kenntnis genommen
+- TOP 7.11: Wiederinbetriebnahme von vier stationären Geschwindigkeitsmessanlagen - Kenntnis genommen
+- TOP 7.12: 3. Baustufe Nord-Süd Stadtbahn / Information zum aktuellen Sachstand - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Radschnellweg Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Vorlage "Sperrung der Gleueler Straße" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Umgestaltung der Einmündung Dürener Straße/Universitätsstraße - Sache ist erledigt
+- TOP 8.4: "Ring frei" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.5: Defekte Rolltreppen und Aufzüge - heutiger Pressebericht - Sache ist erledigt
+- TOP 8.6: Grüne Welle/Raddetekt für Radfahrer - zur weiteren Bearbeitung in die Verwaltung überwiesen
