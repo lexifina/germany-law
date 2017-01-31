@@ -1,0 +1,53 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-01-31T17:00:00+01:00
+- Ende: 2017-01-31T20:28:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13170
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13170
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284625.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284625.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284625.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 26.10.2016 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 29.11.2016 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Airport Düsseldorf - Ereignisse und Entwicklungen rund um den Flughafen - zur Kenntnis genommen
+- TOP 6: Grand Départ 2017 - Informationen über die Veranstaltung, den Planungsstand und die Einbeziehung des Stadtbezirks 5 - zur Kenntnis genommen
+- TOP 7: Plan Nr. 5488/019 - S-Bahnhof Angermund - - vertagt
+- TOP 8: Bebauungsplan-Entwurf Nr. 05/002 (eh. 5488/019) - S-Bahnhof Angermund - - vertagt
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Bezirkssportanlage Freiheitshagen 31 - Sanierung des Kunstrasenspielfelds - einstimmig beschlossen
+- TOP 12: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2017 - Empfehlung mehrheitlich beschlossen
+- TOP 13: Zukünftige Planung Grün-/Brachfläche östlich Lilienthalstraße - beantwortet
+- TOP 14: P&R-Platz in Angermund - beantwortet
+- TOP 15: Städtebauliche Entwicklung für den Stadtbezirk 5
+- TOP 16: Vogelschlag-Gutachten Flughafen Düsseldorf - beantwortet
+- TOP 17: Sicheres Linksabbiegen auf die Arnheimer Straße - beantwortet
+- TOP 18: Querungshilfe auf Höhe der Stadtbahnhaltestelle Alte Landstraße - beantwortet
+- TOP 19: Perspektiven für das Marienkrankenhaus in Kaiserswerth
+- TOP 20: Lantzallee - Optimierung der Verkehrssicherheit - beantwortet
+- TOP 21: Ausweisung von Baulücken des Stadtbezirks 5 im Baulückenkataster - beantwortet
+- TOP 22: Aufwertung der Fläche Amsterdamer Straße/Kaiserswerther Straße/Stockumer Kirchstraße
+- TOP 23: Behandlung der U79 im Nahverkehrsplan 2017
+- TOP 24: Umfeld des S-Bahnhofes Angermund - beantwortet
+- TOP 25: Verkehrskonzept Wittlaer - mehrheitlich beschlossen
+- TOP 26: Reinigung und Unterhaltung von öffentlichen Flächen im Bereich Hoppengarten und Alte Gasse - einstimmig beschlossen
+- TOP 27: Nachtflugbewegungen/Nachtflugstarts am Airport Düsseldorf - zurückgezogen
+- TOP 28: Verkehrsentlastung Lohausen durch zweitweilige Sperrung der Niederrheinstraße - mehrheitlich abgelehnt
+- TOP 29: Verkehrskonzept Bockumer Straße, Wittlaer - mehrheitlich beschlossen
+- TOP 30: Zentrumsnahe Bürgerversorgung in Kaiserswerth - einstimmig beschlossen
+- TOP 31: Verbesserung der Verkehrssicherheit Kreuzungsbereich Kaiserswerther Straße - mehrheitlich abgelehnt
+- TOP 32: Nahverkehrsplan 2017 - Taktverdichtung auf der Linie 728 - einstimmig beschlossen
+- TOP 33: Erhöhung der Verkehrssicherheit vor der Ladenzeile Stockum - mehrheitlich abgelehnt
+- TOP 34: Wiederherstellungsmaßnahmen Nordpark 2016/2017 - zur Kenntnis genommen
+- TOP 35: Stellungnahmen 31.01.2017 - zur Kenntnis genommen
+- TOP 36: Verschiedenes - zur Kenntnis genommen
