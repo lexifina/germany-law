@@ -1,0 +1,57 @@
+# 19. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-01-31T15:33:00+01:00
+- Ende: 2017-01-31T20:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16801
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16801
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00604142.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00604142.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00604142.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 3: Kulturbauten
+- TOP 3.1: Archäologische Zone/Jüdisches Museum
+- TOP 3.1.1: Gestaltung der Außenanlagen der Archäologischen Zone
+- TOP 3.1.2: Sachstandsbericht zur Archäologischen Zone - Kenntnis genommen
+- TOP 3.2: Bericht über den Neubau des Historischen Archives und des Rheinischen Bildarchives am Eifelwall - Kenntnis genommen
+- TOP 4: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 4.1: Anfrage der FDP-Fraktion zum Sachstand zum alten Rautenstrauch-Joest-Museum am Ubierring (AN/1416/2016) - Kenntnis genommen
+- TOP 4.2: Anfrage des Sachverständigen Bürgers für Denkmalschutz und Denkmalpflege Gunnar Mertens betreffend "Honorarordnung des Museumsdienstes" - Kenntnis genommen
+- TOP 4.3: Anfrage der SPD- Fraktion zum Denkmal Bahnhof Belvedere (AN/2035/2016) - Kenntnis genommen
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: Migrationsmuseum für Köln
+- TOP 5.2: Wiedereröffnung Stadtteilbibliothek Haus Balchem
+- TOP 5.3: Stärkung der Freien Tanzszene
+- TOP 5.4: Verschlankung und Beschleunigung der Fördermittel-Prozesse
+- TOP 5.5: Ausbau des Stadtgartens zum Europäischen Zentrum für Jazz und aktuelle Musik
+- TOP 6: Schriftliche Anträge
+- TOP 6.1: Bühne der Kulturen - ungeändert beschlossen
+- TOP 7: Allgemeine Vorlagen
+- TOP 7.1: Durchführung des Kunstprojektes "Casa Utopia" von HA Schult auf dem Gelände der Deutzer Werft (nördlicher Bereich zw. Deutzer Brücke und Rheinboulevard) im September 2017 - ohne Votum in nachfolgende Gremien
+- TOP 8: Sonderausstellungen
+- TOP 8.1: Genehmigung der Mittelverwendung für Sonderausstellung der Museen 2017 - ungeändert beschlossen
+- TOP 9: Annahme von Schenkungen
+- TOP 9.1: Annahme einer Spende an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 9.2: Annahme einer Schenkung an die Stadt Köln, Museum für Ostasiatische Kunst hier: Schenkung der Skulptur "Usagi Kannon II" von Leiko Ikemura mit Hilfe des Fördererkreis des Museums für Ostasiatische Kunst e. V. - ungeändert beschlossen
+- TOP 9.3: Schenkung ethnologischer Gegenstände hauptsächlich aus Thailand und Myanmar - ungeändert beschlossen
+- TOP 9.4: Schenkungsannahme für das Werk "Einsturzstelle" (Hinweisschild) des Künstlers Mischa Kuball - ungeändert beschlossen
+- TOP 10: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Bericht 2016/2017 der Stadtbibliothek Köln - Kenntnis genommen
+- TOP 11.2: Vertragsänderung Showroom Kunsthaus Rhenania - Kenntnis genommen
+- TOP 11.3: Positionsbestimmung der artothek - Kenntnis genommen
+- TOP 11.4: Förderung der Clubszene - Kenntnis genommen
+- TOP 11.5: Denkmalschutz des Römisch-Germanischen-Museums
+- TOP 11.6: Erfahrungsbericht zur Einführung der Festbetragsfinanzierung in der Kulturförderung - Kenntnis genommen
+- TOP 11.7: Termine der geplanten Szeneberichte im Ausschuss für Kunst und Kultur in 2017 - Kenntnis genommen
+- TOP 11.8: Römische Stadtmauer
+- TOP 12: Mündliche Anfragen
