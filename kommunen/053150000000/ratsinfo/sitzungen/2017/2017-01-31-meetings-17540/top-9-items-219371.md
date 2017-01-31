@@ -1,0 +1,6 @@
+# TOP 9: Einladung von Partnerstädten zum CSD
+
+- Sitzung: 11. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (2017-01-31)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/219371
