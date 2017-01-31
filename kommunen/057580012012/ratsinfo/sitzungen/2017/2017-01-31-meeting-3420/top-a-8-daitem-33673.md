@@ -1,0 +1,9 @@
+# TOP A.8: Prüfung der Auftragsvergaben im Jahr 2016
+
+- Sitzung: Rechnungsprüfungsausschuss (2. Sitzung) (2017-01-31)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/33673
+- Ergebnis: Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- Beratung: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/14800
+- Beschluss (Datei): Beschlusstext (Prüfung der Auftragsvergaben im Jahr 2016) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQqmhv9inl12LZ5VFHGi3rLWS0FGt7RSg5gnf6YzrBly/Beschlusstext_RP-9-2017_-oeffentlich-_Rechnungspruefungsausschuss_31.01.2017.pdf
