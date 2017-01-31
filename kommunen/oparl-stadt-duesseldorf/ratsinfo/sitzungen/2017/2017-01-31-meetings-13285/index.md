@@ -1,0 +1,53 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-01-31T15:00:00+01:00
+- Ende: 2017-01-31T16:20:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13285
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13285
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284811.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284811.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284811.pdf
+
+## Tagesordnung
+
+- TOP 1: TO - einstimmig beschlossen
+- TOP 2: Niederschrift - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 3.1: Anfrage der CDU-Ratsfraktion: Umsetzung des Kinder- und Jugendförderplans - zur Kenntnis genommen
+- TOP 4: Fachübergreifende Vorlagen - zur Kenntnis genommen
+- TOP 4.1: Gesamtstädtisches Integrationskonzept für die Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 4.2: Konzept zur Aufnahme, Unterbringung und Betreuung von Flüchtlingen - passieren lassen
+- TOP 4.3: Sachstandsbericht umA - Aktueller Stand - zur Kenntnis genommen
+- TOP 4.4: 16. DJHT sowie Fachtag für Erzieherinnen und Erzieher - zur Kenntnis genommen
+- TOP 4.5: Beschwerdemanagement im Jugendamt - zur Kenntnis genommen
+- TOP 4.6: Beschlusskontrolle I/2017 - zur Kenntnis genommen
+- TOP 5: Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 5.1: Projekt "Kein Kind zurücklassen!" - Aktivitätsbericht 2016 - zur Kenntnis genommen
+- TOP 5.2: Änderung des Verfahrens Bescheinigungen über Zahlung von Elternbeiträgen - zur Kenntnis genommen
+- TOP 6: Bau, Einrichtung und Instandsetzung von Kitas - zur Kenntnis genommen
+- TOP 6.1: Investitionszuschüsse an fr. Träger von Kitas - Grüner Weg 55 - einstimmig beschlossen
+- TOP 6.2: Investitionszuschüsse an fr. Träger von Kitas - Kaiserswerther Str. 73a - einstimmig beschlossen
+- TOP 6.3: Investitionszuschüsse an fr. Träger von Kitas - An der Linde 2 - einstimmig beschlossen
+- TOP 6.4: Investitionszuschüsse an fr. Träger von Kitas - Auf der Reide 2 - einstimmig beschlossen
+- TOP 6.5: Investitionszuschüsse an fr. Träger von Kitas - Aachener Str. 166 - mehrheitlich beschlossen
+- TOP 6.6: Investitionszuschüsse an fr. Träger von Kitas - Am Falder 37 - einstimmig beschlossen
+- TOP 6.7: Investitionszuschüsse an fr. Träger von Kitas - Eugen-Richter-Str. 10 - einstimmig beschlossen
+- TOP 6.8: Investitionszuschüsse an fr. Träger von Kitas - Itterstr. 20 - einstimmig beschlossen
+- TOP 6.9: Investitionszuschüsse an fr. Träger von Kitas - Pastor-Busch-Weg 7-9 - einstimmig beschlossen
+- TOP 7: Jugendförderung - zur Kenntnis genommen
+- TOP 7.1: Kinder- und Jugendförderplan 2015 bis 2020: Neubau von Jugendfreizeiteinrichtungen - zur Kenntnis genommen
+- TOP 8: Soziele Dienste/ Kinderhilfezentrum - zur Kenntnis genommen
+- TOP 8.1: Finanzielle Aufwendungen für Pflegestellen und Erziehungsstellen - zur Kenntnis genommen
+- TOP 8.2: Einmalige Beihilfen oder Zuschüsse gem. § 39 SGB VIII - einstimmig beschlossen
+- TOP 9: Familienförderung - zur Kenntnis genommen
+- TOP 9.1: Jahresbericht im Rahmen der Auditierung zur familiengerechten Kommune - zur Kenntnis genommen
+- TOP 10: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - zur Kenntnis genommen
+- TOP 10.1: Anerkennung Träger der fr. Jugendhilfe gem. § 75 SGB VIII – Everest e.V. - zurückgezogen
+- TOP 11: Controllingberichte - zur Kenntnis genommen
+- TOP 11.1: Controllingbericht Elternbeiträge und Verpflegung - zur Kenntnis genommen
+- TOP 11.2: Controllingbericht Tagespflege - zur Kenntnis genommen
