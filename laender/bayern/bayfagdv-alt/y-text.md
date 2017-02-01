@@ -1,0 +1,1 @@
+Auf Grund des Art. 23 Abs. 4 des Finanzausgleichsgesetzes (FAG) in der Fassung der Bekanntmachung vom 13. März 2001 (GVBl S. 80, BayRS 605-1-F) erlässt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
