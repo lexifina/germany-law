@@ -6,7 +6,8 @@ Abschnitt 1 Allgemeines
 § 4 Anmeldung
 § 5 Aufnahmeprüfung für die Einführungsphase des Kollegs
 § 6 Überspringen von Vorkurs und Einführungsphase
-§ 7 Ersetzungsprüfung in der Fremdsprache
+§ 7 Feststellungsprüfung in der Fremdsprache
+§ 7a Feststellungsprüfung in der Herkunftssprache und Anerkennung der Herkunftssprache
 § 8 Schulwechsel an ein anderes Abendgymnasium oder Kolleg
 § 9 Beendigung des Schulverhältnisses
 Abschnitt 2 Unterrichtsorganisation
@@ -31,9 +32,8 @@ Abschnitt 4 Kursphase, Gesamtqualifikation und Abiturprüfung
 § 25 Zulassung
 § 26 Bestehen der Abiturprüfung und Erwerb der allgemeinen Hochschulreife
 Abschnitt 5 Abiturprüfung für Schulfremde
-§ 27 Zulassung
-§ 28 Ziel, Gegenstand und Ablauf der Prüfung, Gesamtqualifikation
+§ 27 Abiturprüfung für Schulfremde
 Abschnitt 6 Schlussbestimmungen
-§ 29 Andere Rechtsvorschriften
-§ 30 Übergangsregelung
-§ 31 Inkrafttreten und Außerkrafttreten
+§ 28 Andere Rechtsvorschriften
+§ 29 Übergangsregelungen
+§ 30 Inkrafttreten und Außerkrafttreten
