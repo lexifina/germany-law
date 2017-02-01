@@ -1,8 +1,8 @@
 # Vollzitat: VwV Vergütungsfestsetzung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2014-11-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11270.2
+- Datum: 2017-02-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11270.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.11.2014
+01.02.2017
 bis
-31.01.2017
+31.12.2023
 
 VwV Vergütungsfestsetzung
 
@@ -35,7 +35,7 @@ Vollzitat: VwV Vergütungsfestsetzung vom  4. Dezember 2009 (SächsJMBl. S. 381)
 
 I.
 
-Für die Festsetzung der Vergütung der beigeordneten oder bestellten Rechtsanwälte, der beigeordneten Patentanwälte, Rechtsbeistände, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer, vereidigten Buchprüfer und Rentenberater, für die Festsetzung von Vorschüssen sowie für die Festsetzung der Vergütung bei Beratungshilfe gilt in Abstimmung mit den Landesjustizverwaltungen und dem Bundesministerium der Justiz und für Verbraucherschutz bundeseinheitlich Folgendes:
+Für die Festsetzung der Vergütung der beigeordneten oder bestellten Rechtsanwälte, der beigeordneten Patentanwälte, Rechtsbeistände, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer, vereidigten Buchprüfer und Rentenberater, für die Festsetzung von Vorschüssen sowie für die Festsetzung der Vergütung bei Beratungshilfe und der beigeordneten psychosozialen Prozessbegleiter gilt in Abstimmung mit den Landesjustizverwaltungen und dem Bundesministerium der Justiz und für Verbraucherschutz bundeseinheitlich Folgendes:
 
 A.
 
@@ -49,8 +49,7 @@ Allgemeine Bestimmungen
 
 Festsetzungsantrag
 
-Der Festsetzungsantrag mit der Berechnung der Gebühren und Auslagen (§ 10
-RVG) ist bei der Geschäftsstelle zweifach einzureichen. Rechtsanwälte sind nicht verpflichtet, die Festsetzung der ihnen aus der Staatskasse zu zahlenden Vergütung mit den amtlichen Formularen zu beantragen. Formlos oder mit Hilfe der elektronischen Datenverarbeitung erstellte Festsetzungsanträge sollen inhaltlich den amtlichen Formularen entsprechen.
+Der Festsetzungsantrag mit der Berechnung der Gebühren und Auslagen (§ 10 des Rechtsanwaltsvergütungsgesetzes) ist bei der Geschäftsstelle zweifach einzureichen. Rechtsanwälte sind nicht verpflichtet, die Festsetzung der ihnen aus der Staatskasse zu zahlenden Vergütung mit den amtlichen Formularen zu beantragen. Formlos oder mit Hilfe der elektronischen Datenverarbeitung erstellte Festsetzungsanträge sollen inhaltlich den amtlichen Formularen entsprechen.
 
 1.2
 
@@ -58,16 +57,10 @@ Festsetzung
 
 1.2.1
 
-Die Festsetzung (§ 55
-RVG) ist den Beamten der ersten Einstiegsebene der Laufbahngruppe 2 vorbehalten. Die Landesjustizverwaltungen und das Bundesministerium der Justiz und für Verbraucherschutz können abweichende Regelungen treffen.
-
+Die Festsetzung (§ 55 des Rechtsanwaltsvergütungsgesetzes) ist den Beamten der ersten Einstiegsebene der Laufbahngruppe 2 vorbehalten. Die Landesjustizverwaltungen und das Bundesministerium der Justiz und für Verbraucherschutz können abweichende Regelungen treffen.
 1.2.2
 
-Kann Verjährung in Betracht kommen (vergleiche die §§ 195 und 199
-BGB
-in Verbindung mit § 8
-RVG), hat der Urkundsbeamte der Geschäftsstelle (UdG) vor der Entscheidung über den Festsetzungsantrag die Akten mit einem entsprechenden Hinweis dem Vertreter der Staatskasse vorzulegen (s. Nr. 1.4.4). Sieht dieser von der Erhebung der Verjährungseinrede ab, hat der UdG dies auf der Festsetzung zu vermerken.
-
+Kann Verjährung in Betracht kommen (vergleiche die §§ 195 und 199 des Bürgerlichen Gesetzbuchs in Verbindung mit § 8 des Rechtsanwaltsvergütungsgesetzes), hat der Urkundsbeamte der Geschäftsstelle vor der Entscheidung über den Festsetzungsantrag die Akten mit einem entsprechenden Hinweis dem Vertreter der Staatskasse vorzulegen (siehe Nummer 1.4.4). Sieht dieser von der Erhebung der Verjährungseinrede ab, hat der Urkundsbeamte der Geschäftsstelle dies auf der Festsetzung zu vermerken.
 1.2.3
 
 Müssen die Sachakten wegen der Einlegung von Rechtsmitteln oder aus sonstigen Gründen versandt werden, ist die Vergütung möglichst vorher festzusetzen. Sonst sind Akten, die für längere Zeit versandt sind, kurzfristig zurückzufordern.
@@ -86,20 +79,18 @@ Auszahlungsanordnung
 
 1.3.1
 
-Die Auszahlungsanordnung wird von dem UdG des Gerichts erteilt, bei dem die Vergütung festgesetzt worden ist. Hat der UdG des Gerichts des ersten Rechtszugs die Vergütung festgesetzt und die Bundeskasse die Vergütung zu zahlen (§ 45 Abs. 1 und 3
-RVG), hat er ein Exemplar der Festsetzung dem Gericht des Bundes zur Erteilung der Auszahlungsanordnung zu übersenden.
-
+Die Auszahlungsanordnung wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts erteilt, bei dem die Vergütung festgesetzt worden ist. Hat der Urkundsbeamte der Geschäftsstelle des Gerichts des ersten Rechtszugs die Vergütung festgesetzt und die Bundeskasse die Vergütung zu zahlen (§ 45 Absatz 1 und 3 des Rechtsanwaltsvergütungsgesetzes), hat er ein Exemplar der Festsetzung dem Gericht des Bundes zur Erteilung der Auszahlungsanordnung zu übersenden.
 1.3.2
 
 Ein Exemplar der Auszahlungsanordnung ist zu den Sachakten zu nehmen.
 
 1.3.3
 
-Werden in derselben Sache weitere Auszahlungsanordnungen notwendig, sind auch davon Exemplare zu den Sachakten zu nehmen; in der Kostenberechnung sind sämtliche Gebühren und Auslagen aufzuführen; bereits gezahlte Beträge sind abzusetzen. Der Tag der früheren Auszahlungsanordnung ist anzugeben. Dies gilt auch, wenn Vorschüsse gezahlt sind (s. Nr. 1.5.3).
+Werden in derselben Sache weitere Auszahlungsanordnungen notwendig, sind auch davon Exemplare zu den Sachakten zu nehmen; in der Kostenberechnung sind sämtliche Gebühren und Auslagen aufzuführen; bereits gezahlte Beträge sind abzusetzen. Der Tag der früheren Auszahlungsanordnung ist anzugeben. Dies gilt auch, wenn Vorschüsse gezahlt sind (siehe Nummer 1.5.3).
 
 1.3.4
 
-Nr. 2.4.4 ist zu beachten.
+Nummer 2.4.4 ist zu beachten.
 
 1.4
 
@@ -111,7 +102,7 @@ Die Vertretung der Staatskasse bei der Festsetzung einschließlich des Erinnerun
 
 1.4.2
 
-Alle gerichtlichen Entscheidungen, durch die eine Festsetzung zu Ungunsten der Staatskasse geändert wird, hat der UdG vor Anweisung des Mehrbetrages dem Vertreter der Staatskasse mitzuteilen.
+Alle gerichtlichen Entscheidungen, durch die eine Festsetzung zu Ungunsten der Staatskasse geändert wird, hat der Urkundsbeamte der Geschäftsstelle vor Anweisung des Mehrbetrages dem Vertreter der Staatskasse mitzuteilen.
 
 1.4.3
 
@@ -119,7 +110,7 @@ Erinnerungen oder Beschwerden namens der Staatskasse sind nur zu erheben, wenn e
 
 1.4.4
 
-Soll nach Auffassung des Vertreters der Staatskasse die Verjährungseinrede erhoben werden (s. Nr. 1.2.2), hat er dazu die Einwilligung des unmittelbar vorgesetzten Präsidenten einzuholen.
+Soll nach Auffassung des Vertreters der Staatskasse die Verjährungseinrede erhoben werden (siehe Nummer 1.2.2), hat er dazu die Einwilligung des unmittelbar vorgesetzten Präsidenten einzuholen.
 
 1.5
 
@@ -127,24 +118,20 @@ Vorschuss
 
 1.5.1
 
-Für die Festsetzung und Auszahlung des Vorschusses (§ 47
-RVG) gelten die Bestimmungen für die Festsetzung und Auszahlung des endgültigen Betrages sinngemäß.
-
+Für die Festsetzung und Auszahlung des Vorschusses (§ 47 des Rechtsanwaltsvergütungsgesetzes) gelten die Bestimmungen für die Festsetzung und Auszahlung des endgültigen Betrages sinngemäß.
 1.5.2
 
 Die Auszahlungen sind als Abschlagszahlungen zu leisten und als Haushaltsausgaben zu buchen.
 
 1.5.3
 
-Der UdG überwacht die Fälligkeit der Vergütung und sorgt dafür, dass der Vorschuss alsbald abgerechnet wird (s. Nr. 1.3.3).
+Der Urkundsbeamte der Geschäftsstelle überwacht die Fälligkeit der Vergütung und sorgt dafür, dass der Vorschuss alsbald abgerechnet wird (siehe Nummer 1.3.3).
 
 1.6
 
 Wiedereinforderung überzahlter Beträge
 
-Überzahlungen an Gebühren, Auslagen oder Vorschüssen sind nach der
-Justizbeitreibungsordnung einzuziehen.
-
+Überzahlungen an Gebühren, Auslagen oder Vorschüssen sind nach der Justizbeitreibungsordnung einzuziehen.
 2.
 
 Besondere Bestimmungen für die Vergütung der im Wege der Prozess- oder Verfahrenskostenhilfe beigeordneten Rechtsanwälte
@@ -153,9 +140,7 @@ Besondere Bestimmungen für die Vergütung der im Wege der Prozess- oder Verfahr
 
 Zuständigkeit für die Festsetzung im Allgemeinen
 
-Die aus der Staatskasse zu gewährende Vergütung (§§ 45 Abs. 1 und 50 Abs. 1 RVG) wird von dem UdG des Gerichts des ersten Rechtszugs festgesetzt (§ 55 Abs. 1 RVG). In Angelegenheiten, in denen sich die Gebühren nach Teil 3 des Vergütungsverzeichnisses zum RVG bestimmen, erfolgt die Festsetzung durch den UdG des Gerichts des Rechtszugs, nach Beendigung des Verfahrens durch rechtskräftige Entscheidung oder in sonstiger Weise jedoch durch den UdG des Gerichts des ersten Rechtszugs (§ 55 Abs. 2
-RVG).
-
+Die aus der Staatskasse zu gewährende Vergütung (§§ 45 Absatz 1 und 50 Absatz 1 des Rechtsanwaltsvergütungsgesetzes) wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts des ersten Rechtszugs festgesetzt (§ 55 Absatz 1 des Rechtsanwaltsvergütungsgesetzes). In Angelegenheiten, in denen sich die Gebühren nach Teil 3 des Vergütungsverzeichnisses zum des Rechtsanwaltsvergütungsgesetzes bestimmen, erfolgt die Festsetzung durch den Urkundsbeamten der Geschäftsstelle des Gerichts des Rechtszugs, nach Beendigung des Verfahrens durch rechtskräftige Entscheidung oder in sonstiger Weise jedoch durch den Urkundsbeamten der Geschäftsstelle des Gerichts des ersten Rechtszugs (§ 55 Absatz 2 des Rechtsanwaltsvergütungsgesetzes).
 2.2
 
 Zuständigkeit zur Festsetzung im Falle der Verweisung oder Abgabe eines Verfahrens
@@ -166,7 +151,7 @@ Bei Verweisung oder Abgabe eines Verfahrens an ein Gericht eines anderen Bundesl
 
 2.2.2
 
-Bei Verweisung oder Abgabe eines Verfahrens an ein Gericht desselben Landes gilt Folgendes: Der UdG des verweisenden oder abgebenden Gerichts setzt die aus der Staatskasse zu gewährende Vergütung fest, wenn bereits vor der Versendung der Akten an das Gericht, an das das Verfahren verwiesen oder abgegeben worden ist, der Anspruch fällig geworden und der Festsetzungsantrag eingegangen ist. Andernfalls sind Festsetzungsanträge an die Geschäftsstelle des Gerichts weiterzugeben, an das das Verfahren verwiesen oder abgegeben worden ist.
+Bei Verweisung oder Abgabe eines Verfahrens an ein Gericht desselben Landes gilt Folgendes: Der Urkundsbeamte der Geschäftsstelle des verweisenden oder abgebenden Gerichts setzt die aus der Staatskasse zu gewährende Vergütung fest, wenn bereits vor der Versendung der Akten an das Gericht, an das das Verfahren verwiesen oder abgegeben worden ist, der Anspruch fällig geworden und der Festsetzungsantrag eingegangen ist. Andernfalls sind Festsetzungsanträge an die Geschäftsstelle des Gerichts weiterzugeben, an das das Verfahren verwiesen oder abgegeben worden ist.
 
 2.3
 
@@ -174,64 +159,40 @@ Vergütung des beigeordneten Rechtsanwalts, Kostenfestsetzung, Übergang auf die
 
 2.3.1
 
-Bei der Festsetzung der vom Gegner an die Partei, der Prozess- oder Verfahrenskostenhilfe bewilligt ist, oder an deren Rechtsanwalt zu erstattenden Kosten (§§ 103 bis 107, 126
-ZPO
-, auch in Verbindung mit §§ 76 Abs. 1, 85
-FamFG
-) prüft der Rechtspfleger, ob bereits eine Vergütung aus der Staatskasse gezahlt worden ist und ob der aus der Staatskasse gewährte Betrag ganz oder zum Teil auf die im Kostenfestsetzungsbeschluss festzusetzenden Kosten anzurechnen ist. Er stellt zugleich fest, ob und inwieweit der Erstattungsanspruch gegen den Zahlungspflichtigen auf die Staatskasse übergegangen ist (§ 59 Abs. 1 Satz 1
-RVG). Dabei berücksichtigt er, dass ein übergegangener Anspruch der Staatskasse nicht zusteht, soweit die an den Rechtsanwalt gezahlte Vergütung durch Zahlungen der Partei an die Staatskasse gedeckt ist. Den auf die Staatskasse übergegangenen Betrag vermerkt er im Kostenfestsetzungsbeschluss. Nötigenfalls nimmt er eine erläuternde Berechnung auf. Soweit ein Erstattungsanspruch auf die Staatskasse übergegangen ist, nimmt der Rechtspfleger in den Kostenfestsetzungsbeschluss nur den Betrag auf, der an die Partei oder an deren Rechtsanwalt noch zu erstatten bleibt.
-
+Bei der Festsetzung der vom Gegner an die Partei, der Prozess- oder Verfahrenskostenhilfe bewilligt ist, oder an deren Rechtsanwalt zu erstattenden Kosten (§§ 103 bis 107, 126 der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1, § 85 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) prüft der Rechtspfleger, ob bereits eine Vergütung aus der Staatskasse gezahlt worden ist und ob der aus der Staatskasse gewährte Betrag ganz oder zum Teil auf die im Kostenfestsetzungsbeschluss festzusetzenden Kosten anzurechnen ist.            Er stellt zugleich fest, ob und inwieweit der Erstattungsanspruch gegen den Zahlungspflichtigen auf die Staatskasse übergegangen ist (§ 59 Absatz 1 Satz 1 des Rechtsanwaltsvergütungsgesetzes). Dabei berücksichtigt er, dass ein übergegangener Anspruch der Staatskasse nicht zusteht, soweit die an den Rechtsanwalt gezahlte Vergütung durch Zahlungen der Partei an die Staatskasse gedeckt ist. Den auf die Staatskasse übergegangenen Betrag vermerkt er im Kostenfestsetzungsbeschluss. Nötigenfalls nimmt er eine erläuternde Berechnung auf. Soweit ein Erstattungsanspruch auf die Staatskasse übergegangen ist, nimmt der Rechtspfleger in den Kostenfestsetzungsbeschluss nur den Betrag auf, der an die Partei oder an deren Rechtsanwalt noch zu erstatten bleibt.
 2.3.2
 
-Macht der Rechtsanwalt seinen Vergütungsanspruch gegen die Staatskasse erst geltend, nachdem die von der gegnerischen Partei zu erstattenden Kosten bereits nach den §§ 103 bis 107 und 126
-ZPO
-, auch in Verbindung mit §§ 76 Abs. 1, 85
-FamFG, festgesetzt worden sind, fordert der Rechtspfleger die vollstreckbare Ausfertigung des Kostenfestsetzungsbeschlusses von demjenigen zurück, zu dessen Gunsten er ergangen ist. Nach der Festsetzung der aus der Staatskasse zu gewährenden Vergütung vermerkt der Rechtspfleger auf der vollstreckbaren Ausfertigung des Kostenfestsetzungsbeschlusses, um welchen Betrag sich die festgesetzten Kosten mindern und welcher Restbetrag noch zu erstatten ist; falls erforderlich, fügt er eine erläuternde Berechnung bei. Die gleichen Vermerke setzt er auf den Kostenfestsetzungsbeschluss und bescheinigt dort außerdem, dass die vollstreckbare Ausfertigung mit denselben Vermerken versehen und zurückgesandt worden ist.
-
+Macht der Rechtsanwalt seinen Vergütungsanspruch gegen die Staatskasse erst geltend, nachdem die von der gegnerischen Partei zu erstattenden Kosten bereits nach den §§ 103 bis 107 und 126 der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1, § 85 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, festgesetzt worden sind, fordert der Rechtspfleger die vollstreckbare Ausfertigung des Kostenfestsetzungsbeschlusses von demjenigen zurück, zu dessen Gunsten er ergangen ist. Nach der Festsetzung der aus der Staatskasse zu gewährenden Vergütung vermerkt der Rechtspfleger auf der vollstreckbaren Ausfertigung des Kostenfestsetzungsbeschlusses, um welchen Betrag sich die festgesetzten Kosten mindern und welcher Restbetrag noch zu erstatten ist; falls erforderlich, fügt er eine erläuternde Berechnung bei. Die gleichen Vermerke setzt er auf den Kostenfestsetzungsbeschluss und bescheinigt dort außerdem, dass die vollstreckbare Ausfertigung mit denselben Vermerken versehen und zurückgesandt worden ist.
 2.3.3
 
-Wird die Vergütung festgesetzt, ohne dass die vollstreckbare Ausfertigung des Kostenfestsetzungsbeschlusses vorgelegt worden ist, hat der UdG den erstattungspflichtigen Gegner zu benachrichtigen.
+Wird die Vergütung festgesetzt, ohne dass die vollstreckbare Ausfertigung des Kostenfestsetzungsbeschlusses vorgelegt worden ist, hat der Urkundsbeamte der Geschäftsstelle den erstattungspflichtigen Gegner zu benachrichtigen.
 
 2.3.4
 
-Bei der Einziehung der auf die Staatskasse übergegangenen Beträge sind § 122 Abs. 1 Nr. 1 Buchst. b
-ZPO
-, auch in Verbindung mit § 76 Abs. 1
-FamFG, § 6 Abs. 2 der Anlage zu Ziffer I der VwV KostVfg und Nr. 3.3.2 Satz 1 sowie Nr. 4.7 der VwV DB-PKH zu beachten.
+Bei der Einziehung der auf die Staatskasse übergegangenen Beträge sind § 122 Absatz 1 Nummer 1 Buchstabe b der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 6 Absatz 2 der Anlage zur Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz zur Kostenverfügung und Großbuchstabe A Nummer 3.3.2 Satz 1 sowie Nummer 4.7 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über die Durchführungsbestimmungen zur Prozess- und Verfahrenskostenhilfe sowie zur Stundung der Kosten des Insolvenzverfahrens zu beachten.
 
 2.3.5
 
-Zahlt die erstattungspflichtige gegnerische Partei bei der Vollstreckung aus dem Kostenfestsetzungsbeschluss freiwillig auch die nach Nr. 2.3.2 oder 2.3.3 abgesetzte Vergütung, hat der Gerichtsvollzieher sie anzunehmen und an die Kasse abzuführen. Zieht der Gerichtsvollzieher nur den Restbetrag der festgesetzten Kosten ein, hat er dies zu den Gerichtsakten mitzuteilen, damit der auf die Staatskasse übergegangene Betrag eingezogen werden kann (s. Nr. 2.4.1). Waren die einzuziehenden Beträge bereits zum Soll gestellt, gibt der UdG die Mitteilung an die Kasse weiter.
+Zahlt die erstattungspflichtige gegnerische Partei bei der Vollstreckung aus dem Kostenfestsetzungsbeschluss freiwillig auch die nach Nummer 2.3.1 oder 2.3.2 abgesetzte Vergütung, hat der Gerichtsvollzieher sie anzunehmen und an die Kasse abzuführen. Zieht der Gerichtsvollzieher nur den Restbetrag der festgesetzten Kosten ein, hat er dies zu den Gerichtsakten mitzuteilen, damit der auf die Staatskasse übergegangene Betrag eingezogen werden kann (siehe Nummer 2.4.1). Waren die einzuziehenden Beträge bereits zum Soll gestellt, gibt der Urkundsbeamte der Geschäftsstelle die Mitteilung an die Kasse weiter.
 
 2.3.6
 
-Beantragt der beigeordnete Rechtsanwalt nach Aufhebung der Bewilligung der Prozess- oder Verfahrenskostenhilfe die Festsetzung der Vergütung gemäß § 11
-RVG gegen die eigene Partei, sind die Nrn. 2.3.1 bis 2.3.5 entsprechend anzuwenden.
-
+Beantragt der beigeordnete Rechtsanwalt nach Aufhebung der Bewilligung der Prozess- oder Verfahrenskostenhilfe die Festsetzung der Vergütung gemäß § 11 des Rechtsanwaltsvergütungsgesetzes gegen die eigene Partei, sind die Nummern 2.3.1 bis 2.3.5 entsprechend anzuwenden.
 2.4
 
 Wiedereinforderung von der Partei, der Prozess- oder Verfahrenskostenhilfe bewilligt worden ist, von der gegnerischen Partei oder von Streitgenossen
 
 2.4.1
 
-Der UdG hat in jedem Fall zu prüfen und nötigenfalls zu überwachen, ob die aus der Staatskasse gezahlte Vergütung von der Partei oder von der erstattungspflichtigen gegnerischen Partei eingefordert werden kann (§ 59
-RVG). Zu diesem Zweck hat er erforderlichenfalls die Parteien aufzufordern, ihre Kostenberechnung dem Gericht zur Ausgleichung mitzuteilen. Kann er die Mitwirkung der Parteien nicht erreichen, hat er den Anspruch der Staatskasse nach Aktenlage zu berechnen. Der Anspruch gegen die Partei kann, solange die Bewilligung der Prozess- oder Verfahrenskostenhilfe nicht aufgehoben ist (vergleiche Nr. 3.3.1 und Nr. 5.1 VwV DB-PKH), nur nach den Bestimmungen geltend gemacht werden, die das Gericht getroffen hat (vergleiche § 122 Abs. 1 Nr. 1 Buchst. b ZPO, auch in Verbindung mit § 76 Abs. 1
-
-FamFG). Gegebenenfalls ist eine Änderung dieser Bestimmungen anzuregen (vergleiche § 120a Abs. 1
-
-ZPO
-, auch in Verbindung mit § 76 Abs. 1
-FamFG, und Nr. 5.1 VwV DB-PKH).
+Der Urkundsbeamte der Geschäftsstelle hat in jedem Fall zu prüfen und nötigenfalls zu überwachen, ob die aus der Staatskasse gezahlte Vergütung von der Partei oder von der erstattungspflichtigen gegnerischen Partei eingefordert werden kann (§ 59 des Rechtsanwaltsvergütungsgesetzes).          Zu diesem Zweck hat er erforderlichenfalls die Parteien aufzufordern, ihre Kostenberechnung dem Gericht zur Ausgleichung mitzuteilen.          Kann er die Mitwirkung der Parteien nicht erreichen, hat er den Anspruch der Staatskasse nach Aktenlage zu berechnen.          Der Anspruch gegen die Partei kann, solange die Bewilligung der Prozess- oder Verfahrenskostenhilfe nicht aufgehoben ist (vergleiche Großbuchstabe A Nummer 3.3.1 und 5.1 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über die Durchführungsbestimmungen zur Prozess- und Verfahrenskostenhilfe sowie zur Stundung der Kosten des Insolvenzverfahrens), nur nach den Bestimmungen geltend gemacht werden, die das Gericht getroffen hat (vergleiche § 122 Absatz 1 Nummer 1 Buchstabe b der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit). Gegebenenfalls ist eine Änderung dieser Bestimmungen anzuregen (vergleiche § 120a Absatz 1 der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, und Großbuchstabe A Nummer 5.1 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über die Durchführungsbestimmungen zur Prozess- und Verfahrenskostenhilfe sowie zur Stundung der Kosten des Insolvenzverfahrens).
 
 2.4.2
 
-Der mit der Festsetzung der Vergütung befasste UdG hat Streitgenossen der Partei, die von dem dieser Partei beigeordneten Rechtsanwalt als Wahlanwalt vertreten werden, zur Zahlung des auf sie entfallenden Anteils an der aus der Staatskasse gezahlten Vergütung aufzufordern, soweit dies nicht aus besonderen Gründen, zum Beispiel wegen feststehender Zahlungsunfähigkeit, untunlich erscheint.
+Der mit der Festsetzung der Vergütung befasste Urkundsbeamte der Geschäftsstelle hat Streitgenossen der Partei, die von dem dieser Partei beigeordneten Rechtsanwalt als Wahlanwalt vertreten werden, zur Zahlung des auf sie entfallenden Anteils an der aus der Staatskasse gezahlten Vergütung aufzufordern, soweit dies nicht aus besonderen Gründen, zum Beispiel wegen feststehender Zahlungsunfähigkeit, untunlich erscheint.
 
 2.4.3
 
-Die Zahlungsaufforderung an die ausgleichspflichtigen Streitgenossen kann nicht auf § 59
-RVG gestützt werden und darf daher nicht in der Form einer Gerichtskostenrechnung ergehen. Wird nicht freiwillig gezahlt, sind die Vorgänge dem unmittelbar vorgesetzten Präsidenten vorzulegen, der gegebenenfalls die Klageerhebung veranlasst.
-
+Die Zahlungsaufforderung an die ausgleichspflichtigen Streitgenossen kann nicht auf § 59 des Rechtsanwaltsvergütungsgesetzes gestützt werden und darf daher nicht in der Form einer Gerichtskostenrechnung ergehen. Wird nicht freiwillig gezahlt, sind die Vorgänge dem unmittelbar vorgesetzten Präsidenten vorzulegen, der gegebenenfalls die Klageerhebung veranlasst.
 2.4.4
 
 Wenn Streitgenossen der Partei, der Prozess- oder Verfahrenskostenhilfe bewilligt ist, vorhanden sind, ist in der Festsetzung der Vergütung zu vermerken, ob und für welche Streitgenossen der Partei der beigeordnete Rechtsanwalt zugleich Wahlanwalt gewesen ist und ob ein Ausgleichsanspruch der Staatskasse gegen diese Streitgenossen geltend gemacht oder aus welchen Gründen davon abgesehen worden ist.
@@ -246,7 +207,7 @@ Festsetzung der weiteren Vergütung
 
 2.5.1
 
-Vor der Festsetzung der weiteren Vergütung hat sich der UdG davon zu überzeugen, dass
+Vor der Festsetzung der weiteren Vergütung hat sich der Urkundsbeamte der Geschäftsstelle davon zu überzeugen, dass
 
 2.5.1.1
 
@@ -254,35 +215,19 @@ das Verfahren durch rechtskräftige Entscheidung oder in sonstiger Weise beendet
 
 2.5.1.2
 
-sämtliche der Partei beigeordneten Rechtsanwälte und, soweit der gegnerischen Partei ebenfalls Prozess- oder Verfahrenskostenhilfe bewilligt und die Partei der gegnerischen Partei erstattungspflichtig ist, auch die der gegnerischen Partei beigeordneten Rechtsanwälte ihre Vergütung (§§ 45 Abs. 1 und 49
-RVG) beantragt haben und dass über diese Anträge abschließend entschieden worden ist,
-
+sämtliche der Partei beigeordneten Rechtsanwälte und, soweit der gegnerischen Partei ebenfalls Prozess- oder Verfahrenskostenhilfe bewilligt und die Partei der gegnerischen Partei erstattungspflichtig ist, auch die der gegnerischen Partei beigeordneten Rechtsanwälte ihre Vergütung (§§ 45 Absatz 1 und 49 des Rechtsanwaltsvergütungsgesetzes) beantragt haben und dass über diese Anträge abschließend entschieden worden ist,
 2.5.1.3
 
-die Schlusskostenrechnung unter Berücksichtigung der gemäß § 59 Abs. 1 Satz 1
-RVG auf die Staatskasse übergegangenen Ansprüche (vergleiche Nr. 2.5.1.2) aufgestellt worden und ein gegen die gegnerische Partei zum Soll gestellter Betrag, für den die Partei als Zweitschuldner haften würde, gezahlt ist, sodass feststeht, welcher Betrag zur Deckung der in § 122 Abs. 1 Nr. 1
-
-ZPO
-, auch in Verbindung mit § 76 Abs. 1
-FamFG, bezeichneten Kosten und Ansprüche erforderlich ist,
-
+die Schlusskostenrechnung unter Berücksichtigung der gemäß § 59 Absatz 1 Satz 1 des Rechtsanwaltsvergütungsgesetzes auf die Staatskasse übergegangenen Ansprüche (vergleiche Nummer 2.5.1.2) aufgestellt worden und ein gegen die gegnerische Partei zum Soll gestellter Betrag, für den die Partei als Zweitschuldner haften würde, gezahlt ist, sodass feststeht, welcher Betrag zur Deckung der in § 122 Absatz 1 Nummer 1 der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, bezeichneten Kosten und Ansprüche erforderlich ist,
 2.5.1.4
 
-sämtliche der Partei beigeordneten Rechtsanwälte die weitere Vergütung (§ 50
-RVG) beantragt haben,
-
+sämtliche der Partei beigeordneten Rechtsanwälte die weitere Vergütung (§ 50 des Rechtsanwaltsvergütungsgesetzes) beantragt haben,
 2.5.1.5
 
-die von der Partei zu zahlenden Beträge (§§ 120
-ZPO
-, auch in Verbindung mit § 76 Abs. 1
-FamFG
-, und § 50 Abs. 1 Satz 1
-RVG) beglichen sind oder eine Zwangsvollstreckung in das bewegliche Vermögen der Partei erfolglos geblieben ist oder aussichtslos erscheint,
-
+die von der Partei zu zahlenden Beträge (§§ 120 der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, und § 50 Absatz 1 Satz 1 des Rechtsanwaltsvergütungsgesetzes) beglichen sind oder eine Zwangsvollstreckung in das bewegliche Vermögen der Partei erfolglos geblieben ist oder aussichtslos erscheint,
 2.5.1.6
 
-gegebenenfalls in welcher Höhe nach Verrechnung der von der Partei gezahlten Beträge auf den nach Nr. 2.5.1.3 berechneten Betrag ein Überschuss verbleibt,
+gegebenenfalls in welcher Höhe nach Verrechnung der von der Partei gezahlten Beträge auf den nach Nummer 2.5.1.3 berechneten Betrag ein Überschuss verbleibt,
 
 2.5.1.7
 
@@ -290,19 +235,13 @@ und in den Anträgen angegeben ist, welche Zahlungen die beigeordneten Rechtsanw
 
 2.5.2
 
-Haben noch nicht sämtliche der Partei und gegebenenfalls der gegnerischen Partei beigeordneten Rechtsanwälte ihre Vergütung beantragt (vergleiche Nrn. 2.5.1.2, 2.5.1.4) oder die erhaltenen Zahlungen angegeben (vergleiche Nr. 2.5.1.7), fordert der UdG sie unter Hinweis auf die Rechtsfolgen (§ 55 Abs. 6 Satz 2
-RVG) gegen Empfangsbekenntnis auf, innerhalb einer Frist von einem Monat bei der Geschäftsstelle des Gerichts, dem der UdG angehört, die Anträge einzureichen oder sich zu den Zahlungen zu erklären.
-
+Haben noch nicht sämtliche der Partei und gegebenenfalls der gegnerischen Partei beigeordneten Rechtsanwälte ihre Vergütung beantragt (vergleiche Nummern 2.5.1.2, 2.5.1.4) oder die erhaltenen Zahlungen angegeben (vergleiche Nummer 2.5.1.7), fordert der Urkundsbeamte der Geschäftsstelle sie unter Hinweis auf die Rechtsfolgen (§ 55 Absatz 6 Satz 2 des Rechtsanwaltsvergütungsgesetzes) gegen Empfangsbekenntnis auf, innerhalb einer Frist von einem Monat bei der Geschäftsstelle des Gerichts, dem der Urkundsbeamte der Geschäftsstelle angehört, die Anträge einzureichen oder sich zu den Zahlungen zu erklären.
 2.5.3
 
-Waren die Zahlungen der Partei an die Staatskasse nach § 120 Abs. 3
-ZPO
-, auch in Verbindung mit § 76 Abs. 1
-FamFG, durch das Gericht vorläufig eingestellt und reicht der Überschuss (vergleiche Nr. 2.5.1.6) zur Deckung der weiteren Vergütung nicht aus, ist die Akte zunächst dem Rechtspfleger zur Entscheidung über die Wiederaufnahme der Zahlungen vorzulegen.
-
+Waren die Zahlungen der Partei an die Staatskasse nach § 120 Absatz 3 der Zivilprozessordnung, auch in Verbindung mit § 76 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, durch das Gericht vorläufig eingestellt und reicht der Überschuss (vergleiche Nummer 2.5.1.6) zur Deckung der weiteren Vergütung nicht aus, ist die Akte zunächst dem Rechtspfleger zur Entscheidung über die Wiederaufnahme der Zahlungen vorzulegen.
 2.5.4
 
-Verzögert sich die Entscheidung über den Antrag, weil zum Beispiel das Ergebnis der Kosteneinziehung von der gegnerischen Partei, weitere Zahlungen der Partei oder der Eingang weiterer Anträge abzuwarten ist, hat der UdG den Rechtsanwalt über den Grund der Verzögerung zu unterrichten.
+Verzögert sich die Entscheidung über den Antrag, weil zum Beispiel das Ergebnis der Kosteneinziehung von der gegnerischen Partei, weitere Zahlungen der Partei oder der Eingang weiterer Anträge abzuwarten ist, hat der Urkundsbeamte der Geschäftsstelle den Rechtsanwalt über den Grund der Verzögerung zu unterrichten.
 
 2.5.5
 
@@ -310,7 +249,7 @@ Die weitere Vergütung ist bei dem Haushaltstitel für die Vergütung beigeordne
 
 2.5.6
 
-Ändert sich nach der Festsetzung der weiteren Vergütung die Kostenforderung gegen die Partei (vergleiche Nr. 2.5.1.3), sind die Akten dem UdG zur Prüfung vorzulegen, ob die Festsetzung zu berichtigen ist.
+Ändert sich nach der Festsetzung der weiteren Vergütung die Kostenforderung gegen die Partei (vergleiche Nummer 2.5.1.3), sind die Akten dem Urkundsbeamten der Geschäftsstelle“ zur Prüfung vorzulegen, ob die Festsetzung zu berichtigen ist.
 
 2.6
 
@@ -322,10 +261,13 @@ Bei der Anwendung der vorstehenden besonderen Bestimmungen für die Vergütung d
 
 Sinngemäße Anwendung
 
-Die vorstehenden besonderen Bestimmungen gelten für die Vergütung der im Wege der Prozesskostenhilfe beigeordneten Patentanwälte, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer, vereidigten Buchprüfer und Rentenberater sowie der im Wege des § 138 FamFG, auch in Verbindung mit § 270
-FamFG, beigeordneten oder nach den §§ 57, 58
+Die vorstehenden besonderen Bestimmungen gelten für die Vergütung der im Wege der Prozesskostenhilfe beigeordneten Patentanwälte, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer, vereidigten Buchprüfer und Rentenberater sowie der im Wege des § 138 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, auch in Verbindung mit § 270 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, beigeordneten oder nach den §§ 57, 58 der Zivilprozessordnung bestellten Rechtsanwälte sinngemäß.
 
-ZPO bestellten Rechtsanwälte sinngemäß.
+3.
+
+Besondere Bestimmungen für die Vergütung der Zeugenbeistände
+
+Für die Festsetzung der Vergütung ist in Fällen, in denen ein Zeugenbeistand bestellt und das Verfahren nicht gerichtlich anhängig wird, der Urkundsbeamte der Geschäftsstelle der beiordnenden Staatsanwaltschaft zuständig.
 
 B.
 
@@ -333,12 +275,17 @@ Vergütung bei Beratungshilfe
 
 1.
 
-Für die Festsetzung der Vergütung bei Beratungshilfe gilt Teil A Nr. 1 bis 1.2.2, 1.2.4, 1.3 bis 1.3.3 und 1.4 bis 1.4.4 sinngemäß. Der Festsetzungsantrag kann mit Hilfe der elektronischen Datenverarbeitung erstellt werden oder von einem amtlichen Formular abweichen, wenn er inhaltlich diesem entspricht. Die Geschäftsstellen geben die amtlichen Formulare für den Beratungshilfeantrag und für den Festsetzungsantrag unentgeltlich aus. Sofern ein Berechtigungsschein erteilt worden ist, ist die Festsetzung zur Durchschrift des Berechtigungsscheins zu nehmen.
+Für die Festsetzung der Vergütung bei Beratungshilfe gilt Großbuchstabe A Nummer 1 bis 1.2.2, 1.2.4, 1.3 bis 1.3.3 und 1.4 bis 1.4.4 sinngemäß. Der Festsetzungsantrag kann mit Hilfe der elektronischen Datenverarbeitung erstellt werden oder von einem amtlichen Formular abweichen, wenn er inhaltlich diesem entspricht. Die Geschäftsstellen geben die amtlichen Formulare für den Beratungshilfeantrag und für den Festsetzungsantrag unentgeltlich aus. Sofern ein Berechtigungsschein erteilt worden ist, ist die Festsetzung zur Durchschrift des Berechtigungsscheins zu nehmen.
 
 2.
 
-Der UdG hat in jedem Fall zu prüfen und nötigenfalls zu überwachen, ob die aus der Staatskasse gezahlte Vergütung von erstattungspflichtigen Gegnern eingefordert werden kann (§ 59 Abs. 1 und 3
-RVG sowie § 9 BerHG). Unter gesetzlicher Vergütung im Sinne des § 9 Satz 1 BerHG ist die an nicht im Rahmen der Beratungshilfe tätige Beratungspersonene zu zahlende Vergütung zu verstehen. Der auf die Staatskasse übergegangene schuldrechtliche Anspruch auf Erstattung der Vergütung ist wie der Anspruch gegen ausgleichspflichtige Streitgenossen geltend zu machen (vergleiche Teil A Nrn. 2.4.2 bis 2.4.5).
+Der Urkundsbeamte der Geschäftsstelle hat in jedem Fall zu prüfen und nötigenfalls zu überwachen, ob die aus der Staatskasse gezahlte Vergütung von erstattungspflichtigen Gegnern eingefordert werden kann (§ 59 Absatz 1 und 3 des Rechtsanwaltsvergütungsgesetzes sowie § 9 des Beratungshilfegesetzes). Unter gesetzlicher Vergütung im Sinne des § 9 Satz 1 des Beratungshilfegesetzes ist die an nicht im Rahmen der Beratungshilfe tätige Beratungspersonene zu zahlende Vergütung zu verstehen. Der auf die Staatskasse übergegangene schuldrechtliche Anspruch auf Erstattung der Vergütung ist wie der Anspruch gegen ausgleichspflichtige Streitgenossen geltend zu machen (vergleiche Großbuchstabe A Nummern 2.4.2 bis 2.4.5).
+
+C.
+
+Vergütung der beigeordneten psychosozialen Prozessbegleiter
+
+Für die Festsetzung der Vergütung der beigeordneten psychosozialen Prozessbegleiter gilt Großbuchstabe A Nummer 1.2.1, 1.2.3 bis 1.3.3, 1.4.1 bis 1.4.3 und 1.5.1 bis 1.5.3 entsprechend.
 
 II.
 
@@ -346,11 +293,11 @@ A.
 
 Vergütung der beigeordneten oder bestellten Rechtsanwälte
 
-Ergänzend zu den vorgenannten Bestimmungen wird zu Ziffer I Teil A Nr. 1.4 Folgendes bestimmt:
+Ergänzend zu den vorgenannten Bestimmungen wird zu Ziffer I Großbuchstabe A Nummer 1.4 Folgendes bestimmt:
 
 1.
 
-Die Vertretung der Staatskasse gemäß Ziffer I Teil A Nr. 1.4.1 erfolgt durch den Bezirksrevisor.
+Die Vertretung der Staatskasse gemäß Ziffer I Großbuchstabe A Nummer 1.4.1 erfolgt durch den Bezirksrevisor.
 
 2.
 
@@ -372,7 +319,8 @@ B.
 
 Vergütung bei Beratungshilfe
 
-Ergänzend zu den vorgenannten Bestimmungen wird zu Ziffer I Teil B Nr. 2 in Verbindung mit Teil A Nr. 2.4.2 und 2.4.3 Folgendes bestimmt:
+Ergänzend zu den vorgenannten Bestimmungen wird zu Ziffer I Großbuchstabe B Nummer 2 in Verbindung mit
+Großbuchstabe A Nummer 2.4.2 und 2.4.3 Folgendes bestimmt:
 
 1.
 
@@ -402,9 +350,9 @@ Fsn-Nr.: 302-V09.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. November 2014
+Fassung gültig ab:  1. Februar 2017
 
-Fassung gültig bis: 31. Januar 2017
+Fassung gültig bis: 31. Dezember 2023
 
 Drucken/Speichern
 
@@ -429,7 +377,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/11270.2
+https://www.revosax.sachsen.de/vorschrift/11270.3
 Stand vom
 18.11.2026
 
