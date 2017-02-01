@@ -1,0 +1,60 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-02-01T17:00:00+01:00
+- Ende: 2017-02-01T19:52:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13194
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13194
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284748.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284748.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284748.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung am 31.08.2016, öffentlicher Teil - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung am 05.10.2016, öffentlicher Teil - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung am 16.11.2016, öffentlicher Teil - einstimmig beschlossen
+- TOP 5: Vorstellung Projekt "Grand Départ zur Tour de France 2017" - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Bauanträge Neuenhofstraße, Gelsenkirchener Straße, Dortmunder Straße - Empfehlung einstimmig beschlossen
+- TOP 13: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage Fraktion BÜNDNIS 90/DIE GRÜNEN: Möbelhaus Theodorstraße - schriftlich beantwortet
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage CDU: AGON 08 Mehrzweckanlage Ascheplatz - schriftlich beantwortet
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Anfrage CDU/FDP: REWE Gelände Reitzensteinkaserne - vertagt
+- TOP 21: Anfrage SPD: Fläche Traglufthalle AGON 08 - schriftlich beantwortet
+- TOP 22: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 23: Anfrage BÜ90/GRÜ: Quartiersplatz Nördliche Westfalenstraße - vertagt
+- TOP 24: Anfrage CDU: Verkehrssicherung Bürgersteige Bezirk 6 - einstimmig beschlossen
+- TOP 25: Antrag SPD: 2 Parkplätze An der Piwipp / Am Kittelbach - einstimmig beschlossen
+- TOP 26: Antrag CDU/FDP: Umbau Haltestelle Rath S - mehrheitlich beschlossen
+- TOP 27: Antrag CDU: Verkehrsspiegel Bottroper Straße - einstimmig beschlossen
+- TOP 28: Antrag CDU: Verkehrssicherung Grütersaaper Weg - einstimmig beschlossen
+- TOP 29: Antrag SPD: Verlängerung Halteverbot Diezelweg - einstimmig beschlossen
+- TOP 30: Antrag SPD: Tempo 30 Thewissenweg - vertagt
+- TOP 31: Antrag SPD: Verkehrsspiegel Kieshecker Weg / Am Schorn - einstimmig beschlossen
+- TOP 32: Antrag CDU: Schulwegsicherung Haltestelle Oberrath U 72 - einstimmig beschlossen
+- TOP 33: Antrag BÜ 90/GRÜ: Lärmaktionsplan Rather Kreuzweg - einstimmig beschlossen
+- TOP 34: Trödelmarkt Schützenplatz Rather Broich 05.03.2017 - einstimmig beschlossen
+- TOP 35: Zuschussvergabe 2016 - einstimmig beschlossen
+- TOP 36: MdV: Dringlichkeitsentscheidung Zuschüsse - einstimmig beschlossen
+- TOP 37: Zuschussvergabe 2017 - Veedelszoch Mörsenbroich/Rath - einstimmig beschlossen
+- TOP 38: Bauunterhaltungsmittel 2017 - einstimmig beschlossen
+- TOP 39: MdV - Informationsvorlage Beratungsergebnis HH-Plan 2017 - zur Kenntnis genommen
+- TOP 40: MdV - GGS Krahnenburgstraße - zur Kenntnis genommen
+- TOP 41: MdV - Fußgängerampel Rather Broich - zur Kenntnis genommen
+- TOP 42: MdV - Parkverbotszone Bochumer Straße - zur Kenntnis genommen
+- TOP 43: MdV - Wattenscheider Straße 3 - zur Kenntnis genommen
