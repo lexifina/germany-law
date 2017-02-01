@@ -26,11 +26,11 @@ zu III. 1.
 7.
 § 979 Abs. 1b Satz 2 in Verbindung mit Satz 1 Halbsatz 1, § 1059a Abs. 1 Nr. 2 Satz 4 und 5, auch in Verbindung mit Abs. 2, §§ 1059e, 1092 Abs. 2 oder § 1098 Abs. 3, und § 1558 Abs. 2 des Bürgerlichen Gesetzbuches (BGB) in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909, 2003 I S. 738), das zuletzt durch Artikel 4 Abs. 5 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3719, 3726) geändert worden ist,
 8.
-Artikel 102 § 1 Abs. 3 Satz 2 und 3 des Einführungsgesetzes zur Insolvenzordnung ( EGInsO) vom 5. Oktober 1994 (BGBl. I S. 2911), das zuletzt durch Artikel 6 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379, 2384) geändert worden ist,
+Artikel 102 § 1 Abs. 3 Satz 2 und 3 des Einführungsgesetzes zur Insolvenzordnung (EGInsO) vom 5. Oktober 1994 (BGBl. I S. 2911), das zuletzt durch Artikel 6 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379, 2384) geändert worden ist,
 9.
-Artikel 293 Abs. 1 des Einführungsgesetzes zum Strafgesetzbuch ( EGStGB) vom 2. März 1974 (BGBl. I S. 469, 1975 I S. 1916, 1976 I S. 507), das zuletzt durch Gesetz vom 20. Dezember 2012 (BGBl. I S. 2756) geändert worden ist,
+Artikel 293 Abs. 1 des Einführungsgesetzes zum Strafgesetzbuch (EGStGB) vom 2. März 1974 (BGBl. I S. 469, 1975 I S. 1916, 1976 I S. 507), das zuletzt durch Gesetz vom 20. Dezember 2012 (BGBl. I S. 2756) geändert worden ist,
 10.
-§ 41a Abs. 2 der Strafprozessordnung ( StPO) in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 3 des Gesetzes vom 23. April 2014 (BGBl. I S. 410, 411) geändert worden ist,
+§ 41a Abs. 2 der Strafprozessordnung (StPO) in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 3 des Gesetzes vom 23. April 2014 (BGBl. I S. 410, 411) geändert worden ist,
 11.
 § 52a Abs. 1 Satz 1 bis 6, § 52b Abs. 1 Satz 2 bis 5 der Finanzgerichtsordnung (FGO) in der Fassung der Bekanntmachung vom 28. März 2001 (BGBl. I S. 442, 2262, 2002 I S. 679), die zuletzt durch Artikel 6 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786, 3793) geändert worden ist,
 12.
@@ -42,9 +42,9 @@ Artikel 293 Abs. 1 des Einführungsgesetzes zum Strafgesetzbuch ( EGStGB) vom 2.
 15.
 § 133a Abs. 5 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114), die zuletzt durch Artikel 12 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786, 3796) geändert worden ist,
 16.
-§ 8a Abs. 2 und § 9 Abs. 1 Satz 3 Halbsatz 2 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 4. Oktober 2013 (BGBl. I S. 3746) geändert worden ist, auch in Verbindung mit § 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 8 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379, 2385) geändert worden ist, oder § 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe ( Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 1 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2386) geändert worden ist,
+§ 8a Abs. 2 und § 9 Abs. 1 Satz 3 Halbsatz 2 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 4. Oktober 2013 (BGBl. I S. 3746) geändert worden ist, auch in Verbindung mit § 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 8 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379, 2385) geändert worden ist, oder § 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 1 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2386) geändert worden ist,
 17.
-§ 2 Abs. 2, § 5 Abs. 4 Satz 2 bis 4 der Insolvenzordnung ( InsO) vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533, 3537) geändert worden ist,
+§ 2 Abs. 2, § 5 Abs. 4 Satz 2 bis 4 der Insolvenzordnung (InsO) vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533, 3537) geändert worden ist,
 18.
 § 12 Abs. 3 des Gesetzes zur Aus- und Durchführung bestimmter Rechtsinstrumente auf dem Gebiet des internationalen Familienrechts (Internationales Familienrechtsverfahrensgesetz – IntFamRVG) vom 26. Januar 2005 (BGBl. I S. 162), das zuletzt durch Artikel 7 des Gesetzes vom 23. Mai 2011 (BGBl. I S. 898, 916) geändert worden ist,
 19.
@@ -52,13 +52,13 @@ Artikel 293 Abs. 1 des Einführungsgesetzes zum Strafgesetzbuch ( EGStGB) vom 2.
 20.
 § 68 Abs. 3, § 110a Abs. 2 und § 110b Abs. 1 Satz 2 bis 4 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 18 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786, 3796) geändert worden ist,
 21.
-§ 19 Abs. 1 und 2, § 20 Abs. 3, § 24b Abs. 1 und 2 sowie § 36b Abs. 1 des Rechtspflegergesetzes ( RPflG) in der Fassung der Bekanntmachung vom 14. April 2013 (BGBl. I S. 778, 2014 I S. 46), das zuletzt durch Artikel 5 Abs. 2 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3799, 3807) geändert worden ist,
+§ 19 Abs. 1 und 2, § 20 Abs. 3, § 24b Abs. 1 und 2 sowie § 36b Abs. 1 des Rechtspflegergesetzes (RPflG) in der Fassung der Bekanntmachung vom 14. April 2013 (BGBl. I S. 778, 2014 I S. 46), das zuletzt durch Artikel 5 Abs. 2 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3799, 3807) geändert worden ist,
 22.
 § 65a Abs. 1 Satz 1 bis 6 und § 65b Abs. 1 Satz 2 bis 5 des Sozialgerichtsgesetzes (SGG) in der Fassung der Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), das zuletzt durch Artikel 7 des Gesetzes vom 19. Oktober 2013 (BGBl. I S. 3836, 3846) geändert worden ist,
 23.
 § 13 Abs. 2 des Gesetzes gegen den unlauteren Wettbewerb (UWG) in der Fassung der Bekanntmachung vom 3. März 2010 (BGBl. I S. 254), das zuletzt durch Artikel 6 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3714, 3716) geändert worden ist,
 24.
-§ 6 Abs. 2 des Gesetzes über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen ( Unterlassungsklagengesetz – UKlaG) in der Fassung der Bekanntmachung vom 27. August 2002 (BGBl. I S. 3422, 4346), das zuletzt durch Artikel 7 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3714, 3717) geändert worden ist,
+§ 6 Abs. 2 des Gesetzes über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen (Unterlassungsklagengesetz – UKlaG) in der Fassung der Bekanntmachung vom 27. August 2002 (BGBl. I S. 3422, 4346), das zuletzt durch Artikel 7 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3714, 3717) geändert worden ist,
 25.
 § 55a Abs. 1 Satz 1 bis 6 und § 55b Abs. 1 Satz 2 bis 5 der Verwaltungsgerichtsordnung (VwGO) in der Fassung der Bekanntmachung vom 19. März 1991 (BGBl. I S. 686), die zuletzt durch Artikel 5 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786, 3792) geändert worden ist,
 26.
