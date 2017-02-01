@@ -11,8 +11,6 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  |  | 1.4 | Durchführung der Einheitsbewertung und Bedarfsbewertung des Grundvermögens
  |  |  | 1.5 | (aufgehoben)
  |  |  | 1.6 | Festsetzung und Erhebung der Grundbesitzabgaben
- |  |  | 1.7 | Kassengeschäfte
- |  |  | 1.8 | (aufgehoben)
 2 | Bremen | Alle Finanzämter im Lande Bremen | 2.1 | Besteuerung der in Norwegen, Finnland und Lettland ansässigen Unternehmer auf Grund bundesweit verordneter Übertragung der örtlichen Zuständigkeit hinsichtlich
  |  |  | 2.1.1 | der Umsatzsteuer
  |  |  | 2.1.2 | der Steuern vom Einkommen und Vermögen, wenn der Unternehmer Bauleistungen (§ 48 Absatz 1 Satz 2 Einkommensteuergesetz) erbringt
