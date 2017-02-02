@@ -1,0 +1,67 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-02T16:10:00+01:00
+- Ende: 2017-02-02T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16810
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16810
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 02.02.2017, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00598720.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 02.02.2017, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00598720.pdf
+- Wortprotokoll: Tagesordnung, Stand 02.02.2017, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00598720.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Schadstoffemissionen durch die Braunkohlegranulat-Wirbelschichtfeuerung des Heizkraftwerkes der Rheinenergie in Köln-Merkenich - Sache ist erledigt
+- TOP 1.1.1: Schadstoffemissionen und Kosten durch die Braunkohlegranulat-Wirbelschichtfeuerung des Heizkfraftwerkes der Rheinenergie in Köln-Merkenich - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Emissionen von Stickoxiden in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.3: Umweltcontrolling - zurückgestellt
+- TOP 1.4: Beseitigung von Müll im Rhein - Sache ist erledigt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Ausbau von Gut Leidenhausen zu einem Umweltzentrum - ungeändert beschlossen
+- TOP 2.2: Vergrämung von Halsbandsittichen - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Förderung der Elektromobilität - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - geändert beschlossen
+- TOP 4.1.1: Top 4.2. (3339/2016) Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - ungeändert beschlossen
+- TOP 4.1.2: Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - endgültig abgelehnt
+- TOP 4.2: Stadtentwässerungsbetriebe Köln, AöR (StEB) Abwasserbeseitigungskonzept 2017 - ungeändert empfohlen
+- TOP 4.3: Gestaltungsplanung für die Erweiterung des Kooperationsgräberfeldes auf dem Friedhof Esch - ungeändert beschlossen
+- TOP 4.4: Gestaltungsplanung für ein Kooperationsgräberfeld auf dem Kölner Nordfriedhof - ungeändert beschlossen
+- TOP 4.5: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - zurückgestellt
+- TOP 4.6: Stadtklima-/Stadtverschönerungsprogramm 2016 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert beschlossen
+- TOP 4.7: Freiraumplanerischer Wettbewerb Parkstadt Süd - Teilbereich Eifelwall - geändert beschlossen
+- TOP 4.7.1: Freiraumplanerischer Wettbewerb Parkstadt Süd - Teilbereich Eifelwall (Vorlagen-Nummer 4159/2016) - ungeändert beschlossen
+- TOP 4.8: Grüne Infrastruktur Köln - ungeändert empfohlen
+- TOP 4.9: Ersatzbeschaffung von 2 Schleppern für den Bereich Mähen und Pflegen von Großrasenflächen und von 1 Schmalspurschlepper für den Bereich Straßenbegleitgrün - ungeändert beschlossen
+- TOP 4.10: Freigabe zusätzlicher Mittel für Maßnahmen zur Biodiversität und Umweltbildung Teilplan 1401 - Umweltordnung und Umweltvorsorge - ungeändert beschlossen
+- TOP 4.11: Ersatzbeschaffung von 5 Gräberbaggern für den Bereich Friedhöfe - ungeändert beschlossen
+- TOP 4.12: Ersatzbeschaffung von 4 Großflächenmähern für die Rasenpflege im Bereich Friedhöfe - ungeändert beschlossen
+- TOP 4.13: Kombinierter Planungs- und Baubeschluss zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs, Bauabschnitt 4 (Los 4a/b) - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Statusbericht Rheinboulevard
+- TOP 7.2: Statusbericht Schaugewächshaus
+- TOP 7.3: Baumfällungen 2016 im gesamten Stadtgebiet - Kenntnis genommen
+- TOP 7.4: Nutzungskonzept für Veranstaltungen im Rheinpark - Kenntnis genommen
+- TOP 7.5: Beantwortung einer Anfrage der SPD- Fraktion zum Denkmal Bahnhof Belvedere im Ausschuss Kunst und Kultur vom 06.12.2016 (AN/2035/2016) - Kenntnis genommen
+- TOP 7.6: Sperrung des Zollstocker Weges zum Schutz von Erdkröten - Kenntnis genommen
+- TOP 7.7: Förderaufruf “KommunalerKlimaschutz.NRW“ Beschluss des Ausschusses Umwelt und Grün vom 08.12.2016 zum Antrag der SPD-Fraktion vom 24.11.2016 (AN/1980/2016) - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Rohrleitungsschaden Naphtha Nachfrage zum Sachstandsbericht zum 15.11.2016 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Sachstand Kiosk Rheinboulevard - Kenntnis genommen
+- TOP 9.2: Energiebericht der Museen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.3: Beschwerde von Neuland wegen Vergabe des Parkplatzes an der Koblenzer Straße - Kenntnis genommen
+- TOP 9.4: Erkenntnisse zu Baumfällungen auf dem Schwester-Klaus-Bauwagenplatz
