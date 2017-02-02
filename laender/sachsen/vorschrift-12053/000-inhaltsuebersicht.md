@@ -12,7 +12,7 @@ Abschnitt 2 Aufnahme und Schulwechsel
 § 7 Bildungsberatung
 § 8 Schulwechsel an eine andere Mittelschule
 § 9 Schulwechsel an eine Förderschule
-§ 10 Schulwechsel an ein Gymnasium
+§ 10 (weggefallen)
 § 11 Schulwechsel vom Gymnasium an die Mittelschule
 § 12 Schülerunterlagen bei Schulwechsel
 Abschnitt 3 Unterrichtsorganisation
