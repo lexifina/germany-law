@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-02-02T14:00:00+01:00
+- Ende: 2017-02-02T20:35:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13437
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13437
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284821.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284821.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284821.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell der FDP: Folgen des Rücktritts von Bahnchef Rüdiger Grube - beantwortet
+- TOP 3.2: Anfrage aktuell der CDU: Verwaltung 2020 - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der FDP- Ratsfraktion: Vermarktung der Tischtennis WM 2017 - beantwortet
+- TOP 4.2: Anfrage Tierschutzpartei-Freie Wähler: Gesamtabschlüsse - beantwortet
+- TOP 4.3: Anfrage Tierschutzpartei-Freie Wähler: Entwicklung der Verbindlichkeiten in den Eröffnungs- bzw. Ges - beantwortet
+- TOP 4.4: Anfrage Die Linke: Zusammenarbeit mit DITIB - beantwortet
+- TOP 4.5: Anfrage Rf. Krüger: Tierschutz am Hofgartenweiher und am Schwanenhaus - beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Vogel: Nachtschlafstellen für Obdachlose - beantwortet
+- TOP 4.7: Anfrage des Ratsherrn Maniera: Sexuelle Übergriffe in Düsseldorfer Schwimmbädern - schriftlich beantwortet
+- TOP 4.8: Anfrage des Ratsherrn Maniera: Entwicklung der Wohnungs- und Obdachlosenzahlen - schriftlich beantwortet
+- TOP 4.9: Anfrage Rh Grenda: Abfallwirtschaftskonzept (AwikO) / Abfallübertragungsrechte - schriftlich beantwortet
+- TOP 4.10: Anfrage Rh Grenda: Klimaschutz-Masterplan Düsseldorf - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 7: Änderungsbeschluss Brandschutz U-Bf Hbf - einstimmig beschlossen
+- TOP 8: Nutzung einer Teilfläche des Nordparks im Rahmen der "Tour de France 2017" - mehrheitlich beschlossen
+- TOP 9: Sanierung Schumannhaus Bilker Straße 15 - einstimmig beschlossen
+- TOP 10: Eintrittspreisfestsetzung Aquazoo/ Löbbecke-Museum Düsseldorf - mehrheitlich beschlossen
+- TOP 11: Filmmuseum - Änderung der Entgeltordnung für das Filmmuseum der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 12: Annahme einer Schenkung für das Stadtmuseum - einstimmig beschlossen
+- TOP 13: Annahme einer Spende - einstimmig beschlossen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2017 - mehrheitlich beschlossen
+- TOP 15: Wiederwahl eines Schiiedsmannes - einstimmig beschlossen
+- TOP 16: 7. Satzung zur Änderung der Satzung der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 17: Bildung einer Kleinen Kommission Haushaltszukunftskonzept - mehrheitlich beschlossen
+- TOP 18: Gründung des Vereins "Metropolregion Rheinland" - mehrheitlich beschlossen
+- TOP 19: Bestellung stimmberechtigter Delegierter zur Teilnahme an der 39. ordentlichen Hauptversammlung des - mehrheitlich beschlossen
+- TOP 20: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - einstimmig beschlossen
+- TOP 21: Euregiorat des Zweckverbandes Euregio Rhein-Waal - einstimmig beschlossen
+- TOP 22: Genehmigung 60er: Aufsichtsrat Regiobahn Fahrbetriebsgesellschaft mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 23: Aufsichtsrat der Regiobahn Fahrbetriebsgesellschaft mbH – Ersatzwahl - einstimmig beschlossen
+- TOP 24: Anträge
+- TOP 24.1: Antrag der Ratsfraktion DIE LINKE: Keine Mittel für Rheinkomet - mehrheitlich abgelehnt
+- TOP 24.2: Antrag der CDU-Ratsfraktion: Rückforderung zu viel gezahlter Rechtsanwaltskosten - zur Kenntnis genommen
+- TOP 24.3: Antrag der Ratsfraktion DIE LINKE: Widerspruch bekannt machen - zur Kenntnis genommen
+- TOP 24.3.1: ÄA SPD, BÜ90/GRÜ und FDP:Widerspruch bekannt machen - mehrheitlich beschlossen
+- TOP 24.4: Antrag Tierschutz-Freie Wähler-Unverzügliche Einleitung aller rechtlichen Mittel und Schritte gegen - zurückgezogen
+- TOP 24.5: Antrag der FDP-Ratsfraktion: Smart City - mehrheitlich beschlossen
+- TOP 24.6: Antrag Die Linke: Keine Abschiebungen aus Düsseldorf nach Afghanistan - zur Kenntnis genommen
+- TOP 24.6.1: ÄA Bü90-Grü, SPD und FDP: Abschiebungen nach Afghanistan - mehrheitlich beschlossen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
