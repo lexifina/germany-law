@@ -1,0 +1,6 @@
+# TOP 5.: Satzungsrecht
+
+- Sitzung: Ausschuss für Stadtentwicklung, Wirtschaft und Umwelt (103. Sitzung) (2017-02-02)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/49615
