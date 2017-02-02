@@ -1,0 +1,85 @@
+# 20. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-02T17:00:00+01:00
+- Ende: 2017-02-02T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17140
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17140
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. 24 GO "Spielplatz Am Tetzerkamp" (AZ.: 02-1600-180/16) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO "Vorschlag eines Bewohnerparkgebietes" (AZ.: 02-1600-200/16) - endgültig abgelehnt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Beleuchtung des Parkplatzes An der Schanz 2 (Az.: 02-1600-158/16) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstand Nippeser Tälchen - Kenntnis genommen
+- TOP 7.1.2: Zustand Gehsteig/Fahrradweg Niehler Straße zwischen Friedrich-Karl-Straße und der Nordstraße (Westseite) - Kenntnis genommen
+- TOP 7.1.3: Wohnungsbauoffensive - Kenntnis genommen
+- TOP 7.1.4: Belastungen für Niehl und den Kölner Norden durch das ehem. Bauer Gelände, HGK Container Terminal und einen eventuellen Ausbau des Hafens Niehl - Kenntnis genommen
+- TOP 7.1.5: Halteverbote wegen Dreharbeiten in der Lokomotivstraße am 01. und 02.09.2016 - Kenntnis genommen
+- TOP 7.1.6: Entfernung von alten Werbeanlagen am "Nippestower" - Kenntnis genommen
+- TOP 7.1.7: Elfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln 3465/2016 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Straßenbeleuchtung Theklastraße - Kenntnis genommen
+- TOP -: Straßenbeleuchtung Theklastraße, Anfrage der FDP zur Sitzung am 02.02.2017, hier: TOP 7.2.1
+- TOP 7.2.2: Barrierefreiheit für mobilitätseingeschränkte Senioren
+- TOP 7.2.3: Sicherheit in Longerich
+- TOP 7.2.4: Solartankstellen/Ladestationen für Elektroautos und E-Bikes auf dem Clouth Gelände
+- TOP 7.2.5: Bewohnerparken im Stadtbezirk Nippes
+- TOP 7.2.6: Kahlschlag in dem Gehölzstreifen zwischen Sebastianstraße und Hermesgasse in Köln-Niehl
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Schlaue Solar-Mülleimer für Nippes - Sache ist erledigt
+- TOP -: Ersetzungsantrag von SPD und CDU - ungeändert beschlossen
+- TOP 8.1.2: Änderung LKW-Führungskonzept Boltensternstraße: Öffnung der Hafentrasse für den LKW-Verkehr und Herabstufung der Boltensternstraße - geändert beschlossen
+- TOP 8.1.3: Antrag an die Bezirksregierung Köln nach §45 Absatz 1b Nr. 5 der StVO Temporeduzierung auf der A57 in Höhe Blücherpark/Kleingärten - Sache ist erledigt
+- TOP 8.1.4: Nutzung von E-Mobilität in der Bezirksverwaltung Nippes - geändert beschlossen
+- TOP 8.1.5: Halteverbot in der Brehmstraße aufheben - Sache ist erledigt
+- TOP 8.1.6: Elektromobilität - geändert beschlossen
+- TOP 8.1.7: Geschwindigkeitskontrollen auf dem Niehler Kirchweg - geändert beschlossen
+- TOP 8.1.8: Ausweitung des Parkplatzangebotes auf der Lokomotivstraße in Köln-Nippes - ungeändert beschlossen
+- TOP 8.1.9: Fußgängersicherung Hildegardisstraße/Ecke Philipp-Wirtgen-Straße - ungeändert beschlossen
+- TOP 8.1.10: Verbesserung der Lichtverhältnisse Wartburgplatz 6-14 - ungeändert beschlossen
+- TOP 8.1.11: Querung des Wilhelmplatzes durch Kraftfahrzeuge verhindern - Sache ist erledigt
+- TOP 8.1.12: Handyladestationen im Bereich der KVB - geändert beschlossen
+- TOP 8.1.13: Verkehrssituation Katholikentagssiedlung in Longerich - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Einrichtung einer stationären Geschwindigkeitskontrollanlage auf dem Schiefersburger Weg - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung einer Mega-Light-Werbeanlage an dem Standort Neusser Str. ggü. der Zufahrt zur Bremerhavener Str. - ungeändert beschlossen
+- TOP 9.1.2: Gewährung von bezirksorientierten Mitteln - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über die abweichende Herstellung der Erschließungsanlage Niehler Damm von Sebastianstraße bis Merkenicher Straße in Köln-Niehl - ungeändert beschlossen
+- TOP 9.2.2: Seniorenkoordination im Stadtbezirk - zurückgestellt
+- TOP 9.2.3: Gestaltungsplanung für ein Kooperationsgräberfeld auf dem Kölner Nordfriedhof - ungeändert beschlossen
+- TOP 9.2.4: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - geändert beschlossen
+- TOP 9.2.5: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - ungeändert beschlossen
+- TOP 9.2.6: Umgestaltung des Einmündungsbereichs Sebastianstraße/Niehler Damm, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der - ungeändert beschlossen
+- TOP 9.2.7: Baubeschluss: Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Turnhalle am Standort des ehemaligen "Nippesbad", Friedrich-Karl-Str. / Ecke Niehler Kirchweg, 50733 Köln-Nippes, in Modulbauweise - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Beantwortung der Nachfragen des BV Steinbach aus der Sitzung der BV 5 vom 23.06.2016 betr. TOP 10.2.12 "BV5-Beschluss a.d. Sitzung vom 11.09.2014, TOP 8.2.2 Neugestaltung des Ortseingangs Niehl - Antrag der SPD-Fraktion (AN/1017/2014)" - Kenntnis genommen
+- TOP 10.2.2: Antrag der CDU-Fraktion vom 23.11.2016 betreffend Ausweisung eines Bebauungsplanes auf der Gemarkung Rübenacker (AN/1965/2016) - Kenntnis genommen
+- TOP 10.2.3: Antrag der SPD-Fraktion vom 30.08.2016 betreffend Einrichtung zur Überprüfung und Überwachung der Immobilien der Deutsche Bahn AG (AN/1375/2016) - Kenntnis genommen
+- TOP 10.2.4: Beleuchtung des Hauptweges vom Clouth-Gelände zur KVB-Haltestelle Kinderkrankenhaus - Kenntnis genommen
+- TOP 10.2.5: Zusätzliche Müllbehälter entlang der Straße "Am Molenkopf" - Kenntnis genommen
+- TOP 10.2.6: Neuaufstellung des Regionalplans - Kenntnis genommen
+- TOP 10.2.7: Baumfällungen 2016 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.8: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 10.2.9: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 10.2.10: Verkehrsauswirkungen auf die für den Lkw-Verkehr gesperrten Leverkusener Autobahnbrücke - Kenntnis genommen
+- TOP 10.2.11: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 10.2.12: Änderungen zum Fahrplanwechsel (TOP 10.2.3 am 08.12.2016) - Kenntnis genommen
