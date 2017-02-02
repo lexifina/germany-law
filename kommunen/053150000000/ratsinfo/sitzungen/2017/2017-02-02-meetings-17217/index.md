@@ -1,0 +1,63 @@
+# 20. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-02T17:10:00+01:00
+- Ende: 2017-02-02T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17217
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17217
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00596360.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00596360.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00596360.pdf
+
+## Tagesordnung
+
+- TOP -: Schulcontainerstandorte im Stadtbezirk Kalk: Umsetzung vor Ort - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Kalk gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP -: Wahl der Bezirksbürgermeisterin/des Bezirksbürgermeisters und ihrer/seiner Stellvertreter/innen gemäß §§ 36 Abs. 3 Satz 2, § 67 Abs. 2 i.V.m § 50 Abs. 2 GO NRW
+- TOP -: Einführung und Verpflichtung der Bezirksbürgermeisterin/des Bezirksbürgermeisters gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 der Hauptsatzung der Stadt Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Sachstand Aktivitäten Rund um den Kalkberg II – Geheimsitzung am 18.01.2017 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Barrierefreier Ein- und Ausgang für den Kalker Friedhof in Köln-Merheim - ungeändert beschlossen
+- TOP 7.2: Prioritätenliste für Kunstrasenplätze im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für die Umgestaltung der Neuerburgstraße im Bereich zwischen Kalker Hauptsstraße und Sieversstraße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-8-1015, Umgestaltung Neuerburgstraße - ungeändert beschlossen
+- TOP 8.1.2: Errichtung einer Mega-Light-Werbeanlage vor dem Grundstück Frankfurter Straße gegenüber 716, Weinheimer Straße - geändert beschlossen
+- TOP -: Errichtung einer Mega-Light-Werbeanlage vor dem Grundstück Frankfurter Straße gegenüber 716, Weinheimer Straße - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Seniorenkoordination im Stadtbezirk - ungeändert beschlossen
+- TOP 8.2.2: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - geändert beschlossen
+- TOP 8.2.3: Grüne Infrastruktur Köln - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Fußgängerüberweg an der Bushaltestelle "Wiehler Straße" in Köln-Brück - Kenntnis genommen
+- TOP 9.1.2: Beantwortung der Anfrage der CDU-Fraktion vom 30.11.2016 betreffend Sportflächen des RSV Rath/Heumar (AN/2031/2016) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Flüchtlingsunterkunft auf dem Gelände Olpener Straße zwischen Hausnummer 179 und 201 in Köln-Höhenberg - Kenntnis genommen
+- TOP -: Flüchtlingsunterkunft auf dem Gelände Olpener Straße zwischen Hausnummer 179 und 201 in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2.2: Sachstand zur Umgestaltung des Alten Kalker Friedhofs an der Kapellenstraße in Köln-Kalk - Kenntnis genommen
+- TOP 9.2.3: Herstellung einer Wegeverbindung durch den Kalker Friedhof zwischen Hohensyburgstraße und Kieskauler Weg in Köln-Merheim - Kenntnis genommen
+- TOP 9.2.4: Einrichtung eines rechtsrheinischen Drogenkonsumraums im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Grundschule Forststraße - Auslagerungsobjekt Erikaweg - Kenntnis genommen
+- TOP 10.2.2: Baumfällungen 2016 im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.3: Neuaufstellung des Regionalplans - Kenntnis genommen
+- TOP 10.2.4: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 10.2.5: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 10.2.7: Umgestaltung des öffentlichen Spielplatzes Homarstraße/Kampgasse in Köln-Vingst - Kenntnis genommen
