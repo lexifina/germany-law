@@ -1,0 +1,68 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-02-03T16:00:00+01:00
+- Ende: 2017-02-03T17:51:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13400
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13400
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284878.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284878.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00284878.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Hospitalstraße - Abbruch des alten Hospitals - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Bonner Straße 121 - Gutshof Niederheid - einstimmig beschlossen
+- TOP 12: Genehmigung einer dringlichen Entscheidung-Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2017 - mehrheitlich beschlossen
+- TOP 13: Bezirklicher Bauunterhalt 2017 - zurückgezogen
+- TOP 14: Einwohnerfragestunde im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 15: Anfrage: Hydraulische Poller Marktplatz Benrath - beantwortet
+- TOP 16: Anfrage: Einrichtung einer Busspur auf der Münchener Straße - beantwortet
+- TOP 17: Anfrage: Ansiedlung eines Logistikers auf dem Grundstück Am Tripppelsberg 100 - beantwortet
+- TOP 18: Anfrage: Lieferfahrzeuge auf Fußgängerüberwegen, Radwegen etc. - beantwortet
+- TOP 19: Anfrage: Nutzung Turnhalle Schillstraße - vertagt
+- TOP 20: Antrag: Fahrradstation Bahnhof Benrath - einstimmig beschlossen
+- TOP 21: Antrag: Verkehrskonzept Paulsmühle - einstimmig beschlossen
+- TOP 22: Antrag: Beleuchtung Fußweg zwischen Werstener Dorfstraße und Nixenstraße - zurückgezogen
+- TOP 23: Antrag: Schulwegsicherung - einstimmig beschlossen
+- TOP 24: Antrag: Parken in Spielstraßen - mehrheitlich beschlossen
+- TOP 25: Antrag: Investitionspakt Soziale Integration im Quartier NRW 2017 – Dreifachsport- und Multifunktion - einstimmig beschlossen
+- TOP 26: Antrag: Bedarfsbeschluss Bezirkssportanlage Am Wald 130 - einstimmig beschlossen
+- TOP 27: Antrag: Absolutes Haltverbot auf der Straße "Alt Himmelgeist" - einstimmig beschlossen
+- TOP 28: Antrag: Neuinstallation Industrieuhr Pauslmühle - mehrheitlich beschlossen
+- TOP 29: Antrag: Parkscheibenregelung Friedhof Hassels - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Lauftreff Düsseldorf-Süd e.V. - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Förderkreis Henri-Dunant-GGS e.V. - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel GGS Schillstraße - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel St. Hubertus Schützenbruderschaft Itter e.V. - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Benrather Kulturkreis - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel Verein Himmelgeist 1100 e.V. - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel Diakonie Düsseldorf, Zentrum plus - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel Karnevalsgesellschaft Düsseldorfer Räbbelche 1962 e.V. - einstimmig beschlossen
+- TOP 38: Antrag: Verfügungsmittel Repräsentation 2017 - einstimmig beschlossen
+- TOP 39: Antrag: Verfügungsmittel Geranien - einstimmig beschlossen
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 26.08.2016 - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 29.04.2016, Baumerhalt Heggemannstraße - 179/96/2016 - zur Kenntnis genommen
+- TOP 42: Informationsvorlage zum Beschluss der BV 9 vom 29.04.2016, Entsiegelung von Pflasterflächen im Berei - zur Kenntnis genommen
+- TOP 43: Informationsvorlage Hügelstraße- Barrierefreier Ausbau der Haltestelle „Hinter den Höfen“, Fahrtrich - zur Kenntnis genommen
+- TOP 44: Informationsvorlage Halbuschstraße- Barrierefreier Ausbau der Haltestelle „IKEA-Reisholz“, Fahrtrich - zur Kenntnis genommen
+- TOP 45: Informationsvorlage Am Trippelsberg- Barrierefreier Ausbau der Haltestelle „Lingner Werke“ - zur Kenntnis genommen
+- TOP 46: Informationsvorlage zum Beschluss der BV 9 vom 06.11.2015, Einbau Sonnenschutz - zur Kenntnis genommen
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 17.06.2016 - zur Kenntnis genommen
+- TOP 48: Informationsvorlage zum Beschluss der BV 9 vom 30.09.2016, Durchgang zum Brückerbach - zur Kenntnis genommen
+- TOP 49: Annette-von-Droste-Hülshoff-Gymnasium, Brucknerstraße 19 - Empfehlung einstimmig beschlossen
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Informationsvorlage zum Ergänzungsantrag zur Vorlage 40/87/2016-Gymnasium Koblenzer Straße - zur Kenntnis genommen
