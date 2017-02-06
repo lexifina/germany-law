@@ -1,0 +1,86 @@
+# 21. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-06T16:00:00+01:00
+- Ende: 2017-02-06T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17132
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17132
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00598932.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00598932.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00598932.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 3.1: Bürgereingabe gem. 24 GO "Einbahnstraßenregelung in der Hollerather Straße in Köln-Sülz" (AZ.: 02-1600-116/16) - ungeändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Gehweg Luxemburger Straße 261 (Az.: 02-1600-142/16) - Alternative beschlossen
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Reinigung des Umfeldes vom Rheincenter Köln-Weiden an Samstagen - Kenntnis genommen
+- TOP 7.1.2: Räumliche Ausstattung der Albert-Schweitzer-Grundschule in Köln-Weiden - Kenntnis genommen
+- TOP 7.1.3: Zwischennutzung von zusätzlichen Flächen zur Entlastung der Parkmöglichkeiten Weiden West - Kenntnis genommen
+- TOP 7.1.4: Beantwortung der Anfrage der SPD- Fraktion zum Denkmal Bahnhof Belvedere (AN/2035/2016) - Kenntnis genommen
+- TOP 7.1.5: Regelmäßigkeit des Bücherbuseinsatzes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen - Kenntnis genommen
+- TOP 7.2.1: Umsetzung Radverkehrskonzept Lindenthal/Sülz/Klettenberg 2016 - Kenntnis genommen
+- TOP 7.2.2: Sachstand zur äußeren Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk - Kenntnis genommen
+- TOP 7.2.3: Schließung von Filialen der Sparkasse im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.2.4: Regelmäßigkeit des Einsatzes des Büchereibusses - Kenntnis genommen
+- TOP 7.2.5: Sachstand Baumaßnahme Brauweiler Weg 97 - Kenntnis genommen
+- TOP 7.2.6: Sachstandsbericht zur Machbarkeitsstudie Bahnsteiganhebung Gürtel - Kenntnis genommen
+- TOP 7.2.7: Beseitigung des Schadstoffaufkommens in den Klassenräumen der Olympia Schule in Köln-Widdersdorf - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Erweiterung des Einzugsbereichs der S-Bahn Haltestelle Köln-Müngersdorf/Technologiepark - ungeändert beschlossen
+- TOP 8.1.2: Anliegerparken im Gartenweg in Köln-Weiden - geändert beschlossen
+- TOP 8.1.3: Unterbindung des Parkens auf Grünflächen - ungeändert beschlossen
+- TOP 8.1.4: Parkplatzsituation Nachbarschaft Haupteingang Melaten - ungeändert beschlossen
+- TOP 8.1.5: Erwerb der Weißhaus-Immobilie einschließlich Parkanlage durch die öffentliche Hand - geändert beschlossen
+- TOP 8.1.6: Beleuchtung Eschweiler Strasse - ungeändert beschlossen
+- TOP 8.1.7: Umwandlung von Grünflächen in Stellplätze - ungeändert beschlossen
+- TOP 8.1.8: Neuordnung der Parksituation auf der Ostseite der Landgrafenstraße - ungeändert beschlossen
+- TOP 8.1.9: Barrierfreier Gehweg Alter Militärring - geändert beschlossen
+- TOP 8.1.10: Verbesserung Geh- und Radweg bei der Baustelle Lindenthalgürtel 100 - geändert beschlossen
+- TOP 8.1.11: Entfernung von Fahrrädern mit sexistischen Werbeaufschriften - ungeändert beschlossen
+- TOP 8.1.12: Beendung der Schürfarbeiten am Denkmal Bahnhof Belvedere - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 8.2.1: Erhöhung der Häuserzeile Berrenrather Str. 477-433 in Köln Sülz - ungeändert beschlossen
+- TOP 8.2.2: Schaffung sichere Überquerung der Straßen "Kronstädter Straße" und "Ignystraße" in Köln-Weiden - ungeändert beschlossen
+- TOP 8.2.3: Beteiligung an den Kosten zur Wiederherstellung durch parkende Fahrzeuge zerstörter Grünflächen nach dem Verursacherprinzip - ungeändert beschlossen
+- TOP 8.2.4: Beleuchtung in der Bunzlauer Str., der Potsdamer Str. und der Charlottenburger Str. in Köln-Weiden / Sperrung der Durchwegung der Verlängerung der Bunzlauer Str. und der Potsdamer Str. in Köln-Weiden für KFZ - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Einziehung eines Teilstücks der Clarenbachstraße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.1.2: Nachbesetzung Rahmenplanungsbeirat Braunsfeld / Müngersdorf / Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - ungeändert beschlossen
+- TOP 9.2.2: Seniorenkoordination im Stadtbezirk - endgültig abgelehnt
+- TOP 9.2.3: Programm RRX-Außenäste - geändert beschlossen
+- TOP -: Ergänzungsantrag zu Programm RRX-Außenäste Umbau Bahnhof Süd - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Verkehrsgestaltung/Parksituation an der Woensamstraße in Köln-Lindenthal - Kenntnis genommen
+- TOP 11.2.2: Fahrradabstellfläche auf dem Lindenthalgürtel vor dem Wohnheim des Kölner Studentenwerks - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Baumfällungen 2016 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.3.2: Generalsanierung der Waldsiedlung, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der Finanzstelle 6601-1201-3-1039, - Kenntnis genommen
+- TOP 11.3.3: Sachstand und weiteres Vorgehen Verkehrskonzept Zülpicher Straße - Kenntnis genommen
+- TOP 11.3.4: Erneuerung der Lichtsignalanlage und Umbau der Kreuzung Am Himmel/Am Weidenpesch/ - Kenntnis genommen
+- TOP 11.3.5: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 11.3.6: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 11.3.7: Errichtung einer temporären Flüchtlingsunterkunft in Systembauweise Dürener Str. (neben 283) - Kenntnis genommen
+- TOP 11.3.8: Planfeststellungsbeschluss für den Neubau der 110-/380-kV-Höchstspannungsfreileitung Rommerskirchen-Sechtem der Amprion GmbH - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
