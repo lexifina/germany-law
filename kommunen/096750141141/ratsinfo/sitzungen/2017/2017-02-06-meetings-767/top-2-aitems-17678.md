@@ -1,0 +1,6 @@
+# TOP 2: Angelegenheiten und Anliegen der Bürgerinnen und Bürger aus Hoheim
+
+- Sitzung: Bürgerversammlung für den Ortsteil Hoheim (2017-02-06)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/17678
