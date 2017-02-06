@@ -1,0 +1,8 @@
+# TOP -: Ergänzungsantrag zu Programm RRX-Außenäste Umbau Bahnhof Süd
+
+- Sitzung: 21. Sitzung der Bezirksvertretung Lindenthal (2017-02-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/220989
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/103057
