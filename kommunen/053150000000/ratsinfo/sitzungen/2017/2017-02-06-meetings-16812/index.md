@@ -1,0 +1,55 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-06T17:05:00+01:00
+- Ende: 2017-02-06T18:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16812
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16812
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Sachstand "Blitzer auf der A3"
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Novellierung Förderrichtlinien - ungeändert beschlossen
+- TOP 2.2: Ziele, Aufgaben, Strukturen und Prozesse der gemeinsamen `Europa Kooperation Köln´ (EKK), getragen von der Stadt Köln und dem Stadtwerke Köln Konzern - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage von MdR Hegenbarth in der Sitzung am 07.11.2016 betreffend "Englischkenntnisse in der Abteilung Ausländerangelegenheiten im Amt für öffentliche Ordnung" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Nachfrage von MdR Hegenbarth in der Sitzung am 07.11.2016 betreffend "anonymisierte Bewerbungen" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage von MdR Hegenbarth in der AVR-Sitzung am 12.12.2016 betreffend "Versand von städtischen Poststücken" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalgewinnung/ Besetzungsverfahren
+- TOP -: Mitteilung der Verwaltung betreffend "Personalgewinnung/ Besetzungsverfahren" - Kenntnis genommen
+- TOP 4.2: Baubegleitende juristische Beratung Historische Mitte - Kenntnis genommen
+- TOP 4.3: Inklusionsvereinbarung - Kenntnis genommen
+- TOP 4.4: Auswertung der Umfrage "Best Practice - Sicherheit im öffentlichen Raum" - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Gruppe Piraten betreffend "Städtische Videoüberwachung 2015 und 2016" zur Sitzung am 25.04.2016 - zurückgestellt
+- TOP 6.2: Anfrage der Gruppe Piraten betreffend "Werden die Standards für die Auswahl des Sicherheitspersonals kontrolliert?" zur Sitzung am 05.09.2016
+- TOP -: Stellungnahme der Verwaltung vom 06.02.2017
+- TOP 6.3: Anfrage der Gruppe Piraten betreffend "Nebentätigkeiten von städtischen Mitarbeiterinnen und Mitarbeitern" zur Sitzung am 12.12.2016 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 02.02.2017 - Kenntnis genommen
+- TOP 6.4: Anfrage der SPD-Fraktion betreffend "Sachstand zu Genehmigungsverfahren und Gebührenerhebung für Außengastronomie" zur Sitzung am 06.02.2017 - zurückgestellt
+- TOP 6.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Immobilienmanagement der Stadtverwaltung Köln" zur Sitzung am 06.02.2017 - zurückgestellt
+- TOP 6.6: Anfrage der Gruppe Piraten betreffend "Kein Täter werden – Welche Präventionsprogramme gibt es in Köln?" zur Sitzung am 06.02.2017 - zurückgestellt
+- TOP 6.7: Anfrage der SPD-Fraktion betreffend "Sonntagsöffnungen - Entscheidung des VG Köln" zur Sitzung am 06.02.2017 - Kenntnis genommen
+- TOP -: Anfrage AN/0204/2017 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen" - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 02.02.2017 - zurückgestellt
+- TOP 8.2: Baubegleitende juristische Beratung Historische Mitte (Vorlagen-Nummer 4364/2016) - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortführung Live-Streaming aus dem Rat der Stadt Köln - zurückgestellt
+- TOP -: Zusatz- und Änderungsantrag zu „Fortführung Live-Streaming aus dem Rat der Stadt Köln“, 3494/2016 - zurückgestellt
+- TOP 10.2: Koordination multiprofessionelle Teams und Gruppenleitung Schulsozialarbeit - ungeändert beschlossen
+- TOP 10.3: 6. Satzung zur Änderung der Gebührensatzung für die Rheinische Musikschule - ungeändert beschlossen
+- TOP 10.4: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die Immobilien- und Standortgemeinschaft "Severinstraße, Köln" - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Verwaltungsreform - Abschlussbericht der Konzeptphase - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
