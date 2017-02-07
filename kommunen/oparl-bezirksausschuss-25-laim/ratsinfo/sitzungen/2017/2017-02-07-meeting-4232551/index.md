@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-02-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232551
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232551
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Verbot oder Einschränkung von Silvesterfeuerwerk durch Privatpersonen
+- TOP 1.2.2.: Schulwegsicherheit herstellen - Umgehende Einrichtung einer Lichtzeichenanlage an der Agnes-Bernauer-Straße, Einmündung Lutzstraße
+- TOP 1.2.3.: Bebauung Mitterhoferstraße 7 / Ecke Schäufeleinstraße
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90/Die Grünen: Absenkung Bordsteinkanten Perhamerstraße in Kreuzungsbereichen
+- TOP 2.2.: Bündnis 90/Die Grünen: LED Technologie im Bereich der Straßenbeleuchtung einsetzen
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Geigerstr. 4: Neubau eines Einfamilienhauses mit Garage
+- TOP 5.2.: Camerloherstr. 110: Errichtung (Austausch) eines temporären Dreifachcontainers für die Mittagsbetreuung von Grundschulkindern - befristet bis zum 31.12.2026
+- TOP 5.3.: Mitterhoferstr. : Unterbringung von Flüchtlingen - Neubau eines Wohnheims mit Wohnungen und Appartments, Gewerbeeinheiten und Tiefgarage für Flüchtlinge mit humanitärem Bleiberecht - Vorbescheid ( Mitterhofer- / Schäufeleinstr.)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 10.01.2017
+- TOP 7.2.: UA Bildung und Sozialplanung vom 16.01.2017
+- TOP 8: Umlauf
+- TOP A: Stadtwerke München; Projekt Glasfaser-Erschließung für München; Ausbau 2017
+- TOP 1.2: Bürgerpost an den BA
+- TOP 3.1.: Beschlussvorlage Kommunalreferat: Verlegung des Laimer Bauernmarktes von der Agnes-Bernauer-Straße an den Standort "Am Laimer Anger" zum nächst möglichen Zeitpunkt (Sitzungsvorlage Nr. 14-20 / V 07802)
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 09.01.2017: Laimer Anger, Faschingstreiben am 25.02.17
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 05.01.2017: verkehrsrechtliche Anordnung; Pkw-Parkzone in der St.-Ulrich-Straße und Ofener Straße
+- TOP 4.3.: Schreiben Baureferat vom 04.01.2017: Erinnerungsverfahren Fahrbahn Inderstorferstraße
+- TOP 4.4.: Schreiben Baureferat vom 04.01.2017: Erinnerungsverfahren Fahrbahn / Radweg Friedheimer Straße
+- TOP 4.5.: Schreiben Direktorium vom 28.12.2016: Entschärfung der Verkehrssituation an der Kreuzung Agnes-Bernauer-Straße / Fürstenrieder Straße, Nordwestseite (Ziffer 1 des Antrages)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 12.01.2017: Evaluierung der Sondernutzungsrichtlinien
+- TOP 4.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.01.2017: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.11.16: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung vertagt aus 12/16
+- TOP 6.1.: Schreiben Kommunalreferat vom 28.12.2016: Marktfeste auf den Wochenmärkten; Veranstaltung "love your local market"
+- TOP 6.2.: Schreiben Oberbürgermeister vom 11.01.2017: Dokumentation der Regionalen Wohnungsbaukonferenz 2016 Einladung zur Regionalen Wohnungsbaukonferenz 2017
+- TOP 8.1.: Schreiben Bürgermeister Josef Schmid vom 19.12.2016: Beschlussvorlage zum WC-Konzept "Nette Toilette"
+- TOP 8.2.: Schreiben Baureferat vom 15.12.2016: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 8.3.: Schreiben Baureferat vom 20.12.2016: Straßenbelag am Fußgängerüberweg in der Elsenheimerstraße
+- TOP 8.4.: Schreiben Referat für Gesundheit und Umwelt vom 28.12.2016: Jahresgenehmigung 2017 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München; Firma MTC Deutschland GmbH
+- TOP 8.5.: Schreiben Kommunalreferat vom 20.12.2016: Grünfläche vor dem Thomas-Wimmer-Haus in der Burgkmairstraße 9 Zwischennachricht
+- TOP 8.6.: Schreiben Kommunalreferat vom 09.12.2016: Probleme wegen der Umbenennung der Paul-Lagarde-Straße
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 04.01.2017: unverändere Fortführung des Gaststättenbetriebs - "Echo Lounge-Bar" in der Landsberger Str. 315 - "Fantasie" in der Landsberger Str. 216
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 25.01.2017: Radweg Elsenheimerstraße
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.01.2017: Denkmalschutz für Ensemble an der Mitterhoferstr. 7 Zwischennachricht
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.01.2017: Guido-Schneble-Str. 75: Neubau von Wohnhäusern als Nachverdichtungsmaßnahme im Bereich Guido-Schneble-Str. 75-85 / Inderstorferstr. 17a-33b / Joergstr. 92-102 / Saherrstr. 50-62 / Senftenauerstr. 22-46 - Vorbescheid
+- TOP 8.11.: Schreiben Sozialreferat vom 16.01.2017: Zweckentfremdung von Wohnraum, hier: Seehoferstraße
+- TOP 8.12.: Bautenliste vom 19.12. - 25.12.2016: 1.) Erstantragsverfahren: a) Willibaldstr. 43 b) Pronnerpl. 1 c) Geigerstr. 4 d) Gotthardstr. 4+8 e) Pöhlmannstr. 18
+- TOP 8.13.: Bautenliste vom 26.12.2016 - 01.01.2017: 2.) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren: a) Brosamerstr. 10
+- TOP 8.14.: Bautenliste vom 09.01. - 15.01.2017: 1.) Erstantragsverfahren: a) Junkerstr. 41 b) Ostendorferweg 4 c) Ostendorferweg 6 d) Gotthardstr. 99
+- TOP 8.15.: Bautenliste vom 16.01. - 22.01.2017: 1.) Erstantragsverfahren: a) Gotthardstr. 53 b) Elsenheimerstr. 61 + 63
+- TOP 8.16.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtag 16.01. - 21.01.2017
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 02.01.2017: Baumaßnahmen der SWM, hier: Fernwärmeprojekt Landsberger Straße 156-162 Änderung im Terminablauf
+- TOP 8.18.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplans 2017 für den Bereich "Förderung freier Träger" des Sozialreferats / Stiftungsverwaltung - Bürgerschaftliches Engagement (BE) und Zentrale (Sitzungsvorlagen Nr. 14-20 / V 07226)
+- TOP 8.19.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Haushaltsplan 2017 - Zuschussnehmerdatei 2017 Vollzug des Haushaltsplans 2017 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 14-20 / V 07237)
+- TOP 8.20.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 München Modell-Eigentum a) Förderrichtlinen neu fassen b) München Modell-Eigentum erweitern (Sitzungsvorlagen Nr. 14-20 / V 07756)
+- TOP 8.21.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Tram Westtangente Von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Optimierung und Überarbeitung der bisherigen Planung (Sitzungsvorlagen Nr. 14-20 / V 02990)
+- TOP 8.22.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2016: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlagen Nr. 14-20 / V 05253)
+- TOP 8.23.: Beschluss des Bauausschusses vom 22.11.2016: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 mit verbindlicher Planung für 2021; Entwurf für das Baureferat (Sitzungsvorlagen Nr. 14-20 / V 07494)
+- TOP 8.24.: Beschluss des Kommunalausschusses vom 24.11.2016: Mehrjahresinvestitionsprogramm 2016-2020; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf (Sitzungsvorlagen Nr. 14-20 / V 07463)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.10.2016: Städtebauförderung in München Sanierungsgebiet "Neuaubing / Westkreuz" Sicherung der Finanzierung von Maßnahmen der Stadtsanierung in einem Bund-Länder-Stadtebauförderungsprogramm Stadtbezirk 22-Aubing-Lochhausen-Langwied (Sitzungsvorlagen Nr. 14-20 / V 07344)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet (Sitzungsvorlagen Nr. 14-20 / V 07547)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017: Ökologischer Kriterienkatalog Fortschreibung 2016/2017 (Sitzungsvorlagen Nr. 14-20 / V 02989)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017: Werbeanlagenverordnung erlassen (Sitzungsvorlagen Nr. 14-20 / V 06471)
+- TOP 8.29.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.2016: Gewerbeflächenentwicklungsprogramm - GEWI (Sitzungsvorlagen Nr. 14-20 / V 07490)
+- TOP 8.30.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.2016: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 14-20 / V 07218)
+- TOP 8.31.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.2016: Zuschussnehmerdatei 2017 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 14-20 / V 07291)
+- TOP 8.32.: Schreiben Münchener Verkehrsgesellschaft mbH vom 02.01.2017: Anfrage bzgl. einer MVG Verkaufsstelle am Pronnerplatz
