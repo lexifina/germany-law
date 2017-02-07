@@ -1,0 +1,8 @@
+# TOP -: Bericht über die Sanierung der Bühnen am Offenbachplatz Monatsbericht Dezember 2016
+
+- Sitzung: 15. Sitzung des Rechnungsprüfungsausschusses (2017-02-07)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/220588
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/102753
