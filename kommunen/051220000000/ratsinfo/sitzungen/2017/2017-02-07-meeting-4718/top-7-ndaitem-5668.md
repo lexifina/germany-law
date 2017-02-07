@@ -1,0 +1,6 @@
+# TOP 7: Wirtschaftsplan 2017 der Wirtschaftsförderung Solingen GmbH & Co. KG
+
+- Sitzung: Haupt- und Personalausschuss (2017-02-07)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/5668
