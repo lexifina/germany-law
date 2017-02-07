@@ -1,0 +1,84 @@
+# 24. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-07T17:00:00+01:00
+- Ende: 2017-02-07T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17401
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17401
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Errichtung einer Umlaufsperre in der Brüsseler Straße - Köln-Porz (Az.: 02-1600-196/16) - Alternative beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Umwidmung eines Fuß- und Radweges an der Groov in Köln-Porz (Az.: 02-1600-187/16) - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO "Kriegerdenkmal an der Groov" (AZ.: 02-1600-34/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 6.1: Antrag der CDU-Fraktion: Sondersitzung Verkehr - aus der letzten Sitzung zur Erarbeitung eines gemeinsamen Beschlussvorschlages geschoben - - zurückgestellt
+- TOP 6.1.1: Änderungsantrag der Fraktion die Grünen zu TOP 6.1 - Verkehr aus der letzten Sitzung zur Erarbeitung eines gemeinsamen Beschlussvorschlages geschoben - zurückgestellt
+- TOP 6.1.2: Änderungsantrag der SPD-Fraktion zu TOP 6.1 -Sondersitzung Verkehr - zurückgestellt
+- TOP 6.2: Antrag der SPD-Fraktion: Sicherung und Umwandlung Kiesbaggersee Gremberghoven/ Alberti-See - aus der letzten Sitzung bis zum Fachvortrag der Veraltung geschoben - zurückgestellt
+- TOP 6.3: Antrag der Fraktion die Grünen: Aufnahme von Verhandlungen zur Änderung der seit dem 01.01.2017 geltenden Tarifregelung Kurzstrecke - ungeändert beschlossen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.1: Verkehrsfluss in der Heerstraße in Zündorf - Kenntnis genommen
+- TOP 6.5: Antrag der CDU-Fraktion: Verkehrsberuhigung der Siedlung Baumschulenweg - Im Forst in Köln-Poll - aus der letzten Sitzung bis zur Klärung des weiteren Vorgehens mit der Fachverwaltung geschoben - zurückgestellt
+- TOP 6.6: Antrag der SPD-Fraktion: Beschilderung und verstärkte Parkraumkontrollen im Bereich der Viehtrift in Porz-Lind - aus der letzten Sitzung bis zur Diskussion mit der Fachverwaltung geschoben - ungeändert beschlossen
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Antrag der Fraktionen CDU und Grüne: Mittel aus dem Stadtverschönerungsprogramm 2016 - zurückgestellt
+- TOP 6.9: Antrag der SPD-Fraktion: Fahrradständer an Bushaltestellen - ungeändert beschlossen
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10.1: Ersetzungsantrag der SPD-Fraktion zu TOP 6.10, KVB Anbindung - endgültig zurückgezogen
+- TOP 6.11: Antrag der Fraktionen CDU und Grüne: Aufstellen von Wegweisern zu den großen Zustellbasen Deutsche Post DHL und TNT im Josef-Linden-Weg - geändert beschlossen
+- TOP 6.12: NEUFASSUNG Antrag der Fraktion CDU, SPD und Grüne: Dringende Ansiedelung eines neuen Supermarkts (Vollversorger) in Poll - ungeändert beschlossen
+- TOP 6.13: NEUFASSUNG Gemeinsamer Antrag Fraktionen CDU, SPD und Grüne: Maßnahmenkatalog für Porz-Finkenberg aus der letzten Sitzung zur Erarbeitung eines gemeinsamen Beschlussvorschlages geschoben - ungeändert beschlossen
+- TOP 6.13.1: Durch Neufassung TOP 6.13 erledigt
+- TOP 6.13.2: Durch Neufassung TOP 6.13 erledigt.
+- TOP 6.14: Antrag der CDU-Fraktion: Eingang zum Bildungszentrum im Bezirksrathaus Porz - ungeändert beschlossen
+- TOP 6.15: Antrag der CDU-Fraktion: Fehlplanung einer Querungshilfe am Loorweg in Langel - ungeändert beschlossen
+- TOP 6.16: NEUFASSUNG Antrag der CDU-Fraktion: Übertragung der Grillhüttenvermietung Poller Damm - ungeändert beschlossen
+- TOP 6.17: Antrag der CDU-Fraktion: Entfernung der Gefahrenstelle Querungshilfe Fasanenweg/ Frankfurter Straße in Porz- Wahn - zurückgestellt
+- TOP 6.18: Antrag der CDU-Fraktion: Genehmigung eines Zündorfer Winterzaubers 2017 an der Groov - ungeändert beschlossen
+- TOP 6.19: Antrag der CDU-Fraktion: Bericht über die Testphase des Fahrradschutzstreifens Siegburger Straße in Poll - ungeändert beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1.1: Genehmigung einer Dringlichkeitsentscheidung: Beirat Porz Mitte - ungeändert beschlossen
+- TOP 7.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.2.1: Von der Verwaltung zurückgezogen
+- TOP 7.2.2: Hochwasserschutzzonenverordnung Poll bis Rheinpark Deutz - aus der letzten Sitzung bis zur Klärung durch die SteB geschoben - zurückgestellt
+- TOP 7.2.3: Seniorenkoordination im Stadtbezirk - Versand per Sammelumdruck - - ohne Votum in nachfolgende Gremien
+- TOP 7.2.4: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - geändert beschlossen
+- TOP 7.2.5: 258. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 7.2.6: Auflösende Schließung der Förderschule Lernen Finkenberg-Schule ab dem Schuljahr 2017/18 - Sammelumdruck - geändert beschlossen
+- TOP 8: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Einbahnstraße Pfaffenpfädchen - Kenntnis genommen
+- TOP 8.1.2: Airparks-Parkplatz am Bahnhof Wahn - Kenntnis genommen
+- TOP 8.2: Neue Anfragen
+- TOP 8.2.1: Anfrage der CDU-Fraktion: Fischerweg in Porz-Mitte - Kenntnis genommen
+- TOP 8.2.2: Anfrage der SPD-Fraktion: Parkraumkonzept für die Umgebung des Marktplatzes „Am Schwanebitzer Hof“ in Köln-Porz-Urbach – SPD-Antrag vom 21.10.2014 - Kenntnis genommen
+- TOP 8.2.3: Anfrage der CDU-Fraktion: Verkehrsuntersuchung- Prognosenetz Porz - Kenntnis genommen
+- TOP 9: Mitteilungen
+- TOP 9.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 9.2: Mitteilungen der Verwaltung
+- TOP 9.2.1: Verbesserung der Verkehrssituation Am Altenberger Kreuz in Köln-Poll durch Einrichtung eines Fußgängerüberwegs - Kenntnis genommen
+- TOP 9.2.2: Fahrbahnmarkierung der Margaretenstraße in Höhe der Urbanusstraße in Köln-Porz-Libur - Kenntnis genommen
+- TOP 9.2.3: Baumfällungen 2016 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 9.2.4: Aufstellen eines Abfallbehälters am Standort "Albert-Schweitzer-Straße in Köln Porz" - Kenntnis genommen
+- TOP 9.2.5: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 9.2.6: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 9.2.7: Ehrenamtspreis "KölnEngagiert 2017" - Sammelumdruck - - Kenntnis genommen
+- TOP 9.2.8: Neubau Friedrich-List-Schule - Kenntnis genommen
+- TOP 9.2.9: Verkehrsberuhigung Waldstraße in Porz-Grengel am Kinderspielsplatz "Vorm Wald" Höhe Wiesenweg - Kenntnis genommen
+- TOP 9.2.10: Bestreifung der Porzer S-Bahnhöfe - Kenntnis genommen
+- TOP 9.2.11: Zu 6.4.1 geschoben
+- TOP 9.2.12: Verkehrssituation Kreisverkehr Nachtigallenstraße/Magazinstraße - Kenntnis genommen
+- TOP 9.2.13: Endgültige Einrichtung der Bushaltestelle Oberzündorf in Fahrtrichtung Wahn S-Bahn - Kenntnis genommen
+- TOP 10: Annahme von Schenkungen
