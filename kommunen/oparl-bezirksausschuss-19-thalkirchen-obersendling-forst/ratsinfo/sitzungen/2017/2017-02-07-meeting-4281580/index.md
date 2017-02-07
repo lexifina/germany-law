@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-02-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281580
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281580
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 10.01.2017
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4.4.: (Anträge) Beratung und Beschlussfassung zu Baumschutzanträgen
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: Antrag) Entschleunigung Schäftlarnstr.
+- TOP 5.4.: (Antrag) Parksituation Höglwörther Str.
+- TOP 5.5.: (Antrag) Parksituation Forstenrieder Allee
+- TOP 5.7.: (Antrag) Absolute Halt- und Parkverbote Ludwigshöher Str. und Neunkirchner Str.
+- TOP 5.8.: (Antrag) Verstärkte Verkehrskontrollen im Bereich Boschetsrieder Str., Hofmannstr. und Baierbrunner Str.
+- TOP 5.10.: (A) Evaluierung der Sondernutzungsrichtlinien
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (U) Zweckentfremdung: Kistlerhofstr.
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 8.3.: (A) Veranstaltung: 27. Isarschwimmen am 16.09.2017
+- TOP 8.4.: (A) Erläuterungsschilder NS-Verfolgte und Widerstandskämpfer im 19. Stadtbezirk
+- TOP 8.5.: (U) Gaststättenfortführung: Pullacher Platz 6
+- TOP 8.6.: (A) Vermietung stadteigenes Grundstück an der Aidenbachstr.: Circus Galliano
+- TOP 8.7.: (U) Gaststättenfortführung: Kistlerhofstr. 142
+- TOP 9: Verschiedenes
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 2.3.: Austausch über die Planung und Entwicklung des Standorts an der Machtlfinger Str. 4 (ehemaliger Real)
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.6.: (E) Errichtung von Pfosten/Warnbaken auf dem Bürgersteig Wilhelm-Leibl-Straße
+- TOP 5.9.: (Antrag) Bushaltestellen „Melchiorstraße“ der Linie 135
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Reihenfolge „Erklärende Zusatzschilder an Straßenschildern im Stadtbezirk 19“
+- TOP 8.8.: Öffentlicher Bücherschrank im Stadtgebiet des BA 19
