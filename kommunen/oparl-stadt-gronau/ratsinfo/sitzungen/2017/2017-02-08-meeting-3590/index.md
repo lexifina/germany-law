@@ -1,0 +1,57 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2017-02-08T18:00:00+01:00
+- Ende: 2017-02-08T21:34:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXwFkI2pOog7-1qEs9ZlUPI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3590
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfHme2egneUGtz62j3Bx73a3Edxf-7oFZkxRvPHtkmbw/Bekanntmachung_Rat_08.02.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTV8Z3M7MkBB0s4c0zevsYrw0dlFwTIrYeQz6l7T-okz/Oeffentliche_Niederschrift_Rat_08.02.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 16.11.2016
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Präsente für Seniorinnen und Senioren; Antrag der GAL-Fraktion vom 25.01.2017 - 13 Jastimmen, 19 Neinstimmen, 4 Enthaltungen
+- TOP 5.2: Änderung der Hauptsatzung § 14; Antrag der Fraktion Pro!Bürgerschaft/Piraten vom 27.01.2017 - 5 Jastimmen, 23 Neinstimmen, 0 Enthaltungen
+- TOP 5.3: Umweltbericht Gemarkung Gronau, Flur 9, Flurstück 391ff.; Antrag der CDU-Fraktion vom 29.01.2017 - 33 Jastimmen, 1 Neinstimmen, 2 Enthaltungen
+- TOP 6.: Jahresabschluss 2015 der Forstdienstleistungen Gronau GbR - Einstimmig, 0 Enthaltungen
+- TOP 7.: Begegnung des Zuschussbedarfs der defizitären kommunalen Beteiligungen - 17 Jastimmen, 18 Neinstimmen, 0 Enthaltungen
+- TOP 8.: Zukünftige Nutzung Glashaus - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 9.: Fortschreibung des Integrationskonzeptes - Einstimmig, 0 Enthaltungen
+- TOP 10.: Richtlinien zur Besetzung von Führungspositionen und Stellen der Rechnungsprüfung - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 11.: Bebauungsplan Nr. 19 "Sparenbergstraße", Stadtteil Gronau, 4. Änderung (Vereinfachtes Verfahren) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiigung der Behörden und sonstigen Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 109 "Königstraße", Stadtteil Gronau 1. Aufhebung des Aufstellungsbeschlusses vom 30.09.2015 2. Neufassung des Aufstellungsbeschlusses - Einstimmig, 2 Enthaltungen
+- TOP 13.: Beschluss über den Erlass einer Veränderungsperre gemäß § 16 BauGB für den Geltungsbereich des Bebauungsplans Nr. 109 "Königstraße", Stadtteil Gronau - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bereitstellung von investiven Mitteln für die denkmalgerechte Dachsanierung Alter Rathausturm in der haushaltslosen Zeit - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bereitstellung von Haushaltsmitteln für die Schulentwicklung in der haushaltslosen Zeit - Einstimmig, 0 Enthaltungen
+- TOP 16.: Personelle Beteiligung von Arbeitnehmervertretern am Aufsichtsrat der Chance GmbH - Einstimmig, 0 Enthaltungen
+- TOP 17.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 2 Enthaltungen
+- TOP 18.: Terminplanung für das 2. Quartal 2017 - Ohne Abstimmung
+- TOP 19.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Genehmigung der Gesamtschule im Stadtteil Epe und Bestellung der Schulleitung
+- TOP 20.2: Umzug des Baudezernats an die Grünstiege 64
+- TOP 21.: Anfragen
+- TOP 21.1: Veränderung der Vertragspartnerschaften im Zuge der Innenstadtentwicklung (RM U. Doetkotte)
+- TOP 21.2: Existenz von Bebauungsplänen für die Flurstücke 437 und 480? (RM Krause)
+- TOP 21.3: Dinkelhotel an der Fabrikstraße in Planung? (RM Krause)
+- TOP 21.4: Vergleich der Pro-Kopf-Kosten bei einer Betreuung in einer Kita und in der Kindertagespflege (RM Strestik)
+- TOP 21.5: Verfahren im Kontext des aktuellen Volksbegehrens „Abitur nach 13 Jahren an Gymnasien: Mehr Zeit für gute Bildung, G 9 jetzt!“ (RM Strestik)
+- TOP 21.6: Förderprogramm "Gute Schule 2020" (RM Gabbe)
+- TOP 21.7: Investitionsförderprogramm für die Kommunen (RM Gabbe)
+- TOP 21.8: Auswertung der Sitzung des Jugendschülerparlaments (RM Buchholz)
+- TOP 21.9: Verkauf des Areals an der Lennéstraße inkl. aufstehender Bäume und Sträucher? (RM Buchholz)
+- TOP 21.10: Abriss denkmalgeschützter Gebäude auf dem ehemaligen BSG-Gelände? (1. Stellv. d. BM Doetkotte)
+- TOP 21.11: Fahrradweg am Alfertring (3. Stellv. d. BM Tegetmeyer)
+- TOP 21.12: Parkbuchten trotz Parkverbot führen zu Irritationen (2. Stellv. d. BM Bajorath)
+- TOP 21.13: Motiv für die unterlassene Information über weiteren Vertragspartner in der Innenstadtentwicklung (RM Schwartze)
+- TOP 21.14: Erkenntnisse über das vorgezogene Anmeldeverfahren an der Euregio-Schule? (RM Buß)
