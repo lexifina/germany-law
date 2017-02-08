@@ -1,0 +1,77 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285224
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285224
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 2.2.: Benennung als neues Mitglied im Unterausschuss Kultur / Soziales
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.4.1.: Bürgeranliegen: Fahrbahnmarkierung - Querung Lauchstätter Straße, Taunusstraße, Oberhofer Weg - Antwortschreiben des KVR -
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.4.1.: Verkehrsentlastung am Wochenende durch Öffnung der Tiefgarage des Beruflichen Schulzentrums Nordhaide - Antrag der SPD-Fraktion
+- TOP 8.: Anhörungen
+- TOP 8.2.1.: 8.2.1 a) Baumfällungsantrag: Paracelsusstr. 23 - 27
+- TOP 8.2.2.: 8.2.1 b) Baumfällungsantrag: Josef-Ressel-Str. 5
+- TOP 8.2.5.: 8.2.2 c) Vollzug der BaumschutzVO: Lerchenauer Str. 76 - Neubau Energiezentrale für KWK
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.1.: Unveränderte Fortführung der Vereinsgaststätte "Taverna Eleni", Bad-Soden-Str. 16a
+- TOP 9.2.5.: Baumentfernungen - Hans-Denzinger-Str. 6 (Bezirkssportanlage)
+- TOP 9.2.6.: Meldelisten - Bauvorhaben
+- TOP 10.: Sonstiges
+- TOP 3.: Berichte und Präsentationen
+- TOP 3.1.: Berichte der Polizei und aus dem Stadtrat
+- TOP 3.2.: Vorstellung des Allparteilichen Konfliktmanagement in München - AKIM durch das Amt für Wohnen und Migration, Sozialreferat der LHM
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 7.2: Bau/Umwelt
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.1.: (E) Mehr Sitzgelegenheiten, Abfalleimer und Hundekotbeutel in Park- und Grünanlagen BV-Empfehlung Nr. 14-20 / E 01098 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen vom 21.07.2016 - Sitzungsvorlage Nr. 14-20 / V 07280 - Antwortschreiben des Baureferats -
+- TOP 4.4.2.: (E) Verbesserung der Fahrradabstellmöglichkeiten am U-Bahnhof Harthof - BV-Empfehlung Nr. 14-20 / E 01115 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen vom 21.07.2016 - Antwort zu Sitzungsvorlage Nr. 14-20 / V 07281
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Parkplatzsituation in der Knorrstraße 174
+- TOP 6.2.2.: (E) Verkehrliche Beruhigung der Marienbader Straße
+- TOP 6.2.3.: (E) Sicherheitsdienst im öffentlichen Nahverkehr Empfehlung Nr. 14-20 / E 01107 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands - Antrag der CSU-Fraktion des BA 15 Trudering-Riem
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.3.: 8.2.2 a) Vollzug der BaumschutzVO: Sperlingweg 2 - Neubau eines Einfamilienhauses -
+- TOP 8.2.4.: 8.2.2 b) Vollzug der BaumschutzVO: Max-Diamand-Str. 7 - Umbau und Erweiterung eines Bürogebäudes mit Erweiterung der Tiefgarage -
+- TOP 8.3: Kultur / Soziales
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Beschlussentwurf Verkehrskonzept Münchner Norden - Öffentlicher Personennahverkehr / Schienenverkehr -
+- TOP 8.4.2.: Errichtung einer Vollampel an der Hugo-Wolf-Straße / Ecke Weyprechtstraße
+- TOP 9.1: Plenum
+- TOP 9.1.2.: Unveränderte Fortführung der Gastwirtschaften "Silver 1" und "Silver 2“, Keferloherstr. 98
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (E) Planung und Errichtung von Ladenzeilen im Zuge der Umsetzung des neuen Bebauungsplans 1898b - GWG-Siedlung Harthof Nord - Empfehlung Nr. 14-20 / E 01101 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016 - Sitzungsvorlagen Nr. 14-20 / V 07021
+- TOP 9.2.2.: (E) Werbeanlagenverordnung erlassen - Empfehlung Nr. 14-20 / E 00827 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 03.12.2015 - Sitzungsvorlagen Nr. 14-20 / V 06471
+- TOP 9.2.3.: Ökologischer Kriterienkatalog - Fortschreibung 2016/2017 - Sitzungsvorlagen Nr. 14-20 / V 02989
+- TOP 9.2.4.: (E) Stadtweite Abstimmung: Keine Laubbläser, sondern Laubsauger einsetzen - Empfehlung Nr. 14-20 / E 01357 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 17.11.2016 - Sitzungsvorlagen Nr. 14-20 / V 07885
+- TOP 9.2.7.: Anhörungsrecht für Planungen im Bereich „Wohnen für Alle“ - Referat für Stadtplanung und Bauordnung
+- TOP 9.2.8.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Kaadener Str. 9
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO a) Verkehrsregelung im Zusammenhang mit dem Edeka-Markt - Lieberweg 42 b) Beschilderung mit Gefahrzeichen - Weyprechtstraße Höhe Parlerstraße c) Absolutes Haltverbot - Konstanzer Straße Westseite zw. Norderneyer Straße und Pommernstraße d) Einrichtung eines personenbezogenen Behindertenparkplatzes - Lieberweg 28 e) Treppenabgang - Oberhofer Weg / Taunusstraße
+- TOP 9.4.2.: Arbeiten im Straßenraum - Fahrbahnsanierung nach Hochbau (16.01. - 31.03.2017), Wiegandweg zwischen Lieberweg und Hauttmannweg
+- TOP 9.4.3.: Evaluierung der Sondernutzungsrichtlinien an den öffentlichen Straßen der LHM
