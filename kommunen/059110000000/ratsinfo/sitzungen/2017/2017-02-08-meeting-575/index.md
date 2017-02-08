@@ -1,0 +1,54 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2017-02-08T15:00:00+01:00
+- Ende: 2017-02-08T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeZ2GO3MKpfY7Kn3As282f4
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/575
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYaFDWT52vXAShZZozgbWxmEexMKqLRtFcoW2egdMnTn/Einladung_Seniorenbeirat_08.02.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS72frm3oEvq8frpRBNM-XKuVP_hoqzDF4ZIFIdzWSns/Oeffentliche_Niederschrift_Seniorenbeirat_08.02.2017.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Wegeverbindung von der "Von-der-Recke-Straße" zur Erzbahntrasse - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Wege auf dem Hammer Friedhof - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.3: Verbindungsweg von der Seniorenwohnanlage Elisabeth-Hüfner-Weg zum Hammer Park - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Entwicklung der SBO-Senioreneinrichtung hier: Mdl. Bericht
+- TOP 6.2: Personelle Situation der Seniorenbüros - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Durchgang Kortumstraße (Voswinkel) zur Grabenstraße (Blue Square) - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Gehwege und Stolperfallen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Barrierefreier Ausbau von Bushaltestellen, Sachstand - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Castroper Hellweg - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Kurzzeit-Parkplätze am Facharztzentrum Europahaus: Zwischenmitteilung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Beseitigung von Baumangel an Springorumradweg X Springorumallee - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Berichte aus den Gremien hier: Mdl. Berichterstattung
+- TOP 6.10: Nette Toiletten - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7: Anfragen
+- TOP 7.1: Inklusion - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Bürgerhaus Hamme - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Sporthalle an der Von-der-Recke-Schule - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.4: Freie Fahrt bei Seniorenveranstaltungen - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.5: Hinweisschilder an den Eingängen des Westparks - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.6: Bänke in der Innenstadt - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
