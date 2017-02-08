@@ -1,0 +1,14 @@
+# Gemeindevorstand (15. Sitzung)
+
+- Körperschaft: Gemeinde Fernwald
+- Beginn: 2017-02-08T18:00:00+01:00
+- Ende: 2017-02-08T19:05:00+01:00
+- Ort: Rathaus der Gemeinde Fernwald, Oppenröder Straße 1, 35463 Fernwald, Sitzungszimmer
+- Status: 
+- Gremium: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://rim.ekom21.de/fernwald/tops/?__=UGhVM0hpd2NXNFdFcExjZSeSXeeJqVSEmazuwGf5M6w
+- OParl: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/meeting/630
+- Quelle: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
