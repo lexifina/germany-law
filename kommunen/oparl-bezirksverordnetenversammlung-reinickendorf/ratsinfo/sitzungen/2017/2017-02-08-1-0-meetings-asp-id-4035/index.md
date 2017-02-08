@@ -1,0 +1,86 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-02-08T17:05:00+01:00
+- Ende: 2017-02-08T22:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4035
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4035
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=235806
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - (offen)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Hermsdorfer Beletage - beantwortet
+- TOP 2.2: Hermsdorfer Beletage II - beantwortet
+- TOP 2.3: Hermsdorfer Beletage III - beantwortet
+- TOP 2.4: Reinigung der Umgebung des Flughafensees - beantwortet
+- TOP 2.5: Deutsche Wohnen - beantwortet
+- TOP 2.6: Aufstellungsbeschluss Trettachzeile - schriftlich beantwortet
+- TOP 2.7: Trettachzeile - schriftlich beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 5. Sitzung der BVV am 08.02.2017 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Bürgeramt Berliner Straße - beantwortet
+- TOP 4.2: Gemeinschaftsunterkunft Scharnweberstr. 24 - beantwortet
+- TOP 4.3: Feuerwache in Hermsdorf - beantwortet
+- TOP 4.4: Werbeflächen Frohnau - beantwortet
+- TOP 4.5: Personalsituation an Schulen - beantwortet
+- TOP 4.6: Kultur- und Konzertangebote für Senioren im Jahr 2017 - beantwortet
+- TOP 4.7: Räumpflicht auf Fußwegen - beantwortet
+- TOP 4.8: Unterbringung zum Kirchentag und Turnfest - beantwortet
+- TOP 4.9: WBS für Geflüchtete - beantwortet
+- TOP 4.10: Ausbau des Dachgeschosses der Reginhardschule - beantwortet
+- TOP 4.11: Konzept für die soziale und grüne Infrastruktur des Bezirks - zurückgezogen
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Jahresbericht der Patientenfürsprecherin aus dem Krankenhaus Medical Park Berlin Humboldtmühle für den Zeitraum 01.01.2016 bis 31.12.2016 - überwiesen
+- TOP 7.2: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldtklinikum (somatischer Bereich) für den Zeitraum 01.01.2016 bis 31.12.2016 - überwiesen
+- TOP 7.3: Beschluss über die Veränderungssperre 12-32B / 46 vom 29. November 2016 und über den Entwurf der Rechtsverordnung für das Grundstück Berliner Straße 12 in Berlin-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Hilfen für Kinder und Jugendliche in Reinickendorf - beantwortet
+- TOP 8.2: Familienfreundliches Reinickendorf (2) - Beteiligung von Kindern und Jugendlichen im Bezirk - beantwortet
+- TOP 8.2.1: Kinder- und Jugendbüro einrichten! - überwiesen
+- TOP 8.3: Ordnungsamt-App - beantwortet
+- TOP 8.3.1: Ordnungsamt-App - überwiesen
+- TOP 8.4: Außentrauungen im Standesamt Reinickendorf - vertagt
+- TOP 8.5: Schuldistanz in Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Benennung von fünf Mitgliedern der Bezirksverordnetenversammlung Reinickendorf für den bezirklichen Beirat der VIVANTES Netzwerk für Gesundheit GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Beschluss über die Veränderungssperre 12-32B / 46 vom 29. November 2016 und über den Entwurf der Rechtsverordnung für das Grundstück Berliner Straße 12 in Berlin-Tegel - erledigt
+- TOP 9.3: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Änderung § 27 VIII GO - überwiesen
+- TOP 11.2: Mündliche Nachfrage zu Vorlagen zur Kenntnisnahme (Änderung § 28 GO) - überwiesen
+- TOP 12: Ersuchen - (offen)
+- TOP 14: Testdrucksache - ohne Änderungen in der BVV beschlossen
+- TOP 12.1: Verkehrsregelverstöße in der Siedlung "Roter Adler" verstärkt kontrollieren - überwiesen
+- TOP 12.2: Endlich das Spielhallengesetz umsetzen - überwiesen
+- TOP 12.3: Keine Unterbringung weiterer Asylbewerber im Märkischen Viertel - überwiesen
+- TOP 12.4: Saubere Spielplätze in Reinickendorf - überwiesen
+- TOP 12.5: Historische Dorfbilder in Reinickendorf von Werbe-Großflächentafeln freihalten - überwiesen
+- TOP 12.6: Erhalt der Außenstellen des Standesamtes - überwiesen
+- TOP 12.7: Mittel für Schulsanierungen einfordern! - überwiesen
+- TOP 12.8: "Saubere Pilze zur IGA in Frohnau" - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: P+R Parkplätze - überwiesen
+- TOP 12.10: Neustrukturierung des Denkmalbeirats für die XX. Wahlperiode - überwiesen
+- TOP 12.11: Kälteschutz für Obdachlose in Reinickendorf - überwiesen
+- TOP 12.12: Einsetzung einer Task Force "Straßenschäden" - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Zusatzzüge der U 8 bis zum U-Bahnhof Wittenau - überwiesen
+- TOP 13.2: U 8 in das Märkische Viertel mit Haushaltsüberschüssen verlängern - überwiesen
+- TOP 13.3: Dokumentenprüfgeräte jetzt - überwiesen
+- TOP 13.4: Busspuren - überwiesen
+- TOP 13.5: Verlängerung der Öffnungszeiten der Parkhäuser in Tegel - überwiesen
+- TOP 13.6: Verkehrssicherheit Bernauer Straße - überwiesen
+- TOP 13.7: Vollzüge zu Hauptverkehrszeiten bei der S-Bahn-Linie 1 - überwiesen
+- TOP 13.8: Sicherer Schulweg / Havelmüller-Grundschule - überwiesen
+- TOP 13.9: Beschilderung auf dem U-Bahnhof Paracelsus-Bad - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Grünen Pfeil an der Ecke Gorkistraße / Am Nordgraben installieren - überwiesen
+- TOP 13.11: Heidekrautbahn - überwiesen
