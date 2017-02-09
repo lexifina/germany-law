@@ -1,0 +1,72 @@
+# 22. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-09T15:05:00+01:00
+- Ende: 2017-02-09T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16814
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16814
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: "Neue Gebietskategorie Urbane Gebiete - Chancen für Köln" - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Umgestaltung des Ebertplatzes
+- TOP 2.2: Weitere Wohnraumpotentiale in Köln
+- TOP 3: Anträge
+- TOP 3.1: Erleichterte Bürgerbeteiligung bei der Erweiterung des „Rhein Energie Sportparks“ in Köln-Sülz - endgültig zurückgezogen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 4.1.1: Entwicklung des Mülheimer Südens hier: Stand des Bebauungsplan-Änderungsverfahrens Euroforum Nord und Überblick über die gestellten Bauanträge - Kenntnis genommen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Am Bahnhof in Köln-Porz-Wahn; VEP; Beschluss über die Einleitung (vorhabenbezogener Bebauungsplan) und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5.2: Beschluss aus der Bezirksvertretung Nippes: Einrichtung zur Überprüfung und Überwachung der Immobilien der Deutsche Bahn AG, Antrag der SPD (AN/1375/2016) - ungeändert beschlossen
+- TOP 5.2.1: Änderungsantrag der SPD-Fraktion vom 09.02.2017 - endgültig abgelehnt
+- TOP 5.3: Intensivierung der regionalen Zusammenarbeit Hier: Teilnahme am Projektaufruf StadtUmland.NRW, Phase II - Konkretisierung der Zukunftskonzepte mit den links- und rechtsrheinischen Umlandgemeinden - ungeändert beschlossen
+- TOP 5.4: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - zurückgestellt
+- TOP 5.5: Stadtentwicklungskonzept Wohnen (StEK Wohnen), Umsetzung: Instrument "Erhaltungssatzung" vermehrt nutzen - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Evaluierung der Wohnraumschutzsatzung zwei Jahre nach Inkrafttreten - zurückgestellt
+- TOP 6.1.1: Änderungsantrag der SPD-Fraktion vom 20.01.2017 - zurückgestellt
+- TOP 6.2: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - endgültig zurückgezogen
+- TOP 6.2.1: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - zurückgestellt
+- TOP 6.2.2: Änderungsantrag der Fraktion Die Linke vom 15.12.2016 - endgültig zurückgezogen
+- TOP 6.2.3: Änderungsantrag der SPD-Fraktion vom 09.02.2017 - zurückgestellt
+- TOP 6.3: Schenkungsannahme für das Werk "Einsturzstelle" (Hinweisschild) des Künstlers Mischa Kuball - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Satzung über eine Veränderungssperre: Belgisches Viertel in Köln-Neustadt/Nord - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Das "Kooperative Baulandmodell Köln - Richtlinie zur Anwendung in Bebauungsplanverfahren"; hier: Fortschreibung - ohne Votum in nachfolgende Gremien
+- TOP 6.5.1: Änderungsantrag der Fraktion Die Linke vom 14.12.2016 - ohne Votum in nachfolgende Gremien
+- TOP 6.5.1.1: Stellungnahme der Verwaltung zum Änderungsantrag der Fraktion Die Linke (AN/2110/2016) - Kenntnis genommen
+- TOP 6.6: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die Immobilien- und Standortgemeinschaft "Severinstraße, Köln" - ungeändert beschlossen
+- TOP 6.7: Satzung über eine Veränderungssperre: Eisenbahnsiedlung in Köln-Porz-Gremberghoven - ungeändert beschlossen
+- TOP 6.8: Grüne Infrastruktur Köln - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: GrowSmarter City Cologne - Kenntnis genommen
+- TOP 17.2: 66380/03; Husarenstraße in Köln-Rondorf; Offenlage - Kenntnis genommen
+- TOP 17.3: 63469/07; Ehemaliger Güterbahnhof in Köln-Ehrenfeld; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.4: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 17.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen vom 31.10.2016 Betr. „Vorhandenes Gewerbe im Planungsgebiet ´Parkstadt Süd´“ (Session-Nr. AN 1785/2016) - Kenntnis genommen
+- TOP 17.6: Planfeststellungsbeschluss zum Ausbau der BAB 1 zwischen der Anschlussstelle Köln-Niehl und dem Autobahnkreuz Leverkusen-West einschließlich Neubau der Rheinbrücke Leverkusen - Kenntnis genommen
+- TOP 17.7: Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 17.8: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 17.9: Beantwortung der Anfrage der SPD-, CDU-, FDP-Fraktionen sowie der Fraktionen Bündnis 90/Die Grünen und Die Linke zum Thema "Stadtteileltern und Stadtteilmütterprojekte in Vingst/Höhenberg und Rondorf/Meschenich" (AN/2011/2016) - Kenntnis genommen
+- TOP 17.10: Ergebnis des Wettbewerbes "Casino Köln" in Köln-Deutz - Kenntnis genommen
+- TOP 17.11: Planfeststellungsbeschluss für den Neubau der 110-/380-kV-Höchstspannungsfreileitung Rommerskirchen-Sechtem der Amprion GmbH - Kenntnis genommen
+- TOP 17.12: Ergebnis der Mehrfachbeauftragung "Rochusplatz in Köln-Bickendorf" - Kenntnis genommen
+- TOP 17.13: Autonomes Zentrum Köln an der Luxemburger Straße 93 - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
