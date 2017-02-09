@@ -1,0 +1,121 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-09T16:00:00+01:00
+- Ende: 2017-02-09T20:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17078
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17078
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorstellung der Seniorenvertretung Innenstadt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Zurückgezogen: Verkehrskonzept City/Altstadt
+- TOP 3.1.1: Änderungsantrag Verkehrskonzept City/Altstadt
+- TOP 3.2: Zurückgezogen: Gestaltung der Außenanlagen der Archäologischen Zone
+- TOP 3.3: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - mit Änderungen empfohlen
+- TOP 3.3.1: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - ungeändert beschlossen
+- TOP 3.4: Sonderprogramm NRW "Hilfen im Städtebau zur Integration von Flüchtlingen" - Antrag zum Verfügungsfonds - ungeändert beschlossen
+- TOP 3.5: Seniorenkoordination im Stadtbezirk - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.6: Werkmemorial im Kölner Rheinpark - ungeändert beschlossen
+- TOP 3.7: Änderungsbeschluss zum Planungsbeschluss zum nachträglichen Einbau von trockenen Löschwasserleitungen in bestehende Stadtbahnanlagen (Drucksachen-Nr. 0779/001) und zum erweiterten Baubeschluss (Vorlage-Nr. 3054/2009) - ungeändert empfohlen
+- TOP 3.8: Zügigkeitserweiterung des Deutzer Gymnasiums, Schaurtestraße 1 in Köln-Deutz zum Schuljahr 2017/18 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert empfohlen
+- TOP 3.9: 258. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.10: Dringend notwendige Errichtung von mobilen Wohneinheiten zur Flüchtlingsunterbringung - hier: An den Gelenkbogenhallen, 50679 Köln-Deutz, Flur 33, Flurstück 904 - ungeändert empfohlen
+- TOP 3.11: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die Immobilien- und Standortgemeinschaft "Severinstraße, Köln" - ungeändert empfohlen
+- TOP 3.12: Städtebauliche Neuordnung des Domumfeldes, hier: Medienband im Tunnel - technische Fertigstellung und Sicherung des dauerhaften Betriebes - ungeändert beschlossen
+- TOP 3.13: Schenkungsannahme für das Werk "Einsturzstelle" (Hinweisschild) des Künstlers Mischa Kuball - ungeändert empfohlen
+- TOP 3.14: Satzung über eine Veränderungssperre: Belgisches Viertel in Köln-Neustadt/Nord - ungeändert empfohlen
+- TOP 3.14.1: Ergänzungsantrag zur Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Neustadt/Nord Arbeitstitel: Belgisches Viertel in Köln-Neustadt/Nord (3492/2016) - endgültig abgelehnt
+- TOP 3.15: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - zurückgestellt
+- TOP 3.16: Durchführung des Kunstprojektes "Casa Utopia" von HA Schult auf dem Gelände der Deutzer Werft (nördlicher Bereich zwischen Deutzer Brücke und Rheinboulevard) vom 01.09. bis 20.09.2017 - geändert beschlossen
+- TOP 3.17: Programm RRX-Außenäste - mit Änderungen empfohlen
+- TOP 3.18: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" (Anträge 2 und 3 Verfügungsfonds) - ungeändert beschlossen
+- TOP 3.19: Stadtentwicklungskonzept Wohnen (StEK Wohnen), Umsetzung: Instrument "Erhaltungssatzung" vermehrt nutzen - ungeändert empfohlen
+- TOP 3.20: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - endgültig zurückgezogen
+- TOP 3.20.1: Änderungs- bzw.- Zusatzantrag gem. § 13 der Geschäftsordnung des Rates und der bezirksvertretungen - Sache ist erledigt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Zugeparkte Gehwege im Bewohnerparkgebiet Nördliche Neustadt (Az.: 02-1600-79/16) - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO "Sperrung von Straßen für den motorisierten Individualverkehr" (AZ.: 02-1600-135/16) - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Sanierung Riehler Straße (Az.: 02-1600-60/15) - zurückgestellt
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Radinfrastruktur Hansaring (Az.: 02-1600-152/16) - geändert beschlossen
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: Verkehrszählung Apostelnstraße und Standort WC-Anlage (Az.: 02-1600-157/16) - ungeändert beschlossen
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Bänke entlang der Severinstraße - zurückgestellt
+- TOP 5.1.2: Baustellenmanagement Eigelstein, Gem. Antrag SPD, Linke - zurückgestellt
+- TOP 5.1.2.1: Baustellenmanagement Eigelstein - zurückgestellt
+- TOP 5.1.3: Beseitigung der Engstelle für Fußgänger*innen auf der Brüsseler Str. - zurückgestellt
+- TOP 5.1.4: Hundewiese im Theodor-Heuss-Park - ungeändert beschlossen
+- TOP 5.1.5: Verbotswidriges Parken auf dem Severinskirchplatz - ungeändert beschlossen
+- TOP 5.1.6: Maßnahmen zur Verbesserung der verkehrlichen Situation auf dem Eigelstein, Antrag SPD - zurückgestellt
+- TOP 5.1.7: Abbau des Lottobrunnen - endgültig zurückgezogen
+- TOP 5.1.8: Ladezone Komödienstraße Ecke Turiner Str. - zurückgestellt
+- TOP 5.1.9: Umgestaltung der Vogteistraße und des Gereonswalls mit Abschluss der Baumaßnahmen am Hansagymnasium (Altstadt/Nord) - ungeändert beschlossen
+- TOP 5.1.10: Verlegung von Fahrradabstellflächen am Eifelplatz - zurückgestellt
+- TOP 5.1.11: Radstaffel des Ordnungs- und Verkehrsdienstes - geändert beschlossen
+- TOP 5.1.12: Barrierefreie Innenstadt - ungeändert beschlossen
+- TOP 5.1.13: Heller, sauberer, übersichtlicher: Sofortprogramm für den Ebertplatz - geändert beschlossen
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Vergrämung von Halsbandsittichen - endgültig zurückgezogen
+- TOP 5.2.2: Tischtennisplatten in der Theodor-Heuss-Anlage (Neustadt/Nord) - ungeändert beschlossen
+- TOP 5.2.3: Gestaltung der Bahnunterführung der Deutz-Mülheimer-Straße - zurückgestellt
+- TOP 5.2.4: Wiederherstellung der Grünanlage an der Follerstraße nach Abbau der temporären Turnhalle - ungeändert beschlossen
+- TOP 5.2.5: Gem. Antrag CDU, SPD und FDP über einen Nachlass der Nutzungsgebühren für den Weihnachtsmarkt am Chlodwigplatz - endgültig zurückgezogen
+- TOP 5.2.6: Verkehrsgefährdend aufgestellte Werbeanlage in der Mindener Straße - ungeändert beschlossen
+- TOP 5.2.7: Instandsetzung der Fläche zwischen Severinstraße, Löwengasse, Weberstraße und Severinsbrücke - zurückgestellt
+- TOP 5.2.8: Weitere Maßnahmen am Deutzer Rheinboulevard - ungeändert beschlossen
+- TOP 5.2.9: Fahrradfreundliche Gestaltung der Fahrbahn des Severinskirchplatzes - zurückgestellt
+- TOP 5.2.10: Beleuchtungsinstallation für den Brunnen auf dem Ebertplatz - ungeändert beschlossen
+- TOP 5.2.11: Belästigung und Gefährdung durch die Ladezone Mathildenstraße - zurückgestellt
+- TOP 5.2.12: Maßnahmen zur Verbesserung der Verkehrssicherheit in der Richard-Wagner-Straße (Neustadt/Süd) - zurückgestellt
+- TOP 5.2.13: Umwandlung der Hausmeisterwohnung am Abendgymnasium Gereonsmühlengasse (Altstadt/Nord) - ungeändert beschlossen
+- TOP 5.2.14: ERKLÄRUNG der BEZIRKSVERTRETUNG INNENSTADT zu SILVESTER - ungeändert beschlossen
+- TOP 5.2.15: Umbaumaßnahme des Ebertplatzes - zurückgestellt
+- TOP 6: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Sachstand Sanierung U-Bahnhaltestelle Bhf Deutz/ Messe - zurückgestellt
+- TOP 7.2: Sachstand Sanierung U-Bahnhof BF Deutz/ Messe - zurückgestellt
+- TOP 7.3: Gem. ANfrage Bündnis90/DieGrünen, CDU, SPD, Deine Freunde, FDP zu den Bahnbögen am Eigelstein - zurückgestellt
+- TOP 7.4: Sachstand Bauwagensiedlung
+- TOP 7.4.1: Sachstand Bauwagensiedlung (Anfrage der Fraktion Die Linke AN 1603/2016)
+- TOP 7.5: Gedenkstein für Opfer des Nationalsozialismus im Hansapark (Altstadt/Nord) - zurückgestellt
+- TOP 7.6: Reinigungs- und Räumdienst auf Radinfrastruktur - zurückgestellt
+- TOP 7.7: Kreuzungsbereich Ursulastr. - Kyotostr. - Tunisstr. - zurückgestellt
+- TOP 7.8: Wohnraumzweckentfremdung Gereonswall 31 (Altstadt/Nord)
+- TOP 7.8.1: Wohnraumzweckentfremdung Gereonswall 31 (Altstadt/Nord)
+- TOP 7.9: Verlängerung der Mietpreisbindungen in der Innenstadt
+- TOP 7.9.1: Anfrage der SPD-Fraktion in der Bezirksvertretung Innenstadt in der Sitzung vom 05.12.2016 (AN/2019/2016)
+- TOP 8: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 8.1: Umgestaltung des Ebertplatzes - zurückgestellt
+- TOP 8.2: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 8.3: Gestaltung des Kyotoplatzes (Altstadt/Nord) - zurückgestellt
+- TOP 8.4: Nutzungswechsel ehemalige Strauss Filiale am Karolingerring - zurückgestellt
+- TOP 8.5: Anfrage zur Umwandlung von Parkplätzen in Multifunktionsflächen - zurückgestellt
+- TOP 9: Mündliche Fragen an die Verwaltung
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung - Kenntnis genommen
+- TOP 11.1: Neuaufstellung des Regionalplans - Kenntnis genommen
+- TOP 11.2: Beantwortung der Anfrage der SPD-Fraktion vom 21.11.2016 betreffend "Bahnbögen Eigelsteinviertel: Sachstand Workshop und weiteres Vorgehen" (AN/1950/2016) - Kenntnis genommen
+- TOP 11.3: Sachstand und weiteres Vorgehen Verkehrskonzept Zülpicher Straße - Kenntnis genommen
+- TOP 11.4: Umsetzung Radverkehrskonzept Innenstadt - Kenntnis genommen
+- TOP 11.5: Modellvorhaben in Köln: Förderung aktiver Mobilität in städtischen Quartieren - Kenntnis genommen
+- TOP 11.6: Beantwortung der Anfrage der SPD-Fraktion vom 02.08.2016 betreffend Parkhaus Auf dem Hunnenrücken (Altstadt/Nord) (AN/1390/2016) - Kenntnis genommen
+- TOP 11.7: Baumfällungen 2016 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 11.8: Fußverkehr Innere Kanalstraße - Kenntnis genommen
+- TOP 11.9: Fortschreibung des Landschaftsplans der Stadt Köln hier: Anpassung Landschaftsplan - Bauleitplanung, Stand 2016 - Kenntnis genommen
+- TOP 11.10: Drogenkonsum und Aufenthalt im öffentlichen Raum um den Neumarkt/Josef-Haubrich-Hof - Kenntnis genommen
+- TOP 11.11: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 11.12: Baubegleitende juristische Beratung Historische Mitte - Kenntnis genommen
+- TOP 11.13: Mitteilung über die Eröffnung des Infocontainers mit integriertem Imbiß am Parkcafé im Kölner Rheinpark - Kenntnis genommen
+- TOP 11.14: Straßenbaumersatzpflanzungen 2016/2017 - Kenntnis genommen
+- TOP 11.15: Ergebnis des Wettbewerbes "Casino Köln" in Köln-Deutz - Kenntnis genommen
+- TOP 11.16: Glasverbot zu "Jeck im Sunnesching“ - Kenntnis genommen
+- TOP 11.17: Nutzungskonzept für Veranstaltungen im Rheinpark - Kenntnis genommen
