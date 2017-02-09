@@ -1,0 +1,53 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-02-09T16:05:00+01:00
+- Ende: 2017-02-09T18:00:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/111
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12895
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12895
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00203228.pdf
+
+## Tagesordnung
+
+- TOP 1: Zwischen Rhein und Wupper: zusammen - wachsen - Entgegennahme ohne Beschluss
+- TOP 2: Teilnahme der Stadt Wuppertal am Städtebauförderprojekt "Umgang mit Problemimmobilien im Kontext der Zuwanderung aus Süd-Ost-Europa" - Entgegennahme ohne Beschluss
+- TOP 3: Bebauungsplan 167 / 167 A - In der Beek / In den Birken / Katernberger Schulweg - - ungeändert beschlossen
+- TOP 4: 114. Flächennutzungsplanänderung - Bahnhof Heubruch - - ungeändert beschlossen
+- TOP 5: Bebauungsplan 1222 - Monschaustraße - Süd - - ungeändert beschlossen
+- TOP 6: Bebauungsplan 1241 - Bahnhof Heubruch - - ungeändert beschlossen
+- TOP 7: 113. Änderung des Flächennutzungsplanes - Westring - - ungeändert beschlossen
+- TOP 8: Bebauungsplan 1207 - Westring - - ungeändert beschlossen
+- TOP 9: Bebauungsplan 846 - Schwarzbach - - ungeändert beschlossen
+- TOP 10: Bebauungsplan 1208 - Berliner Straße / Rauer Werth - - ungeändert beschlossen
+- TOP 11: Bebauungsplan 1205 - Märkische Str. / Hatzfelder Str. - - ungeändert beschlossen
+- TOP 12: Bebauungsplan 1206 - Carnaper Str. / Hatzfelder Str. - - ungeändert beschlossen
+- TOP 13: Bebauungsplan 622 A / 1 - Friedrich-Engels-Allee/West - - ungeändert beschlossen
+- TOP 14: Bebauungsplan 187 - Am Anschlag - - ungeändert beschlossen
+- TOP 15: Bebauungsplan 1081 - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 16: Vorhabenbezogener Bebauungsplan 1187V - Jägerhofstraße - - ungeändert beschlossen
+- TOP 17: 54. Änderung des Flächennutzungsplanes - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 18: Bebauungsplan 654 - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 19: Bebauungsplan 1224 - Uellendahler Straße / nordöstlich Bornberg - ungeändert beschlossen
+- TOP 20: Fluchtlinienplan 173 - Carnaper und Leimbacherstr. - - ungeändert beschlossen
+- TOP 21: Bebauungsplan 1218 - Bromberger Straße/ Schützenstraße - - ungeändert beschlossen
+- TOP 22: Bebauungsplan 776/1 - Hessische Straße/ Regentenstraße - 1. Änderung - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 23: Bebauungsplan 622A/1 - Friedrich-Engels-Allee - 6. Änderung - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 24: 4. Bauabschnitt Nordpark - ungeändert beschlossen
+- TOP 25: Präzisierung ISEK Innenstadt Barmen - ungeändert beschlossen
+- TOP 26: Ausbau des öffentlichen WLAN-Netzes - Entgegennahme ohne Beschluss
+- TOP 27: Gründung der "Städtische Markt GmbH Wuppertal" - ungeändert beschlossen
+- TOP 28: Anerkennung des Mietspiegels 2016 als qualifizierter Mietspiegel - Entgegennahme ohne Beschluss
+- TOP 29: Bericht REGIONALE-Bewerbung 2025 - Entgegennahme ohne Beschluss
+- TOP 30: Stadtentwicklungskonzept Wuppertal 2030 - ungeändert beschlossen
+- TOP 31: Planungen für das Landesgrundstück „Lichtscheid“ - Entgegennahme ohne Beschluss
+- TOP 31.1: Planungen auf dem Landesgrundstück "Lichtscheid" - Entgegennahme ohne Beschluss
+- TOP 32: Wohnungen für Studierende in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 32.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 17.01.2017 - Entgegennahme ohne Beschluss
+- TOP 33: Bebauungsplan Nr. 1225 V östlich Ladebühner Straße - Entgegennahme ohne Beschluss
+- TOP 33.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - Entgegennahme ohne Beschluss
+- TOP 34: Parkplatzsituation Nordpark - Anfrage der CDU-Fraktion vom 12.10.2016 - Entgegennahme ohne Beschluss
+- TOP 34.1: Beantwortung der Anfrage der CDU-Fraktion vom 12.10.2016 - Entgegennahme ohne Beschluss
