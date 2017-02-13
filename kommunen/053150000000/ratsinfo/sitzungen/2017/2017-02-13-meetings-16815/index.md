@@ -1,0 +1,74 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-13T14:35:00+01:00
+- Ende: 2017-02-13T15:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16815
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16815
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Sachstandsbericht zur Archäologischen Zone - Kenntnis genommen
+- TOP 2.2: Bericht der Stadt Köln gemäß Art. 7 der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.4: Aktuelle Informationen zur Unterbringung und Integration von Flüchtlingen - 12. Bericht - Kenntnis genommen
+- TOP 2.5: 11. Sachstandsbericht zur Einführung eines neuen integrierten Kassen- und Einnahmeverfahrens - Kenntnis genommen
+- TOP 2.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.7: Nord-Süd Stadtbahn Köln, 1. Baustufe; Berichtswesen 1. und 2. Quartal 2016 - Kenntnis genommen
+- TOP 2.8: Nord-Süd Stadtbahn Köln, 2. Baustufe; Berichtswesen 1. und 2. Quartal 2016 - Kenntnis genommen
+- TOP 2.9: Hpl.-Aufstellungsverfahren 2018 und Jahresabschluss 2015 - Kenntnis genommen
+- TOP 2.10: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.11: Kliniken der Stadt Köln gGmbH - zurückgestellt
+- TOP 2.12: Höchstrichterliche Entscheidung zum sogenannten Sanierungserlass des BMF - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Anfrage der AFD-Fraktion betreffend Externe Beratungskosten der Stadt Köln - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der AFD-Fraktion betreffend Externe Beratungskosten der Stadt Köln - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Umgestaltung des Einmündungsbereichs Sebastianstraße/Niehler Damm, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der - ungeändert beschlossen
+- TOP 6.2: Kostenerhöhungsbeschluss Bestandshalle Bocklemünd - ungeändert beschlossen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Beschluss des Projektes "Sanierung des ehemaligen Kuhstalls auf dem Krebelshof in Köln-Worringen" im Rahmen des Programms "Win-Win für Köln" sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 7.2: Mittelfreigabe Bau Vereinheim Zaunhofstr. - ungeändert beschlossen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2016 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert beschlossen
+- TOP 7.4: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - ungeändert beschlossen
+- TOP 7.5: Ersatzbeschaffung von 5 Gräberbaggern für den Bereich Friedhöfe - ungeändert beschlossen
+- TOP 7.6: Ersatzbeschaffung von 4 Großflächenmähern für die Rasenpflege im Bereich Friedhöfe - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 12.2: Finanzmittel "Sportleraustausch von und in Kölner Partnerstädte" in Höhe von 22.288,-- €, HJ 2017 - ungeändert beschlossen
+- TOP 12.3: Dringend notwendige Errichtung von mobilen Wohneinheiten zur Flüchtlingsunterbringung - hier: An den Gelenkbogenhallen, 50679 Köln-Deutz, Flur 33, Flurstück 904 - ungeändert beschlossen
+- TOP 12.4: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - endgültig zurückgezogen
+- TOP 12.4.1: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - endgültig zurückgezogen
+- TOP 12.5: 6. Satzung zur Änderung der Gebührensatzung für die Rheinische Musikschule - ungeändert beschlossen
+- TOP 12.6: Ersatzbeschaffung von 2 Schleppern für den Bereich Mähen und Pflegen von Großrasenflächen und von 1 Schmalspurschlepper für den Bereich Straßenbegleitgrün - ungeändert beschlossen
+- TOP 12.7: Stadtentwässerungsbetriebe Köln, AöR (StEB) Abwasserbeseitigungskonzept 2017 - ungeändert beschlossen
+- TOP 12.8: Feststellung des Jahresabschlusses zum 31.08.2015 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 12.9: Koordination multiprofessionelle Teams und Gruppenleitung Schulsozialarbeit - ungeändert beschlossen
+- TOP 12.10: Einleitung eines Satzungsverfahrens nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) zur Festlegung des Gebietes für die Immobilien- und Standortgemeinschaft "Severinstraße, Köln" - ungeändert beschlossen
+- TOP 12.11: Baubeschluss für die Umgestaltung der Neuerburgstraße im Bereich zwischen Kalker Hauptsstraße und Sieversstraße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-8-1015, Umgestaltung Neuerburgstraße - ungeändert beschlossen
+- TOP 12.12: "Flüchtlinge in Köln willkommen heißen" - ein Projekt zur Unterstützung von Flüchtlingsinitiativen – Kooperationsprojekt Forum für Willkommenskultur Träger: Kölner Flüchtlingsrat e. V. und Kölner Freiwilligen Agentur e. V. - ungeändert beschlossen
+- TOP 12.13: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - zurückgestellt
+- TOP 12.14: Tunnel Grenzstraße, hier: Bedarfsfeststellung für die Installation und Aufschaltung der Leittechnik auf die Tunnelwache - ungeändert beschlossen
+- TOP 12.15: Errichtung von vier konventionellen Bauten auf den städtischen Grundstücken Pater-Prinz-Weg - ungeändert beschlossen
+- TOP 12.16: Freigabe zusätzlicher Mittel aus der Kulturförderabgabe und dem Politischen Veränderungsnachweis - ungeändert beschlossen
+- TOP 12.17: Baubeschluss: Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Turnhalle am Standort des ehemaligen "Nippesbad", Friedrich-Karl-Str. / Ecke Niehler Kirchweg, 50733 Köln-Nippes, in Modulbauweise - ohne Votum in nachfolgende Gremien
+- TOP 12.18: Kombinierter Planungs- und Baubeschluss zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs, Bauabschnitt 4 (Los 4a/b) - ohne Votum in nachfolgende Gremien
+- TOP 12.19: Entwurf des Jahresabschlusses 2015 - ungeändert beschlossen
+- TOP 12.20: Programm RRX-Außenäste - ohne Votum in nachfolgende Gremien
+- TOP 12.21: Akademie der Künste der Welt/Köln gGmbH - Freigabe des Haushaltsansatzes - ungeändert beschlossen
+- TOP 12.22: Sanierung Tiefgarage Kaiser-Wilhelm-Ring - ungeändert beschlossen
+- TOP 12.23: Beschluss zur Gründung des Vereins Metropolregion Rheinland - ohne Votum in nachfolgende Gremien
+- TOP 12.24: Verwaltungsreform - Abschlussbericht der Konzeptphase - ohne Votum in nachfolgende Gremien
+- TOP 13: Mündliche Anfragen
