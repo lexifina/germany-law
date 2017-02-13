@@ -1,0 +1,104 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4211840
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4211840
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Geplante Busspur in der Waldwiesenstraße
+- TOP 1.2.: Geplante Tiefgaragenabfahrt der Wohnanlage Ludlstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Verkehr
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Kurparkstraße 85/ Toemlingerstraße in der Nähe der Bushaltestelle Stiftsbogen (Kreisverwaltungsreferat, 19.01.17)
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Gondrellplatz 1 / Walter-Hopf-Weg - Tram-Wendeschleife (Kreisverwaltungsreferat, 19.01.17)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Evaluierung der Sondernutzungsrichtlinien (Kreisverwaltungsreferat, 12.01.17)
+- TOP 6.2.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München (Referat für Stadtplanung und Bauordnung, 12.01.17)
+- TOP 6.3.: Ausschreibung: "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen" (Sozialreferat, 15.11.16) (vertagt aus 01/17)
+- TOP 6.4.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz vom 20.03. - 02.04.2017 Circusvorstellung des Circus Galliano (Kreisverwaltungsreferat, 17.01.17)
+- TOP 6.6.: Verkehrsrechtliche Anordnung, hier: Gräfelfinger Straße; Einrichtung eines absoluten Haltverbotes mit dem Zeitzusatz "an Schultagen von 07.00 - 14.00 Uhr" (Kreisverwaltungsreferat, 24.01.17)
+- TOP 6.8.: Entwurf der Dokumentation der Bürgerbeteiligung zum Canisiusplatz vom 24.11.2016 (Baureferat, 30.01.17)
+- TOP 6.10.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017 (Kreisverwaltungsreferat, 09.02.17)
+- TOP 6.11.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Kinder Circus Roberto vom 19. - 29.10.2017 (Kreisverwaltungsreferat, 09.02.17)
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Gräfelfinger Straße 122, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 25103
+- TOP 7.1.2.: Konrad-Dreher-Straße 12 a, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 28348
+- TOP 7.1.3.: Rebholzstraße, gem. Baumbestandsplan Nr. 27671
+- TOP 7.1.4.: Am Hedernfeld 21, 1 Spitzahorn
+- TOP 7.1.5.: Gräfelfinger Straße 96 - 104, 2 Feuerahorn
+- TOP 7.1.6.: Kornwegerstraße 3, 1 Tanne
+- TOP 7.1.7.: Kornwegerstraße 47, 1 Linde
+- TOP 7.1.8.: Ludlstraße 1 - 43, gem. Baumbestandsplan Nr. 3166
+- TOP 7.1.9.: Ludlstraße 2 - 16, gem. Baumbestandsplan Nr. 3165
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.2.1.: Liste des Baureferates vom 06.12.2016
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Karl-Witthalm-Straße 3 (Kreisverwaltungsreferat, 02.01.17)
+- TOP 8.2.: Beschlussvorlage zum WC-Konzept "Nette Toilette" (Bürgermeister Josef Schmid, 19.12.16)
+- TOP 8.5.: Information über Betriebskonzept der Linien U3/U6 während Entfernung der Hintergleiswerbung am U-Bahnhof Sendlinger Tor (MVG, 10.01.17)
+- TOP 8.6.: Vollzug der Wassergesetze; Bachräumungstermine 2017 für die Stadt- bzw. Stadtrandbäche (Baureferat, 16.01.17)
+- TOP 8.7.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle" (Referat für Stadtplanung und Bauordnung, 29.01.17)
+- TOP 8.8.: Unveränderte Fortführung des Gaststättenbetriebs "El Dorado 2 ", Stiftsbogen 43 (Kreisverwaltungsreferat, 31.01.17)
+- TOP 8.9.: Machbarkeitsstudie für die Grundschule an der Senftenauerstraße 21 (Referat für Bildung und Sport, 19.01.17)
+- TOP 9.: Antworten der Stadt
+- TOP 9.3.: Bank in der Kriegerheimstraße (Baureferat, 17.01.17)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Marktfeste auf den Münchner Wochenmärkten unter dem Slogan "love your local market" (Kommunalreferat, 28.12.16)
+- TOP 11.2.: Regionalgespräche mit der Lokalbaukommission, Termine: 12.07.2017 oder 13.07.2017 jeweils 17.00 Uhr (Referat für Stadtplanung und Bauordnung, 10.02.17)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 5.1.: Parksituation Franz-Kendler-Straße (Kreisverwaltungsreferat, 17.01.17)
+- TOP 5.2.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule an der Blumenauer Straße 11, Projekt "KörperWunderWerkstatt" von März - Juli 2017 (Direktorium, 19.01.17)
+- TOP 6.5.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung (Referat für Stadtplanung und Bauordnung, 18.11.16) (vertagt aus 12/16)
+- TOP 6.7.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands; Antrag CSU-Fraktion; BA-Antrags-Nr. 14-20 / B 03074 des BA 15 vom 24.11.2016 (Direktorium, 30.01.17)
+- TOP 6.9.: Beschlussentwurf für den Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen (Direktorium, 06.02.17)
+- TOP 8.3.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Jahresgenehmigung 2017 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München (Referat für Gesundheit und Umwelt, 28.12.16)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Kleinhaderner Straße (Sozialreferat, 22.12.16) - Waldklausenweg (Sozialreferat, 12.01.17) - Gräfelfinger Straße (Sozialreferat, 16.01.17)
+- TOP 9.1.: Einrichtung einer zeitlich beschränkten Busspur in der Fürstenrieder Straße (Kreisverwaltungsreferat, 04.01.17)
+- TOP 9.2.: Verkehrsrechtliche Verbesserungen an der Einmündung Würmtal- / Eichenstraße (Kreisverwaltungsreferat, 23.12.16)
+- TOP 9.4.: Fahrradständer an der Bushaltestelle "Klinikum Großhadern Ost" (Baureferat, 20.01.17)
+- TOP 1.1.1.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07360: Neuberufung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 1.1.2.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 02990: Tram Westtangente Von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Optimierung und Überarbeitung der bisherigen Planung
+- TOP 1.1.3.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 05253: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 1.1.4.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07756: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017 - 2021 München Modell-Eigentum a) Förderrichtlinien neu fassen b) München Modell-Eigentum erweitern
+- TOP 1.1.5.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07418: PERSPEKTIVE MÜNCHEN Zukunftsschau München 2040+ - Szenarien zur Stadtentwicklung
+- TOP 1.1.6.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07237: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplans 2017 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 1.1.7.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07226: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltsplans 2017 für den Bereich "Förderung freier Träger" des Sozialreferates / Stiftungsverwaltung-Bürgerschaftliches Engagement (BE) und Zentrale
+- TOP 1.1.8.: Beschluss vom 14.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07138: Erstellung von Stadtbezirksprofilen - Personalbedarf
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07547: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet
+- TOP 2.1.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07291: Zuschussnehmerdatei 2017 Vollzug des Haushaltsplanes 2017 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 2.1.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 22.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07218: Haushaltsplan 2017 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2017 Vollzug des Haushaltplanes 2017 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 zur Sitzungsvorlage-Nr. 14-20 / V 06471: Werbeanlagenverordnung erlassen
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07490: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung
+- TOP 3.1.2.: Beschluss des Bauausschusses vom 22.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07494: Mehrjahresinvestitionsprogramm für die Jahre 2016 - 2020 mit verbindlicher Planung für 2021; Entwurf für das Baureferat
+- TOP 3.1.3.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 22.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07390: Entwurf des Mehrjahresinvestitionsprogramms 2016 - 2020 Einzelplan 4 / Jugendamtsbereich
+- TOP 3.1.4.: Beschluss des Kommunalausschusses vom 24.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07463: Mehrjahresinvestitionsprogramm 2016 - 2020; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 3.1.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 22.11.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07426: Entwurf des Mehrjahresinvestitiosprogramms für die Jahre 2016 - 2020, Einzelplan 4 / Sozialbereich
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 zur Sitzungsvorlage-Nr. 14-20 / V 02989: Ökologischer Kriterienkatalog Fortschreibung 2016/2017
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2016 zur Sitzungsvorlage-Nr. 14-20 / V 07551: Ensembles ehemaliger Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes; Sachstand der Beurteilung durch den Landesdenkmalrat
