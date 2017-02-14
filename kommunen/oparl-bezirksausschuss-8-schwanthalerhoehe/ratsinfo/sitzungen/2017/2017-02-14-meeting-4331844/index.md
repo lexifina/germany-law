@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4331844
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4331844
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Trappentreustr. 1- 3
+- TOP 6.2.4.: Ligsalzstr. 32 RGB
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.2.2.: Satzungsbeschluss Erhaltungssatzung "Ludwigsvorstadt/Schwanthalerhöhe
+- TOP 6.2.3.: "Haus mit der roten Fahne" erhalten
+- TOP 6.3.1.: Bauvorhaben Meldeliste
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Baumschutz in München ist Klimaschutz für München
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Novellierung der Naturdenkmalverordnung der LHSt. München
+- TOP 8.2.2.: Baumfällungsantrag Trappentreustr. 1-3
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Zwischennachricht - Verkehrssituation zwischen Arnulfstr. und Landsberger Str. (Antrag Nr. 02618)
+- TOP 8.3.2.: Zwischennachricht - Neue Wege für das Rad im Stadtbezirk 8 (Antrag Nr. 00779)
+- TOP 8.3.3.: Baumfällungsantrag Guldeinstr. 54
+- TOP 8.3.4.: Zwischennachricht - Kontrollmaßnahmen und Sanktionen für Kraftfahrer in der Fahrradstr. Gollierstr. (BV-Empf. Nr. 00925)
+- TOP 8.3.5.: Auswärtige Kennzeichen mit Parklizenz
+- TOP 8.3.6.: Fußgängerüberweg Trappentreustr. auf Höhe Hs.Nr. 12; Parkbucht auf der östlichen Seite ca. um einen Meter weiter nach innen veretzen
+- TOP 8.3.7.: Typischen Trinkwasserbrunnen für den Georg-Freundorfer-Platz
+- TOP 8.3.8.: Errichtung von Zufahrtslockaden auf den Grünstreifen in der Tulbeckstr. zwischen Bergmann- und Trappentreustr.; Behinderung durch Falschparker im Westend
+- TOP 8.3.9.: Projekt Landsberger Str. (Südseite) zwischen Schrenk- und Holzapfelstr.
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: Zuschussantrag United Cultures Initiative e.V.
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Nutzung Theresienwiese
+- TOP 10.2.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken
+- TOP 11.1.: Satzungsänderung - Erhöhung der Zahl der zu entschädigenden Termine eines BA-Vorstands
