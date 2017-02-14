@@ -1,0 +1,6 @@
+# TOP 6: Bericht aus den Gremien VRR/KMN
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Nahverkehrs- und Straßenbauausschusses (2017-02-14)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/15678
