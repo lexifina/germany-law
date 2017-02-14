@@ -1,0 +1,94 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-02-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4265913
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4265913
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 25.01.17
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Verbot oder Einschränkung von Silvesterfeuerwerk durch Privatpersonen
+- TOP 2.2.2.: Streetballanlage Megerlestraße / Ergänzung
+- TOP 2.2.3.: Buslinie 164
+- TOP 2.3: Planung einer Grundschule an der Theodor-Fischer-Straße
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.9.: Faschingsumzug der Pfarrei Maria Himmelfahrt am 28.02.2017
+- TOP 5.10.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayer. Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 5.11.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands; Antrag CSU-Fraktion
+- TOP 5.13.: Beschlussentwurf Veranstaltungsbudget
+- TOP 5.14.: Blutenburglauf am 16.07.17, Start Allach-Untermenzing
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 7.1.: Entenrennen des Lions Club München-Blutenburg am 22.07.17 auf der Würm im Rahmen von 1200 Jahre Menzing
+- TOP 7.2.: Weiteres Vorgehen wegen Parkplätzen am Allacher Friedhof
+- TOP 7.3.: Zuschuss für Brotzeit "Ramadama"
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 10.: Nachtrag
+- TOP 1.4.2.: Protokoll UA Verkehr vom 30.01.17
+- TOP 2.3.1.: Anhörungen: Grundschulneubau Theodor-Fischer-Straße
+- TOP 2.4: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/25 Bundesautobahn A 8 München Stuttgart (südlich), Bundesautobahnring A 99 (östlich), Mühlangerstraße (nördlich)
+- TOP 4.1.: (E) Keine Lkws in der Pasteurstraße mit Ausnahme der anliegenden Firmen
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Initiative "Sichtkontakt" Kunstprojekt "Sichtkontakt" vom 24.04. - 24.07.2017
+- TOP 4.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung der Gesamtstrecke der Rhoda-Erdmann-Straße
+- TOP 5.1.: Dachauer Str. 665, Gemarkung Ludwigsfeld, Fl.Nr. 1409/1 MTU - Neubau Testzentrum G200 und Vollzug der BaumschutzVO
+- TOP 5.2.: Eversbuschstr. 65, Gemarkung: Untermenzing, Fl.Nr.: 106/0 Nutzungsänderung eines Büro-und Gewerbegebäudes zu einem Mehrfamilienhaus (9 WE) mit Balkon- und Garagenneubau
+- TOP 5.3.: 4 Großflächentafeln im Format 18/1, beklebt und beleuchtet Georg-Reismüller-Str. 8, Fl.Nr. 1324/68, Gemarkung Allach
+- TOP 5.4.: 2 Werbeanlagen für termingebundenen wechselnden Plakatanschlag Eversbuschstr. 90, Fl.Nr. 90/0, Gemarkung Untermenzing
+- TOP 5.5.: Martha-Näbauer-Platz, Gemarkung: Allach, Fl.Nr.: 1398/62 Schulbauoffensive; Neubau Haus für Kinder (2Krippen-, 2 Kindergarten-und 1 Hortgruppe)
+- TOP 5.6.: Neubau eines Dreispänners mit Garagen Franz-Nißl-Str. 71a, Gemarkung: Allach, Fl.Nr.: 929/6 und Vollzug der BaumschutzVO
+- TOP 5.7.: Neubau Parkdeck Krauss-Maffei-Str. 11, Gemarkung: Allach, Fl.Nr.: 1220/7 und Vollzug der BaumschutzVO
+- TOP 5.8.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Paul-Ehrlich-Weg 130, Fa. Bayer. Asphalt-Mischwerke GmbH&Co.KG für Straßenbaustoffe Asphaltmischanlage hier: Austausch der Bitumentankanlage, Antrag auf Genehmigung gem. § 16 BImSchG
+- TOP 5.12.: Allacher Str., Gemarkung: Untermenzing, Fl.Nr.: 288/4 Neubau eines Dreispänners und eines Doppelhauses mit Carports
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.17: Bürgerrechte und mehr sozialverträgliche Städteplanung und Städtebau für bezahlbaren Wohnraum (Sitzungsvorlage Nr. 07096)
+- TOP 6.2.: Beschluss des Sozialausschusses vom 19.01.2017: Rechtzeitige Anpassung des Mitarbeiterschlüssels im Sozialbürgerhaus Pasing an das Wachstum im Stadtbezirk (Sitzungsvorlage Nr. 07591)
+- TOP 6.3.: Bekanntgabe in der Sitzung des Bauausschusses vom 31.01.2017: Allacher Straße zwischen Ernst-von-Behling-Straße und Eduard-Schwartz-Straße im 23. Stadtbezirk (Sitzungsvorlage Nr. 05083)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.17: a) Werbeanlagenverordnung erlassen (Sitzungsvorlagen Nr. 06471) b) Ökologischer Kriterienkatalog Fortschreibung 2016/2017 (SitzungsvorlagenNr. 02989)
+- TOP 9.1.: Schreiben Kreisverwaltungsreferat vom 08.12.16: Parkbeschränkung Martha-Näbauer-Platz
+- TOP 9.2.: Schreiben Kreisverwaltungsreferat vom 12.01.17: Evaluierung der Sondernutzungsrichtlinien
+- TOP 9.3.: Schreiben Kreisverwaltungsreferat vom 12.01.17: Radunterführung Karl-Geyer-Straße
+- TOP 9.4.: Schreiben Kreisverwaltungsreferat vom 12.01.17: Antrag auf unveränderte Fortführung des "Cafe Allach", Franz-Nißl-Str. 16
+- TOP 9.5.: Schreiben Kreisverwaltungsreferat vom 11.01.17: Antrag auf unveränderte Fortführung der Gaststätte "Zur Schießstätte"
+- TOP 9.6.: Schreiben Kreisverwaltungsreferat vom 20.12.16: Einrichtung eines absoluten Haltverbotes Peter-Müller-Straße, im Bereich des Wendehammers
+- TOP 9.7.: Schreiben Kreisverwaltungsreferat vom 20.12.16: Einrichtung eines absoluten Haltverbotes Manzostr. 45
+- TOP 9.8.: Schreiben Kreisverwaltungsreferat vom 20.12.16: Einrichtung eines absoluten Haltverbotes Von-Reuter-Straße, nördlich Buchenweg
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 07.12.16: Absolutes Haltverbot für Feuerwehr Allacher Str. östlich Karl-von-Roth-Straße
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 25.01.17 und 01.02.17: Umlaufsperre an der Rad- und Fußwegunterführung an der Karl-Gayer-Straße
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 30.01.17: Arbeiten im Straßenraum, Naglerstraße zwischen Klesel- und Lauthstraße (Kanalbau)
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 23.01.17: Georg-Reismüller-Str. zwischen Ludwigsfelder Str. und Franz-Nißl-Str.; Einrichtung eines absoluten Haltverbotes
+- TOP 9.13.: Schreiben Kreisverwaltungsreferat vom 28.10.16: Absolutes Haltverbot im Kurvenbereich der Theodor-Lipps-Straße
+- TOP 9.14.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, hier Einzelfällungsanträge: Grünspechtstr. 10, Peter-Müller-Str. 23
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Spiegelbergstr. 37, Dyroffstr. , Gerberau
+- TOP 9.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.01.17: Fällungsgenehmigung Von-Reuter-Str. 4
+- TOP 9.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.01.17: Fällungsantrag August-Horch-Str. 8
+- TOP 9.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.01.17: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"
+- TOP 9.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.01.17: Bauanträge (26.12.16-01.01.17, 02.01.-08.01.17, 09.01.-15.01.17, 16.01.-22.01.17, 23.01.-29.01.17)
+- TOP 9.20.: Schreiben Stadtwerke München vom 02.01.17, 09.01.17, 16.01.17, 23.01.17, 30.01.17: Baumaßnahmen
+- TOP 9.21.: Schreiben Sozialreferat vom 09.01.17: Bebauungspläne Manzostraße
+- TOP 9.22.: Schreiben Sozialreferat vom 30.01.17: Wie kann man Behindertenparkplätze in München finden?
+- TOP 9.23.: Schreiben Sozialreferat vom 30.01.17: Antrag auf Zweckentfremdung von Wohnraum, Manresastr., Franz-Nißl-Str.
+- TOP 9.24.: Schreiben Baureferat vom 16.01.17: Vollzug der Wassergesetze; Bachräumungstermine 2017 für die Stadt- bzw. Stadtrandbäche
+- TOP 9.25.: Schreiben Baureferat vom 19.10.16: Schulbauoffensive 2013-2030 Neubau Schulbaupavillon, Franz-Nißl-Str. 55
+- TOP 9.26.: Schreiben Kommunalreferat vom 26.01.17: Suche nach einem Atelierhaus für Künstlerinnen und Künstler
+- TOP 9.27.: Schreiben Referat für Bildung und Sport vom 27.01.17: Sachstandsbericht zu Neu- und Sanierungsmaßnahmen alle 6 Monate
+- TOP 9.28.: Schreiben Mieterbeirat vom 30.01.17: Protokoll mit Anlagen des Mieterbeirates vom 16.01.17
+- TOP 9.29.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.02.17: Bauanträge (30.01.17-05.02.17)
+- TOP 9.30.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.02.17: Fällungsgenehmigung, Eversbuschstr. 241f
+- TOP 9.31.: Schreiben Stadtwerke München vom 06.02.17: Baumaßnahmen
+- TOP 9.32.: Schreiben Direktorium vom 31.01.17: Biodiversität: Zwei zusätzliche Wildblumenwiesen pro Stadtbezirk auf öffentlichen Grünflächen (Stadtratsantrag Nr. 02823)
