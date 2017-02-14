@@ -1,0 +1,125 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2017-02-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4140046
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4140046
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Änderung der BA-Satzung: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands - Antrag des BA 15 Trudering-Riem
+- TOP 5: Allgemeine Themen
+- TOP 6: Unterrichtungen (siehe Anlage)
+- TOP 7.: Bericht des Vorsitzenden
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: St-Anna-Straße 25, Abbruch und Neuerrichtung eines Wohngebäudes mit Laden vertagt aus 2017.01B 3.1.4
+- TOP 3.1.2.: Theatinerstraße 36, Dachgeschossausbau
+- TOP 3.1.3.: Lerchenfeldstraße 2, Generalsanierung und Erweiterung der Archälogischen Staatssammlung, vertagt aus 2016.07 B 3.1.2
+- TOP 3.1.4.: Frauenstraße 8, Nutzungsänderung: Wohnung zu Büro
+- TOP 3.1.7.: Unterer Anger 2, brandschutztechnische Ertüchtigung und punktuelle Nutzungsänderungen sowie Terrasseneinhausung
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Erinnerungsverfahren Alfons-Goppel-Straße, Ersatz Granitkleinstein durch Asphalt
+- TOP 3.2.2.: Erinnerungsverfahren Maximilianstraße, Querungshilfe
+- TOP 3.2.3.: Erhaltungssatzungen im BA 1, erneute Befassung, vertagt aus 2017.01 B 3.2.8
+- TOP 3.2.4.: Erinnerungsverfahren, Lueg ins Land und Isartor, Großsteinpflasterung nachsanden
+- TOP 3.2.5.: Erinnerungsverfahren, Oettingenstraße 2-12
+- TOP 3.2.6.: Erinnerungsverfahren, Sternstraße 5-21
+- TOP 3.2.7.: Erinnerungsverfahren, Jugfernturmstraße, Fahrbahnsanierung
+- TOP 3.2.8.: Erinnerungsverfahren, Stollbergstraße, Fahrbahnsanierung
+- TOP 3.2.9.: Erinnerungsverfahren, Triftstraße 10
+- TOP 3.2.12.: Erinnerungsverfahren Steinsdorfstraße zwischen Mariannenplatz und Maximilianeum
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 2.2.1.: Aufstellung einer neuen Verkaufseinrichtung (Zeitungsentnahmegerät) auf öffentlichem Grund, Prinzregentenstraße/Lerchenfeldstraße
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.1.1.: Faschingsumzug der Narrhalla am 28.02.2017
+- TOP 3.1.2.: Marienplatz, Geldbeutelwaschen am 01.03.2017 (Aschermittwoch)
+- TOP 3.1.3.: Zentralveranstaltung zur Bayerischen Woche der Geodäsie am 18.07.2017 auf dem Odeonsplatz
+- TOP 3.1.4.: Karfreitagsprozession am 14.04.2017
+- TOP 3.1.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 3.2.: Antrag auf Baumfällungen, Oettingenstr. 67
+- TOP 3.3.: Austausch der Lichtsignalanlage Himmelreich-/Oettingenstraße
+- TOP 3.5.: Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas- Wimmer-Rings unter Einschluss des Isartorplatzes, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung inkl. Erledigung verschiedener Empfehlungen aus der Bürgerversammlung Altstadt-Lehel vom 03.12.2016
+- TOP 1.1.: Bürgeranliegen, Bewerbergemeinschaft Wildfleck und BA 1 für eine kulturelle Veranstaltung am Vater-Rhein-Brunnen für die Jahre 2017-2019
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP B 4.3.: Dokumentation der Regionalen Wohnungsbaukonferenz 2016
+- TOP B 4.6.: Anhörung zu Bebauungsplan mit Grünordnung Nr. XXYY Oettingenstraße 74-80 und Tivolistraße, Antwort der Stadtschulrätin auf Stellungnahme des BA
+- TOP C 4.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen
+- TOP C 4.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP C 4.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP C 4.4.: Unveränderte Gaststättenfortführungen
+- TOP C 4.5.: Neugestaltung des Auswahlverfahrens und Standorte für die Strandveranstaltung 2017, Zweitschrift Sitzungsvorlage Nr. 14-20/V07544
+- TOP C 4.7.: Einholen einer OB-Entscheidung zu Sondernutzungen, mobile Fahrradständer Residenzstraße 23 und Maximilianstraße 21
+- TOP C 4.8.: Temporäre Kunst im öffentlichen Raum, Feuerkorb am Zugang Maxforum
+- TOP C 4.9.: Antwort des Bezirksinspektion Mitte, BA-Anfrage bezüglich Sauberkeit und Lieferverkehr in der Küchelbäckerstraße
+- TOP D 4.1.: Information über Betriebskonzept der Linien U3/U6 währenmd der Entfernung der Hintergleiswerbung am U-Bahnhof Sendlinger Tor
+- TOP D 4.2.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP D 4.3.: Sachstände Triftstraße 10 und Fußgängerquerung Sendlinger Straße / Färbergraben; Zwischennachricht des Baureferates vom 19.01.2017
+- TOP D 4.4.: Genehmigungsplanung Umbaumaßnahmen S-Bahn-Station Isartor, Stellungnahme des BA 2 vom 25.01.2017
+- TOP D 4.5.: Antwort der Immobilien Freistaat Bayern, BA-Anfrage zu Baustelleneinrichtung und Parkplätzen auf dem Marstallplatz
+- TOP D 4.6.: Verkehrsrechtliche Anordnung: Absolutes Haltverbot in der Steinsdorfstraße nördl. Landstraße
+- TOP E 4.1.: Antworten des Sozialreferates und von St. Anna zum Antrag aus der Kinder- und Jugendversammlung zu einer Jugendeinrichtung für über 12 Jährige
+- TOP E 4.3.: Spielflächen für Kinder und Jugendliche, Antrag aus der Kinder- und Jugendversammlung des BA 1, Antwortschreiben der Verwaltung des Englischen Gartens München vom 23.01.2017
+- TOP E 4.5.: Neue Holzschaukel für den Spielplatz am Vater-Rhein-Brunnen, Antrag des BA 5
+- TOP E 4.6.: Spielgeräte vor dem Kartencontainer beim Deutschen Museum; Antrag aus der Kinder- und Jugendeinwohnerversammlung 2016 im BA 1; Stellungnahme des BA 2 Ludwigsvorstadt-Isarvorstadt vom 25.01.2017 zur Information
+- TOP A: Allgemeines
+- TOP 4.2.: Gemeinsamer Antrag der CSU- und der SPD-Fraktion Sommerfest des BA 1
+- TOP B: Planen, Bauen, Wohnen
+- TOP 2.1.: Tag des offenen Denkmals am 10.09.201, evtl. Anmeldung eines oder mehrerer Denkmale
+- TOP 3.1.5.: Odeonsplatz 8 – 10, Errichtung einer Freischankfläche (58 m²/72 Sitzplätze)
+- TOP 3.1.6.: Maderbräustraße 4, Nutzungsänderung zweier Läden zu einer Spielhalle mit 7 Geld- spielgeräten, Änderung Eingangsbereich
+- TOP 3.2.10.: Erinnerungsverfahren, Radwege SM6 2017, Prinzregentenstraße / Max-Planckstraße (stadtauswärts)
+- TOP 3.2.11.: Erinnerungsverfahren Isartorplatz zwischen Frauenstraße und Thomas-Wimmer-Ring
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.3: Sonstige
+- TOP 3: Anhörungen
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Schreiben einer Firma am Thomas-Wimmer-Ring vom 03.02.2017 Erhalt der Parkbucht auf Höhe der Herrnstraße während der Bauphases und darüber hinaus
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.4.: Genehmigungsplanung Umbaumaßnahmen S-Bahn-Station Isartor, vertagt aus 2017.01 D 3.2, Präsentation des Vorhabens im UA durch DB und Planungsbüro, (vgl. dazu auch Stellungnahme des BA 2 unter TOP D 4.5)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 6: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: Dienstbarkeit Durchgang BRK Seitzstraße über Innenhof zur St.Anna-Straße sicherstellen
+- TOP B 4.4.: Werbeanlagenverordnung erlassen; Empfehlung Nr. 14 – 20 / E 00827 der Bürgerversammlung des Stadtbezirkes 1 – Altstadt-Lehel vom 03.12.2015; Sitzungsvorlagen Nr. 14 – 20 / V 06471, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (SB)
+- TOP B 4.5.: Ökologischer Kriterienkatalog Fortschreibung 2016/2017; Neufassung vom 04.01.2017; Sitzungsvorlagen Nr. 14 – 20 / V 02989, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (VB)
+- TOP B 4.7.: Anhörungsrecht für Planungen im Bereich „Wohnen für Alle“, Schreiben der Stadtbaurätin an den BA 10 Moosach
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.6.: Antwort des Bezirksinspektion Mitte, BA-Anfrage bezüglich Gaststätte „Sausalitos“
+- TOP C 4.10.: Temporäre Kunst im öffentichen Raum, „No such things grow here“, Überarbeiteter Antrag - Standorte jetzt: Max-Joseph- und Odeonsplatz
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.2.: Budget Zuwendungsbewilligung Initiative „Zaide“ des BA 1
+- TOP E 4.4.: Budget, Oratorium ELIAS: Förderung durch Kulturreferat ist vorrangig Schreiben von D-II-BA vom 24.01.2017
+- TOP E 4.7.: Budget, Sachbericht des Theaters des Hölzernen Gelächters zur Aufführungsreihe „Die Verliebten“ vom 01. bis 08.09.2016
