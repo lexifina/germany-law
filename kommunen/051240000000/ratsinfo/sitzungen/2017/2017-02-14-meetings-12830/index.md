@@ -1,0 +1,57 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-02-14T16:01:00+01:00
+- Ende: 2017-02-14T17:45:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12830
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12830
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand_06.02.17) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00203322.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00204377.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Konsolidierung der GWG - ungeändert beschlossen
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2015/2016 - ungeändert beschlossen
+- TOP 2.1.1: Entlastung des Beirates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2015/2016 - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss 2015 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan 2017 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan GMW 2017 - ungeändert beschlossen
+- TOP 3.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2017 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 3.5: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2017 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 4: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 4.1: Gründung der "Städtische Markt GmbH Wuppertal" - ungeändert beschlossen
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: FinCo-Bericht zum 31.12.2016 - Entgegennahme ohne Beschluss
+- TOP 6.2: Stand der Schulden und Kassenkredite zum 31.12.2016 - Entgegennahme ohne Beschluss
+- TOP 6.3: Gemeindefinanzierungsgesetz (GFG) 2017 - Entgegennahme ohne Beschluss
+- TOP 6.4: Weiterentwicklung des Risikomanagementsystems bei der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 6.5: Prüfauftrag zur Bergisch-Rheinischen IT-Kooperation BRIT; Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 6.6: Ausbau des öffentlichen WLAN-Netzes - Entgegennahme ohne Beschluss
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bestätigung Gesamtabschluss Stadt Wuppertal zum 31.12.2010 - ungeändert beschlossen
+- TOP 7.2: Beschluss der Richtlinie für den Gesamtabschluss der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.3: Umsetzungskonzept zur Bürgerbeteiligung an der Haushaltsplanung 2018/2019 - ungeändert beschlossen
+- TOP 8: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 8.1: Strategische Raumplanung für die Stadtverwaltung - ungeändert beschlossen
+- TOP 8.1.1: Ergänzung zur Strategischen Raumplanung - Entgegennahme ohne Beschluss
+- TOP 8.2: Grundsatzbeschluss der Verwaltung zur Optimierung des Einwohnermeldeamtes - ungeändert beschlossen
+- TOP 8.3: Bauliche Maßnahmen zur Umsetzung des Rettungsdienstbedarfsplanes an verschiedenen Standorten mit struktureller Erweiterung der Hauptfeuerwache August-Bebel-Straße 55 - ungeändert beschlossen
+- TOP 8.4: Bergische Zusammenarbeit in der IT - Entgegennahme ohne Beschluss
+- TOP 8.4.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 17.01.2017 - Bergische Zusammenarbeit in der IT - Entgegennahme ohne Beschluss
+- TOP 8.5: Aufgabe der Turnhalle In der Fleute in Langerfeld - ungeändert beschlossen
+- TOP 8.6: Stadtentwicklungskonzept Wuppertal 2030 - ungeändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 10: Veröffentlichung des Prüfvermerkes der Gemeindeprüfungsanstalt zum Jahresabschluss des Eigenbetriebes WAW für das Jahr 2015 - Entgegennahme ohne Beschluss
+- TOP 11: Berichte und Mitteilungen
