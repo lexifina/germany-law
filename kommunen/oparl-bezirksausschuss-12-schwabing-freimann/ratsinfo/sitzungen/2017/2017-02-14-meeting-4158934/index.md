@@ -1,0 +1,120 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4158934
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4158934
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.2.: Kassenberichte 2015 und 2016
+- TOP 1.1.: Stundenaufstockung für den Freizeittreff Freimann
+- TOP 3.1.: 3 Grünanlagen in Freimann, Anhörungsverfahren zu den "Mobilen Spielaktion" des KJR am 27.04./11.05./22.06.2017
+- TOP 3.2.: Parade zum St.Patricksday (Start: Feilitzschstraße) und Veranstaltung auf dem Wittelsbacherplatz am 12.03.2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kita Haimhauserstraße, Anliegen wird im Unterausschuss vorgetragen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.2.: Wiese an der Biedersteiner Straße wieder als Spielwiese herstellen, Emfpehlung Nr. 14-20 / E01075 der Bürgerversammlung des 12. Stadtbezirks am 14.07.2016, Beschluss des BA 12 vom 25.10.2016, Sitzungsvorlagennummer 14-20 /V 07167
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: Leopoldstraße 42
+- TOP 5.2.2.: Freisinger Landstraße 100
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 12. Stadtbezirk
+- TOP 5.3.2.: Verwendungsnachweis , Magda-Bittner-Simmet-Stiftung, für die Publikation über Magda-Bittner-Simmet vom 13.07.2016
+- TOP 3.1.: Baumfällungen
+- TOP 3.1.1.: Frankfurter Ring 105, Neubau eines Bürogebäudes mit Großgarage
+- TOP 3.1.2.: Heidemannstr. 9, Erweiterung der Verkaufsfläche und Umbau Parkplatz
+- TOP 3.1.3.: Lilienthalallee 26, Neubau eines Bürogebäudes
+- TOP 3.1.4.: Bauernfeindstr. 6-10, Neubau dreier Wohngebäude (43WE) mit 2 Tiefgaragen sowie Aufstockung dreier Gebäude (15 WE)
+- TOP 3.1.5.: Freisinger Landstraße 21, Neubau eines Studentenwohnheims mit Tiefgarage
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Evaluierung der Sondernutzungsrichtlinien, auch zu finden unter D.3.2.4
+- TOP 3.2.2.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 3.2.3.: Admiralbogen 41, Nutzungsänderung und Umbau einer Gewerbeeinheit zu einer klienen Brauerei als Werkstatt für behinderte Menschen
+- TOP 3.2.4.: Osterwaldstr. 14, Umbau und Sanierung einer denkmalgeschützten Villa mit DG-Ausbau, Einbau Personenaufzug / Dachgauben /Dachloggia, Erweiterung der Außenterrasse
+- TOP 3.2.5.: Oberndorfferstr., Neubau eines Einfamilienhauses mit Carport
+- TOP 3.2.6.: Wurzgartenweg 21, Neubau eines Dreispänners mit Garagen
+- TOP 4.1.: Bebauung eines Grundstücks in Schwabing
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.2.1.: Entfernungen von Gefahrenbäumen
+- TOP 5.2.2.: Weizenfeldstr. 5, eine Birke
+- TOP 5.2.3.: Berliner Straße, eine Esche
+- TOP 5.2.4.: Friedrichstr. 26, eine Hainbuche (Kronenrückschnitt)
+- TOP 5.3.1.: Städtebauliche Entwicklung Freisinger Landstraße, Neubau einer Dreifach-Sporthalle auf dem Gelände der Turnerschaft Jahn, Empfehlung Nr. 14-20 / E 01018 der Bürgerversammlung des 12. Stadtbezirkes am 23.06.2016, Sitzungsvorlagennummer 14-20 / V 07091
+- TOP 5.3.2.: Werbeanlagenverordnung erlassen, Sitzungsvorlagennummer 14-20 / V 06471
+- TOP 5.3.3.: Ökologischer Kriterienkatalog, Fortschreibung 2016/2017, Sitzungsvorlagennummer 14-20 / V 02989
+- TOP 1.1.: Schwabinger Fahrradweg-Hauptachse Leopoldstraße räumen und streuen (Initiative: Dr. Horst Engler-Hamm)
+- TOP 1.2.: Ausbau S-Bahn Nordring forcieren (Initiative: Dagmar Föst-Reich)
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: Beschlussentwurf "Parkraumschutzkonzept im Umfeld der Allianz Arena" - BA-Anhörung
+- TOP 3.2.2.: Erinnerungsverfahren, Matsalvatstraße Fahrbahnsanierung
+- TOP 3.2.3.: Erinnerungsverfahren, Viktor-Scheffel-Straße Fahrbahnsanierung zwischen Römerstraße und Belgradstraße
+- TOP 3.2.4.: Evaluierung der Sondernutzungsrichtlinien, auch zu finden unter C.3.2.1
+- TOP 3.2.5.: Erinnerungsverfahren, Ungererstraße / Frankfurter Ring, Kreuzungsbereich
+- TOP 3.2.6.: Erinnerungsverfahren, Lilienthalallee 7 bis Lindberghstraße, Brücke
+- TOP 3.2.7.: Erinnerungsverfahren, Herzogstraße Rückbau Radweg zwischen Rankestraße und Belgradstraße
+- TOP 4.2.: Parklizenzierungsgebiet erweitern
+- TOP 5.1.3.: Hinweisschild auf Englischer Garten / Chinesischer Turm auf der Tivolistraße, Antrag Nr. 14-20 / B 02968 des BA 12 vom 25.10.2016
+- TOP 5.2.1.: Z 283 Heinrich-Kley-Straße für Lepoldstraße 234
+- TOP 5.2.2.: Haltverbot Freimanner Bahnhofsstraße Westseite
+- TOP 5.2.3.: Oskar-Schlemmer-Straße, Einrichtung eines absoluten Haltverbotes
+- TOP 5.2.4.: Otl-Aicher-Straße / Platzbereich Tramhaltestelle
+- TOP 5.3.2.: Projektplanung Ungererstraße / Domagkstraße, Antwort des Referats auf Änderungswünsche des BA vom 19.12.2016, B.2.1-12/16
+- TOP 5.3.3.: Sicherstellung der Nord/Süd-Querungsmöglichkeit im Domagkpark während der Bauphase im zentralen Park, Antwort des Referats auf BA Schreiben vom 19.12.2016, B.4.6-12/16
+- TOP 5.3.4.: Information über Betriebskonzept der Linien U3/U6 während Entfernung der Hintergleiswerbung am U-Bahnhof Sendlinger Tor
+- TOP 5.3.5.: Vollzug der Wassergesetze, Bachräumungstermine 2017 für die Stadt- bzw. Stadtrandbäche
+- TOP 5.3.6.: Beschilderung Isarring nach Umbau
+- TOP 5.3.7.: Arbeiten im Straßenraum der Leopoldstraße
+- TOP 5.3.8.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichutng am Kaiserplatz 1
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Betreuungssituation Burmesterschule ... Erweiterung Schulhort ....
+- TOP 3.: Anhörungen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Anfrage zur Kindertageseinrichtung „Am Kiefernwald“, Bürgerversammlung des 12. Stadtbezirkes am 07.07.2015, Vorgangsnummer 14-20 / Q 126
+- TOP C.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP D.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Fußweg Albertus-Magnus-Platz ...
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Baumschutz in München ist Klimaschutz für München, „Die Münchner Bezirksausschüsse handeln – jetzt!“, vertagt aus der Sitzung vom 17.01.2017
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Grenzmarkierung entlang der absoluten Haltverbotszone in der Heinrich-Groh-Straße, Ziffer 1 und 2 des Antrags
+- TOP 5.1.2.: Rattenbekämpfung an der Münchner Freiheit
+- TOP 5.1.4.: Verkehrsregelung im Domagkpark während der restlichen Bauzeit
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Mehrjahresinvestitionsprogramm für die Jahre 2016 – 2020 mit verbindlicher Planung für 2021; Entwurf für das Baureferat, Sitzungsvorlagennummer 14-20 / V 07494
+- TOP 5.3.9.: Verkehrskonzept Münchner Norden – Schienengüterverkehr und Feldmochinger Kurve, Sitzungsvorlagennummer 14-20 / 05735
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
