@@ -1,0 +1,107 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262881
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262881
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Neuwahl zum Vorsitz und Bestellung des stellvertretenden Vorsitzes im UA Stadtgestaltung, öffentlicher Raum und Ökologie
+- TOP 1.3.2.: Benennung einer Vertretung des BA 13 im Arbeitskreis Flüchtlinge und Wohnungslose
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: TS Jahn München, Vorstellung der Planungen für Hallenneubau
+- TOP 2.2.6.: zur Kenntnis genommene Bauvorhaben
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.7.: Evaluierung der Sondernutzungsrichtlinien - SoNuRL; Anhörung durch das KVR
+- TOP 2.3.8.: Cosimastr., abgestellte Anhänger, Bürgeranliegen vom 31.12.2016
+- TOP 2.3.9.: Wild- und Falschparker in Johanneskirchen, Bürgeranliegen vom 31.12.2016
+- TOP 2.3.10.: Verschlechterung der Anbindung in die Innenstadt mit Fahrplanwechsel 2016/2017; Bürgeranliegen vom 14.01.2017
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.2.: Die neue Seniorenbeirätin für Bogenhausen stellt sich vor
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.5.3.: Unveränderte Fortführung des Gaststättembetriebs "Erlebnisgaststätte mit Musik Yenikulus", Fritz-Meyer-Weg 55
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch; Gemingstr. 16 vorher: 120 m² bzw. 1 WE, geplant: 327 m² bzw. 7 WE
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.2.: Bauvorhaben Isolde-Kurz-Str. 2 - 4, Neubau eines Doppelhauses, Anhörung
+- TOP 2.2.3.: Bauvorhaben Brodersenstraße 26, Neubau dreier Mehrfamilienhäuser mit Tiefgarage, Anhörung
+- TOP 2.2.4.: Bauvorhaben Nußstraße, Fl.Nr. 835/1, Neubau einer temporären Containerschulanlage für das Berufsbildungswerk Johanneskirchen
+- TOP 2.2.5.: Bauvorhaben Mauerkircherstraße 2, Teilung der DG-Wohnung in 2 Wohneinheiten und Einbau einer Galerie
+- TOP 2.3.1.: (E) Bau einer Ampelanlage an der Oberföhringer Straße Ecke Johanneskirchner Straße
+- TOP 2.3.2.: (E) Fahrradweg Herkomer Platz – Unterföhring Empfehlung Nr. 14-20 / E 01216 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 27.10.2016
+- TOP 2.3.3.: (E) Entscheidung gemäß Vollmacht des OB vom 28.02.2010 über die Projektplanung Freischützstraße B-Plan 1243; Beschlussvorlage des Baureferats
+- TOP 2.3.4.: Beschlussentwurf Verkehrskonzept Münchner Norden Öffentlicher Personennahverkehr / Schienenpersonennahverkehr a) Kabinenbahnen als weiteres öffentliches Verkehrsmittel, Antrag Nr. 14-20 / A 00483 b) Gründung einer Arbeitsgruppe "Nordring", Antrag Nr. 14-20 / A 01890 c) S-Bahn-Nordring zügig umsetzen, Antrag Nr. 14-20 / B 02493 d) S-Bahnbetrieb auf dem Eisenbahnnordring, Antrag Nr. 14-20 / B 02715 e) Die Zeit ist wirklich reif: Verkehrspotenziale eines S-Bahn-Nordrings bis Trudering neu ermitteln? Ergebnisse der Machbarkeitsstudie zur intergrierten ÖPNV-Planung von 1989 fortschreiben, Antrag Nr. 14-20 / B 02844 Anhörung zur Sitzungsvorlagen Nr. 14-20 / 06860
+- TOP 2.3.5.: Verknüpfungsbahnhof S 8 / U 4 in Englschalking
+- TOP 2.3.6.: Barlowstraße und Karl-Erb-Weg sollen Fahrradstraßen werden
+- TOP 2.3.11.: Kurzparkzone am Europaplatz
+- TOP 2.5.1.: Öffnung der Schulhöfe und Schulsportanlagen an Wochenenden und in den Ferien
+- TOP 2.6.1.: Baumfällungen (Anhörungen): 2.6.1.1 Cosimastraße 101, 1 Eiche 2.6.1.2 Vollmannstraße 38 a, 1 Birke 2.6.1.3 Steinhauser Straße 21, 1 Kirschbaum 2.6.1.4 Flemingstraße 158, 1 Esche 2.6.1.5 Stuntzstraße 63, 1 Thuje 2.6.1.6 Steinhauser Straße 34, 1 Silberahorn 2.6.1.7 Stolzingstraße 8 - 12, 2 Schwarzkiefern, 1 Kirschbaum
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Gleiwitzer Straße 15 (1 Silberfichte), Freischützstraße 110 (1 Spitzahorn, 1 Roßkastanie), Ruth-Drexel-Straße Fl.Nr. 439/8 (1 Bergahorn), Marienburger Straße 44 (1 Lärche)
+- TOP 2.6.3.: Baumschutz in München ist Klimaschutz für München, Die Münchner Bezirksausschüsse handeln – jetzt; Schreiben des BUND Naturschutz in Bayern e. V. vom 20.12.2016 (TOP 2.6.7 vom 17.01.2017, vertagt)
+- TOP 2.6.4.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Bitte um Vorschläge
+- TOP 2.6.5.: Keine Einwegbecher in städtischen Einrichtungen
+- TOP 2.6.6.: Einweg-Kaffeebecher im Kreisverwaltungsreferat ?
+- TOP 2.6.7.: Beschlussvorlage zum WC-Konzept „Nette Toilette“; Schreiben des 2. Bürgermeisters an den BA 8 vom 19.12.2016 (TOP 2.3.13 vom 17.01.17, vertagt)
+- TOP 3.2.1.: Keine Schließung der Postfiliale in der Ismaninger Straße; Antrag der CSU-Fraktion
+- TOP 3.2.2.: Erhalt der Postfiliale mit Postbank-Finanzcenter in Bogenhausen ! Antrag der SPD-Fraktion
+- TOP 6.1.: Trittgefährlicher Fußweg an der Denninger Straße (Höhe Soldauerstr. / Kleingartenanlage), BA-Antrag Nr. 14-20 / B 02957
+- TOP 6.2.: Aufstellen von Abfallbehältern in der Pühnstraße, BA-Antrag Nr. 14-20 / B 02809
+- TOP 6.3.: Schenkung des Maschinenhauses und eines Trockenstadels der Ziegelei Deck an die Landeshauptstadt München, BA-Antrag Nr. 08-14 / B 01727
+- TOP 6.4.: Einrichtung einer Radschnellstrecke vom Ostbahnhof stadteinwärts bis zum S-Bahnhof Berg am Laim, Zwischennachricht, BA-Antrag Nr. 08-14 / B 02800
+- TOP 6.5.: Finanzielle Unterstützung/ Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen, Zwischennachricht, BA-Antrag Nr. 14-20 / B 00447
+- TOP 6.6.: Erhalt der verbleibenden Bäume im Prinz-Eugen-Park, BA-Antrag Nr. 14-20 / B 03116
+- TOP 6.7.: Keine Durchführung des VgV-Verfahrens beim Bau des Wilhelm-Hausenstein-Gymnasiums, BA-Antrag Nr. 14-20 / B 03115
+- TOP 6.8.: Neubau eines dringend benötigten Therapiebeckens im Klinikum Bogenhausen, Zwischenachricht, BA-Antrag Nr. 14-20 / B 03150
+- TOP 6.9.: Radwegänderungen an der Eggenfeldener Straße, Zwischennachricht, BA-Antrag Nr. 14-20 / B 02026
+- TOP 7.2.1.: Fahrbahnsanierung, Luitpoldbrücke Spakoo-Projekt Nr.: 17 00027 MT203
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft Denninger Str. 179
+- TOP 7.5.1.: Beschilderung Isarring nach Umbau Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO
+- TOP 7.5.2.: Parkverbot Kurve Meistersingerstraße / Fideliopark, Anfrage Nr. 14-20 / Q 00316 aus der Bürgerversammlung vom 27.10.2016
+- TOP 7.7.1.: Stauproblematik in der Gartenstadt Empfehlung Nr. 14-20 / E 00700 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 22.10.2016 Sitzungsvorlagen Nr. 14-20 / V 0700 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2017
+- TOP 7.7.2.: Satzung über ein besonderes Verkaufsrecht _Vorkaufssatzung- an unbebauten und bebauten Grundstücken im Sinne des § 25 Absatz 1 Satz 1 Nr. 2 Bau GB für das Gebiet der geplanten städtebaulichen Entwicklungsmaßnahme für den Münchner Nordosten Sitzungsvorlage Nr. 14-20 / V 07915 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2017
+- TOP 7.7.3.: Städtebauliche Entwicklungsmaßnahme gem. 165 ff. BauGB Vorbereitende Untersuchungen für den Bereich Münchner Nordosten: A) -Beginn der Öffentlichkeitsbeteiligung auf Grundlage der drei Varianten -Erhöhung des Budgets B) -Erweiterung des Untersuchungsumgriffs C) -Renaturierung des Hüllgrabens im 13. Stadtbezirk zügig einleiten Antrag Nr. 14-20 / A 02415 vom 22.08.2016 Stadtratsfraktion Die Grünen - rosa Liste Sitzungsvorlagen Nr. 14-20 / V 07772 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2017
+- TOP 7.7.4.: Ökologischer Kriterienkatalog Fortschreibung 2016/2017 Sitzungsvorlagen Nr. 14-20 / V 02989 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017
+- TOP 7.7.5.: Werbeanlageverornung erlassen Empfehlung Nr. 14-20 / E 00827 der Bürgerversammlung des Stadtbezirkes 01 Altstadt - Lehel am 03.12.2015 Sitzungsvorlage Nr. 14-20 / V 06471 Beschluss des Auschusses für Stadtplanung und Bauordnung vom 01.02.2017
+- TOP 7.8.1.: Verlängerung der Öffnungszeiten auf den städtischen Bezirkssportanlagen Finanzierung und Personalbedarf der Landeshauptstadt München zur Umsetzung einer Verlängerung der Öffnungszeiten und einer flexibleren Nutzung der städtischen Bezirkssportanlagen, Beschluss des Sportausschusses des Stadtrates vom 14.09.2016, Sitzungsvorlage Nr. 14-20 / V 06647
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: Nettelbeckstr. 51 vorher: 135 m² bzw. 1 WE, geplant: 426 m² bzw. 2 WE
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch: Jurastr. 7 vorher: 140 m² bzw. 1 WE, geplant: 212 m² bzw. 2 WE
