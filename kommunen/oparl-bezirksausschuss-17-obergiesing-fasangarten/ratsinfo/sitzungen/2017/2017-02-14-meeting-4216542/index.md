@@ -1,0 +1,148 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4216542
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4216542
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Deisenhofener Str. 110-112, 4 Robinien
+- TOP 3.9.1.2.: Deisenhofener Str. 116, 1 Robinie
+- TOP 3.9.1.3.: Traunsteiner Str. 1 - 13, 2 Linden
+- TOP 3.9.1.4.: Hohenwaldeckstraße 26, 1 Birke
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.1.1.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.2016 (aus der Januar-Sitzung in alle Unterausschüsse verwiesen, FF: UA Umwelt)
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baufälle im 17. Stadtbezirk
+- TOP 6.1.4.2.: Tegernseer Landstraße 83, Fl.Nr. 15934/0, Gemarkung: Sektion VIII, ungenehmigtes Wettbüro, Live-Wetten; Schreiben der Lokalbaukommission vom 19.01.2017
+- TOP 6.1.4.4.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"; Abdruck eines Schreibens des Planungsreferates an den BA 10 an alle Bezirksausschüsse
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.3.4.1.: Unterführung Chiemgaustraße - Schwanseestraße; Stadtratsantrag Nr. 14-20 / A 02062 vom 27.04.2016; Sitzungsvorlagen Nr. 14-20 / V 07351; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 18.01.2017 (SB)
+- TOP 6.3.4.3.: Fußgänger-Unterführung vor Motel One - Tegernseer Landsstraße 165; Antwort des Baureferats-Ingenieurbau vom 09.01.2017 auf ein Bürgerschreiben
+- TOP 6.3.4.4.: Parklizenzen - Gewerblich genutzte Parkplätze in der Untersbergstraße; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 05.01.2017 auf ein Bürgerschreiben vom 11.11.16
+- TOP 6.3.4.6.: Untersbergstraße im Bereich Anwesen 74 bis 78; Verdeutlichung der drei Feuerwehrzufahrten; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.4.3.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der LHM; Schreiben der Unteren Naturschutzbehörde mit der Gelegenheit zur Meldung von Neuvorschlägen bis 26.04.2017
+- TOP 6.4.4.1.: Baumentfernungen u. Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken gem. § 13 u. 14 der BA-Satzung; Unterrichtung des Baureferats-Gartenbau über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 6.4.4.2.: Ökologischer Kriterienkatalog Fortschreibung 2016/2017; Sitzungsvorlagen Nr. 14-20 / V 02989; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (VB); Neufassung vom 04.01.2017
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.5.3.1.: Veranstaltung in städtischen Grünanlagen; hier: Weißenseepark, Zirkuswiese, Gastspiel des Circus Galliano vom 11.09.17 bis 24.09.17; Zuleitung des KVR mit der Bitte um Stellungnahme bis 11.08.17
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 6.6.3.1.: Evaluierung der Sondernutzungsrichtlinien; Schreiben des KVR vom 12.01.2017 mit der Bitte um Rückmeldung zu den beabsichtigten Änderungen bis 10.03.2017
+- TOP 6.6.4.1.: Werbeanlagenverordnung erlassen; BV-Empfehlung Nr. 14-20 / E 00827 der BV des Stadtbezirkes 01 - Altstadt - Lehel am 03.12.2015; Sitzungsvorlagen Nr. 14-20 / V 06471; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (SB)
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands; Antrag Nr. 14-20 / B 03074 des BA 15 vom 24.11.2016; Schreiben des Direktoriums vom 30.01.2017 mit der Bitte um Stellungnahme
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.3.1.: 1.3.1 Protokoll der September-Sitzung 2015 1.3.2 Protokoll der Oktober-Sitzung 2015 1.3.3 Protokoll der November-Sitzung 2016 1.3.4 Protokoll der Januar-Sitzung
+- TOP 2.1.2.1.: Tempolimit um die Icho-Grundschule; Bürgerantrag vom 25.01.2017
+- TOP 4.1.: Die Stadtverwaltung motiviert bei länger anhaltender hoher Feinstaubbelastung die Bevölkerung, auf öffentliche Verkehrsmittel umzusteigen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17 (FF: UA Umwelt)
+- TOP 4.2.: S-Bahn-Südring parallel zur 2. Stammstrecke planen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17 (vertagt aus der Januar-Sitzung - FF: UA Verkehr)
+- TOP 4.3.: Barrierefreier Ausbau der Fuß- und Radwegunterführung Otkerstraße; Bau von Aufzügen auf beiden Seiten der Unterführung; Antrag der SPD-Fraktion
+- TOP 5.2.1.: AntragstellerIn: Poesieboten e.V., für die Maßnahme: Veranstaltung "Himmel voller Poesie" am 06.05.2017; Antragssumme: 547,50 €; Antrag vom 29.01.2017
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Anhörungen zu Bauvorhaben 6.1.3.1.1 Schloß-Berg-Straße 24, Dachausbau mit Dachgauben, Dachterrasse u. Balkonen; Anhörung vom 02.11.16 (vertagt aus der Januar-Sitzung) 6.1.3.1.2 Fasangartenstraße 104, Neubau 2er Mehrfamilienhäuser mit gemeinsamer TG; Anhörung vom 20.12.16 (vertagt aus der Januar-Sitzung) 6.1.3.1.3 Flossenbürger Str. 5, Neubau eines Vierspänners mit 4 Garagen; Anhörung vom 17.01.2017 6.1.3.1.4 Hochstraße 75, Abgrabung zur Grundstücksaufbereitung 7 / freiwillige Altlastensanierung / Teilabbruch Tiefkeller 34 (Hochstraße 75 / Regerstraße 28); Anhörung vom 12.01.2017 6.1.3.1.5 Stadelheimer Str. 12, JVA München - Neubau eines Außenaufzugs für barrierefreien Gebäude-Zugang, Zustimmungsverfahren nach Art. 73 BayBO; Anhörung vom 16.01.2017 6.1.3.1.6 Tegernseer Landstraße 10, Neubau des freien DG-Raums mit 2 Maisonettewohnungen; Anhörung vom 26.01.2017 6.1.3.1.7 Landrichterstraße 5, Errichtung eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 30.01.2017
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.3.: 6.1.4.3 Vollzug der Erhaltungssatzung "Tegernseer Landstraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.3.1 Anwesen Deisenhofener Straße 39; Mitteilung vom 19.01.2017 6.1.4.3.2 Anwesen Werinherstraße 44; Mitteilung vom 23.01.2017
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP 6.2.1.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.2016 (aus der Januar-Sitzung in alle Unterausschüsse verwiesen, FF: UA Umwelt)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP 6.3.1.1.: Rote Karte für Rennstrecken - Mehr Schutz für Anwohnende 1. Tempo 30 als Standard in städtischen Lebensbereichen 2. Mehr Parkraum für Anwohner 3. Mehr Grün für Rennstrecken 4. Raser sehen Rot in Wohngebieten 5. Schleichwege eindämmen 6. Denkanstoß für alle Verkehrsteilnehmer; BA-Antrag Nr. 14-20 / B 02916; Antwortschreiben des KVR vom 07.11.16 (verwiesen aus der Dezember- Sitzung, verwiesen aus der Januar-Sitzung, Ortstermin)
+- TOP 6.3.1.2.: Antrag zur Prüfung einer Durchstich-Variante als Stichstraße über das Gelände des Gewerbegebietes / Schrottplatzes; Antrag der BI Amisiedlung (verwiesen aus der Januar-Sitzung)
+- TOP 6.3.1.3.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.2016 (aus der Januar-Sitzung in alle Unterausschüsse verwiesen, FF: UA Umwelt)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Erinnerungsverfahren; Zuleitungen des Baureferats-Tiefbau mit der Bitte um Stellungnahme 6.3.3.1.1 Perlacher Straße zwischen Spixstraße und Valeppstraße 6.3.3.1.2 Valeppstraße zwischen Perlacher Straße und Landlstraße 6.3.3.1.3 Zugspitzstraße zwischen St.-Martin-Straße und Watzmannstraße
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.2.: Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt; Verkehrliche Neuordnung der Tegernseer Landstraße a) Ergebnisse der Machbarkeitsstudie zur verkehrlichen Neuordnung der Tegernseer Landstraße b) Behandlung von Anträgen und Empfehlungen; Sitzungsvorlagen Nr. 14-20 / V 03073; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 01.02.2017 (VB)
+- TOP 6.3.4.5.: Verkehrssituation Weißenseestraße; Bürgerschreiben vom 09.11.2016
+- TOP 6.3.4.7.: Parkplatzsituation Tegernseer Landstraße 24 bis 26, Wiedereinrichtung der aufgelösten Parkplätze; BA-Antrag Nr. 14-20 / B 01865; Antwortschreiben des KVR vom 26.01.2017
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP 6.4.1.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.2016 (aus der Januar-Sitzung in alle Unterausschüsse verwiesen, FF: UA Umwelt)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.3.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.3.1 Tegernseer Landstraße 210-224; Bescheid der UNB vom 25.01.17
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP 6.5.1.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.2016 (aus der Januar-Sitzung in alle Unterausschüsse verwiesen, FF: UA Umwelt)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP 6.6.1.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des Bund Naturschutz in Bayern e.V. vom 20.12.2016 (aus der Januar-Sitzung in alle Unterausschüsse verwiesen, FF: UA Umwelt)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Verdoppelung Zyklus Bürger/innen gestalten ihre Stadt; BA-Antrag Nr. 14-20 / B 3703 vom 14.02.12; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 19.01.2017
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
