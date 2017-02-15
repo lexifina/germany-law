@@ -1,0 +1,97 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-02-15T16:05:00+01:00
+- Ende: 2017-02-15T16:37:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12774
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12774
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00204113.pdf
+- Wortprotokoll: Einladung m. d. Ergebnissen d. Vorberatungen - Stand: 07.02.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00203348.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Politische Informationen gegen Gebühren?
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion vom 28.10.2016 - Politische Informationen gegen Gebühren -
+- TOP 2.2: Verspätungssituation / Ausfälle auf der S-Bahn-Line S9
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 06.12.2016 - Verspätungssituation/Ausfälle auf der S-Bahn-Linie S9 -
+- TOP 2.3: Analoge und digitale Werbeanlagen
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 26.02.2017 - Analoge und digitale Werbeanlagen -
+- TOP 2.4: Entwicklung des Busverkehrs rund um den Döppersberg
+- TOP 2.4.1: Antwort auf die Anfrage der FDP-Fraktion vom 07.02.2017 - Entwicklung des Busverkehrs rund um den Döppersberg -
+- TOP 2.5: Ausübung des Wahlrechtes für Menschen ohne festen Wohnsitz unterstützen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Änderung der Hauptsatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 3.2: Bürgerantrag zu dem Thema "Keine Vermietung der Stadthalle und andere Räume der Stadt Wuppertal an bestimmte Parteien und Gruppierungen" - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Freies Internet in allen öffentlichen Verkehrsmitteln - für erledigt erklärt
+- TOP 4.1.1: Stellungnahme der Verwaltung zum freien Internet in allen öffentlichen Verkehrsmitteln - Entgegennahme ohne Beschluss
+- TOP 4.2: Ratsbürgerentscheid über die Frage einer Seilbahn zwischen Elberfeld und Küllenhahn - abgelehnt
+- TOP 4.3: Freiwilliger Ratsbürgerentscheid in Sachen Seilbahnprojekt - vertagt auf Rat
+- TOP 4.4: Ratsbürgerentscheid über die Frage verkaufsoffener Sonntage - abgelehnt
+- TOP 4.5: Umbenennung des Verwaltungsgebäudes Elberfeld - vertagt auf Rat
+- TOP 4.6: Resolution: Politische Kultur verteidigen - politisch motivierte Gewalt ächten! - abgelehnt
+- TOP 4.7: Keine Zusammenarbeit mit der DITIB! - abgelehnt
+- TOP 4.8: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Resolution - Keine Abschiebung von Geflüchteten nach Afghanistan
+- TOP 4.8.1: Resolution - Keine Abschiebung von Geflüchteten nach Afghanistan - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Vorberatungen nicht abgeschlossen. Änderung der Hauptsatzung der Stadt Wuppertal
+- TOP 6.2: Abgesetzt. Vorberatungen nicht abgeschlossen. Neufassung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen
+- TOP 6.3: Änderung der Straßenordnung - ungeändert beschlossen
+- TOP 6.4: Vertagt auf Rat. Verordnung über das Offenhalten von Verkaufsstellen am 28.05.2017 in Wuppertal-Barmen - vertagt auf Rat
+- TOP 6.5: Vertagt auf Rat. Verordnung über das Offenhalten von Verkaufsstellen am 09.07.2017 in Wuppertal-Elberfeld - vertagt auf Rat
+- TOP 6.6: Vertagt auf Rat. Verordnung über das Offenhalten von Verkaufsstellen am 10.12.2017 in Wuppertal-Ronsdorf - vertagt auf Rat
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Gesamtabschlusses der Stadt Wuppertal zum 31.12.2010 (nur Rat). Der Prüfbericht ist im nicht öffentlichen Teil unter TOP 13 als Anlage beigefügt. - Entgegennahme ohne Beschluss
+- TOP 7.2: Bestätigung Gesamtabschluss Stadt Wuppertal zum 31.12.2010 - ungeändert beschlossen
+- TOP 7.3: Richtlinie für den Gesamtabschluss der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2015 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2017 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2017 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 8.4: Wirtschaftsplan 2017 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2017 des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 8.7: Gründung der Städtischen Markt GmbH
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1218 - Bromberger Straße/ Schützenstraße - - ungeändert beschlossen
+- TOP 9.2: Fluchtlinienplan 173 - Carnaper und Leimbacher Straße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1224 - Uellendahler Straße / nordöstlich Bornberg - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 654 - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 9.5: 54. Änderung des Flächennutzungsplanes - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 776/1 - Hessische Straße/ Regentenstraße - 1. Änderung - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 622A/1 - Friedrich-Engels-Allee - 6. Änderung - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 187 - Am Anschlag - - ungeändert beschlossen
+- TOP 9.9: Vorhabenbezogener Bebauungsplan 1187V - Jägerhofstraße - - ungeändert beschlossen
+- TOP 9.10: Bebauungsplan 1081 - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Gemeinsamer Neubau für die Grundschule Kruppstraße und Erweiterung der Gesamtschule Uellendahl-Katernberg für Sekundarstufe II am Standort Kruppstraße - ungeändert beschlossen
+- TOP 10.2: Sanierung und Erweiterung der Grundschule Nathrather Straße - ungeändert beschlossen
+- TOP 10.3: Bauliche Maßnahmen zur Umsetzung des Rettungsdienstbedarfsplanes an verschiedenen Standorten mit struktureller Erweiterung der Haupttfeuerwache - ungeändert beschlossen
+- TOP 10.4: Vertagt auf Rat. Erweiterung der städtischen Tageseinrichtung für Kinder Grafenstraße 11 und Errichtung eines Ersatzbaues - vertagt auf Rat
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gremientätigkeiten von Herrn Oberbürgermeister Andreas Mucke - Entgegennahme ohne Beschluss
+- TOP 11.2: Strategische Raumplanung für die Stadtverwaltung - ungeändert beschlossen
+- TOP 11.2.1: Ergänzung zur Strategischen Raumplanung für die Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 11.3: Grundsatzbeschluss der Verwaltung zur Optimierung des Einwohnermeldeamtes - ungeändert beschlossen
+- TOP 11.3.1: Resolution der Bezirksbürgermeister/-innen zu den Bürgerbüros - vertagt auf Rat
+- TOP 11.4: Aufgabe der Turnhalle In der Fleute in Langerfeld - ungeändert beschlossen
+- TOP 11.5: Verbindliche Pflegebedarfsplanung 01.05.2017 - 30.04.2020 gemäß § 7 (6) Alten- und Pflegegesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.6: Übernahme von Trägeranteilen für neu geschaffene Betreuungsplätze in Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 11.7: Präzisierung integriertes städtebauliches Innenstadtkonzept Barmen - ungeändert beschlossen
+- TOP 11.8: Ausbau der offenen Ganztagsschule um 275 Plätze zum Schuljahr 2017/2018 - ungeändert beschlossen
+- TOP 11.9: Anerkennung des Mietspiegels 2016 als qualifizierter Mietspiegel - Entgegennahme ohne Beschluss
+- TOP 11.10: Umsetzungskonzept zur Bürgerbeteiligung an der Haushaltsplanung 2018/2019 - ungeändert beschlossen
+- TOP 11.11: Stadtentwicklungskonzept Wuppertal 2030 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.3: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.4: Bestellung einer sachkundigen Einwohnerin für den Ausschuss für die Gleichstellung von Frau und Mann - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
