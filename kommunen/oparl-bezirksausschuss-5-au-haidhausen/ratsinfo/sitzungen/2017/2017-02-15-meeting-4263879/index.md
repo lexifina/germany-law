@@ -1,0 +1,137 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-02-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263879
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263879
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 7.2.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Geschwindigkeitsüberwachung auf der Rosenheimer Straße
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 1.3.: Antrag für einen mobilen Fahrradständer an der Schlotthauerstraße
+- TOP 2.1.: Rosenheimer Str. 30, Antrag auf Betriebszeitverlängerung des Wirtschaftsgartens
+- TOP 2.2.: Temporäre Kunst im öffentlichen Raum: "Es gibt kein Richtiges im Falschen" in der Grünanlage Kellerstraße vom 01.07.-30.09.17
+- TOP 2.3.: Anfrage Carillon-Gamelankonzerte am Mariahilfplatz vom 07.-17.06.2018
+- TOP 2.4.: Spielplatzaktion Familienzentrum am 13.06.2017 auf der Postwiese
+- TOP 2.5.: Evaluierung der Sondernutzungsrichtlinien
+- TOP 2.7.: 30 Jahre Jubiläums-Sommerfest des ASZ Untergiesing am 29.06.2017 auf dem Kolumbusplatz
+- TOP 3.3.: Roadshow-Bauwagen-Tour 2. S-Bahn-Stammstrecke ab 13.01.2017
+- TOP 2.1.: Drächslstr. 4+6: Ergänzung des Dachstuhls mit -ausbau, Wohnungsteilung und Verbindung beider Treppenhäuser im 4. OG
+- TOP 2.2.: Max-Planck-Str. 7/Rgb: Nutzungsänderung eines Büros im 1. OG zu einer Wohneinheit
+- TOP 2.3.: Weißenburger Str. 24: Nutzungsänderung (Gewerbe zu Wohnen), Erweiterung zweier Wohnungen, Aufstockung und Neuerrichtung zweier Wohneinheiten, Vorbescheid
+- TOP 2.4.: Hochstr. 75: Abgrabung zur Grundstücksaufbereitung, freiwillige Altlastensanierung, Teilabbruch Tiefkeller
+- TOP 2.5.: Rosenheimer Str. 79: Nutzungsänderung: Apotheke im EG zu Buchmacherladen und Kiosk mit Tipp-Annahme sowie Apothekenkeller im UG zu Lager
+- TOP 2.6.: Mariahilfplatz 9: Behindertengerechter Umbau des Sanitärbereichs im EG sowie Einbau eines Senkrechtkabinenlifts vom EG ins OG
+- TOP 2.7.: Breisacher Str. 11: Errichtung einer überdachten Ladezone im Innenhof
+- TOP 2.8.: Eduard-Schmid-Str. 20: Anbau von Balkonen am Vorderhaus im Bereich des Hinterhofs
+- TOP 2.9.: Bereiteranger 10: Abbruch von 6 Balkonen und Neuaufbau mittels zusätzlicher Aufhängungen nach oben
+- TOP 2.10.: Trogerstr. 12-16: Neubau eines Zentrums für die Behandlung und Erforschung der Multiplen Sklerose, Vorbescheid
+- TOP 3.1.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"
+- TOP 3.3.: Baugenehmigung Ismaninger Str. 42-46
+- TOP 2.1.: Maria-Theresia-Str. 6: Fällung von 1 Vogelkirsche
+- TOP 2.2.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 3.5.: Erinnerungsverfahren Rosenheimer Straße zwischen Orleans- und Friedenstraße; Fahrbahnerneuerung / Brückenertüchtigung
+- TOP 3.7.: Nachfrage Expressbus Linie X30
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: BA-Sondersitzung zur Nutzung des Maxwerks, Dienstag, 21.02.2017, 19 Uhr, Technisches Rathaus, Friedenstr. 40
+- TOP 4.4.: Don Bosco - Familientag am 05.02.2017 in der St. Wolfgangskirche
+- TOP A: Allgemeines
+- TOP 4.2.1.: Lärmbelästigung (Veranstaltung im Unionsbräu)
+- TOP 4.2.2.: Sachbeschädigung Fassadenschmierereien Sedanstraße
+- TOP 4.2.3.: Tempolimit 30 für Rosenheimer Straße
+- TOP 5.1.: Denkmalschutz auf dem Gelände des Klinikum rechts der Isar - (I) Anfrage
+- TOP 5.2.: Denkmalschutz auf dem Gelände des Klinikum rechts der Isar - (II)
+- TOP 5.3.: Ausweitung des kommunalen Vorkaufsrechts der Landeshauptstadt München
+- TOP 5.4.: Änderung der Sondernutzungsrichtlinien § 14 (Zeitungsentnahmegeräte)
+- TOP 5.5.: Einführung der Beschlussvollzugskontrolle für die Münchner Bezirksausschüsse
+- TOP 5.6.: Fußgängeraufstellfläche am Gasteig / Innere Wiener Straße vergrößern
+- TOP 5.7.: Kreuzung Grillparzer / Einsteinstraße für Fuß- und Radverkehr optimieren
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Initiative "Auer/Haidhauser Journal" Herausgabe des "Auer/Haidhauser Journals" im April 2017, Juli 2017, Oktober 2017 und Januar 2018 (siehe auch TOP 1.1, UA Arbeit und Wirtschaft)
+- TOP 6.2.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Flurstr. gegenüber Hausnr. 2 / Kirchenstraße und Ismaninger Str. 22, Klinikum Rechts der Isar, Haupteingang (siehe auch TOP 1.2, UA Arbeit und Wirtschaft)
+- TOP 6.2.2.: Antrag für einen mobilen Fahrradständer an der Schlotthauerstraße (siehe auch TOP 1.3, UA Arbeit und Wirtschaft)
+- TOP 7.1.: Benennung eines Verbindungsweges am Auer Mühlbach BA-Antrag Nr. 14-20 / B 01513
+- TOP 8.1.1.: Blockieren des Gehwegs durch Freischankflächen (hier: Max-Planck-Straße)
+- TOP 8.1.2.: Falschparken an der Wörthstraße
+- TOP 8.1.3.: Vergabe der freifinanzierten Wohnungen der ehemaligen Kegelhofmühle
+- TOP 8.1.4.: Sexualisierte Werbung im Stadtteil
+- TOP 8.1.5.: Sozialgerechte Bodennutzung (SoBoN) ergänzen: soziale Infrastruktur für Senioren
+- TOP 8.1.6.: Orleansstraße 81: Mietpreis der PKW-Anwohnerstellplätze; Förderung der Elektromobilität
+- TOP 8.1.7.: Planungen für die 2. S-Bahn-Stammstrecke
+- TOP 8.1.8.: Städtisches Telefonbuch des Bezirksausschuss Mitgliedern zur Verfügung stellen
+- TOP 8.4.1.: Unveränderte Fortführung von Gaststättenbetrieben: - "Dilan", Gebsattelstr. 15 - "Randy&#039;s", Gravelottestr. 7 - "Kashmir Inn", Rosenheimer Str. 4 - "Bosporus", Ohlmüllerstr. 26
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Bericht des „Projektraum RSTR 4 Milchstraße 4“ über die Verwendung eines Zuschusses aus dem Budget
+- TOP II.2.: Erklärende Zusatzschilder an Straßenschildern Vertagung aus der Sitzung vom 18.01.2017
+- TOP II.3.: Temporäre Kunst im öffentlichen Raum: "Es gibt kein Richtiges im Falschen" in der Grünanlage Kellerstraße vom 01.07.-30.09.17 (siehe auch TOP 2.2., UA Arbeit und Wirtschaft)
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kommunales Bildungsmanagement auch für den Stadtbezirk 5 Au-Haidhausen Vertagung aus der Sitzung vom 18.01.17
+- TOP 3.: Unterrichtungen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Initiative "Auer/Haidhauser Journal" Herausgabe des "Auer/Haidhauser Journals" im April 2017, Juli 2017, Oktober 2017 und Januar 2018
+- TOP 1.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Flurstr. gegenüber Hausnr. 2 / Kirchenstraße und Ismaninger Str. 22, Klinikum Rechts der Isar, Haupteingang
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Edtextain e.V. Veranstaltung "Moving Women Empowerment Conference" am 25.03.2017
+- TOP 2.: Anhörungen
+- TOP 2.6.: Sperrzeitverkürzung Max-Planck-Str. 8
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Anzeige einer Versammlung unter freiem Himmel Versammlungsthema: 2. S-Bahn-Stammstrecken -Tunnel am 22.02.2017 am Wiener Platz
+- TOP 3.2.: Anzeige einer sich fortbewegenden Versammlung unter freiem Himmel Versammlungsthema: Stadtteilspaziergang um den Orleansplatz mit Information und Erörterung über die geplante Baustelle der DB Projektbau am 11.02.2017
+- TOP 3.4.: Antrag auf Gewährung einer Zuwendung aus dem Budget für die Veranstaltung "Moving Women Empowerment Conference" am 25.03.2017 im Gasteig
+- TOP 3.5.: Werbeanlagenverordnung erlassen Sitzungsvorlagen Nr. 14-20 / V 06471, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.2.: Bauvorhaben auf dem ehemaligen Gelände des Holzkontors BA-Antrag Nr. 14-20 / B 03043
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ökologischer Kriterienkatalog, Fortschreibung 2016/2017 Sitzungsvorlagen Nr. 14-20 / V 02989, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017
+- TOP 3.2.: Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt Verkehrliche Neuordnung der Tegernseer Landstraße Sitzungsvorlagen Nr. 14-20 / V 03073, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017
+- TOP 3.3.: Verkehrsrechtliche Anordnungen: - Salvatorausschank am Nockherberg am 08.03.17 und 10.03.-02.04.17 - Absolutes Haltverbot am Johannisplatz
+- TOP 3.4.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 3.6.: Fußgänger bei Cafe Neulinger gefährdet Bürgeranliegen
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 06.03.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 06.03.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 07.03.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb.. UA Kultur, 08.03.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 09.03.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 15.03.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 21.02.2017, im Anschluss an die Sondersitzung, Friedenstraße 40
+- TOP 4.3.: Bürgerversammlung am 16.03.2017 Bezirksteil Au Bürgerversammlung am 23.03.2017 Bezirksteil Haidhausen
