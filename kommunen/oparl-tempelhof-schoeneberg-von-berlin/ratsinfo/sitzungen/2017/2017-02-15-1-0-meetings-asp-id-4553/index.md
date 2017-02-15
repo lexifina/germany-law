@@ -1,0 +1,89 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-02-15T17:00:00+01:00
+- Ende: 2017-02-15T20:25:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4553
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4553
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=273335
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Jahresberichte 2016 der Patientenfürsprecher/-innen gem. § 30 des Landeskrankenhausgesetzes (LKG) und § 12 des Gesetzes über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (PsychKG) - überwiesen
+- TOP 3.2: Antrag der Seniorenvertretung gem. § 4 Gesetz zur Stärkung der Mitwirkungsrechte der Seniorinnen und Senioren am gesellschaftlichen Leben im Land Berlin (Berliner Seniorenmitwirkungsgesetz - BerlSenG) - Erhalt des Nachbarschaftszentrums Suppenküche Lichtenrade e.V. - überwiesen
+- TOP 3.3: Antrag der Seniorenvertretung gem. § 4 Gesetz zur Stärkung der Mitwirkungsrechte der Seniorinnen und Senioren am gesellschaftlichen Leben im Land Berlin (Berliner Seniorenmitwirkungsgesetz - BerlSenG) - Postamt am René-Sintenis-Platz ist barrierefrei nicht zu erreichen - überwiesen
+- TOP 3.4: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin aus der XIX. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.5: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.6: Wahl von stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss hier: Wahl von Stellvertretung zur lfd. Nr. 3,4 und 6. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Bänke auf dem Spielplatz im Park zwischen der Goten- und Leberstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: 1472/XIX Mitteilung zur Kenntnisnahme auf Antrag aus dem Kinder und Jugendparlament - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Skaterpark in Schöneberg / Friedenau - überwiesen
+- TOP 4.4: 1479/XIX Mitteilung zur Kenntnisnahme auf Antrag aus dem Kinder und Jugendparlament - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Das Ende der Sozialwohnungen - beantwortet
+- TOP 8.2: Evaluation des Projekts „Begegnungszone Maaßenstraße“ ohne Bürgerinnen und Bürger? - beantwortet
+- TOP 8.3: Verkehrs- und Gestaltungskonzept Bahnhofstraße Lichtenrade - beantwortet
+- TOP 8.4: Entwicklung der Verkehrsströme im Bezirk durch die Eröffnung BER - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Benennung eines stimmberechtigten Mitglieds im Verwaltungsrat des Eigenbetriebs Kindertagesstätten Süd-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Mehr Sicherheit für Fußgänger - überwiesen
+- TOP 9.3: Sitzbank reparieren oder ersetzen - überwiesen
+- TOP 9.4: Rücknahme der Mieterhöhungen bei städtischen Wohnbaugesellschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Verkehrsübungsplätze und Jugendverkehrsschulen erhalten - überwiesen
+- TOP 9.7: Gemeinschaftshaus Lichtenrade attraktiver machen - überwiesen
+- TOP 9.8: Kostenloses WLAN im Rathaus Schöneberg und in anderen bezirklichen Gebäuden - überwiesen
+- TOP 9.9: Wohnberechtigungsschein für anerkannte Flüchtlinge - überwiesen
+- TOP 9.10: Barrierearme Spielplätze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Fußgängerüberweg im Töpchiner Weg schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Sauna im Stadtbad Schöneberg sanieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.13: Erhalt des Nachbarschaftszentrums Lichtenrade - überwiesen
+- TOP 9.14: „Bubbles für den Schöneberger Norden“ - überwiesen
+- TOP 9.15: Mieter*innen stärken - die Mieterberatung im Bezirk entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Toni Schwabe in Namensliste für mögliche Benennungen aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.17: Fußweg zwischen Buchsteinweg und Säntisstraße beleuchten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Erweiterung der Geschäftsordnung § 86: Veröffentlichung der Mündlichen Anfragen sowie der diesbezüglichen Antworten im Internet - überwiesen
+- TOP 9.19: Fahrradabstellanlagen an Kreuzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Frauen sichtbar machen - Grünanlage in der Höppnerstraße nach Gertrud Hanna benennen - überwiesen
+- TOP 9.21: Den demografischen Wandel in Tempelhof-Schöneberg gestalten – Handlungskonzept erarbeiten - überwiesen
+- TOP 9.22: Standortsicherung für Schöneberger Jugendeinrichtungen - überwiesen
+- TOP 9.23: Ganzheitliches Lärmschutzkonzept für Güter-Innenring, Ringbahn und A100 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.24: Wohnbaupotentiale auf „Discountergrundstücken“ - überwiesen
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Endlich mehr Sitzbänke im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Blumen statt Rindenmulch, damit der Viktoria-Luise-Platz 2017 wieder in alter Schönheit erblüht! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Fußwege verbreitern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Benennung einer Straße oder eines Platzes nach Georg Hermann - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Benennung: Am Bülowbogen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Haltestellensymbol auf dem Radweg der Haltestelle Kaisereiche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Anwohnerwünschen folgen und die unvollendete Parkraumbewirtschaftung Friedenau nach mehr als 15 Jahren zum Abschluss bringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Umsetzung des Antikriegsmahnmals auf dem IKEA-Gelände - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Mann-O-Meter e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Sinfonie Orchester Tempelhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Schulsportverein Lichtenrade e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Festsetzung des Entwurfs des Bebauungsplans 7-37Bi vom 06.10.2010 mit Deckblatt vom 08.11.2012 für Teilflächen zwischen Poleigrund, Miethepfad, Schichauweg, Barnetstraße, Groß-Ziethener Straße, Bezirksgrenze zu den Landkreisen Dahme-Spreewald sowie Teltow-Fläming, Blohmstraße, Grenze zum Ortsteil Marienfelde und Motzener Straße im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - überwiesen
+- TOP 12.2: Über die Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2015 - überwiesen
+- TOP 12.3: Festsetzung des vorhabenbezogenen Bebauungsplans 7-73 VE für das Grundstück Sachsendamm 67-71, Tempelhofer Weg 13-24 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Fahrrad-Angebotsstreifen in der Boelckestraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Umbenennung des "Pallas Parks" in Lilli-Flora-Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.3: Ein Straßenschild für Lilli-Flora Borchardt anbringen - dem BVV-Beschluss Taten folgen lassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.4: Benennung des PallasPark nach Lilli-Flora - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.5: 1552/XX Endlich mehr Sitzbänke im Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Ausweis aus dem Automaten – Bürgerämter entlasten! - überwiesen
+- TOP 13.7: Neue Zusammensetzung der Kunstkommission - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: 1. Änderung des Geltungsbereichs des im Verfahren befindlichen vorhabenbezogenen Bebauungsplans 7-65 VE für das Grundstück Bessemerstraße 84, Eythstraße 66 im Bezirk Tempelhof Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
