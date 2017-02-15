@@ -1,0 +1,53 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-02-15T17:00:00+01:00
+- Ende: 2017-02-15T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3653
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3653
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Wie konnte es zu den Fällungsplänen für das Gelände Haus Leonore kommen? - beantwortet
+- TOP 3.2: Hauptamtliche Leitungen für alle bezirklichen Seniorenfreizeitstätten? - beantwortet
+- TOP 3.3: Verkehrssituation vor den Schulen in unserem Bezirk - beantwortet
+- TOP 3.4: Umsetzung des Spielhallengesetzes Berlin und des Mindestabstandsumsetzungsgesetzes Berlin im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.5: Personalengpässe im BA - beantwortet
+- TOP 3.6: Turnhallensanierung - beantwortet
+- TOP 3.7: Wartezeiten bei Kinder- und Jugendambulanzen - beantwortet
+- TOP 3.8: Sind Schülerlotsen auch in Steglitz-Zehlendorf in Gefahr? - schriftlich beantwortet
+- TOP 3.9: Pilotprojekte E-Mobility im Bezirk - schriftlich beantwortet
+- TOP 3.10: Stand up Paddling auf den Grunewaldseen - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Auf kaputten Bänken sitzt man nicht gut - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anmeldungen zur Investitionsplanung 2017 bis 2021 - überwiesen
+- TOP 5.2: Ergänzungsplan Steglitz-Zehlendorf 2017 - überwiesen
+- TOP 5.3: LZA Kreuzung Alt-Lankwitz/ Ecke Wunsiedeler Weg sicherer machen - überwiesen
+- TOP 5.4: Steglitzer Damm verkehrssicherer! - überwiesen
+- TOP 5.5: Rumpelpiste Altensteinstraße bis Sommer 2017 entschärfen - Sicherheit und Komfort für Radfahrer_innen erhöhen - überwiesen
+- TOP 5.6: Informationsstele für Peter Lorenz am Ort seiner Entführung - überwiesen
+- TOP 5.7: Ertüchtigung des Hubschraubersonderlandeplatzes am Campus Benjamin Franklin - überwiesen
+- TOP 5.8: Separate Fahrrad-Abteile für neue Pendler-S-Bahnen - überwiesen
+- TOP 5.9: Gemäldezyklus über das KZ-Außenlager Lichterfelde im Bezirk ausstellen - überwiesen
+- TOP 5.10: Schutz der Dahlemer Restulme ND 6-41/B - überwiesen
+- TOP 5.11: Schlachtensee als Ortsteil ausweisen - überwiesen
+- TOP 5.12: Carmerplatz aufwerten - überwiesen
+- TOP 5.13: City Tree („Stadtbaum“ einmal anders) - überwiesen
+- TOP 5.14: Vorlage der Haushaltsüberwachungsliste (HÜL) an den Haushaltsausschuss - überwiesen
+- TOP 5.15: Steglitz-Zehlendorf wird Mitglied in den internationalen MAYORS FOR PEACE. - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Wahlen - erledigt
+- TOP 7.1: Wahlvorschläge - erledigt
+- TOP 7.1.1: Wahl einer Bezirksstadträtin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Fällung und Umnutzung des Leonorenparks, sowie Informationen des Bezirksamtes - beantwortet
+- TOP 9: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9.1: Informationsstand Standorte für Flüchtlingsunterkünfte: Lissabonallee und weitere Standorte - zur Kenntnis genommen (Beratungsfolge beendet)
