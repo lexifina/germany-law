@@ -1,0 +1,8 @@
+# TOP 5: Frühlingsfest der Kulturen
+
+- Sitzung: Integrationsrat (2017-02-15)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/127026
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/21107
