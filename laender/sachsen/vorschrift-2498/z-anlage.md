@@ -1,4 +1,4 @@
-# Anlage (zu § 5 Abs. 1)
+# Anlage (zu § 5 Absatz 1)
 Gebührentabelle
 lfd. Nr. | Maßnahme | Gebühr in EUR
 Laufende Nummer | Maßnahme | Gebühr in EUR
