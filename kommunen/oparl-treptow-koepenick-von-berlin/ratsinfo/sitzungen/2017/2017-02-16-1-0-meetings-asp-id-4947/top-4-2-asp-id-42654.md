@@ -1,0 +1,8 @@
+# TOP 4.2: Einwohnerantrag Bohnsdorfer Kreisel
+
+- Sitzung: 2. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten (2017-02-16)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=42654
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=42654
