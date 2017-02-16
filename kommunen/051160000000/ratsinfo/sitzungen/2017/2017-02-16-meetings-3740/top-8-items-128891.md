@@ -1,0 +1,8 @@
+# TOP 8: Ordnungsbehördliche Verordnungen Sonntagsöffnungen 2017
+
+- Sitzung: Rat (2017-02-16)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/128891
+- Ergebnis: Mit Stimmenmehrheit beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/22718
