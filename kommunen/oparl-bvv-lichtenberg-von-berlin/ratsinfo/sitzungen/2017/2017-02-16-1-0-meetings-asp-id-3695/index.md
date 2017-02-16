@@ -1,0 +1,83 @@
+# 5. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-02-16T17:00:00+01:00
+- Ende: 2017-02-16T22:05:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3695
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3695
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=210183
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Wahl von Bezirksverordneten zu Mitgliedern und stellv. Mitgliedern in den Beirat für Sozialhilfeangelegenheiten - gewählt
+- TOP 6.2: Wahl von Bezirksverordneten zu Mitgliedern und stellv. Mitgliedern in die Krankenhausbeiräte Königin Elisabeth Herzberge und Sana-Klinikum sowie in den Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 7: Bericht des Bezirksamtes - gewählt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Barrierefreier Ausbau des S-Bahnhofs Gehrenseestraße - beantwortet
+- TOP 8.2: Sportplatz Karlshorst - beantwortet
+- TOP 8.3: SIWA-Mittel 2016 - beantwortet
+- TOP 8.4: Kita-Bedarf in Alt-Lichtenberg - beantwortet
+- TOP 8.5: Schutz der Linde am S-Bahnhof Karlshorst - beantwortet
+- TOP 8.6: Runder Tisch Rummelsburger See - beantwortet
+- TOP 8.7: Technische Ausstattung in der sanierungsbedingten Filiale des Johann-Gottfried-Herder-Gymnasiums (Paul-Junius-Straße) - beantwortet
+- TOP 8.8: Besorgniserregende Personalnot in den Jugendämtern? - beantwortet
+- TOP 8.9: Termine im Standesamt nicht möglich und alle schweigen? - beantwortet
+- TOP 8.10: Warum mehr Gebietskoordination ohne Evaluation der Aufgaben? - beantwortet
+- TOP 8.11: Personalentwicklung im Bezirksamt - beantwortet
+- TOP 8.12: Bebauung Ilsestraße - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9.3: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - gewählt
+- TOP 9.4: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten und deren Stellenvertreter*innen - gewählt
+- TOP 9.5: BVV-Sondermittel für das Gomel-Projekt - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Nachweisung der im Haushaltsjahr 2016 bis zum 30.06.2016 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Bewältigung des Reisebusverkehrs von Touristengruppen zur Gedenkstätte Hohenschönhausen - überwiesen
+- TOP 9.8: Schluss mit dem Missbrauch des Rummelsburger Sees durch das Dauerankern! - überwiesen
+- TOP 9.9: Aktive Einbeziehung von Kindern bei der Planung und Sanierung von Spielplätzen - überwiesen
+- TOP 9.10: Organisations- und Stellenplan für die kommenden Haushaltsjahre - überwiesen
+- TOP 9.11: Bessere Anbindung des Jobcenters an das ÖPNV-Netz - überwiesen
+- TOP 9.12: Lichteffiziente Beleuchtung am Gesundheitszentrum Prerower Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Elektrofahrzeuge für den Fuhrpark des Bezirksamtes - überwiesen
+- TOP 9.14: Neuvergabe der Stadtteilzentren im Bezirk Lichtenberg - überwiesen
+- TOP 9.15: Sondermittel für Lagerarbeitsgemeinschaft Buchenwald-Dora e. V. (LAG) - überwiesen
+- TOP 9.16: Rahmenkonzeption Bürgerhaushalt Lichtenberg und Geschäftsordnung des Begleitgremiums Bürgerhaushalt - überwiesen
+- TOP 9.17: Reformationsausstellung nach Lichtenberg! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.18: Bebauungsplan 11-9c - zweite erneute Behördenbeteiligung Arbeitstitel: östlich Konrad-Wolf-Straße 45-46 - überwiesen
+- TOP 9.19: Berufung des neu zu konstituierenden Bezirksbeirates von und für Menschen mit Behinderung und Gewährung von Sitzungsgeld - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.20: Geschäftsordnung des Bezirksbeirates von und für Menschen mit Behinderung Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.21: Bebauungsplan 11-14b - Teilung in die Bebauungspläne 11-14ba und 11-14bb Arbeitstitel: "Trabrennbahn Karlshorst" - überwiesen
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Bericht der Seniorenvertretung - erledigt
+- TOP 12: Wahlen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Die Wohnbevölkerung im Weitlingkiez in ihrer Zusammensetzung erhalten - vertagt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Freiwillige Feuerwehr Hohenschönhausen unterstützen und am Leben erhalten - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Situation bei Wohngeld- und WBS-Anträgen schnell entschärfen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Entschleunigung in der Gehrenseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Sicherheitsgefühl der Menschen stärken! - in der BVV abgelehnt
+- TOP 14.5: Sichere Überquerung des Archibaldweges am südlichen Ausgang S-Bahnhof Nöldnerplatz sowie Überprüfung der dortigen TAXI-Stellplätze - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Deutsch-Russisches Museum in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Kulturentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Vergabe eines Frauenpreises des Bezirksamtes Lichtenberg anlässlich des Internationalen Frauentages 2017 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17: Große Anfragen - (offen)
+- TOP 17.1: Lage der Schulstandorte und Herausforderungen für die Schulen in Lichtenberg - erledigt
+- TOP 18: Anträge zur Beschlussfassung - (offen)
+- TOP 18.1: Standorte für Gemeinschaftsschulen in Lichtenberg - überwiesen
+- TOP 18.2: Schulplätze in Rummelsburg und der Victoriastadt schaffen - überwiesen
+- TOP 18.3: Erzieherinnen und Erzieher als Mangelberuf einstufen - ohne Änderungen in der BVV beschlossen
+- TOP 18.4: Maßnahmeplan zur sicheren Essensversorgung an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 19: Schließung der Sitzung - erledigt
