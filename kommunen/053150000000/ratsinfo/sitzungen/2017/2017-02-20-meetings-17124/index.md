@@ -1,0 +1,68 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-02-20T17:00:00+01:00
+- Ende: 2017-02-20T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17124
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17124
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage der FDP-Fraktion in der BV-Rodenkirchen; TOP 7.2.4 - BV 07.11.2016 - Kenntnis genommen
+- TOP 7.1.2: Leerstand von GAG-Wohnungen in der Heinrich-Eberts-Straße in Meschenich; Beantwortung TOP 7.2.9 vom 23-01-2017 - Kenntnis genommen
+- TOP 7.1.3: Anfrage der Fraktion Die Grünen in der Sitzung Bezirksvertretung Rodenkirchen am 20.02.2017 AN/2166/2016 Sürther Feld: Jagdgebiet; Beantwortung TOP 7.2.4 v. 23.01.2017 - Kenntnis genommen
+- TOP 7.1.4: Anfrage der Fraktion Freie Demokraten Eingang 12.01.2017 für die Sitzung der Bezirksvertretung Rodenkirchen am - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Parkstadt Süd: Parkplatz Alteburger Straße – Zwischennutzung im Sanierungsgebiet; Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Uneingeschränkter Betrieb der Gleiswechselanlage am Bahnhof Rodenkirchen, Antrag der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Aktueller Stand städt. Bauprojekt Pastoratsstraße / Westerwaldstraße in Rondorf; Anfrage CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Sachstand Flüchtlingsunterbringung Bonotel; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Modifizierung des Verkehrsberuhigungskonzept Bayenthal/Marienburg; Gem. Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Lärmschutzwand entlang der L300 (AZ 63/B32/5454/2016): Erhalt der dortigen Bäume; Gemeinsamer Antrag Fraktion Die Grünen, FDP - geändert beschlossen
+- TOP 8.1.4: Sicherstellung von Breitbandausbau mit Glasfasertechnik in Rondorf-Nordwest; Antrag CDU Fraktion - ungeändert beschlossen
+- TOP 8.1.5: Gestaltung der Öffentlichen Grünflächen im B-Plan Nr. 71380/03 und § 2, Abs.6.6 der Zuständigkeitsordnung; Gemeinsamer Antrag der FDP Fraktion und der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.6: Parkstadt Süd; Antrag SPD Fraktion - geändert beschlossen
+- TOP 8.1.7: Illegales Parken auf Geh- und Radwegen: hier Stadtteil Zollstock; Antrag Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.7.1: TOP 8.1.7 - Ordnungswidriges Parken auf Gehwegen im Bezirk Rodenkirchen; Änderungsantrag der Fraktion Die Grünen - endgültig abgelehnt
+- TOP 8.1.7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8: Streetworker in Köln-Meschenich; Antrag der SPD Fraktion mit Beitritt der CDU- Fraktion und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.9: Nutzung von Sporthallen im Bezirk während der Schulferien; Antrag Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.10: Beleuchtung am P+R–Parkplatz in Köln-Godorf; Antrag SPD Fraktion - geändert beschlossen
+- TOP 8.1.11: Gymnasium Rodenkirchen: bauliche Aufstockung (Prüfung); Antrag der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.13: Ansiedlung der Offenen Schule Köln auf dem Sürther Feld; Gemeinsamer Antrag der Fraktionen CDU, SPD, Die Grünen und der FDP - geändert beschlossen
+- TOP 8.1.14: Großmarktgelände - Planungen für die Parkstadt Süd, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Übertragung von Flächen für den Wohnungsbau; Antrag der SPD Fraktion - zurückgestellt
+- TOP 8.2.2: Verbesserung der Ausschilderung zum P & R – Parkplatz Godorf, Antrag der CDU Fraktion mit Beitritt der SPD-Fraktion - geändert beschlossen
+- TOP 8.2.3: 4. Baustufe der Stadtbahnlinie 5 / Planung der Endhaltestelle, Antrag der CDU-Fraktion mit Beitritt der SPD-Fraktion und der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 10.2.2: Sperrung des Zollstocker Weges zum Schutz von Erdkröten - Kenntnis genommen
+- TOP 10.2.3: 3. Baustufe Nord-Süd Stadtbahn / Information zum aktuellen Sachstand - Kenntnis genommen
+- TOP 10.2.4: Planfeststellungsbeschluss für den Neubau der 110-/380-kV-Höchstspannungsfreileitung Rommerskirchen-Sechtem der Amprion GmbH - Kenntnis genommen
+- TOP 10.2.5: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 10.2.6: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Rodenkirchen aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.12.2016 - zurückgestellt
+- TOP 10.2.7: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
