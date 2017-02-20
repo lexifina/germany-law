@@ -1,0 +1,6 @@
+# TOP -: Niederschrift über die öffentliche Sitzung des Gemeinderates am 30.01.2017
+
+- Sitzung: Gemeinderat (2. Sitzung) (2017-02-20)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/25435
