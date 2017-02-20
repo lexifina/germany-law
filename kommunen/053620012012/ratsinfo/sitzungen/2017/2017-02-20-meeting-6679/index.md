@@ -1,0 +1,80 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-02-20T18:00:00+01:00
+- Ende: 2017-02-20T21:25:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaH49VDb2cOJZyccHlCaQOI
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6679
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWjmfx2VDTf0f2rsHb1FYv_2SktSw-Xs1a8npgV9nlv7/Bekanntmachung_Rat_20.02.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVH8R8K-17Rdztz9jN5K58oIP-Rg7TnKEEiHNGHVu0v1/Oeffentliche_Niederschrift_Rat_20.02.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP -: Zur Tagesordnung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschriften vom 12.12.2016 und 21.12.2016
+- TOP 3.: Projekt „Forum Sonderspaß“ im ehemaligen Max-Ernst-Kabinett, Bahnhofstr. 21 hier: Nutzungskonzept Bezug: VgLA 5.12.2016 und 23.1.2017
+- TOP 3.1: Projekt "Forum Sonderspaß" im ehemaligen Max-Ernst-Kabinett, Bahnhofstr. 21 hier: strategische Bedeutung des Grundstücks Bezug: VgLA 23.1.2017
+- TOP 3.2: Grundstück Bahnhofstraße 21 Projekt des Vereins Sonderspaß Bezug: Antrag der FDP-Fraktion vom 25.01.2017 - (kein Text vorhanden)
+- TOP 4.: Wettbewerbsverfahren Rathaus/Jahnshof - (kein Text vorhanden)
+- TOP 5.: Gesellschafterversammlung der Stadtwerke Brühl GmbH hier: - Jahresabschluss 2015 - Konzernjahresabschluss SWB 2015 - Gewinnverwendung Jahresgewinn 2015 - Wirtschaftsplan 2017 - (kein Text vorhanden)
+- TOP 6.: Entwurf des Gesamtabschlusses 2013
+- TOP 7.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 7.1: Haushalt 2017 Rat 31.10. u. HA 14.11., 28.11., Rat 12.12.16 -Zusätzliche Fortschreibung für 2019- Hier: Dringlichkeitsentscheidung Bürgermeister Freytag und Ratsherr Franz-Josef Gerharz (CDU) vom 21.12.2016 - (kein Text vorhanden)
+- TOP 8.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 8.1: Außerplanmäßige Mittelbereitstellung Baufeldfreimachung Kita Ost - (kein Text vorhanden)
+- TOP 8.2: ÜPL-APL 3. und 4. Quartal 2016
+- TOP 9.: Satzung und Geschäftsordnung
+- TOP 9.1: Ergänzungssatzung 08.16 „An Maria Glück“ Ergänzungssatzung 08.16 „An Maria Glück“ Ergänzungssatzung 08.16 „An Maria Glück“ Ergänzungssatzung 08.16 „An Maria Glück“- Satzungsbeschluss - Nachreichung einer Anlage
+- TOP 9.1.1: Ergänzungssatzung 08.16 "An Maria Glück" - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 9.2: Geschäftsordnung für den Rat und die Ratsausschüsse der Stadt Brühl - (kein Text vorhanden)
+- TOP 10.: Bebauungspläne
+- TOP 10.1: Bebauungsplan 06.92 'Gallbergsiedlung', 2. Änderung - Satzungsbeschluss -
+- TOP 10.2: Bebauungsplan 01.16 II 'Bonnstraße, Südfriedhof, Schulzentrum, Linie 18' Abwägungs- und Satzungsbeschluss
+- TOP 10.2.1: Bebauungsplan 01.16 II 'Bonnstraße, Südfriedhof, Schulzentrum, Linie 18' und 40. Änderung des Flächennutzungsplanes - Abwägungs- und Satzungsbeschluss - hier: Ergänzung des Abwägungsvorschlags
+- TOP 10.2.2: Bebauungsplan 01.16 II 'Bonnstraße, Südfriedhof, Schulzentrum, Linie 18' und 40. Änderung des Flächennutzungsplanes - Sachstand und Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 11.: Zustimmung zum Erschließungs- und Städtebaulichen Vertrag im Bereich des künftigen Bebauungsplanes 01.16, Teilbereich II Bonnstraße, Südfriedhof, Schulzentrum, Linie 18" - (kein Text vorhanden)
+- TOP 12.: European Energy Award® Fortführung und Folgeförderung Bezug: AfBU vom 22.11.2016, TOP 3 - (kein Text vorhanden)
+- TOP 13.: Linie 18 Einführung des 10-Minuten-Takts zwischen Brühl-Mitte und Schwadorf nach Beendigung des zweigleisigen Ausbaus Bezug: Beschlüsse VKA vom 13.06.05 (290/81p), Rat vom 20.02.06 (290/81q) und AfVM vom 07.11.16 (479/2016)
+- TOP 13.1: Linie 18 - Einführung des 10-Minuten-Takts zwischen Brühl-Mitte und Brühl-Schwadorf nach Beendigung des zweigleisigen Ausbaus -
+- TOP 13.2: Takt nach Fertigstellung des zweigleisigen Ausbaus der Linie 18 hier: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 05.11.2016 Bezug: Vorlage-Nr. 479/2016 - (kein Text vorhanden)
+- TOP 14.: Straßenbenennungen
+- TOP 14.1: Benennung einer Straße im Bebauungsplangebiet 06.02 Vorgebirgsstraße Eifelstr. Badorfer Str. Pehler Hülle - (kein Text vorhanden)
+- TOP 14.2: Benennung Knappschaftsstraße - (kein Text vorhanden)
+- TOP 15.: Kindertagesbetreuung in Einrichtungen hier: Neubau und Finanzierung der fünfgruppigen Kindertagesstätte des Arbeiter-Samariter-Bundes (ASB) Regionalverband Erft/Düren e.V. an der Schildgesstraße - (kein Text vorhanden)
+- TOP 16.: Bestätigung des AfVM-Beschlusses zur Umsetzung des Klimaschutzteilkonzept Mobilität - (kein Text vorhanden)
+- TOP 17.: Anträge
+- TOP 17.1: Kommunaler Bürgerhaushalt Bezug: Antrag der Fraktion Linke & Piraten vom 05.02.2017
+- TOP 17.1.1: Kommunaler Bürgerhaushalt Bezug: Antrag Die Linke & Piraten Partei vom 05.02.2017 (Vorlage 65/2017)
+- TOP 17.1.2: Bürgerhaushalt
+- TOP 17.2: Sicherheit an den Brühler Bundesbahnhöfen Bezug: Antrag der FDP-Fraktion vom 02.02.2017
+- TOP 18.: Umbesetzung in Ausschüssen
+- TOP 19.: Mitteilungen
+- TOP 19.1: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 19.2: Baustellen im Stadtgebiet
+- TOP 19.3: Volksbegehren "G9 jetzt!"
+- TOP 19.4: Kondolenzschreiben Marcelle Guldner
+- TOP 19.5: Facebookauftritt der Stadt Brühl
+- TOP 20.: Anfragen
+- TOP 20.1: Uhr am Bahnhof Brühl-Nord
+- TOP 20.2: Stadtwerke
+- TOP 20.3: Sachstand Feuerwache
+- TOP B): Nichtöffentliche Sitzung
+- TOP -: Zur Tagesordnung
+- TOP 21.: Stadtwerke Brühl GmbH
+- TOP 21.1: Wirtschaftsplan der Stadtwerke Brühl GmbH für das Jahr 2017
+- TOP 21.2: Gesellschafterversammlung der Stadtwerke Brühl GmbH
+- TOP 21.2.1: Gesellschafterversammlung Stadtwerke Brühl GmbH
+- TOP 21.2.2: Gesellschafterversammlung Stadtwerke Brühl GmbH
+- TOP 21.2.3: Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 22.: Bericht über die 132. Sitzung des Aufsichtsrates der REVG mbH am 20.10.2016
+- TOP 23.: Bericht über die 133. Sitzung des Aufsichtsrates der REVG mbH am 05.12.2016
+- TOP 24.: Bericht über die 134. Sitzung des Aufsichtsrates der REVG mbH am 22.12.2016
+- TOP 25.: Vergabe eines Grundstücks der Stadt Brühl im Wege der Erbpacht
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen
