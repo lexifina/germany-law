@@ -1,0 +1,6 @@
+# TOP 4.2.2: Antrag der CDU-Fraktion auf Vorlage eines Konzepts im Sinne des Gesetzes zur Stärkung der Schulinfrastruktur in NRW vom 30.12.2016
+
+- Sitzung: Ausschuss für Bildung und Kultur (9. Sitzung) (2017-02-21)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/10932
