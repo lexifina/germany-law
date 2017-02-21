@@ -1,0 +1,174 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286173
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286173
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.3.: Budget für den Jahresempfang 2017
+- TOP 2.3.4.: Budget für die Festschrift "850 Jahre Neuhausen"
+- TOP 2.4.3.: Freischankfläche Donnersbergerstraße 47 (Ecke Wilderich-Lang-Str.) - "Kaffeeladen & Espressobar"
+- TOP 2.4.4.: Größenanpassung Obstverkaufsstand St.-Galler-Str. 8 (Ecke Waisenhausstr.)
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.2.1.: Erschütterungen in Wohnungen durch die neu eingesetzten Tram-Variobahnen
+- TOP 3.2.2.: FW: Antrag zur neuen Buslinie 144 - Rotkreuzplatz - Olympiapark - Scheidplatz
+- TOP 3.2.3.: CSU: Zufahrt für Gerner zum P+R am Westfriedhof
+- TOP 3.2.4.: CSU: Entlastungsbrücke über den Leonrodplatz
+- TOP 3.2.5.: Straßenregelung Dachauer Straße / Gestaltung Leonrodplatz - Antrag aus der Einwohnerversammlung am 24.01.2017
+- TOP 3.2.6.: Einmündung Schwere-Reiter-Straße in die Dachauer Straße - Antrag aus der Einwohnerversammlung am 24.01.2017
+- TOP 3.2.7.: Parkraummanagement im Gebiet Rosa-Luxemburg-Platz - Antrag aus der Einwohnerversammlung am 24.01.2017
+- TOP 3.2.8.: Prüfung einer Radquerung des Herzzentrum-Geländes zur Verbindung von Kasernenviertel und St.-Benno-Viertel - Antrag aus der Einwohnerversammlung am 24.01.2017
+- TOP 3.2.9.: Verhinderung der Steuerung des Verkehrsflusses zur Tiefgarage des Justizzentrums über die Hedwig-Dransfeld-Allee - Antrag aus der Einwohnerversammlung am 24.01.2017
+- TOP 3.2.13.: Bürgeranliegen: Vorschläge zur Verbesserung der Situation im Bereich Dachauer Straße / Leonrodplatz
+- TOP 3.2.14.: Anbringung von Metallbügeln vor der Dom-Pedro-Straße 8
+- TOP 3.3.1.: Haltverbote in der Helmholtzstraße außerhalb der Parkbuchten
+- TOP 3.4.3.: Parksituation in der Erika-Mann-Straße - Antrag Nr. 14-20 / B 01442 vom 23.07.2015
+- TOP 3.4.8.: PI 42: Radverkehr auf und um dem Rotkreuzplatz
+- TOP 3.4.9.: PI 42: Parkverstöße Landshuter Allee / Ebenauer Straße
+- TOP 3.4.12.: Kratzerstraße: Umwandlung absolutes Haltverbot und Einführung einer Spielstraße / einer verkehrsberuhigten Zone
+- TOP 3.5.2.: Hinterleuchtete Litfaßsäule - Standort Menzinger Straße
+- TOP 3.5.4.: MVG: Verlängerung der Gleiserneuerung zwischen Münchner Freiheit und Scheidplatz
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 4.2.1.: BA-Antrag: Kulturzentrum in der Paketposthalle
+- TOP 4.3.1.: Birketweg - Baufeld MK 8 - Neubau Bürogebäude mit Gastronomie- und Einzelhandelsflächen
+- TOP 4.3.2.: Döllingerstraße 20 - Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 4.3.3.: Lachnerstraße 2 - Dachneu- und Ausbau mit Wohnung und Praxis
+- TOP 4.3.4.: Lachnerstraße 41 - Nutzungsänderung Dachgeschoss
+- TOP 4.3.5.: Leonrodstraße 48a - Aufstockung Ausstellungspavillons mit Büros
+- TOP 4.3.6.: Lothstraße 13 - Aufstockung, Sanierung, Aufzuganbau, Abbruch & Neubau Garagen
+- TOP 4.3.7.: Maria-Ward-Straße 11 - Neubau Schwestern-Wohnhaus mit Tiefgarage
+- TOP 4.3.8.: Prinzenstraße 35 - Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 4.3.9.: Südliche Auffahrtsallee - Neubau Geschäftshaus mit Tiefgarage
+- TOP 4.4.1.: LBK: Laimer Straße 36 - Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 4.5.1.: Bürgeranliegen: Bauvorhaben Prinzenstraße 35
+- TOP 4.5.2.: LBK: Meldelisten über Bauvorhaben vom 09.01. - 05.02.2017
+- TOP 4.5.3.: Stadtbaurätin: Anhörungsrecht bei Planungen im Bereich "Wohnen für Alle"
+- TOP 4.5.4.: Aufhebung des rechtsverbindlichen Bebauungsplans Nr. 104 - Lachnerstraße 28 - Billigungsbeschluss 01.02.2017
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 5.2.1.: SPD: Förderung der Elektromobilität im 9. Stadtbezirk
+- TOP 5.2.3.: BUND e.V.: "Baumschutz in München ist Klimaschutz für München - Die Münchner Bezirksausschüsse handeln - jetzt!"
+- TOP 5.2.4.: Vogelgrippe-Situation im Schlosspark Nymphenburg
+- TOP 5.3.2.: LBK: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 5.4.1.: LBK: Naturdenkmalwürdige Eibe in der Kuglmüllerstraße 1
+- TOP 5.5.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 5.5.2.: Ökologischer Kriterienkatalog - Fortschreibung 2016 / 2017
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.2.2.: Bürgeranliegen: Jugendangebote in der Siedlung Hirschgarten
+- TOP 6.5.1.: Ergebnisse des Worldcafe (vertagt aus der Sitzung 01/17)
+- TOP 6.5.2.: BA-Budget: Verwendungsnachweis "Erprobung einer Imkerei" im Abenteuerspielplatz
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.2.2.: BA als Veranstalter des Bürgerfestes
+- TOP 7.3.1.: Beschlussvorlage des Direktoriums zum Veranstaltungsbudget
+- TOP 7.5.1.: Zwischennutzung Lamento Kreativquartier / Bericht Beirat KreativLabor
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.2.1.: CSU: Schwimmunterricht und Schulschwimmhallen im BA 9 Gebiet III
+- TOP 8.2.2.: FT Gern: Umwandlung des Rasenspielfeldes an der Hanebergstraße in ein beleuchtetes Kunstrasenspielfeld
+- TOP 8.3.1.: Fortschreibung der Schulentwicklungsplanung
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.2.1.: SPD: Änderung der Abstimmungsprocedere in Bürgerversammlungen
+- TOP 9.3.2.: KVR: Anhörung Marktveranstaltung "Italienischer Markt" Vom 24. - 29.03.2017 auf dem Rotkreuzplatz
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Stadt- und Kunst e.V. Theaterstück "Trigger" vom 30.03. - 02.04.2017 Zuschussantrag 1.900 €
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Initiative "Kultüren" Veranstaltung "Kultüren" am 07./08.10.2017 Zuschussantrag 2.940 €
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.4.1.: Neuer Aufstellungsort für Wertstoffcontainer: Ecke Arnulfstraße/ Landshuter Allee stadtauswärts Empfehlung Nr. 14-20 / E 01325 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 17.11.2016
+- TOP 2.4.2.: (E) Pflastersteine - Rotkreuzplatz Empfehlung Nr. 14-20 / E 01364 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Neuer Aufstellungsort für Wertstoffcontainer: Ecke Arnulfstraße/ Landshuter Allee stadtauswärts
+- TOP 3.1.2.: Pflastersteine - Rotkreuzplatz
+- TOP 3.1.3.: Freischankfläche Donnersbergerstraße 47 (Ecke Wilderich-Lang-Str.) - "Kaffeeladen & Espressobar"
+- TOP 3.1.4.: Größenanpassung Obstverkaufsstand St.-Galler-Str. 8 (Ecke Waisenhausstr.)
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.10.: Anfragen aus der Einwohnerversammlung am 24.01.2017 - Tiefgaragenzufahrt in der Anita-Augspurg-Allee - Sicherheitseinrichtungen Strafjustizzentrum
+- TOP 3.2.11.: Anfrage aus der Einwohnerversammlung am 24.01.2017 - Anzahl Beschäftigtenzahl Strafjustizzentrum - Abwicklung Verkehr zum Strafjustizzentrum
+- TOP 3.2.12.: Anfrage aus der Einwohnerversammlung am 24.01.2017 - Ausreichendes Stellplatzangebot auf dem Gelände Strafjustizzentrum
+- TOP 3.3: Anhörungen
+- TOP 3.3.2.: Erinnerungsverfahren / Spartenanfragen: - Kapschstraße / Ecke Albrechtstraße - Lazarettstr. zw. Dachauer Str. und Ernst-Henle-Str. - Malsenstraße zwischen Nederlinger und Gerner Straße - Nederlinger Straße zw. Nördl. Auffahrtsallee und Malsenstr.
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Entschärfung der Abbiegesituation Nördliches Schlossrondell / Maria-Ward-Str. für Radfahrer
+- TOP 3.4.2.: Einrichtung des Willi-Gebhard-Ufers als Fahrradstraße
+- TOP 3.4.4.: Maßnahmen zum Schutz für querende Fußgänger am Romanplatz zur Haltestelle der Trambahnlinie 12
+- TOP 3.4.5.: Kinderwagen-Rampen an den Unterführungen an der Landshuter Allee
+- TOP 3.4.6.: Kurzstreckenpauschaltarif für Taxifahrten
+- TOP 3.4.7.: Bewirtschaftung Kiosk U-Bahnhof Gern
+- TOP 3.4.10.: Wann wird der Fussgänger-/Radsteg über die Bahngleise gebaut?
+- TOP 3.4.11.: Parklizenz Neuhausen
+- TOP 3.4.13.: Verbesserung um die Rangierzone der Lieferantenzufahrt der Klinik in der Simeonistr. 12
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen des KVR: - Rosa-Luxemburg-Platz Z 283 StVO - Anfahrtszone für Kunden und Lieferanten Bolivarstraße 5 - Johann-Pez-Straße Z 283 StVO - Volkart-/ Albrechtstraße Sperrung Bauarbeiten - Eisnergutbogen Sperrung Bauarbeiten
+- TOP 3.5.3.: Zusätzliche Standorte MVG Rad
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.2.: B&#039;90/GRÜNE: Gestaltungswettbewerb Leonrodplatz
+- TOP 4.3: Anhörungen
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.2.: Einrichtung einer Ansprechstelle für die Maßnahme 2. Stammstrecke für Nymphenburg-Süd
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.5.: Werbeanlagenverordnung erlassen
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.2.: B&#039;90/GRÜNE: Luftreinhaltung Landshuter Allee
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Die Stadt München möge keine Laubbläser mehr einsetzen; stattdessen Einsatz von Laubsaugern
+- TOP 5.3.3.: Baumfällungsanträge - Minerviusstr. 16 - Maillingerstr. 22 - Südliche Auffahrtsallee 72 - Dantestr. 8 - Kemnatenstr. 60 - Trivastr. 27 - Tintorettostr. 6 - Lazarettstr. 67
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.2.: Public Viewing im Hirschgarten
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: B&#039;90/GRÜNE: Aktionstag am 17. Juni
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Bildung für junge Geflüchtete
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Stadt- und Kunst e.V. Theaterstück "Trigger" vom 30.03. - 02.04.2017 - Zuschussantrag 1.900 €
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Initiative "Kultüren" Veranstaltung "Kultüren" am 07./08.10.2017 Zuschussantrag 2.940 €
+- TOP 7.1.3.: Budget für den Jahresempfang 2017
+- TOP 7.1.4.: Budget für die Festschrift "850 Jahre Neuhausen"
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: BA-Antrag: Kulturzentrum in der Paketposthalle
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Modernes Gedenken - Eisenbahnerdenkmal auf dem Bundeswehrgelände
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.2.: BA-Budget: Kurzberichte / Verwendungsnachweise: - Geschichtswerkstatt - Adler A.F. - SG Falkenauge - Pathos - kontrapunkt
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Mittagsverpflegung an der Mittelschule Winthirplatz
+- TOP 8.4.2.: Bildung für junge Geflüchtete - BA-Antrag Nr. 14-20 / B 02701
+- TOP 8.4.3.: "Ob Sommer oder Winter – &#039;Sportwochen&#039; zu jeder Jahreszeit für alle Schülerinnen und Schüler in Neuhausen-Nymphenburg"
+- TOP 8.4.4.: Längere Beleuchtung an den Sportplätzen im 9. Stadtbezirk
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Rascher Wiederaufbau von Vereinsheim und Umkleidekabinen FC Teutonia
+- TOP 8.5.2.: Infrastrukturprogramm Sport in München – Sitzungsvorlagen Nr. 14-20 / V 07531: Wiedervorlage 02/17 (Idee: gemeinsamer UA-Antrag zu Maßnahmen im 9. Stbzk.)
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.2.: Haushalt fair teilen – Antrag der Gleichstellungsbeauftragten (WV aus 01/17)
+- TOP 9.2.3.: BA als Veranstalter des Bürgerfestes
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder einesBA-Vorstandes; Antrag der CSU-Fraktion
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Unveränderte Fortführungen / Neuerrichtungen von Gaststättenbetrieben: - "Marita" (ehemals "Der Hollabusch") - Schulstr. 34 - "Mastroianni" - Winthirplatz 1 - "Café am Schloss" - Südliche Auffahrtsallee 78
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
