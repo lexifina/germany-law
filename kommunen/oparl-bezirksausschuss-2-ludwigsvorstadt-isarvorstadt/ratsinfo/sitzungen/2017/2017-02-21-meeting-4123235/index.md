@@ -1,0 +1,138 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-02-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123235
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123235
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 1.2.: Rücknahme der Zweckentfremdungsgenehmigungen in der Paul-Heyse-Straße 30-34 und in ähnlich gelagerten Fällen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.: Erhaltungssatzung Ludwigsvorstadt/Schwanthalerhöhe
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.1.: Kulturzentrum Südbahnhof 2/6
+- TOP 5.3.: Offener Bücherschrank
+- TOP 5.4.: Viehhof
+- TOP 5.6.: Begrünungsplan BA 2
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.2.: Mozartstraße 23, Nutzungsänderung und Umbau einer Pension zu zwei Wohnungen mit Büro im 3.OG, eine Wohnung im 2.OG links und eine Wohnung im 1.OG links; vgl. Vertagung aus 2017.01 B 3.1.19
+- TOP 3.1.5.: Pestalozzistraße 26; Umbau: Erweiterung des Dacheinschnitts, Anbau eines Balkons im DG und Errichtung eines Außenaufzugs ohne Schacht
+- TOP 3.1.6.: Waltherstraße 31; Neubau Boardinghouse mit Supermarkt - Tektur
+- TOP 3.1.7.: Bayerstraße 35 + 37, Neubau eines Hotels mit Gastronomie und Tiefgarage - Tektur
+- TOP 3.1.8.: Baaderstraße 19; Nutzungsänderung: Atelier zu Wohnraum
+- TOP 3.1.9.: Klenzestraße 87; Dachgeschossausbau
+- TOP 3.1.10.: Lindwurmstraße 65; Aufstockung und Ausbau zu Wohnungen - Tektur
+- TOP 3.1.11.: Auenstraße 40; DG-Umbau des Riemerschmid-Wohnhauses
+- TOP 3.1.12.: Jahnstraße 17; Umbau 2er DG-Wohnungen, Einbau einer Dachterrasse und Vergrößerung 3er Gauben
+- TOP 3.1.14.: Zenettistraße 48, Nutzungsänderung: Sonnenstudio (1.OG) zu Sportschule mit Büro sowie Kantine mit Küche (4.OG) zu Sportstudio, PLENUMSBESCHLUSS
+- TOP 3.1.15.: Landwehrstraße 24, Erweiterung Shishabar, PLENUMSBESCHLUSS
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.1.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München, Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG), Vorschläge zur Neuaufnahme besonderer Bäume in die Naturdenkmalliste
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas-Wimmer-Rings unter Einfluss des Isartorplatzes; Anhörung zum Entwurf der Beschlussvorlage, PLENUMSBESCHLUSS
+- TOP 1.1.: Schutz der Isar vor Silvesterfeuerwerk, vgl. Vertagung 2017.01 C 1.2
+- TOP 1.2.: Überprüfung der Kurzzeit-/Mischparkgebiete
+- TOP 1.3.: Begrünung im südlichen Bahnhofsviertel
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.1.1.: Glockenbachfest auf dem Karl-Heinrich-Ulrichs-Platz am 24.06.2017, PLENUMSBESCHLUSS
+- TOP 3.2: Verkehr
+- TOP 3.3.1.: Evaluierung der Sondernutzungsrichtlinien
+- TOP 5.1.: Begrünungsplan BA 2, vgl. A 5.6 und C 1.3
+- TOP 5.2.: Umgestaltung Holzplatz
+- TOP 5.3.: Bürgeranliegen; Fahrbahnüberquerung im Bereich Holz-, Pestalozzi- und Müllerstraße, vgl. Vertagung aus 2017.01 C 5.3
+- TOP 5.4.: Bürgeranliegen; Adlzreiterstraße 21; Begrünung, Umwandlung Parkplatz in Fahrradabstellfläche
+- TOP 5.5.: Bürgeranliegen; Verkehrsberuhigung der Thalkirchnerstraße an den Bushaltestellen Ehrengutstraße; PLENUMSBESCHLUSS
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.3.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017, PLENUMSBESCHLUSS
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.4.: Landwehrstraße 26, Nutzungsänderung eines Bürohauses mit 2 WE in ein Boardinghaus / Beherbergungsstätte (23 Einheiten, 55 Betten), Aufteilung und Nutzungsänderung: Laden zu Shisha-Bar (100 Gäste), Imbiss und Laden- Baugenehmigung des Referates für Stadtplanung und Bauordnung vom 30.01.2017
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.6.: Lärmbelästigung durch nächtliche Anlierferung beim europäischen Patentamt, BV-Anfrage Nr. 14-20 / Q 00325, Antwort Email des Referates für Gesundheit und Umwelt vom 18.01.2017
+- TOP C 4.11.: Einbringen von Hilfsunterstützungen im Bereich der Unterführung Lindwurmstraße; Information des Kreisverwaltungsreferates vom 23.01.2017
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Koordinierungsstelle „Sportangebote für Geflüchtete“
+- TOP 5: Sonstiges
+- TOP 5.2.: Flüchtlinge/Wohnungslose
+- TOP 5.5.: Kreativtreffen BA-eigenes Fest; Arbeitstitel „ISARLUDWIG – Kunst, Kultur, Soziales im Bezirk 2“
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: Baumschutz in München - Die BA&#039;s handeln - jetzt! Siebzehn Anträge wurden zur Prüfung für UA PB von der Baumschutzbeauftragten ausgearbeitet
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Rothmundstraße 3; DG-Ausbau und Sanierung eines denkmalgeschützten Wohnhauses – Vorbescheid; vgl. Vertagung aus 2017.01 B 3.1.18
+- TOP 3.1.3.: Schwanthalerstraße 55 und 57; Nutzungsänderung und Umbau bestehender Schulgebäude für Hotelnutzung, Neubau eines Hotelgebäudes mit Tiefgarage – Vorbescheid; vgl. Vertagung aus 2017.01 B 3.1.20
+- TOP 3.1.4.: Fraunhoferstraße 12; Nutzungsänderung: Apotheke in Ladengeschäft mit Gaststätte
+- TOP 3.1.13.: Fraunhoferstraße 43; Nutzungsänderung: Laden zu Café / Bistro mit Freischankfläche (Fraunhoferstraße 43 / Erhardtstraße 1)
+- TOP 3.1.16.: Baaderstraße 60, RGB: Umbau, Nutzungsänderung von Werkstatt und Büro im Wohnen, Neubau des Dachstuhls, Einbau eines Flurparkers mit 14 Stellplätzen – Tektur; PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Bayerstraße 91, Genehmigung einer Freischankfläche
+- TOP 2.3.1.: (E) Lärmbelästigung durch Kneipen im Bereich Thalkirchner-/Müllerstraße
+- TOP 2.3.2.: (E) Mehr Geschwindigkeitskontrollen in der Lindwurmstraße
+- TOP 2.3.3.: (E) Sanierung Fußweg Westermühlbach Empfehlung Nr. 14-20 / E 01261 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.3.4.: (E) Wiederaufstellung der Bänke am Baldeplatz Empfehlung Nr. 14-20 / E 01235 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.3.5.: (E) Entfernung einer Sitzbank Auenstraße / Baldestraße Empfehlung Nr. 14-20 / E 01236 der Bürgerversammlung des Stadtbezirkes 2 Ludwigvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.3.6.: (E) Weitere Abfalleimer im Dreimühlenviertel Empfehlung Nr. 14-20 / E 01271 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB, Beschlussentwurf 1. Jährlicher Sachstandsbericht 2. Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Lindwurmstraße durch die DB AG, Sitzungsvorlage Nr. 14 – 20 / V 07596
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.6.: Bunt statt Grau – Urban gardening als Promoaktion von Bionade durch Webguerillas
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands; Antrag der CSU-Fraktion, BA-Antrags-Nr. 14 - 20 / B 03074 des BA 15 – Trudering-Riem vom 24.11.2016, Anhörungsschreiben des Direktoriums vom 30.01.2017, PLENUMSBESCHLUSS
+- TOP 1.2.: Beschlussentwurf – 650.000 Euro Veranstaltungsbudget – davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen; Anhörungsschreiben des Direktoriums vom 06.02.2017, PLENUMSBESCHLUSS
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: Schaffung von mehr Graffiti-Flächen an der Tumblingerstraße; BA-Antrags-Nr. 08 – 14 / B 00475 des BA 2 vom 21.10.2014; Antwortschreiben des Kommunalreferates vom 23.01.2017
+- TOP A 4.4.: Referat für Bildung und Sport, Beschluss und Bekanntgabe Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der LHSt München im Schuljahr 2016/2017, Stand: 20.10.2016, Sitzungsvorlage Nr. 14-20/V 07866, Beschluss des Bildungsausschusses des Stadtrates vom 22.02.2017 (SB) und Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017, Sitzungsvorlage Nr. 14-20 / V07867, sowie an den städtischen Realschulen, staatlichen Realschulen, Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule, Schuljahr 2016/2017, Sitzungsvorlage-Nr. 14 – 20/V 07829, sowie an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017, jeweils Bekanntgabe im Bildungsausschuss des Stadtrates vom 22.02.2017
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Werbeanlagenverordnung erlassen; Empfehlung Nr. 14 – 20 / E 00827 der Bürgerversammlung des Stadtbezirkes 1 – Altstadt-Lehel vom 03.12.2015; Sitzungsvorlagen Nr. 14 – 20 / V 06471, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (SB)
+- TOP B 4.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Ökologischer Kriterienkatalog Fortschreibung 2016/2017; Neufassung vom 04.01.2017; Sitzungsvorlagen Nr. 14 – 20 / V 02989, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (VB)
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.7.: Radverbindung zwischen Baldeplatz und Roecklplatz, BA-Antrags-Nr. 14-20/B 02685 des BA 2 vom 26.07.2016; Zwischennachricht des Kreisverwaltungsreferates vom 12.01.2017
+- TOP C 4.8.: Kreisverwaltungsreferat, Beschluss Maßnahmen zur Verbesserung der Situation am Hauptbahnhof; Erlass einer Alkoholverbotsverordnung, Neufassung vom 13.12.2016, Sitzungsvorlagen-Nr. 14 – 20 / V 07510, Beschluss der Vollversammlung des Stadtrates vom 14.12.2016
+- TOP C 4.9.: Kreisverwaltungsreferat, Beschluss Neugestaltung des Auswahlverfahrens und Standorte für die Strandveranstaltung ab 2017, Neufassung vom 13.12.2016, Sitzungsvorlagen-Nr. 14 – 20 / V 07544, Beschluss der Vollversammlung des Stadtrates vom 14.12.2016
+- TOP C 4.10.: Unterführung Lindwurmstraße
+- TOP C 4.12.: Busparken im Umfeld des ZOB stadtverträglich organisieren; Antrag Nr. 14 – 20/A 01968; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 31.01.2017 zur Information
+- TOP C 4.13.: Optimierung der Containeranlage "Am Glockenbach"
+- TOP C 4.14.: Hackerbrücke und Grasserstraße zu einer Fahrradstraße umwandeln, BA-Antrags-Nr. 14 – 20 / B 02597 des BA 2 vom 28.06.2016; Zwischennachricht des Kreisverwaltungsreferates vom 01.02.2017
+- TOP C 4.15.: Bürgeranliegen; Verkehrszeichen „Grüner Pfeil“ an der Ampelkreuzung Kaiser-Ludwig-Platz / Beethovenstraße, vgl. TOP 2017.01 C 5.4; Antwort-Email des Kreisverwaltungsreferates vom 07.02.2017
+- TOP C 4.16.: Kreisverwaltungsreferat, Bekanntgabe Evaluation der Fahrradstraßen in München, Abschlussbericht, Sitzungsvorlage Nr. 14 – 20 / V 07432, Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.2017
+- TOP C 4.17.: Kreisverwaltungsreferat, Beschluss Durchführung von Verkehrsversuchen durch das KVR, Sitzungsvorlage Nr. 14 – 20/V 07549, Beschluss des Kreisverwaltungsausschusses vom 24.01.2017
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Anhörungsrecht für Planungen im Bereich „Wohnen für Alle“; Schreiben des Referates für Stadtplanung und Bauordnung an den BA 10 – Moosach vom 29.01.2017 zur Information
+- TOP D 4.2.: Gestaltung Am Glockenbach – nördliche und südliche Fahrbahnen am Glockenbach pflastern, BA-Antrags-Nr. 14 – 20 / B 02446 des BA 2 vom 31.05.2016; Antwortschreiben des Direktoriums vom 08.02.2017 bzgl. Entscheidungsbefugnis, vgl. TOP 2016.12 C 1.1 und B 4.3
