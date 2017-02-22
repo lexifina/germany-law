@@ -1,0 +1,8 @@
+# TOP 7: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021
+
+- Sitzung: 22. Sitzung (2017-02-22)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/168425
+- Ergebnis: von der Tagesordnung abgesetzt
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/61820
