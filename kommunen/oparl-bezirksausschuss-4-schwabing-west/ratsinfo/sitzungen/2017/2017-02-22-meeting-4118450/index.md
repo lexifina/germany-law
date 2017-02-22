@@ -1,0 +1,110 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118450
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118450
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.2.1.: Bewilligungsbescheid an Ackermannbogen e.V., Kulturbüro
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.1.2.: Viktor-Scheffel-Str. 14: Errichtung einer Dachterrasse
+- TOP 2.1.3.: Tektur Ackermannstr. 81-83: Nutzungsänderung HTP Michael-Haus: Werkraum zu Gemeinschaftsraum (EG) und Lager zu Aufenthaltsraum (1.OG)
+- TOP 2.1.4.: Tektur Sailerstr. 11: VGB + RGB: Sanierung, Um- und Ausbau zweier Wohnkomplexe (jetzt 87 WE + Stellplätze)
+- TOP 2.1.5.: Fürstenbergstr. 4: Neubau einer Wohnanlage (11 WE) mit Tiefgarage
+- TOP 2.1.6.: Tektur Franz-Joseph-Str. 29: Neuerrichtung des Dachstuhls sowie einer Aufzugs- und Balkonanlage an der Nordfassade, Erweiterung der Balkonanlage an der Südfassade und Neubau eines Rückgebäudes mit Tiefgarage hier: Zusammenlegung der beiden Wohneinheiten (RGB) als Einfamilienhaus
+- TOP 2.1.7.: Tektur Clemensstr. 122: Ausbau und Erweiterung zweier Dachgeschosse, Anbau von Balkonen an den Innenhoffassaden
+- TOP 2.2.: Wohnen
+- TOP 1.1.: Bürgerin: Metrobus 59: Aufhebung oder Verlegung der Haltestelle Georg-Birk-Straße
+- TOP 2.1.: Umwelt
+- TOP 2.1.1.: Erich-Kästner-Str. 32: Fällung eines Spitzahorn
+- TOP 2.1.2.: Angererstr. 20-24: Fällung einer Esche und zweier neapolitanischer Erlen
+- TOP 2.1.3.: Römerstr. 14: Fällung eines Ahorn
+- TOP 2.1.4.: Ackermannstr. 11: Fällung einer Linde
+- TOP 2.1.5.: Baumschutz in der Stadt (Anträge der Baumschutzbeauftragten der Münchner Bezirksausschüsse aus den BUND-Workshops)
+- TOP 2.1.6.: Vorschläge für die Aufnahme von Bäumen in die Naturdenkmalliste - Sachstand
+- TOP 2.2.: Verkehr
+- TOP 2.2.3.: Absolutes Haltverbot vor Schleißheimer Str. 188
+- TOP 2.2.5.: Linksabbiegespuren aus der Schleißheimer Straße in die Karl-Theodor-Straße durch Markierung verdeutlichen - Beschlussvorlage zur Erledigung der Empfehlung Nr. 14-20/E 01129 aus der Bürgerversammlung 2016
+- TOP 3.1.1.: Entfernung von Gefahrenbäumen im Stadtbezirk 4 (BA-Schreiben vom 15.12.2016)
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällung von Gefahrenbäumen am Sophie-Scholl-Gymnasium und an der Grundschule am Bayernplatz
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP 3.3.1.: Agnesstr. 53: Neubau eines Kanalschachts
+- TOP 3.4.1.: Information der MVG über Betriebskonzept der Linie U8 während der Erneuerung der Weichen 39 und 84 am Scheidplatz sowie Schienenerneuerung
+- TOP 3.4.2.: Verlängerung der Gleiserneuerung zwischen Münchner Freiheit und Scheidplatz bis 18.04.2017
+- TOP 3.4.3.: Stromprojekt Rümann-/Isoldenstraße: Infoflyer der Stadtwerke
+- TOP F.3.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Bayernplatz Jahresprojekt "Kinder treffen Künstler" von April - Juli 2017 AZ: 0262.0-4-0164
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Bekanntgaben im Bildungsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen im Schuljahr 2016/2017 a) an den öffentlichen Grund-, Mittel- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten (Sitzungsvorlage Nr. 14-20 / V 07846) b) an den städtischen und staatlichen Realschulen, Schulen besonderer Art und der städtischen Franz-Auweck-Abendschule (Sitzungsvorlage Nr. 14-20 / V 07829) c) an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München (Sitzungsvorlage Nr. 14-20 / V 07866) d) an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges (Sitzungsvorlage Nr. 14-20 / V 07867)
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 105, „Orient Kebap“: Änderung einer bestehenden Freischankfläche
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Urbanes Wohnen e.V. Dokumentation "Ackermannbogen"
+- TOP 2.3.1.: „Veranstaltungsbudget – Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen“: Anhörung zu einer Beschlussvorlage für den Stadtrat
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zukunft des Theaters der Jugend
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3.1.: „Soko München“ am 16. und 17.02.2017 in der Kurfürstenstr. 35
+- TOP 3.3.2.: TV-Produktion „Schicksale“ am 02.02.2017 im Luitpoldpark
+- TOP 3.3.3.: „Soko München“ am 22.02.2017 in der Winzererstr. 71-75 und gegenüber
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Versetzen einer beleuchteten City-Light-Säule für wechselnde Produktwerbung vom Petuelring in die Schleißheimer Straße (vgl. 10/16, TOP C 2.1.1): Erneute Änderung des Standorts nach Einsprüchen der Stadtentwässerung und des KVR
+- TOP 3.5.2.: Temporäre Kunst im öffentlichen Raum: 30+ Arthotek – ein städtischer Kunstraum auf Reisen am 15., 22. oder 29.07.2017 auf dem Elisabethmarkt (hinter dem Spielplatz)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hiltenspergerstr. 38+40: Neubau eines Mehrfamilienhauses mit Garagengeschoss als RGB, DG-Ausbau sowie Anbau von Außenaufzügen und Balkonen im Bestand (VGB) Vorhaben wurde im Januar im UA vorgestellt
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Max-Planck-Institut für Psychiatrie Kraepelinstraße: Maßnahmenkatalog für die Wohnungen Haus 12
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Beschlussvorlagen für den Ausschuss für Stadtplanung und Bauordnung vom 01.02.2017 a) Ökologischer Kriterienkatalog – Fortschreibung 2016/2017 (Sitzungsvorlage Nr. 14-20 / V 02989) b) Werbeanlagenverordnung erlassen (Sitzungsvorlage Nr. 14-20 / V 06471)
+- TOP 3.2.2.: Belegung von leer stehenden Wohnungen (z. B. in der Fürstenbergstr. 7) mit Flüchtlingen Beschlussvorlage für den Sozialausschuss am 09.02.2017 zur Erledigung der Empfehlung Nr. 14-20 / E 00621 aus der Bürgerversammlung 2015
+- TOP 3.2.3.: Anhörungsrecht für Planungen im Bereich „Wohnen für Alle“ Schreiben der Stadtbaurätin an den BA 10 Moosach
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.2.: Leiterin des Willi-Graf-Gymnasiums: Gefährliche Ein-/Ausfahrt des Lehrerparkplatzes
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: (E) Einsatz von Elektrobussen im Ackermannbogen (Ziffer 2 des Antrags) Empfehlung Nr. 14-20 / E 01131 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing-West am 06.10.2016
+- TOP 2.2.2.: Erinnerungsverfahren des Baureferats Tiefbau: a) Bauschadenswiederherstellung Elisabethstr. 91 / Ecke Schwere-Reiter-Straße b) Radwegsanierung Infanteriestraße zwischen Loth- und Schwere-Reiter-Straße c) Fahrbahnsanierung der Viktor-Scheffel-Straße zwischen Römer- und Belgradstraße d) Radwegrückbau in der Herzogstraße zwischen Ranke- und Belgradstraße
+- TOP 2.2.4.: (E) Georg-Birk-Straße und Ackermannbogen vom Durchgangsverkehr freihalten (Ziffer 1 des Antrags) Empfehlung Nr. 14-20 / E 01130 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 06.10.2016
+- TOP 2.2.6.: (E) Linksabbiegespuren aus der Schleißheimer Straße in die Karl-Theodor-Straße durch Markierung verdeutlichen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.2.: Sichere Überquerung der Belgradstraße in Höhe Unertlstraße (BA-Schreiben vom 24.11.2016)
+- TOP 3.2.2.: Römerstr. 14: Fällung eines Ahorn
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.4.: Stadtratsbeschlüsse: a) Evaluation der Fahrradstraßen in München – Abschlussbericht b) Durchführung von Verkehrsversuchen durch das KVR
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands Antrag des BA 15 Trudering-Riem auf Änderung der BA-Satzung
+- TOP F.2.: Städtisches Telefonbuch auf Alfresco zur Verfügung stellen
+- TOP G: Verschiedenes
+- TOP H: Termine
