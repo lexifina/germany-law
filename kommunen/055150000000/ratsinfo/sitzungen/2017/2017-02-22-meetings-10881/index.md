@@ -1,0 +1,54 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-02-22T17:35:00+01:00
+- Ende: 2017-02-22T19:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10881
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10881
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00400980.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohner/innen
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Satzung zur Änderung der Hauptsatzung - mehrheitlich beschlossen
+- TOP 11: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH) - von der Tagesordnung abgesetzt
+- TOP 12: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - von der Tagesordnung abgesetzt
+- TOP 13: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021 - von der Tagesordnung abgesetzt
+- TOP 14: "was geht!" Modellprojekt mit der Walter-Blüchert-Stiftung - mehrheitlich beschlossen
+- TOP 15: Klassenbildung an der Melanchthonschule - einstimmig beschlossen
+- TOP 16: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss Kita Normannenweg, Gremmendorf - mehrheitlich beschlossen
+- TOP 17: Genehmigung einer Dringlichkeitsentscheidung : Sanierung der Kath. Kindertageseinrichtung Maria Aparecida - mehrheitlich beschlossen
+- TOP 18: Antragstellung für das Projekt "Einwanderung gestalten NRW" - mehrheitlich beschlossen
+- TOP 19: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - einstimmig beschlossen
+- TOP 20: Städtisches Stadion Hammer Straße - 3. Sachstandsbericht zu den Sanierungsmaßnahmen - zur Kenntnis genommen
+- TOP 21: Errichtung der 2. Städtischen Gesamtschule - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Münster-West
+- TOP 22.1.1: 69. Änderung FNP - Erweiterter Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk Münster-Nord
+- TOP 22.2.1: Bebauungsplan Nr. 576: 1. Beschluss zur Aufstellung - 2. Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 22.3: Stadtbezirk Münster-Ost
+- TOP 22.3.1: Bebauungsplan HAN 3, 14. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 23: Umbesetzungen und Besetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 24.1: Gievenbeck in den Fokus nehmen - verwiesen
+- TOP 24.2: Hausnutzungsordnung für Münsters Rathaus - verwiesen
+- TOP 24.3: Bahnhaltepunkte barrierefrei machen - verwiesen
+- TOP 24.4: Neue Chancen für Münster: Eine Stadtbahn für unsere Stadt - verwiesen
+- TOP 24.5: Schritt halten mit der technischen Entwicklung – technische Ausstattung unserer Berufskollegs verbessern - verwiesen
+- TOP 24.6: Einführung einer Kastrations-, Kennzeichnungs- und Registrierpflicht für Freigänger-Katzen - verwiesen
+- TOP 24.7: Inklusion erfolgreich gestalten, Zeit für eine Bestandsaufnahme nehmen - verwiesen
+- TOP 25: Verschiedenes
