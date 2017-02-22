@@ -1,0 +1,127 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-02-22T17:00:00+01:00
+- Ende: 2017-02-22T22:51:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2985
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2985
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: ÖPNV-Anpassung Gerlinger Straße - gegenstandslos
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Finanzielle Aufwertung von sozialen Berufen - zurückgezogen
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - zurückgezogen
+- TOP 7.2: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Benennung eines stellvertretenden Mitgliedes für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Lichtblick für die Nutzung der Doppelsporthallen am Efeuweg und am Buckower Damm? - beantwortet
+- TOP 9.2: Verlängerung U7 zum BER - beantwortet
+- TOP 9.3: Schulturnhalle Sandsteinweg - beantwortet
+- TOP 9.4: Bußgelder wegen Schulschwänzen - beantwortet
+- TOP 9.5: Gesundheitliche Versorgung und Beschulung der Kinder aus der entstehenden Unterkunft am Columbiadamm - beantwortet
+- TOP 9.6: Mittel für Jugendarbeit - beantwortet
+- TOP 9.7: Verkürzte Heizperiode an der Wetzlar-Grundschule - beantwortet
+- TOP 9.8: Aufwandsentschädigung für Seniorenvertreter*innen - schriftlich beantwortet
+- TOP 9.9: Gestaltung der Freiflächen der Unterkunft für Geflüchtete in der Gerlinger Straße - schriftlich beantwortet
+- TOP 9.10: Patriarchale Gewalt gegen Mädcheneinrichtung? - schriftlich beantwortet
+- TOP 9.11: Fußgängerübergang Friedelstr./Pflügerstr. - schriftlich beantwortet
+- TOP 9.12: Zustand des Blub-Geländes - schriftlich beantwortet
+- TOP 9.13: Schulspeisung - schriftlich beantwortet
+- TOP 9.14: Neue Bewohner*innen in den Tempohomes in der Gerlinger Straße - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2016/2017 und im Jahr 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Lage von Geflüchteten und Stand der Unterbringung in Neukölln? - beantwortet
+- TOP 10.3: Wie neutral ist das Projekt "Schule ohne Rassismus - Schule mit Courage"? - beantwortet
+- TOP 10.4: Künftiger Umgang mit Asbestbelastung - beantwortet
+- TOP 10.5: Unterbringung von Geflüchteten in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Asbestregister und -sanierung durchführen - überwiesen
+- TOP 10.7: Zustimmung zur Entscheidung über den Ausbau der Radwege Buckower Damm zwischen Mohriner Allee und Bauhüttenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.8: Neukölln fahrrad- und fußgänger/innenfreundlich (9): Sicherheit in der High-Deck-Siedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Mehrsprachiges Informationsmaterial für Migrantinnen und Migranten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.10: Sehbehindertengerechte Stufen im Rathaus Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.11: Verkehrssicherheit Hermannplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.12: Milieuschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.13: Tempo 30 in der Gerlinger Str. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.14: Halteverbot in der Kanalstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.15: Fußgängerquerungshilfe (Fußgängerüberweg/ggfs. Anforderungsampel) in der Stubenrauchstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.16: Parken im Wendehalsweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.17: SAPV-Versorgung in Neukölln sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.18: Lichtzeichenanlage für Fußgänger*innen in der Lahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.19: Projekt „Stadtteilmütter“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.20: Gutachten/Studien der Öffentlichkeit zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.21: Verein Islamische Gemeinschaft e.V. wegen islamistischer Hetze verbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.22: Online-Formularservice auf berlin.de verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.23: Zeitplan für Milieuschutzgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: IHK – Außenstelle in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.25: Zusätzlicher Fahrradweg in der Kanalstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.26: Aufstellungsbeschluss für zwei soziale Erhaltungsgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.27: Genehmigungskriterien für den Milieuschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.28: Informationsveranstaltung "Bürgernahe Kommunalpolitik" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.29: Weitere Voruntersuchungen für die Einführung von sozialen Erhaltungssatzungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Impfschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.31: Würdiges Erscheinungsbild am Gedenkstein Britz wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.32: Sicherheitsgefühl für Frauen am Gemeinschaftshaus Gropiusstadt stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.33: Informationsveranstaltung Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller Vielfalt" (ISV) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.34: "Mitmachzirkus Mondeo retten" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.35: Unhaltbare Zustände in der Rettungsstelle des Klinikum Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.36: Patientenkoordinatoren/ -innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: Hundetagesstätte retten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.38: Fußgängerüberweg in der Köpenicker Straße / Alt Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.39: Neuköllner Einsatzgruppe Rechtsextremismus - beantwortet
+- TOP 10.40: Neuköllner Jugendarbeit - beantwortet
+- TOP 10.41: Maserninfektionen in Neukölln - vertagt
+- TOP 10.42: Serie rechter Gewalttaten in Neukölln - beantwortet
+- TOP 10.43: GO - Beteiligungsrechte gemäß Berliner Seniorenmitwirkungsgesetzes - überwiesen
+- TOP 10.44: Maßnahmen an Werner-Seelenbinder-Gedenkstätte - überwiesen
+- TOP 10.45: Antrag zur Geschäftsordnung - überwiesen
+- TOP 10.46: GO - Arbeitsweise der Ausschüsse - überwiesen
+- TOP 10.47: Antrag zur Geschäftsordnung II - überwiesen
+- TOP 10.48: Fußgängerampelzeit Werbellinstraße/ Ecke Morusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.49: Antrag zur Geschäftsordnung III - überwiesen
+- TOP 10.50: GO - Redaktionelle Änderung - überwiesen
+- TOP 10.51: Antrag zur Geschäftsordnung IV - überwiesen
+- TOP 10.52: Antrag zur Änderung der Geschäftsordnung - überwiesen
+- TOP 10.53: Trinkwasserspender für die Grundschule am Fliederbusch - überwiesen
+- TOP 10.54: Bushaltestelle “Seeadlerweg - überwiesen
+- TOP 10.55: Baumnachpflanzungen am Buckower Damm - überwiesen
+- TOP 10.56: Bebauungsplan XIV-78a vom 07.07.2015 („Hermannstraße 134“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.57: Bebauungsplan XIV-262b („Parkanlage Gerlinger Straße / Warmensteinacher Straße“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.58: Bebauungsplan XIV-290b („Am Großen Rohrpfuhl“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.59: Bebauungsplan XIV-274aba („Waßmannsdorfer Chaussee - Mauerweg“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.60: Pilotprojekt für Fahrradparken auf Fahrbahnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Anmeldung des Bezirks Neukölln zur Investitionsplanung für die Jahre 2017 - 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Genehmigung der im Haushaltsjahr 2015 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Müll-Chaos in Neukölln - vertagt
+- TOP 12.2: Drogenkonsum am U- und S-Bahnhof Neukölln - vertagt
+- TOP 12.3: Diskriminierung von Musliminnen mit Kopftuch - vertagt
+- TOP 12.4: Öffentl. Veranstaltung Bauvorhaben südl. Mariendorfer Weg - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: „Strategischer Leerstand“ Schillerpromenade - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ein Hauptstadtflughafen braucht auch eine Hauptstadtanbindung! Untertitel: Für eine Verlängerung der U7 bis zum BER - vertagt
+- TOP 14.2: Fahrradplätze Rathaus - vertagt
+- TOP 14.3: Beleuchtung am U- und S-Bahnhof Neukölln - vertagt
+- TOP 14.4: Political correctness: „Index der belasteten Ausdrücke“ - vertagt
+- TOP 14.5: Öffentl. Veranstaltung zu Bauvorhaben südl. Mariendorfer Weg durchführen - überwiesen
+- TOP 14.6: Erhalt der Brunnengalerie im Glockenblumenweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Wahlrecht für Obdachlose sicherstellen - überwiesen
+- TOP 14.8: Geschichtliche Aufarbeitung Wissmannstraße - vertagt
+- TOP 14.9: Neukölln wird Kinderfreundliche Kommune - überwiesen
+- TOP 14.10: Einbau eines Aufzuges am U-Bahnhof Parchimer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
