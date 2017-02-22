@@ -1,0 +1,56 @@
+# 16. Sitzung des Ortsgemeinderates Rohrbach
+
+- Körperschaft: Ortsgemeinde Rohrbach
+- Beginn: 2017-02-22T19:06:00+01:00
+- Ende: 2017-02-22T22:46:00+01:00
+- Ort: Dorfgemeinschaftshaus Rohrbach, Großer Saal, Am Dorfplatz 3, 76865 Rohrbach
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/400
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2017-400-94
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2017-400-94
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-400-94
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-400-94
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-400-94
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Fachmarktzentrum Rohrbach
+- TOP 3: Zustimmung zum Ausbaukonzept für die Wendegasse
+- TOP 4: Umgestaltung des Außengeländes bei der prot. Kindertagesstätte 'Samenkorn'
+- TOP 5: Nachwahlen in den Umwelt- und Verkehrsausschuss der Ortsgemeinde Rohrbach
+- TOP 6: Beratung des Forstwirtschaftsplanes 2017
+- TOP 7: Beratung und Erlass der Haushaltssatzung mit Haushaltsplan der Ortsgemeinde Rohrbach für das Haushaltsjahr 2017
+- TOP 8: Landesentwicklungsprogramm IV, 3. Teilfortschreibung
+- TOP 9: Vergabe des Auftrages zur Erneuerung von Wirtschaftswegen
+- TOP 10: Vergabe des Auftrages für die Brunnentechnik
+- TOP 11: Vergabe des Auftrages für die elektrotechnische Installation der Brunnentechnik
+- TOP 12: Nachtrag für den Bau des Brunnenbauwerks
+- TOP 13: Widmung von Gemeindestraßen
+- TOP 14: Ausweisung des Platzes vor dem Dorfgemeinschaftshaus als verkehrsberuhigter Bereich
+- TOP 15: Name für den Dorfplatz
+- TOP 16: Modifizierung der Pachtverträge mit dem Schützenverein 1959 Rohrbach e. V.
+- TOP 17: Landeswettbewerb 'Unser Dorf hat Zukunft' 2017
+- TOP 18: Folgerungen aus der Entwicklung der Friedhofskosten im Haushaltsjahr 2015
+- TOP 19: Neufassung des Vertrages über die Mitbenutzung der Gemeindestraßen, - wege und -plätze der Ortsgemeinde Rohrbach mit den Verbandsgemeindewerken Herxheim
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Mitteilungen und Anfragen Dorfgemeinschaftshaus
+- TOP 21.2: Mitteilungen und Anfragen Haus Pistor
+- TOP 21.3: Mitteilungen und Anfragen Niederschrift
+- TOP 21.4: Mitteilungen und Anfragen Verstopfter Straßeneinlauf
+- TOP 21.5: Mitteilungen und Anfragen Tempo 30 Insheimer Straße
+- TOP 21.6: Mitteilungen und Anfragen Termin Ratssitzung
+- TOP 21.7: Mitteilungen und Anfragen Flotte Feger
+- TOP 21.8: Mitteilungen und Anfragen Mobilfunk
+- TOP 21.9: Mitteilungen und Anfragen Haltelinie Ritter-von-Flörsheim-Straße
+- TOP 21.10: Mitteilungen und Anfragen Grillhütte
+- TOP 21.11: Mitteilungen und Anfragen Spielplatzausweisung bei Mehrfamilienhäusern
+- TOP 21.12: Mitteilungen und Anfragen Seniorenbeauftragter
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
