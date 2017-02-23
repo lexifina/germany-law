@@ -1,0 +1,165 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4275309
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4275309
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidungen des Vorsitzenden gemäß §20 Abs. 1 Satz 2 BA-Satzung
+- TOP 10: Unterrichtungen
+- TOP 10.1.1.1: Krieger- und Soldatenverein Trudering-Riem, Baumpflegearbeiten am Kriegerdenkmal in Trudering
+- TOP 10.1.1.2: Katholische Kirchenstiftung "Christi Himmelfahrt" - geistliches Konzert zur Adventszeit vom 11.12.2016
+- TOP 10.1.2.: Verwendungsnachweise
+- TOP 10.1.2.1: Freundeskreis der Ludwig-Thoma-Realschule e.V., WIR-Werkstatt
+- TOP 10.1.2.2: Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V.
+- TOP 10.3.1.1: Verkauf Horst-Salzmann-Weg, Flst.325/8
+- TOP 10.3.1.2: Verkauf Wasserburger Landstraße / Stolzhofstraße
+- TOP 10.3.1.3: Verkauf Bajuwarenstraße 92
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 10.4.1.1: Bergerwaldstraße 7
+- TOP 10.4.1.2: Birkhahnweg 49
+- TOP 10.4.1.3: Scharerweg 12
+- TOP 10.4.1.4: Reschstraße 4
+- TOP 10.4.1.5: Bartholomäerstraße 7
+- TOP 1.3.1.: 7.3.6 Änderung des Flächennutzungsplanes für den Bereich VI/25 und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2095 Feldbergstraße (westlich), Wasserburger Landstraße (nördlich); Verfahren nach § 4 Abs. 2 BauGB; Termin: 28.12.2016 Wiedervorlage aus der Dezembersitzung (TOP 7.3.4) und der Novembersitzung (TOP 7.3.5)
+- TOP 1.3.2.: 7.4.12 Turnerstraße 3, Fl.Nr. 224/3 - Neubau eines Einfamilienhauses mit Garage
+- TOP 1.3.3.: 8.2.17 Kurzhuberstraße 7
+- TOP 1.3.4.: 8.2.18 Am Hochacker 44
+- TOP 1.3.5.: 8.2.19 Hochkönigstraße 6
+- TOP 1.3.6.: 8.2.20 Truderinger Straße 265
+- TOP 1.3.7.: 8.2.21 Turnerstraße 25a
+- TOP 1.3.8.: 8.2.22 Postweg (ohne Hausnummer)
+- TOP 1.3.9.: 8.2.23 Mondseestraße 22
+- TOP 1.3.10.: 8.2.24 Iltisstraße 36
+- TOP 1.3.11.: 8.2.25 Häherweg 26
+- TOP 1.3.12.: 8.2.26 Wardeinstraße 16
+- TOP 1.3.13.: 8.2.27 Neusönnerstraße 7
+- TOP 1.3.14.: 9.1.2 Wasserburger Landstr./Feldbergstr., Truderinger Faschingstreiben am 28.02.2017 Frist 22.02.2017 - Antrag erst am 16.02.2017 beim VVB eingegangen
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer des Gymnasiums Trudering e.V. Anschaffung von Schlaginstrumenten Az. 0262.0-15-0215
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule an der Balanstraße Erstellung einer Schulhomepage Az. 0262.0-15-0214
+- TOP 2.2.1.: (E) Nutzung der Busbucht an der Haltestelle Markgrafenstraße durch die Busse der Linien 195 und 192 Empfehlung Nr. 14-20 / E 01187 der Bürgerversammlung des Stadtbezirkes 15 – Trudering-Riem am 06.10.2016
+- TOP 2.2.2.: (E) Sperrung der Lehrer-Wirth-Straße vor der Schule für den Autoverkehr
+- TOP 2.2.3.: (E) Einhaltung der Tempo-30 Zone in der Zehntfeldstraße
+- TOP 2.2.4.: (E) „Flohmarktparkplatz“ öffnen bei Bürgerversammlungen in der Riemer Messestadt Empfehlung Nr. 14-20 / E 01193 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 06.10.2016
+- TOP 2.2.5.: Friedensgrottensicherung Empfehlung Nr. 14-20 / E 01164 der Bürger­ver­- sammlung des Stadtbezirkes 15 - Trudering-Riem am 06.10.2016
+- TOP 3.2.1.: Verkehrssichere Fuß- und Radwegführung aus Gartenstadt Trudering in das Straßtruderinger Ortszentrum Vertagung aus der Januarsitzung
+- TOP 3.2.2.: blaue Zone in der Messestadt-Ost - wo sollen die Anwohner ihre Autos abstellen? Stellungnahme der Polizeiinspektion 25 zur Nachfrage des BA aus der Januarsitzung
+- TOP 3.2.3.: Wasserburger Landstraße - Freigabe der Fahrradwege in beide Fahrtrichtungen
+- TOP 3.2.4.: Buslinie 194 - Taktverdichtung in den Hauptverkehrszeiten
+- TOP 3.3.1.: Bebauung Unnützwiese - Schaffung eines Spiel- und Sportbereichs mit ähnlichem Charakter und entsprechender Größe in unmittelbarer Nähe Wiedervorlage aus der Sondersitzung zur Unnützwiese vom 06.12.2016
+- TOP 3.6.1.: Baumschutz in München ist Klimaschutz für München Die Münchner Bezirksausschüsse handeln - jetzt! Vertagung aus der Januarsitzung
+- TOP 4.1.: Für bebaute Grünflächen Biotope oder dauerhaft gesichterte Grünflächen als Ausgleich schaffen Antrag zu TOP 4.1 / 0117 in der Januarsitzung durch Antragsteller zurückgezogen und aktualisiert für die Februarsitzung eingereicht
+- TOP 4.2.: Realteilung der Unnützwiese
+- TOP 4.3.: Erweiterung des Riemer Parks – Erwerb privater Flächen
+- TOP 4.4.: Für Grünflächen Ausgleich schaffen
+- TOP 4.5.: 5. Bauabschnitt Messestadt / bzw. Kirchtrudering
+- TOP 4.6.: Antrag zu WAL-Vorhaben Bajuwarenstraße/Unnützwiese - Sicherung der Grünfläche des verbliebenen Grundstücks Unnützwiese als Spielfläche - Sitzungsvorlage Nr. 14-20 / V XXXXX Wiedervorlage aus der Sondersitzung zur Unnützwiese vom 06.12.2016
+- TOP 5.1.: Ökologische Ausgleichsflächen für Trudering-Riem
+- TOP 5.2.: Batschkastraße - Beleuchtung der öffentlichen Grünfläche zwischen Feldbergstraße und Friedensprommenade
+- TOP 5.3.: Am Moosfeld - Verkehrssicherheit vor der KiTa "Kleine Piraten"
+- TOP 5.4.: Batschkastraße - Geschwindigkeitsmessungen
+- TOP 5.5.: Elf Jahre nach der BUGA: Weitere "Wilde" Wege barrierefrei machen
+- TOP 5.6.: Von-Erckert-Straße - Geschwindigkeitskontrolle nördlich der Wasserburger Landstraße
+- TOP 5.7.: Stellungnahme des Kreisverwaltungsreferats zum TOP 7.1.1/1216 Übersicht der Veranstaltungen im Riemer Park im Jahr 2016 Rückmeldung des KVR zur Nachfrage des BA aus der Januarsitzung
+- TOP 5.8.: Verlegung der Wasserwacht Riemer See - Darstellung eines konkreten Bauprojektes Antrag zum Antwortschreiben des Referates für Stadtplanung und Bauordnung zum BA-Antrag-Nr. 14-20 / B 01737
+- TOP 5.9.: Missbräuchliche Benutzung der Fußgängerzone und Feuerwehrzufahrt Flughafen-Riem-Straße / Antrag zur Anbringung geeigneter Absperrpfosten Rückmeldung der Branddirektion
+- TOP 5.10.: Einrichtung einer Blinkhaltestelle an der Bergerwaldstraße, Buslinie 192
+- TOP 5.11.: Birkhahnweg - Antrag auf Errichtung eines Abfalleimers in Kombination mit Beutelspendern - "Hunde WC"; Bürgerantrag vom 14.11.2016
+- TOP 5.12.: fehlende Erdgastankstelle im 15. Stadtbezirk
+- TOP 5.13.: Wertstoffinseln wirksam entmüllen und besser in Grünanlagen einbinden
+- TOP 5.14.: Einführung eines Jahresabonnements auch im Ausbildungstarif des MVV
+- TOP 5.15.: Betrieb einer Hundeschule im Riemer Park (Anhörung aus der Januarsitzung) Stellungnahme des KVR zur ökologischen Ausgleichsfläche
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Evaluierung der Sondernutzungsrichtlinien Termin: 10.03.2017
+- TOP 7.1.2.: Hindernislauf XLETIX Challenge / Muddy Angel Run am 24./25.06.2017 Wiedervorlage aus der Dezembersitzung aufgrund Schreiben Veranstalter und Vorlage eines neuen Konzeptes
+- TOP 7.1.3.: Sonnwendfeuer am 17.06.2017 Wasserburger Landstr. 32/Feldbergstr. 95 Termin 03.03.2017
+- TOP 7.1.4.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands; Antrag der CSU-Fraktion BA-Antrags-Nr. 14-20 / B 03074 des Bezirksausschusses des Stadtbezirks 15 - Trudering-Riem vom 24.11.2016
+- TOP 7.1.5.: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen Sitzungsvorlage Nr. 14-20 / V XXXXXX Beschluss des Verwaltungs- und Personalausschusses vom 10.05.2017 (VB) Stellungnahme des BA zum Beschlussentwurf
+- TOP 7.1.6.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017 Frist: 24.03.2017
+- TOP 7.1.7.: Veranstaltung auf der Sonderfläche Riem "Asiafest - Kultur live erleben" vom 16. bis 18.06.2017
+- TOP 7.1.8.: Betriebszeitenänderung von bisher 22.00 Uhr auf gesetzliche Sperrzeit Schank- und Speisewirtschaft - Henrys Deli, Willy-Brandt-Platz 5
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: "Aktive Stadtteil- und Ortsteilzentren im Stadtteil Trudering" Truderinger Straße zwischen Friesenstraße und Schmuckerweg mit Wasserburger Landstraße / Bajuwarenstraße (Plan Nr. 1) Vertagung aus der Januarsitzung, Fristverlängerung bis 03.03.2017
+- TOP 7.2.2.: Marianne-Plehn-Straße 63 Haltverbot Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Beschlussentwurf Verkehrskonzept Münchner Norden Öffentlicher Personennahverkehr / Schienenpersonennahverkehr Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referats für Stadtplanung und Bauordnung Frist: 01.03.2017
+- TOP 7.3.2.: Bauleitplanung Gemeinde Haar 1. Änderung des B-Plans Nr. 186 „für einen Teilbereich südlich der Herzogstandstraße und nördlich der Bahnlinie in Gronsdorf“ Verfahren nach § 4a Abs. 3 BauGB
+- TOP 7.3.3.: WAL-Vorhaben Bajuwarenstraße / Unnützstraße Sitzungsvorlagen Nr. 14-20 / V XXXXX Beschluss des Ausschusses für Stadtplanung und Bauordnung vom ____ (SB) Öffentliche Sitzung Wiedervorlage aus der Sondersitzung zur Unnützwiese vom 06.12.2016
+- TOP 7.3.4.: Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß §13 der Bezirksausschusssatzung Flst. 176/1 (Tlfl.) auf der Höhe Emplstraße 1 privater, nicht gewidmeter Straßengrund der Stadt (160qm²)
+- TOP 7.3.5.: Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß §13 der Bezirksausschusssatzung Flst. 176/1 (Tlfl.) auf der Höhe Emplstraße 1 privater Straßengrund der Stadt (105qm²)
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Kreuzerweg 33, Fl.Nr.: 877/2 - DG-Aufstockung zur Errichtung von 5 WE, Ausbau des Souterrains mit 5 WE, Errichtung eines Unterflurparksystems
+- TOP 7.4.2.: Solalindenstraße 75, Fl.Nr.: 405/46 - Neubau von 4 verbundenen Stadthäusern mit Duplex-Parker
+- TOP 7.4.3.: Truderinger Straße 208, Fl.Nr.: 345/7 - Neubau eines Mehrfamilienhauses
+- TOP 7.4.4.: Truderinger Straße 208, Fl.Nr.: 345/7 - Neubau eines Reihenendhauses
+- TOP 7.4.5.: Frau-von-Uta-Straße 8, Fl.Nr.: 169/9 - Neubau einer Doppelhaushälfte mit Einliegerwohnung und Doppelcarport
+- TOP 7.4.6.: Mönchbergstraße 14, Fl.Nr. 334/118 - Neubau eines Einfamilienhauses mit Garagen
+- TOP 7.4.7.: Zehntfeldstraße 235b, Fl.Nr.: 386/1 - Neubau eines Einfamilienhauses mit Garage - VORBESCHEID
+- TOP 7.4.8.: Scharerweg 18, Fl.Nr.: 296/14 - Neubau eines Einfamilien- und eines Doppelhauses mit Garage und 2 Stellplätzen - TEKTUR zu 1.2-2016-24675-32
+- TOP 7.4.9.: Dachsteinstraße 4, Fl.Nr. 779/0 - Neubau eines 8-Familienhauses mit Tiefgarage
+- TOP 7.4.10.: Am Moosfeld 21 - Fl.Nr.: 104/6 - Unterbringung von Flüchtlingen und Wohnungslosen; Aufstockung und Nutzungsänderung eines Büro- und Geschäftshauses in eine Unterkunft zur vorübergehenden Unterbringung von Flüchtlingen
+- TOP 7.4.11.: Gartenstadtstraße 6, Fl.Nr.: 319/8 - Neubau eines Mehrfamilienhauses (7WE) mit TG (8 Stpl.)
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 7.6.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Neuvorschläge für schützenswerte Bäume im Stadtbezirk Frist: 26.04.2017
+- TOP 7.6.2.: Baumschutz in München ist Klimaschutz für München Die Münchner Bezirksausschüsse handeln - jetzt! Schreiben des BUND Naturschutz in Bayern e.V.
+- TOP 8.1.1.: Adelmannstraße 15 Gertraudenstraße 14 Gorch-Fock-Straße 14-16 Lachenmeyerstraße 18 Schwedensteinstraße 33c
+- TOP 8.2.1.: Am Moosfeld 21 Bahnstraße 13 Bajuwarenstr. 137a Birkhahnweg 49 Dachsteinstraße 4 Fauststraße (ohne Hausnummer) Gartenstadtstraße 6 Gerstäckerstraße 28 Günderodestraße 6c In der Heuluss 5 Mönchbergstraße 14 Reiherweg 16a Scharerweg 4 Solalindenstraße 75 Turnerstraße 31 Wachtelweg 26 Zehntfeldstraße 235b
+- TOP 9.1.1: Anhörung nach § 29 StVO Riemer Park, Deutsche Gesellschaft für Chirurgie e.V., Organspendelauf, Start Am Messesee, 22.03.2017 Frist: 20.02.2017 - konnte laut Auskunft KVR nicht verlängert werden
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Sachberichte
+- TOP 10.1.2.3: Katholische Kirchenstiftung "Christi Himmelfahrt" - geistliches Konzert zur Adventszeit vom 11.12.2016
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Wasserburger Landstraße 268/272 Änderung der zeitlichen Befristung der Kurzparkzone Ausführung des Auftrags unter Bezugnahme auf BA-Antrag-Nr. 14-20 / B 02959.
+- TOP 10.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Mona-Lisa-Straße Auftrag ausgeführt
+- TOP 10.2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Birthälmerstraße Auftrag ausgeführt
+- TOP 10.2.4.: Evaluation der Fahrradstraßen in München Abschlussbericht Sitzungsvorlage Nr. 14-20 / V 07432 Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.2017 (SB)
+- TOP 10.2.5.: Durchführung von Verkehrsversuchen durch das KVR Sitzungsvorlage Nr. 14-20 / V 07549 Beschluss der Vollversammlung des Stadtrates vom 25.01.2016
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: Mitteilungen über Grundstücksgeschäfte
+- TOP 10.3.2.: Satzung über ein besonderes Vorkaufsrecht - Vorkaufssatzung - an unbebauten und bebauten Grundstücken im Sinne des § 25 Absatz 1 Satz 1 Nr. 2 BauGB für das Gebiet der geplanten städtebaulichen Entwicklungsmaßnahme für den Münchner Nordosten Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem Sitzungsvorlage Nr. 14-20 / V 07915 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2017 (VB)
+- TOP 10.3.3.: Beteiligung der Öffentlichkeit frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches (BauGB) Planungsgebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/32 und Bebauungsplan mit Grünordnung Nr. 1728d Teil 2 Am Hüllgraben (südlich), Paul-Wassermann-Straße (westlich) Am Mitterfeld (östlich), Landschaftspark (nördlich) Planungsdarlegung vom 23.01.2017 mit 23.02.2017
+- TOP 10.3.4.: Messestadt Riem EM 265 Platz Zentrum Ost Michael-Ende-Straße (erstmalige Herstellung der öffentlichen Verkehrsflächen bzw. Anpassungen gemäß den Festsetzungen der Bebauungspläne mit Grünordnung Nr. 2065 und Nr. 1728 h) Willy-Brandt-Allee Umbau der Parallelfahrbahn zwischen Heinrich-Böll- und Selma-Lagerlöf-Straße (Parkplatzbau) im 15. Stadtbezirk Trudering - Riem Projektkosten: 4.300.000 Euro 1. Genehmigung des Nutzerbedarfsprogramms 2. Beauftragung der MRG mit der Vorplanung Aufzug "Quartiersplatz Messestadt Zentrum Ost" Antrag Nr. 14-20 / B 02207 des Bezirksausschusses des Stadtbezirkes 15 Trudering - Riem vom 17.03.2016 Sitzungsvorlage Nr.14-20 / V 06665 Beschluss des Bauausschusses vom 31.01.2017 (SB)
+- TOP 10.3.5.: Werbeanlagenverordnung erlassen Empfehlung Nr. 08-14 / E 00827 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt - Lehel am 03.12.2015 Sitzungsvorlagen Nr. 14-20 / V 06471 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.20.2017 (SB)
+- TOP 10.3.6.: Ökologischer Kriterienkatalog Fortschreibung 2016/2017 Sitzungsvorlagen Nr. 14-20 / V 02989 Beschluss es Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017 (VB)
+- TOP 10.3.7.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle" Schreiben der Stadtbaurätin an die Vorsitzende des BA 10 Moosach
+- TOP 10.4: UA Planung
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Sachstandsbericht zu Neu- und Sanierungsmaßnahmen alle 6 Monate BA-Antrag-Nr. 08-14/ B 0 3947 des Bezirksausschusses des Stadtbezirks 07 - Sendling-Westpark vom 08.05.2012
+- TOP 10.5.2.: Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen, Maßnahmenpaket 3 Kunstrasenplatzbau - Produkt 6.1 - Bezirkssportanlage Feldbergstr. 65 (15. Stadtbezirk Trudering-Riem) Projektkosten (Kostenobergrenze): 3.380.000 € netto 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag und Projektgenehmigung 3. Genehmigung zur Durchführung der vorgezogenen Baumfällungen Sitzungsvorlage Nr. 14-20 / V 07799 Beschluss des Sportausschusses des Stadtrates vom 22.02.2017 (SB)
+- TOP 10.5.3.: Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017 Sitzungsvorlage Nr. 14-20 / V 07829 Bekanntgabe des Bildungsausschuss des Stadtrates vom 22.02.2017
+- TOP 10.5.4.: Übergangsklassen für das neue Schulzentrum Empfehlung Nr. 14-20 / E 01161 der Bürgerversammlung des Stadtbezirk 15 - Trudering-Riem vom 06.10.2016 Sitzungsvorlage Nr. 14-20 / V 07834 Beschluss des Sportausschusses des Stadtrates vom 22.02.2017 (SB)
+- TOP 10.5.5.: Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017 Sitzungsvorlage Nr. 14-20 / V 07846 Bekanntgabe im Bildungsausschuss des Stadtrates vom 22.02.2017
+- TOP 10.5.6.: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016 Sitzungsvorlage Nr. 14-20 / V 07866 Beschluss des Bildungsausschusses des Stadtrates vom 22.02.2017 (SB)
+- TOP 10.5.7.: Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017 Sitzungsvorlage Nr. 14-20 / V 07867 Bekanntgabe im Bildungsausschuss des Stadtrates am 22.02.2017
+- TOP 10.6: UA Umwelt
