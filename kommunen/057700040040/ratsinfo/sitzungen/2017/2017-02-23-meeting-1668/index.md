@@ -1,0 +1,56 @@
+# Rat (20. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2017-02-23T17:00:00+01:00
+- Ende: 2017-02-23T20:05:00+01:00
+- Ort: Gasthaus Rüter, Hahnenkamp 2, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZR9S_IkKcLoDM5tpifX6Br4
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1668
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZewiQk-9l1f9mBe_pMDYDWpZa_8-2fJKmcymMTXEwmwZ/Bekanntmachung_Rat_23.02.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVSu8k5zxo895BhaK0bKLRe4hOXP86W2JtZkw6Sk1GtT/Oeffentliche_Niederschrift_Rat_23.02.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Verabschiedung eines Ratsmitgliedes
+- TOP 3.: Einführung neuer Ratsmitgliedes durch den Bürgermeister
+- TOP 4.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 5.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 6.: Überplanung des Rahdener Friedhofes durch eine Landschaftsplanerin - Ohne Abstimmung
+- TOP 7.: Ersatzwahlen zu Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 8.: Ersatzwahl in den Beirat des Kommunalen Rechnenzentrums Minden-Ravensberg / Lippe - Einstimmig, 0 Enthaltungen
+- TOP 9.: Ersatzwahl in den Verwaltungsrat der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 10.: Bestimmung des Vorsitzenden des Betriebsausschusses Wasser und Abwasser und des stellvertretenden Vorsitzenden des Betriebsausschuss Straßen - Ohne Abstimmung
+- TOP 11.: Wahl eines Ortsvorstehers für die Ortschaft Tonnenheide - 19 Stimmen dafür, 4 dagegen, 11 Enthaltungen
+- TOP 12.: 15. Änderung des Bebauungsplanes Nr. 13 „Gerichtsstraße/Flachsstraße" Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gem. § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 15. Änderung des Bebauungsplanes Nr. 13 „Gerichtsstraße/Flachsstraße“ gem. § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltung (Spreen)
+- TOP 13.: Bebauungsplan Nr. 88 "Vorranggebiet Windkraftanlagen Beekebruch"; hier: Verlängerung der bestehenden Veränderungssperre - Einstimmig, 0 Enthaltungen
+- TOP 14.: OWL-Bewerbung für die REGIONALE 2022/25 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Ausbau eines zweiten Sportplatzes am Tonnenheider Kirchweg durch den Sportverein "TuS Eintracht Tonnenheide" - Einstimmig, 0 Enthaltungen
+- TOP 16.: Umbau und Erweiterung des Rathauses - Ohne Abstimmung
+- TOP 17.: Bildung und Besetzung der Schiedsamtsbezirke - Einstimmig, 0 Enthaltungen
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.: Bekanntgaben
+- TOP 19.1: Änderung bei der Abfallentsorgung - Ohne Abstimmung
+- TOP 19.2: Grundschulverbund Tonnenheide-Wehe-Pr. Ströhen der Stadt Rahden
+- TOP 19.3: Fraktionsvorsitz in der CDU-Fraktion
+- TOP 19.4: Werkstraße MeierGuss
+- TOP 19.5: Jahresschlussdienst der Feuerwehr der Stadt Rahden
+- TOP 20.: Verschiedenes
+- TOP 20.1: Geplante Ausdünnung der Wegweisungsbeschilderung entlang der B 239 zu Lasten der Zielführung zu den Gewerbegebieten im Stadtgebiet Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.2: Werkstraße MeierGuss
+- TOP 20.3: Rundwanderwege am Museumshof Rahden
+- TOP 20.4: Ortseingangsschilder in Rahden, Bereich Nordweg
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 21.: Genehmigung des Beschlusses des Verwaltungsrates der Stadtsparkasse Rahden über die Wiederbestellung eines stellvertretenden Vorstandsmitgliedes - Einstimmig, 0 Enthaltungen
+- TOP 22.: Grundstücksangelegenheiten
+- TOP 22.1: Grundstücksangelegenheiten; hier: Erwerb von Erweiterungsflächen für das Gewerbegebiet Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 22.2: Grundstücksangelegenheiten; hier: Veräußerung von Flächen im Gewerbegebiet Süd - Einstimmig, 0 Enthaltungen
+- TOP 22.3: Erwerb von zwei Grundstücken - 32 Stimmen dafür, 2 dagegen (Bündnis 90/Die Grünen), 0 Enthaltungen
+- TOP 22.4: Abschluss eines Grundstückstauschvertrages - Einstimmig, 0 Enthaltungen
+- TOP 22.5: Bekanntgabe der im IV. Quartal 2016 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 23.: Bekanntgaben
+- TOP 24.: Verschiedenes
