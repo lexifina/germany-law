@@ -1,0 +1,51 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-02-28T16:00:00+01:00
+- Ende: 2017-02-28T18:15:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12955
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12955
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286916.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286916.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286916.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Sachstand zum neuen Pfarrzentrum St. Matthäus - zur Kenntnis genommen
+- TOP 4.2: Garath 2.0 – Den Wandel gestalten - einstimmig beschlossen
+- TOP 4.3: Konzept zur Einführung des Projektes "Notinsel" - einstimmig beschlossen
+- TOP 4.4: Zuschuss an den Förderverein der Willi-Fährmann-Schule - einstimmig beschlossen
+- TOP 4.5: Beauftragung des Catering im Rahmen des Festaktes zur Übergabe der Ehrenauszeichungen - einstimmig beschlossen
+- TOP 4.6: Zulassung von Vertreterinnen des Jugendrates - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an Kin-Top e.V. - - vertagt
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Grundstücke im Bezirk 10 Garath/Hellerhof - zur Kenntnis genommen
+- TOP 5.2: Betretungsrecht im Garather Forst - zur Kenntnis genommen
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Situation Hotel Achteck - zur Kenntnis genommen
+- TOP 6.2: Unterbringung von Asylanten in Wohnungen - zur Kenntnis genommen
+- TOP 6.3: Austausch konventioneller Straßenleuchten gegen LED-Leuchten im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 6.4: Reinigung von Straßenschilder im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 6.5: Anmeldezahlen an den Schulen im Bezirk 10 - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Resolution: Ächtung von sexuellen Übergriffen durch die Bezirksvertretung - zur Kenntnis genommen
+- TOP 7.2: Standortprüfung der Recycling-Glascontainer Jakob-Kneip-Straße - einstimmig beschlossen
+- TOP 7.3: Reparatur Fahrrad- und Fußgängerweg, Frankfurter Straße - einstimmig beschlossen
+- TOP 7.4: Errichtung eines zentralen "Mobilfunkturms" für den Stadtteil Düsseldorf-Garath - einstimmig beschlossen
+- TOP 7.5: Einladung eines Vertreters/ einer Vertreterinder IPM (Immobilien Projekt Management GmbH) - zurückgezogen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Kennzeichnung der Verkehrsinsel Frakfurter Straße/Matthias-Erzbergerstraße - zur Kenntnis genommen
+- TOP 8.2: Reinigung von "privaten" Gullys in Garath Süd-West - zur Kenntnis genommen
+- TOP 8.3: Regelmäßige Reinigung der Seitewände in der S-Bahnunterführung Garath - zur Kenntnis genommen
+- TOP 8.4: "Blaues Band"; Entfernung Stolperstellen - zur Kenntnis genommen
+- TOP 8.5: Fuß-/Radweg Paul-Bonatz-Straße - zur Kenntnis genommen
+- TOP 8.6: Einsatz der Geschwindigkeitsanzeigetafeln im Stadtbezirk 10 im Jahre 2016 - zur Kenntnis genommen
+- TOP 9: Verschiedenes
