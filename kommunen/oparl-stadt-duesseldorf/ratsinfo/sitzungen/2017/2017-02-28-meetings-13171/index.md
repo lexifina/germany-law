@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-02-28T17:00:00+01:00
+- Ende: 2017-02-28T20:20:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13171
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13171
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286932.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286932.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286932.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 31.01.2017 - einstimmig beschlossen
+- TOP 3: Zulassung einer Vertreterin / eines Vertreters des Jugendrates - einstimmig beschlossen
+- TOP 4: Vorstellung der Dezernentin für Planen, Bauen und Grundstückswesen - zur Kenntnis genommen
+- TOP 5: Städtebauliche Entwicklung für den Stadtbezirk 5 - beantwortet
+- TOP 6: Plan Nr. 5488/019 - S-Bahnhof Angermund - - Empfehlung einstimmig beschlossen
+- TOP 7: Bebauungsplan-Entwurf Nr. 05/002 (eh. 5488/019) - S-Bahnhof Angermund - - Empfehlung einstimmig beschlossen
+- TOP 8: Bebauungsplan-Entwurf Nr. 05/006 (eh. 5487/009- Nördlich Wacholderstraße - - Empfehlung abweichend beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen Stb. 5 - abweichend beschlossen
+- TOP 14: Trödelmarkt auf dem Messeparkplatz P 1 im März 2017 - einstimmig beschlossen
+- TOP 15: Perspektiven für das Marienkrankenhaus in Kaiserswerth - beantwortet
+- TOP 16: Aufwertung der Fläche Amsterdamer Straße/Kaiserswerther Straße/Stockumer Kirchstraße - beantwortet
+- TOP 17: Behandlung der U79 im Nahverkehrsplan 2017 - beantwortet
+- TOP 18: Gehwegbeleuchtung - beantwortet
+- TOP 19: Geschwindigkeitsmessungen im Stadtbezirk 5 - beantwortet
+- TOP 20: Nordstern Abfahrt Danziger Straße/Flughafen - Rotlichüberwachungsanlage
+- TOP 21: Nachtverkehr in den Stadtbezirk 5 werktags
+- TOP 22: Legionellenbefall Duschanlage Franz-Vaahsen-Grundschule Wittlaer - beantwortet
+- TOP 23: Verkehrssicherheit vor der Ladenzeile Stockum
+- TOP 24: LKW-Verkehre auf der Stockumer Kirchstraße - beantwortet
+- TOP 25: Fahrgastunterstand Endstation Buslinie 728 - Kalkweg - mehrheitlich abgelehnt
+- TOP 26: Rotlichtüberwachungsanlage Nordstern - einstimmig beschlossen
+- TOP 27: Klare Verhältnisse zwischen Freiligrathplatz und Am Hain - einstimmig beschlossen
+- TOP 28: Renaturierung Angermunder Baggerseen - einstimmig beschlossen
+- TOP 29: Grüner Pfeil Niederrheinstraße/Alte Landstraße - einstimmig beschlossen
+- TOP 30: U-Turn Verbot auf der B8n Richtung Duisburg - einstimmig beschlossen
+- TOP 31: Beleuchtung Grünzug Kaiserswerth - einstimmig beschlossen
+- TOP 32: Verkehrssicherheit auf der Fliednerstraße - mehrheitlich beschlossen
+- TOP 33: Stellungnahmen und Mitteilungen 28.02.2017 - zur Kenntnis genommen
+- TOP 34: Verschiedenes - zur Kenntnis genommen
