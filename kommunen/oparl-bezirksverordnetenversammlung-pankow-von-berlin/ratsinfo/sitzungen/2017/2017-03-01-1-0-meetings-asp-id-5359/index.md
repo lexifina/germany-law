@@ -1,0 +1,73 @@
+# 5. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-03-01T17:30:00+01:00
+- Ende: 2017-03-01T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5359
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5359
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=138701
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Sanierung des Bezirksamts-Geländes Fröbelstraße 17 ökologisch gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.5.1: Altlasten im Bereich des Geländes zum Güterbahnhof Greifswalder Str. - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - beantwortet
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl der Bürgerdeputierten für den Integrationsausschuss der Bezirksverordnetenversammlung für die VIII. Wahlperiode - gewählt
+- TOP 1.9: Wahl der Bürgerdeputierten für den Integrationsausschuss der Bezirksverordnetenversammlung Pankow von Berlin für die VIII. Wahlperiode - erledigt
+- TOP 1.10: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.11: Anmeldung des Bezirks Pankow zur Investitionsplanung 2017 bis 2021 - mit Änderungen in der BVV beschlossen
+- TOP 1.12: Bebauungsplan 3-29 für das Grundstück Kuglerstraße, Lewaldstraße 2, Scherenbergstraße im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Änderung der Aufstellordnung der Stellplätze in der Anton-Saefkow-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sicherheit auf dem und Nutzbarkeit des Spielplatz(es) an der Schäferstege erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Kreisverkehr für die Kreuzung Treseburger Straße/Karower Damm in Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Fußgängerüberweg in der Berliner Straße auf Höhe der Dr. Markus Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Verlängerung des Radfahrweges auf der Prenzlauer Promenade - überwiesen
+- TOP 1.18: Welt-Down-Syndrom-Tag am 21.3.: Es ist normal verschieden zu sein! - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fahrradinfrastruktur in der Metzer Straße - überwiesen
+- TOP 1.20: Stärkung der Bürgerbeteiligung durch eine „Partizipative Budgetierung“ - überwiesen
+- TOP 1.21: Beratung der Investitionsplanung ermöglichen – Bürgerbeteiligung ernst nehmen - mit Änderungen in der BVV beschlossen
+- TOP 1.22: Barrierefreiheit für das Amtshaus Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Verlängerung der Buslinien 124 und 154 zur Marthas-Aue - überwiesen
+- TOP 1.24: Spielplatzkommission: Pankows Kinder und Jugendliche fragen - überwiesen
+- TOP 1.25: Radverkehrsanlage auf der Südseite des Stiftsweges und der Bleicheroder Straße anlegen - überwiesen
+- TOP 1.26: Städtebauliche Entwicklungen im Nordostraum nur unter Berücksichtigung der verkehrlichen Infrastruktur – erst Erschließung sicherstellen, dann bauen! - überwiesen
+- TOP 1.27: Ergänzung der Prüfkriterien für Anträge in den Erhaltungsgebieten nach § 172 Absatz 1 Satz 1 Nummer 2 BauGB (Soziale Erhaltungsgebiete) im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Bauarbeiten auf den Linien S2 und S8: Leistungsfähigen Schienenersatzverkehr gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Soziale Erhaltungsziele besser durchsetzen – Sozialplanverfahren für Modernisierungsmaßnahmen zur Anpassung an den allgemeinen Standard einführen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Informationsveranstaltung zur geplanten Bebauung der Falkenberger Straße 151-154 - überwiesen
+- TOP 1.31: Durchsetzbarkeit der Erhaltungsziele in den Gebieten des sozialen Erhaltungsrechts verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Temporäre Lichtsignalanlage Hubertusdamm/Bahnhofstraße - überwiesen
+- TOP 1.33: Keine parallelen Bauarbeiten an und auf der A 114 während des SEV - überwiesen
+- TOP 1.34: Weitere Fahrradabstellanlangen am S-Bahnhof Karow errichten - überwiesen
+- TOP 1.35: Mehr Verkehrssicherheit für Fußgänger - überwiesen
+- TOP 1.36: Änderung Beschluss der BVV - VIII-0042 - Kinder- und Jugendhilfeausschuss und Ausschuss für Soziales, Senio*rinnen, Arbeit und Wirtschaft tagen im Wechsel - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Wahl eines Mitgliedes in den Vorstand der Albert-Schweitzer-Stiftung -Wohnen & Betreuen gemäß § 4 Absatz f - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Lichtsignalanlage an der Kreuzung Lessingstraße / Hauptstraße in Wilhelmsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Fußgängerüberweg an der Bucher Chaussee in Höhe Hofzeichendamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Querungshilfe in der Straße Alt-Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Bedarfsprüfungen für die ergänzende Betreuung im offenen Ganztagsbetrieb abschaffen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Güterbahnhof Greifswalder Straße Ost erhalten und entwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Prioritäten für die Entwicklung von Wohnungsbaustandorten im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Gemeindepsychiatrischen Verbund qualifizieren und weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Verkehrschaos in Französisch-Buchholz verringern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Durchsetzung der Parkordnung im Pölnitzweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Schulwegsicherheit an der Hauptstraße und der Berliner Straße in Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Straße/ BAB A114 sowie Bucher Straße / Pankgrafenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Sicherung des Übergangs für VerkehrsteilnehmerInnen an der Kreuzung Heinersdorferstr./Langhansstr. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Bildung eines Frauenbeirates Pankow für die VIII. Wahlperiode beim Bezirksamt Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Bebauungsplan IV-36B für die Grundstücke Pasteurstraße 22/26 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Der Bezirk Pankow tritt der Initiative „Mayors for Peace“ (Bürgermeister für den Frieden) bei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Bebauungsplan 3-29 für das Grundstück Kuglerstraße, Lewaldstraße 2, Scherenbergstraße im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
