@@ -1,4 +1,5 @@
 # Sächsische Bauordnung (SächsBO)1
+Rechtsbereinigt mit Stand vom 1. März 2017
 Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Anwendungsbereich
