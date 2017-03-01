@@ -1,0 +1,26 @@
+# § 33a Voraussetzungen für das Führen einer Berufsbezeichnung nach § 1 Absatz 1
+(1) Ein Antragsteller mit einer ausländischen Berufsqualifikation erfüllt die Voraussetzungen nach § 5 Absatz 2 Satz 1 Nummer 2 für die jeweilige Fachrichtung, wenn er über einen Ausbildungsnachweis einer ausländischen Hochschule oder einer sonstigen ausländischen Einrichtung verfügt, der den in der Anlage 1 genannten Anforderungen gleichwertig ist. Für die Anerkennung der Gleichwertigkeit findet § 9 des Sächsischen Berufsqualifikationsfeststellungsgesetzes entsprechend Anwendung; der Ausgleich eines erforderlichen Abschlusses ausschließlich durch Berufserfahrung ist nicht möglich.
+(2) Die Voraussetzungen nach § 5 Absatz 2 Satz 1 Nummer 2 bis 4 erfüllt für die Fachrichtung Architektur auch ein Antragsteller mit einer ausländischen Berufsqualifikation, wenn er nachweist, dass er die Anforderungen nach
+1. den Artikeln 21 und 46 in Verbindung mit dem Anhang V Nummer 5.7.1,
+2. Artikel 23 Absatz 3, 4 oder Absatz 5,
+3. Artikel 49 Absatz 1 in Verbindung mit dem Anhang VI,
+4. Artikel 49 Absatz 1a in Verbindung mit dem Anhang V Nummer 5.7.1,
+5. Artikel 49 Absatz 2 oder
+6. Artikel 47
+der Richtlinie 2005/36/EG erfüllt.
+(3) Die Voraussetzungen nach § 5 Absatz 2 Satz 1 Nummer 2 bis 4 gelten auch für einen Antragsteller für die Fachrichtung Architektur als gleichwertig erfüllt, wenn er gemäß Artikel 48 der Richtlinie 2005/36/EG zur Führung der Berufsbezeichnung „Architekt“ aufgrund eines Gesetzes ermächtigt worden ist, das der zuständigen Behörde eines Mitgliedstaates der Europäischen Union oder eines diesem durch Abkommen gleichgestellten Staates die Befugnis zuerkennt, diesen Titel Unionsbürgern zu verleihen, die sich durch die Qualität ihrer Leistungen auf dem Gebiet der Architektur besonders ausgezeichnet haben.
+(4) Die Voraussetzungen nach § 5 Absatz 2 Satz 1 Nummer 2 bis 4 erfüllt auch ein Antragsteller für die jeweilige Fachrichtung, wenn
+1. er in Bezug auf die Studienanforderungen einen Ausbildungsnachweis und weitere Berufsqualifikationen besitzt, soweit diese in einem Mitgliedstaat der Europäischen Union oder einem diesem durch Abkommen gleichgestellten Staat erforderlich sind, um in dessen Hoheitsgebiet die Erlaubnis zur Aufnahme und Ausübung dieses Berufes zu erhalten und zwischen dem nachgewiesenen Ausbildungsnachweis einschließlich der weiteren Berufsqualifikationen und den Anforderungen nach § 5 Absatz 2 Satz 1 Nummer 2 keine wesentlichen Unterschiede in der Weise bestehen, dass
+a)
+sich die bisherige Ausbildung des Antragstellers auf Fächer bezieht, die sich nicht wesentlich von denen unterscheiden, die gemäß § 5 Absatz 2 Satz 1 Nummer 2 gefordert werden, und
+b)
+der Beruf des Architekten, Innenarchitekten, Landschaftsarchitekten oder Stadtplaners nicht eine oder mehrere Tätigkeiten umfasst, die nicht Gegenstand der Erlaubnis nach dem Satzteil vor Buchstabe a sind, und sich die bisherige Ausbildung des Antragstellers auf Fächer bezieht, die sich nicht wesentlich von denen unterscheiden, die gemäß § 5 Absatz 2 Satz 1 Nummer 2 gefordert werden,
+2. der Ausbildungsnachweis den Anforderungen nach Artikel 13 Absatz 2 Satz 2 der Richtlinie 2005/36/EG genügt und
+3. die berufspraktische Tätigkeit den Anforderungen nach § 5 Absatz 2 Satz 1 Nummer 3 genügt.
+Satz 1 gilt auch für einen Antragsteller, der nachweist, dass er
+1. diesen Beruf ein Jahr lang vollzeitbeschäftigt oder während einer entsprechenden Gesamtdauer in Teilzeit während der vorhergehenden zehn Jahre in einem oder mehreren anderen Mitgliedstaaten der Europäischen Union oder einem diesem durch Abkommen gleichgestellten Staat, in dem dieser Beruf nicht reglementiert ist, ausgeübt hat,
+2. im Besitz eines Befähigungs- oder Ausbildungsnachweises ist, der den Anforderungen nach Artikel 13 Absatz 2 Satz 2 der Richtlinie 2005/36/EG genügt; die einjährige Berufsausübung ist nicht erforderlich, wenn der Ausbildungsnachweis eine reglementierte Ausbildung belegt, und
+3. keine wesentlichen Unterschiede gemäß Satz 1 Nummer 1 Buchstabe a und b sowie in Bezug auf die Anforderungen zu Satz 1 Nummer 3 bestehen.
+Ausbildungsgänge und -nachweise nach Artikel 3 Absatz 3 und Artikel 12 der Richtlinie 2005/36/EG sind den Ausbildungsnachweisen nach den Sätzen 1 und 2 gleichgestellt. Die Voraussetzungen nach den Sätzen 1 bis 2 gelten unbeschadet von Artikel 10 Buchstabe b, c, d und g der Richtlinie 2005/36/EG.
+(5) Personen, die einen akademischen Titel besitzen, sind berechtigt, die Ausbildungsbezeichnung ihres Herkunftsstaates und gegebenenfalls die entsprechende Abkürzung in der Sprache ihres Herkunftsstaates zu führen. Name und Ort der Lehranstalt oder des Prüfungsausschusses, die oder der diese Ausbildungsbezeichnung verliehen hat, sind aufzuführen.
+(6) Ein Antragsteller nach den Absätzen 1 bis 4, der bisher weder eine Wohnung noch eine Niederlassung im Freistaat Sachsen hat und den Beruf auch dort nicht überwiegend ausgeübt hat, wird abweichend von § 5 Absatz 2 Satz 1 Nummer 1 ebenfalls in die Liste nach § 5 Absatz 2 Satz 1 eingetragen, wenn er glaubhaft darlegen kann, die Anforderung des § 5 Absatz 2 Satz 1 Nummer 1 zeitnah erfüllen zu können. Weist der Antragsteller innerhalb einer Frist von drei Monaten nach Antragstellung nicht nach, dass er die Anforderungen nach § 5 Absatz 2 Satz 1 Nummer 1 erfüllt, wird die Eintragung gelöscht.

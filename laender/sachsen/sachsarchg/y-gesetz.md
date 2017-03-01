@@ -1,6 +1,4 @@
 # Sächsisches Architektengesetz (SächsArchG)
-erlassen als Artikel 1 des Gesetzes über das Sächsische Architektengesetz und zur Änderung des Sächsischen Ingenieurkammergesetzes, des Sächsischen Ingenieurgesetzes sowie der Sächsischen Bauordnung
-Vom 2. April 2014
 Inhaltsübersicht
 Abschnitt 1 Führen der geschützten Berufsbezeichnung, Berufsaufgaben
 § 1 Berufsbezeichnungen
@@ -39,13 +37,20 @@ Abschnitt 4 Ahndung von Berufsvergehen
 § 31 Maßnahmen im Ehrenverfahren, Einstellung
 § 32 Ehrenverfahren gegenüber Gesellschaften
 Abschnitt 5 Besondere Regelungen für ausländische Abschlüsse
-§ 33 Voraussetzungen für die Listeneintragung eines Antragstellers mit ausländischer Berufsqualifikation
-§ 34 Verfahren in den Fällen nach § 33
-§ 35 Führung von geschützten Berufsbezeichnungen ohne Listeneintragung durch auswärtige Dienstleister
-§ 36 Verfahren in den Fällen nach § 35
-Abschnitt 6 Ordnungswidrigkeiten, Rechtsverordnungen, Übergangs- und Schlussbestimmungen
+§ 33 Allgemeine Regelung
+§ 33a Voraussetzungen für das Führen einer Berufsbezeichnung nach § 1 Absatz 1
+§ 34 Eintragungsverfahren
+§ 34a Ausgleichsmaßnahmen
+§ 35 Vorübergehende und gelegentliche Dienstleistungserbringung; Führen der Berufsbezeichnung durch auswärtige Architekten und Stadtplaner ohne Listeneintragung
+§ 36 Anzeigeverfahren, Verzeichniseintragung, Berufspflichten
+Abschnitt 6 Europäischer Berufsausweis, gemeinsamer Ausbildungsrahmen, gemeinsame Ausbildungsprüfungen und Europäischer Vorwarnmechanismus
+§ 36a Europäischer Berufsausweis
+§ 36b Gemeinsamer Ausbildungsrahmen und gemeinsame Ausbildungsprüfungen
+§ 36c Europäischer Vorwarnmechanismus
+Abschnitt 7 Ordnungswidrigkeiten, Rechtsverordnungen, Übergangs- und Schlussbestimmungen
 § 37 Ordnungswidrigkeiten
 § 38 Verordnungsermächtigungen
 § 39 Übergangsvorschriften
 § 40 Übergangsvorschriften zum Versorgungswerk
-Anlage (zu § 5 Abs. 2 Satz 1 Nr. 2)
+Anlage 1 Studienanforderungen
+Anlage 2 Berufspraktikum
