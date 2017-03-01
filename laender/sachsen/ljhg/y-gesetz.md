@@ -1,5 +1,5 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 1. Oktober 2016
+Rechtsbereinigt mit Stand vom 1. März 2017
 Inhaltsübersicht
 Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
@@ -40,7 +40,9 @@ Fünfter Abschnitt Frühförderung, Schutz von Kindern und Jugendlichen in Pfleg
 § 32 Sicherstellung des Schulunterrichts bei Gewährung von Hilfe zur Erziehung in einer Einrichtung
 Sechster Abschnitt Unbegleitete ausländische Kinder und Jugendliche
 § 32a Verteilung
+§ 32b Medizinische Untersuchung
 § 32c Verwaltungskostenpauschale
+§ 32d Ausschluss des Vorverfahrens
 Siebenter Abschnitt Sonstige Vorschriften
 § 33 Zuständigkeiten
 § 34 Befreiung von familiengerichtlicher Aufsicht
@@ -49,6 +51,7 @@ Siebenter Abschnitt Sonstige Vorschriften
 § 37 Zuständigkeit nach dem Jugendschutzgesetz
 § 38 Erlaubnis zur Übernahme von Vormundschaften, Pflegschaften und Beistandschaften durch Vereine
 § 39 Vereinsbeistandschaften
+§ 39a Vereinbarungen über Leistungsangebote, Entgelte und Qualitätsentwicklung
 Achter Abschnitt Übergangs-, Durchführungs- und Verwaltungsvorschriften
 § 40 Anwendung des Zehnten Buches Sozialgesetzbuch
 § 41 Verwaltungsvorschriften
