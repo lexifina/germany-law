@@ -1,0 +1,68 @@
+# 35. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-03-02T16:00:00+01:00
+- Ende: 2017-03-02T21:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5757
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5757
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00287309.pdf
+- Wortprotokoll: Nachtrag_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00288177.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 3.1: Gründung einer kommunalen Wohnungsbaugesellschaft - erledigt
+- TOP 3.2: Umsetzung von Personalveränderungen im Doppelhaushalt 2017/ 2018 - erledigt
+- TOP 3.3: Mieterhöhung für Bürger, die die Wohnkosten erstattet bekommen - erledigt
+- TOP 3.4: Feuerwerk am Königsufer am Abend des 13. Februars 2017 - erledigt
+- TOP 3.5: Sicherheitslage in Dresden - erledigt
+- TOP 3.6: Versagung von Baugenehmigungen für Wohnungsbauten durch die Stadtverwaltung - erledigt
+- TOP 3.7: Staatspräsidentin Südkorea Park Geun-hye - erledigt
+- TOP 4: Aktuelle Stunde - Soziale Wohnungspolitik für Dresden - erledigt
+- TOP 5: Einigungsverfahren Aufsichtsräte
+- TOP 5.1: Bestimmung von Mitgliedern für die Aufsichtsräte der Kommunale Immobilien Dresden GmbH & Co. KG und STESAD GmbH - Vertagung auf Geschäftsordnungsantrag
+- TOP 6: Umbesetzung in der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Vertagung der Stadtratssitzung vom 3. November 2016
+- TOP 8.1: An Guernica erinnern - Zustimmung mit Änderung
+- TOP 9: Vertagung der letzten Stadtratssitzung am 26. Januar 2017
+- TOP 9.1: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung nach 22 Uhr
+- TOP 9.2: Gründung einer städtischen Wohnungsbaugesellschaft GmbH & Co. KG - Zustimmung mit Änderung
+- TOP 9.3: Baudenkmalpflegerische Bewertung von Bauten der Moderne aus den sechziger/siebziger Jahren in der Lingnerstadt - Vertagung nach 22 Uhr
+- TOP 10: Änderung der Satzung der Sozialstiftung der Stadt Dresden, der Stadtstiftung Dresdner Kreuzchor, der Sammelstiftung der Stadt Dresden und der Stadtwaisenhaus-Stiftung mit Eugenienstiftung - Zustimmung
+- TOP 11: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2017 und im Jahr 2018 - Vertagung nach 22 Uhr
+- TOP 12: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2017 - Vertagung nach 22 Uhr
+- TOP 13: Radverkehrskonzept der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 14: Flächennutzungsplan-Änderung Nr. 54, Ortsamt Prohlis, Teilbereich Tschirnhausstraße/Dohnaer Straße - Zustimmung
+- TOP 15: Einrichtung intermodaler Mobilitätspunkte in Dresden - Vertagung nach 22 Uhr
+- TOP 16: Fußwegsicherheit - Sichere Straßenquerung in Gruna einrichten! - punktweise Zustimmung
+- TOP 17: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Wahlkreis 4 - Mandat der Christlich Demokratischen Union Deutschlands (CDU) - Zustimmung
+- TOP 18: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Wahlkreis 11 - Mandat der Christlich Demokratischen Union Deutschlands (CDU) - Zustimmung
+- TOP 19: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Wahlkreis 1 - Mandat DIE LINKE (DIE LINKE) - Zustimmung
+- TOP 20: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 20.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 20.2: Ausschuss für Finanzen und Liegenschaften - zurückgezogen
+- TOP 20.3: Ausschuss für Stadtentwicklung, Bau und Verkehr - Einigung
+- TOP 20.4: Ausschuss für Wirtschaftsförderung - zurückgezogen
+- TOP 20.5: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetriebe Friedhofs- und Bestattungswesen sowie Stadtentwässerung) - zurückgezogen
+- TOP 20.6: Ausschuss für Kultur und Tourismus - Benennung
+- TOP 20.7: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 20.8: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 20.9: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 20.10: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 20.11: Ausschuss für Petitionen und Bürgeranliegen - Einigung
+- TOP 21: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 21.1: Seniorenbeirat - zurückgezogen
+- TOP 21.2: Integrations- und Ausländerbeirat - Einigung
+- TOP 21.3: Beirat Gesunde Städte - zurückgezogen
+- TOP 21.4: Kleingartenbeirat - Einigung
+- TOP 21.5: Beirat für Menschen mit Behinderungen - Einigung
+- TOP 21.6: Wohnbeirat - zurückgezogen
+- TOP 22: Gesellschafterdarlehen an die Kommunale Immobilien Dresden GmbH & Co. KG - Zustimmung mit Änderung
+- TOP 23: Umbesetzung im Ortsbeirat Plauen - Zustimmung
