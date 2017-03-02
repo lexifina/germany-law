@@ -1,0 +1,6 @@
+# TOP 19: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Kreistages Ludwigslust-Parchim (2017-03-02)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a73015ef24bb7ed5127dd7d
