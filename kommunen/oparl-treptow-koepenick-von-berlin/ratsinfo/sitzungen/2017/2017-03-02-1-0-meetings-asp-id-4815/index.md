@@ -1,0 +1,93 @@
+# 5. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2017-03-02T16:30:00+01:00
+- Ende: 2017-03-02T22:06:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4815
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4815
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=257559
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Erneuter Eklat um Fotoausstellung - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-03 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - überwiesen
+- TOP 7.1: Zwischenberichte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1.1: Beleuchtung am S-Bahnhof Treptower Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Bebauungsplan Funkwerk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Verkehrskonzept Schöneweide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Entwicklungsgebiet Johannisthal/Adlershof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Sichere Querung der Schnellerstraße Höhe Köllnische Straße ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Bahnhof Erkner in Tarifbereich B eingliedern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.4: Aktion "Zu Fuß zur Schule" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Gesamtkonzeption Schulstandort Anna-Seghers-Schule - überwiesen
+- TOP 7.2.6: PC-Betriebssysteme in den Schulen - überwiesen
+- TOP 7.2.7: Personalausstattung der Schulbibliotheken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.8: Sammeln von Pfandflaschen neben Abfallbehältern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.9: Waldweg Wuhlheide II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.10: Sichere Straßenquerung am Alten Wasserwerk Friedrichshagen - im Ältestenrat zurückgezogen
+- TOP 7.2.11: Sicherstellung der Linie 160 in der Porzer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.12: Unfallfreie Wendemöglichkeit unter der Brücke über Edisonstraße / Treskowallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.13: Sondermittel für den Verein Forschungsgruppe Meilensteine e. V. (SM 16-25) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.14: Bürgerbeteiligung Spreepark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 8.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 6 - gewählt
+- TOP 8.3: Berufung eines weiteren beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Wahl der Mitglieder der BVV für das Kuratorium der Gedenkstätte "Köpenicker Blutwoche" - gewählt
+- TOP 8.5: Wahl der Kiezpatinnen und Kiezpaten hier: Wahl einer stellvertretenden Kiezpatin / eines stellvertretenden Kiezpaten für die Bezirksregion Grünau - vertagt
+- TOP 9: Vertagte Tagesordnungspunkte - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Versorgung wohnungsloser Menschen in Treptow-Köpenick - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XV-37d nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-37d im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Anmeldung zur Investitionsplanung 2017 bis 2021 - überwiesen
+- TOP 11.3: Sondermittel für die Freie Seniorengruppe 16/10 - Senioren-PC-Gemeinschaft Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für das Projekt Stadtlichter (Berit Petzsch, Juliane Springsguth, Dennis Demmerle) (SM 17-03) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.6: Sondermittel für Kunst, Kultur und Kreativität Berlin e. V. (SM 17-06) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für das Schlossplatztheater / c/o Alte Möbelfabrik e. V. (SM 17-08) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Schulobst ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Schöneweide als Wissenschafts- , Wirtschafts-, Technologie- sowie Kunst- und Kulturstandort stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Schöner Fahrradparken - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Taxiaufstellfläche am Schlesischen Busch - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Nahverkehrsanbindung des Flughafens Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Rekonstruktion der ursprünglichen keramischen Fassadenverkleidung am Alexander-von-Humboldt-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Veröffentlichung bezirklicher Gremien im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bezirksregionenprofile (BZRP) für Alt-Treptow und Rahnsdorf - überwiesen
+- TOP 13.2: Bezirksregionenprofile (BZRP) für Müggelheim und Bohnsdorf - überwiesen
+- TOP 13.3: Bebauungsplan 9-56 ("Kiez Anne-Frank-Straße") hier: Beschluss zur Reduzierung des Geltungsbereichs des Bebauungsplans 9-56 - überwiesen
+- TOP 13.4: Bebauungsplanentwurf XVI-81 ("Dämeritzsee") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf - Planreife für das Grundstück Fürstenwalder Allee 462, 470, 472, Flurstück 116 (hier: WA 7 des Bebauungsplanentwurfs XVI-81) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplanentwurf XVI-81 ("Dämeritzsee") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf - Planreife für das Grundstück Fürstenwalder Allee 462, 470, 472, Flurstück 106 (hier: WA 8 des Bebauungsplanentwurfs XVI-81) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Neueinrichtung der Abteilung C 1 - UWG (Urnenwahlgrabstellen) auf dem städtischen Friedhof Baumschulenweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Bebauungsplan 9-11 ("Joachimstraße"), Ortsteil Köpenick hier: - Änderungsbeschluss - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ansiedlung der Bundeszentrale des Bundesverbandes Deutscher Gartenfreunde mit integriertem Kompetenz-, Schulungs- und Dokumentationszentrum in Treptow-Köpenick unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Keine Baustellenzufahrt durch den Brunolfweg - überwiesen
+- TOP 14.3: Sichere Querung der Südostallee (Ecke Im Brombeerwinkel) - überwiesen
+- TOP 14.4: Personelle Situation in der Radverkehrsplanung des Bezirksamts stärken - überwiesen
+- TOP 14.5: Fortführung des Regionalmanagements Berlin Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Niedrigpreissektor im Bebauungsplan Marienhain - überwiesen
+- TOP 14.7: Müllablagerungen am S-Bahnhof Schöneweide beseitigen und unterbinden - überwiesen
+- TOP 14.8: Bürgerinformation im Zuge von Gehölzpflegemaßnahmen oder Fällungen in Treptow-Köpenick optimieren - überwiesen
+- TOP 14.9: Sicherung von Riviera und Gesellschaftshaus Grünau - überwiesen
+- TOP 14.10: Verkehrsführung Rudower Chaussee - überwiesen
+- TOP 14.11: City-Toiletten sichern - überwiesen
+- TOP 14.12: Treppenanlagen in Dienstgebäuden markieren - überwiesen
+- TOP 14.13: Parkplatzsituation in der Rosestraße während der Zeit der Umleitung für die Baumaßnahme der BWB in der Straße Am Falkenberg entschärfen - überwiesen
+- TOP 14.14: Planungen zum BER aktualisieren - überwiesen
+- TOP 14.15: Zusammenfassung von Projekten der Stadtentwicklung - überwiesen
+- TOP 14.16: Wassersport auf dem Müggelsee - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
