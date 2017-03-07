@@ -1,0 +1,58 @@
+# Sitzung des Stadtrates - Haushaltsberatungen (Vermögenshaushalt)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2017-03-07T17:00:00+01:00
+- Ende: 2017-03-07T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/780
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/780
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00028217.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00028372.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Beratung des Vermögenshaushaltes 2017 mit Investitionsprogramm 2016 - 2020
+- TOP 2.1: 0600.9457 – Umbau Stadtbauamt Hinweis von Stadtkämmerin Erdel
+- TOP 2.2: 0601.9350 – EDV, Erwerb von beweglichen Sachen Hinweis von Stadtkämmerin Erdel
+- TOP 2.3: 0601.9352 – EDV, Arbeitsgeräte und Maschinen Hinweis von Stadtkämmerin Erdel
+- TOP 2.4: 3009.9630 – Alte Synagoge, Bühnentechnische Ausstattung Hinweis von Stadtkämmerin Erdel
+- TOP 2.5: 2431.9452 – Friedrich-Bernbeck-Schule, Sanierung Dachstuhl Anfrage von Stadtrat Moser
+- TOP 2.6: 3601.9580 – Naturschutz/Landschaftspflege, Planung/Umsetzung Öko-Konto Anfrage von Stadtrat Hartmann
+- TOP 2.7: 4351.9453 – Obdachlosenunterkünfte, Erweiterungs-, Um- und Ausbauten Anfrage von Bürgermeister Güntner
+- TOP 2.8: 4645.9450 – KITA Sonnenschein, Erweiterung um einen Kindergartengruppe Hinweis von Stadtkämmerin Erdel
+- TOP 2.9: 5602.9502 – Sportzentrum Sickergrund, Neubau Kunstrasenplatz Hinweis von Stadtkämmerin Erdel
+- TOP 2.10: 5921.9550 – Wanderwege, Neuanlage „Traumrunde Kitzingen – Sulzfeld“ Hinweis von Stadtkämmerin Erdel
+- TOP 2.11: 5800.9550 – Soziale Stadt, Realisierung Kräutergarten und Naherholungsgebiet im Sickergrund Anfrage von Stadträtin Glos
+- TOP 2.12: 5931.9350 – Spielplätze, Ersatz von Spielgeräten Antrag der SPD-Stadtratsfraktion Ertüchtigung von Spielplätzen im Muldenweggebiet
+- TOP 2.13: 6101.9650 – Ausbau Breitband-/DSL-Versorgung Anfrage von Stadtrat Moser
+- TOP 2.14: 6151.9595 – Städtebauliche Sanierungsmaßnahmen, Fortschreibung ISEK/vorbereitende Untersuchungen Altstadt Anfrage von Stadtrat Moser
+- TOP 2.15: 6152.9581 – Soziale Stadt, Fortschreibung Integriertes Handlungskonzept Siedlung Anfrage von Stadträtin Glos
+- TOP 2.16: 6453.9501 – Geh- und Radwege im Stadtgebiet Antrag der ProKT-Gruppe Fahrradschutzstreifen Am Dreistock bis Heinrich-Huppmann-Straße
+- TOP 2.17: 6340.9501 – Erweiterung Baugebiet Hammerstielweg, Straßenbau Anfrage von Stadträtin Schwab
+- TOP 2.18: 6401.9510 – Herstellung von barrierefreien Wegen in der Innenstadt Anfrage von Stadtrat Moser
+- TOP 2.19: Anfrage von Stadträtin Schmidt Fahrradwege in der Stadt
+- TOP 2.20: 6482.9560 – Generalsanierung Alte Mainbrücke Anfrage von Bürgermeister Güntner
+- TOP 2.21: 6486.9510 – Neubau Brücke Jahnstraße über Eherieder Bach Antrag der ÖDP-Fraktion - abgelehnt
+- TOP 2.22: 6485.9510 – Sanierung Gewölbebrücke über Mühlbach in Repperndorf Hinweis von Stadtkämmerin Erdel
+- TOP 2.23: 6487.9510 – Sanierung Brücke über Sicker in Sickershausen Hinweis von Stadtkämmerin Erdel
+- TOP 2.24: 6709.9582 – Straßenbeleuchtung, Umstellung auf LED-Beleuchtung Hinweis von Stadtkämmerin Erdel
+- TOP 2.25: 6650.9510 – Linksabbiegespur auf ST 2272 als Ostanschluss conneKT Hinweis von Stadtkämmerin Erdel
+- TOP 2.26: 6605.9504 – Sanierung B 8 von Würzburger Tor bis Marshall Heights Anfrage von Stadtrat Moser
+- TOP 2.27: 7110.9501 – Kanalerschließung für Erweiterung Baugebiet Hammerstiel
+- TOP 2.28: 7171.9110 – Abwasserbeseitigung, Sonderrücklage für Abschreibungen auf zuwendungsfinanziertes Vermögen Hinweis von Stadtkämmerin Erdel
+- TOP 2.29: 7171.9140 – Abwasserbeseitigung, Sonderrücklage für Abschreibungen auf Wiederbeschaffungszeitwert
+- TOP 2.30: 7185.9580 – Alte Kläranlage Etwashausen, Kosten für Rückbau Hinweis von Stadtkämmerin Erdel
+- TOP 2.31: 7512.9450 – Neuer Friedhof, Sanierung Friedhofsgebäude Hinweis von Stadtkämmerin Erdel
+- TOP 2.32: 7181.9680 – Kläranlage, Umsetzung Handlungskonzept Anfrage von Stadtrat Moser
+- TOP 2.33: 7711.9352 – Bauhof, Arbeitsgeräte und Maschinen Hinweis von Stadtkämmerin Erdel
+- TOP 2.34: 8801.9490 – Entwicklungskonzept Galgenwasen Anfrage von Stadtrat Moser
+- TOP 2.35: Anfrage von Stadträtin Glos Mittel für den Sonderlandeplatz
+- TOP 2.36: Anfrage von Stadträtin Glos Mittel Fenster-Austausch AWO-Gebäude in Repperndorf
+- TOP 2.37: 8809.9400 – Restaurierung Marktbrunnen und Erneuerung Technik Anfrage von Stadtrat Böhm
+- TOP 2.38: UA 7901/UA7903 – Fremdenverkehr und Tourismusförderung Anfrage von Stadtrat Stiller
+- TOP 2.39: 8801.9450 – Ertüchtigung von Wohnraum zur Wiederherstellung der Vermietbarkeit Anfrage von Stadtrat Moser
+- TOP 2.40: Anfrage von Stadtrat Christof Aufarbeitung Sonderlandeplatz
