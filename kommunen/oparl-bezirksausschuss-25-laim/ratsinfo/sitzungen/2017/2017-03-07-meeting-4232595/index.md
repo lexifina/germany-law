@@ -1,0 +1,88 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-03-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232595
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232595
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.8.: Leibnizstraße 39: Antrag auf Fällung von 2 Spitzahorn und 2 Scheinzypressen
+- TOP 4.9.: Geyerspergerstraße 44: Antrag auf Fällung von 1 Hainbuche
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 07.02.2017
+- TOP 8: Umlauf
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Parkende Anhänger in der Kirchmaierstraße und Valpichlerstraße
+- TOP 1.2.2.: Keine kurzen Fahrzeuge auf der Tramlinie 19
+- TOP 1.2.3.: Öffentlicher Bücherschrank in Laim
+- TOP 2.1.: CSU: ASZ Plus in der Mitte Laims
+- TOP 3.1.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Laimer Maibaumfreunde e.V., Veranstaltung "Maitanz 2017"
+- TOP 3.2.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bauvorhaben Mitterhoferstr. 7 Empfehlung Nr. 14-20/ E 01281 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 22.11.2016
+- TOP 3.3.: Beschlussvorlage Baureferat: Baumschutzgitter bei den Bushaltestellen Menaristraße, Laimer Platz und Romanplatz Empfehlung Nr. 14-20 / E 01289 der Bürgerversammlung des Stadtbezirkes 25 Laim am 22.11.2016
+- TOP 3.4.: Beschlussvorlage Kreisverwaltungsreferat: Aufstellen eines offenen Bücherschrankes am Laimer Platz
+- TOP 3.5.: Beschlussvorlage Kreisverwaltungsreferat: Tempo 30 stadteinwärts in der Anliegerstraße zur Landsberger Straße
+- TOP 3.6.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Elternbeirat der Grundschule an der Droste-Hülshoff-Straße, Kunstprojekt vom Mai bis Juni 2017
+- TOP 3.7.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Paul-Gerhardt-Chor München-Laim, Passionskonzert am 26.03.2017
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 09.02.2017: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 07.02.2017: Veranstaltung in einer städtischen Grünanlage, hier: Flohmarkt für Kinderbekleidung und Spielzeug auf dem Weißenfelderplatz
+- TOP 4.3.: Schreiben Baureferat vom 08.02.2017: Projektname: ÖPNV Offensive - Senftenauerstraße, Haltestelle Hönigschmidplatz
+- TOP 4.4.: Schreiben Baureferat vom 26.01.2017: Bestehende Wandgestaltung an der Fußgängerunterführung Hogenbergstraße und Fürstenrieder Straße
+- TOP 4.5.: Schreiben Direktorium vom 30.01.2017: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands; Antrag der CSU-Fraktion BA-Antrags-Nr. 14-20 / B 03074 des Bezirksausschusses des Stadtbezirks 15 - Trudering-Riem vom 24.11.2016
+- TOP 4.6.: Beschlussvorlage für den Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen
+- TOP 4.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.01.2017: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München (vertagt aus 02/17)
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 20.02.2017: Veranstaltung in einer städtischen Grünanlage, hier: Laimer Anger, Ökumenischer Gottesdienst mit Gospelchor am 28.06.2017, 20.30 - 22.00 Uhr
+- TOP 4.11.: Beschlussvorlage für den Sozialausschuss am 22.06.2017: Öffentliche Veranstaltungen behindertengerecht durchführen und entsprechend kennzeichnen BV-Empfehlung Nr. 14-20 / E 00789: Inklusion von Menschen mit Behinderung fördern
+- TOP 4.12.: Schreiben Kommunalreferat vom 20.02.2017: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG) und der Straßenverkehrsordnung (StVO); Erteilung einer Sondernutzungserlaubnis / verkehrsrechtlichen Genehmigung: Münchner Wochen- und Bauernmärkte - Standort Laimer Anger
+- TOP 4.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.02.2017: Mitterhoferstraße 7, Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG), Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; hier: Nachtrag des Werksgebäudes der ehem. Glockengießerei Oberascher in die Denkmalliste
+- TOP 4.14.: Schreiben Spiellandschaft Stadt e.V. vom 21.02.2017: Spielaktionen in öffentlichen Grünanlagen - 11. - 13.05.: ArtMobil auf dem Laimer Platz - 02. - 04.08.: Wasserspielbus am Agricolaplatz - 11. - 13.09.: Zirkus Pumpernudl Wiese Hans-Thonauer-Straße / Nördlinger Straße
+- TOP 5.1.: Hörkherstraße 3 a: Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 6.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.02.2017: Regionalgespräche mit der Lokalbaukommission, mögliche Termine BA 25: 20.06. oder 21.06.2017 jeweils 17.00 Uhr
+- TOP 6.2.: Schreiben SWM vom 15.02.2017: Informationsveranstaltung der SWM am 27.03.2017 um 17.30 Uhr
+- TOP 6.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.02.2017: Einladung zum Jahrestreffen 2017 - Informationsaustausch mit der Stadtplanung
+- TOP 6.4.: Schreiben Sozialreferat vom 20.02.2017: Informationsveranstaltung der Sozialreferentin für die BA-Mitglieder am Montag, 22.05.2017 um 18.00 Uhr
+- TOP 8.1.: Schreiben Direktorium vom 09.02.2017: Stadtratsantrag: ASZ Plus in Laim
+- TOP 8.2.: Schreiben Direktorium vom 31.01.2017: Stadtratsantrag: Biodiversität: Zwei zusätzliche Wildblumenwiesen pro Stadtbezirk auf öffentlichen Grünflächen
+- TOP 8.3.: Schreiben Baureferat vom 31.01.2017: Beleuchtung am Agricolapark
+- TOP 8.4.: Schreiben Baureferat vom 13.02.2017: Fröbelplatz, Aktennotiz über ein gemeinsames Gespräch
+- TOP 8.5.: Schreiben Baureferat vom 07.02.2017: Antrag für mehr Spielgeräte aus dem Spielplatz Hogenbergplatz aus der Kinder- und Jugendeinwohnerversammlung
+- TOP 8.6.: Schreiben Baureferat vom 07.02.2017: Antrag für ein Fußballtor für den Spielplatz Hogenbergplatz aus der Kinder- und Jugendeinwohnerversammlung
+- TOP 8.7.: Schreiben Kommunalrefeat vom 25.01.2017: Grünfläche vor dem Thomas-Wimmer-Haus in der Burgkmairstraße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 10.02.2017: Zwischenmitteilung zur BV-Empfehlung Nr. 14-20 / E 01280: Entschärfung der Verkehrssituation an der Kreuzung Agnes-Bernauer- / Fürstenrieder Straße, Nordwestseite
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 13.02.2017: Geschwindigkeitskontrollen an der Droste-Hülshoff-Schule, Antrag aus der Kinder- und Jugendeinwohnerversammlung
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 26.01.2017: Parkende Autobusse in der Einfahrt Agnes-Bernauer-Straße 53
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 01.02.2017: Schulweghelfer Westendstraße / Ecke Säulingstraße, Antrag aus der Kinder- und Jugendeinwohnerversammlung
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 06.02.2017: Verkehrsaufsichtliche Erlaubnis St.-Ulrich-Straße 5
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 25.01.2017 und 02.02.2017: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Belissimo Italian Business Lunch", Westendstr. 170 - "Aindorfer Hof", Guido-Schneble-Str. 36
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.02.2017: Broschüre "Bericht zur Wohnungssituation in München 2014 - 2015"
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.01.2017: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.02.2017: Protokoll der Kommission für Stadtgestaltung vom 04.10.2016
+- TOP 8.17.: Schreiben Referat für Bildung und Sport vom 07.02.2017: Neubau Städtisches Tagesheim Grandlstraße 5
+- TOP 8.18.: Schreiben Sozialreferat vom 30.01.2017: Stadtratsantrag: Wie kann man Behindertenparkplätze in München finden?
+- TOP 8.19.: Schreiben Sozialreferat vom 23.01.2017: Vollzug der Erhaltungssatzung "Laim": Schedelstraße
+- TOP 8.20.: Schreiben Sozialreferat vom 17.02.2017: BV-Anfrage Nr. 14-20 / Q 00333: Räume für bürgerschaftliches Engagement in Laim
+- TOP 8.21.: Bautenliste vom 23.01. - 29.01.2017: 1. Änderungsverfahren zu genehmigten Bauvorhaben a) Senftenauerstraße 124
+- TOP 8.22.: Bautenliste vom 30.01. - 05.02.2017: 1. Erstantragsverfahren a) Högerstr. 1 b) Rushaimerstr. 73 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Rushaimerstr. 73
+- TOP 8.23.: Bautenliste vom 13.02. - 19.02.2017: 1. Erstantragsverfahren a) Riegerhofweg 1 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Aindorferstr. 57
+- TOP 8.24.: Schreiben der Stadtwerke München GmbH vom 20.02.2017: Baumaßnahmen der Stadtwerke: Stichtag 13.02. - 17.02.2017
+- TOP 8.25.: Beschluss der Vollversammlung vom 25.01.2017: Durchführung von Verkehrsversuchen durch das KVR
+- TOP 8.26.: Hinweis / Ergänzung vom 17.01.2017 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft vom 22.02.2017: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 8.27.: Beschluss des Bildungsausschusses vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 8.28.: Bekanntgabe im Bildunsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 8.29.: Bekanntgabe im Bildungsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 8.30.: Bekanntgabe im Bildungsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 8.31.: Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.2017: Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 8.32.: Antrag BA 8 Schwanthalerhöhe vom 14.02.2017: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 8.33.: Schreiben Polizeiinspektion 41 Laim vom 02.02.2017: Stellungnahme zu zwei Schreiben von Kindern aus der Kinder- und Jugendeinwohnerversammlung - Liefer-Lkw im Bereich des REWE-Marktes Endelhauserstraße / Neubeuerner Straße - Geschwindigkeitsüberwachung in der Droste-Hülshoff-Straße
+- TOP 8.34.: Schreiben Kirchenchor St. Phillipus vom 21.02.2017: Kurzbericht zum Kirchenkonzert am 20.11.2016
