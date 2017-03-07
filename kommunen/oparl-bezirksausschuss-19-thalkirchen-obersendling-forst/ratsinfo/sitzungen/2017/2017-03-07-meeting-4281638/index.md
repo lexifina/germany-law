@@ -1,0 +1,53 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-03-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281638
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281638
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 07.02.2017
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Verein zur Förderung der Grundschule an der Samberger Str. München e.V.: MFM-Workshop „Körper-Wunder-Werkstatt“; Sitzungsvorlage Nr.: 14-20 / V 08091
+- TOP 3.3.: (A) Satzungsänderung: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstands (Antrag des BA 15)
+- TOP 3.4.: (E) Sonderpädagogisches Förderzentrum München-Süd: Schullandheimfahrt vom 03.04. - 05.04.2017; Sitzungsvorlage Nr. 14-20 / V 08215
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4.4.: (A) Planung öffentliche Grünfläche an der Drygalski-Allee
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (E) Sondernutzungserlaubnis: 1 Zeitungsentnahmegerät; Boschetsrieder Str. 118
+- TOP 5.4.: (Antrag) Buslinie in der Allgäuer Str.
+- TOP 5.5.: (Antrag) Behindertenparkplätze U-Bahnhof Forstenrieder Allee
+- TOP 5.6.: Autobahnlärm Bundesautobahn 95 - Stadtgrenze
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Wahlbezirkseinteilung Bundestagswahl 2017
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Beschlussentwurf Veranstaltungsbudget
+- TOP 8.3.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee
+- TOP 8.4.: (A) Veranstaltung: Flohmarkt Grünanlage Kistlerhofstr./Höhenrainer Str. am 01.04.2017 und 07.10.2017; Ausweichtermin: 13.05.2017
+- TOP 8.5.: (A) Veranstaltung: Spezialmarkt Ansichtskarten-Sammlerbörse am 26.03.2017
+- TOP 8.6.: (Antrag) Band-Contest „Soundcheck in…“ im Stadtbezirk 19 veranstalten
