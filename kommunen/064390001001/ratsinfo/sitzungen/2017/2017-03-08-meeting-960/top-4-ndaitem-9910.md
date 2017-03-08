@@ -1,0 +1,6 @@
+# TOP 4.: Patenschaften für die Apfelbäume entlang des Radweges
+
+- Sitzung: Ortsbeirat Daisbach (2. Sitzung) (2017-03-08)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/9910
