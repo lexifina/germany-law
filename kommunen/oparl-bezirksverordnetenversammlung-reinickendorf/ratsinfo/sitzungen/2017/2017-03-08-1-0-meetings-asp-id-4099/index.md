@@ -1,0 +1,107 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-03-08T17:10:00+01:00
+- Ende: 2017-03-08T22:45:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4099
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4099
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=238306
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Maßnahmen gegen Raser - beantwortet
+- TOP 2.2: Runder Tisch für eine Straßenbahnlösung über Rosenthal-Nord bis nach Wittenau - beantwortet
+- TOP 2.3: Gleichgeschlechtliche Partnerschaften - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 6. Sitzung der BVV am 08.03.2017 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Wechsel an der Spitze des Vitanas Geriatrie Krankenhauses im Märkischen Viertel - beantwortet
+- TOP 4.2: Arbeit der Registerstelle in Reinickendorf - beantwortet
+- TOP 4.3: Islamische Gemeinden in Reinickendorf - beantwortet
+- TOP 4.4: Planungen U6 - beantwortet
+- TOP 4.5: Schulabbrecher in Reinickendorf - beantwortet
+- TOP 4.6: Geplante Aufräumaktionen am Franz-Neumann-Platz - beantwortet
+- TOP 4.7: Baumängel in der Trettachzeile 15 - beantwortet
+- TOP 4.8: Kastanien im Sigismundkorso - beantwortet
+- TOP 4.9: Baumfällungen im Tegeler Forst an der Anschlussstelle Schulzendorfer Straße - beantwortet
+- TOP 4.10: Modulare Unterkunft für Flüchtlinge in der Bernauer Straße - beantwortet
+- TOP 4.11: Neugestaltung des "Schlossplatzes" in Tegel? - schriftlich beantwortet
+- TOP 4.12: Mangelnde Auskunftsfähigkeit des Bezirksamtes in der Schulausschusssitzung vom 02. März - schriftlich beantwortet
+- TOP 4.13: Folgen des Kitabedarfsatlas 2017 - schriftlich beantwortet
+- TOP 4.14: Kinder-BVV - schriftlich beantwortet
+- TOP 4.15: Flohmärkte in der Markstraße - schriftlich beantwortet
+- TOP 4.16: Parkplatzsituation am Ludolfinger und Zeltinger Platz - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Außentrauungen im Standesamt Reinickendorf - beantwortet
+- TOP 5.1.1: Außentrauungen langfristig erhalten - überwiesen
+- TOP 5.2: Schuldistanz in Reinickendorf - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht Rechtsextremismus in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Regelmäßiger Bericht über den Bau von Fußgängerüberwegen und Querungshilfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Regenschutz für Fahrradabstellanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Fahrradabstellanlagen am S-Bahnhof Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Flüchtlingsintegration - Verantwortung des gesamten Bezirks - überwiesen
+- TOP 7.6: Radfahrverkehrsanlagen Landesgrenze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Standort Glascontainer Falkenplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Informationen der Registerstelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Fortführung des Programms "FIT! FIT! FIT!" sicherstellen - überwiesen
+- TOP 7.10: Tempo-30-Strecke Waidmannsluster Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Tätigkeitsbericht der Gleichstellungsbeauftragten für den Zeitraum vom 01.01.2016 bis 31.12.2016 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Radverkehr in Reinickendorf - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl eines Mitgliedes und eines stellvertretenden Mitgliedes für den Beirat des Jobcenters Berlin Reinickendorf - gewählt
+- TOP 9.2: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9.3: Bestellung eines stimmberechtigten Mitglieds und eines stellvertretenden Mitglieds der BVV Reinickendorf für den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten Nordwest - Eigenbetrieb von Berlin". - gewählt
+- TOP 9.4: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9.5: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9.6: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 9.7: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.8: Anmeldung für die Investitionsplanung 2017 bis 2021 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Hilfe für Fußgänger am Hermsdorfer Damm - erledigt
+- TOP 10.2: Gehwegabsenkung für Rollstuhlfahrer in der Glienicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Fußgängerüberweg in der Heinsestraße - mit Änderungen in der BVV beschlossen
+- TOP 10.4: Barrierefreiheit am S-Bahnhof Bonhoeffer-Nervenklinik - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Sicherheit für Fußgänger und Radfahrer am Franz-Neumann-Platz erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Kurzparkzone im Frohnauer Zentrum ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Sichere Überquerung des Hermsdorfer Damm in Höhe der DJH "Ernst Reuter" - erledigt
+- TOP 10.8: Jugendsport fördern - in der BVV abgelehnt
+- TOP 10.9: Wahl der Patientenfürsprecher/innen für die Krankenhäuser im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - gewählt
+- TOP 10.10: Empfehlungen der Voruntersuchung Milieuschutz in Reinickendorf umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Transparenz und Bürgernähe (1) – B-Plan-Karten - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Taktung S-Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Tempo 30 - Teilabschnitt Waidmannsluster Damm - in der BVV abgelehnt
+- TOP 10.14: Gutachten zum Bauvorhaben "Umbau Tegel-Center" vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Beteiligung der BVV bei SiWa-Anmeldungen - überwiesen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Fließtalwanderweg schließen - überwiesen
+- TOP 12.2: Tempo 30 im Wohngebiet - überwiesen
+- TOP 12.3: Flughafensee sauber und attraktiv halten - überwiesen
+- TOP 12.4: Sicherheit am Wilhelmsruher Damm I - überwiesen
+- TOP 12.5: Diskretionsräume Polizei - überwiesen
+- TOP 12.6: Gedenkstein für Opfer des Nationalsozialismus auf dem Falkenplatz - Inschrift erneuern - überwiesen
+- TOP 12.7: Tag der offenen Tür bei der Feuerwehr Heinsestraße - überwiesen
+- TOP 12.8: WBS für Geflüchtete mit anerkanntem Aufenthaltsstatus ausstellen - überwiesen
+- TOP 12.9: Informationsveranstaltung zu den Bauarbeiten in der Oranienburger Straße - überwiesen
+- TOP 12.10: Hauptverkehrsstraßen leistungsfähig halten - überwiesen
+- TOP 12.11: Vorkaufsrecht der Mieter in der Cité Foch - überwiesen
+- TOP 12.12: Öffnung von privaten Parkplätzen im Rahmen der Umbauarbeiten Oranienburger Straße - überwiesen
+- TOP 12.13: Ehrenamtliche Helfer - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Zusätzliche Mülleimer in der Residenzstraße - überwiesen
+- TOP 13.2: Sicherheit am Wilhelmsruher Damm II - überwiesen
+- TOP 13.3: Parkstreifen - überwiesen
+- TOP 13.4: Betrieb der Jugendverkehrsschulen dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Sicherheit am Wilhelmruher Damm III - überwiesen
+- TOP 13.6: Öffentliche City-Toiletten erhalten - überwiesen
+- TOP 13.7: Sicherheit am Wilhelmruher Damm IV - überwiesen
+- TOP 13.8: Querungshilfe Bernauer Straße - überwiesen
