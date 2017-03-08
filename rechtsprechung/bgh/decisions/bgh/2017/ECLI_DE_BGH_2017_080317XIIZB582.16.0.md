@@ -1,0 +1,590 @@
+---
+ecli: "ECLI:DE:BGH:2017:080317XIIZB582.16.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 582/16"
+decided: "2017-03-08"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2017&Sort=1&Seite=19&nr=77971&anz=3127&pos=593&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_NA_2017-03-08_XII_ZB_582_16_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/agg/0020.md", "germany/bund/acts/famfg/0074.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/009.md", "germany/bund/acts/sgb_6/0068.md", "germany/bund/acts/sgb_6/0255a.md", "germany/bund/acts/versausglg/0001.md", "germany/bund/acts/versausglg/0005.md", "germany/bund/acts/versausglg/0011.md", "germany/bund/acts/versausglg/0013.md", "germany/bund/acts/versausglg/0039.md", "germany/bund/acts/versausglg/0045.md", "germany/bund/acts/versausglg/0047.md"]
+---
+
+# Bundesgerichtshof, XII ZB 582/16 vom 2017-03-08
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                        BESCHLUSS
+XII ZB 582/16
+
+                                vom
+
+                            8. März 2017
+
+                        in der Familiensache
+
+
+
+
+ECLI:DE:BGH:2017:080317BXIIZB582.16.0
+
+                                         -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 8. März 2017 durch den Vorsitzenden Richter Dose und die Richter Schilling, Dr. Nedden-Boeger, Dr. Botur
+    und Guhling
+
+    beschlossen:
+
+
+          Auf die Rechtsbeschwerde der weiteren Beteiligten zu 2 wird der
+          Beschluss des 6. Senats für Familiensachen in Darmstadt des
+          Oberlandesgerichts Frankfurt am Main vom 24. November 2016
+          aufgehoben.
+
+          Die Sache wird zur erneuten Behandlung und Entscheidung
+          - auch über die Kosten der Rechtsbeschwerde - an das Oberlandesgericht zurückverwiesen.
+
+          Beschwerdewert: 1.000 €
+
+
+
+
+                                        Gründe:
+
+                                          I.
+
+1         Der 1970 geborene Antragsteller (im Folgenden: Ehemann) und die 1967
+    geborene Antragsgegnerin (im Folgenden: Ehefrau) heirateten am 6. Juli 2002.
+    Die Zustellung des Scheidungsantrags erfolgte am 20. November 2015.
+
+2         Der Ehemann hat in der gesetzlichen Ehezeit vom 1. Juli 2002 bis zum
+    31. Oktober 2015 unter anderem ein Anrecht aus einer Pflichtversicherung in
+    der Zusatzversorgung des öffentlichen Dienstes ("VBLklassik") bei der Versor-
+
+                                          -3-
+
+
+
+    gungsanstalt des Bundes und der Länder (Beteiligte zu 2; im Folgenden: VBL)
+    erworben. Die VBL hat den Ehezeitanteil der Versorgung mit 45,37 Versorgungspunkten angegeben und unter Berücksichtigung von Teilungskosten in
+    Höhe von 250 € vorgeschlagen, den Ausgleichswert mit 20,42 Versorgungspunkten bei einem korrespondierenden Kapitalwert von 7.499,34 € zu bestimmen.
+
+3          Das Amtsgericht hat die Ehe geschieden und den Versorgungsausgleich
+    geregelt. Hinsichtlich der Zusatzversorgung des öffentlichen Dienstes hat es
+    angeordnet, dass im Wege interner Teilung zu Lasten des Anrechts des Ehemanns bei der VBL zugunsten der Ehefrau ein Anrecht in Höhe von 22,32 Versorgungspunkten übertragen wird. Die dagegen gerichtete Beschwerde der
+    VBL hat das Oberlandesgericht zurückgewiesen. Hiergegen richtet sich die zugelassene Rechtsbeschwerde der VBL, die eine interne Teilung auf der Grundlage des von ihr unterbreiteten Vorschlags erstrebt.
+
+
+
+
+                                           II.
+
+4          Die Rechtsbeschwerde hat Erfolg. Sie führt zur Aufhebung der angefochtenen Entscheidung und zur Zurückverweisung der Sache an das Beschwerdegericht.
+
+5          1. Das Beschwerdegericht, dessen Entscheidung in juris veröffentlicht ist,
+    hat zur Begründung seiner Entscheidung das Folgende ausgeführt:
+
+6          Die dem Vorschlag der VBL zugrunde liegende Vorgehensweise entspreche nicht den gesetzlichen Vorgaben aus §§ 1 Abs. 1, 5 Abs. 1 und Abs. 3
+    iVm § 47 Abs. 4 Satz 2 und Abs. 5 VersAusglG. § 32 a Abs. 2 Satz 1 VBLS lege
+    die Bezugsgröße in der Weise fest, dass der ausgleichsberechtigten Person ein
+
+                                         -4-
+
+
+
+    in Versorgungspunkten ausgewiesener Ausgleichswert zu übertragen sei. Der
+    dem Familiengericht zu unterbreitende Vorschlag für die Bestimmung des Ausgleichswerts habe in der nach § 5 Abs. 1 VersAusglG maßgeblichen Bezugsgröße zu erfolgen, wobei dem Versorgungsträger wegen § 5 Abs. 3 VersAusglG
+    nicht frei gestellt sei, eine von den Bestimmungen seiner Versorgungsordnung
+    abweichende Ausgleichsbezugsgröße zu wählen. Maßgeblich für die VBL seien
+    daher allein Versorgungspunkte, wenn auch § 32 a Abs. 2 Satz 2 VBLS in gewissem Widerspruch hierzu die Regelung enthalte, dass der Ausgleichswert
+    nach versicherungsmathematischen Grundsätzen durch Umrechnung des ehezeitlichen Anrechts der ausgleichspflichtigen Person in einen Barwert zu ermitteln sei. Demgegenüber bestimme § 47 Abs. 4 Satz 2 VersAusglG, dass für ein
+    Anrecht der Zusatzversorgung des öffentlichen oder kirchlichen Dienstes lediglich der korrespondierende Kapitalwert anzugeben und damit gerade nicht der
+    Ausgleichswert als versicherungsmathematischer Barwert zu ermitteln sei.
+
+7         Die VBL habe daher die Versorgungspunkte als ihre maßgebliche Bezugsgröße hälftig zu teilen und nicht im Widerspruch dazu faktisch doch das
+    zugrunde liegende Kapital. Weil die von der VBL herangezogenen versicherungsmathematischen Grundsätze nicht normiert seien, könne aus ihnen auch
+    nicht zwingend abgeleitet werden, dass unterschiedliche alters- und geschlechtsspezifische Faktoren, die zu dem abweichenden Ergebnis bei einer
+    Berechnung auf Kapitalbasis führten, berücksichtigt werden müssten. Jedenfalls bei der hier vorzunehmenden unmittelbaren Teilung von Versorgungspunkten eines männlichen Ausgleichspflichtigen komme es auch nicht zu einer Weiterverwendung nachteiliger geschlechtsspezifischer Faktoren für Frauen. Gegen einen aus versicherungsmathematischen Gründen allein möglichen Ausgleich auf Kapitalbasis spreche ferner die Mitteilung der VBL, dass die Versorgung nicht ausschließlich aus vorhandenem Deckungskapital finanziert werde.
+    Vorliegend profitiere die Ehefrau von der Teilung der Versorgungspunkte ge-
+
+                                          -5-
+
+
+
+    genüber dem von der VBL angestrebten Ergebnis einer Halbteilung des Barwerts. Für den ausgleichspflichtigen Beteiligten, hier den Ehemann, bleibe es
+    unabhängig davon ohnehin bei der genauen Halbteilung, lediglich vermindert
+    um die Teilungskosten. Insgesamt dürfte es für die VBL weitgehend aufwandsneutral sein, die Versorgungspunkte zu teilen.
+
+8         2. Diese Ausführungen halten rechtlicher Überprüfung nicht stand.
+
+9         Soweit das Beschwerdegericht im Anschluss an eigene Rechtsprechung
+    (vgl. OLG Frankfurt [6. Senat für Familiensachen] FamRZ 2014, 755) die Auffassung vertritt, dass der Ausgleichswert eines Anrechts aus der Zusatzversorgung des öffentlichen Dienstes der nominalen Hälfte der von dem ausgleichspflichtigen Ehegatten in der Ehezeit erworbenen Versorgungspunkte entsprechen müsse (ebenso Bergner NZFam 2014, 49, 51 ff. und NZFam 2015, 289 ff.;
+    BeckOK/Bergmann BGB [Stand: November 2016] § 5 VersAusglG Rn. 7; tendenziell wohl auch Borth FamRZ 2014, 758, 759), kann dem nicht gefolgt werden. Mit Recht erhebt die weit überwiegende Auffassung in der obergerichtlichen Rechtsprechung (OLG Schleswig FamRZ 2016, 371 f.; OLG Köln FamRZ
+    2015, 1108 f.; OLG Nürnberg FamRZ 2015, 1106, 1107; OLG Naumburg
+    FamRZ 2015, 753; OLG Celle FamRZ 2014, 305 f.; OLG Düsseldorf [8. Senat
+    für Familiensachen] FamRZ 2014, 757 f.; OLG Frankfurt [5. Senat für Familiensachen] Beschluss vom 18. Dezember 2012 - 5 UF 15/12 - juris Rn. 11; OLG
+    Düsseldorf [7. Senat für Familiensachen] Beschluss vom 10. September 2010
+    - 7 UF 84/10 - juris Rn. 33 ff.) und im Schrifttum (BeckOGK/Siede VersAusglG
+    [Stand: Februar 2017] § 39 Rn. 161 f.; Erman/Norpoth BGB 14. Aufl. § 45
+    VersAusglG Rn. 24; Johannsen/Henrich/Holzwarth Familienrecht 6. Aufl. § 45
+    Rn. 99; jurisPK-BGB/Lange [Stand: Oktober 2016] § 47 VersAusglG Rn. 12;
+    jurisPK-BGB/Breuers [Stand: Dezember 2016] § 11 VersAusglG Rn. 22 f.;
+    Ruland Versorgungsausgleich 4. Aufl. Rn. 512, 687; Weiß/Schneider in Gilbert/
+
+                                          -6-
+
+
+
+     Hesse Die Versorgung der Beschäftigten des öffentlichen Dienstes [Stand: Februar 2016] § 32 a VBLS Rn. 38 ff.; Wick FuR 2015, 204, 205; Mühlstädt BetrAV
+     2010, 425, 426 f.) keine grundlegenden Beanstandungen gegen die von den
+     Trägern der Zusatzversorgung des öffentlichen Dienstes praktizierte Verfahrensweise, die ehezeitlich erworbenen Versorgungspunkte auf der Basis der
+     biometrischen Faktoren des Ausgleichspflichtigen in einen versicherungsmathematischen Barwert umzurechnen und die Hälfte dieses Barwerts - gekürzt
+     um die Hälfte der Teilungskosten nach § 13 VersAusglG - auf der Basis der
+     biometrischen Faktoren des Ausgleichsberechtigten wieder in Versorgungspunkte zurückzurechnen.
+
+10         a) Nach § 5 Abs. 1 VersAusglG berechnet der Versorgungsträger den
+     Ehezeitanteil des Anrechts in Form der für das jeweilige Versorgungssystem
+     maßgeblichen Bezugsgröße, insbesondere also in Form von Entgeltpunkten,
+     eines Rentenbetrags oder eines Kapitalwerts. Mit dieser Vorschrift sollte insbesondere klargestellt werden, dass bei der Bestimmung der Bezugsgröße für die
+     Berechnung des Ehezeitanteils grundsätzlich kein Auswahlermessen des Versorgungsträgers besteht, sofern nicht das Gesetz in den §§ 39 ff. VersAusglG
+     dem Versorgungsträger ausdrücklich ein Wahlrecht einräumt (vgl. BT-Drucks.
+     16/11903 S. 53). Das gemäß § 45 Abs. 1 VersAusglG für die betriebliche Altersversorgung der Privatwirtschaft bestehende Wahlrecht gilt für die Zusatzversorgung des öffentlichen Dienstes nicht (§ 45 Abs. 3 VersAusglG). Im Versorgungssystem der VBL - wie auch der anderen Zusatzversorgungen des öffentlichen Dienstes - sind deshalb die von dem Versicherten satzungsgemäß
+     erworbenen Versorgungspunkte (§ 36 VBLS) als Bezugsgröße maßgeblich (vgl.
+     auch § 39 Abs. 2 Nr. 1 VersAusglG). Gemäß § 5 Abs. 3 VersAusglG unterbreitet der Versorgungsträger dem Familiengericht einen Vorschlag für die Bestimmung des Ausgleichswerts. Wie der Senat mehrfach ausgesprochen hat, stellt
+
+                                          -7-
+
+
+
+     es diese Vorschrift dem Versorgungsträger indessen nicht frei, für den Ausgleichswert eine andere Ausgleichsbezugsgröße als die nach seiner Versorgungsordnung maßgebliche zu wählen (vgl. zuletzt Senatsbeschlüsse vom
+     17. September 2014 - XII ZB 178/12 - FamRZ 2014, 1982 Rn. 16 f. und vom
+     27. Juni 2012 - XII ZB 492/11 - FamRZ 2012, 1545 Rn. 7 ff.).
+
+11         b) Aus § 5 Abs. 1 und 3 VersAusglG folgt - für sich genommen - zunächst
+     aber lediglich, dass der dem Familiengericht zu unterbreitende Vorschlag für
+     den Ausgleichswert in der für die Ermittlung des Ehezeitanteils maßgeblichen
+     Bezugsgröße - hier: Versorgungspunkte - zu erfolgen hat (Senatsbeschluss
+     vom 27. Juni 2012 - XII ZB 492/11 - FamRZ 2012, 1545 Rn. 9). Diesem Erfordernis wird durch § 32 a Abs. 2 Satz 1 VBLS Rechnung getragen. Ein darüber
+     hinausgehender Zwang, den Ausgleichswert durch nominale Teilung des in
+     Versorgungspunkten ausgewiesenen Ehezeitanteils berechnen zu müssen,
+     lässt sich dem Gesetz entgegen der Ansicht des Beschwerdegerichts demgegenüber nicht entnehmen.
+
+12         aa) Dabei ist dem Beschwerdegericht zuzugeben, dass der Wortlaut von
+     § 1 Abs. 1 VersAusglG, wonach im Versorgungsausgleich die in der Ehezeit
+     erworbenen Anteile von Anrechten (Ehezeitanteile) "jeweils zur Hälfte zwischen
+     den geschiedenen Ehegatten zu teilen" seien, eine solche Verpflichtung zur
+     nominalen Teilung der Bezugsgröße nahelegen könnte. Andererseits steht der
+     ausgleichsberechtigten Person gemäß § 1 Abs. 2 Satz 2 VersAusglG die Hälfte
+     "des Werts" des jeweiligen Ehezeitanteils (Ausgleichswert) zu. Dies ermöglicht
+     begrifflich durchaus eine Auslegung dahingehend, dass die Teilung des Ehezeitanteils auch auf einer vorherigen versicherungsmathematischen Bewertung
+     des in der Ehezeit erworbenen Anrechts beruhen kann, wenn der Versorgungsträger die Bezugsgröße selbst nicht nominal teilen will. Eine solche Sichtweise
+     wird auch durch § 11 Abs. 1 Satz 1 VersAusglG gestützt, der für die interne Tei-
+
+                                          -8-
+
+
+
+     lung den Grundsatz der "gleichwertigen" Teilhabe festschreibt, welche nach den
+     Vorstellungen des Gesetzgebers bei der Entstehung eines neuen Anrechts
+     dann sichergestellt ist, wenn das zu übertragende Anrecht dem bei der ausgleichspflichtigen Person verbleibenden Anrecht in Bezug auf den Ausgleichswert "wertmäßig" entspricht (BT-Drucks. 16/10144 S. 56). Wie sich aus den
+     Gesetzmaterialien im Weiteren erschließt, ist der Gesetzgeber vor diesem Hintergrund selbst davon ausgegangen, dass die nominale Halbteilung der
+     Bezugsgröße nur einen von mehreren möglichen Wegen darstellt, um einen
+     wertmäßig entsprechenden Ausgleichswert zu bestimmen (vgl. BT-Drucks.
+     16/10144 S. 56). Der Gesetzgeber hat in diesem Zusammenhang insbesondere
+     anerkannt, dass der Versorgungsträger ein berechtigtes wirtschaftliches Interesse daran haben kann, den Ausgleichswert nicht durch die nominale Teilung
+     der Bezugsgröße zu bestimmen, nämlich dann, wenn die ausgleichsberechtigte
+     Person versicherungsmathematisch eine ungünstigere Risikostruktur als die
+     ausgleichspflichtige Person aufweist (BT-Drucks. 16/10144 S. 56).
+
+13         bb) Das in § 32 a Abs. 2 Satz 2 VBLS geregelte Verfahren, das Anrecht
+     für die ausgleichsberechtigte Person durch Umrechnung und Zurückrechnung
+     mit Hilfe des versicherungsmathematischen Barwerts zu errechnen, vermag
+     dem in § 11 Abs. 1 Satz 1 VersAusglG normierten Grundsatz der wertgleichen
+     Teilhabe besser Rechnung zu tragen als die nominale Teilung der Bezugsgröße
+     (Versorgungspunkte), wie sie beispielsweise bei der Halbteilung der ehezeitlich
+     erworbenen Entgeltpunkte in der gesetzlichen Rentenversicherung erfolgt.
+
+14         Dies beruht darauf, dass die im Leistungsfall zur Bestimmung des Rentenbetrags in Euro herangezogene Rechengröße im System der Zusatzversorgung des öffentlichen Dienstes statisch (Messbetrag nach § 35 Abs. 1 VBLS)
+     und im System der gesetzlichen Rentenversicherung dynamisch (aktueller Rentenwert nach §§ 68, 255 a SGB VI) ist. Ein durch Beitragszahlung bei der VBL
+
+                                           -9-
+
+
+
+     erlangter Versorgungspunkt wird für jeden Versicherten zu einem gleichbleibend festen monatlichen Rentenbetrag von 4 € führen, und zwar unabhängig
+     davon, ob dieser Versorgungspunkt von einem lebensälteren Versicherten unmittelbar vor dem Renteneintritt oder von einem lebensjüngeren Versicherten
+     zu einem Zeitpunkt erworben wurde, der für ihn möglicherweise noch mehrere
+     Jahrzehnte vor dem Erreichen der Altersgrenze liegt. Je früher indessen der
+     Beitrag eingezahlt wird, desto länger können innerhalb des Versorgungssystems Verzinsungseffekte erzielt werden. Diesem Umstand wird bei der Umwandlung von Beiträgen in Versorgungspunkte durch eine altersabhängige
+     Komponente (den sogenannten Altersfaktor) Rechnung getragen, dessen Anwendung dazu führt, dass ein lebensjüngerer Versicherter aufgrund des höheren Altersfaktors mit dem gleichen Beitrag eine höhere Anzahl an Versorgungspunkten erwirbt (vgl. dazu Langenbrinck/Mühlstädt Betriebsrente der Beschäftigten des öffentlichen Dienstes Rn. 51 ff.). Die Ermittlung des Ausgleichswerts
+     mit Hilfe des versicherungsmathematischen Barwerts stellt die Berücksichtigung
+     altersabhängiger Komponenten bei der Begründung des neuen Anrechts im
+     Wege der internen Teilung sicher.
+
+15         cc) Schließlich gewährleistet die in § 32 a Abs. 2 Satz 2 VBLS vorgesehene Berechnungsweise auch die gebotene Kostenneutralität des Versorgungsausgleichs (Weiß/Schneider in Gilbert/Hesse Die Versorgung der Beschäftigten des öffentlichen Dienstes [Stand: Februar 2016] § 32 a VBLS
+     Rn. 43). Aufseiten der Versorgungsträger hätte die nominale Teilung der von
+     dem ausgleichspflichtigen Versicherten ehezeitlich erworbenen Versorgungspunkte bei einem Altersunterschied zwischen den Ehegatten entweder die Entstehung versicherungstechnischer Gewinne (bei einem lebensjüngeren Ausgleichsberechtigten) oder versicherungstechnischer Verluste (bei einem lebensälteren Ausgleichsberechtigten) zur Folge. Anders als das Beschwerdegericht
+     meint, wirken sich versicherungstechnische Verluste auf die Träger der Zusatz-
+
+                                           - 10 -
+
+
+
+     versorgung des öffentlichen Dienstes sowohl in kapitalgedeckten Bereichen als
+     auch in umlagefinanzierten Bereichen gleichermaßen negativ aus. Auch bei der
+     Umlagefinanzierung wird für die Verbindlichkeiten gegenüber den Versicherten
+     eine fiktive Netto-Deckungsrückstellung ermittelt. Versicherungstechnische Verluste erhöhen diese Netto-Deckungsrückstellung und vermindern dadurch in der
+     versicherungstechnischen Bilanz die in Form von Bonuspunkten an die Versicherten zu verteilenden Überschüsse (vgl. Weiß/Schneider in Gilbert/Hesse Die
+     Versorgung der Beschäftigten des öffentlichen Dienstes [Stand: Februar 2016]
+     § 32 a VBLS Rn. 40). Es wäre angesichts der Struktur des Versichertenbestands bei den Zusatzversorgungskassen des öffentlichen Dienstes bei einer
+     nominalen Teilung von Versorgungspunkten auch nicht ohne weiteres zu erwarten, dass sich die im einzelnen Teilungsfall entstehenden altersbedingten versicherungstechnischen Gewinne und Verluste bei einer wirtschaftlichen Gesamtbetrachtung gegeneinander aufheben würden, weil etwa zwei Drittel aller Versicherten bei den Zusatzversorgungskassen Frauen sind, deren durch die interne
+     Teilung potentiell begünstigte Ehegatten im Durchschnitt drei Jahre älter sind
+     als sie selbst (vgl. Mühlstädt BetrAV 2010, 425, 426).
+
+16         dd) Eine andere rechtliche Beurteilung ergibt sich entgegen der Ansicht
+     des Beschwerdegerichts schließlich auch nicht aus § 47 Abs. 4 Satz 2
+     VersAusglG, wonach für ein Anrecht, das bei einem Träger einer Zusatzversorgung des öffentlichen oder kirchlichen Dienstes besteht, als korrespondierender
+     Kapitalwert der versicherungsmathematische Barwert im Sinne von § 47 Abs. 5
+     VersAusglG zu ermitteln ist. Mit Blick auf § 5 Abs. 3 VersAusglG ist diese Regelung (nur) deshalb erforderlich, weil auch die Träger der Zusatzversorgung des
+     öffentlichen Dienstes, die den Ausgleichswert in Versorgungspunkten als der
+     maßgeblichen Bezugsgröße ihres Versorgungssystems auszuweisen haben,
+     dem Familiengericht einen Vorschlag für den korrespondierenden Kapitalwert
+     als Hilfsgröße für die Prüfung einer Geringfügigkeit und einen möglicherweise
+
+                                         - 11 -
+
+
+
+     erforderlichen Wertvergleich von Anrechten unterbreiten müssen. Der Rückgriff
+     auf den versicherungsmathematischen Barwert nach § 47 Abs. 5 VersAusglG
+     erfolgte insbesondere deshalb, weil der Gesetzgeber eine Ermittlung des korrespondierenden Kapitalwerts nach dem Maßstab einer fiktiven Einzahlung von
+     Beiträgen in das Versorgungssystem (§ 47 Abs. 2 VersAusglG) angesichts der
+     bei gleicher Leistung erheblich voneinander abweichenden Umlagesätze der
+     arbeitgeberfinanzierten Zusatzversorgungseinrichtungen als problematisch ansah (vgl. BT-Drucks. 16/10144 S. 85). Demgegenüber lassen sich weder dem
+     Wortlaut der Vorschrift noch den Gesetzesmaterialien Anhaltspunkte für die
+     Beurteilung der Frage entnehmen, auf welche bestimmte Weise der - in Versorgungspunkten anzugebende - Ausgleichswert zu berechnen oder nicht zu berechnen ist (vgl. OLG Nürnberg FamRZ 2015, 1106, 1107).
+
+
+
+
+                                          III.
+
+17         Die angefochtene Entscheidung kann somit keinen Bestand haben. Die
+     Sache ist auf der Grundlage der bislang getroffenen Feststellungen noch nicht
+     zur Endentscheidung reif (§ 74 Abs. 6 Satz 2 FamFG).
+
+18         1. Der Durchführung des Versorgungsausgleichs steht zum jetzigen Zeitpunkt allerdings die Rechtsprechung des Bundesgerichtshofs zur (erneuten)
+     Unwirksamkeit der Startgutschriftenregelung der VBL für rentenferne Versicherte (vgl. BGHZ 209, 201 = VersR 2016, 583) nicht entgegen, weil das von dem
+     Ehemann in der Ehezeit erlangte Anrecht "VBLklassik" ausschließlich auf dem
+     Erwerb von Versorgungspunkten nach dem 1. Januar 2002 und nicht auf Startgutschriften beruht.
+
+                                         - 12 -
+
+
+
+19         2. Demgegenüber kann die Heranziehung geschlechtsspezifischer Rechnungsgrundlagen zur Ermittlung des versicherungsmathematischen Barwerts
+     unter den obwaltenden Umständen nicht mehr hingenommen werden.
+
+20         Die rechtliche Zulässigkeit der Heranziehung von geschlechtsspezifischen Sterbetafeln und den darauf beruhenden Barwertfaktoren durch die VBL
+     und andere Zusatzversorgungsträger des öffentlichen Dienstes ist umstritten.
+     Während geschlechtsspezifische Barwertfaktoren von einem Teil der obergerichtlichen Rechtsprechung (weiterhin) akzeptiert werden (vgl. OLG Schleswig
+     FamRZ 2016, 371, 372; OLG Köln FamRZ 2015, 1108, 1109; OLG Oldenburg
+     FamRZ 2011, 1148 f.; vgl. auch KG FamRZ 2016, 133, 136: keine Verpflichtung
+     zur Verwendung geschlechtsneutraler Barwertfaktoren bei Ehezeitende vor
+     dem 21. Dezember 2012), macht eine abweichende Ansicht gegen diese Praxis
+     der VBL sowohl verfassungsrechtliche als auch unionsrechtliche Bedenken geltend (vgl. OLG Celle FamRZ 2014, 305, 307 f.; Wick Der Versorgungsausgleich
+     3. Aufl. Rn. 333; Hauß/Bührer Versorgungsausgleich und Verfahren in der Praxis 2. Aufl. Rn. 379; Orgis FPR 2011, 509, 512; Johannsen/Henrich/Holzwarth
+     Familienrecht 5. Aufl. § 45 VersAusglG Rn. 54).
+
+21         a) Nach Auffassung des Senats führt das in § 32 a Abs. 2 Satz 2 VBLS
+     geregelte Verfahren zur Ermittlung des Ausgleichswerts für die interne Teilung
+     bei Verwendung der im Technischen Geschäftsplan der VBL enthaltenen geschlechtsspezifischen Barwertfaktoren für die Umrechnung bzw. Zurückrechnung von Barwerten zu einer mit Art. 3 Abs. 3 Satz 1 GG nicht zu vereinbarenden Ungleichbehandlung von ausgleichsberechtigten Personen männlichen und
+     weiblichen Geschlechts.
+
+22         aa) Die Zusatzversorgung des öffentlichen Dienstes nach der Satzung
+     der VBL ist am Grundrecht auf Gleichbehandlung zu messen. Die Satzung ist
+     zwar privatrechtlich ausgestaltet und findet Anwendung auf die Gruppenversi-
+
+                                          - 13 -
+
+
+
+     cherungsverträge, welche die an der VBL beteiligten öffentlichen Arbeitgeber
+     mit der VBL zugunsten ihrer Arbeitnehmer abschließen. Jedoch nimmt die VBL
+     als Anstalt des öffentlichen Rechts (§ 1 VBLS) eine öffentliche Aufgabe lediglich
+     in privatrechtlicher Form wahr, so dass die Satzung der VBL insbesondere an
+     die Beachtung des Gleichheitsgrundrechts gebunden ist (vgl. BVerfG NZA
+     2011, 857, 858; BVerfG FamRZ 2009, 1977; vgl. bereits BGHZ 103, 370, 383
+     = NVwZ-RR 1988, 104, 107).
+
+23         bb) Art. 3 Abs. 3 Satz 1 GG konkretisiert und verstärkt den allgemeinen
+     Gleichheitssatz des Art. 3 Abs. 1 GG. Das Geschlecht darf grundsätzlich nicht
+     als Anknüpfungspunkt für eine rechtliche Ungleichbehandlung herangezogen
+     werden. Das gilt auch dann, wenn die Regelung nicht unmittelbar auf eine nach
+     Art. 3 Abs. 3 GG verbotene Ungleichbehandlung angelegt ist, sondern in erster
+     Linie andere Ziele verfolgt. An das Geschlecht anknüpfende differenzierende
+     Regelungen sind nach ständiger Rechtsprechung des Bundesverfassungsgerichts mit Art. 3 Abs. 3 Satz 1 GG nur dann vereinbar, wenn und soweit sie zur
+     Lösung von Problemen, die "ihrer Natur nach" entweder nur bei Männern oder
+     nur bei Frauen auftreten können, zwingend erforderlich sind (vgl. BVerfG NJW
+     1995, 1733, 1734; BVerfG FamRZ 1992, 289, 290; vgl. zuletzt BVerfG NZA
+     2011, 857, 858 f.). Mit dieser Formulierung hat die neuere verfassungsgerichtliche Rechtsprechung die frühere Bezugnahme auf "die objektiven biologischen
+     und funktionalen (arbeitsteiligen) Unterschiede nach der Natur des jeweiligen
+     Lebensverhältnisses zwischen Männern und Frauen" (zuletzt etwa BVerfG NJW
+     1983, 1968, 1970 mwN) ersetzt. Unmittelbar geschlechterdifferenzierende Regelungen sind nunmehr - nach einer strengen Verhältnismäßigkeitsprüfung - nur
+     noch zur Lösung solcher Probleme zulässig, die allein auf biologische Unterschiede zwischen Männern und Frauen zurückzuführen sind (vgl. BeckOK
+     GG/Kischel [Stand: Dezember 2016] Art. 3 Rn. 192; Sachs/Osterloh/Nußberger
+     GG 7. Aufl. Art. 3 Rn. 274).
+
+                                         - 14 -
+
+
+
+24         cc) Nach diesen Maßstäben kann eine unterschiedliche Behandlung von
+     (versicherungstechnisch gleichaltrigen) männlichen und weiblichen Ausgleichsberechtigten bei der Berechnung des im Wege der internen Teilung zu übertragenden Ausgleichswerts nicht mit der Begründung gerechtfertigt werden, dass
+     mit den geschlechtsspezifischen Barwertfaktoren lediglich die höhere Lebenserwartung von Frauen und die damit einhergehende längere Leistungspflicht
+     des Versorgungsträgers aus dem geteilten Anrecht abgebildet werde.
+
+25         (1) Es steht dabei allerdings außer Frage, dass Männer und Frauen eine
+     statistisch nachweisbar unterschiedlich hohe Lebenserwartung haben. Nach der
+     vom Statistischen Bundesamt im Frühjahr 2016 veröffentlichten Periodensterbetafel für Deutschland beträgt die Lebenserwartung bei Geburt für neugeborene Jungen 78,13 Jahre und für neugeborene Mädchen 83,05 Jahre. Die
+     durchschnittliche Restlebenserwartung für 65-jährige Männer liegt bei weiteren
+     17,69 Jahren und für gleichaltrige Frauen bei weiteren 20,90 Jahren (vgl. Sterbetafel 2012/2014, Methoden- und Ergebnisbericht zur laufenden Berechnung
+     von Periodensterbetafeln für Deutschland und die Bundesländer S. 26 ff., veröffentlicht bei www.destatis.de).
+
+26         Es ist demgegenüber stark umstritten, ob die statistisch höhere Lebenserwartung von Frauen auf biologische Gründe zurückgeführt werden kann.
+     Teilweise wird - gestützt auch auf medizinische und soziologische Studien (vgl.
+     etwa die Nachweise bei Temming ZESAR 2005, 72, 74 Fn. 16 f.) - die Auffassung vertreten, dass die unterschiedlich hohe Lebenserwartung von Frauen
+     und Männern gerade nicht auf biologischen Unterschieden, sondern in erster
+     Linie auf soziokulturellen Prägungen (Lebensgewohnheiten, Ernährungsweise,
+     Suchtverhalten, Familienstand, Berufstätigkeit oder Bildungsniveau) beruhe, für
+     die das Geschlecht lediglich als stellvertretender Indikator herangezogen werde
+     (vgl. Temming ZESAR 2005, 72, 74; Wrese/Baer NJW 2004, 1623, 1625;
+
+                                         - 15 -
+
+
+
+     Hensche NZA 2004, 828, 832; vgl. auch Schlussanträge der Generalanwältin
+     Kokott vom 30. September 2010 in der Rechtssache C-236/09 - Association
+     Belge des Consommateurs Test-Achats - VersR 2010, 1571 Rn. 62 f.). Demgegenüber wird von der Gegenansicht die Bedeutung möglicher biologischer Ursachen für die unterschiedliche Lebenserwartung von Männern und Frauen betont (vgl. etwa Steinmeyer NZA 2004, 1257, 1258 f.; Armbrüster VersR 2010,
+     1578, 1581). In diesem Zusammenhang wird einerseits auf genetische Einflüsse im Zusammenhang mit der unterschiedlichen Anfälligkeit der Geschlechter für Erbkrankheiten (vgl. Höhn ZVersWiss 2002, 237, 240 f.; vgl. auch
+     Schwintowski VersR 2011, 164, 170) und andererseits auf hormonelle Faktoren
+     hingewiesen: Das männliche Sexualhormon Testosteron fördere die Entstehung
+     von Arteriosklerose und Thrombosen, während das weibliche Sexualhormon
+     Östrogen eine höhere Produktion von Antikörpern gegen Infektionen und mittelbar über die Verbesserung der Cholesterinwerte einen verbesserten Schutz
+     gegen Gefäßkrankheiten und Schlaganfälle bewirke (vgl. Kürvers Betriebliche
+     Altersversorgung in Deutschland und den USA im Rechtsvergleich S. 236 mN);
+     darüber hinaus ergebe sich aufgrund der hormonellen Unterschiede zwischen
+     Männern und Frauen auch eine unterschiedlich ausgeprägte Neigung zu risikoreichen Lebensgewohnheiten (Höhn ZVersWiss 2002, 237, 241).
+
+27         (2) Hiernach lässt sich nach dem derzeitigen Kenntnisstand am ehesten
+     noch die Schlussfolgerung rechtfertigen, dass die statistisch unterschiedliche
+     Lebenserwartung von Männern und Frauen - in einem letztlich nicht aufklärbaren Umfang - sowohl von genetischen und hormonellen Faktoren einerseits als
+     auch von soziokulturellen Faktoren andererseits beeinflusst wird. Es erscheint
+     schon zweifelhaft, ob ein solcher Befund am Maßstab des Art. 3 Abs. 3 Satz 1
+     GG einen hinreichenden (biologischen) Anknüpfungspunkt für eine unmittelbar
+     an das Geschlecht anknüpfende Ungleichbehandlung liefern kann (zweifelnd
+
+                                         - 16 -
+
+
+
+     etwa Felix/Sangi ZESAR 2011, 257, 260 f.). Es kommt darauf aber letztlich
+     nicht an, weil es - jedenfalls - an einem zwingenden Grund für die Ungleichbehandlung fehlt.
+
+28         (a) Weibliche Versicherte erhalten während der Anwartschaftsphase aufgrund der entrichteten Beiträge dieselben Versorgungspunkte wie versicherungstechnisch gleichaltrige männliche Versicherte. Die mit dem Erwerb der
+     gleichen Anzahl von Versorgungspunkten verbundene Leistungspflicht lässt für
+     die VBL gegenüber einer weiblichen Versicherten aufgrund ihrer statistisch höheren Lebenserwartung einen höheren Erfüllungsaufwand erwarten als gegenüber einem versicherungstechnisch gleichaltrigen männlichen Versicherten.
+     Diesem Umstand trägt die VBL durch die Verwendung geschlechtsspezifischer
+     Barwertfaktoren bei der Berechnung von Deckungsrückstellungen in ihrer versicherungstechnischen Bilanz Rechnung. Soweit die VBL - folgerichtig - die gleichen geschlechtsspezifischen Barwertfaktoren für ihre versicherungsmathematischen Berechnungen zum Ausgleichswert im Versorgungsausgleich heranzieht (vgl. Weiß/Schneider in Gilbert/Hesse Die Versorgung der Beschäftigten
+     des öffentlichen Dienstes [Stand: Februar 2016] § 32 a VBLS Rn. 41), wird
+     dadurch in versicherungstechnischer Hinsicht die Kostenneutralität des Versorgungsausgleichs gewährleistet.
+
+29         (b) Die Kostenneutralität des Versorgungsausgleichs kann aber grundsätzlich auch durch die Verwendung geschlechtsneutraler Rechnungsgrundlagen sichergestellt werden. Zwar wird mit Recht darauf hingewiesen, dass eine
+     Neukalkulation mit geschlechtsneutralen Rechnungsgrundlagen für den Versorgungsträger möglicherweise mit versicherungstechnischen Belastungen einhergeht, wenn sich zum einen die bisherigen geschlechtsspezifischen Unterschiede in der Sterblichkeitsannahme bei der Bemessung des Barwerts der
+     künftigen Leistungsverpflichtungen stark niederschlagen und sich der Versor-
+
+                                          - 17 -
+
+
+
+     gungsträger zum anderen kalkulatorisch gegen das Risiko absichern muss,
+     dass sich das in seinen neuen geschlechtsneutralen Rechnungsgrundlagen
+     zugrunde gelegte Mischungsverhältnis von Männern und Frauen in seinem
+     Versichertenbestand mit dem Zeitablauf ändert (vgl. Höfer/Reinhard Betriebsrentenrecht Bd. I [Stand: März 2015] Kap. 6 Rn. 150; Jurk/Wilhelm BB 2012,
+     381, 383 f.). Wenn aber die zugesagte Leistung - wie bei der VBL und den anderen Trägern der Zusatzversorgung des öffentlichen Dienstes - eine Hinterbliebenenversorgung einschließt, werden die Auswirkungen der geschlechtsspezifisch unterschiedlichen Sterblichkeitsannahmen bei Männern und Frauen
+     nahezu kompensiert, weil die Wahrscheinlichkeit, eine Hinterbliebenenversorgung für eine Witwe auszulösen, bedeutend höher als die Wahrscheinlichkeit
+     ist, eine Hinterbliebenenversorgung für einen Witwer herbeizuführen (vgl. Höfer/
+     Reinhard Betriebsrentenrecht Bd. I [Stand: März 2015] Kap. 6 Rn. 150; Jurk/
+     Wilhelm BB 2012, 381, 383). Eine besondere versicherungstechnische Belastung ist daher für die VBL durch die Umstellung auf geschlechtsneutrale Rechnungsgrundlagen nicht zu erwarten.
+
+30         dd) Der auf der geschlechtsspezifischen Bewertungspraxis der VBL beruhende Verstoß gegen das Gleichheitsgrundrecht führt indessen nicht zur Unwirksamkeit des § 32 a Abs. 2 Satz 2 VBLS selbst.
+
+31         Ein Gleichheitsverstoß kann grundsätzlich auch im Wege der verfassungskonformen Auslegung der betreffenden Satzungsbestimmungen beseitigt
+     werden, sofern dadurch nicht in die durch Art. 9 Abs. 3 GG geschützten Regelungsbefugnisse und Gestaltungsspielräume der Tarifvertragsparteien eingegriffen wird (vgl. auch BAG VersR 1979, 968, 970). Letzteres ist im vorliegenden
+     Fall schon deshalb nicht zu besorgen, weil die Tarifparteien des öffentlichen
+     Dienstes auf eine tarifvertragliche Umsetzung der Strukturreform des Versorgungsausgleichs verzichtet haben und § 32 a VBLS daher keine tarifvertragli-
+
+                                           - 18 -
+
+
+
+     che Grundlage hat (vgl. Weiß/Schneider in Gilbert/Hesse Die Versorgung der
+     Beschäftigten des öffentlichen Dienstes [Stand: Februar 2016] § 32 a VBLS
+     Rn. 6). § 32 a Abs. 2 Satz 2 VBLS enthält seinerseits keine konkreten Vorgaben
+     über die bei der Barwertermittlung zu verwendenden Rechnungsgrundlagen.
+     Vielmehr beschränkt sich die Bestimmung allgemein auf eine Bezugnahme auf
+     die "versicherungsmathematischen Grundsätze", so dass der auf der Verwendung geschlechtsspezifischer Rechnungsgrundlagen beruhende Gleichheitsverstoß schon durch eine auf verfassungskonformer Auslegung beruhenden Handhabung der Bestimmung dahingehend beseitigt werden kann, dass bei der versicherungsmathematischen Ermittlung von Barwerten im Rahmen der Berechnung des Ausgleichswerts im Versorgungsausgleich lediglich geschlechtsneutrale Rechnungsgrundlagen herangezogen werden dürfen (im Ergebnis ebenso
+     OLG Celle FamRZ 2014, 305, 308).
+
+32         b) Die Verwendung geschlechtsspezifischer Barwertfaktoren kann nur
+     noch für solche Versorgungsauskünfte hingenommen werden, die vor dem
+     1. Januar 2013 erteilt worden sind.
+
+33         Bei einem Verstoß gegen das Gleichheitsgrundrecht stellt sich grundsätzlich die Frage nach einer zeitlichen und sachlichen Beschränkung der Folgewirkungen. Dies gilt auch bei einem Grundrechtsverstoß durch die Ausgestaltung von Versicherungsbedingungen im Rahmen einer Zusatzversorgung im
+     öffentlichen Dienst, die auf der Satzung einer öffentlichen Anstalt beruht (vgl.
+     BVerfG NZA 2011, 857, 859). Die Gewährung einer Übergangsfrist kann aus
+     dem Gesichtspunkt einer geordneten Finanzplanung sowie dann geboten sein,
+     wenn die (Verfassungs-)Rechtslage bisher nicht hinreichend geklärt war und
+     aus diesem Grund eine angemessene Frist zur Schaffung einer verfassungskonformen Regelung zu gewähren ist (BVerfG NJW 2008, 1868, 1875; BVerfG
+     NJW 1991, 2129, 2133).
+
+                                          - 19 -
+
+
+
+34         aa) In diesem Zusammenhang hat der Senat insbesondere berücksichtigt, dass ein schützenswertes Vertrauen in die Zulässigkeit geschlechtsspezifischer versicherungsmathematischer Rechnungsgrundlagen - zumindest für die
+     im Rahmen der betrieblichen Altersversorgung nach dem 21. Dezember 2012
+     neu abgeschlossenen Versicherungsverträge - mit Blick auf die Rechtsprechung des Europäischen Gerichtshofs selbst von privatrechtlich organisierten
+     Versorgungsträgern nicht mehr in Anspruch genommen werden konnte.
+
+35         (1) In der sogenannten "Test-Achats"-Entscheidung aus dem Jahre 2011
+     hat sich der Europäische Gerichtshof mit einer nationalen (belgischen) Vorschrift befasst, die unter bestimmten Umständen geschlechtsspezifische Prämien und Leistungen bei privaten Versicherungsverträgen zugelassen hat. Obwohl eine solche Praxis gemäß Art. 5 Abs. 1 der Richtlinie 2004/113/EG des
+     Rates vom 13. Dezember 2004 zur Verwirklichung des Grundsatzes der Gleichbehandlung von Frauen und Männern beim Zugang zu und bei der Versorgung
+     mit Gütern und Dienstleistungen (ABl. Nr. L 373 vom 21. Dezember 2004 S. 37;
+     im Folgenden: Gender-Richtlinie) schon für Versicherungsverträge untersagt
+     war, die nach dem 21. Dezember 2007 neu abgeschlossen worden sind, stand
+     das belgische Gesetz im Einklang mit der Richtlinie. Denn gemäß Art. 5 Abs. 2
+     der Gender-Richtlinie konnten die Mitgliedsstaaten noch bis zum 21. Dezember
+     2007 nationale Regelungen zur Zulässigkeit proportionaler Unterschiede bei
+     den Prämien und Leistungen privater Versicherungsverträge schaffen, wenn
+     "die Berücksichtigung des Geschlechts bei einer auf relevanten und genauen
+     versicherungsmathematischen und statistischen Daten beruhenden Risikobewertung ein bestimmender Faktor ist." Auch Deutschland hatte von dieser Möglichkeit Gebrauch gemacht (vgl. § 20 Abs. 2 Satz 1 AGG in der vom 18. April
+     2006 bis zum 21. Dezember 2012 geltenden Fassung).
+
+                                          - 20 -
+
+
+
+36         Der Europäische Gerichtshof hat ausgesprochen, dass Art. 5 Abs. 2 der
+     Gender-Richtlinie mit Wirkung zum 21. Dezember 2012 seine Gültigkeit verliere. Habe der Unionsgesetzgeber ein Tätigwerden zur schrittweisen Verwirklichung der Gleichheit von Männern und Frauen beschlossen, müsse er "in kohärenter Weise" auf die Verwirklichung dieses Ziels hinwirken (EuGH Urteil vom
+     1. März 2011 - Rs. C-236/09 - Slg. 2011, I-773 = NJW 2011, 907 Rn. 19 ff.
+     - Association Belge des Consommateurs Test-Achats). Aus Art. 5 Abs. 1 der
+     Gender-Richtlinie ergebe sich das Ziel, dass Prämien und Leistungen in der
+     Versicherungswirtschaft geschlechtsneutral bemessen werden. Im 18. Erwägungsgrund der Gender-Richtlinie heiße es dazu ausdrücklich, dass zur Gewährleistung der Gleichbehandlung von Männern und Frauen die Berücksichtigung geschlechtsspezifischer versicherungsmathematischer Faktoren nicht zu
+     Unterschieden bei den Prämien und Leistungen führen sollen. Art. 5 Abs. 2 der
+     Gender-Richtlinie, der es den Mitgliedstaaten gestatte, eine Ausnahme von der
+     Regel geschlechtsneutraler Prämien und Leistungen unbefristet aufrechtzuerhalten, laufe der Verwirklichung des mit der Gender-Richtlinie verfolgten Ziels
+     der Gleichbehandlung von Frauen und Männern zuwider und sei deshalb mit
+     den primärrechtlichen Gewährleistungen der Art. 21 und 23 der Charta der
+     Grundrechte der Europäischen Union unvereinbar (vgl. EuGH Urteil vom
+     1. März 2011 - Rs. C-236/09 - Slg. 2011, I-773 = NJW 2011, 907 Rn. 30-32
+     - Association Belge des Consommateurs Test-Achats). Der deutsche Gesetzgeber hat als Reaktion auf die "Test-Achats"-Entscheidung mit Wirkung zum
+     21. Dezember 2012 - neben einzelnen Anpassungen im Versicherungsaufsichtsgesetz - den am Wortlaut von Art. 5 Abs. 2 der Gender-Richtlinie orientierten § 20 Abs. 2 Satz 1 AGG in der bis dahin bestehenden Fassung aufgehoben
+     (Art. 8 des SEPA-Begleitgesetzes vom 3. April 2013, BGBl. I S. 610).
+
+                                          - 21 -
+
+
+
+37         (2) Freilich findet die Gender-Richtlinie und die zu ihr ergangene Rechtsprechung des Europäischen Gerichtshofs auf die Systeme der betrieblichen
+     Altersversorgung keine unmittelbare Anwendung. Denn die Richtlinie gilt nicht
+     im Bereich "Beschäftigung und Beruf" (Art. 3 Abs. 4 der Gender-Richtlinie), weil
+     in diesem Bereich zahlreiche andere Rechtsinstrumente den Grundsatz der
+     Gleichbehandlung von Männern und Frauen verwirklichen (vgl. 15. Erwägungsgrund zur Gender-Richtlinie). Auch versicherungsförmige Durchführungswege
+     der betrieblichen Altersversorgung, in denen der Arbeitgeber - wie bei der
+     "VBLklassik" - als Versicherungsnehmer zugunsten seines Arbeitnehmers (als
+     versicherter Person und Bezugsberechtigter) den Versicherungsvertrag mit dem
+     externen Versorgungsträger abschließt, fallen unzweifelhaft nicht in den Anwendungsbereich der Gender-Richtlinie (Raulf BetrAV 2012, 641, 643;
+     Temming BetrAV 2012, 391, 393; Ulbrich DB 2011, 2575, 2576).
+
+38         Allerdings unterliegt das dem Versorgungsversprechen des Arbeitgebers
+     zugrunde liegende arbeitsrechtliche Grundverhältnis (Valutaverhältnis) in den
+     betrieblichen Systemen der sozialen Sicherung dem Geltungsbereich der Richtlinie 2006/54/EG des Europäischen Parlaments und des Rates vom 5. Juli 2006
+     zur Verwirklichung der Chancengleichheit und Gleichbehandlung von Männern
+     und Frauen in Arbeits- und Beschäftigungsfragen (ABl. Nr. L 204 vom 26. Juli
+     2006 S. 23; im Folgenden: Entgeltgleichheits-Richtlinie). Diese enthält ein
+     eigenes, für die betrieblichen Versorgungssysteme normiertes Verbot der geschlechtsbezogenen Diskriminierung, welches sich ausdrücklich auch auf die
+     Berechnung der Beiträge und Leistungen bezieht (Art. 5 lit. b und c der Entgeltgleichheits-Richtlinie). Eine Ausnahme gilt indessen gemäß Art. 9 Abs. 1 lit. h
+     der Entgeltgleichheits-Richtlinie, wonach die Gewährung eines unterschiedlichen Leistungsniveaus zulässig ist, wenn "dies notwendig ist, um versicherungstechnischen Berechnungsfaktoren Rechnung zu tragen, die im Fall von
+     Festbeitragssystemen je nach Geschlecht unterschiedlich sind".
+
+                                            - 22 -
+
+
+
+39         (3) Unter ausdrücklichem Hinweis auf Art. 9 Abs. 1 lit. h der Entgeltgleichheits-Richtlinie hat die Europäische Kommission die Auffassung vertreten,
+     dass die "Test-Achats"-Entscheidung des Europäischen Gerichtshofs keine
+     Auswirkungen auf die Systeme der betrieblichen Altersversorgung habe, weil
+     sich diese Rechtsprechung auf einen "völlig anderen Sachverhalt" beziehe (vgl.
+     Nr. 2.4 der Leitlinien zur Anwendung der Richtlinie 2004/113/EG des Rates auf
+     das Versicherungswesen im Anschluss an das Urteil des Gerichtshofs der Europäischen Union in der Rechtssache C-236/09 [Test-Achats], abgedruckt in
+     BetrAV 2012, 78 ff.). Eine Vergleichbarkeit der Sachverhalte ist indessen gerade bei den versicherungsförmigen Durchführungswegen der betrieblichen Altersversorgung nicht von der Hand zu weisen, weil männlichen und weiblichen
+     Arbeitnehmern als Gegenleistung für ihre Arbeitsleistung und die darauf gegründeten Beiträge des Arbeitgebers an den externen Versorgungsträger eine
+     - möglicherweise eben geschlechtsspezifisch kalkulierte - Versicherungs- bzw.
+     Versorgungsleistung zugesagt wird (vgl. Raulf BetrAV 2012, 641, 647). Die
+     rechtlichen Wertungen der "Test-Achats"-Entscheidung lassen es darüber hinaus als zweifelhaft erscheinen, ob die (entsprechend Art. 5 Abs. 2 der Gender-Richtlinie) als unbefristete Ausnahmeregelung konzipierte Bestimmung des
+     Art. 9 Abs. 1 lit. h der Entgeltgleichheits-Richtlinie im Einklang mit den primärrechtlichen Gewährleistungen des Unionsrechts steht. Dies gilt vor allem deshalb, weil sich die Entgeltgleichheits-Richtlinie (ebenso wie die Gender-Richtlinie) in ihren Erwägungsgründen als Rechtsrahmen auf Art. 21 und 23 der
+     Charta der Grundrechte der Europäischen Union bezieht und insoweit der gleiche Prüfungsmaßstab gilt. Im deutschen Schrifttum besteht deshalb - soweit
+     ersichtlich - grundsätzlich Einigkeit über die präjudizielle Bedeutung der "Test-Achats"-Entscheidung für die Beurteilung der Frage nach einer möglichen Unionsrechtswidrigkeit von Art. 9 Abs. 1 lit. h der Entgeltgleichheits-Richtlinie (vgl.
+     Höfer/Reinhard Betriebsrentenrecht Bd. I [Stand: März 2015] Kap. 6 Rn. 159;
+
+                                          - 23 -
+
+
+
+     Ahrendt RdA 2016, 129, 138 f.; Krönung BetrAV 2013, 89; Raulf BetrAV 2012,
+     641, 647; Reinecke BetrAV 2012, 402, 407; Temming BetrAV 2012, 391,
+     394 ff.; Langohr-Plato BetrAV 2012, 292, 293; Jurk/Wilhelm BB 2012, 381 f.;
+     Ulbrich DB 2012, 2775, 2776 f.; vgl. auch Willemsen/Döring BetrAV 2011, 432,
+     439: mittelbare Auswirkungen der "Test-Achats"-Entscheidung zumindest auf
+     die versicherungsförmigen Durchführungswege der betrieblichen Altersversorgung).
+
+40            bb) Die möglichen Folgewirkungen der "Test-Achats"-Entscheidung auf
+     das System der betrieblichen Altersversorgung haben ihren Niederschlag auch
+     in den zwischen der VBL und der Fachvereinigung Zusatzversorgung in der Arbeitsgemeinschaft kommunale und kirchliche Altersversorgung e.V. (AKA) vereinbarten "Richtlinien zum Versorgungsausgleich" (abgedruckt bei Gilbert/
+     Hesse Die Versorgung der Beschäftigten des öffentlichen Dienstes unter
+     Nr. 610) gefunden. Nach Ziffer 2.4.1 der "Richtlinien" sollen bei Versorgungsauskünften ab dem 1. Januar 2013 aus Gründen der Rechtssicherheit unabhängig vom Ehezeitende auch in der Pflichtversicherung nur noch geschlechtsneutrale Barwertfaktoren herangezogen werden. Diesen Empfehlungen folgend
+     haben einige kommunale Zusatzversorgungskassen ihr Bewertungssystem bereits im Jahr 2013 auf geschlechtsneutrale Barwertfaktoren umgestellt (vgl.
+     OLG Nürnberg FamRZ 2015, 1106, 1107: Zusatzversorgungskasse der bayerischen Gemeinden).
+
+41            Vor diesem Hintergrund kann die von den "Richtlinien" abweichende und
+     im Ergebnis schon gegen nationales Verfassungsrecht verstoßende Praxis der
+     Verwendung geschlechtsspezifischer Barwertfaktoren bei der Ermittlung des
+     Ausgleichswerts nur noch für solche Versorgungsauskünfte hingenommen werden, die vor dem 1. Januar 2013 erteilt worden sind.
+
+                                          - 24 -
+
+
+
+42          cc) Wird die Versorgungsauskunft dagegen - wie hier - nach dem 1. Januar 2013 erteilt, ist sie bei Heranziehung geschlechtsspezifischer Barwertfaktoren grundsätzlich nicht verwertbar. Solange der betroffene Zusatzversorgungsträger sein Bewertungssystem noch nicht auf geschlechtsneutrale Rechnungsgrundlagen umgestellt hat, kommt in der Übergangszeit auch eine Schätzung aufgrund von Näherungsberechnungen anhand der bisherigen geschlechtsspezifischen Barwertfaktoren in Betracht (vgl. OLG Celle FamRZ
+     2014, 305, 308 f.). Da es insoweit an den erforderlichen Feststellungen zu den
+     unterschiedlichen, eine solche Berechnung ermöglichenden Barwertfaktoren
+     fehlt, ist die Entscheidung aufzuheben und die Sache an das Beschwerdegericht zurückzuverweisen.
+
+
+
+
+     Dose                          Schilling                        Nedden-Boeger
+
+                     Botur                         Guhling
+
+
+
+
+     Vorinstanzen:
+     AG Darmstadt, Entscheidung vom 18.07.2016 - 57 F 2360/15 S -
+     OLG Frankfurt am Main, Entscheidung vom 24.11.2016 - 6 UF 229/16 -
