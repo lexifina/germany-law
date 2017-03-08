@@ -1,0 +1,94 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-03-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285292
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285292
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: 2.2 Neubesetzung des UA Budget
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP -: Teil B - Nichtöffentlicher Teil:
+- TOP 12.: Kenntnisnahmen und Veröffentlichungen
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Kulturhistorischer Verein Feldmoching auf dem Gfild e.V. Anschaffung von Tafeln zur Ausstellung "Straßennamensgebung" Az.: 0262.0-11-0232
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Europäische Janusz Korczak Akademie e.V. Projekt "Dresscode (s) - Mode ist getragene Vielfalt" am 02.04.2017 Az. 0262.0-11-0233
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Gemeinsame Anträge der Münchner Bezirksausschüsse zur Stärkung des Baumschutzes
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Antrag B 90/ Die Grünen-Fraktion: Umsetzung des Luftreinhalteplans im Münchner Norden
+- TOP 8.: Anhörungen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 8.1.2.: Mittelfristige Finanzplanung 2016 - 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren der Stadtkämmerei Fortschreibung für die Jahre 2017 bis 2021
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Verminderung des Fluglärms über dem 11.Stadtbezirk - Empfehlung Nr. 14-20 / E 01114 der Bürgerversammlung des Stadtbezirkes 11 – Milbertshofen-Am Hart am 21.07.2016
+- TOP 8.2.2.: Frankfurter Ring 81 - Nutzungsänderung Gewerbefläche (EG) zu einer Wettarena mit Gastronomie
+- TOP 8.2.3.: Dientzenhoferstraße - Neubau einer Wohnanlage mit 98 Wohneinheiten und TG a) Bauvorhaben - Vollzug von § 3 BezirksausschussS b) Baumschutz - Vollzug von § 13 BezirksausschussS i.V.m. der BaumschutzV
+- TOP 8.2.4.: Riesenfeldstraße 87 - Erschließung Kundencenter
+- TOP 8.2.5.: Vollzug von § 3 der BezirksausschussS: Lerchenauer Str. 76 - Neubau einer Energiezentrale für das KWK
+- TOP 8.2.6.: Errichtung eines Hauses für Kinder - Am Oberwiesenfeld („Olympia Wohn Park“) - Genehmigung Nutzerbedarfsprogramm -
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung „Spartan Race München - Hindernislauf“ im Olympiapark Zeitraum: 07.04. (15:00 - 20: Uhr) - 08.04.2017 (07:00 - 20:00 Uhr)
+- TOP 8.3.2.: Veranstaltung „Sattelfest - Das Münchner Radsport Festival“ im Olympiapark Zeitraum: 22.04. - 23.04.2017 (10:00 - 20:00 Uhr)
+- TOP 8.3.3.: Veranstaltung „E-Bike Days - Sport und Messeveranstaltung“ Zeitraum: 19.05. - 21.05.2017 (10:00 - 19:00 Uhr)
+- TOP 8.3.4.: Anhörung zur Beschlussvorlage Veranstaltungsbudget
+- TOP 8.3.5.: Veranstaltung: Mitmachen beim Tag des offenen Denkmals 2017
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Errichtung einer Vollampel an der Hugo-Wolf-Straße / Ecke Weyprechtstraße
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Curt-Mezger-Platz 1 | Anhörung für Marktfestsetzung, Foto-Börse München am 12.03.2017 | Anhörungsfrist: 02.03.2017
+- TOP 9.1.2.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr a) Kulturverein "Wendes" b) Evang. Luth. Versöhnungskirche c) GDIZ e.V.
+- TOP 9.1.3.: Moosacher Str. 80 - Baumfällung - Anhörungsfrist vor Sitzungstermin
+- TOP 9.1.4.: Starenweg 54 - Baumfällung - Anhörungsfrist vor Sitzungstermin
+- TOP 9.1.5.: Bürgeranliegen: Stadtplan für den Stadtbezirk 11 - Anregung: Aufnahme von Toiletten
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 9.2.2.: Biodiversität: Zwei zusätzliche Wildblumenwiesen pro Stadtbezirk auf öffentlichen Grünflächen - Antrag Nr. 14/20 / A 02823 -
+- TOP 9.2.3.: Bürgeranliegen: Grundschule an der Torquato-Tasso-Straße 38 - Umbaumaßnahmen / Erweiterung durch Container
+- TOP 9.2.4.: Meldelisten über Bauvorhaben im Stadtbezirk Zeitraum: 30.01.2017 - 19.02.2017
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 9.3.2.: (U) Bearbeitungsstand: Mehr Haus- und Kinderärzte im Münchner Norden - Antrag des BA 11 mit der Nr. 14-20 / B 02798 -
+- TOP 9.3.3.: Spielaktionen in öffentlichen Grünanlagen der Stadtbezirke 9, 10, 11 und 24
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Durchführung von Verkehrsversuchen durch das KVR
+- TOP 9.4.2.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 9.4.3.: Verkehrskonzept Münchner Norden - Schienengüterverkehr und Feldmochinger Kurve - BA-Antrag, BV-Empfehlung und Sachstandsbericht - Sitzungsvorlagen Nr. 14-20 / V 05735 -
+- TOP 9.4.4.: Vollzug der Grünanlagensatzung Baustelleneinrichtung an der Dientzenhoferstraße 54-60
+- TOP 9.4.5.: MVG: a) Zeitliche Verlängerung der Gleiserneuerung zwischen Münchner Freiheit und Scheidplatz b) Information über das Betriebskonzept der Linie U8 während der Erneuerung der Weichen 39 und 84 am Scheidplatz sowie weitere Schienenerneuerungen
+- TOP 9.4.6.: Verkehrsrechtliche Anordnung nach §§ 44 Abs. 1 S. 1 und 45 Abs. 1 S. 1, Abs. 3 StVO: a) Bernaysstr. 44-46 b) Rockefellerstraße i.H. Einmündung Bernaysstraße - Neuverlegung einer Gashauptleitung und von zwei Mehrspartenhausanschlüssen -
+- TOP 9.4.7.: Bürgeranliegen: Verkehrssituation in der Bertholdstraße a) Parkplatzsituation Bertholdstraße / Strelitzerstraße b) Durchfahrtsgeschwindigkeit Bertholdstraße
+- TOP 9.4.8.: Bürgeranliegen: Neustifter Straße - Parkplatzsituation und Blockierung der Feuerwehrzufahrten
+- TOP 9.4.9.: Bürgeranliegen: Kreuzung Bernaysstr. / Rockefellerstr. - Anbringen eines Verkehrsschildes zur Vorfahrtsregelung
+- TOP 9.4.10.: Bürgeranliegen: Goldmarkstraße - Antrag auf Herstellung eines Verkehrsberuhigten Bereiches
+- TOP 11.: Anhörungen
+- TOP 11.1.: (U) Verkauf einer städtischen Immobilie
+- TOP 11.2.: (U) Verkauf einer städtischen Immobilie
+- TOP 12.1: Plenum
+- TOP 12.1.1.: (U) Vorkaufsrecht nach dem BauGB 11. Stadtbezirk Milbertshofen - Am Hart - Sitzungsvorlagen Nr. 14-20 / V07905 -
