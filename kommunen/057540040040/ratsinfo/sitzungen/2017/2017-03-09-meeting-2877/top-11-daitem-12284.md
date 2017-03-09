@@ -1,0 +1,6 @@
+# TOP 11.: Anfragen und Mitteilungen
+
+- Sitzung: Bauausschuss (18. Sitzung) (2017-03-09)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/12284
