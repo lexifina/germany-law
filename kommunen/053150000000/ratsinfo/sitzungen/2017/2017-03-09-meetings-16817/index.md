@@ -1,0 +1,83 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-09T15:30:00+01:00
+- Ende: 2017-03-09T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16817
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16817
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (1) Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00601709.pdf
+- Ergebnisprotokoll: Tagesordnung (1) Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00601709.pdf
+- Wortprotokoll: Tagesordnung (1) Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00601709.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers des Ausschusses Soziales und Senioren - ungeändert beschlossen
+- TOP -: Verpflichtung sachkundiger Einwohner
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag der SPD-Fraktion betreffend "Einführung einer Wohnungstauschbörse für Köln" - zurückgestellt
+- TOP -: Änderungsantrag der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Förderung der ökumenischen Begegnungsstätte Café Bickolo e.V. im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 4.2: Einführung der Ehrenamtskarte NRW in Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Teilnahme der Stadt Köln am kommunalen Förderprogramm "NRWeltoffen" - ungeändert beschlossen
+- TOP 4.4: Errichtung eines Wohnhauses auf dem städtischen Grundstück Josef-Kallscheuer-Straße, 50999 Köln - Sürth, zur Unterbringung von Flüchtlingsfamilien - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Feinkonzept zur Umsetzung von Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Förderprojekt "Einwanderung gestalten NRW" - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.2: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2016 - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Beantwortung der mündlichen Anfrage der Fraktion DIE LINKE aus der Sitzung des Ausschusses für Soziales und Senioren vom 27.102016 bezugnehmend auf die Beantwortung 3133/2016 des Jobcenters Köln zur Anfrage der Fraktion DIE LINKE AN 1359/2016 - Kenntnis genommen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Beantwortung einer mündlichen Nachfrage (Quote befristeter Beschäftigungsverhältnisse der Stadt Köln) zu TOP 8.1 der Sitzung vom 26.01.2017 (Bericht des Jobcenter Köln, 4324/2016) - Kenntnis genommen
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Beantwortung einer Anfrage der Gruppte der Piraten im Rat der Stadt Köln betreffend "Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen?" (AN/0027/2017) - Kenntnis genommen
+- TOP 9.2: 1. Tätigkeitsbericht der Ombudsstelle für Flüchtinge in Köln - Kenntnis genommen
+- TOP 9.3: Errichtung einer temporären Flüchtlingsunterkunft in Systembauweise Dürener Str. (neben 283) - Kenntnis genommen
+- TOP 9.4: Antrag der SPD-Fraktion, der Fraktion DieLinke und der Piraten-Gruppe betreffend "Belegungsmanagement für Flüchtlingsunterkünfte einführen" - geändert beschlossen
+- TOP 9.5: Beantwortung der Anfrage der Piratengruppe AN/1393/2016: "Werden die Standards für die Auswahl des Sicherheitspersonals kontrolliert?" - Kenntnis genommen
+- TOP 9.6: Aktuelle Informationen zur Unterbringung und Integration von Flüchtlingen - 13. Bericht - zurückgestellt
+- TOP 9.7: Standorte zur Errichtung von temporären Flüchtlingsunterkünften Zeit-/Maßnahmenplan - aktueller Sachstand - Kenntnis genommen
+- TOP 9.8: Zusammenfassung der Ergebnisse der Fachtagung „Geflüchtete mit besonderem Schutzbedarf“ am 16.09.2016 - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Inklusionsvereinbarung - zurückgestellt
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.2: Handlungskonzept Behindertenpolitik - "Köln überwindet Barrieren - eine Stadt für alle" - (0990/2016) / Ergänzende Forderungen der stimmberechtigten Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik Köln - Kenntnis genommen
+- TOP 11.1.3: Beantwortung einer Nachfrage zu TOP 10.5 aus der Sitzung des Ausschusses Soziales und Senioren vom 26.01.2017 - zurückgestellt
+- TOP 11.1.4: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses Soziales und Senioren vom 26.01.2017 zur Mitteilung zum Projektstart des ESF-Projektes „Willkommen und Ankommen in Köln“ ab 01.01.2017 - 0115/2017 - Kenntnis genommen
+- TOP 11.1.5: Angebote der Beratungsstellen in Köln für Menschen mit Behinderungen - Kenntnis genommen
+- TOP 11.1.6: Beantwortung einer mündlichen Anfrage betreffend "Warum ist Köln Schlusslicht bei der Barrierefreiheit?" - Kenntnis genommen
+- TOP 11.1.7: Anfrage der Piraten-Gruppe betreffend "Internet-Ausstattung in den städtischen Altenpflegeeinrichtungen für Senioren und Seniorinnen" - zurückgestellt
+- TOP 11.1.8: Anfrage der CDU-Fraktion betreffend "Schuldnerberatung bei der Stadt Köln" - zurückgestellt
+- TOP 11.1.9: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Wohnraum für benachteiligte Personengruppen" - zurückgestellt
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Auswirkungen der Pflegestärkungsgesetze (PSG) I, II & III" - zurückgestellt
+- TOP 11.2.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Vermittlungsstelle Seniorinnen- und Seniorenjobs" - zurückgestellt
+- TOP 11.2.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Präventive Hausbesuche stärken" - zurückgestellt
+- TOP 11.2.4: Anfrage der Fraktion Die Linke betreffend "Einschränkung des gender- und kultursensiblen Beratungsangebots für erwerbslose Frauen" - zurückgestellt
+- TOP 11.2.5: Anfrage der Piraten-Gruppe betreffend "Wie hat sich die Zahl der Abschiebungen aus Köln entwickelt?" - zurückgestellt
+- TOP 11.2.6: Anfrage der Piraten-Gruppe betreffend "Wie viele Menschen nutzen den Köln-Pass?" - zurückgestellt
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Neuer Kölner Mietspiegel (Stand: Januar 2017) - Kenntnis genommen
+- TOP 12.2: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 12.3: Sachstandsbericht des Programms "Win-Win für Köln" - Kenntnis genommen
+- TOP 12.4: Umsetzung "Arbeitsmarktprogramm Flüchtlingsintegrationsmaßnahmen (FIM)" des Bundes in Köln - Kenntnis genommen
+- TOP 12.5: Anwendung der Software Karthago im Amt für Wohnungswesen - Kenntnis genommen
+- TOP 12.6: Broschüre zum Diversity Netzwerk der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 12.7: Bundesprogramm „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
