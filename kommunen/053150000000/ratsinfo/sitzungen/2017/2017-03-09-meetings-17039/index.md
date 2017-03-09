@@ -1,0 +1,76 @@
+# 24. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-09T17:00:00+01:00
+- Ende: 2017-03-09T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17039
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17039
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Spielplatz Giershausener Weg - Kenntnis genommen
+- TOP 7.1.2: Lkw-Parken auf der Autobahnbrücke Volkhovener Weg - Kenntnis genommen
+- TOP 7.1.3: Beschilderung Grünanlage Köln-Seeberg - Kenntnis genommen
+- TOP 7.1.4: Heizkraftwerk Merkenich - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Ansiedelung eines Supermarktes (Vollversorgers) im Bereich Fühlingen, Rheinkassel-Langel,Merkenich Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Sachstand Haus Fühlingen Anfrage der CDU-Fraktion und der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.3: LKW-Ruheplätze im Stadtbezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.4: Ist die Kölner Berufsfeuerwehr (Rettungsdienst) in der Lage, ausbildungs- wie gerätemäßig Kehlkopfoperierte Menschen medizinisch korrekt im Notfall zu behandeln? Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Fussgängerüberqerung Industriestraße Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Reinigung Rheinufer Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.7: Gülleausbringung auf die Felder Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Lkw-Zufahrtsverbot für die Causemannstraße in Köln-Merkenich - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Vergabe der bezirksorientierten Mittel und der Kulturmittel Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Instandsetzung des Verbindungs- Geh- und Radweges zwischen St.-Tönnis-Straße und Bruchstraße Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Keine Verlagerung des städtischen Großmarkts nach Lindweiler/Volkhoven/Weiler! Keine Verlagerung des städtischen Großmarkts nach Lindweiler/Volkhoven/Weiler! Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.3: Widerrechtliches Parken auf Grünflächen Antrag der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 9.1.2: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 258. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Neubau einer Rettungswache in Köln Worringen Stadtteil Worringen, St. Tönnis-Straße hier: Grundsatz- und Planungsbeschluss - ungeändert beschlossen
+- TOP 9.2.3: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Verkehrsauswirkungen auf die für den Lkw-Verkehr gesperrten Leverkusener Autobahnbrücke - Kenntnis genommen
+- TOP 10.2.2: "Starke Veedel - Starkes Köln" Bürgerbeteiligung im Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" am 30.11.2016 - Kenntnis genommen
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 10.2.4: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 10.2.5: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 10.2.6: Kindertagesstätten - Versorgungssituation in Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.7: Stadtverschönerungsprogramm 2015 für den Bezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.8: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2016 hier: Bezirksvertretung Chorweiler - zurückgestellt
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Grünanlage Seeberg-Nord - Kenntnis genommen
+- TOP 11.1.2: Wohnungsbauoffensive - Kenntnis genommen
+- TOP 11.1.3: Hotspot Chorweiler - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
