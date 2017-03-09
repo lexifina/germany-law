@@ -1,0 +1,57 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2017-03-09T17:00:00+01:00
+- Ende: 2017-03-09T19:35:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2017-RAT-99
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2017-RAT-99
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-RAT-99
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Beschwerden gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen wegen der Anhebung der Grundsteuer B
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Siebte Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel vom 7. Dezember 2007
+- TOP 5: Beschluss über die Übertragung von Haushaltsermächtigungen in das Haushaltsjahr 2017
+- TOP 6: Vertretung der Stadt in der WiN Emscher-Lippe Gesellschaft zur Strukturverbesserung mit beschränkter Haftung
+- TOP 7: Kooperationsvereinbarung zwischen dem Kreis Recklinghausen und der Stadt Castrop-Rauxel zur Durchführung des geförderten Breitbandausbaus im Kreis Recklinghausen
+- TOP 8: Vergabe der städtischen Baugrundstücke an der Karlstraße in Castrop-Rauxel
+- TOP 8.1: Antrag der Ratsfraktion Die Linke. vom 06.03.2017: Vergabe der städtischen Baugrundstücke an der Karlstraße.
+- TOP 9: a) Bestellung zum Kämmerer der Stadt Castrop-Rauxel b) Bestellung zur / zum allgemeinen Vertreter / in des Bürgermeisters c) Änderung der Dezernatsverteilung
+- TOP 10: Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 11.08.511100 - Versorgungsaufwendungen für Beamte; hier: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 11: Satzung für das Kinder- und Jugendparlament
+- TOP 12: Bereitstellung zusätzlicher Haushaltsmittel gem. § 83 GO NRW bei der Buchungsstelle 36.02.531906 (Zuschüsse an übrige Bereiche aus Projektförderung) in Höhe von 92.803,34 €
+- TOP 13: Genehmigung der Dringlichkeitsentscheidung vom 27.01.2017 gemäß § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer weiteren überplanmäßigen Mittelbereitsstellung gemäß § 83 GO NW beider Buchungsstelle 36.04.525300 "Erstattung an Gemeinden und Gemeindeverbände"
+- TOP 14: Fortschreibung des Nahverkehrsplans für den Kreis Recklinghausen
+- TOP 15: Genehmigung einer Dringlichkeitsentscheidung vom 14.02.2017 gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung NW (GO NW) zur Bereitstellung von außerplanmäßigen Haushaltsmitteln gem. § 83 GO NW bei der Buchungsstelle 61.01.524730001 „Deckenprogramm Schulstraße zw. Eichenweg und Buchenstr.“.
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung vom 14.02.2017 gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung NW (GO NW) zur Bereitstellung von außerplanmäßigen Haushaltsmitteln gem. § 83 GO NW bei der Buchungsstelle 54.01/0636.785800 „Barrierefreie Herrichtung Schulstraße zw. Eichenweg und Buchenstr.“
+- TOP 17: Genehmigung einer Dringlichkeitsentscheidung vom 13.02.2017 gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung NW (GO NW) zur Bereitstellung von außerplanmäßigen Haushaltsmitteln gem. § 83 GO NW bei der Buchungsstelle 61.01.524730002 „Deckenprogramm Lange Straße zw. Wartburgstraße und B 235.“
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung vom 13.02.2017 gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung NW (GO NW) zur Bereitstellung von außerplanmäßigen Haushaltsmitteln gem. § 83 GO NW bei der Buchungsstelle 61.01.524710029 „Deckensanierung Cottenburgstraße zw. B 235 und Bochumer Str.“.
+- TOP 19: Genehmigung einer Dringlichkeitsentscheidung vom 22.02.2017 gem. § 60 Abs. 1 Satz 2 der Gemeindeordnung NW (GO NW) zur Bereitstellung von außerplanmäßigen Haushaltsmitteln gem. § 83 GO NW bei der Buchungsstelle 61.01.524730002 „Deckenprogramm Lange Straße zw. Wartburgstraße und B 235.“
+- TOP 20: Externe Vergabe der Krankentransportleistung an Dritte gem. § 13 RettG NRW
+- TOP 21: Satzung der Stadt Castrop-Rauxel über die Erhebung von Gebühren für die Inanspruchnahme des Krankentransport- und Rettungsdienstes; Neufassung der Gebührentarife Rettungsdienst; Bedarfsplan und künftige Organisation und Personaleinsatz
+- TOP 22: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2017
+- TOP 23: Bebauungsplan Nr. 229 Planbereich „Südliche Grimbergstraße“ hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 24: Einführung des Kita-Navigators - Ein Online-Anmeldesystem für KiTas und perspektivisch OGS
+- TOP 25: Neukonzeption der Wochenmärkte in Castrop-Rauxel
+- TOP 25.1: Ergänzungsantrag der Ratsfrkationen SPD, Bündnis 90 / Die Grünen und FDP vom 07.03.2017. Hier: Neukonzeption Wochenmärkte.
+- TOP 26: Sachstandsbericht zur aktuellen Flüchtlingssituation
+- TOP 27: Umbesetzung der Vertreter der Versehrtensportgemeinschaft Castrop-Rauxel im Beirat für Menschen mit Behinderung
+- TOP 28: Umbesetzung der Vertreter des Caritasverbandes im Seniorenbeirat
+- TOP 29: Antrag FWI Fraktion vom 08.02.2017_Ausschussumbesetzung_Ausschuss für Bürgerbeteiligung und Stadtteilentwicklung
+- TOP 30: Antrag SPD Ratsfraktion vom 20.02.2017; Ausschussumbesetzungen
+- TOP 31: Gemeinsamer Antrag SPD, Bündnis 90 Die Grünen, FDP Ratsfraktionen vom 20.02.2017_Einrichtung eines Runden Umwelttisches
+- TOP 32: Antrag CDU Ratsfraktion vom 22.02.2017_Resolution Offene Ganztagsschule (OGS)
+- TOP 33: Antrag CDU Ratsfraktion vom 23.02.2017_Ausschussumbesetzungen
+- TOP 33.1: Ergänzungsantrag der CDU Ratsfraktion vom 07.03.2017. Hier: Umbesetzung in den Ausschüssen.
+- TOP 34: Gemeinsamer Antrag der Freien Träger der Kinder- und Jugendarbeit in Castrop-Rauxel zur Gefährdung der Infrastruktur der Offenen Kinder- und Jugendarbeit durch die finanzielle Entwicklung in den Landesjugendplänen NRW und in dem aktuellen Kinder- und Jugendförderplan der Stadt Castrop-Rauxel
+- TOP 35: Antrag SPD Fraktion vom 01.03.2017, Ausschussumbesetzung AWE
+- TOP 36: Anfragen der Ratsmitglieder
+- TOP 37: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
