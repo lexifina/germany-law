@@ -1,0 +1,6 @@
+# TOP 2: Gleichstellungsrelevante Angelegenheiten
+
+- Sitzung: 20. Sitzung des Wirtschaftsausschusses (2017-03-09)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/220658
