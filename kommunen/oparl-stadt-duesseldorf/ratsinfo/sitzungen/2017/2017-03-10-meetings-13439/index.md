@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-03-10T14:00:00+01:00
+- Ende: 2017-03-10T19:32:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13439
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13439
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286997.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286997.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00286997.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell-Bü90-Grü: Verkauf der RWE-Aktien - beantwortet
+- TOP 3.2: Anfrage aktuell FDP: Hallenvermietung für Auftritte türkischer Minister - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der CDU-Ratsfraktion: Aggression gegen Beschäftigte von Stadt und Rettungsdiensten - beantwortet
+- TOP 4.2: Anfrage Bü90-Grü: ÖPNV-Beschleunigung - beantwortet
+- TOP 4.3: Anfrage der FDP- Ratsfraktion: Mittelstand stärken - beantwortet
+- TOP 4.4: Anfrage der FDP- Ratsfraktion: Stand der Bemühungen der Firmenansiedlung nach Brexit-Erklärung - beantwortet
+- TOP 4.5: Anfrage der Ratsfraktion DIE LINKE: Kindertagesstätten als Public-Private-Partnership (PPP) - beantwortet
+- TOP 4.6: Anfrage Die Linke: Abschiebungen der Düsseldorfer Ausländerbehörde 2016 - beantwortet
+- TOP 4.7: Anfrage Tierschutzpartei-Freie Wähler:Entwicklung der Taschendiebstähle, der Aufklärungen und Verurt - schriftlich beantwortet
+- TOP 4.8: Anfrage Tierschutzpartei-Freie Wähler: Schutzgüter Mensch und Tier am Hofgartenweiher endlich adäqua - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Matheisen: Ersatz der Düsseldorfer Gaslaternen durch historisierende LED-Leuch - schriftlich beantwortet
+- TOP 4.10: Anfrage Dr. Strack-Zimmermann: Fehlerhafte Geschwindigkeitsmessung durch die Verwaltung vorbeugen - schriftlich beantwortet
+- TOP 4.11: Anfrage Rh Grenda: Netzausbau Düsseldorf - Handtuch-Wurf bei Multifunktiongehäuse (MFG) - schriftlich beantwortet
+- TOP 4.12: Anfrage Rh Grenda: Zusammmenarbeit Jobcenter - Stadt Düsseldorf bestehende Dienstanweisungen - schriftlich beantwortet
+- TOP 4.13: Anfrage Rh Maniera: Auswirkungen des Gesetzesentw. zur "Stärkung des neuen Zusammenl. i. d. Stadt" - schriftlich beantwortet
+- TOP 4.14: Anfrage Rh Maniera: Kosten für geduldete Asylanten und Flüchtlinge - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 7: Entwurf Jahresabschluss 2015 - einstimmig beschlossen
+- TOP 8: Kämmerer Liste - zur Kenntnis genommen
+- TOP 9: Erhebung von Bürgschaftsprovisionen durch die Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 10: Erweiterung der Kapitalvertretung bei städtischen Eigengesellschaften und Beteiligungsunternehmen - einstimmig beschlossen
+- TOP 11: Einkünfte aus Nebentätigkeiten im Jahr 2016 für Herrn Oberbürgermeister Thomas Geisel - zur Kenntnis genommen
+- TOP 12: Annette-von-Droste-Hülshoff-Gymnasium, Brucknerstraße 19 - mehrheitlich beschlossen
+- TOP 13: Eisenstraße 49, Obdachlosenwohnheim – Brandschutzsanierung 2. bis 4. Obergeschoss und Dachgeschoss - - einstimmig beschlossen
+- TOP 14: Gesamtstädtisches Integrationskonzept für die Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 14.1: ÄA BÜ90/GRÜ, SPD und FDP: Gesamtstädtisches Integrationskonzept - zur Kenntnis genommen
+- TOP 14.2: ÄA CDU: Gesamtstädtisches Integrationskonzept für die Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 15: Städtische Richtlinien für den Erwerb von Belegungs- und Mietpreisbindungen - einstimmig beschlossen
+- TOP 16: Neufassung der Geschäftsordnung der Düsseldorfer Gesundheitskonferenz - einstimmig beschlossen
+- TOP 17: 59. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 17.1: Änderungsantrag der Ratsfraktion DIE LINKE: Änderung der Hauptsatzung - mehrheitlich abgelehnt
+- TOP 18: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2016 - zur Kenntnis genommen
+- TOP 19: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 20: Abberufung eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 21: Besetzung von Gremien durch den Jugendrat - einstimmig beschlossen
+- TOP 22: Kommission nach § 32 b Luftverkehrsgesetz - Neubesetzung - einstimmig beschlossen
+- TOP 23: Veranstaltergemeinschaft Lokaler Rundfunk Düsseldorf e.V. - einstimmig beschlossen
+- TOP 24: Besetzung des Vorstandes und des Kuratoriums der Stiftung "Institut zur Erlangung der Hochschulreife - einstimmig beschlossen
+- TOP 25: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH – Neuwahl – - einstimmig beschlossen
+- TOP 26: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 27: Aufsichtsrat der Düsseldorf Congress Sport & Event GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 28: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 29: Anträge
+- TOP 29.1: Antrag CDU: Lärmschutz beim RRX - zur Kenntnis genommen
+- TOP 29.1.1: ÄA BÜ90/GRÜ, SPD und FDP: Lärmschutz beim RRX - einstimmig beschlossen
+- TOP 29.2: Antrag CDU: Ergänzung des Public-Corporate-Governance-Kodex (PCGK) für Beteiligungen der Landeshaup - einstimmig beschlossen
+- TOP 30: Beteiligung der Landeshauptstadt Düsseldorf an dem Förderaufruf „Emissionsfreie Innenstadt“ - einstimmig beschlossen
+- TOP 30.1: EA von FDP, SPD und BÜ90/GRÜ: Beteiligung der Landeshauptstadt Düsseldorf an dem Förderaufruf „Emis - einstimmig beschlossen
