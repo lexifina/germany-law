@@ -1,0 +1,14 @@
+# Sitzung der B90/Die Grünen Fraktion im Stadtrat Montabaur
+
+- Körperschaft: Stadt Montabaur
+- Beginn: 2017-03-13T19:00:00+01:00
+- Ende: 2017-03-13T00:00:00+01:00
+- Ort: Köppelstraße 1a, Köppelstraße 1a, 56410 Montabaur
+- Status: terminiert
+- Gremium: https://montabaur.gremien.info/oparl/organization/01B90-Grue
+- Ratsinformationssystem: https://montabaur.gremien.info/oparl/meeting/2017-01B90-Grue-2
+- OParl: https://montabaur.gremien.info/oparl/meeting/2017-01B90-Grue-2
+- Quelle: https://montabaur.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
