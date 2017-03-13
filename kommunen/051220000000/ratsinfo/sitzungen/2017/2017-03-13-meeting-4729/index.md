@@ -1,0 +1,52 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-03-13T17:00:00+01:00
+- Ende: 2017-03-13T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZaSVqDSobEGkRA7WBTggvb8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4729
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZctBJxfQHfFiJflvo8KzvX44vHHZCw115qRvv8f51nQE/Oeffentliche_Niederschrift_Beteiligungsausschuss_13.03.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 21. Sitzung des Beteiligungsausschusses am 30.01.2017
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Zweckverband Bergische Volkshochschule - Jahresabschluss 2015
+- TOP 5: Zweckverband Bergische Volkshochschule Wirtschaftsplan 2017
+- TOP 6: Wirtschaftsplan VHS 2017 / Anpassung Honorare
+- TOP 7: Wirtschaftsplan VHS 2017 / Anpassung Honorare
+- TOP 8: Jahresabschluss 2015 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 9: Ersatzbeschaffung Zutrittskontrollsystem (Kassenanlage) Solinger Bädergesellschaft mbH
+- TOP 10: Einsparungen im ÖPNV gemäß Ratsbeschluss vom 08.12.2016
+- TOP 11: Vorschlag der Geschäftsführung der Stadtwerke Solingen GmbH (SW SG) zur Einhaltung der Verlustobergrenze im Verkehrsbereich
+- TOP 12: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 21. Sitzung des Beteiligungsausschusses am 30.01.2017
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2017 / 2018 der Entsorgung Solingen GmbH
+- TOP 5: Wirtschaftsplan 2017 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 6: Zentrum für verfolgte Künste GmbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2016
+- TOP 7: Zentrum für verfolgte Künste GmbH - Bestellung und Abberufung von Geschäftsführern
+- TOP 8: Städtisches Klinikum Solingen gGmbH (SKS) - Änderung der Geschäftsordnung für die Geschäftsführung und die Betriebsleitung
+- TOP 9: Städtisches Klinikum Solingen gGmbH (SKS) - Bestellung zum Verwaltungsdirektor sowie zum Mitglied der Betriebsleitung
+- TOP 10: Städtisches Klinikum Solingen gGmbH (SKS) - Bestellung zum Ärztlichen Direktor sowie zum Mitglied der Betriebsleitung
+- TOP 11: Städtisches Klinikum Solingen gGmbH (SKS) - Bestellung zum stellvertretenden Ärztlichen Direktor sowie zum stellvertretenden Mitglied der Betriebsleitung
+- TOP 12: Städtisches Klinikum Solingen gGmbH (SKS) - Aufhebung eines Architektenvertrages
+- TOP 13: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Mitarbeitergratifikation 2016
+- TOP 14: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Gewinnverwendung 2016
+- TOP 15: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Einzahlung der Gesellschafterin in die Kapitalrücklage für das Geschäftsjahr 2017
+- TOP 16: Wirtschaftspläne 2017 der Energie für Solingen GmbH & Co. KG (EfS KG) sowie der Energie für Solingen GmbH (EfS GmbH)
+- TOP 17: Jahresabschluss 2015/16 der EDL Solingen GmbH (EDL)
+- TOP 18: Jahresabschluss 2015/16 der itec solingen gmbh (itec)
+- TOP 19: Auflösung der RW Holding Aktiengesellschaft und Änderung der Satzung
+- TOP 20: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) für das Geschäftsjahr 2017
+- TOP 21: Verschiedenes
+- TOP 22: Kosten der BSG seit Gründung
+- TOP 23: Schlussbericht zum Verkauf der MVV-Aktien
