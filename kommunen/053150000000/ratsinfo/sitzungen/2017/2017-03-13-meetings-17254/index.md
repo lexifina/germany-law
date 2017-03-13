@@ -1,0 +1,65 @@
+# 20. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-13T17:00:00+01:00
+- Ende: 2017-03-13T17:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17254
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17254
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines neuen Mitglieds der Bezirksvertretung
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage: Gefahrenpunkt Bergischer Ring, Höhe Schleiermacherstraße/Rendsburgerburger Platz
+- TOP 1.2: Einwohnerfrage: Straßenverengungen Mülheimer Freiheit, Höhe Buchheimer Straße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Straßenschäden und Erschütterungen durch Schwerlastverkehr in der Straße Hochwinkel in Köln-Dellbrück (Az.: 02-1600-198/16) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Benennung der Planstraße im Baugebiet Gauweg in Köln-Buchheim (siehe TOP 9.1.2; Vorlage 4214/2016) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die GGS Peter-Grieß-Straße - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrssicherheit auf dem Stammheimer Ring - Kenntnis genommen
+- TOP 7.1.2: Mögliche Sichtbehinderungen durch parkende LKW`s in den Einmündungen der Straßen "In der Hardt", "Hasenacker", "Mielenforster Heide" und "Lange Heide" sowie die daraus resultierenden evtl. notwendigen verkehrstechnischen Maßnahmen - Kenntnis genommen
+- TOP 7.1.3: Gefahrloser und flüssiger Radverkehr am Clevischen Ring - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Messeverkehr - Kenntnis genommen
+- TOP 7.2.2: Bau einer Fernwärmeleitung am Rheinufer in Köln Mülheim - Kenntnis genommen
+- TOP 7.2.3: Barrierefreier Zugang zum Bezirksrathaus Mülheim - Kenntnis genommen
+- TOP 7.2.4: Reinigung des Fuß- und Radweges zwischen Dellbrücker Mauspfad und Harthofstraße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: E-Busse - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung der Planstraße im Baugebiet Von-Quadt-Straße - ungeändert beschlossen
+- TOP 9.1.2: Benennung der Planstraße im Baugebiet Gauweg in Köln-Buchheim - geändert beschlossen
+- TOP 9.1.3: Bestellung einer Schriftführerin für die verbleibende Wahlperiode 2014-2020 - ungeändert beschlossen
+- TOP 9.1.4: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 9.1.5: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - ungeändert beschlossen
+- TOP 9.1.6: Vergabe von bezirkorientierten Mitteln für das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 258. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Noellstraße in Köln-Mülheim; VEP; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 9.2.3: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - ungeändert beschlossen
+- TOP 9.2.4: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Wahlperiode
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 10.2.4: Mitteilung zum Halteverbot vor dem Grünzug Charlier - Kenntnis genommen
+- TOP 10.2.5: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 10.2.6: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 10.2.7: Stadtverschönerungsprogramm 2015 für den Bezirk Mülheim - Kenntnis genommen
+- TOP 10.2.8: Fuß- und Radweg Maria-Himmelfahrt-Straße/Burgwiesenstraße - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
