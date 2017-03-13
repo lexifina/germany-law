@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4211898
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4211898
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Butenandtstraße 3, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2504
+- TOP 7.1.2.: Buschrosenweg 12, 1 Birke
+- TOP 7.1.3.: Hohenklingenstraße 21, 1 Schwarzkiefer
+- TOP 7.1.4.: Würmtalstraße 18, 1 Zeder
+- TOP 7.1.5.: Gräfelfinger Straße 63, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 3063
+- TOP 7.1.6.: Levkojenstraße 11, 2 Kiefern
+- TOP 7.1.7.: Langbehnstraße 24, 1 Serbische Fichte
+- TOP 7.1.8.: Stiftsbogen 142 - 148, 1 Robinie, 1 Ahorn und 1 Traubenkirsche
+- TOP 7.1.9.: Holzapfelkreuther Straße 13, 1 Coloradotanne
+- TOP 7.1.10.: Waldgartenstraße 22, 1 Zeder
+- TOP 7.1.11.: Terofalstraße 3 + 5, 2 Robinien und 1 Bergahorn
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Vorstellung der Streetworker Daria Falbo und Klaus Miess
+- TOP 1.1.: Fahrschulfahrzeuge in der Pfingstrosenstraße; Wohngebietsentlastungsstraße
+- TOP 1.2.: Stilllegung des Müllkraftwerks Süd
+- TOP 1.3.: Sperrung Canisiusplatz
+- TOP 5.1.: Parkverbot an der Kreuzung Würmtal-/ Eichenstraße (Kreisverwaltungsreferat, 30.01.17)
+- TOP 5.2.: Markierung von Tempo 30 km/h auf dem Straßenbelag im Stiftsbogen (Kreisverwaltungsreferat, 10.02.17)
+- TOP 5.3.: Budget der Bezirksausschüsse, Stüps-Schulsozialarbeit Grundschule an der Blumenauer Straße, Gewaltpräventionsprojekt von Oktober bis Dezember 2017 (Direktorium, 20.02.17)
+- TOP 5.4.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 20 Hadern Widmungserweiterung einer Teilstrecke der Maenherstraße (Baureferat, 22.02.17)
+- TOP 5.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Stiftsbogen - Fußgängeraufstellflächen bei Hausnr. 42 und 87 (Baureferat, 24.02.17)
+- TOP 5.6.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., MFM-Projekt am 04.05.2017 (Direktorium, 06.03.17)
+- TOP 5.7.: Budget der Bezirksausschüsse, Alten- und Service Zentrum Kleinhadern-Blumenau, Verschiedene Veranstaltungen 2017 (Direktorium, 06.03.17)
+- TOP 6.1.: Beschlussentwurf für den Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching; Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen (Direktorium, 06.02.17) (vertagt aus 02/17)
+- TOP 6.2.: Anhörung zur Wahlbezirkseinsteilung der Bundestagswahl 2017 (Kreisverwaltungsreferat, 09.02.17) (vertagt aus 02/17)
+- TOP 6.3.: Projektname: ÖPNV Offensive - Senftenauerstraße, Haltestelle Hönigschmidplatz (Baureferat, 08.02.17)
+- TOP 6.4.: Erinnerungsverfahren: Am Ährenfeld 1 - 17 (Baureferat, 15.02.17)
+- TOP 6.5.: Veranstaltung in einer städtischen Grünanlage, hier: Gottesdienst von Namen Jesu und Simeonskirche am Neufriedenheimer Platz am 09.07.2017 (Kreisverwaltungsreferat, 16.02.17)
+- TOP 6.6.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Private Flohmärkte am 29.04., 08.07., 29.07., 09.09.2017 (Kreisverwaltungsreferat, 16.02.17)
+- TOP 6.7.: Spielaktionen in öffentlichen Grünanlagen, hier: - 29.05. - 02.06.2017: Spielkistl in der Blumenau, Spielplatz an der Wastl-Witt-Straße (nördlich Terofalstraße) - 25.09. - 29.09.2017: Spielkistl in der Blumenau, Spielplatz an der Wastl-Witt-Straße (nördlich Terofalstraße) - 17.05. - 19.05.2017: ArtMobil, Ludlstraße / Ida-Schuhmacher-Weg (Spiellandschaft Stadt e.V., 21.02.17)
+- TOP 6.8.: Erinnerungsverfahren: Fürstenrieder Straße 166 (Baureferat, 21.02.17)
+- TOP 6.9.: Mittelfristige Finanzplanung 2016 - 2020, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021 (Stadtkämmerei, 22.02.17)
+- TOP 6.10.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018 (Sozialreferat, 24.02.17)
+- TOP 6.11.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz - Flohmarkt des Städt. Kindergarten Ludwig-Wörl-Weg 44 am 23.06.2017 (Kreisverwaltungsreferat, 01.03.17)
+- TOP 7.2.1.: Listen des Baureferates vom 23.01.2017, 09.02.2017 und 15.02.2017
+- TOP 7.4.1.: Farnweg 5, 1 Linde (Referat für Stadtplanung und Bauordnung, 06.02.17)
+- TOP 7.4.2.: Kornwegerstraße 3, 1 Tanne (Referat für Stadtplanung und Bauordnung, 14.02.17)
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: - Franz-Kendler-Straße; Gefahrzeichen (Kreisverwaltungsreferat, 02.02.17) - Stiftsbogen; Pkw-Parkzone (Kreisverwaltungsreferat, 16.02.17)
+- TOP 8.2.: Änderung bzw. Ergänzung der verkehrsaufsichtlichen Erlaubnis für Nothkaufplatz 7 (Kreisverwaltungsreferat, 10.02.17)
+- TOP 8.3.: Baumaßnahmen der SWM, hier: - Stromprojekt Am Stoppelfeld (SWM, 08.02.17) - Stromprojekt Ludlstraße (SWM, 09.02.17)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Klematisstraße (Sozialreferat, 20.02.17)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Cafe-Bistro Blumenau", Terofalstraße 10 c (Kreisverwaltungsreferat, 23.02.17) - "Waldheim", Waldheim 1 (Kreisverwaltungsreferat, 27.02.17)
+- TOP 9.1.: Schulen im Stadtbezirk 20 - Hadern, Grundschule an der Senftenauerstraße 21, Gelder des Bundes für "marode Schulen" (Referat für Bildung und Sport, 16.01.17)
+- TOP 9.2.: Zwischennachricht: Energieversorgung der Stadtwerke München, Empfehlung Nr. 14-20 / E 01195 vom 20.10.2016 (Referat für Arbeit und Wirtschaft, 09.02.17)
+- TOP 9.3.: Bushaltestelle in der Würmtalstraße; Barrierefreier Ausbau der Bushaltestellen im Stadtbezirk 20 (Baureferat, 13.02.17)
+- TOP 9.4.: Vollzug des Sprengstoffgesetzes - SprengG - und der Ersten Verordnung zum Sprengstoffgesetz - 1. SprengV, Verbot oder Einschränkung von Silvesterfeuerwerk durch Privatpersonen (Kreisverwaltungsreferat, 17.02.17)
+- TOP 9.5.: Keine Busspur in der Waldwiesenstraße (Kreisverwaltungsreferat, 23.02.17)
+- TOP 10.1.: Nachverdichtung Wastl-Witt-Straße 17 - 27 (GEWOFAG, 24.02.17)
+- TOP 11.1.: Stadtratsantrag: Biodiversität: Zwei zusätzliche Wildblumenwiesen pro Stadtbezirk auf öffentlichen Grünflächen
+- TOP 11.2.: Stadtratsantrag: Wie kann man Behindertenparkplätze in München finden? (Sozialreferat, 30.01.17)
+- TOP 11.3.: Antrag BA 8 Schwanthalerhöhe vom 14.02.2017: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 11.4.: Informationsveranstaltung der SWM am 27.03.2017 um 17.30 Uhr (SWM, 15.02.17)
+- TOP 11.5.: Broschüre "Bericht zur Wohnungssituation in München 2014 - 2015" (Referat für Stadtplanung und Bauordnung, 13.02.17)
+- TOP 11.6.: Informationsveranstaltung der Sozialreferentin für die BA-Mitglieder am Montag, 22.05.2017 um 18.00 Uhr (Sozialreferat, 20.02.17)
+- TOP 11.7.: Faltblatt "Wohnungsmarktdaten München 2015" (Referat für Stadtplanung und Bauordnung, 13.02.17)
+- TOP 1.1.1.: Neufassung vom 13.12.2016 zum Beschluss vom 25.01.2017: Durchführung von Verkehrsversuchen durch das KVR
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Bildungsausschusses vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Hinweis / Ergänzung vom 17.01.2017 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung vom 22.02.2017: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 4.1.: Bekanntgabe im Bildungsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 4.2.: Bekanntgabe im Bildungsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 4.3.: Bekanntgabe im Bildungsausschuss vom 22.02.2017: Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 4.4.: Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.2017: Evaluation der Fahrradstraßen in München Abschlussbericht
