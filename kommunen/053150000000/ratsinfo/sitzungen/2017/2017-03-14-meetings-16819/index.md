@@ -1,0 +1,98 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-14T14:17:00+01:00
+- Ende: 2017-03-14T17:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16819
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16819
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Gäste
+- TOP 1.2.1: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung - ungeändert beschlossen
+- TOP 1.2.2: Beschluss über die Teilnahme des Personalrates Kita zu TOP 5.2.2 der heutigen Sitzung - ungeändert beschlossen
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilung zur Präsentation: Herausforderung extremistischer Salafismus - Kenntnis genommen
+- TOP -: Mitteilung in thematischem Zusammenhang zur Präsentation: Gewaltbereiter Salafismus - Kenntnis genommen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "KiD Kind in Diagnostik gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Verteilung von Haushaltsmitteln im Jahr 2017 aus dem Teilergebnisplan 0604 Kinder- und Jugendarbeit. hier: Verteilung Globalmittel - ungeändert beschlossen
+- TOP 2.2.2: Jährliche Förderung aus kommunalen Mitteln für die Maßnahme/das Angebot "Amen Ushta" des Trägers "Rom e. V." ab dem 01.01.2018 - ungeändert beschlossen
+- TOP 2.2.3: Betriebskostenfinanzierung von Berufshilfeeinrichtungen lernbehinderter Jugendlicher - ungeändert beschlossen
+- TOP 2.2.4: Landeszuschüsse an Offene Kinder- und Jugendeinrichtungen im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.5: Zuschüsse gemäß § 10 SGB VIII zur Förderung der Jugendarbeit mit behinderten Jugendlichen im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.6: Ko-Finanzierung für 24 Plätze des ESF-geförderten Landesprogramms „Produktionsschule.NRW" - ungeändert beschlossen
+- TOP 2.2.7: Zuschussvergabe 2017 zur Förderung von Familienbildungsstätten und interkultureller Elternarbeit, Förderung von Angeboten interkultureller Familienbildung und Förderung von Hausaufgabengruppen für bildungsbenachteiligte Kinder und Jugendliche - ungeändert beschlossen
+- TOP 2.2.8: Mittelverteilung an freie Träger im Rahmen der Jugendverbandsarbeit im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.9: Zuschüsse 2017 zur Förderung kultur- und medienpädagogischer Facheinrichtungen in Köln und Förderung therapeutischer Maßnahmen behinderter Kinder - ungeändert beschlossen
+- TOP 2.2.10: Zuschuss an den Träger "Arbeiterwohlfahrt Kreisverband Köln e. V." für 4 Personalstellen Streetwork - ungeändert beschlossen
+- TOP 2.2.11: Mittelverteilung 2017 an verschiedene Träger - ungeändert beschlossen
+- TOP 2.2.12: Mittelverteilung für Zuschüsse an Maßnahmen der Jugendberufshilfe im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.13: Zuschussvergabe 2017 zur Förderung von Ehe-, Lebens- und Erziehungsberatungsstellen und des Brücke Köln e.V. - ungeändert beschlossen
+- TOP 2.2.14: Förderung der Projekte "HaLt" und "FreD" - ungeändert beschlossen
+- TOP 2.2.15: Pauschale Erhöhung der Betriebskostenförderung 2017 für die freien Träger - ungeändert beschlossen
+- TOP 2.2.16: Neufassung der "Richtlinie zur Förderung der Mitgliedsverbände im Ring politischer Jugend Köln". - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Einführung der Ehrenamtskarte NRW in Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Förderprojekt "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 5: Anträge aus der Politik (schriftlich)
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Präventionsarbeit zu sexueller Gewalt in Köln stützen - zurückgestellt
+- TOP 5.2.2: Frisch Kochen in Kitas - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.2.2, „Gesundes Essen und Ernährungsbildung in der Kita“ - endgültig abgelehnt
+- TOP 6: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (schriftlich)
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? - Sache ist erledigt
+- TOP -: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? (AN/0027/2017) - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Kinderfreundliche Kommune Köln - zurückgestellt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates AN/0295/2017 "Kinderfreundliche Kommune" - zurückgestellt
+- TOP 6.2.2: Wie viele Freiflächen für Graffiti-Künstlerinnen und Künstler gibt es mittlerweile in Köln? - zurückgestellt
+- TOP 7: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (mündlich)
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler Hier: Beantwortung einer Anfrage zum Projekt "Jugendrat 2.0" - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: Versorgung traumatisierter unbegleiteter minderjähriger Ausländer (UMA) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Neue Mitglieder des Jugendhilfeausschusses - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Beantwortung der Anfrage AN (2012/2016) zu Ressourcen für KiTas im Bereich mehrsprachige Förderung - Kenntnis genommen
+- TOP 8.2.2: Landesprogramm "Kinderbetreuung in besonderen Fällen für Kinder aus Flüchtlingsfamilien und vergleichbaren Lebenslagen"- Brückenprojekte - Kenntnis genommen
+- TOP 8.2.3: Vertretungsregelung in der Kindertagespflege gem. § 23 (4) SGB VIII - Evaluation - Kenntnis genommen
+- TOP 8.2.4: Programm „Kita-Einstieg: Brücken bauen in frühe Bildung" des Bundesministeriums für Familie, Senioren, Frauen und Jugend - Interessenbekundung der Stadt Köln - Kenntnis genommen
+- TOP 8.2.5: Weitere Informationen über die Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Auswertung der Beschwerden im ASD, GSD und PKD 2016 - Kenntnis genommen
+- TOP 8.3.2: „Angebote und Maßnahmen für Flüchtlinge und Neuzuwanderer Familien – Kinder- und Jugendliche 2016“ - Kenntnis genommen
+- TOP 8.3.3: Sachstand Unterbringung unbegleiteter minderjährige Ausländer (UMA) zur Jahresmitte 2016 - Kenntnis genommen
+- TOP 8.3.4: Kein Täter werden - Welche Präventionsprogramme gibt es in Köln? - Kenntnis genommen
+- TOP 8.3.5: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2016 in der Stadt Köln - Kenntnis genommen
+- TOP 8.3.6: Teilnahme am 16. Deutschen Jugendhilfetag vom 28. bis 30.03.2017 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Jugendmedienschutz / Medienpädagogik - Kenntnis genommen
+- TOP 8.4.2: Ausbau Streetwork und Kooperation mit dem Jobcenter Köln nach §16h SGB II - Kenntnis genommen
+- TOP 8.4.3: Zuschüsse/Zuwendungen an Offene Jugendeinrichtungen im Haushaltsjahr 2017 - Kenntnis genommen
+- TOP 8.4.4: Sportorientierte Jugendarbeit - Kenntnis genommen
+- TOP 8.4.5: Partizipation - Darstellung aktueller Konzepte, Standards und Entwicklungen im Amt für Kinder, Jugend und Familie (Stand Februar 2017) - zurückgestellt
+- TOP 8.4.6: Sicherung der Übermittagsbetreuung in Sek 1 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 8.5.2: Beantwortung der Anfrage der SPD-, CDU-, FDP-Fraktionen sowie der Fraktionen Bündnis 90/Die Grünen und Die Linke zum Thema "Stadtteileltern und Stadtteilmütterprojekte in Vingst/Höhenberg und Rondorf/Meschenich" (AN/2011/2016) - zurückgestellt
+- TOP 8.5.3: Zusammenfassung der Ergebnisse der Fachtagung „Geflüchtete mit besonderem Schutzbedarf“ am 16.09.2016 - Kenntnis genommen
+- TOP 8.5.4: Bundesprogramm „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 8.5.5: Kitagipfel - Zukunft Kitaausbau - Kenntnis genommen
