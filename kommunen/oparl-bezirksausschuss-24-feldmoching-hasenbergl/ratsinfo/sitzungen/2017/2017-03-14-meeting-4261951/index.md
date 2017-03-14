@@ -1,0 +1,83 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4261951
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4261951
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1.: Idee aus der Bücherkiste - Vorstellung des Projekts
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis gem. OB-Vollmacht: Zeitungsentnahmegerät, Schleißheimer Str. 365 / Höhe Max-Diamand-Str. (BMW-Parkhaus)
+- TOP 2.2.: Entscheidung über Projektplanung gem. OB-Vollmacht: Goerdelerstraße
+- TOP 2.3.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung einer Teilstrecke der Straße „Am Schnepfenweg“, einer Teilstrecke der Pfarrer-Himmler-Straße, der Gesamtstrecke des Prälat-Höck-Bogens
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Kulturhistorischer Verein Feldmoching auf dem Gfild e.V., Anschaffung von Tafeln zur Ausstellung "Straßennamensgebung"
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Verein der Freiwilligen Feuerwehr Harthof e.V., Herstellung einer mobilen Spritzwand
+- TOP 2.6.: N Gewährung eines Zuschusses aus dem BA-Budget: Initiative "Gedenkstätte KZ-Außenlager Dachau-Allach in Ludwigsfeld, "Ausstellung gegen das Vergessen des KZ-Außenlagers Dachau-Allach und der NS-Gräueltaten im Stadtbezirk 24"; hier: Befreiung von der Erbringung von Eigenmitteln (vorab vor Beschlussvorlage)
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Initiative "Gedenkstätte KZ-Außenlager Dachau-Allach in Ludwigsfeld" Gedenkveranstaltung am 23.04.2017 Az. 0262.0-24-0188
+- TOP 3.: Anträge
+- TOP 3.1.: N Einwohnerversammlung zur Nachmittagsbetreuung der Grundschulkinder im Münchner Norden
+- TOP 3.2.: Nein zur Städtebaulichen Entwicklungsmaßnahme im Münchner Norden
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.1.1.: Waldmeisterstr. 11
+- TOP 5.1.2.: Paul-Preuß-Str. 2
+- TOP 5.1.3.: Rothwiesenstr. 22
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.2.1.: Karlsfelder-Str. 3
+- TOP 5.2.2.: Paul-Preuß-Str. 2 (-> vertagter TOP 5.24 - 14.02.2017)
+- TOP 5.2.3.: Balsaminenstr. 5
+- TOP 5.2.4.: Lassallestr. 100
+- TOP 5.2.5.: Am Schnepfenweg 117
+- TOP 5.2.6.: Am Schnepfenweg 119
+- TOP 5.3.: Baumfällungen (Baumschutz-UNB):
+- TOP 5.3.1.: Hardenstr. 6
+- TOP 5.4.: Veranstaltungen in städtischen Grünanlagen:
+- TOP 5.4.1.: Flohmarkt Fasanerie-Aktiv am 08.07.2017, Grünanlage Am Schnepfenweg
+- TOP 5.4.2.: Osterfeuer am 16.04.2017, Grünanlage Gustav-Schiefer-Str.
+- TOP 5.5.: Sonstige Anhörungen:
+- TOP 5.5.1.: Beschlussentwurf 650.000 Euro Veranstaltungsbudget... Welche Rolle spielen städtische Gebühren bei der Erhaltung von Traditions- und Brauchtumsveranstaltungen? Den Bezirksausschüssen ein Befreiungsrecht einräumen!, Antrag Nr. 14-20 / B 02646 des BA 24 vom 25.07.2016
+- TOP 5.5.2.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 5.5.3.: Ganzjährige Spielaktionen der Spiellandschaft Stadt e.V.
+- TOP 5.5.4.: Mittelfristige Finanzplanung 2016 – 2020, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021
+- TOP 5.5.5.: N Errichtung eines Hauses für Kinder - Am Oberwiesenfeld („Olympia Wohn Park“) - Genehmigung Nutzerbedarfsprogramm -
+- TOP 5.5.6.: Einwohnerversammlung zur Nachmittagsbetreuung der Grundschulkinder im Münchner Norden
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Stärkung der Mieterstruktur am Hasenbergl
+- TOP 6.2.: Aufrechterhaltung der Verkehrssicherheit von Radwegen (Befreiung von Laub)
+- TOP 6.3.: Errichtung einer Lichtzeichenanlage an der Lerchenauer Straße vor dem Bahnübergang (S-Bahnstrecke) Richtung stadtauswärts, 80995 München
+- TOP 6.4.: Zebrastreifen über die Feldmochinger Straße von der Bushaltestelle "Fasanerie Bahnhof" (zu 3.2 - 12.01.2017)
+- TOP 6.5.: Überdachung der Bushaltestellen am S-Bahnhof Fasanerie (zu 3.4 - 10.01.2017)
+- TOP 6.6.: Neubau Städtisches Tagesheim Gerastr. 6
+- TOP 6.7.: Meldelisten Bauvorhaben
+- TOP 6.8.: Meldelisten Baumfällungsanträge
+- TOP 6.9.: Bevorstehende Entfernungen von Gefahrenbäumen im 24. Stadtbezirk
+- TOP 6.10.: Daten Pegel Feldmoching
+- TOP 6.11.: (U) Verkehrskonzept Münchner Norden - Schienengüterverkehr und Feldmochinger Kurve -... BA-Antrag Nr. 14-20 / B 01360 des BA 24, Empfehlung Nr. 14-20 / E 00898 der BV vom 17.03.2016
+- TOP 6.12.: (U) Durchführung von Verkehrsversuchen durch das KVR
+- TOP 6.13.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 6.14.: (U) Umsetzungsbeschluss zum weiteren Ausbau des Fahrradvermietsystems MVG Rad Finanzierung durch Umschichtung aus der städtischen Nahmobilitätspauschale.... Erweiterung des MVG-Mietradsystems, Antrag Nr. 14-20 / B 02221 des BA 24 vom 06.04.2016...
+- TOP 6.15.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 6.16.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 6.17.: (U) Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 6.18.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 6.19.: N Sicherstellung des Schulsports in der Mittelschule und der Grundschule an der Eduard-Spranger-Straße
+- TOP 6.20.: N Nutzung der Flüchtlingsunterkunft im Tollkirschenweg zu Vereinszwecken - Innenraumluftwerte
+- TOP 6.21.: N Sicherung von Siedlungs- und Freiflächen im Münchner Norden
+- TOP 6.22.: N Die neue Geschäftsführung der GWG stellt sich vor
+- TOP 6.23.: N Arbeiten im Straßenraum (Sanierung): Herbergstraße - Geh- und Radwegverbindung zwischen der Paul-Preuß-Straße und der Raheinstraße
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 8.1.: Protokoll der Sitzung am 10.01.2017 (nach Genehmigung und Ergänzung in der Sitzung am 14.02.2017)
+- TOP 8.2.: N Informationsveranstaltung "Städtisches Klinikum München - Auf dem Weg der Besserung?" am 27.04.2017
