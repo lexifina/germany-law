@@ -1,0 +1,141 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2017-03-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4140123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4140123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Sanierung des Viktualienmarktes, Vorstellung des Planungsstandes durch einen Mitarbeiter des Kommunalreferates
+- TOP 6: Unterrichtungen (siehe Anlage)
+- TOP 7.: Bericht des Vorsitzenden
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.2.: entfällt
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: Ergebnisse der Kinder- und Jugendversammlung 2016
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP C 4.2.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP D 4.12.: Bericht der Zwischenevaluation Verkehrsversuch FGZ Sendlinger Straße
+- TOP A: Allgemeines
+- TOP 4.1.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 4.2.: Mittelfristige Finanzplanung 2016-2020, Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2017-2021
+- TOP 5.2.: Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Straßenumbau Oskar-von-Miller-Ring Vorstellung durch einen Mitarbeiter des Baureferates
+- TOP 5.3.: Erweiterung der Fußgängerzone Marienplatz Vorstellung durch einen Mitarbeiter des Baureferats
+- TOP 5.4.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 7.1.: Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Straßenumbau Oskar-von-Miller-Ring Vorstellung durch einen Mitarbeiter des Baureferates
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0.1.: Bauvorhaben Theatinerstraße 47, Koordination der Baustelleneinrichtung mit den S-Bahn-Bauarbeiten auf dem Marienhof; Vorstellung im Unterausschuss, vgl. TOP 2017.02 B 0.1
+- TOP 2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Platzl und Orlandostraße – Wege zum Hofbräuhaus barrierefrei gestalten
+- TOP 3.1.1.: Vorbescheid St-Anna-Straße 25, Abbruch und Neuerrichtung eines Wohngebäudes mit Laden, vertagt aus 2017.01B 3.1.4 und 2017.02 B 3.1.1
+- TOP 3.1.3.: Odeonsplatz 8 – 10, Errichtung einer Freischankfläche (58 m²/72 Sitzplätze), vertagt aus 2017.02 B 3.1.5
+- TOP 3.1.4.: Rumfordstraße 35, Dachausbau eines Mehrfamilienhauses
+- TOP 3.1.5.: Liebigstraße 14, Nutzungsänderung und Ausbau des Dachspeichers zu 2 Wohneinheiten
+- TOP 3.1.6.: Oettingenstraße 40, Anbau einer Balkonanlage im Innenhof, Umbau und Sanierung des Dachspitzes, Nutzungsänderung im EG (Wohnung zu Hausmeister - Lagerraum
+- TOP 3.1.7.: Marienplatz – Verlegung der Blumenverkaufsstände am Alten Rathaus wegen Durchführung einer Baumaßnahme
+- TOP 3.2.1.: Erinnerungsverfahren Wiederherstellung der Geh- und Fahrbahn im Hofgraben
+- TOP 3.2.2.: Anhörung zu Bebauungsplan mit Grünordnung Nr. XXYY Oettingenstraße 74-80 und Tivolistraße, vgl. 2016.10 B 3.2.2; Erneute Stellungnahme, vgl. Schreiben des Referates für Stadtplanung und Bauordnung vom 20.02.2017
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Schreiben einer Bürgerin vom 12.02.2017 Verunreinigungen an Fahrzeugen durch Hundekot, Aufstellen von Hinweisschildern
+- TOP 1.2.: Schreiben eines Bürgers vom 14.02.2017, Wegfall eines Wertstoff Sammelplatzes
+- TOP 2: Entscheidungen
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis, Freischankfläche, Residenzstraße 1
+- TOP 2.2.1.: Genehmigung eines Verkaufsstandes für gebrannte Nüsse, Kaufingerstr. 28
+- TOP 2.2.2.: Genehmigung eines mobilen Fahrradständers, Maximilianstraße 14
+- TOP 2.2.3.: Antrag für das Aufstellen von Sitzgelegenheiten, Hermann-Sack-Straße 2
+- TOP 2.2.4.: Odeonsplatz 8 – 10, Errichtung einer Freischankfläche (58 m²/72 Sitzplätze), vertagt aus 2017.02 B 3.1.5
+- TOP 2.3: Sonstige
+- TOP 2.3.1.: (E) Kein Alkoholverkauf in Grünanlagen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: „Veranstaltungsbudget – Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen“: Anhörung zu einer Beschlussvorlage für den Stadtrat
+- TOP 3.1.2.: Palmsonntagsprozession am 09.04.17 um den Dom am Frauenplatz. gem. §29 der StVO
+- TOP 3.1.3.: Spielaktionen in öffentlichen Grünanlagen - Antrag KVR - Anhörung BA
+- TOP 3.1.4.: Marienhof – Festakt und Bürgerfest zum offiziellen Baubeginn der 2. S-Bahn-Stammstrecke am 05./06.04.2017
+- TOP 3.1.5.: Kanalstraße/Isartorplatz – Straßenfest am Fortunabrunnen 30.06.2017 bis 02.07.2017
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Schreiben einer Firma am Thomas-Wimmer-Ring vom 03.02.2017 Erhalt der Parkbucht auf Höhe der Herrnstraße während der Bauphase und darüber hinaus, vertagt aus 2017.03 D 1.1
+- TOP 1.2.: Bund Naturschutz: Baumschutz in der Stadt (Anträge der Baumschutzbeauftragten der Münchner Bezirksausschüsse aus den BUND-Workshops)
+- TOP 1.3.: BA Antrag: Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas-Wimmer-Rings unter Einfluss des Isartorplatzes
+- TOP 1.4.: BA-Antrag: Schnellstmögliche Neupflasterung des neuen Fußgängerzonenabschnittes Sendlinger Straße von der Hackenstraße bis zum Sendlinger Tor
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Anwohnerparken im südlichen Lehel
+- TOP 3: Anhörungen
+- TOP 3.1.: Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas-Wimmer-Rings unter Einschluss des Isartorplatzes, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung inkl. Erledigung verschiedener Empfehlungen aus der Bürgerversammlung Altstadt-Lehel vom 03.12.2016 vertagt aus 2017.02 D 3.5
+- TOP 3.2.: Anträge Brienner Straße, Einführung einer unechten Einbahnregelung
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: BA Antrag: Einwohnerversammlung für Kinder und Jugendliche 2017
+- TOP 2: Entscheidungen
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Lesenächte" Lesenächte ab April 2017
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 6: Unterrichtungen - Allgemeines
+- TOP A 6.1.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen
+- TOP A 6.2.: Weitergabe von Sitzungsunterlagen und Informationen an die Presse, Schreibend es Oberbürgermeisters
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: (U) Altstadtring Nordwest Sicherheitsnachrüstung Altstadtringtunnel Straßenumbau Oskar-von-Miller-Ring und Von-der-Tann-Straße Projektkosten (Kostenobergrenze): 84,7 Mio. € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 200.000 € (brutto)) 1. Projektgenehmigung 2. Änderung des Mehrjahresinvestitionsprogrammes 2016 - 2020
+- TOP B 4.3.: Erhaltungssatzungen im Stadtbezirk 01 – Altstadt-Lehel: 1. Erhaltungssatzung für das Lehel, 2. Prüfung zur Ausweisung von 3 Erhaltungssatzungsgebieten im Stadtbezirk 1, BA-Antrags-Nr. 14 – 20 / B 02525 des BA 1 vom 14.06.2016, Sitzungsvorlagen-Nr. 14-20/V 07202, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2017 (VB)
+- TOP B 4.4.: Oettingenstraße 50 – 54; DG-Neuerrichtung und -Ausbau mit 5 neuen Wohnungen sowie Anbau von Aufzügen an 3 Mehrfamilienhäuser; Baugenehmigung vom 14.02.2017
+- TOP B 4.5.: Frauenstraße 8; Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV; Aufbau eines Autokrans in der Reichenbachstraße vor Haus-Nr. 3 zur Demontage eines Baukrans von 01.03.2017 bis 03.03.2017
+- TOP B 4.6.: Bebauungsplan Entwicklung Sattlerplatz und Färbergraben, Antwort des Referats für Stadtplanung und Bauordnung auf BV-Anfrage 14-20 / Q 00362 vom 01.12.2016
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP C 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.4.: Sicherheitsoffensive für München (3): Sicherheitskonzept für die Fußgängerzone und den Marienplatz, Antrag Nr. 14 – 20 / A 02813 der CSU Fraktion im Stadtrat
+- TOP C 4.5.: Verlegung der (Teil-)Freischankfläche einer Gaststätte, Baumaßnahme der SWM, Fernkälte in der Theatinerstraße
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Zusätzliche Fußgängerfurt an der Kreuzung Prinzregenten-/Oettingenstraße, Antrag aus der Kinder- und Jugendversammlung 2016; Antwort-Email des Kreisverwaltungsreferates vom 07.02.2017
+- TOP D 4.2.: Verlängerung der Baustelle Marienplatz 22 mit Seite Rindermarkt (Hugendubel) bis 31.01.17
+- TOP D 4.3.: Baustelleneinrichtung in der Herzog-Wilhelm-Straße: Verlängerung bis 30.06.2017
+- TOP D 4.4.: Umgestaltung Max-Joseph-Platz – endlich Nägel mit Köpfen machen, Antrag Nr. 14-20 / A 02847 der CSU-Fraktion im Stadtrat
+- TOP D 4.5.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP D 4.6.: (U) Durchführung von Verkehrsversuchen durch das KVR
+- TOP D 4.7.: Entfernung von Gefahrbäumen
+- TOP D 4.8.: Sendlinger-Tor-Platz in Höhe Sonnenstraße (Umbau/Sanierung U-Bahnhof), Arbeiten im Straßenraum vom 20.02. bis 07.04.2017
+- TOP D 4.9.: Sendlinger-Tor-Platz in Höhe Herzog-Wilhelm-Straße (Umbau/Sanierung U-Bahnhof), Arbeiten im Straßenraum vom 03.03.2017 bis 02.03.2018
+- TOP D 4.10.: Wallstraße/Blumenstraße (Umbau/Sanierung U-Bahnhof), Arbeiten im Straßenraum vom 20.02. bis 01.10.2017
+- TOP D 4.11.: Wegfall der Wertstoffinsel in der Knöbelstraße – schnell Ersatzstandort in der Nähe finden, Antwortschreiben des Abfallwirtschaftsbetriebs München auf das BA-Schreiben vom 14.02.2017
+- TOP D 4.13.: Änderung bzw. Ergänzung der verkehrsrechtlichen Erlaubnis vom 29.11.2016, Rindermarkt 13 und 14
+- TOP D 4.14.: Verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung zweier allgemeiner Behindertenparkplätze am Odeonsplatz 6, Seite Galeriestraße
+- TOP D 4.15.: Oettingenstraße 50, DG-Neuerrichtung und -Ausbau mit 5 neuen Wohnungen sowie Anbau von Aufzügen an 3 Mehrfamilienhäusern, Antwort auf BA-Schreiben vom 14.02.2017
+- TOP D 4.16.: Sparkassenstraße zwischen Tal und Ledererstraße, Hofgraben zwischen Dienerstraße und nördlichem Hofgraben, Theatinerstraße zwischen Maffeistraße und Viscardigasse Marienhof, Dienerstraße und Weinstraße, Spartenverlegung Fernkälte vom Odeonsplatz bis Sparkassenstraße, Arbeiten im Straßenraum
+- TOP D 4.17.: Arbeiten im Straßenraum, Osdeonsplatz, Platz vor der Feldhernnhalle, Erstellen eines Schachtbauwerks für Fernkälte, Ergänzung einer verkehrsrechtlichen Anordnung
+- TOP D 4.18.: Information der SWM über Baustellen in Ihrer Nähe, SWM Fernkälteprojekt Theatinerstraße Nord
+- TOP D 4.19.: Information der SWM über Baustellen in Ihrer Nähe, SWM Fernkälteprojekt Hofgraben - Pfisterstraße
+- TOP D 4.20.: Information der SWM über Baustellen in Ihrer Nähe, SWM Fernkälteprojekt Sparkassenstraße
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP E 4.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP E 4.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP E 4.4.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP E 4.5.: Referat für Bildung und Sport, Beschluss Staatliches Wilhelmsgymnasium an der Thierschstr. 46 im 1. Stadtbezirk Altstadt-Lehel; Sonderprojekt: Aufstellung von Abguss-Figuren aus dem Westgiebel des Zeustempels von Olympia im Schulgebäude im Zuge der laufenden Baumaßnahme Generalinstandsetzung und Erweiterung des Staatlichen Wilhelmsgymnasiums, Annahme einer Zuwendung, Sitzungsvorlage Nr. 14-20/V 08054, Beschluss des Bildungsausschusses des Stadtrates vom 22.02.2017 (SB)
+- TOP E 4.6.: Ergebnisse der Planung der MünchnerSommerSpielAktion
