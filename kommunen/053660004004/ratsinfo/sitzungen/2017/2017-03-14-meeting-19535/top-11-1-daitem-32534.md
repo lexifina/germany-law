@@ -1,0 +1,7 @@
+# TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Stadtentwicklungsausschuss (15. Sitzung) (2017-03-14)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/32534
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
