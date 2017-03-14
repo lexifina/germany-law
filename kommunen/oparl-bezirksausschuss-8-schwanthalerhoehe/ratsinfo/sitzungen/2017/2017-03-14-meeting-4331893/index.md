@@ -1,0 +1,65 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4331893
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4331893
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Keine kurzen Fahrzeuge auf der Tram 19
+- TOP 4.2.: Tulbeckstraße; Entfernung der Haltverbotsschilder an den Parknasen Hundebeutelständer am Gollierplatz Verbotsschild gegen Taubenfüttern am Gollierplatz
+- TOP 4.3.: Projektvorstellung The-Practice-Peace-Projekt
+- TOP 4.4.: Haus mit der roten Fahne
+- TOP 4.5.: Lärmbelastung durch zahlreiche Gaststätten im Umfeld der Parkstraße
+- TOP 6.2.1.: Bauvorhaben Ligsalzstr. 32/RGB
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Feuerfeste Garderobenschränke in der Bergmannschule
+- TOP 7.3.2.: Planung der Einsätze der MüncherSommerSpielAktion 2017
+- TOP 7.3.3.: Kinder-Kultur-Sommer von 01. - 05.06.2017 am Verkehrsmuseum
+- TOP 7.3.4.: Migration bewegt die Stadt; Aktionstage im Westend vom 20. - 31.03.2017
+- TOP 7.3.5.: Einladung zum Jour Fixe des Kulturreferates am 22.03.2017
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Kurdisches Neujahrsfest am 20.03.2017 auf dem Gollierplatz
+- TOP 8.2.2.: Festumzug zur Eröffnung des 53. Frühlingsfestes am 21.04.2017
+- TOP 8.2.3.: Baumfällung Schwanthalerstr. 124
+- TOP 8.2.4.: Flohmarkt am Gollierplatz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Bau einer Fahrradbrücke über den Trappentreutunnel prüfen (s. Anlage)
+- TOP 8.3.2.: Aufbau eines öffentlichen Ladesäulensystems für E-Fahrzeuge; Informationsveranstaltung am 05.04.2017
+- TOP 8.3.3.: Informationsveranstaltung der SWM am 27.03.2017
+- TOP 8.3.4.: Westendstr. zwischen Zschokkestr. und Ridlerstr; Verlegung einer Fernkälteleitung
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Evangelisch-Lutherische Auferstehungsgemeinde München Installation von Leuchten auf dem Kirchturm
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse United Cultures Initiative e.V. Veranstaltung „Sidewalk Cultures Festival“ im Juni 2017 Az.: 0262.0-8-0117
+- TOP 9.1.3.: (E) Budget der Bezirksausschüsse Initiative "Perspective Change" Kunstausstellung am 24. / 25.03.2017 Az. 0262.0-8-0119
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Aufklärungsaktion "Gscheit miteinander" - Fristverlängerung
+- TOP 11.2.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2017 - 2021
+- TOP 11.3.: Änderung der Vollmacht des Oberbürgermeisters; Wertgrenzen bei Baumaßnahmen
+- TOP 11.4.: Bürgerversammlung 8. Stadtbezirk am 27.04.2017
