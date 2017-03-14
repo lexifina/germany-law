@@ -1,0 +1,95 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-03-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4265954
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4265954
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 22.02.17
+- TOP 1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 7.1.: Infoveranstaltung "Wohnen für Alle Franz-Albert-Straße" am 21.03.17 im Theatersaal des Hans-Sieber-Hauses, Manzostr. 105, Beginn 18:30 Uhr
+- TOP 7.12.: Nachfolge und Vertretungsregelung im UA Kultur und UA Umwelt, Freizeit und Sport
+- TOP 7.13.: Ausgabe "Die Münchner Bezirksausschüsse 2017"
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 10.: Nachtrag
+- TOP 1.4.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1.: Haltverbote Manzostraße
+- TOP 2.2.2.: Streetballanlage Megerlestraße
+- TOP 2.2.3.: Fertigstellung des Fußwegs Gerberau / Allach
+- TOP 4.1.: Konkrete Konzepte und Maßnahmen gegen Feinstaub und Stickoxidbelastung; Messungen in Allach Empfehlung Nr. 14-20 / E 01055 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 28.06.2016
+- TOP 4.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung von Teilstrecken des Martha-Näbauer-Platzes
+- TOP 4.3.: (E) Anordnung von Tempo 30 in der Eversbuschstraße sowie durchgängige Ampelschaltung Eversbuschstraße/ Ecke Allacher Straße; Tempo 30 auf der Eversbuschstraße von der Ecke Ludwigsfelder Straße bis zur Höcherstraße (Ziffer 1 des Antrags); Verkehrsberuhigung Eversbuschstraße; Verbesserung der Sicherheit für Fußgänger und Radfahrer im Bereich der Grundschule an der Eversbuschstraße; Einschränkung des Lkw-Verkehrs in Allach durch Geschwindigkeits- und Durchfahrtsbeschränkungen, insbesondere in der Eversbuschstraße, Paul-Ehrlich-Weg und Ludwigsfelder Straße; Zebrastreifen in der Eversbuschstraße auf Höhe des ehemaligen Allacher Sommerbades;
+- TOP 4.4.: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Neueinrichtung eines Taxistandplatzes in der Manzostraße
+- TOP 5.1.: Allacher Straße - Geschwindigkeitsbegrenzung auf 30 km/h aus Lärmschutzgründen
+- TOP 5.2.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmlaverordnung der Landeshauptstadt München
+- TOP 5.3.: Baumschutz in München ist Klimaschutz für München Die Münchner Bezirksausschüsse handeln - jetzt!
+- TOP 5.4.: Veranstaltungsbudget
+- TOP 5.5.: Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 5.6.: Entwurf Begründung und Satzung Vorhabenbezogener Bebauunsplan mit Grünordnung Nr. 1617c Franz-Nißl-Straße (westlich) Hintermeierstraße (nördlich) Lewaldstraße (südlich) - Seniorinnen- und Seniorenwohn- und Pflegeheim (SWP) - Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1655a
+- TOP 5.7.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/37 Pasteurstraße (südlich), Georg-Reismüller-Straße (östlich), Bahnlinie MÜnchen-Treuchtlingen (westlich) und Bebauungsplan mit Grünordnung Nr. 2103 Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich), imaginäre östliche Verlängerung der Höcherstraße (nördlich) (Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) - Diamalt-Gelände-
+- TOP 5.8.: Neubau eines Einfamilienhauses mit Satteldach - Vorbescheid Killerstr. 1, Gemarkung: Allach, Fl.Nr.: 204/2
+- TOP 5.9.: Neubau eines Doppelhauses mit Walmdach - VORBESCHEID Killerstr. 1, Gemarkung: Allach, Fl.Nr.: 204/2
+- TOP 5.10.: Austausch Lichtsignalanlage Gotebold-/Lochhauser Str.
+- TOP 5.11.: Manzostraße, Fl.Nr. 408/0, Gemarkung Untermenzing Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG) Nachtrag der "In Treue fest!" - Torbögen
+- TOP 5.12.: Spielaktionen der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet
+- TOP 5.13.: Mittelfristige Finanzplanung 2016-2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2017 bis 2021
+- TOP 5.14.: Umbau und Erweiterung eines Einfamilienhauses, Ganzenmüllerstr. 15, Gemarkung Untermenzing, Fl.Nr. 250/87
+- TOP 5.15.: REGSAM-Schwerpunktgebietsauswahl 2017-2019
+- TOP 6.1.: Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.17: Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 6.2.: Beschluss der Vollversammlung vom 25.01.17: Durchführung von Verkehrsversuchen durch das KVR
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.17: Ökologischer Kriterienkatalog, Fortschreibung 2016/2017 (Sitzungsvorlage Nr. 14-20 / V 02989)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.17. Werbeanlagenverordnung erlassen (Sitzungsvorlage Nr. 14-20 / V 06471)
+- TOP 6.5.: Hinweis/Ergänzung zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 22.02.17: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 6.6.: Beschluss des Bildungsausschusses vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 6.7.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 6.8.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 6.9.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 7.2.: Informationsveranstaltung Sozialreferat am 22.05.17 ab 18:00 Uhr
+- TOP 7.3.: Informationsveranstaltung der SWM am 27.03.17 um 17:30 Uhr
+- TOP 7.4.: Regionalgespräche mit der Lokalbaukommission
+- TOP 7.5.: Aufbau eines öffentl. Ladesäulensystems für E-Fahrzeuge: 2. Infoveranstaltung am 05.04.17, 18:00 - 20:00 Uhr
+- TOP 7.6.: Jour Fixe Kulturreferat am 22.03.17, 17:00 - 19:00 Uhr
+- TOP 7.7.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018
+- TOP 7.8.: Baumschutzworkshop am 17.03.17
+- TOP 7.9.: Einladung zur Informationsveranstaltung Natura 2000 FFH-Gebiet 7734-302 "Allacher Forst, Angerlohe" am 14.03.17
+- TOP 7.10.: Integrationsmesse am 21.03.17
+- TOP 7.11.: Bürgerforum Altenpflege am 03.04.17
+- TOP 9.1.: Schreiben Referat für Stadtplanung und Bauordnung, Einzelfällungsanträge: Schwabmüllerstr. 20, Von-Kahr-Str. 63, Dyroffstr. 9, Theodor-Fischer-Str. 6, Servetstr. 9
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Ernst-Haeckel-Str. 98
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (06.02.-12.02.17, 13.02.-19.02.17, 20.02.-26.02.17)
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.02.17: Genehmigung für Schrebergartensiedlung am Lochholz
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.02.17: Geplantes Kulturbürgerhaus im 23. Stadtbezirk
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.02.17: Faltblatt "Wohnungsmarktdaten München 2015"
+- TOP 9.7.: Schreiben der Stadtwerke München vom 13.02.17, 20.02.17, 27.02.17: Baumaßnahmen
+- TOP 9.8.: Schreiben Referat für Bildung und Sport vom 07.02.17: Neubau Städt. Tagesheim Wiesentfelser Str. 80
+- TOP 9.9.: Schreiben Referat für Bildung und Sport vom 07.02.17: Neubau Städt. Tagesheim Grandlstr. 5
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 10.02.17: Drehgenehmigung Paul-Ehrlich-Weg am 21.02.17
+- TOP 9.11.: Schreiben Sozialreferat vom 16.02.17: Zweckentfremdung von Wohnraum, Karl-Gayer-Str.
+- TOP 9.12.: Schreiben Baureferat vom 16.02.17: Streetballanlage Megerlestraße
+- TOP 9.13.: Schreiben BA 8 Schwanthalerhöhe vom 16.02.17: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 9.14.: Schreiben Spielen in der Stadt e.V. vom 01.03.17: Planung der Einsätze der MünchnerSommerSpielAktion 2017
+- TOP 9.15.: Schreiben der Stadtwerke München vom 06.03.17: Baumaßnahmen
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 17.11.16: Kennzeichnung von Einmündungsbereichen in der Auenbruggerstraße und Behringstraße
+- TOP 9.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.03.17: Bauanträge (27.02.-05.03.17)
+- TOP 9.18.: Schreiben Referat für Stadtplanung und Bauordnung, Einzelfällungsanträge: Von-Kahr-Str. 63, Grovestr. 21, Grovestr. 4, Servetstr. 9
