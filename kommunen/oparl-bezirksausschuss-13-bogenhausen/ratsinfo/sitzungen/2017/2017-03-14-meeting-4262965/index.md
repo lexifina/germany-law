@@ -1,0 +1,146 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262965
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262965
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Umbesetzung in den Unterausschüssen
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Projektvorstellung Freischützstrasse 75-81, Johanneskirchner 98-100
+- TOP 2.2.4.: Possartstraße 14, Anbau 4. OG, Verlängerung Treppenhaus, Neubau Dachterrassen und Dachgaube
+- TOP 2.2.5.: Pienzenauerstraße 78, Neubau von zwei Mehrfamilienhäusern mit gemeinsamer Tiefgarage
+- TOP 2.2.6.: Prinzregentenplatz 23, Ausbau des Spitzbodens (Einheit 9), Nutzungsänderung der Einheit 8 (3. OG) sowie Errichtung einer Fluchtleiter
+- TOP 2.2.7.: Grasbrunner Straße, Neubau einer Logistikhalle inkl. Kühlbereich mit Büro- und Sozialbereichen sowie Parkdecks, Errichtung eines Pumpen- / Pförtnerhauses, einer Schallschutzwand sowie von Van- und Pkw-Stellplätzen inkl. Verkehrsflächen
+- TOP 2.2.8.: Ebersberger Straße 25, Abbruch
+- TOP 2.2.9.: Stargarder Straße 7+9, Neubau dreier Mehrfamilienhäuser (14 WE) mit Tiefgarage
+- TOP 2.2.10.: Friedrich-Herschel-Straße 10, Anbau an ein Wohngebäude
+- TOP 2.2.12.: Kopernikusstraße 6+8, Umbau und Sanierung Gesamtanwesen: Nutzungsänderung von Teilflächen im Souterrain zu Wohnraum, Anbau zweier Zugänge im Vorgarten und Einbau zweier Innenaufzüge, Erweiterung der Gebäude (gartenseitig), Schließen der Bestandsbalkone und Errichtung neuer Balkonanlagen, DG-Neuaufbau mit Veränderung der gartenseitigen Dachausführung im erhöhten Bereich sowie Ausbau der Dachgeschosse als Erweiterung der Einheiten im 4. OG
+- TOP 2.2.13.: Ruth-Drexel-Straße, Neubau einer Wohnanlage (50 WE) mit Tiefgarage (50 Stpl.) / Prinz-Eugen-Park WA 9 Ost
+- TOP 2.2.14.: zur Kenntnis genommene Bauvorhaben laut UA-Einladung
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.1.: Baumfällungen (Anhörungen)
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.2.: Hochhaus-Projekt "Arabella 26" Abkürzung des Verfahrens Vorstellung
+- TOP 2.2.3.: (E) Zweckentfremdung zeitnah umsetzen; hier: Zweckentfremdungen von Wohnungen im Arabellapark Empfehlung Nr. 14-20 / E 01222 .....
+- TOP 2.2.11.: Mauerkircherstraße 28, DG-Ausbau mit Anordnung eines Aufzugs, Teilnutzungsänderung (Kellerräume zu Wohnung), Einbau zweier neuer Balkone, Tektur – hier: Anbau zweier weiterer Balkone und eines Unterflurparkers ( 8 Stpl.) mit Drehscheibe
+- TOP 2.3.1.: (E) Erhöhung der Sicherheit für Fahrgäste des MVV an der Haltestelle Mauerkircherstraße durch Änderung der Ampelschaltung und ggf. Anbringung einer Kamera zur Verkehrsüberwachung
+- TOP 2.3.2.: (E) Überprüfung der Ampelschaltungen Herkomerplatz und Arabellastraße; Priorisierung für Fußgänger
+- TOP 2.3.3.: (E) Kürzere Reaktionszeit für Fußgänger an der Ampel Richard-Strauß-Straße / Buschingstraße
+- TOP 2.3.4.: (E) Fußgängerüberweg Effnerstraße, Höhe Wahnfriedallee
+- TOP 2.3.5.: (E) Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Truderinger Straße / Zamilastraße, hinter Bushaltestelle, neben Radl-Station; Aufstellung von neuen Verkaufseinrichtungen
+- TOP 2.3.6.: Verbesserung der Umsteigebeziehungen an der Endstation Berg am Laim (Bus 190/191 zur Linie 25 und Linie 19); Antrag der Fraktion Bündnis`90/Die Gruenen
+- TOP 2.3.7.: Bus Linie 188/189, Verspätungen; Bürgeranliegen vom 03.02.17
+- TOP 2.3.8.: Linienführung Bus Linie 187/190; Bürgeranliegen vom 08.02.17
+- TOP 2.3.9.: Buslinien in München Ost, insbesondere Linie 187, 190, 191, Erschließung der Parkstadt Bogenhausen; Bürgeranliegen vom 11.02.17
+- TOP 2.3.10.: Bus Linie 190/191, Linienführung; Bürgeranliegen vom 19.02.17
+- TOP 2.3.11.: Verladezone Zamdorfer Straße; Antrag nach Korrespondenz mit dem Kreisveraltungsreferat
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Atelierhaus FOE e.V. Gemeinschaftsgarten "Grünstadtgeflüster" Antragssumme: 3.500,- €
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Green City e.V. "Grüne Schule" in der Grunschule an der Ostpreußenstraße Antragssumme: 191,- €
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse h+s Veranstaltungen GmbH "Hörgang 2017" am 20.05.2017 Antragssumme: 7.000,- €
+- TOP 2.4.4.: (E) Budget der Bezirksausschüsse easy!upstream - Verein zur Förderung und Unterstützung zeitgenössischer Kunst e.V. "Ausstellung junger Kunst" vom 15.03. - 02.07.2017 Antragssumme: 2.750,- €
+- TOP 2.4.5.: Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstand; Anhörung durch das Direktorium vom 30.01.17 zum BA-Antrag-Nr. 14-20 / B 03074 des Stadtbezirks 15 - Trudering-Riem
+- TOP 2.4.6.: Zuwendung aus dem Budget der Bezirksausschüsse Antrag vom 15.05.2016 beim BA 13 Beschaffung von Instrumenten Münchner Kreis für Volksmusik, Lied und Tanz e.V. Verwendungsnachweis
+- TOP 2.4.7.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017; Schreiben des KVR vom 09.02.17 Plan liegt vor
+- TOP 2.5.1.: (E) Ehemalige Ziegelei Deck Übernahme des Maschinenhauses und eines Trockenstadels der Ziegelei Deck in Ober­föhring als Industrie­denkmal durch die Landeshauptstadt Empfehlung Nr. 08-14 / E 00519 der Bürgerversammlung des Stadtbezirks 13 – Bogen­hausen am 22.10.2009
+- TOP 2.5.2.: Samstagsöffnung der Stadtteilbücherei in der Pilotphase auch in Bogenhausen Antrag der SPD-Fraktion des BA 13
+- TOP 2.5.3.: FC Rot-Weiß Oberföhring nicht mehr länger hinhalten: Beschleunigung der Planungen und Errichtung des Neubaus eines Umkleidegebäudes des FC Rot-Weiß Oberföhring sowie die Ertüchtigung der Sportfelder. Antrag der SPD-Fraktion des BA 13
+- TOP 2.5.4.: Situation der Reuth-Drexel-Schule; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 2.5.5.: 1) ÖPNV-Kostenentlastung für Senioren 2) Sortiment in Stadtteilbibliothek Bürgerschreiben vom 10.02.17
+- TOP 2.5.6.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken! Antrag des BA 8 mit der Bitte um Unterstützung
+- TOP 2.6.2.: Normannenstr. 22, 2 Birken
+- TOP 2.6.3.: Flemingstr. 52-54, 10 Bäume
+- TOP 2.6.4.: Gotenstr. 1, 1 Blautanne, 2 Zedern
+- TOP 2.6.5.: Daglfinger Str. 97, 1 Kastanie
+- TOP 2.6.6.: Arabellastr. 12, 1 japanischer Kuchenbaum, 1 Eibe
+- TOP 2.6.7.: Flensburger Str. 3, lt. Plan
+- TOP 2.6.8.: Stargarder Str. 7 + 9, lt. Plan
+- TOP 2.6.9.: Hochstiftsweg, lt. Plan
+- TOP 2.6.10.: Zoppoter Straße 30, 1 Fichte
+- TOP 2.6.11.: Elbestraße 4, 2 Fichten
+- TOP 2.6.12.: Königsberger Straße 14, 6 Bäume
+- TOP 2.6.13.: Lublinitzer Straße 14, 1 Tanne
+- TOP 2.6.14.: Lublinitzer Straße 19, 1 Ahorn
+- TOP 2.6.15.: Pienzenauerstraße 127. 1 Birke
+- TOP 2.6.16.: Ossenstraße 22, lt. Plan
+- TOP 2.6.17.: Grüntal 15, lt. Plan
+- TOP 2.6.18.: Gumemanzstraße 6, lt. Plan
+- TOP 2.6.19.: Baumfällungen (Unterrichtungen):
+- TOP 2.6.20.: Bushaltestelle Rümelinstraße; Bürgeranliegen vom 06.02.17
+- TOP 2.6.21.: Baumschutz in München ist Klimaschutz für München, Die Münchner Bezirksausschüsse handeln – jetzt; Schreiben des BUND Naturschutz in Bayern e. V. vom 20.12.2016 (vertagt vom 17.01. und 14.02.2017)
+- TOP 2.6.22.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Bitte um Vorschläge (vertagt vom 14.02.2017)
+- TOP 6.1.: Ausgefahrene Fahrbahn an der Bushaltestelle Effnerstraße / Odinstraße
+- TOP 6.2.: Sanierung des Gehweges in der Händelstraße in Alt-Bogenhausen (zwischen Ismaninger- und Weberstraße)
+- TOP 6.3.: Errichtung einer Schranke an der Gleißenbachstraße/Etzweg
+- TOP 6.4.: Wann kommt die Fahrradstraße Bogenhausen - Haidhausen?
+- TOP 6.5.: Maßnahmen gegen die aufdringlichen Bettler am Herkomerplatz und Kufsteiner Platz
+- TOP 6.6.: Parksituation im Stadtbezirk, z.B. Englschalkinger Straße, Freischützstraße
+- TOP 6.7.: Bürgergutachten zur SEM München Nordost (Empfehlungs Nr. 14-20 / E 01227 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen-Riem am 27.10.2016) und Das Urbane NaturNetz als Leitkonzept für die SEM München (Empfehlung Nr. 14-20 / E 01249 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen-Riem am 27.10.2016) SEM Nordost: Fortsetzung der Frischluftschneise Denninger Anger (Empfehlung Nr. 14-20 / E 01247 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen-Riem am 27.10.2016) SEM Nordost: Grünstreifen entlang des Hüllgrabens (Empfehlung Nr. 14-20 / E 01249 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen-Riem am 27.10.2016) Zwischennachrichten des Referats für Stadtplanung und Bauordnung vom 02.02.17
+- TOP 6.8.: Lärmbelästigung durch Durchsagen der S-Bahn Haltestelle Berg-am-Laim
+- TOP 6.9.: Katastrophale städtische Informationspolitik bei der Sanierung des Cosima-Wellenbads beenden!
+- TOP 6.10.: Beschränkung der Kurzparkzone im Bereich Brahmstraße 1
+- TOP 6.11.: Stuntzstr. 55, Schulpavillionanlage; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 07.02.17
+- TOP 6.12.: Rettung der Karateschule Budokan für viele Kinder und Jugendliche! Unterstützung bei der Unterbringung!
+- TOP 7.2.1.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 7.5.1.: Beschilderung des Geh- und Fahrradweges an der Denninger Str.
+- TOP 7.5.2.: Evaluation der Fahrradstraße in München Abschlussbericht Sitzungsvorlage Nr. 14-20 / V 07432
+- TOP 7.5.3.: Durchführung von Verkehrsversuchen durch das KVR Sitzungsvorlagen Nr. 14-20 / 07549
+- TOP 7.7.1.: Anhörungsrecht für Planungen im Bereich "Wohnen für Alle"; Schreiben der Stadtbaurätin an den BA 10 - Moosach
+- TOP 7.7.2.: Umbau, Sanierung, Erweiterung Wagenbauerstr. 2
+- TOP 7.7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.4.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 7.8.1.: Neubau Städtisches Tagesheim Bauhausplatz
+- TOP 7.8.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 7.8.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 7.8.4.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 7.8.5.: (U) Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum Eifelstraße 16 Neubau eines Doppelhauses, alt 126 m², neu 231 m²
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum Zaubzerstr. 29 + 31 Errichtung eines Mehrfamilienhauses, alt 1071 m², neu 1662 m²
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum Asgardstr. 35 Neubau von 2 Doppelhaushälften, alt 170 m², neu 501 m²
+- TOP 7.9.4.: Zweckentfremdung von Wohnraum Dominikstr. 1 Neubau eines Mehrfamilienhauses, alt 70 m², neu 403 m²
+- TOP 7.12.1.: Umsetzungsbeschluss zum weiteren Ausbau des Fahrradvermietsystems MVG Rad Finanzierung durch Umschichtung aus der städtischen Nahmobilitätspauschale Sitzungsvorlagen Nr. 14-20 / 07341
+- TOP 7.14.1.: Die neue Geschäftsführung der GWG München stellt sich vor
