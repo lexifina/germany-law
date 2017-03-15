@@ -1,0 +1,88 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-03-15T17:00:00+01:00
+- Ende: 2017-03-15T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3676
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3676
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - beantwortet
+- TOP 3.1: Wird der Moltkemarkt geschlossen? - beantwortet
+- TOP 3.2: Versammlungsstätte „Cole Sports Center“/ Parteiveranstaltungen in Schulen - beantwortet
+- TOP 3.3: Straßenbegleitgrün - beantwortet
+- TOP 3.4: Kosten für freigezogene, zuvor als Flüchtlingsunterkunft genutzte Sporthallen - beantwortet
+- TOP 3.5: Vermietung von schulischen Einrichtungen an politische Parteien - beantwortet
+- TOP 3.6: Weihnachtsfeier im Bürgersaal – eine unerwünschte Feierlichkeit? - beantwortet
+- TOP 3.7: Sanierungsmaßnahmen der Wohnungsgesellschaft Deutsche Wohnen in Steglitz-Zehlendorf - beantwortet
+- TOP 3.8: Baugenehmigung 2010/ 2125 Kohlhasenbrücker Straße 20? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Sondermittel für den Griechisch-Deutschen Förderverein e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Bebauungsplan X - B2d (Westlich Breisgauer Straße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.7: Bebauungsplan X - B2c (Westliche Krottnaurerstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.8: Bebauungsplan 6-36VE (Königstraße 19 und 19 A) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.9: Bebauungsplan 6-37VE (Siemensstraße / Wiesenweg) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.10: Bebauungsplan X-71 (Dreilindenstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.11: Bebauungsplan 6-24 VE (Fischerhüttenstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.12: Vorhabenbezogener Bebauungsplan 6-41 VE (Wismarer Straße, Kolonie Eugen-Kleine-Brücke) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.13: Bebauungsplan 6-9 B (Lichterfelde-West) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.14: 5 Minutentakt durchgehend für die S-Bahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Städtebauförderung für Zehlendorf-Mitte auf den Weg bringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Verlängerung U3 bis Mexikoplatz – Netzwirkung prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Hinweiszeichen für Fußgängerampel an der Joachim-Tiburtius-Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Fahrraderlaubnis Lilienthalpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Verlängerte Betriebszeiten der Buslinie 318 vom S-Bahnhof Wannsee zum Hahn-Meitner-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Kreuzungen Grunewaldstraße/Schloßstraße und Albrechtstraße/Düppelstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Vogelschutz an Glasarchitektur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haltelinie bei Rot vor der Ein- und Ausfahrt zum Parkhaus LIO - überwiesen
+- TOP 5.2: Die Bezirksverordnetenversammlung muss sich Gehör verschaffen! - überwiesen
+- TOP 5.3: Ladestation Elektroauto S-Bahnhof Lankwitz - überwiesen
+- TOP 5.4: Endlich hauptamtliche Leitung für das Hertha-Müller-Haus - überwiesen
+- TOP 5.5: Aktive Erinnerungskultur - überwiesen
+- TOP 5.6: Benennung eines Platzes nach Konrad Zuse - überwiesen
+- TOP 5.7: Anfragen von Bürger_innen mit der nötigen Wertschätzung begegnen - überwiesen
+- TOP 5.8: Sicherer Schulweg - auch zum Sport - überwiesen
+- TOP 5.9: Platz nach Lucie Strewe benennen - überwiesen
+- TOP 5.10: Ortsteile aus Sicht junger Menschen - überwiesen
+- TOP 5.11: Blindflug des Ordnungsamtes beenden – Statistik über Bürger_innenbeschwerden und verhängte Bußgelder einführen! - überwiesen
+- TOP 5.12: Sicherheit für Fußgänger am Teltower Damm - überwiesen
+- TOP 5.13: Transparenter Bezirkshaushalt - überwiesen
+- TOP 5.14: Interaktive Stelenkarte - überwiesen
+- TOP 5.15: Behinderten- und familienfreundliche Wegeführung an der Treppenanlage Arnold-Knoblauch-Ring/ Stölpchenweg - überwiesen
+- TOP 5.16: Transparentes Verwaltungshandeln bei Baumfällungen - überwiesen
+- TOP 5.17: Transparenz durch niedrigschwelliges Angebot zur Teilnahme an BVV Sitzungen - überwiesen
+- TOP 5.18: Neue Kiez-Grundschule mit Zukunft in Lichterfelde-Süd - überwiesen
+- TOP 5.19: Ortskern Zehlendorf entwickeln - überwiesen
+- TOP 5.20: Sichere Schulwege - überwiesen
+- TOP 5.21: Treitschkestraße: Adressänderung Saturn - überwiesen
+- TOP 5.22: Schutz der verbliebenen Bäume im Leonorenpark - überwiesen
+- TOP 6: Dringlichkeiten - (offen)
+- TOP 6.1: Dringende Große Anfragen - (offen)
+- TOP 6.1.1: Schulsanierung auf langer Bank? - beantwortet
+- TOP 7: Haushaltsangelegenheiten - (offen)
+- TOP 7.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1.1: Anmeldungen zur Investitionsplanung 2017 bis 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1.2: Ergänzungsplan Steglitz-Zehlendorf 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - im Ausschuss abgelehnt
+- TOP 8.1: Hat Bürgermeisterin Richter-Kotowski verantwortungslos gehandelt? Musikschule: Mindereinnahmen von 750.000 € in 2015 - beantwortet
+- TOP 8.2: Sichere Schulwege - vertagt
+- TOP 9: Anträge - überwiesen
+- TOP 9.1: Ein Bücherbus ist ein Muss. Ein zweiter hilft weiter! - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - überwiesen
+- TOP 10.1: Ausweis-/Dokumentenprüfgeräte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: RB 33 nach Steglitz verlängern - in der BVV abgelehnt
+- TOP 10.3: Gemäldezyklus über das KZ-Außenlager Lichterfelde im Bezirk ausstellen - vertagt
+- TOP 11: Vorlagen zur Kenntnisnahme - beantwortet
+- TOP 11.1: Hundeauslaufregelung am Schlachtensee - vertagt
