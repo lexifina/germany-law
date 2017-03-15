@@ -1,0 +1,135 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2017-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4240510
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4240510
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Doku zur Abholzung zwischen Kravogelstraße und Papinstraße (vertagt aus 02/17)
+- TOP 2.1.2.: Müllablagerungen Ecke Clarita-Bernhard-Straße / Ecke Anton-Böck-Straße
+- TOP 2.1.3.: Schallschutzwand an der S-Bahn-Station Leienfelsstraße
+- TOP 2.1.4.: Ausbau der Negrellistraße als Radweg - jetzt Feldweg
+- TOP 2.1.5.: Eingeschränktes Parken an der Erwin-Hielscher-Straße / Clarita-Bernhard-Straße bis zur Ampel Hans-Steinkohl-Straße
+- TOP 2.1.6.: Festlegung von Benutzungszeiten des Spielplatzes in der Grünanlage an der Hornberger Straße, Kennzeichnung der Grünanlage nördliche Hornberger Straße
+- TOP 2.1.7.: Buseinstieg / Behindertenhilfe an der Haltestelle Pretzfelderstr. / Streitbergstr.
+- TOP 2.1.8.: Verschmutzung am Bahnhof Lochhausen
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Altostr. 36 - Erlbachstr. 33 - Mainaustr. 85 - Mainaustr. 65 - Brunhamstr. 38a
+- TOP 3.1.2.: Vollzug des BNatSchG und des BayNatSchG: Novellierung der Naturdenkmalverordnung der LH München, Anhörung Planungsreferat vom 12.01.17 (vertagt aus 02/17) und Vorschlag der Bündnis 90/ Die Grünen-Fraktion vom 01.03.17
+- TOP 3.1.3.: Baumfällung zu einem Bauvorhaben: - Huislerstr. 6 - Seldeneckstr. 21 (Haus 1) - Am Langwieder Bach 18 - Seldeneckstr. 21 (Haus 2) - Bodenseestr. 165
+- TOP 3.1.4.: Erschließungsmaßnahme Freihamer Weg - Fällung von Pappeln, Schr. 17.02.17
+- TOP 3.1.5.: Fällungsgenehmigung: - Walter-Brecht-Str. 6, Schr. Planungsreferat vom 16.02.17
+- TOP 3.1.6.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen: Gefahrenbäume - Freihamer Allee, alter Teil, Schr. Baureferat vom 16.02.17
+- TOP 3.1.7.: Baumfällungen am Aubinger Bahnhof, Schr. Planungsreferat vom 01.03.17
+- TOP 4.1.: Recycling-Container am Standort Ehrenbürgstr. 1 (Hr. Bernsdorf)
+- TOP 4.2.: S-Bahnverbindungsmöglichkeit von Laim nach Pasing und umgekehrt (Hr. Bernsdorf)
+- TOP 4.3.: Aktuelle S-Bahn-Zuglängen der S3, S4, S6 und S8 (Hr. Bernsdorf)
+- TOP 4.4.: Müll am Freihamer Bahnhof (Hr. Bernsdorf)
+- TOP 4.5.: Sozialer Wohnungsbau im 2. RA Freiham (Bündnis 90/ Die Grünen)
+- TOP 4.6.: Baumfällungen am Freihamer Weg (Bündnis 90/ Die Grünen)
+- TOP 4.7.: Rechtzeitige Information der Baumschutzbeauftragten über Abholzaktionen (Siegfried Liedl, Dagmar Mosch)
+- TOP 4.8.: Ausbau der B 471 West zur Entlastung der A99 und Erhöhung der Kapzitäten an den Knotenpunkten A8 und A92 (Jürgen Umseher, Sebastian Kriesel, Johann Sauerer)
+- TOP 4.9.: Öffnung aller Verkehrsbeziehungen am AK München-West (Jürgen Umseher, Sebastian Kriesel, Johann Sauerer)
+- TOP 4.10.: Bildungskonzept für den 22. Stadtbezirk (Tanja Huber, Franz Federmann, Jürgen Schrader)
+- TOP 5.1.: (E) Bau einer Lärmschutzwand entlang des DB-Geländes "Abstellbahnhof Pasing" Bau einer Lärmschutzwand an der westlichen Seite des DB Werksgeländes/Abstellgleise von Höhe Englburgstraße bis nördlich zur Kastelburgstraße Empfehlung Nr. 14-20 / E 01020 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 23.06.2016 Bau einer Lärmschutzwand entlang des DB-Geländes Aubing-Ost zwischen Englburgstraße und Noderstraße Empfehlung Nr. 14-20 / E 01021 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 23.06.2016
+- TOP 5.2.: Budget der Bezirksausschüsse: MobilSpiel e.V. - Projekt Kicklusion "...und alle kicken mit" am 08.10.2017 (Az. 0262.0-22-0081)
+- TOP 5.3.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung: Temporäre Grünfläche an der Kastelburg- / Kronwinklerstraße im 22. Stadtbezirk
+- TOP 6.1.1.1.: Ganzjährige Spielaktionen der Spiellandschaft Stadt e.v. in öffentlichen Grünflächen, Anhörung KVR vom 24.02.17 und Schr. Spiellandschaft Stadt e.V. vom 21.02.17
+- TOP 6.1.1.2.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018, Anhörung Sozialreferat vom 24.02.17
+- TOP 6.1.1.3.: Auswahl neuer REGSAM-Schwerpunktgebiete ab 2017, Schr. Sozialreferat vom 03/17
+- TOP 6.1.2.1.: Einrichtung eines Altenservicezentrums im Neubaugebiet Henschelstraße, Schr. Planungsreferat vom 15.02.17
+- TOP 6.1.2.2.: Fachärztliche Unterversorgung mit Kinderärzten im Bereich des 22. Stadtbezirkes , Schr. RGU vom 14.02.17
+- TOP 6.1.2.3.: Kulturcafe Sürahi in der Brunhamstr. 19a, Schr. KVR vom 07.02.17
+- TOP 6.1.2.4.: Spielplatz und Grünfläche an der Leienfelsstr. / Aubing-Ost-Str., Schr. Baureferat vom 22.02.17
+- TOP 6.1.2.5.: Kurzbericht "Play Me, I&#039;m Yours 2016" in Neuaubing, Schr. Isarlust e.V. vom 03.03.17
+- TOP 6.1.2.6.: Aktueller Sachstand zur Flüchtlingsunterkunft in der Centa-Hafenbrädl-Str. 49 und in der Centa-Hafenbrädl-Str. 50, Schr. Sozialreferat vom 02.03.17
+- TOP 6.1.2.7.: Planung der Einsätze der Münchner Sommerspiel Aktion 2017, Schr. Spielen in der Stadt e.V. vom 01.03.17
+- TOP 6.1.2.8.: Schließung der Postfilialen in der Radolfzeller Str. 11, Schr. Referat für Arbeit und Wirtschaft vom 02.03.17
+- TOP 6.1.2.9.: Veranstaltungen / Kooperationen im März 2017, Schr. Kulturreferat vom 07.03.17
+- TOP 6.1.2.10.: Feuerwerk Osterangerstr. 59 - Rücknahme des Antrags, Schr. KVR vom 08.03.17
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Neubau Städtisches Tagesheim Grandlstr. 5, Schr. Referat für Bildung und Sport vom 07.02.17
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Aubinger Str. 186: Gehban-/Radwegsanierung - Fahrbahnsanierung Stichstraße zwischen Hausnr. 184 und Limesstraße, Anhörung Baureferat vom 24.02.17
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Beleuchtung am S-Bahnhof Leienfelsstraße, Schr. Ref. f. Arbeit u. Wirtschaft vom 31.01.17
+- TOP 6.3.2.2.: Mitteilung Stand Verkehrsmonitoring im Rahmen der Planungen für Freiham-Nord, Schr. Planungsreferat vom 16.02.17
+- TOP 6.3.2.3.: Sofortiger Ausbau der S-Bahnstrecke S4, Schr. Planungsreferat vom 14.02.17
+- TOP 6.3.2.4.: Schneeräumung am Bahnübergang Hellensteinstraße, Schr. Baureferat vom 16.02.17
+- TOP 6.3.2.5.: Verkehrsrechtliche Anordnung: Haltverbot in Höhe Industriestr. 28, Schr. KVR vom 16.01.17
+- TOP 6.3.2.6.: Verkehrsrechtliche Anordnung: Haltverbote und Kurzparkzonen in der Georg-Böhmer-Straße, Schr. KVR vom 27.12.16
+- TOP 6.3.2.7.: Verkehrsrechtliche Anordnung: Haltverbotsverlängerung in der Streitbergstraße 82, Schr. KVR vom 16.11.16
+- TOP 6.3.2.8.: Nichteinhaltung der Geschwindigkeitsbeschränkung in der Langwieder Hauptstraße / Eschenrieder Straße; Schild "Achtung Kinder" in der Langwieder Hauptstraße, Schr. KVR vom 28.02.17
+- TOP 6.3.2.9.: Video zur Beschwerde über Straßenreinigung, Schr. Baureferat vom 02.03.17
+- TOP 6.3.2.10.: Beschilderung im Westkreuz an der Einmündung Reichenau- und Mainaustraße, Schr. KVR vom 02.03.17
+- TOP 6.3.2.11.: Bahnstrom für unsere S-Bahnen
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Bodenseestraße, FSP - Sportpark Freiham: Neubau eines Sportparks mit 2 Dreifachturnhallen, Mehrzweckräumen, Schulschwimmbad, Vereinsheim mit Gaststätte und Freisportanlagen mit Betriebsgebäude (Bodenseestr./Freihamer Weg), Anhörung Planungsreferat vom 07.02.17 (vertagt aus 02/17)
+- TOP 6.4.1.2.: Radolfzeller Str. 5-5a: BA II - Ersatz-Neubau eines Nahbereichszentrums (u.a. Verbrauchermarkt, Lebensmitteldiscountmarkt, Einzelhandel, Bäckerei und Café) mit Wohnungen, Ärztehaus, Apotheke, Bibliothek, Kita und Tiefgarage, Anhörung Planungsreferat vom 20.02.17
+- TOP 6.4.1.3.: Verkauf einer städtischen Immobilie: Germeringer Feld - Teilflächen, Anhörung Kommunalreferat vom 17.02.17
+- TOP 6.4.1.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung IV/36: Langwieder Hauptstraße (südlich), Langwieder Bach (westlich), Lochhausener Straße (beidseitig), Langwieder Hauptstraße (östlich) und Bebauungsplan mit Grünordnung Nr. 2107: Lochhausener Straße (nördlich), Osterangerstraße (westlich), Langwieder Hauptstraße (südlich), Hufschmiedstraße (östlich), Anhörung Planungsreferat vom 01.03.17
+- TOP 6.4.1.5.: Schwemmstr. 6 - Neubau eines Ein- und Zweifamilienhauses, Anhörung Planungsreferat vom 02.03.17
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 06.02.-12.02.17, 13.02.-19.02.17, 20.02.-26.02.17 (N), 27.02.-05.03.17 (N)
+- TOP 6.4.2.2.: Errichtung von Urnenstelen auf dem städtischen Friedhof Lochhausen, Schr. Städt. Friedhöfe München vom 09.02.17 und 22.02.17
+- TOP 6.4.2.3.: Bauvorhaben Colmdorfstraße - Fällung von Bäumen im Zuge der Erschließungsmaßnahme "Freihamer Weg" und Sperrung der Unterführung
+- TOP 6.4.2.4.: Dreilingsweg 51: Ungenehmigter Lagerplatz - Lkw, Baumaschinen, Industrieanlagen sowie Kfz-Händler an der Mooswiesenstraße, Schr. Planungsreferat vom 09.02.17
+- TOP 6.4.2.5.: Zaun an der Hellensteinstraße, Schr. Referat für Arbeit und Wirtschaft vom 03.02.17
+- TOP 6.4.2.6.: Baumaßnahmen der Stadtwerke München - Stichtage: 06.02.-10.02.17, 13.02.-17.02.17, 20.02.-24.02.17, 27.02.-03.03.17 (N)
+- TOP 6.4.2.7.: Errichtung Abfalleimer an der Ecke Kronwinkler- / Langenburgstraße, Schr. Baureferat vom 27.02.17
+- TOP 6.4.2.8.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV): Ausnahmezulassung - Brunhamstr. 64-68 und gegenüber, Neuverlegung von Gas-, Strom- und Wasserhausanschlüssen, Schr. Referat für Gesundheit und Umwelt vom 07.03.17
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Wahlbezirkseinteilung der Bundestagswahl 2017, Anhörung KVR vom 09.02.17
+- TOP 7.2.: Mittelfristige Finanzplanung 2016 - 2020: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021, Anhörung Stadtkämmerei
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckenfremdung von Wohnraum: - Aubing-Ost-Straße, Schr. Sozialreferat vom 16.02.17 - Hohenesterstraße, Schr. Sozialreferat vom 23.02.17
+- TOP 8.2.: Änderung der Vollmacht des Oberbürgermeister nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen, Schr. Direktorium vom 22.02.17
+- TOP 8.3.: Anzeige einer Veranstaltung unter freiem Himmel, hier: Hans-Stützle-Str. / Medicare-Zentrum vom 01.03.-09.04.17, Schr. KVR vom 28.02.17
+- TOP 10.1.: Bekanntgabe im Bildungsausschuss vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 10.2.: Beschluss des Bildungsausschusses vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 10.3.: Beschluss des Bildungsausschusses vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 10.4.: Bekanntgabe im Bildungsausschuss vom 22.02.17: Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 10.5.: Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.17: Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 10.6.: Beschluss der Vollversammlung vom 25.01.17 Durchführung von Verkehrsversuchen durch das KVR
+- TOP 10.7.: Beschluss des Bauausschusses vom 31.01.17: Siedlungsschwerpunkt Freiham: Freiham Nord - Freiham Neuaubinger Grünband / Grünfinger (SV-Nr. 14-20 / V 07889)
+- TOP 10.8.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 22.02.17: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 11.1.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 11.2.: Einladung zum Informationsaustausch mit dem Kommunalreferat am 29.06.17 von 17-18 Uhr, Schr. Kommunalreferat vom 02.02.17
+- TOP 11.3.: Einladung zum Runden Tisch Kinder- und Jugendbeteiligung am 21.03.17 von 9.30-13 Uhr in der Pasinger Fabrik, Schr. AK Kinder- und Jugendbeteiligung vom 16.02.17
+- TOP 11.4.: Informationsveranstaltung der Stadtwerke München über Baustellen im Stadtgebiet am 27.03.17 um 17.30 Uhr, Schr. SWM vom 15.02.17
+- TOP 11.5.: Einladung zur Informationsveranstaltung mit der Sozialreferentin am 22.05.17 ab 18 Uhr, Schr. Sozialreferat vom 20.02.17
+- TOP 11.6.: Einladung zum Jour Fix mit dem Kulturreferat mit den Bezirksausschüssen am 22.03.17, Schr. Kulturreferat vom 22.02.17
+- TOP 11.7.: Einladung zum 5. Baumschutzworkshop am 17.03.17, Schr. Bund Naturschutz vom 24.02.17
+- TOP 11.8.: Gemeinsame Sitzung des Gemeinderats von Gröbenzell mit BA 22 am 21.03.17 um 19.30 Uhr im Sitzungssaal Rathaus Gröbenzell, Schr. Gemeinde Gröbenzell vom 21.02.17
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 26.04.2017 im Pfarrsaal St. Michael, Schussenrieder Str. 4 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, den 06.03.17 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 07.03.17 um 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Montag, den 06.03.17 um 19.00 Uhr, Limesstr. 63 - UA Soziales/Familie/Senioren/Kultur: Dienstag, den 07.03.17 um 19.00 Uhr, Friedrichshafener Str. 111
