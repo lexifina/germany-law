@@ -1,0 +1,6 @@
+# TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: außerordentliche Sitzung des Präsidiums des Kreistages (2017-03-15)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: nein
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=13021
