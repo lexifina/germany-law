@@ -1,0 +1,86 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-03-15T17:00:00+01:00
+- Ende: 2017-03-15T21:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4554
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4554
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=276786
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Reste der Marienfelder Feldmark Landschaftsschutzgebiet? - beantwortet
+- TOP 8.2: Zukunft der öffentlichen Toiletten im Bezirk? - beantwortet
+- TOP 8.3: Entwicklung der Hotellerie im Bezirk durch die Eröffnung des BER - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Verkehrssicherheit für die Kinder aus der Notunterkunft (NUK) im Rathaus Friedenau gewährleisten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Zeitlich begrenzte Besucherparkplätze vor dem Rathaus Schöneberg einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Förderprogramme für das Gartendenkmal Kleistpark nutzen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Jährlicher Wohnungsneubaubericht für den Bezirk Tempelhof - Schöneberg - überwiesen
+- TOP 9.5: Ombudsstelle für Tempelhof-Schöneberg - überwiesen
+- TOP 9.6: Erhalt der Suppenküche Lichtenrade - überwiesen
+- TOP 9.7: Gedenken an Georg Hermann sichtbar machen - zurückgezogen
+- TOP 9.8: Benennung eines stellvertretenden stimmberechtigten Mitglieds im Verwaltungsrat des Eigenbetriebs Kindertagesstätten Süd-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Geschichtsstation im Stadtraum ergänzen Würdigung des Nollendorfplatzes im Rahmen des Projektes “Historische Orte sichtbar machen“ - überwiesen
+- TOP 9.10: Ergänzung der GO um § 21a Integrationsausschuss - überwiesen
+- TOP 9.11: Schulwegpläne – Radschulwegpläne - überwiesen
+- TOP 9.12: Prekäre Lage im RSD verbessern - überwiesen
+- TOP 9.13: Bezirklichen Wohnungsmarktbericht fortschreiben, Wohnungsbaupotenziale aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Pilotprojekt „Alkoholverbot in der Grünanlage Bayerischer Platz“ - in der BVV abgelehnt
+- TOP 9.15: Landeseigene Flächen am Südkreuz für den Wohnungsbau mobilisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Bildungs- und Kulturentwicklungsplan fortschreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.17: Stelle für Stolpersteinkoordinierung endlich besetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Mehr Kitaplätze für Tempelhof-Schöneberg - überwiesen
+- TOP 9.19: Perspektiven der Stadtteilbibliothek Lichtenrade aufzeigen - überwiesen
+- TOP 9.20: Dialog-Displays am Töpchiner Weg erhalten - überwiesen
+- TOP 9.21: Regionalbahn-Halt in Schöneberg einplanen! - überwiesen
+- TOP 9.22: Aus aktuellem Anlass: Beschluss bekräftigen – Auftritte von Wildtieren unterbinden, weil Tempelhof-Schöneberg den Tierschutz ernst nimmt! - überwiesen
+- TOP 9.23: Fortschreibung der bezirklichen Schulentwicklungsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.24: Unterwegs Kaffeetrinken in Tempelhof-Schöneberg und dabei ein*e Klimaheld*in sein - überwiesen
+- TOP 9.25: Sportanlagenentwicklungsplan für Tempelhof-Schöneberg fortschreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.26: Baumschonend sanieren! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.27: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.28: Gesundheitsprävention der Mittwochs-Initiative unterstützen - überwiesen
+- TOP 9.29: Leerstand für bezirkliche Aufgaben nutzbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.30: InfoCompass als Informationsstelle für Geflüchtete künftig auch in Tempelhof-Schöneberg! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.31: Weichenstellung für die Umsetzung des Ziels 20 Prozent Festanstellung von Musikschullehrkräften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Voraussetzungen für einen Ganztagsbetrieb am Robert-Blum-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Behindertenberatungsstelle mit ausreichender Zahl an Fachkräften ausstatten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Ehemaligen BVV-Saal im Rathaus Tempelhof wieder für die Öffentlichkeit zugänglich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Gemeinschaftshaus Lichtenrade attraktiver machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Freies Internet in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Frauen sichtbar machen - Grünanlage in der Höppnerstraße nach Gertrud Hanna benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Benennung: Am Bülowbogen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Gedenken an Georg Hermann sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Durch Umorganisation den Ausschluss von Kindern vom Schulmittagessen verhindern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Mehr Zebrastreifen im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Verkehrsübungsplätze und Jugendverkehrsschulen erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Festsetzung des vorhabenbezogenen Bebauungsplans 7-73 VE für das Grundstück Sachsendamm 67-71, Tempelhofer Weg 13-24 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: des Bezirksamtes Tempelhof-Schöneberg von Berlin über den Vorschlag einer ehrenamtlichen Richterin am Sozialgericht Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Neuordnung der Abgrenzung der Schiedsamtsbezirke im Bezirk Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Einzelhandels- und Zentrenkonzept für den Bezirk Tempelhof-Schöneberg von Berlin - überwiesen
+- TOP 12.4: Benennung von beratenden Mitglieder im Jugendhilfeausschuss zur Vertretungen des Bezirksschulbeirat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Festsetzung des vorhabenbezogenen Bebauungsplans 7-65 VE für das Grundstück Bessemerstraße 84, Eythstraße 66 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 12.6: Aufstellung des Entwurfs der Investitionsplanung 2017 bis 2021 - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Landesregister der anerkannten Freien Träger der Jugendhilfe nach § 75 SGB VIII öffentlich zugänglich machen öffentlich zugänglich machen - überwiesen
+- TOP 13.2: Endlich Verkehrssicherheit am Übergangswohnheim Marienfelde schaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 14.1: Obdachlosenrahmenplan erarbeiten - überwiesen
+- TOP 14.2: Kandidat*innenvorstellung und -flyer für die Wahlen zur Seniorenvertretung online stellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Termin der nächsten Sitzung - zur Kenntnis genommen (Beratungsfolge beendet)
