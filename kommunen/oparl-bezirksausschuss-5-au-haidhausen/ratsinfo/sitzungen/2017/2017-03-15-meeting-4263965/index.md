@@ -1,0 +1,180 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-03-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263965
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263965
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9: Denkmalschutz
+- TOP II.1.: Info durch die Theatergruppe "Sound, Art + Drama": Musiktheater, Stück "Sallys falsche Oma" im Theater HochX, Kooperation mit Bazeillesschule
+- TOP 1.2.: Erweiterung der bestehenden Freischankfläche der Gaststätte "Kim & Co. Restaurant und Weinbar", Johannisplatz 11 (siehe auch TOP A 6.2.1)
+- TOP 1.3.: Errichtung einer Freischankfläche vor der Kleingaststätte "Nepal-Haus", Weißenburger Str. 39 (siehe auch TOP A 6.2.2)
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Einladung zur siebten Münchner Bildungskonferenz am 08.03.2017 in der Alten Kongresshalle
+- TOP A: Allgemeines
+- TOP 2.1.: Maxwerk (V): Keine Fahrradstellplätze in den Maximiliansanlagen rund um das Maxwerk-Grundstück !
+- TOP 2.2.: 2. S-Bahn-Stammstrecke: Kein Spatenstich vor einer erneuten Bürgerversammlung in Haidhausen !
+- TOP 2.3.: Maxwerk: Keinen Präzedenzfall schaffen
+- TOP 2.4.: Trogerstr. 12, Denkmalschutz auf dem Gelände des Klinikums rechts der Isar (I)
+- TOP 2.5.: Antrag auf Begrünung der Schornstraße und Einbahnregelung in der Schornstraße
+- TOP 2.6.: Schutz und Erhalt der historisch gewachsenen Kulturlandschaft Maximiliansanlagen mit Maximilianswerk
+- TOP 4.2.1.: Information zum geplanten Zentrum für Multiple Sklerose im Klinikum rechts der Isar (Terminanfrage)
+- TOP 4.2.2.: Die neue Geschäftsführung der GWG München stellt sich vor
+- TOP 4.2.3.: Geplanter Bau der 2. S-Bahn-Stammstrecke
+- TOP 4.2.4.: Maxwerk (Reaktion auf Berichterstattung zur BA-Sondersitzung)
+- TOP 5.1.: Tempo 30 in der Rosenheimer Straße
+- TOP 5.2.: Ampel am Straßenbahndepot Einsteinstr. 148
+- TOP 5.3.: Umsetzung der Ziele des Bürgerbegehrens "Sauba Sog I" auch in Au-Haidhausen
+- TOP 5.4.: Aufwertung des Kroneparks
+- TOP 5.5.: Mitnutzung des öffentlichen Spielplatzes an der Ernst-Reuter-Straße durch die Grundschule an der Ernst-Reuter-Straße
+- TOP 5.6.: Sondernutzungsrichtlinien: Radlständer am Gehweg
+- TOP 5.7.: Vergleichende Messungen der TRAM-Fahrgeräusche
+- TOP 5.8.: Grundbucheintragungen Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2076 sowie Bauvorhaben Rosenheimer Str. 112-114 (ehemaliges Holzkontor)
+- TOP 5.9.: Geschwindigkeitsanzeigetafeln an der Hochstraße
+- TOP 5.10.: Rosenheimer Straße I: Geschwindigkeitsanzeigetafeln / Speeddisplays
+- TOP 5.11.: Rosenheimer Straße II: Emissionsmessungen
+- TOP 5.12.: Rosenheimer Straße III: Radl-/Gehsteigsituation zwischen Orleansstraße und Bahnbrücke
+- TOP 5.13.: Sanierung des Kulturzentrums Gasteig dem BA vorstellen
+- TOP 5.14.: Infrastruktur für Seniorinnen und Senioren ausbauen - Neue Alten- und Servicezentren für den Stadtbezirk 5 schaffen
+- TOP 5.15.: 2. S-Bahn-Stammstrecke - Lärmschutzwände künstlerisch gestalten
+- TOP 5.16.: Unterführung Ost im Ostbahnhof München ausbauen
+- TOP 5.17.: Baumkataster adaptieren ? Anfrage
+- TOP 5.18.: Maxwerk (I): Nicht-Berücksichtigung der "Studie zum Thema Maxwerk" bei der Entscheidung über eine Gaststätten-Nutzung des Maxwerks
+- TOP 5.19.: Maxwerk (II): Immissions- und Strahlenschutz bei Gaststätten-Nutzung des Maxwerks Anfrage
+- TOP 5.20.: Maxwerk (III): Bezifferung der Sanierungskosten des denkmalgeschützten Maxwerks Anfrage
+- TOP 5.21.: Maxwerk (IV): Vertragliche Zweckbindung des Maxwerk-Grundstücks ? Anfrage
+- TOP 5.22.: Hypopark (I): Austausch der Tore Anfrage
+- TOP 5.23.: Hypopark (II): Bodenbelag auf dem Bolzplatz erneuern
+- TOP 5.24.: Stimm- und antragsberechtigte Personen auf Bürgerversammlungen
+- TOP 6.1.1.: Budget der Bezirksausschüsse OBACHT! kultur-im-quartier.de Kulturbiennale in Haidhausen vom 22. - 25.06.2017 (siehe auch UA Arbeit und Wirtschaft und UA Kultur)
+- TOP 6.2.1.: Erweiterung der bestehenden Freischankfläche der Gaststätte "Kim & Co. Restaurant und Weinbar", Johannisplatz 11 (siehe auch UA Arbeit und Wirtschaft)
+- TOP 6.2.2.: Errichtung einer Freischankfläche vor der Kleingaststätte "Nepal-Haus", Weißenburger Str. 39 (siehe auch UA Arbeit und Wirtschaft)
+- TOP 6.3.1.: (E) Einrichtung einer Fahrradstraße in der Balanstraße zwischen Orleansstraße und Rosenheimer Straße bzw. Installation eines Schutzbügels
+- TOP 7.1.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2017 bis 2021
+- TOP 8.1.1.: Radweg rechts der Isar: Ergänzung durch Rad-/Fußgängerampel am Maximilianeum
+- TOP 8.1.2.: Baupfusch an der Containeranlage für die Grundschule an der Flurstraße?
+- TOP 8.1.3.: Bordsteine der Busspur in der Orleansstraße
+- TOP 8.1.4.: Barrierefreier Eingang am Ostbahnhof-Haupteingang
+- TOP 8.1.5.: Schadstoffbelastung der Luft in der Humboldtstraße und anliegenden Straßen
+- TOP 8.1.6.: Wertstoffcontainer an den Haidenauplatz
+- TOP 8.1.7.: Elektroladesäulen am Rosenheimer Platz
+- TOP 8.1.8.: "Enzis" auf dem Mariahilplatz
+- TOP 8.1.9.: Denkmalschutz auf dem Gelände des Klinikum rechts der Isar - (I)
+- TOP 8.2.1.: Einrichtung von WC-Kiosk-Kombinationen; Nutzungsänderung des Pissoirs Nockherberg
+- TOP 8.2.2.: Anfrage zu den Planungen der 2. S-Bahn-Stammstrecke in Haidhausen ! Antrag Nr. 14-20 / B 03037 Zwischenmitteilung
+- TOP 8.2.3.: Planung der Einsätze der MünchnerSommerSpielAktion 2017
+- TOP 8.2.4.: Container auf dem Schulgelände der Hochstraße
+- TOP 8.3.1.: Weitergabe von Sitzungsunterlagen und Informationen an die Presse
+- TOP 8.4.1.: Drehgenehmigungen: - Kirchenstr. 13-33 ("Sepp&#039;s Geschichte") - Preysingstr. 42 ("Fitness First") - Preysingstr. 4 ("Tatort-Hardcore") - Bordeauxplatz ("Fitness First")
+- TOP 8.4.2.: Unveränderte Fortführung von Gaststättenbetrieben: - "Das Meisterstück", Weißenburger Str. 16 - "Belfort 7", Belfortstr. 7 - "Spezlwirtschaft Haidhausen", Pariser Str. 34 - "Cafe Gaballo", Preysingstr. 42 - "Keko", Mariahilfstr. 24 - "Osteria Piazza Italia", Franziskanerstr. 16
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.2.: Budget der Bezirksausschüsse OBACHT! kultur-im-quartier.de Kulturbiennale in Haidhausen vom 22. - 25.06.2017 (siehe auch TOP A 6.1.1)
+- TOP II.3.: Erklärende Zusatzschilder an Straßenschildern Vertagung aus der Sitzung vom 15.02.2017
+- TOP II.4.: Anfrage Carillon-Gamelankonzerte am Mariahilfplatz vom 07.-17.06.2018 Verweisung aus dem UA Arbeit und Wirtschaft
+- TOP II.5.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP II.6.: Weiße Rose - Tafel (Umbau des Geländes Orleansstraße) - ohne Unterlagen -
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Spielaktionen der Spiellandschaft Stadt e.V. von April - Oktober 2017
+- TOP 2.2.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 3.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 3.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 3.4.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse OBACHT! kultur-im-quartier.de Kulturbiennale in Haidhausen vom 22. - 25.06.2017 (siehe auch TOP A 6.1.1)
+- TOP 2.: Anhörungen
+- TOP 2.1.: Haidhauser Flohmärkte des AKA e.V. an der Postwiese am 13.05.2017 und 16.09.2017
+- TOP 2.2.: Fahrradbeleuchtungsaktion des ADFC am 07.10.2017 am Weißenburger Platz
+- TOP 2.3.: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen
+- TOP 2.4.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Marktveranstaltungen auf dem Orleansplatz 2017; Platzvergabe nach Grünanlagensatzung
+- TOP 3.2.: "love your local market" am 09.05.17 am Wochenmarkt Weißenburger Platz
+- TOP 3.3.: Gewerbeflächenentwicklungsprogramm Sitzungsvorlage Nr. 14-20 / V 07490, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2017
+- TOP 3.4.: Bürgerbeschwerde über Mitgliederwerbestände in Au-Haidhausen
+- TOP 3.5.: Kundgebung am 21.03.2017 am Pariser Platz zum Thema: Gemeinsam gegen Rassismus, Gemeinschaftsveranstaltung von DGB und AWO
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sedanstr. 20: Nutzungsänderung eines Lagers in einer Schank- und Speisewirtschaft zu einem Gastraum
+- TOP 2.2.: Orleansstr. 21: Nutzungsänderung: Fahrschule zu Gaststätte und Laden
+- TOP 2.3.: Ismaninger Str. 42 und 46: Abbruch und Neuerrichtung eines Wohn- und Geschäftshauses (66 WE und Gewerbe) mit zweigeschossiger Tiefgarage (68 Stellplätze), Tektur
+- TOP 2.4.: Steinstr. 27: Errichtung einer Dachterrasse, Tektur
+- TOP 2.5.: Entenbachstr. 37: Teilabbruch, Neubau und Aufstockung sowie Nutzungsänderung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Dingliche Sicherung für die Herstellung eines Geh- und Radweges Rosenheimer Straße / ehem. "Holzkontor"
+- TOP 3.2.: Bericht zur Wohnungssituation in München 2014-2015
+- TOP 3.3.: (U) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/17 Rosenheimer Straße (nordwestlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingerstraße (westlich), Mühldorferstraße (südwestlich) und Friedenstraße (südöstlich) Sitzungsvorlagen Nr. 14-20 / V 08180, Beschluss der Vollversammlung des Stadtrates vom 15.02.2017
+- TOP 3.4.: Steinstr. 44, Baugenehmigung
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Antrag auf Begrünung der Schornstraße und Einbahnstraßenregelung in der Schornstraße - Vorstellung der Pläne durch das Baureferat in der Unterausschuss-Sitzung
+- TOP 2.: Anhörungen
+- TOP 2.1.: Aurbacherstr. 5: Fällung von 2 Bäumen
+- TOP 2.2.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Vertagung aus der Sitzung vom 15.02.2017 mit ergänzender Antwort der Unteren Naturschutzbehörde
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: 2. Informationsveranstaltung für Bezirksausschüsse zum Aufbau des öffentlichen Ladesäulensystems in der Landeshauptstadt München am 05.04.2017 um 18 Uhr
+- TOP 3.2.: Einladung zum 5. Baumschutzworkshop am 17.03.2017
+- TOP 3.3.: Wegsanierungen in den Maximiliansanlagen 2017
+- TOP 3.4.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 3.5.: Verkehrsberuhigter Bereich Preysingstraße (Schreiben BA 5 vom 04.10.2016)
+- TOP 3.6.: Anwendung der Baumschutzverordnung auf öffentliche Grünflächen im gesamten Stadtgebiet (Schreiben BA 5 vom 20.12.2016)
+- TOP 3.7.: ­Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze in der Weißenburger Str. 50
+- TOP 3.8.: Vorwegnahme der 2. Stammstrecke am Orleansplatz (Schreiben BA 5 vom 27.02.2017)
+- TOP 3.9.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV, hier: Haidenauplatz und Milch-/Wörthstraße
+- TOP 3.10.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht Sitzungsvorlage Nr. 14-20 / V 07432, Bekanntgabe im Kreisverwaltungsausschuss vom 24.01.2017
+- TOP 3.11.: (U) Durchführung von Verkehrsversuchen durch das KVR Sitzungsvorlage Nr. 14-20 / V 07549, Beschluss der Vollversammlung des Stadtrates vom 25.01.2017
+- TOP 3.12.: Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt; Verkehrliche Neuordnung der Tegernseer Landstraße Sitzungsvorlagen Nr. 14-20 / V 03073, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 03.04.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 03.04.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 04.04.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb.. UA Kultur, 05.04.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 06.04.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 26.04.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 28.03.2017, 19 Uhr, Linse, Friedenstraße 40
+- TOP 4.2.: Einladung zum Tag der offenen Tür der Berufsfachschule für Ernährung und Versorgung am 10.03.2017 von 12-17 Uhr
+- TOP 4.3.: Ausstellungseröffnung der Wanderausstellung "FreiraumGalerie" am 13.03.2017 um 18 Uhr
+- TOP 4.4.: Einladung zur Integrationsmesse "Akademie der Nationen" am 21.03.2017
+- TOP 4.5.: Jour Fixe des Kulturreferates mit den Bezirksausschüssen am 22.03.2017 von 17-19 Uhr
+- TOP 4.6.: Informationsveranstaltung der Stadtwerke für die Bezirksausschüsse am 27.03.2017 um 17.30 Uhr
+- TOP 4.7.: Einladung zur Informationsveranstaltung "Städtisches Klinikum München - Auf dem Weg der Besserung ?" am 27.04.2017
+- TOP 4.8.: Informationsveranstaltung der Sozialreferentin für die Bezirksausschüsse am 22.05.2017 um 18 Uhr
+- TOP 4.9.: Regionalgespräche mit der Lokalbaukommission am 20.06.2017 oder 21.06.2017
+- TOP 4.10.: Informationsaustausch des Kommunalreferates mit den Bezirksausschüssen am 18.07.2017
