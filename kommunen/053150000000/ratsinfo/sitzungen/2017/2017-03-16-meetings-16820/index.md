@@ -1,0 +1,51 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-16T16:06:00+01:00
+- Ende: 2017-03-16T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16820
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16820
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Stand 10.03.2017 (5) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603661.pdf
+- Ergebnisprotokoll: Tagesordnung Stand 10.03.2017 (5) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603661.pdf
+- Wortprotokoll: Tagesordnung Stand 10.03.2017 (5) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603661.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Ganzheitliches Kölner Umweltbildungskonzept (UBK) - Kenntnis genommen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Emissionen von Stickoxiden in Köln - Sache ist erledigt
+- TOP 1.1.1: Emissionen von Stickoxiden in Köln - Kenntnis genommen
+- TOP 1.2: Windenergie in Köln - zurückgestellt
+- TOP 1.3: Radverkehrskonzepte für die Kölner Stadtbezirke - zurückgestellt
+- TOP 1.4: Luftbelastung am Clevischen Ring - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Mehr artenreiche Wiesen in Köln - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Förderung der Elektromobilität in Köln - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - mit Änderungen empfohlen
+- TOP 4.2: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2.1: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Beitritt zum Bündnis "Kommunen für Biologische Vielfalt e.V." - ungeändert empfohlen
+- TOP 4.4: Energieberatung für Privathaushalte durch die Verbraucherzentrale - Verlängerung für das Jahr 2020 - ungeändert beschlossen
+- TOP 4.5: Beschaffung einer IT-Anwendung Baumkataster - endgültig zurückgezogen
+- TOP 4.6: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - zurückgestellt
+- TOP 5: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 6: Mitberatung von Planungsvorlagen
+- TOP 7: Mitteilungen
+- TOP 7.1: s. TOP C Ganzheitliches Kölner Umweltbildungskonzept (UBK)
+- TOP 7.2: Durchforstungsplanung 2017 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 7.3: Bahnhof Belvedere in Köln-Müngersdorf - Kenntnis genommen
+- TOP 7.4: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Umwelt und Grün - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.5: Fertigstellung Rheinboulevard - Kenntnis genommen
+- TOP 7.6: Zeitlicher Ablauf des Freiraumplanerischen Wettbewerbs Parkstadt Süd-Teilbereich Eifelwall - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Klimaschutz durch effiziente Energieberatung in Köln - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 19: Mitberatung von Planungsvorlagen
