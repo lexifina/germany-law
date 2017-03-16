@@ -1,0 +1,104 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-16T16:00:00+01:00
+- Ende: 2017-03-16T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17103
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17103
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603658.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603658.pdf
+- Wortprotokoll: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603658.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Gestaltung der Außenanlagen der Archäologischen Zone - mit Änderungen empfohlen
+- TOP 3.2: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - mit Änderungen empfohlen
+- TOP 3.3: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" Projekt "Konekti und Integrationskultur" (Antrag Nr. 4 auf Gewährung von Zuwendungen aus dem Verfügungsfonds) - ungeändert beschlossen
+- TOP 3.4: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 3.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - ungeändert beschlossen
+- TOP 3.7: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - ungeändert empfohlen
+- TOP 3.8: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2017 - ungeändert empfohlen
+- TOP 3.9: Anbringung einer Gedenktafel am Bürgerhaus Stollwerck zur Erinnerung an die Rettung von drei niederländischen Zwangsarbeitern im März 1945 - ungeändert beschlossen
+- TOP 3.10: Konzept für eine transparente Vergabe von Nutzungen von Veedelsplätzen - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Reine Fahrradstraße Maybachstraße (Az.: 02-1600-178/16) - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO "Durchgangsverkehr Trajanstraße und Maternusstraße Neustadt Süd" (AZ.: 02-1600-189/16) - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Sanierung Riehler Straße (Az.: 02-1600-60/15) - zurückgestellt
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Neue Hundefreilauffläche im Volksgarten (Az.: 02-1600-05/17) - zurückgestellt
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: Verkehrsregelung und -beruhigung Dasselstraße (Az.: 02-1600-02/17) - zurückgestellt
+- TOP 4.7: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Brunostraße / Kartäuserwall (Az.: 02-1600-188/16) - zurückgestellt
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Bänke entlang der Severinstraße - ungeändert beschlossen
+- TOP 5.1.2: Maßnahmen zur Verbesserung der verkehrlichen Situation auf dem Eigelstein, Antrag SPD - endgültig zurückgezogen
+- TOP 5.1.3: Baustellenmanagement Eigelstein, Gem. Antrag SPD, Linke - endgültig zurückgezogen
+- TOP 5.1.4: Baustellenmanagement Eigelstein - Sache ist erledigt
+- TOP 5.1.5: Gestaltung der Bahnunterführung der Deutz-Mülheimer-Straße - geändert beschlossen
+- TOP 5.1.6: Instandsetzung der Fläche zwischen Severinstraße, Löwengasse, Weberstraße und Severinsbrücke - zurückgestellt
+- TOP 5.1.7: Umbaumaßnahme des Ebertplatzes - geändert beschlossen
+- TOP 5.1.8: Ladezone Komödienstraße Ecke Tunisstr. - geändert beschlossen
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Neupflanzungen in der Innenstadt - zurückgestellt
+- TOP 5.2.2: Werkstattverfahren für das Dreiecksgrundstück Am Salzmagazin/Eintrachtstraße (Altstadt/Nord) - endgültig abgelehnt
+- TOP 5.2.3: Neue Nutzungen bzw. Änderungsnutzungen im Gereonsviertel - ungeändert beschlossen
+- TOP 5.2.4: Josef-Schwartz-Anlage - zurückgestellt
+- TOP 5.2.5: Platzfläche rund um die Eigelsteintorburg - zurückgestellt
+- TOP 5.2.6: Wildes Parken am Rosenmontag im Grünstreifen des Klingelpützparks (Altstadt/Nord) - geändert beschlossen
+- TOP 5.2.7: Bank auf der Platzfläche Im Stavenhof (Altstadt/Nord) - zurückgestellt
+- TOP 5.2.8: Stadtklima-/ Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen und Gewässer - geändert beschlossen
+- TOP 5.2.9: Baustellenmanagement Erftstraße - ungeändert beschlossen
+- TOP 5.2.10: Maßnahmen zu Abi-Motto Wochen an Innenstadtschulen - ungeändert beschlossen
+- TOP 5.2.11: Dringlichkeitsantrag SPD: Abschlussarbeiten Chlodwigplatz - zurückgestellt
+- TOP 6: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 6.1: Aktuelle Viertelstunde zum Thema: Genehmigte Baumfällungen Messe Deutz
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.1: Sachstandsbericht über neue Aufstellorte für Sitzbänke in der Kölner Innenstadt - Kenntnis genommen
+- TOP 6.3: Drogenkonsum und Aufenthalt im öffentlichen Raum um den Neumarkt/Josef-Haubrich-Hof
+- TOP 6.4: Stand der Sanierung der Eisenbahnbrücken und –unterführungen
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Sachstand Sanierung U-Bahnhaltestelle Bhf Deutz/ Messe
+- TOP 7.2: Sachstand Sanierung U-Bahnhof BF Deutz/ Messe
+- TOP 7.2.1: Sachstand Sanierung U-Bahnhaltestelle Bhf Deutz/Messe
+- TOP 7.3: Gem. ANfrage Bündnis90/DieGrünen, CDU, SPD, Deine Freunde, FDP zu den Bahnbögen am Eigelstein - zurückgestellt
+- TOP 7.4: Gedenkstein für Opfer des Nationalsozialismus im Hansapark (Altstadt/Nord) - Sache ist erledigt
+- TOP 7.5: Reinigungs- und Räumdienst auf Radinfrastruktur
+- TOP 7.5.1: Beantwortung siehe TOP 11.1
+- TOP 7.6: Kreuzungsbereich Ursulastr. - Kyotostr. - Tunisstr.
+- TOP 7.6.1: Kreuzungsbereich Ursulastraße - Kyotostraße - Tunisstraße
+- TOP 7.7: Umgestaltung des Ebertplatzes - zurückgestellt
+- TOP 7.8: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 7.9: Gestaltung des Kyotoplatzes (Altstadt/Nord) - zurückgestellt
+- TOP 7.10: Nutzungswechsel ehemalige Strauss Filiale am Karolingerring
+- TOP 7.10.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen vom 31.01.2017 betreffend Nutzungswechsel ehemalige Strauss-Filiale am Karolingerring (AN/0182/2017)
+- TOP 7.11: Anfrage zur Umwandlung von Parkplätzen in Multifunktionsflächen - zurückgestellt
+- TOP 8: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 8.1: Haarnadel für Fahrradstellplätze - zurückgestellt
+- TOP 8.2: Private Sicherheitsdienste in der Innenstadt - zurückgestellt
+- TOP 8.3: Straßenunterhaltungsmaßnahme Reichenspergerplatz und angrenzende Straßen - zurückgestellt
+- TOP 8.4: Erneuerung des Mischwasserkanals in der Mathildenstr. in Deutz - zurückgestellt
+- TOP 9: Mündliche Fragen an die Verwaltung
+- TOP 9.1: Grundstücks Krefelder Straße/Innere Kanalstraße (Bauwagensiedlung)
+- TOP 9.2: Bauvorhaben Kyllstraße / WvM:
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Reinigungs-und Räumdienst auf Radwegen - Kenntnis genommen
+- TOP 11.2: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 11.3: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 11.4: StadtLabor für Kunst im öffentlichen Raum 2016/2017 - Kenntnis genommen
+- TOP 11.5: Ergebnisprotokoll der 10. Sitzung des Kunstbeirates in der Wahlperiode 2014/2020 am 26.1.2017 - Kenntnis genommen
+- TOP 11.6: Stadtverschönerungsprogramm 2015 für den Bezirk Innenstadt - Kenntnis genommen
+- TOP 11.7: Sanierung der Wegeverbindungen im Kolping-Park - Kenntnis genommen
+- TOP 11.8: Zeitlicher Ablauf des Freiraumplanerischen Wettbewerbs Parkstadt Süd-Teilbereich Eifelwall - Kenntnis genommen
+- TOP 11.9: Errichtung eines autonomen Gewitter- und Unwetter Warnsystem am Aachener Berg - Kenntnis genommen
+- TOP 11.10: Verkehrssituation Eburonenstraße - Kenntnis genommen
+- TOP 11.11: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 11.12: Verkehrsversuch Sperrung Zülpicher Straße - zurückgestellt
