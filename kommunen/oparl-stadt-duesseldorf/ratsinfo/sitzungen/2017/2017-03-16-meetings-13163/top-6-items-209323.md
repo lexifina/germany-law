@@ -1,0 +1,8 @@
+# TOP 6: CKW-Grundwasserverunreinigung Flingern - Stadtmitte (Ausführungs- u. Finanz.-beschluss)
+
+- Sitzung: Ausschuss für Umweltschutz (2017-03-16)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/209323
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/85031
