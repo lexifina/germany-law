@@ -1,0 +1,113 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-03-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4274601
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4274601
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: Verwendungsnachweise
+- TOP 10.1.3.: Kurzberichte
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 7.4.1 Gartenstadtstraße 30, Fl.Nr. 317/37 - TEKTUR zu 1.1-2015-10722-21 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 1.3.2.: 8.2.11 Kilihofstraße 2
+- TOP 1.3.3.: 8.2.12 Großfriedrichsburger Straße 1
+- TOP 1.3.4.: 8.2.13 Florastraße 3
+- TOP 1.3.5.: 8.2.14 Hoferichterweg 10
+- TOP 1.3.6.: 8.2.15 Wasserturmstraße 20
+- TOP 1.3.7.: 8.2.16 Toni-Schmid-Straße 17
+- TOP 1.3.8.: 10.3.2 In der Heuluss - Temporäre Kunst im öff. Raum - Aufstellung Bautafel 27.03.-23.04.17
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Passionskonzert am 02.04.2017
+- TOP 2.2.1.: (E) Beseitigung der Durchfahrtmöglichkeit zwischen Willy-Brandt-Allee und Selma-Lagerlöf-Straße
+- TOP 2.2.2.: (E) Parkverbot in der Friedrich-Creuzer-Straße
+- TOP 2.2.3.: (E) Lärmbelästigung Autobahn Empfehlung Nr. 14-20 / E 01191 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 06.10.2016
+- TOP 2.2.4.: Flohmarkt am 29.04.2017 auf dem Platz der Menschenrechte
+- TOP 3.3.1.: Am Eulenhorst / Am Voglsang - Aufstellen von zwei Hundekotbeutelspendern
+- TOP 3.3.2.: Georg-Kerschensteiner-Straße - Errichtung einer öfentlichen Toilette für die Besucher des Spielplatzes
+- TOP 3.3.3.: Bajuwarenstraße, Grundstückstausch
+- TOP 4.1.: Verbindung zwischen Kerschensteinerstraße und Riemarcaden asphaltieren
+- TOP 4.2.: Standortsicherung für das Sozialbürgerhaus (SBH-BTR) Berg am Laim / Trudering-Riem am Truderinger Bahnhof - eine vierte Etage zulassen
+- TOP 4.3.: Ausstellung Stadtentwicklung im Münchner Nordosten auch in Riem präsentieren
+- TOP 4.4.: Vollendung des Riemer Parks
+- TOP 5.1.: Stadtteilbibliothek Waldtrudering (Wasserburger Landstraße) für das geplante Projekt „Öffnungszeiten an Samstagen“ berücksichtigen
+- TOP 5.2.: Sanierung des Rasenbolzplatzes in der Messestadt Riem
+- TOP 5.3.: Barrierefreie Spielplätze im Stadtbezirk Trudering-Riem
+- TOP 5.4.: Riemer Straße - Verkehrs- und Parksituation zwischen Am Mitterfeld und An der Point Antwort des KVR auf die Nachfrage des BA vom Januar 2017
+- TOP 5.5.: Umbenennung der Bushaltestelle "Waltruderinger Straße" in "Birkhahnweg"
+- TOP 5.6.: Verbesserung bzw. Sanierung der Radwegeverbindung zwischen Trudering und Neuperlach über den Alexis Weg
+- TOP 5.7.: Damaschkestraße - VerkehrssituationFolgeantrag zu BA-Initiative 14-20 / I 01253 - Damaschkestraße: Busverkehr
+- TOP 5.8.: Darstellung der bislang für Trudering-Riem unternommenenSchritte zum Erhalt der Gartenstädte
+- TOP 5.9.: Was geschieht mit dem Standort SBH Trudering? gemeinsames Schreiben mit TOP 5.10
+- TOP 5.10.: Standort SBH für Trudering entscheiden- oder die Suche nach dem "günstigsten" Standort gemeinsames Schreiben mit TOP 5.9
+- TOP 5.11.: Schwimmunterricht an den Schulen flächendeckend anbieten gemeinsames Schreiben mit TOP 5.12
+- TOP 5.12.: Erweiterung der Kapazitäten für den Schwimmunterricht um ein Schulschwimmbecken gemeinsames Schreiben mit TOP 5.11
+- TOP 5.13.: Bezirkssportanlage Feldbergstraße 65 - Modernisierung der Freisportanlagen Antwort auf die Stellungnahme des BA zum Entwurf der Beschlussvorlage für den Sportausschuss (TOP 7.5.2 / 0117)
+- TOP 6.1.: (E) Riemer See: Installation von Fahrradständern (Ziffer 1) Empfehlung Nr. 14-20 / E 01189 der Bürgerversammlung des Stadtbezirks 15 Trudering-Riem am 06.10.2016 14-20 / E 01189 (BV-EMP) Riemer See: Installation von Fahrradständern (Ziffer 1) Stellungnahme des Baureferats zum abweichenden Beschluss des BA 15 vom 19.01.2017
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Riemer Park, Spielnachmittage des RBS, Mai 17 bis April 18, sonntags Termin 17.03.2017
+- TOP 7.1.2.: Riemer Park, Fit im Park, Mai bis September täglich Termin 17.03.2017
+- TOP 7.1.3.: Stadteigenes Grundstück Flst. 1408/104 Tlfl., Gemarkung Trudering-Riem An der Olof-Palme-Straße / Joseph-Wild-Straße
+- TOP 7.1.4.: Mittelfristige Finanzplanung 2016 – 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2017 bis 2021
+- TOP 7.1.5.: ganzjährige Spielaktionen der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet von April - Oktober 2016 Riemer Park, beim Spielplatz am See Termin 31.03.2017
+- TOP 7.1.6.: Veranstaltung auf der Sonderfläche Riem "Asiafest - Kultur live erleben" vom 16. bis 18.06.2017 Bericht der UA-Vorsitzenden über die Vorstellung des Projektes im UA-Allgemeines
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Jorthweg Frist: 03.04.2017
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Fauststr., Fl.Nr. 593/0, Gemarkung Trudering Nachtrag einer Lourdes-Grotte im Truderinger Wald nähe Fauststraße in die Denkmalliste Frist: 01.04.2017
+- TOP 7.3.2.: Bebauungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße /Alexisweg (westlich), Karl-Marx-Ring (östlich), Niederalmstraße (südlich), Stemplingeranger (nördlich) Frist: 05.04.2017
+- TOP 7.3.3.: Vollzug von §13 der BA-Satzung Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3 (Werbeanlagen) Truderinger Straße 261, Fl.Nr. 606/70 2 beklebte und beleuchtete Großflächentafeln (STO2)
+- TOP 7.3.4.: Vollzug von §13 der BA-Satzung Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3 (Werbeanlagen) Truderinger Straße 261, Fl.Nr. 606/70 2 beklebte und beleuchtete Großflächentafeln / 1-seitig freistehend
+- TOP 7.4: UA Planung
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Einsatz des Kinder-Aktions-Koffers 2017/2018 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung Ausschreibung Frist: 31.05.2017
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Bajuwarenstraße 137a Kurzhuberstraße 7
+- TOP 8.2.1.: Bajuwarenstraße 21 Günderodestr. 6c - abgelehnt durch UNB Halfinger Straße 47 Kreillerstraße 194 Otto-Lederer-Weg 41 Pfennigweg 8 Sonnenspitzstraße 24 Togostraße 38 Truderinger Straße 265 Waldschulstraße 80 Wasserburger Landstraße 167
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 10.1.2.1: Krieger- und Soldatenverein Trudering-Riem e.V., Baumpflegemaßnahmen Kriegerdenkmal
+- TOP 10.1.2.2: Chorgemeinschaft St. Peter und Paul Trudering, Truderinger Neujahrskonzert
+- TOP 10.1.3.1: Kinderschutz München, Tanz- und Bewegungkurs Zumba
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Neubau einer Lichtsignalanlage Friedenspromenade / Ottilienstraße
+- TOP 10.2.2.: Neubau einer Lichtsignalanlage Friedenspromenade / Vogesenstraße
+- TOP 10.2.3.: Am Moosfeld Verkehrsrechtliche Anordnung Als Antwortschreiben zu BA-Antrag Nr. 14-20 / B 03055 TOP 5.3 der BA-Sitzung in Februar 2017
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: Integriertes Strukturkonzept Münchner Nordosten Empfehlungen der Bürgerversammlung des 13. Stadtbezirks - Bogenhausen am 27.10.2016 Entwurf der Sitzungsvorlage
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Kameruner Straße 8
+- TOP 10.4.1.2: Heilwigstraße 34
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Planung der Einsätze der Münchner SommSpielAktion 2017 Antwort Spielen in der Stadt e.V. zur Stellungnahme des BA aus der Dezembersitzung
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Turnerstr., Postweg
