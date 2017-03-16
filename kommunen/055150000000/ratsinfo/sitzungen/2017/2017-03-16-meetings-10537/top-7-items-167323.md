@@ -1,0 +1,6 @@
+# TOP 7: Stadtplanung
+
+- Sitzung: Sitzung (2017-03-16)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/167323
