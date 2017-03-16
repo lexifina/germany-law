@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-03-16T17:00:00+01:00
+- Ende: 2017-03-16T18:43:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13250
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13250
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00287847.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00287847.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00287847.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen - einstimmig beschlossen
+- TOP 5: Abbruchantrag Amselstraße 7 - Abbruch der Anbauten - mehrheitlich beschlossen
+- TOP 6: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2017 - einstimmig beschlossen
+- TOP 7: Neuwahl einer Schiedsperson - mehrheitlich beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Hinweisschilder für Gottesdienste im Stadtbezirk 8 - beantwortet
+- TOP 10: Leitungsarbeiten am Höherweg - beantwortet
+- TOP 11: Neubau Lore-Lorentz-Schule - beantwortet
+- TOP 12: Taubenpopulation in Eller - beantwortet
+- TOP 13: Verschmutzung im Stadtbezirk 8 - beantwortet
+- TOP 14: Bebauung ehem. Schützenplatz Sturmstraße / Sodener Weg - beantwortet
+- TOP 15: Erweiterungsbauten Carl-Sonnenschein-Schule und Wichernschule - beantwortet
+- TOP 16: Umbaumaßnahmen Eller Kamp / Kamper Weg - beantwortet
+- TOP 17: Künstlerische Gestaltung von Schaltkästen im Stadtbezirk 8 - beantwortet
+- TOP 18: Beleuchtung Monckartzhofweg - beantwortet
+- TOP 19: Containerstandorte im Stadtbezirk 8 - beantwortet
+- TOP 20: Blühstreifen Am Stufstock - einstimmig beschlossen
+- TOP 21: Verbindungsweg Rothenbergstraße / Gerresheimer Landstraße zum Unterbacher See - einstimmig beschlossen
+- TOP 22: Baumscheiben im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 23: Gehweg Gumbertstraße - einstimmig beschlossen
+- TOP 24: Parkplatz BSA Vennhauser Allee 129 - einstimmig beschlossen
+- TOP 25: Parkplatz Bahnübergang Am Hackenbruch - einstimmig beschlossen
+- TOP 26: Zebrastreifen Eller Kamp - zurückgezogen
+- TOP 27: Geschwindigkeitsanzeigetafel Erfurter Weg - einstimmig beschlossen
+- TOP 28: Brückenbauten Am Kleinforst - zur Kenntnis genommen
+- TOP 29: Schaltkästen vor dem Rathaus Eller - zur Kenntnis genommen
+- TOP 30: Beleuchtung Grünanlage Kamper Weg / FC Tannenhof - zur Kenntnis genommen
+- TOP 31: Verkehrsregelung Gubener Straße - zur Kenntnis genommen
+- TOP 32: Trinkbrunnen auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 33: Fahrbahnsanierung Bernburger Straße / Klein-Eller - zur Kenntnis genommen
+- TOP 34: Geschwindigkeitsmessungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Polleranlage Gertrudisplatz - zur Kenntnis genommen
+- TOP 36: Baumfällungen Kamper Weg - zur Kenntnis genommen
+- TOP 37: Straßenkategorisierung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Rahmenplan Einzelhandel im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Veränderungen bei städt. Kitas - Betriebsaufgabe Hasseler Richtweg - zur Kenntnis genommen
+- TOP 40: Veränderungen bei städt. Kitas - Betriebsübernahme Posener Straße - zur Kenntnis genommen
+- TOP 41: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 42: Elektromobilität im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Leitungsverlegungen am Höherweg - zur Kenntnis genommen
+- TOP 44: Hinweisbeschilderung Unterbacher See - zur Kenntnis genommen
+- TOP 45: Umbau Kreuzung Eller Kamp / Kamper Weg und Bushaltestelle Eller Kamp - zur Kenntnis genommen
+- TOP 46: Geh- und Radweg Gubener Straße - zur Kenntnis genommen
+- TOP 47: Jugendfreizeiteinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Grundstück Reichenbacher Weg - zur Kenntnis genommen
+- TOP 49: Bahnübergänge Am Hackenbruch und Kamper Weg - zur Kenntnis genommen
