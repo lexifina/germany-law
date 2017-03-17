@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2017-03-17T16:00:00+01:00
+- Ende: 2017-03-17T20:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3794
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3794
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Bestellung einer stellvertretenden Schriftführerin des Rates - einstimmig zugestimmt
+- TOP 5: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 6: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 7: Tilsiter Straße: Sanierung zwischen Floßhafenstraße und Abfahrtsrampe Willy-Brandt-Ring - einstimmig zugestimmt
+- TOP 8: Wolberostraße, Einmündung Adolfstraße: Bau barrierefreier Querungsstellen - einstimmig zugestimmt
+- TOP 9: Moltkestraße: Straßenwiederherstellung nach Kanlabau - einstimmig zugestimmt
+- TOP 10: Bebauungsplan Nr. 490 - Hammfeld II West - Fachmärkte - mehrheitlich zugestimmt
+- TOP 11: Kita Weißenberg, 162/2 erneute Auslegung - einstimmig zugestimmt
+- TOP 12: Kita Hubert-Schäfer-Anlage BP 57/25 - einstimmig zugestimmt
+- TOP 13: Herstellung einer barrierefreien Rampe zwischen Freithof und Markt - einstimmig zugestimmt
+- TOP 14: Bergheimer Straße - barrierefreier Ausbau der Haltestelle Barriere (stadtauswärts) - mehrheitlich zugestimmt
+- TOP 15: Haltestelle Wilhelmstraße, Ergänzung zum barrierefreien Ausbau - einstimmig zugestimmt
+- TOP 16: Kölner Straße, barrierefreier Ausbau der Haltestelle Sporthafen (stadtauswärts) - verwiesen
+- TOP 17: Grundsatzbeschluss zur Vorbereitung eines planungsrechltichen Verfahrens - Hammfelddamm - einstimmig zugestimmt
+- TOP 18: Niederrheinstraße, Querung in Höhe des Ortsausgangs - einstimmig zugestimmt
+- TOP 19: Planfeststellungsverfahren A57 AK Neuss Süd - AS Dormagen - einstimmig zugestimmt
+- TOP 20: Zuschuss NEWI - einstimmig zugestimmt
+- TOP 21: Teilnahme am Stadtradeln 2017 - mehrheitlich zugestimmt
+- TOP 22: Zuschuss neuss-agenda 21 e.V. - mehrheitlich zugestimmt
+- TOP 23: Friedhofsgebührenordnung der Stadt Neuss - zur Kenntnis genommen
+- TOP 24: Jugendhilfeplanung "Spielraumplanung": Kinderspielplatzprogramm 2017/2018 - einstimmig zugestimmt
+- TOP 25: JJugendhilfeplanung „Kindertagesbetreuung“, hier: Ausbauplanung 2017ff - einstimmig zugestimmt
+- TOP 26: Spielraumplanung „Bolzplätze“ - einstimmig zugestimmt
+- TOP 27: Sportentwicklung - einstimmig zugestimmt
+- TOP 28: Bäderprojekt Stadtbad / Südbad - mehrheitlich zugestimmt
+- TOP 29: Gesamtschule Norf; hier: Planung und Kostenschätzung der Erweiterung - mehrheitlich zugestimmt
+- TOP 30: Wahl einer/eines Beigeordneten - mehrheitlich zugestimmt
+- TOP 31: Antrag SPD-Fraktion Gewerbeflächen - mehrheitlich zugestimmt
+- TOP 32: Antrag CD/Grüne:WLAN für die ganze Neusser Innenstadt - mehrheitlich zugestimmt
+- TOP 33: Antrag UWG/BIG: Blaues Licht auf öffentlichen Toiletten - einstimmig zugestimmt
+- TOP 34: Antrag der Fraktion DIE LINKE betr.: Zusatzgelder für Ausschussvorsitzende einsparen - mehrheitlich abgelehnt
+- TOP 34.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Auftaktveranstaltungen zur zukünftigen Entwicklung des Whitesell- und Acument-Geländes - zur Kenntnis genommen
+- TOP 36: Zusätzliche Aufwandsentschädigung für Aussschussvorsitzende - zur Kenntnis genommen
+- TOP 37: Einwohnerfragestunde - zur Kenntnis genommen
