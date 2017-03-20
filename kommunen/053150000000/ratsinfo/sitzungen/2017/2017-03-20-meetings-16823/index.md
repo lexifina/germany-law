@@ -1,0 +1,59 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-20T16:00:00+01:00
+- Ende: 2017-03-20T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16823
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16823
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00602302.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00602302.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00602302.pdf
+
+## Tagesordnung
+
+- TOP 1: Algemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP -: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau; TOP 1.3 - Kenntnis genommen
+- TOP 1.4: Präsentation zur Kampagne "Das habe ich beim Sport gelernt"
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Schutzdach bei Containeranlagen für Schulen - ohne Votum in nachfolgende Gremien
+- TOP 2.2: Schulprofil der Internationalen Friedensschule in Köln-Widdersdorf in eine neu zu gründende Schule am selben Standort mitnehmen - endgültig zurückgezogen
+- TOP 2.3: Friedensschule Widdersdorf - endgültig zurückgezogen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Handlungskonzept Behindertenpolitik - "Köln überwindet Barrieren - eine Stadt für alle" - (0990/2016) / Ergänzende Forderungen der stimmberechtigten Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.2: Stellenausschreibung Schulsozialarbeit TOP 4.2 vom 30.01.2017 - Kenntnis genommen
+- TOP 3.1.3: Sachstand zur Umsetzung des "Konzeptes zu einer ganzheitlichen technischen Schul IT" - zu AN/0388/2017 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.1.4: Beantwortung einer Anfrage zum Projekt Digital Schools Cologne - Kenntnis genommen
+- TOP 3.1.5: Arbeitszeitkonten von städtischen Hausmeistern und Sekretariatskräften in Schulen - Beantwortung der Anfrage AN/1966/2016 der CDU-Fraktion vom 23.11.2016 - Kenntnis genommen
+- TOP 3.1.6: Programm "Gute Schule 2020", WLAN an Schulen - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Schulabgänger in Köln 2016
+- TOP 3.2.2: Informationen über Schulentfall bald per App?
+- TOP 3.2.3: Zukunft der Elsa-Brandström-Realschule und der Theodor-Heuss-Realschule
+- TOP -: Zukunft der Elsa-Brandström-Realschule und der Theodor-Heuss-Realschule - zu AN/0434/2017 - Kenntnis genommen
+- TOP 3.2.4: Sachmittelzulage pro Schüler
+- TOP 3.2.5: Transparenz bei der Schulwahl
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP -: Änderungsantrag zur Vorlage „Gute Schule 2020“ - geändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Pilotversuch „Verfahren zur Übertragung der Entscheidungskompetenz über die Verwendung von Mitteln des Schulträgers auf die Schulleitungen der Modellschulen"; Beendigung des Pilotversuches zum 31.12.2016 - Kenntnis genommen
+- TOP 5.2: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 5.3: Zusammenfassung der Ergebnisse der Fachtagung „Geflüchtete mit besonderem Schutzbedarf“ am 16.09.2016 - Kenntnis genommen
+- TOP 5.4: Weitere Informationen über die Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 5.5: Bundesprogramm „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 5.6: Jahresbericht über die Beschlüsse des Ausschusses Schule und Weiterbildung im Jahr 2016 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.7: Partizipation - Darstellung aktueller Konzepte, Standards und Entwicklungen im Amt für Kinder, Jugend und Familie (Stand Februar 2017) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.8: VHS Köln: Speed-Dating zur NRW-Landtagswahl - Kenntnis genommen
+- TOP 5.9: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2016 und Kölner Sprachfest 2017 - Kenntnis genommen
+- TOP 5.10: Fensterreinigung an Schulen - Kenntnis genommen
+- TOP 5.11: Mensa Dellbrücker Mauspfad - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
