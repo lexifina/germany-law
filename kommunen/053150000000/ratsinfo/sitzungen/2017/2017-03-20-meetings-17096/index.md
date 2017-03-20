@@ -1,0 +1,91 @@
+# 22. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-20T17:00:00+01:00
+- Ende: 2017-03-20T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17096
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17096
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00605148.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00605148.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00605148.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Stadtdirektors
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Bauvorhaben auf dem Woolworth-Gelände in Köln-Ehrenfeld (Az.: 02-1600-193/16) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Entfernung von Fahrradstellplätzen und Wiederherstellung von Pkw-Parkplätzen - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme einer Spende - Schenkung für die Einrichtung und Ausstattung des Familienhauses „Familie im Zentrum – FIZ„ in Bocklemünd-Mengenich - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Bauvorhaben Venloer Str 310-316, Philippstr. 9, Hansemannstr. 4-12 - Kenntnis genommen
+- TOP 6.1.1: Bauvorhaben Venloer Str. 310-316, Philippstr. 9, Hansemannstr. 4 - 12 - Kenntnis genommen
+- TOP 6.2: Markierungsarbeiten Heliosstraße - Kenntnis genommen
+- TOP 6.2.1: Markierungsarbeiten Heliosstraße - Kenntnis genommen
+- TOP 6.3: Bauvorhaben Weinsbergstr./Eisen- bzw. Ölstr. - Kenntnis genommen
+- TOP 6.3.1: Bauvorhaben Weinsbergstr./Eisen- bzw. Ölstr. - Kenntnis genommen
+- TOP 6.4: Bauvorhaben Venloer Straße 525, 525a - Kenntnis genommen
+- TOP 6.4.1: Bauvorhaben Venloer Str. 525, 525a - Kenntnis genommen
+- TOP 6.5: Bauarbeiten auf dem Maarweg - Kenntnis genommen
+- TOP 6.5.1: Beantwortung der Anfrage der CDU-Fraktion vom 23.01.2017 zu Bauarbeiten auf dem Maarweg - Kenntnis genommen
+- TOP 6.6: Still und starr ruht der Bau? - Kenntnis genommen
+- TOP 6.6.1: Still und starr ruht der Bau? - Kenntnis genommen
+- TOP 6.7: Recht auf Bildung ermöglicht? - Kenntnis genommen
+- TOP 6.7.1: Recht auf Bildung ermöglicht? - zu AN/0113/2017 - Kenntnis genommen
+- TOP 6.8: Bezirkssportanlage Ehrenfeld - Kenntnis genommen
+- TOP 6.8.1: Bezirkssportanlage Ehrenfeld - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Weitere Fragen zur REWE-Supermarkt-Anlieferung - Kenntnis genommen
+- TOP 7.1.1: REWE - Markt Venloer Str. 310 - Kenntnis genommen
+- TOP 7.2: Fahrbahnsanierung Wilhelm-Mauser-Straße und Fahrbahnmarkierung Vitalisstraße - Kenntnis genommen
+- TOP 7.2.1: Fahrbahnsanierung Wilhelm-Mauser-Straße und Fahrbahnmarkierung Vitalisstraße - Kenntnis genommen
+- TOP 7.3: Nutzung der Ladezone Landmannstraße 21 - 25 - Kenntnis genommen
+- TOP 7.3.1: Nutzung der Ladezone Landmannstraße 21.-25 - Kenntnis genommen
+- TOP 7.4: Bindungsenden im öffentlich geförderten Wohnungsbau – das dicke Ende kommt noch? - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Poller an Kita Pirolweg - ungeändert beschlossen
+- TOP 8.2: Antrag der Stadt Köln an die Bezirksregierung Köln nach §45 Absatz 1b Nr. 5 der StVO: Temporeduzierung auf der A57 in Höhe Blücherpark/Kleingärten - zurückgestellt
+- TOP 8.3: Transparenz und Beteiligung stärken! – Information über Baumaßnahmen verbessern! - zurückgestellt
+- TOP 8.4: Fußgängerüberweg auf der Subbelrather Straße in Höhe des neuen Durchgangs zum Krankenhaus - zurückgestellt
+- TOP 8.5: Backsteinhalle Alpenerstraße 4 -6 erhalten: Umweltgerechtes und preiswertes Wohnen ermöglichen - Integration fördern - Identität des Viertels erhalten - geändert beschlossen
+- TOP 8.6: Verbesserung der Situation in der Hüttenstraße - ungeändert beschlossen
+- TOP 8.7: Mehr Bäume für Ehrenfeld – Straßenbäume nachpflanzen! - endgültig zurückgezogen
+- TOP 8.7.1: Antrag der Fraktion Die LINKE in der Bezirksvertretung Ehrenfeld am 20.03.2017 - Kenntnis genommen
+- TOP 8.8: Mit dem Elektrobus durch Ehrenfeld. Ein Beitrag zur Umsetzung der Lärmaktionsplanung sowie zur Erreichung der Klimaschutzziele - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag Butzweilerhof - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" (Antrag Nr. 13 Verfügungsfonds) - ungeändert beschlossen
+- TOP 9.2: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - ungeändert beschlossen
+- TOP 9.3: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 9.4: Erste Vergabe der bezirklichen Finanzmittel 2017 - ungeändert beschlossen
+- TOP 9.5: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" Dokumentarfilmprojekt "BorderlessTV" und Orientierungshilfe "Wegweiser" (Antrag Nr. 14 und 15 auf Gewährung von Zuwendungen aus dem Verfügungsfonds) - ungeändert beschlossen
+- TOP 9.6: Abriss und Entsorgung des ehemaligen Umkleidehauses auf der Sportanlage Biesterfeldstraße in 50829 Köln - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: DE BV 4 Kostenerhöhung Bestandshalle Bocklemünd - ungeändert beschlossen
+- TOP 10.2: Förderung der ökumenischen Begegnungsstätte Café Bickolo e.V. im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10.3: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag zu 10.3 - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 12.2: Geltungszeit Ladezone Landmannstraße 21 - 25 - Kenntnis genommen
+- TOP 12.3: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 12.4: Bauvorhaben auf dem Woolworth-Gelände in Köln-Ehrenfeld, Venloerstraße 310 – 316 (63/B14/5203/2015) - Kenntnis genommen
+- TOP 12.5: Stadtverschönerungsprogramm 2015 für den Bezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.6: Niederschrift der 10. Sitzung des Rahmenplanungsbeirates Braunsfeld/Müngersdorf/Ehrenfeld - Kenntnis genommen
+- TOP 12.7: 63475/01 VEP; Häuschensweg in Köln-Bickendorf; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 12.8: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 12.9: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 12.10: 8.8 Einhaltung von Tempo 30 auf dem Goldfasanenweg in Vogelsang Antrag der Fraktion Bündnis 90/Die Grünen vom 02.06.2015 - zurückgestellt
+- TOP 12.11: REWE - Markt Venloer Str. 310 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
+- TOP 13.1: Koordination von Baumaßnahmen - Kenntnis genommen
+- TOP 13.2: Straßenbaulast für öffentliche Straßen und Wege - Kenntnis genommen
+- TOP 13.3: Weitere Fragen zur REWE-Supermarkt-Anlieferung - Kenntnis genommen
