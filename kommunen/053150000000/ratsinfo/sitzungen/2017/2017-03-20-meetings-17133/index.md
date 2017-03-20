@@ -1,0 +1,82 @@
+# 22. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-20T16:00:00+01:00
+- Ende: 2017-03-20T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17133
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17133
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00604657.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00604657.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00604657.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen - Kenntnis genommen
+- TOP 7.1.1: Beseitigung des Schadstoffaufkommens in den Klassenräumen der Olympia-Schule in Köln-Widdersorf - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der Anfrage "Freie Wähler Köln" in der Bezirksvertretung Köln-Lindenthal, AN/0105/2017 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Absperrungen gegen wildparkende Fahrzeuge im Grüngürtelgelände - Kenntnis genommen
+- TOP 7.2.2: Anfrage Friedensschule - Kenntnis genommen
+- TOP 7.2.3: Baumfällungen 2016 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.2.4: Umleitung Widdersdorfer Straße - Kenntnis genommen
+- TOP 7.2.5: Demontage der Lichtsignalanlage Hauptstraße/Leonardsgasse und Ersatz durch eine alternative Betriebsform - Kenntnis genommen
+- TOP 7.2.6: Art und Umfang von Hubschraubereinsätzen über Lindenthal und damit verbundene Lärmbeeinträchtigungen - Kenntnis genommen
+- TOP 7.2.7: Mehrzweckhalle in Köln-Weiden - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Platzgestaltung Universitätsstraße / Dürener Straße - geändert beschlossen
+- TOP 8.1.2: Hinweisschild Kita "Tree House Swans" - ungeändert beschlossen
+- TOP 8.1.3: Hundeanlein-Gebotsschilder an Gewässern - ungeändert beschlossen
+- TOP 8.1.4: Beseitigung erhöhte Unfallgefahr Einmündung " Zum Dammfelde" in die "Haupstraße" in Köln-Widdersdorf - geändert beschlossen
+- TOP 8.1.5: Beleuchtung Kreisverkehr Lise-Meitner-Ring / Adrian-Meller-Straße - ungeändert beschlossen
+- TOP 8.1.6: Fußgängerschutz auf Bürgersteigen - geändert beschlossen
+- TOP 8.1.7: Schaltung der Fußgängerbedarfsampel Klettenberggürtel/ Höhe Kirche St. Bruno - ungeändert beschlossen
+- TOP 8.1.8: Antrag bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 8.2.1: Förderung der E-Mobilität - ungeändert beschlossen
+- TOP 8.2.2: Erlaubnis an die Telekom einen Sendemast in Höhe der Kronstädter Straße aufzustellen - ungeändert beschlossen
+- TOP 8.2.3: Vermeidung der Schließung der Postfiliale Aachener Straße in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 8.2.4: Fortführung Programm "Attraktivierung von Plätzen" in 2018 - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP Vorschläge in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 9.1.2: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - ungeändert beschlossen
+- TOP 9.1.3: Parksituation Olympiaweg, ASV Köln e.V. - ungeändert beschlossen
+- TOP 9.1.4: Nachbesetzung Rahmenplanungsbeirat Braunsfeld/Müngersdorf/Ehrenfeld - ungeändert beschlossen
+- TOP 9.1.5: Zum Dammfelde in Köln-Widdersdorf; VEP; Einleitungsbeschluss (im beschleunigten Verfahren) - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung - zurückgestellt
+- TOP 9.2.2: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - ungeändert beschlossen
+- TOP 9.2.3: 62459/03; Vitalisstraße in Köln-Müngersdorf, 2. Änderung; Beschluss über Stellungnahmen sowie Satzungsbeschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Niederschrift der 10. Sitzung des Rahmenplanungsbeirates Braunsfeld/Müngersdorf/Ehrenfeld - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Stadtverschönerungsprogramm 2015 für den Bezirk Lindenthal - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 11.3.2: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 11.3.3: Bahnhof Belvedere in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3.4: Zeitlicher Ablauf des Freiraumplanerischen Wettbewerbs Parkstadt Süd-Teilbereich Eifelwall - Kenntnis genommen
+- TOP 11.3.5: Parksituation im Bewohnerparkgebiet Hohenlind - Kenntnis genommen
+- TOP 11.3.6: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 11.3.7: Geschwindigkeitsüberwachung Ludwig-Jahn-Straße in Köln Weiden - Kenntnis genommen
+- TOP 11.3.8: Verkehrsversuch Sperrung Zülpicher Straße - Kenntnis genommen
+- TOP 11.3.9: Bahnhof Belvedere in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3.10: Wochenmarkt Braunsfeld -Clarenbachplatz- - Kenntnis genommen
+- TOP 11.3.11: Zukunft der Elsa-Brändström-Realschule und der Theodor-Heuss-Realschule - zu AN/0434/2017 - Kenntnis genommen
+- TOP 12.3: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 12.3.1: Fragen zur Vorlage 3982/2016, Errichtung einer temporären Flüchtlingsunterkunft in Höhe Dürener Str. 283, TOP xxx aus der Sitzung vom 06.02.2017
+- TOP 12.4: Nachfragen zu früheren Anfragen
