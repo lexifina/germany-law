@@ -1,0 +1,6 @@
+# TOP 3: Mitteilungen und Anregungen
+
+- Sitzung: Sitzung des Bau-, Planungs- und Umweltausschusses der Stadt Emmelshausen (2017-03-20)
+- Körperschaft: Stadt Emmelshausen
+- Öffentlich: ja
+- OParl: https://emmelshausen.gremien.info/oparl/agendaItem/2017-Emm_BPUA-3%7CMAoe%7C1
