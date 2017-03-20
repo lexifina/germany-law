@@ -1,0 +1,72 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-20T17:00:00+01:00
+- Ende: 2017-03-20T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17125
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17125
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Öffnung der Querung an der Haltestelle Marktstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: F E H L E R H A F T E ZUORDNUNG JETZT 8.1.8
+- TOP 7.2.2: Entfernung oder Versetzung der City Light Säule am Rad-Fußweg des Heinrich-Lübke-Ufer, Rodenkirchen, Anfrage der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.4: Sachstand zum Städtebauliches Planungskonzept "Raderthalgürtel (neu)"und ein SB-Markt dort; Anfrage der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.6: Versorgungsquoten für Neuanmeldungen in Grundschulen für das Schuljahr 2017/18 im OGTS-Bereich; Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6.1: BEANTWORTUNG: Versorgungsquoten für Neuanmeldungen in Grundschulen für das Schuljahr 2017/18 im OGTS-Bereich - zu AN/0336/2017 - Kenntnis genommen
+- TOP 7.2.7: Antrag BV Rodenkirchen vom 18.05.2015 zum Ausbau der Verkehrsverbindung L/ K92 (neu) zwischen der Straße vor dem Dorf und der Bödingerstraße in Rondorf; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Verkehrskonzept für den Kölner Süden; Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.9: Anmeldungen für Schulen im Stadtbezirk Rodenkirchen 2017/2018, Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.9.1: Beantwortung: Anmeldungen für Schulen im Stadtbezirk Rodenkirchen für das Schuljahr 2017/2018 - zu AN/0335/2017 - Kenntnis genommen
+- TOP 7.2.10: Zusätzliche Fahrspur auf dem Militärring zwischen der Straße im Wasserwerkwäldchen und dem Verteilerkreis in Köln-Raderthal - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.11: Wirtschaftsförderung im Stadtbezirk II; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gestaltung der Öffentlichen Grünflächen im B-Plan Nr. 71380/03 und § 2, Abs.6.6 der Zuständigkeitsordnung; Gemeinsamer Antrag der Fraktion Die Grünen und der FDP Fraktion - endgültig zurückgezogen
+- TOP 8.1.1.1: Gestaltung der öffentlichen Grünflächen im B-Plan Nr. 71380/03 (Sürther Feld) - Änderungsantrag- Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.2: Parkstadt-Süd / Bezirkssportanlage; Antrag der CDU Fraktion - geändert beschlossen
+- TOP 8.1.3: Südfriedhof: Ersatz für entfernte Sitzbänke, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.4: Schutz des Wiesengrundstücks am Rodderweg in K-Sürth vor weiterer Verschmutzung durch Hundekot; Antrag der FDP Fraktion - geändert beschlossen
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.7: Parken Sürth, Antrag der CDU Fraktion, Antrag der CDU Fraktion - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 8.1.8: Gottesweg: Neugestaltung des Bereiches zwischen Höninger und Weyerstraßerweg; Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.9: Kreuzung Friedrich-Ebert-Straße / Am Forstbotanischen Garten (L300): Optimierung; Antrag der CDU Fraktion - geändert beschlossen
+- TOP 8.1.10: Flüchtlingsunterbringung Mainstraße / Alteburger Straße; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 8.1.11: Verschiebung der Fahrbahnsanierung in der Leyboldstraße - V E R F R I S T E T - - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Großmarktgelände - Planungen für die Parkstadt Süd; Antrag der CDU Fraktion - endgültig abgelehnt
+- TOP 8.2.2: Übertragung von Flächen für den Wohnungsbau; Antrag der SPD-Fraktion - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 8.2.3: Nord-Süd-Stadtbahn – 3. Baustufe und 4. Baustufe, Antrag der SPD Fraktion - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - ungeändert beschlossen
+- TOP 9.1.2: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 9.1.3: Errichtung von zwei Premium-Großflächen-Werbeanlagen vor dem Grundstück Raderthalgürtel, Nähe Raderthaler Straße 43 - geändert beschlossen
+- TOP 9.1.4: Errichtung eines Wohnhauses auf dem städtischen Grundstück Josef-Kallscheuer-Straße, 50999 Köln - Sürth, zur Unterbringung von Flüchtlingsfamilien - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Mertener Straße in Köln-Marienburg; städteb.Planungskonzept; Anhörung der Bezirksvertretung Rodenkirchen zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - geändert beschlossen
+- TOP 9.2.2: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW -V E R F R I S T E T- - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Rodenkirchen aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.12.2016 - Kenntnis genommen
+- TOP 10.2.2: Zeitlicher Ablauf des Freiraumplanerischen Wettbewerbs Parkstadt Süd-Teilbereich Eifelwall - Kenntnis genommen
+- TOP 10.2.3: Stadtverschönerungsprogramm 2015 für den Bezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.4: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Baumaßnahme „Leyboldstraße“ - Kenntnis genommen
