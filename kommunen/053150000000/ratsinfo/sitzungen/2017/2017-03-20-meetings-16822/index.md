@@ -1,0 +1,75 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-20T15:00:00+01:00
+- Ende: 2017-03-20T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16822
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16822
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00605411.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00605411.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00605411.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 1.1: Beantwortung der Anfrage des AK 5 an den Integrationsrat zum Sachstand der Umsetzung des Interkulturellen Maßnahmeprogramms - Maßnahmeempfehlungen - Standards für diskriminierungsfreie Sprache - Kenntnis genommen
+- TOP 1.2: Beantwortung der Anfrage des AK 5 an den Integrationsrat zum Sachstand der Umsetzung des Interkulturellen Maßnahmenprogramms - Maßnahmeempfehlungen - Einsatz von Sprachkompetenzen - Kenntnis genommen
+- TOP 1.3: Beantwortung der mdl. Nachfrage zur Qualifizierung von herkunftssprachlichen Zuwanderern als "Integrationslotsen im Gesundheitswesen" aus der Sitzung des Integrationsrates am 28.11.2016 (TOP 1.1 ) - zurückgestellt
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der Anfrage AN (2012/2016) zu Ressourcen für KiTas im Bereich mehrsprachige Förderung - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage: Gewaltbereiter Salafismus - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage: Sachstand Unterbringung unbegleiteter minderjährige Ausländer (UMA) zur Jahresmitte 2016 - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Nachfrage zur Beantwortung der Anfrage AN/1296/2016 zur Interkulturellen Öffnung der Suchtberatungsstellen 3155/2016 - zurückgestellt
+- TOP 3.5: Beantwortung einer mündlichen Nachfrage aus der Sitzung des Integrationsrates am 23.01.2017 zu TOP 1.1 „Beantwortung von mündlichen Nachfragen aus der Sitzung des Integrationsrates am 31.10.2016 zum TOP 1.2 zum Thema Gesundheitswegweiser“ Vorlagen – - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Sachstand des Stützpunktes für Senioren mit Migrationshintergrund - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage zum Sachstand des Stützpunktes für Seniorinnen und Senioren mit Migrationshintergrund - Kenntnis genommen
+- TOP 4.2: Anfrage zur Krankenversorgung von anerkannten Asylbewerbern während der Übergangszeit vom AsylBLG zu SGB II - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Anfrage zur Beschlussvorlage „Fördermittel 2016 „SeniorenNetzwerke/Offene Altenarbeit“ 3357/2016 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage zur Beschlussvorlage "Fördermittel 2016 SeniorenNetzwerke/Offene Altenarbeit" 3357/2016 - Kenntnis genommen
+- TOP 4.4: Anfrage zur Mitteilung „Wegweiser für die Palliativ- und Hospizversorgung in Köln“ 2382/2016 - Kenntnis genommen
+- TOP 4.5: Anfrage bzgl. Mahnmale bzw. Grabstätten der gefallenen sowjetischen Soldaten und Kriegsgefangenen auf den Kölner Friedhöfen - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Ehrenamtspreis "KölnEngagiert 2017" - Kenntnis genommen
+- TOP 5.2: Aktueller Stand im MOQI-Projekt zur Motivation, Qualifikation und Integration für Jugendliche und junge Erwachsene - Kenntnis genommen
+- TOP 5.3: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 5.4: Landesprogramm "Kinderbetreuung in besonderen Fällen für Kinder aus Flüchtlingsfamilien und vergleichbaren Lebenslagen"- Brückenprojekte - Kenntnis genommen
+- TOP 5.5: Dringlichkeitsantrag in der Sitzung des Hauptausschusses am 09.01.2017 betreffend: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - Kenntnis genommen
+- TOP 5.6: Zusammenfassung der Ergebnisse der Fachtagung „Geflüchtete mit besonderem Schutzbedarf“ am 16.09.2016 - Kenntnis genommen
+- TOP 5.7: Standorte zur Errichtung von temporären Flüchtlingsunterkünften Zeit-/Maßnahmenplan - aktueller Sachstand - Kenntnis genommen
+- TOP 5.8: Umsetzung "Arbeitsmarktprogramm Flüchtlingsintegrationsmaßnahmen (FIM)" des Bundes in Köln - Kenntnis genommen
+- TOP 5.9: Broschüre zum Diversity Netzwerk der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 5.10: Beantwortung der Anfrage der SPD-, CDU-, FDP-Fraktionen sowie der Fraktionen Bündnis 90/Die Grünen und Die Linke zum Thema "Stadtteileltern und Stadtteilmütterprojekte in Vingst/Höhenberg und Rondorf/Meschenich" (AN/2011/2016) - Kenntnis genommen
+- TOP 5.11: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? (AN/0027/2017) - Kenntnis genommen
+- TOP 5.12: 13. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 5.13: Versorgung traumatisierter unbegleiteter minderjähriger Ausländer (UMA) - Kenntnis genommen
+- TOP 5.14: Bundesprogramm „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 5.15: Berichtswesen Integrationsrat für 2016 - zurückgestellt
+- TOP 5.16: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2016 in der Stadt Köln - zurückgestellt
+- TOP 5.17: Open-Space-Konferenz - Wir alle sind Stadtgesellschaft – Zusammenkommen, Verstehen, Gestalten - zurückgestellt
+- TOP 5.18: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2016 und Kölner Sprachfest 2017 - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Verabschiedung des Positionspapieres ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - Kenntnis genommen
+- TOP -: Änderungsantrag zum Positionspapier ‚Identität stärken - natürliche Mehrsprachigkeit fördern!‘ - ungeändert beschlossen
+- TOP 6.2: Antrag auf Verabschiedung einer Resolution bezüglich des Parteitages der AfD in Köln - Kenntnis genommen
+- TOP -: Änderungsantrag - Antrag auf Verabschiedung einer Resolution bezüglich des Parteitages der AfD in Köln - ungeändert beschlossen
+- TOP 6.3: Dringlichkeitsantrag zur Verabschiedung einer Resolution - Aufruf zur Ruhe und Besonnenheit - endgültig zurückgezogen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Einführung der Ehrenamtskarte NRW in Köln - ungeändert beschlossen
+- TOP 8.2: Errichtung eines Wohnhauses auf dem städtischen Grundstück Josef-Kallscheuer-Straße, 50999 Köln - Sürth, zur Unterbringung von Flüchtlingsfamilien - ungeändert beschlossen
+- TOP 8.3: Teilnahme der Stadt Köln am kommunalen Förderprogramm "NRWeltoffen" - ungeändert beschlossen
+- TOP 8.4: Feinkonzept zur Umsetzung von Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - ohne Votum in nachfolgende Gremien
+- TOP 8.5: Förderprojekt "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 8.6: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
