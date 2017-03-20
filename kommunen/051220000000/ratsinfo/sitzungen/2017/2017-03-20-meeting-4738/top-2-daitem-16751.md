@@ -1,0 +1,7 @@
+# TOP 2: Protokoll über die 09. Sitzung des Rechnungsprüfungsausschusses am 14.11.2016 - öffentlicher Teil
+
+- Sitzung: Rechnungsprüfungsausschuss (10. Sitzung) (2017-03-20)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/16751
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/3663
