@@ -1,0 +1,65 @@
+# 25. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-21T16:07:00+01:00
+- Ende: 2017-03-21T18:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16932
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16932
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603674.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603674.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00603674.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Radverkehrskonzepte für die Kölner Stadtbezirke - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Solarradwege in Köln - Neue Erkenntnisse aus den Niederlanden? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.3: Stadtbahnanbindung Köln-Widdersdorf - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.4: Fahrradmitnahme bei den KVB vereinfachen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Gutachten über eine City-Maut - endgültig abgelehnt
+- TOP 2.2: Wasserbusliniensystem für Köln - HGK mit Machbarkeitsstudie beauftragen - endgültig abgelehnt
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: Fahrtreppen Stadtbahnhaltestelle Heumarkt - im ersten Durchgang verwiesen
+- TOP 4.2: 63. Anordnung der Kostenspaltung gemäß § 8 der Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages vom 29.06.2001 - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Satzung über die abweichende Herstellung der Erschließungsanlage Niehler Damm von Sebastianstraße bis Merkenicher Straße in Köln-Niehl - ungeändert empfohlen
+- TOP 5.2: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 5.2.1: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 5.3: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - mit Änderungen empfohlen
+- TOP 5.3.1: Ergänzungsantrag zu Top 5.3: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Frankfurter Str. (B8) / Stadtautobahn (B55a) - ungeändert beschlossen
+- TOP 5.4: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert empfohlen
+- TOP 5.5: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung - ohne Votum in nachfolgende Gremien
+- TOP 5.6: Teilplan 1302 - Wasser und Wasserbau; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - im ersten Durchgang verwiesen
+- TOP 5.7: Teilplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2017 - ohne Votum in nachfolgende Gremien
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Beantwortung einer Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Verkehrsausschusses vom 08.11.2016 (AN/1801/2016) - Sache ist erledigt
+- TOP 6.2: Offenlage der Planungsunterlagen zum Niehler Gürtel - Sache ist erledigt
+- TOP 6.3: Prüfbericht LSA Erneuerungsprogramm beim Amt für Straßen und Verkehrstechnik - Sache ist erledigt
+- TOP 6.4: Radschnellweg Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.5: "Ring frei" - Sache ist erledigt
+- TOP 6.6: Grüne Welle/Raddetekt für Radfahrer - Sache ist erledigt
+- TOP 6.7: Beantwortung einer Anfrage - Umgestaltung des Ebertplatzes - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Förderung der Elektromobilität - Kenntnis genommen
+- TOP 7.2: Ummarkierung von Stellplätzen in der Tiefgarage Dom - Kenntnis genommen
+- TOP 7.3: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 7.4: Einrichtung eines Wasserbusliniensystems - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.5: Sachstand Sanierung Tunnel Kalk - Kenntnis genommen
+- TOP 7.6: Anfrage gem. § 4 der Geschäftsordnung des Rates der SPD-Fraktion im Kölner Rat AN/0381/2017 - Kenntnis genommen
+- TOP 7.7: Verkehrsversuch Sperrung Zülpicher Straße - Kenntnis genommen
+- TOP 7.8: Förderung der Elektromobilität in Köln - Kenntnis genommen
+- TOP 7.9: Öffnung der Fußgängerzonen in der Kölner Innenstadt für den Radverkehr - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Aufhebung der Radwegebenutzungspflicht - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Stadtentwicklung Chorweiler - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Kunstfelder Straße in Dünnwald - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Konflikt Fahrradstraße - Neubau LVR-Gebäude - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.5: Niehler Gürtel - zur weiteren Bearbeitung in die Verwaltung überwiesen
