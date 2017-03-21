@@ -1,0 +1,174 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4184700
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4184700
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Schulsituation im 18. Stadtbezirk - Bedarfsplanung und -entwicklung für öffentliche Grund- und Realschulen; Information durch das RBS (vertagt aus der Februar-Sitzung)
+- TOP 2.2.1.2.: Informationen der Regierung von Oberbayern - staatliches Bauamt zum Vorhaben Schilcherweg 8
+- TOP 2.2.1.3.: Informationen des Referates für Stadtpl. u. Bauordnung zum Vorhaben Wilhelm-Kuhnert-Straße 14
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.2.6.4.: Umsetzungsbeschluss zum weiteren Ausbau des Fahrradvermietsystems MVG Rad; Finanzierung durch Umschichtung aus der städtischen Nahmobilitätspauschale; Sitzungsvorlage Nr. 14-20 / V 07341; Beschluss des Ausschusses für Arbeit u. Wirtschaft am 07.02.17 (VB); Ergänzung vom 02.02.17
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Karneidstraße 21, Neubau einer Doppelhaushälfte mit Garage (Haus 1); Anhörung vom 22.02.17
+- TOP 3.5.4.1.2.: Sachsenstraße 6, Instandsetzung eines denkmalgeschützten Wohnhauses und Nutzungsänderung des angebauten Schuppens zu Wohnzwecken; Anhörung vom 09.02.2017 (vertagt aus der Februar-Sitzung)
+- TOP 3.5.4.1.3.: Tauernstraße 11, Neubau eines Seniorenwohn- und Pflegeheims - VORBESCHEID; Anhörung vom 23.02.2017
+- TOP 3.5.4.1.4.: Karneidstraße 21, Neubau einer Doppelhaushälfte mit Garage (Haus 2); Anhörung vom 22.02.2017
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.6.4.: Baufälle im 18. Stadtbezirk
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: 1.3.1 Protokoll der Dezember-Sitzung 1.3.2 Protokoll der Februar-Sitzung
+- TOP 2.1.2.1.: Parksituation Säbener Straße Höhe Turnerbund / FC Bayern; Bürgerschreiben vom 21.02.2017
+- TOP 2.1.2.2.: Grünwalder Straße - Ausschilderung; Bürgerschreiben vom 20.02.2017
+- TOP 2.1.2.3.: Geschwindigkeit Harthauser Straße; Bürgerschreiben vom 19.02.2017
+- TOP 2.1.2.4.: Missstand bei der Ausgestaltung der Tram-Station Menterschwaige; Bürgerschreiben
+- TOP 2.1.2.5.: Errichtung einer absoluten Parkverbotszone im Bereich nördliche Isenschmidstraße (Bereich zwischen Ulmen- / u. Lindenstraße); Bürgerschreiben vom 18.02.2017
+- TOP 2.1.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Bürgerinitiative "Mehr Platz zum Leben" Erstellung einer Jubiläums-Broschüre Az. 0262.0-18-0118
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: (E) Öffnung der Peißenbergstraße für den Radverkehr in der Einbahnstraßen-Gegenrichtung
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Erinnerungsverfahren; Meichelbeckstraße 3-5 / Harthauser Str. 82, Bauschadenbehebung; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.2.4.2.: Erinnerungsverfahren; Steingadener Str. 28, Wiederherstellung nach Bauschaden; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: U-Bahnstation Candidplatz: Erneuerung des Farbanstrichs; BA-Antrag Nr. 14-20 / B 02998 vom 15.11.2016; Antwortschreiben des RAW vom 07.02.17 (neutrale Erledigung)
+- TOP 3.2.5.2.: Stadion an der Grünwalder Straße - Parksituation allgemein - Temporäre Parkverbote Bürgeranliegen; Antwortschreiben des KVR vom 27.02.17 (neutrale Erledigung)
+- TOP 3.2.5.3.: Verbesserung der Verkehrssituation am Harlachinger Berg; Aufforderung zur Unterbreitung eines Lösungsvorschlags seitens des KVR; BA-Antrag Nr. 14-20 / B 03005 vom 15.11.16; Zwischennachricht des KVR vom 14.02.17 mit der Bitte um Terminvorschläge für einen Ortstermin
+- TOP 3.2.5.4.: Linie 15 - Einsatz der neuen aktuellen Fahrzeuge; BA-Antrag Nr. 14-20 / B 03195 vom 17.01.17; Antwortschreiben des RAW vom 23.02.17 (positive Erledigung)
+- TOP 3.2.5.5.: Begrünung der Kreuzungsinseln am Agilolfingerplatz Untergiesing; BA-Antrag Nr. 14-20 / B 03214 vom 17.01.17; Antwortschreiben Baureferat-Tiefbau vom 10.02.17 (positive Erledigung)
+- TOP 3.2.5.6.: Radwegführung in die Kreuzung Peter-Auzinger-Straße / Tegernseer Landstraße neu zu überplanen; BA-Antrag Nr. 14-20 / B 03152; Antwortschreiben des KVR mit der Bitte um Stellungnahme zur geplanten Maßnahme
+- TOP 3.2.5.7.: MVG-Anschluss-Optimierung Mangfallplatz (Süd) - Haltestelle Bus 139 Richtung Klinikum Harlaching; Verlegung der Echtzeit-Anzeiger nach unten in den Gang im Sperrengeschoss; Bürgerantrag vom 23.12.16; BA-Antrag Nr. 14-20 / B 03212; Antwortschreiben des RAW vom 24.02.17 (negative Erledigung)
+- TOP 3.2.5.8.: Tiefgarage Albert-Einstein-Gymnasium; Antwortschreiben von Frau Bürgermeisterin Strobl auf ein Bürgeranliegen (neutrale Erledigung)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 3.2.6.2.: (U) Durchführung von Verkehrsversuchen durch das KVR
+- TOP 3.2.6.3.: Naupliastraße / St.-Magnus-Straße Austausch der Lichtsignalanlage, Kreuzungsumbau zur Verbesserung der Nahmobilität und barrierefreier Ausbau der Bushaltestelle im 18. Stadtbezirk Untergiesing - Harlaching Projektkosten (Kostenobergrenze): 1.000.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Verkehrsführung Kreuzung St.-Magnus-Straße / Ecke Naupliastraße Antrag Nr. 14-20 / B 02840 des Bezirksausschusses des Stadtbezirkes 18 Untergiesing - Harlaching vom 20.09.2016 3. Verbesserung der Verkehrssicherheit in der Naupliastraße Antrag Nr. 14-20 / B 02852 des Bezirksausschusses des Stadtbezirkes 18 Untergiesing - Harlaching vom 20.09.2016
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Aufstellung von Hundekottütenspendern und Abfalleimern im Bereich des Agilolfingerplatzes; Antrag der SPD-Fraktion
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Reinigung des Spiel- und Parkplatzes am Candidplatz; Bürgerschreiben vom 12.11.16; Antwortschreiben des Baureferats-Gartenbau (positive Erledigung)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Grödner Straße 10; Bescheid vom 24.02.2017 3.3.6.1.2 Weyarner Straße 10; Bescheid vom 15.02.2017 3.3.6.1.3 Autharistraße 52; Bescheid vom 16.02.2017 3.3.6.1.4 Waldeckstraße 50; Bescheid vom 02.03.2017
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018; Schreiben des Sozialreferates vom 24.02.2017 (Bewerbungsschluss: 31. Mai 2017)
+- TOP 3.4.4.2.: REGSAM - Schwerpunktsgebietsauswahl 2017-2019; Schreiben des Sozialreferats vom 07.03.17 mit der Bitte um Rückmeldung bis 31.05.2017
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Planung der Einsätze der MünchnerSommerSpielAktion 2017; Antwortschreiben des Vereins Spielen in der Stadt e.V. zu den Platzvorschlägen des BA 18
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 3.4.6.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 3.4.6.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 3.4.6.4.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: (E) Die GEWOFAG wird aufgefordert, den Calcon-Bericht zur Instandhaltung der Harlachinger Heimag-Siedlung in die Tat umzusetzen Empfehlung Nr. 14-20 / E 01304 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 3.5.2.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Zeitungsentnahmegerät St.-Magnus-Str. 34, Seite Naupliastraße (Bushalt Griechenstraße); Beschluss des BA 18 am 21.03.2017
+- TOP 3.5.2.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Zeitungsentnahmegerät Agilolfingerstraße 28; Beschluss des BA 18 am 21.03.2017
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Bebauung McGraw-Gelände; Antrag der SPD-Fraktion
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Evaluierung der Sondernutzungsrichtlinien; Zuleitung des KVR mit der Bitte um Stellungnahme10.03.17 (vertagt aus der Februar-Sitzung)
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Freifläche Oberbiberger Straße / Friedrich-Ebert-Straße; Anfrage an die LHM bzgl. der Planungen; BA-Antrag Nr. 14-20 / B 02817; Antwortschreiben Baureferat-Gartenbau vom 20.02.17 (neutrale Erledigung)
+- TOP 3.5.5.2.: "Keine Kooperation mit Luxussanierern!" Die LHM soll die Kooperation und Unterstützung von SOS-Kinderdorf (e.V. & Stiftung) bis auf weiteres einstellen; BA-Antrag Nr. 14-20 / B 02955 vom 18.10.16: Antwortschreiben des Sozialreferats vom 20.02.17 (negative Erledigung)
+- TOP 3.5.5.3.: Anwesen Sachsenstraße 6 - Nachfrage beim Kommunalreferat bzgl. der Auflagen; Antwortschreiben des Kommunalreferats vom 25.01.17 (neutrale Erledigung)
+- TOP 3.5.5.4.: Bauvorhaben Geiselgasteigstraße 147 im 18. Stadtbezirk; Bürgeranliegen aus der BA-Sitzung vom 17.01.17; Antwortschreiben der Lbk zur nochmaligen Prüfung der Zuwegungssituation vom 06.02.2017 (neutrale Erledigung)
+- TOP 3.5.5.5.: Hans-Mielich-Str. 1a, Fl.Nr. 12641/12, Gemarkung Sektion VII; Umbau u. Sanierung des Gesamtanwesens mit Anbau dreier Balkonanlagen und eines Außenaufzugs, Änderung einer Gaststätte im EG zu Büro, Grundrissänderungen der Einheiten EG - 3. OG, Neuerrichtung des Dachgeschosses und Ausbau zu 3 Wohnungen; Antwortschreiben der Lbk vom 16.02.2017 zur Stellungnahme des BA 18 (neutrale Erledigung)
+- TOP 3.5.5.6.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing" durch das Sozialreferat betreffend der Hans-Mielich-Straße 1a; Schreiben des BA 18 vom 25.01.2017; Antwortschreiben des Sozialreferats vom 10.02.17 (neutrale Erledigung)
+- TOP 3.5.5.7.: Die LHM wird aufgefordert, einen Nutzungsplan für den Candidplatz zu erstellen; BA-Antrag Nr. 14-20 / B 0480 vom 21.10.14; Antwortschreiben des Referates für Stadtpl. u. Bauordnung ovm 01.03.17
+- TOP 3.5.5.8.: Candidplatz - Bau eines Bürger- und Kulturzentrums, Schaffung von Wohnraum und Nahversorgungseinrichtungen
+- TOP 3.5.5.9.: Candidplatz1. Information über den aktuellen Flächennutzungsplan bzw. Bebauungsplan2. Untersuchung des aktuellen Raumbedarfs der Grund- und Mittelschulen durch das RBS
+- TOP 3.5.5.10.: Anwesen Wilhelm-Kuhnert-Straße 14 im 18. Stadtbezirk; Zunächst Vorstellung der Planungen im Gremium, bis dahin Ablehnung der Planungen zur Nutzung für das Programm "Wohnen für Alle"
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 Kleingaststätte "GUV", Ludmillastraße 20a; Mitteilung vom 27.02.2017
+- TOP 3.5.6.2.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 3.5.6.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse Anwesen Athener Straße; Mitteilung vom 24.02.17 Anwesen Armanspergstraße; Mitteilung vom 22.02.17 - hier mit der Gelegenheit, zum vorliegenden Antrag gem. § 3 der BA-Satzung Stellung zu nehmen
+- TOP 3.5.6.5.: Keine Veräußerung öffentlichen Eigentums; Empfehlung Nr. 14-20 / E 01306 der BV vom 24.11.16; Beschlussvorlage für den Kommunalausschuss vom 23.03.17 mit der Bitte um Kenntnisnahme
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.3.1.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken! Antrag des BA 8 mit der Bitte um Kenntnisnahme und ggf. Unterstützung
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung im Freien auf Privatgrund / in einer städtischen Grünanlage; hier: "Fit im Park" des Sportamts / Freizeitsport jeden Donnerstag zwischen 01.05.17 und 30.09.17 im Rosengarten; Zuleitung des KVR mit der Bitte um Stellungnahme bis 24.03.2017
+- TOP 3.6.4.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: "Maifest" der Bürgervereinigung Maibaum - Untergiesing e.V. am 01.05.2017; Zuleitung des KVR mit der Bitte um Stellungnahme bis 29.03.2017
+- TOP 3.6.4.3.: Spielaktionen in öffentlichen Grünanlagen; Zuleitung des Vereins Spiellandschaft Stadt e.V. mit der Bitte um Rückmeldung zu den im 18. Stadtbezirk geplanten Aktionen laut Liste
+- TOP 3.6.4.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO und Privatgrund; 47. Wandertage des German-American-Wander-Club e.V. am 01./02.07.17; hier: Rotbuchenstraße, Am Hollerbusch, Vollmarpark, Oberbiberger Straße, Perlacher Forst, Geiselgasteigstraße; Anhörung des KVR mit der Bitte um Stellungnahme bis 07.04.2017
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 3.6.7.1.: Künstlerische Gestaltung der Säulen am Candidplatz 3.6.7.1.1 Bewerbung vom 23.01.2017 3.6.7.1.2 Bewerbung vom 26.01.2017
+- TOP 4.3.1.: Mittelfristige Finanzplanung 2016 - 2020; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2017 - 2021; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme bis 12.04.2017
+- TOP 4.3.2.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017; Schreiben des KVR mit der Bitte um Stellungnahme bis 24.03.2017
+- TOP 4.4.1.: FC Alemannia unterstützten - Traditionsverein vor dem möglichen Aus bewahren; BA-Antrag Nr. 14-20 / B 03155 vom 20.12.17; Antwortschreiben des Kommunalreferats vom 28.02.17 (positive Erledigung)
+- TOP 4.5.1.: Weitergabe von Sitzungsunterlagen und Informationen an die Presse, Schreiben von Herrn Oberbürgermeister Reiter vom 02.03.2017
