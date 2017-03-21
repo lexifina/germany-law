@@ -1,0 +1,164 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sitzungseröffnung und Benennung eines neuen Mitglieds
+- TOP 1.1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Neubesetzung des/ der UA
+- TOP 1.4: Benennung von UA-Mitgliedern
+- TOP 2.: Gremium
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.2.3.: Ausfall der Ampel Romanplatz / Arnulfstraße am 18./19.02.2017
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Initiative "Kultüren" Veranstaltung "Kultüren" am 07./08.10.2017
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Geschichtswerkstatt Neuhausen e.V. Herausgabe eines Kalenders für 2018
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Grundschule am Dom-Pedro-Platz, Klasse 3a Schullandheimaufenthalt vom 13. - 17.02.2017
+- TOP 2.3.4.: (E) Budget der Bezirksausschüsse Gemeinschaftszentrum Integriertes Wohnen, Hilfe im Alter GmbH, Innere Mission München e.V. - Musikfest im Juni 2017
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.4.1.: Wiedereinrichtung einer Schadstoffmessstelle am Romanplatz
+- TOP 2.4.2.: Erhaltung der zwei Pappeln im Anwesen Nymphenburger Str. 137, 80636 München
+- TOP 2.4.3.: (E) Neupflanzung historischer Pflanzen im Schlosspark Nymphenburg Empfehlung Nr. 14-20 / E 01362 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Umbau von Romanplatz: Tram Empfehlung Nr. 14-20 / E 01328 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen - Nymphenburg am 17.11.2016
+- TOP 3.1.2.: (E) Schaffung von mehr Radabstellplätzen durch GEWOFAG in ihren Innenhöfen Empfehlung Nr. 14-20 / E 01324 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 17.11.2016
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Hinweisschilder Hirschgarten / Schlossschmidstraße
+- TOP 3.2.2.: Zunahme des Verkehrsaufkommens in Nymphenburg
+- TOP 3.2.4.: Schulcampus Albrechtstraße
+- TOP 3.2.5.: 1. Winthirstr. 25: Einrichtung einer Kurzparkzone/ eingeschränktes Halteverbot 2. Kreuzung Lachnerstr./ Winthirstr.: Einrichtung eines Fußgängerüberweges
+- TOP 3.2.6.: Antrag auf Fahrradabstellplätze vor dem Kino „Maxim“ und Schlörstraße 1
+- TOP 3.2.7.: Schlörstraße: Beschilderung des Zugangs zur Unterführung
+- TOP 3.2.8.: Entschärfung der Verkehrsgefahr: Fußgängerüberquerung Einmündung Schhwere-Reiter in die Dachauer Str. durch verkehrsrechtlichen Maßnahmen
+- TOP 3.2.9.: Reinmarplatz: Parkplatzbelegung vermehrt durch Wohnmobile, Anhängern und Wohnwägen
+- TOP 3.2.10.: Errichtung eines durchgängigen Radwegs an der Baldurstraße - BA-Antrag Nr. 14-20 /B 02932
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Planung Hanebergstraße 2
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Baustelleneinrichtung "Kap West" (MK8 - Birketweg) - Antwort KVR
+- TOP 3.4.2.: Auswirkungen der Baustelleneinrichtungen für die 2. Stammstrecke
+- TOP 3.4.3.: Verkehrssituation in der Ebenau
+- TOP 3.4.4.: Hinweisbeschilderung Hirschgarten
+- TOP 3.4.5.: Toilettensituation an der S-Bahnstation Donnersbergerbrücke
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Durchführung von Verkehrsversuchen durch das KVR
+- TOP 3.5.2.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 3.5.3.: Verlängerung Stadtbus 153 - Vorstellung der Planungen in de BA 3 & 9
+- TOP 3.5.4.: Verkehrsrechtliche Anordnungen des KVR: Steubenplatz: Neueinrichtung eines Taxistandplatzes Mettenstraße 48: Z 283 StVO + Zusatz „Feuerwehranfahrtszone einschl. Gehweg“ Simeonistraße: Z 283 StVO + Zusatz „Feuerwehrzufahrt“ (Taxisklinik) Maillinger-/ Elvira-/ Birker-/ Gabrielenstr.: Oberflächenwiederherstellung Hippmannstr.: Öffnung der Einbahnregelung für den gegenläufigen Radverkehr Pfänderstr. 21: Einrichtung eines pers.bezogenen Behindertenparkplatzes
+- TOP 3.5.5.: Münchner Wochen- und Bauernmark - Standort Rotkreuzplatz - Versetzung Hinweisschild für Fahrradfahrer u. Fußgänger
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.1.1.: (E) Schaffung von mehr Radabstellplätzen durch GEWOFAG in ihren Innenhöfen Empfehlung Nr. 14-20 / E 01324 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 17.11.2016
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Planung Hanebergstraße 2 - Bürgeranliegen
+- TOP 4.2.2.: Realisierung des Fuß- und Radwegstegs Arnulfpark-Westend
+- TOP 4.2.3.: Zwischennutzung des Brückenkopfleeraums z.B. als Wiesenfläche, bis der Fuß- und Radwegsteg realisiert ist
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Erweiterungsbau Museum "Mensch und Natur" - Empfehlung Nr. 14-20 / E 01333 der Bürgerversammlung vom 17.11.2016
+- TOP 4.3.2.: Barellistraße 2 - Neubau eines Einfamilienhauses mit Garage
+- TOP 4.3.3.: Hanebergstraße 2 - Neubau und Umbau eines Bestandsgebäudes zu einem Studentenwohnheim mit 188 Zimmern - Antrag auf Vorbescheid
+- TOP 4.3.4.: Landshuter Allee 8 - 10 - Erweiterung und Umbau einer Tiefgarage, Nutzungsänderung von Kellerräumen zu Tiefgarage - Antrag auf Vorbescheid
+- TOP 4.3.5.: Lothstraße 3-5 - Neubau einer Wohnanlage mit Tiefgarage - Antrag auf Vorbescheid
+- TOP 4.3.6.: Lothstraße 13 - Energetische Sanierung zweier Wohngebäude mit Aufstockung und Anbau von 4 Außenaufzügen sowie Abbruch und Neubau der Garagen und Neugestaltung der Außenanlagen
+- TOP 4.3.7.: Stievestraße 3 - Neubau eines Balkons im Dachgeschoss
+- TOP 4.3.8.: Gehbahn- / Fahrbahnsanierung: Siegrunestr. 4-10 Brunhildenstr. 32 b)
+- TOP 4.3.9.: Fördermöglichkeiten der Innenhof-, Dach- und Fassadenbegrünung
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Gewerbeflächenentwicklungsprogramm - Ergänzung zu Vorlagen Nr. 14-20 / V 07490
+- TOP 4.5.2.: Verbot der Zweckentfremdung von Wohnraum
+- TOP 4.5.3.: Lachnerstraße 28: Aufhebung des rechtsverbindlichen Bebauungsplans Nr. 104 Sitzungsvorlagen Nr. 14-20 / V 07839
+- TOP 4.5.4.: LBK: Meldelisten über Bauvorhaben vom 06.02. - 05.03.2017
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Wiedereinrichtung einer Schadstoffmessstelle am Romanplatz Empfehlung Nr. 14-20 / E 01329 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 5.1.2.: Erhaltung der zwei Pappeln im Anwesen Nymphenburger Str. 137, 80636 München Empfehlung Nr. 14-20 / E 01334 der Bürgerversammlung des Stadtbezirkes 9 - Neuhausen-Nymphenburg am 17.11.2016
+- TOP 5.1.3.: (E) Die Stadt München möge gegen die Verunreinigung von Straßen durch Zigarettenfilter vorgehen Empfehlung Nr. 14-20 / E 01358 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 5.1.4.: Neupflanzung historischer Pflanzen im Schlosspark Nymphenburg Empfehlung Nr. 14-20 / E 01362 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016 Sitzungsvorlage Nr. 14-20 / V 08121
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: 1. Josef-Obenhin-Str./ Schäringstr.: Ungezieferplage 2. Fernbussse: Sachstandsabfrage bei der Eigentümergemeinschaft
+- TOP 5.2.2.: Gerner Brücke: Vermüllung und das vermehrte Abstellen von Bierflaschen in den Griff bekommen
+- TOP 5.2.3.: Paschstraße: Sachstand Baumfällung und ist Ersatzpflanzung geplant?
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Die Stadt München möge keine Laubbläser mehr einsetzen; stattdessen Einsatz von Laubsaugern - Empfehlung Nr. 14-20 / E 01357 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 17.11.2016
+- TOP 5.3.2.: Baumfällungsanträge: Nornenstr. 10 Ginhardtstr. 40 Baldurstr. 75 Kriemhildenstr. 16 Kratzerstr. 2 In den Kirschen 1 Pilarstr. 5
+- TOP 5.3.3.: Fördermöglichkeiten der Innenhof-, Dach- und Fassadenbegrünung
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Einrichtung einer weiteren Kleingartenanlage oder eines Krautgartens süd-westlich des Nymphenburger Schlossparkes
+- TOP 5.4.2.: Pflege und Instandsetzung des Arnulfparks II
+- TOP 5.4.3.: Aufstellen einer Bank an der Klara-/Elvirastraße
+- TOP 5.4.4.: Vergabepraxis für Holz und Holzwerkstoffe
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 5.5.2.: Taxispark Öffentliche Grünfläche Ausführungsgenehmigung Vorlage Nr. 14-20 / V 08071
+- TOP 5.5.3.: Baumschutzgitter bei den Bushaltestellen Menaristraße, Laimer Platz und Romanplatz - Empfehlung Nr. 14-20 / E 01289 der Bürgerversammlung des Stadtbezirkes 25 Laim am 22.11.2016
+- TOP 5.5.4.: Verlängerung der Ausnahmezulassung: Abschluss der Asphaltarbeiten in der Dachauer Str. 153 - 159/ Lothstraße - Vollzug des BimSchG und der Geräte- u. Masch.lärmSchV -
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Gemeinschaftszentrum Integriertes Wohnen, Hilfe im Alter GmbH, Innere Mission München e.V. - Musikfest im Juni 2017 Sitzungsvorlage Nr. 14-20 / V 08326
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Bürgeranliegen: Jugendangebote in der Siedlung Hirschgarten
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Spielaktionen in öffentlichen Grünanlagen
+- TOP 6.3.2.: Kinder-Aktions-Koffer 2017/ 2018: Beteiligung von Kindern im Alter von 7 – 14 Jahren an der Stadtbezirksentwicklung
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Spielen in der Stadt e.V.: Planung Einsätze der „MünchnerSommerSpielAktion 2017“
+- TOP 6.4.2.: Bewerbung: Vom Weltspieltag zum Weltkindertag 2017 - Ausrichtung des Projektes „Spielend Raum gewinnen...“ findet im Stadtteil Sendling statt
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: World Café
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Kultüren" Veranstaltung "Kultüren" am 07./08.10.2017
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Geschichtswerkstatt Neuhausen e.V. Herausgabe eines Kalenders für 2018
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Raumvergabe im Kreativquartier
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Anhörung zur Beschlussvorlage Veranstaltungsbudget
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 7.5.2.: Benennung der Sachpreisrichter_in und desseb/deren Stellvertretung im Wettbewerbsverfahren Gründer- und Innovationszentrum im Kreativquartier
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Vorschlag: Antrag auf Teilnahme an der Stadtteilwoche für 2022 oder 2023
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Grundschule am Dom-Pedro-Platz, Klasse 3a Schullandheimaufenthalt vom 13. - 17.02.2017
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Schulcampus Albrechtstraße
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Einsatz von Schwimmhelfer/Innen als Ergänzung zum Lehrpersonal
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: BA-Budget - Verwendungsnachweis: Geschichtswerkstatt Neuhausen e.V. - Aktion „Historischer Stadtteilkalender“
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Erneuerung der Schaukästen und Aktualisierung der Zuständigkeitsregelung der Schaukastenbetreuung
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP 9.3.2.: Mittelfristige Finanzplanung 2016 - 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2017 bis 2021
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Festsetzung des Französischen Marktes auf dem Rotkreuzplatz
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Unveränderte Fortführung eines Gaststättenbetriebes: "Oanh" - Nymphenburger Str. 92
+- TOP 9.5.2.: BA als Veranstalter des Bürgerfestes
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
