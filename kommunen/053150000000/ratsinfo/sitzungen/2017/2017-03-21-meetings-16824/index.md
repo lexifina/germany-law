@@ -1,0 +1,60 @@
+# 20. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-21T15:37:00+01:00
+- Ende: 2017-03-21T20:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16824
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16824
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00606430.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00606430.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00606430.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung einer Sachkundigen Einwohnerin und deren Vertreterin
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Transparente Darstellung der Förderungen in der freien Szene - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Bezuschussung von Interkulturellen Kunstprojekten für das 2. Halbjahr 2017 - geändert beschlossen
+- TOP 4.2: Teilnahme der Stadt Köln am kommunalen Förderprogramm "NRWeltoffen" - ungeändert beschlossen
+- TOP 4.3: Neufassung der Satzung zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - geändert beschlossen
+- TOP -: Neufassung der Satzung zur Verleihung des Heinrich-Böll-Preises der Stadt Köln (Vorlagen-Nr. 0593/2017) - geändert beschlossen
+- TOP 4.4: Einführung der Ehrenamtskarte NRW in Köln - ungeändert beschlossen
+- TOP 4.5: Gestaltung der Außenanlagen der Archäologischen Zone - zurückgestellt
+- TOP 4.6: Ankauf einer Silber-Jardinière (Entwurf: Henry van der Velde) für das Museum für Angewandte Kunst Köln - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für die Sonderausstellung "James Rosenquist" vom 18. November 2017 bis 11. März 2018 im Museum Ludwig - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Geldzuwendung für den Ankauf eines Kunstwerkes von Nil Yalter für das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Vorstellung des Spielplans der Puppenspiele für die Spielzeit 2017/2018 - Kenntnis genommen
+- TOP 8.2: Jahresbericht 2016 NS-DOK - Kenntnis genommen
+- TOP 8.3: StadtLabor für Kunst im öffentlichen Raum 2016/2017 - Kenntnis genommen
+- TOP 8.4: Ergebnisprotokoll der 10. Sitzung des Kunstbeirates in der Wahlperiode 2014/2020 am 26.1.2017 - Kenntnis genommen
+- TOP 8.5: Bahnhof Belvedere in Köln-Müngersdorf - Kenntnis genommen
+- TOP 8.6: Sachstand Sommer Köln - Kenntnis genommen
+- TOP 8.7: Bahnhof Belvedere in Köln-Müngersdorf - Kenntnis genommen
+- TOP 8.8: Sachstand zu den Hallen Kalk - Kenntnis genommen
+- TOP 8.9: Stadt Köln feiert den 100. Geburtstag von Heinrich Böll - Kenntnis genommen
+- TOP 8.10: Mitteilung über die Nutzungsänderung des bestehenden Juniormuseum im Rautenstrauch-Joest-Museum
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Archäologischen Zone - Kenntnis genommen
+- TOP 9.2: Bericht über den Neubau des Historischen Archives und des Rheinischen Bildarchives am Eifelwall - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Vermietungen von Atelierräumen - Kenntnis genommen
+- TOP 10.2: Ausbau des Stadtgartens zum Europäischen Zentrum für Jazz und aktuelle Musik (AN/0183/2017) - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Archivflächen für die Kunstobjekte im öffentlichen Raum - Sache ist erledigt
+- TOP -: Archivflächen für die Kunstobjekte im öffentlichen Raum - Kenntnis genommen
+- TOP 11.2: Anfrage des Sachverständigen Bürgers für Denkmalpflege Dr. Krings betreffend "Historische Gedenkplatte für die römische Mars- bzw. die mittelalterliche Michaelspforte, Obenmarspforten, südliche Fassaden des Rathauses und des Weinhauses „Brungs“ (Mars
+- TOP 11.3: Anfrage des Sachverständigen Bürgers für Denkmalpflege Dr. Krings betreffend "Köln-Deutz. Rheinboulevard (Kennedy-Ufer/Urbanstr.), Kürassier-Denkmal aus dem Jahre 1928"
+- TOP 11.4: Kulturelle Bildung
+- TOP 12: Mündliche Anfragen
