@@ -1,0 +1,153 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4159297
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4159297
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.1.: Vorstellung der Planungen zur Generalinstandsetzung + Erweiterung für das Max- und das Oskar von Miller Gymnasium durch die planenden Architekten Maas, Braun & Partner und das Baureferat
+- TOP 10.2.: Vorstellung CIVITAS ECCENTRIC Projekt, Bericht aus dem Unterausschuss Umwelt und Verkehr
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.1.: Planung Realschule Freimann
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Eilantrag Übernahme Kampfmittelbeseitigungskosten
+- TOP 7.1.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen
+- TOP 7.2.: Weitergabe von Sitzungsunterlagen und Informationen an die Presse, Schreiben des Oberbürgermeisters
+- TOP 9.1.: Anhörung zur Wahlbezirkseinteilung der Bundestagswahl 2017
+- TOP B.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Parkstadt Schwabing: Parkzeiten für Busse vor Lyonel-Feininger-Straße 20/22 zeitlich einschränken
+- TOP 1.2.: Verkehrsinsel Dietlindenstraße Höhe Kunigundenstraße
+- TOP 1.3.: Parkplätze Trautenwolfstraße (Initiative: Horst Engler-Hamm)
+- TOP 1.4.: Mehr Wertstoffinseln und Postbriefkästen in der Parkstadt Schwabing
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Biedersteiner Straße zwischen Mandlstraße und Feilitzschstraße für den gegenläufigen Radverkehr öffnen
+- TOP 2.2.: Projektplanung Lottlisa-Behling-Weg, Buswendeanlage
+- TOP 2.3.: (E) Parken an der Sylvesterkirche
+- TOP 2.4.: Verkürzung des Taxistandplatzes Am Nordring
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Wilhelm-Wagenfeld-Straße / Marcel-Breuer-Straße, Errichtung eines Verkehrshelferüberganges
+- TOP 3.2.1.: Vollzug des Bundes-Immissionsschutzgesetzes und der Verordnung über genehmigungsbedürftige Anlagen; Austausch der Gasturbinen im Heizkraftwerk Freimann (HKW Freimann) der SWM Services GmbH (SWM) auf Grundstück Fl.-Nr. 880/28 der Gemarkung Schwabing (Frankfurter Ring 181, 80807 München)
+- TOP 3.2.2.: Werbefinanzierte Toilette am U-Bahnhof Freimann
+- TOP 3.2.3.: Mittelfristige Finanzplanung 2016-2020, Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021, auch zu finden unter C.3.5 und D.3.2.7
+- TOP 3.2.4.: Verkehrskonzept Münchner Norden Öffentlicher Personennahverkehr / Schienenpersonennahverkehr
+- TOP 3.2.5.: BA-Anhörung zum Beschlussentwurf Ungererstraße / Münchner Freiheit Konzeptionelle Verkehrsplanung
+- TOP 3.2.6.: Nikolaiplatz, Anhörung für die AWM-Bioabfallkampagne am 18.07. und 01.08.2017
+- TOP 4.1.: Vorschläge zu verschiedenen Straßenverkehrssituationen in Freimann
+- TOP 4.2.: Baumschutz in München ist Klimaschutz für München, „Die Münchner Bezirksausschüsse handeln – jetzt!“, vertagt aus der Sitzung vom 17.01.2017 und 14.02.2017
+- TOP 4.3.: Verkehrsführung und Sicherheit in der Kaulbachstraße, Schackstraße Richtung Norden
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Leerung der Müllcontainer an der Münchner Freiheit auch an Sonn- und Feiertagen
+- TOP 5.1.2.: Schnelle Radwegverbindung für den Münchner Norden
+- TOP 5.1.3.: Vorschlag zur Verkehrsberuhigung und Parkplatzgewinnung (B 11, Freisinger Landstraße 74-90), Antwort des Referates auf das Bürgeranliegen C.4.2 – 10/16
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Kurzparkzone Marchgrabenplatz
+- TOP 5.2.2.: Sperrmaßnahmen für Fahrbahnen und Gehwege der Oberen Hausbreite, Zwergackerweg, Frietingerweg und Sonnleitnerstraße wegen Bergungsarbeiten von Kampfmitteln, Verkehrsrechtliche Anordnungen
+- TOP 5.3.1.: Verlängerung der Gleiserneuerung zwischen Münchner Freiheit und Scheidplatz
+- TOP 5.3.2.: Buslinie 181, Direktfahrt Josef-Wirth-Weg - Studentenstadt
+- TOP 5.3.3.: Verlängerung der Gleiserneuerung zwischen Münchner Freiheit und Scheidplatz
+- TOP 5.3.4.: (U) Durchführung von Verkehrsversuchen durch das KVR
+- TOP 5.3.5.: (U) Evaluation der Fahrradstraßen in München Abschlussbericht
+- TOP 5.3.6.: Neukonzeption Verkehrsfluss Parkstadt Schwabing, Stadtratsantrag Nr. 14-20 / A 02857
+- TOP 5.3.7.: Welche Ursache haben die umfangreichen Staus, Stadtratsanfrage Nr. 14-20 / F 00822
+- TOP 5.3.8.: Baumaßnahmen der Stadtwerke München
+- TOP 5.3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.10.: Arbeiten im Straßenraum: Freisinger Landstraße zwischen Lottlisa-Behling-Weg und Wagrainweg; (Einrichten einer neuen Zufahrt für Deponie und Herstellung einer Baustellenzufahrt)
+- TOP 5.3.11.: Kanalisierung im Umgriff des Bebauungsplanes mit Grünordnung Nr. 2024 Stichstraße U-1678 / Verlängerung der Eduard-Rumpler-Straße, Gesamtkosten
+- TOP 5.3.12.: Strom-Projekt Clemensstraße, 2. Bauabschnitt
+- TOP 5.3.13.: Anwohnerschutzkonzept Kieferngarten ausweiten, Antrag Nr. 14-20 / A 02918 der ÖDP vom 24.02.2017
+- TOP C.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kulturhistorischer Verein Feldmoching auf dem Gfild e.V Anschaffung von Tafeln zur Ausstellung "Straßennamensgebung" Az.: 0262.0-12-0218
+- TOP 2.2.: (E) Musikdarbietungen im Englischen Garten unterbinden
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Burmesterstraße 23 Ausstattung mit Tablet-PCs Az. 0262.0-12-0217
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Initiative "Tarantella" Filmprojekt "Tarantella" Az. 0262.0-12-0219
+- TOP 3.: Anhörungen
+- TOP 3.1.: Veranstaltungsbudget; BA-Einbindung
+- TOP 3.2.: Veranstaltung in städtischer Grünanlage, Wilhelm-Wagenfeld-Straße, „Fußballspektakel“ am 22.04.2017
+- TOP 3.3.: Zentrales Bewohnerzentrum in der Parkstadt Schwabing, Bürgerversammlungsempfehlung Nr. 14-20 / E 01079, Referatsschreiben
+- TOP 3.4.: Beschlussentwurf für den Sozialausschuss am 22.06.2017; Anforderungsprofil für eine stationäre Pflegeeinrichtung für eine Fläche in der Bayernkaserne
+- TOP 3.5.: Mittelfristige Finanzplanung 2016-2020, Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021, auch zu finden unter B.3.2.3 und D.3.2.7
+- TOP 3.6.: Aumeisterweg 10, beabsichtigte Sondernutzungen für die BMW Open vom 29.04. -07.05.2017
+- TOP 3.7.: Anhörungsverfahren Markt "Kunst &Ideen" vom 08. - 11.09.2017
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Verbesserung des Services an den Schaltern der Deutschen Post
+- TOP 5.2.1.: Friedrichstraße 30
+- TOP 5.2.2.: Margot-Kalinke-Straße 4
+- TOP 5.2.3.: Leopoldstraße 7
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Veranstaltungsbericht, "Die Verliebten" des Theaters des hölzernen Gelächters
+- TOP 5.3.2.: Neubau städtisches Tagesheim Bauhausplatz
+- TOP 5.3.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen Realschulen, den staatlichen Realschulen, den Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2016/2017
+- TOP 5.3.4.: (U) Zahl der Schülerinnen, Schüler und Klassen an den öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten im Schuljahr 2016/2017
+- TOP 5.3.5.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2016/2017 Stand: 20.10.2016
+- TOP 5.3.6.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2016/2017
+- TOP 5.3.7.: Verwendungsnachweis: Theater des hölzernen Gelächters für die Aktion: Sommertheaterproduktion 2016
+- TOP 5.3.8.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP 5.3.9.: Ergebnisse der Planung der MünchnerSommerSpielAktion
+- TOP 5.3.10.: Veranstaltungsbericht, „Play Me I&#039;m Yours“
+- TOP 5.3.11.: KITA-Jahresstatistik 2016, Onlinebefragung, Sitzungsvorlagennummer 14-20 / V 08203
+- TOP D.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, Antrag für eine Warenauslage
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Zirbelweg 7, Neubau eines Doppelhauses mit Carport – hier: DHH 1
+- TOP 3.1.2.: Zirbelweg 7, Neubau eines Doppelhauses mit Carport – hier: DHH 2
+- TOP 3.1.3.: Klementinenstraße 18
+- TOP 3.1.4.: Weisgerberstraße 2
+- TOP 3.1.5.: Werneckstraße 12
+- TOP 3.1.6.: Situlistr. 41, zwei Bäume
+- TOP 3.1.7.: Am Kiefernwald, Schulbauoffensive, Neubau eines Hauses mit 3 Krippen- 2 Kindergarten- und 1 Hortgruppe(n)
+- TOP 3.1.8.: Domagkstraße, Schulbauoffensive – Errichtung eines Schulgebäudes als Interimsanlage, befristet auf 10 Jahre + 1 Monat - VORBESCHEID
+- TOP 3.1.9.: Rainackerweg 34, 1 Fichte
+- TOP 3.1.10.: Herrmann-Vogel-Straße 17, 3 Bäume
+- TOP 3.1.11.: Schwedenstraße 51, 2 Laubbäume, 1 Buche
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.2.: Klementinenstr. 9, Neubau einer Doppelhaushälfte mit Tiefgarage
+- TOP 3.2.3.: Am Wiesrain 21, Neubau eines Dreispänners mit Doppelparker und Einzelgarage – hier: Haus 1
+- TOP 3.2.4.: St.-Nikolaus-Platz 3, Erweiterung, Aufstockung des Studentenwohnheims
+- TOP 3.2.5.: Situlistr. 87, Brandschutztechnische Sanierung der Situlischule / Gebäudeteil „Altbau“
+- TOP 3.2.6.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München, vertagt aus der Sitzung vom 14.02.2017
+- TOP 3.2.7.: Mittelfristige Finanzplanung 2016-2020, Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021, auch zu finden unter B.3.2.3 und C.3.5
+- TOP 3.2.8.: Bauleitplanung Lilly-Reich-Straße - Parkstadt Schwabing - BA-Anhörung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Bebauung eines Grundstücks in Schwabing
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Baumentfernung und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 5.2.2.: Osterwaldstraße 82, 1 Traubenkirsche, Fällung zur sofortigen Beseitigung von Gefahren
+- TOP 5.2.3.: Osterwaldstraße 18, 1 Robinie, Fällung zur sofortigen Beseitigung von Gefahren
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 5.3.2.: (U) Werbeanlagenverordnung erlassen Empfehlung Nr. 08-14 / E 00827 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt - Lehel am 03.12.2015
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
