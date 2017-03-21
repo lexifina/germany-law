@@ -1,0 +1,8 @@
+# TOP 6: Gesamtschule Lindenstraße, Standort Lindenstraße 140
+
+- Sitzung: Bauausschuss (2017-03-21)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/209646
+- Ergebnis: passieren lassen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/85906
