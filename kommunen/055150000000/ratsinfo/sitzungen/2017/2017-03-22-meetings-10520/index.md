@@ -1,0 +1,88 @@
+# 23. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-03-22T17:57:00+01:00
+- Ende: 2017-03-22T22:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10520
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10520
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00402364.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Feststellung des Jahresabschlusses 2015 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Projekt „Profilierung der Kompetenzen im Vergaberecht“, Einrichtung eines Zentralen Vergabemanagements im Rechts- und Ausländeramt - einstimmig beschlossen
+- TOP 12: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen an Sonntagen in verschiedenen Stadtbezirken - mehrheitlich beschlossen
+- TOP 13: Anpassung der Entgeltordnung der Stadthalle Hiltrup zum 01.05.2017 - mehrheitlich beschlossen
+- TOP 14: Bürgerbeteiligung am städtischen Haushalt - einstimmig beschlossen
+- TOP 14.1: Bürgerbeteiligung am städtischen Haushalt
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2016 - zur Kenntnis genommen
+- TOP 16: Änderung des Gesellschaftsvertrages der AirportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 17: Fortschreibung der Kleinräumigen Bevölkerungsprognose (KBP) für den Zeitraum 2015 - 2025: Zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 18: Änderung der Satzung für die Erhebung von Erschließungsbeiträgen in der Stadt Münster - einstimmig beschlossen
+- TOP 19: Änderung der Satzung über die Erhebung von Beiträgen nach § 8 KAG für Straßenbaumaßnahmen in der Stadt Münster - einstimmig beschlossen
+- TOP 20: Schulentwicklungsplanung Berufskollegs - einstimmig beschlossen
+- TOP 20.1: Schulentwicklungsplanung Berufskollegs
+- TOP 21: Uppenbergschule - Auflösung der Förderschule und Beschreibung der weiteren Vorgehensweise - mehrheitlich beschlossen
+- TOP 21.1: Uppenbergschule - Auflösung der Förderschule und Beschreibung der weiteren Vorgehensweise
+- TOP 22: Gute Schule 2020 - Anträge für das Jahr 2017 - einstimmig beschlossen
+- TOP 23: Trägerausschreibung für die Kindertageseinrichtung an der Regina-Protmann-Straße - mehrheitlich beschlossen
+- TOP 24: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS - mehrheitlich beschlossen
+- TOP 25: Änderung der Satzung, der Wahlordnung und Aufstockung der pädagogischen Begleitung des Jugendrates - einstimmig beschlossen
+- TOP 25.1: Änderung der Satzung, der Wahlordnung und Aufstockung der pädagogischen Begleitung des Jugendrates
+- TOP 25.1.1: Änderung der Satzung, der Wahlordnung und Aufstockung der pädagogischen Begleitung des Jugendrates
+- TOP 26: Rückerstattung von Elternbeiträgen nach dem Kinderbildungsgesetz (KiBiz) ab dem 01.08.2014 für Geschwisterkinder von Kindern im letzten beitragsfreien Kindergartenjahr - einstimmig beschlossen
+- TOP 27: Neubau einer Kindertageseinrichtung in Alt-Angelmodde im Bezirk Südost - mehrheitlich beschlossen
+- TOP 27.1: Neubau einer Kindertageseinrichtung in Alt-Angelmodde im Bezirk Südost
+- TOP 28: Jahresbericht 2016 der Arbeit der Ombudsstelle für das Jobcenter Münster - mehrheitlich beschlossen
+- TOP 29: Masterplan altengerechte, inklusive Quartiere zur Versorgungssicherheit von Menschen mit Pflege- und Unterstützungsbedarf - einstimmig beschlossen
+- TOP 29.1: Masterplan altengerechte, inklusive Quartiere zur Versorgungssicherheit von Menschen mit Pflege- und Unterstützungsbedarf
+- TOP 30: Handlungskonzept "Geflüchtete Menschen in Münster" - mehrheitlich geändert beschlossen
+- TOP 31: Wirtschaftsplan 2017/2018 des Theater Münster - einstimmig beschlossen
+- TOP 32: Satzung zur Änderung der Festsetzungen des Rezesses der Interessenten des Rüschenfeldes, Stadtbezirk West - einstimmig beschlossen
+- TOP 33: Rekultivierung der Zentraldeponie Münster II - einstimmig beschlossen
+- TOP 34: Einführung der Sozialgerechten Bodennutzung in Münster (SoBoMünster) im April 2014 - Bericht zum aktuellen Sachstand - zur Kenntnis genommen
+- TOP 35: Münster Hauptbahnhorf Ostseite - Bauvorhaben Landmarken HBF Münster Ost GmbH - einstimmig beschlossen
+- TOP 35.1: Münster Hauptbahnhorf Ostseite - Bauvorhaben Landmarken HBF Münster Ost GmbH
+- TOP 36: Städtebauförderung: Fortschreibung Integriertes Handlungskonzept Münster-Innenstadt, Bestätigung der Maßnahmenübersicht und Finanzmittelbereitstellung - einstimmig beschlossen
+- TOP 37: Bauleitplanung
+- TOP 37.1: Stadtbezirk Münster-Mitte
+- TOP 37.1.1: Bebauungsplan Nr. 569 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 37.2: Stadtbezirk Münster-West
+- TOP 37.2.1: Bebauungsplans Nr. 536: Mecklenbeck - Weseler Straße / Meckmannweg / Schwarzer Kamp - von der Tagesordnung abgesetzt
+- TOP 37.2.2: Bebauungsplan Nr. 383 - Beschluss zur Änderung und Erweiterung - einstimmig beschlossen
+- TOP 37.3: Stadtbezirk Münster-Hiltrup
+- TOP 37.3.1: Bebauungsplan Nr. 577 - Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 37.3.2: Veränderungssperre Nr. 107 für den Bereich der 1. Änderung des Bebauungsplans Nr. 434
+- TOP 37.4: Stadtbezirk Münster-Nord
+- TOP 37.4.1: Bebauungsplan Nr. 583: Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig geändert beschlossen
+- TOP 37.5: Stadtbezirk Münster-Südost
+- TOP 37.5.1: 52. Änderung des FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 38: Entsendung eines weiteren Mitgliedes in den Aufsichtsrat Flughafen Münster-Osnabrück GmbH - von der Tagesordnung abgesetzt
+- TOP 39: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 39.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 40: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 41: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 41.1: Qualitative und quantitative Personalsituation beim Jobcenter verbessern - verwiesen
+- TOP 41.2: Bahnhaltepunkte in Münster barrierefrei ausbauen - verwiesen
+- TOP 41.3: Kita und Schule zusammen als „Bildungshäuser“ planen und konzipieren - verwiesen
+- TOP 41.4: Verkehr 2035 - ein Gesamtkonzept für die wachsende Stadt erstellen - verwiesen
+- TOP 41.5: Rassismus vor Ort bekämpfen: Beitritt zur Europäischen Städtekoalition gegen Rassismus der UNESCO - verwiesen
+- TOP 41.6: Hammer Straße gemeinsam planen - verwiesen
+- TOP 41.7: Masterplan für Handorf – Stadtteilzukunft gestalten - verwiesen
+- TOP 41.8: Chancengerechtigkeit ermöglichen: Frühe Bildung geflüchteter Kinder fördern - verwiesen
+- TOP 41.9: Tierschutz in Münster stärken - verwiesen
+- TOP 42: Verschiedenes
