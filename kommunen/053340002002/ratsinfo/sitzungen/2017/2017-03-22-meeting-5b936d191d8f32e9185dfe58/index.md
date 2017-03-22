@@ -1,0 +1,64 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2017-03-22T17:00:00+01:00
+- Ende: 2017-03-22T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3596
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936d191d8f32e9185dfe58
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 25.01.2017 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.02.2017 (öffentlicher Teil) - (offen)
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen. - (offen)
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 6: Vorverteilung von Kaliumiodidtabletten (Jodtabletten) im Stadtgebiet Aachen - ungeändert beschlossen
+- TOP 7: Therapeutische Versorgung in städtischen Kindertageseinrichtungen - geändert beschlossen
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 8.1: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 8.2: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 8.3: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 8.4: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9: Bebauungsplan -Kurbrunnenstraße/Bachstraße- hier: Beschluss einer Veränderungssperre im Bereich des Aufstellungsbeschlusses A 268 zum Bebauungsplan -Kurbrunnenstraße/Bachstraße- - ungeändert beschlossen
+- TOP 10: Erlass einer Satzung über ein besonderes gemeindliches Vorkaufsrecht gemäß § 25 BauGB im Planbereich Trierer Straße, Ellerstraße, Karl-Kuck-Straße, Heidestraße - ungeändert beschlossen
+- TOP 11: Teilaufhebung Bebauungsplan Nr. 911 -Eupener Straße/Köpfchen- hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB - Satzungsbeschluss <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 12: Bericht über die Prüfung des Gesamtabschlusses 2010 - geändert beschlossen
+- TOP 13: Ratsantrag der Fraktion DIE LINKE vom 22.11.2016 „Politische Teilhabe von Kindern und Jugendlichen ausbauen“ - geändert beschlossen
+- TOP 14: Ratsanträge Allianz für Aachen und UWG - Zirkusse mit Wildtieren - ungeändert beschlossen
+- TOP 15: Tonbandunterstützte Protokollführung in den Ausschusssitzungen Hier: Ratsantrag Nr. 234 / 17 der Allianz für Aachen - ungeändert beschlossen
+- TOP 16: Weiterbetrieb der Müllverbrennungsanlage Weisweiler ab 2021: Grundlagen - ungeändert beschlossen
+- TOP 17: Entsendung von fünf Ratsmitgliedern in die Mitgliederversammlung des Vereins "Metropolregion Rheinland e.V." - ungeändert beschlossen
+- TOP 18: 4. Änderung der Geschäftsordnung für den Rat und die Bezirksvertretungen der Stadt Aachen und die Ratsausschüsse vom 15. 12. 1995 - ungeändert beschlossen
+- TOP 19: 16. Nachtrag zur Hauptsatzung der Stadt Aachen vom 15. 12. 1995 - Redaktionelle Änderungen des § 27 - ungeändert beschlossen
+- TOP 20: Anfragen: - (offen)
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Umbesetzung in Ausschüssen und anderen Gremien - (offen)
+- TOP 21.1: Umbesetzungsantrag der SPD-Fraktion vom 21.03.2017 - ungeändert beschlossen
+- TOP 21.2: Umbesetzungsantrag der PIRATEN-Fraktion vom 21.03.2017 - ungeändert beschlossen
+- TOP 21.3: Umbesetzungsantrag der CDU-Fraktion vom 22.03.2017 - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung - (offen)
+- TOP 22.1: Benennung von Straßen - Beschluss der Bezirksvertretung Aachen-Mitte vom 08.02.2017 - ungeändert beschlossen
+- TOP 23: Ratsanträge - ungeändert beschlossen
+- TOP 24: Gasfernleitung Zeelink I - Sachstandsbericht und Beschluss über das weitere Vorgehen - ungeändert beschlossen
+- TOP 25: Ratsantrag Nr. 187/17 „Divest“ der UWG „Investitionen in Verbindung mit fossilen Energieträgern werden zukünftig vermieden; bestehende Investitionen und Verträge werden so schnell wie möglich beendet.“ - ungeändert beschlossen
+- TOP 26: Öffentlicher Dienstleistungsauftrag für die Direktvergabe an die ASEAG, hier: Abschluss der öffentlich-rechtlichen Vereinbarung zwischen Stadt Aachen und Städteregion Aachen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
