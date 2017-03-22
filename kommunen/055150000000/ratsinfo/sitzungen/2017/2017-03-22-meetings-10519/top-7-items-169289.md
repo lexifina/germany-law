@@ -1,0 +1,8 @@
+# TOP 7: Projekt „Profilierung der Kompetenzen im Vergaberecht“, Einrichtung eines Zentralen Vergabemanagements im Rechts- und Ausländeramt
+
+- Sitzung: 23. Sitzung (2017-03-22)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/169289
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/62669
