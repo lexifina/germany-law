@@ -1,0 +1,8 @@
+# TOP 5: B-Plan Nr. 02/005 - Grafental Ost - Aufstellung; Öffentlichkeitsbeteiligung
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (2017-03-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/209617
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/85425
