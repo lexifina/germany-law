@@ -1,0 +1,8 @@
+# TOP 8.1: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2017-03-22)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=80098
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=22594&bi=23845
