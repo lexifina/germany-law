@@ -1,0 +1,8 @@
+# TOP 9: Anpassung der Entgeltordnung der Stadthalle Hiltrup zum 01.05.2017
+
+- Sitzung: 23. Sitzung (2017-03-22)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/169288
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/62618
