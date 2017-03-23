@@ -1,0 +1,58 @@
+# 36. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-03-23T16:00:00+01:00
+- Ende: 2017-03-23T22:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5758
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5758
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Bericht des Rechnungsprüfungsamtes hinsichtlich der entstandenen Mehrkosten beim Kulturpalast - erledigt
+- TOP 2.2: Konzept für demokratiefördernde Arbeit von "Dresden.Respekt" - erledigt
+- TOP 2.3: Gewalttat am S-Bahnhof Kleinzschachwitz - erledigt
+- TOP 2.4: Gorbitz-Center - erledigt
+- TOP 2.5: Fortführung des Projektes Heinz-Steyer-Stadion - erledigt
+- TOP 2.6: Bearbeitung des Bebauungsplanes Nr. 6024 Dresden-Neustadt, Albertstadt Ost Jägerpark - erledigt
+- TOP 2.7: Flüchtlinge als Erzieher in Kitas - erledigt
+- TOP 2.8: Fahrdienst der Stadt für den Oberbürgermeister und die Bürgermeister - erledigt
+- TOP 2.9: Touristische Belebung des Luisenhofs - erledigt
+- TOP 2.10: Winterschäden an den Straßen der Stadt Dresden - erledigt
+- TOP 2.11: Grundstraße - erledigt
+- TOP 2.12: Wohnentwicklung in Dresden und mangelnde Beteiligung marktrelevanter Player - erledigt
+- TOP 2.13: Umsetzung der Beschlüsse zur Königsbrücker Straße - erledigt
+- TOP 2.14: Zum Ausbau rechtselbischer Elberadweg, SR-Beschluss 12.02.2009 - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - Ausschuss
+- TOP 3.1: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 4: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 4.1: Integrations- und Ausländerbeirat - Zustimmung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 5.1: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 6: Wahl von zwei Verbandsräten für den Regionalen Planungsverband "Oberes Elbtal/Osterzgebirge" - Zustimmung
+- TOP 7: Wahl einer Protokollführerin für die Schiedsstelle Neustadt sowie einer Friedensrichterin/eines Friedensrichters für die Schiedsstelle Klotzsche der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 8: Berufung Stiftungsratsmitglieder der Stiftung Kunst & Musik für Dresden - Zustimmung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Vertagungen der Stadtratssitzung vom 2. März 2017
+- TOP 10.1: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 10.2: Baudenkmalpflegerische Bewertung von Bauten der Moderne aus den sechziger/siebziger Jahren in der Lingnerstadt - Zustimmung mit Änderung
+- TOP 10.3: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2017 und im Jahr 2018 - Zustimmung
+- TOP 10.4: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2017 - Zustimmung
+- TOP 10.5: Radverkehrskonzept der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 10.6: Einrichtung intermodaler Mobilitätspunkte in Dresden - Zustimmung
+- TOP 11: Änderung der Satzung der Landeshauptstadt Dresden zur Durchführung des Dresdner Stadtfestes (Stadtfestsatzung) vom 25. Februar 2016 - Zustimmung mit Änderung
+- TOP 12: Einrichtung der 150. Oberschule - punktweise Zustimmung mit Änderung
+- TOP 13: Unterstützung der Ausrichtung des FIS Ski-Weltcups Dresden im Januar 2018 - Zustimmung mit Ergänzung
+- TOP 14: Olympiateilnahme 2020 für Dresdner Sportkletterer fördern - Vertagung nach 22 Uhr
+- TOP 15: Mietverträge für die Betriebsstätten der Dresdner Philharmonie und der Städtischen Bibliotheken im Kulturpalast - Zustimmung
+- TOP 16: Erweiterung des Fördergebietes Stadtumbau-Ost - Programmteil Aufwertung „Westlicher Innenstadtrand“ - Zustimmung
+- TOP 17: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse in den Bereichen Blasewitz und Loschwitz - Vertagung nach 22 Uhr
+- TOP 18: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse im Bereich Trachau - Vertagung nach 22 Uhr
+- TOP 21: auszureichende Informationsvorlagen
+- TOP 21.1: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2016 - zur Kenntnis genommen
+- TOP 21.2: Information des Stadtrates über wesentliche Inhalte des Prüfberichtes des Sächsischen Rechnungshofes zur Querschnittsprüfung im Bereich SGB XII - Eingliederungshilfe - zur Kenntnis genommen
