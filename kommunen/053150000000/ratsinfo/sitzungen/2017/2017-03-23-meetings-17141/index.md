@@ -1,0 +1,72 @@
+# 21. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-23T17:00:00+01:00
+- Ende: 2017-03-23T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17141
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17141
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung der Sozialraumkoordination Bilderstöckchen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Einrichtung einer Fahrradstraße Niehler Kirchweg, Anordnung Tempo 30 Friedrich-Karl-Straße (Az.: 02-1600-167/16) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrssicherheit und Verbesserung des Verkehrsflusses auf der Escher Straße (Az.: 02-1600-04/17) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Austausch der Leuchtmittel bei der Straßenbeleuchtung im Bezirk Nippes - Kenntnis genommen
+- TOP 7.1.2: Absolutes Halteverbot auf der Escher Straße zwischen der Äußeren Kanalstraße und dem Fröscherweg - Kenntnis genommen
+- TOP 7.1.3: Bewohnerparken im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.4: Solartankstellen/Ladestationen für Elektroautos und E-Bikes auf dem Clouth-Gelände - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gefährdung von Radfahrern am Mauenheimer Gürtel
+- TOP 7.2.2: Maßnahmen gegen die Umwandlung von Vorgärten in PKW-Stellflächen
+- TOP 7.2.3: Verkehrssicherheit für Fußgänger in Bilderstöckchen
+- TOP 7.2.4: Umsetzung von Maßnahmen hin zu einem seniorengerechten Veedel Nippes
+- TOP 7.2.5: Straßenbaum auf Feuerwehraufstellfläche
+- TOP 7.2.6: Bezirkssportanlage (BSA)Weidenpesch; Planung einer Inlineskaterbahn
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einrichtung eines Fahrbahnstreifens für Radfahrer auf der Escher Straße von der Äußeren Kanalstraße bis zum Kreisverkehr Einmündung Schiefersburger Weg - verwiesen in nachfolgende Gremien
+- TOP 8.1.2: Ladesäulen im öffentlichen Raum für Elektroautos und E-Bikes in Wohnvierteln - ungeändert beschlossen
+- TOP 8.1.3: Raumsituation Sternsingerschule in Longerich - geändert beschlossen
+- TOP -: Stellungnahme zu einem Antrag AN/0370/2017 gemäß § 3 der Geschäftsordnung des Rates: Raumsituation Sternsingerschule in Longerich - Kenntnis genommen
+- TOP 8.1.4: Änderung der Verkehrsführung Escher Straße - endgültig abgelehnt
+- TOP 8.1.5: Haltestelle Meerfeldstraße - geändert beschlossen
+- TOP 8.1.6: Digitale Hinweistafel für alle Abfahrten der KVB- und S-Bahnlinien von der Haltestelle Parkgürtel/Geldernstraße - geändert beschlossen
+- TOP 8.1.7: Mögliche Einrichtung eines absoluten Halteverbots an der Kuseler Straße - ungeändert beschlossen
+- TOP 8.1.8: Absperrung der Fuß- und Fahrradwege im Johannes-Giesberts-Park durch Poller - zurückgestellt
+- TOP 8.1.9: Planung einer Neugestaltung der Theklastraße - ungeändert beschlossen
+- TOP 8.1.10: Verkehrssituation Marienschule - geändert beschlossen
+- TOP 8.1.11: Abgebaute Mülleimer in Longerich - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Umwidmung von Liegenschaften entlang der Longericher Straße im Bilderstöckchen - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - geändert beschlossen
+- TOP 9.1.2: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - geändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 9.2.2: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP 9.2.3: Kirchenzentrum Derfflingerstraße in Köln-Weidenpesch; VEP; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 10.2.2: Feldgärtenstraße von der Hillesheimstraße bis zu der Sebastianstraße - Kenntnis genommen
+- TOP 10.2.3: Stadtverschönerungsprogramm 2015 für den Bezirk Nippes - Kenntnis genommen
+- TOP 10.2.4: Bürgereingabe gem. § 24 GO, betr.: Verzögerung der Ziele von Köln mobil 2025 (Az.: 02-1600-201/16) - Kenntnis genommen
+- TOP 10.2.5: 66489/02; Teilaufhebung des Durchführungsplanes 66489/02; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 10.2.6: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.7: Kölner Verkehrs-Betriebe AG (KVB): Handyladestationen im Bereich der KVB (Antrag der CDU AN/0060/2017) - Kenntnis genommen
+- TOP 10.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
