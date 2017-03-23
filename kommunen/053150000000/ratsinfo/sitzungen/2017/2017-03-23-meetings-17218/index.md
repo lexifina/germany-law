@@ -1,0 +1,69 @@
+# 21. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-23T17:05:00+01:00
+- Ende: 2017-03-23T18:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17218
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17218
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00602992.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00602992.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00602992.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Umgestaltung der Kreuzung Frankfurter Straße/Rösrather Straße/Ostheimer Straße in Köln-Ostheim - geändert beschlossen
+- TOP -: Umgestaltung der Kreuzung Frankfurter Straße/Rösrather Straße/Ostheimer Straße in Köln-Ostheim - ungeändert beschlossen
+- TOP 7.2: Attraktivierung des Uta-Renn-Platzes in Köln-Ostheim - ungeändert beschlossen
+- TOP 7.3: Trägeranteil für regionale Stiftungen als Kindergartenträger - zurückgestellt
+- TOP 7.4: Benennung eines Platzes in Köln-Rath/Heumar nach Kurt Henn - ungeändert beschlossen
+- TOP 7.5: Kreuzung Baldurstraße/Rather Mauspfad/Stachelsweg in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.6: Sanierung des Fuß- und Radweges zwischen Eiler Straße und Fockerweg in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.7: Verhinderung des Parkens auf Bürgersteigen im Geltungsbereich der neu eingeführten Parkraumbewirtschaftung in Kalk West - ungeändert beschlossen
+- TOP 7.8: Aufwertung des Spielplatzes an der Engelstraße in Köln-Kalk - ungeändert beschlossen
+- TOP 7.9: Instandsetzung des Verbindungsweges zwischen den Autobahnbrücken in der Merheimer Heide - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Errichtung einer Mega-Light-Werbeanlage im Bereich des öffentlichen Straßenlandes der Einmündung Hardtgenbuscher Kirchweg in die Frankfurter Straße - ungeändert beschlossen
+- TOP 8.1.2: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 8.1.3: Benennung eines Platzes in Köln-Kalk nach Alfred Sauer - ungeändert beschlossen
+- TOP 8.1.4: Gute Schule 2020 - Zustimmung zu Schulhofumgestaltungen im Rahmen des Förderprogramms - geändert beschlossen
+- TOP 8.1.5: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP -: Gute Schule 2020 – Umsetzung des Förderprogramms des Landes NRW (4316/2016) - geändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - geändert beschlossen
+- TOP 8.2.2: Kooperatives Werkstattverfahren Hallen Kalk; hier: Verfahrensdefinition und Feststellung des Bedarfes - geändert beschlossen
+- TOP 8.2.3: Beschluss über die Aufstellung eines Bebauungsplans Arbeitstitel: "Kalk Post" in Köln-Kalk - ungeändert beschlossen
+- TOP 8.2.4: Programm "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer Anfrage ge. § 4 der Geschäftsordnung des Rates zur Einrichtung eines rechtsrheinischen Drogenkonsumraums im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.2: Gemeinsame Anfrage der SPD-Fraktion und der Frakton DIE LINKE. vom 25.01.2017 in der Sitzung der Bezirksvertretung Kalk am 02.02.2017 - Kenntnis genommen
+- TOP 9.1.3: Baumfällungen 2016 im Stadtbezirk Kalk 4311/2016 - Kenntnis genommen
+- TOP 9.1.4: Fahrgastunterstände als Wetterschutz an den Bushaltestellen "Hopfenstraße/Ostmerheimer Straße" in Köln Merheim - Kenntnis genommen
+- TOP 9.1.5: Schulessen in Köln-Kalk - zurückgestellt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Kunstrasenplatz für den SSV Vingst 05 - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Teilnahme an der Earth Hour 2017 - Kenntnis genommen
+- TOP 10.2.2: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 10.2.3: Mehr Sicherheit-Weniger Angstgefühl in den U-Bahn-Stationen Kalk Post und Kalk Kapelle - Kenntnis genommen
+- TOP 10.2.4: Stadtverschönerungsprogramm 2015 für den Bezirk Kalk - Kenntnis genommen
+- TOP 10.2.5: Errichtung einer Mega-Light-Werbeanlage vor dem Grundstück Frankfurter Straße gegenüber 716, Weinheimer Straße - Kenntnis genommen
+- TOP 10.2.6: Vergabe bezirkdienlicher Mittel, die dem Sport zugute kommen - Kenntnis genommen
+- TOP 10.2.7: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.8: Sachstand zu den Hallen Kalk - Kenntnis genommen
