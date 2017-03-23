@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-03-23T17:00:00+01:00
+- Ende: 2017-03-23T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUhb4WEQGk8xeTpHu4e5fHQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4741
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWkRDTQBKMGHh6tSEI0QPfE7SZJ2GYzagM8WiWtZuuo1/Oeffentliche_Niederschrift_Rat_23.03.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Durchgängigkeit der Wupper für Fische - Speziell zum Fischweg am Wehr Neuenkotten in Unterburg und dem Wasserwerk Glüder
+- TOP 2: Volksbegehren G8/ G9
+- TOP 3: Unterrichtsausfall
+- TOP 4: Unterbelegung der Lehrkräfte an der Sekundarschule Solingen
+- TOP 5: Abschiebungen
+- TOP 6: Ladestationen für Elektroautos in Solingen
+- TOP 7: Landesgleichstellungsgesetz
+- TOP 8: Wasserrahmenrichtlinie
+- TOP 9: Energiesperren
+- TOP 10: Beauftragung von Gutachtern zur Beurteilung der Reisefähigkeit formell ausreisepflichtiger Geflüchteter
+- TOP 11: Arbeitsgelegenheiten
+- TOP 12: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 13: Protokoll der 21. Sitzung des Rates am 09.02.2017
+- TOP 14: Vorschlag für eine en-bloc-Abstimmung
+- TOP 15: Umbesetzung von Ausschüssen und Gremien
+- TOP 16: Angemessenheitswerte für die Kosten der Unterkunft
+- TOP 17: City 2013: Kreativ- und Standortoffensive für die Solinger Innenstadt
+- TOP 18: NRWeltoffen
+- TOP 19: Förderprogramm ,,NRWeltoffen"
+- TOP 20: Europäische Städte Koalition der UNESCO gegen Rassismus
+- TOP 21: Überplanmäßige Bewilligung gem. § 83 GO im Teilplan Hilfe zur Erziehung
+- TOP 22: Jahresabschluss 2015 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 23: Jahresabschluss 2015 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 24: Aufhebung von Satzungen
+- TOP 25: I. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 26: Änderung der Hauptsatzung und der Geschäftsordnung aufgrund des Gesetzes zur Stärkung der kommunalen Selbstverwaltung
+- TOP 27: Bauleitplanung Beethovenstraße/ Dingshauser Straße
+- TOP 28: Bauleitplanung Klauberger Straße
+- TOP 29: Bauleitplanung Klauberger Straße
+- TOP 30: Verschiedenes
+- TOP 31: Bergische Symphoniker
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Bauleitplanung Klauberger Straße
+- TOP 3: Verschiedenes
