@@ -1,0 +1,66 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-03-24T16:00:00+01:00
+- Ende: 2017-03-24T20:17:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00288697.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00288697.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00288697.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern des Jugendrates - einstimmig beschlossen
+- TOP 5: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 6: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: B-Plan Nr. 09/006 Am Scheitenwege-Süd - Stellungnahmen, Änderungen, Satzung - einstimmig beschlossen
+- TOP 11: Inhalte des Regionalplans - mündl. Bericht - zur Kenntnis genommen
+- TOP 12: Maßnahmen Südstadt der Netzgesellschaft Düsseldorf - zur Kenntnis genommen
+- TOP 13: Rhein-Ruhr-Express – Aktueller Planungsstand im Planfeststellungsabschnitt 2.0 (Hellerhof-Reisholz) - zur Kenntnis genommen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2017 (Liste A) - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2017 - einstimmig beschlossen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2017 (Liste B) - einstimmig beschlossen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2017 (Liste C) - einstimmig beschlossen
+- TOP 18: Benrather Jahrmärkte im Jahre 2017 - mehrheitlich beschlossen
+- TOP 19: Anfrage: Nutzung Turnhalle Schillstraße - beantwortet
+- TOP 20: Anfrage: Ehemaliges Sportgelände Paulsmühle - vertagt
+- TOP 21: Anfrage: ThyssenKrupp Nirosta Gelände, Hildener Str. - beantwortet
+- TOP 22: Anfrage: Bunker Kölner Landstr./ Burscheider Str. - vertagt
+- TOP 23: Anfrage: Sachstand Rampen am Bahnhof Benrath etc. - beantwortet
+- TOP 24: Antrag: Außengastronomie in der Stadt erweitern – öffentlichen (Park-) Raum dafür zur Verfügung stel - mehrheitlich beschlossen
+- TOP 25: Antrag: Schulwegsicherung Karl-Hohmann-Str. - einstimmig beschlossen
+- TOP 26: Antrag: Machbarkeitsstudie Radschnellweg - einstimmig beschlossen
+- TOP 27: Rheinufer im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Antrag: Konzept für Ansiedlung von Unternehmen im Düsseldorfer Süden - einstimmig beschlossen
+- TOP 30: Antrag: Pigageallee - einstimmig beschlossen
+- TOP 31: Antrag: Barrierefreie Zugänge Bücherei und Bürgerhaus Benrath - einstimmig beschlossen
+- TOP 32: Antrag: Am Trippelsberg, Radverkehrsanlagen - einstimmig beschlossen
+- TOP 33: Antrag: Verhinderung von Parkverstößen auf dem Vorplatz am Südpark-Eingang - einstimmig beschlossen
+- TOP 34: Antrag Telleringstr. - mehrheitlich beschlossen
+- TOP 35: Antrag: Verfügungsmittel Benrather Schlossnarren e.V., Sommerfest 2017 - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel "Die Arche", neue Allwetterreifen - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel "Wir in Wersten", Osterfeuer - einstimmig beschlossen
+- TOP 38: Antrag: Verfügungsmittel "Wir in Wersten", Stadtrallye - einstimmig beschlossen
+- TOP 39: Antrag: Verfügungsmittel Seelsorgeeinheit Düsseldorfer Rheinbogen; Weihnachtsoratorium - einstimmig beschlossen
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 30.09.2016, Friedhof Hassels - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 26.08.2016, Parkplatz Cäcilienstraße - zur Kenntnis genommen
+- TOP 42: Informationsvorlage zur Einbringung des Nahverkehrsplans der Landeshauptstadt Düsseldorf-66/60/2016 - zur Kenntnis genommen
+- TOP 43: Informationsvorlage zum Beschluss der BV 9 vom 29.01.2016, Fahrradstraße Am Ausleger/Ortweg - zur Kenntnis genommen
+- TOP 44: Informationsvorlage zum Beschluss der BV 9 vom 03.02.2017, Verkehrskonzept Paulsmühle - zur Kenntnis genommen
+- TOP 45: Informationsvorlage zum Beschluss der BV 9 vom 03.02.2017, Investitionspakt - zur Kenntnis genommen
+- TOP 46: Informationsvorlage zum Beschluss der BV 9 vom 04.11.2016, Bäume Heubesstraße - zur Kenntnis genommen
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 03.02.2017, Schulwegsicherung - zur Kenntnis genommen
+- TOP 48: Informationsvorlage zum Beschluss der BV 9 vom 03.02.2017, Parkscheibenregelung Friedhof Hassels - zur Kenntnis genommen
+- TOP 49: Informationsvorlage Einsatz der Geschwindigkeitsanzeigetafel im Stadtbezirk 9 im Jahre 2016 - zur Kenntnis genommen
