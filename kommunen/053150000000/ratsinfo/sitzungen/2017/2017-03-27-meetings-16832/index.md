@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-27T17:03:00+02:00
+- Ende: 2017-03-27T18:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16832
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16832
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Finanzmittel "Sportleraustausch von und in Kölner Partnerstädte" - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Nachfrage von MdR Hegenbarth in der Sitzung am 20.06.2016 betreffend "Warum ist Köln Schlusslicht bei der Barrierefreiheit?" (1607/2016) - Kenntnis genommen
+- TOP 3.2: Beantwortung von mündlichen Nachfragen von MdR Richter in der Sitzung am 06.02.2017 betreffend "Bewachungsfirmen" - Kenntnis genommen
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Beantwortung der schriftlichen Anfrage AN/0257/2017 der Gruppe Piraten aus der Sitzung des Rates der Stadt Köln am 14.02.2017 betreffend "Zusammenarbeit der Stadt mit DITIB" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung betreffend "Beantwortung der Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses vom 19.01.2017 betreffend "Autonomes Zentrum Köln an der Luxemburger Straße 93" (AN/0069/2017)" - Kenntnis genommen
+- TOP 4.2: Broschüre zum Diversity Netzwerk der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 4.3: Zusammenfassung der Ergebnisse der Fachtagung „Geflüchtete mit besonderem Schutzbedarf“ am 16.09.2016 - Kenntnis genommen
+- TOP 4.4: Mitteilung betreffend "Beantwortung der Anfrage der SPD-Fraktion zur Sitzung des Betriebsausschusses Abfallwirtschaftsbetrieb der Stadt Köln vom 16.03.2017 betreffend "Beseitigung von Müll am Rhein" ( - Kenntnis genommen
+- TOP 4.5: A Einführung des Berufsbildes "Notfallsanitäter (in)" in Rettungsdienst und Feuerwehr Köln - Kenntnis genommen
+- TOP 4.6: Vereinfachung des Verfahrens zur Ersatzbeschaffung von Rettungsdienstfahrzeugen durch die Festlegung von Nutzungsdauern - Kenntnis genommen
+- TOP 4.7: Sachstandsbericht Datenschutz bei der Stadt Köln - Kenntnis genommen
+- TOP 4.8: Vergabe rettungsdienstlicher Leistungen - Kenntnis genommen
+- TOP 4.9: Mitteilung betreffend "Beantwortung einer mündlichen Nachfrage (Quote befristeter Beschäftigungsverhältnisse der Stadt Köln) zu TOP 8.1 der Sitzung des Ausschusses Soziales und Senioren vom 26.01.2017 (Bericht des Jobcenter Köln, 4324/2016)" - Kenntnis genommen
+- TOP 4.10: Mitteilung betreffend "Beantwortung der Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses vom 13.03.2017 betreffend "Blitzer-Fiasko an der BAB 3" (AN/0381/2017)" - Kenntnis genommen
+- TOP 4.11: Fensterreinigung an Schulen - Kenntnis genommen
+- TOP 4.12: Brüsseler Platz - Jahresbericht 2016 - zurückgestellt
+- TOP 4.13: Optimierung der Nutzung des Rathauses (Historisches Rathaus und Spanischer Bau) sowie der umliegenden Gebäude mit Verwaltungsnutzung (Haus Neuerburg, Laurenzplatz 1-3, Laurenzplatz 4) - zurückgestellt
+- TOP 4.14: Beschluss des AVR vom 07.12.2015 betreffend "Resolution zu einer Transparenzsatzung", 3389/2016 - zurückgestellt
+- TOP 4.15: Bericht über die Umsetzung von Beschlüssen und Anträgen aus dem Geschäftsbereich des Dezernates I - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Geschäftsprozessoptimierung - Bericht 2016 - zurückgestellt
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Gruppe Piraten betreffend "Städtische Videoüberwachung 2015 und 2016" zur Sitzung am 25.04.2016 - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Sachstand zu Genehmigungsverfahren und Gebührenerhebungen für Außengastronomie" zur Sitzung am 06.02.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 07.02.2017 - Kenntnis genommen
+- TOP 6.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Immobilienmanagement der Stadtverwaltung Köln" zur Sitzung am 06.02.2017 - zurückgestellt
+- TOP -: Beantwortung siehe TOP 12.1 (nicht öffentlicher Teil)
+- TOP 6.4: Anfrage der Gruppe Piraten betreffend "Kein Täter werden – Welche Präventionsprogramme gibt es in Köln?" zur Sitzung am 06.02.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 10.03.2017 - Kenntnis genommen
+- TOP 6.5: Anfrage der Gruppe Piraten betreffend "Wie viel Technik nutzen die Ausländerbehörden in Köln, um die Identität von Ayslsuchenden festzustellen" zur Sitzung am 27.03.2017 - zurückgestellt
+- TOP 6.6: Anfrage der SPD-Fraktion betreffend "Optimierung und Neustrukturierung der städtischen Wirtschaftsförderung" zur Sitzung am 27.03.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 27.03.2017 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortführung Live-Streaming aus dem Rat der Stadt Köln - geändert beschlossen
+- TOP -: Zusatz- und Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Fortführung Live-Streaming aus dem Rat der Stadt Köln“
+- TOP -: Antrag der Gruppen GUT und Piraten betreffend "Fortführung Live-Streaming aus dem Rat der Stadt Köln" - abgelehnt (in der Vorberatung)
+- TOP -: Änderungs- bzw. Zusatzantrag der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/ Die Grünen, der FDP-Fraktion und Ratsmitglied Walter Wortmann betreffend "Fortführung Live-Streaming aus dem Rat der Stadt Köln" - ungeändert beschlossen
+- TOP 10.2: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungs- bzw. Zusatzantrag der SPD-Fraktion betreffend "Luftreinhalteplanung Stadt Köln" - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2017 - ungeändert beschlossen
+- TOP 10.4: Bestellung der Vertreter der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 10.5: Feinkonzept zur Umsetzung von Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Förderprojekt "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 10.7: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP 10.8: Beitritt der Stadt Köln zu "d-NRW" - ungeändert beschlossen
+- TOP 10.9: Weiterführung des Projekts "Optimierung von Früherkennung und Versorgung von Kindern und jungen Menschen mit Zeichen einer psychischen Störung" und Anpassung der benötigten Stellenressourcen - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
