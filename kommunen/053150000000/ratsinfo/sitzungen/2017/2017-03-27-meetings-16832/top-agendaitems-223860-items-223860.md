@@ -1,0 +1,8 @@
+# TOP -: Änderungs- bzw. Zusatzantrag der SPD-Fraktion betreffend "Luftreinhalteplanung Stadt Köln"
+
+- Sitzung: Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales (2017-03-27)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/223860
+- Ergebnis: ohne Votum in nachfolgende Gremien
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/104302
