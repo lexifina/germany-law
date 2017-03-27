@@ -1,0 +1,52 @@
+# Rat der Stadt Rheda-Wiedenbrück (16. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2017-03-27T17:00:00+02:00
+- Ende: 2017-03-27T19:40:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZURKdpRj7LMkbp41MR58AKM
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1675
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1kxb2laugrZ9pWXm9NrgAVzCOX3Lm-MMu0a0GojS3X/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_27.03.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfuQEXmqYIlK0quHdqzhJDmuP0FQylSLchIkTnf1V1MN/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_27.03.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Antrag des Stadtsportverbandes auf Entsendung eines Mitgliedes in den Ausschuss für Soziales, Migration und Sport - Einstimmig
+- TOP 5: Gemeinsames Lernen in der Sekundarstufe I ab dem Schuljahr 2017/2018 - 34 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 6: Nachnutzung des Gebäudes Ernst-Barlach-Realschule und Auslaufen des Standortes Wenneber - Einstimmig
+- TOP 7: Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 8: Umlegungsausschuss - Einstimmig
+- TOP 9: Umbesetzung im Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss - Einstimmig
+- TOP 10: Beitritt der Stadt Rheda-Wiedenbrück zur d-NRW AöR - Einstimmig
+- TOP 11: OWL-Bewerbung für die REGIONALE 2022/25 - Einstimmig
+- TOP 11.1: Antrag der FDP-Fraktion; 12. Änderung der Hauptsatzung
+- TOP 12: 12. Änderung der Hauptsatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 13: Straßenreinigung: 6. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig
+- TOP 14: Änderung der a) Satzung für Obdachlosenunterkünfte der Stadt Rheda-Wiedenbrück vom 30.03.1992 b) Satzung für Übergangsheime der Stadt Rheda-Wiedenbrück vom 11.11.1991 - Einstimmig
+- TOP 15: Betriebssatzung für den Eigenbetrieb der Stadt Rheda-Wiedenbrück; Anpassung aufgrund der Änderungen des Wassergesetzes für das Land Nordrhein-Westfalen - Landeswassergesetz – LWG – vom 08. Juli 2016 - Einstimmig
+- TOP 16: Aufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes "Stadtkern Rheda" - Einstimmig
+- TOP 17: Jahresabschluss 2016: Übertragung von Ermächtigungen nach § 22 GemHVO NRW - Kenntnisnahme
+- TOP 18: Jahresabschluss 2016: Einbringung des Entwurfes gem. § 95 GO NRW - Einstimmig
+- TOP 19: Vertragsangelegenheit - Einstimmig
+- TOP 20: Auflösung der Flughafen Gütersloh GmbH - Einstimmig
+- TOP 21: Fortschreibung des Einzelhandelskonzeptes der Stadt Rheda-Wiedenbrück Öffentliche Auslegung des Konzeptentwurfs und Beteiligung der Behörden und sonstigen Trägern öffentlicher Belange - Einstimmig
+- TOP 22: Gewerbe- und Industrieflächenkonzept Beschluss über die Inhalte des Kreiskonzeptes - 32 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 23: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 24: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 25: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 26: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 27: Erklärung von Ausschließungsgründen
+- TOP 28: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 29: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2015 - 34 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 30: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für die Wirtschaftsjahre 2017 - 2021 - 34 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 31: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
