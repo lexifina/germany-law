@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-03-28T17:00:00+02:00
+- Ende: 2017-03-28T20:40:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13219
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13219
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289041.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289041.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289041.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Verpflichtung eines Mitgliedes der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - abweichend beschlossen
+- TOP 5: Zulassung von Vertretern des Jugendrates - einstimmig beschlossen
+- TOP 6: Vorstellung der Dezernentin für Planen, Bauen und Grundstückswesen - zur Kenntnis genommen
+- TOP 7: Bebauungsplan-Verfahren Plan Nr. 07/004 - Ernst-Poensgen-Allee 3 - - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: "Home & Garden" auf der Galopprennbahn im Jahre 2017 - einstimmig beschlossen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14: Verbesserung der Kennzeichnung des Radweges an der Benderstraße - mehrheitlich beschlossen
+- TOP 15: Übergang Bahngleise in Höhe des Eingangs zur LVR-Klinik - einstimmig beschlossen
+- TOP 16: Umweltzone Gerresheim - mehrheitlich abgelehnt
+- TOP 17: Sichere Einfahrt in die Benderstraße - einstimmig beschlossen
+- TOP 18: Sachstandsbericht Alte Insel - zur Kenntnis genommen
+- TOP 19: Alte Insel - zur Kenntnis genommen
+- TOP 20: Glashüttensiedlung "Alte Insel" - zurückgezogen
+- TOP 21: Glashüttensiedlung "Alte Insel" - einstimmig beschlossen
+- TOP 22: Ludenberger Straße - Einsatz von E-Bussen - abweichend beschlossen
+- TOP 23: Wetterfeste Wege - zurückgezogen
+- TOP 24: Verbesserung Stichstraße Tischtenniszentrum am Staufenplatz - einstimmig beschlossen
+- TOP 25: Wanderwege Verlängerung Kleineforstweg und Blanckertzstraße - zurückgezogen
+- TOP 26: Sachstandsbericht zur Aufnahmesituation der Gerresheimer Gymnasien - abweichend beschlossen
+- TOP 27: Beleuchtung der Rheinbahn - abweichend beschlossen
+- TOP 28: Stadtteilbücherei Heyestraße - vertagt
+- TOP 29: Städtebauliche Entwicklung an der Blanckertzstr. (heutige Seniorenresidenz) - zur Kenntnis genommen
+- TOP 30: Beleuchtung Gehweg Grafenberger Allee - Südseite zw. Altenbergstr. und Irmgardstr. - - zur Kenntnis genommen
+- TOP 31: Bertastraße, hier: Grundstückserwerb - zur Kenntnis genommen
+- TOP 32: Erläuterungsbericht - zur Kenntnis genommen
+- TOP 33: Gaslaternen - zur Kenntnis genommen
+- TOP 34: Brücke über die Düssel - zur Kenntnis genommen
