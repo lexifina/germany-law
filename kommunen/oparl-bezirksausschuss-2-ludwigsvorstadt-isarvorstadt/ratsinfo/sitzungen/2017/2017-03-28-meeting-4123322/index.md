@@ -1,0 +1,150 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-03-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123322
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123322
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Westermühlstraße "Milla"; Musik-, Tanz- und Performance-Projekt Walky-Talky am 27.05.2017, vgl. UA-Protokoll KJS
+- TOP 5.5.: Information Weltspieltag: Der Antrag wurde leider nicht berücksichtigt.
+- TOP 5.6.: Information bzgl. "KuBu", vgl. hierzu UA-Protokoll.
+- TOP 5.7.: Bücherschrank; Vorbesprechung am 22.03.2017
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Mittelfristige Finanzplanung 2016 - 2020, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2017 bis 2021, Anhörung der Stadtkämmerei, siehe auch A 3.1 und C 3.3.2
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3.2.: Mittelfristige Finanzplanung 2016 - 2020, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2017 bis 2021, Anhörung der Stadtkämmerei, siehe auch A 3.1 und B 3.3.1
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Konzept zum Schutz/Erhalt der Kleingewerbe im Stadtbezirk 2
+- TOP 1.2.: Gedenkfeier „Novemberrevolution 1918 – Kurt Eisner ruft den Freistaat Bayern aus“ am 07.11.2018 auf der Theresienwiese
+- TOP 2.1.: (E) Ruhe am Alten Südlichen Friedhof – Kein Museum Empfehlung Nr. 14-20 / E 01234 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evangelisches Pfarramt St. Matthäuskirche Internationales Maifest am 20.05.2017 Az. 0262.0-2-0180
+- TOP 3.1.: Mittelfristige Finanzplanung 2016 - 2020, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2017 bis 2021, Anhörung der Stadtkämmerei, siehe auch B 3.3.1 und C 3.3.2
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Landwehrstraße 25, Lärmbelästigung aufgrund Medizintourismus
+- TOP 5.4.: Umsetzung Bänke am Roecklplatz; Ortstermin wurde vereinbart
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: Baumschutz in München – Die BA&#039;s handeln – jetzt!, vgl. Vertagung TOP 2017.02 B 1.1
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Zenettistraße 48, Nutzungsänderung: Sonnenstudio (1.OG) zu Sportschule mit Büro sowie Kantine mit Küche (4.OG) zu Sportstudio, vgl. Vertagung TOP 2017.02 B 3.1.14
+- TOP 3.1.2.: Landwehrstraße 24, Erweiterung Shishabar, vgl. Vertagung TOP 2017.02 B 3.1.15
+- TOP 3.1.3.: Baaderstraße 60, RGB: Umbau, Nutzungsänderung von Werkstatt und Büro im Wohnen, Neubau des Dachstuhls, Einbau eines Flurparkers mit 14 Stellplätzen – Tektur, vgl. Vertagung TOP 2017.02 B 3.1.16
+- TOP 3.1.4.: Landwehrstraße 28a, Erweiterung EG, Fluchttreppenhaus- und Balkonanbauten, Nutzungsänderung in Laden / Spielhalle (UG/EG), Boardinghouse (EG – 6. OG) und Wohnen (7. OG) – Vorbescheid (Landwehrstraße 28a / Schillerstraße 23 a)
+- TOP 3.1.5.: Häberlstraße 11b; Umbau einer Sportanlage mit Gastronomie und Hausmeister-wohnung sowie Errichtung von 24 offenen Stellplätzen - Tektur
+- TOP 3.1.6.: Häberlstraße 13/RGB, Errichtung von Balkonen, PLENUMSBESCHLUSS
+- TOP 3.1.7.: Lessingstraße 14, Umbau und Nutzungsänderung in einzelnen Geschossen eines Büro- und Geschäftshauses mit Einbau eines zusätzlichen Aufzugs und Abbruch von Lastenaufzügen
+- TOP 3.1.8.: Reichenbachstraße 30, Einbau von Dachterrassen in DG 2 samt internen Zugangstreppen, Anbau von hofseitigen Balkonen/ 1.-3. OG
+- TOP 3.1.9.: Goethestraße 7a, Aufstockung eines Wohn- und Geschäftshauses einschl. energetischer Fassadensanierung
+- TOP 3.1.10.: Häberlstraße 3; Erneuerung Dachstuhl und DG-Ausbau
+- TOP 3.1.11.: Geyerstraße 22; Umbau einer Wohnung mit Einbau einer Dachterrasse - Tektur
+- TOP 3.1.12.: Goethestraße 68; Nutzungsänderung: Reduzierung der Freischankfläche im Hof um 30 qm und Errichtung einer Freischankfläche im Vorgarten mit 30 qm mit 12 Gastplätzen
+- TOP 3.2.1.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München, Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG), Vorschläge zur Neuaufnahme besonderer Bäume in die Naturdenkmalliste, vgl. Vertagung TOP 2017.02 B 3.2.1
+- TOP 3.2.2.: Auenstraße 66, Fällung eines Celtis, PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Die Bevölkerung soll ermuntert werden, bei länger anhaltender hoher Feinstaubbelastung auf öffentliche oder emissionsfreie individuelle Verkehrsmittel umzusteigen
+- TOP 1.2.: Erschließung des Stadtteilkultur-/Schulzentrums Ruppertstraße durch Fahrradwege
+- TOP 1.3.: Keine Verlängerung des Oktoberfestes, PLENUMSBESCHLUSS
+- TOP 1.4.: Anwohnerparken rund um das Oktoberfest, PLENUMSBESCHLUSS
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Schillerstraße 23, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Reichenbachstraße 23, Genehmigung einer Freischankfläche
+- TOP 2.1.3.: Bayerstraße 91, Genehmigung einer Freischankfläche, erneute Vorlage an BA 2, vgl. hierzu TOP 2017.02 C 2.1.1
+- TOP 2.1.4.: Landwehrstraße 20; Genehmigung einer Freischankfläche
+- TOP 2.1.5.: Häberlstraße 7, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.1.: Schwanthalerstraße 22; Antrag für einen mobilen Fahrradständer, PLENUMSBESCHLUSS
+- TOP 2.2.2.: Schillerstraße 12, Antrag für einen mobilen Fahrradständer, PLENUMSBESCHLUSS
+- TOP 2.3.1.: (E) Parkraummanagement während des Oktoberfestes
+- TOP 2.3.2.: (E) Roteinfärbung für Radwege in der Sonnenstraße
+- TOP 2.3.3.: (E) Lift an der S-Bahnhaltestelle Isartor Empfehlung Nr. 14-20 / E 01233 der Bürgerversammlung des Stadtbezirkes 02 – Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.3.4.: Klenzestraße 56; Antrag für eine Sitzbank, PLENUMSBESCHLUSS
+- TOP 2.3.5.: Reichenbachstraße 38, Antrag für eine Sitzbank, PLENUMSBESCHLUSS
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Festumzug Eröffnung des 53. Frühlingsfestes am 21.04.2017
+- TOP 3.1.2.: 53. Münchner Frühlingsfest vom 21.04.2017 bis 07.05.2017
+- TOP 3.1.3.: „Rosa Stangerl Maibaumfest“ am 01.05.2017 auf dem Karl-Heinrich-Ullrichs-Platz, PLENUMSBESCHLUSS
+- TOP 3.1.4.: Wahl zur Maikönigin am 30.04.2017 in der Hans-Sachs-Straße, PLENUMSBESCHLUSS
+- TOP 3.2.1.: Museumsinsel 1, Gehbahnsanierung
+- TOP 3.2.2.: Auenstraße, Fahrbahnsanierung ab Klenzestraße bis Baldeplatz
+- TOP 3.2.3.: Kaiser-Ludwig-Platz 6-8 und gegenüber; Herzog-Heinrich-Str. 15-39, Fahrbahndeckensanierung wegen neuer Radwegmarkierung ab Lindwurmstraße bis Herzog-Heinrich-Str. 15 - PLENUMSBESCHLUSS
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Kapuzinerstraße 37, Aufstellung von einer Sitzgelegenheit
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Kapuzinerplatz, Ecke Häberl- / Tumblingerstraße, Verkehrssituation
+- TOP 5.2.: Bürgeranliegen; Verkehrsberuhigung der Thalkirchnerstraße an den Bushaltestellen Ehrengutstraße, vgl. Vertagung TOP 2017.02 C 5.5
+- TOP 5.3.: Bürgeranliegen, Gärtnerplatz 5, entfernen einer Sitzbank, PLENUMSBESCHLUSS
+- TOP D: BA-Angelegenheiten
+- TOP 2.1.: Unterausschuss "Kultur, Jugend und Soziales" am Montag, den 03.04.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München. Unterausschuss "Öffentlicher Raum, Mobilität" am Dienstag, den 04.04.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München. Unterausschuss "Planen, Bauen" am Mittwoch, den 05.04.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München. Die Vorstandssitzung entfällt. Die BA-Sitzung findet am Dienstag, den 25.04.2017 um 19.00 Uhr in der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Herbeiführung eines Grundsatz- und Eckdatenbeschluss für die Erstellung eines qualifizierten Bebauungsplans für das Schlacht-/Viehhof-Gelände mit Bürgerbeteiligung, BA-Antrags-Nr. 08 – 14 / B 05229 des BA 2 vom 24.09.2013, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 08.02.2017
+- TOP A 4.4.: Infoveranstaltung von AKIM für die Anwohner am Gärtnerplatz am 10.03.2017, 11.03.2017 und 16.03.2017
+- TOP A 4.5.: Zuständigkeit AKIM – Schreiben des Sozialreferates vom 24.02.2017
+- TOP A 4.6.: Ergebnisse der Planung der MünchnerSommerSpielAktion
+- TOP A 4.7.: Referat für Bildung und Sport; Bekanntgabe KITA-Jahresstatistik 2016 Onlinebefragung, Sitzungsvorlage Nr. 14-20/V 08203, Bekanntgabe in der gemeinsamen Sitzung des Bildungsausschusses und des Kinder- und Jugendhilfeausschusses des Stadtrates vom 21.03.2017
+- TOP A 4.8.: Gewerbehof für Künstler, BA-Antrags-Nr. 14-20/B 03233 des BA 2 vom 24.01.2017; Zwischennachricht des Referates für Arbeit und Wirtschaft vom 16.02.2017
+- TOP A 4.9.: Überprüfung und Erlass einer Erhaltungssatzung nach §172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 02 - Ludwigsvorstadt-Isarvorstadt und 08 – Schwanthalerhöhe, Satzungsbeschluss Erhaltungssatzung „Ludwigsvorstadt/Schwanthalerhöhe“, Sitzungsvorlage Nr. 14-20 / V 08045, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2017 (VB)
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.2.: Münchner Stadtentwässerung, Beschluss Sanierung von begehbaren Kanälen in der Auen-, Klenze- und Lindwurmstraße; Information vom 20.02.2017
+- TOP B 4.3.: Rothmundstraße 3, Vorbescheid des Referates für Stadtplanung und Bauordnung vom 22.02.2017 zur Kenntnis
+- TOP B 4.4.: Baureferat, Beschlussvorlage Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB – Jährlicher Sachstandsbericht und Vorprojektgenehmigung; Sitzungsvorlage Nr. 14-20 / V 07596, Beschluss des Bauausschusses vom 21.03.2017 (SB)
+- TOP B 4.5.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 - 31.12.2016, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.03.2017, Sitzungsvorlage Nr. 14 - 20 / V 08295
+- TOP B 4.6.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 - 31.12.2016, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.03.2017, Sitzungsvorlage Nr. 14 - 20 / V 08295
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.6.: Taubenfütterung Straßenbahnhaltestelle Reichenbachplatz
+- TOP C 4.7.: Schaffung einer Fahrradstraßen-Route zwischen Sendlinger Tor und Baldeplatz, BA-Antrags-Nr. 14 – 20 / B 02596 des BA 2 vom 28.06.2016; Zwischennachricht des Kreisverwaltungsreferates vom 23.01.2017
+- TOP C 4.8.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG); Vorhaben: S-Bahn-Station München Isartor (MIT); Neubau eines Aufzugs, vgl. TOP 2017.01 C 3.2.1; Stellungnahme des BA 1 Altstadt-Lehel vom 17.02.2017 zur Information
+- TOP C 4.9.: Adlzreiterstraße 21, Bürgeranliegen, vgl. TOP 2017.02 C 5.4, Antwort-Email des Kreisverwaltungsreferates vom 28.02.2017
+- TOP C 4.10.: Überprüfung der Kurzzeit-/Mischparkgebiete
+- TOP C 4.11.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben S-Bahn-Station München Isartor (MIT); Neubau einer maschinellen Rauchabzugsanlage (MRA), einer Netzersatzanlage (NEA) und einer Aufzugsanlage im Zuge der brandschutztechnischen Ertüchtigung der S-Bahn-Stammstrecke München, vgl. TOP 2017.01 C 3.2.1, Antwortschreiben des Referates für Stadtplanung und Bauordnung auf die Stellungnahme des BA 2 vom 25.01.2017
+- TOP C 4.12.: (U) Bürgergutachten Innenstadtkonzept thematische und räumliche Schwerpunkte Stadtbezirke 1,2,3 und 5 a) Bürgergutachten Innenstadt Antrag Nr. 14-20 / A 00616 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 22.01.2015 b) Autofreie Altstadt für bessere Luft und mehr Lebensqualität Antrag Nr. 14-20 / A 02445 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.09.2016 c) Vergabe von Beratungs- und Gutachterleistungen d) Erlass der Satzung zur Findung einer Zufallsauswahl aus dem kommunalen Melderegister im Jahr 2017 im Rahmen des Bürgergutachtens Innenstadtkonzept
+- TOP C 4.13.: Zufahrt Hauptbahnhof Holzkirchner Bahnhof, mehr Poller wegen Sicherheit; Anfrage-Nr. 14-20/Q 00322 aus der Bürgerversammlung des BA 2 am 10.11.2016; Antwort der Polizei vom 23.02.2017 und Antwortschreiben des Referates für Arbeit und Wirtschaft vom 09.03.2017
+- TOP C 4.14.: Bürgeranliegen Verschönerung Thalkirchner- /Ecke Waltherstraße, vgl. TOP 2017.01 C 5.5; Antwortschreiben des Baureferates vom 17.03.2017
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!
+- TOP D 4.2.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen; Schreiben des Direktoriums vom 22.02.2017
+- TOP D 4.3.: Weitergabe von Sitzungsunterlagen und Informationen an die Presse; Schreiben des Oberbürgermeisters Dieter Reiter vom 02.03.2017 und Ergänzung vom 10.03.2017
