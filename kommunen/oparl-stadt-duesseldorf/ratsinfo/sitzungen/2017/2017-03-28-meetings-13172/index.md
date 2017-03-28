@@ -1,0 +1,55 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-03-28T16:00:00+02:00
+- Ende: 2017-03-28T19:42:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13172
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13172
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289275.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289275.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289275.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift 2/2017 - abweichend beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Trödelmärkte von April bis Juli 2017 auf dem Messeparkplatz P1 - einstimmig beschlossen
+- TOP 7: Rhein-Ruhr-Express – Ergebnisse des Runden Tisches Lärmschutz Angermund - zur Kenntnis genommen
+- TOP 8: Umgestaltung Kaiserswerther Markt; Auswertung der Bürgerinformationsveranstaltung vom 24.11.2015 - vertagt
+- TOP 8.1: Änderungsantrag Umgestaltung Kaiserswerther Markt - Pkw-Stellplätze bestmöglich erhalten - vertagt
+- TOP 8.2: Änderungsantrag Umgestaltung Kaiserswerther Markt - Begegnungsfläche - vertagt
+- TOP 8.3: Änderungsantrag Umgestaltung Kaiserswerther Markt - reduzierte Höhe der Mittelinsel - vertagt
+- TOP 8.4: Änderungsantrag Umgestaltung Kaiserswerther Markt - Gehwegbreite - vertagt
+- TOP 8.5: Änderungsantrag Umgestaltung Kaiserswerther Markt - keine Poller - vertagt
+- TOP 8.6: Änderungsantrag Umgestaltung Kaiserswerther Markt - Mittelinsel Kopfenden - vertagt
+- TOP 8.7: Änderungsantrag Umgestaltung Kaiserswerther Markt - Beleuchtung - vertagt
+- TOP 8.8: Änderungsantrag Umgestaltung Kaiserswerther Markt - Fahrradabstellplätze - vertagt
+- TOP 8.9: Änderungsantrag Umgestaltung Kaiserswerther Markt - abgepollerte Laternenbeleuchtung - vertagt
+- TOP 8.10: Änderungsantrag Umgestaltung Kaiserswerther Markt - Ortstermin - vertagt
+- TOP 8.11: Änderungsantrag Umgestaltung Kaiserswerther Markt - Anpassung der Entwurfsplanung - vertagt
+- TOP 9: Nordstern Abfahrt Danziger Straße/Flughafen - Rotlichüberwachungsanlage
+- TOP 10: Nachtverkehr in den Stadtbezirk 5 werktags
+- TOP 11: Verkehrssicherheit vor der Ladenzeile Stockum - beantwortet
+- TOP 12: Anschlussnutzung Behelfsfahrgastunterstand Angermund
+- TOP 13: Klassenräume in Grundschulen des Stadtbezirks 5 - beantwortet
+- TOP 14: Fahrradständer an Grundschulen - beantwortet
+- TOP 15: Verbesserung der Anbindung des Stadtbezirks 5 an den Flughafen-Fernbahnhof
+- TOP 16: Messe- und Arenaparker in Wohngebieten
+- TOP 17: Verkehrsgefährdung durch Rotlichtverstöße
+- TOP 18: Baustellenverkehr Graf-Engelbert-Straße 4 - 8
+- TOP 19: Kurzfristige Aktivierung von nicht genutzten Wohnraumreserven - einstimmig beschlossen
+- TOP 20: Kunst im Straßenraum im Stadtbezirk 5 - mehrheitlich abgelehnt
+- TOP 21: Hubertuskapelle - Tische und Bänke - mehrheitlich beschlossen
+- TOP 22: Rathaus Kaiserswerth - Fahnen im Sitzungssaal - abweichend beschlossen
+- TOP 23: Renovierung Kita Angeraue - einstimmig beschlossen
+- TOP 24: Wohnungsleerstand Lohausen - Immobilien des Flughafens - mehrheitlich abgelehnt
+- TOP 25: Wohnungsleerstand im Stadtbezirk 5 - Immobilien der Städtischen Wohnungsgesellschaft Düsseledorf AG - mehrheitlich abgelehnt
+- TOP 26: Nutzung einer Teilfläche des Nordparks für eine Baustelleneinrichtung im Rahmen der Baumaßnahme Mess - zur Kenntnis genommen
+- TOP 27: Verschiedenes - zur Kenntnis genommen
