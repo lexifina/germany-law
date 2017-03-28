@@ -1,0 +1,51 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2017-03-28T18:00:00+02:00
+- Ende: 2017-03-28T19:33:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaUJaANr4AM5MBQ0KkcGanc
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19540
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_PVLlYANdzfHk-KVyQ6Y90oAkHdf5LORduXT6nLj_G/Bekanntmachung_Rat_28.03.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT8hGvdceT4Qr6r9EDp4yW3VqlA3Q6X5KIJh8BqvG8r9/Oeffentliche_Niederschrift_Rat_28.03.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 13.12.2016 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Bestellung des allgemeinen Vertreters der Bürgermeisterin und weiterer Vertreter - Beschluss mit 23 Ja- und 8 Nein-Stimmen:
+- TOP 5.: Gesetz zur Stärkung der kommunalen Selbstverwaltung hier: Änderung der Entschädigungsverordnung -   
+- TOP -: Gesetz zur Stärkung der kommunalen Selbstverwaltung hier: Änderung der Entschädigungsverordnung hier: Antrag des Stadtverordneten Thomas Bell, Die Linke - Beschluss mit 30 Ja-Stimmen und 1 Enthaltung:
+- TOP 6.: 5. Satzung zur Änderung der Hauptsatzung der Stadt Bad Münstereifel -   
+- TOP -: 5. Satzung zur Änderung der Hauptsatzung der Stadt Bad Münstereifel - Einstimmiger Beschluss: 
+- TOP 7.: Energiewirtschaftliche Betätigung der Stadt; hier: Erhöhung der Gesellschaftsanteile an der Energie Nordeifel GmbH & Co. KG - Beschluss mit 23 Ja- und 7 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 8.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 9.: Erlass einer ordnungsbehördlichen Verordung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel - Beschluss mit 30 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 10.: Kastrationspflicht für Katzen; hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.02.2015 - Sachstandsbericht - Beschluss mit 25 Ja- und 3 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP 11.: Genehmigung einer überplanmäßigen Ausgabe; hier: Notarkosten für die Beurkundung und Abwicklung der Übertragung der Immobilie Bendenweg 54 (neuer Bauhof). - Einstimmiger Beschluss:
+- TOP 12.: 29. Änderung des Flächennutzungsplanes für die Ortslage Ohlerath - Hoffmannstraße hier: Abwägungsbeschlüsse und abschließender Beschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen alle mit 30 Ja-Stimmen und 1 Enthaltung.
+- TOP 13.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Ohlerath für einen Bereich südlich der Hoffmannstraße (Ergänzungssatzung) hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse(= Anlage 2 der Originalniederschrift) erfolgen mit 30 Ja-Stimmen und 1 Enthaltung.
+- TOP 14.: 1. Änderung des Bebauungsplanes Nr. 24 "Houverath-Mühlenberg"; hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Originalniederschrift) erfolgen mit 30 Ja-Stimmen und 1 Enthaltung.
+- TOP 15.: Feststellung Jahresabschluss zum 31.12.2015 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 16.: Gesamtabschluss 2015 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW -    
+- TOP -: Gesamtabschluss 2015 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 17.: Jahresabschluss 2016 hier: Zuleitung des Entwurfs gem. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 18.: Erlass der Haushaltssatzung für das Haushaltsjahr 2017 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2025 hier: Haushaltsverfügung des Landrates des Kreises Euskirchen als untere staatliche Verwaltungsbehörde vom 29.12.2016 - Einstimmiger Beschluss:
+- TOP 19.: Wiederwahl einer Schiedsperson - Einstimmiger Beschluss:
+- TOP 20.: Neuwahl einer Schiedsperson hier: Vorstellung der Bewerber -    
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Bekanntgabe der über-und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i.V. mit § 17 Abs. 2 der Haupsatzung für das 2. Halbjahr 2016
+- TOP 21.2: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und der Bürgermeisterin
+- TOP 21.3: Verlegung Betriebsausschuss "Forstbetrieb der Stadt Bad Münstereifel"
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Neuwahl einer Schiedsperson - 1.) Herr Winfried Münch, Karpfenstr. 1c, Bad Münstereifel-Kolvenbach   0 Stimmen2.) Herr Ferdinand Reinhard, Jakob-Katzfey-Str. 4, Bad Münstereifel    0 Stimmen3.) Herr Klaus Schneider, Bergstr. 26, Bad Münstereifel14 Stimmen4.) Herr Klaus-Peter Zink, Loi
+- TOP 2.: Städtisches Grundstück in Arloff, Unter den Linden; hier: Verkauf - Einstimmiger Beschluss:
+- TOP 3.: Verkauf eines Grundstücks in Bad Münstereifel, Marquardstraße - Beschluss mit 30 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 4.: Verkauf von Grundstücksflächen in der südlichen Vorstadt - Beschluss mit 20 Ja- und 11 Nein-Stimmen:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Ausscheiden von Herrn Kämmerer Hans Orth
