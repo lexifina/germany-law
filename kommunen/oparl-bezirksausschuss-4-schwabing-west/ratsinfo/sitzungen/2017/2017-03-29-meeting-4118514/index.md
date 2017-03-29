@@ -1,0 +1,146 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-03-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118514
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118514
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.2.2.: Bücherschrank Ackermannbogen: Ortstermin mit Baureferat und Bezirksinspektion
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.8.: Weiteres Vorgehen bei der Vermeidung von unerlaubten Durchfahrten durch die Georg-Birk-Straße
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Seniorenvertreter: Barrierefreier Zugang zu Arztpraxen
+- TOP 1.2.: Markthändler: Toiletten Elisabethmarkt
+- TOP 2.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. MobilSpielfest am 09.04.2017 Az. 0262.0-4-0165
+- TOP 2.2.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2017-2021 (vgl. TOP D 2.3 und E 2.2.2)
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Gärtnerei Stängle/Limmer in Kooperation mit der Naturabenteurer Gbr 20 Naturführungen von Mitte April - Dezember 2017 Az. 0262.0-4-0167
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Budget: Bewilligungsbescheid Elternbeirat Grundschule Bayernplatz
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Einsätze der Münchner SommerSpielAktion 2017 im Stadtbezirk 4
+- TOP 3.3.2.: KITA-Jahresstatistik 2016, Onlinebefragung, Bekanntgabe im Bildungs- sowie Kinder- und Jugendhilfeausschuss am 21.03.2017: Sitzungsvorlagennummer 14-20 / V 08203
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: BA 8 Schwanthalerhöhe: Erinnern statt Vergessen – Den Ereignissen 1918/1919 von der Monarchie zur Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken!“
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Aufstellung von Zeitungsentnahmegeräten für die „tz“ an den Standorten Fallmerayerstr. 23 / Ecke Clemensstraße, Destouchesstr. 81 und Hiltenspergerstr. 80
+- TOP 2.1.2.: Pündterplatz 8, „Two in One“: Aufstellung von neuen Verkaufseinrichtungen
+- TOP 2.1.3.: Hohenzollernstr. 31 a, „Veronika Bond“, Aufstellung einer neuen Verkaufseinrichtung
+- TOP 2.1.4.: Pündterplatz 8, „Two in One“: Genehmigung einer Kleinst-Freischankfläche
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Evangelisch-Lutherische Kirchengemeinde Kreuzkirche Konzert zum Karfreitag am 14.04.2017 Az. 0262.0-4-0166
+- TOP 2.2.3.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Aufstellung eines Infopoints am 08.07.2017 AZ: 0262.0-4-0168
+- TOP 2.3.1.: Veranstaltungen des Sportamts im Luitpoldpark ab Mai 2017 a) Fit im Park täglich von 8.00 Uhr bis 8.30 Uhr und von 18 bis 20 Uhr b) Spielnachmittage jeden Sonntag 14.30 Uhr bis 18 Uhr
+- TOP 2.3.2.: Spielaktionen in Grünanlagen a) MobilSpiel-Fest am 09.04.2017 im Luitpoldpark b) Wasserspielbus vom 27. bis 29.07.2017 im Ackermannbogen c) Herbstspielfest am 01.10.2017 im Luitpoldpark d) Geschichtenfestival „City Stories“ vom 13. bis 16.06.2017 im Luitpoldpark
+- TOP 2.3.3.: Veranstaltungen der Nachbarschaftsbörse am Ackermannbogen a) AktivFerien vom 11. bis 14.06.2017 auf der großen Wiese und am Bolzplatz b) Quartiersflohmarkt am 01.07.2017 südlich des Rosa-Aschenbrenner-Bogens
+- TOP 2.3.4.: City Stories-Geschichtenfestival vom 13. bis 16.06.2017 im Luitpoldpark
+- TOP 2.3.5.: Familienfest auf dem Spielplatz Deidesheimer Straße/Therese-Studer-Straße am 06.05.2017
+- TOP 2.3.6.: Sportfest des Willi-Graf-Gymnasiums am 27.07.2017 im Luitpoldpark
+- TOP 2.3.7.: Italienischer Markt auf dem Hohenzollernplatz vom 19. bis 22.04.2017
+- TOP 2.3.8.: Stilles Hochzeitsfeuerwerk am 22.04.2017 am Bamberger Haus
+- TOP 2.3.9.: Benefizflohmärkte auf dem Elisabethplatz (29.04., 03.06., 08.07., 05.08., 23.09.2017)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Budget: Bewilligungsbescheid Urbanes Wohnen e.V.
+- TOP 3.3.1.: „Tatort“ am 06.03.2017 am Bayernplatz südlich des Gebäudes Hiltenspergerstr. 76
+- TOP 3.3.2.: „Tatort“ am 06.03.2017 in der Ackermann- und Karl-Theodor-Straße
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Eilentscheidung des Vorsitzenden: Zustimmung zum Antrag zur Aufstellung eines offenen Bücherschranks im Ackermannbogen
+- TOP 3.5.2.: Sondernutzungserlaubnis für Wochenmarkt am Stadtplatz Ackermannbogen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Nachverdichtungsprojekt der Bayerischen Versorgungskammer in der Rümannstr. 21-47
+- TOP 1.2.: Antrag: Belegung und Neubau von Gebäuden auf der West- und der Nordseite des Schwabinger Krankenhauses
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2017-2021 (vgl. TOP B 2.2 und E 2.2.2)
+- TOP 2.1.2.: Vorbescheid Kraepelinstr. 2-16: Neubau einer psychiatrischen Klinik mit 5 Stationen (3 mit regulärem Versorgungsstandard, eine geschlossene und eine Station mit gehobenem Versorgungsstandard, Verwaltung, Forschungsambulanz/Funktionsdiagnostik, Tagklinik, physikalischer Therapie mit Schwimmbad und Sporthalle, Ergotherapie, klinischem Labor und Cafeteria mit dazugehörigen Logistikflächen
+- TOP 2.1.3.: Viktoriastr. 25: Teil-Nutzungsänderung eines Ladengeschäfts in Gastronomie
+- TOP 2.1.4.: Tektur Düsseldorfer Str. 2: DG-Ausbau (6 WE)
+- TOP 2.1.5.: Tektur Herzogstr. 142 „Schwabinger Carré II“: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 2.1.6.: Rosa-Aschenbrenner-Bogen 4, 8 und 11: Errichtung einer Glasüberdachung als Witterungsschutz über dem Laubengangbereich vor den Aufzügen im DG
+- TOP 2.1.7.: Schleißheimer Str. 280 b: Errichtung eines Schlechtwetterschutzes für einen bestehenden Biergarten
+- TOP 2.1.8.: Karl-Theodor-Straße 55, Aufstockung des eingeschossigen Rückgebäudes mit 3 Wohngeschossen, Nutzungsänderung EG von Büro in Wohnen (RGB) sowie 1. OG (ME 1.1) Umbau und Nutzungsänderung
+- TOP 2.1.9.: Tektur Georgenstraße 72: Nutzungsänderung: ehem. Nähschule zu Mehrzweckraum für Kindertagesstätte, brandschutzrechtliche Ertüchtigung mit Veränderung der Rettungswege im Bestandsgebäude
+- TOP 2.1.10.: Vorbescheid Elisabethplatz: Neubau von Marktständen und Tiefgarage
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2.: Giselherstraße 1-7, Dachabbruch, Aufstockung und Anbau von Aufzügen, Antwort des Referates für Stadtplanung und Bauordnung auf das BA-Schreiben vom 29.09.2016
+- TOP 3.1.3.: Kopie des Vorbescheids für das Bauvorhaben Adelheidstr. 16-20 (BA-Stellungnahme vorm 26.01.2017)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Belegung von leer stehenden Wohnungen (z.B. in der Fürstenbergstr. 7): Ergänzung zur Beschlussvorlage für den Stadtrat
+- TOP 3.2.2.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Lasterplage im neuen Viertel am Ackermannbogen
+- TOP 1.2.: Grüne: Effektive Kontrolle von Ersatzpflanzungen
+- TOP 1.3.: Grüne: Eilantrag Feinstaubbelastung (Ziffer 2 aus 02/17 vertagt)
+- TOP 1.4.: Bürger: Straßenreinigung Karl-Theodor-Str. 91-97 und Bayernpark
+- TOP 1.5.: Bürger: Parken an der Kreuzung Isabella-/Agnesstraße
+- TOP 1.6.: Grüne: Radfahren in angemessenem Tempo auf dem Hohenzollernplatz gestatten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Vorschläge für die Aufnahme von Bäumen in die Naturdenkmalliste
+- TOP 2.1.2.: Hohenzollernstr. 61: Fällung einer Sommerbirke
+- TOP 2.1.3.: Kraepelinstr. 2-10: Fällung eines Spitzahorn
+- TOP 2.2.1.: (E) Verdeutlichung der Vorfahrtsregelung „Rechts vor Links“ in der Winzererstraße Ecke Mitterwieserstraße durch Verkehrsschild oder Fahrbahnmarkierung
+- TOP 2.2.2.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2017-2021 (vgl. TOP B 2.2 und D 2.3)
+- TOP 2.2.3.: Planfeststellung für das Vorhaben „Straßenbahngleiserneuerung mit Lageanpassung der Wendeschleife Petuelring“
+- TOP 2.2.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing-West Widmung eines platzartigen Bereiches der Petra-Kelly-Straße
+- TOP 2.2.5.: (E) Freigabe der Brunnerstraße für den gegenläufigen Radverkehr
+- TOP 2.2.6.: Einrichtung einer Hotelanfahrtszone in der Petra-Kelly-Str. 4 (Motel One)
+- TOP 2.2.7.: Einrichtung einer Anfahrtszone an der Kindertageseinrichtung Isoldenstr. 17
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Fußgängerüberweg über die Friedrichstraße an der Kreuzung mit der Türken- und Georgenstraße (Antwort des KVR auf BA-Stellungnahme vom 24.11.2016)
+- TOP 3.1.2.: Fahrkartenverkauf am Stadtplatz des Ackermannbogens
+- TOP 3.1.3.: Blindengerechter Ausbau des Hohenzollernplatzes (Zwischennachricht des Baureferats zum BA-Antrag Nr. 14-20/B 03059 vom 23.11.2016)
+- TOP 3.1.4.: Stadtplatz Ackermannbogen: Durchsetzung des Durchfahrverbots (Antwort des KVR auf BA-Schreiben vom 26.01.2017)
+- TOP 3.1.5.: Gefährdung von Fußgängern an der Trambahnhaltestelle Barbarastraße und an der Kreuzung Winzerer-/Schwere-Reiter-Straße (Antwort des KVR auf BA-Schreiben vom 26.01.2017)
+- TOP 3.2.1.: Genehmigung zur Fällung einer Esche in der Angererstr. 20-24
+- TOP 3.2.2.: Ablehnungsbescheid für die beantragte Fällung eines Bergahorn in der Römerstr. 14
+- TOP 3.3.1.: Einrichtung von absoluten Haltverboten an der Kreuzung Georgen-/Zentnerstraße
+- TOP 3.3.2.: Aufhebung der Stellplätze für Motorräder südlich Schleißheimer Str. 173-179
+- TOP 3.3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes Schleißheimer Str. 171
+- TOP 3.3.4.: Erweiterung eines Fernwärmebauwerks in der Herzogstr. 49
+- TOP 3.3.5.: Baustelleneinrichtung an der Ackermannstraße (01.03.2017 bis 01.05.2018)
+- TOP 3.3.6.: Baustelleneinrichtung an der Ackermannstraße Höhe Gustav-Landauer-Bogen (13.03. bis 28.07.2017)
+- TOP 3.3.7.: Öffnung der in Richtung Süden einbahngeregelten Egmontstraße für den gegenläufigen Radverkehr
+- TOP 3.3.8.: Baustelleneinrichtung am Centa-Herker-Bogen 54 (Ostseite) (05. bis 30.04.2017)
+- TOP 3.3.9.: Baustelleneinrichtungen in der Rümann- und Isoldenstraße : Bau von Fahrbahn und Gehwegen sowie Ausbau der Bushaltestellen Klopstockstraße (18.04. bis 28.07.2017)
+- TOP 3.3.10.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze (Anlehnen), u.a am Kurfürstenplatz vor Hausnummer 5
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Infoflyer der Stadtwerke zum Stromprojekt Kathi-Kobus-Straße
+- TOP 3.4.2.: Infoflyer der Stadtwerke zum Neubau des Umspannwerks Arcisstr. 68 (3. Bauabschnitt)
+- TOP 3.4.3.: Infoflyer der Stadtwerke zum Stromprojekt Rümannstraße
+- TOP 3.4.4.: Infoflyer der Stadtwerke zum Stromprojekt Krumbacher Straße
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
