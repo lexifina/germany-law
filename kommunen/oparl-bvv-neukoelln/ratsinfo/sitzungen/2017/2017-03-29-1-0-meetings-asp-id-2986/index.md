@@ -1,0 +1,100 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-03-29T17:10:00+02:00
+- Ende: 2017-03-29T23:10:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2986
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2986
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl der Mitglieder in den Beirat für Migrationsangelegenheiten - gewählt
+- TOP 6.2: Wahl von Patientenfürsprecher/innen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeaussschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeaussschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Mehr Kitaplätze nötig! - beantwortet
+- TOP 9.2: Vorbildfunktion der Bezirksbürgermeisterin - beantwortet
+- TOP 9.3: Europapreis - beantwortet
+- TOP 9.4: Zustand der Doppelstocksporthalle im Efeuweg 28 und Buckower Damm 282 nach Auszug der aus sicheren Drittländern eingereisten Migranten - beantwortet
+- TOP 9.5: Viel zu wenig neue Kitaplätze 2016 in Neukölln - beantwortet
+- TOP 9.6: Bildungsstandort Campus Efeuweg - beantwortet
+- TOP 9.7: Weniger Bedarf an Schulen? - schriftlich beantwortet
+- TOP 9.8: Erhalt der Kinderstube der Natur im Comenius-Gartens - schriftlich beantwortet
+- TOP 9.9: „Parkplätze“ vor der Jahn-Sporthalle - schriftlich beantwortet
+- TOP 9.10: Verlängerung U7 zum BER - schriftlich beantwortet
+- TOP 9.11: Teure Sanierung Krugpfuhlsiedlung - schriftlich beantwortet
+- TOP 9.12: Neuorientierung der Carl-Legien-Schule - schriftlich beantwortet
+- TOP 9.13: Zustand Waßmannsdorfer Chaussee - schriftlich beantwortet
+- TOP 9.14: Furkan e.V. - schriftlich beantwortet
+- TOP 9.15: Spielplatz Robin Hood in der Rudower Gartenstadt – defekte Wasseranlage - schriftlich beantwortet
+- TOP 9.16: Erdarbeiten auf dem Grundstück Karl-Marx-Straße 269-273 - schriftlich beantwortet
+- TOP 9.17: Schändungen von und Angriffe auf Kirchen in Berlin Neukölln - schriftlich beantwortet
+- TOP 9.18: Hisbollah und Hamas in Neukölln - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Maserninfektionen in Neukölln - beantwortet
+- TOP 10.2: Ein Hauptstadtflughafen braucht auch eine Hauptstadtanbindung! Für eine Verlängerung der U7 bis zum BER - mit Änderungen in der BVV beschlossen
+- TOP 10.3: Müll-Chaos in Neukölln - beantwortet
+- TOP 10.4: Drogenkonsum am U- und S-Bahnhof Neukölln - vertagt
+- TOP 10.5: Öffentl. Veranstaltung Bauvorhaben südl. Mariendorfer Weg - vertagt
+- TOP 10.6: Fahrradplätze Rathaus - vertagt
+- TOP 10.7: Beleuchtung am U- und S-Bahnhof Neukölln - vertagt
+- TOP 10.8: Political correctness: „Index der belasteten Ausdrücke“ - vertagt
+- TOP 10.9: Geschichtliche Aufarbeitung Wissmannstraße - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Änderung der GO §28 - vertagt
+- TOP 11.2: ÖPNV-Anpassung Gerlinger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Berichte der Patientenfürsprecherinnen 2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: GO - Beteiligungsrechte gemäß Berliner Seniorenmitwirkungsgesetzes - zurückgezogen
+- TOP 11.5: Antrag zur Geschäftsordnung - vertagt
+- TOP 11.6: GO - Arbeitsweise der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Antrag zur Geschäftsordnung III - vertagt
+- TOP 11.8: GO - Redaktionelle Änderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Antrag zur Geschäftsordnung IV - vertagt
+- TOP 11.10: Asbestregister und -sanierung durchführen - vertagt
+- TOP 11.11: Wahlrecht für Obdachlose sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Zukunft der Flüchtlingsunterkunft Gerlinger Straße - beantwortet
+- TOP 12.2: Instandhaltung von Straßen und Gehwegen von 2011 - 2016 - vertagt
+- TOP 12.3: Gymnasien bei der Inklusion in die Pflicht nehmen - vertagt
+- TOP 12.4: Schwerlastanlieferungen von Unternehmen in Neukölln - vertagt
+- TOP 12.5: Städtebauförderung „Zukunft Stadtgrün“ beantragen - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Diskriminierung von Musliminnen mit Kopftuch - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Jahresbericht rechtsextreme Aktivitäten in Neukölln - vertagt
+- TOP 14.2: Begrünte Randstreifen sind keine Parkbuchten - überwiesen
+- TOP 14.3: Thomashöhe / Lessinghöhe – sicher hin und zurück - überwiesen
+- TOP 14.4: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - überwiesen
+- TOP 14.5: Drogenkonsum- und Suchtberatungsangebot - vertagt
+- TOP 14.6: Konzept zur Übernahme von Mietschulden - überwiesen
+- TOP 14.7: Ausschilderung Öffentliche Toilette - überwiesen
+- TOP 14.8: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - überwiesen
+- TOP 14.9: Einbahnstraße für den Rad-Gegenverkehr öffnen - überwiesen
+- TOP 14.10: Maßnahmen am Werner-Seelenbinder-Grab - überwiesen
+- TOP 14.11: Eingeschränktes Halten in der Köpenicker Straße im Eingangsbereich der Kita Sausewind - überwiesen
+- TOP 14.12: Hinweisschild erneuern – so werden sie auch gefunden - überwiesen
+- TOP 14.13: Fahrbahnmarkierung in der Köpenicker Straße erneuern - überwiesen
+- TOP 14.14: Aufklärungskampagne zu Masernimpfung - überwiesen
+- TOP 14.15: Gehweg in der Köpenicker Straße ab Eingang Schmiedeteich bis Alt-Rudow - überwiesen
+- TOP 14.16: City-Toiletten sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Sozialmissbrauch verhindern - überwiesen
+- TOP 14.18: Familienfreundliche Kommune Neukölln - überwiesen
+- TOP 14.19: Explizite Erwähnung der islamischen Rechtsordnung sowie der Widersprüche zur FDGO im Rechtskundekurs für Asylbewerber - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Baumnachpflanzungen am Buckower Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
