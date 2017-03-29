@@ -1,0 +1,73 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-03-29T17:00:00+02:00
+- Ende: 2017-03-29T19:32:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13195
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13195
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289323.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289323.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289323.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Wohnungssituation im Stadtbezirk 6
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Vorstellung der Genehmigungsplanung "Renaturierung Kittelbach"
+- TOP 6: Parken am Düsseldorfer Flughafen (Parkvogel)
+- TOP 7: Planfeststellungsverfahren für das Vorhaben Rhein-Ruhr-Express Planfeststellungsabschnitt 3.0 - Empfehlung einstimmig beschlossen
+- TOP 8: Bebauungsplan-Vorentwurf Nr. 06/004 - Nördlich Westfalenstraße (Nordteil) -
+- TOP 9: Gutachterverfahren beiderseits Vogelsanger Weg - Kenntnisgabe, weitere Vorgehensweise - Empfehlung einstimmig beschlossen
+- TOP 10: Graf-Recke-Straße - Fußgängerüberweg - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Dringlichkeitsbeschluss Graf-Recke-Straße Erweiterungsbau französische Schule - einstimmig beschlossen
+- TOP 13: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 14: Anfrage CDU/FDP: REWE Gelände Reitzensteinkaserne - schriftlich beantwortet
+- TOP 15: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 16: Anfrage BÜ90/GRÜ: Quartiersplatz Nördliche Westfalenstraße - vertagt
+- TOP 17: Anfrage FDP: Freiflächen Mühlenbroich - schriftlich beantwortet
+- TOP 18: Anfrage FDP und Fr. Schentek (CDU): Geschwindigkeit Am Röttchen - schriftlich beantwortet
+- TOP 19: Anfrage Charisius und Tauschke (CDU): GGS Max-Halbe-Straße - schriftlich beantwortet
+- TOP 20: Anfrage CDU: Mühlenbroich Schausteller - vertagt
+- TOP 21: Anfrage CDU: Gebiet An der Piwipp - vertagt
+- TOP 22: Anfrage Fr. Schentek, Fr. Charisius, H. Wieroszewsky: Pflanzringe - schriftlich beantwortet
+- TOP 23: Antrag SPD: Tempo 30 Thewissenweg - einstimmig beschlossen
+- TOP 24: Interfraktioneller Antrag: Flughafenparker - einstimmig beschlossen
+- TOP 25: Interfraktioneller Antrag: Trinkbrunnen - einstimmig beschlossen
+- TOP 26: Antrag FDP und CDU: Reduzierung Höchstgeschwindigkeit "Am Röttchen" - einstimmig beschlossen
+- TOP 27: Antrag FDP und CDU: Parkflächenbeschilderung Eingang Am Röttchen zum Unterrather Friedhof - einstimmig beschlossen
+- TOP 28: Antrag SPD: Park und Ride Rath-S - einstimmig beschlossen
+- TOP 29: Antrag CDU: Untersuchung Umwandlung Bürogebäude für schulische Nutzung - einstimmig beschlossen
+- TOP 30: Antrag BÜ 90/DIE GRÜNEN: Lärmschutz Kürtenstraße Autobahnbrücke - einstimmig beschlossen
+- TOP 31: Antrag BÜ90/DIE GRÜNEN: Gärten der Integration - einstimmig beschlossen
+- TOP 32: Antrag BÜ 90/DIE GRÜNEN: Heckenpflanzung Hamborner Straße - einstimmig beschlossen
+- TOP 33: Unterhaltung Grundstücke und bauliche Anlagen Bezirk 6 - einstimmig beschlossen
+- TOP 34: Fahnenmast Aaper Wald - einstimmig beschlossen
+- TOP 35: Bauunterhaltungsmittel 2017 - einstimmig beschlossen
+- TOP 36: Bauunterhaltungsmittel 2017 - Teil A "Schulen" - einstimmig beschlossen
+- TOP 37: Bordsteinabsenkung Spatenstraße Richtung Roseggerstraße - einstimmig beschlossen
+- TOP 38: Zuschussvergabe 2017 - BSV Rath - einstimmig beschlossen
+- TOP 39: Zuschussvergabe 2017 - St. Seb. Schützen Unterrath - einstimmig beschlossen
+- TOP 40: Zuschussvergabe 2017 - Antrag Kirchengemeinde Heilige Familie - einstimmig beschlossen
+- TOP 41: Zuschussvergabe 2017 - Kirchengemeinde Heilige Familie - einstimmig beschlossen
+- TOP 42: Beschlusskontrolle Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 43: MdV - Info über Baumfällungen - zur Kenntnis genommen
+- TOP 44: MdV - Anpassung Straßenbahnkapazität - zur Kenntnis genommen
+- TOP 45: MdV - OSD im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 46: MdV - Ascheplatz AGON 08 - zur Kenntnis genommen
+- TOP 47: MdV - Kreuzung Kalkumer Straße/An der Piwipp - zur Kenntnis genommen
+- TOP 48: MdV - Wohnraum Zeisigweg/Am Roten Haus - zur Kenntnis genommen
+- TOP 49: MdV - GAT Deikerstraße - zur Kenntnis genommen
+- TOP 50: MdV - GAT Kartäuser Straße - zur Kenntnis genommen
+- TOP 51: MdV - GAT Zur Weide - zur Kenntnis genommen
+- TOP 52: MdV - Erhalt/Umrüstung Gaslaternen - zur Kenntnis genommen
+- TOP 53: MdV - Fußgängerinsel Eckenerstraße/Am Roten Haus - zur Kenntnis genommen
+- TOP 54: MdV - Sportplatz Herdecker Straße - zur Kenntnis genommen
+- TOP 55: MdV - erweiterte Öffnungszeiten Jugendfreizeiteinrichtungen - zur Kenntnis genommen
+- TOP 56: MdV - ISS Dome Veranstaltungsort - zur Kenntnis genommen
