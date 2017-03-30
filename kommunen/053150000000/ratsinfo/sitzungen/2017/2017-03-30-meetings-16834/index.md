@@ -1,0 +1,81 @@
+# 23. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-03-30T15:10:00+02:00
+- Ende: 2017-03-30T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16834
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16834
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Werbenutzungsvertrag: Kriterien für digitale Werbung - Kenntnis genommen
+- TOP 1.2: Umgestaltung des Ebertplatzes - Kenntnis genommen
+- TOP 1.3: Weitere Wohnraumpotenziale in Köln - Kenntnis genommen
+- TOP 1.4: Parkstadt Süd; Konzept und Umsetzung eines Rahmenplanungsbeirats; Einrichtung eines Bürgerbüros - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Standortsuche für ein neues Frischezentrum
+- TOP -: Standortsuche für ein neues Frischezentrum - zurückgestellt
+- TOP 2.2: Welchen planungs- und genehmigungsrechtlichen Rahmenbedingungen unterliegt ein Ausbau des RheinEnergie-Stadions?
+- TOP 3: Anträge
+- TOP 3.1: Bekanntmachung des Städtebauförderprogramms „Investitionspakt Soziale Integration im Quartier NRW 2017“ - geändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 4.1.1: Wettbewerb Neubau des LVR-Hauses am Ottoplatz/Südlich Ottoplatz in Köln-Deutz; hier: Wettbewerbsverfahrensergebnis
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Gestaltung der Außenanlagen der Archäologischen Zone - zurückgestellt
+- TOP 5.2: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - zurückgestellt
+- TOP 5.3: Kooperatives Werkstattverfahren Hallen Kalk; hier: Verfahrensdefinition und Feststellung des Bedarfes - geändert beschlossen
+- TOP 5.4: Programm "Starke Veedel - Starkes Köln" - ungeändert empfohlen
+- TOP 5.5: Temporäre Gestaltung der Platzfläche REWE-Platz an der Piccoloministraße in Köln-Holweide - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Evaluierung der Wohnraumschutzsatzung zwei Jahre nach Inkrafttreten - mit Änderungen empfohlen
+- TOP 6.1.1: Änderungsantrag der SPD-Fraktion vom 20.01.2017 - Sache ist erledigt
+- TOP 6.1.2: Änderungsantrag zu Punkt 6.1: Evaluierung der Wohnraumschutzsatzung zwei Jahre nach Inkrafttreten 2181/2016 - geändert beschlossen
+- TOP 6.2: Teilplan 1302 - Wasser und Wasserbau; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - zurückgestellt
+- TOP 6.3: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.3.1: Änderungsantrag der SPD-Fraktion vom 09.03.2017 - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Sanierungsgebiet 'Umfeld Kulturzentrum am Neumarkt', hier: Aufhebung der Sanierungssatzung - ungeändert empfohlen
+- TOP 6.5: Das "Kooperative Baulandmodell Köln - Richtlinie zur Anwendung in Bebauungsplanverfahren"; hier: Fortschreibung; geänderte Fassung gemäß Beschluss des Rates vom 14.02.2017 - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Mertener Straße in Köln-Marienburg; städteb.Planungskonzept; Anhörung der Bezirksvertretung Rodenkirchen zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Am Bahnhof in Köln-Porz-Wahn; VEP; Beschluss über die Einleitung (vorhabenbezogener Bebauungsplan) und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10.2: Noellstraße in Köln-Mülheim; VEP; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.3: Zum Dammfelde in Köln-Widdersdorf; VEP; Einleitungsbeschluss (im beschleunigten Verfahren) - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplans Arbeitstitel: "Kalk Post" in Köln-Kalk - ungeändert beschlossen
+- TOP 10.5: Kirchenzentrum Derfflingerstraße in Köln-Weidenpesch; VEP; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: 62459/03; Vitalisstraße in Köln-Müngersdorf, 2. Änderung; Beschluss über Stellungnahmen sowie Satzungsbeschluss - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Möbelmarkt in Köln-Poll; VEP; Aufhebung des Einleitungsbeschlusses
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: 66489/02; Teilaufhebung des Durchführungsplanes 66489/02; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.2: 63475/01 VEP; Häuschensweg in Köln-Bickendorf; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.3: Gewerbeflächenbereitstellungskonzept Aktualisierte Übersicht Stand 12/2016 - Kenntnis genommen
+- TOP 17.4: Zeitlicher Ablauf des Freiraumplanerischen Wettbewerbs Parkstadt Süd-Teilbereich Eifelwall - Kenntnis genommen
+- TOP 17.5: StadtLabor für Kunst im öffentlichen Raum 2016/2017 - Kenntnis genommen
+- TOP 17.6: Einrichtung eines Wasserbusliniensystems - Kenntnis genommen
+- TOP 17.7: Neuer Kölner Mietspiegel (Stand: Januar 2017) - Kenntnis genommen
+- TOP 17.8: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2016 - Kenntnis genommen
+- TOP 17.9: Stadtentwicklungskonzept Wirtschaft - Kenntnis genommen
+- TOP 17.10: Weitere Informationen über die Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 17.11: Förderung der Elektromobilität in Köln - Kenntnis genommen
+- TOP 17.12: Sachstand zu den Hallen Kalk - Kenntnis genommen
+- TOP 17.13: Umsetzung STEK Wohnen - Kenntnis genommen
+- TOP 17.14: Ulrich-Haberland-Haus - zurückgestellt
+- TOP 17.15: Rotes Haus - Kenntnis genommen
+- TOP 17.16: Neue Kölner Statistik 2/2017 - Kenntnis genommen
+- TOP 17.17: Vorstellung des Gesamtkonzeptes zur baulichen Entwicklung des Krankenhauses Porz am Rhein für die medizinisch ambulante Versorgung bis 2040 - zurückgestellt
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
