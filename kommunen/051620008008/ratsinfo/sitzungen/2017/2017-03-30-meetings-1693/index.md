@@ -1,0 +1,118 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-03-30T18:00:00+02:00
+- Ende: 2017-03-30T20:38:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1693
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1693
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Änderung der Öffnungszeiten des Bürgerbüros durch interne Umstrukturierung (Antrag Nr. 16/17) - einstimmig
+- TOP 2.1.2: Umgestaltung Platz Schubertstraße (Antrag Nr. 40/17) - einstimmig
+- TOP 2.1.3: Bushaltestelle Neurath Kirche (Antrag Nr. 41/17) - einstimmig
+- TOP 2.1.4: Grundschulen im Stadtgebiet (Antrag Nr. 42/17) - einstimmig
+- TOP 2.1.5: Kreisverkehr L361 / Auf den Hundert Morgen (Antrag Nr. 43/17) - einstimmig
+- TOP 2.1.6: Strukturiertes Baulandmanagement (Antrag Nr. 44/17) - einstimmig
+- TOP 2.1.7: Reparatur Schwarzdecke Hauptstraße Neuenhausen (Antrag Nr. 45/17) - einstimmig
+- TOP 2.1.8: Verbesserung des Fußweges Königslindenstraße Richtung Halde (Antrag Nr. 46/17) - einstimmig
+- TOP 2.1.9: Sicherheit durch mehr Beleuchtung (Antrag Nr. 47/17) - einstimmig
+- TOP 2.1.10: Änderung FNP / Bauleitplanung Kolpingstraße Südstadt (Antrag Nr. 48/17) - einstimmig
+- TOP 2.1.11: Angebot im Bereich der Offenen Ganztagsschulen (Antrag Nr. 51/17) - einstimmig
+- TOP 2.1.12: Kreuzung L116/ Gierather Weg/ Grubenrandstraße (Antrag Nr. 52/17) - einstimmig
+- TOP 2.1.13: Angebot im Bereich der Offenen Ganztagsschulen (Antrag Nr. 53/17) - einstimmig
+- TOP 2.1.14: Befestigung Schützenplatz Frimmersdorf (Antrag Nr. 49/17) - einstimmig
+- TOP 2.2: SPD
+- TOP 2.3: UWG
+- TOP 2.4: FDP
+- TOP 2.4.1: Verwendungszwecke Stellplatzablösesatzung durch Novellierung (Antrag Nr. 27/17) - einstimmig
+- TOP 2.4.2: Zustand der Hauptstraße in Neuenhausen (Antrag Nr. 28/17) - einstimmig
+- TOP 2.4.3: Präsentation des Mängelmelders Grevenbroich (Antrag Nr. 29/17) - einstimmig
+- TOP 2.4.4: Kommunalpolitiker lehnen Rot-Grüne Zwangsaufwandsentschädigungen ab (Antrag Nr. 30/17) - einstimmig
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.5.1: Jährlicher Energiebericht/ Ergebnisse EEA (Antrag Nr. 34/17) - einstimmig
+- TOP 2.5.2: Verzicht auf PVC-Böden (Antrag Nr. 35/17) - einstimmig
+- TOP 2.6: ABG
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.7.1: Erstellung Problemimmobilienkatasters (Antrag Nr. 37/17) - einstimmig
+- TOP 2.7.2: Ausschussumbesetzung (Antrag Nr. 38/17) - einstimmig
+- TOP 2.7.3: Prüfauftrag Skateranlage (Antrag Nr. 39/17) - einstimmig
+- TOP 2.7.4: Ausschussumbesetzungen (Antrag Nr. 32/17) - einstimmig
+- TOP 2.8: Die Linke/Piraten
+- TOP 2.8.1: Krankenhaus (Antrag Nr. 31/17) - einstimmig
+- TOP 2.9: FBG
+- TOP 2.10: sonstige Anträge
+- TOP 2.10.1: Änderung der stellv. Besetzung des Jugendhilfeausschusses der Stadt Grevenbroich - einstimmig
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Umsetzung Dorfentwicklungspläne (Anfrage Nr. 50/17) - Kenntnisnahme
+- TOP 3.2.2: Quartiersmanager (Anfrage Nr. 54/17) - Kenntnisnahme
+- TOP 3.2.3: Rodung von Bäumen und Sträuchern (Anfrage Nr. 55/17) - Kenntnisnahme
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Sportstättenkonzept (Anfrage Nr. 36/17) - Kenntnisnahme
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.9: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 4.1: Genehmigung der Dringlichkeitsentscheidung - Kommandowagen - einstimmig
+- TOP 5: Mittelbereitstellungen
+- TOP 5.1: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2016 - einstimmig
+- TOP 6: Flüchtlings- und Integrationsangelegenheiten
+- TOP 6.1: Beschwerde über die Flüchtlingsunterkunft Neuenhausen, Bruchstr. 15 - 19 - einstimmig
+- TOP 6.2: Unterbringung von Asylbewerbern - einstimmig
+- TOP 7: Satzung über die Erhebung von Kostenersatz, Entgelten und Gebühren bei Einsätzen der Feuerwehr - einstimmig
+- TOP 8: Änderung der Sondernutzungssatzung der Stadt Grevenbroich - einstimmig
+- TOP 9: Satzung über die abweichende Erhebung von Gebühren - vertagt
+- TOP 10: Fraktionszuwendungen ab 2017 - einstimmig
+- TOP 11: Leitbild Grevenbroich 2030 - mehrheitlich bei
+- TOP 12: Ersatzbenennung in die Delegiertenversammlung des Erftverbandes - einstimmig
+- TOP 13: Vertretung der Stadt Grevenbroich in wirtschaftlichen Unternehmen und Gremien Dritter - einstimmig
+- TOP 14: Bericht zur Fortschreibung des Sanierungsplans (Stichtag 31.12.2016) - einstimmig
+- TOP 15: Verfügung der Aufsichtsbehörde zum Haushalt 2017 - einstimmig
+- TOP 16: Gesamtabschlüsse 2011-2015 - einstimmig
+- TOP 17: Spenden/Sponsoring 2016 - einstimmig
+- TOP 18: Widmung "Am Tolles" - einstimmig
+- TOP 19: Teilnahme an der Kampagne „Fairtrade Town“ - einstimmig
+- TOP 20: Entscheidung BauA 02.03.2017 - einstimmig
+- TOP 20.1: Kanal- und Straßenbau Königstraße - einstimmig
+- TOP 21: Entscheidung JugendhilfeA 09.03.2017
+- TOP 21.1: Satzung der Stadt Grevenbroich über die Förderung von Kindern in Kindertagespflege - einstimmig
+- TOP 22: Entscheidung PlanungsA 14.03.2017
+- TOP 22.1: Überarbeitung Verwaltungsrichtlinie Bürgerverfügungsfonds - einstimmig
+- TOP 22.2: Aufst.1. Änd. K 12 §13 - einstimmig
+- TOP 22.3: 23. Änd. FNP - Aufst. u. frühz.Öffentl.bet. - einstimmig
+- TOP 22.4: Straßenben. An Mevissen - mehrheitlich bei
+- TOP 22.5: Interkommunale Zusammenarbeit - einstimmig
+- TOP 23: Beantwortung Anträge
+- TOP 24: Beantwortung Anfragen
+- TOP 24.1: (Un)Kontrollierter Einlass von großen Mengen Ab(Prozess-)wasser in das Kanalnetz (Anfrag Nr. 254/16) - einstimmig
+- TOP 24.2: Stellplatzablösebeträge (Anfrage Nr. 304/16) - einstimmig
+- TOP 24.3: Zuwendungen Fitness-Studio für Asylbewerber (Anfrage-Nr. 1/17) - einstimmig
+- TOP 24.4: Externe Gutachten im Jahr 2016 (Anfrage-Nr. 3/17) - einstimmig
+- TOP 24.5: Planungsstopp des interkommunalen Gewerbegebietes (Anfrage Nr. 4/17) - einstimmig
+- TOP 24.6: Beantwortung von Antägen und Anfragen - einstimmig
+- TOP 25: mündliche Anträge/Anfragen
+- TOP 25.1: Sachstandsbericht zum Crowdfunding (Anfrage Nr. 56/17)
+- TOP 25.2: Rodungen an Landstraßen (Anfrage Nr. 57/17)
+- TOP 25.3: Erftarm an der schwarzen Brücke (Anfrage Nr. 58/17)
+- TOP 25.4: Nachfrage zu Antrag Nr. 22/17 - Anwohnerparkausweise
+- TOP 25.5: Geschwindigkeitskontrolle Oel- & Steingasse (Anfrage Nr.59/17)
+- TOP 25.6: Straßenlaterne Am Hammerwerk (Anfrage Nr. 60/17)
+- TOP 25.7: Homepage - Bild Marktplatz (Anfrage Nr. 61/17)
+- TOP 25.8: Installierung einer kontinuierlichen Messung in die RWE-Abwassereinleitstelle an der Energiestraße im Ortsteil Neurath durch RWE-Power (Antrag Nr. 62/17)
+- TOP 25.9: Leuchtstelle Stetiner Straße (Anfrage Nr. 63/17)
+- TOP 25.10: Beschädigung eines Baumes Marktplatz Wevelinghoven (Anfrage Nr. 64/17)
+- TOP 25.11: Tempo 30 - Orkener Straße (Anfrage Nr. 65/17)
+- TOP 25.12: Ratsprotokoll 26.01.2017 (Anfrage Nr. 66/17)
+- TOP 26: Mitteilungen BM
