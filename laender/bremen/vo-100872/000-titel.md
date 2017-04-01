@@ -1,1 +1,1 @@
-# Verordnung über zusätzliche Gegenstände des Wochenmarktverkehrs vom 16. September 1988
+# Verordnung über zusätzliche Gegenstände des Wochenmarktverkehrs in der Stadtgemeinde Bremen vom 3. April 2017
