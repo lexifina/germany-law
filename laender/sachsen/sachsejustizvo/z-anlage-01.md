@@ -10,6 +10,7 @@ Grundbuchsachen | 1. April 2014
 2. | Amtsgericht Chemnitz | Handels-, Genossenschafts -und Partnerschaftsregister | 1. Januar 2007
 Vereinsregister | 1. August 2010
 alle Verfahren mit Ausnahme von Grundbuchsachen | 1. August 2012
+Grundbuchsachen | 1. April 2017
 3. | Amtsgericht Leipzig | Handels-, Genossenschafts- und Partnerschaftsregister | 1. Januar 2007
 Vereinsregister | 1. August 2010
 alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Februar 2012
@@ -28,10 +29,12 @@ Grundbuchsachen | 1. Februar 2015
 15. | Amtsgericht Dippoldiswalde | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. April 2012
 16. | Amtsgericht Meißen | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. April 2012
 17. | Amtsgericht Pirna | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. April 2012
+Grundbuchsachen | 1. Juni 2017
 18. | Amtsgericht Riesa | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. April 2012
 19. | Amtsgericht Auerbach | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Juni 2012
 20. | Amtsgericht Hohenstein-Ernstthal | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Juni 2012
 21. | Amtsgericht Plauen | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Juni 2012
+Grundbuchsachen | 1. Juni 2017
 22. | Landgericht Zwickau | alle Verfahren | 1. Juni 2012
 23. | Sozialgericht Chemnitz | alle Verfahren | 1. Juli 2012
 24. | Sächsisches Landesarbeitsgericht | alle Verfahren | 1. Juli 2012
@@ -43,6 +46,7 @@ Grundbuchsachen | 1. Februar 2015
 30. | Landgericht Chemnitz | alle Verfahren | 1. August 2012
 31. | Sozialgericht Leipzig | alle Verfahren | 1. Oktober 2012
 32. | Amtsgericht Bautzen | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Oktober 2012
+Grundbuchsachen | 1. Juni 2017
 33. | Amtsgericht Hoyerswerda | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Oktober 2012
 34. | Amtsgericht Kamenz | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Oktober 2012
 35. | Amtsgericht Görlitz | alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Dezember 2012
@@ -57,3 +61,6 @@ Grundbuchsachen | 1. Februar 2015
 44. | Arbeitsgericht Leipzig | alle Verfahren | 1. Dezember 2012
 45. | Arbeitsgericht Zwickau | alle Verfahren | 1. Dezember 2012
 46. | Sächsisches Finanzgericht | alle Verfahren | 1. Dezember 2012
+47. | Sächsischer Anwaltsgerichtshof | alle Verfahren | 1. April 2017
+48. | Berufsgericht für die Heilberufe beim Landgericht Dresden | alle Verfahren | 1. April 2017
+49. | Landesberufsgericht für die Heilberufe beim Oberlandesgericht Dresden | alle Verfahren | 1. April 2017
