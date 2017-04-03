@@ -1,0 +1,70 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-03T14:35:00+02:00
+- Ende: 2017-04-03T16:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16835
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16835
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung der mündlichen Anfrage des RM Detjen in der Sitzung des Finanzausschusses - Kenntnis genommen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Sachstandsbericht zur Archäologischen Zone - Kenntnis genommen
+- TOP 2.2: 13. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.4: Kliniken der Stadt Köln gGmbH - zurückgestellt
+- TOP 2.5: Haushaltsplanaufstellung für das Hj. 2018 sowie mittelfristige Finanzplanung bis 2021 - Kenntnis genommen
+- TOP 2.6: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.7: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Antrag der Bezirksvertretung Innenstadt betreffend Stadtklima-/ Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen und Gewässer - ungeändert beschlossen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Teilplan 1302 - Wasser und Wasserbau; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - zurückgestellt
+- TOP 6.2: Teilplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung - zurückgestellt
+- TOP 7.2: Neubau einer Rettungswache in Köln Worringen - ungeändert beschlossen
+- TOP 7.3: Ankauf einer Silber-Jardinière (Entwurf: Henry van der Velde) für das Museum für Angewandte Kunst Köln - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für die Hj. 2016 und 2017 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2016 und 2017. - Kenntnis genommen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 12.2: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 12.3: Überörtliche Prüfung der Informationstechnik der Stadt Köln durch die Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 12.4: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - geändert beschlossen
+- TOP 12.5: Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der SPD-Fraktion betreffend Luftreinhalteplanung Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen von CDU und Bündnis 90/ Die Grünen betreffend Luftreinhalteplanung Stadt Köln, 3786/2016 - ohne Votum in nachfolgende Gremien
+- TOP 12.6: Stadtklima- und Verschönerungsprogramm für die neun Kölner Stadtbezirke - geändert beschlossen
+- TOP 12.7: Förderung der ökumenischen Begegnungsstätte Café Bickolo e.V. im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 12.8: Beitritt zum Bündnis "Kommunen für Biologische Vielfalt e.V." - ungeändert beschlossen
+- TOP 12.9: Errichtung eines Wohnhauses auf dem städtischen Grundstück Josef-Kallscheuer-Straße, 50999 Köln - Sürth, zur Unterbringung von Flüchtlingsfamilien - ungeändert beschlossen
+- TOP 12.10: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - ohne Votum in nachfolgende Gremien
+- TOP 12.11: Sanierung der Bühnen Köln, Planungsbeschluss für Werkstattneubau im Rahmen der Kooperation mit dem WDR auf dem Gelände in Bocklemünd - ohne Votum in nachfolgende Gremien
+- TOP -: Antrag der Gruppe Freie Wähler Köln betreffend Planung Neubau Bühnenwerkstätten; Nachweis, Verantwortlichkeiten und Kostentransparenz - ohne Votum in nachfolgende Gremien
+- TOP -: Antrag der Fraktion Die Linke betreffend Sanierung der Bühnen Köln Planungsbeschluss für Werkstattneubau im Rahmen der Kooperation mit dem WDR auf dem Gelände in Bocklemünd - ohne Votum in nachfolgende Gremien
+- TOP -: Antrag der FDP-Fraktion betreffend Sanierung der Bühnen Köln - Planungsbeschluss für Werkstattneubau im Rahmen der Kooperation mit dem WDR auf dem Gelände in Bocklemünd (DS-Nr. 0512/2017) - ohne Votum in nachfolgende Gremien
+- TOP 12.12: Feinkonzept zur Umsetzung von Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - zurückgestellt
+- TOP 12.13: Förderprojekt "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 12.14: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ohne Votum in nachfolgende Gremien
+- TOP 12.15: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2017/18 - zurückgestellt
+- TOP 12.16: Neufassung der Satzung zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 12.17: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2015 - Beteiligungsbericht 2015 - zurückgestellt
+- TOP 12.18: Beitritt der Stadt Köln zu "d-NRW" - ungeändert beschlossen
+- TOP 12.19: Digital Hub Cologne GmbH: Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 12.20: Kliniken der Stadt Köln gGmbH - ohne Votum in nachfolgende Gremien
+- TOP 12.21: Weiterführung des Projekts "Optimierung von Früherkennung und Versorgung von Kindern und jungen Menschen mit Zeichen einer psychischen Störung" und Anpassung der benötigten Stellenressourcen - ohne Votum in nachfolgende Gremien
+- TOP 12.22: Wirtschaftsplan 2017 der Gebäudewirtschaft der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 12.23: Maßnahmenpaket für Schulbauprojekte - ohne Votum in nachfolgende Gremien
+- TOP 13: Mündliche Anfragen
