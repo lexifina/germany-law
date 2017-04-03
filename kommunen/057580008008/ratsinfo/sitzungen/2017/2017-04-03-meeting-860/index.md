@@ -1,0 +1,53 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Enger
+- Beginn: 2017-04-03T17:30:00+02:00
+- Ende: 2017-04-03T19:00:00+02:00
+- Ort: Rathaus, Bahnhofstraße 44, 32130 Enger, Ratssaal
+- Status: 
+- Gremium: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://enger.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWhtCWq5OL0SefS823LfolU
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/860
+- Quelle: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSOcMye7OLBQMriNUSOd7ky86ZwnrwlePQrUjeEHSUoi/Bekanntmachung_Rat_03.04.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZbHCX7CvmkquMtsAUFhbxcwHqkp5mzMQdTsO2iRMRia/Oeffentliche_Niederschrift_Rat_03.04.2017.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP 1.: Bestimmung eines Ratsmitgliedes zur Mitunterzeichnung der Niederschrift
+- TOP 2.: Niederschrift über die öffentliche Sitzung am 13.02.2017.
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Mitteilungen
+- TOP 5.: Bericht der Verwaltung über Beschlüsse, die noch nicht zum Abschluss gebracht wurden
+- TOP 6.: Einführung und Verpflichtung von nachgerückten Ratsmitgliedern
+- TOP 7.: Neuwahl eines 2. stellv. Bürgermeisters - 27 Ja-Stimme(n), 2 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 8.: Ersatzwahlen zu Ratsauschüssen und sonstigen Gremien - Einstimmig
+- TOP 9.: Ersatzbestimmung für den Ausschussvorsitz "Schule, Jugend und Sport" - 29 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 10.: Vorlagen des Haupt-, Finanz- und Kulturausschusses
+- TOP 10.1: Haushaltssatzung und Haushaltsplan der Stadt Enger für das Haushaltsjahr 2017 einschließlich Finanzplan und Fortschreibung des Haushaltssicherungs-konzeptes; Änderungen - Ohne Abstimmung
+- TOP 10.2: Stellenplan für das Haushaltsjahr 2017 - Ohne Abstimmung
+- TOP 10.3: Eigenkapitalausstattung der Wirtschaftsbetriebe Stadt Enger (WBSE) - Einstimmig
+- TOP 10.4: Feststellung des Jahresabschlusses der Stadt Enger zum 31.12.2015 - Einstimmig
+- TOP 10.5: Feststellung des Gesamtabschlusses der Stadt Enger zum 31.12.2010 - Einstimmig
+- TOP 10.6: Haushalt 2016 Aufhebung der Bewirtschaftungssperre und Bewilligung einer überplanmäßigen Ausgabe bei der Inanspruchnahme Wirtschaftsbetriebe (WBSE) - 21 Ja-Stimme(n), 9 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Vorlagen des Ausschusses für öffentliche Sicherheit, Ordnung und Soziales
+- TOP 11.1: Satzung der Stadt Enger über die Errichtung und Unterhaltung von Übergangswohnheimen und Notunterkünften - Einstimmig
+- TOP 11.2: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen - Einstimmig
+- TOP 12.: Vorlagen des Ausschusses für Schule, Jugend und Sport
+- TOP 12.1: Schulentwicklungsplan für die Stadt Enger - Fortschreibung 2016/2017 bis 2022/2023 - - Einstimmig
+- TOP 12.2: Sanierung des Chemiefachraums am Widukind-Gymnasium Enger - Einstimmig
+- TOP 12.3: Entwicklung der Förderschullandschaft im Kreisgebiet hier: Kostenerstattung an die Stadt Bünde - Einstimmig
+- TOP 13.: Vorlagen des Ausschusses für Stadtplanung, Infrastruktur und Umwelt
+- TOP 13.1: 6. Änderung des Bebauungsplanes Nr. 36 Gewerbegebiet "Auf dem Bruche" a) Beratung und Beschlussfassung über die abgegebenen Stellungnahmen im Rahmen der frühzeitigen Unterrichtung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) sowie der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB über die allgemeinen Ziele und Zwecke der 6. Änderung des Bebauungsplanes Nr. 36 b) Zustimmung zum Entwurf der 6. Änderung des Bebauungsplanes Nr. 36 Gewerbegebiet "Auf dem Bruche" einschließlich Begründung und Umweltbericht. c) Beratung und Beschlussfassung über die Durchführung der öffentlichen Auslegung der Planunterlagen gemäß § 3 Abs. 2 BauGB sowie der Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB - Einstimmig
+- TOP 13.2: Beratung und Beschlussfassung über die Aufstellung des Bebauungsplanes Nr. 89 "Am Brühl" und den Erlass einer Veränderungssperre - Einstimmig
+- TOP 13.3: Beratung und Beschlussfassung zur Aufstellung des Bebauungsplanes Nr. 90 "Meisenpfad" - Einstimmig
+- TOP 13.4: 4. Änderung des Bebauungsplanes Nr. 45 "Bruchfeld" im beschleunigten Verfahren nach § 13 a Baugesetzbuch (BauGB) a) Zustimmung zum überarbeitenen Entwurf der 4. Änderung b) Beratung und Beschlussfassung über die erneute Auslegung des Entwurfs der 4. Änderung sowie die erneute Einholung der Stellungnahmen gemäß § 4 a Abs. 3 BauGB - Einstimmig
+- TOP 14.: Vorlagen des Betriebsausschusses
+- TOP 14.1: Beteiligung der Westfalen Weser Beteiligungen GmbH an der AWINTO Beteiligungs GmbH & Co. KG und deren Komplementärin AWINTO Windportfolio GmbH - Einstimmig
+- TOP 15.: Fraktionsanträge
+- TOP 15.1: Änderung der Hauptsatzung der Stadt Enger hier: Aufwandsentschädigung für Ausschussvorsitzende -Antrag der SPD-Fraktion vom 09. März 2017- - 29 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 16.: Schriftliche Anfragen
+- TOP 17.: Mündliche Anfragen
+- TOP 18.: Verschiedenes
+- TOP 19.: Beschlussfassung über die Behandlung der Punkte 20 bis 28 in nichtöffentlicher Sitzung
