@@ -1,0 +1,71 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-04-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4265993
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4265993
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.3: Vorstellung Projekt Mehr Gruen für Menzing von Green City
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, hier Einzelfällungsanträge: Mangstr. 9, Zittauer Str. 27, Riederstr. 48
+- TOP 2.2.1.: Feinstaubbelastung Eversbuschstraße
+- TOP 2.2.2.: Grundstück Manzostraße
+- TOP 2.2.3.: Mehrgenerationenhaus Manzostraße
+- TOP 2.2.4.: Durchfahrt Lkws Richtung Krauss Maffei in Wohngebiet Von-Reuter-Straße
+- TOP 2.2.5.: Wohnen für Alle Franz-Albert-Straße
+- TOP 2.2.6.: Wohnen für Alle Franz-Albert-Straße
+- TOP 2.2.7.: Gedenkzug
+- TOP 5.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmlaverordnung der Landeshauptstadt München
+- TOP 5.2.: Haltverbot und Tempo 30 in der Menzinger Straße
+- TOP 5.3.: Errichtung Anbau mit Appartement und Doppelgarage an ein Einfamilienhaus -TEKTUR Angerlohstr. 6 - 6a
+- TOP 5.4.: Neubau eines Wohnhauses (4WE) mit Doppel- und Duplexgarage - TEKTUR Prantlstr. 14
+- TOP 5.5.: Neubau eines Doppel- und eines Einfamilienhauses mit Garage - TEKTUR Behringstr. 109a
+- TOP 5.6.: Neubau eines Mehrgenerationenhauses (2WE) mit Doppelgarage Waldhornstraße
+- TOP 5.7.: Anbau an eine Villa und Umbau der Garage Pasteurstr. 2
+- TOP 5.8.: (E) Erhöhung der Verkehrssicherheit in der Naglerstraße
+- TOP 5.9.: Maibaumaufstellung mit Maifeier in der Eversbuschstraße am 01.05.17
+- TOP 5.10.: Austausch Lichtsignalanlage Eversbuschstraße / Otto-Warburg-Straße
+- TOP 5.11.: Austausch Lichtsignalanlage Otto-Warburg-Straße / Zum Schwabenbächl
+- TOP 5.12.: Eröffnung Kultur- und Spielpfad am 23.06.17 in Grünanlage Hitlstraße
+- TOP 5.13.: Absolutes Haltverbot Von-Reuter-Straße / Angerlohstraße
+- TOP 6.1.: (U) Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2016 – 2020 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 6.2.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 6.3.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 6.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Anita-Augsburg-Preis 2017
+- TOP 9.1.: Schreiben Direktorium vom 16.03.17: Grünflächenversorgung in München, Stadtratsanfrage Nr. 00848
+- TOP 9.2.: Schreiben vom Kommunalreferat vom 16.03.17: Zufahrt zu privatem Gartengrundstück,Flurnr. 367/4, Gemarkung Allach und Zufahrt zu den dort umliegenden bewirtschafteten privaten Flächen
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.03.17 und 21.03.17: Bauanträge
+- TOP 9.5.: Schreiben Kreisverwaltungsreferat vom 16.03.17: Antrag auf unveränderte Fortführung des "Alla Famiglia P Otto"
+- TOP 9.6.: Schreiben Kreisverwaltungsreferat vom 17.11.16: Erweiterung des bestehenden Haltverbot in der Auenbruggerstraße westlich Eversbuschstraße
+- TOP 9.7.: Schreiben Kreisverwaltungsreferat vom 09.03.17: Einrichtung eines absoluten Haltverbotes in der Friedhofgasse
+- TOP 9.8.: Schreiben Stadtwerke München vom 22.03.17: Baumaßnahme Wasserprojekt Josef-Führer-Straße
+- TOP 9.9.: Schreiben Stadtwerke München vom 09.03.17: Mehrsparten-Projekt Neumeyerstraße
+- TOP 9.10.: Schreiben Stadtwerke München vom 13.03.17, 20.03.17: Baumaßnahmen
+- TOP 9.11.: Schreiben BA 25 Laim vom 08.03.17: Beschlussentwurf für den Verwaltungs- und Personalausschuss
+- TOP 9.12.: Schreiben Referat für Arbeit und Wirtschaft: Angemessene Beteiligung der Betroffenen bei der Gestaltung des neuen MVV-Tarifs
+- TOP 9.13.: Schreiben Stadtwerke München vom 27.03.17: Baumaßnahmen
+- TOP 9.14.: Schreiben Referat für Bildung und Sport vom 29.03.17: Öffnung der Schulhöfe; zeitgemäße Fortentwicklung - Zwischenstand
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.03.17: Bauanträge
