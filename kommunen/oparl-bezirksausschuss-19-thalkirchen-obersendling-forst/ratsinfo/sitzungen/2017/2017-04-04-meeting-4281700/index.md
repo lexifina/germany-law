@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-04-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281700
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281700
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 07.03.2017
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (Antrag) einheitliche Regelung zur Weitergabe von Unterlagen an die Presse
+- TOP 3.2.: Mittelfristige Finanzplanung 2016-2020
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Imkerverein München und Umgebung e.V. Beschaffung einer Ausstattung zum Schleudern von Honig Az. 0262.0-19-0173
+- TOP 3.4.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Artmobil vom 22.05. - 26.05.2017 und Baumobil vom 14.09. - 18.09.2017 Az. 0262.0-19-0175
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4.4.: (A) Veranstaltung: Privates Feuerwerk am 15.04.2017
+- TOP 4.5.: (E) Erweiterung öffentliche Grünanlage Drygalski-Allee
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.3.: Beschilderung Haus der Familie
+- TOP 5.4.: (Antrag) S-Bahnhof Solln
+- TOP 5.5.: (Antrag) Parkstreifen Wolfratshausener Str. 250-258
+- TOP 5.6.: (Antrag) Busverbindung Züricher Straße - Solln
+- TOP 5.7.: (Antrag) Durchfahrt südliches Forstenried
+- TOP 5.8.: Schneeräumen an Bushaltestellen
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Zwei Bauleitverfahren in der Gemeinde Neuried
+- TOP 6.4.: (A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung Ratzingerplatz - Boschetsrieder Str. - Aidenbachstr. - Gmunder Str.
+- TOP 6.5.: (U) Grundstücksgeschäft: Vogelanger
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: Kinder-Aktions-Koffer 2017/ 2018
+- TOP 7.3.: (Antrag) Bürgerbüro im 19. Stadtbezirk erhalten / Nutzungskonzep Stadtteilzentrum
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Erläuterungsschiler für Straßennamen
+- TOP 8.3.: (A) Offener Bücherschrank am Thalkirchner Platz
