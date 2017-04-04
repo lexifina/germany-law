@@ -1,0 +1,122 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2017-04-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4140199
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4140199
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Unterrichtungen (siehe Anlage)
+- TOP 7.: Bericht des Vorsitzenden
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP B 4.3.: Kraftfahrzeugstellplätze in Wohngebieten in bedarfsgerechter Anzahl, Sitzungsvorlage Nr. 14-20 / V 08130, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2017
+- TOP C 4.2.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP A: Allgemeines
+- TOP B: Planen, Bauen, Wohnen
+- TOP 3.1.1.: Widenmayerstraße 31, Umbau DG mit 2 neuen Wohneinheiten und Nutzungsänderung der Wohnung Ost /OG 1 in Büroflächen, energetische Sanierung der Innenhoffassade sowie Erweiterung der Balkonanlage
+- TOP 3.1.2.: Briennerstraße 5, Fassadenerneuerung EG / Straßen- und Hofseite
+- TOP 3.1.3.: Maxburgstraße 4, Erweiterung Gastronomiefläche EG durch Einbindung und Nutzungsänderung Ladenlokal
+- TOP 3.1.4.: Frauenstraße 7, Umbau und Sanierung eines Büro- und Geschäftshauses
+- TOP 3.1.5.: Frauenstraße 8, Abbruch und Neubau Dach / Kellerdecke / Bodenplatte, Einbau eines Aufzugs, Anbau von Balkonen - TEKTUR
+- TOP 3.1.6.: Reitmorstraße 17, Umbau EG mit Errichtung eines Rückgebäudes sowie Wohnungszusammenlegung im 5. OG und DG - TEKTUR
+- TOP 3.1.7.: St.-Anna-Platz 9, Umbau und Sanierung eines Kindergartens in einen Familientreff
+- TOP 3.1.8.: Kardinal-Faulhaber-Straße 1, Umbau und Nutzungsänderung von Büros
+- TOP 3.2.1.: Marienplatz – Verlegung der Blumenverkaufsstände am Alten Rathaus wegen Durchführung einer Baumaßnahme, vertagt aus 2017.03 B 3.1.6
+- TOP 3.2.2.: Erhaltungssatzungen im Stadtbezirk 01 Altstadt-Lehel, vgl. TOP 2017.01 B 3.2.8; Schreiben des Referates für Stadtplanung und Bauordnung
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: BA-Antrag der Fraktion Die Grünen: Schutz der Isar vor Silvesterfeuerwerk
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Sternstraße 20, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Dienerstraße 14-15, Genehmigung einer Freischankfläche
+- TOP 2.3: Sonstige
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Lesung zum Gedenken an die Bücherverbrennung am 10.05.2017 auf dem Odeonsplatz
+- TOP 3.1.2.: Lange Nacht der Musik am 06.05.2017 auf dem Odeonsplatz
+- TOP 3.1.3.: Tag der offenen Tür der Landeshauptstadt München am 06.05.2017 auf dem Marienplatz
+- TOP 3.1.4.: Veranstaltung griechisch orthodoxe Metropolie Salvatorplatz am 15.04.17
+- TOP 3.1.5.: Straßen- und Hoffest in der Corneliusstraße am 14.05.2017
+- TOP 3.1.6.: Sommerfest Innenhof Isartor am 29.06.2017
+- TOP 3.1.7.: Bürgerfest am St. Jakobsplatz am 02.07.2017
+- TOP 3.1.8.: 100 Jahre Patrona Bavariae - Sternwallfahrt und Gottesdienst am 13.05.2017
+- TOP 3.1.9.: 100 Jahre Patrona Babariae - Sternwallfahrt und Gottesdienst am 13.05.2017, Lageplan
+- TOP 3.1.10.: Europatag am Marienplatz am 05.05.2017
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Ausstellungsstelen Jüdisches Leben in München am St. Jakobsplatz 02.07.-18.09.2017
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Schreiben einer Bürgerin vom 12.03.2017 Rolltreppen am Isartor
+- TOP 1.2.: Bund Naturschutz: Baumschutz in der Stadt (Anträge der Baumschutzbeauftragten der Münchner Bezirksausschüsse aus den BUND-Workshops), vertagt aus 2017.03 D 1.2
+- TOP 1.3.: Bürgeranliegen, Prinzregenten- /Wagmüller Straße, vgl. TOP 2016.12 D 1.4; Blaue Markierung auf dem Radweg möglich? Fläche der neuen Sitzbänke am St.-Anna-Platz zu begrünen oder zu bepflastern?
+- TOP 1.4.: Bürgeranliegen, Anwohner Müllerstraße 32 – Anregung Verkehr
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München: Vorschläge zur Aufnahme in die Naturdenkmalliste, vertagt aus 2017.02 D 3.1
+- TOP 3.2.: Antrag auf Baumfällung: Kreuzstraße 9
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 4.1.: Stadtwerke: Infoflyer zum Wasserprojekt Prinzregentenstraße, Terminänderung
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Lesenächte" Lesenächte ab April 2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Musica Sacra St. Anna e.V. Oratorium "Elias" am 14.05.2017 Az. 0262.0-1-0110
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 6: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben S-Bahn-Station München Isartor (MIT); Neubau einer maschinellen Rauchabzugsanlage (MRA), einer Netzersatzanlage (NEA) und einer Aufzugsanlage im Zuge der brand-schutztechnischen Ertüchtigung der S-Bahn-Stammstrecke München, Antwortschreiben des Referates für Stadtplanung und Bauordnung auf die Stellungnahme des BA 2 Ludwigsvorstadt-Isarvorstadt vom 25.01.2017
+- TOP B 4.4.: (U) Bürgergutachten Innenstadtkonzept thematische und räumliche Schwerpunkte Stadtbezirke 1,2,3 und 5 a) Bürgergutachten Innenstadt Antrag Nr. 14-20 / A 00616 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 22.01.2015 b) Autofreie Altstadt für bessere Luft und mehr Lebensqualität Antrag Nr. 14-20 / A 02445 der Stadtratsfraktion Die Grünen – rosa Liste vom 09.09.2016 c) Vergabe von Beratungs- und Gutachterleistungen d) Erlass der Satzung zur Findung einer Zufallsauswahl aus dem kommunalen Melderegister im Jahr 2017 im Rahmen des Bürgergutachtens Innenstadtkonzept
+- TOP B 4.5.: Gerüchte zum Verkauf des Hauses Hochbrücken- / Ecke Hildegardstraße und Erweiterung eines Boardinghauses, Antwortschreiben der Verwaltung
+- TOP B 4.6.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 - 31.12.2016, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.03.2017, Sitzungsvorlage Nr. 14 - 20 / V 08295
+- TOP B 4.7.: Baureferat, Beschluss Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Straßenumbau Oskar-von-Miller-Ring und Von-der-Tann-Straße; Sitzungsvorlage Nr. 14-20/ V 06080, Beschluss der Vollversammlung des Stadtrates vom 15.03.2017
+- TOP B 4.8.: Bauplanung Triftstraße und Thierschplatz 4a, Information eines Miteigentümers bzgl. Bauvorhabens vom 24.03.2017
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP C 4.3.: Marienplatz – Information über anstehende Straßenbauarbeiten
+- TOP C 4.4.: Verlegung von Obst, Blumen- und Maroniständen aufgrund diverser Baumaßnahmen im Bereich der Innenstadt, Ortsbegehung am 21.03.2017; Schreiben des Kreisverwaltungsreferates vom 22.03.2017
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Verkehrsrechtliche Anordnung für Pflasterarbeiten Marienplatz, Bauphase 1 ab 13.03.2017 bis 07.04.2017
+- TOP D 4.2.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Sendlinger-Tor-Platz in Höhe Oberanger/Lindwurmstraße/Blumenstraße (Umbau/Sanierung U-Bahnhof) vom 08.03.2017 bis 09.04.2017
+- TOP D 4.3.: Neues Verkehrskonzept für die Altstadt – jetzt die Chancen durch die innerstädtische Kaskade von Großbaustellen nutzen, Antrag Nr. 14-20 / A 02899 der Stadtratsfraktion Die Grünen – Rosa Liste vom 21.02.2017, Schreiben des Direktoriums vom 21.02.2017
+- TOP D 4.4.: Verkehrsrechtliche Anordnung, Durchfahrt durch das Alte Rathaus, Einfahrt für Radfahrer von Tal/Sparkassenstraße kommend erlauben
+- TOP D 4.5.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum zur Verlegung einer Fernkälteleitung Weinstraße 1 und Landschaftsstraße vom 20.03. bis 31.05.2017
+- TOP D 4.6.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum zur Herstellung von Hausanschlüssen in der Dienerstr. 15 (vor Dallmayr) vom 20. bis 31.03.2017
+- TOP D 4.7.: Arbeiten im Straßenraum: Sternstraße – nach Kreuzung Robert-Koch-Straße, Sternstraße 16 sowie Sternstraße 5 bis Maximilianstraße vom 10.04. bis 21.04.2017
+- TOP D 4.8.: Baumentfernung und Gehölzpflegemaßnamen, Unterrichtung über bevorstehende Entfernung eines Gefahrenbaums an der Blumenstraße
+- TOP D 4.9.: Sternstraße 26, Mitteilung einer Gefahrenbaumfällung
+- TOP D 4.10.: Baustellenverkehr am Marienhof – Gefahren und Belastungen dezimieren!, Antrag Nr. 14-20/A 02940 der Bayernpartei-Stadtratsfraktion vom 08.03.2017
+- TOP D 4.11.: Bürgeranliegen, Geh- bzw. Radwegmarkierungen auf der Tivoli- und Max-Joseph-Brücke anbringen, vgl. TOP 2016.12 D 1.2; Antwortschreiben des Kreisverwaltungsreferates vom 21.03.2017
+- TOP D 4.12.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum Wallstraße/Blumenstraße (Umbau/Sanierung U-Bahnhof)
+- TOP D 4.13.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum Blumenstraße in Höhe An der Hauptfeuerwache und An der Hauptfeuerwache zwischen Blumenstraße und Oberanger (Umbau/Sanierung UBahnhof)
+- TOP D 4.14.: Ausnahmezulassung für Nachtarbeiten zur Rohrleitungssanierung am Dreifaltigkeitsplatz vom 27. bis 29.03.2017 und vom 03. bis 06.04.2017
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.1.: KITA Jahresstatistik 2016 Onlinebefragung, Sitzungsvorlage Nr. 14 -20 / V 08203; Bekanntgabe in der gemeinsamen Sitzung des Bauausschusses und des Kinder- und Jugendhilfeausschusses des Stadtrates vom 21.03.2017
+- TOP E 4.2.: Referat für Arbeit und Wirtschaft, Beschlussvorlage Früh Schwimmen in städtischen Hallenbädern – Flexibel Schwimmen in den städtischen Freibädern; Freibadöffnungszeiten auf für Berufstätige; Sitzungsvorlage Nr. 14-20 /V 08133, Beschluss des Ausschusses für Arbeit und Wirtschaft am 28.03.2017 (SB)
