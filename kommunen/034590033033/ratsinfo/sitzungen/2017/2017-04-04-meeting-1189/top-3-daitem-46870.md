@@ -1,0 +1,6 @@
+# TOP 3.: Sonstige Planungs- und Bauangelegenheiten
+
+- Sitzung: Schaukommission (1. Sitzung) (2017-04-04)
+- Körperschaft: Gemeinde Wallenhorst
+- Öffentlich: ja
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/46870
