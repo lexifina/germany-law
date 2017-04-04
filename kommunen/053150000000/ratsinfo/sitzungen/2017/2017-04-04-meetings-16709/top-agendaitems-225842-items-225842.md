@@ -1,0 +1,8 @@
+# TOP -: Zu Top 3.1.3 – „Mehr Sicherheit auf Kölner Straßen und Plätzen“
+
+- Sitzung: 28. Sitzung des Rates (2017-04-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/225842
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/104679
