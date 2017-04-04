@@ -1,0 +1,77 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-04-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262037
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262037
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen auf öffentlichen Verkehrsgrund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Geplante Wanderbaumallee am Walter-Sedlmayr-Platz - Projektbericht
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Ev. Luth Pfarramt Evangeliumskirche "Konzert zu Palmsonntag" am 09.04.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse SC Lerchenauer See e.V. 50-jähriges Gründungsjubiläum vom 15.07. - 23.07.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Green City e.V. Projekt "Wanderbaumallee" vom 19.05. - 30.06.2017
+- TOP 2.4.: (E) Budget der Bezirksausschüsse FC Eintracht München e.V. 50-jähriges Jubiläum
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V. Anschaffung von zwei WC-Containern
+- TOP 2.6.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Baumobil vom 16.05. - 18.05.2017 und Spielbus vom 21.07. - 23.07.2017
+- TOP 3.: Anträge
+- TOP 3.1.: Absolutes Haltverbot an der Südseite der Karlsfelder Straße zwischen Am Gottesackerweg und der Schwarzhölzlstraße
+- TOP 3.2.: Ampelschaltung an der Kreuzung Pflaumstraße/Feldmochinger Straße (nördlicher Ortsausgang nach Oberschleißheim)
+- TOP 3.3.: Sperrung des stillgelegten, alten und unbefestigten Straßenabschnitts der Karlsfelder Straße westlich der Hausnummer 132
+- TOP 3.4.: Parksituation, Verkehrsfluss und die daraus resultierenden Nachteile der Anwohner in der Wohnsiedlung Ludwigsfeld
+- TOP 3.5.: N Verbesserte Beleuchtung des Blütenangers
+- TOP 3.6.: N Weiter verbesserte Anbindung an den ÖPNV während der Nacht
+- TOP 3.7.: Nein zur Städtebaulichen Entwicklungsmaßnahme im Münchner Norden
+- TOP 5.1.1.: Feldmochinger Str. 423
+- TOP 5.1.2.: Lassallestr. 100
+- TOP 5.2.1.: Salbeistr. 15
+- TOP 5.2.2.: Grohmannstr. 1 - 25
+- TOP 5.2.3.: N Waldmeisterstr. 11
+- TOP 5.2.4.: N Am Pfaffensteig, Fl. Nr. 3524/9, Gemarkung Feldmoching
+- TOP 5.3.1.: Straßenfest in der Schneeglöckchenstraße am 15.07.2017
+- TOP 5.4.1.: Novellierung der Naturdenkmalverordnung, Neuaufnahme von besonderen Bäumen in die Naturdenkmalliste
+- TOP 5.4.2.: Keine zusätzlichen Lärmbelastungen für den 24. Stadtbezirk durch den Hubschrauberlandeplatz in Oberschleißheim (Punkt 1 des Antrags), Empfehlung Nr. 14-20 / E 00413 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 16.04.2015
+- TOP 5.4.3.: Austausch von Lichtsignalanlagen, Otto-Warburg-Str. / Zufahrt MTU
+- TOP 5.4.4.: Verkehrsrechtliche Anordnung: Haltverbote Mitteisstraße für Feuerwehr
+- TOP 5.4.5.: N Absolutes Haltverbot an der Lerchenstraße
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Müllabfuhr Barbinger Weg
+- TOP 6.2.: Bauvorhaben Karlsfelder Str. 260
+- TOP 6.3.: Zebrastreifen über die Straße Am Blütenanger auf Höhe der Pappelallee
+- TOP 6.4.: Anordnung Durchfahrtsverbot für Lkws über 12 t in der Wohnsiedlung Ludwigsfeld in die Granatstraße 12
+- TOP 6.5.: Verspätung der Buslinie 172
+- TOP 6.6.: Ertüchtigung der Busanbindungen im Stadtteil Fasanerie/Feldmoching
+- TOP 6.7.: Verkehrsrechtliche Anordnung: Pappelallee Höhe Am Schnepfenweg; Beschilderung mit Gefahrzeichen "Kinder" mit Zusatz "Schulweg"
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: Meldelisten Baumfällungsanträge
+- TOP 6.10.: Daten Pegel Feldmoching
+- TOP 6.11.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen
+- TOP 6.12.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 6.13.: (U) Ökologischer Kriterienkatalog - Fortschreibung 2016/2017 Sitzungsvorlage Nr. 14-20 / V 02989
+- TOP 6.14.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 6.15.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 6.16.: (U) Städtisches Klinikum München GmbH (StKM) Umsetzungs- und Planungsstand Medizinkonzept Aktueller Sachstand der Sanierungsmodule
+- TOP 6.17.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 8.1.: Protokoll der Sitzung am 14.02.2017 (nach Genehmigung in der Sitzung am 14.03.2017)
+- TOP 8.2.: Baumschutz in München ist Klimaschutz für München Die Münchner Bezirksausschüsse handeln - jetzt!
+- TOP 8.3.: N Veranstaltung „Ein neues Bodenrecht für bezahlbaren Wohnraum“
+- TOP 8.4.: N Organisation der Informationsveranstaltungen des BA 24 zur SEM im 24. Stadtbezirk – Mittel aus dem BA-Budget
+- TOP 8.5.: N Schaukasten des BA 24 in der Josef-Frankl-Straße – Verlegung des Anbringungsortes
