@@ -1,0 +1,126 @@
+# 28. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-04T15:48:00+02:00
+- Ende: 2017-04-04T23:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16709
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16709
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat (1) Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00607493.pdf
+- Ergebnisprotokoll: Tagesordnung Rat (1) Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00607493.pdf
+- Wortprotokoll: Tagesordnung Rat (1) Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00607493.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Gefährdet der Beschluss der Mitgliederversammlung der Kölner Grünen vom 25. März 2017 den Bau der neuen Rheinbrücke im Kölner Süden? - Sache ist erledigt
+- TOP 1.2: Transparenz und Mittelverwendung durch die Stadt Köln bzw. Frau Oberbürgermeisterin Reker - Sache ist erledigt
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme einer Geldzuwendung für den Ankauf eines Kunstwerkes von Nil Yalter für das Museum Ludwig - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Köln kooperiert - Regionale Kooperation voranbringen - ungeändert beschlossen
+- TOP -: Köln kooperiert – Regionale Kooperation voranbringen - endgültig abgelehnt
+- TOP 3.1.2: Armutsfolgen abmildern - Köln-Pass ausweiten - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.3: „Mehr Sicherheit auf Kölner Straßen und Plätzen“ Ordnungsdienst vor Ort stärken - 100 zusätzliche Ordnungskräfte für die Veedel - Sache ist erledigt
+- TOP -: Zu Top 3.1.3 – „Mehr Sicherheit auf Kölner Straßen und Plätzen“ - ungeändert beschlossen
+- TOP 3.1.4: Luft verbessern – Braunkohleverbrennung in Merkenich beenden - Sache ist erledigt
+- TOP -: „Luft verbessern – Braunkohleverbrennung in Merkenich beenden, AN/0511/2017 - geändert beschlossen
+- TOP 3.1.5: Köln wird korporatives Mitglied bei Transparency International - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.6: Neugestaltung der westlichen Domumgebung - Übergang zum nächsten Tagesordnungspunkt
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Zusammenarbeit der Stadt mit DITIB - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage AN/0257/2017 der PIRATEN aus der Sitzung des Rates der Stadt Köln am 14.02.2017 - Kenntnis genommen
+- TOP 4.2: Kosten der Einsätze Silvesternacht 2015/2016 und 2016/2017 und Karnevalswoche 2016/2017 - zurückgestellt
+- TOP 4.3: Transferaufwendungen „Antirassismus-Training“ im Haushaltsplan 2016/2017 - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage (AN/0505/2017) zu Transferaufwendungen "Antirassismus-Training" im Haushaltsplan 2016/2017 - Kenntnis genommen
+- TOP 4.4: Kostensteigerungen bei Großprojekten - zurückgestellt
+- TOP 4.5: Verzögerungen bei der Radverbindung Niehler Gürtel - Sache ist erledigt
+- TOP -: Verzögerungen bei der Radverbindung Niehler Gürtel - Kenntnis genommen
+- TOP 4.6: Rechtsberatung OB Reker - zurückgestellt
+- TOP 4.7: Unterhaltung und Pflege des öffentlichen Raums aus einer Hand - zurückgestellt
+- TOP 4.8: Hate-Speech, Mobbing und Hasskriminalität in Köln - zurückgestellt
+- TOP 4.9: Rheinboulevard - verkommt Kölns Flaniermeile zum Krawall-Brennpunkt? - zurückgestellt
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Neufassung der Satzung zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - geändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für die Hj. 2016 und 2017 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2016 und 2017. - ungeändert beschlossen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Köln durch die Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 10.2: Überörtliche Prüfung der Informationstechnik der Stadt Köln durch die Gemeindeprüfungsanstalt NRW - ungeändert beschlossen
+- TOP 10.3: Evaluierung der Wohnraumschutzsatzung zwei Jahre nach Inkrafttreten - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 10.3, Beschlussvorlage 2181/2016, Evaluierung der Wohnraumschutzsatzung zwei Jahre nach Inkrafttreten - ungeändert beschlossen
+- TOP 10.4: Geschäftsanweisung für das Finanzwesen der Stadt Köln (GAFin) - ungeändert beschlossen
+- TOP 10.5: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 10.6: Teilnahme der Stadt Köln am kommunalen Förderprogramm "NRWeltoffen" - ungeändert beschlossen
+- TOP 10.7: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 10.8: Errichtung eines Wohnhauses auf dem städtischen Grundstück Josef-Kallscheuer-Straße, 50999 Köln - Sürth, zur Unterbringung von Flüchtlingsfamilien - ungeändert beschlossen
+- TOP 10.9: Fortführung Live-Streaming aus dem Rat der Stadt Köln - geändert beschlossen
+- TOP -: 10.9 Fortführung Live-Streaming aus dem Rat der Stadt Köln - endgültig abgelehnt
+- TOP 10.10: Teilplan 1302 - Wasser und Wasserbau; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - zurückgestellt
+- TOP 10.11: Förderung der ökumenischen Begegnungsstätte Café Bickolo e.V. im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10.12: Sanierung der Bühnen Köln, Planungsbeschluss für Werkstattneubau im Rahmen der Kooperation mit dem WDR auf dem Gelände in Bocklemünd - geändert beschlossen
+- TOP -: TOP 10.12. - Planungsbeschuss für Werkstattneubau Bühnen, 0512/2017 - ungeändert beschlossen
+- TOP -: Planung Neubau Bühnenwerkstätten; Nachweis, Verantwortlichkeiten und Kostentransparenz - endgültig abgelehnt
+- TOP -: TOP 12.11 / 10.12 Sanierung der Bühnen Köln - Planungsbeschluss für Werkstattneubau im Rahmen der Kooperation mit dem WDR auf dem Gelände in Bocklemünd (DS-Nr. 0512/2017) - endgültig zurückgezogen
+- TOP -: Sanierung der Bühnen Köln Planungsbeschluss für Werkstattneubau im Rahmen der Kooperation mit dem WDR auf dem Gelände in Bocklemünd - endgültig zurückgezogen
+- TOP 10.13: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - geändert beschlossen
+- TOP 10.14: Feinkonzept zur Umsetzung von Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - zurückgestellt
+- TOP 10.15: Einführung der Ehrenamtskarte NRW in Köln - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.15: Einführung der Ehrenamtskarte NRW in Köln - endgültig abgelehnt
+- TOP 10.16: Förderprojekt "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 10.17: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2015 - Beteiligungsbericht 2015 - zurückgestellt
+- TOP 10.18: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2017/18 - zurückgestellt
+- TOP 10.19: Beitritt der Stadt Köln zu "d-NRW" - ungeändert beschlossen
+- TOP 10.20: Luftreinhalteplanung Stadt Köln - geändert beschlossen
+- TOP -: Luftreinhalteplanung Stadt Köln - endgültig abgelehnt
+- TOP -: Luftreinhalteplanung Stadt Köln (Vorlagen-Nr. 3786/2016) - endgültig abgelehnt
+- TOP -: Luftreinhalteplanung Stadt Köln, 3786/2016 - endgültig zurückgezogen
+- TOP -: TOP 10.20 Luftreinhalteplanung Stadt Köln, 3786/2016 - ungeändert beschlossen
+- TOP 10.21: Beitritt zum Bündnis "Kommunen für Biologische Vielfalt e.V." - ungeändert beschlossen
+- TOP 10.22: Digital Hub Cologne GmbH: Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 10.23: Teilplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10.24: Verstoß gegen die Treuepflicht nach §§ 32, 43 Abs. 2 Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 10.25: Gute Schule 2020 - Umsetzung des Förderprogramm des Landes NRW - geändert beschlossen
+- TOP 10.26: Kliniken der Stadt Köln gGmbH - ungeändert beschlossen
+- TOP 10.27: Weiterführung des Projekts "Optimierung von Früherkennung und Versorgung von Kindern und jungen Menschen mit Zeichen einer psychischen Störung" und Anpassung der benötigten Stellenressourcen - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.27 Weiterführung des Projekts "Optimierung von Früherkennung und Versorgung von Kindern und jungen Menschen mit Zeichen einer psychischen Störung" und Anpassung der benötigten Stellenressourcen - endgültig abgelehnt
+- TOP 10.28: Wirtschaftsplan 2017 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.29: Maßnahmenpaket für Schulbauprojekte - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.29: Maßnahmenpaket für Schulbauprojekte - endgültig abgelehnt
+- TOP -: Änderungsantrag zum Maßnahmepaket für Schulbauprojekte - endgültig abgelehnt
+- TOP 10.30: Das "Kooperative Baulandmodell Köln - Richtlinie zur Anwendung in Bebauungsplanverfahren"; hier: Fortschreibung; geänderte Fassung gemäß Beschluss des Rates vom 14.02.2017 - geändert beschlossen
+- TOP -: TOP 10.30 Das "Kooperative Baulandmodell Köln - Richtlinie zur Anwendung in Bebauungsplanverfahren"; hier: Fortschreibung; geänderte Fassung gemäß Beschluss des Rates vom 14.02.2017 - ungeändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: 62459/03; Vitalisstraße in Köln-Müngersdorf, 2. Änderung; Beschluss über Stellungnahmen sowie Satzungsbeschluss - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 14.1: Satzung über eine Veränderungssperre: Eisenbahnsiedlung in Köln-Porz-Gremberghoven - ungeändert beschlossen
+- TOP 15: Weitere bauleitplanungsrechtliche Sachen
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: Satzung über die abweichende Herstellung der Erschließungsanlage Niehler Damm von Sebastianstraße bis Merkenicher Straße in Köln-Niehl - ungeändert beschlossen
+- TOP 16.2: 258. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 17: Wahlen
+- TOP 17.1: Bestellung der Vertreter der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 17.2: Ausschussumbesetzung Kunst und Kultur - ungeändert beschlossen
+- TOP 17.3: Ausschussumbesetzung Verkehr - ungeändert beschlossen
+- TOP 17.4: Ausschussumbesetzung Sport - ungeändert beschlossen
+- TOP 17.5: TOP 17 Benennung eines sachkundigen Einwohners für den Bauausschuss und den Betriebsausschuss Gebäudewirtschaft - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 18.1: 1. Änderungsverordnung zur Änderung der 1. Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen im Jahr 2017 - geändert beschlossen
+- TOP 19: -
