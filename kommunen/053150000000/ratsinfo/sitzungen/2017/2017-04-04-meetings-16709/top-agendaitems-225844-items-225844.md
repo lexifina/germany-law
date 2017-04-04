@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 10.27 Weiterführung des Projekts "Optimierung von Früherkennung und Versorgung von Kindern und jungen Menschen mit Zeichen einer psychischen Störung" und Anpassung der benötigten Stellenressourcen
+
+- Sitzung: 28. Sitzung des Rates (2017-04-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/225844
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/104699
