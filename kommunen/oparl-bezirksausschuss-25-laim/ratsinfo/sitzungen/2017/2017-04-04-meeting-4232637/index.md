@@ -1,0 +1,73 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-04-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232637
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232637
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 8: Umlauf
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Nächtliches Autorasen in Laim
+- TOP 1.2.2.: Lärmbelästigung / Erschütterungen durch die Tram Linie 19
+- TOP 1.2.3.: Bauvorhaben Egetterstraße 3
+- TOP 1.2.4.: Hunde vor dem Kindergarten "Zu den hl. 12 Aposteln"
+- TOP 1.2.5.: Parkverbot an der Ecke Zschokkestraße / Straubinger Straße
+- TOP 1.2.6.: Antrag für eine einheitliche Regelung zur Weitergabe von Unterlagen an die Presse
+- TOP 3.1.: Beschlussvorlage Referat für Arbeit und Wirschaft: Elektronische Fahrtanzeige an der Haltestelle "Siglstraße" (Tram 18 und Bus 130) Empfehlung Nr. 14-20 / E 01285 der Bürgerversammlung des Stadtbezirks 25 Laim am 22.11.2016
+- TOP 3.2.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Denkmalschutz für Ensemble an der Mitterhoferstr. 7 Empfehlung Nr. 14-20 / E 01283 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 22.11.2016
+- TOP 3.3.: Beschlussvorlage Kreisverwaltungsreferat: Radweg Elsenheimerstraße
+- TOP 3.4.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bauvorhaben Mitterhoferstr. 7 (vertagt aus 03/17) Empfehlung Nr. 14-20/ E 01281 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 22.11.2016
+- TOP 3.5.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Laimer Spielmäuse e.V.
+- TOP 4.1.: Schreiben Stadtkämmerei vom 22.02.17: Mittelfristige Finanzplanung 2016 - 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2017 bis 2021
+- TOP 4.2.: Schreiben Sozialreferat vom 07.03.17: REGSAM-Schwerpunktgebietsauswahl 2017-2019
+- TOP 4.3.: Schreiben Sozialreferat vom 24.02.17: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat 14.03.17: Behinderung der Abfallentsorgung in der Veit-Stoß-Straße; Erneute Beantragung eines absoluten Halteverbotes
+- TOP 4.5.: Schreiben Baureferat vom 08.02.2017: Projektname: ÖPNV Offensive - Senftenauerstraße, Haltestelle Hönigschmidplatz (vertagt aus 03/17)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 16.03.17: Agricolaplatz: Flohmarkt "Topolinos e.V." am 20.05.17
+- TOP 4.7.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Verbesserung der Querungsmöglichkeiten für Fußgängerinnen und Fußgänger an der Ostseite der Kreuzung Landsberger Straße / Elsenheimerstraße / Friedenheimer Brücke
+- TOP 5.1.: Egetterstr. 3: Neubau eines Wohngebäudes mit Arztpraxis im EG, eines Doppelhauses (RGB) sowie Errichtung dreier Stellplätze
+- TOP 5.2.: Rechpacherstr. 21: Neubau einer Doppelhaushälfte
+- TOP 5.3.: Agnes-Bernauer-Str. 1: Nutzungsänderung: Laden für Haushaltsgegenstände zu 6 Wohnstudios
+- TOP 5.4.: Aindorferstr. 57: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 5.5.: Rushaimerstr. 73: Neubau eines Reihenendhauses mit Einliegerwohnung und Garagen sowie Abbruch eines Reihenendhauses mit Garage
+- TOP 6.1.: Schreiben Sozialreferat vom 16.03.17: AKIM-Ansprechpartnerin für den Bezirksausschuss 25
+- TOP 6.2.: Schreiben Büro des Oberbürgermeisters im März 17: Anita Augspurg Preis 2017
+- TOP 8.1.: Schreiben Büro des Oberbürgermeisters vom 16.03.17: Wahlbezirkseinteilung im Stadtbezirk 25 - Laim
+- TOP 8.2.: Schreiben Baureferat vom 15.03.17: Absenkung der Bordsteinkanten der Perhamerstraße in Kreuzungsbereichen
+- TOP 8.3.: Schreiben Kommunalreferat vom 22.03.17: Probleme wegen der Umbenennung der Paul-Lagarde-Straße
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 09.03.17: Neuerrichtung eines Gaststättenbetriebes; hier: "Massa", Landsberger Str. 191
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 22.02.17: Verbot oder Einschränkung von Silvesterfeuerwerk durch Privatpersonen
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 23.02.17: "Achtung Schulkinder"-Schild am Zebrastreifen Droste-Hülshoff-Straße und Ilmünsterstraße
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 23.02.17: Schulwegsicherheit herstellen- Umgehende Einrichtung einer Lichtsignalanlage an der Agnes-Bernauer-Straße, Einmündung Lutzstraße (Anliegen der Elternbeiräte der Grundschule an der Fürstenrieder Straße, Kindertagesstätte Riegerhofweg, Mittags-/Hausaufgabenbetreuung Kinderzimmer e.V., Kindergarten und Hort St. Ulrich, Eltern-Kind-Initiative Topolinos e.V.)
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 27.02.17: verkehrsrechtliche Anordnung; hier: Verlegung einer Fernkälteleitung Westendstraße, Ridlerstraße
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 16.03.17: Aufstellen eines offenen Bücherschrankes am Laimer Platz
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.02.17: Mitterhoferstraße 7 / Ecke Schäufeleinstraße
+- TOP 8.11.: Schreiben Sozialreferat vom 24.02.17: Zweckentfremdung von Wohnraum; - Rushaimerstraße - Lanzstraße
+- TOP 8.12.: Schreiben Referat für Arbeit und Wirtschaft vom 20.03.17: Zwischennachricht zur BV-Empfehlung Nr. 1287: Tram Westtangente: Aktuelle MVG-Planungen, Berechnungsgrundlagen und Kosten, Lärmwerte, Rettungssituation Wotanstraße und erneute Diskussionsveranstaltung
+- TOP 8.13.: Schreiben Referat für Arbeit und Wirtschaft vom 20.03.17: Zwischennachricht zur BV-Empfehlung Nr. 1286: Tram Westtangente: Nachweis über Staufreiheit der betroffenen Kreuzungen, Kostenberechnung und Untersuchung einer Alternative mit Akku-Busbetrieb
+- TOP 8.14.: Bautenliste vom 20.02. - 26.02.17: 1.) Erstantragsverfahren: a) Rechpacherstr. 21 b) Agricolastr. 58 c) Egetterstr. 3 d) Rattenhuberstr. 13 2.) Änderungsverfahren zu genehmigten Bauvorhaben: a) Valpichlerstr. 95
+- TOP 8.15.: Bautenliste vom 27.02. - 05.03.17: 1.) Erstantragsverfahren: a) Agnes-Bernauer-Str. 1 b) Haunerstr. 9 c) Haunerstr. 11 2.) Änderungsverfahren zu genehmigten Bauvorhaben: a) Landsberger Str. 160
+- TOP 8.16.: Bautenliste vom 06.03. - 12.03.17: 1.) Erstantragsverfahren: a) Rechpacherstr. 22
+- TOP 8.17.: Bautenliste vom 13.03.-19.03.17: 1.) Änderungsverfahren zu genehmigten Bauvorhaben: a) Rushaimerstr. 54
+- TOP 8.18.: Schreiben der Stadtwerke München GmbH vom 20.03.17: Baumaßnahmen der Stadtwerke: Stichtag: 13.03. - 17.03.2017
+- TOP 8.19.: Beschluss der Vollversammlung vom 15.02.2017: Ökologischer Kriterienkatalog Fortschreibung 2016/2017
+- TOP 8.20.: Hinweis / Ergänzung vom 17.01.2017 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 22.02.2017: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2017: Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017: Werbeanlagenverordnung erlassen Empfehlung Nr. 08-14 / E 00827 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt - Lehel am 03.12.2015
+- TOP 8.23.: Bekanntgabe in der gemeinsamen Sitzung des Bildungsausschusses und des Kinder- und Jugendausschusses des Stadtrates vom 21.03.2017: KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 8.24.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.03.2017: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 8.25.: Schreiben Behindertenbeirat München vom 13.03.17: Protokoll zum Treffen des Behindertenbeirats mit den BA-VertreterInnen
