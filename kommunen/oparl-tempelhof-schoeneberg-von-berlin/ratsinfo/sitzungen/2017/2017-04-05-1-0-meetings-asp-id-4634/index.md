@@ -1,0 +1,87 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-04-05T17:00:00+02:00
+- Ende: 2017-04-05T20:40:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4634
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4634
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=278254
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 3.1: Wahl von stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss hier: Wahl einer Stellvertreterin zur lfd. Nr. 7 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - beantwortet
+- TOP 8.1: Kältehilfe in Hangar 4 - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Nach dem Frauenmärz ist vor dem Frauenmärz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Längere Badezeiten im Stadtbad Tempelhof in der Götzstraße - überwiesen
+- TOP 9.3: Gaslaternen in Tempelhof und Schöneberg auf LED-Beleuchtung umrüsten - im Ältestenrat zurückgezogen
+- TOP 9.4: Pfand gehört nicht in den Müll - überwiesen
+- TOP 9.5: Standort Tempelhofer Weg wird Grundschule - überwiesen
+- TOP 9.6: Volkshochschullehrkräfte: Gleiches Geld für gleiche Arbeit! - überwiesen
+- TOP 9.7: ÖPNV durch Ausweitung der Tarifzone B weiter fördern – B96 entlasten - in der BVV abgelehnt
+- TOP 9.8: Bebauungsplan für das Ankogelbad in Angriff nehmen - überwiesen
+- TOP 9.9: Schaffung eines Stadtplatzes am Umsteigepunkt in Alt-Mariendorf - überwiesen
+- TOP 9.10: Gesundheit von Familien fördern - bewegte Winterspielplätze auch in Tempelhof-Schöneberg! - überwiesen
+- TOP 9.11: Mehr Geld für die Grünanlagen des Bezirk im Doppelhaushalt 2018-2019 - überwiesen
+- TOP 9.12: .„Defi-Säulen“ in Tempelhof-Schöneberg - überwiesen
+- TOP 9.13: Standorterhalt für das Kindertheater „Hans-Wurst-Nachfahren“ - überwiesen
+- TOP 9.14: Das Haus am Winterfeldtplatz als Puppentheater erhalten - überwiesen
+- TOP 9.15: Weiterführung der Neuaufteilung des Straßenraums Dudenstraße in der Kolonnenstraße - überwiesen
+- TOP 9.16: Straßenbaumaßnahmen grundsätzlich nur umwelt- und anwohnerschonend sowie verkehrsverträglich genehmigen - überwiesen
+- TOP 9.17: Standorterhalt der Jugendeinrichtungen Drugstore und Potse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Raum für Begegnung in Friedenau schaffen - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.19: Händewaschen auch mit warmem Wasser ermöglichen und einen Beitrag zu Hygiene leisten - überwiesen
+- TOP 9.20: Bücherbus erneuern und Ressourcen sparen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.21: Erinnerung an Dr. Kurt Gudell vorantreiben! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.22: Begegnungszone Maaßenstraße darf Einsatzfahrzeuge nicht ausbremsen! - überwiesen
+- TOP 9.23: Wahl eines stellvertretenden Bürgerdeputierten – hier: Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.24: Wahl eines stellvertretenden Bürgerdeputierten – hier: Ausschuss für Soziales, Senioren und demografischen Wandel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.25: Kooperationsbibliothek im Rathaus Friedenau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Verkehrsberuhigung in Wohnstraßen sicherstellen, hier: Poleigrund - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Bezirk finanziell am Wirtschaftsaufkommen gerecht beteiligen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sicher zur Schule - mit und ohne Schülerlotsen und zwar jeden Tag! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Instandsetzungsmaßnahmen John-F.-Kennedy-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Stellenansatz bei der Beauftragten für Menschen mit Behinderungen prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Mehr Sicherheit für Fußgänger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Sitzbank reparieren oder ersetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: „Bubbles für den Schöneberger Norden“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Antrag der Seniorenvertretung gem. § 4 Gesetz zur Stärkung der Mitwirkungsrechte der Seniorinnen und Senioren am gesellschaftlichen Leben im Land Berlin (Berliner Seniorenmitwirkungsgesetz - BerlSenG) - Postamt am René-Sintenis-Platz ist barrierefrei nicht zu erreichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Mehr Kitaplätze für Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Prekäre Lage im RSD verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Aufstellung des Entwurfs der Investitionsplanung 2017 bis 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Aus aktuellem Anlass: Beschluss bekräftigen – Auftritte von Wildtieren unterbinden, weil Tempelhof-Schöneberg den Tierschutz ernst nimmt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Wahl der Patientenfürsprecherinnen/Patientenfürsprecher - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Bezirkshaushaltsplan 2016/2017 - Teilplan 2017 - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Vergabe von Sondermitteln der Bezirksverordnetenversammlung -Mittwochs-Initiative e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Deutsche Kinemathek Museum für Film und Fernsehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - OSC Blau-Silber Berlin e.V. "Tanzsportabteilung" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13: Benennung eines beratenden Mitglieds und dessen Stellvertretung im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: GREEN BUDDY AWARD zukünftig mit stärkerer Beteiligung der Bezirksverordnetenversammlung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Eigene Unterkünfte für mehrfachdiskriminierte Flüchtlinge organisieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Rückzugsräume in den Flüchtlingseinrichtungen unseres Bezirks - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Kinder von geflüchteten Menschen im Alter von 0-6 Jahren schnell in einer Kindertageseinrichtung integrieren und schon jetzt planen und Bedarfe benennen! - überwiesen
+- TOP 14.5: Wohnungsbau und Seniorenfreizeitstätte Am Mühlenberg müssen miteinander gut vereinbar sein - überwiesen
+- TOP 14.6: Mehr Transparenz bei der Prüfung geeigneter Immobilien für Flüchtlinge - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Die Brache in der Säntisstraße endlich entwickeln - überwiesen
+- TOP 14.8: B-Plan-Verfahren Werdauer Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.9: Grundstück Lichterfelder Ring 113 - integrierten Wohnstandort realisieren - überwiesen
+- TOP 14.10: Obdachlose vor dem Erfrieren retten - überwiesen
+- TOP 14.11: Entwicklung auf dem EUREF-Campus - überwiesen
+- TOP 14.12: Toni Schwabe in Namensliste für mögliche Benennungen aufnehmen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Termin der nächsten Sitzung - erledigt
