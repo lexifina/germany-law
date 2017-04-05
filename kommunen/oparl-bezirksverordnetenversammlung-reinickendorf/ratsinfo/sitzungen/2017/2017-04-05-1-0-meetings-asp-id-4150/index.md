@@ -1,0 +1,108 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-04-05T17:05:00+02:00
+- Ende: 2017-04-05T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4150
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4150
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=241092
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Bootsanleger am Schäfersee - beantwortet
+- TOP 2.2: Unterkunft Scharnweberstraße 24 - beantwortet
+- TOP 2.3: Schutz der Wasservögel am Schäfersee - beantwortet
+- TOP 2.4: Beleuchtung in der Straße Alte Fasanerie 5 - 10 - beantwortet
+- TOP 2.5: Tegeler Hafenfest - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 7. Sitzung der BVV am 05.04.2017 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Abgestellte Fahrräder im öffentlichen Straßenland - beantwortet
+- TOP 4.2: Parkhäuser der GeSoBau im Märkischen Viertel - beantwortet
+- TOP 4.3: Baumaßnahmen im Märkischen Viertel - beantwortet
+- TOP 4.4: Spielplatzsanierungsprogramm - beantwortet
+- TOP 4.5: 100.000 Euro für Sporthallen - beantwortet
+- TOP 4.6: Masernerkrankungen in Reinickendorf - beantwortet
+- TOP 4.7: Vivantes Humboldt-Klinikum - beantwortet
+- TOP 4.8: Arbeit der Willkommensklassen - beantwortet
+- TOP 4.9: Parkanlage in der Cité Foch - beantwortet
+- TOP 4.10: Zukunft Campus Hannah-Höch - beantwortet
+- TOP 4.11: Ruheplatz Am Eichenhain / Neubrücker Straße - beantwortet
+- TOP 4.12: Sachstand "Zukunftskonzept" (Drs.: 1082/XIX) - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Regelmäßiger Bericht Investitionsmaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Fußgängerüberweg AVA-Kiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Reinickendorf summt - überwiesen
+- TOP 7.4: 50-jährige Partnerschaften mit Antony/Frankreich und Greenwich/Großbritannien im Jahr 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Fußgängerüberweg Friederikestr. / Schwarzspechtweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Einrichtung eines Familienservicebüros - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Bessere Einsicht an der Einmündung Heiligenseestraße / Am Südfeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Service des Bezirks für junge Eltern verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Jahresbericht des Patientenfürsprechers aus dem Dominikus-Krankenhaus Berlin für den Zeitraum 01.01.2016 bis 31.12.2016 - überwiesen
+- TOP 7.10: Jahresbericht der Patientenfürsprecherin aus dem Vivantes Humboldt-Klinikum - Psychiatrie, Psychotherapie und Psychosomatik für das Jahr 2016 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Unterbringung von Flüchtlingen mit Aufenthaltserlaubnis in Reinickendorfer Hotels, Pensionen - beantwortet
+- TOP 8.2: Digitalisierung - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 9.3: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9.4: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9.5: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 10.1: Offenes Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sachmittelvergabe im Grundschulbereich - in der BVV abgelehnt
+- TOP 10.3: Würdigung 70 Jahre Flughafen Tegel - in der BVV abgelehnt
+- TOP 10.4: Wahl der Patientenfürsprecher/innen für die Krankenhäuser im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - gewählt
+- TOP 10.5: Aktiv Akzeptanz fördern! - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Schulentwicklungsplan - erledigt
+- TOP 10.7: Barrierefreie Geschäfte in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Ausstattung der Bürgerämter mit “Ausweisautomaten” - Bürgerterminals - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sicherstellung des Turmblasens am Silvesterabend - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Dezentrale Unterbringung geflüchteter Menschen im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Keine Unterbringung weiterer Asylbewerber im Märkischen Viertel - in der BVV abgelehnt
+- TOP 10.12: Zusatzzüge der U 8 bis zum U-Bahnhof Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Verlängerung der Öffnungszeiten der Parkhäuser in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Vollzüge zu Hauptverkehrszeiten bei der S-Bahn-Linie 1 - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Grünen Pfeil an der Ecke Gorkistraße / Am Nordgraben installieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Heidekrautbahn - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Ehrenamtliche Helfer - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Bestimmung eines beratenden, nicht stimmberechtigten Mitglieds und eines stellvertretenden beratenden, nicht stimmberechtigen Mitglieds des Jugendhilfeausschusses (JHA) Reinickendorf für den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten Nordwest - Eigenbetrieb von Berlin" - gewählt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Gegen Homophobie in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Solidarität mit den Beschäftigten des Knorr-Bremse-Konzern - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Reinickendorfer Extremismusbericht - überwiesen
+- TOP 12.2: Vermeidung von Schuldistanz - überwiesen
+- TOP 12.3: Unterstützende Maßnahmen für das Ordnungsamt - überwiesen
+- TOP 12.4: Öffentliche Grillflächen in Reinickendorf - überwiesen
+- TOP 12.5: Verbesserung der Parkplatzsituation an der Autobahnauffahrt Eichborndamm/Antonienstraße - überwiesen
+- TOP 12.6: Stadtentwicklungspolitische Zukunftswerkstatt - überwiesen
+- TOP 12.7: Sporthallen im Winter für Familien öffnen - überwiesen
+- TOP 12.8: Reichsbürger melden - überwiesen
+- TOP 12.9: Fachaustausch über Stadtentwicklungsplanungen und Öffentlichkeitsarbeit - überwiesen
+- TOP 12.10: Lichtzeichenanlage an der Otisstraße - überwiesen
+- TOP 12.11: Vermüllung in der Thyssenstraße entgegenwirken - überwiesen
+- TOP 12.12: Tegeler Hafenfest bürgerfreundlich gestalten - überwiesen
+- TOP 12.13: Schulwegsicherung "Am Dachsbau" - 2 - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Ausweitung der Tarifzone B bei der S-Bahn - überwiesen
+- TOP 13.2: Personalausstattung für Sozialraumorientierte Planungskoordination verbessern - überwiesen
+- TOP 13.3: S 85 weiter in Reinickendorf fahren lassen - überwiesen
+- TOP 13.4: Monitoring Soziale Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Fußgängerquerung in der Quickborner Straße - überwiesen
+- TOP 13.6: Ausbau der S25 beschleunigen - überwiesen
+- TOP 13.7: Palliativversorgung in Reinickendorf - überwiesen
+- TOP 13.8: Verkehrsfluss an der Heiligenseestraße verbessern - überwiesen
+- TOP 13.9: Verbindung zum Flughafen BER schaffen - überwiesen
+- TOP 13.10: Schulwegsicherung "Am Dachsbau" - 1 - überwiesen
+- TOP 13.11: Schulwegsicherung "Am Dachsbau" - 3 - überwiesen
+- TOP 13.12: Kein Tempo 30 auf Hauptstraßen - überwiesen
