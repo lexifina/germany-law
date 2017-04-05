@@ -1,0 +1,69 @@
+# 6. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-04-05T17:30:00+02:00
+- Ende: 2017-04-05T21:00:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5382
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5382
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=141110
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Bezirksstadtrates - gewählt
+- TOP 1.9: Wahl der Patientenfürsprecher / Patientenfürsprecherin für die Krankenhäuser des Bezirks Pankow von Berlin für die VIII. Wahlperiode - gewählt
+- TOP 1.10: LED-Boden-Warnsystem – Mehr Sicherheit am Straßenbahn-Übergang - in der BVV abgelehnt
+- TOP 1.11: Retroreflektierende Einrichtungen auf Radfernweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Verstärkte Verunreinigung durch Hundekot im Neumannkiez - in der BVV abgelehnt
+- TOP 1.13: Verlängerung des Radfahrweges auf der Prenzlauer Promenade - in der BVV abgelehnt
+- TOP 1.14: Fahrradinfrastruktur in der Metzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Weitere Fahrradabstellanlangen am S-Bahnhof Karow errichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Temporäre Lichtsignalanlage Hubertusdamm/Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Keine parallelen Bauarbeiten an und auf der A 114 während des SEV - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Kostenfreiheit für die Nachfahren der Opfer des Nationalsozialismus bei der Verlegung der Stolpersteine in Pankow - überwiesen
+- TOP 1.19: 72. Jahrestag der Befreiung - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Theater o.N. im Kollwitzkiez halten - überwiesen
+- TOP 1.21: Schulwegesicherheit der Grundschule im Hofgarten erhöhen - überwiesen
+- TOP 1.22: Alleingang des Senats bei der Neuvergabe der Außenwerbung stoppen! - überwiesen
+- TOP 1.23: Sozialplanverfahren Dunckerstraße 23 / Stargarder Str. 28 - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Milieuschutzbeirat gründen - überwiesen
+- TOP 1.25: Flutlichtanlage für das Kleinfeld des Helmut-Faeder-Sportplatzes im OT Französisch Buchholz (Chamissostraße, 13127 Berlin) - überwiesen
+- TOP 1.26: Rahmenvereinbarung GEMA für ganz Pankow verhandeln - überwiesen
+- TOP 1.27: Erhöhung der Verkehrssicherheit am Schönhauser Tor - überwiesen
+- TOP 1.28: Rad- und Fußverkehr fördern – Verkehrsberuhigung in der Gneiststraße und dem Helmholzplatz-Quartier - überwiesen
+- TOP 1.29: Kita- und Spielplatzsanierung in Pankow ausweiten - überwiesen
+- TOP 1.30: Millionenverschwendung und absehbare Baukatastrophe abwenden! - überwiesen
+- TOP 1.31: Aufgeweitete Radaufstellstreifen - überwiesen
+- TOP 1.32: Informationstafel über Sebastian Haffner auf dem Gelände des Kultur- und Bildungszentrums Sebastian Haffner an der Prenzlauer Allee - überwiesen
+- TOP 1.33: Blankensteinpark den veränderten Nutzungsbedingungen anpassen – Nutzungskonflikte beenden - überwiesen
+- TOP 1.34: Aufnahme des Gebietes Elisabethaue in die Biotopverbundplanung des Bezirks Pankow - überwiesen
+- TOP 1.35: Inklusive Sportstättenplanung - überwiesen
+- TOP 1.36: Bundesprogramm Ladeinfrastruktur - überwiesen
+- TOP 1.37: Inklusive Spielplatzplanung - überwiesen
+- TOP 1.38: Leistungsfähigkeit des Knotens Berliner Allee/ Rossinistraße - in der BVV abgelehnt
+- TOP 1.39: Information über positiv beschiedene Anträge im Rahmen des Berliner Gedenktafel-Programms - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Städtebauförderprogramm „Zukunft Stadtgrün“ - überwiesen
+- TOP 1.41: Fahrradabstellanlage vor dem Jobcenter Pankow neu gestalten - überwiesen
+- TOP 1.42: Querungshilfe in der Rudelsburgstraße - überwiesen
+- TOP 1.43: Haushaltstitel der Zuwendungen für Gleichstellung und Integration trennen - überwiesen
+- TOP 1.44: Querungssicherheit Bucher Chaussee/ Hofzeichendamm verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Dreiecksplätze nach verdienstvollen Frauen benennen - überwiesen
+- TOP 1.46: Reinigung der Unterführung am S-Bahnhof Greifswalder Straße - in der BVV abgelehnt
+- TOP 1.47: Evaluierung Wirtschaftsförderung - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Projekt "Pankower Tor" voranbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Verkehrsberuhigung und Schulwegsicherheit zwischen Niederschönhausen und dem Pankower Zentrum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Verkehrsberuhigung im Areal Parkstraße/ Elfenallee/ Eddastraße/ Chamissostraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Freihaltung einer Straßenbahntrasse Michelangelostraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Bebauungsplan XIX-53 für das Gelände zwischen Schönerlinder Straße, Bahntrasse, Bundesautobahn A 114, Landesgrenze und Bundesautobahn A 10 im Bezirk Pankow, Ortsteile Buch und Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
