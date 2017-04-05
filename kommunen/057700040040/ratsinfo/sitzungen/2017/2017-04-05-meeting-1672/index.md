@@ -1,0 +1,51 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2017-04-05T17:00:00+02:00
+- Ende: 2017-04-05T19:10:00+02:00
+- Ort: Gaststätte Am Museumshof, Lemförder Straße 43, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeMq0pOXRuH7xTX445AbmBU
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1672
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZSme-5LYDq6_Cj18k9131tBQsnBBxbr0McXcWTHjV5r/Bekanntmachung_Rat_05.04.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWrqfWySe9L3sCD3LxScHioVufYYPnkzeM1BUAxJ4ZMo/Oeffentliche_Niederschrift_Rat_05.04.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 2.1: Ratssitzung vom 23.02.2017 TOP 20.2 Werkstraße MeierGuss
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Doppelidentitäten von Asylbewerbern
+- TOP 4.: 3. vereinfachte Änderung des Bebauungsplanes Nr. 41 "Gewerbegebiet Pr. Ströhen" a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 13 Abs. 2 Nr. 2 und 3 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 5.: 3. Änderung und Erweiterung des Bebauungsplanes Nr. 40 „Ortskern Tonnenheide -Neuaufstellung-"zur Ausweisung des neuen Sportplatzes a) Beratung und Beschlussfassung über die 3. Änderung und Erweiterung des Bebauungs- planes im Verfahren gem. § 13a Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 3. Änderung und Erweiterung des Bebauungsplanes Nr. 40 „Ortskern Tonnenheide - Neuaufstellung-“ gem. § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 6.: 81. Änderung des Flächennutzungsplanes der Stadt Rahden zur nördlichen Ortsrandarrondierung in der Ortschaft Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 7.: Bebauungsplan Nr. 80 "Eisenbahnstraße" 1. Antrag der Fa. Lidl auf Änderung des Bebauungsplanes zur Erweiterung der zulässigen Verkaufsfläche 2. erneute öffentliche Auslegung des Bebauungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 8.: Antrag der Fraktion BÜNDNIS 90/ DIE GRÜNEN auf Erstellung und Installation von Kunstobjekten im öffentlichen Raum - Ohne Abstimmung
+- TOP 9.: Förderprogramm "Jung kauft Alt - Junge Leute kaufen alte Häuser" der Stadt Rahden - Ohne Abstimmung
+- TOP 10.: Vergabegremium Innenstadt - 27 Stimmen dafür, 5 dagegen (Schmidt-Tschech/Sprado/Steinkamp/Zimmermann/Dodenhöft), 1 Enthaltung (Henke)
+- TOP 11.: Ersatzwahl zum Betriebsausschuss Straßen - Ohne Abstimmung
+- TOP 12.: Bekanntgaben
+- TOP 12.1: Landtagswahl 2017
+- TOP 13.: Verschiedenes
+- TOP 13.1: Feuerwehrgerätehaus Varl-Sielhorst
+- TOP 13.2: Stellerloh
+- TOP 13.3: Breitbandausbau in Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 14.: Vergabe von Planungsaufträgen
+- TOP 14.1: Vergabe eines Planungsauftrages - Einstimmig, 0 Enthaltungen
+- TOP 14.2: Überplanung des Rahdener Friedhofes durch eine Landschaftsplanerin - Ohne Abstimmung
+- TOP 15.: Beratung über einen Antrag zur Ärzteförderung - Einstimmig, 0 Enthaltungen
+- TOP 16.: Grundstücksangelegenheiten
+- TOP 16.1: Veräußerung von zwei Gewerbeteilflächen im Gewerbegebiet Süd - Einstimmig, 0 Enthaltungen
+- TOP 16.2: Erwerb eines Grundstücks im Schul- und Sportzentrum Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bekanntgaben
+- TOP 17.1: Vermarktung Fläche ehem. Feuerwehrgerätehaus Prof.-Langhorst-Straße
+- TOP 17.2: Anmietung Leerstand KIK, Weher Straße
+- TOP 17.3: Aktueller Stand der Gewerbesteuer
+- TOP 18.: Verschiedenes
+- TOP 18.1: Nutzung von öffentlichen Räumen für politische Veranstaltungen
+- TOP 18.2: Nutzung des Gebäudes ehem. Weher Hof
