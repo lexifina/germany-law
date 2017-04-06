@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-04-06T14:00:00+02:00
+- Ende: 2017-04-06T18:39:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13467
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13467
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289857.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289857.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00289857.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wahl einer/eines Beigeordneten - mehrheitlich beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Tierschutzpartei-Freie Wähler:Pferdeunfälle in Rosenmontagsumzügen - beantwortet
+- TOP 5.2: Anfrage Ratsfrau Krüger: An- und Übergriffe auf Tiere - schriftlich beantwortet
+- TOP 5.3: Anfrage Ratsfrau Krüger: NABUTOP am Angermunder Baggersee - schriftlich beantwortet
+- TOP 5.4: Anfrage Tierschutzpartei-Freie Wähler:Weiterplanung der Variante der Initiative Angermund - beantwortet
+- TOP 5.5: Anfrage Ratsfrau El Fassi: "Reichsbürger" in Düsseldorf - schriftlich beantwortet
+- TOP 5.6: Anfrage Ratsfrau El Fassi:Auswirkungen des schulischen Inklusionsgesetzes in Düsseldorf - schriftlich beantwortet
+- TOP 5.7: Anfrage Rh Dr. Wlecke: Netto-Finanzposition der Stadt Düsseldorf - schriftlich beantwortet
+- TOP 5.8: Anfrage Ratsherr Dr. Wlecke: Erzielte Steuereinnahmen im Zeitraum Januar bis März 2017 - schriftlich beantwortet
+- TOP 5.9: Anfrage Die Linke: Strom-, Gas- und Wassersperren in Düsseldorf" - beantwortet
+- TOP 5.10: Anfrage Bü90/Grü: Zeitplan zur Untersuchung des Technischen Rathauses Auf’m Hennekamp - beantwortet
+- TOP 5.11: Anfrage FDP: Opferhilfeportal - beantwortet
+- TOP 5.12: Anfrage FDP: Einhaltung des Gaslaternen-Moratoriums - beantwortet
+- TOP 5.13: Anfrage Bü90-Grü: Sachstand Gesamtstädtisches Fördermittelmanagement Düsseldorf - schriftlich beantwortet
+- TOP 5.14: Anfrage Die Linke: Gewalttaten gegen Wohnungslose in Düsseldorf - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Maniera: Kinderehen in Düsseldorf - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Grand Depárt Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 8: CKW-Grundwasserverunreinigung Flingern - Stadtmitte (Ausführungs- u. Finanz.-beschluss) - einstimmig beschlossen
+- TOP 9: Rennbahnstraße 60, Waldschule im Wildpark, Neubau - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 10: Gesamtschule Lindenstraße, Standort Lindenstraße 140 - mehrheitlich beschlossen
+- TOP 10.1: ÄA Die Linke:Maria-Montessori-Gesamtschule, Hauptstandort Lindenstarße 140 - mehrheitlich abgelehnt
+- TOP 10.2: ÄA CDU: Maria-Montessori-Gesamtschule, Hauptstandort Lindenstraße 140 - mehrheitlich abgelehnt
+- TOP 11: Gesamtschule Lindenstraße, Standort Rosmarinstraße 28 - mehrheitlich beschlossen
+- TOP 11.1: ÄA Die Linke: Maria-Montessori-Gesamtschule, Dependance Rosmarinstr. 28 - mehrheitlich abgelehnt
+- TOP 11.2: ÄA CDU: Maria-Montessori-Gesamtschule, Dependance Rosmarinstraße 28 - mehrheitlich abgelehnt
+- TOP 12: 3. Änderungsbeschluss Mehrkosten Sanierung Aquazoo/Löbbecke-Museum - mehrheitlich beschlossen
+- TOP 13: Garath 2.0 – Den Wandel gestalten - einstimmig beschlossen
+- TOP 14: Garath 2.0 - Den Wandel gestalten - einstimmig beschlossen
+- TOP 15: Veränderungen bei städt. Kitas - Betriebsaufgabe Hasseler Richtweg - einstimmig beschlossen
+- TOP 16: Veränderungen bei städt. Kitas - Betriebsübernahme Posener Straße - einstimmig beschlossen
+- TOP 17: Entwicklung einer neuen Stadtmarken-Strategie - zur Kenntnis genommen
+- TOP 18: Vergabe des Helmut-Käutner-Preises - einstimmig beschlossen
+- TOP 19: Änderung der Geschäftsordnung des Rates - einstimmig beschlossen
+- TOP 20: Einigungsstelle gemäß § 67 Landespersonalvertretungsgesetz (LPVG) - einstimmig beschlossen
+- TOP 21: Aufsichtsrat der Grundstücksentwicklungs-Gesellschaft Düsseldorf mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 22: Entsendung eines Mitgliedes in den Ausschuss des Deichverbandes Neue Deichschau Heerdt - einstimmig beschlossen
+- TOP 23: Vorschlag zur Wahl des Verbandsvorstehers (Deichgräf) der Neuen Deichschau Heerdt (NDH) - Beschluss - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 25: B-Plan Nr. 09/006 Am Scheitenwege-Süd - Stellungnahmen, Änderungen, Satzung - mehrheitlich beschlossen
+- TOP 26: Anträge
+- TOP 26.1: Antrag Die Linke: Rheinbahn einen Tag kostenlos nutzen - verwiesen
+- TOP 26.2: Antrag Die Linke: Aufhebung des Beschlusses zu Sonntagsöffnungen - mehrheitlich abgelehnt
+- TOP 26.3: Antrag Die Linke: Wohnsitzauflage für Flüchtlinge abschaffen" - mehrheitlich abgelehnt
+- TOP 26.4: Antrag der CDU-Ratsfraktion: Transparenz bei städtischen Vergaben erhalten - zurückgezogen
+- TOP 26.5: Antrag CDU: Grunderwerbsteuer für neuen Wohnraum begrenzen - mehrheitlich abgelehnt
+- TOP 27: Zweckverband Verkehrsverbund Rhein Ruhr - einstimmig beschlossen
