@@ -1,0 +1,106 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-04-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4274671
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4274671
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 3.2.5 Bahnstraße - aktueller Stand März 2017
+- TOP 1.3.2.: 3.2.6 Wasserburger Landstraße / Wasserturmstraße - Markierungen an der Ausfahrt der Feuerwehr
+- TOP 1.3.3.: 3.6.1 Jagdhornweg/Otto-Lederer-Weg - Verschmutzung des Landschaftsschutzgebietes
+- TOP 1.3.4.: 4.4 SWM-Gas-Leitung bauen – Waldweg barrierefrei wiederherstellen
+- TOP 1.3.5.: 7.2.3 MVG-Leistungsprogramm 2018 - Stellungnahme des BA Frist: 12.05.2015
+- TOP 1.3.6.: 7.3.2 In der Heuluss - Temporäre Kunst im öff. Raum - Aufstellung Bautafel 27.03.-23.04.17 Antwort des Baureferats auf die ablehnende E-Mail des BA
+- TOP 1.3.7.: 8.2.12 Am Moosfeld 96
+- TOP 1.3.8.: 8.2.13 Von-Heydebreck-Straße 12
+- TOP 1.3.9.: 8.2.14 Wachtelweg 31
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Bezirksvereinigung Gartenstadt-Trudering e.V. 100-Jahrfeier am 10.05.2017
+- TOP 2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung einer Teilstrecke des Horst-Salzmann-Weges
+- TOP 2.2.2.: (E) Glasfaseranschlüsse für ganz München Empfehlung Nr. 14-20 / E 01192 der Bürgerversammlung des Stadtbezirkes 15 -- Trudering-Riem am 06.10.2016
+- TOP 3.2.1.: Florastraße - Verbesserung der Zufahrt für Radfahrer in den Fahrradweg an der Friedenspromenade in Richtung Wasserburger Landstraße
+- TOP 3.2.2.: 1. Der Fuß- und Radfahrweg parallel zur Straße "Am Hüllgraben" soll instand gesetzt werden. 2. Zusätzliche Absperrungen sollen angebracht und die vorhandenen Sperrbügel und Absperrpfosten im gesamten Verlauf der Straße "Leonhardiweg" instand gesetzt werden.
+- TOP 3.2.3.: Verbesserung der Buslinie Nr. 194. Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen.
+- TOP 3.2.4.: Bajuwarenstraße - Verkehrskonzept für Supermarktparkplatz
+- TOP 3.3.1.: Vermüllung Truderings
+- TOP 4.1.: Auswirkungen des Prognosebeschlusses vom März 2016 auf Trudering-Riem darstellen
+- TOP 4.2.: 5 Jahre nach der Ankündigung – wie geht es mit der Gleisbettsicherung bei der U-Bahn weiter?
+- TOP 4.3.: Interimskonzertsaal Messestadt Riem
+- TOP 5.1.: Trendsporthalle für Trudering- Riem
+- TOP 5.2.: Kinderbetreuung in der Messestadt gemeinsames Schreiben mit TOP 5.3
+- TOP 5.3.: Kindergartenplanung im 15. Stadtbezirk gemeinsames Schreiben mit TOP 5.2
+- TOP 5.4.: blaue Zone in der Messestadt-Ost - wo sollen die Anwohner ihre Autos abstellen? Parkverbot für LKW über 3,5 t
+- TOP 6.1.: "Flohmarktparkplatz" öffnen bei Bürgerversammlungen in der Riemer Messestadt Empfehlung Nr. 14-20 / E 01193 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem vom 06.10.2016
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Anhörung § 29 StVO, Willy-Brandt-Platz, Infomobil zum Tag des Hörens am 26.04.2017 Termin 11.04.2017
+- TOP 7.1.2.: Veranstaltungen in Grünanlagen (Stadtbezirk 15); Bergmesse auf dem Rodelhügel am 25.05.2017 im Riemer Park - Termin: 13.04.2017
+- TOP 7.1.3.: Veranstaltungen in Grünanlagen (Stadtbezirk 15); Vatertags-Fußballturnier am 25.05.2017 im Graf-Spee-Platz - Termin 10.04.2017
+- TOP 7.1.4.: Veranstaltungen in Grünanlagen (Stadtbezirk 15); Münchner Radlrallye am 07.05.2017 im Riemer Park - Termin 28.04.2017
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Feldbergstraße zwischen Todtnauer Weg und südliche Fahrbahn Gartenstadtstraße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 7.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Schneebergstraße
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Bauleitplanung der Gemeinde Aschheim 37. Änderung des Flächennutzungsplans Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Florastraße 3, Fl.Nr.: 224/59 - Neubau eines Einfamilienhauses mit 2 Stellplätzen - VORBESCHEID
+- TOP 7.4.2.: Kreillerstr. 194, Fl.Nr.: 356/0 - Neubau von Appartements für Senioren und Studenten mit Tiefgarage und gewerblicher Nutzung im EG (Tagespflege, Gastronomie und Laden)
+- TOP 7.4.3.: Horst-Salzmann-Weg , Fl.Nr.: 325/8 - Neubau einer Wohnanlage (37 WE)
+- TOP 7.4.4.: Truderinger Straße 267 - 271, Fl.Nr.: 271/2 - Neubau einer Kleinfeldturnhalle für die Pestalozzi-Realschule Trudering - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Auswahl neuer REGSAM-Schwerpunktgebiete ab 2017
+- TOP 7.5.2.: Einsatz des Kinder-Aktions-Koffers 2017/2018 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung Ausschreibung Frist: 31.05.2017 Vertagung aus der Märzsitzung
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Mönchbergstraße 37 Pfennigweg 8 Wasserturmstraße 20
+- TOP 8.2.1.: Askaripfad 12 Eigerstraße 3 Fabinistr. 14 Gartenstadtstraße 30 Gottschalkstraße 4 Hippelstraße 52 Lebzelterstraße 21 Mönchbergstraße 31 Otto-Lederer-Weg 41 - Ablehnung durch UNB Simplonstr. 4a Sonnenspitzstraße (ohne Hausnummer)
+- TOP 9.1.: Bericht des Vorsitzenden zur Sitzung des Beirats der MRG - Fortschreibung des Rahmenterminplans - Abschnittsterminplanung - Bauleitplanung
+- TOP 9.2.: Am Moosfeld 21 - Informationsveranstaltung zur Unterbringung von Flüchtlingen und Wohnungslosen am 26.04.2017 im Kulturzentrum Trudering um 19 Uhr Einladung erfolgt durch das Sozialreferat
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Beschlussentwurf Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen Stellungnahme des BA 25 Laim
+- TOP 10.1.2.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Erlaubnis mit Ausnahmegenehmigung und Gestattung (Stadtbezirk 15) Wasserburger Landstr. 32/Feldbergstr. 95; Sonnwendfeuer am 17.06.2017
+- TOP 10.2.2.: Baumaßnahme Am Hüllgraben 1. Radweg zwischen Am Hüllgraben und Brukenthalstraße, Bauarbeiten vom 10.04.2017 bis 02.06.2017 2. Am Hüllgraben - Radweg zwischen Leonhardiweg und Am Mitterfeld
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 10.3.2.: Wege aus dem Wohnungsmangel Ziffer 1 und Ziffer 2 der Empfehlungen Nr. 14-20 / E 01158 und Nr. 14-20 / E 01159 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 06.10.2016
+- TOP 10.3.3.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 10.3.4.: Bauleitplanung der Gemeinde Haar 1. Änderung Bebauungsplan Nr. 186 Verfahren nach §4 Abs. 3 BauGB Schreiben des PlanR an die Gemeinde
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Dachsteinstraße
+- TOP 10.4.1.2: Reginastraße
+- TOP 10.4.1.3: In der Heuluss
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 10.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: UA Umwelt
