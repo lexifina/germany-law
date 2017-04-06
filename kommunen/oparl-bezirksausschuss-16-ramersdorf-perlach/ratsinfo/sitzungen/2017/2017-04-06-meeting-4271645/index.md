@@ -1,0 +1,218 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2017-04-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4271645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4271645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.6: Sonstige
+- TOP 3: Anträge
+- TOP 3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.5.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.4.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.4.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.2.: zu 4.4.2.2 Bebauungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße / Alexisweg (westlich), Karl-Marx-Ring (östlich), Niederalmstraße (südlich), Stemplingeranger (nördlich) Stadtbezirk 16 – Ramersdorf-Perlach hier: Beteiligung der Träger und Behörden gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) Zuleitung vom 23.02.2017 (TOP 4.4.2.2 vom 09.03.2017) Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung 4.4.2.4 Gewerbeflächenentwicklungsprogramm – GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern Anhörung der betroffenen Bezirksausschüsse zum Beschluss Gewerbeflächenentwicklungsprogramm – GEWI vom 15.03.2017 (Vollversammlung) Bitte um Stellungnahme bis spätestens 22.05.2017 Zuleitung vom 04.04.2017 zu 4.5.2.1 St.-Ingbert-Str. 30-32, Nachbarschaftsfest am 08.07.2017 Frist zur Stellungnahme bis zum 31.03.2017 Zuleitung vom 15.03.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung zu 4.5.4.1 Anhörung zur Wahlbezirkseinteilung 2017 Bitte um Rückmeldung bis spätestens 24.03.2017 Zuleitung vom 09.02.2017 (TOP 4.5.4.2 vom 09.03.2017) Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 1.2.3.: 4.5.2.3 Hanns-Seidel-Platz, 50 Jahre Neuperlach am 20./21.05.2017 Frist zur Stellungnahme bis zum 05.05.2017 Zuleitung vom 05.04.2017
+- TOP 1.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Mobilität und Umwelt
+- TOP 2.1.1.: (E) Sanierung Zieglerstr. nördlich ab Haus Nr. 22 mit Gehweg, Grünstreifen, Grüninseln, Bäumen, Straßenbelag und Schlaglöchern Empfehlung Nr. 14-20 / E 01063 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 28.06.2016 (TOP 2.1.2 vom 09.03.2017, TOP 2.1.1 vom 09.02.2017, TOP 2.1.1 vom 12.01.2017)
+- TOP 2.2: Budget, Kultur und Sport
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule an der Balanstraße Erstellung einer Homepage Az. 0262.0-16-0194 Antragssumme: 892,25 € (TOP 2.2.1.2 vom 09.03.2017)
+- TOP 2.2.1.2.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Fußballmodellprojekt: Kicklusion "...und alle kicken mit!" Az. 0262.0-16-0195 Antragssumme: 2.836,00 € (TOP 2.2.1.3 vom 09.03.2017)
+- TOP 2.2.1.3.: (E) Budget der Bezirksausschüsse Kindertreffpunkt e.V. Kinder Aktionsprogramm "Ich wohne in Neuperlach" im Juni / Juli 2017 Az. 0262.0-16-0197 Antragssumme: 1.167,00 €
+- TOP 2.2.1.4.: (E) Budget der Bezirksausschüsse KulturBunt Neuperlach mit: Kulturhaus Neuperlach Kulturbeitrag zur Fünfzigjahrfeier von Neuperlach vom 17.05. - 21.05.2017 Az. 0262.0-16-0196 Antragssumme: 25.097,50 €
+- TOP 2.2.1.5.: (E) Budget der Bezirksausschüsse Wohnforum GmbH, Nachbarschaftstreff Langbürgener Straße Frühlingsfest am 20.05.2017 Antragssumme: 937,50 €
+- TOP 2.2.1.6.: (E) Budget der Bezirksausschüsse SVN München e.V. Integrationsprojekt "Sport, Spiel, Spaß für junge Flüchtlinge" Az. 0262.0-16-0199 Antragssumme: 6.500,00 €
+- TOP 2.2.1.7.: (E) Budget der Bezirksausschüsse FestSpielHaus gGmbH Theaterzelt Lunatico vom 30.06. - 09.07.2017 Az. 0262.0-16-0198 Antragssumme: 3.000,00 €
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 2.4.1.: Einrichtung eines Wochenmarktes am Karl-Preis-Platz, verbunden mit einer Gestaltungsverbesserung des Platzes, u.a. zur Belebung und Akzeptanz durch die dort ansässige Bevölkerung Empfehlung Nr. 14-20 / E 01071 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016 (TOP 2.4.1 vom 09.03.2017)
+- TOP 2.5.1.: Entscheidung über die Einrichtung/Änderung/Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.2017; Neueinrichtung eines Taxistandplatzes am MVG-Museum in der Ständlerstraße Zuleitung vom 28.02.2017
+- TOP 3.1: Mobilität und Umwelt
+- TOP 3.1.1.: Bad Dürkheimerstraße / südlicher Teil der Ungsteinerstraße - Einrichtung einer Fahrradstraße (TOP 3.1.1 vom 09.03.2017, TOP 3.1.4 vom 09.02.2017, TOP 3.1.4 vom 12.01.2017, TOP 3.1.17 vom 08.12.2016)
+- TOP 3.1.2.: Verhindern des Umfahrens der Ampel an der Kreuzung der Ständlerstr./Balanstr. über die Traunreuter Str., z. Bsp. durch das Ernennen der Traunreuter Str. zu einer Anliegerstraße. Bürgeranliegen vom 26.03.2017
+- TOP 3.1.3.: Schild Einfahrt verboten vom Mittleren Ring, Ottobrunnerstr. in die Aribonenstr. Bürgeranliegen vom 23.03.2017
+- TOP 3.1.4.: Trambahnanbindung forcieren, ÖPNV-Anbindung für Ramersdorf-Perlach zukunftssicher machen. Antrag der FDP im BA 16 vom 02.04.2017
+- TOP 3.1.5.: Pilotversuch zum Einsatz von Dialog-Displays nicht auf 5 Standorte begrenzen – Weidener Straße in jedem Fall miteinbeziehen Dringlichkeitsantrag der SPD-Fraktion vom 06.04.2017
+- TOP 3.2: Budget, Kultur und Sport
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 3.3.1.: Kinder in Flüchtlingsunterkünften brauchen einen KiTa-Platz! Antrag der Fraktion Bündnis 90/Die Grünen im BA 16 vom 22.02.2017 (TOP 3.3.1 vom 09.03.2017)
+- TOP 3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.2.: Bebauung der Haldenseesiedlung ist zu beschleunigen. Antrag der FDP im BA 16 vom 03.04.2017
+- TOP 3.4.3.: Haldenseesiedlung: Am guten Weg des Dialogs festhalten und Kritik ernst nehmen! Frist für Einwendungen bis zum 10.04.2017 Antrag der CSU-Fraktion im BA 16 vom 04.04.2017
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.1: Mobilität und Umwelt
+- TOP 4.1.1.: Austausch von Lichtsignalanlagen an der Kreuzung St.-Martin-/ Gemersheimer Str. Bitte um Mitteilung bis zum 19.04.2017 Zuleitung vom 08.03.2017
+- TOP 4.1.2.: Leistungsprogramm 2018 der MVG (Fahrplanwechsel Dezember 2017) Bitte um Stellungnahme bis zum 12.05.2017 Zuleitung vom 03.04.2017
+- TOP 4.1.3.: Pfanzeltplatz in Alperlach: Entfernung von Pollern mit Kette. Zuleitung vom 31.03.2017
+- TOP 4.2: Budget, Kultur und Sport
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 4.3.1.: REGSAM, Schwerpunktgebietsauswahl 2017-2019 Bitte um Stellungnahme bis zum 31.05.2017 Zuleitung vom März 2017
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 4.4.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1.: Ottobrunner Str. 14 + 16, Fl.Nr. 16298/8 - Neubau zweier Wohnhäuser (ges. 60 WE) mit Tiefgarage (61 Stpl.) Zuleitung vom 21.02.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung (TOP 4.4.1.14 vom 09.03.2017)
+- TOP 4.4.1.2.: Albert-Schweitzer-Str. 76, Fl.Nr. 1529/76 - Neubau eines Wohn- und Geschäftsgebäudes ("Leben am Ostpark") - TEKTUR zu 1.1-2013-6494-31 - hier: Nutzungsänderung Gewerbeeinheit 01 im EG: Bäckereiladen zu Institut für Schüler-Nachhilfe (20 Schüler) Zuleitung vom 22.02.2017 (TOP 4.4.1.15 vom 09.03.2017)
+- TOP 4.4.1.3.: Balanstr. 92, Fl.Nr. 15671/48 - Neubau 2er Mehrfamilienhäuser (18 WE) mit Tiefgarage - TEKTUR zu 1.2-2015-22960-31 (hier: RGB - Umverlegung Nottreppe, neuer Balkon im 2. OG; VGB - Erweiterung Wohnraum im DG) Zuleitung vom 22.02.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung (TOP 4.4.1.16 vom 09.03.2017)
+- TOP 4.4.1.4.: Carl-Wery-Str. , Fl.Nr. 446/10 - WA2 - Neubau eines Wohngebäudes (256 WE) mit Tiefgarage (179 Stpl.) und Bewohnertreff Frist zur Stellungnahme bis zum 29.03.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung Zuleitung vom 21.03.2017
+- TOP 4.4.1.5.: Sundergaustr. 140, Fl.Nr. 2084/16 - Neubau eines Mehrfamilienhauses (3 WE) mit Unterflurparker und Garage (Haus Nord) Zuleitung vom 21.03.2017
+- TOP 4.4.1.6.: Sundergaustr. 140, Fl.Nr. 2084/16 - Neubau eines Mehrfamilienhauses (3 WE) mit Unterflurparker und Garage (Haus Süd) Zuleitung vom 21.03.2017
+- TOP 4.4.1.7.: Pfanzeltpl. 15, Fl.Nr. 116/0 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID Zuleitung vom 21.03.2017
+- TOP 4.4.1.8.: Puechbergerstr. 38 - 46, Fl.Nr. 1087/0 - Neubau eines Punkthauses Zuleitung vom 16.03.2017
+- TOP 4.4.1.9.: Balanstr. 159 - 163, Fl.Nr. 1093/0 - Neubau eines Punkthauses mit Tiefgarage (Balanstr. 159 - 163 / Puechbergerstr. 9 - 31) Zuleitung vom 21.03.2017
+- TOP 4.4.1.10.: Innsbrucker Ring 157, Fl.Nr. 18460/0 - Neubau eines Wohnhauses (20 WE) mit Tiefgarage (20 Stpl.) Zuleitung vom 21.03.2017
+- TOP 4.4.1.11.: Ottobrunner Str. 26, Fl.Nr. 16298/0 - Neubau einer Wohnanlage mit Discounter, Dienstleistungsfläche und Tiefgarage Zuleitung vom 17.03.2017
+- TOP 4.4.2: Weitere Anhörungen
+- TOP 4.4.2.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Bitte um Übermittlung von Neuvorschlägen von Bäumen als Naturdenkmal bis spätestens 26.04.2016 Zuleitung vom 12.01.2017 (TOP 4.4.2.1 vom 09.03.2017)
+- TOP 4.4.2.2.: Bebauungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße /Alexisweg (westlich), Karl-Marx-Ring (östlich), Niederalmstraße (südlich), Stemplingeranger (nördlich) Stadtbezirk 16 – Ramersdorf-Perlach hier: Beteiligung der Träger und Behörden gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) Zuleitung vom 23.02.2017 (TOP 4.4.2.2 vom 09.03.2017)
+- TOP 4.4.2.3.: Fritz-Erler-Straße, zwischen Von-Knoeringer-Str. und Hanns-Seidel-Platz Bitte um Stellungnahme innerhalb von 6 Wochen Zuleitung vom 01.03.2017 (TOP 4.4.2.3 vom 09.03.2017)
+- TOP 4.4.2.4.: Gewerbeflächenentwicklungsprogramm – GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern Anhörung der betroffenen Bezirksausschüsse zum Beschluss Gewerbeflächenentwicklungsprogramm – GEWI vom 15.03.2017 (Vollversammlung) Bitte um Stellungnahme bis spätestens 22.05.2017 Zuleitung vom 04.04.2017
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.5.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.1.1.: Ostpark (Theatron), Anfrage Dachschaden Kultur Openair am 20.05.2017 Frist zur Stellungnahme (Mitteilung von Bedenken) bitte bis spätestens zum 10.04.2017 Zuleitung vom 21.03.2017
+- TOP 4.5.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2.1.: St.-Ingbert-Str. 30-32, Nachbarschaftsfest am 08.07.2017 Frist zur Stellungnahme bis zum 31.03.2017 Zuleitung vom 15.03.2017
+- TOP 4.5.2.2.: Pfanzeltplatz und St.-Koloman-Str., Maifeier am 01.05.2017 Frist zur Stellungnahme bis zum 19.04.2017 Zuleitung vom 28.03.2017
+- TOP 4.5.2.3.: Hanns-Seidel-Platz, 50 Jahre Neuperlach am 20./21.05.2017 Frist zur Stellungnahme bis zum 05.05.2017 Zuleitung vom 05.04.2017
+- TOP 4.5.4: Weitere Anhörungen
+- TOP 4.5.4.1.: Anhörung zur Wahlbezirkseinteilung 2017 Bitte um Rückmeldung bis spätestens 24.03.2017 Zuleitung vom 09.02.2017 (TOP 4.5.4.2 vom 09.03.2017)
+- TOP 4.5.4.2.: Erinnern statt Vergessen - Den Ereignissen 1918/1919 von der Monarchie zur Münchner Räterepublik und des grausamen Bürgerkriegs im Mai 1919 würdig und lokal gedenken! Antrag des Bezirksausschusses 8 Schwanthalerhöhe vom 14.02.2017 mit der Bitte um Unterstützung. (TOP 4.5.4.4 vom 09.03.2017)
+- TOP 4.5.4.3.: Mittelfristige Finanzplanung 2016 – 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2017 bis 2021 Bitte um Stellungnahme bis zum 12.04.2017 Zuleitung vom 22.02.2017 (TOP 4.5.4.5 vom 09.03.2017)
+- TOP 4.6: Sonstige
+- TOP 5.2.1: Mobilität und Umwelt
+- TOP 5.2.2: Budget, Kultur und Sport
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität und Umwelt
+- TOP 6.1.1.: 1. Weitergehende Prüfung und Machbarkeitsstudie für eine Trambahnlinie in den 16. Stadtbezirk 2. Information des Bezirksausschusses über den Planungs- und Realisierungsstand der geplanten Stadtumlandbahn/Tram Zuleitung vom 15.03.2017
+- TOP 6.1.2.: Hanns-Seidel-Platz - Verkehrsführung Zuleitung vom 23.03.2017
+- TOP 6.1.3.: Holzwiesenstraße östlich Krehlebogen, Mangelhafte Fahrbahndecken-Instandsetzung Zuleitung vom 17.03.2017
+- TOP 6.1.4.: Verkehrssituation in Waldperlach: Waldperlacher Straße Zuleitung vom 03.03.2017
+- TOP 6.1.5.: Putzbrunnerstraße - Abstellen von Anhängern und Müllproblematik Zuleitung vom 02.03.2017
+- TOP 6.1.6.: (E) Kürzere Rotlichtphase für die Krumbadstraße an der Signalanlage Bad-Schachener- / Krumbadstraße
+- TOP 6.1.7.: Putzbrunnerstr./Waldheimplatz; Prüfung der Einrichtung eines Fußgängerüberweges Zuleitung vom 27.02.2017
+- TOP 6.1.8.: Herstellung der Verkehrssicherheit für Zweiradfahrer - Ständlerstraße, Fahrtrichtung Ost Zuleitung vom 28.03.2017
+- TOP 6.1.9.: Verkehrssicherheitsgrün (VSG) in der Hochäckerstraße und Rosenheimer Straße (Bereich Ortskern Ramersdorf) Zuleitung vom 08.03.2017
+- TOP 6.1.10.: Situation Kosegartenplatz / Hamannstraße - Verkehrsproblematk Zuleitung vom 17.03.2017
+- TOP 6.2: Budget, Kultur und Sport
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 6.3.1.: Fital-Parcour und Veranstaltungstafel im Grünzug zwischen Skateanlage und Streetbasketball Platz bei der Arnold-Sommerfeld-Str. Zuleitung vom 14.03.2017
+- TOP 6.3.2.: Unterkunftsanlage Nailastraße Beantwortung der Fragen des BA 16 vom 18.01.2017
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 6.4.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.1.1.: Ausufernde und störende gewerbliche Nutzung des Grundstücks Ottobrunner Straße 116 sowie der angrenzenden und dahinterliegenden Flächen Zuleitung vom 06.03.2017
+- TOP 6.4.2.1.: Pfanzeltplatz 4; Antrag auf Neubauten unter weitgehender Gebäudelage im Bestand mit Nutzungsänderung Zuleitung vom 17.03.2017
+- TOP 6.4.2.2.: Fläche für einen Perlacher Feststadl Antwort des Burschenvereins Die G&#039;mütlichen Perlach e.V. Zuleitung vom 21.03.2017
+- TOP 6.4.2.3.: Aufforderung an das Kommunalreferat zur Gesprächsinitiative Ortskern Ramersdorf Zuleitung vom 02.03.2017
+- TOP 6.4.2.4.: Auftrag zur Überprüfung des Stadtteils Neuperlach im Hinblick auf den Erlass einer Erhaltungssatzung Zuleitung vom 14.03.2017
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 6.5.1.: Vollzug der Grünlagensatzung vom 15.06.2012; Betrieb einer Hundeschule in der Grünanlage Ostpark und Park am Hugo-Lang-Bogen Erteilung einer Ausnahmegenehmigung vom 07.04.2017 bis 22.12.2017, jeden Freitag zwischen 16.00 bis 19.00 Uhr (je nach Dunkelheit), maximal 1 Stunde Zuleitung vom 27.03.2017
+- TOP 6.5.2.: Vollzug der Grünlagensatzung vom 15.06.2012; Betrieb einer Hundeschule in der Grünanlage Ostpark und Park am Hugo-Lang-Bogen Erteilung einer Ausnahmegenehmigung vom 05.04.2017 bis 20.12.2017, jeden Mittwoch zwischen 17.00 bis 19.00 Uhr (je nach Dunkelheit), maximal 1 Stunde Zuleitung vom 27.03.2017
+- TOP 6.5.3.: Vollzug der Grünlagensatzung vom 15.06.2012; Betrieb einer Hundeschule in der Grünanlage Ostpark und Park am Hugo-Lang-Bogen Erteilung einer Ausnahmegenehmigung vom 05.04.2017 bis 20.12.2017, jeden Mittwoch zwischen 16.00 bis 18.00 Uhr (je nach Dunkelheit), maximal 1 Stunde Zuleitung vom 27.03.2017
+- TOP 6.5.4.: Vollzug der Grünlagensatzung vom 15.06.2012; Betrieb einer Hundeschule in der Grünanlage Ostpark und Park am Hugo-Lang-Bogen Erteilung einer Ausnahmegenehmigung vom 07.04.2017 bis 22.12.2017, jeden Freitag zwischen 15.00 bis 18.00 Uhr (je nach Dunkelheit), maximal 1 Stunde Zuleitung vom 27.03.2017
+- TOP 6.6: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität und Umwelt
+- TOP 7.1.1.: Allgemeinverfügung des Amtes für Ernährung, Landwirtschaft und Forsten Ebersberg zur Bekämpfung des Asiatischen Laubholzbockkäfers Korrektur der Geltungsdauer vom 31.12.2019 auf den 31.12.2020 Zuleitung vom 17.03.2017
+- TOP 7.1.2.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016 Zuleitung vom 13.03.2017
+- TOP 7.1.3.: Biotop im Perlacher / Truderinger Wald als Naherholungsgebiet erhalten! Antrag Nr. 14-20 / A 02903 Zuleitung vom 22.02.2017
+- TOP 7.2: Budget, Kultur und Sport
+- TOP 7.2.1.1.: Freiwilige Feuerwehr Waldperlach von 1927 e.V. Jubiläumsfeier 90 Jahre Freiwillige Feuerwehr Waldperlach vom 08./09. Juli 2017 beantragte Zuwendung: 4.000,00 €
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3.2.: Ersatz für das Kulturhaus Ramersdorf-Perlach am Hanns-Seidel-Platz schaffen Antrag Nr. 14-20 / A 02873 Zuleitung vom 20.02.2017
+- TOP 7.2.3.3.: Standortsicherung der Jugendeinrichtung Festspielhaus in Neuperlach Antrag Nr. 14-20 / A 02879 Zuleitung vom 17.02.2017
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 7.3.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 7.3.2.: Antrag auf Abänderung der Betriebserlaubnis für die Nailastraße 10, München
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 7.4.2.1.: Schreivoglstr. 34; Fällungsantrag vom 06.02.2017; Bescheid vom 10.03.2017
+- TOP 7.4.2.2.: Langbürgener Str. 6-14 / Endorfer Str. 3-15; Fällungsantrag vom 10.02.2017; Bescheid vom 10.03.2017
+- TOP 7.4.2.3.: Harsdörferstr. 1-3, Klagenfurter Str. 2-4; Fällungsantrag vom ; Bescheid vom 27.03.2017
+- TOP 7.4.2.4.: Dornröschenstr. 12; Fällungsantrag vom 22.02.2017; Bescheid vom 27.03.2017
+- TOP 7.4.2.5.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Anhörung über Baumentfernungen - fand am 19.01.2017 bereits statt Unterrichtung über sonstige Eingriffe in den Gehölzbestand Objektgruppenbezeichnung / Name/n der Grünfläche/n: Pfälzer Wald Straße Zuleitung vom 22.02.2017
+- TOP 7.4.2.6.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Objektgruppenbezeichnung / Name/n der Grünfläche/n: Pfälzer Wald Straße Zuleitung vom 22.02.2017
+- TOP 7.4.2.7.: Isengaustr. 25; Fällungsantrag vom 12.01.2017; Bescheid vom 24.02.2017
+- TOP 7.4.3.1.: Stollstr.; Mitteilung vom 02.03.2017
+- TOP 7.4.3.2.: Ottobrunner Str. und Ottobrunner Str.; Mitteilung vom 21.02.2017
+- TOP 7.4.3.3.: Haldenseestr..; Mitteilung vom 15.02.2017
+- TOP 7.4.3.4.: Kampenwandstr.; Mitteilung vom 03.03.2017
+- TOP 7.4.4: Weitere Unterrichtungen
+- TOP 7.4.4.1.: Planfestsellungsbescheid für das Vorhaben "Barrierefreier Umbau des Bahnhofs München-Perlach" Zuleitung vom 06.03.2017
+- TOP 7.4.4.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2. Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Lindwurmstraße durch die DB AG
+- TOP 7.4.4.3.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016 Zuleitung vom 27.03.2017
+- TOP 7.4.4.4.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen Zuleitung vom 22.02.2017
+- TOP 7.4.4.5.: (U) Siedlungs-, Verkehrs- und Freiraumentwicklung im Hachinger Tal - Interkommunale Aktivierung der Entwicklungspotenziale Anträge und Empfehlungen Antrag Nr. 08-14/ A 05011 der Stadtratsfratkion DIE GRÜNEN/ RL vom 17.01.14 Empfehlung Nr. 14-20/ E 00548 der Bürgerversammlung des Stadtbezirks 16 Ramersdorf-Perlach am 09.07.15 Antrag Nr. 14-20/ A 01571 der Stadtratsfraktion DIE GRÜNEN / RL vom 01.12.2015 Empfehlung Nr. 14-20/ E 00966 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Pe3rlach, bezirksteil Perlach am 02.06.16 Zuleitung vom 17.03.2017
+- TOP 7.4.4.6.: (U) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/17 Rosenheimer Straße (nordwestlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingerstraße (westlich), Mühldorferstraße (südwestlich) und Friedenstraße (südöstlich) a) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss b) Aufhebung des Billigungsbeschlusses und vorbehaltlich endgültiger Beschluss der Vollversammlung vom 14.12.2016 (Sitzungsvorlage Nr. 14-20 / V 07487) Zuleitung vom 13.02.2017
+- TOP 7.4.4.7.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern Zuleitung vom 13.02.2017
+- TOP 7.4.4.8.: Bürgerversammlung des 16. Stadtbezirkes – Ramersdorf-Perlach, Bezirksteil Perlach am 18.05.2017 Anschreiben an die Referate und Übersicht zur Erstellung der Präsentation Zuleitung vom 28.03.2017
+- TOP 7.4.4.9.: Bebauungsplan mit Grünordnung Nr. 1609 Hanns-Seidel-Platz (südlich), Fritz-Erler-Straße (westlich), Von-Knoeringen-Straße (nördlich), Thomas-Dehler-Straße (östlich) Herstellung der öffentlichen Verkehrsflächen im Bereich der Teilbaugebiete WA 3 und WA 4 des Allgemeinen Wohngebietes 1. Bauabschnitt im 16. Stadtbezirk Ramersdorf - Perlach Bedarfs- und Konzeptgenehmigung Sitzungsvorlage Nr. 14-20 / V 07954
+- TOP 7.4.4.10.: Erinnerungsverfahren (§ 6.1 AufgrO) Projektname Görzer Str. 99 - Wiederherstellung nach Bauschaden Zuleitung vom 22.02.2017
+- TOP 7.4.4.11.: Vorwegmaßnahme Carl-Wery-Straße Fahrradabstellanlage U- und S-Bahnhof Neuperlach Süd Zuleitung vom 03.03.2017
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 7.5.1.1.: voraussichtlicher Name "Best", Schank- und Speisewirtschaft, Pfälzer-Wald-Str. 65
+- TOP 7.5.1.2.: Pallas Athene, Schank- und Speisewirtschaft, Staudingerstr. 17
+- TOP 7.5.2: Weitere Unterrichtungen
+- TOP 7.5.2.1.: Beschlussentwurf Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrena.mt und Engagement von Vereinen Zuleitung vom 08.03.2017
+- TOP 7.5.2.2.: Veranstaltung auf Privatgrund und in einer städtischen Grünanlage: Max-Reinhardt-Weg (Heinrich-Heine-Gymnasium und Grünanlage), 7. Swim n Run München am 19.03.2017 Bestätigung mit Ausnahmegenehmigung Zuleitung vom 17.03.2017
+- TOP 7.5.2.3.: Vollzug der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für nächtliche Filmndreharbeiten Zuleitung vom 03.03.2017
+- TOP 7.6: Sonstige
+- TOP 7.6.1.: Bürgersprechstunde des Oberbürgermeisters am 27.04.2017 Zuleitung vom 17.03.2017
+- TOP 7.6.2.: Weitergabe von Sitzungsunterlagen an die Presse Schreiben vom 02.03.2017 und Schreiben vom 10.03.2017 zum Schreiben vom 02.03.2017
+- TOP 8.1.1: Mobilität und Umwelt
+- TOP 8.1.1.1.: Montag, 24. April 2017, 19:00h , Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1, 81737 München
+- TOP 8.1.2: Budget, Kultur und Sport
+- TOP 8.1.2.1.: Mittwoch, 26. April 2017, 19:00h, Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1, 81737 München
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 8.1.3.1.: Dienstag, 18. April 2017, 18:00h , Ort wird noch bekannt gegeben
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 8.1.4.1.: Dienstag, 25. April 2017, 19:00h , Technisches Rathaus, Friedenstraße 40, 81671 München, Raum 0.409
+- TOP 8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.1.5.1.: Mittwoch, 19. April 2017, 19:00h, Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1, 81737 München
