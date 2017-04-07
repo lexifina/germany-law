@@ -1,0 +1,56 @@
+# 13. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-04-07T10:00:00+02:00
+- Ende: 2017-04-07T11:20:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-VV-30
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-VV-30
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-VV-30
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2017-VV-30
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2017-VV-30
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Städtebauförderung hier: Aufstellung des Städtebauförderprogramms 2017
+- TOP 1.2: Kommunaler Straßenbau Unterrichtung und Beratung über das Förderprogramm 2017
+- TOP 1.3: Nahmobilität Unterrichtung und Beratung über das Förderprogramm 2017
+- TOP 1.4: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik hier: Beratung und Beschlussfassung 2017
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.5: Landesentwicklungsplan Nordrhein-Westfalen
+- TOP 1.6: 81. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Voerde Erweiterung und Änderung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) mit Zweckbindung - Standorte für den kombinierten Güterverkehr Aufstellungsbeschluss
+- TOP 1.7: 5. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund - westlicherTeil - im Gebiet der Stadt Dortmund Änderung der Bereiche für gewerbliche und industrielle Nutzungen (GIB), der Allgemeinen Siedlungsbereiche (ASB) und der Allgemeinen Freiraum-und Agrarbereiche Aufstellungsbeschluss
+- TOP 1.8: Bericht über lfd. Verfahren - RVR als Regionalplanungsbehörde
+- TOP 1.9: Anfragen und Mitteilungen
+- TOP -: Verwendung von Mitteln für den Radwegebau an bestehenden Landesstraßen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.1: Satzung zur 7. Änderung der Verbandsordnung
+- TOP 2.2: Umbesetzung in den Fachausschüssen
+- TOP 2.3: Fortschreibung des Gleichstellungsplans zur Gleichstellung von Frauen und Männern beim RVR 2016 – 2019 inkl. Abschlussbericht zur Umsetzung des Frauenförderplans 2013 – 2016 (FFPL)
+- TOP 2.4: Abberufung der ersten stellvertretenden Schriftführerin der Verbandsversammlung
+- TOP 2.5: Besetzung im Aufsichtsrat der EKOCity GmbH
+- TOP 2.6: Übertragung von Ermächtigungen aus dem Haushaltsjahr 2016 in das Haushaltsjahr 2017
+- TOP 2.7: Einbringung des Jahresabschlusses 2015 des Regionalverbandes Ruhr
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.8: Bewerbung des Regionalen Klimaschutzkonzepts im Projektaufruf 'KommunalerKlimaschutz.NRW'
+- TOP 2.9: Stellungnahme des RVR als Träger öffentlicher Belange zum Entwurf des NVP der Stadt Bochum
+- TOP 2.9.1: Ergänzungsantrag Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Nahrverkehrsplanes der Stadt Bochum, Antrag der Fraktionen CDU, SPD und Bündnis90/Die Grünen vom 09.03.2017
+- TOP 2.10: Antrag der Piraten-Fraktion: Informationen zum RS1 in Leichter Sprache
+- TOP 2.10.1: Anfrage der Piraten-Fraktion vom 22.03.2017 zu Informationen des RVRs in leichter Sprache
+- TOP 2.10.2: Informationen zum RS1 in leichter Sprache, Änderungsantrag der Fraktionen CDU, SPD und Bündnis90/Die Grünen vom 06.04.2017 zum Antrag der Piraten-Fraktion vom 23.02.2017 (Drucksache Nr. 13/0743)
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.11: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages
+- TOP -: Fraktionsanträge
+- TOP 2.12: Bestandsaufnahme Literatur Ruhr
+- TOP 2.13: Anfragen und Mitteilungen
+- TOP -: Europäischer Sozialfonds ESF, hier: Antwort der Verwaltung zur CDU-Anfrage zum Europäischen Sozialfond
+- TOP -: Antwort der Verwaltung auf die Fraktionsanfrage der CDU (Drucksache Nr. 13/0703), hier: Sachstand Notrufsystem im Rahmen der Planungen zum wegweisenden Knotenpunktsystem radrevier.ruhr
+- TOP -: Stellungnahme der Verwaltung zur Anfrage der SPD.Fraktion zum Regionalen Diskurs - Fortschreibung der 'Perspektiven zur räumlichen Entwicklung der Metropole Ruhr'
+- TOP -: Antwort der Verwaltung auf die Fraktionsanfrage der CDU ( Drucksache Nr. 13/0785 ) hier: Regionale
+- TOP -: Antwort zur Anfrage der FWG vom 07.04.17: Metropolregion Rheinland
