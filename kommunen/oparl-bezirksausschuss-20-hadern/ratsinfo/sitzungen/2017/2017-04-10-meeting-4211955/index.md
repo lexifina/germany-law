@@ -1,0 +1,97 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4211955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4211955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: Gemeinsamer UA Verkehr und UA Bau und Wohnen
+- TOP 3.3.: UA Umwelt und Region
+- TOP 3.4.: UA Soziales und Kultur
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Maenherstraße 18, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 4203
+- TOP 7.1.2.: Aurikelstraße 37, gem. Baumbestands- und Freiflächengestaltungsplänen Nrn. 4937 und 4941
+- TOP 7.1.3.: Bramburgstraße 6, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 3464
+- TOP 7.1.4.: Hochwaldstraße 3 a, 1 Thuja
+- TOP 7.1.5.: Waldesruhe 49, 1 Birke und 2 Lärchen
+- TOP 7.1.6.: Windeckstraße 60, 1 Säulenwachholder, 1 Eibe und 1 Holunder
+- TOP 7.1.7.: Heinrich-Lammel-Straße 10, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 5664
+- TOP 7.1.8.: Terofalstraße 72, 1 Baum
+- TOP 7.1.9.: Rudi-Seibold-Straße 1, 1 Linde
+- TOP 7.1.10.: Würmtalstraße 25, 1 Thuje
+- TOP 7.1.11.: Aurikelstraße 13 und 13 a, 1 Kirsche und 1 Linde
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: LKW-Parken Senftenauerstraße 21
+- TOP 1.2.: Arbeiterwohnheim Kleinhaderner Straße 2
+- TOP 1.3.: "Hadern - der blühende Obstgarten Münchens", Pflege der Obstbäume
+- TOP 5.1.: Budget der Bezirksausschüsse, Initiative "München malt - Das Leben ist bunt", Aktion "München malt - Das Leben ist bunt" vom 05.06. - 11.06.2017 (Direktorium, 20.03.17)
+- TOP 5.2.: Budget der Bezirksausschüsse, PA/Spielen in der Stadt e.V., Artmobil vom 17.05. - 19.05.2017 (Direktorium, 20.03.17)
+- TOP 6.1.: Mittelfristige Finanzplanung 2016 - 2020, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2021 (Stadtkämmerei, 22.02.17) (vertagt aus 03/17)
+- TOP 6.2.: Projektname: ÖPNV Offensive - Senftenauerstraße, Haltestelle Hönigschmidplatz (Baureferat, 08.02.17) (vertagt aus 03/17)
+- TOP 6.3.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Neuried, Bebauungsplan Nr. 51 a "Südlich des Kraillinger Weges" (Referat für Stadtplanung und Bauordnung, 09.03.17)
+- TOP 6.4.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Neuried, Bebauungsplan Nr. 8 "An der Michlbauerstraße", 2. Teiländerung (Referat für Stadtplanung und Bauordnung, 10.03.17)
+- TOP 6.5.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, 31. Haderner Dorffest vom 19.05. - 28.05.2017 von 11.00 - 23.00 Uhr (Kreisverwaltungsreferat, 14.03.17)
+- TOP 6.6.: Auswahl neuer REGSAM-Schwerpunktgebiete ab 2017 (Sozialreferat, 07.03.17)
+- TOP 6.7.: Umbau Kreuzung Ammersee- / Silberdistel- / Waldwiesenstraße (Kreisverwaltungsreferat, 21.03.17)
+- TOP 6.8.: Erinnerungsverfahren: Fahrbahnsanierung Rodensteinstraße 1 - 15 (Baureferat, 29.03.17)
+- TOP 6.9.: Erinnerungsverfahren: Fahrbahnsanierung Würmtalstraße 140 - 198, Nebenfahrbahn (Baureferat, 29.03.17)
+- TOP 6.10.: MVG-Leistungsprogramm 2018 (MVG, 30.03.17)
+- TOP 6.11.: Gewerbeflächenentwicklungsprogramm - GEWI, Fortschreibung und Öffentlichkeitsbeteiligung, Anhörung der Bezirksausschüsse und Wirtschaftskammern (Referat für Stadtplanung und Bauordnung, 28.03.17)
+- TOP 6.12.: Umbau Kreuzung Großhaderner- / Gräfelfinger Straße (Baureferat, 03.04.17)
+- TOP 7.2.1.: Liste des Baureferates vom 16.03.2017
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, hier: - Ludlstraße 7 a, Strom (SWM, 13.03.17) - Fernwärmeprojekt Ludlstraße (SWM, 22.03.17)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Gräfelfinger Straße; Einrichtung eines absoluten Haltverbotes mit dem Zeitzusatz "an Schultagen von 7:00 Uhr bis 14:00 Uhr" (Kreisverwaltungsreferat, 20.02.17)
+- TOP 8.3.: Verkehrsaufsichtliche Erlaubnis: Ringstraße 2 und Am Waldspitz 2 Seite Ringstraße (Kreisverwaltungsreferat, 02.03.17)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Aurikelstraße (Sozialreferat, 16.03.17)
+- TOP 8.5.: Angemessene Beteiligung der Betroffenen bei der Gestaltung des neuen MVV-Tarifs, Anträge BA 18 - Untergiesing-Harlaching und BA 6 Sendling (Referat für Arbeit und Wirtschaft, 27.03.17)
+- TOP 8.6.: Senftenauerstraße Radwegsanierung (zwischen Blumenauer Straße und Hönigschmidplatz) (Baureferat, 29.03.17)
+- TOP 8.7.: Arbeiten im Straßenraum: Käpflstraße 2 - 14, Ludlstraße 1 - 43, Menaristraße 18 - 24, Rudi-Seibold-Straße 1 - 39, Verlegung einer Fernwärmeleitung (Kreisverwaltungsreferat, 17.03.17)
+- TOP 9.1.: Aufstockung der Wohngebäude in der Karl-Witthalm-Straße (Referat für Stadtplanung und Bauordnung, 09.03.17)
+- TOP 9.2.: Obstbaum am Stiftsbogen (Baureferat, 10.03.17)
+- TOP 11.1.: Beschlussentwurf für den Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen (Schr. BA 25 Laim vom 08.03.17)
+- TOP 11.2.: Behindertenbeirat - Protokoll des Treffens mit den BA-Vertreter/innen vom 19.01.2017 (Behindertenbeirat, 13.03.17)
+- TOP 11.3.: Ansprechpartnerin beim städtischen Konfliktmanagement AKIM (Sozialreferat, 16.03.17)
+- TOP 11.4.: Anita Augspurg Preis 2017 (Büro des Oberbürgermeisters, März 2017)
+- TOP 11.5.: Informationsveranstaltung zur MVV-Tarifstrukturreform am 03.05.2017 (Referat für Arbeit und Wirtschaft, 24.03.17)
+- TOP 11.6.: Einladung zur Information und Vernetzung am Mittwoch, 17.05.2017 (Sozialreferat - AKIM, 05.04.17)
+- TOP 1.1.1.: Beschluss vom 15.02.2017: Ökologischer Kriterienkatalog Fortschreibung 2016/2017
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2017: Werbeanlagenverordnung erlassen Empfehlung Nr. 08-14 / E 00827 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt - Lehel am 03.12.2015
+- TOP 2.1.2.: Beschluss des Kulturausschusses vom 23.02.2017: Projekt Bürgersaal voranbringen Empfehlung Nr. 14-20 / E 01199 der Bürgerversammlung des Stadtbezirkes 20 – Hadern am 20.10.2016
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2017: Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Hinweis / Ergänzung vom 17.01.2017 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft vom 22.02.2017: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 3.1.2.: Beschluss des Kulturausschusses vom 24.11.2016: Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2016 – 2020 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 3.2: Referentenanträge
+- TOP 4.1.: Bekanntgabe in der gemeinsamen Sitzung des Bildungsausschusses und des Kinder- und Jugendhilfeausschusses vom 21.03.2017: KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 4.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.03.2017: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
