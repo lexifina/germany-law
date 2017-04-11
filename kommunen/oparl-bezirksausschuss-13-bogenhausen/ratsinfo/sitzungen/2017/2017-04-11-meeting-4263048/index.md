@@ -1,0 +1,120 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263048
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263048
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.4.: Umbesetzung in den Unterausschüssen
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.4.: Grasbrunner Str.: Neubau einer Logistikhalle inkl. Kühlbereich mit Büro- und Sozialbereichen sowie Parkdecks, Errichtung eines Pumpen- / Pförnerhauses, einer Schallschutzwand sowie von VAN- und PKW-Stpl. inkl. Verkehrsflächen - TEKTUR; Anhörung des Referats für Stadtplanung und Bauordnung vom 13.03.2017
+- TOP 2.2.5.: Friedrich-Herschel-Straße 10: Anbau an ein Wohngebäude
+- TOP 2.2.6.: Ruth-Drexel-Straße: Neubau einer Wohnanlage (50 WE) mit Tiefgarage (50 Stpl.) / Prinz-Eugen-Park WA 9 Ost
+- TOP 2.2.9.: Mauerkircherstr. 59: Erweiterung des Generalkonsulats der Islamischen Republik Iran - Vorbescheid
+- TOP 2.2.10.: Eugen-Jochum-Str.: Neubau eines 5-geschossigen Mehrfamilienhauses mit 2 Gebäudeflügeln, Verkaufsflächen und Gemeinschaftsräumen im EG des Nordflügels, Dachterasse und TG
+- TOP 2.2.11.: Holbeinstr. 17: Sanierung und DG-Ausbau einer Villa sowie Errichtung eines Anbaus und einer Tiefgarage - Vorbescheid
+- TOP 2.2.12.: Stuntzstr. 16: Neubau eines Mehrfamilienhauses mit Einzelhandelsflächen und Tiefgarage - Vorbescheid
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.4.: Einschulung Ruth-Drexel-Schule / Knappertsbuschstraße
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung: Eggenfeldener Straße (südlich), Hultschiner Straße (östlich), Töginger Straße (BAB A 94) (nördlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1045 und Nr. 407) Durchführung eines städtebaulichen und und landschaftsplanerischen Wettbewerbes; Anhörung des Referats für Stadtplanung und Bauordnung vo 20.03.2017
+- TOP 2.2.2.: Handlungsprogramm Mittlerer Ring - Tunnel Englischer Garten; Anhörung des Referats für Stadtplanung und Bauordnung vom 08.03.2017
+- TOP 2.2.3.: Bebauungsplan mit Grünordnung Nr. 1539 Gewerbegebiet "Am Hüllgraben" Errichtung eines Logistikzentrums
+- TOP 2.2.7.: Bauleitplanung der Gemeinde Aschheim 37. Änderung des Flächennutzungsplans Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB
+- TOP 2.2.8.: Brodersenstr. / Max-Pröbstl-Str.: Weitere Nutzung der Gemeinschaftsunterkunft
+- TOP 2.2.13.: Riemer Str. 199: Neubau eines Baumarktes mit Gartencenter und Tiefgarage - TEKTUR
+- TOP 2.3.1.: (E) Verkehrsleitende Maßnahmen bei Überlastung der drei Ausfallstraßen nach Norden (Cosimastr., Effnerstr., Oberföhringer Str.) - Ziffer 2
+- TOP 2.3.2.: Gleim-/ Weltenburger Str.: Austausch von Lichtsignalanlagen; Schreiben des Kreisverwaltungsreferats vom 15.03.2017
+- TOP 2.3.3.: Verkehrsrechtliche Anordnung: Sperre Ruth-Drexel-Str. und Jörg-Haube-Str.; Schreiben des Kreisverwaltungsreferats vom 16.03.2017
+- TOP 2.3.4.: Aufhebung der Radwegbenutzungspflicht in der Rennbahnstraße
+- TOP 2.3.5.: Neue Tram 25 Max-Weber-Platz - Berg am Laim Bahnhof: geänderte Linienführung der Busse
+- TOP 2.3.6.: Verlängerung der 30er Zone in der Johanneskirchner Straße
+- TOP 2.3.7.: Befestigung von Schachtdeckeln innerhalb der Trambahngleise in der Ismaninger Straße
+- TOP 2.3.8.: Beschränkung der Kurzparkzone im Bereich Brahmstraße 1
+- TOP 2.3.9.: Zusätzliche Fußgängerampel Truderinger Straße/Zamilastraße
+- TOP 2.3.10.: Parksituation in der Rauchstraße
+- TOP 2.3.11.: Einrichtung von Halteverboten im Kurvenbereich der Schwarzwaldstraße
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Gehörlosenverband München und Umland e.V. Maidult am 01.05.2017 Az. 0262.0-13-0143
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Internationales Montessori Zentrum München e.V. Komplettsanierung des Weges inkl. Spielterrasse Az. 0262.0-13-0142
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Verein für Stadtteilkultur im Münchner Nordosten e.V. Versammlung zum Thema "Baut das 13er Kulturbürgerhaus jetzt!" am 05.05.2017 Az. 0262.0-13-0145
+- TOP 2.5.1.: (E) Zeitnaher Bau des geplanten Kinderspielplatzes im Grüntal Empfehlung Nr. 14-20 / E 01237 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 27.10.2016
+- TOP 2.5.2.: Einrichtung einer "KulturOase Daglfing"
+- TOP 2.5.3.: Ausschreibung: Einsatz des Kinder-Aktions-Koffer 2017/2018 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung; Anhörung des Sozialreferats vom 24.02.2017
+- TOP 2.5.5.: Brodersenstr. / Max-Pröbstl-Str.: Weitere Nutzung der Gemeinschaftsunterkunft
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Possartstr. 29: lt. Plan Mauerkircherstr. 59: lt. Plan Eugen-Jochum-Str. lt. Plan Rambaldistr.: lt. Plan Kopernikusstr. 6 +8: lt. Plan Ismaninger Str. 111 - 115: lt. Plan Stuntzstr. 16: lt. Plan Fürkhofstr. 17 - 19: 4 Feldahorn Schwarzwaldstr. 5: 1 Lärche Walpurgisstr. 14: 1 Tanne Saalestr. 1: 2 Birken Geibelstr. 1: 1 Ulme Pienzenauerstr. 144: 1 Ahorn Schneidemühler Str. 20: 3 Tannen Daglfingerstr. 97: 1 Kastanie Memeler Str. 45: 5 Bäume Möhlstr 31: 2 Pappeln Oberföhringer Str. 127: 2 Bäume
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Lublinitzer Str. 14 (t. Bescheid), Flemingstr. 52 und 54 (lt. Bescheid), Haushoferstr. 2 (lt. Bescheid), Denninger Straße 11 (2 Birken), Widderstraße 2 (1 serbische Fichte, 1 Scheinzypresse), Tilsiter Straße 8 (1 Birke), Traberstraße 15 a (1 Linde), Bülowstr. 22 - 32 (1 Baumhasel)
+- TOP 2.6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.4.: Baumschutz in München ist Klimaschutz für München, Die Münchner Bezirksausschüsse handeln – jetzt; Schreiben des BUND Naturschutz in Bayern e. V. Vom 20.12.2016 (vertagt vom 17.01.2017, 14.02.2017 und 14.03.2017)
+- TOP 5.1.: An der Cosimastr./Englschalkinger Str.: Anfrage der Fläche für Korbwarenverkauf; Anhörung des Kommunalreferats vom 06.03.2017
+- TOP 5.2.: An der Marienburger Str./Daglfinger Str.: Stellplatz für einen Lkw zur Bettfedernreinigung; Anhörung des Kommunalreferats vom 02.03.2017; Zustimmung nach § 20 Abs. 1 Satz 2 BezirksausschussS erteilt
+- TOP 5.3.: Veranstaltung in städtischen Grünanlagen; Spielfest am 02.04.2017 in der Grünanlage zwischen Grüntal und Fontanestraße; Zustimmung bereits am 23.03.2017 nach§ 20 Abs. 1 Satz 2 BezirksausschussS erteilt
+- TOP 5.4.: Mittelfristige Finanzplanung 2016 - 2020, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2017 bis 2022; Anhörung der Stadtkämmerei vom 22.02.2017
+- TOP 6.1.: Bebauungsplan 43d: Sicherstellung von weiterhin kleinteilige Gewerbeeinheiten und Speise- und Schankwirtschaften im Erdgeschoss der Häuserreihen
+- TOP 6.2.: Sicherung der Verkehrssituation und des Schulwegs in St. Emmeram
+- TOP 6.3.: Verkehrssichernde Maßnahmen in der Lützenkirchenstraße
+- TOP 6.4.: Standort für Fahrradständer an der Kreuzung Richard-Strauss-/Zaubzerstraße
+- TOP 6.5.: Stargarder Str. 7 - 9: Neubau dreier Mehrfamilienhäuser (14 WE) mit Tiefgarage; Schreiben des Referats für Stadtplanung und Bauordnung vom 24.02.2017
+- TOP 6.6.: Oberföhringer Str. 54: Sanierung, Umbau und Erweiterung eines Einfamilienhauses zu einem mehrheitlich zu Wohnzwecken genutzten Mehrfamilienhauses mit gewerblichen und medizinischen Praxisräumen mit operativer Einrichtung und Garagen - TEKTUR; Schreiben des Referats für Stadtplanung und Bauordnung vom 15.03.2017
+- TOP 6.7.: Schwarzbauten an der Glücksburger Straße
+- TOP 6.8.: Errichtung einer Schranke an der Gleißenbachstraße/Etzweg
+- TOP 6.9.: Verkehrsberuhigung vor der Flüchtlingsunterkunft Klausenburgstraße
+- TOP 6.10.: Aktuelle Situation der Nutzung von Schulbushaltestellen
+- TOP 7.1.1.: Beschlussentwurf Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen
+- TOP 7.1.2.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen; Schreiben des Direktoriums vom 22.02.2017
+- TOP 7.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5.1.: Unveränderte Fortführung eines Gaststättenbetriebes: - „Zamdorfer“: Schwarzwaldstr. 2a
+- TOP 7.7.1.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 7.7.2.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 7.7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch; Ortrudstr. 4 vorher: 139 m² bzw. 1 WE, geplant: 410 m² bzw. 3 WE
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch, Liszstr. 16 vorher: 507 m² bzw. 8 WE, geplant: 909 m² bzw. 12 WE
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch, Liszstr. 14 vorher: 570 m² bzw. 12 WE, geplant: 900 m² bzw. 12 WE
+- TOP 7.9.4.: Zweckentfremdung von Wohnraum durch Abbruch, Rößeler Str. 24 vorher: 108 m² bzw. 1 WE, geplant: 367 m² bzw. 2 WE
