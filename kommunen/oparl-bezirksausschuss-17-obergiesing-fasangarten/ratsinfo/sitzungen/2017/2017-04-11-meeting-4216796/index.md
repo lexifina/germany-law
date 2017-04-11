@@ -1,0 +1,162 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4216796
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4216796
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.7.: Cincinnatistr. 62, 5 Bäume
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baufälle im 17. Stadtbezirk
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der September-Sitzung 2015 Protokoll der Oktober-Sitzung 2015 Protokoll der Februar-Sitzung 2017 Protokoll der März-Sitzung 2017
+- TOP 2.1.2.1.: Anlieferzone Tegernseer Landstraße 41; Bürgerschreiben vom 03.03.2017
+- TOP 2.1.2.2.: Dachsanierung Anwesen Severinstraße 2; Bürgerschreiben vom 20.03.17
+- TOP 2.1.2.3.: Parksituation Perlacher Straße; Bürgerschreiben vom 22.03.17
+- TOP 2.1.2.4.: Unrat im Baumgraben Watzmannstraße - Aufstellung von Abfalleimern; Bürgerantrag vom 23.03.17
+- TOP 2.1.2.5.: Parksituation in der Untersbergstraße (zwischen Firstalm- und Weißenseestraße); Bürgerschreiben vom 22.03.2017
+- TOP 3.9.1.1.: Chiemgaustraße 71-77, 1 Silberahorn
+- TOP 3.9.1.2.: Winlandstraße 20, 1 Buche
+- TOP 3.9.1.3.: Tegernseer Landstraße 38, 1 Ahorn
+- TOP 3.9.1.4.: Setzbergstraße 7, 1 Birke
+- TOP 3.9.1.5.: Bantingstraße 7, 1 Birke
+- TOP 3.9.1.6.: Cincinnatistraße 1-29, 1 Birke
+- TOP 4.1.: Aufwertung des Kroneparks; Antrag des BA 5 mit der Bitte um Kenntnisnahme und ggf. Unterstützung
+- TOP 4.2.: Prüfung der Einführung von Tempo 30 km/h auf der Fasangartenstraße westlich der Autobahnbrücke bis zur Balanstraße
+- TOP 4.3.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Modellprojekt "Kicklusion...Inklusion in Bewegung" vom 30.08. - 18.10.2017 Az. 0262.0-17-0132
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Ensemble Ultima Rara Konzertreihe im November 2017, Dezember 2017 und Januar 2018 Az. 0262.0-17-0133
+- TOP 5.1.3.: (E) Budget der Bezirksausschüsse Trio LST Initiative Zwei Konzerte im Oktober 2017 AZ: 0262.0-17-0131
+- TOP 5.1.4.: Beschlussfassung über die Finanzierung des Jahresempfangs 2017 aus dem BA-eigenen Anteils des Budgets i.H.v. bis zu 5.000,00 €
+- TOP 5.2.1.: AntragstellerIn: PA/Spielen in der Stadt e.V., für die Maßnahme: Baumobil im Agfapark zw. Perlacher Str. und Firstalmstraße vom 22.09.17 bis 24.09.17; Antragssumme: 1.446,00 €; Antrag vom 13.03.17
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Anhörungen zu Bauvorhaben 6.1.3.1.1 Cincinnatistraße 44 -54, Abbruch und Neubau dreier Wohngebäude (Gebäude 330 - Cincinnatistraße 50-54, Gebäude 331 - Cincinnatistraße 44-48, Gebäude 332 - Pennstraße 1-5) - hier: Stellungnahme der Gemeinde - VORBESCHEID; Anhörung vom 10.02.17 (vertagt aus der März-Sitzung) 6.1.3.1.2 Münchberger Str. 33, Anbau einer zweiten Wohneinheit an ein Einfamilienhaus - VORBESCHEID; Anhörung vom 24.03.17 6.1.3.1.3 Schwanseestraße 71a, Umbau mit Nutzungsänderung: erdgeschossige Gewerbeeinheit zu 2-gruppiger Kinderkrippe; Anhörung vom 27.03.17
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.2.: Bebauungsplan mit Grünordnung Nr. 2118 Münchberger Straße (östlich), Kronacher Straße (südlich), BAB München-Salzburg (westlich), Fasangartenstraße (nördlich) A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Wettbewerbes Münchberger Straße B) Weiteres Vorgehen Stadtbezirk 17 – Obergiesing-Fasangarten
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats Alpenstraße; Mitteilung vom 15.03.17
+- TOP 6.1.4.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016 Hinweis / Ergänzung vom 23.03.2017
+- TOP 6.1.4.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse Anwesen Kiefernstraße; Mitteilung vom 23.03.17 Flossenbürger Straße; Mitteilung vom 23.03.17
+- TOP 6.1.4.6.: Beteiligung der Öffentlichkeit; Frühzeitige Unterrichtung gem. § 3 Abs. 1 des Baugesetzbuches (BauGB); Änderung es Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/30 und Bebauungsplan mit Grünordnung Nr. 2118 Münchberger Straße (östlich), Kronacher Straße (südlich), BAB München - Salzburg (westlich) und Fasangartenstraße (nördlich)
+- TOP 6.1.4.7.: BV Cincinnatistraße 44-54; Antwortschreiben der BIMA zur Stellungnahme des BA 18 aus der März-Sitzung
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: REGSAM-Schwerpunktsgebietsauswahl 2017; Schreiben des Sozialreferats mit der Bitte um Rückmeldung bis 31. Mai 2017
+- TOP 6.2.4.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 6.2.4.2.: Planung der Einsätze der MünchnerSommerSpielAktion 2017; SChreiben des Vereins Spielen in der Stadt e.V. vom 01.03.2017
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Beseitigung des absoluten Haltverbots in der Stettnerstraße (JVA-Gerichtssaal), ggf. alternative Errichtung einer Anwohnerparklizenz und Bereitstellung weiterer Parkplätze
+- TOP 6.3.2.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Projektname: Maurerstraße - Senkrechtparkplätze; Beschluss des BA 17 am 11.04.2017
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Beschlussentwurf Verkehrsentwicklungsplanung - Angebotsverbesserung und Ausbau der umweltgerechten Verkehrsmittel; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 15.04.2017
+- TOP 6.3.3.2.: Erinnerungsverfahren; Fasangartenstraße 93 / Kapellenfeldstraße 8 - Wiederherstellung nach Bauschaden; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Austausch von Lichtsignalanlagen; hier: Tegernseer Landstraße / Alpenstraße; Information des KVR vom 09.03.17
+- TOP 6.3.4.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2. Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Lindwurmstraße durch die DB AG
+- TOP 6.3.4.3.: Regerbrücke Sichere Verkehrsführung in der Regerstraße für den Fuß- und Radverkehr im Bereich der DB-Brücke Antrag-Nr. 14-20/ A 01173 der Stadtratsfraktion Bündnis 90/ DIE GRÜNEN vom 08.07.2015 Stege an der Brücke über den Eisenbahn-Südring planen BA-Antrags-Nr. 14-20 / B 01520 des Bezirksausschusses des Stadtbezirkes 05 - Au-Haidhausen vom 15.07.2015 Regerbrücke als künftiges Eingangstor zur Einkaufsstraße Tegernseer Landstraße BA-Antrags-Nr. 14-20 / B 01757 des Bezirksausschusses des Stadtbezirkes 17 - Obergiesing vom 10.11.2015 Ausbreitung der Straßenbrücke am Ostriedhof am Anfang der Tegernseer Landstraße Empfehlung Nr. 14-10 / E 00732 der Bürgerversammlung des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching am 12.11.2015 Regerbrücke als künftiges Eingangstor zur Einkaufsstraße Tegernseer Landstraße BA-Antrags-Nr. 14-20 / B 02212 des Bezirksausschusses de Stadtbezirkes 05 - Au-Haidhausen vom 16.03.2016
+- TOP 6.3.4.4.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 6.3.4.5.: Sachstandsbericht Herbert-Quandt-Straße a ) Anträge und Empfehlungen BA 00674 / BA 01283 / E 00487 / E 00490 b) Bebauungsplan mit Grünordnung Nr. 2120
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Früh Schwimmen in städtischen Hallenbädern - Flexibel Schwimmen in den städtischen Freibädern; Stadtratsantrag Nr. 14-20 / A 02453 vom 14.09.16; Freibadöffnungszeiten auch für Berufstätige; Stadtratsantrag Nr. 14-20 / A 02241 vom 24.06.17; Sitzungsvorlage Nr. 14-20 / V 08133; Beschluss des Ausschusses für Arbeit und Wirtschaft vom 28.03.17 (SB)
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung auf Privatgrund und öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Martin-Luther-Str. 2, Bauereigelände der Giesinger Brauerei sowie Verlängerung der Bergstraße hinter der Brauerei am 21. und 22.07.17; Zuleitung des KVR mit der Bitte um Stellungnahme bis 18.04.2017
+- TOP 6.5.3.2.: Temporäre Kunst im öffentlichen Raum - It&#039;s about time - Ichostraße / Heilig-Kreuz-Kirche vom 01.06.17 bis 31.10.17; Zuleitung des Baureferats-VV-Owie mit der Bitte um Stellungnahme bis 29.03.17 (Fristverlängerung beantragt)
+- TOP 6.5.3.3.: Giesinger Bahnhofplatz - Anhörung zur Jam Session mit Bewirtung "Drinnen und Draußen" am 20.05.17; Zuleitung des KVR mit der Bitte um Stellungnahme bis 13.04.17
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Kurzbericht des Vereins Isarlust e.V. zum Projekt "Play Me, I&#039;m Yours 2016"
+- TOP 6.5.4.2.: Beschlussentwurf Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen; Abdruck der Stellungnahme des BA 25 zum Beschlussentwurf an alle Bezirksausschüsse
+- TOP 6.5.4.3.: Kurzbericht Theatertage im 103er Freizeittreff (finanziert aus dem Budget des BA 17 im Jahr 2016)
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.5.6.1.: Tag des offenen Denkmals am 10. September 2017; Schreiben der Deutschen Stiftung Denkmalschutz (Anmeldeschluss: 31. Mai 2017 - vertagt aus der März-Sitzung)
+- TOP 6.5.6.2.: Einrichtung von WC-Kiosk-Kombinationen; Nutzungsänderung des Pissoirs Nockherberg; Schreiben des BA 5 an das Kommunalreferat zur Kenntnisnahme
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Vergrößerungsantrag Warenauslagen in der Tegernseer Landstraße 11; Beschluss des BA 17 am 11.04.2017
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Erweiterung der bestehenden Freischankfläche Tegernseer Landstraße 96; Beschluss des BA 17 am 11.04.17
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Gaststätten; unveränderte Fortführungen; Mitteilungen des KVR Konditorei-Cafe "Cafe Schulz", Werinherstraße 69; Mitteilung vom 02.03.17 Cafe Piccolo, Tegernseer Landstraße 56; Mitteilung vom 13.03.17 SSW "Kastanienklause", Martin-Luther-Straße 11; Mitteilung vom 14.03.17 SSW "Cafe Montana", Giesinger Bahnhofplatz 5; Mitteilung vom 21.03.17
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
