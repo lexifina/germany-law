@@ -1,0 +1,62 @@
+# 37. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-04-12T16:00:00+02:00
+- Ende: 2017-04-12T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5759
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5759
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00293688.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 3.1: Dimmung der Straßenbeleuchtung - erledigt
+- TOP 3.2: Zustand des Rathausplatzes um die Trümmerfrau - erledigt
+- TOP 3.3: Aggressives Betteln - erledigt
+- TOP 3.4: Finanzielle Untersetzung von Schulneubauten und Schulsanierungen - erledigt
+- TOP 3.5: Genese der Nachverdichtung zwischen Grunaer Straße, Mathildenstraße und Zirkusstraße - erledigt
+- TOP 3.6: Umsetzung Fair Trade Stadt Dresden - erledigt
+- TOP 3.7: Freihändige Vergabe immaterieller Werte der Stadt - erledigt
+- TOP 4: Lebensqualität erhalten, Wohnraum schaffen: Aktuelle Stunde zum Bauvorhaben der Vonovia an der Grunaer Straße - erledigt
+- TOP 5: Erhalt der hochwertigen Grünräume der denkmalgeschützten Bebauung in der sogenannten "Wohnzelle Grunaer Straße" - Zustimmung mit Änderung
+- TOP 6: Bebauungsplan Nr. xxxx Dresden-Altstadt I, Seidnitzer Straße - punktweise Abstimmung mit Ergänzung
+- TOP 7: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 7.1: Ausschuss für Sport - Einigung
+- TOP 7.2: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 8: Einigungsverfahren Beiräte
+- TOP 8.1: Umbesetzung "Beirat des Jobcenters Dresden" - Einigung
+- TOP 8.2: Umbesetzung der Vertretung des Kreiselternrates Dresden im Bildungsbeirat gemäß § 2 der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden - Zustimmung
+- TOP 9: Einigungsverfahren Umbesetzung Aufsichtsräte
+- TOP 9.1: Aufsichtsrat der Cultus gGmbH der Landeshauptstadt Dresden - Einigung
+- TOP 9.2: Aufsichtsrat Zoo Dresden GmbH - Einigung
+- TOP 9.3: Aufsichtsrat der DGH-Dresdner Gewerbehofgesellschaft mbH - Einigung
+- TOP 10: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 10.1: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 11: Einigungsverfahren - verschiedene Gremien
+- TOP 11.1: Umbesetzung im Stiftungsgremium der "Sozialstiftung der Stadt Dresden" - Zustimmung
+- TOP 11.2: Umbesetzung in der Verbandsversammlung des Kommunalen Sozialverbandes Sachen (KSV) - Zustimmung
+- TOP 11.3: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 12: Tagesordnungspunkte ohne Debatte
+- TOP 13: Vertagungen der letzten Stadtratssitzung vom 23. März 2017
+- TOP 13.1: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 13.2: Nutzung der Liegenschaften der Staatsoperette für städtische Zwecke - Zustimmung mit Änderung
+- TOP 13.3: Olympiateilnahme 2020 für Dresdner Sportkletterer fördern - Zustimmung mit Änderung
+- TOP 13.4: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse in den Bereichen Blasewitz und Loschwitz - Vertagung nach 22 Uhr
+- TOP 13.5: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse im Bereich Trachau - Vertagung nach 22 Uhr
+- TOP 14: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 15: Planung und Durchführung investiver Schulbauvorhaben - Maßnahmepaket 1/2017 - punktweise Zustimmung
+- TOP 16: Weiteres Gesellschafterdarlehen an die Kommunale Immobilien Dresden GmbH & Co. KG - Zustimmung
+- TOP 17: Aufnahme der Kindertageseinrichtung Loschwitzer Straße 23 in 01309 Dresden in den Bedarfsplan und Betreibung durch den freien Träger LebensBild GmbH - Zustimmung
+- TOP 18: Klarstellungs- und Ergänzungssatzung Nr. 441, Dresden-Leutewitz Nr. 1, Ockerwitzer Straße - Zustimmung
+- TOP 19: Gestaltungssatzung G-01 "Historische Friedrichstadt" - Zustimmung mit Ergänzung
+- TOP 20: Dresdner Richtlinie zur sozialen Mietwohnungsbauförderung - Vertagung
+- TOP 21: Bebauungsplan Nr. 110.4 b, Dresden-Kaditz/Mickten, Kötzschenbroder Straße/Lommatzscher Straße (Änderungssatzung) - Vertagung nach 22 Uhr
+- TOP 22: Bäderkonzept Dresden - Fortschreibung - Vertagung nach 22 Uhr
+- TOP 23: Unterbringungsqualität für Asylsuchende verbessern - Vertagung
+- TOP 24: Exemplarische Zeugnisse des industriellen Wohnungsbaus schützen - Zustimmung
