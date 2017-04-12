@@ -1,0 +1,93 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285367
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285367
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.1: Aktuelle Viertelstunde
+- TOP 5.2: Bürgeranliegen
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 5.2.1.: Busbahnhof am Olympiadorf - Zweckentfremdung als Bauhof und ein Schandfleck... ...wie lange noch?
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Fußballmodellprojekt: Kicklusion "...und alle kicken mit" am 30.04.2017 Az. 0262.0-11-0234
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Verbesserung der Fahrradverkehrswege im Stadtbezirk Milbertshofen - Am Hart
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Ausstattung des Kulturhauses Milbertshofen mit einem Automatischen Externen Defibrillator (AED) und Schulung der Mitarbeiter in dessen Benutzung
+- TOP 7.3.2.: Dringlichkeitsantrag: Antrag auf Stundenerweiterung für die Schulsozialarbeit an der Grundschule Hanselmannstraße
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Bad-Nauheimer-Weg zur Barlachstraße: Prüfung von Maßnahmen zur gefahrlosen Querung des Radweges durch beeinträchtigte Personen, insbesondere Rollstuhlfahrer
+- TOP 7.4.2.: Ersatz für das abgebaute Wartehaus in der Schleißheimer Str. 327 - Haltestelle Moosacher Str. der Buslinie 177 (stadteinwärts)
+- TOP 7.4.3.: Anbringen einer Zufahrtsbeschilderung zum Kulturverein Olympiadorf e.V. - forum2
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Mittelfristige Finanzplanung 2016 - 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren der Stadtkämmerei Fortschreibung für die Jahre 2017 bis 2021
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Keferloherstr. 100 Bauvorhaben - Vollzug von § 3 BezirksausschS
+- TOP 8.2.2.: Preußenstraße 41 a) Bauvorhaben - Vollzug von § 3 BezirksausschS b) Baumschutz - Vollzug von § 13 BezirksausschS i.V.m. der BaumschutzV
+- TOP 8.2.3.: Moosacher Str. 80 Baumschutz - Vollzug von § 13 BezirksausschS i.V.m. der BaumschutzV
+- TOP 8.2.4.: Norderneyer Str. 13 Baumschutz - Vollzug von § 13 BezirksausschS i.V.m. der BaumschutzV
+- TOP 8.2.5.: Baumfällungsanträge a) Christoph-von-Gluck-Platz 19 b) Guddenstraße 38 c) Nadistraße 3 d) Permanederstraße 45 e) Wiegandweg 12
+- TOP 8.2.6.: Lerchenauer Str. 76 - Neubau einer Energiezentrale für KWK
+- TOP 8.2.7.: Keine zusätzlichen Lärmbelästigungen für den 24. Stadtbezirk durch den Hubschrauberlandeplatz in Oberschleißheim (Punkt 1 des Antrags) Empfehlung Nr. 14-20 / E00413 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 16.04.2015 Sitzungsvorlage Nr. 14-20 /V 08271
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Ausschreibung: Einsatz des Kinder-Aktions-Koffers 2017/2018 zur Beteiligung von Kindern im Alter von 7 - 14 Jahren an der Stadtbezirksentwicklung
+- TOP 8.3.2.: Veranstaltung "Mobilspiel und Drachenfest" - Grünflächen der Nordhaide im Zeitraum 05.05. - 27.10.2017 jeweils freitags (14.00-17.30 Uhr)
+- TOP 8.3.3.: Veranstaltung "Sommerfest der Dankeskirche" auf dem Curt-Mezger-Platz am 23.07.2017 - Antragsteller/in: Ev. Dankeskirche München
+- TOP 8.3.4.: Veranstaltung "Evangeliumsverkündung" auf dem Harthofanger vom 21.07. bis 23.07.2017 - Antragsteller/in: Verein zur Schaffung und Erhaltung christlicher Versammlungsstätten in München und Umgebung e.V.
+- TOP 8.3.5.: Veranstaltung: Mitmachen beim Tag des offenen Denkmals 2017
+- TOP 8.3.6.: Veranstaltung: Halbmarathon München im Olympiapark am 29.04.2017
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Helene-Mayer-Ring - Einbahnregelung (teilw.) verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 8.4.2.: Errichtung einer Bushaltestelle Knorrstraße, Ecke Hufelandstraße
+- TOP 8.4.3.: Keferloherstr. 75-77: Verkehrsrechtliche Anordnung nach § 45 StVO - Haltverbot
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Zuwendungsbewilligung aus dem BA-Budget in Höhe von 225 €: - Anschaffung von Tafeln zur Ausstellung "Straßennamensgebung" - Kulturhistorischer Verein Feldmoching auf dem Gfild e.V.
+- TOP 9.1.2.: Zuwendungsbewilligung aus dem BA-Budget in Höhe von 900 €: - Projekt "Dresscode (s) - Mode ist getragene Vielfalt" am 02.04.2017- Europäische Janusz Korczak Akademie e.V.
+- TOP 9.1.3.: Beschlussentwurf für den Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget.... Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen Stellungnahme des BA 25 - Laim zur Kenntnisnahme
+- TOP 9.1.4.: Fortführung des Gaststättenbetriebs "Kroatische Spezialitäten - Beim Kinfa", Keferloherstr. 75
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Zwischennachricht an Bürgerin - Erweiterung des Grünzuges vom Petuelring bis zur Nordheide (Panzerwiese) Empfehlung Nr. 14-20 / E 01113
+- TOP 9.2.2.: Starenweg 54 - 60 Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV Baumfällungsbescheid vom 02.03.2017
+- TOP 9.2.3.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen - Nordteil des Olympiaparks
+- TOP 9.2.4.: (U) Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen Am Oberwiesenfeld ("Olympia Wohn Park") im 11. Stadtbezirk Milbertshofen-Am Hart Genehmigung des Nutzerbedarfsprogramms
+- TOP 9.2.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 9.2.6.: Connollystr. 32 - Bauherr ist der Freistaat Bayern Vollzug der BaumschutzV - § 13 BezirksausschussS
+- TOP 9.2.7.: Meldelisten Bauvorhaben vom 20.02.2017 bis 19.03.2017
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Stadtteil-Entscheidung - Ausschreibung "Vom Weltspieltag zum Weltkindertag 2017: Spielend Raum gewinnen im Stadtbezirk" - Grundlage hierfür: TOP 8.3.1 der BA-11-Sitzung 12/16 - mehrheitlicher Beschluss: Teilnahme an der Ausschreibung
+- TOP 9.3.2.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 9.3.3.: Prüfauftrag an das RBS ob Schwimmbäder bzw. Therapie-Schwimmbecken von anderen Trägern für Schulschwimmen genutzt werden kann - Antrag Nr. 14-20 / A 02650 - Stellungnahme des RBS
+- TOP 9.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 9.4.2.: Polizeipräsenz und Geschwindigkeitskontrollen mit wechselnden Standorten in der Ingolstädter Straße Empfehlung Nr. 14-20 / E 01099 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 21.07.2016 Sitzungsvorlage Nr. 14-20 / V 07436 - Die Beschlussvorlage wurde um das Plenumsergebnis des Bezirksausschusses 11 vom 14.12.2016 zur Beachtung ergänzt -
+- TOP 9.4.3.: Olympiapark Nord - Pflasterwegsanierungen im Kalenderjahr 2017
+- TOP 9.4.4.: Verkehrsrechtliche Anordnung nach § 45 StVO a) Abtstraße 19 - Feuerwehranfahrtszone b) Sudetendeutsche Str. - Feuerwehranfahrtszone für das Anwesen Ingolstädter Str. 101 c) Keferloherstr. 75-77 - Haltverbot
+- TOP 9.4.5.: Verkehrsrechtliche Erlaubnisse für den Zeitraum 17.03.2017 bis 23.12.2017: a) Preußenstr. 26 b) Moosacher Str. 55 c) Privatstr. U903 d) Riesenfeldstr. 106-112 e) Hamburgerstr.
+- TOP 9.4.6.: Petition - Mountainbiken im Olympiapark Sitzungsvorlage Nr. 14-20 / V07668
