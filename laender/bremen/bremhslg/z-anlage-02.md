@@ -1,7 +1,7 @@
-# Anlage 2 - Angaben, die vor Einlaufen in einen Hafen im Land Bremen gemacht werden müssen
+# Anlage 2 - A. Angaben, die vor Einlaufen in einen Hafen im Land Bremen gemacht werden müssen
 Anlage 2
 (zu § 6)
-Angaben, die vor Einlaufen in einen Hafen im Land Bremen gemacht werden müssen
+A. Angaben, die vor Einlaufen in einen Hafen im Land Bremen gemacht werden müssen
 1. Name, Rufzeichen sowie ggf. die IMO-Identifikations-Nr. des Schiffes:
 ____________________________________________________________________________________
 2. Flaggenstaat:
@@ -20,24 +20,31 @@ ________________________________________________________________________________
 den gesamten | einen Teil des keinen(*)
 Bitte entsprechendes Feld ankreuzen
 Abfall(s) in den Hafenauffangeinrichtungen?
-9. Art und Menge der zu entladenden und/oder an Bord verbleibenden Schiffsabfälle und Ladungsrückstände und Prozentsatz der maximalen Lagerkapazität:
-Bei Entsorgung des gesamten Abfalls bitte die zweite Spalte entsprechend ausfüllen.
-Wird der Abfall nicht oder nur teilweise entsorgt, bitte alle Spalten ausfüllen.
-1 | 2 | 3 | 4 | 5 | 6
-Typ | Zu entsorgender Abfall m3 | Maximale Lagerkapazität m3 | Menge des an Bord verbleibenden Abfalls m3 | Hafen, in dem der verbleibende Abfall entladen wird | Abfallmenge, die zwischen Meldung und nächstem Anlaufhafen anfällt m3
-Altöl |  |  |  |  | 
-Schlamm |  |  |  |  | 
-Bilgenwasser |  |  |  |  | 
-Sonstige (Bitte angeben) |  |  |  |  | 
-Müll |  |  |  |  | 
-Lebensmittelabfälle |  |  |  |  | 
-Kunststoff |  |  |  |  | 
-Sonstige |  |  |  |  | 
-Abwasser1) |  |  |  |  | -
-Ladungsbedingte Abfälle2) (Genaue Angabe) |  |  |  |  | 
-Ladungsrückstände2) (Genaue Angabe) |  |  |  |  | 
-Auch Schätzwerte sind zulässig.
-Achtung:
+9. Art und Menge der zu entsorgenden und an Bord verbleibenden Schiffsabfälle und Ladungsrückstände und Prozentsatz der maximalen Lagerkapazität:
+Bei Entsorgung des gesamten Abfalls bitte die zweite und siebte Spalte entsprechend ausfüllen. Wird der Abfall nicht oder nur teilweise entsorgt, bitte alle Spalten ausfüllen.
+Art und Menge der zu entladenden/an Bord verbleibenden Schiffsabfälle/Ladungsrückstände
+1 | 2 | 3 | 4 | 5 | 6 | 7
+Abfallart | Menge des abzugeben- den Abfalls | Lager- kapazität an Bord | Menge des an Bord bleibenden Abfalls | Hafen, in dem der verbleiben- de Abfall entsorgt wird | Abfall- menge, die zwischen Meldung und nächstem Hafen anfällt | Im Hafen der letzten Entsor- gung abge- gebene Abfall- menge
+ | m3 | m3 | m3 |  | m3 | m3
+Altöl |  |  |  |  |  | 
+Bilgenwasser |  |  |  |  |  | 
+Ölschlamm |  |  |  |  |  | 
+Sonstige (bitte angeben) |  |  |  |  |  | 
+Abwasser* |  |  |  |  |  | 
+Müll |  |  |  |  |  | 
+Kunststoff |  |  |  |  |  | 
+Lebensmittelabfälle |  |  |  |  |  | 
+Haushaltsabfälle (wie Papier, Glas, Metall) |  |  |  |  |  | 
+Speiseöl |  |  |  |  |  | 
+Asche aus der Abfall-Verbrennung |  |  |  |  |  | 
+Betriebsabfälle |  |  |  |  |  | 
+Tierkörper |  |  |  |  |  | 
+Ladungsrückstände** |  |  |  |  |  | 
+MARPOL I |  |  |  |  |  | 
+MARPOL II |  |  |  |  |  | 
+MARPOL V |  |  |  |  |  | 
+Datum der Meldung |  | Verantwortlicher für die Meldung | 
+B. Achtung:
 1. Diese Angaben können für die Zwecke der Hafenstaatkontrolle und anderer Überprüfungen verwendet werden.
 2. Die Mitgliedstaaten bestimmen, welche Stellen Kopien dieser Meldung erhalten.
 3. Dies Formular ist auszufüllen, es sei denn, dem Schiff wird gemäß Artikel 9 der Richtlinie 2000/59/EG eine Ausnahme gewährt.
@@ -48,7 +55,6 @@ Datum: __________
 Uhrzeit: __________
 Unterschrift: ________
 Fußnoten
-1) Gemäß Anlage IV des MARPOL-Übereinkommens 73/78, Regel 11, kann Abwasser auf See eingeleitet werden. Die entsprechenden Kästchen müssen nicht ausgefüllt werden, wenn eine genehmigte Einleitung auf See beabsichtigt wird.
-2) Auch Schätzwerte sind zulässig.
-2) Auch Schätzwerte sind zulässig.
+* Die Angabe zu Abwasser ist nicht erforderlich, wenn die legale Einleitung nach der Regel 11 Anlage IV des MARPOL-Übereinkommens auf See beabsichtigt ist.
+** Auch Schätzwerte sind zulässig.
 (*) Bitte entsprechendes Feld ankreuzen.
