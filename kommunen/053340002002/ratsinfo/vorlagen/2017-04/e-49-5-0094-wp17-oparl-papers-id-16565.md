@@ -1,0 +1,11 @@
+# Genehmigung der Niederschrift der Sitzung des Betriebsausschusses Kultur vom 15.03.2017 (öffentlicher Teil)
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: E 49.5/0094/WP17
+- Art: Entscheidungsvorlage
+- Datum: 2017-04-18
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=16565
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=16565
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=253715&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=3667 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=11
