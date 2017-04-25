@@ -1,0 +1,143 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4159475
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4159475
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.1.: entfällt
+- TOP 10.2.: Vorstellung des aktuellen Planungsstands Bayernkaserne
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.6.: Konturgleicher Dachgeschossausbau Feilitzschstraße 11, 2 Wohnungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 1.2.: Naturfreibad für Freimann siehe auch TOP B.1.1
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3.3.: Vorstellung Familienzentrum Parkstadt im BA12, Präsentation im Unterausschuss
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Erhalt der ehemaligen Lehrwerkstätte
+- TOP 10.3.: Bauleitplanung Lilly-Reich-Straße - Parkstadt Schwabing - BA-Anhörung
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Naturfreibad für Freimann siehe auch TOP D.1.2
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Antrag für eine Warenauslage in der Mainzer Straße
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Floriansmühlstraße 60, Errichtung einer temporären Lagerhalle
+- TOP 3.1.2.: Schwedenstraße 48 und 50, Abbruch Bestand und Neubau Einfamilienhaus
+- TOP 3.1.3.: Carl-Orff-Bogen, Schulbauoffensive, Neubau einer 5-zügigen Realschule mit 3-Feld-Sporthalle sowie eines Amtsmeisterhauses
+- TOP 3.1.4.: Florainsmühlstraße 60, Standortentwicklung Freimann – Neubau Servicecenter mit Parkhaus und Kindertagesstätte
+- TOP 3.1.5.: entfällt
+- TOP 3.1.6.: Potsdamer Straße 14, 1 serbische Fichte
+- TOP 3.1.7.: Klementinenstraße 9, Neubau einer Doppelhaushälfte mit Tiefgarage
+- TOP 3.1.8.: Klementinenstraße 9, Neubau einer Doppelhaushälfte (2WE) mit Tiefgarage
+- TOP 3.2.1.: Guerickestraße 19 – 19 a, Sanierung und Erweiterung Studentenwohnheim Ludwigskolleg -VORBESCHEID
+- TOP 3.2.2.: entfällt
+- TOP 3.2.3.: Nordseestraße 8, Neubau einse Mehrfamilien- und eines Einfamilienhauses - VORBESCHEID
+- TOP 3.2.4.: Schwedenstraße 48+50, Abbruch Bestand und Neubau Einfamilienhaus
+- TOP 3.2.5.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 5.: Unterrichtungen
+- TOP 5.2.1.: Weisgerberstr. 2
+- TOP 5.2.2.: Am Tucherpark 12a
+- TOP 5.2.3.: Am Eisbach 4
+- TOP 5.3.1.: Heidemannstraße 9, Erweiterung der ALDI-Verkaufsfläche und Umbau Parkplatz, Entscheidung gegen das Votum des Bezirksausschusses
+- TOP 5.3.2.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 5.3.3.: entfällt
+- TOP 5.3.4.: (U) Realisierungswettbewerb Schulstandorte auf dem Gelände der ehemaligen Bayernkaserne Schulstandort Süd (I und III) Errichtung - eines 6-zügigen Gymnasiums - einer 5-zügigen Grundschule - mit einer Dreifachsporthalle und einer Doppelsporthalle sowie Schulschwimmbad, Freisport- und Breitensportanlage - eines Hauses für Kinder (3 Krippen- und 3 Kindergartengruppen) Schulstandort Nord (II und IV) Errichtung - einer 5-zügeigen Grundschule - eines 24-klassigen Sonderpädagogischen Förderzentrums - mit zwei Zweifachsporthallen sowie Freianlagen - Räumlichkeiten für eine Sing- und Musikschule im 12. Stadtbezirk Schwabing-Freimann
+- TOP 5.3.5.: Baugenehmigung, Untere Hausbreite 16, Neubau einer Doppelhaushälfte (2WE) / Haus A
+- TOP 5.3.6.: Antwort des Referats für Stadtplanung und Bauordnung auf ein Bürgeranliegen aus dem Jahr 2015
+- TOP 5.3.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/52 und Bebauungsplan mit Grünordnung Nr. 2098 Heidemannstraße (südlich), Maria-Probst-Straße (westlich), Helene-Wessel-Bogen (nördlich), (Teiländerung des Bebauungsplanes Nr. 1505a) -Bereich östlich der Bayernkaserne-
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Lärmpegel der Fahrgeräusche der U6 senken Empfehlung Nr. 14-20 / E 00535 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 07.07.2015
+- TOP 2.2.: (E) Auflösung des Taxistandes vor dem Hotel in der Lyonel-Feininger-Straße
+- TOP 2.3.: Schließung der Verbindung zwischen Lyonel-Feininger-Straße und Georg-Muche-Straße gemäß Bebauungsplan Empfehlung Nr. 08-14 / E 01881 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 11.07.2013 Schließung der Verbindungstraße zwischen Lyonel-Feininger-Straße und Georg-Muche-Straße (Ziffer 1) Empfehlung Nr. 14-20 / E 00114 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 15.07.2014
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Handlungsprogramm Mittlerer Ring – Tunnel Englischer Garten
+- TOP 3.2.2.: Beschlussentwurf: Keine zusätzliche Lärmbelastung für den 24. Stadtbezirk durch den Hubschrauberlandeplatz in Oberschleißheim
+- TOP 3.2.3.: Vollzug des Bundes-Immissionsschutzgesetztes und der Verordnung über genehmigungsbedürftige Anlagen; Austausch der Gastrubinen im Heizkraftwerk Freimann (HKW Freimann) der SWM Services GmbH (SWM) auf Grundstück Fl.-Nr. 880/28 der Gemarkung Schwabing (Frankfurter Ring 181, 80807 München)
+- TOP 3.2.4.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München, vertagt aus der Sitzung vom 14.02.2017
+- TOP 3.2.5.: MVG-Leistungsprogramm 2018
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Drei bis fünf Kurzzeitparkplätze in der Fröttmaninger Straße
+- TOP 4.2.: Mehr Mülleimer auf dem Spiel- und Sportgelände in der Parkstadt Schwabing
+- TOP 4.3.: entfällt
+- TOP 4.4.: Gehwege Max-Bill-Straße, Barrierefreiheit
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Verkehrssicherheit am Föhringer Ring - Ergebnis des Ortstermins
+- TOP 5.1.2.: Mobile Toiletten für vorhersehbare "spontane" Menschenansammlungen auf der Leopoldstraße
+- TOP 5.1.3.: Abbau der Bedarfsampel an der Kreuzung Ungererstr. / Auffahrt zum Föhringer Ring
+- TOP 5.1.4.: Verkehrssituation in der Walter-Gropius-Straße prüfen, Bedarfsampel einrichten oder hilfsweise Zebrastreifen ggf. südlich verlagern
+- TOP 5.1.5.: Schwabinger Fahrradweg-Hauptachse Leopoldstraße räumen und streuen
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Umwandlung von KFZ-Stellplätzen in Fahrradstellplätze (Anlehnen),
+- TOP 5.2.2.: Arbeiten im Straßenraum, Freisinger Landstraße zwischen Lottlise-Behling-Weg und Stadtgrenze
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: AW Freimann – B-Plan 2024, Lilienthalallee, Geh- & Radweg zur Maria-Probst-Straße, Antwort der Verwaltung auf ein BA-Schreiben
+- TOP 5.3.2.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: Information der SWM über Baustellen in Ihrer Nähe, Stromprojekt Wilhelm-Hertz-Straße
+- TOP 5.3.5.: Information der SWM über Baustellen in Ihrer Nähe, SWM Fernwärmeprojekt Ohmstraße / Kaulbachstraße
+- TOP 5.3.6.: Baustelleneinrichtung am Kaiserplatz 1
+- TOP 5.3.7.: Stadtratsantrag, „Munitionsfund im Münchner Stadtteil Freimann – wie kann die Stadt unterstützen?“, Antrag Nr. 14-20 / A 02986
+- TOP 5.3.8.: Information der SWM über Baustellen in Ihrer Nähe, Stromprojekt Netztrafostation Osterwaldstraße
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Kulturelle Zwischennutzung des ehemaligen Standortes für Gartenbau in der Parkstadt Schwabing, Initiative: Lars Mentrup
+- TOP 1.3.: Stadtbibliothek auch Samstags öffnen
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Green City e.V. Projekt "Grüne Schule" am 24.04. und 26.04.2017 AZ: 0262.0-12-0222
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Einrichtung FZT Freimann Straßenfest am 19.05.2017 Az.: 0262.0-12-0224
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Corso Leopold e.V. Veranstaltung "Corso Leopold" am 20./21.05.2017 und 09./10.09.2017 Az: 0262.0-12-0221
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Initiative "Repair Café Schwabing" Projekt "Repair Café" Az. 0262.0-12-0223
+- TOP 3.: Anhörungen
+- TOP 3.1.: Fendstr. 5, Knollerstr., Schwabinger Waldfest (Tanz in den Mai) am 30.04.2017
+- TOP 3.2.: Fröttmaninger Berg, Anhörung zum Projekt "Auf zu neuen Schafen"
+- TOP 3.3.: Bauernfeindstr. Straßenfest am 19.05.2017
+- TOP 3.4.: Fußballturnier am 10.06.2017, Guerickestraße, öffentlicher Sportplantz in der Grünanlage
+- TOP 3.5.: Streetlife Festival / Corso Lepold mit BioErleben am 20.05. und 21.05.2017 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 3.6.: Münchner Freiheit im Forum, Kinderflohmärkte diverse Termine
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Konzeptvorstellung „Svapinga“ für die küntlerische Gestaltung der Unterführung bei der Walter-Gropius-Straße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Stundenaufstockung für den Freizeittreff Freimann
+- TOP 5.1.2.: (U) Städtisches Klinikum München GmbH (StKM) Umsetzungs- und Planungsstand Medizinkonzept Aktueller Sachstand der Sanierungsmodule
+- TOP 5.1.3.: Modernisierung der Internetversorgung des städtischen Atelierhauses am Domagkpark
+- TOP 5.2.1.: Leopoldstraße 60
+- TOP 5.2.2.: Feilitzschstr. 2
+- TOP 5.2.3.: Feilitzschstaße 12
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Gestaltung einer Wand in der Parkstadt Schwabing, Eilentscheidung des Vorsitzenden
+- TOP 5.3.2.: Beschlussvorlage Freibadöffnungskonzept SWM
+- TOP 5.3.4.: Temporäre Kunst im öff. Raum - Have you seen any little people? - Beate Engl - 11.05.17 (alternativ 10.05.17) - Habsburgerplatz
+- TOP 5.3.5.: Temporäre Kunst im öff. Raum - Der Fahrende Raum - 01.05.-31.10.17 - Freimann
+- TOP 5.3.6.: Lotsenprojekt Freimann, Finanzierung in 2017, Antwort des Referats auf ein Schreiben des BA vom 26.10.2016
+- TOP 5.3.7.: Neuerrichtung einer Gaststätte, Leopoldstraße 76
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
