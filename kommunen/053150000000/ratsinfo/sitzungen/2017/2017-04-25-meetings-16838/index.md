@@ -1,0 +1,55 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-25T16:00:00+02:00
+- Ende: 2017-04-25T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16838
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16838
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609464.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609464.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609464.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP -: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau; TOP 1.3 - Kenntnis genommen
+- TOP 1.4: Vortrag "Medienscouts an Kölner Grundschulen"
+- TOP -: Medienscouts an Kölner Grundschulen - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Mehrklassenbildung an Gymnasien im Kölner Westen - geändert beschlossen
+- TOP 2.2: Anmeldesituation an den weiterführenden Schulen - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Sachstand zur Umsetzung des "Konzeptes zu einer ganzheitlichen technischen Schul IT" - zu AN/0388/2017 - Kenntnis genommen
+- TOP 3.1.2: Beantwortung der Anfrage AN/0430/2017 der PIRATEN GRUPPE im Rat der Stadt Köln; Informationen über Schulentfall bald per App? - Kenntnis genommen
+- TOP 3.1.3: Sachstand zum Bildungs- und Teilhabepaket (BuT) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.4: Transparenz bei der Schulwahl AN/0457/2017 - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Reinigung von Schultoiletten
+- TOP 3.2.2: Anmeldebögen an weiterführenden Schulen
+- TOP -: Anmeldebögen an Schulen (AN/0614/2017) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert beschlossen
+- TOP 4.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert beschlossen
+- TOP 4.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 4.4: Namensgebung für die Gesamtschule Paul-Humburg-Str. 13, 50735 Köln (Longerich) - ungeändert beschlossen
+- TOP 4.5: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Katholische Grundschule Gutnickstr.37, 50769 Köln - ungeändert beschlossen
+- TOP 4.6: Schulrechtliche Errichtung des Gymnasiums Zusestraße/ Kölner Straße in Lövenich - Interimsstart am Standort Neue Sandkaul in Widdersdorf in angemieteten/ erworbenen Räumlichkeiten der privaten Internationalen Friedensschule - geändert beschlossen
+- TOP -: Interimsstandort Widdersdorf, Beschlussvorlage 1123 /2017 - ungeändert beschlossen
+- TOP 4.7: Planungsaufnahme zur Errichtung einer 3-fach Turnhalle sowie von 4 zusätzlichen Klassenräumen für das Herder - Gymnasium, Kattowitzer Str. 52, 51065 Köln Buchheim - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Partizipation - Darstellung aktueller Konzepte, Standards und Entwicklungen im Amt für Kinder, Jugend und Familie (Stand Februar 2017) - Kenntnis genommen
+- TOP 5.2: Jahresbericht über die Beschlüsse des Ausschusses Schule und Weiterbildung im Jahr 2016 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.3: Kölner Maßnahmenplan "Inklusion und Sport" - Kenntnis genommen
+- TOP 5.4: Realisierung von Zweifachturnhallen beim Neubau von Grundschulen - Kenntnis genommen
+- TOP 5.5: 2. Kölner Saatgutfestival im VHS-Studienhaus - Kenntnis genommen
+- TOP 5.6: Stadtradeln 2017 - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
