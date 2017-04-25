@@ -1,0 +1,63 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-25T15:00:00+02:00
+- Ende: 2017-04-25T17:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16837
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16837
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609970.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609970.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609970.pdf
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der Anfrage zu Beratungsstellen für Seniorinnen und Senioren mit Zuwanderungsgeschichte - AN/0028/2017 - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage: Erhebung drittmittelgeförderter Projekte für Geflüchtete - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Nachfrage zur Beantwortung der Anfrage AN/1296/2016 zur Interkulturellen Öffnung der Suchtberatungsstellen 3155/2016 - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mündlichen Nachfrage aus der Sitzung des Integrationsrates am 23.01.2017 zu TOP 1.1 „Beantwortung von mündlichen Nachfragen aus der Sitzung des Integrationsrates am 31.10.2016 zum TOP 1.2 zum Thema Gesundheitswegweiser“ Vorlagen – - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage zur Mitteilung "Wegweiser für die Palliativ- und Hospizversorgung in Köln" 2382/2016 - Kenntnis genommen
+- TOP 3.6: Beantwortung der mündlichen Nachfrage aus der Sitzung des Integrationsrates am 28.11.2016 zum TOP 1.1 zur Qualifizierung von herkunftssprachlichen Zuwanderern als "Integrationslotsen im Gesundheitswesen" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 5: Mitteilungen
+- TOP 5.1: Berichtswesen Integrationsrat für 2016 - Kenntnis genommen
+- TOP 5.2: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2016 in der Stadt Köln - Kenntnis genommen
+- TOP 5.3: Open-Space-Konferenz - Wir alle sind Stadtgesellschaft – Zusammenkommen, Verstehen, Gestalten - Kenntnis genommen
+- TOP 5.4: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2016 und Kölner Sprachfest 2017 - Kenntnis genommen
+- TOP 5.5: Weitere Informationen über die Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 5.6: Darstellung der Sparten - Kenntnis genommen
+- TOP 5.7: Beantwortung der schriftlichen Anfrage AN/0257/2017 der PIRATEN aus der Sitzung des Rates der Stadt Köln am 14.02.2017 - Kenntnis genommen
+- TOP 5.8: Zuschussvergabe 2017 zur Förderung von Familienbildungsstätten und interkultureller Elternarbeit sowie Förderung von Angeboten interkultureller Familienbildung - Kenntnis genommen
+- TOP 5.9: Mitteilung zur Anfrage von RM Thelen - Kenntnis genommen
+- TOP 5.10: Bezuschussung von Interkulturellen Kunstprojekten 2. Halbjahr 2017 - Kenntnis genommen
+- TOP 5.11: Neue Beratungsfolge für das Feinkonzept Mindeststandards zur Flüchtlingsunterbringung - Kenntnis genommen
+- TOP 5.12: Stadtradeln 2017 - Kenntnis genommen
+- TOP 5.13: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? - Kenntnis genommen
+- TOP 5.14: 14. Bericht zur Unterbringung und Integration von Flüchtlingen - Kenntnis genommen
+- TOP 5.15: Integration von geflüchteten Frauen in den Arbeitsmarkt - Kenntnis genommen
+- TOP 5.16: Wege in Arbeit – Unterstützungsmöglichkeiten für Zugewanderte - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Benennung eines Teilstückes des Stammheimer Ufers nach Ali Kurt - Kenntnis genommen
+- TOP -: Änderungsantrag - Benennung eines Teilstückes der Wiesdorfer Str. in Ali-Kurt-Weg - ungeändert beschlossen
+- TOP 6.2: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - Kenntnis genommen
+- TOP -: Änderungsantrag zu Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2017 - ungeändert beschlossen
+- TOP 8.2: Städtischer Zuschuss an den Träger "Christliche Sozialhilfe Köln e.V." für die Maßnahme "Stadtteilmütter Mülheim" und Städtischer Zuschuss an den Träger "FIZ e.V." für die Maßnahme "Stadtteilmütter Chorweiler" im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 8.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert beschlossen
+- TOP 8.4: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert beschlossen
+- TOP 8.5: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 8.6: Sanierung und Umbau des städtischen Gebäudes Rothenburger Str. 2, 51103 Köln-Vingst, zur Sicherstellung der gesetzlichen Unterbringungsverpflichtung für Geflüchtete - Baubeschluss - ungeändert beschlossen
+- TOP 8.7: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 8.8: Verfahren zur Vergabe der Fördermittel für Interkulturelle Kunstprojekte - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
