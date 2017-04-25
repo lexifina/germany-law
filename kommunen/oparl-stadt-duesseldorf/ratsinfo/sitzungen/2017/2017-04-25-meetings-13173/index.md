@@ -1,0 +1,66 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-04-25T17:00:00+02:00
+- Ende: 2017-04-25T22:15:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13173
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13173
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00291171.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00291171.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00291171.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 3/2017 - abweichend beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Workshopverfahren -Ehemals-Fashion House- - Empfehlung mehrheitlich abgelehnt
+- TOP 6: BPlan-Verfahren 05/003 "Westlich Leuchtenberger Kirchweg" - Empfehlung abweichend beschlossen
+- TOP 7: Umgestaltung Kaiserswerther Markt; Auswertung der Bürgerinformationsveranstaltung vom 24.11.2015 - abweichend beschlossen
+- TOP 7.1: Änderungsantrag Umgestaltung Kaiserswerther Markt - Pkw-Stellplätze bestmöglich erhalten - mehrheitlich beschlossen
+- TOP 7.2: Änderungsantrag Umgestaltung Kaiserswerther Markt - Begegnungsfläche - mehrheitlich beschlossen
+- TOP 7.3: Änderungsantrag Umgestaltung Kaiserswerther Markt - reduzierte Höhe der Mittelinsel - abweichend beschlossen
+- TOP 7.4: Änderungsantrag Umgestaltung Kaiserswerther Markt - Gehwegbreite - abweichend beschlossen
+- TOP 7.5: Änderungsantrag Umgestaltung Kaiserswerther Markt - keine Poller - mehrheitlich beschlossen
+- TOP 7.6: Änderungsantrag Umgestaltung Kaiserswerther Markt - Mittelinsel Kopfenden - abweichend beschlossen
+- TOP 7.7: Änderungsantrag Umgestaltung Kaiserswerther Markt - Beleuchtung - einstimmig beschlossen
+- TOP 7.8: Änderungsantrag Umgestaltung Kaiserswerther Markt - Fahrradabstellplätze - abweichend beschlossen
+- TOP 7.9: Änderungsantrag Umgestaltung Kaiserswerther Markt - abgepollerte Laternenbeleuchtung - mehrheitlich beschlossen
+- TOP 7.10: Änderungsantrag Umgestaltung Kaiserswerther Markt - Ortstermin - abweichend beschlossen
+- TOP 7.11: Änderungsantrag Umgestaltung Kaiserswerther Markt - Anpassung der Entwurfsplanung - abweichend beschlossen
+- TOP 7.12: Änderungsantrag Umgestaltung Kaiserswerther Markt - Belebte Mitte - zurückgezogen
+- TOP 7.13: Kaiserswerther Markt - Gasbeleuchtung - einstimmig beschlossen
+- TOP 8: Nordstern Abfahrt Danziger Straße/Flughafen - Rotlichüberwachungsanlage
+- TOP 9: Nachtverkehr in den Stadtbezirk 5 werktags - beantwortet
+- TOP 10: Anschlussnutzung Behelfsfahrgastunterstand Angermund
+- TOP 11: Verbesserung der Anbindung des Stadtbezirks 5 an den Flughafen-Fernbahnhof - beantwortet
+- TOP 12: Messe- und Arenaparker in Wohngebieten - beantwortet
+- TOP 13: Verkehrsgefährdung durch Rotlichtverstöße - beantwortet
+- TOP 14: Baustellenverkehr Graf-Engelbert-Straße 4 - 8 - beantwortet
+- TOP 15: Schloss Kalkum - Denkmalschutz - beantwortet
+- TOP 16: Müllabfuhr - Einsatz von Seitenladern - beantwortet
+- TOP 17: Feinstaub- bzw. Ultrafeinstaubbelastung Flughafen - beantwortet
+- TOP 18: Einbindung und Wertschätzung von Flüchtlingshelfern - beantwortet
+- TOP 19: Halteverbotsbeschilderung Graf-Engelbert-Straße 73
+- TOP 20: Anwohnerparken und Verkehrsüberwachung in Angermund
+- TOP 21: Altlasten Wacholderstraße - beantwortet
+- TOP 22: Kaiserswerther Markt - Sicherheitsmaßnahmen zur Gasbeleuchtung mittels Poller - beantwortet
+- TOP 23: Fußgängerüberweg Duisburger Landstraße/Am Kehrbesen - beantwortet
+- TOP 24: Elektromobilität stärken - Umwelt schonen
+- TOP 25: Bauvorbescheide - beantwortet
+- TOP 26: Fußverkehr auf der Lönsstraße - beantwortet
+- TOP 27: Einrichtung einer "Kiss & Ride" Zone am Kaiserswerther Markt - abweichend beschlossen
+- TOP 28: Stadtteile stärken - bezirksbezogene Haushaltsansätze erhöhen - mehrheitlich beschlossen
+- TOP 29: Gesamtkonzept für "Kunst im Park" im Lantz´schen Park - einstimmig beschlossen
+- TOP 30: "Kleine gelbe Schule" in ihrer bestehenden Form erhalten - zurückgezogen
+- TOP 31: Farbkopierer und Tablets für die "kleine gelbe Schule" - mehrheitlich beschlossen
+- TOP 32: Müllbeseitigung am Nordufer des Angermunder Baggersees - einstimmig beschlossen
+- TOP 33: Niederrheinstraße 76-78 - Stellplatz für Behinderte - mehrheitlich abgelehnt
+- TOP 34: Stellungnahmen 25.04.2017 - zur Kenntnis genommen
+- TOP 35: Verschiedenes - zur Kenntnis genommen
+- TOP 36: Max-Planck-Gymnasium, Koetschaustraße 36, Erhöhung der Zügigkeit um einen Zug auf fünf Züge - Empfehlung einstimmig beschlossen
