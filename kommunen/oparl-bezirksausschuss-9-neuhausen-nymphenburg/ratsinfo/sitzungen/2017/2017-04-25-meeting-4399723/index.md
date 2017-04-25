@@ -1,0 +1,155 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4399723
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4399723
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Grundschule am Dom-Pedro-Platz, Klasse 3a Schullandheimaufenthalt vom 13. - 17.02.2017 Az. 0262.0-9-0228
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Initiative "Film o´pflanzt is" Film "o´pflanzt is" Az. 0262.0-9-0234
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.4.1.: (E) Bodenindikatoren – Bushaltestelle Donnersbergerstraße Empfehlung Nr. 14-20 / E 01363 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Bodenindikatoren – Bushaltestelle Donnersbergerstraße Empfehlung Nr. 14-20 / E 01363 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Fahrradständer an der Unterführung Friedenheimer Brücke
+- TOP 3.2.2.: Birketweg - Beseitigen der Pfützenbildung auf dem Fußweg im Teilabschnitt kurz vor den Bahngleisen zur Herstellung der ordnungsgemäßen Nutzung
+- TOP 3.2.3.: Bürgerfragen Siedlung Hirschgarten
+- TOP 3.2.4.: Haltverbot Hirschgartenallee
+- TOP 3.2.5.: Hinweisschilder in der Unterführung Maria-Ward-Straße
+- TOP 3.2.6.: Einbahnregelung in der Rupprechtstraße
+- TOP 3.2.7.: Verkehr in der Nibelungenstraße / Kreuzung Lachnerstraße - Erwiderung zu Stellungnahme zu Antrag Nr. 14-20 / B 03019
+- TOP 3.2.8.: Einrichtung Bushalt Volkartstraße (U-Bahn) an der Linie 144
+- TOP 3.2.9.: Abbiegesituationen Kreuzungsbereich Landshuter Allee / Donnersbergerbrücke / Arnulfstraße
+- TOP 3.2.10.: Erika-Mann-Straße als Fahrradstraße
+- TOP 3.2.11.: Richelstraße als Fahrradstraße
+- TOP 3.2.12.: Radwegbeschilderung an der Richelstraße Richtung Birketweg
+- TOP 3.2.13.: Änderung Radwegverlauf im Bereich Birketweg / Backstage
+- TOP 3.2.14.: Radwegverlauf Wotanstraße / Mechthildenstraße
+- TOP 3.2.15.: Radwegverlauf Wotanstraße / Gaßnerstraße
+- TOP 3.2.16.: Fahrradabstellplätze beim Anwesen Notburgastraße 4
+- TOP 3.2.17.: Weiterführung der Fahrradstraße Hohenlohestraße in die Demollstraße
+- TOP 3.2.18.: Durchgehende Fahrradstraße entlang des Nymphenburg-Biedersteiner-Kanals zwischen Menzinger Straße und Dantestraße
+- TOP 3.2.19.: Parkplätze Theaterzelt "Das Schloss"
+- TOP 3.2.20.: Geschichtswerkstatt Neuhausen e.V.: Erklärungsschilder für Straßennamen
+- TOP 3.2.21.: Schulcampus Albrechtstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: St.-Galler-Straße / Dom-Pedro-Platz: Umgestaltung bzw. Vorschläge des Kreisverwaltungsreferates für Verkehrsmaßnahmen
+- TOP 3.3.2.: MVG Leistungsprogramm 2018
+- TOP 3.3.3.: Beschlussentwurf Verkehrsentwicklungsplanung - Angebotsverbesserung und Ausbau der umweltgerechten Verkehrsmittel; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 15.04.2017
+- TOP 3.3.4.: Haltverbot in der Schachenmeierstraße
+- TOP 3.3.5.: Spartenanfrage: - Kuglmüllerstraße - Nymphenburger Straße
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Wegweisung Hirschgarten
+- TOP 3.4.2.: Parkraummanagement im Arnulfpark
+- TOP 3.4.3.: Parkraummanagement im Bereich Richelstraße
+- TOP 3.4.4.: Ausbau Radlstammstrecke Hauptbahnhof-Laim-Pasing Hier: Teilstück Erika-Mann-Straße und Bernhard-Wicki-Straße
+- TOP 3.4.5.: Radweg im Bereich Richelstraße - Zwischennachricht zu BV-Empfehlung Nr. E 02103
+- TOP 3.4.6.: Öffnung des Bahngeländes Richelstraße für den Fußgänger- und Radverkehr
+- TOP 3.4.7.: Zusätzlicher Radweg auf der Nymphenburger Straße - Antrag Nr. 14-21 / B 00601 vom 18.11.2014
+- TOP 3.4.8.: Erschütterungen in Wohnungen durch die neu eingesetzten Tram-Variobahnen - Antwort MVG
+- TOP 3.4.9.: Verkehr in der Nibelungenstraße / Kreuzung Lachnerstraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Wendl-Dietrich-Straße / Biterolfstraße: Einrichtung eines Zebrastreifens - Bürgeranfrage BV-Versammlung des 9. SB am 27.11.2014
+- TOP 3.5.2.: (U) Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhaltepunkt Donnersbergerbrücke im 3. Stadtbezirk Maxvorstadt, im 8. Stadtbezirk Schwanthalerhöhe und im 9. Stadtbezirk Neuhausen - Nymphenburg Projektkosten (Kostenobergrenze): für Brückenkonstruktion 13.700.000 € für Erschließungsanlagen 4.300.000 € für Eingriffe in Bahnbetrieb und -anlagen 4.000.000 € 1. Projektgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 3.5.3.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 3.5.4.: MVG: Betriebsänderungen während des Umbaus am U-Bahnhof Sendlinger Tor
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Überbauung von Parkplätzen
+- TOP 4.2.2.: Dachsanierung Rudolf-Diesel-Realschule
+- TOP 4.2.3.: Museum Mensch & Natur, Vorlage Denkmalschutzbeauftragter
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Hirschgartenallee 20 - Geschosswohnungsbau - Antrag auf Vorbescheid
+- TOP 4.3.2.: Landshuter Allee 53 - Dachgeschoss-Ausbau und Neubau eines Einfamilienhauses, Anbau eines außenliegenden Aufzugs
+- TOP 4.3.3.: Lothstraße 3 - 5 - Neubau einer Wohnanlage mit Tiefgarage - Antrag auf Vorbescheid
+- TOP 4.3.4.: Mettinghstr. 5 - DG-Aufstockung und -ausbau zur Errichtung einer Wohneinheit im DG, Einbau eines innenliegenden Aufzugs, Anbau von Balkonen, Einbau von Dachflächenfenster und Gauben, Anpassen der Gebäudehöhen gem. Aufmaß
+- TOP 4.3.5.: Wotanstr. 31 - Aufstockung eines Mehrfamilienhauses - Antrag auf Vorbescheid
+- TOP 4.3.6.: Gewerbeflächenentwicklungsprogramm GEWI - Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern zur Beschlussvorlage Nr. 14-20 / V 07490
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Döllingerstraße 20 - Neubau eines Mehrfamilienhauses mit TG
+- TOP 4.4.2.: Prinzenstraße 35 - Neubau eines Mehrfamilienhauses mit TG
+- TOP 4.4.3.: Südliche Auffahrtsallee - Neubau eines Geschäftshauses mit TG
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Kommission für Stadtgestaltung: Modernisierung der Jugendherberge Wendl-Dietrich-Straße
+- TOP 4.5.2.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 4.5.3.: SWM: Ehemaliges Stationshaus am Romanplatz
+- TOP 4.5.4.: LBK: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Initiative "Film o´pflanzt is" Film "o´pflanzt is"
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.2.2.: Baumpflanzung Donnersbergerbrücke
+- TOP 5.2.3.: Lärmbelästigung am Josef-Obenhin-Weg
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anträge auf Fällungsgenehmigung: - Kemnatenstr. 60 - Niedernburger Weg 16 - Mareesstr. 9 - Hilblestr. 53 - Demollstr. 15 - Sustrisstr. 11 - Aiblingerstr. 1
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Änderung des Vergabeverfahrens für Kleingärten in München
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Hundingstr. 1- Baumfällungsantrag: Bescheid über den Vollzug des BayNatSchG und der BaumschutzV
+- TOP 5.5.2.: RGU: Nächtliche Arbeiten in den KW 15 & 16 in Höhe Arnulfstraße 195 (Briefzentrum)
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Probleme an der Gerner Brücke
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Spielaktionen in öffentlichen Grünanlagen
+- TOP 6.3.2.: Kinder-Aktions-Koffer 2017/ 2018: Beteiligung von Kindern im Alter von 7 – 14 Jahren an der Stadtbezirksentwicklung
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Street Art am Kreativlabor
+- TOP 7.4.2.: - Musikstadt München: Verlagerung der Philharmonie in die Paketposthalle prüfen Antrag Nr. 14-20 / A 02023 der Stadtratsfraktion DIE GRÜNEN / ROSA LISTE vom 15.04.2016 - Paketposthalle als Interimsstandort des Gasteig Antrag Nr. 14-20 / B 03330 des Bezirksausschusses des Stadtbezirks 9 -- Neuhausen-Nymphenburg vom 21.02.2017
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Grundschule am Dom-Pedro-Platz, Klasse 3a Schullandheimaufenthalt vom 13. - 17.02.2017
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Sanierung Rudolf-Diesel-Realschule
+- TOP 8.2.2.: Dachsanierung Rudolf-Diesel-Realschule
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Nutzung des Schwimmbeckens der Samuel-Heinicke-Realschule
+- TOP 8.4.2.: Einsatz von Schwimmhelfer/Innen als Ergänzung zum Lehrpersonal
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 8.5.2.: Freibadöffnungskonzept SWM - Vorlagen-Nr. 14-20 / V 08133
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Presserichtlinien bei Bezirksauschüssen
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Magdalenenfest im Hirschgarten vom 07.07. - 23.07.2017 - Anhörung KVR
+- TOP 9.3.2.: Skatepark-Mobil 2017 von Mai bis September
+- TOP 9.3.3.: Hirschgarten, Feriensportkurs des RBS am 29./30.07., 05./06./12./13.08. und 04./05.09.17 im Skatepark
+- TOP 9.3.4.: Hirschgarten (Skatepark), Skateboardworkshop des RBS am 05./06.06.2017
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Fortführung von Gaststättenbetrieben: - Zauberberg Hedwigstraße - Kini&#039;s Kitchen Dachauer Str. - Clubhaus Postillonstraße
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
