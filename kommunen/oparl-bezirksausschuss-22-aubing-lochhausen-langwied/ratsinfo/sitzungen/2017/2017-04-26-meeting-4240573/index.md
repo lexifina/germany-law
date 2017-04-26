@@ -1,0 +1,178 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2017-04-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4240573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4240573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 1.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 28.03.17
+- TOP 2.: Beschluss der Vollversammlung vom 15.03.17
+- TOP 3.: Beschluss des Bauausschusses vom 21.03.17
+- TOP 4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.17
+- TOP 5.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.03.17
+- TOP 6.: Bekanntgabe in der gemeinsamen Sitzung des Bildungsausschusses und des Kinder- und Jugendhilfeausschusses vom 21.03.17
+- TOP 7.: Beschluss der Vollversammlung vom 15.11.16
+- TOP 8.: Bekanntgabe im Verwaltungs- und Personalausschuss vom 29.03.17
+- TOP 9.: Beschluss der Vollversammlung vom 05.04.2017:
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Weiterführende Schulen im 22. Stadtbezirk
+- TOP 2.1.2.: Ampel an der Kreuzung Aubinger Str. / Limesstr.
+- TOP 2.1.3.: Großer Schwarzbau im Garten, Kravogelstr. 40
+- TOP 2.1.4.: 30er Schilder am Langwieder Bach; S-Bahn bis Gröbenzell - 1 Streifen weniger; Wiese am Aubinger Wasserturm
+- TOP 2.1.5.: Kindergartenplatz im 22. Stadtbezirk
+- TOP 2.1.6.: Fußgängerbrücke am S-Bahnhof Westkreuz
+- TOP 2.1.7.: Leinenzwang am Böhmerweiher
+- TOP 2.1.8.: Müll entlang des Baches von der Langwieder Hauptstraße zur Lochhausener Straße
+- TOP 2.1.9.: Müll am S-Bahnhof Lochhausen
+- TOP 2.1.10.: Parken Hufschmiedstraße
+- TOP 2.1.11.: Zustand südlich der Mainaustraße
+- TOP 2.1.12.: Verkehrsberuhigung in der Brunhamstraße
+- TOP 2.1.13.: Unerlaubtes Abstellen eines Anhängers
+- TOP 2.1.14.: Vorschlag für Naturdenkmal Nähe Wiesentfelser Str.
+- TOP 2.1.15.: Flüchtlingssiedlung Langwieder Hauptstraße
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen zu einem Bauvorhaben: - Wildenfelser Str. 3 - Hellensteinstr. 4 - Bodenseestr. 170 - Bodenseestr. 134 - Ostermoosstr. 6d - Purpurweidenweg, Gemarkung Langwied, Fl.Nr. 113/0 (N) - Rohrdommelweg 24 (N) - Kainacher Str. 10
+- TOP 3.1.2.: Baumfällungen auf Anforderung: - Thierlsteiner Str. 11 - Ravensburger Ring 26 - Wildenfelser Str. 24 - Noderstr. 2 - Noderstr. 8 - Kurt-Floericke-Str. 18 - Bodenseestr. 222 - Lichtenfelser Str. 4 - Eichelhäherstr. 36
+- TOP 3.1.3.: Ablehnung der Baumfällung, hier: Colmdorfstr., Fl. Nr. 726/2, Schr. Planungsreferat vom 16.03.17
+- TOP 4.1.: Abholzen vieler Bäume im Gewerbegebiet der Bahn; Triebwerk (Reinhard Bernsdorf)
+- TOP 4.2.: Änderung des Abbiegepfeils an der Kreuzung Bodensee-/ Hans-Steinkohl-Str. (Reinhard Bernsdorf)
+- TOP 4.3.: Feinstaubmanagement aufgrund Baustaub im 22. Stadtbezirk (Hr. Umseher, Hr. Kriesel, Hr. Sauerer, Hr. Schrader)
+- TOP 4.4.: Anbindung Schulcampus durch ÖPNV (Hr. Umseher, Fr. Huber, Hr. Kriesel)
+- TOP 4.5.: Erhaltung des Gebäudes Limesstr. 52 a-c (Fraktion der B90/Grüne)
+- TOP 4.6.: Anfrage zum 1. Realisierungsabschnitt Freiham (Fraktion B90/Grüne)
+- TOP 4.7.: Ausstattung der Bushaltestellen mit Strom (UA Soziales, Familie, Senioren, Kultur)
+- TOP 5.1.: Budget der Bezirksausschüsse: MobilSpiel e.V. - Projekt Kicklusion "...und alle kicken mit" am 08.10.2017 (vertagt aus 03/17)
+- TOP 5.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied: Einziehung einer Teilstrecke des unbenannten Weges Nr. 106
+- TOP 5.3.: Budget der Bezirksausschüsse: Arbeitskreis Langwied Lochhausen historisch Ausstellung "Von der Gemeinde zum Stadtteil" vom 15.10. - 05.11.2017 Az. 0262.0-22-0083
+- TOP 5.4.: Budget der Bezirksausschüsse: Förderverein der Grundschule Limesstraße Zwei Tanzprojekte vom 24.04. - 28.07.2017 Az. 0262.0-22-0082
+- TOP 6.1.1.1.: Auswahl neuer REGSAM-Schwerpunktgebiete ab 2017, Schr. Sozialreferat vom 03/17 (vertagt aus 03/17)
+- TOP 6.1.1.2.: Veranstaltung in einer städt. Grünanlage, hier: Am Gleisdreieck, Skateboardworkshop vom 29.07.-11.09.17, Anhörung KVR vom 07.04.17
+- TOP 6.1.1.3.: Veranstaltung in städt. Grünanlagen, hier: Skatepark-Mobil von Mai bis September 2017, Skatepark am Pasinger Gleisdreieck, Anhörung KVR vom 07.04.17
+- TOP 6.1.1.4.: Veranstaltung im Freien in einer städt. Grünanlage, hier: Internationales Sommerfest am 01. und 02.07.17, Wiesentfelser Str. 57, Anhörung KVR vom 10.04.17
+- TOP 6.1.1.5.: Veranstaltung auf öffentl. Verkehrsgrund, hier: Mammut Marsch, Startgelände ESV Neuaubing, Papinstr. vom 05.-06.08.17, Anhörung KVR vom 07.04.17
+- TOP 6.1.1.6.: Errichtung eines Ersatzbaus für die offene Einrichtung für Jugendliche Freizeitstätte "AWO`s Fredl" in der Bodenseestr. 186, Anhörung Sozialreferat vom 05.04.17
+- TOP 6.1.1.7.: Veranstaltung in einer öffentlichen Grünanlage: Skateboardworkshop Am Gleisdreieck am 03.06. / 04.06.17, Anhörung KVR vom 12.04.17
+- TOP 6.1.1.8.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund, Anhörung KVR vom 19.04.17
+- TOP 6.1.2.1.: Unterkunft Wohnungslose Kastelburgerstr. 56-60, Schr. Sozialreferat vom 14.03.17
+- TOP 6.1.2.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge, Schr. Sozialreferat vom 31.03.17
+- TOP 6.1.2.3.: Betreiberwechsel in der Flüchtlingsunterkunft Langwieder Hauptstraße 30, Schr. Sozialreferat vom 07.04.17
+- TOP 6.1.2.4.: Veranstaltungsübersicht April 2017, Schr. Kulturreferat vom 13.04.17
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Beschlussvorlage Referat für Bildung und Sport: 2.Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung", Anhörung Referat für Bildung und Sport vom 12.04.17
+- TOP 6.2.1.2.: Errichtung eines Sportparks in Freiham, Beschlussvorlage für den gemeinsamen Sport- und Bildungsausschuss am 03.05.17, Anhörung Ref. f. Bildung u. Sport vom 18.04.17
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Öffnung der Schulhöfe, zeitgemäße Fortentwicklung - Zwischenstand, Schr. Ref. f. Bildung u. Sport vom 29.03.17
+- TOP 6.2.2.2.: Waldkindergarten an der Federseestraße, Schranke am Eingang zur Aubinger Lohe, Schr. Baureferat vom 29.03.17 (Vorgang siehe TOP 6.3.2.10)
+- TOP 6.2.2.3.: Verkehrssituation in Aubing - Schulweg, Schr. KVR vom 30.03.17 (Vorgang siehe TOP 6.3.2.13)
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines absoluten Haltverbotes Hoheneckstr., Anhörung KVR vom 24.03.17
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnung, hier: Einrichtung einer Kurzparkzone Clarita-Bernhard-Straße, Anhörung KVR vom 24.03.17
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnung, hier: Einnrichtung eines Haltverbotes Am Langwieder Bach, Anhörung KVR vom 30.03.17
+- TOP 6.3.1.4.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines Haltverbotes Colmdorfstraße, Anhörung KVR vom 30.03.17
+- TOP 6.3.1.5.: MVG-Leistungsprogramm 2018, Anhörung MVG vom 30.03.17
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrssicherheit Langenburgstraße, Schr. KVR vom 15.03.17
+- TOP 6.3.2.2.: Ubostraße, Antrag auf Einrichtung eines einseitigen Haltverbotes, Schr. KVR vom 09.03.17
+- TOP 6.3.2.3.: Einrichtung eines Kreisverkehrs für die Kreuzung Lochhausener Str. / Am Langwieder Bach / Purpurweidenweg, Schr. Baureferat vom 09.03.17
+- TOP 6.3.2.4.: Radverbindungen Freiham-Süd, Schr. KVR vom 09.03.17
+- TOP 6.3.2.5.: Aubinger Str., Parken durch Fahrzeuge von Autovermietungen, Schr. KVR vom 14.03.17
+- TOP 6.3.2.6.: Fußgängerbrücke am S-Bahnhof Westkreuz, Schr. Planungsreferat vom 23.03.17
+- TOP 6.3.2.7.: Angemessene Beteiligung der Betroffenen bei der Gestaltung des neuen MVV-Tarifs, Schr. Ref. f. Arbeit u. Wirtschaft
+- TOP 6.3.2.8.: Verkehrsrechtliche Anordnung, Einrichtung von Haltverboten in der Schussenrieder Straße, Schr. KVR vom 23.02.17
+- TOP 6.3.2.9.: Deutlichere Kennzeichnung der Einbahnregelung in der Fabrikstraße, Schr. KVR vom 23.03.17
+- TOP 6.3.2.10.: Waldkindergarten an der Federseestraße; Schranke am Eingang zur Aubinger Lohe, Schr. Baureferat vom 29.03.17
+- TOP 6.3.2.11.: Verkehrsrechtliche Anordnung, Einrichtung von absoluten Haltverboten Im Stocket / Waidachanger, Schr. KVR vom 20.12.16
+- TOP 6.3.2.12.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, hier: Straßenbau Germeringer Weg vom 10.04.-05.05.17, Schr. KVR vom 06.04.17
+- TOP 6.3.2.13.: Verkehrssituation in Aubing - Schulweg, Schr. KVR vom 30.03.17
+- TOP 6.3.2.14.: Einrichtung eines Zebrastreifens in der Aubinger Str. Höhe Stockacher Str., Schr. KVR vom 06.04.17
+- TOP 6.3.2.15.: Wege- bzw. Routenkonzept für Wege im 22. Stadtbezirk zur Sicherung der Naherholung, Zwischennachricht Planungsreferat vom 10.04.17
+- TOP 6.3.2.16.: Buseinstieg / Behindertenhilfe an der Haltestelle Pretzfelderstraße / Streitbergstraße (Südseite), Schr. Baureferat vom 10.04.17
+- TOP 6.3.2.17.: Eingeschränktes Parken an der Erwin-Hilscher-Straße / Clarita-Bernhard-Straße bis zur Ampel Hans-Steinkohl-Straße, Schr. KVR vom 07.04.17
+- TOP 6.3.2.18.: Planung einer neuen Zufahrt zum Parkplatz Goteboldstraße, Schr. Planungsreferat vom 10.04.17
+- TOP 6.3.2.19.: Verbesserter Ein- und Ausstieg bei Buszügen der Linie 57, Schr. Referat für Arbeit und Wirtschaft vom 10.04.17
+- TOP 6.3.2.20.: Ausbau der Negrellistraße als Radweg - jetzt Feldweg, Schr. Baureferat vom 12.04.17
+- TOP 6.3.2.21.: S4-Ausbau u.a. durch Gröbenzeller Spange, Schr. Oberste Baubehörde vom 11.04.17
+- TOP 6.3.2.22.: Bahnübergang Brunhamstraße, Schrankenöffnungen, Schr. Planungsreferat vom 18.04.17
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Schwemmstr. 6 - Neubau eines Ein- und Zweifamilienhauses, Anhörung Planungsreferat vom 02.03.17 (vertagt aus 03/17)
+- TOP 6.4.1.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung IV/33 Kleiberweg (südlich), Henschelstr. (südwestlich), Altostr. (westlich), Ziegeleistr. (östlich) und Bebauungsplan mit Grünordnung Nr. 2084 Kleiberweg (südlich), Henschelstr. (südwestlich), Federseestr. (westlich und nördlich), Anhörung Planungsreferat vom 21.03.17
+- TOP 6.4.1.3.: Bauleitplanung der Gemeinde Gröbenzell, Aufstellung des Bebauungsplanes "Gewerbegebiet", Anhörung Planungsreferat vom 29.03.17
+- TOP 6.4.1.4.: Radolfzeller Str. 5 + 5a, Tektur - Ersatz-Neubau eines Nahbereichszentrums u.a. mit Verbrauchermarkt, Lebensmitteldiscountmarkt, Einzelhandelsflächen, Bäckerei-Filiale u. Cafe-Gastronomie, Wohnungen, Ärztehaus, Apotheke, Bibliothek und Tiefgarage / BA II, Anhörung Planungsreferat vom 30.03.17
+- TOP 6.4.1.5.: Gewerbeflächenentwicklungsprogramm - GEWI, Fortschreibung und Öffentlichkeitsbeteiligung, Anhörung Planungsreferat vom 28.03.17
+- TOP 6.4.1.6.: Bebauungsplan mit Grünordnung Nr. 2092, BAB A99 mit Anschlussstelle Germering-Nord ca. 750 m nach Osten bis zur geplanten Straße am Westrand des 1. RA Freiham Nord (Teiländerung des Bebauungsplans mit Grünordnung Nr. 2068), Anhörung Planungsreferat vom 07.04.17
+- TOP 6.4.1.7.: Vollzug des BNatSchG und des BayNatSchG: Novellierung der Naturdenkmalverordnung der LH München, Anhörung Planungsreferat vom 12.01.17 (vertagt aus 03/17)
+- TOP 6.4.1.8.: Blumenwiese im Stadtgebiet: Altostraße, Anhörung Baureferat vom 12.04.17
+- TOP 6.4.1.9.: Beschlussvorlage Referat für Bildung und Sport: 2.Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung", Anhörung Referat für Bildung und Sport vom 12.04.17 (Vorgang siehe 6.2.1.2)
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 06.03.-12.03.17, 13.03.-19.03.17, 20.03.-26.03.17, 27.03.-02.04.17, 03.04.-09.04.17, (N) 10.04.-16.04.17
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München - Stichtage: 06.03.-10.03.17, 13.03.-17.03.17, 20.03.-24.03.17, 27.03.-31.03.17, (N) 10.04.-13.04.17
+- TOP 6.4.2.3.: Kanalisierung Freihamer Weg, Kanalbau im Umgriff d. Bebauungsplanes mit Grünordnung Nr. 2060 Freihamer Weg (östlich), Bahnlinie München - Buchlohe (südlich), Colmdorfstr. (westlich), Pretzfelder Str. (nördlich), Schr. Münchner Stadtentwässerung
+- TOP 6.4.2.4.: S-Bahnunterführung Freiham, Schr. Planungsreferat vom 17.03.17
+- TOP 6.4.2.5.: Prüfung der Nutzung der Flächen an der Lochhausener Straße / Ecke Mälzereistraße, Schr. Planungsreferat vom 27.03.17
+- TOP 6.4.2.6.: Ausnahmebewilligung für die Eröffnungsfeier des Fitnessparcours in der städt. Grünanlage an der Ziegeleistraße am 07.04.17 von 15.00-17.00 Uhr, Schr. KVR vom 30.30.17
+- TOP 6.4.2.7.: Nachpflanzung von Mehlbeerbäumen an der Papinstr. / Ecke Brunhamstr., Schr. Baureferat vom 03.04.17
+- TOP 6.4.2.8.: Prüfung der Nutzung der Flächen im Umgriff Dreilingsweg / Mooswiesenstraße / Berglwiesenstraße, Schr. Planungsreferat vom 31.03.17
+- TOP 6.4.2.9.: Abgrabungsantrag Papinstraße - Nutzungsbezogene Abgrabung in den Abtretungsflächen an die LHM (Gleisharfe) im Rahmen der Umsetzung des Bebauungsplans mit Grünordnung Nr. 1998b, Schr. Planungsreferat vom 12.04.17
+- TOP 6.4.2.10.: Vergabe einer Fläche in Aubing (Flst. 1603/5) im Rahmen der Gewerbeförderung, Schr. Ref. f. Arbeit u. Wirtschaft vom 13.04.17
+- TOP 6.4.2.11.: Recycling-Container am Standort Ehrenbürgstr. 1, Schr. AWM vom 06.04.17
+- TOP 6.4.2.12.: Rattenbekämpfung und Aufstellung von geschlossenen Abfallkörben am Westkreuz/Forum, Schr. Ref. f. Gesundheit u. Umwelt vom 13.04.17
+- TOP 6.4.2.13.: Städtebauliche Kriminalprävention in Freiham, Schr. Planungsreferat vom 11.04.17
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Verkauf einer städt. Immobilie: Nähe Germeringer Weg (Flst. 806) / Clarita-Bernhard-Straße (Flst. 3506/9) - landwirtschaftliche Fläche, Anhörung Kommunalreferat vom 11.04.17 - Vorabzustimmung durch den BA-Vorsitzenden am 13.04.17 -
+- TOP 7.2.: Verkauf einer städtischen Immobilie, hier: nähe Germeringer Weg (Flst. 806); nähe Clarita-Bernhard-Str. (Flst. 3506/9), Anhörung Kommunalreferat vom 11.04.17
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung: - "Aubinger Wirtshaus", Kastelburgstr. 77, Schr. KVR vom 07.03.17 - NPR Lounge, Wiesentfelser Str. 68, Schr. KVR vom 24.03.17 (N) - "Anämos", Radolfzeller Str. 13, Schr. KVR vom 11.04.17
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Huislerstr., Schr. Sozialreferat vom 23.03.17
+- TOP 8.3.: Ergebnisse der letzten BA-Satzungskommission nach entsprechender Beschlussfassung im Stadtrat, Schr. Direktorium vom 10.04.17 (siehe TOP 10.9)
+- TOP 8.4.: Neue Bädereintrittspreise, Schr. SWM vom 11.04.17
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 3.1.: (U) Siedlungsschwerpunkt Freiham Freiham Nord – Öffentliche Grünflächen Bildungscampus und Sportpark Bebauungsplan mit Grünordnung Nr. 2068 im 22. Stadtbezirk Aubing - Lochhausen - Langwied A) Öffentliche Grünflächen Bildungscampus und Sportpark Projektkosten (Kostenobergrenze) für öffentliche Grünflächen Bildungscampus und Sportpark: 5.600.000 Euro 1. Bedarfs- und Konzeptgenehmigung (SB) 2. Projektauftrag (SB) 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 – 2021 (VB) B) Kunst am Bau (SB) C) Öffentlichkeitsarbeit vor Ort (SB)
+- TOP 3.2.: (U) Soziale Stadt Projekt im Sanierungsgebiet Neuaubing-Westkreuz Aufwertung und Umgestaltung des Jugendspielplatzes südlich der Wiesentfelser Straße im 22. Stadtbezirk Aubing - Lochhausen - Langwied Projektkosten (Kostenobergrenze): 2.150.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 3.3.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2. Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Lindwurmstraße durch die DB AG
+- TOP 3.4.: (U) Barrierefreie Unterführung Freiham zwischen Bildungscampus und Sportpark im 22. Stadtbezirk Aubing - Lochhausen - Langwied Projektkosten (Kostenobergrenze): 3.110.000 € 1. Projektgenehmigung (SB) 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 – 2021 (VB)
+- TOP 4.1.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 4.2.: (U) Bebauungsplan mit Grünordnung Nr. 2092 Bundesautobahn A 99 mit Anschlussstelle Germering-Nord ca. 750 m nach Osten bis zur geplanten Straße am Westrand des 1. RA Freiham Nord (Teiländerung des Bebauungsplans mit Grünordnung Nr. 2068) Billigungsbeschluss Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 4.3.: (U) Siedlungsschwerpunkt Freiham 2. Realisierungsabschnitt Freiham Nord A) Moosschwaiger Weg (südlich), Bebauungsplan Nr. 2068 1. RA Freiham Nord (nördlich und westlich), Zukünftiger Landschaftspark Freiham Aufstellungsbeschluss Nr. 2083 (östlich und südlich), - Grundsatz und Eckdatenbeschluss - B) Durchführung des städtebaulichen und landschaftsplanerischen Realisierungswettbewerbes C) Vorbereitung der Rahmenplanung D) Weiters Vorgehen, nächste Schritte im Planungsverfahren E) Wohungsbau verstärken - zusätzliche Wohnungen in Freiham bauen (Antrag Nr. 14-20 / A 01258 der Stadtratsfraktion Freiheitsrechte, Transparenz und Bürgerbeteiligung von 30.07.2015) Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 5.1.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 6.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 7.1.: (U) Errichtung eines Bildungscampus in Freiham mit: - einer 5-zügigen Grundschule - einem 19-klassigen Förder- und Kompetenzzentrum - einem 6-zügigen Gymnasium - einer 5-zügigen Realschule und Zentraler Mitte ( Mensa, 2-fach Sporthalle, Fachlehrsälen, Tiefgarage und Wohneinheiten der technische Hausverwaltungen) Sportpark: gesonderte Beschlussfassung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Projektkosten für Grundschule 26.720.000 € Förder- und Kompetenzzentrum 26.410.000 € Gymnasium 73.680.000 € Realschule 46.310.000 € Zentrale Mitte 67.880.000 € (davon Ersteinrichtungskosten für den gesamten Bildungscampus 18.190.000 €) 1. Projektauftrag und Projektgenehmigung 2. Genehmigung der vorgezogenen Baumaßnahmen 3. Finanzierung des Bildungscampus Freiham - Darstellung im MIP 2015 - 2019 - Abbildung im Finanzhaushalt 2017 4. Vergabeermächtigung 5. Kunst am Bau
+- TOP 8.1.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 9.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 11.1.: Beschlussentwurf für den Verwaltungs- und Personalausschuss: 650.000 Euro Veranstaltungsbudget - davon 150.000 Euro für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen, Schr. BA 25 vom 08.03.17
+- TOP 11.2.: Infoveranstaltung zur MVV-Tarifstrukturreform am 03.05.17, von 14.30-16.30 Uhr im Ref. f. Arbeit u. Wirtschaft, Wilhelm-Herzog-Str. 15, Raum E.02
+- TOP 11.3.: Änderung von Hinweisschildern auf der A99 und A8, Schr. BA 21 vom 27.03.17
+- TOP 11.4.: Einladung AKIM an die BA`s zur Information und Vernetzung am Mittwoch, den 17.05.17 von 17.00-20.00 Uhr, im Raum 402 (Altbau), Franziskanerstr. 6, Schr. Sozialreferat vom 05.04.17
+- TOP 11.5.: Besichtigung Geothermie Freiham und Abschlussprästentation im BA am 19.07.17, Schr. SWM vom 11.04.17
+- TOP 11.6.: Parksituation Germeringer Weg - Ortstermin mit dem KVR am 03.05.17 (Bitte um Teilnahme jeweils max. ein Vetreter pro Fraktion, möglichst aus dem UA Verkehr), Schr. KVR vom 12.04.17
+- TOP 11.7.: Einladung des Sozialreferates zur BA-Informationsveranstaltung am 22.05.17 von 18.30-20.30 Uhr im Sitzungssaal 1082, Sozialreferat, Orleansplatz 11, Schr. Sozialreferat vom 11.04.17
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 24.05.17um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Dienstag, 18.04.17 um 19.00 Uhr, Bay. Schnitzel- u. Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 18.04.17 um 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, den 19.04.17 um 19.00 Uhr, Bildungslokal Limesstr. 81 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, den 20.04.17 um 19.00 Uhr, Friedrichshafener Str. 11
