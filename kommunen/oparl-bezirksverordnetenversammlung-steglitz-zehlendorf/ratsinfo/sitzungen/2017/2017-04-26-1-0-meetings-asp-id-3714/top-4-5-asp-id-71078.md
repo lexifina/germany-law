@@ -1,0 +1,8 @@
+# TOP 4.5: Bebauungsplan 6 -39 B (Thielpark/Dahlem)
+
+- Sitzung: 8. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin (2017-04-26)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=71078
+- Ergebnis: zur Kenntnis genommen (Beratungsfolge beendet)
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=71078
