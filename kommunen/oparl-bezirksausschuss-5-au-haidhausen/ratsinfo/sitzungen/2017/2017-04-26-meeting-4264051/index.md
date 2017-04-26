@@ -1,0 +1,191 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-04-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264051
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264051
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.1.: Budget der Bezirksausschüsse Initiative "Studienensembles" Konzert am 05.10.2017 siehe auch TOP 6.1.1
+- TOP II.2.: Budget der Bezirksausschüsse Initiative "Sallys falsche Oma" Kinder-Musiktheaterstück ab Ende Mai 2017 bis Ende Juni 2017 siehe auch TOP 6.1.3
+- TOP II.3.: Denkmalantrag Weiße Rose
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.1.: Frei laufende Hunde auf der Postwiese (Antwortschreiben bereits ergangen durch Baureferat)
+- TOP 4.2.2.: Nutzung Hydrant am Johannisplatz (Antwortschreiben bereits ergangen durch Baureferat)
+- TOP 4.2.3.: Baubeginn der 2. S-Bahn-Stammstrecke
+- TOP 4.2.4.: Immobiliensuche für Kita
+- TOP 4.2.5.: Renaturierte Isaranlagen
+- TOP 4.2.6.: Baustellen vs. Parkplätze in der Au (Antwortschreiben bereits ergangen durch Baureferat)
+- TOP 4.2.7.: Angespannte Parkplatzsituation durch Abriss der Paulaner Brauerei
+- TOP 5.1.: Wie geht es weiter mit der temporären Bushaltestelle vor dem Berufsschulzentrum ? Anfrage
+- TOP 5.2.: Maxwerk (VI) - Aufwendungen für Investitionen in den Denkmalschutz Anfrage
+- TOP 5.3.: Maxwerk (VII) - Modalitäten Ausschreibungsverfahren Anfrage
+- TOP 5.4.: Maxwerk (VIII) - Beantwortung RIS Nr. 14-20 / B 02287 vom 20.04.2016
+- TOP 5.5.: Im Zuge der Erneuerung von Eisenbahnüberführungen auch den parallel dazu führenden Geh- und Radwege berücksichtigen
+- TOP 5.6.: Betreff: Radschnellweg links der Isar Förderantrag stellen und umgehende Realisierung
+- TOP 5.7.: Betreff: Die Oberfläche von Tischtennisplatten nachbearbeiten
+- TOP 5.8.: Ausgelagerte Hortgruppen von der Außenstelle Orleansplatz wieder am Schulstandort Flurschule integrieren
+- TOP 5.9.: Dringlicher Umbau des Pariser Platz
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Initiative "Studienensembles" Konzert am 05.10.2017 siehe auch TOP 1.1, Unterausschuss Arbeit und Wirtschaft und TOP 1 Unterausschuss Kultur
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Baumobil vom 19.05. - 23.05.2017 siehe auch TOP 1.2, Unterausschuss Arbeit und Wirtschaft
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Initiative "Sallys falsche Oma" Kinder-Musiktheaterstück ab Ende Mai 2017 bis Ende Juni 2017 siehe auch TOP 1.3, Unterausschuss Arbeit und Wirtschaft und TOP 2, UA Kultur
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Verein für Kinder -und Jugendhilfe Kreativ -und Bewegungsprojekt vom 09.05.2017 - 25.07.2017 siehe auch TOP 1.4, Unterausschuss Arbeit und Wirtschaft
+- TOP 6.2.1.: Abhalten eines Flohmarkts am 20.05.2017 auf dem Platz vor dem ASZ Haidhausen in der Wolfgangstr. 18
+- TOP 6.3.1.: (E) Verkehrsberuhigung: Tempolimit von 5 km/h für Taxifahrer in der Fußgängerzone am Genoveva-Schauer-Platz/Steinstraße siehe auch TOP 1.1 Unterausschuss Gesundheit, Umwelt und Verkehr
+- TOP 6.3.2.: ÖPNV Offensive IV Einsteinstraße - Haltestelle Max-Weber-Platz siehe auch TOP 1.2 Unterausschuss Gesundheit, Umwelt und Verkehr
+- TOP 7.1.: Leistungsprogramm 2018 für Fahrplanwechsel am 10.12.2017
+- TOP 7.2.: Roadshow / Bauwagen-Tour 2. S-Bahnstammstrecke am 25.04.2017 auf dem Orleansplatz und am 04.05.2017 auf dem Weißenburger Platz
+- TOP 7.3.: Skatepark-Mobil im Skatepark Postwiese von Juni - September 2017
+- TOP 8.1.1.: Stellplatzsituation Kreuzung Breisacherstraße/Elsässerstraße
+- TOP 8.1.2.: Änderung der Sondernutzungsrichtlinien § 14 (Zeitungsentnahmegeräte)
+- TOP 8.1.3.: Fußgängeraufstellfläche am Gasteig / Innere Wiener Straße vergrößern
+- TOP 8.1.4.: Anfrage zu den Planungen der 2. S-Bahn Stammstrecke in Haidhausen!
+- TOP 8.1.5.: Stadtgestaltungskommission: Tätigkeit transparenter darstellen
+- TOP 8.1.6.: Illegalen Autoverkehr in der Fußgängerzone beim Genoveva-Schauer-Platz wirksam unterbinden
+- TOP 8.1.7.: Denkmalschutz auf dem Gelände des Klinikum rechts der Isar - (II) BA-Antrag Nr. 14-20 / B 03292
+- TOP 8.1.8.: 1. Prüfauftrag Rosenheimer Straße: Spurenaufteilung und Fahrradspurmarkierung der Radstreifen prüfen 2. Prüfauftrag Einrichtung eines Fahrradstreifens auf der jeweiligen rechten Fahrspur der Rosenheimer Straße zwischen Rosenheimer Platz und Orleansstraße Antrag Nr. 14-20 / B 02820
+- TOP 8.1.9.: Fußgängerampel an der Orleansstraße-/Elsässerstraße
+- TOP 8.1.10.: Kreuzung Grillparzer / Einsteinstraße für den Radverkehr optimieren
+- TOP 8.1.11.: Neue Holzschaukel für den Spielplatz am Vater-Rhein-Brunnen
+- TOP 8.1.12.: Fahrradparken am Leuchtenbergring
+- TOP 8.1.13.: Stadtbaumkampagne
+- TOP 8.1.14.: Grundbucheintragungen Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2076 sowie Bauvorhaben Rosenheimer Str. 112-114 (ehemaliges Holzkontor)
+- TOP 8.1.15.: Sondernutzungserlaubnis für stumme Zeitungsverkäufer
+- TOP 8.1.16.: Ampel am Straßenbahndepot Einsteinstr. 148 BA-Antrag Nr. 14-20 / B 03398
+- TOP 8.2.1.: Schutzzone für Kinder, Welfenstr. 34 und Welfenhöfe
+- TOP 8.2.2.: Prüfung der Errichtung eines Interimspavillons auf dem Parkplatz am Mariahilfplatz
+- TOP 8.2.3.: Vorwegnahme der 2. S-Bahn-Stammstrecke am Orleansplatz
+- TOP 8.2.4.: Unfallzahlen Orleansstraße zwischen Orleansplatz und Haidenauplatz (Nachfrage zum Antrag "Bordsteine der Busspur in der Orleansstraße")
+- TOP 8.2.5.: Beendigung der Verpachtung öffentlichen Grundes (ehemaliger Biergarten der Gaststätte "Huterer", Grütznerstr. 8) - Zwischenmitteilung zum BA-Antrag Nr. 14-20 / B 02518
+- TOP 8.2.6.: Sondernutzungsrichtlinien: Radlständer am Gehweg, Antrag des Bezirksausschusses 05, Au - Haidhausen Nr. 14-20 / B 03402 vom 15.03.2017
+- TOP 8.2.7.: Durchführung von Verkehrsversuchen durch das KVR, Beschluss der Vollversammlung des Stadtrates vom 25.01.2017 hier: Ihre Frage zur Regelung mit Rechtsabbiegepfeilen für Rad Fahrende
+- TOP 8.3.1.: Änderung der Vollmacht des Oberbürgermeister nach Art. 60 Abs. 2 Satz 2 GO; Änderung der Wertgrenzen bei Baumaßnahmen
+- TOP 8.3.2.: Früh Schwimmen in städtischen Hallenbädern Sitzungsvorlagen Nr. 14-20 / V 08133, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 28.03.2017
+- TOP 8.3.3.: Fahrbahnsanierung Johannisplatz
+- TOP 8.3.4.: SWM Wasserprojekt Prinzregentenstraße
+- TOP 8.3.5.: Bauaktivität im Kleinkinderspielplatzbereich am Johannisplatz
+- TOP 8.3.6.: Betriebskonzept während des Umbaus am U-Bahnhof Sendlinger Tor (U1/U2)
+- TOP 8.3.7.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 8.3.8.: Ausnahmezulassung für nächtliche Straßen- und Gleisbauarbeiten - vom 10.-20.04.2017 in der Ohlmüllerstraße, Kreuzung Eduard-Schmid-Straße - vom 18.04.-21.04.2017 in der Regerstr. 23-28 - vom 24.04.-27.04.2017 in der Regerstr. 5/12 bis Einmündung Franziskanerstr. 49 jeweils von 20.00 bis 06.00 Uhr
+- TOP 8.4.1.: Unveränderte Fortführung von Gaststättenbetrieben: - "Bar 360°", Orleansstr. 39 - "Zum roten Knopf", Steinstr. 63 - "Belvivere", Milchstr. 10 - "Stürmchen&#039;s Bar", Kirchenstr. 62 - Rosenheimer Str. 111 (Name der Gaststätte noch nicht bekannt) - "Durchbruch" (vormals "Teufelsküche"), Kirchenstr. 90 - "Captain Bum", Auerfeldstr. 27 - "Grillbar Opops Pak", Sommerstr. 18
+- TOP 8.4.2.: Drehgenehmigungen: - am 04.04.2017 am Kalvarienberg am Gasteig ("Tatort") - am 05.04.2017 in der Stubenvollstraße ("Tatort") - am 06.04.2017 am Orleansplatz ("ARD-Wissenscheck") - am 04.05.2017 am Bordeauxplatz (Werbefilm)
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: REGSAM-Schwerpunktgebietsauswahl 2017-2019
+- TOP 2.2.: Bolzplatz an der Flurstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) KITA-Jahresstatistik 2016 Onlinebefragung
+- TOP 3.2.: Spielgeräte-Ersatz an Spielplätzen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kurzbericht über den Stand der Berufsintegrationsklasse der Berufliche Schulen der Armen Schulschwestern v.U.L.F.
+- TOP 4.2.: Bewegungs- und Kreativprojekt im Projekt-Laden International Haidhausen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Initiative "Studienensembles" Konzert am 05.10.2017 siehe auch TOP 6.1.1
+- TOP 1.2.: Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Baumobil vom 19.05. - 23.05.2017 siehe auch TOP 6.1.2
+- TOP 1.3.: Budget der Bezirksausschüsse Initiative "Sallys falsche Oma" Kinder-Musiktheaterstück ab Ende Mai 2017 bis Ende Juni 2017 siehe auch TOP 6.1.3
+- TOP 1.4.: Budget der Bezirksausschüsse Verein für Kinder -und Jugendhilfe Kreativ -und Bewegungsprojekt vom 09.05.2017 - 25.07.2017 siehe auch TOP 6.1.4
+- TOP 2.: Anhörungen
+- TOP 2.1.: Anfrage Carillon-Gamelankonzerte am Mariahilfplatz vom 07.-17.06.2018 Verweisung aus dem UA Kultur
+- TOP 2.2.: Flohmarkt des ASZ Haidhausen am 20.05.2017 auf dem Gehsteig Wolfgangstr. 18
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Stellungnahme BA 25 Laim zur Anhörung: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen
+- TOP 3.2.: Kurzbericht der Aktion "Play me, I&#039;m Yours" 2016
+- TOP 3.3.: Gewerbeflächenentwicklungsprogramm Sitzungsvorlage Nr. 14-20 / V 07490, Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Blumenladen Lebenslust, Falkenstr. 2 a, Parkplatzprobleme
+- TOP 4.2.: Leben und leben lassen für das Gewerbe während der Bauphase des 2. S-Bahn-Tunnels am Orleansplatz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Wolfgangstr. 5: Dachgeschossausbau
+- TOP 2.2.: Innere Wiener Str. 42: Umbau eines Wohn- und Geschäftshauses mit DG-Ausbau und Anbau eines Personenaufzugs
+- TOP 2.3.: Weißenburger Str. 29 / Rückgebäude: Aufstockung eines Rückgebäudes, Vorbescheid
+- TOP 2.4.: Einsteinstraße: Neubau eines Seniorenpflegeheims mit 216 Betten, 35 WE Betreutes Wohnen, Kinderhort für 44 Kinder und Tiefgarage; Tektur
+- TOP 2.5.: Schwalbenstr. 2: Dachgeschoss-Ausbau, Anbau Aufzug und Balkone, Tektur
+- TOP 2.6.: Zeppelinstr. 43: Zusammenlegung dreier Wohneinheiten im 2. und 3. OG zu zwei Wohneinheiten mittels einer Verbindungstreppe
+- TOP 2.7.: Rosenheimer Str. 15: Revitalisierung des Hotels "Hilton München City": Nutzungsänderung im EG im Bereich der derzeitigen Büroflächen zu einem durch Hotelgäste genutzten Gymnastikraum sowie der an den Innenhof angrenzenden Flächen von Lager und Pantry zu Büroflächen, Grundrissänderung , Trennung der Küche
+- TOP 2.8.: Humboldtstr. 29: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage, Vorbescheid
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kanalbau im Umgriff des vorhabenbezogenen Bebauungsplans mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich)
+- TOP 3.2.: Generalsanierung des Gasteig: Bestandsuntersuchung, Nutzerbedarfsprogramm, Modernisierungsmaßnahmen, Interimsquartiere, Finanzierung Sitzungsvorlagen Nr. 14-20 / V 07971, Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft und des Kulturausschusses vom 28.03.2017
+- TOP 3.3.: Bürgergutachten Innenstadtkonzept, thematische und räumliche Schwerpunkte Sitzungsvorlagen Nr. 14-20 / V 08168, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2017
+- TOP 3.4.: Planfeststellung nach § 18 Allg. Eisenbahngesetz für das Vorhaben S-Bahn-Station Rosenheimer Platz - Brandschutztechnische Ertüchtigung, Neubau einer maschinellen Rauchabzugsanlage
+- TOP 3.5.: Wohnungsmarktdaten München 2015
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Verkehrsberuhigung: Tempolimit von 5 km/h für Taxifahrer in der Fußgängerzone am Genoveva-Schauer-Platz/Steinstraße siehe auch TOP 6.3.1
+- TOP 1.2.: ÖPNV Offensive IV Einsteinstraße - Haltestelle Max-Weber-Platz siehe auch TOP 6.3.2
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Zeppelinstr. 16
+- TOP 2.2.: Maria-Theresia-Str. 13: Fällung von 1 Thujenbaum
+- TOP 2.3.: Steinstr. 73: Fällung von 1 Walnuß
+- TOP 2.4.: Prinzregentenstr. 146-152: Fällung von 1 Zypresse
+- TOP 2.5.: Rosenheimer Str. 15: Revitalisierung des Hotels "Hilton München City": Nutzungsänderung im EG im Bereich der derzeitigen Büroflächen zu einem durch Hotelgäste genutzten Gymnastikraum sowie der an den Innenhof angrenzenden Flächen von Lager und Pantry zu Büroflächen, Grundrissänderung , Trennung der Küche; => hierzu: Baumfällungen
+- TOP 2.6.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 2.7.: Leistungsprogramm 2018 für Fahrplanwechsel am 10.12.2017 (siehe auch TOP A 7.1)
+- TOP 2.8.: Sommerstr. 1a und 3: Fällung einer Robinie
+- TOP 2.9.: Weißenburger Platz 5: Fällung einer Rotbuche
+- TOP 2.10.: Sieboldstr. 4: Aufstockung einer Halle um eine Dreifachsporthalle, hier: Baumfällungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 3.2.: Regerbrücke, Beschreibung der Ausgangssituation und Maßnahmenvorschlag Sitzungsvorlagen Nr. 14-20 / V 06741, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2017
+- TOP 3.3.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Sitzungsvorlagen Nr. 14-20 / V 07596, Beschluss des Bauausschusses vom 21.03.2017
+- TOP 3.4.: Ökologischer Kriterienkatalog, Fortschreibung 2016/2017 Sitzungsvorlagen Nr. 14-20 / V 02989, Beschluss der Vollversammlung des Stadtrats vom 15.02.2017
+- TOP 3.5.: Fällungsgenehmigung Ismaninger Str. 21 (ursprünglich Maria-Theresia-Str. 6)
+- TOP 3.6.: ÖPNV Offensive IV, Barrierefreier Ausbau von Bushaltestellen: Umbau der Haltestelle Mariahilfplatz vom März bis Juli 2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Blumenladen Lebenslust, Falkenstr. 2 a, Parkplatzprobleme siehe auch TOP 4.1 bei Unterausschuss Arbeit und Wirtschaft
+- TOP 4.2.: Bürgerinitiative "Sichere Preysingstraße": Anbringung eines Verkehrszeichens "Verbot der Einfahrt" am östlichen Beginn des Spielstraßenbereiches
+- TOP C: Verschiedenes und Termine
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Bericht Vorbereitung und Erörterung zur Sprengung des Schornsteins Paulanergelände am 11.04.2017
+- TOP 2.1.: UA Soziales 08.05.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 08.05.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 09.05.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb. UA Kultur, 10.05.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 11.05.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 17.05.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 02.05.2017, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Außerordentliche Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen zur 2. S-Bahn-Stammstrecke am Donnerstag, 18.05.2017 um 19 Uhr in der Tonhalle, Grafinger Str. 6
+- TOP 4.2.: Haidhauser Kultursonntag am 02. Juli auf dem Johannisplatz
+- TOP 4.3.: Bürgerversammlung - für den Stadtbezirksteil Au am 29.06.2017, Pestalozzi-Gymnasium - für den Stadtbezirksteil Haidhausen am 06.07.2017, Hofbräukeller
+- TOP 4.4.: Neue Standortbegehung IHFEM am 23.05.2017
+- TOP 4.5.: Informationsveranstaltung zum Gewerbeflächenentwicklungsprogramm am 25.04.2017
+- TOP 4.6.: Informationsveranstaltung zur MVV-Tarifstrukturreform am 03.05.2017
