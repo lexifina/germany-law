@@ -1,0 +1,59 @@
+# 21. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-27T17:05:00+02:00
+- Ende: 2017-04-27T19:37:00+02:00
+- Ort: RTZ  Rechtsrheinisches Technologie- und Gründerzentrum Köln GmbH Gottfried-Hagen-Straße 60-62 Audimax, 3. OG, Eingang Hausnummer 62 51105 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16840
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16840
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Beantwortung der Anfrage der SPD-Fraktion vom 22.03.2017 betreffend "Optimierung der städtischen Wirtschaftsförderung - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Brexit – Chancen für Köln - Kenntnis genommen
+- TOP 4.1.1: Brexit - Chancen für Köln - Kenntnis genommen
+- TOP 4.2: Zuschlag für DE:HUB – Initiativen und deren Umsetzung der zwölf Hub-Standorte - Kenntnis genommen
+- TOP 4.2.1: Zuschlag für die DE:HUB Initiativen und deren Umsetzung der zwölf Hub-Standorte - Kenntnis genommen
+- TOP 4.3: Newcomers Festival in Köln bzw. der Metropolregion Rheinland etablieren - Kenntnis genommen
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 5.1: Wirtschaftsstandort stärken – Europäische Arzneimittelagentur nach Köln holen! - Kenntnis genommen
+- TOP -: Standort der Europäischen Arzneimittelagentur nach dem Brexit - ungeändert beschlossen
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Gewerbeflächenbereitstellungskonzept Aktualisierte Übersicht Stand 12/2016 - Kenntnis genommen
+- TOP 7.2: Stadtentwicklungskonzept Wirtschaft - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 8.1: Standortsuche für ein neues Frischezentrum - Kenntnis genommen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 10.1: Bewerbung um den vom Bundesministerium für Wirtschaft ausgeschrieben DE:HUB: Interessensbekundung zum Aufbau des #InsurLab Germany - Kenntnis genommen
+- TOP 10.2: Datenreport zur Lage der Kultur- und Kreativwirtschaft für das Stadtgebiet und den Großraum Köln 2017 - Kenntnis genommen
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Arbeitsmarkt Köln - Rückblick 2016 und bisherige Entwicklung 2017 - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 12.1: Integration von geflüchteten Frauen in den Arbeitsmarkt - Kenntnis genommen
+- TOP 12.2: Wege in Arbeit – Unterstützungsmöglichkeiten für Zugewanderte - Kenntnis genommen
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 13.1: Aktualisierung der industriepolitischen Erklärung - Kenntnis genommen
+- TOP 14: Mitteilungen
+- TOP 14.1: Abschlussbericht zum Projekt "Büro Wirtschaft für Mülheim" - Kenntnis genommen
+- TOP 14.2: Stadtradeln 2017 - Kenntnis genommen
+- TOP 14.3: Delegationsbesuch von Oberbürgermeisterin Reker in den Partnerstädten Bethlehem und Tel Aviv-Yafo vom 17.2. bis 21.2.2017 - Kenntnis genommen
+- TOP 14.4: Förderung der Elektromobilität in Köln - Umsetzungskonzept - zurückgestellt
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 15.1: 1. Verordnung zur Änderung der 1. Änderungsverordnung über das Offenhalten von Verkaufsstellen im Jahr 2017 - ungeändert beschlossen
+- TOP 15.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert beschlossen
+- TOP 15.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert beschlossen
+- TOP 15.4: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 16: Mündliche Anfragen
