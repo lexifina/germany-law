@@ -1,0 +1,62 @@
+# 22. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-27T17:04:00+02:00
+- Ende: 2017-04-27T18:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17219
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17219
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00608395.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00608395.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00608395.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Zeitgemäße Neuordnung des Verkehrs im Osten des Stadtteils Brück - ungeändert beschlossen
+- TOP 7.2: Installieren von Müllbehältern an der Olpener Straße in Köln-Merheim zwischen der Kreuzung Ostmerheimer Straße und Hohensyburgstraße - geändert beschlossen
+- TOP 7.3: „Mehr Sicherheit auf Kölner Straßen und Plätzen“ - Ordnungsdienst auch vor Ort im Veedel stärken - zurückgestellt
+- TOP 7.4: Trägeranteil für regionale Stiftungen als Kindergartenträger - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Umgestaltung des öffentlichen Spielplatzes Homarstraße/Kampgasse in Köln-Vingst - ungeändert beschlossen
+- TOP 8.1.2: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - geändert beschlossen
+- TOP -: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen (Vorlage-Nr. 0467/2017) - ungeändert beschlossen
+- TOP 8.1.3: Halle 60 in Köln-Kalk, Wiersbergstr.: - ungeändert beschlossen
+- TOP 8.1.4: Vergabe der bezirksorientierten Mittel für das Jahr 2017 - ungeändert beschlossen
+- TOP 8.1.5: Verwendung der Kulturmittel 2017 für den Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.1.6: Errichtung einer 1-Raum-City-WC-Anlage auf dem Markplatz in Brück - ungeändert beschlossen
+- TOP 8.1.7: Umgestaltung der Grünfläche 2019/149 - Olpener Straße vor der Einmündung Hohensyburgstraße in Köln-Merheim - ungeändert beschlossen
+- TOP 8.1.8: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Sanierung und Umbau des städtischen Gebäudes Rothenburger Str. 2, 51103 Köln-Vingst, zur Sicherstellung der gesetzlichen Unterbringungsverpflichtung für Geflüchtete - Baubeschluss - ungeändert beschlossen
+- TOP 8.2.2: Planung und Kostenermittlung für die Generalsanierung der Sportanlage Hardtgenbuscher Kirchweg, Köln-Ostheim - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Verkehrsbeeinträchtigende Situation durch abgestellte Fahrräder vor den Köln Arcaden - Kenntnis genommen
+- TOP 9.1.2: Beantwortung SPD wg KuRa SSV Vingst 05 - Kenntnis genommen
+- TOP 9.1.3: Schulessen in Köln-Kalk - Kenntnis genommen
+- TOP 9.1.4: Anfrage in der Sitzung vom 23.03.2017 zur Beschaffung und Aufstellung von Containereinheiten - Kenntnis genommen
+- TOP 9.1.5: Baulicher zustand und Erscheinungsbild der Steprathstraße in Köln Kalk - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Spielplatz in der Flehbachaue in Köln-Brück - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: AN/1319/2014 - Kenntnis genommen
+- TOP 10.2.2: Umgestaltung des Spielplatzes An Sankt Adelheid in Köln-Neubrück - Kenntnis genommen
+- TOP 10.2.3: Stadtbahnhaltestelle Vingst, Nachrüstung von zwei Aufzügen und Umgestaltung des Haltestellengebäudes hier: Mitteilung zum Baubeginn - Kenntnis genommen
+- TOP 10.2.4: Stadtradeln 2017 - Kenntnis genommen
+- TOP 10.2.5: 74440/02; VEP; "Rather See" in Köln-Rath/Heumar; Stand des Bebauungsplanverfahrens - Kenntnis genommen
