@@ -1,0 +1,107 @@
+# 7. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-04-27T17:00:00+02:00
+- Ende: 2017-04-27T22:00:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3764
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3764
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=214904
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Gefährliche Verkehrssituation bei der Ausfahrt aus dem Parkhaus Linden-Center - beantwortet
+- TOP 8.2: Gutachten zur Parkraumbewirtschaftung in Lichtenberg - beantwortet
+- TOP 8.3: Seit 2014 keine Antworten für die Lichtenberger Werkstätten bezüglich einer Lichtsignalanlage Siegfriedstraße/Bornitzstraße - beantwortet
+- TOP 8.4: Grundreinigung vergessen? - beantwortet
+- TOP 8.5: Interview des Bezirksbürgermeisters zum Milieuschutz in Lichtenberg - beantwortet
+- TOP 8.6: Lärmschutz in der Unterkunft Wiesenweg - beantwortet
+- TOP 8.7: Hochschulstandort der HTW in Lichtenberg - beantwortet
+- TOP 8.8: Sicherung der Kleingärten in Lichtenberg - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - beantwortet
+- TOP 9.1: Vorschläge zum Bürgerhaushalt - Vorschläge aus 2014/2016/2017 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sitzungstermine der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahlvorschlag Berufung/Abberufung eines/r ehrenamtlichen Mitarbeiter*in für die Sondersozialkommission im Begegnungszentrum für Menschen mit Behinderungen "Insel" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: BürgerInnenbeteiligung in der Stadtentwicklung stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Bebauungsplan 11-107 - frühzeitige Beteiligungen Arbeitstitel: Nördlich Schleizer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Wertvolle Naturfläche in der Tannhäuser Straße 97-101 erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Wegebeleuchtung für den Gutspark Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Bebauungsplan 11-9c - zweite erneute Behördenbeteiligung Arbeitstitel: östlich Konrad-Wolf-Straße 45-46 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Organisations- und Stellenplan für die kommenden Haushaltsjahre - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Neuvergabe der Stadtteilzentren im Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Schulplätze in Rummelsburg und der Victoriastadt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Rahmenkonzeption Bürgerhaushalt Lichtenberg und Geschäftsordnung des Begleitgremiums Bürgerhaushalt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: BVV-Sondermittel für den Förderverein Obersee & Orankesee e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: BVV-Sondermittel für den Theaterparcours "Ein Sommernachtstraum" - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Benennung Straße in Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Ergebnis des Fachtages für Alleinerziehende mit Leben erfüllen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Öffentliche Sicherheit im Bereich um Obersee und Orankesee verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Kreuzung Pablo-Picasso-Straße/Gehrenseestraße/Hohenschönhauser Straße - überwiesen
+- TOP 9.20: BVV-Sondermittel für Herzberger Lichter - überwiesen
+- TOP 9.21: Berufsbezogene Sprachkurse ausweiten - überwiesen
+- TOP 9.22: Winterdienst auf Rad- und Gehwegen in Grünanlagen und Landwirtschaftsflächen - überwiesen
+- TOP 9.23: Kapitulationserklärung ins Weltdokumentenerbe aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Rekommunalisierung der Schulreinigung - überwiesen
+- TOP 9.25: AnwohnerInnen und Anwohner der Marie-Elisabeth-von-Humboldt-Straße entlasten - überwiesen
+- TOP 9.26: Digitalisierung an Schulen voranbringen - überwiesen
+- TOP 9.27: Optimierung von Stellflächen im öffentlichen Straßenland - überwiesen
+- TOP 9.28: Wegeleitsystem am S-Bahnhof Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 9.29: Beauftragter für die digitale Entwicklung - überwiesen
+- TOP 9.30: Schaffung von Parkraum im öffentlichen Interesse - überwiesen
+- TOP 9.31: Sicherung der Natur in Lichtenberg auch unter Erfordernissen zur Beschleunigung des Wohnungsbaus - überwiesen
+- TOP 9.32: Trinkbrunnen am Anton-Saefkow-Platz - überwiesen
+- TOP 9.33: Sondermittel für den Kauf von Judomatten - überwiesen
+- TOP 9.34: BVV-Sondermittel für ein neues Multifunktionsgerät für den FVAJ e. V. - überwiesen
+- TOP 9.35: BVV-Sondermittel für den Europacup im Bogenlaufen 2017 in Lichtenberg - überwiesen
+- TOP 9.36: Sondermittel für bunte-liga-berlin e. V. - überwiesen
+- TOP 9.37: Runden Tisch "Rummelsburger See zeitnah fortführen" - ohne Änderungen in der BVV beschlossen
+- TOP 9.38: Sanierung des sowjetischen Ehrenmales in der Küstriner Straße planen - überwiesen
+- TOP 9.39: Rahmenkonzept zum Ehrenamtsfonds - Umsetzung Bezug: DS/1690/VII - Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - überwiesen
+- TOP 9.40: Moderne Polizeiwache für Hohenschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.41: Vergabe eines Frauenpreises des Bezirksamtes Lichtenberg anlässlich des Internationalen Frauentages 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.42: Entschleunigung in der Gehrenseestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.43: Öffnungszeiten des Rathauses Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.44: Bebauungsplan 11-40-1 - Behördenbeteiligung Arbeitstitel: Wartiner Straße 1 und 6 sowie Falkenberger Chaussee 160 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.45: Bebauungsplan 11-104 - Ergänzung der Planungsziele Arbeitstitel: Freienwalder Straße/Genslerstraße/Werneuchener Straße/Goeckestraße - überwiesen
+- TOP 9.46: Zusammenlegung der Gesundheitsmesse mit den Sozialtagen im Linden-Center - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.47: Beantragung von Projekten im Rahmen des Programms Freiwilliges Engagement in Nachbarschaften (FEIN) für das Jahr 2017 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.48: Bebauungsplan 11-128 - Aufstellungsbeschluss Arbeitstitel: Nördlich Landsberger Allee/Treffurter Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.49: Berufung des neu zu konstituierenden Integrationsbeirates Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.50: Milieuschutzsatzung für das Wohngebiet Kaskelstraße Bezug: DS/0747/VII, DS/1582/VII - überwiesen
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - erledigt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Obdachlosigkeit bekämpfen - schriftlich beantwortet
+- TOP 12.2: Grünfläche Ruschestraße: Grünflächen zu Parkflächen? - schriftlich beantwortet
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Lichtenberg von Berlin VIII. Wahlperiode - mit Änderungen in der BVV beschlossen
+- TOP 13.2: Standorte für Gemeinschaftsschulen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Kinder-BVV auch in dieser Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Tierschutz in Lichtenberg - Schutz von wildlebenden Tieren - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Die Vergabe eines Preises für herausragendes Engagement für Familienfreundlichkeit im Bezirk Lichtenberg - in der BVV abgelehnt
+- TOP 14.2: Gegen jede Form politisch motivierter Kriminalität und jede Form des Extremismus - in der BVV abgelehnt
+- TOP 14.3: Resolution für ein demokratisches EUROPA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.4: Das Umweltbüro Lichtenberg - Aufgabensicherung durch Regelfinanzierung - überwiesen
+- TOP 14.5: Wohnraumbedarfe von Großfamilien decken - vertagt
+- TOP 14.6: Rettung der öffentlichen Toiletten in Lichtenberg - vertagt
+- TOP 14.7: Folgen der Neuzuschneidung der Grundschuleinzugsbereiche - Bürger*innen zeitnah und angemessen informieren - vertagt
+- TOP 14.8: Runder Tisch "Wohnbebauung Degnerstraße/Waldowstraße" - vertagt
+- TOP 15: Vorlagen zur Beschlussfassung - (offen)
+- TOP 15.1: Teilnahme der Begegnungsstätte im Haus der Generationen des Trägers RBO - Inmitten gemeinnützige GmbH am Bundesprogramm "Mehrgenerationenhaus" des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMFSFJ) - vertagt
+- TOP 15.2: Betriebliches Mobilitätskonzept für die Bezirksverwaltung - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Wirtschaftsbericht 2016 Bezug: DS/0346/IV - vertagt
+- TOP 17: Schließung der Sitzung - erledigt
