@@ -1,0 +1,89 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-04-27T15:30:00+02:00
+- Ende: 2017-04-27T18:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16839
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16839
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Präsentation der Verbraucherzentrale NRW zum aktuellen Stand der Evaluation des Modellvorhabens "Verbraucherberatung im Quartier" - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag der SPD-Fraktion betreffend "Einführung einer Wohnungstauschbörse für Köln" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion - endgültig zurückgezogen
+- TOP -: Antwort der Verwaltung zu den Anträgen - Kenntnis genommen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Verteilung der Fördermittel 2017 "SeniorenNetzwerke/Offene Altenarbeit" - ungeändert beschlossen
+- TOP 3.2: Bewilligung von Zuschüssen aus dem Programm "Wir im Quartier" - Struktur- und Beschäftigungsförderung im Stadtviertel - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2017 - ungeändert beschlossen
+- TOP 4.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert beschlossen
+- TOP 4.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert beschlossen
+- TOP 4.4: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 4.5: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 4.6: Sanierung und Umbau des städtischen Gebäudes Rothenburger Str. 2, 51103 Köln-Vingst, zur Sicherstellung der gesetzlichen Unterbringungsverpflichtung für Geflüchtete - Baubeschluss - ungeändert beschlossen
+- TOP 4.7: Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln hier: Bonner Straße 478-482, 50968 Köln - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.2: Prüfauftrag zum Beschluss des Rates über den um den als Prüfauftrag der Fraktion Die Linke erweiterten Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen zur "Erhebung und Realisierung der Nutzungsgebühren in Unterkünften bei 562 - Kenntnis genommen
+- TOP 7.3: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2016 (Mitteilung 0563/2017, Sitzung Ausschuss für Soziales und Senioren am 09.03.2017) - Kenntnis genommen
+- TOP 7.4: Öffentlich geförderter Mietwohnungsbau - zurückgestellt
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.2: 13. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 9.3: 14. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 9.4: Errichtung einer temporären Unterkunft für Geflüchtete in Systembauweise am Standort Dürener Str. (neben 283 - Kenntnis genommen
+- TOP 9.5: Neue Beratungsfolge für das Feinkonzept Mindeststandards zur Flüchtlingsunterbringung - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Inklusionsvereinbarung - Kenntnis genommen
+- TOP 10.2: Bericht des Behindertenbeauftragten 02/2017 - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Beantwortung einer Nachfrage zu TOP 10.5 aus der Sitzung des Ausschusses Soziales und Senioren vom 26.01.2017 - Kenntnis genommen
+- TOP 11.1.2: Beantwortung von mündlichen Anfragen aus dem Ausschuss Soziales und Senioren und dem Gesundheitsausschuss betreffend "Handlungskonzept Behindertenpolitik - "Köln überwindet Barrieren - eine Stadt für alle"" - Kenntnis genommen
+- TOP 11.1.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Auswirkungen der Pflegestärkungsgesetze (PSG) I, II & III" - Kenntnis genommen
+- TOP -: Beantwortung einer Nachfrage betreffend "Auswirkungen der Pflegestärkungsgesetze (PSG) I, II und III" - Kenntnis genommen
+- TOP 11.1.4: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Vermittlungsstelle Seniorinnen- und Seniorenjobs" - zurückgestellt
+- TOP 11.1.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Präventive Hausbesuche stärken" - zurückgestellt
+- TOP -: Beantwortung: Präventive Hausbesuche stärken - zurückgestellt
+- TOP 11.1.6: Anfrage der Fraktion Die Linke betreffend "Einschränkung des gender- und kultursensiblen Beratungsangebots für erwerbslose Frauen" - zurückgestellt
+- TOP 11.1.7: Anfrage der Piraten-Gruppe betreffend "Wie hat sich die Zahl der Abschiebungen aus Köln entwickelt?" - zurückgestellt
+- TOP -: Beantwortung: Wie hat sich die Zahl der Abschiebungen aus Köln entwickelt - zurückgestellt
+- TOP 11.1.8: Anfrage der Piraten-Gruppe betreffend "Wie viele Menschen nutzen den Köln-Pass?" - Kenntnis genommen
+- TOP -: Beantwortung: Wie viele Menschen nutzen den Köln-Pass - Kenntnis genommen
+- TOP 11.1.9: Anfrage der Piraten-Gruppe betreffend "Internet-Ausstattung in den städtischen Altenpflegeeinrichtungen für Senioren und Seniorinnen" - Kenntnis genommen
+- TOP -: Beantwortung: Internet-Ausstattung in den Pflegeeinrichtungen der SBK - Kenntnis genommen
+- TOP 11.1.10: Anfrage der CDU-Fraktion betreffend "Schuldnerberatung bei der Stadt Köln" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion in der Sitzung des Ausschuss für Soziales und Senioren am 26.01.2017 betreffend "Schuldnerberatung bei der Stadt Köln" - Kenntnis genommen
+- TOP 11.1.11: Anfrage der CDU-Fraktion und der Fraktion Büdnis 90/Die Grünen betreffend "Wohnraum für benachteiligte Personengruppen" - zurückgestellt
+- TOP -: ´Beantwortung: Wohnraum für benachteiligte Personengruppen - zurückgestellt
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.3: Beantwortung einer mündlichen Anfragen aus der Sitzung des Ausschusses für Soziales und Senioren am 26.01.2017 betreffend den 12. Flüchtlingsbericht - Kenntnis genommen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2016 und Kölner Sprachfest 2017 - Kenntnis genommen
+- TOP 12.2: Weitere Informationen über die Teilnahme der Stadt Köln am Landesprogramm "Kein Kind zurücklassen! Für ganz Nordrhein-Westfalen" - Kenntnis genommen
+- TOP 12.3: Bericht über die Beschlüsse des Ausschusses Soziales und Senioren gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - Kenntnis genommen
+- TOP 12.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.5: Mitteilung einer Anfrage der Sitzung des Rates der Stadt Köln am 14.02.2017 betreffend "Beantwortung der schriftlichen Anfrage AN/0257/2017 der PIRATEN" - Kenntnis genommen
+- TOP 12.6: "Verbraucherberatung im Quartier": 1. Sachstandsbericht - Kenntnis genommen
+- TOP 12.7: Stadtradeln 2017 - Kenntnis genommen
+- TOP 12.8: Dokumentation der Winterhilfeaktivitäten 2016/2017 für wohnunglose Bürgerinnen und Bürger durch das Amt für Soziales und Senioren - Kenntnis genommen
+- TOP 12.9: Mitteilung einer Beantwortung der Anfrage zu Beratungsstellen für Seniorinnen und Senioren mit Zuwanderungsgeschichte - AN/0028/2017 - Kenntnis genommen
+- TOP 12.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.11: Integration von geflüchteten Frauen in den Arbeitsmarkt - zurückgestellt
+- TOP 12.12: Wege in Arbeit – Unterstützungsmöglichkeiten für Zugewanderte - zurückgestellt
+- TOP 15.1: Prüfung vorrangige Wohngeldansprüche bei der Gewährung von Sozialhilfe - Kenntnis genommen
