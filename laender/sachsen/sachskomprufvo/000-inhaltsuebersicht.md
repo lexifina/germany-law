@@ -15,7 +15,7 @@ Unterabschnitt 1 Prüfung des Jahresabschlusses
 § 11 Förmliche Prüfung
 § 12 Rechnerische Prüfung
 § 13 Sachliche Prüfung
-Unterabschnitt 2 Prüfung der Eigenbetriebe, Zweckverbände nach § 58 Abs. 2 SächsKomZG, Sondervermögen und Treuhandvermögen
+Unterabschnitt 2 Prüfung der Eigenbetriebe, Zweckverbände nach § 58 Absatz 2 des Sächsischen Gesetzes über kommunale Zusammenarbeit, Sondervermögen und Treuhandvermögen
 § 14 Gegenstand, Art und Zeitpunkt der Prüfung
 Unterabschnitt 3 Weitere Prüfbefugnisse
 § 15 Kassenprüfung
