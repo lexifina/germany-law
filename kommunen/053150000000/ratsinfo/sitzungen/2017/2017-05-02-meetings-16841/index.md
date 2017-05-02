@@ -1,0 +1,61 @@
+# 21. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-02T15:40:00+02:00
+- Ende: 2017-05-02T20:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16841
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16841
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Archäologische Zone/ Jüdisches Museum: Aktuelle Raum- und Eingangsplanungen - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Gestaltung der Außenanlagen der Archäologischen Zone - ohne Votum in nachfolgende Gremien
+- TOP -: Gestaltung der Außenanlagen der Archäologischen Zone - abgelehnt (in der Vorberatung)
+- TOP 4.2: Anmietung einer weiteren Magazinetage im ehemaligen Landesarchivs NRW in Düsseldorf. - ungeändert beschlossen
+- TOP 4.3: Verfahren zur Vergabe der Fördermittel für Interkulturelle Kunstprojekte - geändert beschlossen
+- TOP -: Top 4.3: Verfahren zur Vergabe der Fördermittel für interkulturelle Kunstprojekte - geändert beschlossen
+- TOP 4.4: Vergabe der Fördermittel in den Schwerpunkten "Produktionen und Sonderprojekte" und "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.5: Sondergenehmigungen von geförderten Kulturveranstaltungen im 2. Halbjahr 2017 - endgültig zurückgezogen
+- TOP 4.6: Bestellung von Mitgliedern der Jury zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 4.7: Renovierungsprogramm Museen und Kulturbauten 2017 - geändert beschlossen
+- TOP 4.8: Erneuerung der Beleuchtungsanlage im Museum für Ostasiatische Kunst hier: Bedarfsfeststellungs- und Ausführungsbeschluss
+- TOP 4.9: Änderung der "Entgelt- und Honorarordnung für den Museumsdienst Köln" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 4.10: Fortsetzung des Projektes "museumsbus.koeln" - ungeändert beschlossen
+- TOP 4.11: Neupräsentation des Wandreliefs "Lippenwand" von Wilhelm Loth am VHS-Gebäude
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung einer Elfenbeinskulptur an das Museum Schnütgen - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mitteilung über die Nutzungsänderung des bestehenden Juniormuseum im Rautenstrauch-Joest-Museum - Kenntnis genommen
+- TOP 8.2: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur
+- TOP 8.3: StadtLabor für Kunst im öffentlichen Raum - Bearbeitungsgebiete - Kenntnis genommen
+- TOP 8.4: Regelmäßige Unterrichtung des Ausschusses für Kunst und Kultur über die Führung der Denkmalliste, - Kenntnis genommen
+- TOP 8.5: Geschäftsordnung Theaterbeirat - Kenntnis genommen
+- TOP 8.6: Datenreport zur Lage der Kultur- und Kreativwirtschaft für das Stadtgebiet und den Großraum Köln 2017 - Kenntnis genommen
+- TOP 8.7: Stadtradeln 2017 - Kenntnis genommen
+- TOP 8.8: Werkstattverfahren zur Erstellung einer Nutzungsanalyse im Stadtteil Kalk; hier: Einbeziehung der Hallen Kalk - Kenntnis genommen
+- TOP 8.9: Wettbewerbsergebnis Hahnentorburg Ehrengarde - Kenntnis genommen
+- TOP 8.10: Kulturentwicklungsplan - Runde Tische - Kenntnis genommen
+- TOP 8.11: Kölner Tanzproduktionen im Staatenhaus - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Archäologischen Zone - Kenntnis genommen
+- TOP 9.2: Bericht über den Neubau des Historischen Archives und des Rheinischen Bildarchives am Eifelwall - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Anfrage zu Honoraruntergrenzen im Theaterbereich der freien Szene - Kenntnis genommen
+- TOP 10.2: Vermietung von Atelierräumen, 0643/2017 - Kenntnis genommen
+- TOP 10.3: Beantwortung der Anfrage AN/0178/2017 - Kenntnis genommen
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5: Historische Gedenkplatte für die römische Mars- bzw. die mittelalterliche Michaelspforte, Obenmarspforten, südliche Fassaden des Rathauses und des Weinhauses „Brungs“ (Marsplatz 3). - Kenntnis genommen
+- TOP 10.6: Beantwortung einer mündlichen Anfrage des RM von Bülow betreffend "Zwischennutzungsmanagement" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 12: Mündliche Anfragen
