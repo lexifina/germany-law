@@ -1,0 +1,68 @@
+# 27. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-02T16:45:00+02:00
+- Ende: 2017-05-02T18:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16933
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16933
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609511.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609511.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609511.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Anfrage der SPD-Fraktion vom 07.04.2017 betr. Zukunft des RheinEnergieStadions - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Wieso nur digitale Karnevalstickets? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.3: Geschwindigkeitsüberschreitungen der KVB in Tempo 30 Zonen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.4: Wann können Kölner Radfahrerinnen und -fahrer endlich bei Rot rechts abbiegen? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.5: Ampelanlage am Verteilerkreis Süd - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Stärkung von Fahrrad und ÖPNV: mehr Sicherheit durch Lückenschlüsse bei der Beleuchtung des Fuß/Radweges entlang der B8 im Stadtbezirk Mülheim - geändert beschlossen
+- TOP 2.1.1: Stärkung von Fahrrad und ÖPNV: mehr Sicherheit durch Lückenschlüsse bei der Beleuchtung des Fuß/Radweges entlang der B8 im Stadtbezirk Mülheim, Antrag der FDP-Fraktion - Kenntnis genommen
+- TOP 2.1.2: Änderungsantrag zu TOP 2.1 Antrag der FDP-Fraktion: „Stärkung von Fahrrad und ÖPNV: mehr Sicherheit durch Lückenschlüsse bei der Beleuchtung des Fuß/Radweges entlang der B8 im Stadtbezirk Mülheim“ - ungeändert beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion vom 12.04.2017, betr. Saubere Luft für Mülheim – jetzt handeln! - endgültig abgelehnt
+- TOP 2.3: Verkehrsbelastung im Stadtbezirk Mülheim senken! - endgültig abgelehnt
+- TOP 2.3.1: Ergänzungsantrag zu TOP 2.2 "Verkehrsbelastung im Stadtbezirk Mülheim senken!" - endgültig abgelehnt
+- TOP 2.3.2: Änderungsantrag zu TOP 2.1 der SPD "Verkehrsbelastung im Stadtbezirk Mülheim senken" - Optimierung Pendlerverkehre zwischen Köln und dem Rheinisch-Bergischen Kreis - endgültig zurückgezogen
+- TOP 2.3.3: Kölner Bevölkerung schützen – Schadstoffbelastung senken! - endgültig abgelehnt
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: RRX-Halt Köln-Mülheim: Ergebnisse der Machbarkeitsstudie und das weitere Vorgehen - ungeändert beschlossen
+- TOP 4.2: 3. Baustufe Nord-Süd Stadtbahn / Ergänzender Baubeschluss Großbaumverpflanzungen - im ersten Durchgang verwiesen
+- TOP 4.3: Interkommunale Maßnahmen zur Senkung des Verkehrs für den Kölner rechtsrheinischen Norden - geändert beschlossen
+- TOP 4.3.1: Änderungsantrag der Fraktion Die Linke vom 02.05.2017 - endgültig abgelehnt
+- TOP 4.4: Ergänzende Maßnahmen zum "Interkommunalen Programm zwischen Köln und Bergisch Gladbach (33-Punkte-Programm)" zur Senkung des Verkehrsaufkommens für den Stadtbezirk Mülheim - geändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Bedarfsfeststellungsbeschluss für die Erneuerung des Verkehrsleitsystems sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-1057, Verkehrsleitsystem, Erneuerung - ungeändert empfohlen
+- TOP 5.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert empfohlen
+- TOP 5.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert empfohlen
+- TOP 5.4: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert empfohlen
+- TOP 5.5: Errichtung einer stationären Geschwindigkeitsüberwachungsanlage in der Paffrather Straße - Dellbrück - ungeändert empfohlen
+- TOP 5.6: 259. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 5.7: Baubeschluss für die Erneuerung von 6 Fahrtreppenanlagen an den Stadtbahnhaltestellen Friesenplatz und Hans-Böckler-Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes des Hj. 2017 - ungeändert empfohlen
+- TOP 5.8: 3. Nahverkehrsplan der Stadt Köln - im ersten Durchgang verwiesen
+- TOP 5.9: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - ohne Votum in nachfolgende Gremien
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Neubau der Leverkusener Autobahnbrücke - Sache ist erledigt
+- TOP 6.2: Fahrradmitnahme bei den KVB vereinfachen - Sache ist erledigt
+- TOP 6.3: Konflikt Fahrradstraße - Neubau LVR-Gebäude - Sache ist erledigt
+- TOP 6.4: Solarradwege in Köln - Neue Erkenntnisse aus den Niederlanden? - Sache ist erledigt
+- TOP 6.5: Kunstfelder Straße in Köln-Dünnwald - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: AN/1319/2014 Zustand der Aufzüge und Rolltreppen im Bereich der U-Bahn-Haltestellen der KVB im Stadtbezirk Kalk - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: Stadtbahnhaltestelle Vingst, Nachrüstung von zwei Aufzügen und Umgestaltung des Haltestellengebäudes hier: Mitteilung zum Baubeginn - Kenntnis genommen
+- TOP 7.3: Querungshilfe und Bushaltestelle auf dem Grengeler Mauspfad in Höhe Gut Leidenhausen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.4: Stadtradeln 2017 - Kenntnis genommen
+- TOP 7.5: Förderung der Elektromobilität in Köln - Umsetzungskonzept - Kenntnis genommen
+- TOP 7.6: Anfrage gem. § 4 der Geschäftsordnung des Rates der SPD-Fraktion im Kölner Rat - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Sachstand zur Fahrradrampe Hohenzollernbrücke - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Fußwegekarte für Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Parkplatz-App für Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Rampe zur Domplatte
