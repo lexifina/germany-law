@@ -1,0 +1,80 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-05-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232679
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232679
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 04.04.2017
+- TOP 8: Umlauf
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Nutzung des Objekts Geyerspergerstraße 29
+- TOP 1.2.2.: Programm-Änderung der Lichtzeichenanlage Friedenheimer Brücke
+- TOP 1.2.3.: Absolutes Halteverbot in der Elsenheimerstraße ändern und durchsetzen
+- TOP 1.2.4.: Abfallbehälter am Agricolaplatz
+- TOP 1.2.5.: Musikübungsräume Landsberger Straße
+- TOP 1.2.6.: Verlängerung der Ampelphase für Fußgänger an der Kreuzung Landsberger Str. / Friedenheimer Brücke Nord-Süd-Achse stadtauswärts
+- TOP 1.2.7.: Gotthardstraße zwischen Laimer Platz und Joergstraße: Erlaubnis Fahrradweg in beiden Richtungen zu benutzen
+- TOP 1.2.8.: Lärmbelästigung durch Tram 19 vor allem Agnes-Bernauer-Str. / Fürstenrieder Str.
+- TOP 2.1.: Antrag Bauvorhaben Mitterhoferstraße
+- TOP 3.1.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Jane Addams Zentrum e.V. Rally am 20.05.2017 und Produktion eines Buches
+- TOP 3.2.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse Familienzentrum Laim, DKSB e.V. Kinderstadtteilfest am 30.06.2017
+- TOP 3.3.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. "Wasserspielbus" vom 02.08. - 04.08.2017 und "Zirkus Pumernudl" vom 11.09. - 13.09.2017
+- TOP 3.4.: Beschlussentwurf Kreisverwaltungsreferat: Mehr Geschwindigkeitskontrollen, insbesondere auf der Fürstenrieder Straße und der Landsberger Straße
+- TOP 4.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.03.17: Rushaimerstraße 54: Antrag auf Fällung eines Baumes
+- TOP 4.2.: Schreiben Münchner Verkehrsgesellschaft mbH vom 30.03.17: MVG-Leistungsprogramm 2018
+- TOP 4.3.: Schreiben Baureferat vom 08.02.2017: Projektname: ÖPNV Offensive - Senftenauerstraße, Haltestelle Hönigschmidplatz (vertagt aus 04/17) dazu Schreiben BA 20 Hadern vom 12.04.2017 und Bürgeranliegen vom 07.04.2017: Ausbau der Bushaltestelle "Hönigschmidplatz"
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.03.17: Gewerbeflächenentwicklungsprogramm - GEWI, Fortschreibung und Öffentlichkeitsbeteiligung
+- TOP 4.5.: Schreiben Sozialreferat vom 07.03.17: REGSAM-Schwerpunktgebietsauswahl 2017-2019 (vertagt aus 04/17)
+- TOP 4.6.: Schreiben Sozialreferat vom 24.02.17: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018 (vertagt aus 04/17)
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 07.04.17: Veranstaltung in einer städtischen Grünanlage, hier: Hogenbergplatz, Spielfest am 30.06.2017
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 10.04.17: verkehrsrechtliche Anordnung, hier: Halteverbot an den Baumnasen im Zuge der Nebenfahrbahn der Landsberger Straße Nordseite zwischen Anwesen Nr. 230 - 272
+- TOP 4.9.: Schreiben Sozialreferat vom 04.04.17: Inklusion von Menschen im Behinderung fördern Öffentliche Veranstaltungen behindertengerecht durchführen und entsprechend kennzeichnen Empfehlung Nr. 14-20 / E 00789
+- TOP 4.10.: Schreiben Referat für Bildung und Sport vom 12.04.17: 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP 4.11.: Schreiben Baureferat vom 19.04.17: Radweg Friedenheimer Straße
+- TOP 4.12.: Schreiben Kreisverwaltungsreferat vom 19.04.17: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 5.1.: Reutterstraße 51: Neubau eines Dreispänners und eines Doppelhauses mit 5 Garagen
+- TOP 5.2.: Geyerspergerstraße: Neubau eines Zweifamilienhauses mit Garage
+- TOP 5.3.: Mitterhoferstraße: Neubau eines Wohnheims mit 35 Wohnungen (118 Betten/Personen) und 40 Appartements (44 Betten/Personen) für Flüchtlinge mit humanitärem Bleiberecht sowie zweier Gewerbeeinheiten und einer Tiefgarage
+- TOP 8.1.: Schreiben Büro des Oberbürgermeisters vom 13.04.17: Wahlbezirkseinteilung im Stadtbezirk 25 - Laim
+- TOP 8.2.: Schreiben Büro des Oberbürgermeisters vom 07.04.17: Entschärfung der Verkehrssituation an der Kreuzung Agnes-Bernauer-Straße / Fürstenrieder Straße, Nordwestseite (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 00841 der Bürgerversammlung des 25. Stadtbezirkes Laim am 17.12.2015
+- TOP 8.3.: Schreiben Baureferat vom 29.03.17: Senftenauerstraße Radwegsanierung (zwischen Blumenauer Straße und Hönigschmidplatz)
+- TOP 8.4.: Schreiben Baureferat vom 29.03.17: Agricolastraße Fahrbahnsanierung (zwischen Gotthardstraße und Hönigschmidplatz)
+- TOP 8.5.: Schreiben Baureferat vom 06.04.17: LED Technologie im Bereich der Straßenbeleuchtung einsetzen
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 07.12.16: verkehrsrechtliche Anordnung: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Inderstorferstr. 38
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 24.03.17: Laimer Kreisel - aktualisierter Bauablauf
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 22.03.17: verkehrsrechtliche Anordnung; hier: Verlegung einer Fernwärmeleitung - Käpflstr. 2 bis 14 - Ludlstr. 1 bis 43 - Menaristr. 18 bis 24 - Rudi-Seibold-Str. 1 bis 39
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 07.04.17: Veranstaltung in einer städtischen Grünanlage, hier: Agricolaplatz, Ausnahmegenehmigung für einen Flohmarkt am 20.05.2017
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 11.04.17: Unveränderte Fortführung eines Gaststättenbetriebes; hier: "Huiras", Camerloherstr. 67
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.03.17: Leibnizstr. 39: Vollzug der Baumschutzverordnung, Bescheid vom 23.03.17
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.04.17: Burgkmairstr. 9: Nutzungsänderung eines Altenwohnheims in ein Wohnhaus für sozial bedürftige Personen (gem. Stiftungszweck) mit Gebäudeerweiterung nach Norden - Vorbescheid
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.04.17: Ausführung des Baus der U5 nach Pasing und Weiterführung nach Freiham (Ziffer 2 des Antrages) - 3.Zwischennachricht
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.04.17: Aindorferstr. 57: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 8.15.: Schreiben Referat für Bildung und Sport vom 29.03.17: Öffnung der Schulhöfe; zeitgemäße Fortentwicklung - Zwischenstand
+- TOP 8.16.: Schreiben Sozialreferat vom 31.03.17: Übersicht Unterkünfte Wohnungslose und Flüchtlinge
+- TOP 8.17.: Schreiben Referat für Arbeit und Wirtschaft: Angemessene Beteiligung der Betroffenen bei der Gestaltung des neuen MVV-Tarifs Antwort auf die Anträge der Stadtbezirke 6 und 18
+- TOP 8.18.: Bautenliste vom 20.03. - 26.03.17: 1. Erstantragsverfahren: a) Haslangerstr. 45 b) Aindorferstr. 77f c) Geyerspergerstr. 31 d) Reutterstr. 51 e) Aindorferstr. 77f f) Aindorferstr. 175
+- TOP 8.19.: Bautenliste vom 27.03. - 02.04.17: 1. Erstantragsverfahren: a) Westendstr. 170 2. Änderungsverfahren zu genehmigten Bauvorhaben: a) Seehoferstr. 12
+- TOP 8.20.: Bautenliste vom 03.04. - 09.04.17: 1. Erstantragsverfahren: a) Geyerspergerstr. b) Sulzbeckstr. 37 c) Fröbelpl. 18
+- TOP 8.21.: Bautenliste vom 10.04. - 16.04.17: 1. Erstantragsverfahren: a) Westendstr. 260 b) Mitterhoferstr. c) Geyerspergerstr. 42
+- TOP 8.22.: Schreiben der Stadtwerke München GmbH vom 18.04.17: Baumaßnahmen der Stadtwerke: Stichtag: 10.04. - 13.04.17
+- TOP 8.23.: Schreiben der Stadtwerke München GmbH vom 11.04.17: Information der Bezirksausschüsse, Neue Bädereintrittspreise
+- TOP 8.24.: Beschluss der Vollversammlung des Stadtrats vom 05.04.17: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2017: Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 8.26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.27.: Bekanntgabe im Verwaltungs- und Personalausschuss vom 29.03.2017: Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 8.28.: Schreiben Bürgerin vom 03.04.2017: Dank für den Einsatz um die Glockengießerei
