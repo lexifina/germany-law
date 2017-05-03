@@ -1,0 +1,51 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2017-05-03T17:00:00+02:00
+- Ende: 2017-05-03T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3597
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936d151d8f32e9185dfd69
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.02.2017 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.03.2017 (öffentlicher Teil) - (offen)
+- TOP 5: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen. - (offen)
+- TOP 6: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 7: Geprüfter Jahresabschluss 2015 / 2016 von Stadttheater und Musikdirektion Aachen per 31.07.2016 - ungeändert beschlossen
+- TOP 8: Veränderung des Stellenplans 2017 Befristete Stelleneinrichtung im Fachbereich Wohnen, Soziales und Integration im Zusammenhang mit dem Präventionsprogramm: Wegweiser – gemeinsam gegen gewaltbereiten Salafismus - ungeändert beschlossen
+- TOP 9: Aachen-Pass - Änderung der Richtlinien - ungeändert beschlossen
+- TOP 10: Vertrag mit der Verbraucherzentrale NRW zur Finanzierung der Verbraucherberatungsstelle Aachen für die Jahr 2018 bis 2020 (Energieberatung) - zurückgestellt
+- TOP 11: Änderung der Geschäftsordnung für den Rat und die Bezirksvertretungen der Stadt Aachen und die Ratsausschüsse vom 15. 12. 1995 (GeschO) Hier: Änderung des § 2 GeschO - ungeändert beschlossen
+- TOP 12: Anfragen: - (offen)
+- TOP 12.1: Ratsanfragen - ungeändert beschlossen
+- TOP 12.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 13: Umbesetzungen in Ausschüssen und anderen Gremien: - (offen)
+- TOP 13.1: Nachwahl eines Mitglieds und eines stellvertretenden Mitglieds für den Beirat bei der Unteren Naturschutzbehörde - ungeändert beschlossen
+- TOP 13.2: Umbesetzungsanträge der GRÜNE-Fraktion vom 03.04.2017 - ungeändert beschlossen
+- TOP 13.3: Umbesetzungsantrag der CDU-Fraktion vom 24.04.2017 - ungeändert beschlossen
+- TOP 14: Mitteilungen der Verwaltung - (offen)
+- TOP 15: Ratsanträge - ungeändert beschlossen
+- TOP 16: Annahme einer Schenkung des Rathausvereins Aachen e.V. hier: Instandsetzung der Majestas Domini des Aachener Rathauses - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
+- TOP 16: nicht öffentlicher Tagesordnungspunkt
