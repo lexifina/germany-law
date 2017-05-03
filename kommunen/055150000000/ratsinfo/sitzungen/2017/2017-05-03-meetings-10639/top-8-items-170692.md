@@ -1,0 +1,8 @@
+# TOP 8: Fortschreibung der Handlungsbedarfe zur Erweiterung von Schulgebäuden aufgrund der demografischen Entwicklung bis zum Schuljahr 2025/2026 auf Basis der Vorlage V/0420/2016/1
+
+- Sitzung: Sitzung (2017-05-03)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/170692
+- Ergebnis: von der Tagesordnung abgesetzt
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/63210
