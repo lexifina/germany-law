@@ -1,0 +1,122 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-05-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118577
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118577
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.2.3.: Zuschuss aus dem BA-Budget für eigene Veranstaltungen: Film Open Air am 29.07.2017
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 1.3.: entfällt
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Schwabinger Schülerladen e.V. Anschaffung einer Garderobe und Umbau der Fensterbank Az. 0262.0-4-0171
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Stiftung Pfennigparade Vorlaufphase eines Nachbarschaftstreff von Mai bis Dezember 2017 Az. 0262.0-4-0170
+- TOP 2.3.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid an Mobilspiel e.V. für das MobilSpielFest am 09.04.2017
+- TOP 3.2.2.: Bewilligungsbescheid an die Gärtnerei Stängle/Limmer für 20 Naturführungen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Früh schwimmen in städtischen Hallenbädern – Flexibel Schwimmen in den städtischen Freibädern – Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft am 28.03.2017, Sitzungsvorlage Nr. 14-20 / V 08133
+- TOP 3.3.2.: Sanierung der Kindertagesstätte Haimhauserstraße Beschlussvorlage für den Bildungs- sowie Kinder- und Jugendhilfeausschuss am 02.05.2017, Sitzungsvorlage Nr. 14-20 / V 07763
+- TOP 3.3.3.: Neue Bädereintrittspreise ab 01.05.2017 – Information der Stadtwerke Bäder
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 31 a „0039 Italy“: Aufstellung einer Kleiderstange
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Aufstellung eines Infopoints am 08.07.2017 AZ: 0262.0-4-0168
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Initiative: Film o&#039;pflanzt is Filmprojekt „O&#039;pflanzt ist!“ AZ: 0262.0-4-0172
+- TOP 2.3.1.: Straßenfest „Kunst im Karrée 2017“ am 07.07.2017 in der Isabellastraße
+- TOP 2.3.2.: Stadtteilwoche Schwabing-West vom 07. bis 13.07.2017 im Luitpoldpark
+- TOP 2.3.3.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.3.4.: Bürgerfest zur Eröffnung der urbanen Mitte Ackermannbogen am 08.07.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Nächtliche Ruhestörung und Verunreinigung der Umgebung durch Gäste der Cocktailbar „Pomp“ (Antwort der Bezirksinspektion auf BA-Schreiben vom 30.03.2017)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid an die Kreuzkirche für das Karfreitagskonzert
+- TOP 3.3.1.: Imagefilm „Bonava“ am 05. oder 06.04.2017 von 7 bis 18 Uhr in der Borschtallee 26-30
+- TOP 3.3.2.: Drehgenehmigungen: Imagefilm „Bonava“ am 05.04.2017 von 7 bis 18 Uhr im Luitpoldpark
+- TOP 3.3.3.: Filmaufnahmen am 19.04.2017 von 15 bis 19.30 Uhr im Luitpoldpark/Luitpoldhöhe
+- TOP 3.4.1.: Café „Costadoro“, Hohenzollernstr. 37
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Secret Roll“, Schleißheimer Str. 182
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Marktfestsetzung für den Italienischen Markt auf dem Hohenzollernplatz (19. bis 22.04.2017)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Verschattung durch Neubauvorhaben Fürstenbergstr. 4
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Ansprengerstr. 12: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 2.1.2.: Schleißheimer Str. 93: Nutzungsänderung EG: Verkauf zu Gastronomie; 1. OG: Gastronomie zu Verkauf und Fitness sowie Einbau neuer Trennwände
+- TOP 2.1.3.: Brunnerstr. 6: Erweiterung des Gartenbetriebshofs um zwei Remisen
+- TOP 2.1.4.: Tektur Isabellastr. 22: Erneuerung und Vergrößerung der Balkone
+- TOP 2.1.5.: Tektur Friedrichstr. 19: Neubau eines Wohnhauses mit Tiefgarage und eines Rückgebäudes
+- TOP 2.1.6.: Nordendstr. 25 + 27: Umbau alte Feuerwache 4 zu Diensträumen für die Branddirektion München / Vorbeugender Brandschutz
+- TOP 2.1.7.: Gewerbeflächenentwicklungsprogramm – GEWI Fortschreibung und Öffentlichkeitsbeteiligung Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 2.1.8.: Elisabethstr. 13: Anbau eines außenliegenden Personenaufzugs
+- TOP 2.1.9.: Tektur Herzogstr. 142 „Schwabinger Carré II“: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (vertagt aus 03/17)
+- TOP 2.1.10.: Überprüfung und Erlass von Erhaltungssatzungen – Satzungsbeschlüsse a) Erhaltungssatzung „Pündterplatz / Bonner Platz“ b) Erhaltungsatzung „Josephsplatz“
+- TOP 2.1.11.: Tektur Friedrichstr. 19: Neubau eines Wohnhauses mit Tiefgarage und eines Rückgebäudes
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Anbringung von Hausnummernschildern auf der Straßenseite der Häuser Angererstr. 32-38 (Antwort des Kommunalreferats auf BA-Schreiben vom 23.02.2017)
+- TOP 3.1.2.: Zusätzlicher Briefkasten für den Bereich Ackermannbogen (Antwort der Deutschen Post AG auf BA-Schreiben vom 23.02.2017)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Stauffenbergstr. 32-36: Kopie des Vorbescheids (BA-Stellungnahme vom 29.06.2016)
+- TOP 3.2.2.: Sailerstr. 2-6: Stellungnahme des Landesamtes für Denkmalpflege
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Bessere Beleuchtung im Park am Bayernplatz
+- TOP 1.2.: Ergänzungsantrag: Blindengerechte Gestaltung des Hohenzollernplatzes
+- TOP 1.4.: Bürgerin: Verkehrssicherheit am Ackermannbogen
+- TOP 1.5.: Grüne: Mitführen von Hunden in städtischen Grünanlagen – verbesserte Aufklärung und Einhaltung der Grünanlagensatzung
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Rümannstr. 28: Fällung einer Hainbuche
+- TOP 2.1.2.: Egmontstr. 5: Fällung einer amerikanischer Blautanne
+- TOP 2.2.1.: (E) Gehwege in der Petra-Kelly-Straße für Fußgänger frei halten
+- TOP 2.2.2.: MVG-Leistungsprogramm 2018
+- TOP 2.2.3.: MVG Radstationen: Vorschläge für neue Standorte am Pündterplatz, in der Ainmillerstraße, in der Schwere-Reiter-/Barbarastraße und in der Nordendstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Problematische Stellplatzsituation im Ackermannbogen: Einbeziehung in das Parkraummanagement prüfen (Antwort des Referats für Stadtplanung und Bauordnung auf BA-Schreiben vom 24.11.2016)
+- TOP 3.1.2.: Grünphase für Fußgänger beim Überqueren der Karl-Theodor-Straße an der Ostseite der Kreuzung mit der Schleißheimer Straße (Antwort des KVR auf BA-Schreiben vom 30.03.2017)
+- TOP 3.1.3.: Schneeräumung von Rad- und Fußwegen verbessern
+- TOP 3.1.4.: Haltverbote in der Cherubinistraße zur Sicherung der Feuerwehranfahrt für nachträglich ausgebaute Dachgeschosse (Antwort des Kreisverwaltungsreferenten auf BA-Schreiben vom 30.03.2017)
+- TOP 3.2.1.: Gartenstr. 5: Genehmigung zur sofortigen Beseitigung einer Robinie als Gefahrenbaum
+- TOP 3.3.1.: Beschilderung an der Einmündung der ehemaligen Heßstraße in die Infanteriestraße
+- TOP 3.3.2.: Änderung der Hinweisbeschilderung zum Klinikum Schwabing
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ackermannbogen Quartier Südwest: Herstellung der Erschließungsstraßen Anliegerinformation des Baureferats Tiefbau
+- TOP 3.4.2.: Wegesanierung im Luitpoldpark 2017 – Informationsschreiben des Baureferats Gartenbau
+- TOP 3.4.3.: Betriebskonzept für U1/U2 während des Umbaus am U-Bahnhof Sendlinger Tor
+- TOP 3.4.4.: Information über das U-Bahn-Betriebskonzept während der Schienenschleifarbeiten auf der U2-Nord und der U3-Nord
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
