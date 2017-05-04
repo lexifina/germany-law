@@ -1,1 +1,1 @@
-# Verordnung über ausbildungsvorbereitende Bildungsgänge im Lande Bremen vom 10. Oktober 1993
+# Verordnung über Ausbildungsvorbereitende Bildungsgänge (AVBG-VO) vom 30. März 2017
