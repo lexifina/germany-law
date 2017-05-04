@@ -1,0 +1,125 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-04T16:00:00+02:00
+- Ende: 2017-05-04T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17080
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17080
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609850.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609850.pdf
+- Wortprotokoll: Nachtragstagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00609850.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde zu Sicherheit und Ordnung am Rheinboulevard (Antrag von B90/Grüne)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - geändert beschlossen
+- TOP 3.1.1: Vorschläge aus Bürgerhaushalt 2016 neu bewerten und umsetzen - geändert beschlossen
+- TOP 3.2: Konzept für eine transparente Vergabe von Nutzungen von Veedelsplätzen - ungeändert beschlossen
+- TOP 3.2.1: Änderungsantrag zum Vergabekonzept Chlodwigplatz - ungeändert beschlossen
+- TOP 3.3: Fahrtreppen Stadtbahnhaltestelle Heumarkt - zurückgestellt
+- TOP 3.4: Benennung des Platzes zwischen Lorenzstraße und Gotenring in Köln-Deutz - ungeändert beschlossen
+- TOP 3.5: Sanierungsgebiet 'Umfeld Kulturzentrum am Neumarkt', hier: Aufhebung der Sanierungssatzung - ungeändert empfohlen
+- TOP 3.6: Kleingartenanlage Colonius, Ludolf-Camphausen-Straße, Teilbereich - ungeändert beschlossen
+- TOP 3.7: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" - Antrag Nr. 5 "Interkulturelles Laien-Theaterprojekt" und Antrag Nr. 6 "Wortreich" auf Gewährung von Zuwendungen aus dem Verfügungsfonds - ungeändert beschlossen
+- TOP 3.8: 259. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.9: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Vogelsanger Straße und Venloer Straße - ungeändert empfohlen
+- TOP 3.10: 3. Nahverkehrsplan der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 3.11: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Zurückgestellt: Bürgereingabe gem. § 24 GO, betr.: Fahrbahnmarkierung in der Domumgebung (Az.: 02-1600-170/16) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO "Optimierung der Verkehrsführung im Georgsviertel" (AZ: 02-1600-56/16) - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Zugeparkte Gehwege im Bewohnerparkgebiet Nördliche Neustadt (Az.: 02-1600-79/16) - geändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Sanierung Riehler Straße (Az.: 02-1600-60/15) - ungeändert beschlossen
+- TOP 4.6: Bürgereingabe gem. § 24 GO "Durchgangsverkehr Trajanstraße und Maternusstraße Neustadt Süd" (AZ.: 02-1600-189/16) - geändert beschlossen
+- TOP 4.7: Bürgereingabe gem. § 24 GO, betr.: Verkehrsregelung und -beruhigung Dasselstraße (Az.: 02-1600-02/17) - zurückgestellt
+- TOP 4.8: Bürgereingabe gem. § 24 GO, betr.: Neue Hundefreilauffläche im Volksgarten (Az.: 02-1600-05/17) - zurückgestellt
+- TOP 4.9: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Brunostraße / Kartäuserwall (Az.: 02-1600-188/16) - zurückgestellt
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Belästigung und Gefährdung durch die Ladezone Mathildenstraße - endgültig zurückgezogen
+- TOP 5.1.1.1: Ersetzungsantrag zu AN/0152/2017 - Situation Mathildenstraße - ungeändert beschlossen
+- TOP 5.1.2: Fahrradfreundliche Gestaltung der Fahrbahn des Severinskirchplatzes - endgültig zurückgezogen
+- TOP 5.1.3: Verlegung von Fahrradabstellflächen am Eifelplatz - geändert beschlossen
+- TOP 5.1.4: Beseitigung der Engstelle für Fußgänger*innen auf der Brüsseler Str. - endgültig abgelehnt
+- TOP 5.1.5: Neupflanzungen in der Innenstadt - geändert beschlossen
+- TOP 5.1.5.1: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Innenstadt am 16.03.2017 - Kenntnis genommen
+- TOP 5.1.6: Maßnahmen zur Verbesserung der Verkehrssicherheit in der Richard-Wagner-Straße (Neustadt/Süd) - Sache ist erledigt
+- TOP 5.1.6.1: zu 5.1.6 Verbesserung der Verkehrssicherheit Richard Wagner Straße ÄA - Sache ist erledigt
+- TOP 5.1.6.2: Gemeinsamer Antrag aller Fraktionen und Einzelvertreter: Maßnahmen zur Verbesserung der Verkehrssicherheit in der Richard-Wagner-Straße (Neustadt/Süd) - ungeändert beschlossen
+- TOP 5.1.7: Platzfläche rund um die Eigelsteintorburg - zurückgestellt
+- TOP 5.1.8: Instandsetzung der Fläche zwischen Severinstraße, Löwengasse, Weberstraße und Severinsbrücke - zurückgestellt
+- TOP 5.1.9: Josef-Schwartz-Anlage - zurückgestellt
+- TOP 5.1.10: Bank auf der Platzfläche Im Stavenhof (Altstadt/Nord) - zurückgestellt
+- TOP 5.1.11: Dringlichkeitsantrag SPD: Abschlussarbeiten Chlodwigplatz - zurückgestellt
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Temporäre Instandsetzung und Aufwertung des Maternuskirchplatzes (Neustadt-Süd) - ungeändert beschlossen
+- TOP 5.2.2: Aufwertung des Grünstreifens zwischen Stolzestraße und Gabelsbergerstraße (Neustadt/Süd), Antrag SPD - ungeändert beschlossen
+- TOP 5.2.3: Bürgersteig Ulrichgasse, Im Dau - ungeändert beschlossen
+- TOP 5.2.4: Baumaßnahme Marzellenstraße - Einrichtung einer Fahrradfurt - endgültig zurückgezogen
+- TOP 5.2.4.1: Änderung der Verkehrsführung für das Bauvorhaben Marzellenstraße - Kenntnis genommen
+- TOP 5.2.5: Sauberkeit im Klingelpützpark (Altstadt/Nord) - zurückgestellt
+- TOP 5.2.6: Kenntlichmachung des Verlaufs der ehemaligen Via Pretoria in Deutz südlich von Alt St. Heribert - zurückgestellt
+- TOP 5.2.7: Änderungsantrag zum Antrag AN/0500/2017 der CDU-Fraktion - zurückgestellt
+- TOP 5.2.8: Mehr Ordnung für den Friesenwall (Altstadt/Nord) - endgültig abgelehnt
+- TOP 5.2.9: Aussengastronomie und Beschallung Zülpicher Str. nach Mitternacht - ungeändert beschlossen
+- TOP 5.2.10: Fahrzeugparken KITA Weidengasse - ungeändert beschlossen
+- TOP 5.2.11: Bänke auf der Rolandstraße - ungeändert beschlossen
+- TOP 5.2.12: „Mehr Sicherheit, Ordnung und Sauberkeit auf Kölner Straßen und Plätzen“ - endgültig abgelehnt
+- TOP 5.2.13: Zusätzliche Müllcontainer an der Deutzer Werft - ungeändert beschlossen
+- TOP 5.2.14: Befestigter Pfad in der Grünanlage Siegburger Str./Deutzer Freiheit - geändert beschlossen
+- TOP 5.2.15: Barrierefreiheit der Domplatte zum Kardinal-Höffner-Platz - ungeändert beschlossen
+- TOP 5.2.15.1: Änderungsantrag SPD zum Antrag der Fraktionen Bündnis 90/Die Grünen - endgültig abgelehnt
+- TOP 5.2.16: "Blaue Zone" im Kolumbaviertel - ungeändert beschlossen
+- TOP 5.2.17: Fahrradparken vor dem EL-DE-Haus / Aufstellen einer Bank - zurückgestellt
+- TOP 5.2.18: Verbesserung der Grün- und Sportanlage Hansaplatz - zurückgestellt
+- TOP 5.2.19: Zusätzliche Bänke auf dem Rudolfplatz - ungeändert beschlossen
+- TOP 5.2.20: Beschilderung einer Ladezone in der Breite Straße - ungeändert beschlossen
+- TOP 5.2.21: Neuordnung des Fahrradparkens an der VHS und am Rautenstrauch-Joest-Museum - zurückgestellt
+- TOP 5.2.22: Baumaßnahmen Aachener Str. und Friesenplatz - Optimierung der Radverkehrsführung - ungeändert beschlossen
+- TOP 6: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 6.1: Verkehrsversuch Sperrung Zülpicher Straße (Antrag von B90/Grüne) - Kenntnis genommen
+- TOP 6.2: entfallen, siehe TOP 1
+- TOP 6.3: City Leaks-Festival
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Gem. ANfrage Bündnis90/DieGrünen, CDU, SPD, Deine Freunde, FDP zu den Bahnbögen am Eigelstein - zurückgestellt
+- TOP 7.2: Umgestaltung des Ebertplatzes
+- TOP 7.2.1: Beantwortung einer Anfrage - Umgestaltung des Ebertplatzes
+- TOP 7.3: Umsetzung der Multifunktionszonen vor Veranstaltungsorten - zurückgestellt
+- TOP 7.4: Gestaltung des Kyotoplatzes (Altstadt/Nord)
+- TOP 7.4.1: Gestaltung des Kyotoplatzes (Altstadt/Nord)
+- TOP 7.5: Anfrage zur Umwandlung von Parkplätzen in Multifunktionsflächen
+- TOP 7.5.1: Umwandlung von Parkplätzen zu Multifunktionsflächen
+- TOP 7.6: Haarnadel für Fahrradstellplätze
+- TOP 7.6.1: Haarnadel für Fahrradstellplätze
+- TOP 7.7: Private Sicherheitsdienste in der Innenstadt
+- TOP 7.7.1: Anfrage AN/0326/2017 der Fraktion "Bündnis90Die Grünen"
+- TOP 7.8: Straßenunterhaltungsmaßnahme Reichenspergerplatz und angrenzende Straßen - zurückgestellt
+- TOP 7.9: Erneuerung des Mischwasserkanals in der Mathildenstr. in Deutz - zurückgestellt
+- TOP 8: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 8.1: Geförderte Wohnungen im Stadtbezirk - zurückgestellt
+- TOP 8.2: Entfallen, s. 7.4.1
+- TOP 8.3: Volksbühne am Rudolfplatz - zurückgestellt
+- TOP 8.4: Nutzung des Lanxess-Parkhauses für Gottesdienstbesucher/verkehrsgefährdendes Parken - zurückgestellt
+- TOP 8.5: Gewerbliches Vermieten von öffentlichem Strassenraum vor Garagen - zurückgestellt
+- TOP 8.6: Oberflächenwiederherstellung Nord-Süd Stadtbahn – hier: Umgestaltung des Elogiusplatzes - zurückgestellt
+- TOP 9: Mündliche Fragen an die Verwaltung
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Aufwertung des Erscheinungsbildes der Marzellenstr. - Kenntnis genommen
+- TOP 11.2: Vergabe bezirkdienlicher Mittel, die dem Sport zugute kommen - Kenntnis genommen
+- TOP 11.3: Öffnung der Fußgängerzonen in der Kölner Innenstadt für den Radverkehr - Kenntnis genommen
+- TOP 11.4: Brüsseler Platz - Jahresbericht 2016 - Kenntnis genommen
+- TOP 11.5: Wettbewerb Neubau des LVR-Hauses am Ottoplatz/Südlich Ottoplatz in Köln-Deutz; hier: Wettbewerbsverfahrensergebnis - Kenntnis genommen
+- TOP 11.6: Fußverkehr Hohe Pforte - Kenntnis genommen
+- TOP 11.7: Neuer Wochenmarkt in Köln Altstadt/Süd, Chlodwigplatz - mit Änderungen empfohlen
+- TOP 11.8: Verbesserung der Beschilderung in der U-Bahnhaltestelle Rudolfplatz - Kenntnis genommen
+- TOP 11.9: Stadtradeln 2017 - Kenntnis genommen
+- TOP 11.10: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 11.11: Installation von Geschwindigkeitsmessanlagen auf den Ringen - Kenntnis genommen
