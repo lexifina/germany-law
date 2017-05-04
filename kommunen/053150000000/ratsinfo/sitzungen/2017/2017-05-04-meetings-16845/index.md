@@ -1,0 +1,68 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-04T16:55:00+02:00
+- Ende: 2017-05-04T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16845
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16845
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 04.05.2017, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611175.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 04.05.2017, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611175.pdf
+- Wortprotokoll: Tagesordnung, Stand 04.05.2017, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611175.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Sachstand der Umsetzung des Toilettenkonzepts Köln - zurückgestellt
+- TOP 1.1.1: Sachstand der Umsetzung des Toilettenkonzeptes Köln - Kenntnis genommen
+- TOP 1.2: Zukunft des RheinEnergieStadions - zurückgestellt
+- TOP 1.3: Entwicklung des Grünflächenamtes und der Grünflächen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Bewirtschaftung der Schaugewächshäuser im Botanischen Garten - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Förderung der Elektromobilität in Köln - Umsetzungskonzept - Kenntnis genommen
+- TOP 3.1.1: TOP 3.1 - Förderung der Elektromobilität in Köln - Umsetzungskonzept - Sache ist erledigt
+- TOP 3.1.2: Förderung der Elektromobilität in Köln - Umsetzungskonzept (1275/2017) - Kenntnis genommen
+- TOP 3.2: Stadtradeln 2017 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Stadtklima-/ Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen und Gewässer - Kenntnis genommen
+- TOP 4.3: Programm "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 4.4: Rahmenvertrag über die Lieferung von Schüttgütern für Maßnahmen im Rahmen der Verkehrssicherung (141/17/12/17) - ungeändert beschlossen
+- TOP 4.5: Kleingartenanlage An der Ling - ungeändert empfohlen
+- TOP 4.6: Kleingartenanlage Scheibenstraße-Ost - ungeändert empfohlen
+- TOP 4.7: Ersatz- und Neubeschaffung von 7 Kolonnenfahrzeugen mit Doppelkabine (bis 3,5 t) für die Bestattungen und die Grünpflege auf den Kölner Friedhöfen - ungeändert beschlossen
+- TOP 4.8: Fahrzeug- und Arbeitsmaschinenkonzept (II. Fortschreibung) 2017 - 2025 - ungeändert empfohlen
+- TOP 4.9: Politische Zusetzungen für den Fachbereich Umwelt und Grün (2017) - ungeändert empfohlen
+- TOP 4.10: Altdeponie Colonia (Al 70111) - ungeändert beschlossen
+- TOP 4.11: Beschaffung einer IT-Anwendung Baumkataster - ungeändert beschlossen
+- TOP 4.12: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert empfohlen
+- TOP 4.13: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert empfohlen
+- TOP 4.14: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert empfohlen
+- TOP 4.15: Kleingartenanlage Takufeld, Rochuspark - ungeändert empfohlen
+- TOP 4.16: Übertragung der hoheitlichen Aufgabe der Unterhaltung und Sanierung der Parkweiher auf die Stadtentwässerungsbetriebe Köln, AöR - mit Änderungen empfohlen
+- TOP 4.17: Stadtentwässerungsbetriebe Köln, AöR (StEB) - ungeändert empfohlen
+- TOP 4.18: 3. Baustufe Nord-Süd Stadtbahn / Ergänzender Baubeschluss Großbaumverpflanzungen - mit Änderungen empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Umwelt und Grün - Kenntnis genommen
+- TOP 7.2: Bahnhof Belvedere in Köln-Müngersdorf - Kenntnis genommen
+- TOP 7.3: Ulrich-Haberland-Haus - Kenntnis genommen
+- TOP 7.4: Energiebericht 2016- Verbrauchs- und Kostenstatistik 2015 und Sachstand Energiemanagementkonzept - Kenntnis genommen
+- TOP 7.5: 2. Kölner Saatgutfestival im VHS-Studienhaus - Kenntnis genommen
+- TOP 7.6: s. TOP 3.2
+- TOP 7.7: Öffentlichkeitsbeteiligung und Durchführung der Lärmaktionsplanung des Eisenbahnbundesamtes - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Deponie Wiemersgrund; hier: Weiterführung des Deponiebetriebes; Anfrage AUG vom 15.09.2016 - Kenntnis genommen
+- TOP 8.2: Phosphatrückgewinnung aus Klärschlamm - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Baumfällungen Eygelshovener Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.2: Kalkberg - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.3: Erdkröten am Kalscheurer Weiher - zur weiteren Bearbeitung in die Verwaltung überwiesen
