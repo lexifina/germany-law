@@ -1,0 +1,7 @@
+# TOP -: A Benchmarking Müllabfuhr und Straßenreinigung bei der AWB Köln GmbH & Co. KG
+
+- Sitzung: Sitzung Betriebsausschuss Abfallwirtschaftbetrieb der Stadt Köln (2017-05-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/225492
+- Ergebnis: Kenntnis genommen
