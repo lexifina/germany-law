@@ -1,0 +1,57 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-05-04T17:15:00+02:00
+- Ende: 2017-05-04T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10584
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10584
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00404608.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen
+- TOP 4.1: Betriebshaltestelle der Linien 12 und 22 an der Dieckmannstraße - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Aktueller Planungsstand Oxford-Kaserne
+- TOP 5.2: Vorstellung der Wettbewerbsergebnisse im städtebaulichen Wettbewerb Albachten-Ost
+- TOP 5.3: Schwerverkehrsanalyse im Zuge der Heroldstraße - zur Kenntnis genommen
+- TOP 5.3.1: Verkehrszählung Heroldstraße - zur Kenntnis genommen
+- TOP 5.4: Investitionen in Vereinssportanlagen - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Schmeddingstraße - Waldeyerstraße bis Mausbachstraße - einstimmig beschlossen
+- TOP 6.2: Wiederwahl der stellvertretenden Schiedsperson für den Bezirk 6 Münster-Gievenbeck/Sentrup - einstimmig beschlossen
+- TOP 6.3: Unterhaltung der Grundstücke und baulichen Anlagen 2017 im Stadtbezirk West - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Bericht zur Wohnbaulandentwicklung 2016 und Fortschreibung des Baulandprogramms 2017 - 2025 - einstimmig geändert beschlossen
+- TOP 7.2: Bebauungsplan Nr. 584 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig geändert beschlossen
+- TOP 7.3: Freigabe des Entwurfes zur 2. Fortschreibung des Einzelhandels- und Zentrenkonzepts Münster für die Öffentlichkeitsbeteiligung und das weitere Bearbeitungsverfahren - einstimmig geändert beschlossen
+- TOP 7.4: Erschließungsvertrag Waldweg Haus Nr. 39 - einstimmig beschlossen
+- TOP 7.5: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Meyerbeerstraße in Mecklenbeck - einstimmig beschlossen
+- TOP 7.6: Investitionen der Mitgliedsvereine des Stadtsportbund Münster e. V., - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Nutzung der neu entstandenen öffentlichen Grünfläche durch das Jugendzentrum Paulushof - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.2: Einrichtung von zwei zusätzlichen Parkplätzen an der Brockmannstraße gegenüber dem Kulturzentrum für Gehörlose - eingebracht
+- TOP 8.3: Herrichtung des Fuß- und Radweges zwischen Ripenhorst/Rockbusch und Heroldstraße/Galgenheide - eingebracht
+- TOP 8.4: Aufpflasterungen überprüfen und ausbessern - eingebracht
+- TOP 8.5: Beleuchtung Fußweg Christoph-Bernhard-Graben verbessern - eingebracht
+- TOP 8.6: Schrankenanlage am Zoo fit für Reisebusse machen - zur Kenntnis genommen
+- TOP 8.7: Geh- und Radweg Weseler Straße verlängern - eingebracht
+- TOP 8.8: Gehweg Meckmannweg ausbessern und verbessern - eingebracht
+- TOP 8.9: Absolutes Halteverbot auf der Mecklenbecker Straße prüfen - eingebracht
+- TOP 8.10: Radwegführung Fritz-Stricker-Straße verbessern - eingebracht
+- TOP 8.11: Stromanschluss für das Spielmobil am Spielplatz Christoph-Bernhard-Graben prüfen - eingebracht
+- TOP 8.12: Straßenbenennung im Stadtbezirk Münster-West - mehrheitlich beschlossen
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Verkehrskonzept Schmeddingstraße - zur Kenntnis genommen
+- TOP 9.2: Verkehrskonzept Roxeler Straße / Auenviertel / Oxford Kaerne / Arnheimweg - zur Kenntnis genommen
+- TOP 9.3: Verbesserung Platzsituation unbefestigte Bushaltestellen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.4: Nachhaltige Sanierung der Wege im Offerbachpark in Albachten - zur Kenntnis genommen
+- TOP 10: Verschiedenes
