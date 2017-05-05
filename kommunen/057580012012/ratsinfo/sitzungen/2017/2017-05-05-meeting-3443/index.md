@@ -1,0 +1,53 @@
+# Rat (20. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2017-05-05T16:00:00+02:00
+- Ende: 2017-05-05T21:10:00+02:00
+- Ort: Kreishaus Herford, Amtshausstraße 3, 32052 Herford, Ebene 3, Sitzungsräume 300 - 302
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRJsFxTK8hcKlTbaRiCUU0A
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3443
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUpt6os91fh-jlQIazMaoxL8jFLRitlhsWG7V10uVDcy/Einladung_Rat_05.05.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQW7fBw2Xdcz-WoATlxAJVrX69dzGFCJVeEcslzkXIek/Oeffentliche_Niederschrift_Rat_05.05.2017.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 24.02.2017
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Stadttheater: Planung der Generalsanierung - Bei 3 Enthaltungen wurde mit 25 Ja-Stimmen der Änderungsantrag beschlossen.
+- TOP A.5b: Bildungscampus Herford: a) Geänderter Wirtschaftsplan 2017 der Stadtentwicklungsgesellschaft Hansestadt Herford GmbH (SEH) b) Grundsatzbeschluss für den Ankauf eines zusätzlichen Gebäudes auf dem Bildungscampus Herford - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5c: INTERKOMM GmbH: Jahresabschluss 2016, Ergebnisverwendung, Entlastung der Geschäftsführung, Bestellung der Wirtschaftsprüfungsgesellschaft für die Prüfung des Jahresabschlusses 2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6: Haushalt 2017 Anzeige der Haushaltssatzung für das Haushaltsjahr 2017 und Antrag auf Genehmigung der Verringerung der allgemeinen Rücklage Schreiben der Aufsichtsbehörde vom 13.04.2017
+- TOP A.7: Projekt "Markthalle" Sachstandsbericht
+- TOP A.20: Antrag der SPD-Fraktion bezgl. britischer Straßenbezeichnungen auf den Konversionsflächen (hier eingegangen am 16.03.17)
+- TOP zu A.20: Antrag der CDU-Fraktion zum TOP A.20 (A/7/2017) bezüglich der Namensgebung von Plätzen und Straßen (eingeg. am 27.04.17)
+- TOP zu A.20: Beschluss zu A.20
+- TOP A.8: Hanseaktivitäten 2016 und Folgejahre - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.9: Ernennung der stellvertretenden Leiter der Feuerwehr
+- TOP zu A.9: Ernennung der stellvertretenden Leiter der Feuerwehr hier: Bestellung von zwei Feuerwehrbeamten - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10: Interkommunale Vereinbarung mit der Stadt Bielefeld
+- TOP A.11: Ausbildungsquote - Mit 24 Ja-Stimmen und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Baumaßnahmen Zeitplan
+- TOP A.13: Vollausbau und Deckenerneuerung der L 778 (Elverdisser Straße und Rennstraße) durch den Landesbetrieb Straßenbau NRW - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.14: Neubau einer 3-fach-Sporthalle mit zusätzlichen Räumlichkeiten für Klassen, erweiterter Mittagsversorgung und erweitertem Verwaltungstrakt
+- TOP zu A.14: Antrag der SPD-Fraktion zum TOP A.14 (hier eingeg. am 03.05.17)
+- TOP zu A.14: Beschluss zu A.14
+- TOP A.15: Einführung einer "Herford - Karte" - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz
+- TOP A.17: Änderung der Hauptsatzung der Hansestadt Herford bezüglich der Novellierung der Gemeindeordnung NRW hier: Ausnahmeregelung zur zusätzlichen Aufwandsentschädigung für Ausschussvorsitze gem. § 46 S. 2 GO NRW
+- TOP zu A.17: Gemeinsamer Beschlussantrag zum Thema Aufwandsentschädigung
+- TOP A.18: Gremienumbesetzungen:
+- TOP A.18a: Wahl eines neuen stellvertretenden, stimmberechtigten Mitgliedes der Jugendverbände für den Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18b: Bestellung eines Mitgliedes für den Beirat für Stadtbildpflege - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18c: Umbesetzung im Sozialausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.18: Antrag der SPD-Fraktion auf Umbesetzung im BauUA und SportA - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.19: Antrag der Fraktion Bündnis 90/ die Grünen bezgl. Stilllegung des Atomkraftwerks Grohnde (Resolution) (hier eingegangen am 02.03.17) - Bei 2 Enthaltungen wurde mit 21 Ja-Stimmen der Antrag mehrheitlich beschlossen und folgender Beschluss gefasst: 
+- TOP A.21: Antrag der Fraktion DIE LINKE bezgl. Solidaritätserklärung für Demokratie, Menschenrechte und Meinungsfreiheit in der Türkei (hier eingegangen am 14.04.17) - Bei 7 Enthaltungen und 18 Nein-Stimmen wurde der Antrag abgelehnt. 
+- TOP A.22: Antrag der Fraktion Bündnis 90/Die Grünen bezgl. Regionale 2022 (hier eingegangen am 19.04.17) - Bei 1 Enthaltung und 20 Ja-Stimmen wurde folgender Beschluss gefasst: 
+- TOP A.23: Mitteilungen
