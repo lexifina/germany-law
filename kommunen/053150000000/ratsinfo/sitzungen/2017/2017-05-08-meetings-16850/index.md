@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-08T17:00:00+02:00
+- Ende: 2017-05-08T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16850
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16850
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Delegationsbesuch von Oberbürgermeisterin Reker in den Partnerstädten Bethlehem und Tel Aviv-Yafo vom 17.2. bis 21.2.2017 - Kenntnis genommen
+- TOP 2.2: Chinafest anlässlich 30 Jahre Städtepartnerschaft Köln-Peking 2017 - ungeändert beschlossen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage von MdR Dr. Elster in der Sitzung am 27.03.2017 betreffend "Gewalttaten im Umfeld des Autonomen Zentrums Köln" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalgewinnung/ Besetzungsverfahren
+- TOP -: Mitteilung der Verwaltung betreffend "Personalgewinnung/ Besetzungsverfahren" - Kenntnis genommen
+- TOP 4.2: Brüsseler Platz - Jahresbericht 2016 - Kenntnis genommen
+- TOP 4.3: Optimierung der Nutzung des Rathauses (Historisches Rathaus und Spanischer Bau) sowie der umliegenden Gebäude mit Verwaltungsnutzung (Haus Neuerburg, Laurenzplatz 1-3, Laurenzplatz 4)
+- TOP 4.4: Beschluss des AVR vom 07.12.2015 betreffend "Resolution zu einer Transparenzsatzung", 3389/2016 - Kenntnis genommen
+- TOP 4.5: Bericht über die Umsetzung von Beschlüssen und Anträgen aus dem Geschäftsbereich des Dezernates I - Kenntnis genommen
+- TOP 4.6: Mitteilung betreffend "Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Ausschusses für Umwelt und Grün vom 04.05.2017 betreffend "Sachstand der Umsetzung des Toilettenkonzeptes Köln" (AN/0528/2017)" - Kenntnis genommen
+- TOP 4.7: Stadtradeln 2017 - Kenntnis genommen
+- TOP 4.8: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 4.9: Mitteilung betreffend "Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses vom 24.04.2017 betreffend "Blitzer-Fiasko auf der BAB 3" (AN/0601/2017)" - Kenntnis genommen
+- TOP 4.10: Integration von geflüchteten Frauen in den Arbeitsmarkt - Kenntnis genommen
+- TOP 4.11: Mitteilung betreffend "Beantwortung einer Nachfrage von MdR Hegenbarth zur Sitzung des Jugendhilfeausschusses vom 14.03.2017 betreffend "Kein Täter werden - Welche Präventionsmaßnahmen gibt es in Köln?"" - Kenntnis genommen
+- TOP 4.12: Aktualisierter Sachstand zur Vergabe rettungsdienstlicher Leistungen – Stand der Umsetzung des Beschlusses des Hauptausschusses vom 19.01.2017 (0754/2017) - Kenntnis genommen
+- TOP 4.13: Neue Version der Kölner Service-APP - Kenntnis genommen
+- TOP 4.14: Sachstand Ausgleichszahlung BAB 3 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Gruppe Piraten betreffend "Städtische Videoüberwachung 2015 und 2016" zur Sitzung am 25.04.2016 - zurückgestellt
+- TOP 6.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Immobilienmanagement der Stadtverwaltung Köln" zur Sitzung am 06.02.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 24.03.2017 - Kenntnis genommen
+- TOP 6.3: Anfrage der Gruppe Piraten betreffend "Wie viel Technik nutzen die Ausländerbehörden in Köln, um die Identität von Asylsuchenden festzustellen?" zur Sitzung am 27.03.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 27.04.2017 - Kenntnis genommen
+- TOP 6.4: Anfrage der Gruppe Piraten betreffend "Zu wenig Informationen zu Bürger- und Volksbegehren in Köln" zur Sitzung am 08.05.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 26.04.2017 - Kenntnis genommen
+- TOP 6.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Handy-App der Stadt Köln" zur Sitzung am 08.05.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 08.05.2017 - Kenntnis genommen
+- TOP 6.6: Anfrage der Gruppe Piraten betreffend "Bewerbercenter – was ist geplant?" zur Sitzung am 08.05.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 08.05.2017 - Kenntnis genommen
+- TOP 6.7: Anfrage der DieLinke-Fraktion betreffend ""Gefährliche Orte" in Köln" zur Sitzung am 08.05.2017 - zurückgestellt
+- TOP 6.8: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Entwicklungskonzept für IT- und technische Berufe in der Verwaltung" zur Sitzung am 08.05.2017 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Gruppe Piraten betreffend "Köln wird korporatives Mitglied bei Transparency International" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: 1. Verordnung zur Änderung der 1. Änderungsverordnung über das Offenhalten von Verkaufsstellen im Jahr 2017 - ungeändert beschlossen
+- TOP 10.2: Errichtung einer stationären Geschwindigkeitsüberwachungsanlage in der Paffrather Straße - Dellbrück - ungeändert beschlossen
+- TOP 10.3: Stadtentwässerungsbetriebe Köln, AöR (StEB) - ungeändert beschlossen
+- TOP 10.4: Übertragung der hoheitlichen Aufgabe der Unterhaltung und Sanierung der Parkweiher auf die Stadtentwässerungsbetriebe Köln, AöR - geändert beschlossen
+- TOP 10.5: Schulrechtliche Errichtung des Gymnasiums Zusestraße/ Kölner Straße in Lövenich - Interimsstart am Standort Neue Sandkaul in Widdersdorf in angemieteten/ erworbenen Räumlichkeiten der privaten Internationalen Friedensschule - geändert beschlossen
+- TOP 10.6: 4-Jahres-Rahmenvertrag zur Lieferung von Poloshirts für Feuerwehr- und Rettungsdienst - ungeändert beschlossen
+- TOP 10.7: Wiedereinführung des kommunalen Vorkaufsrechtes - ungeändert beschlossen
+- TOP 10.8: Änderung der Zuständigkeitsordnung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Fortsetzung des Projektes "museumsbus.koeln" - ungeändert beschlossen
+- TOP 10.10: Änderung der "Entgelt- und Honorarordnung für den Museumsdienst Köln" - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Überplanmäßiger Mehrbedarf im Teilergebnisplan 0208 - Personenstandswesen; Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10.12: Bedarfsfeststellungsbeschluss im Zuge des erhöhten Risikomanagements der Stadt Köln für die Silvesterfeiern in den Jahren 2017 bis 2020 und Vergabe der Leistungen - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
