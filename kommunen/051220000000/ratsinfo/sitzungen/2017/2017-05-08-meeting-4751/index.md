@@ -1,0 +1,53 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-05-08T17:00:00+02:00
+- Ende: 2017-05-08T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYN0yRWdu0oJEXQF0531chA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4751
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfUKAJUFv-gbrwfwkQvFUV8Ysra6Wm0Jhg6nO2KdRCRj/Oeffentliche_Niederschrift_Beteiligungsausschuss_08.05.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen (Quartalsbericht zum 31.12.16; DBSG)
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 22. Sitzung des Beteiligungsausschusses am 13.03.2017
+- TOP 4: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5: Anpassung der Preise für das Freibad Heide
+- TOP 6: Einsparungen im ÖPNV gemäß Ratsbeschluss vom 08.12.2016
+- TOP 7: Vorschlag der Geschäftsführung der Stadtwerke Solingen GmbH (SW SG) zur Einhaltung der Verlustobergrenze im Verkehrsbereich
+- TOP 8: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 22. Sitzung des Beteiligungsausschusses am 13.03.2017
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 5: Bestellung eines Jahresabschlussprüfers für die Stadtwerke Solingen GmbH
+- TOP 6: Jahresabschluss 2016 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 7: Bestellung eines Jahresabschlussprüfers für die SWS Netze Solingen GmbH
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Jahresabschluss 2015/16 der itec solingen gmbh (itec)
+- TOP 11: Bestellung eines Jahresabschlussprüfers für die itec solingen gmbH
+- TOP 12: Jahresabschluss 2015/16 der EDL Solingen GmbH (EDL)
+- TOP 13: Bestellung eines Jahresabschlussprüfers für die EDL Solingen GmbH
+- TOP 14: Jahresabschluss 2016 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 15: Bergische Symphoniker - Jahresabschluss 2015/2016
+- TOP 16: Bergische Symphoniker - Jahresabschluss 2015/2016
+- TOP 17: Bergische Symphoniker - Bestellung Abschlussprüfer für das Geschäftsjahr 2016/2017
+- TOP 18: Bergische Symphoniker - Wirtschaftsplan 2017/2018
+- TOP 19: Jahresabschluss 2015/2016 der Städtische Musikschule Solingen GmbH
+- TOP 20: Jahresabschluss 2016 der Bergische Institut für Produktentwicklung und Innovationsmanagement gGmbH i. L. (BIP)
+- TOP 21: Jahresabschluss 2016 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 22: Jahresabschluss 2016 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 23: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Grundstücksteilverkauf
+- TOP 24: Auflösung der RW Holding Aktiengesellschaft - Sachstand
+- TOP 25: Jahresabschluss 2016 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 26: Bestellung eines Jahresabschlussprüfers für die Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 27: Verschiedenes
+- TOP 28: Honorarzahlungen Rödl & Partner
