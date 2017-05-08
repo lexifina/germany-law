@@ -1,0 +1,74 @@
+# 23. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-08T17:00:00+02:00
+- Ende: 2017-05-08T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17097
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17097
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611653.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611653.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611653.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung der neu gewählten Seniorenvertretung
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung Fahrradabstellplätze Bahnhof Ehrenfeld ((Az.: 02-1600-215/16) - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Bindungsenden im öffentlich geförderten Wohnungsbau – das dicke Ende kommt noch? - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Kapazitäten und Auslastung bestehender und geplanter Tief-und Quartiersgaragen im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.2: Reinigung des Marktsplatzes in Bickendorf - Kenntnis genommen
+- TOP 7.2.1: Reinigung des Marktplatzes in Bickendorf - Kenntnis genommen
+- TOP 7.3: Güterbahnhof Ehrenfeld - Kenntnis genommen
+- TOP 7.3.1: Beantwortung der Anfrage der SPD-Fraktion vom 25.04.2017 betreffend Güterbahnhof Ehrenfeld (AN/0643/2017) - Kenntnis genommen
+- TOP 7.4: Sachstand der Spiel- und Sportmaßnahmen im Rahmen des Grüngürtel:Impulses - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Errichtung weiterer Sitzplätze/Bänke auf dem Gerhard-Wilczek-Platz - geändert beschlossen
+- TOP 8.2: Teilsperrung der Philippstraße, 50823 Köln für Kraftfahrzeuge über 7,5t - zurückgestellt
+- TOP 8.3: Transparenz und Beteiligung stärken! – Information über Baumaßnahmen verbessern! - zurückgestellt
+- TOP 8.4: Fußgängerüberweg auf der Subbelrather Straße in Höhe des neuen Durchgangs zum Krankenhaus - zurückgestellt
+- TOP 8.5: Jugendsitzung in der Bezirksvertretung Ehrenfeld - zurückgestellt
+- TOP 8.6: Antrag der Stadt Köln an die Bezirksregierung Köln nach §45 Absatz 1b Nr. 5 der StVO: Temporeduzierung auf der A57 in Höhe Blücherpark/Kleingärten - ungeändert beschlossen
+- TOP 8.7: Lebendige Quartiere erhalten – Verdrängung frühzeitig identifizieren und verhindern! - zurückgestellt
+- TOP 8.8: Fahrradabstellplätze am Ansgarplatz - ungeändert beschlossen
+- TOP 8.9: Venloer Straße autofrei - geändert beschlossen
+- TOP 8.9.1: Ergänzungsantrag zu TOP 8.9 - ungeändert beschlossen
+- TOP 8.10: Verlängerung des Radweges auf der Mathias-Brüggen-Straße - geändert beschlossen
+- TOP 8.11: Kicken am Knast – ein Bolzplatz für Ossendorf! - ungeändert beschlossen
+- TOP 8.12: Aufstellung zweier Straßenlaternen in der Kleingartenanlage Köln-Bickendorf - zurückgestellt
+- TOP 8.13: Umsetzung „Sitzen statt parken“ - ungeändert beschlossen
+- TOP 8.14: Sanierung ohne Verdrängung - ungeändert beschlossen
+- TOP 8.15: Verschwenkung eines Teilstücks des Bürgersteiges auf dem Erlenweg - zurückgestellt
+- TOP 8.16: Untersuchung zum Bau von automatischen Quartiersgaragen in Ehrenfeld - zurückgestellt
+- TOP 8.17: Bescheidenes Gedenken an getötete Zwangsarbeiter*innen - ungeändert beschlossen
+- TOP 8.18: Dringlichkeitsantrag Graeffstraße - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 9.2: Abriss und Entsorgung des ehemaligen Umkleidehauses auf der Sportanlage Biesterfeldstraße in 50829 Köln - ungeändert beschlossen
+- TOP 9.3: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 9.4: Kleingartenanlage Takufeld, Rochuspark - ungeändert beschlossen
+- TOP 9.5: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Satzung über eine Veränderungssperre: Osterather Straße/Liebigstraße in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 10.2: 259. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.3: 3. Nahverkehrsplan der Stadt Köln - ungeändert beschlossen
+- TOP 10.4: Änderung der Zuständigkeitsordnung der Stadt Köln - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: 8.8 Einhaltung von Tempo 30 auf dem Goldfasanenweg in Vogelsang Antrag der Fraktion Bündnis 90/Die Grünen vom 02.06.2015 - Kenntnis genommen
+- TOP 12.2: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Ehrenfeld aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.12.2016 - zurückgestellt
+- TOP 12.3: Vergabe bezirkdienlicher Mittel, die dem Sport zugute kommen - Kenntnis genommen
+- TOP 12.4: Sachstandsbericht Machbarkeitsstudie Bahnsteiganhebung Gürtel - Linie 13 - Kenntnis genommen
+- TOP 12.5: Stadtradeln 2017 - Kenntnis genommen
+- TOP 12.6: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 12.7: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
