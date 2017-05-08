@@ -1,0 +1,78 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-08T17:00:00+02:00
+- Ende: 2017-05-08T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17126
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17126
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: B Aktuelle Stunde - Bezirksrathaus Rodenkirchen – Sachstand der Planung und weiteres Vorgehen; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Öffnung der Querung an der Haltestelle Marktstraße - Kenntnis genommen
+- TOP 7.1.2: Maßnahmen gegen Staus im Berufsverkehr rund um den Autobahnverteiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Baumpflegemaßnahmen im Äußeren Grüngürtel; Anfrage der Fraktion die Grünen - Kenntnis genommen
+- TOP 7.2.2.1: B E A N T W O R T U N G- : Baumpflegemaßnahme im Äußeren Grüngürtel - Kenntnis genommen
+- TOP 7.2.3: Landschaftswarte: Berichte; Gemeinsame Anfrage der Fraktion Die Grünen und der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Errichtung von Mobilfunkantennen in Wohngebieten; Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Stadtbezirksübergreifende Schulbesuche / Schülerwanderungsbewegungen ; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Teilhabe am Investitionsförderfonds des Bundes für Schulsanierungen im Stadtbezirk Rodenkirchen ; Anfrage der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Kindertagesbetreuung U3 in Godorf und Immendorf – zu wenige Plätze!; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Stadtverschönerung im Bezirk ; Anfrage der Fraktion die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Rheinufer Rodenkirchen: Erhöhung der Verkehrssicherheit durch Trennung von Fuß- und Radverkehr; Gemeinsamer Antrag der Fraktionen CDU, SPD, Die Grünen und der FDP Fraktion - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Dringender Neubau der Sportanlage Kapellenstraße in Köln-Rondorf - Bebauungs-Plan Nr. 66380/02; Gemeinsamer Antrag der Fraktionen CDU, SPD, Die Grünen und der FDP Fraktion - ungeändert beschlossen
+- TOP 8.1.5: Parken Sürth; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 8.1.5.1: Gemeinsamer Ersetzungsantrag zu TOP 8.1.7 aus der BV2-Sitzung 03/17 "Parken Sürth" - ungeändert beschlossen
+- TOP 8.1.6: Übertragung von Flächen für den Wohnungsbau; Antrag der SPD Fraktion - endgültig zurückgezogen
+- TOP 8.1.7: Alteburger Straße: Neuordnung des ruhenden Verkehrs; Antrag der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.1.8: Entsiegelung von Wegen auf dem Friedhof Steinneuerhof; Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 8.1.9: Restaurierung der historischen Zaunanlage an der Rheinuferpromenade zwischen Bayenthalgürtel und Südbrücke; Antrag der SPD Fraktion - geändert beschlossen
+- TOP 8.1.9.1: B E A N T W O R T U N G - Beantwortung einer Anfrage der Bezirksvertretung Rodenkirchen bezüglich der Restaurierung des historischen Zauns an der Rheinuferpromenade zwischen Bayenthalgürtel und Südbrücke - Kenntnis genommen
+- TOP 8.1.10: Staus am Bahnübergang Friedrich-Ebert-Straße in Rodenkirchen; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 8.1.11: Zusätzliche Ordnungskräfte für den Stadtbezirk Rodenkirchen; Antrag der SPD Fraktion - endgültig zurückgezogen
+- TOP 8.1.12: Einrichtung eines Jugendzentrums in Rodenkirchen; Antrag der CDU Fraktion - geändert beschlossen
+- TOP 8.1.13: Parken im Stadtbezirk Rodenkirchen; Gemeinsamer Antrag der CDU und SPD Fraktion - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Stadtteilmütter Meschenich: Überführung des Projektes in ein kommunales Regelangebot; Antrag der Fraktionen CDU, SPD, Die Grünen und der FDP Fraktion - ungeändert beschlossen
+- TOP 8.2.2: Nord-Süd-Stadtbahn – 3. Baustufe und 4. Baustufe; Antrag der SPD Fraktion - Sache ist erledigt
+- TOP 8.2.2.1: B E A N T W O R T U N G - 3. Baustufe Nord-Süd Stadtbahn und Verlängerung nach Rondorf/Meschenich - Kenntnis genommen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - geändert beschlossen
+- TOP 9.1.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 259. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "PRI & PRI KITA Köln gGmbH" - ungeändert beschlossen
+- TOP 9.2.3: Satzung über eine Veränderungssperre: Industriestraße in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.2.4: Änderung der Zuständigkeitsordnung der Stadt Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 9.2.5: Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln hier: Bonner Straße 478-482, 50968 Köln - ungeändert beschlossen
+- TOP 9.2.6: 3. Nahverkehrsplan der Stadt Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 9.2.7: 3. Baustufe Nord-Süd Stadtbahn / Ergänzender Baubeschluss Großbaumverpflanzungen - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vergabe bezirksdienlicher Mittel, die dem Sport zugutekommen - Kenntnis genommen
+- TOP 10.2.2: Lärmschutzwand GVZ Eifeltor - vorab Information bereits per Mail am 29-03-2017 - - Kenntnis genommen
+- TOP 10.2.3: Prüfung der baulichen Aufstockungsmöglichkeit am Gymnasium Sürther Str. 55; Antrag AN/0198/2017 - Kenntnis genommen
+- TOP 10.2.4: Stadtradeln 2017 - Kenntnis genommen
+- TOP 10.2.5: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 10.2.6: T I S C H V O R L A G E - Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
