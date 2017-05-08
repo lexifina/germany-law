@@ -1,0 +1,80 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212011
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212011
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Guardinistraße 66 - 88, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 6837
+- TOP 7.1.2.: Kornwegerstraße / Ecke Stahleckstraße, 1 Lärche
+- TOP 7.1.3.: Marchioninistraße 15, 2 Spitzahorn, 2 Roteichen, 3 Rosskastanien, 1 Hainbuche und 1 Bergahorn
+- TOP 7.1.4.: Sonnenblumenstraße 31, 1 Feldahorn
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Sofortprogramm Wohnungsbau - Projektvorstellung Neubau Wohnanlage am Stiftsbogen / Kurparkstraße
+- TOP B.: Jugendtreff PfiffTEEN stellt sich vor
+- TOP 1.1.: Verkehrssituation in der Senftenauerstraße
+- TOP 5.1.: Entfernung des Teerbelags auf dem Gehweg beim U-Bahn-Abgang Guardinistraße und Wiederherstellung des ursprünglichen Zustands der durchgehenden Bepflasterung (Baureferat, 19.04.17)
+- TOP 5.2.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., "Power!" Percussionworkshops ab 15.05.2017 (Direktorium, 07.04.17)
+- TOP 5.3.: Budget der Bezirksausschüsse, ergon e.V., Aufwandsentschädigung für die Pflege der Obstbäume (Direktorium, 02.05.17)
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Haderunstraße 37 ggü. / Ecke "Am Hedernfeld" (Kreisverwaltungsreferat, 26.04.17)
+- TOP 6.1.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018 (Sozialreferat, 24.02.17) (vertagt aus 03/17)
+- TOP 6.2.: Auswahl neuer REGSAM-Schwerpunktgebiete ab 2017 (Sozialreferat, 07.03.17) (vertagt aus 04/17)
+- TOP 6.3.: Projektname: ÖPNV Offensive - Senftenauerstraße, Haltestelle Hönigschmidplatz (Baureferat, 08.02.17) (vertagt aus 04/17)
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Änderung des Zeitzusatzes des bereits vorhandenen absoluten Haltverbotes in der Haderunstraße (Kreisverwaltungsreferat, 06.04.17)
+- TOP 6.5.: Verfahren nach § 4 Abs. 2 BauGB, Gemeinde Planegg, Bebauungsplan Nr. 78 mit integrierter Grünordnung "Durchstich Wall an der Röntgen- und Fraunhofer Straße" (Referat für Stadtplanung und Bauordnung, 11.04.17)
+- TOP 6.6.: MVG Rad Stationen im Stadtbezirk 20 (SWM, 18.04.17)
+- TOP 6.7.: Beschlussvorlage: 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" (Referat für Bildung und Sport, 12.04.17)
+- TOP 6.8.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund (Kreisverwaltungsreferat, 19.04.17)
+- TOP 6.9.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Anwohnerstraßenfest in der Windeckstraße zwischen Hohenklingen- und Kornwegerstraße am 01.07.2017 von 15.00 - 22.00 Uhr (Kreisverwaltungsreferat, 26.04.17)
+- TOP 6.10.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund, hier: Straßenfest in der Blumenauer Straße, auf dem Gelände der Pfarrei "Erscheinung des Herrn" und auf dem Vorplatz des Einkaufszentrums am 22.07.2017 von 14.00 - 22.00 Uhr (Kreisverwaltungsreferat, 28.04.17)
+- TOP 6.11.: Veranstaltung auf öffentlichem Verkehrsgrund und in einer städtischen Grünanlage, hier: Anwohnerstraßenfest in der Rolandseckstraße (von Kreuzung Windeck- bis Kreuzung Holzapfelkreutherstraße) am 01. bzw. 02.07.2017 von 14.00 - 23.45 Uhr (Kreisverwaltungsreferat, 27.04.17)
+- TOP 8.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge (Sozialreferat, 31.03.17)
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Ricks Cafe Bar und Restaurant", Blumenauer Straße 4 (Kreisverwaltungsreferat, 03.04.17)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Krokusstraße (Sozialreferat, 30.03.17) - Bramburgstraße (Sozialreferat, 04.04.17)
+- TOP 8.4.: Baumaßnahmen der Stadtwerke München, hier: Ludlstraße, Fernwärme (SWM, 10.04.17)
+- TOP 8.5.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 11.04.17)
+- TOP 9.1.: Zwischennachricht: Anwohnerparken rund um die U-Bahn-Haltestelle "Großhadern", Empfehlung Nr. 645 (Referat für Stadtplanung und Bauordnung, 12.04.17)
+- TOP 9.2.: Mehrjahresinvestitionsprogramm 2017 - 2021, Anhörung der Bezirksausschüsse (Stadtkämmerei, 23.04.17)
+- TOP 9.3.: WC-Gestellung Guardinistraße (Kommunalreferat, Markthallen München, 24.04.17)
+- TOP 10.1.: Nachverdichtung Wastl-Witt-Straße 17 - 27 (GEWOFAG, 04.04.17)
+- TOP 10.2.: Umbau / Neubau Klinikum Großhadern (Klinikum der Universität München, 14.03.17)
+- TOP 11.1.: Protokoll: Aufbau eines öffentlichen Ladesäulensystems für E-Fahrzeuge; 2. Infoveranstaltung am 05.04.2017 (Referat für Arbeit und Wirtschaft, 19.04.17)
+- TOP 11.2.: Woche der Münchner Nachbarschaftstreffs vom 15.05. - 21.05.2017 (GEWOFAG, Wohnforum GmbH, 24.04.17)
+- TOP 11.3.: Regionalgespräche der Bezirksausschüsse 2017 zwischen dem Referat für Stadtplanung und Bauordnung - Lokalbaukommission und den Bezirksausschüssen am 12.07.2017 um 17.00 Uhr (Referat für Stadtplanung und Bauordnung, 24.04.17)
+- TOP 1.1.1.: Beschluss vom 15.03.2017: Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 1.1.2.: Beschluss vom 05.04.2017: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 4.1.: Bekanntgabe im Verwaltungs- und Personalausschuss vom 29.03.2017: Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
