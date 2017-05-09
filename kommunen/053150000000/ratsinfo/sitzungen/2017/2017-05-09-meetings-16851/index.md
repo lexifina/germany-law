@@ -1,0 +1,89 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-09T14:08:00+02:00
+- Ende: 2017-05-09T17:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16851
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16851
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.2: Filmvorstellung: "Karriere mit Domblick im Jugendamt, Imagefilm zur Personalakquise"
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "PRI & PRI KITA Köln gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Mittelverteilung 2017 an die Träger im Ring politischer Jugend Köln - ungeändert beschlossen
+- TOP 2.2.2: Verteilung von Haushaltsmitteln 2017 an den Verein "Kölner Freiwilligen Agentur e. V." und "Deutsches Rotes Kreuz" - ungeändert beschlossen
+- TOP 2.2.3: Städtischer Zuschuss an den Träger "Christliche Sozialhilfe Köln e.V." für die Maßnahme "Stadtteilmütter Mülheim" und Städtischer Zuschuss an den Träger "FIZ e.V." für die Maßnahme "Stadtteilmütter Chorweiler" im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.4: Mittelverteilung an zwei Familienhäuser im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.5: Zuschuss für die Fachberatung von Elterninitiativen und anderen Trägern der freien Jugendhilfe als Träger von Kindertageseinrichtungen im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.6: Förderung von örtlichen Ferienmaßnahmen für Kinder und Jugendliche 2017 - Zuschuss für Ferienhilfswerk, § 16 SGB VIII: - ungeändert beschlossen
+- TOP 2.2.7: Betriebskostenfinanzierung SCHLAU Köln e.V. - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2017/18 - ungeändert beschlossen
+- TOP 2.3.2: Anerkennung einer Kindertagesstätte im Förderbereich Sprachförderung - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung des Spielplatzes Giershausener Weg in Köln-Heimersdorf - ungeändert empfohlen
+- TOP 3.2: Umgestaltung des öffentlichen Spielplatzes Spechtstraße in Köln-Niehl - ungeändert empfohlen
+- TOP 3.3: Umgestaltung Bolz- und Basketballplatz Böcking-Park in Köln-Mülheim - ungeändert empfohlen
+- TOP 3.4: Umgestaltung Bolzplatz Wichheimer Straße in Köln-Buchheim - ungeändert empfohlen
+- TOP 3.5: Neugestaltung Spielplatz Osloer Straße in Köln-Chorweiler - ungeändert empfohlen
+- TOP 3.6: Neugestaltung des Spielplatzes Kopenhagener Straße in Köln-Chorweiler - ungeändert empfohlen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert empfohlen
+- TOP -: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 4.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert empfohlen
+- TOP 4.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert empfohlen
+- TOP 4.4: Offene Ganztagsschule im Primarbereich - bedarfsgerechter Ausbau auf 29.700 Plätze - ungeändert empfohlen
+- TOP 5: Anträge aus der Politik (schriftlich)
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Präventionsarbeit zu sexueller Gewalt in Köln stützen - zurückgestellt
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Kitaplatzmangel beseitigen - endgültig abgelehnt
+- TOP 6: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (s c h r i f t l i c h)
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Kinderfreundliche Kommune Köln - Sache ist erledigt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates AN/0295/2017 "Kinderfreundliche Kommune" - Kenntnis genommen
+- TOP 6.1.2: Wie viele Freiflächen für Graffiti-Künstlerinnen und Künstler gibt es mittlerweile in Köln? - Sache ist erledigt
+- TOP -: Stellungnahme zu AN/0410/2017 Piratengruppe - Graffiti - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Dringend erforderliche Kita-Flächen in Köln - Vergabe von Kita-Flächen - zurückgestellt
+- TOP 6.2.2: Gewaltschutzkonzept für Kölner Flüchtlingsunterkünfte - zurückgestellt
+- TOP 7: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (m ü n d l i c h)
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? - Kenntnis genommen
+- TOP 7.1.2: Barrierefreiheit von Spielplätzen - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Situation von Kindern und Jugendlichen aus suchtbelasteten Familien in Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Partizipation - Darstellung aktueller Konzepte, Standards und Entwicklungen im Amt für Kinder, Jugend und Familie (Stand Februar 2017) - Kenntnis genommen
+- TOP 8.4.2: Köln-Ferienprogramm 2017 - Kenntnis genommen
+- TOP 8.4.3: Jugendtreff in Köln-Dellbrück - Kenntnis genommen
+- TOP 8.4.4: Streetwork und Jugendarbeit am Rheinboulevard - Kenntnis genommen
+- TOP 8.4.5: Lehrkräfte der Freiluga - Kenntnis genommen
+- TOP 8.4.6: Umsetzung der neuen Richtlinien zur Förderung der Offenen Kinder- und Jugendarbeit und der kultur- und medienpädagogischen Einrichtungen in Köln - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Beantwortung der Anfrage der SPD-, CDU-, FDP-Fraktionen sowie der Fraktionen Bündnis 90/Die Grünen und Die Linke zum Thema "Stadtteileltern und Stadtteilmütterprojekte in Vingst/Höhenberg und Rondorf/Meschenich" (AN/2011/2016) - Kenntnis genommen
+- TOP 8.5.2: Berichtswesen Dezernat IV - Teilbericht Jugendhilfeausschuss 2016 - Kenntnis genommen
+- TOP 8.5.3: Fensterreinigung an Schulen - Kenntnis genommen
+- TOP 8.5.4: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2016 und Kölner Sprachfest 2017 - Kenntnis genommen
+- TOP 8.5.5: Jahresbericht 2016 - Kenntnis genommen
+- TOP 8.5.6: Stadtradeln 2017 - Kenntnis genommen
+- TOP 8.5.7: Inanspruchnahme der Familienberatungsstellen in Köln in freier und kommunaler Trägerschaft durch Ratsuchende im Jahr 2016 - Kenntnis genommen
+- TOP 8.5.8: Neue Version der Kölner Service-APP - Kenntnis genommen
