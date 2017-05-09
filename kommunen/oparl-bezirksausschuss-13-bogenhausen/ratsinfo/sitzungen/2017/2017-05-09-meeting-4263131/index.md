@@ -1,0 +1,118 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Nichtöffentlicher Teil (vertagt am 11.04.2017)
+- TOP 2.2.7.: Turfstr. 1b: Anbau an eine Doppelhaushälfte (Haus 3, Haus-Nr. 1b) / Lückenschluss zu Haus-Nr. 1c - Vorbescheid
+- TOP 2.2.8.: Johanneskirchner Str. 11: Neubau eines Einfamilienhauses
+- TOP 2.2.9.: Cosimastr.: Neubau einer Wohnanlage mit geförderten Wohnungen einschl. Gemeinschaftsraum, Tiefgarage und eines Haus für Kinder in Holz (hybrid) bauweise im Rahmen einer ökologischen Mustersiedlung (Cosima- / Jörg-Hube-Str.)
+- TOP 2.2.10.: Oberföhringer Str. 50: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.11.: Spervogelstr. 4: Neubau eines Wohngebäudes (3 WE) - Vorbescheid
+- TOP 2.2.12.: Pienzenauerstr. 37: Neubau eines Wohnhauses mit Schwimmbad - Vorbescheid
+- TOP 2.2.13.: Alsenweg 13: Umbau, Sanierung und Nutzungsänderung: Einfamilienhaus zu Großtagespflege sowie Errichtung einer Dachgaube
+- TOP 2.2.14.: Kattowitzer Str. 25: Neubau dreier Doppelhäuser und eines Mehrfamilienhauseses mit Tiefgarage - Vorbescheid
+- TOP 2.2.15.: Flaschenträgerstr. 7: Neuerrichtung eines Gebäudes mit 22 WE und 1 Laden, 4 Stadthäusern sowie einer Tiefgarage (30 Stpl.) - Vorbescheid (Flaschenträgerstr. 7 / Freischützstr. 20 + 22 / Robert-Heger-Str.) - Genehmigungsverlängerung
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.1.: Busanpassungsnetz Tram Steinhausen - Diskussion mit MVG-Vertreter
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.1.: Öffentliche Grunfläche Pühnstraße - Präsentation des Gartenbauamts
+- TOP 2.6.6.: Stadtgestaltung im Prinz-Eugen-Park - Vorstellung des Baureferats (vertagt am 11.04.2017)
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.2.: Integriertes Strukturkonzept Münchner Nordosten - Empfehlungen der Bürgerversammlung des 13. Stadtbezirkes am 27.10.2016; Anhörung des Referats für Stadtplanung und Bauordnung vom 27.02.2017 (Fristverlängerung bis 10.05.2017 gewährt)
+- TOP 2.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.4.: Vorhabenbezogener Bebauunsplan mit Grünordnung, Arabellastr. 26 - 28 (Teiländerung des Bebauungsplan Nr. 3 c, 8. Teilbereich) - Einleitungs- und Aufstellungsbeschluss -; Anhörung des Referats für Stadtplanung und Bauordnung vom 19.04.2017
+- TOP 2.2.5.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 2.2.6.: Hohenlindener Str. 5: Neubau eines Proben- und Werkstättenzentrums – Vorbescheid (Hohenlindener Str. 5 / Riedenburger Str. 12)
+- TOP 2.2.16.: Widderstr. 2 + 2a: Neubau eines Wohnhauses – Vorbescheid (Variante 1)
+- TOP 2.2.17.: Widderstr. 2 + 2a: Neubau eines Wohnhauses – Vorbescheid (Variante 2)
+- TOP 2.2.18.: Widderstr. 2 + 2a: Neubau zweier Wohnhäuser – Vorbescheid (Variante 3)
+- TOP 2.2.19.: Allensteiner Str. 5 +7: Neubau eines Gemeindezentrums mit Wohnungen und eines Wohngebäudes – Vorbescheid
+- TOP 2.3.2.: MVG-Leistungsprogramm 2018 für Fahrplanwechsel am 10.12.2017; Anhörung der MVG vom 30.03.2017
+- TOP 2.3.3.: (E) Prüfauftrag: "Open space" in der Oberföhringer Straße zwischen Lohengrinstraße und Cosimastraße (Nur Ziff.1)
+- TOP 2.3.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Beschluss des Bezirksausschusses des Stadtbezirkes 13 vom 11.04.2017, hier: Antrag für ein Zeitungsentnahmegerät an der Hochstiftsweg 4
+- TOP 2.3.5.: Feuerwehranfahrt Wildrosenweg; Anhörung des Kreisverwaltungsreferats vom 18.04.2017
+- TOP 2.3.6.: Eggenfeldener Straße; Einrichtung eines Fußgängerüberweges; Anhörung des Kreisverwaltungsreferats vom 20.04.2017
+- TOP 2.3.7.: Sachstand MVG Rad Stationen im BA 13; Schreiben der SWM vom 18.04.2017 - Bitte um Rückmeldung
+- TOP 2.3.8.: Ablehnende Haltung zu den Planungen für eine Busspur auf der Prinzregentenstraße
+- TOP 2.3.9.: Ablehnende Haltung zur Einrichtung einer Busspur auf der Denninger Straße
+- TOP 2.3.10.: Ausarbeitung eines modernen Beleuchtungssystems mit Einsatz von LED-Straßenleuchten im Neubaugebiet "Prinz-Eugen-Park"
+- TOP 2.3.11.: Misere mit der Tram 25
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Kantorei Immanuel-Nazareth Konzert am 08.10.2017 Az. 0262.0-13-0144
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse SG Schwabing München Nord e.V. Schachturnier am 09.07.2017 Az. 0262.0-13-0146
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Verein für Stadtteilkultur im Münchner Nordosten e.V. Versammlung zum Thema "Baut das 13er Kulturbürgerhaus jetzt!" am 05.05.2017 Az. 0262.0-13-0145
+- TOP 2.4.4.: (E) Budget der Bezirksausschüsse Christophorus Hospiz Verein e.V. München Sommerfest am 01.07.2017 Az. 0262.0-13-0147
+- TOP 2.4.5.: 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen (Beschlussentwurf); Anhörung des Direktoriums vom 06.02.2017
+- TOP 2.5.1.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017 Anlage - Beschlussvorlage (Entwurfsstand 11.04.2017) - Anlage zur Beschlussvorlage (Kurzberichte, Kurzbeschreibungen) - Kopien der Stadtrats- und Bezirksausschussanträge sowie Bürgerversammlungsempfehlungen Entwurfsstatus: Abstimmung mit den Referaten Frist zur Rückmeldung: 26.05.2017
+- TOP 2.5.2.: Immobiliensuche für ein Kita-Projekt; Schreiben des Coworking Toddler München vom 31.03.2017
+- TOP 2.5.3.: Ausschreibung: Einsatz des Kinder-Aktions-Koffer 2017/2018 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung; Anhörung des Sozialreferats vom 24.02.2017
+- TOP 2.5.4.: Einschulung Ruth-Drexel-Schule / Knappertsbuschstraße – Bitte um Diskussion (keine Unterlagen vorhanden), (vertagt am 11.04.2017)
+- TOP 2.5.5.: Bau eines Kinderspielplatzes im Grüntal
+- TOP 2.6.2.: Baumfällungen (Anhörungen): - Pienzenauerstr. 37: lt. Plan - Titurelstr. 5 - 9: lt. Plan - Leisnerweg 6: lt. Plan - Kattowitzer Str. 25: lt. Plan - Morgenrothstr. 3: 1 Fichte - Hugo-von-Hofmannsthal-Str. 5: 4 Fichten - Memelerstr. 110: mehrere Bäume
+- TOP 2.6.3.: Baumfällungen (Unterrichtungen): Tilsiter Str. 8 (lt. Bescheid), Saalestr. 1 (lt. Bescheid), Fürkhofstr. 17 (lt. Bescheid), Schwarzwaldstr. 5 (lt. Bescheid), Berberstr. 10 (1 Fichte), Englschalkinger Str. 266 (2 Bäume), Erchanbertstr. 4 (1 Thuje), Jankstr. 4 (1 Thuje)
+- TOP 2.6.4.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund - Beteiligung aller Bezirksausschüsse Termin 12.05.2017
+- TOP 2.6.5.: Baumschutz in München ist Klimaschutz für München, Die Münchner Bezirksausschüsse handeln – jetzt; Schreiben des BUND Naturschutz in Bayern e. V. Vom 20.12.2016 (vertagt vom 17.01.2017, 14.02.2017 und 14.03.2017)
+- TOP 5.1.: Veranstaltung in städtischen Grünanlagen; Flohmarkt "Die Igelfamilie" am 20.05.2017 (Ersatztermin: 24.06.2017) im Bürgermeistergarten, Ismaninger- / Ecke Händelstr.; Anhörung des Kreisverwaltungsreferats vom 11.04.2017
+- TOP 5.2.: Gastspielanfrage: Festival der Marionetten vom 04.17 - 18.07.2017; Anhörung des Kommunalreferats vom 27.03.2017
+- TOP 6.1.: Verwahrloste Hütten im Schlössl in der Odinstraße
+- TOP 6.2.: Beibehaltung der bisherigen Form des Umgangs mit den Anfragen der Presse
+- TOP 6.3.: Baumaßnahme Holbeinstr. 14; Stellungnahme des Kreisverwaltungsreferats vom 10.04.2017
+- TOP 6.4.: Fahrradweg Herkomerlatz - Unterföhring Empfehlung Nr. 14-20 / E 01216 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 27.10.2016 Beschluss des Bezirksausschusses 13 vom 14.02.2017 Sitzungsvorlage Nr. 14-20 / V 07949 Zwischennachricht
+- TOP 6.5.: Neue Gestaltung des Europaplatzes
+- TOP 7.1.1.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 7.1.2.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 7.3.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau, Verlängerung; Schreiben des Referats für Gesundheit und Umwelt
+- TOP 7.5.1.: Vollzug der Grünanlagensatzung vom 15.06.2012; Baustelleneinrichtung an der Ismaninger Str. 95
+- TOP 7.7.1.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 7.7.2.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 7.7.3.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch; Osserstr. 22 vorher: 438 m² bzw. 3 WE, geplant: 608 m² bzw. 3 WE
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch; Daglfinger Str. 53 vorher: 157 m² bzw. 1 WE, geplant: 345 m² bzw. 3 WE
+- TOP 7.11.1.: Mehrjahresinvestitionsprogramm 2017 - 2021 - Anhörung der Bezirksausschüsse; Abdruck von der Weiterleitung der Stellungnahme an Referat für Bildung und Sport vom 19.04.2017
+- TOP 7.14.1.: Information der Bezirksausschüsse Neue Bädereintrittspreise
