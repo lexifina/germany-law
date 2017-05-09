@@ -1,0 +1,95 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-05-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 12.04.17
+- TOP 1.4.2.: Protokoll UA Kultur vom 25.04.17
+- TOP 1.4.3.: Protokoll UA Familie, Bildung und Soziales vom 11.04.17
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 2.2.1.: Projekt Wohnen für Alle Franz-Albert-Straße (incl. Unterschriftenliste)
+- TOP 2.2.2.: Baustellenschild Parrotstraße
+- TOP 2.2.3.: Basketballanlage Megerlestraße
+- TOP 3.1.: Zahlen zur Bedarfsermittlung für das Betreuungsangebot
+- TOP 4.1.: (E) Budget der Bezirksausschüsse TSV Allach 09 Turnen und Handball e.V. Internationales deutsches Turnfest in Berlin vom 03. - 09.06.2017 Az. 0262.0-23-0088
+- TOP 4.2.: (E) Budget der Bezirksausschüsse TSV Allach 09 Jugendturnier am 15./16.07.2017 Az. 0262.0-23-0089
+- TOP 4.3.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.17 über die Projektplanung Projektnahme: Eversbuschstr. 206-208 Projekt-Nr.: 100812
+- TOP 4.4.: (E) Budget der Bezirksausschüsse Green City e.V. 2. Auflage der Aktionsflyer für die Aktion „1200 Quadratmeter mehr Grün für Menzing“
+- TOP 5.1.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/37 Pasteurstraße (südlich), Georg-Reismüller-Straße (östlich), Bahnlinie MÜnchen-Treuchtlingen (westlich) und Bebauungsplan mit Grünordnung Nr. 2103 Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich), imaginäre östliche Verlängerung der Höcherstraße (nördlich) (Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) - Diamalt-Gelände-
+- TOP 5.2.: Gewerbeflächenentwicklungsprogramm
+- TOP 5.3.: MVG-Leistungsprogramm 2018
+- TOP 5.4.: Austausch Lichtsignalanlage Mederer-/Von-Kahr-Str.
+- TOP 5.5.: REGSAM-Schwerpunktgebietsauswahl 2017-2019
+- TOP 5.6.: Ausbau der Menzinger Straße (BA-Antrag Nr. 02995 vom 08.11.16)
+- TOP 5.7.: Beschlussvorlage Referat für Bildung und Sport: 2.Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP 5.8.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Grund
+- TOP 5.9.: Nachtrag eines historischen Gebäudes in die Denkmalliste Eversbuschstr. 159, Fl.Nr. 79/0, Gemarkung Allach
+- TOP 5.10.: Neubau eines Doppel- und eines Einfamilienhauses mit Garagen - Tektur Behringstr. 109a, Gemarkung: Allach, Fl.Nr. 186/0
+- TOP 5.11.: Umbau eines Mehrfamilien- und Geschäftshauses mit Aufstockung Dachgeschoss - Vorbescheid Eversbuschstr. 133, Gemarkung: Allach, Fl.Nr. 119/10
+- TOP 5.12.: Umbau und Nutzungsänderung eines Laborgebäudes in ein Arbeiterwohnheim, befristet auf 2 Jahre Georg-Reismüller-Str. 40, Gemarkung: Allach, Fl.Nr.: 1027/0
+- TOP 5.13.: Neubau einer Hotelerweiterung mit Tiefgarage sowie Umbau des Bestands Eversbuschstr. 192a und Vollzug der BaumschutzVO
+- TOP 5.14.: Nutzungsänderung: Stall und Scheune zu Wohnhaus (Var. 2) mit Errichtung einer Tiefgarage (Var. 1) bzw. Stall und Scheune zu Wohnhaus mit Errrichtung einer Tiefgarage und 3er Reihenhäuser unter Abbruch der beiden rückwärtigen Scheunen (Var. 3) - VORBESCHEID Eversbuschstr. 151,Gemarkung: Allach, Fl.Nr.: 86/0
+- TOP 5.15.: Geb. 006: Umbau und Erweiterung der Feuerwache Dachauer Str. 665, Gemarkung: Ludwigsfeld, Fl.Nr.: 1409/0
+- TOP 5.16.: Neubau eines Einfamilienhauses mit Keller und Einzelgarage Augustenfelder Str. 7,Gemarkung: Allach, Fl.Nr.: 587/5
+- TOP 6.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 6.2.: (U) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/39 Theodor-Fischer-Straße (südlich), Pasinger Heuweg (östlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 23 Allach-Untermenzing
+- TOP 6.3.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 6.4.: (U) Kraftfahrzeug Stellplätze in Wohngebieten in bedarfsgerechter Anzahl Empfehlung 14-20 / E 01180 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem vom 06.10.2016
+- TOP 6.5.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 6.6.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.7.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.8.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 6.9.: (U) Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch im 10. Stadtbezirk Moosach und im 23. Stadtbezirk Allach - Untermenzing Erstmalige Herstellung hier: Maßnahmen der Bauphase 2 Projektkosten (Ausführungskosten): 3.400.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH: 1.900.000 € (brutto)) Ausführungsgenehmigung
+- TOP 7.1.: Änderung von Hinweisschildern auf der A 99 und A 8
+- TOP 7.2.: Ausschreibung Kinder-Aktions-Koffer-Einsatz 2017/2018
+- TOP 7.3.: Einladung AKIM zur Information und Vernetzung am 17.05.17, 17:00-20:00 Uhr
+- TOP 7.4.: Bürgerversammlung am 27.06.17 in der Aula des Louise-Schroeder-Gymnasiums (Pfarrer-Grimm-Str. 1, 80999 München), Beginn 19:00 Uhr
+- TOP 7.5.: Spielen in der Stadt e.V.
+- TOP 7.6.: BA-Infoveranstaltung des Sozialreferates am 22.05.17
+- TOP 7.7.: Regionalgespräche LBK am 12.07.17
+- TOP 7.8.: Fahrbahnmarkierung Allacher Straße
+- TOP 9.1.: Schreiben Oberbürgermeister vom 29.03.17: Einrichtung eines absoluten Haltverbots in der Höcherstraße, Westseite
+- TOP 9.2.: Schreiben Oberbürgermeister vom 21.04.17: Erhöhung der Verkehrssicherheit in der Naglerstraße
+- TOP 9.3.: Schreiben Direktorium vom 06.04.17: Neubau eines Eisstadions West - Untersuchung der Flächenpotentiale Stadtratsantrag Nr. 03032
+- TOP 9.4.: Schreiben Direktorium vom 04.04.17: Raumprobleme bei der Grundschule an der Manzostraße lösen Stadtratsantrag Nr. 03017
+- TOP 9.5.: Schreiben Direktorium vom 27.03.17: TSV Allach 09, Zuwendung aus dem Budget der Bezirksausschüsse Hier: Erneuerung der Heizungsanlage
+- TOP 9.6.: Schreiben Direktorium vom 21.04.17: Digitale Dokumente in Alfresco
+- TOP 9.7.: Schreiben Baureferat vom 06.04.17: Lochhausener Straße Radweg zw. Haus Nr. 21 und Mühlangerstraße
+- TOP 9.8.: Schreiben Sozialreferat vom 31.03.17: Übersicht Unterkünfte Wohnungslose und Flüchtlinge
+- TOP 9.9.: Schreiben Sozialreferat vom 12.04.17, 19.04.17: Antrag auf Zweckentfremdung: St.-Johann-Str., Prantlstr.
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (27.03.-02.04.17, 03.04.-09.04.17, 10.04.-16.04.17, 17.04.-23.04.17)
+- TOP 9.11.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Hier Einzelfällungsanträge: LSG Würmniederung, Krauss-Maffei-Str. 2, Servetstr. 1
+- TOP 9.12.: Schreiben Stadtwerke München vom 03.04.17, 10.04.17, 18.04.17: Baumaßnahmen
+- TOP 9.13.: Schreiben Stadtwerke München vom 11.04.17: Information über neue Bädereintrittspreise
+- TOP 9.14.: Schreiben Referat für Arbeit und Wirtschaft vom 19.04.17: Aufbau eines öffentlichen Ladesäulensystems für E-Fahrzeuge; Protokoll der 2. Infoveranstaltung am 05.04.17
+- TOP 9.15.: Schreiben Referat für Arbeit und Wirtschaft vom 24.04.17: Warum wird bei der Donner-Tram so langsam reagiert Stadtrats-Antrag Nr. 00841
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 29.03.17: Positivnetz Gigaliner für Stadtbezirk 23
+- TOP 9.17.: Schreiben Referat für Gesundheit und Umwelt vom 18.04.17: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) Asphalt-Mischanlage Paul-Ehrlich-Weg 130 hier: Änderungsgenehmigung Austausch Bitumentankanlage
+- TOP 9.18.: Schreiben Arbeitskreis Attraktiver Nahverkehr vom 17.04.17: Stellungnahme zum Leistungsprogramm der MVG für 2018
+- TOP 9.19.: Schreiben Wohnforum GmbH vom 24.04.17: Woche der Münchner Nachbarschaftstreffs
+- TOP 9.20.: Schreiben Firma Wowobau vom 13.04.17: Feinstaubbelastung und Verschmutzung Eversbuschstraße
+- TOP 9.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.04.17: Willstätterstr. 19, Fl.Nr. 84/0, Gemarkung Untermenzing
+- TOP 9.22.: chreiben Kreisverwaltungsreferat vom 28.04.17: Busumleitung Haltestelle Vesaliusstraße
