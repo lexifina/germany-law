@@ -1,0 +1,138 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2017-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4114354
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4114354
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 1.: Anträge
+- TOP 2.1.1.: entfällt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.4.: Kinder- und Bürgerfest 2017
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Situation auf dem Josephsplatz, Schreiben eines Bürgers aus der Maxvorstadt vom 21.03.2017
+- TOP 5.2.2.: Bürgeranliegen, Radfahrerampel an der Kreuzung Nymphenburger-/Ecke Adamstraße
+- TOP 5.2.3.: Anfrage einer Bürgerin aus der Maxvorstadt vom 20.03.2017; Straßenschäden im südlichen Teil der Theresienstraße vertagt aus der Sitzung vom 04.04.2017 Unterlagen liegen bereits vor
+- TOP 5.2.4.: Schreiben eines Bürgers aus der Maxvorstadt vom 05.03.2017; Baumfällungen im Zusammenhang mit der Erweiterung eines Studentenwohnheimes vertagt aus der Sitzung vom 04.04.2017, TOP A 5.2.1 Unterlagen liegen bereits vor
+- TOP 5.2.5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 14.03.2017 Verkehrskontrollen Maxvorstadt: Zahlen Radfahrer und Autofahrer
+- TOP 5.2.6.: Schreiben einer Bürgerin aus der Maxvorstadt vom 24.04.2017 Sauberkeit Königsplatz, Brienner Straße und Luisenstraße
+- TOP 6.1.: Antwort des Kreisverwaltungsreferates zu einer Bürgeranfrage aus der Sitzung vom 14.03.2017
+- TOP 6.2.: Ampeln in der Winzererstraße abbauen
+- TOP 6.3.: BA-Antrag Nr. 14-20 / B 01295 vom 16.06.2015, Antwortschreiben Fassadenbegrünung am ehemaligen Heizkraftwrk Theresienstraße 36
+- TOP 6.4.: Ökologische Kriterien beim Bau des Referates für Gesundheit und Umwelt, Dachauer Straße 90, einplanen und umsetzen, Zwischennachricht des Kommunalreferats zum BA-Antrag Nr. 14-20 / B 03268 vom 07.02.2017
+- TOP 6.5.: Einführung Tempo 30 in der Sandstraße Zwischennnachricht des Kreisverwaltungsreferats zum BA-Antrag Nr. 14-20 / B 0311 vom 15.11.2016
+- TOP 6.6.: Unterführung am Oskar-von-Miller-Ring als Kreativraum für Jugendliche nutzen statt zuschütten!
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag der SPD-Fraktion vom 16.04.2017 Gestaltung der Freiflächen der Pinakothek der Moderne an Türken- und Gabelsbergerstraße
+- TOP 1.2.: entfällt
+- TOP 1.3.: Antrag der Fraktion Bündnis 90/Die Grünen vom 16.04.2017 Gestaltung der Außenflächen der Pinakothek der Moderne als ersten Vertiefungsbereich festlegen und umsetzen
+- TOP 2.1.1.: Baulisten der LBK
+- TOP 2.1.2.: WEB Listen der LBK
+- TOP 2.1.3.: Augustenstraße 4, Neubau eines Rückgebäudes - Vorbescheid
+- TOP 2.1.4.: Schleißheimer Straße 38 Neubau zweier Mehrfamilienhäuser mit einer gemeinsamen TG (Hinterhofbebauung) -Vorbescheid -
+- TOP 2.1.5.: Kreittmayrstsraße 1 - Vorbescheid; Umbau dreier DG-Wohnungen im VGB zu zwei Wohnungen mit Spietzbodenerweiterung, Abbruch der Garagengebäude, errichtung eines Rückgebäudes mit garagaennutzung im EG sowie einer wohnung im darüber liegenden 1. u. 2. OG vertagt aus der Sitzung vom 04.04.2017 Unterlagen liegen bereits vor (vgl. dazu Stellungnahme des Amtes für Wohnen und Migration unter TOP B 5.5)
+- TOP 2.1.6.: Referat für Stadtplanung und Bauordnung; Denkmalschutzeigenschaft für Königinstraße 26
+- TOP 2.1.7.: Referat für Stadtplanung und Bauordnung Erlass einer Erhaltungssatzung "Josephsplatz" - Entwurf
+- TOP 3.1.1.: Linprunstraße 5, Neubau zweier Wohngebäude mit Tiefgarage, Stellplatzablöse
+- TOP 3.2.1.: Schleißheimer Straße 100, eine Weichsel
+- TOP 3.2.2.: Heßstraße 61, eine Weide
+- TOP 3.2.3.: Baumfällung Isabellastraße 5-9, eine Steinweichsel
+- TOP 3.3.1.: Städtische Förderprogramme Innenhof-, Dach- und Fassadenbegrünung Informationsveranstaltung in der Maxvorstadt Vorstellung der Programme im UA sowie Festlegung von Termin und Ort für die öffentliche Veranstaltung
+- TOP 5.1.: Linprunstraße 6 Modernisierungsmaßnahmen im Erhaltungssatzungsgebiet
+- TOP 5.2.: NaturKulturPfad Heßstraße Projektförderung für Urbanes Wohnen
+- TOP 5.3.: (U) Bebauungsplan mit Grünordnung Nr. 2093 Deroystraße (westlich), Arnulfstraße (nördlich), Marsstraße (östlich und südlich) (Änderung des Bebaungsplanes Nr. 945) - Steuerzentrum - - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 3 Maxvorstadt
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Sozialreferat, Amt für Wohnen und Migration Stellungnahme zur Zulässigkeit des Bauvorhabens Kreittmayrstraße 1 im Erhaltungssatzungsgebiet (vgl. TOP B 2.6)
+- TOP 5.6.: Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildsschutz Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 03.05.2017 Sitzungsvorlage Nr. 14-20 / V 08592
+- TOP 5.7.: Maßnahmenkonzept für klimaangepasstes Bauen Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 03.05.2017 Sitzungsvorlage Nr. 14-20 / V 08381
+- TOP 5.8.: Erhalt der historischen Gebäude der Tierärztlichen Fakultät am Englischen Garten und Einbeziehung der historischen Gebäude in die Neubauplanung Neufassung der Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 03.05.2017 Sitzungsvorlage Nr. 14-20 / V 05035
+- TOP 5.9.: Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035 Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 03.05.2017 Sitzungsvorlage Nr. 14-20 / V 08415
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der SPD-Fraktion vom 17.04.2017 Sofortmaßnahmen rund um den Stiglmaierplatz
+- TOP 1.2.: Antrag der Fraktion Bündnis 90/Die Grünen vom 17.04.2017 Baumpflanzungen bei Abbau von Ampeln und Umbau der Kreuzung
+- TOP 1.3.: Antrag der Fraktion Bündnis 90/Die Grünen vom 16.04.2017 Vertiefungsbereich Masterplan - MVG Fahrradstation in der Arcisstraße
+- TOP 1.4.: Bereitstellung weiterer Abstellmöglichkeiten für Fahrräder vor der Technischen Universität
+- TOP 1.5.: Antrag der FDP-Fraktion vom 20.04.2017 Grüner Pfeil für Radler
+- TOP 1.6.: Antrag der CSU-Fraktion im BA 3 vom 10.04.2017 Platz am Fischmarktbrunnen attraktiver gestalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.2.: MVG-Leistungsprogramm 2018
+- TOP 2.1.3.: Kreisverwaltungsreferat, Anhörung Karlstraße 36, Ladezone, eingeschränktes Haltverbot
+- TOP 2.1.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 3 Maxvorstadt Widmungserweiterung der Ostseite des Josephsplatzes Umstufung der Südseite des Josephsplatzes
+- TOP 2.2.1.: AZ Zeitungsentnahmegeräte, div. Standorte
+- TOP 2.2.2.: Türkenstraße 78, Sondernutzung, Fahrradständer
+- TOP 2.2.3.: Rundfunkplatz 1, eine Zeitungsverkaufseinrichtung
+- TOP 2.2.4.: Türkenstraße 27, Sondernutzung
+- TOP 2.2.5.: Stadtwerke MVG MVG Radstationen: Anhörung zu den Standortvorschlägen Sandstraße/Maßmannstraße 1, Hochschule München, Pinakotheken/Barer Straße, Deroystraße 22, Königin-/Veterinärstraße
+- TOP 2.2.6.: Brienner Straße 14, Zeitungsentnahmegerät
+- TOP 2.3.1.: Augustenstraße 4 rechts, Genehmigung einer Freischankfläche
+- TOP 2.4.1.: Culinary Summer Festival vom 23.06. bis 25.06.2017
+- TOP 2.4.2.: Radlnacht 2017
+- TOP 2.4.3.: Kreisverwaltungsreferat, Anhörung Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.4.4.: Streetlife Festival / Corso Leopold mit BioErleben am 20. und 21.05.2017 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zeitungsentnahmegeräte an div. Standorten; Entscheidung des Oberbürgermeisters
+- TOP 3.2.: Kreisverwaltungsreferat, Arbeiten im Straßenraum Ludwigstraße 29, Seite Adalbertstraße Ludiwgstraße 28 und nördl. Zufahrt Professor-Huber-Platz 2 und Geschwister-Scholl-Platz 1
+- TOP 3.3.: Baumaßnahmen Stadtwerke Amalienstraße 95, Fernwärme Max-Joseph-Straße, Fernwärme Ottostraße, Fernwärme Oskar-von-Miller-Ring, Fernwärme
+- TOP 3.4.: Referat für Gesundheit und Umwelt,Arbeiten im Straßenraum, Ausnahmezulassung Dachauer-/Lothstraße
+- TOP 3.5.: MVG; Betriebskonzept während des Umbaus am U-Bahnhof Sendlinger Tor (U1/U2)
+- TOP 3.6.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Grete-Mosheim-Straße
+- TOP 3.7.: Kreisverwaltungsreferat, Arbeiten im Straßenraum Arnulf-/Luisenstraße, Bahnhofplatz 1
+- TOP 3.8.: Kreisverwaltungsreferat Anzeige eines nicht genehmigungspflichtigen Feuerwerks am 19.05.2017 in der Sophienstraße 28
+- TOP 3.9.: (U) Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhaltepunkt Donnersbergerbrücke im 3. Stadtbezirk Maxvorstadt, im 8. Stadtbezirk Schwanthalerhöhe und im 9. Stadtbezirk Neuhausen - Nymphenburg Projektkosten (Kostenobergrenze): für Brückenkonstruktion 13.700.000 € für Erschließungsanlagen 4.300.000 € für Eingriffe in Bahnbetrieb und -anlagen 4.000.000 € 1. Projektgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 3.10.: Einführung einer zusätzlichen Straßenreinigungsklasse 1+ a) Änderung der Straßenreinigungsgebührensatzung Gebühr für zusätzliche Reinigungsklasse 1+ ab 01.01.2018 b) Änderung der Straßenreinigungssatzung - Anschlussverzeichnis Sitzungsvorlage Nr. 14-20 / V 08088 Beschluss des Bauausschusses vom 02.05.2017
+- TOP 3.11.: Kreisverwaltungsreferat, Arbeiten im Straßenraum Verlegen einer Fernwärmeleitung am Oskar-von-Miller-Ring und in weiteren Straßen
+- TOP 3.12.: (U) Altstadtring Nordwest Sicherheitsnachrüstung Altstadtringtunnel Straßenumbau Oskar-von-Miller-Ring und Von-der-Tann-Straße Projektkosten (Kostenobergrenze): 84,7 Mio. € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 200.000 € (brutto)) 1. Projektgenehmigung 2. Änderung des Mehrjahresinvestitionsprogrammes 2016 - 2020
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der SPD-Fraktion vom 21.04.2017 Finanzielle Unterstützung des "Spielen in der Stadt e.V." Appell des BA an den Stadtrat
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Spielen in der Stadt e.V. Spielbus "Zirkus Pumpernudl" vom 12.07. - 14.07.2017 und Wasserspielmobil vom 30.07. - 01.08.2017 Az. 0262.0-3-0167
+- TOP 2.2.: Referat für Bildung und Sport; Beschlussvorlage für den Bildungsausschuss am 22.02.2017, Errichtung eines Hausses für Kinder an der Katharina-von-Bora-Straße 8 a
+- TOP 2.3.: Referat für Bildung und Sport 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Hallenbad- Freibadöffnungszeiten, Beschlussvorlage
+- TOP 4.2.: Neue Bädereintrittspreise ab 01.05.2017 Information der Stadtwerke Bäder für die Bezirksausschüsse
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der CSU-Fraktion vom 10.04.2017 Kunstareal-Ticket auf den Weg bringen!
+- TOP 1.2.: Antrag der CSU-Fraktion vom 10.04.2017 Ein eigenes Haus für die Staatliche Graphische Sammlung München
+- TOP 1.3.: Antrag der CSU-Fraktion vom 10.04.2017 Budget für mindestens eine Vollzeitstelle für die "Koordinierungsstelle Kunstareal" verstetigen und Verbleib im Kunstareal sicherstellen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP F.2.: Referat für Stadtplanung und Bauordnung; Sponsoring des Altstadtmodells der Landeshauptstadt München
+- TOP F.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: UA Planung und Umwelt 03.05.2017, 19.30 Uhr, Bürgerbüro, Schellingstraße 28 a UA Verkehr und öffentl. Raum 04.05.2017, 19.00 Uhr, Bürgerbüro, Schellingstraße28 a UA Soziales und Bildung 02.05.2017, 19.30 Uhr, Nachbarschaftstreff Arnulfpark, Helm- holtzstraße 15 UA Kultur, 02.05.2017, 19.00 Uhr, Görreshof, Görresstraße 38, 80798 München Die nächste Sitzung des Bezirksausschusses 3 findet am Dienstag, 20.06.2017 um 19.30 Uhr im Arkadensaal der BayernLB, Oskar-von-Miller-Ring 3 statt.
+- TOP G: Nicht öffentliche Sitzung
