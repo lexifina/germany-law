@@ -1,0 +1,59 @@
+# öffentliche / nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-05-09T16:05:00+02:00
+- Ende: 2017-05-09T17:52:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12831
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12831
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand:28.04.2017) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00205773.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00207013.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Gebeäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2016 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2015/2016 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2015/2016 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2017/2018 - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Bestellung eines Mitglieds für den Aufsichtsrat der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.2: Erhöhung der unmittelbaren Beteiligung an der Wendepunkt - Wuppertaler Krisendienst GmbH - ungeändert beschlossen
+- TOP 3.3: Bestellung eines Abschlussprüfers für die Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 3.4: Beteiligungsbericht 2015 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Finco-Bericht zum 31.03.2017 - Entgegennahme ohne Beschluss
+- TOP 5.2: Stand der Schulden und Kassenkredite zum 31.03.2017 - Entgegennahme ohne Beschluss
+- TOP 5.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 5.4: Investitionspakt Soziale Integration im Quartier NRW 2017 - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Einbringung und Verabschiedung des Haushaltsplanes 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 6.2: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2016 - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Wirtschaftliche Entwicklung der GWG - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 7.2: Auswahlverfahren für Veranstalter von Weihnachtsmärkten - ungeändert beschlossen
+- TOP 7.3: Zukünftige Nutzung und Gestaltung des Carnaper Platzes - ungeändert beschlossen
+- TOP 7.4: Projekt Seilbahn - Grundsatzbeschluss - vertagen
+- TOP 7.5: Verlagerung des WSV-Fußballjugendleistungszentrums von der Nevigeser Str. zum Stadion und Sportplatz Nocken - ungeändert beschlossen
+- TOP 7.5.1: Ergebnis des Höchstgebotsverfahrens für den Verkauf des Grundstückes an der Nevigeser Str. - Ergänzung zur Vorlage VO/0233/17 - Verlagerung des WSV-Fußballleistungszentrums - Entgegennahme ohne Beschluss
+- TOP 7.6: Vereinbarung zur Erhaltung des Tunnels Schee - ungeändert beschlossen
+- TOP 7.7: Weiterentwicklung Historisches Zentrum –Sanierung und Restaurierung des Engels-Hauses und Neubau eines Besucherzentrums (Ankerpunkt China NRW) - ungeändert beschlossen
+- TOP 7.8: Einigungsstelle der Stadtverwaltung Wuppertal (§ 67 Landespersonalvertretungsgesetz NRW) - Bestimmung der von der Dienststelle zu benennenden Beisitzerinnen und Beisitzer - - ungeändert beschlossen
+- TOP 7.9: Zukunft der Straßenverkehrsbehörde - Entgegennahme ohne Beschluss
+- TOP 7.9.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.03.2017 - Zukunft der Straßenverkehrsbehörde - Entgegennahme ohne Beschluss
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das IV. Quartal 2016 - Entgegennahme ohne Beschluss
+- TOP 10: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das I. Quartal 2017 - Entgegennahme ohne Beschluss
+- TOP 11: Stadtentwässerung - Maßnahmenkatalog 2018/ Katalogentwurf 2019 - ungeändert beschlossen
+- TOP 12: Berichte und Mitteilungen
