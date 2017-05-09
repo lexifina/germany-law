@@ -1,0 +1,85 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262127
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262127
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Wechsel von Funktionen im BA 24 für die 2. Hälfte der Wahlperiode 2014–2020 gem. der Festlegungen in der konstituierenden Sitzung vom 06.05.2014 - Wahl der/des Vorsitzenden des Unterausschusses Schule, Sport, Soziales - Bestellung der/des stellvertretenden Vorsitzenden des Unterausschusses Schule, Sport, Soziales - Bestellung der/des stellvertretenden Vorsitzenden des Unterausschusses Planung, Verkehr und Umwelt
+- TOP 1.2.: Benennung einer/s Beauftragen für Frauen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V. Anschaffung von zwei WC-Containern Az. 0262.0-24-0193
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Gedenkstätte KZ-Außenlager Dachau-Allach in Ludwigsfeld" Gedenkveranstaltung am 23.04.2017 Az. 0262.0-24-0188
+- TOP 2.3.: (E) Budget der Bezirksausschüsse LerchenKinderHaus e.V. Bau eines Klettergerüsts vom 15.05.-20.05.17 AZ: 0262.0-24-0195
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Caritas Kulturtreff für Kinder und Jugendliche Jump In Begutachtung einer Skateanlage
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Burschenverein Feldmoching 10-jähriges Vereinsjubiläum Az. 0262.0-24-0194
+- TOP 3.: Anträge
+- TOP 3.1.: Parkverbot von der Schwabenbachbrücke bis zur Bushaltestelle in Höhe Karlsfelder Str. 282
+- TOP 3.2.: Verlegung der Bushaltestelle Caracciolastr./Hasenberglstr. (Linien 170/171) Nähe Ittlingerstraße
+- TOP 3.3.: Neubau/Nachverdichtung auf dem Grundstück Ecke Fortnerstraße/Schleißheimer Straße
+- TOP 3.4.: N Prüfung des Protokolls der gemeinsamen Infoveranstaltung des BA 24 und des Planungsreferates
+- TOP 5.1.1.: Grohmannstr. 1 - 25
+- TOP 5.1.2.: Leuchsstr., Gemarkung Feldmoching, Fl.Nr. 3071/3
+- TOP 5.1.3.: Fortnerstr., Gemarkung Feldmoching, Fl.Nr. 1346/28
+- TOP 5.1.4.: N Auf den Schrederwiesen
+- TOP 5.2.1.: Fortnerstr., Gemarkung Feldmoching, Fl.Nr. 1346/28
+- TOP 5.2.2.: Himmelschlüsselstr. 15
+- TOP 5.2.3.: N Mochostr. 24
+- TOP 5.2.4.: N Kohlröschenstr. 48
+- TOP 5.3.1.: Sommerfest des KJR München auf dem Walter-Sedlmayr-Platz am 30.06.2017
+- TOP 5.3.2.: Skateboardworkshop in der Skateanlage am Fasaneriesee im August und September
+- TOP 5.3.3.: N Kinderzirkus Nordini im Rahmen des Münchner Ferienprogrammes auf der Zirkuswiese an der Weitlstr. 125 vom 31.07. bis 05.08.2017
+- TOP 5.4.1.: Gewerbeflächenentwicklungsprogramm GEWI - Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 5.4.2.: Beschlussentwurf Verkehrskonzept für den Münchner Norden - Teil: Mobilitätsmanagement
+- TOP 5.4.3.: Beschlussentwurf Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach
+- TOP 5.4.4.: Beschlussentwurf 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" - Schulbauoffensive 2013 - 2030
+- TOP 5.4.5.: Beschlussentwurf Sportbauprogramm - Teil 1, Anhörung zum 1. Maßnahmenpaket
+- TOP 5.4.6.: Verkehrsrechtliche Anordnung nach § 25 StVO: Einrichtung eines absoluten Haltverbotes, Karlsfelder Straße (Nordseite zwischen der Brücke über das "Schwabenbächl" und der Bushaltestelle "MAN Siedlung")
+- TOP 5.4.7.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 5.4.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes, Smaragdstr. 17
+- TOP 5.4.9.: N Anzeige über das Abbrennen eines privaten Feuerwerks auf Privatgrund in der Feldmochinger Straße am 02.06.2017
+- TOP 5.4.10.: MVG Leistungsprogramm 2018
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Veranstaltung in städtischen Grünanlagen: Skatepark-Mobil 2017 von Mai bis September – Stellungnahme gem. § 13 Abs. 2 BA-Satzung
+- TOP 6.2.: Anträge Nrn. 15/18 bis 15/22 aus der 15. Kinder- und Jugendsprechstunde des BA 24 zum Thema "Verkehr" in Ludwigsfeld (zu 3.1 - 14.02.2017)
+- TOP 6.3.: Verkehrssicherheitsmaßnahmen im Bereich Einmündung Himmelschluessel-/ Lassallestraße (zu 3.4 - 31.07.2012)
+- TOP 6.4.: Siedlung Lerchenauer See: Zustand des Ladenzentrums, Verbesserung der Infrastruktur, sichere Überquerung der Lassallestraße im Bereich der Bushaltestelle; Hier: behindertengerechter Ausbau der bestehenden Unterführung
+- TOP 6.5.: Umsetzung des Luftreinhalteplans im Münchner Norden; Umsetzung der Vorschläge zur Verbesserung der Radweg-Infrastruktur (Ziff. 2 des Antrages)
+- TOP 6.6.: Blumenwiesen im Stadtgebiet
+- TOP 6.7.: Verkehrsrechtliche Anordnung nach § 45 Abs. 9 StVO: Einrichtung einer Einbahnstraße in der Ebereschenstraße (zwischen Waldmeisterstr. und Lerchenauer Str. in westlicher Fahrtrichtung )
+- TOP 6.8.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 3 StVO: - Mitteisstraße, absolutes Haltverbot für die Zufahrt der Feuerwehr - Christl-Marie-Schultes-Weg, getrennter Geh- und gegenläufiger Radweg - Lerchenstraße/Ponkratzstraße, Haltverbote
+- TOP 6.9.: Unveränderte Fortführung von Gaststättenbetrieben: - Grohmannstr. 61 - Lerchenauer Str. 189 - Karlsfelder Str. 209g
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: Meldelisten Baumfällungsanträge
+- TOP 6.12.: Daten Pegel Feldmoching
+- TOP 6.13.: Bevorstehende Entfernungen von Gefahrenbäumen im 24. Stadtbezirk
+- TOP 6.14.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 6.15.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.16.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.17.: (U) Bahnübergänge im Münchner Norden Lerchenauer Straße Lerchenstraße Feldmochinger Straße Beseitigung der höhengleichen Bahnübergänge im Stadtbezirk 24 Feldmoching - Hasenbergl - Bekanntgabe -
+- TOP 6.18.: (U) Lärmschutz an der Quelle: Umrüstung der alten Güterzüge auf leise Technologien und Reduzierung der Fahrgeschwindigkeit Empfehlung Nr. 14-20 / E 00908 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl
+- TOP 6.19.: Freibadöffnungskonzept SWM - Vorlagen-Nr. 14-20 / V 08133
+- TOP 6.20.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 6.21.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 8.1.: Protokoll der Sitzung am 14.03.2017 (nach Ergänzung und Genehmigung in der Sitzung am 04.04.2017)
+- TOP 8.2.: Anita Augspurg Preis 2017
+- TOP 8.3.: Faltblatt "Wohnungsmarktdaten München 2015"
