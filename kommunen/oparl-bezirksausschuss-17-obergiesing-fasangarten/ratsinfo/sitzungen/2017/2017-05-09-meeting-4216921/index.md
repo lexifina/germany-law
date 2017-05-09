@@ -1,0 +1,171 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4216921
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4216921
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Kleinfeldstr. Flurstück Perlach 785
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben in der Zeit vom 27.03.2017 - 09.04.2017
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.4.4.4.: Lincolnstr. 62 Fl. Nr. 2641.249
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Entscheidung verschoben, Neue Trassenvariante Herbert-Quandt-Straße (SZ 31.03.17) Bürgeranliegen vom 02.04.2017 (FF UA Verkehr)
+- TOP 2.1.2.2.: Stichstraße - Verlängerung der Herbert-Quandt-Straße Bürgeranliegen vom 30.03.2017 (FF UA Verkehr)
+- TOP 2.1.2.3.: Bebauungsplan Nr. 2118 Münchberger Straße; Beteiligung der Öffentlichkeit Bürgeranliegen vom 03.03.2017 (FF UA BPW/UA Verkehr)
+- TOP 2.1.2.4.: Gefährlicher Bordstein an der Kiefernstraße/Ecke Tegernseer Landstraße (FF UA Verkehr)
+- TOP 2.1.2.5.: Bebauungsplan Nr. 2118 Münchberger Straße - Änderung des Bebauungsplanes (FF UA BPW)
+- TOP 2.1.2.6.: Antrag auf den Erhalt der ökologischen Substanz des Bereiches 3. Bauabschnitt Weißenseepark.
+- TOP 2.1.2.7.: Fehlende Fahrrad Stellplätze in der Wallbergstraße
+- TOP 2.1.2.8.: Parksituation und Gefahrenstellen in der Untersbergstraße
+- TOP 2.1.2.9.: Baumschnitt vor den Anwesen Brecherspitzstr. 4 sowie St.-Martins-Platz 4/5
+- TOP 2.2.1.1.: *giesing-wird-inklusiv* Ein Projekt von SIM-Sozialplanung im Auftrag der LH München, Sozialreferat - Amt für soziale Sicherung
+- TOP 3.9.1.2.: Eslarnerstr. 32, 81549 München 2 Fichten mit Borkenkäferbefall
+- TOP 4.1.: Dialog-Displays für Giesing - Berücksichtigung von Standorten im 17. Stadtbezirk Standorte für Dialog-Displays in Giesing (FF UA Verkehr)
+- TOP 4.2.: Reduzierung der Belastung durch Schadstoffe auf den Mittleren Ring zwischen Brudermühlbrücke und A 995 (FF UA Verkehr)
+- TOP 4.3.: Erweiterung des Antrags der CSU-Stadtratsfraktion, den 17. Stadtbezirk entlang des Mittleren Rings in der Tegernseer Landstraße und der Chiemgaustraße zum Erprobungsgebiet für Mooswände zur Feinstaub- bindung und Lärmreduktion entlang des Mittleren Rings zu erklären und zwischen der Grünwalderstraße, entlang der Tegernseer Landstraße und der Chiemgaustraße bis zur Schwanseestraße in beiden Richtungen „Mooswände“ zu errichten
+- TOP 4.4.: Durchstich Herbert -Quandt -Straße : Nutzungsvereinbarung statt Flächenankauf – pragmatische Lösungen mitdenken
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule an der Balanstraße Erstellung einer Schulhomepage Az.: 0262.0-17-0135 (FF UA FSA)
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. "Baumobil" vom 22.09.-24.09.2017
+- TOP 5.1.3.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Modellprojekt "Kicklusion...Inklusion in Bewegung" vom 30.08. - 18.10.2017 Az. 0262.0-17-0132
+- TOP 5.2.1.: Antrag auf Gewährung einer Zuwendung aus dem Budget des BA 17 der LHM an die Evang.-Luth.- Kirchengemeinde München Giesing
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017 Anlage - Beschlussvorlage (Entwurfsstand 11.04.2017) - Anlage zur Beschlussvorlage (Kurzberichte, Kurzbeschreibungen) - Kopien der Stadtrats- und Bezirksausschussanträge sowie Bürgerversammlungsempfehlungen Entwurfsstatus: Abstimmung mit den Referaten Frist zur Rückmeldung: 26.05.2017
+- TOP 6.1.3.2.: Gewerbeflächenentwicklungsprogramm - Anhörung der Bezirksausschüsse
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.2.: Erstellung eines Bebauungsplanes für den Bereich der ehemaligen McGraw-Kaserne; Dringlichkeitsantrag der Fraktion FW Sachstandsmitteilung
+- TOP 6.1.4.3.: Fasangartenstraße 104 - Zweckentfremdung
+- TOP 6.1.4.4.: Fasangartenstr. 104, Antwortschreiben der LBK vom 10.04.2017
+- TOP 6.1.4.5.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: REGSAM-Schwerpunktsgebietsauswahl 2017; Schreiben des Sozialreferats mit der Bitte um Rückmeldung bis 31. Mai 2017
+- TOP 6.2.3.2.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017 Anlage - Beschlussvorlage (Entwurfsstand 11.04.2017) - Anlage zur Beschlussvorlage (Kurzberichte, Kurzbeschreibungen) - Kopien der Stadtrats- und Bezirksausschussanträge sowie Bürgerversammlungsempfehlungen Entwurfsstatus: Abstimmung mit den Referaten Frist zur Rückmeldung: 26.05.2017 (gemeinsam mit UA BPW)
+- TOP 6.2.5: Anträge
+- TOP 6.2.5.1.: Spielen in der Stadt e.V. - Bitte um Unterstützung der Erhöhung von Zuschüssen durch die Landeshauptstadt München zur Durchführung von Veranstaltungen für Kinder in den Stadtbezirken
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Wiedereinführung der Radwegbenutzungspflicht in der Fasangartenstraße
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Leistungsprogramm 2018 der MVG (Fahrplanwechsel Dezember 2017) -Anhörung der MVG- -Stellungnahme des Arbeitskreises Nahverkehr (AAN)
+- TOP 6.3.3.2.: Fasangartenstr. 125 d-g - Erinnerungsverfahren - Straßensanierung
+- TOP 6.3.3.3.: Maurerstraße - Fahrbahnsanierung - zwischen Stettnerstraße und Hotzendorffstraße - Erinnerungsverfahren -
+- TOP 6.3.3.4.: Aktiv für die Erhöhung der Verkehssicherheit und der Steigerung der Attraktivität des Radverkehrs in Giesing BA-Antrags-Nr. 14-20 / B 02259 vom 12.04.2016; Antwortschreiben des Baureferats vom 26.10.2016 BA-Antrags-Nr. 14-20 / B 02259 des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten vom 15.12.2016 Protokoll Ortstermin Stellungnahme durch den BA zum Protokoll
+- TOP 6.3.3.5.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben barrierefreier Ausbau der S-Bahn-Station Haltepunkt St.-Martin-Straße der Strecke 5551 München-Ost - Deisenhofen, Bahn-km 1,06 bis Bahn-km 1,36 in der Landeshauptstadt München
+- TOP 6.3.3.6.: Erinnerungsverfahren Straßenunterhalt- und -betrieb Lincolnstr_64
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Betriebskonzept während des Umbaus am U-Bahnhof Sendlinger Tor (U1/U2)
+- TOP 6.3.4.2.: Sachstandsbericht Herbert-Quandt-Straße a ) Anträge und Empfehlungen BA 00674 / BA 01283 / E 00487 / E 00490 b) Bebauungsplan mit Grünordnung Nr. 2120
+- TOP 6.3.4.3.: „Zeitnahe Aufbringung eines lärmmindernden Straßenbelages am Mittleren Ring von der Tegernseer Landstraße (ab Grünwalderstraße) über die Chiemgaustraße bis zur S-Bahnunterführung östlich der Schwanseestraße (=Bezirksgrenze BA 17)“
+- TOP 6.3.4.4.: Antrag für eine Parklizenzzone in der Weißenseestraße; Bürgerschreiben vom 12.11.2016
+- TOP 6.3.4.5.: Mängelbeseitigung am Gleis entlang der Kreuzung Tegernseer Landstraße/St.-Bonifatiusstraße - Ausnahmezulassung -
+- TOP 6.3.4.6.: Zustand S-Bahn-Station St.-Martin-Straße
+- TOP 6.3.4.7.: Tempo 30 auf der südlichen Tegernseer Landstraße Empfehlung Nr. 14-20/E 00999 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten vom 09.06.2016 - Antwortschreiben auf Beschluss des BA 17 vom 13.12.2017 -
+- TOP 6.3.4.8.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2. Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Lindwurmstraße durch die DB AG
+- TOP 6.3.4.9.: Längsparken in der Herzogstandstraße, zwischen Deisenhofener- und Werinherstraße
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 6.4.4.2.: Cincinnatistr. 1-29, Fällung Birke 1525
+- TOP 6.4.4.3.: Chiemgauerstr. 71
+- TOP 6.4.4.5.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Temporäre Kunst im öffentlichen Raum - Kamera - Weißenseestraße 7
+- TOP 6.5.3.2.: Erläuterungsschild Ella-Lingens-Platz Textvorschlag
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Staatseigenes Anwesen Soyerhofstraße 17, Schriftzug "University of Maryland", Anfrage zur weiteren Verwendung - Antwortschreiben -
+- TOP 6.5.4.2.: Information der Bezirksausschüsse Neue Bädereintrittspreise
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.5.6.1.: Tag des offenen Denkmals am 10. September 2017; Schreiben der Deutschen Stiftung Denkmalschutz (Anmeldeschluss: 31. Mai 2017)
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Erweiterung einer bestehenden Freischankfläche in der Deisenhofener Str. 17
+- TOP 6.6.2.2.: Einrichtung einer Freischankfläche, Tegernseer Landstraße 35
+- TOP 6.6.2.3.: Entscheidung über Sondernutzungserlaubnis (Freischrankfläche) Tegernseer Landstr. 44, 81531 München
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund - Beteiligung aller Bezirksausschüsse Termin 12.05.2017
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Schank- und Speisenwirtschaft "Scharfreiteralm", Scharfreiterstr. 7a, Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Mehrjahresinvestitionsprogramm 2017 - 2021 - Antwortschreiben -
+- TOP 7.3.2.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
