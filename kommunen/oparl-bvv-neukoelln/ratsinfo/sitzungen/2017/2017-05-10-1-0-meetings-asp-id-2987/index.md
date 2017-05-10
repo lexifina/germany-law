@@ -1,0 +1,100 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-05-10T17:00:00+02:00
+- Ende: 2017-05-10T22:37:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2987
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2987
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Abbiegen nach Alt-Rudow möglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Neuwahl der Mitglieder im Beirat für Menschen mit Behinderung - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Einrichtung eines Standortes für ein Drogenberatungs- und Konsummobil - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Schulneubau Koppelweg - beantwortet
+- TOP 9.2: Brunnengalerie im Glockenblumenweg - beantwortet
+- TOP 9.3: Hostel in der Weserstraße 207 - beantwortet
+- TOP 9.4: Schrotträder - beantwortet
+- TOP 9.5: Nicht genehmigtes Hostel Weserstraße 207 - beantwortet
+- TOP 9.6: Zukunft des Agrarbereichs der Carl-Legien-Schule - beantwortet
+- TOP 9.7: Kiosk/WC am Europaspielplatz - beantwortet
+- TOP 9.8: Abbiege-Situation Alt-Rudow Ecke Neudecker Weg - schriftlich beantwortet
+- TOP 9.9: Überwachungsbedürftige Anlagen - schriftlich beantwortet
+- TOP 9.10: Ausbildungsplätze und Quereinstieg in den Kindertagesstätten Süd-Ost - schriftlich beantwortet
+- TOP 9.11: Sachstand „Zum Gletscher“ - schriftlich beantwortet
+- TOP 9.12: Auflagen an die Neuköllner Krankenhäuser - schriftlich beantwortet
+- TOP 9.13: Neue Radwegebebauung in Neukölln - schriftlich beantwortet
+- TOP 9.14: Inside Islam - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Drogenkonsum am U- und S-Bahnhof Neukölln - beantwortet
+- TOP 10.2: Fahrradplätze Rathaus - überwiesen
+- TOP 10.3: Beleuchtung am U- und S-Bahnhof Neukölln - überwiesen
+- TOP 10.4: Political correctness: „Index der belasteten Ausdrücke“ - in der BVV abgelehnt
+- TOP 10.5: Geschichtliche Aufarbeitung Wissmannstraße - überwiesen
+- TOP 10.6: Änderung der GO §28 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Antrag zur Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Antrag zur Geschäftsordnung III - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Antrag zur Geschäftsordnung IV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Asbestregister und -sanierung durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Instandhaltung von Straßen und Gehwegen von 2011 - 2016 - beantwortet
+- TOP 10.12: Gymnasien bei der Inklusion in die Pflicht nehmen - vertagt
+- TOP 10.13: Schwerlastanlieferungen von Unternehmen in Neukölln - vertagt
+- TOP 10.14: Städtebauförderung „Zukunft Stadtgrün“ beantragen - vertagt
+- TOP 10.15: Jahresbericht rechtsextreme Aktivitäten in Neukölln - vertagt
+- TOP 10.16: Drogenkonsum- und Suchtberatungsangebot - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Trinkwasserspender für die Grundschule am Fliederbusch - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bushaltestelle “Seeadlerweg - vertagt
+- TOP 11.3: Thomashöhe / Lessinghöhe – sicher hin und zurück - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Gehweg in der Köpenicker Straße ab Eingang Schmiedeteich bis Alt-Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Konzept zur Übernahme von Mietschulden - vertagt
+- TOP 11.7: Sozialmissbrauch verhindern - vertagt
+- TOP 11.8: Antrag zur Änderung der Geschäftsordnung - vertagt
+- TOP 11.9: Antrag zur Geschäftsordnung II - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: WLAN-Zugang in öffentlichen Gebäuden Neuköllns - vertagt
+- TOP 12.2: Informationsveranstaltung für Anwohner am 21.04.2017 aufgrund zunehmender Drogenkriminalität und Drogenkonsum im und am S-und-U-Bahnhof Neukölln - beantwortet
+- TOP 12.3: Vorkaufsrecht in Milieuschutzgebieten - vertagt
+- TOP 12.4: Biologische Vielfalt in Neukölln - vertagt
+- TOP 12.5: Teilbebauung der Friedhöfe Hermannstraße - vertagt
+- TOP 12.6: Neukölln weiter bei der Armutsgefährdung vorne? - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Öffentl. Veranstaltung Bauvorhaben südl. Mariendorfer Weg - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ausschilderung der Radrouten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Fußgängerüberweg - überwiesen
+- TOP 14.3: Wildes Parken vor der Jahn-Sporthalle - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Sonnenallee soll Sonnenallee bleiben! - vertagt
+- TOP 14.5: Fortschreiben des Schulentwicklungsplans - überwiesen
+- TOP 14.6: Kostenfreies WLAN im Rathaus - überwiesen
+- TOP 14.7: Verlängerte Öffnungszeit Recyclinghof BSR - überwiesen
+- TOP 14.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.9: Fußgängerampel Mariendorfer Damm/Sandsteinweg - überwiesen
+- TOP 14.10: Abbiegerspur in die Kanalstrasse - überwiesen
+- TOP 14.11: Vollständige Übernahme des Tempelhofer-Feld- Gesetzes im FNP - überwiesen
+- TOP 14.12: Temporäre Fahrbahnmarkierung für Radfahrende - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Abwehr von Gefahren für Leib und Leben einer Vielzahl von Bürgern - vertagt
+- TOP 14.14: Fonds für Vorkaufsrecht in Milieuschutzgebieten - überwiesen
+- TOP 14.15: Beendigung der Diskriminierung von Musliminnen mit Kopftuch - vertagt
+- TOP 14.16: Bezirkliche Ressourcen dort einsetzen, wo sie am dringendsten gebraucht werden - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Eingeschränktes Halten in der Köpenicker Straße im Eingangsbereich der Kita Sausewind - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Öffentl. Veranstaltung zu Bauvorhaben südl. Mariendorfer Weg durchführen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauungsplan XIV-108-1 („Käthe-Dorsch-Ring/Agnes-Straub-Weg“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Weserstraße zur Fahrradstraße machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Modellprojekt „Fahrradparken auf der Fahrbahn“ auf Landesebene wieder auflegen - mit Abschlussbericht zur Kenntnis genommen
