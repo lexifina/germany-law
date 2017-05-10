@@ -1,0 +1,99 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285435
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285435
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Bürgerinnen und Bürger haben das Wort
+- TOP 5.1: Aktuelle Viertelstunde
+- TOP 5.2: Bürgeranliegen
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Überprüfung und Aktualisierung des Bebauungsplans Nr. 462 für die Siedlung Am Hart BA-Antrags-Nr. 14-20 / B 02795 des BA 11 vom 14.09.2016 - Stellungnahme des Referates für Stadtplanung und Bauordnung
+- TOP 4.2.2.: Münchner Mischung im Bereich der Mortonstraße wahren BA-Antrags-Nr. 14-20 / B 03261 des BA 11 vom 08.02.2017 - Stellungnahme des Referat für Stadtplanung und Bauordnung
+- TOP 4.2.3.: Antwortschreiben des Referates für Bildung und Sport zum Bürgeranliegen: Grundschule an der Torquato-Tasso-Straße 38 - Umbaumaßnahmen / Erweiterung durch Container
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 5.2.1.: Neuanlage eines Bouleplatzes versus neu aufgestellter Tischtennisplatte in der Grünanlage am Schollerweg
+- TOP 5.2.2.: Verkehrsregelung und Geschwindigkeitsmessungen in der Rockefellerstr. und Anton-Will-Straße
+- TOP 5.2.3.: Irmgard-Stüberl jetzt Crazy Bulldog: Lärmbelästigung Regulierung durch Änderung in der Betriebszeitgenehmigung und im Freischankbetrieb
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Freizeitstätte Neuland, AG-Buhlstraße e.V. Graffitigestaltung am Studentenwohnheim Az. 0262.0-11-0237
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Hildegard-von-Bingen-Anger Sommerfest am 19.05.2017 Az. 0262.0-11-0238
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Ferienangebot vom 06.06. - 09.06.2017 Az.: 0262.0-11-0235
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Sommerfest am 27.06.2017 Az. 0262.0-11-0239
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse Kindertreff OLY Olympiadorf Kinder- und Jugendtreff am 30.06.2017 Zuschussbeantragung: 589,20 € Az. 0262.0-11-0241
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Stadtteilfest am 01.07.2017 Zuschussbeantragung: 8.000,00 € Az.: 0262.0-11-0236
+- TOP 6.1.7.: (E) Budget der Bezirksausschüsse Zukunft Am Hart e.V. Podiumsdiskussion am 23.05.2017 Az. 0262.0-11-0240
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München
+- TOP 7.2.1.: Neuer Bodenbelag für das Basketball-Spielfeld am Rande der Siedlung Nordhaide (Westteil) - Minimierung der Verletzungsgefahr
+- TOP 7.2.2.: Erhalt des Streetballplatzes und der Tischtennisplatte nach Rückbau der Unterkunft in der Rathenaustr. / Thalhoferstr.
+- TOP 7.2.3.: Durchsetzen eines Feuerwerksverbots an Silvester im Umkreis der Kleingartenanlage am Olympiaturm (südl. Teil des Olympiaberges)
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Goldmarkstraße - Ergreifen von Maßnahmen zur Verkehrsberuhigung
+- TOP 7.4.2.: Verbesserung der Fahrradverkehrswege im Stadtbezirk Milbertshofen - Am Hart
+- TOP 7.4.3.: Antrag zum Verkehrskonzept München-Nord: Pro U26 contra Tram 24
+- TOP 7.4.4.: Einrichtung einer Kurzparkzone in der Strelitzer Straße während der üblichen Bring- und Holzeiten der Kindertageseinrichtungen "Vielfalt" und "KosMoos"
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Lerchenauer Str. 114 - Versetzung der City-Light-Säule (beleuchtet) für die wechselnde Produktwerbung
+- TOP 8.2.2.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 8.2.3.: Stellungnahme des BA 11 zum Bauvorhaben Connollystr. 32 TUM CiO - Neubau Fakultät Sport und Gesundheitswissenschaften
+- TOP 8.2.4.: Bauvorhaben und Nutzungsänderung a) Spitzerstr. 9 - Neubau von 3-er Stadthäusern mit Garagen b) Motorstr. 34 - Neubau von 2-er Mehrfamilienhäusern mit Tiefgaragen c) Frankfurter Ring 87 - Errichtung eines neuen Shopgebäudes, Waschhalle, Tankstellendach und Abfall-Sammeldepot-Container d) Taunusstr. 51 - Nutzungsänderung - Büro- und öffentliche Verwaltungsgebäude
+- TOP 8.2.5.: Norderneyer Str. 13 Baumschutz - Vollzug von § 13 BezirksausschussS i.V.m. der BaumschutzV
+- TOP 8.2.6.: Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Beschlussentwurf Sportbauprogramm - Teil 1, Anhörung zum 1. Maßnahmenpaket
+- TOP 8.3.2.: 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" - Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017
+- TOP 8.3.3.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 8.3.4.: Veranstaltung "Treffpunkt Moly-Aktionsbahnhof für Alle" 04.09.. bis 03.10.2017 - städtische Grünanlage
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: MVG-Leistungsprogramm 2018 (Fahrplanwechsel am 10.12.2017)
+- TOP 8.4.2.: Neue Buslinie 178 durch den Euroindustriepark: Haltestelle Knorrstraße
+- TOP 8.4.3.: Verkehrskonzept für den Münchner Norden - Teil: Mobilitätsmanagement Entwurf der Beschlussvorlage für den Kreisverwaltungsausschuss am 25.07.2017
+- TOP 8.4.4.: MVG-Radstationen im Stadtbezirk 11
+- TOP 8.4.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bad-Soden-Str. 44
+- TOP 8.4.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO a) Neuherbergstr. 92 - Erweiterung einer Anfahrtszone b) Vogelhartstr. - Haltverbotsregelung (Feuerwehrzufahrten)
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 9.1.2.: Fortführung eines Gaststättenbetriebes a) "eat issimo", Taunusstr. 45 b) "Crazy Bulldog", Milbertshofener Str. 29
+- TOP 9.1.3.: Neue Bädereintrittspreise - Hallenbäder ab 01.05.2017 - Freibäder ab der Saison 2017
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Meldelisten Bauvorhaben vom 27.03. bis 16.04.2017
+- TOP 9.2.2.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 9.2.3.: Blumenwiesen im Stadtgebiet hier: Rathenaustraße
+- TOP 9.2.4.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2016 – 31.12.2016
+- TOP 9.2.5.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für ein kirchliches Osterfeuer an der Panzerwiese/Hartelholz, 16.04.2017
+- TOP 9.2.6.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 9.2.7.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 9.2.8.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Betriebskonzept während des Umbaus am U-Bahnhof Sendlinger Tor (U1 und U2)
+- TOP 9.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO a) Rothpletzstr. und Rathenaustr. b) Hugo-Wolf-Str. c) Abtstr. 19 d) Sudetendeutsche Str. / Ingolstädter Str. 101 e) Keferloherstr. 75/77
+- TOP 9.4.3.: U-Bahn-Betriebskonzept während der Schienenschleifarbeiten - Ersatzverkehr mit Gelenkbussen (Linie SEV U2 und SEV U3) in den späten Abendstunden
+- TOP 9.4.4.: Stellungnahme zum MVG-Leistungsprogramm 2018 des AAN im Münchner Forum e.V.
