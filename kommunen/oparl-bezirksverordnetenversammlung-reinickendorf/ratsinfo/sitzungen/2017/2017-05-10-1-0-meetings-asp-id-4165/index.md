@@ -1,0 +1,103 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-05-10T17:10:00+02:00
+- Ende: 2017-05-10T22:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4165
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4165
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=244509
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Zeltinger Platz und Zeltinger Straße in Frohnau - beantwortet
+- TOP 2.2: Wiederherstellung des alten Zustandes und Öffnung des öffentlichen Weges zwischen den Hausnummern 9 + 10 am Krumminer Weg, Ortsteil Heiligensee lt. B-Plan-Entwurf 12-29, Pkt 4.5.1 vom 14. April 2010 (vor 7 Jahren!) - beantwortet
+- TOP 2.3: Tegeler Hafenfest - beantwortet
+- TOP 2.4: Flüchtlingseinrichtungen - beantwortet
+- TOP 2.5: Ausschuss für Frauen, Gleichstellung, Inklusion und Queer - schriftlich beantwortet
+- TOP 2.6: Maßnahmen gegen Insektensterben - schriftlich beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 8. Sitzung der BVV am 10.05.2017 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Tegeler Hafenfest 2017 - zurückgezogen
+- TOP 4.2: Parkplatzsituation der Anwohner der Oranienburger Straße während der Bausituation - beantwortet
+- TOP 4.3: Projektmittelfonds Schule - beantwortet
+- TOP 4.4: Sichere Aufbewahrung von Ausweisen - beantwortet
+- TOP 4.5: Reform zum Unterhaltsvorschussgesetz - beantwortet
+- TOP 4.6: Verkehr in der Ulmenstraße - beantwortet
+- TOP 4.7: Erkenntnisse zu Planungen auf dem Tetrapak-Gelände - beantwortet
+- TOP 4.8: Baumaßnahmen in der Straße "Am Brunnen" - beantwortet
+- TOP 4.9: Radfahrerfurt Berliner Str. / Veitstraße - beantwortet
+- TOP 4.10: Geförderte Wohnungen in Reinickendorf 2016 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - beantwortet
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Beleuchtung Parkplatz Schulfarm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Haltestelle Antonienstr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Busverbindung Lübars - Märkisches Zentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Radständer am S-Bahnhof Hermsdorf instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Ergänzung des Straßenschildes für den Singdrosselsteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Wohnungen in Reinickendorf endlich von Asbest befreien! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: BVV für Erhalt von Arbeitsplätzen bei MAN in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: MAN-Standort in Berlin-Tegel erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Beschilderung auf dem U-Bahnhof Paracelsus-Bad - überwiesen
+- TOP 7.10: Änderung des Geschäftsverteilungsplans / Zuordnung des ATRIUMS zur Abteilung Jugend, Familie, Schule und Sport - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Vertragsverlängerung mit der Ombudsperson - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Tegeler Hafenfest 2017 - beantwortet
+- TOP 8.2: Flughafensee attraktiver und sicherer machen - vertagt
+- TOP 8.3: Keine Zukunft für das Strandbad Tegel? - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - gewählt
+- TOP 9.3: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.4: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.5: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.6: Beschluss über den Bebauungsplan 12-26B-1 vom 08. Juni 2015 und über den Entwurf der Rechtsverordnung für die Grundstücke Blankestraße 4, 5, 7, 8, 8A und 8B sowie Gotthardstraße 92, 96 und 100 - überwiesen
+- TOP 9.7: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichend Kitaplätze - vertagt
+- TOP 10.2: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichend Schulplätze - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichende Lehrerkapazitäten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichende Freizeitmöglichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Transparenz und Bürgernähe (2) - Homepage des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Ersatzstandort für die Kita "Tegeler Lieblingskinder" - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: U 8 in das Märkische Viertel mit Haushaltsüberschüssen verlängern - vertagt
+- TOP 10.8: Mittel für Schulsanierungen einfordern! - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sicherer Schulweg / Havelmüller-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Fließtalwanderweg schließen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Gedenkstein für Opfer des Nationalsozialismus auf dem Falkenplatz - Inschrift erneuern - überwiesen
+- TOP 10.12: Beteiligung der BVV bei SiWa-Anmeldungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Personalausstattung für Sozialraumorientierte Planungskoordination verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Eckwertebeschluss für den Bezirkshaushaltsplan 2018/2019 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Eckwertebeschluss für den Bezirkshaushaltsplan 2018/2019 - überwiesen
+- TOP 12.2: Sicherheit am Weg zur alten Fasanerie - überwiesen
+- TOP 12.3: Fahrradständer in der Gorkistraße - überwiesen
+- TOP 12.4: Zusätzliche Atelierflächen - überwiesen
+- TOP 12.5: Regenbogenbeflaggung während der Pride-Week 2017 - erledigt
+- TOP 12.6: Sicherheit Kreuzung Stolpmünder Weg/Ruppiner Chaussee - überwiesen
+- TOP 12.7: Information über die Digitalisierung der Graphothek - überwiesen
+- TOP 12.8: Nutzung des Ernst-Reuter-Saals für gehörgeschädigte Menschen - überwiesen
+- TOP 12.9: Plakatwerbung während der IGA 2017 im Frohnauer Zentrum - überwiesen
+- TOP 12.10: Unterstützung des Centre Talma - überwiesen
+- TOP 12.11: Tegeler Hafenfest - Anwohnerschutz - mit Änderungen in der BVV beschlossen
+- TOP 12.12: Internet-Anschluss Volkshochschule Tegel - überwiesen
+- TOP 12.13: Vorübergehende Aussetzung von Kostensenkungsverfahren in besonderen Fällen bei den Kosten der Unterkunft (KDU) - überwiesen
+- TOP 12.14: Tegeler Hafenfest - in der BVV abgelehnt
+- TOP 13: Empfehlungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Willkommenskinder - überwiesen
+- TOP 13.2: Musische Tage Reinickendorf sichern - überwiesen
+- TOP 13.3: Verlängerung der Buslinie 324 - überwiesen
+- TOP 13.4: Straßenabwasser von der Residenzstraße vor Einleitung in den Schäfersee vorklären - überwiesen
+- TOP 13.5: Unterrichtsausfall entgegenwirken - überwiesen
+- TOP 13.6: Weiteres freies W-Lan bei Baumaßnahmen in Reinickendorf - überwiesen
+- TOP 13.7: Beschluss des Frauen- und Mädchenbeirates zur Gewalt präventiven Maßnahme ONE BILLION RISING - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Schäfersee Sommerferienprojekt - überwiesen
+- TOP 13.9: Öffnung des Stadtbads MV - ohne Änderungen in der BVV beschlossen
