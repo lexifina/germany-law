@@ -1,0 +1,68 @@
+# 25. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-11T15:10:00+02:00
+- Ende: 2017-05-11T17:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16853
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16853
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Standortsuche für ein neues Frischezentrum - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Zukunft des RheinEnergieStadions
+- TOP 2.2: Wohnungsbau in Köln – Anzahl der Baugenehmigungen muss deutlich erhöht werden!
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - zurückgestellt
+- TOP 5.2: Planfeststellungsverfahren für die Erneuerung der Eisenbahnüberführungen Vogelsanger Straße und Venloer Straße - ungeändert beschlossen
+- TOP 5.3: Planungsbeschluss für die Neugestaltung der Gürzenichstraße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" gefördert durch das Bundesprogramm "Nationale Projekte des Städtebaus" - ungeändert beschlossen
+- TOP 5.4: Planungsbeschluss für die Neugestaltung des Tunnels Johannisstaße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" gefördert durch das Bundesprogramm "Nationale Projekte des Städtebaus" - ungeändert beschlossen
+- TOP 5.5: Heliosgelände in Köln-Ehrenfeld; städtebaul. Planungskonzept; Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Sanierungsgebiet 'Umfeld Kulturzentrum am Neumarkt', hier: Aufhebung der Sanierungssatzung - Sache ist erledigt
+- TOP 6.2: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert empfohlen
+- TOP 6.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert empfohlen
+- TOP 6.4: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert empfohlen
+- TOP 6.5: 3. Nahverkehrsplan der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.6: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - ungeändert empfohlen
+- TOP 6.6.1: Änderungsantrag der SPD-Fraktion vom 09.02.2017 - endgültig zurückgezogen
+- TOP 6.7: Wiedereinführung des kommunalen Vorkaufsrechtes - ungeändert empfohlen
+- TOP 6.8: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert empfohlen
+- TOP 6.9: Nationale Projekte des Städtebaus: "Lebenswertes Chorweiler – ein Zentrum im Wandel"; Umgestaltung des Liverpooler Platzes und des Pariser Platzes sowie des "Lyoner Platzes"; Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: 75393/02; Ohmstraße in Köln-Porz; Aufhebung des Einleitungsbeschlusses - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Veränderungssperre: Industriestraße in Köln-Rodenkirchen - ungeändert empfohlen
+- TOP 15.2: Satzung über eine Veränderungssperre: Osterather Straße/Liebigstraße in Köln-Bilderstöckchen - ungeändert empfohlen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Ulrich-Haberland-Haus - Kenntnis genommen
+- TOP 17.2: Vorstellung des Gesamtkonzeptes zur baulichen Entwicklung des Krankenhauses Porz am Rhein für die medizinisch ambulante Versorgung bis 2040 - Kenntnis genommen
+- TOP 17.3: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2016 (Mitteilung 0563/2017, Sitzung Ausschuss für Soziales und Senioren am 09.03.2017) - Kenntnis genommen
+- TOP 17.4: Stadtradeln 2017 - Kenntnis genommen
+- TOP 17.5: Förderung der Elektromobilität in Köln - Umsetzungskonzept - Kenntnis genommen
+- TOP 17.6: Öffentlichkeitsbeteiligung und Durchführung der Lärmaktionsplanung des Eisenbahnbundesamtes - Kenntnis genommen
+- TOP 17.7: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 17.8: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 17.9: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 18.1: Bauvorhaben nördlich Colonius
+- TOP 18.2: Einzelhandels- und Zentrenkonzept für Mülheim
+- TOP 18.3: Städtebauförderprogramm: Investitionspakt Soziale Integration im Quartier
+- TOP 18.4: Bahnhof Belvedere
+- TOP 19: Gleichstellungsrelevante Themen
