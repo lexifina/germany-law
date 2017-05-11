@@ -1,0 +1,57 @@
+# 38. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-05-11T16:00:00+02:00
+- Ende: 2017-05-11T22:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5760
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5760
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2017_05_11_oU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00297220.pdf
+- Wortprotokoll: Nachtrag_SR_2017_05_11 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00298481.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - zwei Runden
+- TOP 3.1: Beleuchtung der Albertbrücke - erledigt
+- TOP 3.2: Liegenschaft Sternplatz 1 in 01067 Dresden - erledigt
+- TOP 3.3: Verzögerte Sanierung der Wehlener Straße - erledigt
+- TOP 3.4: Bunte Republik Neustadt - Flächenangebot und Anmeldepraxis - erledigt
+- TOP 3.5: Unterlagen des Staatssicherheitsdienstes - erledigt
+- TOP 3.6: Elberadweg - erledigt
+- TOP 3.7: "Kunstinstallationen im öffentlichen Raum" - erledigt
+- TOP 3.8: Sanierung des Heinz-Steyer-Stadions - erledigt
+- TOP 3.9: Wohnungssuche für Flüchtlinge - erledigt
+- TOP 3.10: Eröffnung des Kulturpalastes - erledigt
+- TOP 3.11: CSD-Beflaggung - erledigt
+- TOP 3.12: Waldspielplatz - erledigt
+- TOP 3.13: Trägerschaft der Universitätsschule - erledigt
+- TOP 3.14: Ullersdorfer Platz - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 4.1: Seniorenbeirat - Zustimmung
+- TOP 4.2: Integrations- und Ausländerbeirat - Zustimmung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 5.1: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 5.2: Nachbesetzung im Ortsbeirat Blasewitz - Zustimmung mit Ergänzung
+- TOP 5.3: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Vertagungen der letzten Stadtratssitzung am 12. April 2017
+- TOP 7.1: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse in den Bereichen Blasewitz und Loschwitz - Zustimmung mit Ergänzung
+- TOP 7.2: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse im Bereich Trachau - Zustimmung mit Änderung
+- TOP 7.3: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Verweisung
+- TOP 7.4: Bebauungsplan Nr. 110.4 b, Dresden-Kaditz/Mickten, Kötzschenbroder Straße/Lommatzscher Straße (Änderungssatzung) - Zustimmung
+- TOP 7.5: Bäderkonzept Dresden - Fortschreibung - Zustimmung mit Änderung
+- TOP 7.6: Unterbringungsqualität für Asylsuchende verbessern - Zustimmung
+- TOP 8: Änderung der Hauptsatzung der Landeshauptstadt Dresden und der Geschäftsordnung des Stadtrates; E-Petitionen, Elektronische Abstimmungsanlage - punktweise Abstimmung mit Änderung
+- TOP 9: Mitgliedschaft des Europäischen Zentrums der Künste Hellerau im "Bündnis internationaler Produktionshäuser e. V." - Zustimmung
+- TOP 10: Fortführung der Kooperationsvereinbarung zwischen dem Freistaat Sachsen, dem Land Hessen, der Stadt Frankfurt am Main sowie der Landeshauptstadt Dresden und der Dresden Frankfurt Dance Company (Rechtsträger: Forsythe Company GmbH) bis zum 31.12.2021 - Zustimmung
+- TOP 11: Bebauungsplan Nr. 330, Dresden-Loschwitz Nr. 20, Elberadweg Loschwitz-Wachwitz - Vertagung nach 22 Uhr
+- TOP 12: Bebauungsplan Nr. 387, Dresden-Altstadt II Nr. 25, Wohnbebauung Chemnitzer Straße - Zustimmung
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. 6022, Dresden-Trachau, Wohnbebauung Neuländer Straße - Zustimmung
+- TOP 14: Ergänzungssatzung Nr. 444, Dresden-Hellerau Nr. 1, Urnenfeldweg - Zustimmung
+- TOP 15: Anhörung nach § 21 der Geschäftsordnung des Stadtrats der Landeshauptstadt Dresden zum Thema „Errichtung eines Zentralen Omnibusbahnhofes (ZOB) in Dresden" - Vertagung nach 22 Uhr
+- TOP 16: Vergabe von Dienstleistungskonzessionen für die Organisation und Durchführung Thematischer Weihnachtsmärkte - punktweise Zustimmung mit Änderung
