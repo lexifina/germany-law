@@ -1,0 +1,80 @@
+# 22. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-11T17:00:00+02:00
+- Ende: 2017-05-11T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17142
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17142
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Information der Berufsfeuerwehr Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Marienschule - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sicherheit in Longerich - Kenntnis genommen
+- TOP 7.1.2: Beantwortung von Anfragen Anfrage der SPD-Fraktion in der BV 5 zur Wohnungsbautätigkeit im Stadtbezirk Nippes, AN/ - Kenntnis genommen
+- TOP 7.1.3: Anfrage Speedskateranlage Scheibenstr - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Stand Frühverheiratungen in Köln Nippes
+- TOP 7.2.2: Sanierung des Bahnhofs Longerich - Kenntnis genommen
+- TOP -: Antwort der Verwaltung
+- TOP 7.2.3: Parksituation in der Straße "Auf der Seekante" in Alt-Niehl
+- TOP 7.2.4: Neusser Landstraße 2
+- TOP 7.2.5: Passivsammler im Bezirk Nippes zur Erfassung der Luftschadstoff
+- TOP 7.2.6: Klimaschutz durch Fassadenbegrünung
+- TOP 7.2.7: Ladesäule im Bilderstöckchen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Absperrung der Fuß- und Fahrradwege im Johannes-Giesberts-Park durch Poller - ungeändert beschlossen
+- TOP 8.1.2: Durchfahrt von LKW in Alt-Niehl verhindern - ungeändert beschlossen
+- TOP 8.1.3: Erstellung eines Konzeptes mit dem Ziel, den Autoverkehr ab der Merkenicher Straße bis hin zum Sportplatz "Im Grund" zu entschleunigen - ungeändert beschlossen
+- TOP 8.1.4: Verkehrssituation Flittarder Weg verbessern - ungeändert beschlossen
+- TOP 8.1.5: Aufwertung eines Grünbereiches und Bau einer neuen Kindertagesstätte - ungeändert beschlossen
+- TOP 8.1.6: Sanierung der Neuen Kempener Straße in Mauenheim - ungeändert beschlossen
+- TOP 8.1.7: Einrichtung eines breiten Fußweges oder einer Spielstraße zwischen Franz-Denhoven-Straße und Pastor-Wolff-Straße - geändert beschlossen
+- TOP 8.1.8: Prüfung der Barrierefreiheit auf Gehwegen im Stadtbezirk Nippes - zurückgestellt
+- TOP 8.1.9: Verbesserung der Verkehrssicherheit für Fahrradfahrer und Fußgänger auf der Schmiedegasse - endgültig abgelehnt
+- TOP 8.1.10: Feinstaubreduzierung im Kölner Norden - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Umwidmung von Liegenschaften entlang der Longericher Straße im Bilderstöckchen - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Neusser Straße - Generalsanierungsmaßnahme - zurückgestellt
+- TOP 9.1.2: Öffnung der Einbahnstraßen für den gegenläufigen Radverkehr im Stadtbezirk Nippes - geändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kleingartenanlage An der Ling - ungeändert beschlossen
+- TOP 9.2.2: Kleingartenanlage Scheibenstraße-Ost - ungeändert beschlossen
+- TOP 9.2.3: Umgestaltung des öffentlichen Spielplatzes Spechtstraße in Köln-Niehl - ungeändert beschlossen
+- TOP 9.2.4: 1. Verordnung zur Änderung der 1. Änderungsverordnung über das Offenhalten von Verkaufsstellen im Jahr 2017 - ungeändert beschlossen
+- TOP 9.2.5: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen, Blumen und Gewässer - geändert beschlossen
+- TOP 9.2.6: Satzung über eine Veränderungssperre: Osterather Straße/Liebigstraße in Köln-Bilderstöckchen - endgültig abgelehnt
+- TOP 9.2.7: 259. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.8: 3. Nahverkehrsplan der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.9: Änderung der Zuständigkeitsordnung der Stadt Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Müllbehälter entlang der Straße "Am Molenkopf" - Kenntnis genommen
+- TOP 10.2.2: Vergabe bezirksdienlicher Mittel, die dem Sport zugutekommen - Kenntnis genommen
+- TOP 10.2.3: Annahmestelle für kleine abgelaufene Feuerlöscher - Kenntnis genommen
+- TOP 10.2.4: abgebaute Mülleimer in Longerich - Kenntnis genommen
+- TOP 10.2.5: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 10.2.6: Beantwortung der Nachfragen des Bezirksvertreters Steinbach aus der Sitzung der Bezirksvertretung Nippes vom 02.02.2017, TOP 10.2.1 - Kenntnis genommen
+- TOP 10.2.7: Stadtradeln 2017 - Kenntnis genommen
+- TOP 10.2.8: Stellungnahme zum Antrag AN/1935/2016 "Öffentliche WC-Anlage auf dem Wilhelmsplatz in Nippes" - Kenntnis genommen
+- TOP 10.2.9: Ladesäulen im öffentlichen Raum für Elektroautos und E-Bikes in Wohnvierteln - Kenntnis genommen
+- TOP 10.2.10: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.11: Verkehrssituation an der Marienschule - Kenntnis genommen
+- TOP 10.2.12: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
