@@ -1,0 +1,100 @@
+# 25. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-11T17:00:00+02:00
+- Ende: 2017-05-11T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17040
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17040
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde zur Darstellung von Chorweiler in der Öffentlichkeit - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Fußgängerzone Weserplatz / Weserpromenade (Az.: 02-1600-03/17) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Mehr Verkehrssicherheit an der Toni-Welter-Straße/Anna-Langohr-Weg in Köln-Volkhoven - Kenntnis genommen
+- TOP 7.1.2: Straßenbeleuchtung des Fußgängerweges Am Baggerfeld, zwischen Donatusstraße und Frohnhofstraße - geändert beschlossen
+- TOP 7.1.3: Gülleausbringung auf die Felder - Kenntnis genommen
+- TOP 7.1.4: Ist die Kölner Berufsfeuerwehr (Rettungsdienst) in der Lage, ausbildungs- wie gerätemäßig Kehlkopfoperierte Menschen medizinisch korrekt im Notfall zu behandeln? - Kenntnis genommen
+- TOP 7.1.5: Ansiedlung eines Supermarktes (Vollversorgers) im Bereich Fühlingen, Rheinkassel-Langel, Merkenich - geändert beschlossen
+- TOP 7.1.6: Nutzung und Auslastung der Parkhäuser im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.7: Glasverbot auf Spielplätzen und Grünanlagen - Kenntnis genommen
+- TOP 7.1.8: Sachstand Haus Fühlingen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Fahrradwege im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Spielplatz am Gustorfer Weg in Heimersdorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Geschwindigkeitsmessung im Stadtbezirk Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Rettungsweg Kleingartenanlage Erbacherweg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Turnhalle Soldinerstraße Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.6: Wilder Flohmarkt am Londoner Platz Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.7: Schul-Container in der Ursula-Kuhr-Hauptschule in Heimersdorf Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.8: Flüchtlingsunterkunft Causemannstr. 29 und 31 Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Vergabe der bezirksorientierten Mittel und der Kulturmittel Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Umwidmung der Fläche des alten Festplatzes am Friedhof Weiler Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Aufstellung von Bänken und Tischen im Seeberger Park Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.3: Benennung des Weges zwischen Rheinkasseler Weg und Amandusstraße in "Musikgasse" Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.4: „Mehr Sicherheit auf Kölner Straßen und Plätzen“Ordnungsdienst vor Ort stärken – 100 zusätzliche Ordnungskräfte für die Veedel Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.5: Wohnbebauung und die Ansiedlung eines Vollversorger-Supermarktes in Fühlingen Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - geändert beschlossen
+- TOP 9.1.2: Umgestaltung des Spielplatzes Giershausener Weg in Köln-Heimersdorf - ungeändert beschlossen
+- TOP 9.1.3: Baubeschluss für die Umgestaltung des Pingenweges und Sanierung/Gestaltung der Brückenwände - geändert beschlossen
+- TOP 9.1.4: Einbeziehung der Verlängerung der Industriestraße in Fühlingen und Merkenich - ungeändert beschlossen
+- TOP 9.1.5: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier: Vorschlag zur Ernennung eines Mitgliedes bzw. Stellvertreters aus der Bezirksvertretung Chorweiler für den Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.1.6: Neugestaltung Spielplatz Osloer Straße in Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.1.7: Neugestaltung des Spielplatzes Kopenhagener Straße in Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.1.8: Die Vorlage 1245/2017 wird unter TOP 9.2.8 geführt.
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 9.2.2: Planung und Kostenermittlung für die Generalsanierung der Sportanlage Fühlinger Weg, Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.2.3: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Katholische Grundschule Gutnickstr.37, 50769 Köln - ungeändert beschlossen
+- TOP 9.2.4: 3. Nahverkehrsplan der Stadt Köln - abgelehnt (in der Vorberatung)
+- TOP 9.2.5: Änderung der Zuständigkeitsordnung der Stadt Köln hier: Stärkung der Bezirke - zurückgestellt
+- TOP 9.2.6: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert beschlossen
+- TOP 9.2.7: Nationale Projekte des Städtebaus: "Lebenswertes Chorweiler – ein Zentrum im Wandel"; Umgestaltung des Liverpooler Platzes und des Pariser Platzes sowie des "Lyoner Platzes"; Baubeschluss - geändert beschlossen
+- TOP 9.2.8: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Unsere Quelle e.V." - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2016 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Aktualisierung der Schulentwicklungsplanung Köln 2016 - Maßnahmen zur bedarfsgerechten Weiterentwicklung der Kölner Schullandschaft allgemein bildender Schulen bis 2025 - zurückgestellt
+- TOP 10.2.3: Vergabe bezirkdienlicher Mittel, die dem Sport zugute kommen - Kenntnis genommen
+- TOP 10.2.4: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.5: Baumfällungen 2016 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.6: Köln nimmt an der Aktion "Stadtradeln vom 17. Juni bis 07. Juli 2017 teil - Kenntnis genommen
+- TOP 10.2.7: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 10.2.8: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.9: Erfahrungsbericht zur Busanbindung Blumenberg - Kenntnis genommen
+- TOP 10.2.10: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Haus Fühlingen - Kenntnis genommen
+- TOP 11.1.2: NPS-Lebenswertes Chorweiler "Plätze Chorweiler" - Kenntnis genommen
+- TOP 11.1.3: Lärmbelästigung durch Veranstaltungen und Partys in Lindweiler, Unnauer Weg - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
+- TOP 11.3.1: Nutzung der leer stehenden Räumlichkeiten / Kiosk am Turkuplatz Anfrage der Seniorenvertretung - Kenntnis genommen
+- TOP 11.3.2: Sanierungsarbeiten der Wohnhäuser im Wilhelm Ewald Weg, Köln Seeberg Anfrage der Seniorenvertretung - Kenntnis genommen
