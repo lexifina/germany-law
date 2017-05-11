@@ -1,0 +1,91 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-05-11T17:00:00+02:00
+- Ende: 2017-05-11T20:27:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13251
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13251
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00292171.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00292171.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00292171.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Vorstellung der Dezernentin für Planen, Bauen und Grundstückswesen - zur Kenntnis genommen
+- TOP 5: Städtebaulicher Wettbewerb mit Öffentlichkeitsbeteiligung Nr. 08/010 - Königsberger Straße / Tulpenw - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Alt-Eller 10,12 - Abbruch von Lagerhallen und eines Wohntraktes - mehrheitlich beschlossen
+- TOP 11: BSA Wilhelm-Heinrich-Weg - einstimmig beschlossen
+- TOP 12: Düsseldorfer Herbstfestival - einstimmig beschlossen
+- TOP 13: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 14: Zuschüsse der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 15: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 16: Kapelle Friedhof Unterbach - beantwortet
+- TOP 17: S-Bahnhof Eller - beantwortet
+- TOP 18: Notfallsanitäter im Stadtbezirk 8 - beantwortet
+- TOP 19: Bebauungsplanverfahren Breidenplatz - beantwortet
+- TOP 20: Buslinie 737 - beantwortet
+- TOP 21: Parkplatz Festenbergstraße - beantwortet
+- TOP 22: Jugendarbeit im Stadtbezirk 8 - beantwortet
+- TOP 23: Luftqualität im Stadtbezirk 8 - beantwortet
+- TOP 24: Stationsbericht 2016 des VRR - beantwortet
+- TOP 25: Spielplatz Posener Straße 128 - 132 - beantwortet
+- TOP 26: Park & Ride - Parkplatz Am Kleinforst - beantwortet
+- TOP 27: Grünordnungsrahmenplan für den Stadtbezirk 8 - beantwortet
+- TOP 28: Fußgängerüberweg Königsberger Straße - beantwortet
+- TOP 29: S-Bahnhof Eller Mitte - beantwortet
+- TOP 30: Fahrbahnsanierung Wormser Weg - beantwortet
+- TOP 31: Straßenumbau Sebastiansweg - beantwortet
+- TOP 32: Unterführung Gumbertstraße - beantwortet
+- TOP 33: Toilettenanlage Nachbarschaftspark Am Stufstock - beantwortet
+- TOP 34: Straßenverkehrslärm im Stadtbezirk 8 - beantwortet
+- TOP 35: Barrierefreie Bushaltestellen im Stadtbezirk 8 - beantwortet
+- TOP 36: Barrierefreiheit U 75 und 705 - beantwortet
+- TOP 37: Renaturierung Südliche Düssel - beantwortet
+- TOP 38: Seniorenwohnungen und Betreuungsangebote im Stadtbezirk 8 - beantwortet
+- TOP 39: Parkplatz Vennhauser Allee / Boston Club - beantwortet
+- TOP 40: Bebauungsplanverfahren Breidenplatz - vertagt
+- TOP 41: Parkplatz Festenbergstraße - vertagt
+- TOP 42: Ortseingangsbeschilderung am Elbsee - vertagt
+- TOP 43: Dynamische Fahrgastinformation im Stadtbezirk 8 - vertagt
+- TOP 44: Gedenkstätte Höherweg / Posener Straße - vertagt
+- TOP 45: Beleuchtung Monckartzhofweg - vertagt
+- TOP 46: Geschwindigkeitsregelung Eller Kamp - vertagt
+- TOP 47: Malwettbewerb für Grundschüler im Stadtbezirk 8 - vertagt
+- TOP 48: Stellplätze Kamper Weg - vertagt
+- TOP 49: Verbreiterung und Schutzstreifen Reichenbacher Weg - vertagt
+- TOP 50: Außengelände Rettungswache Vennhauser Allee 269 - vertagt
+- TOP 51: Verschmutzung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Unterflurcontainer Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 53: Baumscheiben im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Gehweg Gumbertstraße - zur Kenntnis genommen
+- TOP 55: Radweg Reisholzer Straße - zur Kenntnis genommen
+- TOP 56: Querungshilfe Eller Kamp - zur Kenntnis genommen
+- TOP 57: Geschwindigkeitsanzeigetafel Erfurter Weg - zur Kenntnis genommen
+- TOP 58: Masterplan Kinderspielplätze 2018 - zur Kenntnis genommen
+- TOP 59: Fuß- / Radweg Neusalzer Weg - zur Kenntnis genommen
+- TOP 60: Gehweg Gerresheimer Landstraße / Millrather Weg - zur Kenntnis genommen
+- TOP 61: Parkplatz BSA Vennhauser Allee 129 - zur Kenntnis genommen
+- TOP 62: Parkplatz Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 63: Verbindungsweg Rothenbergstraße / Gerresheimer Landstraße zum Unterbacher See - zur Kenntnis genommen
+- TOP 64: Logistik-Zentrum Dillenburger Weg - zur Kenntnis genommen
+- TOP 65: Plakatwände Unterführung Vennhauser Allee - zur Kenntnis genommen
+- TOP 66: Taubenpopulation in Eller - zur Kenntnis genommen
+- TOP 67: Bebauung ehemaliger Schützenplatz Sturmstraße / Sodener Weg - zur Kenntnis genommen
+- TOP 68: 'Nette Toilette' im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 69: Notfallsanitäter im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 70: Stationsbericht 2016 des VRR - zur Kenntnis genommen
+- TOP 71: Renaturierung Südliche Düssel - zur Kenntnis genommen
+- TOP 72: Toilettenanlage Nachbarschaftspark Am Stufstock - zur Kenntnis genommen
+- TOP 73: Blühstreifen Am Stufstock - zur Kenntnis genommen
+- TOP 74: Barrierefreiheit U 75 und 705 - zur Kenntnis genommen
