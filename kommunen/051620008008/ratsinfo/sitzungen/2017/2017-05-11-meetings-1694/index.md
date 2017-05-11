@@ -1,0 +1,103 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-05-11T18:00:00+02:00
+- Ende: 2017-05-11T20:10:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1694
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1694
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsentwurf 2018 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00078033.pdf
+- Ergebnisprotokoll: Haushaltsentwurf 2018 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00078033.pdf
+- Wortprotokoll: Haushaltsentwurf 2018 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00078033.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Verlängerte Fristen zur Einstellung der Vorstände in der neuen SBG AöR (Antrag Nr. 76/17) - Kenntnisnahme
+- TOP 2.1.2: Personelle Umbesetzung für den Bauausschuss (Antrag Nr. 92/17) - einstimmig
+- TOP 2.1.3: Mehr sichtbare Präsenz des Ordnungsamtes (Antrag Nr. 93/17) - einstimmig
+- TOP 2.2: SPD
+- TOP 2.3: UWG/ABG
+- TOP 2.3.1: Freies WLan im Pascal-Gymnasium (Antrag Nr. 71/17) - einstimmig
+- TOP 2.3.2: Vermüllung mit Unrat inkl. Fäkalien in Kapellen (Antrag Nr. 72/17) - einstimmig
+- TOP 2.3.3: Fußgängerzone in der Innenstadt (Antrag Nr. 73/17) - einstimmig
+- TOP 2.3.4: Lärm-/ Staubbelästigung durch die L116 (Antrag Nr. 75/17) - einstimmig
+- TOP 2.3.5: Ausschussumbesetzungen (Antrag Nr. 91/17) - einstimmig
+- TOP 2.3.6: Tombola (Antrag Nr. 74/17) - einstimmig
+- TOP 2.3.7: Änderung der Verordnung zur Werbung in der Stadt Grevenbroich (Antrag Nr. 77/17) - einstimmig
+- TOP 2.3.8: Stationäre Stellwände zur Wahlwerbung statt Streit um Plakatierungsstart (Antrag Nr. 78/17) - einstimmig
+- TOP 2.4: FDP
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.5.1: Sanierung des Schulneubaus an der Parkstraße (Antrag Nr. 89/17) - einstimmig
+- TOP 2.5.2: Frühzeitige Bürgerbeteiligung (Antrag Nr. 90/17) - einstimmig
+- TOP 2.5.3: Keine Diesel-KFZ (Antrag Nr. 95/17) - einstimmig
+- TOP 2.5.4: IG-Ost Gemarkung Barrenstein (3215), Flurstück 98 (Antrag Nr. 82/17) - einstimmig
+- TOP 2.5.5: Austausch des Verkehrsschilds "Beginn einer Tempo 30-Zone" (Antrag Nr. 83/17) - einstimmig
+- TOP 2.5.6: Wohnungsaufsichtsgesetz WAG NRW (Antrag Nr.84/17) - einstimmig
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.7: Die Linke/Piraten
+- TOP 2.8: FBG
+- TOP 2.9: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG/ABG
+- TOP 3.3.1: GU 34 Bürgerinformation am 18.04.2017 (Anfrage Nr. 80/17) - Kenntnisnahme
+- TOP 3.3.2: Plakatierung zur Landtagswahl 2017 (Anfrage Nr. 79/17) - Kenntnisnahme
+- TOP 3.4: FDP
+- TOP 3.4.1: Kosten Besserstellung der Verwaltungsmitarbeiter Einsatz Landtagswahl 2017 (Anfrage Nr. 81/17) - Kenntnisnahme
+- TOP 3.4.2: Bürgerbeteiligung an Finanzierung von kommunalen Projekten (Anfrage Nr. 88/17) - Kenntnisnahme
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.6.1: Aufstellung von Alttextil-Containern im Stadtgebiet (Anfrage Nr. 85/17) - Kenntnisnahme
+- TOP 3.6.2: IG-Ost (Anfrage Nr. 9/17) vom 26.01.2017 Nachfrage (Anfrage Nr. 86/17) - Kenntnisnahme
+- TOP 3.6.3: Projektcontrolling Citymanagement (Anfrage Nr. 87/17) - Kenntnisnahme
+- TOP 3.7: Die Linke/Piraten
+- TOP 3.8: FBG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 5.1: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2016 - einstimmig
+- TOP 5.2: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2017 - einstimmig
+- TOP 6: Flüchtlings- und Integrationsangelegenheiten
+- TOP 7: Ordnungsbehördliche Verordnung über die Kastrationspflicht von freilaufenden Katzen - mehrheitlich bei
+- TOP 8: JA 2016 - einstimmig
+- TOP 9: Auflösung der Beteiligung Pro Wildenburg eG - einstimmig
+- TOP 10: Haushalt 2018
+- TOP 11: BetriebsA
+- TOP 11.1: Eigenkapitalentnahme - einstimmig
+- TOP 12: RPA / HFD
+- TOP 12.1: Beratung des Berichtes der Gemeindeprüfungsanstalt vom 29.03.2017 über die überörtliche Prüfung der - einstimmig
+- TOP 13: Entscheidung PlanungsA
+- TOP 13.1: 1. Änd.N 46 - ern. Ausl.beschl. - einstimmig
+- TOP 13.2: 1. Änd.K 30 - Satzungsbeschluss - einstimmig
+- TOP 13.3: 11. Änd. G 158 - Aufstellung + frühz. Bet. - einstimmig
+- TOP 14: Beantwortung Anträge
+- TOP 14.1: Rheinwassertransportleitung (Antrag ABG/UWG, Nr. 6/17) - einstimmig
+- TOP 14.2: Beantwortung von Anträgen und Anfragen - hier: Sammelbeantwortung - einstimmig
+- TOP 14.3: Sachstandsbericht zur Umsetzung des Antrages "Crowdfunding-Plattform nutzen" Antrag Nr. 301/16 - einstimmig
+- TOP 14.4: Beantwortung von Antägen und Anfragen - hier: Sammelbeantwortung Teil 2 - einstimmig
+- TOP 15: Beantwortung Anfragen
+- TOP 15.1: Gewerbegebiet Neurath (Anfrage Nr. 11/17) - einstimmig
+- TOP 15.2: Beantragung von Landesmittel aus der "Strukturhilfe für Kohlerückzugsgebiete" (Anfrage Nr. 13/17) - einstimmig
+- TOP 15.3: Umsetzung Dorfentwicklungspläne (Anfrage Nr. 50/17) - einstimmig
+- TOP 15.4: Beantwortung der Anfrage Nr. 36/17: Sportstättenkonzept - einstimmig
+- TOP 16: mündliche Anträge/Anfragen
+- TOP 16.1: Alternative Standorte Schützenfest Stadtmitte (Anfrage Nr. 120/17)
+- TOP 16.2: Gutachten zur Sanierung der Wilhelm-von-Humboldt-Gesamtschule (Anfrage Nr. 121/17)
+- TOP 16.3: Interne Einsparungen (Anfrage Nr. 122/17)
+- TOP 16.4: Anschreiben Rodungsarbeiten (Anfrage Nr. 123/17)
+- TOP 16.5: Situation zur RB38 (Anfrage Nr. 124/17)
+- TOP 16.6: Personalsituation Kindertagesstätte in Neuenhausen (Anfrage Nr. 125/17)
+- TOP 16.7: Einbruch 1. FC Grevenbroich-Süd (Anfrage Nr. 126/17)
+- TOP 16.8: Ratsinformationssystem (Anfrage Nr. 127/17)
+- TOP 16.9: „Altes Stellwerk“ Kapellen (Anfrage Nr. 128/17)
+- TOP 16.10: Brückengeländer „Am Wehr“ (Anfrage Nr. 129/17)
+- TOP 16.11: Umsetzungsstand FDP-Antrag Nr. 22/16 (Anfrage Nr. 130/17)
+- TOP 16.12: Linksabbiegerschild Am Wehr/An der Eiche (Anfrage Nr. 131/17)
+- TOP 16.13: Blockierte Gehwege Rheydter Straße (Anfrage Nr. 132/17)
+- TOP 17: Mitteilungen BM
