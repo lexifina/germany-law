@@ -1,0 +1,52 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-05-12T16:00:00+02:00
+- Ende: 2017-05-12T18:25:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13402
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13402
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00291075.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00291075.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00291075.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen zu TOP 5 + 6 - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Vorstellung des Jahresprogramms der Stiftung Schloss und Park Benrath - zur Kenntnis genommen
+- TOP 6: Vorstellung des Welcome-Points für die Stadtbezirke 9 und 10 - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Architektenwettbewerb Hospitalstraße 1 - Vorstellung der Ergebnisse - zur Kenntnis genommen
+- TOP 12: Denkmalbereichssatzung Plan Nr 09/010 Rathausviertel Benrath Satzungsbeschluss - einstimmig beschlossen
+- TOP 13: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2017 - einstimmig beschlossen
+- TOP 14: Planung zum Betrieb einer städtischen Kindertageseinrichtung - Potsdamer Straße 41 - zur Kenntnis genommen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2017 (Liste A) - vertagt
+- TOP 16: Anfrage: Ehemaliges Sportgelände Paulsmühle - zur Kenntnis genommen
+- TOP 17: Anfrage: Bunker Kölner Landstr./ Burscheider Str. - zur Kenntnis genommen
+- TOP 18: Anfrage: Errichtung eines Sendemastes am Dechenweg - zur Kenntnis genommen
+- TOP 19: Anfrage: Baustelle an Bürgersteig/Fußgängerüberweg Benrodestr./ Hospitalstr. - zur Kenntnis genommen
+- TOP 20: Anfrage: Brunnenanlage Paulsmühlen-/Telleringstr. - zur Kenntnis genommen
+- TOP 21: Anfrage: Erweiterung des Gehweges Kappeler Str. - zur Kenntnis genommen
+- TOP 22: Anfrage: Private Kleingartenanlage Ohmweg - zur Kenntnis genommen
+- TOP 23: Antrag: Gehwegparken Humperdinckstraße - mehrheitlich beschlossen
+- TOP 24: Antrag: Verkehrskonzept Stadtbezirk 9 - einstimmig beschlossen
+- TOP 25: Antrag: Verfügungsmittel Diakonie, Ernst-Lange-Haus - Stadtteilfest "Kumm eruss" - einstimmig beschlossen
+- TOP 26: Antrag: Verfügungsmittel Kinderclub "In der Donk" - Kindertheater Tom Teuer - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel Düsseldorfer Hofmusik - 8. Internationale Sommerakademie Schloss Benrath - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel Seelsorgeeinheit Düsseldorfer Rheinbogen - CREDO-Themenwoche - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel St. Sebastianus Reiterkorps - Werstener Reitertage - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel St. Sebastianus-Schützenverein Düsseldorf-Holthausen 1925 e.V. - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Benrather Marktinitiative - einstimmig beschlossen
+- TOP 32: Informationsvorlage zum Beschluss der BV 9 vom 04.11.2016, 179/243/2016 - zur Kenntnis genommen
+- TOP 33: Informationsvorlage zum Beschluss der BV 9 vom 03.02.2017, Absolutes Haltverbot auf der Straße "Alt - zur Kenntnis genommen
+- TOP 34: Informationsvorlage zum Beschluss der BV 9 vom 03.02.2017, Fahrradstation Bahnhof Benrath - zur Kenntnis genommen
+- TOP 35: Informationsvorlage: Masterplan Kinderspielplätze - zur Kenntnis genommen
