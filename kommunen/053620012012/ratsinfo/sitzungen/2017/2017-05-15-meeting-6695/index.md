@@ -1,0 +1,54 @@
+# Hauptausschuss (51. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-05-15T18:00:00+02:00
+- Ende: 2017-05-15T21:00:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQTXBPnO9OfSlCei7Lm-shk
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6695
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR2gJhhJf9j_G1oeJVrkVSjUZD-yKLwINXML2D_wBpiY/Bekanntmachung_Hauptausschuss_15.05.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZScqhpxFKocn0DZGnCTxJ4pkGilcw-jiBXaJ9cpy_xAz/Oeffentliche_Niederschrift_Hauptausschuss_15.05.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Zur Tagesordnung
+- TOP 1.: Niederschrift vom 03.04.2017
+- TOP 2.: Stadtführungen "Gegen das Vergessen - Auf den Spuren jüdischen Lebens in Brühl" hier: Anpassung des Honorars für die Stadtführerinnen Bezug: Antrag gem. § 24 GO der Brühler Initiative für Völkerverständigung vom 25.4.2017 - (kein Text vorhanden)
+- TOP 3.: Bürgerbeteiligung in der Stadt Brühl hier: Aktualisierung Vorhabenliste und Beteiligungsprotokolle
+- TOP 4.: Fördermaßnahme Investitionspakt Soziale Integration im Quartier Mehrzweckhalle Clemens August Campus - (kein Text vorhanden)
+- TOP 5.: "Forum Sonderspaß" im ehem. Max-Ernst-Kabinett, Bahnhofstr. 21 hier: Stellungnahme Bezirksregierung zur künftigen Bebauung Belvedere-Gelände
+- TOP 6.: Studie City-Marketing; Ansätze zum Erhalt und zur Verbesserung der Attraktivität der Brühler Innenstadt - (kein Text vorhanden)
+- TOP 7.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 06.92, "Gallbergsiedlung" 2. , Änderung nach Wechsel der Erschließungsträgerin - (kein Text vorhanden)
+- TOP 8.: Ermächtigungsübertragung aus dem Haushaltsplan 2016 nach 2017
+- TOP 9.: Überplanmäßige Mittelbereitstellungen
+- TOP 9.1: Überplanmäßige Mittelbereitstellung zur Bezuschussung des Projektes "IntESpo REK" von ASH Sprungbrett e.V. - (kein Text vorhanden)
+- TOP 9.2: Einrichtung einer Stelle für Koordinierungsaufgaben in den Familienzentren Bezug: JHA am 14.03.2017 und Sozialausschuss am 28.03.2017 hier: Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 9.3: Kindertagesbetreuung in Einrichtungen Bau und Einrichtung von 2 vorläufigen Gruppen im Jugendkulturhaus „Passwort Cultra“ durch den Arbeiter-Samariter-Bundes (ASB) Regionalverband Erft/Düren e.V. hier: Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 10.: Zusätzliche Außerplanmäßige Mittelbereitstellung Baufeldfreimachung und Bodenentsorgung Kita Ost - (kein Text vorhanden)
+- TOP 11.: Verschmelzung der Energievereine im Rhein-Erft-Kreis - Bio TecRheinErft e.V., Förderverein EkoZet und Verein für moderne Energie
+- TOP 12.: Dienstreise des 2. Stellvertretenden Bürgermeisters Heinz Jung nach Sceaux - (kein Text vorhanden)
+- TOP 13.: Antrag
+- TOP 13.1: Workshop "Folgerungen für Brühl aus dem Gutachten REload - Zukunft Rhein-Erft-Kreis 2030" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 12.02.2017
+- TOP 13.1.1: Workshop "Folgerungen für Brühl aus dem Gutachten REload - Zukunft des Rhein-Erft-Kreises 2030" Bezug: Antrag CDU/GRÜNE vom 12.2.2017, Vorlage Nr. 83/2017 - (kein Text vorhanden)
+- TOP 14.: Bahnübergang Brühl-Süd
+- TOP 15.: Mitteilungen
+- TOP 15.1: Straßenbauarbeiten Euskirchener Straße
+- TOP 16.: Anfragen
+- TOP 16.1: Parkverbot Gartenstraße
+- TOP 16.2: WLan-Hotspots
+- TOP 16.3: Übersicht Haushaltssituation
+- TOP B): Nichtöffentliche Sitzung
+- TOP 17.: Änderung des Gesellschaftsvertrages der Stadtwerke Brühl GmbH sowie der Geschäftsordnung des Aufsichtsrates - (kein Text vorhanden)
+- TOP 18.: Bestellung des Leiters des Fachbereichs "Bauen und Umwelt" und Widerruf der Bestellung des Leiters der Abteilung "Planung und Umwelt"
+- TOP 19.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 20.: Stundung Gewerbesteuer - (kein Text vorhanden)
+- TOP 21.: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 22.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 23.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen
+- TOP 25.1: Landtagswahl 14.5.2017
