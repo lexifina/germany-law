@@ -1,0 +1,82 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-05-15T16:00:00+02:00
+- Ende: 2017-05-15T20:02:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12748
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12748
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit d. Ergebnissen d. Vorberatung - Stand: 05.05.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00206114.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00206876.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einbringung des Leitlinienentwurfs Bürgerbeteiligung (nur Rat)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Benennung einer Wupperbrücke am Landgericht in „Martin-Gauger-Brücke“ - Entgegennahme ohne Beschluss
+- TOP 2.2: Hohe Zahl an vollziehbar ausreisepflichtigen Ausländern in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Hohe Zahl an vollziehbar ausreisepflichtigen Ausländern in Wuppertal" (VO/0332/17) vom 24.04.2017 - Entgegennahme ohne Beschluss
+- TOP 2.3: Landesförderung zur Beseitigung von Schrottimmobilien - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 04.05.2017 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Beschilderung des Kreisverkehrs Neuenteich
+- TOP 3.2: Bürgerantrag zur Freigabe der Fußgängerzonen für den Lieferverkehr mit Fahrrädern
+- TOP 3.3: Bürgerantrag zur Entfernung des Verkehrszeichens 286 im Kreuzungsbereich Vohwinkeler Straße / Zur langen Brücke
+- TOP 3.4: Bürgerantrag zur Aufhebung der Radwegebenutzungspflicht im Bereich B7 / Brausenwerth / Morianstraße
+- TOP 3.5: Bürgerantrag zu Schwerpunktkontrollen bei regelmäßig begangenen Ordnungswidrigkeiten
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Appell zur Luftreinhaltung - Stadtluft muss sauber sein: Elektromobilität stärker fördern – ÖPNV und Radverkehr ausbauen - zur Vorberatung verwiesen
+- TOP 4.2: Streichung jeglicher Unterstützung für das "Autonome Zentrum" in Elberfeld - abgelehnt
+- TOP 4.3: Kommunale Asylkosten der Bundeskanzlerin berechnen - abgelehnt
+- TOP 4.4: Schulvielfalt erhalten - zur Vorberatung verwiesen
+- TOP 4.5: LVR-Jahresüberschuss den Mitgliedskommunen zurückgeben! - abgelehnt
+- TOP 4.6: Resolution zur geplanten Sperrung des Schienenverkehres während der Sommerferien in Wuppertal - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Hauptsatzung der Stadt Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.1.1: Änderung der Hauptsatzung der Stadt Wuppertal - Ergänzung - ungeändert beschlossen
+- TOP 6.2: Neufassung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen - ungeändert beschlossen
+- TOP 6.3: Neufassung der Satzung zur Durchführung von Einwohneranträgen, Bürgerbegehren, Bürgerentscheiden und Ratsbürgerentscheiden gemäß §§ 25 und 26 der Gemeindeordnung für das Land Nordrhein-Westfalen - abgesetzt
+- TOP 6.4: Zweite Satzung zur Änderung der Abfallwirtschaftssatzung der Stadt Wuppertal vom 19.12.2012 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2016 - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligungsbericht 2015 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.2: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 8.4: Erhöhung der unmittelbaren Beteiligung an der Wendepunkt - Wuppertaler Krisendienst GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 634 - Funckstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1240 - Morianstraße / Wupperpark Ost - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 846 - Schwarzbach - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1159 - Futterstraße / Dickmannstraße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1205 - Märkische Straße / Hatzfelder Straße - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1208 - Berliner Straße / Rauer Werth - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1206 - Carnaper Straße / Hatzfelder Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Weiterentwicklung Historisches Zentrum – Sanierung und Restaurierung des Engels-Hauses und Neubau eines Besucherzentrums (Ankerpunkt China Nordrhein-Westfalen) - ungeändert beschlossen
+- TOP 10.2: Verlagerung des WSV-Fußballjugendleistungszentrums von der Nevigeser Str. zum Stadion und Sportplatz Nocken - ungeändert beschlossen
+- TOP 10.2.1: Ergebnis des Höchstgebotsverfahrens für den Verkauf desErgebnis des Höchstgebotsverfahrens Nevigeser Straße - Entgegennahme ohne Beschluss
+- TOP 10.3: Erweiterung der städtischen Tageseinrichtung für Kinder Grafenstraße und Errichtung eines Ersatzbaues - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Vorberatungen nicht abgeschlossen. Projekt Seilbahn - Grundsatzbeschluss - abgesetzt
+- TOP 11.1.1: Freiwilliger Ratsbürgerentscheid in Sachen Seilbahnprojekt - vertagen
+- TOP 11.2: 75 Familien Plus – Information zum Modellprojekt in Wichlinghausen-Süd - ungeändert beschlossen
+- TOP 11.3: Vereinbarung zur Erhaltung des Tunnels Schee - ungeändert beschlossen
+- TOP 11.4: Fortführung der Sozialen Arbeit an Schulen bis zum 31.12.2018 (Schulsozialarbeit nach dem Bildungs- und Teilhabepaket) - ungeändert beschlossen
+- TOP 11.5: Stadtentwässerung - Maßnahmenkatalog 2018 / Katalogentwurf 2019 - ungeändert beschlossen
+- TOP 11.6: Auswahlverfahren für Veranstalter von Weihnachtsmärkten - geändert beschlossen
+- TOP 11.7: Einrichtung neuer Haltestellen aufgrund von Linienwegänderungen der NachtExpress-Linien NE 1 und NE 7 - ungeändert beschlossen
+- TOP 11.7.1: Einrichtung neuer Haltestellen aufgrund von Linienwegänderungen der NachtExpress-Linien NE 1 und NE 7 - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines Mitglieds für den Aufsichtsrat der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 12.2: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.3: Einigungsstelle der Stadtverwaltung Wuppertal (§ 67 Landespersonalvertretungsgesetz Nordrhein-Westfalen) - Bestimmung der von der Dienststelle zu benennenden Beisitzerinnen und Beisitzer - - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung Umweltausschuss - ungeändert beschlossen
