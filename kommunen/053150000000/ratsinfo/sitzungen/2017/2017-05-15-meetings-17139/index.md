@@ -1,0 +1,81 @@
+# 23. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-15T16:00:00+02:00
+- Ende: 2017-05-15T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17139
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17139
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611790.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611790.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00611790.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Wohnmobil-Parken in Köln-Sülz (Az.: 02-1600-210/16) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Messstelle zur Erfassung von Flugzeuglärm / Anfrage der SPD-Fraktion vom 20.02.2016 - Kenntnis genommen
+- TOP 7.1.2: Sachstandsbericht Machbarkeitsstudie Bahnsteiganhebung Gürtel - Linie 13 - Kenntnis genommen
+- TOP 7.1.3: Anfrage betreffend Mehrzweckhalle in Köln-Weiden / Anfrage der CDU Fraktion - Kenntnis genommen
+- TOP 7.1.4: Diverse Aufhebungen von Parkplätzen - Kenntnis genommen
+- TOP 7.1.5: Bereitstellung einer Sportstätte für den Sportverein 'Vorwärts Spoho 98 e.V.' /Anfrage der CDU Fraktion vom 14.11.2016 - Kenntnis genommen
+- TOP 7.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.7: Sachstandsbericht Radverkehrskonzept Lindenthal - Kenntnis genommen
+- TOP 7.1.8: Sendemast in Höhe der Kronstädter Straße/Anfrage der CDU Fraktion - Kenntnis genommen
+- TOP 7.1.9: Sachstandsbericht 2016 für die Bezirksvertretung Lindenthal von Amt 67 - Kenntnis genommen
+- TOP 7.1.10: Beantwortung von Anfragen des Amtes 61, Stadtplanungsamt - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage zum Prüfantrag "Verkehrsberuhigung der Moltkestraße in Köln Weiden" vom 20.11.2015 - Kenntnis genommen
+- TOP 7.2.2: Schließung von Sparkassenfilialen - Kenntnis genommen
+- TOP 7.2.3: Parkpalette Weiden West - Kenntnis genommen
+- TOP 7.2.4: Bewohnerparken - Kenntnis genommen
+- TOP 7.2.5: Anfrage zum Sachstand des Prüfantrages zur Verbesserung der Verkehrssicherheit Fußgängerüberweg Dürener Straße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Benennung von Straßen im Neubaugebiet Werthmannstraße - ungeändert beschlossen
+- TOP 8.1.2: Neuordnung der Parkzone in der Dr. Johannes-Hoffer-Straße - ungeändert beschlossen
+- TOP 8.1.3: Fahrradschutzstreifen zwischen der Autobahnbrücke entlang der Kölner Straße - ungeändert beschlossen
+- TOP 8.1.4: Verkehrsberuhigung Kölner Straße - ungeändert beschlossen
+- TOP 8.1.5: Beschriftung des römischen Sarkophags am Adenauer Weiher - ungeändert beschlossen
+- TOP 8.1.6: Reinigung Friedrich-Engels Str. - geändert beschlossen
+- TOP 8.1.7: Beseitigung Stolperfallen Wendelinstraße/Brücke - ungeändert beschlossen
+- TOP 8.1.8: Hot Spot Schutzhütte - ungeändert beschlossen
+- TOP 8.1.9: Errichtung Schutzhütte Widdersdorf - ungeändert beschlossen
+- TOP -: Errichtung Schutzhütte in Widdersdorf - Kenntnis genommen
+- TOP -: Ergänzungsantrag zu TOP 8.1.8/8.1.9, Ablehnung des gemeinsamen Antrags durch die Verwaltung - ungeändert beschlossen
+- TOP 8.1.10: Austausch von Kulturhinweistafeln - ungeändert beschlossen
+- TOP 8.1.11: Blühstreifen in öffentlichem Grün - ungeändert beschlossen
+- TOP 8.1.12: Verkehrswidriges Parken von Fahrzeugen - ungeändert beschlossen
+- TOP 8.1.13: Pflegezustand von Straßenschildern und Hinweistafeln - ungeändert beschlossen
+- TOP 8.1.14: Errichtung Bänke Sternplatz - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Baubeschluss für die Umgestaltung des Knotenpunktes Friedrich-Schmidt-Straße / Kitschburger Straße - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße / Militärringstraße - ungeändert beschlossen
+- TOP 9.2.2: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung - geändert beschlossen
+- TOP 9.2.3: Schulrechtliche Errichtung des Gymnasiums Zusestraße/ Kölner Straße in Lövenich - Interimsstart am Standort Neue Sandkaul in Widdersdorf in angemieteten/ erworbenen Räumlichkeiten der privaten Internationalen Friedensschule - geändert beschlossen
+- TOP 9.2.4: Änderung der Zuständigkeitsordnung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.5: 3. Nahverkehrsplan der Stadt Köln - Kenntnis genommen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.2: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Stadtradeln 2017 - Kenntnis genommen
+- TOP 11.3.2: Errichtung einer temporären Unterkunft für Geflüchtete in Systembauweise am Standort Dürener Str. (neben 283 - Kenntnis genommen
+- TOP 11.3.3: Vergabe bezirkdienlicher Mittel, die dem Sport zugute kommen - Kenntnis genommen
+- TOP 11.3.4: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
