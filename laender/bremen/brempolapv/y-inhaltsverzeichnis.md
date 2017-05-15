@@ -15,13 +15,13 @@ Abschnitt 3 Prüfungen
 § 10 | Prüfungsausschuss
 § 11 | Aufgaben des Prüfungsausschusses und ihrer oder ihres Vorsitzenden
 § 12 | Beschlussfassung im Prüfungsausschuss
-§ 13 | Prüfungskommission
+§ 13 | (weggefallen)
 § 14 | Modulprüfungen
 § 15 | Arten von Prüfungsleistungen
 § 16 | Anrechnung von Studienzeiten und Prüfungsleistungen
 § 17 | Bachelorarbeit
-§ 18 | Zulassung zur mündlichen Bachelorprüfung
-§ 19 | Mündliche Bachelorprüfung
+§ 18 | (weggefallen)
+§ 19 | (weggefallen)
 § 20 | Wirkung des Bestehens der Bachelorprüfung
 § 21 | Bewertung von Prüfungsleistungen und Bildung der Noten
 § 22 | Wiederholung von Prüfungen
