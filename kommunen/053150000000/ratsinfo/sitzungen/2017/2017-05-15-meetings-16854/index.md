@@ -1,0 +1,83 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-15T14:30:00+02:00
+- Ende: 2017-05-15T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16854
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16854
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Bericht über die Entwicklung der wesentlichen Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2013
+- TOP 2.2: Realisierung von Zweifachturnhallen beim Neubau von Grundschulen - Kenntnis genommen
+- TOP 2.3: 14. Bericht zur Unterbringung und Integration von Flüchtlingen - Kenntnis genommen
+- TOP 2.4: Stadtradeln 2017 - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.6: mündliche Anfragen aus der Sitzung des Ausschusses für Soziales und Senioren am 26.01.2017 - Kenntnis genommen
+- TOP 2.7: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 2.8: Sachstandsbericht zur Archäologischen Zone - Kenntnis genommen
+- TOP 2.9: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 2.10: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.11: Kliniken der Stadt Köln gGmbH - zurückgestellt
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend Zukunft des RheinEnergieStadions - zurückgestellt
+- TOP 3.2: Anfrage der SPD-Fraktion betreffend Einzug der Elternentgelte für die Kinderbetreuung - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage betreffend Einzug der Elternentgelte für die Kinderbetreuung - Anfrage der SPD-Fraktion AN/0721/2017 - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Antrag der Piratengruppe betreffend Köln wird korporatives Mitglied bei Transparency International - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Teilplan 1302 - Wasser und Wasserbau; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - zurückgestellt
+- TOP 6.2: Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln hier: Bonner Straße 478-482, 50968 Köln - ungeändert beschlossen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Politische Zusetzungen für den Fachbereich Umwelt und Grün (2017) - ungeändert beschlossen
+- TOP 7.2: Ersatz- und Neubeschaffung von 7 Kolonnenfahrzeugen mit Doppelkabine (bis 3,5 t) für die Bestattungen und die Grünpflege auf den Kölner Friedhöfen - ungeändert beschlossen
+- TOP 7.3: Programm "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 7.4: Kleingartenanlage Takufeld, Rochuspark - ungeändert beschlossen
+- TOP 7.5: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 7.6: Stadtklima-/Stadtverschönerungsprogramm 2015 - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 7.7: Kleingartenanlage An der Ling - ungeändert beschlossen
+- TOP 7.8: Kleingartenanlage Scheibenstraße-Ost - ungeändert beschlossen
+- TOP 7.9: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 7.10: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2017 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2016 und 2017. - ungeändert beschlossen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Sanierung und Umbau des städtischen Gebäudes Rothenburger Str. 2, 51103 Köln-Vingst, zur Sicherstellung der gesetzlichen Unterbringungsverpflichtung für Geflüchtete - Baubeschluss - ungeändert beschlossen
+- TOP 12.2: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Katholische Grundschule Gutnickstr.37, 50769 Köln - ungeändert beschlossen
+- TOP 12.3: Planungsaufnahme zur Errichtung einer 3-fach Turnhalle sowie von 4 zusätzlichen Klassenräumen für das Herder - Gymnasium, Kattowitzer Str. 52, 51065 Köln Buchheim - ungeändert beschlossen
+- TOP 12.4: Fahrzeug- und Arbeitsmaschinenkonzept (II. Fortschreibung) 2017 - 2025 - ungeändert beschlossen
+- TOP 12.5: Baubeschluss für die Erneuerung von 6 Fahrtreppenanlagen an den Stadtbahnhaltestellen Friesenplatz und Hans-Böckler-Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes des Hj. 2017 - ungeändert beschlossen
+- TOP 12.6: Bedarfsfeststellungsbeschluss für die Erneuerung des Verkehrsleitsystems sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-1057, Verkehrsleitsystem, Erneuerung - ungeändert beschlossen
+- TOP 12.7: Feinkonzept zur Umsetzung von Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - zurückgestellt
+- TOP 12.8: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2017/18 - ohne Votum in nachfolgende Gremien
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen von CDU, Bündnis 90/ Die Grünen, FDP sowie der Ratsgruppe GUT betreffend Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2017/18 - ohne Votum in nachfolgende Gremien
+- TOP 12.9: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2017 - ungeändert beschlossen
+- TOP 12.10: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2015 - Beteiligungsbericht 2015 - ungeändert beschlossen
+- TOP 12.11: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Meschenich und Rondorf" - ungeändert beschlossen
+- TOP 12.12: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 - ungeändert beschlossen
+- TOP 12.13: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 12.14: Stadtentwässerungsbetriebe Köln, AöR (StEB) - ungeändert beschlossen
+- TOP 12.15: Schulrechtliche Errichtung des Gymnasiums Zusestraße/ Kölner Straße in Lövenich - Interimsstart am Standort Neue Sandkaul in Widdersdorf in angemieteten/ erworbenen Räumlichkeiten der privaten Internationalen Friedensschule - geändert beschlossen
+- TOP 12.16: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 12.17: Übertragung der hoheitlichen Aufgabe der Unterhaltung und Sanierung der Parkweiher auf die Stadtentwässerungsbetriebe Köln, AöR - ungeändert beschlossen
+- TOP 12.18: Renovierungsprogramm Museen und Kulturbauten 2017 - ungeändert beschlossen
+- TOP 12.19: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - ohne Votum in nachfolgende Gremien
+- TOP 12.20: Wiedereinführung des kommunalen Vorkaufsrechtes - ungeändert beschlossen
+- TOP 12.21: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan 2017 - ungeändert beschlossen
+- TOP 12.22: Änderung der "Entgelt- und Honorarordnung für den Museumsdienst Köln" - ohne Votum in nachfolgende Gremien
+- TOP 12.23: Fortsetzung des Projektes "museumsbus.koeln" - ungeändert beschlossen
+- TOP 12.24: Überplanmäßiger Mehrbedarf im Teilergebnisplan 0208 - Personenstandswesen; Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 12.25: Bedarfsfeststellungsbeschluss im Zuge des erhöhten Risikomanagements der Stadt Köln für die Silvesterfeiern in den Jahren 2017 bis 2020 und Vergabe der Leistungen - ohne Votum in nachfolgende Gremien
+- TOP 12.26: Offene Ganztagsschule im Primarbereich - bedarfsgerechter Ausbau auf 29.700 Plätze - ungeändert beschlossen
+- TOP 12.27: Nationale Projekte des Städtebaus: "Lebenswertes Chorweiler – ein Zentrum im Wandel"; Umgestaltung des Liverpooler Platzes und des Pariser Platzes sowie des "Lyoner Platzes"; Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 12.28: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2016 - ungeändert beschlossen
+- TOP 13: Mündliche Anfragen
