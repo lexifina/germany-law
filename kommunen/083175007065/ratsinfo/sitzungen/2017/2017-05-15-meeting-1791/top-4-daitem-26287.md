@@ -1,0 +1,9 @@
+# TOP 4.: Wahlen zum Aufsichtsrat der Bauverein Lahr GmbH
+
+- Sitzung: Gemeinderat (4. Sitzung) (2017-05-15)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/26287
+- Ergebnis: Einstimmig
+- Beratung: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/3250
+- Beschluss (Datei): Beschlusstext (Wahlen zum Aufsichtsrat der Bauverein Lahr GmbH) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcFCByJE0Ox8OUWyZNLBrXR8SQ1O4tOSwhcL5Zb_iMk6/Beschlusstext_81-2017_-oeffentlich-_Gemeinderat_15.05.2017.pdf
