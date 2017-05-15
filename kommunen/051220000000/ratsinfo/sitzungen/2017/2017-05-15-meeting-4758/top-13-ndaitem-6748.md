@@ -1,0 +1,7 @@
+# TOP 13: Ausbauplanung für das Kindergartenjahr 2017/2018 Erteilung Ausnahmegenehmigung nach § 19 Abs. 3 KiBiz
+
+- Sitzung: Jugendhilfeausschuss (2017-05-15)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/6748
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/2357
