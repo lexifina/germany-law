@@ -1,0 +1,99 @@
+# 26. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-16T17:00:00+02:00
+- Ende: 2017-05-16T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17403
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17403
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Antrag auf aktuelle Stunde der SPD-Fraktion: Verkehrssituation in Porz - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: B - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrs- und Straßenreinigungssituation in der Bergerstraße - Köln-Porz (Az.: 02-1600-154/16) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Umwidmung eines Fuß- und Radweges an der Groov in Köln-Porz (Az.: 02-1600-187/16) - Geschoben wegen ausstehender Information der Fachverwaltung. - Sache ist erledigt
+- TOP 2.2.1: Änderungsantrag der Fraktion die Grünen zu TOP 2.2 - Sache ist erledigt
+- TOP 2.2.2: Bürgereingabe gem. § 24 GO, betr.: Parken auf dem Poller Marktplatz (Az.: 02-1600-184/16) - Sache ist erledigt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 6.1: Antrag der CDU-Fraktion - Sondersitzung Verkehr. Aus den letzten Sitzungen geschoben. - zurückgestellt
+- TOP 6.1.1: Änderungsantrag der Fraktion die Grünen zu TOP 6.1 - Verkehr - zurückgestellt
+- TOP 6.1.2: Änderungsantrag der SPD-Fraktion zu TOP 6.1 -Sondersitzung Verkehr - zurückgestellt
+- TOP 6.1.3: Sachstand der Verwaltung: TOP 6.1 Antrag der CDU Fraktion Sondersitzung Verkehr - Kenntnis genommen
+- TOP 6.2: NEUFASSUNG: Antrag der SPD-Fraktion: Sicherung und Umwandlung Kiesbaggersee Gremberghoven/ Alberti-See - aus der letzten Sitzung nach dem Fachvortrag geschoben - geändert beschlossen
+- TOP 6.3: Antrag der Fraktionen CDU und Grüne: Mittel aus dem Stadtverschönerungsprogramm 2016 - aus der letzten Sitzung geschoben wegen Beratungsbedarf - zurückgestellt
+- TOP 6.4: Antrag der SPD-Fraktion: Jugend-Sitzung der Bezirksvertretung Porz - aus der letzten Sitzung geschoben wegen Beratungsbedarf - zurückgestellt
+- TOP 6.4.1: Änderungsantrag der Fraktionen CDU und Grüne zu TOP 6.4: : Jugend-Sitzung der Bezirksvertretung Porz - zurückgestellt
+- TOP 6.5: NEUFASSUNG: Antrag der CDU-Fraktion: Entfernung der Gefahrenstelle Querungshilfe Fasanenweg/ Frankfurter Straße in Porz- Wahn - bis zur Beantwortung durch die Fachverwaltung geschoben - zurückgestellt
+- TOP 6.6: Antrag der SPD-Fraktion: Takterhöhung Linie 7 - zurückgestellt
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7.1: Änderungsantrag der SPD-Fraktion zu TOP 6.7 - Sache ist erledigt
+- TOP 6.8: Antrag der SPD-Fraktion:Untersuchung von Verkehrsvarianten im Porzer Süden - zurückgestellt
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9.1: Änderungsantrag der SPD-Fraktion zu TOP 6.9 - Poller Wiesen - geändert beschlossen
+- TOP 6.10: Antrag der SPD-Fraktion: Beschilderung und Querungshilfen Alte Kölner Straße - ungeändert beschlossen
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11.1: Änderungsantrag der SPD-Fraktion zu TOP 6.11. - Westhovener Aue - geändert beschlossen
+- TOP 6.12: Antrag der SPD-Fraktion: Parkplatz gegenüber Heidestraße Nr. 246 in Wahnheide - ungeändert beschlossen
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Antrag der CDU-Fraktion: Entwässerung Houdainer Straße - ungeändert beschlossen
+- TOP 6.15.1: Änderungsantrag der SPD-Fraktion zu TOP 6.15 - Houdainer Straße - endgültig abgelehnt
+- TOP 6.16: Gemeinsamer Antrag der Fraktionen CDU und SPD: Siegburgerstraße - geändert beschlossen
+- TOP 6.16.1: Änderungsantrag der SPD-Fraktion zu TOP 6.16 - Sache ist erledigt
+- TOP 6.17: Antrag der CDU-Fraktion: Sperrung der GE- Straßen "Alte Blockstelle" und "Aloys- Boecker" in Porz- Lind für - ungeändert beschlossen
+- TOP 6.18: Antrag der CDU-Fraktion: Öffnung des Spielplatzes Ahl Poller Schull in Poll - ungeändert beschlossen
+- TOP 6.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - aus der letzten Sitzung geschoben wegen Beratungsbedarf - ungeändert beschlossen
+- TOP 7.1.1.1: Von der Antragstellerin zurückgezogen
+- TOP 7.1.2: Vergabe der bezirksorientierten Mittel 2017 - aus der letzten Sitzung bis zur Erstellung der Liste durch die Konsensrunde geschoben - ungeändert beschlossen
+- TOP 7.1.3: Abbau der Lichtsignalanlage Friedensstr./Mühlenweg, Programm Alternative Betriebsformen - ungeändert beschlossen
+- TOP 7.1.4: Kunstausstellungen des Bürgeramtes Porz im Jahr 2017 - ungeändert beschlossen
+- TOP 7.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.2.1: Hochwasserschutzzonenverordnung Poll bis Rheinpark Deutz - Aus den letzten Sitzungen bis zur Information der Fachverwaltung geschoben - ungeändert empfohlen
+- TOP 7.2.2: Am Bahnhof in Köln-Porz-Wahn; VEP; Beschluss über die Einleitung (vorhabenbezogener Bebauungsplan) und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - aus der letzten Sitzung wegen Beratungsbedarf geschoben - mit Änderungen empfohlen
+- TOP 7.2.2.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.2.2 - geändert beschlossen
+- TOP 7.2.3: 259. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 7.2.4: 3. Nahverkehrsplan der Stadt Köln - mit Änderungen empfohlen
+- TOP 7.2.4.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.2.4 - Nahverkehrsplan - ungeändert beschlossen
+- TOP 7.2.5: 75393/02; Ohmstraße in Köln-Porz; Aufhebung des Einleitungsbeschlusses - ungeändert empfohlen
+- TOP 7.2.6: Zurückgezogen
+- TOP 8: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Untersuchung der verkehrlichen Auswirkung der zukünftigen Wohnbebauung Nachtigallenstraße in Porz-Wahn - Kenntnis genommen
+- TOP 8.1.2: Parkraumkonzept für die Umgebung des Marktplatzes "Am Schwanebitzer Hof" in Köln-Porz-Urbach - Kenntnis genommen
+- TOP 8.1.3: Neue Aufstellung von vielen Schildern "Eingeschränktes Haltverbot" in der St.-Ägedius-Straße - Kenntnis genommen
+- TOP 8.1.4: Sachstand zu dem Projekt Kita Frankfurter Str. 77 - Kenntnis genommen
+- TOP 8.1.5: Sachstand zu einem Abbruch der KVB-Fahrgastbeförderung am 23.09.2016 gegen 15:37 Uhr - Kenntnis genommen
+- TOP 8.1.6: Überprüfung zum Einsatz eines KVB-Gelenkbusses der Linie 160 um 15:17 Uhr Halteststelle - Kenntnis genommen
+- TOP 8.1.7: Fachgespräch vom 28.11.2016 "Verkehrsuntersuchung-Prognosenetz Porz: - Kenntnis genommen
+- TOP 8.1.8: Fischerweg in Porz-Mitte - Kenntnis genommen
+- TOP 8.2: Neue Anfragen
+- TOP 8.2.1: Anfrage der CDU-Fraktion: Rund um den Bahnhof Wahn, Straße: Am Bahnhof, Porz- Wahn - Kenntnis genommen
+- TOP 8.2.2: Anfrage der CDU-Fraktion: Städtebauliche Entwicklung von Porz-Mitte - Kenntnis genommen
+- TOP 8.2.3: Anfrage der CDU-Fraktion: B-Plan am Bahnhof - Kenntnis genommen
+- TOP 9: Mitteilungen
+- TOP 9.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 9.2: Mitteilungen der Verwaltung
+- TOP 9.2.1: Vorstellung des Gesamtkonzeptes zur baulichen Entwicklung des Krankenhauses Porz am Rhein für die medizinisch ambulante Versorgung bis 2040 - Kenntnis genommen
+- TOP 9.2.2: Gehweg am Loorweg in Langel zwischen Haus Nr. 27 und Unterm Berg - Kenntnis genommen
+- TOP 9.2.3: Anpassung der Straßenreinigungssatzung für die Heidestr. in Wahnheide - Kenntnis genommen
+- TOP 9.2.4: Querungshilfe und Bushaltestelle auf dem Grengeler Mauspfad in Höhe Gut Leidenhausen - Kenntnis genommen
+- TOP 9.2.5: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 9.2.6: Stadtradeln 2017 - Kenntnis genommen
+- TOP 9.2.7: Mobile Geschwindigkeitskontrollen in Porz-Wahn/Wahnheide und Lind - Kenntnis genommen
+- TOP 9.2.8: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 9.2.9: Erhalt der Ampeln (Lichtsignalanlagen) in den Kreuzungsbereichen Frankfurter Straße/Heidestraße/St.- - Kenntnis genommen
+- TOP 9.2.10: Wiederherstellung der Beschlussvorlage im Ratsinformationssystem der Stadt Köln - Kenntnis genommen
+- TOP 9.2.11: Verkehrsberuhigung Hauptstraße/Adelenhütte - Kenntnis genommen
+- TOP 10: Annahme von Schenkungen
