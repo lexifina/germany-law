@@ -1,0 +1,8 @@
+# TOP 7: Erlass einer Grün- und Gestaltungssatzung für die Stadt Aachen
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Ausschusses für Umwelt und Klimaschutz (2017-05-16)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=80971
+- Ergebnis: vertagt
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=23494&bi=24654
