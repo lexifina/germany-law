@@ -1,0 +1,58 @@
+# Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-16T14:00:00+02:00
+- Ende: 2017-05-16T16:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/77
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17052
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17052
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Verabschiedung der Niederschrift der letzten Sitzung
+- TOP 2: Gespräch und Vorträge
+- TOP 2.1: Nahverkehrsplan
+- TOP 2.1.1: 3. Nahverkehrsplan der Stadt Köln - geändert beschlossen
+- TOP 2.2: Baumaßnahmen an der Universität zu Köln
+- TOP 3: Beschlüsse und Beschlussempfehlungen
+- TOP 3.1: Sportentwicklungsplanung unter Beteiligung von Menschen mit Behinderung erarbeiten - ungeändert beschlossen
+- TOP 3.2: Benennung eines sachkundigen Einwohners für den Ausschuss Umwelt und Grün - ungeändert beschlossen
+- TOP 3.3: Rotes Haus
+- TOP 3.3.1: Nord-Süd Stadtbahn Köln, 1. Baustufe Haltestelle Rathaus Hier: Wiederaufbau des Roten Hauses und Verlängerung des Aufzuges bis zur Bürgerstr. - ungeändert beschlossen
+- TOP 3.4: Aufhebung des Mitnahmeverbots für Elektro-Scooter in Stadtbahnen der KVB - ungeändert beschlossen
+- TOP 4: Sachstandsberichte und Rückfragen zu Beantwortungen von Anfragen und Mitteilungen aus früheren Sitzungen
+- TOP 4.1: Mitnahme von E-Scootern bei der KVB AG
+- TOP 4.2: Mobilitätshilfe
+- TOP 4.3: Herstellung von Barrierefreiheit von Kölner Gehwegen
+- TOP 4.4: Einbindung von Behindertenorganisationen in bauliche Planungen
+- TOP 4.5: Inklusionsvereinbarung ersetzt die bestehende Integrationsvereinbarung
+- TOP 4.5.1: Beantwortung einer Nachfrage zu TOP 10.5 aus der Sitzung des Ausschusses Soziales und Senioren vom 26.01.2017 - Kenntnis genommen
+- TOP 4.6: Handlungskonzept Behindertenpolitik "Köln überwindet Barrieren - eine Stadt für alle" - 2. Folgebericht und ergänzende Forderungen der stimmberechtigten Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik
+- TOP 4.6.1: Handlungskonzept Behindertenpolitik - "Köln überwindet Barrieren - eine Stadt für alle" - (0990/2016) / Ergänzende Forderungen der stimmberechtigten Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik Köln - Kenntnis genommen
+- TOP 4.6.2: Handlungskonzept Behindertenpolitik - "Köln überwindet Barrieren - eine Stadt für alle" - (0990/2016) / Ergänzende Forderungen der stimmberechtigten Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik Köln (2763/2016) - Kenntnis genommen
+- TOP 4.7: Querungsstellen mit differenzierter Bordhöhe hier: Anfrage zum Sachstand der Umsetzung - Kenntnis genommen
+- TOP 4.8: Angebote der Beratungsstellen in Köln für Menschen mit Behinderungen - Kenntnis genommen
+- TOP 4.9: Flüchtlinge
+- TOP 4.9.1: Zusammenfassung der Ergebnisse der Fachtagung „Geflüchtete mit besonderem Schutzbedarf“ am 16.09.2016 - Kenntnis genommen
+- TOP 4.9.2: Warum ist Köln Schlusslicht bei der Barrierefreiheit? - Kenntnis genommen
+- TOP 4.9.3: Gewaltschutz für Kinder in Flüchtlingsunterkünften: Bewirbt sich Köln für Koordinatorenstellen? (AN/0027/2017) - Kenntnis genommen
+- TOP 4.10: Schulneubauten
+- TOP 4.11: Barrierefreiheit von Spielplätzen - Kenntnis genommen
+- TOP 5: Anfragen
+- TOP 5.1: Schwerbehindertenstelle - Feststellungsverfahren nach Schwerbehindertenrecht
+- TOP 5.1.1: Schwerbehindertenstelle - Fragen zum Thema Anträge und Antragsbearbeitung - Kenntnis genommen
+- TOP 5.2: Barrierefreie Wahlen
+- TOP 5.2.1: Aktueller Sachstand zum Thema Barrierefreiheit bei Wahlen - Ergänzung - Kenntnis genommen
+- TOP 5.3: Wohnen
+- TOP 5.3.1: Barrierefreie bezahlbare Wohnungen - Kenntnis genommen
+- TOP 6: Mitteilungen
+- TOP 6.1: Kölner Maßnahmenplan "Inklusion und Sport" - Kenntnis genommen
+- TOP 7: Bericht des Behindertenbeauftragten
+- TOP 7.1: Bericht des Behindertenbeauftragten 02/2017 - Kenntnis genommen
+- TOP 8: Diversity
+- TOP 8.1: Broschüre zum Diversity Netzwerk der Kommunal- und Landesverwaltungen - Kenntnis genommen
+- TOP 9: Berichte aus den Fachausschüssen des Rates
+- TOP 10: Verschiedenes
