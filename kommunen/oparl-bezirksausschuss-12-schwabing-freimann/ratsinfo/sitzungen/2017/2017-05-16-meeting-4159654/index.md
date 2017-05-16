@@ -1,0 +1,104 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4159654
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4159654
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 1.1.: Anregungen und Wünsche für die Bebauungsplanung auf dem Gelände der ehemaligen Bayernkaserne und den östlich angrenzenden Grundstücken (im UA zu erarbeiten)
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.2.: entfällt
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Internet für BA-Sitzungen
+- TOP 7.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 9.1.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP B.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.2.: Kulturelle Nutzung der Fläche in der Lindberghstraße durch den Wannda e.V.
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Veranstaltung "Kunst im Karrée 2017" am 08./09.07.2017
+- TOP 3.: Anhörungen
+- TOP 3.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 12. Stadtbezirk Schwabing-Freimann
+- TOP 3.2.: Flohmarkt Parkstadt Schwabing am 25.06.2017
+- TOP 3.3.: Vorstellung des Projekts „DER FAHRENDE RAUM, ein Kunst-und Aktionsraum“ im Unterausschuss
+- TOP 3.4.: StuStaCulum vom 24.05.-27.05.2017 in der Studentenstadt
+- TOP 3.5.: Sommerfest in der Oskar-Schlemmer-Straße am 21.07.2017
+- TOP 5.: Unterrichtungen
+- TOP 5.3.1.: Eilentscheidung des Vorsitzenden, Marcel-Breuer-Str. Grünanlage, Lese- und Buchtauschaktion zum "Welttag des Buches 2017" am 21.04.2017
+- TOP 5.3.3.: (U) Sanierung der Kita Haimhauserstraße
+- TOP 5.3.4.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 5.3.5.: Budgetverwendungsnachweis, Play me I&#039;m yours
+- TOP C.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Anregungen und Wünsche für die Bebauungsplanung auf dem Gelände der ehemaligen Bayernkaserne und den östlich angrenzenden Grundstücken (im UA zu erarbeiten)
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis, mobiler Fahrradständer
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Osterwaldstraße 108, Neubau von 16 Wohneinheiten mit Tiefgarage
+- TOP 3.1.2.: Leopoldstraße, Abgrabung im Bereich des geplanten Baufeldes Neubau Bürogebäude, Baumfällungen
+- TOP 3.2.1.: Erhaltungssatzungen "Josephsplatz" und "Pündter Platz / Bonnerplatz
+- TOP 3.2.2.: 2. Schulbauprogrammbeschluss "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP 3.2.3.: Weimarer Straße, Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.2.4.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung und Öffentlichkeitsbeteiligung - Anhörung der Bezirksausschüsse und Wirtschaftskammern
+- TOP 3.2.5.: Vorplanung für die öffentliche Grünfläche an der Max-Bill-Straße, Präsentation im Unterausschuss
+- TOP 3.2.6.: Dach- Brandschutzsanierung Gebäude 11 auf der Technischen Basis Fröttmaning
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: entfällt
+- TOP 5.3.2.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 5.3.3.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 5.3.4.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 5.3.5.: (U) Domagkpark Öffentliche Grünflächen und südöstlicher Fußgängerbereich im Bebauungsplan mit Grünordnung Nr. 1943 b im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Ausführungskosten): 6.460.000 € Ausführungsgenehmigung
+- TOP D.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Pfeile in U-Bahn-Aufzügen
+- TOP 1.2.: Anregungen und Wünsche für die Bebauungsplanung auf dem Gelände der ehemaligen Bayernkaserne und den östlich angrenzenden Grundstücken (im UA zu erarbeiten)
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung der Gesamtstrecke des unbenannten Weges Nr. 33
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Verkehrskonzept Münchner Norden, Teil Mobilitätsmanagement
+- TOP 3.2.2.: Sachstand MVG Rad Stationen im BA 12
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Haltverbote Mattighoferstraße Einmündung Kulturheimstraße
+- TOP 5.2.2.: 50 km/h in der Freisinger Landstraße
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Informationsschreiben Blumenwiesen im Stadtgebiet
+- TOP 5.3.2.: Information der SWM über die neuen Bädereintrittspreise
+- TOP 5.3.3.: (U) Bebauungsplan mit Grünordnung Nr. 1943 b Frankfurter Ring (südlich), A 9 Berlin-München (westlich) und Domagkstraße (nördlich) - Domagkpark - Neubau der Erschließungsstraßen und Fußgängerbereiche Anschluss des Neubaugebietes an den Frankfurter Ring und die Domagkstraße im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Kostenobergrenze): 1.150.000 € 1. Projektgenehmigung für die Maßnahmen 2.6b und 2.7 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 5.3.4.: Mehr Postbriefkästen in der Parkstadt Schwabing
+- TOP 5.3.5.: Arbeiten im Straßenraum, Frankfurter Ring / Föhringer Ring Ungererstr. zwischen Föhringer Ring und Nordfriedhof (Relining und Auswechslung Wasserhauptleitung)
+- TOP 5.3.6.: Antrag aus dem Stadtrat, Straßenbenennungen im Gelände der Bayernkaserne nach fränkischen Städten
+- TOP 5.3.7.: SWM Trinkwasserprojekt, Ungererstraße, Infoflyer
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
