@@ -1,0 +1,149 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4184946
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4184946
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Parkprobleme im Bereich nördliche Isenschmidstraße (zwischen Ulmen- und Lindenstraße); Bürgerschreiben vom 03.04.17
+- TOP 2.1.2.2.: Basketballkörbe in der Sachsenstraße; Bürgerschreiben vom 24.04.17
+- TOP 2.1.2.3.: Planungen bzgl. Parkhaus Tierpark; Bürgerschreiben vom 23.04.17
+- TOP 2.1.2.4.: Verkehrschaos am Tierpark; Abdruck eines Bürgerschreibens an das Referat für Stadtpl. u. Bauordnung
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Bürgerinitiative „Mehr Platz zum Leben“, c/o M. Kieweg Christbaum schmücken am Hans-Mielich-Platz
+- TOP 3.1.2.2.: (E) Budget der Bezirksausschüsse Spiellandschaft Stadt e.V. Puppen- und Maskentheater vom 17.08. - 20.08.2017 Az. 0262.0-18-0120
+- TOP 3.1.2.3.: (E) Budget der Bezirksausschüsse TSV Turnerbund München e.V. Teilnahme am Deutschen Turnfest in Berlin vom 03. - 10.06.2017 Az. 0262.0-18-0121
+- TOP 3.1.6.1.: Verwendungsnachweis über abgeschlossene Maßnahme: Isarlust e.V. für "play me, I`m yours"
+- TOP 3.1.6.2.: Verwendungsnachweis über abgeschlossene Maßnahme: Green City e.V. für "Essbare Stadt"
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Verkehrsspiegel an der Einmündung Brehm- / Schönstraße; Antrag der CSU-Fraktion
+- TOP 3.2.3.2.: Parken unter Einbeziehung der Gehbahn in der Tauernstraße; Antrag der Freien Wähler
+- TOP 3.2.3.3.: Instandsetzung des Fahrrad- und Rollstuhlwegs an der Hangkante; Antrag der Fraktion Bündnis`90/Die Grünen vom
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Agilolfingerstraße, Ersatz Granitkleinstein durch Asphalt; Erinnerungsverfahren des Baureferats-Tiefbau vom 05.04.17
+- TOP 3.2.4.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes gegenüber des Anwesens Braunstraße 7; Anhörung durch das Kreisverwaltungsreferat
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Tegernseer Landstraße - Tempo 50 vom McGraw-Graben bis zum Wald
+- TOP 3.2.5.2.: Parksituation Säbener Straße Höhe Turnerbund / FC Bayern; Bürgerschreiben vom 21.02.2017
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Betriebskonzept während des Umbaus am U-Bahnhof Sendlinger Tor (U1/U2); Schreiben der MVG vom 27.03.17
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Aufstellung von Hundekottütenspendern und Abfalleimern im Bereich des Agilolfingerplatzes
+- TOP 3.3.5.2.: Grillen im Bereich des Tierparks - Abstimmung einer Beschilderung mit Grillverbot
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Blumenwiesen im Stadtgebiet (hier: Kuntersweg); Schreiben des Baureferats-Gartenbau vom 12.04.17
+- TOP 3.3.6.2.: (U) Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017 Anlage - Beschlussvorlage (Entwurfsstand 11.04.2017) - Anlage zur Beschlussvorlage (Kurzberichte, Kurzbeschreibungen) - Kopien der Stadtrats- und Bezirksausschussanträge sowie Bürgerversammlungsempfehlungen Entwurfsstatus: Abstimmung mit den Referaten Frist zur Rückmeldung: 26.05.2017
+- TOP 3.4.4.2.: Sportbauprgramm - Teil 1, hier: Anhörung zum 1. Maßnahmenpaket; Anhörung durch das Referat für Bildung und Sport vom 18.04.17
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 3.4.6.2.: Information der Bezirksausschüsse Neue Bädereintrittspreise
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Entscheidungen über Sondernutzungserlaubnisse gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Zeitungsentnahmegeräte 3.5.2.1.1 Säbener Straße 49, Ecke Klausener Straße, 3 Kästen 3.5.2.1.2 Tiroler Platz, Ecke St.-Magnus-Straße, Straßenbahnhaltestelle 3.5.2.1.3 Hans-Mielich-Straße 40, Candidplatz, Bushaltestelle 3.5.2.1.4 Fromundstraße 31 (Norma) 3.5.2.1.5 Authariplatz 11, Ecke Grünwalder Straße 3.5.2.1.6 Schönstraße 16, Bushaltestelle 3.5.2.1.7 Schönstraße 48, Bushaltestelle
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Verfahren nach § 4 Abs. 2 BauGB: Gemeinde Pullach im Isartal; 9. Änderung des Bebauungsplans Nr. 15, "Gartenstadt" für den Bereich des Anwesens Im Bogen 2; Anhörung durch das Referat für Stadtplanung und Bauordnung
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Anwesen Schilcherweg 8 im 18. Stadtbezirk; Vorerst keine Zustimmung zu den Planungen, Bitte um Vorstellung dieser in der März-Sitzung des Gremiums
+- TOP 3.5.5.2.: Christbaumbeleuchtung am Hans-Mielich-Platz sicherstellen - Aufstellen eines Elektrokastens und Verlegung entsprechender Leitungen
+- TOP 3.5.5.3.: Grünstreifen Grünwalder Straße (Höhe Trainingsgelände TSV 1860 München); Instandsetzung der Sitzbank Vol. 2
+- TOP 3.5.5.4.: Tragluftturnhalle für den 18. Stadtbezirk
+- TOP 3.5.5.5.: Errichtung einer Mehrzweckhalle nahe den Sportanlagen Agilolfingerstraße / Sachsenstraße
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "BUN", Oefelestraße 15; Mitteilung vom 10.04.17
+- TOP 3.5.6.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.3.1 Anwesen Karneidstraße; Mitteilung vom 11.04.17 3.5.6.3.2 Anwesen Humboldtstraße; Mitteilung vom 29.03.17 3.5.6.3.3 Anwesen Pilgersheimer Straße; Mitteilung vom 05.04.17
+- TOP 3.5.6.4.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Lokalbaukommission, über genehmigte Bauvorhaben 3.5.6.4.1 Grünwalder Straße 4, Sanierung der Westkurve für die 3. Liga mit 15.000 Zuschauern (Städt. Stadion an der Grünwalder Straße), Vorbescheid vom 24.04.17 3.5.6.4.2 Karolingerallee 34, Umbau einer Pferdestallung zu einer Betriebsleiterwohnung mit einem Stellplatz, Errichtung einer Überdachung und Umnutzung einer Jauchegrube zu einem Schwimmbad; Baugnehmigung vom 21.04.17; Beantwortung verschiedener Fragestellungen
+- TOP 3.5.6.5.: Bebauungsplan für das Bauvorhaben Traminer Straße 6 in Harlaching; Beschluss der Vollversammlung des Stadtrats vom 05.04. bzw. des Ausschusses für Stadtplanung und Bauordnung vom 03.05.17
+- TOP 3.5.6.6.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 3.5.6.7.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 3.5.6.8.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund - Beteiligung aller Bezirksausschüsse; Anhörung durch das Kreisverwalungsreferat
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Gestaltung der südlichen Seitenwand des westl. Brückenwiderlagers am Candidplatz durch den Katholischen Männerfürsorgeverein
+- TOP 3.6.5.2.: Gestaltung des U-Bahn-Haltes Candidplatz durch Street Art Künstler
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
