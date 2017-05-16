@@ -1,0 +1,69 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4475658
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4475658
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Kfz-Geschwindigkeitsüberwachung Westend
+- TOP 6.1.1.: Sondernutzung - Verkaufseinrichtung Trappentreustr. 1
+- TOP 6.1.2.: Sondernutzung - Verkaufseinrichtung Astallerstr. 25
+- TOP 6.2.1.: Gerwerbeflächtenentwicklungsprogramm GEWI
+- TOP 6.2.2.: Sondernutzung - Antrag für Sitzgelegenheiten Anglerstr. 19a
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Regionalgespräche 2017 zwischen Bezirksausschüsse und Lokalbaukommission
+- TOP 6.3.3.: Gaststättenfortführung Ganghoferstr. 23
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: "Spielen in der Stadt"
+- TOP 7.2.2.: 2. Schulbauprogramm
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: "Erinnern statt Vergessen"
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Projektplanung Bergmannstraße Begrünung zw. Westendstr. und Landsberger Str.
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: KiKS-Kinderkultursommer
+- TOP 8.2.2.: Novellierung der Veranstaltungsrichtlinien
+- TOP 8.2.3.: Musik und Kunst Festival Georg-Freundorfer-Platz
+- TOP 8.2.4.: "Sommerfest die Linke München" - Georg-Freundorfer-Platz
+- TOP 8.2.5.: Anwohner-Straßenfest Ligsalzstraße
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Keine kurzen Fahrzeuge auf der Tram-Linie 19
+- TOP 8.3.2.: Tram: Nächtliche Vibrationen in der Landsberger Straße
+- TOP 8.3.3.: Nachbarschaftsflohmarkt Georg-Freundorfer-Platz
+- TOP 8.3.4.: Verkehrssituation zwischen Arnulfstr. und Landsberger Str.
+- TOP 8.3.5.: Wohnmobilsperrzone Wiesn 2017
+- TOP 8.3.6.: Parksperrgebiet Wiesn 2017
+- TOP 8.3.7.: Informationsveranstaltung - Aufbau des öfffentlichen Ladesäulensystems
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Initiative „Express Your Style“ Tanz-Battle „Express Your Style“ am 27.05.2017
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Comicstadt München e.V. Comicfestival vom 25.05. - 28.05.2017 Az. 0262.0-8-0124
+- TOP 9.1.3.: (E) Budget der Bezirksausschüsse bakaNet e.V. Veranstaltung "Migrants&#039; Stories & Traveller&#039;s Tales" vom 25. - 28.05.2017
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Zuwendungen aus dem Budget des Bezirksausschusses begrenzen
+- TOP 10.2.: Gedenkfeier "Novemberrevolution 1918"
+- TOP 11.1.: Ergebnisse der letzten BA-Satzungskommission
+- TOP 11.2.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
