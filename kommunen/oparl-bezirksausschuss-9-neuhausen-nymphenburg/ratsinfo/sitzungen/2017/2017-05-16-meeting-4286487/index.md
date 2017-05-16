@@ -1,0 +1,128 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286487
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286487
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Integrierte Einrichtung Treff Mosaik, AG-Buhlstraße e.V. Anschaffung von Spielgeräten Zuschusshöhe: 887,- €
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Initiative „Express Your Style“ Tanz-Battle „Express Your Style“ am 27./28.05.2017 Zuschusshöhe 1000,- €
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.4.1.: (E) Ermöglichung von zusätzlichen sicheren Querungen der Waisenhausstraße, 80637 München
+- TOP 2.4.2.: (E) Radwegausbau an der Kreuzung Landshuter Allee / Nymphenburger Straße
+- TOP 2.4.3.: Aufstellung von Verkaufseinrichtungen auf öff. Grund: Winthirstr. 8
+- TOP 2.4.4.: Spenden an den Bezirksausschuss 9: Annahme und Verwendung des Spendenbetrages i.H.v. 125,20 € (Festakt "850 Jahre Neuhausen")
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Änderung Radwegverlauf im Bereich Birketweg / Backstage
+- TOP 3.2.2.: Durchgangsverkehr in der Zuccallistraße
+- TOP 3.2.3.: Anwohnerparken in Neuhausen
+- TOP 3.2.4.: Straßensanierung der Menzinger Straße
+- TOP 3.2.5.: Baustellenplanung Zweite Stammstrecke
+- TOP 3.2.6.: Containernutzung der Brückenkopffläche des Arnulfstegs
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Franziska-Schmitz-Straße - Neubau der Erschließungsstraße
+- TOP 3.3.2.: Georg-Lindau-Straße - Neubau der Erschließungsstraße
+- TOP 3.3.3.: MVG-Rad-Standorte Wilhelm-Hale-Straße
+- TOP 3.3.4.: Verzicht der Ausweisung von Wohnmobilsperrzonen während des Oktoberfestes
+- TOP 3.3.5.: Anlieferzone in der Marlene-Dietrich-Straße für die Grundschule
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Entschärfung der Abbiegesituation Nördliches Schlossrondell / Maria-Ward-Str. für Radfahrer
+- TOP 3.4.2.: Freigabe des Teilstücks des Südlichen Schlossrondells zwischen Kanalbrücke und Schlosswirtschaft für den Radverkehr in beide Richtungen
+- TOP 3.4.3.: Prüfung einer Radquerung des Herzzentrum-Geländes zur Verbindung von Kasernenviertel und St.-Benno-Viertel - Antrag aus der Einwohnerversammlung am 24.01.2017
+- TOP 3.4.4.: Anbringung von Metallbügeln in der Dom-Pedro-Straße
+- TOP 3.4.5.: Baustelleneinrichtung MK8 Friedenheimer Brücke
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.5.2.: Baustelle Dachauer Straße / Heideckstraße
+- TOP 3.5.3.: Antwort auf Stadtratsanfrage Nr. 14-20 / F 00841 zu den Trambahntypen "Variotram"
+- TOP 3.5.4.: U-Bahn-Betriebskonzept der U1 Nord im Zeitraum 21.05. - 25.05.2017
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Münchner Gartenstädte retten - Nachverdichtung zu deren Lasten verhindern
+- TOP 4.2.2.: Containernutzung der Brückenkopffläche des Arnulfstegs
+- TOP 4.2.3.: Bauvorhaben Nymphenburger Straße 86
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Elvirastraße 17 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 4.3.2.: Nymphenburger Str. 92 - Neubau eines 7-geschossigen Wohngebäudes mit gewerblicher Nutzung im EG und 1. OG
+- TOP 4.3.3.: Schulstr. 2 - Dachaufstockung eines Wohngebäudes mit Einbau zweier Maisonettewohnungen im neuen DG
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Erweiterungsbau Museum "Mensch und Natur"
+- TOP 4.4.2.: GEWOFAG-Projekte im Stadtbezirk
+- TOP 4.4.3.: Brand im Kulturpavillon Arnulfstraße
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten der Lokalbaukommission
+- TOP 4.5.2.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 4.5.3.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 4.5.4.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung Baumfällungsanträge - Guntherstr. 8 - Richildenstr. 44
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Treff Mosaik: Anschaffung von Spielgeräten für die Woche der Nachbarschaftstreffs und der Stadtteilkulturwoche Antragssumme 887,- €
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Worldcafe - Information von Neubürgern
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Spielaktionen in öffentlichen Grünanlagen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Brand im Kulturpavillon Arnulfstraße - Schreiben der Sozialreferentin
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Express Your Style" - Tanz-Battle „Express Your Style“ am 27./28.05.2017 - Zuschusshöhe 1.000,- €
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Verwendungsnachweise BA-Budget
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Aktuelle Anmeldungen in Kinderbetreuungseinrichtungen in Neuhausen-Nymphenburg
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung" - Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017
+- TOP 8.3.2.: Beschlussentwurf Sportbauprogramm - Teil 1, Anhörung zum 1. Maßnahmenpaket
+- TOP 8.3.3.: Spielaktionen in öffentlichen Grünanlagen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Einsatz von Schwimmhelfer/Innen als Ergänzung zum Lehrpersonal
+- TOP 8.4.2.: Fragen zur Schulentwicklungsplanung
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertagesstätten sonstiger Träger; Haus für Kinder an der Richelstraße 19 im 9. Stadtbezirk Neuhausen-Nymphenburg Leistung eines Baukostenzuschusses
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Anhörung (Bez. 9) Theaterfestivalgelände am Spiridon-Louis-Ring, Sommertollwood 2017
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Änderung der Abstimmungsprocedere in Bürgerversammlungen
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Ergebnisse der letzten BA-Satzungskommission nach entsprechender Beschlussfassung im Stadtrat
+- TOP 9.5.2.: Unveränderte Fortführung von Gaststättenbetrieben: - Shisha-Bar "Rotanaa", Nymphenburger Str. 154 - Shell-Tankstelle Wilhelm-Hale-Straße 55
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
