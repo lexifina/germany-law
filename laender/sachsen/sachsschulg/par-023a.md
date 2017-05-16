@@ -29,3 +29,29 @@ c)
 eine regelmäßige oder fortlaufende Aktualisierung;
 d)
 eine Verpflichtung der Landkreise und Kreisfreien Städte zur Übermittlung, auch im elektronischen Datenverkehr, an Behörden des Freistaates Sachsen einschließlich der Sächsischen Aufbaubank zum Zwecke der Genehmigung von Schulnetzplänen, der Wahrnehmung der Schulaufsicht oder der Durchführung von Förderprogrammen.
+(7) bis (9) noch nicht in Kraft (siehe Fußnote 1)
+(10) Die oberste Schulaufsichtsbehörde wird ermächtigt, das Nähere zur Aufstellung, Fortschreibung und Genehmigung der Schulnetzpläne sowie zur Festlegung von Fachklassenstandorten mit Einzugsbereichen durch Rechtsverordnung im Einvernehmen mit dem Staatsministerium des Innern zu regeln. Die Rechtsverordnung kann auch vorsehen:
+1. die Verpflichtung der Landkreise und Kreisfreien Städte, zum Zwecke der Schulnetzplanung und der Überwachung der Schulpflicht Statistiken für bestimmte oder alle Schulen in öffentlicher und freier Trägerschaft ihres Gebiets durchzuführen, insbesondere mit folgenden Merkmalen:
+a)
+Träger der Schule;
+b)
+Schulart und Bildungsgänge;
+c)
+Zahl der Schüler je Bildungsgang;
+d)
+Wohnorte der Schüler;
+e)
+Art, Anzahl, Größe, sächliche Ausstattung, Nutzung und Nutzungseignung von Gebäuden, Räumen und Außenanlagen;
+f)
+Mehrfachnutzung von Gebäuden, Räumen und Außenanlagen;
+g)
+Angaben gemäß den Buchstaben a bis d für alle durch die Schule genutzten Gebäude;
+2. zu den Statistiken und Merkmalen gemäß Nummer 1:
+a)
+Auskunftspflichten für öffentliche und freie Schulträger;
+b)
+eine Erfassung und Verarbeitung nach einheitlichen Vorgaben;
+c)
+eine regelmäßige oder fortlaufende Aktualisierung;
+d)
+eine Verpflichtung der Landkreise und Kreisfreien Städte zur Übermittlung, auch im elektronischen Datenverkehr, an Behörden des Freistaates Sachsen einschließlich der Sächsischen Aufbaubank zum Zwecke der Genehmigung von Schulnetzplänen, der Wahrnehmung der Schulaufsicht oder der Durchführung von Förderprogrammen.

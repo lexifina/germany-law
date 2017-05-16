@@ -75,8 +75,8 @@
 § 53 Schülerrat, Schülersprecher
 § 54 Kreisschülerrat
 § 55 Landesschülerrat
-§ 56 Schülerzeitschriften
-§ 57 Ausführungsvorschriften
+§ 56 Ausführungsvorschriften
+§ 57 Schülerzeitungen
 7. Teil Schulaufsicht
 § 58 Inhalt der Schulaufsicht
 § 59 Schulaufsichtsbehörden
@@ -86,6 +86,7 @@
 § 62 Schul- und Prüfungsordnungen
 8. Teil Landesbildungsrat
 § 63 Landesbildungsrat
+§ 63d Schulen besonderer Art
 9. Teil Schlussbestimmungen
 § 64 Übergangsbestimmungen
 § 65 In-Kraft-Treten

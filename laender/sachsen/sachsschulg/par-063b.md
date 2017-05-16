@@ -1,0 +1,5 @@
+### § 63a Schuldatenschutz
+# § 63b Statistik
+(1) bis (3) noch nicht in Kraft (siehe Fußnote 1)
+(4) Die Einzelheiten über Art, Durchführung und Form der statistischen Erhebung, Erhebungsmerkmale, Art und Umfang der Auskunftspflicht, Berichtszeitraum oder Berichtszeitpunkt und Häufigkeit regelt die oberste Schulaufsichtsbehörde im Einvernehmen mit dem Staatsministerium des Innern durch Rechtsverordnung.
+(5) Das Statistische Landesamt erstellt im Auftrag der obersten Schulaufsichtsbehörde im Jahr 2018 und danach alle zwei Jahre eine regionalisierte Schüler- und Absolventenprognose. Diese dient dem Zweck der Bildungsplanung und der bundesweiten Vorausberechnung der Schüler- und Absolventenzahlen. Die Einzelheiten regelt das Staatsministerium für Kultus im Einvernehmen mit dem Staatsministerium des Innern durch Rechtsverordnung. Diese bestimmt insbesondere die zu verwendenden Erhebungsmerkmale, die regionale Aufgliederung der Darstellung in Schularten und Klassenstufen, den Prognosezeitraum und die Veröffentlichung.
