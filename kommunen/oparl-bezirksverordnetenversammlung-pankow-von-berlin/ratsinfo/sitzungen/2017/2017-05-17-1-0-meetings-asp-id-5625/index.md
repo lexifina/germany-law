@@ -1,0 +1,81 @@
+# 7. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-05-17T17:30:00+02:00
+- Ende: 2017-05-17T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5625
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5625
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=143026
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Gefahren abwenden! Tore der Feuerwache Blankenburg gegen Herausfallen sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl Stellvertretende Bürgerdeputierte - gewählt
+- TOP 1.9: Nachwahl von zwei Bürgerdeputierten für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die VIII. Wahlperiode - zurückgezogen
+- TOP 1.10: Keine Sondernutzungsgebühren und keine Gebühren für Verwaltungsakte im Zusammenhang mit von gemeinnützigen Organisationen durchgeführten Festen - in der BVV abgelehnt
+- TOP 1.11: Möglichkeiten der Nutzung von bezirklichen Räumen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Radverkehrsanlage auf der Südseite des Stiftsweges und der Bleicheroder Straße anlegen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Spielplatzkommission: Pankows Kinder und Jugendliche fragen - in der BVV abgelehnt
+- TOP 1.14: Informationsveranstaltung zur geplanten Bebauung der Falkenberger Straße 151-154 - in der BVV abgelehnt
+- TOP 1.15: Verlängerung der Buslinien 124 und 154 zur Marthas-Aue - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Erhöhung der Verkehrssicherheit am Schönhauser Tor - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Aufgeweitete Radaufstellstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Alleingang des Senats bei der Neuvergabe der Außenwerbung stoppen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fahrradabstellanlage vor dem Jobcenter Pankow neu gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Querungshilfe in der Rudelsburgstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Schulwegesicherheit der Grundschule im Hofgarten erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Tätigkeitsbericht der »AG Schulwegsicherheit« - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Interkulturelle Vielfalt der Verwaltung ausbauen - überwiesen
+- TOP 1.24: Strandbad Weißensee: Öffnung zum Sommer 2017 ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Politische Gewalt in Pankow konsequent bekämpfen! - in der BVV abgelehnt
+- TOP 1.26: Frühschwimmen in der Schwimmhalle Thomas-Mann-Straße wieder ermöglichen - überwiesen
+- TOP 1.27: Graffiti im Mauerpark und in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Gehwegvorstreckung in der Wilhelm-Wolff-Straße (Grundschule „An den Buchen“) - überwiesen
+- TOP 1.29: Aufstellungsbeschlüsse für neue Soziale Erhaltungsgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Blindenleitsystem in den bezirklichen Gebäuden - überwiesen
+- TOP 1.31: Schulwegsicherheit in der Gustav-Adolf-Straße Höhe DGZ-Ring - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Keine Vermittlung des JobCenters von unter 18-jährigen an die Bundeswehr - überwiesen
+- TOP 1.33: Sichere Straßenquerung der Darßer Straße auch für Menschen mit Behinderungen realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Ausweitung des Landschaftsschutzgebietes Bucher Forst – Ausweisung der Moorlinse als Naturschutzgebiet - überwiesen
+- TOP 1.35: Grobreinigung des Wilhelmsruher Sees kurzfristig veranlassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Hundeauslaufgebiet neu beschildern, landwirtschaftlich genutzte Flächen schützen - überwiesen
+- TOP 1.37: Gemeinnützige Feste von Gebühren entlasten - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Kein generelles Tempo 30 auf Hauptstraßen - in der BVV abgelehnt
+- TOP 1.39: Listen der öffentlichen und privaten Baumfällungen verständlich gestalten - überwiesen
+- TOP 1.40: Die Stadt von Pendlerströmen entlasten - Tarifzonen anpassen - überwiesen
+- TOP 1.41: Freie Kulturszene Pankows stärken – den „Pankower Wettbewerb zur strukturellen Stärkung der freien Kulturszene“ ausloben - überwiesen
+- TOP 1.42: Die Stadt von Pendlerströmen entlasten – P+R-Parkplätze ausbauen - überwiesen
+- TOP 1.43: Open-Data Initiative Pankow - überwiesen
+- TOP 1.44: Ladestationen für Elektrofahrzeuge auf P+R-Parkplätzen - überwiesen
+- TOP 1.45: Jährlicher Wohnungsneubaubericht für den Bezirk Pankow - überwiesen
+- TOP 1.46: Mehr als eine Vignette pro Betrieb in den Parkraumzonen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Wärmeisolierung bezirkseigener Gebäude - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Querungshilfe in der Straße Alt-Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Reinigung der Jugendverkehrsschule Pankow von sog. Graffiti - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Städtebauliche Entwicklung des Angers von Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Änderung des Bebauungsplan IV 2a - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Straße/ BAB A114 sowie Bucher Straße / Pankgrafenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Sicherung des Übergangs für VerkehrsteilnehmerInnen an der Kreuzung Heinersdorferstr./Langhansstr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Fußgängerüberweg in der Berliner Straße auf Höhe der Dr. Markus Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Barrierefreiheit für das Amtshaus Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Sanierung des Bezirksamts-Geländes Fröbelstraße 17 ökologisch gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Geschäftsverteilung und Vertretungsregelung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Benennungsabsicht für die öffentliche Straße 18 a im Ortsteil Französisch Buchholz in „Louise-Henry-Straße“ - mit Abschlussbericht zur Kenntnis genommen
