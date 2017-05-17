@@ -1,0 +1,116 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-05-17T17:00:00+02:00
+- Ende: 2017-05-17T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3728
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3728
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Jugendamt - Hilfen zur Erziehung - beantwortet
+- TOP 3.2: Welche Folgen haben die Bauarbeiten für die Volkshochschule in Lichterfelde? - beantwortet
+- TOP 3.3: Gewalt in der Grundschule - beantwortet
+- TOP 3.4: „Berlin Entdecken“ Tag der Städtebauförderung 13.05.2017 - beantwortet
+- TOP 3.5: Sicherheit vor Kitas und Schulen - beantwortet
+- TOP 3.6: Mehr Kitaplätze für Steglitz-Zehlendorf? - beantwortet
+- TOP 3.7: Senkung der Anforderungen für KiTa-Personal - schriftlich beantwortet
+- TOP 3.8: Zu wenig Spielplätze im Bezirk - schriftlich beantwortet
+- TOP 3.9: Regenbogenbeflaggung während der Pride-Week 2017 - schriftlich beantwortet
+- TOP 3.10: Was wird aus dem Botanischen Garten? - schriftlich beantwortet
+- TOP 3.11: Welche Schulsanierungen mittlerer Tranche plant der Bezirk? - vertagt
+- TOP 3.12: Sichere Spielplätze für Kinder - schriftlich beantwortet
+- TOP 3.13: Verkehrskollaps Steglitz-Zehlendorf?; Tegel offenhalten - schriftlich beantwortet
+- TOP 3.14: Treitschkestraße – was kann das Bezirksamt noch tun? - schriftlich beantwortet
+- TOP 3.15: Wie eng ist es in unseren Grundschulen? - schriftlich beantwortet
+- TOP 3.16: Straßenpumpen im Bezirk - schriftlich beantwortet
+- TOP 3.17: Schwerpunktkontrollen des Ordnungsamtes - schriftlich beantwortet
+- TOP 3.18: Transparenz in der Stadtplanung unerwünscht? - erledigt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 4.1: Wahl einer Bürgerdeputierten im Ausschuss Pflege, Soziales und Senioren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Sondermittel der BVV für den Freundeskreis der Musikschule Berlin Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für die Caritas Suchtmittelberatung Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Ein Mehrgenerationensportplatz für Lichterfelde-Süd! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Gedenk-Stele zur Erinnerung an die Erfassung und Verfolgung der Sinti und Roma durch die „Rassenhygienische und Erbbiologische Forschungsstelle“ des Reichgesundheitsamts 1935 bis 1945 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Veränderungen bei der Eignung für die maschinelle Winterreinigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Zebrastreifen über den Ahlener Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Blindflug des Ordnungsamtes beenden – Statistik über Bürger_innenbeschwerden und verhängte Bußgelder einführen! - in der BVV abgelehnt
+- TOP 4.9: Aktive Erinnerungskultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Platz nach Lucie Strewe benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Treitschkestraße: Adressänderung Saturn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Optimierung der Lichtsignalanlagen (LSA) im Bereich Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Auswirkungen der Wahlen zum Abgeordnetenhaus auf den Widerspruchsbeirat in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Neubildung eines Bezirksbehindertenbeirates gemäß § 7 Absatz 5 des Gesetzes über die Gleichberechtigung von Menschen mit und ohne Behinderung (Landesgleichberechtigungsgesetz – LGBG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Wahl eines stellvertretenden Mitglieds für den Verwaltungsrat des Kita-Eigenbetriebes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Wahl eines Vertreters für den Verwaltungsrat des Kita-Eigenbetriebes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Steglitz-Zehlendorf unterstützt die Lehrkräfte an Berliner Musikschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisung in Ausschüsse - (offen)
+- TOP 5.1: Jährliche Statuserhebung des Sanierungsstaus und der Sanierungsbedarfe an Schulen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2: Prüfung des Raumpotentials an der Anna Essinger Gemeinschaftsschule - überwiesen
+- TOP 5.3: ÖPNV-Anbindung der Goerzallee verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Entwurzelten Baumstumpf auf Indianerspielplatz in Lankwitz entfernen - überwiesen
+- TOP 5.5: Steglitz-Zehlendorfer Wirtschaft stärken - Liegenschaftskataster veröffentlichen! - überwiesen
+- TOP 5.6: Asbestregister für Steglitz-Zehlendorf - überwiesen
+- TOP 5.7: Partnerschaft mit der Straffälligen- und Bewährungshilfe Berlin e.V - überwiesen
+- TOP 5.8: Zweiter Eingang für den Friedhof Lankwitz - überwiesen
+- TOP 5.9: Parkbänke erneuern - überwiesen
+- TOP 5.10: Öffentliche Erleichterung Teil1 - Ausschreibung für den Betrieb öffentlicher Toiletten flexibel gestalten - überwiesen
+- TOP 5.11: Pause während BVV-Sitzungen - überwiesen
+- TOP 5.12: Alle Sanierungsmittel in die Bezirke - überwiesen
+- TOP 5.13: Sanierung der Fahrbahn in der Klingsorstraße - überwiesen
+- TOP 5.14: Aufenthaltsqualität am Breitenbachplatz erhöhen – Autobahnbrücke abreißen! - überwiesen
+- TOP 5.15: Spielplätze sicherer machen: Altersbeschränkung - überwiesen
+- TOP 5.16: Öffentliche Erleichterung Teil2 – WCs im Bezirk sichern - überwiesen
+- TOP 5.17: Sicher Am Schlachtensee - überwiesen
+- TOP 5.18: Auf Orientierungsnummern hinweisen - überwiesen
+- TOP 5.19: Bierpinsel - Denkmalschutz mit Ausnahme - überwiesen
+- TOP 5.20: Friedhöfe keine Orte für qualvollen Tod von Kleinsäugern und Jungvögel - überwiesen
+- TOP 5.21: Sichere Geschwindigkeit in der Wedellstraße - überwiesen
+- TOP 5.22: Kein verkehrsbehinderndes Parken McNair - überwiesen
+- TOP 5.23: Blindengerechte Bürgersteige - überwiesen
+- TOP 5.24: Schmuddelecke auf McNair beseitigen - überwiesen
+- TOP 5.25: Dringend notwendige Sanierung des Fahrradweges Kaiser-Wilhelm-Straße zwischen Zietenstraße und Seydlitzstraße in Richtung Lankwitz Kirche - überwiesen
+- TOP 5.26: Mehr attraktive Grillflächen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.27: Waldfriedhof Zehlendorf pflegen - überwiesen
+- TOP 5.28: Halteverbote vor Grundschulen einrichten (Zeichen 283) - überwiesen
+- TOP 5.29: Spielende Kinder auf Spielplätzen besser schützen - überwiesen
+- TOP 5.30: Zusätzliche Müllbehälter im öffentlichen Straßenland im Bereich Borstell- und Stephanstraße - überwiesen
+- TOP 5.31: Wiedereinführung des Wochenmarktes am Steglitzer Damm - überwiesen
+- TOP 5.32: Pflegeintervalle bei den Spielplätzen erhöhen - überwiesen
+- TOP 5.33: Fußgängerüberweg Steglitzer Damm in Höhe Buhrowstraße - überwiesen
+- TOP 5.34: Kontrolle über die Einhaltung der Geschwindigkeitsbegrenzung in der Liebenowzeile - überwiesen
+- TOP 5.35: Die Treppen vom S-Bahnhof Sundgauer Straße zur Kilstetter bzw. Brettnacher Straße auch im Winter benutzbar machen - überwiesen
+- TOP 5.36: Zebrastreifen Bolchener/ Sundgauer Straße sicherer machen - überwiesen
+- TOP 5.37: Mehr Sicherheit vor dem Kindergarten der Stephanus-Kirchengemeinde in der Mühlenstraße/ Sundgauer Straße - überwiesen
+- TOP 5.38: Zuverlässige Anbindung von und nach Zehlendorf-Süd mit dem Bus 101 - überwiesen
+- TOP 5.39: Endlich ein pünktlicher Bus M 48 - überwiesen
+- TOP 5.40: Bessere Sicht in der Kilstetter Straße - überwiesen
+- TOP 5.41: Sauberer Kiez um den S-Bahnhof Sundgauer Straße - überwiesen
+- TOP 5.42: Verkehrskonzept Schloßstraße - überwiesen
+- TOP 5.43: Radweg Bismarckstraße - überwiesen
+- TOP 5.44: U-Bahnhof Schloßstraße barrierefrei machen - überwiesen
+- TOP 5.45: Mittelhandlauf im S Wannsee installieren - überwiesen
+- TOP 5.46: Streetworker einsetzen - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - (offen)
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 6.1.1: Stammbahn und Fahrradschnellweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.2: Keine großflächige Entsiegelung des "Platz des 4. Juli" - in der BVV abgelehnt
+- TOP 6.1.3: Gedenktag Guernica angemessen begehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.4: Toilettenanzahl im Bezirk steigern - in der BVV abgelehnt
+- TOP 6.1.5: Steglitz-Zehlendorf wird Mitglied in den internationalen MAYORS FOR PEACE. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Anträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Freiheit von Kitas und Eltern erhalten - überwiesen
+- TOP 7.2: Schulsanierungsausschuss für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 7.3: Weitergehende Hilfestellung für Menschen ohne Wohnung - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1: Versetzung des Ernst-Reuter-Denkmals innerhalb des Rathauses Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Arbeitsgruppe zur Modernisierung der BVV-Arbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Ertüchtigung des Hubschraubersonderlandeplatzes am Campus Benjamin Franklin - in der BVV abgelehnt
+- TOP 8.4: City Tree („Stadtbaum“ einmal anders) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
