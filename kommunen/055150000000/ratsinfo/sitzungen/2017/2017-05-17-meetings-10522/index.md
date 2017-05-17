@@ -1,0 +1,94 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-05-17T18:05:00+02:00
+- Ende: 2017-05-17T20:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10522
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10522
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00405323.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Spielplatz Kirchfeld erhalten - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Zusätzliche Durchfahrtsperre am Spielplatz Canisiusweg - verwiesen
+- TOP 9.2: Verbesserung der Beleuchtung am Canisiusweg - verwiesen
+- TOP 9.3: Busverbindung in die Rieselfelder schaffen - verwiesen
+- TOP 9.4: Skatepark in Mecklenbeck sanieren - verwiesen
+- TOP 10: Audio- bzw. Video-Livestream für die Sitzungen des Rates - von der Tagesordnung abgesetzt
+- TOP 11: Verlängerung der Laufzeit des Gleichstellungsplans bis zum 31.12.2017 - von der Tagesordnung abgesetzt
+- TOP 12: Verlängerung eines zinslos gewährten Darlehens an den Trägerverein "De Bockwindmüel" - einstimmig geändert beschlossen
+- TOP 13: Die Zukunft der Wasserversorgung in Münster - Neustrukturierung der Wasserversorgung (DIPOL) - von der Tagesordnung abgesetzt
+- TOP 14: Darlehen an die Wohn+Stadtbau GmbH zur Finanzierung von Wohnungsbaumaßnahmen - einstimmig beschlossen
+- TOP 15: Managementkontrakte
+- TOP 15.1: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 7. Finanzformel für die Spielzeiten 2018/2019 bis 2021/2022 - mehrheitlich beschlossen
+- TOP 15.1.1: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 7. Finanzformel für die Spielzeiten 2018/2019 bis 2021/2022
+- TOP 15.2: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - von der Tagesordnung abgesetzt
+- TOP 15.2.1: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - von der Tagesordnung abgesetzt
+- TOP 16: Bericht zur Wohnbaulandentwicklung 2016 und Fortschreibung des Baulandprogramms 2017 - 2025 - mehrheitlich beschlossen
+- TOP 16.1: Bericht zur Wohnbaulandentwicklung 2016 und Fortschreibung des Baulandprogramms 2017 - 2025
+- TOP 17: Kindertageseinrichtungen
+- TOP 17.1: Errichtung einer dreigruppigen Kindertageseinrichtung an der Hansestraße in Hiltrup - mehrheitlich beschlossen
+- TOP 17.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Middelerstraße in Wolbeck - mehrheitlich beschlossen
+- TOP 17.3: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Meyerbeerstraße in Mecklenbeck - mehrheitlich beschlossen
+- TOP 18: Erhöhung der Mittel des Integrationsrates- Aufhebung des Sperrvermerks - mehrheitlich geändert beschlossen
+- TOP 19: Stiftung Magdalenenhospital: Taschengeldbörse - einstimmig beschlossen
+- TOP 20: Sozialmonitoring, Konzept und Umsetzung - mehrheitlich beschlossen
+- TOP 20.1: Sozialmonitoring, Konzept und Umsetzung
+- TOP 21: Sanierung Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 22: Errichtung einer Gesamtschule am Standort der ehemaligen Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig beschlossen
+- TOP 23: Klimaanpassungskonzept der Stadt Münster - einstimmig beschlossen
+- TOP 23.1: Klimaanpassungskonzept der Stadt Münster
+- TOP 24: Landschaftspläne Werse (LP 1) sowie Nördliches Aatal und Vorbergs Hügel (LP 2) - Vertragsverletzungsverfahren EU - zur Kenntnis genommen
+- TOP 25: Freiwilliger Verzicht auf Kaminfeuer bei austauscharmen Wetterlagen - mehrheitlich beschlossen
+- TOP 26: Abschluss von Belegungsvereinbarungen auf Grundlage der Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau - zur Kenntnis genommen
+- TOP 27: Abfuhrintervall von Bioabfällen und Sperrgut - einstimmig beschlossen
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Münster-West
+- TOP 28.1.1: Bebauungsplan Nr. 584 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 28.1.2: Bebauungsplans Nr. 536: Mecklenbeck - Weseler Straße / Meckmannweg / Schwarzer Kamp - einstimmig beschlossen
+- TOP 28.1.2.1: Bebauungsplans Nr. 536: Mecklenbeck - Weseler Straße / Meckmannweg / Schwarzer Kamp
+- TOP 28.2: Stadtbezirk Münster-Hiltrup
+- TOP 28.2.1: 68. Änderung des FNP - Beschluss zur Änderung - Offenlegung - einstimmig beschlossen
+- TOP 28.2.2: Bebauungsplan Nr. 577 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28.3: Stadtbezirk Münster-Nord
+- TOP 28.3.1: Bebauungsplan Nr. 590 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28.4: Stadtbezirk Südost
+- TOP 28.4.1: Bebauungsplan Nr. 509 - Beschluss über Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28.4.2: Bebauungsplan Nr. 591: Wolbeck - Eschstraße (zwischen Münsterstraße und Ortsumgehung) - mehrheitlich beschlossen
+- TOP 28.5: Stadtbezirk Münster-Ost
+- TOP 28.5.1: 4. Änderung des Bebauungsplans Nr. 287 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 29.1: Vergabe städtischer Räumlichkeiten an Parteien im Vorfeld von Wahlen - mehrheitlich beschlossen
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 30.1: Haushaltsberatungen verbessern - verwiesen
+- TOP 30.2: Planungswerkstatt 2030 - verwiesen
+- TOP 30.3: Mehr Wohnraum in Münster ! - Neue Ansätze für ein städtisches Handlungskonzept und die Wohn- und Stadtbau - verwiesen
+- TOP 30.4: Bahnhaltepunkt in Nienberge-Häger weiter verbessern - verwiesen
+- TOP 30.5: Eine Nutzungsordnung für Münsters städtische Rathäuser, Einrichtungen und Schulen aufstellen! - verwiesen
+- TOP 30.6: Soziale Maßnahmen für EU-Zuwanderer*innen: Wohnungslose und nicht-leistungsberechtigte Menschen unterstützen! - verwiesen
+- TOP 30.7: Perspektiven der Friedenskultur und -arbeit in Münster weiterentwickeln! - verwiesen
+- TOP 30.8: Speckbrett als Teil der Münsterschen Sportlandschaft verankern - verwiesen
+- TOP 30.9: Existenzsicherung durch leistungsträgerübergreifende Kooperation gewährleisten - verwiesen
+- TOP 30.10: Kommunale Eingliederungsleistungen für Leistungsberechtigte bündeln und optimieren - verwiesen
+- TOP 30.11: Für Münsters Zukunft: Nachhaltigkeit planen und sozial gestalten - verwiesen
+- TOP 30.12: Personalpolitik strategisch und demographisch ausrichten - verwiesen
+- TOP 30.13: Ressourcen bündeln – Potentiale ausschöpfen: WBI und KonvOY arbeiten eng zusammen! - verwiesen
+- TOP 30.14: Wohnungsbau weiter beschleunigen - verwiesen
+- TOP 31: Entsendung eines weiteren Mitgliedes in den Aufsichtsrat Flughafen Münster-Osnabrück GmbH - einstimmig beschlossen
+- TOP 31.1: Entsendung eines weiteren Mitgliedes in den Aufsichtsrat Flughafen Münster-Osnabrück GmbH
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Verschiedenes
