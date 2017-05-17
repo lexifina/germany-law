@@ -1,0 +1,132 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-05-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264139
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264139
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP V.1.: Vorstellung "Machbarkeitsstudie Markthallen" (Wiener Platz) durch das Kommunalreferat
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 5.1.: Baumgräben schützen
+- TOP 5.2.: Radstellplätze vor dem TSV München-Ost
+- TOP 5.3.: Ständer für Kinder-Roller bzw. Tretroller Scooter
+- TOP 5.4.: Messgeräte für Feinstaub und Stickoxide in Haidhausen
+- TOP 5.5.: Rechts vor links in der Balanstraße
+- TOP 5.6.: Zusatz für Fahrtzielanzeiger (ÖPNV) während der Auer Dult
+- TOP 5.7.: Maxwerk (IX) - Verbindliches Pflichtenheft für den Betreiber einer etwaigen Gaststätte im "Maxwerk"
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Initiative "Studienensembles" Patientenkonzert am 28.09.2017 und Konzert am 06.10.2017
+- TOP 6.1.2.: Budget der Bezirksausschüsse Initiative "Studienensembles" Konzerte am 28.09.2017 und 06.10.2017 siehe auch TOP 1.1, Unterausschuss Arbeit und Wirtschaft und TOP 1 Unterausschuss Kultur
+- TOP 6.1.3.: Budget der Bezirksausschüsse Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017 siehe auch TOP 1.2 UA Arbeit und Wirtschaft und TOP 2 UA Kultur und TOP 1.1 UA Soziales
+- TOP 6.2.1.: Genehmigung einer Freischankfläche: Gaststätte "Bosporus", Ohlmüllerstr. 26 siehe auch UA Arbeit und Wirtschaft, TOP 1.3
+- TOP 6.2.2.: Genehmigung einer Freischrankfläche: Gaststätte "Rosis Kaffehaus & Bar", Rosenheimer Str. 2 siehe auch UA Arbeit und Wirtschaft, TOP 1.4
+- TOP 6.2.3.: Genehmigung einer Freischankfläche: Reformhaus Vitalia, Weißenburger Str. 12 => dazu: Antrag auf Fahrradparkplatz siehe auch UA Arbeit und Wirtschaft, TOP 1.5
+- TOP 6.2.4.: Genehmigung einer Freischankfläche: Gaststätte "Arena", Rosenheimer Str. 103 siehe auch UA Arbeit und Wirtschaft, TOP 1.6
+- TOP 8.1.1.: Gehwege frei halten (Max-Planck-, Kirchen- und Gebsattelstraße)
+- TOP 8.1.2.: Realisierung des Geh- und Radweges entlang der Bahnlinie, südöstlich des Holzkontors (Rosenheimer Straße 112 + 114)
+- TOP 8.1.3.: Bau eines barrierefreien Radwegs an der Bahnlinie von Tassiloplatz bis zur Rosenheimer Straße
+- TOP 8.2.1.: Baumschutz in München ist Klimaschutz für München; Die Münchner Bezirksausschüsse handeln - jetzt ! Fristverlängerung für Antrag Nr. 14-20 / B 03247
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Preysingplatz 1: Fällung von 5 Bäumen
+- TOP 7.2.: Fällungsgenehmigung Steinstr. 73
+- TOP 7.3.: Hochstr. 75: Abgrabung zur Grundstücksaufbereitung / freiwillige Altlastensanierung / Teilabbruch Tiefkeller; hier: Baumfällungen
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Budget der Bezirksausschüsse Initiative "Studienensembles" Konzerte am 28.09.2017 und 06.10.2017 siehe auch TOP 6.1.1 und UA Arbeit und Wirtschaft
+- TOP II.2.: Budget der Bezirksausschüsse Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017 siehe auch TOP 6.1.2 und UA Arbeit und Wirtschaft sowie UA Soziales
+- TOP II.3.: Temporäre Kunst im öffentlichen Raum: "Haidhausen ON Air" am 08.,15. und 29.07.2017 am Bordeauxplatz und am 23.07.2017 an der Postwiese siehe auch UA Arbeit und Wirtschaft
+- TOP II.4.: Temporäre Kunst im öffentlichen Raum: "Konsum-Werte-Madonna und drei freie Frauen" am 14. und 15.09.2017 am Bordeauxplatz siehe auch UA Arbeit und Wirtschaft
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017 siehe auch TOP 6.1.2 und UA Arbeit und Wirtschaft sowie UA Soziales
+- TOP 2.: Anhörungen
+- TOP 2.1.: 2. Schulbauprogramm "Neubau, Erweiterung und Generalinstandsetzung"
+- TOP 2.2.: REGSAM-Schwerpunktgebietsauswahl 2017 - 2019 Wiedervorlage aus der Sitzung vom 26.04.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Initiative "Studienensembles" Konzerte am 28.09.2017 und 06.10.2017 siehe auch TOP 6.1.1 und UA Kultur
+- TOP 1.2.: Budget der Bezirksausschüsse Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017 siehe auch TOP 6.1.2 und UA Kultur sowie UA Soziales
+- TOP 1.3.: Genehmigung einer Freischankfläche: Gaststätte "Bosporus", Ohlmüllerstr. 26 siehe auch TOP 6.2.1
+- TOP 1.4.: Genehmigung einer Freischrankfläche: Gaststätte "Rosis Kaffehaus & Bar", Rosenheimer Str. 2 siehe auch TOP 6.2.2
+- TOP 1.5.: Genehmigung einer Freischankfläche: Reformhaus Vitalia, Weißenburger Str. 12 => dazu: Antrag auf Fahrradparkplatz siehe auch TOP 6.2.3
+- TOP 1.6.: Genehmigung einer Freischankfläche: Gaststätte "Arena", Rosenheimer Str. 103 siehe auch TOP 6.2.4
+- TOP 2.: Anhörungen
+- TOP 2.1.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.2.: Gewerbeflächenentwicklungsprogramm; Fortschreibung und Öffentlichkeitsbeteiligung
+- TOP 2.3.: Freundschaftstreffen der Biergartenfreunde auf dem Orleansplatz vom 21.05.-05.06.2017
+- TOP 2.4.: Antrag auf Betriebszeitänderung auf 22 Uhr für den Gastraumbereich im Ladengeschäft "L&#039;angolino", Wörthstr. 16
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ablehnung der Anträge auf Erteilung einer Sondernutzungserlaubnis für Zeitungsentnahmegeräte an der Welfenstr. 23 Ecke Aurbacherstraße und Welfenstr. 66 durch den BA 5
+- TOP 3.2.: Temporäre Kunst im öffentlichen Raum: "Haidhausen ON Air" am 08.,15. und 29.07.2017 am Bordeauxplatz und am 23.07.2017 an der Postwiese siehe auch UA Kultur
+- TOP 3.3.: Temporäre Kunst im öffentlichen Raum: "Konsum-Werte-Madonna und drei freie Frauen" am 14. und 15.09.2017 am Bordeauxplatz siehe auch UA Kultur
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Wochenmarkt am Orleansplatz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sieboldstr. 4: Aufstockung einer Halle um eine Dreifachsporthalle, Vorbescheid
+- TOP 2.2.: Elsässer Str. 32: Ausbau eines Speicherraums im DG des Vordergebäudes als Erweiterung zu Wohnung 14
+- TOP 2.3.: Orleansplatz 10-12: Aufstockung um ein Geschoss, Vorbescheid
+- TOP 2.4.: Franziskanerstr. 14: Nutzungsänderungen Büroflächen zu Verkaufsräume, Verkaufs- zu Verkehrsflächen und Metzgerei zu Büroflächen
+- TOP 2.5.: Lucile-Grahn-Str. 27: Errichtung eines Balkons
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Belfortstr. 5: Ersatzbau eines Balkons im 2. OG Seitengebäude
+- TOP 3.2.: Für ein Isarquartier der Kultur - Brücken zwischen Gasteig, Muffatwerk und Deutsches Museum schlagen
+- TOP 3.3.: Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035 Sitzungsvorlagen Nr. 14-20 / V 08416, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017
+- TOP 3.4.: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung Sitzungsvorlagen Nr. 14-20 / V 08537, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sachstand MVG Radstationen im 5. Stadtbezirk
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sachstand Bus X 30
+- TOP 3.2.: Asiatischer Laubholzbockkäfer Bericht zur Entwicklung der Befallssituation in München Sitzungsvorlagen Nr. 14-20 / 08102, Bekanntgabe im Verwaltungs- und Personalausschuss vom 29.03.2017
+- TOP 3.3.: Eduard-Schmid-Straße, Erneuerung Zuwegung zum Baureferat Gartenbau
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fahrradständer im Außenbereich Einstein 28
+- TOP C: Verschiedenes und Termine
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: UA Soziales 19.06.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 19.06.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 20.06.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb. UA Kultur, 21.06.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 22.06.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 28.06.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 30.05.2017, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Regionalgespräche der Bezirksausschüsse 2017 zwischen der Lokalbaukommission und den Bezirksausschüssen am 21.06.2017 um 17 Uhr
+- TOP 4.2.: Zukunftsschau München 2040+, Öffentlichkeitsdialog am 27.07.2017, 19 Uhr
+- TOP 4.3.: MBQ Jahrespräsentation 2017 (Münchner Beschäftigungs- und Qualifizierungsprogramm) am 27.06.2017 von 9.30-14.00 Uhr
