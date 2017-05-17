@@ -1,0 +1,68 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-05-17T17:03:00+02:00
+- Ende: 2017-05-17T20:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10521
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10521
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00405319.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Ratsgruppe Piraten/ÖDP an den Rat Nr. A-R/0006/2017 vom 13.02.2017, Einführung einer Kastrations-, Kennzeichnungs- und Registrierungspflicht für Freigänger-Katzen (Anlage) - von der Tagesordnung abgesetzt
+- TOP 2.2: Antrag an den Rat der Fraktion DIE LINKE. A-R/0002/2017 "Hausnutzungsordung für Münsters Rathaus !" vom 14.02.2017
+- TOP 2.3: Antrag der SPD-Ratsfraktion Nr. A-R/0011/2016 - Gleicher Lohn für gleiche Arbeit auch im öffentlichen Personennahverkehr in Münster - mehrheitlich geändert beschlossen
+- TOP 2.4: Stadthalle Hiltrup, weiteres Vorgehen - mehrheitlich geändert beschlossen
+- TOP 2.4.1: Stadthalle Hiltrup, weiteres Vorgehen
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2017) - einstimmig beschlossen
+- TOP 4: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 5: Schulden- und Liquiditätsbericht 2016 - zur Kenntnis genommen
+- TOP 6: Jahresabschluss 2016 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 7: Konzept Schüler*innenhaushalt für städtische Schulen in Münster - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Audio- bzw. Video-Livestream für die Sitzungen des Rates - von der Tagesordnung abgesetzt
+- TOP 9: Verlängerung der Laufzeit des Gleichstellungsplans bis zum 31.12.2017 - von der Tagesordnung abgesetzt
+- TOP 10: Verlängerung eines zinslos gewährten Darlehens an den Trägerverein "De Bockwindmüel" - ohne Beschlussfassung geschoben
+- TOP 11: Die Zukunft der Wasserversorgung in Münster - Neustrukturierung der Wasserversorgung (DIPOL) - ohne Beschlussfassung geschoben
+- TOP 12: Darlehen an die Wohn+Stadtbau GmbH zur Finanzierung von Wohnungsbaumaßnahmen - ohne Beschlussfassung geschoben
+- TOP 13: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 7. Finanzformel für die Spielzeiten 2018/2019 bis 2021/2022 - ohne Beschlussfassung geschoben
+- TOP 13.1: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 7. Finanzformel für die Spielzeiten 2018/2019 bis 2021/2022
+- TOP 14: Bericht zur Wohnbaulandentwicklung 2016 und Fortschreibung des Baulandprogramms 2017 - 2025 - ohne Beschlussfassung geschoben
+- TOP 14.1: Bericht zur Wohnbaulandentwicklung 2016 und Fortschreibung des Baulandprogramms 2017 - 2025
+- TOP 15: Kindertageseinrichtungen
+- TOP 15.1: Errichtung einer dreigruppigen Kindertageseinrichtung an der Hansestraße in Hiltrup - einstimmig beschlossen
+- TOP 15.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Meyerbeerstraße in Mecklenbeck - ohne Beschlussfassung geschoben
+- TOP 15.3: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Middelerstraße in Wolbeck - einstimmig beschlossen
+- TOP 16: Erhöhung der Mittel des Integrationsrates- Aufhebung des Sperrvermerks - ohne Beschlussfassung geschoben
+- TOP 17: Stiftung Magdalenenhospital: Taschengeldbörse - einstimmig beschlossen
+- TOP 18: Sozialmonitoring, Konzept und Umsetzung - mehrheitlich beschlossen
+- TOP 18.1: Sozialmonitoring, Konzept und Umsetzung
+- TOP 19: Sanierung Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 20: Errichtung einer Gesamtschule am Standort der ehemaligen Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig beschlossen
+- TOP 21: Klimaanpassungskonzept der Stadt Münster - einstimmig beschlossen
+- TOP 21.1: Klimaanpassungskonzept der Stadt Münster
+- TOP 22: Landschaftspläne Werse (LP 1) sowie Nördliches Aatal und Vorbergs Hügel (LP 2) - Vertragsverletzungsverfahren EU - zur Kenntnis genommen
+- TOP 23: Freiwilliger Verzicht auf Kaminfeuer bei austauscharmen Wetterlagen - ohne Beschlussfassung geschoben
+- TOP 24: Abschluss von Belegungsvereinbarungen auf Grundlage der Satzung zur Begründung kommunaler Benennungsrechte im geförderten Mietwohnungsbau - ohne Beschlussfassung geschoben
+- TOP 25: Abfuhrintervall von Bioabfällen und Sperrgut - ohne Beschlussfassung geschoben
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk West
+- TOP 26.1.1: Bebauungsplan Nr. 584 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - ohne Beschlussfassung geschoben
+- TOP 26.2: Stadtbezirk Hiltrup
+- TOP 26.2.1: 68. Änderung des FNP - Beschluss zur Änderung - Offenlegung - einstimmig beschlossen
+- TOP 26.2.2: Bebauungsplan Nr. 577 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 26.3: Stadtbezirk Nord
+- TOP 26.3.1: Bebauungsplan Nr. 590 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 26.4: Stadtbezirk Südost
+- TOP 26.4.1: Bebauungsplan Nr. 509 - Beschluss über Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 26.4.2: Bebauungsplan Nr. 591: Wolbeck - Eschstraße (zwischen Münsterstraße und Ortsumgehung) - ohne Beschlussfassung geschoben
+- TOP 26.5: Stadtbezirk Ost
+- TOP 26.5.1: 4. Änderung des Bebauungsplans Nr. 287 - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 27: Verschiedenes
