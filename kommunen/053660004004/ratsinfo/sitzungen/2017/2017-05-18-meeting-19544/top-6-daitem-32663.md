@@ -1,0 +1,7 @@
+# TOP 6.: Niederschlagswasserbeseitigung; hier: Überlassungspflicht und Gebühren
+
+- Sitzung: Betriebsausschuss "Stadtwerke" (12. Sitzung) (2017-05-18)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/32663
+- Ergebnis: Beschluss
