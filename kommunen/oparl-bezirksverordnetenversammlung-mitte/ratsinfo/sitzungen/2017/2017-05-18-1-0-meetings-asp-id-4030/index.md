@@ -1,0 +1,179 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2017-05-18T17:30:00+02:00
+- Ende: 2017-05-18T22:22:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4030
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4030
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=139282
+
+## Tagesordnung
+
+- TOP 1: Einwohneranfragen - erledigt
+- TOP 2: Vorstellung Senior*innenvertretung - erledigt
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: des Vorstandes - erledigt
+- TOP 3.2: der Fraktionen - erledigt
+- TOP 3.3: der Ausschüsse - erledigt
+- TOP 3.4: des Bezirksamtes - erledigt
+- TOP 4: Konsenslisten - erledigt
+- TOP 5: Thematische Stunde - (offen)
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 6.1: Homesharing meets Zweitwohnsitz - beantwortet
+- TOP 6.2: Zukunft der Großen Spielwiese im Volkspark Rehberge - beantwortet
+- TOP 6.3: Was macht der Regionale Ausbildungsverbund? - schriftlich beantwortet
+- TOP 6.4: Unterstützung für Analphabet*innen in Mitte - schriftlich beantwortet
+- TOP 6.5: Volkssolidarität in der Torstraße gekündigt? - beantwortet
+- TOP 6.6: In Ergänzung zur Beantwortung der Mündlichen Anfrage 348 vom 21.03.2017 frage ich das Bezirksamt: ("Kleidercontainer in Berlin-Wedding") - beantwortet
+- TOP 6.7: Abwesenheit eines geladenen BA-Mitglieds bei der Hauptausschusssitzung im Abgeordnetenhaus - beantwortet
+- TOP 6.8: Mitte-Schulen in freier Trägerschaft - beantwortet
+- TOP 6.9: Ransomware-Angriff - beantwortet
+- TOP 6.10: Gute Arbeit in der Digitalen Wirtschaft - beantwortet
+- TOP 6.11: Wie lange soll der Max Bewer Stein noch am Nordhafen liegen? - schriftlich beantwortet
+- TOP 6.12: Haus der Statistik – hemmt der Bezirk die dortige Entwicklung zu einem sozio-kulturellem Zentrum? - schriftlich beantwortet
+- TOP 6.13: In Ergänzung zur Beantwortung der Mündlichen Anfrage 353 vom 22.03.2017 frage ich das Bezirksamt: ("Und es werde Licht") - schriftlich beantwortet
+- TOP 6.14: „Straßenumbenennungen-welche Einflussmöglichkeiten hat das AGH / der Senat" - schriftlich beantwortet
+- TOP 6.15: Säumnisse – nicht versäumen! - schriftlich beantwortet
+- TOP 6.16: Nicht genug Unterstützung für Berliner Faustballer? - schriftlich beantwortet
+- TOP 6.17: Wie weiter mit der Allegro-Grundschule? - schriftlich beantwortet
+- TOP 6.18: Unter den Linden/Glinkastr. - duldet der Bezirk illegale Großflächenwerbung? - schriftlich beantwortet
+- TOP 6.19: UMAs - schriftlich beantwortet
+- TOP 6.20: Spielhallenentwicklung in Berlin Mitte - schriftlich beantwortet
+- TOP 6.21: Lässt der Bezirk den Schillerpark verlottern? - schriftlich beantwortet
+- TOP 7: Dringlichkeitsanfragen - (offen)
+- TOP 7.1: GESOBAU treibt die Mieten hoch! - beantwortet
+- TOP 7.2: Stand Obdachlosigkeit Geflüchteter nach Hausverbot - beantwortet
+- TOP 7.3: Bewilligungsbescheide für QM-Gebiete - schriftlich beantwortet
+- TOP 7.4: Wo bleiben die Leitlinien zur Bürgerbeteiligung - schriftlich beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Sanierung der Turnhallen in Mitte - beantwortet
+- TOP 8.2: Reduzierung Bearbeitungszeiten beim Wohngeld und WBS - beantwortet
+- TOP 8.3: Schulsanierungen und Investitionsstau in Berlin-Mitte - beantwortet
+- TOP 8.4: Himmelbeet und AMANDLA - schriftlich beantwortet
+- TOP 8.5: Spreeuferweg - schriftlich beantwortet
+- TOP 8.6: Antisemitische Vorfälle an Schulen - Was tut das Bezirksamt dagegen? - schriftlich beantwortet
+- TOP 8.7: Amandla und der Fußball im Wedding - schriftlich beantwortet
+- TOP 8.8: Schulsanierungen: SSP und die Verbauung der vorhandenen Mittel - schriftlich beantwortet
+- TOP 8.9: Housing First- ein innovativer Ansatz der Wohnungslosenhilfe auch für Mitte? - schriftlich beantwortet
+- TOP 8.10: Wie familienfreundlich ist Mitte - oder will es noch werden? - schriftlich beantwortet
+- TOP 8.11: Behandlung von traumatisierten Flüchtlingen - schriftlich beantwortet
+- TOP 8.12: MDE-Geräte ungenutzt? - schriftlich beantwortet
+- TOP 8.13: Der Tiergarten, ein Denkmal ohne Wertschätzung? - schriftlich beantwortet
+- TOP 8.14: Zum Shoppen zum Amazonas: Ist das bezirkliche Einzelhandelskonzept überholt? - schriftlich beantwortet
+- TOP 8.15: Wie weiter mit den Ergebnissen des Sozialen Infrastrukturkonzeptes (SIKo) in Mitte? - schriftlich beantwortet
+- TOP 8.16: Micro-Appartments bringen mehr ein als Obdachlose - schriftlich beantwortet
+- TOP 9: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Wahl des Beirates in Sozialhilfeangelegenheiten gemäß § 34 AZG i. V. mit § 116 Abs. 2 SGB XII - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Genehmigung der im Haushaltsjahr 2016 zugelassenen über- und außerplan-mäßigen Ausgaben und Verpflichtungsermächtigungen. - überwiesen
+- TOP 10.3: Berufung der beratenden Mitglieder des Jugendhilfeausschusses gemäß §35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Wahl der Schiedspersonen für die Schiedsamtsbezirke Mitte 01, 05 und 06 - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Wahl der Schiedspersonen für die Schiedsamtsbezirke Mitte 04, 10 und 07 - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans I-14a. - überwiesen
+- TOP 11: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11.1: Errichtung einer vierzügigen Grundschule und der Doppelsporthalle an der Adalbertstr. 53, 10179 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: ISEK Karl-Marx-Allee, II Bauabschnitt (Integriertes städtebauliches Entwicklungskonzept) als städtebaulicher Rahmenplan - ohne Änderungen in der BVV beschlossen
+- TOP 12: Dringlichkeitsanträge - (offen)
+- TOP 12.1: Sofortige vorübergehende Aussetzung von Kostensenkungsverfahren in besonderen Fällen bei den Kosten der Unterkunft (KdU) - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Neue Infoflyer für die Milieuschutzgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Müllentsorgung sicherstellen - Parkbuchten im Bereich der Krefelder Strasse 3 und 20 reservieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: POLITISCHE SCHWERPUNKTE DER HAUSHALTSPLANAUFSTELLUNG 2018/2019 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Erinnerungen aufrechterhalten im Afrikanischen Viertel – Einrichtung des deutschen Gedenkortes an den Herero-Aufstand von 1904. - überwiesen
+- TOP 13.2: Männergesundheitstag - überwiesen
+- TOP 13.3: Integrationsfortschrittsbericht für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Bessere Rahmenbedingungen für Kita-Ausbau - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Mehr Sicherheit für die Schüler der Gustav-Falke-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Ausschilderung der Jugendverkehrsschule am Standort: Oldenburger Str. - in der BVV abgelehnt
+- TOP 13.7: Konzept für leere Gehege in der Rehberge - überwiesen
+- TOP 13.8: BVV live im www - überwiesen
+- TOP 13.9: City-Toiletten - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Erfolg des Projektes „Schülerhaushalt“ weiterhin auf Bezirksebene sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Entwicklung eines Fahrradwege-Konzepts für Mitte - überwiesen
+- TOP 13.12: Elise-und-Otto-Hampel Platz – dem Ort und den Namensgebern angemessene Nutzung sicherstellen - überwiesen
+- TOP 13.13: Höhere Bürgerbeteiligung durch Liveübertragung der BVV-Sitzung - überwiesen
+- TOP 13.14: Stadtgrün schaffen, Feinstaub reduzieren, Mittelstreifen aufwerten - überwiesen
+- TOP 13.15: Natur- und Umweltschutzbelange der Baumaßnahme gem. B-Plan 1- 83e südlich Ifflandstraße prüfen - in der BVV abgelehnt
+- TOP 13.16: Gemeinschaft schaffen – Grillen ermöglichen - überwiesen
+- TOP 13.17: Mehr Familienförderung in Mitte mit dem HH 18/19 - ohne Änderungen in der BVV beschlossen
+- TOP 13.18: Betreuungszeiten der Hausmeister den Öffnungszeiten von Schulen anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 13.19: Vertragsverlängerung für Himmelbeet - ohne Änderungen in der BVV beschlossen
+- TOP 13.20: BVVnet – WLAN für die BVV - überwiesen
+- TOP 13.21: Neue Bauvorhaben transparent machen - überwiesen
+- TOP 13.22: Achtsamkeit für die Arbeitsmöglichkeit von Heimatverein und Geschichtswerkstatt Tiergarten e.V. – Räumlichkeiten nicht ohne geeigneten Ersatz amtlich wegbauen! - überwiesen
+- TOP 13.23: Unterstützungsangebote für geflüchtete Familien in Mitte verstetigen - ohne Änderungen in der BVV beschlossen
+- TOP 13.24: Jugendschutz in Mitte ernst nehmen – Diskotheken und Spielhallen (weiterhin) kontrollieren - überwiesen
+- TOP 13.25: Kein Warten bis zum Sanktnimmerleinstag – Sicherheit des Schulweges über die Beusselstraße garantieren. - überwiesen
+- TOP 13.26: „Wildwuchsbebauung“ am Berlin Pavillon verhindern - überwiesen
+- TOP 13.27: Briefe an die Mieter leicht gemacht - ohne Änderungen in der BVV beschlossen
+- TOP 13.28: Flexible Kinderbetreuungsangebote - ohne Änderungen in der BVV beschlossen
+- TOP 13.29: Personalentwicklung ernst beziehungsweise wahrnehmen - steigendem Krankenstand entgegenwirken - überwiesen
+- TOP 13.30: Prüfung der Umsetzungen von städtebaulichen Verträgen und Durchführungsverträgen - ohne Änderungen in der BVV beschlossen
+- TOP 13.31: Nutzungsvertrag von Himmelbeet für Ruheplatzstraße 12 über Ende 2017 verlängern - zurückgezogen
+- TOP 13.32: Mobilitätshilfen für ältere Menschen als Regelleistung etablieren - überwiesen
+- TOP 13.33: Übertragung der Sitzungen der Bezirksverordnetenversammlung Berlin Mitte - überwiesen
+- TOP 13.34: Unsere Verantwortung für Obdachlosigkeit endet nicht mit dem Ende der Kälteperiode: Ganzjährige Unterkünfte für Obdachlose bauen - überwiesen
+- TOP 13.35: Nutzungsvertrag von Himmelbeet für Ruheplatzstraße 12 über Ende 2017 verlängern - zurückgezogen
+- TOP 13.36: Verkehrssicherheit in Mitte erhöhen – Falsch-Parker kontrollieren - überwiesen
+- TOP 13.37: Gender Budgeting im Rahmen der Aufstellung des Haushaltsplans 2018/2019 - ohne Änderungen in der BVV beschlossen
+- TOP 13.38: Einladender Zugang zu Sportpark Neues Ufer - überwiesen
+- TOP 13.39: Querungssicherheit an der Kreuzung Veteranenstraße - Fehrbelliner Straße verbessern - überwiesen
+- TOP 13.40: Girl’s Day 2017 – Nachbereitung und Verstetigung des Girl’s Days im Bezirksamt Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.41: Eigentum verpflichtet - überwiesen
+- TOP 13.42: Neue Wahlperiode, alte Probleme: Unternehmensfreundliche Novellierung der Überbrückungs-hilfen weiterhin einfordern - überwiesen
+- TOP 13.43: Städtebauförderprogramm „Zukunft Stadtgrün“ - ohne Änderungen in der BVV beschlossen
+- TOP 13.44: Anwendung des elektronischen Fachverfahrens „AutiSta“ im Standesamt Mitte - überwiesen
+- TOP 13.45: Alternativen Standort zur Verpflegung Obdachloser am Hansaplatz ermöglichen - mobiles WC aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.46: Neue Wahlperiode, alte Probleme: Unternehmensfreundliche Novellierung der Überbrückungs-hilfen weiterhin einfordern - in der BVV zurückgezogen
+- TOP 13.47: Arbeitserleichterungen bei der Erstellung von BPU - überwiesen
+- TOP 13.48: Was man nicht sieht, existiert nicht- Sichtbarkeit der Reinigungskräfte in bezirklichen Liegen-schaften erhöhen - überwiesen
+- TOP 13.49: Für eine offene & sozialraumorientierte Jugendarbeit am Alexanderplatz, die der gesamtstädtischen Bedeutung des Areals für junge Menschen gerecht wird. - mit Änderungen in der BVV beschlossen
+- TOP 13.50: Gemeinsamer Antrag zum Umgang mit Obdachlosigkeit - ohne Änderungen in der BVV beschlossen
+- TOP 13.51: Stärkung der bestehenden Einrichtungen der Schuldnerberatung im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.52: Koordinierter Freizug Levetzowstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14: Dringliche Entschließungen - (offen)
+- TOP 15: Entschließungen - (offen)
+- TOP 15.1: Finanzierung der Kinderbetreuung in der BVV Mitte für 2017 sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 16.1: Queere Jugendarbeit in Jugendeinrichtungen verankern - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Kleinklassen gegen Schuldistanz - ohne Änderungen in der BVV beschlossen
+- TOP 16.3: Mehr Ordnung im öffentlichen Raum: Fahrräder reparieren, nicht verschrotten - ohne Änderungen in der BVV beschlossen
+- TOP 16.4: Ausreichend Fahrradabstellanlagen für Schulen einrichten (zur Drucksache 2375/IV) - ohne Änderungen in der BVV beschlossen
+- TOP 16.5: Alternative Nutzungsmöglichkeiten für das Parkcafé Rehberge - ohne Änderungen in der BVV beschlossen
+- TOP 16.6: Spreeuferweg sicherer und fußgängerfreundlicher machen - ohne Änderungen in der BVV beschlossen
+- TOP 16.7: Hundeauslaufgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 16.8: Ergänzung der „Genehmigungskriterien für Umsetzung der Erhaltungsverordnung gemäß §172 Abs. 1 Satz 1 Nr.2 BauGB unter Berücksichtigung der gebietsspezifischen Mietspiegel“ (BVV-Beschluss DS 2695/IV) - ohne Änderungen in der BVV beschlossen
+- TOP 16.9: Die Chance auf eine moderne Verwaltung in Mitte nutzen – zügig E-Government-Gesetz umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 16.10: Rahmenvereinbarungen mit städtischen Wohnungsbaugesellschaften über eine sozialverträgliche Durchführung von umfassenden Sanierungsvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 16.11: Perspektiven geben - Sachgrundlose Befristungen von Arbeitsverträgen in Mitte jetzt beenden! - ohne Änderungen in der BVV beschlossen
+- TOP 16.12: Ausrichtung des Girls' Day im Bezirksamt Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 16.13: Weiterentwicklung der kurz-, mittel- und langfristigen Umsetzung des „Übereinkommens über die Rechte von Menschen mit Behinderungen“ - ohne Änderungen in der BVV beschlossen
+- TOP 16.14: Soziale Erhaltungsziele durchsetzen – Sozialplanverfahren für Modernisierungsmaßnahmen zur Anpassung an den allgemeinen Standard einführen - ohne Änderungen in der BVV beschlossen
+- TOP 16.15: Keine voreilige Kündigung für das Berlin Kolleg - ohne Änderungen in der BVV beschlossen
+- TOP 16.16: Keine Bebauung am Leipziger Platz ohne Wohnanteil! - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Städtebauliche Besonderheiten in der Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Gesamtkonzept Ruheplatzstraße 8-12 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Stadtentwicklung nach Prioritäten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Gerichtshöfe als Gewerbehof und Künstler_innenquartier erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Gerichtshöfe als Gewerbehof und Kulturstandort erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Fahrradbügel für die Alte Jacobstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.7: Fahrradbügel für die Gartenstraße/Stadtbad Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: Anwohnerparkplätze für die Fischerinsel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Finanzierung der externen Begleitung des Projektes "Schülerhaushalt" sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: WBM-Bebauungsplanungen hinter Ifflandstraße 1-4: Anwohner*innen in Planungsdiskussion einbeziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.11: Verlässlichkeit für das Straßenkunstfestival „Berlin lacht“ auf dem Alexanderplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.12: Benennungsvorschläge für die noch offenen Benennungen im Baugebiet Heidestraße ("Europacity") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.13: Mitte-Müllberge konsequenter vermeiden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.14: Fußgängerüberweg auf der Habersaathstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.15: Öffentliche Information zum Bauvorhaben des Suhrkamp-Verlag auf der ehem. Grünfläche Torstraße 42, 46 / Linienstraße 34 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.16: Frauenbeirat Stadtplanung für die V. Wahlperiode der BVV Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Änderung des Beschlusses über die Aufstellung des Bebauungsplanes 1-27B (Torstraße, Rosa-Luxemburg-Straße, Linienstraße und Alte Schönhauser Straße) im Bezirk Mitte, Ortsteil Mitte. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.18: Beschluss über die Anhörungsergebnisse der frühzeitigen Öffentlichkeitsbeteiligungen gem. § 3 Abs. 1 BauGB und der frühzeitigen Behördenbeteiligungen gem. § 4 Abs. 1 BauGB zu den Entwürfen der Bebauungspläne 1-81 (Spreepromenade) und I-32aa (Holzufer), die Durchführung der Behördenbeteiligungen gem. § 4 Abs. 2 BauGB für die Entwürfe der Bebauungspläne 1-81 (Spreepromenade) und I-32aa (Holzufer) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.19: Entwicklung und Verwendung von Stiftungsmitteln der Wolfgang-Lammers-Stiftung im Haushaltsjahr 2016. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.20: Beschluss über die Durchführung der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 und die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB für den Entwürfe der Bebauungspläne 1-24B, 1-25B und 1-26B sowie die Ergebnisse der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs.1 BauGB zu den Bebauungsplanentwürfen 1-24B, 1-25B, 1-26B und 1-27B. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.21: Änderung der gemeinsamen Einschulungsbereiche 1, 4, 5 und 7 - mit Abschlussbericht zur Kenntnis genommen
