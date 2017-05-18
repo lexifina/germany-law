@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-05-18T14:00:00+02:00
+- Ende: 2017-05-18T20:58:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13469
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13469
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00292481.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00292481.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00292481.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell: Bürgerbeteiligungsplattform www.stadtentwicklung-duesseldorf.de - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage CDU: Mittelverschwendung bei Sprach- und Integrationskursen - beantwortet
+- TOP 4.2: Anfrage der FDP-Ratsfraktion: Was ist mit dem Café Vélo? - beantwortet
+- TOP 4.3: Anfrage Die Linke: Zwangsräumungen in Düsseldorf - beantwortet
+- TOP 4.4: Anfrage Die Linke: Kostensteigerungen bei Großprojekten - beantwortet
+- TOP 4.5: Anfrage Bü90-Grü: Ist das Ein-Euro-Job-Programm für Geflüchtete der Bundesarbeitsministerin auch in - beantwortet
+- TOP 4.6: Anfrage Rh Maniera: Elektronische Gremienunterlagen - beantwortet
+- TOP 4.7: Anfrage des Ratsherrn Maniera: Gefährder in Düsseldorf - beantwortet
+- TOP 4.8: Anfrage Rh Grenda: Energieeffiziens-Beratung für städtische Gebäude - beantwortet
+- TOP 4.9: Anfrage Rh Grenda: Bearbeitung von Unterhaltsvorschüssen in Düsseldorf - beantwortet
+- TOP 4.10: Anfrage der FDP-Ratsfraktion: Neues Radsportevent für 2018? - beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Pfundner: Verkauf der Kanalisation zu einem Bruchteil der Pachteinnahmen - beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Kraft-Dlangamandla: Abschiebungen nach Afghanistan - beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Grand Départ - zur Kenntnis genommen
+- TOP 7: Ausführungs- und Finanzierungsbeschluss Ehrenhof 5, Museum Kunstpalast - Instandsetzung Dach nach Fe - einstimmig beschlossen
+- TOP 8: Max-Planck-Gymnasium, Koetschaustraße 36, Erhöhung der Zügigkeit um einen Zug auf fünf Züge - einstimmig beschlossen
+- TOP 9: Georg-Büchner-Gymnasium, Tersteegenstraße 62, Felix-Klein-Straße 3, - einstimmig beschlossen
+- TOP 10: Gymnasium Gerresheim, Am Poth 60, Erweiterungsbau für Unterrichts- und Ganztagsräume inklusive Mensa - mehrheitlich beschlossen
+- TOP 10.1: Änderungsantrag der CDU-Ratsfraktion; Gymnasium Gerresheim, Am Poth 60 - mehrheitlich abgelehnt
+- TOP 10.2: ÄA Die Linke: Gymnasium Gerresheim, Am Poth 60 - mehrheitlich abgelehnt
+- TOP 11: Städtische Gesamtschule Stettiner Straße, Stettiner Straße 98 - mehrheitlich beschlossen
+- TOP 11.1: Änderungsantrag der CDU-Ratsfraktion: Städtische Gesamtschule Stettiner Straße, Stettiner Straße 98 - mehrheitlich abgelehnt
+- TOP 11.2: ÄA die Linke: Städtische Gesamtschule Stettiner Straße, Stettiner Straße 98 - mehrheitlich abgelehnt
+- TOP 12: Erneuerung der Prozessleittechnik der Klärwerke und des Kanalisationsnetzes - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 13: Planung zum Betrieb einer städtischen Kindertageseinrichtung - Potsdamer Straße 41 - einstimmig beschlossen
+- TOP 14: Nahverkehrsplan 2017 der Landeshauptstadt Düsseldorf - abweichend beschlossen
+- TOP 14.1: ÄA der Ratsfraktionen von CDU, SPD, BÜ90/GRÜ und FDP: Nahverkehrsplan 2017 - zur Kenntnis genommen
+- TOP 14.2: Erg. Antrag SPD, BÜ90/GRÜ und FDP: Nahverkehrsplan -ÖPNV-Beschleunigung - zur Kenntnis genommen
+- TOP 14.3: Erg. Antrag CDU, SPD, BÜ90/GRÜ und FDP: Nahverkehrsplan - Direktvergaben - zur Kenntnis genommen
+- TOP 14.4: ÄA CDU: Nahverkehrsplan 2017 - zur Kenntnis genommen
+- TOP 15: Neufassung der Richtlinien zur Förderung von Integrationsmaßnahmen der Migrantenorganisationen - mehrheitlich beschlossen
+- TOP 15.1: ÄA Rh Grenda: Neufassung der Richtlinien zur Förderung von Integrationsmaß-nahmen der Migrantenorgan - mehrheitlich abgelehnt
+- TOP 16: Richtlinien der Landeshauptstadt Düsseldorf für Kunst am Bau und im öffentlichen Raum - abweichend beschlossen
+- TOP 16.1: ÄA Rh Grenda: Richtlinien der Landeshauptstadt Düsseldorf für Kunst am Bau und im öffentlichen Raum - mehrheitlich abgelehnt
+- TOP 17: Rückführung des Stadtbetriebs Zentrale Dienste in ein städtisches Amt - mehrheitlich beschlossen
+- TOP 18: Holding der Landeshauptstadt Düsseldorf GmbH; Mitbestimmung - einstimmig beschlossen
+- TOP 19: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 20: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 21: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Anmietung von Flächen im Gebäude Konrad-Adenauer-Platz 1 - zur Kenntnis genommen
+- TOP 23: Anträge
+- TOP 23.1: Antrag Die Linke: Der Datenschutzbeauftragte als Ansprechpartner für Einwohnerinnen und Einwohner
+- TOP 23.2: Antrag Die Linke: Umsetzen von Beschlüssen des Stadtrates
+- TOP 23.3: Antrag CDU: Eigentumssituation und Nutzung des Hofgärtnerhauses
+- TOP 24: Bewerbung Fußball Europameisterschaft 2024 - mehrheitlich beschlossen
+- TOP 24.1: ÄA Rh Grenda: Bewerbung der Stadt Düsseldorf zur Fußball EM 2024 - mehrheitlich abgelehnt
+- TOP 25: Bestellung beratender Mitglieder in Ratsausschüsse und andere Gremien - einstimmig beschlossen
