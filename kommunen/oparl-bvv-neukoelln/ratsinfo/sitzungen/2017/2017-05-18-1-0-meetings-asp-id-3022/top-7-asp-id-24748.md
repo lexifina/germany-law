@@ -1,0 +1,7 @@
+# TOP 7: Mitteilungen der Kiez AG / Träger / Verbände
+
+- Sitzung: 5. öffentliche Sitzung des Jugendhilfeausschusses (2017-05-18)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=24748
+- Ergebnis: erledigt
