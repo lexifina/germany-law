@@ -1,0 +1,89 @@
+# 8. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-05-18T17:00:00+02:00
+- Ende: 2017-05-18T21:45:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3790
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3790
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=216794
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Mensaplätze in der Richard-Wagner-Schule - beantwortet
+- TOP 8.2: Neubau Bahnbrücke Rhinstraße am S-Bahnhof Friedrichsfelde Ost - beantwortet
+- TOP 8.3: Städtepartnerschaften - beantwortet
+- TOP 8.4: Sprinterprämie - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Erstellung eines Flyers mit Standorten öffentlicher Toiletten - überwiesen
+- TOP 9.2: Projekt "Nachbarschaftsmittler" - aufrecht erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: BVV-Sondermittel für Herzberger Lichter - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: BVV-Sondermittel für ein neues Multifunktionsgerät für den FVAJ e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: BVV-Sondermittel für den Europacup im Bogenlaufen 2017 in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Sondermittel für bunte-liga-berlin e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Stärkung der Kinder- und Jugendbeteiligung - überwiesen
+- TOP 9.8: Reisezentrum erhalten – Bahnhof Lichtenberg attraktiver machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Kurzzeitparkmöglichkeiten in der Otto-Marquardt-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Aufhebung der Beschränkung der Parkmöglichkeiten in der Erich-Kurz-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Runder Tisch "Wohnbebauung Degnerstraße/Waldowstraße" - überwiesen
+- TOP 9.12: Abstellanlagen für Kinderwagen, Rollstühle, Rollatoren, Fahrräder und Lastenfahrräder - überwiesen
+- TOP 9.13: Bessere Anbindung an den ÖPNV im Prinzenviertel und Gebiet Blockdammweg - überwiesen
+- TOP 9.14: Lichteffiziente Beleuchtung unter der Eisenbahnüberführung Schlichtallee (Frankfurter Bahn) - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Mehr Sicherheit für Radfahrende - überwiesen
+- TOP 9.16: Defektes Dach vom TagesTreff für Wohnungslose in der Weitlingstraße instand setzen - überwiesen
+- TOP 9.17: Reauditierung Familiengerechte Kommune soll Alleinerziehende berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Historische Orte sichtbar machen - überwiesen
+- TOP 9.19: Sondermittel für das Malchower Storchenfest 2017 - überwiesen
+- TOP 9.20: Erweiterung der Adam-Ries-Grundschule - überwiesen
+- TOP 9.21: Lärmschutz in der Stolzenfelsstraße - überwiesen
+- TOP 9.22: Die Ausstellung und die Ergebnispräsentation "Gesund" auch im Rathaus Lichtenberg ausstellen und vorstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Sicher zur Schule - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Weiterbetrieb des Regionalbahnhofes Karlshorst sichern - mit Änderungen in der BVV beschlossen
+- TOP 9.25: Berufung eines beratenden Mitglieds für den Jugendhilfeausschuss der VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.26: Beanstandung des BVV-Beschlusses vom 27.04.2017, Drucksache-Nr. DS/0005/VIII, Vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Lichtenberg von Berlin, VIII. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.27: Sanierung des Gehweges an der Ecke Treskowallee/Ehrenfelsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Verkehrsberuhigung im Malchower Weg - überwiesen
+- TOP 9.29: Mülleimer an Spazierwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.30: Wiederaufnahme der Essensversorgung an der Gutenberg Oberschule und anderen betroffenen Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Erhöhung des Lehr- und Lernmittelbudgets für Schulen zum Schuljahr 2017/18 - überwiesen
+- TOP 9.32: Bedarfsgerechte stationäre Versorgung von Kindern und Jugendlichen mit geistiger Behinderung sowie psychisch erkrankter Menschen im Evangelischen Krankenhaus Königin Elisabeth Herzberge stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.33: Teilnahme der Begegnungsstätte im Haus der Generationen des Trägers RBO - Inmitten gemeinnützige GmbH am Bundesprogramm "Mehrgenerationenhaus" des Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMFSFJ) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.34: Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 11.1: Wohnraumbedarfe von Großfamilien decken - überwiesen
+- TOP 11.2: Rettung der öffentlichen Toiletten in Lichtenberg - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Folgen der Neuzuschneidung der Grundschuleinzugsbereiche - Bürger*innen zeitnah und angemessen informieren - überwiesen
+- TOP 11.4: Betriebliches Mobilitätskonzept für die Bezirksverwaltung - überwiesen
+- TOP 11.5: Wirtschaftsbericht 2016 Bezug: DS/0346/IV - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Prioritäten der Fraktionen - beantwortet
+- TOP 12.1: Machbarkeitsstudie zu Entwicklungspotentialen der bisherigen Vorhalteflächen für den 17. Bauabschnitt der A 100 - überwiesen
+- TOP 12.2: Prioritätenliste für das B-Planverfahren der Kleingartenanlagen in Lichtenberg - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Bezirksverordnete der BVV Lichtenberg auf eine frühere Stasi-Mitarbeit überprüfen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Anmeldung zur Investitionsplanung 2017 - 2021 - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Investitionsplan 2017 - 2021/Bezirk Lichtenberg zum Neubau des Besucherzentrums für das Mies-van-der-Rohe-Haus (Oberseestraße 60) - in der BVV abgelehnt
+- TOP 13.3: Investitionsplan 2018, Fahrbibliothek (Kapitel 3701, Titel 81211) - in der BVV abgelehnt
+- TOP 13.4: Politische Bildungsarbeit stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: BVV-Sondermittel für den Förderverein Schloß Hohenschönhausen e. V. - überwiesen
+- TOP 14.2: Die Fahrradspur auf der Frankfurter Allee stadtauswärts über die Einmündung Rosenfelder Straße hinaus auf die Fahrbahn verlegen - überwiesen
+- TOP 14.3: Kreidefreie Schulen in Lichtenberg - staubfreie, moderne und digitale Klassenräume - überwiesen
+- TOP 14.4: Glasdach im Rathaus-Innenhof - in der BVV abgelehnt
+- TOP 14.5: Unterstützung des Projektes "Stolpersteine" - überwiesen
+- TOP 15: Vorlagen zur Beschlussfassung - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Die Wohnbevölkerung im Weitlingkiez in ihrer Zusammensetzung erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.2: Kinderplansche für Hohenschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17: Schließung der Sitzung - mit Zwischenbericht zur Kenntnis genommen
