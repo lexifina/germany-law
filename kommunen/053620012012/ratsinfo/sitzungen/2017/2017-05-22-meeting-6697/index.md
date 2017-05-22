@@ -1,0 +1,60 @@
+# Rat (34. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-05-22T18:00:00+02:00
+- Ende: 2017-05-22T19:15:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRZX4DVGZSPyDZtOgzmddUQ
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6697
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSNR32OpoKkw_FZBa-TIr9E0qhDI39eDAH9av04HL890/Bekanntmachung_Rat_22.05.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUvScBENhKV4xc8FI1_Lo1bRNtLAI9QZEnJcUntpDDxf/Oeffentliche_Niederschrift_Rat_22.05.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 20.02.2017
+- TOP 3.: Bürgerbeteiligung in der Stadt Brühl - Erlass von Leitlinien
+- TOP 3.1: Bürgerbeteiligung in der Stadt Brühl hier: Aktualisierung Vorhabenliste und Beteiligungsprotokolle - (kein Text vorhanden)
+- TOP 4.: 15. Satzung zur Änderung der Hauptsatzung der Stadt Brühl: Bezug: Vorlagen-Nr. 556/2016; Rat am 12.12.2016
+- TOP 4.1: 15. Satzung zur Änderung der Hauptsatzung der Stadt Brühl: Bezug: Vorlagen-Nr. 556/2016 und 60/2017, Rat 12.12.2016 und HA 13.2.2017 - (kein Text vorhanden)
+- TOP 5.: Änderung des Gesellschaftsvertrages der Stadtwerke Brühl GmbH sowie der Geschäftsordnung des Aufsichtsrates - (kein Text vorhanden)
+- TOP 6.: 5. Satzung zur Änderung der Satzung der Stadt Brühl über die Stiftung des Max-Ernst-Stipendiums - (kein Text vorhanden)
+- TOP 7.: 6. Fortschreibung Abwasserbeseitigungskonzept 2018 für den Zeitraum 2018 - 2023 (ABK2018) - (kein Text vorhanden)
+- TOP 8.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 06.92, "Gallbergsiedlung" 2. , Änderung nach Wechsel der Erschließungsträgerin - (kein Text vorhanden)
+- TOP 9.: Fördermaßnahme Investitionspakt Soziale Integration im Quartier Mehrzweckhalle Clemens August Campus - (kein Text vorhanden)
+- TOP 10.: Entwurf des Jahresabschlusses 2016 - (kein Text vorhanden)
+- TOP 11.: Ermächtigungsübertragung aus dem Haushaltsplan 2016 nach 2017
+- TOP 12.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 12.1: Überplanmäßige Mittelbereitstellung zur Bezuschussung des Projektes "IntESpo REK" von ASH Sprungbrett e.V. - (kein Text vorhanden)
+- TOP 12.2: Überplanmäßige Ausgabe zur Durchführung einer Organisationsuntersuchung - (kein Text vorhanden)
+- TOP 12.3: Einrichtung einer Stelle für Koordinierungsaufgaben in den Familienzentren Bezug: JHA am 14.03.2017 und Sozialausschuss am 28.03.2017 hier: Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 12.4: Zusätzliche Außerplanmäßige Mittelbereitstellung Baufeldfreimachung und Bodenentsorgung Kita Ost - (kein Text vorhanden)
+- TOP 12.5: Kindertagesbetreuung in Einrichtungen Bau und Einrichtung von 2 vorläufigen Gruppen im Jugendkulturhaus „Passwort Cultra“ durch den Arbeiter-Samariter-Bundes (ASB) Regionalverband Erft/Düren e.V. hier: Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 13.: Zuständigkeit für die Annahme von Spenden - (kein Text vorhanden)
+- TOP 14.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahre 2016 hier: Schreiben der KSK vom 04.05.2017
+- TOP 15.: Anträge
+- TOP 15.1: Einführung einer Wohnraumschutzsatzung Bezug: Antrag der Fraktion Linke&Piraten vom 27.04.2017 - (kein Text vorhanden)
+- TOP 15.2: Workshop "Folgerungen für Brühl aus dem Gutachten REload - Zukunft Rhein-Erft-Kreis 2030" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 12.02.2017
+- TOP 15.2.1: Workshop "Folgerungen für Brühl aus dem Gutachten REload - Zukunft des Rhein-Erft-Kreises 2030" Bezug: Antrag CDU/GRÜNE vom 12.2.2017, Vorlage Nr. 83/2017
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 16.1: Wahl eines stellvertretenden beratenden Mitgliedes für den Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 16.2: Umbesetzung im Jugendhilfeausschuss Bezug: Antrag der SPD-Fraktion vom 14.05.2017 - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 17.1: Bericht über den Delegationsbesuch in Sceaux
+- TOP 17.2: Baustellen
+- TOP 18.: Anfragen
+- TOP 18.1: Einweihung Kunstrasenplatz Vochem
+- TOP 18.2: Neue Feuerwache
+- TOP 18.3: Fahrrad-Fahrverbot Markt
+- TOP 18.4: Verkehrssituation Steingasse
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Niederschrift vom 20.2.2017
+- TOP 20.: Änderung des Gesellschaftsvertrages der Stadtwerke Brühl GmbH sowie der Geschäftsordnung des Aufsichtsrates
+- TOP 21.: Bericht über die 134. Sitzung des Aufsichtsrates der REVG mbH am 22.12.2016
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen
+- TOP 23.1: Bahnübergang Brühl-Schwadorf
