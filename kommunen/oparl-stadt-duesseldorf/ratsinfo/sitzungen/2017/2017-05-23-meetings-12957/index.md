@@ -1,0 +1,65 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-05-23T16:00:00+02:00
+- Ende: 2017-05-23T18:55:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12957
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12957
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293233.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293233.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293233.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 10 gemäß § 22 Geschäftsordnung des Rates, für die bis zum 09.05.2017 eingegangenen Fragen - schriftlich beantwortet
+- TOP 2: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 5: Berichte und Verwaltungsvorlagen
+- TOP 5.1: Vorstellung der Pfarrerin Birgit Otto - zur Kenntnis genommen
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: "Garath 2.0 - Den Wandel gestalten" Ergänzendes Exposé zur Antragstellung"Starke Quartiere - starke Menschen" Berichterstattung durch das Planungsamt zum Beschluss des Rates vom 06.04.2017 - zur Kenntnis genommen
+- TOP 5.4: Trödelmärkte in Garath Zentrum Ost im 2. Halbjahr - einstimmig beschlossen
+- TOP 5.5: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 2. Halbjahr 2017 - einstimmig beschlossen
+- TOP 5.6: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Str.2, im 2. H - einstimmig beschlossen
+- TOP 5.7: Verfügungsmittel der Bezirksvertretung 10 Zuschuss an Just B Fit - vertagt
+- TOP 5.8: Verfügungsmittel der Bezirksvertretung10- Zuschuss an Impulz Theaterprojekte - vertagt
+- TOP 5.9: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an Skylinez-Mediengestaltung - vertagt
+- TOP 5.10: Bezirklicher Bauunterhalt 2017 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - mehrheitlich abgelehnt
+- TOP 5.11: Verfügungsmittel der Bezirksvertretung 10,Zuschuss an den Kleingartenverein "Am Alten Rhein 1987 e.V - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Fuß-/Radweg Paul-Bonatz-Straße - zur Kenntnis genommen
+- TOP 6.2: Modifizierung von Straßenlaternen zur (besseren) Ausleuchtung von Gehwegen - zur Kenntnis genommen
+- TOP 7: aktuelle Anfragen
+- TOP 7.1: Ehemals EDEKA-Markt Garath Süd-West, Ricarda-Huch-Straße 33 - zur Kenntnis genommen
+- TOP 7.2: Ersatzbau Kindertagestätte Otto-Braun-Straße - zur Kenntnis genommen
+- TOP 7.3: Parkfläche südlich von „Aldi“ in Hellerhof - zur Kenntnis genommen
+- TOP 7.4: Zukünftige Nutzung des Hotels „Achteck“ in Garath - zur Kenntnis genommen
+- TOP 7.5: Einschulung Grundschule - zur Kenntnis genommen
+- TOP 7.6: Schnellbuslinie Hellerhof - Universität Düsseldorf - zur Kenntnis genommen
+- TOP 7.7: Teilgesperrte Bürgerwiese in Garath - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Hinweisschild "Sperrmüll abstellen verboten" o.Ä. Jakob-Kneip-Straße 74 Zuwegung - einstimmig beschlossen
+- TOP 8.2: Reinigung des Parkplatzes und Treppenaufganges Peter-Behrens-Str.111 sowie des Treppenaufganges am - einstimmig beschlossen
+- TOP 8.3: Kurzfristige und vollständige Entfernung von Bärenklau an verschiedenen Stellen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 8.4: Klimaanlage Freizeitstätte Garath - einstimmig beschlossen
+- TOP 8.5: Gefährdung durch Müllbehälter - einstimmig beschlossen
+- TOP 8.6: Planung des Verwaltungstraktes der Gesamtschule - einstimmig beschlossen
+- TOP 8.7: Reinigung des Treppenaufgangs im HEZ-Garath - einstimmig beschlossen
+- TOP 8.8: Reinigung der Unterführung Buschholzer Busch/A59 - einstimmig beschlossen
+- TOP 8.9: Natur statt Perfektion – Gegen die weitere Zerstörung der Natur im Stadtbezirk - vertagt
+- TOP 8.10: Beteiligung an einem Aufruf zu einem friedlichen Miteinander - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Freie WLAN-Versorgung im öffentlichen Raum Garath/Hellerhof - zur Kenntnis genommen
+- TOP 9.2: Errichtung eines zentralen "Mobilfunkturms" für den Stadtteil Düsseldorf-Garath - zur Kenntnis genommen
+- TOP 9.3: Reparatur Fahrrad- und Fußgängerweg, Frankfurter Straße - zur Kenntnis genommen
+- TOP 9.4: Einladung eines Vertreters / einer Vertreterin der IPM (Immobilien Projekt Management GmbH) - zur Kenntnis genommen
+- TOP 9.5: Säuberung der Stele und Instandsetzung der Bodenbeleuchtung auf dem Dietrich-Bonhoefer-Platz - zur Kenntnis genommen
+- TOP 9.6: Errichtung eines Park & Ride - Parkplatzes an der Kreuzung Hellerhofweg / Frankfurter Straße, Fläch - zur Kenntnis genommen
+- TOP 9.7: Verkehrsabhängig gesteuerte Ampeln auf dem Hellerhofweg - zur Kenntnis genommen
+- TOP 9.8: Ersatzstandort für städtische Kita Otto-Braun-Straße - zur Kenntnis genommen
+- TOP 10: Verschiedenes
