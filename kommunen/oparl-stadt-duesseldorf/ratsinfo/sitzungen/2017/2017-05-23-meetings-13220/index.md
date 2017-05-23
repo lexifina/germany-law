@@ -1,0 +1,63 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-05-23T17:00:00+02:00
+- Ende: 2017-05-23T19:50:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13220
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13220
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293068.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293068.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293068.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschriften - einstimmig beschlossen
+- TOP 4: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 5: Gymnasium Gerresheim, Am Poth 60, Erweiterungsbau für Unterrichts- und Ganztagsräume inklusive Mensa - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Dreherstraße - Barrierefreier Ausbau der Bushaltestelle Poststadion - einstimmig beschlossen
+- TOP 10: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 11: Bauern- und Handwerkermarkt auf dem Gerricusplatz in Gerresheim im Jahre 2017 - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2017) - abweichend beschlossen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14: Sachstandsbericht zur Aufnahmesituation der Gerresheimer Gymnasien - zur Kenntnis genommen
+- TOP 15: OGS Plätze im Stadtbezirk 7 - beantwortet
+- TOP 16: Nachmittagsbetreuung an der Hanna-Zürndorfer-Schule - abweichend beschlossen
+- TOP 17: Glasmacherviertel - einstimmig beschlossen
+- TOP 18: Fahrradverleih nextbike - abweichend beschlossen
+- TOP 19: Luftbelastung an der Gutenberg Schule - abweichend beschlossen
+- TOP 20: Restaurant „Fuchsjagd“, Alter Markt - einstimmig beschlossen
+- TOP 21: 30-km/h – Zone Dreifaltigkeitsstraße / Vereinsstraße - abweichend beschlossen
+- TOP 22: Straßenbahngleise Ludenberger Straße - einstimmig beschlossen
+- TOP 23: Gaslaternen: Bürgernennungen für den Erhalt der historischen Straßenbeleuchtung - einstimmig beschlossen
+- TOP 24: Geschwindigkeitskontrolle Straßenbahn - mehrheitlich abgelehnt
+- TOP 25: Tempo 40 – Beschilderung Benderstraße - mehrheitlich beschlossen
+- TOP 26: Stadtteilbücherei Heyestraße - beantwortet
+- TOP 27: Kundenaufzug für die Stadtbücherei Gerresheim - zur Kenntnis genommen
+- TOP 28: Fördermittel für Begrünung in stark versiegelten Bereichen - beantwortet
+- TOP 29: Planung Gelände „Bergische Kaserne“, Hubbelrath - beantwortet
+- TOP 30: Spielplatz Apostelplatz - vertagt
+- TOP 31: Grütersaaper Weg - vertagt
+- TOP 32: Feierabendmärkte - zur Kenntnis genommen
+- TOP 33: Verkehrssicherung Knittkuhler Straße - zur Kenntnis genommen
+- TOP 34: Mobiliare Benderstraße - zur Kenntnis genommen
+- TOP 35: Mittelinsel Ikenstraße/Pfeifferstraße - zur Kenntnis genommen
+- TOP 36: Geschwindigkeitsmessung Bergische Landstraße - zur Kenntnis genommen
+- TOP 37: Ampelanlage an der Zufahrt Sulzbachstraße/Torfbruchstraße - zur Kenntnis genommen
+- TOP 38: Slackline - zur Kenntnis genommen
+- TOP 39: Fußgängerbereich Geibelstraße - zur Kenntnis genommen
+- TOP 40: Beleuchtung der Rheinbahn-Fahrgastunterstände Am Schmidtberg - zur Kenntnis genommen
+- TOP 41: Wegweiser im S-Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 42: Sichere Einfahrt in die Benderstraße - zur Kenntnis genommen
+- TOP 43: Verbesserung der Kennzeichnung des Radweges an der Benderstraße - zur Kenntnis genommen
+- TOP 44: Anbindung Bergische Kaserne - Varianten - zur Kenntnis genommen
+- TOP 45: Raumsituation der Förderschulen Lohbachweg - zur Kenntnis genommen
+- TOP 46: Filialkonzept der Deutschen Post AG - zur Kenntnis genommen
