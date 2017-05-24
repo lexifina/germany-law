@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-05-24T15:00:00+02:00
+- Ende: 2017-05-24T19:50:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3742
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3742
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 21. Sitzung des Rates am 14.12.2016 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 22. Sitzung des Rates am 16.02.2017 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3: HSP-Umsetzungsbericht 15.04.2017 - Kenntnisnahme
+- TOP 4: HSP 2012 - Optimierung der Wirtschaftlichkeit - Kenntnisnahme
+- TOP 4.1: Bericht des Oberbürgeremisters - Anhörungsrecht Bezirksvertretungen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 5: Jahresrechnung 2016 - Einstimmiger Beschluss
+- TOP 6: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 7: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 8: Gesamtabschluss 2010 - Einstimmiger Beschluss
+- TOP 9: Einrichtung einer Kommission zur Begleitung der Weiterentwicklung von IT und Telekommunikation und d - Mit Stimmenmehrheit beschlossen
+- TOP 10: Ordnungsbehördliche Verordnung Offenhalten Sonntag 2. Juli 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 11: Bewerbung als Spielort der Fußball-Europameisterschaft 2024 - Mit Stimmenmehrheit beschlossen
+- TOP 12: Jahresabschluss 2016 der GSM und Verwendung des Jahresüberschusses - Einstimmiger Beschluss
+- TOP 13: Städtebauliche Entwicklung der City-Ost; hier: Beschluss Fortführung Vergabeverfahren - Mit Stimmenmehrheit beschlossen
+- TOP 13.1: Städtebauliche Entwicklung der City Ost - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Förderrichtlinie Wohnumfeldmaßnahmen 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 14.1: Förderrichtlinie zur Projektförderung "Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 15: Jahresbericht zur Abwasserbeseitigung - Kenntnisnahme
+- TOP 16: Beitritt "Riga-Komitee" - Einstimmiger Beschluss
+- TOP 17: Beflaggung der Rathäuser (Mönchengladbach & Rheydt) sowie der Bezirksverwaltungsstellen mit der "Reg - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 18: GAY*COM 2017 in Mönchengladbach - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 19: Anfragen und Mitteilungen
+- TOP 19.1: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zu "Gute Schule" - Zur Kenntnis genommen
+- TOP 19.2: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur Straßenerneuerung aus Anlass der Tour de France
+- TOP 19.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zu Finanzprodukten
+- TOP 19.4: Anfrage von RH Dr. Brenner (Bündnis90/Die Grünen) zur Werkeinrichtung Kuhle 8
+- TOP 19.5: Anfrage von RH Dr. Brenner (Bündnis 90/Die Grünen zur Werkeinrichtung Kuhle 8
+- TOP 19.6: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zur Gleichbehandlung von Parteien bei der Beteiligung an Veranstaltungen
+- TOP 19.7: Anfrage von RH Gutowski (FDP) zu Einwilligungserklärungen zum RatsTV
+- TOP 19.8: Anfrage von RH Gutowski (FDP) zum Vitus-Hotspot
+- TOP 19.9: Anfrage von RH Schultz (DIE LINKE) zu Kosten der Unterkunft - Zur Kenntnis genommen
+- TOP 19.10: Anfrage von RH Schultz (DIE LINKE) zu Wahllokalen
+- TOP 19.11: Anfrage von RH Küpper (FDP) zur Nachbesetzung von Stellen
+- TOP 19.12: Anfrage von RH Dr. Schlegelmilch (CDU) zur Hochschulentwicklung
+- TOP 19.13: Persönliche Erklärung von BM Elsen (SPD)
+- TOP 19.14: Persönliche Erklärung von RH Schiffers (SPD)
+- TOP 19.15: Persönliche Erklärung von RH Schultz (DIE LINKE)
