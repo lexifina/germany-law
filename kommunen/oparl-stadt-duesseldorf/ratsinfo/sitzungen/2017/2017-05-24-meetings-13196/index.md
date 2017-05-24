@@ -1,0 +1,67 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-05-24T17:00:00+02:00
+- Ende: 2017-05-24T21:14:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13196
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13196
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293323.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293323.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00293323.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Interfraktioneller Antrag: Reitzenstein Bürgerinformation - einstimmig beschlossen
+- TOP 4: Änderungsantrag der FDP-Fraktion zu 176/ 85/2017 - Gartenstadt Reitzenstein - zurückgezogen
+- TOP 5: Vorstellung Forschungsprojekt INTESO - zur Kenntnis genommen
+- TOP 6: Vortrag Verkehrstatistik - zur Kenntnis genommen
+- TOP 7: Bebauungsplan-Vorentwurf Nr. 06/004 - Nördlich Westfalenstraße (Nordteil) - - Empfehlung einstimmig abgelehnt
+- TOP 8: Änderung des Bebauungsplanes Selbecker Straße Nr. 5780/22 (gem. § 13 BauGB) - Empfehlung mehrheitlich abgelehnt
+- TOP 9: Workshopverfahren -Ehemals-Fashion House- - Empfehlung einstimmig beschlossen
+- TOP 10: FNP-Änderung Nr. 188 Theodorstraße - Verlagerung Bau- und Gartenfachmarkt - Empfehlung einstimmig beschlossen
+- TOP 11: B-Plan 06-007 Theodorstraße - Am Hülserhof - Empfehlung abweichend beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage CDU: Mühlenbroich/Oberhausener Straße - zur Kenntnis genommen
+- TOP 16: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 17: Anfrage BÜ90/GRÜ: Quartiersplatz Nördliche Westfalenstraße - zur Kenntnis genommen
+- TOP 18: Anfrage FDP: Freiflächen Mühlenbroich - zur Kenntnis genommen
+- TOP 19: Anfrage CDU: Mühlenbroich Schausteller - zur Kenntnis genommen
+- TOP 20: Anfrage CDU: Gebiet An der Piwipp - zur Kenntnis genommen
+- TOP 21: Anfrage BÜ 90/DIE GRÜNEN: Baumfällungen und Neupflanzung Aaper Wald (Gaspipeline) - vertagt
+- TOP 22: Anfrage Fraktion BÜ 90/GRÜ: Verwendung Mehrweggeschirr auf Trödelmarkt Schützenplatz Rath - zur Kenntnis genommen
+- TOP 23: Anfrage CDU-Fraktion: Ausgleichsfläche für illegale Halle Oberhausener Straße - zur Kenntnis genommen
+- TOP 24: Antrag SPD-Fraktion: Zebrastreifen Höhe Haltestelle Meisenweg - einstimmig beschlossen
+- TOP 25: Antrag der CDU-Fraktion: Spielplatzausstattung Eugen-Richter-Straße/Maire-Juchacz-Straße - einstimmig beschlossen
+- TOP 26: Interfraktioneller Antrag: Beschilderung Flughafenparker - einstimmig beschlossen
+- TOP 27: Antrag der CDU-Fraktion: Verkehrssituation Heideweg FR Sankt-Franziskus-Straße - einstimmig beschlossen
+- TOP 28: Antrag CDU-Fraktion: Sanierung Gehweg Vogelsanger Weg - einstimmig beschlossen
+- TOP 29: Antrag der CDU Fraktion: Überprüfung Schulpflicht Schaustellerfamilien - mehrheitlich beschlossen
+- TOP 30: Antrag SPD-Fraktion: Einrichtung Schulbushaltestelle Krahnenburgstraße - einstimmig beschlossen
+- TOP 31: Antrag CDU und FDP: BSA Ammerweg - einstimmig beschlossen
+- TOP 32: Masterplan Kinderspielplätze - Maßnahmenauswahl 2018 - zur Kenntnis genommen
+- TOP 33: Nachnutzung KSP Damaschkestraße - zur Kenntnis genommen
+- TOP 34: MdV - Widmung Lünener Straße - zur Kenntnis genommen
+- TOP 35: Zuschussvergabe 2017 - Seniorenclub St. Maria unter dem Kreuze - einstimmig beschlossen
+- TOP 36: Zuschussvergabe 2017 - JFE Ekkehardstraße - mehrheitlich abgelehnt
+- TOP 37: Zuschussvergabe 2017 - Bürger-Schützenverein Düsseldorf-Rath - einstimmig beschlossen
+- TOP 38: Förderung Dritter - Jüdisches Gymnasium - einstimmig beschlossen
+- TOP 39: Bauunterhaltungsmittel 2017 - zurückgezogen
+- TOP 40: MdV: "Unterrather Tor" - Kalkumer Straße 1+2 - zur Kenntnis genommen
+- TOP 41: MdV - Wilhelm-Raabe-Straße Sitzbänke - zur Kenntnis genommen
+- TOP 42: MdV - Fahrradständer Flughafenbahnhof - zur Kenntnis genommen
+- TOP 43: MdV - Verkehrsberuhigung In der Nießdonk - zur Kenntnis genommen
+- TOP 44: MdV - Wegeverbindung Dülmener Weg/Aaper Wald - zur Kenntnis genommen
+- TOP 45: MdV - Reinigung Radschläger-Skulptur - Vorlage 176/ 183/2016 - zur Kenntnis genommen
+- TOP 46: MdV - Fahrradständer Unterrath S - zur Kenntnis genommen
+- TOP 47: MdV: mögliche Kerosinverschmutzung - essbare Stadt - zur Kenntnis genommen
+- TOP 48: Zuschussvergabe 2017 - SG Unterrath 1912/24 e.V. - einstimmig beschlossen
+- TOP 49: MdV: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 50: Schaukasten Mörsenbroich - einstimmig beschlossen
