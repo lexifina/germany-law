@@ -1,0 +1,85 @@
+# 21. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-05-29T17:00:00+02:00
+- Ende: 2017-05-29T19:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17255
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17255
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Vorstellung von Herrn Stadtdirektor Dr. Stephan Keller
+- TOP -: B Präsentation des Projektes Stadtteilmütter der Christlich Sozialen Hilfe (CSH)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Markgrafenstraße - Übergang Geh- und Radweg (Az.: 02-1600-150/16) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1.1: Sanierung des Genovevabrunnens - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Bau einer Fernwärmeleitung am Rheinufer in Köln-Mülheim - Kenntnis genommen
+- TOP 7.1.2: Reinigung des Fuß-und Radweges "Dellbrücker Mauspfad und Hardthofstraße" in Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der SPD-Fraktion zur Verkehrssituation Mülheimer Freiheit - Kenntnis genommen
+- TOP 7.2.2: Anfrage EMT Tücks zur Renaturierung Kemperbach - Kenntnis genommen
+- TOP 7.2.3: Anfrage EMT Tücks zur Sauberkeit der Brunnen am Wiener Platz - Kenntnis genommen
+- TOP 7.2.4: Anfrage SPD-Fraktion zu Grundschulplätzen in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.2.4.1: Grundschulplätze in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.2.5: Anfrage der Fraktion Bündnis 90/Die Grünen: Verkehrliche Maßnahmen auf der Berg. Gladbacher Straße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Umbenennung Teilstück Wiesdorfer Straße - ungeändert beschlossen
+- TOP 8.1.2: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Anwohnerparken Urnenstraße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 8.1.3: Antrag der CDU-Fraktion: Telekomkasten auf dem Platz vor der Sparkasse Köln-Bonn, Südostecke Kreuzung Heidelberg- und Waldeckerstraße - ungeändert beschlossen
+- TOP 8.1.4: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Stadtteilmütter - Verstetigung 2018 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Temporäre Gestaltung der Platzfläche REWE-Platz an der Piccoloministraße in Köln-Holweide - ungeändert beschlossen
+- TOP 9.1.2: Umgestaltung Bolzplatz Wichheimer Straße in Köln-Buchheim - ungeändert beschlossen
+- TOP 9.1.3: Umgestaltung Bolz- und Basketballplatz Böcking-Park in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.4: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - geändert beschlossen
+- TOP 9.1.5: TOP 9.1.5 (3. Nahverkehrsplan der Stadt Köln) umsortiert zu TOP 9.2.7
+- TOP 9.1.6: Genehmigung eines kleines Wochenmarktes in der Bruder-Klaus-Siedlung - ungeändert beschlossen
+- TOP 9.1.7: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2017 - geändert beschlossen
+- TOP 9.1.8: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für die - ungeändert beschlossen
+- TOP 9.1.9: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Änderung der Zuständigkeitsordnung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.2: Planungsaufnahme zur Errichtung einer 3-fach Turnhalle sowie von 4 zusätzlichen Klassenräumen für das Herder - Gymnasium, Kattowitzer Str. 52, 51065 Köln Buchheim - ungeändert beschlossen
+- TOP 9.2.3: Ergänzende Maßnahmen zum "Interkommunalen Programm zwischen Köln und Bergisch Gladbach (33-Punkte-Programm)" zur Senkung des Verkehrsaufkommens für den Stadtbezirk Mülheim - geändert beschlossen
+- TOP 9.2.4: Interkommunale Maßnahmen zur Senkung des Verkehrs für den Kölner rechtsrheinischen Norden - ungeändert beschlossen
+- TOP 9.2.5: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - ungeändert beschlossen
+- TOP 9.2.6: Circus-Roncalli-Weg in Köln-Mülheim; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.7: 3. Nahverkehrsplan der Stadt Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Fuß- und Radweg in Verlängerung der Maria-Himmelfahrt-Straße AN/0005/2016 - Kenntnis genommen
+- TOP 10.2.4: 1. Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.6: Abschlussbericht zum Projekt "Büro Wirtschaft für Mülheim" - Kenntnis genommen
+- TOP 10.2.7: Stadtradeln 2017 - Kenntnis genommen
+- TOP 10.2.8: Jugendtreff in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.9: Errichtung einer stationären Geschwindigkeitsüberwachungsanlage in der Paffrather Straße - Dellbrück - Kenntnis genommen
+- TOP 10.2.10: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 10.2.11: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 10.2.12: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 10.2.13: Kunstfelder Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 10.2.14: Vergabe bezirksdienlicher Mittel, die dem Sport zugutekommen - Kenntnis genommen
+- TOP 10.2.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.16: 208. FNP-Änderung: Lindgens-Areal in Köln-Mülheim; Offenlage nach § 3 Absatz 2 BauGB - mit Änderungen empfohlen
+- TOP 10.2.17: Geschwindigkeitsüberwachung Gierather Straße und Penningsfelder Weg - Kenntnis genommen
+- TOP 10.2.18: Prüfung einzelner Maßnahmen zur Erhöhung der Verkehrssicherheit in der Marienheider Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 10.2.19: Prüfung zur Einrichtung von Querungshilfen für den Fußgänger zur Verbesserung der Verkehrssicherheit auf der Sigwinstraße in Köln-Höhenhaus - Kenntnis genommen
+- TOP 10.2.20: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
