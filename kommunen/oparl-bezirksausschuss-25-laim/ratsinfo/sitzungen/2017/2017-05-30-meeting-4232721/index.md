@@ -1,0 +1,73 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-05-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232721
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232721
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 02.05.2017
+- TOP 8: Umlauf
+- TOP A.: Vorstellung Begrünungsbüro Green City e.V.
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Verkehrssituation in der Senftenauerstraße
+- TOP 1.2.2.: Wertstoffinsel Valpichlerstraße
+- TOP 2.1.: UA Bildung und Sozialplanung und UA Senioren und Soziales: Standort Alten- und Servicezentrum Laim
+- TOP 2.2.: Bündnis90/ Die Grünen: Stadtteilbibliothek Laim auch samstags öffnen
+- TOP 2.3.: Bündnis90/ Die Grünen: Fahrradstraßen in Laim
+- TOP 2.4.: Bündnis90/ Die Grünen: Einsatz Dialogdisplays in Laim
+- TOP 3.1.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Initiative „Express Your Style“, Tanz-Battle „Express Your Style“ am 27./28.05.2017
+- TOP 3.2.: Beschlussvorlage Referat für Arbeit und Wirtschaft: U-Bahnhof Laimer Platz: zusätzlicher Aufzug am westlichen U-Bahn-Zugang
+- TOP 3.3.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Erasmus-Grasser-Gymnasium, Schüler-Mit-Verantwortung Projekt "Schule als Staat" vom 20. - 27.07.2017
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 21.04.17: verkehrsrechtliche Anordnung; Anfahrtszone vor Kinderkrippe Hogenbergstraße 33
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 05.05.17: Veranstaltung in einer städtischen Grünanlage, hier: Sommerfest am 09.07.2017, Schrobenhausener Str. 3
+- TOP 4.3.: Schreiben Direktorium vom 02.05.17: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM, Antrag BA 18 - Untergiesing-Harlaching
+- TOP 4.4.: Diesterwegstraße 6: Antrag auf Fällung von 1 Zypresse und 1 Eibe
+- TOP 4.5.: Agnes-Bernauer-Straße 28: Antrag auf Fällung von 3 Spitzahorn
+- TOP 4.6.: Schäufeleinstraße 5 - 7: Antrag auf Fällung von 2 Robinien
+- TOP 4.7.: Aindorferstraße 77 b: Antrag auf Fällung von 1 Vogelkirsche
+- TOP 5.1.: Landsberger Straße 159 - 175: Nutzungsänderung Halle 8 / 3. OG: Lager zu Ausstellungs- und Eventbereich (befristet bis 30.06.2019)
+- TOP 5.2.: Fürstenrieder Straße 92: Nutzungsänderung: Laden mit Steh-Imbiss zu Gaststätte
+- TOP 5.3.: Haslangstraße 38: Neubau eines Einfamilienhauses mit Garage
+- TOP 5.4.: Seehoferstraße 12: Neubau eines Doppelhauses mit 2 Carports, Vollzug der Baumschutzverordnung
+- TOP 6.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.04.17: Regionalgespräche der Bezirksausschüsse 2017 zwischen dem Referat für Stadtplanung und Bauordnung - Lokalbaukommission und den Bezirksausschüssen am 21.06.2017 um 17.00 Uhr
+- TOP 6.2.: Antrag BA 1 Altstadt-Lehel vom 09.05.2017: Baum-Masterplan für München
+- TOP 6.3.: BA-Dialog mit dem Referat für Bildung und Sport am 18.07.2017
+- TOP 8.1.: Schreiben Oberbürgermeister Reiter vom 25.04.17: Kampagne "Wählen gehen für Demokratie und Menschenrechte!"
+- TOP 8.2.: Schreiben Direktorium vom 12.05.17: Bauvorhaben Mitterhoferstraße 7
+- TOP 8.3.: Schreiben Baureferat vom 25.04.17: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen, hier: KITZ Veit-Stoß-Straße 98
+- TOP 8.4.: Schreiben Baureferat vom 24.04.17: Antwort zu Anträgen aus der Kinder- und Jugendeinwohnerversammlung: Wasserspielplätze in Laim
+- TOP 8.5.: Schreiben Baureferat vom 08.05.17: Beidseitiger Radweg in der Agnes-Bernauer-Straße
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 19.04.17: Nächtliches Autorasen in Laim
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 09.05.17: Unveränderte Fortführung eines Gaststättenbetriebes, hier: "Maxes Eventlocation", Friedrich-von-Pauli-Straße 21
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 27.04.17 und Polizeipräsidium München vom 02.05.17: Einrichtung von dauerhaften "Blitzern" in der Landsberger Straße im Abschnitt zwischen Friedenheimer Brücke und Laimer Würfel
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 02.05.17: Verkehrsrechtliche Anordnung, hier: Sandrartstraße 1 bzw. 2; Feuerwehrzufahrt
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.05.17: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV), Fällgenehmigung Willibaldstraße 13, 1 Serb. Fichte
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.04.17: Broschüre "Zukunftsschau München 2040+"
+- TOP 8.12.: Schreiben Stadtkämmerei vom 19.04.17: Mehrjahresinvestitionsprogramm 2017-2021 Anhörung der Bezirksausschüsse
+- TOP 8.13.: Schreiben Referat für Arbeit und Wirtschaft vom 19.04.17: Protokoll zur 2. Informationsveranstaltung für BAs am 05.04.2017: Aufbau eines öffentlichen Ladesäulensystems für E-Fahrzeuge
+- TOP 8.14.: Bautenliste vom 24.04. - 30.04.17: 1. Erstantragsverfahren a) Schrobenhausener Str. 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22 b) Valpichlerstr. 2, 4, 6, 8, 10, 12, 14, 16 c) Friedenheimer Str. 41, 43, 45, 49, 51, 53, 55, 57, 59, 59a d) Ilse-Weber-Str. 17, 19, 21, 23 e) Haslangstr. 38 f) Zschokkestr. 69 g) Camerloherstr. 110 h) Fürstenrieder Str. 92 2. Änderungsverfahren zu genehmigten Bauvorhaben: a) Junkerstr. 41
+- TOP 8.15.: Bautenliste vom 01.05. - 07.05.17: 1. Erstantragsverfahren: a) Hörkherstr. 5 b) Landsberger Str. 159 c) Fürstenrieder Str. 70
+- TOP 8.16.: Bautenliste vom 08.05. - 14.05.17: 1. Erstantragsverfahren a) Fürstenrieder Str. 35 b) Landsberger Str. 185
+- TOP 8.17.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtag 08.05. - 12.05.2017
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.17: Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.17: Maßnahmenkonzept für klimaangepasstes Bauen
+- TOP 8.20.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.17: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.17: Verbesserung der Querungsmöglichkeiten für Fußgängerinnen und Fußgänger an der Ostseite der Kreuzung Landsberger Straße / Elsenheimerstraße / Friedenheimer Brücke
+- TOP 8.22.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.05.17: Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 8.23.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 24.05.17: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 8.24.: Schreiben Mieterbeirat vom 16.05.17: Protokoll der öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München vom 24.04.2017
+- TOP 8.25.: Schreiben Faschingsclub Laim e.V vom 21.04.17: Sachbericht zum Laimer Faschingstreiben vom 25.02.17
