@@ -1,0 +1,127 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-05-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118640
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118640
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP F.3.: Umbesetzungen in den Unterausschüssen
+- TOP F.4.: Betreuung des BA-Schaukastens Ackermann-/Therese-Studer-Straße
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Bürger: Kinder von Gestern in Not
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Jugendzentrum LIFE /CVJM München e.V. AktivFerien am Ackermannbogen vom 11. - 15.06.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Verein für Internationale Jugendarbeit, Ortsverein München e.V., ClubIn Internationaler Treff Fortbildung "Stark für die eigene Rolle in der offenen Jugendarbeit" vom 30.06 - 02.07.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse PA/SPIELkultur e.V. 5. City Stories Geschichtenfestival vom 13.06. - 16.06.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Planungen für die städtische Berufsschule für Fahrzeugtechnik, Eisenbahn und Fahrbetrieb, Elisabethplatz 4 – Weiterbetrieb der öffentlichen Toilette (Antwort des Referats für Bildung und Sport auf BA-Schreiben vom 30.03.2017)
+- TOP 3.1.2.: Gleichstellung von Eltern-Kind-Initiativen
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Musisches Zentrum: Verwendungsnachweis für BA-Zuschuss für Küchenausstattung
+- TOP 3.2.2.: Bewilligungsbescheid Schwabinger Schülerladen e.V.
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Situation an der Ricarda-Huch-Realschule durch Teilung in Haupthaus und Campus (Schreiben des Personalrats an Schulleitung, Referat für Bildung und Sport, den Oberbürgermeister, verschiedene Stadträte sowie die Bezirksausschüsse 12 und 4)
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Entfernung bzw. Versetzen des Zeitungskastens an der Ecke Destouchesstr. 81/Fallmerayerstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 158 „L.A. Back Café“: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Initiative „Figurentheater“ c/o Linde Scheringer Ausstellung und Aufführung des Puppentheaters vom 25.06. - 02.07.2017
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Initiative "84 GHz -Raum für Gestaltung" Veranstaltung "Kunst im Karrée 2017" am 08./09.07.2017
+- TOP 2.3.1.: Veranstaltungen des CVJM/Jugendzentrum LIFE am 08. und 13.07.2017 auf der großen Wiese im Ackermannbogen im Rahmen der Stadtteilwoche
+- TOP 2.3.2.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund (vertagt aus 04/17)
+- TOP 2.3.3.: Sommerfest „Pro Animale“ am 22.07.2017 im Luitpoldpark
+- TOP 2.3.4.: Straßenfest „Georgenstraße“ am 22.07.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid Initiative „Film O&#039;pflanzt ist“
+- TOP 3.2.2.: Bewilligungsbescheid Pfennigparade „Nachbarschaftstreff“
+- TOP 3.2.3.: Bewilligungsbescheid Ackermannbogen e.V. (Infopoint)
+- TOP 3.3.1.: „Der Mann, der zu viel wusste“ am 03.05.2017 von 8 bis 14 Uhr im Luitpoldpark
+- TOP 3.3.2.: „Soko München“ am 15.05.2017 von 7 bis 14 Uhr in der Barlachstr. 36
+- TOP 3.3.3.: „Wie geil ist Dustin?“ am 02.und 03.06.2017 jeweils von 9 bis 20 Uhr im Luitpoldpark
+- TOP 3.3.4.: „Die Unreifen“ am 02.06.2017 von 21 bis 24 Uhr in der Ainmillerstr. 39
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Standort Infopoint am Stadtplatz Ackermannbogen: Zustimmung per Eilentscheidung des Vorsitzenden vom 05.05.2017
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Tektur Friedrich-Loy-Str. 12+14: Neubau eines Kinderhauses mit Studentenwohnheim, Wohnungen und Tiefgarage
+- TOP 2.1.2.: Vorbescheid Hiltenspergerstr. 84: Neubau eines Wohngebäudes
+- TOP 2.1.3.: Destouchesstr. 40: Anbau eines verglasten Außenaufzugs
+- TOP 2.1.4.: Tektur Barlachstr. 6: Neubau eines Wohngebäudes (24 WE) mit Sparkassenfiliale und Tiefgarage
+- TOP 2.1.5.: Vorbescheid Infanteriestr. 14: Neubau eines Mehrfamilienhauses (98 WE) mit Büroeinheit im EG (470 m²) und Tiefgarage (120 Stellplätze)
+- TOP 2.1.6.: Tektur Sailerstr. 11 Vorder- und Rückgebäude: Sanierung, Um- und Ausbau zweier Wohnkomplexe (82 WE + Stellplätze)
+- TOP 2.1.7.: Tengstr. 34: Nutzungsänderung (UG, EG, 1. OG): Gaststätte zu 2 Büroeinheiten und 2 Wohnungen
+- TOP 2.1.8.: Römerstr. 21: Umbau und Nutzungsänderung: Ladengeschäft zu kultureller Anlage für Kinder und Jugendliche
+- TOP 2.1.9.: Tektur Hohenzollernstr. 97: Errichtung zweier Wohnungen im DG und Spitzboden, Nutzungsänderung Souterrain, Vorbau eines Personenaufzugs
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Leerstände in der Isabellastr. 38 und 38 a (Antwort des Amtes für Wohnen und Migration auf BA-Nachfrage vom 30.03.2017)
+- TOP 3.1.2.: Vorbescheid Kraepelinstr. 2-16, Neubau der psychiatrischen Klinik, Ersatzwohnraum für Kraepelinstr. 4 (Antwort der Max-Planck-Gesellschaft auf BA-Schreiben vom 30.03.2017)
+- TOP 3.1.3.: Friedrichstr. 19 (Neubau eines Wohnhauses mit Tiefgarage und eines Rückgebäudes): Abdruck der Baugenehmigung vom 17.05.2017
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 3.2.2.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 3.2.3.: Bonner Str. 17: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen in einer Wohnung
+- TOP 3.2.4.: Hohenzollernstr. 31: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen im Rückgebäude
+- TOP 3.2.5.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 3.2.6.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 3.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Tempo 30 in der Schleißheimer Straße zwischen Herzog- und Schwere-Reiter-Straße
+- TOP 1.2.: Bürgerin: Rechts vor Links-Regelung an der Kreuzung Winzerer-/Georgenstraße
+- TOP 1.3.: Bürger: Fahrradstraße Clemensstraße
+- TOP 1.4.: Postagentur Pfennigparade: Eingeschränkte Haltverbote in der Hagedorn-/Ecke Rümannstraße
+- TOP 1.5.: Bürger: a)Ruhestörung durch Busse an der Endhaltestelle Ackermannbogen b) Lösungsvorschlag: Neue Endhaltestelle für Bus 59
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: Öffnung der nach Norden einbahngeregelten Ansprengerstraße zwischen Unertl- und Karl-Theodor-Straße für den gegenläufigen Radverkehr
+- TOP 2.2.2.: (E) Größere Toleranzzone am Rand des Parklizenzbereichs West-Schwabing
+- TOP 2.2.3.: Absolutes Haltverbot im Einmündungsbereich Friedrich-Loy-Straße/Herzogstraße
+- TOP 2.2.4.: Übergang Belgradstraße in Höhe von Hausnummer 108 – Nachfrage zum Sachstand
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Kampfmittel unter dem Luitpoldpark? (Antwort des Baureferats auf BA-Anfrage vom 30.03.2017)
+- TOP 3.1.2.: Dauerparkende Lkw-Anhänger und Wohnwagen an der Ackermannstraße; Lasterplage im neuen Viertel am Ackermannbogen: Parken auf Pkw beschränken (Antwort des KVR auf BA-Schreiben vom 26.01. und 30.03.2017)
+- TOP 3.1.3.: Angebot des öffentlichen Personennahverkehrs bei länger anhaltenden Inversionswetterlagen erhöhen (Ziffer 2 des Antrags)
+- TOP 3.3.1.: Absolutes Haltverbot vor Schleißheimer Str. 188 bis 198
+- TOP 3.3.2.: Sichthaltverbote bei der Ausfahrt des Lehrerparkplatzes in der Borschtallee
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Zuwendungsbewilligung für einen Zuschuss aus dem BA-Budget an Urbanes Wohnen e.V. im Rahmen des Programms „Bürgerinnen und Bürger gestalten ihre Stadt“ für die Optimierung des Bezirksnaturnetzes
+- TOP 3.4.2.: Stromprojekt Netztrafostation Destouchesstraße – Infoflyer der Stadtwerke
+- TOP 3.4.3.: Fernwärmeprojekt Franz-Joseph-Straße – Infoflyer der Stadtwerke
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Anhörung/Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM Anhörung zu einem Antrag des BA 15 Trudering/Riem auf Änderung der BA-Satzung
+- TOP F.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.5.: Suche nach BA-Sitzungssaal Schreiben des KVR vom 02.05.2017 an das Kommunalreferat
+- TOP G: Verschiedenes
+- TOP H: Termine
