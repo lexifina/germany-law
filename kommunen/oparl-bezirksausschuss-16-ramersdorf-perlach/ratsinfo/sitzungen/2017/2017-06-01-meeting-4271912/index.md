@@ -1,0 +1,191 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2017-06-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4271912
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4271912
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokolle
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 1.6.2.: Nachbesetzung in den Unterausschüssen
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.6: Sonstige
+- TOP 3: Anträge
+- TOP 3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.5.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.4.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.4.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.2.: 4.4.2.1 Gemeinde Putzbrunn; Bebauungsplan Nr. 43 „Wohn-und Gewerbegebiet Grasbrunner Feld“; Beteiligung der Behörden und sonstiger Träger öffentlicher Belange nach § 4 Abs. 1 BauGB; Bitte um Stellungnahme bis zum 10.07.2017; Zuleitung vom 29.05.2017 4.5.1.5 Im Gefilde 4, Jubiläum/Tag der offenen Tür FFW Waldperlach und Kinderaktionsfläche im Skatepark am Gefilde (Grünanlage) am 08./ 09.07.2017; Frist zur Stellungnahme bis zum 26.06.2017; Zuleitung vom 29.05.2017 4.5.1.6 Theodor-Heuss-Platz, 50 Jahre Vielfalt Neuperlach am 30.06.2017; Frist zur Stellungnahme bis zum 24.06.2017; Zuleitung vom 24.05.2017 4.5.1.7 Im Gefilde, Girls Skate Jam Teil 2 am 23.07.2017; Frist zur Stellungnahme bis zum 01.07.2017; Zuleitung vom 29.05.2017 4.5.1.8 Langbürgener Straße, Fußballturnier am 07.07.2017; Frist zur Stellungnahme bis zum 03.07.2017; Zuleitung vom 31.05.2017 4.5.1.9 Ostpark, Sponsorenlauf durch den Ostpark am 06.07.2017; Frist zur Stellungnahme bis zum 26.06.2017; Zuleitung vom 01.06.2017 4.5.1.10 Städtische Fläche Nr. 1750/15 Straßenbegleitgrün südwestlich der Kreuzung Ständlerstr./ Heinrich-Wieland-Str., Temporäre Kunst im öffentlichen Raum - „Heide“ vom 25.08. bis 29.08.2017; ab Ende Juni 2017 kein Mähen der Wiesen; Zuleitung vom 29.05.2017
+- TOP 1.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Mobilität und Umwelt
+- TOP 2.1.1.: Sanierung Zieglerstr. nördlich ab Haus Nr. 22 mit Gehweg, Grünstreifen, Grüninseln, Bäumen, Straßenbelag und Schlaglöchern Empfehlung Nr. 14-20 / E 01063 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 28.06.2016 (TOP 2.1.1 vom 03.05.2017, TOP 2.1.1 vom 06.04.2017, TOP 2.1.2 vom 09.03.2017, TOP 2.1.1 vom 09.02.2017, TOP 2.1.1 vom 12.01.2017)
+- TOP 2.2: Budget, Kultur und Sport
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: Budget der Bezirksausschüsse Spielen in der Stadt e.V. Baumobil im Juni / Juli und Wasserspielbus im September 2017 Antragssumme: 8.428,00 € (TOP 2.2.1.3 vom 03.05.2017)
+- TOP 2.2.1.2.: Budget der Bezirksausschüsse Tanz und Schule e.V. 3 Tanzprojekte vom 22.05. - 02.06.2017 Antragssumme: 2.000,00 € (TOP 2.2.1.5 vom 03.05.2017)
+- TOP 2.2.1.3.: Budget der Bezirksausschüsse Condrobs e.V. Ferienfahrt vom 12. - 14.08.2017 Antragssumme: 1.590,00 €
+- TOP 2.2.1.4.: Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde St. Paulus Perlach Vortrag am 13.07.2017, Fest am 16.07.2017 und Konzert am 22.10.2017 Antragssumme: 1.000,00 €
+- TOP 2.2.1.5.: Budget der Bezirksausschüsse VdK München-Perlach-Waldperlach-Neuperlach-Fasangarten Feierlichkeiten zum 70jährigen Bestehen am 25.06.2017 Antragssumme: 1.215,00 €
+- TOP 2.2.1.6.: Budget der Bezirksausschüsse Caritasverband der Erzdiözese München und Freising e.V. Betreuungsangebote für Kinder vom 01.08. - 05.08.2017 Antragssumme: 1.073,75 €
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.1: Mobilität und Umwelt
+- TOP 3.1.1.: Parken von LKW im Hugo-Lang-Bogen, Bitte um erneute Überprüfung. Bürgeranliegen vom 23.04.2017 (TOP 3.1.9 vom 03.05.2017)
+- TOP 3.1.2.: Forderung einer Veränderung vom Fußgängerübergang Bushaltestelle Mitterweg Bürgeranliegen vom 25.03.2017 (TOP 3.1.15 vom 03.05.2017)
+- TOP 3.1.3.: Wiederherstellung des Halteverbotsschildes in der Kurve des Plievierparks (Neuperlach) und Erneuerung der Markierungen der Einfahrten. Bürgeranliegen vom 26.04.2017
+- TOP 3.1.4.: Vorschläge zur Verbesserung der Fußgänger-Ampel für die Überquerung der Putzbrunner Straße am Waldheimplatz Bürgeranliegen vom 10.05.2017
+- TOP 3.1.5.: Entfernung des Hinweisschildes "Ende der Zone 30" am Ende der Gänselieselstr. Richtung Neubiberg Bürgeranliegen vom 11.05.2017
+- TOP 3.1.6.: Blockierter Radweg auf Höhe Ottobrunner Str. 132 Bürgeranliegen vom 16.05.2017 und vom 19.05.2017
+- TOP 3.1.7.: Anbringung eines Absperrpfostens für den kleinen, öffentlichen Weg vom Karl-Marx-Ring aus ins Grundstück Stemplingeranger 7 - 17 Bürgeranliegen vom 18.05.2017
+- TOP 3.1.8.: Antrag "Einbahnstraßenregelung in der Anzlgutstraße für Radfahrer öffnen" Antrag der DaCG/ÖDP Fraktion im BA 16 vom 22.05.2017
+- TOP 3.2: Budget, Kultur und Sport
+- TOP 3.2.1.: Antrag für den Bau einer Boulebahn auf dem Redlingerplatz Bürgeranliegen vom 15.05.2017
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.2.: Bitte des Spielen in der Stadt e.V. um Unterstützung. Zuleitung vom 05.04.2017 (TOP 3.3.2 vom 03.05.2017)
+- TOP 3.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4.: Anfrage hinsichtlich der Qualität der Online-Services der Landeshauptstadt München. Anfrage aus dem Unterausschuss für Bildung, Gesundheit, Integration und Sport des BA 16 vom 26.05.2017
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.4.1.: Suche nach einem geeigneten Ausweichstandort für die Münchner Wochen- und Bauernmärkte am Hanns-Seidel-Platz. Bürgeranliegen vom 20.04.2017 Ergänzungen entsprechend dem in der Sitzung am 03.05.2017 beschlossenen Ortsermin vom 10.05.2017 und 12.05.2017 Einladung zu einem weiteren Ortstermin vom 15.05.2017 (TOP 3.4.2 vom 03.05.2017)
+- TOP 3.4.2.: Nachfrage zur geplanten Nachverdichtung Karl-Marx-Ring / Heinrich-Wieland-Str. Bürgeranliegen vom 23.05.2017
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.1: Mobilität und Umwelt
+- TOP 4.1.1.: Planfestellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben barrierefreier Ausbau der S-Bahn-Station Haltepunkt St.-Martin-Straße der Strecke 5551 München-Ost - Deisenhofen, Bahn-km 1,06 bis Bahn-km 1,36 in der Landeshauptstadt München. Anhörungsverfahren Bitte um Stellungnahme per E-Mail bis zum 31.05.2017, spätestens bis zum 07.06.2017 Zuleitung vom 20.04.2017 (TOP 4.1.3 vom 03.05.2017)
+- TOP 4.1.2.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 16. Stadtbezirk Ramersdorf-Perlach Bitte um Klärung ob Einverständnis mit den Textvorschlägen besteht und wie viele Schilder (ein- oder doppelseitig) gewünscht sind. Zuleitung vom 27.04.2017 (TOP 4.1.5 vom 03.05.2017)
+- TOP 4.1.3.: Austausch der Lichtsignalanlage an der Heinrich-Wieland-Str./ Karl-Marx-Ring Bitte um Mitteilung bis zum 02.06.2017 Zuleitung vom 26.04.2017
+- TOP 4.2: Budget, Kultur und Sport
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 4.3.1.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017 Anlage - Beschlussvorlage (Entwurfsstand 11.04.2017) - Anlage zur Beschlussvorlage (Kurzberichte, Kurzbeschreibungen) - Kopien der Stadtrats- und Bezirksausschussanträge sowie Bürgerversammlungsempfehlungen Entwurfsstatus: Abstimmung mit den Referaten Bitte um Stellungnahme bis zum 26.05.2017 Zuleitung vom 13.04.2017 (TOP 4.3.2 vom 03.05.2017)
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 4.4.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1.: Puechbergerstr. 38 - 46 - Neubau eines Punkthauses Zuleitung vom 16.03.2017 (TOP 4.4.1.1 vom 03.05.2017, TOP 4.4.1.8 vom 06.04.2017)
+- TOP 4.4.1.2.: Balanstr. 159 - 163 - Neubau eines Punkthauses mit Tiefgarage (Balanstr. 159 - 163 / Puechbergerstr. 9 - 31) Zuleitung vom 21.03.2017 (TOP 4.4.1.2 vom 03.05.2017, TOP 4.4.1.9 vom 06.04.2017)
+- TOP 4.4.1.3.: Melanchthonstr. 17 - Neubau zweier Doppelhäuser (insges. 4 WE) Zuleitung vom 19.04.2017 (TOP 4.4.1.9 vom 03.05.2017)
+- TOP 4.4.1.4.: Görzer Str. 75 – 93 – Neubau zweier Punkthäuser „Wohnen für Alle“ Zuleitung vom 26.04.2017 (TOP 4.4.1.10 vom 03.05.2017)
+- TOP 4.4.1.5.: Ulfilasstr. 31 - Neubau von 7 Mehrfamilienhäusern mit Tiefgarage Zuleitung vom 08.05.2017
+- TOP 4.4.1.6.: Sebastian-Bauer-Str. 24 - Abbruch der Bestandsgebäude / Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID (Variante 1 - "überbaut") Zuleitung vom 18.05.2017
+- TOP 4.4.1.7.: Sebastian-Bauer-Str. 24 - Abbruch der Bestandsgebäude / Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID (Variante 2 - "freistehend") Zuleitung vom 18.05.2017
+- TOP 4.4.1.8.: Echardinger Str. 73 - Abbruch eines Wohnhauses und Neubau eines Doppelhauses mit 2 Garagen - VORBESCHEID Zuleitung vom 18.05.2017
+- TOP 4.4.1.9.: Bayerwaldstr. 3-5 - Nutzungsänderung: Büro- und Gewerbegebäude zu Schule (1. - 13. Klasse) - VORBESCHEID Zuleitung vom 19.05.2017
+- TOP 4.4.1.10.: Waldheimpl. 2 - Umplanung eines Biergartens von der Süd- auf die Westseite - TEKTUR zu 1.2-2014-8472-31 (hier: Umplanung Stellplätze) Zuleitung vom 19.05.2017
+- TOP 4.4.1.11.: Däumlingstr. 8 - Neubau eines Wohngebäudes ( 5 WE) mit Tiefgarage ( 5 Stpl.) Zuleitung vom 18.05.2017
+- TOP 4.4.1.12.: Carl-Wery-Str. - Neubau Hotel mit Tiefgarage - TEKTUR zu 1.1-2015-9717-31 Zuleitung vom 18.05.2017
+- TOP 4.4.1.13.: Hochäckerstr. - Schulbauoffensive - Neubau eines Hauses für Kinder sowie einer offenen Einrichtung für Jugendliche und Heranwachsende (Hochäcker- / Sammy-Drechsel-Str.) Zuleitung vom 18.05.2017
+- TOP 4.4.2: Weitere Anhörungen
+- TOP 4.4.2.1.: Gemeinde Putzbrunn; Bebauungsplan Nr. 43 „Wohn-und Gewerbegebiet Grasbrunner Feld“ Beteiligung der Behörden und sonstiger Träger öffentlicher Belange nach § 4 Abs. 1 BauGB Bitte um Stellungnahme bis zum 10.07.2017 Zuleitung vom 29.05.2017 (TOP 4.4.2.1 vom 01.06.2017)
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.5.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.1.1.: Bad-Schachener-Str. 28, Network Parkfest Frist zur Stellungnahme bis 24.05.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung Zuleitung vom 09.05.2017
+- TOP 4.5.1.2.: Theodor-Heuss-Park, Spendenlauf am 29.05.2017 Frist zur Stellungnahme bis 23.05.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung Zuleitung vom 10.05.2017
+- TOP 4.5.1.3.: Ostpark (Theatron), Dachschaden Kultur Openair am 15.07.2017 (Ersatztermin 29.07.2017) Frist zur Stellungnahme (Mitteilung von Bedenken) bis spätestens zum 14.06.2017 Zuleitung vom 17.05.2017
+- TOP 4.5.1.4.: Feier des Nachbarschaftstreffs Führichstraße am 27.05.2017 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung Zuleitung vom 23.05.2017
+- TOP 4.5.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.3.1.: Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM BA-Antrag Nr. 14-20 / B 02834 des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching vom 20.09.2016 Zuleitung vom 09.05.2017
+- TOP 4.5.3.2.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München BA-Antrag Nr. 14-20 / B 03627 des BA 11 Milbertshofen - Am Hart Zuleitung vom 23.05.2017
+- TOP 4.5.4: Weitere Anhörungen
+- TOP 4.6: Sonstige
+- TOP 5.2.1: Mobilität und Umwelt
+- TOP 5.2.2: Budget, Kultur und Sport
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität und Umwelt
+- TOP 6.1.1.: Schulwegsicherheit Fasangartenstraße Zuleitung vom 15.05.2017
+- TOP 6.1.2.: Anbringung von Fahrbahnmarkierungen ("30") auf der Fahrbahn in regelmäßigen Abständen im gesamten Verlauf der Berger-Kreuz-Straße. Eventuell Weiterführung der Markierungen auf der südlichen Hofangerstraße bis zur Einmündung Schmidbauerstraße. Empfehlung Nr. 14-20 / E 01066 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach vom 28.06.2016 Entscheidung durch den Oberbürgermeister vom 09.05.2017 Zuleitung vom 10.05.2017
+- TOP 6.1.3.: Fahrradsituation Hochäckerbrücke Vorschlag: Fußgänger-/ Radwegbrücke an der Südseite Schreiben vom 10.05.2017 Zuleitung vom 11.05.2017
+- TOP 6.1.4.: Bitte um mehr Fahrradplätze am U-Bahnhof Neuperlach Süd, Ausgang Siemens Schreiben vom 02.05.2017 Zuleitung vom 04.05.2017
+- TOP 6.2: Budget, Kultur und Sport
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 6.3.1.: Nutzung der neuen Sporthalle an der Führichschule für bürgerschaftliche Zwecke Zuleitung vom 23.05.2017
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 6.4.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.1.1.: Gleißnerstr. 6, Fl.Nr. 1245/3 - Neubau einer Reihenhauszeile (4 WE) und Kommunanbau Reihenhäuser (2 WE) - VORBESCHEID (Var. A) Zuleitung vom 15.05.2017
+- TOP 6.4.1.2.: Gleißnerstr. 6, Fl.Nr. 1245/3 - Neubau 2er Doppelhäuser (4 WE) und Kommunanbau Reihenhäuser (2 WE) - VORBESCHEID (Var. B) Zuleitung vom 15.05.2017
+- TOP 6.4.2.1.: Planungen für die Umgestaltung des sogenannten "Maikäferplatzes" Zuleitung vom 08.05.2017
+- TOP 6.4.2.2.: Erhalt des Hauses Bad Schachener Str. 66, Ecke Krumbadstr. solange bis für die allgemeinärtzliche und internistische Arztpraxis geeignete Räume in einem Neubau bereitstehen Empfehlung Nr. 14-20 / E 01062 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016 Zuleitung vom 04.05.2017
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 6.5.1.: Verbesserung der Feuerwehrzufahrt an der Kurt-Eisner-Straße Zuleitung vom 23.05.2017
+- TOP 6.6: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität und Umwelt
+- TOP 7.1.1.: (U) Quiddestraße / Albert-Schweitzer-Straße Austausch der Lichtsignalanlage, Radwegverbesserung und barrierefreier Ausbau der Bushaltestellen im 16. Stadtbezirk Ramersdorf - Perlach Projektkosten (Ausführungskosten): 2.100.000 € Ausführungsgenehmigung
+- TOP 7.1.2.: Baum-Masterplan für München, BA-Antrag Nr. 14-20 / B 3600 des BA 1 Altstadt-Lehel vom 09.05.2017
+- TOP 7.2: Budget, Kultur und Sport
+- TOP 7.2.1.1.: ZAK "Zusammen Aktiv in Neuperlach" e.V. Rahmenprogramm der Veranstaltung des REGSAM-Facharbeitskreises "Interkulturelle Stadtteilarbeit" zu "50 Jahre Neuperlach - 50 Jahre Vielfalt" beantragte Zuwendung: 3.780,00 €
+- TOP 7.2.2.1.: Chor-Orchester-Projekt Neuperlach Verwendungsnachweis vom 11.04.2017, Abrechnung vom 02.05.2017 Zuleitung vom 02.05.2017
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 7.3.1.: Verbesserung des Dialogs zwischen den Bezirksausschüssen und dem Referat für Bildung und Sport Zuleitung vom 16.05.2017
+- TOP 7.3.2.: Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016 Zuleitung vom 17.05.2017
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 7.4.2.1.: Segenstr. 23; Fällungsantrag vom 02.04.2017; Bescheid vom 04.05.2017
+- TOP 7.4.2.2.: Ständlerstr. 47-85, Demblerstr. 2-16; Fällungsantrag vom 27.04.2017; Bescheid vom 05.05.2017
+- TOP 7.4.2.3.: Elfenstr. 10; Fällungsantrag vom 23.0.2017; Bescheid vom 05.05.2017
+- TOP 7.4.2.4.: Bernauer Str. 9; Fällungsantrag vom 23.04.2017; Bescheid vom 05.05.2017
+- TOP 7.4.2.5.: Ottobrunner Str. 60; Fällungsantrag vom 25.04.2017; Bescheid vom 19.05.2017
+- TOP 7.4.2.6.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Objektgruppenbezeichnung / Name/n der Grünfläche/n: Waldheimplatz Zuleitung vom 04.05.2017
+- TOP 7.4.3.1.: Ottobrunnerstr. 14-16; Mitteilung vom 10.05.2017
+- TOP 7.4.3.2.: Ulrich-von-Hutten-Str. 35; Mitteilung vom 27.04.2017
+- TOP 7.4.4: Weitere Unterrichtungen
+- TOP 7.4.4.1.: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Zuleitung vom 22.05.2017
+- TOP 7.4.4.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/17 Rosenheimer Straße (nordwestlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingerstraße (westlich), Mühldorferstraße (südwestlich) und Friedenstraße (südöstlich) a) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss b) Aufhebung des Billigungsbeschlusses und vorbehaltlich endgültiger Beschluss der Vollversammlung vom 14.12.2016 (Sitzungsvorlage Nr. 14-20 / V 07487) Zuleitung vom 19.05.2017
+- TOP 7.4.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.4.4.: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung Zuleitung vom 27.04.2017
+- TOP 7.4.4.5.: "Wir werden keinen einzigen Park zubauen" - Hände weg vom Kustermannpark Antrag Nr. 14-20 / A 03108 der Stadtratsfraktion Die Grünen - rosa liste vom 17.05.2017 Zuleitung vom 23.05.2017
+- TOP 7.4.4.6.: Was ist über einen geplanten Wohnungsbau im Kustermannpark bekannt? Schriftliche Anfrage gemäß § 68 GeschO Anfrage Nr. 14-20 / F 00901 der LKR vom 19.05.2017 Zuleitung vom 23.05.2017
+- TOP 7.4.4.7.: Kunstwerk am Hanns-Seidel-Platz erhalten Antrag Nr. 14-20 / A 02794 der BAYERNPARTEI Stadtratsfraktion vom 20.01.2017 Zuleitung vom 02.05.2017
+- TOP 7.4.4.8.: Beteiligung der Öffentlichkeit; Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches (BauGB) Planungsgebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/31 und Bebauungsplan mit Grünordnung Nr. 2119 Fauststraße (südlich), östlich des Schanderlweges (Änderung des Bebauungsplanes Nr. 1209, Teiländerung des Bebauungsplanes Nr. 600) Planungsdarlegung vom 11. Mai 2017 mit Juni 2017 Zuleitung vom 03.05.2017
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 7.5.1.1.: Meze Küche, Schank- und Speisewirtschaft, Gustav-Heinemann-Ring 212
+- TOP 7.5.1.2.: "La Palma" (vorheriger Name "Lu Pepinu"), Ausschank von Getränken und Abgabe von zubereiteten Speisen im Ladengeschäft des Lebensmitteleinzelhandels, Anzinger Str. 12
+- TOP 7.5.2: Weitere Unterrichtungen
+- TOP 7.5.2.1.: Grünanlage Rosenheimer Straße 250, Temporäre Kunst im öffentlichen Raum - "schönheimat" vom 08.05.2017 bis 21.05.2017 Zuleitung vom 05.05.2017
+- TOP 7.6: Sonstige
+- TOP 7.6.1.: Informationen zur Bürgerversammlung im Bezirksteil Ramersdorf am 22.06.2017
+- TOP 8.1.1: Mobilität und Umwelt
+- TOP 8.1.2: Budget, Kultur und Sport
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
