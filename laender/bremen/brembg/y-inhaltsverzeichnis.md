@@ -74,6 +74,8 @@ Unterabschnitt 2 Arbeitszeit und Urlaub
 § 60 | Regelmäßige Arbeitszeit, Bereitschaftsdienst, Mehrarbeit
 § 61 | Teilzeitbeschäftigung (§ 43 des Beamtenstatusgesetzes)
 § 62 | Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
+§ 62a | Pflegezeit
+§ 62b | Familienpflegezeit
 § 63 | Altersteilzeit
 § 64 | Urlaub ohne Dienstbezüge
 § 65 | Höchstdauer von Beurlaubung und unterhälftiger Teilzeit; Bewilligungszeitraum
