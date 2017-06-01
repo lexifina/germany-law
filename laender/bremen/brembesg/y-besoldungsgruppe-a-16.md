@@ -4,19 +4,6 @@ Chefärztin1), Chefarzt1)
 Direktorin der Kataster- und Vermessungsverwaltung, Direktor der Kataster- und Vermessungsverwaltung
 Direktorin des Landesinstituts für Schule, Direktor des Landesinstituts für Schule
 Direktorin der Verwaltungsschule, Direktor der Verwaltungsschule
-Direktorin einer Gesamtschule, Direktor einer Gesamtschule
-- mit mehr als 1 000 Schülerinnen und Schülern -
-- mit Oberstufe -
-Direktorin einer Oberschule, Direktor einer Oberschule
-- als Leiterin oder als Leiter -
-- einer Oberschule im Aufbau mit
-mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt,
-mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen,
-mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen -
-- einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern -
-Direktorin eines Schulzentrums, Direktor eines Schulzentrums
-- der Sekundarstufe I mit mehr als 1 000 Schülerinnen und Schülern -
-- der Sekundarstufe II -
 Leitende Akademische Direktorin, Leitender Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 Leitende Direktorin2), Leitender Direktor2)
@@ -25,19 +12,8 @@ Leitende Polizeidirektorin, Leitender Polizeidirektor
 Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Oberschulrätin4), Oberschulrat4)
 Oberstudiendirektorin, Oberstudiendirektor
-- als Leiterin oder als Leiter
-einer beruflichen Schule mit mehr als 360 Schülerinnen und Schülern5),
-eines Gymnasiums im Aufbau mit
-mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt,
-mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen,
-mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen,
-eines voll ausgebauten Gymnasiums mit mehr als 360 Schülerinnen und Schülern,
-eines zweizügig voll ausgebauten Oberstufengymnasiums oder eines Oberstufengymnasiums mit mindestens zwei Schultypen,
-einer Oberschule im Aufbau mit
-mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt,
-mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen,
-mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen,
-einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern -
+- an allgemeinbildenden und beruflichen Schulen -
+- als Leiterin oder als Leiter einer beruflichen Schule mit mehr als 360 Schülerinnen und Schülern5) -
 Senatsrätin, Senatsrat
 - bei einer obersten Landesbehörde2) -
 Fußnoten

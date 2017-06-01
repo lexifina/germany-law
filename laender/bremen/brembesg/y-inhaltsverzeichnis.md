@@ -7,9 +7,10 @@ Abschnitt 1 Allgemeine Vorschriften
 § 4 | Anspruch auf Besoldung
 § 5 | Öffentlich-rechtliche Dienstherren
 § 6 | Hauptberuflichkeit
-§ 7 | Weitergewährung der Besoldung bei einer Versetzung in den einstweiligen Ruhestand ober bei einer Abwahl einer Wahlbeamtin auf Zeit oder eines Wahlbeamten auf Zeit
+§ 7 | Weitergewährung der Besoldung bei einer Versetzung in den einstweiligen Ruhestand oder bei einer Abwahl einer Wahlbeamtin auf Zeit oder eines Wahlbeamten auf Zeit
 § 8 | Besoldung bei mehreren Hauptämtern
 § 9 | Besoldung bei Teilzeitbeschäftigung
+§ 9a | Besoldung bei Pflegezeit und Familienpflegezeit
 § 10 | Besoldung bei begrenzter Dienstfähigkeit
 § 11 | Kürzung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 § 12 | Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst

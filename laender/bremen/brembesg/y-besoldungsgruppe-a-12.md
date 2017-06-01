@@ -2,6 +2,7 @@
 Besoldungsgruppe A 12
 Amtsanwältin1) Amtsanwalt1)
 Amtsrätin, Amtsrat
+Amtsrätin im pädagogischen Verwaltungsdienst1), Amtsrat im pädagogischen Verwaltungsdienst1)
 Fachlehrerin2) 3) 4), Fachlehrer2) 3) 4)
 Konrektorin, Konrektor
 - als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit bis zu 80 Schülerinnen und Schülern6) 7) -
@@ -12,6 +13,8 @@ Polizeihauptkommissarin4), Polizeihauptkommissar4)
 Rechnungsrätin, Rechnungsrat
 - als Prüfungsbeamtin oder als Prüfungsbeamter beim Rechnungshof -
 Fußnoten
+1) Als Einstiegsamt.
+1) Als Einstiegsamt.
 1) Als Einstiegsamt.
 1) Als Einstiegsamt.
 1) Als Einstiegsamt.

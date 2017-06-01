@@ -1,0 +1,2 @@
+# § 3f Pflegezeit und Familienpflegezeit
+Die §§ 62a und 62b des Bremischen Beamtengesetzes finden auf die Rechtsverhältnisse der Richterinnen und Richter entsprechend Anwendung.

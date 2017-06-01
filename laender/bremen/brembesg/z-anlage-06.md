@@ -59,7 +59,7 @@ A 15 | 1 | 126,31
 A 16 | 3 | 211,87
 Besoldungsordnung R |  | 
 Besoldungsgruppen | Fußnote | 
-R 1 | 1 | 209,44
+R 1 | 1, 2 | 209,44
 R 2 | 1, 2, 6, 7, 8 | 209,44
  | 3 | 339,25
 R 3 | 1 | 209,44
