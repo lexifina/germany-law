@@ -1,0 +1,7 @@
+# TOP 2: Protokolle der Sitzung vom 20. April 2017 und 2. Mai 2017
+
+- Sitzung: 7. Sitzung in der VIII. Wahlperiode des Jugendhilfeausschusses (2017-06-06)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=43251
+- Ergebnis: erledigt
