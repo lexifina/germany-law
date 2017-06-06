@@ -1,0 +1,123 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-06-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263215
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263215
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Wahl eines neuen stellvertretenden Jugendbeauftragten
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Zaubzerstraße 11: Neubau eines Wohnhauses (42 WE) mit Einzelhandelsnutzung (2 Einheiten) im EG + UG; Erstantragsverfahren
+- TOP 2.2.2.: Am Eicherhof 11: Westseitiger Ausbau des Gebäudes (Bauernhof) mit 6 Wohnungen; Erstantragsverfahren
+- TOP 2.2.3.: Effnerstraße: Neubau eines Wohnheims für Arbeitnehmer, Studierende, Pflegepersonal o. ä. Mit Tiefgarage - TEKTUR
+- TOP 2.2.4.: Scheinerstraße 3: Nutzungsänderung: Klinik zu Wohngebäude - Vorbescheid
+- TOP 2.2.5.: Arberstraße 21: Neubau eines Wohnhauses mit Tiefgarage und außenliegendem Schwimmbad - Vorbescheid
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.6.: Organisation des Johannisfest auf dem Wiesheu Hof
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.11.1.: Städtisches Klinikum München GmbH (StKM); Konzept zur Einhaltung der am 14.12.2016 beschlossenen Kostenobergrenzen für die Großbaumaßnahmen; Beschluss des Finanzausschusses vom 16.05.2017, Sitzungsvorlage Nr. 14-20 / V 08722
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.6.: Brahmsstraße 1: Abbruch bestehender Dachstühle und Neubau von Dachstühlen, Wohnungen und Aufzugsanlagen (Brahmsstr. 1 – 7 / Prinzregentenstr. 115 + 117) – Genehmigungsverlängerung; Erstantragsverfahren
+- TOP 2.3.1.: Lärmbelästigung Trambahn Linien 16 und 18 St. Emmeram: Einhaltung der Höchstgeschwindigkeit vom 50 km/h zu den Nachtzeiten (22-7 Uhr)
+- TOP 2.3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankflächen) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; Mühlbaurstr. 40: Genehmigung einer Freischankfläche
+- TOP 2.3.3.: Antrag auf Genehmigung einer Werbeanlage; Richard-Strauss-Str. 101: Eine digitale Werbetafel mit wechselnden Motiven und Schriften
+- TOP 2.3.4.: Zeitliche Erweiterung des bestehenden Z 283 vor Johanneskirchner Straße 88 - 90; Anhörung des Kreisverwaltungsreferats vom 09.05.2017
+- TOP 2.3.5.: Feuerwehrdurchfahrt Oberföhringer Straße Stichstraße zu 268 - 272; Anhörung des Kreisverwaltungsreferats vom 17.05.2017
+- TOP 2.3.6.: Beschränkung der Kurzparkzone im Bereich Brahmsstr. 1 - BA-Antrags-Nr. 14-20 / B 03164; Rückfrage des Kreisverwaltungsreferats vom 10.05.2017
+- TOP 2.3.7.: Ismaninger-/ Sternwartstr.: Austausch von Lichtsignalanlagen; Anhörung des Kreisverwaltungsreferats vom 18.05.2017
+- TOP 2.3.8.: Oberschlesische Straße zwischen Burgauerstr. und Rennbahnstr.: Kennzeichnung als gegenläufiger gemeinsamer Geh- und Radweg; Schreiben des Kreisverwaltungsreferats vom 22.03.2017 (ED 03.05.2017)
+- TOP 2.3.9.: Aufhebung der Fahrradbenutzungspflicht auf beiden Seiten der Ostpreußenstraße
+- TOP 2.3.10.: Ablehnende Haltung zu den Planungen für eine Busspur auf der Prinzregentenstraße
+- TOP 2.3.11.: Ablehnende Haltung zur Einrichtung einer Busspur auf der Denninger Straße
+- TOP 2.3.12.: MVG-Fahrkartenautomat an der Bus-Endhaltestelle "Westerlandanger"; Antrag der SPD-Fraktion vom 19.05.2017
+- TOP 2.3.13.: Verbesserung der Schulwegsicherheit in der Eggenfeldener Straße; Antrag der SPD-Fraktion vom 15.05.2017
+- TOP 2.3.14.: Fahrradgerechte Gestaltung der Kreuzung Cosima-/Englschalkinger Straße
+- TOP 2.3.15.: Zamdorfer Str.: Beschilderung Gefahrzeichen "Kinder" und Einrichtung Haltverbot
+- TOP 2.3.16.: Rampe an der S-Bahn Haltestelle Daglfing
+- TOP 2.3.17.: Verkehrsführung Trambahnhaltestelle St. Emmeran; Bürgeranliegen vom 11.05.2017
+- TOP 2.3.18.: Busverbindung zwischen Zamdorf Siedlung und Max-Weber-Platz; Bürgeranliegen vom 14.05.2017
+- TOP 2.3.19.: Misere Tram 25 - Anpassung des Busnetzes
+- TOP 2.3.20.: Verkehrsplanung Münchner Nordosten/Rennbahnstraße; Bürgeranliegen vom 07.05.2017
+- TOP 2.3.21.: Johanneskirchner Str. 132/134: Installation einer Fußgängerampel
+- TOP 2.3.22.: Parkplatzsituation in der Tarnowitzer Straße; Bürgeranliegen vom 08.05.2017
+- TOP 2.3.23.: Diverse Anliegen einer Bürgerin: Geschwindigkeitsreduzierung Effnerstraße, Verkehrschaos Oberföhringer Straße, Ampelschaltungen und Abfahrtszeiten MVV
+- TOP 2.3.24.: Lärmbelästigung Tram 16 und 18 St. Emmeram Empfehlung Nr. 14-20 / E 00262 der Bürgerversammlung des Stadtbezirks 13 Bogenhausen am 23.10.14
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, SBZ Fideliopark Stadtteilfest Bogenhausen am 18.06.2017
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion von August - September 2017
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Christophorus Hospiz Verein e.V. München Sommerfest am 01.07.2017 Az. 0262.0-13-0147
+- TOP 2.4.4.: Budget der Bezirksausschüsse Offene Bücherschränke Bogenhausen e.V. Anschaffung eines Bücherschrankes
+- TOP 2.4.5.: Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM BA-Antrag Nr. 14-20 / B 02834 des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching vom 20.09.2016
+- TOP 2.4.6.: Beschluss zur Finanzierung der BA-eigenen Veranstaltung „Johannisfest“ auf dem Wiesheu Hof
+- TOP 2.5.1.: (E) + (U) Kein Abbau der Flüchtlingshalle in der Kronstadterstraße Empfehlung Nr. 14-20 / E 01231 .................................
+- TOP 2.5.2.: 2. Schulbauprogramm „Neubau, Erweiterung und Generalinstandsetzung“ Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Personal- und Verwaltungsausschusses, des Finanzausschusses und des Kreisverwaltungsausschusses am 21.06.2017 Anlage - Beschlussvorlage (Entwurfsstand 11.04.2017) - Anlage zur Beschlussvorlage (Kurzberichte, Kurzbeschreibungen) - Kopien der Stadtrats- und Bezirksausschussanträge sowie Bürgerversammlungsempfehlungen (Entwurfsstatus) Stellungnahme des Referats für Bildung und Sport zur Nachfrage vom 09.05.2017
+- TOP 2.5.3.: Lebensmitteleinkaufsmöglichkeiten bzw. Kindergarten in der Parkstadt Bogenhausen
+- TOP 2.5.4.: Verlegung des zukünftigen Standortes Wilhelm-Hausenstein-Gymnasium an den aktuellen Standort Knappertsbuschschule; Bürgeranliegen vom 22.05.2017
+- TOP 2.5.5.: Instandsetzung des Spielplatzes in der GU Max-Pröbstl-Straße 12; Antrag der SPD-Fraktion vom
+- TOP 2.6.1.: Baumfällungen (Anhörungen): - Insterburger Str. 22: lt. Plan - Oberföhringer Str. 50: lt. Plan - Gnesener Str.: lt. Plan - Asgardstr. 18: lt. Plan - Allensteiner Str. 5 + 7: lt. Plan - Mauerkircherstr.: lt. Plan - Evastr. 19: lt. Plan - Berberstr. 14a: 3 Birken - Buschingstr. 38: 1 Kiefer - Jörg-Hube-Str.: lt. Freiflächengestaltungsplan - Maria-Theresia-Str. 35: 1 Wildkirsche - Vollmannstr. 21: 1 Birke - Englschalkinger Str. 61: 6 Bäume - Englschalkinger Str. 263: lt. Plan - Zaubzerstr. 11: lt. Plan
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Erchanbertstr. (lt. Bescheid), Freischützstr. 102 (lt. Bescheid), Ismaningerstr. 108 (1 Esche), Jankstr. 4 (lt. Bescheid), Morgenrothstr. 3 (lt. Bescheid), Morgenrothstr. 5 (1 Fichte), Oberföhringer Str. 127 (lt. Bescheid), Pienzenauerstr. 3 - 5 (1 Kirsche), Putziger str. 44 (lt. Bescheid), Richard-Strauss-Str. 30 (2 Bäume, lt. Bescheid), Wehrlestr. 28 (1 Birke), Widderstr. 2 (lt. Bescheid), Zaubzerstr. 39 (lt. Bescheid), Titurelstr. 4 - 12 (1 Esche)
+- TOP 2.6.3.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken; Schreiben des Baureferats vom 20.04.2017
+- TOP 2.6.4.: Mieterstrom-Projekte im Prinz-Eugen-Park durch GEWOFAG und GWG realisieren; Antrag der Fraktion DaCG/ÖDP vom 22.05.2017
+- TOP 2.6.5.: Größere Mülleimer an der Haltestelle Rümelinstraße; Bürgeranliegen vom 06.02.2017
+- TOP 2.6.6.: Grillplatz im Zamilapark; Bürgeranliegen vom 05.05.2017
+- TOP 5.1.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest in der Wehrlestr. am 02.07.2017; Anhörung des Kreisverwaltungsreferats vom 23.05.2017
+- TOP 6.1.: Erhalt der Postfiliale mit Postbank-Finanzcenter in Bogenhausen! Antrag der SPD-Fraktion und Keine Schließung der Postfiliale in der Ismaninger Straße; Antrag der CSU-Fratkion - Zwischennachricht des Referats für Arbeit und Wirtschaft -
+- TOP 6.2.: Effnerstraße zwischen Odin- und Lohengrinstraße - Geschwindigkeitsreduzierung auf 50 km/h
+- TOP 6.3.: Kurzparkzone am Europaplatz
+- TOP 6.4.: Riemer Str. 199: Neubau eines Baumarktes mit Gartencenter und Tiefgarage; Schreiben des Referats für Stadtplanung und Bauordnung vom 02.05.2017
+- TOP 6.5.: Verknüpfungsbahnhof S 8 / U 4 in Englschalking
+- TOP 6.6.: Verlängerung der 30er Zone in der Johanneskirchner Straße
+- TOP 6.7.: Zusätzliche Fußgängerampel Truderinger Straße/Zamilastraße
+- TOP 7.3.1.: Vollzug des Bundes-Immisisonsschutzgesetzes (BImSchG) und der Geräte-und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV); Schreiben des Referats für Gesundheit und Umwelt vom 16.05.2017
+- TOP 7.5.1.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: - Ostpreußenstr. 45: "Amber"
+- TOP 7.7.1.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 7.7.2.: (U) Ökologische Mustersiedlung in der ehemaligen Prinz-Eugen-Kaserne A) Zwischenbericht über das Zuschussprogramm B) Aufnahme eines weiteren Teilgebietes in das Zuschussprogramm
+- TOP 7.7.3.: (U) Handlungsprogramm Mittlerer Ring - Tunnel Englischer Garten 1. Bedarfs- und Konzeptgenehmigung 2. Antrag Beim Münchner Tunnelbau die Möglichkeit einer öffentlich-privaten Partnerschaft (ÖPP) prüfen Antrag Nr. 14-20/ A 01512 der Stadtratsgrupierung ALFA vom 09.11.2015
+- TOP 7.7.4.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 7.7.5.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 7.7.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch; Reuchlinstr. 6 + 8; vorher: 747 m² bzw. 3 WE, geplant: 1083 m² bzw. 6 WE
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch; Beetzstr. 15; vorher: 168 m² bzw. 1 WE, geplant: 610 m² bzw. 3 WE
