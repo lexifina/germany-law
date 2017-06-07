@@ -1,0 +1,55 @@
+# 13. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-06-07T10:00:00+02:00
+- Ende: 2017-06-07T11:25:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-PA-37
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-PA-37
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 11. Sitzung des Planungsausschusses vom 15.03.2017
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: 11. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Oberbereiche Bochum und Hagen zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem „Brandt“-Gelände in der Stadt Hagen und in der Stadt Gevelsberg – Aufstellungsbeschluss –
+- TOP 2.1: 11. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Oberbereiche Bochum und Hagen zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem „Brandt“-Gelände in der Stadt Hagen und in der Stadt Gevelsberg – Aufstellungsbeschluss –
+- TOP 2.2: 82. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Rheinberg Festlegung eines Oberflächengewässers für die zweckgebundene Nutzung Ruhehafen Ossenberg Aufstellungsbeschluss
+- TOP 2.3: 89. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Kamp-Lintfort Erarbeitungsbeschluss - Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) für zweckgebundene Nutzungen „Übertägige Betriebsanlagen und -einrichtungen des Bergbaus“ in einen Allgemeinen Siedlungsbereich (ASB)
+- TOP 2.4: Abschluss Raumordnungsverfahren „Zeelink II“
+- TOP 2.5: Abgrabungsmonitoring von Nordrhein-Westfalen – Lockergesteine Hier: Monitoringbericht für das Planungsgebiet Regionalverband Ruhr zum 01.01.2017
+- TOP 2.6: Anträge
+- TOP 2.7: Anfragen und Mitteilungen
+- TOP 2.7.1: Anfrage der CDU-Fraktion zur Aufstellung eines Flächennutzungsplanes
+- TOP 2.7.2: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 3: Regionaler Diskurs / Regionalplan Ruhr
+- TOP 3.1: Sachstand Regionaler Diskurs: Rückblick Sondersitzung vom 29.05.2017
+- TOP 3.2: Erweiterung des Beirats hier: zusätzliche Besetzung des Beirats
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Orthophotokooperation Geonetzwerk.metropoleRuhr
+- TOP 4.2: Bericht zur Lage der Umwelt in der Metropole Ruhr 2017
+- TOP 4.3: Referat Europäische und regionale Netzwerke Ruhr - Wandel als Chance – Zwischenbilanz zur Umsetzung der Bergbauflächen-Vereinbarung
+- TOP 4.4: Route der Industriekultur - RVR-Vertrag mit dem Land NRW und Standortverträge
+- TOP 4.5: Integriertes Handlungskonzept (IHK) Revierpark 2020 - Vorstellung und weitere Vorgehensweise
+- TOP 4.6: Regionale ZukunftsLAND 2016 - WALDband hier: Sachstandsbericht
+- TOP 4.7: Radschnellweg Ruhr RS1 hier: Sachstand
+- TOP 4.8: Radschnellweg Mittleres Ruhrgebiet Hier: Sachstandsbericht
+- TOP 4.9: Weiterentwicklung des Regionalen Radwegenetzes Hier: Sachstandsbericht
+- TOP 4.10: Innovationsband: Integrierte Stadtentwicklung am RS1
+- TOP 4.11: Stellungnahme des RVR als Träger öffentlicher Belange und als Regionalplanungsbehörde zum Entwurf des Nahverkehrsplanes der Stadt Mülheim an der Ruhr
+- TOP 4.12: Stellungnahme des RVR als Träger öffentlicher Belange zum Entwurf des Nahverkehrsplanes der Stadt Duisburg
+- TOP 4.13: Industrielle Kulturlandschaft Ruhrgebiet - Entwurf einer Darstellung des außergewöhnlichen universellen Werts zur Fortschreibung der deutschen Tentativliste für das UNESCO-Welterbe
+- TOP 4.14: Anträge
+- TOP 4.15: Anfragen und Mitteilungen
+- TOP 4.15.1: Öffentlichkeitsbeteiligung zum Lärmaktionsplan für Haupteisenbahnstrecken
+- TOP 4.15.2: Anfrage der FDP-Fraktion vom 23.05.2017 betreffend Unfallschwerpunkt auf der B 224 im Bereich Gladbeck
+- TOP 4.15.3: BMBF-Forschungsvorhaben „ZUKUR – Zukunft-Stadt-Region-Ruhr“ im Rahmen der Umsetzung der BMBF-Leitinitiative Zukunftsstadt
+- TOP 4.15.4: Regionale Baustellenkonferenzen Straßen.NRW hier: mündliche Berichterstattung
+- TOP 4.15.5: Regionales Mobilitätsentwicklungskonzept hier: mündliche Berichterstattung
+- TOP 4.15.6: Bericht über laufende Verfahren - RVR als Träger öffentlicher Belange
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
