@@ -1,0 +1,63 @@
+# 26. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-08T17:00:00+02:00
+- Ende: 2017-06-08T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17041
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17041
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Vorstellung von Herrn Stadtdirektor Dr. Stephan Keller - Kenntnis genommen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Rettungsweg Kleingartenanlage Erbacherweg - Kenntnis genommen
+- TOP 7.1.2: Straßenbeleuchtung des Fußgängerweges Am Baggerfeld, zwischen Donatusstraße und Frohnhofstraße - Kenntnis genommen
+- TOP 7.1.3: Spielplatz am Gustorfer Weg in Heimersdorf - Kenntnis genommen
+- TOP 7.1.4: LKW-Ruheplätze im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Gefährlicher Wildwuchs an Transformatorenstationen in Seeberg-Süd - Kenntnis genommen
+- TOP 7.1.6: Lkw-Parken auf der Autobahnbrücke Volkhovener Weg - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler Interfraktioneller Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Erneuerung des Chrysanthemenweges in Köln-Seeberg Antrag der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Widmung der Straße Steinrutschweg und eines Teilstücks der Straße Grüner Weg - ungeändert beschlossen
+- TOP 9.1.2: Beflaggung anlässlich der Feierlichkeiten zum Christopher-Street-Day mit der sogenannten Regenbogenflagge - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Änderung der Zuständigkeitsordnung der Stadt Köln hier: Stärkung der Bezirke - zurückgestellt
+- TOP 9.2.2: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - geändert beschlossen
+- TOP 9.2.3: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2016 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Aktualisierung der Schulentwicklungsplanung Köln 2016 - Maßnahmen zur bedarfsgerechten Weiterentwicklung der Kölner Schullandschaft allgemein bildender Schulen bis 2025 - geändert beschlossen
+- TOP 10.2.3: Tätigkeitsbericht 2016 des Amtes für Straßen und Verkehrstechnik - Kenntnis genommen
+- TOP 10.2.4: Aufhebung der 1. Änderungsverordnung zur Änderung der 1. Ordnungsbehördlichen Verordnung für 2017 vom 27.03.2017 und Verordnung über das Offenhalten von Verkaufsstellen in den Stadtteilen Neustadt-Süd, Deutz, Nippes und Rath/Heumar - Kenntnis genommen
+- TOP 10.2.5: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - zurückgestellt
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
