@@ -1,0 +1,7 @@
+# TOP 14.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+
+- Sitzung: Hauptausschuss (52. Sitzung) (2017-06-12)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/22993
+- Ergebnis: (kein Text vorhanden)
