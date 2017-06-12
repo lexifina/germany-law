@@ -1,0 +1,8 @@
+# TOP -: Ersetzungsantrag der SPD-Fraktion
+
+- Sitzung: 25. Sitzung des Hauptausschusses (2017-06-12)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/229982
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/106562
