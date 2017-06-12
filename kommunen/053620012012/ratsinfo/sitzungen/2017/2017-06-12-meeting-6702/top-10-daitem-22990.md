@@ -1,0 +1,7 @@
+# TOP 10.: Stundung Gewerbesteuer
+
+- Sitzung: Hauptausschuss (52. Sitzung) (2017-06-12)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/22990
+- Ergebnis: (kein Text vorhanden)
