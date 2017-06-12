@@ -1,0 +1,74 @@
+# 24. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-12T17:00:00+02:00
+- Ende: 2017-06-12T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17098
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17098
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00615838.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00615838.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00615838.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO Verbreiterung der Straßenverbindung zwischen Dohlen- und Kucuckksweg in Köln-Vogelsang AZ.: 02-1600-54/17) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Bindungsenden im öffentlich geförderten Wohnungsbau – das dicke Ende kommt noch? - Kenntnis genommen
+- TOP 6.1.1: Bindungsenden im öffentlich geförderten Wohnungsbau - das dicke Ende kommt noch? - Kenntnis genommen
+- TOP 6.2: Kapazitäten und Auslastung bestehender und geplanter Tief-und Quartiersgaragen im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.3: Sachstand der Spiel- und Sportmaßnahmen im Rahmen des Grüngürtel:Impulses - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Zweckentfremdung von Wohnraum im Herkules-Hochhaus? - zurückgestellt
+- TOP 7.2: Aktueller Sachstand Wohngebäude Westseite Güterbahnhofsgelände, Anfrage der Fraktion Bündnis 90/Die Grünen vom 29.05.2017 - Kenntnis genommen
+- TOP 7.2.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen betreffend aktueller Sachstand Wohngebäude Westseite Güterbahnhofsgelände (AN/0809/2017) - Kenntnis genommen
+- TOP 7.3: Veloroute Ehrenfeld, Anfrage der Fraktion Bündnis 90/Die Grünen vom 29.05.2017 - zurückgestellt
+- TOP 7.4: Sachstand Brandschadenshaus Everhardstraße - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Jugendsitzung in der Bezirksvertretung Ehrenfeld - zurückgestellt
+- TOP 8.1.1: Änderungsantrag der CDU-Fraktion zum Antrag 8.1 der Sitzung vom 12. Juni 2017 - zurückgestellt
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Teilsperrung der Philippstraße, 50823 Köln für Kraftfahrzeuge über 7,5t - zurückgestellt
+- TOP 8.4: Transparenz und Beteiligung stärken! – Information über Baumaßnahmen verbessern! - endgültig zurückgezogen
+- TOP 8.5: Fußgängerüberweg auf der Subbelrather Straße in Höhe des neuen Durchgangs zum Krankenhaus - endgültig zurückgezogen
+- TOP 8.6: Untersuchung zum Bau von automatischen Quartiersgaragen in Ehrenfeld - geändert beschlossen
+- TOP 8.6.1: Ergänzungsantrag der CDU-Fraktion zum Antrag 8.6 der Sitzung vom 12. Juni 2017 - geändert beschlossen
+- TOP 8.7: Vorstellung der Planung zur Sicherstellung der Durchwegung im „Gleisdreieck“ im Rahmenplanungsgebiet, Antrag der Fraktion Bündnis 90/Die Grünen vom 29.05.2017 - ungeändert beschlossen
+- TOP 8.8: Lebendige Quartiere erhalten – Verdrängung frühzeitig identifizieren und verhindern! - zurückgestellt
+- TOP 8.9: Parkverbot Querungshilfe Hugo-Eckener-Straße, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - zurückgestellt
+- TOP 9.2: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 9.3: Bestellung eines Schriftführers gemäß § 36 Absatz 5 Satz 2 i.V.m. § 52 Absatz 1 GO NW und § 31 Absatz 1 i.V.m. § 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - ungeändert beschlossen
+- TOP 9.4: Zuwendung aus dem städtischen Aktivierungsfonds für zwei Projekte im Sozialraum Bickendorf/Westend/Ossendorf - ungeändert beschlossen
+- TOP 9.5: Zuwendung aus dem städtischen Aktivierungsfonds für drei Projekte im Sozialraum Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Änderung der Zuständigkeitsordnung der Stadt Köln - ungeändert beschlossen
+- TOP 10.2: Vitalisstraße/Girlitzweg, 1. Änderung Gesamtschule Wasseramselweg in Köln-Vogelsang; städteb.Planungskonzept; Anhörung der BV 4 z.d.Ergebnissen d.frühzeitigen Öffentlichkeitsbeteiligung, Beschluss ü.d.Vorgaben z.Ausarbeitung d.Bebauungsplan-Entwurfs - ungeändert beschlossen
+- TOP 10.3: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert beschlossen
+- TOP 10.4: Seniorenkoordination im Stadtbezirk - Alternative beschlossen
+- TOP 10.5: Heliosgelände in Köln-Ehrenfeld; städtebaul. Planungskonzept; Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6: Standorte zur Errichtung von temporären Unterkünften für Geflüchtete - Genehmigung und Baubeschluss - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Ehrenfeld aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.12.2016 - zurückgestellt
+- TOP 12.2: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 12.3: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 12.4: Ad hoc- Programm Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 12.5: Aufhebung der 1. Änderungsverordnung zur Änderung der 1. Ordnungsbehördlichen Verordnung für 2017 vom 27.03.2017 und Verordnung über das Offenhalten von Verkaufsstellen in den Stadtteilen Neustadt-Süd, Deutz, Nippes und Rath/Heumar - Kenntnis genommen
+- TOP 12.6: Nutzung der Ladezone Landmannstraße 21-25 - Kenntnis genommen
+- TOP 12.7: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 12.8: Rankbogen in der Hansemannstraße - Kenntnis genommen
+- TOP 12.9: Gewerbeflächenkataster für den Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
