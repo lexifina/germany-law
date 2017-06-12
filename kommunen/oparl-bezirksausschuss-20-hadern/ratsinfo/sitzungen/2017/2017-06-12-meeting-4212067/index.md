@@ -1,0 +1,92 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Soziales und Kultur
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Kleinhaderner Straße 34, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 4586
+- TOP 7.1.2.: Silberblattstraße, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 6792
+- TOP 7.1.3.: Randeckstraße 8, 1 Fichte
+- TOP 7.1.4.: Rolandseckstraße 18, 1 Birke
+- TOP 7.1.5.: Schachblumenweg 4, 1 Fichte und 1 Birke
+- TOP 7.1.6.: Kruckenburgstraße 24, 1 Kiefer
+- TOP 7.1.7.: Maenherstraße 14, gem. Baumbestandsplan Nr. 6218
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Bauvorhaben Ludlstraße - Vorstellung des Zeitplans
+- TOP 1.1.: Antrag auf Ladezone für Rossmann-Filiale in der Senftenauerstraße 95
+- TOP 1.2.: Durchsetzung Haltverbot in der Eichenstraße
+- TOP 1.3.: Spielplätze in der Prälat-Wellenhofer-Straße
+- TOP 1.4.: Mehr überdachte Fahrradabstellplätze am U-Bahnhof Klinikum Großhadern
+- TOP 1.5.: Radwege in der Würmtalstraße
+- TOP 4.1.: Aufwertung des Ehrenamtes (Grünen-Fraktion)
+- TOP 5.1.: Budget der Bezirksausschüsse, Erasmus-Grasser-Gymnasium, Schüler-Mit-Verantwortung Projekt "Schule als Staat" vom 20. - 27.07.2017 (Direktorium, 16.05.17)
+- TOP 5.2.: Budget der Bezirksausschüsse, Montessori-Schule der gem. Schul-GmbH der Aktion Sonnenschein, Projekt "Klettern" von Oktober 2017 bis Juni 2018 (Direktorium, 29.05.17)
+- TOP 5.3.: Budget der Bezirksausschüsse, Regsam e.V., Sommerfest am 22.07.2017 (Direktorium, 29.05.17)
+- TOP 5.4.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule Blumenauer Straße 11, Schulfest am 17.07.2017 (Direktorium, 31.05.17)
+- TOP 5.5.: Budget der Bezirksausschüsse, Evang.- Luth. Reformations-Gedächtniskirche München, Sommerkonzert am 08.07.2017 (Direktorium, 01.06.17)
+- TOP 6.1.: Antrag BA 18 Untergiesing-Harlaching: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM (Direktorium, 02.05.17)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest im Buschrosenweg 2 - 8 am 01.07.2017 bzw. 08.07.2017 von 17.00 - 24.00 Uhr (Kreisverwaltungsreferat, 12.05.17)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest des Musischen Kindergartens Christa Gittner in der Neufriedenheimer Straße 71 - 79 am 08.07.2017 von 14.00 - 18.00 Uhr (Kreisverwaltungsreferat, 23.05.17)
+- TOP 7.2.1.: Liste des Baureferates vom 04.05.2017: 10 Bäume auf dem Waldfriedhof
+- TOP 7.2.2.: Stiftsbogen 83, 1 Papier-Birke (Referat für Stadtplanung und Bauordnung, 02.06.17)
+- TOP 7.4.1.: Terofalstraße 72, 1 Eiche (Referat für Stadtplanung und Bauordnung, 30.05.17)
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Maenherstraße (Sozialreferat, 27.04.17) - Windeckstraße (Sozialreferat, 27.04.17)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Eichenstraße; Einrichtung eines absoluten Haltverbots (Kreisverwaltungsreferat, 22.05.17)
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München, hier: Am Heidebruch 18 a, Strom (SWM, 22.05.17)
+- TOP 8.4.: Information über das Betriebskonzept während der Erneuerung der Fahrtreppen am Marienplatz vom 15.06. - 29.06.2017 (MVG, 31.05.17)
+- TOP 9.1.: Aufstockung der Wohngebäude in der Karl-Witthalm-Straße (Referat für Stadtplanung und Bauordnung, 15.05.17)
+- TOP 9.2.: Mädchentreff Blumenau (Sozialreferat, 01.06.17)
+- TOP 11.1.: Broschüre "Zukunftsschau München 2040+" (Referat für Stadtplanung und Bauordnung, 28.04.17)
+- TOP 11.2.: Kampagne "Wählen gehen für Demokratie und Menschenrechte!" (Oberbürgermeister Reiter, 25.04.17)
+- TOP 11.3.: Antrag BA 1 Altstadt-Lehel vom 09.05.2017: Baum-Masterplan für München
+- TOP 11.4.: BA-Dialog mit dem Referat für Bildung und Sport am 18.07.2017
+- TOP 11.5.: Protokoll der öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München vom 24.04.2017 (Mieterbeirat, 16.05.17)
+- TOP 11.6.: SWM Geschäftsbericht 2016 (SWM, Mai 2017)
+- TOP 11.7.: Antrag BA 11 Milbertshofen vom 10.05.2017: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHM
+- TOP 11.8.: Oktoberfest 2017, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse (Bürgermeisterin Strobl, 30.05.17)
+- TOP 1.1.1.: Beschluss vom 05.04.2017: Aktualisierung des Gutachtens des Öko-Instituts/der Stadtwerke München GmbH zu den möglichen Szenarien des Ausstiegs aus der Kohleverbrennung/-verstromung des HKW Nord
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017: Maßnahmenkonzept für klimaangepasstes Bauen
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Bildungsausschusses vom 03.05.2017: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" Teil 2: Föderprogramm 2015 bis 2018 (2019) Kindertagesstätten sonstiger Träger; Haus für Kinder am Stiftsbogen 152-166 im 20. Stadtbezirk Hadern Leistung eines Baukostenzuschusses
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.2017: Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens
+- TOP 2.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.2017: Liegenschaften des Bundes für Wohnungsbau nutzen
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017: Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz
+- TOP 3.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 3.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung
+- TOP 4.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.05.2017: Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 4.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 24.05.2017: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
