@@ -1,0 +1,7 @@
+# TOP 2: Vorstellung von YoungArts Neukölln
+
+- Sitzung: 7. öffentliche Sitzung des Ausschusses für Bildung, Schule und Kultur (2017-06-13)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=24939
+- Ergebnis: erledigt
