@@ -1,0 +1,121 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-06-14T17:08:00+02:00
+- Ende: 2017-06-14T21:55:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4230
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4230
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=244785
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - überwiesen
+- TOP 1.1: Politischer Streit klar in der Sache, respektvoll im Umgang - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Spielstraße Mattenbuder Pfad - beantwortet
+- TOP 2.2: Migranten in Reinickendorf - beantwortet
+- TOP 2.3: Reinickendorfer Asylhilfeempfänger und anerkannte Flüchtlinge - beantwortet
+- TOP 2.4: Aussage in der BVV-Sitzung vom 10.05.2017 - beantwortet
+- TOP 2.5: Wird das Gartendenkmal Schäferseepark zur Ruine? - beantwortet
+- TOP 2.6: Trettachzeile 15 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 9. Sitzung der BVV am 14.06.2017 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Überprüfung Reinickendorfer Pflegedienste - beantwortet
+- TOP 4.2: Sind kurzfristige Einladungen an Bezirksverordnete gewünscht? - beantwortet
+- TOP 4.3: Temporäre Halteverbotsschilder - beantwortet
+- TOP 4.4: Stand der vertiefenden Untersuchung zum Erlass der sozialen Erhaltungssatzung in Reinickendorf-Ost - beantwortet
+- TOP 4.5: Wasserqualität im Tegeler See - beantwortet
+- TOP 4.6: Besetzung der vom Senat bewilligten zusätzlichen Personalstellen für den Bezirk - beantwortet
+- TOP 4.7: Wann überrascht das Bezirksamt mit "unverzüglichem" Verwaltungshandeln (§ 13 I BezVG)? - beantwortet
+- TOP 4.8: Infopoint Residenzstraße - beantwortet
+- TOP 4.9: Gesprächsergebnisse Bezirksamt/Senat - beantwortet
+- TOP 4.10: Strandbad Tegel - beantwortet
+- TOP 4.11: Bootsbetrieb auf dem Schäfersee - beantwortet
+- TOP 4.12: Sprintet auch Reinickendorf bei den Sonderzuweisungen zum Wohnungsbau? - beantwortet
+- TOP 4.13: Unbesetzte Stellen im Dezernat Gesundheit - beantwortet
+- TOP 4.14: Informationsschalter im Rathaus - beantwortet
+- TOP 4.15: Behält der Bezirk den "Familienwegweiser Reinickendorf" auch zukünftig bei? - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Flughafensee attraktiver und sicherer machen (Große Anfrage) - beantwortet
+- TOP 5.2: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel – Ausreichend Kitaplätze (Ersuchen) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: U 8 in das Märkische Viertel mit Haushaltsüberschüssen verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.2: Regelmäßiger Bericht Baumaßnahmen - überwiesen
+- TOP 7.3: Kurzparkzone Tegel-City prüfen - überwiesen
+- TOP 7.4: Kennzeichnung der Gedenkorte im Karl-Bonhoeffer-Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Stärkung der Sicherheit in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Personelle Verstärkung im Amt für Weiterbildung und Kultur - überwiesen
+- TOP 7.7: Offenes Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Barrierefreiheit am S-Bahnhof Bonhoeffer-Nervenklinik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: "Saubere Pilze zur IGA in Frohnau" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Benennung von geeigneten Grundstücken für die Bebauung mit modularen Systembau-Kitas - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Schulsanierungsprogramm 2017, 2018 und 2019 - beantwortet
+- TOP 8.2: Bundesteilhabegesetz - vertagt
+- TOP 8.3: Monitoring soziale Stadtentwicklung - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.3: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Unisex-Sanitärräume und -Umkleiden in Schwimmbädern - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Leerstand in der Residenzstraße verringern - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Gemeinschaftsschule im Schumacher-Quartier - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: SIBUZ - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Gleichbehandlung von Abschlüssen der Schulen mit sonderpädagogischem Förderbedarf - erledigt
+- TOP 10.6: P+R Parkplätze - in der BVV abgelehnt
+- TOP 10.7: Querungshilfe Bernauer Straße - erledigt
+- TOP 10.8: Tempo 30 im Wohngebiet - überwiesen
+- TOP 10.9: Palliativversorgung in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Schulwegsicherung "Am Dachsbau" - 3 - erledigt
+- TOP 10.11: Unisex-Sanitärräume und -Umkleidemöglichkeiten bei Neubauten von Sportstätten und Schwimmbädern - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Sporthallen im Winter für Familien öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Kurzzeitpflegeplätze dringend erforderlich - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Votum der BVV zur Unterstützung der Berliner Musikschulen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Konzept für Datenmonitoring für den Stadtraum Reinickendorf-West entwickeln - überwiesen
+- TOP 12.2: Falschparken am Wilhelmsruher Damm kontrollieren - überwiesen
+- TOP 12.3: Bestand der Graphothek online verfügbar machen - überwiesen
+- TOP 12.4: Saubere Parks, glücklicher Bürger - überwiesen
+- TOP 12.5: Vorstellung Spielplatzentwicklungsplan - überwiesen
+- TOP 12.6: Nachverdichtung von "Discountergrundstücken" prüfen - überwiesen
+- TOP 12.7: Projekt "Babylotse" auch für Reinickendorf - überwiesen
+- TOP 12.8: Sanierung des Verbindungsweges von Alt-Hermsdorf zur Fließtalbrücke - überwiesen
+- TOP 12.9: Planung Fahrradrouten - überwiesen
+- TOP 12.10: Jahresstatistik Menschen mit Behinderung - überwiesen
+- TOP 12.11: Aufenthaltsqualität im Volkspark Wittenau erhöhen - überwiesen
+- TOP 12.12: Tag der Offenen Ateliers, Werkstätten und Galerien in Reinickendorf - überwiesen
+- TOP 12.13: Integrationsprojekt "Himmel und Erde" auf Sportvereine ausweiten - überwiesen
+- TOP 12.14: Barrierefreie Angebote auf Reinickendorfer Spielplätzen erweitern - überwiesen
+- TOP 12.15: 50 Jahre Graphothek - Hinweistafel - überwiesen
+- TOP 12.16: Spielplatzprojekt für Reinickendorf - überwiesen
+- TOP 12.17: Spielplätze im Internetauftritt des Bezirksamtes ansprechender gestalten - überwiesen
+- TOP 12.18: Hinweisschilder für die Jugendberufsagentur - überwiesen
+- TOP 12.19: 50 Jahre Graphothek - Informationen zu Nachlässen bewerben - überwiesen
+- TOP 12.20: Müllentsorgung in Lübars - überwiesen
+- TOP 12.21: 50 Jahre Graphothek mit unserer Partnerstadt Greenwich feiern - überwiesen
+- TOP 12.22: Ausstattung des Allgemeinen Ordnungsdienstes - überwiesen
+- TOP 12.23: Anmeldung für die Sanierungsliste Priorität 1 - überwiesen
+- TOP 12.24: Soziale Mieterberatung für die Bürgerinnen und Bürger in Reinickendorf-Ost und Reinickendorf-West - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Verfahren bei Sanierungsmitteln vereinfachen - überwiesen
+- TOP 13.2: Unterstützung der schulischen Gremien - überwiesen
+- TOP 13.3: Schutz der Altmieter im Tegel-Center - überwiesen
+- TOP 13.4: Fahrtrichtungen am Waidmannsluster Damm eindeutig markieren - überwiesen
+- TOP 13.5: 2. Ein-/Ausgang S-Bahnhof Alt-Reinickendorf - überwiesen
+- TOP 13.6: Sicherheit und Sauberkeit für Tegel-Süd - überwiesen
+- TOP 13.7: Alteingesessene Gewerbetreibende in Tegel schützen - überwiesen
+- TOP 13.8: Radhaus Reinickendorf - überwiesen
+- TOP 13.9: Feuerwache Tegelort sanieren - überwiesen
+- TOP 13.10: Strandbad Tegel als freie Badestelle nutzen - überwiesen
+- TOP 13.11: Schilderwald im Frohnauer Zentrum roden - überwiesen
+- TOP 13.12: Modulare Unterkunft für Flüchtlinge in der Bernauer Straße I - überwiesen
+- TOP 13.13: Keine Parkgebühren für die Mieter des Märkischen Viertels - überwiesen
