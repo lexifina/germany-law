@@ -1,0 +1,85 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285503
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285503
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Mittelfristige Finanzplanung 2016 - 2020 - Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2017 - 2021 - Antwortschreiben -
+- TOP 4.3.1.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichen Verkehrsgrund - Antwortschreiben -
+- TOP 4.4.1.: Verkehrsentlastung am Wochenende durch Öffnung der Tiefgarage des Beruflichen Schulzentrums Nordhaide
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Soldaten- und Kameradschaftsverein München-Milbertshofen e.V. 120 Jahrfeier am 24.06.2017
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Versöhnungskirche München Harthof Sommerfest am 01./02.07.2017
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Initiative "Willkommen am Harthof" Sommerfest am 08.07.2017
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 04.08.2017 - 10.09.2017
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Kreuzung Neuherbergstr. / Schleißheimer Str. - Erweiterung auf zwei Linksabbiegespuren
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Aufstellen und Betreuen eines Schaukastens im Petuelpark
+- TOP 7.2.1.: Antrag auf: - Namensänderung in "Bernayspark" der öffentl. städtischen Grünanlage am Schollerweg nach dem Rückbau der Gemeinschaftsunterkunft - Gemeinwohlnützliche Gestaltung der Fläche der ehemaligen GU unter Einbeziehung und Berücksichtigung der Vorschläge der betroffenen Bürgerschaft - Einbeziehung der Fläche Flur-Nr. 211/2 der benachbarten städtischen Wiese um der Wohnraumverdichtung durch die GWG-Wohngebäudeerneuerung am Harthof und der damit deutlich steigenden Bevölkerungsdichte im Stadtteil Rechnung zu tragen
+- TOP 7.2.2.: Fußgängerfreundliches Milbertshofen - Durchlässigkeit statt hohe Zäune
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Grundschule Hanselmannstraße: Antrag auf Einrichtung von zwei Kurzzeitparkplätzen
+- TOP 7.4.2.: Goldmarkstraße - Ergreifen von Maßnahmen zur Verkehrsberuhigung
+- TOP 7.4.3.: Einrichtung einer Kurzparkzone in der Strelitzer Straße während der üblichen Bring- und Holzeiten der Kindertageseinrichtungen "Vielfalt" und "KosMoos"
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
+- TOP 8.2.2.: Petuelring 92 - Aufstellung einer beleuchteten Wechselwerbeanlage
+- TOP 8.2.3.: Norderneyer Str. 13 Baumschutz - Vollzug von § 13 BezirksausschussS i.V.m. der BaumschutzV
+- TOP 8.2.4.: Bauvorhaben und Nutzungsänderung a) Spitzerstr. 9 - Neubau von 3-er Stadthäusern mit Garagen b) Frankfurter Ring 87 - Errichtung eines neuen Shopgebäudes, Waschhalle, Tankstellendach und Abfall-Sammeldepot-Container c) Taunusstr. 51 - Nutzungsänderung - Büro- und öffentliche Verwaltungsgebäude
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Olympiapark - Veranstaltung "Munich Mash" am 23. - 25.06.2017
+- TOP 8.3.2.: Olympiapark - Veranstaltung "Sommernachtstraum" am 29.07.2017
+- TOP 8.3.3.: Petuelpark - Veranstaltung "Stadtteilfest Milbertshofen" am 01.07.2017
+- TOP 8.3.4.: Novellierung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Erinnerungsverfahren: Schleißheimerstr - Radwegsanierung
+- TOP 8.4.2.: Anhörung gem. § 13 BezirksausschussS zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Korbinianstraße - zeitliche Erweiterung eines Haltverbot
+- TOP 8.4.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO Vogelhartstr. - Haltverbotsregelung (Feuerwehrzufahrten)
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Kurzbericht nach finanzieller Mittelgewährung aus dem BA-Budget: a) MobilSpiel e.V. - Veranstaltung "Kicklusion...und alle kicken mit!" - 04/17 b) Kult.hist. Verein Feldmoching auf dem Gfild e.V. - Ausstellung "Straßennamensgebung im Münchner Norden..." - 03-04/17
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 9.2.2.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 9.2.3.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 9.2.4.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 9.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6.: Felsennelkenanger 20 - Baumfällung
+- TOP 9.2.7.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 9.2.8.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2015 bis 2035
+- TOP 9.2.9.: Gemeinschaftsunterkunft in der Thalhoferstraße - Informationsschreiben an die Anwohnerinnen und Anwohner -
+- TOP 9.2.10.: Keferloherstr. 91 - 97 - Modernisierung mit Anbau von Personenaufzügen und Wohnungsbalkonen sowie Nachverdichtung mit Aufstockung von 83 WE und Neubau zweier Tiefgaragen - Vorbescheid
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Kurzbericht über die Veranstaltung "Kicklusion - Und alle kicken mit" des Vereins MobilSpiel e.V.
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.2.: Vollzug der Grünanlagensatzung vom 15.06.2012 Schleißheimer Str. 450 - Baustelleneinrichtung
+- TOP 9.4.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO Einbahnregelung Helene-Mayer-Ring zwischen Lerchenauer Straße und Einmündung Conollystraße - Helene-Mayer-Ring
