@@ -1,0 +1,58 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2017-06-14T17:00:00+02:00
+- Ende: 2017-06-14T20:02:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3598
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3598
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.03.2017 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 03.05.2017 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 5: Vertrag mit der Verbraucherzentrale NRW zur Finanzierung der Verbraucherberatungsstelle Aachen für die Jahr 2018 bis 2020 (Energieberatung) - ungeändert beschlossen
+- TOP 6: Erlass einer Satzung über ein gemeindliches Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für das Grundstück Karl-Marx-Allee Nr. 220 (ehemals Landesbetrieb Straßenbau) - ungeändert beschlossen
+- TOP 7: Änderung Nr. 137 des Flächennutzungsplanes 1980 und Bebauungsplan Nr. 969 - Lütticher Straße / Unterer Backertsweg - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Lütticher Straße, Unterer Backertsweg und Maria im Tannhier: Beschluss der FlächennutzungsplanänderungSatzungsbeschluss zum Bebauungsplan gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Altstadtquartier Büchelhier: Gemeinsamer Tagesordnungsantrag der Fraktionen von CDUund SPD vom 29.05.2017 - geändert beschlossen
+- TOP 9: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 9.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen - Haushaltsjahr 2017 Umbau Bezirksamt Richterich - ungeändert beschlossen
+- TOP 9.2: Stolberger Straße - Platz vor der Yunus-Emre-Moscheehier: Bereitstellung überplanmäßige Mittel - ungeändert beschlossen
+- TOP 9.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2017, Produkt 021701, Rettungsdienst: Finanzierung der Vertragserweiterung aufgrund des Rettungsdienstbedarfsplans - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan 2017/2018 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 11: Veränderungen des Stellenplans 2017:
+- TOP 11.1: Veränderung des Stellenplans 2017Befristete Stelleneinrichtung im Fachbereich Kinder, Jugend und Schule im Zusammenhang mit dem Förderprogramm „Gute Schule 2020“ - ungeändert beschlossen
+- TOP 11.2: Veränderung des Stellenplans 2017Stelleneinrichtung für den Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 11.3: Veränderung des Stellenplans 2017Anpassung des Stellenplans im Zusammenhang mit den städtischen Kindertageseinrichtungen - ungeändert beschlossen
+- TOP 12: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2016 in das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 13: Neutrale Anpassung der Betriebskostenzuschüsse aufgrund veränderter Zins- und Beamtenkostenplanungen - ungeändert beschlossen
+- TOP 14: Haushaltskonsolidierung – Mehreinnahmen durch „Sex-Steuer“hier: Ratsantrag Nr. 263/17 der Ratsgruppe „Allianz für Aachen“ vom 26.04.2017 - vertagt
+- TOP 15: Verbesserte Verwaltungsorganisation - Fristgerechte Erstellung und Übermittlung von Niederschriftenhier: Ratsantrag Nr. 262/17 der Ratsgruppe „Allianz für Aachen“ vom 20.04.2017 - ungeändert beschlossen
+- TOP 16: Anfragen:
+- TOP 16.1: Ratsanfragen - ungeändert beschlossen
+- TOP 16.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 17: Umbesetzungen in Ausschüssen und anderen Gremien
+- TOP 17.1: Umbesetzungen in Ausschüssen und anderen Gremienhier: Aufsichtsrat der gewoge AG - ungeändert beschlossen
+- TOP 17.2: Umbesetzungsantrag der CDU-Fraktion vom 06.06.2017 - ungeändert beschlossen
+- TOP 17.3: Umbesetzungsantrag der PIRATEN-Fraktion vom 13.06.2017 - vertagt
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 19: Ratsanträge - geändert beschlossen
+- TOP 20: Bestellung von weiteren stellvertretenden Schriftführern für den Rat der Stadt - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
