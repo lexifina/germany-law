@@ -1,0 +1,97 @@
+# 9. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-06-15T17:00:00+02:00
+- Ende: 2017-06-15T22:04:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3791
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3791
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=218483
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Neuprogrammierung der Lichtsignalanlage Falkenberger Chaussee/Prendener Straße - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Evaluierung BVV-Live-Stream - beantwortet
+- TOP 8.2: Schriftliche Beantwortung der Mündlichen Anfrage "Milieuschutz in Lichtenberg" - zurückgezogen
+- TOP 8.3: Fällung eines Baumes an der Dönhoffstraße - beantwortet
+- TOP 8.4: Elterngeld familienfreundlich gewähren - beantwortet
+- TOP 8.5: Umleitung Landsberger Allee - beantwortet
+- TOP 8.6: Grünflächenpflege durch die BSR - beantwortet
+- TOP 8.7: "Free WiFi Berlin": Standorte der WLAN-Hotspots Lichtenberg - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Sondermittel für das Malchower Storchenfest 2017 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Digitalisierung der Verwaltung bürgernah gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Erhöhung der Sicherheit für Radfahrende zwischen Schreiberhauerstraße/Hauffstraße und Pfarrstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Bessere Anbindung des Jobcenters an das ÖPNV-Netz - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Berücksichtigung baulicher Voraussetzungen der Inklusion bei Neubau, Umbau und Sanierung von Schulgebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Berücksichtigung baulicher Voraussetzungen der Inklusion bei Neubau, Umbau und Sanierung von Turnhallen - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Stellplätze für schwer Gehbehinderte an der Modularen Unterkunft für Geflüchtete in der Seehausener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Transparente Informationen zu Baumfällungen für Bürger*innen und BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Schulinfrastruktur der Philipp-Reis-Oberschule den Bedarfen anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: In Schulküchen investieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Aufenthaltsqualität am Prerower Platz verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Kreuzung Pablo-Picasso-Straße/Gehrenseestraße/Hohenschönhauser Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Trinkbrunnen am Anton-Saefkow-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Gedenken an den 17. Juni 1953 wachhalten - überwiesen
+- TOP 9.15: Alle Sanierungsmittel in die Bezirke - überwiesen
+- TOP 9.16: Infotafel am Bahnhof Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Hinweisschilder auf Gefahren in der Rummelsburger Bucht - überwiesen
+- TOP 9.18: Sitzungsturnus der AG Schulentwicklung - überwiesen
+- TOP 9.19: Erneuerung des Skateparks am Weißenseer Weg 100 - überwiesen
+- TOP 9.20: Verbindungstrakt zwischen zwei Gebäuden des Grünen Campus Malchow schaffen - überwiesen
+- TOP 9.21: Schulneugründung einer Grundschule am Standort Bernhard-Bästlein-Straße 56 in 10367 Berlin Schulneugründung einer Grundschule am Standort Rüdigerstraße 76 in 10365 Berlin in Personalunion mit der Selma-Lagerlöf-Schule (Förderzentrum "Sprache") - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.22: Kinder-BVV auch in dieser Wahlperiode - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.23: Eckwertebeschluss über die Aufteilung der Globalsummenzuweisung 2018/19 - überwiesen
+- TOP 9.24: Parkhausausfahrt des Lindencenters sicherer machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.25: Konstituierung des Freiwilligenrates, Änderung der Geschäftsordnung des Freiwilligenrates und der Vergabeordnung zur Verleihung der Bürgermedaille - überwiesen
+- TOP 9.26: Bebauungsplan 11-129 - Aufstellungsbeschluss Arbeitstitel: Manetstraße - überwiesen
+- TOP 9.27: Vorhabenbezogener Bebauungsplan 11-130 VE - Aufstellungsbeschluss Arbeitstitel: Genslerstraße 13 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.28: Bebauungsplan XVII-50ab - Teilung in die Bebauungspläne XVII-50aba und XVII-50abb Arbeitstitel: "Gartenstadt Karlshorst II" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.29: Vorhabenbezogener Bebauungsplan 11-117 VE - Änderung des Aufstellungsbeschlusses aufgrund der Erweiterung des Geltungsbereiches Arbeitstitel: Landsberger Allee 323/339 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.30: Milieuschutz für das Gebiet Frankfurter Allee Nord (FAN); Bezug: DS/0747/VII - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.31: Veränderung von Einschulungsbereichen an Grundschulen - überwiesen
+- TOP 9.32: a) Antrag der Belle Èpoque Bauten am Landschaftspark Herzberge I, II & III GmbH auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für die Grundstücke Rhinstraße 137/137A vom 23.12.2015 b) Aufstellung einer städtebaulichen Rahmenplanung für die Grundstücke Rhinstraße 137/137A/139 und dem Verflechtungsbereich - überwiesen
+- TOP 9.33: a) Antrag der Dolgensee 1 B.V., Dolgensee 2 B.V., Dolgensee 3 B.V., Dolgensee 4 B.V. und Lichtenberg Berlin B.V. GbR auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens über das Grundstück Rhinstraße 139 vom 24.10.2016 b) Aufstellung einer städtebaulichen Rahmenplanung für die Grundstücke Rhinstraße 137/137A/139 und dem Verflechtungsbereich - überwiesen
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Bebauung Ahrensfelder Chaussee B-Plan XXII - 39 - schriftlich beantwortet
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: Neue Kleingärten in Lichtenberg - überwiesen
+- TOP 12.2: Sicherung von Kleingartenanlagen voranbringen - überwiesen
+- TOP 12.3: Prioritäten für die bauplanungsrechtliche Sicherung von Kleingartenanlagen in Lichtenberg - überwiesen
+- TOP 12.4: Dorfstraße in Falkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Berufsperspektiven im öffentlichen Dienst aufzeigen - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Ein gesonderter Titel für den Unterhalt von Fußverkehrsinfrastruktur in Haushaltsplänen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Ein gesonderter Titel für den Unterhalt von Radverkehrsinfrastruktur in Haushaltsplänen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Gebietsbeiräte berufen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: Berufsbezogene Sprachkurse ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: AnwohnerInnen und Anwohner der Marie-Elisabeth-von-Humboldt-Straße entlasten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.6: Optimierung von Stellflächen im öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.7: Beauftragter für die digitale Entwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Schaffung von Parkraum im öffentlichen Interesse - in der BVV abgelehnt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Runder Tisch Ilsestraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Museum Lichtenberg zukunftsfähig machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Bericht über die Ausbildung von Fachkräften im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Beschlussfassung - (offen)
+- TOP 15.1: Soziale Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 BauGB für das Gebiet "Kaskelstraße" im Bezirk Lichtenberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.2: Änderung des Landschaftsrahmenplans - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Erzieherinnen und Erzieher als Mangelberuf einstufen - überwiesen
+- TOP 16.2: Freiwillige Feuerwehr Hohenschönhausen unterstützen und am Leben erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Situation bei Wohngeld- und WBS-Anträgen schnell entschärfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Bezirkliche Projekte zur Umsetzung des Nachbarschaftsprogramms (Integrationsfonds) 2017 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.5: Bebauungsplan 11-104 - Änderung des Geltungsbereichs Arbeitstitel: Freienwalder Straße/Genslerstraße/Werneuchener Straße/Goeckestraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Schließung der Sitzung - erledigt
