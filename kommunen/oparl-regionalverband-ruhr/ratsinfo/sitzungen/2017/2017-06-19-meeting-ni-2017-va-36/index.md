@@ -1,0 +1,57 @@
+# 12. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-06-19T10:00:00+02:00
+- Ende: 2017-06-19T10:40:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-VA-36
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-VA-36
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-VA-36
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-VA-36
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP -: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm „Investitionspakt Soziale Integration im Quartier NRW 2017“
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP -: Vorlagen aus dem Planungsauschuss
+- TOP 1.1: 11. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Oberbereiche Bochum und Hagen zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem „Brandt“-Gelände in der Stadt Hagen und in der Stadt Gevelsberg – Aufstellungsbeschluss –
+- TOP 1.2: 11. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Oberbereiche Bochum und Hagen zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem „Brandt“-Gelände in der Stadt Hagen und in der Stadt Gevelsberg – Aufstellungsbeschluss –
+- TOP 1.3: 82. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Rheinberg Festlegung eines Oberflächengewässers für die zweckgebundene Nutzung Ruhehafen Ossenberg Aufstellungsbeschluss
+- TOP 1.4: 89. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Kamp-Lintfort Erarbeitungsbeschluss - Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) für zweckgebundene Nutzungen „Übertägige Betriebsanlagen und -einrichtungen des Bergbaus“ in einen Allgemeinen Siedlungsbereich (ASB)
+- TOP 1.5: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.1: Erteilung eines Gutachtenauftrages
+- TOP 2.2: Änderung des Stellenplans 2017
+- TOP 2.3: Konzept Sozialkonferenz Ruhr
+- TOP -: Vorlagen aus den Planungsausschuss
+- TOP 2.4: Erweiterung des Beirats hier: zusätzliche Besetzung des Beirats
+- TOP 2.5: Orthophotokooperation Geonetzwerk.metropoleRuhr
+- TOP 2.6: Stellungnahme des RVR als Träger öffentlicher Belange und als Regionalplanungsbehörde zum Entwurf des Nahverkehrsplanes der Stadt Mülheim an der Ruhr
+- TOP 2.7: Stellungnahme des RVR als Träger öffentlicher Belange zum Entwurf des Nahverkehrsplanes der Stadt Duisburg
+- TOP 2.8: Route der Industriekultur - RVR-Vertrag mit dem Land NRW und Standortverträge
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.9: Integriertes Handlungskonzept (IHK) Revierpark 2020 - Vorstellung und weitere Vorgehensweise
+- TOP 2.10: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.11: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.11.1: Angelegenheiten der Freizeitgesellschaften - Vorläufige Jahresabschlüsse der am Verschmelzungsprozess beteiligten Freizeitgesellschaften (Freizeitzentrum Kemnade, Revierpark Nienhausen, Revierpark Vonderort, Revierpark Mattlerbusch)
+- TOP 2.11.2: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Xanten GmbH - Änderung des Gesellschaftsvertrages und der Nebenabrede
+- TOP 2.11.3: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.11.4: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr GmbH - Bestellung von Mitgliedern in die Organe der Gesellschaft
+- TOP 2.11.5: Angelegenheiten der Freizeitgesellschaften - Wechsel in der Geschäftsführung der Freizeitgesellschaft Metropole Ruhr mbH
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.12: Bericht zur Lage der Umwelt in der Metropole Ruhr 2017
+- TOP -: Vorlagen aus dem Rechnungsprüfungsausschuss/Verwaltung
+- TOP 2.13: Bericht über die Prüfung des Jahresabschlusses 2015, Feststellung des Jahresabschlusses 2015 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2015 bis 31.12.2015
+- TOP 2.14: Beschluss über die Behandlung des Jahresüberschusses 2015
+- TOP 2.15: Anfragen und Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
