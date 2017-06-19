@@ -1,0 +1,52 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-19T15:00:00+02:00
+- Ende: 2017-06-19T17:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16857
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16857
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617528.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617528.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617528.pdf
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer mdl. Anfrage: Aktuelle Situation der Beschulung neu zugewanderter Kinder und Jugendliche (4370/2016) - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Beantwortung der Anfrage des Integrationsrates vom 09.01.2017 - AN/0029/2017 - Kenntnis genommen
+- TOP 3.5: Beantwortung einer mdl. Anfrage: Mdl. Nachfrage zum 14. Bericht zur Unterbringung und Integration von Flüchtlingen 1223/2017 - Kenntnis genommen
+- TOP 3.6: Beantwortung einer mdl. Anfrage: Nachfrage Frau RM Heuser zur Zuschussvorlage "Stadtteilmütter" DS-Nr. 0902/2017 in der Sitzung vom 25.04.2017 - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zu Ressourcen für KiTas im Bereich mehrsprachige Förderung - Vorlage 4357/2016 - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Beantwortung einer Anfrage der Fraktionen von CDU und Die Grünen aus der Sitzung des Ausschusses für Soziales und Senioren vom 26.01.2017 zu "Präventive Hausbesuche stärken" (AN/0286/2017) - Kenntnis genommen
+- TOP 5.2: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 5.3: VHS Köln als Beratungsstelle für Fachberatung zur Anerkennung im Ausland erworbener Berufsqualifikationen zugelassen - Kenntnis genommen
+- TOP 5.4: Darstellung der Sparten - Kenntnis genommen
+- TOP 5.5: BAMF zu Gast bei der VHS Köln - Kenntnis genommen
+- TOP 5.6: Gewaltschutzkonzept für Kölner Flüchtlingsunterkünfte - AN/0728/2017 - Kenntnis genommen
+- TOP 5.7: Umbenennung eines Teilstücks der Wiesdorfer Straße in Ali-Kurt-Weg - Beschluss der BV Mülheim - Kenntnis genommen
+- TOP 5.8: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - zurückgestellt
+- TOP 5.9: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 5.10: 2. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 5.11: 15. Bericht zur Unterbringung und Integration von Flüchtlingen - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- Flüchtlingsfamilien im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 8.2: Standorte zur Errichtung von temporären Unterkünften für Geflüchtete - Genehmigung und Baubeschluss - ungeändert beschlossen
+- TOP 8.3: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 8.4: Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - geändert beschlossen
+- TOP 8.5: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
