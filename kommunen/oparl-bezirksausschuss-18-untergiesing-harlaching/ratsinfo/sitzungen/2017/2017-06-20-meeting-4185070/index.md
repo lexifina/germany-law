@@ -1,0 +1,149 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4185070
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4185070
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.2.1.: Graffiti; Bürgerschreiben vom 22.05.17
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Verein zur Erhaltung und Pflege des Perlacher/Grünwalder Forstes e.V. Waldfest am 08.07.2017
+- TOP 3.1.6.1.: Stadtbezirksbudget für München, Beschluss des Stadtrates und weiteres Vorgehen; Schreiben des Direktoriums vom 29.05.17 und Verweis auf Sitzungsvorlage Nr. 14-20 / V 08072
+- TOP 3.1.6.2.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.2.: Ausbau der U-Bahn Linie U 1; Antrag der SPD-Fraktion
+- TOP 3.2.3.3.: Sachstand zur Bürgerversammlungs-Empfehlung Nr. 14-20 / E 01308 (barrierefreier Ausbau der Unterführung Otkerstraße); Antrag der SPD-Fraktion
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegeunterführung an der Otkerstraße unter der Tegernseer Landstraße; Anhörung durch das Baureferat zur Projektplanung
+- TOP 3.2.4.2.: Schönstraße zwischen Candidstraße und Lebschéestraße; Anhörung durch das Baureferat zum Straßenausbauprojekt
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Pförtnerschaltung Haltestelle Wettersteinplatz; barrierefreie Umgestaltung des Platzes sowie des Haltestellenbereiches der Verkehrsinsel
+- TOP 3.2.5.2.: Begrünung der Kreuzungsinseln am Agilolfingerplatz; Umgestaltung des gesamten Platzes
+- TOP 3.2.5.3.: Beleuchtung des Parkplatzes unter der Brücke am Candiplatz
+- TOP 3.2.5.4.: "Auto-Leichen" am Parkplatz unter der Candidbrücke entfernen
+- TOP 3.2.5.5.: Agilolfingerstraße, Fahrbahnbelag; Antwortschreiben des Baureferats zum Eilantrag vom 16.05.17
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Öffnung der in Richtung Osten einbahngeregelten Peißenbergstraße zwischen Säbener Straße und Otkerstraße für den gegenläufigen Radverkehr; Verkehrsrechtliche Anordnung des KVR vom 19.10.16
+- TOP 3.2.6.2.: (U) "Dialog-Display" in München
+- TOP 3.2.7: Sonstiges
+- TOP 3.2.7.1.: Verkehrssituation an der Einmündung Münchner-Kindl-Weg / Tegernseer Landstraße; Initiative aus dem UA Verkehr
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Neupflanzung Schlehdorfer Straße; Antrag der SPD-Fraktion (vertagt vom 16.05.17)
+- TOP 3.3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Städtisches Stadion an der Grünwalder Straße, Geräuschbelästigung und Häufigkeit der Veranstaltungen; Bürgeranliegen aus der Sitzung vom 20.12.16; Antwortschreiben des Referats für Bildung und Sport vom 16.05.17
+- TOP 3.3.5.2.: Grillen im Bereich des Tierparks - Abstimmung einer Beschilderung mit Grillverbot
+- TOP 3.3.5.3.: Absolutes Grillverbot am Ostufer der Isar im Bereich Untergiesing-Harlaching-Tierpark (zwischen Marienklause und Tierparkbrücke)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Unterkunftseinrichtung für Flüchtlinge im ehemaligen Osram-Gelände, Hellabrunner Str. 1 - Einrichtung eines "Begegnungscafés" Empfehlung Nr. 14-20 / E 00723 ............................
+- TOP 3.4.2.2.: (E) FC Alemannia vor dem Aus retten! ...
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Neubau der Grundschule an der Fromundstraße; Antrag der SPD-Fraktion
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Bebauungsplan mit Grünordnung Nr. 2088: Candidstraße (südlich), Hellabrunner Straße (östlich), Salierstraße (westlich) - Änderung des Bebauungsplanes Nr. 10 b) - ehemaliges Osramgelände - Anhörung durch das Referat für Stadtplanung und Bauordnung vom 24.05.17
+- TOP 3.5.4.2.: Gemeinde Pullach im Isartal, Bebauungsplan Nr. 41 "Grundelbergsiedlung 1", Beteiligung der Behörden nach § 4 Abs. 2 BauGB; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 26.05.17
+- TOP 3.5.4.3.: Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM BA-Antrag Nr. 14-20 / B 02834 des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching vom 20.09.2016
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Bebauung McGraw-Gelände
+- TOP 3.5.5.2.: Errichtung von bezahlbaren Wohnungen auf dem unbebauten Grundstück in der Zasinger Straße
+- TOP 3.5.5.3.: Reduzierung der Werbeverschmutzung
+- TOP 3.5.5.4.: Sicherung des vertraglichen Vorkaufsrechts für das Grundstück Grünwalder Str. 31
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: 3.5.6.1 Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.1.1 Anwesen Steingadener Straße; Mitteilung vom 04.05.17 3.5.6.1.2 Anwesen Athener Straße; Mitteilung vom 16.05.17
+- TOP 3.5.6.2.: 3.5.6.2 Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Vitigno", Aggensteinstraße 25; Mitteilung vom 08.05.17
+- TOP 3.5.6.3.: Traminer Straße 6; Übermittlung der Abdrucke der Baugenehmigungen vom 16., 19. und 22.05.17
+- TOP 3.5.6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.5.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 3.5.6.6.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund: Pfarrfest St. Franziskus in der Arminiusstraße am 26.06.17; Anhörung durch das KVR
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.2.: Bürgerversammlung Spielbetrieb Grünwalder Stadion, Rückkehr des TSV 1860 München e.V.; Antrag der SPD-Fraktion
+- TOP 4.2.3.: Rahmenbedingungen Spielbetrieb Grünwalder Stadion; Antrag der SPD-Fraktion
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
