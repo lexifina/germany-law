@@ -1,0 +1,93 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262215
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262215
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Baumfällungen (Baumschutz-UNB)
+- TOP 5.4.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.5.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Caritas Kulturtreff für Kinder und Jugendliche Jump In Begutachtung einer Skateanlage
+- TOP 2.2.: (E) Budget der Bezirksausschüsse LerchenKinderHaus e.V. Bau eines Klettergerüsts vom 15.05.-20.05.17
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. 10jähriges Bestehen des Schickeria-Secondhand-Ladens am 05.07.2017
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Toni-Pfülf-Straße Sommerfest am 07.07.2017
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kapernaumkirche Ökumenisches Sommerfest am 15.07.2017
+- TOP 2.6.: Entscheidung über Projektplanung gem. OB-Vollmacht: Walter-Sedlmayr-Platz - Buswendeanlage
+- TOP 3.: Anträge
+- TOP 3.1.: Parksituation im Ortsteil Feldmoching
+- TOP 3.2.: Parkerlaubnis nur für PKW&#039;s, Eduard-Spranger-Straße
+- TOP 3.3.: Verkehrssituation in der Lerchenau
+- TOP 3.4.: 14-tägige Wasserqualitätsuntersuchung anstelle der monatlichen für die Badeseen: Feldmochinger See, Fasaneriesee, Lerchenauer See, Ruderregattaanlage und Ruderregatta-Park-See
+- TOP 3.5.: Verstärkte Kontrolle und Einhaltung der Satzung über die Benutzung der städtischen öffentlichen Grünanlagen
+- TOP 3.6.: Errichtung eines absoluten Halteverbotes an der Nordseite der Grashofstraße, Ecke Pflaumstraße – Karlsfelder Straße
+- TOP 3.7.: N Änderung des Hinweisschildes an der Ecke Wilhelmine-Reichard-Str./Schittgablerstr.
+- TOP 3.8.: N Bildungscluster 2411
+- TOP 5.1.1.: Auf den Schrederwiesen, Gemarkung Ludwigsfeld, Fl.Nr. 72/1
+- TOP 5.1.2.: Hasenberglstr. 30
+- TOP 5.1.3.: N Caracciolastr. 13
+- TOP 5.2.1.: Ballerstedtstr. 7
+- TOP 5.2.2.: Schneeglöckchenstr. 62
+- TOP 5.2.3.: Auf den Schrederwiesen, Gemarkung Ludwigsfeld, Fl.Nr. 67/1
+- TOP 5.2.4.: Helmunistr. 4
+- TOP 5.2.5.: Hasenberglstr. 30
+- TOP 5.2.6.: N Schaarschmidtstr. 23
+- TOP 5.2.7.: N Caracciolastr-13
+- TOP 5.3.1.: Leuschnerstr. 22
+- TOP 5.4.1.: Spielefest am Wochenmarkt für Jung und Alt am 08.07.2017, Lassallestraße
+- TOP 5.5.1.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
+- TOP 5.5.2.: Karlsfelder Straße - Nachtrag der Brücke über das Schwabenbächl in die Denkmalliste
+- TOP 5.5.3.: Haltverbot Thelottstraße Südseite
+- TOP 5.5.4.: Absolutes Haltverbot an der Südseite der Karlsfelder Straße zwischen Am Gottesackerweg und der Schwarzhölzlstraße
+- TOP 5.5.5.: Vorfahrtsregelung Ferchenbachstraße / Karlsfelder Straße
+- TOP 5.5.6.: Petition: "Tempo 30 für die Weitlstraße" - Beschlussentwurf
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Busch in der Faganastraße
+- TOP 6.2.: Anträge Nrn. 15/2, 15/5, 15/6, 15/15 und 15/16 aus der 15. Kinder- und Jugendsprechstunde des BA 24 zum Thema "Spielen"
+- TOP 6.3.: Sperrung des stillgelegten, alten und unbefestigten Straßenabschnitts der Karlsfelder Straße westlich der Hausnummer 132
+- TOP 6.4.: Verbesserte Beleuchtung des Blütenangers
+- TOP 6.5.: Bauvorhaben Feldmochinger Str. 251
+- TOP 6.6.: Zukunft des Virginiadepots - Einberufung eines Runden Tisches 1. Anträge aus der Einwohnerversammlung vom 24.02.2016 (TOP 3.1) 2. Virginiadepot – Einführung eines Monitorings, Antrag von Bündnis 90/Die Grünen im BA 24 vom 28.02.2016 (TOP 3.4) - Zwischenmitteilung -
+- TOP 6.7.: Parksituation, Verkehrsfluss und die daraus resultierenden Nachteile der Anwohner in der Wohnsiedlung Ludwigsfeld
+- TOP 6.8.: Veranstaltung in öffentlichen Grünanlagen: Fahrradrallye für Behinderte und Nichtbehinderte am 27.05.2017 am Feldmochinger See
+- TOP 6.9.: Sportbauprogramm, Projekte im 24. Stadtbezirk
+- TOP 6.10.: Parken am Gewerbehof Nord (MGH)
+- TOP 6.11.: Baumschutz in München... (Bund Naturschutz in Bayern e.V.)
+- TOP 6.12.: Vorplanungsauftrag, GS/MS/Kita Eduard-Spranger-Str. 15 und 17
+- TOP 6.13.: Unveränderte Fortführung von Gaststättenbetrieben: Josef-Frankl-Str. 47 a
+- TOP 6.14.: Meldelisten Bauvorhaben
+- TOP 6.15.: Meldelisten Baumfällungsanträge
+- TOP 6.16.: Daten Pegel Feldmoching
+- TOP 6.17.: Wegfallen zahlreicher Parkmöglichkeiten
+- TOP 6.18.: Bahnlärm - Lärmschutz
+- TOP 6.19.: Eckgrundstück Grieserstraße/ Lassallestr. 54: es wurden Wohncontainer ohne Parkplätze errichtet; unzulässiges Verparken von Einfahrten und Müllcontainern in Grieserstraße
+- TOP 6.20.: Eckgrundstück Grieserstraße/ Lassallestr. 54: Parkunwesen der Bewohner des Grundstückes (Container für Arbeiter); Prüfen der Rechtmässigkeit der Vermietung (für 40 Container nur 2 WC&#039;s)
+- TOP 6.21.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse; - Beschluss des Stadtrates und weiteres Vorgehen -
+- TOP 6.22.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 6.23.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 6.24.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 6.25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.27.: (U) Maßnahmenkonzept für klimaangepasstes Bauen Empfehlung Nr. 14-20 / E 01313 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.28.: (U) "Dialog-Display" in München
+- TOP 8.1.: Protokoll der Sitzung am 04.04.2017 und der außerordentlichen Sitzung am 28.04.2017 (nach Genehmigung in der Sitzung am 09.05.2017)
+- TOP 8.2.: Oktoberfest 2017, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 8.3.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München, Antrag-Nr. 14-20 / B 03627
