@@ -1,0 +1,118 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-06-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266101
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266101
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 17.05.17
+- TOP 1.4.2.: Stellungnahme UA Kultur und Planung und Bau vom 24.05.17
+- TOP 1.4.3.: Protokoll UA Kultur vom 24.05.17
+- TOP 1.4.4.: Protokoll UA Kultur vom 30.05.17
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 2.2.1.: Anhängerproblem Franz-Nißl-Straße / Höcherstraße
+- TOP 2.2.2.: Tempo-30-Zone Megerlestraße
+- TOP 2.2.3.: Kindertageseinrichtungen, hier: Platz für 5 Kinderkrippen, 6 Kindergarten und 2 Hortgruppen
+- TOP 2.2.4.: Fragen bzgl. Hirmerei
+- TOP 2.2.5.: Betreuungsmisere und Raumnot an der Pfarrer-Grimm-Grundschule
+- TOP 3.1.: Kennzeichnung Landschaftsschutzgebiet "Angerlohe", sowie nördlich der Streuobstwiese, und Leinenpflicht für Hunde
+- TOP 3.2.: Nahmobilitätskonzept für Radfahrer und Fußgänger
+- TOP 3.3.: Unterflurcontainer in der Franz-Nißl-Straße
+- TOP 3.4.: Gender-Budgeting
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Verein 1200 Jahre Menzing e.V. Errichtung eines Kanalanschlusses für das Festzelt
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Bethlehemskirche Internetfähigkeit des Gemeindehauses und des Jugendhauses
+- TOP 4.3.: (E) Verkehrsfluss in der Gerberau verbessern durch Einbahnregelung in der Bergetstraße und Vogelloh
+- TOP 5.1.: Eversbuschstr. 159, Fl.Nr. 79/0, Gemarkung Allach Änderung der Denkmalliste
+- TOP 5.2.: Hertwigstr. 6, Gemarkung: Untermenzing, Fl.Nr.: 535/53 Neubau einer DHH mit Fertiggaragen (Haus 1)
+- TOP 5.3.: Hertwigstr. 6, Gemarkung: Untermenzing, Fl.Nr.: 535/32 Neubau einer DHH mit Fertiggaragen (Haus 2)
+- TOP 5.4.: Friedrich-Zahn-Str. 5, Gemarkung: Untermenzing, Fl.Nr.: 302/6 Neubau eines Einfamilienhauses mit Garage
+- TOP 5.5.: Grünwedelstr. 9, Gemarkung: Untermenzing, Fl.Nr.: 947/1 Erweiterung einer Doppelhaushälfte
+- TOP 5.6.: Allacher Str. 295 + 297, Gemarkung: Untermenzing, Fl.Nr.: 290/0 Neubau eines Doppelhauses und zweier Einfamilienhäuser mit Carports und Garage (Haus 1 + Garage)
+- TOP 5.7.: Allacher Str. 295 + 297, Gemarkung: Untermenzing, Fl.Nr.: 290/0 Neubau eines Doppelhauses und zweier Einfamilienhäuser mit Carports und Garage (Haus 2 + Carport)
+- TOP 5.8.: Allacher Str. 295 + 297, Gemarkung: Untermenzing, Fl.Nr.: 290/0 Neubau eines Doppelhauses und zweier Einfamilienhäuser mit Carports und Garage (Haus 3 + Carport)
+- TOP 5.9.: Allacher Str. 295 + 297, Gemarkung: Untermenzing, Fl.Nr.: 290/0 Neubau eines Doppelhauses und zweier Einfamilienhäuser mit Carports und Garage (Haus 4 + Carport)
+- TOP 5.10.: Behringstr. 109 a, Gemarkung: Allach, Fl.Nr.: 186/0 Neubau eines Doppel- und eines Einfamilienhauses mit Garagen - Tektur
+- TOP 5.11.: Augustenfelder Str. , Gemarkung Allach, Fl.Nr.: 890/59 Neubau eines Wohnhauses (3WE) und Vollzug der BaumschutzVO
+- TOP 5.12.: Herbigstr. 12, Gemarkung Untermenzing, Fl.Nr.: 1050/1 Neubau eines Dreispänners mit Einzel- und Duplexgarage - Vorbescheid (Var. A + B)
+- TOP 5.13.: Streberstr. 5, Gemarkung Allach, Fl.Nr.: 1312/12 TEKTUR zu Neubau zweier Doppel- und eines Einfamilienhauses mit Carport und Vollzug der BaumschutzVO
+- TOP 5.14.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
+- TOP 5.15.: Erinnerungsverfahren Gottfried-Keller-Str. 35
+- TOP 5.16.: Einrichtung von Haltverboten in der Von-Reuter-Straße
+- TOP 5.17.: Ernst-Haekel-Str. 98, Gemarkung: Untermenzing, Fl.Nr.:1069/3 Neubau eines Mehrfamilienhauses (6 WE) - Tektur und Vollzug der Baumschutzverordnung
+- TOP 5.18.: Abbrennen eines privaten Feuerwerks Klasse 2 in der Waldhornstr. 83 am 18.08.17
+- TOP 5.19.: Max-Jansen-Str. 5, Gemarkung: Untermenzing, Fl.Nr.: 171/11 Neubau eines Zweifamilienhauses und Vollzug der BaumschutzVO
+- TOP 6.1.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 6.2.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Berreich IV/25 - Mühlangerstraße / Langwied
+- TOP 6.5.: (U) Bebauungsplan mit Grünordnung Nr. 1655 a Oertelplatz, Bahnlinie München-Ingolstadt (westlich), Hintermeierstraße (nördlich), Lautenschlägerstraße (östlich), Vesaliusstraße (südlich) und Georg-Reismüller-Straße (östlich) sowie Franz-Nißl-Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 859) Neu- und Umbau der Straßen und Plätze im Bebauungsplanumgriff im 23. Stadtbezirk Allach - Untermenzing 1. Lautenschlägerstraße (Maßnahme 5) Projektkosten (Kostenobergrenze): 1.800.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 80.000 € (brutto)) Projektgenehmigung Lautenschlägerstraße Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2. Genehmigung des städtischen Finanzierungsanteils für den Brunnen (Teil der Maßnahme Nr. 1) und den Bahnhofsvorplatz (Maßnahme Nr. 2) 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 6.6.: (U) Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch im 10. Stadtbezirk Moosach und im 23. Stadtbezirk Allach - Untermenzing Erstmalige Herstellung hier: Maßnahmen der Bauphase 2 Projektkosten (Ausführungskosten): 3.400.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH: 1.900.000 € (brutto)) Ausführungsgenehmigung
+- TOP 6.7.: (U) "Dialog-Display" in München
+- TOP 6.8.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 6.9.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 6.10.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 6.11.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 6.12.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 7.1.: BA-Dialog am 18.07.17 mit RBS
+- TOP 7.2.: Oktoberfest 2017 Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 7.3.: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidatinnen und Kandidaten am 21.09.17 im ASZ Allach-Untermenzing, Manzostr. 105
+- TOP 9.1.: Schreiben Referat für Arbeit und Wirtschaft vom 05.05.17: S-Bahn-Haltepunkt Untermenzing: Fahrgastinformationssystem
+- TOP 9.2.: Schreiben Kreisverwaltungsreferat vom 04.05.17: Verkehrsrechtliche Erlaubnis Straßenfest Schöllstraße
+- TOP 9.3.: Schreiben Kreisverwaltungsreferat vom 08.05.17: Erlaubnisbescheid für Straßenfest Schöllstraße
+- TOP 9.4.: Schreiben Kreisverwaltungsreferat vom 13.04.17: Fußgängerüberweg Einmündungsbereich Gerberau / Mannertstraße
+- TOP 9.5.: Schreiben Kreisverwaltungsreferat vom 08.03.17: Einrichtung Haltverbote mit dem Zusatz "Feuerwehrzufahrt" Prießnitzstraße
+- TOP 9.6.: Schreiben Kreisverwaltungsreferat vom 07.04.17: Einrichtung eines absoluten Haltverbotes Von Reuter-Straße
+- TOP 9.7.: Schreiben Kreisverwaltungsreferat vom 01.06.17: Erlaubnisbescheid Blutenburglauf
+- TOP 9.8.: Schreiben Kreisverwaltungsreferat vom 30.03.17: Allacher Straße - Geschwindigkeitsbegrenzung (T 30) aus Lärmschutzgründen; verkehrsrechtliche Anordnung
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 02.06.17: Durchfahrt von Lkw in Richtung Krauss Maffei im Wohngebiet Von-Reuter-Straße
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 02.06.17: Wegfall des Fußgängerüberwegs (Zebrastreifes) in der Mannertstraße / Gerberau am 05.05.17
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 27.04.17: Menzinger Straße zwischen Fasanenstraße und Trumppstraße, Tempo 30 und Einrichtung von Haltverboten; verkehrsrechtliche Anordnung
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.05.17: Manzostr. 37a, Fl.Nr. 604/24, Gemarkung Untermenzing
+- TOP 9.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.05.17: Vollzug der Baumschutzverordnung in Zusammenhang mit einem Bauvorhaben Killerstr. 1
+- TOP 9.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.05.17: Zwischennachricht BV-Empf. 01049, Kulturraum auf dem Diamalt-Gelände als Dauereinrichtung
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge ( 24.04.-30.04.17, 01.05.-07.05.17, 08.05.-14.05.17, 15.05.-21.05.17, 22.05.-28.05.17, 29.05.-04.06.17)
+- TOP 9.16.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Auenbruggerstr. 28, Trixlweg 10, Nigglstr. 15, Willi-Wien-Str. 19, Kiesweg 11, Grovestr. 19, Rudhartstr. 28, Servetstr. 1
+- TOP 9.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.05.17: Fällungsgenehmigung Auenbruggerstr. 28
+- TOP 9.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.17: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben: Am Münchfeld
+- TOP 9.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.06.17: Fällungsgenehmigung Rudhartstr. 28
+- TOP 9.20.: Schreiben Stadtwerke München vom 02.05.17, 08.05.17, 15.05.17, 22.05.17: Baumaßnahmen
+- TOP 9.21.: Schreiben Stadtwerke München vom 16.05.17: SWM-Strom-Projekt Angerlohstraße
+- TOP 9.22.: Schreiben Stadtwerke München vom 04.05.17: SWM-Strom-Projekt Behringstraße
+- TOP 9.23.: Schreiben Stadtwerke München vom 29.05.17: Strom-Projekt Franz-Nißl-Str.
+- TOP 9.24.: Schreiben Stadtwerke München vom 01.06.17: Strom-Projekt Storchenweg
+- TOP 9.25.: Schreiben Sozialreferat vom 169.05.17: Zweckentfremdung von Wohnraum, Hertwigstr.
+- TOP 9.26.: Schreiben Sozialreferat vom 22.05.17: Antrag auf Zweckentfremdung von Wohnraum, Esmarchstr.
+- TOP 9.27.: Schreiben Sozialreferat vom 08.06.17: Protokoll der Infoveranstaltung vom 22.05.17
+- TOP 9.28.: Schreiben Baureferat vom 24.05.17: Sanierung des Fahrbahnbelages Kiesweg
+- TOP 9.29.: Schreiben Baureferat vom 18.05.17: Vorwegmaßnahmen Ludwigsfelder Straße
+- TOP 9.30.: Schreiben Baureferat vom 01.06.17: Fahrbahnmarkierung Allacher Straße
+- TOP 9.31.: Schreiben Baureferat vom 02.06.17: Wegfall des Fußgängerüberwegs (Zebrastreifes) in der Mannertstraße / Gerberau am 05.05.17
+- TOP 9.32.: Schreiben Referat für Gesundheit und Umwelt vom 21.04.17: Durchführung von Mäharbeiten des Straßenbegleitgrüns Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 9.33.: Antrag BA 1 Altstadt-Lehel vom 09.05.2017: Baum-Masterplan für München
+- TOP 9.34.: Antrag BA 11: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHM
+- TOP 9.35.: Schreiben Bund Naturschutz vom 17.05.17: Baumschutz in München ist Klimaschutz in München Die Münchner Bezirksausschüsse handeln - jetzt!
+- TOP 9.36.: Protokoll der öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München vom 24.04.2017
+- TOP 9.37.: Schreiben TSV Allach 09 vom 27.05.17: Sachbericht
+- TOP 9.38.: Schreiben Direktorium vom 09.06.17: Änderung BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen
+- TOP 9.39.: Schreiben Sozialreferat vom 09.06.17: Übersicht Unterkünfte Wohnungslose und Flüchtlinge vom Mai 2017
