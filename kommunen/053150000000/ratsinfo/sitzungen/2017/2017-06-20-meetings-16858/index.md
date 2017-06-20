@@ -1,0 +1,74 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-20T14:20:00+02:00
+- Ende: 2017-06-20T16:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16858
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16858
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Unsere Quelle e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Zuschuss 2017 an den Verein "Sozialdienst Katholischer Frauen e. V. Köln" für die Maßnahmen Mäc up Drogenprogramm und Mäc up Sexuelle Gewalt - ungeändert beschlossen
+- TOP 2.2.2: Mittelverteilung 2017 für die stadtteilorientierte Drogenhilfe an den "Sozialdienst Katholischer Frauen e. V. Köln" und Sozialdienst Katholischer Männer - ungeändert beschlossen
+- TOP 2.2.3: Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- Flüchtlingsfamilien im Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 2.2.4: Investiver Zuschuss für Baumaßnahmen des Trägers "Jugendfarm Wilhelmshof e.V." - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Bitte beachten Sie: die alsTOP 2.3.1 umgedruckte Vorlage ist als TOP 7.1.2 zu behandeln.
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung des Bolzplatzes Kreutzerstraße in Köln-Neustadt/Nord - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert beschlossen
+- TOP 4.2: Neuwahl beratender Mitglieder für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 5: Anträge aus der Politik (schriftlich)
+- TOP 5.1: Frühere Anträge
+- TOP 5.1.1: Präventionsarbeit zu sexueller Gewalt in Köln stützen - ungeändert beschlossen
+- TOP -: Präventionsarbeit zu sexueller Gewalt in Köln stützenTOP 5.1.1 Antrag Piraten AN/0210/2017 - ungeändert beschlossen
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Kinderfreundliche Kommune - geändert beschlossen
+- TOP 5.2.2: Gedenksteine für das ehemalige Kinderheim in Köln-Sülz - geändert beschlossen
+- TOP 6: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (schriftlich)
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Dringend erforderliche Kita-Flächen in Köln - Vergabe von Kita-Flächen - Sache ist erledigt
+- TOP -: "Dringend erforderliche Kita-Flächen in Köln - Vergabe von Kita-Flächen" - Kenntnis genommen
+- TOP 6.1.2: Gewaltschutzkonzept für Kölner Flüchtlingsunterkünfte - Sache ist erledigt
+- TOP -: Gewaltschutzkonzept für Kölner Flüchtlingsunterkünfte - AN/0728/2017 - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Sind Abschiebungen aus der Schule oder trotz Ausbildung in Köln möglich? - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage An/0844/2017/Piratengruppe im Rat der Stadt Köln - Kenntnis genommen
+- TOP 6.2.2: Unterbringung, Teilhabe- und Integrationschancen für unbegleitete junge Geflüchtete bei Volljährigkeit - zurückgestellt
+- TOP 6.2.3: Unterhaltsvorschuss für Alleinerziehende - zurückgestellt
+- TOP 7: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (mündlich)
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Einzug der Elternentgelte für die Kinderbetreuung - Anfrage der SPD-Fraktion AN/0721/2017 - Kenntnis genommen
+- TOP 7.1.2: Anerkennung einer Kindertagesstätte im Förderbereich Sprachförderung, Session-Nr. 0696/2017 - Kenntnis genommen
+- TOP 7.1.3: 1278/2017 - Neue Version der Kölner Service-APP - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.2: "Perspektiven von Jugendlichen auf und für die Stadt" - Konzeptentwurf zur Durchführung einer Jugendbefragung in Köln 2018 - Kenntnis genommen
+- TOP 8.2.3: Aktueller Planungsstand zur Realisierung von Jugend- und Bildungsinfrastruktur im Bereich Sürther Straße/Am Feldrain und Eygelshovener Straße - zurückgestellt
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste - Kenntnis genommen
+- TOP 8.3.1: Eröffnung des F.i.Z. - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Jugendtreff Gremberghoven - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 8.5.2: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 8.5.3: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
