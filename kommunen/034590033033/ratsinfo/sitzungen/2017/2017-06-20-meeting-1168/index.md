@@ -1,0 +1,55 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2017-06-20T17:30:00+02:00
+- Ende: 2017-06-20T20:35:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZU1YV4IXAiiJduC1W90sjHg
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1168
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQNMvlAUJgzKAJa0k4KcdGNrqVG4UFN4PXkNgB7bPIkk/Bekanntmachung_Rat_20.06.2017.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWr6Q0rpQN4KbWcYsBqPM4VrdX1MYBuITEDiGcN0E0Qc/Oeffentliches_Beschlussprotokoll_Rat_20.06.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 28.03.2017
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verweisungsbeschlüsse
+- TOP 3.2: Partnerschaftsbegegnung Wallenhorst - Stawiguda
+- TOP 3.3: Krippenplätze zum Kindergartenjahr 2017/2018
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: 1. Änderung der Geschäftsordnung für den Rat, den Verwaltungsausschuss, die Ratsausschüsse und die Ausschüsse nach besonderen Rechtsvorschriften - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Mitteilung von anzeigepflichtigen Nebentätigkeiten des Hauptverwaltungsbeamten nach § 81 Absatz 5 Nds. Kommunalverfassungsgesetz (NKomVG)
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Neufassung der Richtlinie zur Abgrenzung der Geschäfte der laufenden Verwaltung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Jugendangelegenheiten
+- TOP 6.1: Änderung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Kindertagesstätten
+- TOP 7.1: Neubau einer Kindertagesstätte für Kinder im Alter von null bis zwei Jahren (Krippenhaus) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Trägerschaft für das Krippenhaus - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Familie und Soziales
+- TOP 8.1: Erstellung eines Inklusionskonzeptes für die Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kulturangelegenheiten
+- TOP 9.1: Antrag der Freunde und Förderer der Alten Kirche zu Wallenhorst e.V. auf Bezuschussung der Sanierung des Kirchhofes einschließlich der Umfassungsmauer - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Bauleitpläne
+- TOP 10.1: Bebauungsplan Nr. 241 „Westlich und nördlich Schwarzer See“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vor- gebrachten Anregungen und Abwägungsvorschläge - mehrheitlich mit 25 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.2: Aufhebung des ´Vorhabenbezogenen Bebauungsplanes´ Nr. 227 „Östlich der Niedersachsenstraße“ in der Fassung der 1. Änderung hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vor- gebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: 7. Änderung des Bebauungsplanes Nr. W 11 „Industriegebiet“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorge- brachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Umwelt- und Energieangelegenheiten
+- TOP 11.1: Wegerandstreifen als Maßnahmeflächen für naturschutzrechtliche Kompensation - 2. Zwischenbericht und weitere Beauftragung - - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Ausbau der Ladeinfrastruktur für Elektrofahrzeuge - mehrheitlich mit 22 Ja-Stimme(n), 10 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 11.3: Fortführung der Klimaschutzaktivitäten in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 12.1: Sanierungsmaßnahme „Wallenhorst-Zentrum“ hier: Beschluss über die Erhöhung des Gesamtkosten- und Finanzierungsrahmens - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Erstellung eines Spielplatzkonzeptes für die Gemeinde Wallenhorst hier: Beschluss über das Spielplatzkonzept und über die weitere Vorgehensweise - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Genehmigung der Annahme von Zuwendungen (Zuständigkeit Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Zustimmung zur außerplanmäßigen Verpflichtungsermächtigung für Grunderwerb im Rahmen der Gewerbeflächenentwicklung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Anfrage zur Erweiterung des Aldi Marktes
+- TOP 14.2: Anzahl von Tagesordnungspunkten in einer Ratssitzung
+- TOP 14.3: Geschwindigkeitsmessgeräte an der Großen Straße
