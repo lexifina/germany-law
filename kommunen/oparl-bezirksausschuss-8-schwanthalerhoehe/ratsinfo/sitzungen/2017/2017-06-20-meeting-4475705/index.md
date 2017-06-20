@@ -1,0 +1,65 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4475705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4475705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.2.: Bauvorhaben - Nutzungsänderung Gollierstr. 45
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Das Westend - ein eigenwilliger Stadtteil
+- TOP 4.2.: Gaststätte Parkstr. 25
+- TOP 6.1.1.: Sondernutzung - Freischankfläche Schwanthalerstr. 150
+- TOP 6.2.1.: Verkauf einer städtischen Immobilie - Hans-Fischer-Str. 9 (MK3)
+- TOP 6.3.2.: Gaststättenfortführung Alter Messeplatz 8
+- TOP 6.3.3.: Gaststättenfortführung Ligsalzstr. 33
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Kinder- und Jugendrat im Westend
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Anfahrzone Kinderkrippe Kazmairstr. 25
+- TOP 8.2.2.: Straßenfest Gollierstraße
+- TOP 8.2.3.: Spendenlauf Theresiengymnasium
+- TOP 8.2.4.: MKJZ - World Neighbours Day
+- TOP 8.2.5.: Straßenfest Griechisches Haus
+- TOP 8.2.6.: Fest auf dem Gollierplatz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume
+- TOP 8.3.2.: Trappentreustraße, Straßenbauarbeiten zwischen Westendstr. und Tulbeckstr., Unterrichtung über die Aufhebung der Ausschreibung
+- TOP 8.3.3.: Hundekotbeutelbehälter am Gollierplatz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: Budget der Bezirksausschüsse Evang.-Luth. Auferstehungskirche München Konzert am 09.07.2017
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Initiative "The Practice Peace Project" Pracitce-Peace-Festival vom 11.09. - 17.09.2017
+- TOP 9.1.3.: (E) Budget der Bezirksausschüsse Musikschule am Gollierplatz Kroatisch-Deutsches Konzert am 06.07.2017
+- TOP 9.1.4.: (E) Budget der Bezirksausschüsse Verein zur Förderung ethnischer Minderheiten e.V. Vortrag zur Integration der Kurden am 25.06.2017
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Stadtbezirksbudget - weiteres Vorgehen
+- TOP 10.1.: Antrag BA 1 - Lehel, Baum-Masterplan für München
+- TOP 11.1.: Wiesnreservierung 2017
+- TOP 11.2.: Wahl der Seniorenvertretung 2017
+- TOP 12.1.: Protokoll 05-2017
