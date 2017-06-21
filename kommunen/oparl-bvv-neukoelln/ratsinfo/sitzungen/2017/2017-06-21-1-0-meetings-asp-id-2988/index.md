@@ -1,0 +1,95 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-06-21T17:00:00+02:00
+- Ende: 2017-06-21T22:50:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2988
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2988
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Pressefreiheit achten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von Mitgliedern in den Beirat für das Vivantes Klinikum Neukölln - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Bebauungsplan XIV-246 („Familienzentrum / Blueberry Inn“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Flüchtlingsunterkunft Gerlinger Straße - beantwortet
+- TOP 9.2: Veranstaltung des SPD-Kanzlerkandidaten in der Helene-Nathan-Bibliothek - beantwortet
+- TOP 9.3: Planungsstand Islamischer Friedhof - beantwortet
+- TOP 9.4: Co2-Beauftragten für Neukölln - beantwortet
+- TOP 9.5: Hostelbetrieb im Wohnhaus Weserstraße 207 - beantwortet
+- TOP 9.6: Sanierung des Sportplatzes Stubenrauchstraße - beantwortet
+- TOP 9.7: Wertstofftonne - schriftlich beantwortet
+- TOP 9.8: Sicherheitsrisiko Fahrrad? - schriftlich beantwortet
+- TOP 9.9: Vermüllter Rudower Dorfteich - schriftlich beantwortet
+- TOP 9.10: Stand Vermittlung Kiezladen Friedelstr. 54 - schriftlich beantwortet
+- TOP 9.11: Sichere Radinfrastruktur auf der Hermannstraße - schriftlich beantwortet
+- TOP 9.12: "Boykott, Desinvestition, Sanktionen" (BDS) in Neukölln - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Gymnasien bei der Inklusion in die Pflicht nehmen - beantwortet
+- TOP 10.2: Jahresbericht rechtsextreme Aktivitäten in Neukölln - überwiesen
+- TOP 10.3: Bushaltestelle "Seeadlerweg" - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Konzept zur Übernahme von Mietschulden - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Sozialmissbrauch verhindern - in der BVV abgelehnt
+- TOP 10.6: Antrag zur Änderung der Geschäftsordnung - in der BVV abgelehnt
+- TOP 10.7: Antrag zur Geschäftsordnung II - in der BVV abgelehnt
+- TOP 10.8: WLAN-Zugang in öffentlichen Gebäuden Neuköllns - beantwortet
+- TOP 10.9: Vorkaufsrecht in Milieuschutzgebieten - beantwortet
+- TOP 10.10: Biologische Vielfalt in Neukölln - beantwortet
+- TOP 10.11: Teilbebauung der Friedhöfe Hermannstraße - beantwortet
+- TOP 10.12: Neukölln weiter bei der Armutsgefährdung vorne? - vertagt
+- TOP 10.13: Sonnenallee soll Sonnenallee bleiben! - überwiesen
+- TOP 10.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.15: Abwehr von Gefahren für Leib und Leben einer Vielzahl von Bürgern - vertagt
+- TOP 10.16: Beendigung der Diskriminierung von Musliminnen mit Kopftuch - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Explizite Erwähnung der islamischen Rechtsordnung sowie der Widersprüche zur FDGO im Rechtskundekurs für Asylbewerber - in der BVV abgelehnt
+- TOP 11.2: Fahrbahnmarkierung in der Köpenicker Straße erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Neuer Sachstand zur Ermittlungsgruppe Rechtsextremismus? - vertagt
+- TOP 12.2: Bezirksparlament nicht ernst genommen?! - vertagt
+- TOP 12.3: Immer weniger Angebotsstunden in der allgemeinen Kinder- und Jugendförderung Neuköllns - vertagt
+- TOP 12.4: Auswirkungen der neuen Zumessungsrichtlinie auf die Personalsituation an Neuköllner Schulen - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Schwerlastanlieferungen von Unternehmen in Neukölln - schriftlich beantwortet
+- TOP 13.2: Städtebauförderung „Zukunft Stadtgrün“ beantragen - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Integrationspreis - überwiesen
+- TOP 14.2: Ausschilderung Heilpädagogisches Zentrum - überwiesen
+- TOP 14.3: Neukölln wird Fairtrade Town - überwiesen
+- TOP 14.4: Bibliotheksführer auf Deutsch - vertagt
+- TOP 14.5: Fußgänger- und Fahrradbrücke über den Britzer Verbindungskanal - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Müllbehälter auf dem Grünzug Britz-Buckow-Rudow - überwiesen
+- TOP 14.7: Schulweg zur Wetzlar-Grundschule sicherer machen - überwiesen
+- TOP 14.8: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - überwiesen
+- TOP 14.9: Jahresbericht linksextreme Aktivitäten in Neukölln - vertagt
+- TOP 14.10: Fußgänger- und Fahrradbrücke über den Teltowkanal - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Kostenfreiheit für die Nachfahren der Opfer des Nationalsozialismus bei der Verlegung der Stolpersteine in Neukölln - überwiesen
+- TOP 14.12: Effektive verkehrsberuhigende Maßnahmen in der Neckarstraße - überwiesen
+- TOP 14.13: Pflichtaufgaben der Bürgerämter durch Bezirke sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Sharing Neukölln - sharing heritage - überwiesen
+- TOP 14.15: Sicher zur Sporthalle Hertastraße und zurück - überwiesen
+- TOP 14.16: Ehrenamtskoordinator für Neukölln - überwiesen
+- TOP 14.17: Privatisierung kommunaler Kinder- und Jugendfreizeiteinrichtungen stoppen! - vertagt
+- TOP 14.18: Bänke Höltermannsteig - überwiesen
+- TOP 14.19: Bänke auf dem Liselotte-Berger-Platz - überwiesen
+- TOP 14.20: Zuwegung vom S-Bahnhof Sonnenallee zum Hotel Estrel attraktiv gestalten! - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Begrünte Randstreifen sind keine Parkbuchten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Hinweisschild erneuern – so werden sie auch gefunden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Personelle Verbesserung für die Neuköllner Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Kindertagesstätte in der Gropiusspassage realisieren - mit Abschlussbericht zur Kenntnis genommen
