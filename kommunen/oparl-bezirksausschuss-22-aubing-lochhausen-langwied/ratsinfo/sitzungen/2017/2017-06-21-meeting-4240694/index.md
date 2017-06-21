@@ -1,0 +1,143 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2017-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4240694
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4240694
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Kreisverwaltungsausschusses vom 16.05.17
+- TOP 10.4: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.17, Hinweis/Ergänzung
+- TOP 10.5: Beschluss der Vollversammlung vom 17.05.17
+- TOP 10.6: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.17
+- TOP 10.7: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.17
+- TOP 10.8: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 23.05.17
+- TOP 10.9: Beschluss des Kinder- und Jugendhilfeausschusses vom 22.06.17
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Bekanntgabe eines Beschlusses im Planungsausschuss vom 03.05.17 (vertagt aus 05/17)
+- TOP 2.1.2.: Fällung von Bäumen auf der Gotthardttrasse zwischen Aubing-Ost-Str. und Kastelburgstr. (vertagt aus 05/17)
+- TOP 2.1.3.: Lärmschutzwand aus Holz am Stabstahllager der Firma BTM
+- TOP 2.1.4.: Müll an der Erdbörse Nähe Paulaner
+- TOP 2.1.5.: Straßenüberquerung Lochhausener Straße; Ampelschaltung Kreuzung Seldeneckstraße
+- TOP 2.1.6.: Baustellenlärm Freiham
+- TOP 2.1.7.: Beschwerde über Fa. Schernthaner
+- TOP 2.1.8.: Vermüllung in der Lochhausener Straße
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Johannes-Tanner-Str. 3 - Altostr. 95
+- TOP 3.1.2.: Baumfällung Bodenseestraße
+- TOP 3.1.3.: Baumfällungen in Neuaubing - Gößweinsteinplatz, Schr. Baureferat vom 23.05.17
+- TOP 3.1.4.: Baumfällungen bei Bauvorhaben: - Taubertalstr. 15 - Am Lochhausener Hügel 15 (N) - Altostr. 6
+- TOP 4.1.: Weiterführende Schulen für die Kinder aus dem 22. Stadtbezirk (Jürgen Schrader, Sebastian Kriesel, Franz Federmann)
+- TOP 4.2.: Verlängerung des Fußgängertunnels am S-Bahnhof Westkreuz (Jürgen Schrader, Sebastian Kriesel)
+- TOP 4.3.: Fußgängerampel Wiesentfelser Straße anstelle Fußgängerüberweg (Reinhard Bernsdorf)
+- TOP 5.1.: Budget der Bezirksausschüsse Initiative "Erzähl-Kunst-Nacht" Veranstaltung „1. Erzähl-Kunst-Nacht“ am 30.06.2017
+- TOP 5.2.: Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Aubinger Allee
+- TOP 6.1.1.1.: Veranstaltung in städt. Grünanlagen, hier: Girls Skate Jam Teil 1 am 22.07.17 in der Skateanlage "Am Gleisdreieck", Anhörung KVR vom 23.05.17
+- TOP 6.1.1.2.: Veranstaltung im Freien in einer städt. Grünanlage, hier: Floßbau St.-Anna-Gymnasium am 20., 21., 25.07.17
+- TOP 6.1.1.3.: Münchner Stadtbibliothek, Stadtbibliothek Neuaubing, Radolfzeller Str. 15, Interimsstandort und Anmietung eines Ersatzstandortes im Neubau des Paul-Ottmann-Zentrums, Beschlussentwurf des Kulturausschusses vom 06.07.17, Anhörung Kulturreferat vom 02.06.17
+- TOP 6.1.2.1.: Flüchtlingssiedlung Langwieder Hauptstraße, Schr. Sozialreferat vom 24.05.17
+- TOP 6.1.2.2.: Anfrage zum 1. Realisierungsabschnitt Freiham, Schr. Sozialreferat vom 29.05.17
+- TOP 6.1.2.3.: Veranstaltungen / Kooperationen Juni 2017, Schr. Kulturreferat vom 06.06.17
+- TOP 6.1.2.4.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Mai 2017, Schr. Sozialreferat vom 09.06.17
+- TOP 6.1.2.5.: Ausnahmegenehmigung, Grünanlage Wiesentfelser Str., 5. Internationales Sommerfest am 01.07. und 02.07.17, Schr. KVR vom 09.06.17
+- TOP 6.1.2.6.: Internationales Sommerfest am 01. und 02.07.17, Stellungnahme KVR vom 09.06.17
+- TOP 6.1.2.7.: Erlaubnis und Gestattung, Belandwiesenweg, 17. Aubinger Weinfest am 23.06. und 24.06.17, Schr. KVR vom 09.06.17
+- TOP 6.1.2.8.: Anträge aus dem Kinder- und Jugendforum, Schr. Sozialreferat vom 07.06.17
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Weiterführende Schulen im 22. Stadtbezirk, Schr. Ref. f. Bildung u. Sport vom 16.05.17
+- TOP 6.2.2.2.: Kindergartenplatz im 22. Stadtbezirk, Schr. Ref. f. Bildung u. Sport vom 23.05.17
+- TOP 6.2.2.3.: Sportplatz am Überlinger Weg, Schr. Baureferat vom 29.05.17
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsplanung im Münchner Westen, Vergabe von Beratungs- und Gutachterleistungen, Anhörung Planungsreferat vom 30.05.17
+- TOP 6.3.1.2.: Straßenverlaufsänderungen Freihamer Weg und Hörweg, Anhörung Kommunalreferat vom 22.05.17
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordung, hier: Einrichtung eines absoluten Haltverbotes Clarita-Bernhard-Straße, Wendehammer, Anhörung KVR vom 29.05.17
+- TOP 6.3.1.4.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines absoluten Haltverbotes Streitbergstr. gegenüber Hausnr. 2, Anhörung KVR vom 29.05.17
+- TOP 6.3.1.5.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines absoluten Haltverbotes Hufschmiedstr., Wendehammer, Anhörung KVR vom 29.05.17
+- TOP 6.3.1.6.: Verkehrsrechtliche Anordnung, hier: Einrichtung von absoluten Haltverboten Germeringer Weg, Anhörung KVR vom 29.05.17
+- TOP 6.3.1.7.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines Fußgängerüberweges, Einrichtung von Bushaltestellen, Verlängerung der Tempo-30-Zonen, Verlängerung des absoluten Haltverbotes, Anhörung KVR vom 29.05.17
+- TOP 6.3.1.8.: ÖPNV-Erschließung Freiham, Systemvergleich Tram / U-Bahn, Anhörung Planungsreferat vom 02.06.17
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Änderung des Abbiegepfeils an der Kreuzung Bodensee-/ Hans-Steinkohl-Str., Schr. KVR vom 30.05.17
+- TOP 6.3.2.2.: Ausbau der B 471 West zur Entlastung der A99 und Erhöhung der Kapzitäten an den Knotenpunkten A8 und A92, Schr. Planungsreferat vom 18.05.17
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines Haltverbotes Colmdorfstr., Schr. KVR vom 04.05.17
+- TOP 6.3.2.4.: Arbeiten im Straßenraum vom 06.06.-14.07.17, Freihamer Weg, Neubau Straßenkanal, Schr. KVR vom 12.05.17
+- TOP 6.3.2.5.: Federseestraße / Mettnauer Straße, Einrichtung eines Haltverbotes, Schr. KVR vom 12.05.17
+- TOP 6.3.2.6.: Ausbau der Mariabrunner Straße, Schr. Baureferat vom 19.05.17
+- TOP 6.3.2.7.: 30er Schilder am Langwieder Bach; S-Bahn bis Gröbenzell - 1 Streifen weniger; Wiese am Aubinger Wasserturm, Schr. KVR vom 22.05.17 und Schr. Ref. f. Arbeit u. Wirtschaft vom 22.05.17
+- TOP 6.3.2.8.: Zustand südlich der Mainaustraße; Zustand der Bushaltestelle Überlinger Weg, Schr. KVR vom 02.06.17 und Schr. SWM vom 24.05.17
+- TOP 6.3.2.9.: Parken Hufschmiedstraße, Schr. KVR vom 29.05.17
+- TOP 6.3.2.10.: Rossittener Straße, Sanierung des Fahrbahnbelages, Schr. Baureferat vom 23.05.17
+- TOP 6.3.2.11.: Kinder- und Jugendforum; Clarita-Bernhard-Straße; Übergang bzw. Haltverbot auf Höhe des Spielplatzes, Schr. KVR vom 23.05.17
+- TOP 6.3.2.12.: Parkverbot in der Kurve der Papinstraße, Schr. KVR vom 30.05.17
+- TOP 6.3.2.13.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines absoluten Haltverbotes Hoheneckstraße, Schr. KVR vom 04.05.17
+- TOP 6.3.2.14.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen, Schr. Direktorium vom 09.06.17
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Schubinweg 3, Schulbauoffensive - Errichtung einer temporären Schuleinheit mit 4 Klassen + Speiseraum für eine Grundschule
+- TOP 6.4.1.2.: Freihamer Weg, Freiham Nord / WA 4 - Neubau einer öffentl. geförderten Wohnanlage mit 6-gruppigem Haus für Kinder, einer Hausverwaltung der GWG, einem Nachbarschaftstreff und einer Tiefgarage
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 15.05.-21.05.17, 22.05.-28.05.17, 29.05.-04.06.17
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München: Stichtage - 15.05.-19.05.17, 22.05.-26.05.17, 29.05.-02.06.17
+- TOP 6.4.2.3.: Müll entlang des Baches von der Langwieder Hauptstraße zur Lochhausener Straße, Schr. Baureferat vom 24.05.17
+- TOP 6.4.2.4.: Müll am S-Bahnhof Lochhausen, Schr. Baureferat vom 24.05.17
+- TOP 6.4.2.5.: Zuschnitt der Hecke in der Eichenauer Straße, Schr. Baureferat vom 24.05.17
+- TOP 6.4.2.6.: Müllablagerungen Ecke Clarita-Bernhard-Straße / Ecke Anton-Böck-Straße, Schr. Ref. f. Gesundheit u. Umwelt vom 24.05.17
+- TOP 6.4.2.7.: Festlegung von Benutzungszeiten des Spielplatzes in der Grünanlage an der Hornberger Straße, Kennzeichnung der Grünanlage nördliche Hornberger Straße, Schr. Baureferat vom 24.05.17
+- TOP 6.4.2.8.: Bauprogramm Schulpavillons 2016, Schulpavillon Schubinweg 3, Lärmschutzwand, Schr. Baureferat vom 30.05.17
+- TOP 6.4.2.9.: Vollz. d. abfall- und immissionsschutzrechtlichen Bestimmungen; Änderung der Abfallentsorgungsanlage der Thyssen Dück Rohstoffhandel GmbH & Co KG, Rupert-Bodner-Str. 25, Errichtung einer Aufbereitungs- und Lagerhalle, Änderungsgenehmigung, Schr. Ref. f. Gesundheit u. Umwelt vom 06.06.17
+- TOP 6.4.2.10.: Vollz. d. Grünanlagensatzung; Ausnahmegenehmigung, Kabelführung entlang der Pretzfelder Str. vom 29.07.17-28.07.18, Schr. KVR vom 26.04.17
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Tausch einer städt. Immobilie, hier: Wiesentfelser Str. westlich, Flst. 3740, Anhörung Kommunalreferat vom 23.05.17
+- TOP 7.2.: Straßenbenennung im 22. Stadtbezirk, Benennung von 12 Straßen in Freiham-Nord, Anhörung Kommunalreferat vom 29.05.17
+- TOP 7.3.: Verkauf einer städt. Immobilie, hier: Aubing-Ost-Straße, Flst: 1603/5, Anhörung Kommunalreferat vom 18.05.17
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Soldhofstr., Schr. Sozialreferat vom 12.05.17 - Lichtenfelser Str., Schr. Sozialreferat vom 22.05.17
+- TOP 8.3.: Unveränderte Fortführung: - Schank- und Speisewirtschaft "Ganita Cafe", Bodenseestr. 222, Schr. KVR vom 31.05.17
+- TOP 8.4.: Ausnahmezulassung für die im Rahmen der Durchführung von Mäharbeiten des Straßenbegleitgrüns notwendige Betrieb, Schr. Ref. f. Gesundheit u. Umwelt vom 21.04.17
+- TOP 8.5.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3521/27, 3521/25, 1209/8, 1209/4, 1208/5, 1210/16 Aubing, nähe Freihamer Weg, Schr. Kommunalreferat vom 31.05.17
+- TOP 10.1.1.: (U) "Dialog-Display" in München
+- TOP 10.4.1.: (U) Bebauungsplan mit Grünordnung Nr. 2105 Bundesautobahn A 8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich) (Teiländerung des Bebauungsplanes Nr. 2075) „Sondergebiet Getränkelogistik“ - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 10.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.3.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 10.4.4.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Berreich IV/25 - Mühlangerstraße / Langwied
+- TOP 10.5.1.: (U) Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz Empfehlung Nr. 14-20 / E 01299 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 24.11.2016
+- TOP 10.5.2.: (U) Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 10.6.1.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 10.7.1.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 10.8.1.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 10.9.1.: (U) Errichtung eines Neubaus für die offene Einrichtung für Jugendliche Freizeitstätte "AWO&#039;s Fredl" in der Bodenseestraße 186 Träger: AWO München gemeinnützige Betriebs-GmbH 22. Stadtbezirk Aubing - Lochhausen - Langwied Produkt 3.1.1 Kinder- und Jugendarbeit 1. Zustimmung zur Planung 2. Genehmigung des vorläufigen Nutzerbedarfsprogramms 3. Erteilung des Vorplanungsauftrages
+- TOP 11.1.: Antrag BA 11: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHM
+- TOP 11.2.: SWM Trinkwasser-Projekt Langwieder Hauptstraße, Schr. SWM vom 29.05.17
+- TOP 11.3.: Oktoberfest 2017; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Schr. 3. Bürgermeisterin vom 30.05.17
+- TOP 11.4.: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidatinnen und Kandidaten am 04.10.17 ab 15.00 Uhr im ASZ Aubing, Am Aubinger Wasserturm 30, Schr. Sozialreferat vom 01.06.17
+- TOP 11.5.: Einladung zum Dialog 1 Planungsziele zum Wettbewerb, Freiham Nord 2. Realisierungsabschnitt am Montag, den 26.06.17 ab 18.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 19.07.17 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 12.06.17 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, 20.06.17 um 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 14.06.17 um 19.00 Uhr, Limesstr. 81 - UA Soziales/Familie/Senioren/Kultur: Dienstag, 13.06.17, 19.00 Uhr, Friedrichshafener Str. 11
