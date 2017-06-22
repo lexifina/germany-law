@@ -1,0 +1,54 @@
+# 5. öffentliche Sitzung des Ausschusses für Umwelt, Naturschutz, Tiefbau, Landschaftsplanung und Bürgerbeteiligung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-06-22T17:30:00+02:00
+- Ende: 2017-06-22T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=60
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3753
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3753
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 18.05.2017 - erledigt
+- TOP 3: Vorstellung des Grünflächenamtes (maximal 10 Minuten) - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Sonderausschuss "Entwicklung und Pflege des Grunewald-Seengebietes" einsetzen - im Ausschuss abgelehnt
+- TOP 4.2: „Schmuddelplätzchen“ aufräumen! - vertagt
+- TOP 4.3: Sicheres Fahrradfahren auf der Albrechtstraße - im Ausschuss abgelehnt
+- TOP 4.4: Parks Range I – Grüne Mitte sichern – Naherholung ermöglichen - vertagt
+- TOP 4.5: Busspur in Zehlendorf-Mitte - vertagt
+- TOP 4.6: Busbeschleunigung Zehlendorf-Mitte – Busspur in der Potsdamer Straße - vertagt
+- TOP 4.7: Weiterbetrieb des Flughafens Tegel - erledigt
+- TOP 4.8: Parks Range: Bürger kontinuierlich informieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.9: Radwegeplan: warum, wie, womit und wohin? - im Ausschuss abgelehnt
+- TOP 4.10: Videoüberwachung - im Ausschuss abgelehnt
+- TOP 4.11: Kreuzung Baseler/ Curtiusstraße alters- und verkehrssicherer machen - vertagt
+- TOP 4.12: Öffentliche Erleichterung Teil1 - Ausschreibung für den Betrieb öffentlicher Toiletten flexibel gestalten - im Ausschuss abgelehnt
+- TOP 4.13: Öffentliche Erleichterung Teil 2 – WCs im Bezirk sichern - im Ausschuss abgelehnt
+- TOP 4.14: Friedhöfe keine Orte für qualvollen Tod von Kleinsäugern und Jungvögel - mit Änderungen im Ausschuss beschlossen
+- TOP 4.15: Sanierung der Fahrbahn in der Klingsorstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.16: Blindengerechte Bürgersteige - vertagt
+- TOP 4.17: Dringend notwendige Sanierung des Fahrradweges Kaiser-Wilhelm-Straße zwischen Zietenstraße und Seydlitzstraße in Richtung Lankwitz Kirche - vertagt
+- TOP 4.18: Waldfriedhof Zehlendorf pflegen - vertagt
+- TOP 4.19: Spielende Kinder auf Spielplätzen besser schützen - vertagt
+- TOP 4.20: Zusätzliche Müllbehälter im öffentlichen Straßenland im Bereich Borstell- und Stephanstraße - vertagt
+- TOP 4.21: Pflegeintervalle bei den Spielplätzen erhöhen - vertagt
+- TOP 4.22: Fußgängerüberweg Steglitzer Damm in Höhe Buhrowstraße - vertagt
+- TOP 4.23: Die Treppen vom S-Bahnhof Sundgauer Straße zur Kilstetter bzw. Brettnacher Straße auch im Winter benutzbar machen - vertagt
+- TOP 4.24: Zebrastreifen Bolchener/ Sundgauer Straße sicherer machen - vertagt
+- TOP 4.25: Mehr Sicherheit vor dem Kindergarten der Stephanus-Kirchengemeinde in der Mühlenstraße/ Sundgauer Straße - vertagt
+- TOP 4.26: Bessere Sicht in der Kilstetter Straße - vertagt
+- TOP 4.27: Sauberer Kiez um den S-Bahnhof Sundgauer Straße - vertagt
+- TOP 4.28: Radweg Bismarckstraße - vertagt
+- TOP 4.29: Entwurzelten Baumstumpf auf Indianerspielplatz in Lankwitz entfernen - vertagt
+- TOP 4.30: Parkbänke erneuern - vertagt
+- TOP 4.31: Spielplätze sicherer machen: Altersbeschränkung - vertagt
+- TOP 4.32: Zweiter Eingang für den Friedhof Lankwitz - vertagt
+- TOP 4.33: Auf Orientierungsnummern hinweisen - vertagt
+- TOP 4.34: Mehr attraktive Grillflächen in Steglitz-Zehlendorf - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verschiedenes - erledigt
