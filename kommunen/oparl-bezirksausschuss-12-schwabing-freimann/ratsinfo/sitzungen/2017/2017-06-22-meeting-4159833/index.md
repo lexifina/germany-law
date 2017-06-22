@@ -1,0 +1,136 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-06-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4159833
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4159833
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 8.2.: Besetzung des Ferienausschusses und Wahl der/des Vorsitzenden des Ferienausschusses 2017
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Baumfällungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Neuer Schaukasten für BA-Informationen (Initative: Gunhilde Peter)
+- TOP 7.1.: Modernisierung der Internetversorgung des städtischen Atelierhauses am Domagkpark
+- TOP 7.2.: Internet für BA-Sitzungen
+- TOP 8.1.: BA Sitzungskalender BAG Mitte 2018, Sitzungstermine 2018 für den BA 12
+- TOP 9.1.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
+- TOP 9.2.: Oktoberfest 2017, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 10.1.: Namensgebung für die Verlängerung der Edmund-Rumpler-Straße a. Aufhebung des BA-Beschlusses vom 25.04.2017 b. BA-Beschluss zur Anhörung der Straßenbenennung
+- TOP B.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Emissionsabhängige Regelungen zur Schadstoffbegrenzung
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Grün in der Stadt – Plan für mögliche neu zu pflanzende Bäume Empfehlung Nr. 14-20 / E 01088 der Bürgerversammlung des Stadtgebietes 12 Schwabing-Freimann am 14.07.2016
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Haltverbote Stengelstraße
+- TOP 3.2.1.: Erinnerungsverfahren, Leopoldstraße 23 und 59-65
+- TOP 3.2.2.: Erinnerungsverfahren, Hohenzollernstraße 82-84
+- TOP 4.1.: Entsorgung von Gewerbemüll in öffentlicher Mülltonne
+- TOP 4.2.: Bäume in der Herzogstrasse in schlechtem Zustand
+- TOP 4.3.: Verbesserungen des Verkehrs in Schwabing
+- TOP 4.4.: Zeitliche Beschränkung des Parkstreifens in der Anni-Albers-Straße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Tram-Einrückstrecke Parzivalstraße für Personebeförderung freigeben
+- TOP 5.1.2.: Antwort des Referats auf ein weitergeleitetes Bürgeranliegen, 3-5 Kurzzeitparkplätze in der Fröttmaninger Straße, C.4.1-04/17
+- TOP 5.1.3.: Sicherheit an der Kreuzung Wilhelm-/Kaiserstraße
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: KiClub Kindertagessstätte in der Leopoldstraße 252, Abfahrtszone für Eltern
+- TOP 5.2.2.: Arbeiten im Straßenraum, Lilienthalallee / Edmund-Rumpler-Straße, Umbauarbeiten im Krezungsbereich
+- TOP 5.2.3.: Grasmeierstraße; Einrichtung von Haltverboten mit dem Zusatz „Feuerwehranfahrtszone einschl. Gehweg“
+- TOP 5.2.4.: Haltverbote nach Zeichen 283 StVO im Gebiet Kieferngarten
+- TOP 5.3.1.: Stadtratsantrag „Ein Bahnskandal erster Güte?! Stadtrat umgehend über Planungsstand der Verbindungsstraße zwischen dem Frankfurter Ring und dem Euroindustriepark in Freimann informieren“, Antrag Nr. 14-20 / A 03081
+- TOP 5.3.2.: (U) Handlungsprogramm Mittlerer Ring - Tunnel Englischer Garten 1. Bedarfs- und Konzeptgenehmigung 2. Antrag Beim Münchner Tunnelbau die Möglichkeit einer öffentlich-privaten Partnerschaft (ÖPP) prüfen Antrag Nr. 14-20/ A 01512 der Stadtratsgrupierung ALFA vom 09.11.2015
+- TOP 5.3.3.: (U) Bebauungsplan mit Grünordnung Nr. 1982 a Ingolstädter Straße (östlich), Stadtgrenze (südlich) - Sportgelände an der Ingolstädter Straße - im 12. Stadtbezirk Schwabing - Freimann Herstellung einer Fuß- und Radwegverbindung (Teil B) Kenntnisnahme von der Ausführungsgenehmigung des Projektes auf dem Verwaltungsweg
+- TOP 5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.5.: Flyer der SWM, Trinkwasserprojekt Fröttmaninger Straße
+- TOP 5.3.6.: Information über das Betriebskonzept der Linie U6 während der Weichen- und Gleiserneuerung am U-Bahnhof Kieferngarten vom 27.05. bis 06.08.2017
+- TOP 5.3.7.: (U) "Dialog-Display" in München
+- TOP 5.3.8.: Vollzug des Bundes-Immissionsschutzgesetzes, Ausnahmegenehmigung
+- TOP 5.3.9.: Information über das Betriebskonzept während der Erneuerung der Fahrtreppen am Marienplatz vom 12.06.17 – 29.06.17
+- TOP C.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Arbeitnehmerfreundliche Öffnungszeiten für das Ungererbad
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion von August - September 2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Freizeittreff Freimann Spielfest am 02.08.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Jugendtreff am Biederstein Neugestaltung der Fußgängerunterführung Ungerer-/Ecke Leopoldstraße vom 28.04. - 01.05.2017
+- TOP 2.4.: (E) Budgets der Bezirksausschüsse Domagkateliers gem. GmbH Offene Ateliertage vom 23. - 25.06.2017
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Blütenring e.V. Theatertage im Amphitheater am 23.07.2017 und 30.07.2017
+- TOP 3.: Anhörungen
+- TOP 3.1.: Carl-Orff-Bogen, Spielefest am 02.08.2017
+- TOP 3.2.: Soziale Infrastruktur für das Neubaugebiet, Parkstadt Schwabing; Stadtbezirk 12 Teileigentumserwerb / Anmietung von Räumen, für ein Familienzentrum mit Kindertreff Bebauungsplan-Nr. 1781
+- TOP 3.3.: Domagkparkfest am 22.07.2017 in der Fritz-Winter-Straße
+- TOP 3.4.: Sommerfest Gemeinschaft Sant´Egidio am 30.07.2017, Adam-Erminger-Platz
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Situation an der Ricarda-Huch-Realschule durch Teilung in Haupthaus und Campus
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: (E) Zentrales Bewohnerzentrum in der Parkstadt Schwabing Empfehlung Nr. 14-20 / E 01079 der Bürgerversammlung des Stadtbezirks 12 - Schwabing-Freimann am 14.07.2016
+- TOP 5.2.1.: Karl-Köglsperger-Straße 17
+- TOP 5.2.2.: Leopoldstraße 19
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Grundschulen - Fröttmaninger Straße 21 - Bauhausplatz 9
+- TOP 5.3.2.: (U) Sanierung der Kita Haimhauserstraße
+- TOP 5.3.3.: Bericht über die Verwendung von Mitteln aus dem Budget des Bezirksausschusses
+- TOP 5.3.4.: Eilentscheidung des Vorsitzenden zur Veranstaltungsanhörung „Straßenfest Obere Hausbreite für den 20.05.2017“
+- TOP 5.3.5.: Eilentscheidung des Vorsitzenden zur Veranstaltungsanhörung „Verlängerung der Veranstaltung „Auf zu neuen Schafen“ bis 11.08.2017“
+- TOP 5.3.6.: Verwendungsnachweis, Bericht über das Tanzprojekt des Musicals Grease
+- TOP 5.3.7.: Wahl der Seniorenvertretung 2017 – Vorstellung der Kandidatinnen und Kandidaten
+- TOP D.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Genehmigung einer Freischankfläche, Hohenzollernstraße 25
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Gertrud-Grunow-Straße, Neubau von Studenten- und Ausbildungswohnungen mit TG, Gemeinschafts-, Büro-, Beratungs- und Unterrichtsräumen sowie Gewerbeflächen
+- TOP 3.1.2.: Auwiesenweg 9a, Neubau eines Doppelhauses mit Fertiggarage und Carport
+- TOP 3.1.3.: Floriansmühlstraße 60, Neubau Aktualitätenzetnrum und Wellenhaus
+- TOP 3.1.4.: Finauerstraße 14, eine Robinie
+- TOP 3.1.5.: Lillweg 44, eine Esche
+- TOP 3.1.6.: Wilhelmstraße 9, ein Berg-Ahorn
+- TOP 3.1.7.: Herzogstraße 23, ein Laubbaum
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Peter-Paul-Althaus-Straße 15, Errichtung einer Loggia auf einem Mehrfamilienhaus
+- TOP 3.2.2.: Franzstraße 5, Neubau dreier Mehrfamilienhäuser – VORBESCHEID
+- TOP 3.2.3.: Leopoldstraße, Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.2.4.: Hohenzollernstraße 26, Aufstockung des Rückgebäudes an eine bestehende Brandwand - VORBESCHEID
+- TOP 3.2.5.: Antonienstraße 1, DG- und Dachspitzenausbau eines denkmalgeschützten Büro- und Mehrfamilienhauses mit Treppenhaus- und Aufzugserhöhung, Errichtung zweier Wohneinheiten im DG und Dachspitz sowie Einbau eines Mülllifts im UG
+- TOP 3.2.6.: Werner-Heisenberg-Allee 25, Allianz Arena Münchzen – Einhausungen E02
+- TOP 3.2.7.: Alois-Wolfmüller-Straße 1, Neubau Parkhaus und Werkstattgebäude
+- TOP 3.2.8.: Heidemannstraße 60 / Gebäude 40, Unterbringung von Flüchtlingen
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Planunterlagen in digitaler Form, überfraktioneller Antrag des BA 12
+- TOP 5.1.2.: Antwort auf die Anfrage des BA 12, BA Anfrage B.5.3.6 aus dem April 2017
+- TOP 5.2.1.: Potsdamer Straße 14-18, Germaniastraße 23
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 5.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.3.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 5.3.4.: B-Plan 1982a – Sportgelände an der Ingolstädter Straße (Teil B), Informationsschreiben
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
