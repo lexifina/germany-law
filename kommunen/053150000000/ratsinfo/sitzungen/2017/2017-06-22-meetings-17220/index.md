@@ -1,0 +1,100 @@
+# 23. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-22T17:02:00+02:00
+- Ende: 2017-06-22T19:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17220
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17220
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00616619.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00616619.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00616619.pdf
+
+## Tagesordnung
+
+- TOP -: Besuch/Vorstellung des Stadtdirektors Dr. Keller
+- TOP -: Hallen Kalk - Kein Probebetrieb des Schauspiels in der Halle 75 in Köln-Kalk - ungeändert beschlossen
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Eingabe für die Einwohnerfragestunde gemäß § 39 der „Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln“ zur 22. Sitzung der Bezirksvertretung Kalk in der Wahlperiode 2014/2020 - Anfrage von Herrn M. Kreische - Kenntnis genommen
+- TOP 1.2: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 21.03.2017 betr. Absenkung des Bürgersteiges in der Weimarer Straße vor dem Paul-Schwellenbach-Haus, Weimarer Straße 15 in Köln-Höhenberg - Kenntnis genommen
+- TOP -: Absenkung des Bürgersteiges in der Weimarer Straße vor dem Paul-Schwellenbach-Haus Weimarer Straße 15 - Kenntnis genommen
+- TOP 1.3: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 21.03.2017 betr. Anlage von Bestattungsgärten im Kalker Friedhof in Köln-Merheim - Kenntnis genommen
+- TOP -: Anfrage der Seniorenvertretung in Bezirk 8 zur Errichtung von Bestattungsgärten auf dem Friedhof Kalk in Merheim - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO Einrichtung einer „echten“ Einbahnstraße „Auf der Bitze“ und Verkehrslenkung in den Straßen „Rather Schulstraße“ und „In der Hütte“ AZ.: 02-1600-33/17 - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Geschwindigkeitsregelung für das Neubaugebiet Peter-Hagen-Str./Otto-Unger-Weg in Köln-Brück (Az.: 02-1600-164/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Trägeranteil für regionale Stiftungen als Kindergartenträger - endgültig abgelehnt
+- TOP 7.2: „Mehr Sicherheit auf Kölner Straßen und Plätzen“ - Ordnungsdienst auch vor Ort im Veedel stärken - endgültig zurückgezogen
+- TOP 7.3: Prüfauftrag zur Änderung der Linienführung der KVB-Buslinie 157 in Köln-Ostheim in Fahrtrichtung Ostheim - ungeändert beschlossen
+- TOP 7.4: Ein Bus für Vingst! - ungeändert beschlossen
+- TOP 7.5: Anregung an den Stadtentwicklungsausschuss zur Neuregelung des Zeitpunk-tes für den Beginn der Grünausgleichsmaßnahmen in städtebaulichen Verträ-gen mit Vorhabenträgern - ungeändert beschlossen
+- TOP 7.6: Installation einer Straßenbeleuchtung auf dem Rather Kirchweg und Brück-Rather-Steinweg in Köln-Rath/Heumar, -Brück und -Neubrück - endgültig abgelehnt
+- TOP 7.7: Beflaggung des Bezirksrathauses Kalk im Rahmen der in Köln stattfindenden Demonstration zum CSD sowie des ColognePrides - ungeändert beschlossen
+- TOP 7.8: Durchführung einer Sondersitzung als „Jugendsitzung in der Bezirksvertretung Kalk“ - geändert beschlossen
+- TOP 7.9: Verstärkte Kontrollen durch das Ordnungsamt im Geltungsbereich der neu eingeführten Parkraumbewirtschaftung in Kalk West - zurückgestellt
+- TOP 7.10: Angleichung von Straßenniveau und Bürgersteig an der Kreuzung Eiler Straße/Rösrather Straße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.11: Sicherung der Gleisanlagen an der Haltestelle Röttgensweg in Köln-Rath/Heumar vor unberechtigtem Betreten - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Bedarfsfeststellungsbeschluss für die Vergabe einer Planungsleistung - ungeändert beschlossen
+- TOP 8.1.2: Zuwendung aus dem städtischen Aktivierungsfonds für drei Projekte im Sozialraum Humboldt/Gremberg und Kalk - ungeändert beschlossen
+- TOP 8.1.3: Zuwendung aus dem städtischen Aktivierungsfonds für drei Projekte im Sozialraum Höhenberg und Vingst - Alternative beschlossen
+- TOP 8.1.4: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: 3. Nahverkehrsplan der Stadt Köln - geändert beschlossen
+- TOP -: 3. Nahverkehrsplan der Stadt Köln“ (Vorlagen-Nr. 0958/2017) - ungeändert beschlossen
+- TOP 8.2.2: Änderung der Zuständigkeitsordnung der Stadt Köln - geändert beschlossen
+- TOP 8.2.3: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert beschlossen
+- TOP 8.2.4: Seniorenkoordination im Stadtbezirk - ungeändert beschlossen
+- TOP 8.2.5: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - geändert beschlossen
+- TOP -: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende (Vorlagen-Nr. 1183/2017) - ungeändert beschlossen
+- TOP 8.2.6: Standorte zur Errichtung von temporären Unterkünften für Geflüchtete - Genehmigung und Baubeschluss - ungeändert beschlossen
+- TOP 8.2.7: Satzung über die abweichende Herstellung der Erschließungsanlage Friederike-Nadig-Weg/Marion-Dönhoff-Weg von Astrid-Lindgren-Allee bis Astrid-Lindgren-Allee in Köln-Brück - ungeändert beschlossen
+- TOP 8.2.8: Zügigkeitserweiterung der Käthe-Kollwitz-Schule, Realschule Petersenstraße 7, 51109 Köln in Köln-Brück zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 8.2.9: Optimiertes Buskonzept für Mülheim Süd, Kalk und Vingst - geändert beschlossen
+- TOP 8.2.10: Bedarfsfeststellungsbeschluss über die bedarfsgerechte Umgestaltung der Stadtteilbibliothek Kalk - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Ersatzneubau Brücke Frankfurter Str. (B8)/Stadtautobahn (B55a) - Beantwortung von Fragen - Kenntnis genommen
+- TOP 9.1.2: Städtische Liegenschaft Dillenburger Str. 63-67, Rodungsarbeiten - Kenntnis genommen
+- TOP 9.1.3: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes (0294/2017) - Kenntnis genommen
+- TOP 9.1.4: Sanierung der Gehwege in der Weimarer Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.5: Absenkung des Bodens in der Germaniasiedlung in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.6: Fahrtreppen an der Stadtbahnhaltestelle Kalk Kapelle - Kenntnis genommen
+- TOP 9.1.7: Beschlussvorlage "Förderung der Gemeinwesenarbeit in Quartieren mit besonderem Handlungsbedarf" (Vorlagen-Nr. 3869/2016) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Ausleuchtung der linken Fahrbahn im Baustellenbereich der Stadtautobahn 55a in Köln-Kalk, Einfahrt zum Tunnel von der Zoobrücke aus kommend in Fahrtrichtung Ost zur A 4 fahrend - Kenntnis genommen
+- TOP -: Ausleuchtung der linken Fahrbahn im Baustellenbereich der Stadtautobahn 55a in Köln-Kalk, Einfahrt zum Tunnel von der Zoobrücke aus kommend in Fahrtrichtung Ost zur A 4 fahrend; Anfrage zu der Sitzung am 22.06.2017, TOP 9.2.1 - Kenntnis genommen
+- TOP 9.2.2: Verlängerung der rechten Fahrbahnspur „Vingster-Ring“ (K 16) zur Frankfurter Straße (B 8) in Fahrtrichtung Nohlenweg und Abbiegung nach Ostheim - Kenntnis genommen
+- TOP 9.2.3: Fahrgastunterstand als Wetterschutz an der Bushaltestelle der KVB-Linie 157„Gewerbegebiet Broichstraße“ (Olpener Straße) in Köln-Merheim, von Dünnwald kommend in Fahrtrichtung Ostheim - Kenntnis genommen
+- TOP 9.2.4: Schranke an der Straße Kreuzchesweg in Köln-Brück - Kenntnis genommen
+- TOP 9.2.5: Umgestaltung der Germaniastraße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2.6: Neue Situation beim Molis-Hof in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.2.7: Glasunterflurcontainer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.8: Angebot von Schwimmunterricht im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Kölner Anti Spray Aktion (KASA) - Jahresbericht 2015/2016 - Kenntnis genommen
+- TOP 10.2.2: Kreuzung Baldurstraße/Rather Mauspfad/Stachelsweg in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.3: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 10.2.4: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 10.2.5: Jahresbericht 2016 der Naturschutzwacht Bezirk 8 - Kenntnis genommen
+- TOP 10.2.6: Installieren von Müllbehältern an der Olpener Straße - Kenntnis genommen
+- TOP 10.2.7: Aufhebung der 1. Änderungsverordnung zur Änderung der 1. Ordnungsbehördlichen Verordnung für 2017 vom 27.03.2017 und Verordnung über das Offenhalten von Verkaufsstellen in den Stadtteilen Neustadt-Süd, Deutz, Nippes und Rath/Heumar - Kenntnis genommen
+- TOP 10.2.8: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 10.2.9: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.10: Öffentliche Auslegung der Unterlagen zum Planfeststellungsverfahren für die ICE Neubaustrecke Köln - Rhein/Main, hier: PFA 11 Ausbau südlich Gummersbacher Strassße - Kenntnis genommen
+- TOP 10.2.11: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.12: Aufwertung des Platzes An St. Adelheid in Köln-Neubrück; hier: Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 10.2.13: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
