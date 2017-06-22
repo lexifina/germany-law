@@ -1,0 +1,54 @@
+# Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss (24. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2017-06-22T17:00:00+02:00
+- Ende: 2017-06-22T21:09:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-16
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZE-2sklKv7x5octrqknsSg
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1688
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXNX0SBcZATC44584FKdfGi10P6LTks84H42-xGvXPUH/Bekanntmachung_Bau--_Stadtentwicklungs--_Umwelt-_und_Verkehrsausschuss_22.06.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe4JVYM8FyZE2IZgRS_nf_3d1Bih_6Vhz6PjozSEHTFz/Oeffentliche_Niederschrift_Bau--_Stadtentwicklungs--_Umwelt-_und_Verkehrsausschuss_22.06.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Bürgerantrag auf Errichtung einer Calisthenics-Anlage - 10 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 4: Antrag der Grünen vom 01.03.2017 - Müll im öffentlichen Raum - Einstimmig
+- TOP 5: CDU-Fraktionsantrag: Entschärfung von Gefahrenstellen durch Spiegel - Einstimmig
+- TOP 6: CDU-Antrag: Verbesserung der Verkehrssituation insbesondere für Radfahrer im Bereich des Schulzentrums Rheda - Einstimmig
+- TOP 7: Antrag auf Verbesserung der Schulwegsicherung im Rahmen der Sanierungsarbeiten im Verlauf der Landesstraße L 791 „Ostring"; Anträge vom 03.11.2016 und 04.11.2016 - 7 Ja-Stimme(n), 4 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 8: Antrag der CDU-Fraktion: Prüfung der verkehrlichen Situation der beiden Kreuzungen Feldhüserweg und Mühlenstraße im Verlauf der Ringstraße" - Der Tagesordnungspunkt wurde zu Beginn der Sitzung abgesetzt.
+- TOP 9: Änderung der Linienführung der Regionalbuslinie 70 (Rheda-Wiedenbrück - Lippstadt) über den Ortskern von Batenhorst; hier: Antrag der CDU-Fraktion der Stadt Rheda-Wiedenbrück vom 20.03.2017 - Einstimmig
+- TOP 10: Stellungnahme der Stadt Rheda-Wiedenbrück zum 4. Nahverkehrsplan des Kreises Gütersloh im Rahmen des Beteiligungsverfahrens nach § 9 des Gesetzes über den öffentlichen Personennahverkehr in NRW (ÖPNVG NRW) - Einstimmig
+- TOP 11: FDP-Anfrage: Wirtschaftswege in Batenhorst - Kenntnisnahme
+- TOP 12: Genehmigungsantrag gemäß § 16(1) Bundesimmissionsschutzgesetz - Kapazitätserweiterung - Kenntnisnahme
+- TOP 13: Genehmigung einer Biogasanlage nach § 16 Bundesimmissionsschutzgesetz - Gemeindliches Einvernehmen nach § 36 Baugesetzbuch - Einstimmig
+- TOP 14: Fortschreibung des Einzelhandelskonzeptes der Stadt Rheda-Wiedenbrück Beschluss des Konzepts - Einzelbeschlüsse s. Anlage
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Antrag auf Aufstellung eines Bebauungsplanes Großflächiger Einzelhandel Kolpingstraße 33-35 - Einstimmig
+- TOP 17: Bebauungsplan Nr. 409 "Westring/Hauptstraße" Aufstellungsbeschluss und Anwendung des beschleunigten Verfahrens gem. § 13a BauGB - 9 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 18: 1. Änderung des Bebauungsplans Nr. 282 "Rietberger Straße" - Änderungsbeschluss - Anwendung des beschleunigten Verfahrens gem. § 13a BauGB - Einstimmig
+- TOP 19: Bebauungsplan Nr. 405 „Wohngebiet Pflug“ Beschluss über die Durchführung der frühzeitigen Beteiligungsverfahren - Einstimmig
+- TOP 20: 66. Änderung des FNP und Bebauungsplan Nr. 376 „Auf der Wöste“; Vorstellung der Planvarianten - 8 Ja-Stimme(n), 3 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 21: Umgestaltung des Doktorplatzes; Erstellung eines Planungskonzepts auf Basis einer Mehrfachbeauftragung - Einstimmig
+- TOP 22: Integriertes Stadtentwicklungskonzept für den Innenstadtbereich Rheda - Einstimmig
+- TOP 23: Integriertes Handlungskonzept | Herrichtung des Mühlenwalls - Einstimmig
+- TOP 24: Wasserforthstraße (zw. "Freiherr-v.-Stein-Allee" und Zum Galgenknapp") Widmung gemäß § 6 des Straßen- und Wegegesetzes NRW - Einstimmig
+- TOP 25: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 26: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 27: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 28: Erklärung von Ausschließungsgründen
+- TOP 29: Vertragsangelegenheit ÖPNV - Kenntnisnahme
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Geplantes Bauvorhaben - Einstimmig
+- TOP 32: 1. Änderung des Bebauungsplans Nr. 282 "Rietberger Straße" - Städtebaulicher Vertrag - Einstimmig
+- TOP 33: Vertragsangelegenheit - Einstimmig
+- TOP 34: Bekanntgabe von Auftragsvergaben - Kenntnisnahme
+- TOP 35: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 36: Dringende Anfragen und Anregungen
