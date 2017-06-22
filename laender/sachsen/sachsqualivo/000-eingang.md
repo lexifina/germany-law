@@ -1,4 +1,4 @@
 # Verordnung des Sächsischen Staatsministeriums für Kultus über die Anforderungen an die Qualifikation und Fortbildung der pädagogischen Fachkräfte in Kindertageseinrichtungen, der Kindertagespflegepersonen und der Fachberater (Sächsische Qualifikations- und Fortbildungsverordnung pädagogischer Fachkräfte – SächsQualiVO)
 erlassen als Artikel 1 der Verordnung des Sächsischen Staatsministeriums für Kultus und Sport über die Anforderungen an die Qualifikation und Fortbildung der pädagogischen Fachkräfte in Kindertageseinrichtungen, der Kindertagespflegepersonen und der Fachberater (Sächsische Qualifikations- und Fortbildungsverordnung pädagogischer Fachkräfte – SächsQualiVO) und zur Änderung der Sächsischen Integrationsverordnung
 Vom 20. September 2010
-Rechtsbereinigt mit Stand vom 30. Oktober 2016
+Rechtsbereinigt mit Stand vom 22. Juni 2017
