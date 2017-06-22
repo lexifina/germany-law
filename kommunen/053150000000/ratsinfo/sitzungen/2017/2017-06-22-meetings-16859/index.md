@@ -1,0 +1,87 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-22T15:30:00+02:00
+- Ende: 2017-06-22T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16859
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16859
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00616421.pdf
+- Ergebnisprotokoll: Tagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00616421.pdf
+- Wortprotokoll: Tagesordnung (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00616421.pdf
+
+## Tagesordnung
+
+- TOP -: Vortrag der KVB "Sachstand zum Thema E-Scooter" - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag der SVK 9 - geändert beschlossen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bedarfsfeststellungsbeschluss betr. Vergabe eines Rahmenvertrages über die Wartung und Reparatur der bühnen-, licht-, ton- und medientechnischen Anlagen sowie die Technikbetreuung bei Veranstaltungen in den städtischen Bürgerhäusern/Bürgerzentren - ungeändert beschlossen
+- TOP 3.2: Abschluss eines Rahmenvertrags für Umzüge, Transporte, Entrümpelungen in Obdachlosen-, Geflüchteten-, Asyl- und Aussiedlereinrichtungen - zurückgestellt
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert beschlossen
+- TOP 4.2: Standorte zur Errichtung von temporären Unterkünften für Geflüchtete - Genehmigung und Baubeschluss - ungeändert beschlossen
+- TOP 4.3: Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die LInke und der Gruppe Piraten zu 4.3 - abgelehnt (in der Vorberatung)
+- TOP 4.4: Ausweitung des Platzangebotes für von Gewalt betroffene Frauen im Rahmen eines Neubaus - ungeändert beschlossen
+- TOP 4.5: Benennung der Vertreterin/des Vertreters und deren Stellvertretung für den Betriebsausschuss der eigenbetriebsähnlichen Einrichtung "aKDn- sozial" - ungeändert beschlossen
+- TOP 4.6: Sachstand zur Entwicklung eines Kommunalen Beschäftigungs- und Qualifizierungsprogramms für Langzeitarbeitslose - ungeändert beschlossen
+- TOP 4.7: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 4.8: Zuschuss an den MachMit! e.V. zur Schaffung und Bereitstellung von Wohnraum für von Wohnungslosigkeit bedrohte Menschen - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Bürgerzentrum Alte Feuerwache - Baumaßnahme "Ertüchtigung der Wagenhalle" im Rahmen des Sonderprogramms NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" - ohne Votum in nachfolgende Gremien
+- TOP 4.10: Ausbau der Kommunalen Integrationszentren NRW durch das Land - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.2: Öffentlich geförderter Mietwohnungsbau - Kenntnis genommen
+- TOP 7.3: Wohnberechtigungsschein - Reduzierung der Dringlichkeitsstufen - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.2: 2. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.3: 15. Bericht zur Unterbringung und Integration von Flüchtlingen - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Mitnahme von E-Scootern bei der KVB AG - Kenntnis genommen
+- TOP 10.2: Mitnahme von E-Scootern bei der KVB AG - Kenntnis genommen
+- TOP 10.3: Mitnahmeverbot für E-Scooter bei der KVB AG - Kenntnis genommen
+- TOP 10.4: Bericht des Behindertenbeauftragten 03/2017 - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Vermittlungsstelle Seniorinnen- und Seniorenjobs" - zurückgestellt
+- TOP -: Antwort der Verwaltung zu TOP 11.1.1 - zurückgestellt
+- TOP 11.1.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Präventive Hausbesuche stärken" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage betreffend "Präventive Hausbesuche stärken" - Kenntnis genommen
+- TOP 11.1.3: Anfrage der Fraktion Die Linke betreffend "Einschränkung des gender- und kultursensiblen Beratungsangebots für erwerbslose Frauen" - zurückgestellt
+- TOP -: Einschränkung des gender- und kultursensiblen Beratungsangebots für erwerbslose Frauen - zurückgestellt
+- TOP 11.1.4: Anfrage der Piraten-Gruppe betreffend "Wie hat sich die Zahl der Abschiebungen aus Köln entwickelt?" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage betreffend "Wie hat sich die Zahl der Abschiebungen aus Köln entwickelt?" - Kenntnis genommen
+- TOP 11.1.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Wohnraum für benachteiligte Personengruppen" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage betreffend "Wohnraum für benachteiligte Personengruppen" - Kenntnis genommen
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Anfrage der Piraten-Gruppe betreffend "Widersprüche gegen Bescheide und Sanktionen des Jobcenters in Köln" - zurückgestellt
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.3: Anfrage der Fraktion Die Linke betreffend "Selbsthilfeförderung im Wohnungsbau" - zurückgestellt
+- TOP 11.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.5: Anfrage der Piraten-Gruppe betreffend "Wieso wird der Köln-Pass nicht automatisch versendet?" - zurückgestellt
+- TOP 11.2.6: Problemimmobilien in Köln – was tut die Stadtverwaltung? - zurückgestellt
+- TOP 11.2.7: Auswirkungen der Pflegestärkungsgesetze (PSG) I, II & III; hier: Beantwortung von mdl. Nachfragen zur Mitteilung 1187/2017 (Beantwortung der Anfrage AN/0279/2017) - Kenntnis genommen
+- TOP 11.2.8: Beantwortung einer mdl. Anfrage zur Vergabe der Mittel für Antirassismus-Training im Jahr 2017 (1142/2017) - Kenntnis genommen
+- TOP 11.2.9: Beantwortung einer Anfrage betreffend "Unterhaltsvorschuss für Alleinerziehende" - zurückgestellt
+- TOP 11.2.10: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2016 (Mitteilung 0563/2017), Sitzung des Ausschusses für Soziales und Senioren am 09.03.2017, ergänzende Mitteilung 1198/2017 zur Sitzung am 27.04.2017) - zurückgestellt
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Integration von geflüchteten Frauen in den Arbeitsmarkt - Kenntnis genommen
+- TOP 12.2: Wege in Arbeit – Unterstützungsmöglichkeiten für Zugewanderte - Kenntnis genommen
+- TOP 12.3: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 12.4: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 12.5: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 12.6: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - zurückgestellt
+- TOP 12.7: Beantwortung der Anfrage des Integrationsrates vom 09.01.2017 - AN/0029/2017 - zurückgestellt
+- TOP 12.8: Beantwortung einer Anfrage der Piraten-Gruppe betreffend "Gewaltschutzkonzept für Kölner Flüchtlingsunterkünfte" - AN/0728/2017 - Kenntnis genommen
