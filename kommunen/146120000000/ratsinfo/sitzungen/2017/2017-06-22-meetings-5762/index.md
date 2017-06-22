@@ -1,0 +1,66 @@
+# 40. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-06-22T16:00:00+02:00
+- Ende: 2017-06-23T21:59:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5762
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5762
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00302793.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 2.1: Organisatorisches Versagen bei BRN-Genehmigungen - erledigt
+- TOP 2.2: Investitionsbedarf im Schulbau - erledigt
+- TOP 2.3: Sondernutzungserlaubnisse für die BRN 2017 - erledigt
+- TOP 2.4: Schulnetzplan - erledigt
+- TOP 2.5: Genehmigungspraxis zur Sondernutzung des öffentlichen Raumes in Dresden - erledigt
+- TOP 2.6: Rückkehrer nach Dresden - erledigt
+- TOP 2.7: Schutz städtischer Leitungsnetze vor Anschlägen - erledigt
+- TOP 3: Aktuelle Stunde zum Thema „Fernsehturm Dresden – Reaktivierung, Finanzierung, Potentiale“ - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 4.1: Seniorenbeirat - Vertagung
+- TOP 4.2: Kleingartenbeirat - Einigung
+- TOP 4.3: Beirat des Jobcenters Dresden - Einigung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 5.1: Umbesetzung im Ortsbeirat Plauen - Vertagung
+- TOP 5.2: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 5.3: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 5.4: Umbesetzung im Ortsbeirat Cotta - Zustimmung mit Änderung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Verweisung aus dem Stadtrat vom 11. Mai 2017
+- TOP 7.1: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 8: Vertagung letzte Stadtratssitzung am 1. Juni 2017
+- TOP 8.1: Satzung zur Änderung der Elternbeitragssatzung vom 15. Mai 2014 - Vertagung
+- TOP 8.2: Dresdner Richtlinie zur sozialen Mietwohnungsbauförderung - Vertagung
+- TOP 9: Firmierung und Bestellung der Geschäftsführung der noch zu gründenden städtischen Wohnungsbaugesellschaft - Zustimmung
+- TOP 10: Erhaltungssatzungen Dresden-Blasewitz
+- TOP 10.1: Erhaltungssatzung H-46 Dresden-Blasewitz/Striesen-Nordost - Zustimmung
+- TOP 10.2: Erhaltungssatzung H 46 A Dresden-Striesen Nordost - Zustimmung
+- TOP 10.3: Erhaltungssatzung H 46 C Dresden-Blasewitz Waldparkanlage bis Schillerplatz - Zustimmung
+- TOP 10.4: Erhaltungssatzung H 46 B Dresden-Blasewitz Süd - Zustimmung
+- TOP 10.5: Erhaltungssatzung H 46 D Dresden-Blasewitz Goetheallee/Käthe-Kollwitz-Ufer - Zustimmung
+- TOP 10.6: Erhaltungssatzung H 46 E Dresden-Blasewitz Ost - Zustimmung
+- TOP 11: Förderung von Kreativräumen in der Landeshauptstadt Dresden mittels Zuschuss (Kreativraumförderung) - Zustimmung mit Änderung
+- TOP 12: Feststellung der Jahresabschlussergebnisse 2015 einschließlich des Anhanges mit Anlagen und des Rechenschaftsberichtes mit Anlagen - Zustimmung
+- TOP 13: Entgeltkatalog des Eigenbetriebes Sportstätten Dresden; Satzung der Landeshauptstadt Dresden über die Erhebung von Gebühren für die Benutzung von Sportstätten und die außerschulische Nutzung von Schulsportanlagen (Sportstättengebührensatzung); Satzun - Zustimmung mit Änderung
+- TOP 14: Richtlinie der Landeshauptstadt Dresden über die Förderung des Sportes (Sportförderrichtlinie) - Zustimmung mit Änderung
+- TOP 15: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2017/2018 - Zustimmung
+- TOP 16: Konzept zur Verbesserung der Personalausstattung in Kindertagesstätten für Krankheitsfälle und konkrete Bedarfslagen - Verweisung
+- TOP 17: Gesamtsanierung und Erweiterung der 84. Grundschule "In der Gartenstadt", Heinrich-Tessenow-Weg 28 in 01109 Dresden - Zustimmung
+- TOP 18: Einrichtung des Gymnasiums Seidnitz in der Planungsregion Linkselbisch Ost (LEO) - Verweisung
+- TOP 19: Bestätigung der Marketingstrategie der Dresden Marketing GmbH (DMG) 2017/2018 unter besonderer Berücksichtigung des Tourismus - Zustimmung
+- TOP 20: Fortschreibung des Aktionsplans der Landeshauptstadt Dresden zur Umsetzung der UN-Behindertenrechtskonvention - Zustimmung mit Änderung
+- TOP 21: Bebauungsplan Nr. 395, Dresden-Briesnitz Nr. 2, Grundschulstandort "Am Lehmberg" - Zustimmung
+- TOP 22: Vorhabenbezogener Bebauungsplan Nr. 690, Dresden-Nickern, Ansiedlung BAUHAUS-Baumarkt - Zustimmung
+- TOP 23: Ausübung von Straßenmusik, Straßenkunst und Straßenmalerei auf öffentlichen Straßen in der Landeshauptstadt Dresden - Ersetzung - punktweise Abstimmung
+- TOP 24: Teilgebiets-Lärmaktionsplan Äußere Neustadt (2016) - Verweisung
+- TOP 25: Digitale Zukunft in ganz Dresden sichern! - Zustimmung
+- TOP 26: Sanierung des ehemaligen Wohnhauses zum Kinderbauernhaus auf dem Kinder- und Jugendbauernhof Nickern - Zustimmung mit Ergänzung
+- TOP 27: Aktualisierung von Stadtentwicklungszielen durch Aufgabe veralteter Beschlüsse - Zustimmung mit Änderung
+- TOP 28: Klimaschutzziele der Stadt erfüllen - Nutzung von Solarenergie beim städtischen Hochbau - Vertagung
