@@ -1,0 +1,110 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-06-22T09:28:00+02:00
+- Ende: 2017-06-22T14:35:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1699
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1699
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 1.1.1.1.1: Freiflächenentwicklungskonzept (Antrag Nr. 114/17) - Kenntnisnahme
+- TOP 2: Bestellung stellvertr. Schriftführerin HFD - einstimmig
+- TOP 3: Beschwerde § 24 GO - GrdSt B - mehrheitlich bei
+- TOP 4: Schriftliche Anträge - einstimmig
+- TOP 4.1: CDU
+- TOP 4.1.1: Bedarfsgerechte Planung von KITA´s und Schulen (inkl. OGATA´s) (Antrag Nr. 145/17) - Kenntnisnahme
+- TOP 4.2: SPD
+- TOP 4.3: UWG/ABG
+- TOP 4.3.1: Haushaltsentwurf 2018 (Antrag Nr. 97/17) - einstimmig
+- TOP 4.3.2: Erstellung eines Sportstättenkonzeptes (Antrag Nr. 96/17) - mehrheitlich bei
+- TOP 4.3.3: Grundbesitzabgabenbescheide online zustellen (Antrag Nr. 149/17) - einstimmig
+- TOP 4.3.4: Agile Formen der Arbeitsorganisation nutzen (Antrag Nr. 153/17) - einstimmig
+- TOP 4.3.5: Implementierung eines strategischen Gebäudemanagements (Antrag Nr. 154/17) - einstimmig
+- TOP 4.3.6: Zentralen Bürgerservice einführen (Antrag Nr. 152/17) - einstimmig
+- TOP 4.3.7: Verlängerung des Fischereischeins online ermöglichen (Antrag Nr. 156/17) - einstimmig
+- TOP 4.4: FDP
+- TOP 4.4.1: Digitalisierung der Ratsarbeit nach dem Opt-In-Modell (Antrag Nr. 155/17) - einstimmig
+- TOP 4.4.2: Einkaufsvielfalt in der Stadt GV auf der Homepage präsentieren (Antrag Nr. 151/17) - einstimmig
+- TOP 4.4.3: Aufbau eines internen und kostenneutralen Weiterbildungsmanagements-Konzepts (Antrag Nr. 157/17) - einstimmig
+- TOP 4.4.4: Ansiedlung von Gewerbe forcieren (Antrag Nr. 150/17) - einstimmig
+- TOP 4.5: B 90/Grüne
+- TOP 4.5.1: Trägersuche für städtische Kitas (Antrag Nr. 141/17) - mehrheitlich bei
+- TOP 4.5.2: Fotovoltaik auf Dächern (Antrag Nr. 142/17) - einstimmig
+- TOP 4.5.3: Stärkung der Wirtschaftsförderung (Antrag Nr. 109/17) - einstimmig
+- TOP 4.5.4: Stadtmarketing (Antrag Nr. 119/17) - einstimmig
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.6.1: Veranstaltungen unter städtischer Beteiligung bzw. Unterstützung (Antrag Nr. 111/17) - einstimmig
+- TOP 4.6.2: Bilanzkennzahlen (Antrag Nr. 118/17) - einstimmig
+- TOP 4.6.3: Demografiebericht Grevenbroich (Antrag Nr. 117/17) - einstimmig
+- TOP 4.7: Die Linke/Piraten
+- TOP 4.8: FBG
+- TOP 5: Schriftliche Anfragen
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Leitbild Grevenbroich 2030 - mehrheitlich bei
+- TOP 8: Fördermittel - Kenntnisnahme
+- TOP 9: Feuerschutz
+- TOP 10: Flüchtlings- und Integrationsangelegenheiten
+- TOP 10.1: "Istkosten" Flüchtlinge - Kenntnisnahme
+- TOP 11: Haushaltsangelegenheiten
+- TOP 11.1: Haushaltsrelevante Anträge
+- TOP 11.1.1: Produkt 01081 - Personalservice
+- TOP 11.1.1.1: Verwaltungs- und Personalstrukturkonzept als Instrument zur HHs-konsolidierung (Antrag Nr. 144/17) - mehrheitlich bei
+- TOP 11.1.2: Produkt 01091 - Beteiligungsmanagement
+- TOP 11.1.2.1: Eigenkapitalentnahme Eigenbetrieb (Antrag-Nr. 134/17) - Kenntnisnahme
+- TOP 11.1.3: Produkt 01093 - Haushalts- und Finanzsteuerung
+- TOP 11.1.3.1: Verringerung der Kassenkredithöchstgrenze (Antrag Nr. 98/17) - Kenntnisnahme
+- TOP 11.1.4: Produkt 01096 - Veranlagung/Erhebung von Steuern und Gebühren
+- TOP 11.1.4.1: Änderung der Vergnügungssteuersatzung (Antrag Nr. 115/17) - mehrheitlich bei
+- TOP 11.1.5: Produkt 01121 - sonstige Bereitstellung von Gebäuden und Liegenschaften
+- TOP 11.1.5.1: Veräußerung des ehemaligen Wellenfreibades (Antrag Nr. 158/17) - Kenntnisnahme
+- TOP 11.1.5.1.1: Verkauf städtischer Gebäude (Antrag Nr. 138/17) - Kenntnisnahme
+- TOP 11.1.6: Produkt 01122 - Bereitstellung von städt. genutzten Gebäuden und Liegenschaften
+- TOP 11.1.6.1: Überprüfung / Austausch Lampen (Antrag Nr. 135/17) - Kenntnisnahme
+- TOP 11.1.7: Produkt 02091 - Wahlen, Bürgerbegehren und Volksinitiativen
+- TOP 11.1.7.1: Verringerung der Anzahl der Wahlkreise und Verkleinerung des Stadtrates (Antrag Nr. 110/17) - Kenntnisnahme
+- TOP 11.1.8: Produkt 08021 - Sportstätten
+- TOP 11.1.8.1: Kunstrasen ( Antrag Nr. 140/17) - mehrheitlich bei
+- TOP 11.1.8.1.1: Zukunftskonzept "Sport" für Grevenbroich (Antrag Nr. 108/17) - mehrheitlich bei
+- TOP 11.1.9: Produkt 12011 - Straßen, Wege, Plätze
+- TOP 11.1.9.1: 90.000 € für LED (Antrag Nr. 133/17) - Kenntnisnahme
+- TOP 11.1.9.2: Austausch von Leuchtmittel der GWG Straßenbeleuchtung (Antrag Nr. 139/17) - Kenntnisnahme
+- TOP 11.1.9.3: Bergschaden Winkelstützwand (Antrag Nr. 143/17) - Kenntnisnahme
+- TOP 11.1.10: Produkt 12012 - Parkeinrichtungen
+- TOP 11.1.10.1: Parkraumbewirtschaftung (Antrag Nr. 137/17) - mehrheitlich bei
+- TOP 11.1.11: Produkt 13022 - Erholungs- und Freizeiteinrichtungen im Wald
+- TOP 11.1.11.1: Herausnahme des Wildfreigeheges aus dem Sanierungsplan (Antrag Nr. 148/17) - einstimmig
+- TOP 11.1.11.2: Wildfreigehege (Antrag Nr. 136/17) - einstimmig
+- TOP 11.1.12: Produkt 13031 - Friedhofs- und Bestattungswesen
+- TOP 11.1.12.1.1: Bewirtschaftung von Friedhofsflächen (Antrag Nr. 99/17) - Kenntnisnahme
+- TOP 11.1.12.2: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - mehrheitlich bei
+- TOP 11.1.12.3: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - einstimmig
+- TOP 11.1.12.4: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - Kenntnisnahme
+- TOP 11.1.13: Produkt 03017 - Offene Ganztagsgrundschule
+- TOP 11.1.13.1: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - einstimmig
+- TOP 11.1.14: Produkt 06011 - Tageseinrichtungen
+- TOP 11.1.14.1: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - einstimmig
+- TOP 11.1.15: Produkt 06012 - Tagespflege
+- TOP 11.1.15.1: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - einstimmig
+- TOP 11.1.16: Produkt 06031 - Jugendarbeit/Jugendschutz
+- TOP 11.1.17: Produkt 06032 - Jugendsozialarbeit
+- TOP 11.1.17.1: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - einstimmig
+- TOP 11.1.18: Produkt 13011 - Öffentliche Grünanlagen
+- TOP 11.1.18.1: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - Kenntnisnahme
+- TOP 11.1.18.2: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - Kenntnisnahme
+- TOP 11.1.18.3: Haushaltsmittel für den Kinder- und Jugendförderplan (Antrag Nr. 147/17) - einstimmig
+- TOP 11.1.18.4: Haushaltsmittel für den Kinder- und Jugendförderplan (Antrag Nr. 147/17) - einstimmig
+- TOP 11.1.19: weitere haushalltsrelevante Anträge
+- TOP 11.1.19.1.1: Spielflächenbedarfsplanung (Antrag Nr. 113/17) - einstimmig
+- TOP 11.1.19.2: Nutzung der Gebäude an der Stadtparkinsel (Antrag Nr. 112/17) - einstimmig
+- TOP 11.2: Haushalt 2018 - mehrheitlich bei
+- TOP 12: Beantwortung von Anträgen
+- TOP 13: Beantwortung Anfragen
+- TOP 14: Mündliche Anträge/Anfragen
+- TOP 15: Mitteilungen BM
+- TOP 15.1.1.1.1: Folgekosten bei der Ausweisung neuer Baugebiete (Antrag Nr. 116/17) - einstimmig
