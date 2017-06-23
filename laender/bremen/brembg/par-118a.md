@@ -1,0 +1,3 @@
+# § 118a Lektorinnen und Lektoren
+(1) Lektorinnen und Lektoren werden, soweit sie in das Beamtenverhältnis auf Zeit berufen werden, für die Dauer von zwei Jahren ernannt. Bei Bewährung ist eine zweimalige Verlängerung von jeweils zwei Jahren möglich. Sie können bei Bewährung und dem Vorliegen eines dienstlichen Interesses und bei Vorliegen der allgemeinen beamtenrechtlichen Voraussetzungen zu Beamtinnen oder Beamten auf Lebenszeit ernannt werden, ohne zunächst zu Beamtinnen und Beamten auf Zeit ernannt worden zu sein.
+(2) Einstellungsvoraussetzung für Lektorinnen und Lektoren ist neben den allgemeinen Voraussetzungen in der Regel ein abgeschlossenes Hochschulstudium und eine Promotion.
