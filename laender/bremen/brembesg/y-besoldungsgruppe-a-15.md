@@ -3,6 +3,7 @@ Besoldungsgruppe A 15
 Abteilungsdirektorin beim Landesinstitut für Schule1), Abteilungsdirektor beim Landesinstitut für Schule1)
 Akademische Direktorin, Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
+- als Lektorin oder als Lektor an einer Hochschule -
 Chefärztin2), Chefarzt2)
 Direktorin, Direktor
 Direktorstellvertreterin des Landesinstituts für Schule6), Direktorstellvertreter des Landesinstituts für Schule6)

@@ -2,6 +2,7 @@
 Besoldungsgruppe A 14
 Akademische Oberrätin, Akademischer Oberrat
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
+- als Lektorin oder als Lektor an einer Hochschule -
 Ärztin3), Arzt3)
 Chefärztin4), Chefarzt4)
 Erste Fachleiterin beim Landesinstitut für Schule, Erster Fachleiter beim Landesinstitut für Schule

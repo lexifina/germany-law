@@ -2,6 +2,7 @@
 Besoldungsgruppe A 131)
 Akademische Rätin2), Akademischer Rat2)
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
+- als Lektorin oder als Lektor an einer Hochschule -
 Ärztin2) 3), Arzt2) 3)
 Erste Kriminalhauptkommissarin, Erster Kriminalhauptkommissar
 Erste Polizeihauptkommissarin, Erster Polizeihauptkommissar
