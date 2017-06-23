@@ -144,6 +144,7 @@ Unterabschnitt 5 Hochschulen
 § 116 | Professorinnen und Professoren
 § 117 | Juniorprofessorinnen und Juniorprofessoren
 § 118 | Wissenschaftliche und künstlerische Mitarbeiterinnen und Mitarbeiter
+§ 118a | Lektorinnen und Lektoren
 § 119 | Dienstrechtliche Sonderregelungen für das beamtete wissenschaftliche und künstlerische Personal an Hochschulen
 § 120 | Rektorinnen und Rektoren, Konrektorinnen und Konrektoren
 § 121 | Kanzlerinnen und Kanzler
