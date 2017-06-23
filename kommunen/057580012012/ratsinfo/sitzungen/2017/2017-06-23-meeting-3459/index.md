@@ -1,0 +1,57 @@
+# Rat (22. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2017-06-23T17:30:00+02:00
+- Ende: 2017-06-23T22:10:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVfD74wDn36QSfFQ8Kan2x0
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3459
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxyODjuj0HVT9oaKUhCG1H3VjsruuiGW7y4McfhiVPD/Einladung_Rat_23.06.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUssOStNubIUQ9P4BH3QhuqAZC8eDVvqMlfc_pNcoG0M/Oeffentliche_Niederschrift_Rat_23.06.2017.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Einführung und Verpflichtung eines neues Ratsmitglieds sowie Verabschiedung eines ausgeschiedenen Ratsmitglieds
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 22.05.2017
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.15: Neubau einer 3-fach-Sporthalle mit zusätzlichen Räumlichkeiten für Klassen, erweiterter Mittagsversorgung und erweitertem Verwaltungstrakt; hier: Ergebnisse der Arbeitsgruppe und der Recherche durch die Verwaltung - Folgende Beschlüsse wurden gefasst:
+- TOP A.16: NRW Sportschule Bielefeld - Herford; Schaffung von Kraft- und Koordinationsübungsräumen für das Königin-Mathilde-Gymnasium unter Berücksichtigung der Sportbedarfe an der Grundschule Stiftberg - Bei 2 Enthaltungen und 22 Ja-Stimmen wurde folgender Beschluss gefasst: 
+- TOP A.20: Alkoholkonsum in der Herforder Innenstadt a) Zweite Änderung der "Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung" hier: Befristetes Alkoholkonsumverbot im Bereich der Innenstadt b) Angebot eines Tagesaufenthaltes
+- TOP zu A.20: Alkoholkonsum in der Herforder Innenstadt a) Zweite Änderung der "Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung" hier: Befristetes Alkoholkonsumverbot im Bereich der Innenstadt b) Angebot eines Tagesaufenthaltes - Auf Anregung von Frau Schmalhorst –hinsichtlich des Beratungsbedarfs- wurde einstimmig und ohne Enthaltung der Beschlussvorschlag vertagt.Herr Wienböker kündigte an, zu diesem Sachverhalt Fragen bei der Verwaltung einzureichen.
+- TOP A.6: Steuerung von Drittorganisationen:
+- TOP A.6a: Geänderter Wirtschaftsplan 2017 der WWS Herford GmbH : Anweisungen an den städtischen Vertreter in der Gesellschafterversammlung der WWS Wohn- und Wirtschafts-Service Herford GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6b: Wohn- und Wirtschaftsservice GmbH (WWS): Jahresabschluss 2016, Ergebnisverwendung, Bericht des Aufsichtsrates, Entlastung des Aufsichtsrates, Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6c: Herforder Versorgungs- und Verkehrs- Beteiligungs- GmbH (HVV): Jahresabschluss 2016 (Einzelabschluss und Konzernabschluss), Ergebnisverwendung, Bericht des Aufsichtsrates, Entlastung des Aufsichtsrates, Entlastung der Geschäftsführung - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6d: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 31.03.2017 b) Jahresprognose 2017 der Beteiligungsunternehmen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6e: Beteiligung der Westfalen Weser Netz GmbH an EnergieNetze Beverungen GmbH & Co. KG sowie EnergieNetze Beverungen Verwaltungs- GmbH - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6f: Vertretungen in Drittorganisationen - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6g: Spendenverfahren der Freizeiteinrichtungen Stadtwerke Herford GmbH (FSH):
+- TOP A.6g)1: Anträge über das Spendenverfahren der HVV, betreffend den Bereich Soziales - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6g)2: Anträge der Sportvereine über das Spendenverfahren der FSH GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6g)3: Verwendung von Spenden der FSH GmbH für den Kulturbereich - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.7: 1. Situationsbericht zur Haushaltswirtschaft 2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.8: Ausbildungsbericht - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.9: Projekt "Markthalle" Sachstandsbericht - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10: "Charta of Kampen" für Wassersicherheit und Klimaanpassung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Konversion: Änderungsantrag - Förderprogramm "Nationale Projekte des Städtebaus 2016"; vom BildungsCampus-Entree zur Campus-Mitte - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.12: Konversion: Namensgebung für die Straßen, Wege und Plätze auf dem Kasernen-Doppelstandort am Stiftberg
+- TOP zu A.12: Konversion: Namensgebung für die Straßen, Wege und Plätze auf dem Kasernen-Doppelstandort am Stiftberg - Ohne Enthaltungen und mit 22 Ja-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.13: Begehren auf Änderung des Regionalplans im Bereich der westlichen Innenstadt hier: Beschluss zur Beantragung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Erwerb von Wohnungen in der Birkenstraße hier: Vornahme eines "Betrauungsaktes" - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Sozialbericht für die Hansestadt Herford im Rahmen des Landesprojektes „NRW hält zusammen“ - Schwerpunkt Familienarmut - - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18: Vorbereitung eines integrierten Handlungskonzeptes „Im Kleinen Felde“ zur Beteiligung am Aufruf „Starke Quartiere – starke Menschen“ - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.19: Durchführung des Ostervolksfestes im Bereich "Auf der Freiheit/Janup" - Bei 5 Enthaltungen und 3 Nein-Stimmen wurde folgender Beschluss gefasst: 
+- TOP A.21: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Hansestadt Herford - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.22: Anpassung der Krankentransportgebühren zum 01.08.2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Bebauungsplan Nr. 12.30 "Langenbergstraße", Änderung 5.16 hier: Satzungsbeschluss - Bei 1 Enthaltung und 2 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.24: Bebauungsplan Nr. 6.76 "B 239/Schobeke" hier: Satzungsbeschluss - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst:
+- TOP A.25: Änderung Nr. 3.15 des Bebauungsplanes Nr. 10.21 „Auf der Bülte“ hier: Satzungsbeschluss - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.26: Gremienumbesetzungen:
+- TOP A.26a: Antrag der SPD auf Umbesetzung (eingeg. am 07.06.17) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: 39. Hauptversammlung des Deutschen Städtetages in Nürnberg vom 30. Mai - 01. Juni 2017
