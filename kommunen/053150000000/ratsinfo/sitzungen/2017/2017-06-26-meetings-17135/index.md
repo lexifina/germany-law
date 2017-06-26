@@ -1,0 +1,84 @@
+# 24. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-26T16:00:00+02:00
+- Ende: 2017-06-26T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17135
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17135
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617764.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617764.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617764.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Wettbewerbsergebnisses für das Baufeld West der Uniklinik mit den planenden Architekten
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Wohnmobil-Parken in Köln-Sülz (Az.: 02-1600-210/16) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Neugestaltung des Mittelstreifens am Stadtwaldgürtel - Kenntnis genommen
+- TOP 7.1.2: Umsetzungssachstand zur Verbesserung der Verkehrssicherheit am Fußgängerüberweg über die Dürener Straße an der Einmündung Hans-Sachs-Straße/Karl-Schwering-Platz - Kenntnis genommen
+- TOP 7.1.3: Rückschnitt und Beschilderung Hans-Groß -Park - Kenntnis genommen
+- TOP 7.1.4: Demontage der Lichtsignalanlage Hauptstraße/Leonardsgasse und Ersatz durch eine alternative Betriebsform - Kenntnis genommen
+- TOP 7.1.5: Neues Beleuchtungskonzept für den Eisenbahntunnel am Gottesweg - Kenntnis genommen
+- TOP 7.1.6: Baumaßnahme Brauweilerweg 97 in Köln-Müngersdorf - Kenntnis genommen
+- TOP 7.1.7: Planung "Petershof" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Auskunft Planung "Petershof" - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Benennung einer Straße im Neubaugebiet Ludwig-Jahn-Strasse - ungeändert beschlossen
+- TOP 8.1.2: Neuer Nachtbus "N96" - ungeändert beschlossen
+- TOP 8.1.3: Ausbauplanung Oskar-Jäger-Strasse - ungeändert beschlossen
+- TOP 8.1.4: Vorstellung Pläne "Gleisdreieck" - ungeändert beschlossen
+- TOP 8.1.5: Verlängerung Bus 149 nach Hohenlind - ungeändert beschlossen
+- TOP 8.1.6: Zuweisung bezirksorientierter Mittel - ungeändert beschlossen
+- TOP 8.1.7: Koordination Wohnen auf Parkraum und Einzelhandelsflächen - geändert beschlossen
+- TOP 8.1.8: Abpollern Amselstrasse - geändert beschlossen
+- TOP 8.1.9: Überweg Piusstraße - ungeändert beschlossen
+- TOP 8.1.10: Beseitigung Stolperfallen auf den Bürgersteigen Landgrafenstrasse und Joseph-Stelzmann-Strasse - ungeändert beschlossen
+- TOP 8.1.11: Errichtung Skaterpark in Widdersdorf/Lövenich - ungeändert beschlossen
+- TOP 8.1.12: Beflaggung CSD 2017 - ungeändert beschlossen
+- TOP 8.1.13: Ausbesserung Haltestelle Lindenburg stadtauswärts - ungeändert beschlossen
+- TOP 8.1.14: Beleuchtung "Auf der Aspel" in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.15: Änderung Ausgestaltung der Fläche Ecke Bert-Fenger-Strasse/Tannenstrasse - endgültig abgelehnt
+- TOP 8.1.16: Prüfantrag Wohnen über dem Parkraum und Einzelhandelsflächen
+- TOP 8.1.17: Brötchentaste Aachener Strasse - endgültig zurückgezogen
+- TOP 8.1.18: Gemeinsamer Antrag zur Mitteilung Machbarkeitsstudie Rhein-Energie-Stadion (TOP 11.3.4) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Benennung von zwei Planstraßen im Baugebiet Werthmann Straße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.1.2: Besetzung der Stelle Leitung des Bürgeramtes Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Planfeststellungsverfahren für den vierstreifigen Ausbau der L 183 zwischen K 6 und L361 mit Vollausbau der Anschlussstelle Frechen-Nord und Verflechtungsstreifen - Kenntnis genommen
+- TOP 9.2.2: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - ungeändert beschlossen
+- TOP 9.2.3: Seniorenkoordination im Stadtbezirk - Alternative beschlossen
+- TOP 9.2.4: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert beschlossen
+- TOP 9.2.5: Umbau des Knotenpunktes Lindenthalgürtel/Dürener Straße, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der Finanzst - ungeändert beschlossen
+- TOP 9.2.6: Standortentscheidung Frischezentrum - geändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 11.1.2: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Lindenthal aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.01.2017 - zurückgestellt
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Pflegezustand von Straßenschildern und Hinweistafeln - Kenntnis genommen
+- TOP 11.2.2: Verkehrswidriges Parken von Fahrzeugen - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 11.3.2: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.3.3: Geplante Realisierung einer Gesamtschule Lindenthal an den Teilstandorten Berrenrather Straße und Euskirchener Straße - Kenntnis genommen
+- TOP 11.3.4: Machbarkeitsstudie zur Erweiterung des RheinEnergie-Stadions - Kenntnis genommen
+- TOP 11.3.5: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
