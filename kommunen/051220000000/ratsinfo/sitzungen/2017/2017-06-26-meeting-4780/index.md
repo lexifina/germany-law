@@ -1,0 +1,56 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-06-26T17:00:00+02:00
+- Ende: 2017-06-26T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZchCr-pqbc69j6-EecfZ_Ic
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4780
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZuuS6xSQ5pvrtUS2tUqEDPMgotTg9rlv-97DlXmlk1H/Oeffentliche_Niederschrift_Beteiligungsausschuss_26.06.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 23. Sitzung des Beteiligungsausschusses am 08.05.2017
+- TOP 3: Jahresabschluss 2016 der Technischen Betriebe Solingen
+- TOP 4: Einsparungen im ÖPNV gemäß Ratsbeschluss vom 08.12.2016
+- TOP 5: Vorschlag der Geschäftsführung der Stadtwerke Solingen GmbH (SW SG) zur Einhaltung der Verlustobergrenze im Verkehrsbereich
+- TOP 6: Einsparungen im ÖPNV gemäß Ratsbeschluss vom 08.12.2016
+- TOP 7: Vorschlag der Geschäftsführung der Stadtwerke Solingen GmbH (SW SG) zur Einhaltung der Verlustobergrenze im Verkehrsbereich
+- TOP 8: Übertragung der Solinger Bädergesellschaft mbH auf die Technischen Betriebe Solingen (TBS)
+- TOP 9: Übertragung der Solinger Bädergesellschaft mbH auf die Technischen Betriebe Solingen (TBS)
+- TOP 10: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 23. Sitzung des Beteiligungsausschusses am 08.05.2017
+- TOP 3: Jahresabschluss 2016 der ELBA-Omnibusreisen GmbH (ELBA)
+- TOP 4: Zusammensetzung des Aufsichtsrates der Stadtwerke Solingen GmbH - mündliche Berichterstattung -
+- TOP 5: Jahresabschluss 2016 der Entsorgung Solingen GmbH
+- TOP 6: Kunstmuseum Solingen Betriebsgesellschaft mbH - Antrag räumliche Perspektive
+- TOP 7: Jahresabschluss 2016 der Zentrum für verfolgte Künste GmbH
+- TOP 8: Zentrum für verfolgte Künste GmbH - Variable Vergütung 2016 für die Geschäftsführung
+- TOP 9: Zentrum für verfolgte Künste GmbH - Bestellung eines Geschäftsführers
+- TOP 10: Bestellung des Jahresabschlussprüfers 2017 für die Städtische Musikschule Solingen GmbH
+- TOP 11: Wirtschaftsplan 2017/2018 der Städtische Musikschule Solingen GmbH
+- TOP 12: Städtische Musikschule Solingen GmbH - Einzahlung in die Kapitalrücklage der Städtischen Musikschule Solingen GmbH
+- TOP 13: Altenzentren der Stadt Solingen gemeinnützige GmbH - Jahresabschluss 2016
+- TOP 14: Altenzentren der Stadt Solingen gemeinnützige GmbH - Nutzungskonzept Gerhard-Berting-Haus
+- TOP 15: Städtisches Klinikum Solingen gemeinnützige GmbH - Jahresabschluss 2016
+- TOP 16: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2017
+- TOP 17: Jahresabschluss 2016 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 18: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Abberufung eines Geschäftsführers
+- TOP 19: Jahresabschluss 2016 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 20: Jahresabschluss 2016 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 21: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Einzahlung der Gesellschafterin in die Kapitalrücklage für das Geschäftsjahr 2016
+- TOP 22: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2017 der WiFö
+- TOP 23: Jahresabschluss 2016 der Wasserwerk Baumberg GmbH - Genehmigung eines Gesellschafterbeschlusses
+- TOP 24: Jahresabschluss 2016 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 25: Beteiligungsgesellschaft Stadt Solingen mbH(BSG) - Einzahlung in die Kapitalrücklage der Städtische Musikschule Solingen GmbH
+- TOP 26: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 27: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) für das Geschäftsjahr 2016
+- TOP 28: Jahresabschluss 2016 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 29: Verschiedenes
