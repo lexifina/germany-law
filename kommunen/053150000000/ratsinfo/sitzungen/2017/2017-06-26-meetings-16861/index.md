@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-26T16:00:00+02:00
+- Ende: 2017-06-26T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16861
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16861
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00618167.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00618167.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00618167.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Digitale Bildung in der Schule – spielend leicht Programmieren lernen - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Schutzdach bei Containeranlagen für Schulen - Kenntnis genommen
+- TOP 3.1.2: Aktuelle Situation der Beschulung neu zugewanderter Kinder und Jugendliche (4370/2016) - Kenntnis genommen
+- TOP 3.1.3: Schulformwechsel zum SJ 2015/16 und Abgänge 2015 - Kenntnis genommen
+- TOP 3.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.5: Fehlende Räumkapazitäten, Schulbaunotstand, Computerräume ./. Containereinheiten - Kenntnis genommen
+- TOP 3.1.6: 100. Geburtstag von Heinrich Böll - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.7: Beantwortung der Anfrage AN/0435/2017 nach § 4 Geschäftsordnung des Rates zu Sachmittelzulage pro Schüler - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Alternative Planungen für den „ Altbau" der Carl-von-Ossietzky-Gesamtschule
+- TOP -: "Alternative Planungen für den "Altbau" der Carl-von-Ossietzky-Gesamtschule" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.2.2: Reinigung in Schulen verbessern
+- TOP 3.2.3: Feinstaubmessungen rund um Kölner Schulen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Errichtung eines Bildungsgangs Elektroniker und Elektronikerinnen für Automatisierungstechnik am Werner-von-Siemens- Berufskolleg (BK 19) - ungeändert beschlossen
+- TOP 4.2: Einleitung von Vergabeverfahren und Abschluss von Rahmenverträgen für den Schulbereich - ungeändert beschlossen
+- TOP 4.3: Zügigkeitserweiterung des Stadtgymnasiums Köln-Porz, Gymnasium Humboldtstraße 2-8, 51145 Köln in Köln-Porz zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.4: Zügigkeitserweiterung des Genoveva-Gymnasiums, Gymnasium Genovevastraße 58-62, 51063 Köln in Köln-Mülheim zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.5: Erweiterung der Realschule am Rhein, AufbauRS Niederichstraße 1-3, 50668 Köln in Köln-Altstadt/Nord nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen um einen Realschulzweig im 5. und 6. Schuljahr, aufbauend ab Schuljahr 2018/19 mit Umzug in - ungeändert beschlossen
+- TOP 4.6: Zügigkeitserweiterung der Käthe-Kollwitz-Schule, Realschule Petersenstraße 7, 51109 Köln in Köln-Brück zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.7: Zügigkeitserweiterung des Friedrich-Wilhelm-Gymnasiums, Gymnasium Severinstraße 241, 50676 Köln in Köln-Altstadt/Süd zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.8: Zügigkeitserweiterung der Grundschule Flittard, GGS Am Feldrain, Am Feldrain 10, 51061 Köln-Flittard gem. § 81 Abs. 2 Schulgesetz NRW von 2,5 auf 3 Züge - ungeändert beschlossen
+- TOP 4.9: Stellenmehrbedarf zur Umsetzung des Landesförderprogramms "Gute Schule 2020" - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitteilungen
+- TOP 5.1: VHS Köln als Beratungsstelle für Fachberatung zur Anerkennung im Ausland erworbener Berufsqualifikationen zugelassen - Kenntnis genommen
+- TOP 5.2: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 5.3: Geplante Realisierung einer Gesamtschule Lindenthal an den Teilstandorten Berrenrather Straße und Euskirchener Straße - Kenntnis genommen
+- TOP 5.4: Jahresbericht 2016 des Amts für Weiterbildung/Volkshochschule liegt vor - Kenntnis genommen
+- TOP 5.5: BAMF zu Gast bei der VHS Köln - Kenntnis genommen
+- TOP 5.6: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 5.7: Bericht über den Besuch einer Kölner Bildungsdelegation in Peking und Shanghai im Mai 2017 - Kenntnis genommen
+- TOP 5.8: Aktueller Planungsstand zur Realisierung von Jugend- und Bildungsinfrastruktur im Bereich Sürther Straße/Am Feldrain und Eygelshovener Straße - Kenntnis genommen
+- TOP 5.9: Schulentwicklungsplanerische Konzeption für den Schulstandort Heerstraße 7, 51143 Köln - Kenntnis genommen
+- TOP 5.10: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 5.11: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 5.12: Ergebnis der Bedarfsabfrage bei Eltern ohne erfüllten Erst- und Zweitwunsch hinsichtlich von Mehrklassen des Georg-Büchner-Gymnasiums in Widdersdorf / Beratungsgespräch mit Eltern / Lösungen für wohnortnähere Schulplätze - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
