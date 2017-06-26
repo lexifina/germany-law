@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-26T17:00:00+02:00
+- Ende: 2017-06-26T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17127
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17127
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Einrichtung einer Bewohnerparkzone in Köln-Zollstock" (AZ 02-1600-50/17) - ungeändert beschlossen
+- TOP 2.2: Hundefreilauffläche Vorgebirgspark - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Neuer Einzelhändler an der Otto-Hahn-Straße im Gewerbegebiet Köln-Godorf - Kenntnis genommen
+- TOP 7.1.2: Stadtbezirksübergreifende Schulbesuche / Schülerwanderbewegungen ; Anfrage der CDU Fraktion - Kenntnis genommen
+- TOP 7.1.3: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 7.1.4: Beantwortung der Anfrage der CDU-Fraktion im Rat der Stadt Köln betreffend "Aktueller Stand städt. Bauprojekt Pastoratsstraße/Westerwaldstraße in Rondorf" (AN/0242/2017) - Kenntnis genommen
+- TOP 7.1.5: Beantwortung der Anfrage der FDP-Fraktion betreffend "Sachstand zum städtebaulichen Planungskonzept 'Raderthalgürtel (neu)'und einen SB-Markt dort" (AN/0301/2017) - Kenntnis genommen
+- TOP 7.1.6: Wirtschaftsförderung im Stadtbezirk II - Kenntnis genommen
+- TOP 7.1.7: Beantwortung: Sachstand zur Flüchtlingsunterbringung im Bonotel; Anfrage der CDU Fraktion - Kenntnis genommen
+- TOP 7.1.8: Teilhabe am Investitionsförderfonds des Bundes für Schulsanierungen im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.1.9: Ausbau der Verkehrsverbindung L/K92 (neu) zwischen der Straße "Vor dem Dorf" und der "Bödingerstraße" in Rondorf - Kenntnis genommen
+- TOP 7.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.11: Neuer Einzelhändler an der Otto-Hahn-Straße im Gewerbegebiet Köln-Godorf; TOP 7.2.2 BV Sitzung vom 23.01.2017; FDP Fraktion - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bekanntgabe der Planungen des Herbst-Grünschnitts für die Straße „am Kölnberg“ in Meschenich ; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Änderung der Vergabeverfahren bei städtischen Grundstücksverkäufen ; Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Baumfällungen an der Eygelshovener Straße zur Erweiterung der dort. Gesamtschule ; Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.6: Verkehrsregelung Schillingsrotter Straße in Köln Rodenkirchen zwischen Ringstraße und Römerstraße ; Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Flüchtlingsunterkünfte: benachbarte, integrierende Maßnahmen ; Anfrage Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.9: Hinweisschilder am Rodenkirchener Rheinufer; Anfrage der CDU Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.10: Kalscheurer Weiher: Wasserqualität; Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verkehrsversuch Marienburg: Öffentliche Bekanntgabe der Ergebnisse ; Gem. Antrag der CDU und SPD Fraktion - geändert beschlossen
+- TOP 8.1.1.1: FDP-Änderungsantrag zu TOP 8.1.1-AN/0858/2017 Verkehrsberuhigung Bayenthal-Marienburg - Sache ist erledigt
+- TOP 8.1.2: Altglas-Container: besserer Standort am Pflasterhofweg in Weiß ; Gem. Antrag der Fraktion Die Grünen und der FDP- Fraktion - ungeändert beschlossen
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Kurzzeitparkplätze an der Barbarastraße ; Antrag der CDU Frakton - endgültig zurückgezogen
+- TOP 8.1.6: Beflaggung des Rathauses Rodenkirchen zum Christopher-Street-Day mit der sogenannten Regenbogenflagge ; Antrag der SPD Fraktion - endgültig zurückgezogen
+- TOP 8.1.7: P+R-Platz in Marienburg: Herrichtung der Begrenzung ; Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.8: Maßnahmen zur Regelung der Parksituation und des Durchgangsverkehrs vor der städtischen Kita in Rondorf ; Antrag der CDU Fraktion - zurückgestellt
+- TOP 8.1.9: Biologische Station in Finkens Garten: Aufgabenbericht ; Antrag der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.10: Durchführung von Trödelmärkten im Gewerbegebiet Godorf ; Antrag der CDU Fraktion - ungeändert beschlossen
+- TOP 8.1.11: Raderberger Straße: Vermeidung bzw. Reduzierung von Schleichverkehr ; Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.12: Verkehrssicherungsmaßnahmen am Fahrradweg im Bereich des Rodenkirchener Campingplatzes ; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 8.1.13: Entsiegelung von Flächen auf dem Friedhof Steinneuerhof hier: Konkretisierung der Beschlussfassung der BV-Rodenkirchen vom 08.05.2017, TOP 8.1.8 - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Sachstandsbericht Rheinquerung zwischen den Autobahnen 555 und 59 ; Gem. Antrag der Fraktion Die Grünen und der FDP Fraktion - ungeändert beschlossen
+- TOP 8.2.2: Taktverdichtung der Linie 16 ; Antrag der CDU Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: 9.1.1 wurde zu 2.2
+- TOP 9.1.2: Dauerkleingartenanlage Rondorf-Hochkirchen - ungeändert beschlossen
+- TOP 9.1.3: Beflaggung anlässlich der Feierlichkeiten zum Christopher-Street-Day mit der sogenannten Regenbogenflagge - ungeändert beschlossen
+- TOP 9.1.4: Benennung von vier Planstraßen im 3. Bauabschnitt des Baugebietes Sürther Feld in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 3. Nahverkehrsplan der Stadt Köln - vertagt vom 08-05-2017 - - ungeändert beschlossen
+- TOP 9.2.2: Seniorenkoordination im Stadtbezirk - Umdruck- - Alternative beschlossen
+- TOP 9.2.3: Satzung über die abweichende Herstellung der Erschließungsanlage Sinziger Straße von Bonner Straße bis Grenze des Bebauungsplans 67409/04 in Köln-Marienburg - ungeändert beschlossen
+- TOP 9.2.4: Änderung der Zuständigkeitsordnung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.5: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - geändert beschlossen
+- TOP 9.2.6: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - geändert beschlossen
+- TOP 9.2.7: 3. Baustufe Nord-Süd Stadtbahn / Ergänzender Baubeschluss Großbaumverpflanzungen - ungeändert beschlossen
+- TOP 9.2.8: Taktverdichtung der Linie 16 bis Wesseling - ungeändert beschlossen
+- TOP 9.2.9: Standortentscheidung Frischezentrum - ungeändert beschlossen
+- TOP 9.2.10: Zuwendung aus dem städtischen Aktivierungsfonds für das Projekt "Ansprechbar - Suchtprävention und Jugendsuchtberatung in Köln-Meschenich" der Drogenhilfe Köln Projekt GmbH - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: "Veranstaltungsreihe Kölner Perspektiven zu Wohnen und Arbeiten" - Kenntnis genommen
+- TOP 10.2.2: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 10.2.3: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.4: Aktueller Planungsstand zur Realisierung von Jugend- und Bildungsinfrastruktur im Bereich Sürther Straße/Am Feldrain und Eygelshovener Straße - Kenntnis genommen
+- TOP 10.2.5: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 10.2.6: Grundwasser- und Bodenproben auf den Äckern zwischen Immendorf und Meschenich - Kenntnis genommen
+- TOP 10.2.7: Raderthalgürtel (neu) in Köln-Zollstock, 1. Änderung; BPlan-Entwurf 67419/08; Offenlage - Kenntnis genommen
+- TOP 10.2.8: Machbarkeitsstudie für eine Interimsbegegnungsstätte in Köln-Meschenich - Kenntnis genommen
