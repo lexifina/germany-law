@@ -1,0 +1,8 @@
+# TOP 7: Sporthalle am Pascal-Gymnasium - Beschluss Durchführung Architektenwettbewerb
+
+- Sitzung: Sitzung (2017-06-27)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/171535
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/63405
