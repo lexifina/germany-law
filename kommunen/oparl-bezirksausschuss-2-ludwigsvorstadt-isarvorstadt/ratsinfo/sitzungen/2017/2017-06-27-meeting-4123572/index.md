@@ -1,0 +1,121 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-06-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123572
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123572
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 1.2.: BA-eigenes Budget für die diesjährige Kinder- und Jugendeinwohnerversammlung
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.2.: Zusammensetzung Ferienausschuss 2017
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP II.1.: Information – Grundsatz und Eckdatenbeschluss „Entwicklung Viehhofgelände“, Beschlussvorlage für die Sitzung des Kommunalausschusses und Ausschusses für Stadtplanung und Bauordnung vom 06.07.2017 (VB)
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Projekt „Streetart am Pissoir am Holzplatz“
+- TOP 1.3.: BA-Antrag: Verwaltung und Polizei werden aufgefordert, Delkikte aufgrund von Homophobie gesondert zu erfassen, PLENUMSBESCHLUSS
+- TOP 5: Sonstiges
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Fraunhoferstraße 43, Nutzungsänderung: Laden zu Café/Bistro mit Freischankfläche
+- TOP 3.1.2.: Goethestraße 7a, Erweiterung der Gastfläche einer Gaststätte mit Imbiss (EG + KG links)
+- TOP 3.1.3.: Geyerstraße 17, Neubau zweier Mehrfamilienhäuser mit Tiefgarage und Autoaufzug - Vorbescheid
+- TOP 3.1.4.: Pettenkoferstraße 24/RGB, Teilaufstockung im 3.OG, Einbau eines Personenaufzugs, Um- und Ausbau des Dachgeschosses um eine weitere Wohneinheit sowie energetische Sanierung des Dachs
+- TOP 3.1.5.: Schmellerstraße 7, Anbau, Aufstockung und Sanierung RGB sowie Nutzungsänderung 1. OG / VGB (3 WE zu gewerblicher Pension), vgl. Vertagung 2017.05 B 3.1.10
+- TOP 3.1.6.: Bayerstraße 26 – 28a, Aufstockung in Teilbereichen des Gebäudes – Vorbescheid, vgl. Vertagung aus 2017.05 B 3.1.11
+- TOP 3.1.7.: Bayerstraße 35 + 37, Neubau eines Hotels mit Gastronomie und Tiefgarage – Tektur, vgl. Vertagung aus 2017.05 B 3.1.12
+- TOP 3.1.8.: Morassistr. 22-22b, Hs-Nr. 22 – Umbau mit Nutzungsänderung im EG: Gaststätte mit Kegelbahn zu Café und Büro, 2. OG: Umbau / Aufteilung 1 WE zu 2 WE mit Notleiter, 1.+2. DG: Umbau im DG, Fluchtweg im 2. DG über straßenseitiges DFF mit Wartepodest und Errichtung 2er Dachterrassen im 1. DG; Hs-Nr. 22 a – Errichtung Rampe in Fahrradkeller, EG: Anbau eines Erkers, Umbau mit Nutzungsänderung von Wohnen zu Büro und Kegelbahn zu Wohnen, 1. OG: Errichtung einer Dachterrasse und eines Balkons, 1. + 2. DG: Errichtung einer Dachterrasse im 1. DG und Notleitern für WE 20, 21 und 22, Umbau der Maisonettewohnung mit neuem Dach mit Notstufenleiter und Notleiter für WE 22; Hs-Nr. 22 b: Erweiterung und Umbau mit Nutzungsänderung von Ausstellungsräumen zu 2 Büros - Tektur, vgl. Vertagung aus 2017.05 B 3.1.13
+- TOP 3.1.9.: Klenzestraße 1; Neubau RGB Rumfordstraße 32 (Beherbergungsbetrieb mit 45 Zi.), Erweiterung der TG Rumfordstraße 32; Klenzestraße 1 / Rumfordstraße 32 (VGB): einbau 2er Autolifte und eines 2. Treppenhauses, Neuorganisation der Rettungswege, Errichtung einer Notleiter und von 5 neuen Apartments im 1.-5. OG, Ausbau des Trockenspeichers im 8. OG zu einer Wohnung, Einbau von Dachgauben im 7.+8. OG / Hofseite, Erweiterung des Haupttreppenhauses, Umbau Waschsalon mit Café, Errichtung eines Müllraums, Nutzungsänderung Klenzestraße 1: Arbeiterwohnheim für Frauen mit 60 Betten (1.-5. OG) zu 34 Wohn-Apartments sowie Gemeinschaftsräume (6.OG) zu 4 neuen Wohn-Apartments, vgl. Vertagung aus 2017.05 B 3.1.14
+- TOP 3.1.10.: Pettenkoferstraße 12 + 14, Hochschulneubau / Erweiterung für das Department für Geowissenschaften der LMU München sowie Abbruch Schillerstraße 42 – 46 /Pettenkoferstr. 12 / RGB (Frankbau) – Vorbescheid / 2 Varianten, vgl. Vertagung 2017.05 B 3.1.15
+- TOP 3.1.11.: Fliegenstraße 1, Erneuerung des Dachstuhls, DG-Ausbau sowie Erneuerung und Erweiterung der Aufzugsanlage (Fliegenstr. 1 / Lindwurmstr. 5), vgl. Vertagung aus 2017.05 B 3.1.17
+- TOP 3.1.12.: Bavariaring 5, Umbau und Sanierung des ehemaligen Brausebades und der öffentlichen Bedürfnisanstalt; Teilerhalt der öffentlichen Toiletten, Nutzungsänderung zu einer Gaststätte, Einbau einer Galerie, Errichtung einer Freischankfläche – Tektur, vgl. Vertagung aus 2017.05 B 3.1.18
+- TOP 3.1.13.: Schwanthalerstraße 24, Unterbringung von Flüchtlingen – DG-Ausbau zu einem Wohnheim und Teilung von Wohnungen zur Unterbringung von Asylbewerbern – befristet bis 2033 – sowie Teilung einer Gastronomiefläche in zwei Gastronomieeinheiten und Umbau der Nebenanlage - Tektur
+- TOP 3.1.14.: Adolf-Kolping-Str. 10, Errichtung eines temporären Kulturdachgartens auf dem Parkdeck, befristet auf 3 Jahre zu je 6 Monaten
+- TOP 3.1.15.: Ehrengutstraße 4, Sanierung und Aufstockung eines Mehrfamilienhauses mit Anbau eines Außenlifts, Einbau einer Dachterrasse, Anbau von Balkonen und Neubau einer WE- Tektur, PLENUMSBESCHLUSS
+- TOP 3.1.16.: Pettenkoferstraße 5, DG-Neubau und Teilung der Maisonette-Wohnung (3. OG + 1. DG) in 2 Wohneinheiten, Aufzugsanbau und Teilerweiterung der Balkone sowie Nutzungsänderung einer Remise und einer Souterrainwohnung, PLENUMSBE-SCHLUSS
+- TOP 3.2.1.: Lindwurmstraße 4, Antrag auf Fällung eines Bergahorn
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag: Serviceangebot für Radfahrer am Isarradweg
+- TOP 1.2.: BA-Antrag: Hackerbrücke und Grasserstraße zu einer Fahrradstraße umwandeln
+- TOP 1.3.: BA-Antrag: Stephansplatz; Aufstellung eines Abfallbehälters, PLENUMSBE-SCHLUSS
+- TOP 1.4.: BA-Antrag: Erhöhung der Reinigungsklasse der Fußgänger- und Fahrradunterführung Reichenbachbrücke West, PLENUMSBESCHLUSS
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Museumsinsel 1, Aufhebung der Sperrzeit
+- TOP 2.2.1.: Klenzestraße 93, Aufstellung einer Warenauslage
+- TOP 2.3.1.: (E) Lärmschutz an der Bahntrasse Dreimühlenviertel Empfehlung Nr. 14-20 / E 01258 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.3.2.: Kapuzinerplatz 4, Aufstellung einer Sitzgelegenheit, PLENUMSBESCHLUSS
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Planung eines 3. Tram-Gleises mit Haltestelle auf dem Bahnhofplatz in provisorischer Lage bis zur endgültigen Umgestaltung des Bahnhofplatz
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Sitzungstermine 2018
+- TOP 2.1.: Unterausschuss „Kultur, Jugend, Soziales“ am Montag, den 10.07.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Öffentlicher Raum, Mobilität“ am Dienstag, den 11.07.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Planen, Bauen“ am Mittwoch, den 12.07.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 17.07.2017 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 25.07.2017 um 19 Uhr im Saal in der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Standort für eine Bank am Karl-Heinrich-Ulrichs-Platz, Anfrage des BA 2, vgl. TOP 2017.04 A 1.4; Zwischennachricht des Baureferates vom 29.05.2017
+- TOP A 4.4.: Sozialreferat, Beschlussvorlage PERSPEKTIVE München – Leitlinie Soziales, Sitzungsvorlagen Nr. 14-20 / V 08869 Beschluss des Kinder- und Jugendhilfe- sowie Sozialausschusses vom 04.07.2017
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Thalkirchner Straße 26, Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BimSchV vom 12.04.2017, Auffräsen von Asphalt im öffentlichen Straßenraum zur Herstellung von Reingungsöffnungen am Kanal, Bescheid des Referates für Gesundheit und Umwelt vom 30.05.2017
+- TOP B 4.3.: Auenstraße 66, Abdruck der Fällungsgenehmigung für einen Zürgelbaum
+- TOP B 4.4.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP B 4.5.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP B 4.6.: Fällung einer abgestorbenen Robinie am Gärtnerplatz (bei der Apotheke) als Gefahrenbaum, Mitteilung des Baureferats Gartenbau vom 12.06.2017
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.6.: (U) "Dialog-Display" in München
+- TOP C 4.7.: Aufstellung mobiler Toiletten am Gärtnerplatz; Verkehrsrechtliche Erlaubnis, Schreiben des Kreisverwaltungsreferates an das Baureferat vom 23.05.2017 zur Kenntnis
+- TOP C 4.8.: (U) Einführung einer zusätzlichen Straßenreinigungsklasse 1+ a) Änderung der Straßenreinigungsgebührensatzung Gebühr für zusätzliche Reinigungsklasse 1+ ab 01.01.2018 b) Änderung der Straßenreinigungssatzung Anschlussverzeichnis
+- TOP C 4.9.: Erneuerung der Fahrbahntreppen am Marienplatz; Information des MVG über das Bertriebskonzept von 12.06.2017 – 29.06.2017
+- TOP C 4.10.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP C 4.11.: Änderung der BA-Satzung: Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirks ermöglichen – Antwort des Direktoriums auf Antrag Nr. 14-20 / B 01210 des BA 19
+- TOP C 4.12.: Öffnung Glockenbach, Zwischennachricht des Baureferats zum BA-Antrag Nr. 14-20 / B 01991 vom 26.01.2017
+- TOP C 4.13.: „Pink Christmas 2017“, Antwort des Kreisverwaltungsreferats auf Nachfrage des BA zum Beginn
+- TOP C 4.14.: Begrünung im südlichen Bahnhofsviertel
+- TOP C 4.15.: Anwohnerparken rund um das Oktoberfest
+- TOP C 4.16.: Prüfung von Flüsterasphalt in der Reisingerstraße, Bürgeranliegen vom 15.05.2017; Antwort des Baureferates vom 08.06.2017
+- TOP C 4.17.: Bürgerbeschwerde Reichenbachstraße 19, Antwort des Kreisverwaltungsreferates vom 13.06.2017
+- TOP C 4.18.: Bürgeranliegen Goethestraße 7; Weiterleitung an Polizeiinspektion 14 und Kreisverwaltungsreferat vom 20.06.2017 als Information
+- TOP D 4: Bereich BA-Angelegenheiten
