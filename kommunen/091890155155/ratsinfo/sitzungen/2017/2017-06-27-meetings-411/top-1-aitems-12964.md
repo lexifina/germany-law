@@ -1,0 +1,7 @@
+# TOP 1: Genehmigung der Sitzungsniederschrift vom 09. Mai 2017
+
+- Sitzung: Sitzung des Kultur- und Sportausschusses (2017-06-27)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/12964
+- Ergebnis: einstimmig beschlossen
