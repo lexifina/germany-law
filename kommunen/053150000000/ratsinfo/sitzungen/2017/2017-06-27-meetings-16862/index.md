@@ -1,0 +1,66 @@
+# 22. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-27T15:36:00+02:00
+- Ende: 2017-06-27T19:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16862
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16862
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00619405.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00619405.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00619405.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines sachkundigen Einwohners
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Gedenksteine für das ehemalige Kinderheim in Köln-Sülz - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Bedarfsfeststellungsbeschluss über die bedarfsgerechte Umgestaltung der Stadtteilbibliothek Kalk - ungeändert beschlossen
+- TOP 4.2: Restaurierungsdokumentationsmodul (RDM) - ungeändert beschlossen
+- TOP 4.3: Neubau des Historischen Archivs und Rheinischen Bildarchivs. Hier: Beauftragung eines Umzugslogistikers. - ungeändert beschlossen
+- TOP 4.4: MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln. Nachtragskostenberechnung - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Planungsbeschluss zur Sanierung des Römisch-Germanischen Museums - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Erweiterungsbau Wallraf-Richartz-Museum & Fondation Corboud
+- TOP 4.7: Räumliche Erweiterung des NS-Dokumentationszentrums durch Anmietung des dritten und vierten Obergeschosses im EL-DE-Haus zur Einrichtung eines "Hauses für Erinnern und Demokratie“ - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Bürgerzentrum Alte Feuerwache - Baumaßnahme "Ertüchtigung der Wagenhalle" im Rahmen des Sonderprogramms NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für die Sonderausstellung "Werner Mantz. Architekturen und Menschen" vom 14. Oktober 2017 bis 21. Januar 2018 im Museum Ludwig - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für das Museum Ludwig - ungeändert beschlossen
+- TOP 6.2: Annahme einer Spende an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 6.3: Annahme einer Schenkung für das Museum für Angewandte Kunst - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - Kenntnis genommen
+- TOP 8.2: Beantragung der Mittel für die regionale Kulturförderung des Landschaftsverbandes Rheinland für 2018 - Kenntnis genommen
+- TOP 8.3: Sparda-Kunstpreis NRW für Köln 2013 Aufstellung des Obelisken - Kenntnis genommen
+- TOP 8.4: ökoRAUSCH Festival 2017 im MAKK - Kenntnis genommen
+- TOP 8.5: Geschäftsbericht 2016 des Kulturamtes - Kenntnis genommen
+- TOP 8.6: Beantragung der Mittel für Museumsprojekte bei der regionalen Kulturförderung des Landschaftsverbandes Rheinland für 2018 - Kenntnis genommen
+- TOP 8.7: Museumsdienst Köln. Jahresbericht 2016 - Kenntnis genommen
+- TOP 8.8: Endfassung des Datenreports Kultur- und Kreativwirtschaft Köln 2017 - Kenntnis genommen
+- TOP 8.9: Aktualisierung der Handlungsfelder und Zielebenen des Strategiekonzeptes der Stadtbibliothek - Kenntnis genommen
+- TOP 8.10: Neubau des Historischen Archivs. - Kenntnis genommen
+- TOP 8.11: Hallen- Kalk - Kein Probebetrieb des Schauspiels in der Halle 75 in Köln-Kalk - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: MiQua Projektstatusbericht - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht 06.06.2017 - Neubau Historisches Archiv und Rheinisches Bildarchiv - Kenntnis genommen
+- TOP 9.3: Statusbericht Generalsanierung Zentralbibliothek Köln, Stand Mai 2007 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer Anfrage AN/0147/2017 - Migrationsmuseum für Köln - Kenntnis genommen
+- TOP 10.2: Kürassierdenkmal aus dem Jahre 1928 - Kenntnis genommen
+- TOP 10.3: Europäisches Zentrum für Jazz und aktuelle Musik - Kenntnis genommen
+- TOP 10.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: „Keine Räume für Nazis“ – Wie wird das in den Kölner Kultureinrichtungen umgesetzt?
+- TOP 11.2: Köln-Deutz, Historischer Park Deutz, hier: Osttor des röm. Kastells Divitia.
+- TOP 11.3: Köln-Altstadt, Historisches Rathaus, Altermarkttrakt, Nutzungskonzept
+- TOP 11.4: Denkmal zum Anschlag des NSU in der Keupstraße
+- TOP 12: Mündliche Anfragen
