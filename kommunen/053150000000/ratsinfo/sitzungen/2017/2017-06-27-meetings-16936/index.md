@@ -1,0 +1,78 @@
+# 28. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-27T16:06:00+02:00
+- Ende: 2017-06-27T18:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16936
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16936
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617627.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617627.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00617627.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Organisation des Dezernates VIII – Mobilität und Infrastruktur - Sache ist erledigt
+- TOP 1.1.1: Organisation des Dezernates VIII - Mobilität und Verkehrsinfrastruktur, Anfrage der SPD-Fraktion , AN/0779/2017 - Kenntnis genommen
+- TOP 1.2: Evakuierung von mobilitätseingeschränkten Personen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.3: Instandsetzung des Radweges im Äußeren Grüngürtel parallel zum Militärring - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.4: Umsetzung von Beschlüssen zur Verbesserung des Radverkehrs - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.5: Varianten für eine Querung der Luxemburger Straße an der Haltestelle Eifelwall - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.6: Wann kommt der fahrscheinlose Tag für Köln? - Sache ist erledigt
+- TOP 1.7: Stellplätze für Fahrräder in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Einrichtung einer Mobilitätsstation in Chorweiler - geändert beschlossen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3.1: Sperrung Gleueler Straße am Wochenende - zurückgestellt
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: 3. Baustufe Nord-Süd Stadtbahn / Ergänzender Baubeschluss Großbaumverpflanzungen - geändert beschlossen
+- TOP 4.2: Ergänzende Maßnahmen zum "Interkommunalen Programm zwischen Köln und Bergisch Gladbach (33-Punkte-Programm)" zur Senkung des Verkehrsaufkommens für den Stadtbezirk Mülheim - geändert beschlossen
+- TOP 4.3: Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräten für das Amt für Straßen und Verkehrstechnik - ungeändert beschlossen
+- TOP 4.4: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - geändert beschlossen
+- TOP 4.4.1: Ergänzungsantrag zu TOP 4.4 „Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende“ - ungeändert beschlossen
+- TOP 4.5: Teilergebnisplan 1302 - Wasser und Wasserbau; Instandsetzung der Steinschüttungen im Bereich der Oberländer Werft und Stammheimer Ufer - ungeändert beschlossen
+- TOP 4.6: Verwendung der Stellplatzablösemittel - ungeändert beschlossen
+- TOP 4.7: S-Bahn Köln-Pulheim-Mönchengladbach - ungeändert beschlossen
+- TOP 4.8: Verkehrsführungskonzept Altstadt - ungeändert beschlossen
+- TOP 4.9: Taktverdichtung der Linie 16 bis Wesseling - ungeändert beschlossen
+- TOP 4.10: Optimiertes Buskonzept für Mülheim Süd, Kalk und Vingst - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Hochwasserschutzzonenverodnung Poll bis Rheinpark Deutz - mit Änderungen empfohlen
+- TOP 5.2: 3. Nahverkehrsplan der Stadt Köln - mit Änderungen empfohlen
+- TOP 5.3: Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße / Militärringstraße - ungeändert empfohlen
+- TOP 5.4: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert empfohlen
+- TOP 5.5: Planungsbeschluss für die Neugestaltung der Gürzenichstraße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" gefördert durch das Bundesprogramm "Nationale Projekte des Städtebaus" - ungeändert empfohlen
+- TOP 5.6: Planungsbeschluss für die Neugestaltung des Tunnels Johannisstaße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" gefördert durch das Bundesprogramm "Nationale Projekte des Städtebaus" - ungeändert empfohlen
+- TOP 5.7: 260. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 5.8: Planfeststellungsverfahren für den vierstreifigen Ausbau der L 183 zwischen K 6 und L361 mit Vollausbau der Anschlussstelle Frechen-Nord und Verflechtungsstreifen - ungeändert empfohlen
+- TOP 5.9: Satzung über die abweichende Herstellung der Erschließungsanlage Friederike-Nadig-Weg/Marion-Dönhoff-Weg von Astrid-Lindgren-Allee bis Astrid-Lindgren-Allee in Köln-Brück - ungeändert empfohlen
+- TOP 5.10: Satzung über die abweichende Herstellung der Erschließungsanlage Sinziger Straße von Bonner Straße bis Grenze des Bebauungsplans 67409/04 in Köln-Marienburg - ungeändert empfohlen
+- TOP 5.11: Generalinstandsetzung des Kiefernweges in Porz-Grengel - ungeändert empfohlen
+- TOP 5.12: Errichtung einer stationären Geschwindigkeitsüberwachungsanlage auf dem Schiefersburger Weg - Nippes - ungeändert empfohlen
+- TOP 5.13: Planungsbeschluss Tiefgarage Ebertplatz - mit Änderungen empfohlen
+- TOP 5.13.1: Planungsbeschluss Tiefgarage Ebertplatz, 3010/2015 - ungeändert empfohlen
+- TOP 5.14: Umbau des Knotenpunktes Lindenthalgürtel/Dürener Straße, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der Finanzst - ungeändert empfohlen
+- TOP 5.15: Regionalverkehr Köln GmbH (RVK): Änderung des Gesellschaftsvertrages - ohne Votum in nachfolgende Gremien
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Stadtbahnanbindung Köln-Widdersdorf - Sache ist erledigt
+- TOP 6.2: Förderung der Elektromobilität in Köln - Umsetzungskonzept 1275/2017 - Sache ist erledigt
+- TOP 6.3: Ampelanlage am Verteilerkreis Süd - Sache ist erledigt
+- TOP 6.4: Geschwindigkeitsüberschreitungen der KVB in Tempo 30 Zonen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Öffentlichkeitsbeteiligung und Durchführung der Lärmaktionsplanung des Eisenbahnbundesamtes - Kenntnis genommen
+- TOP 7.2: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 7.3: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.4: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 7.5: Mitnahmeverbot für E-Scooter bei der KVB AG - Kenntnis genommen
+- TOP 7.6: Machbarkeitsstudie zur Erweiterung des RheinEnergie-Stadions - Kenntnis genommen
+- TOP 7.7: Planung einer temporären Fuß- und Radwegerampe an der unterstromigen linksrheinischen Seite der Hohenzollernbrücke zum Breslauer Platz - Kenntnis genommen
+- TOP 7.9: Jahresbericht 2016 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Sachstand zur Anbindung der Linie 3 ans Görlinger Zentrum - Sache ist erledigt
+- TOP 8.2: Liveapp ÖPNV Hamburg - zur weiteren Bearbeitung in die Verwaltung überwiesen
