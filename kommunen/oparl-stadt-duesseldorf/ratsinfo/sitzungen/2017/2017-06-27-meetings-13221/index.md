@@ -1,0 +1,59 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-06-27T17:00:00+02:00
+- Ende: 2017-06-27T19:53:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13221
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13221
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00295520.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00295520.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00295520.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Verpflichtung eines Mitgliedes der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 3: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Schulorganisatorische Maßnahmen für die Martin-Luther-Schule, Evangelische Grundschule Gotenstraße 2 - einstimmig beschlossen
+- TOP 6: Nachmittagsbetreuung an der Hanna-Zürndorfer-Schule und Ausbau OGS Betreuung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 6.1: Sachstandsbericht Schulen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2017) - einstimmig beschlossen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Fahrradständer Nachbarschaftspark Diepenstraße - einstimmig beschlossen
+- TOP 14: Gebot „Rechtsabbiegen“ vom Alten Markt in das Kölner Tor - zurückgezogen
+- TOP 15: Kultur statt Kippe - mehrheitlich abgelehnt
+- TOP 16: Öffentlichkeit durch Live-Stream der Sitzungen - abweichend beschlossen
+- TOP 17: Hundeauslaufplatz Ostpark - abweichend beschlossen
+- TOP 18: Insektenhotels - mehrheitlich abgelehnt
+- TOP 19: Bäumchen an der Pfeifferbrücke - einstimmig beschlossen
+- TOP 20: Straßen- und Wegesituation Pöhlenweg zwischen Hardtstraße und Sulzbachstraße - einstimmig beschlossen
+- TOP 21: Engstelle Radweg an der Benderstraße 103/ Haltestelle Friedingstraße - einstimmig beschlossen
+- TOP 22: Verbesserung der Situation für Radfahrer/-innen an der Kreuzung Dreherstr./Torfbruchstr. 7 - abweichend beschlossen
+- TOP 23: Flächen zur Einrichtung von Wildblumenwiesen - abweichend beschlossen
+- TOP 24: Trinkwasserspender im Dreherpark - abweichend beschlossen
+- TOP 25: Beleuchtung der Rheinbahn - Fahrgastunterstände Am Schmidtberg - abweichend beschlossen
+- TOP 26: Spielplatz Apostelplatz - zur Kenntnis genommen
+- TOP 27: Grütersaaper Weg - vertagt
+- TOP 28: Gerresheimer Glashütte, Abbruch Kartonagenhalle - vertagt
+- TOP 29: Lärmreduzierung Gerricusstraße - vertagt
+- TOP 30: Erörterungstermin Planfeststellung ZDH - zur Kenntnis genommen
+- TOP 31: Tempo 40 auf der Heyestraße - zur Kenntnis genommen
+- TOP 32: Übergang Bahngleise in Höhe des Eingangs zur LVR-Klinik - zur Kenntnis genommen
+- TOP 33: Luftbelastung an der Gutenberg Schule - zur Kenntnis genommen
+- TOP 34: Gaslaternen: Bürgernennungen für den Erhalt der historischen Straßenbeleuchtung - zur Kenntnis genommen
+- TOP 35: Freies WLAN für Hubbelrath und Ludenberg - zur Kenntnis genommen
+- TOP 36: Verkehrssicherheit Brölweg - zur Kenntnis genommen
+- TOP 37: Grünzug Dreherstraße - zur Kenntnis genommen
+- TOP 38: Darstellung der Heyestraße - zur Kenntnis genommen
+- TOP 39: Sicherheit auf der Bertastraße - zur Kenntnis genommen
+- TOP 40: Sichere Schulwege zu den neuen Grundschulen an der Diepenstraße 24 - zur Kenntnis genommen
