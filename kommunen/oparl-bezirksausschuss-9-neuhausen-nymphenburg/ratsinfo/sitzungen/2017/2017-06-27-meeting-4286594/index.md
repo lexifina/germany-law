@@ -1,0 +1,161 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.1.: Migrationsbeirat der Landeshauptstadt München
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.6.1.: Idee einer Kinderbetreuungskonferenz
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Ermöglichung von zusätzlichen sicheren Querungen der Waisenhausstraße, 80637 München
+- TOP 3.1.2.: (E) Pflasterung des Fußweges Ferdinand-Maria-Straße
+- TOP 3.1.3.: (E) Antrag auf Erweiterung einer Freischankfläche (Nibelungenstr. 4) - Beschluss des BA 9 gem. Vollmacht des Oberbürgermeisters
+- TOP 3.1.4.: (E) Antrag auf Erweiterung einer Freischankfläche (Elvirastr. 7) - Beschluss des BA 9 gem. Vollmacht des Oberbürgermeisters
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Winthirplatz Ri. Wendl-Dietrich-Straße: Freigeben für Fahrradfahrer_innen entgegen der Einbahnregelung
+- TOP 3.2.2.: Wotanstraße, Höhe Herthastraße bis Magarethe-Danzi-Straße Ri. Laimer Unterführung: Einrichten eines beidseitig befahrbaren Fahrradwegs
+- TOP 3.2.3.: Bolivarstraße / Ecke Lachmannstraße: Parkmissstände behindern und gefährden Verkehrsteilnehmer_innen
+- TOP 3.2.4.: Erhöhung der Taktzahl der Tram zum Sendlinger Tor versus geplante Verlängerung der Buslinie 153
+- TOP 3.2.5.: Resolution zur Baustelle - Zweite Stammstrecke in Nymphenburg-Süd
+- TOP 3.2.6.: Haltverbotsbereiche in der Heßstraße
+- TOP 3.2.7.: Aufhebung des absoluten Haltverbots in der Johann-Pez-Straße
+- TOP 3.2.8.: Elektrobuseinsatz im 9. Stadtbezirk
+- TOP 3.2.9.: Autonom fahrende Kleinbusse als Nahverkehrsergänzung für den 9. Stadtbezirk prüfen
+- TOP 3.2.10.: Poller an der Kreuzung Frundsbergstraße / Volkartstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Anhörungen zu verkehrsrechtlichen Anordnungen des Kreisverwaltungsreferats
+- TOP 3.3.2.: Hundingstraße / Nornenstraße: Erinnerungsverfahren Baureferat
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: MVG-Rad-Standorte in der Wilhelm-Hale-Straße
+- TOP 3.4.2.: Antrag auf Fahrradabstellplätze vor dem Kino "Maxim" (Landshuter Allee 33) und dem Anwesen Schlörstraße 1
+- TOP 3.4.3.: Romanplatz / Arnulfstraße: Ausfall der Ampel im Monat 02/17
+- TOP 3.4.4.: 1. Winthirstr. 25: Einrichtung einer Kurzparkzone/ eingeschränktes Halteverbot 2. Kreuzung Lachnerstr./ Winthirstr.: Einrichtung eines Fußgängerüberweges
+- TOP 3.4.5.: Verkehrssicherheitsaktion - Abbiegesituationen Donnersbergerbrücke
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Verkehrsentwicklungsplanung - Angebotsverbesserung und Ausbau der umweltgerechten Verkehrsmittel a) Angebotsverbesserung und Ausbau des ÖPNV z.B. durch Taktverdichtung Empfehlung Nr. 14-20 / E 00044 der Bürgerversammlun g des Stadtbezirkes 17  Obergiesing am 05.06.2014 b)Ausbau öffentlicher Nahverkehr Empfehlung Nr. 14-20 / E 01331 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 17.11.2016
+- TOP 3.5.2.: Unterrichtung über verkehrsrechtliche Anordnungen des KVR
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Ideen aus dem World Cafe
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Romanplatz: Umgestaltung
+- TOP 4.2.2.: Romanplatz: Zukunft des Tramhäuschens
+- TOP 4.2.3.: Leere Ladenflächen im 9. SB verhindern durch Unterstützung der LHM im Rahmen des City Managements
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
+- TOP 4.3.2.: Romanstr. 24 - Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 4.3.3.: Rüthlingstr. 1 - Renovierung und Modernisierung Bestandsgebäude mit Verlängerung des Aufzugs ins DG und Ausbau zu einem Staffelgeschoss
+- TOP 4.3.4.: Nymphenburger Str. 163 - Erweiterung und Sanierung Rotkreuzklinikum: hier: 01 Erweiterung Nymphenburger Str. - Antrag auf Vorbescheid
+- TOP 4.3.5.: Nymphenburger Str. 163 - Erweiterung und Sanierung Rotkreuzklinikum: hier: 02 Erweiterung Volkartstr. - Antrag auf Vorbescheid
+- TOP 4.3.6.: Nymphenburger Str. 163 - Erweiterung und Sanierung Rotkreuzklinikum: hier: 03 Erweiterung Winthirstr. - Antrag auf Vorbescheid
+- TOP 4.3.7.: Ysenburgstr. 18 - Sanierung und Umbau Bestandsgebäude, Abbruch und Neuerrichtung der Balkone, ...
+- TOP 4.3.8.: Klugstr. 47 - DG-Ausbau mit Errichtung von Gauben und Balkonen, Neubau eines Wohnhauses und eines Carports - Antrag auf Vorbescheid
+- TOP 4.3.9.: Blutenburgstr. 122 - Neubau eines Wohnhauses (14 WE)
+- TOP 4.3.10.: Fasaneriestr. 14 - Neubau eines Mehrfamilienwohnhauses mit Tiefgarage
+- TOP 4.3.11.: Bebauungsplan mit Grünordnung Nr. 2096a Dachauer Straße (nordöstlich) Heßstraße (südwestlich) Lothstraße (nordwestlich) - Kreativquartier München -
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Preisträgerentwurf des Wettbewerbs - Erweiterungsbau des Museums Mensch und Natur
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldeliste Bauvorhaben
+- TOP 4.5.2.: (E) Schaffung von mehr Radabstellplätzen durch GEWOFAG in ihren Innenhöfen Empfehlung Nr. 14-20 / E 01324 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 17.11.2016
+- TOP 4.5.3.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 4.5.4.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 4.5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.6.: Gesprächstermin BA mit der LBK am 22.05.2017
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Ideen aus dem World Cafe
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Verschönerung der Grünflächen in der Blutenburgstraße (Abschnitt zwischen Landshuter Allee und Pappenheimstraße)
+- TOP 5.2.2.: Schützenswerte Blutbuche in der Hirschgartenallee 19 / Ecke Frickastraße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: - Anhörungen über Baumfällungsanträge - Südliche Auffahrtsallee 39 Dantestr. 1 Therese-Danner-Pl. 7 Rupprechtstr. 17 Dall&#039;Armistr. 36 Tizianstr. 135 Funkerstr. 2
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Luftreinhaltung Landshuter Allee
+- TOP 5.4.2.: Schadstoffreduzierung am Mittleren Ring West
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Bürgerbeschwerde: Nymphenburger Kanal - Vermüllung
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Ideen aus dem World Cafe
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Musik- und Tanztheaterprojekt vom 06. - 13.07.2017
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Dauerkleingartenanlage NW 1 e.V. Kinder- und Bürgerfest am 15.07.2017
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Kindergarten in der Mustersiedlung e.V. Anschaffung und Aufbau eines neuen Spielturms
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 04.08.2017 - 10.09.2017
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Neubau Alten- und Servicezentrum in der Arnulfstraße 294 Antwortschreiben des Kommunalreferates bzgl. Wunsch der Forderung des BA 9, das Projekt zu unterkellern
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 6.6.2.: Ideen aus dem World Cafe
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Hide Out 2" Bluesfest am 20.08.2017
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse ARGE St.Vinzenz-Viertel Straßenfest am 22.07.2017
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Betriebsaufnahme der Stadtteilkultureinrichtung Neuhauser Trafo - Sitzungsvorlagen-Nr. 14-20 / V 08812
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Themen aus dem letzten UA Kultur
+- TOP 7.6.2.: Projekt offene Bücherschränke in München
+- TOP 7.6.3.: Ideen aus dem World Cafe
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Förderverein "Große für Kleine" der Grundschule Winthirplatz e.V. Schüleraustausch vom 26.06. - 02.07.2017
+- TOP 8.1.2.: (E) Budget der Bezirksausschüsse Kinderhaus Ferdinand e.V. Projekt "Sicherer und barrierefreier Spielplatz"
+- TOP 8.1.3.: (E) Budget der Bezirksausschüsse Kindergarten in der Mustersiedlung e.V. Anschaffung und Aufbau eines neuen Spielturms
+- TOP 8.1.4.: (E) Budget der Bezirksausschüsse Montessori-München e.V. Schülerfahrt vom 03.07.2017 - 07.07.2017
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Geplante Kita an der Dachauer Straße
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: RBS: Konzept zur Kooperation zwischen Vereinen und Schulen im 9. Stadtbezirk bei der Sportplatznutzung
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.2.: Ideen aus dem World Cafe
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: 1. Annahme zweckgebundener Spenden für das Bürgerfest 2. Verwendung der Spenden für die Finanzierung des Bürgerfestes
+- TOP 9.1.2.: Annahme einer Spende für das Bürgerfest
+- TOP 9.1.3.: Beschluss über Verwendung von 1.500 € aus dem BA Budget für Bürgerfest
+- TOP 9.1.4.: Beschluss über Nachtrag zum Budget Festakt in Höhe von 1.740 €
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Abhaltung von Hofflohmärkten an Sonntagen
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Feierlichkeiten zum Jubiläum 850 Jahre - Bürgerfest vom 01. bis 02.07.2017
+- TOP 9.3.2.: Straßenfest in der Klugstraße am 07.07.2017
+- TOP 9.3.3.: Straßenfest in der Wilderich-Lang-Straße am 15.07.2017 (Ersatztermin am 22.07.2017)
+- TOP 9.3.4.: Straßenfest in der Donnersbergerstraße am 29.07.2017
+- TOP 9.3.5.: Straßenfest in der Elvirastraße am 22.07.2017
+- TOP 9.3.6.: SPD-Sommerfest auf dem Rotkreuzplatz am 22.07.2017
+- TOP 9.3.7.: Einweihung des Kunstprojekts in der Dom-Pedro-Straße - Fußgängerunterführung unter der Landshuter Allee am 22.07.2017
+- TOP 9.3.8.: GEJA Kunsthandwerksmarkt auf dem Rotkreuzplatz vom 20. - 23.10.2017
+- TOP 9.3.9.: Ökumenischer Gottesdienst im Hirschgarten-Rodelhügel am 28.06.2017
+- TOP 9.3.10.: Feldmesse und Grillfest am Grillplatz Hirschgarten am 15.08.2017
+- TOP 9.3.11.: Abbrennen eines Feuerwerks am 07.08.17 - Birketweg 37
+- TOP 9.3.12.: Unterstützung des BA-Antrages des 11. Stadtbezirkes: Beibehaltung des Hare-Niemeyer-Verfahren bei der Sitzverteilung der Bezirksausschüsse
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Information zur Wiedereröffnung der Toilettenanlage an der Amalienburgstraße (SB 21)
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 9.5.2.: Stadtbezirksbudget für München; Information zum Beschluss des Stadtrates und weiteres Vorgehen
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
