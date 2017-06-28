@@ -1,0 +1,8 @@
+# TOP 2.7: Keine rücksichtslose Verdichtung zu Lasten einer Kita
+
+- Sitzung: 8. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin (2017-06-28)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=40413
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/consultations.asp?typ=i&id=40413
