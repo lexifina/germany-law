@@ -1,0 +1,57 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-06-28T17:00:00+02:00
+- Ende: 2017-06-28T21:35:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3755
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3755
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 21. Sitzung des Hauptausschusses am 17.05.2017 - öffentlicher Teil- - Niederschrift ohne Einwendung
+- TOP 2: Jahresabschluss 2016 der Stadtsparkasse MG - Einstimmiger Beschluss
+- TOP 3: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 4: Feststellung des Gesamtabschlusses 31.12.2010 - Einstimmiger Beschluss
+- TOP 5: Feststellung des Jahresabschlusses 31.12.2015 - Einstimmiger Beschluss
+- TOP 6: Jahresabschluss 2015 - Verwendung des Jahresergebnisses 2015 - Einstimmiger Beschluss
+- TOP 7: zusätzliche beratende Aufsichtsratsmitglieder - Kenntnisnahme
+- TOP 7.1: TOP „Zusätzliche beratende Mitglieder in Aufsichtsräten städtischer Beteiligungsgesellschaften“, Vor - An den Rat verwiesen
+- TOP 8: Übertragung von GEM-Anteilen auf die mags - Mit Stimmenmehrheit beschlossen
+- TOP 9: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 10: Tour de France, Durchfahrt 2 Juli - Mit Stimmenmehrheit beschlossen
+- TOP 10.1: Dringlichkeitsantrag: Offenhalten von Verkaufsstellen - Änderung des Ratsbeschlusses v. 24.05.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 11: Ordnungsbehördliche Verordnung verkaufsoffener Sonntag - Mit Stimmenmehrheit beschlossen
+- TOP 11.1: Ordnungsbehördliche Verordnung verkaufsoffener Sonntag - Ohne Abstimmung
+- TOP 12: Bericht zur Vergabe einer Beratungsdienstleistung - Kenntnisnahme
+- TOP 13: Ausbau OGS - Einstimmiger Beschluss
+- TOP 14: Einrichtung eines Teilstandortes für die GHS Dohr - Mit Stimmenmehrheit beschlossen
+- TOP 15: Festlegung weiterer Schulen mit dem Angebot zum Gemeinsamen Lernen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Fortführung des Projektes Kommunale Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 17: Wahl einer Schiedsperson - Einstimmiger Beschluss
+- TOP 18: Ausbauplanung Kindertageseinrichtungen für die Kindergartenjahre 2017/2018 bis 2022/2023 - An den Rat verwiesen
+- TOP 18.1: Ausbauplanung Kindertageseinrichtungen für die Kindergartenjahre 2017/2018 bis 2022/23 - Ergänzungsantrag; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 08.06.2017 - An den Rat verwiesen
+- TOP 19: Entwicklungskonzept für Spiel- und Freizeitflächen und Aufgabe von Spielplätzen (HSP 2012 - 0124) - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 19.1: Entwicklungskonzept für Spiel- und Freizeitflächen und Aufgabe von Spielflächen (HSP 2012 - 0124): hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 08.06.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 19.2: Entwicklungskonzept für Spiel- und Freizeitflächen und Aufgabe von Spielplätzen - Ohne Abstimmung
+- TOP 20: Flex Verträge - Mit Stimmenmehrheit beschlossen
+- TOP 21: HSP 2016-0225 „Optimierung von gebäudewirtschaftlichen Aufgabenstellungen“ – Grund-satzbeschluss - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 21.1: TOP 4 – Vorlagen-Nr. 2384/IX HSP 2016-0225 „Optimierung von gebäudewirtschaftlichen Aufgabenstellung - Einstimmiger Beschluss
+- TOP 22: Satzung über die erste Verlängerung Veränderungssperre Stapper Weg - Einstimmiger Beschluss
+- TOP 23: Satzung über eine Veränderungssperre Venn - Venner Straße - Einstimmiger Beschluss
+- TOP 24: Nahverkehrsplan - Mit Stimmenmehrheit beschlossen
+- TOP 25: Bebauungsplan Nr. 777/O ("Eintrachtplatz") - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 25.1: TOP „Bebauungsplan Nr. 777/O, Bebauungsplan der Innenentwicklung gemäß § 13a Baugesetzbuch (BauGB) – - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Einrichtung einer Tempo 30-Zone auf dem Stapper Weg; hier: Antrag der Ratsfraktion Bündnis 90 / Die Grünen vom 24.05.2017 - Vom Antragsteller zurückgezogen
+- TOP 27: Familienbericht; hier: Antrag FDP-Ratsfraktion vom 31.05.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Umstrukturierung und Umbenennung des Amtes für Ausländerangelegenheiten; hier: Fraktionsantrag der Fraktion im Rat DIE LINKE vom 02.06.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 29: MG-Familien-App hier: Antrag der FDP-Ratsfraktion vom 02.06.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Kriterien Verkauf städtischer Grundstücke; hier: Antrag der Ratsfraktionen von CDU und SPD vom 07.06.2017 - Mit Stimmenmehrheit beschlossen
+- TOP 31: Modernes Wohnungsangebot in Mönchengladbach; hier: Antrag der Ratsfraktionen von CDU und SPD vom 07.06.2017 - Mit Stimmenmehrheit beschlossen
+- TOP 32: Anfragen und Mitteilungen
+- TOP 32.1: Anfrage von Ratsherrn Schultz, DIE LINKE
+- TOP 32.2: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen - Zur Kenntnis genommen
+- TOP 32.3: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen - Zur Kenntnis genommen
