@@ -1,0 +1,106 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-06-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118703
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118703
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 04.08.2017 - 10.09.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat Sophie-Scholl-Gymnasium Sommerfest am 26.07.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Elterninitiative P-Seminar Geschichte 2016/17 Gisela Gymnasium SchülerInnen-Exkursion vom 15.07.2017 - 22.07.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Basketballkorb am Bolzplatz Elisabeth-Kohn-Straße höher hängen (Antwort des Baureferats Gartenbau auf BA-Schreiben vom 03.05.2017)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheide: a) an das ClubIn für die Fortbildung „Stark für die eigene Rolle in der offenen Jugendarbeit“ b) an das Jugendzentrum LIFE für die AktivFerien am Ackermannbogen c) an PA/Spielkultur e.V. für das CityStories Geschichtenfestival
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Missachtung der Ruhezeiten durch die Gaststätte Kalypso
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Clemensstr. 84 „Der Genussmacher“: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.1.2.: Petra-Kelly-Str. 5 „Comera“: Genehmigung einer Freischankfläche
+- TOP 2.3.1.: Sommerfest Elisabethmarkt am 15.07.2017
+- TOP 2.3.2.: SPD-Straßenfest am 22.07.2017 auf dem Elisabethplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Ackermannbogen e.V.: Sachbericht zur geförderten Ausstellung „Wie geWohnt!“
+- TOP 3.2.2.: Bewilligungsbescheide a) an die Initiative „Figurentheater“ für Ausstellung und Aufführung b) an die Initiative „84 GHz“ für Kunst im Karrée 2017
+- TOP 3.3.1.: TV-Produktion „Schicksale“ am 20.06.2017 von 9.30 bis 12 Uhr in der Friedrichstraße zwische Konrad- und Georgenstraße
+- TOP 3.3.2.: TV-Produktion „Schicksale“ am 20.06.2017 von 9.30 bis 12 Uhr in der Friedrichstraße zwischen Konrad- und Georgenstraße
+- TOP 3.3.3.: TV-Produktion „Die Chefin“ am 06.06.2017 von 8 bis 17 Uhr in der Hohenzollernstr. 27-37
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Keine Nachverdichtung in der Wohnanlage Rümannstr. 21-47
+- TOP 1.2.: Bürger: Anfrage zum Sachstand des Bauvorhabens Adelheidstr. 18
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Bebauungsplan mit Grünordnung Nr. 2096a Dachauer Straße (nordöstlich), Heßstraße (südwestlich), Lothstraße (nordwestlich) Kreativquartier München: Teilquartiere Kreativpark und Kreativplattform
+- TOP 2.1.2.: Kraepelinstr. 31: Abbruch und Neuerrichtung von 6 Dachgeschossen zum Ausbau von 12 Wohnungen sowie Neuerrichtung von 12 Balkonanlagen
+- TOP 2.1.3.: Agnesstr. 41: Dachstuhlerneuerung und DG-Ausbau, Erneuerung und Verlängerung des Aufzugs, Balkonsanierung
+- TOP 2.1.4.: Tengstr. 14: DG-Ausbau zur Wohnraumerweiterung
+- TOP 2.1.5.: Herzogstr. 73 RGB: DG-Ausbau, Sanierung des Dachstuhls mit Einbau von Gauben und Loggia, Neuerrichtung zweier Wohneinheiten in den ehemaligen Werkstätten, Sanierung und Modernisierung der Bestandswohnungen, Anbau von Balkonen
+- TOP 2.1.6.: Fallmerayerstr. 34: Erweiterung eines Balkons
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Mieterhöhungen der GBW in EOF-Wohnungen in der Adams-Lehmann-Str. 83 bis 95
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Vorbescheid Clemensstr. 85 (Hofbebauung): Antwort der LBK auf die BA-Stellungnahme vom 24.11.2016
+- TOP 3.2.2.: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen a) in der Zentnerstr. 24 b) in der Unertlstr. 31
+- TOP 3.2.3.: Beschlussvorlagen für den Ausschuss für Stadtplanung und Bauordnung am 21.06.2017 Überprüfung und Erlass einer Erhaltungssatzung: Satzungsbeschluss Erhaltungssatzung „Josephsplatz“ (Sitzungsvorlage Nr. 14-20/V 08466)
+- TOP 3.2.4.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 3.2.5.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Quälender Brummton in der Schleißheimer Straße / Ecke Ackermannstraße
+- TOP 1.2.: Bürger: Umgestaltung der Belgradstraße zwischen Scheidplatz und Karl-Theodor-Straße
+- TOP 1.3.: Bürger (2 Schreiben): Ackermannbogen nicht in das Parkraummanagement einbeziehen
+- TOP 1.4.: Parzival-Schule: Verkehrsspiegel auf dem Mittelstreifen der Ackermannstraße
+- TOP 1.5.: Bürger: Teerung der Düsseldorfer Straße
+- TOP 1.6.: Bürger: Versetzung des Fußgängerüberweges in der Winzererstraße wegen Baustelle
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Sichere Überquerung der Belgradstraße in Höhe Unertlstraße (Antwort des Baureferats auf BA-Schreiben vom 24.11.2016)
+- TOP 3.1.2.: Geschwindigkeitskontrollen in der Clemensstraße (Antwort des KVR auf BA-Schreiben vom 31.05.2017)
+- TOP 3.1.3.: Bürgeranregungen zur Verkehrssicherheit am Ackermannbogen: Umgestaltung des überbreiten Gehwegbereichs an der Biegung der Adams-Lehmann-Straße (Antwort des Baureferats Tiefbau auf ein weitergeleitetes Bürgeranliegen aus der Aprilsitzung)
+- TOP 3.3.1.: Anfahrtszone vor der städtischen Kindertageseinrichtung Isoldenstr. 17
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: „Dialog-Display“ in München Beschluss des Kreisverwaltungsausschusses vom 16.05.2017 Sitzungsvorlage Nr. 14-20 / V 08723 dazu: Antwortschreiben des Direktoriums auf Antrag des BA 19 „Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirks ermöglichen“
+- TOP 3.4.2.: Ausnahmezulassung für nächtliche Mäharbeiten an Hauptverkehrsstraßen, u.a. an der Ackermannstraße und am Petuelring zwischen Lerchenauer und Schleißheimer Straße
+- TOP 3.4.3.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Oktoberfest 2017 – Reservierung in der Ratsboxe Wunschtermine mit Zeitraum und Teilnehmerzahl
+- TOP F.2.: Sitzungstermine 2018
+- TOP F.3.: Ferienausschuss am 23.08.2017 1 Benennung der Mitglieder 2 Wahl der/des Ferienausschussvorsitzenden 3 Vertretungsregelung
+- TOP G: Verschiedenes
+- TOP H: Termine
