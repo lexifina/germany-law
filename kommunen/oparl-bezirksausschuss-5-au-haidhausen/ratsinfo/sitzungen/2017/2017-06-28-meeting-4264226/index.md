@@ -1,0 +1,207 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-06-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264226
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264226
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 0.: Vorstellung / Gespräch mit Gästen
+- TOP 0.1.: Gespräch mit der IGH wegen einem Runden Tisch zur Situation der Geschäfte während der Bauzeit der 2. S-Bahn-Stammstrecke
+- TOP 4.5.: Gespräch mit der Bürgerinitiative "Sichere Preysingstraße" wegen Poller
+- TOP 5.: Verschiedenes
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Meldung eines Vorfalls von Entblößung in der Öffentlichkeit
+- TOP 4.2.2.: Paulaner Großbaustelle - Schadstoffe, Altlasten
+- TOP 5.1.: Wenn schon Verkehrsüberwachung am Genoveva-Schauer-Platz, dann auch zu der richtigen Zeit
+- TOP 5.2.: Sofortige Überprüfung und Korrektur der Ampelschaltungen im Bereich Schlossstraße / Einsteinstraße Nähe Straßenbahnhaltestelle Linie 25 stadtauswärts
+- TOP 5.3.: Auer Dult I: Lücken in den Standl-Reihen; Erhalt des gewachsenen Charakters der Auer Dult Anfrage
+- TOP 5.4.: Auer Dult II: Keine gleichzeitigen Hofflohmärkte im Stadtbezirk
+- TOP 5.5.: Ist der Busbahnhof am Orleansplatz für Busse mit Anhänger geeignet ? Anfrage
+- TOP 5.6.: Umgehender Beginn der Planung für den S-Bahn-Ausbau des Südrings
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Verein zur Förderung von Eigenarbeit e.V. Do It Together-Sommerfest am 08.07.2017 siehe auch UA Arbeit und Wirtschaft, TOP 1.1
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse IGH e.V. - Interessengemeinschaft der Gewerbetreibenden in Haidhausen Sommerfest am 24./25.06.2017 siehe auch UA Arbeit und Wirtschaft, TOP 1.2
+- TOP 6.1.3.: Budget der Bezirksausschüsse AKA e.V. Haidhauser Kultursonntag am 02.07.2017 siehe auch UA Arbeit und Wirtschaft, TOP 1.3
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Mariahilfplatz Zwei Tanzprojekte im Schuljahr 2017/2018 siehe auch UA Arbeit und Wirtschaft TOP 1.4 und UA Soziales, TOP 1.1
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 05.07.2017 siehe auch UA Arbeit und Wirtschaft, TOP 1.5
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017
+- TOP 6.1.7.: (E) Budget der Bezirksausschüsse Arbeitsgemeinschaft Kinder und Jugendliche in Au/Haidhausen Haidhauser Kultursonntag am 03.07.2017 siehe auch TOP 1.9 UA Arbeit und Wirtschaft
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche: "Kaffeerösterei Vogelmaier", Einsteinstr. 125 siehe auch UA Arbeit und Wirtschaft, TOP 1.7
+- TOP 6.2.2.: Errichten einer Freischankfläche: Gaststätte "Bosporus", Ohlmüllerstr. 26 siehe auch UA Arbeit und Wirtschaft, TOP 1.8
+- TOP 7.1.: Anhörung/ Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM
+- TOP 7.2.: Sitzverteilung Bezirksausschüsse (Antrag BA 11 Milbertshofen-Am Hart)
+- TOP 7.3.: Erläuterungstafel Georg-Riedmeier-Weg
+- TOP 8.1.1.: Illegalen Autoverkehr in der Fußgängerzone beim Genoveva-Schauer-Platz wirksam unterbinden
+- TOP 8.1.2.: Hypopark (I): Austausch der Tore
+- TOP 8.1.3.: Hypopark (II): Bodenbelag auf dem Bolzplatz erneuern
+- TOP 8.1.4.: Einführung der Beschlussvollzugskontrolle für die Münchner Bezirksausschüsse
+- TOP 8.1.5.: Stimm- und antragsberechtigte Personen auf Bürgerversammlungen
+- TOP 8.1.6.: Baumkataster adaptieren ?
+- TOP 8.1.7.: Infrastruktur für Seniorinnen und Senioren ausbauen - Neue Alten- und Servicezentren für den Stadtbezirk 5 schaffen
+- TOP 8.1.8.: Aufwertung des Kroneparks
+- TOP 8.1.9.: Finanzierung Modellprojekt Rosenheimer Straße
+- TOP 8.1.10.: Vergleichende Messungen der TRAM-Fahrgeräusche
+- TOP 8.1.11.: Geschwindigkeitsanzeigetafeln an der Hochstraße
+- TOP 8.2.1.: Beendigung der Verpachtung öffentlichen Grundes (ehemaliger Biergarten der Gaststätte "Huterer", Grütznerstr. 8) - BA-Antrag Nr. 14-20 / B 02518; hier: Nachfrage wegen Erdarbeiten
+- TOP 8.2.2.: Mitnutzung des öffentlichen Spielplatzes an der Ernst-Reuter-Straße durch die Grundschule an der Ernst-Reuter-Straße BA-Antrag Nr. 14-20 / B 03401 Bitte um Fristverlängerung bis 21.07.2017
+- TOP 8.3.1.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen
+- TOP 8.3.2.: Stadtbezirksbudget für München; Beschluss des Stadtrates und weiteres Vorgehen
+- TOP 8.3.3.: Kampagne "Wählen gehen für Demokratie und Menschenrechte !"
+- TOP 8.3.4.: Freiwillige Wahlhelfer zur Bundestagswahl 2017
+- TOP 8.4.1.: Unterrichtungen und Informationen BA 5 - Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Entenbachstr. 29: Fällung einer Traubenkirsche und einer Robinie
+- TOP 7.2.: Rosenheimer Str. 15: Baumfällung im Zusammenhang mit Nutzungsänderung und Modernisierungsmaßnahmen
+- TOP 7.3.: Falkenstr. 11: Baumfällung im Zusammenhang mit Abgrabung zur Grundstücksaufbereitung / Altlastensanierung
+- TOP 7.4.: Falkenstr. 11: Baumfällung im Zusammenhang mit Neubau eines Wohnhauses
+- TOP 7.5.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 7.6.: Baum-Masterplan für München (Antrag BA 1 Altstadt-Lehel)
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017 siehe auch TOP A 6.1.6 und TOP 1.6 UA Arbeit und Wirtschaft Sitzungsvorlage Nr. 14-20 / V 08824 - Wiedervorlage aus der Sitzung vom 17.05.2017 -
+- TOP II.2.: Wettbewerb "München - rechts der Isar", Anfrage des BA
+- TOP II.3.: Kulturveranstaltung in der Muffathalle - Anfrage
+- TOP II.4.: Temporäre Kunst im öffentlichen Raum: "Creating Europe" vom 14.09. - 16.09.2017 am Weißenburger Platz siehe auch UA Arbeit und Wirtschaft
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Mariahilfplatz Zwei Tanzprojekte im Schuljahr 2017/2018 siehe auch TOP 6.1.4
+- TOP 2.: Anhörungen
+- TOP 2.1.: Bolzplatz an der Flurstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Mai 2017
+- TOP 3.2.: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidatinnen und Kandidaten am 27.09.2017 ab 15 Uhr im ASZ Au
+- TOP 3.3.: Neuer Vorstand im Kreisjugendring München-Stadt
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Mehr Betreuungsplätze für Schulkinder / Grundschule Bazeillesstr. 8
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Verein zur Förderung von Eigenarbeit e.V. Do It Together-Sommerfest am 08.07.2017 siehe auch TOP A 6.1.1
+- TOP 1.2.: (E) Budget der Bezirksausschüsse IGH e.V. - Interessengemeinschaft der Gewerbetreibenden in Haidhausen Sommerfest am 24./25.06.2017 siehe auch TOP A 6.1.2
+- TOP 1.3.: Budget der Bezirksausschüsse AKA e.V. Haidhauser Kultursonntag am 02.07.2017 siehe auch TOP A 6.1.3
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Mariahilfplatz Zwei Tanzprojekte im Schuljahr 2017/2018 siehe auch TOP A 6.1.4
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 05.07.2017 siehe auch TOP 6.1.5
+- TOP 1.6.: Budget der Bezirksausschüsse Initiative „Kunstworkshops“, c/o F. Wolff Drei Kunstworkshops für Kinder in den Sommerferien 2017 siehe auch TOP A 6.1.6 und TOP 1 UA Kultur Sitzungsvorlage Nr. 14-20 / V 08824 - Wiedervorlage aus der Sitzung vom 17.05.2017 -
+- TOP 1.7.: Erweiterung einer bestehenden Freischankfläche: "Kaffeerösterei Vogelmaier", Einsteinstr. 125 siehe auch TOP A 6.2.1
+- TOP 1.8.: Errichten einer Freischankfläche: Gaststätte "Bosporus", Ohlmüllerstr. 26 siehe auch TOP A 6.2.2
+- TOP 1.9.: (E) Budget der Bezirksausschüsse Arbeitsgemeinschaft Kinder und Jugendliche in Au/Haidhausen Haidhauser Kultursonntag am 03.07.2017 siehe auch TOP A 6.1.7
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ferienprogramm Skateboard in der Postwiese vom 05.-09.06. und 12.-16.06.2017 (Vorabzustimmung durch den Vorsitzenden erfolgt)
+- TOP 2.2.: Haidhauser Kultursonntag am 02.07.2017 am Johannisplatz
+- TOP 2.3.: Sommerfest des Vereins zur Förderung von Eigenarbeit e.V. am 08.07.2017 am Orleansplatz und Wörthstr. 42
+- TOP 2.4.: 8. Münchner Radlnacht am 24.06.2017
+- TOP 2.5.: Aktionswoche Münchner Kammerspiele vom 27.06.2017 am Wiener Platz
+- TOP 2.6.: Lozzi-Lauf des Pestalozzi-Gymnasiums am 18.07.2017 in den Isarauen
+- TOP 2.7.: Gemeindefest St. Johannes am 23.07.2017 am Preysingplatz
+- TOP 2.8.: SPD-Sommerfest am 15.07.2017 am Bordeauxplatz
+- TOP 2.9.: Green Dinner der Bündnis 90/Die Grünen am 05.08.2017 am Weißenburger Platz
+- TOP 2.10.: 19. Lederhosenfest der Gaststätte "Wirtshaus in der Au" am 28.07.2017 in der Lilienstr. 51
+- TOP 2.11.: Antrag auf Betriebszeitverlängerung für den Gastraumbereich des Cafes "Albert und Charlie" in der VHS Einsteinstr. 28 von 22 auf 24 Uhr
+- TOP 2.12.: Antrag auf gesetzliche Sperrzeit für den Gastraumbereich des "Noel Cafe" in der Metzstr. 8
+- TOP 2.13.: Herbstfest des Vereins der Förderer des Hauses des Deutschen Ostens am 15.09.2017 Am Lilienberg
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Temporäre Kunst im öffentlichen Raum: "Creating Europe" vom 14.09. - 16.09.2017 am Weißenburger Platz siehe auch UA Kultur
+- TOP 3.2.: Umsetzung einer Freischankfläche aufgrund einer kurzfristigen Baumaßnahme, erlaubnisfreie Gaststätte "Sapori del Salento", Weißenburger Platz 6
+- TOP 3.3.: Genehmigung zweier Zeitungsentnahmegeräte der "tz" in der Welfenstr. 23 und 66 Entscheidung des Oberbürgermeisters
+- TOP 3.4.: Falkenstr. 2 a, Blumenladen Lebenslust (Antwortschreiben zu Feuerwehrzufahrt)
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Claude-Lorrain-Str. 5: Dachgeschoss-Aufstockung (2 WE) und Errichtung von 4 Balkonen, Einbau einer Liftanlage und dreier versenkbarer KfZ-Stellplätze
+- TOP 2.2.: Entenbachstr. 36: Durchbruch der Brandwand im Erdgeschoss zur Errichtung einer Verbindungstür zu Hausnr. 38, Schließen des Türdurchgangs zwischen Treppenhaus und WC
+- TOP 2.3.: Entenbachstr. 38: Durchbruch der Brandwand im Erdgeschoss zur Errichtung einer Verbindungstür zu Hausnr. 36 sowie eines neuen straßenseitigen Zugangs
+- TOP 2.4.: Sedanstr. 8: Errichtung einer Wohneinheit in der Hofdurchfahrt und Nutzungsänderung im Erdgeschoss: Ladeneinheit zu Wohnung
+- TOP 2.5.: Am Neudeck: Neubau eines Wohngebäudes mit Tiefgarage, Vorbescheid
+- TOP 2.6.: Barnabasstr. 3: Nutzungsänderung ohne bauliche Maßnahmen: Wohnung zu Büroräumen
+- TOP 2.7.: Kirchenstr. 38: Nutzungsänderung eines Kindergartenbüros zu einem Spiel- und Pausenraum
+- TOP 2.8.: Rosenheimer Str. 79: Nutzungsänderung: Apotheke im EG zu Kiosk mit Tipp-Annahme sowie Apothekenkeller im Untergeschoss zu Lager, Abbruch der internen Verbindungstreppe und Verschließen der Deckenöffnung
+- TOP 2.9.: Franz-Prüller-Str. 16: Nutzungsänderung eines Gebäudes: Wohngruppe für betreute Kinder und Jugendliche zu Wohngruppe für maximal 6 betreute Kinder und Jugendliche
+- TOP 2.10.: Rosenheimer Str. 15: Nutzungsänderung und geringfügige Modernisierungsmaßnahmen im Erdgeschoss
+- TOP 2.11.: Kellerstr. 41 Rückgebäude: Neubau 3. Obergeschoss und Dachgeschoss, Anbau von Balkonen und eines Aufzugs sowie Dämmung der Außenwände; Tektur (hier: Änderung der Wohnungsaufteilung 3. OG und DG)
+- TOP 2.12.: Kellerstr. 41 Rückgebäude: Neubau 3. Obergeschoss und Dachgeschoss, Anbau von Balkonen und eines Aufzugs sowie Dämmung der Außenwände; Tektur (hier: Anbau von 4 zusätzlichen Balkonen im 1. und 2. OG)
+- TOP 2.13.: Maria-Theresia-Str. 4: Neubau eines Wohnhauses mit Tiefgarage, Vorbescheid
+- TOP 2.14.: Falkenstr. 11: Neubau eines Wohnhauses (212 Wohneinheiten) mit Einzelhandelsfläche und Gemeinschaftstiefgarage
+- TOP 2.15.: Franziskanerstr. 38: Errichtung einer Wohnanlage (56 Wohneinheiten) mit gewerblicher Nutzung (Erdgeschoss) und Tiefgarage, Vorbescheid
+- TOP 2.16.: (U) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/17 Rosenheimer Straße (nordwestlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingerstraße (westlich), Mühldorferstraße (südwestlich) und Friedenstraße (südöstlich) a) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss b) Aufhebung des Billigungsbeschlusses und vorbehaltlich endgültiger Beschluss der Vollversammlung vom 14.12.2016 (Sitzungsvorlage Nr. 14-20 / V 07487)
+- TOP 2.17.: Rablstr. 29: Anbau eines Personenaufzugs im Innenhof
+- TOP 2.18.: Edlingerstr. 15 / Rgb.: Nutzungsänderung im EG
+- TOP 2.19.: Lucile-Grahn-Str. 48: Umbau einer Dachgeschoss-Wohnung und Einbau eines Aufzugs
+- TOP 2.20.: Zeppelinstr. 29: Nutzungsänderung in einem Wohn- und Geschäftshaus: Büro (Erdgeschoss) sowie 2 Büros (1. Obergeschoss) zu Wohnungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schneckenburgerstr. 32, Baugenehmigung
+- TOP 3.2.: Metzstr. 8, Baugenehmigung
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens Empfehlung Nr. 14-20 / E 01061 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 28.06.2016
+- TOP 3.5.: (U) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
+- TOP 3.6.: Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke Sitzungsvorlagen Nr. 14-20 / V 08966, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.217
+- TOP 3.7.: Wohnen in München V: Erfahrungsbericht für das Jahr 2016 / Bilanz "20 Jahre München Modell" / Einrichtung einer Stabsstelle Sitzungsvorlagen Nr. 14-20 / V 08922, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017
+- TOP 3.8.: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung Sitzungsvorlagen Nr. 14-20 / V 08537
+- TOP 3.9.: Besprechungstermin zur Kaminsprengung Regerstr. 28 am 09.06.2017
+- TOP 3.10.: Maria-Theresia-Str. 1 a, Baugenehmigung
+- TOP 3.11.: Tausch eines Grundstücks nähe Hochstraße / Rosenheimer Straße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Sanierungs-/Modernisierungsmaßnahmen im Erhaltungssatzungsgebiet Haidhausen
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Durchführung eines Verkehrsversuchs: Tempo 30 in der Rosenheimer Straße zwischen Rosenheimer Platz und Orleansstraße mit unterstützenden Maßnahmen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zwischenmittteilung zur Herstellung des Brunnenbereichs am Orleansplatz
+- TOP 3.2.: Terminvorschläge zur Bekanntgabe der Fahrgastzahlen Bus X 30
+- TOP 3.3.: X 30 Linie - Lärmbelästigung durch Busse der MVG
+- TOP 3.4.: Ergebnis Ortstermin am Haidenauplatz wegen Containerinsel
+- TOP 3.5.: Verkehrsrechtliche Anordnungen: - Zumpestr. 8, Einrichtung eines personenbezogenen Behindertenparkplatzes - Bazeillesstraße: Erneuerung und Verlängerung der vorhandenen Grenzmarkierung
+- TOP 3.6.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 3.7.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Tempo 30 Rosenheimer Straße und die damit verbundene Einbahnregelung der Bazeillesstraße / Errichtung einer Fahrradstraße in der Balanstraße
+- TOP 4.2.: Parkplatzregelung Preysingplatz
+- TOP 4.3.: Containerstandort Edlinger Platz
+- TOP 4.4.: Situierung des Rettungsschachts für die 2. S-Bahn Stammstrecke in der Püttrichstraße / Baumfällungen während der Bauarbeiten
+- TOP 5.1.: Ergebnis Ortstermin zum Antrag "Kreuzung Grillparzer-/Einsteinstraße für den Radverkehr optimieren"
+- TOP 5.2.: Reaktivierung des Antrags auf Errichtung von Taubenhäusern; hier: Orleansplatz
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 10.07.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 10.07.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 11.07.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb. UA Kultur, 12.07.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 13.07.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 19.07.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 04.07.2017, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Oktoberfest 2017, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 4.2.: Tag der offenen Tür im ASZ Untergiesing am 22.062017
+- TOP 4.3.: BA-Dialog am 18.07.2017 mit dem Referat für Bildung und Sport
+- TOP 4.4.: Einladung zur Fahrzeugweihe des THW am 22.07.2017
+- TOP 4.5.: Ortstermin zur Sanierung des Deutschen Museums am 20.07.2017 um 18 Uhr
+- TOP 4.6.: Sommerfest der Polizeiinspektion 21 am 12.07.2017 von 14-22 Uhr
+- TOP 4.7.: Sommerfest des Adelgundenheims am 05.07.2017 von 15 - 19 Uhr
