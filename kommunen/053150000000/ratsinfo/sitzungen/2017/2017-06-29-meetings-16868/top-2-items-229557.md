@@ -1,0 +1,6 @@
+# TOP 2: Flüchtlingsunterbringung
+
+- Sitzung: Sitzung des Sportausschusses (2017-06-29)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/229557
