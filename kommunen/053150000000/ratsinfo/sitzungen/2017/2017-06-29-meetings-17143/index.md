@@ -1,0 +1,86 @@
+# 23. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-06-29T16:30:00+02:00
+- Ende: 2017-06-29T19:00:00+02:00
+- Ort: Restaurant des Kölner Zoos
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17143
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17143
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch des Stadtdirektors
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Bewegungsmöglichkeiten für ein E-Mobil" (AZ.: 02-1600-218/16) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Parkplatznot in Alt-Niehl - Kenntnis genommen
+- TOP 7.1.2: Kleingartenanlage An der Ling - Kenntnis genommen
+- TOP 7.1.3: Barrierefreiheit für mobilitätseingeschränkte Senioren - Kenntnis genommen
+- TOP 7.1.4: Anfrage d.Frakt.Bündnis 90/Grüne v.19.01.2017 betr.Solartankstellen/Ladestationen für Elektroautos u.E-Bikes auf dem Clouth-Gelände (AN/0079/2017); hier: Beantwortung einer Nachfrage von Fr.Bechberger a.d.BV5-Sitzung v.23.03.17 (TOP 7.1.4 - 0363/2017 - Kenntnis genommen
+- TOP 7.1.5: Parksituation in der Straße "Auf der Seekante" in Alt-Niehl - Kenntnis genommen
+- TOP 7.1.6: Neugestaltung Ortseingang Niehl - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Kriminalitätsentwicklung Bezirk Nippes 2016
+- TOP 7.2.2: Göppinger Straße - Kenntnis genommen
+- TOP -: Göppinger Straße
+- TOP 7.2.3: Sachstand Riehler Plätzchen
+- TOP 7.2.4: Gelände entlang der Franz-Freiß-Straße
+- TOP 7.2.5: Lärmschutz an Landesstraßen
+- TOP 7.2.6: Auf dem Ginsterberg 6-34
+- TOP 7.2.7: Verzögerung beim Start des onlinegestützten Vormerk- und Anmeldeverfahrens "Little Bird" für Kitas in Köln
+- TOP 7.2.8: Verkehrsspiegel an viel befahrenen Kreuzungen, um Radfahrer im sogenannten "Toten Winkel" erkennbar zu machen
+- TOP 7.2.9: Schulwegsicherung in der Nibelungenstraße
+- TOP 7.2.10: Direktwahl im Bezirksrathaus
+- TOP -: Direktwahl im Bezirksrathaus - Anfrage der CDU-Fraktion zur Sitzung der Bezirksvertretung Nippes am 29.06.2017
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Prüfung der Barrierefreiheit auf Gehwegen im Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.1.2: Filtersysteme nach dem OSF Verfahren - ungeändert beschlossen
+- TOP 8.1.3: Straßenbaumneupflanzung auf der Florastraße - geändert beschlossen
+- TOP 8.1.4: Sperrung der Parkplätze unter der Hochbahn für Wohnmobile - zurückgestellt
+- TOP 8.1.5: Quartiersparkhäuser in Nippes - zurückgestellt
+- TOP 8.1.6: Radweg von EAW Gelände über Etzelstraße zur künftigen Gesamtschule nach Longerich - zurückgestellt
+- TOP 8.1.7: Nachhaltige Beseitigung von Angsträumen an der Haltestelle Geldernstraße - geändert beschlossen
+- TOP 8.1.8: Aufwertung der Grünfläche am Artushof - zurückgestellt
+- TOP 8.1.9: Instandsetzung von Radwegen - ungeändert beschlossen
+- TOP 8.1.10: Bericht über Spielplätze im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.1.11: Schulgelände Paul-Humburg-Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Umwidmung von Liegenschaften entlang der Longericher Straße im Bilderstöckchen - geändert beschlossen
+- TOP 8.2.2: Lärmreduzierung bei HGK - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Neusser Straße - Generalsanierungsmaßnahme - ungeändert beschlossen
+- TOP 9.1.2: Widmung der Vulkanstraße in Köln-Weidenpesch - ungeändert beschlossen
+- TOP 9.1.3: 4 Tage - 4 Pfeiler - ungeändert beschlossen
+- TOP 9.1.4: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Hier: Zuwendung aus dem städtischen Aktivierungsfonds für die Projekte im Sozialraum Bilderstöckchen - ungeändert beschlossen
+- TOP 9.1.5: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kölner Renn-Verein 1897 e.V. - ungeändert beschlossen
+- TOP 9.2.2: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert beschlossen
+- TOP 9.2.3: Seniorenkoordination im Stadtbezirk - Alternative beschlossen
+- TOP 9.2.4: Anbindung weiterer Stadtteile an den ÖPNV-Nachtverkehr am Wochenende - ungeändert beschlossen
+- TOP 9.2.5: Baubeschluss für die Umgestaltung des Knotenpunktes Ossietzkystraße/Longericher Straße /Etzelstraße in einen Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6610, Straßenbaul. Maßn. Schul-/Kita - geändert beschlossen
+- TOP 9.2.6: Errichtung einer stationären Geschwindigkeitsüberwachungsanlage auf dem Schiefersburger Weg - Nippes - ungeändert beschlossen
+- TOP 9.2.7: Autohaus Robert-Perthel-Straße in Köln-Longerich/-Bilderstöckchen; VEP; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2016 - Kenntnis genommen
+- TOP 10.2.2: Grüngelände parallel zur Wilhelm-Sollmann-Straße/Johannes-Rings-Straße - Kenntnis genommen
+- TOP 10.2.3: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.4: Beleuchtung - Kenntnis genommen
+- TOP 10.2.5: Antrag der SPD-Fraktion vom 07.03.2017 betreffend Umwidmung von Liegenschaften entlang der Longericher Straße in Bilderstöckchen (AN/0382/2017); hier: Beantwortung einer Nachfrage des Herrn Bezirksbürgermeister Schößler a.d.Sitzung d. BV 5 v.11.05.17 - Kenntnis genommen
+- TOP 10.2.6: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 10.2.7: Absperrung der Fuß- und Fahrradwege im Johannes-Giesbert-Park durch Poller - Kenntnis genommen
+- TOP 10.2.8: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 10.2.9: Stadtbahnlinie 15 - Haltestelle Meerfeldstraße - Kenntnis genommen
