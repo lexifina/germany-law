@@ -2,13 +2,12 @@
 Anlage 7
 Anwärtergrundbetrag
 (Monatsbeträge in Euro)
-Gültig ab 01. Juli 2016
+Gültig ab 01. Juli 2017
 Einstiegsamt, in das die Anwärterin oder der Anwärter nach Abschluss des Vorbereitungs- dienstes unmittelbar eintritt | Grundbetrag
-A 5 bis A 8 | 1.063,37
-A 9 bis A 11 | 1.118,68
-A 12 | 1.261,84
-A 13 | 1.294,39
+A 6 bis A 8 | 1.098,37
+A 9 bis A 11 | 1.153,68
+A 12 | 1.296,84
+A 13 | 1.329,39
 A 13 + Zulage | 
-(Nummer 12 Buchst. b der Vorbemerkungen | 
-zu den Besoldungsordnungen A und B) | 
-oder R 1 | 1.330,17
+(§ 42 Nr. 2 c ) | 
+oder R 1 | 1.365,17

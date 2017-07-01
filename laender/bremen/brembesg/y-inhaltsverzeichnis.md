@@ -53,7 +53,7 @@ Abschnitt 4 Zulagen, Vergütungen
 § 42 | Allgemeine Stellenzulage
 § 43 | Zulage für Beamtinnen und Beamte beim Landesamt für Verfassungsschutz
 § 44 | Zulage für Beamtinnen und Beamte mit vollzugspolizeilichen Aufgaben
-§ 45 | Zulage für Beamtinnen und Beamte im Einsatzdienst der Feuerwehr
+§ 45 | Zulage für Beamtinnen und Beamte der Berufsfeuerwehr
 § 46 | Zulage für Beamtinnen und Beamte bei Justizvollzugseinrichtungen, Gerichten und Psychiatrischen Krankenhäusern
 § 47 | Zulage für Beamtinnen und Beamte der Steuerverwaltung
 § 48 | Zulage für Lehrerinnen und Lehrer als Pädagogische Mitarbeiterin oder Pädagogischer Mitarbeiter

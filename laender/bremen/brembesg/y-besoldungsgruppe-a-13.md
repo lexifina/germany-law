@@ -30,11 +30,6 @@ Sonderschullehrerin14) 15), Sonderschullehrer14) 15)
 Studienrätin2), Studienrat2)
 - an allgemeinbildenden und beruflichen Schulen sowie an Regionalen Beratungs- und Unterstützungszentren -
 Fußnoten
-4) Entfällt.
-7) Entfällt.
-8) Entfällt.
-13) Entfällt.
-Fußnoten
 1) Für Beamtinnen und Beamte der Fachrichtung Technische Dienste und der Fachrichtung Feuerwehr können für Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe sachgerechter Bewertung bis zu 20 vom Hundert der Stellen für technische Beamtinnen und Beamte der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage 6 ausgestattet werden, sofern es sich nicht um das Einstiegsamt handelt.
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.

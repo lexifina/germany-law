@@ -2,6 +2,6 @@
 Anlage 9
 Zulage für Dienst zu ungünstigen Zeiten
 (Beträge in Euro)
-Gültig ab 01. Juli 2016
+Gültig ab 01. Juli 2017
 § 4 Abs. 1 Nr. 1EZulV
-3,32
+3,39
