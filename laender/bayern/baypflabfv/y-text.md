@@ -1,0 +1,1 @@
+Auf Grund des § 4 Abs. 4 des Abfallbeseitigungsgesetzes (AbfG) vom 7. Juni 1972 (BGBl I S. 873), zuletzt geändert durch Gesetz vom 15. März 1974 (BGBl I S. 721), erläßt die Bayerische Staatsregierung folgende Verordnung:
