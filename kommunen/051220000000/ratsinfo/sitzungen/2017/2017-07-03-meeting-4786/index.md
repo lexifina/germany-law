@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-07-03T17:00:00+02:00
+- Ende: 2017-07-03T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZcNTGFAusraikHpgv_7aqKo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4786
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYTp3MiLW3wLJRn9Cp7XzuT1Zoar4JazGSblcHSC0ygJ/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_03.07.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Auswirkungen der Maßnahmen Anbindung B 229/A 3 Solingen Langenfeld
+- TOP 2: Bordsteinspitze auf Konrad-Adenauer-Straße
+- TOP 3: Unterstützung bei der Abwehr nicht integrierter Einzelhandelsstandorte
+- TOP 4: Anfrage „Lärmoptimierter Asphalt in der Lärmaktionsplanung“
+- TOP 5: Bauleitplanung Hermann-Löns-Weg
+- TOP 6: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 7: Protokoll
+- TOP 8: Protokoll
+- TOP 9: Eingabe nach § 24 GO NRW
+- TOP 10: Einsparungen im ÖPNV gemäß Ratsbeschluss vom 08.12.2016
+- TOP 11: Einsparungen im ÖPNV gemäß Ratsbeschluss vom 08.12.2016
+- TOP 12: Vorschlag der Geschäftsführung der Stadtwerke Solingen GmbH (SW SG) zur Einhaltung der Verlustobergrenze im Verkehrsbereich
+- TOP 13: Vorschlag der Geschäftsführung der Stadtwerke Solingen GmbH (SW SG) zur Einhaltung der Verlustobergrenze im Verkehrsbereich
+- TOP 14: Taxibus für den Siedlungsbereich Eipaß/Fürkeltrath und das Gewerbegebiet Dycker Feld
+- TOP 15: Sperrung der Bahnstrecken in Wuppertal/Auswirkungen auf die PendlerInnen in Solingen in den Sommerferien 2017
+- TOP 16: Zwischen Rhein und Wupper: Zusammen – wachsen
+- TOP 17: Erlass einer Gebiets- und Abgabensatzung für eine Immobilien- und Standortgemeinschaft im Stadtteilzentrum Ohligs
+- TOP 18: Sachstand und Perspektiven für die Solinger Innenstadt
+- TOP 19: Sachstand Planung Theaterumfeld
+- TOP 20: Straßenraumgestaltung Burgstraße
+- TOP 21: Sachstand Erstellung des integrierten kommunalen Elektromobilitätskonzeptes
+- TOP 22: Naturschutzmaßnahmen nach den Förderrichtlinien Naturschutz (FöNa) 2017
+- TOP 23: Südlicher Gehweg Hildener Straße zwischen Grenz- und Lübecker Straße in Ergänzung zu der Fahrbahnerneuerung nach dem Kommunalinvestitionsförderungsgesetz (KInvFG)
+- TOP 24: Straßenausbau-Begleitmaßnahme Löhdorfer Straße (L67) im Zusammenhang mit der nach dem Kommunalinvestitionsförderungsgesetz (KInvFG) geförderten Fahrbahnerneuerung mit lärmminderndem Asphalt
+- TOP 25: Bauleitplanung Weyerstraße/ Gottlieb-Heinrich-Straße
+- TOP 26: Bauleitplanung Talstraße/ Forststraße
+- TOP 27: Bauleitplanung Düsseldorfer Straße/ Baustraße
+- TOP 28: Bauleitplanung Elisenstraße / Entenpfuhl
+- TOP 29: Wupperbrücke Leichlinger Straße
+- TOP 30: Verschiedenes
+- TOP 31: Einrichtung der Einbahnstraße Potsdamer Straße in dem Bereich von Haumannstraße – Konrad-Adenauer-Straße
+- TOP 32: Bauleitplanung Aachener Straße/Heiligenstock
+- TOP 33: Erarbeitung des Regionalplans Düsseldorf (RPD)
+- TOP 34: Information über den aktuellen Stand des ExWoSt – Forschungsprojekts
+- TOP 35: Jugendherberge in Oberburg
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Erlass einer Gebiets- und Abgabensatzung für eine Immobilien- und Standortgemeinschaft im Stadtteilzentrum Ohligs
+- TOP 4: Verschiedenes
+- TOP 5: Errichtung und Betrieb der Windkraftanlage Gräfrath "Auf der Geleichten"
