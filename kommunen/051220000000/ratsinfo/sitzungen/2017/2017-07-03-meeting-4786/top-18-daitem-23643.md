@@ -1,0 +1,7 @@
+# TOP 18: Sachstand und Perspektiven für die Solinger Innenstadt
+
+- Sitzung: Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (2017-07-03)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/23643
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/23999
