@@ -1,0 +1,59 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-03T17:02:00+02:00
+- Ende: 2017-07-03T19:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16871
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16871
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Europäische Charta der Gleichstellung von Frauen und Männern auf lokaler Ebene - Kenntnis genommen
+- TOP 1.2: Das neue Landesgleichstellungsgesetz NRW - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Fördertopf "Städtepartnerschaften gestalten 2016!" - Kenntnis genommen
+- TOP 2.2: Verwendung der Mittel aus dem Fördertopf Entwicklungszusammenarbeit 2016 - Kenntnis genommen
+- TOP 2.3: Sachstand Konzept für ein Fördermonitoring und -management - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Neue Parkausweise für Handwerker und ambulante soziale Dienste in NRW - Kenntnis genommen
+- TOP 4.2: Mitteilung betreffend "Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses am 12.06.2017 betreffend "Einsatz eines „Kümmerers“ im Domumfeld" (AN/0830/2017)" - Kenntnis genommen
+- TOP 4.3: Verwaltungsreform - aktueller Sachstand der Umsetzungsphase - Kenntnis genommen
+- TOP 4.4: Luftreinhaltung - Sachstand zum Runden Tisch - zurückgestellt
+- TOP 4.5: Mitteilung betreffend "Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Verkehrsausschusses am 27.06.2017 betreffend "Organisation des Dezernates VIII - Mobilität und Verkehrsinfrastruktur" (AN/0779/2017)" - Kenntnis genommen
+- TOP 4.6: Sachstand Ausgleichszahlung BAB 3 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Geschäftsprozessoptimierung - Bericht 2016 - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Gruppe Piraten betreffend "Städtische Videoüberwachung 2015 und 2016" zur Sitzung am 25.04.2016 - zurückgestellt
+- TOP 6.2: Anfrage der DieLinke-Fraktion betreffend ""Gefährliche Orte" in Köln" zur Sitzung am 08.05.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 30.05.2017 - Kenntnis genommen
+- TOP 6.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Entwicklungskonzept für IT- und technische Berufe in der Verwaltung" zur Sitzung am 08.05.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 26.06.2017 - Kenntnis genommen
+- TOP 6.4: Anfrage der Gruppe Piraten betreffend "Reichsbürgerinnen und -bürger in Köln – Kontrolle von waffenrechtlichen Erlaubnissen" zur Sitzung am 03.07.2017 - zurückgestellt
+- TOP 6.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Sag´s uns-App der Stadt Köln" zur Sitzung am 03.07.2017 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Gruppe Piraten betreffend "Köln wird korporatives Mitglied bei Transparency International" - zurückgestellt
+- TOP -: Stellungnahme vom 26.06.2017 - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Änderung der Zuständigkeitsordnung der Stadt Köln - mit Änderungen empfohlen
+- TOP 10.2: Hochwasserschutzzonenverodnung Poll bis Rheinpark Deutz - ungeändert beschlossen
+- TOP 10.3: Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - geändert beschlossen
+- TOP 10.4: Einleitung von Vergabeverfahren und Abschluss von Rahmenverträgen für den Schulbereich - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Benennung der Vertreterin/des Vertreters und deren Stellvertretung für den Betriebsausschuss der eigenbetriebsähnlichen Einrichtung "aKDn- sozial" - ungeändert beschlossen
+- TOP 10.6: Errichtung einer stationären Geschwindigkeitsüberwachungsanlage auf dem Schiefersburger Weg - Nippes - ungeändert beschlossen
+- TOP 10.7: Sachstand zur Entwicklung eines Kommunalen Beschäftigungs- und Qualifizierungsprogramms für Langzeitarbeitslose - ungeändert beschlossen
+- TOP 10.8: Ausbau der Kommunalen Integrationszentren NRW durch das Land - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Stellenmehrbedarf zur Umsetzung des Landesförderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 10.10: Leitprojekt: Strategisches Stadtentwicklungskonzept "Kölner Perspektiven 2030" Beschluss zur Erarbeitung der "Kölner Perspektiven 2030" auf Grundlage des vorgeschlagenen Verfahrens (siehe Anlage 1) Beschluss zur Vergabe und Beauftragung der notwendig - ohne Votum in nachfolgende Gremien
+- TOP 10.11: 4-Jahres-Rahmenvertrag zur Lieferung von neuer Rettungsdienstschutzkleidung - ungeändert beschlossen
+- TOP 10.12: Elektronisches Untersuchungs-, Überwachungs-, Behandlungs- und Dokumentationssystem (EMDS) für den Rettungsdienst - ungeändert beschlossen
+- TOP 10.13: Externe juristische Sachverständigentätigkeit / Grunderneuerung Mülheimer Brücke - zurückgestellt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
