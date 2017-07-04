@@ -1,0 +1,63 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-07-04T16:03:00+02:00
+- Ende: 2017-07-04T17:41:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12841
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12841
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand:23.06.17) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00208076.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00209101.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2016 der Wirtschaftsförderung Wuppertal AöR (WIFÖ) - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2016 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss und Konzernabschluss 2016 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.5.1: Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2016 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.6.1: Entlastung des Aufsichtsrates der WSW mobil GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2016 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.7.1: Entlastung des Aufsichtsrates der WSW Energie & Wasser AG für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2016 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.8.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2016 der Wuppertaler Quartierentwicklungsgesellschaft mbH (WQG) - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss der Lokalfunk Wuppertal Beteiligungsgesellschaft mbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss 2016 der BEG Bergische Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.12.1: Entlastung des Aufsichtsrates der BEG Entsorgungsgesellschaft mbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss 2016 der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2016 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss 2016 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss der CVUA-RRW AöR für das Geschäftsjahr 2016 - Entgegennahme ohne Beschluss
+- TOP 1.17: Jahresabschluss 2016 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.17.1: Entlastung des Aufsichtsrates der GWG Gemeinnützige Wohnungsbaugesellschaft mbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Geschäftsführer-Angelegenheit Wuppertaler Bühnen und Sinfonieorchester GmbH - vertagen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Finco-Berichte zum 30.04. und 31.05.2017 - Entgegennahme ohne Beschluss
+- TOP 5.2: Stand der Umsetzung des Bundesinvestitionsprogramms (2. Bericht) - Entgegennahme ohne Beschluss
+- TOP 5.3: Organisations- und Personalentwicklungskonzept - aktueller Sachstand - Entgegennahme ohne Beschluss
+- TOP 5.4: Konsolidierung der GWG - Sachstand (mündlicher Bericht)
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Projekt Seilbahn - Grundsatzbeschluss - vertagt auf Rat
+- TOP 7.2: Ersatzbeschaffung eines Forstspezialschleppers - ungeändert beschlossen
+- TOP 7.3: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 7.4: Wirtschaftliche Sicherung der Diakonie Wuppertal-Evangelische Kindertagesstätten gemeinnützige GmbH Wuppertal - ungeändert beschlossen
+- TOP 7.5: Mittelverschiebung für die Beseitigung von Frostschäden an Straßen - ungeändert beschlossen
+- TOP 7.6: Neubau einer sechsgruppigen städtischen Tageseinrichtung für Kinder auf dem Grundstück Neviandtstr. 85/87 - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Berichte und Mitteilungen
