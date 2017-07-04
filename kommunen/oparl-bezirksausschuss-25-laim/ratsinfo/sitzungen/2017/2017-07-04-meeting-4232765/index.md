@@ -1,0 +1,91 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-07-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232765
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232765
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 30.05.2017
+- TOP 7.2.: UA Kultur vom 07.06.2017
+- TOP 8: Umlauf
+- TOP A.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C.: Besetzung der Unterausschüsse
+- TOP D.: Wahl einer/s Vorsitzenden des UA Verkehr und Umwelt
+- TOP E.: Bildung eines Ferienausschusses
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Bürgersteignasen in der Wilhelm-Riehl-Straße
+- TOP 2.1.: CSU: Fahrgastanzeige am Bushaltepunkt S-Bahn Laim wiederherstellen
+- TOP 2.2.: CSU: Slackline-Verbot und Errichtung von Slackline-Anlagen in öffentlichen Grünflächen
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Freischankflächen) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 Fürstenrieder Str. 28a
+- TOP 4.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.06.17: ÖPNV-Erschließung Freiham, Systemvergleich Tram / U-Bahn
+- TOP 4.2.: Schreiben Baureferat vom 17.05.17: Erinnerungsverfahren: Agricolastraße 4 - 10, Gehbahnsanierung vor Hs.Nr. 8 - 8 f
+- TOP 4.3.: Schreiben Baureferat vom 23.05.17: Hundewiese Lautensackstraße dazu: verschiedene Bürgeranliegen
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 13.06.17: Veranstaltung in einer städtischen Grünanlage, hier: Flohmarkt "Bärchen e.V." am 10.09.17, Weißenfelderplatz (Ersatztermin 17.09.17)
+- TOP 4.5.: Von-der-Pfordten-Straße 15: Antrag auf Fällung 1 Akazie
+- TOP 4.6.: Schreiben Direktorium vom 21.06.17: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken, Antrag BA 07 - Sendling-Westpark
+- TOP 5.1.: Geigerstraße 3: Neubau eines Einfamilienhauses mit Garage
+- TOP 5.2.: Hörkherstraße 5: Neubau eines Einfamilienhauses, Vollzug der Baumschutzverordnung
+- TOP 5.3.: Hörkherstraße 5: Neubau eines Reiheneckhauses, Vollzug der Baumschutzverordnung
+- TOP 5.4.: Camerloherstraße 110: Errichtung (Austausch) eines temporären Dreifachcontainers für die Mittagsbetreuung von Grundschulkindern, befristet bis 31.12.2021
+- TOP 6.1.: Schreiben Bürgermeisterin Strobl vom 30.05.17: Oktoberfest 2017, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 6.2.: Schreiben Sozialreferat vom 01.06.17: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidatinnen und Kandidaten
+- TOP 6.3.: Antrag BA 11: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHM
+- TOP 6.4.: Schreiben Kreisverwaltungsreferat vom 13.06.17: Bundestagswahl 2017
+- TOP 8.1.: Schreiben Oberbürgermeister vom 02.06.17 und Schreiben Kreisverwaltungsreferat vom 12.06.17: Wahlbezirkseinteilung im Stadtbezirk 25 - Laim
+- TOP 8.2.: Schreiben Oberbürgermeister Reiter vom 06.06.17: Musikübungsräume in der Landsberger Straße
+- TOP 8.3.: Schreiben Direktorium vom 09.06.17: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen
+- TOP 8.4.: Schreiben Baureferat vom 22.05.17: Hunde vor dem Kindergarten "Zu den Heiligen 12 Aposteln"
+- TOP 8.5.: Schreiben Baureferat vom 07.06.17: Beleuchtung am Agricolapark BA-Antrag Nr. 03078
+- TOP 8.6.: Schreiben Referat für Gesundheit und Umwelt vom 01.06.17: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Mäharbeiten des Straßenbegleitgrüns
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 14.06.17: Verlängerung der Ampelphase für Fußgänger - Landsberger Straße / Friedenheimer Brücke
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 13.06.17: Programm-Änderung Lichtzeichenanlage Friedenheimer Brücke
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 13.06.17: Antrag auf Neuerrichtung der Gaststätte "Maxes² Eventlocation", Landsberger Str. 163
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 08.06.17: Kleines Sommerfest am 09.07.17, Ausnahmegenehmigung, Schrobenhausener Str. 3
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.05.17: Baugenehmigung Landsberger Straße 160 - 162
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.05.17: Zschokkestraße 69, Nutzungsänderung: von Laden zu Großtagespflege, Baugenehmigung
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.06.17: Fällgenehmigung Agnes-Bernauer-Straße 28
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.06.17: Fällgenehmigung Diesterwegstraße 6
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.06.17: Fällgenehmigung Schäufeleinstraße 5 - 7
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.05.17: Fällgenehmigung Inderstorferstraße 27 - 33 b, Guido-Schneble-Straße 78 - 83
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.05.17 und vom Sozialreferat vom 31.05.17: Hotel Geyerspergerstraße 29
+- TOP 8.18.: Schreiben Sozialreferat vom 08.06.17: Protokoll Infoveranstaltung am 22.05.17
+- TOP 8.19.: Schreiben Sozialreferat vom 09.06.17: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Mai 2017
+- TOP 8.20.: Schreiben Sozialreferat vom 18.05.17: Zweckentfremdung von Wohnraum, hier: Rushaimerstraße
+- TOP 8.21.: Bautenliste vom 15.05. - 21.05.17: 1. Erstantragsverfahren a) Riegerhofstr. 3 b) Geigerstr. 3 c) Kirchmairstr. 15 d) Nördlinger Str. 17 2. Änderungsverfahren zu genehmigten Bauvorhaben a) Flantinstr. 10 b) Geyerspergerstr. 29
+- TOP 8.22.: Bautenliste vom 29.05. - 04.06.17: 1. Erstantragsverfahren: a) Kiem-Pauli-Weg 1, 9, 15, 19, 27, 33, 37, 45, 51, 55 b) Junkerstr. 59 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Fachnerstr. b) Gothardstr. 111
+- TOP 8.23.: Bautenliste vom 05.06. - 11.06.17: 1. Erstantragsverfahren: a) Rechpacherstr. 32 b) Fachnerstr. 20 c) Elsenheimerstr. 61 + 63 d) Lautensackstr. 1 2. Änderungsverfahren a) Schrobenhausener Str. 153. 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Reutterstr. 84a
+- TOP 8.24.: Bautenliste vom 12.06. - 18.06.17: 1. Erstantragsverfahren a) Fürstenrieder Str. 63 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) St.-Ulrich-Str. 4
+- TOP 8.25.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtag 12.06. - 16.06.17
+- TOP 8.26.: Schreiben Stadtwerke München vom 13.06.17: SWM Strom-Projekt Zschokkestraße
+- TOP 8.27.: Schreiben Stadtwerke München vom 20.06.17: SWM Erdgasprojekt Landsberger Straße
+- TOP 8.28.: Schreiben Stadtwerke München vom 20.06.17: SWM Fernwärmeprojekt Brantstraße
+- TOP 8.29.: Schreiben MVG vom 19.05.17: Ausbau der Bushaltestelle "Hönigschmidplatz" dazu: Schreiben des BA 20 Hadern vom 10.05.17
+- TOP 8.30.: Schreiben MVG vom 16.06.17: Verkehrssituation in der Senftenauerstraße, Ausbau der Bushaltestelle "Hönigschmidplatz"
+- TOP 8.31.: Schreiben Abfallwirtschaftsbetrieb München vom 20.06.17: Wertstoffinsel Valpichlerstraße Fröbelpark
+- TOP 8.32.: Beschluss der Vollversammlung vom 05.04.17: Aktualisierung des Gutachtens des Öko-Instituts/der Stadtwerke München GmbH zu den möglichen Szenarien des Ausstiegs aus der Kohleverbrennung/-verstromung des HKW Nord
+- TOP 8.33.: Beschluss gemeinsamer Verwaltungs- und Personalausschuss und Finanzausschuss vom 10.05.17: Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 8.34.: Beschluss des Sozialausschusses vom 22.06.17: Inklusion von Menschen mit Behinderung fördern
+- TOP 8.35.: Beschluss des Kreisverwaltungsausschusses vom 16.05.17: "Dialog-Display" in München
+- TOP 8.36.: Beschluss des Kommunalausschusses als Werksausschuss für den Abfallwirtschaftsbetrieb München vom 23.05.17: Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.17: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.17: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.17: Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.17: Liegenschaften des Bundes für Wohnungsbau nutzen
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.17: Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 8.42.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.17: Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 8.43.: Schreiben Spielen in der Stadt e.V. vom 31.05.17: Spielbuseinsätze im Stadtbezirk Laim
