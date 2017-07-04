@@ -1,0 +1,8 @@
+# TOP 6: "Qualitative und quantitative Personalsituation beim Jobcenter verbessern", gemeinsamer Antrag der Ratsfraktion von Bündnis 90/Die Grünen/GAL und der CDU vom 14.02.2017
+
+- Sitzung: Sitzung (2017-07-04)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/172772
+- Ergebnis: mehrheitlich geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/63230
