@@ -1,0 +1,64 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-07-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281874
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281874
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 01.06.2017
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Initiative „Studienensembles“: Konzert am 05.10.2017; Sitzungsvorlage Nr. 14-20 / V 08534
+- TOP 3.3.: (E) Flößer-Kulturverein München-Thalkirchen e.V.: Gestaltung einer Folie mit Infos zur Zentrallände und den alten Länden in München; Sitzungsvorlage Nr. 14-20 / V 09094
+- TOP 3.4.: (E) Städtisches Thomas-Mann-Gymnasium: Exkursionen „Auf den Spuren bedeutender Persönlichkeiten der Stadtgeschichte Münchens“; Sitzungsvorlage Nr. 14-20 / V 09099
+- TOP 3.5.: (E) Thalkirchner Burschen e.V.: Sommerfest vom 21.07. bis 23.07.2017; Sitzungsvorlage Nr. 14-20 / V 09160
+- TOP 3.6.: (E) Buntlack Team: Gestaltung Schützenwand der HSG München vom 17.06. bis 09.07.2017; Sitzungsvorlage Nr. 14-20 / V 09015
+- TOP 3.7.: (E) ) hpkj family e.V.: Pädagogische Freizeitmaßnahme für Kinder vom 05.08. bis 12.08.2017; Sitzungsvorlage Nr. 14-20 / V 09288
+- TOP 3.8.: Streetart-Projekt am Ratzingerplatz
+- TOP 3.9.: Gemeinsames Singen beim Projekt "Play Me I´m Yours" am Thalkirchner Platz
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Anbringen eines Abfallbehälters an der Sitzbank Ecke Forstenrieder Allee / Schaffhauser Straße
+- TOP 4.1.2: Baumfällungen an der Isar, im Stadtbezirk 19 und im gesamten Stadtgebiet
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Zerstörung der Sichtachse von Schloss Fürstenried zur Frauenkirche
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen
+- TOP 5.1.2: Langfristiges Abstellen von privaten und gewerblichen Kfz-Anhängern im öffentlichen Straßenraum
+- TOP 5.1.3: Sanierung schadhafter Fahrbahnbeläge z.B. in der Diefenbachstraße
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Behindertenparkplätze Forum Forstenried
+- TOP 5.4.: (E) Sondernutzungserlaubnis: Christbaumverkauf Wolfratshauser Str.
+- TOP 5.5.: (E) Sondernutzungserlaubnis: Aufstellung Zeitungsentnahmegeräte (8 Anträge)
+- TOP 5.6.: (E) Glasfaser-Internet-Zugang im Stadtbezirk 19 BV-Empfehlung Nr. 14-20 / E 01480; Sitzungsvorlage Nr. 14-20 / V 09084
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Satzungsänderung: Anhörungsrecht für Vergabe von Erbbaurecht und Verpachtung städtischer Liegenschaften bzw. Grundstücke (Antrag BA 7)
+- TOP 6.4.: (A) Aufstellungsbeschluss: Parkhaus am Tierpark (Stadtbezirk 18)
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen an der Kistlerhofstr./ Boschetsrieder Str. (WA2); Genehmigung des Nutzerbedarfsprogrammes
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Boschetsrieder Str. 72
+- TOP 8.3.: (A) Veranstaltung: Informationsveranstaltung Darmkrebsvorsorge am 09.09.2017
+- TOP 8.4.: (A) Veranstaltung: Sommerfest Thalkirchen vom 21.07. bis 23.07.2017
+- TOP 8.5.: (A) Veranstaltung: Straßenfest Ratzingerplatz am 29.07.2017
+- TOP 8.6.: (A) Vermietung stadteigenes Grundstück: Constanze-Hallgarten-Str. am 20.07.2017
