@@ -1,0 +1,54 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-07-05T17:05:00+02:00
+- Ende: 2017-07-05T19:19:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13197
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13197
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296395.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296395.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296395.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Baugenehmigung Neubau eines Büogebäudes mit TG Theodorstraße 105 - einstimmig beschlossen
+- TOP 5: Antrag FDP, CDU, Bü90/Grüne: Poller Zur alten Kaserne - einstimmig beschlossen
+- TOP 6: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 7: Anfrage BÜ 90/DIE GRÜNEN: Baumfällungen und Neupflanzung Aaper Wald (Gaspipeline) - schriftlich beantwortet
+- TOP 8: Anfrage SPD: Halle Mühlenbroich - schriftlich beantwortet
+- TOP 9: Anfrage Helmke (Bü90/Grüne) und Peters (CDU): Ausgleichsfläche Mühlenbroich - schriftlich beantwortet
+- TOP 10: MdV - Ausgleichsfläche Mühlenbroich - zur Kenntnis genommen
+- TOP 11: MdV - Situation Mühlenbroich - Schausteller - zur Kenntnis genommen
+- TOP 12: Anfrage SPD: Fahrplan 701/U71 - vertagt
+- TOP 13: Anfrage CDU: Grünordnungsplan - schriftlich beantwortet
+- TOP 14: Anfrage CDU, FDP, Bü90 Grüne: Grünflächenpflege im Stadtbezirk 6 - vertagt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage Bü90/Grüne und FDP: Straßenbahnkapazität 701 für 2018 - vertagt
+- TOP 17: Antrag SPD: Schaukasten Runder Tisch Lichtenbroich - einstimmig beschlossen
+- TOP 18: Antrag SPD: Poller Kirche Heilig Kreuz - einstimmig beschlossen
+- TOP 19: Antrag CDU: Verkehrsberuhigung In der Nießdonk - einstimmig beschlossen
+- TOP 20: Antrag CDU: Endstation Linie 701 - zurückgezogen
+- TOP 21: Antrag CDU: Abriss Endstation Linie 701 - einstimmig beschlossen
+- TOP 22: Antrag CDU: Durchführung Pflegemaßnahmen - mehrheitlich beschlossen
+- TOP 23: Antrag Bü90/Grüne und CDU: Urban Gardening - einstimmig beschlossen
+- TOP 24: Trödelmärkte Rather Broich - einstimmig beschlossen
+- TOP 25: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 26: Zuschussvergabe 2017 - mehrheitlich abgelehnt
+- TOP 27: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 28: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2017 - einstimmig abgelehnt
+- TOP 31: Bauunterhaltungsmittel 2017 - Schulen - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2017 - einstimmig beschlossen
+- TOP 33: Bestellung Mitglied Jugendrat - einstimmig beschlossen
+- TOP 34: MdV - Verkehrsspiegel Kieshecker Weg - zur Kenntnis genommen
+- TOP 35: Aufstellung Verkehrsspiegel Bottroper Straße - zur Kenntnis genommen
+- TOP 36: Verkehrssicherung Bürgersteige im Stadtgebiet 6 - zur Kenntnis genommen
+- TOP 37: MdV - Masterplan Kinderspielplätze - zur Kenntnis genommen
