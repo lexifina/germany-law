@@ -1,0 +1,78 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-07-05T15:00:00+02:00
+- Ende: 2017-07-05T21:05:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3743
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3743
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 23. Sitzung des Rates am 06.04.2017 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Umsetzung des Antikorruptionskonzeptes - Kenntnisnahme
+- TOP 3: Benennung eines Mitgliedes für den Beirat bei den Justizvollzugsanstalten - Einstimmiger Beschluss
+- TOP 4: 12. Konferenz der Ratsmitglieder beim Städtetag NRW am 28.11.2017 in Köln - Einstimmiger Beschluss
+- TOP 5: Jahresabschluss 2016 der Stadtsparkasse MG - Einstimmiger Beschluss
+- TOP 6: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 7: Feststellung des Gesamtabschlusses 31.12.2010 - Einstimmiger Beschluss
+- TOP 8: Feststellung des Jahresabschlusses 31.12.2015 - Einstimmiger Beschluss
+- TOP 9: Jahresabschluss 2015 - Verwendung des Jahresergebnisses 2015 - Einstimmiger Beschluss
+- TOP 10: zusätzliche beratende Aufsichtsratsmitglieder - Kenntnisnahme
+- TOP 10.1: TOP „Zusätzliche beratende Mitglieder in Aufsichtsräten städtischer Beteiligungsgesellschaften“, Vor - Vom Antragsteller zurückgezogen
+- TOP 11: Übertragung von GEM-Anteilen auf die mags - Mit Stimmenmehrheit beschlossen
+- TOP 12: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 13: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 14: Genehmigung der Wiederbestellung - Einstimmiger Beschluss
+- TOP 15: Ordnungsbehördliche Verordnung verkaufsoffener Sonntag - Mit Stimmenmehrheit beschlossen
+- TOP 15.1: Ordnungsbehördliche Verordnung verkaufsoffener Sonntag - Ohne Abstimmung
+- TOP 16: Hochschulentwicklung in Mönchengladbach - Kenntnisnahme
+- TOP 16.1: TOP 16 - Hochschulentwiclung in Mönchengladbach (Vorlagen-Nr.: 2421/IX) - Mit Stimmenmehrheit beschlossen
+- TOP 17: Ausbau OGS - Einstimmiger Beschluss
+- TOP 18: Einrichtung eines Teilstandortes für die GHS Dohr - Einstimmiger Beschluss
+- TOP 19: Festlegung weiterer Schulen mit dem Angebot zum Gemeinsamen Lernen - Einstimmiger Beschluss
+- TOP 20: Fortführung des Projektes Kommunale Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 21: Wahl einer Schiedsperson - Einstimmiger Beschluss
+- TOP 22: Ausbauplanung Kindertageseinrichtungen für die Kindergartenjahre 2017/2018 bis 2022/2023 - Ohne Abstimmung
+- TOP 22.1: Ausbauplanung Kindertageseinrichtungen für die Kindergartenjahre 2017/2018 bis 2022/23 - Ergänzungsa - Mit Stimmenmehrheit abgelehnt
+- TOP 22.2: TOP 22: Ausbauplanung Kindertageseinrichtungen - Getrennte Abstimmung (s. Niederschrift)
+- TOP 23: Entwicklungskonzept für Spiel- und Freizeitflächen und Aufgabe von Spielplätzen (HSP 2012 - 0124) - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 23.1: Entwicklungskonzept für Spiel- und Freizeitflächen und Aufgabe von Spielflächen (HSP 2012 - 0124): E - Mit Stimmenmehrheit abgelehnt
+- TOP 23.2: Entwicklungskonzept für Spiel- und Freizeitflächen und Aufgabe von Spielplätzen - Ohne Abstimmung
+- TOP 24: Flex Verträge - Mit Stimmenmehrheit beschlossen
+- TOP 25: Umbesetzung des Jugendhilfeausschusses - Einstimmiger Beschluss
+- TOP 26: HSP 2016-0225 „Optimierung von gebäudewirtschaftlichen Aufgabenstellungen“ – Grund-satzbeschluss - Einstimmiger Beschluss
+- TOP 26.1: TOP 4 – Vorlagen-Nr. 2384/IX HSP 2016-0225 „Optimierung von gebäudewirtschaftlichen Aufgabenstellung - Mit Stimmenmehrheit beschlossen
+- TOP 27: Satzung über die erste Verlängerung Veränderungssperre Stapper Weg - Einstimmiger Beschluss
+- TOP 28: Satzung über eine Veränderungssperre Venn - Venner Straße - Einstimmiger Beschluss
+- TOP 29: Nahverkehrsplan - Mit Stimmenmehrheit beschlossen
+- TOP 30: Bebauungsplan Nr. 777/O ("Eintrachtplatz") - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 30.1: TOP „Bebauungsplan Nr. 777/O, Bebauungsplan der Innenentwicklung gemäß § 13a Baugesetzbuch (BauGB) – - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Mut zur Lücke beim Rats-TV - Ohne Abstimmung
+- TOP 31.1: Tischvorlage zu Top 31 - Dieser Antrag ersetzt den eingereichten Antrag 2353/IX "Mut zur Lücke beim - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 32: Umbenennung "Unbegleiteter minderjähriger Ausländer (UmA)" in "Unbegleitete minderjährige Flüchtling - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Familienbericht - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Umstrukturierung und Umbenennung des Amtes für Ausländerangelegenheiten - Mit Stimmenmehrheit abgelehnt
+- TOP 35: MG-Familien-App hier: Antrag der FDP-Ratsfraktion vom 02.06.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Kriterien Verkauf städtischer Grundstücke - Mit Stimmenmehrheit beschlossen
+- TOP 37: Modernes Wohnungsangebot in Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 38: Abschiebungen nach Afghanistan - In den nächsten Ratszug geschoben
+- TOP 39: Umstrukturierung von Ausschüssen - Mit Stimmenmehrheit abgelehnt
+- TOP 40: "mg+/Bildung und Jugendhilfe: Erstellung eines ressortübergreifenden Bildungs-Monitorings - Vom Antragsteller zurückgezogen
+- TOP 41: Entwicklung und Erstellung eines städtischen Konzepts gegen unangepasstes Verkehtsverhalten im Stadt - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Zukunft der Ausschüsse der Verbandsversammlung euregio Rhein-Maas-Nord - Mit Stimmenmehrheit abgelehnt
+- TOP 42.1: Anfragen und Mitteilungen
+- TOP 42.1.1: Mitteilung von Stadtdirektor und -kämmerer Kuckels zur Wettbürosteuer - Zur Kenntnis genommen
+- TOP 42.1.2: Anfrage von RH Meisterling-Riecks (Bündnis 90/Die Grünen) zum Betreiber von Dome Kameras gegenüber der Rheinstraße 73
+- TOP 42.1.3: Anfrage von RH Meisterling-Riecks (Bündnis 90/Die Grünen) zur "Ehe für alle"
+- TOP 42.1.4: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zum Thema "Demokratie leben"
+- TOP 42.1.5: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zum Sachstand Brandschutz in der Stadtbibliothek
+- TOP 42.1.6: Anfrage von RF Finger (FDP) zum Bunten Garten
+- TOP 42.1.7: Anfrage von RF Finger (FDP) zu Fahnenmasten im Bereich Stephanstraße und Hindenburgstraße
+- TOP 42.1.8: Anfrage von RH Küpper (FDP) zum Tellmannplatz in Rheydt
+- TOP 42.1.9: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Vorverteilung von Kaliumiodidtabletten (Jodtabletten) im Stadtgebiet Mönchenglad¬bach für den Fall eines Nuklearunfalls im belgischen Atomkraftwerk Tihange
+- TOP 42.1.10: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Krankenversicherung im SGB II und SGB XII
+- TOP 42.1.11: Anfrage von RF Bögner (Bündnis 90/Die Grünen) zu Kosten der Unterkunft - Zur Kenntnis genommen
