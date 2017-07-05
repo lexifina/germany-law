@@ -1,0 +1,163 @@
+---
+ecli: "ECLI:DE:BGH:2017:050717VIIZR88.14.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-07"
+aktenzeichen: "VII ZR 88/14"
+decided: "2017-07-05"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2017&Sort=1&Seite=55&nr=79519&anz=3127&pos=1663&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-07_NA_2017-07-05_VII_ZR_88_14_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0078b.md"]
+---
+
+# Bundesgerichtshof, VII ZR 88/14 vom 2017-07-05
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                        BESCHLUSS
+VII ZR 88/14
+
+                                vom
+
+                            5. Juli 2017
+
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2017:050717BVIIZR88.14.0
+
+                                         -2-
+
+
+
+
+    Der VII. Zivilsenat des Bundesgerichtshofs hat am 5. Juli 2017 durch die Richter
+    Dr. Kartzke, Halfmeier und Prof. Dr. Jurgeleit und die Richterinnen Sacher und
+    Dr. Brenneisen
+
+    beschlossen:
+
+          Der Antrag der Beklagten auf Beiordnung eines Notanwalts für
+          das Beschwerdeverfahren wird abgelehnt.
+
+          Der Senat beabsichtigt, die Nichtzulassungsbeschwerde der Beklagten gegen das Urteil des 20. Zivilsenats des Oberlandesgerichts München vom 26. März 2014 als unzulässig zu verwerfen,
+          weil sie nicht innerhalb der gewährten Frist von einem bei dem
+          Bundesgerichtshof zugelassenen Rechtsanwalt begründet worden
+          ist.
+
+
+
+
+                                       Gründe:
+
+                                           I.
+
+1         Der Kläger nimmt die beklagte GmbH auf Vergütung wegen der Umrüstung von Kraftfahrzeugen auf Autogas in Anspruch. Die Beklagte macht widerklagend Schadensersatzansprüche geltend.
+
+2         Das Landgericht hat mit Urteil vom 18. Juli 2013 der Klage stattgegeben
+    und die Widerklage als unzulässig abgewiesen. Die dagegen gerichtete Berufung der Beklagten hat das Berufungsgericht mit Urteil vom 26. März 2014 als
+
+                                           -3-
+
+
+
+
+    unzulässig verworfen, soweit sie sich gegen die Abweisung der Widerklage
+    richtet, und im Übrigen zurückgewiesen.
+
+3         Die bei dem Bundesgerichtshof zugelassene Rechtsanwältin Dr. A. hat
+    für die Beklagte Beschwerde gegen die Nichtzulassung der Revision eingelegt.
+    Auf Antrag ist die Frist zur Begründung der Nichtzulassungsbeschwerde um
+    zwei Monate bis zum 28. Juli 2014 verlängert worden. Mit Schriftsatz vom
+    30. Juni 2014 hat Rechtsanwältin Dr. A. mitgeteilt, dass sie den Beklagten nicht
+    mehr vertrete. Mit Schriftsatz vom 23. Juli 2014 hat der Kläger erklärt, dass er
+    einer weiteren Verlängerung der Frist zur Begründung der Nichtzulassungsbeschwerde nicht zustimme. Am 25. Juli 2014 hat die Beklagte über ihren zweitinstanzlichen Prozessbevollmächtigten beantragt, ihr gemäß § 78b ZPO einen
+    Notanwalt zu bestellen, und dies innerhalb der ihr gewährten Frist näher begründet. Auf Antrag ist die Frist zur Begründung der Nichtzulassungsbeschwerde mit Zustimmung des Klägers um einen Tag bis zum 29. Juli 2014 verlängert
+    worden. Eine Begründung durch einen bei dem Bundesgerichtshof zugelassenen Rechtsanwalt ist innerhalb dieser Frist nicht erfolgt.
+
+
+
+
+                                            II.
+
+4         Der Antrag der Beklagten auf Beiordnung eines Rechtsanwalts nach
+    § 78b Abs. 1 ZPO ist unbegründet.
+
+5         1. Nach § 78b Abs. 1 ZPO kann einer Partei ein Rechtsanwalt beigeordnet werden, wenn sie trotz zumutbarer Anstrengungen einen zu ihrer Vertretung
+    bereiten Rechtsanwalt nicht findet und die beabsichtigte Rechtsverfolgung nicht
+    mutwillig oder aussichtslos erscheint. Hat die Partei zunächst einen zu ihrer
+    Vertretung bereiten Rechtsanwalt gefunden und entsprechend mandatiert, so
+
+                                             -4-
+
+
+
+
+    kommt im Falle einer späteren Mandatsniederlegung die Beiordnung eines Notanwalts nur dann in Betracht, wenn sie die Beendigung des Mandats nicht zu
+    vertreten hat. Dabei hat die Partei substantiiert darzulegen und nachzuweisen,
+    dass die Beendigung des Mandats nicht auf ihr Verschulden zurückzuführen ist
+    (vgl. BGH, Beschlüsse vom 2. Februar 2017 - IX ZR 113/16, ZInsO 2017, 968
+    Rn. 4 und vom 18. Dezember 2013 - III ZR 122/13, WM 2014, 425 Rn. 8 f., jeweils m.w.N.). Ein Verschulden in diesem Sinne liegt regelmäßig dann vor,
+    wenn die Partei den Kostenvorschuss nicht zahlt, den sie dem mit ihrer Vertretung beauftragten Rechtsanwalt schuldet (vgl. BGH, Beschluss vom 8. September 2011 - III ZR 89/11 Rn. 1 m.w.N.).
+
+6         Nach diesen Maßstäben kommt die Beiordnung eines Notanwalts nicht in
+    Betracht. Die Beklagte hat dargelegt, dass die von ihr beauftragte Rechtsanwältin Dr. A. das Mandat niedergelegt hat, weil keine Zahlung auf die von ihr gestellte Kostennote vom 25. April 2014 erfolgt ist. Nach ihren Angaben ist bis zur
+    Niederlegung des Mandats am 30. Juni 2014 keine Zahlung erfolgt, weil die
+    Kostennote wegen Verwendung einer falschen Postleitzahl erst um den
+    10. Mai 2014 bei der Beklagten eingegangen sei, die Bearbeitung der Kostennote unter anderem aufgrund von Auslandsaufenthalten und erforderlichen Abstimmungen zwischen den Verantwortlichen der Beklagten einige Wochen in
+    Anspruch genommen habe und die Beklagte der Auffassung gewesen sei, dass
+    eine Zahlung mangels Leistung der Rechtsanwältin Dr. A. noch nicht zu erbringen und überdies vor Niederlegung des Mandats eine Mahnung erforderlich
+    gewesen sei. Diese Umstände entlasten die Beklagte nicht. Organisatorische
+    Schwierigkeiten sind von der Beklagten ebenso zu vertreten wie ihre unzutreffende Auffassung, keine Zahlung leisten zu müssen. Der von der Beklagten
+    angeführte Eingang der Kostennote um den 10. Mai 2014 führt angesichts des
+    ihr verbliebenen Zeitraums von mehreren Wochen bis zur Mandatsniederlegung
+    am 30. Juni 2014 zu keinem anderen Ergebnis.
+
+                                        -5-
+
+
+
+
+7         2. Darüber hinaus hat die Beklagte es auch zu vertreten, dass sie nach
+    der Niederlegung des Mandats durch Rechtsanwältin Dr. A. am 30. Juni 2014
+    keinen zur Vertretung bereiten Rechtsanwalt gefunden hat.
+
+8         Einer Partei obliegt es im Rahmen der ihr zumutbaren Anstrengungen,
+    einen Rechtsanwalt so rechtzeitig um Mandatsübernahme zu ersuchen, dass er
+    die Vertretung nicht berechtigterweise mit der Begründung ablehnen kann, zur
+    sachgerechten Bearbeitung der Sache nicht mehr in der Lage zu sein (vgl.
+    BAGE 149, 57 Rn. 4; BGH, Beschluss vom 8. September 2011 - III ZR 89/11
+    Rn. 1 zur Rechtzeitigkeit einer Vorschusszahlung). Dem ist die Beklagte nicht
+    nachgekommen. Sie hat nach ihren Angaben nach Mandatsniederlegung durch
+    Rechtsanwältin Dr. A. andere bei dem Bundesgerichtshof zugelassene Rechtsanwälte erst wenige Tage vor Ablauf der bis zum 29. Juli 2014 verlängerten
+    Frist angeschrieben oder angesprochen. Deren Bereitschaft zur Mandatsübernahme scheiterte ausweislich der vorgelegten Anlagen überwiegend daran,
+    dass sie sich angesichts des für die Begründung der Nichtzulassungsbeschwerde zur Verfügung stehenden Zeitraums von wenigen Tagen zu einer
+
+                                    -6-
+
+
+
+
+sachgerechten Bearbeitung der Sache nicht in der Lage sahen. Es ist nicht ersichtlich, dass - vorbehaltlich einer Vorschusszahlung - zeitnah nach dem
+30. Juni 2014 kein vertretungsbereiter Rechtsanwalt hätte gefunden werden
+können.
+
+
+
+
+Kartzke                          Halfmeier                          Jurgeleit
+
+
+
+
+                Sacher                            Brenneisen
+
+
+
+
+Vorinstanzen:
+LG München I, Entscheidung vom 18.07.2013 - 5 O 28470/11 -
+OLG München, Entscheidung vom 26.03.2014 - 20 U 3460/13 -
