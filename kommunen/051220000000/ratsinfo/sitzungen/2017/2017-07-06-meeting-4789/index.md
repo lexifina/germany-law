@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-07-06T17:00:00+02:00
+- Ende: 2017-07-06T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfk9LOJ1DD3n5-DI7rdtqXQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4789
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU_Q1WK_C0kMT6QbVTC4G9_rtibnqmcEVh6ihyr7kupe/Oeffentliche_Niederschrift_Rat_06.07.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Hauptschule Central
+- TOP 2: Brand am 03. Mai 2017
+- TOP 3: Aufwandsentschädigungen
+- TOP 4: Städtisches Klinikum Solingen
+- TOP 5: Mobilitätskonzept Solingen
+- TOP 6: Empfangsservice im Rathaus (Haupteingang Rathausplatz) und im Verwaltungsgebäude Bonner Straße 100
+- TOP 7: Situation bei PIAD
+- TOP 8: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 9: Protokoll der 23. Sitzung des Rates am 18.05.2017
+- TOP 10: Vorschlag für eine en-bloc-Abstimmung
+- TOP 11: Umbesetzung von Ausschüssen und Gremien
+- TOP 12: Verkaufsoffene Sonntage
+- TOP 13: Situation Hauptschule Central
+- TOP 14: Situation Hauptschule Central
+- TOP 15: Zwischen Rhein und Wupper: Zusammen – wachsen
+- TOP 16: Barrierefreiheit in Wahllokalen
+- TOP 17: Sicherung der Kommunalfinanzen
+- TOP 18: Erlass einer Gebiets- und Abgabensatzung für eine Immobilien- und Standortgemeinschaft im Stadtteilzentrum Ohligs
+- TOP 19: Neue Entgeltordnung für die Kindertagespflege
+- TOP 20: Satzung für die Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 21: Satzung für die Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 22: Satzung über die Erhebung von Gebühren zur Benutzung der Obdachlosenunterkünfte der Klingenstadt Solingen
+- TOP 23: Übertragung der Solinger Bädergesellschaft mbH auf die Technischen Betriebe Solingen (TBS)
+- TOP 24: Übertragung der Solinger Bädergesellschaft mbH auf die Technischen Betriebe Solingen (TBS)
+- TOP 25: Jahresabschluss 2016 der Technischen Betriebe Solingen
+- TOP 26: Jahresabschluss 2016 der Technischen Betriebe Solingen
+- TOP 27: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2016
+- TOP 28: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2016
+- TOP 29: Bericht über die Prüfung des Gesamtabschlusses der Stadt Solingen zum 31.12.2015
+- TOP 30: Bauleitplanung Elisenstraße / Entenpfuhl
+- TOP 31: Bauleitplanung Weyerstraße/ Gottlieb-Heinrich-Straße
+- TOP 32: Bauleitplanung Talstraße/ Forststraße
+- TOP 33: Bauleitplanung Düsseldorfer Straße/ Baustraße
+- TOP 34: Verschiedenes
+- TOP 35: Solinger Nachhaltigkeitsstrategie im Projekt Global nachhaltige Kommune NRW
+- TOP 36: Sperrung der Bahnstrecken in Wuppertal
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Erlass einer Gebiets- und Abgabensatzung für eine Immobilien- und Standortgemeinschaft im Stadtteilzentrum Ohligs
+- TOP 3: Verschiedenes
