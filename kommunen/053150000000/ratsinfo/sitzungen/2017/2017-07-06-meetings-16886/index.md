@@ -1,0 +1,92 @@
+# 26. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-06T15:10:00+02:00
+- Ende: 2017-07-06T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16886
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16886
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines neuen Schriftführers für den Stadtentwicklungsausschuss - ungeändert beschlossen
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Standortsuche für ein neues Frischezentrum-Zeitliche Perspektiven am Standort Marsdorf - Kenntnis genommen
+- TOP 1.2: Wohnungsbau in Köln - Anzahl der Baugenehmigungen muss deutlich erhöht werden! Anfrage der SPD-Fraktion vom 11.05.2017, AN/0742/2017 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Gemeinsame Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 15.05.2017 betr. "Potentiale zur Linderung der Wohnungsnot in Ballungsräumen durch Ergänzung von Quartieren" - Sache ist erledigt
+- TOP 2.2: Anfrage der SPD-Fraktion vom 14.06.2017 betr. "Aufwertung von Plätzen in den Stadtbezirken" - Sache ist erledigt
+- TOP 2.3: Anfrage der SPD-Fraktion vom 20.06.2017 betr. "Problemimmobilien in Köln – was tut die Stadtverwaltung?" - Sache ist erledigt
+- TOP -: AN/0940/2017 Problemimmobilien in Köln - was tut die Stadtverwaltung - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Gemeinsamer Antrag der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion vom 27.06.2017 betr. "Rheinboulevard - Kiosk" - geändert beschlossen
+- TOP -: Änderungsantrag der SDP-Fraktion zu TOP 3.1, gemeinsamer Antrag der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion vom 27.06.2017 betr. "Rheinboulevard - Kiosk" - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 4.1.1: Parkstadt Süd - Teilbereich Eifelwall
+- TOP 4.1.2: Kooperatives Gutachterverfahren zur Erweiterung der Hahnentorburg, Rudolfplatz Köln
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bauvorhaben Erweiterung Vereinsgebäude "Blaue Funken"/Sachsenturm (Blaue-Funken-Weg 2); hier: Beschluss über die Durchführung eines architektonischen Gutachterverfahrens zur Bebauung eines städtischen Grundstückes - geändert beschlossen
+- TOP 5.2: Planfeststellungsverfahren für die Aufhebung des Bahnübergangs Luxemburger Straße / Militärringstraße - ungeändert beschlossen
+- TOP 5.3: Planungsbeschluss für die Neugestaltung der Gürzenichstraße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" gefördert durch das Bundesprogramm "Nationale Projekte des Städtebaus" - ungeändert beschlossen
+- TOP 5.4: Planungsbeschluss für die Neugestaltung des Tunnels Johannisstaße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" gefördert durch das Bundesprogramm "Nationale Projekte des Städtebaus" - Sache ist erledigt
+- TOP 5.5: Planfeststellungsverfahren für den vierstreifigen Ausbau der L 183 zwischen K 6 und L361 mit Vollausbau der Anschlussstelle Frechen-Nord und Verflechtungsstreifen - ungeändert beschlossen
+- TOP 5.6: Heliosgelände in Köln-Ehrenfeld; städtebaul. Planungskonzept; Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 5.7: Verkehrsführungskonzept Altstadt - ungeändert empfohlen
+- TOP 5.8: Planungsbeschluss Tiefgarage Ebertplatz - mit Änderungen empfohlen
+- TOP 5.9: Standortentscheidung Frischezentrum - ohne Votum in nachfolgende Gremien
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert empfohlen
+- TOP 6.2: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier. Neuernennung von Mitgliedern und stellvertretenden Mitgliedern des Veedelsbeirates Lindweiler und Änderung der Geschäftsordnung - ungeändert empfohlen
+- TOP 6.3: Wohnungsbaugrundstücke im Sürther Feld 3. Bauabschnitt Baufelder 1, 3 und 5 - Konzeptausschreibung - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Starke Veedel - Starkes Köln Bedarfsfestellung für das Projekt "Aufbau einer bürgerschaftlichen Kultur der Wohnumfeldpflege, Müllvermeidung und Müllbeseitigung" als Teilmaßnahme der Fördermaßnahme "Büro für Quartiersmanagement und Aktivierung" in den - geändert beschlossen
+- TOP 6.5: Leitprojekt: Strategisches Stadtentwicklungskonzept "Kölner Perspektiven 2030" Beschluss zur Erarbeitung der "Kölner Perspektiven 2030" auf Grundlage des vorgeschlagenen Verfahrens (siehe Anlage 1) Beschluss zur Vergabe und Beauftragung der notwendig - ungeändert empfohlen
+- TOP 6.6: Gestaltungshandbuch der Stadt Köln - im ersten Durchgang verwiesen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Vitalisstraße/Girlitzweg, 1. Änderung Gesamtschule Wasseramselweg in Köln-Vogelsang; städteb.Planungskonzept; Anhörung der BV 4 z.d.Ergebnissen d.frühzeitigen Öffentlichkeitsbeteiligung, Beschluss ü.d.Vorgaben z.Ausarbeitung d.Bebauungsplan-Entwurfs - ungeändert beschlossen
+- TOP 9.2: Nördlich Colonius in Köln-Neustadt/Nord; VEP; städtebauliches Planungskonzept: Mitteilung ü.d.Ergebnis d.Qualifizierungsverfahrens sowie Beschluss z.Durchführung d.frühz.Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Am Bahnhof in Köln-Porz-Wahn; VEP; Beschluss über die Einleitung (vorhabenbezogener Bebauungsplan) und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.2: Circus-Roncalli-Weg in Köln-Mülheim; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.3: Autohaus Robert-Perthel-Straße in Köln-Longerich/-Bilderstöckchen; VEP; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.4: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - im ersten Durchgang verwiesen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Häuschensweg in Köln-Bickendorf; 63475/01; Satzungsbeschluss - ungeändert empfohlen
+- TOP 12.2: Ehemaliger Güterbahnhof in Köln-Ehrenfeld; 63469/07; Stellungnahmen, Änderung sowie Satzungsbeschluss - geändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: 74400/05; Urbacher Weg in Köln-Porz-Ensen; Aufhebung des Aufstellungsbeschlusses für den Bebauungsplan-Entwurf 74400/05 - ungeändert beschlossen
+- TOP 14.2: Teilaufhebung des Bebauungsplanes 6642 Sb 2/02 (67428/02) - Arbeitstitel: Kyllstraße in Köln-Neustadt/Süd - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Von-Hünefeld-Straße in Köln-Ossendorf, 2. Änderung; Satzung über eine Veränderungssperre - ungeändert empfohlen
+- TOP 15.2: Satzung über eine Veränderungssperre: Carlebachstraße in Köln-Porz-Eil - ungeändert empfohlen
+- TOP 15.3: Satzung über eine Veränderungssperre: Humboldtstraße in Köln-Porz-Finkenberg - ungeändert empfohlen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Hallen- Kalk - Kein Probebetrieb des Schauspiels in der Halle 75 in Köln-Kalk - Kenntnis genommen
+- TOP 17: Mitteilungen
+- TOP 17.1: 208. FNP-Änderung: Lindgens-Areal in Köln-Mülheim; Offenlage nach § 3 Absatz 2 BauGB - Kenntnis genommen
+- TOP 17.2: Anpassung an den Klimawandel (Bezug Vorlage 3366/2016) - Kenntnis genommen
+- TOP 17.3: 70439/08; Gewerbepark Poll - Teilbereich Gewerbepark Poll Nord in Köln-Poll; Bebauungsplan-Entwurf; Offenlage nach § 3 Absatz 2 BauGB - Kenntnis genommen
+- TOP 17.4: 75405/03; Carlebachstraße in Köln-Porz-Eil; Offenlage des Bebauungsplan-Entwurfs - Kenntnis genommen
+- TOP 17.5: Rheinboulevard - Kiosk - Kenntnis genommen
+- TOP 17.6: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 17.7: Kooperatives Gutachterverfahren zur Erweiterung der Hahnentorburg, Rudolfplatz Köln - Kenntnis genommen
+- TOP 17.8: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 06.03.2017 aus der Sitzung des Ausschusses für Umwelt und Grün vom 06.03.2017 (AN/0367/2017) betreffend Windenergie in Köln - Kenntnis genommen
+- TOP 17.9: 674613/02; Eigelstein 41 in Köln-Altstadt/Nord; Offenlage des Bebauungsplan-Entwurfs - Kenntnis genommen
+- TOP 17.10: Mitnahmeverbot für E-Scooter bei der KVB AG - Kenntnis genommen
+- TOP 17.11: Machbarkeitsstudie zur Erweiterung des RheinEnergie-Stadions - Kenntnis genommen
+- TOP 17.12: Einsatz eines „ Kümmerers“ im Domumfeld - Kenntnis genommen
+- TOP 17.13: Raderthalgürtel (neu) in Köln-Zollstock, 1. Änderung; BPlan-Entwurf 67419/08; Offenlage - Kenntnis genommen
+- TOP 17.14: Jahresbericht 2016 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 17.15: "Dringend erforderliche Kita-Flächen in Köln - Vergabe von Kita-Flächen" - Kenntnis genommen
+- TOP 17.16: 70480/12; Ehemaliger Güterbahnhof in Köln-Mülheim; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.17: Einladung zur Auftaktveranstaltung Bürgerwerkstatt auf dem "Platz an der Piccoloministraße" - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
