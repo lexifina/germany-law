@@ -1,0 +1,73 @@
+# 27. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-06T17:00:00+02:00
+- Ende: 2017-07-06T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17042
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17042
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Geschwindigkeitsmessungen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.2: Wilder Flohmarkt am Londoner Platz - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Situation der Rettungswege im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.2: KVB-Buslinie 120 – Haltestellensituation in Fühlingen Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Wärmegedämmte Fassaden an Hochhäusern im Bezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.4: Stadtteilfeste in Seeberg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Straßenbeleuchtung "Am Baggerfeld", zwischen den Orten Esch und Pesch Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen sowie Die Linke - ungeändert beschlossen
+- TOP 8.3.2: Digitale Hinweistafel KVB Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufwertung des Spielplatzes "Merkenicher Hauptstraße / Kaplanshof" in Merkenich - ungeändert beschlossen
+- TOP 9.1.2: Einbeziehung in die Herzog-Johann-Straße in Köln-Fühlingen - ungeändert beschlossen
+- TOP 9.1.3: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier: Änderung der Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds Lindweiler - ungeändert beschlossen
+- TOP 9.1.4: Zuwendung aus dem städtischen Aktivierungsfonds für das Projekt "Handarbeitswerkstatt" des Fundus Köln-Nord e.V. - ungeändert beschlossen
+- TOP 9.1.5: Verfügungsfonds Chorweiler-Mitte Anträge auf Zuwendungen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Änderung der Zuständigkeitsordnung der Stadt Köln hier: Stärkung der Bezirke - ungeändert beschlossen
+- TOP 9.2.2: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert beschlossen
+- TOP 9.2.3: 260. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Anpassung der Gestaltungsplanung für das erweiterte Kooperationsgrabfeld auf dem Friedhof Chorweiler - ungeändert beschlossen
+- TOP 9.2.5: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier. Neuernennung von Mitgliedern und stellvertretenden Mitgliedern des Veedelsbeirates Lindweiler und Änderung der Geschäftsordnung - ungeändert beschlossen
+- TOP 9.2.6: Satzung über die abweichende Herstellung der Erschließungsanlage Pastor-Kastenholz-Weg einschließlich Stichstraße (Flurstück 1375) von Hildengasse bis Ausbauende in Köln-Merkenich - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2016 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Prüfbericht LSA Erneuerungsprogramm hier Ergänzungsunterlagen - Kenntnis genommen
+- TOP 10.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.4: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Beschaffung und Aufstellung von Containereinheiten zur Abmilderung des Schulnotstandes - Kenntnis genommen
+- TOP 10.2.6: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Müllaufkommen in Erholungs,- Park-und Gartenanlagen - Kenntnis genommen
+- TOP 11.1.2: Nutzung der leer stehenden Räumlichkeiten (Kiosk) am Turkuplatz - Kenntnis genommen
+- TOP 11.1.3: Grünschnitt an den Bushaltestellen - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
