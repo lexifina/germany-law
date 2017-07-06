@@ -1,0 +1,86 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-07-06T17:00:00+02:00
+- Ende: 2017-07-06T19:50:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13252
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13252
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296447.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296447.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296447.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Unfallstatistik und Kriminalitätsentwicklung 2016 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Zuschuss an den Arbeitskreis Kultur im Stadtbezirk 08 Eller e. V. - einstimmig beschlossen
+- TOP 7: Zuschuss an den Freundeskreis Kulturbahnhof Eller e. V. - einstimmig beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 10: Schulstandorte Arnstadter Weg 16 und Erfurter Weg 45 - beantwortet
+- TOP 11: Bebauungsplanverfahren Breidenplatz - beantwortet
+- TOP 12: Naherholungsgebiet Unterbacher See - beantwortet
+- TOP 13: Halbhüftiges Parken auf dem Kamper Weg - beantwortet
+- TOP 14: Renaturierung Eselsbach - beantwortet
+- TOP 15: Verkehrssituation Kreuzung Vennhauser Allee / Rothenbergstraße - beantwortet
+- TOP 16: Flüchtlingsunterbringung im Stadtbezirk 8 - beantwortet
+- TOP 17: Linksabbiegen an Radwegen im Stadtbezirk 8 - beantwortet
+- TOP 18: Grundstück Königsberger Straße 91 - beantwortet
+- TOP 19: Gehwegplatten Neusalzer Weg - beantwortet
+- TOP 20: RRX-Planung im Stadtbezirk 8 - beantwortet
+- TOP 21: Grünstreifen Neusalzer Weg - beantwortet
+- TOP 22: Freiflächen im Stadtbezirk 8 - beantwortet
+- TOP 23: Sauberkeit im Stadtbezirk 8 - beantwortet
+- TOP 24: Parkplatz Schalbruch - beantwortet
+- TOP 25: Ausbau Ronsdorfer Straße - beantwortet
+- TOP 26: Bauarbeiten Ellerkirchstraße - beantwortet
+- TOP 27: Fahrradstraßen im Stadtbezirk 8 - beantwortet
+- TOP 28: Bebauungsplanverfahren Breidenplatz - einstimmig beschlossen
+- TOP 29: Parkplatz Festenbergstraße - zurückgezogen
+- TOP 30: Ortseingangsbeschilderung am Elbsee - einstimmig beschlossen
+- TOP 31: Dynamische Fahrgastinformation im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 32: Gedenkstätte Höherweg / Posener Straße - einstimmig beschlossen
+- TOP 33: Beleuchtung Monckartzhofweg - einstimmig beschlossen
+- TOP 34: Geschwindigkeitsregelung Eller Kamp - mehrheitlich beschlossen
+- TOP 35: Malwettbewerb für Grundschüler im Stadtbezirk 8 - zurückgezogen
+- TOP 36: Stellplätze Kamper Weg - einstimmig beschlossen
+- TOP 37: Verbreiterung und Schutzstreifen Reichenbacher Weg - einstimmig beschlossen
+- TOP 38: Außengelände Rettungswache Vennhauser Allee 269 - mehrheitlich abgelehnt
+- TOP 39: Geschwindigkeitsmessungen Kamper Weg und Tannenhofweg - einstimmig beschlossen
+- TOP 40: Luftqualität In den Kötten / Vennhauser Allee - einstimmig beschlossen
+- TOP 41: Parkplatz Vennhauser Allee 135 - einstimmig beschlossen
+- TOP 42: Kita Chemnitzer Straße 43 - einstimmig beschlossen
+- TOP 43: Verkehrsregelung Karlsruher Straße / Marburger Straße - einstimmig beschlossen
+- TOP 44: Taubenturm Parkplatz Eller-MItte - einstimmig beschlossen
+- TOP 45: Fahrradmietsystem im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 46: Poller Gertrudisplatz/ Ecke Rütgerstraße - einstimmig beschlossen
+- TOP 47: Fahrradbügel Alt-Eller / Ecke Gumbertstraße - einstimmig beschlossen
+- TOP 48: Baumfällungen im Stadtbezirk 8
+- TOP 49: Luftqualität im Stadtbezirk 8
+- TOP 50: Haltestellen-Displays im Stadtbezirk 8
+- TOP 51: Barrierefreie Bushaltestellen im Stadtbezirk 8
+- TOP 52: Parkregelung Rathelbeckstraße 317 - 327
+- TOP 53: Umbau Kreuzung Eller Kamp / Kamper Weg und Bushaltestelle Eller Kamp
+- TOP 54: Buslinie 737
+- TOP 55: Trinkbrunnen auf dem Gertrudisplatz
+- TOP 56: Straßenverkehrslärm im Stadtbezirk 8
+- TOP 57: Schulorganisatorische Maßnahmen für die Martin-Luther-Schule, Evangelische Grundschule Gotenstraße 2
+- TOP 58: Radwegeplanung Gubener Straße
+- TOP 59: Bebauungsplanverfahren Breidenplatz
+- TOP 60: Spielplatz Posener Straße 128 - 132
+- TOP 61: Seniorenwohnungen und Betreuungsangebote im Stadtbezirk 8
+- TOP 62: Flüchtlingsunterbringung im Stadtbezirk 8
+- TOP 63: Grundstück Königsberger Straße 91
+- TOP 64: Naherholungsgebiet Unterbacher See
+- TOP 65: Logistik-Zentrum Dillenburger Weg
+- TOP 66: Sauberkeit im Stadtbezirk 8
+- TOP 67: RRX-Planung im Stadtbezirk 8
+- TOP 68: Freiflächen im Stadtbezirk 8
+- TOP 69: S-Bahnhof Eller
