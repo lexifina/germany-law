@@ -1,0 +1,52 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-07-07T16:00:00+02:00
+- Ende: 2017-07-07T18:15:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13406
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13406
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296592.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296592.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296592.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 5: Wirtschaftsentwicklung im Stadtbezirk 9 - Status quo und Perspektive, mündl. Vortrag - zur Kenntnis genommen
+- TOP 6: Umsetzung Bäderkonzept 2020: Bad Benrath - Empfehlung einstimmig beschlossen
+- TOP 7: Vereinssportanlage Kammerrathsfeldstraße 82 (TSV Urdenbach), Neubau Funktionsgebäude - Empfehlung einstimmig beschlossen
+- TOP 8: Qualitätssicherndes Verfahren mit Öffentlichkeitsbeteiligung - Empfehlung einstimmig beschlossen
+- TOP 9: Umbau Kinderspielplatz Paulsmühlenstraße - einstimmig beschlossen
+- TOP 10: Neuerrichtung zweier Grundschulen durch die Teilung der KGS St.-Apollinaris - zurückgezogen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2017 (Liste A) - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Bürgerhaus Wersten - einstimmig beschlossen
+- TOP 13: Informationsvorlage zum Anhandgabeverfahren Kölner Landstraße 391/393 - zur Kenntnis genommen
+- TOP 14: Anfrage: Geduldetes Falschparken auf dem Marktplatz Benrath - beantwortet
+- TOP 15: Anfrage: Stellplatzverpflichtung Sana Krankenhaus Benrath - beantwortet
+- TOP 16: Anfrage: Fluglärm im Stadtbezirk 9 - vertagt
+- TOP 17: Anfrage: Händler auf dem Marktplatz Benrath - beantwortet
+- TOP 18: Anfrage: Sport- und Multifunktionshalle Itterstraße - vertagt
+- TOP 19: Anfrage: Fahrradabstellanlagen - vertagt
+- TOP 20: Anfrage: Rattenbefall - beantwortet
+- TOP 21: Anfrage: Benrather Rheinufer - beantwortet
+- TOP 22: Antrag: Nachpflanzung von Straßenbäumen im Benrather Rathausviertel
+- TOP 23: Antrag: Gehwegparken Schimmelpfennigstr./Johannes-Hesse-Str.
+- TOP 24: Antrag: Verhinderung von Abbiegeverstößen am Werstener Kreuz
+- TOP 25: Antrag: Elbroichpark
+- TOP 26: Antrag: Gehwegparken "Am Zunder"
+- TOP 27: Antrag: Nutzungserweiterung
+- TOP 28: Antrag: Verfügungsmittel Sozialverband Deutschland NRW, Sommer-Feier - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Ev. Klarenbach-Kirchengemeinde Holthausen, Begegnungs- und Kunstfestival - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Chorverband Düsseldorf e.V. - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel St. Apollinaris Schule - einstimmig beschlossen
+- TOP 32: Informationsvorlage: Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 33: Informationsvorlage zum Beschluss der BV 9 vom 24.03.2017, Am Trippelsberg - zur Kenntnis genommen
+- TOP 34: Informationsvorlage zu den Beschlüssen der BV 9 vom 30.09./04.11.2016, Querungshilfen Harffstraße - zur Kenntnis genommen
+- TOP 35: Informationsvorlage Urban Gardening - zur Kenntnis genommen
