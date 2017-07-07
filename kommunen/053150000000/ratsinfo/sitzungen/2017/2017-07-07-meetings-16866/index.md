@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-07T16:00:00+02:00
+- Ende: 2017-07-07T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16866
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16866
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00620113.pdf
+- Ergebnisprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00620113.pdf
+- Wortprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00620113.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: D Vorstellung der Preisträger des Wettbewerbs Eifelwall/Innerer Grüngürtel - Kenntnis genommen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Luftbelastung am Clevischen Ring - Sache ist erledigt
+- TOP 1.1.1: Luftbelastung am Clevischen Ring (Anfrage AN/0426/2017) - Kenntnis genommen
+- TOP 1.2: Zukunft des RheinEnergieStadions - zurückgestellt
+- TOP 1.2.1: Machbarkeitsstudie zur Erweiterung des RheinEnergie-Stadions - Kenntnis genommen
+- TOP 1.3: Windenergie in Köln - Sache ist erledigt
+- TOP 1.3.1: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 06.03.2017 aus der Sitzung des Ausschusses für Umwelt und Grün vom 06.03.2017 (AN/0367/2017) betreffend Windenergie in Köln - Kenntnis genommen
+- TOP 1.4: Instandsetzung des Bauwerks auf dem Friedhof Scharffensteinstrasse - zurückgestellt
+- TOP 1.5: Umweltcontrolling - Sache ist erledigt
+- TOP 1.5.1: Umweltcontrolling / Kennzahlen zur Umweltqualität - Kenntnis genommen
+- TOP 1.6: Pflege von Sport- und Liegewiesen, sowie Hundefreilaufflächen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Kölner Bevölkerung schützen – Schadstoffbelastung senken! - endgültig abgelehnt
+- TOP 2.2: Vogelschlag – KVB Wartehäuschen - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Jahresbericht 2016 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 3.2: Förderaufruf "KommunalerKlimaschutz.NRW" - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung - geändert beschlossen
+- TOP 4.2: Entwicklungskonzept Chorweiler für den Sozialraum Blumenberg, Chorweiler, Seeberg-Nord - ungeändert empfohlen
+- TOP 4.3: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen, Blumen und Gewässer - ungeändert empfohlen
+- TOP 4.4: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 4.5: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert empfohlen
+- TOP 4.6: Rahmenvertrag über die Lieferung von Sand und Perlkies im Rahmen der Verkehrssicherung auf städtisch-öffentlichen Spielplätzen (141/11/08/17) - ungeändert beschlossen
+- TOP 4.7: Anpassung der Gestaltungsplanung für das erweiterte Kooperationsgrabfeld auf dem Friedhof Chorweiler - ungeändert beschlossen
+- TOP 4.8: Bedarfsfeststellung für die Durchführung eines Vergabeverfahrens über die Mahd und Pflege des Straßenbegleitgrüns in den Außenbezirken. - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.9: Ernährungsrat Köln und Umgebung, hier: Finanzielle Förderung - ungeändert empfohlen
+- TOP 4.10: Verein Taste of Heimat e.V. , hier: Mitgliedschaft der Stadt Köln - ungeändert empfohlen
+- TOP 4.11: Kombinierter Planungs- und Baubeschluss zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs, Bauabschnitte 2 und 3 (Los 2/3) - ohne Votum in nachfolgende Gremien
+- TOP 4.12: Starke Veedel - Starkes Köln Bedarfsfestellung für das Projekt "Aufbau einer bürgerschaftlichen Kultur der Wohnumfeldpflege, Müllvermeidung und Müllbeseitigung" als Teilmaßnahme der Fördermaßnahme "Büro für Quartiersmanagement und Aktivierung" in den - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.13: EFRE Projekt Grüne Infrastruktur - ungeändert beschlossen
+- TOP 4.14: Sanierung der Reliefs am Heinzelmännchenbrunnen - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Circus-Roncalli-Weg in Köln-Mülheim; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Öffentlichkeitsbeteiligung und Durchführung der Lärmaktionsplanung des Eisenbahnbundesamtes - Kenntnis genommen
+- TOP 7.2: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.3: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 7.4: Anpassung an den Klimawandel (Bezug Vorlage 3366/2016) - Kenntnis genommen
+- TOP 7.5: Rheinboulevard - Kiosk - Kenntnis genommen
+- TOP 7.6: Einsatz eines „ Kümmerers“ im Domumfeld - Kenntnis genommen
+- TOP 7.7: Altlastensanierung der Sportanlage Humboldtstraße in Köln-Porz - Kenntnis genommen
+- TOP 7.8: Nitratbelastung des Grund- und Rohwassers im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 7.9: Beantwortung der Anfrage des Ratsmitgliedes Dr. Schoser aus der Sitzung des Wirtschaftsausschusses vom 01.12.2016 betreffend TOP 16 / Mündliche Anfragen: Planung der Universität zu Köln in einem Landschaftssch - Kenntnis genommen
+- TOP 7.10: Sachstandsbericht zum Neubau des Schaugewächshauses und der Orangerie im Botanischen Garten - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Verwendung von energiesparenden Lampen und Leuchten bei der öffentlichen Beleuchtung, Nachfragen, hier: TOP 1.1 und 1.1.1 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
