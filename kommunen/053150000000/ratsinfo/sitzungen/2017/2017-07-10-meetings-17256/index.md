@@ -1,0 +1,65 @@
+# 22. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-10T17:00:00+02:00
+- Ende: 2017-07-10T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17256
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17256
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssicherheit Fußgänger Bergisch Gladbacher Str./Herler Ring (Az.: 02-1600-39/17) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gemäß § 24 GO - Gasmotorenfabrik Deutz in Köln-Mülheim/-Deutz; Az.. 02-1600-22/17 - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.:Bewohnerparken in Köln-Mülheim (Az.: 02-1600-46/17) - zurückgestellt
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.:Ampelanlage Düsseldorfer Straße, Köln-Stammheim (Az.: 02-1600-219/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der CDU-Fraktion: Stickoxydmessungen Clevischer Ring - Kenntnis genommen
+- TOP 7.2.2: Anfrage EMT Tücks zum Stand der Planungen der Strunde in Höhe der Wichheimer Mühle in Holweide - Kenntnis genommen
+- TOP 7.2.3: Anfrage Fraktion Bündnis 90/Die Grünen zum Umbau und Überweg an der Bushaltestelle Imbacher Weg - Kenntnis genommen
+- TOP 7.2.4: Anfrage Fraktion Bündnis 90/Die Grünen zum Sachstand Sanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Barrierefreiheit S-Bahn Holweide/Höhenhaus - ungeändert beschlossen
+- TOP 8.1.2: gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Erneuerung der Fahrbahndecke auf der Egonstraße in Köln-Stammheim - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Hier: Zuwendung aus dem städtischen Aktivierungsfonds für drei Pojekte im Sozialraum Buchheim/Buchforst - ungeändert beschlossen
+- TOP 9.1.2: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Hier: Zuwendung aus dem städtischen Aktivierungsfonds für drei Projekte im Sozialraum Mülheim-Nord und Keupstraße - ungeändert beschlossen
+- TOP 9.1.3: Optimiertes Buskonzept für Mülheim Süd, Kalk und Vingst - ungeändert beschlossen
+- TOP 9.1.4: Abschließende Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2017 - zurückgestellt
+- TOP 9.1.5: Starke Veedel - Starkes Köln Bedarfsfestellung für das Projekt "Aufbau einer bürgerschaftlichen Kultur der Wohnumfeldpflege, Müllvermeidung und Müllbeseitigung" als Teilmaßnahme der Fördermaßnahme "Büro für Quartiersmanagement und Aktivierung" in den - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - zurückgestellt
+- TOP 9.2.2: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 9.2.3: 260. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Zügigkeitserweiterung des Genoveva-Gymnasiums, Gymnasium Genovevastraße 58-62, 51063 Köln in Köln-Mülheim zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.5: Zügigkeitserweiterung der Grundschule Flittard, GGS Am Feldrain, Am Feldrain 10, 51061 Köln-Flittard gem. § 81 Abs. 2 Schulgesetz NRW von 2,5 auf 3 Züge - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Umsetzung des Beschlusses der BV 9 vom 27.04.2015 zur Verbesserung des Verkehrsflusses, mit dem Ziel der Lärm- und Emissionsminderung auf der Bergisch Gladbacher Straße zwischen Mülheim und der Stadtgrenze nach Bergisch Gladbach - Kenntnis genommen
+- TOP 10.2.4: Verkehrssituation Mülheimer Freiheit - Kenntnis genommen
+- TOP 10.2.5: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 10.2.6: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.7: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 10.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.9: Installation einer Zug-/Stadtbahn-Abfahrtsinformationstafel am Bahnhof Mülheim AN/0894/2016 - Kenntnis genommen
+- TOP 10.2.10: 70480/12; Ehemaliger Güterbahnhof in Köln-Mülheim; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 10.2.11: Errichtung einer Unterkunft für Geflüchtete in Holweide - Kenntnis genommen
+- TOP 10.2.12: Integriertes Stadtentwicklungskonzept (ISEK) "Starke Veedel - Starkes Köln" Bedarfsfeststellung für das Projekt "Aufbau einer bürgerschaftlichen Kultur der Wohnumfeldpflege, Müllvermeidung und Müllbeseitigung" als Teilmaßnahme der Fördermaßnahme "Bür - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
