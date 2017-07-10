@@ -1,0 +1,74 @@
+# Rat (35. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-07-10T18:00:00+02:00
+- Ende: 2017-07-10T20:01:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVnExORaosH68b_ULYL3VAg
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6711
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVRtjHADSDfe2q5EcpZSZ_rHbblOC-3MbphXm6lAJWSl/Bekanntmachung_Rat_10.07.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVCHtMgMMjIcEqrlZlJuwoH-qpkx2ZiPu3F6emeYATr4/Oeffentliche_Niederschrift_Rat_10.07.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 22.05.2017
+- TOP 3.: Bestellung einer Schriftführerin für den RAT - (kein Text vorhanden)
+- TOP 4.: Anregungen gemäß § 24 GO NRW
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.1: Ausnahmegenehmigung nach § 46 StVO für ambulante Pflegedienste; Bürgerantrag gem. § 24 Gemeindeordnung NRW - (kein Text vorhanden)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.1: Benennung einer Straße nach Prof.Dr.Grosche Bezug: Antrag der SPD-Fraktion vom 24.06.2017
+- TOP 4.2.2: Benennung einer Straße nach Pfarrer Robert Grosche - (kein Text vorhanden)
+- TOP 5.: Fortschreibung der Vereinbarung zur Ehrenamtskarte NRW - (kein Text vorhanden)
+- TOP 6.: Bebauungsplan 08.14 "Liblarer Straße 154 / Tennishalle THC" und 42. FNP-Änderung - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 7.: Projekt Rathausneubau hier: vorübergehende Unterbringung Standesamt und Anmietung von Räumen - (kein Text vorhanden)
+- TOP 8.: „Gute Schule 2020“ Mittelverwendung und Maßnahmenplanung 2017 - (kein Text vorhanden)
+- TOP 9.: Annahme von projektgebundenen Spenden für die Kunst- und Musikschule - (kein Text vorhanden)
+- TOP 10.: Jedem Kind Instrumente, Tanzen, Singen (JeKits)“; Bezug: Rat 151/2015 - (kein Text vorhanden)
+- TOP 11.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 11.1: Überplanmäßige Mittelbereitstellung Pressung Bahnübergang Liblarer Straße, Kanal- und Straßenbau - (kein Text vorhanden)
+- TOP 12.: Überplanmäßige Mittelbereitstellung KOMM-MIT – DozentInnen und Lehrmaterial - (kein Text vorhanden)
+- TOP 13.: Einrichtung eines Vertretungsstützpunktes für die Kindertagespflege Bezug: JHA am 14.03.2017 hier: Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 14.: Gesellschafterversammlung Gebausie - Jahresabschluss 2016 - (kein Text vorhanden)
+- TOP 15.: Zuständigkeit für die Annahme von Spenden - (kein Text vorhanden)
+- TOP 16.: Anträge
+- TOP 16.1: Umsetzung des Schulentwicklungsplans der Stadt Brühl hier: Erweiterung Gesamtschule Bezug: Antrag der Fraktion Linke&Piraten vom 05.03.2017
+- TOP 16.1.1: Erweiterung Gesamtschule Hier: Antrag der Ratsfraktion DIE LINKE & PIRATEN PARTEI vom 05.03.2017 - (kein Text vorhanden)
+- TOP 16.2: Einstellung von Streetworkern Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 09.06.2017 - (kein Text vorhanden)
+- TOP 16.2.1: Antrag Streetwork der CDU-Fraktion und Grüne-Fraktion vom 09.06.2017
+- TOP 16.3: Planung im öffentlichen Raum und Barrierefreiheit Bezug: Antrag der Fraktion Linke&Piraten vom 19.06.2017 - (kein Text vorhanden)
+- TOP 17.: Umbesetzung in Ausschüssen
+- TOP 17.1: Umbesetzungen im Ausschuss für Verkehr und Mobilität und im Sozialausschuss Bezug: Antrag der Fraktion Linke&Piraten vom 24.06.2017 - (kein Text vorhanden)
+- TOP 17.2: Umbesetzungen in mehreren Ausschüssen und Gremien Bezug: Antrag der CDU-Fraktion vom 24.06.2017 - (kein Text vorhanden)
+- TOP 17.3: Umbesetzungen in verschiedenen Ausschüssen und Gremien Bezug: Antrag der SPD-Fraktion vom 30.06.2017 - (kein Text vorhanden)
+- TOP 17.4: Umbesetzung im Ausschuss für Verkehr und Mobilität Bezug: mündlicher Antrag der GRÜNE-Fraktion
+- TOP 18.: Mitteilungen
+- TOP 18.1: Kondolenzschreiben Bürgermeister
+- TOP 18.2: Baumaßnahmen
+- TOP 18.3: Weitere Vorgehensweise Rathaus Neubau
+- TOP 19.: Anfragen
+- TOP 19.1: Zeitmaßnahmenplan Haltestelle Brühl Badorf
+- TOP 19.2: Parkscheibenregelung Vochemer Straße
+- TOP 19.3: Städtische Homepage
+- TOP 19.4: Wohnraumbedarfsanalyse und Immobilienkonzept
+- TOP 19.5: Parken in der Mönengasse
+- TOP 19.6: Neubau Feuerwache
+- TOP 19.7: Unterführung Balthasar-Neumann-Platz
+- TOP 19.8: Initiative der EU-Kommission
+- TOP 19.9: Wettbewerbsverfahren Rathaus Neubau
+- TOP 19.10: Telefonverzeichnis
+- TOP B): Nichtöffentliche Sitzung
+- TOP 20.: Spendenbescheinigungen 2016 Bezug: Vorlage 140/2017 Zuständigkeit für die Annahme von Spenden
+- TOP 21.: Gestattungsvertrag zur Errichtung und zum Betrieb von Windenergieanlagen hier: 1. Ergänzung Bezug: VgLA 1.6.2015, RAT 22.6.2015, Vorlage Nr. 210/2015 - (kein Text vorhanden)
+- TOP 22.: Mitteilungen
+- TOP 22.1: Situation am Lupinenweg
+- TOP 23.: Anfragen
+- TOP 23.1: Nachfrage zur Situation am Lupinenweg
+- TOP 23.2: Erreichbarkeit der Musikschule
+- TOP 23.3: Zahlung Rhein-Erft-Kreis
+- TOP 23.4: Wettbewerbsverfahren Rathaus Neubau
