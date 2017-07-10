@@ -1,0 +1,7 @@
+# TOP 19: Vorbereitende Arbeiten zu Gas-Konzessionsvergabe
+
+- Sitzung: Rat der Stadt Rheda-Wiedenbrück (18. Sitzung) (2017-07-10)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/14710
+- Ergebnis: Einstimmig
