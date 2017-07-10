@@ -1,0 +1,82 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-10T14:30:00+02:00
+- Ende: 2017-07-10T15:59:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16888
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16888
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Unterhaltsvorschuss für Alleinerziehende - Kenntnis genommen
+- TOP 2.2: Integriertes Handlungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsbeteiligung für den Sozialraum "Buchheim und Buchforst sowie Mülheim-Nord und Keupstraße" - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.4: MiQua Projektstatusbericht - Kenntnis genommen
+- TOP 2.5: 15. Bericht zur Unterbringung und Integration von Flüchtlingen - Kenntnis genommen
+- TOP 2.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.7: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.8: Entscheidung des Bundesverwaltungsgerichts zur Wettbürosteuer - Kenntnis genommen
+- TOP 2.9: Kulturförderabgabe - verwaltungsgerichtliche Entscheidungen - Kenntnis genommen
+- TOP 2.10: Kölner Bürgerhaushalt - aktueller Sachstand und weiteres Vorgehen - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend Zukunft des RheinEnergieStadions - zurückgestellt
+- TOP -: Machbarkeitsstudie zur Erweiterung des RheinEnergie-Stadions - Kenntnis genommen
+- TOP 3.2: Anfrage der SPD-Fraktion betreffend Sanierung des Ratsschiffs „MS Stadt Köln“ - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung betreffend Sanierung des Ratsschiffs "MS Stadt Köln" - zurückgestellt
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Antrag der Piraten-Gruppe betreffend Köln wird korporatives Mitglied bei Transparency International - zurückgestellt
+- TOP -: Stellungnahme zum Antrag der Gruppe Piraten betreffend „Köln wird korporatives Mitglied bei Transparency International“ - zurückgestellt
+- TOP 4.2: Gemeinsamer Antrag der Fraktionen von SPD und Die Linke sowie der Piraten-Gruppe betreffend Armutsfolgen abmildern - Köln-Pass ausweiten - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Generalinstandsetzung des Kiefernweges in Porz-Grengel - ungeändert beschlossen
+- TOP 6.2: Umbau des Knotenpunktes Lindenthalgürtel/Dürener Straße, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der Finanzst - ungeändert beschlossen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für die Umgestaltung des Knotenpunktes Friedrich-Schmidt-Straße / Kitschburger Straße - ungeändert beschlossen
+- TOP 7.3: Beschaffungsprogramm für Fahrzeuge des Feuerschutzes 2017 Teil 1 - ungeändert beschlossen
+- TOP 7.4: Bedarfsfeststellung über die Ersatzbeschaffung von Fahrzeugen und Geräten für das Amt für Straßen und Verkehrstechnik - ungeändert beschlossen
+- TOP 7.5: Baubeschluss für die Umgestaltung des Knotenpunktes Ossietzkystraße/Longericher Straße /Etzelstraße in einen Kreisverkehr sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6610, Straßenbaul. Maßn. Schul-/Kita - ungeändert beschlossen
+- TOP 7.6: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 7.7: EFRE Projekt Grüne Infrastruktur - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2017 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2016 und 2017. - Kenntnis genommen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Mindeststandards zur Flüchtlingsunterbringung und überplanmäßige Mittelbereitstellung 2017 - geändert beschlossen
+- TOP 12.2: Standorte zur Errichtung von temporären Unterkünften für Geflüchtete - Genehmigung und Baubeschluss - ungeändert beschlossen
+- TOP 12.3: Kölner Renn-Verein 1897 e.V. - ungeändert beschlossen
+- TOP 12.4: Wirtschaftsplan des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln für das Wirtschaftsjahr 2017 - ungeändert beschlossen
+- TOP 12.5: Stadtentwässerungsbetriebe Köln, AöR (StEB): Jahresabschluss 2016 - ungeändert beschlossen
+- TOP 12.6: Einleitung von Vergabeverfahren und Abschluss von Rahmenverträgen für den Schulbereich - ungeändert beschlossen
+- TOP 12.7: MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln. Nachtragskostenberechnung - ohne Votum in nachfolgende Gremien
+- TOP 12.8: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 12.9: Ausweitung des Platzangebotes für von Gewalt betroffene Frauen im Rahmen eines Neubaus - ungeändert beschlossen
+- TOP 12.10: Verein Taste of Heimat e.V. , hier: Mitgliedschaft der Stadt Köln - ungeändert beschlossen
+- TOP 12.11: Ernährungsrat Köln und Umgebung, hier: Finanzielle Förderung - ungeändert beschlossen
+- TOP 12.12: Bürgerzentrum Alte Feuerwache - Baumaßnahme "Ertüchtigung der Wagenhalle" im Rahmen des Sonderprogramms NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" - ungeändert beschlossen
+- TOP 12.13: Standortentscheidung Frischezentrum - geändert beschlossen
+- TOP 12.14: Zuschuss an den MachMit! e.V. zur Schaffung und Bereitstellung von Wohnraum für von Wohnungslosigkeit bedrohte Menschen - ungeändert beschlossen
+- TOP 12.15: Ausbau der Kommunalen Integrationszentren NRW durch das Land - ungeändert beschlossen
+- TOP 12.16: Kombinierter Planungs- und Baubeschluss zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs, Bauabschnitte 2 und 3 (Los 2/3) - ohne Votum in nachfolgende Gremien
+- TOP 12.17: Räumliche Erweiterung des NS-Dokumentationszentrums durch Anmietung des dritten und vierten Obergeschosses im EL-DE-Haus zur Einrichtung eines "Hauses für Erinnern und Demokratie“ - ungeändert beschlossen
+- TOP 12.18: Stellenmehrbedarf zur Umsetzung des Landesförderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 12.19: Anpassung der Hauptsatzung der Stadt Köln - im ersten Durchgang verwiesen
+- TOP 12.20: Planungsbeschluss zur Sanierung des Römisch-Germanischen Museums - ohne Votum in nachfolgende Gremien
+- TOP -: Gemeinsamer Änderungsantrag der Fraktionen von CDU, Bündnis 90/ Die Grünen und FDP sowie der Guten Wählergruppe betreffend Planungsbeschluss zur Sanierung des Römisch-Germanischen Museums (Vorl.-Nr. 1767/2017) - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der SPD-Fraktion zu TOP 12.20 Beschlussvorlage: „Planungsbeschluss zur Sanierung des Römisch-Germanischen Museums“ - ohne Votum in nachfolgende Gremien
+- TOP 12.21: Regionalverkehr Köln GmbH (RVK): Änderung des Gesellschaftsvertrages - ohne Votum in nachfolgende Gremien
+- TOP 12.22: Erweiterungsbau Wallraf-Richartz-Museum & Fondation Corboud - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu TOP 12.22: „Erweiterungsbau Wallraf-Richartz-Museum & Fondation Corboud „Erweiterungsbau Wallraf-Richartz-Museum & Fondation Corboud - ohne Votum in nachfolgende Gremien
+- TOP 12.23: Sanierung der Reliefs am Heinzelmännchenbrunnen - ungeändert beschlossen
+- TOP 12.24: Leitprojekt: Strategisches Stadtentwicklungskonzept "Kölner Perspektiven 2030" Beschluss zur Erarbeitung der "Kölner Perspektiven 2030" auf Grundlage des vorgeschlagenen Verfahrens (siehe Anlage 1) Beschluss zur Vergabe und Beauftragung der notwendig - ungeändert beschlossen
+- TOP 12.25: Elektronisches Untersuchungs-, Überwachungs-, Behandlungs- und Dokumentationssystem (EMDS) für den Rettungsdienst - ungeändert beschlossen
+- TOP 12.26: Erweiterung der Öffnungszeiten der Kontakt- und Anlaufstelle sowie Drogenkonsumraum am Hauptbahnhof (KAD 1) - ungeändert beschlossen
+- TOP 13: Mündliche Anfragen
