@@ -1,0 +1,87 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-07-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Waldklausenweg 14, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 11861
+- TOP 7.1.2.: Wildanger 25, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 11032
+- TOP 7.1.3.: Würmtalstraße 23 a, 1 Bergahorn
+- TOP 7.1.4.: Brennereistraße 2 a, 1 Eberesche
+- TOP 7.1.5.: Pfingstrosenstraße 1 a, 1 Zeder
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Gebäudenutzung Wilhelm-Weitling-Straße 21
+- TOP 1.2.: Zufahrt zu Lidl von der Ossingerstraße
+- TOP 1.3.: Absolutes Haltverbot Haderunstraße bis 17.00 Uhr
+- TOP 5.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017, hier: neuer Zeitungsverkaufsständer Senftenauerstraße 73 an der Bushaltestelle und Waldwiesenstraße 51 beim U-Bahnaufgang (Kreisverwaltungsreferat, 06.06.17)
+- TOP 6.1.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Kasperltheater vom 03.08. - 06.08.2017 von 16.00 - 17.00 Uhr, Aufbau ab 02.08.2017 (Kreisverwaltungsreferat, 13.06.17)
+- TOP 6.2.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken, Antrag BA 07 - Sendling-Westpark (Direktorium, 21.06.17)
+- TOP 7.2.1.: Liste des Baureferates vom 23.05.2017: 18 Bäume auf dem Waldfriedhof und Liste des Baureferates vom 13.06.2017: 10 Bäume auf dem Waldfriedhof
+- TOP 7.2.2.: Tannenwaldstraße 11, 1 serbische Fichte (Referat für Stadtplanung und Bauordnung, 26.06.17)
+- TOP 7.2.3.: Enzianstraße 3, 1 Fichte (Referat für Stadtplanung und Bauordnung, 03.07.17)
+- TOP 7.2.4.: Schietweg 1 b, 2 Fichten (Referat für Stadtplanung und Bauordnung, 04.07.17)
+- TOP 7.4.1.: Schachblumenweg 4, 1 Birke (Referat für Stadtplanung und Bauordnung, 14.06.17)
+- TOP 7.4.2.: Pfingstrosenstraße 61, 2 serbische Fichten (Referat für Stadtplanung und Bauordnung, 22.06.17)
+- TOP 7.4.3.: Randeckstraße 8, 1 Fichte (Referat für Stadtplanung und Bauordnung, 22.06.17)
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV, Mäharbeiten des Straßenbegleitgrüns (Referat für Gesundheit und Umwelt, 01.06.17)
+- TOP 8.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Mai 2017 (Sozialreferat, 09.06.17)
+- TOP 8.3.: Beschluss des gemeinsamen Verwaltungs- und Personalausschusses und Finanzausschuss vom 10.05.2017: Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse dazu: Schreiben Direktorium vom 29.05.17
+- TOP 8.4.: Baumaßnahmen Stadtwerke München, hier: - Ludlstraße 8 a, Strom - Terofalstraße, Gas - Hirtentäschelweg, Gas
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Maenherstraße (Sozialreferat, 01.06.17)
+- TOP 8.6.: Verkehrsrechtliche Anordnung, hier: Haderunstraße Lukasschule; Änderung des Zeitzusatzes des Haltverbotes (Kreisverwaltungsreferat, 07.06.17)
+- TOP 8.7.: Kinder-Aktions-Koffer-Einsatz 2018: Entscheidung für den 25. Stadtbezirk Laim (Sozialreferat, 23.06.17)
+- TOP 8.8.: REGSAM-Schwerpunktgebiete ab 2017 (Sozialreferat, 06.07.17)
+- TOP 9.1.: Antrag BA 19 vom 12.05.2015: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen (Direktorium, 09.06.17)
+- TOP 10.1.: Verkehrssituation in der Senftenauerstraße, Ausbau der Bushaltestelle "Hönigschmidplatz" (MVG, 01.06.17)
+- TOP 11.1.: Protokoll Informationsveranstaltung für die BA-Mitglieder am 22.05.2017 (Sozialreferat, 08.06.17)
+- TOP 11.2.: Bundestagswahl 2017 (Kreisverwaltungsreferat, 13.06.17)
+- TOP 11.3.: Wahl der 11. Münchner Seniorenvertretung 2017 - Aufruf zur Kandidatur und Wahl der Seniorenvertretung - Vorstellung der Kandidatinnen und Kandidaten (Sozialreferat, 01.06.17)
+- TOP 11.4.: Jour Fixe Bezirksausschüsse, Protokoll der Sitzung vom 22.03.2017 (Kulturreferat, 12.06.17)
+- TOP 11.5.: Bürgerforum Altenpflege am Dienstag, 18.07.2017 von 18.00 - 20.15 Uhr (Direktorium, 22.06.17)
+- TOP 11.6.: Parteienanschreiben zur Bundestagswahl 2017 (Kreisverwaltungsreferat, 26.06.17)
+- TOP 1.1.1.: Beschluss vom 17.05.2017: Gesamtfortschreibung des Regionalplans der Region München - zweite Anhörung
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.2017: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.2017: Liegenschaften des Bundes für Wohnungsbau nutzen
+- TOP 2.1.3.: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 23.05.2017: Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 2.1.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.2017: Beibehaltung bzw. Wiederherstellung ausgeglichener Bevölkerungsstrukturen in allen Stadtteilen Münchens
+- TOP 2.1.5.: Beschluss des Kommunalausschusses gemeinsam mit dem Kreisverwaltungsausschuss vom 04.05.2017: Freiwillige Feuerwehr München, Abteilung Großhadern Neubau für die Freiwillige Feuerwehr Würmtalstraße 126 20. Stadtbezirk Hadern Projektkosten gesamt (Kostenobergrenze) 7.960.000 Euro davon Ersteinrichtungskosten 254.000 Euro anteilige Projektkosten Neubau Gerätehaus mit Fahrzeughalle 7.270.000 Euro Ertüchtigung Fahrzeughalle Bestand mit Umgriff 540.000 Euro öffentlicher Straßenraum 150.000 Euro 1. Bedarfs- und Kozeptgenehmigung 2. Projektauftrag 3. Genehmigung der Ausführung von vorgezogenen Maßnahmen Bau des neuen Feuerwehrhauses BA-Antrags-Nr. 14-20 / B 01263 des Bezirksausschusses des Stadtbezirkes 20 - Hadern vom 08.06.2015
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Kreisverwaltungsausschusses vom 16.05.2017: "Dialog-Display" in München
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.05.2017: Einsatz von Bausatzungen gem. Art. 81 BayBO für den Ortsbildschutz
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017: Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 3.2.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 04.07.2017: PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 4.1.: Bekanntgabe im Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017: Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 4.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 24.05.2017: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016
