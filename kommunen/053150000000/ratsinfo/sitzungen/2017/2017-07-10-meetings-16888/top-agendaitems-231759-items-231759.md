@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 12.22: „Erweiterungsbau Wallraf-Richartz-Museum & Fondation Corboud „Erweiterungsbau Wallraf-Richartz-Museum & Fondation Corboud
+
+- Sitzung: Sitzung des Finanzausschusses (2017-07-10)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/231759
+- Ergebnis: ohne Votum in nachfolgende Gremien
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/107205
