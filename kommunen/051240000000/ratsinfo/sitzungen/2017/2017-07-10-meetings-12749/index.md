@@ -1,0 +1,92 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-07-10T16:10:00+02:00
+- Ende: 2017-07-10T21:25:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12749
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12749
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung m. d. Ergebnissen d. Vorberatung - Stand: 30.06.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00208093.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00209048.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Risiko-Fußballspiele im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER vom 31.05.2017 - Risiko-Fußballspiele im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.2: Darlehensgewährung an Arbeitslosengeld II-Beziehende - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE "Darlehensgewährung an Arbeitslosengeld II-Beziehende" (VO/0429/17) vom 07.06.2017 - Entgegennahme ohne Beschluss
+- TOP 2.3: Radarkontrollen im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER vom 07.06.2017 - Radarkontrollen im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.4: Sicherheitskonzept offene Psychiatrien - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER vom 07.06.2017 - Sicherheitskonzept offene Psychiatrien - Entgegennahme ohne Beschluss
+- TOP 2.5: Aufrechnung von darlehensweise erbrachten Mietkautionen und Genossenschaftsanteilen mit SGB-II-Leistungen - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Aufrechnung von darlehensweise erbrachten Mietkautionen und Genossenschaftsanteilen mit SGB-II-Leistungen" - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur hinweisenden Beschilderung (Verkehrszeichen 131 Lichtzeichenanlage) an der Ausfahrt Hofaue 87 - 95 zur Morianstraße
+- TOP 3.2: Bürgerantrag zur Vertretungsregelung bei Ausfallzeiten einer Tagespflegeperson gemäß § 23 Absatz 4 Achtes Buch Sozialgesetzbuch
+- TOP 3.3: Bürgerantrag zur Umwandlung der Busspur Bundesallee zwischen Kasinostraße und Robert-Daum-Platz in einen Radweg mit Freigabe für den Linienverkehr
+- TOP 3.4: Bürgerantrag der Nachbarschaftsinitiative zur Initiierung eines Projektes "Sauberkeit im Stadtbild" im Rahmen des Förderprogrammes Soziale Stadt Wichlinghausen/Oberbarmen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Verpflichtendes Bekenntnis von Jugendorganisationen zur freiheitlich demokratischen Grundordnung zur Erlangung einer Förderfähigkeit - abgelehnt
+- TOP 4.2: Abgesetzt. Vorberatungen nicht abgeschlossen, Frauenförderung in der Kultur: Ausrichtung eines Wuppertaler Frauenkulturpreises - abgesetzt
+- TOP 4.3: "Fahrradpiktogramme" aufnehmen in die Aktualisierung des Radverkehrskonzeptes - zur Vorberatung verwiesen
+- TOP 4.4: Neufassung - Aufhebung der Einschränkungen bei den Dienstleistungen im Straßenverkehrsamt - Gemeinsamer Antrag der Fraktionen von CDU und SPD vom 27.06.2017 - ungeändert beschlossen
+- TOP 4.5: Sicherung des Audio-Mitschnitts der Sitzung des Rechnungsprüfungsamtes vom 19.06.2017
+- TOP 4.6: Festlegung der Geschäftskreise der Beigeordneten gemäß § 73 Absatz 1 Gemeindeordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.7: Bürgerbeteiligung als Querschnittsaufgabe sichern - ungeändert beschlossen
+- TOP 4.8: Grundsätze der kommunalen Unternehmens- und Beteiligungsführung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Appell zur Luftreinhaltung - abgelehnt
+- TOP 5.2: Schulvielfalt erhalten - abgelehnt
+- TOP 5.3: Resolution zur geplanten Sperrung des Schienenverkehres während der Sommerferien in Wuppertal - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Neufassung der Satzung zur Durchführung von Einwohneranträgen, Bürgerbegehren, Bürgerentscheiden und Ratsbürgerentscheiden gemäß §§ 25 und 26 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Ersatzbeschaffung eines Forstspezialschleppers - ungeändert beschlossen
+- TOP 7.2: Mittelverschiebung für die Beseitigung von Frostschäden an Straßen - ungeändert beschlossen
+- TOP 7.3: Wirtschaftliche Sicherung der Diakonie Wuppertal-Evangelische Kindertagesstätten gemeinnützige GmbH Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2016 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2016 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1196 - Kirchhofstraße - - ungeändert beschlossen
+- TOP 9.2: 95. Flächennutzungsplanänderung - Kirchhofstraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 622 A / 1 - Friedrich-Engels-Allee/West - - ungeändert beschlossen
+- TOP 9.4: 88. Flächennutzungsplanänderung - Albertstraße - - ungeändert beschlossen
+- TOP 9.5: 54. Änderung des Flächennutzungsplanes - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 654 - Otto-Hausmann-Ring - ungeändert beschlossen
+- TOP 9.7: Durchführungsplan 69 - Zeughausstraße - - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 1222 - Monschaustraße Süd - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung einer städtischen Tageseinrichtung für Kinder an der Ferdinand-Schrey-Straße - ungeändert beschlossen
+- TOP 10.2: Errichtung einer städtischen Tageseinrichtung auf dem Gelände der bestehenden Tageseinrichtung Heckinghauser Straße - ungeändert beschlossen
+- TOP 10.3: Erweiterung der städtischen Tageseinrichtung für Kinder Dahler Straße - ungeändert beschlossen
+- TOP 10.4: Neubau einer sechsgruppigen städtischen Tageseinrichtung für Kinder auf dem Grundstück Neviandtstraße - ungeändert beschlossen
+- TOP 10.5: Neugestaltung Döppersberg - Ergänzung des Grundsatzbeschlusses "Wupperpark" (nur Planungs- und Baubegleitkommission Döppersberg und Rat) - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Projekt Seilbahn - Grundsatzbeschluss - Entgegennahme ohne Beschluss
+- TOP 11.1.1: Rechtliche Prüfung zum freiwilligen Ratsbürgerentscheid - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Freiwilliger Ratsbürgerentscheid in Sachen Seilbahnprojekt - abgelehnt
+- TOP 11.1.3: Fortsetzung der Bürgerbeteiligung – Bürgergutachten steht noch aus! - abgelehnt
+- TOP 11.1.4: Ratsbürgerentscheid über die Frage einer Seilbahn zwischen Elberfeld und Küllenhahn - abgelehnt
+- TOP 11.1.5: Projekt Seilbahn – Grundsatzbeschluss - abgelehnt
+- TOP 11.1.6: Antrag zur Tagesordnung: Tagesordnungspunkt 11.1 - ungeändert beschlossen
+- TOP 11.1.7: Ergänzungsantrag zu TOP 11.1.1. und 11.1.2., VO/0054/17, - abgelehnt
+- TOP 11.2: Leitlinien für die Bürgerbeteiligung in Wuppertal - vertagen
+- TOP 11.3: Städtebauförderkulisse "Aktive Zentren" Barmen Innenstadt - Integriertes Stadtentwicklungskonzept Barmen Innenstadt - Verfügungsfonds Immobilien-Standort-Gemeinschaft Barmen Werth - Richtlinien des Verfügungsfonds und Bildung eines lokalen Gremiums - ungeändert beschlossen
+- TOP 11.4: Einrichtung eines Teilstandortes für die Gemeinschaftsgrundschule Kratzkopfstraße - ungeändert beschlossen
+- TOP 11.5: Verordnung über das Offenhalten von Verkaufsstellen am 09. Juli 2017 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Besetzung des Aufsichtsrates der Wuppertaler Stadtwerke Energie & Wasser AG (nur Rat) - geändert beschlossen
+- TOP 12.2: Berufung in den Beirat des Kommunikationszentrums die Börse gGmbH - ungeändert beschlossen
+- TOP 12.3: Bestellung der Mitglieder des Aufsichtsrates der HELIOS Klinikum Wuppertal GmbH (nur Rat) - geändert beschlossen
+- TOP 12.4: Gremienbesetzung Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.7: Neubestellung des Beirates bei der Justizvollzugsanstalt Wuppertal-Vohwinkel (nur Rat) - geändert beschlossen
+- TOP 12.8: Neubestellung des Beirates bei der Justizvollzugsanstalt Wuppertal-Ronsdorf (nur Rat) - geändert beschlossen
