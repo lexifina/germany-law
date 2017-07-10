@@ -1,0 +1,72 @@
+# 25. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-07-10T17:00:00+02:00
+- Ende: 2017-07-10T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17099
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17099
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO Verbreiterung der Straßenverbindung zwischen Dohlen- und Kucksweg in Köln-Vogelsang AZ.: 02-1600-54/17) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr. Abbau eines Baustellenkrans an einem Sonntag (Az.: 02-1600-28/17) - geändert beschlossen
+- TOP 3.3: Bürgereingabe gem. § 24 GO, betr.: Leinenpflicht für Hunde in Kölner Parks - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Kapazitäten und Auslastung bestehender und geplanter Tief-und Quartiersgaragen im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.2: Sachstand der Spiel- und Sportmaßnahmen im Rahmen des Grüngürtel:Impulses - Kenntnis genommen
+- TOP 6.2.1: Sachstand der Spiel- und Sportmaßnahmen im Rahmen des Grüngürtel: Impulses - Kenntnis genommen
+- TOP 6.3: Zweckentfremdung von Wohnraum im Herkules-Hochhaus? - Kenntnis genommen
+- TOP 6.3.1: Beantwortung einer Anfrage, betr.: Zweckentfremdung von Wohnraum im Herkules-Hochaus? - Kenntnis genommen
+- TOP 6.4: Veloroute Ehrenfeld, Anfrage der Fraktion Bündnis 90/Die Grünen vom 29.05.2017 - Kenntnis genommen
+- TOP 6.4.1: Veloroute Ehrenfeld - Kenntnis genommen
+- TOP 6.5: Sachstand Brandschadenshaus Everhardstraße - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Öffnung der Einbahnstraßen für den gegenläufigen Radverkehr, Anfrage der SPD Fraktion vom 25.06.2017 - zurückgestellt
+- TOP 7.2: Sachstand Antrag Mülleimer/Reinigung Neptunplatz sowie aktuelle Marktsituation, Anfrage der Fraktion Bündnis 90/Die Grünen vom 30.06.2017 - zurückgestellt
+- TOP 7.3: Sachstand Antrag AN/0736/2017 Venloer Straße autofrei/ Boulevard Ehrenfeld, Anfrage der Fraktion Bündnis 90/Die Grünen vom 30.06.2017 - zurückgestellt
+- TOP 7.4: Bedarfsgerechter Ausbau der Kindertagesbetreuung – Wie weiter? - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Neuer Übergang Innere Kanalstraße, Gemeinsamer Antrag vom 26.06.2017 - ungeändert beschlossen
+- TOP 8.2: Aufstellung zweier Straßenlaternen in der Kleingartenanlage Köln-Bickendorf - endgültig zurückgezogen
+- TOP 8.3: Antrag zur Bebauung des Schützenplatzes Takustraße 37 in Köln Ehrenfeld, Antrag der Fraktion Bündnis 90/Die Grünen und der CDU-Fraktion vom 23.06.2017 - endgültig zurückgezogen
+- TOP 8.4: Langfristige Sicherung des Schützenplatzes Takustraße 37, Antrag der SPD-Fraktion vom 23.06.2017 - endgültig zurückgezogen
+- TOP 8.5: Teilsperrung der Philippstraße, 50823 Köln für Kraftfahrzeuge über 7,5t - zurückgestellt
+- TOP 8.6: Verschwenkung eines Teilstücks des Bürgersteiges auf dem Erlenweg - geändert beschlossen
+- TOP 8.7: Schließung des Garzweilerwegs für den Durchgangsverkehr, Antrag der SPD-Fraktion vom 25.06.2017 - ungeändert beschlossen
+- TOP 8.8: Einstimmiger Beschluss der Bezirksvertretung zum Erhalt der Backsteinhalle Alpener Straße 4 – 6 vom 20.3.2017 / AN/0345/2017, Antrag der SPD-Fraktion vom 26.06.2017 - ungeändert beschlossen
+- TOP 8.9: Einsehbarkeit der Iltisstraße aus der Hardersleber Straße verbessern, Antrag der SPD-Fraktion vom 26.06.2017 - geändert beschlossen
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Ersetzungsantrag zu TOP 8.3 und TOP 8.4, Bebauung des Schützenplatzes Takustraße 37 in Köln Ehrenfeld, Gemeinsamer Antrag vom 10.07.2017 - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 9.2: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - ungeändert beschlossen
+- TOP 9.2.1: Bürgerhaushalt 2016 - Beratung und Priorisierung der TOP 25 Vorschläge in den Bezirksvertretungen - Kenntnis genommen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Häuschensweg in Köln-Bickendorf; 63475/01; Satzungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Von-Hünefeld-Straße in Köln-Ossendorf, 2. Änderung; Satzung über eine Veränderungssperre - ungeändert beschlossen
+- TOP 10.3: Ehemaliger Güterbahnhof in Köln-Ehrenfeld; 63469/07; Stellungnahmen, Änderung sowie Satzungsbeschluss - geändert beschlossen
+- TOP 10.4: Nördlich Colonius in Köln-Neustadt/Nord; VEP; städtebauliches Planungskonzept: Mitteilung ü.d.Ergebnis d.Qualifizierungsverfahrens sowie Beschluss z.Durchführung d.frühz.Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.5: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Ad hoc- Programm Außengastronomie auf Stellplätzen - Kenntnis genommen
+- TOP 12.2: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.3: Lärmschutzwand Vogelsang - Beantwortung einer mündlichen Anfrage - Kenntnis genommen
+- TOP 12.4: KOMM-AN NRW Programm zur Förderung der Integration von Flüchtlingen in den Kommunen und zur Unterstützung des bürgerschaftlichen Engagements in der Flüchtlingshilfe – Sachstandsbericht 2017 - Kenntnis genommen
+- TOP 12.5: Bindungsenden im öffentlich geförderten Wohnungsbau - das dicke Ende kommt noch? - Kenntnis genommen
+- TOP 12.6: Jugendtreff Gremberghoven - Kenntnis genommen
+- TOP 12.7: Privater und öffentlich geförderter Wohnungsbau im Stadtbezirk Ehrenfeld 2014-2020 - Kenntnis genommen
+- TOP 12.8: Förderung von Elektromobilität (AN/1890/2016) - Sachstand - Kenntnis genommen
+- TOP 12.9: Behinderungen für Fußgänger und Anwohner durch parkende Fahrzeuge - Kenntnis genommen
+- TOP 12.10: Mit dem Elektrobus durch Ehrenfeld. Ein Beitrag zur Umsetzung der Lärmaktionsplanung sowie zur Erreichung der Klimaschutzziele. Antrag der Fraktion DIE LINKE vom 28.02.2017. AN/0303/2017 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
