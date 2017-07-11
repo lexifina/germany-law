@@ -1,0 +1,114 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263296
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263296
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung vom 17.01.2017, 14.03.2017 und 06.06.2017
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Grasbrunner Str.: Neubau einer Logistikhalle inkl. Kühlbereich mit Büro- und Sozialbereichen sowie Parkdecks, Errichtung eines Pumpen- / Pförnerhauses, einer Schallschutzwand sowie von VAN- und PKW-Stpl. inkl. Verkehrsflächen - TEKTUR - (TOP 2.2.4 vom 11.04.2017) Vorstellung des geänderten Verkehrskonzepts
+- TOP 2.2.2.: Eugen-Jochum-Str.: Neubau eines Senioren-Pflegeheims mit Seniorenwohnen, Begegnungsstätte und Synagoge ("Seniorenwohnen am Prinz Eugen Park") - VORBESCHEID
+- TOP 2.2.3.: Mauerkircherstr. 72: Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 2.2.4.: Beblostr. 2: Tiefgaragen-Sanierung mit neuen Einhausungen für Bestands-TRH mit Entrauchungs- und Entlüftungsöffnungen sowie Neubau eines Raums für eine BMZ und Änderung der Freiflächengestaltung (Beblostr. 2 - 32 / Buschingstr. 2, 4, 8 + 10 / Stuntzstr. 3 - 53); Erstantragsverfahren
+- TOP 2.2.6.: Weltenburger Str. 53: Neubau einer Dreifachsporthalle mit Verbindungsbau zur bestehenden Sporthalle - VORBESCHEID
+- TOP 2.2.7.: Friedrich-Herschel-Str. 10: Anbau an ein Wohngebäude; Erstantragsverfahren
+- TOP 2.2.8.: Mauerkircherstr. 67: Sanierung und Umbau eines denkmalgeschützten Wohngebäudes (2 WE); Erstantragsverfahren
+- TOP 2.2.10.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.9.2.: Perspektive München - Leitlinie Soziales; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 04.07.2017, Sitzungsvorlage Nr. 14-20 / V 08869
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.5.: Ostpreußenstr. 88: Schulbauoffensive - Neubau eines Gerätehauses ; Erstantragsverfahren
+- TOP 2.2.9.: Bebauungsplan mit Grünordnung Nr. 1539 Gewerbegebiet "Am Hüllgraben" Errichtung eines Logistikzentrums durch die SERGO Zweiundzwanzigste Grundbesitz GmbH für Amazon Logistics (Auslieferung von Lebensmitteln); Bürgeranliegen vom 22.05.2017 (zur Kenntnisnahme)
+- TOP 2.3.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 - Beschluss des Bezirksausschusses des Stadtbezirkes 13 vom 11.07.2017; Kufsteiner Platz, ggü. Hs. Nr. 1: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.3.2.: Vorfahrtsregelung Stegmühlstraße; Anhörung des Kreisverwaltungsreferats vom 22.05.2017
+- TOP 2.3.3.: Feuerwehrdurchfahrt Wildrosenweg; Schreiben des Kreisverwaltungsreferats vom 13.06.2017
+- TOP 2.3.4.: Aufhebung Haltverbot Ismaninger Straße 103; Schreiben des Kreisverwaltungsreferats vom 13.06.2017
+- TOP 2.3.5.: Ablehnende Haltung zur Errichtung einer Busspur auf der Prinzregentenstraße
+- TOP 2.3.6.: Ablehnende Haltung zur Einrichtung einer Busspur auf der Denninger Straße
+- TOP 2.3.7.: Radwegführung Cosimastraße Höhe Trambahnwendung St. Emmeram; Schreiben des Kreisverwaltungsreferats vom 13.06.2017
+- TOP 2.3.8.: Basispyramide als historisches Denkmal aufwerten! Errichtung eines gemeinsamen Rad- und Fußweges mit der Gemeinde Unterföhring
+- TOP 2.3.9.: Ganztägige Buslinie ab Zamilapark nach Berg am Laim Bahnhof Ganztägiger 10-Minuten-Takt ab Eggenfeldener Straße
+- TOP 2.3.10.: Linie 188 und 189 - Änderung Busführung Linie 150 - Verlängerung Buslinie
+- TOP 2.3.11.: Bebauungsplan mit Grünordnung Nr. 1539 Gewerbegebiet "Am Hüllgraben" - Fuß- und Radweg entlang der Feldahornreihe; Bürgeranliegen vom 22.05.2017
+- TOP 2.3.12.: Pflasterausbesserung am Prinzregentenplatz; Bürgeranliegen vom 29.05.2017
+- TOP 2.3.13.: Rampe an der S-Bahn Haltestelle Daglfing
+- TOP 2.3.14.: Kreuzung Truderinger Straße / Zamilastraße: Grün für Radfahrer?
+- TOP 2.3.15.: Fahrtrichtung des Radweges neben A 94 / Töginger Straße ändern
+- TOP 2.3.16.: Barlowstraße zur Fahrradstraße ausweisen; Bürgeranliegen vom 31.05.2017
+- TOP 2.3.17.: Ecke Englschalkingerstraße / Freischützstraße: Genwegsanierung nach Neubau; Bürgeranliegen vom 31.05.2017
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Musica Sacra St. Emmeram, Kirchenmusiker von St. Emmeram in München Konzert am 21.10.2017
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Gehörlosenverband München und Umland e.V. Sommerdult am 01.07.2017
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Palestrina Ensemble München Sommerkonzert am 22.07.2017
+- TOP 2.4.4.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken; Anhörung des Direktoriums vom 21.06.2017
+- TOP 2.5.1.: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidatinnen und Kandidaten; Schreiben des Sozialreferats vom 01.06.2017
+- TOP 2.5.2.: Ergänzung des Spielplatzes Rößeler Straße / Zur Deutschen Einheit mit der Kleinkinderrutsche
+- TOP 2.5.3.: Bessere Nutzung des Gebäudes der Knappertsbuschschule
+- TOP 2.5.4.: Verlegung des zukünftigen Standortes Wilhelm-Hausenstein-Gymnasium an den aktuellen Standort Knappertsbuschschule; Bürgeranliegen vom 22.05.2017
+- TOP 2.6.1.: Baumfällungen (Anhörungen): - Mauerkircherstr. 67: lt. Plan - Flensburger Str. (DHH 1 + 2): lt. Plan - Flensburger Str. (DHH 3 + 4): lt. Plan - Flensburger Str. (DHH 5 + 6): lt. Plan - Flensburger Str. (DHH 7 + 8): lt. Plan - Wehrlestr. 16: lt. Plan - Mauerkircherstr. 72: lt. Plan - Gumbinnenstr. 15: 3 Bäume - Keplerstr. 6: 2 Bäume - Newtonstr. 11b: 1 Vogelbeerbaum - Rößeler Str. 8: 1 Fichte - Savitsstr. 33a: 1 Scheinzypresse
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Morgenrothstr. 5 (lt. Bescheid), Oberföhringer Str. 113 (lt. Bescheid), Flemingstr. 10 (1 Kastanie), Flemingstr. 94a (1 Buche), Grosjeanstr. 2 (1 Vogelkirsche), Grünanlage Salzsenderweg / Ruth-Drexel-Straße (lt. Plan, Zustimmung nach § 20 Abs. 1 Satz 2 BezirksausschussS am 22.06.2017 erteilt)
+- TOP 2.6.3.: Ausschreibung städtischer Flächen für Christbaumverkäufe: Flurstück 193/1 an der Cosimastraße; Anhörung des Kommunalreferats vom 08.06.2017
+- TOP 2.6.4.: Solarstromanlage auf Dach der Ruth-Drexel-Schule errichten
+- TOP 6.1.: Einschulung an der Ruth-Drexel-Schule
+- TOP 6.2.: Grundschule Knappertsbuschstraße 43: Auslagerung, Schulweg; Schreiben des Referats für Bildung und Sport (auf Bürgernachfrage) vom 29.05.2017
+- TOP 6.3.: Gemeinschaftsunterkünfte im 13. Stadtbezirk: Ausbau Kinderbetreuung sowie Fachpersonal und Räume dafür schaffen
+- TOP 6.4.: Ausstellung Stadtentwicklung im Münchner Nordosten auch in Riem präsentieren
+- TOP 6.5.: Keine Einwegbecher in städtischen Einrichtungen
+- TOP 6.6.: Einweg-Kaffeebecher im Kreisverwaltungsreferat ?
+- TOP 6.7.: Effnerstr.: Neubau eines Wohnheims für Arbeitnehmer, Studierende Pflegepersonal o. ä. mit Tiefgarage – TEKTUR; Schreiben des Referats für Stadtplanung und Bauordnung vom 19.06.1017
+- TOP 6.8.: Widderstr. 2 + 2a: Neubau zweier Wohnhäuser (4 WE) mit Tiefgarage – Vorbescheid (Variante 3); Schreiben des Referats für Stadtplanung und Bauordnung vom 20.06.1017
+- TOP 7.1.1.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 7.1.2.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen; Antwortschreiben des Direktoriums zu dem BA-Antrag Nr. 14-20 / B 01210 des BA 19
+- TOP 7.4.1.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 7.4.2.: Mitteilung über ein Grundstücksgeschäft: Ruth-Drexel-Straße, Cosimastraße; Schreiben des Kommunalreferats vom 07.06.2017
+- TOP 7.5.1.: (U) "Dialog-Display" in München
+- TOP 7.5.2.: Unveränderte Fortführung eines Gaststättenbetriebes: - Kleingaststätte "James", Ludwig-Brück-Str. 3 - Alba Trattoria, Oberföhringer Str. 44 - Milifu, Arabellastr. 28 a
+- TOP 7.7.1.: (U) Ökologische Mustersiedlung in der ehemaligen Prinz-Eugen-Kaserne A) Zwischenbericht über das Zuschussprogramm B) Aufnahme eines weiteren Teilgebietes in das Zuschussprogramm
+- TOP 7.7.2.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 7.7.3.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 7.7.4.: (U) Integriertes Strukturkonzept Münchner Nordosten A) Bürgergutachten zur SEM München Nordost Empfehlung Nr. 14-20 / E 01227 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016 B) Das Urbane NaturNetz als Leitkonzept für die SEM München Nordost Empfehlung Nr. 14-20 / E 01228 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016 C) SEM Nordost: Fortsetzung der Frischluftschneise Denninger Anger Empfehlung Nr. 14-20 / E 01247 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016 D) SEM Nordost: Grünstreifen entlang des Hüllgrabens Empfehlung Nr. 14-20 / E 01249 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch; Düppeler Str. 25; vorher: 166 m² bzw. 2 WE, geplant: 315 m² bzw. 2 WE
