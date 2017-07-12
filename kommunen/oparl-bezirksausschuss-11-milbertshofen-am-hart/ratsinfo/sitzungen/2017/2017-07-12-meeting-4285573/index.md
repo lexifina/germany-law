@@ -1,0 +1,99 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds und bestehenden Mitgliedern
+- TOP 2.2: Benennung eines neuen Mitglieds im Unterausschuss Kultur / Soziales
+- TOP 2.3: Benennung eines bzw. einer neuen Kinderbeauftragten
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 5.1: Aktuelle Viertelstunde
+- TOP 5.2: Bürgeranliegen
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.1.: Lerchenauer Str. 65 - Busbahnhof im Olympiapark - U-Bahnhof Olympiazentrum Stellungnahme des Fachreferates
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 5.2.1.: Schopenhauerstraße: Eingeschränkte Parksituation für die Anwohner_innen
+- TOP 5.2.2.: "Saubere Nordhaide - no littering" auf der Diagonale im Wohngebiet an der Nordhaide: Mehr Abfalleimer, häufigeres Leeren der Mülleimer, Reinigen der Spielplätze, Ahndung der Umweltverschmutzung und Gründen eines "Runden Tisches"
+- TOP 5.2.3.: Grünanlage Schollerweg 1. Aufstellen einer zweitenTischtennisplatte, Basketballkorb und Anlegen eines Boule-Platzes sowie Schaffen von Sitz- und Abfallentsorgungsmöglichkeiten (Mülleimer) 2. Erhalt und Erweiterung der Spielgeräte auf dem Gelände der leer stehenden Gemeinschaftsunterkunft (Aangebot für Kinder im Alter von 10 - 14 Jahren, z.B. Umwandeln in einen Abenteuerspielplatz) 3. Austauschen der Abfalleimer am Spielplatz Bernaysstr. mit Mülleimern mit Deckeln
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Katholische Kirchenstiftung St. Gertrud Renovierung der Orgel
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Katholische Kirchenstiftung St. Gertrud Renovierung der Orgel
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Initiative Promising Codes Projekt „Promising Codes“ vom 27.06.2017 - 07.07.2017
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Initiative "Willkommen am Harthof" Fußballturnier am 05.08.2017 oder 12.08.2017
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse Kulturverein Olympiadorf e.V. Stadtteil-Sommerfest am 15.07.2017
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest am 03.08.2017
+- TOP 6.1.7.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über Sondernutzungserlaubnis Zeitungsentnahmegerät in der Keferloherstr. 101 a
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Bodenschachspiel an der Diagonale im Wohngebiet der Nordhaide: Erneuern der Aufbewahrungskästen (vandalismussicher) und Vervollständigen der Spielfiguren
+- TOP 7.2.2.: Errichtung eines Senioren- und Pflegeheims im 11. Stadtbezirk Standortvorschlag: Brentano- und Abtstraße / Lena-Christ-Straße
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Helene-Mayer-Ring 14: Antrag auf Ausweisung eines eingeschränkten Haltverbots zur Abwicklung des Lieferverkehrs für das Olympiadorf
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Schreiben Direktorium vom 21.06.17: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken, Antrag BA 07 - Sendling-Westpark
+- TOP 8.1.2.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken...
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Moosacher Str. 80/ Am Oberwiesenfeld 8: Baumfällung
+- TOP 8.2.2.: a) Frankfurter Ring 97 - Nutzungsänderung: Ladefläche zu Wettbüro
+- TOP 8.2.3.: b) Moosacher Str. 84 - 88 - Neubau eines Büro- und Verwaltungsgebäudes ("H20"/ Olympia Business Park)
+- TOP 8.2.4.: c) Feuchtwangerstr. 4 - Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 8.2.5.: d) Bernaysstr. 35 - Neubau einer mobilen Schulraumeinheit mit 10 Klassen, befristet bis 2022
+- TOP 8.2.6.: e) Motorstr. 34 - Neubau von zwei Mehrfamilienhäusern mit Tiefgarage
+- TOP 8.2.7.: f) Ingolstädter Str. 1 - 3 - Nutzungsänderung: Teilung einer Pilsbar in eine anatolische Stube und eine Pub & Lounge-Bar
+- TOP 8.2.8.: g) Morserring 20 - 24 - Neue Balkonanlage, Fahrrad- und Tonnenhaus
+- TOP 8.2.9.: Tunnel von der Arnulfstraße bis zum Georg-Brauchle-Ring; Landshuter Allee - Oberflächengestaltung nach dem Bau des Tunnels Sitzungsvorlagen Nr. 14-20 / V 08920
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Milbertshofener Str. 72a: Veranstaltung "Flohmarkt" am 22.07.2017 des Generationenzentrums e.V.
+- TOP 8.3.2.: Coubertinplatz: CSU-Bürgerfest am 23.07.2017 Veranstaltung im Freien auf Privatgrund und Banner in Grünanlage
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Olympiapark: Veranstaltung "Sommernachtslauf" am 26.07.2017
+- TOP 8.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Max-Liebermann-Straße - Anordnung eines absoluten Haltverbot
+- TOP 8.4.3.: Änderung des Verkehrsabflusses aus dem Parkplatz „Parkharfe“ des Olympiaparkes
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 9.1.2.: Fortführung eines Gaststättenbetriebes - "Tony&#039;s Essbar", Georgenschwaigstr. 42
+- TOP 9.1.3.: Unterstützung der Bezirksausschüsse der LHM der BA-Antrags-Nr. 14-20/ B03627 initiiert durch den BA 11 - Beibehaltung des Hare-Niemeyer-Verfahren bie der künftigen Sitzverteilung der Bezirksausschüsse der LHM
+- TOP 9.1.4.: Platzierung auf der Tagesordnung - Thema "Personenbezogener Behindertenparkplatz" Stellungnahme der Rechtsabteilung der LHM
+- TOP 9.1.5.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: a) MobilSpiel e.V. b) EB Grundschule Hildegard-v-Bingen-Anger 4
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 9.2.2.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 9.2.3.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 9.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5.: Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach Sitzungsvorlage Nr. 14-20 / V 07899
+- TOP 9.2.6.: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 9.2.7.: Spielplatzumbau Christoph-von-Gluck-Platz - Nachtragsinformationen zur Sitzung UA Bau und Umwelt vom 13.06.2017: Empfehlung zum Bodenbelag
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 9.3.2.: (U) Schulbauoffensive 2013-2030
+- TOP 9.3.3.: Feuerwerk im Rahmen des Drachenbootrennens am 07.07.2017
+- TOP 9.3.4.: Feuerwerk im Rahmen des Sommernachtstraum am 29.07.2017
+- TOP 9.4: Verkehr
