@@ -1,0 +1,6 @@
+# TOP 2: Anfragen / Anträge von Ausschussmitgliedern und Fraktionen sowie Stellungnahmen der Verwaltung
+
+- Sitzung: Schulausschuss (2017-07-12)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/122915
