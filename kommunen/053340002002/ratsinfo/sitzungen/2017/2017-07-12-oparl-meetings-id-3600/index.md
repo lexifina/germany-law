@@ -1,0 +1,53 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2017-07-12T17:00:00+02:00
+- Ende: 2017-07-12T18:35:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3600
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3600
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 14.06.2017 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 4: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 5: Ratsantrag Aachener Appell zur Luftreinhaltung vom 12. Dezember 2016 - Ergebnisse des Expertenhearings im Bürgerforum am 09. Mai 2017 - Resolution des Städtetages NRW vom 25. April 2017 - ungeändert beschlossen
+- TOP 6: Erlass einer Grün- und Gestaltungssatzung für die Stadt Aachen - ungeändert beschlossen
+- TOP 7: Änderung der Satzung für die städtischen Wochenmärkte Dauer der Zuweisung eines Standplatzes - ungeändert beschlossen
+- TOP 8: Bericht über die Prüfung des Jahresabschlusses 2015 - ungeändert beschlossen
+- TOP 9: Veränderung des Stellenplans 2017Stelleneinrichtung im Bereich des Allgemeinen Sozialen Dienstes in der Abteilung Jugend des Fachbereichs Kinder, Jugend und Schule - ungeändert beschlossen
+- TOP 10: Veränderung des Stellenplans 2017Stelleneinrichtung im Fachbereich Feuerwehr (FB 37) in der Abteilung „Einsatzunterstützung“ für die Aufgaben „Sachbearbeitung Medizinprodukte“ und „Sachbearbeitung Zentrallager Rettungsdienst“ - ungeändert beschlossen
+- TOP 11: Veränderung des Stellenplans 2017Stelleneinrichtung im Fachbereich Feuerwehr (FB 37) in der Abteilung „Einsatzunterstützung“ für die Aufgaben „Ausbildung Feuerwehrschule“ und „Ausbildung Notfallsanitäterschule“ - ungeändert beschlossen
+- TOP 12: Veränderung des Stellenplans 2017Befristete Stelleneinrichtung im Fachbereich Sicherheit und Ordnung (FB 32) für die Aufgaben nach dem Prostituiertenschutzgesetz - ungeändert beschlossen
+- TOP 13: Neuregelungen im Entschädigungsrecht
+- TOP 13.1: Neuregelungen im Entschädigungsrecht - geändert beschlossen
+- TOP 14: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 14.1: Über- und außerplanmäßige Aufwendungen/ Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2017 Maßnahme Neuenhofer Weg - ungeändert beschlossen
+- TOP 15: Umlegungsausschuss - Wiederwahl von Mitgliedern - ungeändert beschlossen
+- TOP 16: Schenkung der Rathaus APP des Rathausverein Aachen e.V. an den Kulturbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - ungeändert beschlossen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 18: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 18.1: Umbesetzungsantrag der PIRATEN-Fraktion vom 12.07.2017 - ungeändert beschlossen
+- TOP 19: Mitteilungen der Verwaltung
+- TOP 20: Ratsanträge - geändert beschlossen
+- TOP 21: Sachstand: Umsetzung der neuen Förderrichtlinie für Leistungen an Kindertagespflegepersonen nach § 23 SGB VIII - zur Kenntnis genommen
+- TOP 22: Sachstand "Revitalisierung Neues Kurhaus" - verwiesen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
