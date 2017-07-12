@@ -1,0 +1,9 @@
+# TOP 8: Bericht über die Prüfung des Jahresabschlusses 2015
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2017-07-12)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=82048
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=23516&bi=12704
+- Beschluss (Datei): Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=269686&DOCTYP=138&OTYP=41&ANNOTS=1
