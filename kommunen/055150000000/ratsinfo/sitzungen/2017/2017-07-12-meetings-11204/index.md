@@ -1,0 +1,88 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-07-12T17:04:00+02:00
+- Ende: 2017-07-12T23:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11204
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11204
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00408013.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0029/2017 vom 03.05.2017 „Personalpolitik strategisch und demographisch ausrichten“ - mehrheitlich beschlossen
+- TOP 2.1.1: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0029/2017 vom 03.05.2017 „Personalpolitik strategisch und demographisch ausrichten“
+- TOP 2.2: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0018/2017 "Haushaltsberatungen verbessern" - von der Tagesordnung abgesetzt
+- TOP 2.3: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/ GAL Nr. A-R/0019/2017 "Planungswerkstatt 2030" - einstimmig beschlossen
+- TOP 3: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 4: Jahresabschlüsse von Gesellschaften
+- TOP 4.1: Jahresabschluss 2016 der Westfälische Bauindustrie Gmbh (WBI) - einstimmig beschlossen
+- TOP 4.2: Jahresabschluss 2016 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 4.3: Jahresabschluss 2016 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.4: Jahresabschluss 2016 der AirportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 5: Bestellung des Abschlussprüfers für das Geschäftsjahr 2017 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 6: Endgültige Mittelzuteilung des Bundesministeriums für Arbeit und Soziales im Bereich der Grundsicherung für Arbeitsuchende - SGB II - zur Kenntnis genommen
+- TOP 7: Sporthalle am Pascal-Gymnasium - Beschluss Durchführung Architektenwettbewerb - einstimmig beschlossen
+- TOP 7.1: Sporthalle am Pascal-Gymnasium - Beschluss Durchführung Architektenwettbewerb
+- TOP 8: Zwischenbericht zum Modellprojekt "Global Nachhaltige Kommune in NRW (GNK)" - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 9: Verlängerung der Laufzeit des Gleichstellungsplans bis zum 31.12.2017 - einstimmig beschlossen
+- TOP 10: Funktionsfähigkeit des Taxengewerbes - einstimmig beschlossen
+- TOP 10.1: Funktionsfähigkeit des Taxengewerbes
+- TOP 11: Perspektiven für den Haushaltsplan 2018 - Finanzeckwerte - ohne Beschlussfassung geschoben
+- TOP 12: Haushaltsplanentwurf 2018 - Investitionsprogramm - ohne Beschlussfassung geschoben
+- TOP 13: Projekt "NaSa": Externe Ämteruntersuchungen und Projekte städtischer Tochtergesellschaften - ohne Beschlussfassung geschoben
+- TOP 14: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH) - mehrheitlich beschlossen
+- TOP 14.1: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH)
+- TOP 15: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021 - ohne Beschlussfassung geschoben
+- TOP 15.1: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021
+- TOP 16: 101. Deutscher Katholikentag vom 09. bis 13. Mai 2018 in Münster - ohne Beschlussfassung geschoben
+- TOP 17: Satzung zur Änderung der Satzung über die Erhebung einer Beherbergungsteuer im Gebiet der Stadt Münster - einstimmig beschlossen
+- TOP 18: Organisationsform der städtischen Schwimmbäder - mehrheitlich beschlossen
+- TOP 19: Feststellung von Jahresabschlüssen
+- TOP 19.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2016 - einstimmig beschlossen
+- TOP 19.2: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2016 - einstimmig beschlossen
+- TOP 19.3: Feststellung der Jahresabschlüsse 2016 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 19.4: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2015/2016 - einstimmig beschlossen
+- TOP 19.5: Feststellung des Jahresabschlusses der AWM für das Wirtschaftsjahr 2016 - einstimmig beschlossen
+- TOP 20: Freigabe des Entwurfes zur 2. Fortschreibung des Einzelhandels- und Zentrenkonzepts Münster für die Öffentlichkeitsbeteiligung und das weitere Bearbeitungsverfahren - einstimmig beschlossen
+- TOP 21: Soziale Erhaltungssatzung (§ 172 Abs. 1 Satz 1 Nr. 2 BauGB) für Münster? - ohne Beschlussfassung geschoben
+- TOP 22: Uppenbergschule – Aufhebung des Beschlusses zur Auflösung der Förderschule - ohne Beschlussfassung geschoben
+- TOP 23: Errichtungsbeschluss zur Erweiterung des Schulzentrums Kinderhaus auf Basis der Ergebnisse der Machbarkeitsstudie - ohne Beschlussfassung geschoben
+- TOP 23.1: Errichtungsbeschluss zur Erweiterung des Schulzentrums Kinderhaus auf Basis der Ergebnisse der Machbarkeitsstudie
+- TOP 24: Fortschreibung der Handlungsbedarfe zur Erweiterung von Schulgebäuden aufgrund der demografischen Entwicklung bis zum Schuljahr 2025/2026 auf Basis der Vorlage V/0420/2016/1 - ohne Beschlussfassung geschoben
+- TOP 24.1: Fortschreibung der Handlungsbedarfe zur Erweiterung von Schulgebäuden aufgrund der demografischen Entwicklung bis zum Schuljahr 2025/2026 auf Basis der Vorlage V/0420/2016/1
+- TOP 25: Einrichtung Bildungsgang: Fachschule für Wirtschaft, Fachrichtung Betriebswirtschaftlehre: Schwerpunkt Handelsmanagement am Ludwig-Erhard-Berufskolleg zum Schuljahr 2018/2019 - einstimmig beschlossen
+- TOP 26: Vergabe städtischer Räumlichkeiten an Parteien im Vorfeld von Wahlen - ohne Beschlussfassung geschoben
+- TOP 27: Kindertagesbetreuungsbericht 2017/2018 - einstimmig beschlossen
+- TOP 28: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für einen 2-Gruppen-Pavillon - Hohe Geist in Albachten, Bezirk West - ohne Beschlussfassung geschoben
+- TOP 29: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung- Errichtungsbeschluss - Ehemalige Wartburghauptschule, Sentrup, Bezirk West - ohne Beschlussfassung geschoben
+- TOP 30: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Markweg, Münster-Mitte - ohne Beschlussfassung geschoben
+- TOP 31: Sanierung der Kath. Kindertageseinrichtung St. Anna in Mecklenbeck - ohne Beschlussfassung geschoben
+- TOP 32: Neubau einer Kindertageseinrichtung in der Eichendorffstraße in Angelmodde, Bezirk Südost - Errichtungs- und Baubeschluss - - ohne Beschlussfassung geschoben
+- TOP 33: Großtagespflege in der Stadt Münster - Erweiterung der erfolgreichen Ausbaustrategie mit selbstständige Tagespflegepersonen durch die Möglichkeit, Großtagespflegestellen mit angestellten Tagespflegepersonen zu betreiben - ohne Beschlussfassung geschoben
+- TOP 34: Qualitätsoffensive "Offene Ganztagsschulen" - Zwischenbericht und weiteres Verfahren - einstimmig beschlossen
+- TOP 34.1: Qualitätsoffensive "Offenen Ganztagsschulen" - Zwischenbericht und weiteres Verfahren
+- TOP 35: Verlagerung der Jugendwerkstatt - einstimmig beschlossen
+- TOP 36: Weiterentwicklung des schulischen Lernortes Pro-B-Klasse – Sek I - ohne Beschlussfassung geschoben
+- TOP 36.1: Weiterentwicklung des schulischen Lernortes Pro-B-Klasse – Sek I
+- TOP 37: Gymnasium Paulinum - Sanierungsmaßnahmen am Schulgebäude - einstimmig beschlossen
+- TOP 38: Bauleitplanung
+- TOP 38.1: Stadtbezirk West
+- TOP 38.1.1: 69. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 38.1.2: Bebauungsplan Nr. 579 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 38.2: Stadtbezirk Nord
+- TOP 38.2.1: Bebauungsplan Nr. 583 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 38.3: Stadtbezirk Südost
+- TOP 38.3.1: 71. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 38.4: Stadtbezirk Ost
+- TOP 38.4.1: 48. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 38.5: Stadtbezirk Hiltrup
+- TOP 38.5.1: 83. Änderung FNP - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 39: Verschiedenes
