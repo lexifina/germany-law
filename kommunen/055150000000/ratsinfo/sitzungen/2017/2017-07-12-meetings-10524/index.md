@@ -1,0 +1,109 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-07-12T17:44:00+02:00
+- Ende: 2017-07-12T23:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10524
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10524
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00408012.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Deckelung von Prepaid-Tickets bei innerstädtischen Fahrten - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 11: Verlängerung der Laufzeit des Gleichstellungsplans bis zum 31.12.2017 - mehrheitlich beschlossen
+- TOP 12: Funktionsfähigkeit des Taxengewerbes - mehrheitlich beschlossen
+- TOP 12.1: Funktionsfähigkeit des Taxengewerbes
+- TOP 13: Perspektiven für den Haushaltsplan 2018 - Finanzeckwerte - zur Kenntnis genommen
+- TOP 14: Haushaltsplanentwurf 2018 - Investitionsprogramm - zur Kenntnis genommen
+- TOP 15: Projekt "NaSa": Externe Ämteruntersuchungen und Projekte städtischer Tochtergesellschaften - zur Kenntnis genommen
+- TOP 16: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH) - mehrheitlich beschlossen
+- TOP 16.1: Managementkontrakt mit der Westfälischen Bauindustrie GmbH (WBI GmbH)
+- TOP 17: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021 - mehrheitlich beschlossen
+- TOP 17.1: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2017 bis 2021
+- TOP 18: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - mehrheitlich beschlossen
+- TOP 18.1: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH)
+- TOP 19: 101. Deutscher Katholikentag vom 09. bis 13. Mai 2018 in Münster - mehrheitlich beschlossen
+- TOP 20: Satzung zur Änderung der Satzung über die Erhebung einer Beherbergungsteuer im Gebiet der Stadt Münster - einstimmig beschlossen
+- TOP 21: Organisationsform der städtischen Schwimmbäder - mehrheitlich beschlossen
+- TOP 22: Die Zukunft der Wasserversorgung in Münster - Neustrukturierung der Wasserversorgung (DIPOL) - mehrheitlich geändert beschlossen
+- TOP 23: Feststellung von Jahresabschlüssen
+- TOP 23.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2016 - einstimmig beschlossen
+- TOP 23.2: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2016 - einstimmig beschlossen
+- TOP 23.3: Feststellung der Jahresabschlüsse 2016 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 23.4: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2015/2016 - einstimmig beschlossen
+- TOP 23.5: Feststellung des Jahresabschlusses der AWM für das Wirtschaftsjahr 2016 - einstimmig beschlossen
+- TOP 24: Freigabe des Entwurfes zur 2. Fortschreibung des Einzelhandels- und Zentrenkonzepts Münster für die Öffentlichkeitsbeteiligung und das weitere Bearbeitungsverfahren - einstimmig beschlossen
+- TOP 25: Soziale Erhaltungssatzung (§ 172 Abs. 1 Satz 1 Nr. 2 BauGB) für Münster? - mehrheitlich beschlossen
+- TOP 26: Uppenbergschule – Aufhebung des Beschlusses zur Auflösung der Förderschule - einstimmig beschlossen
+- TOP 27: Errichtungsbeschluss zur Erweiterung des Schulzentrums Kinderhaus auf Basis der Ergebnisse der Machbarkeitsstudie - einstimmig beschlossen
+- TOP 27.1: Errichtungsbeschluss zur Erweiterung des Schulzentrums Kinderhaus auf Basis der Ergebnisse der Machbarkeitsstudie
+- TOP 28: Fortschreibung der Handlungsbedarfe zur Erweiterung von Schulgebäuden aufgrund der demografischen Entwicklung bis zum Schuljahr 2025/2026 auf Basis der Vorlage V/0420/2016/1 - einstimmig beschlossen
+- TOP 28.1: Fortschreibung der Handlungsbedarfe zur Erweiterung von Schulgebäuden aufgrund der demografischen Entwicklung bis zum Schuljahr 2025/2026 auf Basis der Vorlage V/0420/2016/1
+- TOP 29: Einrichtung Bildungsgang: Fachschule für Wirtschaft, Fachrichtung Betriebswirtschaftlehre: Schwerpunkt Handelsmanagement am Ludwig-Erhard-Berufskolleg zum Schuljahr 2018/2019 - einstimmig beschlossen
+- TOP 30: Vergabe städtischer Räumlichkeiten an Parteien im Vorfeld von Wahlen - mehrheitlich beschlossen
+- TOP 31: Kindertagesbetreuungsbericht 2017/2018 - einstimmig beschlossen
+- TOP 32: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für einen 2-Gruppen-Pavillon - Hohe Geist in Albachten, Bezirk West - mehrheitlich beschlossen
+- TOP 33: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung- Errichtungsbeschluss - Ehemalige Wartburghauptschule, Sentrup, Bezirk West - mehrheitlich geändert beschlossen
+- TOP 34: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Markweg, Münster-Mitte - mehrheitlich beschlossen
+- TOP 35: Sanierung der Kath. Kindertageseinrichtung St. Anna in Mecklenbeck - mehrheitlich beschlossen
+- TOP 36: Neubau einer Kindertageseinrichtung in der Eichendorffstraße in Angelmodde, Bezirk Südost - Errichtungs- und Baubeschluss - - mehrheitlich beschlossen
+- TOP 37: Großtagespflege in der Stadt Münster - Erweiterung der erfolgreichen Ausbaustrategie mit selbstständige Tagespflegepersonen durch die Möglichkeit, Großtagespflegestellen mit angestellten Tagespflegepersonen zu betreiben - mehrheitlich beschlossen
+- TOP 38: Qualitätsoffensive "Offene Ganztagsschulen" - Zwischenbericht und weiteres Verfahren - einstimmig beschlossen
+- TOP 38.1: Qualitätsoffensive "Offenen Ganztagsschulen" - Zwischenbericht und weiteres Verfahren
+- TOP 39: Verlagerung der Jugendwerkstatt - einstimmig beschlossen
+- TOP 40: Weiterentwicklung des schulischen Lernortes Pro-B-Klasse – Sek I - einstimmig beschlossen
+- TOP 40.1: Weiterentwicklung des schulischen Lernortes Pro-B-Klasse – Sek I
+- TOP 41: Gymnasium Paulinum - Sanierungsmaßnahmen am Schulgebäude - einstimmig beschlossen
+- TOP 42: Bauleitplanung
+- TOP 42.1: Stadtbezirk Münster-West
+- TOP 42.1.1: 69. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 42.1.2: Bebauungsplan Nr. 579 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 42.2: Stadtbezirk Münster-Nord
+- TOP 42.2.1: Bebauungsplan Nr. 583 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 42.3: Stadtbezirk Münster-Südost
+- TOP 42.3.1: 71. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 42.4: Stadtbezirk Münster-Ost
+- TOP 42.4.1: 48. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 42.5: Stadtbezirk Münster-Hiltrup
+- TOP 42.5.1: 83. Änderung FNP - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 43: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 44.1: Moratorium zum Erhalt der Uppenbergschule - zurückgezogen
+- TOP 44.2: Gebäudeleitlinien mit Augenmaß - verwiesen
+- TOP 44.3: Brandschutz in Münster verbessern - mehrheitlich abgelehnt
+- TOP 45: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 45.1: Umfrage: Interesse an Kinderbetreuung während der Gremiensitzungen - verwiesen
+- TOP 45.2: Ein Kulturleitpfad für Münster - verwiesen
+- TOP 45.3: Verbesserung der Radwegeverbindung zwischen Münster und Lüdinghausen sowie Münster und Ibbenbüren - verwiesen
+- TOP 45.4: Grünen Pfeil für Radfahrer*innen in Münster einführen - verwiesen
+- TOP 45.5: Eine umweltverträglichere Landwirtschaft durch Förderung von Pufferstreifen am Gewässerrand - verwiesen
+- TOP 45.6: Qualitätsoffensive bei naturschutzrechtlichen Kompensationsmaßnahmen – Sparsamer Umgang mit dem Freiraum und Schutz der Agrarlandschaft als Grundlage für Landwirtschaft und Artenvielfalt - verwiesen
+- TOP 45.7: Ein selbstverwaltetes Jugendzentrum für Münster - verwiesen
+- TOP 45.8: Rechts abbiegen für Radfahrer vereinfachen - verwiesen
+- TOP 45.9: Genuss ohne Restmüll: Mehrweg-Kaffeebecher für Münster - verwiesen
+- TOP 45.10: Wertstofftonne jetzt einführen - verwiesen
+- TOP 45.11: Exzellentes digitales Münster - verwiesen
+- TOP 45.12: Höchstgeschwindigkeit reduzieren: Für mehr Sicherheit im Straßenverkehr vor KiTas, Schulen und Krankenhäusern - verwiesen
+- TOP 45.13: Ein Gesamtkonzept „Qualitätsentwicklung in der Kinder-, Jugend- und Familienhilfe“ für die Stadt Münster - verwiesen
+- TOP 45.14: Resolution „Abschiebestopp nach Afghanistan“ - verwiesen
+- TOP 45.15: Sicherheit am Arbeitsplatz: Die Stadt Münster schützt ihre Mitarbeiterinnen und Mitarbeiter - verwiesen
+- TOP 45.16: Ausbauoffensive Kindertagesbetreuung – Bedarfe jetzt decken - verwiesen
+- TOP 45.17: Ein öffentliches Leihrad-System für Münster - verwiesen
+- TOP 45.18: Herkunft von Produkten aus dem Münsterland - verwiesen
+- TOP 45.19: Masterplan für eine nachhaltige Verkehrsinfrastruktur: Mobilität und Verkehr für eine wachsende Stadt weiterentwickeln durch Vernetzung - verwiesen
+- TOP 45.20: Programm zur Förderung der E-Mobilität in Münster - verwiesen
+- TOP 46: Verschiedenes
