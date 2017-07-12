@@ -1,0 +1,53 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2017-07-12T15:00:00+02:00
+- Ende: 2017-07-12T16:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZafqCAwsfnMDJU6dnT0gcvs
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/573
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYpn8GLWw23hEmT6Xs2zleDQuEfu9sLxbAh0btCrmqBm/Einladung_Seniorenbeirat_12.07.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdKVSZjAyGy1GDy3PZVUW33hQuMAfvV2HQ4mbZE7QAXM/Oeffentliche_Niederschrift_Seniorenbeirat_12.07.2017.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Verkauf von Euroschlüsseln für öffentliche Behindertentoiletten - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 3.2: Haltestelle Belia Seniorenresidenz Riemke - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Konzeptionelle Änderung bei den Seniorengroßveranstaltungen 2017
+- TOP 6.2: Sitzbänke auf dem Platz der Hammer Runde - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Bänke Bodelschwinghplatz - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Sitzgelegenheiten an stark frequentierten Haltestellen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Freie Fahrt bei Seniorenveranstaltungen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Bürgerhaus Hamme - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Hundeplatz am Hammer Friedhof - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Buslinie 388 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Hinweisschilder an den Eingängen des Westparks - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Verbindungsweg von der Seniorenwohnanlage Elisabeth-Hüfner-Weg zum Hammer Park - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Inklusion - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.12: Berichte aus den Gremien
+- TOP 7: Anfragen
+- TOP 7.1: Konzeptionelle Änderung bei den Seniorengroßveranstaltungen - Die Anfrage ist mündlich beantwortet worden.                                                        
+- TOP 7.2: Bänke auf der Dinnendahlstr. - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Besetzung des Seniorenbüros Bochum-Nord - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.4: Soziale Stadt Wattenscheid - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
