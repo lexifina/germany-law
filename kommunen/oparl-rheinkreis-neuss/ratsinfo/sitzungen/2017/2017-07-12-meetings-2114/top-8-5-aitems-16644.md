@@ -1,0 +1,7 @@
+# TOP 8.5: Wahl der Mitglieder des Aufsichtsrates
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreisausschusses (2017-07-12)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/16644
+- Ergebnis: einstimmig beschlossen
