@@ -1,0 +1,7 @@
+# TOP 8.4: Gründung eines Beirats
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreisausschusses (2017-07-12)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/16642
+- Ergebnis: einstimmig beschlossen
