@@ -1,0 +1,61 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2017-07-13T17:00:00+02:00
+- Ende: 2017-07-13T19:55:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZck9wFfYtQyRm02mMPX9RSY
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1681
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdgyeiiBVNCU5dFDYNsAiiaXvmlqf2Ps34NTK7hBDJQR/Bekanntmachung_Rat_13.07.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZw8pkr-LIuzaLR1NIVEkukgPlOYUsI39DOMIJvJojYd/Oeffentliche_Niederschrift_Rat_13.07.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Verabschiedung eines Ratsmitgliedes
+- TOP 3.: Einführung eines neuen Ratsmitgliedes
+- TOP 4.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 5.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 6.: Wahl der Stellvertreter des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 7.: Ersatzwahlen zu sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 8.: Wahl eines Mitglieds und eines stellvertretenden Mitglieds für die Verbandsversammlung des Musikschulverbandes Espelkamp-Rahden-Stemwede - Einstimmig, 0 Enthaltungen
+- TOP 9.: Wahl eines Ortsvorstehers für die Ortschaft Varl - 21 Stimmen dafür, 4 dagegen, 8 Enthaltungen
+- TOP 10.: Ersatzwahlen zu Ausschüssen - 32 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 11.: Ersatzwahl in die Verbandsversammlung des Wasserverbandes Große Aue - 32 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 12.: Gründung des gemeinsamen Zweckverbandes „Ostwestfalen-Lippe-IT“ durch das Kommunale Rechenzentrum Minden-Ravensberg/Lippe und die GKD Paderborn - Einstimmig, 0 Enthaltungen
+- TOP 13.: Antrag des Arbeitskreises „Jüdisches Leben in Rahden“ auf Benennung des Parkplatzes neben dem Rathaus als „Platz der Synagoge“ - Einstimmig, 0 Enthaltungen
+- TOP 14.: Erlass einer Satzung für die Benutzung der städtischen Übergangswohnungen für Flüchtlinge und Obdachlose der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheims Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Erlass einer neuen Wasserversorgungssatzung für die Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Erlass einer neuen Entwässerungssatzung 2015 für die Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2017
+- TOP 19.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2016 b) Verteilung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bekanntgaben
+- TOP 20.1: Schulangelegenheiten
+- TOP 20.2: Grundschulen - multiprofessionelles Team
+- TOP 20.3: Bundestagswahl am 24.09.2017
+- TOP 20.4: Feuerwehrangelegenheiten - Zuschussgewährung
+- TOP 20.5: Förderung des Ehrenamtes
+- TOP 20.6: Freibad Rahden - Besucherzahlen
+- TOP 21.: Verschiedenes
+- TOP 21.1: Baumaßnahme "Am Klosterkamp"
+- TOP 21.2: Verkehrsmessung "Auf der Welle"
+- TOP 21.3: Entfernung von gefährlichen Kräutern
+- TOP 21.4: Ausweisung von Naturerfahrungsräumen
+- TOP 21.5: Gestaltung des Sitzungssaals
+- TOP 21.6: Präsentation des Rathausumbaus
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 22.: Erwerb einer Baufläche in der Ortschaft Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 23.: Erwerb einer landwirtschaftlichen Tauschfläche - 31 Stimmen dafür, 2 dagegen, 0 Enthaltungen
+- TOP 24.: Grundstücksangelegenheiten
+- TOP 25.: Bekanntgaben
+- TOP 26.: Verschiedenes
+- TOP 26.1: Kinospot Rahden
+- TOP 26.2: Kommunikation innerhalb des Rates - Außendarstellung/-wirkung
+- TOP 26.3: Bereitstellung von W-Lan im Rathaus
+- TOP 26.4: Ausbau "Grüner Weg"
+- TOP 26.5: Grundschule Rahden - Offener Ganztag
