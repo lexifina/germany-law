@@ -1,0 +1,104 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-07-13T14:00:00+02:00
+- Ende: 2017-07-13T20:48:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13471
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13471
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296891.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296891.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00296891.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4.1: Anfrage aktuell der CDU: Keine Transparenz beim RRX - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion:Aufruf zu linksextremer Gewalt auf öffentlichen Fl - beantwortet
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 5.1: Anfrage CDU: „No-go-Area“ an der Oberhausener Straße in Rath? - beantwortet
+- TOP 5.2: Anfrage FDP: Wie geht es weiter mit smart parking? - beantwortet
+- TOP 5.3: Anfrage Die Linke: Kosten externer Rechtsgutachten - beantwortet
+- TOP 5.4: Anfrage CDU: Sicherheit beim Japan-Tag - beantwortet
+- TOP 5.5: Anfrage FDP: Kostenbeteiligung der Nachbarstädte an dem Grand Départ der Tour de France - beantwortet
+- TOP 5.6: Anfrage Bü90-Grü: Saubere Luft für Düsseldorf: Welche Auswirkungen haben die Diesel-Tricksereien? - beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion Tierschutz/Freie Wähler: RRX in Angermund - beantwortet
+- TOP 5.8: Anfrage der Ratsfraktion Tierschutz/FREIE WÄHLER: Weiteres seit dem Ratsbeschluss vom 10. März 2017 - beantwortet
+- TOP 5.9: Anfrage SPD: Rückkehr zu G9 als Regelfall - Auswirkungen auf die Schulentwicklungsplanung - beantwortet
+- TOP 5.10: Anfrage der Ratsfraktion DIE LINKE: Aktivitäten von Scientology - beantwortet
+- TOP 5.11: Anfrage der Ratsfraktion von BÜ90/GRÜ: Brandschutz in Hochhäusern - beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Maniera: Personalisierungsinfrastrukturkomponenten (PIK) - beantwortet
+- TOP 5.13: Anfrage des Ratsherrn Maniera: Verwendete Dämm-Materialien an Hochhäusern - beantwortet
+- TOP 5.14: Anfrage Rh Pfundner: Brennbare Fassadendämmung an Wohngebäuden - beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 9: Übertragene Ermächtigungen von 2016 nach 2017 - zur Kenntnis genommen
+- TOP 10: Jahresabschluss 2016 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 11: Franz Vaahsen-Grundschule, Grenzweg 12, Neubau einer Zweifach-Sporthalle - einstimmig beschlossen
+- TOP 12: Vereinssportanlage Kammerrathsfeldstraße 82 (TSV Urdenbach), Neubau Funktionsgebäude - zurückgezogen
+- TOP 13: Vereinssportanlage Kammerrathsfeldstraße 82 (TSV Urdenbach), Umbau Tenne in Kunstrasen - einstimmig beschlossen
+- TOP 14: EKISO Teilprojekt – Friedrich-Ebert-Straße Teil 1 (Maßnahmenpaket 1) und Teil 2 (Maßnahmenpaket 2) - einstimmig beschlossen
+- TOP 15: Umgestaltung Schadowstraße - einstimmig beschlossen
+- TOP 15.1: ÄA Rh Grenda: Umgestaltung Schadowstraße - einstimmig beschlossen
+- TOP 16: Umsetzung Bäderkonzept 2020: Bad Benrath - einstimmig beschlossen
+- TOP 17: Übernahme des bei der Landeshauptstadt Düsseldorf im Rahmen der Gründung der Eigenbetriebsähnlichen - mehrheitlich beschlossen
+- TOP 17.1: ÄA Rh Grenda: Übernahme des verbliebenen Anlagevermögens SEBD - mehrheitlich abgelehnt
+- TOP 17.2: Erg. Antrag von FDP, SPD und BÜ90/GRÜ : Übernahme des Anlagevermögens durch SEWB
+- TOP 18: Sonderzuschuss an den Düsseldorfer Turn- und Sportverein Fortuna 1895 e.V. für den Neubau eines Nac
+- TOP 18.1: Erg.Antrag von BÜ90/GRÜ, SPD und FDP: Sonderzuschuss an den Düsseldorfer Turn- und Sportverein Fortun
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Änderung der Verwaltungsgebührensatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 21: Stufenweise Erhöhung der Gebühren für Handwerkerparkausweise
+- TOP 21.1: ÄA CDU: Stufenweise Erhöhung der Gebühren für Handwerkerparkausweise
+- TOP 22: Schulorganisatorische Maßnahmen für die Martin-Luther-Schule, Evangelische Grundschule Gotenstraße 2 - einstimmig beschlossen
+- TOP 23: Stadtvertrag zwischen der Landeshauptstadt Düsseldorf und der jüdischen Gemeinde Düsseldorf Körpersc - einstimmig beschlossen
+- TOP 24: Nutzung von Flächen des Nordparks für die Eröffnung des Aquazoos - mehrheitlich beschlossen
+- TOP 25: Kulturentwicklungsplanung für die Landeshauptstadt Düsseldorf (Abschlussbericht)
+- TOP 25.1: ÄA SPD, Bü90-Grü und FDP: Kulturentwicklungsplanung
+- TOP 26: Verleihung des Förderpreises für Wissenschaften - einstimmig beschlossen
+- TOP 27: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landesha - einstimmig beschlossen
+- TOP 28: Handlungskonzept Elektromobilität der Landeshauptstadt Düsseldorf - Beschluss - - vertagt
+- TOP 28.1: ÄÄ Rh Grenda: Handlungskonzept Elektromobilität - vertagt
+- TOP 29: Überführung der Treuhandstiftung "Stiftung Begabtenförderung Düsseldorf" in eine rechtsfähige Stiftu - zur Kenntnis genommen
+- TOP 30: Annahme einer Spende - einstimmig beschlossen
+- TOP 31: Allgemeine Vertretung des Oberbürgermeisters - einstimmig beschlossen
+- TOP 32: Abberufung von Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 33: Nachwahl zum Beirat bei der Unteren Naturschutzbehörde - einstimmig beschlossen
+- TOP 34: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 35: Wiederbestellung eines Mitgliedes des Umlegungsausschusses - einstimmig beschlossen
+- TOP 36: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 37: Bebauungsplan Nr. 5676/049 - Moskauer Straße - Änderung gem. § 13 BauGB, Stellungnahmen, Satzung - einstimmig beschlossen
+- TOP 38: Denkmalbereichssatzung Plan Nr 09/010 Rathausviertel Benrath Satzungsbeschluss - einstimmig beschlossen
+- TOP 39: FNP-Änderung Nr. 171 - Südwestlich Witzelstraße - - einstimmig beschlossen
+- TOP 40: Bebauungs-Plan Nr. 03/003 - Südwestlich Witzelstraße - mehrheitlich beschlossen
+- TOP 41: B-Plan Nr. 01/008 Klosterstraße/Oststraße Satzung - mehrheitlich beschlossen
+- TOP 42: Antrag der Ratsfraktionen von SPD, BÜNDNIS 90/ DIE GRÜNEN und FDP: Stadtarchiv Düsseldorf - einstimmig beschlossen
+- TOP 43: Anträge
+- TOP 43.1: Antrag Die Linke: Der Datenschutzbeauftragte als Ansprechpartner für Einwohnerinnen und Einwohner
+- TOP 43.2: Antrag Die Linke: Umsetzen von Beschlüssen des Stadtrates
+- TOP 43.3: Antrag CDU: Eigentumssituation und Nutzung des Hofgärtnerhauses - zurückgezogen
+- TOP 43.4: Antrag der CDU-Ratsfraktion: Auswirkungen von Verwaltung 2020
+- TOP 43.4.1: ÄA SPD, BÜ90/GRÜ und FDP: Auswirkungen von Verwaltung 2020
+- TOP 43.5: Antrag Bü90-Grü, SPD und FDP: Urbaner Stadtstrand – Moderne Beachgastronomie am Rhein: Flächenprüfu
+- TOP 43.6: Antrag Die Linke: Kein Empfang und keine Unterstützung für Schießwettbewerb der Bundesweh
+- TOP 43.7: Antrag der CDU: Familiennachzug der in Düsseldorf lebenden anerkannten Geflüchteten
+- TOP 43.8: Antrag CDU: Erhalt der Düsseldorfer Förderschulen – Wahlmöglichkeiten für Familien sichern
+- TOP 44: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - einstimmig beschlossen
+- TOP 45: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 46: Aufsichtsrat der Jugendberufshilfe Düsseldorf gGmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 47: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 48: AR DOR - Ersatzwahl - - einstimmig beschlossen
+- TOP 49: Kuratorium der Stiftung Schloss und Park Benrath - Ersatzwahl - einstimmig beschlossen
+- TOP 50: Aufsichtsrat der NRW-Forum Düsseldorf gGmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 51: Bericht aus der Kleinen Kommission Wehrhahnlinie - zur Kenntnis genommen
+- TOP 52: EUROPE DIRECT - einstimmig beschlossen
+- TOP 53: Aufsichtsrat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - einstimmig beschlossen
+- TOP 54: Interimsgeschäftsführung der Metropolregion Rheinland - zur Kenntnis genommen
+- TOP 55: Interkommunaler Ausschuss der Regionalen Arbeitsgemeinschaft Stadt Düsseldorf – Kreis Mettmann – Rhe - einstimmig beschlossen
