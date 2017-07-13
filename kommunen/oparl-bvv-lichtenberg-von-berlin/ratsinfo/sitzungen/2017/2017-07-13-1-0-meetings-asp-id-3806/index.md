@@ -1,0 +1,100 @@
+# 10. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-07-13T17:00:00+02:00
+- Ende: 2017-07-13T22:10:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3806
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3806
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=220592
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Rücklage für Investitionszuweisung - vertagt
+- TOP 4.2: Resolution - politisch motivierte Kriminalität und jede Form des Extremismus bekämpfen - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Bericht zur Kinder-BVV - erledigt
+- TOP 9: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 9.1: Befestigung der Wiesengrundstraße in Karlshorst - beantwortet
+- TOP 9.2: Wohnbebauung ermöglichen - beantwortet
+- TOP 9.3: Wartezeiten verschärfen Notlagen - beantwortet
+- TOP 9.4: Ehrenamtliche für Alleinerziehende - beantwortet
+- TOP 9.5: Polizisten in Lichtenberg - beantwortet
+- TOP 9.6: Dämmmaterialien - beantwortet
+- TOP 9.7: Umsetzung von Gender Mainstreaming - beantwortet
+- TOP 9.8: Schulsanierungs GmbHs - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Sicherung der Natur in Lichtenberg auch unter Erfordernissen zur Beschleunigung des Wohnungsbaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sicherung von Kleingartenanlagen voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Hinweisschilder auf Gefahren in der Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Neue Kleingärten in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Benennung von Wegen zum Betriebsbahnhof Rummelsburg - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Elektrofahrzeuge für den Fuhrpark des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Das Umweltbüro Lichtenberg - Aufgabensicherung durch Regelfinanzierung - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Winterdienst auf Rad- und Gehwegen in Grünanlagen und Landwirtschaftsflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Ehrenamtsfonds - überwiesen
+- TOP 10.10: Straßenunterhaltung anheben - überwiesen
+- TOP 10.11: Erinnerungskultur fördern - überwiesen
+- TOP 10.12: Geschäftsstraßenmanagement - überwiesen
+- TOP 10.13: Integrationsfonds 2018/19 in gleicher Höhe wie bisher planen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Live-Stream der BVV länger als 6 Monate speichern - überwiesen
+- TOP 10.15: Schallschluckender und schadstoffreduzierender Asphalt bei der Erneuerung der Deckschicht der südlichen Fahrbahn der Straße Alt-Friedrichsfelde von Rosenfelder Straße bis Rhinstraße - überwiesen
+- TOP 10.16: Öffentliche Listen von öffentlichen und privaten Baumfällungen - überwiesen
+- TOP 10.17: Live-Stream der BVV verbessern - überwiesen
+- TOP 10.18: Zusätzliche PKW-Stellflächen schaffen - überwiesen
+- TOP 10.19: Schulweg von der Fahrbahn trennen - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Gehwegverbindung zwischen Friedrichsfelde und Karlshorst verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Grünflächenpflege in der Schwarzmeerstraße - überwiesen
+- TOP 10.22: Fließenden Verkehr in der Waldowallee ermöglichen - überwiesen
+- TOP 10.23: Ehrenamtliche Bepflanzung von Baumscheiben - überwiesen
+- TOP 10.24: Runder Tisch Ilsestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.25: Zielvereinbarung für das Audit Familiengerechte Kommune hier: Umsetzungsbericht zur Zielvereinbarung 1. Halbjahr 2017 Bezug: DS/1503/VII - überwiesen
+- TOP 10.26: Öffentliche Sicherheit im Bereich um Obersee und Orankesee verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.27: Tierschutz in Lichtenberg - Schutz von wildlebenden Tieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.28: Konstituierung des Lichtenberger Gesundheitsbeirates - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.29: 1 Jahr Jugendberufsagentur - eine erste Bilanz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.30: Neukonstituierung einer Kommission für Kunst am Bau und im Stadtraum in Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.31: Bebauungsplan 11-52 - frühzeitige Öffentlichkeitsbeteiligung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.32: Einführung von De-Mail in Umsetzung des Berliner E-Government-Gesetzes (EGovG Bln) im Bezirk Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.33: Veröffentlichung der Ärztestudie "Ambulante ärztliche Versorgung in den Berliner Bezirken Lichtenberg und Neukölln - Eine Studie im Auftrag der Bezirksämter Lichtenberg und Neukölln" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Einwohnerfragestunde - erledigt
+- TOP 12: Wahlen - (offen)
+- TOP 12.1: Wahl der ehrenamtlichen Mitarbeiter*innen für die Sondersozialkommission im Begegnungszentrum "Insel" für Menschen mit und ohne Handicap - gewählt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Bürger*innenbeteiligung in Lichtenberg: Transparent, effizient, wirkungsvoll? - schriftlich beantwortet
+- TOP 14: Prioritäten der Fraktionen - (offen)
+- TOP 14.1: Folgen der Neuzuschneidung der Grundschuleinzugsbereiche - Bürger*innen zeitnah und angemessen informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Gesetz zur Entschädigung von nicht zeitnah erbrachten Dienstleistungen - überwiesen
+- TOP 15: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 15.1: Verkehrsberuhigung im Malchower Weg - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Bewältigung des Reisebusverkehrs von Touristengruppen zur Gedenkstätte Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Sanierung des sowjetischen Ehrenmales in der Küstriner Straße planen - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Defektes Dach vom TagesTreff für Wohnungslose in der Weitlingstraße instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Anträge zur Beschlussfassung - (offen)
+- TOP 16.1: Fertigstellung Schloss Hohenschönhausen - in der BVV abgelehnt
+- TOP 16.2: Neuprogrammierung der Lichtsignalanlage Falkenberger Chaussee/Prendener Straße - in der BVV abgelehnt
+- TOP 16.3: Parken in der Wönnichstraße - ohne Änderungen in der BVV beschlossen
+- TOP 16.4: Für weniger Verkehrslärm und mehr Sicherheit: Tempo 30 auf der B1/B5 zwischen Gürtelstraße/Möllendorffstraße und Am Tierpark/Rhinstraße - in der BVV abgelehnt
+- TOP 16.5: Konzept für die digitale Ausstattung an Schulen entwickeln - in der BVV abgelehnt
+- TOP 16.6: Resolution - Campus für Demokratie befördern - überwiesen
+- TOP 16.7: Videoüberwachung an Bahnhöfen - überwiesen
+- TOP 16.8: Sauberkeit verbessern - überwiesen
+- TOP 16.9: Multifunktionssportplatz an der Richard-Wagner-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 16.10: Errichtung eines Aufzuges an Hauptgebäuden von Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Beschlussfassung - (offen)
+- TOP 17.1: Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2018/19 - überwiesen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Neuvergabe der Stadtteilzentren im Bezirk Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.2: Struktur und Maßnahmen zur Umsetzung von Gender Mainstreaming - überwiesen
+- TOP 18.3: Ergebnis des Fachtages für Alleinerziehende mit Leben erfüllen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19: Schließung der Sitzung - erledigt
