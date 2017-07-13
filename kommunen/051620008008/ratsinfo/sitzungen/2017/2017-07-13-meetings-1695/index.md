@@ -1,0 +1,113 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-07-13T18:00:00+02:00
+- Ende: 2017-07-13T22:46:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1695
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1695
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Eintragung in das Goldene Buch der Stadt Grevenbroich
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Personelle Umbesetzung für den LUA (Antrag Nr. 174/17) - einstimmig
+- TOP 3.1.2: Personelle Umbesetzung für den Rat (Antrag Nr. 169/17) - Kenntnisnahme
+- TOP 3.1.3: Stellenwiederbesetzung aussetzen (Antrag Nr. 175/17) - einstimmig
+- TOP 3.2: SPD
+- TOP 3.3: UWG/ABG
+- TOP 3.3.1: Beweissicherungsverfahren Straßenzustand in Barrenstein vor Umleitungsstrecke (Antrag Nr. 101/17) - einstimmig
+- TOP 3.3.2: Verwendung der Abgaben der Landwirte für Feldwege (Antrag Nr. 103/17) - einstimmig
+- TOP 3.4: FDP
+- TOP 3.4.1: Absolutes Halteverbot vor dem ehemaligen Gebäude der kath. Grundschule in Gustorf (Antrag Nr. 166/17 - einstimmig
+- TOP 3.4.2: Fußgängerüberweg (Gefahrenzeichen) "Auf dem Wiler" in Gustorf entfernen (Antrag Nr. 167/17) - einstimmig
+- TOP 3.4.3: Helmut Kohl und Hans-Dietrich-Genscher Straße (Antrag Nr. 168/17) - einstimmig
+- TOP 3.4.4: Verbreiterung L 69 und Erstellung eines Fahrradweges (Antrag Nr. 170/17) - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.6.1: Alkoholverbot im Bahnhofsumfeld, Bahnhofsquartier und Stadtpark (Antrag Nr. 171/17) - einstimmig
+- TOP 3.6.2: Prüfauftrag Parksituation IG Ost durch LKW (Antrag Nr. 172/17) - einstimmig
+- TOP 3.6.3: Die offene Turnhalle - ein Freizeitangebot für Jugendliche (Antrag Nr. 173/17) - einstimmig
+- TOP 3.6.4: Ausschuss für Zukunftsentwicklungen (Antrag Nr. 159/17) - einstimmig
+- TOP 3.6.5: Erhöhung der Gewerbesteuer (Antrag Nr. 160/17) - einstimmig
+- TOP 3.6.6: Mehreinnahmen durch städtischen Betriebsprüfer/in (Antrag Nr. 161/17) - einstimmig
+- TOP 3.6.7: Interkommunale Zusammenarbeit Gewerbesteuerprüfer/in( Antrag Nr. 163/17) - einstimmig
+- TOP 3.7: Die Linke/Piraten
+- TOP 3.8: FBG
+- TOP 3.9: Gemeinschaftsanträge
+- TOP 3.9.1: Kein externes Personal für die Leitung der AöR (Antrag Nr. 176/17) - einstimmig
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG/ABG
+- TOP 4.3.1: Fragen zur Sanierung der L142 Langwaden (Anfrage Nr. 102/17) - Kenntnisnahme
+- TOP 4.3.2: Frage zum Energiecontracting (Anfrage Nr. 104/17) - Kenntnisnahme
+- TOP 4.3.3: Ausführung von Aufträgen an die WGV bis zum 31.12.2017 (Anfrage Nr. 105/17) - Kenntnisnahme
+- TOP 4.3.4: Dienstbesprechungen des KiTa-Personals (Anfrage Nr. 100/17) - Kenntnisnahme
+- TOP 4.4: FDP
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Die Linke/Piraten
+- TOP 4.7.1: Interkommunale Zusammenarbeit (Anfrage Nr. 162/17) - Kenntnisnahme
+- TOP 4.7.2: Turnhallen (Anfrage Nr. 164/17) - Kenntnisnahme
+- TOP 4.7.3: Spielplatzbedarfsplanung (Anfrage Nr. 165/17) - Kenntnisnahme
+- TOP 4.8: FBG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Flüchtlings- und Integrationsangelegenheiten
+- TOP 8: Ausschussumbesetzung Nachbesetzung Aufsichtsratsmitglied SEG (91/2017) - einstimmig
+- TOP 9: Wiederwahl einer Schiedsperson - einstimmig
+- TOP 10: Entscheidung JHA
+- TOP 10.1: Satzung der Stadt Grevenbroich über die Förderung von Kindern in Kindertagespflege - mehrheitlich bei
+- TOP 10.2: Kinder- und Jugendförderplan 2017-20 - einstimmig
+- TOP 11: Entscheidung PlanungsA
+- TOP 11.1: 1.Änd. W 51 - Aufstellung + Auslegung - einstimmig
+- TOP 11.2: DIEK Neurath- Beschluss Rahmenplan - einstimmig
+- TOP 11.3: Aufst.G 215 - einstimmig
+- TOP 11.4: Aufst.K 34 §13b - einstimmig
+- TOP 11.5: Benennung Platz"'Hajo-Moll-Platz" - einstimmig
+- TOP 11.6: 1. Änd. W 46 städtebaul.Vertrag Langw. Straße - mehrheitlich bei
+- TOP 12: Entscheidung LUA
+- TOP 12.1: Baumschutzsatzung - mehrheitlich bei
+- TOP 13: Haushalt 2018
+- TOP 13.1: Reden der Fraktionsvorsitzenden zum Haushalt 2018
+- TOP 13.2: Stellenplan 2018 - mehrheitlich bei
+- TOP 13.3: Haushalt 2018 - mehrheitlich bei
+- TOP 14: Beantwortung Anträge
+- TOP 14.1: Änderung der Öffnungszeiten des Bürgerbüros durch interne Umstrukturierung (Antrag Nr. 16/17) - einstimmig
+- TOP 14.2: Verzicht auf PVC-Böden (Antrag Nr. 35/17) - einstimmig
+- TOP 14.3: Tombola (Antrag Nr. 74/17) - mehrheitlich bei
+- TOP 14.4: Vermüllung mit Unrat inkl. Fäkalien in Kapellen (Antrag Nr. 72/17) - einstimmig
+- TOP 14.5: Wahlwerbung in der Stadt Grevenbroich (77,78,79/2017) - einstimmig
+- TOP 14.6: IG-Ost Gemarkung Barrenstein (3215), Flurstück 98 (Antrag Nr. 82/17) - einstimmig
+- TOP 14.7: Grundbesitzabgabenbescheide online zustellen (Antrag Nr. 149/17) - einstimmig
+- TOP 14.8: Zentralen Bürgerservice einführen (Antrag Nr. 152/17) - einstimmig
+- TOP 14.9: Agile Formen der Arbeitsorganisation nutzen (Antrag Nr. 153/17) - einstimmig
+- TOP 14.10: Implementierung eines strategischen Gebäudemanagements (Antrag Nr. 154/17) - einstimmig
+- TOP 14.11: Verlängerung des Fischereischeins online ermöglichen (Antrag Nr. 156/17) - einstimmig
+- TOP 14.12: Beantwortung von Anträgen und Anfragen- hier: Sammelbeantwortung - einstimmig
+- TOP 15: Beantwortung Anfragen
+- TOP 15.1: GU 34 Bürgerinformation am 18.04.2017 (Anfrage Nr. 80/17) - einstimmig
+- TOP 16: mündliche Anträge/Anfragen
+- TOP 16.1: Glascontainer Am Zehnthof (Anfrage Nr.177/17)
+- TOP 16.2: Bearbeitung von Anfragen Dez. II (Anfrage Nr. 178/17)
+- TOP 16.3: Aufstellung eines Pollers Feldweg Neukirchen (Anfrage Nr. 179/17)
+- TOP 16.4: Recyclingpapier(Anfrage Nr. 180/17)
+- TOP 16.5: Sachstand Immobilie Steinweg (Anfrage Nr. 181/17)
+- TOP 16.6: Bushaltestelle Ecke Deutsch-Ritter-Allee / Bergheimer Str. (Anfrage Nr. 182/17)
+- TOP 16.7: Kiosk am alten Finanzamt (Anfrage Nr. 183/17)
+- TOP 16.8: Zukunft altes Finanzamtgebäude (Anfrage Nr. 184/17)
+- TOP 16.9: Müllbehälter Marktplatz Wevelinghoven (Anfrage Nr. 185/17)
+- TOP 16.10: Nachfrage: Fahrradständer Bahnhof (Anfrage Nr. 186/17)
+- TOP 16.11: Ratsstube (Anfrage Nr. 187/17)
+- TOP 16.12: Verschmutzung Außenstelle Ordnungsamt (Anfrage Nr. 188/17)
+- TOP 16.13: Beantwortung Anfrage 120/17 (Anfrage Nr. 189/17)
+- TOP 16.14: Park-App (Anfrage Nr. 190/17)
+- TOP 16.15: Diskrepanz schriftlicher Einladungen / Ratsinformationssystem (Anfrage Nr. 191/17)
+- TOP 16.16: Nutzung Mängelmelder
+- TOP 17: Mitteilungen BM
