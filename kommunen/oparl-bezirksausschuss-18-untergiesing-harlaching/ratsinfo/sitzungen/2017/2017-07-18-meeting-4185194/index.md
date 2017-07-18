@@ -1,0 +1,139 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4185194
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4185194
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Planungen der LHM für das Anwesen Wilhelm-Kuhnert-Straße 14; Sachstandsinformation durch das Referat für Stadtplanung und Bauordnung (vertagt vom 18.04., 16.05. und 20.06.17)
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.2.1.: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidatinnen und Kandidaten am 12.09.17, ab 14.15 Uhr im ASZ Untergiesing, Kolumbustraße 33
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Fahrradstellplätze am U-Bahnhof Mangfallplatz (Süd); Bürgerschreiben vom 23.06.17
+- TOP 2.1.2.2.: Mögliche Rückkehr der Löwen-"Profis" ins Grünwalder Stadion; Bürgerschreiben vom 18.06.17 (ED 04.07.17)
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse AKA - Aktiv für interKulturellen Austausch e.V. Beratungstermine von März 2018 – Mai 2018 Antragssumme: 1.000,- €
+- TOP 3.1.2.2.: Beschlussfassung über die Finanzierung der Einwohnerversammlung zum Thema "Nutzung des Grundstücks Schilcherweg 8" aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von 1.500,- €
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Pkw-Parkprobleme in der Isenschmidstraße / Harthauser Straße; Antwortschreiben des Kreisverwaltungsreferats vom 08.06.17 zum Bürgeranliegen mit der Bitte um Stellungnahme zu den vorgeschlagenen Maßnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Pförtnerschaltung Haltestelle Wettersteinplatz; barrierefreie Umgestaltung des Platzes sowie des Haltestellenbereiches der Verkehrsinsel
+- TOP 3.2.5.2.: Naupliastraße / St.-Magnus-Straße; Austausch der Lichtsignalanlage, Kreuzungsumbau zur Verbesserung der Nahmobilität und barrierefreier Ausbau der Bushaltestelle; Antwortschreiben des Baureferats vom 01.06.17 zur Nachfrage aus der Sitzung vom 21.03.17
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Änderung der BA-Satzung: Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen; Abdruck eines Schreibens des Direktoriums vom 09.06.17 an den BA 19
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Kostenvergleich zur Umstellung auf LED – Beleuchtung im Straßenbereich; Antrag der SPD-Fraktion
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Errichtung einer Lärmschutzwand am Mittleren Ring zwischen Gerhardstraße und Isarbrücke
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Instandsetzung des Fußballplatzes Rotbuchenstr. 81
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Betreff Schulbau-Offensive 18 Stadtteil Untergiesing - Harlaching; Antrag der SPD-Fraktion
+- TOP 3.4.3.2.: Standard ASZ-plus für alle Alten- und Servicezentren bis 2018; Antrag der Freie Wähler
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: "Keine Kooperation mit Luxussanierern!" Die LHM soll die Kooperation und Unterstützung von SOS-Kinderdorf (e.V. & Stiftung) bis auf weiteres einstellen
+- TOP 3.4.5.2.: Keine Kooperation mit Luxussanierern! Die LHM soll die Kooperation und Unterstützung von SOS-Kinderdorf (e.V. & Stiftung) bis auf weiteres einstellen; Der BA 18 beantragt Akteneinsicht; Zusatzantrag zu BA-Antrag Nr. 14-20 / B 02955
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Sachstand zum Ausbau des Albert-Einstein-Gymnasiums (Harlaching), hier: Artikel "Stadt plant Ausbau des Albert-Einstein-Gymnasiums" in der Süddeutschen Zeitung vom 29.03.17; Schreiben der Stadtschulrätin vom 31.05.17
+- TOP 3.4.6.2.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Freischankfläche SSW "Barbaros", Waltramstraße 1, Beschlussvorlage des Kreisverwaltungsreferats
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken; Anhörung des Direktoriums vom 21.06.2017
+- TOP 3.5.4.2.: Parkhaus am Tierpark Hellabrunn a) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. XXXX Harlachinger Berg (östlich), Siebenbrunner Straße (östlich), Harlachinger Straße (westlich), Karolingerallee (nördlich) (Aufhebung gemäß § 173 Abs. 3 Bundesbaugesetz (BBauG) übergeleiteter einfacher Bebauungspläne) - Aufstellungsbeschluss - b) Aufhebung des Aufstellungsbeschlusses für den Bebauungsplan Nr. 641 vom 11.03.1970 c) Antrag und Empfehlungen Antrag der Stadtratsfraktion DIE GRÜNEN/RL: Besucherrekorde ohne Verkehrszunahme – den Tierpark Hellabrunn besser anbinden Antrag Nr. 08-14 / A 03751 der Stadtratsfraktion DIE GRÜNEN/RL vom 23.10.2012 Empfehlungen der Bürgerversammlung des Stadtbezirkes Untergiesing-Harlaching: - Verkehrssituation am Tierpark Hellabrunn Empfehlung Nr. 08-14 / E 01558 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 08.11.2012 - Verkehrssituation am Tierpark Hellabrunn Empfehlung Nr. 08-14 / E 01559 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 08.11.2012; Anhörung durch das Referat für Stadtplanung und Bauordnung zum Beschlussentwurf
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Keine Erschließungsbeiträge für die Maßnahmen an den Gehwegen der Rabenkopfstraße
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Naupliastraße 108 a; Übermittlung des Abdrucks des Vorbescheides vom 13.06.17
+- TOP 3.5.6.2.: Mitteilung des Kommunalreferats vom 27.06.17 über ein Grundstücksgeschäft: Sanatoriumsplatz 2, Aufhebung Erbbaurecht
+- TOP 3.5.6.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.3.1 Anwesen Waldeckstraße; Mitteilung vom 06.06.17 3.5.6.3.2 Anwesen Schilcherweg; Mitteilung vom 08.06.17 3.5.6.3.3 Anwesen Traminer Straße; Mitteilung vom 12.06.17 3.5.6.3.4 Anwesen Gindelalmstraße; Mitteilung vom 13.06.17 3.5.6.3.5 Anwesen Cannabichstraße; Mitteilung vom 27.06.17 3.5.6.3.6 Anwesen Mangfallstraße; Mitteilung vom 27.06.17 3.5.6.3.7 Anwesen Heigelstraße; Mitteilung vom 03.07.17
+- TOP 3.5.6.4.: Verbot der Zweckentfremdung von Wohnraum: Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Abbruch des Anwesens Armanspergstraße 3 für den Neubau einer Kindertageseinrichtung; Beschluss des Sozialausschusses am 20.07.17
+- TOP 3.5.6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.6.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Bebauung Candidplatz / Provisorium Kindergarten, Klarstellung bzw. Angebot zur Zusammenarbeit; Schreiben der HAMA Firmengruppe vom 22.06.17
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung auf öffentlichem Verkehrsgrund: Green Dinner am 22.07.17 auf dem Hans-Mielich-Platz; Anhörung durch das Kreisverwaltungsreferat
+- TOP 3.6.4.2.: Veranstaltung im Freien in einer städtischen Grünanlage: Sommerfest am 23.07.17 auf dem Laurinplatz; Anhörung durch das KVR
+- TOP 3.6.4.3.: Veranstaltung auf öffentlichem Verkehrsgrund: "Wuiderer Straßenfest" am 18.08.17 in der Oefelestraße; Anhörung durch das KVR
+- TOP 3.6.4.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Kinder-Zirkus-Attraktionen an der Oberbiberger Straße vom 14.-26.08.17; Anhörung durch das KVR
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
