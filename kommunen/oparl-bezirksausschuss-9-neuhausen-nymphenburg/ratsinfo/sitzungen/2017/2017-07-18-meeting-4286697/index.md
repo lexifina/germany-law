@@ -1,0 +1,139 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286697
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286697
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 6.2.1.: Reduzierung der Spielhallendichte in Stadtvierteln (siehe auch TOP 4.2.1)
+- TOP 6.4.1.: Schnellstmögliche Realisierung des Alten-und Servicezentrums am Romanplatz (siehe TOP 4.4.1)
+- TOP 7.6.3.: Nachnutzung Freifläche Lamentohalle
+- TOP 9.1.1.: Beschluss über Modus der Sitzung am 22.08.2017
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Zuverlässigkeit der Aufzüge an der S-Bahnhaltestelle Donnersberger Brücke Empfehlung Nr. 14-20 / E 01326 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 17.11.2016
+- TOP 3.1.2.: (E) Tunnel Landshuter Allee Durchführung einer öffentlichen Veranstaltung Empfehlung Nr. 14-20 / E 01360 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Einbahnregelung in der Volkartstraße zwischen Landshuter Allee und Nymphenburger Straße
+- TOP 3.2.2.: Verkehrsberuhigung im Bereich Frundsbergstraße
+- TOP 3.2.3.: Aufhebung des absoluten Haltverbots in der Johann-Pez-Straße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Mögliche Haltestelle Hanebergstraße an der Linie 144
+- TOP 3.3.2.: Änderung des Verkehrsabflusses aus dem Parkplatz „Parkharfe“ des Olympiaparkes
+- TOP 3.3.3.: Reklame-Lichtsäule an der Tramwendeschleife Menzinger Straße
+- TOP 3.3.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Marlene-Dietrich-Straße
+- TOP 3.3.5.: Verkehrsrechtliche Anordnungen in der Herthastraße
+- TOP 3.3.6.: MVG-Leistungsprogramm 2018 - Zusätzliche Anhörung
+- TOP 3.3.7.: Radverkehr vom Rotkreuzplatz in die Innenstadt
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Schlörstraße: Beschilderung des Zugangs zur Unterführung
+- TOP 3.4.2.: Integration der neuerrichteten Straßen Franziska-Schmitz-Straße und Georg-Lindau-Straße in die bestehende Tempo-30-Zone "Richelstraße"
+- TOP 3.4.3.: Oktoberfest 2017: Verzicht der Ausweisung von Wohnmobilsperrzonen im Stadtgebiet München - Rückmeldung Verkehrsabteilung
+- TOP 3.4.4.: 1. Winthirstr. 25: Einrichtung einer Kurzparkzone/ eingeschränktes Halteverbot 2. Kreuzung Lachnerstr./ Winthirstr.: Einrichtung eines Fußgängerüberweges
+- TOP 3.4.5.: Hinweisbeschilderung Hirschgarten / Wilhelm-Hale-Straße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen - Antwort an BA 19
+- TOP 3.5.2.: Linienverlängerung StadtBus 153 - Veranstaltung für Anwohner
+- TOP 3.5.3.: (U) Menzinger Straße / Wintrichring im 9. Stadtbezirk Neuhausen - Nymphenburg Kreuzungsumbau Projektkosten (Kostenobergrenze): 4.000.000 € 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 3.5.4.: Verkehrsrechtliche Anordnungen: Schachenmeierstraße, Herthastr., Helmholtzstraße, Bolivarstraße, Eisnergutbogen, Landshuter-Allee-Tunnel, Arnulfstraße, Reitknechtstraße, Wilhelm-Hale-Straße
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Reduzierung der Spielhallendichte in Stadtvierteln
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Arnulfstraße 150 - 152 - Neubau Wohnanlage mit Tiefgarage und Verbindungsbau zum Nachbaranwesen 142 - 146
+- TOP 4.3.2.: Arnulfstraße 142 - 146 - Anbau an zwei Wohngebäude und Verbindungsbau (Lückenschließung) zum Nachbaranwesen 150 - 152
+- TOP 4.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.5.: Hübnerstraße - Verkauf einer städtischen Immobilie
+- TOP 4.3.6.: Tunnel von der Arnulfstraße bis zum Georg-Brauchle-Ring; Landshuter Allee - Oberflächengestaltung nach dem Bau des Tunnels Sitzungsvorlagen Nr. 14-20 / V 08920
+- TOP 4.3.7.: Schwere-Reiter-Straße 9: Nutzungsänderung von Dienstwohnräumen in Funktionsräume und Büros der Tierärztlichen Fakultät - Antrag auf Erteilung eines Negativattestes i.S.d. Zweckentfremdungssatzung
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Schnellstmögliche Realisierung des Alten-und Servicezentrums am Romanplatz
+- TOP 4.4.2.: Fuß- und Radwegsteg Arnulfpark-Westend - Zwischennutzung Brückenkopfleerraum
+- TOP 4.4.3.: Gestaltungswettbewerb Leonrodplatz
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten über Bauvorhaben
+- TOP 4.5.2.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 4.5.3.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 4.5.4.: Schließung der Postfiliale Renatastraße 20a
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Besichtigungstermin Trambahnhäuschen Romanplatz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Photovoltaikanlage an der Wendl-Dietrich-Straße
+- TOP 5.2.2.: Baumfällungen an der Fafnerstraße
+- TOP 5.2.3.: Trivastraße 16 - Baumzuschnitt
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Baumfällungsanträge: -Lechstr. 2 -Kratzerstr. 9 -Kelheimer Str. 1 -Ginhardtstr. 3
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Schützenswerte Blutbuche in der Hirschgartenallee 19 / Ecke Frickastraße
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen auf öff. Grund
+- TOP 5.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.3.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Ideen aus dem World Cafe
+- TOP 5.6.2.: Projekt Begrünung Klarastraße
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 6.5.2.: BA-Budget: Kurzbericht Neugestaltung Spielplatz Hilblestraße
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt / JT Neuhausen Tag der offenen Tür am 24.06.2017
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Initiative "Einweihungsfeier" Einweihungsfeier des Kunstprojektes Niwenhaus am 22.07.2017
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Initiative "Niwenhaus" Gestaltung der Unterführung Dom-Pedro-/Landshuter Allee
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Gestaltung der Unterführung Hübnerstraße
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Raumvergabe im Kreativquartier
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Projekt offene Bücherschränke in München
+- TOP 7.6.2.: Planung Kulturgespräch
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Förderverein der Dom-Pedro-Grundschule e.V. Projekt "magische Fähigkeiten" im Schuljahr 2017/2018
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Tennisanlage Postillonstraße 3 - weitergehender Tennisbetrieb
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Einsatz von Schwimmhelfer/Innen als Ergänzung zum Lehrpersonal
+- TOP 8.4.2.: Machbarkeitsstudie Schwimmhalle der Samule-Heinicke-Realschule
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Ideen aus dem World Cafe
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken...
+- TOP 9.3.2.: Anhörung § 29 StVO und GrünanlagenS (Bez. 4, 6, 7, 9, 10, 11): Ringparade der Radlhauptstadt München ab Neuhofener Berg (Plinganserstr.) über den Mittleren Ring zum Petuelpark (Petuelring) am 03.09.2017; TERMIN: 03.08.2017
+- TOP 9.3.3.: Anhörung (Stadtbezirk 9) Hirschgarten (Skatepark), Skateveranstaltung "Backyard Pool Contest" am 16.09.2017 (Ersatztermin 17.09.17) - Termin 10.08.2017
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Neuerrichtung / Fortführung Gaststätten: - Blutenburgstr. 50 "Pizza Verde" - Wotanstr. 64 "Wotanstüberl"
+- TOP 9.5.2.: Einführung von Terminvereinbarungen im Bürgerbüro
+- TOP 9.6: Verschiedenes
+- TOP 9.6.1.: Betreuung der Schaukästen BA 9
+- TOP 9.6.2.: BA-9 Sitzungstermine 2018
+- TOP 10.: Verschiedenes
