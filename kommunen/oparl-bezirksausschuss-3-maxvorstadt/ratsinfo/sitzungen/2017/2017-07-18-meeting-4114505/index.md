@@ -1,0 +1,128 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2017-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4114505
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4114505
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.1.: Besetzung des Ferienausschusses des BA 3 am 16.08.2017
+- TOP F.5.: Wahl eines Beisitzers für den Vorstand des Berzirksausschusses 3 Maxvortadt
+- TOP F.6.: Anschaffung eines Pavillons für die Öffentlichkeitsarbeit
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Schreiben eines Bürgers vom 16.06.2017 Verkehrssicherheit in der Nymphenburger- und Brienner Straße
+- TOP 5.2.2.: Schreiben eines Bürgers vom 23.06.2017 Schrottfahrräder auf öffentlichem Grund, insbesondere Bereich vor der „Türkenschule“
+- TOP 5.2.3.: Schreiben eines Bürgers vom 23.06.2017 Situation am Josephsplatz
+- TOP 5.2.4.: Schreiben einer Bürgerin vom 27.06.2017 Konzerte am Königsplatz
+- TOP 5.2.5.: Schreiben eines Bürgers vom 28.06.2017 Nutzung der „Mütterberatungsstelle“ Schellingstraße
+- TOP 5.2.6.: Schreiben eines Bürgers vom 29.06.2017 Hupende Verkehrsteilnehmer in der Brienner Straße
+- TOP 5.2.7.: Schreiben einer Bürgerin vom 03.07.2017 Verbesserung der Radwegsituation in der Nymphenburger Straße
+- TOP 5.2.8.: 5.2.8 Schreiben einer Bürgerin vom 16.07.2017 Sachstand beim Bauvorhaben Dachauer Straße/Ecke Schleiheimer Straße (Gesund- heitsamt)
+- TOP 5.2.9.: 5.2.8 Scheiben einer Bürgerin vom 16.07.2017 Lärmbelästigung durch Weinfest am Josephsplatz Abstimmungsergebnis:
+- TOP 6.1.: Kommunalreferat Dachauer Straße 90, ökologische Kriterien beim Bau des Referates für Gesundheit und Umwelt
+- TOP 6.2.: Sofortmaßnahmen rund um den Stiglmaierplatz
+- TOP 6.3.: Direktorium Freiflächengestaltung an der Pinakothek der Moderne entlang der Türkenstraße und Gabelsbergerstraße
+- TOP 6.4.: Kulturreferat Ein eigenes Haus für die Staatliche Graphische Sammlung München BA-Antrag Nr. 14-20 / B 3689 des BA 3 vom 09.05.2017
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 30.06.2017 Warum werden lediglich 23 Wohnungen als Kompensation für ein riesiges Filetstück von m² auf einer Gemeinbedarfsfläche Verwaltung gefordert?
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 30.06.2017 Warum wurde die Gemeinbedarfsfläche Verwaltung im Flächennutzungsplan (Paketzu- stellamt) nicht geändert?
+- TOP 2.1.1.: Liste der Bauvorhaben der LBK: 23., 24., 25., 26.KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 24., 25., 26. KW
+- TOP 2.1.3.: Heßstraße 10, Errichtung eines neuen Dachgeschosses mit zwei Stockwerken und vier neuen Wohnungen über je zwei Etagen sowie Erhöhung des Aufzugs bis zum 1. DG
+- TOP 2.1.4.: Heßstraße 98, Erneuerung des Dachstuhls und Modernisierung zweierDG-Wohnungen sowie Errichtung eines Außenaufzugs
+- TOP 3.1.1.: Arnulfstraße 52, Neubau Zwischengeschoss unter bestehendem Saal usw.
+- TOP 3.2.1.: Schönfeldstraße 5, eine Robinie
+- TOP 3.2.2.: Blutenburgstraße 1, mehrere Bäume
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2093, Deroystraße (westlich), Arnulfstraße (nördlich) Marsstraße (östlich und südlich)
+- TOP 5.2.: Kommunalreferat, Beschlussvorlage Abfallvermeidungskonzept 2017 Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 23.05.2017 Sitzungsvorlage Nr. 14-20 / V 08731
+- TOP 5.3.: Demographiebericht München Teil 2 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017 Sitzungsvorlagennummer Nr. 14-20 / V08966
+- TOP 5.4.: Überprüfung und Erlass einer Erhaltungssatzung „Josephsplatz“ Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017 Sitzungsvorlage Nr. 14-20 / V 08466
+- TOP 5.5.: Wohnen in München V Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017 Sitzungsvorlage Nr. 14-20 / V 08922
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 22.06.2017 Zusätzlicher Radweg auf der Nymphenburger Straße
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 26.06.2017 Fahrradfahren entgegen der Einbahnstraßenregelung in der Adelheidstraße zwischen Josephsplatz und Georgenstraße am Josephsplatz Nord erlauben
+- TOP 1.3.: Antrag SPD Fraktion vom 27.06.2017 Radfahrer in der Türkenstraße schützen
+- TOP 1.4.: Antrag CSU Fraktion im BA 3 vom 12.06.2017 Neugestaltung des Walter-Klingenbeck-Weges
+- TOP 1.5.: Antrag SPD vom 02.07.2017 Der BA 3 fordert die Landeshauptstadt München auf, die Neugestaltung der Augustenstraße, insbesondere im Hinblick auf eine effizientere Verkehrsführung, zeitnah zu planen und durch- zuführen.
+- TOP 1.6.: Antrag SPD vom 03.07.2017 Änderung der Freiflächengestaltungssatzung: Fahrradabstellanlagen und Mülltonnenstell- plätze begrünen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Haltestelle für Stadtrundfahrten Nymphenburger-/Ecke Sandstraße
+- TOP 2.1.2.: Referat für Stadtplanung und Bauordnung Machbarkeitsstudie für eine Radschnellverbindung von der Münchner Innenstadt bis zur Stadtgrenze im Münchner Norden
+- TOP 2.2.1.: Referat für Stadtplanung und Bauordnung, Untere Denkmalschutzbehörde Versetzung der City-Light-Säule Nr. 61 (Jägerstraße / Oskar-von-Miller-Ring)
+- TOP 2.2.2.: Amalienstraße 44, Aufstellung zweier Sitzgelegenheiten im öffentlichen Raum
+- TOP 2.2.3.: Referat für Stadtplanung und Bauordnung Versetzung einer City-Light-Säule Nr. 70 (Dachauer Straße/Maßmannstraße) 2.3 Gaststätten
+- TOP 2.2.4.: Dachauer Straße 6, neue Zeitungsverkaufseinrichtung auf öffentlichem Grund
+- TOP 2.3.1.: Hiltenspergerstraße 15, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: sabellastraße 4, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.3.: Schellingstraße 27, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.4.: Lenbachplatz 2 a, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.5.: Wittelsbacherplatz 2, Erweiterung einer bestehenden Ferischnkfläche
+- TOP 2.4.1.: BundesTwizytreffen am 19.08.2017 auf dem Wittelsbacherplatz
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Erlaubnisbescheid 39. SportScheck Stadtlauf München 2017
+- TOP 3.2.: Direktorium, Änderung der BA-Satzung Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen; BA-Antrag Nr. 14-20 / B 01210 des BA 19 vom 12.05.2015
+- TOP 3.3.: Bürgerfest des Baureferates anlässlich Fertigstellung des Josephsplatzes am 28.07.2017 Eilentscheidung des Vorsitzenden vom 12.06.2017: Zustimmung
+- TOP 3.4.: Aktionswoche Münchner Kammerspiele vom 25.06. bis 30.06.2017 Eilentscheidung des Vorsitzenden vom 12.06.2017: Zustimmung
+- TOP 3.5.: Kunstarealfest 2017 am 25.06.2017 in der Gabelsbergerstraße Eilentscheidung des Vorsitzenden vom 16.06.2017: Zustimmung zum Nachtrag
+- TOP 3.6.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Umwandlung von KfzStellplätzen in (Miet-)Stationen für das Fahrradvermietsystem „MVG-Rad“
+- TOP 3.7.: Baumaßnahmen der Stadtwerke a) Max-Joseph-Straße, Sch. 335 – 336, Fernwärmeinstandsetzung b) Ottostraße 17, Strom
+- TOP 3.8.: Sicherheitsnachrüstung Altstadtringtunnel, Planungsworkshop zur Gestaltung der Freiflächen am Oskar-von-Miller-Ring und der östlichen Gabelsbergerstraße Beschluss des Bauausschusses vom 04.07.2017 Sitzungsvorlage Nr. 14-20 / V 09162
+- TOP 3.9.: Kreisverwaltungsreferat, Arbeiten im Straßenraum Georgen-, Friedrich-, Türkenstraße, Straßenbauarbeiten im Kreuzungsbereich
+- TOP 3.10.: Erlaubnisbescheid Münchner Sportfestival, Königsplatz am 02.07.2017
+- TOP 3.11.: Kreisverwaltungsreferat Oktoberfest 2017: Verzicht auf Ausweisung von Wohnmobilsperrzonen im Stadtgebiet
+- TOP 3.12.: Kreisverwaltungsreferat, Erlaubnisbescheid, Straßenfest, Türkenstraße am 08.07.2017
+- TOP 3.13.: Kreisverwaltungsreferat, Bezirksinspektion Mitte neue Regelung bei der Genehmigung von Freischankflächen
+- TOP 3.14.: Baureferat, Beschlussvorlage Errichtung von festen Toiletten im Maßmannpark sowie im Weißenseepark/Am Katzenbuckel Sitzungsvorlage Nr. 14-20 / V 08912 Beschluss des Bauausschusses vom 04.07.2017
+- TOP 3.15.: Kreisverwaltungsreferat Erlaubnisbescheid Oben-ohne-Open-Air am 08.07.2017, Königsplatz
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der CSU-Fraktion im BA 3 vom 12.06.2017 Samstagsöffnung der Stadtteilbibliothek Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Schulbauoffensive 2013-2030
+- TOP 4.2.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Buchpublikation" Buchpublikation „Auf einmal da waren sie weg . . .“
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Katholische Pfarrgemeinde St. Joseph Konzert am 17.12.2017
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.2.: Oktoberfest 2017; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse vertagt aus der Sitzung vom 20.06.2017
+- TOP F.3.: Änderung BA-Satzung Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken BA-Antrag Nr. 14-20 / B 03461 des BA 7 Sendling-Westpark vom 28.03.2017
+- TOP F.4.: Sitzungstermine 2018
+- TOP F.7.: 7. Direktorium, Satzungsänderung, Anhörung Verlängerung der Bearbeitungsfrist von drei auf sechs Monate bei BA-Anträgen und redaktionelle Anpassungder BA-Geschäftsordnung
+- TOP G: Nicht öffentliche Sitzung
