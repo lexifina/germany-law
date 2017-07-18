@@ -1,0 +1,72 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262309
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262309
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1: Vorstellung des Allparteilichen Konfliktmanagement in München - AKIM (AKIM-Team im Amt für Wohnen und Migration des Sozialreferates)
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 5.5.: Baumfällungen (Baumschutz-UNB)
+- TOP 2.1.: (E) Wohnungen Schittgablerstraße - Parkplätze Empfehlung Nr. 14-20 / E 01400 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017
+- TOP 2.2.: (E) Höhenfreimachung des Bahnübergangs Fasanerie Vorgezogene Verlegung des Kriegerdenkmals Empfehlung Nr. 14-20 / E 01391 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 30.03.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Stadtteilkultur 2411 e.V. Veranstaltung „Umweltmesse“ am 24.06.2017
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Feldmochinger Rosstag am 08.10.2017
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt; Einrichtung FZT Lerchenauer Spielaktion vom 31.07.2017 – 11.08.2017
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017
+- TOP 2.7.: N Entscheidung über Projektplanung gem. OB-Vollmacht: Programm barrierefreie Bushaltestellen, Schleißheimer Str. / Aschenbrennerstr. - Haltestelle Aschenbrennerstraße
+- TOP 3.: Anträge
+- TOP 3.1.: Dauerparkverbot in der Schittgablerstraße
+- TOP 5.1.1.: Am Blütenanger 157
+- TOP 5.2.1.: Detmoldstr., Gemarkung Feldmoching, Fl.Nr. 1123/5
+- TOP 5.2.2.: Leuchsstr. 8
+- TOP 5.2.3.: Mitteisstr. 21
+- TOP 5.2.4.: Paul-Preuß-Str. 15 und 17
+- TOP 5.2.5.: Auf den Schrederwiesen 33
+- TOP 5.3.1.: Straßenfest Schlottwiesenweg am 04.08.2017
+- TOP 5.3.2.: N Skabiosenplatz, Mobile Spielaktionen vom 07.08. - 11.08.2017
+- TOP 5.4.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken...
+- TOP 5.4.2.: Schaffung einer Grünverbindung zwischen den Baggerseen Lerchenauer See, Fasanerie See und Feldmochinger See Empfehlung Nr. 14-20 / E 01407 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017
+- TOP 5.4.3.: Einrichtung von personenbezogenen Behindertenparkplätzen: - Rubinstr. - Reginoltstr.
+- TOP 5.5.1.: N Heimpertstr. 20
+- TOP 5.5.2.: N Caracciolastr. 53
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Parkplatzmangel am Hasenbergl
+- TOP 6.2.: Ampelschaltung an der Kreuzung Pflaumstraße/Feldmochinger Straße (nördlicher Ortsausgang nach Oberschleißheim)
+- TOP 6.3.: Einrichtung einer Bushaltestelle am Knoten Herbergstraße / Paul-Preuß-Straße
+- TOP 6.4.: Überdachung der Bushaltestellen am S-Bahnhof Fasanerie
+- TOP 6.5.: Beschleunigung und Erhöhung der Leichtigkeit des Verkehrs für die Buslinie 172 in der Siedlung Ludwigsfeld
+- TOP 6.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: - Feuerwehrzufahrt Granatstr. 8 - 10 - Z 283 StVO Thelottstraße - Absolutes Haltverbot - Südseite Karlsfelder Str. zwischen Grashofstr. und Schwarzhölzlstr. - Karlsfelder Str.: Absolutes Haltverbot zwischen Brücke über das "Schwabenbächl" und der Bushaltestelle "MAN Siedlung" - Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Schaarschmidtstr. 17
+- TOP 6.7.: Daten Pegel Feldmoching
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: Haushaltsplan 2017 der LHM
+- TOP 6.10.: Jahresbericht 2016 der Inneren Mission
+- TOP 6.11.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen - Antwort an BA 19
+- TOP 6.12.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 6.13.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 6.14.: (U) Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach 1. Ergebnis des Nutzungskonzeptes 2. Weiteres Planungsverfahren
+- TOP 6.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.16.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 6.17.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 6.18.: (U) Schulbauoffensive 2013-2030
+- TOP 6.19.: Einwohnerversammlung zur Nachmittagsbetreuung der Grundschulkinder im Münchner Norden
+- TOP 8.1.: Protokoll der Sitzung am 09.05.2017 (nach Genehmigung in der Sitzung am 20.06.2017)
