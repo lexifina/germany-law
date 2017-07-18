@@ -1,0 +1,76 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-07-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266145
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266145
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (05. - 11.06.2017, 12. - 18.06.2017, 19. - 25.06.2017, 26.06. - 02.07.2017, 03. - 09.07.2017)
+- TOP 2.2.1.: Immissionsbelastung durch Firma Schernthaner
+- TOP 2.2.2.: Mittagsbetreuung Pfarrer-Grimm-Grundschule
+- TOP 2.2.3.: Busanbindung Waldkolonie
+- TOP 2.2.4.: Antrag auf Errichtung einer Kita Franz-Albert-Str./Naßlstr.
+- TOP 2.2.5.: Ruhestörung am Schachfeld Hitlstraße
+- TOP 2.2.6.: Duo Menzing von 1315
+- TOP 2.2.7.: WAL Franz-Albert-Straße
+- TOP 3.1.: Nachbesserung Grünanlage ehemaliges Allacher Bad
+- TOP 3.2.: Münchner Gärten retten - Nachverdichtung zu deren Lasten verhindern
+- TOP 4.1.: Budget der Bezirksausschüsse Verein 1200 Jahre Menzing e.V. Errichtung eines Stromanschlusses für das Festzelt
+- TOP 4.2.: Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Bethlehemskirche Internetfähigkeit des Gemeindehauses und des Jugendhauses (Änderungsvorlage)
+- TOP 4.3.: (E) Errichtung einer Tischtennisplatte in der Grünfläche zwischen ICE-Trasse und Freseniusstraße / Ecke Menzinger Straße Empfehlung Nr. 14-20 / E 01424 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 25.04.32017
+- TOP 4.4.: (E) Budget der Bezirksausschüsse wohlBEDACHT e.V. gemeinnütziger Verein Umbaumaßnahmen und Anschaffung einer Küche, Stühle und Tische
+- TOP 5.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken, Antrag BA 07 - Sendling-Westpark
+- TOP 5.2.: Hintermeierstr., Gemarkung: Allach, Fl.Nr.:1324/51 Neubau einer Wohnanlage, einer integrierten Krippe und einer unterirdischen Mittelgarage + TEKTUR
+- TOP 5.3.: Behringstr. 27b, Gemarkung: Untermenzing, Fl.Nr.: 845/5 Erweiterung Bestandsgebäude und Keller sowie Anbau eines Wintergartens
+- TOP 5.4.: Rudhartstr. 60, Gemarkung: Allach, Fl.Nr.: 260/6 Neubau eines Mehrfamilienhauses mit Garagen
+- TOP 5.5.: Eversbuschstr. 155, Gemarkung: Allach, Fl.Nr.: 81/0 Abbruch eines Wohnhauses und eines Schuppens
+- TOP 5.6.: Ernst-Haeckel-Str. 75, Gemarkung Allach, Fl.Nr.: 264/1 TEKTUR zu Neubau eines Dreifamilienhauses mit Garge Haus 1 + 2 und jeweils Vollzug der BaumschutzVO
+- TOP 5.7.: Listerstr. 4, Gemarkung: Allach, Fl.Nr.: 968/17 Umbau und Erweiterung
+- TOP 5.8.: Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 5.9.: Oktoberfesttraditionsschießen
+- TOP 6.1.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 04.07.2017 PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.: (U) Bebauungsplan mit Grünordnung Nr. 1655 a Oertelplatz, Bahnlinie München-Ingolstadt (westlich), Hintermeierstraße (nördlich), Lautenschlägerstraße (östlich), Vesaliusstraße (südlich) und Georg-Reismüller-Straße (östlich) sowie Franz-Nißl-Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 859) Neu- und Umbau der Straßen und Plätze im Bebauungsplanumgriff im 23. Stadtbezirk Allach - Untermenzing 1. Lautenschlägerstraße (Maßnahme 5) Projektkosten (Kostenobergrenze): 1.800.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 80.000 € (brutto)) Projektgenehmigung Lautenschlägerstraße Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 2. Genehmigung des städtischen Finanzierungsanteils für den Brunnen (Teil der Maßnahme Nr. 1) und den Bahnhofsvorplatz (Maßnahme Nr. 2) 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 6.4.: (U) Schulbauoffensive 2013-2030
+- TOP 6.5.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 7.1.: Bundestagswahl 2017 Wahlhelfer
+- TOP 7.2.: Anliegen der Jugendbefragung 2016
+- TOP 7.3.: Mäherproblematik in Hartmannshofen
+- TOP 9.1.: Schreiben Direktorium vom 27.06.2017 Sitzungsvorlagen für den Stadtrat im RIS; Unterrichtung von Bezirksausschüssen und Freigabe durch Sitzungsvorbereitung
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Theodor-Kitt-Str. 21, Bergetstr. 20, Von-Kahr-Str. 45, Ernst-Haeckel-Str. 93, Dyroffstr. 7, Von-Kahr-Str. 4, Dachauer Str. 665, Kleselstr. 9, Schlehbuschstr. 1, Bergsträßerstr. 7
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.06.2017: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben Vorherstr. 4a
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.06.2017 Erhaltungs- und Rekonstruktionsmaßnahmen zwei Torbogen an der Manzostraße
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.06.2017 Fällungsgenehmigung Von-Kahr-Str. 45
+- TOP 9.7.: Schreiben Stadtwerke München vom 12.06.2017, 19.06.2017, 26.06.2017, 04.07.2017, 10.07.2017
+- TOP 9.8.: Schreiben SWM Strom-Projekt Pasinger Heuweg
+- TOP 9.9.: Schreiben SWM-Strom-Projekt Behringstraße
+- TOP 9.10.: Schreiben Sozialreferat vom 23.06.2017 Entscheidung Kinder-Aktions-Koffer-Einsatz 2018
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 26.06.2017 Plakatierungsverordnung zur Bundestagswahl 2017
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 27.06.217 Verkehrsrechtliche Anordnung Bauschinger Straße
+- TOP 9.13.: Schreiben vom Sozialreferat vom 29.06.2017 Antrag auf Zweckentfremdung von Wohnraum Streberstraße
+- TOP 9.14.: Schreiben vom Sozialreferat vom 06.07.2017 Regsam-Schwerpunktgebiete ab 2017
+- TOP 9.15.: Schreiben des Büro des Oberbürgermeisters Einladung und Protokoll zu den Treffen der Gleichstellungsbeauftragten
+- TOP 9.16.: Schreiben Mitglied FAK Mobilität des Behindertenbeirats Wirklich barrierefreie Aufzüge in Schulgebäuden
+- TOP 9.17.: Schreiben Kreisverwaltungsreferat vom 21.08.2017 Beschilderung "Anlieger frei" im Bereich Robert-Hartig-Straße / Lautenschlägerstraße / Hintermeierstraße (Anwortschreiben)
