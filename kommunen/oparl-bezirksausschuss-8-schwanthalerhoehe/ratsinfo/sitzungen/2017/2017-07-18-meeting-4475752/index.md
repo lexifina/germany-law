@@ -1,0 +1,56 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4475752
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4475752
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Wahl eines/einer Kinder- und Jugendbeauftragten
+- TOP 4.1.: Haltverbot Tulbeckstr. neben Garagenein-/ausfahrt Tulbeckstr. 43
+- TOP 6.1.1.: Freischankfläche Trappentreustr. 2
+- TOP 6.1.2.: (E) Umsetzung eines Sanitärgebäudes auf oder neben dem Gollierplatz Empfehlung Nr. 14-20 / E 01454 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 27.04.2017
+- TOP 6.1.3.: Freischankfläche Schiessstättstr. 25
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Gaststättenfortführung Parkstr. 30
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Heroin Konsum am Gollierplatz
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Straßenbaumaßnahme Gollierstraße
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Sommerfest SPD Ortsverein
+- TOP 8.2.2.: Antrag auf Baumfällung Gollierstr. 37
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Oktoberfest 2017; Verzicht auf Ausweisung von Wohnmobilsperrzonen
+- TOP 8.3.2.: (U) Barrierefreier Zugang zum U- / S-Bahnhof Heimeranplatz / Josef-Rank-Weg Ergebnisse der Machbarkeitsstudie Barrierefreier Ausbau der U-Bahnstation Heimeranplatz Antrag Nr. 08-14 / A 03559 der Stadtratsfraktionen der SPD, DIE GRÜNEN/RL, der CSU und der FDP vom 27.07.2012 Barrierefreier Zugang zum U- / S-Bahnhof Heimeranplatz / Josef-Rank-Weg Antrag Nr. 08-14 / B 03764 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 13.03.2012
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule an der Bergmannstraße 36 e.V. Gestaltung der Transformatorenstation Bergmann-/Kazmairstraße
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Baumschutz verbessern - Ersatzpflanzungen
+- TOP 10.2.: Baumschutz verbessern - Anpassung der Bayerischen Bauordnung
+- TOP 11.1.: Satzungsänderung; Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städt. Liegenschaften bzw. städt. Grundstücken
