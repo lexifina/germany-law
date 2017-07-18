@@ -1,0 +1,126 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4160012
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4160012
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 7.1.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen, BA-Antrag Nr. 14-20 / B 01210 des BA 19 vom 12.05.2015, Antwortschreiben
+- TOP 7.2.: Anregungen und Wünsche für die Bebauungsplanung auf dem Gelände der ehemaligen Bayernkaserne und den östlich angrenzenden Grundstücken, Antwortschreiben des Referats auf BA-Vorschläge
+- TOP 9.1.: Anhörung zu Satzungsänderung, Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken
+- TOP 10.1.: Verfahren zur Sitzverteilung in den Bezirksausschüssen, Antrag der FDP im BA 11 vom 25.04.2017
+- TOP 10.2.: Straßenbenennung der Verlängerung der Edmund-Rumpler-Straße (U-1678), Antwortschreiben des Referats auf TOP A.10.1b-06/17
+- TOP 10.3.: BA-Sitzungstermine 2018
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Campus für Innovation und Forschung als urbanes Gebiet ausweisen (Initiative: Petra Piloty)
+- TOP 1.2.: Schutz der Eibe auf dem Gelände Hirschauer Straße 6 (Initiative: Bernhard Dufter)
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Entscheidung über eine Freischankfläche, Marktstraße 2
+- TOP 2.2.: Entscheidung über einen Antrag auf zwei Warenauslagen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Gertrud-Grunow-Straße, Neubau von Studenten- und Ausbildungswohnungen mit TG, Gemeinschafts-, Büro-, Beratungs- und Unterrichtsräumen sowie Gewerbeflächen
+- TOP 3.2.1.: Seestraße 14, Abbruch Bestandsgebäude („Konchenhaus“) und Neubau Wohnhaus (18WE) mit Tiefgarage
+- TOP 3.2.2.: Hirschauer Straße 6, Erweiterung der Frauenklinik mit Schaffung einer Krankenwagenanfahrt - VORBESCHEID
+- TOP 3.2.3.: Gassenfleckl 4, Neubau eines Einfamilienhauses
+- TOP 3.2.4.: Bauleitplanung der Stadt Garching, Aufstellung Bebauungsplan Nr. 171
+- TOP 5.: Unterrichtungen
+- TOP 5.2.1.: Werner-Egk-Bogen 24, eine Weide
+- TOP 5.2.2.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 5.2.3.: Reischlweg 10, 2 Blaufichten
+- TOP 5.2.4.: Herzogstraße 23, 1 Vogelkirsche
+- TOP 5.3.1.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 5.3.2.: (U) Bebauungsplan mit Grünordnung Nr. 1982 a Ingolstädter Straße (östlich), Stadtgrenze (südlich) - Sportgelände an der Ingolstädter Straße - im 12. Stadtbezirk Schwabing - Freimann Herstellung einer Fuß- und Radwegverbindung (Teil B) Kenntnisnahme von der Ausführungsgenehmigung des Projektes auf dem Verwaltungsweg
+- TOP 5.3.3.: (U) Schulbauoffensive 2013-2030
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Emissionsabhängige Regelungen zur Schadstoffbegrenzung
+- TOP 1.2.: Nachrüstung von Klapprampen in Trambahnen
+- TOP 1.3.: Leinthaler Straße inklusive Brücke in eine Fahrradstraße umwidmen
+- TOP 1.4.: Visualisierung der geplanten Tram durch den Englischen Garten (Initiative: Petra Piloty)
+- TOP 1.5.: Leistungsvergleich Tram/Bus
+- TOP 1.6.: Kleinsteinpflaster in der Montsalvatstraße
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Johann-Fichte-Straße
+- TOP 3.1.2.: Haltverbote Mattighoferstraße Einmündung Kulturheimstraße
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Erinnerungsverfahren, Heidemannstraße 182
+- TOP 3.2.2.: Konzeptionelle Verkehrsplanung für Maßnahmen zur Leistungssteigerung des Verkehrsnetzes im Bereich der Lilienthalallee
+- TOP 3.2.3.: Radschnellverbindung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verkehrsproblem München/ Schwabing
+- TOP 4.2.: Prüfung des Einzuges eines Supermarktes in die Feilitzschstraße
+- TOP 4.3.: Verkehrssituation Theodor Dombart Straße
+- TOP 4.4.: Rote Straßenmarkierung an der Kreuzung Eduard-Schenk-Straße / Schenkendorfstraße
+- TOP 4.5.: Durchgang an der Haltestelle Giselastraße
+- TOP 4.6.: Parkverbot auf der Sondermeierstraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Verkehrsinsel Dietlindenstraße Höhe Kunigundenstraße
+- TOP 5.1.2.: Verkehrssituationen in Freimann, u.a. Carl-Orff-Bogen, Antwort auf das weitergeleitete Bürgeranliegen B.4.1-03-17 aus der Sitzung vom 21.03.2017
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Johann-Fichte-Straße 12
+- TOP 5.2.2.: Z 283 am Zebrastreifen Carl-Orff-Bogen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 5.3.2.: Information der SWM über Baustellen, Erdgas-Projekt Ungererstraße BA 12
+- TOP 5.3.3.: Projektplanung Ungererstraße / Domagkstraße, Antwortschreiben des Referats auf BA-Entscheidung
+- TOP 5.3.4.: Lilienthalallee und Verlängerung der Edmund-Rumpler-Straße nach Westen, Straßenumbau und -neubau im Umgriff des Bebauungsplans Nr. 2024, Informationsschreiben bezüglich der Bauarbeiten
+- TOP 5.3.5.: Ungererstraße / Domagkstraße, Informationsschreiben bezüglich der Bauarbeiten
+- TOP 5.3.6.: Arbeiten im Straßenraum, Freisinger Landstraße 28-72, Verlegung einer LWL-Rohranlage
+- TOP 5.3.7.: Arbeiten im Straßenraum, Ungererstraße / Domagkstraße / Crailsheimstraße, Sanierung des Kreuzungsbereichs
+- TOP 5.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.9.: Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar, Sachstandsbericht und weiteres Vorgehen bis 2020, Sitzungsvorlagennummer 14-20 / V 08833
+- TOP 5.3.10.: Arbeiten im Straßenraum, Freisinger Landstraße zwischen Lottlisa-Behling-Weg und Stadtgrenze (Abriss und Neubau Brückenbauwerke A99)
+- TOP 5.3.11.: Arbeiten im Straßenraum, Freisinger Landstraße / Josef-Wirth-Weg, Kreuzungsumbau
+- TOP 5.3.12.: Arbeiten im Straßenraum, Leopoldstraße und Franz-Joseph-Straße
+- TOP 5.3.13.: Geh- und Radwegbrücke Luxemburger-/ Amsterdamer Straße über Isarring / Schwarze Lacke, Instandsetzungsarbeiten 2017
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Überparteilicher Antrag des Bezirksausschusses Schwabing-Freimann zur Förderung des Metropoltheaters in München
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017
+- TOP 3.: Anhörungen
+- TOP 3.1.: Sondermeierstr./Floriansmühlstr. Anhörung zum "Gottesdienst im Grünen" am 02.09.17
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Anbringen eines Postkastens an der Ungererstraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Guerickestraße 6
+- TOP 5.2.2.: Josef-Wirth-Weg 17
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Anforderungsprofil für die reservierte Flächennutzung in der Bayernkaserne zu einer späteren öffentlichen Ausschreibung - Teilfläche 12. Stadtbezirk Schwabing-Freimann Neue Standards für Pflegeheime und deren Auswirkungen auf die Versorgungssicherheit in München - Zwischenbericht
+- TOP 5.3.2.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 5.3.3.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 5.3.4.: Vollzug des Gaststättengesetzes sowie der TA Lärm, Referatsschreiben
+- TOP 5.3.5.: Kurzbericht über das Tanzprojekt welches vom Bezirksausschuss 12 bezuschusst wurde
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
