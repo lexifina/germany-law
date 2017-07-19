@@ -1,0 +1,7 @@
+# TOP II.1.: (E) Budget der Bezirksausschlüsse trugschluss e.V. Konzertprojekt „tingel tangel fahrt mit kram“ am 08.07.17 siehe auch UA Arbeit und Wirtschaft
+
+- Sitzung: BA 05 - Vollgremium (2017-07-19)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/905556
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/905556
