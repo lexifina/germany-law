@@ -1,0 +1,122 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-07-19T17:10:00+02:00
+- Ende: 2017-07-19T22:34:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2989
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2989
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Erhalt des „Gletschers“ in Britz - gegenstandslos
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Neukölln gegen Extremismus - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 6.2: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeaussschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Silbersteinstraße / Glasower Straße“ im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet „Hertzbergplatz / Treptower Straße“ im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Veränderungssperre XIV-24-1/31 für die Grundstücke mit der Lagebezeichnung Lahnstraße 33A, Naumburger Straße 33 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-24-1 - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Verlängerung der Veränderungssperre XIV-60/29 für die Grundstücke mit der Lagebezeichnung Buckower Damm 50 im Bezirk Neukölln, Ortsteil Britz im Geltungsbereich des Bebauungsplanentwurfes XIV-60 („Mohriner Allee / Buckower Damm“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung eines Mandats als stellvertretendes beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Brunnengalerie im Blumenviertel - beantwortet
+- TOP 9.2: Ausschilderung Gehwegsschäden - beantwortet
+- TOP 9.3: Absage Wahlzirkus - beantwortet
+- TOP 9.4: Maßnahmen zum Kindeswohl in kriminellen Großclans - beantwortet
+- TOP 9.5: Parken wichtiger als Schutz von Radfahrer*innen? - schriftlich beantwortet
+- TOP 9.6: Handlungskonzept zu Kinder- und Jugendkriminalität - schriftlich beantwortet
+- TOP 9.7: Sanierung der Fahrbahn Groß-Ziethener-Chaussee - schriftlich beantwortet
+- TOP 9.8: Bewachung der Sporthalle Efeuweg? - schriftlich beantwortet
+- TOP 9.9: Terrorisierung der Anwohner und Gewerbetreibende im Richardkiez, um die Saalestraße, um den S-Bahnhof Sonnenallee und um den Siegfried-Aufhäuser-Platz durch vielschichtige Gewalt von jugendlichen Gruppen mit arabischem, türkischem und kurdischem Migrationshintergrund und deren Verbindung zur Drogendealerszene - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Abwehr von Gefahren für Leib und Leben einer Vielzahl von Bürgern - überwiesen
+- TOP 10.3: Beendigung der Diskriminierung von Musliminnen mit Kopftuch - in der BVV abgelehnt
+- TOP 10.4: Neuer Sachstand zur Ermittlungsgruppe Rechtsextremismus? - vertagt
+- TOP 10.5: Bezirksparlament nicht ernst genommen?! - vertagt
+- TOP 10.6: Immer weniger Angebotsstunden in der allgemeinen Kinder- und Jugendförderung Neuköllns - schriftlich beantwortet
+- TOP 10.7: Auswirkungen der neuen Zumessungsrichtlinie auf die Personalsituation an Neuköllner Schulen - vertagt
+- TOP 10.8: Bibliotheksführer auf Deutsch - in der BVV abgelehnt
+- TOP 10.9: Jahresbericht linksextreme Aktivitäten in Neukölln - vertagt
+- TOP 10.10: Privatisierung kommunaler Kinder- und Jugendfreizeiteinrichtungen stoppen! - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Maßnahmen am Werner-Seelenbinder-Grab - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - vertagt
+- TOP 11.3: Ausschilderung Öffentliche Toilette - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Beleuchtung am U- und S-Bahnhof Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Vollständige Übernahme des Tempelhofer-Feld- Gesetzes im FNP - vertagt
+- TOP 11.6: Neukölln wird Fairtrade Town - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Drogenkonsum- und Suchtberatungsangebot - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sharing Neukölln - sharing heritage - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Jahresbericht rechtsextreme Aktivitäten in Neukölln - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Kompetenz bei Schulbau und Schulsanierung im Bezirk stärken - beantwortet
+- TOP 12.2: Hand in Hand mit Linksextremisten? - vertagt
+- TOP 12.3: Teilbebauung der Friedhöfe Hermannstraße - vertagt
+- TOP 12.4: Räumung Friedelstr. 54 - vertagt
+- TOP 12.5: Brandschutzbegehungen an Neuköllner Schulen - vertagt
+- TOP 12.6: Bezirksverordnete 3. Klasse?- Keine Arbeitsmöglichkeiten für Bezirksverordnete - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Neukölln weiter bei der Armutsgefährdung vorne? - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bezirkliche Handlungsfähigkeiten stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Neuköllner Extremistenliste - überwiesen
+- TOP 14.3: Weitere Milieuschutzgebiete in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Ermittlungsgruppe Rechtsextremismus - vertagt
+- TOP 14.5: Ersatzstandort Kiezladen Friedelstr. 54 - überwiesen
+- TOP 14.6: Erhalt der Buslinie 171 - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Mülleimer am Ausgang U-Bahnhof Britz-Süd zur Parkanlage - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Fußgängerverkehr Emser Str. / Oderstr. - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Fahrrad-Schutzstreifen sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Suchthilfe ausbauen - überwiesen
+- TOP 14.11: City Trees für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Behindertengerechter Übergang - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Abbiegesituation Hugo-Heimann-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Rahmenbedingungen für inklusive Beschulung schaffen - überwiesen
+- TOP 14.15: Neue Brunnengalerie – Pilotprojekt für ganz Berlin - überwiesen
+- TOP 14.16: Barrierefreiheit der Clay-Schule sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Öffentlich-rechtliche Informationssender für Meinungsvielfalt statt privatem Nachrichtensender im Bezirk - überwiesen
+- TOP 14.18: Kinderschutz bei dem Patenschaftsprojekt für Kinderspielplätze - überwiesen
+- TOP 14.19: Gedenken an 100 Jahre kommunistische Diktaturen und deren Opfer - überwiesen
+- TOP 14.20: Enquete-Kommission für die Berliner Verwaltung - überwiesen
+- TOP 14.21: Antrag auf Schließung Friedel 54 - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Bezirkliche Ressourcen dort einsetzen, wo sie am dringendsten gebraucht werden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Städtischer Friedhof in der Köpenicker Straße in Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Neukölln fahrrad- und fußgänger/innenfreundlich (11): Fahrradumgehung Weichselplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Lehrer an Brennpunktschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: B-Plan XIV-294-1 ("TiB Columbiadamm") - Aufstellung des Bebauungsplanes zur Änderung eines rechtskräftigen Bebauungsplanes XIV-294 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Reduzierung der Förderstunden zurücknehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Strategie Stadtlandschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Alpha-Bündnis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Intensiv begleitende Sprachförderung in der Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Personalabbau stoppen, Personalentwicklung starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Präventionskette im Lebensverlauf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Erhaltung des Standortes "Frauenschmiede" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Radverkehr in der Oderstraße sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Führungsschienen für Fahrräder auf dem Elsensteg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Bezirksamtsprotokolle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Gelber Punkt gegen Schrotträder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Einrichtung von Wartehäuschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Kulturelle Angebote für Flüchtlinge ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Fahrradweg zwischen dem Neudecker Weg und der Köpenicker Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Verbesserung der Straßenbeleuchtung Thomasstraße / Hermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Frauenförderpreis im Vereinssport - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Kindertagesstätten bei den Flüchtlingsunterkünften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Förderung des Radverkehrs in Neukölln fortsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Finanzmittel „IGA dezentral“ beantragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Kaputte Bänke in der Grünanlage am Wildenbruchplatz - mit Abschlussbericht zur Kenntnis genommen
