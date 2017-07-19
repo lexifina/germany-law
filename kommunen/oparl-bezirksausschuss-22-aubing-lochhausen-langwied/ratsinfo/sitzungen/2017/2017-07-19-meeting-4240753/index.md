@@ -1,0 +1,158 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2017-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4240753
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4240753
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung der fertiggestellten Geothermieanlage in Freiham durch die Stadtwerke München
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.17:
+- TOP 10.2: Beschluss des Kinder- und Jugendhilfeauschusses und des Sozialausschusses in der gemeinsamen Sitzung am 04.07.17:
+- TOP 10.3: Beschluss des Kommunalausschusses vom 23.05.17:
+- TOP 10.4: Beschluss des Bildungsausschusses gemeinsam mit Kinder- und Jugendhilfeausschuss, dem Bauausschuss, dem Finanzausschuss, dem Kreisverwaltungsausschuss, dem Ausschuss für Stadtplanung und Bauordnung und dem Verwaltungs- und Personalausschuss vom 05.07.17
+- TOP 10.5: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.05.17
+- TOP 10.6: Beschluss des Bauausschusses vom 04.07.17
+- TOP 10.7: Beschluss des Kulturausschusses vom 06.07.17:
+- TOP 10.8: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.17:
+- TOP 10.9: Beschluss der Vollversammlung des Stadtrates vom 28.06.17:
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Fällung von Bäumen auf der Gotthardttrasse zwischen Aubing-Ost-Str. und Kastelburgstr. (vertagt aus 05/17 und 06/17)
+- TOP 2.1.2.: Regelmäßig defekter Bahnübergang Leienfelsstraße
+- TOP 2.1.3.: Tempolimit von 80 km/h auf der A 99 zwischen A 96 und Aubinger Tunnel
+- TOP 2.1.4.: Mangelhafte Schachtabdeckung in der Pretzfelder Straße
+- TOP 2.1.5.: Geplante neue oberirdische Verkabelung durch Telekom am Wohngebäude "Wohnen für alle" in der Bodenseestr. 166 / Überlinger Weg 13-17
+- TOP 2.1.6.: Zustand südliche Mainaustraße
+- TOP 2.1.7.: Beschwerde über Beeinträchtigung durch parkende Autos in der Noderstraße
+- TOP 2.1.8.: Schulwegdienst an der Schule Wiesentfelser Straße
+- TOP 2.1.9.: Parken in der Freienfelsstraße
+- TOP 2.1.10.: Anbringung von Vorfahrtsschilder in der Aubing-Ost-Straße
+- TOP 2.1.11.: Verwilderte Freifläche an der Ecke Schussenriederstr./Schubinweg in Lochhausen
+- TOP 2.1.12.: Ampel an der Kreuzung Lochhausener Straße / Langwieder Bach
+- TOP 2.1.13.: Beschallungsanlage im Friedhof Aubing
+- TOP 2.1.14.: Bau eines Bürgersteigs Am Langwieder Bach
+- TOP 2.1.15.: Parkverbot in der Altostraße
+- TOP 2.1.16.: Ausbau der U5
+- TOP 2.1.17.: Baumfällungen in der Grünanlage zwischen Kastelburg- und Aubing-Ost-Straße
+- TOP 2.1.18.: Markierung für Schrägparkplätze auf dem Parkplatz auf der Rückseite des BRK Seniorenheims an der Aubinger Straße
+- TOP 2.1.19.: Flora und Fauna im Baugebiet an der Gleisharfe
+- TOP 2.1.20.: Neubau an der Limesstraße / Ecke Seldeneckstraße gegenüber der Limesschule
+- TOP 2.1.21.: Dauerhafte Abstellung von Anhängern im Bereich der Ehrenbürg-/Giechstraße und am Aufseßerplatz
+- TOP 2.1.22.: Maßnahme zur Reduzierung der Geschwindigkeit des Kraftverkehs vor der Kindertagesstätte in der Kronwinklerstr. 24
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen zu Bauvorhaben: - Hellensteinstr. 9 (N) - Am Langwieder Bach 21
+- TOP 3.1.2.: Baumfällungen auf Anforderung: - Funkgasse 1 - Altostr. 50 - Am Loferfeld 21 - Teufelsbergstr. 4 (N) - Fabrikstr. 22 (N) - Hagenbacher Str. 39 (N) - Sipplinger Str. 23
+- TOP 3.1.3.: Anfrage des BA 22 - Rechtzeitige Information der Baumschutzbeauftragten über Abholzaktionen, Schr. Planungsreferat vom 07.07.17
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Mehr Parkbänke und Alleebäume in Freiham-Süd (Reinhard Bernsdorf)
+- TOP 4.3.: Brennbare Hausverkleidungen; Flammschutzmittel (HBCD) bei Polystyrol (Styropor) (Reinhard Bernsdorf)
+- TOP 4.4.: Überlegungen zur U 9 (Hr. Bernsdorf)
+- TOP 4.5.: Anfrage zur Nahversorgung der Anwohner am Paul-Ottmann-Zentrum während der Bauarbeiten (Fr. Schrott, Fr. Stelzer)
+- TOP 4.6.: Anfrage zur Ilse-Fehling-Kindertagesstätte (Fraktion B 90/Die Grünen)
+- TOP 4.7.: Einschränkung der Tempo 30 Zone an der Kronwinkler Straße (Fraktion B 90 / Die Grünen)
+- TOP 4.8.: Anfrage: Mobile sozialpädagogische Arbeit in Freiham Süd (Fraktion B 90 / Die Grünen) - Antrag wurde zurückgenommen -
+- TOP 5.1.: (E) Budget der Bezirksausschüsse: AWO Kreisverband München Stadt e.V. Eröffnungsfest der Gemeinschaftsunterkunft LoLa am 21.07.2017
+- TOP 6.1.1.1.: Veranstaltung im Freien in einer städtischen Grünanlage: Teufelsberglauf am 05.11.17, Anhörung KVR vom 26.06.17
+- TOP 6.1.1.2.: Veranstaltung in städtischer Grünanlage: Kunst-Koffer-Aktion am 08./09./11.08.17 im Freizeitpark Aubing Ost in der Sipplinger Straße, Anhörung KVR vom 13.07.17
+- TOP 6.1.2.1.: Ausnahmegenehmigung für die Veranstaltung "Girls Skate Jam" am 22.07.17, Schr. KVR vom 26.06.17
+- TOP 6.1.2.2.: Kinder-Aktions-Koffer-Einsatz 2018: Entscheidung für den 25. Stadtbezirk Laim, Schr. Sozialreferat vom 13.06.17
+- TOP 6.1.2.3.: Münchner Jugendbefragung 2016, Schr. Sozialreferat vom 20.06.17
+- TOP 6.1.2.4.: Bestätigung, Hans-Steinkohl-Str. 30, 10-jähriges Jubiläum Hornbach am 21.-22.07.17, Schr. KVR vom 22.06.17
+- TOP 6.1.2.5.: Bestätigung mit Anordnung: Bezirksjugendlager THW von 29.07.-03.08.17 auf der Belandwiese, Schr. KVR vom 30.06.17
+- TOP 6.1.2.6.: Veranstaltungen im Juli 2017, Schr. Kulturreferat vom 05.07.17
+- TOP 6.1.2.7.: Aufenthaltsflächen Kastelburgstraße, Schr. Sozialreferat vom 06.07.17 (Bauvorhaben Kastelburgstraße 56-60, Erweiterung des Wohnheims für Wohnungslose - ehemaliger Antrag Nr. 14-20 / B 00792 des BA 22 vom 21.01.15)
+- TOP 6.1.2.8.: Flüchtingsunterkunft Centa-Hafenbrädl-Straße - Einrichtung von Schrägparkplätzen
+- TOP 6.1.2.9.: Erlaubnis und Gestattung: Tag der offenen Tür der Paulaner Brauerei am 08.07.17 in der Mälzereistr. 31
+- TOP 6.1.2.10.: REGSAM-Schwerpunktgebiete ab 2017, Schr. Sozialreferat vom 06.07.17
+- TOP 6.1.2.11.: Erlaubnisbescheid: Mammutmarsch am 05./06.08.17 in der Papinstr. 22
+- TOP 6.1.2.12.: Sachstand Ehrenbürgstr. 9 - ehmaliges Zwangsarbeiterlager, Schr. MGS vom 12.07.17
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: ÖPNV-Erschließung Freiham, Systemvergleich Tram / U-Bahn, Anhörung Planungsreferat vom 02.06.17 (vertagt aus 06/17)
+- TOP 6.3.1.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Toni-Berger-Str. 14, Anhörung KVR vom 29.06.17
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Fehlende Haltelinie an der Wiesentfelser Straße / Kreuzung Bodenseestraße, Schr. KVR vom 19.06.17)
+- TOP 6.3.2.2.: Baustelle S-Bahn-Haltestelle Aubing/Colmdorfstraße - Big-Packs, Schr. Referat für Gesundheit und Umwelt vom 22.06.17
+- TOP 6.3.2.3.: Sanierung des Fahrplanbelags, Rothenbühler Str., Schr. Baureferat vom 13.06.17
+- TOP 6.3.2.4.: Verkehrsberuhigung in der Brunhamstraße, Schr. KVR vom 22.06.17
+- TOP 6.3.2.5.: Tempo 30 Schilder am Langwieder Bach, Schr. KVR vom 27.06.17
+- TOP 6.3.2.6.: Verkehrsrechtliche Anordnung, hier: Gehweg "Radfahrer frei", Wiesentfelser Straße, Schr. KVR vom 26.06.17
+- TOP 6.3.2.7.: Erweiterung der Haltverbote Kreuzung Aubinger Str. / Limesstr., Schr. KVR vom 27.06.17
+- TOP 6.3.2.8.: S-Bahnverbindungsmöglichkeit von Laim nach Pasing und umgekehrt, Schr. Planungsreferat vom 30.06.17
+- TOP 6.3.2.9.: Arbeiten im Straßenraum, Altostraße Ecke Ubostrraße (Verlegung einer Wasserleitung) vom 31.07.-08.09.17, Schr. KVR vom 05.07.17
+- TOP 6.3.2.10.: Verkehrsrechtliche Anordnung: Einrichtung von absoluten Haltverboten in der Langenburgstraße, Schr. KVR vom 02.06.17
+- TOP 6.3.2.11.: Eichenauer Straße - Überflutung der Straße bei Regen im Bereich der Aubinger Lohe / Waldschranke, Schr. Baureferat vom 07.07.17
+- TOP 6.3.2.12.: Zustand südlich der Mainaustraße, Schr. KVR vom 11.07.17
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Bauleitplanung der Stadt Olching B-Plan Nr. 78 "Paulusgrube", Anhörung Planungsreferat vom 22.06.17
+- TOP 6.4.1.2.: Siedlungsschwerpunkt Freiham, Freiham Nord; Freiham Neuaubinger Grünband / Grünfinger, Kunst am Bau, Anhörung Baureferat vom 22.06.17
+- TOP 6.4.1.3.: Bodenseestr. 186: Umbau einer Containeranlge für eine Jugendfreizeiteinrichtung - befristet auf 5 Jahre, Anhörung Planungsreferat vom 10.07.17
+- TOP 6.4.1.4.: Freihamer Weg - Freiham Nord / WA 5: Neubau einer Wohnanlage mit Haus für Kinder und Tiefgarage, Anhörung Planungsreferat vom 10.07.17
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 05.-11.06.17, 12.-18.06.17, 19.-25.06.17, 26.06.-02.07.17, (N) 03.-09.07.17
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München: Stichtage - 06.-09.06.17, 12.-16.06.17, 19.-23.06.17, (N) 26.06.-29.06.17, (N) 03.-07.07.17
+- TOP 6.4.2.3.: Baustellenlärm Freiham, Schr. Baureferat vom 27.06.17
+- TOP 6.4.2.4.: Bauvorhaben Colmdorfstraße, Schr. Planungsreferat vom 07.06.17
+- TOP 6.4.2.5.: Maßnahmen zur geplanten Bebauung auf der Dornier-Wiese, Schr. Planungsreferat vom 22.06.17
+- TOP 6.4.2.6.: Klimapark in Neuaubing, Info Planungsreferat vom 26.06.17
+- TOP 6.4.2.7.: Stadtwerke München Baumaßnahme Fernwärmeprojekt Freihamer Weg / Pretzfelder Straße, Schr. SWM vom 28.06.17
+- TOP 6.4.2.8.: Langwied - Unser Dorf soll schöner werden, Schr. Baureferat vom 04.07.17
+- TOP 6.4.2.9.: Mitteilung über ein Grundstücksgeschäft: Sacheinlage - nähe Freihamer Weg - Flst. 3687, 3699,3703, 3704, 3728, Schr. Kommunalreferat vom 04.07.17
+- TOP 6.4.2.10.: Müll an der Erdbörse Nähe Paulaner, Schr. Baureferat vom 10.07.17
+- TOP 6.4.2.11.: Erweiterung Schutzgebiet Langwieder Haide, Zwischennachricht Planungsreferat vom 11.07.17
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken, Antrag BA 07 - Sendling-Westpark, Anhörung Direktorium vom 21.06.17
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mitteilung über ein Grundstücksgeschäft, S-Bahnhalt Freiham Fl.st. 3508/9 u.a. Aubing, Schr. Kommunalreferat vom 06.06.17
+- TOP 8.2.: Berichtigung; Mitteilung über ein Grundstücksgeschäft, Nähe Freihamer Weg Flst. 3531/27, 3531/25, 1209/8, 1209/4, Schr. Kommunalreferat vom 31.05.17
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Am Langwieder Bach, Schr. Sozialreferat vom 12.06.17 - Sigererstr., Schr. Sozialreferat vom 20.06.17 (N) - Taubertalstr., Schr. Sozialreferat vom 06.07.17
+- TOP 8.4.: Unveränderte Fortführung: - Kleingaststätte "Memo Imbiss", Bodenseestr. 235, Schr. KVR vom 30.30.17
+- TOP 8.5.: Bundestagswahl 2017: Plakatierung, Schr. KVR vom 21.06.17
+- TOP 10.1.1.: (U) Ausschreibungsbeschluss für drei Konzeptausschreibungen in Freiham Nord 1. Realisierungsabschnitt, 1. Bauabschnitt Festlegung der Ausschreibungskriterien für a) Baugenossenschaften, Grundstücksflächen WA 2 Ost, WA 4 Süd,WA 5 (1) Süd, WA 9, WA 10, WA 12 Süd b) Baugemeinschaften, Grundstücksflächen WA 1 innen West, WA 1 innen Ost, WA 2 Mitte, WA 4 innen, WA 12 Mitte c) Bauträger Eigentum, Grundstücksflächen WA 3 und WA 6 Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 10.2.1.: PERSPEKTIVE MÜNCHEN -Leitlinie Soziales
+- TOP 10.3.1.: (U) Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Hedwig-Kämpfer-Straße, Mathilde-Berghofer-Weichner-Straße, Fritz-Bauer-Straße
+- TOP 10.4.1.: (U) Schulbauoffensive 2013-2030
+- TOP 10.5.1.: Hinweis/Ergänzung; Bebauungsplan mit Grünordnung Nr. 2105 Bundesautobahn A 8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich) (Teiländerung des Bebauungsplanes Nr. 2075) „Sondergebiet Getränkelogistik“ - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 10.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.7.1.: (U) Münchner Stadtbibliothek: Stadtbibliothek Neuaubing, Radolfzeller Straße 15 Interimsstandort und Anmietung eines Ersatzstandortes im Neubau des Paul-Ottmann-Zentrums - Öffentlicher Teil -
+- TOP 10.8.1.: (U) Durchführung einer vergleichenden Haushaltsbefragung zum Molilitätsverhalten in den Modellquartieren Smarter Together und City2Share Erlass einer Haushaltsbefragungssatzung,Vergabe von Moderations-, Beratungs- und Gutachterleistungen
+- TOP 10.8.2.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 10.9.1.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 10.9.2.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
+- TOP 11.1.: Protokoll Jour Fixe Kulturreferat vom 22.03.17
+- TOP 11.2.: Einladung zum Lilalu-Get-together im Olympiapark am 05.08.17 von 16-17 Uhr, Schr. Lilalu/Johanniter vom Juni 2017
+- TOP 11.3.: Wirklich barrierefreie Aufzüge in Schulgebäuden, Schr. FAK Mobilität vom 07.07.17
+- TOP 11.4.: Einladung zum Dialog mit den Bezirksausschüssen des Referats für Bildung und Sport am 18.07.17, Schr. RBS vom 04.07.17
+- TOP 11.5.: Einladung zum Treffen der Gleichstellungsbeauftragten am 20.07.17 und Protokoll, Schr. Gleichstellungsstelle für Frauen vom 07.07.17
+- TOP 11.6.: Einladung zum Sommerfest Freiham am 22.07.17 ab 11 Uhr an der Wiesentfelser Straße, nahe der S-Bahn-Station Freiham
+- TOP 11.7.: Eröffnungsfeier in der Gemeinschaftsunterkunft Langwieder Hauptstraße am 21.07.17 von 14-19 Uhr, Schr. AWO vom 14.07.17
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 09.08.17 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 10.07.17 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Montag, 10.07.17 um 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Bildung/Schule/Sport: Mittwoch, 12.07.17 um 19.00 Uhr, Limesstr. 81 - UA Soziales/Familie/Senioren/Kultur: Dienstag, 11.07.17, 19.00 Uhr, Friedrichshafener Str. 11
