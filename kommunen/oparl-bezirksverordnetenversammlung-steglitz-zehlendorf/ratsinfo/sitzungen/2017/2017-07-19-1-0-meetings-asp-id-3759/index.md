@@ -1,0 +1,135 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-07-19T17:00:00+02:00
+- Ende: 2017-07-19T00:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3759
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3759
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Steglitz-Zehlendorf als letzter Berliner Bezirk immer noch nicht in der App „Ordnungsamt Online“ enthalten? - beantwortet
+- TOP 3.2: Leerstand im Gardeschützenweg beenden - beantwortet
+- TOP 3.3: „Sozialraumorientierung“ im Bezirk - beantwortet
+- TOP 3.4: Förderprogramm „Soziale Stadt“ - beantwortet
+- TOP 3.5: Unabhängigkeit des Bezirksverordneten Matz (SPD) - beantwortet
+- TOP 3.6: Wann wird der Beschluss Nr. 21, Drs. 0057/V „Endlich Platzbenennung nach Richard Draemert“ umgesetzt? - beantwortet
+- TOP 3.7: Kriegerdenkmal im Lankwitzer Gemeindepark - beantwortet
+- TOP 3.8: Ausnahmen im Bebauungsplan in Lankwitz - schriftlich beantwortet
+- TOP 3.9: Kooperationsvereinbarung - schriftlich beantwortet
+- TOP 3.10: Fehlen Strategien und Konzepte für die Nachnutzung der Dahlemer Museen wirklich? - schriftlich beantwortet
+- TOP 3.11: Auch Rollstuhlfahrer/innen wollen in Wannsee in die Kirche! - schriftlich beantwortet
+- TOP 3.12: Brand- (Schutz) an Hochhäusern im Bezirk - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 4.1: Abberufung einer stellv. Bürgerdeputierten im Ausschuss für Haushalt, Personal- und Verwaltungsmodernisierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellv. Bürgerdeputierten im Ausschuss für Haushalt, Personal und Verwaltungsmodernisierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für die Reservistenkameradschaft 06 Berlin Südwest - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Resolution: Keine politische Gewalt - in der BVV abgelehnt
+- TOP 4.5: Wiederherstellung des Schriftbildes der Partnerstadt Sderot - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Instandsetzung Sportplatz Sachtlebenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Informationsstele für Peter Lorenz am Ort seiner Entführung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Neue Kiez-Grundschule mit Zukunft in Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Transparenter Bezirkshaushalt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Parks Range III – Gemeinsame Infrastruktur für „Lichterfelde Süd“ – Segregation verhindern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Parks Range IV – Wertsteigerung ermitteln – überregionalen Verkehr planen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Verkehrssichere Kreuzung Martin-Buber-/Kirchstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Verbreiterung der Fußgängerfurt und Radfahrfurt der Fußgänger-LSA Teltower Damm am S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Radwegeplan: warum, wie, womit und wohin? - in der BVV abgelehnt
+- TOP 4.15: Busverkehr Holtheimer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Taktzeiten Bus 187 tagsüber verdichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Videoüberwachung - in der BVV abgelehnt
+- TOP 4.18: Kurzzeitparken Jungfernstieg und Bahnhofstraße Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Rückversetzung der Haltelinien Sundgauer Straße/ Berliner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Müll und Dreck am LIO vermeiden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Steglitz-Zehlendorfer Wirtschaft stärken - Liegenschaftskataster veröffentlichen! - in der BVV abgelehnt
+- TOP 4.22: Öffentliche Erleichterung Teil1 - Ausschreibung für den Betrieb öffentlicher Toiletten flexibel gestalten - in der BVV abgelehnt
+- TOP 4.23: Öffentliche Erleichterung Teil 2 – WCs im Bezirk sichern - in der BVV abgelehnt
+- TOP 4.24: Friedhöfe keine Orte für qualvollen Tod von Kleinsäugern und Jungvögel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Sanierung der Fahrbahn in der Klingsorstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Sicher Am Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Sichere Geschwindigkeit in der Wedellstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Kein verkehrsbehinderndes Parken McNair - in der BVV abgelehnt
+- TOP 4.29: Schmuddelecke auf McNair beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Kontrolle über die Einhaltung der Geschwindigkeitsbegrenzung in der Liebenowzeile - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Endlich ein pünktlicher Bus M 48 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.32: Mittelhandlauf im S-Bahnhof Wannsee installieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.33: Jährliche Statuserhebung des Sanierungsstaus und der Sanierungsbedarfe an Schulen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Alle Sanierungsmittel in die Bezirke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.35: Auch Menschen im Rollstuhl wollen in Wannsee die Kirche besuchen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: Büchertisch im Rathaus - in der BVV abgelehnt
+- TOP 4.37: Zusätzliche Fahrradstellplätze an den S- und U-Bahnhöfen im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.38: Mehr Zebrastreifen für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.39: Öffentliches WLAN kenntlich machen - in der BVV abgelehnt
+- TOP 4.40: Modellversuch der Fahrrad-Polizei auf den Süd-Westen ausdehnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.41: Barrierefreier Zugang zum S-Bahnhof Botanischer Garten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.42: Bürgerinformation zur Verkehrsführung an der Moltkebrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.43: Betreuungsbehörde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Verkehrsführung Neuchateller Str./Ecke Hindenburgdamm - überwiesen
+- TOP 5.2: Tempo 30 in der Onkel-Tom-Straße - überwiesen
+- TOP 5.3: Einsatz für die Europaschule Dreilinden - überwiesen
+- TOP 5.4: Integration statt Massenunterkunft in Wannsee - überwiesen
+- TOP 5.5: Transparenz erhöhen - Schriftliche Beantwortung von Kleinen Anfragen und Einwohnerfragen - überwiesen
+- TOP 5.6: Clearing- und Ombudsstelle für das Jobcenter Steglitz-Zehlendorf - überwiesen
+- TOP 5.7: Fußgängerüberquerung der Prinz-Friedrich-Leopold-Str. - überwiesen
+- TOP 5.8: Den bezirklichen Denkmalbeirat endlich in denkmalrelevante Aufgaben mit einbeziehen! - überwiesen
+- TOP 5.9: Weitere Immissionsmessstationen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.10: Botanischen Garten retten! - überwiesen
+- TOP 5.11: Drittmittel für den Sportplatz Sachtlebenstraße - überwiesen
+- TOP 5.12: Vandalismus ist unsozial - überwiesen
+- TOP 5.13: Mehr Kinderstadtpläne für Steglitz-Zehlendorf - überwiesen
+- TOP 5.14: Laiendefibrillatoren (AED) im Einsatzleitsystem der Berliner Feuerwehr vermerken - überwiesen
+- TOP 5.15: Besucher*innen der BVV-Sitzungen die nötige Wertschätzung entgegenbringen Teil II - überwiesen
+- TOP 5.16: Parksituation Wannseebadweg in Höhe des Strandbades - überwiesen
+- TOP 5.17: Informationen für Obdachlose - überwiesen
+- TOP 5.18: Parkbänke Steglitzer Park - überwiesen
+- TOP 5.19: Grünphase für Fußgänger*innen an U-Krumme Lanke verlängern - überwiesen
+- TOP 5.20: Obdach nicht nur im „Winter“ - überwiesen
+- TOP 5.21: Fahrradwracks am S-Bahnhof Feuerbachstraße - überwiesen
+- TOP 5.22: Wildwuchs an der Hauptstraße beseitigen - überwiesen
+- TOP 5.23: Freizeitsport und Bürgeranliegen ernst nehmen! - überwiesen
+- TOP 5.24: Knesebeckbrücke für alle Verkehrsteilnehmer! - überwiesen
+- TOP 5.25: Mehr Fahrradbügel vor S-Bahn Feuerbachstraße - überwiesen
+- TOP 5.26: Aufzug S-Bahnhof Wannsee - überwiesen
+- TOP 5.27: Bebauungsplan 6-24 VE (Fischerhüttenstraße – ehemalige Bezirksgärtnerei) - endlich kontinuierlich Bürgerinnen und Bürger informieren! - überwiesen
+- TOP 5.28: Entfernung eines auf dem Areal der Gedenkstätte des 17. Juni in der Potsdamer Chaussee befindlichen Gedenksteins - überwiesen
+- TOP 5.29: Anwohnerparken Forststraße ermöglichen - überwiesen
+- TOP 5.30: Queere Beratungs- und Betreuungangebote für Steglitz-Zehlendorf schaffen - überwiesen
+- TOP 5.31: Abwägung bei der möglichen Aufnahme von Flüchtlingen aus Tschetschenien - überwiesen
+- TOP 5.32: Gedenkveranstaltung des Bezirks zu üblichen Tageszeiten ansetzen! - überwiesen
+- TOP 5.33: Sicherstellung der „Fête de la Musique“ im Bezirk – Impuls für Berlin - überwiesen
+- TOP 5.34: Briefkasten Leerungszeit verändern - überwiesen
+- TOP 5.35: Parks Range – Kein Baustellenverkehr durch Lichterfelde Süd - überwiesen
+- TOP 5.36: Gedenktafel/ Stele zur Würdigung der Ausstellung „Ungesühnte Nazi-Justiz“ - überwiesen
+- TOP 5.37: Anpassung der LSA-Schaltung Appenzeller Straße/ Goerzallee/ Wismarer Straße - überwiesen
+- TOP 5.38: Kostengünstige Abwasserabfuhr für Kleingartenanlagen sicherstellen! - überwiesen
+- TOP 5.39: Die Stadtteilbibliothek Lankwitz barrierefrei machen! - überwiesen
+- TOP 5.40: W-Lan für Bezirksverordnete im Bürgersaal vom Rathaus Zehlendorf - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - (offen)
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 6.1.1: Planungen & Analyse: Park & Ride-Angebote in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 6.1.2: Bewohnerparkzone Region S-Bahnhof Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Stellenbesetzung im Jugendamt? - beantwortet
+- TOP 8.2: Von der Leine gelassen? – Freilaufende Hunde an Schlachtensee und Krumme Lanke - beantwortet
+- TOP 8.3: Integration – ist diese auf dem richtigen Weg in Steglitz-Zehlendorf? - beantwortet
+- TOP 8.4: Funktionierende Stadt "Standesämter": Krisentreffen und die Auswirkungen für den Bezirk - beantwortet
+- TOP 8.5: Wie geht es weiter am Haus Gardeschützenweg 3? - beantwortet
+- TOP 8.6: Kein Einschreiten gegen unerträglichen Lärm? - schriftlich beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Verbesserung des Verkehrsflusses im Umfeld des Bebauungsplanes 6-30 schon jetzt - in der BVV zurückgezogen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Service-Center Integration Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Interaktive Stelenkarte - in der BVV abgelehnt
+- TOP 10.3: Anonymisiertes Bewerbungsverfahren im Bezirksamt - in der BVV abgelehnt
+- TOP 10.4: Weiterbetrieb des Flughafens Tegel - in der BVV abgelehnt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Parlamentarische Ferien - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
