@@ -1,0 +1,125 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-07-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264336
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264336
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 5.1.: Ehemalige JVA Am Neudeck: Einsichtnahme von Unterlagen durch den BA 5
+- TOP 5.2.: Wodurch konkret ist sichergestellt, dass im Rahmen des Umbaus der denkmalgeschützten ehemaligen JVA Am Neudeck auch bei der Umgestaltung im Inneren „ein Großteil der Grundstrukturen bestehen bleibt und die Ausstattung erhalten werden kann“
+- TOP 5.3.: Erhöhungsantrag von "Spielen in der Stadt e.V."
+- TOP 5.4.: Tempo-30-Zone für die Claude-Lorrain-Straße im Teilbereich zwischen Eduard-Schmid- und Humboldtstraße
+- TOP 5.5.: Mehr Radlständer in der Einsteinstraße
+- TOP 6.1.1.: (E) Budget der Bezirksausschlüsse trugschluss e.V. Konzertprojekt „tingel tangel fahrt mit kram“ am 08.07.17 siehe auch UA Arbeit und Wirtschaft und UA Kultur
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Kulturlust e.V. Radl-Aktion am 31.07.2017 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 7.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken; Anhörung des Direktoriums vom 21.06.2017 siehe auch UA Planung
+- TOP 8.1.1.: Dringlicher Umbau des Pariser Platz
+- TOP 8.2.1.: Rosenheimer Straße III: Radl-/Gehsteigsituation zwischen Orleansstraße und Bahnbrücke BA-Antrag Nr. 14-20 / B 03408 Zwischenmitteilung
+- TOP 8.2.2.: Mitnutzung des öffentlichen Spielplatzes an der Ernst-Reuter-Straße durch die Grundschule an der Ernst-Reuter-Straße BA-Antrag Nr. 14-20 / B 03401 Bitte um Fristverlängerung bis 25.08.2017
+- TOP 8.2.3.: Planungen am Lebensmittelmarkt Wiener Platz Antrag Nr. 14-20 / B 3251 hier: Fristverlängerung bis 31.10.2017
+- TOP 8.2.4.: Tempo 30 vor Schulen - aktueller Stand und Fristverlängerung BA-Antrag Nr. 14-20 / B 02369
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Flurstr. 8: Fällung einer Linde
+- TOP 7.2.: Baumfällgenehmigung Entenbachstr. 29
+- TOP 7.3.: Entenbachstr. 11: Fällung eines Ahorn, Rückschnitt an 2 Ahorn
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Budget der Bezirksausschlüsse trugschluss e.V. Konzertprojekt „tingel tangel fahrt mit kram“ am 08.07.17 siehe auch UA Arbeit und Wirtschaft
+- TOP II.2.: Initiative Studienensemble: Ablehnung des Budgetantrags
+- TOP II.3.: Jour Fixe Kulturreferat mit den Bezirksausschüssen, Protokoll vom 22.03.2017
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Schulbauoffensive 2013-2030
+- TOP 3.2.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Budget der Bezirksausschlüsse trugschluss e.V. Konzertprojekt „tingel tangel fahrt mit kram“ am 08.07.17 siehe auch UA Kultur
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Kulturlust e.V. Radl-Aktion am 31.07.2017
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017
+- TOP 2.: Anhörungen
+- TOP 2.1.: Green Dinner der Bündnis 90/Die Grünen am 05.08.2017 am Weißenburger Platz - Änderungsantrag
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Blumenladen Lebenslust, Falkenstr. 2 a, Parkplatzprobleme Antwortschreiben Baureferat
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Nachholtermin für den ausgefallenen Haidhauser Kultursonntag am 02.07.2017 Verweisung aus der Bürgerversammlung vom 06.07.2017
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einsteinstr. 165: Nutzungsänderung: Gewerberaum (Laden) im EG zu Großtagespflege für max. 10 Kinder im Alter bis 3 Jahre
+- TOP 2.2.: Falkenstr. 17: Nutzungsänderung: Ladenlokal zu Teilgastronomie mit Alkoholausschank und Öffnungszeit bis 22 Uhr sowie Zusammenlegung der Wohnungen im 1. OG und DG zu einer Wohnung
+- TOP 2.3.: Schwalbenstr. 2: DG-Ausbau mit Erneuerung des Dachstuhls im Dachspitz und Errichtung einer Dachterrasse auf dem Treppenhauskopf
+- TOP 2.4.: Balanstr. 14: Nutzungsänderung EG / Gewerbeeinheit 1: Friseurgeschäft zu Buchhandlung mit Café
+- TOP 2.5.: Orleansstr. 44-48: Erweiterungsbau, Aufstockung und Modernisierung der Berufsschulen, FOS und BOS; Vorbescheid: Variante Neubau
+- TOP 2.6.: Orleansstr. 44-48: Erweiterungsbau, Aufstockung und Modernisierung der Berufsschulen, FOS und BOS; Vorbescheid: Variante Aufstockung und Erweiterung
+- TOP 2.7.: Milchstr. 21: Erweiterung eines Wohnhauses mit einem Zimmer
+- TOP 2.8.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken; Anhörung des Direktoriums vom 21.06.2017 siehe auch TOP A 7.1
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baugenehmigung Rosenheimer Str. 15
+- TOP 3.2.: Ablehnungsbescheid Rosenheimer Str. 79
+- TOP 3.3.: Sprengung des Mauerwerkschornsteins Paulaner am Nockherberg am 15.07.2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Lärmbelästigung durch Baustelle Bereiteranger 13
+- TOP 4.2.: Entnahme von Bodenproben im Anwesen Metzgerstr. 5 a
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Terminvorschläge zur Bekanntgabe der Fahrgastzahlen Bus X 30 und 52
+- TOP 3.2.: Sachstand aktuelle Gestaltung Brunnenbereich Orleansplatz
+- TOP 3.3.: Petition "Umgestaltung verkehrsberuhigte Balanstraße" Sitzungsvorlagen Nr. 14-20 / V 08728, Beschluss des Kreisverwaltungsausschusses vom 16.05.2017
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Parken während der Auer Dult
+- TOP 4.2.: Maßnahmen auf Dezibelmessung des Geläuts von Mariahilf
+- TOP 4.3.: Schulwegsicherheit an der Ernst-Reuter-Grundschule rund um die Kreuzung Grillparzer-/Einsteinstraße nach Fertigstellung des Altenheims Verweisung aus der Sitzung vom 28.06.2017
+- TOP 4.4.: Städtische Hausmüllentsorgung für die Anwesen Gaisbergstr. 10-16
+- TOP 4.5.: Fahrbahnbelag Steinstraße / Genoveva-Schauer-Platz
+- TOP 4.6.: Sicherheit im Verkehr: 1. Verkehrsberuhigter Bereich Lothringer Straße 2. Sperrung des Fuß- und Radwegs am ehem. Holzkontor
+- TOP 4.7.: Maßnahmen zur Reduzierung der Feinstaub- und Stickstoffoxidbelastung in Au-Haidhausen
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 11.09.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 11.09.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 12.09.2017, 19.30 Uhr, Diakonie, Elsässer Straße.30/Rgb. UA Kultur, 13.09.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 14.09.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 20.09.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand Sondersitzung zum Maxwerk, 27.07.2017, 19 Uhr, Friedenstr. 40 BA- Vorstand Sondersitzung zum Budget, 22.08.2017, 19 Uhr, Friedenstr. 40 BA- Vorstand, Dienstag, 05.09.2017, 19 Uhr, Friedenstraße 40
