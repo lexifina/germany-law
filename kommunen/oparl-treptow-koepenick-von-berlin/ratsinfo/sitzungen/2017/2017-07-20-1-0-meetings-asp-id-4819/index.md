@@ -1,0 +1,92 @@
+# 9. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2017-07-20T16:30:00+02:00
+- Ende: 2017-07-20T20:45:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4819
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4819
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=264277
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - gegenstandslos
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-07 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - überwiesen
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Überschwemmungsgebietsverordnung – Bürgerbeteiligung im Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Querung der Bulgarischen Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Empfehlungen zur ökologischen Bauleitplanung in den Leitlinien zur Entwicklung von Wohnbaupotentialflächen im Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Eindeutiger Hinweis der Linksabbiegefahrspur von der Oberspreestraße in die Ottomar-Geschke-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Sichere Abbiegemöglichkeit für Radfahrerinnen und Radfahrer von der Michael-Brückner-Straße in die Fennstraße schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Fahrradschnellweg für Treptow-Köpenick sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Gewerbe im B-Plan 9-63 stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Hunzinger-Skulptur "Die sich Erhebende" am alten Standort aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Nahverkehrsanbindung des Flughafens Schönefeld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 8.2: Wahl der Kiezpatinnen und Kiezpaten - vertagt
+- TOP 8.3: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Wirtschaftsförderung, Tourismus und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Wahl einer Patientenfürsprecherin und eines Patientenfürsprechers - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Verordnung über den Erlass der Veränderungssperre 9-63/17 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Adlershof - vertagt
+- TOP 9.2: Gedenktafel für Werner Seelenbinder - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2018 und 2019 - überwiesen
+- TOP 11.2: Sondermittel für "Pro Sport Berlin 24 e. V." (SM 17-16) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für die KGA Treptow´s Ruh (SM 17-27) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für die Selbsthilfegruppe "Multiple Sklerose" Berlin-Treptow (SM 17-23) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für "Rabenhaus e. V." (SM 17-25) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für den "Müggelheimer Heimatverein e. V." (SM 17-28) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für "Industriesalon Schöneweide " (SM 17-30) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für das FEZ Berlin (SM 17-31) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für den "Ortsverein Schmöckwitz e. V." (SM 17-32) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für den "all eins e. V." (SM 17-33) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Janine Eggert (SM 17-35) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Gesamtkonzeption Schulstandort Anna-Seghers-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Erneuerbare Energien in Bebauungsplänen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Natur- und Artenschutz und Anliegerinteressen am Müggelsee in Einklang bringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bürgerinformation im Zuge von Gehölzpflegemaßnahmen oder Fällungen in Treptow-Köpenick optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Unterstützung der Mieter/-innen des Kosmosviertels - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Faires und gesundes Essen an unseren Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Regionalkoordination für "Schulen ohne Rassismus - Schulen mit Courage" - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Informationsflyer zum Milieuschutz - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Alle Sanierungsmittel in die Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-66, Ortsteil Adlershof hier: - Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bund-Länder-Förderprogramm "Soziale Stadt" – Beschluss des Integrierten Handlungs- und Entwicklungskonzepts (IHEK) für die Förderkulisse Kosmosviertel im Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Eingangsbereiche der Grundschulen für die Einschulungen pflegen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Schulneubauten barrierefrei planen - überwiesen
+- TOP 14.3: Weg an der Wuhle zwischen Forum Köpenick und Lindenstraße beleuchten - überwiesen
+- TOP 14.4: Beendigung der Befristung für Steganlagengenehmigungen in Treptow-Köpenick - überwiesen
+- TOP 14.5: Inklusive Spielplätze fördern - überwiesen
+- TOP 14.6: Stärkung touristischer Potentiale für die Altstadt Köpenick - überwiesen
+- TOP 14.7: Erarbeitung der Steganlagenkonzeption - überwiesen
+- TOP 14.8: Firmentickets attraktiver gestalten - für Beschäftigte und Unternehmen - in der BVV abgelehnt
+- TOP 14.9: Geschwindigkeitskontrollen in der Wendenschloßstraße - überwiesen
+- TOP 14.10: Tempo 30 im Wohngebiet zwischen Karl-Ziegler-Straße, Rudower Chaussee, Groß-Berliner Damm, Hermann-Dorner-Allee ausweiten - überwiesen
+- TOP 14.11: Gewerbe schützen und Entwicklung ermöglichen - mit Änderungen in der BVV beschlossen
+- TOP 14.12: Gedenken an die Opfer der Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Carsharing - überwiesen
+- TOP 14.14: Wettbewerbe für Neubauten in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Mehr Fahrradstraßen in Treptow-Köpenick - überwiesen
+- TOP 14.16: Fahrrad-Parkplätze schaffen - überwiesen
+- TOP 14.17: Ausbau Radfahrangebot in der Kiefholzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Machbarkeitsstudie Straßenbahnverbindung zwischen dem Hirschgartendreieck und dem Krankenhaus Köpenick - überwiesen
+- TOP 14.19: Neue Kleingärten in Treptow-Köpenick ausweisen - überwiesen
+- TOP 14.20: Neue Regelungen im Unterhaltsvorschussgesetz bekannter machen - überwiesen
+- TOP 14.21: Wiederaufbau des Ausflugslokals und Hotels "Neu-Helgoland" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wohnberechtigungsscheine für Asylbewerber - beantwortet
+- TOP 15.2: Jahresbilanz - Maßnahmen nach Erlass der Milieuschutzsatzung in Alt-Treptow - beantwortet
