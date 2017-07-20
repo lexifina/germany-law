@@ -1,0 +1,59 @@
+# 6. öffentliche Sitzung des Ausschusses für Umwelt, Naturschutz, Tiefbau, Landschaftsplanung und Bürgerbeteiligung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-07-20T17:30:00+02:00
+- Ende: 2017-07-20T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=60
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3773
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3773
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 22.06.2017 - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: „Schmuddelplätzchen“ aufräumen! - mit Änderungen im Ausschuss beschlossen
+- TOP 3.2: Parks Range I – Grüne Mitte sichern – Naherholung ermöglichen - vertagt
+- TOP 3.3: Busspur in Zehlendorf-Mitte - vertagt
+- TOP 3.4: Busbeschleunigung Zehlendorf-Mitte – Busspur in der Potsdamer Straße - vertagt
+- TOP 3.5: Kreuzung Baseler/ Curtiusstraße alters- und verkehrssicherer machen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.6: Blindengerechte Bürgersteige - vertagt
+- TOP 3.7: Dringend notwendige Sanierung des Fahrradweges Kaiser-Wilhelm-Straße zwischen Zietenstraße und Seydlitzstraße in Richtung Lankwitz Kirche - im Ausschuss abgelehnt
+- TOP 3.8: Waldfriedhof Zehlendorf pflegen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.9: Spielende Kinder auf Spielplätzen besser schützen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.10: Zusätzliche Müllbehälter im öffentlichen Straßenland im Bereich Borstell- und Stephanstraße - im Ausschuss abgelehnt
+- TOP 3.11: Pflegeintervalle bei den Spielplätzen erhöhen - im Ausschuss abgelehnt
+- TOP 3.12: Fußgängerüberweg Steglitzer Damm in Höhe Buhrowstraße - vertagt
+- TOP 3.13: Die Treppen vom S-Bahnhof Sundgauer Straße zur Kilstetter bzw. Brettnacher Straße auch im Winter benutzbar machen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.14: Zebrastreifen Bolchener/ Sundgauer Straße sicherer machen - vertagt
+- TOP 3.15: Mehr Sicherheit vor dem Kindergarten der Stephanus-Kirchengemeinde in der Mühlenstraße/ Sundgauer Straße - vertagt
+- TOP 3.16: Bessere Sicht in der Kilstetter Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.17: Sauberer Kiez um den S-Bahnhof Sundgauer Straße - vertagt
+- TOP 3.18: Radweg Bismarckstraße - vertagt
+- TOP 3.19: Entwurzelten Baumstumpf auf Indianerspielplatz in Lankwitz entfernen - vertagt
+- TOP 3.20: Parkbänke erneuern - vertagt
+- TOP 3.21: Spielplätze sicherer machen: Altersbeschränkung - vertagt
+- TOP 3.22: Zweiter Eingang für den Friedhof Lankwitz - vertagt
+- TOP 3.23: Auf Orientierungsnummern hinweisen - vertagt
+- TOP 3.24: Mehr attraktive Grillflächen in Steglitz-Zehlendorf - vertagt
+- TOP 3.25: Uhr am Kulturkiosk in Zehlendorf „zeitgemäß“ in Gang setzen - vertagt
+- TOP 3.26: Umzäunung für den Feuerlöschteich der Thermometersiedlung - vertagt
+- TOP 3.27: Straßeninstandsetzungsprogramm für den Ostpreußendamm - oder besser noch KURZFRISTIGE Sanierung des Straßenzuges! - vertagt
+- TOP 3.28: Beleuchtung im Stadtpark Steglitz - vertagt
+- TOP 3.29: Handlauf an der Treppe zur Brettnacher Straße erneuern - vertagt
+- TOP 3.30: Defekte Gehwege sind gefährliche Stolperstellen und müssen repariert werden! - vertagt
+- TOP 3.31: Pflegeintervalle bei den Spielplätzen erhöhen Teil II - vertagt
+- TOP 3.32: Neue Sitzbank vor dem S-Bahnhof Lankwitz - vertagt
+- TOP 3.33: Schwarz auf Schwarz und Weiß auf Weiß ist unlesbar - vertagt
+- TOP 3.34: Europa und Partnerstadtsschild auf der Potsdamer Chaussee - vertagt
+- TOP 3.35: City Tree beschaffen und aufstellen - vertagt
+- TOP 3.36: Fahrradständer am S-Bahnhof Botanischer Garten - vertagt
+- TOP 3.37: Gartenstraße als Sackgasse - vertagt
+- TOP 3.38: Kein Durchgangsverkehr vom Teltower Damm zum „Postplatz“ - vertagt
+- TOP 3.39: Neue Schilder am Hubschrauberlandeplatz - vertagt
+- TOP 3.40: Fahrradladestationen an S- und U-Bahnhöfen und an touristisch interessanten Stellen des Bezirks Steglitz-Zehlendorf - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
