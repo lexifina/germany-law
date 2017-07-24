@@ -1,0 +1,79 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2017-07-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262255
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262255
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.6.: Tennis-Traglufthalle für den TSV Hartmannshofen
+- TOP 2.1.: Asphaltierung Kreuzung Fußgängerbrücke Rangierbahnhof / Verlängerung Donaustauferstraße und Fuß-Radweg Rangierbahnhof
+- TOP 2.2.: Lärmbelästigung in den Nachtstunden durch Übungsflüge der Polizeihubschrauber
+- TOP 2.3.: Neubau GWG-Siedlung - Umzugsorganisation
+- TOP 2.4.: Schulpavillions des Schulzentrums an der Gerastr. 6
+- TOP 2.5.: Querungshilfe Dachauer Straße
+- TOP 2.7.: Änderung Linienverlauf des Metrobusses 51
+- TOP 3.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Gärtnerstr. 39 2. Simrockstr. 57 3. Pelkovenstraße - Tektur
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Bielefelder Str. 5 2. Dachauer Str. 533 3. Untermenzinger Str. 77-79
+- TOP 3.4.1.: Gedenkveranstaltungen an die Opfer des Münchner Amoklaufs 2016. 1. offizielle Veranstaltung des OB am 22.07.2017 um 10.00 Uhr 2. Veranstaltung des BA 10 in Zusammenarbeit mit AK "miteinander leben in Moosach" am 22.07.2017 um 20.00 Uhr
+- TOP 3.4.2.: - 01. bis 09.07.2017: Moosacher Stadtteilkulturtage - 12.07.2017: LBK - Regionalgespräche der Bezirksausschüsse 2017 - weitere Berichte
+- TOP 4.: Anträge
+- TOP 4.1.1.: Regelmässiger Heckenrückschnitt entlang des Bahngleises an der Jakob-Hagenbucher-Straße zur Unterführung Liegnitzer Straße
+- TOP 4.1.2.: Befestigung der Wege in der öffentlichen Anlage rückwärtig des Pflegezentrums Bauberger Str. 49
+- TOP 4.3.1.: Wechselbepflanzung an der Chilloutzone am Memminger Platz
+- TOP 4.3.2.: Radstellplätze für Besucher und Beschäftigte der BAG-Nord einrichten
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Mieter- und Eigentümergemeinschaft Olympia-Pressestadt e.V. Kinder- und Sommerfest am 15.07.2017
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Müttertreff Moosach e.V. Schranksystem
+- TOP 6.1.: Tunnel von der Arnulfstraße bis zum Georg-Brauchle-Ring; Landshuter Allee - Oberflächengestaltung nach dem Bau des Tunnels Sitzungsvorlagen Nr. 14-20 / V 08920
+- TOP 6.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Gneisenaustr. 22-24: Einrichtung einer Hotelanfahrtszone mit absolutem Halteverbot
+- TOP 6.3.: Anhörung § 29 StVO und GrünanlagenS (Bez. 4, 6, 7, 9, 10, 11): Ringparade der Radlhauptstadt München ab Neuhofener Berg (Plinganserstr.) über den Mittleren Ring zum Petuelpark (Petuelring) am 03.09.2017; TERMIN: 03.08.2017
+- TOP 6.4.: Veranstaltung im Freien in einer städtischen Grünanlage: Franz-Mader-Str.11, Am Kapuzinerhölzl, in den Kirschen, Wintrichring; "Self-Transcendence 6-Stunden-Lauf am 09.09.2017"
+- TOP 6.5.: Linienführung der Buslinie 51; Anpassung des Linienweges?
+- TOP 6.6.: Baumfällungen (Baumschutz): 1. Dachauer Str. 485 2. Eggmüller Str. 30 3. Eininger Str. 41 4. Puchheimer Str. 38 5. Abbachstr. 18 - 18b 6. Treitschkestr. 7 - 13 7. Riesstr. 52 8. Gleismühlerstr. 8-10
+- TOP 6.7.: Entfernung Radständerbügel im Fußgängerbereich vor Post am Moosacher Bahnhof, Bunzlauer Str. 11 [Werden entfernt werden; Referat schlägt 2 Alternativen vor.]
+- TOP 6.8.: Änderung der BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redationelle Anpassung der BA-Geschäftsordnung
+- TOP 6.9.: Eggarten-Siedlung
+- TOP 6.10.: Veranstaltung auf öffentlichem Verkehrsgrund: Anwohnerstraßenfest des Siedlervereins Hartmannshofen am 19.09.2017
+- TOP 6.11.: Änderung der Sondernutzungsgebührensatzung
+- TOP 7.1.: Blumenwiesen im Stadtgebiet; Standort am Werner-Seelenbinder-Weg [Der Stand der Blumenwiese wird nicht von den Planungen zur künftigen Nord-Süd-Grünverbindung betroffen sein.]
+- TOP 7.2.: Betrieb MAHAG am Georg-Brauchle-Ring [Lärmquellen werden reduziert und somit Nachtruhe eingehalten werden.]
+- TOP 7.3.: Neubau der Gemeinschaftsunterkunft Franz-Mader-Str. 4-8 [Stellungnahme des staatlichen Bauamts München I zu Anregungen des BA 10]
+- TOP 7.4.: Bushaltestelle Pelkovenstraße/ Hanauer Straße (südöstlich) [Bezüglich der Falschparker vor und hinter dem Haltestellenbereich wird die M&#039;VG die Polizei um Überwachung bitten.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Dillinger Straße: Aufhebung des Z286 StVO (Haltverbot) 2. Zufahrt Kita Feichtmeyrst. 20: Anordnung Z283 StVO (absolutes Haltverbot) 3. Überfahrt Georg-Brauchle-Ring: Anpassung der Sperrflächenmarkierung; Hinweisschilder an Einmündungsbereichen
+- TOP 8.3.: Unveränderte Fortführung von Gaststättenbetrieben: 1. Dietrichstr. 2 2. Hanauer Str. 68 (OEZ)
+- TOP 8.4.: Dieselstr. 14: Schulbauoffensive - Nutzungsänderung Kellerraum zu Klassenzimmer
+- TOP 8.5.: (U) Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach 1. Ergebnis des Nutzungskonzeptes 2. Weiteres Planungsverfahren
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 8.8.: (U) Schulbauoffensive 2013-2030
+- TOP 8.9.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 8.10.: Bezirkssportanlage für Moosach (Bürgerversammlungsempfehlung Nr. 02-08/ E 00220 _ Sitzungsvorlage Nr. 14-20 / 08798)
+- TOP 8.11.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 8.12.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 8.13.: Verkehrsentwicklungsplanung - Angebotsverbesserung und Ausbau der umweltgerechten Verkehrsmittel - Änderung Beschlussvorlage; Ergänzungsantrag (Sitzungsvorlage Nr. 14-20 / V 08340)
+- TOP 8.14.: Zweckentfremdung von Wohnraum durch Abbruch: Baubergersraße, Gubestraße - nicht-öffentlich -
