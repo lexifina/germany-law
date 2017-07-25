@@ -1,0 +1,145 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-07-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123654
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123654
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.2.: Gärtnerplatzfest am 22. und 23.07.2017: Der BA 2 wird mit einem Stand vertreten sein. Unterstützung beim Aufbau erfolgt von den Pfadfindern. Es ergeht noch eine Abfrage an die BA-Mitglieder, wer wann mithelfen kann.
+- TOP 5.4.: Erstes Koordinierungstreffen zu 100 Jahre Räterepublik, vgl. D 3.2. Interessenten aus dem BA sind willkommen.
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.1.: Museumsinsel; Sondernutzung bzw. Freischankfläche vor dem Isarforum (ehemals Kulturforum) beim Deutschen Museum, vgl. Bürgeranfragen 2017.06 II Pkt. 4
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: BA eigenes Budget: 300,00 € für Malprojekt Schmellerwiese, PLENUMSBESCHLUSS
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Condrobs e.V. Pädagogische Freizeitmaßnahme vom 14.08.2017 - 18.08.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest der Teestube "komm"-Streetwork am 11.08.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Schülerfreiraum e.V. Fußballturnier am 13.07.2017
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 3.1.: Generalinstandsetzung ehemaliges „Tröpferlbad“ Thalkirchner Straße 96 – 102; Weitere Nutzung der Räume für zwei Einrichtungen der offenen Kinder- und Jugendarbeit – Jugendtreff Tröpferlbad und Zenetti-Treff 3 sowie für das Bürgerhaus Isarvorstadt-Tröpferlbad Stadtbezirk 2 Ludwigsvorstadt-Isarvorstadt, Sitzungsvorlage Nr. 14-20 / V 09284, Beschlussentwurf des Kinder- und Jugendhilfeausschusses, des Sozialausschusses und des Kommunalausschusses in der gemeinsamen Sitzung vom 04.10.2017 (SB)
+- TOP 5: Sonstiges
+- TOP 5.1.: Anliegen aus der Münchner Jugendbefragung 2016 mit Bitte um Rückmeldung der Kinder- und Jugendbeauftragten zum Anliegen BA 2 (Fahrradwege an der Lindwurmstraße)
+- TOP 5.3.: Vernetzungstreffen der neuen Leitung im „KuBu“ mit den anderen Initiativen im Viertel am 21.07.2017 von 10:00 Uhr bis 11:45 Uhr.
+- TOP 5.5.: Vorstellung der Kandidaten Seniorenbeiratswahl, vgl. D 3.3
+- TOP 5.6.: Sommerfest der Klenzeschule 48 am 14.07.2017 von 15:00 Uhr bis 17:00 Uhr
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Reifenstuelstraße 12; Umbaumaßnahmen im Dachgeschoss, Tektur
+- TOP 3.1.2.: Maistraße 30; Dachaufstockung mit Einbau Maisonettewohnungen, Anbau eines Außenaufzugs, Sanierung Fassade WDVS mit Balkonen und Nutzungsänderung im UG, EG, 1.OG von Gewerbe (Druckerei und Lager) in Wohnen - Tektur
+- TOP 3.1.3.: Maistraße 37; Anbau von Balkonen im Innenhof
+- TOP 3.1.4.: Schillerstraße 24; Nutzungsänderung: Nachtbar mit Kabarett zu Wettbüro
+- TOP 3.1.5.: Schillerstraße 20; Neuaufteilung des „Hotel Daheim“ - Nutzungsänderung Wohnung / 4: OG zu Hotel, Neubau Hotelzimmer (Schließung der Baulücke Schillerstraße) – hier: Änderung Zimmeraufteilung 1. - 4.OG, Verbesserung des 2. Rettungswegs - Tektur
+- TOP 3.1.6.: Fraunhoferstraße 32; Genehmigung einer Schallschutzvorrichtungsmaßnahme
+- TOP 3.1.7.: Ehrengutstraße 4, Sanierung und Aufstockung eines Mehrfamilienhauses mit Anbau eines Außenlifts, Einbau einer Dachterrasse, Anbau von Balkonen und Neubau einer WE- Tektur, vgl. Vertagung aus 2017.06 B 3.1.15
+- TOP 3.1.8.: Pettenkoferstraße 5, DG-Neubau und Teilung der Maisonette-Wohnung (3. OG + 1. DG) in 2 Wohneinheiten, Aufzugsanbau und Teilerweiterung der Balkone sowie Nutzungsänderung einer Remise und einer Souterrainwohnung, vgl. Vertagung aus 2017.06 B 3.1.16
+- TOP 3.1.9.: Lagerhausstraße (BA 6 Sendling), Beteiligung des BA 2 wegen grenznaher Lage Nutzungsänderung eines auf einer Brücke stehenden Dampfers für einen Gastronomie- und Veranstaltungsbetrieb inkl. Erschließungsbauten und Containererstellungen in den Außenanlagen mit Aussenveranstaltungsflächen, befristet auf 5 Jahre
+- TOP 3.1.10.: Herzog-Heinrich-Straße 4, Umbau, Nutzungsänderung und Erweiterung des Haupt- und Rückgebäudes (V 1) oder Abbruch und Ersatzneubau Hauptgebäude (V 2 / V 3) – Vorbescheid mit Baumbestandserklärung
+- TOP 3.2.1.: Isartalstraße 6, Antrag auf Fällung eines Bergahorn, PLENUMSBESCHLUSS
+- TOP 3.2.2.: Grimmstraße 4, Baumfällungsantrag einer Linde
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag: Hundeausläufe im Stadtbezirk
+- TOP 1.2.: BA-Antrag mit Dringlichkeit – Maßnahme zur Einhaltung der Stickoxide Grenzwerte, PLENUMSBESCHLUSS
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: St.-Paul-Straße 4, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Landwehrstraße 44, Erweiterung einer Freischankfläche, vgl. TOP 2017.05 C 2.1.3
+- TOP 2.1.3.: Schwanthalerstraße 45, Genehmigung einer Freischankfläche, vgl. TOP 2017.05 C 2.1.2, Schreiben des Kreisverwaltungsreferates vom 17.072017, PLENUMSBESCHLUSS
+- TOP 2.1.4.: Museumsinsel 1, Genehmigung einer Freischankfläche, vgl. TOP C 5.1, PLENUMS-BESCHLUSS
+- TOP 2.2.1.: Waltherstraße 16, Erweiterung einer bereits genehmigten Warenauslage
+- TOP 2.3.1.: Hans-Sachs-Straße 22, Antrag für Sitzgelegenheiten (2 Stühle)
+- TOP 2.3.2.: Reichenbachstraße 20, Antrag für Sitzgelegenheiten (2 Stühle)
+- TOP 2.3.3.: Landwehrstraße 33, Antrag für eine Sitzgelegenheiten
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Radschnellverbindung, Präsentation BA-Zwischenveranstaltung, Rückmeldung an das Referat für Stadtplanung und Bauordnung erwünscht
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Standortkonzept Bürgerbüros, Anhörung der Bezirksausschüsse
+- TOP 3.3.2.: Änderung der Sondernutzungsgebührensatzung, Anhörung des Kreisverwaltungs-referates vom 14.07.2017, PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Bürgeranliegen, Umgestaltung Kreuzung Holzplatz, Grünflächenpflege am Holzplatz, Tempo 30 in der Müllerstraße und Hundekotproblem Holzstraße, vgl. Bürgeranfragen II 2017.05 Punkt 4
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Änderung der BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken, BA-Antrags-Nr. 14 – 20 / B 03461 des BA 7 – Sendling-Westpark vom 28.03.2017; Anhörungsschreiben des Direktoriums vom 21.06.2017
+- TOP 1.2.: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung; Anhörungsschreiben des Direktoriums vom 10.07.2017
+- TOP 2.1.: Die Unterausschüsse und die Vorstandssitzung entfallen. Der Ferienausschuss findet am Dienstag, den 29.08.2017 um 19.00 Uhr in der Geschäftsstelle Mitte, Tal 13, 5.OG, 80331 München statt.
+- TOP 3: Veranstaltungen
+- TOP 3.1.: Gärtnerplatzfest am 22./23.07.2017
+- TOP 3.2.: Koordinierungstreffen zu 100 Jahre Räterepublik am 24.07.2017 um 19.30 Uhr, Gaststätte Bürgerheim in der Bergmannstraße
+- TOP 3.3.: Vorstellung der Kandidaten für die Seniorenbeiratswahl am 11.10.2017 im ASZ Hans-Sachs-Straße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 4.1.: Bemerkungen zu 4.12: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Antrag auf Erweiterung einer Freischankfläche, Fraunhoferstraße 41, Einholung der Entscheidung des Oberbürgermeisters Dieter Reiter, Stellungnahme des UA ÖRM wird erarbeitet, PLENUMSBESCHLUSS
+- TOP 4.2.: zu 4.14: Schutz der Isar vor Silvesterfeuerwerk – Die Isar und ihr Hochwasserbett, sowie die Isarbrücken und Isarparallele werden künftig vor geräuschintensivem Silvester-feuerwerk (Raketen, Böller und Böllerbatterien) geschützt, BA-Antrags-Nr. 14-20 / B 03326 des BA 2 vom 21.02.2017; Antwortschreiben des Kreisverwaltungsreferates vom 27.06.2017, Stellungnahme des UA ÖRM wird erarbeitet, PLENUMSBESCHLUSS
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.3.: Ruhe am Alten Südlichen Friedhof – Kein Museum, Empfehlung Nr. 14-20 / E 01234 der Bürgerversammlung des BA 2 vom 10.11.2016, Sitzungsvorlage-Nr. 14-20 / V 08022, Entscheidung des Oberbürgermeisters Dieter Reiter vom 22.06.2017
+- TOP A 4.4.: Information Kinder-Aktions-Koffer 2018: Einsatzort 25. Stadtbezirk Laim
+- TOP A 4.5.: Prüfung auf Ensembleschutz für das Dreimühlenviertel, BA-Antrags-Nr. 14-20 / B 02873 vom 27.09.2016, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 26.06.2017
+- TOP A 4.6.: Schulbauoffensive 2013-2030, Ergänzung zum Beschluss, Sitzungsvorlage Nr. 14-20 / V 08675
+- TOP A 4.7.: Versetzung der Bänke und des Fahrradständers am Roecklplatz
+- TOP A 4.8.: Konzept zum Schutz/Erhalt der Kleingewerbe im Stadtbezirk 2
+- TOP A 4.9.: Partyszene vs. Anwohner – wie kann man ein kompromissvolles Miteinander ermöglichen? CSU Stadtratsanfrage an das Sozialreferat; Antwortschreiben des Sozialreferates vom 26.06.2017 zur Kenntnis
+- TOP A 4.10.: Glockenbachwerkstatt e.V. - Mietverhältnis Pestalozzistraße 62, Nachtragsvertrag zur Vertragsverlängerung bis 31.07.2017
+- TOP A 4.11.: Bürgeranliegen Lärmbelästigung Viehhofgelände, vgl. TOP 2017.04 A 5.5; Antwortschreiben des Kreisverwaltungsreferates vom 06.07.2017 zur Kenntnis
+- TOP A 4.12.: Bürgeranliegen, Goethestraße 7; Antwort der Polizei vom 11.07.2017
+- TOP A 4.13.: Sozialreferat, Bekanntgabe Vollzug der Zweckentfremdungssatzung, Vollzug der Erhaltungssatzungen; Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014, Bekanntgabe der Jahresstatistik 2016, Sitzungsvorlage Nr. 14-20 / V 08700, Bekanntgabe in der Sitzung des Sozialausschusses vom 22.06.2017
+- TOP A 4.14.: Street Art im Stadtbezirk - Einbehiehung des Bezirksausschuss und offene Vergabe
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Stärkung des Baumschutzes – Die BA&#039;s handeln – jetzt! BA-Antrags-Nr. 14-20 / B 03455 des BA 2 vom 28.03.2017, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 29.06.2017
+- TOP B 4.3.: Schwanthalerstraße 2, Neubau eines Hotels – Vorbescheid vom 06.07.2017 zur Kenntnisnahme, Schreiben des Referates für Stadtplanung und Bauordnung
+- TOP B 4.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neue Orientierungswerte zur Grün- und Freiflächenversorgung, Sitzungsvorlagen Nr. 14-20 V / 09119, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.2017 (VB)
+- TOP B 4.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Durchführung einer vergleichenden Haushaltsbefragung zum Mobilitätsverhalten in den Modellquartieren Smarter Together und City2Share; Erlass einer Haushaltsbefragungssatzung, Vergabe von Beratungs- und Gutachterleistungen, Sitzungsvorlagen Nr. 14-20 / V 09035, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.2017 (VB)
+- TOP B 4.6.: Referat für Stadtplanung und Bauordnung, Kommunalreferat, Referat für Arbeit und Wirtschaft, Stadtkämmerei, Beschlussvorlage Sozialgerecht Bodennutzung – Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht), Sitzungsvorlage Nr. 14-20 / V 09249, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Ausschusses für Arbeit und Wirtschaft und des Finanzausschusses vom 19.07.2017 (VB)
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.6.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Ausnahmezulassung für nächtliche Filmdreharbeiten am 05.07.2017 in der Baaderstraße 6
+- TOP C 4.7.: Oktoberfest 2017; Verzicht der Ausweisung von Wohnmobilsperrzonen im Stadtgebiet München, vgl. TOP 2017.05 C 3.2.2; Rückmeldung des Kreisverwaltungsreferates vom 28.06.2017
+- TOP C 4.8.: Aufstellung von Service-Stationen für Radfahrer entlang der Isar, BA-Antrags-Nr. 14-20 / B 01030, Zwischennachricht des Kreisverwaltungsreferates vom 27.06.2017
+- TOP C 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.10.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP C 4.11.: Bürgeranliegen Tempo 30 Zone im Bereich Pettenkoferstraße; Antwort-Email des Kreisverwaltungsreferates vom 04.07.2017 zur Kenntnis
+- TOP C 4.12.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Antrag auf Erweiterung einer Freischankfläche, Fraunhoferstraße 41, Einholung der Entscheidung des Oberbürgermeisters Dieter Reiter
+- TOP C 4.13.: Oktoberfest 2017 – Flyer Verkehrsregelungen der Straßenverkehrsbehörde
+- TOP C 4.14.: Schutz der Isar vor Silvesterfeuerwerk - Die Isar und ihr Hochwasserbett, sowie die Isarbrücken und Isarparallele werden künftig vor geräuschintensivem Silvesterfeuerwerk (Raketen, Böller und Böllerbatterien) geschützt
+- TOP C 4.15.: Bürgerinformation zur Zukunft des Parkhauses am Färbergraben und der Sattlerstraße, Schreiben des Referates für Stadtplanung und Bauordnung vom 05.07.2017 zur Kenntnis
+- TOP C 4.16.: Kreisverwaltungsreferat, Beschluss Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LHSt München, Sitzungsvorlage Nr. 14-20 / V 08669, Neufassung vom 27.06.2017, vgl. BA-Antrags-Nr. 14-20 / B 02875 des BA 2
+- TOP C 4.17.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Vollzug der Richtlinien für Sondernutzung an öffentlichen Straßen der LHSt München (Sondernutzungsrichtlinien); Sondernutzungserlaubnis für drei Zeitungsentnahmegeräte; Standort Thalkirchner Straße 108, Kreuzung Zenettistraße, Entscheidung des Oberbürgermeisters Dieter Reiter vom 13.07.2017
+- TOP C 4.18.: Pfarrfest der St. Maximilian Kirche am 23.07.2017 in der Pfarrer-Rosenberger-Straße; Anhörung vom 14.07.2017 mit Termin 18.07.2017; Eilentscheidung des Vorsitzenden, Alexander Miklósy mit Zustimmung durch Fristablauf
+- TOP D 4: Bereich BA-Angelegenheiten
