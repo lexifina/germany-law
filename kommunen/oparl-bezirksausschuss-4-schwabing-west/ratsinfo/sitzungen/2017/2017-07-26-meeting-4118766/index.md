@@ -1,0 +1,120 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-07-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118766
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118766
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.3.: Eingeschränkte Haltverbote vor der Postfiliale der Pfennigparade an der Hagedorn-/Ecke Rümannstraße
+- TOP 2.2.4.: Standortvorschläge für Dialogdisplays
+- TOP 2.2.5.: Antrag Umgestaltung Belgradstraße
+- TOP 2.2.6.: Umgestaltung des überbreiten Gehwegbereichs an der Biegung der Adams-Lehmann-Straße (Antwort des Baureferats Tiefbau auf ein weitergeleitetes Bürgeranliegen aus der Aprilsitzung, vgl. TOP E 3.1.1)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP G.2.: Toilette Hohenzollernplatz / Elisabethplatz
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Bürger: Nächtliche Ruhestörungen im Studentenwohnheim Adelheidstr. 13
+- TOP 2.1.: Anliegen aus der Münchner Jugendbefragung 2016: Frei zugängliche Trainingsgeräte (Klimmzugstange und Parallelbarren) im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Aufstellung zusätzlicher Tischtennisplatten im Luitpoldpark
+- TOP 3.1.2.: Rechtsstreitbegleitung des Eltern-Kind-Zentrums Schwabing/Maxvorstadt e.V. durch die Stadt München
+- TOP 3.1.3.: Lärmmessung im Eltern-Kind-Zentrum Schwabing/Maxvorstadt e.V.
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: MobilSpiel e.V.: Sachbericht zum geförderten Mobilspielfest am 09.04.2017
+- TOP 3.2.2.: Kinderland Kubus Puchatek e.V.: Verwendungsnachweis für neuen Blitzschutz
+- TOP 3.2.3.: MobilSpiel e.V.: Verwendungsnachweis für das Mobilspielfest
+- TOP 3.2.4.: Elternbeirat Wilhelmschule: Sachbericht zum geförderten Tanzprojekt
+- TOP 3.2.5.: Bewilligungsbescheid für SchülerInnen-Exkursion des Gisela-Gymnasiums
+- TOP 3.2.6.: Bewilligungsbescheid für Lilalu-Ferienprogramm „Umsonst und Draußen“
+- TOP 3.2.7.: Bewilligungsbescheid für Sommerfest des Sophie-Scholl-Gymnasiums
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertagesstätten gemeinnütziger Träger; Haus für Kinder an der James-Loeb-Straße 11 im 4. Stadtbezirk Schwabing-West Leistung eines Baukostenzuschusses
+- TOP 3.3.2.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Missachtung der Ruhezeiten durch die Gaststätte Kalypso dazu: Bericht der Bezirksinspektion
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 62 „ellenwoods“: Aufstellen eines zusätzlichen Postkartenständers
+- TOP 2.1.2.: Hohenzollernstr. 29 „ReSales“: Aufstellen von zwei zusätzlichen Kleiderstangen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Entfernung des tz-Zeitungskastens Destouchesstr. 81/Ecke Fallmerayerstraße (Antwort der Bezirksinspektion Nord auf BA-Schreiben vom 01.06.2017)
+- TOP 3.1.2.: Einhaltung von Drehgenehmigungen vor Ort kontrollieren (Antwort des KVR auf BA-Schreiben vom 01.06.2017
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Ackermannbogen e.V.: Verwendungsnachweis für die Ausstellung „wiegeWOHNT“
+- TOP 3.2.2.: Offene Bücherschränke Schwabing-West e.V:: Sachbericht
+- TOP 3.3.1.: Studentenfilm „Dreirad“ am 01. und 02.07.2017 von 8 bis 22 Uhr in der Hildeboldstraße
+- TOP 3.3.2.: TV-Produktion „Soko München“ am 12.07.2017 von 7 bis 14 Uhr in der Winzererstr. 69
+- TOP 3.3.3.: TV-Produktion „Bella Germania“ am 18.07.2017 am Rodelhügel im Ackermannbogen
+- TOP 3.3.4.: Schulfilm der HFF am 25.07.2017 im Luitpoldpark (Fußweg nahe Belgradstr. 113)
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Neufassung der Sondernutzungsrichtlinien Beschluss der Vollversammlung vom 28.06.2017 (Sitzungsvorlage Nr. 14-20 / V 08669)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kathi-Kobus-Str. 3: Neubau eines Mehrfamilienwohnhauses mit 20 Werkswohnungen und Tiefgarage
+- TOP 2.1.2.: Einleitungsbeschluss zum vorhabenbezogenen Bebauungsplan mit Grünordnung Nr. 2115a Arcisstraße (östlich), Elisabethplatz (südlich), Nordendstraße (westlich) (Teiländerung des Bebauungsplans Nr. 259): Ergebnis des Planungswettbewerbs für einen „Wohn- und Geschäftskomplex am Elisabethmarkt“
+- TOP 2.1.3.: Vorbescheid Hagedornstr. 2: Aufstockung von neun Wohngebäuden um ein Geschoss sowie Neubau von vier dreigeschossigen Wohnhäusern und zwei Tiefgaragen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Friedrichstr. 19: Abdruck der Baugenehmigung
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Belegung und Neubau von Gebäuden auf der Westseite und Nordseite des Schwabinger Krankenhauses
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Düsseldorfer Str. 2: Abdruck der Baugenehmigung zum Ausbau des Dachgeschosses
+- TOP 3.2.2.: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen in der Bonner Str. 25
+- TOP 3.2.3.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 3.2.4.: Neue Orientierungswerte zur Grün- und Freiflächenversorgung Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 19.07.2017 (Sitzungsvorlage Nr. 14-20 / V 09119)
+- TOP 3.2.5.: Satzungsbeschluss Erhaltungssatzung „Pündterplatz / Bonner Platz“ Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 19.07.2017 (Sitzungsvorlage Nr. 14-20 / V 08462)
+- TOP 3.2.6.: Vollzug der Zweckentfremdungssatzung und der Erhaltungssatzungen – Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten – Verordnung zur Stärkung des städtebaulichen Milieuschutzes – Bekanntgabe der Jahresstatistik 2016 im Sozialausschuss vom 22.06.2017 (Sitzungsvorlage Nr. 14-20 / V 08700)
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Zeitgemäße Planung des Radverkehrs in der Franz-Joseph-Straße
+- TOP 1.2.: Bürger: Sitzecke Friedrich-/Hohenzollernstraße
+- TOP 1.3.: Bürger: Lückenschluss an der Kreuzung Schwere-Reiter-/Elisabethstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Götzstr. 11: Fällung einer Birke
+- TOP 2.1.2.: Elisabethstr. 11: Fällung einer Linde
+- TOP 2.1.3.: Schleißheimer Str. 203-209: Fällung dreier Zuckerahornbäume, Baumveränderungen an einem Zuckerahorn
+- TOP 2.2.1.: Hohenzollernstr. 82-84: Fahrradabstellkonzept 3. Abschnitt Erinnerungsverfahren des Baureferats Tiefbau
+- TOP 2.2.2.: Radschnellverbindungen: Vorschläge zur Aufnahme weiterer Streckenabschnitte in die Untersuchung?
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Bürgeranregungen zur Verkehrssicherheit am Ackermannbogen: Umgestaltung des überbreiten Gehwegbereichs an der Biegung der Adams-Lehmann-Straße (Antwort des Baureferats Tiefbau auf ein weitergeleitetes Bürgeranliegen aus der Aprilsitzung)
+- TOP 3.1.2.: Rechts-vor-Links-Regelung an der Kreuzung Winzerer-/Georgenstraße verdeutlichen (Antwort des KVR auf BA-Schreiben vom 01.06.2017)
+- TOP 3.1.3.: Nachrüstung von Ampelanlagen mit akustischen Signalen für Blinde (Antwort des KVR auf BA-Schreiben vom 29.06.2017)
+- TOP 3.3.1.: Tempo 30 in der gesamten Lissi-Kaeser-Straße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.2.: Baustelleneinrichtung an der Ackermannstraße: Verlängerung der Ausnahmegenehmigung bis 30.09.2017
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Änderung der BA-Satzung: Neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Gebäuden Anhörung zu einem Antrag des BA 7 Sendling-Westpark
+- TOP F.2.: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung
+- TOP G: Verschiedenes
+- TOP G.1.: Standortkonzept Bürgerbüros Anhörung zur Beschlussvorlage für den Stadtrat
+- TOP H: Termine
