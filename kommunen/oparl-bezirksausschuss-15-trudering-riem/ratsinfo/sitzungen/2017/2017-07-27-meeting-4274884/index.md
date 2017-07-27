@@ -1,0 +1,152 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4274884
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4274884
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: Sachberichte
+- TOP 10.1.4.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 3.6.1 Bericht des UA-Vorsitzenden über den Ortstermin zu den Wertstoffinseln in der Grünanlage Tanga-/Waterbergstraße am 03.07.2017
+- TOP 1.3.2.: 3.7.1 Platz der Menschenrechte und Helsinkistraße - Beleuchtung des Verbindungsweges
+- TOP 1.3.3.: 3.7.2 Umgang mit Hunden in der Messestadt
+- TOP 1.3.4.: 4.14 Pilotprojekt neuartige und pflegeleichte Pflanztröge für die Bahnstraße zur Begrünung und Verkehrsberuhigung Antrag zu TOP 3.2.6
+- TOP 1.3.5.: 4.15 Endlich ÖV-Wüste beseitigen - Bebauung Fauststraße 90 nur mit einer attraktiven ÖV-Verbindung! Antrag zu TOP 5.10
+- TOP 1.3.6.: 7.1.6 Anzeige über das Abbrennen eines privaten Feuerwerks auf Privatgrund Straße: Feldbergstr. 95 Sportplatz Datum: 29.07.2017 Anlass: Hochzeit und Geburtstagsfeier Bitte um Kenntnisnahme und ggf. Stellungnahme bis zum 24.07.2017 (verlängert bis zum 28.07.2017)
+- TOP 1.3.7.: 7.4.13 Solalindenstraße 54a, Fl.Nr.: 931/2 - TEKTUR zu 1.2-2017-11807-32 - Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage
+- TOP 1.3.8.: 8.1.8 Frau-von-Uta-Straße 23
+- TOP 1.3.9.: 8.2.26 Solalindenstraße 54a
+- TOP 1.3.10.: 8.2.27 Von-Gravenreuth-Straße 23
+- TOP 1.3.11.: 8.2.28 Wasserburger Landstraße 268
+- TOP 1.3.12.: 8.2.29 Ankoglstraße 9
+- TOP 1.3.13.: 8.2.30 Phantasiestraße 17
+- TOP 1.3.14.: 8.2.31 Kirchtruderinger Straße 19
+- TOP 1.3.15.: 8.2.32 Schwedensteinstraße 49
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Chorgemeinschaft St. Peter und Paul Sommerkonzert am 30.06.2017
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse TSV Trudering e.V. Anschaffung von Sportmatten
+- TOP 2.2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung Projektname: BPlan Nr. 2028 Michael-Seidl-Straße - Gehwegverbreiterung Projekt-Nr.: 5653 Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 27.07.2017
+- TOP 2.2.2.: (E) Aufwertung der Aufenthaltsorte in der Messestadt Empfehlung Nr. 14-20 / E 01183 der Bürgerversammlung des Stadtbezirks 15 Trudering-Riem am 06.10.2016
+- TOP 2.2.3.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 07.10.2017 (Ersatztermin: 14.10.2017) auf dem Platz der Menschenrechte
+- TOP 3.2.1.: Messestadt - fehlende Mobilitätsangebote
+- TOP 3.2.2.: Wasserburger Landstraße - Grüne Welle
+- TOP 3.2.3.: Buslinie 146 - frühere Linienführung wieder einrichten
+- TOP 3.2.4.: Bushaltestelle Rofanstr. Richtung Michaelibad - Aussetzen der Verlegung, erneute Anhörung des BA 15 und BA 14, zusätzlich Verschiebung der Bushaltestelle weiter nach Westen.
+- TOP 3.2.5.: Bajuwarenstraße - Verkehrskonzept für Supermarktparkplatz aktueller Sachstand zum Beschluss des BA aus der Aprilsitzung
+- TOP 3.2.6.: Bahnstraße - aktueller Stand Juli 2017
+- TOP 3.3.1.: Entfernung von Werbeschildern an der Ecke Sperber-/Turnerstraße
+- TOP 3.5.1.: Marianne-Plehn-Straße - Zweckentfremdung von Kinderspielplätzen und Sportgeräten durch Jugendliche
+- TOP 3.5.2.: Anliegen aus der Jugendbefragung 2016
+- TOP 3.5.3.: Verlegung der Fahrradwerkstatt von der Erstaufnahme im Moosfeld/München an die Gemeinschaftsunterkunft an der Willy-Brandt-Allee in der Messestadt/München
+- TOP 3.5.4.: Grundstück Werner-Eckert-Str. 1- inklusive des Kopfbaus der Tribüne - zur Nutzung für soziale Zwecke überlassen
+- TOP 4.1.: Taschenpark zwischen Georg-Kerschensteiner-Str. und Heinrich-Böll-Str. sanieren
+- TOP 4.2.: Container als Unterstand für die Jugendlichen
+- TOP 4.3.: Zaun um die Grünwerkstatt
+- TOP 4.4.: Nachtabschaltung der Ampel an der Wasserburger Landstraße Höhe Horst-Salzmann-/Rothuberweg
+- TOP 4.5.: Zusätzliche Parkplätze und ein Behindertenparkplatz vor der PI 25 in der Messestadt Riem – Parkdauer beschränk
+- TOP 4.6.: Auskunft zur geplanten Busspur zwischen Von-Erckert- und Hans-Pinsel-Straße
+- TOP 4.7.: Auskunft zur Verkehrszählung am 04.07.2017 – Realisierung der Umfahrung Kirchtrudering jetzt!
+- TOP 4.8.: Lieber gut sitzen als schlecht stehen – mehr Sitzgelegenheiten unter dem Gronsdorfer Bahnsteigdach
+- TOP 4.9.: Truderinger Busbahnhof 2.0 - nach 20 Jahren funktionale Schwächen beseitigen
+- TOP 4.10.: Vollständige Barrierefreiheit bei der nächsten Bürgerversammlung Trudering-Riem
+- TOP 4.11.: Fahrradstellplätze im Bereich Togostraße / Waldschulstraße
+- TOP 4.12.: Anfrage: Wieweit ist die Wohnraumversorgung aufgrund Wohnungsknappheit und hoher (Miet)Preise ausschlaggebend für den Erziehermangel in München? Welche konkreten Wohnangebote bietet die Stadt derzeit auf Verlangen an? Welche weitere Ursachen kommen dafür noch in Frage?
+- TOP 4.13.: Glasfaseranschluss – städtische und andere öffentliche Einrichtungen gleich behandeln
+- TOP 5.1.: Ausstellung Stadtentwicklung im Münchner Nordosten auch in Riem präsentieren
+- TOP 5.2.: Streetball-Platz an der Skater-Anlage in der Messestadt-West
+- TOP 5.3.: Vermüllung Truderings
+- TOP 5.4.: 1. Der Fuß- und Radfahrweg parallel zur Straße "Am Hüllgraben" soll instand gesetzt werden. 2. Zusätzliche Absperrungen sollen angebracht und die vorhandenen Sperrbügel und Absperrpfosten im gesamten Verlauf der Straße "Leonhardiweg" instand gesetzt werden.
+- TOP 5.5.: Städtische Grundstücke dem BA mitteilen
+- TOP 5.6.: Jagdhornweg/Otto-Lederer-Weg - Verschmutzung des Landschaftsschutzgebietes
+- TOP 5.7.: Willy-Brandt-Allee Gemeinschaftsunterkunft: Gestaltung der Außenanlagen
+- TOP 5.8.: Prüfantrag zur Bauleitplanung der Gemeinde Aschheim, 37. Änderung des Flächennutzungsplans, Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB
+- TOP 5.9.: Bahnstraße - Schmutzbelastung und Reinigung
+- TOP 5.10.: Fauststraße - Anbindung des Neubaugebietes sowie Erreichbarkeit mit dem ÖPNV
+- TOP 5.11.: Entschärfung der Helsinki- / Oslostraße
+- TOP 5.12.: Turnerstraße - Änderung des absoluten in ein eingeschränktes Halteverbots
+- TOP 5.13.: Wasserburger Landstraße - Einrichtung von Parkscheibenparkplätzen
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Änderung BA-Satzung; Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken; Anhörung des Direktoriums vom 21.06.2017
+- TOP 7.1.2.: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung
+- TOP 7.1.3.: Standortkonzept Bürgerbüro; Anhörung der Bezirksausschüsse
+- TOP 7.1.4.: Drachenfest des Kultur & Spielraum e.V. - Riemer Park am 23.09. und 24.09.2017 Bitte um Stellungnahme bis zum 31.08.2017
+- TOP 7.1.5.: KIZA Kinderzirkus - Grünanlage in der Helsinkistr. 100 vom 07.08. bis 12.08.2017, Aufbau ab 03.08.2017 Bitte um Stellungnahme bis zum 28.07.2017
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Austausch der Lichtsignalanlage Wasserburger Landstr./ Baustoffunion Bitte um Mitteilung von Anregungen zum Austausch bis zum 21.08.2017
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Gemeinde Putzbrunn; Bebauungsplan Nr. 66 "Südlich der Andreas-Wagner-Straße" Beteiligung der Behörden nach § 4 Abs. 2 BauGB
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Rothuberweg 8, Fl.Nr.: 296/32 - Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID (Rothuberweg 8 / Scharerweg 5)
+- TOP 7.4.2.: Salzmesserstraße 21, Fl.Nr.: 159/18 - Neubau eines Doppelhauses mit Garagen
+- TOP 7.4.3.: Schatzbogen 35, Fl.Nr.: 124/7 - Neubau eines Boardinghauses mit Verkaufsstätte und Tiefgarage
+- TOP 7.4.4.: Michael-Seidl-Str., Fl.Nr.: 310/13 - Neubau 2er Mehrfamilienhäuser (10 WE) mit gemeinsamer Tiefgarage
+- TOP 7.4.5.: Truderinger Str., Fl.Nr.: 276/0 - Nutzungsänderung: Ladenfläche zu Wettbüro
+- TOP 7.4.6.: Zehntfeldstr. 189a, Fl.Nr.: 372/57 - Neubau einer Doppelhaushälfte mit Garage (Haus 2) - TEKTUR zu 1.2-2015-3117-32
+- TOP 7.4.7.: Zehntfeldstr. 189, Fl.Nr.: 372/14 - Neubau einer Doppelhaushälfte mit Garage (Haus 1) - TEKTUR zu 1.2-2015-3115-32
+- TOP 7.4.8.: Martin-Kollar-Str. 4, Fl.Nr.: 108/1 - Umbau und Aufstockung eines Gewerbegebäudes (Martin-Kollar-Str. 4 / Wamslerstr. 2 - 4)
+- TOP 7.4.9.: Solalindenstr. 89, Fl.Nr.: 406/13 - Neubau zweier Doppelhäuser mit Tiefgarage
+- TOP 7.4.10.: Postweg 56, Fl.Nr.: 222/14 - Neubau eines Dreifamilienhauses mit Garagen - Haus 1
+- TOP 7.4.11.: Postweg 56, Fl.Nr.: 222/14 - Neubau eines Einfamilienhauses mit Garage - Haus 2
+- TOP 7.4.12.: Eigerstr. 46, Fl.Nr.: 328/2 - Neubau eines Mehrfamilienhauses (10) WE mit Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Großfriedrichsburger Straße 27 Grundelstraße 19 Leonhardiweg 47 Tangastraße 21 Toni-Schmid-Straße 19 Von-Erckert-Straße 41 Wardeinstraße 26
+- TOP 8.2.1.: Bartholomäer Straße 7 Birkhahnweg 8 Eigerstraße 46 Florastraße 72a-74 - durch UNB abgelehnt Frau-von-Uta-Straße 23 Gerstäckerstraße 83 Heilwigstraße 71 Helenenstraße 10 In der Heuluss 42 Josef-Brückl-Straße 102 Karpatenstraße 11 Kreuzerweg 54 Martin-Kollar-Straße 4 Neusatzer Straße 12 Ottilienstraße 59 Postweg 56 Rotkehlchenweg 13 Säntisstraße 39 Schatzbogen 35 Schatzbogen 76 Stieglitzweg 11 Toni-Schmid-Straße 19 - durch UNB zugestimmt Truderinger Straße 278 Turnerstraße 1 Wasserburger Landstraße 100
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Vollzug der Grünanlagensatzung vom 15.06.2012 Betrieb einer Hundeschule in der Grünanlage Trudering-Riem, Riemer Park, Flurstück Nr. 1408/0 und 172/3 Ausnahmegenehmigung Kurs 3: Junghundekurs
+- TOP 10.1.2.1: Sonderpädagogisches Förderzentrum München-Ost Schülerzeitung Eastsider
+- TOP 10.1.3.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
+- TOP 10.1.4.1: Bella Vista, Schank- und Speisewirtschaft, Wasserburger Landstr. 244
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Austausch von Lichtsignalanlagen Wasserburger Landstraße / Drosselweg
+- TOP 10.2.2.: Am Mitterfeld, Vollsperre 17.07.-10.09.17
+- TOP 10.2.3.: MVG-Leistungsprogramm 2018 Rückmeldungen aus der Anhörung
+- TOP 10.2.4.: "Dialog-Display" in München Antwort des Kreisverwaltungsreferats auf das Angebot des BA die Testphase im 15. Stadtbezirk stattfinden zu lassen
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 10.3.2.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 10.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.4.: (U) Integriertes Strukturkonzept Münchner Nordosten A) Bürgergutachten zur SEM München Nordost Empfehlung Nr. 14-20 / E 01227 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016 B) Das Urbane NaturNetz als Leitkonzept für die SEM München Nordost Empfehlung Nr. 14-20 / E 01228 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016 C) SEM Nordost: Fortsetzung der Frischluftschneise Denninger Anger Empfehlung Nr. 14-20 / E 01247 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016 D) SEM Nordost: Grünstreifen entlang des Hüllgrabens Empfehlung Nr. 14-20 / E 01249 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016
+- TOP 10.3.5.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2095 Feldbergstraße (westlich), Wasserburger Landstraße (nördlich) (Teiländerung des Bebauungsplans Nr. 1215) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 15 Trudering-Riem
+- TOP 10.3.6.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Großfriedrichsburger Straße 36
+- TOP 10.4.1.2: Wachtelsweg 29
+- TOP 10.4.2.: Am Moosfeld 26, Fl.Nr.: 95/0 - Nutzungsänderung einer Bürofläche zu einer ambulant betreuten Wohngemeinschaft Antwortschreiben des Referats für Stadtplanung und Bauordnung zur Nachfrage des BA aus der Junisitzung
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 10.5.2.: (U) Schulbauoffensive 2013-2030
+- TOP 10.5.3.: (E) Nutzung der Räumlichkeiten der Grundschule an der Leibengerstraße durch örtliche Sportvereine
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
