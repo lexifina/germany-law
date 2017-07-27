@@ -1,16 +1,17 @@
 # Allgemeine Verwaltungsgebührensatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2011-01-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/verwaltungsgeb__hrensatzung_21_01_2011.pdf
+- Datum: 2017-07-27 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/verwaltungsgebührensatzung_27_07_2017.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Allgemeine Verwaltungsgebührensatzung der Stadt Köln vom 27. Dezember 1971
-in der Fassung der 12. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln
-vom 21. Januar 2011
+in der Fassung der 13. Satzung zur Änderung der Allgemeinen Verwaltungsgebührensatzung der Stadt Köln
+vom 27. Juli 2017
+ABl. StK 1972, S. 3 ff; 2005, S. 738 ff, 2011, S. 121, 2017, S. 299
 Der Rat der Stadt Köln hat in seiner Sitzung vom 17. Dezember 1971 aufgrund der §§ 4 und 5 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (GV NW 1969 S. 712) sowie der §§ 4 und 87 Absatz 5 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 11. August 1969 (GV NW 1969 S. 656) diese Satzung beschlossen:
 §1 Gegenstand und Höhe der Verwaltungsgebühren
 (1) Verwaltungsgebühren werden für die in dem anliegenden Gebührentarif aufgeführten besonderen Leistungen in der dort vorgesehenen Höhe nach Maßgabe dieser Satzung und des Kommunalabgabengesetzes erhoben. Der Gebührentarif ist Bestandteil der Satzung.
@@ -31,8 +32,8 @@ Der Rat der Stadt Köln hat in seiner Sitzung vom 17. Dezember 1971 aufgrund der
 Gebührenfrei sind:
 1. Mündliche Auskünfte, 2. Amtshandlungen auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge, der
 Jugend- und Familienhilfe und des Gesundheitswesens, soweit diese Aufgaben als Selbstverwaltungsangelegenheit wahrgenommen werden, sowie 3. Amtshandlungen, welche die Stadt Köln gegenüber ihren Beamten, Angestellten, Arbeitern oder Versorgungsempfängern in Angelegenheiten vornimmt, die sich auf das bestehende oder frühere Dienst-, Arbeits- oder Versorgungsverhältnis beziehen. 4. Erteilung von Zweitausfertigungen von Schulzeugnissen einschließlich der Zeugnisse der Rheinischen Musikhochschule, Abschriften dieser Zeugnisse und Beglaubigung der Zeugnisabschriften sowie Schülerbescheinigungen einschließlich Schüler-Erkennungskarten der Rheinischen Musikschule.
-§6 Persönliche Gebührenbefreiung
 
+§6 Persönliche Gebührenbefreiung
 Von der Entrichtung der Verwaltungsgebühren sind befreit:
 1. das Land Nordrhein-Westfalen, die Gemeinden und Gemeindeverbände, sofern die Leistung der Verwaltung nicht ihre wirtschaftlichen Unternehmen betrifft, oder es sich nicht um eine beantragte sonstige Tätigkeit im Sinne des § 4 Abs. 2 Kommunalabgabengesetz auf dem Gebiet der Bauleitplanung, des Kultur-, Tief- und Straßenbaus handelt;
 2. die Bundesrepublik und die anderen Länder, soweit Gegenseitigkeit gewährleistet ist;
@@ -47,15 +48,13 @@ Von der Entrichtung der Verwaltungsgebühren sind befreit:
 (3) Sie können auch demjenigen auferlegt werden, der sie durch unbegründete Einwendungen verursacht hat.
 (4) Bei größeren Auslagen können Vorschüsse erhoben werden. Die Leistung kann von der vorherigen Entrichtung abhängig gemacht werden.
 (5) Für den Ersatz der Auslagen gelten die Vorschriften dieser Satzung entsprechend.
-§9 Inkrafttreten
 
+§9 Inkrafttreten
 Diese Satzung tritt am Tage nach der öffentlichen Bekanntmachung im Amtsblatt der Stadt Köln in Kraft. Gleichzeitig tritt die "Allgemeine Verwaltungsgebührensatzung der Stadt Köln" vom 20.11.1969 außer Kraft.
 
 Köln, den 27.12.1971
 
 gez. Th. Burauen Oberbürgermeister
-
-ABl. StK 1972, S. 3 ff; 2005, S. 738 ff, 2011, S. 121
 
 Gebührentarif zur Allgemeinen Verwaltungsgebührensatzung der Stadt Köln vom 27.12.1971
 
@@ -149,8 +148,7 @@ Erteilung einer schriftlichen Genehmigungsversagung für Rechtsvorgänge in för
 
 Bescheinigung für Aufwendungen im Sinne der §§ 7h, 10f und 11a Einkommenssteuergesetz in städtebaulichen Sanierungsgebieten
 
-0,4 % der Höhe der anerkannten
-Aufwendungen
+0,4 % der Höhe der anerkannten Aufwendungen
 
 21.1 21.2 21.2.1 21.2.2 21.2.3 21.2.4 21.3 21.4
 23.1. 23.1.1 23.1.2 23.1.3 23.2 23.3 23.3.1 23.3.2 23.4
@@ -168,103 +166,77 @@ Amt für Liegenschaften, Vermessung und Kataster Abgabe/Vervielfältigung eines 
 Nr.
 23.5 23.5.1 23.5.2 23.5.2.1 23.5.2.2 23.5.2.3 23.5.3
 23.5.3.1 23.5.3.2 23.5.3.3
+23.6 23.6.1 23.6.2
 
 Gegenstand
-Abgabe von Lageplandaten Grundgebühr bei digitaler Ausgabe je Sicad-Element aus der Schlussmessung oder aus Planungsunterlagen bis zu 2 Jahren alt aus Planungsunterlagen bis zu 4 Jahren alt aus Planungsunterlagen älter als 4 Jahre Bei analoger Abgabe als Papierplot 1:250 auf Grundlage digitaler Datenbestände je SicadElement bis zu 2 Jahren alt bis zu 4 Jahren alt älter als 4 Jahre Für Zwecke der Wissenschaft und der Aus- und Fortbildung berechnet sich die Gebühr aus 50 % der Grundgebühr zuzüglich 20 % der regulären Gebühr für den Umfang der abgegeben Daten.
+Abgabe von Lageplandaten Grundgebühr bei digitaler Ausgabe je Sicad-Element aus der Schlussmessung oder aus Planungsunterlagen bis zu 2 Jahren alt aus Planungsunterlagen bis zu 4 Jahren alt aus Planungsunterlagen älter als 4 Jahre Bei analoger Abgabe als Papierplot 1:250 auf Grundlage digitaler Datenbestände je SicadElement bis zu 2 Jahren alt bis zu 4 Jahren alt älter als 4 Jahre Für Zwecke der Wissenschaft und der Aus- und Fortbildung berechnet sich die Gebühr aus 50 % der Grundgebühr zuzüglich 20 % der regulären Gebühr für den Umfang der abgegeben Daten. Vorkaufsrecht Ausstellen von Negativattesten Ausstellen von Zurückweisungen (Erteilung eines Negativattests nicht erforderlich)
 
 Gebühr
-61,00 €
-0,30 € 0,21 € 0,15 €
+61,00 € 0,30 € 0,21 € 0,15 €
 0,15 € 0,11 € 0,08 €
+89,11 € 61,69 €
 
 32.1 32.2
-32.2.1 32.2.1.1 32.2.2 32.2.2.1 32.3 32.3.1 32.3.2 32.3.3 32.3.4 32.3.5 32.3.6
+32.2.1 32.2.1.1 32.2.2 32.2.2.1 32.3 32.3.1 32.3.2 32.3.3 32.3.4
 
-Amt für öffentliche Ordnung Ausstellen von Bescheinigungen über nicht abgegebene Fundsachen Vergabe von Grünflächen und fiskalischem Gelände der Stadt Köln für Schützen-, Volks-, und Sommerfeste ohne Ortstermin Ablehnung (ohne Ortstermin) mit Ortstermin Ablehnung (mit Ortstermin) Versand von Akten an Rechtsanwälte oder andere Verfahrensbevollmächtigte bis zu 15 Minuten Zeitaufwand bis zu 30 Minuten Zeitaufwand bis zu 45 Minuten Zeitaufwand bis zu 60 Minuten Zeitaufwand bis zu 90 Minuten Zeitaufwand bis zu 120 Minuten Zeitaufwand
-
-Stadtkonservator - Denkmalbehörde
-
-48.1
-
-Schriftliche, einfache Auskunft aus dem Denkmälerverzeichnis an Nichteigentümer
+Amt für öffentliche Ordnung Ausstellen von Bescheinigungen über nicht abgegebene Fundsachen Vergabe von Grünflächen und fiskalischem Gelände der Stadt Köln für Schützen-, Volks-, und Sommerfeste ohne Ortstermin Ablehnung (ohne Ortstermin) mit Ortstermin Ablehnung (mit Ortstermin) Versand von Akten an Rechtsanwälte oder andere Verfahrensbevollmächtigte bis zu 15 Minuten Zeitaufwand bis zu 30 Minuten Zeitaufwand bis zu 45 Minuten Zeitaufwand bis zu 60 Minuten Zeitaufwand
 
 12,00 €
 54,00 € 40,00 € 118,00 € 88,00 €
-9,00 € 19,00 € 28,00 € 38,00 € 57,00 € 76,00 €
-13,00 €
+9,00 € 19,00 € 28,00 € 38,00 €
 
 Nr.
+32.3.5 32.3.6 48.1 48.2
+56.1
+56.2 56.3
+56.4 56.5 56.6 56.7 56.8
 
 Gegenstand
+bis zu 90 Minuten Zeitaufwand bis zu 120 Minuten Zeitaufwand Stadtkonservator - Denkmalbehörde
 
-48.2
+Gebühr
+57,00 €
+76,00 €
+
+Schriftliche, einfache Auskunft aus dem Denkmälerverzeichnis an Nichteigentümer
+
+13,00 €
 
 Schriftliche, qualifizierte Auskunft aus der Denkmalliste an Nichteigentümer
 
-Gebühr
 16,00 €
 
 Hinweis: Die Gebühren nach 48.1 und 48.2 werden erst erhoben, wenn die Denkmalliste im Internet verfügbar ist
 
 Amt für Wohnungswesen
 
-56.1
+Bewilligung von Fördermitteln zum Neu-, Um- und Ausbau von Miet- und Genossenschaftswohnungen, Förderung von Heimplätzen sowie Nachrüstung bestehender Wohnheime
 
-Bewilligung von Fördermitteln zum Neu-, Um- und Ausbau von Miet- und Genossenschafts- 0,4 % der
-
-wohnungen, Förderung von Heimplätzen sowie Nachrüstung bestehender Wohnheime
-
-bewilligten
-
-Darlehens-
-
-summe
-
-56.2
+0,4 % der bewilligten Darlehenssumme
 
 Bewilligung von Fördermitteln zum Bau und Erwerb von Wohnraum zur Selbstnutzung
 
 646,00 €
 
-56.3
+Bewilligung von Mitteln im Zusammenhang mit der Förderung von investiven Maßnahmen im Bestand
 
-Bewilligung von Mitteln im Zusammenhang mit der Förderung von investiven Maßnahmen im 0,4 % der
-
-Bestand
-
-bewilligten
-
-Darlehens-
-
-summe
-
-56.4
+0,4 % der bewilligten Darlehenssumme
 
 Kopie einer Wirtschaftlichkeitsberechnung
 
 15,00 €
 
-56.5
-
-Einsichtnahme in die Darlehensakte
-
-(bei Bußgeldverfahren ist die Einsichtnahme kostenlos)
+Einsichtnahme in die Darlehensakte (bei Bußgeldverfahren ist die Einsichtnahme kostenlos)
 
 26,00 €
-
-56.6
 
 Standortprüfungen für den geförderten Wohnungsbau
 
 129,00 €
 
-56.7
-
 Genehmigung zur Übertragung von Grundstücken mit Förderzusage vor Bezugsfertigkeit
 
 155,00 €
-
-56.8
 
 Beantwortung von Anfragen von Sachverständigen bei Zwangsversteigerungen
 
@@ -278,21 +250,18 @@ Stadtplanungsamt: Flächennutzungsplan Druck des Flächennutzungsplanes im Urkun
 
 Straßen-/Linienbelastungspläne
 
-61.4.1 61.5 61.6 61.6.1 61.6.2
-
-zusätzlicher Ausdruck DIN A 0 pro Blatt Verkehrserhebungen pro Knoten Verkehrserhebungen im dreiarmigen Knotenbereich im vierarmigen Knotenbereich
-
 15,00 €
-16,00 € 11,00 € 2,50 € 26,00 € 6,00 € 59,00 € 24,00 € 14,00 €
-686,00 € 722,00 €
+16,00 € 11,00 € 2,50 € 26,00 € 6,00 € 59,00 €
 
 Nr.
-61.7 61.7.1 61.7.2 61.7.3 61.8
+61.4.1 61.5 61.6 61.6.1 61.6.2 61.7 61.7.1 61.7.2 61.7.3 61.8
 
 Gegenstand
-Verkehrserhebungen mit NC 90 Meßsystemen 1 Gerät, 1 - 3 Tage jedes weitere Gerät zusätzlich Verlängerung der Messdauer um je zwei Tage zusätzlich Schriftliche, planungsrechtliche Auskunft je Grundstück
+zusätzlicher Ausdruck DIN A 0 pro Blatt Verkehrserhebungen pro Knoten Verkehrserhebungen im dreiarmigen Knotenbereich im vierarmigen Knotenbereich Verkehrserhebungen mit NC 90 Meßsystemen 1 Gerät, 1 - 3 Tage jedes weitere Gerät zusätzlich Verlängerung der Messdauer um je zwei Tage zusätzlich Schriftliche, planungsrechtliche Auskunft je Grundstück
 
 Gebühr
+24,00 € 14,00 €
+686,00 € 722,00 €
 231,00 € 28,00 € 17,00 € 22,00 €
 
 62.1 62.1.1 62.1.2 62.2 62.2.1 62.2.2 62.3
@@ -309,7 +278,7 @@ für die erste geprüfte Erschließungsanlage
 
 51,00 €
 
-je weiterer peprüfter Erschließungsanlage
+je weiterer geprüfter Erschließungsanlage
 
 34,00 €
 
@@ -355,29 +324,156 @@ Genehmigungsversagung (75 % von der Genehmigungsgebühr)
 
 184,50 €
 
-63.1 63.1.1 63.1.2
-
-Bauaufsichtsamt Beglaubigung einer Bauvorlage bis einschl. 5 Seiten je weitere Seite
-
-10,00 € 2,00 €
-
 Nr.
-63.2
-63.2.1 63.2.2 63.2.3 63.2.4 63.2.5 63.3 63.3.1 63.3.2 63.3.3 63.4
-63.5 63.5.1 63.5.2 63.5.2.1 63.5.2.2 63.5.3
 
 Gegenstand
-Bereitstellung von Bauakten zur Einsichtnahme und zum Anfertigen von Zeichnungen, Pausen oder Fotokopien 1 Aktenordner 2-3 Aktenordner 4-5 Aktenordner 6-7 Aktenordner über 7 Aktenordner Fertigung von Kopien aus Bauakten im Rahmen der Einsichtnahme bis DIN A 2 bis DIN A 1 bis DIN A 0 Erteilung der Löschungsbewilligung für eine Sicherungshypothek zur Sicherung von Stellplatzablösebeträgen Negativatteste und Teilungsgenehmigungen Ausstellung eines Negativattestes gem. § 20 BauGB Erteilung einer Teilungsgenehmigung gem. § 19 BauGB wenn gleichzeitig kein Antrag gem. § 8 BauO NRW vorliegt. wenn gleichzeitig ein Antrag gem. § 8 BauO NRW vorliegt. Ausstellung einer Zweitschrift zum Negativattest gem. § 20 BauGB bzw. zur Teilungsgenehmigung gem. § 19 BauG
+
+Bauaufsichtsamt
 
 Gebühr
-30,00 € 60,00 € 90,00 € 120,00 € 150,00 €
-5,30 € 6,40 € 7,60 € 100,00 €
+
+63.1
+
+Beglaubigung einer Bauvorlage
+
+63.1.1
+
+bis einschl. 5 Seiten
+
+10,00 €
+
+63.1.2
+
+je weitere Seite
+
+2,00 €
+
+63.2
+
+Bereitstellung von Bauakten zur Einsichtnahme und zum Anfertigen von Zeichnungen, Pau-
+
+sen oder Fotokopien
+
+63.2.1
+
+1 Aktenordner
+
+30,00 €
+
+63.2.2
+
+2-3 Aktenordner
+
+60,00 €
+
+63.2.3
+
+4-5 Aktenordner
+
+90,00 €
+
+63.2.4
+
+6-7 Aktenordner
+
+120,00 €
+
+63.2.5
+
+über 7 Aktenordner
+
+150,00 €
+
+63.3
+
+Fertigung von Kopien aus Bauakten im Rahmen der Einsichtnahme
+
+63.3.1
+
+bis DIN A 2
+
+5,30 €
+
+63.3.2
+
+bis DIN A 1
+
+6,40 €
+
+63.3.3
+
+bis DIN A 0
+
+7,60 €
+
+63.4
+
+Erteilung der Löschungsbewilligung für eine Sicherungshypothek zur Sicherung von Stell-
+
+100,00 €
+
+platzablösebeträgen
+
+63.5
+
+Negativatteste und Teilungsgenehmigungen
+
+63.5.1
+
+Ausstellung eines Negativattestes gem. § 20 BauGB
+
 16,00 €
-101,00 € 42,00 € 4,00 €
 
-66.1 66.2 66.3 66.4 66.4.1 66.4.2
+63.5.2
 
-Amt für Straßen und Verkehrstechnik Baubegleitung bei der Durchführung von Bordsteinabsenkungen Verkehrserhebungen pro Knoten/Querschnitt Planungshandbuch Erteilung von Firmenzulassungen Neuzulassung Wiederholungszulassung
+Erteilung einer Teilungsgenehmigung gem. § 19 BauGB
 
-124,00 € 14,00 € 60,00 €
-36,00 € 32,00 €
+63.5.2.1 wenn gleichzeitig kein Antrag gem. § 8 BauO NRW vorliegt.
+
+101,00 €
+
+63.5.2.2 wenn gleichzeitig ein Antrag gem. § 8 BauO NRW vorliegt.
+
+42,00 €
+
+63.5.3
+
+Ausstellung einer Zweitschrift zum Negativattest gem. § 20 BauGB bzw. zur Teilungsgenehmigung gem. § 19 BauG
+
+4,00 €
+
+Amt für Straßen und Verkehrstechnik
+
+66.1
+
+Baubegleitung bei der Durchführung von Bordsteinabsenkungen
+
+124,00 €
+
+66.2
+
+Verkehrserhebungen pro Knoten/Querschnitt
+
+14,00 €
+
+66.3
+
+Planungshandbuch
+
+60,00 €
+
+66.4
+
+Erteilung von Firmenzulassungen
+
+66.4.1
+
+Neuzulassung
+
+36,00 €
+
+66.4.2
+
+Wiederholungszulassung
+
+32,00 €
