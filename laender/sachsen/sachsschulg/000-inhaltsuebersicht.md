@@ -8,7 +8,7 @@
 § 4 Schularten und Schulstufen
 § 4a Mindestschülerzahl, Klassenobergrenze, Zügigkeit, Schulweg
 § 5 Grundschule
-§ 6 Mittelschule
+§ 6 Oberschule
 § 7 Gymnasium
 § 8 Berufsschule
 § 9 Berufsfachschule
@@ -49,7 +49,7 @@
 § 35a Individuelle Förderung der Schüler
 § 35b Zusammenarbeit
 § 36 Familien- und Sexualerziehung
-§ 37 Umwelterziehung
+§ 37 (weggefallen)
 § 38 Schulgeld- und Lernmittelfreiheit
 § 38a Unterstützungsangebote bei auswärtiger Unterbringung
 § 39 Erziehungs- und Ordnungsmaßnahmen
@@ -68,10 +68,10 @@
 § 48 Kreiselternrat
 § 49 Landeselternrat
 § 50 Ausführungsvorschriften
-§ 50a Informationsbefugnis
+§ 50a Kinder- und Jugendschutz, Informationsbefugnis
 3. Abschnitt Mitwirkung der Schüler
 § 51 Schülermitwirkung, Schülervertretung
-§ 52 Klassenschülersprecher
+§ 52 Klassensprecher
 § 53 Schülerrat, Schülersprecher
 § 54 Kreisschülerrat
 § 55 Landesschülerrat
@@ -86,7 +86,10 @@
 § 62 Schul- und Prüfungsordnungen
 8. Teil Landesbildungsrat
 § 63 Landesbildungsrat
+§ 63a Schuldatenschutz
+§ 63b Statistik
+§ 63c Einschränkung von Grundrechten
 § 63d Schulen besonderer Art
 9. Teil Schlussbestimmungen
-§ 64 Übergangsbestimmungen
+§ 64 Übergangsvorschrift
 § 65 In-Kraft-Treten

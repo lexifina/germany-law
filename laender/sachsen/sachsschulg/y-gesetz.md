@@ -1,2 +1,2 @@
-# Schulgesetz für den Freistaat Sachsen (SchulG)
-Rechtsbereinigt mit Stand vom 16. Mai 2017
+# Schulgesetz für den Freistaat Sachsen (Sächsisches Schulgesetz – SächsSchulG)
+Rechtsbereinigt mit Stand vom 1. August 2017
