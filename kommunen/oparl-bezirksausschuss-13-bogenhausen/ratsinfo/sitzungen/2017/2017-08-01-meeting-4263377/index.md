@@ -1,0 +1,111 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-08-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263377
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263377
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Stuntzstr. 16: Vorstellung der aktuellen Planungen
+- TOP 2.2.5.: Isolde-Kurz-Str. 2: Neubau eines Doppelhauses
+- TOP 2.2.6.: Holbeinstr. 34: Dachgeschossausbau und Brandschutzertüchtigung
+- TOP 2.2.7.: Oberföhringer Str. 238: Anbau und Aufstockung von 7 Wohnungen auf ein Wohn- und Geschäftshaus
+- TOP 2.2.8.: Jörg-Hube-Straße: Neubau einer Wohnanlage (45 WE) mit Gemeinschaftsräumen und Tiefgarage (WA 15 West)
+- TOP 2.2.9.: Ruth-Drexel-Straße: Neubau einer Wohnanlage (56 WE) mit Tiefgarage
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.2.: Weserstr. 2 (1 Fichte), Mauerkircherstr. 176 (1 Weide), Höchlstr. 2 (1 Ahorn), Flaschenträgerstr. 1 (1 Scheinzypresse), Oberschlesische Str. 52 (1 Tanne), St. Emmeram 30 (1 Blautanne), Hans-Heiling-Str. 6 (1 Thuja), Daglfinger Str. 18 (1 Linde), Freischützstr. 88 ( 1 Nadelbaum), Möhlstr. 21 (1 Prunus serotina), Hitzestr. 13 (1 Sorbus aria), Pienzenauer Str. 99 (1 Birke), Ebersberger Str. 5 (lt. Bescheid), Flemingstr. 94 a (lt. Bescheid)
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.2.: Eugen-Jochum-Str.: Neubau eines Senioren-Pflegeheims mit Seniorenwohnen, Begegnungsstätte und Synagoge ("Seniorenwohnen am Prinz Eugen Park") - VORBESCHEID (vertagt am 11.07.2017, TOP 2.2.2) Vorstellung durch die Antragsteller
+- TOP 2.2.3.: Stellungnahme des Konsortium Prinz Eugen Park zu Mauern um die Cluster
+- TOP 2.2.4.: Lärm an der Baustelle Prinz-Eugen-Park, Antrag der CSU-Fraktion vom 11.07.2017
+- TOP 2.2.10.: Fragen zur städtebaulichen Entwicklungsmaßnahme Daglfing, Antrag der CSU-Fraktion vom 07.07.2017
+- TOP 2.2.11.: Nachverdichtung der Rennbahn, Antrag der CSU-Fraktion vom 07.07.2017
+- TOP 2.2.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.1.: Ampel Truderinger Straße / Riedenburgerstraße - Bürgeranliegen
+- TOP 2.3.2.: Parken von Lkw im Hochstiftsweg - Bürgeranliegen
+- TOP 2.3.3.: Endhaltestelle Buslinie 183 Rennbahnstraße - Bürgeranliegen
+- TOP 2.3.4.: Anträge 1-3 des Konsortiums Prinz Eugen Park zur Verkehrssicherheit und Aufenthaltsqualität
+- TOP 2.3.5.: Rampe an der S-Bahn Haltestelle Daglfing; Bürgeranliegen vom 03.05.2017 (vertagt am 11.07.2017, TOP 2.3.13)
+- TOP 2.3.6.: Haltverbote Kurvenbereich Barbarossastraße / Franz-Fischer-Straße; Anhörung
+- TOP 2.3.7.: Anhörung zum MVG Leistungsprogramm für die Fahrplanperiode 2018
+- TOP 2.3.8.: Vorhalten einer separaten ÖPNV-Spur je Fahrtrichtung beim Bebauungsplan Eggenfeldener Straße; Antrag Bündnis 90/Die Grünen vom 06.07.2017
+- TOP 2.3.9.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 13 Bogenhausen Widmung der Gesamtstrecke der Ruth-Drexel-Straße der Gesamtstrecke der Eugen-Jochum-Straße der Gesamtstrecke der Jörg-Hube-Straße Einziehung der Gesamtstrecke der Sentastraße
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Faschingsgesellschaft Feringa München - Johanneskirchen e.V. Faschingszug am 11.02.2018
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 2.4.3.: Änderung von §12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung - Anhörung
+- TOP 2.5.1.: REGSAM-Schwerpunktgebiete ab 2017
+- TOP 2.5.2.: Planung des Schulstandortes Salzsenderweg / Knappertsbuschstraße; Antrag der DacG /ödp vom 09.07.2017
+- TOP 2.6.1.: Baumfällungen (Anhörungen): - Jörg-Hube-Straße, lt. Plan - Isolde-Kurz-Str. 2-4, lt. Plan - Weltenburger Str. 31, lt. Plan - Flensburger Straße (DHH 1 + 2), lt. Plan - Flensburger Straße (DHH 3 + 4), lt. Plan - Flensburger Straße (DHH 5 + 6), lt. Plan - Flensburger Straße (DHH 7 + 8), lt. Plan - Meistersingerstr. 26, lt. Plan - Ruth-Drexel-Straße, lt. Plan - Pienzenauerstr. 118: 1 Kaukasische Flügelnuss - Mauerkircherstr. 115: 2 Tannen, 1 Esche - Salmdorfer Str. 3-5: 1 Linde - Möhlstr. 17: 1 Linde, 1 Feldahorn - Haushoferstr. 1: 2 Serbische Fichten und 1 Birke
+- TOP 2.6.3.: Erneuerung der Parkbänke an der Donaustraße, Antrag der CSU-Fraktion vom 03.07.2017
+- TOP 2.6.4.: Pflege und Gestaltung der kleinen Park-/Grünanlage an der Töginger Straße, Antrag der CSU-Fraktion vom 03.07.2017
+- TOP 2.6.5.: (E) Berücksichtigung der Grundwasserproblematik bei neuen Bauvorhaben in Johanneskirchen Empfehlung Nr. 14-20 / E 01232 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 27.10.2016
+- TOP 2.6.6.: Zustände rund um das Rumänische Generalkonsulat am Effnerplatz - Bürgeranliegen
+- TOP 5.1.: Standortkonzept Bürgerbüro; Anhörung der Bezirksausschüsse
+- TOP 6.1.: Versetzung des BA-Info-Kastens von der Cosimastraße zum Fritz-Meyer-Weg BA-Antrag Nr. 14-20 / B 01081
+- TOP 6.2.: Entfernung der Verkehrsinsel am Rosenkavalierplatz; Schreiben BA vom 10.05.2017
+- TOP 6.3.: Baumschutz in München ist Klimaschutz in München; Die Münchner Bezirksausschüsse handeln - jetzt ! BA-Antrag Nr. 14-20 / B 03606, Fristverlängerung bis 31.10.2017
+- TOP 6.4.: Notwendige Baumschutzkontrolle BA-Antrag Nr. 14-20 / B 03607, Fristverlängerung bis 31.10.2017
+- TOP 6.5.: Cosimastraße / Salzsenderweg: Umlaufsperre für zwei gleichzeitig entgegenkommende Rad- und Rollstuhlfahrer umgestalten (Schreiben der MVG vom 22.06.2017) BA-Antrag Nr. 14-20 / B 01503
+- TOP 6.6.: Samstagsöffnung der Stadtteilbücherei in der Pilotphase auch in Bogenhausen !
+- TOP 6.7.: Abfahrtszeiten des MVV am Herkomerplatz BA-Antrag Nr. 14-20 / B 03702
+- TOP 6.8.: Ausarbeitung eines modernen Beleuchtungssystems mit Einsatz von LED-Straßenleuchten im Neubaugebiet "Prinz-Eugen-Park"
+- TOP 6.9.: Prüfantrag zur Bauleitplanung der Gemeinde Aschheim, 37. Änderung des Flächennutzungsplans, Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB
+- TOP 6.10.: Befestigung von Schachtdeckeln innerhalb der Trambahngleise in der Ismaninger Straße
+- TOP 6.11.: Geplante GU Brodersenstraße: Kein langfristiges Blockieren eines städtischen Grundstücks
+- TOP 7.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 7.2.3.: Freischützstraße und Johanneskirchner Straße; Straßenumbau und -neubau im Umgriff des Bebauungsplans Nr. 2078 (Bauarbeiten von 10.04.2017 bis Dezember 2017)
+- TOP 7.4.1.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 7.4.2.: Mitteilung über Grundstücksgeschäfte: - Jörg-Hube-Straße (Verkauf) - Prinz-Eugen-Park, Bauquartier WA 16 Ost (Verkauf) - Prinz-Eugen-Park, Bauquartier WA 15 West (Verkauf) - Ruth-Drexel-Straße, Prinz-Eugen-Park, WA 3 West (Verkauf) - Prinz-Eugen-Park, Bauquartier WA 14 Ost
+- TOP 7.5.1.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
+- TOP 7.5.2.: Anzeige eines gewerblichen Feuerwerks am Friedensengel am 27.07.2017
+- TOP 7.7.1.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 7.7.2.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2121, Arabellastr. 26-28 Einleitungs- und Aufstellungsbeschluss Sitzungsvorlagen Nr. 14-20 / V 09069
+- TOP 7.7.3.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2122 Eggenfeldener Str. (südlich), Hultschiner Straße (östlich), Töginger Straße (BAB 94, nördlich) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes Sitzungsvorlagen Nr. 14-20 / V 09086
+- TOP 7.7.4.: Neue Orientierungswerte zur Grün- und Freiflächenversorgung Sitzungsvorlagen Nr. 14-20 / V 09119
+- TOP 7.8.1.: (U) Schulbauoffensive 2013-2030
+- TOP 7.9.1.: Vollzug der Zweckentfremdungssatzung, Vollzug der Erhaltungssatzungen Sitzungsvorlage Nr. 14-20 / V 08700
