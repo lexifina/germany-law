@@ -7,7 +7,7 @@ Abschnitt 2 Organe der Schülermitwirkung
 § 4 Schülervertretungen
 § 5 Wahlverfahren
 § 6 Amtszeit
-§ 7 Klassenschülersprecher und Jahrgangsstufensprecher
+§ 7 Klassensprecher und Jahrgangsstufensprecher
 § 8 Schülerrat
 § 9 Kreisschülerrat
 § 10 Landesschülerrat
