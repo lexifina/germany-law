@@ -10,20 +10,21 @@ SPA | Spanisch | PHI | Philosophie | Fächer: |
 LAT | Latein | POL | Politik |  | 
 GRI | Griechisch | PSY | Psychologie | PHY | Physik
 PON | Polnisch | REC | Rechtskunde | CHE | Chemie
-RUS | Russisch | REL | Religionskunde | BIO | Biologie
+RUS | Russisch | REL | Religion | BIO | Biologie
 TUE | Türkisch | SOZ | Soziologie |  | 
 ITA | Italienisch | WIR | Wirtschaftslehre | INF | Informatik
 CHI | Chinesisch | (Volkswirtschaftslehre) |  |  | 
-JAP | Japanisch |  | BAU | Bautechnik | 
-KUN | Kunst |  | ERN | Ernährungslehre | 
+JAP | Japanisch |  |  |  | 
+KUN | Kunst |  |  |  | 
 MUS | Musik |  |  |  | 
 DAR | Darstellendes |  |  |  | 
 Spiel | (Grundkurs) |  |  |  | 
-Mit Zustimmung der Senatorin für Kinder und Bildung kann die Schule weitere Fächer anbieten. Bilinguale Fächer sind der Senatorin für Bildung und Wissenschaft anzugeben.
+Mit Zustimmung der Senatorin für Kinder und Bildung kann die Schule weitere Fächer anbieten. Bilinguale Fächer sind der Senatorin für Kinder und Bildung anzugeben.
 Verzeichnis der Bewegungsfelder im Fach Sport / Sportarten
 Laufen, Springen, Werfen, Stoßen | Spielen | Bewegen an und mit Geräten | Bewegung gymnastisch, rhythmisch und tänzerisch gestalten |  |  |  |  | 
 LE | Leichtathletik | BB | Basketball | GT | Geräteturnen | Gy | Gymnastik | 
  |  | FB |  | Fußball | TR | Trampolinturnen | TA | Tanz
+ |  | FL |  | Floorball |  |  |  | 
  |  | HB |  | Handball |  |  |  | 
  |  | HC |  | Hockey |  |  |  | 
  |  | VB |  | Volleyball |  |  |  | 
