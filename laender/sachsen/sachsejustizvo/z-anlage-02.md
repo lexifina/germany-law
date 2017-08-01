@@ -9,3 +9,12 @@ Nummer | Gericht | Verfahrensbereich | Datum
 4. | Amtsgericht Bautzen | Grundbuchsachen | 1. Juni 2017
 5. | Amtsgericht Pirna | Grundbuchsachen | 1. Juni 2017
 6. | Amtsgericht Plauen | Grundbuchsachen | 1. Juni 2017
+7. | Amtsgericht Aue | Grundbuchsachen | 1. August 2017
+8. | Amtsgericht Eilenburg | Grundbuchsachen | 1. August 2017
+9. | Amtsgericht Hohenstein-Ernstthal | Grundbuchsachen | 1. August 2017
+10. | Amtsgericht Auerbach | Grundbuchsachen | 1. Oktober 2017
+11. | Amtsgericht Görlitz | Grundbuchsachen | 1. Oktober 2017
+12. | Amtsgericht Torgau | Grundbuchsachen | 1. Oktober 2017
+13. | Amtsgericht Freiberg | Grundbuchsachen | 1. Dezember 2017
+14. | Amtsgericht Grimma | Grundbuchsachen | 1. Dezember 2017
+15. | Amtsgericht Hoyerswerda | Grundbuchsachen | 1. Dezember 2017
