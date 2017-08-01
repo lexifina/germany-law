@@ -50,8 +50,8 @@ Kostenverzeichnis der Bildungsverwaltung:
 106.08 | Tatbestand nach 106.06 für Wiederholung eines Teils der Prüfung Bemerkungen zu 106.06 bis 106.08: Der personelle Aufwand für die Abnahme von Prüfungen an Privatschulen ist sehr hoch, da hierfür zusätzlich ein Prüfungsausschuss eingerichtet werden muss. Der tatsächliche Aufwand ist jeweils zu ermitteln. | die Hälfte der Gebühr nach 206.07
 107 | Mittagessen an Grundschulen der Stadtgemeinde Bremen | 
 107.00 | Die Gebühren werden monatlich von den Erziehungsberechtigten erhoben. Die Erziehungsberechtigten können verpflichtet werden, die Gebühren unmittelbar an den Bereitsteller des Essens, auch durch Lastschrifteinzug, zu leisten. Bei der Berechnung der Gebühr wird ein ganzes Jahr zugrunde gelegt. Die Jahresgebühr ist monatlich anteilig in zwölf gleichen Beträgen ab August bis Juli des jeweiligen Schuljahres zu entrichten. | 
-107.01 | [Red. Anm.: Entsprechend Artikel 3 Abs. 2 der Verordnung zur Ablösung der Kostenverordnung der Bildungs- und Wissenschaftsverwaltung vom 10. Januar 2017 (Brem.GBl. S. 11) tritt die Nr. 107.1 am 01.08.2017 in Kraft.] | 
-107.02 | [Red. Anm.: Entsprechend Artikel 3 Abs. 2 der Verordnung zur Ablösung der Kostenverordnung der Bildungs- und Wissenschaftsverwaltung vom 10. Januar 2017 (Brem.GBl. S. 11) tritt die Nr. 107.2 am 01.08.2017 in Kraft.] | 
+107.01 | Für Schülerinnen und Schüler an gebundenen Ganztagsgrundschulen | 35,00 Euro
+107.02 | Für Geschwister auf derselben gebundenen Ganztagsgrundschule je Kind | 30,00 Euro
 107.03 | Für Schülerinnen und Schüler an offenen Ganztagsgrundschulen, je Portion | 2,80 bis 3,60 Euro
 107.04 | Für Bezieher von Leistungen nach § 3 Asylbewerberleistungsgesetz | gebührenfrei
 107.05 | Die Vorlage des Berechtigungsnachweises (Blaue Karte) ersetzt bei Beziehern von Leistungen für Bildung und Teilhabe nach § 28 Absatz 6 des Zweiten Buches Sozialgesetzbuch, § 34 Absatz 6 des Zwölften Buches Sozialgesetzbuch, § 2 des Asylbewerberleistungsgesetzes oder § 6b des Bundeskindergeldgesetzes die Gebührenentrichtung.
