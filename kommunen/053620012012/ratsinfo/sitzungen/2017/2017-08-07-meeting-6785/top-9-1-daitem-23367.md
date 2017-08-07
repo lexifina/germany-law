@@ -1,0 +1,6 @@
+# TOP 9.1: Information über Raumluftuntersuchung
+
+- Sitzung: Hauptausschuss (54. Sitzung) (2017-08-07)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/23367
