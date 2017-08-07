@@ -1,0 +1,72 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-08-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212179
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212179
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: Bericht zum Treffen mit AKIM "Bolzplatz Stiftsbogen"
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Guardinistraße 94, 1 Bergkirsche und 1 Bergahorn
+- TOP 7.1.2.: Haderunstraße 55, 1 Walnussbaum
+- TOP 7.1.3.: Wilhelm-Weitling-Straße 23, 1 Birke
+- TOP 7.1.4.: Pfundmayerstraße 19, 4 Robinien
+- TOP 7.1.5.: Georginenstraße 9 + 9a, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 13520
+- TOP 7.1.6.: An der Rehwiese 13, 1 Birke
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Anfrage des "Community Bus Projektes"
+- TOP 5.1.: Budget der Bezirksausschüsse, Regsam e.V., Mobiles Spielangebot vom 25. - 29.09.2017 (Direktorium, 21.07.17)
+- TOP 6.1.: Standortkonzept Bürgerbüros (Kreisverwaltungsreferat, 13.07.17)
+- TOP 6.2.: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung (Direktorium, 10.07.17)
+- TOP 6.3.: Gemeinde Neuried; Bebauungsplan Nr. 52 "Wohn- und Gewerbegebiet westlich der Starnberger Straße und östlich der Kreisstraße M 4" (Referat für Stadtplanung und Bauordnung, 13.07.17)
+- TOP 6.4.: Änderung der Sondernutzungsgebührensatzung (Kreisverwaltungsreferat, 20.07.17)
+- TOP 7.2.1.: Liste des Baureferates vom 14.07.2017: 42 Bäume auf dem Waldfriedhof
+- TOP 7.4.1.: Würmtalstraße 23 a, 1 Bergahorn (Referat für Stadtplanung und Bauordnung, 12.07.17)
+- TOP 8.1.: Baumaßnahmen der SWM, hier: - Telekommunikationsprojekt Zöllerstraße (SWM, 11.07.17) - Stromprojekt Am Heidebruch (SWM, 03.07.17) - Stromprojekt Heiglhofstraße 13 (SWM, 24.07.17)
+- TOP 8.2.: Münchner Wochen- und Bauernmärkte - Standort Graubündner Straße / Schweizer Platz in Fürstenried-West (Kommunalreferat, 12.07.17)
+- TOP 8.3.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung an der Ludlstraße - Seite Ida-Schumacher-Weg (auf FlSt. 299) (Kreisverwaltungsreferat, 31.07.17)
+- TOP 8.4.: Verkehrsaufsichtliche Erlaubnis für Ludlstraße 1 - 21, Senftenauerstraße 3 (Kreisverwaltungsreferat, 01.08.17)
+- TOP 10.1.: Mehr überdachte Fahrradabstellplätze am U-Bahnhof Klinikum Großhadern (SWM, 12.07.17 und Baureferat, 28.07.17)
+- TOP 11.1.: Terminplanung 2018
+- TOP 11.2.: Beschleunigter Ausbau der Nahbereiche in München, Ankündigung einer Informationsveranstaltung der Deutschen Telekom
+- TOP 11.3.: Einladung zur Einweihung des Schulpavillons an der Grundschule Guardinistraße 60 am Freitag, 15.09.2017
+- TOP 11.4.: Protokoll des Informations- und Vernetzungstreffens mit AKIM (Sozialreferat, 02.08.17)
+- TOP 11.5.: Wiesn-Besuch der Bezirksausschüsse im Jahr 2017, Termin BA 20: Dienstag, 19.09.2017 (Direktorium, 04.08.17)
+- TOP 1.1.1.: Beschluss vom 28.06.2017: Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien – SoNuRL)
+- TOP 1.1.2.: Beschluss vom 28.06.2017: Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Bauausschusses vom 04.07.2017: Finanzielle Aufstockung der heutigen Entsiegelungspauschale und Neudefinition als künftige Freiraumpauschale Beleuchtete Skateanlagen in den Abendstunden: Pilotprojekt Im Gefilde
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Bildungsausschusses gemeinsam mit dem Kinder- und Jugendhilfeausschuss, dem Bauausschuss, dem Finanzausschuss, dem Kreisverwaltungsausschuss, dem Ausschuss für Stadtplanung und Bauordnung und dem Verwaltungs- und Personalausschuss vom 05.07.2017: Schulbauoffensive 2013-2030
+- TOP 3.2.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 04.07.2017: PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 3.2.3.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Ausschusses für Arbeit und Wirtschaft und des Finanzausschusses vom 19.07.2017: Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
