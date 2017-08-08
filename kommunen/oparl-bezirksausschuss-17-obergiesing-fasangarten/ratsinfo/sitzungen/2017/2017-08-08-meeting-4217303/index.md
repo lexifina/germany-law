@@ -1,0 +1,132 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-08-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4217303
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4217303
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.3.: Chiemgaustr. 20 f
+- TOP 3.9.1.4.: Cincinnatistr. 2-30
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Wunsch nach Baumpflanzung am Anwesen Arzberger Str. 8, Bürgeranliegen vom 17.07.2017
+- TOP 2.1.2.2.: Ausbau und Verbesserungen auf der S7-Ost Schreiben der S7-Ost-plus vom 17.07.2017
+- TOP 2.1.2.3.: Park- und Liefersituation in der südlichen Tegernseer Landstraße, Anliegen der Geschäftsinhaber und Gewerbetreibenden in der Tegernseer Landstraße vom 17.07.2017
+- TOP 2.1.2.4.: Anfrage zum Status der Unterführung der der Otkerstraße, Bürgeranliegen vom 02.07.2017
+- TOP 2.1.2.5.: Ruhestörung in der Parkanlage im Bereich der Scharfreiterstraße, Bürgeranliegen vom 29.06.2017
+- TOP 2.1.2.6.: Wildwuchs auf dem unbebauten Grundstück Balanstraße 351/353; Bürgeranliegen vom 29.06.2017
+- TOP 2.1.2.7.: Tempo 30 Zone in der Severinstraße, Bürgeranliegen vom 13.07.2017
+- TOP 2.1.2.8.: Bessere Sichtbarkeit der Hinweisschilder "Behindertenparkplatz" an der Tegernseer Landstraße; Bürgeranliegen vom 21.07.2017
+- TOP 2.1.2.9.: Neue Markierung der Behindertenparkplätze an der Tegernseer Landstraße; Bürgeranliegen vom 21.07.2017
+- TOP 3.9.1.1.: Perlacher Str. 114 Stellungnahme vorab nach § 20 BA-Satzung
+- TOP 3.9.1.2.: Traunsteiner Str. 6 und 8 Stellungnahme vorab nach § 20 BA-Satzung
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Initiative "Löwenfans gegen Rechts" Ausstellung „Sechzge, Oide! Mit Leib und Seele Löwin“ vom 14.07.2017 - 23.07.2017
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Tausch einer städtischen Immobilie; Anhörung des Bezirksausschusses gem. § 13 BA-Satzung hier: Schwanseestraße
+- TOP 6.1.3.2.: Chiemgaustr. 66-104, Aufstockung und Lärmschutzbebauung mit 94 neuen Wohnungen und Tiefgarage (Chiemgaustr. 66-104/Schwanseestr. 42-52)
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Ihr Vorschlag für den 2. Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention Einsendeschluss: 15.08.2017
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Planfeststellung nach § 18 AEG für das Vorhaben Erneuerung der EÜ BAB A 8, Bahn-km 2,541, Strecke 5552 München Giesing - Kreuzstraße Anhörungsverfahren
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Bahnhofsfest, am 10.09.2017, von 11.00 Uhr bis 19.00 Uhr, auf dem Giesinger Bahnhofsplatz
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 hier: Tegernseer Landstraße 92 Beschluss des Bezirksausschusses 17 Obergiesing-Fasangarten vom 11.07.2017 vertagt auf 08.08.2017
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Änderung der Sondernutzungsgebührensatzung Frist: 28.08.2017
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Standortkonzept Bürgerbüro; Anhörung der Bezirksausschüsse
+- TOP 7.2.2.: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung Anhörung der Bezirksausschüsse
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
