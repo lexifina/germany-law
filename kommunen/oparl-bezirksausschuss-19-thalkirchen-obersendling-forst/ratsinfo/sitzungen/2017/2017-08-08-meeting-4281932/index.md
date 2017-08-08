@@ -1,0 +1,62 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-08-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281932
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281932
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3: Genehmigung der Protokolle vom 04.07.2017
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Terminplanung 2018
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.4.: (A) Satzungsänderung: Bearbeitungsfrist BA-Anträge
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Initiative "Circus Bu l Ma Mo Ni" Kinder-Theater-Kreativ-Projekt ab 17.08.2017
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Kontrapunkt gGmbH Gestaltung des Trambahnhäuschens am Ratzinger Platz
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Lärmbelästigung durch die Klimaanlage der McDonald&#039;s-Filiale Stäblistraße; vorschriftsgemäße Dämmung der Klimaanlage
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Zerstörung der Sichtachse von Schloss Fürstenried zur Frauenkirche
+- TOP 4.4.: (E) Beseitigung verschiedener Mängel im Umfeld der Limmatstr. / Drygalski-Allee Empfehlung Nr. 14-20 / E 01460 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.05.2017
+- TOP 4.5.: (E) Stadtweite Pflanzung von wilden Obstbäumen Empfehlung Nr. 14-20 / E 01478 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.05.2017
+- TOP 4.6.: (E) Errichtung eines öffentlichen Outdoor-Fitnessparks in Thalkirchen / Zoo Empfehlung Nr. 14-20 / E 01475 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.05.2017
+- TOP 4.7.: (A) Erweiterung der öffentlichen Grünanlage an der Drygalski-Allee
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (A) Aufstellungsbeschluss: Parkhaus am Tierpark Hellabrunn (Stadtbezirk 18)
+- TOP 5.4.: (A) Standortkonzept Bürgerbüros
+- TOP 5.5.: (Antrag) Tempo 30 Maxhof
+- TOP 5.6.: (Antrag) Busverkehr Maxhof
+- TOP 5.7.: (A) Änderung der Sondernutzungsgebührensatzung
+- TOP 5.8.: (E) Verbesserung der Parkplatzsituation in der Kemptener- und Allgäuer Straße durch Parkverbote für Lkw und gewerbliche Anhänger bzw. durch die Einführung von Anwohnerparkplätzen
+- TOP 5.9.: (E) Verbesserung des Verkehrsflusses in der Forstenrieder Allee
+- TOP 5.10.: (U) Altersbedingter Austausch mehrerer Lichtsignalanlagen im 19. Stadtbezirk
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Bauleitplanverfahren Gemeinde Neuried
+- TOP 6.4.: (Antrag) Wohnprojektinitiative Fraunbergstr. 4
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Wildwasser-Abfahrtsrennen 2017 am 23.09.2017
+- TOP 8.3.: (A) Veranstaltung: Einweihungsfeier des offenen Bücherschranks am 26.08.2017
+- TOP 8.4.: (A) Veranstaltung: Deutsche Meisterschaft im Kanu-Slalom am 16. und 17.09.2017
