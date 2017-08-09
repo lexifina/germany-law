@@ -1,0 +1,63 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285641
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285641
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Fachstelle Demokratische Jugendbildung Demokratiemobil vom 01.09.2017 - 24.09.2017
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Männerchor Milbertshofen e.V. Hoagart&#039;n am 07.10.2017
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Änderung der Sondernutzungsgebührensatzung Anhörungsfrist: 28.08.2017
+- TOP 8.1.2.: Standortkonzept für die Bürgerbüros der LHM Anhörungsfrist: 01.09.2017
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Dientzenhoferstr. 55 -71 - Bauvorhaben: Neubau einer Wohnanlage mit Tiefgarage - Antrag auf Beseitigung und/oder Veränderung von geschütztem Baumbestand
+- TOP 8.2.2.: Permanederstr. 39 Bauvorhaben: Neubau zweier Doppelhaushälften mit Garagen
+- TOP 8.2.3.: Tüllesamstr. 10 - Bauvorhaben: Abbruch des Bestandes und Neubau eines Einfamilienhauses - Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Pommernstr. 7 Bauvorhaben: Neubau eines Doppelhauses mit Garagen
+- TOP 8.2.5.: Vollzug des BImSchG und des Gesetzes über die UVPG Lerchenauer Str. 76 - Neubau einer Energiezentrale zur KWK
+- TOP 8.3: Kultur / Soziales
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO Paracelsusstraße - Aufhebung Vorfahrt
+- TOP 8.4.2.: Olympiapark: Veranstaltung "BARMER Women`s Run" am 09.09.2017
+- TOP 8.4.3.: Olympiapark: Veranstaltung "24 Std. Event München" am 16./ 17. 09.2017
+- TOP 8.4.4.: Curt-Mezger-Platz: Veranstaltung "Radlsicherheitscheck" am 31.08.2017 - 01.09.2017
+- TOP 9.1: Plenum
+- TOP 9.1.1.: BA-Anträge auf Beibehaltung des Hare-Niemeyer-Verfahrens - Behandlung im Stadtrat in der Sitzung des Feriensenats am 09.08.2017
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Meldelisten über Bauvorhaben im Stadtbezirk Zeitraum: 19.06.2017 - 23.07.2017
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Veranstaltung Sommerfest "Impark" im Olympiapark am 10. und 24.08.2017 - Unterrichtung über zwei Feuerwerke
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Gleisbaumaßnahmen zwischen Münchner Freiheit und Scheidplatz Zeitraum: 30.07.2017 - 08.09.2017
