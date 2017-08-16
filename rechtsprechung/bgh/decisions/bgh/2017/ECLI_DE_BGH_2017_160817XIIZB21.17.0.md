@@ -1,0 +1,494 @@
+---
+ecli: "ECLI:DE:BGH:2017:160817XIIZB21.17.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 21/17"
+decided: "2017-08-16"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2017&Sort=1&Seite=67&nr=79768&anz=3127&pos=2011&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2017-08-16_XII_ZB_21_17_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/betravg/0004.md", "germany/bund/acts/bgb/0242.md", "germany/bund/acts/bgb/1565.md", "germany/bund/acts/bgb/1587.md", "germany/bund/acts/famfg/0074.md", "germany/bund/acts/versausglg/0003.md", "germany/bund/acts/versausglg/0011.md", "germany/bund/acts/versausglg/0018.md", "germany/bund/acts/versausglg/0027.md", "germany/bund/acts/versausglg/0028.md", "germany/bund/acts/versausglg/0045.md"]
+---
+
+# Bundesgerichtshof, XII ZB 21/17 vom 2017-08-16
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                             BESCHLUSS
+XII ZB 21/17
+
+                                      vom
+
+                                16. August 2017
+
+                             in der Familiensache
+
+
+Nachschlagewerk:       ja
+BGHZ:                nein
+BGHR:                  ja
+
+
+
+BGB § 242 A; VersAusglG §§ 3 Abs. 1, 27, 28
+
+a) Die Berücksichtigung von Nachteilen, die einem Ehegatten aus einer verfrühten Scheidungsantragstellung erwachsen, kann im Versorgungsausgleich allenfalls nach § 27 VersAusglG erfolgen.
+
+b) Die Einbeziehung einer laufenden Invaliditätsrente in den Versorgungsausgleich erscheint grundsätzlich unbillig, wenn und soweit der ungekürzte Ausgleich dazu führt, dass dem ausgleichsberechtigten Ehegatten bei eigener
+   fortbestehender Erwerbsfähigkeit der gesamte Ausgleichswert vollständig für
+   die Altersversorgung zur Verfügung steht, während das bei der ausgleichspflichtigen Person verbleibende Anrecht (auch) die Zeit seiner Invalidität bis
+   zum Erreichen der Altersgrenze mit abdecken muss; dieser Rechtsgedanke
+   ist bei der Abwägung nach § 27 VersAusglG in besonderem Maße zu berücksichtigen (im Anschluss an Senatsbeschluss vom 21. Juni 2017
+   - XII ZB 636/13 - juris).
+
+BGH, Beschluss vom 16. August 2017 - XII ZB 21/17 - OLG Brandenburg
+                                                     AG Strausberg
+
+
+
+
+ECLI:DE:BGH:2017:160817BXIIZB21.17.0
+
+                                         -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 16. August 2017 durch den
+    Vorsitzenden Richter Dose und die Richter Schilling, Dr. Nedden-Boeger,
+    Dr. Botur und Guhling
+
+    beschlossen:
+
+
+          Auf die Rechtsbeschwerde der Antragsgegnerin wird der Beschluss des 2. Senats für Familiensachen des Brandenburgischen
+          Oberlandesgerichts vom 1. Dezember 2016 aufgehoben.
+
+          Die Sache wird zur erneuten Behandlung und Entscheidung, auch
+          über die Kosten des Rechtsbeschwerdeverfahrens, an das Oberlandesgericht zurückverwiesen.
+
+          Beschwerdewert: 4.440 €
+
+
+
+
+                                       Gründe:
+
+                                           A.
+
+1         Der 1972 geborene Antragsteller (im Folgenden: Ehemann) und die 1963
+    geborene Antragsgegnerin (im Folgenden: Ehefrau) heirateten am 13. Juli
+    2007. Die Zustellung des Scheidungsantrags ist am 12. Juli 2014 erfolgt.
+
+2         Der Trennungszeitpunkt ist zwischen den Ehegatten streitig. Die Ehefrau
+    macht geltend, man habe sich erst im August 2013 getrennt. Das Amtsgericht
+    hat als gesetzliche Ehezeit den Zeitraum vom 1. Juli 2007 bis zum 30. Juni
+    2014 angenommen und auf dieser Grundlage die Auskünfte der Versorgungsträger eingeholt. Danach haben der Ehemann bei der Deutschen Rentenversicherung Berlin-Brandenburg (Beteiligte zu 1) ein Anrecht mit einem Aus-
+
+                                             -3-
+
+
+
+    gleichswert von 5,2730 Entgeltpunkten (Ost) und einem korrespondierenden
+    Kapitalwert in Höhe von 29.258,30 € sowie die Ehefrau bei der Deutschen Rentenversicherung Bund (Beteiligte zu 2) ein Anrecht mit einem Ausgleichswert
+    von 3,9500 Entgeltpunkten (Ost) und einem korrespondierenden Kapitalwert in
+    Höhe von 21.917,37 € erlangt.
+
+3         Daneben bestehen für beide Ehegatten von ihrem Arbeitgeber jeweils als
+    Direktversicherung abgeschlossene ehezeitliche Anrechte der betrieblichen
+    Altersversorgung aus Kapitallebensversicherungen mit eingeschlossener Berufsunfähigkeits-Zusatzversicherung (BUZ) bei der F. Lebensversicherung (Beteiligte zu 3). Der Ausgleichswert des für den Ehemann bestehenden Anrechts
+    beläuft sich auf 1.118,77 €; die Beteiligte zu 3 hat insoweit die externe Teilung
+    verlangt, die Ehefrau hat die Beteiligte zu 2 als Zielversorgung gewählt. Die
+    Ehefrau bezieht wegen einer während der Ehe eingetretenen Berufsunfähigkeit
+    aus der BUZ eine monatliche Rente. Die Beteiligte zu 3 hat den Ehezeitanteil
+    dieses Anrechts mit 14.781,57 € angegeben und zur Erläuterung ihrer Angaben
+    die folgenden Werte mitgeteilt:
+
+                                                   Ehezeitbeginn       Ehezeitende
+                                                   (1. Juli 2007)      (30. Juni 2014)
+
+          Rückkaufswert der Hauptversicherung:     4.292,80 €           6.111,90 €
+
+          Deckungskapital der BUZ:                  637,11 €           12.628,24 €
+
+          Überschussguthaben des Vertrags:          838,30 €            1.809,64 €
+
+          Summe:                                   5.768,21 €          20.549,78 €
+
+4         Auf dieser Grundlage hat die Beteiligte zu 3 einen Ausgleichswert von
+    7.390,79 € vorgeschlagen und die dabei noch nicht berücksichtigten Teilungskosten mit 350 € angegeben. Nach den Bestimmungen ihrer Teilungsordnung
+    wird bei der internen Teilung für den ausgleichsberechtigten Ehegatten eine
+
+                                         -4-
+
+
+
+    Rentenversicherung ohne zusätzlichen Schutz gegen das Risiko der Berufsunfähigkeit eingerichtet.
+
+5          Das Amtsgericht hat die Ehe der beteiligten Ehegatten - insoweit rechtskräftig - geschieden und den Versorgungsausgleich geregelt. Dabei hat es die
+    Anrechte in der gesetzlichen Rentenversicherung entsprechend der Auskunft
+    der Versorgungsträger intern geteilt. Weiterhin hat es angeordnet, dass im Wege der internen Teilung zu Lasten des Anrechts der Ehefrau bei der Beteiligten
+    zu 3 zugunsten des Ehemanns ein auf das Ende der Ehezeit am 30. Juni 2014
+    bezogenes Anrecht in Höhe von 7.240,79 € übertragen wird und ein Ausgleich
+    des Anrechts des Ehemanns bei der Beteiligten zu 3 nicht stattfindet. Auf die
+    Beschwerde der Ehefrau hat das Oberlandesgericht die Teilungsordnung der
+    Beteiligten zu 3 in den Beschlusstenor aufgenommen und hinsichtlich des Anrechts des Ehemanns bei der Beteiligten zu 3 angeordnet, dass im Wege der
+    externen Teilung zugunsten der Ehefrau ein auf den 30. Juni 2014 bezogenes
+    Anrecht in Höhe von 1.118,77 € bei der Beteiligten zu 2 begründet wird und die
+    Beteiligte zu 3 diesen Betrag nebst Zinsen in Höhe von 3,25 % vom 30. Juni
+    2014 bis zur Rechtskraft der Entscheidung über den Versorgungsausgleich an
+    die Beteiligte zu 2 zu zahlen hat. Im Übrigen hat das Oberlandesgericht die Beschwerde der Ehefrau zurückgewiesen. Gegen diese Entscheidung richtet sich
+    die zugelassene Rechtsbeschwerde der Ehefrau.
+
+
+
+
+                                          B.
+
+6          Die Rechtsbeschwerde führt zur Aufhebung der angefochtenen Entscheidung und zur Zurückverweisung der Sache an das Oberlandesgericht.
+
+                                          -5-
+
+
+
+
+                                            I.
+
+7         Dieses hat seine Entscheidung wie folgt begründet: Da die Ehefrau ausdrücklich die Entscheidung des Amtsgerichts zum Versorgungsausgleich in vollem Umfang zur Überprüfung gestellt habe, liege nicht lediglich eine auf einzelne Anrechte bezogene Teilanfechtung vor. Vielmehr sei die Entscheidung des
+    Amtsgerichts unter jedem Gesichtspunkt einer Überprüfung zu unterziehen.
+
+8         Die Ehezeit reiche vom 1. Juli 2007 bis zum 30. Juni 2014; die Monate
+    Juli und August 2014 seien nicht einzubeziehen. Eine Korrektur der Ehezeit sei
+    nicht geboten, weil es allenfalls um eine kurzzeitige Verschiebung des Ehezeitendes gehe. Im Versorgungsausgleich sei auch die Zustellung eines verfrühten
+    Scheidungsantrags für das Ehezeitende maßgeblich. Handele der Antragsteller
+    mit Schädigungsabsicht oder träten sonst grob unbillige Härten auf, sei eine
+    Korrektur über § 27 VersAusglG möglich. Dass der Ehemann vorliegend in
+    Schädigungsabsicht einen zu frühen Trennungszeitpunkt angegeben und deshalb das Scheidungsverfahren verfrüht eingeleitet habe, lasse sich nicht feststellen. Eine grob unbillige Härte ergebe sich nicht allein daraus, dass - wie von
+    der Ehefrau geltend gemacht - von einem Ehezeitende zum 31. August 2014
+    auszugehen sei. Daher könne dahinstehen, ob der Vortrag der Ehefrau überhaupt zutreffe.
+
+9         Gegen die Ermittlung der Ausgleichswerte in der gesetzlichen Rentenversicherung und des vom Ehemann erworbenen Anrechts in der privaten Altersvorsorge sei daher nichts zu erinnern. Für das von der Ehefrau bei der
+    F. Lebensversicherung erworbene Anrecht „aus einer privaten Lebensversicherung, verbunden mit einer Berufsunfähigkeits-Zusatzversicherung“ sei der Ausgleichswert lediglich geringfügig - und zwar wegen der vom Amtsgericht zu ge-
+
+                                           -6-
+
+
+
+     ring angesetzten hälftigen Teilungskosten - auf 7.215,79 € herabzusetzen. Auszugehen sei von einem Ehezeitanteil aus der mit einer BUZ verbundenen Lebensversicherung von 14.781,57 €. In dessen Ermittlung sei auch der Wert der
+     BUZ mit einem Kapital von 12.628,24 € einzubeziehen. Dem Einwand, die Erhöhung dieses Deckungskapitals werde aus Rückstellungen für Versicherungsleistungen, also letztlich zulasten der Versichertengemeinschaft, erbracht und
+     unterliege deshalb nicht dem Versorgungsausgleich, sei nicht zu folgen. Die
+     Beteiligte zu 3 habe bei der internen Teilung nach ihrer Teilungsordnung den
+     Risikoschutz auf eine Altersversorgung beschränkt, weshalb sie nach § 11
+     Abs. 1 Nr. 3 VersAusglG verpflichtet sei, für das nicht abgesicherte Risiko der
+     Berufsunfähigkeit einen Ausgleich in der Altersversorgung zu schaffen. Gegen
+     den Grundgedanken dieser Vorschrift würde es verstoßen, das auf die BUZ
+     entfallende Deckungskapital vom Wertausgleich auszunehmen. Zudem erfolge
+     nach § 28 Abs. 1 VersAusglG ein Wertausgleich in Bezug auf die BUZ ohnehin
+     nur in den Fällen, in denen eine Leistung bereits bezogen werde. Wenn somit
+     nach dem Willen des Gesetzgebers eine BUZ nur dann dem Wertausgleich unterliege, sofern sich das Risiko der Berufsunfähigkeit bereits in der Ehezeit verwirklicht habe, spreche dies dafür, dass das Anrecht dann auch in vollem Umfang ausgeglichen werde. Dies gebiete schon der Halbteilungsgrundsatz.
+
+10         Beide von den Ehegatten bei der Beteiligten zu 3 erworbenen Anrechte
+     seien auszugleichen. Sie seien gleichartig im Sinne des § 18 Abs. 1 VersAusglG, die Differenz ihrer Ausgleichswerte sei nicht gering. Wegen des absoluten
+     Vorrangs von § 18 Abs. 1 VersAusglG sei die Vorschrift des § 18 Abs. 2
+     VersAusglG auch nicht auf das Anrecht des Ehemanns anwendbar.
+
+11         Die Anrechte in der gesetzlichen Rentenversicherung sowie das Anrecht
+     der Ehefrau bei der Beteiligten zu 3 seien im Wege der internen Teilung auszugleichen. Für Letzteres sei die maßgebliche Teilungsordnung in den Tenor auf-
+
+                                          -7-
+
+
+
+     zunehmen. Das Anrecht des Ehemanns bei der Beteiligten zu 3 sei extern zu
+     teilen. Insoweit sei anzuordnen, dass der Ausgleichswert als Kapitalbetrag
+     nebst Zinsen in Höhe von 3,25 % (entsprechend dem Rechnungszins) vom Ende der Ehezeit bis zur Rechtskraft der Entscheidung über den Versorgungsausgleich zu zahlen sei.
+
+
+
+
+                                            II.
+
+12         Diese Ausführungen unterliegen aufgrund der zulässigen, insbesondere
+     statthaften Rechtsbeschwerde insgesamt der rechtlichen Nachprüfung.
+
+13         1. Das Oberlandesgericht hat die Rechtsbeschwerde unbeschränkt zugelassen, auch wenn es in den Gründen des angefochtenen Beschlusses mit der
+     Verzinsung bei der externen Teilung und der Behandlung der BUZ zwei Rechtsfragen zur Begründung der Zulassungsentscheidung angeführt hat, die sich
+     allein auf die beiden Anrechte der betrieblichen Altersversorgung beziehen.
+     Denn unabhängig davon, ob damit eine - dem Grundsatz nach auch in den
+     Gründen mögliche (vgl. Senatsbeschluss vom 1. Oktober 2014 - XII ZB 635/13 -
+     FamRZ 2015, 37 Rn. 7) - Beschränkung der Rechtsmittelzulassung auf einzelne Anrechte verbunden sein sollte, wäre eine solche wegen der notwendigen
+     wechselseitigen Abhängigkeit aller Anrechte, die aus der im Rahmen der auch
+     vom Oberlandesgericht erörterten Härtefallprüfung nach § 27 VersAusglG vorzunehmenden Gesamtwürdigung folgt, unwirksam (vgl. Senatsbeschluss vom
+     3. Februar 2016 - XII ZB 629/13 - FamRZ 2016, 794 Rn. 7).
+
+14         2. Mit der Rechtsbeschwerde der Ehefrau ist in zulässiger Weise die
+     Entscheidung zum Versorgungsausgleich insgesamt und damit auch insoweit
+     angegriffen, als diese für sie hinsichtlich einzelner Anrechte günstig ist. Denn
+
+                                          -8-
+
+
+
+     die Ehefrau wendet sich unter anderem gegen die vom Oberlandesgericht zur
+     Anwendung der Härtefallregel des § 27 VersAusglG vertretene Auffassung und
+     damit gegen einen Aspekt des Versorgungsausgleichs, der die Einbeziehung
+     aller Versorgungsanrechte erfordert und daher auch einer Beschränkung der
+     Rechtsmitteleinlegung auf einzelne Anrechte entgegensteht.
+
+
+
+
+                                                III.
+
+15         Der mithin gebotenen umfassenden rechtlichen Nachprüfung hält der
+     angefochtene Beschluss nicht in allen Punkten stand.
+
+16         1. Nicht zu beanstanden ist allerdings, dass das Oberlandesgericht für
+     das Ende der gesetzlichen Ehezeit auf die Zustellung des Scheidungsantrags
+     im Juli 2014 abgestellt hat und so gemäß § 3 Abs. 1 Halbsatz 2 VersAusglG
+     zum 30. Juni 2014 gelangt ist. Ohne Erfolg macht die Rechtsbeschwerde geltend, wegen der von der Ehefrau behaupteten Trennung erst im August 2013
+     sei von einem späteren Ehezeitende auszugehen.
+
+17         a) Wie sich ein „verfrüht“ - also vor Ablauf des Trennungsjahrs nach
+     § 1565 Abs. 2 BGB ohne Vorliegen der Voraussetzungen einer Härtefallscheidung im Sinne dieser Vorschrift - gestellter Scheidungsantrag auf das Ehezeitende auswirkt, ist umstritten.
+
+18         aa) Der Senat hat zum früheren Recht für besondere Ausnahmekonstellationen eine Modifikation des in § 1587 Abs. 2 BGB aF (entsprechend jetzt § 3
+     Abs. 1 Halbsatz 2 VersAusglG) geregelten Ehezeitendes über § 242 BGB in
+     Betracht gezogen (vgl. Senatsurteil vom 4. Dezember 1996 - XII ZR 231/95 -
+     FamRZ 1997, 347, 348). Zum Versorgungsausgleich hat er es in zwei Fällen als
+     nach Treu und Glauben gemäß § 242 BGB geboten erachtet, für das Ehezeit-
+
+                                          -9-
+
+
+
+     ende abweichend von § 1587 Abs. 2 BGB aF und jeweils entgegen dem Ansinnen des Ausgleichspflichtigen nicht auf die Zustellung des Scheidungsantrags,
+     sondern auf den Zeitpunkt der Fortführung des Ehescheidungsverfahrens abzustellen. Dem lagen Sachverhalte zugrunde, in denen sich die Ehegatten nach
+     Zustellung des Scheidungsantrags wieder versöhnt hatten und das - von den
+     Ehegatten für erledigt gehaltene - Scheidungsverfahren mehr als fünf bzw. sieben Jahre geruht hatte. Denn in einem solchen Fall sei entsprechend dem
+     Grundgedanken des Versorgungsausgleichs das Vertrauen auf die weitere
+     Teilhabe an einer gemeinsam aufgebauten Alterssicherung zu schützen (Senatsbeschlüsse vom 18. Dezember 1985 - IVb ZB 74/82 - FamRZ 1986, 335 f.
+     und vom 5. Februar 1986 - IVb ZB 56/85 - FamRZ 1986, 449).
+
+19         Hieran anschließend hält eine Meinung auch unter der Geltung des Versorgungsausgleichsgesetzes ein Hinausschieben des Ehezeitendes nach § 242
+     BGB für möglich, um gewichtige Nachteile für einen Ehegatten abzuwenden
+     (BeckOK BGB/Bergmann [Stand: 1. Februar 2017] § 3 VersAusglG Rn. 2;
+     Bergmann in Scholz/Kleffmann/Motzer Praxishandbuch Familienrecht [Stand:
+     31. EL 2016] Teil M Rn. 35; Borth Versorgungsausgleich 8. Aufl. Kap. 1
+     Rn. 154; Erman/Norpoth BGB 14. Aufl. § 3 VersAusglG Rn. 3; Finger FuR
+     2011, 431, 435; Palandt/Brudermüller BGB 76. Aufl. § 3 VersAusglG Rn. 5;
+     Wick Der Versorgungsausgleich 4. Aufl. Rn. 132a; wohl auch Ruland Versorgungsausgleich 4. Aufl. Rn. 179).
+
+20         bb) Demgegenüber wird nach einer anderen Auffassung das Ehezeitende bei einem erfolgreichen Scheidungsantrag stets durch die Zustellung dieses
+     Antrags bestimmt (Kemper Das familienrechtliche Mandat Versorgungsausgleich 2. Aufl. § 4 Rn. 69), wobei in schwerwiegenden Fällen eine Korrektur
+     über § 27 VersAusglG in Betracht zu ziehen sei (Johannsen/Henrich/Holzwarth
+     Familienrecht 6. Aufl. § 3 VersAusglG Rn. 9; jurisPK-BGB/Breuers [Stand:
+
+                                          - 10 -
+
+
+
+     15. November 2016] § 3 VersAusglG Rn. 18; NK-BGB/Götsche 3. Aufl. § 3 VersAusglG Rn. 16).
+
+21         b) Die Berücksichtigung von Nachteilen, die einem Ehegatten aus einer
+     verfrühten Scheidungsantragstellung erwachsen, kann im Versorgungsausgleich allenfalls nach § 27 VersAusglG erfolgen. Das Oberlandesgericht hat
+     mithin zu Recht angenommen, dass sich ein derartiger Umstand nicht durch
+     eine Verschiebung des Ehezeitendes, sondern nur als Härtefall unter den
+     Voraussetzungen des § 27 VersAusglG im Wege der Beschränkung oder des
+     Wegfalls des Versorgungsausgleichs auswirken kann.
+
+22         aa) Unter der Geltung des früheren Versorgungsausgleichsrechts enthielt
+     das Gesetz insbesondere mit §§ 1587 c, 1587 h BGB Korrekturvorschriften, auf
+     deren Grundlage treuwidriges Einwirken des insgesamt ausgleichsberechtigten
+     Ehegatten auf seine Anrechte sanktioniert werden konnte (vgl. BT-Drucks.
+     16/10144 S. 68). Dabei handelte es sich um allein anspruchsbegrenzende
+     Normen (vgl. Senatsbeschlüsse vom 24. April 2013 - XII ZB 172/08 - FamRZ
+     2013, 1200 Rn. 16 und BGHZ 133, 344 = FamRZ 1996, 1540, 1542). Eine Anspruchserweiterung, die durch eine gegen Treu und Glauben verstoßende Einflussnahme auf den Versorgungsausgleich bedingt war, konnte mittels dieser
+     Bestimmungen hingegen nicht erreicht werden. Daher blieb in den Fällen, in
+     denen sich der (insgesamt) ausgleichspflichtige Ehegatte auf ein früheres Ehezeitende berief, allenfalls der Rückgriff auf § 242 BGB, um eine der Halbteilung
+     entsprechende Teilhabe des anspruchsberechtigten Ehegatten sicherzustellen
+     (so die Fallgestaltungen in den Senatsbeschlüssen vom 18. Dezember 1985
+     - IVb ZB 74/82 - FamRZ 1986, 335 und vom 5. Februar 1986 - IVb ZB 56/85 -
+     FamRZ 1986, 449). Die Grundsätze von Treu und Glauben bildeten dabei
+     - ihrer Stellung als übergeordnetes Rechtsprinzip entsprechend - das für besondere Ausnahmefälle heranzuziehende Korrektiv (vgl. Senatsurteil vom
+
+                                          - 11 -
+
+
+
+     4. Dezember 1996 - XII ZR 231/95 - FamRZ 1997, 347, 348; Senatsbeschlüsse
+     vom 18. Dezember 1985 - IVb ZB 74/82 - FamRZ 1986, 335; vom 13. Oktober
+     1982 - IVb ZB 601/81 - FamRZ 1983, 38, 40 und vom 27. Februar 1980
+     - IV ZB 7/79 - FamRZ 1980, 552, 554; aA Borth Versorgungsausgleich 8. Aufl.
+     Kap. 1 Rn. 154 unter Hinweis auf BR-Drucks. 191/77 [Beschluss] S. 7 f.).
+
+23         bb) Im Rahmen der Einführung des Versorgungsausgleichsgesetzes hat
+     der Gesetzgeber mit § 27 VersAusglG für den Bereich des Versorgungsausgleichs eine spezielle Korrekturvorschrift geschaffen, um groben Unbilligkeiten
+     aller Art im Einzelfall begegnen zu können. Die Bestimmung des § 27 VersAusglG enthält eine Regelung, die den allgemeinen Grundsatz von Treu und Glauben insoweit konkretisiert und in den Fällen - dann anstelle der zivilrechtlichen
+     Generalklausel des § 242 BGB - eingreifen soll, in denen die schematische
+     Durchführung des Versorgungsausgleichs zu einem der Gerechtigkeit in nicht
+     erträglicher Weise widersprechenden Ergebnis führen würde (vgl. BT-Drucks.
+     16/10144 S. 67 f.). Soweit der Anwendungsbereich des § 27 VersAusglG reicht,
+     bleibt für § 242 BGB mithin kein Raum.
+
+24         Sofern sich ein verfrühter Scheidungsantrag als treuwidriges Verhalten
+     im Rahmen des Versorgungsausgleichs darstellt, das zu einer unbilligen Härte
+     führt, ist deshalb die Korrektur über § 27 VersAusglG vorzunehmen. Dies ist
+     auch sachgerecht: Nach dem geltenden Recht erfolgt der Ausgleich einzelner
+     Anrechte, so dass nun dem Grundsatz nach einer Treuwidrigkeit des überwiegend ausgleichspflichtigen Ehegatten im Wege der Kürzung des an ihn vorzunehmenden Einzel-Ausgleichs begegnet werden kann. Nur auf diese Weise
+     wird zudem gewährleistet, dass die Interessen der beteiligten Versorgungsträger gewahrt werden. Diese wären nämlich bei einem Rückgriff auf § 242 BGB
+     und einer darauf beruhenden Verschiebung des Ehezeitendes dadurch betroffen, dass sie mehr als den Hälfteanteil der in der Ehezeit erworbenen Anrechte
+
+                                           - 12 -
+
+
+
+     ausgleichen müssten und so mit Versorgungsrisiken belastet werden könnten,
+     die nicht der gesetzlichen Ehezeit entstammen (vgl. Senatsbeschluss vom
+     19. Juni 2013 - XII ZB 633/11 - FamRZ 2013, 1362 Rn. 10; Hauß/Bührer Versorgungsausgleich und Verfahren in der Praxis 2. Aufl. Rn. 766).
+
+25         cc) Nach § 27 VersAusglG findet ein Versorgungsausgleich ausnahmsweise nicht statt, soweit er grob unbillig wäre. Dies ist nur der Fall, wenn die
+     gesamten Umstände des Einzelfalls es rechtfertigen, von der Halbteilung abzuweichen. Ob und in welchem Umfang die Durchführung des Versorgungsausgleichs grob unbillig erscheint, unterliegt der tatrichterlichen Beurteilung. Diese
+     ist im Verfahren der Rechtsbeschwerde allerdings daraufhin zu überprüfen, ob
+     alle wesentlichen Umstände berücksichtigt worden sind und das Ermessen in
+     einer dem Gesetzeszweck entsprechenden Weise ausgeübt worden ist (Senatsbeschluss vom 21. September 2016 - XII ZB 264/13 - FamRZ 2007, 26
+     Rn. 18 mwN).
+
+26         c) Danach sind, wie das Oberlandesgericht zutreffend angenommen hat,
+     die Voraussetzungen für eine Korrektur des Versorgungsausgleichs aufgrund
+     verfrühter Scheidungsantragstellung nicht gegeben.
+
+27         Vorliegend streiten die Ehegatten um zwei Monate, in denen der Ehemann - anders als die bereits berufsunfähige Ehefrau - noch (ehezeitliche) Anwartschaften in der gesetzlichen Rentenversicherung erworben sowie durch
+     Einzahlungen in die betrieblichen Altersversorgung eine Steigerung von deren
+     Rückkaufs- und Kapitalwert erlangt hat, woran die Ehefrau im Wege des Versorgungsausgleichs partizipieren könnte. Eine grobe Unbilligkeit ist insoweit
+     weder ersichtlich noch von der Rechtsbeschwerde dargelegt. Insbesondere
+     fehlt es an jeglichen Ausführungen zum Umfang des der Ehefrau hierdurch
+     eventuell entstandenen Nachteils. Angesichts des Versicherungsverlaufs des
+
+                                           - 13 -
+
+
+
+     Ehemanns in der gesetzlichen Rentenversicherung können insoweit allenfalls
+     geringe Beträge in Rede stehen.
+
+28         Für die betriebliche Altersversorgung des Ehemanns gilt nichts anderes.
+     Die hierzu von der Rechtsbeschwerde bemühte Argumentation, die Treuwidrigkeit ergebe sich bereits daraus, dass für ihn - anders als für die Ehefrau - in den
+     Monaten Juli und August 2014 noch Einzahlungen in die betriebliche Altersversorgung erfolgt seien, ist zur Darlegung einer groben Unbilligkeit ungeeignet.
+     Angesichts des geringen gesamten ehezeitlichen Ausgleichswerts dieser Versorgung liegt ein relevanter Nachteil der Ehefrau aufgrund des von ihr geltend
+     gemachten Zusatz-Zeitraums fern.
+
+29         2. Von Rechtsfehler beeinflusst sind hingegen die Ausführungen des
+     Oberlandesgerichts zu den Auswirkungen des laufenden Bezugs der Berufsunfähigkeitsrente durch die Ehefrau auf die Bewertung des Ehezeitanteils ihrer
+     betrieblichen Altersversorgung.
+
+30         a) Es bleibt bereits unklar, ob das Oberlandesgericht insoweit vom Vorliegen eines Anrechts der Privatvorsorge im Sinne des § 28 Abs. 1 VersAusglG
+     oder aber von einer betrieblichen Altersversorgung ausgeht. Zutreffend ist Letzteres. Die Arbeitgeberin der Ehefrau hat die vorliegende Versicherung als Versicherungsnehmerin auf das Leben und gegen das Risiko der Berufsunfähigkeit
+     der Ehefrau abgeschlossen und der Ehefrau ein Bezugsrecht für die Leistungen
+     aus dieser Versicherung eingeräumt. Mithin handelt es sich um eine Direktversicherung im Sinne des Betriebsrentengesetzes und deshalb, wie das Amtsgericht zutreffend gesehen hat, um ein Anrecht der betrieblichen Altersversorgung. Hierauf findet die Vorschrift des § 28 Abs. 1 VersAusglG nicht unmittelbar
+     und - mangels planwidriger Gesetzeslücke - auch nicht entsprechend Anwen-
+
+                                           - 14 -
+
+
+
+     dung (vgl. Senatsbeschluss vom 21. Juni 2017 - XII ZB 636/13 - juris Rn. 13 ff.
+     mwN).
+
+31           b) Jedenfalls aber hat das Oberlandesgericht rechtsfehlerhaft nicht geprüft, ob im Zusammenhang mit der BUZ zugunsten der Ehefrau die Härteklausel des § 27 VersAusglG eingreift.
+
+32           aa) Wie der Senat nach Erlass der angefochtenen Entscheidung ausgesprochen hat, ist der Grundgedanke der zum Ausgleich von Beamtenversorgungen ergangenen Senatsrechtsprechung, mit der eine Herabsetzung des
+     Versorgungsausgleichs bei wegen Dienstunfähigkeit durch beamtenrechtliche
+     Zurechnungszeiten erhöhter Versorgung unter bestimmten Voraussetzungen
+     gebilligt wurde, auch auf betriebliche Versorgungen zu übertragen, deren Kapitalwert infolge des ehezeitlichen Eintritts der Invalidität des Versorgungsempfängers signifikant gestiegen ist. Würde der ungekürzte Ausgleich dem ausgleichsberechtigten (nicht invaliden) Ehegatten eine unverhältnismäßig hohe
+     Altersversorgung aus dem Anrecht verschaffen, kann es auch in diesen Fällen
+     geboten sein, den Ausgleich gemäß § 27 VersAusglG zu beschränken und statt
+     auf den Kapitalwert der laufenden Invaliditätsrente auf fiktive Anwartschaftswerte abzustellen, die sich ergeben hätten, wenn kein Versorgungsfall eingetreten
+     wäre (Senatsbeschluss vom 21. Juni 2017 - XII ZB 636/13 - juris Rn. 25 mwN).
+
+33           Dies gilt nach der Rechtsprechung des Senats auch - und erst recht - für
+     den Ausgleich einer als betriebliche Direktversicherung eingerichteten Berufsunfähigkeitsversicherung. Die Erwägungen, die den Gesetzgeber bei der Reform des Versorgungsausgleichs veranlasst haben, die Invaliditätsrente aus
+     einer privaten Berufsunfähigkeitsversicherung vom Versorgungsausgleich auszunehmen, wenn der ausgleichsberechtigte Ehegatte selbst keine Invaliditätsrente bezieht und auch die gesundheitlichen Voraussetzungen dafür nicht erfüllt
+
+                                          - 15 -
+
+
+
+     (§ 28 Abs. 1 VersAusglG), treffen gleichermaßen für solche Berufsunfähigkeitsversicherungen zu, die durch den Arbeitgeber als Versicherungsnehmer im
+     Rahmen einer Direktversicherung zugunsten der ausgleichspflichtigen Person
+     eingerichtet worden sind (Senatsbeschluss vom 21. Juni 2017 - XII ZB 636/13 -
+     juris Rn. 26 ff. mwN).
+
+34         Der Bestimmung des § 28 VersAusglG lässt sich daher ein allgemeiner
+     und über den Bereich der Privatvorsorge hinausgreifender Rechtsgedanke dahingehend entnehmen, dass die Einbeziehung einer laufenden Invaliditätsrente
+     in den Versorgungsausgleich grundsätzlich unbillig erscheint, wenn und soweit
+     der Ausgleich dazu führt, dass dem ausgleichsberechtigten Ehegatten bei eigener fortbestehender Erwerbsfähigkeit der gesamte Ausgleichswert vollständig
+     für die Altersversorgung zur Verfügung steht, während das bei der ausgleichspflichtigen Person verbleibende Anrecht (auch) die Zeit seiner Invalidität bis
+     zum Erreichen der Altersgrenze mit abdecken muss (Senatsbeschluss vom
+     21. Juni 2017 - XII ZB 636/13 - juris Rn. 30). Dies verkennt das Oberlandesgericht, wenn es den Regelungsgehalt des § 28 Abs. 1 VersAusglG darauf verengt, dass sich das Risiko der Berufsunfähigkeit in der Ehezeit verwirklicht haben müsse.
+
+35         Nichts anderes folgt entgegen der Annahme des Oberlandesgerichts aus
+     § 11 Abs. 1 Nr. 3 VersAusglG. Nach dieser Vorschrift muss ein Versorgungsträger, der bei der internen Teilung den Risikoschutz des ausgleichsberechtigten Ehegatten im Gegensatz zur Versorgung des Ausgleichspflichtigen auf eine
+     Altersversorgung beschränkt, für das dann nicht abgesicherte Risiko einen zusätzlichen Ausgleich bei der Altersversorgung schaffen. Ob dieser zusätzliche
+     Ausgleich bei laufendem Leistungsbezug des Ausgleichspflichtigen wegen Berufsunfähigkeit dem Kapitalwert der BUZ nach Eintritt des Versorgungsfalls oder
+
+                                            - 16 -
+
+
+
+     demjenigen bei fiktiver weiterer Erwerbstätigkeit entsprechen muss, ist damit
+     jedoch nicht vorgegeben.
+
+36         bb) Auch wenn die Anwendung der Härteklausel gemäß § 27
+     VersAusglG eine umfassende Gesamtabwägung der wirtschaftlichen, sozialen
+     und persönlichen Verhältnisse beider Ehegatten verlangt, muss der in § 28 VersAusglG zum Ausdruck kommenden gesetzgeberischen Wertentscheidung im
+     Rahmen der Billigkeitsabwägung nach § 27 VersAusglG ein erhebliches Gewicht beigemessen werden. In den Fällen, in denen eine laufende (hier: betriebliche) Invaliditätsrente zugunsten eines erwerbsfähigen Ehegatten ausgeglichen
+     werden soll, ist die Durchführung des ungekürzten Versorgungsausgleichs nicht
+     schon deshalb ohne weiteres gerechtfertigt, weil der ausgleichspflichtige Ehegatte auf das Behaltendürfen seiner ungekürzten Invaliditätsrente nicht dringend angewiesen ist und/oder die Altersversorgung des ausgleichsberechtigten
+     Ehegatten noch nicht gesichert erscheint (Senatsbeschluss vom 21. Juni 2017
+     - XII ZB 636/13 - juris Rn. 30 mwN).
+
+37         3. Die angefochtene Entscheidung hat daher keinen Bestand. Sie ist insgesamt aufzuheben und die Sache an das Oberlandesgericht zurückzuverweisen (§ 74 Abs. 5 und 6 Satz 2 FamFG), weil durch den Tatrichter die umfassende, die vorstehenden Maßgaben berücksichtigende Gesamtabwägung nach
+     § 27 VersAusglG vorzunehmen ist.
+
+38         Für den Fall, dass es zum Ausgleich der betrieblichen Altersversorgung
+     des Ehemanns kommt, weist der Senat darauf hin, dass die Rechtsbeschwerde
+     sich ohne Erfolg gegen die vom Oberlandesgericht hierzu angeordnete Verzinsung von 3,25 % wendet. Die von der Rechtsbeschwerde insoweit erhobene
+     Rüge, bei einer beitragsorientierten Leistungszusage wie der vorliegenden sei
+     für die Verzinsung der im Rahmen der Barwertermittlung tatsächlich verwende-
+
+                                    - 17 -
+
+
+
+te - hier nicht festgestellte - Abzinsungsfaktor, nicht aber der Rechnungszins
+maßgeblich, geht fehl. Die von der Rechtsbeschwerde herangezogene Senatsrechtsprechung (Senatsbeschluss vom 21. September 2016 - XII ZB 447/14 -
+FamRZ 2016, 2076 Rn. 24) zur Maßgeblichkeit des bei der Barwertermittlung
+verwendeten Abzinsungsfaktors auch für die Verzinsung des Ausgleichswerts
+vom Ende der Ehezeit bis zur Rechtskraft der Entscheidung über den Versorgungsausgleich ist vorliegend nicht einschlägig. Denn nach § 45 Abs. 1 Satz 1
+VersAusglG ist bei einer wie hier über eine Direktversicherung durchgeführten
+betrieblichen Altersversorgung der Kapitalwert nach § 4 Abs. 5 Satz 2 BetrAVG
+maßgeblich. Dieser entspricht für die Hauptversicherung dem Rückkaufswert
+(vgl. etwa Rolfs in Blomeyer/Rolfs/Otto BetrAVG 6. Aufl. § 4 Rn. 166 ff.), zu
+dessen Ermittlung eine Diskontierung nicht stattgefunden hat. Gleiches gilt für
+den Kapitalwert der BUZ. Dementsprechend hat das Oberlandesgericht zutreffend den von der F. Lebensversicherung verwendeten Rechnungszins - der mit
+
+                                     - 18 -
+
+
+
+dem für den Vertrag geltenden „Garantiezinssatz“ identisch ist - auch für seinen
+Zinsausspruch herangezogen (vgl. Senatsbeschluss BGHZ 191, 36 = FamRZ
+2011, 1785 Rn. 28).
+
+Dose                              Schilling                   Nedden-Boeger
+
+                Botur                            Guhling
+
+
+
+
+Vorinstanzen:
+AG Strausberg, Entscheidung vom 07.07.2015 - 2.2 F 223/14 -
+OLG Brandenburg, Entscheidung vom 01.12.2016 - 10 UF 101/15 -
