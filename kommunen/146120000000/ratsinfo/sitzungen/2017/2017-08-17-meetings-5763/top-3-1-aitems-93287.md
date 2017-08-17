@@ -1,0 +1,7 @@
+# TOP 3.1: Solidarpakt 2, Finanzausgleichsgesetz: Künftige finanzielle Situation der Landeshauptstadt Dresden
+
+- Sitzung: 41. Sitzung des Stadtrates (2017-08-17)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/93287
+- Ergebnis: erledigt
