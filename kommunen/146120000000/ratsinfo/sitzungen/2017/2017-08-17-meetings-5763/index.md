@@ -1,0 +1,56 @@
+# 41. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-08-17T16:00:00+02:00
+- Ende: 2017-08-17T22:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5763
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5763
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00308488.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 3.1: Solidarpakt 2, Finanzausgleichsgesetz: Künftige finanzielle Situation der Landeshauptstadt Dresden - erledigt
+- TOP 3.2: Genehmigungen von Feuerwerken - erledigt
+- TOP 3.3: Sachstand der Bebauungspläne am Jägerpark - erledigt
+- TOP 3.4: Schuleinführung an der 89. Grundschule - erledigt
+- TOP 3.5: Schulverpflegung in Klotzsche - erledigt
+- TOP 3.6: 88. Grundschule - erledigt
+- TOP 3.7: Ausschreitungen beim G 20 Gipfel - erledigt
+- TOP 4: Aktuelle Stunde zum Thema "Starkregen, Hitze, Hochwasser - Wie reagiert die Stadt auf den Klimawandel?" - erledigt
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ausschuss
+- TOP 5.1: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 5.2: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 6.1: Seniorenbeirat - Vertagung
+- TOP 7: Einigungsverfahren Gremienbesetzung- Ortsbeirat
+- TOP 7.1: Umbesetzung im Ortsbeirat Plauen - Vertagung
+- TOP 8: Temporäre Umbesetzung der Vertretung des Bildungsbüros Dresden im Bildungsbeirat gemäß § 8 (2) der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden und Stadtratsbeschluss SR/032/2016 für die Zeit vom 14. August 2017 bis 31. Dezember - Zustimmung
+- TOP 9: Umbesetzung in der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - Zustimmung
+- TOP 10: Umbesetzung in der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) – Hauptausschuss - Zustimmung
+- TOP 11: Vertagungen/Verweisungen der letzten Stadtratssitzung vom 22./23.06.2017
+- TOP 11.1: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - punktweise Zustimmung mit Ergänzung
+- TOP 11.2: Satzung zur Änderung der Elternbeitragssatzung vom 15. Mai 2014 - Verweisung
+- TOP 11.3: Teilgebiets-Lärmaktionsplan Äußere Neustadt (2016) - Zustimmung mit Änderung
+- TOP 11.4: Klimaschutzziele der Stadt erfüllen - Nutzung von Solarenergie beim städtischen Hochbau - Zustimmung
+- TOP 12: Tagesordnungspunkte ohne Debatte
+- TOP 13: Überplanmäßige Mittelbereitstellung für die Ausführung des Unterhaltsvorschussgesetzes (UhVorschG) durch die Landeshauptstadt Dresden in der ab dem 1. Juli 2017 geltenden Fassung - Zustimmung
+- TOP 14: Neufassung der Satzung der Landeshauptstadt Dresden über die Entschädigung für die ehrenamtliche Tätigkeit bei Wahlen, Volks- und Bürgerentscheiden (Entschädigungssatzung Wahlen, Volks- und Bürgerentscheide) - Zustimmung
+- TOP 15: Bildung und Teilhabe aus einer Hand - dauerhafte Übertragung des Bildungspaketes vom Jobcenter Dresden auf die Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Bebauungsplan Nr. 336, Dresden-Strehlen Nr. 3, Wohnanlage Geystraße Süd - Vertagung nach 22 Uhr
+- TOP 17: Aufhebung des Erbbaurechtes für das Grundstück Tornaer Straße 40 - Vertagung
+- TOP 18: Abschluss einer "Betriebsvereinbarung zur Regelung von Betrieb, Unterhaltung und Lagerung des mobilen Anteils im Zuge der Hochwasserschutzmaßnahmen zum Schutz Dresdens vor Hochwasser der Elbe" mit der Landestalsperrenverwaltung d. Freistaates Sachsen - Zustimmung
+- TOP 19: Ermittlung der Investitionsnotwendigkeiten in die städtische Schulinfrastruktur - Vertagung nach 22 Uhr
+- TOP 20: Gründung der "Universitätsschule" in kommunaler Trägerschaft zum Schuljahr 2018/19 - Zustimmung mit Änderung
+- TOP 21: Erwerb der ehemaligen Tanzschule und Wohnhaus Mary Wigmans, Villa Bautzner Straße 107 - Zustimmung mit Änderung
+- TOP 22: Für einen Fernbusbahnhof mit Fahrradparkhaus am Hauptbahnhof! - Vertagung nach 22 Uhr
+- TOP 23: Einführung des Handyparkens für Dresden - Vertagung nach 22 Uhr
+- TOP 24: Änderung der Sondernutzungssatzung - Zustimmung
+- TOP 25: ausgereichte Informationsvorlage
+- TOP 25.1: Übertragung der investiven Budgetreste vom Haushaltsjahr 2016 nach 2017 - zur Kenntnis genommen
