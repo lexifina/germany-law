@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-08-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4597653
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4597653
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben- Nutzungsänderung Ligsalzstr. 5
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Baumschutz Tulbeckstraße
+- TOP 4.2.: Wiedereinführung des absoluten Haltverbots rechts und links neben der Garagenzufahrt Tulbeckstr. 43
+- TOP 6.1.1.: Sondernutzung - Freischankfläche Landsberger Str. 135
+- TOP 6.1.2.: Sondernutzung - Betriebszeitänderung einer bestehenden Freischankfläche Parkstr. 30
+- TOP 6.2.2.: Fristverlängerung zum Antrag "Situation Schwanthalerstr. 119"
+- TOP 6.3.1.: Gaststättenfortführung Schwanthalerstr. 143
+- TOP 6.3.2.: Erhalt des "Hauses mit der Roten Fahne" (Tulbeckstr. 4f)
+- TOP 6.3.3.: Meldelisten Bauvorhaben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: 2. Schulbauprogramm - Nutzung des Grundstücks an der Ganghoferstr. (MK II)
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Verkehrskontrollen am "Stöpsel" - Trappentreustraße
+- TOP 8.1.2.: Kontrollmaßnahmen und Sanktionen für Kraftfahrer in der Fahrradstraße Gollierstraße
+- TOP 8.1.3.: Anpassung der Verkehrssituation am Gollierplatz
+- TOP 8.1.4.: (E) Verkehrskontrollen am „Stöpsel“ - Trappentreustraße
+- TOP 8.1.5.: (E) Kontrollmaßnahmen und Sanktionen für Kraftfahrer in der Fahrradstraße Gollierstraße
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Oldtimer- und Motorrollertreffen am Tag des offenen Denkmals vor dem Verkehrszentrum
+- TOP 8.2.2.: Antrag auf Baumfällung - Bergmannstr. 51
+- TOP 8.2.3.: Fahrradland Deutschland - Forderungen des ADFC
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Parkraummanagement: Lizenzgebiet Schwanthalerhöhe
+- TOP 8.3.2.: Parkplatzsituation Westend
+- TOP 8.3.3.: Gefahrenbaum am Spielplatz Gießerweg
+- TOP 8.3.4.: Beschleunigter Ausbau der VDSL2-Vectoring-Technik durch die Deutsche Telekom
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Stadtbezirksbudget und Bestellung städtischer Leistungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Straßenbegleitgrün entlang der Heimeranstraße von der Einmündung Ganghoferstraße bis Haus Nr. 39, südseitig
+- TOP 11.1.: Termine BA-Sitzungen 2018
+- TOP 11.2.: Wiesn-Termin 2017
