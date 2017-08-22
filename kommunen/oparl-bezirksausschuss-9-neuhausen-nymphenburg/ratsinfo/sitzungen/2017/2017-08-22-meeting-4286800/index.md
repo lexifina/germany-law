@@ -1,0 +1,119 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-08-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286800
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286800
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) + (U) Schnellstmögliche Einberufung einer Einwohnerversammlung zur Planfeststellung 2. S-Bahn-Stammstrecke BV-Empfehlung Nr. 14-20 / E 01323 der Bürgerversammlung des Stadtbezirkes 9 vom 17.11.2016
+- TOP 3.1.2.: (E) Zebrastreifen über die Schloßschmidstraße, 80639 München
+- TOP 3.1.3.: Schulstraße 28 - Änderung einer bestehenden Freischankfläche
+- TOP 3.1.4.: Renatastraße 14 - Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Verkehrs- und Funktionskonzept für den Bereich um den Rotkreuzplatz
+- TOP 3.2.2.: Friedenheimer Brücke: Fahrrad-Abstellanlagen schaffen
+- TOP 3.2.3.: Einschränkungen für den fließenden Verkehr durch die Parksituation im Bereich Schloßschmidstraße / Eisnergutbogen
+- TOP 3.2.4.: Parksituation an der Richelstraße
+- TOP 3.2.5.: Parkzeitbeschränkung am Westfriedhof
+- TOP 3.2.6.: Parksituation an der Dom-Pedro-Straße
+- TOP 3.2.7.: Radverkehr in der Canalettostraße
+- TOP 3.2.8.: Verkehrssituation Dachauer Straße
+- TOP 3.2.9.: Verkehrssituation Lachner-/Nibelungenstr. - Nachfrage zu Antrag Nr. B 03019
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Öffnung der Bernabeistraße für den gegenläufigen Radverkehr
+- TOP 3.3.2.: Blutenburgstraße 17 - Aufstellung von Sitzgelegenheiten
+- TOP 3.3.3.: Sanierung der Bushaltestellen Donnersbergerbrücke
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Fahrradständer an der Unterführung Friedenheimer Brücke
+- TOP 3.4.2.: Bolivarstraße / Ecke Lachmannstraße: Parkmissstände behindern und gefährden Verkehrsteilnehmer_innen
+- TOP 3.4.3.: Bau eines Fuß- und Radwegprovisoriums südlich der Richelstraße (im Zuge der Fertigstellung des Rad- und Fußweges vom Hauptbahnhof bis Pasing, Empfehlung Nr. 08-14 / E 02103 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 21.11.2013)
+- TOP 3.4.4.: Verkehrsüberwachung in der Hirschbergstraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Verzicht auf neue Autotunnel an der Landshuter Allee, Tegernseer Landstraße und Schleißheimer Straße Antrag Nr. 14-20 / A 02944 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 10.03.2017
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen: Albrechtstraße, Volpinistraße, Hubertusstr., Wilhelm-Hale-Str., Franz-Schrank-Str., Esebeckstr.
+- TOP 3.5.3.: Linienverlängerung StadtBus 153
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Dall&#039;Armistr. 38 - 42 - Umbau, Sanierung und Erweiterung dreier Reihenhäuser
+- TOP 4.3.2.: Postillonstraße 3 - Neubau einer Wohnanlage mit Tiefgarage und Kindertagesstätte
+- TOP 4.3.3.: Richildenstraße 6 - Neubau eines Wohngebäudes (2 WE) mit 2 Garagen
+- TOP 4.3.4.: Tizianstr. 31 - Neubau eines Einfamilienhauses mit 2 Stellplätzen
+- TOP 4.3.5.: Wilhelm-Hale-Straße – Errichtung einer Wartehalle mit Werbevitrine
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: SWM: Ehemaliges Stationshaus am Romanplatz
+- TOP 4.4.2.: Schließung der Postfiliale Renatastraße 20a
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten über Bauvorhaben im Stadtbezirk (LBK)
+- TOP 4.5.2.: Grundstücksgeschäft in der Rüthlingstraße
+- TOP 4.5.3.: Organisation der Weihnachtsbeleuchtung
+- TOP 4.5.4.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Erhalt der Pappeln im Anwesen Nymphenburger Straße 137
+- TOP 5.2.2.: Sitzgelegenheiten in der Grünanlage Dom-Pedro-Straße / Maximilian-Wetzger-Straße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: BAUMFÄLLUNGSANTRÄGE: - Brunhildenstr. 4 - Kemnatenstr. 39 - Volpinistr. 80 - Nymphenburger Str. 90 - Bandelstr. 24 - Baldurstr. 91 - Kratzerstr. 27
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Pflege und Instandsetzung des Arnulfparks
+- TOP 5.5.2.: Baumfällungen auf öffentlichem Grund
+- TOP 5.5.3.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Ruhestörung durch Lärm auf der Gerner Brücke
+- TOP 6.2.2.: Reduktion der Lärmbelastung an der Seidlhofstraße (Grünfläche)
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Anfrage über historische Stadtteilgrenzen
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Präsentation Laborgespräch Kreativquartier
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Tennisanlage Postillonstraße 3 - weitergehender Tennisbetrieb
+- TOP 8.4.2.: Gepl. Kindertagesstätte an der Dachauer Straße
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: BA-9 Sitzungstermine 2018
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Standortkonzept für die Bürgerbüros der LHM Anhörungsfrist: 01.09.2017
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Einführung von Terminvereinbarungen im Bürgerbüro
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
