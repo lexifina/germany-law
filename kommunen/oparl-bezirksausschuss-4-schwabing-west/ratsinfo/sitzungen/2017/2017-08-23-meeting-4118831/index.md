@@ -1,0 +1,116 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-08-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.1.: Parkregelung an den E-Ladesäulen in der Hiltenspergerstraße (vertagt aus 07/17)
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Condrobs e.V. Reparatur des Lastenaufzuges
+- TOP 2.2.: Bürger: Bitte um ein Unterstützungsschreiben
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis für Tanzprojekt der Grundschule Wilhelmstraße
+- TOP 3.2.2.: Verwendungsnachweis für das 5. City Stories Geschichtenfestival
+- TOP 3.2.3.: Sachbericht zum Sommerfest des Sophie-Scholl-Gymnasiums
+- TOP 3.2.4.: Sachbericht zum Jahresprojekt „Kinder treffen Künstler“ der Grundschule Bayernplatz
+- TOP 3.2.5.: Änderungsbescheid: Verlängerung des Bewilligungszeitraums für Naturführungen
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Änderung der Sondernutzungsgebührensatzung
+- TOP 2.1.2.: Hohenzollernstr. 45: Aufstellen einer Kleiderstange
+- TOP 2.1.3.: Lerchenauer Straße, Versetzung der City-Light-Säule (beleuchtet) für die wechselnde Produktwerbung (Neuaufbau)
+- TOP 2.1.4.: Schleißheimer Straße, Versetzung einer beleuchteten City-Light-Säule
+- TOP 2.1.5.: Belgradstraße 34, Seite Destouchesstraße, Aufstellen eines Kleiderständers
+- TOP 2.3.1.: Petuelpark: Sponsorenlauf zugunsten des Vereins „Hilfen für Schulen in Eritrea“ am 05.10.2017
+- TOP 2.3.2.: Agnesstraßenfest am 24.09.2017
+- TOP 2.3.3.: AWM-Verteilaktion (Bioabfall-Kampagne) am 16.09.2017 im Luitpoldpark
+- TOP 2.3.4.: München Marathon am 07.10.2017
+- TOP 2.3.5.: Anhörung zu "Bioeimer-Verteilaktion des AWM" im Oktober/November, drei Standorte
+- TOP 2.3.6.: Hohenzollernplatz, CSU Infostand/Straßenfest am 09.09.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Initiative „Figurentheater“: Kurzbericht zur geförderten Ausstellung
+- TOP 3.2.2.: 84GHz: Kurzbericht zu „Kunst im Karrée“ 2017
+- TOP 3.2.3.: Verwendungsnachweis für Karfreitagskonzert in der Kreuzkirche
+- TOP 3.2.4.: Verwendungsnachweis für Ausstellung „Figurentheater“
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Eilentscheidung des Vorsitzenden: „Play me, I&#039;m yours“ 2017 vom 31.08. bis 18.09.2017 auf dem Hohenzollernplatz (Zustimmung)
+- TOP 3.5.2.: Temporäre Kunst im öffentlichen Raum: „Couch Projekt“ vom 08. bis 11.09.2017, u.a. am Pündterplatz 6
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Viktor-Scheffel-Str. 19: Nutzungsänderung eines Kindergartens im EG zu einer Wohneinheit mit Rückführung der Fassade an den historischen Bestand
+- TOP 2.1.2.: Rheinstr. 24: Nutzungsänderung von Wohn- und Gewerberäumen zur Schaffung von Ersatzwohnraum im Souterrain
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen in einer Wohnung in der Bonner Str. 21
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Versetzen eines Streugut- und zweier Zeitungskästen aus dem Kreuzungsbereich Schleißheimer Straße/Karl-Theodor-Straße
+- TOP 1.2.: Bürgerin. Zusätzliche gewerbliche Parkausweise für sozialen Pflegedienst
+- TOP 1.3.: Bürgerin: Falscher Heckenschnitt und Slacklining in der Grünanlage Degenfeldstraße
+- TOP 1.4.: Bürger: Zusätzliche Bushaltestelle an der Elisabeth-Kohn-Straße
+- TOP 1.5.: Bürger: Bebauungsplan 1905e und schalltechnisches Untersuchung
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hildeboldstr. 16: Fällung eines Spitzahorn
+- TOP 2.1.2.: Herzogstr. 130: Fällung eines Ahorn
+- TOP 2.1.3.: Winzererstr. 27: Fällung eines Bergahorns
+- TOP 2.1.4.: Gernotstr. 1-9: Fällung einer Tuje und zweier Nadelbäume
+- TOP 2.1.5.: Destouchesstr. 60: Fällung einer Fichte
+- TOP 2.2.2.: Ausstiegshaltestelle für die MetroBuslinie 59 im Bereich Ackermannbogen
+- TOP 2.2.3.: Anhörung zur Beschlussvorlage, Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat, turnusmäßige Beschlussvorlage und Bekanntgabe, Sitzungsvorlagennummer 14-20 / V 09644
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Überfüllte Abfallbehälter am Helmut-Fischer-Platz (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen aus der BA-Sitzung am 28.06.2017)
+- TOP 3.1.2.: Sanierungsbedarf bei der Fahrbahn der Düsseldorfer Straße? (Antwort des Baureferats auf weitergeleitetes Bürgeranliegen aus der BA-Sitzung am 28.06.2017)
+- TOP 3.1.3.: Nächtliche Ruhestörung durch die Buslinie 59 an der Georg-Birk-Straße: Endhaltestelle nachts an den Stadtplatz verlegen (Antwort der MVG auf BA-Schreiben vom 01.06.2017)
+- TOP 3.1.4.: Bepflanzungskonzept für den Mittelstreifen der Belgradstraße: Querung im nördlichen Teil der Mittelinsel (Antwort des Baureferats auf BA-Schreiben vom 04.05.2017)
+- TOP 3.1.5.: Blindengerechter Ausbau des Hohenzollernplatzes
+- TOP 3.1.6.: Probephase für mobile Geschwindigkeitsanzeigen, Standortvorschläge in Schwabing, Antwort auf das BA-Schreiben TOP E 2.2.4 07/17
+- TOP 3.1.7.: Mitführen von Hunden in städtischen Grünanlagen – verbesserte Aufklärung und Einhaltung der Grünanlagensatzung
+- TOP 3.1.8.: Öffnen des Durchganges Adams-Lehmann-Straße zur Wintererstraße, BA-Schreiben E 2.2.6a 07/17
+- TOP 3.3.1.: Arbeiten im Straßenraum: Neubau eines Kanalschachts in der Agnesstr. 53
+- TOP 3.3.2.: Hotelanfahrtszone Petra-Kelly-Straße
+- TOP 3.3.3.: Tempo-30-Zone Petra-Kelly-Straße
+- TOP 3.3.4.: Arbeiten im Straßenraum: Bau von Fahrbahn und Gehwegen in der Rümann- und Isoldenstraße, Ausbau der Bushaltestellen Klopstockstraße
+- TOP 3.3.5.: Einrichtung einer Feuerwehranfahrtszone für das Klinikum Schwabing auf der Nordseite der Parzivalstraße
+- TOP 3.3.6.: Ackermannstraße Höhe Hausnummer 81, Einrichtung eines absoluten Haltverbotes
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Nacharbeiten zur Gleisbaumaßnahme zwischen Münchner Freiheit und Scheidplatz
+- TOP 3.4.2.: Wegsanierung im Luitpoldpark
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
