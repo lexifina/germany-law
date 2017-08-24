@@ -1,0 +1,64 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-08-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4274954
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4274954
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 1.3.1.: 7.1.4 Stahlgruberring 23 - Gewerbliches Feuerwerksanzeige 15.09.2017 Frist: 11.09.17
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Nachtmarathon im Riemer Park am 28./29. 10.2017 gemäß Grünanlagensatzung und LStVG; Termin: 28.08.17
+- TOP 7.1.2.: Änderung der Sondernutzungsgebührensatzung Frist: 28.08.2017
+- TOP 7.1.3.: CarNight 2017 auf der Sonderfläche Riem am 07.10.2017 Termin: 04.09.2017
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Frauenalplweg 6, Fl.Nr.: 314798 - TEKTUR zu 1.2-2017-13300-32 - Neubau eines Mehrfamilienhauses (6WE) mit Tiefgarage
+- TOP 7.4.2.: Kreillerstraße 194, Fl.Nr.: 356/0 - TEKTUR zu 1.1-2017-3228-32 - Neubau von Apartments für Senioren und Studenten mit Tiefgarage und gewerblicher Nutzung im EG (Tagespflege, Gastronomie und Laden)
+- TOP 7.4.3.: Xaver-Weismor-Straße 56, Fl.Nr.: 96/43 - Neubau zweier Doppel- und zweier Einfamilienhäuser mit Garagen
+- TOP 7.4.4.: Wasserburger Landstraße 151 - 153a, Fl.Nr.: 209/26 - Neubau von 4 Mehrfamilienhäusern (28WE) mit Tiefgarage (28 Stpl.)
+- TOP 7.4.5.: Ankoglstraße 24, Fl.Nr.: 744/7 - Neubau einer Doppelhaushälfte mit Einzelgarage (DHH 1)
+- TOP 7.4.6.: Ankoglstraße 24, Fl.Nr.: 744/7 - Neubau einer Doppelhaushälfte mit Einzelgarage (DHH 2)
+- TOP 7.4.7.: Ankoglstraße 24, Fl.Nr.: 744/7 - Neubau einer Doppelhaushälfte mit Stellplatz (DHH 3)
+- TOP 7.4.8.: Ankoglstraße 24, Fl.Nr.: 744/7 - Neubau einer Doppelhaushälfte mit Stellplatz (DHH 4)
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Fauststraße 86 Gerstäckerstraße 63 a Heilwigstraße 71 Hochnißlstraße 6 Rotkehlchenweg 13 Schwedensteinstraße 49 Turnerstraße 1a Wasserburger Landstraße 100-106
+- TOP 8.2.1.: Am Hochacker 51 Birkhahnweg (DHH 1) Birkhahnweg (DHH 2) Fauststraße 86 Frauenalplweg 6 Gerstäckerstraße 63 Gottschalkstaße 20 Josef-Brückl-Straße 102 - durch UNB abgelehnt Rofanstraße 45 Säntisstraße 39 - durch UNB abgelehnt Schatzbogen 76 Scheibmeirstraße 15 Tangastraße 26 Wachtelweg 24 Windbauerstraße 2 Zeisigweg 24
+- TOP 10.1: UA Allgemeines
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.6: UA Umwelt
