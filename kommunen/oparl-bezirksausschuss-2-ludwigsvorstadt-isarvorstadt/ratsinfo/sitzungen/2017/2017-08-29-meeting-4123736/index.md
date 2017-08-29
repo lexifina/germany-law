@@ -1,0 +1,121 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-08-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123736
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123736
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bank am Karl-Heinrich-Ulrichs-Platz; Inschrift
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP I: Allgemeines
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Münchner Flüchtlingsrat e.V. Teilnahme an der „Langen Nacht der Museen“ am 14.10.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kirchenstiftung St. Andreas im Pfarrverband Isarvorstadt Andreaskonzert am 01.12.2017
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Anwohner des Oktoberfestes" Bauzaun beim Anwesen Kaiser-Ludwig-Platz 6 während des Oktoberfestes
+- TOP 3.1.: Generalinstandsetzung ehemaliges „Tröpferlbad“ Thalkirchner Straße 96 – 102; Weitere Nutzung der Räume für zwei Einrichtungen der offenen Kinder- und Jugendarbeit – Jugendtreff Tröpferlbad und Zenetti-Treff 3 sowie für das Bürgerhaus Isarvorstadt-Tröpferlbad Stadtbezirk 2 Ludwigsvorstadt-Isarvorstadt, Sitzungsvorlage Nr. 14-20 / V 09284, Beschlussentwurf des Kinder- und Jugendhilfeausschusses, des Sozialausschusses und des Kommunalausschusses in der gemeinsamen Sitzung vom 04.10.2017 (SB)
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag: Die Stadt stellt im Stadtbezirk 2 Flächen städtischer Gebäude für die Begrünung ihrer Fassaden zur Verfügung
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Ickstattstraße 3, Umbau und Sanierung des Gesamtanwesens: Grundrissänderung der Bestandseinheiten (teilw. Zusammenlegung von Einheiten); Umbau des Treppenhauses mit Einbau eines Innenaufzugs, Nutzungsänderung der Büroeinheit im EG in eine Laden und ein Appartment, Erweiterung der DG-Wohnungen mit Neuaufbau des Daches, Errichtung eines zweigeschossigen Rückgebäudes nach Rückbau der Garagen
+- TOP 3.1.2.: Baaderstraße 86-90, Abbruch des Bestandsgebäudes und Neubau einer Wohnanlage (78 WE) mit erdgeschossiger Mischnutzung auf teilerhaltener Bestandsgründung (Baaderstraße 86-90 / Fraunhoferstraße 30 – 30e) und Vollzug der Baumschutzverordnung
+- TOP 3.1.3.: Jahnstraße 31, Modernisierung, Balkonerweiterung, DG-Erneuerung und Nutzungsänderung EG /RGB (Werkstatt zu Büro) - Tektur
+- TOP 3.1.4.: St.-Paul-Straße 9, Umbau und Aufstockung MGB, Ausbau des Speichers im RGB mit Anbau Außenaufzug und Notleiteranlagen am VGB, MGB + RGB, Nutzungsänderung 3. + 4. OG / VGB: Wohnungen zu Büros; Erweiterung Tiefgarage, Erweiterung der Balkone RGB, Umbau und Nutzungsänderung EG / VGB : Lager zu Büro; Umbau EG + 1. OG / MGB und Errichtung offener Stellplätze im Hof - Tektur
+- TOP 3.1.5.: Thalkirchner Straße 80, Tektur – Sanierung zweier Wohngebäude, Ausbau zweier Dachgeschosse (VGB + RGB) zu Wohnungen mit Gauben und Dachterrassen, Grundrissänderungen, Traufanhebung des Erkers am VGB, Einbau zweier Aufzüge, Anbau von Balkonen, Errichtung einer Dachterrasse auf dem Zwischengebäude, Nutzungsänderung von Lager + Versand Buchbinderei zu Wohnungen (EG ZGB + RGB), Umbau und Erweiterung des Lichthofs, Nutzungsänderung von Lager- zu Schulungsräumen (UG)
+- TOP 3.1.6.: Schubertstraße 8, DG-Neubau (4 WE), Keller- und Aufzugsanbau, Anbau von Balkonen und Erkern, Zusammenlegung Wohnung UG/EG, Nutzungsänderung von 6 Wohnungen zu Büros sowie Neubau von Parkliften (ges. 23 Pkw-Stpl.)
+- TOP 3.1.7.: Schillerstraße 20, TEKTUR, Neuaufteilung des „Hotel Daheim“ - Nutzungsänderung Wohnung / 4. OG zu Hotel, Neubau Hotelzimmer (Schließung der Baulücke Schillerstraße)
+- TOP 3.1.8.: Klenzestraße 62, DG-Ausbau (1 WE)
+- TOP 3.1.9.: Rothmundstraße 3, Instandsetzung eines denkmalgeschützten Wohn- und Geschäftshauses sowie DG-Ausbau mit 2 WE
+- TOP 3.1.10.: Schmellerstraße 7, TEKTUR – Anbau, Aufstockung und Neubau zweier Wohneinheiten im RGB sowie Nutzungsänderung eines Wohnheims in eine Pension (VGB / 1.OG)
+- TOP 3.1.11.: Bavariaring 37, Ausbau 2. DG zu Büro, Verbindungstreppe zum 1. DG, Fluchtbalkon mit -leiter, Brandschutzanpassungen im Gesamtgebäude, Fluchtbalkone und -leiter am Büroanbau, Dachflächensanierung Büroanbau mit Erneuerung der Gauben, Nutzungsänderungen: DG1 Altbau mit 3 WE zu Büro und DG1 Anbau mit Büro zu Hausmeisterwohnung, EG Besprechungsräume zu Besprechungs-, Seminar und Vortragsräumen auch für Externe
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Schillerstraße 42 – 46; Ludwig-Maximilians-Universität München Neubau für das Department Geowissenschaften, Preisgericht für den Wettbewerb, Schreiben des Staatlichen Bauamtes München 2 vom 10.08.2017, Benennung der Vertreter/der Vertreterin des BA 2
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Landwehrstraße 20, Erweiterung einer Freischankfläche
+- TOP 2.1.2.: Thalkirchner Straße 3, Erweiterung einer Freischankfläche, PLENUMSBESCHLUSS
+- TOP 2.1.3.: Zweibrückenstraße 10, Genehmigung einer Freischankfläche, PLENUMSBE-SCHLUSS
+- TOP 2.2.1.: Bayerstraße 91, Verlegung eines Zeitungsentnahmegerätes von Bayerstraße 30 auf Bayerstraße 91
+- TOP 2.2.2.: Corneliusstraße 22, Aufstellung einer neuen Verkaufseinrichtung
+- TOP 2.2.3.: Schillerstraße 37, Antrag für einen mobilen Fahrradständer
+- TOP 2.2.4.: Bavariaring 5, Antrag für zwei mobile Fahrradständer
+- TOP 2.3.1.: Corneliusstraße 20, Antrag auf eine Sitzgelegenheit
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Oktoberfest 2017; Sitztribünen für Wiesnzüge am 16.09.2017 und 17.09.2017, Auf- und Abbau
+- TOP 3.1.2.: München Marathon am 08.10.2017 und Trachtenlauf am 07.10.2017
+- TOP 3.1.3.: Wiesnzüge Oktoberfest am 16.09.2017 und 17.09.2017
+- TOP 3.2.1.: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat – Turnusmäßige Beschlussvorlage und Bekanntgabe
+- TOP 3.2.2.: Öffnung der einbahngeregelten Kobellstraße für den Radverkehr
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Sondernutzungserlaubnis für Streetworkerbus von Condrobs e.V. am Esperantoplatz in der Zeit von 16.09.2017 bis 03.10.2017
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, MVG-Wartehäuschen für die Buslinien 52 und 62 der Haltestelle Gärtnerplatztheater
+- TOP 5.2.: Schutz der Isar vor Silvesterfeuerwerk – Die Isar und ihr Hochwasserbett, sowie die Isarbrücken und Isarparallele werden künftig vor geräuschintensivem Silvester-feuerwerk (Raketen, Böller und Böllerbatterien) geschützt, BA-Antrags-Nr. 14-20 / B 03326 des BA 2 vom 21.02.2017; Antwortschreiben des Kreisverwaltungsreferates vom 27.06.2017, vgl. Vertagung TOP 2017.07 C 4.14, nun Behandlung im FA, Stellung-nahme des BA 2 wurde erarbeitet
+- TOP D: BA-Angelegenheiten
+- TOP 2.1.: Unterausschuss „Kultur, Jugend, Soziales“ am Montag, den 11.09.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Öffentlicher Raum, Mobilität“ am Dienstag, den 12.09.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Planen, Bauen“ am Montag, den 18.09.2017 um 20 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München im Anschluss an die Vorstandssitzung. Die Vorstandssitzung findet am 18.09.2017 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 26.09.2017 um 19 Uhr im Saal in der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.3.: Schadstoff- und Lärmbelästigung am Spielplatz Roecklplatz, BV-Empfehlung Nr. 14-20 / E 01254 aus der Bürgerversammlung des BA 2 vom 10.11.2016, Zwischennachricht des Referates für Gesundheit und Umwelt vom 26.07.2017
+- TOP A 4.4.: Fußgänger Ampelphase Gärtnerplatz
+- TOP A 4.5.: Referat für Bildung und Sport und Baureferat, Beschluss Sportbauprogramm, Sitzungsvorlage Nr. 14-20 / V 08874, Beschluss der Vollversammlung des Stadtrates vom 26.07.2017
+- TOP A 4.6.: Herbeiführung eines Grundsatz- und Eckdatenbeschlusses für die Erstellung eines qualifizierten Bebauungsplans für das Schlachthof- / Viehhof-Gelände mit Bürgerbeteiligung
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Ruppertstraße 5 – Schulbauoffensive – Neubau einer Berufsschule für Kinderpflege, einer Fachakademie für Sozialpädagogik, eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen, eines Stadtteilkulturzentrums, einer Dreifachsporthalle und einer Tiefgarage, Baugenehmigung gem. Art. 60 und 68 Bayerische Bauordnung (BayBO) mit aufschiebenden Bedingungen
+- TOP B 4.3.: Grimmstraße 4, Baumfällungsantrag, vgl. TOP 2017.07 B 3.2.2, Genehmigungsbescheid des Referates für Stadtplanung und Bauordnung vom 07.08.2017
+- TOP B 4.4.: Stadtratsanfrage Nr. 14-20 / F 00848 als Information; Wie sieht es momentan mit der Grünflächenversorgung in München aus?
+- TOP B 4.5.: Lindwurmstraße 5, Abbruch und Erneuerung des Dachstuhls, Erneuerung und Erweiterung der Aufzugsanlage, Teilabbruch Dach Fliegenstr. 1 (Fliegenstr. 1 / Lindwurmstr. 5), Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren
+- TOP B 4.6.: Mozartstraße 14 a, Nutzungsänderung mit Umbau im UG: Wirtschaftsräume zu dermatologischer Abteilung, Schreiben des Referates für Stadtplanung und Bauordnung vom 16.08.2017 nach Ortskontrolle
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.6.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Antrag auf Erweiterung einer Freischankfläche, Fraunhoferstraße 41, Gaststätte „Gina Nido“ (06.00 – 22.00 Uhr), Entscheidung des Oberbürgermeisters Dieter Reiter vom 21.07.2017
+- TOP C 4.7.: Keine Verlängerung des Oktoberfestes
+- TOP C 4.8.: Aktion „Play me, I&#039;m yours 2017“; Anhörung für Sondernutzung auf öffentlichen Verkehrsgrund, in städtischen Grünanlagen, sowie auf Privatgrund vom 31.07.2017 mit Termin 21.08.2017; Eilentscheidung des Vorsitzenden, Alexander Miklósy, mit Zustimmung durch Fristablauf
+- TOP C 4.9.: Hans-Sachs-Straßenfest in der Hans-Sachs-Straße und Ickstattstraße am 19.08.2017 mit Termin 11.08.2017, Eilentscheidung des Vorsitzenden, Alexander Miklósy, mit Zustimmung durch Fristablauf
+- TOP C 4.10.: Die Beschilderung des Grillverbots am Isarhochufer des Landschaftsschutzgebietes soll effektiver werden. Das schließt die Weideninsel mit ein. BA-Antrags-Nr. 14-20 / B 03677 des BA 2 vom 30.05.2017, Zwischennachricht des Referates für Gesundheit und Umwelt vom 20.07.2017
+- TOP C 4.11.: Lärmschutz an der Bahntrasse Dreimühlenviertel; Empfehlung Nr. 14-20 / E 01258 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016; Sitzungsvorlage Nr. 14-20 / V 08550, vgl. TOP 2017.06 C 2.3.1; Schreiben des Referates für Gesundheit und Umwelt an die Deutsche Bahn vom 25.07.2017 als Information
+- TOP C 4.12.: Bürgeranliegen; Bahngeräusche Dreimühlenviertel, Antwort des Referates für Gesundheit und Umwelt vom 26.07.2017 zur Kenntnis
+- TOP C 4.13.: Bürgeranliegen, Öffentliche Parkhäuser für Anwohner öffnen, vgl. TOP 2017.04 C 5.2, Antwortschreiben des Kommunalreferates vom 27.07.2017
+- TOP C 4.14.: Reinigungsklasse 1+
+- TOP C 4.15.: Öffentliche Fahrradpumpen und Radservice-Stationen, BA-Antrags-Nr. 14-20/ B 03766, Zwischennachricht des Kreisverwaltungsreferates vom 10.08.2017
+- TOP C 4.16.: Bürgeranliegen, Abfallbehälter und Hundekotspender Holzstraße, vgl. Bürgeranliegen 2017.05 II Pkt. 4, Antwortschreiben des Baureferates vom 16.08.2017 dem BA 2 zur Kenntnis
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Reduzierung der Besprechungsräume in der Geschäftsstelle
