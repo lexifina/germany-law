@@ -1,0 +1,7 @@
+# TOP 9: Wohnungsbedarfsanalyse Rhein-Kreis Neuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreisausschusses (2017-08-30)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/16735
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/6453
