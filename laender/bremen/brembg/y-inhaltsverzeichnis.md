@@ -99,6 +99,7 @@ Unterabschnitt 4 Fürsorge
 § 81 | Mutterschutz, Elternzeit (§ 46 des Beamtenstatusgesetzes)
 § 82 | Arbeitsschutz
 § 83 | Ersatz von Sachschäden
+§ 83a | Erfüllungsübernahme bei Schmerzensgeldansprüchen
 § 84 | Reise- und Umzugskosten
 Unterabschnitt 5 Personalakten (§ 50 des Beamtenstatusgesetzes)
 § 85 | Inhalt der Personalakten sowie Zugang zu Personalakten
