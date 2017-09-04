@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2017:B.040917.IXB46.17.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "IX"
+aktenzeichen: "IX B 46/17"
+decided: "2017-09-04"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201750250/"
+corpus_doc_id: "BFH_NV_2017-09-04_IX_B_46_17_STRE201750250"
+cites_law: ["germany/bund/acts/fgo/0065.md", "germany/bund/acts/fgo/0096.md", "germany/bund/acts/fgo/0116.md", "germany/bund/acts/fgo/0135.md", "germany/bund/acts/grundgesetz/artikel/103.md"]
+---
+
+# Bundesfinanzhof, IX B 46/17 vom 2017-09-04: Verfahrensfehler, Verletzung des rechtlichen Gehörs
+
+## Leitsatz
+
+NV: Würdigt das FG das Vorbringen des Klägers und kommt es hinsichtlich der Möglichkeit, innerhalb der vom FG gesetzten Ausschlussfrist das Klagebegehren zu bezeichnen und mögliche Rechtsverletzungen darzulegen, zu einer anderen Auffassung als der Kläger, kann dies eine Verletzung des rechtlichen Gehörs nicht begründen .
+
+## Entscheidung
+
+NV: Würdigt das FG das Vorbringen des Klägers und kommt es hinsichtlich der Möglichkeit, innerhalb der vom FG gesetzten Ausschlussfrist das Klagebegehren zu bezeichnen und mögliche Rechtsverletzungen darzulegen, zu einer anderen Auffassung als der Kläger, kann dies eine Verletzung des rechtlichen Gehörs nicht begründen . Die Beschwerde des Klägers wegen Nichtzulassung der Revision gegen das Urteil des Niedersächsischen Finanzgerichts vom 22. Februar 2017 9 K 10103/16 wird als unbegründet zurückgewiesen.Die Kosten des Beschwerdeverfahrens hat der Kläger zu tragen. Die Beschwerde ist unbegründet.Der vom Kläger und Beschwerdeführer (Kläger) vorgebrachte Verfahrensfehler in Gestalt einer Verletzung des rechtlichen Gehörs (§ 115 Abs. 2 Nr. 3, § 96 Abs. 2 der Finanzgerichts-ordnung ‑‑FGO‑‑, Art. 103 Abs. 1 des Grundgesetzes ‑‑GG‑‑) liegt nicht vor.1. Der Anspruch auf rechtliches Gehör i.S. von Art. 103 Abs. 1 GG und § 96 Abs. 2 FGO verpflichtet das Gericht u.a., die Ausführungen der Beteiligten zur Kenntnis zu nehmen, in Erwägung zu ziehen und sich mit dem entscheidungserheblichen Kern des Vorbringens auseinanderzusetzen. Dabei ist das Gericht naturgemäß nicht verpflichtet, der tatsächlichen Würdigung oder der Rechtsansicht eines Beteiligten zu folgen (vgl. Beschluss des Bundesverfassungsgerichts vom 11. Juni 2008  2 BvR 2062/07, Deutsches Verwaltungsblatt 2008, 1056; Beschluss des Bundesfinanzhofs ‑‑BFH‑‑ vom 11. Mai 2011 V B 113/10, BFH/NV 2011, 1523). Art. 103 Abs. 1 GG und § 96 Abs. 2 FGO sind erst dann verletzt, wenn sich aus den besonderen Umständen des Einzelfalls ergibt, dass das Gericht Vorbringen entweder überhaupt nicht zur Kenntnis genommen oder doch bei seiner Entscheidung ersichtlich nicht in Erwägung gezogen hat (vgl. u.a. BFH-Beschlüsse vom 10. September 2014 IX S 10/14, BFH/NV 2015, 47, und vom 23. März 2016 IX B 22/16, BFH/NV 2016, 1013).2. Das ist vorliegend nicht der Fall. Das Finanzgericht (FG) hat den Vortrag des Klägers hinsichtlich der Beschlagnahme seines Computers sowie weiterer Speichermedien und der fehlenden Zugriffsmöglichkeit auf schriftliche Unterlagen zur Kenntnis genommen und darüber entschieden. Es hat gewürdigt, dass dem Kläger ein Zugriff auf seine elektronisch gespeicherten Unterlagen kurz vor Ablauf der (mehrfach verlängerten) gerichtlichen Ausschlussfrist (§ 65 Abs. 1 Satz 1, Abs. 2 Satz 2 FGO) nicht mehr möglich war. Dabei ist das FG unter Berücksichtigung der vom Kläger vorgebrachten Gesichtspunkte zu dem Ergebnis gekommen, dass es dem Kläger auch ohne Rückgriff auf die beschlagnahmten Gegenstände aufgrund der Erläuterungen in den angefochtenen Steuerbescheiden und der im Klageverfahren erfolgten Akteneinsicht zumindest im Schätzungsweg möglich war, die erforderlichen Angaben zu machen. Dass das FG hinsichtlich der Möglichkeit, das Klagebegehren noch innerhalb der Ausschlussfrist zu bezeichnen und mögliche Rechtsverletzungen durch die angefochtenen Steuerbescheide darzulegen, eine andere Auffassung als der Kläger vertreten hat, kann eine Gehörsverletzung nicht begründen.3. Von einer weiter gehenden Begründung wird gemäß § 116 Abs. 5 Satz 2 FGO abgesehen. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
