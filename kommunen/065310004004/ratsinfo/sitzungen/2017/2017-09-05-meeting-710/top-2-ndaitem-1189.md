@@ -1,0 +1,6 @@
+# TOP 2.: Verschiedenes
+
+- Sitzung: Ausschuss für Soziales, Jugend, Sport und Kultur (8. Sitzung) (2017-09-05)
+- Körperschaft: Gemeinde Fernwald
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/agendaitem/1189
