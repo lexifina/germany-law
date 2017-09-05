@@ -1,0 +1,80 @@
+# 29. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-05T16:06:00+02:00
+- Ende: 2017-09-05T18:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16939
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16939
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar)) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00625391.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar)) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00625391.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar)) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00625391.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Expressbusse statt PKW – Busspur auf dem Clevischen Ring - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Machbarkeitsstudie Fußgänger- und Radfahrbrücke - Sache ist erledigt
+- TOP 1.2.1: Beantwortung einer Anfrage gem. §4 (AN/1099/2017) - Machbarkeitsstudie neue Rheinquerung - Kenntnis genommen
+- TOP 1.3: Förderung des Fußgängerverkehrs in Köln - Sache ist erledigt
+- TOP 1.3.1: Förderung des Fußgängerverkehrs in Köln - Kenntnis genommen
+- TOP 1.4: Unfallgefahr zum neuen Schuljahr durch Elterntaxis - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.5: Grünpfeilregelung für den Radverkehr - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Abbau einer Lichtsignalanlage an der Kreuzung Subbelrather/Innere Kanalstraße - Sache ist erledigt
+- TOP 2.2: Barrierefreiheit im Nahverkehr - zurückgestellt
+- TOP 2.3: Section Control auf Eis legen und Gutachten vorlegen - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.4: Freilaufende Rechtsabbieger zurückbauen! - endgültig abgelehnt
+- TOP 2.5: Mehr Sicherheit im Kölner Stadtverkehr - ungeändert beschlossen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3.1: Sperrung Gleueler Straße am Wochenende - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.:Ampelanlage Düsseldorfer Straße, Köln-Stammheim (Az.: 02-1600-219/16) - ungeändert beschlossen
+- TOP 3.3: Verkehrsplanungen für den rechtsrheinischen Kölner Süden und die angrenzenden Nachbarstädte - zurückgestellt
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: Fahrtreppen Stadtbahnhaltestelle Heumarkt - ungeändert beschlossen
+- TOP 4.2: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - im ersten Durchgang verwiesen
+- TOP 4.2.1: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - Vorlagen-Nr. 1186/2016 - endgültig abgelehnt
+- TOP 4.3: Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Baubeschluss für die brandschutztechnische Ertüchtigung zweier Aufzugsanlagen der Stadtbahnhaltestelle Christophstraße/Mediapark - ungeändert beschlossen
+- TOP 4.4: Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens zur Durchführung des Weihnachtsverkehrs 2017 - ungeändert beschlossen
+- TOP 4.5: Radschnellweg Köln-Frechen: Durchführung einer Bürgerinformationsveranstaltung - ungeändert beschlossen
+- TOP 4.6: Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Sanierung der Rampe zur Brücke Tel-Aviv-Straße - ungeändert beschlossen
+- TOP 4.7: Verlängerung des Abrufvertrags für Videoauswertungen - ungeändert beschlossen
+- TOP 4.8: Machbarkeitsstudie Oberbergische Bahn (RB 25) - ungeändert beschlossen
+- TOP 4.9: Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse - im ersten Durchgang verwiesen
+- TOP 4.9.1: Ost-West-Achse schnell ertüchtigen! - Änderungsantrag zu Top 4.9 „Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse“ - im ersten Durchgang verwiesen
+- TOP 4.10: Leistungserweiterungen des ÖPNV-Angebotes auf Kölner Stadtgebiet durch Beschlüsse im Rheinisch-Bergischen Kreis - im ersten Durchgang verwiesen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Planungsbeschluss Tiefgarage Ebertplatz - geändert beschlossen
+- TOP 5.2: Gestaltungshandbuch der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 5.3: Neugestaltung der Domumgebung; 2. Bauabschnitt - ungeändert beschlossen
+- TOP 5.4: Sechzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - ungeändert beschlossen
+- TOP 5.5: Satzung über die abweichende Herstellung der Erschließungsanlage Pastor-Kastenholz-Weg einschließlich Stichstraße (Flurstück 1375) von Hildengasse bis Ausbauende in Köln-Merkenich - ungeändert beschlossen
+- TOP 5.6: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - zurückgestellt
+- TOP 5.7: 261. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 5.8: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert beschlossen
+- TOP 5.9: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Aufhebung der Radwegebenutzungspflicht - Sache ist erledigt
+- TOP 6.2: Radschnellweg Köln - Sache ist erledigt
+- TOP 6.3: Wann können Radfahrerinnen und -fahrer endlich bei Rot rechts abbiegen? - Sache ist erledigt
+- TOP 6.4: Stellplätze für Fahrräder in Köln - Sache ist erledigt
+- TOP 6.5: Evakuierung von mobilitätseingeschränkten Personen - Sache ist erledigt
+- TOP 6.6: Livemap zum ÖPNV in Hamburg - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Tiefgarage Dom - Markierungsarbeiten - Kenntnis genommen
+- TOP 7.2: Machbarkeitsstudie Tunnelleitzentrale - Kenntnis genommen
+- TOP 7.3: Sachstandsbericht Umsetzung Radverkehrskonzept Innenstadt - Kenntnis genommen
+- TOP 7.4: Unfallgeschehen, Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtgebiet Köln - zurückgestellt
+- TOP 7.5: Verwendung der Stellplatzablösemittel im Jahr 2016 - Kenntnis genommen
+- TOP 7.6: Sicherheit für Kölner Radfahrer – Einsatz von Sichthilfen für toten Winkel - Kenntnis genommen
+- TOP 7.7: SmartCity Cologne Konferenz 2017 - Kenntnis genommen
+- TOP 7.8: Stadtradeln 2017 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Sachstand zum Niehler Gürtel - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Ergebnisse des Dieselgipfels in Berlin - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Beschaffung von 10 Elektrofahrzeugen - zur weiteren Bearbeitung in die Verwaltung überwiesen
