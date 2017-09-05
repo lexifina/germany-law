@@ -1,0 +1,55 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-05T15:00:00+02:00
+- Ende: 2017-09-05T17:27:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13289
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13289
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299420.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299420.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299420.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl der/des stellvertretenden Vorsitzenden - einstimmig beschlossen
+- TOP 2: TO - einstimmig beschlossen
+- TOP 3: Niederschrift - einstimmig beschlossen
+- TOP 4: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 4.1: Anfrage Grüne - Betreuungssituation KiTas – Entlastung für pädagogisches Personal - zur Kenntnis genommen
+- TOP 5: Berichte - zur Kenntnis genommen
+- TOP 5.1: Sachstandsbericht umA - zur Kenntnis genommen
+- TOP 5.2: Skatepark Eller - Aktueller Stand - zur Kenntnis genommen
+- TOP 5.3: Neuausrichtung der Bildungskonferenz der Bildungsregion Stadt Düsseldorf - zur Kenntnis genommen
+- TOP 6: Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 6.1: Jugendhilfeplanung - zur Kenntnis genommen
+- TOP 6.1.1: Start ins neue Kita-Jahr 2017/2018 - zur Kenntnis genommen
+- TOP 6.1.2: Auswertung Kita-Navigator 45-Stunden-Vergabe - zur Kenntnis genommen
+- TOP 6.2: Personalsituation in städt. Kitas zum Kita-Jahr 17/18 - zur Kenntnis genommen
+- TOP 7: Bau, Einrichtung und Instandsetzung von Kitas - zur Kenntnis genommen
+- TOP 7.1: Investitionszuschüsse an freie Träger - Großtagespflege Paul-Spiegel-Platz 1 - einstimmig beschlossen
+- TOP 7.2: Investitionszuschüsse an fr. Träger von Kitas – Kanzlerstr. 8 - einstimmig beschlossen
+- TOP 7.3: Investitionszuschüsse an fr. Träger von Kitas – Im kleinen Winkel 11 - einstimmig beschlossen
+- TOP 7.4: Investitionszuschüsse an fr. Träger von Kitas – Grüner Weg - einstimmig beschlossen
+- TOP 7.5: Investitionszuschüsse an fr. Träger von Kitas – Bismarckweg 3 - einstimmig beschlossen
+- TOP 7.6: Investitionszuschüsse an fr. Träger von Kitas – Wittenbruchplatz 10 - einstimmig beschlossen
+- TOP 7.7: Investitionszuschüsse an fr. Träger von Kitas – Königsberger Straße - einstimmig beschlossen
+- TOP 7.8: Investitionszuschüsse an fr. Träger von Kitas – Zietenstraße 58 - 60 - einstimmig beschlossen
+- TOP 7.9: Investitionszuschüsse an fr. Träger von Kitas – Potsdamer Straße 43 - einstimmig beschlossen
+- TOP 7.10: Investitionszuschüsse an fr. Träger von Kitas – Münsterstr. 304 - einstimmig beschlossen
+- TOP 8: Jugendförderung - zur Kenntnis genommen
+- TOP 8.1: Partizipationsbericht des Jugendamtes Düsseldorf - einstimmig beschlossen
+- TOP 8.2: Kuthsweg 43 / Gatherweg 109 - einstimmig beschlossen
+- TOP 8.3: Der 4. Düsseldorfer Jugendrat - zur Kenntnis genommen
+- TOP 9: Soziale Dienste - zur Kenntnis genommen
+- TOP 9.1: Konzept Häusliche Gewalt - zur Kenntnis genommen
+- TOP 9.2: Gesetz zur Bekämpfung von Kinderehen - zur Kenntnis genommen
+- TOP 10: Controllingbericht - zur Kenntnis genommen
+- TOP 10.1: Controllingbericht Hilfen zur Erziehung (Stand 31.07.2017) - zur Kenntnis genommen
+- TOP 11: Fachübergreifende Vorlagen - zur Kenntnis genommen
+- TOP 11.1: Jahresbericht des Jugendamtes 2015 - 2016 - zur Kenntnis genommen
+- TOP 11.2: Gebäudemanagement im Jugendamt - zur Kenntnis genommen
+- TOP 11.3: Elterngeld - Controlling zu den Bearbeitungszeiten - zur Kenntnis genommen
