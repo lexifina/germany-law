@@ -1,0 +1,86 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-05T14:00:00+02:00
+- Ende: 2017-09-05T16:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16890
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16890
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Folienpräsentation: Sachstand zur Einführung von ''Little Bird''
+- TOP -: Sachstand zur Einführung "Little Bird" - Kenntnis genommen
+- TOP 1.4.2: Präsentation zum Baubeschluss: Optimierung und Sanierung des Ki d S Standortes Brücker Mauspfad 646
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: Kölner Jugendring e.V. - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: gemeinnützige "CK CreaKids Germany GmbH" - endgültig zurückgezogen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Verteilung von Haushaltsmitteln 2017 - Zuschuss an den "Arbeitskreis für das ausländische Kind e.V. Köln" - ungeändert beschlossen
+- TOP 2.2.2: Kindertagespflege nach § 23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Bestellung einer Schriftführerin - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung des Spielplatzes Dr.-Johannes-Honnef-Straße/Paulipark in Köln-Lövenich - ungeändert empfohlen
+- TOP 3.2: Umgestaltung des öffentlichen Spielplatzes Brehmstraße in Köln-Riehl - ungeändert empfohlen
+- TOP 3.3: Umgestaltung des öffentlichen Spielplatzes Etzelstraße in Köln-Mauenheim - ungeändert empfohlen
+- TOP 3.4: Grünfläche Butzweiler Hof - ungeändert empfohlen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert empfohlen
+- TOP 4.2: Baubeschluss: Sanierung und Optimierung des Ki d S - Standortes Brücker Mauspfad 646 - ungeändert empfohlen
+- TOP 4.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert empfohlen
+- TOP 4.4: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert empfohlen
+- TOP 4.5: Neuwahl eines stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert empfohlen
+- TOP 4.6: Vorlage 2018/2017 "Bedarfsfeststellung zum Erwerb von Microsoft Lizenzen für den Zeitraum 2017 bis 2021" wird im nichtöffentlichen Teil unter TOP 9.3.1 beraten
+- TOP 4.7: Mehrgenerationenhaus Lindweiler 2017 - ungeändert empfohlen
+- TOP 5: Anträge aus der Politik (schriftlich)
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Ziffer 3 des Änderungsantrages der SPD-Fraktion zur Vorlage AN/2156/2016 (Beauftragung der Verwaltung mit der Entwicklung begleitender niedrigschwelliger Hilfsangebote) aus der Ratssitzung vom 20.12.2016 - geändert beschlossen
+- TOP 6: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (schriftlich)
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Unterbringung, Teilhabe- und Integrationschancen für unbegleitete junge Geflüchtete bei Volljährigkeit - Sache ist erledigt
+- TOP -: Unterbringung, Teilhabe- und Integrationschancen für unbegleitete junge Geflüchtete bei Volljährigkeit, hier: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen vom 12.06.2017 (AN/0880/2017) - Kenntnis genommen
+- TOP 6.1.2: Unterhaltsvorschuss für Alleinerziehende - Sache ist erledigt
+- TOP -: Unterhaltsvorschuss für Alleinerziehende - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Fachkräftemangel im Kita-Bereich - Sache ist erledigt
+- TOP -: Fachkräftemangel im Kita-Bereich AN/1075/2017 SPD-Fraktion - Kenntnis genommen
+- TOP 6.2.2: Inobhutnahmen durch das Jugendamt - zurückgestellt
+- TOP 7: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (mündlich)
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Neuwahl beratender Mitglieder für den Jugendhilfeausschuss - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Aktueller Planungsstand zur Realisierung von Jugend- und Bildungsinfrastruktur im Bereich Sürther Straße/Am Feldrain und Eygelshovener Straße - Kenntnis genommen
+- TOP 8.2.2: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Netzwerk gegen häusliche Gewalt – Statistik 2016 - Kenntnis genommen
+- TOP 8.3.2: Jahresbericht 2016 – Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Planung von Jugendeinrichtungen in Köln Roggendorf/ Thenhoven und Kalk - Kenntnis genommen
+- TOP 8.4.2: Fachtag: "ZUSAMMENHALTEN! - SEXUELLE UND GESCHLECHTLICHE VIELFALT IN DER JUGENDHILFE" - Kenntnis genommen
+- TOP 8.4.3: Jugendeinrichtung Weiden - Kenntnis genommen
+- TOP 8.4.4: Weltkindertag in Köln am 17.09.2017 - Kenntnis genommen
+- TOP 8.4.5: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - Kenntnis genommen
+- TOP 8.4.6: Spende des neuen Spielmobils "Juppi" - Kenntnis genommen
+- TOP 8.4.7: Ausbau Streetwork – 18 Streetworker und Streetworkerinnen haben ihre Arbeit aufge-nommen - Einrichtung von 10 temporären „Streetwork Points“ in den Stadtbezirken - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Jahresbericht des Amtes für Schulentwicklung für 2016 - Kenntnis genommen
+- TOP 8.5.2: AN/0940/2017 Problemimmobilien in Köln - was tut die Stadtverwaltung - Kenntnis genommen
+- TOP 8.5.3: AN/0940/2017 Problemimmobilien in Köln - was tut die Stadtverwaltung - Kenntnis genommen
+- TOP 8.5.4: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 8.5.5: Beantwortung der Verwaltung zu Nachfragen aus dem Integrationsrat vom 20.03.2017 bzw. 19.06.2017 - Kenntnis genommen
+- TOP 8.5.6: „Rucksack" - ein Programm zur koordinierten Sprachförderung und Elternbildung; Sachstand zur Finanzierung der Gruppen aus dem Programmgebiet „Mülheim 2020“ - Kenntnis genommen
+- TOP 8.5.7: Teilnahme der Stadt Köln am Bundesprogramm "Kita-Einstieg: Brücken bauen in frühe Bildung" des Bundesministeriums für Familie, Senioren, Frauen und Jugend - Kenntnis genommen
