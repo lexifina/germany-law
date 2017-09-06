@@ -1,0 +1,8 @@
+# TOP 9: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Petersheide in Wolbeck, Stadtbezirk Südost
+
+- Sitzung: 23. Sitzung (2017-09-06)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/173299
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/63820
