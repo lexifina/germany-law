@@ -1,0 +1,77 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-09-06T17:05:00+02:00
+- Ende: 2017-09-06T22:29:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2990
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2990
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bezirkshaushaltsplan für die Jahre 2018/2019 (Doppelhaushalt) - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Neuer Sachstand zur Ermittlungsgruppe Rechtsextremismus? - beantwortet
+- TOP 10.2: Bezirksparlament nicht ernst genommen?! - beantwortet
+- TOP 10.3: Jahresbericht linksextreme Aktivitäten in Neukölln - überwiesen
+- TOP 10.4: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Vollständige Übernahme des Tempelhofer-Feld- Gesetzes im FNP - in der BVV abgelehnt
+- TOP 10.6: Jahresbericht rechtsextreme Aktivitäten in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Hand in Hand mit Linksextremisten? - beantwortet
+- TOP 10.8: Teilbebauung der Friedhöfe Hermannstraße - beantwortet
+- TOP 10.9: Räumung Friedelstr. 54 - beantwortet
+- TOP 10.10: Brandschutzbegehungen an Neuköllner Schulen - beantwortet
+- TOP 10.11: Bezirksverordnete 3. Klasse?- Keine Arbeitsmöglichkeiten für Bezirksverordnete - vertagt
+- TOP 10.12: Ermittlungsgruppe Rechtsextremismus - überwiesen
+- TOP 10.13: Antrag auf Schließung Friedel 54 - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bänke Höltermannsteig - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bänke auf dem Lieselotte-Berger-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Auswirkungen der neuen Zumessungsrichtlinie auf die Personalsituation an Neuköllner Schulen - schriftlich beantwortet
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Maßnahmen an Werner-Seelenbinder-Gedenkstätte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Chancengleichheit für alle Neuköllner Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Späthstraßenbrücke öffnen - Einheit vollenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Unterbringung von Flüchtlingen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Gedenkraum an der Clay-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Ehrentafel für den ehemaligen Bezirksbürgermeister Alfred Scholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Bebauungsplan 8-64 - "Petunienweg/Fenchelweg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Asylbewerberunterkunft Späthstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Zusammenarbeit mit ehrenamtlichen Helfern in der Späthstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Beschulung der Kinder aus der Flüchtlingsunterkunft sichern II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Plattformneutrale Fachverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Anwohner frühzeitig über die zweite Flüchtlingsunterkunft informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Flüchtlingsunterbringung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Bessere Kommunikation in Flüchtlingsfragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Warmbadetage im Stadtbad Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Maßnahmen gegen religös motivierte Radikalisierung in Neukölln I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Flüchtlingsunterkunft Karl-Marx-Strasse 278 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Beteiligung der Rudower Seniorinnen und Senioren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Notunterkunft für queere (LSBTI*Q) Flüchtlinge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Berliner Mauerweg für Fußgänger und Radfahrer wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Radstreifen auf der Karl-Marx-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Finanzierung der Flüchtlingsarbeit des DAZ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Radverkehrskompetenz der Bezirke nutzen, um Radverkehrsinfrastruktur auszubauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.23: Europäische Mobilitätswoche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: Poller - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Bushaltestelle “Seeadlerweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: ÖPNV-Anpassung Gerlinger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.27: Fahrbahnmarkierung in der Köpenicker Straße erneuern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.28: Thomashöhe / Lessinghöhe – sicher hin und zurück - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.29: Ausschilderung der Radrouten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.30: Abbiegen nach Alt-Rudow möglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.31: Erhalt der Buslinie 171 - mit Abschlussbericht zur Kenntnis genommen
