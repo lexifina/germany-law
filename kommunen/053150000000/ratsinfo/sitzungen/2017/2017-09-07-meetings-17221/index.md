@@ -1,0 +1,98 @@
+# 24. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-07T17:09:00+02:00
+- Ende: 2017-09-07T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17221
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17221
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00624871.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00624871.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00624871.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparkplätze in Köln-Kalk (Az.: 02-1600-71/17) - endgültig abgelehnt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Fußgängerüberweg an der Haltestelle Brück Mauspfad in Köln-Brück (Az.: 02-1600-81/17) - ungeändert beschlossen
+- TOP 2.3: Eingabe zur Containeranlage KGS Fußfallstraße (AZ.: 02-1600-62/17) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Verstärkte Kontrollen durch das Ordnungsamt im Geltungsbereich der neu eingeführten Parkraumbewirtschaftung in Kalk West - ungeändert beschlossen
+- TOP 7.2: Verkehrssicherheit auf der Olpener Straße in Köln-Merheim - ungeändert beschlossen
+- TOP 7.3: Oberirdische Öffnung der U-Bahn-Haltestelle Fuldaer Straße in Köln-Höhenberg - geändert beschlossen
+- TOP 7.4: Aussäen von Wildpflanzen auf Fahrbahnmittelstreifen im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 7.5: Sicherung der dauerhaften Nutzung des Feldweges von der Unterführung an der Wikingerstraße entlang der ICE-Trasse in Richtung Maarhäuser Weg in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.6: Verbesserung der Parksituation am P+R-Platz an der Endhaltestelle Königsforst sowie in der Forsbacher Straße in Köln-Rath/Heumar - geändert beschlossen
+- TOP -: Verbesserung der Parksituation am P+R-Platz an der Endhaltestelle Königsforst sowie in der Forsbacher Straße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.7: Pläne für die Verkehrsführung auf der Eiler Straße bzw. der Rather Schulstraße während der Sanierung der A3-Brückenbauwerke in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.8: Neuordnung der Gremberger Straße in Köln-Humboldt/Gremberg - ungeändert beschlossen
+- TOP 7.9: Erhalt und Stärkung des Bezirksordnungsdienstes - Stark im Veedel, nah beim Menschen - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Beratung des Haushaltsplan-Entwurfs 2018 einschließlich der Finanzplanung bis 2021 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP 8.1.2: Haushaltsplan-Entwurf 2018 - hier: Veranschlagung der bezirksorientierten Mittel für die Jahre 2016 und 2017 gemäß § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 8.1.3: Baubeschluss für den Neubau eines Rad- und Gehweges Alter Deutzer Postweg sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6620, Neubau Radwege/ Radschnellwege - ungeändert beschlossen
+- TOP 8.1.4: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Kalk) ab dem Jahr 2017 ff. - ungeändert beschlossen
+- TOP 8.1.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 8.1.6: alter Kalker Friedhof - ungeändert beschlossen
+- TOP 8.1.7: Benennung eines Weges im Sportpark Höhenberg in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8.1.8: Vergabe eines weiteren Teils der bezirksorientierten Mittel für das Jahr 2017 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anpassung der Hauptsatzung der Stadt Köln - geändert beschlossen
+- TOP -: Anpassung der Hauptsatzung der Stadt Köln (0207/2017) - ungeändert beschlossen
+- TOP 8.2.2: Gestaltungshandbuch der Stadt Köln - ungeändert beschlossen
+- TOP 8.2.3: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 12 Köln-Kalk - geändert beschlossen
+- TOP -: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 12 Köln-Kalk (Vorlage-Nr. 1782/2017) - ungeändert beschlossen
+- TOP 8.2.4: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - geändert beschlossen
+- TOP -: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 Köln-Vingst (Vorlage-Nr. 1173/2017) - ungeändert beschlossen
+- TOP 8.2.5: 260. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 8.2.6: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 8.2.7: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - ungeändert beschlossen
+- TOP -: 15 Minuten kostenfreies Parken (Rahmenbeschluss) (1186/2016) - endgültig abgelehnt
+- TOP 8.2.8: Baubeschluss: Sanierung und Optimierung des Ki d S - Standortes Brücker Mauspfad 646 - ungeändert beschlossen
+- TOP 8.2.9: Planfeststellungsverfahren gem. §§ 18 ff des Allgemeinen Eisenbahngesetzes (AEG) für die ICE Neubaustrecke Köln - Rhein/Main, Planfeststellungsabschnitt 11 - geändert beschlossen
+- TOP -: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 11 Köln-Vingst (Vorlage-Nr. 2454/2017) - ungeändert beschlossen
+- TOP 8.2.10: 261. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 8.2.11: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - ungeändert beschlossen
+- TOP 8.2.12: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 8.2.13: MHD Gelände in Köln-Kalk, Aufhebung des Bebauungsplans 70451/03 - Einleitungsbeschluss- - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Geruchsbelästigung in der Toilettenanlage der Grundschule Volberger Weg in Rath/Heumar - Kenntnis genommen
+- TOP 9.1.2: Umgestaltung der Germaniastraße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.3: Verlängerung der rechten Fahrbahnspur Vingster Ring zur Frankfurter Straße in Fahrtrichtung Nohlenweg und Abbiegung nach Ostheim. - Kenntnis genommen
+- TOP 9.1.4: Öffnung der Saarbrücker Straße in Köln-Ostheim für Radfahrer in beide Fahrtrichtungen - Kenntnis genommen
+- TOP 9.1.5: Schranke an der Straße Kreuzchesweg in Köln-Brück - Kenntnis genommen
+- TOP 9.1.6: Bildung von Wasserlachen im Bereich der Hans-Schulten-Straße/Rather Kirchweg in Köln-Brück - Kenntnis genommen
+- TOP 9.1.7: Sperrung der Steprathstraße für Fahrzeuge über 7,5 Tonnen - Kenntnis genommen
+- TOP 9.1.8: Neue Situation beim Molis-Hof in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Neue Abstandsregelungen für Spielhallen auf Basis des Glückspielstaatsvertrages zum 01.12.2017 - Kenntnis genommen
+- TOP 9.2.2: Bänke in der Grünfläche Kösener Weg/Erfurter Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 10.2.2: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 10.2.3: Planung von Jugendeinrichtungen in Köln Roggendorf/ Thenhoven und Kalk - Kenntnis genommen
+- TOP 10.2.4: Sicherung der Gleisanlagen an der Haltestelle Röttgensweg in Köln-Rath/Heumar vor unberechtigtem Betreten - Kenntnis genommen
+- TOP 10.2.5: Geschwindigkeitsregelung für das Neubaugebiet Peter-Hagen-Straße/Otto-Unger-Weg in Köln Brück - Kenntnis genommen
+- TOP 10.2.6: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Kalk aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.03.2017 - Kenntnis genommen
+- TOP 10.2.7: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 10.2.8: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.9: Sport in Metropolen - Netzwerk Sport und Bewegung Kalk - Kenntnis genommen
+- TOP 10.2.10: 70447/04; Robertstraße in Köln-Kalk; Offenlage des Vorhabenbezogenen Bebauungsplan-Entwurfs - Kenntnis genommen
+- TOP 10.2.11: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 10.2.12: Naturnaher Gewässerausbau des Flehbach in der Parkanlage Köln-Brück - Kenntnis genommen
+- TOP 10.2.13: Mitteilung zu einer Bürgereingabe gem. § 24 GO "Verkehrssituation in der Salzschlirfer Straße in Köln-Höhenberg" (AZ.: 02-1600-61/17) - Kenntnis genommen
+- TOP 10.2.14: Mitteilung einer Bürgereingabe gem. § 24 GO "Bessere Querungsmöglichkeiten, Tempo 30-Zone und Streckenführung der Buslinie 150" (AZ.: 02-1600-211/16) - Kenntnis genommen
