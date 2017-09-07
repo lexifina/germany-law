@@ -1,0 +1,8 @@
+# TOP 5: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2017 - 2020
+
+- Sitzung: Sitzung (2017-09-07)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/173872
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/63624
