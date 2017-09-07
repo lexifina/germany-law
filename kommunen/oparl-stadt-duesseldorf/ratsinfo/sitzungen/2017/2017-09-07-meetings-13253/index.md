@@ -1,0 +1,85 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-07T17:00:00+02:00
+- Ende: 2017-09-07T19:31:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13253
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13253
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299429.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299429.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299429.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Umbau Kinder- und Wasserspielplatz Tannenhofweg - einstimmig beschlossen
+- TOP 5: Umwidmung von Kinderspielplätzen - einstimmig abgelehnt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Planfeststellungsverfahren RRX, Planfeststellungsabschnitt (PFA) 2.1 - Reisholz – Wehrhahn - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2017 - einstimmig beschlossen
+- TOP 11: Probeweise Einrichtung eines Wochenmarktes auf dem Freiheitplatz - einstimmig beschlossen
+- TOP 12: Grundstück Sodener Weg - beantwortet
+- TOP 13: Rasengleise Erkrather Straße - beantwortet
+- TOP 14: Verkehrsmaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 15: Lärmschutz im Stadtbezirk 8 - beantwortet
+- TOP 16: Glasmacherviertel und Ortsumgehung Gerresheim - beantwortet
+- TOP 17: Logistik - Zentrum Dillenburger Weg - beantwortet
+- TOP 18: Grundstück Vennhauser Allee 222 - beantwortet
+- TOP 19: Rad- und Fußweg Gubener Straße - beantwortet
+- TOP 20: Hol- und Bringzonen an Grundschulen im Stadtbezirk 8 - beantwortet
+- TOP 21: Ausfälle auf den Buslinien 723, 735 und 737 - beantwortet
+- TOP 22: Attraktivierung des Lierenfelder Zentrums und Erhöhung der Verkehrssicherheit - beantwortet
+- TOP 23: Auswirkungen des Verkehrsversuchs Höherweg - beantwortet
+- TOP 24: Sicherheitsmaßnahmen bei öffentlichen Veranstaltungen - beantwortet
+- TOP 25: Auf- und Abgänge S-Bahnhof Eller - beantwortet
+- TOP 26: Gasbeleuchtung im Stadtbezirk 8 - beantwortet
+- TOP 27: 'Runder Tisch' Gumbertstraße - beantwortet
+- TOP 28: Runder Tisch LEG-Wohnungen Vennhausen - mehrheitlich beschlossen
+- TOP 29: Lärmbelästigung Abstellbahnhof Speyerweg / Dillenburger Weg - einstimmig beschlossen
+- TOP 30: Parkregeliung Reichenbacher Weg - zurückgezogen
+- TOP 31: Verkehrsregelung An der Schützenwiese - einstimmig beschlossen
+- TOP 32: Verkehrsüberwachung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 33: Verkehrssituation Darmstädter Straße - einstimmig beschlossen
+- TOP 34: Parkplätze und Verkehrsführung Eller Mitte - einstimmig beschlossen
+- TOP 35: Fahrbahnmarkierungen Deutzer Straße - einstimmig beschlossen
+- TOP 36: Zusatzbeschilderung Feuerwehrausfahrt Wache Unterbach - einstimmig beschlossen
+- TOP 37: Fuß-/Radweg zwischen der Fußgängerunterführung Am krahnap / Festenbergstraße - einstimmig beschlossen
+- TOP 38: Bezirkssportanlage TSV Eller 04, Vennhauser Allee 129 - einstimmig beschlossen
+- TOP 39: RRX - Planung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 40: Bürgersteigabsenkung Waldenburger Weg - einstimmig beschlossen
+- TOP 41: Öffentliche Parkfläche Gubener Straße / Höherhofstraße - einstimmig beschlossen
+- TOP 42: Fahrbahnsanierung Erlenkamp - einstimmig beschlossen
+- TOP 43: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 44: Kuthsweg 43 / Gatherweg 109 - zur Kenntnis genommen
+- TOP 45: Verbindungsweg Rothenbergstraße / Gerresheimer Landstraße zum Unterbacher See - zur Kenntnis genommen
+- TOP 46: Barrierefreier Ausbau der Haltestelle „Hürthstraße“ - zur Kenntnis genommen
+- TOP 47: Barrierefreier Ausbau der Haltestelle „Bernburger Straße" - zur Kenntnis genommen
+- TOP 48: Barrierefreier Ausbau der Haltestelle „Bingener Weg" - zur Kenntnis genommen
+- TOP 49: Barrierefreier Ausbau der Haltestelle „Bernburger Straße" - zur Kenntnis genommen
+- TOP 50: Barrierefreier Ausbau der Haltestelle „Erlenkamp" - zur Kenntnis genommen
+- TOP 51: Barrierefreier Ausbau der Haltestelle „Lierenfelder Straße" - zur Kenntnis genommen
+- TOP 52: Luftqualität an Kreuzungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Unterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 54: Halbhüftiges Parken auf dem Kamper Weg - zur Kenntnis genommen
+- TOP 55: Dynamische Fahrgastinformation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Ortseingangsbeschilderung am Elbsee - zur Kenntnis genommen
+- TOP 57: Verkehrssituation Kreuzung Vennhauser Allee / Rothenbergstraße - zur Kenntnis genommen
+- TOP 58: Gertrudisplatz / Ecke Rütgerstraße - zur Kenntnis genommen
+- TOP 59: Parkplatz Vennhauser Allee - zur Kenntnis genommen
+- TOP 60: Monckartzhofweg - Beleuchtung - zur Kenntnis genommen
+- TOP 61: Ausbau Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 62: Geschwindigkeitsmessungen Kamper Weg und Tannenhofweg - zur Kenntnis genommen
+- TOP 63: Stadtbahnlinie U75 - Barrierefreier Ausbau der Haltestelle Lierenfeld Betriebshof (Btf) - zur Kenntnis genommen
+- TOP 64: Fußgängerüberweg Eller Kamp - zur Kenntnis genommen
+- TOP 65: Ausfälle auf den Buslinien 723, 725 und 737 - zur Kenntnis genommen
+- TOP 66: Künstlerische Gestaltung von Schalt- und Verteilerkästen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 67: Hol- und Bringzonen an Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 68: Logistik - Zentrum Dillenburger Weg - zur Kenntnis genommen
