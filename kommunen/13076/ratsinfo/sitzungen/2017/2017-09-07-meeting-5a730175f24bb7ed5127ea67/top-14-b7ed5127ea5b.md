@@ -1,0 +1,8 @@
+# TOP 14: Bericht Controlling FD Soziales 1. Halbjahr 2017
+
+- Sitzung: Sitzung des Haushalts- und Finanzausschusses (2017-09-07)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730175f24bb7ed5127ea5b
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a730174f24bb7ed5127ea55
