@@ -1,0 +1,87 @@
+# 28. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-07T17:00:00+02:00
+- Ende: 2017-09-07T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17043
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17043
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Geschwindigkeitsreduzierung Pestalozzistraße in Köln-Pesch (Az.: 02-1600-83/17) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Fußgängerüberquerung Industriestraße - Kenntnis genommen
+- TOP 7.1.2: Schul-Container in der Ursula-Kuhr-Hauptschule in Heimersdorf - Kenntnis genommen
+- TOP 7.1.3: Fahrradwege im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Stadtteilfeste in Seeberg - Kenntnis genommen
+- TOP 7.1.5: Reinigung Rheinufer - Kenntnis genommen
+- TOP 7.1.6: Wilder Flohmarkt am Londoner Platz - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bepflanzung von Kreisverkehren in Chorweiler-Mitte Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Einrichtung eines Absoluten Halteverbotes auf dem Volkhovener Weg zwischen Pingenweg und Millitärringstr. Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Schließung des Chorweiler Bad in den Sommerferien Anfrage der Fraktion Bündnis´90 / Die Grünen - geändert beschlossen
+- TOP 7.2.4: Verbindungsweg EKZ Heimersdorf zum Giershausener Weg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Widerrechtliches Parken auf Grünflächen - Kenntnis genommen
+- TOP 8.1.2: Benennung des Weges zwischen Rheinkasseler Weg und Amandusstraße in "Musikgasse" - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Zebrastreifen Chorbuschstraße Gemeinsamer Antrag der CDU-Fraktion und der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.2: Entwidmung eines Teilstücks einer Gemeindestraße in Heimersdorf Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.3.3: Errichtung eines Zebrastreifens auf der Herstattallee in der Höhe Zörgiebelstraße Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.4: Behindertengerechter Umbau der Rampe am Fahrradstellplatz U-Bahnhofstation Heimersdorf Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beratung des Haushaltsplan-Entwurf 2018 einschließlich der mittelfristigen Finanzplanung bis 2021 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP 9.1.2: Haushaltsplan-Entwurf 2018 hier: Beschluss über die sachliche Verwendung der bezirksorientierten Mittel für das Jahr 2018 gem. § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 9.1.3: Straßen- und Radwegunterhaltungsprogramm im Kölner Stadtgebiet (Chorweiler) 2017 hier: Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 9.1.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.5: Verfügungsfonds Chorweiler Mitte - ungeändert beschlossen
+- TOP 9.1.6: Verfügungsfonds Chorweiler Mitte Hier: Antrag auf Zuwendung - geändert beschlossen
+- TOP 9.1.7: Aufstellung von Fahrgastunterständen (FGU) im Busbereich hier: Umsetzung des Werbenutzungsvertrages und Änderung in der Anzahl von FGU-Einheiten - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Anpassung der Hauptsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.2: Gestaltungshandbuch der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.3: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - geändert beschlossen
+- TOP 9.2.4: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - geändert beschlossen
+- TOP 9.2.5: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.6: Mehrgenerationenhaus Lindweiler 2017 - ungeändert beschlossen
+- TOP 9.2.7: Damiansweg in Köln-Volkhoven/Weiler; Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Termine - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 10.2.3: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 10.2.4: Planung von Jugendeinrichtungen in Köln Roggendorf/ Thenhoven und Kalk hier: Sachstand - Kenntnis genommen
+- TOP 10.2.5: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 10.2.6: Zwölfter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.7: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln Jahresbericht 2016 der Sozialraumkoordinatoren - Kenntnis genommen
+- TOP 10.2.8: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 10.2.9: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Katholische Grundschule Gutnickstr.37, 50769 Köln - Kenntnis genommen
+- TOP 10.2.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Öffentlicher Personennahverkehr - Kenntnis genommen
+- TOP 11.1.2: Wochenmarkt auf dem Liverpooler Platz in Köln-Chorweiler - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
