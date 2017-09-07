@@ -1,0 +1,51 @@
+# 23. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-07T18:00:00+02:00
+- Ende: 2017-09-07T19:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16892
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16892
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung der Anfrage von Herrn van Geffen zur aktualisierten Übersicht des Gewerbeflächenbereitstellungskonzeptes aus der Sitzung des Wirtschaftsausschusses vom 27.04.2017 (Mitteilung 0284/2017; TOP 7.1) - Kenntnis genommen
+- TOP 3.2: Beantwortung der Anfrage des Ratsmitgliedes Dr. Schoser aus der Sitzung des Wirtschaftsausschusses vom 01.12.2016 betreffend TOP 16 / Mündliche Anfragen: Planung der Universität zu Köln in einem Landschaftssch - Kenntnis genommen
+- TOP 3.3: Umsetzung der Marktsatzung und der Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Bilanzierung der Auslandsakquise bei Schwerpunktländern - Kenntnis genommen
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Gestaltungshandbuch der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 6.3: 70480/12; Ehemaliger Güterbahnhof in Köln-Mülheim; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 6.4: Umsetzung Einzelhandels- und Zentrenkonzept (EHZK) Hier: Entfristung der Koordinationsstelle für Geschäftszentrenentwicklung und Initiativenmanagement im Amt für Stadtentwicklung und Statistik - ungeändert beschlossen
+- TOP 6.5: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert beschlossen
+- TOP 6.6: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 10.1: Endfassung des Datenreports Kultur- und Kreativwirtschaft Köln 2017 - Kenntnis genommen
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 12.1: Beantwortung einer schriftlichen Anfrage der CDU-Fraktion im Rat der Stadt Köln und der Fraktion Bündnis 90/Die Grünen im Kölner Rat zum Thema "Vermittlungsstelle Seniorinnen- und Seniorenjobs" - Kenntnis genommen
+- TOP 12.2: 5. Fortführung von "Win-Win für Köln" - ein kombiniertes Programm der Arbeitsmarkt-, Sozial- und Bildungspolitik zur Wertverbesserung städtischer Gebäude - ohne Votum in nachfolgende Gremien
+- TOP 12.3: Beantwortung einer mündlichen Anfrage des RM Frank im Liegenschaftsausschuss bezüglich des Sachstandes zur Sanierung und Wiederinbetriebnahme des Parkcafés im Kölner Rheinpark - Kenntnis genommen
+- TOP 12.4: Kommunales Beschäftigungs- und Qualifizierungsprogramms für Langzeitarbeitslose - zurückgestellt
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Mitteilungen
+- TOP 14.1: Organisation des Dezernates VIII - Mobilität und Verkehrsinfrastruktur, Anfrage der SPD-Fraktion , AN/0779/2017 - Kenntnis genommen
+- TOP 14.2: Kölner Marktplatz "Gute Geschäfte" - Kenntnis genommen
+- TOP 14.3: Standort der Europäischen Arzneimittelagentur - Kenntnis genommen
+- TOP 14.4: Deutsch-Brasilianische Wirtschaftstage 2018 - Kenntnis genommen
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 15.1: Beschluss einer Satzung nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) für das Gebiet der Immobilien- und Standortgemeinschaft Severinstraße - ohne Votum in nachfolgende Gremien
+- TOP 16: Mündliche Anfragen
