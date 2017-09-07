@@ -1,0 +1,58 @@
+# 42. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-09-07T16:00:00+02:00
+- Ende: 2017-09-07T22:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5764
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5764
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00311195.pdf
+- Wortprotokoll: Nachtrag_SR_2017_09_07 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00312441.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Bürgerbeteiligung bei der Planung zum Ausbau der Königsbrücker Straße - erledigt
+- TOP 2.2: Verkehrssicherheit Kita "Koboldland" in Dresden Klotzsche - erledigt
+- TOP 2.3: Fahrradparkhaus am Hauptbahnhof - erledigt
+- TOP 2.4: Familiennachzug - erledigt
+- TOP 2.5: Zukünftige Verkehrsführung am Schillerplatz - erledigt
+- TOP 2.6: Gründung einer städtischen Wohnungsbaugesellschaft GmbH & Co. KG - erledigt
+- TOP 2.7: Beschlusskontrolle zum Planfeststellungsverfahren für die Cunnersdorfer Straße - erledigt
+- TOP 2.8: Weiterbetrieb der Natur- und Umweltschule - erledigt
+- TOP 2.9: Fusswegsanierung Rißweg - erledigt
+- TOP 2.10: Baustelleneinrichtung Augustusbrücke auf dem Theaterplatz - erledigt
+- TOP 2.11: Religiöse Veranstaltungen im säkularen Rathaus - erledigt
+- TOP 2.12: Verwaltungszentralisierung des Dresden-Passes - erledigt
+- TOP 2.13: Gymnasialstandort Boxberger Straße - erledigt
+- TOP 2.14: Raum für die Feuerwehr (Anstellflächen) - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 3.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 3.2: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 3.3: Ausschuss für Petitionen und Bürgerbeteiligung - Einigung
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 4.1: Umbesetzung im Ortsbeirat Plauen - Einigung
+- TOP 4.2: Umbesetzung im Ortsbeirat Plauen - Einigung
+- TOP 5: Nachbesetzung von 2 Stellvertretern in den Umlegungsausschuss - Einigung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Vertagung Stadtratssitzung vom 22. Juni 2017
+- TOP 7.1: Dresdner Richtlinie zur sozialen Mietwohnungsbauförderung - Ersetzung
+- TOP 8: Vertagungen der Stadtratssitzung vom 17. August 2017
+- TOP 8.1: Bebauungsplan Nr. 336, Dresden-Strehlen Nr. 3, Wohnanlage Geystraße Süd - Zustimmung
+- TOP 8.2: Ermittlung der Investitionsnotwendigkeiten in die städtische Schulinfrastruktur - Zustimmung
+- TOP 8.3: Für einen Fernbusbahnhof mit Fahrradparkhaus am Hauptbahnhof! - punktweise Zustimmung mit Ergänzung
+- TOP 8.4: Einführung des Handyparkens für Dresden - Vertagung nach 22 Uhr
+- TOP 9: "Wir entfalten Demokratie. Lokales Handlungsprogramm für ein vielfältiges und weltoffenes Dresden" (2017 - 2022) - Zustimmung
+- TOP 10: Förderung innovativer Projekte in der LH Dresden (Innovationsförderung) - Vertagung
+- TOP 11: Auswahl und Vergabe des DRESDEN EXCELLENCE AWARD – Wissenschaftspreis der Stadt Dresden für wissenschaftliche Abschlussarbeiten von Absolventinnen und Absolventen der ortsansässigen Hochschulen mit Bezug zu Dresden (einmal jährlich) - Vertagung nach 22 Uhr
+- TOP 12: Einrichtung des Gymnasiums Seidnitz in der Planungsregion Linkselbisch Ost (LEO) - Verweisung
+- TOP 13: Gründung und Neubau der 148. Grundschule - Zustimmung mit Ergänzung
+- TOP 14: Machbarkeitsstudie zur Wiedereröffnung des Fernsehturmes - weiterführende Untersuchungen und Veränderungsmoratorium - Verweisung
+- TOP 15: Sanierungs- und Entwicklungskonzept der Dresdner Sportstätten - Vertagung nach 22 Uhr
+- TOP 16: Änderung der Richtlinie der Landeshauptstadt Dresden über Kunst im öffentlichen Raum - Vertagung durch Einreicher
+- TOP 17: Wiederaufbau Prinzenpalais - Vertagung durch Einreicher
+- TOP 18: Straßenneubenennung - Vertagung nach 22 Uhr
