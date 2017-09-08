@@ -1,0 +1,56 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-08T16:00:00+02:00
+- Ende: 2017-09-08T18:02:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13407
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13407
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299427.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299427.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299427.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Straßen- oder Platzbenennung nach Max Schmeling in der Paulsmühle/Benrath - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Laufzeitverlängerung für das Benrather Weihnachtsdörfchen 2017 - abweichend beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 Haushalt 2017 - einstimmig beschlossen
+- TOP 15: Umwidmung von Kinderspielplätzen in den Stadtbezirken 3, 4, 5, 8, 9 und 10 - einstimmig beschlossen
+- TOP 16: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 17: Oerschbachstraße - Radverkehrsführung zwischen Bahnübergang und Reisholzer Bahnstraße - zur Kenntnis genommen
+- TOP 18: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung (SOM V) - zur Kenntnis genommen
+- TOP 19: Anfrage: Fluglärm im Stadtbezirk 9 - beantwortet
+- TOP 20: Anfrage: Sport- und Multifunktionshalle Itterstraße - beantwortet
+- TOP 21: Anfrage: Fahrradabstellanlagen - zur Kenntnis genommen
+- TOP 22: Antrag: Fitness-Parcours im Park Elbroich - einstimmig beschlossen
+- TOP 23: Antrag: Verkehrsverstöße in Wersten-West - einstimmig beschlossen
+- TOP 24: Antrag: Verkehrsverstöße Werstener Dorfstraße - einstimmig beschlossen
+- TOP 25: Antrag: Hochwasserschutz Himmelgeist - einstimmig beschlossen
+- TOP 26: Antrag: Maikammer, Sortierung Parken - einstimmig beschlossen
+- TOP 27: Antrag: Geschwindigkeitsüberwachung Am Schönenkamp - einstimmig beschlossen
+- TOP 28: Antrag: Parkplatz Wimpfener Straße - einstimmig beschlossen
+- TOP 29: Antrag: Schützenplatz Kölner Landstraße - einstimmig beschlossen
+- TOP 30: Antrag: Lebendiger Weihnachtsbaum Hassels - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel St. Seb. Schützenbruderschaft von 1641 Himmelgeist e.V. - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz e.V. - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Städt. GGS Am Köhnen - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V., Sommerfest - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel Heimatverein Holthausen - Itter - Himmelgeist - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel Heimatverein Holthausen - Itter - Himmelgeist - einstimmig beschlossen
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 24.03.2017, Pigageallee - zur Kenntnis genommen
+- TOP 38: Informationsvorlage zum Beschluss der BV 9 vom 07.07.2017, Nutzungserweiterung - zur Kenntnis genommen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 07.07.2017, Elbroichpark - zur Kenntnis genommen
