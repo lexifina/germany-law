@@ -1,0 +1,85 @@
+# 26. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-11T17:00:00+02:00
+- Ende: 2017-09-11T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17100
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17100
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohneranfrage - Entwicklung des Kolb-Geländes - Café im Innenhof - Kenntnis genommen
+- TOP 2.2: Einwohneranfrage - Entwicklung des Kolb-Geländes - Verkehrsaufkommen und Lärmbelastung - Kenntnis genommen
+- TOP 2.3: Einwohneranfrage - Entwicklung des Kolb-Geländes - nordöstlicher Hallenabschnitt - Nutzung für "Ausstellung und Aktion" - Kenntnis genommen
+- TOP 2.4: Einwohneranfrage - Entwicklung des Kolb-Geländes - finanzielle Grundlage des geplanten Kulturzentrums - Kenntnis genommen
+- TOP 2.5: Einwohneranfrage - Entwicklung des Kolb-Geländes - Innenhoffläche - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung Kreuzung Klarastr./Stammstr. Köln-Ehrenfeld (Az.: 02-1600-59/17) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Öffnung der Einbahnstraßen für den gegenläufigen Radverkehr, Anfrage der SPD Fraktion vom 25.06.2017 - Kenntnis genommen
+- TOP 6.2: Bedarfsgerechter Ausbau der Kindertagesbetreuung – Wie weiter? - Kenntnis genommen
+- TOP 6.2.1: Bedarfsgerechter Ausbau der Kindertagesbetreuung - Kenntnis genommen
+- TOP 6.3: Sachstand Antrag Mülleimer/Reinigung Neptunplatz sowie aktuelle Marktsituation, Anfrage der Fraktion Bündnis 90/Die Grünen vom 30.06.2017 - Kenntnis genommen
+- TOP 6.3.1: Sachstand Antrag Mülleimer/Reinigung Neptunplatz - Kenntnis genommen
+- TOP 6.4: Sachstand Antrag AN/0736/2017 Venloer Straße autofrei/ Boulevard Ehrenfeld, Anfrage der Fraktion Bündnis 90/Die Grünen vom 30.06.2017 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Es fährt ein Zug nach Ossendorf. – Wie ist die HGK-Strecke für den ÖPNV nutzbar? - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Probe-Sonntag Venloer Straße autofrei/ Boulevard Ehrenfeld (Sachstand Antrag AN/0736/2017) - Kenntnis genommen
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Baumaßnahme Philippstr. - endgültig zurückgezogen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion, betr.: Teilsperrung der Philippstraße, 50823 Köln für Kraftfahrzeuge über 7,5t - zurückgestellt
+- TOP 8.2: Antrag der Fraktion Die Linke, betr.: Planunterlagen den stadtgesellschaftlichen Erfordernissen anpassen - zurückgestellt
+- TOP 8.3: Antrag der Fraktion Die Linke, betr.: Wohnungsnot bekämpfen – Flächenfraß verhindern (I) - geändert beschlossen
+- TOP 8.4: Antrag der Fraktion Die Linke, betr.: Wohnungsnot bekämpfen – Flächenfraß verhindern (II) - geändert beschlossen
+- TOP 8.5: Antrag der Fraktion Die Linke, betr.: Wohnungsnot bekämpfen – Flächenfraß verhindern (III) Hier: Geflüchtete in Ferienwohnungen unterbringen - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 9.1.1: Bürgereingabe gem. § 24 GO zu TOP 9.1 Parkraumkonzept - zurückgestellt
+- TOP 9.2: Straßen- und Radwegerhaltungsmaßnahmen im Kölner Stadtgebiet (Ehrenfeld) ab dem Jahr 2017 ff. - ungeändert beschlossen
+- TOP 9.3: Beratung des Haushaltsplan-Entwurfs 2018 einschließlich der Finanzplanung bis 2021 und der sonstigen Anlagen - geändert beschlossen
+- TOP 9.4: Haushaltsplan-Entwurf 2018 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.6: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" Ausstellungsprojekt "Begegnungen" (Antrag Nr. 14 auf Gewährung von Zuwendungen aus dem Verfügungsfonds) - ungeändert beschlossen
+- TOP 9.7: Grünfläche Butzweiler Hof - geändert beschlossen
+- TOP 9.8: Zweite Vergabe der bezirklichen Finanzmittel 2017 - ungeändert beschlossen
+- TOP 9.9: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite
+- TOP 10.2: Gestaltungshandbuch der Stadt Köln - geändert beschlossen
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Anpassung der Hauptsatzung der Stadt Köln - geändert beschlossen
+- TOP 10.3.1: Änderungsantrag der CDU-Fraktion zu TOP 10.3, betr.: Änderung der Hauptsatzung - geändert beschlossen
+- TOP 10.4: Verdichtung des Fahrplantaktes der Linie 4 - geändert beschlossen
+- TOP 10.4.1: Änderungsantrag der Fraktion Die Linke zu TOP 10.4, Verdichtung des Fahrplantaktes der Linie 4 - ungeändert beschlossen
+- TOP 10.5: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld; Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 10.6: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - endgültig abgelehnt
+- TOP 10.7: Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld; Einleitungsbeschluss - zurückgestellt
+- TOP 10.8: 261. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.9: Kolb-Halle an der Helmholtzstraße in Köln-Ehrenfeld; hier: Vorgaben an die Eigentümerin NRW Urban GmbH & Co. KG zum Grundstücksverkauf gemäß den Richtlinien des Grundstücksfonds NRW - geändert beschlossen
+- TOP 10.10: Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld; VEP: Einleitungsbeschluss - zurückgestellt
+- TOP 10.11: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - geändert beschlossen
+- TOP 10.12: Schulrechtliche Errichtung der Gesamtschule Wasseramselweg – Start der Schule bis zum Umzug in den Neubau am benachbarten Interimsstandort Wasseramselweg in anzumietenden Räumlichkeiten zum Schuljahr 2018/19 - geändert beschlossen
+- TOP 10.12.1: Gemeinsamer Änderungsantrag aller Fraktionen und Einzelvertreter Schuster (Deine Freunde) zu TOP 10.12, betr.: Schule Girlitzweg Interim Verkehr - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Ehrenfeld aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.12.2016 - zurückgestellt
+- TOP 12.2: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 12.3: Abbau eines Baustellenkrans an einem Sonntag - Kenntnis genommen
+- TOP 12.4: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 12.5: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 12.6: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 12.7: Sanierung ohne Verdrängung - Wohngeldberatung - Kenntnis genommen
+- TOP 12.8: Öffentliche Toilette für den Ehrenfelder Friedhof - Kenntnis genommen
+- TOP 12.9: Förderung von Elektromobilität (AN/1890/2016) - Nachfragen zum Sachstand 1983/2017 - Kenntnis genommen
+- TOP 12.10: Auslagerung der GGS Görlinger Zentrum - Kenntnis genommen
+- TOP 12.11: Radverkehrskonzept für den Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.12: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
