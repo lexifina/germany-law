@@ -1,0 +1,79 @@
+# 23. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-11T17:00:00+02:00
+- Ende: 2017-09-11T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17398
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17398
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gemäß § 24 GO - Gasmotorenfabrik Deutz in Köln-Mülheim/-Deutz; Az.. 02-1600-22/17 - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.:Bewohnerparken in Köln-Mülheim (Az.: 02-1600-46/17) - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigter Bereich Adam-Stegerwald-Straße 19-29 (Az.: 02-1600-37/17) - zurückgestellt
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Fahrradabstellplätze Herschelstraße (Az.: 02-1600-78/17) - ungeändert beschlossen
+- TOP 2.5: Bürgereingabe gem. § 24 GO, betr.: Verbesserungen am Elisabeth-Schäfer-Weg in Köln-Buchheim" - (AZ 02-1600-68/17) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Messeverkehr - Kenntnis genommen
+- TOP 7.1.2: Verkehrliche Maßnahmen auf der Bergisch Gladbacher Straße - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Stickoxidmessungen Clevischer Ring - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der CDU-Fraktion: Überflutungen bei Starkregen in der Edelhofstraße in Köln-Flittard - Kenntnis genommen
+- TOP 7.2.1.1: Beantwortung einer Anfrage der CDU-Fraktion: Überflutungen in der Edelhofstraße in Flittard - Kenntnis genommen
+- TOP 7.2.2: Anfrage der CDU-Fraktion: Infotafeln im Rahmen der Expo 2000 in der Flittarder Rheinaue - Kenntnis genommen
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.4: Geschwindigkeit im Bereich Diepeschrather Str./Waltherstr./Kalkweg - Kenntnis genommen
+- TOP 7.2.5: Umrüstung des Ascheplatzes des Vereins FC Germania Mülheim zu einem Kunstrasenplatz - Kenntnis genommen
+- TOP 7.2.6: Illegales Parken von Funkmietwagen in Mülheim - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Antrag der CDU-Fraktion zur Einrichtung von Umlauf-Wegesperren zum Elisabeth-Schäfer-Weg in Buchheim - zurückgestellt
+- TOP 8.1.2: Anpassung der Reinigung der Nordseite Haferkamp durch die AWB - ungeändert beschlossen
+- TOP 8.1.3: Umgestaltung des Kreuzungsbereiches Berliner Str./Leuchterstr./Zeisbuschweg - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Abschließende Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 9.1.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.3: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Mülheim) ab dem Jahr 2017 ff. - zurückgestellt
+- TOP 9.1.4: Beratung des Haushaltsplan-Entwurfs 2018 einschließlich der Finanzplanung bis 2021 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP 9.1.5: Haushaltsplan-Entwurf 2018 hier: Veranschlagung der bezirksorientierten Mittel für das Jahr 2018 gemäß § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.1.6: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Kinder- und Jugendförderplan der Stadt Köln 2016 - 2020 - ungeändert beschlossen
+- TOP 9.2.2: Anpassung der Hauptsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.3: Gestaltungshandbuch der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Schönrather Str. 7, 51063 Köln Mülheim und Abbruch der bisherigen Flüchtlingsunterkunft - ungeändert beschlossen
+- TOP 9.2.5: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - geändert beschlossen
+- TOP 9.2.6: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - geändert beschlossen
+- TOP 9.2.7: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.8: Leistungserweiterungen des ÖPNV-Angebotes auf Kölner Stadtgebiet gemäß Konzept des Rheinisch-Bergischen Kreises - geändert beschlossen
+- TOP 9.2.9: Errichtung eines neuen Schulgebäudes sowie einer 6-fach Sporthalle für die Willy-Brandt-Gesamtschule Im Weidenbruch 214, 51061 Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.4: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 10.2.5: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Stadtteilmütter - Verstetigung 2018 - Kenntnis genommen
+- TOP 10.2.6: Antwort der Deutschen Bahn (DB) zur Barrierefreiheit der S-Bahnhaltestelle Köln-Holweide - Kenntnis genommen
+- TOP 10.2.7: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 10.2.8: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.9: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 10.2.10: „Rucksack" - ein Programm zur koordinierten Sprachförderung und Elternbildung; Sachstand zur Finanzierung der Gruppen aus dem Programmgebiet „Mülheim 2020“ - Kenntnis genommen
+- TOP 10.2.11: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 10.2.12: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
