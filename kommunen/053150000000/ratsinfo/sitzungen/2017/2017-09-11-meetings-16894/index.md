@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-11T16:00:00+02:00
+- Ende: 2017-09-11T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16894
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16894
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00626684.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00626684.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00626684.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Reinigung in Schulen verbessern - geändert beschlossen
+- TOP 2.2: Prüfung der Entwicklung einer Gesamtschule für den Stadtbezirk Lindenthal am Standort der Elsa-Brändström-Realschule; Stärkung der NRW-Sportschule - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Beantwortung der Anfrage AN/0435/2017 nach § 4 Geschäftsordnung des Rates zu Sachmittelzulage pro Schüler - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.2: Beantwortung der Anfrage AN/0969/2017 - Kenntnis genommen
+- TOP 3.1.3: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates im Ausschuss Schule und Weiterbildung zu Feinstaubmessungen rund um Kölner Schulen (AN/0938/2017 - Kenntnis genommen
+- TOP 3.1.4: Vorlage 0740/2017 Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - "Starkes Köln" für die Sozialräume "Buchheim und Buchforst" sowie "Mülheim-Nord und Keupstraße" als Fortschreibung des Strukturförderprogramms MÜLHEIM 2020 Hier: Mündlic - Kenntnis genommen
+- TOP 3.1.5: Angebote Kultureller Bildung - Beantwortung der Anfrage AN/0465/2017 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.6: Anfrage der SPD-Fraktion gem. § 4 der Geschäftsordnung des Rates: Reinigung in Schulen verbessern - AN/0933/2017 - Kenntnis genommen
+- TOP 3.1.7: Sitzungsraum Stadtschulpflegschaft - Kenntnis genommen
+- TOP 3.1.8: Anfrage der Fraktion PIRATENGRUPPE gem. § 4 der Geschäftsordnung des Rates: Reinigung von Schultoiletten – zu AN/0606/2017 - Kenntnis genommen
+- TOP 3.1.9: Aktuelle Situation der Beschulung neu zugewanderter Kinder und Jugendliche - Kenntnis genommen
+- TOP 3.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Ansiedlung von Bienen-Völkern in städtischen Schulen
+- TOP -: Anfrage der FDP-Fraktion nach § 4 AN/0026/2017 Ansiedlung von Bienen-Völkern in städtischen Schulen - Kenntnis genommen
+- TOP 3.2.2: Schulstandorte im Kölner Stadtgebiet - im ersten Durchgang verwiesen
+- TOP 3.2.3: Schulbildung für junge Geflüchtete ab dem 19. Lebensjahr
+- TOP 3.2.4: Möglichkeit zum Weiterführen der Hauptschule in Rodenkirchen
+- TOP -: Möglichkeit zum Weiterführung der Hauptschule in Rodenkirchen - Kenntnis genommen
+- TOP 3.2.5: Sachstand der Inventarisierung an Schulen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Errichtung eines Bildungsgangs Berufliches Gymnasium für Wirtschaft und Verwaltung, Fachbereich Wirtschaft und Verwaltung am Alfred-Müller-Armack-Berufskolleg (BK 01) - ungeändert beschlossen
+- TOP 4.2: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert beschlossen
+- TOP 4.3: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 4.4: Schulrechtliche Errichtung der Gesamtschule Wasseramselweg – Start der Schule bis zum Umzug in den Neubau am benachbarten Interimsstandort Wasseramselweg in anzumietenden Räumlichkeiten zum Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 4.5: Errichtung eines neuen Schulgebäudes sowie einer 6-fach Sporthalle für die Willy-Brandt-Gesamtschule Im Weidenbruch 214, 51061 Köln - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Jahresbericht des Amtes für Schulentwicklung für 2016 - Kenntnis genommen
+- TOP 5.2: Qualitätstestierung: VHS Köln erneut zertifiziert - Kenntnis genommen
+- TOP 5.3: „Rucksack" - ein Programm zur koordinierten Sprachförderung und Elternbildung; Sachstand zur Finanzierung der Gruppen aus dem Programmgebiet „Mülheim 2020“ - Kenntnis genommen
+- TOP 5.4: Fachtag: "ZUSAMMENHALTEN! - SEXUELLE UND GESCHLECHTLICHE VIELFALT IN DER JUGENDHILFE" - Kenntnis genommen
+- TOP 5.5: Auslagerung der GGS Görlinger Zentrum - Kenntnis genommen
+- TOP 5.6: Schulstandort Paul-Humburg-Straße - Kenntnis genommen
+- TOP 5.7: Start des Projekts „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
