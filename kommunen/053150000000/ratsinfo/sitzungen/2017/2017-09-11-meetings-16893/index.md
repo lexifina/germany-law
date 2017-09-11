@@ -1,0 +1,66 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-11T15:00:00+02:00
+- Ende: 2017-09-11T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16893
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16893
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage: Mahnmale bzw. Grabstätten der gefallenen sowjetischen Soldaten und Kriegsgefangenen auf den Kölner Friedhöfen; Anfrage nach § 4 der GeschO des Rates (AN/0468/2017) - Kenntnis genommen
+- TOP 3.2: Beantwortung der mündlichen Nachfrage: Mitteilung 1363/2017 VHS Köln als Beratungsstelle für Fachberatung zur Anerkennung im Ausland erworbener Berufsqualifikationen aus der Sitzung vom 19.06.2017 - Kenntnis genommen
+- TOP 3.3: Beantwortung der Verwaltung zu Nachfragen aus dem Integrationsrat vom 20.03.2017 bzw. 19.06.2017 zu den Themen „Ombudsstelle für Flüchtlinge in Köln“ und „Unterbringung und Integration von Flüchtlingen“ - Kenntnis genommen
+- TOP 3.4: Beantwortung einer mdl. Nachfrage zur aktuellen Situation der Beschulung neu zugewanderter Kinder und Jugendliche - Kenntnis genommen
+- TOP 3.5: Beantwortung mehrerer Anfragen aus der Sitzung zum Thema Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern vom 20.03.2017 ( 5.13 Versorgung traumatisierter unbegleiteter minderjähriger Ausländer (UMA) 0681/2017) und vom 25.04.2017 - Kenntnis genommen
+- TOP 3.6: Beantwortung der Anfragen aus dem Integrationsrat zur Vorlage 4357 / 2016 "Ressourcen für Kitas im Bereich mehrsprachige Förderung" - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Situation des Hauses Bergisch-Gladbacher Str. 93 sowie dessen Bewohner_innen - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 5.2: Darstellung der Sparten - Kenntnis genommen
+- TOP 5.3: Schulformwechsel zum SJ 2015/16 und Abgänge 2015 - Kenntnis genommen
+- TOP 5.4: Beantwortung der Anfrage AN/0969/2017 - Turnhallenbelegung in Zukunft vermeiden im Sozialausschuss - Kenntnis genommen
+- TOP 5.5: Problemimmobilien in Köln – was tut die Stadtverwaltung? SPD-Anfrage - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0940/2017 Problemimmobilien in Köln - was tut die Stadtverwaltung - Kenntnis genommen
+- TOP -: Beantwortung von Nachfragen aus der Sitzung des STEA v. 06.07.17 zur Beantwortung der Anfrage 2068/2017 zur Vorlage "Problemimmobilien in Köln - was tut die Stadtverwaltung (AN/0940/2017)" - Kenntnis genommen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Netzwerk gegen häusliche Gewalt – Statistik 2016 - Kenntnis genommen
+- TOP 5.8: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 5.9: Bericht des Behindertenbeauftragten 04/2017 - Kenntnis genommen
+- TOP 5.10: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 5.11: Erledigung des Antrags: Prüfauftrag des Integrationsrates vom 13.06.2016 bzgl. Unterbringung von Flüchtlingen - Kenntnis genommen
+- TOP 5.12: Überprüfung von Kosteneinsparungen im Zusammenhang mit der Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 5.13: „Rucksack" - ein Programm zur koordinierten Sprachförderung und Elternbildung; Sachstand zur Finanzierung der Gruppen aus dem Programmgebiet „Mülheim 2020“ - Kenntnis genommen
+- TOP 5.14: Verfahren zur Vergabe der Fördermittel für Interkulturelle Kunstprojekte - Beschluss des Ausschusses Kunst und Kultur - zurückgestellt
+- TOP 5.15: 16. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 5.16: Teilnahme der Stadt Köln am Bundesprogramm "Kita-Einstieg: Brücken bauen in frühe Bildung" des Bundesministeriums für Familie, Senioren, Frauen und Jugend - Kenntnis genommen
+- TOP 5.17: Start des Projekts „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Verpflichtende Teilnahme der Integrationsratsmitglieder an einem Antirassismus-Programm - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Schönrather Str. 7, 51063 Köln Mülheim und Abbruch der bisherigen Flüchtlingsunterkunft - ungeändert beschlossen
+- TOP 8.2: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 8.3: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - geändert beschlossen
+- TOP 8.4: Anerkennung des Vereins Interkultur e.V. als Interkulturelles Zentrum nach den Richtlinien zur Förderung Interkultureller Zentren in der Stadt Köln vom 27.10.2007 - ungeändert beschlossen
+- TOP 8.5: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - ungeändert beschlossen
+- TOP 8.6: Verteilung verbleibender Mittel zur Förderung Interkultureller Zentren in 2017 - ungeändert beschlossen
+- TOP 8.7: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - ungeändert beschlossen
+- TOP 8.8: Beratung über den Entwurf der Haushaltssatzung für 2018 einschließlich der Finanzplanung bis 2021 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP 8.9: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert beschlossen
+- TOP 8.10: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 8.11: Mehrgenerationenhaus Lindweiler 2017 - ungeändert beschlossen
+- TOP 8.12: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
