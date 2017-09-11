@@ -1,0 +1,99 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212235
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212235
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Großhaderner Straße 54, gem. Baumbestandsplan Nr. 12312
+- TOP 7.1.2.: Asternstraße 3 a, 1 Wacholder
+- TOP 7.1.3.: Gräfelfinger Straße 44, 1 Feuerahorn
+- TOP 7.1.4.: Ludwig-Wörl-Weg 2, 8 und 10, 3 Kirschbäume
+- TOP 7.1.5.: Marchioninistraße 15, 1 Akazie
+- TOP 7.1.6.: Rudelsburgstraße 10, 1 Nadelbaum
+- TOP 7.1.7.: Steinbrechweg 19 b, 1 Weide
+- TOP 7.1.8.: Haseneystraße 1, 3 Zypressen
+- TOP 7.1.9.: Cochemstraße 6 a, 1 Spanische Küstentanne
+- TOP 7.1.10.: Silberblattstraße 3, 1 Ahorn
+- TOP 7.1.11.: Saalburgstr. 21, gem. Baumbestandsplan Nr. 17098
+- TOP 7.1.12.: Krokusstr. 71, gem. Baumsbestandsplan 17695
+- TOP 7.1.13.: Hosigaustr. 19, gem. Baumbestandsplan Nr. 17820
+- TOP 7.1.14.: Batzerstr. 8, gem. Baumbestandsplan Nr. 16870
+- TOP 7.1.15.: Hertlstraße 20, 1 Kiefer
+- TOP 7.1.16.: Ringstraße 1 b, 1 Birke
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7.1.17.: Tratzbergstraße 1a, 1 Birke
+- TOP 7.1.18.: Gräfelfinger Straße 127, 1 Walnussbaum
+- TOP 1.1.: Beschwerde über die Gaststätte "Sofa so Good", Ossingerstraße 4
+- TOP 1.2.: Probleme mit einer Tankstelle in der Fürstenrieder Str.
+- TOP 1.3.: Bolzplatz Stiftsbogen
+- TOP 1.4.: Hofflohmärkte Hadern - Sonntags erlaubt?
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung: Programm barrierefreie Bushaltestellen Wastl-Witt-Straße - Haltestelle Blumenau (Baureferat, 11.08.17)
+- TOP 5.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung: Programm barrierefreie Bushaltestellen Terofalstraße / Blumenauer Straße - Haltestelle Terofalstraße (Baureferat, 25.08.17)
+- TOP 5.3.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung: Waldwiesenstraße zwischen Gräfelfinger Straße und Tannenwaldstraße (Baureferat, 01.09.17)
+- TOP 6.1.: Verkehrsrechtliche Anordnung, hier: Haltverbot Maenherstraße (Kreisverwaltungsreferat, 08.08.17)
+- TOP 6.2.: Beschlussentwurf: Parkraummanagement in München - Fortschreibung Sektor V (Referat für Stadtplanung und Bauordnung, 08.08.17)
+- TOP 6.3.: Papierloses Arbeiten der Bezirksausschüsse; Anhörungsschreiben zu Technik-Pauschale und elektronischer Ladung (Direktorium, 17.08.2017)
+- TOP 6.4.: Beschlussentwurf: Planstelle für das Alten- und Servicezentrum Kleinhadern-Blumenau (Sozialreferat, 21.08.2017)
+- TOP 6.5.: Kleinhadener Str., Gemarkung Großhadern, Fl.Nr.: 1175/4 Errichtung Mehrfamilienhaus mit Tiefgarage - VORBESCHEID
+- TOP 6.6.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 20. Stadtbezirk (Kommunalreferat, 21.08.2017)
+- TOP 6.7.: Hosigaustraße 19, Neubau eines Doppelhauses mit 2 Einzelgaragen (Referat für Stadtplanung und Bauordnung, 25.08.17)
+- TOP 6.8.: Vorschläge des BA 20 zur Aufnahme in die Naturdenkmalliste (Referat für Stadtplanung und Bauordnung, 01.09.17)
+- TOP 7.4.1.: Pfundmayerstraße 19 - 27, 3 Robinien (Referat für Stadtplanung und Bauordnung, 09.08.17)
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Gräfelfinger Straße (Sozialreferat, 07.08.17)
+- TOP 8.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge, Juli 2017 (Sozialreferat, 10.08.17)
+- TOP 8.3.: Projekt Ludlstr. 1 - 21; Terminverschiebung der verkehrsaufsichtlichen Erlaubnis vom 01.08.2017 (Kreisverwaltungsreferat, 16.08.2017)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: zeitliche Verlängerung der verkehrlichen Anordnung Käpflstraße vom 17.03.2017, (Kreisverwaltungsreferat, 24.08.2017)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Pavillion", Guardinistraße 182 (Kreisverwaltungsreferat, 25.08.17)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, hier: Kurparkstraße 52, Strom (SWM, 28.08.17)
+- TOP 8.7.: Arbeiten im Straßenraum, hier: Rodensteinstraße 1 - 15 (gesamte Länge), Holzapfelkreuther Straße 11 - 15 und Windeckstraße 13 - 17, Fahrbahnsanierung (Kreisverwaltungsreferat, 30.08.17)
+- TOP 9.1.: REGSAM-Schwerpunktgebiete ab 2017 (Sozialreferat, 29.08.17)
+- TOP 11.1.: Jahresbericht Kommunalreferat 2016 (Kommunalreferat, 07.08.17)
+- TOP 11.2.: Geschäftsbericht und CSR-Bericht 2016 (GEWOFAG, 09.08.17)
+- TOP 11.3.: Münchner Wochen- und Bauernmärkte - Standort Guardinistraße (Kommunalreferat, 29.08.17)
+- TOP 11.4.: Broschüre "Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016" (Referat für Stadtplanung und Bauordnung, 05.09.17)
+- TOP 1.1.1.: Beschluss vom 26.07.2017: Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 1.1.2.: Beschluss vom 26.07.2017: Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 1.1.3.: Beschluss vom 26.07.2017: Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 1.1.4.: Beschluss vom 26.07.2017: Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 1.1.5.: Beschluss vom 26.07.2017: Schulbauoffensive 2013-2030
+- TOP 1.1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.7.: Beschluss vom 26.07.2017: Sportbauprogramm Sitzungsvorlage Nr. 14-20/ V 08874
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017: Umgestaltung der Ludlstraße im Bereich der GEWOFAG-Wohnsiedlung
+- TOP 2.1.2.: Beschluss des Bildungausschusses vom 03.05.2017: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" Teil 2: Föderprogramm 2015 bis 2018 (2019) Kindertagesstätten sonstiger Träger; Haus für Kinder am Stiftsbogen 152-166 im 20. Stadtbezirk Hadern Leistung eines Baukostenzuschusses
+- TOP 2.2: Referentenanträge
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 22.11.2016: Mehrjahresinvestitionsprogramm (MIP) 2016 - 2020 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 3.2: Referentenanträge
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2017: Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2015 bis 2035 für die Stadtbezirke
+- TOP 4.2.: Bekanntgabe in der Sitzung des Sozialausschusses vom 22.06.2017: Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
