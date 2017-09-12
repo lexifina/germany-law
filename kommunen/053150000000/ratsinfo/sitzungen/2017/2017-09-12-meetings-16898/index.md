@@ -1,0 +1,57 @@
+# 23. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-12T15:35:00+02:00
+- Ende: 2017-09-12T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16898
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16898
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin und ihres Stellvertreters - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Förderkonzept Tanz - Vorgezogene Änderung von Förderinstrumenten - geändert beschlossen
+- TOP -: Top 4.1: Förderkonzept Tanz-Vorgezogene Änderung von Förderinstrumenten - geändert beschlossen
+- TOP 4.2: Vergabe der vierjährigen Projektförderung im Filmbereich, Haushaltsjahre 2018 bis 2021 - ungeändert beschlossen
+- TOP 4.3: Vergabe der Strukturförderung im Filmbereich, Haushaltsjahre 2018 bis 2021 - ungeändert beschlossen
+- TOP 4.4: Vergabe der Fördermittel im Schwerpunkt "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.5: Neuwahl des Tanzbeirates - ungeändert beschlossen
+- TOP 4.6: Gewährung von Zuschüssen für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.7: Änderung der Entgelt- und Benutzungsordnung für das Rheinische Bildarchiv - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen im Rautenstrauch-Joest-Museum - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 6.2: Schenkung in Höhe von 22.000€ zum Erwerb einer Skulptur des Propheten Rogerus von Sam Fogg - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Ergebnisprotokoll der 11. Sitzung des Kunstbeirates in der Ratsperiode 2014-2020 am 22.6.2017 - Kenntnis genommen
+- TOP 8.2: StadtLabor für Kunst im öffentlichen Raum 2017 - Kenntnis genommen
+- TOP 8.3: Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 8.4: Darstellung der Sparten
+- TOP 8.5: Fortschreibung Kulturentwicklungsplanung, Tätigkeitsbericht erste Staffel Runde Tische - Kenntnis genommen
+- TOP 8.6: Wasserschaden im Kölnischen Stadtmuseum - Kenntnis genommen
+- TOP 8.7: Sanierungsarbeiten im Museum für Angewandte Kunst - Kenntnis genommen
+- TOP 8.8: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua, LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht 43 - Neubau Historisches Archiv und Rheinisches Bildarchiv - Stand: 21.08.2017 - Kenntnis genommen
+- TOP 9.3: Generalsanierung Zentralbibliothek Josef-Haubrich-Hof1, Projektstatusbericht - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Beantwortung der Anfrage AN/0937/2017 betreffend "Keine Räume für Nazis" - Wie wird das in Kölner Kultureinrichtungen umgesetzt?" - zurückgestellt
+- TOP 10.3: Angebote Kultureller Bildung - Beantwortung der Anfrage AN/0465/2017 - Kenntnis genommen
+- TOP 10.4: Verschlankung und Beschleunigung der Fördermittel-Prozesse (AN/0180/2017) - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der SPD-Fraktion betr.: "Zukünftiger Betrieb des "Underground" in Ehrenfeld" - zurückgestellt
+- TOP 11.2: Gemeins. Anfrage der CDU und Grünen betr.: "Sachstand der Ausschachtungen im Zuge des Neubaus der Antonitergemeinde an der Schildergasse" - Sache ist erledigt
+- TOP 11.3: Sommer Köln - zurückgestellt
+- TOP 12: Mündliche Anfragen
