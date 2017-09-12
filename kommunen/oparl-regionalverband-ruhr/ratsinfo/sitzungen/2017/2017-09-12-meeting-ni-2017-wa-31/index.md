@@ -1,0 +1,59 @@
+# Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-09-12T10:00:00+02:00
+- Ende: 2017-09-12T12:50:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-WA-31
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-WA-31
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-WA-31
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-WA-31
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Niederschriften der Sitzung vom 06.06.2017 und der Sondersitzung vom 27.06.2017 zur Standortmarketingkampagne
+- TOP 3: Brachflächenentwicklung im Revier - Behandlung der zukünftigen Flächenpolitik des Bergbaus
+- TOP 4: Standortmarketingkampagne - Statusbericht
+- TOP 5: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH
+- TOP 5.1: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2016
+- TOP 5.2: Dringlichkeitsentscheidung Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Änderung des § 1 „Firma und Sitz“ des Gesellschaftsvertrages aufgrund der beabsichtigten Namensänderung der wmr auf Business Metropole Ruhr GmbH
+- TOP 5.3: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Bericht über die wirtschaftliche Entwicklung zum 30.06.2017
+- TOP 6: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 6.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2016
+- TOP 6.2: Angelegenheiten der Ruhr Tourismus GmbH - Bericht über die wirtschaftliche Entwicklung zum 30.06.2017
+- TOP 7: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 7.1: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2016
+- TOP 7.2: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2016
+- TOP 7.3: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Minegas - Erwerb zusätzlicher Anteile und Änderung des Gesellschaftsvertrages
+- TOP 8: Angelegenheiten der Freizeitgesellschaften
+- TOP 8.1: Angelegenheiten der Freizeitgesellschaften - Restrukturierungsprozess der Freizeitgesellschaften - Stand der Verschmelzung
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Besetzung der Beiräte
+- TOP 8.3: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2016 der nicht am Verschmelzungsprozess beteiligten Freizeitgesellschaften (Freizeitzentrum Xanten GmbH, Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH)
+- TOP 8.4: Angelegenheiten der Freizeitgesellschaften - Bericht über die wirtschaftliche Entwicklung zum 30.06.2017
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern am See mbH - Jahresabschluss zum 31.12.2016
+- TOP 8.6: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2016
+- TOP 8.7: Maximilianpark Hamm GmbH
+- TOP 8.7.1: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2016
+- TOP 8.7.2: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Änderung des Zuschuss- und Finanzierungsvertrages 2018-2020
+- TOP 8.8: Revierpark Wischlingen GmbH
+- TOP 8.8.1: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Sachstand Hoeschpark und Freibad Stockheide
+- TOP 8.8.2: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Neubau Westbad im Revierpark
+- TOP 8.9: Betriebliche Zusatzversorgung
+- TOP 8.9.1: Angelegenheiten der Freizeitgesellschaften - Betriebliche Zusatzversorgung - Revierpark Gysenberg Herne GmbH - Änderung der Nebenabrede zum Gesellschaftsvertrag
+- TOP 8.9.2: Angelegenheiten der Freizeitgesellschaften - Betriebliche Zusatzversorgung - Freizeitgesellschaft Metropole Ruhr mbH - Verpflichtungserklärung
+- TOP 9: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2016
+- TOP 10: Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2016
+- TOP 11: Ruhrwind Herten GmbH - Änderung des Gesellschaftsvertrages
+- TOP 12: Route der Industriekultur - Standortverträge hier: Sachstandsbericht
+- TOP 13: Beteiligungsrichtlinien des RVR - Sachstand
+- TOP 14: Anträge
+- TOP 15: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
