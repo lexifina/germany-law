@@ -1,0 +1,113 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262400
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262400
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Budget der Bezirksausschüsse FC Eintracht München Besuch des Kletterwaldes am 02.07.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse FC Eintracht München e.V. Anschaffung von Sportbekleidung
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Hochbeet"
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Fachstelle Demokratische Jugendbildung Demokratiemobil vom 01.09.2017 - 24.09.2017
+- TOP 2.5.: Entscheidung über Projektplanung gem. OB-Vollmacht: Jugendspiel Pappelallee im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 2.6.: (E) Zebrastreifen an der Karlsfelder Straße, Bushaltestelle Wohnsiedlung Ludwigsfeld
+- TOP 2.7.: (E) Verkehrsberuhigter Bereich in der Leisewitzstraße
+- TOP 2.8.: (E) Parksituation Toni-Pfülf-Str. (LKWs)
+- TOP 2.9.: (E) Ersatzsporthalle während der Baumaßnahmen an der Toni-Pfülf-Sporthalle
+- TOP 2.10.: Lassallestr. 54 - Überprüfung der gewerblichen Nutzung und Vermietung der Container als Wohnraum Empfehlung Nr. 14-20 / E 00896 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching Hasenbergl am 17.03.2016 Überprüfung des Grundstückes Lassallestr. 54 auf Gewerbe und bewohnte Container Empfehlung Nr. 14-20 / E 00895 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching Hasenbergl am 17.03.2016
+- TOP 2.11.: Entscheidung über Projektplanung gem. OB-Vollmacht: Programm barrierefreie Bushaltestellen; Aschenbrennerstr./Blodigstr. - Haltestelle Stanigplatz
+- TOP 2.12.: (E) Feldmochinger Straße/Am Blütenanger - Radfahrer; Errichtung eines Zebrastreifens und einer Ampel in Höhe der Schwabenspiegelstraße
+- TOP 2.13.: N (E) Transport von Gefahrengut auf dem Gütergleis 5566
+- TOP 3.: Anträge
+- TOP 3.1.: Ergänzung der bestehenden Verkehrsschilder "Sonderweg für Fußgänger" an der Bahnunterführung Toni-Pfülf-Str. mit "Fahrradfahrer frei"
+- TOP 3.2.: Einrichtung von diversen Messstellen für Stickstoffdioxid und Feinstaub im 24. Stadtbezirk
+- TOP 3.3.: Verkehrliche Maßnahmen im Bereich der Ebereschenstraße
+- TOP 3.4.: N Probleme mit der Abholung des Mülls in der Knospenstraße
+- TOP 3.5.: N Überfüllung von Wertstoffcontainern im 24. Stadtbezirk
+- TOP 3.6.: N Aufstiegshilfe für die Fahrgäste an der S-Bahn-Station Feldmoching
+- TOP 3.7.: N Pilotprojekt zur Verbesserung der Luftqualität durch City Trees
+- TOP 3.8.: N Gymnasium auf dem Siedlungsareal Bergwachtstraße / "Lerchenauer Feld"
+- TOP 3.9.: N Unterbindung des „wilden Parkens“ der gelbgrauen Leihfahrräder
+- TOP 5.1.1.: Rainfarnstr. 44
+- TOP 5.1.2.: Schittgablerstr.
+- TOP 5.1.3.: Dülferstr.
+- TOP 5.1.4.: Schittgablerstr. 18 - 18 c (Tektur)
+- TOP 5.1.5.: N Karlsfelder Str. 282
+- TOP 5.2.1.: Paul-Preuß-Str. 2
+- TOP 5.2.2.: Dülferstr.
+- TOP 5.3.1.: ABIX Herbstfest am 21.10.2017, Weitlstraße
+- TOP 5.4.1.: Änderung der BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redationelle Anpassung der BA-Geschäftsordnung
+- TOP 5.4.2.: Parkraummanagement in München – Fortschreibung Sektor V - Beschlussentwurf -
+- TOP 5.4.3.: Eggarten-Siedlung; 1. Erhalt der Eggarten-Siedlung (BV-Empfehlung Nr. 14-20 / E 01419 v. 30.03.2017) 2. Artenschutz im Gebiet der Kolonie Eggarten (BV-Empfehlung Nr. 14-20 / E 01420 v. 30.03.2017) - Beschlussentwurf -
+- TOP 5.4.4.: Standortkonzept für die Bürgerbüros der LHM - Beschlussentwurf -
+- TOP 5.4.5.: Verbesserung der Infrastruktur in der Siedlung am Lerchenauer See,... Einrichtung eines Nachbarschaftstreffs im Bereich der Siedlung am Lerchenauer See (BV-Empfehlung Nr. 14-20 / E 00905 v. 17.03.2016) - Beschlussentwurf -
+- TOP 5.4.6.: Vollzug des BIMSchG; Dachauer Str. 667, Fahrerhauslackieranlage Halle F6 (Decklackstraße)
+- TOP 5.4.7.: Widmung der Gesamtstrecke des Christl-Marie-Schultes-Wegs (Abfrage vorab)
+- TOP 5.4.8.: Aufstellung einer Telefonzelle als öffentlicher Bücherschrank, Grünfläche neben Feldmochinger Str. 214
+- TOP 5.4.9.: Verkehrsrechtliche Anordnung nach § 45 StVO: Feuerwehranfahrtzone Knospenstraße
+- TOP 5.4.10.: Technikpauschale und elektronische Ladung
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund, Privatgrund und in städtischen Grünanlagen: Hier: Informationsveranstaltungen des Kreisjugendrings zur Wahl - "Demokratie im Einsatz" vom 08.09. - 23.09.2017 (verschiedene Orte) - Stellungnahme gem. § 20 BA-Satzung -
+- TOP 6.2.: Änderung der Sondernutzungsgebührensatzung - Stellungnahme gem. § 20 BA-Satzung -
+- TOP 6.3.: Bildungscluster 2411
+- TOP 6.4.: Verbesserung der Sicherheit für Radfahrer in der Lerchenstraße
+- TOP 6.5.: Haltverbot vor der Eduard-Spranger-Schule an Schultagen zwischen 7-14 Uhr
+- TOP 6.6.: Parksituation im Ortsteil Feldmoching-Ost
+- TOP 6.7.: Errichtung einer Bedarfsampel in der Feldmochinger Straße im Bereich der Ponkratzstraße
+- TOP 6.8.: Verkehrssituation in der Lerchenau; Ortsbegehung am 21.07.2017
+- TOP 6.9.: Umwandlung des kombinierten Rad-/Fußweges in einen reinen Fußweg an der Lerchenauer Straße
+- TOP 6.10.: Baukran in der Lerchenauer Str. 215
+- TOP 6.11.: Sachstandsbericht Feldmochinger-Anger; Landschaftsarchitektonisches Strukturkonzept
+- TOP 6.12.: Entscheidung über Projektplanung gem. OB-Vollmacht: Walter-Sedlmayr-Platz - Buswendeanlage, hier: Ergänzung
+- TOP 6.13.: Verstärkte Kontrolle und Einhaltung der Satzung über die Benutzung der städtischen öffentlichen Grünanlagen
+- TOP 6.14.: Sportbauprogramm, Projekte im 24. Stadtbezirk
+- TOP 6.15.: Eduard-Spranger-Schule; Überziehung der Dehnungsfugen zur Abdichtung (siehe TOP "Schulbauoffensive 2013-2030")
+- TOP 6.16.: Vermeidung von schadstoffbelasteten PVC-Materialien beim Neubau von Kitas
+- TOP 6.17.: Weitere Fahrradabstellplätze und eBike-Ladestationen am S-Bahnhof Fasanerie
+- TOP 6.18.: Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen Am Oberwiesenfeld („Olympia Wohn Park“)....
+- TOP 6.19.: 14-tägige Wasserqualitätsuntersuchung anstelle der monatlichen für die Badeseen: Feldmochinger See, Fasaneriesee, Lerchenauer See, Ruderregattaanlage und Ruderregatta-Park-See
+- TOP 6.20.: Erweiterung des MVG-Mietradsystems - Zwischennachricht
+- TOP 6.21.: Verbesserung der Internetanbindung für Anwohner
+- TOP 6.22.: Reinachstraße - Umwandlung von einem Mischgebiet in ein Wohngebiet; hier: sichere Überquerung
+- TOP 6.23.: Bedarfs- und Projektgenehmigung: Rohrkanalsanierung Milbertshofen-Am Hart und Feldmoching-Hasenbergl
+- TOP 6.24.: Verkehrsrechtliche Anordnungen nach § 45 StVO: - Stop-Schild Ferchenbachstraße Einmündung Karlsfelder Straße - Feuerwehranfahrtzone Petrarcastraße 18a
+- TOP 6.25.: Daten Pegel Feldmoching
+- TOP 6.26.: Meldelisten Bauvorhaben
+- TOP 6.27.: Meldelisten Baumfällungsanträge
+- TOP 6.28.: Beschleunigter Breitbandausbau der Nahbereiche in München; Ankündigung einer BA-Informationsveranstaltung
+- TOP 6.29.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 6.30.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 6.31.: (U) Keine zusätzlichen Lärmbelästigungen für den 24. Stadtbezirk durch den Hubschrauberlandeplatz in Oberschleissheim (Punkt 1 des Antrages) Empfehlung Nr. 14-20 / E 00413 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching–Hasenbergl vom 16.04.2015
+- TOP 6.32.: (U) Verzicht auf neue Autotunnel an der Landshuter Allee, Tegernseer Landstraße und Schleißheimer Straße Antrag Nr. 14-20 / A 02944 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 10.03.2017
+- TOP 6.33.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 6.34.: (U) Verkehrskonzept Münchner Norden Teil Mobilitätsmanagement
+- TOP 6.35.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
+- TOP 6.36.: (U) Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach 1. Ergebnis des Nutzungskonzeptes 2. Weiteres Planungsverfahren
+- TOP 6.37.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.38.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
+- TOP 6.39.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 6.40.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 6.41.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" Teil 2: Förderprogramm 2015 bis 2018 Kindertagesstätten sonstiger Träger; Haus für Kinder an der Max-Müllner-Straße 14 im 24. Stadtbezirk Feldmoching-Hasenbergl Leistung eines Baukostenzuschusses
+- TOP 6.42.: (U) Mehrjahresinvestitionsprogramm (MIP) 2016 - 2020 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 6.43.: (U) Schulbauoffensive 2013-2030
+- TOP 8.1.: Protokoll der Sitzung am 20.06.2017 (nach Genehmigung in der Sitzung am 18.07.2017)
