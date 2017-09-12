@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-12T17:00:00+02:00
+- Ende: 2017-09-12T20:00:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13176
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13176
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299633.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299633.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299633.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift 27.06.2017 - einstimmig beschlossen
+- TOP 2.1: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Bebauungsplan-Entwurf Nr. 05/002 (eh. 5488/019) - Empfehlung mehrheitlich beschlossen
+- TOP 5: Bebauungsplan-Entwurf Nr. 05/006 (eh. 5487/009) - Empfehlung mehrheitlich beschlossen
+- TOP 6: Flächennutzungsplan -Änderung Nr.169 -Wacholderstr. - Empfehlung mehrheitlich beschlossen
+- TOP 7: StadtUmland.NRW–Wettbewerb:Zukunftskonzept „RegioNetzWerk“ Leitprojekt „Nördll. Kalkumer Schloßallee - Empfehlung mehrheitlich abgelehnt
+- TOP 8: Umwidmung von Kinderspielplätzen in den Stadtbezirken 3, 4, 5, 8, 9 und 10 - abweichend beschlossen
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung - Trödelmärkte auf dem Messeparkplatz P1 - einstimmig beschlossen
+- TOP 10: Trödelmärkte auf dem Messeparkplatz P1 im September und Oktober 2017 - einstimmig beschlossen
+- TOP 11: KZ-Außenlager, Kennzeichnung durch Erinnerungszeichen - einstimmig beschlossen
+- TOP 12: Matschanlagen auf Kinderspielplätzen im Stadtbezirk 5 - beantwortet
+- TOP 13: Perspektiven für den Hannes-Esser-Platz in Einbrungen
+- TOP 14: Gehölzrückschnitt auf der B8n - beantwortet
+- TOP 15: Wochenmarkt auf dem Parkplatz vor dem Aquazoo - beantwortet
+- TOP 16: B-Plan-Entwurf 05/006 - Wacholderstraße - Sicherstellung von Anlieferverkehren der Gewerbebetriebe - beantwortet
+- TOP 17: Versorgungen mit Dienstleistungen der Stadtsparkasse Düsseldorf in Lohausen - beantwortet
+- TOP 18: Tempo 30 auf der Zeppenheimer Straße - beantwortet
+- TOP 19: Kinderspielplatz Wacholderweg/Goldregenweg/Eichenbruch - Sanierung/Abriss der Bunkerwand
+- TOP 20: Ampelschaltung Kaiserswerther Straße/ Stockumer Kirchstraße/ Am Hain
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Sauberkeit im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 23: Grünpflege im Stadtbezirk 5
+- TOP 24: Umbaumaßnahme Feuerwehr Kaiserswerth
+- TOP 25: Ordnung im Stadtbezirk 5 - beantwortet
+- TOP 26: Schallschutzwand Eichenbruch/Goldregenweg
+- TOP 27: Nächtliche Ruhestörungen Hannes-Esser-Platz - beantwortet
+- TOP 28: Bewohnerparken im Umfeld der Kaiserswerther Diakonie - beantwortet
+- TOP 29: Jährliche Grünschnittarbeiten am Reitweg an der B8n - einstimmig beschlossen
+- TOP 30: Aufstellen fehlender Schilder "Historischer Stadtkern Kaiserswerth" - abweichend beschlossen
+- TOP 31: Verkehrsversuch "Yellow Box" am Nordstern - einstimmig beschlossen
+- TOP 32: Stellungnahmen 12.09.2017 - zur Kenntnis genommen
+- TOP 33: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 34: Verschiedenes - zur Kenntnis genommen
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Bürgerbüro Kaiserswerth - zur Kenntnis genommen
