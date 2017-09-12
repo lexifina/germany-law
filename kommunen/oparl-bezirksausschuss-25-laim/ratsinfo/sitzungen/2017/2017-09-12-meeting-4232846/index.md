@@ -1,0 +1,74 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232846
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232846
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: UA Bildung und Sozialplanung vom 11.07.17
+- TOP 7.2.: Ferienausschuss vom 17.08.17
+- TOP 8: Umlauf
+- TOP A.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B.: Wahl einer/s Vorsitzenden des UA Umwelt und Verkehr
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Ampelanlage Laimer Anger
+- TOP 2.1.: CSU: MVG Rad Geschäftsgebiet auf ganz Laim ausweiten
+- TOP 3.1.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Initiative "Bücherschrank Laim", Anschaffung und Aufstellung eines Bücherschrankes
+- TOP 3.2.: Beschlussvorlage Direktorium: Budget der Bezirksausschüsse, Familienzentrum Laim, DKSB München e.V., Spielaktion am Hogenbergplatz
+- TOP 3.3.: Beschlussvorlage Baureferat: Erweiterung der Fahrradabstellplätze am U-Bahnhof Laimer Platz (Ziffer 2 des Antrags) Empfehlung Nr. 08-14 / E 01156 der Bürgerversammlung des Stadtbezirkes 25 Laim am 15.11.2011 Installation weiterer Fahrradständer an den U-Bahnhöfen Laimer Platz und Friedenheimer Straße (Ziffer 2 des Antrags) Empfehlung Nr. 08-14 / E 01593 der Bürgerversammlung des Stadtbezirkes 25 Laim am 20.11.2012 Erweiterung der Fahrradabstellplätze am Laimer Platz (Ziffer 1 des Antrags) Empfehlung Nr. 08-14 / E 01596 der Bürgerversammlung des Stadtbezirkes 25 Laim am 20.11.2012
+- TOP 3.4.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.17; Gotthardstr. 57
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 04.08.17: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat - Turnusmäßige Beschlussvorlage und Bekanntgabe
+- TOP 4.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.08.17: Beschlussentwurf: Parkraummanagement in München - Fortschreibung Sektor V
+- TOP 4.3.: Schreiben Direktorium vom 16.08.17: Elektronische Fahrtanzeige an der Haltestelle "Siglstraße" (Tram 18 und Bus 130), Empfehlung Nr. 14-20 / E 01285 aus der Bürgerversammlung vom 22.11.16; Sitzungsvorlage Nr. 14-20 / V 07943
+- TOP 4.4.: Schreiben Direktorium vom 17.08.17: Papierloses Arbeiten der Bezirksausschüsse; Anhörungsschreiben zu Technik-Pauschale und elektronischer Ladung
+- TOP 4.5.: Schreiben Direktorium vom 10.07.17: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung (Vertagung aus der Ferienausschuss-Sitzung am 17.08.17)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 13.07.17: Standortkonzept Bürgerbüros (Vertagung aus der Ferienausschuss-Sitzung am 17.08.17)
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 23.08.17: Frühschoppen am 30.09.17, Am Laimer Anger
+- TOP 5.1.: Riegerhofstr. 18, Gemarkung: Laim, Fl.Nr.: 144/1: Errichtung von Containern mit 2 Klassenzimmern, zeitlich befristet auf 2 Jahre (bis Fertigstellung der Erweiterung der Lukas-Schule)
+- TOP 6.1.: Schreiben Direktorium vom 04.08.17: Wiesn-Besuch 2017
+- TOP 6.2.: Sitzungstermine für 2018
+- TOP 8.1.: Schreiben Direktorium vom 21.08.17: Zuwendung aus dem Budget des BA 25; Aktion "Schule als Staat", Antragsteller: Erasmus-Grasser-Gymnasium, Schüler-Mit-Verantwortung / Schülermitverwaltung
+- TOP 8.2.: Schreiben Referat für Gesundheit und Umwelt vom 16.08.17: Tauben- und Rattenbefall Bahnhof Laim
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 30.06.17: Terminverlängerung "Einsatz von Dialog-Displays in Laim", BA-Antrag Nr. 03659 vom 30.05.17
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 09.08.17: Absolutes Haltverbot Ecke Zschokkestraße / Straubinger straße
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 09.08.17: Drehgenehmigung "Verkehrsbeobachtung im Auftrag Bundesverkehrsministerium"
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 11.08.17: Drehgenehmigung "Taxi Competition / Reportag"
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 10.08.17: Gaststätte "Gasthaus Laim", Friedenheimer Str. 27; unveränderte Fortführung
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 25.08.17: Gaststätte "Riegerhofer", Riegerhofstraße 20; unveränderte Fortführung
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 29.08.17: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung auf dem Agricolaplatz
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.08.17: Mittelfristige Finanzplanung 2016-2020, Mehrjahresinvestitionsprogramm Anhörungsverfahren, Fortschreibung für die Jahre 2017-2021
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.08.17: Camerloherstr. 131; Fällungsgenehmigung
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.08.17: Neubau dreier Mehrfamilienhäuser mit Tiefgarage BA SÜD / VBA 1 - Vorbescheid Zschokkestr. 36, Fl.Nr. 398/0, Gemarkung Laim
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.08.17: Zschokkestr. 36, Fl.Nr. 398/0, Gemarkung Laim Neubau dreier Mehrfamilienhäuser mit Tiefgarage BA Nord / VBA 2 - Vorbescheid
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.08.17: Stadtratsanfrage zur Grünflächenversorgung
+- TOP 8.15.: Schreiben Sozialreferat vom 10.08.17: Antrag auf Zweckentfremdung von Wohnraum durch Abbruch; Aindorferstraße
+- TOP 8.16.: Schreiben Sozialreferat vom 16.08.17: Antrag auf Zweckentfremdung von Wohnraum durch Abbruch; Egetterstraße
+- TOP 8.17.: Schreiben Sozialreferat vom 10.08.17: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juli 2017
+- TOP 8.18.: Schreiben Sozialreferat vom 02.08.17: Protokoll des Informations- und Vernetzungstreffen AKIM
+- TOP 8.19.: Schreiben Sozialreferat vom 11.08.17: Objekt Geyerspergerstr. 29
+- TOP 8.20.: Bautenliste vom 24.07.-30.07.17: 1. Erstantragsverfahren: a) Pronnerpl. 5
+- TOP 8.21.: Bautenliste vom 31.07.-06.08.17: 1. Erstantrgsverfahren a) Landsberger Str. 315 b) Viebigpl. 8
+- TOP 8.22.: Bautenliste vom 07.08.-13.08.17: 1. Erstantragsverfahren a) Schrobenhausener Str. 15 b) Landsberger Str. 199 c) Eringerstr. 9 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten a) Fürstenrieder Str. 27
+- TOP 8.23.: Bautenliste vom 14.08.-20.08.17. 1. Erstantragsverfahren a) Reutterstr. 47 c b) Agnes-Bernauer-Str. 49
+- TOP 8.24.: Bautenliste vom 21.08. - 27.08.17: 1. Erstantragsverfahren a) Landsberger Str. 293 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Lanzstr. 18 b
+- TOP 8.25.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtag 21.08. - 25.08.17
+- TOP 8.26.: Beschluss der Vollversammlung vom 26.07.2017: Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 8.27.: Beschluss der Vollversammlung vom 26.07.2017: Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 8.28.: Beschluss der Vollversammlung vom 26.07.2017: Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 8.29.: Beschluss der Vollversammlung vom 26.07.2017: Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 8.30.: Beschluss der Vollversammlung vom 26.07.2017: Finanzielle Aufstockung der heutigen Entsiegelungspauschale und Neudefinition als künftige Freiraumpauschale
+- TOP 8.31.: Beschluss der Vollversammlung vom 26.07.2017: Schulbauoffensive 2013-2030
