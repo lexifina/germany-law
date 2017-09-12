@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-09-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4281990
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4281990
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 08.08.2017
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Technik-Pauschale und elektronische Ladung
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Kontrapunkt gGmbH Gestaltung des Trambahnhäuschens am Ratzinger Platz
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Initiative Studienensembles Konzert am 01.03.2018
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Evangelisches Pflegezentrum Sendling Implementierung und Etablierung der Aromapflege bei pflegebedürftigen Menschen in der stationären Altenpflege
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Blaskapelle Forstenried e.V. Musikalischer Abend zum 25-jährigen Vereinsjubiläum am 14.10.2017 1.100,00 Euro
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Evangelisches Pflegezentrum Sendling "Rhythmik-Trommeln" vom 09.01.2018 bis 30.06.2018 900,00 €
+- TOP 3.7.: (E) Budget der Bezirksausschüsse Kath. Stadtpfarrei St. Johann Baptist München-Solln Konzert am Kirchweihsonntag, den 15.10.2017 1.850,00 €
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Öffentliche Grünfläche „Am Südpark“ - ehemaliges EON-Gelände im Geltungsbereich des Bebauungsplanes mit Grünordnung Nr. 2072a im 19. Stadtbezirk Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Bedarfs- und Konzeptgenehmigung
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Busverkehr Maxhof
+- TOP 5.4.: (Antrag) Fahrradabstellmöglichkeiten U-Bahnhof Fürstenried West
+- TOP 5.5.: (E) Anbringen eines Gehweg-Schutzgitters vor dem Haus für Kinder in der Herterichstraße Empfehlung Nr. 14-20 / E 01461 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.05.2017
+- TOP 5.6.: (Antrag) Kennzeichnung Abbiegespur Sollner Str./Wolfratshauser Str.
+- TOP 5.7.: (Antrag) Ausbau Wolfratshauser Str.
+- TOP 5.8.: (A) Parkraummanagement München - Fortschreibung Sektor V (Stadtbezirk 19 - Thalkirchen); Sitzungsvorlage Nr. 14-20 / V 08574
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (U) Grundstücksgeschäft: Siemensallee
+- TOP 6.4.: (E) Mieterhöhung GEWOFAG Empfehlung Nr. 14-20 / E 01472 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling - Forstenried-Fürstenried- Solln am 11.05.2017
+- TOP 6.5.: (A) Ablehnung der Änderung der Abstandsflächenregelung, Ablehnung der Nachverdichtung in der Züricher Straße, Bürgerbeteiligungsverfahren bei weiteren Nachverdichtungen in Forstenried und Fürstenried; BV-Empfehlung Nr. 14-20 / E 01465; Sitzungsvorlage Nr. 14-20 / V 09453
+- TOP 6.6.: (A) Aufnahme in die Denkmalliste der Landeshauptstadt München: Wolfratshauser Str. 224 (ehem. Café Kustermann)
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (E) Nutzung leerstehender Gebäude für Kunst & Kultur BV-Empfehlung Nr. 14-20 / E 01474; Sitzungsvorlage Nr. 14-20 / V 09671
+- TOP 8.3.: BA 19 - Vollgremium - 12.09.2017
+- TOP 8.4.: (E) Nutzung leerstehender Gebäude für Kunst & Kultur Empfehlung Nr. 14-20 / E 01474 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling – Forstenried-Fürstenried – Solln am 11.05.2017
