@@ -1,0 +1,187 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4217428
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4217428
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: Protokolle der Sitzung vom Februar 2017
+- TOP 1.3.2.: Protokolle der Sitzung vom Juli 2017
+- TOP 1.3.3.: Protokoll der Sitzung des Ferienausschusses vom August 2017
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 26.06.2017 bis 15.08.2017
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 1.: Vorstellung des 3. Bauabschnitts Weißenseepark durch das Baureferat-Gartenbau
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Tempo 30 Zone in der Severinstraße, Bürgeranliegen vom 13.07.2017, vertagt aus Sitzung 08.08.2017, (FF UA Verkehr)
+- TOP 2.1.2.2.: Rücksichtnahme durch Radfahrerinnen und Radfahrer - bessere Kontrolle der Einhaltung der StVO durch Radfahrerinnen und Radfahrer (Bürgernaliegen aus der BV am 20.07.2017), (FF UA Verkehr)
+- TOP 2.1.2.3.: Antrag Herbert-Quandt-Straße Mediationsverfahren für Nutzungsvereinbarung, Bürgeranliegen vom 10.08.2017 (FF UA Verkehr)
+- TOP 2.1.2.4.: Zebrastreifen in der Lincolnstraße; Bürgeranliegen vom 24.07.2017 (FF UA Verkehr)
+- TOP 2.1.2.5.: Parkraummanegement Deisenhofener- und Schlierseestraße; Bürgeranliegen vom 02.08.2017 (FF UA Verkehr)
+- TOP 2.1.2.6.: 30-Zone Traunsteiner Straße/Müllabladeplatz St.-Quirin-Platz; Bürgeranliegen vom 04.08.2017 (FF UA Verkehr und UA Umwelt)
+- TOP 2.1.2.7.: Wird die Schwengelpumpe am Spielplatz Louisoderpark in Betrieb genommen? Bürgeranliegen vom 29.07.2017 (FF UA FSA)
+- TOP 2.1.2.8.: Ampel am Giesinger Bahnhof, Baustelle und Sonstiges (FF: UA Verkehr)
+- TOP 2.2.1.: Dringlichkeitsantrag der Fraktion FW: Neubau in der oberen Grasstraße
+- TOP 3.9.1.1.: Schwarzenbacherstr. 6
+- TOP 3.9.1.2.: Kapellenfeldstr. 19
+- TOP 3.9.1.3.: Chiemgaustr.
+- TOP 3.9.1.4.: Münchberger Str. 6
+- TOP 3.9.1.5.: Schwanseestr. 6-6a
+- TOP 4.1.: Finanzielle Förderung des Formularservice
+- TOP 4.2.: Messung der Luftqualität im Stadtbezirk Obergiesing-Fasangarten
+- TOP 4.3.: Verbesserungen und Markierungen der Fahrradroute Unterhaching- Giesing
+- TOP 4.4.: Abstimmung der Standorte des Fahrradverleihsystems Obike mit den Bezirksausschüssen und Einhaltung des Datenschutzes bei der Ausleihe
+- TOP 4.5.: Antrag der CSU-Fraktion auf sofortigen Stopp des Verkaufs des denkmalgeschützten Gebäudes Obere Grasstraße 1
+- TOP 4.6.: Antrag der CSU-Fraktion auf Verbesserung des Platzangebotes in der S3 zwischen Ostbahnhof und Holzkirchen
+- TOP 5.1.1.: Nachträgliche Aufnahme von Mietkosten in Finanzierungsplan für: Giesinger Kochbuch (Beschluss vom 14.03.17); Anfrage des Direktoriums / Einverständnis zur nachträglichen Änderung des Finanzierungsplans (FF: UA KVIS)
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule an der Balanstraße: Erzählwerkstatt für Kindergarten- und Grundschulkinder; Antragssumme: 300,- €; Beschlussvorlage vom 17.08.17 (FF: UA FSA)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Sanierungsgebiete am Mittleren Ring Südost - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms „Soziale Stadt“ in den Sanierungsgebieten „Tegernseer Landstraße / Chiemgaustraße“ und „Innsbrucker Ring / Baumkirchner Straße“ A) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet „Tegernseer Landstraße / Chiemgaustraße“ B) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ und Änderung des Umgriffs des Sanierungsgebietes „Innsbrucker Ring / Baumkirchner Straße“ und förmliche Festlegung des eigenständigen Sanierungsgebietes „Ortskern Ramersdorf“ C) Eckdaten Behrgelände im Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ D) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf – Perlach Stadtbezirk 17 - Obergiesing – Fasangarten Stadtbezirk 18 - Untergiesing – Harlaching Sitzungsvorlagen Nr. 14-20 / V 09450 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017 (VB) Öffentliche Sitzung Termin: 29.09.2017 (siehe auch TOP 6.3.3.5)
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße" und "Trauchberg-/Forggenseestraße"
+- TOP 6.1.4.3.: Zweckentfremdungen im 17. Stadtbezirk
+- TOP 6.1.4.4.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 6.1.4.5.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 6.1.4.6.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
+- TOP 6.1.4.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (vertagt aus Sitzung am 11.07.2017)
+- TOP 6.1.4.8.: (U) Mehrjahresinvestitionsprogramm (MIP) 2016 - 2020 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse (siehe auch TOP 6.2.4.1./09/17)
+- TOP 6.1.4.9.: Bebauungsplan Nr. 2118 Münchberger Straße - Änderung des Bebauungsplanes - Zwischennachricht -
+- TOP 6.1.4.10.: Baumaßnahme der SWM GmbH hier: Perlacher Straße - Informationsflyer der SWM GmbH -
+- TOP 6.1.4.11.: Genehmigungsbescheid Bauvorhaben Kiefernstr. 21-21a
+- TOP 6.1.4.12.: Bauvorhaben Landrichterstr. 15, Antwortschreiben
+- TOP 6.1.4.13.: Baumaßnahmen der SWM GmbH hier: Werinherstraße
+- TOP 6.1.4.14.: Durchführung einer Informationsveranstaltung für die Bürgerinnen und Bürger der Münchberger Straße und Umgebung zum BebPl-Verfahren Nr. 2118 Münchberger Straße unter Einbeziehung aller beteiligten Referate
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: (U) Mehrjahresinvestitionsprogramm (MIP) 2016 - 2020 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 6.2.4.2.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 6.2.4.3.: Aufwertung des Kroneparks; Schreiben des BA 5 Au-Haidhausen vom 03.07.2017 an das Baureferat
+- TOP 6.2.4.4.: Aktuelle Liste der Unterkünfte für Wohnungslose und Flüchtlinge in München; Stand Juli 2017
+- TOP 6.2.4.5.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertagesstätten gemeinnütziger Träger; Kindergarten an de Lincolnstraße 62 im 17. Stadtbezirk Obergiesing-Fasangarten Leistung eines Baukostenzuschusses
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Planfeststellung nach § 18 AEG für das Vorhaben Erneuerung der EÜ BAB A 8, Bahn-km 2,541, Strecke 5552 München Giesing - Kreuzstraße Anhörungsverfahren (in UA Verkehr vertagt am 08.08.2017)
+- TOP 6.3.3.2.: Beschlussentwurf Parkraummanagement in München - Fortschreibung Sektor V Anhörung der Bezirksausschüsse
+- TOP 6.3.3.3.: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat; Turnusmäßige Beschlussvorlage und Bekanntgabe Anhörung der betroffenen Bezirksausschüsse
+- TOP 6.3.3.4.: Fuß- und Radwegbrücke am Giesinger Berg Sachstandsbericht und weiteres Vorgehen Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung
+- TOP 6.3.3.5.: Sanierungsgebiete am Mittleren Ring Südost - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms „Soziale Stadt“ in den Sanierungsgebieten „Tegernseer Landstraße / Chiemgaustraße“ und „Innsbrucker Ring / Baumkirchner Straße“ A) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet „Tegernseer Landstraße / Chiemgaustraße“ B) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ und Änderung des Umgriffs des Sanierungsgebietes „Innsbrucker Ring / Baumkirchner Straße“ und förmliche Festlegung des eigenständigen Sanierungsgebietes „Ortskern Ramersdorf“ C) Eckdaten Behrgelände im Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ D) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf – Perlach Stadtbezirk 17 - Obergiesing – Fasangarten Stadtbezirk 18 - Untergiesing – Harlaching Sitzungsvorlagen Nr. 14-20 / V 09450 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017 (VB) Öffentliche Sitzung Termin: 29.09.2017 (siehe auch TOP 6.1.3.1)
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Wiederherstellung des Geh- und Radweges vor dem Anwesen Giesinger Bahnhofplatz 2
+- TOP 6.3.4.2.: (Kein) Verzicht auf neue Autotunnel an der Landshuter Allee, Tegernseer Landstraße und Schleißheimer Straße Antrag Nr. 14-20 / A 02944 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 10.03.2017
+- TOP 6.3.4.3.: Gefährlicher Bordstein an der Kiefernstraße/Ecke Tegernseer Landstraße
+- TOP 6.3.4.4.: Parksituation und Gefahrenstellen in der Untersbergstraße (vertagt aus Sitzung am 11.07.2017)
+- TOP 6.3.4.5.: Sicherstellung der Finanzierung der verkehrlichen Neuordnung der Tegernseer Landstraße; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17
+- TOP 6.3.4.6.: Dialog-Displays für Giesing - Berücksichtigung von Standorten im 17. Stadtbezirk Standorte für Dialog-Displays in Giesing
+- TOP 6.3.4.7.: Aufhebung eines allgemeinen Behindertenparkplatzes hier: Schlierseestr. 57b
+- TOP 6.3.4.8.: Feuerwehranfahrtszone in der Schwarzenbergstraße/Ecke Grotiusweg
+- TOP 6.3.4.9.: Parkverbot für LKW und Errichtung von Pollern an der Weißenseeschule; Anfrage BA - Antwort KVR vom 25.07.2017
+- TOP 6.3.4.10.: Durchstich Herbert -Quandt -Straße : Nutzungsvereinbarung statt Flächenankauf – pragmatische Lösungen mitdenken
+- TOP 6.3.4.11.: Sanierung von Straßenschäden im 17. Stadtbezirk
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Wie sieht es momentan mit der Grünflächenversorgung in München aus? Schriftliche Anfrage gem. § 68 GeschO Anfrage Nr. 14-20/F 00848 von Frau Stadträtin Sabine Krieger, Herrn Stadtrat Herbert Danner, Herrn Stadtrat Paul Bickelbacher
+- TOP 6.4.4.2.: Baumschnitt vor den Anwesen Brecherspitzstr. 4 sowie St.-Martins-Platz 4/5
+- TOP 6.4.4.3.: (U) Abfallwirtschaftsbetrieb München (AWM); Abfallvermeidungskonzept 2017
+- TOP 6.4.4.4.: Balanstr. 379 - Fällgenehmigung
+- TOP 6.4.4.5.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 6.4.4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Kehrt der TSV 1860 ins Grünwalder Stadion zurück? Antrag Nr. 14-20/A 03146 der Stadtratsfraktion Die Grünen/RL vom 31.05.2017 Fußball im Grünwalder Stadion - Fakten statt Spekulationen! Antrag Nr. 14-20/A 03172 der Bayernpartei Stadtratsfraktion vom 14.06.2017 Sitzungsvorlagen Nr. 14-20/V 09142
+- TOP 6.5.4.2.: Sportbauprogramm Sitzungsvorlagen Nr. 14-20/V 08874
+- TOP 6.5.4.3.: Rücknahme des Antrages auf Zuschuss für das Literaturfestival "Tatort TeLa"
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Freischankfläche "topbar92-sportsbar", Tegernseer Landstraße 92 (erneute Vorlage nach Änderung), Beschlussvorlage des Kreisverwaltungsreferats vom 23.08.17
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
+- TOP 6.6.4.2.: Schank- und Speisenwirtschaft "Der Dantler" ehem. "Upper Eat Side", Antrag auf unveränderte Fortführung
+- TOP 6.6.4.3.: Schank- und Speisenwirtschaft "Cafe Bar Palette", Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Kooperationsplattform "Alfresco"; Anhörungsschreiben zu Technikpauschale und elektronischer Ladung
+- TOP 7.3.1.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 8.2.1.: Sitzungstermine/Bürgerversammlung 2018 Vorschlag Sitzungstermine: 09.01.2018 06.02.2018 13.03.2018 10.04.2018 08.05.2018 12.06.2018 10.07.2018 07.08.2018 (FA) 11.09.2018 09.10.2018 13.11.2018 11.12.2018 Vorschlag Bürgerversammlung: 19.07.2018
+- TOP 8.2.2.: Sitzungstermine 2018 16.01.2018 06.02.2018 13.03.2018 10.04.2018 08.05.2018 12.06.2018 10.07.2018 07.08.2018 (FA) 11.09.2018 09.10.2018 13.11.2018 11.12.2018 Bürgerversammlung 2018 19.07.2018
