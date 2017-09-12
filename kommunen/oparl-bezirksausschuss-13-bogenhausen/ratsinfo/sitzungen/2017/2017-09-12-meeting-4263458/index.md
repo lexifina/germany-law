@@ -1,0 +1,155 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263458
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263458
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3.: Umbesetzung in den Unterausschüssen
+- TOP 1.3.4.: Wahl eines neuen Jugendbeauftragten
+- TOP 1.3.5.: Vorschlag für die Jahresplanung 2018
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.1.1.: Erstellung der Tagesordnung
+- TOP 2.1.2.: Jahresplanung 2018
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.5.: Eugen-Jochum-Str: Neubau eines Wohngebäudes im geförderten Mietwohnungsbau mit Haus für Kinder, 2 betreuten Wohngruppen, ambulantem Stützpunkt, Tiefgarage und Freianlagen - Baufeld WA 7 / Prinz-Eugen-Park; Anhörung des Referats für Stadtplanung und Bauordnung vom 09.08.2017
+- TOP 2.2.6.: Possartstraße 29: Umbau HNO Klinik, Sanierung OP-Abteilung und Brandschutz, unbefristete Verlängerung der Baugenehmigung des Anbaus, Verbesserungsmaßnahmen Brandschutz und Hygiene, Unterbauung des Anbaus mit einem Technikraum; Anhörung des Referats für Stadtplanung und Bauordnung vom 18.08.2017
+- TOP 2.2.9.: Sternwartstr. 2: Umbau, Sanierung und Nutzungsänderung - Tektur
+- TOP 2.2.10.: Morgenrothstr. 10: Instandsetzung Süd- und Ostfassade, Erneuerung Fenster, Spenglerarbeiten Dach, Wohnhauserweiterung Südseite, Erweiterung Garage; Erstantragsverfahren
+- TOP 2.2.13.: Stuntzstr. 16: Thermische Sanierung und Instandsetzung eines Bürogebäudes mit Einzelhandelsflächen im EG - Vorbescheid
+- TOP 2.2.14.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.1.3.: Tram durch den Englischen Garten – Entwurf einer Rückmeldung für eingehende Bürgeranliegen
+- TOP 2.2.1.: Errichtung des "13er Bürger- und Kulturtreffs" als integrierte Quartierseinrichtung als Quartiers-/ Bürgerplatz des Areals der ehemaligen Prinz-Eugen-Kaserne; Neue Kostenobergrenze - Beschlussvorlage; Anhörung des Kommunalreferats vom 25.07.2017 (vertagt am 01.08.2017); Kulturbürgerhaus bauen, aber richtig!; Antrag der CSU-Fraktion vom 04.07.2017 (vertagt am 01.08.2017)
+- TOP 2.2.2.: Vollzug des § 4 Abs. 1 BauGB i. V. m. § 3 Abs. 1 BauGB Gemeinde Unterföhring; Aufstellung des vorhabenbezogenen Bebauungsplans Nr. 51a/17, New Campus PorSiebenSat.1 an der Medienallee und Gutenbergstraße; Anhörung des Referats für Stadtplanung und Bauordnung vom 02.08.2017
+- TOP 2.2.3.: Staubbelastung durch die Großbaustelle Prinz-Eugen-Park; Bürgeranliegen vom 03.08.2017
+- TOP 2.2.4.: Bebauung der Wiese an der Eggenfeldener Straße Bürgeranliegen vom 31.07.2017
+- TOP 2.2.7.: Meistersingerstr. 26: Neubau eines Wohnhauses (5 WE) mit Tiefgarage – TEKTUR; Anhörung des Referats für Stadtplanung und Bauordnung vom 23.08.2017
+- TOP 2.2.8.: Osserstr. 46: Neubau eines Mehrfamilienhauses mit Tiefgarage – Vorbescheid; Anhörung des Referats für Stadtplanung und Bauordnung vom 22.08.2017
+- TOP 2.2.11.: Mauerkircherstr. 24: Abbruch und Neuerrichtung von 6 Balkonen; Erstantragsverfahren
+- TOP 2.2.12.: Titurelstr. 2: Aufstockung eines Wohnhochhauses um 2 Geschosse – Genehmigungsverlängerung; Erstantragsverfahren
+- TOP 2.3.1.: Anträge 1-3 des Konsortiums Prinz Eugen Park zur Verkehrssicherheit und Aufenthaltsqualität (vertagt am 01.08.2017, TOP 2.3.4); Rückmeldung des KVR vom 14.08.2017
+- TOP 2.3.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 - Beschluss des BA 13; hier: Antrag für eine Zeitungsverkaufseinrichtung am Kufsteiner Platz, ggü. Hs. Nr. 1 in München (vertagt am 11.07.2017, TOP 2.3.1)
+- TOP 2.3.3.: Beschlussentwurf Parkraummanagement in München - Fortschreibung Sektor V; Sitzungsvorlagen-Nr. 14-20 / V 08574; Anhörung des Referats für Stadtplanung und Bauordnung vom 16.08.2017
+- TOP 2.3.4.: Kurzparkzonen am Einkaufszentrum Freischützstraße - ergänzender Antrag bzgl. Kurzparkplätze Robert-Heger-Straße; Anhörung des Kreisverwaltungsreferats vom 10.08.2017 Kurzparkzonen Meistersingerstraße und Freischützstraße; Schreiben des Kreisverwaltungsreferats vom 09.08.2017; Parkreduzierung für Autos in der Meistersingerstr. / Freischützstr.; Bürgeranliegen vom 10.08.2017
+- TOP 2.3.5.: Wertstoffcontainerstandort Stuntzstraße / Walpurgisstraße; Anhörung des Kommunalreferats vom 10.08.2017
+- TOP 2.3.6.: Absolutes Halteverbot bzw. Kurzparkzone Schwarzwaldstraße; Schreiben des Kreisverwaltungsreferats vom 20.07.2017
+- TOP 2.3.7.: Verkehrsrechtliche Anordnungen für Grasbrunner Straße / Gewerbegebiet Hüllgraben; Schreiben des Kreisverwaltungsreferat vom 20.07.2017
+- TOP 2.3.8.: Absolutes Haltverbot in der Stichstraße zu Oberföhringer Straße 268-272; Schreiben des Kreisverwaltungsreferat vom 09.08.2017
+- TOP 2.3.9.: Zeitliche Änderung des absoluten Haltverbots in der Johanneskirchner Straße 88 und 90; Schreiben des Kreisverwaltungsreferats vom 01.08.2017
+- TOP 2.3.10.: Absolutes Halteverbot im Kurvenbereich Barbarossastraße / Franz-Fischer-Straße; Schreiben des Kreisverwaltungsreferats vom 28.08.2017
+- TOP 2.3.11.: Vorfahrtsregelung Stegmühlstraße / Musenbergstraße / Seidleinweg; Schreiben des Kreisverwaltungsreferats vom 28.08.2017
+- TOP 2.3.12.: Aspekte zur Diskussion der Garten-Tram; Bürgeranliegen vom 17.07.2017
+- TOP 2.3.13.: Tram durch den Münchner Englischen Garten; Bürgeranliegen vom 17.07.2017
+- TOP 2.3.14.: Bebauungsplan mit Grünordnung Nr. 1539 Gewerbegebiet "Am Hüllgraben" - Fuß- und Radweg als Kfz-Abstellplatz; Bürgeranliegen vom 22.05.2017 (vertagt am 11.07.2017, TOP 2.3.11)
+- TOP 2.3.15.: Öffentlicher Nahverkehr / Buslinie 190/191; Bürgeranliegen vom 06.08.2017
+- TOP 2.3.16.: Taxistand Buschingstraße und Ampelschaltung Stuntz-/Richard-Strauss-Straße; Bürgeranliegen vom 25.07.2017
+- TOP 2.3.17.: Geschwindigkeitsreduzierung auf der Effnerstraße, Teerbelag auf der Oberföhringer Straße, Verspätung Buslinie, Koordination Ampelschaltungen, Abfahrtszeiten MVV; Bürgeranliegen vom 02.07.2017
+- TOP 2.3.18.: Grundschule Knappertsbuschstr. 43 – Schulwegsicherheit; Vormerkung zum Ortstermin an der Grundschule Ruth-Drexel-Straße am 21.08.2017; Schreiben des Referat für Bildung und Sport vom 22.08.2017
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Kunstraum Bogenhausen e.V. Das Nathan Projekt vom 15.09.2017 - 17.09.2017
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Förderverein der städtischen Berufsschule zur Berufsvorbereitung am Bogenhauser Kirchplatz München e.V. Bepflanzung des neu entstandenen Schulgartens
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Verein für Stadtteilkultur im Münchner Nordosten e.V. Herausgabe der Stadtteilbroschüre "NordOstMagazin 2018"
+- TOP 2.4.4.: (E) Budget der Bezirksausschüsse Internationales Montessori Zentrum München e.V. Anschaffung eines Spielplatzgerätes im Januar 2018 4.211,78
+- TOP 2.4.5.: Kooperationsplattform "Alfresco"; Anhörungsschreiben zu Technikpauschale und elektronischer Ladung; Anhörung des Direktoriums vom 17.08.2017
+- TOP 2.4.6.: Stadtbezirksbudget und Bestellung städtischer Leistungen - Nachfrage; Schreiben des Direktoriums vom 07.08.2017
+- TOP 2.4.7.: Finanzierung der BA-eigenen Veranstaltung „Kein Totsparen des Kulturbürgerhauses“ (Plakataktion)
+- TOP 2.5.1.: Lebenswandel - ein Projekt für männliche Geflüchtete - Bitte um Unterstützungsschreiben; Bürgeranliegen vom 19.07.2017
+- TOP 2.5.2.: Abgeschaffte Monatskarte im Cosimabad; Bürgeranliegen vom 02.08.2017
+- TOP 2.5.3.: Sportanlage Memeler Straße 53; Bürgeranliegen vom 22.08.2017
+- TOP 2.5.4.: Gründung eines Fonds für die entstehenden Kosten durch Prüfungsgebühren und Übersetzung notwendiger Dokumente für Flüchtlinge – Beschlussentwurf für Sozialausschuss; Anhörung des Sozialreferats vom 28.08.2017
+- TOP 2.6.1.: Baumfällungen (Anhörungen): - Richard-Strauss-Str. 56: lt. Plan - Flemingstraße 58: lt. Plan - Westpreußenstraße 2: lt. Plan - Prinz-Eugen-Park (Cosimastraße / Jörg-Hube-Straße): lt. Plan - Jörg-Hube-Straße: lt. Plan - Oberföhringer Straße 28: lt. Plan - Eugen-Jochum-Straße: lt. Plan - Osserstr. 46: lt. Plan - Denninger Str. 110: 1 Weide - Regina-Ullmann-Str. 52a - 58: 3 Bäume - Regina-Ullmann-Str. 49: 2 Vogelkirschen - Salzsenderweg: 1 Spitzahorn - Vollmannstr. 23: 1 Lärche - Rohlfsstr. 8: 3 Bäume - Maria-Theresia-Str. 30: 1 Schwarzpappel
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Asgarstr. 19 (1 Birke), Davidstr. 2 (2 Bäume), Denninger Sr. 169 (2 Schwarzkiefer), Ehrlestr. 22 (1 Fichte, 1 Birke), Gellertstr. 6a (1 Birke), Greifensteinstr. 1 (1 Ahorn), Hans-Heiling-Str. 6a (2 Thujen), Harthauser Str. 115 (1 Fichte), Leonburgstr. 9 (1 Birke), Lindenstr. 3 (1 Silberpappel), Mauerkircherstr. 1a (1 Baum), Redwitzstr. 8 (2 Eschen), Wolfskehlstr. 9 (lt. Bescheid), Oberföhringer Str. 213 (lt. Bescheid), Höchlstr. 2 (lt. Bescheid), Traberstr. 15a (lt. Bescheid), Knappertsbuschstr. 1 (lt. Bescheid), Schnorr-von-Carolsfeld-Str. 13 (lt. Bescheid), Mauerkircherstr. 68 (lt. Bescheid), Hugo-von-Hofmannsthal-Str. 5 (lt. Bescheid), Ruth-Drexel-Str. (lt. Bescheid), Lamontstr. 5 (1 Birke, lt. Bescheid), Tucheler Heide Str. 3 (1 Vogelbeere), Effnerstr. 80 - 98 (2 Linden), Oberföhringer Str.155 – 157c (2 Linden)
+- TOP 2.6.3.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Schreiben des Baureferats vom 08.08.2017
+- TOP 2.6.4.: Anfrage zur Grünflächenverordnung; Schreiben des Referats für Stadtplanung und Bauordnung vom 08.08.2017
+- TOP 2.6.5.: Schadstoffmessung an der Phorms-Schule; Bürgeranliegen vom 26.07.2017
+- TOP 2.6.6.: Bonus-Supermarkt in Johanneskirchen Kardinal-Wendel-Straße 1. Wettbewerbssituation und Verwendung öffentlicher Gelder 2. Nutzung des öffentlichen Raumes als Verkaufsfläche
+- TOP 2.6.7.: (E) Aufstellen von Mülleimern bei den Grünflächen Friedrich-Eckart-Straße sowie Neckarstraße / Spessartstraße Empfehlung Nr. 14-20 / E 01238 der Bürgerversammlung des Stadtbezirks 13 Bogenhausen am 27.10.2016 Vertagung aus der Januarsitzung - Antwortschreiben TOP 6.2 Februarsitzung
+- TOP 2.6.8.: Wertstoffinsel an der Fritz-Lutz-Straße; Bürgeranliegen vom 04.08.2017
+- TOP 2.6.9.: Instandsetzung der Sitzbänke an der Cosimastr.; Bürgeranliegen vom 22.08.2017 (Rückmeldung Gartenbau vom 23.08.2017)
+- TOP 5.1.: München Marathon am 08.10.2017 und Trachtenlauf am 07.10.2017 (Trachtenlauf betrifft BA 13 nicht); Anhörung des Kreisverwaltungsreferats vom 03.08.2017
+- TOP 5.2.: Gedenkfeier Adalbert Stifter am 22.10.2017 auf dem Böhmerwaldplatz; Anhörung des Kreisverwaltungsreferats vom 02.08.2017
+- TOP 5.3.: Veranstaltung in Grünanlagen Circus Roberto von 06.10.2017 - 15.10.2017 (Aufbau ab 02.10.2017) in der Grünanlage Bichlhofweg Termin: 18.09.2017 Anhörung des Kreisverwaltungsreferats vom 22.08.2017
+- TOP 6.1.: FC Rot-Weiß Oberföhring nicht mehr länger hinhalten: Beschleunigung der Planungen und Errichtung des Neubaus eines Umkleidegebäudes des FC Rot-Weiß Oberföhring sowie die Ertüchtigung der Sportfelder
+- TOP 6.2.: Städtische Satzung zur Zweckentfremdung auf den Weg bringen
+- TOP 6.3.: Die Mauer muss weg!
+- TOP 6.4.: Zerstört die Stadt München bewusst Vereine in Bogenhausen ?
+- TOP 6.5.: Änderung der Ampelschaltungen
+- TOP 6.6.: MVG-Fahrkartenautomat an der Bus-Endhaltestelle "Westerlandanger"
+- TOP 6.7.: Kreuzung Truderinger Straße / Zamilastraße: Grün für Radfahrer?
+- TOP 6.8.: Einrichtung einer "KulturOase Daglfing"
+- TOP 6.9.: Einzige Lebensmitteleinkaufsmöglichkeit in der Parkstadt Bogenhausen bestehen lassen
+- TOP 6.10.: Verbesserung der Umsteigebeziehungen an der Endstation Berg am Laim (Bus 190/191 zur Linie 25 und Linie 19)
+- TOP 6.11.: Pienzenauerstr. 37: Neubau eines Wohnhauses mit Schwimmbad - Vorbescheid; Schreiben (Baugenehmigung) des Referats für Stadtplanung und Bauordnung vom 13.07.2017
+- TOP 6.12.: (E) Lärmbelästigung Tram 16 und 18 St. Emmeram Empfehlung Nr. 14-20 / E 00262 der Bürgerversammlung des Stadtbezirks 13 Bogenhausen am 23.10.14; Beschluss des BA 13 vom 08.12.2015, Sitzungsvorlage Nr. 14-20 / V 04675 ; Antwortschreiben der MVG auf die Stellungnahme vom 06.06.2017
+- TOP 6.13.: Vorantreibung der baulichen Entwicklung der Grundschule an der Oberföhringer Straße
+- TOP 6.14.: Verbesserung der Schulwegsicherheit in der Eggenfeldener Straße
+- TOP 6.15.: Pflasterausbesserung am Prinzregentenplatz
+- TOP 6.16.: Ecke Englschalkinger Straße / Freischützstraße: Gehwegsanierung nach Neubau
+- TOP 7.1.1.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP 7.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 7.2.3.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft Flst. 439/48 Gemarkung Oberföhring Prinz-Eugen-Park, Bauquartier WA 15 Ost
+- TOP 7.4.2.: Mitteilung über ein Grundstücksgeschäft Flst. 189 Oberföhring Muspillistraße 8 (mit Aufbahrungsraum und Trafostation)
+- TOP 7.4.3.: Mitteilung über ein Grundstücksgeschäft Flst. 206/28 (51, 97/1000 Miteigentumsanteil) Rosenkavalierplatz 18
+- TOP 7.5.1.: Unveränderte Fortführung eines Gaststättenbetriebs: Ludwig-Brück-Straße 3: "Tantra Bar und Lounge"; vorher: "James" Truderinger Straße 40: „Steinhauser Einkehr“; bisher: Vereinswirtschaft; beantragt ist eine Betriebsartänderung in Schank- und Speisewirtschaftkre
+- TOP 7.5.2.: Arbeiten im Straßenraum Brodersenstraße 4; Fernwärmehausanschluss
+- TOP 7.5.3.: Arbeiten im Straßenraum Westpreußenstraße 4 (Fernwärmearbeiten)
+- TOP 7.5.4.: Arbeiten im Straßenraum: Englschalkinger Str. 148 (Neuverlegung Fernwärmehausanschluss)
+- TOP 7.5.5.: Arbeiten im Straßenraum: Barlowstr. 1 – Seite Brodersenstraße (Fernwärmehausanschluss)
+- TOP 7.7.1.: (U) Vierspuriger Ausbau des Föhringer Rings (St 2088) Sachstandsbericht Abschluss einer Finanzierungsvereinbarung
+- TOP 7.7.2.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 7.7.3.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 7.7.4.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2121 Arabellastraße 26 – 28 (Teiländerung des Bebauungsplans Nr. 3 c, 8. Teibereich) - Einleitungs- und Aufstellungsbeschluss - Stadtbezirk 13 – Bogenhausen
+- TOP 7.8.1.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 7.8.2.: Errichtung eines Hauses für Kinder im Prinz-Eugen-Park, WA 1 und WA 2; Baubeginnsanzeige des Referats für Bildung und Sport
+- TOP 7.8.3.: (U) Schulbauoffensive 2013-2030
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch; Neckarstraße 16; vorher: 115 m² bzw. 1 WE, geplant: 234 m² bzw. 2 WE
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch; Savitsstraße 3; vorher: 100 m² bzw. 1 WE, geplant: 200 m² bzw. 2 WE
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch; Pinzenauerstraße 78; vorher: 264 m² bzw. 1 WE, geplant: 1048 m² bzw. 6 WE
