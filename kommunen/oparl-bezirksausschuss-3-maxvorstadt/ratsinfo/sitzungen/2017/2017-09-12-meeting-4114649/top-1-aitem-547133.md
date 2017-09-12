@@ -1,0 +1,7 @@
+# TOP 1.: Nächste BA- und UA-Sitzungen
+
+- Sitzung: BA 03 - Vollgremium (2017-09-12)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/547133
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/547133
