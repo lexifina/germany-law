@@ -1,0 +1,7 @@
+# TOP 5: Bezirkshaushalt 2018/2019 (Entwurf) Kapitel 4200, 4201, 4202
+
+- Sitzung: 8. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2017-09-13)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=45860
+- Ergebnis: erledigt
