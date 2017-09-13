@@ -1,0 +1,134 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-09-13T17:13:00+02:00
+- Ende: 2017-09-13T22:47:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4284
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4284
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=253110
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Verkehrslage im Bereich Rohrbrunner Straße - beantwortet
+- TOP 2.2: Verkehrssituation - beantwortet
+- TOP 2.3: Kita "Am Brunnen" - beantwortet
+- TOP 2.4: Grundstücke für Systembau-Kitas - beantwortet
+- TOP 2.5: Haushaltsplanung - beantwortet
+- TOP 2.6: Rad- und Wanderwege im Bereich "Am Brunnen" - beantwortet
+- TOP 2.7: 120 Jahre alte Linde - geschützte Grünfläche "Am Brunnen 17" - beantwortet
+- TOP 2.8: Bereitstellung der Sporthallen für Sportvereine und Schulen - beantwortet
+- TOP 2.9: Zabel-Krüger-Damm 35 - 39 - schriftlich beantwortet
+- TOP 2.10: Hostel / Betreutes Wohnen Zabel-Krüger-Damm 35 - schriftlich beantwortet
+- TOP 2.11: Trettachzeile 15 - schriftlich beantwortet
+- TOP 2.12: Trettachzeile 15 - Begehung durch Wohnungsaufsicht - schriftlich beantwortet
+- TOP 2.13: Bootsanleger am Schäfersee - schriftlich beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 11. Sitzung der BVV am 13.09.2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Sparkassenbus in Wittenau - beantwortet
+- TOP 4.2: Angebliche Zensur durch das Bezirksamt - beantwortet
+- TOP 4.3: Schließung der Residenzstraße / Raschdorffstr. - beantwortet
+- TOP 4.4: Sanierung des ehemaligen Pferdestalls der Feuerwache Hermsdorf - beantwortet
+- TOP 4.5: Turnhallensanierung - beantwortet
+- TOP 4.6: Sexistische und frauenfeindliche Werbung in Reinickendorf - beantwortet
+- TOP 4.7: Schulplätze in Reinickendorf - beantwortet
+- TOP 4.8: Baufällige Hofgebäude der Feuerwache Hermsdorf - beantwortet
+- TOP 4.9: Kita Rallenweg - beantwortet
+- TOP 4.10: Impfstoff - beantwortet
+- TOP 4.11: Umgestaltung der Berliner Straße in Tegel zu einem Boulevard mit höherer Aufenthaltsqualität (BVV-Beschluss Drs.-Nr.: 0494/XIX-11 vom 11.09.2013) - beantwortet
+- TOP 4.12: Senatsprogramm - beantwortet
+- TOP 4.13: Schließung des Toom-Baumarktes Berlin-Wittenau und seine Nachnutzung - beantwortet
+- TOP 4.14: Nixenkraut - schriftlich beantwortet
+- TOP 4.15: Schadstoffuntersuchungen - schriftlich beantwortet
+- TOP 4.16: Bezirkliche Tourismusförderung aus Mitteln der City Tax - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Berlin braucht Tegel! (Große Anfrage) - beantwortet
+- TOP 5.1.1: Berlin braucht Tegel! - in der BVV abgelehnt
+- TOP 5.1.2: Berlin braucht Tegel! - in der BVV abgelehnt
+- TOP 5.1.3: Berlin braucht Tegel! - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Zieht das Bezirksamt Konsequenzen aus dem Termin im Verwaltungsgericht vom 10.07.2017 zum Tegeler Hafenfest? (Große Anfrage) - vertagt
+- TOP 5.3: Plakatwerbung während der IGA 2017 im Frohnauer Zentrum (Beschlussempfehlung) - erledigt
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretende Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Taubenabwehr am Parkhaus MV instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Casino-Turm denkmalschutzgerecht sanieren, nutzen und öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Sportzentrum Nord im MV erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Sicherheit für Fußgänger und Radfahrer am Franz-Neumann-Platz erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Taktung S-Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Dezentrale Unterbringung geflüchteter Menschen im Märkischen Viertel - überwiesen
+- TOP 7.7: Gutachten zum Bauvorhaben "Umbau Tegel-Center" vorlegen - überwiesen
+- TOP 7.8: Grünen Pfeil an der Ecke Gorkistraße / Am Nordgraben installieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Ehrenamtliche Helfer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Personalausstattung für Sozialraumorientierte Planungskoordination verbessern - überwiesen
+- TOP 7.11: Monitoring Soziale Stadtentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Beschluss des Frauen- und Mädchenbeirates zur Gewalt präventiven Maßnahme ONE BILLION RISING - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Öffnung des Stadtbads MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Ausführungsvorschriften zum Bundesteilhabegesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Beschluss über die Verkleinerung des Geltungsbereiches des Bebauungsplanentwurfs 12-32B und über die Aufstellung eines Bebauungsplans mit der Bezeichnung 12-67B in Berlin-Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.16: Auflösung des Projektmittefonds - überwiesen
+- TOP 7.17: Änderung des Geltungsbereiches des Bebauungsplanentwurfes XX-256b im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.18: Aufstellung des Bebauungsplans mit der Bezeichnung 12-VE1 für das Grundstück Schloßstraße 9 im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Entwicklungsstand der Planungen für die Nachnutzung des Flughafens Tegel - beantwortet
+- TOP 8.2: Missstände in Reinickendorfer Krankenhäusern - vertagt
+- TOP 8.3: Ehe für alle: Ist Reinickendorf vorbereitet? - vertagt
+- TOP 8.4: Tegeler Hafenfest - vertagt
+- TOP 8.5: Klimaschutz in Reinickendorf - unser Beitrag zur nachhaltigen Entwicklung? - vertagt
+- TOP 8.6: Tetra-Pak-Gelände in Heiligensee - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Änderungen am Zahlenteil des Entwurfs des Bezirksaushaltsplans Reinickendorf für die Haushaltsjahre 2018 und 2019 (Doppelhaushalt) - Nachschiebeliste - - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Das Märkische Viertel fit machen für den Zuzug weiterer Einwohner - überwiesen
+- TOP 10.2: Sicherheit am Wilhelmsruher Damm I - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Informationsveranstaltung zu den Bauarbeiten in der Oranienburger Straße - vertagt
+- TOP 10.4: Öffnung von privaten Parkplätzen im Rahmen der Umbauarbeiten Oranienburger Straße - in der BVV abgelehnt
+- TOP 10.5: Musische Tage Reinickendorf sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Unterrichtsausfall entgegenwirken - vertagt
+- TOP 10.7: Zusätzliche Atelierflächen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Bestand der Graphothek online verfügbar machen - erledigt
+- TOP 10.9: 50 Jahre Graphothek - Hinweistafel - erledigt
+- TOP 10.10: Alteingesessene Gewerbetreibende in Tegel schützen - erledigt
+- TOP 10.11: 50 Jahre Graphothek - Informationen zu Nachlässen bewerben - in der BVV abgelehnt
+- TOP 10.12: 50 Jahre Graphothek mit unserer Partnerstadt Greenwich feiern - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Tag der Offenen Ateliers, Werkstätten und Galerien in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Jahresstatistik Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Anmeldung für die Investitionsplanung 2017 bis 2021 - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Anmeldung für die Investitionsplanung 2017 bis 2021 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Task Force beim Allgemeinen Ordnungsdienst einführen - überwiesen
+- TOP 12.2: Radweg entlang der Malche - überwiesen
+- TOP 12.3: Tränken für Hundespielplätze - überwiesen
+- TOP 12.4: Anonymisiertes Bewerbungsverfahren - überwiesen
+- TOP 12.5: Bienen, Schmetterlinge und andere sog. Bestäuber vor dem Aussterben bewahren - überwiesen
+- TOP 12.6: Parkplätze in der Flottenstraße - überwiesen
+- TOP 12.7: Gestalterische Aufwertung der Wartebereiche in den Bürgerämtern - überwiesen
+- TOP 12.8: Baubeiräte an Schulen gründen! - überwiesen
+- TOP 12.9: Überschwemmungsschäden durch Starkregen in Reinickendorf - überwiesen
+- TOP 12.10: Halteverbot im Bernshausener Ring - überwiesen
+- TOP 12.11: Liegewiese am Schäfersee - überwiesen
+- TOP 12.12: Schulentwicklungsplan für Reinickendorf aktualisieren! - überwiesen
+- TOP 12.13: Mehr Zivilstreifen beim Allgemeinen Ordnungsdienst - überwiesen
+- TOP 12.14: Tanzsaal Stadtteilbibliothek - überwiesen
+- TOP 12.15: Zeit-/Maßnahmenplan für Schulsanierungen und Schulneubau - überwiesen
+- TOP 12.16: Verkehr in den Alemannenstraße - überwiesen
+- TOP 12.17: Campus Hannah Höch sanieren, ausbauen und stärken - überwiesen
+- TOP 12.18: Neubau einer ISS am Waidmannsluster Damm - überwiesen
+- TOP 12.19: Eine nachhaltige Perspektive für die Montessori-Schule Heiligensee! - überwiesen
+- TOP 12.20: Schulsanierung und Schulneubau mit hohen Standards realisieren! - überwiesen
+- TOP 12.21: Maßnahmen gegen Hochwasser im Bereich Mäckeritzwiesen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Montessori Schule unterstützen - überwiesen
+- TOP 13.2: Verschönerung im Bereich Roedernallee und Flottenstraße - überwiesen
+- TOP 13.3: Legionellenbefall bekämpfen - überwiesen
+- TOP 13.4: Diebstahlschutz auf Fahrradabstellanlagen - überwiesen
+- TOP 13.5: Regenwasserabläufe auf der Heiligensee- und Konradshöher Straße - überwiesen
+- TOP 13.6: Bewohnern der Mäckeritzwiesen helfen - überwiesen
+- TOP 13.7: Dauernde Verschmutzung verringern - überwiesen
