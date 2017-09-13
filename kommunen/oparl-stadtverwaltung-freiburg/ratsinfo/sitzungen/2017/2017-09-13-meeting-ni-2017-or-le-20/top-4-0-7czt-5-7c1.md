@@ -1,0 +1,7 @@
+# TOP 4: Abbruch eines Wohnhauses mit Schuppen und Scheune, Breisgauer Straße 8
+
+- Sitzung: 8. Sitzung des Ortschaftsrates Lehen (2017-09-13)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2017-OR_LE-20%7Czt_5%7C1
+- Beschluss (Datei): Beschluss - Top 4 https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2017-OR_LE-20%7Czt_5%7C1
