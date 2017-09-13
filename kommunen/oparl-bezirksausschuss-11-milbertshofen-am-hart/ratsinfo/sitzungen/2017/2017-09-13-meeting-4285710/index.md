@@ -1,0 +1,99 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285710
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285710
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Rücknahme des Antrages vom 04.04.2017 auf BA-Budget - Kindertreff OLY Gutschrift für den BA 11
+- TOP 4.2.1.: Erhalt des Streetballplatzes und der Tischtennisplatte nach Rückbau der Unterkunft in der Rathenaustr. / Thalhoferstr.
+- TOP 4.2.2.: Neue Lackiererei von BMW: Geruchsbelaestigung
+- TOP 4.2.3.: Antrag B 90/ Die Grünen-Fraktion: Umsetzung des Luftreinhalteplans im Münchner Norden
+- TOP 4.2.4.: Müllentsorgung in Milbertshofen - Müllaktionen im Sept. planen
+- TOP 4.2.5.: Bürgeranliegen "Saubere Nordhaide - no littering" - Antwort Sozialreferat
+- TOP 4.3.1.: Ausstattung des Kulturhauses Milbertshofen mit einem Automatischen Externen Defibrillator (AED) und Schulung der Mitarbeiter in dessen Benutzung
+- TOP 4.3.2.: Grünanlage Schollerweg 1. Aufstellen einer zweitenTischtennisplatte, Basketballkorb und Anlegen eines Boule-Platzes sowie Schaffen von Sitz- und Abfallentsorgungsmöglichkeiten (Mülleimer) 2. Erhalt und Erweiterung der Spielgeräte auf dem Gelände der leer stehenden Gemeinschaftsunterkunft (Aangebot für Kinder im Alter von 10 - 14 Jahren, z.B. Umwandeln in einen Abenteuerspielplatz) 3. Austauschen der Abfalleimer am Spielplatz Bernaysstr. mit Mülleimern mit Deckeln
+- TOP 4.4.1.: Verkehrsregelung und Geschwindigkeitsmessungen in der Rockefellerstr. und Anton-Will-Straße Antwort des Kreisverwaltungsreferat
+- TOP 4.4.2.: Strelitzerstr.: Änderung eines Haltverbot zu einem Parkverbot
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Fachstelle Demokratische Jugendbildung Demokratiemobil vom 01.09.2017 - 24.09.2017
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Förderverein Alte St. Georgskirche Milbertshofen e.V. Tag des offenen Denkmals am 10.09.2017
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse PA/SPIELkultur e.V. Projekt "Treffpunkt MOLy - Ein Aktionsbahnhof für alle" am 22./23.09.2017
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse silea.inc GbR Theaterprojekt am 29./30.09.2017
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse Kulturverein Olympiadorf Münchner Bergfilmtage vom 06.10. bis 08.10.2017 1.250,00 €
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Örtliche Arbeitsgemeinschaft (ÖAG) für Seniorenarbeit Milbertshofen-Am Hart Seniorentage vom 17. - 20.10.2017 3.000,00
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Aktualisierung des Nachhaltigkeitskonzepts im Masterplan FIZ Future - BMW Dringlichkeitsantrag der B90/ Die Grünen-Fraktion
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Parkplätze entlang der Riesenfeldstraße
+- TOP 7.4.2.: Verkürzung der Wartezeiten für Fußgänger und Radfahrer an Überwegen in der Schleißheimer Straße und Knorrstraße
+- TOP 7.4.3.: Eingeschränktes Haltverbot im Helene-Mayer-Ring 14
+- TOP 7.4.4.: Parkplätze erhalten - Eingeschränktes Haltverbot auf der Ostseite der Bischof-Adalbert-Straße bleibt bestehen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Änderung der BezirksausschussS Antrag auf ein neues Anhörungsrecht für die Vergabe von Erbbaurecht und Verpachtung von städt. Liegenschaften bzw. städt. Grundstücken
+- TOP 8.1.2.: Änderung von § 12 Abs. 1 BezirksausschussS Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BezirksausschussGO
+- TOP 8.1.3.: Technikpauschale und elektronische Ladung
+- TOP 8.1.4.: Standortkonzept für die Bürgerbüros der LHM Anhörungsfrist: 01.09.2017
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Feuchtwangerstr. 4 Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 8.2.2.: Dientzenhoferstr. 55 -71: - Bauvorhaben: Neubau einer Wohnanlage mit Tiefgarage - Antrag auf Beseitigung und/oder Veränderung von geschütztem Baumbestand
+- TOP 8.2.3.: Tüllesamstr. 10 Bauvorhaben: Abbruch des Bestandes und Neubau eines Einfamilienhauses
+- TOP 8.2.4.: Knorrstraße 147 - Neuerrichtung einer Anlage zur Kraft-Wärme-Kopplung bestehend aus 4 erdgasbetriebenen Motoren
+- TOP 8.2.5.: Riesenfeldstraße 87 - Neuerrichtung eines Heizwerks, bestehend aus 3 Heißwasserkesseln
+- TOP 8.2.6.: Erweiterung des Grünzuges vom Petuelring bis zur Nordheide (Panzerwiese) - BV-Empfehlung Nr. 14-20 / E 01113
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Neugestaltung des Eingangsbereichs am ASZ Plus Milbertshofen BV-Empfehlung Nr. 14-20 / E 01111
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Olympiapark: Veranstaltung "Alm-Crosslauf" am 12.11.2017
+- TOP 8.4.2.: Olympiapark: Veranstaltung „München-Marathon“ am 08.10.2017 und Trachtenlauf am 07.10.2017
+- TOP 8.4.3.: Olympiapark: Veranstaltung „Outdoorsportfestival“ am 15.10.2017
+- TOP 8.4.4.: Anhörung zu verkehrsrechtlichen Anordnungen: Fingerkrautanger 4 Griegstr. 32 – 34 Permanederstraße Bertholdstraße 12 Lauchstädter Straße Eduard-Schenk-Straße Goldmarkstraße Rathenaustraße
+- TOP 8.4.5.: Widmung der Gesamtstrecke des Christl-Marie-Schultes-Wegs
+- TOP 8.4.6.: Sudetendeutsche Straße / Aussiger Platz – Austausch Lichtzeichenanlagen
+- TOP 8.4.7.: Parkraummanagement in München – Fortschreibung Sektor V - Beschlussentwurf -
+- TOP 9.1: Plenum
+- TOP 9.1.1.: BA-Budget: Verwendungsnachweise und Kurzberichte
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Sportanlage MoosacherStr_99 Neubau eines Sportbetriebsgebäudes in Pavillonbauweise - Modernisierung der Freisportanlagen
+- TOP 9.2.2.: (U) Keine zusätzlichen Lärmbelästigungen für den 24. Stadtbezirk durch den Hubschrauberlandeplatz in Oberschleissheim (Punkt 1 des Antrages) Empfehlung Nr. 14-20 / E 00413 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching–Hasenbergl vom 16.04.2015
+- TOP 9.2.3.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 9.2.4.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 9.2.5.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
+- TOP 9.2.6.: (U) Verzicht auf neue Autotunnel an der Landshuter Allee, Tegernseer Landstraße und Schleißheimer Straße Antrag Nr. 14-20 / A 02944 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 10.03.2017
+- TOP 9.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.8.: (U) Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach 1. Ergebnis des Nutzungskonzeptes 2. Weiteres Planungsverfahren
+- TOP 9.2.9.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln
+- TOP 9.2.10.: Meldelisten der Lokalbaukommission über Bauvorhaben im Stadtbezirk
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Schulbauoffensive 2013-2030
+- TOP 9.3.2.: Unterrichtung über unveränderte Fortführung von Gaststättenbetrieben "Restaurant Oly" - Helene-Mayer-Ring 11 "Kervan" - Schleißheimer Str. 442
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Unterrichtung über verkehrsrechtliche Anordnungen des KVR: Korbinianstr. 1 Paracelsustraße Neuherbergstr. 92 Hanselmannstr. Knorrstr. / BMW-Allee Piccoloministraße Max-Diamand-Straße Sandbienenweg Kämpferstr. 2
+- TOP 9.4.2.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
