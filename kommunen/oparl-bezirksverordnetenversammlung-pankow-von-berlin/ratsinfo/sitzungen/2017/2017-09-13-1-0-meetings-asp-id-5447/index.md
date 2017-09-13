@@ -1,0 +1,120 @@
+# 9. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-09-13T17:30:00+02:00
+- Ende: 2017-09-13T21:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5447
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5447
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=148840
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Schienenersatzverkehr M1 - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Geschäftsordnung der Bezirksverordnetenversammlung Pankow von Berlin für die VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Entwurf des Doppelhaushaltsplans 2018/2019 für den Bezirk Pankow (einschließlich Vorbericht, Anlagen 1 - 3 und Stellenplan) - ohne Änderungen in der BVV beschlossen
+- TOP 1.9.1: Ergänzungen zur Bezirksamtsvorlage VIII-0151/2017 – Entwurf des Doppelhaushaltsplanes 2018/2019 für den Bezirk Pankow (Nachschiebeliste) - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Nachweis der im Haushaltsjahr 2016 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.11: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2016 - überwiesen
+- TOP 1.12: Wahl einer Schiedsperson für den Schiedsamtsbezirk 8 - die Grenze verläuft entlang der S – Bahn – Trasse, der Straßenzüge Greifswalder Straße und Landsberger Allee sowie entlang der Grenze zum Ortsteil Weißensee und der Bezirksgrenze zu Lichtenberg - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Nachbesetzung eines Patientenfürsprechers für das Vivantes Klinikum im Friedrichshain-Prenzlauer Berg / Standort Prenzlauer Berg des Bezirks Pankow für die VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Berufung beratender Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Wahl eines Mitgliedes der Seniorenvertretung in den Vorstand der Albert-Schweitzer-Stiftung - Wohnen & Betreuen - gewählt
+- TOP 1.16: Nachwahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.17: Nachwahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.18: Wahl eines Mitgliedes des Kuratoriums der Seniorenstiftung Prenzlauer Berg - gewählt
+- TOP 1.19: Berufung beratender Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Rad- und Fußverkehr fördern – Verkehrsberuhigung in der Gneiststraße und dem Helmholtzplatz-Quartier - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Inklusive Sportstättenplanung - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Frühschwimmen in der Schwimmhalle Thomas-Mann-Straße wieder ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Mehr als eine Vignette pro Betrieb in den Parkraumzonen - in der BVV abgelehnt
+- TOP 1.24: Tegel öffnen für die Zukunft! - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Sperrung der Königsteinbrücke auf ein notwendiges Mindestmaß reduzieren - überwiesen
+- TOP 1.26: Keine Fördermittel für Extremisten – Verfassungstreue von freien Projektträgern sicherstellen - in der BVV abgelehnt
+- TOP 1.27: Spielplatzplanung - überwiesen
+- TOP 1.28: Willner Brauerei als Kunst- und Kulturstandort erhalten und entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Flüchtlingsunterkunft nur für Frauen in Pankow einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Verständliche Sprache - überwiesen
+- TOP 1.31: Beitritt zu einem Moratorium in Sachen »öffentliche Toiletten« - überwiesen
+- TOP 1.32: Teilnahme des Bezirkes Pankow am berlinweiten Umweltprojekt »Refill Berlin. Kostenfrei Trinkwasser« - vertagt
+- TOP 1.33: Alternativer Standort für den Vogelgnadenhof - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Machbarkeitsstudie zur Parkraumbewirtschaftung im Florakiez - überwiesen
+- TOP 1.35: Linienführung des Busses 350 an die tatsächlichen Bedarfe anpassen - überwiesen
+- TOP 1.36: Kinderschutz sicherstellen und Fachpersonal schützen - überwiesen
+- TOP 1.37: Verkehrssicherheit in der Eberswalder Straße erhöhen - überwiesen
+- TOP 1.38: Umsetzung des Rechts auf Ehe für Alle im Bezirk Pankow - vertagt
+- TOP 1.39: Initiative "WLAN in die Klassenzimmer!" starten - überwiesen
+- TOP 1.40: Papierloses Arbeiten ermöglichen, WLAN in den Räumen der BVV einrichten - überwiesen
+- TOP 1.41: Prüfkriterien für Genehmigungsentscheidungen in Erhaltungsgebieten bekannt machen - überwiesen
+- TOP 1.42: Straßenschäden mit besonderer Gefahr für den Radverkehr prioritär beseitigen - überwiesen
+- TOP 1.43: Verbesserung der Verkehrssicherheit in der Tino-Schwierzina-Straße - überwiesen
+- TOP 1.44: Verkehrssicherheit im Thule-Viertel - überwiesen
+- TOP 1.45: Kinderfreizeiteinrichtung Rakähte langfristig sichern - überwiesen
+- TOP 1.46: Erhöhung der Verkehrssicherheit im Bereich der Kita Sonnenmäuse in der Conrad-Blenkle-Straße 46 - vertagt
+- TOP 1.47: Verbesserung der Verkehrssicherheit in der Buchholzer Straße III - überwiesen
+- TOP 1.48: Grellstraße/Prenzlauer Allee: Sozialverträglichen Ablauf der Modernisierung sicherstellen! - vertagt
+- TOP 1.49: Pedelecs für das Ordnungsamt - überwiesen
+- TOP 1.50: Planungsprozess zur Anlage eines Radfahrstreifens in der Storkower Straße einleiten - überwiesen
+- TOP 1.51: Keine erneuten Eisflächen in der Boenkestraße - überwiesen
+- TOP 1.52: Umbaupläne Scherenbergstraße - überwiesen
+- TOP 1.53: Städtebauförderung für die Quartiere Langhansstraße und Pankow Süd - überwiesen
+- TOP 1.54: Nutzbarkeit der Heimfriedstraße wiederherstellen - überwiesen
+- TOP 1.55: Barrierefreie Gestaltung der Internetseiten von Bezirksamt und BVV Pankow - vertagt
+- TOP 1.56: Werneuchener Wiese: Gemeinsam als Bürgerwiese gestalten - überwiesen
+- TOP 1.57: Resolution über eine Kultur des gegenseitigen Respektes aller politischen Kräfte inner- und außerhalb der BVV im Wahlkampf BTW17 und danach - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Tempo 30 auf der gesamten Dietzgenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Fußgängerquerung an der Straßenbahnhaltestelle Pankower Straße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Übertragung des Standortes Fröbelstraße 17 in das SILB - vertagt
+- TOP 2.5: Ukrainische Partnerstadt für Pankow - den Wandel begleiten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Entgeltverhandlungen für die Eingliederungshilfen nach § 53 und 54 SGB XII unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Planungen für die Sanierung der »Brotfabrik« aufnehmen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Buswartehäuschen in der Wiltbergstraße in Berlin-Buch - vertagt
+- TOP 2.10: Vorgaben für die weitere Entwicklung des Güterbahnhofs Greifswalder Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Reinigung der Jugendverkehrsschule Pankow von sog. Graffiti - vertagt
+- TOP 2.12: Schutz von Wildtieren in Zirkussen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Regionalen Wochenmarkt Pankow einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Personalentwicklung und Personalmanagement - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Änderung der Aufstellordnung der Stellplätze in der Anton-Saefkow-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Mehr Aufenthaltsqualität und Lebendigkeit für die Gustav-Adolf-Straße und den Caligari-Platz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Die Anton-Saefkow-Straße 33 für bezirkliche Nutzungen und Ziele sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Möglichkeiten der Nutzung von bezirklichen Räumen verbessern - vertagt
+- TOP 2.19: Fußgängerüberweg in der Berliner Straße auf Höhe der Dr. Markus Straße - vertagt
+- TOP 2.20: Radverkehrsanlage auf der Südseite des Stiftsweges und der Bleicheroder Straße anlegen - vertagt
+- TOP 2.21: Fahrradinfrastruktur in der Metzer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Sozialplanverfahren Dunckerstraße 23 / Stargarder Str. 28 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Alleingang des Senats bei der Neuvergabe der Außenwerbung stoppen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Querungshilfe in der Rudelsburgstraße - vertagt
+- TOP 2.25: Flutlichtanlage für das Kleinfeld des Helmut-Faeder-Sportplatzes im OT Französisch Buchholz (Chamissostraße, 13127 Berlin) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Gemeinnützige Feste von Gebühren entlasten - vertagt
+- TOP 2.27: Graffiti im Mauerpark und in Pankow - vertagt
+- TOP 2.28: Schulwegsicherheit in der Gustav-Adolf-Straße Höhe DGZ-Ring - vertagt
+- TOP 2.29: Sichere Straßenquerung der Darßer Straße auch für Menschen mit Behinderungen realisieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Grobreinigung des Wilhelmsruher Sees kurzfristig veranlassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Gefahren abwenden! Tore der Feuerwache Blankenburg gegen Herausfallen sichern! - vertagt
+- TOP 2.32: Verkehrsberuhigung Wasserturmsiedlung - vertagt
+- TOP 2.33: Anordnungspraxis von Umleitungen für Radwege in Übergeordneten Straßen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.34: Schleichverkehre in Blankenburg während der Bauarbeiten reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Michelangelostraße: Vorgehensweise für die weiteren Planungsschritte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.36: »Traglufthalle – Notübernachtungsangebot in Pankow ausweiten!« - vertagt
+- TOP 2.37: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - vertagt
+- TOP 2.38: Integriertes Städtebauliches Entwicklungskonzept (ISEK) für die Großwohnsiedlung „Greifswalder Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Verteilung der Erträge der Sammelstiftung Kreuzberg 2018 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.40: Studie „Bezirklich geförderte Frauenprojekte als Beitrag zur Lebensqualität von Frauen* im Bezirk Pankow“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.41: Erklärung des Einvernehmens zur dauerhaften Wahrnehmung der bezirklichen Aufgaben der der Ahndung von Ordnungswidrigkeiten nach dem Schwarzarbeitsbekämpfungsgesetz sowie nach der Handwerks- und Gewerbeordnung durch den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.42: Bebauungsplan IV-23 für die Grundstücke Ahlbecker Straße 16-17 und Stargarder Straße 51-52 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.43: Erklärung des Einvernehmens gemäß Artikel 67 Absatz 5 Satz 2 der Verfassung von Berlin und § 3 Absatz 3 Satz 2 des Allgemeinen Zuständigkeitsgesetzes - vertagt
+- TOP 2.44: Benennung eines stellvertretenden bezirklichen Mitglieds der Trägerversammlung des JobCenters Pankow - mit Abschlussbericht zur Kenntnis genommen
