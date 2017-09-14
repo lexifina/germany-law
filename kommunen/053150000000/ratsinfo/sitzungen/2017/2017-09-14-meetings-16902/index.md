@@ -1,0 +1,67 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-14T16:06:00+02:00
+- Ende: 2017-09-14T17:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16902
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16902
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00627152.pdf
+- Ergebnisprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00627152.pdf
+- Wortprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00627152.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Erfahrungsbericht über Aktivitäten in der Energieberatung für Privathaushalte durch die Verbraucherzentrale - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: zu C Beratungsstelle der Verbraucherzentrale NRW in Köln: Jahresbericht 2016 - Kenntnis genommen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Instandsetzung des Bauwerks auf dem Friedhof Scharffensteinstrasse - Sache ist erledigt
+- TOP 1.1.1: Beantwortung einer Anfrage der FDP-Fraktion vom 19.05.2017 betreffend "Instandsetzung des Bauwerks auf dem Friedhof Scharffensteinstraße" - Kenntnis genommen
+- TOP 1.2: Nutzung von Landstrom in den Kölner Häfen - zurückgestellt
+- TOP 1.3: Anfrage der Fraktion Die Linke Pflege von Sport- und Liegewiesen, sowie Hundefreilaufflächen - Sache ist erledigt
+- TOP 1.3.1: Pflege von Sport- und Liegewiesen, sowie Hundefreilaufflächen - Kenntnis genommen
+- TOP 1.4: Anfrage der SPD-Fraktion Ergebnisse des zweiten „Dieselgipfels“ in Berlin; Konsequenzen und Maßnahmen für Köln - zurückgestellt
+- TOP 1.5: Anfrage der Fraktion Die Linke Kölner Vorgärten - zurückgestellt
+- TOP 1.6: Zukunft des RheinEnergieStadions Anfrage der SPD-Fraktion - Sache ist erledigt
+- TOP 1.6.1: RheinEnergie-Stadion; hier: Ergebnisse der Machbarkeitsstudie sowie Beantwortung von Anfragen aus früheren Sitzungen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.7: hier: Anfrage der SPD-Fraktion in der Sitzung des Verkehrsausschusses am 21.03.2017, TOP 1.1 und der Sitzung des Ausschusses für Umwelt und Grün am 16.03.2017, TOP 1.3Radverkehrskonzepte für die Kölner Stadtbezirke - Sache ist erledigt
+- TOP 1.7.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 1.8: Sachstand der Umsetzung des Toilettenkonzepts Köln - zurückgestellt
+- TOP 1.8.1: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - zurückgestellt
+- TOP 1.9: Anfrage der Fraktion Die Linke in der Sitzung des Ausschusses Umwelt und Grün Entwicklung des Grünflächenamtes und der Grünflächen - zurückgestellt
+- TOP 1.9.1: Anfrage der Fraktion Die Linke in der Sitzung des Ausschusses Umwelt und Grün - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Überarbeitung des Pflege- und Entwicklungsplans für das Naturschutzgebiet "Flittarder Rheinauen" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: SmartCity Cologne Konferenz 2017 - Kenntnis genommen
+- TOP 3.2: Stadtradeln 2017 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert empfohlen
+- TOP 4.2: Neuwahl eines stellvertretenden Mitgliedes für den Naturschutzbeirat bei der Unteren Naturschutzbehörde - ungeändert empfohlen
+- TOP 4.3: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - zurückgestellt
+- TOP 4.4: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - zurückgestellt
+- TOP 4.5: Grünfläche Butzweiler Hof - mit Änderungen empfohlen
+- TOP 4.6: Ersatzbeschaffung von 6 Kolonnenfahrzeugen für die Pflege und Unterhaltung von Straßenbaumscheiben gem. Fahrzeug- und Maschinenkonzept 2017 - ungeändert beschlossen
+- TOP 4.7: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert empfohlen
+- TOP 4.8: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert empfohlen
+- TOP 4.9: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 4.10: Stadtklima-/ Stadtverschönerungsprogramm 2016/ 2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Porz - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ohne Votum in nachfolgende Gremien
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates im Ausschuss Schule und Weiterbildung zu Feinstaubmessungen rund um Kölner Schulen (AN/0938/2017 - Kenntnis genommen
+- TOP 7.2: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 7.3: Naturnaher Gewässerausbau des Flehbach in der Parkanlage Köln-Brück - zurückgestellt
+- TOP 7.4: Aufbau eines Hitzewarn- und Informationssystems - Kenntnis genommen
+- TOP 7.5: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 7.6: Luftreinhaltung - Sachstand zum Runden Tisch - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Braunkohlegranulat-Wirbelschichtfeuerung des Heizkraftwerkes (HKW) der RheinEnergie in Köln-Merkenich - zurückgestellt
+- TOP 9: Mündliche Anfragen
