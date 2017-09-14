@@ -1,0 +1,153 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4275027
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4275027
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 10.1.4.: Verwendungsnachweise
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 2.1.2 (E) Budget der Bezirksausschüsse Katholische Arbeitnehmer-Bewegung (KAB), Ortsverband München-Trudering, St. Franz Xaver Bairischkurs "Griaß di - Der Bairischkurs für Jung und Alt" am 14.10., 28.10., 11.11. und 25.11.2017 250,00 €
+- TOP 1.3.2.: 3.7.1 Platz der Menschenrechte - Errichtung einer Boule Bahn
+- TOP 1.3.3.: 7.1.6 Anhörung Riem Arcaden Run Variante 1 Willy Brandt Platz mit Grünanlage Riemer Park am 14.10.2017 gem.StVO, Art. 19 LStVG und Grünanlagensatzung Termin: 30.09.17
+- TOP 1.3.4.: 7.3.4 Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß § 13 der Bezirksausschusssatzung Leibengerstraße / Ilse-von-Twardowski-Platz, Flst. 1588/1 Grundstück ohne Bebauung
+- TOP 1.3.5.: 8.2.23 Königsseestraße 35
+- TOP 1.3.6.: 8.2.24 Rotfuchsweg 12
+- TOP 1.3.7.: 8.2.25 Kathreinweg 30
+- TOP 1.3.8.: 8.2.26 Solalindenstraße 81a
+- TOP 1.3.9.: 8.2.27 Halfinger Straße 47
+- TOP 1.3.10.: 8.2.28 In der Heuluss 8
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. Anschaffung von zwei Übungspuppen bis November 2017 970,67 €
+- TOP 3.2.1.: Elritzenstraße - Parken im absoluten Halteverbot
+- TOP 3.2.2.: Solalindenstraße / Friedenspromenade - Sichtbehinderungen
+- TOP 3.3.1.: Eröffnungsfeier nach Fertigstellung der neuen Geh- und Radwegverbindung zwischen Trudering und Riem
+- TOP 3.3.2.: Bericht der UA-Vorsitzenden zum Stadtteilspaziergang "Auftakt zur Rahmenplanung Randbebauung Wasserburger Landstraße" Verweis auf BA-Antrag 14-20 / B 02845 Wo Verdichtung sinnvoll ist: Randbebauung an der Wasserburger Landstraße weiterentwickeln
+- TOP 3.5.1.: Projekt des Jugendzentrums Quax im Bereich Graffiti/Urban Art - Suche nach Freiflächen
+- TOP 3.5.2.: Kreillerstraße: Fußweg Richtung Bahnhof Trudering - nächtliche Lärmbelästigung
+- TOP 4.1.: Sozialbereich 14 Trudering-Riem / Berg am Laim neu bewerten?
+- TOP 4.2.: Landschaftsschutz ernst nehmen - Bebauung Fauststraße 90 mit maximal 3 Geschossen planen
+- TOP 4.3.: „Wenn der zweite Stock unerreichbar ist“ - Fragen zum Aufzugsärger in der Messestadt
+- TOP 5.1.: Truderinger Straße - Tempo 30 Verlängerung
+- TOP 5.2.: Wasserburger Landstraße / Wasserturmstraße - Markierungen an der Ausfahrt der Feuerwehr
+- TOP 5.3.: SWM-Gas-Leitung bauen – Waldweg barrierefrei wiederherstellen
+- TOP 5.4.: Naturlehrpfad Heuluss - Chancen und Möglichkeiten
+- TOP 5.5.: Anbringung von Hinweisschildern »Grünlicht anfordern« an der Kreuzung Wasserburger Landstraße / Jagdhornstraße
+- TOP 5.6.: Für Grünflächen Ausgleich schaffen
+- TOP 5.7.: Riemer Park - immer mehr wilde Parkplätze
+- TOP 5.8.: Schulhoföffnung im Gymnasium Trudering
+- TOP 5.9.: Prüfung der Einrichtung eines zusätzlichen Nachbarschaftstreffs in der Messestadt
+- TOP 5.10.: Verkehrsberuhigung für die Truderinger Strasse
+- TOP 5.11.: Am Moosfeld Schulwegsicherheit vor der Kita "Kleine Piraten" Folgeantrag zu 14-20/B 03055
+- TOP 5.12.: Vollständige Barrierefreiheit bei der nächsten Bürgerversammlung Trudering-Riem
+- TOP 5.13.: Verbesserung der Buslinie Nr. 194. Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen.
+- TOP 5.14.: Entfernung von Werbeschildern an der Ecke Sperber-/Turnerstraße
+- TOP 5.15.: Informationsveranstaltung der LH München für Betroffene, Eigentümer, Bürgerinnen und Bürger zum aktuellen Sachstand der Planungen und dem Zeithorizont der Umsetzung
+- TOP 5.16.: Ladestation für Elektroautos an Taxiständen in Trudering
+- TOP 5.17.: Grundstück Bajuwarenstraße 136/138
+- TOP 5.18.: Forderung nach Sperrung der Bahn- und Adlerstraße sowie des Drosselwegs für LKW ab 7,5t aufrecht erhalten
+- TOP 5.19.: Zusätzliche Parkplätze und ein Behindertenparkplatz vor der PI 25 in der Messestadt Riem – Parkdauer beschränkt
+- TOP 5.20.: Nachtabschaltung der Ampel an der Wasserburger Landstraße Höhe Horst-Salzmann-/Rothuberweg
+- TOP 5.21.: Grundstückstausch Rappenweg - Bajuwarenstraße: Prüfung, ob Verzicht möglich, wenn kein Schwerlastverkehr möglich gemeinsame Behandlung mit TOP 5.23 und TOP 5.24
+- TOP 5.22.: Hippelstraße - Geschwindigkeitsreduzierung (Einhaltung Tempo 30)
+- TOP 5.23.: Interkommunale Kooperation konkret umsetzen - jetzt die Weichen für eine Entlastung der Bahnstraße durch die Verlängerung des Rappenwegs realisieren Zwischenmitteilung - Bitte um Fristverlängerung gemeinsames Schreiben mit TOP 5.24 gemeinsame Behandlung mit TOP 5.21 und TOP 5.24
+- TOP 5.24.: Wie geht es weiter mit Bahnstraße, Drosselweg und Rappenweg Zwischenmitteilung - Bitte um Fristverlängerung gemeinsames Schreiben mit TOP 5.23 gemeinsame Behandlung mit TOP 5.21 und TOP 5.23
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Straßenfest am 08.10.2017 Platz der Menschenrechte gem. §29 der StVO Termin: 15.09.17
+- TOP 7.1.2.: Stadtbezirksbudget und Bestellung städtischer Leistungen
+- TOP 7.1.3.: Kooperationsplattform "Alfresco"; Anhörungsschreiben zu Technikpauschale und elektronischer Ladung Frist: 28.09.2017
+- TOP 7.1.4.: Riemer Park: MTB Rennen für Kinder und Jugendliche am 22. 10.2017 gemäß Grünanlagensatzung und LStVG; Termin: 04.10.17
+- TOP 7.1.5.: Riem Arcaden Run Riemer Park am 14.10.2017 gem.Art. 19 LStVG und Grünanlagensatzung Termin: 18.09.17
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Gemeinde Putzbrunn; Bebauungsplan Nr. 67 "Östlich und westlich der Föhrenstraße 1 - 12, nördlich der Ottobrunner Straße 1 - 21, nördlich der Äußeren Ottobrunner Straße, südlich und nördlich der Neubiberger Straße 1 - 34, westlich der Tannenstraße 1 - 9b und östlich und westlich der Eichenstraße 1 - 7" Beteiligung der Behörden nach § 4a Abs. 3 BauGB
+- TOP 7.3.2.: Bauleitplanung der Gemeinde Haar Bebauungsplan Nr. 64/7 "Schulzentrum am Jagdfeldring" (7. Änderung des B-Plans Nr. 64 "Am Jagdfeld") Verfahren nach § 4 Abs. 1 BauGB
+- TOP 7.3.3.: Beschlussentwurf Parkraummanagement in München - Fortschreibung Sektor V Sitzungsvorlagen-Nr. 14-20 / V 08574 Frist: 18.09.2017
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Graf-Lehndorff-Straße 36, Gemarkung: Daglfing, Fl.Nr.: 227/21 - Neubau eines Mitarbeiterhauses mit 31 Wohnungen
+- TOP 7.4.2.: Truderinger Straße 306, Fl.Nr.: 296/0 - TEKTUR zu 1.1-2017-8819-32 - Erweiterung eines Hotels ("Hotel Obermaier")
+- TOP 7.4.3.: Halfinger Straße 47, Fl.Nr.: 345/5 - Bebauung Halfinger Straße 47 / Truderinger Straße - VORBESCHEID
+- TOP 7.4.4.: Oslostraße 11, Fl.Nr.: 1408/47 - Erweiterung der Riem Arcaden West - Errichtung eines Mischgebäudes mit Gewerbe-, Gastronomie- und Hotelnutzung auf bestehender Tiefgarage sowie eines Portikus und einer Brücke (Oslostraße 11 / Willy-Brandt-Platz 6) - TEKTUR zu 1.111-201615866-32
+- TOP 7.4.5.: Kirchtruderinger Straße 19, Fl.Nr.: 12/0 - Neubau einer Wohnanlage mit Tiefgarage (65 WE) - TEKTUR zu 1.2-2016-13018-32
+- TOP 7.4.6.: Wasserburger Landstraße 279, Fl.Nr.: 451/2 - Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage
+- TOP 7.4.7.: Kreillerstraße , Fl.Nr.: 357/15 - Neubau eines Geschäftsgebäudes mit Tiefgarage (Anton-Geisenhofer- / Kreiller- / Marianne-Plehn-Straße) - TEKTUR zu 1.2-2016-13147-32
+- TOP 7.4.8.: Stahlgruberring 45, Fl.Nr.: 131/19 - TEKTUR zu 1.1-2017-14494-32 - Neubau eines Boardingshouses
+- TOP 7.4.9.: Tangastraße 26, Fl.Nr.: 491/3 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Graf-Lehndorff-Straße 39 Reginastraße 22 Scheibmeierstraße 3 Scheibmeierstraße 15 Tangastraße 3 Windbauerstraße 2d Zeisigweg 24
+- TOP 8.2.1.: Batschkastraße 24 Dresselstraße 21 Florastraße 64 Gerstäckerstraße 4 Gerstäckerstraße 45 Graf-Lehndorff-Straße 39 - durch UNB genehmigt Groß-Nabas-Straße 10 Grundelstraße 17 Hans-Pfann-Straße 122 Himalajastraße 46 Kathreinweg 1 Kormoranweg 8 Leibengerstraße 9 Ottilienstraße 78 Plumserjochstraße 3 Reginastraße 22 - durch UNB genehmigt Scharerweg 18 Stahlgruberring 45 Tangastraße 3 - laut LBK: Borkenkäferbäume, teilweise schon abgestorben; Ersatz nicht notwendig. Grundstück ausreichend durchgrünt. Truderinger Straße 306 Wasserburger Landstraße 279 Waterbergstraße 9
+- TOP 9.1.: Bericht des REGSAM-Beauftragten zur letzten Sitzung
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Sachberichte
+- TOP 10.1.1.1: Truderinger Kunsttage 2017
+- TOP 10.1.1.2: Bericht von der Festveranstaltung zur 100-Jahrfeier der Bezirksvereinigung Gartenstadt-Trudering e.V.
+- TOP 10.1.1.3: 10. Kurt-Landauer-Fußballturnier am 23. Juli 2017
+- TOP 10.1.1.4: Anschaffung von zwei Bürostühlen durch die Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V.
+- TOP 10.1.1.5: Katholische Pfarrgemeinde "Christi Himmelfahrt", Sommerkonzert vom 16.07.2017
+- TOP 10.1.2.1: Lions Exclusive Club, Ausschank in einem Bordell, Stahlgruberring 40, 81829 München
+- TOP 10.1.2.2: Cavo Paradiso, Betrieb einer Vereinswirtschaft, Rotkehlchenweg 2, 81827 München
+- TOP 10.1.2.3: Buddys Lounge, Schankwirtschaft, Kreillerstraße 160a, 81825 München
+- TOP 10.1.3.: (U) Verordnung der Landeshauptstadt München über den Rennplatz Riem (Riemer Rennplatzverordnung) Verordnung der Landeshauptstadt München über die Versammlungsstätten und Anlagen im Olympiapark (Olympiaparkverordnung)
+- TOP 10.1.4.1: 100-Jahrfeier der Bezirksvereinigung Gartenstadt-Trudering e.V.
+- TOP 10.1.4.2: 10. Kurt-Landauer-Fußballturnier am 23. Juli 2017
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 10.3.2.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/299 und 1408/312 Gemarkung Trudering 15. Stadtbezirk Messestadt Riem, 4. Bauabschnitt, WA 1 und WA 12
+- TOP 10.3.3.: "Aktive Stadt- und Ortsteilzentren im Stadtteil Trudering" Truderinger Straße zwischen Friesenstraße und Schmuckerweg mit Wasserburger Landstraße / Bajuwarenstraße (Plan Nr. 1) Verkehrssichere Fuß- und Radwegführung aus der Gartenstadt Trudering in das Straßtruderinger Ortszentrum BA-Antrag Nr. 14-20 / B 02302
+- TOP 10.3.4.: (U) Bebauungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße / Alexisweg (westlich), Karl-Marx-Ring (östlich), Niederalmstraße (südlich), Stemplingeranger (nördlich) (Teiländerung des Bebauungsplanes Nr. 57g) - Billigungsbeschluss - Stadtbezirk 16 – Ramersdorf-Perlach
+- TOP 10.3.5.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/25 Wasserburger Landstraße (nördlich), Feldbergstraße (westlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 15 Trudering-Riem
+- TOP 10.3.6.: Trinken von Hunden im Riemer Park Bezug zu BA-Antrag 14-20 / B 02849 Riemer Park - Bau eines Hundebrunnen
+- TOP 10.3.7.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/304 (Teilfläche vor Vermessung) jetzt 1408/364-385 Trudering 15. Stadtbezirk Nähe Flughafen-Riem-Straße
+- TOP 10.3.8.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt" 2018 Frist zur Abgabe im Referat für Stadtplanung und Bauordnung: 31.12.2017
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Turnerstraße 31
+- TOP 10.4.1.2: Solalindenstraße 54a
+- TOP 10.4.1.3: Gartenstadtstraße 6
+- TOP 10.4.1.4: Frau-von-Uta-Straße 8
+- TOP 10.4.1.5: Mönchbergstraße 31
+- TOP 10.4.1.6: Huchenstraße 48
+- TOP 10.4.1.7: Ankoglstraße 24 (Fl.Nr. 744/2)
+- TOP 10.4.1.8: Ankoglstraße 24 (Fl.Nr. 744/7)
+- TOP 10.4.1.9: Salzmesserstraße 21
+- TOP 10.4.2.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Flexi-Heim Variante 1 - Am Moosfeld 21 Finanzierung und Vergabe der Trägerschaft an den Katholischen Männerfürsorgeverein (KMFV) Haushaltsjahr 2017 ff. Ausweitung des Mehrjahresinvestitionsprogramms 2016 - 2020 Produkt 60 4.1.4 Vorübergehende Unterbringung und ambulante Hilfen für akut Wohnungslose
+- TOP 10.5.2.: (U) Messestadt Riem Bildungscampus und Sportpark Technologiepark West Errichtung eines 6-zügigen Gymnasiums und einer 5-zügigen Realschule mit Sportpark sowie Räumen für die Münchner Volkshochschule im 15. Stadtbezirk Trudering-Riem 1. Bekanntgabe des Ergebnisses des Realisierungswettbewerbes 2. Beauftragung des 1. Preisträgers
+- TOP 10.5.3.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 10.5.4.: Anliegen aus der Jugendbefragung 2016 Antwort- und Dankschreiben der Koordinierungsstelle für Kinder- und Jugendpartizipation
+- TOP 10.5.5.: (U) Mehr Platz für Jugendliche in Riem Antrag Nr. 14-20 / A 00854 .................... Produkt 60 3.1.1 Kinder- und Jugendarbeit
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Unnützstraße - nachträgliche Unterrichtung über entfernte Gefahrenbäume
