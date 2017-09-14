@@ -1,0 +1,34 @@
+# Entwurf des Doppelhaushaltsplans 2018/2019 für den Bezirk Pankow (einschließlich Vorbericht, Anlagen 1 - 3 und Stellenplan)
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Drucksache/Vorlage: VIII-0194
+- Art: Beschlussempfehlung
+- Datum: 2017-09-14
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=4540
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/papers.asp?id=4540
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=130&id=145572
+- Beratung: Vorberatung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5682 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5642 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=62
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5643 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5419 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5421 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=69
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5718 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=69
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5418 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=70
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5425 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=64
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5416 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=72
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5417 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5427 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5644 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=68
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5423 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=67
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5422 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5647 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5645 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5650 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5432 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5651 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5653 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5669 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5671 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=63
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5447 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=at&id=6
