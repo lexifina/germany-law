@@ -1,0 +1,54 @@
+# 6. öffentliche Sitzung des Verkehrsausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-09-14T17:00:00+02:00
+- Ende: 2017-09-14T19:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4320
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4320
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=256382
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - vertagt
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Verkehrskonzept Heinsestraße II - vertagt
+- TOP 4.2: Beschilderung auf dem U-Bahnhof Paracelsus-Bad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Busspuren - vertagt
+- TOP 4.4: Verkehrssicherheit Bernauer Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Sicherheit am Wilhelmsruher Damm II - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Sicherheit am Wilhelmruher Damm III - vertagt
+- TOP 4.7: Sicherheit am Wilhelmruher Damm IV - vertagt
+- TOP 4.8: Hauptverkehrsstraßen leistungsfähig halten - im Ausschuss abgelehnt
+- TOP 4.9: Parkstreifen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.10: Tempo 30 im Wohngebiet - im Ausschuss abgelehnt
+- TOP 4.11: Ausweitung der Tarifzone B bei der S-Bahn - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.12: Lichtzeichenanlage an der Otisstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.13: S 85 weiter in Reinickendorf fahren lassen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.14: Fußgängerquerung in der Quickborner Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.15: Ausbau der S25 beschleunigen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.16: Verkehrsfluss an der Heiligenseestraße verbessern - mit Änderungen im Ausschuss beschlossen
+- TOP 4.17: Verbindung zum Flughafen BER schaffen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.18: Schulwegsicherung "Am Dachsbau" - 1 - vertagt
+- TOP 4.19: Schulwegsicherung "Am Dachsbau" - 2 - mit Änderungen im Ausschuss beschlossen
+- TOP 4.20: Kein Tempo 30 auf Hauptstraßen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.21: Verlängerung der Buslinie 324 - vertagt
+- TOP 4.22: Fahrradständer in der Gorkistraße - vertagt
+- TOP 4.23: Sicherheit Kreuzung Stolpmünder Weg/Ruppiner Chaussee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.24: 2. Ein-/Ausgang S-Bahnhof Alt-Reinickendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.25: Fahrtrichtungen am Waidmannsluster Damm eindeutig markieren - vertagt
+- TOP 4.26: Planung Fahrradrouten - vertagt
+- TOP 4.27: Fußgänger an der Provinzstraße schützen - Ampelzeiten verlängern - mit Änderungen im Ausschuss beschlossen
+- TOP 4.28: Verkehrsüberwachungssäule Waidmannsluster Damm - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.29: Radverkehr in Reinickendorf- sicher, komfortabel und ideologiefrei II - vertagt
+- TOP 4.30: Radverkehr in Reinickendorf- sicher, komfortabel und ideologierfrei III - vertagt
+- TOP 4.31: Radverkehr in Reinickendorf - sicher, komfortabel und ideologiefrei I - vertagt
+- TOP 4.32: Standort Fahrradparkhaus - vertagt
+- TOP 4.33: Kurzparkzone Tegel-City prüfen - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - gegenstandslos
+- TOP 6: Verschiedenes - erledigt
