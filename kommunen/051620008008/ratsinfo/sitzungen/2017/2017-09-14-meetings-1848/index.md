@@ -1,0 +1,88 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-09-14T18:00:00+02:00
+- Ende: 2017-09-14T20:55:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1848
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1848
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Einwohnerfragestunde gem. § 18 der Geschäftsordnung des Rates der Stadt Grevenbroich
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Wohnraumbedarfsanalyse (Antrag Nr. 213/17) - einstimmig
+- TOP 3.2.2: Radwegenetz Grevenbroich (Antrag Nr. 205/17) - einstimmig
+- TOP 3.2.3: Einbahnstraßenregelung in Wevelinghoven auf der Unterstraße (Antrag Nr. 202/17) - einstimmig
+- TOP 3.2.4: 19. Änderung der Gebührensatzung zur Entwässerungssatzung (Antrag Nr. 200/17) - einstimmig
+- TOP 3.3: UWG/ABG
+- TOP 3.4: FDP
+- TOP 3.4.1: Ausschussumbesetzung (Antrag Nr. 206/17) - einstimmig
+- TOP 3.4.2: Parkplatzsituation (Antrag Nr. 207/17) - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Verbesserung der RB 38 (Antrag Nr. 204/17) - einstimmig
+- TOP 3.5.2: Vorstellung des Betriebsführungskonzeptes für die Erftbahn (Antrag Nr. 215/17) - einstimmig
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.6.1: Schülerhaltestellen-Elterntaxi (Antrag Nr. 208/17) - einstimmig
+- TOP 3.6.2: Masterplan Quartierssozialarbeit (Antrag Nr. 209/17) - einstimmig
+- TOP 3.6.3: Bildung einer Fraktionsgemeinschaft der Partei DIE LINKE und der FBG (Antrag Nr. 210/17) - einstimmig
+- TOP 3.6.4: Ausschuss für Zukunftsentwicklungen (Antrag Nr. 159/17) - mehrheitlich bei
+- TOP 3.6.5: Erhöhung der Gewerbesteuer (Antrag Nr. 160/17) - mehrheitlich bei
+- TOP 3.6.6: Interkommunale Zusammenarbeit Gewerbesteuerprüfer/in (Antrag Nr. 163/17) - Kenntnisnahme
+- TOP 3.6.7: Sicherer Schulweg (Antrag Nr. 201/17) - Kenntnisnahme
+- TOP 3.6.8: Mehreinnahmen durch städtischen Betriebsprüfer/in (Antrag Nr. 161/17) - mehrheitlich bei
+- TOP 3.7: Die Linke/Piraten
+- TOP 3.8: FBG
+- TOP 3.9: Gemeinschaftsanträge
+- TOP 3.9.1: Antrag zum Verkehrskonzept ISEK (Antrag Nr. 203/17) - einstimmig
+- TOP 3.9.2: Gemeinschaftsantrag: Einrichtungsverkehr im Bereich Bahn- und Rheydter Straße (Antrag Nr. 211/17) - einstimmig
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG/ABG
+- TOP 4.4: FDP
+- TOP 4.4.1: Erfahrungen mit der Mängelmelder-App (Anfrage Nr. 199/17) - Kenntnisnahme
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.6.1: Starkregenereignis am 07.06.2016 (Anfrage Nr. 212/17) - Kenntnisnahme
+- TOP 4.7: Die Linke/Piraten
+- TOP 4.8: FBG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 5.1: Genehmigung einer Dringlichkeitsentscheidung - einstimmig
+- TOP 5.2: SpA Orken - einstimmig
+- TOP 6: Mittelbereitstellungen
+- TOP 6.1: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2017 - einstimmig
+- TOP 7: Flüchtlings- und Integrationsangelegenheiten
+- TOP 7.1: "Istkosten" Flüchtlinge - einstimmig
+- TOP 8: Finanzangelegenheiten
+- TOP 8.1: Finanzzwischenbericht 2017 - einstimmig
+- TOP 8.2: Fördermittel - einstimmig
+- TOP 9: Beantwortung Anträge
+- TOP 9.1: Haushaltsentwurf 2018 (Antrag Nr. 97/17) - einstimmig
+- TOP 9.2: 19. Änd. Gebührensatzung (Antrag 200/17) - einstimmig
+- TOP 9.3: Beantwortung von Anträgen und Anfragen - hier: Sammelbeantwortung - einstimmig
+- TOP 10: Beantwortung Anfragen
+- TOP 10.1: Bürgerbeteiligung an Finanzierung von kommunalen Projekten (Anfrage Nr. 88/17) - einstimmig
+- TOP 10.2: Dienstbesprechungen des KiTa-Personals (Anfrage Nr. 100/17) - einstimmig
+- TOP 10.3: Ausführung von Aufträgen an die WGV bis zum 31.12.2017 (Anfrage Nr. 105/17) - einstimmig
+- TOP 10.4: Beantwortung der schriftlichen Anfrage Nr. 164/17 - einstimmig
+- TOP 10.5: Spielplatzbedarfsplanung (Anfrage Nr. 165/17) - einstimmig
+- TOP 11: mündliche Anträge/Anfragen
+- TOP 11.1: Nachfrage zu Anfrage Nr. 130/17
+- TOP 11.2: Doppelbrücke an der Apfelwiese (Anfrage Nr. 216/17)
+- TOP 11.3: Mülltonnensituation nach Entleerung (Anfrage Nr. 217/17)
+- TOP 11.4: Sachstandsbericht Glasfaserausbau (Anfrage Nr. 218/17)
+- TOP 11.5: Mängelhafter Heckenschnitt und angehobene Gehwegplatten Kolpingstraße 100 (Anfrage Nr. 219/17)
+- TOP 11.6: Fusion von Krankenhäusern (Anfrage Nr. 220/17)
+- TOP 11.7: Einbahnstraßenregelung (Anfrage 221/17)
+- TOP 11.8: Sachstand Zille (Anfrage Nr. 222/17)
+- TOP 11.9: Wahlplakate Lindenstraße (Anfrage Nr. 223/17)
+- TOP 11.10: Nachfrage zum Gemeinschaftsantrag der Fraktionen Mein Grevenbroich und UWG/ ABG (Anfrage Nr. 224/17)
+- TOP 11.11: Wahlplakate AfD Bahnhofsquartier (Anfrage Nr. 225/17)
+- TOP 12: Mitteilungen BM
