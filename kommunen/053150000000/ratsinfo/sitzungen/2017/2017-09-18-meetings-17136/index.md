@@ -1,0 +1,101 @@
+# 25. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-18T16:00:00+02:00
+- Ende: 2017-09-18T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17136
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17136
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00627963.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00627963.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00627963.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Vorstellung Verlagerung Hubschrauberlandeplatz Herzzentrum Uniklinik durch medfacilities
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO - Ausweisung einer Spiel- und Liegewiese im Beethovenpark (Köln-Sülz) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Vinzenzallee in Köln-Lövenich - Kenntnis genommen
+- TOP 7.1.2: Parkpalette Weiden-West; hier Anfrage der CDU-Fraktion (AN/0683/2017) aus der Sitzung vom 15.05.2017, TOP 7.2.3 - Kenntnis genommen
+- TOP 7.1.3: Anfrage Friedensschule - zu AN/0358/2017 - Kenntnis genommen
+- TOP 7.1.4: RheinEnergie-Stadion; hier: Ergebnisse der Machbarkeitsstudie sowie Beantwortung von Anfragen aus früheren Sitzungen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Planungsverzögerung des Projekts „Parkstadt Süd“ durch Proteste des Autonomen Zentrums - Kenntnis genommen
+- TOP 7.2.2: Wohnungen über der Gaststätte "Haus Hubertus" - Kenntnis genommen
+- TOP 7.2.3: Wohnbebauung in der Brauweilerstraße 1 in Köln-Lövenich - Kenntnis genommen
+- TOP 7.2.4: Dixie-Klos auf den Wochenmarktplätzen des Stadtbezirks - Kenntnis genommen
+- TOP 7.2.5: Gefährdung von Menschen durch Drohnen insbesondere im Äußeren Grüngürtel - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Sicherung des Fußgängerüberwegs Lindenthalgürtel/Rurstrasse - ungeändert beschlossen
+- TOP 8.1.2: Maarweg Kreisverkehr - ungeändert beschlossen
+- TOP 8.1.3: Aufenthaltsbereiche für Jugendliche im Alter von 13 bis 17 Jahren - ungeändert beschlossen
+- TOP 8.1.4: Ausbesserungsarbeiten an den Parkplätzen am Walter-Binder-Weg im Bereich der Kleingärten - ungeändert beschlossen
+- TOP 8.1.5: Aufstellung von Abfallkörben - ungeändert beschlossen
+- TOP 8.1.6: Weitere Beschilderung an der Straße "Am Keuschhof" - ungeändert beschlossen
+- TOP 8.1.7: Umsetzung von Spielmöglichkeiten auf dem Spielplatz Luxemburger Straße/Nassestraße - ungeändert beschlossen
+- TOP 8.1.8: Beschilderung Tierpark Lindenthal - ungeändert beschlossen
+- TOP 8.1.9: Sanierung Radweg Maarweg - ungeändert beschlossen
+- TOP 8.1.10: Aufstellung der Bänke "City Tree" an der Haltestelle Weiden-Zentrum und Aachener Straße - ungeändert beschlossen
+- TOP 8.1.11: Schaffung einer sicheren Querungsmöglichkeit der Geibelstraße - ungeändert beschlossen
+- TOP 8.1.12: Beschränkung der Geschwindigkeit auf der Kitschburger Straße auf 30 km/h - ungeändert beschlossen
+- TOP 8.1.13: Bau des Buskaps an den Bushaltestellen in Lövenich - ungeändert beschlossen
+- TOP 8.1.14: Erhalt und Stärkung des Bezirksordnungsdienstes - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Lindenthal) ab dem Jahr 2017 ff. - geändert beschlossen
+- TOP -: Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 9.1.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier. Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.3: Neugestaltung des Spielplatzes Dr.-Johannes-Honnef-Straße/Paulipark in Köln-Lövenich - geändert beschlossen
+- TOP 9.1.4: Genehmigung der Dringlichkeitsentscheidung: Beratung des Haushaltsplan-Entwurfes 2018 einschließlich der mittelfristigen Finanzplanung bis 2021 und sonstiger Anlagen - ungeändert beschlossen
+- TOP 9.1.5: Genehmigung der Dringlichkeitsentscheidung: Haushaltsplan-Entwurf 2018 - Aufteilung der bezirksbezogenen Haushaltsmittel gem § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 9.1.6: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Anpassung der Hauptsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.2: Gestaltungshandbuch der Stadt Köln - zurückgestellt
+- TOP 9.2.3: 260. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - zurückgestellt
+- TOP 9.2.5: Radschnellweg Köln-Frechen: Durchführung einer Bürgerinformationsveranstaltung - ungeändert beschlossen
+- TOP 9.2.6: Hermeskeiler Platz in Köln-Sülz; 63429/06; Teilaufhebung; frühzeitige Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2.7: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - geändert beschlossen
+- TOP 9.2.8: Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse - geändert beschlossen
+- TOP -: Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP 9.2.9: Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld; VEP: Einleitungsbeschluss - zurückgestellt
+- TOP -: Ergänzungsantrag der Fraktion Bündnis 90/Die Grünen - zurückgestellt
+- TOP 9.2.10: Schulrechtliche Errichtung der Gesamtschule Wasseramselweg – Start der Schule bis zum Umzug in den Neubau am benachbarten Interimsstandort Wasseramselweg in anzumietenden Räumlichkeiten zum Schuljahr 2018/19 - geändert beschlossen
+- TOP -: Ergänzungsantrag der CDU-Fraktion, Fraktion Bündnis 90/Die Grünen, SPD-Fraktion, Lothar Müller /Die Linke, Wolfram Rother / FDP und Rolf Kremers / FWK - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Lindenthal aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.01.2017 - Kenntnis genommen
+- TOP 11.1.2: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.1.3: Sachstandsbericht 2016 der Bezirksvertretung Lindenthal - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Fahrradparken an der Liebfrauenschule Ecke Brucknerstraße/Danteweg in Köln-Lindenthal - Kenntnis genommen
+- TOP 11.2.2: Reinigung Friedrich-Engels-Straße in Köln - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 11.3.2: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 11.3.3: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 11.3.4: Wiederherstellung der Nebenanlagen Sülzgürtel nach Hochbau - ehemalige Kinderheime Köln-Sülz 2.Bauabschnitt - Kenntnis genommen
+- TOP 11.3.5: Sanierung der Wegeverbindung Egelspfad in Köln-Müngersdorf - Kenntnis genommen
+- TOP 11.3.6: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 11.3.7: Jugendeinrichtung Weiden - Kenntnis genommen
+- TOP 11.3.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3.9: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 11.3.10: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 11.3.11: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
