@@ -1,0 +1,60 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-09-18T17:00:00+02:00
+- Ende: 2017-09-18T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZepi4w03p7BV93_qBMkfY9Q
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4806
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRK6Au1Wo82te0iIoBL2gGL0MTmLD-kXaRrPkGy5W2tC/Oeffentliche_Niederschrift_Beteiligungsausschuss_18.09.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Soziale Stadt - Nordstadt
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 24. Sitzung des Beteiligungsausschusses am 26.06.2017
+- TOP 4: Protokoll über die Fortsetzung der 24. Sitzung des Beteiligungsausschusses am 06.07.2017
+- TOP 5: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6: Jahresabschluss 2016 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 7: Jahresabschluss 2016 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 8: Jahresabschluss 2016 des Eigenbetriebs Wasserversorgung Solingen (EBW)
+- TOP 9: Jahresabschluss 2016 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 10: Verschiedenes
+- TOP 11: Mögliche Erhöhung der Krankenhausumlage
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 24. Sitzung des Beteiligungsausschusses am 26.06.2017
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 5: Jahresabschluss 2016 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 6: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2017
+- TOP 7: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Bestellung und Abberufung von Geschäftsführern
+- TOP 8: Altenzentren der Stadt Solingen gemeinnützige GmbH - Bestellung Wirtschaftsprüfer
+- TOP 9: Wirtschaftliche Situation der „Städtisches Klinikum Solingen gemeinnützige GmbH - Finanzstatus
+- TOP 10: Städtisches Klinikum Solingen gemeinnützige GmbH - Erfüllung HSP-Maßnahme 238
+- TOP 11: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2017 der IGOS
+- TOP 12: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2017 der GuT
+- TOP 13: Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2017 der WiFö Verwaltungs GmbH
+- TOP 14: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Abberufung eines Geschäftsführers
+- TOP 15: Ersatzneubau Hallenbad Vogelsang
+- TOP 16: Wirtschaftsplan 2017/18 der EDL Solingen GmbH (EDL)
+- TOP 17: EDL Solingen GmbH (EDL) - Bestellung eines Abschlussprüfers für den Jahresabschluss 2016/17
+- TOP 18: EDL Solingen GmbH (EDL) - Vorschlag der Geschäftsführung zur Einigung mit KPlus
+- TOP 19: EDL Solingen GmbH - Abberufung und Bestellung eines Geschäftsführers
+- TOP 20: Energie für Solingen Verwaltungs GmbH - Abberufung und Bestellung eines Geschäftsführers
+- TOP 21: Wirtschaftsplan 2017/18 der itec solingen gmbh
+- TOP 22: Wirtschaftsplan 2017/18 der SWS Netze Solingen GmbH
+- TOP 23: Wirtschaftspläne 2017/18 der Stadtwerke Solingen GmbH (SW SG)
+- TOP 24: Stadtwerke Solingen GmbH (SW SG) - Zustimmung zu der Aufnahme der Stadtwerke Emmerich GmbH als Kommanditistin in die smartOPTIMO GmbH & Co. KG
+- TOP 25: Stadtwerke Solingen GmbH (SW SG) Definition Zielgröße Frauenanteil im Aufsichtsrat und Geschäftsführung
+- TOP 26: Stadtwerke Solingen GmbH (SW SG) - Vorstellung der gutachterlichen Stellungnahme der Luther Rechtsanwaltsgesellschaft mbH zur Notwendigkeit einer Satzungsänderung betreffend die Zusammensetzung des Aufsichtsrates der SW SG GmbH
+- TOP 27: Stadtwerke Solingen GmbH (SW SG) - Änderung des Gesellschaftsvertrages
+- TOP 28: Wirtschaftsplan 2018 der Beteiligungsgesellschaft Stadt Solingen mbH - Einbringung -
+- TOP 29: Beteiligungsgesellschaft Stadt Solingen mbH (BSG): Langfristige finanzielle Entwicklung der Gesellschaft - Einbringung -
+- TOP 30: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Bestellung eines Prokuristen
+- TOP 31: Verschiedenes
+- TOP 32: Befangenheitserklärung gemäß § 31 Gemeindeordnung NRW
