@@ -1,0 +1,59 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-18T17:00:00+02:00
+- Ende: 2017-09-18T18:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16907
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16907
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Verlängerung der Maßnahmen des Frauenförderplans 2015 - 2017 - ungeändert beschlossen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Nachfrage von MdR Hegenbarth zur Beantwortung 0226/2017 der Anfrage AN/1393/2016 betreffend "Werden die Standards für die Auswahl des Sicherheitspersonals kontrolliert?" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 4.2: Mitteilung betreffend "Beantwortung einer Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen zur Sitzung des WirtUmsetzung der Marktsatzung und der Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - Kenntnis genommen
+- TOP 4.3: Luftreinhaltung - Sachstand zum Runden Tisch - Kenntnis genommen
+- TOP 4.4: Ergebnis eines Penetrationstest im Vorfeld der Bundestagswahl 2017 - Kenntnis genommen
+- TOP 4.5: Fahrradstreife beim Ordnungs- und Verkehrsdienst, TOP 5.1.11 - AN/1763/2016 - Kenntnis genommen
+- TOP 4.6: Yitzhak-Rabin-Platz, Sachstand zur Realisierung des Wettbewerbs zur Aufwertung eines innerstädtischen Freiraums - Kenntnis genommen
+- TOP 4.7: Livestream - zurückgestellt
+- TOP 4.8: Sachstand Ausgleichszahlung BAB 3 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Gruppe Piraten betreffend "Städtische Videoüberwachung 2015 und 2016" zur Sitzung am 25.04.2016 - zurückgestellt
+- TOP 6.2: Anfrage der Gruppe Piraten betreffend "Reichsbürgerinnen und -bürger in Köln – Kontrolle von waffenrechtlichen Erlaubnissen" zur Sitzung am 03.07.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 15.09.2017 - Kenntnis genommen
+- TOP 6.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Sag´s uns-App der Stadt Köln" zur Sitzung am 03.07.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 21.08.2017 - Kenntnis genommen
+- TOP 6.4: Anfrage der Fraktion DieLinke betreffend "Sexistische Werbung auf städtischen Plakatflächen" zur Sitzung am 18.09.2017 - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 18.09.2017 - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion DieLinke betreffend "Interkulturelle Kompetenz der Stadtverwaltung" zur Sitzung am 18.09.2017 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Gruppe Piraten betreffend "Köln wird korporatives Mitglied bei Transparency International" - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung vom 26.06.2017 - Kenntnis genommen
+- TOP 8.2: Antrag der Gruppe Piraten betreffend "So viel Transparenz wie möglich – Schutz von Daten und Betriebsgeheimnissen verbessern" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: 4-Jahres-Rahmenvertrag zur Beschaffung von Feuerwehrschläuchen - ungeändert beschlossen
+- TOP 10.2: Ausschreibung Rahmenvertrag Catering mit Service im Rathaus - ungeändert beschlossen
+- TOP 10.3: 5. Fortführung von "Win-Win für Köln" - ein kombiniertes Programm der Arbeitsmarkt-, Sozial- und Bildungspolitik zur Wertverbesserung städtischer Gebäude - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Umsetzung Einzelhandels- und Zentrenkonzept (EHZK) Hier: Entfristung der Koordinationsstelle für Geschäftszentrenentwicklung und Initiativenmanagement im Amt für Stadtentwicklung und Statistik - ungeändert beschlossen
+- TOP 10.5: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Änderung der Entgelt- und Benutzungsordnung für das Rheinische Bildarchiv - ungeändert beschlossen
+- TOP 10.7: Änderung der Richtlinie für Dienstreisen der Bürgermeister, der Ratsausschüsse und einzelner Ratsmitglieder - ungeändert beschlossen
+- TOP 10.8: Einführung bzw. Ausbau des Berufsbildes „Notfallsanitäter und Notfallsanitäterin“ in der Feuerwehr und im Rettungsdienst Köln - ungeändert beschlossen
+- TOP 10.9: Beschluss einer Satzung nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) für das Gebiet der Immobilien- und Standortgemeinschaft Severinstraße - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Schulrechtliche Errichtung der Gesamtschule Wasseramselweg – Start der Schule bis zum Umzug in den Neubau am benachbarten Interimsstandort Wasseramselweg in anzumietenden Räumlichkeiten zum Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 10.11: Überplanmäßige Mehrauszahlung im Teilfinanzplan 0209 – Ausländerangelegenheiten, Haushaltsjahr 2017 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 11.1: Externe juristische Sachverständigentätigkeit / Grunderneuerung Mülheimer Brücke - ungeändert beschlossen
+- TOP 11.2: Erweiterung der Reinigungsleistung im Domumfeld durch die AWB - ungeändert beschlossen
