@@ -1,0 +1,91 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2017-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262350
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262350
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Einwohnerversammlung für Senioren am 13.10.2017
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Offener UA am 25.07.2017: Präsentation Machbarkeitsstudie "Kultursaal Moosach"
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Erstellung einer Parkzone nur für Anlieger bzw. Parken nur für PKW in den Parkbuchten Oskar-Barnack-Straße / Dessauerstraße
+- TOP 2.2.: Umwandlung des eingeschränkten Haltverbots in der Dachauer Straße stadtauswärts kurz vor der Unterführung in Kurzzeitparken
+- TOP 2.3.: Erhalt des Schulbusses von der Grundschule an der Haldenbergstraße zum Regionalhort Am Hartmannshofer Bächl
+- TOP 2.4.: Änderung des Verkehrsabflusses aus dem Parkplatz "Parkharfe" des Olympiaparks
+- TOP 2.5.: Anordnen von "Parkplätzen mit zeitlicher Beschränkung" im Parkbereich vor dem Westfriedhof (Nordseite Baldurstraße)
+- TOP 2.6.: Erhalt der Kleingärten an der Feldbahnstraße Moosach
+- TOP 2.7.: Parkplatzsituation Naumburger Straße
+- TOP 3.2.1.: Sachstand Parksituation Borstei
+- TOP 3.2.2.: Änderung Linienverlauf Metrobus 51 (-> WV aus Sitzung am 24.07.2017)
+- TOP 3.2.3.: Linienführung der Buslinie 51; Anpassung des Linienweges?- Schreiben der MVG
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Hanauer Str. 91 2. Netzerstr. 47 3. Hanauer Str. 69 4. Sickingerstr. 23
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Cerebotanistr. 27 2. Hanauer Str. 69 -> BV siehe 3.3.1.3 3. Görlitzer Str. 33 4. Sickingerstr. 23 -> BV siehe 3.3.1.4
+- TOP 4.: Anträge
+- TOP 4.1.1.: Lärmschutz Olympia-Pressestadt
+- TOP 4.1.2.: Markierung/Beschilderung des Geh- und Radweges an der "Meile Moosach" am südwestlichen Ende zur Georg-Mooseder-Straße
+- TOP 4.2.1.: Zustand Wege Alter Teil Westfriedhof
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Fachstelle Demokratische Jugendbildung Demokratiemobil vom 01.09.2017 - 24.09.2017
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule Amphionpark Einsatz einer Abiturientin für 20 Stunden im Schwimm- und Sportunterricht
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Initiative "blattgold-literatur" 1. Moosacher Kultur Nacht am 29.09.2017
+- TOP 5.4.: (E) Budget der Bezirksausschüsse Regsam e.V. Seniorentag Moosach am 06.10.2017
+- TOP 5.5.: (E) Budget der Bezirksausschüsse Arbeitsgruppe Buhlstraße e.V. Geschichtsprojekt von Oktober 2017 - April 2018 2.000,00 Euro
+- TOP 5.6.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 5.7.: (E) Budget der Bezirksausschüsse Autorinnenvereinigung e.V. Jahrestagung am 24. und 26.11.2017 2.274,00 Euro
+- TOP 5.8.: Entscheidung gemäß OB-Vollmacht: Projektplanung; Zweirichtungsradweg Dachauer Straße zwischen Franz-Fihl-Str. und Hugo-Troendle-Straße
+- TOP 5.9.: Entscheidung gemäß OB-Vollmacht: Sondernutzungserlaubnis; Maronenverkaufsstand Hanauer Str. 68 - Eingang OEZ West
+- TOP 6.1.: Parkraummanagement in München – Fortschreibung Sektor V - Beschlussentwurf -
+- TOP 6.2.: Technikpauschale und elektronische Ladung
+- TOP 6.3.: Standortkonzept für die Bürgerbüros der LHM Anhörungsfrist: 01.09.2017
+- TOP 6.4.: Austausch von Lichtsignalanlagen: Bingener- /Feldmochinger Straße
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Dillinger Straße ggü. Pfeilschifterstraße Anordnung eines absoluten Haltverbots (Z 283 StVO)
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Bingener Straße Stichstraße Anordnung eines absoluten Haltverbots (Z 283 StVO)
+- TOP 6.7.: Baumfällungen (Baumschutz): 1. Brieger Str. 1-13 2. Feldmochinger Str. 39 3. Pirschstr. 17 4. Haldenbergerstr. 28 5. Hirschstr. 19 6. Wichertstr. 3
+- TOP 7.1.: Einrichtung einer Mobilitätsstation in Moosach [BA-Antrag vom 19.11.2015; Gesamtkonzeption für Mobilitätsstationen ist in Erarbeitung; in Moosach sind bereits 3 Elektroladesäulen in Betrieb]
+- TOP 7.2.: Öffentliche Ladeinfrastruktur für Elektrofahrzeuge- Ladestationen für E-Bikes am Memminger Platz [Zwischennachricht zu BA-Antrag Nr. 14-20/B 01967; der Antrag wird im Quartal I/2018 im Umweltausschuss behandelt]
+- TOP 7.3.: Tempo 50 auf der Dachauer Straße [Zwischennachricht zu BA-Antrag Nr. 14-20/ B00911; Gesamtbetrachtung aller städt. Straßen mit unterschiedlichen Geschwindigkeitsanordnungen ist notwendig]
+- TOP 7.4.: Haltverbot im Rahmen von Bauvorhaben [baustellenbedingte Verlegung von Behindertenparkplätze werden im jeweiligen Einzelfall geprüft und praktiziert)
+- TOP 7.5.: Verkehrsrechtliche Anordnung zu absolutem Haltverbot Hugo-Troendle-Straße [Antwort zu BA-Schreiben vom 27.06.2017; dem Wunsch des BA nach markierung statt Haltverbot kann nicht entsprochen werden]
+- TOP 7.6.: Errichtung signalgesteuerter Fußgängerüberweg über Allacher Straße im Rahmen der Projektplanung für deie Melitta-Bentz-Straße [Realisierung der Forderung des BA gemäß Vorschlag KVR (Variante 2)]
+- TOP 7.7.: Errichtung eines Spielplatzes MS Leipziger Straße im Rahmen des Förderprogrammes "Soziale Stadt" [für Planungen der Errichtung eines Spielplatzes für ältere Kinder wird Einverständnis des RBS benötigt; Bitte um Fristverlängerung]
+- TOP 7.8.: Abfallkörbe rund um die Grünanlage Dillingerstraße [Leerungsintervalle sind ausreichend].
+- TOP 7.9.: Entfernung zweier Radständerbügel im Fußgängerbereich vor Anwesen Bunzlauer Str. 11 [Den Vorschlägen des BA 10 im Schreiben vom 26.07.2017 wird entsprochen]
+- TOP 7.10.: Zukünftige Nutzungsmöglichkeiten und -notwendigkeiten des Freiflächenareals im Geviert von Baldur-, Homerstraße und Dantebad, Dantestadion [Flächen stehen für sportliche Nutzung von Schulen und Vereinen zur Verfügung. Eine Ausgliederung von Teilflächen zugunsten einer Freizeitfläche für Kinder ist nicht möglich].
+- TOP 7.11.: Abbruch und Neubau der Gebäude Baubergerstr. 11-17 und Gubestr. 27-37 [Vorschläde der Mietergruppe wurden geprüft, können aber nicht umgesetzt werden].
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Parkplatz auf der Insel zwischen Baldurstraße und Westfriedhof Kurzparkzonen (Z 314 StVO) und absolutes Haltverbot (Z 283 StVO) entlang der Ostfahrbahn
+- TOP 8.3.: Arbeiten im Straßenraum; Verlegung einer Gashochdruckleitung: Menzinger Str. 26 bis Wintrichring; Wintrichring 103-105; Wintrichring Ecke Menzinger Str. bis Volpinistr.; Wintrichring 85
+- TOP 8.4.: Tabelle Grundwasserstandsmessungen
+- TOP 8.5.: Broschüren "Wohnen in München IV"
+- TOP 8.6.: Verbundbericht 2016 - Neuer Fahrgastrekord im MVV
+- TOP 8.7.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Hier: Eisenbahnüberführung Dachauer Straße im 10. Stadtbezirk Moosach Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Dachauer Straße durch die DB AG
+- TOP 8.8.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 8.9.: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen; Leistung eines Baukostenzuschusses für Kita Nederlinger Str. 78
+- TOP 8.10.: (U) Verkehrskonzept Münchner Norden Teil Mobilitätsmanagement
+- TOP 8.11.: (U) Evaluierung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München ( Sondernutzungsrichtlinien – SoNuRL)
+- TOP 8.12.: (U) Verzicht auf neue Autotunnel an der Landshuter Allee, Tegernseer Landstraße und Schleißheimer Straße Antrag Nr. 14-20 / A 02944 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 10.03.2017
+- TOP 8.13.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 8.14.: Mobilfunk; Erweiterung einer Mobilfunksendeanlage - nicht-öffentlich -
+- TOP 8.15.: Mitteilung über ein Grundstücksgeschäft; Tausch von Flächen - nicht-öffentlich -
+- TOP 8.16.: WEB - alle Anträge vom 01.07. bis 31.07.2017 - nicht-öffentlich -
+- TOP 8.17.: Zweckentfremdung von Wohnraum durch Abbruch: 1. Bielefelder Str. 2. Sickinger Str. 3. Weidmannstr. - nicht-öffentlich -
