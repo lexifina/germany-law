@@ -1,0 +1,68 @@
+# öffentliche/ nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-09-19T16:04:00+02:00
+- Ende: 2017-09-19T17:42:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12842
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12842
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00210199.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00211892.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2016 KIJU - Entgegennahme ohne Beschluss
+- TOP 1.2.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2016 der APH Service GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2016 der Stadtparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Verwaltungsrates der Stadtsparkasse für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.5: Abgesetzt. Jahresabschluss 2016 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 1.5.1: Abgesetzt. Entlastung des Aufsichtsrats der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH für das Geschäftsjahr 2016
+- TOP 1.6: Jahresabschluss 2016 der Regionale Bahngesellschaft Kaarst-Neuss-Düsseldorf-Erkrath-Mettmann-Wuppertal mbH (Regio-Bahn) - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2016 Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2018 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Konsolidierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (GWG) - ungeändert beschlossen
+- TOP 3.2: Beteiligung der WSW Wuppertaler Stadtwerke GmbH an der Komplementärgesellschaft Windpark-Kahlenberg II GmbH - ungeändert beschlossen
+- TOP 3.3: Änderung des Gesellschaftsvertrages der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3.4: Änderung des Gesellschaftsvertrages der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.5: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2017 der APH Service GmbH - ungeändert beschlossen
+- TOP 3.6: Vorzeitige Optionsausübung zur Beendigung der US-Leasing Transaktion für das Müllheizkraftwerk der AWG in Wuppertal - ungeändert beschlossen
+- TOP 3.7: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen für die Zeit vom 01.01.2017 bis 31.12.2017 - ungeändert beschlossen
+- TOP 3.8: Anpassung der Mietverträge Wuppertaler Hof - ungeändert beschlossen
+- TOP 3.9: Vertretung des Gesellschafters Stadt Wuppertal in Haupt- bzw. Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Finco-Berichte zum 30.06., 31.07. und 31.08.2017 - Entgegennahme ohne Beschluss
+- TOP 5.2: Stand der Schulden und Kassenkredite zum 30.06.2017 - Entgegennahme ohne Beschluss
+- TOP 5.3: Pina Bausch Zentrum - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 5.4: Strategische Raum- und Gebäudeplanung - Entgegennahme ohne Beschluss
+- TOP 5.5: Releasewechsel bei SAP - Entgegennahme ohne Beschluss
+- TOP 5.6: Bericht zum Stand der Bürgerbeteiligung zur Haushaltsplanung 2018/2019 im Rahmen des EU-Projektes EMPATIA - Entgegennahme ohne Beschluss
+- TOP 5.7: Sanierungsgebiet Innenstadt Barmen – Oberirdische Querung der B7 zum Engelshaus - Entgegennahme ohne Beschluss
+- TOP 5.8: Verkauf der Sportplatzfläche Nevigeser Straße - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Überplanmäßige Bereitstellung von Sachmitteln für die Straßenerhaltung - ungeändert beschlossen
+- TOP 6.2: Außerplanmäßige Bereitstellung von Mitteln für erforderliche Software-Erweiterungen des ATOSS-Verfahrens (Zeitwirtschaft) - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Zusätzlicher Investitionsbedarf in zentrale IT-Infrastruktur und die IT-Sicherheit - ungeändert beschlossen
+- TOP 7.2: Ersatzbeschaffung eines Forstspezialschleppers - ungeändert beschlossen
+- TOP 7.3: Zielnetzplan (Masterplan) und Förderanträge für flächendeckenden Breitbandausbau - ungeändert beschlossen
+- TOP 7.4: Durchführung von Baumaßnahmen für die Betriebshöfe Giebel 46 und Oberbergische Straße 70a - ungeändert beschlossen
+- TOP 7.5: Fortsetzung der Arbeiten an der Bembergbrücke - ungeändert beschlossen
+- TOP 7.6: Zustandserfassung für die Verkehrsflächen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.7: Annahme der Schenkung der Anlage ARALANDIA vom Zoo-Verein Wuppertal e.V. - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das II. Quartal 2017 - Entgegennahme ohne Beschluss
+- TOP 10: Wasserversorgungskonzept der Stadt Wuppertal (WVK) - vertagen
+- TOP 11: Berichte und Mitteilungen
