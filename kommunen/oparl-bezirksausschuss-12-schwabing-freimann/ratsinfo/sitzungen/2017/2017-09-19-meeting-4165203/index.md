@@ -1,0 +1,128 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4165203
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4165203
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Baumfällungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.1.: Präsentation zur konzeptionellen Verkehrsplanung für Maßnahmen zur Leistungssteigerung des Verkehrsnetzes im Bereich der Lilienthalallee, TOP C.3.2.2-07/17
+- TOP A: Allgemeines
+- TOP 9.1.: Anhörungsschreiben zu Technikpauschale und elektronischer Ladung
+- TOP B.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Visualisierung der geplanten Tram durch den Englischen Garten
+- TOP 1.2.: Leistungsvergleich Tram/Bus
+- TOP 1.3.: Sanierung des Fuß- und Radwegs an der Berliner Straße (Initiative: Horst Engler-Hamm)
+- TOP 1.4.: Fahrradabstellplatz an der Ecke Occamstraße / Wedekindplatz
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Entscheidung über die Projektplanung Freisinger Landstraße, B-Plan 2031b, Geh- und Radweg
+- TOP 2.2.: (E) Halteverbotsregelung in der Oskar-Schlemmer-Straße
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Hotelanfahrt Hohenzollernstraße 5
+- TOP 3.1.2.: Ladezone Feilitzschstraße 4-6
+- TOP 3.1.3.: Haltverbote Sondermeierstraße
+- TOP 3.2.1.: Anhörung zum Beschlussentwurf Parkraummanagement in München – Fortschreibung Sektor V, Sitzungsvorlagennummer 14-20 / V 08574
+- TOP 3.2.2.: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat – Turnusmäßige Beschlussvorlage und Bekanntgabe
+- TOP 3.2.3.: Luftverkehrliches Genehmigungsverfahren gemäß § 6 LuftVG zur Anlage und zum Betrieb eines Hubschraubersonderlandeplatzes auf dem Dach des Klinikums München- Schwabing
+- TOP 4.1.: Trambahn durch den Englischen Garten
+- TOP 4.2.: Radverkehr am Busbahnhof der Münchner Freiheit
+- TOP 4.3.: Zu wenige Wertstoffinseln in der Parkstadt Schwabing
+- TOP 4.4.: Verkehrssituation Hörwarthstraße, Kreisverkehr Kißkaltplatz
+- TOP 4.5.: Verkehrsberuhigung Parkstadt Schwabing – Marianne-Brandt-Straße
+- TOP 4.6.: Verkehrsberuhigung Occamstraße, Weiterführung des Bürgeranliegens vom 30.06.2015
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Verkehrsführung Dietlindenstraße/Biedersteiner Straße, Antwort des Referats auf eine Stellungnahme des Antragstellers, Bürgerversammlungsempfehlung 14-20 / E 01084
+- TOP 5.1.2.: Unzulässige Lagerung von Schrott und Müll auf einem Grundstück, Antwortschreiben des Referats auf das BA-Schreiben D.4.2-11/15
+- TOP 5.1.3.: Bewohnerinnen und Bewohner der Parkstadt Schwabing vom Bauverkehr entlasten. Provisorische Sperre an der Lyonel-Feininger-Straße/Marianne-Brandt-Straße sofort errichten – Nördlichen Stöpsel temporär entfernen
+- TOP 5.1.4.: Verkehrssituation Theodor-Dombart-Straße / Schwabing Nord, Referatsschreiben zu TOP C.4.3-07/17
+- TOP 5.1.5.: Durchgang an der Haltestelle Giselastraße, Antwortschreiben des Referats auf das Bürgeranliegen C.4.5-07/17
+- TOP 5.1.6.: Verkehrssituation Theodor-Dombart-Straße / Schwabing Nord, Antwortschreiben auf das Bürgeranliegen C.4.4-07/17
+- TOP 5.1.7.: Fahrradstation der MVG Rad an der südlichen Seite der Kreuzung Franz-Josef-Straße / Leopoldstraße
+- TOP 5.1.8.: Einrichtung eines flächendeckendes Netzes für Stromtankstellen in Bereichen des Geschosswohnbaus
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Änderung bzw. Ergänzung der verkehrsaufsichtlichen Erlaubnis vom 24.07.2015, Hohenzollernstraße 5
+- TOP 5.2.2.: Arbeiten im Straßenraum, Rümannstraße und Isoldenstraße; Bau von Fahrbahn und Gehwegen; Ausbau der Bushaltestellen Klopstockstraße
+- TOP 5.2.3.: Marcel-Breuer-Straße/Wilhelm-Wagenfeld-Straße: Einrichtung eines Verkehrshelferüberganges
+- TOP 5.2.4.: Arbeiten im Straßenraum, Ungererstraße/Föhringer Ring, Kreuzungssanierung, Restarbeiten Geh- und Radwegbereich
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.2.: Stromprojekt Joseph-Dollinger-Bogen, Info-Flyer
+- TOP 5.3.3.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 5.3.4.: (U) Sachstand zur Verbindungsstraße mit Bahnübergang zwischen Maria-Probst-Straße und Lilienthalallee im 12. Stadtbezirk Schwabing - Freimann Ein Bahnskandal erster Güte!? Stadtrat umgehend über Planungsstand der Verbindungsstraße zwischen dem Frankfurter Ring und dem Euroindustriepark in Freimann informieren! Antrag Nr. 14-20 / A 03081 von Herrn Stadtrat Quaas, Herrn Stadtrat Johann Sauerer und Frau Stadträtin Dorothea Wiepcke vom 05.05.2017
+- TOP 5.3.5.: Surfbare Flusswellen im Stadtgebiet, Sitzungsvorlagennummer 14-20 / V 09543
+- TOP C.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Übergangslösung für die Sparkassenzweigstelle am Bonner Platz
+- TOP 1.2.: Aufzug Seidlvilla
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellung von öffentlichen Klavieren vom 31.08.2017 - 17.09.2017
+- TOP 2.2.: Budget der Bezirksausschüsse Diakonie - Jugendhilfe Oberbayern, Jugendsozialarbeit Klassenfahrt vom 09. - 11.10.2017 1.751,25 Euro
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Metropoltheater gGmbH Bühnenbild für die Produktion "Alice" v. Ende September bis November 2017 3.000,00 €
+- TOP 3.: Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Spielplatz Münchner Freiheit, Spielplatzkonzept
+- TOP 4.2.: Ein Positionspapier mit der Forderung nach einer angemessenen Förderung des Tamstheaters
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Anbringen eines Briefkasten an der Ungererstraße, Antwort auf das Bürgeranliegen D.4.1-07/17
+- TOP 5.1.2.: Kulturelle Zwischennutzung des ehemaligen Standortes für Gartenbau in der Parkstadt Schwabing
+- TOP 5.1.3.: Kulturelle Nutzung der Fläche in der Lindberghstraße durch den Wannda e.V.
+- TOP 5.2.1.: Clemensstraße 7
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Anforderungsprofil für die reservierte Flächennutzung in der Bayernkaserne zu einer späteren öffentlichen Ausschreibung - Teilfläche 12. Stadtbezirk Schwabing-Freimann Neue Standards für Pflegeheime und deren Auswirkungen auf die Versorgungssicherheit in München - Zwischenbericht
+- TOP 5.3.2.: 7 Verwendungsnachweise über die vom Bezirksausschuss genehmigten Zuschüsse aus dem BA-Budget
+- TOP 5.3.3.: Kurzbericht Kunst im Karrée 2017
+- TOP 5.3.4.: Temporäre Kunst im öffentlichen Raum, Ergänzung zum Kunstprojekt „Couch Projekt“ vom 08.09. - 11-09-2017
+- TOP 5.3.5.: (U) Soziale Infrastruktur für das Neubaugebiet Parkstadt Schwabing; Stadtbezirk 12 Teileigentumserwerb / Anmietung von Räumen für ein Familienzentrum (§16 SGB VIII) mit Kindertreff (§11 SGB VIII) Bebauungsplan-Nr. 1781 Produkt 60 3.2.1 Familienangebote 1. Zustimmung zur Planung 2. Genehmigung des Raum- und Funktionsprogramms 3. Ermächtigung zum Betrieb der Einrichtung 4. Ermächtigung des Kommunalreferates zu Verhandlungen für den Teileigentumserwerb bzw. zur Anmietung 5. Ausweitung des Mehrjahresinvestitionsprogramms 2016-2020
+- TOP 5.3.6.: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen, Leistung eines Baukostenzuschusses für das Haus für Kinder an der Floriansmühlstr. 60, Sitzungsvorlagennummer 14-20 / V 09533
+- TOP D.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Kleinhaus (um 1800) an der Werneckstraße 10
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Leopoldstraße, Neubau eines Bürogebäudes mit Tiefgarage (Leopold-/Otl-Aicher-Straße)
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Anhörung bei Gestaltung von U-Bahnhöfen, Errichtung neuer Werbeanlagen oder wesentliche Umgestaltung bestehender Werbeanlagen in U-Bahnhöfen unter Berücksichtigung der vom Stadtrat beschlossenen Grundkonzeption für die U-Bahn-Linie
+- TOP 3.2.2.: Aufstellungsbeschluss zum Bebauungsplan mit Grünordnung Nr. xxx, Königinstraße (östlich), Veterinärstraße (nördlich), Englischer Garten (westlich) – Entwicklungscampus Königinstraße – Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwigs-Maximilians-Universität
+- TOP 3.2.3.: Am Blütenring 72a, Neubau eines Einfamilienhauses mit Tiefgarage
+- TOP 3.2.4.: Leopoldstraße 49, Neubau eines Studentenwohnheims (9WE) mit Ladenfläche
+- TOP 3.2.5.: Kaulbachstraße 87, Dachgeschossausbau
+- TOP 3.2.6.: Wallnerstraße 8, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.2.7.: Osterwaldstraße 10, Neubau eines Gewerbe- und Bürogebäudes mit Tiefgarage (Haus H)
+- TOP 3.2.8.: Klementinenstraße 9, Neubau eines Einfamilienhauses mit Tiefgarage
+- TOP 3.2.9.: Bauleitplanung der Stadt Garching, B-Plan Nr. 172 „Misch- und Wohngebiet Keltenweg/Hardtweg“
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Schutz der Eibe auf dem Gelände Hirschauer Str. 6, BA-Antrags-Nr.: 14-20 / B 03824 vom 18.07.2017
+- TOP 5.1.2.: Verlassenes Gebäude des Baureferates, Hauptabteilung Gartenbau, in der Parkstadt Schwabing
+- TOP 5.2.1.: Wohlfartstraße 17, eine Edelfichte
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Schulbauoffensive 2013-2030
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
