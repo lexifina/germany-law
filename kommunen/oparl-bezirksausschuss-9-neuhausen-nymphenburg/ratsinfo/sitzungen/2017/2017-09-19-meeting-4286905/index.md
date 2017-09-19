@@ -1,0 +1,145 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4286905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4286905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.5.2.: Beschlussvorlage zur Wotanstraße 88
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Logistikstraße Zweite Stammstrecke
+- TOP 3.2.2.: Radverkehr unter der Donnersbergerbrücke
+- TOP 3.2.3.: Situation unter der Donnersbergerbrücke
+- TOP 3.2.4.: Radverkehr Schlosspark / Nymphenburg Süd
+- TOP 3.2.5.: Ampelschaltung Winthirstraße / Wendl-Dietrich-Straße
+- TOP 3.2.6.: 1) Abschaffung der Fahrradspur in der Nibelungenstraße 2) Radwegbeschilderung im Stadtbezirk
+- TOP 3.2.7.: Künftige Verkehrsführung Romanplatz
+- TOP 3.2.8.: Entfernung des Kopfsteinpflasters an der Albrechtstraße / Alfonsstraße
+- TOP 3.2.9.: Aufhebung des absoluten Haltverbots in der Johann-Pez-Straße
+- TOP 3.2.10.: Zusätzliche Parkverbotszonen im Bereich Schloßschmidstraße / Eisnergutbogen
+- TOP 3.2.11.: Einseitiges Parkverbot in der Irnfriedstraße
+- TOP 3.2.12.: Stadtteilcheck mit der Grundschule am Dom-Pedro-Platz
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Parkraummanagement in München – Fortschreibung Sektor V - Beschlussentwurf -
+- TOP 3.3.2.: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat - Turnusmäßige Beschlussvorlage und Bekanntgabe
+- TOP 3.3.3.: Anordnung von Haltverboten in der Donnersbergerstraße
+- TOP 3.3.4.: Andréestraße - Einrichtung einer Ladezone für den Lebensmittelmarkt
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Verlängerung der Tramlinie 22 über den Max-Weber-Platz nach Berg am Laim Bf.
+- TOP 3.4.2.: Verkehrskontrollen im Bereich Schlossschmidstraße / Eisnergutbogen
+- TOP 3.4.3.: Infoveranstaltungen zur Planfeststellung der Zweiten Stammstrecke
+- TOP 3.4.4.: Ermöglichung von zusätzlichen sicheren Querungen der Waisenhausstraße - BV-Empfehlung Nr. 14-20 / E 01367
+- TOP 3.4.5.: (E) Radwegausbau an der Kreuzung Landshuter Allee / Nymphenburger Straße
+- TOP 3.4.6.: Realisierung des Arnulfstegs
+- TOP 3.4.7.: 1. Winthirstr. 25: Einrichtung einer Kurzparkzone/ eingeschränktes Halteverbot 2. Kreuzung Lachnerstr./ Winthirstr.: Einrichtung eines Fußgängerüberweges
+- TOP 3.4.8.: Fahrradabstellanlage für die Donnersbergerbrücke - Antwort zu Antrag Nr. 14-20 / A 03033
+- TOP 3.4.9.: Verkehrssituation Zucallistraße
+- TOP 3.4.10.: Parkraummanagement Rosa-Luxemburg-Platz
+- TOP 3.4.11.: Förderung der Elektromobilität im 9. Stadtbezirk
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Sondernutzungserlaubnis Leonrodplatz
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen KVR / SWM - Menzinger Str. / Wintrichring - Herthastraße - Arnulfstr. 168 - 184 ggü. - Nymphenburger / Alfonsstr. - Margarethe-Danzi-Straße 15 - Margarethe-Danzi-Straße / Rosa-Bavarese-Str. - Renatastraße / Karl-Schurz-Straße - Richelstraße / Josef-Obenhin-Straße
+- TOP 3.5.3.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Errichtung des Großen Grünwaldparks
+- TOP 4.2.2.: Zweckentfremdung von Wohnraum konsequent unterbinden
+- TOP 4.2.3.: Zwischennutzung auf der Fläche Kulturpavillon
+- TOP 4.2.4.: Mieterhöhungen bei der GEWOFAG
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Bandelstraße 16 - Neubau eines Doppelhauses mit Garagen - Antrag auf Vorbescheid
+- TOP 4.3.2.: Nördliches Schloßrondell 12 - Seitenflügel- und DG-Umbau, Aufzugseinbau und Anbau einer Fluchttreppe
+- TOP 4.3.3.: Schluderstraße 16-20 - Anbau von Balkonen und Aufzügen, Einbau eines Aufzugs, energetische Fassadensanierung sowie Haustechnik-Erneuerung
+- TOP 4.3.4.: Schulstraße 3 - Instandsetzung Dachtragwerk Lichthof Rudolf-Diesel-Realschule
+- TOP 4.3.5.: Thorwaldsenstraße 25-27 - Neubau eines Mehrfamilienhauses mit Tiefgarage sowie Neubau eines Rückgebäudes und Aufstockung eines Wohngebäudes - Antrag auf Vorbescheid
+- TOP 4.3.6.: Volpinistraße 19 - Neubau Nahversorgungszentrum und Nachverdichtung mit Wohnbebauung und Tiefgaragen - Antrag auf Vorbescheid
+- TOP 4.3.7.: Hedwigstraße 2 - Antrag auf Erteilung eines Negativattestes im Rahmen der Zweckentfremdungssatzung
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Vorstellung des Projektes Öffentliche Grünfläche "Postwiese Neuhausen"
+- TOP 4.5.2.: Vorstellung des Entwicklungsvorhabens "Bruckmann Quartier"
+- TOP 4.5.3.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln
+- TOP 4.5.4.: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Wertstoffcontainerstandort Postillonstraße
+- TOP 5.3.2.: Anträge auf Fällungsgenehmigung - Palestrinastr. 19 - Romanstr. 22 - Romanstr. 92-98 - Rondell Neuwittelsbach 4a
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Mehr Sitzbänke & Sitzgelegenheiten in Neuhausen-Nymphenburg
+- TOP 5.4.2.: Bolivarstraße / Ecke Lachmannstraße: Parkmissstände behindern und gefährden Verkehrsteilnehmer_innen
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: - Nächtliche Ruhestörung im Hirschgarten - Ruhestörung durch Lärm auf der Gerner Brücke - Reduktion der Lärmbelastung an der Seidlhofstraße (Grünfläche)
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Grünanlage Leonrodstr. 57, Antrag auf Aufhebung der Schließzeit
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: BA-Budget: Verwendungsnachweise und Kurzberichte: NW 1 e.V., Treff Mosaik, Gemeinschaftszentrum Integriertes Wohnen, Jugendtreff Neuhausen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Verein zur Förderung der bulgarischen Musik e.V. 7. Konzert der Konzertreihe "Bulgarische Musikabende" am 11.11.2018
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Lichtspiel GmbH Flyer Druckkosten
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Inkunst e.V. Renovierung der Räume im Theater Blaue Maus 3.360,00 €
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Gestaltung der Unterführung Hübnerstraße
+- TOP 7.2.2.: Nutzungsperspektiven für das Stationshaus am Romanplatz
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Denkmal für Alfred Andersch
+- TOP 7.3.2.: Dauerhafter Erhalt der Denkmalstelen am Platz der Freiheit - Anhörung des Kulturreferats zur Bürgerversammlungs-Empfehlung Nr. 14-20 / E 01359
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Street Art am Kreativlabor
+- TOP 7.4.2.: Künftige Nutzung des Gebäudes Schwere-Reiter-Straße 2A im Kreativquartier - Anfrage Nr. 14-20 / F 00949
+- TOP 7.4.3.: Raumvergabe im Kreativquartier
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Kinderhaus Ferdinand e.V. Projekt "Sicherer und barrierefreier Spielplatz"
+- TOP 8.1.2.: (E) Budget der Bezirksausschüsse Kindergarten in der Mustersiedlung e.V. Anschaffung und Aufbau eines neuen Spielturms
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Beschlussvorlage zur Entwicklung der Heilpädagogischen Tagesstätte an der Margarethe-Danzi-Straße 13
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Rascher Wiederaufbau von Vereinsheim und Umkleidekabinen FC Teutonia
+- TOP 8.4.2.: Schulcampus Albrechtstraße
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Schulbauoffensive 2013-2030
+- TOP 8.5.2.: BA-Budget: Verwendungsnachweis ESV München
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Zuschussanträge für Kitas, Schulen etc.-Überlegungen für UA-Sitzung
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Änderung der BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redationelle Anpassung der BA-Geschäftsordnung
+- TOP 9.3.2.: Technikpauschale und elektronische Ladung
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Gastspiel "Circus Roncalli" auf stadteigenem Grundstück im Kreativquartier. Dauer: 01.10.-15.11.2017 inkl. Auf- und Abbau
+- TOP 9.5.2.: Unveränderte Fortführung von Gaststättenbetrieben: - "Leonrod", Leonrodstr. 45 - "Al Forat" - Arnulfstr. 197
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
