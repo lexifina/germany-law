@@ -1,0 +1,107 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-09-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4548073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4548073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 10.: Nachtrag
+- TOP 2.2.1.: Keine Tischtennisplatten auf der Grünfläche am Ende der Freseniusstraße
+- TOP 2.2.2.: Verkehrslage Waldhornstraße
+- TOP 2.2.3.: Lesermeinung zum Artikel im Stadtteilanzeiger hier: verkehrstechnische Entlastung der nördlichen Eversbuschstr.
+- TOP 2.2.4.: Erschließung Menzinger Straße
+- TOP 2.2.5.: Kiesweg Fragen zur Verwendung der landwirtschaftlichen Flächen
+- TOP 2.2.6.: Community Bus Projekt
+- TOP 2.2.7.: Menzinger Straße Rücknahme Tempo 30
+- TOP 2.2.8.: Bäume in der St.-Johann-Str zur Verkehrsberuhigung
+- TOP 2.2.9.: Arbeiten an der ICE-Lärmschutzwand zwischen S-Bhf München-Obermenzing und S-Bhf München-Untermenzing
+- TOP 3.1.: Baskettball-Platz mit zwei Körben im Bereich östlich der Bahn
+- TOP 3.2.: Skateboard-Park
+- TOP 3.3.: Weitere Spielmöglichkeiten für Jugendliche und Kinder am Spielplatz Megerlestrasse
+- TOP 4.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung; Rudorffstraße zw. Am Lochholz und Am Gemeindewald
+- TOP 4.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung Programm barrierefreie Bushaltestellen Von-Kahr-Str. - Haltestelle Untermenzing Bahnhof
+- TOP 4.3.: (E) Budget der Bezirksausschüsse TSV Allach 09 Turnen und Handball e.V. Internationales Handballturnier in Lund/Schweden vom 26.12. bis 30.12.2017
+- TOP 4.4.: (E) Verbot der Durchfahrt für Lkw über 7,5 t in der Franz-Nißl-Straße
+- TOP 5.1.: Papierloses Arbeiten der Bezirksausschüsse unterstützen Einen Zuschuss für selbst beschaffte IT-Ausstattung
+- TOP 5.2.: Beschlussentwurf: Parkraummanagement in München - Fortschreibung Sektor V (Referat für Stadtplanung und Bauordnung, 08.08.17)
+- TOP 5.3.: Beschränkung der Nachverdichtung
+- TOP 5.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.08.2017: Baudenkmal Wilhelm-Zwölfer-Str. 28, FlNr. 1356/9 Nachtrag eines Bunkers in die Denkmalliste
+- TOP 5.5.: Eversbuschstr. 160 a, Gemarkung: Allach, Fl.Nr.: 10/0 Neubau einer Doppelhaushälfte
+- TOP 5.6.: Spiegelbergstr. 20, Gemarkung: Allach, Fl.Nr. 978/0 Neubau eines Dreispänners mit 2 Stellplätzen + Carport
+- TOP 5.7.: Franz-Albert-Str., Gemarkung: Allach, Fl.Nr.: 194/8, 194/9, 194/10 Neubau Reihenhäuser - A1, A2, A3
+- TOP 5.8.: Franz-Albert-Str., Gemarkung: Allach, Fl.Nr.: 194/11, 194/12, 194/13 Neubau Reihenhäuser - B1, B2, B3
+- TOP 5.9.: Franz-Albert-Str., Gemarkung: Allach, Fl.Nr.: 194/14, 194/15 Neubau Reihenhäuser - C1, C2
+- TOP 5.10.: Franz-Albert-Str., Gemarkung: Allach, Fl.Nr.: 194/18, 194/16 Neubau Reihenhäuser - D1, D2
+- TOP 5.11.: Hugo-Heiß-Str. 2, Gemarkung Untermenzing, Fl.Nr. 176/7 Vollzug der Baumschutzverordnung
+- TOP 5.12.: Franz-Nißl-Str./Feigstraße oberirdischer Containerstellplatz
+- TOP 5.13.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.1.: (U) Schulbauoffensive 2013-2030
+- TOP 6.2.: (U) A) Bebauungsplan mit Grünordnung Nr. 2103 Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich), imaginäre östliche Verlängerung der Höcherstraße (nördlich) (Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) Diamalt-Gelände Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss B) Einrichtung eines Kulturraumes als Dauereinrichtung auf dem Diamalt-Gelände (Ziffer 2) Empfehlung Nr. 14-20 / E 01049 der Bürgerversammlung des Stadtbezirkes 23 – Allach-Untermenzing am 28.06.2016 Stadtbezirk 23 Allach-Untermenzing
+- TOP 6.3.: (U) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/37 Pasteurstraße (südlich), Georg-Reismüller-Straße (östlich), Bahnlinie München - Treuchtlingen (westlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 23 Allach - Untermenzing
+- TOP 6.4.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1617c Franz-Nißl-Straße (westlich), Hintermeierstraße (nördlich), Lewaldstraße (südlich) Seniorinnen- und Seniorenwohn- und Pflegeheim (SWP) Teilverdrängung des Bebauungsplanes mit Grünordnung Nr. 1655a Wechsel der Vorhabenträgerschaft - Billigungsbeschluss - Stadtbezirk 23 Allach - Untermenzing
+- TOP 6.5.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 6.6.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 6.7.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 6.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 6.10.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 6.11.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 6.12.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 6.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Wiesn-Besuch der Bezirksausschüsse 2017
+- TOP 7.2.: Gestaltung und Finanzierung der Eröffnungsfeier der Ausstellung 150 Jahre Bahnliinie München - Ingolstadt am 06.10.2017 im Kesselhaus
+- TOP 7.3.: Ausstellung 1200 Jahre Untermenzing im Hans-Sieber-Haus
+- TOP 7.4.: Bodenschach in der Anlage an der Hitlstraße - Schlüsselbeauftragter Schachfigurenkiste
+- TOP 7.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.08.2017: Auslegungszeit Diamalt-Gelände
+- TOP 7.6.: Sitzungstermine 2018 (Entwurf)
+- TOP 7.7.: Ortstermin Tischtennisplatte Freseniusstraße mit BA 21 und Baureferat
+- TOP 9.1.: Schreiben Baureferat vom 24.05.2017: Sanierung des Fahrbahnbelags hier: Georg-Reismüller-Str. 43 - 45, Franz-Nißl-Str. bis Prießnitzstraße
+- TOP 9.2.: Schreiben Baureferat vom 29.08.2017: Grünanlage ehem. Allacher Sommerbad, Fisch- und Naturlehrtafeln
+- TOP 9.3.: Schreiben Kreisverwaltungsreferat vom 02.08.2017: Vollzug des Waffengesetzes - WaffG - Erlaubnis zur befristeten Nutzungsänderung einer Schießanlage Servetstraße 1
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.08.2017: Wohnen für Alle - Projekt der GEWOFAG - Franz-Albert-Straße Zwischennachricht an alle Absender und Antragsteller
+- TOP 9.5.: Schreiben Referat für Gesundheit und Umwelt vom 10.08.2017: Parkplatz und Fußgängerbrücke am Friedhof Allach, BV-Empf. 01534, Zwischennachricht
+- TOP 9.6.: Schreiben Referat für Gesundheit und Umwelt vom 21.08.2017: Vollzung der abfall- und immissionsschutzrechtlichen Bestimmungen; Kompostieranlage der Schernthaner GmbH Antwortschreiben
+- TOP 9.7.: Schreiben Referat für Gesundheit und Umwelt vom 09.08.2017: Parkplatz am Allacher Friedhof Fuß- und Radweg entlang der Würm zum Allacher Friedhof Antwortschreiben
+- TOP 9.8.: Schreiben Referat für Gesundheit und Umwelt vom 08.08.2017: Verlagerung der Abtankstation für Tankbier Mälzereistraße 31
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.08.2017: Zwischennachricht BV-Empf. 01530, Konzept zur Nahmobilität für Allach-Untermenzing
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (07.08.-13.08.17, 21.08.-27.08.17, 28.08.-03.09.17, 04.09. -10.09.17)
+- TOP 9.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.08.2017: Obere Mühlstr. 20, Gemarkung Untermenzing, FlNr.: 985/4 Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.09.2017: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben Allacher Str. 167
+- TOP 9.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.08.2017: Anfrage Grünflächenverordnung
+- TOP 9.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.09.2017: Eversbuschstr. 159, Fl.Nr. 79/0, Gemarkung: Allach Nachtrag in die Denkmalliste
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Eversbuschstr. 75, Allacher Str. 114, Hitlstr. 17, Hauseggerstr. 3, Manzostr. 36, Willi-Wien-Str. 7a,
+- TOP 9.16.: Schreiben Sozialreferat vom 21.08.2017: Zweckentfremdung: Georg-Reismüller-Straße
+- TOP 9.17.: Schreiben Sozialreferat vom 10.08.2017: Übersicht Unterkünfte Wohnungslose und Flüchtlinge
+- TOP 9.18.: Schreiben der MVG vom 27.07.2017: Verkehrssituation Vesaliusstraße Bushaltestelle "Allacher Bahnhof"
+- TOP 9.19.: Schreiben Stadtwerke München vom 14.08.17, 21.08.17, 28.08.17, 04.09.17, 11.09.17: Baumaßnahmen
+- TOP 9.20.: Bericht Feuerwerk 1200 Jahre Menzing
+- TOP 9.21.: Schreiben Bürgervereinigung Obermenzing e.V. vom 28.08.2017: Dankschreiben Kinderfest 1200 Jahre Menzing
+- TOP 9.22.: Schreiben ARTVISION e.V. vom 25.07.2017: Zuwendungsbewilligung für "Menschen in Menzing" 1200 Jahre Menzing
+- TOP 9.23.: Schreiben Direktorium vom 11.09.2017: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse
+- TOP 9.24.: Schreiben Sozialreferat vom 07.09.2017: Zweckentfremdung: Goteboldstraße
+- TOP 9.25.: Schreiben Kreisverwaltungsreferat vom 11.09.2017: Verkehrsfluss Gerberau verbessern durch Einbahnregelung in der Bergetstraße und Vogelloh
+- TOP 9.26.: Schreiben Kreisverwaltungsreferat vom 21.08.2017: Beschilderung "Anlieger frei" im Bereich Robert-Hartig-Straße / Lautenschlägerstraße / Hintermeierstraße
+- TOP 9.27.: Schreiben Direktorium vom 06.09.2017: BürgerInnen-Information und -Beteiligung stärken Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
