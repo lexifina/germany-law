@@ -1,0 +1,138 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4185570
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4185570
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3.: Nachbesetzung in den Unterausschüssen
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.1.1.: Seniorenbeiratswahl 2017: Vorstellung der Kandidatinnen und Kandidaten für den 18. Stadtbezirk
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1.: Planungen der LHM für das Anwesen Wilhelm-Kuhnert-Straße 14; Sachstandsinformation durch das Referat für Stadtplanung und Bauordnung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse GTEV Chiemgauer München Anschaffung von Trachten und eines Pavillons mit Biertischgarnituren
+- TOP 3.1.2.2.: (E) Budget der Bezirksausschüsse Bürgerinitiative Mehr Platz zum Leben Ideen Workshop am 24.10.2017 1.240,00 €
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Aufzug an geeigneter Stelle der Hangkante; Antrag der Fraktion Bündnis`90/Die Grünen vom 04.08.17
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Beschlussentwurf Parkraummanagement in München - Fortschreibung Sektor V Sitzungsvorlagen-Nr. 14-20 / V 08574 Frist: 18.09.2017
+- TOP 3.2.4.2.: Fuß- und Radwegbrücke am Giesinger Berg Sachstandsbericht und weiteres Vorgehen Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung
+- TOP 3.2.4.3.: Öffnung der Einfahrt in die Jamnitzerstraße für Radfahrer aus Richtung Pilgersheimer Straße; Anhörung durch das Kreisverwaltungsreferat zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Geschwindigkeit Harthauser Straße
+- TOP 3.2.5.2.: Pförtnerschaltung Haltestelle Wettersteinplatz; barrierefreie Umgestaltung des Platzes sowie des Haltestellenbereiches der Verkehrsinsel
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Barrierefreier Badezugang an geeigneter Stelle der Isar; Antrag der Fraktion Bündnis`90/Die Grünen vom 02.08.17
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Medizinische Versorgung im Alter; Anhörung durch das Referat für Gesundheit und Umwelt zur Beschlussvorlage für den Gesundheitsausschus am 12.10.17 u.a. zur Empfehlung Nr. 14-20 / E 01296 der Bürgerversammlung im 18. Stadtbezirk vom 24.11.16 (Integriertes medizinisches Versorgungsnetz für ältere hilfsbedürftige Menschen am Standort Klinikum Harlaching)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Schutz des Isar-Grünzuges vor Belastungen durch Feuerwerk
+- TOP 3.3.5.2.: Unrechtmäßige Kleidersammlungen effektiv unterbinden
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Finanzielle Förderung des Formularservice; Antrag der Fraktion Bündnis`90/ Die Grünen
+- TOP 3.4.3.2.: Verunstaltungen an der Grundschule an der Fromundstraße; Antrag der SPD-Fraktion
+- TOP 3.4.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Aufstellung einer Parkbank im Grünflächenbereich an der Ecke Säbener Straße und Schellenbergstraße
+- TOP 3.4.5.2.: Aufstellung von Parkbänken mit Tischen an geeigneten Stellen im 18. Stadtbezirk
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Schließung der Flüchtlingsunterkunft in der Hellabrunner Straße 1 am 30.09.17; Mitteilung des Sozialreferats vom 09.08.17
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Sanierungsgebiete am Mittleren Ring Südost - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms „Soziale Stadt“ in den Sanierungsgebieten „Tegernseer Landstraße / Chiemgaustraße“ und „Innsbrucker Ring / Baumkirchner Straße“ A) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet „Tegernseer Landstraße / Chiemgaustraße“ B) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ und Änderung des Umgriffs des Sanierungsgebietes „Innsbrucker Ring / Baumkirchner Straße“ und förmliche Festlegung des eigenständigen Sanierungsgebietes „Ortskern Ramersdorf“ C) Eckdaten Behrgelände im Sanierungsgebiet „Innsbrucker Ring / Baumkirchner Straße“ D) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf – Perlach Stadtbezirk 17 - Obergiesing – Fasangarten Stadtbezirk 18 - Untergiesing – Harlaching Sitzungsvorlagen Nr. 14-20 / V 09450 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017 (VB) Öffentliche Sitzung Termin: 29.09.2017
+- TOP 3.5.4.1.1.: Benediktenwandstraße 33, Neubau eines Wohngebäudes mit TG; Anhörung durch die LBK
+- TOP 3.5.4.1.2.: Aggensteinstraße 3, Errichtung einer Wohnanlage (5 WE) mit Tiefgarage; Anhörung durch die LBK
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Überprüfung der Höhenentwicklung des Neubaus Sutnerstraße 4 (Einhaltung der Baugenehmigung)
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk; Unterrichtungen durch die LBK
+- TOP 3.5.6.2.: Vollzug der Erhaltungssatzung "Untere Au / Untergiesing"; Mitteilungen des Spzialreferates über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen 3.5.6.2.1 Anwesen in der Lohstraße 3.5.6.2.2 Anwesen in der Pilgersheimerstraße 3.5.6.2.3 Anwesen in der Pilgersheimerstraße 3.5.6.2.4 Anwesen in der Cannabichstraße
+- TOP 3.5.6.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.3.1 Anwesen Athosstraße; Mitteilung vom 18.08.17
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 22.10.2017 auf dem Hans-Mielich-Platz; Beschlussvorlage durch das KVR
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Kooperationsplattform "Alfresco"; Anhörungsschreiben zu Technikpauschale und elektronischer Ladung
+- TOP 4.4.1.: Rahmenbedingungen Spielbetrieb Grünwalder Stadion
