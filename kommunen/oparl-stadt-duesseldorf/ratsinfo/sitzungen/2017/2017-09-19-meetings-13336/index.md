@@ -1,0 +1,55 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-19T16:00:00+02:00
+- Ende: 2017-09-19T21:45:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13336
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13336
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300251.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300251.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300251.pdf
+
+## Tagesordnung
+
+- TOP 1: Zulassung eines neuen Mitgliedes der Bezirksvertretung 3 - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 4/2017 vom 27.06.2017 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Bestellung beratendes Mitglied Jugendrat - einstimmig beschlossen
+- TOP 6: Anfragen und Anregungen aus der Bürgerschaft - verwiesen
+- TOP 7: Planfeststellungsverfahren RRX, Planfeststellungsabschnitt (PFA) 2.1 - Reisholz – Wehrhahn - einstimmig beschlossen
+- TOP 7.1: Parkpflegewerk Ständehauspark - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Corneliusstraße 58; Abbruch einer eingeschossigen Hofbebauung - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: B-Plan Nr. 03/033 Nordöstlich Halbinsel Kesselstraße - Beschluss frühzeitige Öffentlichkeitsbeteilig - zurückgezogen
+- TOP 17: B-Plan Nr. 03/031 Nördlich Stromstraße - Aufstellungsbeschluss - vertagt
+- TOP 18: B-Plan Nr. 03/019 Östlich Kesselstraße - Beschluss öffentliche Auslegung - einstimmig beschlossen
+- TOP 19: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 20: Vorstellung der Arbeit des Welcome Points 03; Merowingerstraße (Aufgaben, Vernetzung und Zusammenarbeit im Stadtteil) - vertagt
+- TOP 21: Kinderspielplatz Merkurstraße/Planetenstraße - einstimmig beschlossen
+- TOP 22: Kölner Straße; Querungshilfe - einstimmig beschlossen
+- TOP 23: Sonnenstraße; Haltestelle - einstimmig beschlossen
+- TOP 24: Klimaschutzkonzepts Düsseldorf 2025 – Beantragung von - einstimmig beschlossen
+- TOP 25: Klimaschutzkonzepts Düsseldorf 2025 - Pilotprojekt Mobilstation am - einstimmig beschlossen
+- TOP 26: Autonomes Fahren in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 27: Instandsetzung der Handläufe entlang der Düssel im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 28: Kommunale? Infoständer - zur Kenntnis genommen
+- TOP 29: Bertha-von-Suttner-Platz - vertagt
+- TOP 30: Radeln auf Elisabeth- und Friedrichstraße - zur Kenntnis genommen
+- TOP 30.1: Brandgefahr in Wohnhochhäusern - vertagt
+- TOP 30.2: Aachener Platz 2. Ausbaustufe - vertagt
+- TOP 31: Umwidmung von Kinderspielplätzen - einstimmig beschlossen
+- TOP 32: Plan Nr. 03/17 Elisabethstraße / Bachstraße Informationsvorlage - einstimmig beschlossen
+- TOP 33: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung (SOM V) - einstimmig beschlossen
+- TOP 34: Am Kuhtor, D-Hamm-Neubau P+R-Platz - zur Kenntnis genommen
+- TOP 35: Mitteilungen des Bezirksbürgermeisters - zurückgezogen
