@@ -1,0 +1,7 @@
+# TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+
+- Sitzung: öffentliche/nichtöffentliche Sondersitzung der Bezirksvertretung Aachen-Richterich gemeinsam mit der Bezirksvertretung Laurensberg und der Bezirksvertretung Kornelimünster/Walheim (2017-09-19)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936cb91d8f32e9185decab
+- Ergebnis: (offen)
