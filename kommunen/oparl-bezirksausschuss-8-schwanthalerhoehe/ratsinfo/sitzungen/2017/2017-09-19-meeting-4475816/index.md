@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4475816
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4475816
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Wohnungsleerstand Westendstr. 35
+- TOP 4.2.: Oktoberfest 2017 - Mobile Toilette in der Ben-Chorin-Straße
+- TOP 4.3.: Zwischennutzung Gollierstr. 4
+- TOP 6.1.1.: Sonderunutzung - Freischankfläche Alter Messeplatz 4
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Betriebsartänderung Gaststätte Landsberger Str. 108
+- TOP 6.3.3.: Gaststättenfortführung Westendstr. 29
+- TOP 6.3.4.: Grundstücksverkauf Hans-Fischer-Straße
+- TOP 6.3.5.: Gaststättenfortführung Theresienhöhe 7
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: Kinder- und Jugendrat Westend
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Verkehrsberuhigung westlich der Trappentreustraße
+- TOP 8.1.2.: Verkehrsberuhigung westlich der Trappentreustraße; BV-Empfehlung Nr. 14-20 /V 09821
+- TOP 8.1.3.: Anpassung der Verkehrssituation am Gollierplatz
+- TOP 8.1.4.: (E) Kontrollmaßnahmen und Sanktionen für Kraftfahrer in der Fahrradstraße Gollierstraße
+- TOP 8.1.5.: (E) Verkehrskontrollen am „Stöpsel“ - Trappentreustraße
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung "Am Bavariapark 5"
+- TOP 8.2.2.: Beschlussentwurf Parkraummanagement München Fortschreibung Sektor V
+- TOP 8.2.3.: Baumfällungsantrag Barthstr. 29 - 33
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Initiative Westend Musiknacht Musiknacht - Schwanthalerhöhe/Westend am 21.10.2017 800,00 €
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Sachbericht "Ein Teller Heimat"
+- TOP 10.1.: Bereitstellung von Eigenmitteln aus dem BA-Budget für den Jahresempfang des BA8 am 06.11.2017 im Augustiner Bräustüberl
