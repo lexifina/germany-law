@@ -1,0 +1,56 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-19T16:00:00+02:00
+- Ende: 2017-09-19T19:35:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13268
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13268
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift 172/ -5/2017 vom 20.06.2017 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299600.pdf
+- Ergebnisprotokoll: Niederschrift 172/ -5/2017 vom 20.06.2017 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299600.pdf
+- Wortprotokoll: Niederschrift 172/ -5/2017 vom 20.06.2017 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00299600.pdf
+
+## Tagesordnung
+
+- TOP 1: Durchführung einer Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 5: Save-Food-Preis für das Goethe-Gymnasium - zur Kenntnis genommen
+- TOP 6: Bebauungsplan-Entwurf Nr. 02/009 - Grafental Mitte - - mehrheitlich beschlossen
+- TOP 7: B-Plan Nr. 02/005 - Grafental Ost - Aufstellung; Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Bruchstraße Querungshilfe - einstimmig beschlossen
+- TOP 11: Planfeststellungsverfahren RRX, Planfeststellungsabschnitt (PFA) 2.1 - Reisholz – Wehrhahn - zur Kenntnis genommen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 13: Erkrather Straße Entwicklung - einstimmig beschlossen
+- TOP 14: Kartieren von nachzupflanzenden Straßenbäumen - einstimmig beschlossen
+- TOP 15: Stadt-Natur-Park Flingern - einstimmig beschlossen
+- TOP 16: Weseler Straße - mehrheitlich beschlossen
+- TOP 17: Kennzeichnung Bäume Zoopark - abweichend beschlossen
+- TOP 18: Bezirksbezogene Haushaltsmittel - einstimmig beschlossen
+- TOP 19: Zuwendung an Plan.d.Produzentengalerie e.V. für Computerausstattung zur Teilnahme am Projekt „digita - mehrheitlich beschlossen
+- TOP 20: Zusatzbeschilderung an Straßennamen - einstimmig beschlossen
+- TOP 21: Skulptur „Freunde“ auf dem Schillerplatz - zurückgezogen
+- TOP 22: Car Loft Hotel Höherweg 90 - zur Kenntnis genommen
+- TOP 23: Cranachstraße/Lichtstraße Verkerhrssituation - beantwortet
+- TOP 24: Platanenstraße Ersatzpflanzungen - beantwortet
+- TOP 25: Dorotheenstraße 85 - beantwortet
+- TOP 26: Franklinbrücke Rethelstr. Humboldtstr. - beantwortet
+- TOP 27: Rethelstraße / Haltestelle - beantwortet
+- TOP 28: Lärmbelastung durch Straßenbahnen - beantwortet
+- TOP 29: Zoo-Pavillon im Zoopark - beantwortet
+- TOP 30: Urbanes Wohnen Flingern - beantwortet
+- TOP 31: Mülheimer Straße Parksituation - zur Kenntnis genommen
+- TOP 32: Grünstreifen Schillerplatz - zur Kenntnis genommen
+- TOP 33: Erkrather Straße Querung - zur Kenntnis genommen
+- TOP 34: Fahrradständer Acker-/Hermannstraße u. Herder-/Humboldtst - zur Kenntnis genommen
+- TOP 35: Fahrradständer Grafenberger Allee/Hans-Sachs-Straße - zur Kenntnis genommen
+- TOP 36: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 37: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 38: B-Plan Vorentwurf Nr. 02/007 Grashofstraße/Mercedesstraße Sachstandbericht - zur Kenntnis genommen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
