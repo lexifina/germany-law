@@ -1,0 +1,7 @@
+# TOP -: Beschluss über Regeln der Geschäftsordnung
+
+- Sitzung: Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik (2017-09-19)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/229148
+- Ergebnis: ungeändert beschlossen
