@@ -1,0 +1,56 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2017-09-20T17:00:00+02:00
+- Ende: 2017-09-20T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3602
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936c601d8f32e9185ddafb
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 12.07.2017 (öffentlicher Teil) - zurückgestellt
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen. - (offen)
+- TOP 4: Genehmigung der Dringlichkeitsentscheidung vom 17.07.2017 zu den vorbereitenden Arbeiten für das Bauvorhaben „Revitalisierung des Neuen Kurhauses“ - ungeändert beschlossen
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NW Ausbau des Vorplatzes an der Yunus-Emre-Moschee Beauftragung des Mehraufwands für die Entsorgung des Aushubmaterials - ungeändert beschlossen
+- TOP 6: Einrichtung der Bewohnerparkzone "E" (Elsa-Brandström-Straße) - ungeändert beschlossen
+- TOP 7: Einrichtung der Bewohnerparkzone "E2" (Alkuinstraße) - ungeändert beschlossen
+- TOP 8: Bebauungsplan -Goffartstraße / Bergische Gasse- hier: Beschluss einer Veränderungssperre für das Grundstück, Goffartstraße 26 - ungeändert beschlossen
+- TOP 9: Änderung Nr. 117 des Flächennutzungsplanes 1980 - Konzentrationsflächen für Windkraftanlagen - hier: Änderungsbeschluss im ergänzenden Verfahren nach § 214 (4) BauGB - ungeändert beschlossen
+- TOP 9.1: Änderung Nr. 117 des Flächennutzungsplanes 1980 - Konzentrationsflächen für Windkraftanlagen - hier: Änderungsbeschluss im ergänzenden Verfahren nach § 214 (4) BauGB - ungeändert beschlossen
+- TOP 10: Programm „Gute Schule 2020“ Berichterstattung - ungeändert beschlossen
+- TOP 10.1: Programm „Gute Schule 2020“ Berichterstattung (Ergänzung) - ungeändert beschlossen
+- TOP 11: Bericht und Beschlussfassung zum "Diesel-Gipfel" in Berlin hier: Tagesordnungsantrag der GRÜNE-Fraktion vom 06.09.2017 - geändert beschlossen
+- TOP 12: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen: - (offen)
+- TOP 12.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2017 - Bau eines Umkleidehauses mit Jugend- und Schulungsraum und Hausmeisterwohnung an der Sportplatzanlage Rombachstraße / Brander Wall - ungeändert beschlossen
+- TOP 12.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen und Verpflichtungsermächtigungen Haushaltsjahr 2017 Kornelimünster-West Beb.Plan 812 - ungeändert beschlossen
+- TOP 12.3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2017 hier: Umsetzung des geänderten Entschädigungsrechts laut Ratsbeschluss - ungeändert beschlossen
+- TOP 12.4: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2017 hier: Zusätzliche Mittel für das Wahljahr 2017 - ungeändert beschlossen
+- TOP 13: Gesamtabschluss 2011 - ungeändert beschlossen
+- TOP 14: Breitbandförderung; hier: 5. Aufruf des BMVI / Bundesmittel 9/2017 - ungeändert beschlossen
+- TOP 15: Schenkung von 3 Gemälden (Vermächtnis) der Eheleute Erbel an das Suermondt-Ludwig-Museum - ungeändert beschlossen
+- TOP 16: Beirat bei der Justizvollzugsanstalt Aachen - geändert beschlossen
+- TOP 17: Benennung von Ratsmitgliedern zur Teilnahme an der 12. Konferenz der Ratsmitglieder beim Städtetag NRW am 28.11.2017 in Köln - geändert beschlossen
+- TOP 18: Anfragen: - (offen)
+- TOP 18.1: Ratsanfragen - ungeändert beschlossen
+- TOP 18.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 19: Ratsanträge - ungeändert beschlossen
+- TOP 20: Umbesetzung in Ausschüssen und anderen Gremien - (offen)
+- TOP 20.1: Umbesetzungsanträge der GRÜNE-Fraktion vom 29.08.2017 - ungeändert beschlossen
+- TOP 20.2: Umbesetzungsantrag der Fraktion DIE LINKE vom 12.09.2017 - zurückgestellt
+- TOP 21: Mitteilungen der Verwaltung - (offen)
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NW Einbau von festen LKW-Sperren (Pilomaten) zum Schutz vor Terrorattacken im Pfalzbezirk der Aachener Innenstadt und Bereitstellung überplanmäßiger Haushaltsmittel - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
