@@ -1,0 +1,8 @@
+# TOP 4: V 212/2 Fesserstraße - Satzungsbeschluss
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (2017-09-20)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/128113
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/22004
