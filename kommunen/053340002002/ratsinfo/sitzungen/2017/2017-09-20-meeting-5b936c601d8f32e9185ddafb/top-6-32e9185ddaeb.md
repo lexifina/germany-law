@@ -1,0 +1,7 @@
+# TOP 6: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2017-09-20)
+- Körperschaft: Aachen
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936c5f1d8f32e9185ddaeb
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
