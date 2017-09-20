@@ -1,0 +1,63 @@
+# 19. Sitzung des Ortsgemeinderates Rohrbach
+
+- Körperschaft: Ortsgemeinde Rohrbach
+- Beginn: 2017-09-20T19:45:00+02:00
+- Ende: 2017-09-20T00:10:00+02:00
+- Ort: Dorfgemeinschaftshaus Rohrbach, Ratssaal, Am Dorfplatz 3, 76865 Rohrbach
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/400
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2017-400-97
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2017-400-97
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-400-97
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-400-97
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-400-97
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Bebauungsplan 'Gewerbegebiet zwischen der L493 und Große Ahlmühle, 1. Änderung/Erweiterung'
+- TOP 3: Feststellung des Jahresabschlusses 2013 der Ortsgemeinde Rohrbach und Erteilung der Entlastung
+- TOP 4: Feststellung des Jahresabschlusses 2014 der Ortsgemeinde Rohrbach und Erteilung der Entlastung
+- TOP 5: Feststellung des Jahresabschlusses 2015 der Ortsgemeinde Rohrbach Erteilung der Entlastung
+- TOP 6: Bericht über den Stand des Haushaltsvollzugs zum 30.06.2017
+- TOP 7: Renovierung der Grillhütte
+- TOP 8: Ausbau des Parkplatzes bei der Grillhütte
+- TOP 9: Park-and-Ride-Parkplatz Bahnhof
+- TOP 10: Antrag der FWG zur Erhaltung des Wildpflanzenlehrpfades
+- TOP 11: Antrag der Anwohner des Neubaugebietes 'Auf der Höchst' wegen der Gestaltung des Übergangs zwischen Wendegasse/Bachgasse und dem Neubaugebiet 'Bei der Gernbrücke'
+- TOP 12: Antrag der FWG zur Übernahme der monatlichen Kosten für die musikalische Früherziehung im Kindergarten Rohrbach
+- TOP 13: Antrag des Elternausschusses der Kita 'Samenkorn': Schaffung von Parkmöglichkeiten am Axamsplatz
+- TOP 14: Anträge auf Tempo 30 in der Bahnhofstraße und der Insheimer Straße
+- TOP 15: Verkehrsberuhigung im Bereich Spielplatz im Neubaugebiet 'Aßgärten'
+- TOP 16: Verkehrsberuhigung im Bereich des Clubhauses der Spvgg
+- TOP 17: Zustimmung zu verkehrsbehördlichen Anordnungen; Ritter-Konrad-Weg
+- TOP 18: Errichtung eines Verkehrsspiegels in der Bachgasse
+- TOP 19: Errichtung einer Fußgängerampel im Bereich der Hauptstraße
+- TOP 20: Auftragsvergaben
+- TOP 20.1: Bücherschrank in der Ortsgemeinde Rohrbach
+- TOP 20.2: Auftragsvergaben; Straßenausbau in der Wendegasse
+- TOP 20.3: Auftragsvergaben; Errichtung von Seniorentrainingsgeräten beim Dorfplatz
+- TOP 20.4: Auftragsvergaben; Errichtung von Bushaltestellen in der Bahnhofstraße
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grundstücksangelegenheiten
+- TOP 22: Grundstücksangelegenheiten; Bewirtschaftung der angrenzenden Grundstücke des Anwesens Ritter-von-Flörsheim-Straße 2
+- TOP 23: Mitteilungen und Anfragen
+- TOP 23.1: Mitteilungen und Anfragen Anordnung von Halteverboten
+- TOP 23.2: Mitteilungen und Anfragen Grünpflege Friedhof
+- TOP 23.3: Mitteilungen und Anfragen Kirchengelände
+- TOP 23.4: Mitteilungen und Anfragen Reparatur Kanaldeckel
+- TOP 23.5: Mitteilungen und Anfragen Verkehrsspiegel Ritterviertel/Billigheimer Straße
+- TOP 23.6: Mitteilungen und Anfragen Grünpflege Mitfahrerparkplatz
+- TOP 23.7: Mitteilungen und Anfragen Unterhaltung Ortsrandstraße
+- TOP 23.8: Mitteilungen und Anfragen Bauplätze Neubaugebiet 'Aßgärten'
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
