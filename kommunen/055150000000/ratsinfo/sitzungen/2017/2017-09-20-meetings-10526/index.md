@@ -1,0 +1,78 @@
+# 26. Sitzung (Einbringung Haushalt 2018)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-09-20T17:37:00+02:00
+- Ende: 2017-09-20T21:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10526
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10526
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00410716.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Bezahlbarer Wohnraum und Mietpreisdeckelung
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Haushaltsansatz für die Arbeit des Integrationsrates der Stadt Münster im Bereich der Integrationsprojekte ab dem 01.01.2018 dauerhaft auf 54.000 € aufstocken - verwiesen
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 11: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2018 - einstimmig beschlossen
+- TOP 12: Gleichstellung in politischen Gremien Antrag der SPD-Fraktion an den Rat Nr. A-R/0042/2016 „Gleichstellung in Ratsgremien einschließlich Aufsichtsräten umsetzen“ - von der Tagesordnung abgesetzt
+- TOP 13: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 13.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 14: Absicherung von zentralen öffentlichen Veranstaltungsflächen und von Plätzen besonderer Bedeutung durch Polleranlagen - mehrheitlich beschlossen
+- TOP 15: Satzung zur Umstellung von Gebührenerhebung auf privatrechtliche Entgelterhebung bei der Veranstaltung von Wochenmärkten und Volksfesten durch die Stadt Münster (Entgelterhebungssatzung im Send- und Marktwesen) - einstimmig beschlossen
+- TOP 16: Neufassung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 17: Zukünftige Entwicklung der Westfälische Bauindustrie GmbH (WBI GmbH) - mehrheitlich beschlossen
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Haushaltsplan 2017 - einstimmig beschlossen
+- TOP 20: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2017 - zur Kenntnis genommen
+- TOP 21: Übernahme einer Ausfallbürgschaft für die Eigentümergemeinschaft "Altenwohnungen am Klarastift"/Kommunale Stiftungen - einstimmig beschlossen
+- TOP 22: Verwendung der Fördermittel nach § 11 Abs. 2 und § 11a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG NRW) für das Jahr 2015 - zur Kenntnis genommen
+- TOP 23: Verwendung der Fördermittel nach § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG NRW) für das Jahr 2016 - zur Kenntnis genommen
+- TOP 24: Dauerhafte Fortführung des Verkehrssicherheitsprogramms - mehrheitlich beschlossen
+- TOP 24.1: Dauerhafte Fortführung des Verkehrssicherheitsprogramms
+- TOP 25: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Petersheide in Wolbeck, Stadtbezirk Südost - mehrheitlich beschlossen
+- TOP 26: Dauerhafte Erweiterung des Evangelischen Claudius-Kindergartens, Wierling 31, Münster-Albachten, Bezirk West - mehrheitlich beschlossen
+- TOP 27: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2017 - 2020 - einstimmig beschlossen
+- TOP 28: Zukünftige Form der Hüfferstiftung: - Auflösung der rechtlich unselbstständigen Treuhandstiftung - Übernahme des Vermögens und des Stiftungszwecks durch die Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 29: Kommunale Stiftungen / Geänderte Wirtschaftspläne für das Jahr 2017 - einstimmig beschlossen
+- TOP 30: Satzungen der kommunalen Stiftungen (örtliche Stiftungen gem. § 100 GO NRW), hier: Satzungsänderung - einstimmig beschlossen
+- TOP 31: Verlagerung der Reitanlage des Reit- und Fahrvereins 1876 Amelsbüren e. V. hier: städtische Baukostenförderung - mehrheitlich beschlossen
+- TOP 32: Neubau und Nutzung Bürgerbad Handorf - mehrheitlich beschlossen
+- TOP 33: Darstellung und Weiterentwicklung der öffentlich geförderten Beschäftigung (ögB) im Jobcenter der Stadt Münster - einstimmig beschlossen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Münster-West
+- TOP 34.1.1: Bebauungsplan Nr. 584 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.2: Stadtbezirk Münster-Hiltrup
+- TOP 34.2.1: Bebauungsplan Nr. 578 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 34.2.1.1: Bebauungsplan Nr. 578 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung
+- TOP 34.3: Stadtbezirk Münster-Ost
+- TOP 34.3.1: Bebauungsplan Nr. 561- Erweiterter Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 35: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien 2. Besetzung des künstlerischen Fachbeirates für den Kulturausschuss - einstimmig beschlossen
+- TOP 36: Umbesetzung im Beirat nach dem Landesnaturschutzgesetz - einstimmig geändert beschlossen
+- TOP 37: Entsendung von Arbeitnehmervertretern in den Aufsichtsrat der Westfälischen Landes-Eisenbahn GmbH - einstimmig beschlossen
+- TOP 38: Entsendung von Arbeitnehmervertretern in den Aufsichtsrat der Regionalverkehr Münsterland GmbH - einstimmig beschlossen
+- TOP 39: Abschiebungen nach Afghanistan - mehrheitlich beschlossen
+- TOP 40: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 40.1: Ehe für alle: Keine Gebühren bei der Umwandlung von Lebenspartnerschaften - zurückgezogen
+- TOP 40.2: Kita-Klagewiderspruch zurückziehen! - Eltern unterstützen und zusätzliche Plätze schaffen! - mehrheitlich abgelehnt
+- TOP 40.3: Resolution „Abschiebestopp nach Afghanistan“
+- TOP 41: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 41.1: Bewegung fördern: Vereinsungebundener Sport in Münster - verwiesen
+- TOP 41.2: KiTa-Platzvergabe - bestmögliche Unterstützung der Eltern sicherstellen - verwiesen
+- TOP 41.3: Benachteiligte Menschen nicht ausgrenzen – Schutzräume für die Betroffenen schaffen und die Verdrängung in benachbarte Wohnbereiche stoppen - verwiesen
+- TOP 41.4: Kita-Navigator verbessern und für Eltern verständlicher gestalten - verwiesen
+- TOP 41.5: Freiwillige Feuerwehr Münster fördern durch bezahlbares Wohnen für Einsatzkräfte - verwiesen
+- TOP 41.6: Emissionsfreien ÖPNV in Münster voranbringen - verwiesen
+- TOP 42: Verschiedenes
