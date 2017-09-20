@@ -1,0 +1,61 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-20T17:00:00+02:00
+- Ende: 2017-09-20T20:00:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13198
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13198
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300335.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300335.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300335.pdf
+
+## Tagesordnung
+
+- TOP 1: Zulassung eines Sachverständigen zu TOP 10 - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Genehmigung Niederschrfit - einstimmig beschlossen
+- TOP 6: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung (SOM V) - einstimmig beschlossen
+- TOP 9: Dringlichkeitsenscheidung 4. Int. Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 10: Bebauungsplan-Vorentwurf Nr. 06/006,Westfalenstraße 46-48,Verfahren gem. § 13a BauGB - einstimmig beschlossen
+- TOP 11: B-Plan-Verfahren Nr. 06/011 Airport City West - Beschlussvorlage § 3(1)-Beteiligung - einstimmig beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: KSP Schwietzkestraße (Masterplan) - einstimmig beschlossen
+- TOP 14: Anfrage SPD: Spielhallen Stadtbezirk 6 - beantwortet
+- TOP 15: Anfrage Fr. Schentek (CDU): Spielhallen Stadtbezirk 6 - beantwortet
+- TOP 16: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 17: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 18: Anfrage SPD: Fahrplan 701/U71 - zur Kenntnis genommen
+- TOP 19: Anfrage CDU, FDP, Bü90 Grüne: Grünflächenpflege im Stadtbezirk 6 - vertagt
+- TOP 20: Anfrage Bü90/Grüne und FDP: Straßenbahnkapazität 701 für 2018 - beantwortet
+- TOP 21: Anfrage Bü90/Grüne: Kita Davidstraße - zur Kenntnis genommen
+- TOP 22: Anfrage CDU: Straßenbahnlinie 701/U 71 - zur Kenntnis genommen
+- TOP 23: Anfrage CDU: Situation Mühlenbroich - Schausteller - vertagt
+- TOP 24: Anfrage Bü90/Grüne: Radwege-Meldung Fahrradabstellanlagen - beantwortet
+- TOP 25: Anfrage Helmke (Bü90/Grüne): Rather Korso Bezirksradnetz - beantwortet
+- TOP 26: Anfrage Helmke (Bü90/Grüne): Carsharing und Stellplätze für Elektrofahrzeuge - vertagt
+- TOP 27: Antrag SPD: Bank und Mülleimer Stadtbücherei Unterrath - einstimmig beschlossen
+- TOP 28: Antrag CDU: Bedarfsampel Bottroper Straße - einstimmig beschlossen
+- TOP 29: Interfr. Antrag: Busanbindung Heinrich-Heine-Gesamtschule - einstimmig beschlossen
+- TOP 30: Interfr. Antrag: Zebrastreifen An der Piwipp - einstimmig beschlossen
+- TOP 31: Antrag Bü90/Grüne: Bürgersteig Nördlicher Zubringer 15 - einstimmig beschlossen
+- TOP 32: Antrag Bü90/Grüne: Angebot Junges Schauspielhaus - mehrheitlich beschlossen
+- TOP 33: Antrag Bü90/Grüne: Radwegezuführung Theodorstraße/Am Hülserhof - einstimmig beschlossen
+- TOP 34: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 35: Zuschussvergabe 2017 - vertagt
+- TOP 36: Zuschussvergabe 2017 - zurückgezogen
+- TOP 37: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 38: Bauunterhaltungsmittel 2017 - einstimmig beschlossen
+- TOP 39: MdV - Lärmaktionsplan Rather Kreuzweg - zur Kenntnis genommen
+- TOP 40: MdV - Parkplätze Am Röttchen zum Unterrather Friedhof - zur Kenntnis genommen
+- TOP 41: MdV - Halteverbot Diezelweg - zur Kenntnis genommen
+- TOP 42: MdV - Reduzierung Höchstgeschwindigkeit Am Röttchen - zur Kenntnis genommen
+- TOP 43: MdV: Baumfällungen und Neupflanzungen Aaper Wald - zur Kenntnis genommen
+- TOP 44: MdV - Schulpflicht Oberhausener Straße/Mühlenbroich - zur Kenntnis genommen
