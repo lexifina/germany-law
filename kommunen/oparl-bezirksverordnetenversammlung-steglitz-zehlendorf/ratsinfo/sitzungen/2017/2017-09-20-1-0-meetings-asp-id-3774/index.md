@@ -1,0 +1,93 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-09-20T17:00:00+02:00
+- Ende: 2017-09-20T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3774
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3774
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Entschädigung, Schutz und Vorsorge bei Überflutungen - beantwortet
+- TOP 3.2: Sind Gäste im Rathaus Zehlendorf seit Einzug der AfD in die BVV nicht mehr sicher? - beantwortet
+- TOP 3.3: Steglitz-Zehlendorf auf dem Weg zur Fairtrade-Town - beantwortet
+- TOP 3.4: „Antifa“ und Die Linke in Steglitz-Zehlendorf - beantwortet
+- TOP 3.5: Wohn- und Grundstückseigentum des Bundes im Bezirk - beantwortet
+- TOP 3.6: Instandsetzung des Kreuzes Gedenkstätte 17. Juni Potsdamer Chaussee - beantwortet
+- TOP 3.7: Genehmigungen für den Umbau des Steglitzer Kreisels - beantwortet
+- TOP 3.8: Ryanair-Werbung im politischen Wahlkampf - beantwortet
+- TOP 3.9: Radweg oder Brachland in der Mühlenstraße? - schriftlich beantwortet
+- TOP 3.10: Grundstück Ostpreußendamm 31 Abenteuerspielplatz für Jugendliche oder endlich Wohnungen - schriftlich beantwortet
+- TOP 3.11: Nachnutzungskonzept des Denkmalbeirats für die Dahlemer Museen! - schriftlich beantwortet
+- TOP 3.12: Leerstand in der Undinestraße 4 und der Kommandantenstraße 92 endlich beenden! - schriftlich beantwortet
+- TOP 3.13: Keine Platzbenennung nach Richard Draemert möglich, oder nur nicht gewollt? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 4.1: Vorhabenbezogener Bebauungsplan 6–41VE (Wismarer Straße, Ostpreußendamm, Kleingarten „Eugen-Kleine-Brücke“) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungsplan 6–42 (Kleingartenkolonie „Eugen-Kleine-Brücke“) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Kooperation Zugló und Steglitz-Zehlendorf im Rahmen des Programms "Europe for Citizens" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Auf dem Weg zum Gender Budgeting - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Entsiegelung des Platzes des 4. Juli - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: „Schmuddelplätzchen“ aufräumen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Arbeit am Schulentwicklungsplan jetzt beginnen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Besuchern der BVV-Sitzungen die nötige Wertschätzung entgegenbringen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Parks Range: Bürger kontinuierlich informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Dringend notwendige Sanierung des Fahrradweges Kaiser-Wilhelm-Straße zwischen Zietenstraße und Seydlitzstraße in Richtung Lankwitz Kirche - in der BVV abgelehnt
+- TOP 4.11: Waldfriedhof Zehlendorf pflegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Spielende Kinder auf Spielplätzen besser schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Wiedereinführung des Wochenmarktes am Steglitzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Bessere Sicht S-Bahnhof Sundgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: U-Bahnhof Schloßstraße barrierefrei machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Weitergehende Hilfestellung für Menschen ohne Wohnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Mehr Volkshochschule für alle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Gedenkveranstaltung des Bezirks zu üblichen Tageszeiten ansetzen! - in der BVV abgelehnt
+- TOP 4.19: Aufzug S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Berufung von beratenden Mitgliedern als Vertreter/innen und Stellvertreter/innen sachverwandter Bereiche im Jugendhilfeausschuss für die V. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Kein Einschreiten gegen unerträglichen Lärm? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.1: Unabhängiges Verkehrsgutachten für Lichterfelde-Süd - überwiesen
+- TOP 5.2: Finanzierung zweiter Bücherbus als E-Bus - überwiesen
+- TOP 5.3: Clayallee: Bausubstanz schützen und Regressforderungen von Bürgern verhindern - überwiesen
+- TOP 5.4: Schwänzer - überwiesen
+- TOP 5.5: Ein Reichtumsbericht für Steglitz-Zehlendorf - überwiesen
+- TOP 5.6: Einschränkungen der Moltkebrücke-Sperrung minimieren - überwiesen
+- TOP 5.7: Instandsetzung des Kriegerdenkmals im Gemeindepark Lankwitz - überwiesen
+- TOP 5.8: Nahverkehr - überwiesen
+- TOP 5.9: Kostengünstig neue Radwege und gleichzeitig sicherere Gehwege im Bezirk möglich? - überwiesen
+- TOP 5.10: Parken in Wannsee - überwiesen
+- TOP 5.11: Schilder des Städtepartnerschaftsprogramms erneuern - überwiesen
+- TOP 5.12: Gedenktafel für Hugo Heymann an der Dienstvilla des Bundespräsidenten in der Pücklerstraße 14 - überwiesen
+- TOP 5.13: Toilette Onkel Toms Hütte - überwiesen
+- TOP 5.14: Radwege mit Gebotsschild sichern - überwiesen
+- TOP 5.15: Verkehrssicherheit in der Goerzallee erhöhen - überwiesen
+- TOP 5.16: Umstellung Ordnungsamt - Dienstwagen auf E-Mobilität - überwiesen
+- TOP 5.17: Mit dem ‚Antifa-Engagement‘ könnte der USA-Trip schnell passé sein - überwiesen
+- TOP 5.18: Querung der Königsberger Straße erleichtern - überwiesen
+- TOP 5.19: Fürsorgepflicht: Selbstverteidigungskurse für Mitarbeiter des Sozialamtes - überwiesen
+- TOP 5.20: Parkregelung in der Drakestraße - überwiesen
+- TOP 5.21: Steglitz-Zehlendorf macht sich stark für das Schlosspark-Theater - überwiesen
+- TOP 5.22: Halteverbot am Händelplatz - überwiesen
+- TOP 5.23: Neues Wohngebiet an der Goerzallee auch am Wochenende anbinden - überwiesen
+- TOP 5.24: Illegale Nutzung des „Platz des 4. Juli“ kurzfristig unterbinden - überwiesen
+- TOP 5.25: „Badezimmer auf Rädern“ auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.26: Parkplatz Conradschule entwässern - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Vorlage zur Beschlussfassung und dringl. Beschlussempfehlung von Ausschüssen - erledigt
+- TOP 6.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2018 und 2019 (Doppelhaushaltsplan 2018/19) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Märkte vor dem Aus? - beantwortet
+- TOP 7.2: Auswirkungen Modernisierungen - vertagt
+- TOP 8: Anträge - vertagt
+- TOP 8.1: Deutschland- und Europafahne auch in Steglitz-Zehlendorf! - vertagt
+- TOP 8.2: Sonderausschuss „Entwicklung und Pflege des Grunewald-Seengebietes“ einsetzen - vertagt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - vertagt
+- TOP 9.1: E-Government im Bezirk Steglitz-Zehlendorf - vertagt
+- TOP 9.2: Pause während BVV-Sitzungen - vertagt
+- TOP 9.3: Zusätzliche Müllbehälter im öffentlichen Straßenland im Bereich Borstell- und Stephanstraße - vertagt
+- TOP 9.4: Pflegeintervalle bei den Spielplätzen erhöhen - vertagt
