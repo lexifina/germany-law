@@ -1,0 +1,66 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-09-20T17:06:00+02:00
+- Ende: 2017-09-20T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10525
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10525
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00410712.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Bearbeitungsstand der Ratsanträge - 2. Halbjahr 2017 - zur Kenntnis genommen
+- TOP 3: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 4: Ausstattung der innerstädtischen Kreisverkehrsplätze mit Fußgängerüberwegen - von der Tagesordnung abgesetzt
+- TOP 5: Jahresabschlüsse von Gesellschaften für das Jahr 2016
+- TOP 5.1: Jahresabschluss 2016 der Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 5.2: Jahresabschluss 2016 der Wohn+Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 5.3: Jahresabschluss 2016 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 5.4: Jahresabschluss 2016 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - mehrheitlich beschlossen
+- TOP 5.5: Jahresabschluss 2016 der GML Gewerbepark Münster-Loddenheide (GML GmbH) - einstimmig beschlossen
+- TOP 6: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2016 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr 2016 und Rückgewährung - einstimmig beschlossen
+- TOP 7: Beantragung und Bewilligung von Zuwendungsmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2017 - einstimmig beschlossen
+- TOP 8: Erweiterung des Schulzentrums Kinderhaus - Neubau einer 2-zügigen Grundschule mit Mensa - einstimmig beschlossen
+- TOP 8.1: Erweiterung des Schulzentrums Kinderhaus - Neubau einer 2-zügigen Grundschule mit Mensa
+- TOP 9: Kosten für die Abfallentsorgung bei Menschen, die auf Grund einer Behinderung oder auf Grund von gesundheitlichen Einschränkungen einen erhöhten Bedarf an Windeln haben, - verwiesen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Gleichstellung in politischen Gremien Antrag der SPD-Fraktion an den Rat Nr. A-R/0042/2016 „Gleichstellung in Ratsgremien einschließlich Aufsichtsräten umsetzen“ - ohne Beschlussfassung geschoben
+- TOP 11: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 11.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 12: Absicherung von zentralen öffentlichen Veranstaltungsflächen und von Plätzen besonderer Bedeutung durch Polleranlagen - ohne Beschlussfassung geschoben
+- TOP 13: Satzung zur Umstellung von Gebührenerhebung auf privatrechtliche Entgelterhebung bei der Veranstaltung von Wochenmärkten und Volksfesten durch die Stadt Münster (Entgelterhebungssatzung im Send- und Marktwesen) - einstimmig beschlossen
+- TOP 14: Neufassung der Gebührensatzung für den Rettungsdienst der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 15: Zukünftige Entwicklung der Westfälische Bauindustrie GmbH (WBI GmbH) - ohne Beschlussfassung geschoben
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Haushaltsplan 2017 - ohne Beschlussfassung geschoben
+- TOP 18: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2017 - zur Kenntnis genommen
+- TOP 19: Übernahme einer Ausfallbürgschaft für die Eigentümergemeinschaft "Altenwohnungen am Klarastift"/Kommunale Stiftungen - einstimmig beschlossen
+- TOP 20: Verwendung der Fördermittel nach § 11 Abs. 2 und § 11a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG NRW) für das Jahr 2015 - zur Kenntnis genommen
+- TOP 21: Verwendung der Fördermittel nach § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG NRW) für das Jahr 2016 - zur Kenntnis genommen
+- TOP 22: Dauerhafte Fortführung des Verkehrssicherheitsprogramms - ohne Beschlussfassung geschoben
+- TOP 22.1: Dauerhafte Fortführung des Verkehrssicherheitsprogramms
+- TOP 23: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Petersheide in Wolbeck, Stadtbezirk Südost - einstimmig beschlossen
+- TOP 24: Dauerhafte Erweiterung des Evangelischen Claudius-Kindergartens, Wierling 31, Münster-Albachten, Bezirk West - einstimmig beschlossen
+- TOP 25: Abschiebungen nach Afghanistan - ohne Beschlussfassung geschoben
+- TOP 26: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2017 - 2020 - einstimmig beschlossen
+- TOP 27: Zukünftige Form der Hüfferstiftung: - Auflösung der rechtlich unselbstständigen Treuhandstiftung - Übernahme des Vermögens und des Stiftungszwecks durch die Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 28: Kommunale Stiftungen / Geänderte Wirtschaftspläne für das Jahr 2017 - einstimmig beschlossen
+- TOP 29: Satzungen der kommunalen Stiftungen (örtliche Stiftungen gem. § 100 GO NRW), hier: Satzungsänderung - einstimmig beschlossen
+- TOP 30: Verlagerung der Reitanlage des Reit- und Fahrvereins 1876 Amelsbüren e. V. hier: städtische Baukostenförderung - mehrheitlich beschlossen
+- TOP 31: Neubau und Nutzung Bürgerbad Handorf - mehrheitlich beschlossen
+- TOP 32: Darstellung und Weiterentwicklung der öffentlich geförderten Beschäftigung (ögB) im Jobcenter der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 33: Bauleitplanung
+- TOP 33.1: Stadtbezirk West
+- TOP 33.1.1: Bebauungsplan Nr. 584 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 33.2: Stadtbezirk Hiltrup
+- TOP 33.2.1: Bebauungsplan Nr. 578 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 33.2.1.1: Bebauungsplan Nr. 578 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung
+- TOP 33.3: Stadtbezirk Ost
+- TOP 33.3.1: Bebauungsplan Nr. 561- Erweiterter Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 34: Verschiedenes
