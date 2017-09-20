@@ -1,0 +1,215 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-09-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264422
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264422
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 4.: Bürgeranliegen
+- TOP 1.4.: Erweiterung einer bestehenden Freischankfläche: "Noel Cafe", Metzstr. 8
+- TOP 1.5.: Errichten einer Freischankfläche: Firma Tchibo, Weißenburger Str. 19
+- TOP 1.6.: Antrag für eine Freischankfläche: Cafe "Etoile", Grillparzerstr. 27
+- TOP 1.7.: Antrag für einen mobilen Fahrradständer: Robert Niemuth Weißenburger Apotheke, Weißenburger Str. 19
+- TOP 1.8.: Antrag für eine Freischankfläche: Kontakt und Beratung Haidhausen (Kid) e.V., Balanstr. 12
+- TOP 2.1.: Balanstr. 49: Haus C, EG und 1. OG: Änderung der Fluchtwegsituation einer Büroeinheit mit neuer Raumaufteilung
+- TOP 2.2.: Orleansstr. 44 - 48: Erweiterungsbau, Aufstockung und Modernisierung der Berufsschulen, FOS und BOS - Vorbescheid Variante Neubau
+- TOP 2.3.: Bereiteranger 11 a: Neubau eines Wohngebäudes mit Gewerbeeinheit, Vorbescheid
+- TOP 2.4.: Pütrichstr. 7: Abbruch und Neubau eines Rückgebäudes als Einfamilienhaus
+- TOP 2.5.: Untere Feldstr. 9: Neubau eines Einfamilienhauses mit Garage, Tektur
+- TOP 2.6.: Grillparzerstr. 46: Nutzungsänderung: Lagerfläche im Zwischengeschoss zu temporärer Bürofläche des Ladens
+- TOP 2.7.: Rosenheimer Str. 101: Nutzungsänderung im UG (Eingangsgeschoss) und KG von Büros zu Wohnungen
+- TOP 2.8.: Rosenheimer Str. 111: Anbau eines Nebenraums
+- TOP 2.9.: Welfenstraße: Neubau eines Wohnhauses (44 WE) mit Gaststätte, Baugebiet 3, Haus 1; Tektur
+- TOP 2.10.: Einsteinstr. 111, Umbau und Sanierung eines Wohn- und Geschäftshauses (Aktualisierung der Brandschutzmaßnamen, Errichtung einer behindertengerechten Aufzugsanlage, Ausbau und Erweiterung des Dachgeschosses im Vordergebäude mit behindertengerechtem Ausbau, Aufstockung des Seitengebäudes um eine Maisonettewohnung, Anbau von Balkonen) - Tektur
+- TOP 2.11.: Elsässer Str. 32, Ausbau eines Speicherraums im DG des Vordergebäudes als Erweiterung der Wohnung 14, Errichtung einer Dachterrasse und einer Gaube
+- TOP 3.2.: Broschüre Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021
+- TOP 3.6.: Wie geht es weiter mit der temporären Bushaltestelle vor dem Berufsschulzentrum ? Anfrage (siehe auch A 8.1.1)
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Planungen Immobilie Gallmayerstr. 9; Aufhebung der Einbahnregelung für die Bazeillestraße
+- TOP 4.2.2.: Tempo 30 auf der Rosenheimer Straße
+- TOP 4.2.3.: Parksituation in Haidhausen
+- TOP 4.2.4.: Geschwindigkeitsbegrenzung Rosenheimer Straße / Balanstraße / Rablstraße
+- TOP 5.1.: Ausbau des Umweltverbundes in Au-Haidhausen Vertagung aus der Sitzung vom 19.07.2017
+- TOP 5.2.: Anfrage: Auswirkungen des neuen Glückspielstaatsvertrages in Au-Haidhausen
+- TOP 5.3.: Wiederherstellung der Verkehrssicherheit im Wilhelm-Herbert-Weg
+- TOP 5.4.: Elektronische Geschwindigkeitsüberwachung der Rosenheimer Straße
+- TOP 5.5.: Informationen über den Stand der Planungen zum 2. S-Bahn-Tunnel
+- TOP 5.6.: Information über die Umsetzung und Beachtung des Tempolimits
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Anschaffung von Haushaltsgegenständen siehe auch Unterausschuss Arbeit und Wirtschaft
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Initiative Studienensembles Konzert am 22.02.2018 Behandlung im UA Kultur und UA Arbeit und Wirtschaft
+- TOP 6.2.1.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund: Bücher Lentner, Balanstr. 14 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.2.2.: Erweiterung einer bestehenden Freischankfläche: "Noel Cafe", Metzstr. 8 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.2.3.: Errichten einer Freischankfläche: Firma Tchibo, Weißenburger Str. 19 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.2.4.: Antrag für eine Freischankfläche: Cafe "Etoile", Grillparzerstr. 27 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.2.5.: Antrag für einen mobilen Fahrradständer: Robert Niemuth Weißenburger Apotheke, Weißenburger Str. 29 siehe auch UA Arbeit und Wirtschaft
+- TOP 6.2.6.: Antrag für eine Freischankfläche: Kontakt und Beratung Haidhausen (Kid) e.V., Balanstr. 12 siehe auch UA Arbeit und Wirtschaft
+- TOP 7.1.: Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung
+- TOP 7.2.: Bezirksausschuss-Infokästen für die Au Empfehlung Nr. 14-20 / E 01640 der Bürgerversammlung vom 29.06.2017
+- TOP 8.1.1.: Wie geht es weiter mit der temporären Bushaltestelle vor dem Berufsschulzentrum ?
+- TOP 8.1.2.: Zusatz für Fahrtzielanzeiger (ÖPNV) während der Auer Dult
+- TOP 8.1.3.: Mitnutzung des öffentlichen Spielplatzes an der Ernst-Reuter-Straße durch die Grundschule an der Ernst-Reuter-Straße
+- TOP 8.1.4.: Änderung der Sondernutzungsrichtlinien: Keine Anrechnung des Randsteins bei der Restgehwegbreite
+- TOP 8.1.5.: Im Zuge der Erneuerung von Eisenbahnüberführungen auch den parallel dazu führenden Geh- und Radwege berücksichtigen
+- TOP 8.1.6.: Baumgräben schützen
+- TOP 8.1.7.: Rechts vor links in der Balanstraße
+- TOP 8.1.8.: 2. S-Bahn-Stammstrecke - Lärmschutzwände künstlerisch gestalten
+- TOP 8.1.9.: Maxwerk (VI) - Aufwendungen für Investitionen in den Denkmalschutz Anfrage
+- TOP 8.1.10.: Maxwerk (VII) - Modalitäten Ausschreibungsverfahren
+- TOP 8.1.11.: Rosenheimer Straße II: Emissionsmessungen
+- TOP 8.1.12.: Umsetzung der Ziele des Bürgerbegehrens "Sauba Sog I" auch in Au-Haidhausen
+- TOP 8.1.13.: Radstellplätze vor dem TSV München-Ost
+- TOP 8.1.14.: Anfrage Budgeterhöhung
+- TOP 8.1.15.: Umgehender Beginn der Planung für den S-Bahn-Ausbau des Südrings
+- TOP 8.1.16.: Betreff: Radschnellweg links der Isar Förderantrag stellen und umgehende Realisierung
+- TOP 8.1.17.: Wenn schon Verkehrsüberwachung am Genoveva-Schauer-Platz, dann auch zu der richtigen Zeit
+- TOP 8.1.18.: Parkplatzregelung Preysingplatz
+- TOP 8.1.19.: Sofortige Überprüfung und Korrektur der Ampelschaltungen im Bereich Schlossstraße / Einsteinstraße Nähe Straßenbahnhaltestelle Linie 25 stadtauswärts
+- TOP 8.1.20.: Betreff: Die Oberfläche von Tischtennisplatten nachbearbeiten
+- TOP 8.2.1.: Ausweitung des kommunalen Vorkaufsrechts der Landeshauptstadt München BA-Antrag Nr. 14-20 / B 03293 Fristverlängerung bis 31.12.2017
+- TOP 8.2.2.: Kommunales Bildungsmanagement auch für den Stadtbezirk 5 Au-Haidhausen ? Schreiben BA 5 vom 06.03.2017
+- TOP 8.2.3.: Fahrradständer im Außenbereich des Einstein 28 Schreiben BA 5 vom 30.06.2017
+- TOP 8.2.4.: Wettbewerb für Umgestaltung des Orleansplatzes BA-Antrag Nt. 08-14 / B 02477 Fristverlängerung bis 31.12.2017
+- TOP 8.2.5.: Gleisanlagen für den Autoreisezug am Ostbahnhof Schreiben BA 5 vom 12.01.2015
+- TOP 8.2.6.: Nochmaliger Einbau von Messgeräten im Keller des Anwesens Hochstr. 63 Schreiben BA 5 vom 28.06.2017
+- TOP 8.2.7.: Schadstoffe, Altlasten durch die Großbaustelle in der Welfenstraße Schreiben BA 5 vom 17.07.2017
+- TOP 8.2.8.: Serviceangebot für Radfahrer am Isarradweg BA-Antrag Nr. 14-20 / B 00413 Fristverlängerung bis 31.12.2017
+- TOP 8.2.9.: Einrichtung einer Fahrradstraße in der Balanstraße Empfehlung Nr. 14-20 / E 00356 der Bürgerversammlung vom 05.03.2016 Entscheidung durch den Oberbürgermeister
+- TOP 8.2.10.: Beendigung der Verpachtung öffentlichen Grundes (ehemaliger Biergarten der Gaststätte "Huterer", Grütznerstraße) Fristverlängerung bis 31.09.2018
+- TOP 8.2.11.: Bitte um Durchführung von Schallschutzmaßnahmen am Turm der Mariahilfkirche; Schreiben des Referats für Gesundheit und Umwelt vom 31.08.2017
+- TOP 8.2.12.: Fahrbahnbelag Steinstraße / Genoveva-Schauer-Platz; Schreiben des Baureferats vom 22.08.2017
+- TOP 8.3.1.: Anfrage Schadensersatz (2. S-Bahn Stammstrecke)
+- TOP 8.3.2.: Radlständer in der Weißenburger Straße
+- TOP 8.3.3.: Bekanntgabe der Wahlvorschläge in den Wahlkreisen 217-220 für die Wahl zum Deutschen Bundestag am 24.09.2017
+- TOP 8.3.4.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt" 2018 Frist zur Abgabe im Referat für Stadtplanung und Bauordnung: 31.12.2017
+- TOP 8.3.5.: Anfrage des Kreisverwaltungsreferats zur geplanten Vollsperrung für die Baumaßnahme Wolfgangstr. 9 – 11: Vorabzustimmung durch die Vorsitzende aus Fristgründen
+- TOP 8.3.6.: BürgerInnen-Information und -Beteiligung stärken; Internetseiten des BA der "Internet-Gegenwart" anpassen; Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Weißenburger Platz 2: Fällung von 1 Holunder
+- TOP 7.2.: Enzensperger Str. 3: Fällung von 1 Esche Vertagung aus der Sitzung vom 19.07.2017
+- TOP 7.3.: Entenbachstr. 11: Fällung von 2 Ahorn und 1 Esche Vertagung aus der Sitzung vom 19.07.2017
+- TOP 7.4.: Kirchenstr. 37: Fällung von 1 Fichte, Baumveränderung an 1 Winterlinde
+- TOP 7.5.: Rücknahme Fällantrag Zeppelinstr. 63
+- TOP 7.6.: Gefahrenbaumfällung Pariser Str. 33
+- TOP 7.7.: Steinstr. 25: Fällung einer Esche
+- TOP 7.8.: Kirchenstr. 95: Fällung von 4 Bäume
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Temporäre Kunst im öffentlichen Raum: Kunstprojekt "Konsum Werte Madonna und drei freie Frauen" am 06.10.2017 am Wiener Platz
+- TOP II.2.: Temporäre Kunst im öffentlichen Raum: Kunstprojekt "CORPS IN SITU IN CITY" an der Ludwigsbrücke, dem Vater Rhein-Brunnen und dem Brunnen am Weißenburger Platz vom 29.08.-23.10.2017
+- TOP II.3.: Temporäre Kunst im öffentlichen Raum: Kunstprojekt "Couch Projekt" an verschiedenen Orten in Au-Haidhausen vom 08.09.-11.09.2017
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schulwegsicherheit an der Ernst-Reuter-Grundschule rund um die Kreuzung Grillparzerstr. / Einsteinstr. nach Fertigstellung des Altenheims
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Aktueller Stand zur KITA Mariahilfplatz
+- TOP 3.2.: Fehlende Betreuungsplätze für Schulkinder der Grundschule an der Bazeillesstraße Antwortschreiben RBS
+- TOP 3.3.: Bolzplatz an der Flurstraße Antwortschreiben Baureferat
+- TOP 3.4.: REGSAM Schwerpunktgebiete ab 2017
+- TOP 3.5.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juli 2017
+- TOP 3.6.: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen, hier: Haus für Kinder an der Versailler Str. 18 d
+- TOP 3.7.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 4.1.: Unterstützungsschrieben für geplantes Projekt von "Human Perspective"
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Anschaffung von Haushaltsgegenständen
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Initiative Studienensembles Konzert am 22.02.2018
+- TOP 1.3.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund: Bücher Lentner, Balanstr. 14
+- TOP 2.: Anhörungen
+- TOP 2.1.: Aktion "Play me, I&#039;m yours" vom 31.08.-18.09.2017 am Gasteig, Wiener Platz und Maximilianeum Vorabzustimmung durch die Vorsitzenden aus Fristgründen
+- TOP 2.2.: Aktion "Kronkorken-Challenge und Müllkippe" vom 02.09-30.09.2017 an den Treppen zur Isar an der Reichenbachbrücke Vorabzustimmung durch die Vorsitzenden aus Fristgründen
+- TOP 2.3.: Isarinselfest 2017 vom 01.-03.09.2017 zwischen Ludwigs- und Maximiliansbrücke Vorabzustimmung durch die Vorsitzenden aus Fristgründen
+- TOP 2.4.: München Marathon am 08.10.2017 zwischen Rosenheimer Straße und Ludwigsbrücke
+- TOP 2.5.: Standortkonzept Bürgerbüros
+- TOP 2.6.: Antrag auf eine Abstellfläche für Fahrräder zum Verleih oder für Stadtführungen am Orleansplatz
+- TOP 2.7.: Rosenheimer Str. 103: Nutzungsänderung Ladenfläche zu Gaststätte
+- TOP 2.8.: Jazz und Band im Rahmen von "Play me, I&#039;m yours" am 12.09.2017 am Wiener Platz Vorabzustimmung durch die Vorsitzende aus Fristgründen
+- TOP 2.9.: Laternenfest des Kindergarten Fischstäbchen e.V. in den Frühlingsanlagen, Claude-Lorrain-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zuwendung aus dem Budget des BA 5: - Broschüre "Auer/Haidhauser Journal", Abrechnung - Kurzbericht und Abrechnung zum Bewegungs- und Kreativprojekt des Projekt-Ladens International Haidhausen - Kurzbericht über den Spielmobileinsatz 2017 von Spielen in der Stadt e.V. - Verwendungsnachweis für den AGKJ mit dem Stand auf dem Haidhauser Kultursonntag - Verwendungsnachweis des Kulturlust e.V. für die Radl-Aktion - Verwendungsnachweis des Spielen in der Stadt e.V. für das Baumobil - Verwendungsnachweis des trugschluss e. V. für das Konzertprojekt "tingel tangel fahrt m.k."
+- TOP 3.2.: (U) Stadtbezirksbudget für München; Pauschale für Mieten und Tagungstechnik für die Bezirksausschüsse
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
+- TOP 3.3.: Behandlung des Bauvorhabens Falkenstr. 11 in der Stadtgestaltungskommission Schreiben BA 5 vom 02.08.2017
+- TOP 3.4.: Neue Orientierungswerte zur Grün- und Freiflächenversorgung Sitzungsvorlagen Nr. 14-20 V / 09119, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.2017 siehe auch UA GUV
+- TOP 3.5.: Einsteinstr. 165: Nutzungsänderung Gewerberaum zu Großtagespflege für max. 10 Kinder (Abdruck Baugenehmigung)
+- TOP 3.6.: Am Neudeck 10: Vollzug der Wassergesetze - beschränkte Erlaubnis BA-Antrag Nr. 14-20 / B 03904
+- TOP 3.7.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 3.8.: Am Neudeck 10, ehemalige JVA BA-Antrag Nr. 14-20 / B 03905
+- TOP 3.9.: Demografiebericht München Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 3.10.: Bebauungsplan mit Grünordnung Nr. 2061 Rosenheimer Straße (nördlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingstraße (westlich), Mühldorfstraße (südlich) und Friedenstraße (östlich) Aufhebung gemäß § 173 Abs. 3 Bundesbaugesetz
+- TOP 3.11.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München Sitzungsvorlagen Nr. 14-20 / V 09440, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017
+- TOP 3.12.: Bebauungsdichte erhöhen und Wohnraum schaffen durch Aufstockungen Sitzungsvorlagen Nr. 14-20 / V 06189, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017
+- TOP 3.13.: (U) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/17 Rosenheimer Straße (nordwestlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingstraße (westlich), Mühldorfstraße (südwestlich) und Friedenstraße (südöstlich) - Endgültiger Beschluss - Stadtbezirk 14 Berg am Laim
+- TOP 3.14.: Regelungen / Standards im Wohnungsbau Sitzungsvorlagen Nr. 14-20 / V 08589, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017
+- TOP 3.15.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015 Sitzungsvorlagen Nr. 14-20 / V 09796, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Beschlussentwurf Parkraummanagement in München - Fortschreibung Sektor V Sitzungsvorlagen-Nr. 14 - 20 / V 08574
+- TOP 2.2.: Fuß- und Radwegbrücke am Giesinger Berg Sachstandsbericht und weiteres Vorgehen Anhörung der betroffenen Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung
+- TOP 2.3.: Errichtung eines Wertstoffcontainerstandortes am Haidenauplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung siehe auch UA Planung
+- TOP 3.2.: Abfallvermeidungskonzept 2017 Sitzungsvorlagen Nr. 14-20 / V 08731, Beschluss der Vollversammlung des Stadtrats vom 28.06.2017
+- TOP 3.3.: Sicherheit im Verkehr - verkehrsberuhigter Bereich Lothringer Straße Schreiben BA 5 vom 03.08.2017, Antwort des KVR vom 14.08.2017
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (E) Einrichtung einer Fahrradstraße in der Balanstraße zwischen Orleansstraße und Rosenheimer Straße bzw. Installation eines Schutzbügels
+- TOP 3.7.: Ausnahmezulassung zum Rückbau einer Verkehrsinsel sowie Herstellung einer provisorischen Fahrbahn im Zuge des Projektes "Verbesserung der Radwegsituation" Rosenheimer Straße
+- TOP 3.8.: Vorschläge zur Überprüfung von drei Ampelanlagen / Vorschläge um Haidhausen fußgängerfreundlicher zu machen
+- TOP 3.9.: Spuraufteilung am Haidenauplatz (Stellungnahme Kreisverwaltungsreferat sowie mehrere Bürgerschreiben)
+- TOP C: Verschiedenes und Termine
+- TOP C.1.: Kooperationsplattform "Alfresco"; Anhörungsschreiben zu Technikpauschale und elektronischer Ladung
+- TOP 2.1.: UA Soziales 09.10.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 09.10.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 10.10.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 11.10.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 12.10.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 18.10.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Mittwoch, 04.10.2017, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Wahl der Seniorenvertretung 2017 - Vorstellung der Kandidaten am 27.09.2017 Schreiben BA 5 vom 04.07.2017
+- TOP 4.2.: Beschleunigter Breitbandausbau der Nahbereiche in München durch die Deutsche Telekom Vorankündigung einer Einladung zur Informationsveranstaltung für alle Bezirksausschüsse in der Woche vom 25.-29.09.2017
+- TOP 4.3.: Dokumentation der Regionalen Wohnungsbaukonferenz 2017 / Einladung zur nächsten Konferenz am 17.10.2018
+- TOP 4.4.: Einladung zur Jubiläumsfeier des Hauses an der Pilgersheimer Straße am 27.09.2017 um 10 Uhr
+- TOP 4.5.: Einladung zur Ausstellungseröffnung: 30 Jahre Eigenarbeit - Die Geschichte der offenen Werkstätten
+- TOP 4.6.: Vernissage Galerie 90, Gesagt - getan: Sprüche ins Bild gerückt
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Einladung zur 100-Jahr-Feier der Taxi-München eG am 17.11.2017 18:30 Uhr im Kohlebunker, Lilienthalallee 37
+- TOP 4.9.: Einwohnerversammlung „Umgestaltung Schornstraße“ am 28.09.2017 19:00 Uhr im Bavaria Tonstudio, Schornstraße 13
