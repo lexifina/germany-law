@@ -1,0 +1,59 @@
+# 7. öffentliche Sitzung des Ausschusses für Umwelt, Naturschutz, Tiefbau, Landschaftsplanung und Bürgerbeteiligung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-09-21T17:30:00+02:00
+- Ende: 2017-09-21T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=60
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3786
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3786
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 20.07.2017 - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Parks Range I – Grüne Mitte sichern – Naherholung ermöglichen - im Ausschuss abgelehnt
+- TOP 3.2: Blindengerechte Bürgersteige - im Ausschuss abgelehnt
+- TOP 3.3: Fußgängerüberweg Steglitzer Damm in Höhe Buhrowstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.4: Zebrastreifen Bolchener/ Sundgauer Straße sicherer machen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.5: Mehr Sicherheit vor dem Kindergarten der Stephanus-Kirchengemeinde in der Mühlenstraße/ Sundgauer Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.6: Sauberer Kiez um den S-Bahnhof Sundgauer Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.7: Radweg Bismarckstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.8: Entwurzelten Baumstumpf auf Indianerspielplatz in Lankwitz entfernen - im Ausschuss abgelehnt
+- TOP 3.9: Parkbänke erneuern - im Ausschuss abgelehnt
+- TOP 3.10: Spielplätze sicherer machen: Altersbeschränkung - im Ausschuss abgelehnt
+- TOP 3.11: Zweiter Eingang für den Friedhof Lankwitz - vertagt
+- TOP 3.12: Auf Orientierungsnummern hinweisen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.13: Mehr attraktive Grillflächen in Steglitz-Zehlendorf - im Ausschuss abgelehnt
+- TOP 3.14: Uhr am Kulturkiosk in Zehlendorf „zeitgemäß“ in Gang setzen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.15: Umzäunung für den Feuerlöschteich der Thermometersiedlung - vertagt
+- TOP 3.16: Straßeninstandsetzungsprogramm für den Ostpreußendamm - oder besser noch KURZFRISTIGE Sanierung des Straßenzuges! - mit Änderungen im Ausschuss beschlossen
+- TOP 3.17: Beleuchtung im Stadtpark Steglitz - mit Änderungen im Ausschuss beschlossen
+- TOP 3.18: Handlauf an der Treppe zur Brettnacher Straße erneuern - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.19: Defekte Gehwege sind gefährliche Stolperstellen und müssen repariert werden! - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.20: Pflegeintervalle bei den Spielplätzen erhöhen Teil II - mit Änderungen im Ausschuss beschlossen
+- TOP 3.21: Neue Sitzbank vor dem S-Bahnhof Lankwitz - vertagt
+- TOP 3.22: Schwarz auf Schwarz und Weiß auf Weiß ist unlesbar - vertagt
+- TOP 3.23: Europa und Partnerstadtsschild auf der Potsdamer Chaussee - vertagt
+- TOP 3.24: City Tree beschaffen und aufstellen - vertagt
+- TOP 3.25: Fahrradständer am S-Bahnhof Botanischer Garten - vertagt
+- TOP 3.26: Gartenstraße als Sackgasse - vertagt
+- TOP 3.27: Kein Durchgangsverkehr vom Teltower Damm zum „Postplatz“ - vertagt
+- TOP 3.28: Neue Schilder am Hubschrauberlandeplatz - vertagt
+- TOP 3.29: Fahrradladestationen an S- und U-Bahnhöfen und an touristisch interessanten Stellen des Bezirks Steglitz-Zehlendorf - vertagt
+- TOP 3.30: Knesebeckbrücke für alle Verkehrsteilnehmer! - vertagt
+- TOP 3.31: Kostengünstige Abwasserabfuhr für Kleingartenanlagen sicherstellen! - vertagt
+- TOP 3.32: Drittmittel für den Sportplatz Sachtlebenstraße - vertagt
+- TOP 3.33: Wildwuchs an der Hauptstraße beseitigen - vertagt
+- TOP 3.34: Parkbänke Steglitzer Park - vertagt
+- TOP 3.35: Fahrradwracks am S-Bahnhof Feuerbachstraße - vertagt
+- TOP 3.36: Mehr Fahrradbügel vor S-Bahn Feuerbachstraße - vertagt
+- TOP 3.37: Fußgängerüberquerung der Prinz-Friedrich-Leopold-Str. - vertagt
+- TOP 3.38: Parksituation Wannseebadweg in Höhe des Strandbades - vertagt
+- TOP 3.39: Botanischen Garten retten! - vertagt
+- TOP 3.40: Weitere Immissionsmessstationen in Steglitz-Zehlendorf - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
