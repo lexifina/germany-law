@@ -1,0 +1,6 @@
+# TOP 2: Festlegung des Prüfungsumfanges
+
+- Sitzung: Sitzung des Rechnungsprüfungsausschusses des Ortsgemeinderates der Ortsgemeinde Girod (2017-09-21)
+- Körperschaft: Ortsgemeinde Girod
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2017-06RPA-0%7CPUoe%7C1
