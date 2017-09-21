@@ -1,0 +1,104 @@
+# 24. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-21T17:00:00+02:00
+- Ende: 2017-09-21T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17145
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17145
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Zustand der Haltestelle Geldernstraße/Parkgürtel
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Bewegungsmöglichkeiten für ein E-Mobil" (AZ.: 02-1600-218/16) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstand Riehler Plätzchen - Kenntnis genommen
+- TOP 7.1.2: Verkehrsspiegel an viel befahrenen Kreuzungen, um Radfahrer im sogenannten "Toten Winkel" erkennbar zu machen - Kenntnis genommen
+- TOP 7.1.3: Sicherheit in Longerich - Kenntnis genommen
+- TOP 7.1.4: Schulwegsicherung in der Nibelungenstraße - Kenntnis genommen
+- TOP 7.1.5: Verzögerung beim Start des online gestützten Vormerk- und Anmeldeverfahren "Little Bird" für Kitas in Köln - Kenntnis genommen
+- TOP 7.1.6: Kriminalitätsentwicklung im Bezirk Nippes - Kenntnis genommen
+- TOP 7.1.7: Wiederherstellung des Kirchenplatzes von Hl. Kreuz an der Kapuzinerstraße - Anfrage (AN/1572/2015) der SPD-Fraktion - - Kenntnis genommen
+- TOP 7.1.8: Ladesäule im Bilderstöckchen - AN/0737/2017 - Kenntnis genommen
+- TOP 7.1.9: Klimaschutz durch Fassadenbegrünung (AN/0704/2017) - Kenntnis genommen
+- TOP 7.1.10: Verkehrssicherheit für Fußgänger in Bilderstöckchen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Neubau der Gewächshäuser der Kölner Flora - Kenntnis genommen
+- TOP 7.2.2: Akkumulatorenfabrik in der Franz Greiß-Straße - Kenntnis genommen
+- TOP 7.2.3: Neue LKW-Navigation - Kenntnis genommen
+- TOP 7.2.4: Verwilderte Freifläche an der Hohenfriedbergstraße - Kenntnis genommen
+- TOP 7.2.5: Das neue Carsharing Gesetz - in Kraft getreten am 1. September 2017 - Kenntnis genommen
+- TOP 7.2.6: Schulgebäude Merkenicher Str. 219 - Kenntnis genommen
+- TOP 7.2.7: Haltestelle Geldernstraße/Parkgürtel - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sperrung der Parkplätze unter der Hochbahn für Wohnmobile - endgültig zurückgezogen
+- TOP 8.1.2: Quartiersparkhäuser in Nippes - endgültig zurückgezogen
+- TOP 8.1.3: Radweg von EAW Gelände über Etzelstraße zur künftigen Gesamtschule nach Longerich - Übergang zum nächsten Tagesordnungspunkt
+- TOP 8.1.4: Aufwertung der Grünfläche am Artushof - endgültig zurückgezogen
+- TOP -: Aufwertung der Grünfläche am Artushof; hier Antrag der Grünen AN/0915/2017 - Kenntnis genommen
+- TOP 8.1.5: Nächtliche Ruhestörung im Stadtbezirk Nippes durch Veranstaltungen am Fühlinger See - ungeändert beschlossen
+- TOP 8.1.6: Verlängerung des Tempo 30-Bereichs von der Kaiserslauterer Straße bis zum Parkgürtel auf der Longericher Straße in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.7: Klimaschutz durch Fassadenbegrünung - ungeändert beschlossen
+- TOP 8.1.8: Verkehrsabhängige Grünphasenverlängerung der LSA Merheimer Straße - geändert beschlossen
+- TOP 8.1.9: Sicherer Kreuzungsbereich Longericher Straße/Parkgürtel/Geldernstraße im Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.10: Querungshilfe/Zebrastreifen Xantener Straße - ungeändert beschlossen
+- TOP 8.1.11: Parkmöglichkeiten auf der Contzenstraße (Longerich) - ungeändert beschlossen
+- TOP 8.1.12: Quartiersparkhaus am Nippeser Tälchen - geändert beschlossen
+- TOP 8.1.13: Flüchtlingshotel Hugo-Junkers-Straße - Sache ist erledigt
+- TOP 8.1.14: Flüchtlingsunterkunft Boltensternstraße - ungeändert beschlossen
+- TOP 8.1.15: Zentralisierung des Bezirksordnungsdienstes in Nippes verhindern – den Bezirksordnungsdienst in Nippes stärken - zurückgestellt
+- TOP 8.1.16: Straßenfeste im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.1.17: Kaufpreisforderungen der Stadt Köln gegenüber Anwohnern der Etzelstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Nippes) ab dem Jahr 2017 ff. - zurückgestellt
+- TOP 9.1.2: Beratung des Entwurfs des Haushaltes 2018 und Festsetzung der bezirksorientierten Mittel für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 9.1.3: Unterstützung des Klimastraßenfestes aus bezirksbezogenen Mitteln - ungeändert beschlossen
+- TOP 9.1.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.5: Demontage der Lichtsignalanlage Äußere Kanalstraße/Escher Straße/Robert-Perthel-Straße und Ersatz durch eine alternative Betriebsform - geändert beschlossen
+- TOP 9.1.6: Umgestaltung des öffentlichen Spielplatzes Brehmstraße in Köln-Riehl - ungeändert beschlossen
+- TOP 9.1.7: Umgestaltung des öffentlichen Spielplatzes Etzelstraße in Köln-Mauenheim - ungeändert beschlossen
+- TOP 9.1.8: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - ungeändert beschlossen
+- TOP 9.1.9: Einrichtung einer Fußgänger-Querungshilfe im Abschnitt zwischen Kevelaer Straße und Kretzerstraße - ungeändert beschlossen
+- TOP 9.1.10: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.11: Bürgerhaushalt 2016 - Priorisierung der TOP-25-Vorschläge - ungeändert beschlossen
+- TOP 9.1.12: Mehrgenerationenfitnessplatz am Niehler Damm - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Gestaltungshandbuch der Stadt Köln - geändert beschlossen
+- TOP 9.2.2: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - ungeändert beschlossen
+- TOP 9.2.3: Anpassung der Hauptsatzung der Stadt Köln - geändert beschlossen
+- TOP -: Änderung der Hauptsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.4: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - geändert beschlossen
+- TOP 9.2.5: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - ungeändert beschlossen
+- TOP 9.2.6: 261. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Nippes aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.03.2017 - zurückgestellt
+- TOP 10.2.2: Ausbau des Kreisverkehrs Niehler Damm/Sebastianstraße - Kenntnis genommen
+- TOP 10.2.3: Filtersysteme nach den OSF Verfahren - Kenntnis genommen
+- TOP 10.2.4: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 10.2.5: Umbau des Einmündungsbereichs Liebigstraße/Escher Straße/Lämmerstraße - Kenntnis genommen
+- TOP 10.2.6: Antrag der SPD-Fraktion in der Bezirksvertretung Nippes - Nachhaltige Beseitigung von Angsträumen an der Haltestelle Geldernstraße - Kenntnis genommen
+- TOP 10.2.7: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Kenntnis genommen
+- TOP 10.2.8: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.9: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 10.2.10: Straßenbaumneupflanzung auf der Florastraße - Kenntnis genommen
+- TOP 10.2.11: Zeitgemäßes Angebot auf dem Nippeser Markt - Kenntnis genommen
+- TOP 10.2.12: Bürgerhaushalt 2016 - Kostenermittlung - Kenntnis genommen
+- TOP 10.2.13: Schulstandort Paul-Humburg-Straße - Kenntnis genommen
+- TOP 10.2.14: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 10.2.15: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.16: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
