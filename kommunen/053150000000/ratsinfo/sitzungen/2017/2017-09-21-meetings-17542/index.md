@@ -1,0 +1,53 @@
+# Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-21T17:00:00+02:00
+- Ende: 2017-09-21T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17542
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17542
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00628502.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00628502.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00628502.pdf
+
+## Tagesordnung
+
+- TOP 1: Begrüßung zur Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - Kenntnis genommen
+- TOP 1.1: Verpflichtung neuer Mitglieder - Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung und der Tagesordnung - Kenntnis genommen
+- TOP 3: Verwaltungsreform der Stadt Köln
+- TOP 3.1: Vortrag zur Verwaltungsreform - Kenntnis genommen
+- TOP 4: Trans*
+- TOP 4.1: Trans* im Krankenhaus
+- TOP 4.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Schwimmzeiten für Trans* - Kenntnis genommen
+- TOP 5: Sachstandsberichte und Mitteilungen
+- TOP 5.1: Städtepartnerschaftlicher Austausch zum CSD 2017 - Kenntnis genommen
+- TOP 5.2: Aktionsplan LSBTI - Kenntnis genommen
+- TOP 5.3: Studie: LSBTI als wirtschaftlicher Standortfaktor - Kenntnis genommen
+- TOP 5.4: Mehrstellen für LST im Stellenplan 2018
+- TOP 5.4.1: LST im Haushaltsjahr 2018 - v e r s c h o b e n auf TOP 8.1.1 - - Kenntnis genommen
+- TOP 5.5: Dialog mit der Polizei - Kenntnis genommen
+- TOP 5.6: Austausch zur Situation auf der Schaafenstraße - v e r s c h o b e n auf TOP 8.1.1 - - Kenntnis genommen
+- TOP 6: LSBTI Geflüchtete
+- TOP 6.1: Wohnungssituation für LSBTI-Geflüchtete
+- TOP 6.1.1: Unterbringung von besonders schutzbedürftigen Geflüchteten mit LSBTI* Hintergrund Wohnprojekt Vogelsang - Kenntnis genommen
+- TOP 7: Lesbische Sichtbarkeit - Kenntnis genommen
+- TOP 8: Diversity
+- TOP 8.1.1: 8.1.vorher 5.4 Mehrstellen für LST im Stellenplan 2018 - Kenntnis genommen
+- TOP 9: Rückfragen zu Beantwortungen von Anfragen und Mitteilungen aus früheren Sitzungen
+- TOP 9.1: Auswahl von Delegationsmitgliedern für Reisen in Kölns Partnerstädte
+- TOP 9.1.1: Beantwortung einer mündlichen Anfrage aus der Stadt AG LST vom 08.06.2017 - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen - Kenntnis genommen
+- TOP 11: Beschlüsse/Beschlussempfehlungen
+- TOP 11.1: Benennung stellvertretender sachkundiger Einwohner Sportausschuss - ungeändert empfohlen
+- TOP 12: Anfragen/Anträge
+- TOP 13: Öffentlichkeitsarbeit
+- TOP 14: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - Kenntnis genommen
+- TOP 15: Verschiedenes
+- TOP 15.1: Fachtag "Zusammenhalten: sexuelle und geschlechtliche Vielfalt in der Jugendhilfe" - Kenntnis genommen
+- TOP 15.2: GAY*COM 2017: Städtetag für LSBT*-Arbeit in NRW - Kenntnis genommen
+- TOP 15.3: Erste Ehe-Schließungen gleichgeschlechtlicher Paare in Köln - Kenntnis genommen
