@@ -1,0 +1,6 @@
+# TOP -: Zustand der Haltestelle Geldernstraße/Parkgürtel
+
+- Sitzung: 24. Sitzung der Bezirksvertretung Nippes (2017-09-21)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/234622
