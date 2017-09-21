@@ -1,0 +1,95 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-21T14:00:00+02:00
+- Ende: 2017-09-21T20:37:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13473
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13473
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300481.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300481.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300481.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Verleihung des Ehrenrings des Rates - zur Kenntnis genommen
+- TOP 3: Anerkennung TO - mehrheitlich beschlossen
+- TOP 4: Genehmigung NS - einstimmig beschlossen
+- TOP 5: Aktuelle Anfragen
+- TOP 5.1: Anfrage aus aktuellem Anlass - CDU: Eingriff in die Autonomie des Integrationsrats - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage FDP: Innenstadt: Sichtwände versperren Blick auf Baufortschritt - beantwortet
+- TOP 6.2: Anfrage BÜ90/GRÜ: Erhalt der Bäume beim Planfeststellungsabschnitt (PFA) 2.1 - beantwortet
+- TOP 6.3: Anfrage des Rh Maniera: Bezuschussung linksgerichteter Projekte in Düsseldorf - beantwortet
+- TOP 6.4: Anfrage CDU: Unzureichendes Durchgreifen des städtischen Ordnungsdienstes bei irischen Landfahrern? - schriftlich beantwortet
+- TOP 6.5: Anfrage CDU: Wie sieht die grundsätzliche Arbeitsweise des städtischen Ordnungs- und Servicedienstes - zurückgezogen
+- TOP 6.6: Anfrage des Rh Grenda: Leerrohrverlegung für den Breitbandausbau in Düssledorf - schriftlich beantwortet
+- TOP 6.7: Anfrage des Rh Grenda: Fortschritte bei den Smart-City-Themen - schriftlich beantwortet
+- TOP 6.8: Anfrage Bü90-Grü: Diesel-Gipfel in Berlin: schlechte Luft, schlechter Deal? - schriftlich beantwortet
+- TOP 6.9: Anfrage von Rf Dr. Strack-ZImmermann: Wochenmarkt am Rochusmarkt - schriftlich beantwortet
+- TOP 7: Einbringung des Haushaltsplanentwurfs 2018 - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kommission Haushaltszukunftskonzept - zur Kenntnis genommen
+- TOP 11: Bericht aus der Kleinen Kommission Grand Départ Düsseldorf 2017 - zur Kenntnis genommen
+- TOP 12: Genehmigung 60er-Beschluss: Projektbudget Grand Depart Düsseldorf 2017 - mehrheitlich abgelehnt
+- TOP 12.1: Bereitstellung von überplanmäßigen Mitteln für das Projekt Grand Départ Düsseldorf 2017 - zurückgezogen
+- TOP 12.2: Änderungsantrag des Ratsherrn Grenda: Bereitstellung von überplanmäßigen Mitteln - zurückgezogen
+- TOP 13: Prüfung des Jahresabschlusses der Landeshauptstadt Düsseldorf zum 31.12.2015 - Entlastung des Oberbü - einstimmig beschlossen
+- TOP 14: Jahresabschluss 2015 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 15: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen aus dem Jahresabschlus - zur Kenntnis genommen
+- TOP 16: Dieter-Forte-Gesamtschule, Schulstandort Heidelberger Straße 75, Sanierung Mensadach und Innenraum - - einstimmig beschlossen
+- TOP 17: Marktplatz 5-6, Verwaltungsgebäude – Veräußerung der Liegenschaft, optional Erbbaurecht - Bedarfsbes
+- TOP 18: Gesamtkonzept TVG - Bedarfsbeschluss -
+- TOP 18.1: Änderungsantrag des Ratsherrn Grenda: Gesamtkonzept TVG - Bedarfsbeschluss -
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Geplante Verlagerung des Schulverwaltungsamtes in das Gebäude Konrad-Adenauer-Platz 1 - mehrheitlich beschlossen
+- TOP 21: Stufenweise Erhöhung der Gebühren für Handwerkerparkausweise
+- TOP 21.1: ÄA CDU: Stufenweise Erhöhung der Gebühren für Handwerkerparkausweise
+- TOP 22: Stärkung der Fördermittelakquise der Landeshauptstadt Düsseldorf: Einrichtung eines zentralen Förder - einstimmig beschlossen
+- TOP 23: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung (SOM V) - einstimmig beschlossen
+- TOP 24: Partizipationsbericht des Jugendamtes Düsseldorf - einstimmig beschlossen
+- TOP 24.1: ÄA Rh Grenda: Partizipationsbericht des Jugendamtes Düsseldorf
+- TOP 25: Kulturentwicklungsplanung für die Landeshauptstadt Düsseldorf (Abschlussbericht)
+- TOP 25.1: ÄA SPD, Bü90-Grü und FDP: Kulturentwicklungsplanung
+- TOP 26: Überführung der Treuhandstiftung "Stiftung Begabtenförderung Düsseldorf" in eine rechtsfähige Stiftu - einstimmig beschlossen
+- TOP 27: Schenkung für das Hetjens-Museum - einstimmig beschlossen
+- TOP 28: Genehmigung 60er Beschluss: Sonderzuschuss an Fortiuna 1895 e.V. - mehrheitlich beschlossen
+- TOP 29: Genehmigung 60er-Beschluss: Vereinssportanlage Kammerrathsfeldstraße 82 (TSV Urdenbach), Neubau Fun - einstimmig beschlossen
+- TOP 30: Neufassung der Hundesteuersatzung zum 01.01.2018
+- TOP 30.1: ÄA Tierschutz FREIE WÄHLER: Neufassung der Hundesteuersatzung der Landeshauptstadt Düsseldor
+- TOP 31: Abschluss einer öffentlich rechtlichen Vereinbarung zur Durchführung der Beihilfesachbearbeitung - einstimmig beschlossen
+- TOP 32: Beitritt der Landeshauptstadt Düsseldorf zur d-NRW AöR - mehrheitlich beschlossen
+- TOP 33: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH- Ersatzwahl - - einstimmig beschlossen
+- TOP 34: Lenkungsgruppe der Lokalen Agenda 21 - Neubenennung eines Mitglieds - - einstimmig beschlossen
+- TOP 35: Wiederbestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte - einstimmig beschlossen
+- TOP 36: Ersatzbestellungen Ausschuss für anzeigepflichtige Entlassungen - einstimmig beschlossen
+- TOP 37: Ersatzbestellung Zweckverband Unterbacher See - einstimmig beschlossen
+- TOP 38: Schulausschuss -Ersatzbestellung eines beratenden Mitglieds-" - einstimmig beschlossen
+- TOP 39: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 40: Anschaffung eines Friedhofmobils für den Südfriedhof - einstimmig beschlossen
+- TOP 41: Anträge
+- TOP 41.1: Antrag Die Linke: Der Datenschutzbeauftragte als Ansprechpartner für Einwohnerinnen und Einwohner
+- TOP 41.2: Antrag Die Linke: Umsetzen von Beschlüssen des Stadtrates
+- TOP 41.3: Antrag der CDU-Ratsfraktion: Auswirkungen von Verwaltung 2020
+- TOP 41.3.1: ÄA SPD, BÜ90/GRÜ und FDP: Auswirkungen von Verwaltung 2020
+- TOP 41.4: Antrag Bü90-Grü, SPD und FDP: Urbaner Stadtstrand – Moderne Beachgastronomie am Rhein: Flächenprüfu
+- TOP 41.5: Antrag Die Linke: Kein Empfang und keine Unterstützung für Schießwettbewerb der Bundesweh
+- TOP 41.5.1: ÄA Die Linke: Kein Empfang und keine Unterstützung für Schiesswettbewerb der Bundeswehr
+- TOP 41.6: Antrag der CDU: Familiennachzug der in Düsseldorf lebenden anerkannten Geflüchteten
+- TOP 41.7: Antrag CDU: Erhalt der Düsseldorfer Förderschulen – Wahlmöglichkeiten für Familien sichern
+- TOP 41.8: Antrag Tierschutz Freie Wähler: RWE-Aktien baldmöglichst verkaufen
+- TOP 41.9: Antrag der CDU-Ratsfraktion: Shared Mobility entschlossen ausbauen
+- TOP 41.10: Antrag der Ratsfraktion DIE LINKE: Keine Panzer für die Türke
+- TOP 41.11: Antrag der Ratsfraktion von BÜ90-GRÜ: Race am Rhein
+- TOP 41.12: Antrag BÜ90-GRÜ: Informationsbanderole an Bäumen im öffentlichen Raum, die gefällt werden sollen
+- TOP 42: Beteiligung der Landeshauptstadt Düsseldorf an der internationalen Kampagne "Cities for Life" - einstimmig beschlossen
+- TOP 43: Beitrittsbeschluss zur Genehmigung der Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haus
+- TOP 44: Beantragung von Fördermitteln für den Breitbandausbau
+- TOP 44.1: ÄA Rh Grenda: Beantragung von Fördermitteln für den Breitbandausbau
+- TOP 45: Einrichtung einer "Kleinen Kommission Schauspielhaus"
+- TOP 45.1: ÄA CDU: Einrichtung einer "Kleinen Kommission Schauspielhaus"
