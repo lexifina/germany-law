@@ -1,0 +1,58 @@
+# 27. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2017-09-21T19:03:00+02:00
+- Ende: 2017-09-21T21:53:00+02:00
+- Ort: Rathaus Herxheim, Ratssaal (Nr. 1.10) im 1. OG, Obere Hauptstraße 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2017-200-113
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2017-200-113
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-200-113
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-200-113
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-200-113
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Bericht über den Stand des Haushaltsvollzugs zum 30.06.2017 (Zwischenbericht)
+- TOP 3: Feststellung des Jahresabschlusses 2016 der Gemeindewerke Herxheim
+- TOP 4: Neufassung über die Vereinbarung über die Führung der Kasse durch die Verbandsgemeinde Herxheim für die Eigenbetriebe und Zweckverbände
+- TOP 5: Erlass einer Friedhofssatzung
+- TOP 6: Erlass einer Friedhofsgebührensatzung
+- TOP 7: Bebauungsplan 'Nördlich des Hinterwegs'
+- TOP 8: Bebauungsplan 'Südlich der Bussereaustraße'
+- TOP 9: Bebauungsplan 'Hauptstraße, 1. Änderung', Hayna
+- TOP 10: Fahrbahnerneuerung der L 493 in Herxheim; Vereinbarung mit dem Landesbetrieb Mobilität Speyer
+- TOP 11: Verkehrssituation im Einmündungsbereich Obere Hauptstraße / Südring
+- TOP 12: Verkehrsberuhigende Maßnahmen im Sebastiansring
+- TOP 13: Einbahnstraße Landauer Weg
+- TOP 14: Parksituation Bussereaustraße
+- TOP 15: 
+- TOP 16: Antrag der SPD-Fraktion; Neuausrichtung des Arbeitskreises 'Ortsmarketing und Agenda 21'
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Zuschussantrag des Schönstattzentrums Marienpfalz zur Umgestaltung der Außenanlage
+- TOP 19: Anpassung der Ergänzenden Bedingungen zur Stromgrundversorgungsverordnung
+- TOP 20: Auftragsvergaben
+- TOP 20.1: Vergabe von Planungsaufträgen Sanierung der Badewassertechnik
+- TOP 20.2: Vergabe von Planungsaufträgen Erneuerung des BHKW im Waldfreibad
+- TOP 21: Grundstücksangelegenheiten; Neubau einer Rettungswache im Waldstadion
+- TOP 22: Mitteilungen und Anfragen
+- TOP 22.1: Mitteilungen und Anfragen; Kreiszuwendung für die Erweiterung der Kita Nord-West
+- TOP 22.2: Mitteilungen und Anfragen Geschwindigkeitsbeschränkung in der Oberen Hauptstraße (L 493), zwischen Niederhohlstraße und Napoleonsgasse
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
