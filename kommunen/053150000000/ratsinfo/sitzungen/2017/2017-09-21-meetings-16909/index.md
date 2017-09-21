@@ -1,0 +1,93 @@
+# 27. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-21T15:10:00+02:00
+- Ende: 2017-09-21T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16909
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16909
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: AN/0940/2017 Problemimmobilien in Köln - was tut die Stadtverwaltung - Kenntnis genommen
+- TOP 1.2: Potentiale zur Linderung der Wohnungsnot in Ballungsräumen durch Ergänzung von Quartieren - Kenntnis genommen
+- TOP 1.3: Aufwertung von Plätzen in den Stadtbezirken; Anfrage der SPD-Fraktion im Rat vom 14.06.2017; AN/0922/2017 - zurückgestellt
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Wohnsiedlung „Im Mönchsfeld“ in Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: GAG stärken: Mehr preiswerter Wohnraum für Köln ist machbar! - Sache ist erledigt
+- TOP -: Ersetzungsantrag zu TOP 3.1.7, Antrag Fraktion Die Linke: „GAG stärken: Mehr preiswerter Wohnraum für Köln ist machbar!“ - endgültig abgelehnt
+- TOP 3.1.1: Ersetzungsantrag gemäß § 13 der GO des Rates - ungeändert beschlossen
+- TOP 3.2: Neubebauung der Blöcke zwischen Am Hof und Laurenzplatz - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag zu TOP 3.2, Dringlichkeitsantrag der CDU-Fraktion, der Fraktion Bündnis90/Die Grünen und der FDP-Fraktion betreffend "Neubebauung der Blöcke zwischen Am Hof und Laurenzplatz" - geändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 4.1.1: Beschlussvorlage für die Weiterentwicklung; Der städtebauliche Masterplan für die Innenstadt Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - zurückgestellt
+- TOP 5.2: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - zurückgestellt
+- TOP 5.3: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 12 Köln-Kalk - geändert beschlossen
+- TOP 5.4: Planfeststellungsverfahren gem. §§ 18 ff des Allgemeinen Eisenbahngesetzes (AEG) für die ICE Neubaustrecke Köln - Rhein/Main, Planfeststellungsabschnitt 11 - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse - ohne Votum in nachfolgende Gremien
+- TOP -: Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse zwischen Deutzer Brücke und der Universitätsstraße - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Gestaltungshandbuch der Stadt Köln - zurückgestellt
+- TOP -: Beantwortung mündlicher Anfragen betreffend "Gestaltungshandbuch der Stadt Köln" - zurückgestellt
+- TOP 6.3: Neugestaltung der Domumgebung; 2. Bauabschnitt - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.4: Kolb-Halle an der Helmholtzstraße in Köln-Ehrenfeld; hier: Vorgaben an die Eigentümerin NRW Urban GmbH & Co. KG zum Grundstücksverkauf gemäß den Richtlinien des Grundstücksfonds NRW - geändert beschlossen
+- TOP 6.5: Umsetzung Einzelhandels- und Zentrenkonzept (EHZK) Hier: Entfristung der Koordinationsstelle für Geschäftszentrenentwicklung und Initiativenmanagement im Amt für Stadtentwicklung und Statistik - ungeändert beschlossen
+- TOP 6.6: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - geändert beschlossen
+- TOP 6.7: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 6.8: Mehrgenerationenhaus Lindweiler 2017 - ungeändert beschlossen
+- TOP 6.9: Schulrechtliche Errichtung der Gesamtschule Wasseramselweg – Start der Schule bis zum Umzug in den Neubau am benachbarten Interimsstandort Wasseramselweg in anzumietenden Räumlichkeiten zum Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 6.10: Beschluss einer Satzung nach dem Gesetz über Immobilien- und Standortgemeinschaften (ISGG NRW) für das Gebiet der Immobilien- und Standortgemeinschaft Severinstraße - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 214. FNP-Änderung; Hohenstaufenstraße/Steinstraße in Köln-Porz-Gremberghoven; Beschluss über Stellungnahmen aus der Offenlage und Feststellungsbeschluss - ungeändert beschlossen
+- TOP 7.2: 216. FNP-Änderung; Mülheim-Süd und Mülheimer Hafen in Köln-Mülheim; Stellungnahmen zur den Ergebnissen der frühzeitigen Beteiligung der Öffentlichkeit, Vorgabenbeschluss und Kenntnisnahme der Offenlageabsicht - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Nördlich Colonius in Köln-Neustadt/Nord; VEP; städtebauliches Planungskonzept: Mitteilung ü.d.Ergebnis d.Qualifizierungsverfahrens sowie Beschluss z.Durchführung d.frühz.Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen - ungeändert beschlossen
+- TOP -: Änderungsantrag der Gruppe GUT - endgültig abgelehnt
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10.2: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld; Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 10.3: Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld; Einleitungsbeschluss - zurückgestellt
+- TOP 10.4: Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld; VEP: Einleitungsbeschluss - zurückgestellt
+- TOP 10.5: Damiansweg in Köln-Volkhoven/Weiler - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: "GE westlich Linder Kreuz" in Köln-Porz-Lind, 4. Änderung; 77349/04; Einleitungsbeschluss - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 13.1, Beschluss über die Einleitung betreffend der Änderung des Bebauungsplanes 77349/04, Arbeitstitel: "GE westlich Linder Kreuz" in Köln-Porz-Lind, 4. Änderung - endgültig abgelehnt
+- TOP 13.2: Antoniusstraße in Köln-Porz-Urbach, 76390/02; 2. Änderung; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Hermeskeiler Platz in Köln-Sülz; 63429/06; Teilaufhebung; frühzeitige Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 14.2: MHD Gelände in Köln-Kalk, Aufhebung des Bebauungsplans 70451/03 - Einleitungsbeschluss- - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Kostensteigerung bei Großprojekten - Kenntnis genommen
+- TOP 17.2: 70447/04; Robertstraße in Köln-Kalk; Offenlage des Vorhabenbezogenen Bebauungsplan-Entwurfs - Kenntnis genommen
+- TOP 17.3: Gutachterverfahren Rudolfplatz/Habsburgerring, Köln Innenstadt - Kenntnis genommen
+- TOP 17.4: Antrag der Fraktion Bündnis 90/Die Grünen betr. die Aufstellung eines Bebauungsplanes "Rund um die Alteburger Straße" in der Kölner Südstadt (AN/1404/2016); hier: Stellungnahme zum Beschluss der Bezirksvertretung Innenstadt am 15.09.2016 - Kenntnis genommen
+- TOP 17.5: Kyllstraße in Köln-Neustadt/Süd; Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.6: Verwendung der Stellplatzablösemittel im Jahr 2016 - Kenntnis genommen
+- TOP 17.7: StadtLabor für Kunst im öffentlichen Raum 2017 - Kenntnis genommen
+- TOP 17.8: Evaluierung der Wohnraumschutzsatzung - Vorlagen-Nr. 2181/2016 Beschluss des Rates vom 04.04.2017 - Kenntnis genommen
+- TOP 17.9: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 17.10: RheinEnergie-Stadion; hier: Ergebnisse der Machbarkeitsstudie sowie Beantwortung von Anfragen aus früheren Sitzungen - Kenntnis genommen
+- TOP 17.11: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 17.12: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 17.13: Luftreinhaltung - Sachstand zum Runden Tisch - Kenntnis genommen
+- TOP 17.14: Swinestraße in Köln Chorweiler Nord, - Kenntnis genommen
+- TOP 17.15: Berichterstattung "Domplatte - runderneuert" in der Fachzeitschrift Bauwelt - Kenntnis genommen
+- TOP 17.16: Yitzhak-Rabin-Platz, Sachstand zur Realisierung des Wettbewerbs zur Aufwertung eines innerstädtischen Freiraums - Kenntnis genommen
+- TOP 17.17: Rheinboulevard Kiosk - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
