@@ -1,0 +1,55 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-22T14:00:00+02:00
+- Ende: 2017-09-22T18:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13092
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13092
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300531.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300531.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300531.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Events am Rheinufer - beantwortet
+- TOP 4: Nutzung des Grünstreifens an der Reuterkaserne für temporäre Nutzung - beantwortet
+- TOP 5: Bürgerbeteiligung Radweg Fischerstraße bis Kaiserstraße - beantwortet
+- TOP 6: Radfahren auf der Schwerinstraße
+- TOP 7: Standort des Theaterzeltes im Rheinpark - beantwortet
+- TOP 8: Fehlende Sonnenuhr an der Reuterkaserne - beantwortet
+- TOP 9: Maschendrahtzaun im Spee´schen Garten - beantwortet
+- TOP 10: Geruchsemissionen durch die Firma Dauser - beantwortet
+- TOP 11: Pavillon für den Hofgarten - beantwortet
+- TOP 12: Mauer am Kinderspielplatz Schwanenmarkt: Gestaltung und Graffitischutz - einstimmig beschlossen
+- TOP 13: Planfeststellungsverfahren RRX, Planfeststellungsabschnitt (PFA) 2.1 - Reisholz – Wehrhahn - Empfehlung einstimmig beschlossen
+- TOP 14: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 15: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung (SOM V) - Empfehlung einstimmig beschlossen
+- TOP 16: Antikmärkte in der Kö-Galerie und Schadow-Arkaden 2018 - einstimmig beschlossen
+- TOP 17: Spezialmärkte in den Schadow Arkaden 2018 - mehrheitlich beschlossen
+- TOP 18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 -Haushalt 2017 - einstimmig beschlossen
+- TOP 19: „Verballermannisierung“: Rheinufer zwischen Rheinkniebrücke und Oberkasseler Brücke - einstimmig beschlossen
+- TOP 20: Testergebnisse: Veränderte Streckenführung auf Münsterstraße Höhe Brücke S-Bahnhof Derendorf - einstimmig beschlossen
+- TOP 21: Keine Dauerparker unter der Theodor-Heuss-Brücke - einstimmig beschlossen
+- TOP 22: Poller für die Mannesufer, Horionplatz und die Berger Allee - mehrheitlich beschlossen
+- TOP 23: Einrichten eines Parkplatzes für Menschen mit Behinderung - einstimmig beschlossen
+- TOP 24: Erweiterung des Rondells an der Gneisenaustraße - zurückgezogen
+- TOP 25: Prüfantrag METRO-Pavillons - zurückgezogen
+- TOP 26: Hinweisschild für den Hofgarten - mehrheitlich beschlossen
+- TOP 27: Maßnahmen gegen Wildpinkler - einstimmig beschlossen
+- TOP 28: Rasenflächen im Rheinpark - einstimmig beschlossen
+- TOP 29: Geschwindgkeitsmessung Mannesmannufer - mehrheitlich beschlossen
+- TOP 30: Prüfung eines Pilotprojektes "City Tree" - mehrheitlich abgelehnt
+- TOP 31: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Veranstaltungen Burgplatz - Nachmeldung zum Jahresprogramm 2017 - mehrheitlich beschlossen
+- TOP 34: Wiederwahl der Schiedsfrau Barbara Materne-Blunk - Empfehlung einstimmig beschlossen
+- TOP 35: Neuwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: EKISO: Finanzierung Unterflurcontainer (UFC) - mehrheitlich beschlossen
+- TOP 38: Verschiedenes - zur Kenntnis genommen
