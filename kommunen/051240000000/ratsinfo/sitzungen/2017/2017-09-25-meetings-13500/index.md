@@ -1,0 +1,102 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-09-25T16:00:00+02:00
+- Ende: 2017-09-25T21:15:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/13500
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/13500
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 15.09.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00210612.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00211645.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Geschäft von Wuppertal Marketing Gesellschaft und ASS Bochum - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage zum Geschäft von Wuppertal Marketing Gesellschaft und ASS Bochum vom 14.08.2017 (VO/0621/17) - Entgegennahme ohne Beschluss
+- TOP 2.2: Bericht über die Sonderprüfung des geplanten Verkaufs der RWE-Aktien aus dem Finanzanlagevermögen der Wuppertaler Stadtwerke - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE zu dem Verkauf der RWE-Aktien (VO/0637/17) vom 21.08.2017 - Entgegennahme ohne Beschluss
+- TOP 2.3: Aufsichtsratssitz Dr. Slawig bei der Gemeinnützigen Wohnungsbaugesellschaft - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE zum Aufsichtsratssitz Dr. Slawig bei der Gemeinnützigen Wohnungsbaugellschaft vom 28.08.2017 (VO/0672/17) - Entgegennahme ohne Beschluss
+- TOP 2.4: Stand des verwaltungsseitigen Engagements zur Verbesserung der Situation für den Wuppertaler Sportverein - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Stand des verwaltungsseitigen Engagements zur Verbesserung der Situation für den Wuppertaler Sportverein" (VO/0708/17) vom 30.08.2017 - Entgegennahme ohne Beschluss
+- TOP 2.5: Anwesenheitsüberprüfung von Asylbewerbern in städtischen Unterkünften - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Anwesenheitsüberprüfung von Asylbewerbern in städtischen Unterkünften" (VO/0712/17) vom 30.08.2017 - Entgegennahme ohne Beschluss
+- TOP 2.6: Taxilizenzen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER zu den Taxilizenzen in Wuppertal vom 08.09.2017 (VO/0744/17) - Entgegennahme ohne Beschluss
+- TOP 2.7: Verbreitung linksextremistischer Inhalte über städtische Infrastruktur - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Antwort auf die Anfrage der Fraktion Pro Deutschland / DIE REPUBLIKANER zur Verbreitung linksextremistischer Inhalte über städtische Infrastruktur vom 08.09.2017 (VO/0745/17) - Entgegennahme ohne Beschluss
+- TOP 2.8: Bebauungsplanverfahren Maßregelvollzugsklinik (Forensik) - Kleine Höhe - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Bebauungsplanverfahren Maßregelvollzugskinik (Forensik) - Kleine Höhe vom 14.09.17 (VO/0759/17) - Entgegennahme ohne Beschluss
+- TOP 2.9: Marode Eisenbahnbrücken in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN zu maroden Eisenbahnbrücken in Wuppertal vom 14.09.2017 (VO/0760/17) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag nach § 24 GO NRW- Umwandlung der Busspur Bundesallee zwischen Kasinostraße und Robert-Daum-Platz in einen Radweg mit Freigabe für den Linienverkehr
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Frauenförderung in der Kultur: Ausrichtung eines Wuppertaler Frauenkulturpreises - abgelehnt
+- TOP 4.2: Errichtung von Kindertagesstätten mit Rücksicht auf den Baumbestand - abgelehnt
+- TOP 4.3: Nicht verwirklichte Projekte des Bürgerhaushaltes umsetzen - zurückgezogen
+- TOP 4.4: Geflüchtete integrieren – Dokumentenfrage klären - abgelehnt
+- TOP 4.5: Abgesetzt. Vorberatungen nicht abgeschlossen. Landesregierung muss Offenen Ganztag systematisch entwickeln - abgesetzt
+- TOP 4.6: „Haus der Alleinerziehenden“ - abgelehnt
+- TOP 4.7: Wirksame Kontrollen einrichten! - zurückgezogen
+- TOP 4.8: Städtische Bauplanung - Beschlüsse des Gestaltungsbeirates veröffentlichen - abgelehnt
+- TOP 4.9: Aktionsplan neue Mobilität - abgelehnt
+- TOP 4.9.1: Aktionsplan neue Mobilität - zur Vorberatung verwiesen
+- TOP 4.10: Rückgabe des Hans Georg von Arnim-Denkmals an Wuppertals Partnerstadt Liegnitz - zur Vorberatung verwiesen
+- TOP 4.11: Resolution Sozialticket - zur Vorberatung verwiesen
+- TOP 4.12: Resolution zur besseren Ausstattung der Kommunen - zurückgezogen
+- TOP 4.12.1: Antrag zur Tagesordnung, Tagesordnungspunkt 4.12 - ungeändert beschlossen
+- TOP 4.13: Bürgerbeteiligung zur Benennung des Platzes vor dem Wuppertaler Hauptbahnhof und angrenzender Bereiche – Antrag der Fraktionen von CDU, SPD, Bündnis 90/Die Grünen und FDP vom 20.09.2017 - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: "Fahrradpiktogramme" aufnehmen in die Aktualisierung des Radverkehrskonzeptes - zurückgezogen
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 6.1.1: Abgesetzt. Von der Antrag stellenden Fraktion zurück gezogen. Hauptsatzung, Beteiligung der Bezirksvertretungen - abgesetzt
+- TOP 6.2: Änderung des Taxentarifs / Neufassung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten und Beförderungsbedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Ermächtigung zu überplanmäßigen Ausgaben zur Fortsetzung der Arbeiten an der Bembergbrücke - ungeändert beschlossen
+- TOP 7.2: Zusätzlicher Investitionsbedarf in zentrale IT-Infrastruktur und die IT-Sicherheit - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Bereitstellung von Sachmitteln für die Straßenerhaltung - ungeändert beschlossen
+- TOP 7.4: Überplanmäßige Bereitstellung von Mitteln zur Ersatzbeschaffung eines Forstspezialschleppers - ungeändert beschlossen
+- TOP 7.5: Außerplanmäßige Bereitstellung von Mitteln für erforderliche Software-Erweiterungen des ATOSS-Verfahrens (Zeitwirtschaft) - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung des Gesellschaftsvertrages der Bergischen Entsorgungsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2016 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2016 der Stadtparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.5: Entlastung des Verwaltungsrates der Stadtsparkasse für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.6: Änderung des Gesellschaftsvertrages der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 8.7: Vorzeitige Optionsausübung zur Beendigung der US-Leasing Transaktion für das Müllheizkraftwerk der Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 8.8: Konsolidierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (GWG) - ungeändert beschlossen
+- TOP 8.9: Anpassung der Mietverträge Wuppertaler Hof - ungeändert beschlossen
+- TOP 8.10: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen für die Zeit vom 01.01.2017 bis 31.12.2017 - ungeändert beschlossen
+- TOP 8.11: Beteiligung der WSW Wuppertaler Stadtwerke GmbH an der Komplementärgesellschaft BinnenWind Windpark Verwaltungsgesellschaft mbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: 54. Änderung des Flächennutzungsplanes - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 654 - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 9.3: Abgesetzt. Die Drucksache wurde von der Verwaltung zurückgezogen. Bebauungsplan 654 - Otto-Hausmann-Ring - 1. Änderung - abgesetzt
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Durchführung von Baumaßnahmen für die Betriebshöfe Giebel und Oberbergische Straße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Entwicklung des Gewerbeparks Nächstebrecker Straße / Bramdelle - ungeändert beschlossen
+- TOP 11.2: Verbindliche Pflegebedarfsplanung 01.10.2017 - 30.09.2020 gemäß § 7 (6) Alten- und Pflegegesetz Nordrhein - Westfalen - ungeändert beschlossen
+- TOP 11.3: Annahme der Schenkung der Anlage ARALANDIA vom Zoo-Verein Wuppertal e.V. - ungeändert beschlossen
+- TOP 11.4: Annahme der Schenkung eines Labormikroskopes von der Kassenzahnärztlichen Vereinigung Nordrhein - ungeändert beschlossen
+- TOP 11.5: Abgesetzt. Vorberatungen nicht abgeschlossen. Wasserversorgungskonzept der Stadt Wuppertal - abgesetzt
+- TOP 11.6: Zielnetzplan (Masterplan) und Förderanträge für flächendeckenden Breitbandausbau - ungeändert beschlossen
+- TOP 11.7: Konzept zur Verbesserung der Serviceleistungen beim Straßenverkehrsamt - ungeändert beschlossen
+- TOP 11.7.1: Konzept zur Verbesserung der Serviceleistungen beim Straßenverkehrsamt - abgelehnt
+- TOP 11.8: Rettungsdienstbedarfsplan der Stadt Wuppertal 2017 - ungeändert beschlossen
+- TOP 11.9: Zustandserfassung für die Verkehrsflächen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.10: Bewerbung um die Ausrichtung einer Bundesgartenschau (BUGA) 2025 - Erstellung einer Machbarkeitsstudie - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.2: Neubesetzung des Aufsichtsrates der Bergischen Entsorgungsgesellschaft mbH Wuppertal (nur Rat) - geändert beschlossen
+- TOP 12.3: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.4: Vertretung des Gesellschafters Stadt Wuppertal in Haupt- bzw. Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung Zweckverbandsversammlung Bergische VHS - ungeändert beschlossen
