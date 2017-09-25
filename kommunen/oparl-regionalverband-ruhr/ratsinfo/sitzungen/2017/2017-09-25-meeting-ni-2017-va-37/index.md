@@ -1,0 +1,70 @@
+# 13. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-09-25T10:00:00+02:00
+- Ende: 2017-09-25T12:00:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-VA-37
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-VA-37
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-VA-37
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-VA-37
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen / Strukturausschuss
+- TOP 1.1: Linienbestimmung für den Neubau der L667n - Ortsumgehung Freiske - Beschluss über die Zustimmung zur Trassenführung
+- TOP -: Vorlagen des Regionalverbandes Ruhr / Planungssauschuss
+- TOP 1.2: 9. Änderung des Regionalplans für den Regierungsbezirk Münster Teilabschnitt Emscher-Lippe Erweiterung des Allgemeinen Siedlungsbereiches (ASB) im Gebiet der Stadt Gladbeck
+- TOP 1.3: 81. Änderung des Regionalplanes für den Regierungsbezirk Düsseldorf (GEP 99) und 5. Änderung des Regionalplanes für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund, westlicher Teil - Bekanntmachung
+- TOP 1.4: Anfragen und Mitteilungen
+- TOP 1.4.1: Antwort zur Anfrage der CDU-Fraktion vom 19.06.2017: Anwendung LEP-Ziel 6.3-3
+- TOP 1.4.2: Anfrage der CDU-Fraktion in der Sitzung des Wirtschaftsausschusses vom 12.09.2017 zur Chronologie zur Erarbeitung des Regionalplans Ruhr und des Handlungsprogramms zur räumlichen Entwicklung der Metropole Ruhr hier: Antwort der Verwaltung
+- TOP 1.4.3: Anfrage der SPD-Fraktion in der Sitzung des Wirtschaftsausschusses vom 12.09.2017 zu den rechtlichen Auswirkungen auf den Erarbeitungsprozess des Regionalplans Ruhr und des Handlungsprogramms zur räumlichen Entwicklung der Metropole Ruhr bei Nichtberatung von Vorlagen in den RVR-Gremien hier: Antwort der Verwaltung
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Angelegenheiten der Ruhr Tourismus GmbH - Wechsel in der Geschäftsführung
+- TOP 2.1.1: Nachfolge Geschäftsführung RTG
+- TOP 2.2: Umweltzentrum Westfalen GmbH - Organisation Leitungsebene - hauptamtliche Geschäftsführung
+- TOP 2.3: Haushaltsangelegenheiten
+- TOP 2.3.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2018
+- TOP 2.3.2: Einbringung des Haushaltes 2018
+- TOP 2.4: Antrag der FDP-Fraktion zur Aufstellung des Regionalplans
+- TOP 2.5: Standortmarketingkampagne - Logo- und CD-Systematik der RVR-Familie
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Stellungnahme des RVR als Träger öffentlicher Belange und als Regionalplanungsbehörde zum Entwurf des Nahverkehrsplanes der Stadt Mülheim an der Ruhr
+- TOP 2.7: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes der Stadt Essen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.8: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.9: Dringlichkeitsentscheidung Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Änderung des § 1 „Firma und Sitz“ des Gesellschaftsvertrages aufgrund der beabsichtigten Namensänderung der wmr auf Business Metropole Ruhr GmbH
+- TOP 2.10: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.11: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2016
+- TOP 2.12: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Minegas - Erwerb zusätzlicher Anteile und Änderung des Gesellschaftsvertrages
+- TOP 2.13: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2016 der nicht am Verschmelzungsprozess beteiligten Freizeitgesellschaften (Freizeitzentrum Xanten GmbH, Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH)
+- TOP 2.14: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern am See mbH - Jahresabschluss zum 31.12.2016
+- TOP 2.15: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2016
+- TOP 2.16: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.17: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Änderung des Zuschuss- und Finanzierungsvertrages 2018-2020
+- TOP 2.18: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Neubau Westbad im Revierpark
+- TOP 2.19: Angelegenheiten der Freizeitgesellschaften - Betriebliche Zusatzversorgung - Revierpark Gysenberg Herne GmbH - Änderung der Nebenabrede zum Gesellschaftsvertrag
+- TOP 2.20: Angelegenheiten der Freizeitgesellschaften - Betriebliche Zusatzversorgung - Freizeitgesellschaft Metropole Ruhr mbH - Verpflichtungserklärung
+- TOP 2.21: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.22: Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.23: Ruhrwind Herten GmbH - Änderung des Gesellschaftsvertrages
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.24: Geschichte und Programm RUHR 20-21 plus Beschluss zur Vorbereitung auf das RVR-Themenjahr 2020
+- TOP 2.25: Anfragen und Mitteilungen
+- TOP 2.25.1: Antwort zur Anfrage der SPD vom 28.06.2017: Umsetzung der Standortmarketingkampagne beim RVR sowie zur Implementierung eines neuen Logos im Verband und seinen Beteiligungsgesellschaften
+- TOP 2.25.2: Antwort zur Anfrage der FWG vom 07.04.17: Metropolregion Rheinland
+- TOP 2.25.3: Anfrage der CDU-Fraktion vom 25.09.2017: Optimierung des Nahverkehrs in der Metropole Ruhr
+- TOP 2.25.4: Anfrage der CDU-Fraktion vom 25.09.2017: Konzept und Bewerbung IGA 2027
+- TOP 2.25.5: Anfrage der CDU-Fraktion vom 25.09.2017: Großflächiger EInzelhandel
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.3: nicht öffentlicher Tagesordnungspunkt
