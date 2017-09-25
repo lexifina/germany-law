@@ -1,0 +1,93 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-25T14:30:00+02:00
+- Ende: 2017-09-25T16:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16910
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16910
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2017 - Kenntnis genommen
+- TOP 2.2: Kostensteigerung bei Großprojekten - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.4: Überprüfung von Kosteneinsparungen im Zusammenhang mit der Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.6: 16. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 2.7: Sachstandsbericht MiQua, LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 2.8: Machbarkeitsstudie Tunnelleitzentrale - Kenntnis genommen
+- TOP 2.9: Auslagerung der GGS Görlinger Zentrum - Kenntnis genommen
+- TOP 2.10: Bürgerhaushalt 2017 - weiterer Ablauf - Kenntnis genommen
+- TOP 2.11: RheinEnergie-Stadion; hier: Ergebnisse der Machbarkeitsstudie sowie Beantwortung von Anfragen aus früheren Sitzungen - Kenntnis genommen
+- TOP 2.12: Bürgerhaushalt 2016 - Umsetzung der Vorschläge
+- TOP 2.13: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - zurückgestellt
+- TOP 2.14: Nachhaltige Investments - Kenntnis genommen
+- TOP 2.15: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.16: Bericht über den Sachstand der Umsetzung der Haushaltsbegleitbeschlüsse sowie der Maßnahmen aus den politischen Veränderungsnachweisen zum Doppelhaushalt 2016/2017 - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Anfrage der SPD-Fraktion betreffend Zukunft des RheinEnergieStadions - Kenntnis genommen
+- TOP 3.2: Anfrage der SPD-Fraktion betreffend Sanierung des Ratsschiffs „MS Stadt Köln“ - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung betreffend Sanierung des Ratsschiffs "MS Stadt Köln" - Kenntnis genommen
+- TOP 3.3: Anfrage der Piraten-Gruppe betreffend Zahlungsmoral der Stadt Köln - Kenntnis genommen
+- TOP -: Beantwortung der Verwaltung betreffend Zahlungsmoral der Stadt Köln - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Köln wird korporatives Mitglied bei Transparency International - ungeändert beschlossen
+- TOP -: Stellungnahme zum Antrag der Gruppe Piraten betreffend „Köln wird korporatives Mitglied bei Transparency International“ - Kenntnis genommen
+- TOP 4.2: Gemeinsamer Antrag der Fraktionen von SPD, Die Linke sowie der Piratengruppe betreffend Armutsfolgen abmildern - Köln-Pass ausweiten - zurückgestellt
+- TOP 4.3: Antrag der Fraktion von Die Linke betreffend GAG stärken: Mehr preiswerter Wohnraum für Köln ist machbar! - geändert beschlossen
+- TOP 4.4: Ersetzungsantrag der SPD-Fraktion betreffend Antrag Fraktion Die Linke: „GAG stärken: Mehr preiswerter Wohnraum für Köln ist machbar!“ - endgültig abgelehnt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Teilplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2017 bei der Finanzstelle 6901-1202-0-0310, Gesamtinstandset - ohne Votum in nachfolgende Gremien
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Sportanlage Kendenicher Straße, Köln-Zollstock - ungeändert beschlossen
+- TOP 7.2: Baubeschluss für den Neubau eines Rad- und Gehweges Alter Deutzer Postweg sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6620, Neubau Radwege/ Radschnellwege - ungeändert beschlossen
+- TOP 7.3: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Lindenthal - ungeändert beschlossen
+- TOP 7.4: Grünfläche Butzweiler Hof - geändert beschlossen
+- TOP 7.5: Ersatzbeschaffung von 6 Kolonnenfahrzeugen für die Pflege und Unterhaltung von Straßenbaumscheiben gem. Fahrzeug- und Maschinenkonzept 2017 - ungeändert beschlossen
+- TOP 7.6: Beschaffungsprogramm für Fahrzeuge des Rettungsdienstes 2017 - ungeändert beschlossen
+- TOP 7.7: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 7.8: Stadtklima-/ Stadtverschönerungsprogramm 2016/ 2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9.1: Nachträgliche Genehmigung überplanmäßiger Aufwands- und Auszahlungsermächtigungen im Sozialbereich im Haushaltsjahr 2016 - ungeändert beschlossen
+- TOP 9.2: Überplanmäßige Mehrauszahlung im Teilfinanzplan 0209 – Ausländerangelegenheiten, Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2017 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2016 und 2017. - Kenntnis genommen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Anpassung der Hauptsatzung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 12.2: Vergabe der Strukturförderung im Filmbereich, Haushaltsjahre 2018 bis 2021 - ungeändert beschlossen
+- TOP 12.3: Seniorenkoordination im Stadtbezirk - zurückgestellt
+- TOP 12.4: Mitgliedschaft beim Betreuungsgerichtstag e.V. (BGT) - ungeändert beschlossen
+- TOP 12.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Schönrather Str. 7, 51063 Köln Mülheim und Abbruch der bisherigen Flüchtlingsunterkunft - ungeändert beschlossen
+- TOP 12.6: Feststellung des Jahresabschlusses zum 31.12.2015 der eigenbetriebsähnlichen Einrichtung Abfallwirtschaftsbetrieb der Stadt Köln - ungeändert beschlossen
+- TOP 12.7: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - geändert beschlossen
+- TOP 12.8: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - Baubeschluss - zurückgestellt
+- TOP 12.9: Verteilung verbleibender Mittel zur Förderung Interkultureller Zentren in 2017 - ungeändert beschlossen
+- TOP 12.10: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - zurückgestellt
+- TOP 12.11: 5. Fortführung von "Win-Win für Köln" - ein kombiniertes Programm der Arbeitsmarkt-, Sozial- und Bildungspolitik zur Wertverbesserung städtischer Gebäude - ohne Votum in nachfolgende Gremien
+- TOP 12.12: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - zurückgestellt
+- TOP 12.13: Umsetzung Einzelhandels- und Zentrenkonzept (EHZK) Hier: Entfristung der Koordinationsstelle für Geschäftszentrenentwicklung und Initiativenmanagement im Amt für Stadtentwicklung und Statistik - ungeändert beschlossen
+- TOP 12.14: Baubeschluss: Sanierung und Optimierung des Ki d S - Standortes Brücker Mauspfad 646 - ungeändert beschlossen
+- TOP 12.15: Änderung der Entgelt- und Benutzungsordnung für das Rheinische Bildarchiv - ungeändert beschlossen
+- TOP 12.16: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 12.17: Sanierung der Bühnen Köln - Planungsbeschluss für Werkstattneubau - zurückgestellt
+- TOP 12.18: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" - geändert beschlossen
+- TOP 12.19: Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Humboldt / Gremberg und Kalk" - ungeändert beschlossen
+- TOP 12.20: Entwürfe der Gesamtabschlüsse 2011 - 2015 - ungeändert beschlossen
+- TOP 12.21: Beschlussvorlage zum Jahresabschluss 31.08.2016 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 12.22: Schulrechtliche Errichtung der Gesamtschule Wasseramselweg – Start der Schule bis zum Umzug in den Neubau am benachbarten Interimsstandort Wasseramselweg in anzumietenden Räumlichkeiten zum Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 12.23: Errichtung eines neuen Schulgebäudes sowie einer 6-fach Sporthalle für die Willy-Brandt-Gesamtschule Im Weidenbruch 214, 51061 Köln - ungeändert beschlossen
+- TOP 12.24: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 12.25: Einführung bzw. Ausbau des Berufsbildes „Notfallsanitäter und Notfallsanitäterin“ in der Feuerwehr und im Rettungsdienst Köln - ungeändert beschlossen
+- TOP 12.26: Entwurf des Jahresabschlusses 2016 - ungeändert beschlossen
+- TOP 12.27: Ermächtigungsübertragung in das Haushaltsjahr 2017 - zurückgestellt
+- TOP 12.28: Bürgerhaushalt 2016 - Umsetzung der Vorschläge - geändert beschlossen
+- TOP 12.29: Maßnahmenpaket zur Stärkung und Optimierung der Gebäudewirtschaft - ohne Votum in nachfolgende Gremien
+- TOP 13: Mündliche Anfragen
