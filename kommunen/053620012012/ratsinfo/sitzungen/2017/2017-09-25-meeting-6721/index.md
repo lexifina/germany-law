@@ -1,0 +1,76 @@
+# Rat (36. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-09-25T18:00:00+02:00
+- Ende: 2017-09-25T20:18:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZV3wpHOP2U-_9Sn3XX1X45E
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6721
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeTUywEDel2h1wGrepWptjQFPJVmhnEhwZXWEWmabeWR/Bekanntmachung_Rat_25.09.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcEAiEeI7E6ldCg-DVNvoto5uU0GeGcOBl5UNp9H8BuB/Oeffentliche_Niederschrift_Rat_25.09.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Neugestaltung Unterführung Balthasar-Neumann-Platz
+- TOP 1.2: Fahrradständer am Bahnhof
+- TOP 1.3: Preisträger Rathaus Neubau
+- TOP 1.4: Aktuelle Situation Lupinenweg
+- TOP 1.5: Sicherheit am Balthasar-Neumann-Platz
+- TOP 2.: Niederschrift vom 10.07.2017
+- TOP 3.: Einführung und Verpflichtung von neuen Ratsmitgliedern hier: Herbert Stilz (CDU) und Peter Kirf (CDU)
+- TOP 4.: Anregungen und Beschwerden nach § 24 GO NW
+- TOP 4.1: Anregung gemäß § 24 Gemeindeordnung Nordrhein-Westfalen; hier: Nein zu Gewalt, Fremdenfeindlichkeit, Ruhestörungen, Vandalismus und Sachbeschädigungen im Bereich der städtischen Obdachlosenunterkünfte Lupinenweg, Brühl Bezug: Antrag von Anliegern vom 11.07.2017
+- TOP 4.1.1: Personalaufstockung Ordnungsdienst Bezug: Antrag der SPD-Fraktion vom 03.09.2017
+- TOP 4.1.2: Obdachlosenunterkunft Lupinenweg Bezug: Antrag von Anliegern vom 11.07.2017 und Antrag der SPD-Fraktion vom 25.07.2017
+- TOP 4.1.3: Situation am Lupinenweg - (kein Text vorhanden)
+- TOP 5.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5.1: Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung für den Umzug Flüchtlinge von Brühl-Ost nach Brühl-West - (kein Text vorhanden)
+- TOP 5.2: Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung für die Herrichtung der Containeranlagen in Brühl-Ost zur temporären Unterbringung von städtischem Personal - (kein Text vorhanden)
+- TOP 5.3: Dringlichkeitsentscheidung für die überplanmäßige Bereitstellung für die Erstellung eines Schadstoffkonzeptes im Altbau der Erich Kästner-Realschule (EKR) - (kein Text vorhanden)
+- TOP 5.4: Schadstoffuntersuchung EKR hier: außerplanmäßige Mittelbereitstellung für die Anmietung von Schulraumcontainern für die EKR Bezug: Dringlichkeitsentscheidung Bürgermeister Freytag und Fraktionsvorsitzender Köllejan (CDU) vom 28.08.2017 - (kein Text vorhanden)
+- TOP 6.: Anschaffung eines Fachraumcontainers für den naturwissenschaftlichen Unterricht an der Erich-Kästner-Realschule (EKR) - (kein Text vorhanden)
+- TOP 7.: Außerplanmäßige Mittelbereitstellung Erneuerung Mischwasserkanal Janshof - (kein Text vorhanden)
+- TOP 8.: Entwurf des Gesamtabschlusses 2014
+- TOP 9.: Projekt "Sanierung bzw. Neubau Rathaus Steinweg/Umgestaltung Janshof" hier: Durchführung einer Einwohnerversammlung - (kein Text vorhanden)
+- TOP 10.: 22. Mitgliederversammlung "Gemeindekongress 2017" des Städte- und Gemeindebundes NRW am 23. November 2017 in Düsseldorf hier: Entsendung von Vertretern - (kein Text vorhanden)
+- TOP 11.: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Brühl - (kein Text vorhanden)
+- TOP 12.: Kultur- / Festivalprogramm 2018 - (kein Text vorhanden)
+- TOP 13.: Verlängerung des bestehenden Gleichstellungsplanes (ehemals Frauenförderplanes) um 2 Jahre - (kein Text vorhanden)
+- TOP 14.: Beitritt des Bürgermeisters zum Bündnis "Mayors for Peace" - (kein Text vorhanden)
+- TOP 15.: Immobilienkonzept
+- TOP 16.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2016 - (kein Text vorhanden)
+- TOP 17.: Bebauungsplan 04.14 "Bergerstraße / Weißer Straße" - Verpflichtung des Investors zu einer Mietpreisbindung -
+- TOP 18.: Bebauungsplan 04.14 "Bergerstraße / Weißer Straße" - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 19.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 04.14 „Bergerstraße / Weißer Straße“ - (kein Text vorhanden)
+- TOP 20.: Rahmenplanung Innenstadt, Brühl-Mitte, Unterführung Linie 18, 'Licht- und Sicherheitskonzept' - (kein Text vorhanden)
+- TOP 20.1: Rahmenplanung Innenstadt Ost-West-Achse, Unterführung zum Balthasar-Neumann-Platz, 'Licht- und Sicherheitskonzept' - Kostenberechnung -
+- TOP 21.: Abschluss einer Gruppenbeteiligungsvereinbarung mit den Städten Hürth und Wesseling sowie dem Rhein-Erft-Kreis - (kein Text vorhanden)
+- TOP 22.: Abschluss einer öffentlich-rechtlichen Vereinbarung mit der Stadt Köln über den Betrieb der Stadtbahnlinie 18 auf Brühler Stadtgebiet - (kein Text vorhanden)
+- TOP 23.: Erste Änderung der allgemeinen Vorschrift zur Weiterleitung der Ausbildungsverkehrpauschale gemäß § 11a Abs. 2 ÖPNVG NRW - (kein Text vorhanden)
+- TOP 24.: Taktverdichtung der Linie 18 im Brühler Süden
+- TOP 24.1: Taktverdichtung der Linie 18 im Brühler Süden Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 19.09.2017 Bezug: AfVM vom 19.09.2017 - (kein Text vorhanden)
+- TOP 25.: Umbesetzung in Ausschüssen
+- TOP 25.1: Umbesetzung in Ausschüssen hier: Antrag der CDU Fraktion vom 19.09.2017 - (kein Text vorhanden)
+- TOP 26.: Mitteilungen
+- TOP 26.1: Bahnübergang Schwadorf
+- TOP 27.: Anfragen
+- TOP 27.1: Kreisverkehr Pingsdorfer Straße
+- TOP 27.2: Ratssaal
+- TOP 27.3: Beleuchtung "Am Hornsgarten"
+- TOP 27.4: Brühler Stadtbus
+- TOP 27.5: Mönengasse
+- TOP 27.6: Stadtservicebetrieb; AöR
+- TOP 27.7: Rampe Unterführung Linie 18
+- TOP B): Nichtöffentliche Sitzung
+- TOP 28.: Bestellung zur Antikorruptionsbeauftragten in Wesseling
+- TOP 29.: Organisationsuntersuchung Personalmanagement
+- TOP 30.: Bericht über die 136. Sitzung des Aufsichtsrates der REVG mbH am 29.06.2017
+- TOP 31.: Gesellschafterversammlung Stadtwerke - Änderung des Gesellschaftsvertrags der Confer IT GmbH - (kein Text vorhanden)
+- TOP 32.: Mitteilungen
+- TOP 33.: Anfragen
+- TOP 33.1: Aktuelle Situation Lupinenweg
