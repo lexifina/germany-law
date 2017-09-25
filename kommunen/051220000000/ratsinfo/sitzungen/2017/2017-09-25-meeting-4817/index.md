@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-09-25T17:00:00+02:00
+- Ende: 2017-09-25T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZReqFs6G5ItzXIGDm2QC9sU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4817
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWw3JrSeqgUcPwdUxBru7C0CxpW3B7ckcxmrQ7FTn_e7/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_25.09.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Verkehrssituation Peter-Knecht-Straße/Am Neumarkt
+- TOP 2: Sachstand Ausbauplanungen Raststätte Ohligser Heide West
+- TOP 3: Sperrung der Bahnsstrecken in Wuppertal
+- TOP 4: Anfrage „Lärmoptimierter Asphalt in der Lärmaktionsplanung“
+- TOP 5: Zukunft der Clemens-Galerien
+- TOP 6: Ergebnisse Studie Civity ÖPNV-Report 2017
+- TOP 7: Anfragen der FDP-Fraktion zum ÖPNV in Burg
+- TOP 8: Erschließung Eipaß und Piepersberg
+- TOP 9: Zusätzliche DB-Stationen im Schienenpersonennahverkehr in Solingen
+- TOP 10: Errichtung und Betrieb der Windkraftanlage Gräfrath "Auf der Geleichten"
+- TOP 11: Geplante Baumaßnahme des Spar- und Bauvereins in der Siedlung Böckerhof
+- TOP 12: Gesetz zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenhalts in der Stadt
+- TOP 13: Beseitigung der Unfallhäufigkeitsstelle Viehbachtalstraße
+- TOP 14: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 15: Protokoll
+- TOP 16: Integriertes Brachflächenmanagement
+- TOP 17: Neuausrichtung und Qualitätssicherung Straßengrün
+- TOP 18: Projekt Sicher, fit und klimafreundlich zur Schule
+- TOP 19: Grünanlage Brühl
+- TOP 20: Naturdenkmal Nr. 103, zwei Blutbuchen Altenhofer Straße 93, Vorgarten
+- TOP 21: Soziale Stadt Nordstadt: Aufwertung Theaterumfeld
+- TOP 22: Bauleitplanung der Stadt Wuppertal zum FOC Wuppertal,
+- TOP 23: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf,
+- TOP 24: Beseitigung der Unfallhäufigkeitsstelle Viehbachtalstraße
+- TOP 25: Straßenausbau-Begleitmaßnahme Höhscheider Weg (K 1)
+- TOP 26: Bauleitplanung Kronprinzenstraße/ Weyersberger Straße
+- TOP 27: Bauleitplanung Naturpark/Hermann-Löns-Weg
+- TOP 28: Verschiedenes
+- TOP 29: ÖPNV-Fahrgastbeirat
+- TOP 30: Entfernung Grünpfeil Alleestraße
+- TOP 31: Projektreisen nach Thiès/Senegal und Jinotega/Nicaragua im April 2017
+- TOP 32: ÖPNV Solingen Burg
+- TOP 33: Sachstand Faxe
+- TOP 34: Erneute Stellungnahme der Stadt Solingen zur ersten Änderung des Bebauungsplans „0654- Otto-Hausmann-Ring“ und der 54. Änderung des Flächennutzungsplans der Stadt Wuppertal
+- TOP 35: Brücke Leichlinger Straße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Neubau Hauptstelle Stadtsparkasse
+- TOP 4: Bauleitplanung Naturpark/Hermann-Löns-Weg
+- TOP 5: Verschiedenes
