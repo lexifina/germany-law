@@ -1,0 +1,72 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-26T17:00:00+02:00
+- Ende: 2017-09-26T20:55:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13222
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13222
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300860.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300860.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300860.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Verpflichtung eines Mitgliedes der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Rennbahnstraße 15 - zur Kenntnis genommen
+- TOP 9: Erbbaurechtsbestellung Forsthaus Trotzhof - zur Kenntnis genommen
+- TOP 10: Forsthaus Trotzhof - Denkmalschutz - beantwortet
+- TOP 11: Forsthaus Trotzhof - Instandhaltungsverpflichtung - beantwortet
+- TOP 12: Grafenberger Wald / Forsthaus Rennbahnstraße 15
+- TOP 13: Bebauungsplanverfahren Nr. 07/004 - Ernst-Poensgen-Allee 3 - - mehrheitlich beschlossen
+- TOP 14: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2017) - einstimmig beschlossen
+- TOP 16: Sitzungstermine der Bezirksvertretung 7 im Jahre 2018 - zur Kenntnis genommen
+- TOP 17: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 18: Glasmacherviertel - mehrheitlich abgelehnt
+- TOP 19: Glasmacherviertel - Übernahme durch die Stadt - zurückgezogen
+- TOP 20: Sachstandsvortrag Glashüttengelände - einstimmig beschlossen
+- TOP 21: Fußgängerbrücke über die Düssel in Höhe Kgv. Hippeland - einstimmig beschlossen
+- TOP 22: Busverbindung zum Flughafen Düsseldorf - einstimmig beschlossen
+- TOP 23: Öffnung von Einbahnstraßen für den Radverkehr in beide Fahrtrichtungen - einstimmig beschlossen
+- TOP 24: Verbesserung der Verkehrssicherheit für Fußgänger*innen an der Karlsbader Str. - einstimmig beschlossen
+- TOP 25: Verbesserung der Verkehrssituation auf der Josef-Neuberger-Str. - zur Kenntnis genommen
+- TOP 26: Fußweg bei Knuppertsbrück - einstimmig beschlossen
+- TOP 27: Spielplatz Quadenhofstraße - zurückgezogen
+- TOP 28: Verkehrssituation Morper Straße/ Ecke Quadenhofstraße - einstimmig beschlossen
+- TOP 29: Bepflanzung Gutenberg Schule - mehrheitlich beschlossen
+- TOP 30: Sachstandsbericht Verkehrssituation im Stadtbezirk 7 - mehrheitlich abgelehnt
+- TOP 31: Gutenbergschule - zurückgezogen
+- TOP 32: Seniorenwohnheim Gallberg - mehrheitlich abgelehnt
+- TOP 33: Ersatzparkplätze Straßenbaustellen Heckteich-/ Höherhofstraße - mehrheitlich abgelehnt
+- TOP 34: Fahrradfahren auf der Brücke Unter den Eichen / Dreherstraße - mehrheitlich beschlossen
+- TOP 35: Sauberkeit der Wiese gegenüber dem Altenheim Blanckertzstraße - einstimmig beschlossen
+- TOP 36: Grütersaaper Weg
+- TOP 37: Lärmreduzierung Gerricusstraße - beantwortet
+- TOP 38: Bebauung Heyestraße 179 - beantwortet
+- TOP 39: Gelände der Bergischen Kaserne - beantwortet
+- TOP 40: Situation Geibelstraße - beantwortet
+- TOP 41: Bergische Kaserne / Olympisches Dorf
+- TOP 42: WLAN an den Schulen im Stadtbezirk 7 - beantwortet
+- TOP 43: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 44: Ludenberger Straße - Einsatz von E-Bussen - zur Kenntnis genommen
+- TOP 45: Situation der Buslinie 733 - zur Kenntnis genommen
+- TOP 46: Straßenbahngleise Ludenberger Straße - zur Kenntnis genommen
+- TOP 47: Bäumchen an der Pfeifferbrücke - zur Kenntnis genommen
+- TOP 48: Erstellung einer fußläufigen Verbindung Siedlung Stratenhof Knittkuhler Straße - zur Kenntnis genommen
+- TOP 49: Öffentlichkeit durch Live-Stream der Sitzungen - zur Kenntnis genommen
+- TOP 50: Tempo 40 - Beschilderung Benderstraße - zur Kenntnis genommen
+- TOP 51: 30-km/h Zone Dreifaltigkeitsstraße / Vereinsstraße - zur Kenntnis genommen
+- TOP 52: Parksituation und desolater Zustand der Grünflächen am Waldrand der Quadenhofstraße - zur Kenntnis genommen
+- TOP 53: Trinkwasserspender Kinderspielplatz Dreherstraße (Alter Gerresheimer Friedhof) - zur Kenntnis genommen
+- TOP 54: Bushaltestelle Sulzbachstraße - zur Kenntnis genommen
+- TOP 55: Metrobuslinien im Stadtbezirk 7 - zur Kenntnis genommen
