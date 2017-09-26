@@ -1,0 +1,56 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-09-26T15:00:00+02:00
+- Ende: 2017-09-26T20:50:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3823
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3823
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift 19. Sitzung PlanBA 09.05.2017 - öTeil - - Zur Kenntnis genommen
+- TOP 2: Niederschrift 20. Sitzung PlanBA 20.06.2017 - öTeil - - Zur Kenntnis genommen
+- TOP 3: Städtebauliche Fördermaßnahme Alt-Mönchengladbach - Kenntnisnahme
+- TOP 4: Konversion Joint Headquarters (JHQ) - Kenntnisnahme
+- TOP 5: Sachstandsbericht Förderprogramm „Gute Schule 2020“ - Kenntnisnahme
+- TOP 6: Verlagerung des Stadtarchivs ins Vituscenter - Einstimmiger Beschluss
+- TOP 7: Masterplan Nahmobilität - Einbringung - Kenntnisnahme
+- TOP 8: Zweckverband „Tagebaufolge(n)landschaft Garzweiler - Mit Stimmenmehrheit beschlossen
+- TOP 9: Sachstand Neubau Feuerwache Stockholtweg - Kenntnisnahme
+- TOP 10: Einleitung eines Einziehungsverfahrens - Einstimmiger Beschluss
+- TOP 11: Rückbau Brücke Bettrather Straße - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 12: Ergebnisbericht -Untersuchung über die Qualität des Verkehrsablaufes auf Hauptverkehrsstraßen- - Kenntnisnahme
+- TOP 13: Fortschreibung des Nahversorgungs- und Zentrenkonzeptes - Einstimmiger Beschluss
+- TOP 14: Bauplanungsrechtsnovelle 2017 - Kenntnisnahme
+- TOP 15: Erarbeitungsverfahren Regionalplan Regierungsbezirk Düsseldorf (RPD-Entwurf 2017) - Mit Stimmenmehrheit beschlossen
+- TOP 16: Lärmaktionsplan Mönchengladbach - Umsetzungsstand - Kenntnisnahme
+- TOP 17: Plangenehmigungsverfahren der Deutschen Bahn AG - Kenntnisnahme
+- TOP 18: Wohnungsbaufördermittel 2017 - Einstimmiger Beschluss
+- TOP 19: Roermonder Straße 2.BA - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: 229. Änderung des Flächennutzungsplanes - Stadtbezirk Nord - Europaplatz - Kenntnisnahme
+- TOP 21: Bebauungsplan Nr. 789/N - Stadtbezirk Nord - Europaplatz - Kenntnisnahme
+- TOP 22: Bebauungsplan Nr. 790/N - Stadtbezirk Nord, Gladbach und Eicken - Kenntnisnahme
+- TOP 23: Veränderungssperre Europaplatz - Einstimmiger Beschluss
+- TOP 24: Bebauungsplan Nr. 791/N - Stadtbezirk Nord - Stadtteil Gladbach - Kenntnisnahme
+- TOP 25: Gestaltungsrichlinie Sondernutzungen - Mit Stimmenmehrheit beschlossen
+- TOP 26: Werbeanlagensatzung Innenstadt - Mit Stimmenmehrheit beschlossen
+- TOP 27: Vorkaufsrechtssatzung Mönchengladbacher Innenstadt und Aufhebungssatzung Mönchengladbach Stadtmitte - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Aufstellung eines BP - Stadtbezirk West - Rheindahlen, Gebiet nördlich der Bahntrasse - Mit Stimmenmehrheit beschlossen
+- TOP 29: Bebauungsplan Nr. 782/W - Stadtbezirk West - Rheindahlen-Land - Mit Stimmenmehrheit beschlossen
+- TOP 30: 207. Änderung des Flächennutzungsplanes - Stadtbezirk West, Bereich Nordpark ( Borussiapark) - Einstimmiger Beschluss
+- TOP 31: Bebauungsplan Nr. 510/W - Stadtbezirk West - Nordpark (Borussiapark) - Einstimmiger Beschluss
+- TOP 32: 225. Änderung FNP - Stadtbezirk West, Bereich Nordpark - Einstimmiger Beschluss
+- TOP 33: BP 511/W - Stadtbezirk West, Nordpark - Einstimmiger Beschluss
+- TOP 34: Nordstraße - signalisierter Fußgängerüberweg - Einstimmiger Beschluss
+- TOP 35: Reststrauch - signalisierer Fußgängerüberweg - Einstimmiger Beschluss
+- TOP 36: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2017 - Einstimmiger Beschluss
+- TOP 37: Zwischenbericht der GSM über das 2. Quartal 2017 - Kenntnisnahme
+- TOP 38: Wohnmobilplatz - Einstimmiger Beschluss
+- TOP 39: Abgesicherte Finanzierung der Ewigkeitskosten des Tagebaus Garzweiler II - Mit Stimmenmehrheit abgelehnt
+- TOP 40: Verkehrsaufkommen Dömgesstraße - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Berichte über die Durchführung von Beschlüssen - Zur Kenntnis genommen
+- TOP 42: Anfragen und Mitteilungen - Zur Kenntnis genommen
