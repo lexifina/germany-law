@@ -1,0 +1,54 @@
+# Rat (108. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2017-09-26T18:00:00+02:00
+- Ende: 2017-09-26T19:49:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUxGNPcS10VPlvce0BZu1ao
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14142
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSHKtzG377lNL2qFqvLpd5_WClZuzMJ1YpVemdEb8Qcw/Bekanntmachung_Rat_26.09.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZGxf2vC3dtRiH2u0RV-Ik5-8hwXKIOVdPpxO6qq8pn/Oeffentliche_Niederschrift_Rat_26.09.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 11.07.2017
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO
+- TOP 4.1: Genehmigung der Dringlichkeitsentscheidung "Übertragung der Entscheidungskompetenz für die Erteilung eines Auftrags über 50.000 € an den Bürgermeister" - Einstimmig
+- TOP 5.: Ermächtigung des Betriebsausschusses Abwasserwerk (BA) zur Vergabe des Auftrages zur Klärschlammentsorgung vom 01.01.2018 bis zum 31.12.2019 - 41 Ja-Stimme(n), 0 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 6.: Anregung des Dr. Alexander Neu, MdB: Adressweitergabe an Bundeswehr, Widerspruch erleichtern - 42 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 7.: Stadtwerke Emsdetten GmbH
+- TOP 7.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2016 und Kapitalausschüttung - Einstimmig
+- TOP 8.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2016 mit Jahresabschluss zum 31.12.2016 - 39 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.: Fortschreibung des Handlungskonzeptes Wohnen für Emsdetten - Einstimmig
+- TOP 10.: Verkehrsfragen
+- TOP 10.1: Befristete Freigabe der Fußgängerzone für den Radverkehr - 26 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.: Neubau einer Parkpalette am Bahnhof - Einstimmig
+- TOP 12.: Flächennutzungsplan
+- TOP 12.1: Flächennutzungsplan der Stadt Emsdetten 7. Änderung im Bereich des Bebauungsplanes Nr. 66 A "Bühlsand / Waldschänke" - Feststellungsbeschluss - - 34 Ja-Stimme(n), 4 Gegenstimme(n), 6 Enthaltung(en)
+- TOP 12.2: 13. Änderung des Flächennutzungsplans im Bereich des Bebauungsplans Nr. 44 "Kläranlage Meinerts Esch" - Beschluss zur öffentlichen Auslegung - Einstimmig
+- TOP 13.: Bebauungspläne
+- TOP 13.1: Bebauungsplan Nr. 31 "Gemeindezentrum Hollingen", 7. Änderung - Satzungsbeschluss - - Einstimmig
+- TOP 13.2: Bebauungsplan Nr. 8 I "Nordwalder Straße / Mühlenstraße", 5. Änderung - Satzungsbeschluss - - Einstimmig
+- TOP 13.3: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 14. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 13.4: Bebauungsplan Nr. 99 "Jan-van-Detten-Straße / Rheiner Straße" - Satzungsbeschluss - Ohne Abstimmung
+- TOP 13.5: Bebauungsplan Nr. 99 "Jan-van-Detten-Straße / Rheiner Straße" - Satzungsbeschluss - Ohne Abstimmung
+- TOP 13.6: Bebauungsplan Nr. 100 T2 "Gewerbegebiet Nord" 1. Änderung und 1. Ergänzung - Satzungsbeschluss - Einstimmig
+- TOP 14.: Zustimmung gemäß § 125 Baugesetzbuch
+- TOP 14.1: Straßenausbau "Sternbusch" - § 125-Verfahren - Feststellungsbeschluss - Einstimmig
+- TOP 14.2: Straßenausbau "Schwarzer Weg" - § 125-Verfahren - - Einstimmig
+- TOP 15.: Umbau, Erweiterung sowie energetische Sanierung der Josefschule - Einstimmig
+- TOP 16.: Schulangelegenheiten
+- TOP 16.1: Mittelfristiges Nutzungskonzept für die Gebäude des Grundschulverbundes Buckhoffschule - 33 Ja-Stimme(n), 9 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 16.2: Begrenzung der in die Eingangsklassen der Grundschulen aufzunehmenden Schülerinnen und Schüler gem. § 46 Abs. 3 Satz 3 Schulgesetz - Einstimmig
+- TOP 17.: Kulturangelegenheiten
+- TOP 17.1: Ergänzung der Benutzungs- und Gebührenordnung der Stadtbibliothek Emsdetten - Einstimmig
+- TOP 18.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 18.1: Übernahme von Trägeranteilen - Einstimmig
+- TOP 18.2: Weiterentwicklung der Schulsozialarbeit an Grundschulen in Emsdetten - Einstimmig
+- TOP 19.: Verschiedenes
