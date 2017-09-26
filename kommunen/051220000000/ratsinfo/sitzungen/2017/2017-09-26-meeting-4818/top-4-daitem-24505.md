@@ -1,0 +1,7 @@
+# TOP 4: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2017
+
+- Sitzung: Haupt- und Personalausschuss (2017-09-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/24505
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/25125
