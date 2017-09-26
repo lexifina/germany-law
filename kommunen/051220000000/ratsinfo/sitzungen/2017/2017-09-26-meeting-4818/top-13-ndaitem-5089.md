@@ -1,0 +1,6 @@
+# TOP 13: Vergabe eines Auftrages zur Lieferung eines Mehrzweckfahrzeuges (MZF) als Brandschutzinfomobil für die Feuerwehr
+
+- Sitzung: Haupt- und Personalausschuss (2017-09-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/5089
