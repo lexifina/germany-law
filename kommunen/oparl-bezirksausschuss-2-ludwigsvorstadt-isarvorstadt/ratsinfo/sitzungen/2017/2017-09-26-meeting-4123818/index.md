@@ -1,0 +1,130 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-09-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123818
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123818
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.1.: Bürgeranliegen, Goetheplatz bzw. Goethestraße, Müll von Drogenkonsumenten vor den Hauseingängen, vgl. TOP Bürgerfragen 2017.07 II Pkt. 7
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.1.: Bürgeranliegen, Aufwertung des Baldeplatzes, vgl. Bürgerfragen 2017.07 II Pkt. 2
+- TOP 5.4.: Kollosseumstraße, Freischankfläche, Restbreite auf dem Bürgersteig nicht ausreichend
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: BA-Antrag: Fairer Umgang mit dem Verein Zeit, Schlacht und Raum
+- TOP 1.2.: BA-Antrag: Anpassung der Einstufung von Wohnanlagen im Mietspiegel
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Verein für heilpädagogische Aufgaben e.V. Anschaffung eines Laptops und eines Handys
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren, Beschlussentwurf; PLENUMSBESCHLUSS
+- TOP 5: Sonstiges
+- TOP 5.2.: Bürgeranliegen, Fraunhoferstraße 13, Hausverkauf
+- TOP 5.3.: Projekt „Querungshilfen“ startet am 19.09.2017 um 14.30 Uhr mit einem Info-Termin vor Ort an der Ecke Ickstatt- / Baaderstraße 79
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag: Begrünung Tumblingerstraße 7 bis 17
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Ehrengutstraße 1a; Erweiterung der Bebauung mit einem Wohn- und Geschäftshaus und Neubau eines Wohn- und Geschäftshauses - Vorbescheid
+- TOP 3.1.2.: Schwanthalerstraße 88, Errichtung eines Studentenwohnheims (VGB + RGB) mit 38 Studentenappartements und Tiefgarage - Vorbescheid
+- TOP 3.1.3.: Fraunhoferstraße 10, Nutzungsänderung 1. + 2. OG: Einbau von vier Wohnungen in ehemaliger Pension, Abbruch + Neubau Dachstuhl, Einbau einer zusätzlichen Wohnung im DG sowie eines Personenaufzugs, Abbau von Balkonen (hofseitig), Fenster-Änderung (straßenseitig) – Tektur – hier: Anbau eine Feuer-Fluchtleiter an der Westfassade (hofseitig, EG - DG)
+- TOP 3.1.4.: Auenstraße 50, Ausbau des Speichers zu einer Wohnung mit Galerie
+- TOP 3.1.5.: Dreimühlenstraße 33, Anbau von Balkonen an der Rückfassade (VGB)
+- TOP 3.1.6.: Tumblingerstraße 17, Umbau, Renovierung, DG-Ausbau, Anbau von Balkonen (VGB + RGB); Nutzungsänderung von Gewerbe zu Büro (EG / RGB); Ausbau von Kellerräumen zu Gewerbe, Anbau eines Außenaufzugs (VGB), Einbau eines Aufzugs (RGB), Einbau / Austausch von Fenstern, Eingangstür und Tür-Fenster (VGB + RGB), sowie Einbau und Erneuerung von Balkonen (VGB + RGB) - Tektur
+- TOP 3.2.1.: Buttermelcherstraße 10; Fällungsantrag einer Silberweide; PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Begrünungsvorschlag Tumblinger- und Kapuzinerstraße, siehe TOP B 1.1
+- TOP 5.2.: Karlsplatz 25, Weiterleitung der früheren Stellungnahmen des BA 2 zu TOP B 4.4
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Umgestaltung Holzplatz
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Thalkirchner Straße 3, Erweiterungsantrag, vgl. TOP 2017.08 C 2.1.2 (N), Schreiben des Kreisverwaltungsreferates vom 12.09.2017, PLENUMSBESCHLUSS
+- TOP 2.1.2.: Bahnhofplatz 1, Genehmigung einer Freischankfläche, PLENUMSBESCHLUSS
+- TOP 2.1.3.: St.-Paul-Straße 4, Freischankfläche, vgl. 2017.07 C 2.1.1, aktuelle Beschwerde, PLENUMSBESCHLUSS
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Parkraummanagement in München, Fortschreibung Sektor V, Sitzungsvorlage-Nr. 14-20 / V 08574 – Beschlussentwurf, Termin: 04.10.17
+- TOP 3.2.2.: Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat – Turnusmäßige Beschlussvorlage und Bekanntgabe; Vertagung aus 2017.08 C 3.2.1
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Sonnenstraße, Umrüstung zweier Werbevitrinen (zweiseitig) zu Wechselanlagen – Wartehallen 751 und 753
+- TOP 3.3.2.: Sonnenstraße, Umrüstung zweier Werbevitrinen (zweiseitig) zu Wechselanlagen – Wartehallen 8001 und 8003
+- TOP 3.3.3.: Bahnhofplatz, Umrüstung einer Werbevitrine (zweiseitig) zu Wechselanlage – Wartehalle 682
+- TOP 3.3.4.: Bahnhofplatz, Umrüstung einer Werbevitrine (zweiseitig) zu Wechselanlage – Wartehalle 680
+- TOP 3.3.5.: Bahnhofplatz, Umrüstung einer Werbevitrine (zweiseitig) zu Wechselanlage – Wartehalle 1863
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Schutz der Isar vor Silvesterfeuerwerk – Die Isar und ihr Hochwasserbett, sowie die Isarbrücken und Isarparallele werden künftig vor geräuschintensivem Silvester-feuerwerk (Raketen, Böller und Böllerbatterien) geschützt, BA-Antrags-Nr. 14-20 / B 03326 des BA 2 vom 21.02.2017; Antwortschreiben des Kreisverwaltungsreferates vom 27.06.2017, vgl. Vertagung TOP 2017.07 C 4.14 und 2017.08 C 5.2, Überarbeitung der Stellungnahme des BA 2
+- TOP 5.3.: „Am Glockenbach“; Straßenerneuerung bzw. Ausbesserung der großen Schäden längst überfällig
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Alfresco; Technik-Pauschale und elektronische Ladung; Anhörungsschreiben des Direktoriums vom 17.08.2017
+- TOP 2.1.: Unterausschuss „Kultur, Jugend, Soziales“ am Montag, den 09.10.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Öffentlicher Raum, Mobilität“ am Dienstag, den 10.10.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Planen, Bauen“ am Mittwoch, den 11.10.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 16.10.2017 um 19 Uhr in der Geschäftsstelle Mitte, Tal 13, 80331 München statt. Die BA-Sitzung findet am Dienstag, den 24.10.2017 um 19 Uhr im Saal der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München.
+- TOP 3: Veranstaltungen
+- TOP 3.1.: City2Share – Quartierswerkstatt, 07.10.2017 von 14 bis 18 Uhr, Gemeindesaal Pfarramt St. Matthäus, Nußbaumstraße 1
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: Bürgerbeteiligung in den Stadtvierteln, Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt“, Schreiben des Referates für Stadtplanung und Bauordnung vom 01.09.2017
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.3.: Kapuzinerstraße 18, Neubau eines Wohngebäudes, Vorbescheid gem. Art. 71 Bayerische Bauordnung (BayBO) vom 28.08.2017 dem BA 2 zur Kenntnis
+- TOP B 4.4.: (U) Karlsplatz 25 Umgestaltung der öffentlichen Verkehrsflächen im Vorfeld des Hotels Königshof im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt 1. Bedarfs- und Konzeptgenehmigung 2. Genehmigung zur verwaltungsinternen Abwicklung der weiteren Genehmigungsschritte 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP B 4.5.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP B 4.6.: Baureferat, Beschlussvorlage Surfbare Flusswellen im Stadtgebiet, Sitzungsvorlage Nr. 14-20 / V 09543, Beschluss des Bauausschusses vom 12.09.2017 (SB)
+- TOP B 4.7.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015
+- TOP B 4.8.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP B 4.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Regelungen / Standards im Wohnungsbau; A. Auflagen im Wohnungsbau überprüfen, B. Abstandsflächenregelung überprüfen; Sitzungsvorlagen Nr. 14-20 / V 08589, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017 (SB)
+- TOP B 4.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bebauungsdichte erhöhen und Wohnraum schaffen durch Aufstockungen, Sitzungsvorlagen Nr. 14-20 / V 06189, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017 (SB)
+- TOP B 4.11.: Auenstraße 40, Abbruch und Neubau des Dachgeschosses des Riemerschmid-Wohnhauses mit Notleiteranlage und Fluchtbalkonen, Baugenehmigung gemäß Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren vom 08.09.2017
+- TOP B 4.12.: Adolf-Kolping-Straße 10, Nutzungsänderung; Anfrage-Nr. 14-20 / F 00965 vom 18.07.2017; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 13.09.2017 dem BA 2 zur Kenntnis
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.6.: Das Kreisverwaltungsreferat wird beauftragt zu prüfen, ob die derzeit provisorische Fußgängerampel am Sendlinger-Tor-Platz zwischen Lindwurmstraße 3 und dem Turm der Kirche St. Matthäus nach dem Rückbau der Provisorien wegen der Großbaustelle beibehalten werden kann, BA-Antrags-Nr. 14-20 / B 03675 des BA 2 vom 30.05.2017, Antwortschreiben des Kreisverwaltungsreferates vom 18.07.2017
+- TOP C 4.7.: Stephansplatz - Aufstellung eines Abfallbehälters und Bänke
+- TOP C 4.8.: Antrag auf Genehmigung bzw. Erweiterung Freischankfläche Schwanthalerstraße 45 und Landwehrstraße 44, vgl. TOP&#039;s 2017.07 C 2.1.2 und C 2.1.3, Vorlagen des Kreisverwaltungsreferates an den Oberbürgermeister zur Kenntnis
+- TOP C 4.9.: Erschließung des Stadtteilkultur-/Schulzentrums Ruppertstraße durch Fahrradwege
+- TOP C 4.10.: Prüfung einer Ampelauflassung Goethestraße/Nußbaumstraße/Lessingstraße
+- TOP C 4.11.: Bürgeranliegen Adlzreiterstraße 21, Auflösung von zwei Stellplätzen, vgl. TOP 2017.02 C 5.4, Antwortschreiben des Baureferates vom 24.08.2017
+- TOP C 4.12.: (U) Planung eines 3. Tram-Gleises mit Haltestelle auf dem Bahnhofplatz in provisorischer Lage bis zur endgültigen Umgestaltung des Bahnhofplatzes
+- TOP C 4.13.: Müllentsorgung im Umfeld der Theresienwiese während des Oktoberfestes 2017, Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV, Einsatz von Müllsammelfahr-zeugen in den Wohngebieten um die Theresienwiese
+- TOP C 4.14.: Leistungsprogramm der MVG für die Fahrplanperiode 2018, Sitzungsvorlage Nr. 14-20/V09197, Beschluss der Vollversammlung des Stadtrates am 26.07.2017
+- TOP C 4.15.: Bürgeranliegen; Ampelschaltung Fraunhoferstraße – Auenstraße – Erhardstraße – Reichenbachbrücke; Antwort des Kreisverwaltungsreferates per Email vom 14.09.2017
+- TOP C 4.16.: Bürgeranliegen, Bau einer Querungshilfe in der Ruppertstraße / Stromtankstelle, Schreiben des Baureferates vom 13.09.2017 zur Kenntnis
+- TOP C 4.17.: Antrag auf Genehmigung bzw. Erweiterung Freischankfläche Schwanthalerstraße 45 und Landwehrstraße 44, vgl. TOP&#039;s 2017.07 C 2.1.2, C 2.1.3 und 2017.09 C 4.8, Entscheidungen des Oberbürgermeisters Dieter Reiter vom 15.09.2017 zur Kenntnis
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München, Schreiben des Direktoriums vom 11.09.2017 zur Kenntnis
+- TOP D 4.2.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München; Änderung der Bürger- und Einwohnerversammlungssatzung
