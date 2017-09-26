@@ -1,0 +1,6 @@
+# TOP 5: Mündlicher Bericht der Agentur für Arbeit zum Thema Jugendarbeitslosigkeit
+
+- Sitzung: Jugendhilfeausschuss (13. Sitzung) (2017-09-26)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/15101
