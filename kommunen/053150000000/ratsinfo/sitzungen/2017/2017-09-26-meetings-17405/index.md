@@ -1,0 +1,90 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-09-26T17:00:00+02:00
+- Ende: 2017-09-26T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17405
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17405
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: "Änderung der Straßenführung in Köln-Zündorf (Az.: 02-1600-202/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 6.1: Antrag der SPD-Fraktion: Jugend-Sitzung der Bezirksvertretung Porz - aus der letzten Sitzung geschoben wegen Beratungsbedarf - endgültig zurückgezogen
+- TOP 6.1.1: Änderungsantrag der Fraktionen CDU und Grüne zu TOP 6.4: : Jugend-Sitzung der Bezirksvertretung Porz - endgültig zurückgezogen
+- TOP 6.1.2: Gemeinsamer Antrag der Fraktionen CDU, SPD und Grüne: Schüler/-innen Sitzung - ungeändert beschlossen
+- TOP 6.2: Antrag der CDU-Fraktion: Umzäunung der Grillhütte am Poller Damm in Poll - aus der letzten Sitzung geschoben wegen Beratungsbedarf - geändert beschlossen
+- TOP 6.3: Antrag der SPD-Fraktion: Ausweisung „Am Rolshover Hof“ in Anliegerstraße - aus der letzten Sitzung geschoben wegen Beratungsbedarf - zurückgestellt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: NEUFASSUNG: Antrag der Fraktionen CDU und Grüne: Überarbeitung des Einzelhandels- und Zentrenkonzeptes (EHZK) Köln - ungeändert beschlossen
+- TOP 6.7: Antrag der CDU-Fraktion: Sachvortrag zum Glücksspielstaatsvertrag - geändert beschlossen
+- TOP 6.7.1: Änderungsantrag der SPD-Fraktion zu TOP 6.7 - Vortrag Glücksspielstaatsvertrag - ungeändert beschlossen
+- TOP 6.8: Antrag der CDU-Fraktion: Sachvortrag Gremberghoven - ungeändert beschlossen
+- TOP 6.8.1: Änderungsantrag der SPD-Fraktion zu TOP 6.8 - Fachvortrag Grembergoven - endgültig abgelehnt
+- TOP 6.9: Antrag der CDU-Fraktion: Absperrpfosten Fischerweg - ungeändert beschlossen
+- TOP 6.10: Antrag der CDU-Fraktion: Änderung des Bebauungsplan für das Gewerbegebiet (GE) Eil - ungeändert beschlossen
+- TOP 6.11: Antrag der CDU-Fraktion: Problematische Entwässerung der Mischanlage Spich nach Porz - ungeändert beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1.1: Benennung von zwei Planstraßen im Baugebiet Köln-Porz/Zündorf - geändert beschlossen
+- TOP 7.1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Porz) ab dem Jahr 2017 ff. - ungeändert beschlossen
+- TOP 7.1.3: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - zurückgestellt
+- TOP 7.1.4: Verbesserung der Verkehrssicherheit auf der Müllergasse in Köln-Poll - ungeändert beschlossen
+- TOP 7.1.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 7.1.6: Starke Veedel - Starkes Köln - Sozialraum Porz-Ost, Finkenberg, Gremberghoven und Eil Hier: Zuwendung aus dem städtischen Aktivierungsfonds für Projekte im Sozialraum - ungeändert beschlossen
+- TOP 7.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.2.1: Gestaltungshandbuch der Stadt Köln - Sammelumdruck geschoben aus der letzten Sitzung - ungeändert empfohlen
+- TOP 7.2.2: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - mit Änderungen empfohlen
+- TOP 7.2.2.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.2.2.: Hermes - ungeändert beschlossen
+- TOP 7.2.2.2: Änderungsantrag der SPD-Fraktion zu TOP 7.2.2 - Hermes Logistik - endgültig abgelehnt
+- TOP 7.2.3: 261. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.2.4: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - Sammelumdruck - ungeändert empfohlen
+- TOP 7.2.5: 214. FNP-Änderung; Hohenstaufenstraße/Steinstraße in Köln-Porz-Gremberghoven; Beschluss über Stellungnahmen aus der Offenlage und Feststellungsbeschluss - ungeändert empfohlen
+- TOP 7.2.6: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - Sammelumdruck - mit Änderungen empfohlen
+- TOP 7.2.6.1: Änderungsantrag der CDU-Fraktion zu TOP 7.2.6 - Brötchentaste - geändert beschlossen
+- TOP 7.2.7: Altlastensanierung der Sportanlage Humboldtstraße in Köln-Porz - ungeändert empfohlen
+- TOP 7.2.8: Zurückgezogen
+- TOP 7.2.9: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - ungeändert empfohlen
+- TOP 7.2.10: Änderung der städtischen Vertretung im Forensikbeirat an der LVR-Klinik Köln - ungeändert empfohlen
+- TOP 7.2.11: Anpassung der Hauptsatzung der Stadt Köln - aus der letzten Sitzung geschoben - mit Änderungen empfohlen
+- TOP 7.2.11.1: Änderungsantrag der CDU-Fraktion zu TOP 7.2.11 - Hauptsatzung - geändert beschlossen
+- TOP 7.2.12: Planfeststellungsverfahren für die Erweiterung und den Weiterbetrieb der Deponie „Am Wiemersgrund" in Köln-Poll - mit Änderungen empfohlen
+- TOP 7.2.12.1: Änderungsantrag der Fraktionen CDU, SPD und Grüne zu TOP 7.2.12 - Deponie Am Wiemersgrund - ungeändert beschlossen
+- TOP 7.2.13: "GE westlich Linder Kreuz" in Köln-Porz-Lind, 4. Änderung; 77349/04; Einleitungsbeschluss - mit Änderungen empfohlen
+- TOP 7.2.13.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2.13: GE westlich Linder Kreuz - endgültig abgelehnt
+- TOP 7.2.14: Antoniusstraße in Köln-Porz-Urbach, 76390/02; 2. Änderung; Einleitungsbeschluss - mit Änderungen empfohlen
+- TOP 7.2.14.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2.14: Antoniusstraße - endgültig abgelehnt
+- TOP 8: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Beantwortung einer Anfrage AN/0963/2017 Pavillon am Rheinufer in Porz-Mitte - Kenntnis genommen
+- TOP 8.1.2: Am Bahnhof in Köln-Porz-Wahn; Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 8.1.3: Beleuchtung des Fußgängerweges am Lärmschutzwall in Porz-Lind hier: Anfrage der SPD-Fraktion in der Sitzung der Bezirksvertretung Porz am 06.12.2016, TOP 8.2.2 - Kenntnis genommen
+- TOP 8.2: Neue Anfragen
+- TOP 9: Mitteilungen
+- TOP 9.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 9.2: Mitteilungen der Verwaltung
+- TOP 9.2.1: Autofreie Straßen an Reinigungstagen im Stadtbezirk Porz - Kenntnis genommen
+- TOP 9.2.2: Modellversuch "Schutzstreifen auf der Siegburger Straße" - Kenntnis genommen
+- TOP 9.2.3: Beschlussfassung des Jugendhilfeausschusses "Jugendhilfeangebote für Kinder und Jugendliche aus Zuwanderer- und Flüchtlingsfamilien" - Kenntnis genommen
+- TOP 9.2.4: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 - Sammelumdruck - Kenntnis genommen
+- TOP 9.2.5: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 9.2.6: Rucksack, Koordinierte Sprachförderung und Elternbildung, Fotodokumentation - Kenntnis genommen
+- TOP 9.2.7: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 9.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.9: Treppenabgang Ohmstraße in Porz-Mitte - Kenntnis genommen
+- TOP 9.2.10: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Sammelumdruck - Kenntnis genommen
+- TOP 9.2.11: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 9.2.12: Kölner Perspektiven 2030 - Sammelumdruck - Kenntnis genommen
+- TOP 10: Annahme von Schenkungen
