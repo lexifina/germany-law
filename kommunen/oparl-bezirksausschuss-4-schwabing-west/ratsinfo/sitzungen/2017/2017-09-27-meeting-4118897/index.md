@@ -1,0 +1,121 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-09-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118897
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118897
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Bürgerin: Sanierung der Georgenschwaige
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Condrobs e.V. Reparatur des Lastenaufzuges
+- TOP 2.2.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren – Erneute Anhörung zur Beschlussvorlage für den Bildungsausschuss
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Förderverein der Städtischen Hermann-Frieb-Realschule e.V. Ausbildungs-Workshop vom 27. - 29.09.2017 649,40 Euro
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Initiative "Studienensembles" Konzert am 03.03.2018
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Kreuzkirche Konzert zum Reformationsjubiläum am 15.10.2017 1.200,00 €
+- TOP 2.3.1.: Große Wiese Ackermannbogen: Streetsoccerturnier und Großspielgeräte am 06.10.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Versetzen eines Streugutkastens und zweier Zeitungskästen aus dem Kreuzungsbereich Schleißheimer Straße/Karl-Theodor-Straße (Antwort der Bezirksinspektion auf BA-Schreiben vom 24.08.2017)
+- TOP 3.1.2.: Schließung und Sanierung der öffentlichen WC-Anlage am Kurfürstenplatz (Antwort des Referats für Arbeit und Wirtschaft auf BA-Schreiben vom 24.08.2017)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis für „Kunst im Karrée“ 2017
+- TOP 3.3.1.: Krimiserie „Soko München“ am 11.09.2017 in der Winzererstr. 75
+- TOP 3.3.2.: Werbespot „Nice Price Spot“ am 03.09.2017 in der Clemens-/ Ecke Apianstraße
+- TOP 3.3.3.: TV-Produktion „Über Land“ am 14.09.2017 in der Herzogstr. 63 und gegenüber
+- TOP 3.3.4.: TV-Produktion „Schicksale“ am 13.09.2017 im Luitpoldpark
+- TOP 3.3.5.: Krimiserie „Soko München“ am 21.09.2017 in der Belgradstraße 21 und Seite Herzogstraße
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Neuhauser“, Belgradstr. 1
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Bebauungsplan 1905e und schalltechnische Untersuchung (vertagt aus 08/17)
+- TOP 1.2.: Bürgerin: Drohender Verlust der Wandbegrünung in der Hörwarthstraße 18-20
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Vorbescheid Krumbacherstr. 6 bis 6a: Modernisierung einer Wohnanlage mit DG-Ausbau
+- TOP 2.1.2.: Clemensstr. 51: Dachgeschoss-Ausbau (Rückgebäude)
+- TOP 2.1.3.: Arcisstr. 61: Sanierung einer Geststätte mit Änderung an tragenden Bauteilen im EG
+- TOP 2.1.4.: Hohenzollernplatz 2: Nutzungsänderung und Erweiterung eines Ladengeschäfts in eine Gaststätte mit Bäckereiverkauf
+- TOP 2.1.5.: Tektur Hiltenspergerstr. 49: Dachaufstockung mit Anbau eines Außenaufzugs und neuer Balkone
+- TOP 2.1.6.: Tektur Ansprengerstraße: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 2.1.7.: Elisabethstr. 7: Anbau eines Personenaufzugs an ein denkmalgeschütztes Mehrfamilienhaus
+- TOP 2.1.8.: Barlachstr. 24: Nutzungsänderung einer Ladenfläche im EG in einen Arzt- und Büroraum mit Rezeption als MVZ-Erweiterung
+- TOP 2.1.9.: Tektur Georgenstr. 66: Umbau EG mit Fassadenänderungen (hier: Nutzungsänderungen dreier Ladeneinheiten zu Büros)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Nutzungsänderung Schwere-Reiter-Str. 39: Boardinghaus statt Wohnnutzung (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.2.: Belegung und Neubau von Gebäuden auf der Westseite und Nordseite des Schwabinger Krankenhauses (Antwort des Kommunalreferats auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Neubauprojekt Friedrich-Loy-Str. 12/14: Kopie eines Bürgerschreibens an das Pfarramt Kreuzkirche
+- TOP 3.2.2.: Programm „Bürgerinnen und Bürger gestalten ihre Stadt“ - Bürgerbeteiligung in den Stadtvierteln
+- TOP 3.2.3.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2115a Arcisstraße (östlich), Elisabethmarkt (südlich), Nordendstraße (westlich), (Teiländerung des Bebauungsplans Nr. 259) a) Ergebnis des Planungswettbewerbes für einen „Wohn- und Geschäftskomplex am Elisabethmarkt“ b) Einleitung und Qualifizierung des Aufstellungsbeschlusses für vorhabenbezogenen Bebauungsplan mit Grünordnung Nr. 2115a; Qualifizierung des Aufstellungsbeschlusses Nr. 2115 vom 20.07.2016 c) Weiteres Vorgehen bei der Bearbeitung des in der Vollversammlung vom 20.07.2016 beschlossenen Änderungsantrages von BÜNDNIS 90/DIE GRÜNEN/ROSA LISTE (Prüfauftrag) Stadtbezirk 04- Schwabing-West
+- TOP 3.2.4.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015
+- TOP 3.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.7.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Schrottroller auf dem Parkplatz des Schwabinger Krankenhauses
+- TOP 1.2.: Bürger: Bessere Sicht vom Radweg am Nordende der Winzererstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Schwere-Reiter-Str. 16: Fällung eines Weißdorns
+- TOP 2.1.2.: Erich-Kästner-Str. 40: Fällung eines Ahorn- und eines Pflaumenbaums
+- TOP 2.1.3.: Franz-Joseph-Str. 26: Fällung einer Blutpflaume
+- TOP 2.1.4.: Infanteriestr. 20: Fällung zweier Vogelkirschen
+- TOP 2.2.1.: Anhörung zum Beschlussentwurf Parkraummanagement in München – Fortschreibung Sektor V, Sitzungsvorlagennummer 14-20 / V 08574
+- TOP 2.2.2.: Plangenehmigung für das Vorhaben Straßenbahn München: Umbau der „Ackermannschleife“
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Sitzecke Friedrich-/Hohenzollernstraße (Antwort des Baureferats Straßenreinigung auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.2.: Radwegführung in der Fran-Joseph-Straße (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.3.: Eingeschränkte Halteverbote vor der Postfiliale der Pfennigparade in der Rümannstraße (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.4.: Zusätzlicher Fußgängerüberweg in der Winzererstraße an der Nordseite der Einmündung in die Herzogstraße (Zwischennachricht zum BA-Antrag Nr. 14-20/B 03784 vom 28.06.2017)
+- TOP 3.1.5.: Lückenschluss an der Kreuzung Schwere-Reiter-/Elisabethstraße (Zwischennachricht zum BA-Schreiben vom 26.07.2017)
+- TOP 3.1.6.: Radwegführung in der Franz-Joseph-Straße (Antwort des Baureferats auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.7.: Verbesserung der Parksituation im Bereich Therese-Studer-Straße/Deidesheimer Straße und Parksituation in der Fürstenbergstraße (Zwischennachricht zu zwei BA-Schreiben vom 24.08.2017)
+- TOP 3.1.8.: Weitere gewerbliche Parkausweise für sozialen Pflegedienst in der Karl-Theodor-Str. 66 (Antwort des KVR auf BA-Schreiben vom 24.08.2017)
+- TOP 3.2.1.: Götzstr. 11: Genehmigungsbescheid zur Fällung einer Birke
+- TOP 3.3.1.: Schleißheimer Str. 144 bis 162 a: Fahrbahnsanierung und Radwegrückbau
+- TOP 3.3.2.: Parkraummanagement Schwabing-Mitte: Anpassungen am Kurfürstenplatz
+- TOP 3.3.3.: Verlegung eines allgemeinen Behindertenparkplatzes in der Barlachstr. 26
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Alfresco: Anhörung zu Technik-Pauschale und elektronischer Ladung
+- TOP F.2.: BürgerInnen-Informaton und Beteiligung stärken Internetseiten des Bezirksausschusses der „Internet-Gegenwart“ anpassen Arbeit des Internetbeauftragten oder der -beauftragten entsprechend honorieren Beschluss der Vollversammlung des Stadtrats vom 26.07.2017
+- TOP F.3.: Beibehaltung des Hare-Niemeyer-Verfahrens bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München – Antwort des Direktoriums auf einen Antrag des BA 11 Milbertshofen-Am Hart
+- TOP G: Verschiedenes
+- TOP H: Termine
