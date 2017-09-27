@@ -1,0 +1,65 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-27T16:00:00+02:00
+- Ende: 2017-09-27T19:30:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12959
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12959
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300899.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300899.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00300899.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Sachstand zu verschiedenen Themen des Grünbewuches im Stadtbezirk 10 Berichterstattung durch Vertreter des Garten,- Friedhofs- und Forstamts - zur Kenntnis genommen
+- TOP 4.3: Garath 2.0 – Den Wandel gestalten - zur Kenntnis genommen
+- TOP 4.4: Umwidmung von Kinderspielplätzen in den Stadtbezirken 3, 4, 5, 8, 9 und 10 - vertagt
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Bezirklicher Bauunterhalt 2017 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk - einstimmig beschlossen
+- TOP 4.7: Bezirklicher Bauunterhalt 2017 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der BV 10 - Zuschuss an die Evangelische Kirchengemeinde Düsseldorf-Garath - - mehrheitlich beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Parkfläche südlich von „Aldi“ in Hellerhof - zur Kenntnis genommen
+- TOP 5.2: Teilgesperrte Bürgerwiese in Garath - zur Kenntnis genommen
+- TOP 5.3: Fuß-/Radweg Paul-Bonatz-Straße - zur Kenntnis genommen
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Linksextremistische Gewaltaufrufe - beantwortet
+- TOP 6.2: Parkraumkennzeichnung durch Aldi in Hellerhof - zurückgezogen
+- TOP 6.3: Gefahrensituation bei Brandkatastrophen - beantwortet
+- TOP 6.4: Umbenennung von Straßen - beantwortet
+- TOP 6.5: Aktueller Anteil von Mietwohnungen und geförderten Wohnungen im Stadtbezirk 10 - vertagt
+- TOP 6.6: Verschmutzung im HEZ Garath - beantwortet
+- TOP 6.7: Rodungen im Bereich des Radweges zwischen der A59 und des Heizkraftwerkes in Garath - beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Sicherheit des Straßenverkehrs im Eingangsbereich Matthias-Erzberger-Straße - einstimmig beschlossen
+- TOP 7.2: Verbesserungen der Linie SB 57 - einstimmig beschlossen
+- TOP 7.3: Schnellbus SB57 bis Uni-Kliniken verlängern - abweichend beschlossen
+- TOP 7.4: Einrichtung einer Talentschule in Düsseldorf- Garath - einstimmig beschlossen
+- TOP 7.5: Aufhebung des Beschlusses 170/ 68/2017 - Zuschuss an Skylinze Mediengestaltung - mehrheitlich beschlossen
+- TOP 7.6: Umzäunung Bürgerwiese Garath - zurückgezogen
+- TOP 7.7: Orientierungssysteme an öffentlich zugänglichen Gebäuden - einstimmig beschlossen
+- TOP 7.8: Beschilderung beachtenswerter Gebäude, Einrichtungen - abweichend beschlossen
+- TOP 7.9: Zuschussantrag Skylinez-Mediengestaltung - zurückgezogen
+- TOP 7.10: Messung der Umweltbelastung um die Kreuzung Frankfurter Straße/Rostocker Straße - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Klimaanlage Freizeitstätte Garath - zur Kenntnis genommen
+- TOP 8.2: Piktogramme "Kein Trinkwasser" am Treppenbrunnen im HZ in Garath und am Brunnen vor der Freizeitstät - zur Kenntnis genommen
+- TOP 8.3: Private Parkfläche Peter-Behrens-Straße und Umfeld - zur Kenntnis genommen
+- TOP 8.4: Errichtung eines zentralen "Mobilfunkturms" für den Stadtteil Düsseldorf- Garath - zur Kenntnis genommen
+- TOP 8.5: Errichtung eines zentralen "Mobilfunkturms" für den Stadtteil Düsseldorf-Garath - zur Kenntnis genommen
+- TOP 8.6: Hinweisschild "Sperrmüll abstellen verboten" o.Ä. Jakob-Kneip-Straße 74 Zuwegung - zur Kenntnis genommen
+- TOP 8.7: Trödelmärkte Garath im 2.Halbjahr 2017 - zur Kenntnis genommen
+- TOP 8.8: Befestigung des Weges Bertha-von-Suttner-Straße - zur Kenntnis genommen
+- TOP 8.9: Verfügungsmittel der Bezirksvertretung10 - Zuschuss an den Sportring Düsseldorf-Süd Garath e.V - zur Kenntnis genommen
+- TOP 8.10: Aufsuchende Seniorenhilfe - Aktueller Stand - zur Kenntnis genommen
+- TOP 8.11: Einrichtung eines zentralen "Mobilfunkturms" für den Stadtteil Düsseldorf-Garath - zur Kenntnis genommen
+- TOP 9: Verschiedenes
