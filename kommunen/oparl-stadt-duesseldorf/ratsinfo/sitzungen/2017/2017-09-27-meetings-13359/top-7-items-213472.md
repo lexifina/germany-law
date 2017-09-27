@@ -1,0 +1,8 @@
+# TOP 7: Ausführungs- und Finanzierungsbeschluss zum Radweg
+
+- Sitzung: Ordnungs- und Verkehrsausschuss (2017-09-27)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/213472
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/88812
