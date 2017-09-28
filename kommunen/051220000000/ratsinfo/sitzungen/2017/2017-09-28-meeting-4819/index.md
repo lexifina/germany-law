@@ -1,0 +1,61 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-09-28T17:00:00+02:00
+- Ende: 2017-09-28T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYr7Zxch4m6UEgGwSHIH_gY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4819
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSHWpp4AxVLkskL8CJr50-4H79DuAqV0jwiqeI3P2Cp6/Oeffentliche_Niederschrift_Rat_28.09.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Situation am Ausbildungsmarkt
+- TOP 3: Sperrung der Bahnsstrecken in Wuppertal
+- TOP 4: Zusätzliche DB-Stationen im Schienenpersonennahverkehr in Solingen
+- TOP 5: Errichtung und Betrieb der Windkraftanlage Gräfrath "Auf der Geleichten"
+- TOP 6: Zukunft der Clemens-Galerien
+- TOP 7: Spielplatz Cäcilienstraße
+- TOP 8: Sicherheitskonzept in Solingen
+- TOP 9: Empfangsservice im Rathaus (Haupteingang Rathausplatz) und im Verwaltungsgebäude Bonner Straße 100
+- TOP 10: Vergabe von Beratungsleistungen, Gutachten und Dienstleistungen an die Big Four
+- TOP 11: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 12: Protokoll der 24. Sitzung des Rates am 06.07.2017
+- TOP 13: Vorschlag für eine en-bloc-Abstimmung
+- TOP 14: Umbesetzung von Ausschüssen und Gremien
+- TOP 15: Besetzung des Investitions- und Bauausschusses sowie des Finanzausschusses beim Wupperverband
+- TOP 16: Bergisch-Rheinischer Wasserverband
+- TOP 17: Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V.
+- TOP 18: Stellenplannachtrag 2017
+- TOP 19: Einbringung des Haushaltsentwurfes für das Jahr 2018
+- TOP 20: Gute Schule 2020
+- TOP 21: Gleichstellungsplan 2014
+- TOP 22: Beitritt der Stadt Solingen zur d-NRW AöR (Anstalt des öffentlichen Rechts)
+- TOP 23: Änderung der öffentlich-rechtlichen Vereinbarung mit dem Kommunalen Rechenzentrum Niederrhein (KRZN)
+- TOP 24: Soziale Stadt Nordstadt: Theaterumfeld
+- TOP 25: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf,
+- TOP 26: Neufassung der Satzung über die Regelstundensätze des Verdienstausfalls für beruflich selbstständige ehrenamtliche Angehörige der Feuerwehr vom 25. Oktober 2001
+- TOP 27: III. Änderungssatzung zur Hundesteuersatzung der Stadt Solingen vom 18. Dezember 2008
+- TOP 28: Neufassung der Satzung über die Erhebung von Gebühren für die Durchführung der Brandschau in der Stadt Solingen vom 26.03.1999 (in der Fassung der I. Änderungssatzung vom 31.03.2011)
+- TOP 29: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem Unterhaltsvorschussgesetz (UVG)
+- TOP 30: Entwurf des Gesamtabschlusses 2016 der Stadt Solingen
+- TOP 31: Jahresabschluss 2016 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 32: Jahresabschluss 2016 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 33: Jahresabschluss 2016 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 34: Jahresabschluss 2016 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 35: Bauleitplanung Kronprinzenstraße/ Weyersberger Straße
+- TOP 36: Bauleitplanung Naturpark/Hermann-Löns-Weg
+- TOP 37: Verschiedenes
+- TOP 38: Tätigkeitsbericht des Seniorenbeirats der Stadt Solingen für 2016/2017
+- TOP 39: Haushaltsverfügung für das Jahr 2017
+- TOP 40: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Quartal 2017
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Stadtwerke Solingen GmbH (SW SG) - Änderung des Gesellschaftsvertrages
+- TOP 3: Bauleitplanung Naturpark/Hermann-Löns-Weg
+- TOP 4: Verschiedenes
