@@ -1,0 +1,70 @@
+# 43. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-09-28T16:00:00+02:00
+- Ende: 2017-09-28T22:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5765
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5765
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00314246.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 3.1: Sanierung der Augsburger Strasse - erledigt
+- TOP 3.2: Anzahl an Dieselfahrzeugen in Dresden - erledigt
+- TOP 3.3: Gesundheitsschutz - erledigt
+- TOP 3.4: Spielplatz gegenüber der ehemaligen Kita „Oskar-Seyffert-Straße“ - erledigt
+- TOP 3.5: Fortbestand der Straßenschule - erledigt
+- TOP 3.6: Neugestaltung Kulturkraftwerk Mitte - erledigt
+- TOP 3.7: Wohngebiet Rathener Straße/ Schönaer Straße - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ausschuss
+- TOP 4.1: Ausschusses für Gesundheit (Eigenbetrieb Städtisches Klinikum Dresden) - Einigung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 5.1: Seniorenbeirat - Einigung
+- TOP 5.2: Wohnbeirat - Einigung
+- TOP 5.3: Integrations- und Ausländerbeirat - Einigung
+- TOP 6: Besetzung des Aufsichtsrates der Wohnen in Dresden GmbH & Co. KG - Benennung
+- TOP 7: Umbesetzung Aufsichtsrat Cultus gGmbH - Benennung
+- TOP 8: Umbesetzung im Jugendhilfeausschuss - Einigung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Jahresabschlüsse 2016
+- TOP 10.1: Jahresabschluss 2016 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 10.2: Jahresabschluss 2016 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 10.3: Jahresabschluss 2016 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 10.4: Jahresabschluss 2016 (gleichzeitig Schlussbilanz) des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 10.5: Jahresabschluss 2016 (gleichzeitig Schlussbilanz) des Eigenbetriebes Krankenhaus Dresden–Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 10.6: Jahresabschluss 2016 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung mit Änderung
+- TOP 10.7: Jahresabschluss 2016 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 11: Verweisung vom Stadtrat 22. Juni 2017
+- TOP 11.1: Konzept zur Verbesserung der Personalausstattung in Kindertagesstätten für Krankheitsfälle und konkrete Bedarfslagen - Vertagung
+- TOP 12: Verweisung vom Stadtrat 17. August 2017
+- TOP 12.1: Satzung zur Änderung der Elternbeitragssatzung vom 15. Mai 2014 - Zustimmung mit Änderung
+- TOP 13: Vertagungen letzte Stadtratssitzung vom 7. September 2017
+- TOP 13.1: Einführung des Handyparkens für Dresden - Zustimmung mit Änderung
+- TOP 13.2: Förderung innovativer Projekte in der LH Dresden (Innovationsförderung) - Zustimmung mit Änderung
+- TOP 13.3: Auswahl und Vergabe des DRESDEN EXCELLENCE AWARD – Wissenschaftspreis der Stadt Dresden für wissenschaftliche Abschlussarbeiten von Absolventinnen und Absolventen der ortsansässigen Hochschulen mit Bezug zu Dresden (einmal jährlich) - punktweise Zustimmung mit Änderung
+- TOP 13.4: Einrichtung des Gymnasiums Seidnitz in der Planungsregion Linkselbisch Ost (LEO) - Ersetzung
+- TOP 13.5: Sanierungs- und Entwicklungskonzept der Dresdner Sportstätten - Zustimmung
+- TOP 13.6: Änderung der Richtlinie der Landeshauptstadt Dresden über Kunst im öffentlichen Raum - Ablehnung
+- TOP 13.7: Wiederaufbau Prinzenpalais - Vertagung
+- TOP 13.8: Straßenneubenennung - Ablehnung
+- TOP 14: Neufassung Richtlinien zur Regelung des Auswahlverfahrens für die Zulassung zum Frühjahrs- und Herbstmarkt und zum Dresdner Striezelmarkt der Landeshauptstadt Dresden, die von der Landeshauptstadt Dresden selbst betrieben werden. - Zustimmung
+- TOP 15: Ertüchtigung Nordraum - Zustimmung
+- TOP 16: Gründung des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 17: Bauliche Entwicklung des neuen Standortes 88. Grundschule, Plantagenweg 3 in 01326 Dresden, mit Gesamtsanierung Schulgebäude, Neubau einer Einfeldsporthalle, Neugestaltung Freianlage und verkehrlicher Erschließung - Zustimmung mit Ergänzung
+- TOP 18: Mehrgenerationenhaus des Trägers riesa efau Kultur Forum Dresden - Zustimmung mit Ergänzung
+- TOP 19: Neubenennung einer Straße - Zustimmung
+- TOP 20: Erweiterung des Radweg-Winterdienstes - Ersetzung - punktweise Abstimmung
+- TOP 21: Öffentlicher Dienstleistungsauftrag zwischen der Landeshauptstadt Dresden und der Müller Busreisen GmbH zur Erbringung von öffentlichen Personenverkehrsdiensten - Zustimmung
+- TOP 22: Satzung über eine städtebauliche Sanierungsmaßnahme Cossebaude Altstadt nach §§ 136 ff. BauGB - Zustimmung
+- TOP 23: Bebauungsplan Nr. 389 A, Dresden-Altstadt I Nr. 44, Stadtquartier am Blüherpark-West - Vertagung
+- TOP 24: Wiederaufnahme der Kinderbetreuung im Rathaus - Vertagung nach 22 Uhr
+- TOP 25: Wohnungsbau beschleunigen, notwendige Entscheidungen zügig herbeiführen, offene Fragen aktiv klären - Verweisung
+- TOP 28: auszureichende Informationsvorlagen
+- TOP 28.1: Haushaltsvollzug 2017 - Finanzzwischenbericht gem. § 75 Abs. 5 SächsGemO und Zwischenberichte der Eigenbetriebe 2017 gem. § 8 Abs. 2 in Verbindung mit § 22 SächsEigBVO - zur Kenntnis genommen
