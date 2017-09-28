@@ -1,0 +1,7 @@
+# TOP 5.: Benennung eines Prüfers für den Jahresabschluss 2017 des Straßenbetriebes der Stadt Rahden
+
+- Sitzung: Betriebsausschuss Straßen (10. Sitzung) (2017-09-28)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21154
+- Ergebnis: 11 Stimmen dafür, 1 dagegen, 0 Enthaltungen
