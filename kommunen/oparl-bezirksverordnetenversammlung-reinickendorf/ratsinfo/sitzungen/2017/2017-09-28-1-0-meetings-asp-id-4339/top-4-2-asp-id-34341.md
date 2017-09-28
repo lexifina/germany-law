@@ -1,0 +1,7 @@
+# TOP 4.2: Bürgerbeteiligung bei Bauvorhaben im Allgemeinen und bei Bauvorhaben nach § 34 BauGB im Besonderen
+
+- Sitzung: 5. öffentliche Sitzung des Ausschusses für Stadtplanung, -entwicklung, Denkmalschutz, Umwelt und Natur (2017-09-28)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=34341
+- Ergebnis: vertagt
