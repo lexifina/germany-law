@@ -1,0 +1,57 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2017-09-29T16:00:00+02:00
+- Ende: 2017-09-29T21:25:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdJQVtVcrdf78Zvheg0s25U
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3477
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSkJtEO9mVTIEeVA7PnN_RGuOOIG8RmEDHwwsRiurTvk/Einladung_Rat_29.09.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV5QCdp0SE3Iw5TxoWChuNKkIBbQJWo5JeNmWne7kNvV/Oeffentliche_Niederschrift_Rat_29.09.2017.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Einführung und Verpflichtung eines neuen Ratsmitglieds sowie Verabschiedung eines ausgeschiedenen Ratsmitglied
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 23.06.2017
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Ernennung des Leiters der Freiwilligen Feuerwehr - Bei 16 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.11: Alkoholkonsum an bestimmten Stellen der Herforder Innenstadt a) Zweite Änderung der "Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung" hier: Befristetes Alkoholkonsumverbot in Teilbereichen der Innenstadt b) Situation an der Brüderstraße und am Martinsgang: vorläufiger Abschlussbericht des Caritasverbandes für die Stadt und den Kreis Herford e.V. vom 04.08.2017; Ausblick auf konzeptionelle Überlegungen - Bei 3 Enthaltungen und 15 Gegenstimmen wurde mit 25 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.7: Steuerung von Drittorganisationen:
+- TOP A.7a: Beteiligungsbericht 2016 / 2017
+- TOP A.7b: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 30.06.2017 b) Jahresprognose 2017 der Beteiligungsunternehmen
+- TOP A.7c: Aktualisierung der Beteiligungsrichtlinie der Hansestadt Herford sowie der Konzernberichtsrichtlinie im Rahmen der Umstrukturierung der HVV - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.7d: Vertretung in Drittorganisationen: Entsendung von Ratsmitgliedern in den Aufsichtsrat der Stadtwerke Herford GmbH - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.7e: Jahresabschluss 2016 des Immobilien- und Abwasser-Betriebes Herford Feststellung, Ergebnisverwendung, Entlastung der Betriebsleitung für das Wirtschaftsjahr 2016 - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst:
+- TOP A.7f: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: 2. Entwicklungsstufe Fachhochschule für Finanzen: Grundsatzbeschluss
+- TOP zu A.7f: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: 2. Entwicklungsstufe Fachhochschule für Finanzen: Grundsatzbeschluss - Bei 7 Enthaltungen und 4 Gegenstimmen wurde mit 32 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP zu A.7f: Nichtöffentliche Unterlage zum TOP A.7f
+- TOP A.7g: Kapitalerhöhung bei der Marta Herford gGmbH im Rahmen der Umwandung des Darlehens der Herforder Versorgungs- und Verkehrs- Beteiligungs GmbH - Bei 3 Enthaltungen und 18 Gegenstimmen wurde mit 22 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.7h: Geschäftliche bzw. strategische Ausrichtung der SWK Servicegesellschaft für Wirtschaft und Kommunen mbH
+- TOP A.7i: Stadttheater: Sachstand Planung der Generalsanierung
+- TOP A.7j: Wohn- und Wirtschafts- Service Herford GmbH: Beauftragung der Begehung und Bewertung des Wohnungsbestandes - Bei 2 Gegenstimmen wurde mit 41 Ja-Stimmen folgender Beschluss gefasst: 
+- TOP A.8: Haushalt 2017: Erlass einer Nachtragssatzung zur Haushaltssatzung für das Haushaltsjahr 2017
+- TOP A.9: 2. Situationsbericht zur Haushaltswirtschaft 2017
+- TOP A.10: Mittelfristige Personalplanung
+- TOP A.14: Projekt "Markthalle" Sachstandsbericht
+- TOP A.12: Stadtentwicklungsprogramm "Herford 2030" hier: Sachstandsbericht
+- TOP A.13: Archäologisches Fenster am Münster (AFaM) - Bei 1 Enthaltung wurde mit 41 Ja-Stimmen einstimmig folgender Beschluss gefasst: 
+- TOP A.15: Bevölkerungsentwicklung in der Stadt Herford bis zum Jahr 2035
+- TOP zu A.15: Bevölkerungsentwicklung in der Stadt Herford bis zum Jahr 2035
+- TOP A.16: Gründung des gemeinsamen Zweckverbandes "Ostwestfalen-Lippe-IT" durch das Kommunale Rechenzentrum Minden-Ravensberg/Lippe und die Gemeinschaft für Kommunikationstechnik, Informations- und Datenverarbeitung Paderborn - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Gesamtsanierungskonzept für das Ludwig-Jahn-Stadion
+- TOP A.18: Ostwestfälisch-Lippische Regiopolregion ("Regiopolregion Bielefeld") hier: Sachstandsbericht
+- TOP A.19: Änderungen der Sportförderrichtlinien - Ergänzungen zu den Positionen 1 und 2 - Einvernehmlich wurde der Bitte um getrennte Abstimmung entsprochen. 
+- TOP A.20: Gesetz zur besseren Durchsetzung der Ausreisepflicht hier: Sachstandsbericht
+- TOP A.21: Gebührenhaushalt Abfallentsorgung Neufassung der Satzung über die Abfallentsorgung in der Hansestadt Herford 4. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung
+- TOP A.22: Anpassung der Krankentransportgebühren zum 01.11.2017 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Bebauungsplan Nr. 6.79, Teil A "Hellerweg / Grüne Straße" hier: Anordnung einer Veränderungssperre - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Bebauungsplan Nr. 12.40 "Bildungscampus West" hier: Satzungsbeschluss - Bei 3 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.25: Gremienbesetzungen:
+- TOP A.25a: Gremienbesetzung in der Verbandsversammlung des Sparkassenzweckverbandes im Kreis Herford in 2018 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.25: Beschlussantrag der CDU vom 26.09.2017 hier: Veränderung in der Besetzung von Ausschüssen und Gremien - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
