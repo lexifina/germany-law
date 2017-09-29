@@ -1,0 +1,51 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-09-29T15:00:00+02:00
+- Ende: 2017-09-29T16:25:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13322
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13322
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00301553.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00301553.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00301553.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift vom 21.06.2017 - einstimmig beschlossen
+- TOP 4: Aktuelles - zur Kenntnis genommen
+- TOP 4.1: Wohnbebauung Am Südring - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.2: Antrag der CDU-Ratsfraktion: Stadtteile in der Planung stärker beteiligen - verwiesen
+- TOP 4.3: Anfrage der CDU-Ratsfraktion: Aufstockung und Dachausbauten in Düsseldorf - verwiesen
+- TOP 5: Investorenauswahlverfahren - Zukunft St. Anna, Niederkassel - Beschluss Auslobungstext - einstimmig beschlossen
+- TOP 6: B-Plan Nr. 03/031 Nördlich Stromstraße - Aufstellungsbeschluss - verwiesen
+- TOP 7: B-Plan Nr. 03/019 Östlich Kesselstraße - Beschluss öffentliche Auslegung - einstimmig beschlossen
+- TOP 8: B-Plan Nr. 02/005 - Grafental Ost - Aufstellung; Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 9: Bebauungsplan-Entwurf Nr. 02/009 - Grafental Mitte - - einstimmig beschlossen
+- TOP 10: B-Plan-Verfahren Nr. 06/011 Airport City West - Beschlussvorlage § 3(1)-Beteiligung - einstimmig beschlossen
+- TOP 11: Bebauungsplan-Vorentwurf Nr. 04/022 -Östlich Kevelaerer Straße- - einstimmig beschlossen
+- TOP 12: Bebauungsplan-Vorentwurf Nr. 06/006,Westfalenstraße 46-48,Verfahren gem. § 13a BauGB - mehrheitlich beschlossen
+- TOP 12.1: FNP-Änderung Nr. 160 - Kölner Straße / Moskauer Straße - mehrheitlich beschlossen
+- TOP 13: Wacholderstraße - zur Kenntnis genommen
+- TOP 13.1: Flächennutzungsplan -Änderung Nr.169 -Wacholderstr. - mehrheitlich beschlossen
+- TOP 13.2: Bebauungsplan-Entwurf Nr. 05/006 (eh. 5487/009) - mehrheitlich beschlossen
+- TOP 14: Bebauungsplan-Entwurf Nr. 05/002 (eh. 5488/019) - mehrheitlich beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anhandgabeverfahren "An der Eselsfurt / In der Elb - einstimmig beschlossen
+- TOP 19: ZUKUNFT WOHNEN.DÜSSELDORF - Ein Handlungskonzept für den Wohnungsmarkt. Anpassung des preisgedämpfte - verwiesen
+- TOP 20: B-Plan Vorentwurf Nr. 02/007 Grashofstraße/Mercedesstraße Sachstandbericht - zur Kenntnis genommen
+- TOP 21: Garath 2.0 – Den Wandel gestalten - passieren lassen
+- TOP 22: StadtUmland.NRW – Wettbewerb: Zukunftskonzept „Zwischen Rhein und Wupper – zusammen wachsen“ - einstimmig beschlossen
+- TOP 23: Bebauungsplanverfahren Nr. 07/004 - Ernst-Poensgen-Allee 3 - - einstimmig beschlossen
+- TOP 24: Plan Nr. 03/17 Elisabethstraße / Bachstraße Informationsvorlage - zur Kenntnis genommen
+- TOP 25: Städtebauliches Entwicklungskonzept als Raumwerk für Düsseldorf - einstimmig beschlossen
+- TOP 26: Fortschreibung des Regionalplans Düsseldorf (RPD) - mehrheitlich beschlossen
+- TOP 27: Marktplatz 5-6, Verwaltungsgebäude – Veräußerung der Liegenschaft, optional Erbbaurecht - Bedarfsbes - mehrheitlich beschlossen
+- TOP 28: Lärmaktionsplan II für Düsseldorf - Beschluss - - verwiesen
