@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2017-09-29T16:00:00+02:00
+- Ende: 2017-09-29T19:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3939
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3939
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Wirtschaftsplan 2017 für Städtische Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 6: Wirtschaftsplan 2018 der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 7: Klimaschutzteilkonzept für das Gewerbegebiet "Habichtweg/Am Blankenwasser" - mehrheitlich zugestimmt
+- TOP 8: Dreikönigenstraße: Straßenwiederherstellung nach Kanalsanierung - einstimmig zugestimmt
+- TOP 9: Plankstraße, Einmündungen Annostraße u. Teutonenstraße: Herstellung Querungsstellen - einstimmig zugestimmt
+- TOP 10: Fichtestraße / Olympiastraße: Straßenwiederherstellung nach Kanalsanierung - verwiesen
+- TOP 11: Straßenverengung Altebrücker Straße - hier: Teilaufhebung Ausbaubeschluss vom 26.06.2009 - einstimmig zugestimmt
+- TOP 12: BP 162/2 Stzungsbeschluss - einstimmig zugestimmt
+- TOP 13: V 212/2 Fesserstraße - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 14: Stellungnahme Stadt Neuss zum Konverter - einstimmig zugestimmt
+- TOP 15: BP 465 - Uedesheim, Kreuzfeld - Auslegung - einstimmig zugestimmt
+- TOP 16: Bau- und planungspolitisches Leitbild der Neusser Stadtentwicklung - mehrheitlich zugestimmt
+- TOP 16.1: Innenstadtstärkungsprogramm - Kommunikationskampagne - mehrheitlich zugestimmt
+- TOP 17: Ausbauplanung Kinderspielplatzprogramm 2017/2018 - einstimmig zugestimmt
+- TOP 17.1: Jugendhilfeplanung "Kindertagesbetreuung": Ausbauplanung Betreuungsplätze in Kitas und Investorenmod - einstimmig zugestimmt
+- TOP 18: Genehmigung von überplanmäßigen Aufwendungen für 2017 im Bereich der Leistungen nach dem Unterhaltsv - mehrheitlich zugestimmt
+- TOP 19: Verlängerung der Gewährung des Familienrabattes - mehrheitlich zugestimmt
+- TOP 20: Feststellung des Jahresabschlusses 2016 der Liegenschaften und Vermessung Neuss (LVN) - einstimmig zugestimmt
+- TOP 21: Stärkung der Ausschussarbeit und der unmittelbaren Bürgerbeteiligung - verwiesen
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung Dienstreisgenehmigung für den Behindertenbeauftragten - einstimmig zugestimmt
+- TOP 23: Jahresabschluss 2016 - einstimmig zugestimmt
+- TOP 24: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Haushaltsjahr 201 - einstimmig zugestimmt
+- TOP 24.1: Konsolidierungspotenziale der Dezernate für 2018 und Folgejahre - einstimmig zugestimmt
+- TOP 25: Vertretung der Stadt Neuss in Drittgremien, hier: Umbesetzung im Ausschuss des Wasser- und Bodenverb - einstimmig zugestimmt
+- TOP 26: Antrag der FDP-Fraktion betr. Förderung der Dachbegrünung der Stadt Neuss - verwiesen
+- TOP 27: Antrag der Fraktion Die Linke betr. Maßnahmen zur Verbesserung der Luftqualität in Neuss - zur Kenntnis genommen
+- TOP 28: Antrag der FDP-Fraktion betr. Gesünder leben in der Stadt - City Trees - verwiesen
+- TOP 29: Antrag der SPD-Fraktion betr. Handlungsrahmen preisgünstiger Wohnraum in Neuss 2030 - verwiesen
+- TOP 30: Antrag der Fraktionen von CDU und Bündnis 90/Die Grünen betr. Errichtung eines Gründerzentrums für Z - einstimmig zugestimmt
+- TOP 31: Antrag der Fraktionen von CDU und Bündnis 90/Die Grünen betr. Sicherheit im ÖPNV und den Parkhäusern - verwiesen
+- TOP 32: Kenntnisnahme üpl/apl Aufwendungen und Auszahlungen IV./2016 und I. und II./2017 - zur Kenntnis genommen
+- TOP 33: Vermarktung Klimaschutzsiedlung Blausteinsweg - zur Kenntnis genommen
+- TOP 34: Teilnahme am Stadtradeln 2017 - zur Kenntnis genommen
+- TOP 35: Einwohnerfragestunde - zur Kenntnis genommen
