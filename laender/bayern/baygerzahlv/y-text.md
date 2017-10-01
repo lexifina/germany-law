@@ -1,0 +1,1 @@
+Auf Grund des § 1 Abs. 1 Satz 1 des Gesetzes über den Zahlungsverkehr mit Gerichten und Justizbehörden (ZahlVGJG) vom 22. Dezember 2006 (BGBl. I S. 3416), das durch Art. 175 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet die Bayerische Staatsregierung:
