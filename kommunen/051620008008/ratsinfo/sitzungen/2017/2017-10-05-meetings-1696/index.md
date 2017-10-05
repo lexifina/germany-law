@@ -1,0 +1,85 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-10-05T18:04:00+02:00
+- Ende: 2017-10-05T19:36:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1696
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1696
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anlage zur Niederschrift Top 18.6 Parkraumbewirtschaftung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00082431.pdf
+- Ergebnisprotokoll: Anlage zur Niederschrift Top 18.6 Parkraumbewirtschaftung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00082431.pdf
+- Wortprotokoll: Anlage zur Niederschrift Top 18.6 Parkraumbewirtschaftung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00082431.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bestellung Schriftführers - einstimmig
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG/ABG
+- TOP 3.4: FDP
+- TOP 3.4.1: Verkehrsfluss auf der Erlenstraße (Antrag Nr. 227/17) - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke
+- TOP 3.8: Anträge der FBG
+- TOP 3.9: Gemeinschaftsanträge
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG/ABG
+- TOP 4.4: FDP
+- TOP 4.4.1: Auslastung der Sportaußenanlagen (Anfrage Nr. 228/17) - einstimmig
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Anfragen Die Linke
+- TOP 4.8: Anfragen FBG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Übertragung weiterer Aufgaben an die Stadtbetriebe Grevenbroich AöR - einstimmig
+- TOP 8: Geschwindigkeitsreduzierung Hauptverkehrsstraßen - einstimmig
+- TOP 9: Bestellung eines ehrenamtlichen Behindertenbeauftragten - mehrheitlich bei
+- TOP 10: Bericht zur Fortschreibung des Sanierungsplans (Stichtag 30.06.2017) - einstimmig
+- TOP 11: Wirtschaftsbetriebe Grevenbroich GmbH: Neubesetzung Aufsichtsrat und Gesellschaftervertreter - einstimmig
+- TOP 12: Flüchtlings- und Integrationsangelegenheiten
+- TOP 12.1: Unterbringung von anerkannten Flüchtlingen mit Wohnsitzauflage - einstimmig
+- TOP 13: Entscheidung BauA
+- TOP 13.1: Abwasserbeseitigungssatzung - vertagt
+- TOP 13.2: Satzung Grundstücksentwässerungsanlagen - einstimmig
+- TOP 14: Entscheidung über Beratungspunkte aus der gemeinsamen Sitzung des Bau- und Planungsausschusses vom 19.09.2017
+- TOP 14.1: Gestaltungsvariante Aufwertung Platz der Dt. Einheit - mehrheitlich bei
+- TOP 14.2: Modifikation des Verkehrskonzeptes - mehrheitlich bei
+- TOP 14.3: Aktualisierung ISEK - mehrheitlich bei
+- TOP 15: Entscheidung PlanungsA
+- TOP 15.1: Aufst.G 216 §13b - mehrheitlich bei
+- TOP 15.2: F 29 - Aufstellung + frühz. Beteiligung - einstimmig
+- TOP 15.3: G 189 - Sondergebiet Am Hammerwerk Satzungsbeschluss - einstimmig
+- TOP 15.4: Ergänzungsvertrag 1. Änd. W 46 - mehrheitlich bei
+- TOP 15.5: Aufnahme Pfarrkirche St. Matthäus in Denkmalliste - einstimmig
+- TOP 15.6: Aufnahme Bildstock Elsen in Denkmalliste - einstimmig
+- TOP 15.7: Stellungnahme Stadt zur 3. Auslegung Regionalplan - einstimmig
+- TOP 16: Beantwortung Anträge
+- TOP 16.1: Wohnungsaufsichtsgesetz WAG NRW (Antrag Nr.84/17) - einstimmig
+- TOP 16.2: Prüfauftrag Parksituation IG Ost durch LKW (Antrag Nr. 172/17) - einstimmig
+- TOP 17: Beantwortung Anfragen
+- TOP 17.1: Aufstellung von Alttextil-Containern im Stadtgebiet (Anfrage Nr. 85/17) - einstimmig
+- TOP 17.2: Projektcontrolling Citymanagement (Anfrage Nr. 87/17) - einstimmig
+- TOP 17.3: Erfahrungen mit der Mängelmelder-App (Anfrage Nr. 199/17) - einstimmig
+- TOP 17.4: Beantwortung von Anträgen und Anfragen hier: Sammelbeantwortung - einstimmig
+- TOP 18: mündliche Anträge/Anfragen
+- TOP 18.1: 18.1 Beschulung Flüchtlingskinder (Anfrage Nr 229 /17)
+- TOP 18.2: 18.2 Verkehrssituation Kapellen im Kreuzungsbereich Neusser Straße, Talstraße, Kurze Straße (Anfrage Nr 230 /17)
+- TOP 18.3: 18.3 Baustelle A540 (Anfrage Nr 231 /17)
+- TOP 18.4: 18.4 Sauberkeit Flüchtlingsunterkunft Provinzstraße (Anfrage Nr 232 /17)
+- TOP 18.5: 18.5 Warnwesten für Grundschulkinder bei Schulausflügen (Anfrage Nr 233 /17)
+- TOP 18.6: 18.6 Parkraumbewirtschaftung städtische Fläche Ecke Lindenstraße / Röntgenstraße (Anfrage Nr 234 /17)
+- TOP 18.7: 18.7 Quartiersmanager im Zusammenhang mit ISEK (Anfrage Nr 235 /17)
+- TOP 18.8: 18.8 Fraktion Die Linke / FBG (Antrag Nr. 236 /17)
+- TOP 18.9: 18.9 RWE Standort Frimmersdorf (Anfrage Nr 237 /17)
+- TOP 18.10: 18.10 Schülerverkehr Realschule Wevelinghoven (Anfrage Nr. 238 /17)
+- TOP 18.11: 18.11 Nachfrage bezüglich des Antrages „Alternative Standorte Schützenfest Stadtmitte“ (Antrag Nr. 120/17) (Anfrage Nr. 239/17)
+- TOP 19: Mitteilungen BM
