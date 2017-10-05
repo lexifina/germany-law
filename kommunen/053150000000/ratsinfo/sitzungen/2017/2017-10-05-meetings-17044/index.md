@@ -1,0 +1,68 @@
+# 29. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-05T17:00:00+02:00
+- Ende: 2017-10-05T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17044
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17044
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Schließung des Chorweiler Bad in den Sommerferien - Kenntnis genommen
+- TOP 7.1.2: Geschwindigkeitsmessungen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.3: Einrichtung eines Absoluten Halteverbotes auf dem Volkhovener Weg zwischen Pingenweg und Militärringstr. - Kenntnis genommen
+- TOP 7.1.4: Verbindungsweg EKZ Heimersdorf zum Giershausener Weg - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Überführung der Bundesbahn Unnauer Weg/ Fritz-Wacker-Straße Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Postfiliale Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.3: Musik-Veranstaltungen am Fühlinger See Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.4: Platzneugestaltung in Chorweiler-Mitte NPS Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: Mangelhafte Ausleuchtung städtischer Flächen im Einkaufszentrum Heimersdorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis`90 / Die Grünen Vergabe der bezirksorientierten Mittel und der Kulturmittel - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufstellung von Fahrgastunterständen (FGU) im Busbereich hier: Umsetzung des Werbenutzungsvertrages und Änderung in der Anzahl von FGU-Einheiten - ungeändert beschlossen
+- TOP 9.1.2: Starkes Veedel - Starkes Köln - Sozialraum Blumenberg, Chorweiler und Seeberg-Nord Hier: Zuwendung aus dem städtischen Aktivierungsfonds für Projekte im Sozialraum - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Damiansweg in Köln-Volkhoven/Weiler; Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 9.2.2: Beschluss über die Freigabe von investiven Mitteln der im Rahmen des Bundesprogrammes "Förderung von Investitionen in nationale Projekte des Städtebaus" dargestellten Projekte des Mantelprojektes "Lebenswertes Chorweiler - ein Zentrum im Wandel!" - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Bürgerempfang - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - geändert beschlossen
+- TOP 10.2.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - geändert beschlossen
+- TOP 10.2.3: Kölner Perspektiven 2030 - zurückgestellt
+- TOP 10.2.4: 3. Nahverkehrsplan der Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: Swinestraße in Köln Chorweiler Nord, - Kenntnis genommen
+- TOP 10.2.6: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstraße 29-31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Kenntnis genommen
+- TOP 10.2.7: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 10.2.8: Parksituation in der Hildengasse, Fährgasse und Bricitusstraße in Köln-Merkenich - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Präsentation vom 13. Mai 2017 auf dem Pariser Platz in Chorweiler - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
