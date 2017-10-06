@@ -1,0 +1,69 @@
+# 15. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-10-06T10:00:00+02:00
+- Ende: 2017-10-06T11:50:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-VV-32
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-VV-32
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-VV-32
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2017-VV-32
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2017-VV-32
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen / Strukturausschuss
+- TOP 1.1: Linienbestimmung für den Neubau der L667n - Ortsumgehung Freiske - Beschluss über die Zustimmung zur Trassenführung
+- TOP -: Vorlagen des Regionalverbandes Ruhr / Planungsausschuss
+- TOP 1.2: 9. Änderung des Regionalplans für den Regierungsbezirk Münster Teilabschnitt Emscher-Lippe Erweiterung des Allgemeinen Siedlungsbereiches (ASB) im Gebiet der Stadt Gladbeck
+- TOP 1.3: 81. Änderung des Regionalplanes für den Regierungsbezirk Düsseldorf (GEP 99) und 5. Änderung des Regionalplanes für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund, westlicher Teil - Bekanntmachung
+- TOP 1.4: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Umbesetzung in den Gremien
+- TOP 2.1.1: Umbesetzung in den Ausschüssen
+- TOP 2.1.2: Umbesetzung in den Gesellschaften
+- TOP 2.1.2.1: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH - Wechsel im Beirat der Betriebsstätte Nienhausen
+- TOP 2.1.2.2: Angelegenheiten der Ruhr Tourismus GmbH - Wechsel in der Geschäftsführung
+- TOP 2.1.2.3: Nachfolge Geschäftsführung RTG
+- TOP 2.2: Haushaltsangelegenheiten
+- TOP 2.2.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2018
+- TOP 2.2.2: Einbringung des Haushaltes 2018
+- TOP 2.3: Antrag der FDP-Fraktion zur Aufstellung des Regionalplans
+- TOP 2.4: Standortmarketingkampagne - Logo- und CD-Systematik der RVR-Familie
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.5: Stellungnahme des RVR als Träger öffentlicher Belange und als Regionalplanungsbehörde zum Entwurf des Nahverkehrsplanes der Stadt Mülheim an der Ruhr
+- TOP 2.6: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes der Stadt Essen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.7: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.8: Dringlichkeitsentscheidung Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Änderung des § 1 „Firma und Sitz“ des Gesellschaftsvertrages aufgrund der beabsichtigten Namensänderung der wmr auf Business Metropole Ruhr GmbH
+- TOP 2.9: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.10: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2016
+- TOP 2.11: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Minegas - Erwerb zusätzlicher Anteile und Änderung des Gesellschaftsvertrages
+- TOP 2.12: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2016 der nicht am Verschmelzungsprozess beteiligten Freizeitgesellschaften (Freizeitzentrum Xanten GmbH, Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH)
+- TOP 2.13: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern am See mbH - Jahresabschluss zum 31.12.2016
+- TOP 2.14: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2016
+- TOP 2.15: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.16: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Änderung des Zuschuss- und Finanzierungsvertrages 2018-2020
+- TOP 2.17: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Neubau Westbad im Revierpark
+- TOP 2.18: Angelegenheiten der Freizeitgesellschaften - Betriebliche Zusatzversorgung - Revierpark Gysenberg Herne GmbH - Änderung der Nebenabrede zum Gesellschaftsvertrag
+- TOP 2.19: Angelegenheiten der Freizeitgesellschaften - Betriebliche Zusatzversorgung - Freizeitgesellschaft Metropole Ruhr mbH - Verpflichtungserklärung
+- TOP 2.20: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.21: Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.22: Ruhrwind Herten GmbH - Änderung des Gesellschaftsvertrages
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.23: Geschichte und Programm RUHR 20-21 plus Beschluss zur Vorbereitung auf das RVR-Themenjahr 2020
+- TOP 2.24: Die Förderung des Landes zur Finanzierung des Sozialtickets weiter fortsetzen
+- TOP -: Sozialticket
+- TOP 2.25: Perspektiven für Langzeitarbeitslose im Ruhrgebiet schaffen – Unterstützung der Kommunen durch Land und Bund dringend geboten
+- TOP -: Perspektiven für Langzeitarbeitslose im Ruhrgebiet schaffen - Unterstützung der Kommunen durch Land und Bund dringend geboten
+- TOP 2.26: Anfragen und Mitteilungen
+- TOP 2.26.1: Anfrage der CDU vom 25.09.2017 Konzept und Bewerbung IGA 2027 hier: Antwort der Verwaltung
+- TOP 2.26.2: Anfrage der CDU vom 25.09.2017 Großflächiger Einzelhandel hier: Antwort der Verwaltung
+- TOP 2.26.3: Anfrage der CDU-Fraktion vom 25.09.2017 Optimierung des Nahverkehrs in der Metropole Ruhr hier: Antwort der Verwaltung
+- TOP 2.26.4: Aufteilung der Kosten für das Jubiläumsjahr 2020 hier: Antwort der Verwaltung
+- TOP 2.26.5: Anfrage der SPD-Fraktion zum Standort-Informationssystem RuSIS (Rettungspunktesystem im Ruhrtal) hier: Antwort der Verwaltung
