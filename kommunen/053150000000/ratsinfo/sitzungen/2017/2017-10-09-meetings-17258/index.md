@@ -1,0 +1,62 @@
+# 24. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-09T17:00:00+02:00
+- Ende: 2017-10-09T17:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17258
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17258
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Optimiertes Buskonzept für Mülheim Süd, Kalk und Vingst
+- TOP 1.2: Umsetzung der Gartenordnung in der Schrebergarten-Anlage in Köln-Holweide
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verbesserungen am Elisabeth-Schäfer-Weg in Köln-Buchheim" - (AZ 02-1600-68/17) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrsführung an der Mülheimer Freiheit - Stand der Umsetzung - Kenntnis genommen
+- TOP 7.1.2: Diepeschrather Str./Waltherstr./Kalkweg, - Kenntnis genommen
+- TOP 7.1.3: Sachstand Sanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der SPD-Fraktion: Radweg an der Wichheimer Straße in Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.2: Anfrage der SPD-Fraktion: Einrichtung einer Querungshilfe auf der Heidelberger Straße in Buchforst - Kenntnis genommen
+- TOP 7.2.3: Anfrage der SPD-Fraktion: Beginn der Umgestaltungsmaßnahme Dellbrücker Marktplatz - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Zustand des Wendehammers in der Hermann-Kunz-Straße in Köln-Buchheim - ungeändert beschlossen
+- TOP 8.1.2: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Mehr Sicherheit vor der Jugendeinrichtung Treffer in Köln-Buchheim/Parkregelung in der Guilleaumstraße in Buchheim - ungeändert beschlossen
+- TOP 8.1.3: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verdichtung bzw. Einsatz von Zusatz-Bussen im Linienverkehr zwischen Stammheim und Mülheim - ungeändert beschlossen
+- TOP 8.1.4: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Überwege an der Kreuzung Schweidnitzer Straße/Am Klosterhof - ungeändert beschlossen
+- TOP 8.1.5: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verlegung der Bushaltestelle Linie 260 Neurather Weg - ungeändert beschlossen
+- TOP 8.1.6: Antrag des EMT Torsten Tücks: Kostenfreier WLAN-Hotspot im Bereich des Bahnhofes Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.7: Gemeinsamer Dringlichkeitsantrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Optimiertes Buskonzept für Mülheim Süd, Kalk und Vingst (Prüfung einer alternativen Linienführung) - ungeändert beschlossen
+- TOP 8.1.8: Antrag der CDU-Fraktion zur Einrichtung von Umlauf-Wegesperren zum Elisabeth-Schäfer-Weg in Buchheim - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: 216. FNP-Änderung; Mülheim-Süd und Mülheimer Hafen in Köln-Mülheim; Stellungnahmen zur den Ergebnissen der frühzeitigen Beteiligung der Öffentlichkeit, Vorgabenbeschluss und Kenntnisnahme der Offenlageabsicht - ungeändert beschlossen
+- TOP 9.1.2: Starke Veedel - Starkes Köln - Sozialraum Buchheim und Buchforst Hier: Zuwendung aus dem städtischen Aktivierungsfonds für Projekte im Sozialraum - ungeändert beschlossen
+- TOP 9.1.3: Starke Veedel - Starkes Köln - Sozialraum Mülheim-Nord und Keupstraße Hier: Zuwendung aus dem städtischen Aktivierungsfonds für Projekte im Sozialraum Mülheim-Nord und Keupstraße - ungeändert beschlossen
+- TOP 9.1.4: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Mülheim) ab dem Jahr 2017 ff. - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Ein Platz an der Herler Straße; Bedarfsfeststellungsbeschluss und Umsetzung eines Workshops - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 10.2.4: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 10.2.5: Trägerwechsel der Kindertageseinrichtung "Petruschka", Flittarder Hauptstr.37,51061 Köln - Kenntnis genommen
+- TOP 10.2.6: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 10.2.7: Kölner Stadtmodell; Erweiterung um zrei Modellbauplatten - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
