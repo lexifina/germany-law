@@ -1,0 +1,78 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212292
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212292
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Verkehr
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Willibaldstraße 122, gem. Baumbestandsplan Nr. 19504
+- TOP 7.1.2.: An der Rehwiese 8, 1 Lärche
+- TOP 7.1.3.: Aurikelstraße 41, 1 Birke
+- TOP 7.1.4.: Konrad-Dreher-Straße 2, 1 Feldahorn
+- TOP 7.1.5.: Pfundmayerstraße 16, 1 Fichte
+- TOP 7.1.6.: Steinbrechweg 19, 1 Tanne
+- TOP 7.1.7.: Windeckstraße 31, 1 Zypresse
+- TOP 7.1.8.: Terofalstraße 11, 1 Birke
+- TOP 7.1.9.: Terofalstraße 57 - 77, 5 Robinien, 1 Bergahorn und 1 Vogelkirsche
+- TOP 7.1.10.: Würmtalstraße 8, 1 Rotbuche, 1 Birke und 1 Eiche
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7.1.11.: Haseneystraße 40, 2 Tannen und 1 Fichte
+- TOP A.: Vorstellung des MehrGenerationenWohnhauses in der Ludlstraße
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: Budget der Bezirksausschüsse, FTM-Blumenau von 1966 e.V., Ausstattung der Handball-Abteilung mit Trikotsätzen (Direktorium, 29.09.17)
+- TOP 6.1.: Beschlussentwurf: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren (Referat für Bildung und Sport, 13.09.17)
+- TOP 6.2.: Verkehrsrechtliche Anordnung, hier: Rolf-Pinegger-Straße - Einrichtung einer Kurzparkzone und eines Haltverbotes (Kreisverwaltungsreferat, 19.09.17)
+- TOP 6.3.: Beschlussentwurf: Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017 (Referat für Stadtplanung und Bauordnung, 26.09.17)
+- TOP 6.4.: Änderung der BA-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen, Stadtratsantrag (Direktorium, 02.10.17)
+- TOP 7.2.1.: Würmtalstraße 8, 1 Birke (Referat für Stadtplanung und Bauordnung, 05.10.17)
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Pelagos Taverna", Senftenauerstraße 187 (Kreisverwaltungsreferat, 08.09.17)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Georginenstraße (Sozialreferat, 29.08.17) - Senftenauerstraße (Sozialreferat, 15.09.17)
+- TOP 8.3.: Baumaßnahmen der SWM - 2. Halbjahr 2017 (SWM, 18.09.17)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: - Einrichtung eines Fußgängerüberweges im Stiftsbogen auf Höhe der Hausnr. 42 (Kreisverwaltungsreferat, 21.09.17) - Einrichtung eines Fußgängerüberweges im Stiftsbogen auf Höhe der Hausnr. 87 (Kreisverwaltungsreferat, 21.09.17)
+- TOP 8.5.: Information über Sanierung Öffentlicher WCs in München (Hering Sanikonzept GmbH, 25.09.17)
+- TOP 8.6.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung an der Ludlstraße - Seite Ida-Schumacher-Weg (auf FlSt. 299) (Kreisverwaltungsreferat, 27.09.17)
+- TOP 9.1.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse (Direktorium, 11.09.17)
+- TOP 9.2.: BürgerInnen-Information und - Beteiligung stärken; Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen, Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren, Antrag BA 16 Ramersdorf-Perlach vom 14.01.2016 (Direktorium, 08.09.17)
+- TOP 11.1.: Wahl der 11. Münchner Seniorenvertretung 2017 (Sozialreferat, 05.09.17)
+- TOP 11.2.: Informationsveranstaltung zum Nahbereichsausbau am Montag, 23.10.2017 um 18.30 Uhr (Telekom, 21.09.17)
+- TOP 11.3.: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen (Direktorium, 02.10.17)
+- TOP 1.1.1.: Beschluss vom 26.07.2017: PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 1.1.2.: Beschluss vom 26.07.2017: Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017: Regelungen / Standards im Wohnungsbau A. Auflagen im Wohnungsbau überprüfen B. Abstandsflächenregelung überprüfen
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017: Bebauungsdichte erhöhen und Wohnraum schaffen durch Aufstockungen 1. Bebauungsdichte in verträglichem Maß erhöhen 2. Aufstockungen bei Blockrandbebauung 3. Aufstockungen in Bereichen der U-Bahnhöfe und S-Bahnhöfe
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 4.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 20.09.2017: Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
