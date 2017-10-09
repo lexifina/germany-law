@@ -1,0 +1,57 @@
+# 27. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-09T17:00:00+02:00
+- Ende: 2017-10-09T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17101
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17101
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung Kreuzung Klarastr./Stammstr. Köln-Ehrenfeld (Az.: 02-1600-59/17) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Parksituation Graeffstraße, (Az.: 02-1600-89/17) - ungeändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Brücke Weinsbergstraße - Kenntnis genommen
+- TOP 7.1.1: Anfrage der SPD-Fraktion, betr.: Brücke Weinsbergstraße - Kenntnis genommen
+- TOP 7.2: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 7.3: Anfrage der CDU-Fraktion, betr: Auslagerung der Städt. Gemeinschaftsschule Kunterbunt in Bocklemünd - Kenntnis genommen
+- TOP 7.3.1: Beantwortung einer Anfrage der CDU-Fraktion, TOP 7.3 - Auslagerung der Städt. Gemeinschaftsschule Kunterbunt in Bocklemünd (AN/1491/2017) - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion, betr.: Quartiersbus für Neuehrenfeld - ungeändert beschlossen
+- TOP 8.3: Teilsperrung der Philippstraße, 50823 Köln für Kraftfahrzeuge über 7,5t - zurückgestellt
+- TOP 8.4: Antrag der Fraktion Die Linke, betr.: Planunterlagen den stadtgesellschaftlichen Erfordernissen anpassen - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion: Nahversorgung am Butzweilerhof - ungeändert beschlossen
+- TOP 8.6: Gemeinsamer Antrag, betr.: Bürgereingabe zu Sperrung der Gravenreuthstraße - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 9.1.1: Bürgereingabe gem. § 24 GO, betr.: Parkraumkonzept Ehrenfeld - zurückgestellt
+- TOP 9.2: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - ungeändert beschlossen
+- TOP 9.3: Starke Veedel - Starkes Köln - Sozialraum Bocklemünd/Mengenich Hier: Zuwendung aus dem städtischen Aktivierungsfonds für Projekte im Sozialraum Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 9.4: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - geändert beschlossen
+- TOP 9.5: Starke Veedel - Starkes Köln - Sozialraum Bocklemünd / Mengenich Hier: Ergänzung der BV 4-Vorlage 2920/2017 zum zweiten Förderzeitraum des Aktivierungsfonds - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld; VEP: Einleitungsbeschluss - geändert beschlossen
+- TOP 10.3: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld; Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.4: Bezirkssportanlage Everhardstraße in Köln-Ehrenfeld hier: Belagsänderung von Tenne in Kunststoffrasen - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Ehrenfeld aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.12.2016 - Kenntnis genommen
+- TOP 12.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 12.3: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 12.4: Gehwegführung an der Baustelle Subbelrather Straße/Evangelische Kinderarche - Kenntnis genommen
+- TOP 12.5: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 12.6: Stellungnahme zu den Ergänzungen zum Baubeschluss "9.7 Grünfläche Butzweiler Hof" der Bezirksvertretung Ehrenfeld am 11.09.2017 - Kenntnis genommen
+- TOP 12.7: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
