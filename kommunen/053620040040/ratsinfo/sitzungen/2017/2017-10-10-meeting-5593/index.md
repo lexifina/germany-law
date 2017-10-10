@@ -1,0 +1,53 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2017-10-10T18:00:00+02:00
+- Ende: 2017-10-10T19:32:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeuHMCOgMVLn-qcCr8lRKw0
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5593
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdCCTHZxiMxUYi2pwmz0k_muVB-XoEHdLJosJ5TsLsQ0/Einladung_Rat_10.10.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfLj5uBfUDWrTOgAU8CNYWNFayqcvhEUzHq4bs4MlcZV/Oeffentliche_Niederschrift_Rat_10.10.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Verabschiedung einer Stadtverordneten und Verleihung der Ehrengabe der Stadt Wesseling
+- TOP 3.: Einführung und Verpflichtung eines Stadtverordneten
+- TOP 4.: Beschlussfassung über die Tagesordnung
+- TOP 5.: Einwohnerfragestunde
+- TOP 6.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 7.: Beschlusskontrolle
+- TOP 8.: Vorstellung der nominierten Ideen des "Ideenpool Wesseling - du bist meine Stadt" durch die Bürgerstiftung Wesseling
+- TOP 9.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2014; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 10.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2015; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 11.: Kindertageseinrichtungen der Stadt Wesseling; Feststellung des Jahresabschlusses 2015, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 12.: Sportstätten der Stadt Wesseling; Feststellung des Jahresabschlusses 2015, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 13.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2015; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltungen
+- TOP 14.: Entsorgungsbetriebe Wesseling hier: Feststellung des Jahresabschlusses 2016 und Entscheidung über die Gewinnverwendung - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bereitstellung von Finanzmitteln für die Beschaffung von Mannschaftstransportwagen für die Feuerwehr Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 16.: Haushaltswirtschaft der Stadt; Übertragung von Ermächtigungen in das Haushaltsjahr 2017
+- TOP 17.: Prüfung des Jahresabschlusses der Stadt Wesseling zum 31.12.2016
+- TOP 18.: Einbringung der Entwürfe der Gesamtabschlüsse 2010 bis 2015 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Außerkraftsetzung der Richtlinien über das Erheben von Kostendeckungsbeiträgen (KDB) von Vereinen für die Nutzung von Sportstätten der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 20.: Vorbereitung der geplanten Direktvergabe der öffentlichen Verkehrsdienste mit Bussen in der Stadt Wesseling hier: Gruppenbeteiligungsregelung - Einstimmig, 0 Enthaltungen
+- TOP 21.: Organisation der interlokalen Verkehre im Rahmen der Direktvergabe durch die Stadt Köln hier: Abschluss einer Vereinbarung für die Stadtbahnlinie 16 - Einstimmig, 0 Enthaltungen
+- TOP 22.: Beschulung von Schülerinnen und Schülern mit sonderpädagogischem Unterstützungsbedarf - Einstimmig, 0 Enthaltungen
+- TOP 23.: Abwasserbeseitigungskonzept 2018-2023 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Neuwahl einer Schiedsperson für Bezirk I und II
+- TOP 25.: Genehmigung einer Dienstreise hier: Dienstreise von Ratsmitgliedern / Sachkundigen Bürgern oder Einwohnern in die Partnerstadt Traunstein - Einstimmig, 0 Enthaltungen
+- TOP 26.: Antrag der Fraktion Bündnis90/Die Grünen: Umbesetzung im Ausschuss für Stadtentwicklung und Umweltschutz - Einstimmig, 0 Enthaltungen
+- TOP 27.: Antrag der Fraktion WIR/FWW: Neubesetzung von Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 28.: Antrag der Fraktionen SBW und WIR/FWW: Aufwandsentschädigung für Ausschussvorsitzende - Änderung der Hauptsatzung der Stadt Wesseling - 10 Ja-Stimmen, 13 Nein-Stimmen, 2 EnthaltungenDer Antrag ist somit abgelehnt.
+- TOP 29.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Gasversorgungsgesellschaft mbH hier: Gründung der erftpower Wind Verwaltungs- GmbH (epW GmbH) und der erftpower Wind GmbH & Co. KG (epW GmbH & Co. KG) durch die Gasversorgungsgesellschaft mbH Rhein-Erft (GVG) - Einstimmig, 0 Enthaltungen
+- TOP 2.: Veräußerung von 1 % der Geschäftsanteile an der Gasversorgungsgesellschaft mbH Rhein-Erft durch die RheinEnergie AG an die Stadt Pulheim – Verzicht auf Vorerwerbsrecht; Abschluss einer Gesellschaftervereinbarung - Einstimmig, 0 Enthaltungen
+- TOP 3.: Vergabe von Aufträgen zur Umsetzung eines Kofferaufbaus eines Rettungstransportwagen auf ein neues Fahrgestell - Einstimmig, 0 Enthaltungen
+- TOP 4.: Grundstücksangelegenheit an der „Urfelder Straße“ in Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 5.: Mitteilungen und Anfragen
+- TOP 6.: Presseveröffentlichungen
