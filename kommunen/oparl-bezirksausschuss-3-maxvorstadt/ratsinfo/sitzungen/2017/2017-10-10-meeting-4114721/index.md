@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2017-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4114721
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4114721
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.4.: Abbruch Linprunstraße 19
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Baumpflanzungen in der Karlstraße, Bürgeranliegen vom 13.09.2017
+- TOP 6.1.: Wittelsbacherplatz für den Radverkehr öffnen
+- TOP 6.2.: Referat für Stadtplanung und Bauordnung, Zwischennachricht Verkehrliche Neugestaltung der gesamten Augustenstraße zeitnah planen und umsetzen, BA-Antrag Nr. 14-20 / B 03192
+- TOP 6.3.: Direktorium Neugestaltung des Walter-Klingenbeck-Weges, Beschluss des BA 3 vom 16.08.2017
+- TOP 6.4.: Rotunde des ehemaligen Paketzustellamtes für die Öffentlichkeit zugänglich erhalten
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag FDP vom 18.10.2017 Entwicklungscampus Königinstraße; Anwohnerstellplätze in der geplanten Tiefgarage
+- TOP 2.1.1.: Liste der Bauvorhaben der LBK: 35., 36., 37. KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 33., 34., 35. KW
+- TOP 2.1.3.: Heßstraße 74 – 76, Neubau einer Wohnanlage mit Gewerbeflächen und Tiefgarage
+- TOP 2.1.5.: Kurfürstenstraße 7, Gebäudeerweiterung, Tektur
+- TOP 2.1.6.: Brienner Straße 37, Neubau Mensa und Schulerweiterung, Schulbauoffensive
+- TOP 2.1.7.: Augustenstraße 78 Rgb., Neubau eines Rückgebäudes
+- TOP 3.1.1.: Erzgießereistraße 14 Teilabbruch, Nutzungsänderung, Neubau Wohnnutzung, Tiefgarage usw.
+- TOP 3.1.2.: Königinstraße 9 – 11a Sanierung Haus-Nr. 9 – 11 mit anteiliger Nutzungsänderung: Verwaltung zu Wohnen, Errichtung einer Hofbebauung mit Verwaltungsnutzung (Haus Nr. 11), Tiefgarage Innenhof sowie Abbruch und Neubau des Zwischengebäudes (Haus Nr. 9/11)
+- TOP 3.1.3.: Luisenstraße 9 – 11, Generalinstandsetzung Berufsschulanlage, Vorbescheid
+- TOP 3.2.1.: Karolinenplatz 1, eine Akazie
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Programm „Bürgerinnen und Bürger gestalten ihre Stadt“ - Bürgerbeteiligung in den Stadtvierteln
+- TOP 5.2.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015
+- TOP 5.3.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 5.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Regelungen/Standards im Wohnungsbau Sitzungsvorlage Nr. 14-20 / V 08589 Beschuss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017
+- TOP 5.5.: Referat für Stadtplanung und Bauordnung Bebauungsdichte erhöhen und Wohnraum schaffen durch Aufstockung Sitzungsvorlage Nr. 14-20 / V 06189 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017
+- TOP 5.6.: Referat für Stadtplanung und Bauordnung, Fällgenehmigung, Theresienstraße 90
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 24.09.2017 Verkehrssicherheit in der Türkenstraße
+- TOP 1.2.: Antrag SPD vom 24.09.2017 Keine Werbeveranstaltungen mehr auf dem Wittelsbacherplatz
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 22.09.2017 Parkraummanagement-Gebühren auch in der Maxvorstadt erhöhen
+- TOP 1.4.: Antrag Bündnis 90/die Grünen vom 21.09.2017 Carsharing-Gesetz vom 01.09.2017 nutzen undneue Carsharing-Parkplätze in der Maxvorstadt ausweisen
+- TOP 1.5.: Antrag CSU vom 22.09.2017 Abgabe von kaputten Fahrrädern beim Wertstoffmobil
+- TOP 1.6.: Antrag CSU vom 11.09.2017 Barrierefreie U-Bahn-Einstiege in der Maxvorstadt
+- TOP 1.7.: Antrag CSU vom 11.9.2017 Leerung der Mülleimer am Josephsplatz und auf dem dortigen Spielplatz auch an Wochen- enden
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Baureferat, Beschlussvorlage, Entscheidung Baumaßnahme Katharina-von-Bora-Straße/Karlstraße, Projekt-Nr. 100832
+- TOP 2.1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Anhörung Grundsatzbeschluss Radverkehr
+- TOP 2.2.1.: Baureferat, Gestaltung öffentlicher Raum Mehr Sitzgelegenheiten an öffentlichen Plätzen (75 Sitzbänke an 26 Standorten)
+- TOP 2.2.2.: Görresstraße 30, Ecke Zentnerstraße, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.3.: Baureferat Programm barrierefreie Bushaltestellen (ÖPNV Offensive) – Schellingstraße, Haltestelle Türkenstraße, Projekt Nr. 5629, Entscheidung
+- TOP 2.2.4.: (E) Überarbeitung der Oberflächengestaltung am Altstadtring Nordwest Empfehlung Nr. 14-20 / E 01202 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2016
+- TOP 2.2.5.: Baureferat, temporäre Kunst im öffentlichen Raum „Straßen Namen Zeichen“ im Innenstadtgebiet vom 19.10. bis 14.12.2017
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Karlsplatz 25 Umgestaltung der öffentlichen Verkehrsflächen im Vorfeld des Hotels Königshof im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt 1. Bedarfs- und Konzeptgenehmigung 2. Genehmigung zur verwaltungsinternen Abwicklung der weiteren Genehmigungsschritte 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 3.2.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a) Wredestraße zwischen Mars- und Arnulfstraße, Fahrbahnsanierung b) Schwindstraße 13 bis 17, Verlegung Fernwärmeleitung c) Schellingstraße 103 bis Ecke Luisenstraße, Umbau Bushaltestelle d) Schellingstraße 85 bis Arcisstraße, Umbau Bushaltestelle e) Richard-Wagner-Straße mit Gabelsbergerstraße und Kreuzung Gabelsberger-/Luisen- straße, REHA Fernwärmeleitung f) Königinstraße südlich Veterinärstraße, Straßenbauarbeiten g) Karlstraße 60 bzw. Seidlstraße 28, Seite Karlstraße, Gernwärme h) Karlstraße 54 a und im Bereich Seite Dachauer Straße, Fernwärme
+- TOP 3.3.: entfällt
+- TOP 3.4.: a) Karolinenplatz 2, Fernwärme
+- TOP 3.5.: Kreisverwaltungsreferat, verkehrsrechtliche Erlaubnis Oktoberfestshow mit Florian Silbereisen am 16.06.2017 im Cirkus Krone
+- TOP 3.6.: Referat für Gesundheit und Umwelt, Ausnahmezulassungen gem. § 7 Abs. 2 d. 32.BimSchV a) Rottmann-, Heß- und Maßmannstraße, 18.09. bis 01.11.2017, Mülleinsammlung
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Referat für Bildung und Sport, Entwurf Beschlussvorlage, Anhörung „Fortschreibung...Schulentwicklungsplanung“
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Nachbarschaftstreff Arnulfpark, Verein für Sozialarbeit e.V. Anschaffung von zwei mobilen Fußballtoren und eines Laptops 2.100,00 Euro
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Sozialreferat, Beschlussvorlage Bauträgerauswahl für ein Baugrundstück; Erweiterung des Hausses an der Gabelsberger- straße – Übergangs- und langfristig betreute Wohnformen Sitzungsvorlage Nr. 14-20 / V 09390 Beschluss des Sozialausschusses vom 21.09.2017
+- TOP 4.2.: Psychosoziale Arbeitsgemeinschaft des Sektors Nord der Versorgungsregion der Landes- hauptstadt München Wunsch nach Austausch mit dem Bezirksausschuss 3 Maxvorstadt
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Förderverein für die Kirchenmusik in Sankt Bonifaz e.V. Konzert am 17.12.2017 2.710,00 €
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Bildband Ludwigstraße" Veröffentlichung eines Bildbandes "Ludwigstraße" im Frühjahr 2018 2.542,00 Euro
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Direktorium, Beschlussvorlage, Unterrichtung BürgerInnen-Information und -Beteiligung stärken, Internetseiten des Bezirksausschusses der „Internet-Gegenwart“ anpassen, Arbeit des Internetbeauftragten oder der -Beauftragten honorieren BA-Antrag Nr. 14-20 / B 01952 des BA 16 Ramersdorf-Perlach vom 14.01.2016
+- TOP F.2.: Direktorium, Unterrichtung Beibehaltung des Hare-Niemeyer-Verfahrens bei der künftigen Sitzverteilung in den Bezirksausschüssen der Landeshauptstadt München
+- TOP G: Nicht öffentliche Sitzung
