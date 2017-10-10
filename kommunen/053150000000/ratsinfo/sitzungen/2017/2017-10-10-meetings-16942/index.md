@@ -1,0 +1,69 @@
+# 30. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-10T16:05:00+02:00
+- Ende: 2017-10-10T18:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16942
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16942
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00631788.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00631788.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00631788.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP -: NO2-Grenzwerte einhalten! – Was bedeuten die Ergebnisse des Dieselgipfels für Köln? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Ampeln in Köln – Sicherheit oder Stressfaktor? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Elektromobilität: Ladestationen für den MIV an Unterwerken der KVB - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.3: Kostenerhöhung für die Gesamtinstandsetzung der Mülheimer Brücke - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.4: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - zurückgestellt
+- TOP 1.5: Realisierung von ÖPNV-Maßnahmen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag des Seniorenvertreters Meurers
+- TOP 2.2: Fahrradmitnahme durch Taxis mit Fahrradträgern - ungeändert beschlossen
+- TOP 2.3: Antrag des Seniorenvertreters Meurers vom 26.09.2017 betr. Beschaffung von 10 Elektrofahrzeugen - endgültig zurückgezogen
+- TOP 2.4: Antrag des Seniorenvertreters Meurers vom 26.09.2017 betr.
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3.1: Verkehrsplanungen für den rechtsrheinischen Kölner Süden und die angrenzenden Nachbarstädte - ungeändert beschlossen
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - ungeändert beschlossen
+- TOP 4.2: Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse - ungeändert beschlossen
+- TOP 4.2.1: Ost-West-Achse schnell ertüchtigen! - Änderungsantrag zu Top 4.9 „Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse“ - endgültig zurückgezogen
+- TOP 4.2.2: Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse zwischen Deutzer Brücke und der Universitätsstraße - Sache ist erledigt
+- TOP 4.2.3: Ost-West-Achse schnell ertüchtigen! - Änderungsantrag zu Top 4.2 „Durchführung einer Bürgerbeteiligung im Zusammenhang mit der Umgestaltung der Ost-West-Achse" (ergänzte Fassung) - endgültig abgelehnt
+- TOP 4.3: Leistungserweiterungen des ÖPNV-Angebotes auf Kölner Stadtgebiet gemäß Konzept des Rheinisch-Bergischen Kreises - geändert beschlossen
+- TOP 4.3.1: Ergänzungsantrag zu TOP 4.3 „Leistungserweiterungen des ÖPNV-Angebotes auf Kölner Stadtgebiet“ - geändert beschlossen
+- TOP 4.4: Verdichtung des Fahrplantaktes der Linie 4 - ungeändert beschlossen
+- TOP 4.4.1: Verdichtung des Fahrplantaktes der Linie 4 - endgültig abgelehnt
+- TOP 4.5: Radverkehrskonzept Innenstadt - im ersten Durchgang verwiesen
+- TOP 4.5.1: Änderungsantrag zu Top 4.5 „Radverkehrskonzept Innenstadt – Radverkehrsführung an den Kölner Ringen“ - im ersten Durchgang verwiesen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - ungeändert beschlossen
+- TOP 5.2: Gesamtverkehrskonzept Köln, 8. Änderung - ungeändert beschlossen
+- TOP 5.3: Mitteilung über eine Kostenerhöhung gegenüber dem erweiterten Baubeschluss zur Umsetzung des Brandschutzes an der Haltestelle Poststraße - ungeändert beschlossen
+- TOP 5.4: Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - im ersten Durchgang verwiesen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Radverkehrskonzepte für die Kölner Stadtbezirke - Sache ist erledigt
+- TOP 6.2: RheinEnergie-Stadion; hier: Ergebnisse der Machbarkeitsstudie sowie Beantwortung von Anfragen aus früheren Sitzungen - Sache ist erledigt
+- TOP 6.3: Varianten für eine Querung der Luxemburger Straße an der Haltestelle Eifelwall - Sache ist erledigt
+- TOP 6.4: Sicherheit im Straßenverkehr - Sache ist erledigt
+- TOP 6.5: Bürgereingabe betreffs Förderung der Elektromobilität am Pilotstandort Ottmar-Pohl-Platz - Sache ist erledigt
+- TOP 6.6: Grünpfeilregelung für den Radverkehr - Sache ist erledigt
+- TOP 6.7: Unfallgefahr zum neuen Schuljahr durch Elterntaxis - zurückgestellt
+- TOP 6.8: Ergebnisse des "Dieselgipfels" in Berlin - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unfallgeschehen, Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2016 im Stadtgebiet Köln - Kenntnis genommen
+- TOP 7.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 7.3: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 7.4: Luftreinhaltung - Sachstand zum Runden Tisch - Kenntnis genommen
+- TOP 7.5: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 7.6: Ergebnisse des zweiten „Dieselgipfels" in Berlin, Konsequenzen und Maßnahmen für Köln - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Sachstand zur Sanierung der Zoobrücke - Sache ist erledigt
+- TOP 8.2: Planungsvorlage Niehler Gürtel - zur weiteren Bearbeitung in die Verwaltung überwiesen
