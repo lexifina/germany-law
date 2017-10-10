@@ -1,0 +1,61 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-10-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266225
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266225
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.3: Vorstellung Projekt Dirtbike-Anlage für Kleinkinder in der Franz-Albert-Straße
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 2.2.1.: Altglascontainer in der Franz-Nißl-Straße
+- TOP 4.1.: (E) + (U) Busanbindung Waldkolonie Empfehlung Nr. 14-20 / E 01542 der Bürgerversammlung des Stadtbezirkes 23 – Allach - Untermenzing am 27.06.2017
+- TOP 4.2.: (E) Erhöhung der Schulwegsicherheit Eversbuschstraße zwischen Von-Kahr-Straße und Allacher Straße
+- TOP 4.3.: (E) Aufstellen eines offenen Bücherschrankes im Stadtbezirk Allach-Untermenzing
+- TOP 4.4.: (E) Lichtzeichenanlage St.-Johann-Str. / Eversbuschstraße
+- TOP 4.5.: (E) Einrichtung eines Wochenmarkts in Untermenzing Empfehlung Nr. 14-20 / E 01538 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 27.06.2017
+- TOP 4.6.: (E) Lärm- und Emissionsschutz für alle Anlieger der Ludwigsfelder Straße (Ziffer 4) Empfehlung Nr. 14-20 / E 01543 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 27.06.2017
+- TOP 4.7.: (E) Nachtfahrverbot bzw. Prüfung der zunehmenden nächtlichen LKW-Fahrten in der Eversbuschstraße und Paul-Ehrlich-Weg und Schreiben Kreisverwaltungsreferat vom 29.09.2017: Lärmmessungen
+- TOP 5.1.: Entwurf Grundsatzbeschluss Radverkehr
+- TOP 5.2.: Verkehrsrechtliche Anordnung Hanfgartenstraße
+- TOP 5.3.: Goteboldstraße 100, Gemarkung: Allach, Fl.Nr.: 519/1 Neubau von 10 Boxen für Substrate
+- TOP 5.4.: Stieglstraße, Gemarkung: Untermenzing, Fl.Nr.: 904/0 Neubau eines Dreispänners mit zwei Garagen und einem Stellplatz
+- TOP 5.5.: Schreiben Direktorium vom 02.10.2017: Änderung der BA-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen, Stadtratsantrag
+- TOP 6.1.: (U) Straßenbenennung im 23. Stadtbezirk Allach-Untermenzing Erwin-Schleich-Straße
+- TOP 6.2.: (U) "Wohnen für Alle" Vorstellung des Rahmenkonzepts des Sozialreferats und Finanzierung der Standorte 2017 und 2018 Produkt 60 4.1.8 Schaffung preiswerten Wohnraums Produkt 60 6.2.3 Betreuung von jungen und unbegleiteten heranwachsenden Flüchtlingen Soziale Hausverwaltung - Wohnen für Alle Antrag Nr. 14-20 / B 02676 ............................ Kochen mit Flüchtlingen - Hilfe, die schmeckt Antrag Nr. 14-20 / A 02429 ..........................
+- TOP 6.3.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 6.4.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 7.1.: Schreiben Sozialreferat vom 05.09.2017: Wahl der 11. Münchner Seniorenvertretung 2017
+- TOP 7.2.: Veranstaltungen: Einladung "Stadtgrün - zentraler Faktor für unser Stadtklima?" 19.10.2017 Einladung kostenfreie Exkursion & Vortrag "LED-Beleuchtungen in der Praxis" 20.10.2017 Einladung Zweiter Zukunftskonkress Langfristige Siedlungsentwicklung 08.11.2017 Einladung SoPoDi / Veranstaltung Wohnen und Leben im Quartier Teil II 22.11.2017
+- TOP 7.3.: Schreiben Direktorium vom 02.10.2017: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen
+- TOP 9.1.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Peter-Müller-Str. 8, Gerlachweg 19, Drachenfelsstr. 9, Manzostr. 32, Dachauer Str. 655,
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (11.09.-17.09.17, 18.09.-24.09.17, 25.09.-01.10.17)
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.09.2017: Vollzug der BaumschutzVO Zittauer Str. 19
+- TOP 9.4.: Schreiben Stadtwerke München vom 15.09.2017: Baumaßnahme Strom-Projekt Ludwigsfelder Straße
+- TOP 9.5.: Schreiben Stadtwerke München vom 25.09.2017, 02.10.2017: Baumaßnahmen
+- TOP 9.6.: Schreiben Green City vom 15.09.2017 Nachbericht "1200 m² mehr Grün für Menzing"
+- TOP 9.7.: Schreiben Kreisverwaltungsreferat vom 11.07.2017: Aufstellung eines Zeichens "Schulweg" in der Menzinger Straße
+- TOP 9.8.: Schreiben Kreisverwaltungsreferat vom 27.09.2017: Vollsperre Allacher Straße 269-271
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.09.2017: Vorhabenbez. Bebauungsplan mit Grünordnung Franz-Nißl-Straße/Hintermeierstraße/Lewaldstraße Seniorinnen- und Seniorenwohn- und Pflegeheim Beteiligung der Öffentlichkeit Öffentliche Auslegung
+- TOP 9.10.: Schreiben Stadtwerke München vom 04.10.2017: Baumaßnahme Mehrspartenprojekt Lautenschlägerstraße
+- TOP 9.11.: Schreiben Baureferat vom 27.09.2017: Nachbesserung Grünanlage ehemaliges Allacher Bad
