@@ -1,0 +1,55 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2017-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4232887
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4232887
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 12.09.2017
+- TOP 8: Umlauf
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Fußweg zur Landsberger Straße
+- TOP 1.2.2.: Parksituation Agnes-Bernauer-Str., Fröbelplatz, Schrottstr.
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Initiativgruppe Zschokkestraße Begegnungsfest am 14.10.2017 1.870,00 €
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Faschingsclub Laim e.V. 15. Laimer Faschingstreiben am 10.02.2018 2.752,25 €
+- TOP 4.1.: Einzelfällungsantrag: Agnes-Bernauer-Str. 145, 1 Pinie
+- TOP 6.1.: Wahl der 11. Münchner Seniorenvertretung 2017
+- TOP 6.2.: 18.jetzt - Fest junger Erwachsener im Rathaus am 28.10.2017
+- TOP 6.3.: Schreiben Oberbürgermeister vom 27.09.17: Musikübungsräume in der Landsberger Straße
+- TOP 7.2.: Protokoll UA Umwelt und Verkehr vom 20.09.17 (Ortstermin Hönigschmidplatz)
+- TOP 7.3.: Protokoll UA Kultur vom 19.09.17
+- TOP 8.1.: Schreiben Direktorium vom 11.09.17: Beibehaltung des Hare-Niemeyer-Verfahrens bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München
+- TOP 8.2.: Schreiben Direktorium vom 06.09.17: BürgerInnen- Information und Beteiligung stärken; Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen; Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.09.17: Mitterhoferstr. 7
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.09.17: Fällungsgenehmigung Rushaimerstr. 55
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.09.17: Riegerhofstr. 18, Errichtung von Containern mit 2 Klassenzimmern, zeitlich befristet auf zwei Jahre
+- TOP 8.6.: Bautenlisten 28.08.-03.09.17: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten a) Lanzstr. 18b
+- TOP 8.7.: Bautenlisten vom 04.09.-10.09.17: 1. Erstantragsverfahren a) Landsberstr Str. 185 b) Elsenheimerstr. 63 c) Hartelstr. 17 d) Junkerstr. 20 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten a) Högerstr.
+- TOP 8.8.: Bautenlisten 11.09.-17.09.17: 1. Erstantragsverfahren a) Rushaimerstr. 53a
+- TOP 8.9.: Schreiben Stadtwerke München GmbH vom 18.09.17: Baumaßnahmen der SWM - 2. Halbjahr2017
+- TOP 8.10.: Schreiben Stadtwerke München GmbH: Baumaßnahmen der Stadtwerke: Stichtag 18.09. - 22.09.17
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 11.09.17: Antrag auf unveränderte Fortführung der "3D Restaurant & Bar Laim"
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 31.08.17: Antrag auf unveränderte Fortführung der "Hola S-Box"
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 06.09.17: Parkende Autobusse in der Einfahrt Agnes-Bernauer-Str. 53
+- TOP 8.14.: Schreiben Deutsche Bahn AG vom 04.09.17: Winterdienst S-Bahnstationen Hirschgarten und Laim
+- TOP 8.15.: Schreiben Sanikonzept GmbH vom 25.09.17: Information Sanierung Öffentliche WCs München
+- TOP 8.16.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 8.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.18.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 8.19.: (U) PERSPEKTIVE MÜNCHEN Leitlinie Soziales
+- TOP 8.20.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 8.21.: Tagesordnungspunkt (betrifft Privatpersonen)
