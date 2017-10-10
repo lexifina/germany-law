@@ -1,0 +1,78 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262504
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262504
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Vorstellung des Bürgerprojekts "MAKERLAB"
+- TOP 2.1.: (E) Budget der Bezirksausschüsse FC Fasanerie Nord e.V. 40-jähriges Vereinsjubiläum am 18.11.2017 2.700,00 €
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Feldmochinger Volkstheater e.V. Theateraufführung "Der Geisterbräu" im November 2017 4.125,00 Euro
+- TOP 2.3.: (E) Einrichtung eines (barrierefreien) Bürgertreffs in der Fasanerie Empfehlung Nr. 14/20 / E 01389 .........................
+- TOP 2.4.: (E) Budget der Bezirksausschüsse TSV 54 - DJK München e.V. Erweiterung der Kinder-Gymnasik und Turnabteilung 347,00 Euro 0262.0-24-0210
+- TOP 2.5.: (E) Budget der Bezirksausschüsse FC Eintracht München Besuch des Kletterwaldes am 02.07.2017
+- TOP 3.: Anträge
+- TOP 3.1.: Sanierung Fassade mit Kunstgestaltung der Willy-Brandt-Gesamtschule
+- TOP 3.2.: Gehweg in der Wilhelmine-Reichard-Straße (Bürgeranliegen) (Wiedervorlage TOP 3.3 / Sitzung 14.02.2017)
+- TOP 3.3.: Ampelanlage von der Ratoldstraße zur Dülferstraße (Bürgeranliegen) (Wiedervorlage TOP 3.6/ Sitzung 14.02.2017)
+- TOP 3.4.: Verkehrsspiegel an den Kreuzungen Lerchenauer Straße mit Nebenstraßen
+- TOP 3.5.: Zebrastreifen Kreuzung Waldrebenstraße mit Waldmeisterstraße
+- TOP 3.6.: Errichtung eines Interimsgymnasiums auf dem Gelände Lerchenauer Feld
+- TOP 3.7.: Kostenerstattung von Schülerfahrkarten in der Oberstufe
+- TOP 5.1.1.: Mitteisstr. 21
+- TOP 5.1.2.: Witzlebenstr. 12
+- TOP 5.1.3.: Ebereschenstr. 15
+- TOP 5.1.4.: Karlsfelder Str. 282 (zu 5.1.5 – 12.09.17)
+- TOP 5.2.1.: Ponkratzstr. 40-42
+- TOP 5.2.2.: Carcciolasdtr. 50
+- TOP 5.2.3.: Waldmeisterstr. 21b
+- TOP 5.2.4.: Waldmeisterstr. 38
+- TOP 5.3.1.: Dülfer Anger, Circus Roberto vom 02.11. bis 12.11.2017
+- TOP 5.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Feuerwehranfahrtzone Knospenstraße (Korrigierte Version - siehe TOP 5.4.9 / Sitzung 12.09.2017)
+- TOP 5.4.2.: Änderung des Hinweisschildes an der Ecke Wilhelmine-Reichard-Straße - Antrag BA 24 vom 26.06.2017
+- TOP 5.4.3.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 5.4.4.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20/ V 09501
+- TOP 5.4.5.: Daten Pegel Feldmoching
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: (E) Wohnungen Schittgablerstraße - Parkplätze Empfehlung Nr. 14-20 / E 01400 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017
+- TOP 6.2.: Weiter verbesserte Anbindung des ÖPNV während der Nacht auf Fasanerie und Ludwigsfeld (zu 3.6 - 04.04.2017)
+- TOP 6.3.: Errichtung eines absoluten Haltverbots an der Nordseite der Grashofstraße, Ecke Pflaumstraße - Karlsfelder Straße; Anordnung der Beschilderung ; Ergänzung zu BA-Antrag Nr. 14-20/ B 03737)
+- TOP 6.4.: Nahversorgung in der Siedlung Am Lerchenauer See
+- TOP 6.5.: Überfüllung von Wertstoffcontainern im 24. Stadtbezirk (zu 3.5 - 12.09.2017)
+- TOP 6.6.: Förderprogramm "Bürgerinnen und Bürger gestalten Ihre Stadt"
+- TOP 6.7.: Wilhelmine-Reichard-Straße: Geschwindigkeitsbeschränkung auf 30 km/h und Beschilderung mit Gefahrzeichen
+- TOP 6.8.: Josef-Frankl-Straße und Walter-Sedlmayr-Platz; Umbau der Buswendeanlage
+- TOP 6.9.: Genehmigung eines "Offenen Bücherschranks"; Öffentlich rechtliche Sondernutzungserlaubnis in der Grünfläche neben der Feldmochinger Str. 214
+- TOP 6.10.: Baumaßnahmen der SWM - 2. Halbjahr 2017
+- TOP 6.11.: Flyer SWM Trinkwasserprojekt Schneeglöckchenstraße
+- TOP 6.12.: Daten Pegel Feldmoching
+- TOP 6.13.: Meldelisten Bauvorhaben
+- TOP 6.14.: Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen; Arbeit des Internetbeauftragten oder der -beauftragten entsprechend honorieren
+- TOP 6.15.: (U) Schaffung einer Grünverbindung zwischen den Baggerseen Lerchenauer See, Fasanerie See und Feldmochinger See Empfehlung Nr. 14-20 / E 01407 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017
+- TOP 6.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.17.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 6.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.19.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 6.20.: Verkehrssituation in der Lerchenau - Lichtsignalanlage Lerchenauer-/ Irisstraße
+- TOP 6.21.: Gymnasium auf dem Siedlungsareal Bergwachtstraße / "Lerchenauer Feld"
+- TOP 8.1.: Protokoll der Sitzung am 18.07.2017 (nach Genehmigung in der Sitzung am 12.09.2017)
