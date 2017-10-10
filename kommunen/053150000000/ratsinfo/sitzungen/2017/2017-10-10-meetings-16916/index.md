@@ -1,0 +1,53 @@
+# 24. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-10T15:35:00+02:00
+- Ende: 2017-10-10T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16916
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16916
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00629693.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00629693.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00629693.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der Ratsgruppe GUT betr.: "Runder Tisch – Kultur auf dem Heliosgelände" - endgültig abgelehnt
+- TOP -: ÄA zu TOP 3.1 "Runder Tisch – Kultur auf dem Heliosgelände" - geändert beschlossen
+- TOP 3.2: Antrag der Ratsgruppe Piraten betr.: "„Filmfriend“ – Bibliotheken um Streamingdienst erweitern" - endgültig abgelehnt
+- TOP 3.3: „Filmfriend„ – Bibliotheken um Streamingdienst erweitern - endgültig zurückgezogen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Änderungen der Bezuschussung von Interkulturellen Kunstprojekten 2017 - ungeändert beschlossen
+- TOP 4.2: Strukturförderung Kulturwerk des Bundesverband Bildender Künstlerinnen und Künstler (BBK Köln e.V.( 2018 - 2020) - ungeändert beschlossen
+- TOP 4.3: Bezuschussung von Interkulturellen Kunstprojekten für das 1. Halbjahr 2018 - geändert beschlossen
+- TOP 4.4: Genehmigung der Mittelverwendung für die Sonderausstellung "Haegue Yang" vom 18. April bis 12. August 2018 im Museum Ludwig - ungeändert beschlossen
+- TOP 4.5: Vergabe der dreijährigen Förderung "Tanzpakt STADT-LAND-BUND" - ungeändert beschlossen
+- TOP 4.6: Vergabe der Konzeptionsförderung in der Sparte Tanz, Haushaltsjahre 2018-2020 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung laotischer Textilien an das Rautenstrauch-Joest-Museum - ungeändert beschlossen
+- TOP 6.2: "Erinnerungsorte Kinderheime Köln-Sülz"; Schenkungsannahme - ungeändert empfohlen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Yitzhak-Rabin-Platz, Sachstand zur Realisierung des Wettbewerbs zur Aufwertung eines innerstädtischen Freiraums - Kenntnis genommen
+- TOP 8.2: Ergebnisprotokoll der 12. Sitzung des Kunstbeirates in der Ratsperiode 2014-2020 am 7.9.2017 - Kenntnis genommen
+- TOP 8.3: Ein Bibliotheksausweis für jede Schultüte – 100 Jahre Heinrich Böll / Junges Buch für die Stadt - Kenntnis genommen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Sachstandsbericht zur Zentralbibliothek für Kunst und Kunstgeschichte (KunstBibliothek Köln, KuBi Köln) - Kenntnis genommen
+- TOP 8.6: Sanierung des Römisch-Germanischen Museum - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur MiQua
+- TOP 9.2: Sachstandsbericht 43 - Neubau des Historischen Archives und des Rheinischen Bildarchiv
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der SPD-Fraktion betr.: "Zukünftiger Betrieb des "Underground" in Ehrenfeld" - zurückgestellt
+- TOP 11.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sommer Köln" - zurückgestellt
+- TOP 11.3: Kulturelle Bildung - zurückgestellt
+- TOP 12: Mündliche Anfragen
