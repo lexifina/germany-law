@@ -1,0 +1,170 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4217552
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4217552
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: Protokolle der Sitzung vom September 2017
+- TOP 1.3.2.: Wahl einer neuen Vorsitzenden/eines neuen Vorsitzenden im UA Umwelt
+- TOP 1.3.3.: Benennung einer neuen Baumschutzbeauftragten/eines neuen Baumschutzbeauftragten
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Vorstellung der Generalsanierung des St.-Martin-Spitals durch das Kommunalreferat
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Bad-Berneck-Straße 5
+- TOP 3.9.1.2.: Fischbachauer Straße 12
+- TOP 3.9.1.3.: Fasangartenstraße, Fl.Nr. 2271/13
+- TOP 3.9.1.4.: Antrag auf Baumfällung Marklandstraße / Ecke Fasagartenstraße
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Schlierseestr. 20, Erweiterung "Asam Gymnasium": Abbruch der Doppel-Sporthalle und Neubau einer Dreifach-Sporthalle mit 5-geschossigem Lernhaus
+- TOP 6.1.3.2.: Kronacher Str., Neubau einer Wohnanlage mit Tiefgarage
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.2.: Zweckentfremdung 17. Stadtbezirk Landrichterstr. 15
+- TOP 6.1.4.3.: Baumaßnahmen der SWM - 2. Halbjahr 2017, Erweiterung der Baustellenkarte
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.3.4.12.: Bauarbeiten vom 23.10. bis Dezember 2017 HS Spixstraße
+- TOP 6.3.4.13.: Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 6.1.3.4.: Anhörung im Einzelfall auf Anforderung, Obere Grasstr. 1, Sanierung und Umbau eines Wohnhauses
+- TOP 2.1.2.1.: Keine weiteren Wohn- und Nutzflächen in der Oberen Grasstraße 1
+- TOP 2.1.2.2.: Müllabladeplatz U-Bahnhof St.Quirin-Platz
+- TOP 2.1.2.3.: Grünflächen in der Stichstraße, Herbert-Quandt Straße, Lincolnstraße
+- TOP 2.1.2.4.: Park Herbert-Quandt-Straße / Ausgleichsgrundstück für Schrottplatzbetreiber
+- TOP 2.1.2.5.: Enorme Lärmbelästigung durch Veranstaltungen am „Grünspitz“/München Giesing Bürgerschreiben vom 12.09.2017
+- TOP 4.1.: Abfallbehälter und Aschenbecher vor der neuen Stadtbibliothek
+- TOP 4.2.: Einrichtung eines Behindertenparkplatzes vor der Stadtbibliothek Deisenhofener Straße
+- TOP 4.3.: Illegale Müllablagerung im Landschaftschutzgebiet
+- TOP 4.4.: Abstimmung der Standorte des Fahrradverleihsystems Obike mit den Bezirksausschüssen und Einhaltung des Datenschutzes bei der Ausleihe
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Evang.-Luth.-Kirchengemeinde München Giesing Kunstausstellung "Stationen des Lebens" ab dem 08.10.2017 850,00 €.
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse 103er - Freizeittreff Obergiesing, Kreisjugendring München-Stadt Theatertage vom 14. - 17.11.2017 3.050,00 €
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.3.: Anhörung zur Änderung des Bebauungsplanes der Nachbargemeinde Unterhaching Sternstraße, Ausweisung eines Sondergebietes "Kinderfreizeiteinrichtung"
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben in der Zeit vom 28.08.2017 bis 10.09.2017
+- TOP 6.1.4.4.: Bebauungsplanverfahren mit Grünordnung Nr. 2118
+- TOP 6.1.4.5.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 6.1.4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.8.: Parkhaus am Tierpark Hellabrunn a) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2125 Harlachinger Berg (östlich), Siebenbrunner Straße (östlich), Harlachinger Straße (westlich), Karolingerallee (nördlich) (Aufhebung gemäß § 173 Abs. 3 Bundesbaugesetz (BBauG) übergeleiteter einfacher Bebauungspläne) - Parkhaus Tierpark Hellabrunn- - Aufstellungsbeschluss - b) Aufhebung des Aufstellungsbeschlusses für den Bebauungsplan Nr. 641 vom 11.03.1970 c) Antrag und Empfehlungen Antrag der Stadtratsfraktion DIE GRÜNEN/RL: Besucherrekorde ohne Verkehrszunahme – den Tierpark Hellabrunn besser anbinden Antrag Nr. 08-14 / A 03751 der Stadtratsfraktion DIE GRÜNEN/RL vom 23.10.2012 Empfehlungen der Bürgerversammlung des Stadtbezirkes Untergiesing-Harlaching: - Verkehrssituation am Tierpark Hellabrunn Empfehlung Nr. 08-14 / E 01558 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 08.11.2012 - Verkehrssituation am Tierpark Hellabrunn Empfehlung Nr. 08-14 / E 01559 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 08.11.2012
+- TOP 6.1.4.9.: (U) Wohnen in München V a) Erfahrungsbericht für das Jahr 2016 b) Bilanz „20 Jahre München Modell“ (1996-2016) c) Einrichtung einer Stabsstelle bei der HA III-Leitung
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 14-20 / V 16 Anlagen Beschluss des Bildungsausschusses des Stadtrates vom 29.11.2017 (SB) Öffentliche Sitzung
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Lärmschutzmaßnahmen an der Tegernseer Landstraße z. B. durch Aufbringung von "Flüsterasphalt" Teil 1 des Antrages der BV am 20.07.2017 Empfehlung Nr. 14-20 / E 01602 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 20.07.2017 Lärm- und Abgasschutz entlang der Tegernseer Landstraße Einbau eines lärm- und abriebarmen Belages (Ziffer 3 des Antrages der BV am 20.07.2017) Empfehlung Nr. 14-20 / E 01621 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 20.07.2017
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20 / V 09501 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 25.10.2017 (VB)
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (E) Beseitigung des absoluten Haltverbots in der Stettnerstraße (JVA-Gerichtssaal), ggf. alternative Errichtung einer Anwohnerparklizenz und Bereitstellung weiterer Parkplätze
+- TOP 6.3.4.2.: (E) Wiedereinführung der Radwegbenutzungspflicht in der Fasangartenstraße
+- TOP 6.3.4.3.: Reduzierung der Belastung durch Schadstoffe auf den Mittleren Ring zwischen Brudermühlbrücke und A 995
+- TOP 6.3.4.4.: Beschilderung der neu errichteten Senkrechtparkplätze Maurerstraße zwischen Holtzendorfstraße und Stettnerstraße
+- TOP 6.3.4.5.: Aufstellung einer Wartehalle auf der Südseite der Fasangartenstraße an der Haltestelle Landrichterstraße
+- TOP 6.3.4.6.: Rahmenbedingungen Spielbetrieb Grünwalder Stadion des TSV 1860 München e.V.
+- TOP 6.3.4.7.: Neue Markierung der Behindertenparkplätze an der Tegernseer Landstraße; Bürgeranliegen vom 21.07.2017
+- TOP 6.3.4.8.: Ausbau und Verbesserungen auf der S7-Ost Schreiben der S7-Ost-plus vom 17.07.2017
+- TOP 6.3.4.9.: Sanierung von Straßenschäden im 17. Stadtbezirk
+- TOP 6.3.4.10.: Berichtigung der Richtungsschilder in der Icho-Unterführung sowie Verbesserung der Einsehbarkeit der Seitenarme durch Spiegel
+- TOP 6.3.4.11.: Bessere Sichtbarkeit der Hinweisschilder "Behindertenparkplatz" an der Tegernseer Landstraße
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Abstand zur Kompostieranlage
+- TOP 6.4.4.2.: Straßen-/Gehwegreinigung AGFA-Park
+- TOP 6.4.4.3.: Bepflanzung von geeigneten Flächen mit Bäumen an den Kreuzungen der Spixstraße mit der Wirtstraße und der Werner-Schlierf-Straße
+- TOP 6.4.4.4.: Beleuchtung am Weißenseeplatz verbessern!
+- TOP 6.4.4.5.: Baumfällung Kapellenfeldstraße 19
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Sportanlage der Mittelschule Perlacher Straße - Lärmbelästigung; Bürgerschreiben
+- TOP 6.5.4.2.: Verlegung der Bücherbushaltestelle in Fasangarten
+- TOP 6.5.4.3.: Kurzbericht zur geförderten Maßnahme "Sommer im Park"
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Sondernutzungserlaubnis Freischankfläche "Der Dantler GmbH"
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Anhörung im Einzelfall auf Anforderung, Tegernseer Landstraße 94-96 Antrag auf Änderung der Betriebsbeschreibung für die Gaststätte Riffraff
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Unveränderte Fortführung "Cafe Schulz"
+- TOP 6.6.4.2.: Unveränderte Fortführung "Giesinger Oase"
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Beibehaltung des Hare-Niemeyer-Verfahren
+- TOP 7.3.2.: BürgerInnen-Information und –Beteiligung stärken-Internetseiten des Bezirksausschusses der „Internet-Gegenwart“ anpassen - Arbeit des Internetbeauftragten oder der –Beauftragten entsprechend honorieren
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
