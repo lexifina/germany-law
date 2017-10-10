@@ -1,0 +1,24 @@
+# öffentliche Sitzung der Bezirksvertretung Oberbarmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-10-10T19:00:00+02:00
+- Ende: 2017-10-10T20:52:00+02:00
+- Ort: Färberei, Peter-Hansen-Platz 1, 42277 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/45
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/14885
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/14885
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00211474.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Bezirksbürgermeisterin
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Anfragen und Anregungen an die Verwaltung
+- TOP 4: IKEA - Waldanpflanzung und Parkplatz - Entgegennahme ohne Beschluss
+- TOP 5: 75 Familien Plus - Vorstellung des Projektes
+- TOP 6: Qualifizierungsverfahren Umfeld Berliner Platz, Wuppertal-Oberbarmen - Entgegennahme ohne Beschluss
+- TOP 7: Verkehrssicherheit des Fußweges Wittener Straße zwischen Hotel IBIS und Firma Kreiskott (westlich gelegener Abschnitt) - ungeändert beschlossen
+- TOP 8: Bebauungsplan 480 - Haßlinghauser Straße / Gabelsbergerstraße - - ungeändert beschlossen
+- TOP 9: Fällung von Einzelbäumen - Auslichtung von Grünanlagen - Waldpflegemaßnahmen - 2017/2018 - Entgegennahme ohne Beschluss
