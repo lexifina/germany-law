@@ -1,0 +1,124 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-10-11T17:00:00+02:00
+- Ende: 2017-10-11T21:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4169
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4169
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=256253
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Liegewiese Schäfersee - beantwortet
+- TOP 2.2: Brandschutz in Schulen - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 13. Sitzung der BVV am 11.10.2017 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Sturmschäden in Reinickendorf - beantwortet
+- TOP 4.2: Bauliche Ruine "Hotel am Tegeler See" - beantwortet
+- TOP 4.3: Laub auf Spielplätzen - beantwortet
+- TOP 4.4: 250. Geburtstag von Alexander von Humboldt - beantwortet
+- TOP 4.5: Turmblasen zu Silvester - beantwortet
+- TOP 4.6: Kiosk Bernauer Strasse /Ecke Neheimer Strasse - beantwortet
+- TOP 4.7: WBS für geflüchtete Menschen - beantwortet
+- TOP 4.8: Plant Bezirksstadtrat Maack (AfD) nun doch seine Personalmittel vollständig für ordentliche Personalstellen zu verwenden? - beantwortet
+- TOP 4.9: Rattenbefall im Gebäude des Rathauses Reinickendorf - beantwortet
+- TOP 4.10: Bauarbeiten in der Berliner Straße - beantwortet
+- TOP 4.11: Grundstück Wittenauer Str. 112 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Zieht das Bezirksamt Konsequenzen aus dem Termin im Verwaltungsgericht vom 10.07.2017 zum Tegeler Hafenfest? (Große Anfrage) - beantwortet
+- TOP 5.2: Missstände in Reinickendorfer Krankenhäusern (Große Anfrage) - beantwortet
+- TOP 5.2.1: Missstände in Reinickendorfer Krankenhäusern - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Ehe für alle: Ist Reinickendorf vorbereitet? (Große Anfrage) - vertagt
+- TOP 5.4: Tegeler Hafenfest (Große Anfrage) - beantwortet
+- TOP 5.5: Klimaschutz in Reinickendorf - unser Beitrag zur nachhaltigen Entwicklung? (Große Anfrage) - vertagt
+- TOP 5.6: Tetra-Pak-Gelände in Heiligensee (Große Anfrage) - vertagt
+- TOP 5.7: Informationsveranstaltung zu den Bauarbeiten in der Oranienburger Straße (Beschlussempfehlung) - vertagt
+- TOP 5.8: Unterrichtsausfall entgegenwirken (Beschlussempfehlung) - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Förderung und Verbesserung der sozialen Infrastruktur im Umfeld der neuen Flüchtlingsunterkunft im Märkischen Viertel - Ausreichende Freizeitmöglichkeiten - überwiesen
+- TOP 7.2: U 8 in das Märkische Viertel mit Haushaltsüberschüssen verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: "Berlin barrierefrei" auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2018 - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Das Märkische Viertel fit machen für den Zuzug weiterer Einwohner - vertagt
+- TOP 10.2: Endlich das Spielhallengesetz umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Erhalt der Außenstellen des Standesamtes - erledigt
+- TOP 10.4: Historische Dorfbilder in Reinickendorf von Werbe-Großflächentafeln freihalten - in der BVV abgelehnt
+- TOP 10.5: Ordnungsamt-App - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Verkehrsregelverstöße in der Siedlung "Roter Adler" verstärkt kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Kinder- und Jugendbüro einrichten! - erledigt
+- TOP 10.8: Verkehrssicherheit Bernauer Straße - überwiesen
+- TOP 10.9: Außentrauungen langfristig erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sicherheit am Wilhelmsruher Damm II - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Zusätzliche Mülleimer in der Residenzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: WBS für Geflüchtete mit anerkanntem Aufenthaltsstatus ausstellen - erledigt
+- TOP 10.13: Tag der offenen Tür bei der Feuerwehr Heinsestraße - erledigt
+- TOP 10.14: Hauptverkehrsstraßen leistungsfähig halten - überwiesen
+- TOP 10.15: Diskretionsräume Polizei - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Parkstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Tempo 30 im Wohngebiet - in der BVV abgelehnt
+- TOP 10.18: Ausweitung der Tarifzone B bei der S-Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Lichtzeichenanlage an der Otisstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: S 85 weiter in Reinickendorf fahren lassen - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Fußgängerquerung in der Quickborner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Ausbau der S25 beschleunigen I - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Verkehrsfluss an der Heiligenseestraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Verbindung zum Flughafen BER schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Vermeidung von Schuldistanz - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Kein Tempo 30 auf Hauptstraßen - vertagt
+- TOP 10.27: Sicherheit am Weg zur alten Fasanerie - erledigt
+- TOP 10.28: Sicherheit Kreuzung Stolpmünder Weg/Ruppiner Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Nutzung des Ernst-Reuter-Saals für gehörgeschädigte Menschen - erledigt
+- TOP 10.30: 2. Ein-/Ausgang S-Bahnhof Alt-Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Sanierung des Verbindungsweges von Alt-Hermsdorf zur Fließtalbrücke - erledigt
+- TOP 10.32: Spielplatzprojekt für Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 10.33: Spielplätze im Internetauftritt des Bezirksamtes ansprechender gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.34: Integrationsprojekt "Himmel und Erde" auf Sportvereine ausweiten - vertagt
+- TOP 10.35: Ansiedlung einer sozialen Mieterberatung in Reinickendorf-Ost und Reinickendorf-West für alle Reinickendorfer Bürgerinnen und Bürger - ohne Änderungen in der BVV beschlossen
+- TOP 10.36: Müllkonzept für ein sauberes Reinickendorf - vertagt
+- TOP 10.37: Fußgänger an der Provinzstraße schützen - Ampelzeiten verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 10.38: Personalmangel durch Quereinsteiger kompensieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.39: Verkehrsüberwachungssäule Waidmannsluster Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.40: Keine sachgrundlose Befristung von Arbeitsverträgen des Bezirks Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.41: Ausbau der S25 beschleunigen II - Verlängerung nach Velten - ohne Änderungen in der BVV beschlossen
+- TOP 10.42: Keine Maßnahmen Strandbad Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Änderung der Geschäftsordnung - Sondermittel - überwiesen
+- TOP 11.2: Nachwahl einer stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Beschwerdemanagement - überwiesen
+- TOP 12.2: Straßensozialarbeit mit Flüchtlingen ausweiten - überwiesen
+- TOP 12.3: Paul Löbe Schule als Inklusive Schwerpunktschule voranbringen! - überwiesen
+- TOP 12.4: Residenzstraße durch Lichtergalerie aufwerten - überwiesen
+- TOP 12.5: Mahnmal für die Gefallenen der Weltkriege sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Grundschulmesse - überwiesen
+- TOP 12.7: Die Zukunft der Schule ist (auch!) digital - 2 - überwiesen
+- TOP 12.8: Barrierefreie Übergänge schaffen - überwiesen
+- TOP 12.9: Mehr Obstbäume auf öffentlichen Grünflächen - überwiesen
+- TOP 12.10: Die Zukunft der Schule ist (auch!) digital - 1 - überwiesen
+- TOP 12.11: Neue Stühle für den BVV-Saal - überwiesen
+- TOP 12.12: Reinickendorfs Kita-Kinder lernen Schlittschuhlaufen - überwiesen
+- TOP 12.13: Erhöhung der Verkehrssicherheit an der Roedernallee - überwiesen
+- TOP 12.14: Tegeler Hafenfest maritim, fröhlich und anwohnergerecht - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Sicherheit im Märkischen Viertel - zurückgezogen
+- TOP 13.2: Reinigung im Märkischen Viertel - mit Änderungen in der BVV beschlossen
+- TOP 13.3: Lärmminderung auf Intensivstationen - überwiesen
+- TOP 13.4: Tegeler Fließ herrichten - überwiesen
+- TOP 13.5: Carsharing in Reinickendorf - überwiesen
+- TOP 13.6: Radfahrer-Ampel Scharnweberstraße - überwiesen
+- TOP 13.7: Wegweiser in den Reinickendorfer Forsten - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Verkehrssituation im Umfeld der Grundschule in den Rollbergen - überwiesen
+- TOP 13.9: Schranke an der Seidelstrasse zum Flughafensee - überwiesen
+- TOP 13.10: Bedarfsplan für ambulante Versorgung - überwiesen
