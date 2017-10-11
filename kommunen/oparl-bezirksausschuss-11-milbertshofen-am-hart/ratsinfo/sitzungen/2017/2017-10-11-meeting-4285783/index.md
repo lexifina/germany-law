@@ -1,0 +1,72 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285783
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285783
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHM BA-Antrags-Nr. 14-20/ B03627
+- TOP 4.2.1.: Unterbindung von Gaststättenlärm Antwortschreiben auf die Bürgerversammlungs-Anfrage Nr. 14-20 / Q 00428
+- TOP 4.2.2.: Lärm- und Geruchsbelästigung - neue Lackiereri der BMW Group - Bürgerversammlungs-Anfrage Nr. 14-20/ Q 00427 Antwortschreiben
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Pfarrei St. Georg Konzert am 19.11.2017 3.650,00 €
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Sozialverband VdK München, OV Milbertshofen Veranstaltung zum Volkstrauertag am 19.11.2017 275,00 €
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Initiative "Kulturelles Leben" Konzert am 22.11.2017 2.230,00 Euro
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Anfrage der Besichtigung des Projektes "Wohnen für Alle (WAL)" am Frankfurter Ring
+- TOP 7.2.2.: Aktualisierung des Nachhaltigkeitskonzepts im Masterplan FIZ Future - Aufforderung an die BMW Group
+- TOP 7.2.3.: Erweiterung des Gymnasium Nord um mindestens einen weiteren Zug und Aufnahme in das Schulbauprogramm der LHM
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Feuchtwangerstr. 4 - Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 8.2.2.: Neuplanung des Skaterparks am Brundageplatz
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20/ V 09501
+- TOP 8.4.2.: Goldmarkstraße - Ergreifen von Maßnahmen zur Verkehrsberuhigung
+- TOP 8.4.3.: Parkraummanagement in München – Fortschreibung Sektor V - Beschlussentwurf -
+- TOP 9.1: Plenum
+- TOP 9.1.1.: BürgerInnen-Information und -Beteiligung stärken Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Tüllesamtstr. 10 - Satzung über das Verbot der Zweckentfremdung von Wohnraum: Abbruchanzeige
+- TOP 9.2.2.: "Wohnen für Alle" Vorstellung des Rahmenkonzepts des Sozialreferats und Finanzierung der Standorte 2017 und 2018 Sitzungsvorlage Nr. 14-20 / V 08921
+- TOP 9.2.3.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015
+- TOP 9.2.4.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 9.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7.: Meldelisten für Bauvorhaben im 11. Stadtbezirk für den Zeitraum 28.08.2017 bis 24.09.2017
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Gesamtkonzept Münchner Altenhilfe IV Sitzungsvorlage Nr. 14-20 / V09388
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 9.4.2.: Weyprechtstraße: Barrierefreier Umbau der Haltestelle Harthof
+- TOP 9.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
