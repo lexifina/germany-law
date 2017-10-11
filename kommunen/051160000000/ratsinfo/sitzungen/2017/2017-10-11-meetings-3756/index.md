@@ -1,0 +1,60 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-10-11T17:00:00+02:00
+- Ende: 2017-10-11T22:26:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3756
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3756
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 22. Sitzung des Hauptausschusses am 28.06.2017 -öffentlicher Teil- - Niederschrift ohne Einwendung
+- TOP 2: HSP-Umsetzungsbericht 30.06.2017 - Kenntnisnahme
+- TOP 3: Dienstreise des Vorsitzenden des Integrationsrates - Einstimmiger Beschluss
+- TOP 4: Elfter Nachtrag zur Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse in der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: Wirtschaftsplan 2018 der mags - Einstimmiger Beschluss
+- TOP 6: Satzung für die Friedhöfe in der Stadt Mönchengladbach; Gebührensatzung für die Friedhöfe in der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 7: Flächenkonzept Hauptfriedhof: Schließung der Felder A 3 - A 7, A 12 - A16 und C 5 bis C 31 - In den nächsten Ratszug geschoben
+- TOP 8: Flächenkonzept Friedhof Hardt; Schließung der Felder 30 und 31 und Entwidmung der sonstigen Erweiterungsflächen - In den nächsten Ratszug geschoben
+- TOP 9: Alternative Abfallkonzepte - Kenntnisnahme
+- TOP 10: Beteiligung an der NEW Kommunalholding GmbH - Einstimmiger Beschluss
+- TOP 11: Beteiligung der NEW Kommunalholding GmbH an der NEW AG - Einstimmiger Beschluss
+- TOP 12: Beteiligung der EWMG - Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: Gründung der "Parken MG GmbH" - Einstimmiger Beschluss
+- TOP 13: Kommunalvereinbarungen zu ausbrechenden Verkehren im ÖPNV - Von Verwaltung zurückgezogen
+- TOP 14: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 15: Änderungsverordnung Ordnungsbehördliche Verordnung Offenhalten Verkaufsstellen 10. Dezember 2017 - An die BV Nord verwiesen
+- TOP 16: Verlagerung des Stadtarchivs ins Vituscenter - Einstimmiger Beschluss
+- TOP 17: Leistungsvereinbarung mit dem Verein für die Rehabilitation psychisch Kranker e.V. über die Erbringung von Leistungen im Aufgabenbereich sozialpsychiatrische Zentren - Einstimmiger Beschluss
+- TOP 18: Umsetzung des Konzeptes über die Herleitung von Mietobergrenzen für angemessene Kosten der Unterkunft in den Rechtskreisen des SGB II und des SGB XII - Einstimmiger Beschluss
+- TOP 19: Leistungsvereinbarung Café Pflaster MG RY - Einstimmiger Beschluss
+- TOP 20: Verlängerung der Leistungsvereinbarung mit der Jüdischen Gemeinde - Einstimmiger Beschluss
+- TOP 21: Abschluss einer Vereinbarung mit den Betreuungsvereinen der Arbeiterwohlfahrt- Kreisverband Möncheng - Einstimmiger Beschluss
+- TOP 22: Veränderungssperre Europaplatz - Einstimmiger Beschluss
+- TOP 23: Umbesetzung Niersverbandsversammlung - Einstimmiger Beschluss
+- TOP 24: Fortschreibung des Nahversorgungs- und Zentrenkonzeptes - Einstimmiger Beschluss
+- TOP 25: Gestaltungsrichlinie Sondernutzungen - Mit Stimmenmehrheit beschlossen
+- TOP 26: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2017 - Einstimmiger Beschluss
+- TOP 26.1: Wohnumfeldverbesserung durch bürgerschaftliches Engagement - Ohne Abstimmung
+- TOP 27: Werbeanlagensatzung Innenstadt - Mit Stimmenmehrheit beschlossen
+- TOP 28: Vorkaufsrechtssatzung Mönchengladbacher Innenstadt und Aufhebungssatzung Mönchengladbach Stadtmitte - Einstimmiger Beschluss
+- TOP 29: Zweckverband „Tagebaufolge(n)landschaft Garzweiler - Mit Stimmenmehrheit beschlossen
+- TOP 30: Zweckverband „Tagebaufolge(n)landschaft Garzweiler - An den Rat verwiesen
+- TOP 31: Erarbeitungsverfahren Regionalplan Regierungsbezirk Düsseldorf (RPD-Entwurf 2017) - Mit Stimmenmehrheit beschlossen
+- TOP 32: European Energy Award - Einstimmiger Beschluss
+- TOP 33: Zusätzliche beratende Mitglieder in Aufsichtsräten; hier: Fraktionsantrag Bündnis 90/Die Grünen vom 09.08.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Wohnmobilplatz; hier: Antrag der Ratsfraktion - Bündnis90/ Die Grünen vom 15.08.2017 - An den Rat verwiesen
+- TOP 35: Abgesicherte Finanzierung der Ewigkeitskosten des Tagebaus Garzweiler II - An den Rat verwiesen
+- TOP 36: Stromsperren in Mönchengladbach verhindern - Übernahme des "Saarbrücker 4-Punkte-Modells"; - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Weitere Unterstützung des Rollbrettunion e.V. Mönchengladbach zum Erhalt der Skatehalle - In den nächsten Ratszug geschoben
+- TOP 38: Berichtsvorlage 2563/IX "Aktuelle Flüchtlingssituation in Mönchengladbach" - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Mönchengladbach Diesel-Gipfel; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 22.09.2017 - An den Rat verwiesen
+- TOP 40: Unterirdische Wertstoff-Inseln im Stadtgebiet - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Anfragen und Mitteilungen
+- TOP 41.1: Mitteilung durch Stadtdirektor und -kämmerer Kuckels
+- TOP 41.2: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen
+- TOP 41.3: Anfrage von Ratsherrn Schultz, DIE LINKE
+- TOP 41.4: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen
