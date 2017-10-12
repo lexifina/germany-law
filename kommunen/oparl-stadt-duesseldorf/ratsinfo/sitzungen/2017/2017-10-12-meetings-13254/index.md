@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-10-12T17:00:00+02:00
+- Ende: 2017-10-12T19:37:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13254
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13254
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302192.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302192.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302192.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Vorstellung des Dezernenten für Recht, Ordnung und Wohnen - zur Kenntnis genommen
+- TOP 5: Verkehrsüberwachung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 6: Städtebaulicher Wettbewerb mit Öffentlichkeitsbeteiligung Nr. 08/010 - Königsberger Straße / Tulpenw - mehrheitlich beschlossen
+- TOP 7: Städtebauliches Workshopverfahren Nr. 08/011 - Jägerstraße / Festenbergstraße - - einstimmig beschlossen
+- TOP 8: Weihnachtsmarkt in Unterbach am 09.und 10. Dezember 2017 - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2017 - mehrheitlich beschlossen
+- TOP 11: Doppischer Produkthaushalt - mehrheitlich beschlossen
+- TOP 12: Bebauungsplanverfahren Breidenplatz - zur Kenntnis genommen
+- TOP 13: Ampelschaltung Am Zault / Millrather Weg - zur Kenntnis genommen
+- TOP 14: Ortseingangsbeschilderung am Elbsee - zur Kenntnis genommen
+- TOP 15: Gasbeleuchtung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Grundstück Vennhauser Allee 222 - zur Kenntnis genommen
+- TOP 17: Verkehrsregelung An der Schützenwiese / Tulpenweg - zur Kenntnis genommen
+- TOP 18: Spielplatz Posener Straße 128 - 132 - zur Kenntnis genommen
+- TOP 19: Fahrbahnmarkierungen Deutzer Straße - zur Kenntnis genommen
+- TOP 20: Radwegeplanung Gubener Straße - zur Kenntnis genommen
+- TOP 21: LEG - Wohnungen in Vennhausen - zur Kenntnis genommen
+- TOP 22: Dieter Forte Gesamtschule - Erneuerung der Energieversorgung, Lüftungs- und - zur Kenntnis genommen
+- TOP 23: Lehrerparkplatz Leuthenstraße 50 - zur Kenntnis genommen
+- TOP 24: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 25: Verkehrssituation Darmstädter Straße / Klein-Eller / Bernburger Straße - zur Kenntnis genommen
+- TOP 26: Auf- und Abgänge S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 27: Fahrbahnsanierung Erlenkamp - zur Kenntnis genommen
+- TOP 28: Lärmbelastung Abstellbahnhof Speyerweg / Dillenburger Weg - zur Kenntnis genommen
+- TOP 29: Fuß-/Radweg zwischen der Fußgängerunterführung Am Krahnap und Festenbergstraße - zur Kenntnis genommen
+- TOP 30: Fahrradbügel Alt-Eller / Ecke Gumbertstraße - zur Kenntnis genommen
+- TOP 31: Parkplätze und Verkehrsführung Eller Mitte - zur Kenntnis genommen
+- TOP 32: Lärmschutz im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Verkehrsregelung Karlsruher Straße / Marburger Straße - zur Kenntnis genommen
+- TOP 34: Bezirkssportanlage Vennhauser Allee 129 - zur Kenntnis genommen
+- TOP 35: Verkehrsüberwachung im Stadtbezirk 8 - zur Kenntnis genommen
