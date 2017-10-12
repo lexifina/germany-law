@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-12T16:00:00+02:00
+- Ende: 2017-10-12T19:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16943
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16943
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00632600.pdf
+- Ergebnisprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00632600.pdf
+- Wortprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00632600.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Antrag der Fraktion Die Linke.Köln auf Durchführung einer aktuellen Stunde betreffend NO2-Grenzwerte einhalten! – Was bedeuten die Ergebnisse des Dieselgipfels für Köln? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: zu C Luftreinhaltung - Sachstand zum Runden Tisch - Kenntnis genommen
+- TOP -: D Vorstellung der Vertreterinnen und Vertreter der Gemeinde Yarinacocha, Kölns Klimapartnerstadt in Peru
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion Sachstand der Umsetzung des Toilettenkonzepts Köln - Sache ist erledigt
+- TOP 1.1.1: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 1.2: Entwicklung des Grünflächenamtes und der Grünflächen - Sache ist erledigt
+- TOP 1.2.1: Anfrage der Fraktion Die Linke in der Sitzung des Ausschusses Umwelt und Grün - Kenntnis genommen
+- TOP 1.3: Anfrage der FDP-Fraktion Nutzung von Landstrom in den Kölner Häfen - zurückgestellt
+- TOP 1.4: Ergebnisse des zweiten „Dieselgipfels“ in Berlin; Konsequenzen und Maßnahmen für Köln - Kenntnis genommen
+- TOP 1.4.1: Antwort der Verwaltung vom 06.10.2017 - Kenntnis genommen
+- TOP 1.5: Kölner Vorgärten - zurückgestellt
+- TOP 1.6: Hohe Folgekosten bei Kunstrasenplätzen - zurückgestellt
+- TOP 1.7: Anfrage der SPD-Fraktion Betrieb städtischer Gebäude im Passivhaus-Standard - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion Überarbeitung des Pflege- und Entwicklungsplans für das Naturschutzgebiet "Flittarder Rheinauen" - zurückgestellt
+- TOP 2.1.1: Stellungnahme der Verwaltung vom 06.10.2017 - zurückgestellt
+- TOP 2.2: Antrag der Fraktion Die Linke Wildes Parken im Grüngürtel - geändert beschlossen
+- TOP 2.3: Antrag der Gruppe Piraten Belastung der Atemluft - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Bürgereingabe betreffs Förderung der Elektromobilität am Pilotstandort Ottmar-Pohl-Platz - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - ungeändert empfohlen
+- TOP 4.2: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - ungeändert empfohlen
+- TOP 4.3: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Lindenthal - ungeändert beschlossen
+- TOP 4.3.1: Beantwortung der Frage von RM Frank in der Sitzung des Finanzausschusses am 25.09.2017 - Kenntnis genommen
+- TOP 4.4: Altlastensanierung der Sportanlage Humboldtstraße in Köln-Porz - ungeändert beschlossen
+- TOP 4.5: Lärmaktionsplanung nach EU-Umgebungslärmrichtlinie bzw. § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung und abschließender Beschluss zur Stufe 2 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - zurückgestellt
+- TOP 4.7: Energieleitlinien Stadt Köln 2017 - Anpassung der bestehenden Energieleitlinien an geänderte gesetzliche Rahmenbedingungen - ungeändert empfohlen
+- TOP 4.7.1: Energieleitlinien Stadt Köln 2017 Änderungsantrag der SPD-Fraktion - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.8: Kleingartenanlage Klettenberg e.V. - ungeändert empfohlen
+- TOP 4.9: Umweltbildungszentrum auf Gut Leidenhausen - ungeändert empfohlen
+- TOP 4.10: Stadtentwässerungsbetriebe Köln, AöR - ungeändert empfohlen
+- TOP 4.11: Stadtentwässerungsbetriebe Köln, AöR (StEB); Abwassergebührensatzung 2018 - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Rheinboulevard Kiosk - Kenntnis genommen
+- TOP 7.2: Sachstandsbericht zum Neubau des Schaugewächshauses und der Orangerie im Botanischen Garten - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Braunkohlegranulat-Wirbelschichtfeuerung des Heizkraftwerkes (HKW) der RheinEnergie in Köln-Merkenich - Kenntnis genommen
+- TOP 8.2: Mitteilung der Fachausschüsse und Bezirksvertretungen über die Einbindung der externen Unterstützung bei den Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
