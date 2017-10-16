@@ -1,0 +1,7 @@
+# TOP 6: Anfragen der Ausschussmitglieder
+
+- Sitzung: Sitzung des Haushalts- und Finanzausschusses (2017-10-16)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a73017af24bb7ed5127ed3d
+- Ergebnis: (offen)
