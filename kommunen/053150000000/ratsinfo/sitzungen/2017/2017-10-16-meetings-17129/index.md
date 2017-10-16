@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-16T17:00:00+02:00
+- Ende: 2017-10-16T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17129
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17129
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Gefahrenstellen auf Bürgersteigen in Köln-Zollstock", (Az.: 02-1600-52/17) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung des Fördervereins der Gemeinschaftshauptschule Ringelnatzstr. 10 - 12 - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Generalsanierung Sporthalle Süd - Kenntnis genommen
+- TOP 7.1.2: Anfrage der FDP-Fraktion in der BV 2 - Kenntnis genommen
+- TOP 7.1.3: Wohnraumzweckentfremdung durch Wohnungsvermittlungsportale - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nutzung des brachliegenden Grundstücks am Südverteiler in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Flüchtlingsunterkunft Kalscheurer Weg, Köln-Zollstock - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Pflege eines Waldrandstreifens südlich der Stadtbahnhaltestelle Michaelshoven - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Durchfahrtsverbot für LKW ab 30to auf der L300 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Ausbau Neuer Weyerstraßerweg in Köln-Zollstock - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Pflege und Bewässerung der Bäume am Maternusplatz in Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Hinweistafeln Schulen in der Grüngürtelstraße, Köln-Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Lebensmittel-Verbrauchermarkt im Sonderstandort Köln-Godorf - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Aufwertung der Umgebung des Kreisverkehres Maternusstraße/Babara-Straße/Hauptstraße in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 8.1.2: Verkehrsberuhigung Barbarastraße in Rodenkirchen - zurückgestellt
+- TOP 8.1.3: Erhalt historischer Häuser in Raderberg. - endgültig abgelehnt
+- TOP 8.1.4: B9 / L300 Einmündung Unter Buschweg - zurückgestellt
+- TOP 8.1.5: Bürgerzentrum im Stadtbezirk Rodenkirchen; Antrag der SPD Fraktion - geändert beschlossen
+- TOP 8.1.6: Raderthalgürtel in Zollstock, 1. Änderung B-Plan 67419/08 – Erhalt von großwüchsigen Bäumen - zurückgestellt
+- TOP 8.1.6.1: Raderthalgürtel (neu) in Köln-Zollstock, 1. Änderung B-Plan 67419/08 - Erhalt von alten Bäumen; Antrag der Fraktion DIE GRÜNEN - Kenntnis genommen
+- TOP 8.1.7: Bahnhofsvorplatz in Köln Sürth - geändert beschlossen
+- TOP 8.1.8: Zebrastreifen in der Emil Hoffman Straße in Höhe der Bushaltestelle - ungeändert beschlossen
+- TOP 8.1.9: Fritz-Encke-Volkspark: Historische Wegeverbindungen wiederherstellen - ungeändert beschlossen
+- TOP 8.1.10: Auffrischen der Fahrradpiktogramme - endgültig abgelehnt
+- TOP 8.1.11: Parksituation in der Straße Am Kölnberg in Köln-Meschenich - geändert beschlossen
+- TOP 8.1.11.1: Ersetzungsantrag zu TOP 8.1.11, Parksituation in der Straße Am Kölnberg in Köln-Meschenich - SPD Fraktion - ungeändert beschlossen
+- TOP 8.1.12: Sitzen statt Parken - ungeändert beschlossen
+- TOP 8.1.13: Information über Bauvorhaben verbessern - ungeändert beschlossen
+- TOP 8.1.14: Sachstand zu Alternativen Planungen für die 3. Baustufe der Nord-Süd-Stadbahn. - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.2: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Neubau einer Lärmschutzwand Josef-Kallscheuer-Straße in Köln-Sürth - geändert beschlossen
+- TOP 9.1.3: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Rodenkirchen) ab dem Jahr 2017 ff. - zurückgestellt
+- TOP 9.1.4: Ginkgo-Bäume in der Ulmenallee - geändert beschlossen
+- TOP 9.1.5: Aufhebung der Klassifizierung der K28 Sürther Straße und der K30 Am Feldrain, Hammerschmidtstraße und Weißer Straße in Köln Rodenkirchen /Sürth - verwiesen in nachfolgende Gremien
+- TOP 9.1.6: Änderung der Fußgängerquerungsinsel Hauptstraße/Oststraße in Rodenkirchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - ungeändert beschlossen
+- TOP 9.2.2: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - zurückgestellt
+- TOP 9.2.2.1: Ergänzungsbeschluß zur Vorlage 2720/2017 Modernisierung + Sanierung Sportfreianlagen; Antrag der FDP Fraktion - zurückgestellt
+- TOP 9.2.3: Satzung über die abweichende Herstellung der Erschließungsanlage Vorgebirgstraße von Zollstockgürtel/Raderthalgürtel bis Höniger Platz in Köln-Zollstock - ungeändert beschlossen
+- TOP 9.2.4: Satzung über die abweichende Herstellung der Erschließungsanlage Weidengasse von Pflasterhofweg bis Weidengasse 46 einschließlich in Köln-Weiß - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 10.2.2: Information zu vorgesehenen Zügigkeitserweiterungen der Brüder-Grimm-Schule, GGS Sürther Hauptstraße in Köln-Sürth und der Albert-Schweitzer-Schule, GGS Zum Hedelsberg in Köln-Weiß - Kenntnis genommen
+- TOP 10.2.3: Weitere Entwicklung des Baugebietes Sürther Feld in Rodenkirchen Hier: III. Bauabschnitt - Kenntnis genommen
+- TOP 10.2.4: Wettbewerb Zukunft Wohnen - Weiterentwicklung von Bestandssiedlungen in Köln - Kenntnis genommen
