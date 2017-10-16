@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2017-10-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262450
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262450
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Linienführung der Buslinie 51; Ergebnisse des Ortstermins am 09.10.2017
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Hanauer Str. 69 2. Netzerstr. 47
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Hanauer Str. 14b 2. Georg-Brauchle-Ring 3. Umlegung Fernwärme Hanauer Straße
+- TOP 4.: Anträge
+- TOP 4.1.1.: Radweg Gartenanlage NW 12 / NW 19
+- TOP 4.1.2.: Absperrung zur Terrasse der Meile Moosach
+- TOP 4.1.3.: Sparkassenfiliale Hartmannshofen als SB-Filiale weiterführen
+- TOP 4.3.1.: Benennung Radweg östlich der Olympia Pressestadt zwischen Borstei und Bahn-Nordring - nicht-öffentlich -
+- TOP 4.4.1.: Vorfahrtsbeschilderung an der Kreuzung Bingener Straße / Triebstraße
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Initiative "Wilderer" Konzertabende zum Thema "Wilderer" ab 20.10.2017 300,00 Euro
+- TOP 6.1.: Änderung der Bezirksausschuss-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen
+- TOP 6.2.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.3.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20/ V 09501
+- TOP 6.4.: Erweiterung des Verwaltungsgebäude und Werkstatt am Georg-Brauchle-Ring 29
+- TOP 6.5.: Veranstaltung in einer städtischen Grünanlage: Skatepark an der Triebstraße Skatebordkurse in den Herbstferien am 04. und 05.11.2017
+- TOP 6.6.: Baumfällungen (Baumschutz): 1. Dillinger Str. 12 2. Lauinger Str. 31 3. Untermenzinger Str. 64 4. Lauinger Str. 56 5. Naumburger Str. 38
+- TOP 6.7.: "München - gesund vor Ort"; Umsetzung des Gesetzes zur Gesundheitsförderung und Prävention; Kooperationsvereinbarung mit der AOK Bayern - nicht-öffentlich -
+- TOP 7.1.: Machbarkeitsstudie "Kultursaal Moosach" [Schreiben BA 10 vom 27.07.2017; Antrag auf Fördermittel aus Städtebauförderung "Soziale Stadt" wird gerade vom Planungsreferat bei der Regierung von Oberbayern (ROB) gestellt].
+- TOP 7.2.: Andernacher Str. 1 bis 7; Aufstockung von Wohngebäuden, Nachverdichtung und Neubau von Tiefgaragen [Bürgerbeschwerde; Schreiben des BA 10 vvom 26.06.2017; Zusicherung von Interessenabwägung und Rücksichtnahmegebot Antragsteller, Städtebau und Nachbarn]
+- TOP 7.3.: Schulzentrum Gerastr. 6; Beschwerde über Müllplatz [es gibt keinen Alternativstandort; Sonderleerungen sind bei Bedarf möglich]
+- TOP 7.4.: Schulzentrum Gerastr. 6; Verbleib der Schulpavillions nach Umbauphase [Schreiben BA 10 vom 25.07.2017; Fertigstellung weiterer 2 Schulneubauten erst ab 2021; Vorläuferklassen müssen im Schulzentrum beschult werden].
+- TOP 7.5.: KFZ-Prüfstelle Feldmochinger Str. 94; Immissionen [Schreiben BA 10 vom 24.06.16; seit Juli 2016 werden lärmintensive Abgasuntersuchungen nur noch bei geschlossenem Hallentor durchgeführt].
+- TOP 7.6.: Heckenrückschnitt entlang Bahngleis an der Jakob-Hagenbucher-Straße [Schreiben BA 10 vom 26.07.2017; DB bestätigt am 06.09.2017 den erfolgten Rückschnitt].
+- TOP 7.7.: Projekt Melitta-Bentz-Straße; Verlängerung der Ambossstraße
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen; Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
+- TOP 8.3.: Beibehaltung des har-Niemayer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse
+- TOP 8.4.: Projekt Melitta-Bentz-Straße; Verlängerung der Ambossstraße
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Bingener Straße Einrichtung eines Haltverbotes mit Zusatz "Feuerwehranfahrtszone"
+- TOP 8.6.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"; Bürgerbeteiligung in den Stadtvierteln
+- TOP 8.7.: Baumaßnahme Strom-Projekt Riesstraße
+- TOP 8.8.: Baumaßnahmen der SWM - 2. Halbjahr 2017
+- TOP 8.9.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2018
+- TOP 8.10.: Billigungs- und vorbehaltlicher Satzungsbeschluss: Bebauungsplan mit Grünordnung Nr. 2087b; Georg-Brauchle-Ring... (Sitzungsvorlage Nr. 14-20 / V 09002)
+- TOP 8.11.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 8.12.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 8.13.: (U) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 26.07.2006 (Sozialgerechte Bodennutzung) und 27.06.2012 (Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht) A. Novellierung der Sozialgerechten Bodennutzung (SoBoN) und Neufassung / Anpassung der Verfahrensgrundsätze zur Sozialgerechten Bodennutzung vom 26.07.2006 B. Anträge
+- TOP 8.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.16.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 8.17.: (U) "Wohnen für Alle" Vorstellung des Rahmenkonzepts des Sozialreferats und Finanzierung der Standorte 2017 und 2018 Produkt 60 4.1.8 Schaffung preiswerten Wohnraums Produkt 60 6.2.3 Betreuung von jungen und unbegleiteten heranwachsenden Flüchtlingen Soziale Hausverwaltung - Wohnen für Alle Antrag Nr. 14-20 / B 02676 ............................ Kochen mit Flüchtlingen - Hilfe, die schmeckt Antrag Nr. 14-20 / A 02429 ..........................
+- TOP 8.18.: Mitteilung über ein Grundstücksgeschäft; Verkauf von Flächen - nicht-öffentlich -
+- TOP 8.19.: Zweckentfremdung von Wohnraum durch Abbruch: Görlitzer Str. -nicht-öffentlich -
