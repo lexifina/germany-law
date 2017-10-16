@@ -1,0 +1,66 @@
+# 26. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-16T16:00:00+02:00
+- Ende: 2017-10-16T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17137
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17137
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00633186.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00633186.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00633186.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Unterbindung des Parkens auf Grünflächen im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.1.2: Umleitung Widdersdorfer Straße - Kenntnis genommen
+- TOP 7.1.3: Planungsverzögerung des Projekts "Parkstadt Süd" durch Proteste des Autonomen Zentrums - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Dürener Straße - Kenntnis genommen
+- TOP 7.2.2: Revitalisierung Frechener Bach - Kenntnis genommen
+- TOP 7.2.3: Fahrradständer Hermeskeiler Platz - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Tempolimit auf der Neuenhöfer Allee - geändert beschlossen
+- TOP 8.1.2: Baumfällung am Grundstück Heidstamm 81 - endgültig zurückgezogen
+- TOP 8.1.3: Prüfantrag zur Anbringung von Spiegeln an Ampeln - endgültig zurückgezogen
+- TOP 8.1.4: Aufhebung Sperrung Zülpicher Straße - zurückgestellt
+- TOP 8.1.5: Einrichtung von Sperrflächen - geändert beschlossen
+- TOP 8.1.6: Kreisverkehr Gottesweg/Rhöndorfer Straße - ungeändert beschlossen
+- TOP 8.1.7: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.8: Dringlichkeitsantrag Schillergymnasium - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Kleingartenanlage Klettenberg e.V. - ungeändert beschlossen
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Gestaltungshandbuch der Stadt Köln - geändert beschlossen
+- TOP 9.2.2: Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld; VEP: Einleitungsbeschluss - geändert beschlossen
+- TOP 9.2.3: Gesamtverkehrskonzept Köln, 8. Änderung - ungeändert beschlossen
+- TOP 9.2.4: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - geändert beschlossen
+- TOP 9.2.5: "Erinnerungsorte Kinderheime Köln-Sülz"; Schenkungsannahme - ungeändert beschlossen
+- TOP 9.2.6: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Aktueller Sachstand zur Realisierung einer Gesamtschule am Standort der Elsa-Brändström-Realschule, Berrenrather Straße in Sülz - Kenntnis genommen
+- TOP 11.3.2: Varianten für eine Querung der Luxemburger Straße an der Haltestelle Eifelwall - Kenntnis genommen
+- TOP 11.3.3: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 11.3.4: Wettbewerb Zukunft Wohnen - Weiterentwicklung von Bestandssiedlungen in Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
