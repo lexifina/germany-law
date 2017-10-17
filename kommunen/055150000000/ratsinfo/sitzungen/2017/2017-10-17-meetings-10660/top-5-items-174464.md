@@ -1,0 +1,7 @@
+# TOP 5: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck
+
+- Sitzung: Sitzung (2017-10-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/174464
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/63576
