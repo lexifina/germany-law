@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-10-17T17:00:00+02:00
+- Ende: 2017-10-17T18:05:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13177
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13177
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift BV5-Sitzung vom 12.09.2017 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302331.pdf
+- Ergebnisprotokoll: Niederschrift BV5-Sitzung vom 12.09.2017 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302331.pdf
+- Wortprotokoll: Niederschrift BV5-Sitzung vom 12.09.2017 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302331.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 12.09.2017 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2017 - einstimmig beschlossen
+- TOP 5: Wiederherstellung der Grünanlage Mahnmalachse, nicht denkmalgeschützt - einstimmig beschlossen
+- TOP 6: Sitzungstermine der Bezirksvertretung 5 im Jahr 2018 - einstimmig beschlossen
+- TOP 7: Perspektiven für den Hannes-Esser-Platz in Einbrungen - beantwortet
+- TOP 8: Kinderspielplatz Wacholderweg/Goldregenweg/Eichenbruch - Sanierung/Abriss der Bunkerwand - beantwortet
+- TOP 9: Ampelschaltung Kaiserswerther Straße/ Stockumer Kirchstraße/ Am Hain - beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Grünpflege im Stadtbezirk 5 - beantwortet
+- TOP 12: Umbaumaßnahme Feuerwehr Kaiserswerth - beantwortet
+- TOP 13: Schallschutzwand Eichenbruch/Goldregenweg - beantwortet
+- TOP 14: Errichtung eines Wendehammers vor der Grundschule Farnweg
+- TOP 15: Geruch im Toilettenbereich Grundschule Fliednerstraße
+- TOP 16: Sanierung und Erweiterung OGS-Bereich Franz-Vaahsen-Grundschule
+- TOP 17: Fugängerüberweg vor Kindertagesstätte Heinrich-Holtschneider-Weg 20
+- TOP 18: Perspektiven für die Offene Ganztagsschule im Stadtbezirk 5 - beantwortet
+- TOP 19: Absenkung des Kalkweges in Angermund
+- TOP 20: Denkmalbereichssatzung - Graf-Engelbert-Straße
+- TOP 21: Änderungen Geschwindigkeitsbegrenzungen in Angermund
+- TOP 22: Verkehrssicherheit auf dem Zeppenheimer Weg
+- TOP 23: Aufstellung eines öffentlichen Bücherschranks in Kaiserswerth - abweichend beschlossen
+- TOP 24: Erhöhung der Sicherheit auf dem Rheinweg - einstimmig beschlossen
+- TOP 25: Sanierung eines Teilstücks des Heiligenweges in Lohausen - einstimmig beschlossen
+- TOP 26: Carl-Sonnenschein-Straße - Parkscheibenregelung - einstimmig beschlossen
+- TOP 27: Optimierung des Entwässerungsprovisoriums am Freiheitshagen - abweichend beschlossen
+- TOP 28: Stellungnahmen 17.10.2017 - zur Kenntnis genommen
+- TOP 29: Haushaltsberatung** - mehrheitlich beschlossen
+- TOP 29.1: Ergänzungsantrag Haushaltsansätze 2018 - Stadtteile stärken - mehrheitlich beschlossen
+- TOP 29.2: Ergänzungsantrag Haushaltsansätze 2018 - Zaun Kaiserpfalz - mehrheitlich beschlossen
+- TOP 29.3: Ergänzungsantrag Haushaltsansätze 2018 - Deichweg Anker - mehrheitlich beschlossen
+- TOP 29.4: Ergänzungsantrag Haushaltsansätze 2018 - Deichweg Anleger - mehrheitlich beschlossen
+- TOP 30: Verschiedenes - zur Kenntnis genommen
