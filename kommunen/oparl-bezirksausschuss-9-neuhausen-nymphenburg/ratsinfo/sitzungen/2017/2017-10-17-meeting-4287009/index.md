@@ -1,0 +1,140 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4287009
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4287009
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Freischankfläche in der Wendl-Dietrich-Straße 11
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Verlegung des Radweges an der Dachauer Straße zwischen Funkerstraße und Lazarettstraße
+- TOP 3.2.2.: Verbesserung des Kreuzungsbereiches Leonrodplatz für den Fuß- und Radverkehr
+- TOP 3.2.3.: Fuß- und Radverkehr an der Kreuzung Dachauer-/ Heideckstraße
+- TOP 3.2.4.: Separate Fahrradampel für die Kreuzungen Heideckstraße und Hedwig-Dransfeld-Allee in der Dachauer Straße
+- TOP 3.2.5.: Fahrbelagsanierung am Übergang Hohenlohestraße zur Dachauer Straße
+- TOP 3.2.6.: Zweispuriger Übergang der Dachauer Straße entlang der Westseite der Landshuter Allee
+- TOP 3.2.7.: Radverkehrsführung Dachauer Straße in Höhe Postillonstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20/ V 09501
+- TOP 3.3.2.: Fahrradstraßenpilotroute Nymphenburg-Petuelring; Teilprojekt Menzinger Straße bis Dachauer Straße
+- TOP 3.3.3.: Nymphenburger Straße - Radwegsanierung zwischen Lachnerstraße und Rotkreuzplatz
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Resolution zur Baustelle 2. Stammstrecke in Nymphenburg Süd
+- TOP 3.4.2.: Verkehrssicherheitsaktion - Abbiegesituationen Donnersbergerbrücke
+- TOP 3.4.3.: Bolivarstraße / Ecke Lachmannstraße: Parkmissstände behindern und gefährden Verkehrsteilnehmer_innen
+- TOP 3.4.4.: Vormerkung zum Ortstermin an der Wilhelm-Hale-Straße
+- TOP 3.4.5.: Einschränkungen für den fließenden Verkehr durch die Parksituation im Bereich Schloßschmidstraße / Eisnergutbogen
+- TOP 3.4.6.: Fahrradständer an der Unterführung Friedenheimer Brücke
+- TOP 3.4.7.: Radwegverlauf Wotanstraße / Gaßnerstraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen - Lothstraße - Friedenheimer Brücke - Walhallastraße - Neustätterstr. - Wilhelm-Hale-Straße - Leonrodstraße
+- TOP 3.5.2.: Errichtung einer Toilettenanlage an der S-Bahn-Haltestelle Donnersbergerbrücke
+- TOP 3.5.3.: Parksituation im Arnulfpark
+- TOP 3.5.4.: Verkehrskonzept Jugendherberge Neuhausen
+- TOP 3.5.5.: Machbarkeitsstudie Landshuter Allee Tunnel
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Erbbaurechtsvergabe einer städtischen Immobilie im Kreativquartier
+- TOP 4.3.2.: Dall&#039;Armistraße 30 - Neubau eines Mehrfamilienhauses mit TG
+- TOP 4.3.3.: Palestrinastraße 10 - Neubau eines Mehrfamilienhauses mit TG
+- TOP 4.3.4.: Wotanstraße 82 - Anbau an ein Mehrfamilienhaus mit Erweiterung der nördl. Wohneinheiten, Schließen der Baulücke zur Wotanstr. 84 durch gemeinsames Überbauen der Hofzufahrten
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Postillonstraße 3 - Neubau einer Wohnanlage mit Tiefgarage und Kindertagesstätte
+- TOP 4.4.2.: Reduzierung der Spielhallen- und Wettbürodichte in Städten und Stadtbezirken
+- TOP 4.4.3.: Dachsanierung Rudolf-Diesel-Realschule
+- TOP 4.4.4.: Parkplätze Theaterzelt "Das Schloss"
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: BIOTOPIA Naturkundemuseum Bayern
+- TOP 4.5.2.: Konzeption für die Gestaltung der Platzfläche vor dem neuen Justizzentrum am Leonrodplatz
+- TOP 4.5.3.: Schließung der Postfiliale Renatastraße 20a
+- TOP 4.5.4.: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 4.5.5.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 4.5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.8.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Errichtung eines Zaunes am Bahndamm "An der Schlossmauer"
+- TOP 5.2.2.: Müllproblematik am Durchgang zum Tollwoodgelände
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Baumfällungsanträge - Romanstr. 92 - Ruffinistr. 33 - Ruffinistr. 9 - Postillonstr. 3 - Rüthlingstr. 3 - Laimer Str. 42 - Bandelstr. 4 - Gerner Str. 27 - Magdalenenstr. 12
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (E) Wiedereinrichtung einer Schadstoffmessstelle am Romanplatz Empfehlung Nr. 14-20 / E 01329 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 17.11.2016
+- TOP 5.5.2.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 5.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.4.: Hubschrauberlandeplatz In den Kirschen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse BIKU e.V. Projekt "Applaus" am 05.11.2017 2.055,00 Euro
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Alternativnutzung für die Wotanstraße 88 als städtisches Verwaltungsgebäude - Prüfung auf Standort für Bürgerbüro des 9. Stadtbezirkes
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Wasserspielplatz im Hirschgarten
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Umbau des Bürogebäudes Wotanstraße 88 in ein Flexi-Heim für anerkannte Flüchtlingsfamilien und wohnungslose Familien in kommunaler Zuständigkeit; Finanzierung der Einrichtungsführung; Trägerschaftsauswahlverfahren - Vorlagen-Nr. 14-20 / V 09529
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Queer Culture e.V. QFFM/2. Queer Film Festival München vom 12. - 15.10.2017 2.000,00 Euro
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Magdalena München GbR Projekt "Unsichtbare Orte" vom 29.01. - 29.04.2018 1.500,00 Euro
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Tanztendenz München e.V. Choreografenatelier 2017 vom 17.11. bis 26.11.2017 4.000,00 €
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Gestaltung der Unterführung Hübnerstraße
+- TOP 7.2.2.: Projekt offene Bücherschränke in München
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Geschichtswerkstatt Neuhausen e.V.: Erklärungsschilder für Straßennamen
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: AK Kulturgespräch am 26.09.2017 / Präsentation Laborgespräch Kreativquartier
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Kindergarten in der Mustersiedlung e.V. Anschaffung und Aufbau eines neuen Spielturms
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Machbarkeitsstudie Schwimmhalle der Samule-Heinicke-Realschule
+- TOP 8.4.2.: Schulcampus Albrechtstraße
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Kita-Konferenz des BA am 28.11. - Aula Grundschule Margarethe-Danzi-Str. Beschluss über professionelle Moderation
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Verfrühter Beginn des Weihnachtsmarktes am Rotkreuzplatz
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Weihnachtsmarkt Rotkreuzplatz Südseite vom 27.11. - 23.12.2017
+- TOP 9.3.2.: Weihnachtsmarkt Rotkreuzplatz Südseite vom 27.11. - 23.12.2017
+- TOP 9.3.3.: Skateboardkurs RBS Sportamt im Skatepark Grünanlage Hirschgarten am 30.10. und 01.11.2017
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Bericht der PI zur Sicherheitswacht
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: BürgerInnen-Information und -Beteiligung stärken Internetseiten des Bezirksausschusses der "Internet-Gegenwart" anpassen Arbeit des Internetbeauftragten oder der -Beauftragten entsprechend honorieren
+- TOP 9.5.2.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHM BA-Antrags-Nr. 14-20/ B03627
+- TOP 9.5.3.: Unterrichtung über Gaststättenfortführungen: - Milos, Donnersbergerstr. 30 - Uncle&#039;s Cafe, Wendl-Dietrich-Straße 5 - Pappasitos, Erika-Mann-Straße 60
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
