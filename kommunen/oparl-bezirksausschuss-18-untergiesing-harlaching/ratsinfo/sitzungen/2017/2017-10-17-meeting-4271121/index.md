@@ -1,0 +1,139 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4271121
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4271121
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.2.: Hellabrunner Straße 1, Abgrabung für die Altsanierung und Kampfmittelnachsuche (ehem. OSRAM-Gelände)
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Nutzung des Anwesens Schilcherweg 8; Antrag aus der Einwohnerversammlung vom 13.09.17
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Aufzug an geeigneter Stelle der Hangkante; Antrag der Fraktion Bündnis`90/Die Grünen vom 04.08.17
+- TOP 3.2.3.2.: Schaffung eines Fußgängerüberweges in der Gerhard-/ Hans-Mielich-Straße vertagt vom 19.09.17
+- TOP 3.2.3.3.: Regengeschützte Farradabstellräume ua. in städtischen Wohnanlagen vertagt vom 19.09.17
+- TOP 3.2.3.4.: MVG Räder mit Elektromotor zur Förderung der Elektromobilität vertagt vom 19.09.17
+- TOP 3.2.3.5.: Legalisierung des Gehbahnparkens im Bereich Agilolfingerstraße; Antrag der CSU-Fraktion
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20 / V 09501 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 25.10.2017 (VB)
+- TOP 3.2.4.2.: Öffnung der Einbahnstraße "Am Staudengarten" für den gegenläufigen Radverkehr
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Missstand bei der Ausgestaltung der Tram-Station Menterschwaige
+- TOP 3.2.5.2.: Erhöhung der Verkehrssicherheit an der Bushaltestelle Ludmillastraße
+- TOP 3.2.5.3.: Instandsetzung des Fahrrad- und Rollstuhlwegs an der Hangkante zwischen Trainingsgelände TSV 1860 und Harlachinger Quellbach
+- TOP 3.2.5.4.: Ausbau der U-Bahn Linie U 1
+- TOP 3.2.5.5.: Reduzierung der Belastung durch Schadstoffe auf dem Mittleren Ring zwischen Brudermühlbrücke und A 995
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Baumaßnahmen HS Candidplatz
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Neupflanzung Schlehdorfer Straße
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Elektrorikschas für Ausflüge mit mobilitätseingeschränkten Personen vertagt vom 19.09.17
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 14-20 / V 16 Anlagen Beschluss des Bildungsausschusses des Stadtrates vom 29.11.2017 (SB) Öffentliche Sitzung
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Erweiterung einer bestehenden Freischankfläche der Miasan GmbH
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen; Anhörung durch das Direktorium vom 02.10.17 zum Antrag der ÖDP vom 21.06.17
+- TOP 3.5.4.1.1.: Achleitnerstraße Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Erbpachtgrundstücke im 18. Stadtbezirk Untergiesing-Harlaching
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: GEWOFAG Schimmel: BV-Empfehlung Nr. 14-20 / E 01316
+- TOP 3.5.6.2.: Schönchenstr. 21, Neubau eines Einfamilienhauses mit 2 Garagen
+- TOP 3.5.6.3.: Klausener Platz 8, Genehmigung der Zweckentfremdung
+- TOP 3.5.6.4.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 3.5.6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.7.: (U) Parkhaus am Tierpark Hellabrunn a) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2125 Harlachinger Berg (östlich), Siebenbrunner Straße (östlich), Harlachinger Straße (westlich), Karolingerallee (nördlich) (Aufhebung gemäß § 173 Abs. 3 Bundesbaugesetz (BBauG) übergeleiteter einfacher Bebauungspläne) - Parkhaus Tierpark Hellabrunn- - Aufstellungsbeschluss - b) Aufhebung des Aufstellungsbeschlusses für den Bebauungsplan Nr. 641 vom 11.03.1970 c) Antrag und Empfehlungen Antrag der Stadtratsfraktion DIE GRÜNEN/RL: Besucherrekorde ohne Verkehrszunahme – den Tierpark Hellabrunn besser anbinden Antrag Nr. 08-14 / A 03751 der Stadtratsfraktion DIE GRÜNEN/RL vom 23.10.2012 Empfehlungen der Bürgerversammlung des Stadtbezirkes Untergiesing-Harlaching: - Verkehrssituation am Tierpark Hellabrunn Empfehlung Nr. 08-14 / E 01558 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 08.11.2012 - Verkehrssituation am Tierpark Hellabrunn Empfehlung Nr. 08-14 / E 01559 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 08.11.2012
+- TOP 3.5.6.8.: Laufzorner- / St.-Magnus-Str. Neubau eines Dreigespänners mit TG-Zufahrt und -fahrgasse zu Stellplätzen im KG dieser Häuser
+- TOP 3.5.6.9.: BA-Listen vom 04.09. - 24.09.17
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Kulturtage Untergiesing-Harlaching
+- TOP 3.6.7: Sonstiges
+- TOP 4.5.1.: Beibehaltung des Hare-Niemeyer-Verfahrens bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München
+- TOP 4.5.2.: BürgerInnen-Information und –Beteiligung stärken-Internetseiten des Bezirksausschusses der „Internet-Gegenwart“ anpassen - Arbeit des Internetbeauftragten oder der –Beauftragten entsprechend honorieren
+- TOP 4.5.3.: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen; BA-Informationsschreiben Nr. 01/17 des Direktoriums vom 29.09.17
