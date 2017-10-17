@@ -1,0 +1,51 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4475869
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4475869
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Baumsituation Geroltstraße
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: 18.jetzt - Fest junger Erwachsener
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Fortschreibung Schulentwicklungsplanung
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Abschlussbericht "Wiesn 2017"
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Begrünung Bergmannstraße
+- TOP 8.3.2.: Geroltstraße; Einrichtung eines Verkehrshelferüberganges
+- TOP 8.3.3.: Filmaufnahmen Gollierplatz und Umgebung
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Sarré Musikprojekte gGmbH Aufführungen "Zauberflöte für Familien" in der Alten Kongresshalle vom 21.12.2017 bis 23.12.2017 3.280,00 € AZ: 0262.0-8-0132
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Vamuki e.V. St.-Martin-Feier und Umzug mit Pferd und Musik am 11.11.2017 405,00 € AZ: 0262.0-8-0133
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Satzungsänderung - Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der LHSt. München
+- TOP 11.2.: Satzungsänderung - Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen
