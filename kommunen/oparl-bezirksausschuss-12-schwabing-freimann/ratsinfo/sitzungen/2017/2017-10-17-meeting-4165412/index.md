@@ -1,0 +1,125 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4165412
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4165412
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Ausstellung der Wettbewerbsarbeiten für die Schulen Bayernkaserne nach Freimann
+- TOP 7.1.: BürgerInnen-Information und –Beteiligung stärken-Internetseiten des Bezirksausschusses der „Internet-Gegenwart“ anpassen - Arbeit des Internetbeauftragten oder der –Beauftragten entsprechend honorieren
+- TOP 7.2.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Bänke auf der Leopoldstraße auf Höhe Haus Nummer 12 südwärts erneuern
+- TOP 1.2.: Litfaßsäule Leopoldstraße Ecke Herzogstraße Süd entfernen
+- TOP 1.3.: Neue Werbeanlagen am U-Bahnhof Münchner Freiheit
+- TOP 1.4.: Keine weiteren, sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs und Wartebereichen des ÖPNV
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Grusonstraße 14, Neubau eines Doppelhauses mit Garagen
+- TOP 3.1.2.: Virchowstraße 3, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.1.3.: Grammstraße 4, Neubau zweier Doppelhäuser (7WE) mit Tiefgarage
+- TOP 3.1.4.: Leopoldstraße 79-81, ein Spitzahorn
+- TOP 3.2.1.: Grammstraße 4, Neubau zweier Doppelhäuser (7WE) mit Tiefgarage
+- TOP 3.2.2.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie in Genehmigungsverfahren beteiligen – Anhörung zu einem Stadtratsantrag der ÖDP
+- TOP 3.2.3.: Bebauungsplan Nr. 2113 - Freisinger Landstraße – Anhörung zum Beschlussentwurf
+- TOP 3.2.4.: Bauleitplanung der Gemeinde Ismaning-FNP-Änderung Nr. 18 und BPlan Nr.157 Sondergebiet Sportanlagen Gymnasium
+- TOP 5.: Unterrichtungen
+- TOP 5.3.1.: (U) 45. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2015
+- TOP 5.3.2.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.5.: Stellungnahme zum Bebauungsplan Nr. 172, „Misch- und Wohngebiet Keltenweg/Hardtweg“, Referatsschreiben
+- TOP 5.3.6.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 5.3.7.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 5.3.8.: Ablehnende Entscheidungen des BA 12 über Anträge für Warenauslagen, zwei Referatsschreiben
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Baumpflanzung an der Süd-Ecke Leopoldstraße – Kaiserstraße
+- TOP 1.2.: Entfernung von Schrotträder auch im Bereich der Leopoldstraße zwischen Hohenzollern- und Ungererstraße
+- TOP 1.3.: Verlegung des Radwegs an der Münchner Freiheit
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Mehr Polizeikontrollen von Radfahrern am Busbahnhof Münchner Freiheit
+- TOP 2.2.: (E) Erneute und dauerhafte Entfernung bzw. Rückschnitt von Büschen entlang der Fußgängertreppe zur Rad- und Fußgängerunterführung Richtung St.-Nikolaus-Platz Empfehlung Nr. 14-20 / E 01552 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 06.07.2017
+- TOP 2.3.: (E) + (U) Wartehäuschen für Busse an der Münchner Freiheit Empfehlung Nr. 14-20 / E 01083 der Bürgerversammlung des Stadtbezirkes 12 – Schwabing - Freimann am 14.07.2016
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Carl-Orff-Bogen 56
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Beschlussentwurf, Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017, Sitzungsvorlagennummer 14-20 / V 09501
+- TOP 3.2.2.: Verkehrsregelung „Domagkpark Süd“, bezugnehmend auf den BA-Antrag 14-20 / B 03141
+- TOP 3.2.3.: Mobilitätsstationen im Rahmen von CIVITAS ECCENTRIC
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Schulwegsicherheit, Grundschule Haimhauserstraße
+- TOP 4.2.: Radverkehr am Busbahnhof der Münchner Freiheit
+- TOP 4.3.: Parkplatznot aufgrund von Baumaßnahmen
+- TOP 4.4.: Parksituation Floriansmühlstraße und Sondermeierstraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Verkehrsberuhigung Parkstadt Schwabing – Marianne-Brandt-Straße, Referatsschreiben auf ein Bürgeranliegen
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Arbeiten im Straßenraum, Ungererstraße / Domagkstraße / Crailheimstraße, Sanierung des Kreuzungsbereichs
+- TOP 5.2.2.: Arbeiten im Straßenraum, Potsdamer Straße 13-17, Englschalkinger Straße 10-14; Bau der barrierefreien Bushaltestellen
+- TOP 5.2.3.: Wegweisung Apassionata Maria-Goeppert-Mayer-Straße u.a.
+- TOP 5.2.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Johann-Fichte-Str. 12
+- TOP 5.2.5.: Arbeiten im Straßenraum, Lilienthalallee / Edmund-Rumpler-Straße; Umbauarbeiten im Kreuzungsbereich
+- TOP 5.2.6.: Arbeiten im Straßenraum, Freisinger Landstraße zwischen Lottlisa-Behling-Weg und Stadtgrenze, Abriss und Neubau Brückenbauwerke A99)
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Information der SWM, Stromprojekt Netztrafostation Grasmeierstraße
+- TOP 5.3.2.: Vollzug der Grünanlagensatzung, Baustelleneinrichtung an der Berliner Straße
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: Verkehrsberuhigung Occamstraße, Referatsschreiben
+- TOP 5.3.5.: Unterrichtung über ein gewerbliches Feuerwerk
+- TOP 5.3.6.: (U) Radweg zwischen Ungererstraße und Aumeisterweg Errichtung eines Fahrradweges von der Kreuzung Ungererstraße bis zum Tennisclub Iphitos Antrag Nr. 14-20 / A 02632 der Stadtratsfraktion Freiheitsrechte Transparenz und Bürgerbeteiligung vom 11.11.2016
+- TOP 5.3.7.: Genehmigungsbescheid zum Austausch der Gasturbinen im Heizkraftwerk Freimann
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Ausstellung zur Geschichte des Ausbesserungswerks
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Am Spielplatz Ecke Kurbelwiesgasse / Hartweg sollen über einen längeren Zeitraum regelmäßig Polizeikontrollen durchgeführt und Verstöße zur Anzeige gebracht werden. Empfehlung Nr. 14-20 / E 01551 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 06.07.2017
+- TOP 2.2.: (E) Budget der Bezirksausschüsse MGS Filmproduktion Erstellung eines Exposés und eines Trailers 1.500,00 Euro
+- TOP 2.3.: (E) Nächtliche Lärmbelästigung durch Wannda Circus, Zenith, Kesselhaus und Kohlebunker
+- TOP 3.: Anhörungen
+- TOP 3.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 3.2.: Kurt-Landauer-Weg, Anhörungsverfahren für das Disc Golf Turnier am Fröttmaninger Berg am 12.11.2017
+- TOP 3.3.: Schwabinger Weihnachtsmarkt vom 01. - 24.12.2017 (Aufbau ab 14.11.2017)
+- TOP 3.4.: Münchner Freiheit, Infoveranstaltung am 21.10.2017
+- TOP 3.5.: Clemens-/Bismarckstraße, St.-Martins-Feuer am 09.11.2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kunstprojekt Münchner Freiheitstor
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Occamstraße 7
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Eilentscheidung des Vorsitzenden, Otl-Aicher-Str., Grünanlage, Anhörung für "Fest für Alle" auf der Grünfläche Otl-Aicher-Str. 19-21 am 15.10.2017
+- TOP 5.3.2.: Erlaubnisbescheid: München Marathon am 08.10.2017 und Trachtenlauf am 07.10.2017
+- TOP 5.3.3.: Gebundene Ganztagsschulklassen an Grundschulen Schuljahr 2017/18
+- TOP 5.3.4.: Zuwendung aus dem Budget der Bezirksausschüsse, Abrechnung
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
