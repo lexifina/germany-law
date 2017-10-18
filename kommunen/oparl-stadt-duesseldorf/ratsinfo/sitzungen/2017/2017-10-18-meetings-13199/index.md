@@ -1,0 +1,60 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-10-18T17:00:00+02:00
+- Ende: 2017-10-18T19:11:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13199
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13199
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302724.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302724.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302724.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Verkehrssicherung der Bürgersteige im Stadtgebiet 6 - zur Kenntnis genommen
+- TOP 4: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 5: Anfrage CDU, FDP, Bü90 Grüne: Grünflächenpflege im Stadtbezirk 6 - beantwortet
+- TOP 6: Anfrage CDU: Situation Mühlenbroich - Schausteller - vertagt
+- TOP 7: Anfrage Helmke (Bü90/Grüne): Carsharing und Stellplätze für Elektrofahrzeuge - beantwortet
+- TOP 8: Anfrage Helmke (BÜ90/GRÜ): Handlungsdruck Sozialwohnungen - beantwortet
+- TOP 9: Anfrage der CDU- und SPD-Fraktion: Feuertreppe Borbecker Straße - beantwortet
+- TOP 10: Anfrage der CDU-Fraktion: Zweiter Rettungsweg GGS Krahnenburgstraße - beantwortet
+- TOP 11: Antrag der CDU-Fraktion: Rückbau Gehwege Grünanlage Lenaustraße - einstimmig beschlossen
+- TOP 12: Antrag der CDU-Fraktion: Radwegmarkierung Herchenbachstraße - einstimmig beschlossen
+- TOP 13: Antrag der SPD-Fraktion: Überquerung des Volkardeyer Weges Höhe Hs-Nr.: 83 - einstimmig beschlossen
+- TOP 14: Antrag der CDU-Fraktion: Fußgängerampel Volkardeyer Weg - einstimmig beschlossen
+- TOP 15: Antrag der SPD-Fraktion: Überprüfung der Parkzeiten Parkplatz Dickhausweg - einstimmig beschlossen
+- TOP 16: Zuschussvergabe 2017 - vertagt
+- TOP 17: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 18: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 19: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 20: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 21: Sitzungen BV 6 in 2018 - zur Kenntnis genommen
+- TOP 22: MdV: Zebrastreifen Haltestelle Meisenweg - zur Kenntnis genommen
+- TOP 23: MdV: Unterrather Tor - Kalkumer Straße 1 und 2 - zur Kenntnis genommen
+- TOP 24: MdV: Baumfällungen im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 25: MdV: Gebiet Großmarkt und Einzelhandel An der Piwipp - zur Kenntnis genommen
+- TOP 26: HH-Antrag der SPD-Fraktion: Beleuchtung Fußweg an BSA - einstimmig beschlossen
+- TOP 27: HH-Antrag SPD: Radweg Münsterstraße - einstimmig beschlossen
+- TOP 28: HH-Antrag SPD: JFE Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 29: HH-Antrag CDU, BÜ90/GRÜNE und FDP: JFE Blue Rock - einstimmig beschlossen
+- TOP 30: HH-Antrag CDU: Bürgersaal Rath - einstimmig beschlossen
+- TOP 31: HH-Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 32: HH-Antrag CDU: Überplanung Unterrather Straße - einstimmig beschlossen
+- TOP 33: HH-Antrag CDU: Lichtquelle Grünanlage St.-Franziskus-Straße - einstimmig beschlossen
+- TOP 34: HH-Antrag CDU: Beleuchtung Kittelbach - einstimmig beschlossen
+- TOP 35: HH-Antrag BÜ90/GRÜNE: Bezirksradwegenetz - einstimmig beschlossen
+- TOP 36: HH-Antrag CDU, BÜ90/GRÜNE und FDP: Spontanvegetation - einstimmig beschlossen
+- TOP 37: HH-Antrag CDU, FDP und BÜ90/GRÜNE: I-Pads für Schulen im Stadtbezirk - einstimmig beschlossen
+- TOP 38: HH-Antrag BÜ90/GRÜNE: Grünordnungsplan - einstimmig beschlossen
+- TOP 39: HH-Antrag BÜ90/GRÜNE: Streckenmaßnahmen Radhauptnetz - einstimmig beschlossen
+- TOP 40: HH-Antrag Interfraktionell: Flüchtlingscafe Jfe Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 41: HH-Antrag Interfraktionell: Erweiterung GGS Krahnenburgstraße - einstimmig beschlossen
+- TOP 42: HH-Antrag CDU-Fraktion: Ascheplatz AGON 08 - einstimmig beschlossen
+- TOP 43: Beratung Haushalt 2018 - zur Kenntnis genommen
