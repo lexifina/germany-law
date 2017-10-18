@@ -1,0 +1,89 @@
+# 10. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-10-18T17:30:00+02:00
+- Ende: 2017-10-18T21:00:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5468
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5468
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=151335
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Erweiterung des räumlichen Geltungsbereiches der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Bötzowstraße“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg vom 27.05.2014, GVBl. für Berlin 2014, Seite 213 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Gegenstand der Vorlage Erweiterung des räumlichen Geltungsbereiches der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Humannplatz“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg vom 17.10.2000, GVBl. für Berlin 2000, Seite 468. - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Komponistenviertel“ im Bezirk Pankow von Berlin, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Langhansstraße“ im Bezirk Pankow von Berlin, Ortsteile Weißensee und Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Pankow-Süd“ im Bezirk Pankow von Berlin, Ortsteil Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Park am Weißen See an starke Nutzung anpassen - in der BVV abgelehnt
+- TOP 1.14: Städtebauförderprogramm „Zukunft Stadtgrün“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Hundeauslaufgebiet neu beschildern, landwirtschaftlich genutzte Flächen schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Listen der öffentlichen und privaten Baumfällungen verständlich gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Jährlicher Wohnungsneubaubericht für den Bezirk Pankow - in der BVV abgelehnt
+- TOP 1.18: Open-Data Initiative Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Schulwegsicherheit am Straßenbahn-Übergang Tassostraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Förderung der Elektromobilität in Pankow - in der BVV abgelehnt
+- TOP 1.21: »Holzbauweise zur Beschleunigung des Schulbaus« - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Moorlinse schützen - Umweltbildung ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Grünflächenpflege - Kommunikationsstrategie für den Umgang mit bürgerschaftlichem Engagement erarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Sicherheit an der Kreuzung im Ortsteil Blankenfelde erhöhen – Straßenmarkierung anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Umbaupläne Scherenbergstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Verkehrssicherheit im Thule-Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Verkehrssicherheit in der Eberswalder Straße erhöhen - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.28: Unterstützung der Mieter*innen in Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Mieter*innen für die Zukunft schützen durch Umstrukturierungssatzungen - überwiesen
+- TOP 1.30: Bedarfsgerechte Reinigung der Schulen in Pankow - überwiesen
+- TOP 1.31: Geplantes Chaos oder leistungsfähiger Schienenersatzverkehr? - beantwortet
+- TOP 1.32: Schulplatzmangel entgegenwirken – Neugründung von Gemeinschaftsschulen in den Fokus stellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Sicherung Gasleitungen Wackenbergstraße - mit Änderungen in der BVV beschlossen
+- TOP 1.34: Bedarfsgerechte Ausstattung der Schulen in Pankow mit Hausmeisterstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Keine weiteren Verkehrseinschränkungen während des Schienenersatzverkehrs im Nordostraum - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Geologischer Garten »Naturdenkmal Großer Stein« - überwiesen
+- TOP 1.37: Aufforderung bei beschränkter Ausschreibung - überwiesen
+- TOP 1.38: Mehr Angebote für obdachlose Frauen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Unterschutzstellung der Elisabethaue ermöglichen - überwiesen
+- TOP 1.40: Mehrsprachige Beschilderung des Bezirksamtsgeländes Fröbelstraße! - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Querungshilfe über die Maximilianstraße / Ecke Brixener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Schleichverkehre in der Binzstraße reduzieren - in der BVV abgelehnt
+- TOP 1.43: Vietnamesischsprachige Erziehungs- und Familienberatung (EFB) in Berlin einrichten! - überwiesen
+- TOP 1.44: "Free WiFi Berlin" auch in Pankower Bürgerämtern - überwiesen
+- TOP 1.45: Innovations- und Wirtschaftspreis für Pankow - überwiesen
+- TOP 1.46: Coding Hub in Pankow bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Spielplatz in der Schützenstraße nutzbar machen - überwiesen
+- TOP 1.48: Staubbelastungen durch Logistikverkehre der Baustelle am Karower Kreuz reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.49: Barrierefreie Fußwegeverbindungen in der Treseburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.50: Querung der Gaudystraße ermöglichen - überwiesen
+- TOP 1.51: Bürgerbus für Blankenburg - überwiesen
+- TOP 1.52: Förderung der Integration der Migranten in den Unterkünften durch Einbeziehung in die und Darstellung der christlichen Weihnachtsbräuche u.a. Feiertage - in der BVV abgelehnt
+- TOP 1.53: Sitzungsplan der BVV Pankow von Berlin November 2017 bis Dezember 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Schulwegsicherheit im Umfeld der Schulen verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Evaluation der erhaltungsrechtlichen Genehmigungskriterien und ihrer Anwendung in den Milieuschutzgebieten Pankows - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Kleingewerbe am S+U-Bahnhof Pankow erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Verbesserung des ÖPNV nach Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Informationen zum Ausbau der BAB A114 auch auf der Internetseite des Bezirksamtes veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Budgetzuweisung für Lehr- und Lernmittel für Schulen des Bezirks aufstocken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Kreisverkehr für die Kreuzung Treseburger Straße/Karower Damm in Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Keine parallelen Bauarbeiten an und auf der A 114 während des SEV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Verlängerung der Buslinien 124 und 154 zur Marthas-Aue - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Schulwegesicherheit der Grundschule im Hofgarten erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Aufstellungsbeschlüsse für neue Soziale Erhaltungsgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Planungsrahmen am ehemaligen Güterbahnhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Vivantes-Gelände Prenzlauer Berg für öffentliche Nutzung sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: B-Planverfahren 3-64 (Erweiterung des Mauerparks) für das Grundstück Bernauer Straße 63, 64 sowie das nördlich angrenzende Flurstück 5 bis zur Gleimstraße Bezirk Pankow, Ortsteil Prenzlauer Berg. Bezirkliche Stellungnahme im Rahmen der erneuten Behördenbeteiligung gemäß § 4 Abs. 2 BauGB in Verbindung mit § 4a Abs. 3 BauGBBehördenbeteiligung gemäß § 4 Abs. 2 BauGB in Verbindung mit § 4a Abs. 3 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Benennung der Nummernstraße Straße 4 im Bezirk Pankow im Ortsteil Buch in „Alpenberger Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Wirtschaftsplan des Eigenbetriebes „Kindergärten NordOst“ für das Jahr 2018 - mit Abschlussbericht zur Kenntnis genommen
