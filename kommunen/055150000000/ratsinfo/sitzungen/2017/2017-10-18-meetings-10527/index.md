@@ -1,0 +1,64 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-10-18T17:07:00+02:00
+- Ende: 2017-10-18T22:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10527
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10527
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00412473.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Anregung der Bezirksvertretung Münster-Nord an den Rat (ABV/0002/2017) - Deckelung von Prepaid-Tickets bei innerstädtischen Fahrten - einstimmig beschlossen
+- TOP 2.2: "Chancengleichheit ermöglichen: Frühe Bildung geflüchteter Kinder fördern" - von der Tagesordnung abgesetzt
+- TOP 3: Perspektiven der Friedenskultur und -arbeit in Münster weiterentwickeln! - einstimmig beschlossen
+- TOP 4: Ausstattung der innerstädtischen Kreisverkehrsplätze mit Fußgängerüberwegen - einstimmig beschlossen
+- TOP 5: Konzernabschluss 2016 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 6: Konzeption des Sozialdienstes für Flüchtlinge - mehrheitlich geändert beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Städtische Bäder
+- TOP 7.1: Gründung der Bädermanagement GmbH als 100 %ige Tochtergesellschaft der Stadtwerke - ohne Beschlussfassung geschoben
+- TOP 7.2: Überführung der städtischen Bäder in die eigenbetriebsähnliche Einrichtung "Bäder Münster" - mehrheitlich geändert beschlossen
+- TOP 8: Finanzierung zukünftiger Pensionsverpflichtungen der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 9: NKF-Gesamtabschluss zum 31.12.2015 der Stadt Münster (Entwurf) - einstimmig beschlossen
+- TOP 10: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011, 2012, 2014 und 2016 - einstimmig beschlossen
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2016 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Evaluation Beherbergungsteuer der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 13: Bericht über die Beteiligungen der Stadt Münster im Jahr 2016 (Beteiligungsbericht 2016) - zur Kenntnis genommen
+- TOP 14: Umwandlung des losen Städteverbundes Westfälische Hanse in einen ordentlichen Verein - einstimmig beschlossen
+- TOP 15: Münsterland e.V. – weitere Umsetzung der Ergebnisse der Strategiekommission und des Markenbildungsprozesses sowie Erhöhung der jährlichen Zuschüssse - ohne Beschlussfassung geschoben
+- TOP 16: ESPA-Berufskolleg, hier: Aufgabe der Trägerschaft der von Bodelschwinghschen Stiftungen Bethel und Übernahme der Bildungsgänge durch die Stadt Münster - einstimmig geändert beschlossen
+- TOP 17: "Umsetzung der Neuausrichtung Schulsozialarbeit- Ergebnisse des Qualitätsentwicklungsprozesses" - ohne Beschlussfassung geschoben
+- TOP 18: Trägervergabe für Kindertageseinrichtungen
+- TOP 18.1: Trägervergabe für die Kindertageseinrichtung in Hiltrup an der Hansestraße - ohne Beschlussfassung geschoben
+- TOP 18.2: Trägervergabe für die Interimsmaßnahme in der ehemaligen Wartburghauptschule und die dauerhafte Kindertageseinrichtung in der Hüfferstraße in Münster - ohne Beschlussfassung geschoben
+- TOP 18.3: Trägervergabe für die Interimsmaßnahme in Albachten (Pavillon) und die dauerhafte Kindertageseinrichtung in Albachten - ohne Beschlussfassung geschoben
+- TOP 18.4: Trägervergabe für die Kindertageseinrichtung in Mecklenbeck an der Meyerbeerstraße - ohne Beschlussfassung geschoben
+- TOP 19: Neubau und Erweiterung der Evangelischen Kita Fliednerhaus, Fehrbellinweg 6-8, in Mitte-Süd - ohne Beschlussfassung geschoben
+- TOP 20: Erweiterung des kath. Emilien-Kindergartens, Geiststr 60, in Mitte-Süd um eine vierte Gruppe - ohne Beschlussfassung geschoben
+- TOP 21: Unternehmensgruppe Altenzentrum Klarastift / Änderung des Gesellschaftsvertrages der Klarastift Service GmbH - ohne Beschlussfassung geschoben
+- TOP 22: Ehrenamt würdigen - Ehrenamtskarte NRW in Münster einführen - ohne Beschlussfassung geschoben
+- TOP 23: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche - einstimmig beschlossen
+- TOP 23.1: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche
+- TOP 24: SkulpturProjekte 2027 in Münster - einstimmig beschlossen
+- TOP 25: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck - einstimmig beschlossen
+- TOP 25.1: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck
+- TOP 26: Errichtung der 2. Städtischen Gesamtschule - einstimmig beschlossen
+- TOP 27: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 1: "Thematische Leitlinien und strategische Entwicklungsziele" - ohne Beschlussfassung geschoben
+- TOP 28: Anregung der Bezirksvertretung Münster-Hiltrup "Spielplatz Kirchfeld erhalten" - einstimmig beschlossen
+- TOP 29: Lärmaktionsplan der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 30: Rieselfelder - Betreuungsvertrag 2018 - 2023 - von der Tagesordnung abgesetzt
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Hiltrup
+- TOP 31.1.1: 83. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 31.1.2: Bebauungsplan Nr. 585 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk Ost
+- TOP 31.2.1: 80. Änderung FNP - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 32: Verschiedenes
