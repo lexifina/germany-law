@@ -1,0 +1,100 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-10-18T17:00:00+02:00
+- Ende: 2017-10-18T21:51:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4851
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4851
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=291010
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 4.1: Beleuchtung am Görrespielplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2: Zebrastreifen in der Königstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Bessere Markierung der Fußgängerüberwege im Rackebüller Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Eine Ampel in der Marienfelder Straße 66-80 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Lichtzeichenanlage an der Kreuzung Motzener Straße/Schichauweg/Egestorffstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Bezirkliche Bälle aus fairem Handel - überwiesen
+- TOP 6.3: Boelckestraße als leistungsfähige Nord-Süd-Verkehrsachse während des Umbaus des Tempelhofer Damms erhalten - in der BVV abgelehnt
+- TOP 6.4: Impfungen in Tempelhof-Schöneberg - beantwortet
+- TOP 6.5: Generierung von Schulplätzen in Tempelhof-Schöneberg - beantwortet
+- TOP 6.6: Videoüberwachung in Tempelhof-Schöneberg ausweiten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.7: Zum 10jährigen Jubiläum – Blumen bitte! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.8: Zustand des U-Bahnhofs Yorckstraße verbessern - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.9: Haushaltsbefragung im Quartier Grazer Platz - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - beantwortet
+- TOP 8.1: Planungsfortschritte am Nollendorfplatz? - vertagt
+- TOP 8.2: Kann von einem tatsächlichen „Jobwunder“ im ALG-II-Bezug ausgegangen werden? - vertagt
+- TOP 8.3: Situation Breslauer Platz - vertagt
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Sicherer Schulweg – ein Zebrastreifen für die Lichtenrader Goltzstraße - vertagt
+- TOP 9.2: Cranachstraße für den gegenläufigen Radverkehr freigeben - überwiesen
+- TOP 9.3: Verauslagten Unterhalt konsequent eintreiben - überwiesen
+- TOP 9.4: Bezirksamtlich organisierte Bekämpfung der Ambrosia-Pflanze - überwiesen
+- TOP 9.5: ,,Dreidimensionale Zebrastreifen" im Straßenland prüfen - überwiesen
+- TOP 9.6: Beleuchtung der Hertha-Block-Promenade auch im Ortsteil Tempelhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Dezentrale Bibliothekenarbeit sichern und weiterentwickeln - überwiesen
+- TOP 9.8: Berücksichtigung von öffentlichen Toiletten bei der Neugestaltung der Bahnhofstraße - vertagt
+- TOP 9.9: Unwetterschutz für bezirkliche Gebäude forcieren - überwiesen
+- TOP 9.10: Kommunale Impfstelle für Tempelhof-Schöneberg - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Kiepertplatz wieder herrichten - überwiesen
+- TOP 9.12: Seniorenvertretung weiter stärken – Aufwandsentschädigung neu regeln - überwiesen
+- TOP 9.13: Vorfahrt am Friedensplatz regeln - überwiesen
+- TOP 9.14: Verkehrsversuch Begegnungszone Maaßenstraße qualifiziert zum Abschluss bringen - vertagt
+- TOP 9.15: Querung des John-F.-Kennedy-Platzes für Fußgänger sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Quartiersmanagement soll im Schöneberger Norden fortgesetzt werden - vertagt
+- TOP 9.17: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Sitzmöglichkeiten im Bose-Stadion reparieren - überwiesen
+- TOP 9.19: Wasserspiele im Bezirk Instand setzen und wieder in Betrieb nehmen - überwiesen
+- TOP 9.20: Kiss&Ride-Bereich auf der westlichen Seite des Bahnhofs Südkreuz an der Lotte-Laserstein-Straße erweitern - überwiesen
+- TOP 9.21: Vandalismus konsequent bekämpfen – straf- und zivilrechtlich! - vertagt
+- TOP 9.22: Tempo 30 in der Mellener Straße durchsetzen - vertagt
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Wohnberechtigungsschein für anerkannte Flüchtlinge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Angebote der Mittwochs-Initiative unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Mehr Geld für die Grünanlagen des Bezirk im Doppelhaushalt 2018-2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: E-Bikes für das Ordnungsamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: AfD und FDP im Rathaus Schöneberg sichtbar machen – SPD Fraktion und Fraktion DIE Linke aktualisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Aussetzung von Kostensenkungsverfahren (KdU) bei besonderen Fällen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Grünzug Innsbrucker Straße zwischen Bayerischem Platz und Insbrucker Platz grundlegend instand setzen - vertagt
+- TOP 11.8: In der BVV Tempelhof-Schöneberg vertretene Parteien auffindbar machen – Hinweisschilder erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: VHS niederschwellig halten: keine Übertragung der Honorarerhöhungen auf die Kursteilnehmer*innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Städtepartnerschaften des Bezirks Tempelhof-Schöneberg besser deutlich machen - überwiesen
+- TOP 11.11: Beschluss, die Maßnahmen aus dem Bericht zur Spielleitplanung im Rahmen der Förderkulisse Aktives Zentrum Lichtenrade – Bahnhofstraße und im Rahmen der personellen Möglichkeiten umzusetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Mietpreisbremse endlich wirksam machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: ARRIVO weiter unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Kiezkonferenz im Regenbogenkiez durchführen! - vertagt
+- TOP 11.15: Untere Denkmalschutzbehörde entsprechend ihrer gestiegenen Aufgaben personell ausstatten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Verkehrssicherheit ohne Einzelaufforderung gewährleisten - vertagt
+- TOP 11.17: Ansprechpartner für Ehrenamtliche im Bezirksamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Abberufung einer Patientenfürsprecherin aus ihrem Amt - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Kulturring in Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Schaffung eines Stadtplatzes am Umsteigepunkt in Alt-Mariendorf - vertagt
+- TOP 11.21: Quartiersmanagement in Lichtenrade-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Wahl der Sozialkommissions-/Sondersozialkommissionsmitglieder - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Ampel für mehr Sicherheit auf der Schöneberger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Elektrofahrzeuge im Bezirk Tempelhof-Schöneberg - überwiesen
+- TOP 13.3: Zeitlich begrenzte Besucherparkplätze vor dem Rathaus Schöneberg einrichten - vertagt
+- TOP 13.4: Mehr Dialogdisplays für Berlin und im Bezirk - überwiesen
+- TOP 13.5: Längere Badezeiten im Stadtbad Tempelhof in der Götzstraße - überwiesen
+- TOP 13.6: Ruhender Verkehr darf Einsatzfahrzeuge nicht ausbremsen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Durchsetzung absolutes Halteverbot in der Bachestraße zur Gewährleistung der Durchfahrt für Rettungs- und Entsorgungsfahrzeuge - überwiesen
+- TOP 13.8: Unterstützung des Projektträgers Green City Solutions - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Planungen des Senats eine Absage erteilen: keine Bündelung sog. Profil-Willkommensklassen in Schöneberg - überwiesen
+- TOP 13.10: Aufstellung des Bebauungsplans 7-87 für die Grundstücke Steinstraße 37-44, Bahnhofstraße 30-32 sowie eine nördlich angrenzende Teilfläche des Parkplatzes Steinstraße und südlich angrenzenden Teilflächen entlang der Bahnhofstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade - überwiesen
+- TOP 13.11: Einleitung des Verfahrens zur Aufstellung des vorhabenbezogenen Bebauungsplans 7-89 VE für das Grundstück Passauer Str. 1-3 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg Reduzierung des Geltungsbereiches des im Verfahren befindlichen Bebauungsplanes 7-13Bd um die Fläche des Grundstückes Passauer Str. 1-3 - überwiesen
+- TOP 14: Termin der nächsten Sitzung - überwiesen
