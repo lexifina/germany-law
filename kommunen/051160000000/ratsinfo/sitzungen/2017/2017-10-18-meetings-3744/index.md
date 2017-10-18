@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-10-18T15:00:00+02:00
+- Ende: 2017-10-18T20:00:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3744
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3744
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Elfter Nachtrag zur Geschäftsordnung - Einstimmiger Beschluss
+- TOP 2: Niederschrift über die 24. Sitzung des Rates am 24.05.2017 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3: Niederschrift über die 25. Sitzung des Rates am 05.07.2017 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 4: Niederschrift über die 26. Sitzung des Rates am 30.08.2017 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 5: Haushaltsplanentwurf 2018; Haushaltssatzung einschl. Anlagen u. Fortschr. Haushaltssanierungsplan - Zur Kenntnis genommen
+- TOP 6: HSP-Umsetzungsbericht 30.06.2017 - Kenntnisnahme
+- TOP 7: Bericht zur Pilotphase Rats-TV - Kenntnisnahme
+- TOP 8: Wirtschaftsplan 2018 der mags - Einstimmiger Beschluss
+- TOP 9: Friedhofssatzung und Friedhofsgebührensatzung - In den nächsten Ratszug geschoben
+- TOP 10: Alternative Abfallkonzepte - Kenntnisnahme
+- TOP 10.1: TOP 10: Alternative Abfallkonzepte - Mit Stimmenmehrheit abgelehnt
+- TOP 11: Beteiligung an der NEW Kommunalholding GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 12: Beteiligung der NEW Kommunalholding GmbH an der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 13: Beteiligung der EWMG - Mit Stimmenmehrheit beschlossen
+- TOP 14: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 15: Wiederbestellung Vorstandsmitglied der Stadtsparkasse - Einstimmiger Beschluss
+- TOP 16: Wiederwahl eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 17: Änderungsverordnung Ordnungsbehördliche Verordnung Offenhalten Verkaufsstellen 10. Dezember 2017 - Mit Stimmenmehrheit beschlossen
+- TOP 18: Verlagerung des Stadtarchivs ins Vituscenter - Einstimmiger Beschluss
+- TOP 19: Leistungsvereinbarung Reha - Mit Stimmenmehrheit beschlossen
+- TOP 20: Angemessene Kosten der Unterkunft - Einstimmiger Beschluss
+- TOP 21: Leistungsvereinbarung Café Pflaster MG RY - Mit Stimmenmehrheit beschlossen
+- TOP 22: Verlängerung der Leistungsvereinbarung mit der Jüdischen Gemeinde - Einstimmiger Beschluss
+- TOP 23: Abschluss einer Vereinbarung mit den Betreuungsvereinen der Arbeiterwohlfahrt- Kreisverband Möncheng - Mit Stimmenmehrheit beschlossen
+- TOP 24: Veränderungssperre Europaplatz - Einstimmiger Beschluss
+- TOP 25: Umbesetzung Niersverbandsversammlung - Einstimmiger Beschluss
+- TOP 26: Fortschreibung des Nahversorgungs- und Zentrenkonzeptes - Einstimmiger Beschluss
+- TOP 27: Gestaltungsrichlinie Sondernutzungen - Mit Stimmenmehrheit beschlossen
+- TOP 28: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2017 - Einstimmiger Beschluss
+- TOP 28.1: Wohnumfeldverbesserung durch bürgerschaftliches Engagement - Ohne Abstimmung
+- TOP 29: Werbeanlagensatzung Innenstadt - Mit Stimmenmehrheit beschlossen
+- TOP 30: Vorkaufsrechtssatzung Mönchengladbacher Innenstadt und Aufhebungssatzung Mönchengladbach Stadtmitte - Einstimmiger Beschluss
+- TOP 31: Zweckverband „Tagebaufolge(n)landschaft Garzweiler - Mit Stimmenmehrheit beschlossen
+- TOP 32: Zweckverband „Tagebaufolge(n)landschaft Garzweiler - Einstimmiger Beschluss
+- TOP 33: Erarbeitungsverfahren Regionalplan Regierungsbezirk Düsseldorf (RPD-Entwurf 2017) - Mit Stimmenmehrheit beschlossen
+- TOP 34: European Energy Award - Einstimmiger Beschluss
+- TOP 35: Abschiebungen nach Afghanistan - In den nächsten Ratszug geschoben
+- TOP 36: Zusätzliche beratende Mitglieder in Aufsichtsräten - In den nächsten Ratszug geschoben
+- TOP 37: Wohnmobilplatz - Mit Stimmenmehrheit beschlossen
+- TOP 38: Sonntags-Ratssitzungen - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Abgesicherte Finanzierung der Ewigkeitskosten des Tagebaus Garzweiler II - Vom Antragsteller zurückgezogen
+- TOP 40: Stromsperren in Mönchengladbach verhindern - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Berichtsvorlage 2563/IX "Aktuelle Flüchtlingssituation in Mönchengladbach" - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Mönchengladbach Diesel-Gipfel - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Unterirdische Wertstoff-Inseln im Stadtgebiet - Vertagt (s. Niederschrift)
+- TOP 44: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 45: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 46: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 47: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 47.1: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur Tagesordnung - Zur Kenntnis genommen
+- TOP 47.2: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Förderrichtlinie IHEK
+- TOP 47.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Arbeitszeitordnung
+- TOP 47.4: Anfrage von RH Dr. Brenner (Bündnis 90/Die Grünen) zum Kioskbetrieb an Schulen in städtischer Trägerschaft - Zur Kenntnis genommen
+- TOP 47.5: Anfrage von RF Finger (FDP) zu einer Veranstaltung des Fachbereiches Kinder, Jugend und Familien - Zur Kenntnis genommen
