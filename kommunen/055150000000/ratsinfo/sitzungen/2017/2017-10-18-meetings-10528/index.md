@@ -1,0 +1,85 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-10-18T17:50:00+02:00
+- Ende: 2017-10-18T22:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10528
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10528
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00412472.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Städtebauliche Projekte Parkplatz Hörsterplatz und Neuhafen
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10.1: Ausstattung städtischer Abfalleimer mit sogenannten "Pfandregalen" - verwiesen
+- TOP 11: Gleichstellung in politischen Gremien Antrag der SPD-Fraktion an den Rat Nr. A-R/0042/2016 „Gleichstellung in Ratsgremien einschließlich Aufsichtsräten umsetzen“ - mehrheitlich geändert beschlossen
+- TOP 12: Städtische Bäder
+- TOP 12.1: Gründung der Bädermanagement GmbH als 100 %ige Tochtergesellschaft der Stadtwerke - mehrheitlich beschlossen
+- TOP 12.2: Überführung der städtischen Bäder in die eigenbetriebsähnliche Einrichtung "Bäder Münster" - mehrheitlich geändert beschlossen
+- TOP 13: Finanzierung zukünftiger Pensionsverpflichtungen der Stadt Münster - mehrheitlich beschlossen
+- TOP 14: NKF-Gesamtabschluss zum 31.12.2015 der Stadt Münster (Entwurf) - einstimmig beschlossen
+- TOP 15: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011, 2012, 2014 und 2016 - einstimmig beschlossen
+- TOP 16: Entwurf des Jahresabschlusses zum 31.12.2016 der Stadt Münster - einstimmig beschlossen
+- TOP 17: Evaluation Beherbergungsteuer der Stadt Münster - zur Kenntnis genommen
+- TOP 18: Bericht über die Beteiligungen der Stadt Münster im Jahr 2016 (Beteiligungsbericht 2016) - zur Kenntnis genommen
+- TOP 19: Sachstandsbericht Konversion - zur Kenntnis genommen
+- TOP 20: Umwandlung des losen Städteverbundes Westfälische Hanse in einen ordentlichen Verein - einstimmig beschlossen
+- TOP 21: Münsterland e.V. – weitere Umsetzung der Ergebnisse der Strategiekommission und des Markenbildungsprozesses sowie Erhöhung der jährlichen Zuschüsse - mehrheitlich beschlossen
+- TOP 22: ESPA-Berufskolleg, hier: Aufgabe der Trägerschaft der von Bodelschwinghschen Stiftungen Bethel und Übernahme der Bildungsgänge durch die Stadt Münster - einstimmig geändert beschlossen
+- TOP 23: Umsetzung der Neuausrichtung Schulsozialarbeit- Ergebnisse des Qualitätsentwicklungsprozesses - zur Kenntnis genommen
+- TOP 24: Trägervergabe für die Kindertageseinrichtungen
+- TOP 24.1: Trägervergabe für die Kindertageseinrichtung in Hiltrup an der Hansestraße - mehrheitlich beschlossen
+- TOP 24.2: Trägervergabe für die Interimsmaßnahme in der ehemaligen Wartburghauptschule und die dauerhafte Kindertageseinrichtung in der Hüfferstraße in Münster - mehrheitlich beschlossen
+- TOP 24.3: Trägervergabe für die Interimsmaßnahme in Albachten (Pavillon) und die dauerhafte Kindertageseinrichtung in Albachten - mehrheitlich beschlossen
+- TOP 24.4: Trägervergabe für die Kindertageseinrichtung in Mecklenbeck an der Meyerbeerstraße - mehrheitlich beschlossen
+- TOP 25: Neubau und Erweiterung der Evangelischen Kita Fliednerhaus, Fehrbellinweg 6-8, in Mitte-Süd - mehrheitlich beschlossen
+- TOP 26: Erweiterung des kath. Emilien-Kindergartens, Geiststr 60, in Mitte-Süd um eine vierte Gruppe - mehrheitlich beschlossen
+- TOP 27: Unternehmensgruppe Altenzentrum Klarastift / Änderung des Gesellschaftsvertrages der Klarastift Service GmbH - mehrheitlich beschlossen
+- TOP 28: Ehrenamt würdigen - Ehrenamtskarte NRW in Münster einführen - mehrheitlich beschlossen
+- TOP 29: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche - einstimmig beschlossen
+- TOP 29.1: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche
+- TOP 30: SkulpturProjekte 2027 in Münster - einstimmig beschlossen
+- TOP 31: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck - einstimmig beschlossen
+- TOP 31.1: Neubau eines zweizügigen Grundschulgebäudes in Münster-Wolbeck
+- TOP 32: Errichtung der 2. Städtischen Gesamtschule - mehrheitlich beschlossen
+- TOP 33: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - Vorlage eingebracht
+- TOP 34: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 1: "Thematische Leitlinien und strategische Entwicklungsziele" - mehrheitlich beschlossen
+- TOP 35: Anregung der Bezirksvertretung Münster-Hiltrup "Spielplatz Kirchfeld erhalten" - einstimmig beschlossen
+- TOP 36: Lärmaktionsplan der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 37: Rieselfelder - Betreuungsvertrag 2018 - 2023 - von der Tagesordnung abgesetzt
+- TOP 38: Bauleitplanung
+- TOP 38.1: Stadtbezirk Münster-Hiltrup
+- TOP 38.1.1: 83. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 38.1.2: Bebauungsplan Nr. 585 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 38.2: Stadtbezirk Münster-Ost
+- TOP 38.2.1: 80. Änderung FNP - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 39: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost - einstimmig geändert beschlossen
+- TOP 39.1: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost
+- TOP 40: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 41: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 41.1: Optionen für einen Stadionneubau in Münster objektiv prüfen - mehrheitlich abgelehnt
+- TOP 41.2: Für einen "Preußenplan" als realistische Handlungsstrategie für das Stadion Hammer Straße - mehrheitlich beschlossen
+- TOP 42: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 42.1: Schadstoffminderung schneller erreichen - Nachrüstung älterer Stadtbusse prüfen - verwiesen
+- TOP 42.2: Ehrenamtliches Engagement in Münster stärken – leichteren Zugang zum Messe und Congress Centrum Halle Münsterland ermöglichen - verwiesen
+- TOP 42.3: Kriterien für eine Priorisierung stadtregionaler Velorouten - verwiesen
+- TOP 42.4: Externe Beraterverträge kritisch prüfen - verwiesen
+- TOP 42.5: Geplante Erhöhung des Anteils der Kommunen an der Krankenhausfinanzierung - verwiesen
+- TOP 42.6: Änderung bei der Regelung zum Unterhaltsvorschuss - verwiesen
+- TOP 42.7: Sozialraum Bahnhofsquartier stärken: Sicherung des Interessenausgleichs und Beteiligung an der Quartiersentwicklung - verwiesen
+- TOP 42.8: Gemeinschaftsorientiertes und Genossenschaftliches Wohnen verstärkt fördern und gemeinwohlorientierte Investoren bzw. Baugemeinschaften verstärkt unterstützen - verwiesen
+- TOP 43: Verschiedenes
