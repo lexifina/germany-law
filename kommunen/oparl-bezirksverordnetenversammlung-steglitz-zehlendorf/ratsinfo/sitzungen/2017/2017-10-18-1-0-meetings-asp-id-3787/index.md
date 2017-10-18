@@ -1,0 +1,95 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-10-18T17:00:00+02:00
+- Ende: 2017-10-18T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3787
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3787
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Schottenburg - beantwortet
+- TOP 3.2: Beschädigte und umgestürzte Bäume durch Sturm „Xavier“ - beantwortet
+- TOP 3.3: Sturmschäden durch Xavier in Steglitz-Zehlendorf - beantwortet
+- TOP 3.4: Hat Heckeshorn die Bürger/-innen nicht ernsthaft informiert? - beantwortet
+- TOP 3.5: Kleine Wahlnachlese - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Pflegeintervalle bei den Spielplätzen erhöhen - in der BVV abgelehnt
+- TOP 4.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk 6 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Sondermittel der BVV für den Berliner Ruder-Club e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungsplan 6-33 "Fabeckstraße" (FUBIC) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Bebauungsplan X- B 18 (nördlich Bachstelzenweg) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.7: Mehr Entgelt für Fachkräfte der freien Jugendarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Sichere Schulwege - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Parks Range I – Grüne Mitte sichern – Naherholung ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Fußgängerüberweg Steglitzer Damm in Höhe Buhrowstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Mehr Sicherheit vor dem Kindergarten der Stephanus-Kirchengemeinde in der Mühlenstraße/ Sundgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Sauberer Kiez um den S-Bahnhof Sundgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Entwurzelten Baumstumpf auf Indianerspielplatz in Lankwitz entfernen - vertagt
+- TOP 4.14: Parkbänke erneuern - vertagt
+- TOP 4.15: Spielplätze sicherer machen: Altersbeschränkung - vertagt
+- TOP 4.16: Auf Orientierungsnummern hinweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Uhr am Kulturkiosk in Zehlendorf „zeitgemäß“ in Gang setzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: W-Lan für Bezirksverordnete im Bürgersaal vom Rathaus Zehlendorf - in der BVV abgelehnt
+- TOP 4.19: Besucher*innen der BVV-Sitzungen die nötige Wertschätzung entgegenbringen Teil II - in der BVV abgelehnt
+- TOP 4.20: Parks Range – Kein Baustellenverkehr durch Lichterfelde Süd - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Blindenwerkstatt in der Rothenburgstraße soll erhalten bleiben - überwiesen
+- TOP 5.2: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2016 - überwiesen
+- TOP 5.3: Ampelanlage Wupperstraße/Ecke Goerzallee - überwiesen
+- TOP 5.4: Raserei auf der Geraer Straße beenden - überwiesen
+- TOP 5.5: Papierarme BVV - überwiesen
+- TOP 5.6: Partnerstadt Moskau - überwiesen
+- TOP 5.7: Heckeshorn: Anwohner/-innen transparent und offen informieren - überwiesen
+- TOP 5.8: Wiederholte Beschädigungen von Anwohnerfahrzeugen durch einander ausweichende Busse verhindern - überwiesen
+- TOP 5.9: Vernünftige Ampelschaltungen für Fußgänger an Kranoldplatz und Lankwitzer Straße / Fußgänger nicht hetzen - überwiesen
+- TOP 5.10: Lärmschutz für Schüler bei Planung neuer Schule Lichterfelde-Süd - überwiesen
+- TOP 5.11: Beschilderung am Platz des 4. Juli zur Nutzung für Fahrschulen entfernen - überwiesen
+- TOP 5.12: Neuregelung der Zuständigkeiten der Ämter für Flüchtlinge wieder nach dem Wohnortprinzip verteilen - überwiesen
+- TOP 5.13: Schlosspark-Theater erhalten - Steglitz-Zehlendorf kämpft für sein Theater - überwiesen
+- TOP 5.14: Kennzeichnung der Skulptur "Säugende Bärin" von Hugo Lederer - überwiesen
+- TOP 5.15: Temporäre Sporthallen - überwiesen
+- TOP 5.16: Parks Range: Mehr Einfamilienhäuser - überwiesen
+- TOP 5.17: Kreuzung Niklasstraße - überwiesen
+- TOP 5.18: Ökologische Sanierung des Waldsees - überwiesen
+- TOP 5.19: Erreichbarkeit der Haltestelle der Buslinie 284 an der Heinersdorfer-/ Hildburghauser Straße vom Oberhofer Weg, Glaubnerstraße, Steinheilpfad, Geraer Straße - überwiesen
+- TOP 5.20: Aufstellen von Mülleimern an der Rehwiese - überwiesen
+- TOP 5.21: Stadtteil-Bürgerforen einrichten! - Stärkung der Teilhabe der Einwohnerschaft im Bezirk vor Ort - überwiesen
+- TOP 5.22: Vorsorge zur Aufrechterhaltung des S-Bahn-Verkehrs im Bezirk Steglitz- Zehlendorf - überwiesen
+- TOP 5.23: S-Bahnhof Feuerbachstraße - überwiesen
+- TOP 5.24: Bezirksamtsprotokolle veröffentlichen - überwiesen
+- TOP 5.25: Baseler Straße - LKWs im Durchgangsverkehr verhindern - überwiesen
+- TOP 5.26: Schulwegsicherung Friedrich-Drake-Grundschule, Drakestraße 80, 12205 Berlin - überwiesen
+- TOP 5.27: Testbetrieb – mehr Sicherheit durch 3D Zebrastreifen - überwiesen
+- TOP 5.28: Kennzeichnung der Skulpturen im Rathaus Zehlendorf - überwiesen
+- TOP 5.29: Selbständige und eigenverantwortliche Kindertagesstätten - überwiesen
+- TOP 5.30: Bauarbeiten Schottenburg - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Große Anfragen - erledigt
+- TOP 6.1.1: Auswirkungen Modernisierungen - beantwortet
+- TOP 6.2: Anträge - erledigt
+- TOP 6.2.1: Deutschland- und Europafahne auch in Steglitz-Zehlendorf! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.2: Sonderausschuss „Entwicklung und Pflege des Grunewald-Seengebietes“ einsetzen - überwiesen
+- TOP 6.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.3.1: E-Government im Bezirk Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 6.3.2: Pause während BVV-Sitzungen - in der BVV abgelehnt
+- TOP 6.3.3: Zusätzliche Müllbehälter im öffentlichen Straßenland im Bereich Borstell- und Stephanstraße - in der BVV abgelehnt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Flüchtlingssituation und Nachnutzung am Standort der ehemaligen Lungenklinik Heckeshorn - schriftlich beantwortet
+- TOP 7.2: Schlosspark-Theater vor dem Aus? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Transparenz durch niedrigschwelliges Angebot zur Teilnahme an BVV-Sitzungen - in der BVV abgelehnt
+- TOP 8.2: Kreuzung Baseler-/Curtiusstraße alters- und verkehrssicherer machen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Den bezirklichen Denkmalbeirat endlich in denkmalrelevante Aufgaben mit einbeziehen! - in der BVV abgelehnt
+- TOP 8.4: Briefkasten Leerungszeit verändern - in der BVV abgelehnt
+- TOP 8.5: Laiendefibrillatoren (AED) im Einsatzleitsystem der Berliner Feuerwehr vermerken - vertagt
+- TOP 8.6: Abwägung bei der möglichen Aufnahme von Flüchtlingen aus Tschetschenien - vertagt
+- TOP 8.7: Unabhängiges Verkehrsgutachten für Lichterfelde-Süd - vertagt
