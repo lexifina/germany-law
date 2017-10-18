@@ -1,0 +1,77 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-10-18T17:00:00+02:00
+- Ende: 2017-10-18T22:27:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2992
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2992
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Verurteilung der kürzlich erfolgten linksextremen Angriffe gegen AfD-Politiker - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer stellvertretenden Bürgerdeputierten für den Soziales und Bürgerdienste - gewählt
+- TOP 6.2: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Einwohner*innenantrag: Fahrradfreundlicher Bezirk Neukölln - überwiesen
+- TOP 7.2: Genehmigung der im Haushaltsjahr 2016 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Hotelneubauten und Tourismuskonzept - beantwortet
+- TOP 10.2: Ruhestörung vor dem Rathaus Neukölln - beantwortet
+- TOP 10.3: Antrag auf Schließung Friedel 54 - in der BVV abgelehnt
+- TOP 10.4: Erklärung des Verzichts auf Straßenumbenennungen für den Rest der Legislaturperiode - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Recyclinghof - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Kostenfreiheit für die Nachfahren der Opfer des Nationalsozialismus bei der Verlegung der Stolpersteine in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Ersatzstandort Kiezladen Friedelstr. 54 - in der BVV abgelehnt
+- TOP 11.4: Enquete-Kommission für die Berliner Verwaltung - in der BVV zurückgezogen
+- TOP 11.5: Fahrradplätze Rathaus - in der BVV abgelehnt
+- TOP 11.6: Einbahnstraße für den Rad-Gegenverkehr öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Schulweg zur Wetzlar-Grundschule sicherer machen - in der BVV abgelehnt
+- TOP 11.8: Zuwegung vom S-Bahnhof Sonnenallee zum Hotel Estrel attraktiv gestalten! - in der BVV abgelehnt
+- TOP 11.9: Aufklärungskampagne zu Masernimpfung - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Privatisierung kommunaler Kinder- und Jugendfreizeiteinrichtungen stoppen! - in der BVV abgelehnt
+- TOP 11.11: Familienfreundliche Kommune Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Gedenken an 100 Jahre kommunistische Diktaturen und deren Opfer - in der BVV zurückgezogen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Mädchen- und junge Frauen Zentrum Schilleria in Gefahr? - beantwortet
+- TOP 12.2: Genderneutrale Ansprache und Erfassung - beantwortet
+- TOP 12.3: Zukunft des Jugendclubs Ufo - beantwortet
+- TOP 12.4: Jugendeinrichtung in Buckow? - vertagt
+- TOP 12.5: Situation in den Neuköllner Unterkünften für Geflüchtete - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Fachkonferenz Jugendberufsagentur - überwiesen
+- TOP 14.2: Hinweisschild für Fahrradfahrer - überwiesen
+- TOP 14.3: Leichte Sprache als gut sichtbares Zusatzangebot - überwiesen
+- TOP 14.4: Missbrauch der Volkshochschule - vertagt
+- TOP 14.5: Beschulung für Kinder und Jugendliche aus dem C&A in bisherigen Schulklassen ermöglichen - überwiesen
+- TOP 14.6: Müll-Haie in der Gradestraße - überwiesen
+- TOP 14.7: Grünanlage aufwerten - überwiesen
+- TOP 14.8: Fairer Bezirk – Faires Equipment - überwiesen
+- TOP 14.9: Verbesserungen für die neue Fahrradstraße in der Weserstraße - überwiesen
+- TOP 14.10: Verkehrssicherheit für Schulkinder Am Eichenquast - überwiesen
+- TOP 14.11: Fairer Bezirk – Faires Outfit - überwiesen
+- TOP 14.12: Bebauung der Buckower Felder sozialverträglich gestalten - überwiesen
+- TOP 14.13: Fahrradwegführung am Buckower Damm - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Verlängerte Öffnungszeit Recyclinghof BSR - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Ausschilderung Heilpädagogisches Zentrum - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Sicher zur Sporthalle Hertastraße und zurück - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Wildes Parken vor der Jahn-Sporthalle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Personalerhöhung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Einbau eines Aufzuges am U-Bahnhof Parchimer Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Rückkauf des Grundstücks der Flüchtlingsunterkunft Späthstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Ankauf des Grundstücks an der Haarlemer Straße/II - mit Abschlussbericht zur Kenntnis genommen
