@@ -1,0 +1,154 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-10-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264508
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264508
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.1.: Ernennung einer/eines neuen Beauftragten für Frauen und Mädchen
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 1.2.: Budget der Bezirksausschüsse Magdalena München GbR Madgalena Saison von Februar - April 2018 2.000,00 Euro
+- TOP 2.1.: Vogelweideplatz 1: Umbau und Nutzungsänderung einer Gaststätte zu einer Spielhalle, Vorbescheid
+- TOP 2.1.: Ismaninger Str. 22: Neubau Strahlenbunker für die Klinik und Poliklinik Rechts der Isar (Strahlentherapie und Radioonkologie), Vorbescheid
+- TOP 2.2.: Kirchenstr. 89 a: Teilausbau des Dachgeschosses als Vergrößerung dreier Wohnungen im 4. OG
+- TOP 2.3.: Eduard-Schmid-Str. 20: Einbau dreier Wohnungen im DG
+- TOP 2.4.: Falkenstr. 7: Errichtung einer Dachterrasse mit Absturzsicherung auf einer Dachfläche im 2. OG und Umbau einer Loggia
+- TOP 2.5.: Rosenheimer Str. 52: Umbau bzw. Änderung der Aufteilung der Gewerbeeinheiten: Ladeneinheit EG mit dazugehöriger Büronutzung im 1. OG sowie Gewerbe-/Büroeinheit im 1. OG
+- TOP 2.6.: Regerplatz 1: Schulbauoffensive; Anbau einer Lüftungsanlage und einer Lagerfläche für die Turnhallen
+- TOP 2.8.: Orleansstr. 10-12: Errichtung einer Fußgängerbrücke zwischen IHK Akademie und Neubau Bürogebäude "Holzkontor"
+- TOP 2.9.: Entenbachstr. 37: Teilabbruch Bauteil A + C, Abbruch und Neubau Bauteil B, Aufstockung Bauteil C und Nutzungsänderung EG Bauteil A, Kolping Jugendwohnheim mit Ausbildungsbetrieb; Tektur
+- TOP 4.: Bürgeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 1.1.: Bericht von der Einwohnerversammlung zur Umgestaltung der Schornstraße am 28.09.2017
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.3.: Eröffnung 42. Haidhauser Weihnachtsmarkt am 28.11.2017 um 17 Uhr am Weißenburger Platz
+- TOP A: Allgemeines
+- TOP 4.2.1.: Fertigstellung der Toiletten im S-Bahnhof Rosenheimer Platz
+- TOP 4.2.2.: Verlängerung der Standzeit für Taxis am Wiener Platz
+- TOP 4.2.3.: Morgendliche Straßenreinigung am Weißenburger Platz (Antwortschreiben Baureferat liegt bereits vor)
+- TOP 4.2.4.: Verkehrssituation - Zebrastreifen Eduard-Schmid-Straße / Boosstraße
+- TOP 4.2.5.: Entfernung des Mülleimers an der Ecke Weißenburger Platz 1 / Aktuelle Situation mit den Fahrradbügeln vor dem Haus Weißenburger Platz 1
+- TOP 4.2.6.: Nachtclub "Wadn-Busn-Bar" in der Stubenvollstraße
+- TOP 4.2.7.: Aufhebung bzw. Begrenzung der Schankerlaubnis der Gaststätte "Diamonds Lounge", Orleansplatz 3
+- TOP 4.2.8.: Tödlicher Verkehrsunfall an der Kreuzung Reger-/Welfenstraße (Antwortschreiben Kreisverwaltungsreferat liegt bereits vor)
+- TOP 4.2.9.: Parklizenz Klinikviertel (Antwortschreiben Referat für Stadtplanung und Bauordnung liegt bereits vor)
+- TOP 5.1.: Bushaltestelle vor dem Berufsschulzentrum optimieren
+- TOP 5.2.: Seniorenbeiratswahl 2021: Mehr Vorstellungstermine in Au-Haidhausen organisieren !
+- TOP 5.3.: Anfrage: Umbaumaßnahmen im Maximilianeum
+- TOP 5.4.: Schulwegsicherheit am Gebsattelberg
+- TOP 5.5.: Fortschreibung der Münchner Schulentwicklung - Datenblatt GS Bazeillesstraße
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Initiativgruppe - Interkulturelle Begegnung und Bildung e.V. Veranstaltung anlässlich des 80. Geburtstages des Schriftstellers Haydar Isik 1.680,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Magdalena München GbR Madgalena Saison von Februar - April 2018 2.000,00 Euro - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Initiative "Susi" Musical "Susi oder so - Kaiserin von Österreich" im Theater Drehleier 7.100,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Errichten einer Freischankfläche: Gaststätte "Bosporus", Ohlmüllerstr. 26 Vertagung aus der Sitzung vom 28.06.2017 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Erweiterung einer bestehenden Freischankfläche: "Rosis Kaffeehaus", Rosenheimer Str. 2 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Errichtung von Fahrradstellplätzen vor dem Supermarkt "Alnatura" in der Weißenburger Straße 20 Empfehlung Nr. 14-20 / E 01635 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 06.07.2017
+- TOP 6.3.2.: (E) Stellplätze für 20 Fahrräder Empfehlung Nr. 14-20 / E 01637 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 06.07.2017
+- TOP 6.3.3.: (E) Abgefahrene Bodenmarkierung in der Gebsattelstraße Empfehlung Nr. 14-20 / E 01644 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 29.06.2017
+- TOP 6.3.4.: (E) Messung und online Veröffentlichung der Emissionswerte (2. S-Bahn Stammstrecke) Empfehlung Nr. 14-20 / E 01501 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 18.05.2017
+- TOP 7.1.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen; Anhörung durch das Direktorium vom 02.10.17 zum Antrag der ÖDP vom 21.06.17
+- TOP 8.1.1.: Sofortige Überprüfung und Korrektur der Ampelschaltungen im Bereich Schlossstraße / Einsteinstraße Nähe Straßenbahnhaltestelle Linie 25 stadtauswärts (Antwortschreiben der MVG)
+- TOP 8.1.2.: Unterführung Ost im Ostbahnhof München ausbauen
+- TOP 8.1.3.: Erhöhungsantrag von "Spielen in der Stadt e.V."
+- TOP 8.1.4.: Schaffung einer Sitzbank zu Füßen der Kreuzigungsgruppe am Gasteig
+- TOP 8.1.5.: Tempo-30-Zone für die Claude-Lorrain-Straße im Teilbereich zwischen Eduard-Schmid- und Humboldtstraße
+- TOP 8.1.6.: Stimm- und antragsberechtigte Personen auf Bürgerversammlungen
+- TOP 8.1.7.: Aufwertung des Kroneparks
+- TOP 8.1.8.: Mehr Radlständer in der Einsteinstraße
+- TOP 8.1.9.: Ehemalige JVA Am Neudeck: Einsichtnahme von Unterlagen durch den BA 5
+- TOP 8.1.10.: Situierung des Rettungsschachts für die 2. S-Bahn Stammstrecke in der Püttrichstraße / Baumfällungen während der Bauarbeiten
+- TOP 8.1.11.: Ist der Busbahnhof am Orleansplatz für Busse mit Anhänger geeignet ? Anfrage
+- TOP 8.2.1.: Beibehaltung des Hare-Niemeyer-Verfahrens bei der künftigen Sitzverteilung der Bezirksausschüsse Schreiben BA 5 vom 03.07.2017
+- TOP 8.3.1.: Baumaßnahmen der Stadtwerke - 2. Halbjahr 2017 jetzt im Internet verfügbar
+- TOP 8.3.2.: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen
+- TOP 8.3.3.: Information Sanierung Öffentliche WCs, hier: Max-Weber-Platz
+- TOP 8.3.4.: Sachstand zur Metzgerstr. 5 a
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Mariahilfplatz 12: Fällung von 1 Birke
+- TOP 7.2.: Taubenstr. 3-7: Baumveränderung an einer Weide und Fällung einer Weide
+- TOP 7.3.: Kirchenstr. 95: Fällung von 4 Bäumen Vertagung aus der Sitzung vom 20.09.2017
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 14-20 / V 16 Anlagen Beschluss des Bildungsausschusses des Stadtrates vom 29.11.2017 (SB) Öffentliche Sitzung
+- TOP 3.: Unterrichtungen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Initiativgruppe - Interkulturelle Begegnung und Bildung e.V. Veranstaltung anlässlich des 80. Geburtstages des Schriftstellers Haydar Isik 1.680,00 €
+- TOP 1.3.: Budget der Bezirksausschüsse Initiative "Susi" Musical "Susi oder so - Kaiserin von Österreich" im Theater Drehleier 7.100,00 €
+- TOP 1.4.: Errichten einer Freischankfläche: Gaststätte "Bosporus", Ohlmüllerstr. 26 Vertagung aus der Sitzung vom 28.06.2017
+- TOP 1.5.: Erweiterung einer bestehenden Freischankfläche: "Rosis Kaffeehaus", Rosenheimer Str. 2
+- TOP 2.: Anhörungen
+- TOP 2.2.: Skateboardkurs im Skatepark Postwiese von 28.-29.10.2017
+- TOP 2.3.: Haidhauser Weihnachtsmarkt vom 28.11.-24.12.2017
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verwendungsnachweis für Zuschuss aus dem Budget des BA 5, hier: Sommerfest Adelgundenheim
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.7.: Hochstr. 9-11: Erweiterung und Umbau eines Hotels um 71 Zimmer einschließlich Tiefgarage (20 Stellplätze) - Hausnr. 9: Erweiterung/Neubau von 65 Gästezimmern und Tiefgarage - Hausnr. 11: Umbau des Bürobereichs in 6 Gästezimmer, Anbindung an die Erschließung
+- TOP 2.10.: Bereiteranger 13: Aufstockung und Anbau an ein Wohngebäude sowie Nutzungsänderung im EG von Ladenwohnung zu Wohnung, Neubau von Garagen; Tektur => dazu: Bürgeranliegen bezüglich der Baustelle und Antwortschreiben der Lokalbaukommission
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ehemalige JVA Am Neudeck: Einsichtnahme von Unterlagen durch den BA 5 BA-Antrag Nr. 14-20 / B 03904 siehe TOP A 8.1.9
+- TOP 3.2.: Behandlung des Bauvorhabens Falkenstraße 11 in der Stadtgestaltungskommission Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 3.3.: Für ein Isarquartier der Kultur - Brücken zwischen Gasteig, Muffatwerk und Deutschem Museum schlagen Sitzungsvorlagen Nr. 14-20 / V 09579, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 10.10.2017
+- TOP 3.4.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 3.5.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 4.1.: Haussanierung Pariser Platz
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Ausbau des Umweltverbundes in Au-Haidhausen Vertagung aus der Sitzung vom 20.09.2017
+- TOP 1.2.: Informationen über den Stand der Planungen zum 2. S-Bahn-Tunnel (Antrag) Vertagung aus der Sitzung vom 20.09.2017
+- TOP 1.3.: Anträge / Bürgeranliegen zur Rosenheimer Straße: - Information über die Umsetzung und Beachtung des Tempolimits (Antrag) - Geschwindigkeitsbegrenzung Rosenheimer Straße / Balanstraße / Rablstraße (Bürgeranliegen) - Tempo 30 auf der Rosenheimer Straße (Bürgeranliegen) Vertagungen aus der Sitzung vom 20.09.2017
+- TOP 2.: Anhörungen
+- TOP 2.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20 / V 09501 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 25.10.2017 (VB)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Schulwegsicherheit an der Ernst-Reuter-Grundschule rund um die Kreuzung Grillparzer-/Einsteinstraße nach Fertigstellung des Altenheimes Anwortschreiben KVR
+- TOP 3.2.: Verkehrsrechtliche Anordnungen: - Haltverbot Nockherstr. 3 a - Aufhebung eines personenbezogenen Behindertenparkplatzes in der Zumpestr. 8 - Einrichtung eines personenbezogenen Behindertenparkplatzes in der Zeppelinstr. 16 - Fernwärmearbeiten in der Orleansstraße zwischen Gravelottestraße und Lothringer Straße von 04.10.-15.12.2017 - Materiallagerung auf öffentlichem Verkehrsgrund wegen Bauarbeiten in der Wolfgangstr. 9-11 vom 27.09.-01.12.2017
+- TOP 3.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2018 Beschluss der Vollversammlung des Stadtrates am 26.07.2017 Sitzungsvorlage Nr. 14-20 / V 09197
+- TOP 3.4.: Barrierefreier Ausbau Mariahilfplatz - Ersatzpflanzung Mitte November
+- TOP C: Verschiedenes und Termine
+- TOP 1.2.: Kooperationsplattform "Alfresco"; Anhörungsschreiben zu Technikpauschale und elektronischer Ladung Vertagung aus der Sitzung vom 20.09.2017
+- TOP 2.1.: UA Soziales 06.11.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 06.11.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 07.11.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 08.11.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 09.11.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 15.11.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 24.10.2017, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Sitzungstermine BA 5 in 2018 (Plenum, Vorstand, Unterausschüsse und Bürgerversammlung)
+- TOP 4.2.: Jahresempfang Kreisverband München des Bayerischen Roten Kreuzes am 23.11.2017 um 19 Uhr
+- TOP 4.4.: Einladung zur 200 Jahrfeier anlässlich der Geburt Bahá&#039;u&#039;lláhs am 22.10.2017 um 11 Uhr
+- TOP 4.5.: Informationsveranstaltung zum Nahbereichsausbau der Telekom am 23.10.2017 um 18.30 Uhr
