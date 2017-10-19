@@ -1,0 +1,139 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4275097
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4275097
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 10.4.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 4.6 Tempo-30 Zone an der Birthälmer Straße erweitern
+- TOP 1.3.2.: 4.7 Fertigstellung der Bebauung am Horst-Salzmann-Weg
+- TOP 1.3.3.: 4.8 Sozialbereich 14 Trudering-Riem / Berg am Laim neu bewerten? Wiedervorlage aus der Septembersitzung
+- TOP 1.3.4.: 4.9 Klare Standortentscheidung für Sozialbürgerhaus Berg am Laim / Trudering-Riem (SBH-BTR) statt Kehrtwende ins Ungewisse
+- TOP 1.3.5.: 4.10 Sozialbürgerhaus Berg-am-Laim/Trudering-Riem (SBH-BTR) in unmittelbarer Nähe zum S/U-Bahnhof Trudering; gemeinsam mit den Zweigstellen von VHS und Stadtbücherei
+- TOP 1.3.6.: 4.11 Sozialbürgerhaus für die Sozialregion Berg am Laim / Trudering-Riem am Truderinger Bahnhof situieren
+- TOP 1.3.7.: 7.1.3 Pyrotechnik Kategorie 2 im Anwesen Samoastraße am 22.12.2017 Termin: 06.11.17
+- TOP 1.3.8.: 7.4.14 Plenklweberweg 4, Fl.Nr.: 56/0 - Nutzungsänderung einer Teilfläche des Verkaufsraums eines Getränkemarkts zur Spielothek mit 8 Geldspielgeräten - VORBESCHEID
+- TOP 1.3.9.: 8.2.29 Anechostraße 19
+- TOP 1.3.10.: 8.2.30 Reiserstraße 1
+- TOP 1.3.11.: 8.2.31 Lebzelterstraße 18
+- TOP 1.3.12.: 8.2.32 Windhuker Straße 17
+- TOP 1.3.13.: 8.2.33 Taku-Fort-Straße 13
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Miteinander Trudering e.V. Anschaffungen für einen Mittagstisch für Kinder, Eltern und Senioren 1.380,00 €
+- TOP 3.2.1.: Paul-Wassermann-Straße / Werner-Eckert-Straße: Straßensperre wieder aufheben
+- TOP 3.2.2.: Bajuwarenpark - Fußweg Richtung Bushaltestelle Bus 139: Nutzbarkeit im Winter
+- TOP 3.2.3.: Thomas-Hauser-Straße: zu hohe Geschwindigkeit
+- TOP 3.2.4.: P+R-Parkplatz am Truderinger Bahnhof: Einführung eines Mehrtagestickets
+- TOP 3.2.5.: Helenenstraße - Radverkehr entgegen der Einbahnstraße zwischen Wasserburger Landstraße und Dorotheenstraße freigeben
+- TOP 3.2.6.: Am Mitterfeld - Nutzbarkeit der neuen Brücke für Radfahrer
+- TOP 3.2.7.: Bahnhof Trudering - Nutzerkonflikte Rad- und Fußverkehr: Lösungmöglichkeiten
+- TOP 3.2.8.: Batschkastraße - Beleuchtung des Weges in der öffentlichen Grünanlage
+- TOP 3.6.1.: Truderinger Bahnhof - Entfernung der Aschenbecher neben den Sitzbänken
+- TOP 4.1.: Schulbau & mehr in Gronsdorf-Nord nur mit ganzheitlichem Verkehrskonzept!
+- TOP 4.2.: Versammlungsstätte für den Stadtbezirk Trudering-Riem
+- TOP 4.3.: Bürgerversammlung für den Stadtbezirk Trudering-Riem in der Messe München
+- TOP 4.4.: Na endlich: SWM fördert niedrige Rücklauftemperaturen – wie profitieren die SWM-Kunden der Messestadt Riem davon?
+- TOP 4.5.: Zugänglichkeit zur S-Bahn-Station Riem von Süden her attraktiv halten
+- TOP 5.1.: Feuerwehrgerätehaus Riem - Parksituation
+- TOP 5.2.: Leonhardiweg / Ilmstraße - Verkehrssituation
+- TOP 5.3.: Am Hochacker als wichtigen Rad/Fuß-Verbindungsweg aufwerten
+- TOP 5.4.: Platz der Menschenrechte und Helsinkistraße - Beleuchtung des Verbindungsweges
+- TOP 5.5.: Ausstellung Stadtentwicklung im Münchner Nordosten auch in Riem präsentieren
+- TOP 5.6.: Taschenpark zwischen Georg-Kerschensteiner-Str. und Heinrich-Böll-Str. sanieren
+- TOP 5.7.: 5 Jahre nach der Ankündigung – wie geht es mit der Gleisbettsicherung bei der U-Bahn weiter?
+- TOP 5.8.: Truderinger Straße / Bajuwarenstraße - Umgestaltung des Knotens schulische Inklusion und Behindertenparkplatz
+- TOP 5.9.: Überprüfung der Ampelschaltungen auf der Strecke Höhe Einsteinring (Gemeinde Aschheim) bis zur Messestadt (Willy-Brandt-Allee) gemeinsames Antwortschreiben mit 5.10
+- TOP 5.10.: Wasserburger Landstraße - Grüne Welle gemeinsames Antwortschreiben mit 5.9
+- TOP 5.11.: Rostende Metallteile, gesprungene Glasscherben- Sanierung der Treppen- Einhausung und Bahnsteigsäulen am S-Bahnhof Trudering ist überfällig
+- TOP 5.12.: Pilotprojekt neuartige und pflegeleichte Pflanztröge für die Bahnstraße zur Begrünung und Verkehrsberuhigung
+- TOP 5.13.: Kindergartensituierung im Bebauungsplan 1958b
+- TOP 5.14.: Interkommunale Kooperation konkret umsetzen - jetzt die Weichen für eine Entlastung der Bahnstraße durch die Verlängerung des Rappenwegs realisieren gemeinsames Antwortschreiben mit TOP 5.15
+- TOP 5.15.: Wie geht es weiter mit Bahnstraße, Drosselweg und Rappenweg gemeinsames Antwortschreiben mit TOP 5.14
+- TOP 5.16.: Verbesserung der Buslinie Nr. 194. Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen.
+- TOP 5.17.: Hinwirken auf Eröffnung des Schulcampus Messestadt spätestens im September 2021
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Stadteigenes Grundstück Flst. 1476 (Tlfl.), Gemarkung Trudering-Riem An der Paul-Wassermann-Straße 15. Stadtbezirk Platz für die Lagerung von Christbäumen vom 17.11. bis 31.12.2017
+- TOP 7.1.2.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen Anhörung auf Satzungsänderung
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Matterhornstraße - Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.2.2.: Flughafen-Riem-Straße - Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.2.3.: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20 / V 09501 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 25.10.2017 (VB)
+- TOP 7.2.4.: Spieljochstraße - Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.2.5.: Schäßburger Straße - Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß § 13 der Bezirksausschusssatzung Elisabeth-Baerlein-Straße, Flst. 1660/4, Grundstück ohne Bebauung
+- TOP 7.3.2.: Bauleitplanung der Gemeinde Aschheim 42. Änderung des Flächennutzungsplanes Verfahren nach § 4 Abs. 1 BauGB
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Gerstäckerstraße 28, Fl.Nr.: 2253/42 - Neubau eines Wohnhauses
+- TOP 7.4.2.: Hochnißlstraße 13, Fl.Nr.: 1298/15 - Neubau einer Doppelhaushälfte mit Einliegerwohnung
+- TOP 7.4.3.: Hochnißlstraße 13, Fl.Nr.: 1298/15 - Neubau einer Doppelhaushälfte (2 WE) mit Carport
+- TOP 7.4.4.: Gottschalkstraße 4, Fl.Nr.: 189/52 - TEKTUR zu 1.2-2017-4175-32 - Neubau eines Mehrfamilienhauses (5 WE) mit Unterflurparker
+- TOP 7.4.5.: Otto-Lederer-Weg 54, Fl.Nr.: 446/8 - Aufstockung eines Einfamilienhauses mit Anbau zweier Balkone und Erhöhung des Wintergartendachs
+- TOP 7.4.6.: Waldschulstraße 75 - 75a, Fl.Nr.: 496/62 - Neubau eines Mehrfamilien- und eines Doppelhauses mit Tiefgarage
+- TOP 7.4.7.: Büchmannstraße 17, Fl.Nr.: 189/20 - Neubau eines Vierfamilienhauses mit 4 Stellplätzen
+- TOP 7.4.8.: Dualastraße 5, Fl.Nr.: 506/44 - Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage / hier: MFH - TEKTUR zu 1.2-2016-11732-32
+- TOP 7.4.9.: Flußaalweg 10, Fl.Nr.: 342/38 - Neubau eines Mehrfamilienhauses mit Einzel- und Duplexgarage
+- TOP 7.4.10.: Postweg 56, Fl.Nr.: 222/14 - TEKTUR zu 1.2-2017-12620-32 - Neubau eines Dreifamilienhauses mit Garagen - Haus 1
+- TOP 7.4.11.: Postweg 56, Fl.Nr.: 222/14 - TEKTUR zu 1.2-2017-12621-32 - Neubau eines Einfamilienhauses mit Garage - Haus 2
+- TOP 7.4.12.: Solalindenstraße 89, Fl.Nr.: 406/13 - Neubau 2er Doppelhäuser mit Tiefgarage
+- TOP 7.4.13.: Xaver-Weismor-Straße 71-73, Fl.Nr.: 96/0 - Neubau 2er Mehrfamilienhäuser mit Tiefgarage - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 14-20 / V Beschluss des Bildungsausschusses des Stadtrates vom 29.11.2017 (SB)
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Am Hochacker 51 Kathreinweg 1 Möwestraße 44
+- TOP 8.2.1.: Dachsteinstraße 29 Flußaalweg 10 Gerstäckerstraße 28 Häherweg 16 Heilwigstraße 38 Hochnißlstraße 13 (DH mit Einliegerwhg.) Hochnißlstraße 13 (DH mit Carport) Kameruner Straße 30 Kothieringerstraße 6 Markgrafenstraße 18 Möwestraße 44 - bereits durch UNB zugestimmt Neusatzer Straße 12 Otto-Lederer-Weg 54 Postweg 56 (Haus 1) Postweg 56 (Haus 2) Schneebergstraße 23 Schneebergstraße 28 Sperberstraße 56 Spieljochstraße 36 Taku-Fort-Straße 2 Tsingtauer Straße 27 Tsingtauer Straße 101 Turnerstraße 42 Wasserburger Landstraße 130 Widmannstraße 19 Xaver-Weismor-Straße 71-73 Zauberwaldstraße 4 Zeisigweg 9
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Sachberichte
+- TOP 10.1.1.1: Passionskonzert in St.Augustinus am 02.04.2017, Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V.
+- TOP 10.1.1.2: Kirchtruderinger Sommerkonzert "Unter freiem Himmel" am 30.06.2017
+- TOP 10.1.1.3: Anschaffung von Sportmatten, TSV Trudering
+- TOP 10.1.1.4: Projektwoche anlässlich der 125-Jahr-Feier an der GS Lehrer-Götz-Weg, Elternbeirat der Grundschule Lehrer-Götz-Weg
+- TOP 10.1.2.1: Maily 2, Schank- und Speisewirtschaft, Truderinger Straße 263, 81825 München
+- TOP 10.1.3.: Anhörung Riem Arcaden Run Variante 1 Willy Brandt Platz mit Grünanlage Riemer Park am 14.10.2017 gem.StVO, Art. 19 LStVG und Grünanlagensatzung Stellungnahme des KVR, dass nur Variante 2 genehmigungsfähig ist
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Erweiterung der Kurzparkregelung um 4 Plätze in der Werner-Eckert-Straße Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 10.2.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2018 Beschluss der Vollversammlung des Stadtrates am 26.07.2017 Sitzungsvorlage Nr. 14-20 / V 09197
+- TOP 10.2.3.: Information über das Betriebskonzept während der Schienenschleifarbeiten vom 16. bis 19.10. und von 22. bis 26.10.2017
+- TOP 10.2.4.: (U) EU-Projekt METAMORPHOSIS
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
+- TOP 10.3.2.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 10.3.3.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.3.1: Eigerstraße 46
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.6: UA Umwelt
