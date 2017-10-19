@@ -1,0 +1,106 @@
+# 12. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-10-19T17:00:00+02:00
+- Ende: 2017-10-19T21:55:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3895
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3895
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=225839
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Situation des Regionalsozialpädagogischen Dienstes (RSD) in Lichtenberg - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Wer verantwortet die lokale Kommunikation für Flüchtlingsstandorte? - beantwortet
+- TOP 8.2: Gewaltdelikte an Lichtenberger Schulen - beantwortet
+- TOP 8.3: Gewalt an Lichtenberger Schulen - erledigt
+- TOP 8.4: Schwimmunterricht an Lichtenberger Schulen - beantwortet
+- TOP 8.5: Wohnungsentwicklungen in Lichtenberg - beantwortet
+- TOP 8.6: Folgen von "Xavier" in Lichtenberg - beantwortet
+- TOP 8.7: Sturmtief Xavier - beantwortet
+- TOP 8.8: Folgen der Sturmschäden in Lichtenberg - beantwortet
+- TOP 8.9: Ablauf der Bundestagswahl in Lichtenberg - beantwortet
+- TOP 8.10: Künftige Kooperationen zwischen den Bezirken - beantwortet
+- TOP 8.11: Bahnhof Karlshorst - beantwortet
+- TOP 8.12: Spielplatz Regener Straße - beantwortet
+- TOP 8.13: Schulsituation in Rummelsburg - erledigt
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Erweiterung der Adam-Ries-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Spielplatz auf der "Oderbruchkippe" - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Rekommunalisierung der Schulreinigung - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Abstellanlagen für Kinderwagen, Rollstühle, Rollatoren, Fahrräder und Lastenfahrräder - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Bessere Anbindung an den ÖPNV im Prinzenviertel und Gebiet Blockdammweg - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Erstellung eines Flyers mit Standorten öffentlicher Toiletten - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Erneuerung des Skateparks am Weißenseer Weg 100 - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Verbindungstrakt zwischen zwei Gebäuden des Grünen Campus Malchow schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Prioritäten für die bauplanungsrechtliche Sicherung von Kleingartenanlagen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Schallschluckender und schadstoffreduzierender Asphalt bei der Erneuerung der Deckschicht der südlichen Fahrbahn der Straße Alt-Friedrichsfelde von Rosenfelder Straße bis Rhinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Zusätzliche PKW-Stellflächen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Parabolspiegel für mehr Sicherheit an der Kreuzung Schulze-Boysen-Straße/Ecke Pfarrstraße, Hauffstraße und Wiesenweg - überwiesen
+- TOP 9.13: Stadtteilkonferenz zu den Nachverdichtungspotenzialen im Fennpfuhl - überwiesen
+- TOP 9.14: Lichtenberg wird Mitglied im Bündnis "Kommunen für biologische Vielfalt e. V." - überwiesen
+- TOP 9.15: Erweiterter Verkehrssicherheitsbericht für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Straßenertüchtigung vorantreiben - überwiesen
+- TOP 9.17: Bessere Anbindung mit dem ÖPNV - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Bürgerservice in Neu-Hohenschönhausen mobil gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Transparenter Zeit-/Maßnahmenplan für die Sanierung von Schulgebäuden und Schulsporthallen in Lichtenberg - überwiesen
+- TOP 9.20: LEDs in`s Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Für eine Gemeinschaftsschule an der Allee der Kosmonauten 22 - überwiesen
+- TOP 9.22: Die BVV über die Erteilung von Abgeschlossenheitsbescheinigungen informieren - überwiesen
+- TOP 9.23: Bezirkshaushaltsrechnung 2016 - überwiesen
+- TOP 9.24: Anpassung der Anzahl der Stellplätze an Supermärkten und Discountern an den tatsächlichen geringeren Bedarf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Verkehrsberuhigung im Malchower Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: BVV-Sondermittel für das Gomel-Projekt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: BVV-Sondermittel für den Wartenberger Frühlingstag 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Sondermittel für Lagerarbeitsgemeinschaft Buchenwald-Dora e. V. (LAG) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: BVV-Sondermittel für den Förderverein Obersee & Orankesee e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.30: BVV-Sondermittel für den Theaterparcours "Ein Sommernachtstraum" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.31: Mehr Bürger*innenbeteiligung bei der Umsetzung und Fortschreibung des Lichtenberger Mobilitätskonzepts - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.32: BVV-Sondermittel für Herzberger Lichter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: BVV-Sondermittel für ein neues Multifunktionsgerät für den FVAJ e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: BVV-Sondermittel für den Europacup im Bogenlaufen 2017 in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.35: Sondermittel für bunte-liga-berlin e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Lichteffiziente Beleuchtung unter der Eisenbahnüberführung Schlichtallee (Frankfurter Bahn) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.37: Sondermittel für das Malchower Storchenfest 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.38: Schulweg von der Fahrbahn trennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.39: Gehwegverbindung zwischen Friedrichsfelde und Karlshorst verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.40: Integrationsfonds 2018/19 in gleicher Höhe wie bisher planen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.41: Verleihung der Bürgermedaille am 10. Oktober 2017 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.42: Teil-Änderung des Integrierten Stadtentwicklungskonzepts (ISEK) für das Stadtumbau- und Sanierungsgebiet Frankfurter Allee Nord, das mit Planungsstand 09/2014 am 04. November 2014 mit dem Beschluss 7/212/2014 vom Bezirksamt beschlossen worden ist - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.43: Vorhabenbezogener Bebauungsplan 11-94 VE - Behördenbeteiligung Arbeitstitel: westlich Ferdinand-Schultze-Straße/südlich Schleizer Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.44: Monitoring Lichtenberger Kindertagesstättenentwicklungsplan 2017 - überwiesen
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Große Anfragen - beantwortet
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: Machbarkeitsstudie zu Entwicklungspotentialen der bisherigen Vorhalteflächen für den 17. Bauabschnitt der A 100 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Verbesserung der Arbeitsbedingungen des bezirklichen Koordinators für die Willkommensklassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kein Zögern bei der TVO mehr! - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Jedes Mieterhöhungsverlangen und jede Betriebskostenabrechnung mit Hinweis auf unabhängige Mieter*innenberatung - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Vorhabenbezogener Bebauungsplan 11-114 VE - Planreife; Arbeitstitel: Genslerstraße 17 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Wohnraumbedarfe von Großfamilien decken - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Fließenden Verkehr in der Waldowallee ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Rheinpfalzallee 83 - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Lange Nacht der Politik weiterentwickeln - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Medizinische Versorgung verbessern - überwiesen
+- TOP 14.4: Religionskunde an der Volkshochschule - überwiesen
+- TOP 14.5: Alternative Lebensformen ermöglichen - zukunftssicherer Wagenplatz in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Moldaustraße von Verkehrslärm entlasten - in der BVV abgelehnt
+- TOP 14.7: Reinigung Turnhallen - in der BVV abgelehnt
+- TOP 14.8: Restaurierung und Denkmalschutz Wandbild - in der BVV abgelehnt
+- TOP 14.9: Urban Gardening in Lichtenberg - in der BVV abgelehnt
+- TOP 15: Vorlagen zur Beschlussfassung - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 17: Schließung der Sitzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
