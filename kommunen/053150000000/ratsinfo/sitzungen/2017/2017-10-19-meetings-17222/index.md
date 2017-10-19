@@ -1,0 +1,66 @@
+# 25. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-19T17:00:00+02:00
+- Ende: 2017-10-19T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17222
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17222
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00631973.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00631973.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00631973.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Einwohneranfrage des Bürgervereins Kalk e.V. vom 08.09.2017 betr. Erneuerung des Spielgerätes auf dem Spielplatz in Kalk, Markt - Kenntnis genommen
+- TOP -: Spielplatz Kalker Markt in Köln-Kalk - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Gewinnung von Außenspielfläche für die KGS Fußfallstraße in Köln-Merheim - geändert beschlossen
+- TOP 7.2: Auftragen von Fahrradschutzstreifen auf dem Hardtgenbuscher Kirchweg in Köln-Ostheim - ungeändert beschlossen
+- TOP 7.3: Zebrastreifen/Querungshilfe auf der Homarstraße und Kampgasse in Höhe des Kinderspielplatzes in Köln-Vingst - ungeändert beschlossen
+- TOP 7.4: Wildschweine in Köln-Merheim - ungeändert beschlossen
+- TOP 7.5: Parken auf dem Merheimer Heideweg in Köln-Höhenberg - ungeändert beschlossen
+- TOP 7.6: Schutz vor Wildpinklern am Bezirksrathaus Kalk - geändert beschlossen
+- TOP 7.7: Immobilien- und Standortgemeinschaft Kalker Hauptstraße in Köln-Kalk - geändert beschlossen
+- TOP 7.8: Verbesserung der aktuellen Situation an den beiden Schule Kapitelstraße 24-26 in Köln-Kalk - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - geändert beschlossen
+- TOP -: Aufstellung von Fahrgastunterständen im Busbereich - ungeändert beschlossen
+- TOP 8.1.2: Einrichtung eines kriminalpräventiven Rates für den Stadtbezirk Kalk für den Rest der Ratsperiode 2014/2020 - geändert beschlossen
+- TOP 8.1.3: Starke Veedel - Starkes Köln - Sozialraum Ostheim und Neubrück Hier: Zuwendung aus dem städtischen Aktivierungsfonds für Projekte im Sozialraum Ostheim und Neubrück - ungeändert beschlossen
+- TOP 8.1.4: Starke Veedel - Starkes Köln Hier: Zuwendung aus dem städtischen Aktiverungsfonds für Projekte im Sozialraum Höhenberg und Vingst - ungeändert beschlossen
+- TOP 8.1.5: Vergabe eines weiteren Teils der bezirksorientierten Mittel für das Jahr 2017 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Fahrgastunterstand als Wetterschutz an der Bushaltestelle der KVB-Linie 157„Gewerbegebiet Broichstraße“ (Olpener Straße) in Köln-Merheim, von Dünnwald kommend in Fahrtrichtung Ostheim - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Fahrverbote im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.2: Leerstand von Wohnraum im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.3: Sachstand zur Überplanung der Grünfläche neben dem Haus Ostmerheimer Str. 214 und Einzäunung der Parkbucht vor Haus Ostmerheimer Str. 265 in Köln-Merheim - Kenntnis genommen
+- TOP 9.2.4: Sachstand Fahrbahnsanierung Zoobrücke - Kenntnis genommen
+- TOP 9.2.5: Sachstand der Schulbauten im Stadtbezirk Kalk-Weitere Schulcontainerstandorte im Stadtbezirk Kalk: Umsetzung vor Ort - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 10.2.3: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 10.2.4: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 10.2.5: Bürgereingabe gem. § 24 GO Einrichtung einer "echten" Einbahnstraße "Auf der Bitze" und Verkehrslenkung in den Straßen "Rather Schulstraße" und "In der Hütte" (AZ: 02-1600-33/17) - Kenntnis genommen
+- TOP 10.2.6: Kooperatives Werkstattverfahren Hallen Kalk; Mitteilung der Verwaltung zum Ergebnis und Ausblick auf die weitere Planung - Kenntnis genommen
+- TOP 10.2.7: Planfeststellungsverfahren gem. §§ 18 ff des Allgemeinen Eisenbahngesetzes (AEG) für die ICE-Neubaustrecke Köln - Rhein/Main - Kenntnis genommen
+- TOP 10.2.8: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
