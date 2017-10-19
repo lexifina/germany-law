@@ -1,0 +1,92 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-10-19T16:00:00+02:00
+- Ende: 2017-10-19T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17083
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17083
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00633649.pdf
+- Ergebnisprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00633649.pdf
+- Wortprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00633649.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Fällung eines Baumes an der Kyotostraße - zurückgestellt
+- TOP 3.2: Beschlussvorlage für die Weiterentwicklung; Der städtebauliche Masterplan für die Innenstadt Köln - ungeändert empfohlen
+- TOP 3.3: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - ungeändert empfohlen
+- TOP 3.4: Gesamtverkehrskonzept Köln, 8. Änderung - ungeändert empfohlen
+- TOP 3.5: Radverkehrskonzept Innenstadt - mit Änderungen empfohlen
+- TOP 3.5.1: Änderungsantrag zur Vorlage „Radverkehrsführung an den Kölner Ringen"
+- TOP 3.5.2: Änderungsantrag SPD
+- TOP 3.6: Versetzung einer Stadtinformationsanalge vor dem Grundstück Neuköllner Str. 2 in Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 3.7: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - ungeändert empfohlen
+- TOP 3.8: Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - mit Änderungen empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Fahrbahnmarkierung in der Domumgebung (Az.: 02-1600-170/16) - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Fußgängerüberweg (Az.: 02-1600-66/17) - ungeändert beschlossen
+- TOP 4.4: Platanen in der Innenstadt - ungeändert empfohlen
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Tempo 30 auf der Dr.-Simons-Straße - zurückgestellt
+- TOP 5.1.2: Josef-Schwartz-Anlage - zurückgestellt
+- TOP 5.1.3: Anlieferungsstreifen REWE Markt Jülicher Str. - zurückgestellt
+- TOP 5.1.4: Haus Ludolf-Camphausen-Straße 36 erhalten - zurückgestellt
+- TOP 5.1.5: Höhere Verkehrssicherheit für Kinder am Bunkerspielplatz und in der Teutonenstr. - zurückgestellt
+- TOP 5.1.6: Attraktivierung des Josef-Haubrich-Hofes (Altstadt/Süd) - zurückgestellt
+- TOP 5.1.7: Storchenparkpätze und E-Ladezonen Parkplätze für das Severinsklösterchen - zurückgestellt
+- TOP 5.1.8: Prüfung Radweg Venloer Straße - zurückgestellt
+- TOP 5.1.9: Verengung der Zufahrt zum Ottoplatz am Deutzer Bahnhof - zurückgestellt
+- TOP 5.1.10: Parken am Chelsea Hotel - zurückgestellt
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Radabstellanlagen Alteburger Straße 26-28 - zurückgestellt
+- TOP 5.2.2: Sanierung des Fußgänger Klingelpütz/Plankgasse (Altstadt/Nord), Antrag SPD - ungeändert beschlossen
+- TOP 5.2.3: Verbesserung der Beleuchtungssituation des Fußgängerwegs zwischen Im Sionstal und Severinstraße, Antrag FDP - zurückgestellt
+- TOP 5.2.4: Fahrbahnparken Brüsseler Straße - zurückgestellt
+- TOP 5.2.5: Behindertengerechte Toilette im Umfeld des Neumarkts/Apostelnstraße, Antrag SPD - ungeändert beschlossen
+- TOP 5.2.6: LED-Beleuchtung der -1Ebenen am Eberplatz - ungeändert beschlossen
+- TOP 5.2.7: Murals in der Innenstadt, Antrag SPD - ungeändert beschlossen
+- TOP 5.2.8: Mehr Bänke in der Theodor-Heuss-Anlage - ungeändert beschlossen
+- TOP 5.2.9: Beleuchtung des Klingelpützparks (Altstadt/Nord), Antrag SPD - ungeändert beschlossen
+- TOP 5.2.10: entfallen
+- TOP 5.2.11: Vergabe der bezirksorientierten Mittel und Mittel zur Kulturförderung, Gemeinsamer Antrag - ungeändert beschlossen
+- TOP 5.2.12: Sicherheitsmassnahmen am Ebertplatz - zurückgestellt
+- TOP 6: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Umsetzung der Multifunktionszonen vor Veranstaltungsorten
+- TOP 7.1.1: Umsetzung der Multifunktionszonen vor Veranstaltungen
+- TOP 7.2: Gewerbliches Vermieten von öffentlichem Strassenraum vor Garagen
+- TOP 7.2.1: Gewerbliches Anmieten von öffentlichem Straßenraum vor Garagen
+- TOP 7.3: Sachstand "Kuhle" im Römerpark - Sportplatz an der Rheinuferstraße - zurückgestellt
+- TOP 7.4: Briefkästen am Chlodwigplatz
+- TOP 7.4.1: Briefkästen am Chlodwigplatz
+- TOP 7.5: Ladezone vor den Häusern Deutzer Freiheit 112 und 114
+- TOP 7.5.1: Ladezone vor den Häusern Deutzer Freiheit 112 und 114
+- TOP 7.6: Obdachlosen-/“Alkoholkonsum“-Szene auf der Deutzer Freiheit - zurückgestellt
+- TOP 7.7: Veranstaltungen am nördlichen Rheinufer zwischen Hohenzollern- und Zoobrücke - zurückgestellt
+- TOP 8: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 8.1: Gastronomien in der Passage Ebertplatz, Anfrage SPD - zurückgestellt
+- TOP 8.2: Spiel- und Sportgeräte im Klingelpützpark (Altstadt/Nord), Anfrage SPD - zurückgestellt
+- TOP 8.3: Zukunft der Mini-Bibliothek im Stadtgarten
+- TOP 8.3.1: Zukunft der Mini-Bibliothek im Stadtgarten
+- TOP 8.4: Lackierung am U-Bahn-Abgang Bonner Wall - zurückgestellt
+- TOP 9: Mündliche Fragen an die Verwaltung
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Yitzhak-Rabin-Platz, Sachstand zur Realisierung des Wettbewerbs zur Aufwertung eines innerstädtischen Freiraums - Kenntnis genommen
+- TOP 11.2: Fahrradstreife beim Ordnungs- und Verkehrsdienst, TOP 5.1.11 - AN/1763/2016 - Kenntnis genommen
+- TOP 11.3: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 11.4: Kölner Stadtmodell; Erweiterung um zrei Modellbauplatten - Kenntnis genommen
+- TOP 11.5: Rheinboulevard Kiosk - Kenntnis genommen
+- TOP 11.6: Ergebnisprotokoll der 12. Sitzung des Kunstbeirates in der Ratsperiode 2014-2020 am 7.9.2017 - Kenntnis genommen
+- TOP 11.7: Bürgereingabe gem. § 24 GO "Durchgangsverkehr Trajanstraße und Maternusstraße - Kenntnis genommen
+- TOP 11.8: Mitteilung über eine Kostenerhöhung gegenüber dem erweiterten Baubeschluss zur Umsetzung des Brandschutzes an der Haltestelle Poststraße - Kenntnis genommen
+- TOP 11.9: Sanierung der Beleuchtungsanlage zur Anstrahlung der Hohenzollernbrücke - Kenntnis genommen
+- TOP 11.10: Sachstandsinformation zur Aufstellung von Bänken, u.a am Karl-Berbuer-Platz - Kenntnis genommen
