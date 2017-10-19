@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-10-19T14:00:00+02:00
+- Ende: 2017-10-19T19:11:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13475
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13475
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302705.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302705.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00302705.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell: Lufthansa gegen Kapazitätserweiterung am Flughafen Düsseldorf - beantwortet
+- TOP 4: Anfragen - beantwortet
+- TOP 4.1: Anfrage CDU: Was ist aus dem „Energie- und Klima-Gipfel“ geworden? - beantwortet
+- TOP 4.2: Anfrage des Ratsherrn Maniera: Asylbewerberkosten und Familiennachzug - beantwortet
+- TOP 4.3: Anfrage des Ratsherrn Grenda: Datenschutz-Grundverordnung - beantwortet
+- TOP 4.4: Anfrage des Ratsherrn Grenda: Waffen und Munition in Düsseldorf - beantwortet
+- TOP 4.5: Anfrage des Ratsfraktion Tierschutz FREIE WÄHLER: Wird der OSD mit Schlagstöcken ausgerüstet? - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion Tierschutz/FREIE WÄHLER: U81 - 1. Bauabschnitt - beantwortet
+- TOP 4.7: Anfrage der Ratsfrau Krüger: Population der Wildgänse - beantwortet
+- TOP 5: Bereitstellung von überplanmäßigen Mitteln für das Projekt Grand Départ Düsseldorf 2017 - mehrheitlich abgelehnt
+- TOP 5.1: Änderungsantrag des Ratsherrn Grenda: Bereitstellung von überplanmäßigen Mitteln - mehrheitlich abgelehnt
+- TOP 6: Entwurf Jahresabschluss 2016 - einstimmig beschlossen
+- TOP 7: Kämmererliste - zur Kenntnis genommen
+- TOP 8: Dieter Forte Gesamtschule - Erneuerung der Energieversorgung, Lüftungs- und - einstimmig beschlossen
+- TOP 9: Ausführungs- und Finanzierungsbeschluss zum Radweg - mehrheitlich beschlossen
+- TOP 10: Notwendige Sanierungen am Gebäude der Deutschen Oper am Rhein, - einstimmig beschlossen
+- TOP 11: Sanierung von Dach und Fassade des Schauspielhauses am Gustaf-Gründgens-Platz - einstimmig beschlossen
+- TOP 12: Sanierungen und Umbaumaßnahmen der öffentlichen Bereiche des Düsseldorfer Schauspielhauses am Gustaf - einstimmig beschlossen
+- TOP 13: Garath 2.0 – Den Wandel gestalten - einstimmig beschlossen
+- TOP 13.1: Änderungsantrag der CDU-Ratsfraktion: Garath 2.0 - Den Wandel gestalten - mehrheitlich beschlossen
+- TOP 13.2: ÄA Die Linke: Garath 2.0 - Den Wandel gestalten ........ - mehrheitlich abgelehnt
+- TOP 14: Fortschreibung des Regionalplans Düsseldorf (RPD) - mehrheitlich beschlossen
+- TOP 15: Klimaschutzkonzept Düsseldorf 2025 - Beschluss - - einstimmig beschlossen
+- TOP 15.1: EA Klimaschutzkonzept Düsseldorf 2025 - mehrheitlich beschlossen
+- TOP 16: Düsseldorfer Schulbauleitlinie - einstimmig beschlossen
+- TOP 17: Mobilitäts-Partnerschaft - einstimmig beschlossen
+- TOP 18: Schließung der Methadon- und Drogenambulanz des Gesundheitsamtes - verwiesen
+- TOP 18.1: ÄA SPD, BÜ90/GRÜ und FDP- Schließung der Methadon- und Drogenambulanz - zur Kenntnis genommen
+- TOP 19: Verwaltungsvereinbarung der Ämter 66 und 67 über Straßenentwässerungsanlagen des Amtes 66 - einstimmig beschlossen
+- TOP 20: Einsatz von Gebärdendolmetscherinnen/-dolmetschern während der öffentlichen Teile der Ratssitzungen - einstimmig beschlossen
+- TOP 21: Regionalmanagement Düsseldorf - Kreis Mettmann - einstimmig beschlossen
+- TOP 22: Gründung der Tonhalle Düsseldorf gGmbH - zurückgezogen
+- TOP 23: Aufsicht der RheinCargo GmbH&Co.KG - Ersatzwahl - einstimmig beschlossen
+- TOP 24: Aufsichtsrat der Holding der Landeshauptstadt Düsseldorf GmbH - Neuwahl - einstimmig beschlossen
+- TOP 25: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 26: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: FNP-Änderung Nr. 160 - Kölner Straße / Moskauer Straße - einstimmig beschlossen
+- TOP 28: Flächennutzungsplan -Änderung Nr.169 -Wacholderstr. - mehrheitlich beschlossen
+- TOP 29: Bebauungsplan-Entwurf Nr. 05/006 (eh. 5487/009) - mehrheitlich beschlossen
+- TOP 30: Bebauungsplan-Entwurf Nr. 05/002 (eh. 5488/019) - mehrheitlich beschlossen
+- TOP 31: Anträge - zur Kenntnis genommen
+- TOP 31.1: Antrag CDU: Wachstum und Kooperation – Wohnraummanagement in der Region - verwiesen
+- TOP 31.2: Antrag DIE LINKE: Protokolle veröffentlichen" - mehrheitlich abgelehnt
+- TOP 31.3: Antrag von Bü90/Grü, CDU, SPD und FDP: Sozialticket weiter sicherstellen - einstimmig beschlossen
+- TOP 31.3.1: EA Die Linke: Sozialticket weiter sicherstellen und zu einem günstigeren Preis anbieten - mehrheitlich abgelehnt
+- TOP 31.3.1.1: Antrag der Ratsfraktion BÜNDNIS90/DIE GRÜNEN: Umgang mit Wildgänsen auf öffentlichen Grünflächen - mehrheitlich beschlossen
+- TOP 32: Bildung des Amtes 54 - Amt für Migration und Integration - zur Kenntnis genommen
+- TOP 33: Sportbeirat der Düsseldorf Congress Sport & Event GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 34: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 35: Aufsichtsrat Jugendberufshilfe - einstimmig beschlossen
