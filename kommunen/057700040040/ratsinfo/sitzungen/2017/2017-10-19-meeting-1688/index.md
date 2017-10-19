@@ -1,0 +1,60 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2017-10-19T17:00:00+02:00
+- Ende: 2017-10-19T20:15:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWWqB8Cmd2NsZHKHiqe4q1E
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1688
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTrNfX5pynVt4YtN4pmHBKoC4FldTNNaEQwi5czxEM7m/Bekanntmachung_Rat_19.10.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU2AkLTCsp3CZiZOYIllq1nd-S4L6KoGg55Oxsm6x-I4/Oeffentliche_Niederschrift_Rat_19.10.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Antrag der Firma Heinrich Meier Eisengießerei GmbH & Co. KG, Auf der Welle 5-7, 32369 Rahden, auf Einziehung der Gemeindestraße "Auf der Welle" im Abschnitt von der "Weher Straße" bis zur Einmündung der Straße "Lange Reihe" zum Zwecke der Nutzung als Werkstraße; a) Beratung und Beschlussfassung über die eingegangenen Einwendungen gemäß § 7 Abs. 4 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NRW) b) Beratung und Beschlussfassung über die Einziehung der Teilstrecke der Straße "Auf der Welle", Gemarkung Rahden Flur 6 Flurstücke 412, 413, 414 und 483, gemäß § 7 Abs. 1 StrWG NRW - 28 Stimmen dafür, 3 dagegen, 1 Enthaltungen
+- TOP 5.: Umsetzung des Verkehrszeichenplans im Umfeld der Straßen "Stellerloh" und "Lange Reihe" - 27 Stimmen dafür, 1 dagegen, 4 Enthaltungen
+- TOP 6.: Ausbau des städtischen Wegegrundstückes Gemarkung Rahden Flur 8 Flurstück 7 zu einem Geh- und Radweg - 27 Stimmen dafür, 5 dagegen, 0 Enthaltungen
+- TOP 7.: Erlass einer Satzung der Stadt Rahden über die Aufhebung der Zweckbestimmung als Wirtschaftsweg für das Grundstück Gemarkung Rahden Flur 8 Flurstück 245 sowie Widmung des vorgenannten Grundstückes nach dem Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NRW) - 29 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 8.: 15. Änderung des Bebauungsplanes Nr. 13 "Gerichtsstraße/Flachsstraße" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 und § 4 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - 32 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 9.: 3. Änderung und Erweiterung des Bebauungsplanes Nr. 40 "Ortskern Tonnenheide - Neuaufstellung" zur Ausweisung des neuen Sportplatzes Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 10.: 81. Änderung des Flächennutzungsplanes der Stadt Rahden zur nördlichen Ortsrandarrondierung in der Ortschaft Pr. Ströhen Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung des Änderungsplanes für die 81. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 11.: Aufstellung des Bebauungsplanes Nr. 92 "Reitschule Bössel" sowie 80. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 92 "Reitschule Bössel" sowie des Änderungsplanes für die 80. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 12.: 7. Änderung des Bebauungsplanes Nr. 8 „Am Krankenhaus" Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gem. § 13a Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 7. Änderung des Bebauungsplanes Nr. 8 „Am Krankenhaus“ gem. § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 13.: Aufstellung des Bebauungsplanes Nr. 93 "Kleinendorf - Holunderweg" und 82. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) zur Ausweisung einer Wohnbaufläche in der Ortschaft Kleinendorf - 32 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 14.: 72. Änderung des Flächennutzungsplanes der Stadt Rahden zur Steuerung der Windenergienutzung im Stadtgebiet - 14 Stimmen dafür, 14 dagegen, 3 Enthaltungen
+- TOP 15.: Städtebauförderungsgebiet "Aktives Stadtzentrum" Innenstadt Rahden; hier: Änderung der Vergaberichtlinie der Stadt Rahden über die Gewährung von Zuwendungen zur Förderung der Profilierung und Standortaufwertung im Sanierungsgebiet "Rahden-Innenstadt" - Einstimmig, 0 Enthaltungen
+- TOP 16.: Barrierefreier Ausbau von Bushaltestellen im Stadtgebiet - Einstimmig, 0 Enthaltungen
+- TOP 17.: Ersatzwahlen für den Haupt- und Finanzausschuss - Einstimmig, 0 Enthaltungen
+- TOP 18.: Ersatzwahl von Dienstkräften der Stadtsparkasse Rahden als Mitglieder und stellvertretende Mitgliedern für den Verwaltungsrat der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 19.: Befristete Verlängerung der Stelle eines Mitarbeiters/einer Mitarbeiterin für Flüchtlingsbetreuung und -integrationsarbeit - 29 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 20.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2016; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 22.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2016; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 23.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2016 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Feststellung des Gesamtabschlusses der Stadt Rahden zum 31.12.2016 - Einstimmig, 0 Enthaltungen
+- TOP 25.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2017
+- TOP 26.: Entwurf der Haushaltssatzung 2018 mit Haushaltsplan
+- TOP 27.: Erlass einer neuen Satzung über die Abfallentsorgung in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 28.: Bürgeranregung nach § 24 Gemeindeordnung (GO NRW) zur Adressweitergabe an die Bundeswehr - Einstimmig, 0 Enthaltungen
+- TOP 29.: Bekanntgaben
+- TOP 30.: Verschiedenes
+- TOP 30.1: Ausbaumaßnahme "Grüner Weg"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 31.: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 32.: Abgabenangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 33.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - 28 Stimmen dafür, 0 dagegen, 2 Enthaltungen
+- TOP 34.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 35.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 36.: Bekanntgabe der im II. Quartal 2017 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 37.: Grundstücksangelegenheiten
+- TOP 37.1: Veräußerung von Grundstücksflächen - 25 Stimmen dafür, 2 dagegen, 1 Enthaltungen
+- TOP 37.2: Erwerb einer landwirtschaftlichen Tauschfläche und Veräußerung einer Gewerbefläche im Gewerbegebiet Süd - Einstimmig, 0 Enthaltungen
+- TOP 38.: Bekanntgaben
+- TOP 39.: Verschiedenes
