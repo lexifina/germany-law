@@ -1,0 +1,13 @@
+# Änderung der "Richtlinie der Stadt Bad Pyrmont zur Förderung von kulturellen Vereinen und Einrichtungen sowie sportlichen Vereinen für Investitions- und sonstige Zuschüsse"
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 222/2017 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2017-10-24
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZj1LeNAVsWqqHG3qKMUY4w
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/6065
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Änderung der "Richtlinie der Stadt Bad Pyrmont zur Förderung von kulturellen Vereinen und Einrichtungen sowie sportlichen Vereinen für Investitions- und sonstige Zuschüsse") https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ_00ojFdG2Il097hoZYohH4zSEUJQAsJ1I2mFisxylx/Beschlussvorlage_222-2017_1._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17311 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/17312 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-198
