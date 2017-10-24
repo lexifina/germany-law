@@ -1,0 +1,146 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-10-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123900
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123900
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.: MS Utting, Lärmschutzgutachten und Sicherheitskonzept; Information des BA 6 Sendling
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.1.: Thalkirchner Straße 110, Stellungnahme des BA 2
+- TOP 5.2.: Schlachthofviertel; Erhaltungssatzung läuft aus, Ausarbeitung eines Antrages, vgl. TOP A 1.2
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.1.: Bürgeranliegen, Rückfragen zu Bauvorhaben Fraunhoferstraße 10 (vgl. 2017.10 B 4.7)
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.1.: Glockenbach, Radfahrer auf Fußgängerwege, Verunsicherung älterer Bürgerinnen und Bürger, vgl. Bürgerfragen 2017.09 II Nr. 6, Erarbeitung einer Stellungnahme im Unterausschuss
+- TOP 5.3.: Müller- Ecke Kollosseumstraße, Freischankfläche, vgl. 2017.09 C 5.4, Überprüfung Bezirksinspektion
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: BA-Anfrage: Stärkung des Wohnens im südlichen Bahnhofsviertel am Beispiel der Paul-Heyse-Straße 30 - 34
+- TOP 1.2.: BA-Antrag: Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung „Schlachthofviertel“; PLENUMSBESCHLUSS
+- TOP 1.3.: BA-Antrag mit Dringlichkeit: Einen würdigen Zustand der Gedenkstätte für das israelitische Krankenhaus Hermann-Schmid-Straße 5-7 sicherstellen, PLENUMSBESCHLUSS
+- TOP 2.1.: (E) Schadstoff- und Lärmbelastung am Spielplatz Roecklplatz Empfehlung Nr. 14-20 / E 01254 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Zwischenprost e.V. Clubfestival "manic street parade" am 27./28.10.2017 2.831,21 Euro
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "The Pissoir" Projekt "The Pissoir" im Herbst 2017 1.220,00 Euro
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Ritter des Heiligen Lazarus zu Jerusalem - Priorat in Deutschland e.V. Benefizkonzert am 13.10.2017
+- TOP 3.2.: Planung der SommerSpielAktion 2018, PLENUMSBESCHLUSS
+- TOP 5: Sonstiges
+- TOP 5.3.: Bürgeranliegen Viehhof- und Schlachthofgelände; Verhinderung weiterer Lärmquellen, PLENUMSBESCHLUSS
+- TOP 5.4.: Bürgeranliegen; Nutzung Viehhofgelände, PLENUMSBESCHLUSS
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Fraunhoferstraße, 42, Nutzungsänderung im EG: Ladenbereich zu Gastraum; 1.OG: Praxis zu Wohnung
+- TOP 3.1.2.: Pettenkoferstraße 2, Umbau und Erweiterung (Anbau) der Gaststätte im EG
+- TOP 3.1.3.: Bavariaring 47, Sanierung, DG-Ausbau, Nutzungsänderung (denkmalgeschütztes Wohnhaus zu Corpshaus Studentenverbindung mit Wohnheimnutzung), zusätzliche Wohneinheit und Errichtung einer Notleiter
+- TOP 3.1.4.: Fraunhoferstraße 12, Umbau und Erweiterung einer Ladeneinheit im EG
+- TOP 3.1.5.: Pestalozzistraße 18, Nutzungsänderung: Ladeneinheit im Souterrain zu Wohnung
+- TOP 3.1.6.: Waltherstraße 31, Neubau Boardinghouse (Beherbergungsbetrieb, max. Bettenzahl 98) mit Supermarkt und Tiefgarage
+- TOP 3.1.7.: Schillerstraße 24, Nutzungsänderung: Nachtbar mit Kabarett zu Wettbüro
+- TOP 3.1.8.: Sonnenstraße 2, Dachsanierung und -Ausbau mit Nutzungsänderung
+- TOP 3.1.9.: Herzog-Heinrich-Straße 2, Umbau des Dachgeschosses (DG-Rückbau und Rekonstruktion der ursprünglichen Dachkontur), Nutzungsänderung: Büro- zu Wohnnutzung (ursprüngliche Nutzung) - Vorbescheid
+- TOP 3.1.10.: Reichenbachstraße 24, Neubau eines Penthousegeschosses in Holzbauweise auf ein Wohngebäude im Innenhof
+- TOP 3.1.11.: Thalkirchner Straße 80; Tektur – Sanierung 2er Wohngebäude, Ausbau 2er DGs (VGB + RGB) zu Wohnungen mit Gauben und Dachterrassen, Grundrissänderungen, Traufanhebung des Erkers am VGB, Einbau 2er Aufzüge, Anbau von Balkonen, Errichtung einer Dachterrasse auf dem Zwischengebäude, Nutzungsänderung (EG ZGB + RGB): Lager + Versand Buchbinderei zu Wohnungen, Umbau und Erweiterung des Lichthofs, Nutzungsänderung (UG): Lager- zu Schulungsräume
+- TOP 3.1.12.: Landwehrstraße 25, Nutzungsänderung mit Erweiterung einer gastronomischen Fläche im EG / rechts mit Errichtung und Unterfangung zweier Wanddurchbrüche
+- TOP 3.1.13.: Klenzestraße 1, Tektur – Neubau RGB Rumfordstr. 32 (Beherbergungsbetrieb mit 45 Zi.), Erweiterung der TG Rumfordstr. 32; Klenzestr. 1 / Rumfordstr. 32 (VGB): Einbau 2er Autolifte und eines 2. Treppenhauses, Neuorganisation der Rettungswege, Errichtung e. Notleiter u. Von 5 neuen Apartments im 1.-5. OG, Ausbau des Trockenspeichers im 8. OG zu e. Wohnung, Einbau von Dachgauben im 7. + 8. OG / Hofseite, Erweiterung des Haupttreppenhauses, Umbau Waschsalon mit Café, Errichtung e. Müllraums, Nutzungsänderung Klenzestr. 1: Arbeiterwohnheim für Frauen mit 60 Betten (1.-5. OG) zu 34 Wohn-Apartments sowie Gemeinschaftsräume (6.OG) zu 4 neuen Wohn-Apartments
+- TOP 3.1.14.: Landwehrstr. 24, Nutzungsänderung Seiten- und Rückgebäude
+- TOP 3.1.15.: Thalkirchner Straße 110, Errichtung Veranstaltungsgelände mit Veranstaltungs-/ Gastro-Pavillon und -Waggons, Container- und Gewächshäusstellungen mit Atelier- und Büronutzung sowie Außenveranstaltungsflächen, befristet auf 5 Jahre (Thalkirchner Str. 110 / Tumblingerstr. 29), PLENUMSBESCHLUSS
+- TOP 3.1.16.: Häberlstraße 3, Erneuerung des Dachstuhls mit DG-Ausbau sowie Errichtung einer Dachterrasse und eines Außenkellers
+- TOP 3.1.17.: Häberlstraße 13 /RGB, Errichtung von Balkonen
+- TOP 3.3.1.: Beschlussentwurf, Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017, Sitzungsvorlagen Nr. 14-20 / V 09501, siehe auch C 3.2.1
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Bürgeranliegen, Fragen zu Planungen / Stadtratsentscheidung bzgl. Klenzesteg - Plenumsbeschluss
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Lindwurmstraße 10, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Kapuzinerstraße 48, Erweiterung einer Freischankfläche
+- TOP 2.1.3.: Bahnhofplatz 1, Genehmigung einer Freischankfläche, vgl. Vertagung 2017.09 C 2.1.2
+- TOP 2.1.4.: St.-Paul-Straße 4, Freischankfläche, vgl. Vertagung 2017.09 C 2.1.3, aktuelle Beschwerde
+- TOP 2.1.5.: Baaderstraße 1, Genehmigung einer Freischankfläche
+- TOP 2.1.6.: Zweibrückenstraße 10, Genehmigung einer Freischankfläche, vgl. TOP 2017.08 C 2.1.3, Schreiben des Kreisverwaltungsreferates vom 20.10.17, PLENUMSBESCHLUSS
+- TOP 2.3.1.: Buttermelcherstraße 5, Antrag für zwei Sitzgelegenheiten
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Schluss- und Erfahrungsbericht Oktoberfest 2017, Anforderung des Referates für Arbeit und Wirtschaft
+- TOP 3.1.2.: Oktoberfest 2017 – Erfahrungsbericht aus verkehrlicher Sicht von BA 2, BA 6 und BA 8
+- TOP 3.1.3.: Marktveranstaltung „Pink Christmas“ auf dem Stephansplatz vom 27.11.2017 bis 23.12.2017
+- TOP 3.2.1.: Beschlussentwurf, Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017, Sitzungsvorlagen Nr. 14-20 / V 09501, siehe auch B 3.3.1
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Bürgerbeschwerde Landwehrstraße 40
+- TOP 5.4.: Bürgeranliegen; Theresienwiese, PLENUMSBESCHLUSS
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Alfresco; Technik-Pauschale und elektronische Ladung; Anhörungsschreiben des Direktoriums vom 17.08.2017, vgl. Vertagung 2017.09 D 1.1, PLENUMSBESCHLUSS
+- TOP 1.2.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen; Antrag auf Satzungsänderung, Anhörungsschreiben des Direktoriums vom 02.10.2017, PLENUMSBESCHLUSS
+- TOP 2.1.: Unterausschuss „Kultur, Jugend, Soziales“ am Montag, den 06.11.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Öffentlicher Raum, Mobilität“ am Dienstag, den 07.11.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Planen, Bauen“ am Mittwoch, den 08.11.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am 13.11.2017 in der Geschäftsstelle Mitte, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 21.11.2017 um 19 Uhr im Saal in der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Verwaltung und Polizei werden aufgefordert, Delikte aufgrund von Homophobie gesondert zu erfassen
+- TOP A 4.4.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP A 4.5.: Zusammenstellung der gebundenen Ganztagsschulklassen an den Grundschulen im Schuljahr 2017/18, Email des Referates für Bildung und Sport
+- TOP A 4.6.: (U) EU-Projekt METAMORPHOSIS
+- TOP A 4.7.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP A 4.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Geförderter Wohnungsbau in München, Sitzungsvorlagen Nr. 14-20 / V 09560, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017 (VB)
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Erhardtstraße 10; Tektur, Neubau eines Wohngebäudes (VGB + RGB) mit Tiefgarage, Baugenehmigung gemäß Art. 60 und 68 (BayBO) mit aufschiebender Bedingung
+- TOP B 4.3.: Die Stadt stellt im Stadtbezirk 2 Flächen städtischer Gebäude für die Begrünung ihrer Fassaden zur Verfügung
+- TOP B 4.4.: Übergang Braunauer Eisenbahnbrücke für Fußgänger, Empfehlung Nr. 14-20 / E 00755 der Bürgerversammlung des BA 2 vom 12.11.2015; Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 22.09.2017
+- TOP B 4.5.: Öffnung der Braunauer Eisenbahnbrücke für Fußgänger, Empfehlung Nr. 14-20 / E 00210 und Empfehlung Nr. 14-20 / E 00748 der Bürgerversammlungen des BA 2 vom 06.11.2014 und 12.11.2015, Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 22.09.2017
+- TOP B 4.6.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP B 4.7.: Bauvorhaben Fraunhoferstraße 10, vgl. TOP 2017.09 B 3.1.3, Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 05.10.2017
+- TOP B 4.8.: Baugenehmigung Thalkirchner Str. 80, Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP B 4.9.: Erhardtstraße 3, Tiefenbohrung, vgl. TOP 2017.09 Bürgerfragen II Pkt.9, Antwortschreiben der SWM vom 09.10.2017
+- TOP B 4.10.: Morassistraße 22-22b; Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren (Änderungsgenehmigung), Bescheid des Referates für Stadtplanung und Bauordnung vom 13.10.2017
+- TOP B 4.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bericht zur Entwicklung des Kfz-Bestandes in München, Sitzungsvorlagen-Nr. 14-20 / V 09246, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017
+- TOP B 4.12.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.6.: Erhöhung der Reinigungsklasse der Fußgänger- und Fahrradunterführung Reichenbachbrücke West
+- TOP C 4.7.: Aufstellen von mobilen Toilettenanlagen während des Oktoberfestes, BA-Antrags-Nr. 14-20 / B 04074 des BA 8 -Schwanthalerhöhe- zur Kenntnis
+- TOP C 4.8.: Bürgeranliegen Oktoberfest 2017, Lautsprecherdurchsagen; Antwort des Referates für Arbeit und Wirtschaft per Email vom 26.09.2017 zur Kenntnis
+- TOP C 4.9.: Hackerbrücke und Grasserstrasse zu einer Fahrradstraße umwandeln
+- TOP C 4.10.: Müllerstraße 3; Eröffnung einer zusätzlichen Filiale der Deutschen Post AG als Information
+- TOP C 4.11.: Bürgeranliegen, Wartehalle für die Buslinien 52 und 62 der Haltestelle Gärtnerplatz, vgl. TOP 2017.08 C 5.1, Antwortschreiben des Baureferates vom 18.09.2017
+- TOP C 4.12.: Antwort der Bezirksinspektion zu FSF Müller- Ecke Kollosseumstraße
+- TOP C 4.13.: Am Glockenbach, Fahrbahnsanierung, vgl. TOP 2017.09, C 5.3, Antwort des Baureferates vom 13.10.2017
+- TOP C 4.14.: Hundeauslauf in der Ludwigsvorstadt-Isarvorstadt bzw. im Stadtgebiet der LHSt München
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen; BA-Informationsschreiben Nr. 01/17 zur Kenntnis
