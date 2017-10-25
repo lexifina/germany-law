@@ -1,0 +1,127 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4118962
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4118962
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.3.: Begehung E-Ladesäulen
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: SPD: Prüfantrag Erweiterung Gisela-Gymnasium
+- TOP 2.1.: (E) Budget der Bezirksausschüsse BIKU e.V. Projekt "Applaus" am 05.11.2017 500,00 Euro
+- TOP 2.2.: Austausch mit der Psychosozialen Arbeitsgemeinschaft (PSAG) München Nord
+- TOP 2.3.: Planung der Einsätze der Münchner SommerSpielaktion 2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Reparaturarbeiten im Bad Georgenschwaige und mittelfristige Instandhaltung/-setzung
+- TOP 3.1.2.: Wiederinbetriebnahme der öffentlichen Toilette am Elisabethplatz
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Kurzbericht zur Teamfortbildung für ehrenamtliche Mitarbeiter des ClubIn
+- TOP 3.2.2.: Verwendungsnachweise für a) die Fortbildung der Ehrenamtlichen im ClubIn, b) die AktivFerien des Jugendzentrums LIFE, c) das Sommerfest des Sophie-Scholl-Gymnasiums
+- TOP 3.2.3.: Bescheide zur Gewährung von Zuschüssen an a) den Förderverein der Hermann-Frieb-Realschule
+- TOP 3.2.4.: Bescheide zur Gewährung von Zuschüssen an b) Condrobs e.V.
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Sanierung öffentlicher WC-Anlagen in München
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Umrüstung der Bus-/Tramwartehallen am Hohenzollernplatz mit integrierten Werbevitrinen als Wechsleranlagen
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse MGS Filmproduktion Erstellung eines Exposés und eines Trailers 2.500,00 Euro
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis für den öffentlichen Bücherschrank im Ackermannbogen
+- TOP 3.2.2.: Bescheide zur Gewährung von Zuschüssen an a) die Initiative „Studienensembles“
+- TOP 3.2.3.: Bescheide zur Gewährung von Zuschüssen an b) die Kreuzkirche
+- TOP 3.3.1.: Forschungsvorhaben des Bundesverkehrsministeriums vom 09. bis 13.10.2017 jeweils von 7 bis 18 Uhr: Passantenbefragung u.a. an der Belgrad-/Unertlstraße
+- TOP 3.3.2.: TV-Serie „Soko München“ am 22. und 25.09.2017 von 7 bis 19 Uhr in der Kaiserstr. 61
+- TOP 3.3.3.: Image-Webspot „Hilti-Koffer“ am 24.09.2017 von 13 bis 18 Uhr auf dem Hohenzollernplatz (Fußgängerbereich)
+- TOP 3.3.4.: BR-Umfrage „1968“ am 26.09.2017 in der Franz-Joseph-Str. 47/Elisabethplatz
+- TOP 3.3.5.: TV-Serie „Die Chefin“ am 11.10.2017 in der Habsburgerstr. 3
+- TOP 3.3.6.: TV-Produktion „München Mord“ am 18.10.2017 in der Isabella-/Bauerstraße
+- TOP 3.3.7.: Werbespot BMW am 05.10.2017 in der Grünanlage Mildred-Scheel-Bogen
+- TOP 3.3.8.: Fernsehproduktion „Schicksale“ am 19.10.2017 in der Erich-Kästner-Str. 18-22
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Adelheidstr. 27: DG-Neubau für 3 neue Wohnungen mit darüber liegender Dachterrasse, Anbau eines Aufzugs am Bestandsgebäude (Hofseite), Errichtung eines Grubenparkers für 4 neue Stellplätze im Hof
+- TOP 2.1.2.: Konradstr. 5: Dacheinschnitt als Freisitz im Zuge einer Wohnungssanierung
+- TOP 2.1.3.: Tektur Hohenzollernstr. 97: jetzt: Umbau der DG-Wohnung mit Erweiterung in den Spitzboden, Nutzungsänderung Souterrain, Sanierung Wohnung 3. OG, Vorbau eines Personenaufzugs
+- TOP 2.1.4.: Tektur Kölner Platz 1 (Kllnikum Schwabing): Neubau Klinik für Kinder- und Jugendmedizin, Gynäkologie und Geburtshilfe + Notfallzentrum (Haus 24.1) sowie Umbau und Sanierung der Kinderklinik (Haus 24)
+- TOP 2.1.5.: Rankestr. 12: DG-Neubau (Abbruch und Neubau des Dachstuhls) und Anbau einer außenliegenden Aufzugsanlage
+- TOP 2.1.6.: Franz-Joseph-Str. 47: Nutzungsänderung im UG: Café zu Theaterbereich sowie Umbau Foyer
+- TOP 2.1.7.: Kölner Platz 1 – Klinikum Schwabing Teilbaugenehmigung für die Gründung / Bodenplatte
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Ausübung des Vorkaufsrechts im Fall Bauerstr. 10 (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 24.08.2017)
+- TOP 3.1.2.: Leerstände in der Isabellastr. 38 und 38 a (Antwort des Amtes für Wohnen und Migration auf BA-Schreiben vom 01.06.2017)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 3.2.2.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Beleuchtung am Weg zur Bushaltestelle „Ackermannbogen“
+- TOP 1.2.: Bürger: Parken auf dem Stadtplatz Ackermannbogen
+- TOP 1.3.: Verschiedene Bürgerinnen und Bürger: Keine nächtliche Verlegung der Endhaltestelle Linie 59 (Reaktionen auf einen Beschluss der Bürgerversammlung am 05.10.2017)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Rümannstr. 60: Fällung einer Hainbuche, einer Robinie und einer Vogelkirsche
+- TOP 2.1.2.: Krumbacherstr. 13. Fällung einer Pappel
+- TOP 2.1.3.: Hörwarthstr. 43: Fällung einer Robinie
+- TOP 2.1.4.: Bonner Platz 5: Fällung einer Ulme
+- TOP 2.2.1.: Fahrradstraßenpilotroute Nymphenburg-Petuelring: Teilobjekt Birnauer Straße
+- TOP 2.2.2.: Fahrradstraßenpilotroute Clemensstraße
+- TOP 2.2.4.: Grundsatzbeschluss zur Förderung des Radverkehrs in München: Fortschreibung und Radverkehrsbericht 2017 Anhörung zum Beschlussentwurf
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Herzogstraße
+- TOP 3.1.2.: Nachrüstung des Ampelübergangs Clemens-/Schleißheimer Straße (Südseite) mit einem Blindensignal (Antwort des KVR auf BA-Schreiben vom 23.08.2017)
+- TOP 3.1.3.: Straßenbauarbeiten in der Schleißheimer Straße (Antwort des Baureferats Tiefbau auf Nachfrage vom 15.09.2017)
+- TOP 3.1.4.: Heckenschnitt in der Grünanlage Degenfeldstraße (Antwort des Baureferats Gartenbau auf BA-Schreiben vom 24.08.2017)
+- TOP 3.1.5.: Nachpflanzung eines Baumes an der Burgunder-/Brunnerstraße (Antwort des Baureferats Gartenbau auf BA-Schreiben vom 27.07.2017)
+- TOP 3.1.6.: Drohender Verlust der Wandbegrünung in der Hörwarthstr. 18-20 (Antwort der Stelle für Gemeinwesenmediation im Sozialreferat auf BA-Schreiben vom 28.09.2017)
+- TOP 3.2.1.: Entfernung einer Hecke am Nymphenburg-Biedersteiner Kanal
+- TOP 3.2.2.: Winzererstr. 27: Genehmigungsbescheid zur Fällung eines Bergahorn
+- TOP 3.2.3.: Infanteriestr. 20: Genehmigungsbescheid zur Fällung zweier Vogelkirschen
+- TOP 3.3.1.: Zusätzliche Beschilderung der Sperre Georg-Birk-Straße
+- TOP 3.3.2.: Haltverbote in der Friedrich-Loy-Straße / Herzogstraße
+- TOP 3.3.3.: Sichthaltverbote bei der Ausfahrt des Lehrerparkplatzes in der Borschtallee
+- TOP 3.3.4.: Feuerwehranfahrtszone Lissi-Kaeser-Straße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Baumaßnahmen der Stadtwerke München im 2. Halbjahr 2017
+- TOP 3.4.2.: Genehmigungsverlängerung für die Baustelleneinrichtung an der Ackermannstraße
+- TOP 3.4.3.: Arbeiten im Straßenraum: Fahrbahnsanierung Viktor-Scheffel-Straße zwischen Belgrad- und Römerstraße in drei Bauabschnitten
+- TOP 3.4.4.: (U) EU-Projekt METAMORPHOSIS
+- TOP 3.4.5.: Neubau der Erschließungsstraßen und Fußgängerbereiche im Zuge des Bebauungsplans Kreativquartier an der Dachauer Straße / Schwere-Reiter-Straße Teilbereich Kreativfeld, Bedarfs- und Konzeptgenehmigung, Beschluss des Bauausschusses vom 24.10.2017 (Sitzungsvorlage Nr. 14-20 / V 09409)
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen – Anhörung zu einem Stadtratsantrag der ÖDP
+- TOP F.2.: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen.
+- TOP G: Verschiedenes
+- TOP H: Termine
