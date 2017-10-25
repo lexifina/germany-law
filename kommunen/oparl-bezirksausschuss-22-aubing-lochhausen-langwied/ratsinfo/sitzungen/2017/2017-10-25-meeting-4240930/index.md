@@ -1,0 +1,149 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2017-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4240930
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4240930
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Sozialausschusses vom 12.10.17:
+- TOP 10.2: Beschluss des Kinder- und Jungedhilfeausschusses vom 12.10.17:
+- TOP 10.3: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 11.10.17:
+- TOP 10.4: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 08.11.17:
+- TOP 10.5: Beschluss / Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 25.10.17
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Parken im Neubaugebiet an der S4 Leienfelsstraße
+- TOP 2.1.2.: Aufstellung von weiteren Fahrradständern am S-Bahnhof Leienfelsstraße
+- TOP 2.1.3.: Parkendes Auto an der Ecke Ubostr. 44 (vertagt aus 09/17)
+- TOP 2.1.4.: Unhaltbarer Zustand Bürgersteig und Parkbucht Eckgrundstück Überlingerweg / Mainaustraße
+- TOP 2.1.5.: Zuschnitt Platanen im gesamten Feldmeierbogen - Ergänzung zum Anliegen im September
+- TOP 2.1.6.: Orthodoxe Kirche - Baugrube, Termin Fertigstellung und Zeitplanung
+- TOP 2.1.7.: Lärm-Immission in Alt-Aubing
+- TOP 2.1.8.: Parkplatzsituation Friedhof Lochhausen
+- TOP 2.1.9.: Geh-/Radweg vor Anwesen Lochhausener Str. 253a
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällung auf Anforderung: - Kallmünzer Str. 4 - Wiesentfelser Str. 72 - Ravensburger Ring 65 - Am Bahnsportplatz 22 - Federseestr. 37 - Kainacher Str. 5 - Altenburgstr. 9 - Wiesenthauer Str. 9 - Wertheimer Str. 60 - Dinkelsbühler Str. 29 - Schussenrieder Str. 7 - Schussenrieder Str. 16 - Bodenseestr. 320 - Altostr. 32 (N) - Ravensburger Str. 53 (N) - Ravensburger Str. 49 (N) - Bergsonstr. 173 (N) - Sigererstr. 7 (N) - Gündinger Str. 9
+- TOP 3.1.2.: Baumfällungen zu Bauvorhaben: - Köferinger Str. 21, Anhörung Planungsreferat vom 14.09.17 - Eschenrieder Str. 29, Anhörung Planungsreferat vom 26.09.17 (N) - Alprichstr. 8, Anhörung Planungsrefeart vom 11.10.17
+- TOP 3.1.3.: Genehmigung zur Baumfällung: - Harburger Str. 17, Schr. Referat für Stadtplanung und Bauordnung vom 22.09.17 - Kunreuthstr. 32-80 / Riesenburgstr. 23, Schr. Referat für Stadtplanung und Bauordnung vom 18.09.17 N - Im Stocket 34a-36b, Schr. Referat für Stadtplanung und Bauordnung vom 10.10.17 N - Hohensteinstr. 26, Schr. Referat für Stadtplanung und Bauordnugn vom 17.10.17
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Überdachung der Baushaltestelle in der Henschelstraße Nordseite durch Neuordnung des Straßenbereichs der Henschelstraße (Hr. Umseher, Hr. Völker, Hr. Schrader)
+- TOP 4.5.: Zone 30 in der Henschelstraße (Hr. Umseher, Hr. Völker, Hr. Schrader)
+- TOP 4.6.: Kleinteiliges Gewerbe in Freiham (Hr. Liedl, Fr. Mosch, Fr. Binsteiner)
+- TOP 4.7.: Anfrage: Besattungsrecht - Aubinger Friedhof (Fr. Mosch, Fr. Binsteiner, Fr. Ney)
+- TOP 5.1.: (E) Vordringlicher Ausbau der Bahnunterführung der Bodenseestraße Empfehlung Nr. 14-20 / E 01573 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 13.07.2017
+- TOP 5.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied Widmung der Gesamtstrecke der unbenannten Straße U-1750 und der Teilstrecke der unbenannten Straße U-1706
+- TOP 5.3.: (E) Bürgersteig in der Straße Am Langwieder Bach bis zum Ende der Bebauung Empfehlung Nr. 14-20 / E 01572 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 13.07.2017
+- TOP 6.1.1.1.: Clarita-Bernhard-Straße: Platz für den Verkauf von Christbäumen vom 07.12.-23.12.17, Anhörung Kommunalreferat vom 15.09.17
+- TOP 6.1.1.2.: Planung der SommerSpielAktion 2018, Schr. Spielen in der Stadt e.V. vom 10.10.17
+- TOP 6.1.2.1.: Eröffnung Erweiterungsbau Kastelburgstr. 56-60, Schr. Sozialreferat vom 05.10.17
+- TOP 6.1.2.2.: Veranstaltungen im Oktober 2017, Schr. Kulturreferat vom 10.10.17
+- TOP 6.1.2.3.: Veranstaltungserlaubnis: Kinder-Circus Barnum vom 13.10.-22.10.17, Schr. KVR vom 13.10.17
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren, Anhörung Ref. f. Bildung u. Sport vom 13.09.17 (vertagt aus 09/17)
+- TOP 6.2.1.2.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Gleisharfe WA 3, Anhörung Referat für Bildung und Sport vom 16.10.17
+- TOP 6.2.1.3.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Gleisharfe WA 9, Anhörung Referat für Bildung und Sport vom 16.10.17
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Anfrage zur Ilse-Fehling-Kindertagesstätte, Schr. Referat für Bildung und Sport vom 07.09.17
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Beschlussentwurf: Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017, Anhörung Referat für Stadtplanung und Bauordnung vom 26.09.17
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnung: Altostraße - Höhe Hausnr. 67, Verbesserung der Situation für Radfahrer, Anhörung KVR vom 28.09.17
+- TOP 6.3.1.3.: Verkehrsrechtliche Anordnung: Rothenfelser Straße - Einrichtung eines Haltverbots, Anhörung KVR vom 19.09.17 und Antwortschreiben des KVR an Bürger vom 19.09.17
+- TOP 6.3.1.4.: Verkehrsrechtliche Anordnung: Kunreuthstraße - Einrichtung von Haltverboten, Anhörung KVR vom 21.09.17
+- TOP 6.3.1.5.: Einrichtung eines personenbezogenen Behindertenparkplätzes in der Wiesentfelser Str. 55, Anhörung KVR vom 10.10.17
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrsrechtliche Anordnung: Einrichtung einer Kurzparkzone in der Clartia-Bernhard-Straße; Schr. KVR vom 04.05.17
+- TOP 6.3.2.2.: Verkehrssituation Brunhamstraße/Bodenseestraße, Schr. Planungsreferat vom 20.09.17
+- TOP 6.3.2.3.: Fuß- und Radwegnetz in Lochhausen: Einrichtung eines Fußgängerüberwegs / Zebrastreifen an der Kreuzung Lochhausener Straße / Krähenweg, Schr. KVR vom 21.09.17
+- TOP 6.3.2.4.: Parken auf der Altostraße, Schr. KVR vom 28.09.17
+- TOP 6.3.2.5.: Parkverbot in der Altostraße
+- TOP 6.3.2.6.: Beschilderung der Zufahrtswege zur Paulaner Brauerei, Schr. KVR vom 22.09.17
+- TOP 6.3.2.7.: Beschilderung in der Papinstraße, Schr. KVR vom 19.09.17
+- TOP 6.3.2.8.: Rad- und Fußgängerbrücke am S-Bahnhof Westkreuz, Schr. Referat für Stadtplanung und Bauordnung vom 25.09.17
+- TOP 6.3.2.9.: Arbeiten im Straßenraum: Lochhausener Straße - Bau einer Lärmschutzwand, Schr. KVR vom 28.09.17
+- TOP 6.3.2.10.: Verkehrsrechtliche Anordnung: Federseestraße westlich Mettnauer Straße - Einrichtung eines absoluten Haltverbots, Schr. KVR vom 20.06.17
+- TOP 6.3.2.11.: Arbeiten im Straßenraum: Langwieder Hauptstraße zwischen Lochhausener Straße und Eschenrieder Straße sowie Ranertstraße zwischen Langwieder Hauptstraße und Lochhausener Straße (Neuverlegung einer Wasserleitung), Schr. KVR vom 14.09.17
+- TOP 6.3.2.12.: Beleuchtung Zebrastreifen in der Henschelstraße in Höhe des S-Bahnhofs Lochhausen, Schr. Baureferat vom 15.09.17
+- TOP 6.3.2.13.: Projekt Sportlerweg, Schr. Baureferat vom 18.09.17
+- TOP 6.3.2.14.: Verkehrsrechtliche Anordnung: Freiham - Beschilderungsmaßnahmen nach Widmung und Verkehrsfreigabe der Straßen, Schr. KVR 18.09.17
+- TOP 6.3.2.15.: Wartehäuschen an der Altenburgstraße, Schr. MVG vom 05.10.17
+- TOP 6.3.2.16.: Barrierefreier Ausbau S-Bahnhof Aubing, Zwischennachricht Referat für Stadtplanung und Bauordnung vom 02.10.17
+- TOP 6.3.2.17.: Zeitlich beschränktes absolutes Haltverbot in der Hoheneckstraße, Schr. KVR vom 10.10.17
+- TOP 6.3.2.18.: Verbreiterung des Gehweges an der Langwieder Hauptstraße, Schr. Baureferat vom 06.10.17
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Sanierungsgebiet "Neuaubing-Westkreuz" A) Pilotphase zur Förderung energetischer Bestandssanierung, Synergien mit dem EU-Projekt "Smart Together" B) Kosten, Finanzierung, Städtebauförderung, Anhörung Referat für Stadtplanung und Bauordnung vom 27.09.17 - Eilentscheidung durch BA-Vorsitzenden -
+- TOP 6.4.1.2.: Ubostr. 44: Nutzungsänderung - ehem. Kuhstall zu Kfz-Werkstatt und Wohnung, Anhörung Referat für Stadtplanung und Bauordnung vom 26.09.17
+- TOP 6.4.1.3.: Hellensteinstr. 8: Neubau zweier Mehrfamilienhäuser mit Tiefgarage, Anhörung Referat für Stadtplanung und Bauordnung vom 19.09.17
+- TOP 6.4.1.4.: Clarita-Bernhard-Straße / Hans-Stützle-Straße: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 19.09.17
+- TOP 6.4.1.5.: Clarita-Bernhard-Str. 10: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 19.09.17
+- TOP 6.4.1.6.: Hans-Stützle-Straße: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 19.09.17
+- TOP 6.4.1.7.: Hans-Steinkohl-Straße: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 20.09.17
+- TOP 6.4.1.8.: Hans-Steinkohl-Straße vor Unterführung: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 20.09.17
+- TOP 6.4.1.9.: Hans-Steinkohl-Str.30: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 21.09.17
+- TOP 6.4.1.10.: Hans-Steinkohl-Str. / Clarita-Bernhard-Str.: Aufstellung einer Litfaßsäule, Anhörung Referat für Stadtplanung und Bauordnung vom 20.09.17
+- TOP 6.4.1.11.: Erhalt / Schaffung von Einkaufsmöglichkeiten im Nahbereich nördlich der S4, Anhörung Referat für Stadtplanung und Bauordnung vom 28.09.17 (Empfehlung Nr. 14-20 / E 1579 der Bürgerversammlung des 22. Stadtbezirkes vom 13.07.17)
+- TOP 6.4.1.12.: Rabensteinstr. 36: Neubau einer Doppelhaushälfte mit Garage (Haus 1 und Haus 2), Anhörung Referat für Stadtplanung und Bauordnung vom 05.10.17
+- TOP 6.4.1.13.: Gündinger Str. 2 - Neubau einer Doppelhaushälfte mit Einliegerwohnung, Anhörung Referat für Stadtplanung und Bauordnung vom 11.10.17
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Müll am Freihamer Bahnhof, Schr. Referat für Arbeit und Wirtschaft vom 12.09.17
+- TOP 6.4.2.2.: Bauvorhaben im 22. Stadtbezirk: 11.-17.08.17, 18.-24.09.17, 25.09.-01.10.17, 02.-08.10.17
+- TOP 6.4.2.3.: Neubau des Ladenzentrums am Westkreuz, Schr. Referat für Stadtplanung und Bauordnung vom 22.09.17
+- TOP 6.4.2.4.: SWM Fernwärmeprojekt - Mainaustraße, Schr. SWM vom 04.10.17
+- TOP 6.4.2.5.: Zustand am S-Bahnhof Westkreuz, Schr. Referat für Arbeit und Wirtschaft vom 21.09.17
+- TOP 6.4.2.6.: Baumaßnahmen der SWM - 2. Halbjahr, Schr. SWM vom 18.09.17
+- TOP 6.4.2.7.: Bauvorhaben Freiham Nord, Baufeld WA 1 - Bauvorbereitung und Baumfällung, Schr. GWG vom 18.09.17
+- TOP 6.4.2.8.: Clarita-Bernhard-Straße - teilweise Befestigung des Baumgrabens bei Hausnr. 8 (Bavaria Motel), Schr. Baureferat vom 02.10.17
+- TOP 6.4.2.9.: Mehr Parkbänke und Alleebäume in Freiham-Süd, Zwischennachricht Baureferat vom 02.10.17
+- TOP 6.4.2.10.: PCB-Messungen an der Schule an der Wiesentfelser Straße, Schr. Referat für Gesundheit und Umwelt vom 25.09.17
+- TOP 6.4.2.11.: Baumaßnahmen der Stadtwerke München - Stichtage 02.10.-06.10.17
+- TOP 6.4.2.12.: SWM Baumaßnahme: Strom-Projekt Mainaustraße, Schr. SWM vom 13.10.17
+- TOP 6.4.2.13.: Beschallungsanlage im Friedhof Aubing, Schr. Städt. Friedhofsverwaltung vom 13.10.17
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung der BA-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen, Stadtratsantrag, Anhörung Direktorium vom 02.10.17
+- TOP 7.2.: Erläuterungsschilder für Hans-Clarin-Weg, Ellis-Kaut-Straße und Gustl-Bayrhammer-Straße, Anhörung Kommunalreferat vom 10.10.17
+- TOP 7.3.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 22. Stadtbezirk, Anhörung Kommunalreferat vom 10.10.17
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: BA-Informationsschreiben Nr. 01/17: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen, Schr. Direktorium vom 29.09.17
+- TOP 8.2.: Unveränderte Fortführung des Gastättenbetriebs: - Anton-Böck-Str. 32, Schr. KVR vom 19.09.17 N - Bodenseestr. 228, Schr. KVR vom 16.10.17
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Walter-Brecht-Straße, Schr. Sozialreferat vom 08.09.17
+- TOP 9.1.: Beibehaltung des Hare-Niemeyer-Verfahren bei der künftigen Sitzverteilung der Bezirksausschüsse der Landeshauptstadt München - Antwort an den BA 11, Schr. Direktorium vom 11.09.17
+- TOP 10.1.1.: (U) "Wohnen für Alle": Vorstellung des Rahmenkonzepts des Sozialreferats und Finanzierung der Standorte 2017 und 2018 Produkt 60 4.1.8 Schaffung preiswerten Wohnraums Produkt 60 6.2.3 Betreuung von jungen und unbegleiteten heranwachsenden Flüchtlingen
+- TOP 10.1.2.: (U) Gesamtkonzept Münchner Altenhilfe IV: Produkt 60 5.4.1 Angebote der Beratung und Unterstützung, Begegnung und Kommunikation
+- TOP 10.2.1.: (U) Abenteuerspielplatz im Münchner Westen Produkt 3.1.1 Kinder- und Jugendarbeit
+- TOP 10.3.1.: (U) Wohnungspolitisches Handlungsprogramm: "Wohnen in München IV" 2017-2021 München Modell-Eigentum, Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 10.4.1.: (U) Erhaltungssatzungen in München, 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 10.5.1.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 10.5.2.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018, Zustimmung zur Durchführung
+- TOP 11.1.: BA-Informationsschreiben Nr. 01/17: Teilnahme von Mitgliedern der Bezirksausschüsse an städtischen Fortbildungen, Schr. Direktorium vom 29.09.17
+- TOP 11.2.: Einladung zum 33. Treffen der Gleichstellungsbeauftragten am 09.11.17 von 17.30 - 19.30 Uhr im Rathaus, Schr. Gleichstellungsstelle für Frauen vom 05.10.17
+- TOP 12.1.: Sitzungstermine 2018
+- TOP 12.2.: Nächste BA-Sitzung am Mittwoch, den 15.11.17 um 19.30 Uhr im UBO 9, Ubostr. 9 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 16.10.17, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, 17.10.17, 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 18.10.17, 19.00 Uhr, Limesstr. 81 - UA Soziales/Famile/Senioren/Kultur: Donnerstag, 19.10.17, 19.00 Uhr, Friedrichshafener Str. 11
