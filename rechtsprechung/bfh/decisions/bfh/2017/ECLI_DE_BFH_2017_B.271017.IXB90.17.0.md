@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2017:B.271017.IXB90.17.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "IX"
+aktenzeichen: "IX B 90/17"
+decided: "2017-10-27"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201750295/"
+corpus_doc_id: "BFH_NV_2017-10-27_IX_B_90_17_STRE201750295"
+cites_law: ["germany/bund/acts/fgo/0116.md", "germany/bund/acts/fgo/0118.md", "germany/bund/acts/fgo/0135.md"]
+---
+
+# Bundesfinanzhof, IX B 90/17 vom 2017-10-27: Nichtzulassungsbeschwerde - Sicherung einer einheitlichen Rechtsprechung
+
+## Leitsatz
+
+NV: Die Zulassung der Revision zur Sicherung einer einheitlichen Rechtsprechung kommt nicht in Betracht, wenn sich die rechtlichen Erwägungen des FG mit den tragenden Ausführungen der Rechtsprechung des BFH zum Zeitpunkt der Berücksichtigung eines Auflösungsverlusts decken .
+
+## Entscheidung
+
+NV: Die Zulassung der Revision zur Sicherung einer einheitlichen Rechtsprechung kommt nicht in Betracht, wenn sich die rechtlichen Erwägungen des FG mit den tragenden Ausführungen der Rechtsprechung des BFH zum Zeitpunkt der Berücksichtigung eines Auflösungsverlusts decken . Die Beschwerde der Kläger wegen Nichtzulassung der Revision gegen das Urteil des Finanzgerichts Düsseldorf vom 29. Juni 2017  8 K 586/16 E wird als unbegründet zurückgewiesen.Die Kosten des Beschwerdeverfahrens haben die Kläger zu tragen. Der von den Klägern und Beschwerdeführern (Kläger) vorgebrachte Zulassungsgrund der Sicherung einer einheitlichen Rechtsprechung (§ 115 Abs. 2 Nr. 2  2. Alternative der Finanzgerichtsordnung ‑‑FGO‑‑) liegt nicht vor.Die Zulassung der Revision zur Sicherung einer einheitlichen Rechtsprechung setzt voraus, dass das Finanzgericht (FG) in einer Rechtsfrage von der Entscheidung eines anderen Gerichts abgewichen ist, dass dabei über dieselbe Rechtsfrage entschieden wurde und diese für beide Entscheidungen rechtserheblich war, dass die Entscheidungen zu gleichen oder vergleichbaren Sachverhalten ergangen sind, dass die abweichend beantwortete Rechtsfrage im Revisionsverfahren geklärt werden kann und dass eine Entscheidung des Bundesfinanzhofs (BFH) zur Wahrung der Rechtseinheit erforderlich ist (vgl. BFH-Beschluss vom 8. Mai 2013 III B 140/12, BFH/NV 2013, 1248).Daran fehlt es hier. Die von den Klägern behauptete Divergenz zu den BFH-Urteilen vom 9. August 1989 I R 181/85 (BFHE 158, 31, BStBl II 1989, 990), vom 29. Januar 2009 VI R 12/06 (BFH/NV 2009, 1105), vom 18. April 2007 XI R 47/05 (BFHE 217, 18, BStBl II 2007, 736) und vom 12. Februar 2015 V R 28/14 (BFHE 248, 512, BStBl II 2017, 10) liegt nicht vor. Denn Grundsätze von Treu und Glauben, die den zitierten Entscheidungen zugrunde lagen, sind in der angefochtenen Ausgangsentscheidung nicht zur Anwendung gekommen. Der vom FG festgestellte und den BFH nach § 118 Abs. 2 FGO bindende Sachverhalt lässt keine Anhaltspunkte für ein widersprüchliches Verhalten ("venire contra factum proprium") erkennen. Zudem liegt auch keine Abweichung zum BFH-Urteil vom 31. Juli 1996 XI R 78/95 (BFHE 181, 103, BStBl II 1996, 625) und den dort enthaltenen Grundsätzen hinsichtlich einer tatsächlichen Verständigung vor. Denn ausweislich von Tatbestand und Entscheidungsgründen hat das FG das Vorliegen einer verbindlichen Zusage oder einer tatsächlichen Verständigung ausdrücklich verneint. Soweit die Kläger in ihrer Beschwerdebegründung das Gegenteil behaupten, wenden sie sich gegen die Richtigkeit der tatsächlichen Würdigung des FG. Damit kann die Zulassung der Revision wegen Divergenz nicht erreicht werden.Im Übrigen deckt sich die angefochtene Entscheidung in ihren rechtlichen Ausführungen mit der ständigen Rechtsprechung des BFH zum Zeitpunkt der Berücksichtigung eines Auflösungsverlusts nach § 17 Abs. 4 des Einkommensteuergesetzes anlässlich der Liquidation oder Insolvenz einer Kapitalgesellschaft (vgl. u.a. zuletzt BFH-Urteil vom 10. Mai 2016 IX R 16/15, BFH/NV 2016, 1681, m.w.N.).Von einer weiter gehenden Begründung wird gemäß § 116 Abs. 5 Satz 2 FGO abgesehen. Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
