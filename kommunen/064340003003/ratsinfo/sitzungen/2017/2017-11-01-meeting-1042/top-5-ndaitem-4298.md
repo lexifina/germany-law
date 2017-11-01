@@ -1,0 +1,6 @@
+# TOP 5: Verschiedenes
+
+- Sitzung: Haupt- und Finanzausschuss (20. Sitzung) (2017-11-01)
+- Körperschaft: Gemeinde Glashütten
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/body/1/agendaitem/4298
