@@ -1,0 +1,52 @@
+# 7. Öffentliche Sitzung des Ausschusses für Ordnung, Verkehr und Bürgerdienste
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-11-01T17:30:00+01:00
+- Ende: 2017-11-01T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=61
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3807
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3807
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 04.10.2017 - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Sicheres Fahrradfahren auf der Albrechtstraße - vertagt
+- TOP 3.2: Geschwindigkeitskontrollen vor Grundschulen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Fahrradständer am S-Bahnhof Botanischer Garten - vertagt
+- TOP 3.4: Gartenstraße als Sackgasse - mit Änderungen im Ausschuss beschlossen
+- TOP 3.5: Kein Durchgangsverkehr vom Teltower Damm zum „Postplatz“ - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.6: Tempo 30 in der Onkel-Tom-Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.7: Knesebeckbrücke für alle Verkehrsteilnehmer! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Anpassung der LSA-Schaltung Appenzeller Straße/ Goerzallee/ Wismarer Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.9: Grünphase für Fußgänger*innen an U-Krumme Lanke verlängern - vertagt
+- TOP 3.10: Sicherstellung der „Fête de la Musique“ im Bezirk – Impuls für Berlin - erledigt
+- TOP 3.11: Verkehrsführung Neuchateller Str./Ecke Hindenburgdamm - vertagt
+- TOP 3.12: Fußgängerüberquerung der Prinz-Friedrich-Leopold-Str. - mit Änderungen im Ausschuss beschlossen
+- TOP 3.13: Freizeitsport und Bürgeranliegen ernst nehmen! - vertagt
+- TOP 3.14: Anwohnerparken Forststraße ermöglichen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.15: Kostengünstig neue Radwege und gleichzeitig sicherere Gehwege im Bezirk möglich? - mit Änderungen im Ausschuss beschlossen
+- TOP 3.16: Radwege mit Gebotsschild sichern - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.17: Einschränkungen der Moltkebrücke-Sperrung minimieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.18: Verkehrssicherheit in der Goerzallee erhöhen - vertagt
+- TOP 3.19: Querung der Königsberger Straße erleichtern - vertagt
+- TOP 3.20: Parkregelung in der Drakestraße - vertagt
+- TOP 3.21: Halteverbot am Händelplatz - vertagt
+- TOP 3.22: Neues Wohngebiet an der Goerzallee auch am Wochenende anbinden - vertagt
+- TOP 3.23: Illegale Nutzung des „Platz des 4. Juli“ kurzfristig unterbinden - vertagt
+- TOP 3.24: Umstellung Ordnungsamt - Dienstwagen auf E-Mobilität - vertagt
+- TOP 3.25: Nahverkehr - vertagt
+- TOP 3.26: Vernünftige Ampelschaltungen für Fußgänger an Kranoldplatz und Lankwitzer Straße / Fußgänger nicht hetzen - vertagt
+- TOP 3.27: Ampelanlage Wupperstraße/Ecke Goerzallee - vertagt
+- TOP 3.28: Wiederholte Beschädigungen von Anwohnerfahrzeugen durch einander ausweichende Busse verhindern - vertagt
+- TOP 3.29: Beschilderung am Platz des 4. Juli zur Nutzung für Fahrschulen entfernen - vertagt
+- TOP 3.30: Kreuzung Niklasstraße - vertagt
+- TOP 3.31: Schulwegsicherung Friedrich-Drake-Grundschule, Drakestraße 80, 12205 Berlin - vertagt
+- TOP 3.32: Vorsorge zur Aufrechterhaltung des S-Bahn-Verkehrs im Bezirk Steglitz- Zehlendorf - vertagt
+- TOP 3.33: Testbetrieb – mehr Sicherheit durch 3D Zebrastreifen - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
