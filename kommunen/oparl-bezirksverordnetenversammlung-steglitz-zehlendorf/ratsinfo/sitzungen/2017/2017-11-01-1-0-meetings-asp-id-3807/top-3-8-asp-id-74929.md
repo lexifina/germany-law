@@ -1,0 +1,8 @@
+# TOP 3.8: Anpassung der LSA-Schaltung Appenzeller Straße/ Goerzallee/ Wismarer Straße
+
+- Sitzung: 7. Öffentliche Sitzung des Ausschusses für Ordnung, Verkehr und Bürgerdienste (2017-11-01)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=74929
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=74929
