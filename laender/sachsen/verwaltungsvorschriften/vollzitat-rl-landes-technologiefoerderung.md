@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.1
+- Datum: 2017-11-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.07.2017
+03.11.2017
 bis
-02.11.2017
+01.02.2018
 
 RL Landes-Technologieförderung
 
@@ -39,7 +39,9 @@ Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-Die Förderung soll die Zusammenarbeit von Wissenschaft und Wirtschaft verbessern sowie die Innovationskraft sächsischer Unternehmen und damit deren Wettbewerbsfähigkeit stärken. Die Förderung soll insbesondere dazu beitragen, die Aussichten auf eine erfolgreiche Beteiligung von kleinen und mittleren Unternehmen (KMU)1 an HORIZON 2020 zu erhöhen, Innovation und Internationalisierung von KMU zu unterstützen, Informationen über geistige Eigentumsrechte besser zugänglich zu machen, die wirtschaftliche Verwertung von Patenten aus der öffentlichen Forschung zu stärken, die Kooperation und den Erfahrungsaustausch von Unternehmen untereinander sowie mit Hochschulen und Forschungseinrichtungen auszuweiten, KMU an die Zusammenarbeit mit Hochschulen und Forschungseinrichtungen heranzuführen, mehr technologisches Wissen in KMU zu bringen und Forschungsergebnisse schneller in erfolgreiche Innovationen umzusetzen.
+Die Förderung soll die Zusammenarbeit von Wissenschaft und Wirtschaft verbessern sowie die Innovationskraft sächsischer Unternehmen und damit deren Wettbewerbsfähigkeit stärken.
+
+Die Förderung soll insbesondere dazu beitragen, die Aussichten auf eine erfolgreiche Beteiligung von kleinen und mittleren Unternehmen (KMU)1 an HORIZON 2020 zu erhöhen, Innovation und Internationalisierung von KMU zu unterstützen, Informationen über geistige Eigentumsrechte besser zugänglich zu machen, die wirtschaftliche Verwertung von Patenten aus der öffentlichen Forschung zu stärken, die Kooperation und den Erfahrungsaustausch von Unternehmen untereinander sowie mit Hochschulen und Forschungseinrichtungen auszuweiten, gemeinnützige externe Industrieforschungseinrichtungen bei Investitionen in ihre Infrastruktur zu unterstützen, KMU an die Zusammenarbeit mit Hochschulen und Forschungseinrichtungen heranzuführen, mehr technologisches Wissen in KMU zu bringen und Forschungsergebnisse schneller in erfolgreiche Innovationen umzusetzen.
 
 
 2.
@@ -119,6 +121,11 @@ Innovations- und technologiepolitisch bedeutsame Veranstaltungen
 F.
 
 Sonstige innovationsunterstützende Maßnahmen
+
+
+G.
+
+Investitionen gemeinnütziger externer Industrieforschungseinrichtungen
 
 
 A.
@@ -552,7 +559,8 @@ Zuwendungsempfänger ist der jeweilige Koordinator des Verbunds SachsenPatent. R
 Zuwendungsvoraussetzungen
 
 
-Die Entscheidung des Freistaates Sachsen ergeht im Einvernehmen mit dem BMWi. Abweichend von Ziffer I Nummer 2 erfolgt die Förderung durch den Freistaat auf der Grundlage der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 8 Absatz 10 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, einschließlich der zugehörigen Verwaltungsvorschrift.
+Die Entscheidung des Freistaates Sachsen ergeht im Einvernehmen mit dem BMWi. Abweichend von Ziffer I Nummer 2 erfolgt die Förderung durch den Freistaat auf der Grundlage der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 8 Absatz 10 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, einschließlich der zugehörigen Verwaltungsvorschrift.  
+
 
 5.
 
@@ -921,6 +929,263 @@ Beihilferechtliche Bestimmungen
 Soweit es sich bei den Zuwendungen um staatliche Beihilfen gemäß Ziffer I Nummer 3 handelt, werden diese nach Maßgabe und unter Einhaltung der Voraussetzungen der in Ziffer I Nummer 3 genannten beihilferechtlichen Bestimmungen gewährt. Die Bewilligungsstelle kann Entscheidungen hierzu mit dem Staatsministerium für Wirtschaft, Arbeit und Verkehr abstimmen.
 
 
+G.
+
+Investitionen gemeinnütziger externer Industrieforschungseinrichtungen
+
+
+1.
+
+Zuwendungszweck
+
+Die Förderung soll die Innovationskraft der sächsischen Wirtschaft über externe Industrieforschung nachhaltig stärken. Im Zentrum stehen gemeinnützige externe Industrieforschungseinrichtungen, die grundlegende FuE-Ergebnisse in nicht diskriminierender Weise der Allgemeinheit zur Verfügung stellen. Sie sollen bei der Erhaltung und dem Ausbau ihrer FuE-Infrastrukturen Unterstützung erfahren.
+
+
+2.
+
+Gegenstand der Förderung
+
+Förderfähig sind investive Vorhaben zur Verbesserung der wissenschaftlich-technischen Infrastruktur inklusive Bauinfrastruktur.
+
+
+3.
+
+Zuwendungsempfänger
+
+Antragsberechtigt sind rechtlich selbstständige gemeinnützige Forschungseinrichtungen mit Geschäfts- und Forschungsbetrieb im Freistaat Sachsen, die weder Teil einer Hochschule noch einer grundfinanzierten Wissenschaftsgemeinschaft oder -gesellschaft sind und keine institutionelle Förderung von mehr als 20 Prozent (Grundfinanzierung) erhalten.
+
+
+4.
+
+
+Zuwendungsvoraussetzungen
+
+
+a)
+
+Das Vorhaben muss im Freistaat Sachsen durchgeführt werden.
+
+
+b)
+
+
+Das Vorhaben darf unbeschadet der Regelung in Nummer 5 Buchstabe e nicht im Rahmen eines Programms anderer öffentlicher Stellen gefördert werden.
+
+
+5.
+
+
+Art, Umfang und Höhe der Zuwendung
+
+
+a)
+
+
+Der Freistaat Sachsen gewährt die Zuwendung nach technologiepolitischem Ermessen im Rahmen einer Projektförderung als Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses.
+
+
+b)
+
+
+Zuwendungsfähig sind Ausgaben für:
+
+
+aa)
+
+die Anschaffung beziehungsweise Herstellung der zum Investitionsvorhaben zählenden Wirtschaftsgüter des Sachanlagevermögens (unter anderem Gebäude, Maschinen, Geräte, Instrumente, Ausrüstungen),
+
+
+bb)
+
+die Anschaffung beziehungsweise Herstellung für Wirtschaftsgüter, die zur FuE-Grundausstattung zählen,
+
+
+cc)
+
+Baumaßnahmen im Zusammenhang mit Ausbau-, Umbau-, Sanierungs-, und Renovierungsinvestitionen15,
+
+
+dd)
+
+Maßnahmen zum Ersatz oder zur Modernisierung vorhandener Maschinen, Geräte, Instrumente und Ausrüstungen.
+
+
+c)
+
+Nicht zuwendungsfähig sind Ausgaben für:
+
+
+aa)
+
+Grunderwerb,
+
+
+bb)
+
+Kraftfahrzeuge mit Straßenverkehrszulassung,
+
+
+cc)
+
+gebrauchte Wirtschaftsgüter,
+
+
+dd)
+
+geringwertige Wirtschaftsgüter,
+
+
+ee)
+
+nicht betriebsnotwendige Einrichtungen (zum Beispiel Betriebswohnungen),
+
+
+ff)
+
+die Finanzierung des Vorhabens,
+
+
+gg)
+
+gemietete und geleaste bewegliche Wirtschaftsgüter, deren Miet- oder Leasingvertrag nicht den Erwerb des Wirtschaftsgutes vorsehen,
+
+
+hh)
+
+Wirtschaftsgüter, die aufgrund eines Sale-and-Rent-back-Vertrages oder eines Sale-and-Lease-back-Vertrages angeschafft werden,
+
+
+ii)
+
+die Umsatzsteuer für die dem Zuwendungsempfänger in Rechnung gestellte Lieferungen und Leistungen Dritter, für die nach § 15 des Umsatzsteuergesetzes in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S. 386), das zuletzt durch Artikel 11 Absatz 35 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2745) geändert worden ist, Vorsteuer abziehbar ist.  
+
+
+d)
+
+Die Förderung bezieht sich auf den Anteil an den zuwendungsfähigen Ausgaben, mit dem die angeschafften oder hergestellten Wirtschaftsgüter nicht wirtschaftlich genutzt werden. Die Einordnung einer Tätigkeit als nichtwirtschaftliche Tätigkeit richtet sich nach Randnummer 19 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation.
+
+
+e)
+
+Für den Anteil an den zuwendungsfähigen Ausgaben, der auf eine wirtschaftliche Nutzung der angeschafften oder hergestellten Wirtschaftsgüter entfällt, ist eine Förderung im Rahmen anderer Förderprogramme16 zulässig.
+
+
+f)
+
+Der Zuschuss beträgt bis zu 90 Prozent, bei technologiepolitisch besonders bedeutsamen Vorhaben bis zu 100 Prozent, bezogen auf den nicht wirtschaftlich genutzten Anteil der förderfähigen Ausgaben, wenn die gesamten förderfähigen Ausgaben gemäß Buchstabe b bei Forschungseinrichtungen mit weniger als 50 Beschäftigten mindestens 500 000 Euro, bei Forschungseinrichtungen mit 50 bis 99 Beschäftigten mindestens 750 000 Euro und bei den übrigen Forschungseinrichtungen mindestens 1 000 000 Euro betragen. Über die Förderung dieser Fälle entscheidet ein Benehmensgremium unter Leitung des Staatsministeriums für Wirtschaft, Arbeit und Verkehr. Ein Vorhaben gilt zum Beispiel als „technologiepolitisch besonders bedeutsam“, wenn:
+
+
+–
+
+
+es einen maßgeblichen Beitrag zur Erhöhung der internationalen Forschungskompetenz einer Einrichtung leistet,
+
+
+–
+
+
+es mit einer signifikanten (mindestens 20 Prozent) Steigerung von Umsatz und Anzahl der Beschäftigten des Antragstellers einhergeht,
+
+
+–
+
+
+der Antragsteller in den vergangenen fünf Jahren keine Förderung von EU, Bund oder Land für Investitionsprojekte erhalten hat oder
+
+
+–
+
+
+der Eigenanteil an der Finanzierung des Gesamtvorhabens inklusive des wirtschaftlich genutzten Anteils an zuwendungsfähigen Ausgaben mindestens 50 Prozent beträgt17.
+
+
+g)
+
+Für Vorhaben mit Investitionsausgaben unterhalb der in Buchstabe f genannten Schwellenwerte kann der Zuschuss bis zu 50 Prozent bezogen auf den nicht wirtschaftlich genutzten Anteil der zuwendungsfähigen Ausgaben betragen, wobei für diese Vorhaben die zuwendungsfähigen Ausgaben auf die in Buchstabe b Doppelbuchstabe bb bis dd aufgeführten Ausgaben beschränkt sind. Fördervoraussetzung ist, dass die gesamten zuwendungsfähigen Ausgaben im Rahmen eines Antrags gemäß Buchstabe b Doppelbuchstabe bb bis dd mindestens 50 000 Euro betragen.
+
+
+6.
+
+Sonstige Zuwendungsbestimmungen
+
+
+a)
+
+Die Gesamtlaufzeit des Vorhabens soll 36 Monate nicht überschreiten.
+
+
+b)
+
+Die geförderten Wirtschaftsgüter unterliegen einer Zweckbindungsfrist und müssen mindestens fünf Jahre nach Abschluss des Investitionsvorhabens in der geförderten Industrieforschungseinrichtung verbleiben, es sei denn, sie werden durch gleiche oder höherwertige Wirtschaftsgüter ersetzt. Das ersetzende Wirtschaftsgut ist nicht erneut förderfähig.
+
+
+c)
+
+Die nichtwirtschaftlichen und die wirtschaftlichen Tätigkeiten und ihre Kosten, Finanzierung und Erlöse müssen nach einheitlich angewandten und sachlich zu rechtfertigenden Kostenrechnungsgrundsätzen klar voneinander getrennt werden, um eine Quersubventionierung der wirtschaftlichen Tätigkeit auszuschließen (siehe auch Nummer 2.1.1 Randnummer 18 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation). Dies ist anzunehmen, wenn in einem System des Vollkostenansatzes sämtliche Aufwendungen durch eine Trennungsrechnung den jeweiligen Projekten sowohl des wirtschaftlichen als auch des nichtwirtschaftlichen Bereiches zugeordnet werden können.
+
+
+d)
+
+Im Fall einer innerhalb des steuerlichen Abschreibungszeitraums von der Antragstellung abweichenden stärkeren wirtschaftlichen Nutzung der geförderten Wirtschaftsgüter müssen die anteiligen Beihilfebeträge nebst Zinsvorteil zur Kostendeckung im nichtwirtschaftlichen Bereich verwendet werden. Im Fall einer innerhalb der Zweckbindungsfrist gemäß Buchstabe b von der Antragstellung abweichenden stärkeren wirtschaftlichen Nutzung der geförderten Wirtschaftsgüter ist in der Regel der auf die wirtschaftliche Nutzung entfallende Zuschussanteil zurückzufordern.
+
+
+e)
+
+Zum Nachweis der Einhaltung der spezifischen Zuwendungsvoraussetzungen der Buchstaben c und d ist über die gewöhnliche Nutzungsdauer der geförderten Wirtschaftsgüter ein geeigneter Monitoringmechanismus einzurichten.
+
+
+f)
+
+Um die Wirksamkeit des Förderprogramms bewerten zu können, ist es erforderlich, dass die mit einer Evaluation beauftragten Institutionen die notwendigen Informationen erhalten. Die dazu ausgewählten Zuwendungsempfänger haben dazu vorhabenbezogene Informationen, auch über den Inhalt eines Zwischen- und Verwendungsnachweises hinaus, sowie einrichtungsbezogene Angaben, die bei der Antragstellung relevant waren oder allgemeiner Art sind, zur Verfügung zu stellen. Die Evaluationsinstitutionen sind verpflichtet, die Informationen vertraulich zu behandeln und ausschließlich zu dem bezeichneten Zweck zu verwenden.
+
+
+g)
+
+Eine Förderung ist ausgeschlossen, wenn mit dem Investitionsvorhaben vor Bewilligung des beantragten Vorhabens begonnen wurde. Die Bewilligungsstelle kann auf schriftlichen Antrag in begründeten Fällen eine Genehmigung zum vorzeitigen Maßnahmenbeginn erteilen. Beginn der Arbeiten für das Investitionsvorhaben ist entweder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- oder Leistungsvertrags oder der Beginn der Bauarbeiten für die Investition oder die erste rechtsverbindliche Verpflichtung zur Bestellung von Ausrüstung oder eine andere Verpflichtung, die die Investition unumkehrbar macht. Der früheste der vorgenannten Zeitpunkte ist maßgebend. Der Kauf von Grundstücken und Vorarbeiten wie die Einholung von Genehmigungen und die Erstellung vorläufiger Durchführbarkeitsstudien gelten nicht als Beginn der Arbeiten für das Investitionsvorhaben. Bei Baumaßnahmen gelten Planung und Baugrunduntersuchung sowie sonstige vorbereitende Maßnahmen nicht als Beginn des Vorhabens.
+
+
+h)
+
+Eine Zuwendung wird nicht gewährt, wenn zum Zeitpunkt der Bewilligung der Antragsteller seine Forschungs- und Entwicklungsaktivitäten, seine Geschäftstätigkeit oder seine Zahlungen eingestellt hat oder ein Insolvenzverfahren unmittelbar bevorsteht, beantragt oder eröffnet worden ist.
+
+
+i)
+
+Eine Förderung kann nur erfolgen, wenn das Vorhaben den öffentlich rechtlichen Vorschriften, insbesondere dem Bau-, Planungs-, Raumordnungs- und Umweltrecht entspricht.
+
+
+7.
+
+Verfahren
+
+
+a)
+
+Anträge können grundsätzlich jederzeit auf den dafür vorgesehenen Vordrucken bei der Bewilligungsstelle eingereicht werden. Der Zuwendungsgeber kann in Form von Aufrufen zur Einreichung von Förderanträgen zu einem bestimmten Stichtag auffordern. Pro Kalenderjahr kann jede Einrichtung höchstens eine Bewilligung erhalten.
+
+
+b)
+
+Den Anträgen sind folgende Unterlagen beizufügen:
+
+
+aa)
+
+Bescheinigung des Wirtschaftsprüfers oder Steuerberaters, dass der Antragsteller über ein ausreichend differenziertes Rechnungswesen gemäß Nummer 6 Buchstabe c verfügt;
+
+
+bb)
+
+eine Vorhabensbeschreibung mit Darstellung und Begründung der beantragten investiven Maßnahme(n) und den angestrebten Auswirkungen auf die Innovationsstärke des Antragstellers und seiner Partner und Kunden in der sächsischen Wirtschaft.
+
+
+8.
+
+Beihilferechtliche Bestimmungen
+
+Bei den Zuwendungen für die Anschaffung oder Herstellung nicht wirtschaftlich genutzter Wirtschaftsgüter handelt es sich nicht um staatliche Beihilfen gemäß Ziffer I Nummer 3.“
+
+
 III.
 Inkrafttreten
 
@@ -946,9 +1211,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Juli 2017
+Fassung gültig ab:  3. November 2017
 
-Fassung gültig bis:  2. November 2017
+Fassung gültig bis:  1. Februar 2018
 
 Drucken/Speichern
 
@@ -973,7 +1238,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.1
+https://www.revosax.sachsen.de/vorschrift/17309.2
 Stand vom
 18.11.2026
 
