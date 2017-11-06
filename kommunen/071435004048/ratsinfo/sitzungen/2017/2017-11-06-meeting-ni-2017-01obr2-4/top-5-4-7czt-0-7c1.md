@@ -1,0 +1,7 @@
+# TOP 5: Zuschuss für Treff 65
+
+- Sitzung: Sitzung des Ortsbeirates Elgendorf (2017-11-06)
+- Körperschaft: Stadt Montabaur
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2017-01OBR2-4%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 5 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2017-01OBR2-4%7Czt_0%7C1
