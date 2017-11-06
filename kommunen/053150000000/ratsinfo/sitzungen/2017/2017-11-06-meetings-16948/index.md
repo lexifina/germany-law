@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-06T17:00:00+01:00
+- Ende: 2017-11-06T19:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16948
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16948
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Sachstand Konzept für ein Fördermonitoring und -management - Kenntnis genommen
+- TOP -: Sachstand Konzept für ein Fördermonitoring und -management 1604/2017 - Kenntnis genommen
+- TOP 2.2: Chinafest 2017 - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage von MdR Möller in der Sitzung am 18.09.2017 betreffend "Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen" - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Nachfrage von MdR Richter in der Sitzung am 03.07.2017 betreffend "Türsteherinnen und -steher sowie Sicherheitskräfte in Kölner Clubs und Diskotheken" - Kenntnis genommen
+- TOP 3.3: Beantwortung einer mündlichen Anfrage von MdR Detjen in der Sitzung am 18.09.2017 betreffend "Entwicklung der Ausbildungsquote" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Livestream - Kenntnis genommen
+- TOP 4.2: Umsetzung des Glücksspielstaatsvertrages in Köln - Kenntnis genommen
+- TOP 4.3: Evaluierung der Reinigung am Rheinboulevard - Kenntnis genommen
+- TOP 4.4: Verwaltungsreform - Aktueller Umsetzungsstand - Kenntnis genommen
+- TOP 4.5: Sachstand Ausgleichszahlung BAB 3 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Ebertplatz
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Gruppe Piraten betreffend "Städtische Videoüberwachung 2015 und 2016" zur Sitzung am 25.04.2016 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 19.10.2017 - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion DieLinke betreffend "Sexistische Werbung auf städtischen Plakatflächen" zur Sitzung am 18.09.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 18.09.2017 - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion DieLinke betreffend "Interkulturelle Kompetenz der Stadtverwaltung" zur Sitzung am 18.09.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 02.11.2017 - Kenntnis genommen
+- TOP 6.4: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Neue Datenschutz-Grundverordnung" zur Sitzung am 06.11.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 18.10.2017 - Kenntnis genommen
+- TOP 6.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Sachstand: Transparente Darstellung städtischer Leistungen und Gebühren" zur Sitzung am 06.11.2017 - zurückgestellt
+- TOP 6.6: Anfrage der Gruppe Piraten betreffend "Wieso wird den Galerien am Ebertplatz gekündigt?" zur Sitzung am 06.11.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 06.11.2017 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Konsequente Umsetzung des neuen Glücksspielrechts - Illegale Wettbüros endlich schließen" - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 3.1.3: Antrag der SPD-Fraktion „Konsequente Umsetzung des neuen Glücksspielrechts“ (AN/0747/2017) - Sache ist erledigt
+- TOP 8.2: Antrag der Gruppe Piraten betreffend "Section Control auf Eis legen und Gutachten vorlegen" - Sache ist erledigt
+- TOP -: Stellungnahme der Verwaltung vom 06.11.2017 - Kenntnis genommen
+- TOP 8.3: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Sag´s uns-App der Stadt Köln" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Stadtentwässerungsbetriebe Köln, AöR (StEB); Abwassergebührensatzung 2018 - ungeändert beschlossen
+- TOP 10.2: Abschluss eines 4-Jahres-Rahmenvertrages zur Beschaffung von Komponenten des digitalen Bündelfunks - ungeändert beschlossen
+- TOP 10.3: Abschlepprahmenvertrag - zurückgestellt
+- TOP 10.4: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
