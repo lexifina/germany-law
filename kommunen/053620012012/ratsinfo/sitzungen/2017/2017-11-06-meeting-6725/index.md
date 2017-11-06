@@ -1,0 +1,62 @@
+# Rat (37. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-11-06T17:03:00+01:00
+- Ende: 2017-11-06T20:57:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZc-8ysMzi7I9yLVsBKrZsDk
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6725
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZawkV2pnO8szKCooryNDJPO6plaBGxcbdj3NSw4QtzQB/Bekanntmachung_Rat_06.11.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaOhnPjQMCv-TCTC0cCc096bd98lv5cBNQVOiHh2eBpP/Oeffentliche_Niederschrift_Rat_06.11.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Überreste Landtagswahlkampf
+- TOP 1.2: Neubau Rathaus B Steinweg
+- TOP 2.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2018 - (kein Text vorhanden)
+- TOP 3.: Sanierung und Teilneubau Rathaus B und Neugestaltung Janshof hier: Verhandlungsgespräch Architektenwettbewerb
+- TOP 4.: Niederschrift vom 25.09.2017
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Benennung einer Straße nach Prof.Dr.Grosche Bezug: Antrag der SPD-Fraktion vom 24.06.2017
+- TOP 5.2: Benennung einer Straße nach Pfarrer Robert Grosche
+- TOP 5.3: Benennung einer Straße nach Pfarrer Grosche - (kein Text vorhanden)
+- TOP 6.: Satzungen
+- TOP 6.1: Sondersatzung nach § 4 Abs. 5 der Satzung über die Erhebung von Beiträgen nach § 8 des KAG NRW für straßenbauliche Maßnahmen -Markt- - (kein Text vorhanden)
+- TOP 6.2: 1. Satzung zur Änderung der Satzung der Stadt Brühl über den Anschluss und die Benutzung der Fernwärmeversorgung in Neubaugebieten im Brühler Süden - (kein Text vorhanden)
+- TOP 6.3: Friedhofs- und Bestattungssatzung für die Stadt Brühl hier: Neufassung - (kein Text vorhanden)
+- TOP 6.4: Gebührensatzung für das Friedhofs- und Bestattungswesen hier: Neufassung - (kein Text vorhanden)
+- TOP 7.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 7.1: Sanierung des Bolzplatzes an der Erich Kästner-Realschule hier: überplanmäßige Mittelbereitstellung Bezug: Dringlichkeitsentscheidung durch den Ersten Beigeordneten Brandt und Ratsherr Dr. Petran (SPD) vom 27.10.2017 - (kein Text vorhanden)
+- TOP 8.: Umlagezahlung AöR hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.: Überplanmäßige Mittelbereitstellung Parkplätze Hedwig-Gries-Straße - (kein Text vorhanden)
+- TOP 10.: Kindertagesbetreuung in Einrichtungen hier: Finanzierung der Einrichtungskosten der fünfgruppigen Kindertagesstätte und der beiden Vorläufer-Gruppen im Mini-Cultra des ASB Bezug: Schreiben des Arbeiter-Samariter-Bundes Regionalverband Erft/Düren (ASB) vom 21.08.2017 - (kein Text vorhanden)
+- TOP 11.: Job-Ticket-Ausgabe im Jahr 2018 - (kein Text vorhanden)
+- TOP 12.: BP 06.92, 2. Änderung „Gallbergsiedlung“ Sachstand zum Bebauungsplanverfahren
+- TOP 12.1: Bebauungsplan 06.92 'Gallbergsiedlung', 2. Änderung - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 13.: Bebauungsplan 04.08 „Sonder- und Gewerbegebiet Bergerstraße / Lise-Meitner-Straße“ - 1. Verlängerung der Veränderungssperre gemäß § 14-18 BauGB - - (kein Text vorhanden)
+- TOP 14.: 22. Mitgliederversammlung "Gemeindekongress 2017" des Städte- und Gemeindebundes NRW am 23. November 2017 in Düsseldorf hier: Nachbenennung einer Vertreterin/eines Vertreters - (kein Text vorhanden)
+- TOP 15.: Benennung eines stellvertretenden Mitglieds für den Aufsichtsrat der Wirtschaftsförderung Rhein-Erft GmbH (WfG) - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 16.1: Umbesetzung Sozialausschuss hier: mündlicher Antrag der SPD Fraktion
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Digitale Ausstattung an Schulen Bezug: Anfrage der FDP-Fraktion vom 19.10.2017
+- TOP 18.1.1: Digitale Ausstattung an Schulen Bezug: Anfrage der FDP-Fraktion vom 19.10.2017
+- TOP 18.2: Pflaster am "Ockenfels Hochhaus"
+- TOP 18.3: Brühler Stadtordnung
+- TOP 18.4: Homepage I
+- TOP 18.5: Fusionierung der Volksbanken
+- TOP 18.6: Bahnübergang Brühl-Schwadorf
+- TOP 18.7: Homepage II
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Rathaus Steinweg Neubau "Wettbewerbsverfahren Architektenentwurf" Vergabe der Planungsleistungen - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 20.1: Situation Lupinenweg
+- TOP 21.: Anfragen
+- TOP 21.1: ÖPNV
+- TOP 21.2: Verkehrssituation in der Mönengasse
