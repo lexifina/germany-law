@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 10 Haushaltssatzung und Haushaltsplan der Stadt Köln für das Haushaltsjahr 2018 einschl. mittelfristiger Finanzplanung bis 2021
+
+- Sitzung: 32. Sitzung des Rates (Sondersitzung - Verabschiedung Haushalt 2018) (2017-11-07)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/238212
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/110277
