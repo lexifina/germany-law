@@ -1,0 +1,7 @@
+# TOP 2: Anerkennung der Tagesordnung
+
+- Sitzung: Ausschuss für Wirtschaftsförderung, Tourismus und Liegenschaften (2017-11-07)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/214372
+- Ergebnis: einstimmig beschlossen
