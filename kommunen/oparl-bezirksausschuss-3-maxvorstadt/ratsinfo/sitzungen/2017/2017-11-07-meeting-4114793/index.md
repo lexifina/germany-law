@@ -1,0 +1,112 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2017-11-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4114793
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4114793
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.2.: Standortsuche für die mögliche Aufstellung von Dialogdisplays in der Maxvorstadt
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Schreiben eines Bürgers vom 06.10.2017 Silvesterfeuerwerk
+- TOP 5.2.2.: Baumpflanzungen in der Karlstraße, Bürgeranliegen vom 13.09.2017 vertagt aus der Sitzung vom 10.10.2017
+- TOP 5.2.3.: Begrünung der Karlstraße zwischen Dachauer Straße und Seidlstraße sowie verstärkte Verkehrsüberwachung im Bereich Dachauer Straße / Karlstraße Bürgeranliegen vom 16.10.2017
+- TOP 5.2.4.: Fahrradständer vor Anwesen Seidlstraße 28, Eingang Karlstraße
+- TOP 5.2.5.: Nachpflanzungen Schellingstraße/Luisenstraße, Bürgeranliegen vom 08.10.2017
+- TOP 6.1.: Referat für Gesundheit und Umwelt, Städt. Friedhöfe München Antwortschreiben zu einer Bürgeranfrage, s. TOP A 5.2.5/092017
+- TOP 6.2.: Rotunde des ehemaligen Paketzustellamtes für die Öffentlichkeit zugänglich erhalten
+- TOP 6.3.: Kreisverwaltungsreferat, Verkehrsanordnungen Öffnung der Adelheidstraße zwischen dem Josephsplatz und der Georgenstraße für den gegenläufigen Radverkehr
+- TOP 6.4.: Abbiegen für den Radverkehr aus westlicher Richtung von der Brienner Straße in die Türkenstraße ermöglichen
+- TOP 6.5.: Kreisverwaltungsreferat, Antwortschreiben Beidseitige Markierung von Radfahrstreifen in der Brienner Straße zwischen Königs- und Stiglmaierplatz, s. TOP C 2.1.3/062015
+- TOP 6.6.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2056:Warum werden lediglich 23 Wohnungen als Kompensation für ein riesiges Filetstück von 24.100 m² auf einer Gemeinbedarfsfläche Verwaltung gefordert
+- TOP 6.7.: Warum wurde die Gemeinbedarfsfläche Verwaltung im Flächennutzungsplan (Paketzustellamt) nicht geändert?
+- TOP 6.8.: Kreisverwaltungsreferat, Antwortschreiben auf Bürgeranliegen (s. TOP A 5.2.2/062017) Parkverbot Marsstraße 19 „Young Refugee Center“
+- TOP 6.9.: Kreisverwaltungsreferat, Antwortschreiben BA-Antrag Nr. 14-20 / B 03825 vom 18.07.2017; Fahrradfahren entgegen der Einbahn- straßenregelung in der Adelheidstraße zwischen Josephsplatz und Georgenstraße am Josephsplatz Nord erlauben
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 22.10.2017 Welche Maßnahmen sind gegen die gesundheitsgefährdende Stickoxyd-Belastung z.B. in der Türken- und Schellingstraße im Bereich der Grundschule geplant
+- TOP 2.1.1.: Liste der Bauvorhaben der LBK: 39., 40., 41., 42. KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 40., 41. KW
+- TOP 2.1.3.: Nachtrag Schleißheimer Straße 90, Neubau eines Wohngebäudes
+- TOP 2.1.4.: Nachtrag 2.1.4 Denisstraße 5, Neubau eines Gebäudekomplexes mit Hotel, Büros und Gastronomie
+- TOP 2.1.5.: Nachtrag 2.1.5 Theresienstraße 35, Aufstockung und Erweiterung EG und Nutzungsänderung
+- TOP 3.2.1.: Theresienstraße 60, ein Baum
+- TOP 3.2.2.: Brienner Straße 46, ein Judas- und ein Haselbaum
+- TOP 5.1.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 5.2.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 5.3.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 5.4.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 5.5.: Aufstellungsbeschluss Bebauungsplan mit Grünordnung Königinstraße (östlich), Veterinärstraße (nördlich), Englischer Garten (westlich) – Entwicklungscampus Königinstraße – Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität Sitzungsvorlage Nr. 14-20/V 09889
+- TOP 5.6.: Geförderter Wohnungsbau in München: Bekanntgabe für die Jahre 2014-2016 Sitzungsvorlage Nr. 14-20/V 09560
+- TOP 5.7.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Genehmigungsbescheid zur Fällung von 4 Bäumen in der Blutenburgstraße 1
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag CSU vom 09.10.2017, Radschnellweg Olympiapark-Maxvorstadt
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 21.10.2017 Grundsatzbeschluss Radverkehr – Antrag zur Stadtratsvorlage
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 22.10.2017 Heßstraße als Fahrradstraße ausweisen – Unterstützung des Antrages des BA 9 vom 28.09.2016
+- TOP 1.4.: Antrag der Vorstandsmitglieder des BA 3 Maxvorstadt Veranstaltung am Königsplatz „Rockavaria“ untersagen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kreisverwaltungsreferat, Entscheidung Einrichtung eines Taxistandplatzes in der Leopoldstraße am Siegestor
+- TOP 2.2.1.: Stadtwerke MVG, Anhörung MVG Rad Station Sandstraße
+- TOP 2.2.2.: Kreisverwaltungsreferat, Entscheidung Brienner Straße 14: Aufstellen eines mobilen Fahrradständers
+- TOP 2.2.3.: Kreisverwaltungsreferat, Antrag für die Aufstellung von Sitzgelegenheiten Fürstenstraße 9, zwei Stühle
+- TOP 2.2.4.: Nachtrag,Kreisverwaltungsreferat, Warenauslage Türkenstraße 48, drei Postkartenständer
+- TOP 2.3.1.: Isabellastraße 13, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: Augustenstraße 43, Genehmigung einer Freischankfläche
+- TOP 2.4.1.: Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz 2017
+- TOP 2.4.2.: Winterhoffest am 02.12.2017, Ludwigstraße 2
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Karlsplatz 25 Umgestaltung der öffentlichen Verkehrsflächen im Vorfeld des Hotels Königshof im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt 1. Bedarfs- und Konzeptgenehmigung 2. Genehmigung zur verwaltungsinternen Abwicklung der weiteren Genehmigungsschritte 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 3.2.: Baumaßnahmen der Stadtwerke a) Dachauer Straße 98 a, Fernwärme b) Marsstraße 31, Fernwärme
+- TOP 3.3.: München Marathon am 08.10.2017, Erlaubnisbescheid
+- TOP 3.4.: Schreiben eines Bürgers vom 04.10.2017: Weinfest auf dem Josephsplatz
+- TOP 3.5.: (U) EU-Projekt METAMORPHOSIS
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 3.8.: Stadtwerke MVG Betriebskonzept während Tunnelsanierung auf U1-Nord vom 23.10.2017 bis 06.04.2018
+- TOP 3.9.: Karlsplatz 25, Umgestaltung der öffentlichen Verkehrsflächen im Bereich des Hotel Königs- hof
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag von Bündnis 90/Die Grünen vom 22.10.2017 Straßen in der Maxvorstadt im nächsten Mietspiegeln von „Zentral guter Lage“ in „Zentral durchschnittliche Lage“ einstufen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Planung der Einsätze der Münchner SommerSpielaktion 2018
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Förderverein Schwindschule e.V. Hausaufgabenbetreuung vom 04.12.2017 - 26.07.2018 4.050,00 € 0262.0-3-0180
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Kunstareal München - Kunst, Kultur, Wissen Sachstandsbericht 2017, Fortführung Koordination Kunstareal und Finanzierung
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Direkotrium, Anhörung Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen Antrag Nr. 14-20 / A 03183 der ÖDP vom 21.06.2017
+- TOP G: Nicht öffentliche Sitzung
