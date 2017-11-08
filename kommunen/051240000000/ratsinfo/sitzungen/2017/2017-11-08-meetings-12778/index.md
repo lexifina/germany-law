@@ -1,0 +1,61 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-11-08T16:02:00+01:00
+- Ende: 2017-11-08T16:18:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12778
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12778
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00213029.pdf
+- Wortprotokoll: Einladung m. d. Ergebnissen d. Vorberatungen - Stand: 30.10.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00212596.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wiederwahl von Herrn Beigeordneten Nocke (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Wuppertaler Initiative für Demokratie und Toleranz
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER - "Wuppertaler Initiative für Demokratie und Toleranz" (VO/0823/17) vom 13.10.2017
+- TOP 2.2: Folgekosten Döppersberg-Umbau
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE - "Folgekosten Döppersberg-Umbau" (VO/0831/17) vom 17.10.2017
+- TOP 2.3: Adressweitergabe und Widerspruch
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE - "Adressweitergabe und Widerspruch" (VO/0833/17) vom 17.10.2017
+- TOP 2.4: Krankenhausfinanzierung
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - "Krankenhausfinanzierung" (VO/0843/17) vom 19.10.2017
+- TOP 2.5: Kostenkalkulation der Elternbeiträge für die Ganztagsbetreuung
+- TOP 2.5.1: Die Drucksachw wurde von der Verwaltung zurückgezogen. Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - "Kostenkalkulation der Elternbeiträge für die Ganztagsbetreuung
+- TOP 2.6: Geschäft von Wuppertal Marketing Gesellschaft und ASS Bochum II
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Ergänzung der ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen der Stadt Wuppertal um die Punkte Bettelei und Verkauf von Straßenzeitungen - abgelehnt
+- TOP 4.2: Risiko-Fußballspiele im Stadtgebiet - abgelehnt
+- TOP 4.3: Digitalisierungsoffensive bei der Vergabe von städtischen Plätzen und Räumen - vertagt auf Rat
+- TOP 4.4: Erste Schritte zur digitalen Vorreiterstadt durch Ausbau des Glasfasernetzes - vertagt auf Rat
+- TOP 4.5: Koordinator*in Engels-Jahr - zur Vorberatung verwiesen
+- TOP 4.6: Öffentlicher Bericht des Rechnungsprüfungsamtes bezüglich des Verkaufs der RWE-Aktien - vertagt auf Rat
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - vertagt auf Rat
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zweiter Nachtragshaushaltsplan 2017 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Konsolidierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (GWG) Durchführungsbeschluss - vertagt auf Rat
+- TOP 8.1.1: Begleitbeschluss zur Konsolidierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal - vertagt auf Rat
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 1226V - Bunker Schusterstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1222 - Monschaustraße - Süd - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 954 - Döppersberg - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbezogener Bebauungsplan 1236V - Wohnpark Barmenia-Allee - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Leitlinien für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 11.2: Städtebauliche Entwicklungsperspektive Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 69 Landespersonalvertretungsgesetz (LPVG NRW) - Nachbesetzung stellv. Vorsitz - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.3: Neuwahl der Arbeitnehmervertreter für den Aufsichtsrat der AWG (nur Rat)
+- TOP 12.4: Gremienumbesetzung Sportausschuss - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
