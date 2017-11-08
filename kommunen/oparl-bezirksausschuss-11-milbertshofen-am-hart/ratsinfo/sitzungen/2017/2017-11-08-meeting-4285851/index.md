@@ -1,0 +1,83 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285851
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285851
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Benennung stellvertretender Vorsitzender im Unterausschuss Bau / Umwelt
+- TOP 2.3.: Benennung neues Mitglied im Unterausschuss Verkehr
+- TOP 4.2.1.: Neuer Bodenbelag für das Basketball-Spielfeld am Rande der Siedlung Nordhaide (Westteil) - Minimierung der Verletzungsgefahr
+- TOP 4.4.1.: Fußgängerübergang Weyprechtstraße (Höhe St. Gertrud-Kirche)
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Pfarrei Frieden Christi Ökumenischer Frauentag am 18.11.2017 230,00 Euro 0262.0-11-0264
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Kulturverein "WENDES" - München Lesungen und Gesänge am 03.12.2017 982,50 € 0262.0-11-0263
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Wiederaufforstung am Harthofanger Empfehlung Nr. 14-20 / E 01674 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.2.: (E) Erneuerung Abfallbehälter U-Bahnhof Harthof Empfehlung Nr. 14-20 / E 01680 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.3.: (E) Neubau Schulgebäude an der Bernaysstraße: Regelmäßige Bauüberwachung mit Dokumentation und Verwendung von schadstofffreien Baumaterialien Empfehlung Nr. 14-20 / E 01673 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.4.: (E) Kontrolle der Anleinpflicht für Hunde im Petuelpark und am Christoph-von-Gluck-Platz Empfehlung Nr. 14-20 / E 01678 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.5.: (E) Jugendspielplatz an der Thalhoferstraße Empfehlung Nr. 14-20 / E 01677 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.6.: (E) Gemeinwohlnützliche Neugestaltung der Grünanlage am Schollerweg Empfehlung Nr. 14-20 / E 01686 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.7.: (E) Freizeitpark: Sportgeräte in der Grünanlage am Schollerweg / Bernaysstraße Empfehlung Nr. 14-20 / E 01687 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.8.: (E) Umbenennung der neu gestalteten Grünfläche am Schollerweg / Bernaysstraße in "Bernayspark" Empfehlung Nr. 14-20 / E 01683 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.9.: (E) + (U) Lift an der U2-Bahnstation Am Hart am Busbahnhof Empfehlung Nr. 14-20 / E 01667 der Bürgerversammlung des Stadtbezirkes 11 – Milbertshofen – Am Hart am 20.07.2017
+- TOP 6.2.10.: (E) Kulturhaus am Curt-Mezger-Platz; Lärmschutz für Anwohner in der Piccoloministraße 1 bis 7; Störung durch laute Veranstaltungen Empfehlung Nr. 14-20 / E 01675 der Bürgerversammlung des Stadtbezirkes 11 – Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.11.: (E) Organisation und Durchführung von Veranstaltungen der Polizei in den Stadtteilen (Organisation und Prävention) BV-Empfehlung Nr. 14-20 / E 01682 der Bürgerversammlung des Stadtbezirks 11 - Ramersdorf-Perlach vom 20.07.2017
+- TOP 6.2.12.: (E) Änderung der Ampelschaltung bei der Bushaltestelle Rose-Pichler-Weg
+- TOP 6.2.13.: (E) + (U) Wiedereinführung der Buslinie „Münchner Freiheit / Ingolstädter Straße / München-Nord“ Empfehlung Nr. 14-20 / E 01669 der Bürgerversammlung des Stadtbezirkes 11 – Milbertshofen – Am Hart am 20.07.2017
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Antrag auf gleichstellungsorientiertes Budget
+- TOP 7.2.1.: Erweiterung des Gymnasium Nord um mindestens einen weiteren Zug und Aufnahme in das Schulbauprogramm der LHM
+- TOP 7.2.2.: Anwohner-Workshop für die Neugestaltung des Grünstreifens am Schollerweg
+- TOP 7.2.3.: Stabile Sitzbänke für den Nordhaideplatz
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Panzerwiese/Hartelholz: kirchliches Osterfeuer es Evangeliumszentrums am 01.04.2018
+- TOP 8.2.2.: Änderung der Bezirksausschuss-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 11. Stadtbezirk
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20/ V 09501
+- TOP 8.4.2.: Haltverbot in der Bischof-Adalbert-Straße
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Verwendungsnachweise BA-Budget
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Baumentfernungen und Gehölzepflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städt. Grundstücken
+- TOP 9.2.2.: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 9.2.3.: (U) Erweiterung des Grünzuges vom Petuelring bis zur Nordheide (Panzerwiese) Empfehlung Nr. 14-20 / E 01113 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016
+- TOP 9.2.4.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 9.2.5.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 9.2.6.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Ausbau der Schulsozialarbeit an Grundschulen Einführung eines Verbundsystems Schulsozialarbeit an Grundschulen Antrag Nr. 14-20 / A 01046 ......... Schulsozialarbeit an der Grundschule Forellenstraße Antrag Nr. 14-20 / A 01047 .......... Antrag auf Stundenerweiterung für die Schulsozialarbeit an der Grundschule Hanselmannstraße Antrag Nr. 14-20 / B 03572 ............... Schulsozialarbeit an der Grundschule Baierbrunner Straße Antrag Nr. 14-20 / B 03978 .................. Produkt 60 3.1.2 Jugendsozialarbeit
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
