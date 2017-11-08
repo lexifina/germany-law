@@ -1,0 +1,8 @@
+# TOP 4.3: Digitalisierungsoffensive bei der Vergabe von städtischen Plätzen und Räumen
+
+- Sitzung: öffentliche Sitzung des Hauptausschusses (2017-11-08)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/80294
+- Ergebnis: vertagt auf Rat
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/37919
