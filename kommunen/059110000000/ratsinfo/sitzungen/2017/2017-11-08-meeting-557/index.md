@@ -1,0 +1,55 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2017-11-08T15:00:00+01:00
+- Ende: 2017-11-08T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXHnVHZqUvjqo0QTY7VpO-A
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/557
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZasbquh-6pNKVbiAHOxDsluJX3KpyIGUtQUo4dHlhsiH/Einladung_Seniorenbeirat_08.11.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW9i7Ek0GUbaY9dfCk_DvxqvOIJ2jtMvwLldq9Ce5HGH/Oeffentliche_Niederschrift_Seniorenbeirat_08.11.2017.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Sitzgelegenheiten - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Seniorenveranstaltung in der Stadthalle Wattenscheid - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Wohnen im Alter - Generationsgerechte Wohnquartiere - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Barrierefreie Absenkung des Roten Teppichs am Hauptbahnhof - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Instandhaltung von Teilbereichen des östlichen Gehweges in Höhe des Wiemelhauser Friedhofes - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Bänke auf der Dinnendahlstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Wege auf dem Hammer Friedhof - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Nahverkehrsplan Stadt Bochum 2017, Fortschreibung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Soziale Stadt Wattenscheid - Sachstandsbericht 2016 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Haltestelle Belia Seniorenresidenz Riemke - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Verkauf von Euroschlüsseln für öffentliche Behindertentoiletten - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.12: Sporthalle Von-der-Recke-Straße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.13: Bochumer Ortsteile kompakt 2017 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.14: Neues aus den Gremien
+- TOP 7: Anfragen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 8.1: Sparkassenfilialen in Bochum - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.2: Straßenbeleuchtung - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.3: Personalsituation in den Seniorenbüros - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.4: Parksituation Ärztehaus Langendreer Unterstr.
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
