@@ -1,0 +1,111 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-11-08T17:05:00+01:00
+- Ende: 2017-11-08T22:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4170
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4170
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=259129
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Beidseitige Rollrampe für die S-Bahn-Unterführung (S25) zwischen Wittestraße und Soltauer Str./Innungsstraße - beantwortet
+- TOP 2.2: Tegeler Fließ - beantwortet
+- TOP 2.3: Grabensystem Heiligensee - beantwortet
+- TOP 2.4: Überflutungen in Heiligensee - beantwortet
+- TOP 2.5: Schäfersee - beantwortet
+- TOP 2.6: Kälteschutz - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 14. Sitzung der BVV am 08.11.2017 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Schulstandort Stolpmünder Weg - beantwortet
+- TOP 4.2: Turmblasen zu Silvester - beantwortet
+- TOP 4.3: Anhörung zum Problem Mäckeritzwiesen - beantwortet
+- TOP 4.4: Wohnungsbau - beantwortet
+- TOP 4.5: Gewinnung von Schöffen - beantwortet
+- TOP 4.6: Überfällige Dachsanierung Trettachzeile 15 - beantwortet
+- TOP 4.7: Entwicklung des Geländes der Karl-Bonhoeffer-Nervenklinik - beantwortet
+- TOP 4.8: Kinder-BVV - beantwortet
+- TOP 4.9: Reinigung an Berliner Schulen - beantwortet
+- TOP 4.10: Schulplanung im MV - beantwortet
+- TOP 4.11: Turnhallen-Nutzung - beantwortet
+- TOP 4.12: Jobcenter Reinickendorf: Schriftliche Bescheinigung über die Abgabe von Unterlagen - schriftlich beantwortet
+- TOP 4.13: Osteuropäische Obdachlose in Reinickendorf - schriftlich beantwortet
+- TOP 4.14: Auswirkungen des Sturms "Herwart" - schriftlich beantwortet
+- TOP 4.15: Abgelehnte Asylbewerber aufgrund des Haushaltstitels 3995 - schriftlich beantwortet
+- TOP 4.16: Bebauung Bonhoeffer-Areal - beantwortet
+- TOP 4.17: Bericht Rechtsextremismus 2016 für Reinickendorf - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Ehe für alle: Ist Reinickendorf vorbereitet? (Große Anfrage) - beantwortet
+- TOP 5.2: Klimaschutz in Reinickendorf - unser Beitrag zur nachhaltigen Entwicklung? (Große Anfrage) - beantwortet
+- TOP 5.3: Tetra-Pak-Gelände in Heiligensee (Große Anfrage) - beantwortet
+- TOP 5.3.1: Zukunft Tetra-Pak und Underberg-Gelände - überwiesen
+- TOP 5.4: Informationsveranstaltung zu den Bauarbeiten in der Oranienburger Straße (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.5: Unterrichtsausfall entgegenwirken (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Das Märkische Viertel fit machen für den Zuzug weiterer Einwohner (Beschlussempfehlung) - vertagt
+- TOP 5.7: Kein Tempo 30 auf Hauptstraßen (Beschlussempfehlung) - vertagt
+- TOP 5.8: Integrationsprojekt "Himmel und Erde" auf Sportvereine ausweiten (Beschlussempfehlung) - vertagt
+- TOP 5.9: Müllkonzept für ein sauberes Reinickendorf (Beschlussempfehlung) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: SIBUZ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Betrieb der Jugendverkehrsschulen dauerhaft sichern - überwiesen
+- TOP 7.3: Vorübergehende Aussetzung von Kostensenkungsverfahren bei den Kosten der Unterkunft (KDU) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Modulare Unterkunft für Flüchtlinge in der Bernauer Straße I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Kurzzeitpflegeplätze dringend erforderlich - überwiesen
+- TOP 7.6: Umbenennung des Integrationspreises - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Auswertung der eingegangenen Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) zum Bebauungsplanverfahren 12-58 für die Egellsstraße 21 (teilweise), Biedenkopfer Straße 42, 44 und 64, Sterkrader Straße 60 und 62 sowie einen Abschnitt der verlängerten Egellsstraße im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.8: Installierung von Calisthenics-Geräten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Gutachten für Halbmarathon über Brücke in der Ernststraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Personalentwicklung im Bezirksamt Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten und deren Stellverteter für das Bezirksamt Reinickendorf - gewählt
+- TOP 9.2: Wahl der Schiedspersonen für die Schiedsamtsbezirke Reinickendorf 1 und 2 - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Keine Wildtiere im Zirkus! - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Öffentliche City-Toiletten erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Vorkaufsrecht der Mieter in der Cité Foch - erledigt
+- TOP 10.4: Unterstützende Maßnahmen für das Ordnungsamt - in der BVV abgelehnt
+- TOP 10.5: Fachaustausch über Stadtentwicklungsplanungen und Öffentlichkeitsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Verbesserung der Parkplatzsituation an der Autobahnauffahrt Eichborndamm/Antonienstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Weiteres freies W-Lan bei Baumaßnahmen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Verlängerung der Buslinie 324 - in der BVV abgelehnt
+- TOP 10.9: Straßenabwasser von der Residenzstraße vor Einleitung in den Schäfersee vorklären - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Radhaus Reinickendorf - überwiesen
+- TOP 10.11: Unterstützung der schulischen Gremien - vertagt
+- TOP 10.12: Strandbad Tegel als freie Badestelle nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Saubere Parks, glücklicher Bürger - erledigt
+- TOP 10.14: Nachverdichtung von "Discountergrundstücken" prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Keine Parkgebühren für die Mieter des Märkischen Viertels - erledigt
+- TOP 10.16: Radverkehr in Reinickendorf- sicher, komfortabel und ideologiefrei II - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Radverkehr in Reinickendorf- sicher, komfortabel und ideologiefrei III - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Anonymisiertes Bewerbungsverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Diebstahlschutz auf Fahrradabstellanlagen - vertagt
+- TOP 10.20: Winterhilfe in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Neue Konzepte für den Schulweg an Grundschulen - überwiesen
+- TOP 12.2: Verkehrschaos vor Grundschulen und Kindergärten - überwiesen
+- TOP 12.3: Bezirklicher Fuhrpark - überwiesen
+- TOP 12.4: Verkehrskonzept Heinsestraße II - überwiesen
+- TOP 12.5: Bezirklicher Klimaschutzbeauftragter - überwiesen
+- TOP 12.6: Akustik im BVV-Saal - überwiesen
+- TOP 12.7: Klix-Arena - überwiesen
+- TOP 12.8: Städtebauliche Aufwertung eines Platzes in Hermsdorf - überwiesen
+- TOP 12.9: Verhinderung von Falschparkern in der Wittestraße - überwiesen
+- TOP 12.10: Anonyme Beisetzungen auf Reinickendorfer Friedhöfen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Verkehrssituation "Am Pilz" - überwiesen
+- TOP 13.2: Buslinie 327 zeitlich ausweiten - überwiesen
+- TOP 13.3: Fahrräder sicher anschließen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Anzeiger für Umstieg Alt-Tegel - überwiesen
+- TOP 13.5: Geschwindigkeitskontrollen in der Holzhauser Straße - überwiesen
+- TOP 13.6: Unangekündigte Kontrollen in stationären Pflegeeinrichtungen - überwiesen
+- TOP 13.7: Ruppiner Chaussee für den Umleitungsverkehr nutzbar machen - überwiesen
