@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-09T17:00:00+01:00
+- Ende: 2017-11-09T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17406
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17406
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Stadtdirektors Dr. Stephan Keller
+- TOP -: 0 - Aktuelle Stunde „Stillstand beim Integrierten Stadtentwicklungskonzept Porz-Mitte?“
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Anwendung und Auswirkungen des geänderten Glückspielstaatsvertrages in Köln, besonders in Porz. Sachvortrag 32
+- TOP -: C - Sachvortrag Gremberghoven
+- TOP -: D - Notfallplan Baustellenverkehre
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 6.1: Antrag der SPD-Fraktion: Ausweisung „Am Rolshover Hof“ in Anliegerstraße - zurückgestellt
+- TOP 6.2: Antrag der CDU-Fraktion: Prüfung einer Einbahnstraßenführung in Porz-Westhoven - geändert beschlossen
+- TOP 6.3: Antrag der SPD-Fraktion: Teilöffnung der Hohe Straße in Ensen für den Radverkehr - ungeändert beschlossen
+- TOP 6.4: Antrag der CDU-Fraktion: Sachstandsbericht zum Controllingverfahren für Anträge und Anfragen - Sache ist erledigt
+- TOP 6.4.1: Antrag der Fraktionen CDU und Grüne: Controllingverfahren für Anträge und Anfragen - Kenntnis genommen
+- TOP 6.5: Antrag der SPD-Fraktion: Gilgaustraße, Einmündung Siegstraße - geändert beschlossen
+- TOP 6.6: Antrag der CDU-Fraktion: Sachstandsbericht zur Kreuzung Grengeler Mauspfad/Hirschgraben in Porz-Eil - ungeändert beschlossen
+- TOP 6.7: Antrag der SPD-Fraktion: Beschilderung Hans-Kalscheuer-Straße in Porz-Westhoven - ungeändert beschlossen
+- TOP 6.8: Antrag der CDU-Fraktion: Sachstandsbericht zur Verkehrssicherheit an der Kindertagesstätte Hermann-Löns-Straße in Porz-Elsdorf - ungeändert beschlossen
+- TOP 6.9: Antrag der SPD-Fraktion: Ortstermin am Lärmschutzwall in Porz-Lind - geändert beschlossen
+- TOP 6.10: Dringlichkeitsantrag der SPD-Fraktion: Schaffung/ Öffnung einer Zufahrt zur Kleingartenanlage Porzer Ringstraße/ Drieschstraße - ungeändert beschlossen
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1.1: Aufstellung von Fahrgastunterständen (FGU) im Busbereich - aus der letzten Sitzung geschoben - geändert beschlossen
+- TOP 7.1.2: Umgestaltung des öffentlichen Spielplatzes Frongasse in Köln-Porz-Langel - ungeändert beschlossen
+- TOP 7.1.3: Altglasentsorgung über Vollunterflursysteme (hier Standort in Zündorf Parkplatz) - ungeändert beschlossen
+- TOP 7.1.4: Zurückgezogen
+- TOP 7.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.2.1: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Urbach - Planungsbeschluss - zurückgestellt
+- TOP 7.2.2: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - zurückgestellt
+- TOP 7.2.3: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - zurückgestellt
+- TOP 7.2.4: Nördlich Wielermaar in Köln-Porz-Zündorf, 1. Änderung; 73370/04; Einleitungsbeschluss - ungeändert empfohlen
+- TOP 7.2.5: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - ungeändert empfohlen
+- TOP 7.2.6: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - Sammelumdruck - ungeändert empfohlen
+- TOP 7.2.7: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert empfohlen
+- TOP 7.2.8: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert empfohlen
+- TOP 8: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 8.2: Neue Anfragen
+- TOP 8.2.1: Anfrage der CDU-Fraktion: Jugendeinrichtung - Kenntnis genommen
+- TOP 8.2.2: Anfrage der SPD-Fraktion: Ufermauer - Kenntnis genommen
+- TOP 8.2.3: Anfrage der CDU-Fraktion: Kleingartenanlage - Kenntnis genommen
+- TOP 8.2.4: Anfrage der SPD-Fraktion: Baustellenverkehre - Kenntnis genommen
+- TOP 9: Mitteilungen
+- TOP 9.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 9.2: Mitteilungen der Verwaltung
+- TOP 9.2.1: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 9.2.2: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 9.2.3: Wettbewerb Zukunft Wohnen - Weiterentwicklung von Bestandssiedlungen in Köln - Kenntnis genommen
+- TOP 9.2.4: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 9.2.5: Behindertenparkplätze am Yachthafen in Köln-Porz-Zündorf - Kenntnis genommen
+- TOP 9.2.6: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 9.2.7: Sachstandsbericht Rathaus Porz - Kenntnis genommen
+- TOP 9.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.9: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10: Annahme von Schenkungen
+- TOP 10.1: Schenkung des Künstlers Heinz Günter Rasper - ungeändert beschlossen
