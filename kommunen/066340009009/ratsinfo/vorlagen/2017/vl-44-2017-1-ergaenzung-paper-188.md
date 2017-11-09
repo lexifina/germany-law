@@ -1,0 +1,21 @@
+# Beratung und Beschlussfassung bezüglich der Veräußerung des Gebäudes U4 in der Carl-Benz-Straße, Ostpreussenkaserne
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Drucksache/Vorlage: VL-44/2017 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2017-11-09
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdoZiBU2HOdjkSnskhq747Q
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/paper/188
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beratung und Beschlussfassung bezüglich der Veräußerung des Gebäudes U4 in der Carl-Benz-Straße, Ostpreussenkaserne) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTHNLDxq7jgGeJiQ7pym3-5vcXehOZnMysChgf7SnFzE/Beschlussvorlage_VL-44-2017_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 Baufeld OPK U 4 20170914) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSzaZh-rsJyCAXtB1j5mk71aUM_l5KObMik-1hgTcwt5/Anlage_1_Baufeld_OPK_U_4_20170914.pdf
+- Anlage: Beschlussvorlage (Anlage 3 Kaufpreisermittlung U 4) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTEOEw4zQOvMjoWqXJVnbKaZgNABr81HtgpShLKrDFNz/Anlage_3_Kaufpreisermittlung_U_4.pdf
+- Anlage: Beschlussvorlage (U4 - 1) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa__fYQ4KVVgsrNBvqT-ynXVRoTj_iF2GqtCv3kxCOR0/U4_-_1.pdf
+- Anlage: Beschlussvorlage (U4 - 2) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZanBAIYhNrVw3BvLPvhCdMwf0MbjthwkdS1jyP-Z_ypi/U4_-_2.pdf
+- Anlage: Beschlussvorlage (U4 - 3) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZROSCyXfrdGxg74StOcHYn7ccB20GHrOXjCFmjrTffcL/U4_-_3.pdf
+- Anlage: Beschlussvorlage (U4 - 4) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZazEOl5h7112M235djuQ1ofW2gW9m9i3m4aQWxOXC7K8/U4_-_4.pdf
+- Anlage: Beschlussvorlage (U4 - 5) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZec8DQNkZ6BBn_I0RGmVHN6hhQrddp49mZopn9St4E3S/U4_-_5.pdf
+- Anlage: Beschlussvorlage (U4 - 6) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfb-mmPCasMcYy_JjozwX507AMY9FjwYTvDV0HcgrfGx/U4_-_6.pdf
+- Anlage: Beschlussvorlage (Wegerecht) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcgWK3ln_m9SVXLtttFyMOPlDlVQ1v8Bm1Y7e-ji935t/Wegerecht.pdf
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/540 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/538 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
