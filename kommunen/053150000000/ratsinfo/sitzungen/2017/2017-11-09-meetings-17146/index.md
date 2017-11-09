@@ -1,0 +1,77 @@
+# 25. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-09T17:00:00+01:00
+- Ende: 2017-11-09T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17146
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17146
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Gefährdung von Radfahrern am Mauenheimer Gürtel - Kenntnis genommen
+- TOP 7.1.2: Neue LKW-Navigation - Kenntnis genommen
+- TOP 7.1.3: Ausbau des Kreisverkehrs Niehler Damm/Sebastianstraße - Auswertung von Verkehrsdaten - Kenntnis genommen
+- TOP 7.1.4: Belastungen für Niehl und den Kölner Norden durch das ehem. Bauer Gelände, HGK Container Terminal und einen eventuellen Ausbau des Hafens Niehl - Kenntnis genommen
+- TOP 7.1.5: Riehler Plätzchen - Kenntnis genommen
+- TOP 7.1.6: Lärmschutz an Landesstraßen - Anfrage der CDU-Fraktion in der Bezirksvertretung Nippes (AN/0944/2017) - Kenntnis genommen
+- TOP 7.1.7: Ehemaliges Schulgebäude Merkenicher Straße 219 - Kenntnis genommen
+- TOP 7.1.8: Nachfrage zu TOP 7.1.5 der 24. Sitzung BV Nippes vom 21.09.2017 Verzögerung beim Start "Little Bird" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Parkverbot auf der Neusser Straße - Kenntnis genommen
+- TOP 7.2.2: Änderung der Fahrtroute der Buslinie 147 - Kenntnis genommen
+- TOP 7.2.3: Barbara-von-Sell Berufskolleg: Sperrung des Schulersatzgebäudes - Kenntnis genommen
+- TOP -: Anfrage SPD-Fraktion BV 5 zum Barabara-von-Sell Berufskolleg - Kenntnis genommen
+- TOP 7.2.4: Baumfällung in Köln Nippes - Kenntnis genommen
+- TOP 7.2.5: Parkplatzsituation im Clouthgelände - Kenntnis genommen
+- TOP 7.2.6: Verschiebung Umbau verschiedener Straßen im Bezirk Nippes im neuen Haushalt nach 2020/21 - Kenntnis genommen
+- TOP 7.2.7: Aufstellen und Leerung der Abfallbehälter im Stadtbezirk - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Zentralisierung des Bezirksordnungsdienstes in Nippes verhindern – den Bezirksordnungsdienst in Nippes stärken - endgültig zurückgezogen
+- TOP 8.1.2: Mauenheimer Straße im Bereich des Boule Platzes (Heinrich-Pachl-Platz) am Nippeser Tälchen - ungeändert beschlossen
+- TOP 8.1.3: Ausgleichspflanzungen im Bezirk Nippes - zurückgestellt
+- TOP -: Antrag Bündnis 90 Die Grünen in der Sitzung der Bezirksvertretung am 09.11.2017 - Kenntnis genommen
+- TOP 8.1.4: Fahrrad-Luftpumpstation - ungeändert beschlossen
+- TOP 8.1.5: Barrierefreier Überweg zur Haltestelle Slabystraße Richtung Innenstadt - ungeändert beschlossen
+- TOP 8.1.6: Ehemalige Kita Eschenbachstraße - ungeändert beschlossen
+- TOP 8.1.7: Unfallgefahr in verkehrsberuhigten Straßen - ungeändert beschlossen
+- TOP 8.1.8: Sicherung des Fußgängerüberwegs für Kita- und Grundschulkinder im Bereich Xantener Straße/Kretzerstraße - geändert beschlossen
+- TOP 8.1.9: Barrierefreier Zugang zum Edeka-Markt in Longerich - ungeändert beschlossen
+- TOP 8.1.10: Verkehrsberuhigte Maßnahmen auf der Longericher Straße in der Gartenstadt - ungeändert beschlossen
+- TOP 8.1.11: Restaurierung der Durchgangstreppe Kaiserslauterer Straße - Hoheneckenweg in Köln Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.12: Förderung der eigenständigen Mobilität der Grundschulkinder im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 8.1.13: Verbesserung der Situation unter der Hochbahn an der Haltestelle Neusser Straße/Gürtel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Nippes) ab dem Jahr 2017 ff. - zurückgestellt
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - ungeändert beschlossen
+- TOP 9.2.2: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Nippes aus der Zuständigkeit des Amtes für Straßen und Verkehrstechnik, hier Stand 31.03.2017 - zurückgestellt
+- TOP 10.2.2: Maßnahmen zur Förderung des Radverkehrs in Köln 2016 - Kenntnis genommen
+- TOP 10.2.3: Sport in Metropolen - Netzwerk Sport und Bewegung Nippes - Kenntnis genommen
+- TOP 10.2.4: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Wettbewerb Zukunft Wohnen - Weiterentwicklung von Bestandssiedlungen in Köln - Kenntnis genommen
+- TOP 10.2.6: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 10.2.7: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 10.2.8: Straßenfeste im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.10: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.11: Sitzungstermine 2018 - Kenntnis genommen
