@@ -1,0 +1,74 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-09T15:30:00+01:00
+- Ende: 2017-11-09T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16956
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16956
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Drastische Kürzungen im NRW-Landeshaushalt 2018 für die Flüchtlingsberatungsstellen und deren Auswirkungen auf die Arbeit der Kölner Flüchtlingsberatungseinrichtungen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Vorberatung der Beschlussvorlagen zu Flüchtlingsunterkünften im Ausschuss für Soziales und Senioren - ungeändert beschlossen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Erstellung eines Kölner Lebenslagenberichts - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen und der Gruppe GUT - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP -: Ergänzungsantrag der SPD-Fraktion zu TOP 4.1 - ungeändert beschlossen
+- TOP 4.2: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Urbach - Planungsbeschluss - unter Vorbehalt beschlossen
+- TOP 4.3: Ombudsstelle für Flüchtlinge - Verlängerung der Befristung - ungeändert beschlossen
+- TOP 4.4: Verlängerung Auszugsmangement - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktionen SPD und Die Linke. zu TOP 4.4 - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 4.6: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 4.7: Ausweitung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.2: Bericht "Wohnen in Köln" - zurückgestellt
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Beantwortung der mündlichen Anfrage zu TOP 8.2 aus der Sitzung des Ausschusses für Soziales und Senioren vom 07.09.2017 - Kenntnis genommen
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Beantwortung von Nachfragen / Anregungen zum 15. Bericht zur Unterbringung und Integration von Flüchtlingen - Kenntnis genommen
+- TOP 9.1.2: Anfrage der Fraktion DieLinke betreffend "Verpflegung in Gemeinschaftsunterkünften für Geflüchtete" - Sache ist erledigt
+- TOP -: Beantwortung "Verpflegung in Gemeinschaftsunterkünften für Geflüchtete" - Kenntnis genommen
+- TOP 9.1.3: Beantwortung einer Anfrage betreffend "Unterbringung von besonders schutzbedürftigen Geflüchteten mit LSBTI* Hintergrund Wohnprojekt Vogelsang" - Kenntnis genommen
+- TOP 9.1.4: Beantwortung einer mündlichen Nachfrage zum 16. Bericht zur aktuellen Flüchtlingssituation - Kenntnis genommen
+- TOP 9.1.5: Beantwortung einer Anfrage AN/0090/2017 zur Anfrage "Befragung von Flüchtlingen" der Piraten-Gruppe - Kenntnis genommen
+- TOP 9.1.6: Anfrage der Piraten-Gruppe betreffend "Wie kann Flüchtlingsbürginnen- und bürgen geholfen werden?" - zurückgestellt
+- TOP 9.2: 17. Flüchtlingsbericht - Sache ist erledigt
+- TOP 9.3: Unterbringung, Teilhabe- und Integrationschancen für unbegleitete junge Geflüchtete bei Volljährigkeit, hier: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen vom 12.06.2017 (AN/0880/2017) - Kenntnis genommen
+- TOP 9.4: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 9.5: Bericht zur fachärztlichen und sozialen Beratung in den Gemeinschafts- und Notunterkünften der Stadt Köln 2017 - Kenntnis genommen
+- TOP 9.6: 3. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 10.2: Mobilitätshilfen für den Personenkreis der Menschen mit geistigen Behinderungen und Orientierungsschwierigkeiten - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Beantwortung einer Anfrage betreffend "Kommunales Beschäftigungs- und Qualifizierungsprogramms für Langzeitarbeitslose" - Kenntnis genommen
+- TOP 11.1.2: Anfrage der Gruppe der Piraten betreffend "Verschärftes Problem mit Obdachlosen in Köln" - zurückgestellt
+- TOP 11.1.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend „Präventive Hausbesuche“ – Bedarfsdeckung der Hilfegesuche - Sache ist erledigt
+- TOP 11.1.4: Beantwortung mündlicher Nachfragen betreffend "Integriertes Stadtentwicklungskonzept "Starke Veedel - Starkes Köln" für den Sozialraum "Bickendorf, Westend und Ossendorf" 2481/2017" - Kenntnis genommen
+- TOP 11.1.5: Beantwortung mündlicher Nachfragen betreffend "Präventive Hausbesuche" - Kenntnis genommen
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Start des Projekts „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 12.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 12.3: Kölner Perspektiven 2030 - Kenntnis genommen
+- TOP 12.4: Beantwortung einer Anfrage aus der Bezirksvertretung 9 (Mülheim) von der Deutschen Bahn zum Thema Barrierefreiheit der S-Bahnhaltestelle Köln-Holweide - Kenntnis genommen
+- TOP 12.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.6: Angebote der Winterhilfe 2017/2018 für wohnungslose Menschen - Kenntnis genommen
+- TOP 12.7: Kölner Verkehrs-Betriebe AG (KVB): Einführung eines MonatsTickets "MobilPass" im Abonnement - zurückgestellt
