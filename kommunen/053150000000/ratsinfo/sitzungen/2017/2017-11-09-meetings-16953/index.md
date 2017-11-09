@@ -1,0 +1,73 @@
+# 28. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-09T15:08:00+01:00
+- Ende: 2017-11-09T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16953
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16953
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Breslauer Platz – wie geht es weiter bei der Neugestaltung? - Kenntnis genommen
+- TOP 2.2: Baustandards und städtische Auflagen - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Runder Tisch – Kultur auf dem Heliosgelände - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 3.1 "Runder Tisch – Kultur auf dem Heliosgelände" - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 4.1.1: Beschlussvorlage für die Weiterentwicklung; Der städtebauliche Masterplan für die Innenstadt Köln - zurückgestellt
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Planfeststellungsverfahren für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - ungeändert beschlossen
+- TOP 5.2: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - geändert beschlossen
+- TOP 5.3: Planfeststellungsverfahren für die Erweiterung und den Weiterbetrieb der Deponie „Am Wiemersgrund" in Köln-Poll - zurückgestellt
+- TOP 5.4: Ein Platz an der Herler Straße; Bedarfsfeststellungsbeschluss und Umsetzung eines Workshops - ungeändert beschlossen
+- TOP 5.5: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Gestaltungshandbuch der Stadt Köln - zurückgestellt
+- TOP -: Beantwortung mündlicher Anfragen betreffend "Gestaltungshandbuch der Stadt Köln" - zurückgestellt
+- TOP 6.2: Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu TOP 6.2 – Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - ohne Votum in nachfolgende Gremien
+- TOP 6.3: "Erinnerungsorte Kinderheime Köln-Sülz"; Schenkungsannahme - ungeändert beschlossen
+- TOP 6.4: Gesamtverkehrskonzept Köln, 8. Änderung - zurückgestellt
+- TOP 6.5: Lärmaktionsplanung nach EU-Umgebungslärmrichtlinie bzw. § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung und abschließender Beschluss zur Stufe 2 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - geändert beschlossen
+- TOP 6.6: Beschluss über die Freigabe von investiven Mitteln der im Rahmen des Bundesprogrammes "Förderung von Investitionen in nationale Projekte des Städtebaus" dargestellten Projekte des Mantelprojektes "Lebenswertes Chorweiler - ein Zentrum im Wandel!" - ungeändert beschlossen
+- TOP 6.7: Neugestaltung der Domumgebung; 2. Bauabschnitt - geändert beschlossen
+- TOP 6.8: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 6.9: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - geändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Belgisches Viertel in Köln-Neustadt/Nord; Städtebauliches Planungskonzept; frühz. Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Hermes Logistik-Center Hansestraße in Köln-Rath/Heumar und -Porz-Gremberghoven; VEP; Einleitungsbeschluss und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.2: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld; Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.3: Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.4: Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld; VEP: Einleitungsbeschluss - geändert beschlossen
+- TOP 10.5: Damiansweg in Köln-Volkhoven/Weiler - geändert beschlossen
+- TOP 10.6: "Rondorf Nord-West" in Köln - Rondorf; Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.6 – Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: „Rondorf Nord-West“ in Köln-Rondorf“ - ungeändert beschlossen
+- TOP 10.7: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung;Arbeitstitel: Bebauungsplanänderung Nummer 67420/07 – Nördlich Mannsfelder Straße - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: "GE westlich Linder Kreuz" in Köln-Porz-Lind, 4. Änderung; 77349/04; Einleitungsbeschluss - geändert beschlossen
+- TOP 13.2: Antoniusstraße in Köln-Porz-Urbach, 76390/02; 2. Änderung; Einleitungsbeschluss - geändert beschlossen
+- TOP 13.3: Nördlich Wielermaar in Köln-Porz-Zündorf, 1. Änderung; 73370/04; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Kölner Stadtmodell; Erweiterung um zrei Modellbauplatten - Kenntnis genommen
+- TOP 17.2: Kooperatives Werkstattverfahren Hallen Kalk; Mitteilung der Verwaltung zum Ergebnis und Ausblick auf die weitere Planung - Kenntnis genommen
+- TOP 17.3: Weitere Vorgehensweise Verlagerung Frischezentrum - Kenntnis genommen
+- TOP 17.4: Bericht "Wohnen in Köln" - Kenntnis genommen
+- TOP 17.5: Evaluierung der Reinigung am Rheinboulevard - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
