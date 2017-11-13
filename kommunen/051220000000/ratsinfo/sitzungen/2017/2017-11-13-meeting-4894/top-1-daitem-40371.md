@@ -1,0 +1,6 @@
+# TOP 1.: Aktuelles - Bericht der Vorsitzenden - Berichte von Beiratsmitgliedern - aus den Ausschüssen und Gremien
+
+- Sitzung: Beirat für Menschen mit Behinderung (14. Sitzung) (2017-11-13)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/40371
