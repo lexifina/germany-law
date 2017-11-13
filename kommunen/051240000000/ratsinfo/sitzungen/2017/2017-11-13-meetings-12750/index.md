@@ -1,0 +1,66 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-11-13T16:10:00+01:00
+- Ende: 2017-11-13T18:55:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12750
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12750
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 03.11.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00212608.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00213161.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Abgesetzt.Wiederwahl von Herrn Beigeordneten Nocke (nur Rat) - abgesetzt
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Wuppertaler Initiative für Demokratie und Toleranz - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER - "Wuppertaler Initiative für Demokratie und Toleranz" (VO/0823/17) vom 13.10.2017 - Entgegennahme ohne Beschluss
+- TOP 2.2: Folgekosten Döppersberg-Umbau - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE - "Folgekosten Döppersberg-Umbau" (VO/0831/17) vom 17.10.2017 - Entgegennahme ohne Beschluss
+- TOP 2.3: Adressweitergabe und Widerspruch - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE - "Adressweitergabe und Widerspruch" (VO/0833/17) vom 17.10.2017 - Entgegennahme ohne Beschluss
+- TOP 2.4: Krankenhausfinanzierung - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - "Krankenhausfinanzierung" (VO/0843/17) vom 19.10.2017 - Entgegennahme ohne Beschluss
+- TOP 2.5: Kostenkalkulation der Elternbeiträge für die Ganztagsbetreuung - zurückgestellt
+- TOP 2.5.1: Die Drucksache wurde von der Verwaltung zurückgezogen. Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - "Kostenkalkulation der Elternbeiträge für die Ganztagsbetreuung" (VO/0844/17) vom 19.10.2017 - zurückgezogen
+- TOP 2.6: Geschäft von Wuppertal Marketing Gesellschaft und ASS Bochum II - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion DIE LINKE - "Geschäft von Wuppertal Marketing Gesellschaft und ASS Bochum II" (VO/0868/17) vom 26.10.2017 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Ergänzung der ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen der Stadt Wuppertal um die Punkte Bettelei und Verkauf von Straßenzeitungen - abgelehnt
+- TOP 4.2: Risiko-Fußballspiele im Stadtgebiet - abgelehnt
+- TOP 4.3: Digitalisierungsoffensive bei der Vergabe von städtischen Plätzen und Räumen - zur Vorberatung verwiesen
+- TOP 4.4: Erste Schritte zur digitalen Vorreiterstadt - zur Vorberatung verwiesen
+- TOP 4.4.1: Änderungsantrag zu TOP 4.4, VO/0847/17: „Erste Schritte zur digitalen Vorreiterstadt durch Ausbau des Glasfasernetzes“ - zur Vorberatung verwiesen
+- TOP 4.5: Koordinator*in Engels-Jahr - zur Vorberatung verwiesen
+- TOP 4.6: Öffentlicher Bericht des Rechnungsprüfungsamtes bezüglich des Verkaufs der RWE-Aktien - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Verordnung über das Offenhalten von Verkaufsstellen am 10.12.2017 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 03.12.2017 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zweiter Nachtragshaushaltsplan 2017 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Konsolidierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (GWG) Durchführungsbeschluss - ungeändert beschlossen
+- TOP 8.1.1: Begleitbeschluss zur Konsolidierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 1226V - Bunker Schusterstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1222 - Monschaustraße - Süd - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 954 - Döppersberg - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbezogener Bebauungsplan 1236V - Wohnpark Barmenia-Allee - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Leitlinien für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 11.2: Städtebauliche Entwicklungsperspektive Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 11.3: Projekt Seilbahn - Fortführung der Bürgerbeteiligung - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 69 Landespersonalvertretungsgesetz (LPVG NRW) - Nachbesetzung stellvertretender Vorsitz - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.3: Neuwahl der Arbeitnehmervertreter für den Aufsichtsrat der AWG (nur Rat) - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung Sportausschuss - ungeändert beschlossen
+- TOP 12.5: TOP 12 Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.6: Gremienumbesetzung - ungeändert beschlossen
