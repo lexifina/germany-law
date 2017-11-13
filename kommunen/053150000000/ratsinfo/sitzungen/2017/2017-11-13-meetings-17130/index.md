@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-13T17:06:00+01:00
+- Ende: 2017-11-13T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17130
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17130
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: TOP A Aktuelle Stunde zum Thema Mögliche Fällung von 18 Ginkgo-Bäumen in der Ulmenallee in Sürth-Vorlage2782/2017 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Laternen für den Weg zwischen Sinziger-und Kardorfer Straße, 50968 Köln" (AZ: 02-1600-63/17) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Sicherheitsmaßnahmen für Fußgänger/Schulkinder auf einem Teilstück der Kölnstraße in Köln-Sürth (Az.: 02-1600-94/17) - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung hier: Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen vom 18.09.2017, TOP 7.2.10; Ausbau Jägerstraße - Kenntnis genommen
+- TOP 7.1.2: Aktuelle Versorgung mit Grundschulplätzen im Stadtbezirk Rodenkirchen; Anfrage AN 1195/2017; Beantwortung der Anfrage aller Fraktionen - Kenntnis genommen
+- TOP 7.1.3: Pflege eines Waldrandstreifens südlich der Stadtbahnhaltestelle Michaelshoven - AN/1407/2017; - Kenntnis genommen
+- TOP 7.1.4: Lebensmittel-Verbrauchermarkt im Sonderstandort Köln-Godorf; Beantwortung der Anfrage der FDP-Fraktion - Kenntnis genommen
+- TOP 7.1.5: Anfrage der CDU-Fraktion in der Bezirksvertretung Köln-Rodenkirchen vom 20.02.2017; Uneingeschränkter Betrieb der Gleiswechselanlage am Bahnhof Rodenkirchen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Rekultivierung der ausgekiesten Kiesgrube an der Husarenstraße im Stadtteil K-Rondorf; Gem. Anfrage der SPD Fraktion, der Fraktion Die Grünen und der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Baustellen-Verkehr für den Abriß und den Neubau des Bezirksrathauses K-Rodenkirchen; Gem. Anfrage der Fraktion Die Grünen und der FDP Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Ausbau der Elektromobilität in Köln, Anfrage der SPD Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Gingko-Bäume im Bezirk: Umgang mit diesen; Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Kontrolle der Lärm- und Schadstoffgrenzwerte des Verkehrs in Meschenich, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Sürther Feld 1. Bauabschnitt: fehlende Straßenbäume; Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: NSG „Am Godorfer Hafen“ (Sürther Aue): Wiederaufnahme der Pflegemaßnahmen; Gemeinsamer Antrag der SPD Fraktion, der Fraktion Die Grünen und der FDP Fraktion - ungeändert beschlossen
+- TOP 8.1.2: B9 / L300 Einmündung Unterer Buschweg; - V E R T A G T vom 18.09.17 und 16.10.17 Top 8.1.4 - Antrag der CDU Fraktion - zurückgestellt
+- TOP 8.1.3: Bau einer Treppe zwischen oberem und unterem Parkplatz in Höhe Spielplatz; Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 8.1.4: Bahnhofstraße in Sürth: Ortstermin zur Gestaltung; Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.5: Weltkinder-KiTa Gaedestraße; Vertagt BV vom 18-09-2017 mit der Maßgabe eines Ortstermins- Antrag der CDU Fraktion - zurückgestellt
+- TOP 8.1.6: Herstellung von Grünflächen, Spiel und Sportmöglichkeiten auf dem Großmarkt- und Brauereigelände sowie der Umgebung in Köln-Bayenthal, Raderberg und Zollstock; Antrag der SPD Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Vorgebirgsstraße: Querungsmöglichkeiten für Fußgänger und Radfahrer; Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.8: Verkehrsberuhigung Barbarastraße in Rodenkirchen; - V E R T A G T vom 18.09.17 und 16.10.17 Top 8.1.2 - Antrag der CDU Fraktion - zurückgestellt
+- TOP 8.1.9: Raderthalgürtel in Zollstock, 1. Änderung B-Plan 67419/08 – Erhalt von großwüchsigen Bäumen; Antrag der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.9.1: Stellungnahme 2821/2017 der Verwaltung zum Antrag aus der Sitzung vom 18.09.2017 lag bereits vor - Kenntnis genommen
+- TOP 8.1.10: Landschaftswarte: aktueller Bericht, Antrag der Fraktion die Grünen - endgültig zurückgezogen
+- TOP 8.1.10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.11: Dringlichkeitsantrag: Aufforderung zum Planungsbeschluss des Sportausschusses des Rates für den Neubau der Sportanlage Kapellenstraße/Husarenstraße, Antrag der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.12: Dringlichkeitsantrag der FDP-Fraktion; - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße; Vertagt BV 18.09.2017 und 16.10.2017 - zurückgestellt
+- TOP 9.1.2: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Rodenkirchen) ab dem Jahr 2017 ff. - zurückgestellt
+- TOP 9.1.3: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung;Arbeitstitel: Bebauungsplanänderung Nummer 67420/07 – Nördlich Mannsfelder Straße - geändert beschlossen
+- TOP 9.1.4: "Rondorf Nord-West" in Köln - Rondorf; Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - mit Änderungen empfohlen
+- TOP 9.1.5: Bezirksorientierte Mittel 2017 - Vergabe der bezirksorientierten Mittel 2017 gemäß § 37 Absatz 3 GO NW - Restmittel 2017 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - ungeändert empfohlen
+- TOP 9.2.2: Zügigkeitserweiterung der Albert-Schweitzer-Gemeinschaftsgrundschule, GGS zum Hedelsberg, 50999 Köln-Weiß gem. § 81 Abs. 2 Schulgesetz NRW von 3 auf 4 Züge - mit Änderungen empfohlen
+- TOP 9.2.3: Zügigkeitserweiterung der Brüder-Grimm-Schule, Sürther Hauptstraße, 50999 Köln-Sürth gem. § 81 Abs. 2 Schulgesetz NRW von 4 auf 5 Züge - mit Änderungen empfohlen
+- TOP 9.2.4: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert empfohlen
+- TOP 9.2.5: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - abgelehnt (in der Vorberatung)
+- TOP 9.2.5.1: Ergänzungsbeschluß zur Vorlage 2720/2017 Modernisierung + Sanierung Sportfreianlagen; FDP Fraktion - endgültig zurückgezogen
+- TOP 9.2.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: Marienhof Ecke Raderthalgürtel in Köln-Zollstock - mit Änderungen empfohlen
+- TOP 9.2.7: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 10.2.2: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 10.2.3: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.4: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.5: Nutzung des brachliegenden Grundstücks am Südverteiler in Köln - AN/1437/2017 - Kenntnis genommen
