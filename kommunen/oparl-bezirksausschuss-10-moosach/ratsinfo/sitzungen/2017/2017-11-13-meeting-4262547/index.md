@@ -1,0 +1,74 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2017-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262547
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262547
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Haus für Kinder am Hartmannshofer Bächl 48
+- TOP 2.2.: Parken von Schwerlastwagen auf dem Gehweg in der Feldmochinger Straße
+- TOP 2.3.: Ampelschaltung Feldmochinger Straße / Fußweg zur Triebstraße
+- TOP 2.4.: Verkehrssituation Hugo-Tröndle-Straße
+- TOP 2.5.: Aufstellung eines Wartehäuschens mit Sitzgelegenheit an der Bushaltestelle Andernacher Straße
+- TOP 2.6.: Fehlende Gehsteige in der Simrockstraße
+- TOP 2.7.: BA12: Antrag "Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV" mit der Bitte um Unterstützung
+- TOP 3.2.1.: Linienführung der Buslinie 51 (Wiedervorlage aus Sitzung am 16.10.2017)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben:
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Magdalena-Bräu-Weg 83
+- TOP 3.3.3.: Bauvorhaben (Wiedervorlage aus Sitzung am 16.10.2017) - Stellungnahme Referat: 1. Andernacher Str. 14-30 2. Claudiusplatz 14
+- TOP 4.: Anträge
+- TOP 4.1.1.: Luftschadstoffmessungen in Moosach / Stickstoffdioxid
+- TOP 4.1.2.: Erhöhung der Aufwandsentschädigungen für Schülerlotsen
+- TOP 4.2.1.: Straßenzustand der Riesstraße
+- TOP 4.3.1.: Einrichtung einer Bordsteinabsenkung an der westlichen Seite der Bushaltestelle Westfriedhof
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Moosacher Faschingsclub e.V. Anschaffung von Kostümen für den Fasching 2018 4.150,00 € 0262.0-10-0144
+- TOP 6.1.: Errichtung eines Hauses für Kinder mit 2 Krippen und 2 Kindergartengruppen in den "Meiller-Gärten"; Käthe-Kruse-Str. 2
+- TOP 6.2.: verkehrsrechtliche Anordnung nach § 45 StVO: Seydlitzstr. 31; absolutes Haltverbot (Z 283 StVO)
+- TOP 6.3.: Spielen in der Stadt e.V.: Planung der SommerSpielAktion 2018
+- TOP 6.4.: Umwandlung des eingeschränkten Haltverbotes in der Dachauer Straße stadtauswärts kurz vor der Unterführung in Kurzzeitparken
+- TOP 6.5.: Baumfällungen (Baumschutz): 1.Bärlauchweg 3 2.Donauwörther Str. 29 3. Haylerstr. 6 4. Kaufbeurer Str. 11 5. Lauterbachstr. 36 6. Pelkovenstr. 45
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund: Adventsfeier der Siedlung Hartmannshofen am 10.12.2017
+- TOP 6.7.: Veranstaltung auf öffentlichem Verkehrsgrund: Nikolausfeier in der Franz-Marc-Str. 8 am 05.12.2017
+- TOP 7.1.: Wechselbepflanzung an der Chilloutzone am Memminger Platz [[BA-Antrags-Nr. 14-20/B 03882 vom 24.07.2017; die erhöhte ringförmige Rasenfläche wurde bewusst als Liegefläche mit Rasen gestaltet; eine Bepflanzung würde dem Nutzungs- und Gestaltungskonzept widersprechen]
+- TOP 7.2.: Entfernung der Schranken für Fuß- und Radwege im Bereich der Grünanlage zwischen Borstei und SWM [Schreiben BA 10 vom 13.12.2016; Umsetzung Maßnahmen, die am Ortstermin November 2016 vereinbart wurden]
+- TOP 7.3.: Errichtung eines Spielplatzes MS Leipziger Straße im Rahmen des Förderprogrammes "Soziale Stadt" [Planung Jugendspielplatz kann ohne weitere Verzögerung förderunschädlich weiterbetrieben werden].
+- TOP 7.4.: Beantragung Zone 30 Triebstraße [Anordnung Tempo-30-Zone in Triebstraße zwischen Bingener und Ehrenbreitsteiner Straße in 2018]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Teilnahme von Mitgliedern der Bezirksausschüsse an städt. Fortbildungen
+- TOP 8.3.: Münchner Statistik; 2. Quartalsheft, Jahrgang 2017
+- TOP 8.4.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.5.: verkehrsrechtliche Anordnung nach § 45 StVO: Dillinger Straße ggü. Pfeilschifterstraße ; absolutes Haltverbot (Z 283 StVO)
+- TOP 8.6.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Bingener Str. 13 2. Feldmochinger Str. 8
+- TOP 8.7.: Information über Betriebskonzept während Tunnelsanierung auf U1-Nord vom 23.10.2017 bis vsl. 06.04.2018
+- TOP 8.8.: Abfallwirtschaftskonzept 2017-2026
+- TOP 8.9.: (U) EU-Projekt METAMORPHOSIS
+- TOP 8.10.: Errichtung eines neuen Aufenthaltsraumes mit Kiosk für das Jugendübernachtungslager "The Tent", in den Kirschen 30 (Sitzungsvorlage Nr. 14-20 / V 09894
+- TOP 8.11.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 8.12.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 8.13.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 8.14.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 8.15.: Errichtung von 26 Wohneinheiten für den kommunalgeförderten Mietwohnungsbau und Kinderkrippe - nicht-öffentlich -
+- TOP 8.16.: Zweckentfremdung von Wohnraum durch Abbruch: Scharnhorststr. - nicht-öffentlich -
+- TOP 8.17.: WEB- alle Anträge vom 16.09.2017 bis 30.09.2017 - nicht-öffentlich -
