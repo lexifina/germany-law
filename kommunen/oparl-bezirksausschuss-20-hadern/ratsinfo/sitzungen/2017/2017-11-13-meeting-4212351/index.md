@@ -1,0 +1,95 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212351
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212351
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Kornwegerstraße 39, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 21123
+- TOP 7.1.2.: Terofalstraße 19, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 20364
+- TOP 7.1.3.: An der Rehwiese 9, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 22670
+- TOP 7.1.4.: Am Wiesenbach 4, 1 Ahorn
+- TOP 7.1.5.: Bortenhofstraße 9, 1 Waldkiefer
+- TOP 7.1.6.: Chrysanthemenstraße 6, 1 Thuja
+- TOP 7.1.7.: Kornwegerstraße 18, 1 Birke
+- TOP 7.1.8.: Plazerstraße 4, 2 Fichten
+- TOP 7.1.9.: Senftenauerstraße 155, 1 Birke
+- TOP 7.1.10.: Wilhelm-Weitling-Straße 15, 1 Sommerlinde
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7.1.11.: Kornwegerstraße 34, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 18748
+- TOP 1.1.: Zufahrt zu Lidl von der Ossingerstraße
+- TOP 1.2.: Gründung einer Kinderkrippe
+- TOP 1.3.: Zustand Gehweg Guardinistraße 43 - 49
+- TOP 1.4.: Zustand der Fahrradwege in Großhadern, besonders Würmtalstraße
+- TOP 1.5.: "Schmerzendes Brummen" in Hadern
+- TOP 1.6.: Zustand Gehweg Lupinenweg
+- TOP 1.7.: Beschilderung im Waldfriedhof
+- TOP 1.8.: Halteverbot in der Würmtalstraße
+- TOP 4.1.: Messstellen von Luftschadstoffen (Grünen-Fraktion)
+- TOP 4.2.: Aufstellung von City-Trees (Grünen-Fraktion)
+- TOP 5.1.: Budget der Bezirksausschüsse, KAB St. Canisius, Renovierung des Kriegerdenkmals am Canisiusplatz im November 2017 (Direktorium, 19.10.17)
+- TOP 5.2.: Budget der Bezirksausschüsse, fastfood theater Improvisation e.V., Vorstellung am 15.06.2018 (Direktorium, 23.10.17)
+- TOP 5.3.: Budget der Bezirksausschüsse, TSV München Grosshadern v. 1926 e.V., Abteilung Turnen Anschaffung neuer Turnmatten (Direktorium 19.10.17)
+- TOP 5.4.: Budget der Bezirksausschüsse, Elternbeirat Grundschule Blumenauer Straße 11 Projekt "KörperWunderWerkstatt" ab Januar 2018 (Direktorium 07.11.17)
+- TOP 6.1.: Beschlussentwurf: Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017 (Referat für Stadtplanung und Bauordnung, 26.09.17) (vertagt aus 10/17) > dazu Stellungnahme Grünen-Fraktion
+- TOP 6.2.: Planung der SommerSpielAktion 2018 (Spielen in der Stadt e.V., 10.10.17)
+- TOP 6.3.: Errichtung von Einzelhandelsflächen als Erweiterung, 9 Wohnungen und einer Tiefgarage - Tektur (Referat für Stadtplanung und Bauordnung, 12.10.17)
+- TOP 6.4.: Radweg Würmtalstraße Esso-Tankstelle (Kreisverwaltungsreferat, 19.10.17)
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest auf dem Canisiusplatz - abgesperrter Bereich am 09. und 10.12.2017 (Kreisverwaltungsreferat, 19.10.17)
+- TOP 7.2.1.: Liste des Baureferates vom 26.09.17: 5 Bäume auf dem Waldfriedhof
+- TOP 7.4.1.: Steinbrechweg 19 a - 19 b, 1 Korkenzieherweide (Referat für Stadtplanung und Bauordnung, 11.10.17)
+- TOP 8.1.: Arbeiten im Straßenraum: Rodensteinstraße 1 bis 15 (gesamte Länge), Holzapfelkreuther Straße 11 bis 15 und Windeckstraße 13 bis 17, Fahrbahnsanierung, Terminverschiebung (Kreisverwaltungsreferat, 12.10.17I)
+- TOP 8.2.: Lichtsignalanlage Kriegerheim- / Würmtalstraße - Abbau des dortigen Grünpfeilschildes (Kreisverwaltungsreferat, 12.10.17)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Wildanger (Sozialreferat, 26.09.17) - Hosigaustraße (Sozialreferat, 17.10.17)
+- TOP 9.1.: Bürgerbeschwerden Ossingerstraße 4 / Fürstenrieder Straße 210 (Kreisverwaltungsreferat, 29.09.17)
+- TOP 9.2.: Spielplatz am Stiftsbogen (Baureferat, 09.10.17)
+- TOP 9.3.: Vollzug der Straßenverkehrsordnung (StVO); Haltverbot in der Würmtalstraße - Ecke Zinckgrafstraße (Kreisverwaltungsreferat, 06.10.17)
+- TOP 9.4.: CarSharing in Hadern (Kreisverwaltungsreferat, 30.10.17)
+- TOP 11.1.: Bioabfall ist großartig: AWM-Kampagne zur Steigerung der Bioabfallmenge (AWM, 10.10.17)
+- TOP 11.2.: Bürgerforum Altenpflege am 21.11.2017 im alten Rathaus (Direktorium, Oktober 2017)
+- TOP 11.3.: Antrag BA 12 Schwabing-Freimann vom 08.10.2017: Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017: Bebauungsdichte erhöhen und Wohnraum schaffen durch Aufstockungen
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017: Regelungen / Standards im Wohnungsbau
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Gartenstadt Obermenzing und ihre Nachverdichtung; Bebauungsplan für Obermenzing bzw. die einzelnen Viertel
+- TOP 2.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Bericht zur Entwicklung des Kfz-Bestandes in München
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2017: Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 3.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 3.2.3.: Beschluss des Sozialausschusses vom 12.10.2017: Gesamtkonzept Münchner Altenhilfe IV Produkt 60 5.4.1 Angebote der Beratung und Unterstützung, Begegnung und Kommunikation
+- TOP 3.2.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 24.10.2017: Mädchen und junge Frauen in München Zusammenfassung der Ergebnisse aus dem Stadtratsauftrag vom 31.01.2015 zu den Bedarfen von Mädchen und jungen Frauen sowie der Evaluation des Mädchentreffs Blumenau Darstellung der Ergebnisse des Runden Tischs Schaffung eines Mobilen Angebots der Offenen Kinder- und Jugendarbeit für Mädchen und junge Frauen Verstetigung des Mädchentreffs* Blumenau als Leistungserweiterung des Treff 21 des Trägers schule-beruf e.V.
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 4.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung: Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 4.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2017: Ergebnisse des Bürgergutachtens zur Entwicklung der Region München
