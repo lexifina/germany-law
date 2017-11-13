@@ -1,0 +1,69 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-13T14:33:00+01:00
+- Ende: 2017-11-13T15:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16954
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16954
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers - ungeändert beschlossen
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Lindenthal - Kenntnis genommen
+- TOP 1.2: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2017 - Kenntnis genommen
+- TOP 2.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln - Kenntnis genommen
+- TOP 2.3: Vorlage des Gutachtens inkl. zur Prüfung der Störungen des Projektes Sanierung Bühnen Köln der Kanzlei Hecker Werner Himmelreich – öffentlicher Teil - zurückgestellt
+- TOP 2.4: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.6: Projekt "Einführung von Nachhaltigkeitshaushalten" - Kenntnis genommen
+- TOP 2.7: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 2.8: Handreichung "Gute Unternehmenssteuerung" - Kenntnis genommen
+- TOP 2.9: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2016 - Kenntnis genommen
+- TOP 2.10: Evaluierung der Reinigung am Rheinboulevard - Kenntnis genommen
+- TOP 2.11: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.12: 17. Flüchtlingsbericht - Kenntnis genommen
+- TOP 2.13: Zoo-Projekt „Südamerikahaus“ - Erläuterungen zu der gemäß AN/1338/2017 am 28.09.2017 vom Rat beschlossenen Finanzierung - Kenntnis genommen
+- TOP 2.14: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.15: Bürgerhaushalt 2016 - Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Mitteilung über eine Kostenerhöhung gegenüber dem erweiterten Baubeschluss zur Umsetzung des Brandschutzes an der Haltestelle Poststraße - ungeändert beschlossen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Kleingartenanlage Klettenberg e.V. - ungeändert beschlossen
+- TOP 7.2: Beschluss über die Freigabe von investiven Mitteln der im Rahmen des Bundesprogrammes "Förderung von Investitionen in nationale Projekte des Städtebaus" dargestellten Projekte des Mantelprojektes "Lebenswertes Chorweiler - ein Zentrum im Wandel!" - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Abschluss eines 4-Jahres-Rahmenvertrages zur Beschaffung von Komponenten des digitalen Bündelfunks - ungeändert beschlossen
+- TOP 12.2: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 12.3: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - ungeändert beschlossen
+- TOP 12.4: Kliniken der Stadt Köln gGmbH: Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 12.5: Ermächtigungsübertragung in das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 12.6: Feststellung des Jahresabschlusses zum 31.08.2015 für die Bühnen Köln - ungeändert beschlossen
+- TOP 12.7: Umweltbildungszentrum auf Gut Leidenhausen - ungeändert beschlossen
+- TOP 12.8: Strukturförderung Kulturwerk des Bundesverband Bildender Künstlerinnen und Künstler (BBK Köln e.V.( 2018 - 2020) - ungeändert beschlossen
+- TOP 12.9: Verlängerung Auszugsmangement - ungeändert beschlossen
+- TOP 12.9.1: Änderungsantrag zu TOP 4.4, Beschlussvorlage Verlängerung Auszugsmanagement, Vorlagennummer 2338/2017 - abgelehnt (in der Vorberatung)
+- TOP 12.10: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Urbach - Planungsbeschluss - zurückgestellt
+- TOP 12.11: Feststellung des Jahresabschlusses zum 31.12.2013 und des Lageberichtes für das Wirtschaftsjahr 01.01.2013 - 31.12.2013 des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln - ungeändert beschlossen
+- TOP 12.12: Stadtentwässerungsbetriebe Köln, AöR - ungeändert beschlossen
+- TOP 12.13: Feststellung des Jahresabschlusses zum 31.12.2014 und des Lageberichtes für das Wirtschaftsjahr 01.01.2014 - 31.12.2014 des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln - ungeändert beschlossen
+- TOP 12.14: Ombudsstelle für Flüchtlinge - Verlängerung der Befristung - ungeändert beschlossen
+- TOP 12.15: Stadtentwässerungsbetriebe Köln, AöR (StEB); Abwassergebührensatzung 2018 - ungeändert beschlossen
+- TOP 12.16: Vergabe der Konzeptionsförderung in der Sparte Tanz, Haushaltsjahre 2018-2020 - ungeändert beschlossen
+- TOP 12.17: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 12.18: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - geändert beschlossen
+- TOP 12.19: Stadtentwässerungsbetriebe Köln, AöR (StEB); Wirtschaftsplan 2018 - ungeändert beschlossen
+- TOP 12.20: Ausweitung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes - ungeändert beschlossen
+- TOP 13: Mündliche Anfragen
