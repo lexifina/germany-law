@@ -1,0 +1,59 @@
+# 8. Sitzung des Ausschusses für soziale Angelegenheiten
+
+- Körperschaft: Landkreis Erlangen-Höchstadt
+- Beginn: 2017-11-13T09:00:00+01:00
+- Ende: 2017-11-13T11:18:00+01:00
+- Ort: Sitzungszimmer der Dienststelle in Höchstadt a. d. Aisch
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/organizations/gr/8
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/403
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/403
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Wortprotokoll: Niederschrift (MI, BI) mit Anlagen https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/downloadfiles/a/00023642.pdf
+
+## Tagesordnung
+
+- TOP 1: Unterbringung von Asylbewerberinnen und Asylbewerbern im Landkreis - zur Kenntnis genommen
+- TOP 2: Anträge auf Kreiszuschüsse;
+- TOP 2.1: Frauenzentrum Erlangen e. V. - einstimmig beschlossen
+- TOP 2.2: Verein zum Schutz misshandelter Frauen e. V. - einstimmig beschlossen
+- TOP 2.3: Soziale Betriebe der Laufer Mühle gGmbH für den "LebensMittelPunkt" Höchstadt - mehrheitlich beschlossen
+- TOP 2.4: Offene Tür Erlangen e. V. - einstimmig beschlossen
+- TOP 2.5: Bayerisches Rotes Kreuz Kreisverband Erlangen-Höchstadt für die Förderung der Verbandstätigkeit und der Altenhilfe - einstimmig beschlossen
+- TOP 2.6: Diakonisches Werk Bamberg-Forchheim e. V. für die Migrationsberatung in der Gemeinschaftsunterkunft Höchstadt - einstimmig beschlossen
+- TOP 2.7: Diakonisches Werk Erlangen e. V. für
+- TOP 2.7.1: Bahnhofsmission Erlangen - einstimmig beschlossen
+- TOP 2.7.2: Bereich der Familienpflege - einstimmig beschlossen
+- TOP 2.7.3: Förderung der Verbandstätigkeit - einstimmig beschlossen
+- TOP 2.7.4: Erlanger Tafel - einstimmig beschlossen
+- TOP 2.7.5: Förderung der Dorfhelferinnenstation - einstimmig beschlossen
+- TOP 2.7.6: Förderung der Altenhilfe - einstimmig beschlossen
+- TOP 2.7.7: Asylsozialberatung - einstimmig beschlossen
+- TOP 2.8: Diakonieverein Eckental e. V. für die Eckentaler Tafel - einstimmig beschlossen
+- TOP 2.9: Notruf und Beratung für vergewaltigte Mädchen und Frauen e. V. - mehrheitlich beschlossen
+- TOP 2.10: Arbeiterwohlfahrt - KV Erlangen-Höchstadt e. V. für
+- TOP 2.10.1: Migrationsberatung - einstimmig beschlossen
+- TOP 2.10.2: Fachstelle für pflegende Angehörige - einstimmig beschlossen
+- TOP 2.10.3: Förderung der Altenhilfe und der allgemeinen Verbandstätigkeit - einstimmig beschlossen
+- TOP 2.11: Arbeiter-Samariter-Bund - RV Erlangen-Höchstadt e. V. für
+- TOP 2.11.1: Fachstelle für pflegende Angehörige - einstimmig beschlossen
+- TOP 2.11.2: Migrationsberatung - einstimmig beschlossen
+- TOP 2.11.3: Asylsozialberatung - einstimmig beschlossen
+- TOP 2.11.4: Errichtung eines Dolmetscherpools für Flüchtlinge - mehrheitlich beschlossen
+- TOP 2.12: Paritätischer Wohlfahrtsverband - Bezirksverband Mittelfranken - einstimmig beschlossen
+- TOP 2.13: Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt e. V. für
+- TOP 2.13.1: Förderung der Altenhilfe - einstimmig beschlossen
+- TOP 2.13.2: Förderung der Verbandstätigkeit - einstimmig beschlossen
+- TOP 2.13.3: Asylsozialberatung - einstimmig beschlossen
+- TOP 2.14: Arbeitslosenberatung Herzogenaurach - einstimmig beschlossen
+- TOP 2.15: Informations-, Beschwerde- und Schlichtungsstelle (IBS) - einstimmig beschlossen
+- TOP 3: Rückforderung von Kreiszuschüssen;
+- TOP 3.1: Offene Tür Erlangen e. V. für das Jahr 2016 - mehrheitlich beschlossen
+- TOP 3.2: Arbeiterwohlfahrt - KV Erlangen-Höchstadt e. V. für die Fachstelle pflegende Angehörige für das Jahr 2016 - einstimmig beschlossen
+- TOP 3.3: Diakonisches Werk Erlangen e. V. für
+- TOP 3.3.1: Bereich der Familienpflege für das Jahr 2016 - einstimmig beschlossen
+- TOP 3.3.2: Bahnhofsmission Erlangen für das Jahr 2016 - mehrheitlich beschlossen
+- TOP 3.3.3: Erlanger Tafel für das Jahr 2016 - mehrheitlich beschlossen
+- TOP 4: Erstellung eines Sozialberichts - zur Kenntnis genommen
+- TOP 5: Wohnungsvermittlung und Erhöhung der Mietobergrenze; Schreiben von Herrn Kreisrat Eitel vom 24.10.2017 - zur Kenntnis genommen
+- TOP 6: Vorberatung des Kreishaushalts 2018 - einstimmig beschlossen
