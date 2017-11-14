@@ -1,0 +1,170 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2017-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4217676
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4217676
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.1.1.: Münchbergstraße 10
+- TOP 3.9.1.2.: Bantingstr- 6
+- TOP 3.9.1.3.: Trauchbergstraße 4
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Warthofstr. 5, Neubau einer Wohnanlage mit Tiefagrage
+- TOP 6.1.3.2.: Traunsteiner Str. 19, Neubau zweier Anbauten mit Wohnungen für Menschen mit Behinderung und für Mitarbeiter, einer ambulant betreuten Wohngruppe mit 5 Pflegeplätzen und einer Tiefgarage
+- TOP 6.1.3.3.: Edelweißstr. 4, Ausbau des Dachspeichers über zwei Ebenen, Errichtung dreier Wohnungen, Dachterrassen im Hinterhaus bzw. auf dem Treppenhaus, Balkonvergrößerungen, Anbau eines Aufzugs, Nutzungsänderung Wohnung 3 im EG unter Einbeziehung von Nebenflächen im UG für soziale Zwecke, Anbau eines Wintergartens (als separater Zugang)
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben vom 28.09.17 - 22.10.17
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Bauvorhaben Traunsteinerstraße
+- TOP 2.1.2.2.: Antrag auf Tempo 30 gemäß dem Bundesratsbeschluss vom 10.03.17
+- TOP 2.1.2.3.: Antrag auf einen Fahrradständer vor dem VollCorner Biomarkt anstelle des Autoparkplatzes
+- TOP 2.1.2.4.: Verkehrssituation Traunsteinerstraße
+- TOP 2.1.2.5.: AWO Neubau Lincolnstraße BIMA Siedlung Fasangarten
+- TOP 2.1.2.6.: Enorme Lärmbelästigung durch Veranstaltungen am "Grünspitz" / München Giesing
+- TOP 2.1.2.7.: Antrag auf Entfernung des Mülleimers Ecke Bayerischzeller Straße/Fockensteinstraße Bürgeranliegen vom 02.11.2017
+- TOP 2.1.2.8.: Antrag Neubaupläne AWO/Thomas-Wimmer-Stiftung Kinder und Jugendliche brauchen eine Stimme
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Initiative "Flostern" Raummiete für August und September 2017 2.080,00 € Az: 0262.0-17-0145
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Poesieboten e.V. Gedichteausstellung mit Rahmenprogramm ab dem 07.12.2017 740,00 € Az: 0262.0-17-0150
+- TOP 5.1.3.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung Hl. Kreuz, München-Giesing Adventskonzert am 03.12.2017 2.400,00 € 0262.0-17-0149
+- TOP 5.1.4.: (E) Budget der Bezirksausschüsse KulturVERSTRICKUNGEN e.V. Christbaum-Schmuck "musikalisch" ab dem 02.12.2017 600,00 € Az: 0262.0-17-0151
+- TOP 5.2.1.: Auflistung von Budgetanträgen 2016 für den BA17 Obergiesing-FAsangarten
+- TOP 5.2.2.: Verwendungsnachweise Sommer im Park
+- TOP 5.2.3.: Verwendungsnachweis Perlentaucher e.V.
+- TOP 5.2.4.: Verwendungsnachweis "REGSAM KiJuFam Broschüre"
+- TOP 5.2.5.: Verwendungsnachweis "Initiative Giesinger Kochbuch"
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.2.1.: (E) Entsiegelung des Ella-Lingens-Platzes Empfehlung Nr. 14-20 / E 01626 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 20.07.2017
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.4.: Bantingstraße 15 Erweiterung eines Einfamilienhauses und Errichtung einer zweiten Garage
+- TOP 6.1.3.5.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen; Anhörung durch das Direktorium vom 02.10.17 zum Antrag der ÖDP vom 21.06.17
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung "Trauchberg-/Forggenseestraße" Rotwandstraße
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße" St.-Bonifazius-Str. 2a
+- TOP 6.1.4.4.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 6.1.4.5.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 6.1.4.6.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 6.1.4.7.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 6.1.4.8.: Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014-2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 6.1.4.9.: (U) Sanierungsgebiete am Mittleren Ring Südost - Stand der Umsetzung des Bund-Länder- Städtebauförderungsprogramms "Soziale Stadt" in den Sanierungsgebieten "Tegern- seer Landstraße / Chiemgaustraße" und "Innsbrucker Ring / Baumkirchner Straße" A) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße" B) Fortschreibung des Integrierten Handlungskonzeptes im Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" und förmliche Festlegung des eigenständigen Sanierungsgebietes "Ortskern Ramersdorf" C) Eckdatenbeschluss Behrgelände im Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" D) Städtebauförderung, Kosten, Finanzierung Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf - Perlach Stadtbezirk 17 - Obergiesing - Fasangarten Stadtbezirk 18 - Untergiesing - Harlaching
+- TOP 6.1.4.10.: Vorkaufsrecht Watzmannstraße 1
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.1.: Unterstützung bei der Suche neuer Räume für die Eltern-Kind-Initiative "Kinderinsel München"
+- TOP 6.2.3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2018
+- TOP 6.2.4.1.: Ruhestörung in der Parkanlage im Bereich der Scharfreiterstraße
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Lärmminderung am Mittleren Ring – Tegernseer Landstraße; Installation von 1 oder 2 weiteren Radarkameras
+- TOP 6.3.2.2.: (E) Angemessene Erschließung der Tegernseer Landstraße für Radfahrer Empfehlung Nr. 14-20 / E 01622 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 20.07.2017
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Absolutes Halteverbot Pfälzer-Wald-Str. - Kreuzung Bad-Dünkheimer-Str.
+- TOP 6.3.3.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Cincinnatistr. 45
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Fehlende Fahrrad Stellplätze in der Wallbergstraße
+- TOP 6.3.4.2.: Sicherheit und eine behindertengerechte Umgehung (auch für sehbehinderte Bürgerinnen und Bürger) auf der Baustelle zwischen Edeka und KiK im Bereich der Schawanseestraße
+- TOP 6.3.4.3.: Tempo 30 Zone in der Severinstraße
+- TOP 6.3.4.4.: Schulwegsicherung Cincinnatistr. / Marktlandstr.
+- TOP 6.3.4.5.: Anträge bezüglich der Errichtung von Fahradabstellmöglichkeiten in 17. Stadtbezirk aufgrund eines Ortstermin am 28.06.2017
+- TOP 6.3.4.6.: Reduzierung der Belastung durch Schadstoffe auf den Mittleren Ring zwischen Brudermühlbrücke und A 995
+- TOP 6.3.4.7.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 6.3.4.8.: Einführung der Radwegbenutzungspflicht in der Fasangartenstraße zwischen Tegernseer Landstraße und Autobahnbrücke spätestens nach der Probephase im Februar 2016
+- TOP 6.3.4.9.: Erweiterung des Antrags der CSU-Stadtratsfraktion, den 17. Stadtbezirk entlang des Mittleren Rings in der Tegernseer Landstraße und der Chiemgaustraße zum Erprobungsgebiet für Mooswände zur Feinstaub- bindung und Lärmreduktion entlang des Mittleren Rings zu erklären und zwischen der Grünwalderstraße, entlang der Tegernseer Landstraße und der Chiemgaustraße bis zur Schwanseestraße in beiden Richtungen „Mooswände“ zu errichten
+- TOP 6.3.4.10.: 30-Zone Traunsteiner Straße Ziffer 1 des Antrages
+- TOP 6.3.4.11.: Parksituation Quartier zwischen Ichostraße/Tegernseer Landstraße/Bergsteig
+- TOP 6.3.4.12.: Konkrete Maßnahmen zur Aufwertung der Tegernseer Landstraße Nord - Tempolimit von 30 km/h sowie verbesserte Querungsmöglichkeiten entlang der Tegernseer Landstraße, nördl. Wirtstraße
+- TOP 6.3.4.13.: Park- und Liefersituation in der südlichen Tegernseer Landstraße,
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) München soll wieder sauber werden! Empfehlung Nr. 14-20 / E 01632 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 20.07.2017
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Wildwuchs auf dem unbebauten Grundstück Balanstraße 351/353; Bürgeranliegen vom 29.06.2017
+- TOP 6.4.4.2.: Bepflanzung von geeigneten Flächen mit Bäumen an den Kreuzungen der Spixstraße mit der Wirtstraße und der Werner-Schlierf-Straße
+- TOP 6.4.4.3.: Mehr Baumschutz für München; Antrag des BA 1 Altstadt-Lehel
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Sondernutzungserlaubnis Freischankfläche "Der Dantler GmbH" (vertagt aus Sitzung 10/17)
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Unveränderte Fortführung "Giesinger Play Bar" und "Giesinger Play Cafe"
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
