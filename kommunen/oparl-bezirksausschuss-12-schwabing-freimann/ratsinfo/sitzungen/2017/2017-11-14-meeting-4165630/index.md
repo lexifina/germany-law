@@ -1,0 +1,121 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2017-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4165630
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4165630
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.: Vorstellung der Planung für die Neugestaltung des Artur-Kutscher-Platzes in Schwabing durch das Baureferat
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.2.: Kurzbericht eines Antragstellers auf Gewährung eines Zuschusses aus den Budgetmitteln des BA 12
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP B.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse TamS Theater Adventskalender "Macht auf das Türl!" im Dezember 2017 4.600,00 € 0262.0-12-0238
+- TOP 3.: Anhörungen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.1.: Occamstraße 2
+- TOP 5.2.2.: Wilhelmstraße 41
+- TOP 5.3.1.: Eilentscheidung des Vorsitzenden, BA-Anhörung Verlängerung des Projektes „Lok Arrival“, Empfehlung Nr. 14-20 / E 01548 der Bürgerversammlung des 12. Stadtbezirkes am 06.07.2017, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss
+- TOP C.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Städtebauliche Entwicklungsmaßnahme Bayernkaserne Brandschutz
+- TOP 1.2.: Wohnlagenkarte zum Mietspiegel
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Antrag für eine Warenauslage, Feilitzschstraße 14
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Frankfurter Ring 228, Neubau eines Gewerbekomplexes mit Hotelnutzung, Autofahrer-Fachmarkt im EG und Tiefgarage
+- TOP 3.1.2.: Ligusterstraße 4, Neubau eines Mehrfamilienhauses (3WE) mit Doppelparkgarage und Carport
+- TOP 3.1.3.: Frötzweg 3a, 1 Birke, 1 Fichte
+- TOP 3.1.4.: Germaniastraße 23, Neubau einer Wohnanlage mit Tiefgarage VORBESCHEID (Germaniastraße 23-25 / Potsdamer Straße 14-18)
+- TOP 3.2.1.: Marktstraße 5, DG-Neubau (auf MFH) VORBESCHEID
+- TOP 3.2.2.: Hermann-Vogel-Straße 7, Neubau eines Stadthauses mit 2 Einliegerwohnungen, Räume für freiberufliche Tätigkeit und Tiefgarage
+- TOP 3.2.3.: Weimarer Straße, TEKTUR, Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.2.4.: Ursulastraße 8, TEKTUR, (Neub au eines Mehrfamilienhauses mit Tiefgarage) – Errichtung Anbau und Dachgeschoss (VGB) sowie Neubau Rückgebäude mit Tiefgarage
+- TOP 3.2.5.: Rainackerweg 31, Neubau eines Doppelhauses mit Garagen
+- TOP 3.2.6.: Bebauungsplan Nr. 77, Gemeinde Oberschleißheim
+- TOP 3.2.7.: Gemeinde Unterföhring, Aufstellung des vorhabenbezogenen Bebauungsplans Nr. 49d/17, Oktavian an der Münchner Straße 12, 14 und 16
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 5.3.2.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 5.3.3.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 5.3.4.: Eilentscheidung des Vorsitzenden, Heinrich-Groh-Straße 8, Errichtung einer Leichtbauhalle (Systembauweise) als Fahrzeughalle mit 3 Stellplätzen für die „Freiwillige Feuerwehr München-Freimann“, befristet auf 4 Jahre
+- TOP 5.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.6.: (U) Bebauungsplan mit Grünordnung Nr. 2126 Königinstraße (östlich), Veterinärstraße (nördlich), Englischer Garten (westlich) - Entwicklungscampus Königinstraße - Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität - Aufstellungsbeschluss - Stadtbezirk 3 – Maxvorstadt
+- TOP 5.3.7.: Genehmigung einer Warenauslage an der Siegfriedstraße 11, Entscheidung des Oberbürgermeisters
+- TOP 5.3.8.: Genehmigung einer Warenauslage an der Friedrichstraße 28, Entscheidung des Oberbürgermeisters
+- TOP D.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Ampelanlage Kreuzung Domagkstraße / Gertrud-Grunow-Straße
+- TOP 1.2.: Verkehrsinsel Dietlindenstraße Höhe Kunigundenstraße, Wiederaufnahme des Antrags 14-20 / B 03433
+- TOP 1.3.: Verkehrssicherheit Busbahnhof Münchner Freiheit
+- TOP 1.4.: Den öffentlichen Raum entlang der Leopoldstraße ordnen und aufräumen; Geordnete Abstellung von Fahrrädern entlang der Leopoldstraße
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Neueinrichtung eines Taxistandplatzes in der Walter-Gropius-Straße
+- TOP 2.2.: Verlegung des Taxistandplatzes in der Schlüterstraße in die Berliner Straße 85
+- TOP 2.3.: Verschiebung des Taxistandplatzes in der Leopoldstraße 23-5 Richtung Norden und teilweise Beschränkung auf die Nachtstunden
+- TOP 2.4.: (E) + (U) Errichtung eines Wind- und Wetterschutzes für die Bushaltestelle Josef-Wirth-Weg* Empfehlung Nr. 14-20 / E 01545 der Bürgerversammlung des Stadtbezirkes 12 – Schwabing-Freimann am 06.07.2017
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Beschlussentwurf, Grundsatzbeschluss zur Förderung des Radverkehrs in München, Fortschreibung und Radverkehrsbericht 2017, Sitzungsvorlagennummer 14-20 / V 09501
+- TOP 3.2.2.: Beschlussentwurf MVV-Tarifstrukturreform, Sitzungsvorlagennummer 14-20 / V 10222
+- TOP 3.2.3.: Einrichtung einer Kurzparkzone vor dem Israelitischen Friedhof
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verkehrssituation Wilhelm-Wagenfeld-Straße / Alfred-Arndt-Straße / Marcel-Breuer-Straße / Walter-Gropius-Straße
+- TOP 4.2.: Beleuchtung Fußweg Osterwaldstraße 25
+- TOP 4.3.: Straßenraumgestaltung Gertrud-Grunow-Straße, Margarete-Schütte-Lihotzky-Straße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Einrichtung eines flächendeckendes Netzes für Stromtankstellen in Bereichen des Geschosswohnbaus
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Arbeiten im Straßenraum, Kißkaltplatz und Thiemestraße (zwischen Kißkaltplatz und Königinstraße); Umbau des Kißkaltplatzes mit Minikreisverkehr und Fahrbahnsanierung Thiemestraße
+- TOP 5.2.2.: Königinstraße 28, Haltverbot wegen Sicherheitszone
+- TOP 5.2.3.: Ifflandstraße, Wendeverbot nördlich Am Tucherpark
+- TOP 5.2.4.: Peter-Paul-Althaus-Straße, Einrichtung eines absoluten Haltverbotes
+- TOP 5.2.5.: Absolutes Haltverbot in der Oskar-Schlemmer-Straße
+- TOP 5.2.6.: Z 283 an den Einmündungen Mattighoferstraße / Kulturheimstraße
+- TOP 5.2.7.: Umwandlung eines eingeschränkten in ein absolutes Haltverbot in der Crailsheimstraße östlich Ungererstraße
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) EU-Projekt METAMORPHOSIS
+- TOP 5.3.2.: Information der SWM über Baustellen, Stromprojekt Beichstraße, Infoflyer
+- TOP 5.3.3.: Anliegerinformation, Programm Barrierefreie Bushaltestellen, Barrierefreier Ausbau von Bushaltestellen
+- TOP 5.3.4.: Eilentscheidung des Vorsitzenden, Anhörung des BA 12 zur Beschlussvorlage Kampfmittelräumkonzept Heideflächen , Sitzungsvorlagennummer 14-20 / V 10137
+- TOP 5.3.5.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 5.3.6.: Ausbau des Fuß- und Radwegs an der Heidemannstraße, BA-Antrags-Nr. 08-14 / B 04156 des BA 12 vom 31.07.2012, Referatsschreiben, Fristverlängerung
+- TOP 5.3.7.: Tram durch den Englischen Garten – Nordtangente, Antwortschreiben der MVG auf ein Schreiben den Vorsitzenden vom 13.09.2017
+- TOP 5.3.8.: Ladezone Feilitzschstraße 4 – 6, Referatsschreiben an den Antragsteller
+- TOP 5.3.9.: (E) + (U) A) Kampfmittelräumkonzept für die Heideflächen im Münchner Norden B) Gebietsbetreuung „Heideflächen und Lohwälder nördlich von München“ C) Mit der Kampfmittelräumung in der Fröttmaninger Heide beginnen Empfehlung Nr. 14-20 / E 01547 der Bürgerversammlung des Stadtbezirks 12 – Schwabing-Freimann am 06.07.2017
+- TOP 5.3.10.: Infoflyer SWM, Stromprojekt Netztrafostation Karl-Theodor-Straße
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
