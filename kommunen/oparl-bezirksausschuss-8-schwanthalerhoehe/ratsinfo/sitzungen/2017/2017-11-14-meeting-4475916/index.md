@@ -1,0 +1,52 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4475916
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4475916
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Neue Besetzung der Beauftragten gegen Rechtsextremismus
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ganghoferstr. 21
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.1.1.: Sondernutzung - Erweiterung einer bestehenden Freischankfläche Kazmairstr. 37
+- TOP 6.1.2.: Sondernutzung - Freischankfläche Heimeranstr. 32
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Einkaufsmöglichkeiten an dem Verkehrskreuz "Donnersbergerbrücke" nach barrierefreien Ausbau nachhaltig verbessern
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Nachdruck Kulturgeschichtspfad
+- TOP 7.2.2.: Fortschreibung Schulentwicklungsplanung - Stellungnahme BA6
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Baustelleneinrichtung Schießstättstraße
+- TOP 8.3.2.: Baumschutz verbessern - Anpassung der Bayerischen Bauordnung (Antrag vom 18.07.17, Nr. 03828)
+- TOP 8.3.3.: Ausbau der Elektromobilität; Errichtung von E-Ladestationen für E-Bikes, E-Roller und E-Autos (Antrag vom 13.12.2016, Nr. 03145)
+- TOP 8.3.4.: Nutzung der Theresienwiese 2018
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Sarré Musikprojekte gGmbH Aufführungen "Zauberflöte für Familien" in der Alten Kongresshalle vom 21.12.2017 bis 23.12.2017 3.280,00 € AZ: 0262.0-8-0132
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
