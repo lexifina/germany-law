@@ -1,0 +1,8 @@
+# TOP -: Lehrerinnen mit Kopftuch an Kölner Schulen
+
+- Sitzung: 33. Sitzung des Rates (2017-11-14)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/237651
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/109753
