@@ -1,0 +1,135 @@
+# 33. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-14T15:40:00+01:00
+- Ende: 2017-11-14T20:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16713
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16713
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00636823.pdf
+- Ergebnisprotokoll: Tagesordnung Rat https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00636823.pdf
+- Wortprotokoll: Tagesordnung Rat https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00636823.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Zukunft des Ebertplatzes jetzt gestalten - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: "Erinnerungsorte Kinderheime Köln-Sülz"; Schenkungsannahme - ungeändert beschlossen
+- TOP 2.2: Schenkung laotischer Textilien an das Rautenstrauch-Joest-Museum - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Projekt "Radeln ohne Alter" - ungeändert beschlossen
+- TOP -: Änderungsantrag zum TOP 3.1.1 „Projekt ‘Radeln ohne Alter’“ (AN/1579/2017), Antrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP und der Ratsgruppe GUT in der Ratssitzung am 14.11.2017 - endgültig abgelehnt
+- TOP 3.1.2: Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung - Sache ist erledigt
+- TOP -: Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung im Verbund mit erneuerbaren Energien - Sache ist erledigt
+- TOP -: Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung (AN/1004/2017) - Sache ist erledigt
+- TOP -: Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung - Sache ist erledigt
+- TOP -: 3.1.4 Antrag der SPD-Fraktion betreffend "Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung" - Sache ist erledigt
+- TOP -: Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung - ungeändert beschlossen
+- TOP 3.1.3: Einsatz von Sprachmittlern in den städtischen Krankenhäusern prüfen - Sache ist erledigt
+- TOP -: TOP 3.1.3: „Einsatz von Sprachmittlern in den städtischen Kliniken prüfen“ - ungeändert beschlossen
+- TOP 3.1.4: Streichung finanzieller Zuwendungen bei Personen mit nicht feststellbarer Herkunft - endgültig abgelehnt
+- TOP 3.1.5: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert beschlossen
+- TOP -: „Stärkung und Ausweitung des KVB-Busnetzes“ - endgültig abgelehnt
+- TOP -: Änderungsantrag zu Top 3.1.5 "Stärkung und Ausweitung des KVB-Busnetzes" - endgültig abgelehnt
+- TOP 3.1.6: Chancen für Zündorf-Süd endlich nutzen! - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 3.1.6 Chancen für Zündorf Süd endlich nutzen - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 3.1.6 Chancen für Zündorf Süd endlich nutzen - geändert beschlossen
+- TOP 3.1.7: Einführung der Möglichkeit von Stadtverweisen in die Stadtordnung bei Missachtung von erteilten Platzverweisen - endgültig abgelehnt
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Freiwillige Weiterführung des Rates für Integration - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der AfD zu 'Freiwillige Weiterführung des Rates für Integration' - Kenntnis genommen
+- TOP 4.2: COP 23 – Erreicht die Stadt Köln ihre Klimaschutzziele? - Sache ist erledigt
+- TOP -: Erreicht die Stadt Köln Ihre Klimaschutzziele ? - Kenntnis genommen
+- TOP 4.3: Baugenehmigungen in Köln mit dramatischem Einbruch – was tut die Oberbürgermeisterin? - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Baugenehmigungen in Köln mit dramatischem Einbruch – was tut die Oberbürgermeisterin?" - Kenntnis genommen
+- TOP 4.4: Symposium Silvester 2017: Was plant die Stadt Köln an Silvester? - Sache ist erledigt
+- TOP -: Symposium Silvester 2017: Was plant die Stadt Köln an Silvester? - Kenntnis genommen
+- TOP 4.5: Lehrerinnen mit Kopftuch an Kölner Schulen - Sache ist erledigt
+- TOP -: Lehrerinnen mit Kopftuch an Kölner Schulen - Kenntnis genommen
+- TOP 4.6: Straßen und Plätze in Köln, die Namen von historisch belasteten Personen oder Ereignissen tragen - zurückgestellt
+- TOP 4.7: Mögliche Unterstützung antifaschistischer Gruppierungen durch Zuwendungen der Stadt Köln - zurückgestellt
+- TOP 4.8: Kosten für die Aufnahme von unbegleiteten minderjährigen Ausländern (UMA) in Köln - zurückgestellt
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Änderung der Betriebssatzung der Stadt Köln für das Wallraf- Richartz- Museum & Fondation Corboud - ungeändert beschlossen
+- TOP 6.1.2: Zweite Satzung zur Änderung der Satzung der Stadt Köln zu § 11a Abs. 2 ÖPNVG NRW vom 30.08.2011 - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Stadtentwässerungsbetriebe Köln, AöR (StEB); Abwassergebührensatzung 2018 - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Unterrichtung des Rates gemäß § 82 Absatz 1 und § 84 Absatz 1 Gemeindeordnung des Landes Nordrhein-Westfalen über die vom Kämmerer genehmigten Mehraufwendungen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Abschluss eines 4-Jahres-Rahmenvertrages zur Beschaffung von Komponenten des digitalen Bündelfunks - ungeändert beschlossen
+- TOP 10.2: Kliniken der Stadt Köln gGmbH: Änderung des Gesellschaftsvertrages - ungeändert beschlossen
+- TOP 10.3: Feststellung des Jahresabschlusses zum 31.08.2015 für die Bühnen Köln - ungeändert beschlossen
+- TOP 10.4: Mitteilung über eine Kostenerhöhung gegenüber dem erweiterten Baubeschluss zur Umsetzung des Brandschutzes an der Haltestelle Poststraße - ungeändert beschlossen
+- TOP 10.5: Umweltbildungszentrum auf Gut Leidenhausen - ungeändert beschlossen
+- TOP 10.6: Gesamtverkehrskonzept Köln, 8. Änderung - zurückgestellt
+- TOP 10.7: Strukturförderung Kulturwerk des Bundesverband Bildender Künstlerinnen und Künstler (BBK Köln e.V.( 2018 - 2020) - ungeändert beschlossen
+- TOP 10.8: Verlängerung Auszugsmangement - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.4, Beschlussvorlage Verlängerung Auszugsmanagement, Vorlagennummer 2338/2017 - endgültig abgelehnt
+- TOP 10.9: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Urbach - Planungsbeschluss - zurückgestellt
+- TOP 10.10: Assoziierte Mitgliedschaft im InsurLab Germany e.V. - ungeändert beschlossen
+- TOP 10.11: Abberufung eines Mitglieds der Betriebsleitung des Gürzenich-Orchesters der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: Feststellung des Jahresabschlusses zum 31.12.2013 und des Lageberichtes für das Wirtschaftsjahr 01.01.2013 - 31.12.2013 des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln - ungeändert beschlossen
+- TOP 10.13: Stadtentwässerungsbetriebe Köln, AöR - ungeändert beschlossen
+- TOP 10.14: Feststellung des Jahresabschlusses zum 31.12.2014 und des Lageberichtes für das Wirtschaftsjahr 01.01.2014 - 31.12.2014 des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln - ungeändert beschlossen
+- TOP 10.15: Ombudsstelle für Flüchtlinge - Verlängerung der Befristung - ungeändert beschlossen
+- TOP 10.16: Abschlepprahmenvertrag - zurückgestellt
+- TOP 10.17: Vergabe der Konzeptionsförderung in der Sparte Tanz, Haushaltsjahre 2018-2020 - ungeändert beschlossen
+- TOP 10.18: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 - ungeändert beschlossen
+- TOP 10.19: Sanierung der Bühnen Köln - Planungsbeschluss für Werkstattneubau - endgültig zurückgezogen
+- TOP 10.20: Sanierung des städtischen Gebäudes Peter-Baum-Weg 22, 51069 Köln-Dünnwald - Einstellung der weiteren Planung - geändert beschlossen
+- TOP 10.21: Seniorenkoordination im Stadtbezirk - geändert beschlossen
+- TOP 10.22: Sanierung der städtischen Wohnhäuser Auf dem Ginsterberg 6-34, 50737 Köln-Weidenpesch - ungeändert beschlossen
+- TOP 10.23: Ermächtigungsübertragung in das Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10.24: Bürgerhaushalt 2016 - Umsetzung der Vorschläge - geändert beschlossen
+- TOP -: TOP 10.24: Bürgerhaushalt 2016 - Umsetzung der Vorschläge, 2629/2017 - ungeändert beschlossen
+- TOP 10.25: Stadtentwässerungsbetriebe Köln, AöR (StEB); Wirtschaftsplan 2018 - ungeändert beschlossen
+- TOP 10.26: Neugestaltung der Domumgebung; 2. Bauabschnitt - geändert beschlossen
+- TOP 10.27: Ausweitung der präventiven Hilfen zur Vermeidung eines Wohnungsverlustes - ungeändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Sachen
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 17: Wahlen
+- TOP 17.1: KölnKongress GmbH - Entsendung eines Aufsichtratsmitgliedes - ungeändert beschlossen
+- TOP 17.2: Sparkasse KölnBonn: Weisung an die in die Verbandsversammlung des Zweckverbandes Soparkasse KölnBonn durch den Rat entsandten Vertreter - zurückgestellt
+- TOP 17.3: Neuwahl eines stellvertretend stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 17.4: Neuwahl eines beratenden Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 17.5: Mitteilung über die Benennung eines neuen beratenden Pflichmitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 17.6: Nachwahl Wirtschaftsausschuss - ungeändert beschlossen
+- TOP 17.7: Ausschussumbesetzung Finanzausschuss - ungeändert beschlossen
+- TOP 17.8: Ausschussumbesetzung Gesundheitsausschuss - ungeändert beschlossen
+- TOP 17.9: Ausschussumbesetzung Hauptausschuss - ungeändert beschlossen
+- TOP 17.10: Ausschussumbesetzung Jugendhilfeausschuss - endgültig zurückgezogen
+- TOP 17.11: Ausschussumbesetzung Rechnungsprüfungsausschuss - ungeändert beschlossen
+- TOP 17.12: Ausschussumbesetzung Ausschuss Soziales und Senioren - ungeändert beschlossen
+- TOP 17.13: Ausschussumbesetzung Stadtentwicklungsausschuss - ungeändert beschlossen
+- TOP 17.14: Ausschussumbesetzung Ausschuss für Umwelt und Grün - ungeändert beschlossen
+- TOP 17.15: Benennung eines sachkundigen Einwohners für den Ausschuss Allgemeine Verwaltung und Rechtsfragen/Vergabe/Internationales - ungeändert beschlossen
+- TOP 17.16: Neuwahl eines beratenden Mitglieds im Bauausschuss - ungeändert beschlossen
+- TOP 17.17: Neuwahl eines beratenden Mitglieds im Ausschuss für Umwelt und Grün - ungeändert beschlossen
+- TOP 17.18: TOP 17 - ungeändert beschlossen
+- TOP 17.19: Stiftungsrat RheinEnergie-Stiftung Jugend, Beruf und Wissenschaft - ungeändert beschlossen
+- TOP 17.20: Nachwahl Ausschuss für Anregungen und Beschwerden - ungeändert beschlossen
+- TOP 17.21: Neubesetzung von Aufsichtsräten - ungeändert beschlossen
+- TOP 17.22: Neubesetzung des Integrationsrates; Bestätigung von Ausschussmitgliedschaften - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 19: -
