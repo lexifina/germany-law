@@ -1,0 +1,90 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-11-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 7.2.: Oertelplatz - Baumpflanzungen
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 2.2.1.: Gründung Kinderkrippe
+- TOP 2.2.2.: Angerlohe
+- TOP 2.2.3.: Kneippbecken
+- TOP 2.2.4.: Straßenschäden im Münchner Westen
+- TOP 4.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung der Teilstrecke der Straße „Gerberau“ und der Gesamtstrecke des Paula-Hahn-Weinheimer-Wegs
+- TOP 5.1.: Blutenburglauf am 15.07.2018
+- TOP 5.2.: SommerSpielAktion 2018
+- TOP 5.3.: Verkehrsrechtliche Anordnung Lina-Hähnle-Straße Einrichtung eines absoluten Halteverbotes
+- TOP 5.4.: Verkehrsrechtliche Anordnung Karl-Gayer-Straße Einrichtung von Halteverboten
+- TOP 5.5.: Allacher Str., Gemarkung: Untermenzing, Fl.Nr.: 307/0 Errichtung von 27 Reihenhäusern und einer Kita mit Tiefgarge (Allacher Str./Ganzenmüllerstr.)
+- TOP 5.6.: Allacher Str. 252, Gemarkung: Untermenzing, Fl.Nr.: 761/8 Abbruch eines Tankstellenvordaches und Neubau Prüfraum
+- TOP 5.7.: Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1410/0 Geb. A47: Anbau Lounge, Vordach und Fluchtwegstreppe sowie Einbau von Sonnensegeln auf Dachterrasse und an bestehende Gebäude
+- TOP 5.8.: Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1410/0 Halle F2: Einbau eines Kommissionierlagers mit Hochregalen
+- TOP 5.9.: Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1410/0 Errichtung einer Leichtbauhalle, befristet auf 12 Monate
+- TOP 5.10.: Parrotstr., Gemarkung: Allach, Fl.Nr.: 639/0 Neubau von 16 Reihenhäusern
+- TOP 5.11.: Goteboldstr. 48, Gemarkung: Untermenzing, Fl.Nr.: 1084/0 Neubau 4er verbundener Stadthäuser sowie 2er Duplex-Parker
+- TOP 5.12.: Manzostr. 105, Gemarkung: Untermenzing, Fl.Nr.: 406/0 Aufstellen eines Bauwagens als Materiallager, Wetterschutz und Unterstand für die Kinder
+- TOP 5.13.: Willi-Wien-Str. 11, Gemarkung: Untermenzing, Fl.Nr.: 250/91 Errichtung einer Aufstockung auf dem Flachdach eines Reihenmittelhauses, Anbau eines Wintergartens
+- TOP 5.14.: Eversbuschstr. 192 a, Gemarkung: Allach, Fl.Nr.: 1318/8 Neubau einer Hotelerweiterung mit Tiefgarage sowie Umbau Bestand (Eversbuschstr. 192 a + 194 c / Pasteurstr.)
+- TOP 5.15.: Haberstr. 8, Gemarkung: Untermenzing, Fl.Nr.: 160/11 Dachgeschoss-Ausbau mit 1 WE und Stellplatzablöse - Genehmigungsverlängerung
+- TOP 5.16.: Rudhartstr. 37, Gemarkung: Allache, Fl.Nr.: 251/13 Neubau zweier Doppelhäuser mit Garagen
+- TOP 6.1.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 6.2.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 6.3.: (U) Beschränkung der Nachverdichtung Empfehlung Nr. 14-20 / E 01537 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 27.06.2017
+- TOP 6.4.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 6.5.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Jungfischsterben in der Kneip-Anlage Allach
+- TOP 7.3.: Beschichtung der Karl-Geyer-Unterführung
+- TOP 7.4.: Konzert Bühne 23 am 26.11.2017 in der Kirche Maria Trost
+- TOP 7.5.: AWM-Kampagne
+- TOP 7.6.: Bürgerforum Altenpflege am 21.11.2017
+- TOP 7.7.: Einladung 1200 Jahre Menzing - Abschlussessen am 29.12.2017
+- TOP 9.1.: Schreiben Büro des Oberbürgermeisters vom 05.10.2017: Einladung zum 33. Treffen der Gleichstellungsbeauftragten
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.10.2017: Münchner Gärten retten - Nachverdichtung zu deren Lasten verhindern
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.10.2017: Stadtteilmanagement nach Wirksamkeit und Nachhaltigkeit hinterfragen
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Ossannastr. 9, Esmarchstr. 9a, Haberstr. 6, Stieglstr. 101, Untere Mühlstr. 24, Wilhelm-Zwölfer-Str. 22, Löfflerstr. 11, Ramannstr. 33, Auenbruggerstr. 23, Ernst-Haeckel-Str. 29, Krautheimstr. 38, Am Lochholz 42, Adolf-Mathes-Weg 39, Niethammerstr. 3, Langerhansstr. 16
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.10.2017: Fällungsgenehmigung Eversbuschstr. 133
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.10.2017: Fällungsantrag Eversbuschstr. 192 a
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.10.2017: Fällungsantrag Georg-Reismüller-Str. 26
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (02.10. - 08.10.2017, 09.10. - 15.10.2017, 16.10. - 22.10.2017, 23.10. - 29.10.2017, 30.10. - 05.11.2017)
+- TOP 9.9.: Schreiben Referat für Bildung und Sport vom 16.10.2017: Zahlen zur Bedarfsermittlung für das Betreuungsangebot im Stadtbezirk
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 27.10.2017: Verkehrsrechtliche Anordnung Lauthstr. 8-2 und Servetstr. 5-13 Absolutes Halteverbot
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 20.10.2017: Verkehrsrechtliche Anordnung Eversbuschstr. 209-210 auf ggü.
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 12.10.2017: Markierung Zone 30 Waldhornstraße
+- TOP 9.13.: Schreiben Kreisverwaltungsreferat vom 12.10.2017: Tempo-30-Zone Megerlesstraße
+- TOP 9.14.: Schreiben Kreisverwaltungsreferat vom 12.10.2017: Verkehrszeichen 136 (Kinder) mit dem Zusatz Kindergarten Paul-Ehrlich-Weg
+- TOP 9.15.: Schreiben Kreisverwaltungsreferat vom 05.10.2017: Fortführung des Gaststättenbetriebes "Big Boss"
+- TOP 9.16.: Schreiben Baureferat vom 23.10.2017: Zwischennachricht St.-Johann-Straße
+- TOP 9.17.: Schreiben Baureferat vom 18.10.2017: Asphaltierung der Bauseweinallee Ecke Weinschenkstraße
+- TOP 9.18.: Schreiben Sozialreferat vom 19.10.2017: Nachbarschaftstreff Diamalt-Gelände
+- TOP 9.19.: Schreiben Sozialreferat 16.10.2017: Zweckentfremdung Zittauerstraße
+- TOP 9.20.: Schreiben Sozialreferat vom 23.10.2017: Zweckentfremdung Rudhartstraße
+- TOP 9.21.: Schreiben Kommunalreferat vom 16.10.2017: Benennung Erwin-Schleich-Straße
+- TOP 9.22.: Schreiben Stadtwerke München vom 09.10.2017, 16.10.2017, 23.10.2017, 27.10.2017, 06.11.2017 Baumaßnahmen
+- TOP 9.23.: Schreiben BA 12 vom 27.10.2017: Antrag: Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV
+- TOP 9.24.: Schreiben Firma MOEG GmbH vom 18.10.2017: Müllsituation Lautenschlägerstraße
+- TOP 9.25.: Schreiben Verein für Volksmusik und Volkstanz D&#039;Blutenburgler e.V.
+- TOP 9.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.11.2017: Fällungsgenehmigung Rudhardstr. 37
+- TOP 9.27.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.11.2017: Fällungsantrag Finsterwalderstr. 17
