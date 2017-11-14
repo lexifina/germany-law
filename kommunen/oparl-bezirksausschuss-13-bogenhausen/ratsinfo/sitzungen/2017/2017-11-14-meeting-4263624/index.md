@@ -1,0 +1,155 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2017-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4263624
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4263624
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Benennung einer Vertretung des BA 13 im Arbeitskreis Flüchtlinge und Wohnungslose
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1.: Gemeinsame Sitzung UA Planung und UA Verkehr: Mobilitätskonzept Prinz-Eugen-Park
+- TOP 2.1: Vorstand
+- TOP 2.1.1.: Zuschnitte der Unterausschüsse (z. B. neue Herausforderung Stadtbezirksbudget)
+- TOP 2.1.2.: Weitergabe von städtischen Schreiben
+- TOP 2.1.4.: Abrechnung der Verwaltungskostenpauschale 2017 (Aufstellung)
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.6.: Tilsiter Straße 8: Neubau eines Doppelhauses mit Carports und Schwimmbecken; Anhörung des Referats für Stadtplanung und Bauordnung vom 2.10.2017
+- TOP 2.2.7.: Jörg-Hube-Straße: Neubau von 24 Atriumhäusern und 15 Geschosswohnungen (2 MFH) in Holzbauweise mit Tiefgarage; Anhörung des Referats für Stadtplanung und Bauordnung vom 2.10.2017
+- TOP 2.2.8.: Friedrich-Eckart-Straße 2/Eggenfelder Straße: Neubau einer Wohnanlage mit Tiefgarage; Anhörung des Referats für Stadtplanung und Bauordnung vom 2.10.2017
+- TOP 2.2.9.: Jörg-Hube-Straße: Prinz Eugen Park / Ökologische Mustersiedlung WA 16 West - Neubau dreier Gebäude in Holzhybridbauweise mit 7 / 5 / 3 Geschossen + Außenanlagen; Anhörung des Referats für Stadtplanung und Bauordnung vom 2.10.2017
+- TOP 2.2.10.: Oberföhringer Straße 238: Anbau und Aufstockung von 7 Wohnungen auf ein Wohn- und Geschäftshaus; Erstantragsverfahren
+- TOP 2.2.11.: Ebersberger Straße 12a: Neubau eines Zweifamilienhauses mit Büro (1. Verlängerung): Erstantragsverfahren
+- TOP 2.2.12.: Isolde-Kurz-Straße 2: Neubau eines Doppelhauses; Erstantragsverfahren
+- TOP 2.2.14.: Denninger Str. 179: Neubau einer Mehrfamilienhauses (6 WE), 1 Außenstellplatz und 2 Stellpl. (Duplex); Erstantragsverfahren
+- TOP 2.2.15.: Wehrlestr. 8: Wiederherstellung der historischen Treppe mit Einbau und Anbau einer Rampe für Schwerbehinderte; Erstantragsverfahren
+- TOP 2.2.18.: Normannenplatz 33: Neubau eines Einfamilienhauses mit Garage und Unterkellerung, Abbruch eines Gebäudes mit Garage; Erstantragsverfahren
+- TOP 2.2.19.: Brodersenstr. 26: Neubau eines Mehrfamilienhauses mit Tiefgarage; Erstantragsverfahren
+- TOP 2.2.20.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.22.: Verschiedenes, Termine
+- TOP 2.2.23.: Protokoll zur Sitzung des UA Planung
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.3.: Baumfällungen (Unterrichtungen): Elektrastraße 42 (1 Wildkirsche), Flemingstraße 27 (1 Silberahorn), Gotthelfstraße 42 (lt. Bescheid), Hugo-von-Hoffmannsthal-Str. 16 (lt. Bescheid), Möhlstraße 17 (lt. Bescheid), Nettelbeckstraße 10 (2 Bäume), Pienzenauer Straße 30a (lt. Bescheid), Havelstr. 8 (1 Tanne)
+- TOP 2.6.6.: Nutzung des Festivalplatzes an der Cosimastraße
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.1.3.: Stellungnahme der Rechtsabteilung des Direktoriums (vertagt am 10.10.2017)
+- TOP 2.1.5.: Weitere Themen
+- TOP 2.2.1.: Prinz-Eugen-Park WA 7 - Aufstockung um ein Geschoss
+- TOP 2.2.2.: Bauleitplanung der Gemeinde Aschheim: 42. Änderung des Flächennutzungsplanes - Verfahren nach § 4 Abs. 1 BauGB; Anhörung des Referats für Stadtplanung und Bauordnung vom 25.09.2017
+- TOP 2.2.3.: Flemingstr. 11: Nachtrag eines Wohn- und Geschäftshauses von 1932 in die Denkmalliste; Anhörung des Referats für Stadtplanung und Bauordnung vom 19.10.2017
+- TOP 2.2.4.: Bauvorhaben Neckarstr. 16 - Abweichungen vom Bebauungsplan; Schreiben des Referats für Stadtplanung und Bauordnung vom 13.10.2017
+- TOP 2.2.5.: Bebauungsplan Straßenausbau der Truderinger Straße zwischen Riedenburger- und Hultschiner Straße (Teiländerung der Bebauungspläne Nr. 996 und 1368) Vereinfachtes Verfahren gem. § 13 BauGB; Anhörung des Referats für Stadtplanung und Bauordnung vom 16.10.2017
+- TOP 2.2.13.: Englschalkinger Straße 77: - Erweiterung und Generalsanierung des Klinikums Bogenhausen Erweiterung Ost: Baugrubenverbau, Bodenplatte, Baumfällungen; Vorbescheid; Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren - Klinikum Bogenhausen - Neubau eines temporären Modulgebäudes für die Zystostatika-Herstellung; Erstantragsverfahren
+- TOP 2.2.16.: Ruth-Drexel-Str.: Errichtung einer Wohnanlage (89 WE) mit Gemeinschaftsflächen und Tiefgarage – Prinz-Eugen-Park – WA 3 Ost; Erstantragsverfahren
+- TOP 2.2.17.: Ruth-Drexel-Str.: Neubau einer Passivhaus-Wohnanlage mit sieben Gebäuden (61 WE) und TG; Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren
+- TOP 2.2.21.: Weitere Themen aus der Tagesordnung, z.B. Bauvorhaben aus den Bekanntgaben
+- TOP 2.3.1.: Zusätzliche Busanbindung Zamilapark durch ergänzende StadtBuslinie 149; Anhörung der MVG vom 27.10.2017
+- TOP 2.3.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 13 Bogenhausen Abstufung einer Teilstrecke der Grimmelshausenstraße
+- TOP 2.3.3.: Grasbrunner Str.: Rückfrage der Stellungnahme zum verkehrsrechtlichen Anordnung; Anhörung des Kreisverwaltungsreferats vom 12.10.2017
+- TOP 2.3.4.: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20 / V 09501 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 25.10.2017 (VB)
+- TOP 2.3.5.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Meistersingerstr. 48; Schreiben des Kreisverwaltungsreferats vom 24.10.2017
+- TOP 2.3.6.: Robert-Heger-Straße 11: Einrichtung von zwei Kurzzeit-Parkplätzen nahe der Kita; Anhörung des Kreisverwaltungsreferats vom 18.10.2017
+- TOP 2.3.7.: Aufstellen eines Buswartehäuschen an der Bushaltestelle Englschalkinger Straße (an der Ecke Bäckerei Wimmer)
+- TOP 2.3.8.: Ausbau der Herzog-Heinrich-Brücke bzw. Föhringer Ring
+- TOP 2.3.9.: Containerzusammenlegung Robert-Heger-Straße und Erkweg/Dennerleinstraße
+- TOP 2.3.10.: Fehlender Busunterstand an der Haltestelle Rümelinstraße
+- TOP 2.3.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.12.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Dreieinigkeitskirche Elektrischer Außenlift zur Gewährung der Barrierefreiheit 3.741,07 € AZ: 0262.0-13-0160
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Pfarramt St. Lorenz, Förderkreis Kirchenmusik Adventskonzert am 10.12.2017 2.250,00 € 0262.0-13-0162
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Gehörlosenverband München und Umland e.V. Barrierefreie Adventsveranstaltung am 25.11.2017 1.297,50 € AZ: 0262.0-13-0161
+- TOP 2.4.4.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen; Anhörung durch das Direktorium vom 02.10.17 zum Antrag der ÖDP vom 21.06.17
+- TOP 2.4.5.: Fortbildungsmaßnahmen der Landeshauptstadt München auch für BA-Mitglieder ohne Zustimmung durch BA-Vorsitzende/n
+- TOP 2.4.7.: Verschiedenes, Termine
+- TOP 2.5.1.: Hallennutzung der Sportanlage Memeler Str. 53 - Diskussion mit Referatsvertreter (Einladung am 12.10.2017)
+- TOP 2.5.2.: Sachstand der Planung, Beginn und Dauer der Sanierung der Stadtteilbücherei am Rosenkavalierplatz
+- TOP 2.5.3.: Planung der Einsätze der Münchner SommerSpielAktion 2018; Anhörung der "Spielen in der Stadt e. V." vom 10.10.2017
+- TOP 2.5.4.: Bedarfsdeckung an Kindertageseinrichtungsplätzen im Prinz-Eugen-Park; Neubau eines Pavillions mit 4 Krippen- und 4 Kindergartengruppen; Anhörung des Referats für Bildung und Sport vom 13.10.2017
+- TOP 2.5.5.: Gebundene Ganztagesschulklassen an Grundschulen Schuljahr 2017/18; Schreiben des Referats für Bildung und Sport vom 05.10.2017
+- TOP 2.5.6.: Sind Fußballvereine wirklich gemeinnützig?
+- TOP 2.5.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.8.: Verschiedenes, Termine
+- TOP 2.6.1.: Vorstellung Vorentwurf der Spielplätze am Herkomerplatz und Donau- Ecke Scheinerstraße durch das Baureferat, Gartenbau
+- TOP 2.6.2.: Baumfällungen (Anhörungen): Cosimastraße: lt. Plan Hitzestraße 9: lt. Plan Englschalkinger Straße. 77: lt. Plan (2 Anträge) Hitzestraße 7: lt. Plan Zamdorfer Str. 26: lt. Plan Denninger Str. 179: lt. Plan Normannenplatz 33: lt. Plan Ruth-Drexel-Str.: lt. Plan Apenrader Straße 12: 1 Birke Cosimastraße 101-137: mehrere Bäume Eifelstraße 9: 1 Thuja Johanneskirchner Straße 21: 1 Nußbaum Laplacestraße 34: 2 Bäume Normannenstraße 34a: 2 Kiefer Oberföhringer Straße 151: 1 Zeder Ostpreußenstraße 11: mehrere Bäume Englschalkinger Str. 74: 2 Bäume Hugo-von-Hofamnnsthal-Str. 18: 3 Bäume Sibertstr. 4: 1 Silberahorn Nettelbeckstr. 3: 1 Fichte St.-Emmeram 21: 5 Fichten Donaustr. 8: 1 Bergahorn Oberonstr. 18: 3 Bäume
+- TOP 2.6.4.: Diskussionsgrundlage zum Spielplatz am Ziegelei-Stadl
+- TOP 2.6.5.: Aufwertung der Ritterfigur im Schlösselgarten
+- TOP 2.6.7.: Instandsetzung der Sitzbänke an der Cosimastr.; Bürgeranliegen vom 22.08.2017 (Rückmeldung Gartenbau vom 23.08.2017)
+- TOP 2.6.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.9.: Verschiedenes, Termine
+- TOP 5.1.: An der Marienburger Str./ Daglfinger Str.: Stellplatz für einen Lkw zur Bettfedernreinigung; Anhörung des Kommunalreferats vom 09.10.2017 (bereits am 16.10.2017 nach § 20 Abs. 1 Satz 2 BezirksausschussS zugestimmt)
+- TOP 5.2.: Lichterwanderung am 01.12.2017 am Tannhäuserplatz; Anhörung des Kreisverwaltungsreferats vom 06.11.2017
+- TOP 6.1.: Abfahrtszeiten der MVV am Herkomerplatz
+- TOP 6.2.: Verbesserung der Schulwegsicherheit in der Eggenfeldener Straße
+- TOP 6.3.: Erneuerung der Parkbänke an der Donaustraße
+- TOP 6.4.: Aufhebung der Radwegbenutzungspflicht in der Rennbahnstraße
+- TOP 6.5.: Größere Mülleimer an der Haltestelle Rümelinstraße
+- TOP 6.6.: Basispyramide als historisches Denkmal aufwerten! Errichtung eines gemeinsamen Rad- und Fußweges mit der Gemeinde Unterföhring
+- TOP 6.7.: Ganztägiger 10-Minuten-Takt der Buslinie 191 ab Haltestelle Süskindstraße mit Linie 190, Neue Linie mit ganztägigen 20-Minuten-Takt für das Gewerbegebiet Zamdorf
+- TOP 6.8.: Kleingartenanlage NO 74 - Reduzierung der Parkfläche im nördlichen Bereich
+- TOP 6.9.: Fragen zur städtebaulichen Entwicklungsmaßnahme Daglfing
+- TOP 6.10.: Nachverdichtung der Rennbahn
+- TOP 6.11.: Lärm an der Baustelle Prinz-Eugen-Park
+- TOP 6.12.: Pflege und Gestaltung der kleinen Park-/Grünanlage an der Töginger Straße
+- TOP 6.13.: Änderung der Ampelschaltungen (BA-Antrag 14-20 / B 03701); Antwortschreiben zur Rückfrage der Antragstellerin
+- TOP 6.14.: Vorstellung der Voruntersuchung zum Areal an der Englschalkinger Str. der bgsm; Stellungnahme des Referats für Stadtplanung und Bauordnung vom 23.10.2017
+- TOP 6.15.: Osserstr. 46: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid; Stellungnahme des Referats für Stadtplanung und Bauordnung vom 05.10.2017
+- TOP 6.16.: Meistersingerstr. 26: Neubau eines Wohngebäudes (5 WE) mit Tiefgarage; Schreiben des Referats für Stadtplanung und Bauordnung vom 25.09.2017
+- TOP 6.17.: Wertstoffinsel an der Fritz-Lutz-Straße
+- TOP 6.18.: Bau eines Kinderspielplatzes im Grüntal
+- TOP 7.2.1.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft: Eugen-Jochum-Str. (Prinz-Eugen-Park), Fl.St. 439/37, Gemarkung Oberföhring; Schreiben des Kommunalreferats vom 06.10.2017
+- TOP 7.4.2.: Kurzanleitung GeoInfoWeb; Schreiben des Kommunalreferats vom 04.10.2017
+- TOP 7.5.1.: (U) EU-Projekt METAMORPHOSIS
+- TOP 7.5.2.: Arbeiten im Straßenraum: Englschlkinger Str. 148 b (Neuverlegung Fernwärmehausanschluss); Schreiben des Kreisverwaltungsreferats vom 26.09.2017
+- TOP 7.5.3.: Vollzug der Grünanlagensatzung vom 15.06.2012: Baustelleneinrichtung an der Reuchlinstr. 6 + 8 (Seite Adalbert-Stifter-Str. auf Fl.St. 179/4); Schreiben des Kreisverwaltungsreferats vom 06.10.2017
+- TOP 7.7.1.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 7.7.2.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 7.7.3.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 7.7.4.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 7.7.5.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 7.7.6.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 7.9.1.: (U) Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung des Anwesens Alsenweg 13, Wohnung Nr. 1 für die Einrichtung einer Kindertageseinrichtung in Form einer Großtagespflege
+- TOP 7.9.2.: Gründung eines Fonds für die entstandenen Kosten durch Prüfungsgebühren und Übersetzung notwendiger Dokumente für Flüchtlinge; Beschluss des Sozialausschusses vom 09.11.2017, Sitzungsvorlage Nr. 14-20 / V 09645
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch, Ostpreußenstr. 85; vorher: 135 m² bzw. 1 WE, geplant: 489 m² bzw. 5 WE
