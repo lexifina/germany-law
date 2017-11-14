@@ -1,0 +1,6 @@
+# TOP 9: Außerplanmäßige Aufwendungen
+
+- Sitzung: 33. Sitzung des Rates (2017-11-14)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/237618
