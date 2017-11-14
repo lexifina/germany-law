@@ -1,0 +1,80 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262595
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262595
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Baumfällungen (Baumschutz-UNB):
+- TOP 5.4.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.5.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Vorstellung der Psychosozialen Arbeitsgemeinschaft des Sektors Nord der Versorgungsregion der Landeshauptstadt München (PSAG Nord)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Aufstellung eines Toilettencontainers am Feldmochinger Weinfest vom 06.10. - 09.10.2017 1.180,00 € 0262.0-24-0211
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Toni-Pfülf Grundschule Nikolausbesuch am 06.12.2017 250,00 € 0262.0-24-0212
+- TOP 2.3.: Entscheidung über Projektplanung gem. OB-Vollmacht: Programm barrierefreie Bushaltestellen Weitl-/Reinfarnstraße - Haltestelle Hasenbergl Süd
+- TOP 3.: Anträge
+- TOP 3.1.: Einwohnerversammlung bei Bauvorhaben „Wohnen für Alle“ in der Ittlingerstraße
+- TOP 3.2.: Abhaltung einer Einwohnerversammlung zum Thema "Wohnen für Alle" in der Ittlingerstraße
+- TOP 3.3.: Unverzügliche Unterrichtung des BA 24 über den Sachstand der Sanierung der Turnhalle und Schwimmhalle der Toni-Pfülf-Schule
+- TOP 5.1.1.: Bocksdornstr., Fl.Nr. 1064/442, Gemarkung Feldmoching
+- TOP 5.1.2.: Drudhardstr. 11
+- TOP 5.1.3.: N Malvenweg, Fl.Nr. 1758/0, Gemarkung Feldmoching
+- TOP 5.1.4.: N Waldmeisterstr. 38
+- TOP 5.1.5.: N Feldmochinger Str. 423
+- TOP 5.2.1.: Schwabenspiegelstr. 14
+- TOP 5.2.2.: Balsaminenstr. 5
+- TOP 5.2.3.: Grashofstr. 80
+- TOP 5.2.4.: Caracciolastr. 3
+- TOP 5.2.5.: Bocksdornstr., Fl.Nr. 1064/442, Gemarkung Feldmoching
+- TOP 5.2.6.: N Drudhardstr. 11
+- TOP 5.2.7.: N Schittgablerstr., Fl.Nr. 1070/583, Gemarkung Feldmoching
+- TOP 5.2.8.: N Waldmeisterstr. 55
+- TOP 5.2.9.: N Hyazinthenstr. 7
+- TOP 5.3.1.: Wesselystr. 1
+- TOP 5.4.1.: Waldweihnacht mit Krippenspiel am 24.12.2017, Grünanlage Gundermannstraße
+- TOP 5.4.2.: Fest vom 28.06. - 01.07.2018 auf dem Dülfer Anger
+- TOP 5.5.1.: Änderung der Bezirksausschuss-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen
+- TOP 5.5.2.: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren (vertagter TOP 5.4.3 - 10.10.2017)
+- TOP 5.5.3.: Weiterentwicklung des MVV-Gemeinschaftstarifs - Tarifstrukturreform,... Verschiebung der Zahlgrenze an der S 1 weiter nach draußen (Ziff. 4 der Anträge), BV-Empfehlung Nr. 14-20 / E 01415 vom 30.03.2017
+- TOP 5.5.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Absolutes Haltverbot im Wendehammer der Drudhardstraße
+- TOP 5.5.5.: Anzeige über das Abbrennen eines privaten Feuerwerks auf Privatgrund in der Paul-Preuß-Straße am 02.12.2017
+- TOP 5.5.6.: Planung der SommerSpielAktion 2018
+- TOP 5.5.7.: N Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Oberschleißheim, Bebauungsplan Nr. 77, Munich Beach Resort
+- TOP 5.5.8.: "München - gesund vor Ort" Umsetzung des Gesetzes zur Gesundheitsförderung und Präventation; Kooperationsvereinbarung mit der AOK Bayern - Erläuterungen der anwesenden Vertreterin aus dem RGU zur Stellungnahme des BA 24 (TOP 9.1 - 10.10.2017)
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Bauvorhaben Schittgablerstr. 18 - 18 c - Tektur
+- TOP 6.2.: Verkehrssituation in der Lerchenau; Verbesserung der Verkehrssicherheit in der Lerchenau, Sachstand zur Umsetzung der Maßnahmen
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Feuerwehranfahrtzone Petrarcastraße 18 und 9
+- TOP 6.4.: Daten Pegel Feldmoching
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: Meldelisten Baumfällungsanträge
+- TOP 6.7.: (U) 650.000 Euro Veranstaltungsbudget - davon 150.000 für den Straßenfasching: Der öffentliche Raum braucht Ehrenamt und Engagement von Vereinen Ziffern 1 und 2 des Änderungsantrags (Nr. 02-08 / A 04082) der SPD-Stadtratsfraktion und der Fraktion Bündnis 90 / DIE GRÜNEN / Rosa Liste vom 28.11.2007 Antrag Nr. 08-14 / A 04426 der SPD-Stadtratsfraktion vom 04.07.2013 Antrag Nr. 14-20/ A 01024 der CSU-Stadtratsfraktion vom 11.05.2015 Antrag Nr. 14-20 / A 02422 der SPD-Stadtratsfraktion vom 26.08.2016 Antrag Nr. 14-20 / B 02389 der CSU-Fraktion im Bezirksausschuss 16 vom 26.04.2016 Antrag Nr. 14-20 / B 02646 des Bezirksausschusses 24 vom 25.07.2016
+- TOP 6.8.: (U) EU-Projekt METAMORPHOSIS
+- TOP 6.9.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 6.10.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 6.11.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 6.12.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 6.13.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 6.14.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 6.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.16.: (U) "Wohnen für Alle" Vorstellung des Rahmenkonzepts des Sozialreferats und Finanzierung der Standorte 2017 und 2018 Produkt 60 4.1.8 Schaffung preiswerten Wohnraums Produkt 60 6.2.3 Betreuung von jungen und unbegleiteten heranwachsenden Flüchtlingen Soziale Hausverwaltung - Wohnen für Alle Antrag Nr. 14-20 / B 02676 ............................ Kochen mit Flüchtlingen - Hilfe, die schmeckt Antrag Nr. 14-20 / A 02429 ..........................
+- TOP 8.1.: Protokoll der Sitzung am 12.09.2017 (nach Genehmigung in der Sitzung am 10.10.2017)
+- TOP 8.2.: Keine weiteren, sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs und Wartebereichen des ÖPNV
