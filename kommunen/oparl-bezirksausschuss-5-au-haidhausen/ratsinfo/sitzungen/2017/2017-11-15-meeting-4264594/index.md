@@ -1,0 +1,143 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-11-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.1.: 100-Jahr-Jubiläum der Rätezeit 2018: "Fest der Demokratie"
+- TOP II.2.: Weiße Rose Tafel / Denkmal: Erhalt des Zauns
+- TOP II.3.: Obacht ! Kultur im Quartier 2019
+- TOP II.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Rosenheimer Str. 16: Nutzungsänderung: Laden zu Gaststätte
+- TOP 2.2.: Gebsattelstr. 15: Weiterführung einer Freischankfläche
+- TOP 2.2.: Gravelottestr. 6-8: Nutzungsänderung Vordergebäude: Altenheim zu Büros mit einem Versammlungsraum, eine Wohneinheit, Arztpraxis und Versorgungsküche für das Pflegeheim im Rückgebäude; Tektur
+- TOP 2.4.: Prinzregentenstr. 156: Errichtung einer Loggia im DG
+- TOP 2.5.: Elsässer Str. 34: Anbau einer Aufzugsanlage an die Südfassade (Rückgebäude)
+- TOP 2.6.: Wörthstr. 9, RGB: Nutzungsänderung von ehem. Gewerbeflächen einer Näherei in 6 getrennte, eigenständige gewerbliche Einheiten mit Büro- und Praxisnutzung - nachträgliche Genehmigung, jetzt mit Errichtung einer Notleiteranlage; Tektur
+- TOP 2.7.: Falkenstr. 7: Dachgeschoss-Neubau, Neubau eines Reinigungsbalkons; Tektur
+- TOP 2.8.: Falkenstr. 7: Dachgeschoss-Neubau, Erhöhung des Aufzugs um ein Geschoss; Tektur
+- TOP 2.9.: Trogerstr. 22: Nutzungsänderung / Umbau: Wohnungen (3 WE) und Dachspeicher zu Büros und Bereitschaftszimmern
+- TOP 2.10.: Leuchtenbergring 20: Neubau eines Bürogebäudes mit Einzelhandel und Lagernutzung sowie Umbau und Erweiterung des Designhotels Angelo mit Gaststätte und Tiefgarage; Tektur
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Zebrastreifen an der Welfen-/Auerfeldstraße (Zwischenmitteilung des KVR liegt vor)
+- TOP 4.2.2.: Gegenläufiger Radweg in der Unterführung zum Haidenauplatz (Antwortschreiben des KVR liegt vor)
+- TOP 4.2.3.: Beinahe-Unfälle mit Schulkindern an der Zeppelin-/Ohlmüllerstraße
+- TOP 4.2.4.: Defekte Tempo-30-Schilder, z.B. in der Rablstraße (Antwortschreiben des Baureferats liegt vor
+- TOP 4.2.5.: Rettungsschacht 2. S-Bahn-Stammstrecke
+- TOP 4.2.6.: Fahrradweg am Gebsattelberg
+- TOP 4.2.7.: Antrag auf Verlegung des Eingangs in die Frühlingsanlage
+- TOP 5.1.: Fehlbelegung von öffentlich geförderten Familienwohnungen im Stadtbezirk
+- TOP 5.2.: Sorgsamer Umgang mit öffentlichen Raum: Breitband-Verteilerkästen möglichst unter die Erde (Unterflursystem)
+- TOP 5.3.: Anfrage zur Schulentwicklungsplanung
+- TOP 5.4.: Errichtung einer Kita in der Schweigerstr. 15
+- TOP 5.5.: Fertigstellung der Sanierungsarbeiten an der Turnhalle Kirchenstr. 13 b
+- TOP 5.6.: Ein Stadtviertelbus für die Au
+- TOP 5.7.: Informationen zur Buslinie 149
+- TOP 5.8.: Fortschreibung der Münchner Schulentwicklung - Datenblatt GS Bazeillesstraße
+- TOP 6.1.1.: Budget der Bezirksausschüsse Haidhauser Haie Anschaffung von Trikots und Caps 462,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Änderung einer bestehenden Freischankfläche: Cafe und Feinkost „Sapori del Salento“, Weißenburger Platz 6 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Änderung einer bestehenden Freischankfläche: „Seral Feinkost“, Orleansplatz 3 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Verschönerung des Mariahilfplatzes Empfehlung Nr. 14-20 / E 01645 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 29.06.2017
+- TOP 6.3.2.: (E) Informationsweitergabe an die Isarbewohner über das Aufgabengebiet und die Erreichbarkeit des von der Stadt in den Sommermonaten eingesetzten Sicherheitsdienstes in den Isarauen Empfehlung Nr. 14-20 / E 01643 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 29.06.2017
+- TOP 6.3.3.: (E) Schaffung eines Platzes anstelle einer Verkehrsinsel Entenbachstraße / Ecke Schlotthauerstraße Empfehlung Nr. 14-20 / E 01650 der Bürgerversammlung des Stadtbezirks 5 Au-Haidhausen am 29.06.2017
+- TOP 6.3.4.: (E) + (U) Wiedereinführung der Bushaltestelle 52 / Marienplatz Empfehlung Nr. 14-20 / E 01641 der Bürgerversammlung des Stadtbezirkes 5 – Au-Haidhausen am 29.06.2017
+- TOP 8.1.1.: Messgeräte für Feinstaub und Stickoxide in Haidhausen
+- TOP 8.1.2.: Verkehrsunfall am Haidenauplatz - schnelle Umsetzung von Maßnahmen
+- TOP 8.2.1.: Verlängerung der Standzeit für Taxis am Wiener Platz (Schreiben BA 5 vom 26.10.2017)
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Mariahilfplatz 12: Fällung von 1 Birke Vertagung aus der Sitzung vom 18.10.2017
+- TOP 7.2.: Metzstr. 18: Fällung von 1 Sophora und 1 Fichte
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Planung der Einsätze der Münchner SommerSpielAktion 2018 von Spielen in der Stadt e.V.
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Gebundene Ganztagsschulklassen an Grundschulen im Schuljahr 2017/18
+- TOP 3.2.: Informationstermin zur möglichen Nachnutzung des Mietpavillons Flurstr. 4 am 15.11.2017 um 15 Uhr
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kita Kirchenstr. 17 a, zweiter Informationsbrief für die Eltern
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Änderung einer bestehenden Freischankfläche: Cafe und Feinkost „Sapori del Salento“, Weißenburger Platz 6
+- TOP 1.2.: Änderung einer bestehenden Freischankfläche: „Seral Feinkost“, Orleansplatz 3
+- TOP 1.3.: Budget der Bezirksausschüsse Haidhauser Haie Anschaffung von Trikots und Caps 462,00 €
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verwendungsnachweis / Abrechnung für Zuschuss aus dem Budget des BA 5: - Sommerfest Adelgundenheim - Musiktheaterprojekt „Sallys falsche Oma“ - kultur-im-quartier.de, Kulturbiennale in Haidhausen - Sommerfest IGH e.V. - Sommerfest HEI
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Metzstr. 35: DG-Ausbau, Einbau zweier Dachterrassen und eines Personenaufzugs (EG – 4. OG)
+- TOP 2.3.: Stubenvollstr. 2: Umbau und Sanierung Dachgeschoss „Hotel Preysing“
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 3.2.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP 3.3.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 3.4.: Vorbescheid Maria-Theresia-Str. 4, Neubau eines Wohnhauses mit Tiefgarage
+- TOP 3.5.: Baugenehmigung Lucile-Grahn-Str. 48, Umbau einer DG-Wohnung und Einbau eines Aufzuges und Dachgauben
+- TOP 3.6.: Geplantes MS-Zentrum am Klinikum rechts der Isar - aktueller Stand der Baumaßnahmen
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Bushaltestelle vor dem Berufsschulzentrum optimieren - Rückbau des baulich getrennten Restradweges vor der Orleansstr. 46 (Vertagung von Punkt 5 des Antrags aus der Sitzung vom 18.10.2017)
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch von Lichtsignalanlagen an der Ismaninger Straße / Langerstraße
+- TOP 2.2.: Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV Antrag BA 12 Schwabing-Freimann mit der Bitte um Unterstützung
+- TOP 2.3.: Neue Buslinie 149 als Direktverbindung Zamilapark - Steinhausen - Ostbahnhof
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsunfall am Haidenauplatz – schnelle Umsetzung von Maßnahmen BA-Antrag Nr. 14-20 / B 03910
+- TOP 3.2.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 3.3.: Verkehrsrechtliche Anordnung am Johannisplatz 1-7 wegen Fahrbahnsanierung vom 02.11. - 15.12.2017
+- TOP 3.4.: Baumaßnahme der Stadtwerke: Stromprojekt Einsteinstraße von der 45. - 49. Kalenderwoche 2017
+- TOP 3.5.: Freizeitsportprogramm des Referates für Bildung und Sport; Zukünftige Ausrichtung des städtischen Sport- und Spielangebotes Sitzungsvorlage Nr. 14-20 / V 09120, Beschluss der Vollversammlung des Stadtrates vom 23.11.2017 hier: Antrag BA 5: Kostenlose Spielangebote im Freien für den 5. Stadtbezirk
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Schulwegsicherheit an der Grillparzer-/Ernst-Reuter-Straße Verweisung aus der Sitzung vom 18.10.2017
+- TOP 4.2.: Parklizenz Klinikviertel (Antwortschreiben Referat für Stadtplanung und Bauordnung liegt bereits vor) Verweisung aus der Sitzung vom 18.10.2017
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 04.12.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 04.12.2017, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 05.12.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 06.12.2017, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 07.12.2017, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 13.12.2017, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Montag, 27.11.2017, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Nächste Flussrunde am 11.12.2017 von 16-19 Uhr / Zwischenauswertung bisheriger Flussrunden
+- TOP 4.2.: Einladung zur Eröffnung der Münchner Familienstützpunkte am 21.11.2017 um 11 Uhr
+- TOP 4.3.: Einladung zum Kultursalon der Süddeutschen Zeitung am 14.11.2017 um 20 Uhr
+- TOP 4.4.: Entwicklung des Paulaner-Areals in der Münchner Au; Einladung der Bayerischen Hausbau zur Bürgerinformationsveranstaltung am 20.11.2017 um 19 Uhr
+- TOP 4.5.: Einladung AKIM zur 1. Sitzung der Strategiegruppe "Nächtliches Feiern" am 29.11.2017 um 16 Uhr
