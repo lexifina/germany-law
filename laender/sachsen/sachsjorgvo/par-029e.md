@@ -1,0 +1,2 @@
+# § 29e Gerichtsbarkeit der Steuerberater und Steuerbevollmächtigten
+Die der Landesjustizverwaltung zustehenden Befugnisse und Aufgaben zur Ernennung der ehrenamtlichen Richter nach § 99 Absatz 2 Satz 1 und Absatz 3 Satz 1 des Steuerberatungsgesetzes in der Fassung der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735), das zuletzt durch Artikel 5 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1682) geändert worden ist, in der jeweils geltenden Fassung, werden auf den Präsidenten des Oberlandesgerichts Dresden übertragen.
