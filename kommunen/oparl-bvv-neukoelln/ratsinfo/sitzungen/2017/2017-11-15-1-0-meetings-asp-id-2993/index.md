@@ -1,0 +1,92 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-11-15T17:00:00+01:00
+- Ende: 2017-11-15T22:35:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2993
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2993
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 1.1: Milieuschutz - beantwortet
+- TOP 1.2: Party- und Club-Betrieb des „Kaduka Subtera“ - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: BVV Neukölln verurteilt Zerstörung und Diebstahl von Stolpersteinen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Gewalt ist kein politisches Mittel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Verurteilung der politisch motivierten Gewalt durch Linksextreme vom 29. Oktober auf ein BVV-Mitglied und der Bedrohung eines Weiteren - in der BVV abgelehnt
+- TOP 5.4: Keine Privatisierung beim Schulbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 6.2: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Haushalt, Wirtschaft, Verwaltung und Gleichstellung - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan XIV-257a - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2016 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Haushalt, Wirtschaft, Verwaltung und Gleichstellung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Drogen im Umfeld Neuköllner Schulen - beantwortet
+- TOP 9.2: Schulsozialstation an der Bruno-Taut-Grundschule - beantwortet
+- TOP 9.3: Schilleria Mädchencafé - beantwortet
+- TOP 9.4: Verdrängung des Jugendclubs Sunshine und des Nachbarschaftszentrums Sonnenblick - beantwortet
+- TOP 9.5: Restaurant Reuterstraße 28 - beantwortet
+- TOP 9.6: Terminchaos bei den Neuköllner Bürgerämtern? - schriftlich beantwortet
+- TOP 9.7: SoKo Opium - beantwortet
+- TOP 9.8: Anschrift der Jugendberufsagentur - beantwortet
+- TOP 9.9: Nachbarschaftstreff Sonnenblick - beantwortet
+- TOP 9.10: Zebrastreifen Werbellinstraße - beantwortet
+- TOP 9.11: CityTree und Mooswände in Neukölln? - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Jugendeinrichtung in Buckow? - beantwortet
+- TOP 10.2: Situation in den Neuköllner Unterkünften für Geflüchtete - beantwortet
+- TOP 10.3: Missbrauch der Volkshochschule - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bebauung ehem. Blub-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Kinderschutz bei dem Patenschaftsprojekt für Kinderspielplätze - in der BVV abgelehnt
+- TOP 11.4: Jahresbericht linksextreme Aktivitäten in Neukölln - vertagt
+- TOP 11.5: Ermittlungsgruppe Rechtsextremismus - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Partnerschaften für Demokratie und das Bündnis Neukölln - vertagt
+- TOP 12.2: Obdachlose in Not - vertagt
+- TOP 12.3: Verdrängung bestehender Gewerbebetriebe - vertagt
+- TOP 12.4: Kommunales Vorkaufsrecht in Milieuschutzgebieten - vertagt
+- TOP 12.5: Keine schriftlichen Eingangsbestätigung mehr im Jobcenter Neukölln - vertagt
+- TOP 12.6: Müssen Neuköllns Obdachlose frieren? - vertagt
+- TOP 12.7: Mieterschutz in Milieuschutzgebieten - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Unterkunft mit Beratung und Unterstützung für wohnungslose Minderjährige - überwiesen
+- TOP 14.2: Bezirkliche Seniorenvertretung stärken - überwiesen
+- TOP 14.3: Stolpersteine – zerstörte Gedenkorte in Neukölln wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Verzicht von religiösen Symbolen auf öffentlichen Spielplätzen - vertagt
+- TOP 14.5: Abgabe von Unterlagen durch Jobcenter Neukölln wieder bestätigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Hauptamtliche Leitung der Seniorenfreizeitstätten - überwiesen
+- TOP 14.7: Fahrradstraße Neukölln - überwiesen
+- TOP 14.8: Versagung von weiteren Umnutzungen von Gewerberäumen im Reuterkiez - überwiesen
+- TOP 14.9: Dauerhaften Schutz für die soziale Infrastruktur in der Weißen Siedlung - zurückgezogen
+- TOP 14.10: Gut und sicher ankommen im Estrel - überwiesen
+- TOP 14.11: Bessere Sichtverhältnisse an der Kreuzung Hugo-Heimann-Straße / Kölner Damm - überwiesen
+- TOP 14.12: Mieterschutz in Milieuschutzgebieten verbessern - überwiesen
+- TOP 14.13: Unterbringung von Obdachlosen - vertagt
+- TOP 14.14: Keine Räumung ohne Schlafplatz - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Straßenabwasserkanal in der Kanalstraße verstopft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Sozialmissbrauch verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Maßnahmen gegen religös motivierte Radikalisierung in Neukölln II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Mehr Fahrradabstellplätze vor den Neukölln Arcaden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Berliner Initiative "Berlin tritt ein für Selbstbestimmung und Akzeptanz sexueller und geschlechtlicher Vielfalt" endlich auch in Neukölln. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Rücksicht nehmen im Verkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Wahlrecht für Obdachlose sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: City-Toiletten sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Drogenkonsum- und Suchtberatungsangebot - vertagt
+- TOP 16.10: Bebauungsplan XIV-246 („Familienzentrum / Blueberry Inn“) - mit Abschlussbericht zur Kenntnis genommen
