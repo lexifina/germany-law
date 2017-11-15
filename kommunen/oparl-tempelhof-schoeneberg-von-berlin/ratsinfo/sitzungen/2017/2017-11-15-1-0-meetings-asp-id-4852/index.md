@@ -1,0 +1,76 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-11-15T17:00:00+01:00
+- Ende: 2017-11-15T21:05:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4852
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4852
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=293198
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 3.1: Nachbesetzung einer/s Bürgerdeputierten als stimmberechtigtes Mitglied im Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Ersatzstandort Potse / Drugstore - beantwortet
+- TOP 8.2: Gedenkkultur nicht verstolpern - beantwortet
+- TOP 8.3: Stand der Versorgung obdachlos gewordener Menschen im Bezirk im Winter 2017/2018 - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Badezimmer auf Rädern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Verlängerung der Amtszeit - vertagt
+- TOP 9.3: Die mobile App „Ordnungsamt-Online“ besser bekannt machen - überwiesen
+- TOP 9.4: Erhalt der ehrenamtlich geführten Thomas-Dehler-Bibliothek - überwiesen
+- TOP 9.5: TXL OFFENHALTEN - gegenstandslos
+- TOP 9.6: Einmündung Werner-Voß-Damm / Manfred-von-Richthofen-Straße - überwiesen
+- TOP 9.7: Tempelhof-Schöneberg spielt mit – am Weltspieltag 2018! - überwiesen
+- TOP 9.8: Moratorium beim Vorkaufsrecht für Immobilien in Milieuschutzgebieten - in der BVV abgelehnt
+- TOP 9.9: Fußgängerüberwegsicherung Südwestkorso umsetzen - überwiesen
+- TOP 9.10: Sicherer Überweg Waldsassener Straße/Tirschenreuther Ring - überwiesen
+- TOP 9.11: Menschen mit Gehbehinderung barrierefreien Zugang zum Rathaus Schöneberg ermöglichen - überwiesen
+- TOP 9.12: Rad- und Fußverkehr im Bereich des Knotens Priesterweg / Prellerweg - überwiesen
+- TOP 9.13: Friedrich-Ebert-Stadion schnellstmöglich wieder nutzbar machen - vertagt
+- TOP 9.14: Aktualisierung der Bürgermeistergalerie im Vorraum des BVV Saales - überwiesen
+- TOP 9.15: Eine Zugabe für Kitty Kuse - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Dienstzeit des Ordnungsamtes auf 24 Stunden ausweiten - überwiesen
+- TOP 9.17: Pflege (auch) im Süden des Bezirks unterstützen - überwiesen
+- TOP 9.18: Umleitung für gesperrte Wolziger Zeile durch die Briesingstraße insbesondere für die BVG befahrbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.19: Einebnung von Grabdenkmalen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Ausstellungen der Kommunalen Galerie im Rathaus Tempelhof weiterhin möglich? - überwiesen
+- TOP 9.21: Prostituiertenschutzgesetz fristgerecht umsetzen - vertagt
+- TOP 10: übrige Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Gezielte Förderung des ehrenamtlichen Engagements von Schülerinnen und Schülern in Schulen und Sportvereinen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Geschichtsstation im Stadtraum ergänzen Würdigung des Nollendorfplatzes im Rahmen des Projektes “Historische Orte sichtbar machen“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Tempelhofer Damm auffrischen und funktionaler gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Brückenmarkt auf der Stubenrauchbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Tempelhofer Feld im Flächennutzungsplan richtig ausweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: „Halt inne!“ Gedenk-und Mahnort Nollendorfplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Firmentickets fördern – für Arbeitnehmer und Unternehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Städtepartnerschaften des Bezirks Tempelhof-Schöneberg besser deutlich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Grünanlagen auf dem Perelsplatz sanieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Sinflutbrunnen am Perelsplatz restaurieren und wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Orientierung in Marienfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Verkehrssicherheit in der Monopolstraße durch Bodenschwellen herstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Öffentliches Schwimmen auch im neuen Götzbad ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Fahrradabstellmöglichkeiten am Bahnhof Südkreuz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Bestattungsmöglichkeiten nach muslimischem Ritus schaffen - überwiesen
+- TOP 11.16: Sanitär- und Umkleidecontainer für die Halker Zeile - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Geschwindigkeitskontrollen und Verkehrsberuhigung in der Blohmstraße in Lichtenrade im Bereich des Kopfsteinpflasters - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Pflanzschalen im Rudolph-Wilde-Park bepflanzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Touristisches Wegeleitsystem für Tempelhof-Schöneberg verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - VfL Lichtenrade 1894 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Innovations- und Wirtschaftspreis für Tempelhof-Schöneberg - vertagt
+- TOP 12: Vorlagen zur Beschlussfassung - vertagt
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Obstbäume im Bezirk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Termin der nächsten Sitzung - erledigt
