@@ -1,0 +1,2 @@
+# § 30a Kurzzeitkrankenpflege
+Ist die häusliche Krankenpflege nach § 30 Absatz 1 bei schwerer Krankheit oder wegen akuter Verschlimmerung einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder nach einer ambulanten Krankenhausbehandlung, nicht ausreichend und liegt keine Pflegebedürftigkeit mit Pflegegrad 2 oder höher im Sinne des § 48 Absatz 1 Satz 1 vor, sind die Aufwendungen einer nach ärztlicher Bescheinigung notwendigen Kurzzeitkrankenpflege in einer vollstationären Einrichtung entsprechend § 52 Absatz 1 beihilfefähig.
