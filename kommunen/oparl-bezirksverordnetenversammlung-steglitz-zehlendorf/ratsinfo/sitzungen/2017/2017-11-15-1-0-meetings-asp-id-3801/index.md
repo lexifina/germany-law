@@ -1,0 +1,119 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-11-15T17:00:00+01:00
+- Ende: 2017-11-15T21:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3801
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3801
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - beantwortet
+- TOP 3.1: Kleine Wahlnachlese - beantwortet
+- TOP 3.2: Türkischer Konsulatsunterricht in Schulen im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Was ist geschehen und wie geht es weiter am Haus Gardeschützenweg 3 – Leerstand beenden? - beantwortet
+- TOP 3.4: Twitterpräsenz des Bezirks - beantwortet
+- TOP 3.5: Weihnachten 2017 - Sicherung von Weihnachtsmärken gegen Terroranschläge - beantwortet
+- TOP 3.6: Türkischer Konsularunterricht an Steglitz-Zehlendorfer Schulen? - beantwortet
+- TOP 3.7: Sicherheit am „Geisterhaus“ Gardeschützenweg 3 - beantwortet
+- TOP 3.8: Einsatz von Ordnungsamtsmitarbeitern - beantwortet
+- TOP 3.9: Zeltplatz auf dem Areal Kleistgrab am Kleinen Wannsee - schriftlich beantwortet
+- TOP 3.10: Campierende Obdachlose in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.11: Verlängerung der U3 vom U-Bahnhof Krumme Lanke bis zum S-Bahnhof Mexikoplatz - schriftlich beantwortet
+- TOP 3.12: Abgefackelter PKW auf der Osdorfer Straße - schriftlich beantwortet
+- TOP 3.13: Abstoßende Plakatwerbung der Bundeswehr in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.14: Ungefährdete Nutzbarkeit des Heinrich-Laehr-Parks - schriftlich beantwortet
+- TOP 3.15: Kritische KiTa-Personalausstattung auch im Bezirk Steglitz-Zehlendorf? - schriftlich beantwortet
+- TOP 3.16: Öffentliche Diskriminierung von Geflüchteten „unter dem Namen des Bezirksamtes“? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 4.1: Blindenwerkstatt in der Rothenburgstraße soll erhalten bleiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Entwurzelten Baumstumpf auf Indianerspielplatz in Lankwitz entfernen - in der BVV abgelehnt
+- TOP 4.3: Parkbänke erneuern - in der BVV abgelehnt
+- TOP 4.4: Spielplätze sicherer machen: Altersbeschränkung - in der BVV abgelehnt
+- TOP 4.5: Laiendefibrillatoren (AED) im Einsatzleitsystem der Berliner Feuerwehr vermerken - in der BVV abgelehnt
+- TOP 4.6: Abwägung bei der möglichen Aufnahme von Flüchtlingen aus Tschetschenien - in der BVV abgelehnt
+- TOP 4.7: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Nachwahl von Mitgliedern des Widerspruchsbeirats in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Busbeschleunigung Zehlendorf-Mitte – Busspur in der Potsdamer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Asbestregister für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.12: Partnerschaft mit der Straffälligen- und Bewährungshilfe Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Blindengerechte Bürgersteige - in der BVV abgelehnt
+- TOP 4.14: Zebrastreifen Bolchener/ Sundgauer Straße sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Verkehrskonzept Schloßstraße - in der BVV abgelehnt
+- TOP 4.16: Radweg Bismarckstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Straßeninstandsetzungsprogramm für den Ostpreußendamm - oder besser noch KURZFRISTIGE Sanierung des Straßenzuges! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Beleuchtung im Stadtpark Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Pflegeintervalle bei den Spielplätzen verkürzen Teil II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Wahlrecht und Obdachlosigkeit - in der BVV abgelehnt
+- TOP 4.21: Geschwindigkeitskontrollen vor Grundschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Neue Sitzbank vor dem S-Bahnhof Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Schwarz auf Schwarz und Weiß auf Weiß ist unlesbar - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Gedenkstele für Benno Ohnesorg - in der BVV abgelehnt
+- TOP 4.25: Analyse der Situation der Einschulungszahlen an den Grundschulen des Bezirkes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Kein Durchgangsverkehr vom Teltower Damm zum „Postplatz“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Mooswände beschaffen und aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Fahrradladestationen an S- und U-Bahnhöfen und an touristisch interessanten Stellen des Bezirks Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Tempo 30 in der Onkel-Tom-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Mehr Kinderstadtpläne für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Informationen für Obdachlose - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.32: Knesebeckbrücke für alle Verkehrsteilnehmer! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.33: Anpassung der LSA-Schaltung Appenzeller Straße/ Goerzallee/ Wismarer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Integration statt Massenunterkunft in Wannsee - in der BVV abgelehnt
+- TOP 4.35: Anwohnerparken Forststraße ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.36: Einschränkungen der Moltkebrücke-Sperrung minimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.37: Bauarbeiten Schottenburg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Installation besonderer Fußgängerampeln - überwiesen
+- TOP 5.2: Verkehrsberuhigung auf dem Dahlemer Weg zwischen Mühlenstraße und Berliner Straße/ "Tempo 30 auf dem Dahlemer Weg – denn warten müssen wir sowieso!" - überwiesen
+- TOP 5.3: Aktuelle Übersicht über Aufwertungs- und Verdrängungsprozesse in Steglitz-Zehlendorf - überwiesen
+- TOP 5.4: Altenhilfekoordination einsetzen - überwiesen
+- TOP 5.5: Explodierende Mieten in Steglitz-Zehlendorf: Das Bezirksamt stellt sich schützend vor die Mieter*innen der Bundesanstalt für Immobilienaufgaben (BImA) - überwiesen
+- TOP 5.6: Kinder schützen durch Sichern der Schul- und Sportwege in der Onkel-Tom-Straße mittels Ertüchtigung der Straßenbeleuchtung - überwiesen
+- TOP 5.7: Parks Range V – Weiterer Schallschutz notwendig? - überwiesen
+- TOP 5.8: Schaukasten für die Jugendfreizeiteinrichtung Flemmingstraße - überwiesen
+- TOP 5.9: Ambrosia-Eindämmung in Steglitz-Zehlendorf - überwiesen
+- TOP 5.10: Redezeitbegrenzung in der BVV Steglitz-Zehlendorf - überwiesen
+- TOP 5.11: Schließungszeiten von Kindertagesstätten - überwiesen
+- TOP 5.12: Barrierefreiheit an der Haltestelle Pinnauweg sicherstellen! - überwiesen
+- TOP 5.13: Elektrifizierung der Kellerräume der Jugendfreizeiteinrichtung „Flemmingstraße“ - überwiesen
+- TOP 5.14: Sporthallensituation für Rollstuhlfahrende im Bezirk verbessern - überwiesen
+- TOP 5.15: Auch tagsüber Tempo 30 in der Lepsiusstraße - überwiesen
+- TOP 5.16: Anwohnerparken am S-Bahnhof Wannsee - überwiesen
+- TOP 5.17: Tempo 30 in der Appenzeller Straße - überwiesen
+- TOP 5.18: Fahrradbügel am S-Bahnhof Nikolassee - überwiesen
+- TOP 5.19: Inklusiver Sport bei der Planung von Schul-/Sporthallen berücksichtigen - überwiesen
+- TOP 5.20: Fürsorgepflicht: Deeskalationskurse für Mitarbeiter*innen des Sozialamtes - überwiesen
+- TOP 5.21: Schulweg sicherer machen - überwiesen
+- TOP 5.22: Sicherheit für Fußgänger im Nieritzweg - überwiesen
+- TOP 5.23: Kreuzungen Unter den Eichen/Habelschwerdter Allee/Altensteinstraße verkehrssicherer - überwiesen
+- TOP 5.24: Neue Ateliers für Steglitz Zehlendorf - überwiesen
+- TOP 5.25: Behindertenparkplatz vor dem Rathaus Zehlendorf besser kennzeichnen - überwiesen
+- TOP 5.26: Verkehrsspiegel für Kreuzung Ahlener Weg/Holtheimer Weg - überwiesen
+- TOP 5.27: Unfallschwerpunkt Potsdamer Chaussee/Kurstraße entschärfen - überwiesen
+- TOP 5.28: Radverkehrsanlagen an der Drakestraße schaffen - überwiesen
+- TOP 5.29: Öffentliche Erleichterung – Versorgungssicherheit herstellen! - überwiesen
+- TOP 5.30: Orientierungshaus Potsdamer Chaussee 95 instand setzen - überwiesen
+- TOP 5.31: Kostenloses, öffentliches WLAN im Bezirk - überwiesen
+- TOP 5.32: Saubere Spielplätze in Steglitz-Zehlendorf - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - (offen)
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 6.1.1: Unabhängiges Verkehrsgutachten für Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Hat Schulsanierung/-neubau höchste Priorität in Steglitz Zehlendorf? - beantwortet
+- TOP 7.2: Was passiert in der Waltraudstraße 45 in Zehlendorf? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Patenschaft für in der Türkei inhaftierte Amtskollegen/-innen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Bürgerbeteiligung & Young Professionals erwünscht: Bezirkswerkstätten - in der BVV abgelehnt
+- TOP 8.3: Für attraktive Grillflächen in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 8.4: Umzäunung für den Feuerlöschteich der Thermometersiedlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Entfernung eines auf dem Areal der Gedenkstätte des 17. Juni in der Potsdamer Chaussee befindlichen Gedenksteins - in der BVV abgelehnt
+- TOP 8.6: Steglitz-Zehlendorf macht sich stark für das Schlosspark-Theater - vertagt
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Flüchtlingssituation und Nachnutzung am Standort der ehemaligen Lungenklinik Heckeshorn - zur Kenntnis genommen (Beratungsfolge beendet)
