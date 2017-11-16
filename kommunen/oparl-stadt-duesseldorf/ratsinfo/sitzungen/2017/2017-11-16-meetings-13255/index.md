@@ -1,0 +1,68 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-11-16T17:00:00+01:00
+- Ende: 2017-11-16T18:12:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13255
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13255
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00304795.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00304795.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00304795.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Öffentliche Grünanlage Lierenfelder Platz - einstimmig beschlossen
+- TOP 5: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 6: Zuschüsse der Bezirksvertretung 8 im Jahre 2017 - einstimmig beschlossen
+- TOP 7: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Straßenbauarbeiten Kamper Weg - beantwortet
+- TOP 9: Verkehrssituation Gubener Straße / Rybnicker Straße - beantwortet
+- TOP 10: Flüchtlingsunterkünfte im Stadtbezirk 8 - beantwortet
+- TOP 11: Barrierefreies Eller - beantwortet
+- TOP 12: Bürgerhaus Eller, Jägerstraße 31 - beantwortet
+- TOP 13: Flüstergleise im Stadtbezirk 8 - beantwortet
+- TOP 14: OSD - Einsätze im Bereich Karlsruher Straße / S-Bahnhof Eller Süd - beantwortet
+- TOP 15: Kreisverkehr Gubener Straße - beantwortet
+- TOP 16: Radverkehrsmaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 17: Taubenmanagement Eller Mitte - beantwortet
+- TOP 18: Videoüberwachung an Haltestellen und S-Bahnhöfen im Stadtbezirk 8 - beantwortet
+- TOP 19: Verkehrsfluss Karl-Geusen-Straße - beantwortet
+- TOP 20: Hochhäuser im Stadtbezirk 8 - beantwortet
+- TOP 21: Renaturierung Südliche Düssel - beantwortet
+- TOP 22: A 46 - Geschwindigkeitsbegrenzung und Flüsterasphalt - einstimmig beschlossen
+- TOP 23: Hundeauslaufplatz Haustertshofweg - einstimmig beschlossen
+- TOP 24: Straßennamenschilder - Zusätze im Stadtbezirk 8 - vertagt
+- TOP 25: Grünpflegeplan Stadtbezirk 8 - einstimmig beschlossen
+- TOP 26: Radwegeplanung Gubener Straße - einstimmig beschlossen
+- TOP 27: Sanierungskosten Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 28: Fahrradabstellmöglichkeiten am S-Bahnhof Eller Süd - einstimmig beschlossen
+- TOP 29: Fahrradbügel auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 30: Geschwindigkeitsregelung Sandträgerweg - zurückgezogen
+- TOP 31: Lärmmessung am Abstellbahnhof Speyerweg - zur Kenntnis genommen
+- TOP 32: Jugendhilfeplanung: Entwicklung der Kindertagesbetreuung - Jahresbericht 2017 - zur Kenntnis genommen
+- TOP 33: Renaturierung Südliche Düssel - zur Kenntnis genommen
+- TOP 34: Gedenkstätte Höherweg / Posener Straße - zur Kenntnis genommen
+- TOP 35: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Zusatzbeschilderung Ausfahrt Feuerwache Unterbach - zur Kenntnis genommen
+- TOP 37: Straßenumbau Sebastiansweg - zur Kenntnis genommen
+- TOP 38: Parkplatz Vennhauser Allee - zur Kenntnis genommen
+- TOP 39: Rasengleise Erkrather Straße - zur Kenntnis genommen
+- TOP 40: Wochenmarkt Freiheitplatz - zur Kenntnis genommen
+- TOP 41: Sitzungstermine der Bezirksvertretung 8 im Jahre 2018 - zur Kenntnis genommen
+- TOP 42: Bordsteinabsenkung Waldenburger Weg - zur Kenntnis genommen
+- TOP 43: Taubenmanagement Eller Mitte - zur Kenntnis genommen
+- TOP 44: Anmeldezahlen Grundschulen 2018/2019 - zur Kenntnis genommen
+- TOP 45: Barrierefreie Bushaltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Attraktivierung des Lierenfelder Zentrums und Erhöhung der Verkehrssicherheit - zur Kenntnis genommen
+- TOP 47: Fahrradmietsystem im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Kita Chemnitzer Straße 43 - zur Kenntnis genommen
+- TOP 49: Fahrbahnsanierung Erlenkamp - zur Kenntnis genommen
+- TOP 50: Renaturierung Südliche Düssel - zur Kenntnis genommen
+- TOP 51: Einzelhandel auf der Gumbertstraße - zur Kenntnis genommen
