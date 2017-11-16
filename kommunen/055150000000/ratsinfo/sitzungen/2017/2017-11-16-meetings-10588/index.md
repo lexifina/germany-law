@@ -1,0 +1,51 @@
+# 31. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-11-16T17:05:00+01:00
+- Ende: 2017-11-16T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10588
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10588
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00414090.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Anfragen - entfällt
+- TOP 5: Berichte
+- TOP 5.1: Geplante Veranlagungen in 2018 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.2: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.2: Entwicklungskonzept Dingbängerweg, Anträge A-W/0029/2014 und A-W/0028/2017 - einstimmig geändert beschlossen
+- TOP 6.2.1: Entwicklungskonzept Dingbängerweg - einstimmig geändert beschlossen
+- TOP 6.2.2: Entwicklungskonzept Dingbängerweg - einstimmig geändert beschlossen
+- TOP 6.3: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die bezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Bebauungsplan Nr. 441, 2. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.2: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 7.3: Hensenstraße/ Gievenbecker Weg - Bushaltestelle „Gescherweg B - einstimmig beschlossen
+- TOP 7.4: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig geändert beschlossen
+- TOP 7.5: "Bedarfsorientiertes Steuerungs- und Förderkonzept der offenen Kinder- und Jugendarbeit und der aufsuchenden Jugendsozialarbeit inklusive der sozialen Gruppenarbeit in Münster" - einstimmig beschlossen
+- TOP 7.6: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen - einstimmig geändert beschlossen
+- TOP 7.7: Entwurf des Haushaltsplanes 2018
+- TOP 7.7.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2018 - einstimmig beschlossen
+- TOP 7.7.2: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2018 unter Berücksichtigung der Veränderungsblätter - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Platz für eine zukunftsfähige Feuerwehr in Albachten - eingebracht
+- TOP 8.2: Verkehrskonzept für Albachten - eingebracht
+- TOP 8.3: Verkehrsberuhigung Dülmener Straße - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Radwegführung Fritz-Stricker-Straße verbessern - zur Kenntnis genommen
+- TOP 9.2: Autoverkehr zwischen Brockmannstraße und "Am Hof Schultmann" verhindern - zur Kenntnis genommen
+- TOP 9.3: Fuß- und Radweg Am Rohrbusch in Roxel - vertagt, mit Prüfauftrag
+- TOP 9.4: Wiedereinrichtung eines Wertstoffhofes in Albachten - zur Kenntnis genommen
+- TOP 9.5: Sportflächen in Gievenbeck - vertagt, mit Prüfauftrag
+- TOP 10: Verschiedenes - zur Kenntnis genommen
