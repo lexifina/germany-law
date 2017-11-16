@@ -1,0 +1,74 @@
+# 11. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2017-11-16T16:30:00+01:00
+- Ende: 2017-11-16T22:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4821
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4821
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=272651
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - gegenstandslos
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-10 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Maßnahmen zur Verhinderung des illegalen Parkens am Schlesischen Busch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Schulwegpläne - Radschulwegpläne - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Unterstützung der Mieter/-innen des Kosmosviertels - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Mit "Wifi4EU" freies WLAN im Bezirk ausbauen - im Ausschuss abgelehnt
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Kurzzeitparken für Bibliotheksnutzerinnen und Bibliotheksnutzer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Einrichtung einer Bushaltestelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Würdigung 150. Geburtstag Dr. Walther Rathenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - vertagt
+- TOP 8.2: Wahl der Kiezpatinnen und Kiezpaten - vertagt
+- TOP 8.3: Wahl und Wiederwahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - gewählt
+- TOP 8.4: Wahl eines Patientenfürsprechers - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Riviera und Gesellschaftshaus als Ort für Kultur und Gastronomie mit öffentlicher Zugänglichkeit zum Wasser sichern! - mit Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans 9-22 - Entwurf der Rechtsverordnung zum Bebauungsplan 9-22 - vertagt
+- TOP 11.2: Sitzungsterminplan 2018 der BVV Treptow-Köpenick von Berlin - vertagt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radverkehr in der Johannisthaler Chaussee - vertagt
+- TOP 12.2: Weitergabe von Fundrädern an soziale Einrichtungen - vertagt
+- TOP 12.3: Modellversuch "Schulwegsprechstunde" - vertagt
+- TOP 12.4: Nutzungsattraktivität des ÖPNV steigern Rudower Chaussee – Anbindung an den S-Bahnhof Adlershof - vertagt
+- TOP 12.5: Neue Kleingärten in Treptow-Köpenick ausweisen - vertagt
+- TOP 12.6: Beendigung der Befristung für Steganlagengenehmigungen in Treptow-Köpenick - vertagt
+- TOP 12.7: Ausweisung der ehemaligen Teilfläche des landeseigenen Friedhofs Baumschulenweg als Hundeauslaufgebiet - vertagt
+- TOP 12.8: Inseln der "Bänke" in Steganlagenkonzeption integrieren - vertagt
+- TOP 12.9: Anwohnerinnen- und Anwohnerinteressen bei Baustellen wahren - vertagt
+- TOP 12.10: Schutzzone im Müggelsee - vertagt
+- TOP 12.11: Ertüchtigung des Woltersdorfer Weges für den Fahrradverkehr - vertagt
+- TOP 12.12: Sichere Überquerung für Radfahrer /-innen - vertagt
+- TOP 12.13: Benennung eines/einer Klimaschutzbeauftragten des Bezirks - vertagt
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Nachpflanzung von Straßenbäumen gezielt angehen - überwiesen
+- TOP 14.2: Mensa-Erweiterungsbau "Schule an der Wuhlheide" - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Steinbachstraße – Verlegung von Gehwegplatten - überwiesen
+- TOP 14.4: Anonymisierte Bewerbungsverfahren durchführen - überwiesen
+- TOP 14.5: Volksentscheid Tegel ernst nehmen - überwiesen
+- TOP 14.6: Gehweg Rahnsdorfer Straße Querung Bruno-Wille-Straße in Friedrichshagen befestigen - überwiesen
+- TOP 14.7: Änderung der Taktzeiten der Buslinie 165 während der Bauarbeiten am Bahnhof Schöneweide - überwiesen
+- TOP 14.8: Radwegeschäden beseitigen - überwiesen
+- TOP 14.9: Ausnahmen und Befreiungen von Festlegungen in Bebauungsplänen transparent machen - überwiesen
+- TOP 14.10: Sicherheit für Radfahrende auf der Wendenschloßstraße - überwiesen
+- TOP 14.11: Das Kiefernwäldchen in Adlershof weitestgehend erhalten - überwiesen
+- TOP 14.12: Sicherheit für Radfahrende auf der Fürstenwalder Allee - überwiesen
+- TOP 14.13: Mehrwegbecher-Aktion des Senats bekannt machen - überwiesen
+- TOP 14.14: Eichhörnchen und andere Tiere vor dem Ertrinken retten - überwiesen
+- TOP 14.15: Baumschulen von der Entgeltpflicht nach dem Berliner Straßenreinigungsgesetz ausnehmen – Neue Späthstraße im Straßenreinigungsverzeichnis als übergeordnete Straße klassifizieren - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
