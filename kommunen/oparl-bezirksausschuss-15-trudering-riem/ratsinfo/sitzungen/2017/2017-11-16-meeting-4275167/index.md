@@ -1,0 +1,144 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4275167
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4275167
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 10.1.3.: Sachberichte
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 2.2.1 Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; Erweiterung einer bestehenden Freischankfläche am Willy-Brandt-Platz 5
+- TOP 1.3.2.: Edinburghplatz - Schließung der Behelfsstraße und Hinweisschilder für Anwohnerparkplätze
+- TOP 1.3.3.: 3.5.1 Karpfenstraße - Licht gegen Lärm
+- TOP 1.3.4.: Truderinger Straße 223 - Fragen zur Flächenversiegelung
+- TOP 1.3.5.: Nochmal: Schwedensteinsiedlung und östliche Fauststraße endlich normgerecht mit Bus erschließen
+- TOP 1.3.6.: Regeln für Hundehalter im Riemer Park
+- TOP 1.3.7.: Stellungnahme zu TOP 3.3.1 Verfügbarkeit von Glasfaserinternet im Stadtbezirk 15
+- TOP 1.3.8.: 7.1.3 Beauftragter gegen Rechtsextremismus Anhörung zum BA-Antrag Nr. 14-20 / B 03901 des BA 21 Pasing-Obermenzing
+- TOP 1.3.9.: 7.1.4 Veranstaltung in städtischen Grünanlagen Hier: Bergmesse auf dem Rodelhügel im Riemer Park am 10.05.2018 Termin: 20.12.2017
+- TOP 1.3.10.: 7.1.5 Riemer Park - Anmeldung einer Hundeschule vom 22.11.2017 bis 31.12.2017, wenn möglich bis 31.12.2018
+- TOP 1.3.11.: 7.1.6 Paul-Wassermann-Straße 2 - Anhörung zur Durchführung eines Feuerwerks am 01.01.2018 um 0:10 Uhr Termin: 30.11.2017
+- TOP 1.3.12.: 7.3.3 Aktive Zentren Trudering Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms „Aktive Stadt- und Ortsteilzentren“ im Stadtteil Trudering – Programmverlängerung A) Ergebnisse der Zwischenevaluation B) Fortschreibung des Integrierten Stadtteilentwicklungskonzeptes (ISEK) - Programmverlängerung C) Städtebauförderung, Finanzierung, Änderung des Mehrjahresinvestitionsprogramms 2017 – 2021 Beschlussvorlage für den Stadtrat Bitte um Stellungnahme bis zum 20.11.2017
+- TOP 1.3.13.: 8.2.19 Schatzbogen 35 8.2.20 Drosselweg 37 8.2.21 Josef-Hagn-Straße 7 8.2.22 Kranichweg 21 8.2.23 Truderinger Straße 297 8.2.24 Hechtstraße 2 8.2.25 Häherweg 4 8.2.26 Günderodestr. 29 8.2.27 Kothieringerstr. 6 8.2.28 Sperberstr. 50 8.2.29 Damaschkestr. 89
+- TOP 1.3.14.: 9.3 Bericht des UA Schule, Soziales und Kultur zur Vorstellung zweier Kunstprojekte sowie Förderung Plakette Panoramabank
+- TOP 1.3.15.: 9.4 Bericht der UA-Vorsitzenden Infrastruktur und Stadtteilentwicklung zur Vorstellung Neubau einer öffentlichen Grün- und Ausgleichsfläche an der Michael-Seidl-Straße (B-Plan Nr. 2028) durch das Baureferat Gartenbau
+- TOP 1.3.16.: 9.5 Benennung eines Denkmalschutzbeauftragten
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Gewerbe & Eigentümerverband Trudering e.V. (GEVT e.V.) Auf- und Abbau der bestehenden Weihnachtsbeleuchtung entlang der Truderinger Straße 6.584,66 € Az: 0262.0-15-0231
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Chor- und Orchesterkonzert am 19.11.2017 900,00 € 0262.0-15-0230
+- TOP 2.1.3.: (E) Budget der Bezirksausschüsse TSV Maccabi München e.V. Fred-Brauner-Freundschafts-Jugend-Fußballturnier am 25.02. und 04.03.2018 2.787,20 € 0262.0-15-0232
+- TOP 3.1.1.: Mittbacher Straße - Ratten an entlang der S-Bahn-Station und den Gleisen aufgrund der Verschmutzung mit Müll
+- TOP 3.2.1.: Verbesserung der Radverkehrssituation an der Friedensprommenade
+- TOP 3.2.2.: Selma-Lagerlöf-Straße 50 - Umgestaltung des Gehsteigs
+- TOP 3.2.3.: Edinburghplatz Richtung München Trudering - Bitte um Aufhebung der Straßensperre
+- TOP 3.2.4.: Truderinger Bahnhof - Einführung eines Mehrtagestickets auf dem P+R Parkplatz
+- TOP 3.3.1.: Verfügbarkeit von Glasfaserinternet im Stadtbezirk 15
+- TOP 3.3.2.: Riemer Park: Hundefreundlichkeit - Müll - Radfahrer
+- TOP 4.1.: Verbindung zwischen Kerschensteinerstr. und Riemarcaden
+- TOP 4.2.: Sanierung “Am Hochacker“ jetzt anpacken, statt auf die „lange Bank schieben“
+- TOP 4.3.: Querungszeit von Verkehrsampel fallweise für Rollstuhlfahrer verlängerbar?
+- TOP 5.1.: Elf Jahre nach der BUGA: Weitere "Wilde" Wege barrierefrei machen Wiedervorlage aus der Februarsitzung
+- TOP 5.2.: Auskunft zur geplanten Busspur zwischen Von-Erckert- und Hans-Pinsel-Straße
+- TOP 5.3.: Endlich ÖV-Wüste beseitigen - Bebauung Fauststraße 90 nur mit einer attraktiven ÖV-Verbindung!
+- TOP 5.4.: Fahrradstellplätze im Bereich Togostraße / Waldschulstraße
+- TOP 5.5.: Verlegung der Fahrradwerkstatt von der Erstaufnahme im Moosfeld/München an die Gemeinschaftsunterkunft an der Willy-Brandt-Allee in der Messestadt/München
+- TOP 5.6.: Zaun um die Grünwerkstatt
+- TOP 5.7.: Zusätzliche Parkplätze und ein Behindertenparkplatz vor der PI 25 in der Messestadt Riem – Parkdauer beschränkt
+- TOP 5.8.: Glasfaseranschluss – städtische und andere öffentliche Einrichtungen gleich behandeln
+- TOP 5.9.: Marianne-Plehn-Straße - Zweckentfremdung von Kinderspielplätzen und Sportgeräten durch Jugendliche
+- TOP 5.10.: Streetball-Platz an der Skater-Anlage in der Messestadt-West
+- TOP 5.11.: Städtische Grundstücke dem BA mitteilen
+- TOP 5.12.: Verbindung zwischen Kerschensteinerstraße und Riemarcaden asphaltieren
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Vorabprüfung Anhörung: VA in städtischen Grünanlagen Volkslauf TSV Feldkirchen am 10.06.2018 im Riemer Park Termin: 30.11.2017
+- TOP 7.1.2.: Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV Bitte des BA 12 Schwabing-Freimann um Unterstützung
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Kreillerstraße - Errichtung zweier Kurzzeit-Parkplätze
+- TOP 7.2.2.: Haltverbot Max-Rothschild-Straße / Michael-Seidl-Straße Anhörung gemäß §13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Wasserburger Landstraße, Fl.Nr.: 306/1 - Werbeanlage: Eine beleuchtete Litfaßsäule
+- TOP 7.3.2.: Am Mitterfeld, Fl.Nr.: 1478/16 - Werbeanlage: Eine beleuchtete Litfaßsäule
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Martin-Empl-Ring 14 / RGB, Fl.Nr.: 1504/1 - Neubau von 10 Wohnungen mit Tiefgarage - VORBESCHEID
+- TOP 7.4.2.: Wiesbachhornstraße 2, Fl.Nr.: 363/31 - Neubau eines Mehrfamilienhauses und 2 Doppelhaushälften mit Tiefgarage
+- TOP 7.4.3.: Dachsteinstraße 5-9, Fl.Nr.: 758/0 - Errichtung von 4 Mehrfamilienhäusern mit Tiefgarage
+- TOP 7.4.4.: Wasserburger Landstraße 251, Fl.Nr.: 443/10 - Nutzungsänderung: Großtagespflegeeinrichtung zu Kindertagesstätte für 7 + 15 Kinder
+- TOP 7.4.5.: Kreuzerweg 54, Fl.Nr.: 879/2 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 7.4.6.: Irmelastraße 22, Fl.Nr. 979/2 - Neubau eines Doppelhauses mit Garagen - hier: DHH 1
+- TOP 7.4.7.: Irmelastraße 22, Fl.Nr. 979/2 - Neubau eines Doppelhauses mit Garagen - hier: DHH 2
+- TOP 7.4.8.: Iltisstraße 10, Fl.Nr.: 506/39 - Neubau von 6 Reihenhäusern mit 2 Duplexgaragen und offenen Stellplätzen
+- TOP 7.4.9.: Karotschstraße 1, Fl.Nr.: 167/2 - Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID
+- TOP 7.4.10.: Am Mitterfeld 28, Fl.Nr.: 167/18 - Neubau von 7 Reihenhäusern mit Garagen
+- TOP 7.4.11.: Turnerstraße 31, Fl.Nr.: 224/257 - Neubau eines Einfamilienhauses mit Garage
+- TOP 7.4.12.: Kießlingerstraße 35, Fl.Nr.: 84/32 - Neubau von 2 Mehrfamilienhäusern (je 5 WE) mit Tiefgarage (10 Stpl.)
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Planung der Einsätze der Münchner SommerSpielAktion 2018
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Rotfuchsweg 12 Tsingtauerstraße 27 Zeisigweg 9
+- TOP 8.2.1.: Bajuwarenstraße 97 Büchmannstraße 17 Dachsteinstraße 5-9 Gartenstadtstraße 56 Großfriedrichsburger Straße (ohne Hausnr.) Hella-von-Westarp-Straße 37 Iltisstraße 10 Karotschstraße 1 Kießlingerstraße 35 Kothieringerstraße 16 Kranichweg 31 Kreuzerweg 54 Säntisstraße 4 Solalindenstraße 89 Stahlgruberring 51 Von-Gravenreuth-Str. 18 Waldschulstraße 75-75a Wiesbachhornstraße 2
+- TOP 8.2.2.: Messe Riem: Bitte um Zustimmung zu vorgezogenen Baumfällungen an Tor 15a für einen Fußgängerüberweg über die Paul-Henry-Spaak-Straße
+- TOP 9.1.: Bericht des UA-Vorsitzenden "Bau und Verkehr" zum Abstimmungsgespräch mit der MVG hinsichtlich der Anbindung von Neubaugebieten im Stadtbezirk durch den ÖPNV
+- TOP 9.2.: Eilentscheidungen des Vorsitzenden gemäß §20 Abs. 1 Satz 2 BA-Satzung
+- TOP 9.2.1: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheit Nr. 9.1 Vollzug der Baumschutzverordnung Scharerweg 18
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Verwendungsnachweise
+- TOP 10.1.1.1: Beschaffung von 2 Bürostühlen, Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V.
+- TOP 10.1.1.2: Seidentücher für Damentrachten, Truderinger Musikverein e.V.
+- TOP 10.1.1.3: Truderinger Sommerkonzert, Chorgemeinschaft St. Peter und Paul Trudering
+- TOP 10.1.1.4: Anschaffung von Musikinstrumenten, Verein der Freunde und Förderer des Gymnasiums Trudering e.V.
+- TOP 10.1.1.5: Anschaffung von Sportmatten, TSV Trudering e.V.
+- TOP 10.1.1.6: Feierlichkeiten anlässlich des 125-jährigen Bestehens vom 26.06. - 30.06.2017, Elternbeirat Gesamtschule Lehrer-Götz-Weg
+- TOP 10.1.1.7: Truderinger Kulturkreis e.V.
+- TOP 10.1.2.1: Cavo Paradiso, Betrieb einer Vereinsgaststätte, Rotkehlchenweg 2, 81827 München
+- TOP 10.1.2.2: Nami Kitchen, Schank- und Speisewirtschaft, Truderinger Str.263, 81825 München
+- TOP 10.1.3.1: Beschaffung von 2 Übungspuppen, Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V.
+- TOP 10.1.4.: Bürgerzentrum Trudering e.V. - aktueller Stand der Fassadenbeleuchtung
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Verkehrsberuhigung für die Truderinger Straße Rechtsabbiegegebot aus dem Bognerhofweg Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 10.2.2.: Verbindung zwischen Kerschensteinerstraße und Riemarcaden asphaltieren Zwischennachricht zum BA-Antrag Nr. 14 - 20 / B 03385 vom 22.02.2017
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Gartenstadt Obermenzing und ihre Nachverdichtung; Bebauungsplan für Obermenzing bzw. die einzelnen Viertel Empfehlung Nr. 14-20 / E 01439 der Bürger- versammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 25.04.2017
+- TOP 10.3.2.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 10.3.3.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 10.3.4.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 10.3.5.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 10.3.6.: Nachverdichtung der Rennbahn Antwortschreiben an den BA 13
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Von-Heydebreck-Straße 12
+- TOP 10.4.1.2: Marmolatastraße 7
+- TOP 10.4.1.3: Kilihofstraße 7
+- TOP 10.4.1.4: Büchmannstraße 17
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Errichtung eines Hauses für Kinder mit 2 Krippen- und 3 Kindergartengruppen an der Josef-Felder-Straße, Haus B im Stadtbezirk 21 Pasing-Obermenzing Genehmigung des Nutzerbedarfsprogramms
+- TOP 10.6: UA Umwelt
