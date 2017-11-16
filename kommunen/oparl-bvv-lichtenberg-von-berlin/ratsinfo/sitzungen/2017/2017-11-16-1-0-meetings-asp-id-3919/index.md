@@ -1,0 +1,97 @@
+# 13. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2017-11-16T17:00:00+01:00
+- Ende: 2017-11-16T22:10:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3919
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3919
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=227967
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Extremismusklausel für alle staatlich geförderten Vereine, Institutionen und Partner des Bezirksamtes in Lichtenberg - vertagt
+- TOP 4.2: Politische Bildungsarbeit stärken - Runder Tisch - vertagt
+- TOP 4.3: Kultur- und Wirtschaftsförderung durch jährlich vier Jahreszeitfeste - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Prerower Platz - zurückgezogen
+- TOP 5.2: Freizeitfläche Georg-Löwenstein-Straße sichern - zurückgezogen
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Einwohnerantrag: Milieuschutz für den Weitlingkiez - ohne Änderungen in der BVV beschlossen
+- TOP 7: Einwohnerfragestunde - beantwortet
+- TOP 7.1: Sicherung der Angebote zum Rehabilitationssport und des Fitnessclubs des SC Borussia 1920 Friedrichsfelde e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 8: Bericht des Bezirksamtes - erledigt
+- TOP 9: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 9.1: Kinder- und Jugendgesundheitsdienst in Lichtenberg kann Gesetze nicht erfüllen? - beantwortet
+- TOP 9.2: Mobiles Bürgeramt in Neu-Hohenschönhausen - beantwortet
+- TOP 9.3: Mobiles Bürgeramt in Hohenschönhausen - beantwortet
+- TOP 9.4: Personal im Amt für Schule und Sport - beantwortet
+- TOP 9.5: Wohnberechtigungsscheine (WBS) und städtische Gesellschaften - beantwortet
+- TOP 9.6: Feuerwehr Hohenschönhausen - beantwortet
+- TOP 9.7: Flügelstutzen im Tierpark - schriftlich beantwortet
+- TOP 9.8: Erarbeitung Konzept "Lichtenberg wächst" - schriftlich beantwortet
+- TOP 9.9: Fahrradwegekonzeptionierung in Lichtenberg - schriftlich beantwortet
+- TOP 9.10: Nachverdichtung im Fennpfuhl - schriftlich beantwortet
+- TOP 9.11: Kosten für Bürgerbeteiligung - schriftlich beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Vorschläge zum Bürgerhaushalt hier: Vorschläge aus 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: a) Antrag der Belle Èpoque Bauten am Landschaftspark Herzberge I, II & III GmbH auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für die Grundstücke Rhinstraße 137/137A vom 23.12.2015 b) Aufstellung einer städtebaulichen Rahmenplanung für die Grundstücke Rhinstraße 137/137A/139 und dem Verflechtungsbereich - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: a) Antrag der Dolgensee 1 B.V., Dolgensee 2 B.V., Dolgensee 3 B.V., Dolgensee 4 B.V. und Lichtenberg Berlin B.V. GbR auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens über das Grundstück Rhinstraße 139 vom 24.10.2016 b) Aufstellung einer städtebaulichen Rahmenplanung für die Grundstücke Rhinstraße 137/137A/139 und dem Verflechtungsbereich - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Vorschlag für eine Neuregelung zum Verfahren der Sondermittel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Sitzungsturnus der AG Schulentwicklung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Gesetz zur Entschädigung von nicht zeitnah erbrachten Dienstleistungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Ehrenamtliche Bepflanzung von Baumscheiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Sicherer Fußgängerüberweg über die Dönhoffstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Warnsignale bei Zugdurchfahrt am Regionalbahnhof Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Grünanlage Karlshorst West - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Bau von Bordsteinabsenkungen in der Metastraße - überwiesen
+- TOP 10.12: Weniger Wurzelschäden durch moderne Technologie - überwiesen
+- TOP 10.13: Carsharing in Lichtenberg - überwiesen
+- TOP 10.14: Nationalfeiertag würdigen - überwiesen
+- TOP 10.15: Freie WLAN Hotspots - überwiesen
+- TOP 10.16: Schilderwald reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Selbständige und eigenverantwortliche Kindertagesstätten fördern - überwiesen
+- TOP 10.18: Erweiterung der Aufgabenkompetenzen für Mitarbeiter-innen des Ordnungsamtes - überwiesen
+- TOP 10.19: Empfang des Bezirksamtes im Theater an der Parkaue - überwiesen
+- TOP 10.20: Verbesserung des ÖPNV in Wartenberg - überwiesen
+- TOP 10.21: Pilotprojekt Regenwassermanagement Ruschegraben - überwiesen
+- TOP 10.22: Sitzbank für das Begegnungszentrum "Die Ahrenshooper" - überwiesen
+- TOP 10.23: Geschwindigkeitskontrollen durch das Bezirksamt - überwiesen
+- TOP 10.24: Rahmenregelung zur Vergabe des Kiezfonds durch Bürgerjurys ab dem Jahr 2018 ff. - überwiesen
+- TOP 10.25: Einhaltung der formalen Zulässigkeitsvoraussetzungen des Einwohnerantrags "Milieuschutz für den Weitlingkiez Bezug: DS/0454/VIII - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.26: Einrichtung einer gymnasialen Oberstufe im Verbund zwischen der Paul-und-Charlotte-Kniese-Schule (11K12 Gemeinschaftsschule) und der George-Orwell-Schule (11K08 Integrierte Sekundarschule) am Standort Dolgenseestraße 60, verbunden mit einer Schulnetzerweiterung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.27: Ergänzung der Veränderung der Einschulungsbereiche (ESB) - überwiesen
+- TOP 10.28: Rettung der öffentlichen Toiletten in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.29: Sicher zur Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Prioritäten der Fraktionen - (offen)
+- TOP 11.1: Grundschulneugründung am Standort Hauptstraße 8/9 umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Aktuelle Entwicklungen zum geplanten Grundschulstandort Hauptstraße 8/9 - beantwortet
+- TOP 11.3: Schulplätze in Rummelsburg - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Aufhebung bzw. Stop des B-Plan-Verfahrens 11-120 VE, Dolgenseecenter - überwiesen
+- TOP 11.5: BürgerInnenbeteiligung in der Stadtentwicklung stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 11.6: Geschulte Beratung für queere Menschen und deren Angehörige - überwiesen
+- TOP 11.7: Für ein landesweit agierendes, queeres Jugendzentrum in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Situation des Regionalsozialpädagogischen Dienstes (RSD) in Lichtenberg - vertagt
+- TOP 13: Beschlussempfehlungen der Ausschüsse - vertagt
+- TOP 13.1: Nachweisung der im Haushaltsjahr 2015 für den Bezirk Lichtenberg in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 13.2: Bezirkshaushaltsrechnung 2015 - vertagt
+- TOP 13.3: Videoüberwachung an Bahnhöfen - vertagt
+- TOP 13.4: Treskowallee vom Schwerlastverkehr befreien - vertagt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Freibad Siegfriedstraße - vertagt
+- TOP 14.2: Zentraler Omnibusbahnhof in Lichtenberg - vertagt
+- TOP 14.3: Verbesserung des Busverkehrs zum Tierheim Berlin, Hausvaterweg 39, 13057 Berlin - vertagt
+- TOP 14.4: BVV-Anträge für B-Pläne und Entwicklung Biesenhorster Sand - vertagt
+- TOP 15: Vorlagen zur Beschlussfassung - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - vertagt
+- TOP 16.1: Politische Bildungsarbeit stärken - vertagt
+- TOP 16.2: Jährliche Vergabe des Integrationspreises - vertagt
+- TOP 17: Schließung der Sitzung - vertagt
