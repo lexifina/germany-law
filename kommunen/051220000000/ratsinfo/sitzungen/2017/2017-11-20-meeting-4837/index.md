@@ -1,0 +1,65 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-11-20T17:00:00+01:00
+- Ende: 2017-11-20T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZU0uIyG0eedGmqTci-d8hQA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4837
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZZOpPVTECEqOXak7qafLoyE0IxZilM9dCxIj2FVyUqs/Oeffentliche_Niederschrift_Beteiligungsausschuss_20.11.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 25. Sitzung des Beteiligungsausschusses am 18.09.2017
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Wirtschaftsplan 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 5: Wirtschaftsplan 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 6: Wirtschaftsplan 2018 der Technischen Betriebe Solingen (TBS)
+- TOP 7: Wirtschaftsplan 2018 der Technischen Betriebe Solingen
+- TOP 8: Wirtschaftsplan 2018 des Eigenbetriebes Wasserversorgung Solingen (EBW)
+- TOP 9: Wirtschaftsplan 2018 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 10: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 25. Sitzung des Beteiligungsausschusses am 18.09.2017
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 5: Wirtschaftsplan 2018 der Entsorgung Solingen GmbH (ESG)
+- TOP 6: Solinger Bädergesellschaft mbH (SBG) - Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2017 / 2018
+- TOP 7: Wirtschaftsplan 2018 der Entsorgung Solingen GmbH
+- TOP 8: Kunstmuseum Solingen Betriebsgesellschaft mbH - Räumliche Perspektiven
+- TOP 9: Kunstmuseum Solingen Betriebsgesellschaft mbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2017
+- TOP 10: Kunstmuseum Solingen Betriebsgesellschaft mbH - Einzahlung in die Kapitalrücklage für das Geschäftsjahr 2018
+- TOP 11: Informationen zur Wirtschaftsplanung 2018 der Kunstmuseum Solingen Betriebsgesellschaft mbH und der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 12: Kunstmuseum Solingen Betriebsgesellschaft mbH - Änderung des Gesellschaftsvertrages
+- TOP 13: Zentrum für verfolgte Künste GmbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2017
+- TOP 14: Wirtschaftsplan 2018 der Zentrum für verfolgte Künste GmbH
+- TOP 15: Wirtschaftsplan 2018 Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 16: Städtisches Klinikum Solingen gemeinnützige GmbH - Informationen zur wirtschaftlichen Entwicklung
+- TOP 17: Jahresabschluss 2016 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 18: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Bestellung eines Abschlussprüfers für das Geschäftsjahr 2017 der BSWG
+- TOP 19: Wirtschaftsplan 2018 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 20: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Widerruf und Erteilung von Prokura
+- TOP 21: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Widerruf und Erteilung von Prokura
+- TOP 22: Bestellung eines weiteren Geschäftsführers für die Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 23: Bestellung eines weiteren Geschäftsführers für die Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 24: Wirtschaftsplan 2018/2019 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 25: Wirtschaftsplan 2018 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 26: Wirtschaftsplan 2018 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 27: Wirtschaftsplan 2018 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 28: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Prokuristen
+- TOP 29: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Verlängerung einer Bebauungsverpflichtung
+- TOP 30: Wirtschaftsplan 2018 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 31: Stadtwerke Solingen GmbH (SW SG) - Besetzung des Aufsichtsrates wg. Änderung des Gesellschaftsvertrages
+- TOP 32: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Kunstmuseum Solingen Betriebsgesellschaft mbH für das Geschäftsjahr 2018
+- TOP 33: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Bergische Symphoniker GmbH für das Geschäftsjahr 2017/2018
+- TOP 34: Konzernabschluss 2016 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 35: Beteiligungsgesellschaft Stadt Solingen mbH (BSG): Langfristige finanzielle Entwicklung der Gesellschaft - Einbringung -
+- TOP 36: Wirtschaftsplan 2018 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 37: Wirtschaftsplan 2018 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 38: Verschiedenes
