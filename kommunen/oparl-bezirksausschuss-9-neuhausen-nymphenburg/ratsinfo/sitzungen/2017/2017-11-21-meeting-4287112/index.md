@@ -1,0 +1,149 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4287112
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4287112
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 5.2.1.: Spielplatz an der Thorwaldsenstraße - siehe TOP 6.2.5.
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1.2.: Sitzungslokale BA 9 im Jahr 2018
+- TOP 9.6.1.: Spendenaktion Weihnachtsmarkt Rotkreuzplatz
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Einrichtung Ladezone Belieferung Holyday Inn Express Birketweg 29
+- TOP 3.1.2.: Einrichtung von 3 Taxistandplätzen am Steubenplatz
+- TOP 3.1.3.: Waisenhausstraße 1 - Einrichtung einer Freischankfläche
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Fußgängerampel Romanstraße / Ferndinand-Maria-Straße
+- TOP 3.2.2.: Ausweichverkehr Baustelle Menzinger Str. / Wintrichring
+- TOP 3.2.3.: Parkraummanagement südlich der Arnulfstraße
+- TOP 3.2.4.: Fuß- und Radverkehr an der Kreuzung Dachauer-/ Heideckstraße
+- TOP 3.2.5.: Lärmbelästigung Tram Leonrodstraße
+- TOP 3.2.6.: Halt von Fernbussen in Fröttmaning
+- TOP 3.2.7.: Einfahrt Tiefgarage Rosa-Bavarese-Str. 6 und 12
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Anhörung zum Abbau von Ampelanlagen
+- TOP 3.3.2.: Fahrradstraßenpilotroute Nymphenburg-Petuelring; Teilprojekt Menzinger Straße bis Dachauer Straße
+- TOP 3.3.3.: Grundsatzbeschluss zur Förderung des Radverkehrs in München - Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20/ V 09501
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Schulcampus Albrechtstraße
+- TOP 3.4.2.: Radwegverlauf Wotanstraße / Mechthildenstraße
+- TOP 3.4.3.: Einbahnregelung in der Rupprechtstraße
+- TOP 3.4.4.: Autonom fahrende Kleinbusse als Nahverkehrsergänzung für den 9. Stadtbezirk prüfen
+- TOP 3.4.5.: Radverkehr unter der Donnersbergerbrücke
+- TOP 3.4.6.: Situation unter der Donnersbergerbrücke
+- TOP 3.4.7.: Radwegverlauf Wotanstraße / Gaßnerstraße
+- TOP 3.4.8.: Radverkehr Schlosspark / Nymphenburg Süd
+- TOP 3.4.9.: Entfernung des Kopfsteinpflasters an der Albrechtstraße / Alfonsstraße
+- TOP 3.4.10.: Ampelschaltung Winthirstraße / Wendl-Dietrich-Straße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Betriebskonzept Tunnelsanierung U1 Nord
+- TOP 3.5.2.: Künftige Verkehrsführung Romanplatz
+- TOP 3.5.3.: - Unterrichtung über verkehrsrechtliche Anordnungen - Anordnung Halteverbot Containerstandort Herthastrasse KVR Anordnung Halteverbot Feuerwehrzufaht Hilblestraße KVR Anordnung Behindertenparkplatz Leonrodstr. 57 KVR Anordnung Behindertenparkplatz Marlene-Dietrich-Str.67 KVR Anordnung Baustelleneinrichtung Mettinghstraße 5 KVR Anordnung Fussgängerzone Radfahrer frei 21-.9 Uhr auf Rotkreuzplatz KVR Öffnung Bernabeisstraße für gegenläufigen Radverkehr KVR Entfernung Beschilderung Radwegbenutzungpflicht Nederlinger Straße KVR
+- TOP 3.5.4.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Lothst. 3-5 - Neubau WA mit Tiefgarage - Vorbescheid
+- TOP 4.3.2.: Romanstr. 22 - Neubau MFH (6 WE) mit Tiefgarage - Vorbescheid
+- TOP 4.3.3.: Romanstr. 24 - Neubau MFH (5 WE) mit Tiefgarage
+- TOP 4.3.4.: Ysenburgstr. 18 - Neubau EFH
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Mieterhöhungen bei der GEWOFAG
+- TOP 4.4.2.: Münchner Gartenstädte retten - Nachverdichtung zu deren Lasten verhindern
+- TOP 4.4.3.: Baurechtliche Prüfung sowie turnusmäßige Feuerbeschau auf dem Erholungsgelände Taxisstraße / Landshuter Allee 165
+- TOP 4.4.4.: Leere Ladenflächen im 9. Stadtbezirk verhindern durch Unterstützung der Landeshauptstadt im Rahmen des City Managements
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten über Bauvorhaben
+- TOP 4.5.2.: Schulstr. 3 - Rudolf-Diesel-Realschule Dachtragwerk
+- TOP 4.5.3.: Kuglmüllerstr. 1-3. Neubau 2er Wohnhäuser
+- TOP 4.5.4.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 4.5.5.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 4.5.6.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung über Baumfällungsanträge - Mareesstr. 5 - Nördliches Schloßrondell 4 - Renatastr. 56 - Bäumlstr. 9 - Laimer Str. 28 - Landshuter Allee 95 - Tizianpl. 3 - Albrechtstr. 28 - Südliches Schloßrondell 21 - Herderstr. 2 - Landshuter Allee 69 - Nymphenburger Str. 207 - Menzinger Str. 27
+- TOP 5.3.2.: Feuerwerk Dall&#039;Armistraße - 02.12.2017
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Ortstermin Arnulfpark am 04.08.2017
+- TOP 5.4.2.: Verschönerung der Grünflächen in der Blutenburgstraße (Abschnitt zwischen Landshuter Allee und Pappenheimstraße)
+- TOP 5.4.3.: Baumfällungen an der Fafnerstraße
+- TOP 5.4.4.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Neue Orientierungswerte zur Grün- und Freiflächenversorgung
+- TOP 5.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Grünanlage Winthirplatz
+- TOP 6.2.2.: Nächtliche Ruhestörung im Hirschgarten
+- TOP 6.2.3.: Schreiben Wotanstr. 88
+- TOP 6.2.4.: Spielbuseinsätze 2018 - Spielen in der Stadt
+- TOP 6.2.5.: Spielplatz an der Thorwaldsenstraße
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Grünanlage Leonrodstr. 57, Antrag auf Aufhebung der Schließzeit
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) Errichtung eines neuen Aufenthaltsraumes mit Kiosk für das Jugendübernachtungslager "The Tent" in den Kirschen 30, 80992 München 9. Stadtbezirk Neuhausen-Nymphenburg durch den Träger Kreisjugendring München-Stadt Zustimmung zur Gewährung eines Investitionskostenzuschusses Änderung des Entwurfs des Mehrjahresinvestitionsprogramms 2017-2021 Produkt 60 3.1.1 Kinder- und Jugendarbeit
+- TOP 6.5.2.: Verwendungsnachweis "Tag der offenen Tür" KJR
+- TOP 6.5.3.: Genehmigung Zweckentfremdung Rüthlingstr.
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Doppelveranstaltung" im Theater Blaue Maus Doppelveranstaltung am 08./09.12.2017 1.114,00 Euro 0262.0-9-0256
+- TOP 7.1.2.: Gestaltung der Unterführung Hübnerstraße
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Projekt offene Bücherschränke in München
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: 2. Treffen AK Kulturgespräch
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Förderverein Dom-Pedro-Grundschule e.V. Anschaffung von 15 Apple IPads 6.600,00 Euro 0262.0-9-0249
+- TOP 8.1.2.: (E) Budget der Bezirksausschüsse Förderverein der Mittelschule am Winthirplatz / Theaterwerkstatt Klasse 6g und 7g Theaterprojekt "Der Zauberer von Oz" ab Januar 2018 2.200,00 € 0262.0-9-0257
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Grundschule an der Helmholtzstraße
+- TOP 8.2.2.: Außenbeleuchtung Sporthalle Albrechtstraße 6
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Runder Tisch Sprengeländerung am 9.11.
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Aktuelle Anmeldungen in Kinderbetreuungseinrichtungen in Neuhausen-Nymphenburg
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Gepl. Kindertagesstätte an der Dachauer Straße
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: BA-Beschluss zur Sicherheitswacht
+- TOP 9.1.3.: Jahresempfang des BA 9 (Rahmenbudget inkl. Auftritten 5000,- €)
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Keine weiteren, sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs und Wartebereichen des ÖPNV
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Änderung der Bezirksausschuss-Satzung: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen
+- TOP 9.3.2.: Beauftragter gegen Extremismus BA-Antrag Nr. 14-20 / B 03901 des Bezirksausschusses des Stadtbezirkes 21 - Pasing-Obermenzing vom 25.07.2017
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Vermietungen im Kreativquartier
+- TOP 9.4.2.: Mittelfristige Finanzplanung 2016 - 2020 Mehrjahresinvestitionsprogramm - Anhörungsverfahren der Stadtkämmerei Fortschreibung für die Jahre 2017 bis 2021
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
