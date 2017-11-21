@@ -1,0 +1,147 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4185817
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4185817
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Geothermiebohrungen am Heizkraftwerk Süd (Schäftlarnstraße); Bericht zum Projektfortschritt durch die Stadtwerke München GmbH
+- TOP 2.2.1.2.: Gestaltung der stillgelegten Bushaltestelle am Kolumbusplatz / Vorschläge aus dem Ideenworkshop vom 24.10.17; Vorstellung durch Studenten der TU München
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.2.: Bonteweg 6, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Beantragung eines PKW-Stellplatzes
+- TOP 2.1.2.2.: Parkplatzprobleme Bad-Wissee-Str.
+- TOP 2.1.2.3.: Fußballfans am Candidplatz
+- TOP 2.1.2.4.: Parksituation Birkenleiten - kein Gehweg
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Fußgängerquerung Geiselgasteigstraße 76
+- TOP 3.2.3.2.: Stellungnahme des BA18 zum Entwurf: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017
+- TOP 3.2.3.3.: Warnhinweise für den Kraftfahrzeugverkehr am Boden und durch Schilder an der Kreuzung Naupliastraße / Bozzarisstraße
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 Sitzungsvorlagen Nr. 14-20 / V 09501 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 25.10.2017 (VB) Stellungnahme ÖDP/DaCG
+- TOP 3.2.4.2.: Anfahrtszone Kita Theodolindenstr. 16
+- TOP 3.2.4.3.: Radverkehrsführung in der Peter-Auzinger-Straße
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Parken unter Einbeziehung der Gehbahn in der Tauernstraße
+- TOP 3.2.5.2.: Falschparker / Fremdparker / Isargänger Ludmillastraße 32 / 34
+- TOP 3.2.5.3.: Pförtnerschaltung Haltestelle Wettersteinplatz; barrierefreie Umgestaltung des Platzes sowie des Haltestellenbereiches der Verkehrsinsel
+- TOP 3.2.5.4.: S-Bahn-Netz-Ausbau Beschleunigen und Kosten-Nutzen-Prognosen überprüfen
+- TOP 3.2.5.5.: Erhöhung der Verkehrssicherheit an der Bushaltestelle Ludmillastraße
+- TOP 3.2.5.6.: Harthauser Straße südlich ab Kreuzung Menterschwaigstraße mit befestigten Gehbahnen ausbauen
+- TOP 3.2.5.7.: Missstand bei der Ausgestaltung der Tram-Station Menterschwaige
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Kostenvergleich zur Umstellung auf LED – Beleuchtung im Straßenbereich; Antrag der SPD-Fraktion
+- TOP 3.3.5.2.: Ausbau der Ladeinfrastruktur bei den städtischen Wohnbaugesellschaften in München
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Baumentfernung Grundschule Agilofinger Platz 1
+- TOP 3.3.6.2.: Baumentfernung Schulsportanlage Sachsenstraße 2
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Einsatz des "Demokratiemobil" des KJR in 2018
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Planung der Einsätze der Münchner SommerSpielAktion 2018
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Sonnensegel am Spielplatz Gerhardstraße / Teutoburger Straße
+- TOP 3.4.5.2.: Ankauf des ehem. Probengeländes in der Harthauser Straße vom Freistaat Bayern zur Errichtung einer Grundschule
+- TOP 3.4.5.3.: Instandsetzung von Sitzbänken
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Grünflächen und Stadtbild erhalten / Regelungen im Bebauungsplan nicht lockern
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Verkauf einer städtischen Immobilie, Krumperstr. 12, Agilofinger Str. 31, 33
+- TOP 3.5.4.2.: Gemeinde Pullach im Isartal, Bebauungsplan Nr. 1 "Großhesselohe": 11. Änderung für den Bereich Pullacher Straße 24
+- TOP 3.5.4.1.1.: Josef-Vötter-Str. 17, Neubau eines Einfamilienhauses mit Garage (Variante 1) Neubau eines Dreifamilienhauses mit Tiefgarage (Variante 2) Vorbescheid
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Liste der Bauvorhaben im 18. Stadtbezirk in der Zeit vom 02.10. - 29.10.2017
+- TOP 3.5.6.2.: Schmorellplatz 9, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.5.6.3.: Teilabbruch des Dachgeschosses des Anwesens Candidplatz 1
+- TOP 3.5.6.3.1: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Mangfallstr. 27
+- TOP 3.5.6.4.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 3.5.6.5.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Weihnachtsmarkt auf dem Hans-Mielich-Platz
+- TOP 3.6.4.2.: Anhörung öffentlicher Verkehrsgrund, Untergiesinger Advent
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Christbaumbeleuchtung am Hans-Mielich-Platz sicherstellen - Aufstellen eines Elektrokastens und Verlegung entsprechender Leitungen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
