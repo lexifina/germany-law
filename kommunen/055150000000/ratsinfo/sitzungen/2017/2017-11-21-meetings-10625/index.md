@@ -1,0 +1,56 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-11-21T17:06:00+01:00
+- Ende: 2017-11-21T21:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10625
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10625
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00415526.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Hinweise / Anmerkungen zur Niederschrift
+- TOP 3: Festsetzung der Tagesordnung
+- TOP 3.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Einbringen von Eingaben
+- TOP 6: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 6.1: Errichtungsbeschluss zum Neubau der Feuer- und Rettungswache 3 - einstimmig beschlossen
+- TOP 6.1.1: Errichtungsbeschluss zum Neubau der Feuer- und Rettungswache 3
+- TOP 6.2: Errichtungsbeschluss zur Sanierung des Feuerwehrhauses Geist, Düesbergweg 4 - einstimmig beschlossen
+- TOP 6.3: Quartiersentwicklung Hauptbahnhof - Sachstand und nächste Schritte - ohne Beschlussfassung geschoben
+- TOP 6.4: Lärmaktionsplan der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 6.5: Masterplan 100% Klimaschutz - einstimmig beschlossen
+- TOP 6.6: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster -Änderung der Richtlinien für die Förderung von Photovoltaikanlagen - einstimmig beschlossen
+- TOP 6.7: Rieselfelder - Betreuungsvertrag 2018 - einstimmig beschlossen
+- TOP 6.7.1: Rieselfelder - Betreuungsvertrag 2018 - 2023
+- TOP 6.8: Neubau einer 6-Gruppen-Kindertageseinrichtung in Münster-Wolbeck, Middelerstraße - einstimmig beschlossen
+- TOP 6.9: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig beschlossen
+- TOP 6.10: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien - zur Kenntnis genommen
+- TOP 6.11: Geplante Veranlagungen in 2018 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.12: Geplante Veranlagungen in 2018 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.13: Geplante Veranlagungen in 2018 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.14: Geplante Veranlagungen in 2018 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.15: Geplante Veranlagungen in 2018 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 6.16: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 6.17: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 6.18: Auslastung und Ausbau der münsteraner Kläranlagen - einstimmig beschlossen
+- TOP 6.19: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 6.20: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 6.21: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 6.22: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 6.23: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 6.24: Maßnahmenprogramm 2018/2019 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 6.25: Regina-Protmann-Straße / Salzmannstraße - einstimmig beschlossen
+- TOP 6.26: Hensenstraße/ Gievenbecker Weg - Bushaltestelle „Gescherweg B - einstimmig beschlossen
+- TOP 6.27: Aa - Hochwasserschutz Kanalstraße nördlich Lublinring - ökologische Verbesserung der Aa und Schaffung von Retentionsraum - Baubeschluss - - einstimmig beschlossen
+- TOP 6.28: Edelbach - naturnaher Ausbau und ökologische Verbesserung - einstimmig beschlossen
+- TOP 7: Überprüfung der Zuschüsse
+- TOP 8: Beratung des Entwurfs des Haushaltsplanes 2018 sowie des Finanzplanes und des Investitionsplanes 2018ff
+- TOP 9: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 10: Verschiedenes
