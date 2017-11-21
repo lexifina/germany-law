@@ -1,0 +1,116 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-11-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4123983
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4123983
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP II.1.: Vorstellung der Stadtwerke München Projekt Geothermiebohrungen an der Schäftlarnstraße
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.3.: Bürgeranliegen, Fraunhoferstraße 10
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 3.1.: Standortbegehung IHFEM(Integrierte Handlungsprogramm zur Förderung der Elektromobilität in München) mit SWM - Stadtwerke München, Donnerstag 14.12.2017 um 9.30 Uhr, Goethestraße 64
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.3.: Arbeitskreis IsarLudwig 2018, PLENUMSBESCHLUSS
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: BA-Antrag: Anpassung der Einstufung von Wohnanlagen im Mietspiegel am Gärtnerplatz
+- TOP 1.2.: BA-Antrag: Projekt Öffentliche Bücherschränke
+- TOP 2.1.: (E) Budget der Bezirksausschüsse GbR Groß / Erby - Kindertheater im Fraunhofer Theaterstück "Der Wunschkalender" ab 26.11.2017 1.400,00 € 0262.0-2-0200
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evang. Kirchengemeinde St. Matthäus Griechisch-Bayerischer Abend am 10.11.2017 840,00 € 0262.0-2-0198
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Geschichtswerkstatt Ludwigsvorstadt-Isarvorstadt Ausstellung "Viehhof im Wandel" ab Dezember 2017 2.800,00 € 0262.0-2-0201
+- TOP 2.4.: Budget des Bezirksausschusses: Initiative „Anwohner des Oktoberfestes“, Maßnahme: Bauzaun beim Anwesen Kaiser-Ludwig-Platz 6 während des Oktoberfestes, gewährter Zuschuss: 550,00€, vgl. TOP 2017.08 A 2.3; Nachtrag
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Koreanisch Deutsches Sportinstitut e.V. 4. Munich Open am 11.11.2017 2.160,00 € 0262.0-2-0199
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen; Nutzung Viehhofgelände, vgl. Vertagung TOP 2017.10 A 5.4 (N)
+- TOP 5.2.: Bürgeranliegen, Sitzbänke am Roecklplatz, vgl. Bürgerfragen TOP 2017.10 II Pkt.1
+- TOP 5.3.: Bürgeranliegen, Sitzbänke am Roecklplatz, vgl. Bürgerfragen TOP 2017.10 II Pkt.1
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag: Fahrradstellplätze für die Goethestraße
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Auenstraße 22; Abbruch des Satteldachs, Aufstockung, Dachaufbau, Balkonanbauten und Errichtung eines Aufzugs (Auenstraße 22 / Ickstattstraße 34) - Tektur
+- TOP 3.1.2.: Maistraße 30; Dachaufstockung mit Einbau Maisonettewohnungen, Anbau eines Außenaufzugs, Sanierung Fassade WDVS mit Balkonen und Nutzungsänderung im UG, EG, 1. OG von Gewerbe (Druckerei und Lager) in Wohnen - Tektur
+- TOP 3.1.3.: Landwehrstraße 7; Nutzungsänderung: Wohnung in Praxis (2.OG links), Erweiterung der Nutzungseinheit um ein Zimmer der Wohnung 2.OG rechts
+- TOP 3.1.4.: Pettenkoferstraße 26 – 28; Temporäre Aufstellung von Containern im Vorgarten und rückwärtigen Hofbereich im Zuge der Sanierung (VGB), befristet ab 01.01.2018 für 18 Monate
+- TOP 3.2.1.: Isartalstraße 6, Baumfällungsantrag einer Colorado-Tanne
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: 100.000 Bäume für München, Vorstellung Werkstatt für Ökodesign und lebendige Kunst GbR im Unterausschuss PB
+- TOP 5.2.: Bürgeranliegen, Fragen zu Planungen / Stadtratsentscheidung bzgl. Klenzesteg, vgl. Vertagung TOP 2017.10 B 5.2
+- TOP 5.4.: Bürgeranliegen, Bauvorhaben Baaderstraße 10, PLENUMSBESCHLUSS
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Umgestaltung Holzplatz
+- TOP 1.2.: Roecklplatz, MVG Haltestelle, Aufstellung von Fahrkartenautomaten
+- TOP 1.3.: BA-Antrag: Halteverbote in Einfahrten im Bereich der Landwehrstraße sollen durch die Verkehrsüberwachung aufmerksam und streng kontrolliert werden
+- TOP 1.4.: BA-Antrag: Die zuständige Bezirksinspektion möge die Freischankflächen in der Landwehrstraße hinsichtlich deren Gestattung, Größe und Möbilierung kontrollieren, Verstöße anmahnen und die Betreiber über die entsprechenden Nutzungsrichtlinien aufklären
+- TOP 1.5.: BA-Antrag: Die Stadt möge mehr und größere Mülleimer entlang der Landwehrstraße installieren.
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: Dreimühlenstraße 30 Ecke Ehrengutstraße; Antrag für die Aufstellung eines offenen Bücherschrankes, PLENUMSBESCHLUSS
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Nutzungsanfrage Theresienwiese 2018, Anhörung des Referates für Arbeit und Wirtschaft
+- TOP 3.1.2.: Marktveranstaltung „Pink Christmas“ auf dem Stephansplatz vom 27.11.2017 bis 23.12.2017
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen; Theresienwiese, vgl. Vertagung 2017.10 C 5.4
+- TOP 5.2.: Bürgeranliegen, Lautsprechereinsatz auf dem Oktoberfest 2017
+- TOP 5.3.: Bürgeranliegen, Anbringung einer Ampel Ruppert- / Tumblingerstraße
+- TOP 5.4.: Bürgeranliegen; Haydnstraße Einbahnregelung
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Bei Bauvorhaben Bezirksausschüsse im Zustimmungsverfahren in gleicher Weise wie im Genehmigungsverfahren beteiligen; Antrag auf Satzungsänderung, Anhörungsschreiben des Direktoriums vom 02.10.2017, vgl. Vertagung TOP 2017.10 D 1.2, PLENUMSBESCHLUSS
+- TOP 1.2.: Beauftragter gegen Extremismus, BA-Antrag-Nr. 14-20 / B 03901 des BA 21 – Pasing-Obermenzing vom 25.07.2017, Anhörungsschreiben des Direktoriums vom 07.11.2017, PLENUMSBESCHLUSS
+- TOP 2.1.: Unterausschuss „Kultur, Jugend, Soziales“ am Montag, den 04.12.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Öffentlicher Raum, Mobilität“ am Dienstag, den 05.12.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Planen, Bauen“ am Mittwoch, den 06.12.2017 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung entfällt. Die BA-Sitzung findet am Dienstag, den 12.12.2017 um 19 Uhr im Saal in der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: (U) Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.2.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP B 4.3.: Karlsplatz 25; Umgestaltung der öffentlichen Verkehrsflächen im Vorfeld des Hotel Königshof, Sitzungsvorlage Nr. 14-20 / V 09046, Stellungnahme des BA 1 Altstadt-Lehel zur Kenntnis
+- TOP B 4.4.: Isartalstraße 6; Abbruch Pflegeheim, Neubau Wohnstift und Pflegeheim mit Tiefgarage – Vorbescheid gemäß Art. 71 Bayerische Bauordnung (BayBO) vom 02.11.2017
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.6.: Einheitliches Beschilderungskonzept an der Isar; Dokumentation zum Workshop am 15.09.2017 als Information
+- TOP C 4.7.: Begrünung der Theresienwiese auch mit mobilen Bepflanzungen
+- TOP C 4.8.: BA-Antrag des BA 12 Schwabing-Freimann „Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV“ zur Kenntnis und Bitte um Unterstützung
+- TOP C 4.9.: St.-Paul-Str. 4, Freischankfläche, vgl. TOP 2017.10 C 2.1.4, Information des Kreisverwaltungsreferates vom 06.11.2017
+- TOP C 4.10.: Bürgeranliegen Radfahrer auf Fußgängerwegen, vgl. TOP 2017.10 C 5.1, Antwort des Kreisverwaltungsreferates vom 10.11.2017
+- TOP C 4.11.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP D 4: Bereich BA-Angelegenheiten
