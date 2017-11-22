@@ -7,6 +7,7 @@ Abschnitt 2 Ausführungsbestimmungen
 § 3 | Allgemeine Erlaubnisvoraussetzungen
 § 4 | Besondere Erlaubnisvoraussetzungen für das Veranstalten
 § 5 | Besondere Erlaubnisvoraussetzungen für das Vermitteln
+§ 5a | Wettvermittlungsstellen für Sportwetten
 § 6 | Lotterien mit geringerem Gefährdungspotential
 § 7 | Glücksspielähnliche Spiele
 § 8 | Spielersperre
