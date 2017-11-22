@@ -1,0 +1,55 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-11-22T18:08:00+01:00
+- Ende: 2017-11-22T20:04:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1701
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1701
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Anregungen und Beschwerden
+- TOP 2.1: Anregungen und Beschwerden nach § 24 GO - Radverkehr - einstimmig
+- TOP 2.2: Anregung und Beschwerden nach § 24 GO, Wevelinghoven - einstimmig
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG/ABG
+- TOP 3.3.1: Büroräume an der Konrad-Zuse-Straße in Kapellen, Antrag Nr. 241/17 - einstimmig
+- TOP 3.4: FDP
+- TOP 3.4.1: Digitale Teilhabe sicherstellen (Antrag Nr. 242/2017) - Kenntnisnahme
+- TOP 3.5: B 90/Grüne
+- TOP 3.5.1: Ausschreibung der Stelle eines Quartiermanagers, Antrag Nr. 243/17 - einstimmig
+- TOP 3.6: Mein Grevenbroich liegen nicht vor.
+- TOP 3.7: Die Linke liegen nicht vor.
+- TOP 4: Schriftliche Anfragen liegen nicht vor.
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG/ABG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Die Linke
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 5.1: Genehmigung einer Dringlichkeitsentsheidung - mehrheitlich bei
+- TOP 6: Finanzen
+- TOP 6.1: Fördermittel - Kenntnisnahme
+- TOP 7: Neubau / Sanierung und Betrieb des Schlossbades - einstimmig
+- TOP 8: 3. Änderung der Vergnügungssteuersatzung vom 23.09.2011 - mehrheitlich bei
+- TOP 9: Einführung einer Steuer auf Vergnügungen sexueller Art - mehrheitlich bei
+- TOP 10: Feuerschutz
+- TOP 11: Flüchtlings- und Integrationsangelegenheiten
+- TOP 11.1: Unterbringung von anerkannten Flüchtlingen mit Wohnsitzauflage - Kenntnisnahme
+- TOP 12: Soziales
+- TOP 13: Beantwortung von Anträgen
+- TOP 13.1: Überprüfung / Austausch Lampen (Antrag Nr. 135/17)
+- TOP 13.2: Fotovoltaik auf Dächern (Antrag Nr. 142/17)
+- TOP 14: Mündliche Anträge/Anfragen
+- TOP 14.1: Vorlagen für den Rat und die Fachausschüsse
+- TOP 14.2: Baustelle in Laach
+- TOP 15: Mitteilungen BM
