@@ -1,0 +1,103 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4119027
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4119027
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Zuwendungsbescheid an BIKU e.V. für das Projekt „Applaus“
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Nutzungsverlängerung der Wohnungslosenunterkunft in der Hiltenspergerstr. 84
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Umrüstung der Bus-/Tramwartehallen am Hohenzollernplatz mit integrierten Werbevitrinen als Wechsleranlagen (3 Anträge), vertagt aus 10/17
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Haus an der Rümannstraße, Münchenstift GmbH Aufstellung eines Bücherschrankes 4.391,10 € 0262.0-4-0187
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Zuwendungsbescheid an die MGS Filmproduktion
+- TOP 3.3.1.: Werbeaufnahmen „Cotidiano am Nordbad“ am 26.10.2017
+- TOP 3.3.2.: TV-Produktion „Schicksale“ am 14.11.2017 im Luitpoldpark
+- TOP 3.3.3.: Krimiserie „Soko München“ am 10. und 24.11.2017 in der Bauerstr. 36
+- TOP 3.3.4.: TV-Serie „München Mord“ am 13. und 14.11.2017 am Elisabethplatz
+- TOP 3.3.5.: TV-Serie „München Mord“ am 17. und 18.11.2017 in der Hohenzollernstr. 58
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Eilentscheidung des BA-Vorsitzenden zur beantragten Aufstellung von zwei Stühlen vor „smow“, Hohenzollernstr. 70
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: SPD: Abwendungserklärung an die Dauer der Erhaltungssatzung anpassen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 29: Abbruch und Neuerrichtung mit Unterkellerung und Teilaufstockung des Seitengebäudes – energetische Sanierung
+- TOP 2.1.2.: Kraepelinstr. 31-41: Abbruch und Neuerrichtung von 6 Dachgeschossen zum Ausbau von 8 Wohnungen sowie Neuerrichtung von 12 Balkonanlagen
+- TOP 2.1.3.: Adelheidstr. 27: DG-Neubau für 3 neue Wohnungen mit darüber liegender Dachterrasse, Anbau eines Aufzugs am Bestandsgebäude (Hofseite), Errichtung eines Grubenparkers für 4 neue Stellplätze im Hof (vertagt aus 10/17)
+- TOP 2.1.4.: Pündterplatz 9: Ausbau der zweiten Dachgeschossebene und eines Teilbereichs der ersten Dachgeschossebene eines denkmalgeschützten Mehrfamiilienhauses sowie Einbau eines Aufzugs
+- TOP 2.1.5.: Hiltenspergerstr. 73: Errichtung einer Gaube im Treppenhaus zum DG, Vergrößerungen dreier Gauben im 4. OG
+- TOP 2.1.6.: Mittermayrstr. 11: Aufstockung eines Wohngebäudes
+- TOP 2.1.7.: Schleißheimer Str. 93: Nutzungsänderung im EG: Verkleinerung eines Ladens zu einem Café als Nebenraum, Einbau von neuen Trennwänden
+- TOP 2.1.8.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030: hier c) Bebauungsplan mit Grünordnung Nr. xx Voelderndorffstraße (südlich), Belgradstraße (westlich), Karl-Theodor-Straße (nördlich) und Borschtallee (östlich) – Änderung des Bebauungsplanes Nr. 2f
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
+- TOP 3.2.2.: (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 3.2.3.: (U) Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Rotmarkierung der Fahrradspur am Kurfürstenplatz
+- TOP 1.2.: Bürger: Pflanzen von Sträuchern entlang de südlichen Belgradstraße
+- TOP 1.3.: Bürger: Durchgang zum Luitpoldpark in Höhe Belgradstr. 128 freihalten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Herzogstr. 55: Fällung zweier Ahornbäume
+- TOP 2.2.1.: Grundsatzbeschluss zur Förderung des Radverkehrs in München: Fortschreibung und Radverkehrsbericht 2017 Anhörung zum Beschlussentwurf für den Stadtrat (vertagt aus 10/17)
+- TOP 2.2.2.: Öffnung des Theo-Prosel-Wegs für den gegenläufigen Radverkehr
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Fahrradabstellmöglichkeiten neben der MVG Radstation Pündterplatz (Antwort der Stadtwerke MVG auf BA-Schreiben vom 28.09.2017)
+- TOP 3.1.2.: Eingeschränkte Haltverbote vor der Postfiliale der Pfennigparade in der Rümannstraße (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 28.09.2017)
+- TOP 3.1.3.: Öffentliche Fahrradpumpen und Radservice-Stationen
+- TOP 3.1.4.: Brummton unbekannter Herkunft im Bereich Winzerer-/Ackermann-/Schleißheimer Straße (Antwort des Referats für Gesundheit und Umwelt auf ein weitergeleitetes Bürgeranliegen)
+- TOP 3.1.5.: Verbesserte Sichtverhältnisse am Nordende der Winzererstraße (Antwort des KVR auf BA-Schreiben vom 28.09.2017)
+- TOP 3.1.6.: Zusätzlicher Fußgängerüberweg in der Winzererstraße an der Nordseite der Einmündung der Herzogstraße
+- TOP 3.1.7.: Vermüllte Wertstoffcontainer am Helmut-Fischer-Platz/Herzogstraße (Antwort des Abfallwirtschaftsbetriebs München auf Bürgerbeschwerde vom 29.10.2017)
+- TOP 3.2.1.: Fällung zweier Robinien auf dem Grundstück Agnesstr. 45 (Antwort der Unteren Naturschutzbehörde auf BA-Schreiben vom 28.09.2017)
+- TOP 3.2.2.: Fällung von drei Bäumen in der Rümannstr. 60 (Antwort der Unteren Naturschutzbehörde auf die BA-Stellungnahme vom 26.10.2017)
+- TOP 3.3.1.: Georgenstraße: Einrichtung eines Fußgängerüberweges zwischen Friedrichstraße und Türkenstraße und Änderung der Vorfahrtsregelung
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP 3.4.2.: Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV (Antrag des BA 12 Schwabing-Freimann vom 17.10.2017)
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Beauftragter gegen Extremismus Anhörung zu einem Antrag des BA 21 Pasing-Obermenzing vom 25.07.2017
+- TOP G: Verschiedenes
+- TOP H: Termine
