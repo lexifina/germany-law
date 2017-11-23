@@ -1,0 +1,154 @@
+# 12. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2017-11-23T17:30:00+01:00
+- Ende: 2017-11-23T21:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4211
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4211
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=144552
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: der Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - erledigt
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Was unternimmt das Bezirksamt gegen die Kurven des Grauens? - beantwortet
+- TOP 7.2: Quo vadis Siemens? Was wird aus den rund 300 gestrichenen Stellen am Standort Moabit? - beantwortet
+- TOP 7.3: Stand der Schadensaufnahme der Sportanlage Kruppstraße (ehem. Traglufthalle Poststadion) - beantwortet
+- TOP 7.4: Bearbeitungsstand Unterhalt - beantwortet
+- TOP 7.5: Haci Bayram Moschee - beantwortet
+- TOP 7.6: Priorisierung Fahrradstraßen? - schriftlich beantwortet
+- TOP 7.7: Umzug als „Maßnahme zur Wohnkostensenkung“ bei Leistungsempfängern nach SGB II oder XII - schriftlich beantwortet
+- TOP 7.8: „Zukunft Stadtgrün“ ¬¬– Chancen nutzen! - schriftlich beantwortet
+- TOP 7.9: Was ist dem Bezirksamt das Ehrenamt wert? - schriftlich beantwortet
+- TOP 7.10: Vorkaufsrecht – Wir wollen mehr! Auf geht’s! - schriftlich beantwortet
+- TOP 7.11: Citytoiletten - schriftlich beantwortet
+- TOP 7.12: Mehr Respekt und Rückenwind für die Mitarbeiter des Ordnungsamtes durch mehr Kompetenzen - schriftlich beantwortet
+- TOP 7.13: Sicherheit im Tiergarten, auch für die Mitarbeiter im Ordnungsamt - schriftlich beantwortet
+- TOP 7.14: Wegzug von Unternehmen vom TPH Humboldthain - schriftlich beantwortet
+- TOP 7.15: Brunnenstr. 193 – Was ist geplant? - schriftlich beantwortet
+- TOP 7.16: Sozialbestattungen im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.17: Relation von Ordnungswidrigkeiten und Kriminalität - schriftlich beantwortet
+- TOP 7.18: Fit im Alter: Sportgeräte für ältere Menschen - schriftlich beantwortet
+- TOP 7.19: Evaluation der QMs im Bezirk - schriftlich beantwortet
+- TOP 7.20: Rangfolge der Ordnungswidrigkeiten - schriftlich beantwortet
+- TOP 7.21: Neue Ausstellungsräume im Rathaus Tiergarten – auch für Heimatverein und Geschichtswerkstatt Tiergarten? - schriftlich beantwortet
+- TOP 7.22: Warum gibt es im Bezirk Berlin-Mitte die meisten Drogentoten? - schriftlich beantwortet
+- TOP 7.23: Kein Laserdrucker ist illegal?! - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - erledigt
+- TOP 8.1: Wie weiter mit dem ehemaligen Schulstandort Gotenburger Straße 7-9? - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Wie geht es weiter mit dem Milieuschutz im Bezrik Berlin-Mitte? - beantwortet
+- TOP 9.2: Kältehilfe 2017/2018 - beantwortet
+- TOP 9.3: Kältehilfe - beantwortet
+- TOP 9.4: Private Kindertagesstätten in Gefahr - schriftlich beantwortet
+- TOP 9.5: Beiträge des Bezirksamtes zur Verbesserung der Situation im Nikolaiviertel - schriftlich beantwortet
+- TOP 9.6: Wie weiter mit dem Haus in der Föhrer Str. 3? - schriftlich beantwortet
+- TOP 9.7: Betonklötze: Sicherheit bei Veranstaltungen in Mitte gesichert? - schriftlich beantwortet
+- TOP 9.8: Wie geht es weiter mit dem Parkcafé Rehberge? - schriftlich beantwortet
+- TOP 9.9: „Fahrradfreundliche Stadt“ - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Verordnung über die Erhaltung der städtebaulichen Eigenart für das Gebiet Nikolaiviertel - überwiesen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2016 - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: Sitzungskalender für das Jahr 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Reaktivierung des ehemaligen Schulgebäudes Gotenburger Str. 7-9 und die Planung neuer Schulstandorte in der Sellerstr. 27-30, Reinickendorfer Str. 60 und Pankstr. 70 - ohne Änderungen im Ausschuss beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Wahl eines stellvertretenen Bürgerdeputierten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Vorkaufsrecht für Amsterdamer Str. 14! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Dringlichkeiten dringend darlegen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Mehrsprachige Information zur Beantragung von Mitteln aus der Stadtteilkasse - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Mehr Laien-Defibrillatoren und deren Eintragung in das Einsatzleitsystem der Berliner Feuerwehr - in der BVV abgelehnt
+- TOP 14.4: Freie Fahrt für den M27er in der Huttenstraße - überwiesen
+- TOP 14.5: Faire Fußbälle für Sportvereine, Kinder- Jugendfreizeiteinrichtungen und Schulen in Berlin Mitte - überwiesen
+- TOP 14.6: Endlich die WBM-Karten fürs Nikolaiviertel auf den Tisch! - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Gesamtplanung des Areals Seestraße/Reinickendorfer Str. von Beginn an! - überwiesen
+- TOP 14.8: Prostituiertenschutzgesetz fristgerecht umsetzen - überwiesen
+- TOP 14.9: Macht das Licht in den Brunnen an! - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Ungleichbehandlung von Schulkindern aus Hartz-IV-Familien durch das Jobcenter beenden - in der BVV abgelehnt
+- TOP 14.11: Ende des Katz und Maus Spiels mit den Hütchenspielern - überwiesen
+- TOP 14.12: Girl’s Day 2018 – berufliche Zukunft von Mädchen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Tiergarten – praktische Lösungen statt fremdenfeindlicher Stimmungsmache - überwiesen
+- TOP 14.14: Unterstützung für den „Notdienst Berlin für Suchtmittelgefährdete- und abhängige“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Bessere Bekämpfung illegaler Spielautomaten - überwiesen
+- TOP 14.16: Dauerbaustellen zu einem Ende bringen - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Calvinstraße 21 - überwiesen
+- TOP 14.18: Schaffung einer Entladezone in der Brüsseler Str. - überwiesen
+- TOP 14.19: Mitte darf bei der Betreuung Statusgewandelter wegen der Geburtsdatenregelung nicht allein gelassen werden! - überwiesen
+- TOP 14.20: Perleberger Straße 50 - überwiesen
+- TOP 14.21: „Sicherer Gehweg am Hauptbahnhof“ - überwiesen
+- TOP 14.22: Sauberkeit nach Großveranstaltungen am Alexanderplatz - überwiesen
+- TOP 14.23: Vorkaufsrecht anwenden! - ohne Änderungen in der BVV beschlossen
+- TOP 14.24: „Mehr Grün statt Beton“ - überwiesen
+- TOP 14.25: Nutzung Schulsportplätze für Frauen- und Mädchensport - überwiesen
+- TOP 14.26: Adalbertstraße 53 – Keine Müllhalde am ehemaligen Schulstandort - ohne Änderungen in der BVV beschlossen
+- TOP 14.27: Sofortige Beendigung der Zweckentfremdung von Wohnraum durch die öffentliche Hand - überwiesen
+- TOP 14.28: Wahl von stellv. Bürgerdeputierter - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 15.1: Kein Arbeitsplatzabbau bei Siemens - ohne Änderungen in der BVV beschlossen
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: Chancen der Strategiekonferenz nutzen - für echte und nachhaltige Verbesserungen für obdachlose Menschen im Land Berlin! - ohne Änderungen in der BVV beschlossen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: „Mehr Wertschätzung und bessere Arbeitsbedingungen für Reinigungskräfte in bezirklichen Liegenschaften“ - ohne Änderungen in der BVV beschlossen
+- TOP 17.2: Jetzt aber: „Spielplatz-Paten“ starten - ohne Änderungen in der BVV beschlossen
+- TOP 17.3: Mehr für die Fußgängerinnen und Fußgänger in der Voßstraße tun - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Sitzbänke an der Jugendverkehrsschule in Moabit - ohne Änderungen in der BVV beschlossen
+- TOP 17.5: Gutes Wetter nutzen – Planschen und Wasserspielplätze schon im Wonnemonat - ohne Änderungen in der BVV beschlossen
+- TOP 17.6: Dezentrale Außenstellen für das Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 17.7: Wohnungsbau in der Schillingstraße beschleunigen - in der BVV abgelehnt
+- TOP 17.8: „Kein Kahlschlag in der Levetzowstraße!“ - gegenstandslos
+- TOP 17.9: Faire materielle Anerkennung für alle Ehrenamtlichen - in der BVV abgelehnt
+- TOP 17.10: Zebrastreifen Usedomer Straße / Jasmunder Straße verstetigen! - ohne Änderungen in der BVV beschlossen
+- TOP 17.11: Beschilderung der Jugendverkehrsschule - in der BVV abgelehnt
+- TOP 17.12: Mehr Aufenthaltsqualität am Spreebogen! - ohne Änderungen in der BVV beschlossen
+- TOP 17.13: Milieuschutz am Flughafenrand - ohne Änderungen in der BVV beschlossen
+- TOP 17.14: Wildwiesen im Bezirk schützen und erhalten - in der BVV abgelehnt
+- TOP 17.15: Nisthilfen bei Neubau und Sanierung - ohne Änderungen in der BVV beschlossen
+- TOP 17.16: Sichere Schönwalder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 17.17: Größere Mülleimer für den Gendarmenmarkt - in der BVV abgelehnt
+- TOP 17.18: Sportmasterplan aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 17.19: Sondernutzungen öffentlichen Straßenlandes - ohne Änderungen in der BVV beschlossen
+- TOP 17.20: Barrierefrei durch Moabit - in der BVV abgelehnt
+- TOP 17.21: Stellenausschreibungen konkretisieren - ohne Änderungen in der BVV beschlossen
+- TOP 17.22: Wohnungsleerstand Taubenstr. 51-53 / Glinkastr. 17, 19, 21 beseitigen - Wiedervermietung anordnen - ohne Änderungen in der BVV beschlossen
+- TOP 17.23: Trägerwohnungen in Mitte erhalten und ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 17.24: Was finde ich wo? Ein Wegweiser für Obdachlose - gegenstandslos
+- TOP 17.25: Weg zum Schleusenkrug sicher gestalten! - ohne Änderungen in der BVV beschlossen
+- TOP 17.26: Genehmigungspraxis auf dem Alexanderplatz grundsätzlich neu ausrichten – Anregungen von Externen berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 17.27: Stellenbesetzung in der Wirtschaftsförderung - ohne Änderungen in der BVV beschlossen
+- TOP 17.28: Ein Konzept für die Wirtschaftsförderung - ohne Änderungen in der BVV beschlossen
+- TOP 17.29: Masterplan Prostitution - ohne Änderungen in der BVV beschlossen
+- TOP 17.30: Body-Cams für die Dienstkräfte des AOD (Ordnungsamt) auf dem Alexanderplatz - gegenstandslos
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Bericht zu Verlusten im Produkthaushalt sowie den Strategien und Maßnahmen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Bezuschussung von Mittagsessen in Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Querungshilfe für Fußgänger in der Afrikanischen Straße einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Dem Fachkräftemangel auch im Bezirk Mitte begegnen: Zusammenarbeit zwischen Unternehmen und Schulen stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Klassenfrequenzen für Schulen mit Willkommensklassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Traglufthallen für Sportnutzung einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Betriebskosten abrechnen, nicht pauschal ansetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Disc-Golf-Anlage in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Schulbesuch von Geflüchteten sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Obdachlosigkeit verhindern- alle Möglichkeiten zur Sicherung der Obdachlosenunterkunft Alt-Moabit 105 ausnutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Rahmenvereinbarungen mit städtischen Wohnungsbaugesellschaften über eine sozialverträgliche Durchführung von umfassenden Sanierungsvorhaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Vertragsverlängerung für Himmelbeet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Querungssicherheit an der Kreuzung Veteranenstraße - Fehrbelliner Straße verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.14: Neue Infoflyer für die Milieuschutzgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Klima schützen – Mieter schützen! Energetische Gebäudesanierung sozial verträglich gestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Angebote der JVS sichtbarer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.17: Stadtteilkoordination im Bezirk Mitte – Fortschreibung des Konzepts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.18: Änderung der Einschulungsbereiche für die Grundschulen im Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
