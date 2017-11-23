@@ -1,0 +1,80 @@
+# 30. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-23T17:00:00+01:00
+- Ende: 2017-11-23T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17045
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17045
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Musik-Veranstaltungen am Fühlinger See - Kenntnis genommen
+- TOP 7.1.2: Einrichtung eines absoluten Haltverbots auf dem Volkhovener Weg zwischen Pingenweg und Militärringstraße - Kenntnis genommen
+- TOP 7.1.3: Postfiliale Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Platzneugestaltung in Chorweiler-Mitte NPS - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Dreharbeiten im Stadtbezirk Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Beschädigte Schranken im Park in Chorweiler-Nord Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Alternative Bestattungsformen Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Lärmschutzwand Köln-Heimersdorf DB Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Sanierung Turnhalle Soldinerstr. Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Errichtung eines Zebrastreifens auf der Herstattallee in der Höhe Zörgiebelstraße - Kenntnis genommen
+- TOP 8.1.2: Zebrastreifen Chorbuschstraße - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Vergabe der bezirksorientierten Mittel und der Kulturmittel Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Stadtverschönerungsprogramm 2017 Interfraktioneller Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Sachstandsmitteilung zu den Flächen für den Wohnungsbau im Stadtbezirk Chorweiler Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.3: Zebrastreifen auf der Merkenicher Hauptstraße Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umgestaltung des Spielplatzes Leineweg Ost in Chorweiler-Nord - ungeändert beschlossen
+- TOP 9.1.2: Widmung von Teilstücken des Auweilerwegs in Köln-Esch - ungeändert beschlossen
+- TOP 9.1.3: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier: Ernennung eines stellvertretenden Mitgliedes für den Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - ungeändert beschlossen
+- TOP 9.2.2: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - geändert beschlossen
+- TOP 9.2.3: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung (Erfahrungsbericht-KSO) und 2. Änderung der Kölner Stadtordnung - ungeändert beschlossen
+- TOP 9.2.4: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 9.2.5: Freigabebeschluss für die Umgestaltung des Pingenweges und Sanierung/Gestaltung der Brückenwände in Lindweiler - ungeändert beschlossen
+- TOP 9.2.6: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Kölner Perspektiven 2030 - geändert beschlossen
+- TOP 10.2.2: Tätigkeitsbericht 2016 des Amtes für Straßen und Verkehrstechnik - Kenntnis genommen
+- TOP 10.2.3: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - geändert beschlossen
+- TOP 10.2.4: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 10.2.5: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 10.2.6: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.7: Gewässerunterhaltungsplan 2017/2018 - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden - geändert beschlossen
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Giftige Stickoxide (NOX) im Bezirk Chorweiler - Kenntnis genommen
+- TOP 11.1.2: Unbebaute Grundstücke in Merkenich - Kenntnis genommen
+- TOP 11.1.3: Sanierungsarbeiten der Wohnhäuser im Wilhelm Ewald Weg, Köln Seeberg - Kenntnis genommen
+- TOP 11.1.4: Aufzug Osloer Str. 4 - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
