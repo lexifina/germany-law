@@ -9,11 +9,11 @@ Erster Teil Allgemeine Vorschriften
 Zweiter Teil Aufgabenverantwortung
 § 6 | Aufgabenträger
 § 7 | Überörtliche Zusammenschlüsse
-§ 8 | Nahverkehrsplan
+§ 8 | Plan für den Schienenpersonennahverkehr
 Dritter Teil Finanzierung
-§ 9 | Grundsatz
-§ 10 | Investitionshilfen
-§ 11 | Betriebskostenzuweisungen und Kooperationsförderung
+§ 9 | Nahverkehrsplan
+§ 10 | Verwendung der Regionalisierungsmittel
+§ 11 | Zuständigkeitsregelung
 Vierter Teil Schlußvorschriften
-§ 12 | Übergangsvorschriften
+§ 12 | (aufgehoben)
 § 13 | Inkrafttreten
