@@ -1,0 +1,68 @@
+# 45. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-11-23T16:00:00+01:00
+- Ende: 2017-11-23T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5767
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5767
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00321402.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: 7. Einwohnerinnen- und Einwohnerfragestunde
+- TOP 2.1: Sozialwohnungen - erledigt
+- TOP 2.2: Radweg zwischen Dresden Bühlau und Ullersdorf - erledigt
+- TOP 2.3: Fußweg auf der Semperstraße - erledigt
+- TOP 2.4: Unterschutzstellung der Weixdorfer Seifzwiesen als FND - erledigt
+- TOP 2.5: Abfallbehälter in der Dresdner Innenstadt - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 3.1: Umbesetzung Ortsbeirat Altstadt - Zustimmung
+- TOP 4: Wahl von Friedensrichterinnen und Friedensrichtern sowie Protokollführerinnen und Protokoll-führern für die Schiedsstellen der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Wirtschaftsplanung 2018
+- TOP 6.1: Wirtschaftsplanung 2018 des Eigenbetriebes Stadtentwässerung Dresden - Zustimmung
+- TOP 6.2: Wirtschaftsplanung 2018 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 6.3: Wirtschaftsplanung 2018 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 6.4: Wirtschaftsplanung 2018 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung mit Ergänzung
+- TOP 6.5: Wirtschaftsplanung 2018 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 6.6: Wirtschaftsplanung 2018 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 7: Bestellung Wirtschaftsprüfer
+- TOP 7.1: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2017 sowie Folgeabschlüsse 2018 bis 2021 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 7.2: Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2017 bis 2019 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 7.3: Bestellung der Wirtschaftsprüfungsgesellschaft für die Jahresabschlüsse des Städtischen Klinikums Dresden für die Jahre 2017 und 2018 - Zustimmung
+- TOP 8: Änderung Gesellschaftsverträge - ausgereichte Informationsvorlagen
+- TOP 8.1: Muster-Gesellschaftsvertrag für Beteiligungsunternehmen der Landeshauptstadt Dresden - zur Kenntnis genommen
+- TOP 9: Änderung Gesellschaftsverträge - konkrete Beschlussvorlagen
+- TOP 9.1: Änderung des Gesellschaftsvertrages der Cultus gGmbH der Landeshauptstadt Dresden - Zustimmung
+- TOP 9.2: Änderung des Gesellschaftsvertrages der Dresden Marketing GmbH - Zustimmung
+- TOP 9.3: Änderung des Gesellschaftsvertrages der Messe Dresden GmbH - Zustimmung
+- TOP 9.4: Änderung des Gesellschaftsvertrages der STESAD GmbH - Zustimmung
+- TOP 9.5: Änderung des Gesellschaftsvertrages der Kommunale Immobilien Dresden GmbH & Co. KG - Zustimmung
+- TOP 9.6: Änderung des Gesellschaftsvertrages der Kommunale Immobilien Dresden Verwaltungs GmbH - Zustimmung
+- TOP 9.7: Änderung des Gesellschaftsvertrages der Societätstheater GmbH Dresden - Zustimmung
+- TOP 9.8: Änderung des Gesellschaftsvertrages der Verkehrsmuseum Dresden gGmbH - Zustimmung
+- TOP 9.9: Änderung des Gesellschaftsvertrages der Zoo Dresden GmbH - Zustimmung
+- TOP 9.10: Änderung des Gesellschaftsvertrages der NanoelektronikZentrumDresden GmbH - Zustimmung
+- TOP 9.11: Änderung des Gesellschaftsvertrages der Dresdner Bäder GmbH - Zustimmung
+- TOP 9.12: Änderung des Gesellschaftsvertrages der Technische Werke Dresden GmbH - Zustimmung
+- TOP 10: Vertagung der Stadtratssitzung vom 28.09.2017
+- TOP 10.1: Konzept zur Verbesserung der Personalausstattung in Kindertagesstätten für Krankheitsfälle und konkrete Bedarfslagen - Zustimmung mit Ergänzung
+- TOP 11: Vertagung letzte Stadtratssitzung vom 2. November 2017
+- TOP 11.1: Wohnungsbau beschleunigen, notwendige Entscheidungen zügig herbeiführen, offene Fragen aktiv klären - Vertagung durch Einreicher
+- TOP 11.2: Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Oberschulen, Gymnasien, berufsbildende Schulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft - Vertagung
+- TOP 11.3: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 12: Betreibung der Kindertageseinrichtung Malterstraße 16 in 01159 Dresden durch den freien Träger Deutscher Kinderschutzbund Ortsverband Dresden e. V. - Zustimmung
+- TOP 13: Aufnahme der Kindertageseinrichtung, Hort an der 147. Grundschule, Döbelner Straße 6 in 01127 Dresden in den Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2017/2018 und Betreibung durch den freien Träger Outlaw gGmbH - Zustimmung
+- TOP 14: 44. Grundschule, Salbachstraße 10 in 01279 Dresden - Gesamtsanierung Schulgebäude und Sporthalle sowie Erweiterungsbau und Neugestaltung der Freianlagen - Zustimmung
+- TOP 15: Entwicklungs- und Nutzungskonzept des Stadtteilhauses Johannstadt im Rahmen des Fördergebietes Dresden Nördliche Johannstadt - Zustimmung mit Ergänzung
+- TOP 16: Grundsatzbeschluss über die Kostenbeteiligung von Planungsbegünstigten an Vorhaben in Verfahren der verbindlichen Bauleitplanung ("Kooperative Baulandentwicklung Dresden") - Zustimmung
+- TOP 17: Nutzung von Flächen um das Kulturkraftwerk Mitte für Kunst im öffentlichen Raum - Zustimmung
+- TOP 18: Dresden ehrt den Architekt Wolfgang Hänsch als Architekt der Dresdner Nachkriegsmoderne - Zustimmung
+- TOP 19: Benennung einer Straße nach Prof. Dr. Hans Nadler - Vertagung
+- TOP 20: Gesundheit, Gesunderhaltung und Gesundheitsförderung der Einwohnerinnen und Einwohner Dresdens- Umsetzung der sächsischen Gesundheitsziele in Dresden - Vertagung
+- TOP 21: Planerische Studie zu Potentialen und Restriktionen für ein Teilgebiet des Masterplans Nr. 786 Leipziger Vorstadt - Neustädter Hafen - Zustimmung mit Änderung
