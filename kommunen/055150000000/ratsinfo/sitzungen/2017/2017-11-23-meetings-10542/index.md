@@ -1,0 +1,51 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-11-23T17:00:00+01:00
+- Ende: 2017-11-23T22:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10542
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10542
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00418656.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird.
+- TOP 3: Information zu den Projektständen Ausbau DEK und Ausbau B 51
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Anträge und Eingaben
+- TOP 5.1: Bekanntgabe
+- TOP 5.2: Stellungnahmen
+- TOP 6: Haushaltsplanberatungen
+- TOP 6.1: Beratungen des Haushaltsplans 2018, des Finanzplans und des Investitionsprogramms 2018 - 2021
+- TOP 6.1.1: Haushaltsanträge
+- TOP 6.1.2: Zuschüsse - einstimmig beschlossen
+- TOP 6.1.3: Veränderungslisten
+- TOP 6.1.4: Produktgruppen 02.07, 09.01, 09.02, 10.01, 10.02, 12.02 - mehrheitlich beschlossen
+- TOP 7: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 7.1: Zwischenstand - Hauptbahnhof-Westseite
+- TOP 7.2: Quartiersentwicklung Hauptbahnhof - Sachstand und nächste Schritte - einstimmig beschlossen
+- TOP 7.3: Förderprojekt „Schlösser- und Burgenregion Münsterland“ (Touristisches Gemeinschaftsprojekt der Stadt Münster, der Kreise Borken, Coesfeld, Steinfurt und Warendorf, der Regionale 2016-Agentur und des Münsterland e.V.) - mehrheitlich beschlossen
+- TOP 7.4: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - ohne Beschlussfassung geschoben
+- TOP 7.5: Digitales Vermittlungskonzept Bürgerhalle/Friedenssaal - einstimmig beschlossen
+- TOP 7.6: Masterplan 100% Klimaschutz - einstimmig beschlossen
+- TOP 7.7: Auslastung und Ausbau der münsteraner Kläranlagen - einstimmig beschlossen
+- TOP 8: Stadtplanung
+- TOP 8.1: Förderung von Stadterneuerungsprojekten - Sachstand 2017 und Anträge 2018 - einstimmig beschlossen
+- TOP 8.2: 68. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 8.3: Bebauungsplan Nr. 441, 2. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 9: Verkehr
+- TOP 9.1: Masterplan "Mobilität Münster 2035+" - einstimmig beschlossen
+- TOP 9.2: Förderverfahren gem. § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein- - zur Kenntnis genommen
+- TOP 9.3: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien - zur Kenntnis genommen
+- TOP 9.4: Ein öffentliches Leihradsystem für Münster - Ratsantrag Nr. A-R/0051/2017 - mehrheitlich geändert beschlossen
+- TOP 9.5: Querung des Dingbängerweges in Höhe des THC Münster e. V. für Nutzer der Sportanlage sicher machen, Antrag der CDU-Fraktion an den Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wohnen (Anlage 1) - zur Kenntnis genommen
+- TOP 9.6: Lärmaktionsplan der Stadt Münster - einstimmig geändert beschlossen
+- TOP 10: Bauvorhaben
+- TOP 10.1: Umbau Nutzungsänderung Am Mittelhafen 46 ("Cibaria") - einstimmig beschlossen
+- TOP 11: Verschiedenes
