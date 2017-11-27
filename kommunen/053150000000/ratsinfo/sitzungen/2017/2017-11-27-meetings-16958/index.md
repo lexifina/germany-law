@@ -1,0 +1,56 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-27T16:00:00+01:00
+- Ende: 2017-11-27T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16958
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16958
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00638887.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00638887.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00638887.pdf
+
+## Tagesordnung
+
+- TOP -: 0 Aktuelle Stunde - Schulnotstand in Köln: Die Verwaltung muss sofort gegensteuern! - geändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Reinigung in Schulen verbessern - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Angebote Kultureller Bildung - Beantwortung der Anfrage AN/0465/2017 - 2482/2017 - Kenntnis genommen
+- TOP 3.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Sanierung und Qualitätsanalyse an Kölner Schulen - zurückgestellt
+- TOP 3.2.2: Errichtung einer vierzügigen Gesamtschule auf dem Gelände der Elsa-Brändström-RS in Lindenthal - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Zügigkeitserweiterung der Albert-Schweitzer-Gemeinschaftsgrundschule, GGS zum Hedelsberg, 50999 Köln-Weiß gem. § 81 Abs. 2 Schulgesetz NRW von 3 auf 4 Züge - geändert beschlossen
+- TOP 4.2: Zügigkeitserweiterung der Brüder-Grimm-Schule, Sürther Hauptstraße, 50999 Köln-Sürth gem. § 81 Abs. 2 Schulgesetz NRW von 4 auf 5 Züge - geändert beschlossen
+- TOP 4.3: Planungsaufnahme zur Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Sporthalle auf dem Grundstück Statthalterhofallee in Köln-Junkersdorf - ungeändert beschlossen
+- TOP 4.4: Einführung des gebundenen Ganztags an der Geschwister-Scholl-Realschule in Ehrenfeld ab Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 4.5: Zügigkeitserweiterung des Apostelgymnasiums, Gymnasium Biggestraße 2, 50931 Köln in Köln-Lindenthal zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 4.6: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 4.7: Elternberatung Inklusion - ungeändert beschlossen
+- TOP -: TOP 4.7 – Elternberatung Inklusion - endgültig abgelehnt
+- TOP 4.8: Zügigkeitserweiterung der Carl-von-Ossietzky-Gesamtschule, Ossietzkystr. 2, 50737 Köln-Longerich zum Schuljahr 2019/20 nach § 81 Abs. 2 Schulgesetz NRW bei gleichzeitiger Bildung eines Teilstandortes an der Paul-Humburg-Str. 13, 50737 Köln-Longerich - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 5.2: Interkommunale Zusammenarbeit der Städte Pulheim und Köln am Schulzentrum Brauweiler - Kenntnis genommen
+- TOP 5.3: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 5.4: Volkshochschule Köln: talentCAMPus 2017 war wieder ein Erfolg! - Kenntnis genommen
+- TOP 5.5: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 5.6: Ein Bibliotheksausweis für jede Schultüte – 100 Jahre Heinrich Böll / Junges Buch für die Stadt - Kenntnis genommen
+- TOP 5.7: Strategiecheck 2017 der KölnBäder GmbH - Kenntnis genommen
+- TOP 5.8: Anmelde- und Aufnahmeverfahren in die weiterführende Schule der Sekundarstufe I (Sek I) zum Schuljahr 2018/2019 - Kenntnis genommen
+- TOP 5.9: Aktueller Sachstand über die Teilnahme der Stadt Köln am Landesprogramm "Kommunale Präventionsketten". - Kenntnis genommen
+- TOP 5.10: Projekt „Sprach- und Integrationsmittlerpool für die Stadt Köln“ - Kenntnis genommen
+- TOP 5.11: Präventionsprojekt in Schulen "Nicht mit mir!" - Kenntnis genommen
+- TOP 5.12: Sachstandsmitteilung Friedrich-List-Grundschule - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
