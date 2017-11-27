@@ -1,0 +1,60 @@
+# Finanzausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-11-27T14:00:00+01:00
+- Ende: 2017-11-27T15:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfLL107Tlzk5teBTkzVSJ5o
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4845
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdVa5DMGFFyXHWz6-5zfds-GyQXlNcqUUUrXLZjHOarv/Oeffentliche_Niederschrift_Finanzausschuss_27.11.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 26. Sitzung des Finanzausschusses am 21.09.2017
+- TOP 3: Masterplan „Standortkonzept Berufsfeuerwehr Solingen 2030“
+- TOP 4: IX. Änderungssatzung zur Satzung über die Erhebung der Vergnügungssteuer der Stadt Solingen vom 15. Dezember 2005
+- TOP 5: Erhöhung der Grundsteuer A und Grundsteuer B
+- TOP 6: Ausbauplanung Kindertagesbetreuung 2025 2. Fortschreibung
+- TOP 7: Veloroute Düsseldorf - Hilden - Solingen - Wuppertal
+- TOP 8: Änderung der Schulbenutzungs- und Entgeltordnung für die Stadt Solingen
+- TOP 9: Verwendung der Sportpauschale
+- TOP 10: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 11: Verwendung der Sportpauschale
+- TOP 12: Zustimmung zu investiven Mehrauszahlungen gemäß § 83 GO NRW
+- TOP 13: Gebührenbedarfsberechnung 2018
+- TOP 14: II. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen (Abfallwirtschaftssatzung)
+- TOP 15: I. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 16: IV. Änderungssatzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 17: III. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 18: Neufassung zur Friedhofsgebührensatzung der Stadt Solingen
+- TOP 19: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 20: Wirtschaftsplan 2018 der Technischen Betriebe Solingen
+- TOP 21: III. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung
+- TOP 22: Wirtschaftsplan 2018 des Eigenbetriebes Wasserversorgung Solingen
+- TOP 23: Hilfen zur Erziehung: überplanmäßige Ausgaben zur periodengerechten Zuordnung ab 2017
+- TOP 24: Hilfen zur Erziehung - Maßnahmen zur Erreichung des HSP-Ziels M 336
+- TOP 25: Satzung für die Übergangsheime der Klingenstadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 26: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2017
+- TOP 27: Quartalsinformationen Kreditportfolio Verwaltung
+- TOP 28: 3. Quartalsbericht zum Ergebnisplan des Haushaltes 2017 und HSP-Controlling lt. Stärkungspaktgesetz
+- TOP 29: Offizielle Modellrechnung zum Gemeindefinanzierungsgesetz 2018
+- TOP 30: Themenplan Finanzausschuss 2018
+- TOP 31: Etatberatung für das Haushaltsjahr 2018 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2020 und des Haushaltssanierungsplanes 2018 ff.
+- TOP 32: Tischvorlage zur Beratungsvorlage 5000
+- TOP 33: Verschiedenes
+- TOP 34: Bericht zum Prüfauftrag zur Umwandlung des Freibads Heide in ein Naturbad
+- TOP 35: Reinigung der Schultoiletten
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 26. Sitzung des Finanzausschusses am 21.09.2017
+- TOP 4: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 5: Verkauf einer städtischen Liegenschaft
+- TOP 6: Verlängerung / Erneuerung eines Erbbaurechtsvertrages
+- TOP 7: Verschiedenes
+- TOP 8: Vergaben und Vertragsabschlüsse über 50.000 Euro sowie An- und Verkauf von Grundstücken über 50.000 Euro bis 250.000 Euro
