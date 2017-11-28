@@ -1,0 +1,70 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-28T14:00:00+01:00
+- Ende: 2017-11-28T15:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16959
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16959
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640001.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640001.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640001.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Widerruf gemäß § 25 Abs. 4 AG KJHG NW von Anerkennungen als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Investiver Zuschuss für Baumaßnahmen des Trägers "Jugendfarm Wilhelmshof e.V." - ungeändert beschlossen
+- TOP 2.2.2: Verteilung von Haushaltsmitteln 2017 an "Jugendtreffs" und "Jugendangebote" sowie die Bezuschussung des Trägers "Arbeiterwohlfahrt Kreisverband Köln e.V." für den Jugendtreff "Waldbadviertel" - ungeändert beschlossen
+- TOP 2.2.3: Betreuungsprojekte (Übermittagsbetreuung) - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Gruppen in Kindertageseinrichtungen in Köln - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Mitteilung über die Benennung eines neuen beratenden Pflichtmitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.2: Fachstellen "Extremismus- und Gewaltprävention" - ungeändert beschlossen
+- TOP 4.3: Kindertagespflege nach § 23 SGB VIII - ungeändert beschlossen
+- TOP 4.4: Ausbau von Plätzen U3 durch gesondert geförderte Großtagespflegen unter Anbindung bei anerkannten Trägern der freien Jugendhilfe in Köln mit Erfahrung in der Kindertagesbetreuung - ungeändert beschlossen
+- TOP 5: Anträge aus der Politik (schriftlich)
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (schriftlich)
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Förderung der Kindertagespflege - Sache ist erledigt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates; Anfrage Nr. : AN/1526/2017 - Kenntnis genommen
+- TOP 6.1.2: Inobhutnahmen durch das Jugendamt - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage gem. § 4 der Geschäftsordnung des Rates, hier: Anfrage der Piratengruppe im Rat der Stadt Köln vom 31.08.2017 (AN/1171/2017) zum Thema Inobhutnahmen in Köln - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Inanspruchnahme von Bundesmitteln zur Förderung des Kita-Ausbaus - Sache ist erledigt
+- TOP -: Anfrage FDP-Fraktion "Inanspruchnahme von Bundesmitteln zur Förderung des Kita-Ausbaus (AN/1661/2017) - Kenntnis genommen
+- TOP 7: Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe (mündlich)
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Sachstand Stufenkonzept Frühe Bildung / Flüchtlingskinder - Kenntnis genommen
+- TOP 8.2.2: Ergänzung zur Vorlage 2585/2017 Fachkräftemangel im Kita-Bereich AN/1075/2017 aus der Sitzung vom 05.09.2017 - Kenntnis genommen
+- TOP 8.2.3: Aktueller Sachstand über die Teilnahme der Stadt Köln am Landesprogramm "Kommunale Präventionsketten". - Kenntnis genommen
+- TOP 8.2.4: Trägerwechsel der Kindertageseinrichtung Ehrenfelder Chämpiänz gUG, Moltkestr. 131, 50674 Köln - Kenntnis genommen
+- TOP 8.2.5: Integration von Kindertagesstätten in Wohnbebauung - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Aktionsplan "Kinderfreundliche Kommune" Sachstand - Kenntnis genommen
+- TOP 8.4.2: Jugendzentren Köln gGmbH, hier: Jugendzentrum "Alte Schule Widdersdorf" Bauliche Erneuerung des Bewegungsraumes „Pavillon“ auf dem Außengelände - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 8.5.2: Projekt „Sprach- und Integrationsmittlerpool für die Stadt Köln“ - Kenntnis genommen
+- TOP 8.5.3: Auszahlung Trägerzuschüsse - Kenntnis genommen
+- TOP 8.5.4: Gesetz zur Rettung der Trägervielfalt von Kindertageseinrichtungen - Kenntnis genommen
