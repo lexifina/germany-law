@@ -1,0 +1,62 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-11-28T17:00:00+01:00
+- Ende: 2017-11-28T19:46:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13178
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13178
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305853.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305853.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305853.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 8/2017 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2017 - abweichend beschlossen
+- TOP 7: Unterhaltung von Grundstücken Dritter - abweichend beschlossen
+- TOP 8: Unterhaltung von Grundschulen im Stadtbezirk 5 - Haushalt 2017 - abweichend beschlossen
+- TOP 9: Errichtung eines Wendehammers vor der Grundschule Farnweg - beantwortet
+- TOP 10: Geruch im Toilettenbereich Grundschule Fliednerstraße - beantwortet
+- TOP 11: Sanierung und Erweiterung OGS-Bereich Franz-Vaahsen-Grundschule - beantwortet
+- TOP 12: Fugängerüberweg vor Kindertagesstätte Heinrich-Holtschneider-Weg 20 - beantwortet
+- TOP 13: Absenkung des Kalkweges in Angermund - beantwortet
+- TOP 14: Denkmalbereichssatzung - Graf-Engelbert-Straße - beantwortet
+- TOP 15: Änderungen Geschwindigkeitsbegrenzungen in Angermund
+- TOP 16: Verkehrssicherheit auf dem Zeppenheimer Weg - beantwortet
+- TOP 17: Lärmschutzprogramm des Flughafen Düsseldorf - beantwortet
+- TOP 18: Lärm- und Abgasvermeidung am Flughafen Düsseldorf - beantwortet
+- TOP 19: Sichtbehinderung im Straßenverkehr Bockumer Straße/Rheinweg - beantwortet
+- TOP 20: KGS Im Grund - Sanierung der Ballspielfläche - beantwortet
+- TOP 21: Grundschule Beckbuschstraße - Dämmung des Turnhallendachs - beantwortet
+- TOP 22: Grundschule Beckbuschstraße - Fensterschließanlage - beantwortet
+- TOP 23: Planungsstand Wohngebiet Verweyenstraße - beantwortet
+- TOP 24: Park & Ride Parkplatz U-Bahnhaltestelle "Am Froschenteich" - beantwortet
+- TOP 25: Stellplatzkapazitäten Franz-Vaahsen-Grundschule Wittlaer - beantwortet
+- TOP 26: Verkehrssicherheit in Wittlaer - wechselseitiges Parken Bockumer Straße
+- TOP 27: Schutz der Landschaft und des Landschaftsbildes am südlichen Ortsrand Angermund
+- TOP 28: Kosten der PFT-Sanierung für die Stadt Düsseldorf - beantwortet
+- TOP 29: Radwegehauptnetz im Stadtbezirk 5 - Sachstand
+- TOP 30: Illegale Graffiti im Stadtbezirk - beantwortet
+- TOP 31: U79 - Zusätzliche Einsatzbahn - mehrheitlich abgelehnt
+- TOP 32: Überprüfung und Instandsetzung Angermunder Straßenschilder - abweichend beschlossen
+- TOP 33: Verkehrsversuch 3-D Zebrastreifen in Wittlaer - einstimmig beschlossen
+- TOP 34: Wittgatt - Bankette sichern - mehrheitlich beschlossen
+- TOP 35: Aufwertung des östlichen Kreisverkehrs in Angermund - mehrheitlich abgelehnt
+- TOP 36: Gestaltung von Stadteingängen im Stadtbezirk 5 - mehrheitlich beschlossen
+- TOP 37: Verkehrssicherheit in Wittlaer - Bockumer Straße, Kalkstraße, etc. - einstimmig beschlossen
+- TOP 38: Blumenkästen auf der Deichmauer Kaiserswerth - mehrheitlich beschlossen
+- TOP 39: Förderprogramm zur Graffitientfernung an privaten Gebäuden Kaiserswerths 2018 - mehrheitlich beschlossen
+- TOP 40: Graffiti Entfernung an öffentichen Gebäuden im Ortskern Kaiserswerth - mehrheitlich beschlossen
+- TOP 41: Verkehrsüberwachung im Stadtbezirk 5 - einstimmig beschlossen
+- TOP 42: Stellungnahmen 28.11.2017 - zur Kenntnis genommen
+- TOP 43: Beschlusskontrolle - 2. Halbjahr 2017 - zur Kenntnis genommen
+- TOP 44: Jugendhilfeplanung: Entwicklung der Kindertagesbetreuung - Jahresbericht 2017 - zur Kenntnis genommen
+- TOP 45: Verschiedenes - zur Kenntnis genommen
