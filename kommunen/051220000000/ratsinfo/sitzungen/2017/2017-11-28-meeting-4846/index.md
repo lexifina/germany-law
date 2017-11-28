@@ -1,0 +1,52 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2017-11-28T17:00:00+01:00
+- Ende: 2017-11-28T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZXQMbsJoBE4aO8yf20xhVto
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4846
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbaYMfWbEEstcqbyWM_d_eorJ2uuAbDPvU4jMe85uqjn/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_28.11.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 24. Sitzung des Haupt- und Personalausschusses am 26.09.2017
+- TOP 3: Eingabe nach § 24 GO NRW
+- TOP 4: Masterplan „Standortkonzept Berufsfeuerwehr Solingen 2030“
+- TOP 5: Leitlinien zur Bürgerbeteiligung in Solingen
+- TOP 6: Beitritt Solingens zur internationalen Inititative "Städte für das Leben - Cities for Life"
+- TOP 7: Zwischen Rhein und Wupper: Zusammen – wachsen
+- TOP 8: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 9: Strategisches Personalmanagement
+- TOP 10: Strategisches Personalmanagement
+- TOP 11: Stellenplannachtrag 2017
+- TOP 12: Hilfen zur Erziehung - Maßnahmen zur Erreichung des HSP-Ziels M 336
+- TOP 13: Etatberatung für das Haushaltsjahr 2018 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2020 und des Haushaltssanierungsplanes 2018 ff.
+- TOP 14: Verschiedenes
+- TOP 15: Strategisches Personalmanagement
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 24. Sitzung des Haupt- und Personalausschusses am 26.09.2017
+- TOP 4: Bestellung der Leiterin des Stadtdienstes Gesundheit
+- TOP 5: Höhergruppierung und Beförderungen von Dienstleiterinnen und Dienstleitern
+- TOP 6: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Prokuristen
+- TOP 7: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Verlängerung einer Bebauungsverpflichtung
+- TOP 8: Wirtschaftsplan 2018 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 9: Wirtschaftsplan 2018 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 10: Bestellung eines weiteren Geschäftsführers für die Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 11: Bestellung eines weiteren Geschäftsführers für die Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 12: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Widerruf und Erteilung von Prokura
+- TOP 13: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - Widerruf und Erteilung von Prokura
+- TOP 14: Wirtschaftsplan 2018 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG)
+- TOP 15: Wirtschaftsplan 2018 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 16: Wirtschaftsplan 2018/2019 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 17: Verschiedenes
+- TOP 18: Vergabe eines Auftrages zur Lieferung von drei PKW - klein für die Feuerwehr
+- TOP 19: Vergabe eines Auftrages zur Lieferung von zwei PKW - Kombi für die Feuerwehr
+- TOP 20: Aktuelle Entwicklung der Solinger Kunst-Stiftung
