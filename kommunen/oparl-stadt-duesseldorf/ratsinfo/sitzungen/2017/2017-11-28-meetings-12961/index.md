@@ -1,0 +1,61 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-11-28T16:00:00+01:00
+- Ende: 2017-11-28T16:58:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12961
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/12961
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305838.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305838.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305838.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Trödelmärkte in Garath Zentrum Ost im 1. Halbjahr 2018 - einstimmig beschlossen
+- TOP 4.2: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 1. Halbjahr 2018 - einstimmig beschlossen
+- TOP 4.3: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszenrum Hellerhof - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10 - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt 2017 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Parkfläche südlich von „Aldi“ in Hellerhof - zur Kenntnis genommen
+- TOP 5.2: Vorlage eines neuen Grünplanes für den Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Schwimmunterrricht - zur Kenntnis genommen
+- TOP 6.2: Stellenbesetzung an den Schulen im Stadtbezirk 10 - vertagt
+- TOP 6.3: E-Mobilität in Garath und Hellerhof - vertagt
+- TOP 6.4: Sachstand Fahrradboxen - vertagt
+- TOP 7: Anträge
+- TOP 7.1: Büsche statt Zaun an der Bürgerwiese - zurückgezogen
+- TOP 7.2: Barrierefreiheit Bushaltestelle Jakob-Kneip-Straße - Umsetzung Papiercontainer - einstimmig beschlossen
+- TOP 7.3: Zusätzliche Fahrzeiten des Schnellbusses 57 - abweichend beschlossen
+- TOP 7.4: W-LAN in der Freizeitstätte Garath - einstimmig beschlossen
+- TOP 7.5: Geruchsbelästigungen und belastende Emissionen in Hellerhof Ost - einstimmig beschlossen
+- TOP 7.6: Einladung der Betreiber von Jugendfreizeiteinrichtungen des Stadtbezirks 10 u.a. zur Thematik „Stree - abweichend beschlossen
+- TOP 7.7: Anbringung des sog." grünen Pfeil" an weiteren Kreuzungen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 7.8: Beschriftung von Abfallbehältern - einstimmig beschlossen
+- TOP 7.9: Maßnahmen zur Einhaltung der Geschwindigkeitsbegrenzung 50 km/h auf der Frankfurter Straße und dem H - einstimmig beschlossen
+- TOP 7.10: Umzäunung der Bürgerwiese Garath - abweichend beschlossen
+- TOP 7.11: Unterstützung der Verwaltung hinsichtlich einer Erweiterung des EDEKA – Rath – Marktes in Hellerhof - mehrheitlich beschlossen
+- TOP 7.12: Tempo 30 Zone Schild in der Dresdener Straße - einstimmig beschlossen
+- TOP 7.13: Straßenschäden im Stadtbezirk - einstimmig beschlossen
+- TOP 7.14: Fußgängerampel mit Anforderungstaster - einstimmig beschlossen
+- TOP 7.15: Austausch der Bushaltestellenschilder an der Frankfurter Straße - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Messung der Umweltbelastung an der Kreuzung Frankfurter Straße/Rostocker Straße - zur Kenntnis genommen
+- TOP 8.2: Umwidmung von Kinderspielplätzen in den Stadtbezirken 3, 4, 5, 8, 9 und 10 - zur Kenntnis genommen
+- TOP 8.3: Überprüfung der Feuerwehrzufahrten im Stadtbezirk - zur Kenntnis genommen
+- TOP 8.4: Beschilderung beachtenswerter Gebäude, Einrichtungen - zur Kenntnis genommen
+- TOP 8.5: Jugendhilfeplanung: Entwicklung der Kindertagesbetreuung - Jahresbericht 2017 - zur Kenntnis genommen
+- TOP 8.6: Reinigung/Instandsetzung des Fahrradabstellplatzes an der S-Bahn-Garath - zur Kenntnis genommen
+- TOP 8.7: Sicherheit des Straßenverkehrs im Eingangsbereich Matthias-Erzberger-Straße - zur Kenntnis genommen
+- TOP 8.8: Einrichtung einer Talentschule in Düsseldorf-Garath - zur Kenntnis genommen
+- TOP 8.9: Orientierungssysteme an öffentlich zugänglichen Gebäuden - zur Kenntnis genommen
+- TOP 9: Verschiedenes
