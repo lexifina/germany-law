@@ -1,0 +1,8 @@
+# TOP 8: Förderung des "Schwimmen Lernens"
+
+- Sitzung: Bezirksvertretung 7 (2017-11-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/214861
+- Ergebnis: zurückgezogen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/89640
