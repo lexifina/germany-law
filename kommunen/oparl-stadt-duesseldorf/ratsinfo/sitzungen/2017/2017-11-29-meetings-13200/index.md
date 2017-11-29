@@ -1,0 +1,61 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-11-29T17:00:00+01:00
+- Ende: 2017-11-29T17:58:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13200
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13200
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305947.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305947.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305947.pdf
+
+## Tagesordnung
+
+- TOP 1: Evaluierung Peter Schumacher - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 7: Anfrage CDU: Situation Mühlenbroich - Schausteller - vertagt
+- TOP 8: Anfrage der SPD-Fraktion: Veränderungen der Altersstruktur - beantwortet
+- TOP 9: Anfrage Charisius, Tauschke, Schentek: Karneval 2018 - vertagt
+- TOP 10: Anfrage SPD: Fußgängerüberweg Westfalenstraße - vertagt
+- TOP 11: Antrag SPD: Verkehrskonzept Münsterstraße - einstimmig beschlossen
+- TOP 12: Antrag CDU: Toiletten St. Franziskus Grundschule Herchenbachstraße - einstimmig beschlossen
+- TOP 13: Antrag SPD: Bürgersteig Dülmener Weg - einstimmig beschlossen
+- TOP 14: Antrag SPD: Sicherung Gleise Helmutstraße - zurückgezogen
+- TOP 15: Antrag CDU und FDP: Spielstraße Nosenberger Straße - einstimmig beschlossen
+- TOP 16: Antrag CDU und FDP: Straße In der Nießdonk - einstimmig beschlossen
+- TOP 17: Antrag CDU: Gestaltung Stadtwerke-Trafohäuschen - einstimmig beschlossen
+- TOP 18: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: ISS Dome Anzeigesystem - einstimmig beschlossen
+- TOP 19: Umbenennung Vorplatz hinter dem ISS-Dome - einstimmig beschlossen
+- TOP 20: Jugendhilfeplanung: Entwicklung der Kindertagesbetreuung - Jahresbericht 2017 - zur Kenntnis genommen
+- TOP 21: Trödelmärkte Rather Broich 1. Halbjahr 2018 - einstimmig beschlossen
+- TOP 22: Bauunterhalt 2017 - laufende Maßnahmen - einstimmig beschlossen
+- TOP 23: MdV - Spielplatz Eugen-Richter-Straße - zur Kenntnis genommen
+- TOP 24: Bauunterhalt 2017 - KSP Eugen-Richter-Straße - einstimmig beschlossen
+- TOP 25: Bauunterhalt 2017 Teil B - Anbindung Grünanlage an Aaper Wald - einstimmig beschlossen
+- TOP 26: Bauunterhalt 2017/2018 - Multifunktionale Sportfläche - einstimmig beschlossen
+- TOP 27: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 28: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2017 - einstimmig beschlossen
+- TOP 33: Verfügungsmittel 2017 - einstimmig beschlossen
+- TOP 34: Mittel Jahresempfang 2018 - einstimmig beschlossen
+- TOP 35: Mittel für Informations- und Imagekampagne - einstimmig beschlossen
+- TOP 36: MdV - Park und Ride Rath-S - zur Kenntnis genommen
+- TOP 37: MdV - Umbau Haltestelle Rath S - zur Kenntnis genommen
+- TOP 38: MdV - Urban Gardening - zur Kenntnis genommen
+- TOP 39: MdV - dauerhafte Beschilderung Flughafenparker - zur Kenntnis genommen
+- TOP 40: MdV - Pflege städtische Grünanlagen - zur Kenntnis genommen
+- TOP 41: MdV - GAT Kieshecker Weg - zur Kenntnis genommen
+- TOP 42: MdV - Hecke Hamborner Straße - zur Kenntnis genommen
+- TOP 43: MdV - Haltestelle Rath-Mitte, Buslinie 730 - zur Kenntnis genommen
+- TOP 44: MdV - Thewissenweg Tempo 30 - zur Kenntnis genommen
