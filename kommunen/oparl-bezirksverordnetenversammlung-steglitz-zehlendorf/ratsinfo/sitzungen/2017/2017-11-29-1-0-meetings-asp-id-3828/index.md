@@ -1,0 +1,51 @@
+# 8. öffentliche Sitzung des Ausschusses für Ordnung, Verkehr und Bürgerdienste
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-11-29T17:30:00+01:00
+- Ende: 2017-11-29T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=61
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3828
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3828
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 01.11.2017 - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Sicheres Fahrradfahren auf der Albrechtstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.2: Fahrradständer am S-Bahnhof Botanischer Garten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Grünphase für Fußgänger*innen an U-Krumme Lanke verlängern - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.4: Verkehrsführung Neuchateller Str./Ecke Hindenburgdamm - vertagt
+- TOP 3.5: Parksituation Wannseebadweg in Höhe des Strandbades - vertagt
+- TOP 3.6: Freizeitsport und Bürgeranliegen ernst nehmen! - mit Änderungen im Ausschuss beschlossen
+- TOP 3.7: Verkehrssicherheit in der Goerzallee erhöhen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.8: Querung der Königsberger Straße erleichtern - mit Änderungen im Ausschuss beschlossen
+- TOP 3.9: Parkregelung in der Drakestraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.10: Halteverbot am Händelplatz - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.11: Neues Wohngebiet an der Goerzallee auch am Wochenende anbinden - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.12: Illegale Nutzung des „Platz des 4. Juli“ kurzfristig unterbinden - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.13: Umstellung Ordnungsamt - Dienstwagen auf E-Mobilität - mit Änderungen im Ausschuss beschlossen
+- TOP 3.14: Nahverkehr - vertagt
+- TOP 3.15: Vernünftige Ampelschaltungen für Fußgänger an Kranoldplatz und Lankwitzer Straße / Fußgänger nicht hetzen - vertagt
+- TOP 3.16: Ampelanlage Wupperstraße/Ecke Goerzallee - vertagt
+- TOP 3.17: Wiederholte Beschädigungen von Anwohnerfahrzeugen durch einander ausweichende Busse verhindern - vertagt
+- TOP 3.18: Beschilderung am Platz des 4. Juli zur Nutzung für Fahrschulen entfernen - vertagt
+- TOP 3.19: Kreuzung Niklasstraße - vertagt
+- TOP 3.20: Schulwegsicherung Friedrich-Drake-Grundschule, Drakestraße 80, 12205 Berlin - vertagt
+- TOP 3.21: Vorsorge zur Aufrechterhaltung des S-Bahn-Verkehrs im Bezirk Steglitz- Zehlendorf - vertagt
+- TOP 3.22: Testbetrieb – mehr Sicherheit durch 3D Zebrastreifen - vertagt
+- TOP 3.23: Verkehrsberuhigung auf dem Dahlemer Weg zwischen Mühlenstraße und Berliner Straße/ "Tempo 30 auf dem Dahlemer Weg – denn warten müssen wir sowieso!" - vertagt
+- TOP 3.24: Tempo 30 in der Appenzeller Straße - vertagt
+- TOP 3.25: Unfallschwerpunkt Potsdamer Chaussee/Kurstraße entschärfen - vertagt
+- TOP 3.26: Auch tagsüber Tempo 30 in der Lepsiusstraße - vertagt
+- TOP 3.27: Behindertenparkplatz vor dem Rathaus Zehlendorf besser kennzeichnen - vertagt
+- TOP 3.28: Installation besonderer Fußgängerampeln - vertagt
+- TOP 3.29: Anwohnerparken am S-Bahnhof Wannsee - vertagt
+- TOP 3.30: Verkehrsspiegel für Kreuzung Ahlener Weg/Holtheimer Weg - vertagt
+- TOP 3.31: Kreuzungen Unter den Eichen/Habelschwerdter Allee/ Altensteinstraße verkehrssicherer - vertagt
+- TOP 3.32: Radverkehrsanlagen an der Drakestraße schaffen - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
