@@ -1,0 +1,22 @@
+# Neukonzeption der öffentlichen Gebäude in Caßdorf
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Drucksache/Vorlage: VL-93/2017 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2017-11-29
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcvzGJJ-BluRfeCXS0hhUas
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/paper/196
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Neukonzeption der öffentlichen Gebäude in Caßdorf) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS18ezIGgwk2Oc_les9uBrSTpgTKNv6dLikkNo8FjqGn/Beschlussvorlage_VL-93-2017_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Gesamtansicht Neubau Feuerwehr und Kindertagesstätte) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXit7QWJgZFqr-LsCzyG87LEpIy7Talw8Fg1dR2hv6xa/Gesamtansicht_Neubau_Feuerwehr_und_Kindertagesstaette.pdf
+- Anlage: Beschlussvorlage (Konzept KiTa Caßdorf -Freiflächen -17-10-24) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeuP5qVP6-khbg8V_BJ-9reW2IAKQ63ThbqKyocTdFiy/Konzept_KiTa_Cassdorf_-Freiflaechen_-17-10-24.pdf
+- Anlage: Beschlussvorlage (Konzept KiTa Caßdorf - Grundriss EG - 17-10-24) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdaSxrd6DdOFT3mZOX4cBrVJT9gI9TBYsH-a-cxMJJz/Konzept_KiTa_Cassdorf_-_Grundriss_EG_-_17-10-24.pdf
+- Anlage: Beschlussvorlage (Konzept KiTa Caßdorf -Ansicht Ost - 17-10-24) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaSqklEyW28IYC6kd0UPXJRB5PaKMm6IldITqPJ6n3I9/Konzept_KiTa_Cassdorf_-Ansicht_Ost_-_17-10-24.pdf
+- Anlage: Beschlussvorlage (Konzept KiTa Caßdorf - Kostenschätzung - 17-10-25) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc223HlfjCJ-vWnw6kEPtx0GL_so_fRvBgez2laeyUv1/Konzept_KiTa_Cassdorf_-_Kostenschaetzung_-_17-10-25.pdf
+- Anlage: Beschlussvorlage (Konzept Neubau FW Caßdorf - Freiflächenplan - 17-08-30) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWBgd0Zo3b0hqF8wTXo1PtuN-GRkC7Ug75h4ry6hgb5-/Konzept_Neubau_FW_Cassdorf_-_Freiflaechenplan_-_17-08-30.pdf
+- Anlage: Beschlussvorlage (Konzept Neubau FW Caßdorf - Grundriss EG - 17-08-30) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfGddJp8VqXW5lJRfYWWjMth6T_FJtC9y7QpRvXlYYJ-/Konzept_Neubau_FW_Cassdorf_-_Grundriss_EG_-_17-08-30.pdf
+- Anlage: Beschlussvorlage (Konzept Neubau FW Caßdorf - Ansicht Ost - 17-08-30) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQsS86k1EjbERBTpf5K67Lvr9RsysDCyAbVZaGwzkWHu/Konzept_Neubau_FW_Cassdorf_-_Ansicht_Ost_-_17-08-30.pdf
+- Anlage: Beschlussvorlage (Konzept Neubau FW Caßdorf - Ansicht West - 17-08-30) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZRnbh0RGjgPWAa4pdjVIAOncxB0qdhaiA99GSV3l_xn/Konzept_Neubau_FW_Cassdorf_-_Ansicht_West_-_17-08-30.pdf
+- Anlage: Beschlussvorlage (Konzept Neubau FW Caßdorf - Kostenschätzung - 17-08-25) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVcIsgHHVJxN17NarDJ5nwT3cRmEK9q4QkH5Hv0xsu8n/Konzept_Neubau_FW_Cassdorf_-_Kostenschaetzung_-_17-08-25.pdf
+- Beratung:  https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/555 https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-11
+- underDirectionOf: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/3-12
