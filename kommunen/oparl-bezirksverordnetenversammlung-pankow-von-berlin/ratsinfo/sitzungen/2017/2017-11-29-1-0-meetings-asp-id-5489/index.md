@@ -1,0 +1,100 @@
+# 11. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2017-11-29T17:30:00+01:00
+- Ende: 2017-11-29T20:00:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5489
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5489
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=116&id=156036
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Ausweitung des Landschaftsschutzgebietes Bucher Forst – Ausweisung der Moorlinse als Naturschutzgebiet - in der BVV abgelehnt
+- TOP 1.9: Leitlinien der Bürgerbeteiligung mit Experten und Bürgern erarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Beitritt zu einem Moratorium in Sachen »öffentliche Toiletten« - in der BVV abgelehnt
+- TOP 1.11: Nachweis der im Haushaltsjahr 2016 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Prüfkriterien für Genehmigungsentscheidungen in Erhaltungsgebieten bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Kinderschutz sicherstellen und Fachpersonal schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Straßenschäden mit besonderer Gefahr für den Radverkehr prioritär beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Machbarkeitsstudie zur Parkraumbewirtschaftung im Florakiez - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Linienführung des Busses 350 an die tatsächlichen Bedarfe anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Papierloses Arbeiten ermöglichen, WLAN in den Räumen der BVV einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verbesserung der Verkehrssicherheit in der Tino-Schwierzina-Straße - in der BVV abgelehnt
+- TOP 1.19: Städtebauförderung für die Quartiere Langhansstraße und Pankow Süd - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Nutzbarkeit der Heimfriedstraße wiederherstellen - in der BVV abgelehnt
+- TOP 1.21: Werneuchener Wiese: Gemeinsam als Bürgerwiese gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Sperrung der Königsteinbrücke auf ein notwendiges Mindestmaß reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Vietnamesischsprachige Erziehungs- und Familienberatung (EFB) in Berlin einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: "Free WiFi Berlin" auch in Pankower Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Sicherer Schulweg auch im Winter: Schneereinigung vor Schulen durch die BSR - überwiesen
+- TOP 1.26: Entwicklung des ÖPNV im Bezirk Pankow - überwiesen
+- TOP 1.27: Parkordnung Heinersdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Pankower Bezirkshaushalt transparent kommunizieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Optimierung des Schienenersatzverkehrs während der Sperrpause zwischen den Bahnhöfen Karow und Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Berlin-Ticket S und Befreiung von der Rundfunkbeitragspflicht auch auf Rentnerinnen und Rentner im Wohngeldbezug ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Verkehrssicherheit im Gleimtunnel erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Standorte in Pankow zur Errichtung von Fahrradabstellanlagen benennen - überwiesen
+- TOP 1.33: Anerkennung für Leistungen der Feuerwehren, des Technischen Hilfswerks, der Rettungsdienste und anderer Organisationen im Zusammenhang mit dem Orkan XAVIER - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Fahrradabstellanlage vor der Schwimmhalle im Ernst-Thälmann-Park neu gestalten - überwiesen
+- TOP 1.35: Frühschwimmen bekannt(er) machen - überwiesen
+- TOP 1.36: Ausweitung der Dienstzeiten des Allgemeinen Ordnungsdienstes des Ordnungsamtes - überwiesen
+- TOP 1.37: „Gute Arbeit“ für Volkshochschuldozent*innen - überwiesen
+- TOP 1.38: Machbarkeitsuntersuchung für einen Kreisverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Kultur inklusiv machen - Inklusionsplan für Pankow - überwiesen
+- TOP 1.40: Wohnungsbau an der Greifswalder Straße ermöglichen - in der BVV abgelehnt
+- TOP 1.41: Einbeziehung des Andreas-Hofer-Platzes in das geplante Parkreinigungsprogramm der BSR - überwiesen
+- TOP 1.42: Moratorium beim Vorkaufsrecht für Immobilien in Milieuschutzgebieten - in der BVV abgelehnt
+- TOP 1.43: Barrierefreie Querungen an der Straßenbahnhaltestelle Tino-Schwierzina-Straße sicherstellen - überwiesen
+- TOP 1.44: Carsharing in ganz Pankow - überwiesen
+- TOP 1.45: Hundeauslaufgebiet Weißensee - überwiesen
+- TOP 1.46: Änderung der Parkordnung in der Bizetstraße - überwiesen
+- TOP 1.47: Errichtung von Velorouten in der Bötzowstraße und Hufelandstraße - überwiesen
+- TOP 1.48: Entwicklung der Elisabethaue - überwiesen
+- TOP 1.49: Verlängerung der Autobahn A 100 bis zur Storkower Straße (Bauabschnitt 17) - in der BVV abgelehnt
+- TOP 1.50: Mieterinnen und Mieter schützen durch Anwendung des § 180 BauGB - in der BVV abgelehnt
+- TOP 1.51: Fußgängersicherheit auf dem desolaten Asphaltweg im Michelangelokiez erhöhen - in der BVV abgelehnt
+- TOP 1.52: Empfehlung des BA Pankow beim Senat, die Pläne der Vergabe und der Art und Weise des Betreibens von öffentlichen Toiletten zu stoppen - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Krankenstand bei der Parkraumüberwachung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.1: Mehr Respekt und Wertschätzung für ParkraumüberwacherInnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Car-Sharing-Stellplätze besser gegen Fremdparken schützen (II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Gegen diskriminierende und sexistische Außenwerbung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Freie Bahn für die Stammstrecke der Heidekrautbahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Reinigung der Jugendverkehrsschule Pankow von sog. Graffiti - zurückgezogen
+- TOP 2.8: Städtebauliche Entwicklung des Angers von Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Temporäre Lichtsignalanlage Hubertusdamm/Bahnhofstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Inklusive Sportstättenplanung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Gehwegvorstreckung in der Wilhelm-Wolff-Straße (Grundschule „An den Buchen“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Tätigkeitsbericht der »AG Schulwegsicherheit« - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Schulwegsicherheit am Straßenbahn-Übergang Tassostraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Michelangelostraße: Vorgehensweise für die weiteren Planungsschritte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Teilnahme des Bezirkes Pankow am berlinweiten Umweltprojekt »Refill Berlin. Kostenfrei Trinkwasser« - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Alternativer Standort für den Vogelgnadenhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Barrierefreie Gestaltung der Internetseiten von Bezirksamt und BVV Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Schulplatzmangel entgegenwirken – Neugründung von Gemeinschaftsschulen in den Fokus stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Bedarfsgerechte Ausstattung der Schulen in Pankow mit Hausmeisterstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Coding Hub in Pankow bekannt machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplan XVIII-15, Bebauungsplan XVIII-16, Bebauungsplan XVIII-31 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 BauGB für das Gebiet "Langhansstraße" im Bezirk Pankow von Berlin, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 BauGB für das Gebiet "Komponistenviertel" im Bezirk Pankow von Berlin, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 BauGB für das Gebiet "Pankow-Süd" im Bezirk Pankow von Berlin, Ortsteil Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Nachweis der im 1. Halbjahr 2017 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Erweiterung des räumlichen Geltungsbereiches der Erhaltungsverordnung gemäß § 172 Absatz 1 Satz 1 Nummer 2 Baugesetzbuch (BauGB) für das Gebiet "Humannplatz" im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg, vom 17.10.2000, GVBl für Berlin 2000, Seite 468 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Erweiterung des räumlichen Geltungsbereiches der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet "Bötzowstraße" im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg, vom 27.05.2014, GVBl. für Berlin 2014, Seite 213 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
