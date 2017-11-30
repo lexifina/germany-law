@@ -1,0 +1,8 @@
+# TOP 4: Lärmaktionsplan der Stadt Münster
+
+- Sitzung: Sitzung (Etat) (2017-11-30)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/177020
+- Ergebnis: mehrheitlich geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/64092
