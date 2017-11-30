@@ -1,0 +1,10 @@
+# TOP 5.: Bürgerantrag des Ortsverbands DIE LINKE; Maßnahmen zur Reduzierung der Feinstaubbelastung in Steinhagen; hier: Bericht über die Ergebnisse der ersten Untersuchung
+
+- Sitzung: Ordnungs- und Umweltausschuss (20. Sitzung) (2017-11-30)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/12854
+- Beratung: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/consultation/11976
+- Beschluss (Datei): Beschlusstext (Bürgerantrag des Ortsverbands DIE LINKE; 
+Maßnahmen zur Reduzierung der Feinstaubbelastung in Steinhagen; 
+hier: Bericht über die Ergebnisse der ersten Untersuchung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY7f0TS3Ed6Ws084Y4J_a5xuB9si6x_vpr4wQtfNDhyN/Beschlusstext_VL-795-2014-2020_-oeffentlich-_Ordnungs-_und_Umweltausschuss_30.11.2017.pdf
