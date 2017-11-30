@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2017:B.301117.XE12.17.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "X"
+aktenzeichen: "X E 12/17"
+decided: "2017-11-30"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201850002/"
+corpus_doc_id: "BFH_NV_2017-11-30_X_E_12_17_STRE201850002"
+cites_law: ["germany/bund/acts/gkg_2004/0003.md", "germany/bund/acts/gkg_2004/0066.md"]
+---
+
+# Bundesfinanzhof, X E 12/17 vom 2017-11-30: Erinnerung - Festgebühr für zwei Beschwerden
+
+## Leitsatz
+
+NV: Für mehrere nach Nr. 6502 der Anlage 1 zu § 3 Abs. 2 GKG gebührenpflichtige Beschwerden, die lediglich äußerlich in einem Beschwerdeschriftsatz und in einer Beschwerdeentscheidung zusammengefasst sind, fällt die Festgebühr mehrfach an .
+
+## Entscheidung
+
+NV: Für mehrere nach Nr. 6502 der Anlage 1 zu § 3 Abs. 2 GKG gebührenpflichtige Beschwerden, die lediglich äußerlich in einem Beschwerdeschriftsatz und in einer Beschwerdeentscheidung zusammengefasst sind, fällt die Festgebühr mehrfach an . Die Erinnerung gegen die Kostenrechnung des Bundesfinanzhofs  Kostenstelle  vom 26. Oktober 2017 KostL 1495/17 (X B 79/17) wird zurückgewiesen.Die Entscheidung ergeht gerichtsgebührenfrei. I.Mit Beschluss vom 25. September 2017 X B 79/17 hat der Senat die Beschwerde des Kostenschuldners und Erinnerungsführers (Erinnerungsführer) gegen die Verwerfung einer Anhörungsrüge durch das Finanzgericht als unzulässig seinerseits als unzulässig verworfen, die Beschwerde gegen die Ablehnung eines Antrags auf Akteneinsicht als unbegründet zurückgewiesen und die Kosten des Beschwerdeverfahrens dem Erinnerungsführer auferlegt. Mit Kostenrechnung vom 26. Oktober 2017 KostL 1495/17 (X B 79/17) hat die Kostenstelle des Bundesfinanzhofs (BFH) dem Erinnerungsführer insgesamt 120 € in Rechnung gestellt. Dieser Betrag kam durch den zweimaligen Ansatz der Festgebühr von 60 € nach Nr. 6502 der Anlage 1 zu § 3 Abs. 2 des Gerichtskostengesetzes (GKG) zustande. Hiergegen hat der Erinnerungsführer Erinnerung eingelegt und unter Bezugnahme auf weitere Verfahren, die noch beim BFH anhängig sind, beantragt, die Vollziehung auszusetzen und von einer Vollziehung der angefochtenen Kostenrechnung einstweilen abzusehen. Er hat die Erinnerung nicht begründet. Die Vertreterin der Staatskasse ist der Erinnerung entgegengetreten. II.1. Die Erinnerung ist unbegründet.a) Der Senatsbeschluss vom 25. September 2017 X B 79/17 hat ausgesprochen, dass der Erinnerungsführer die Kosten des Beschwerdeverfahrens zu tragen hat. Diese Kostengrundentscheidung ist bindend, lässt im Übrigen auch keine Rechtsfehler erkennen.b) Die Kostenstelle hat die Kosten auch in zutreffender Höhe angesetzt. Nach Nr. 6502 der Anlage 1 zu § 3 Abs. 2 GKG wird in Verfahren über nicht besonders aufgeführte Beschwerden, die nicht nach anderen Vorschriften gebührenfrei sind, im Falle der Verwerfung oder Zurückweisung der Beschwerde eine Gebühr von 60 € erhoben. Sowohl die Beschwerde gegen die Entscheidung über eine Anhörungsrüge als auch die Beschwerde gegen die Entscheidung über die Akteneinsicht sind derartige, anderweit nicht genannte Beschwerden, für die auch keine Gebührenfreiheit besteht. Zutreffend ist schließlich auch der doppelte Ansatz der Gebühr. Es handelte sich um zwei sachlich voneinander unabhängige Beschwerden, die auch getrennt hätten eingelegt, registriert und entschieden werden können. Da es sich bei der Gebühr von 60 € um eine streitwertunabhängige Festgebühr handelt, ist der ggf. mehrfache Ansatz im Falle der Beschwerdenhäufung auch sachgerecht (ebenso wohl Hartmann, Kostengesetze, 47. Aufl., KV, Rn 1 zu KV 6500-6502, Rn 3 "Mehrere Beschwerden" zu KV 1812, Rn 8 zu KV 1810; für die insoweit gleichlautenden Gebührentatbestände im Zivilrecht Zöller/Heßler, ZPO, 31. Aufl., § 567 Rz 60: gebührenrechtliche Selbständigkeit der Beschwerden gegen verschiedene Entscheidungen, auch in derselben Sache).2. Mit der Entscheidung über die Erinnerung hat sich der Antrag, nach § 66 Abs. 7 Satz 2 GKG die aufschiebende Wirkung ganz oder teilweise anzuordnen, erledigt.3. Das Verfahren über die Erinnerung ist gerichtsgebührenfrei. Kosten werden nicht erstattet (§ 66 Abs. 8 GKG).
