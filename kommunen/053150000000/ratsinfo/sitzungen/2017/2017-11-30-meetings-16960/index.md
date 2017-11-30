@@ -1,0 +1,51 @@
+# 25. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-11-30T17:04:00+01:00
+- Ende: 2017-11-30T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16960
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16960
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640159.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640159.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640159.pdf
+
+## Tagesordnung
+
+- TOP -: TOP A: Wirtschaftsförderung stärken! - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Newcomers Festival in Köln bzw. der Metropolregion Rheinland etablieren - Kenntnis genommen
+- TOP 3.2: Bilanzierung der Auslandsakquise bei „Schwerpunktländern" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Arbeitstitel: "Gewerbepark Poll - Teilbereich Gewerbepark Poll Nord" in Köln - Poll; Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70439/08 - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70480/12 - ohne Votum in nachfolgende Gremien
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 8.1: Instandhaltungsbedarf Großmarktgelände Köln-Raderberg - Kenntnis genommen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 10.1: Eröffnung des InsurLab Germany im Rahmen der EXEC InsurTech - Kenntnis genommen
+- TOP 10.2: StartupCon erneut mit Besucher- und Ausstellerrekorden und großen Plänen für das Jahr 2018 - Kenntnis genommen
+- TOP 10.3: Cologne and Tel Aviv Innovation Summit 2017 - Kenntnis genommen
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Abschlussbericht zum Pilotprojekt Zwischennutzungsmanagement - ungeändert beschlossen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 12.1: Kommunales Programm für Arbeit und Beschäftigungsfähigkeit - ohne Votum in nachfolgende Gremien
+- TOP 12.2: Sachstandsbericht des Programms "Win-Win für Köln" - Kenntnis genommen
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Mitteilungen
+- TOP 14.1: Stadt Köln & Partner präsentieren sich auf der Expo Real 2017 - Kenntnis genommen
+- TOP 14.2: Chinafest 2017 - Kenntnis genommen
+- TOP 14.3: Film Festival Cologne - Kenntnis genommen
+- TOP 14.4: Dingfabrik e.V. nach erfolgreichem Umzug in Ehrenfeld wieder eröffnet. - Kenntnis genommen
+- TOP 14.5: Berichte zu aktuellen Veranstaltungen aus dem Bereich Kreativwirtschaft - Kenntnis genommen
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 16: Mündliche Anfragen
