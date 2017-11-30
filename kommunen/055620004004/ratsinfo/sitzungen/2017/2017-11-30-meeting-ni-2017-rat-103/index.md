@@ -1,0 +1,53 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2017-11-30T16:00:00+01:00
+- Ende: 2017-11-30T19:40:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2017-RAT-103
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2017-RAT-103
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-RAT-103
+
+## Tagesordnung
+
+- TOP 1: Ernennung einer stellvertretenden Schriftführerin für den Haupt- und Finanzausschuss und den Rat der Stadt Castrop-Rauxel
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Stellenplan 2018
+- TOP 4: Haushaltssanierungsplan 2012 - 2021 Fortschreibung für das Haushaltsjahr 2018
+- TOP 5: Haushaltssatzung und Haushaltsplan 2018 nebst Anlagen
+- TOP 6: Haushaltsplanung für die Jahre 2018 ff. hier: Abstimmung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm "Gute Schule 2020"des Landes
+- TOP 7: Haushaltsüberschreitungen 2016
+- TOP 8: Finanzcontrolling: Unternehmensbericht Stand 15.10.2017
+- TOP 9: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 10: Bereitstellung zusätzlicher Haushaltsmittel bei der investiven Buchungsstelle 61.01/0172.782100 (Auszahlungen für den Erwerb von Grundstücken)
+- TOP 11: Weitere überplanmäßige Mittelbereitstellung gemäß § 83 GO NW bei der Buchungsstelle 36.04.525300 (Erstattung an Gemeinden und Gemeindeverbände)
+- TOP 12: Genehmigung der Dringlichkeitsentscheidung vom 25.10.2017 gemäß § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer weiteren überplanmäßigen Mittelbereitsstellung gemäß § 83 GO NW bei der Buchungsstelle 36.01.533435 (Kosten der Tagespflege)
+- TOP 13: Sicherungsmaßnahmen zur Vermeidung von Vandalismusschäden am Adalbert-Stifter-Gymnasium und Kulturplatz Leo
+- TOP 14: Gebührenbedarfsberechnung 2018 "Friedhofswesen"
+- TOP 15: Berufung und Entsendung eines Vertreters und einer persönlichen Vertreterin des Stadtsportverbandes als sachkundige Einwohner
+- TOP 16: Prüfung des Gesamtabschlusses der Stadt Castrop-Rauxel zum 31.12.2010
+- TOP 17: Prüfung des Gesamtabschlusses der Stadt Castrop-Rauxel zum 31.12.2015
+- TOP 18: Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2016
+- TOP 19: Erlass einer 10. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel
+- TOP 20: Gebührenbedarfsberechnung 2018 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel
+- TOP 21: Gebührenbedarfsberechnung 2018 -Abfallentsorgung- und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 22: Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)
+- TOP 23: Umbesetzung des Jugendhilfeausschusses
+- TOP 24: Gemeinsamer Antrag der CDU und FWI-Fraktion vom 10.11.2017; Zusammenhalt in Vielfalt - 15 Thesen zur kulturellen Integration
+- TOP 25: Gemeinsamer Antrag der CDU und FWI-Fraktion vom 10.11.2017; Struktur und Arbeit des Integrationsrates
+- TOP 26: Antrag SPD-Fraktion vom 14.11.2017; Ausschussumbesetzungen
+- TOP 27: Antrag SPD, Bündnis90 Die Grünen, FDP Ratsfraktionen vom 14.11.2017 "Charta der Vielfalt"
+- TOP 28: Antrag CDU-Fraktion vom 16.11.2017; Erstellung eines Konzepts für einen "Interaktiver Haushalt" auf der städtischen Homepage
+- TOP 29: Genehmigung der Dringlichkeitsentscheidung vom 21.11.2017 gemäß § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer weiteren überplanmäßigen Mittelbereitstellung gemäß § 83 GO NW bei der Buchungsstelle 21.41.524100 (Schülerbeförderungskosten)
+- TOP 30: Genehmigung der Dringlichkeitsentscheidung vom 21.11.2017 gemäß § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer weiteren überplanmäßigen Mittelbereitstellung gemäß § 83 GO NW bei der Buchungsstelle 36.03.533920 (Leistungen nach dem Unterhaltsvorschussgesetz)
+- TOP 31: Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 25.04.543934 - Geschäftsaufwendungen Honorarkräfte-
+- TOP 32: Förderschule mit den Förderschwerpunkten "Lernen" und "Emotionale und soziale Entwicklung" als Verbund ab 01.08.2018
+- TOP 33: Mittelbereitstellung für die Sanierung/Revitalisierung Ascheplatz Stadion an der Bahnhofstraße
+- TOP 34: Anfragen der Ratsmitglieder
+- TOP 35: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
