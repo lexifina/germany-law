@@ -1,0 +1,6 @@
+# TOP 1.: Bekanntgabe der Betriebsergebnisse des Forsthaushaltes 2016
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ortsgemeinderates der Gemeinde Kölbingen (2017-12-01)
+- Körperschaft: Ortsgemeinde Kölbingen
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-5993%7Czt_1%7C1
