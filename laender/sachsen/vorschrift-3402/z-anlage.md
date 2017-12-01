@@ -14,24 +14,25 @@ Leipzig I | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 5. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO | Dresden-Süd | Freistaat Sachsen
 6. | (gestrichen) |  | 
 7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und deren Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
-8. | Betriebsprüfung |  | 
-a) | Betriebsprüfung allgemein | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-b) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
+8. | Betriebsprüfung
+a) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
+Bautzen | Bautzen Hoyerswerda
 Eilenburg | Eilenburg Oschatz
 Freiberg | Döbeln Freiberg Mittweida
+Görlitz | Görlitz Löbau
 Zwickau | Hohenstein-Ernstthal Zwickau
-c) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 12 Millionen Euro | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Mittweida Schwarzenberg Stollberg Zschopau
+b) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 12 Millionen Euro | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
+Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Mittweida Schwarzenberg Stollberg Zschopau
 Dresden-Nord | Dresden-Nord Dresden-Süd Meißen Pirna
 Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
 Zwickau | Hohenstein-Ernstthal Plauen Zwickau
-d) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbaubetriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-e) | Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
-Leipzig II | Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
-f) | Versorgungsbetriebe | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
-Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
-Leipzig II | Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
-g) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertrags-arbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
+c) | Betriebsprüfung Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau
+Dresden-Nord | Bautzen Dresden-Nord Dresden-Süd Görlitz Hoyerswerda Löbau Meißen Pirna
+Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
+d) | Betriebsprüfung Versorgungsbetriebe | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau
+Dresden-Nord | Bautzen Dresden-Nord Dresden-Süd Görlitz Hoyerswerda Löbau Meißen Pirna
+Leipzig II | Eilenburg Grimma Leipzig I Leipzig II Oschatz
+e) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertragsarbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 9. | Lohnsteuer-Außenprüfung |  | 
 a) | für Betriebe mit 100 oder mehr Arbeitnehmern | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
 Bautzen | Bautzen Hoyerswerda
