@@ -1,0 +1,1 @@
+Auf Grund des Art. 6 des Bayerischen Bodenschutzgesetzes (BayBodSchG) vom 23. Februar 1999 (GVBl S. 36, BayRS 2129-4-1-U) erlässt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen folgende Verordnung:
