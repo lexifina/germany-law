@@ -1,0 +1,86 @@
+# 28. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-04T17:00:00+01:00
+- Ende: 2017-12-04T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17102
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17102
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohneranfrage, betr.: Herbol-Gelände - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Parksituation, verschmutzte Gehwege Fridolinstraße in Neu-Ehrenfeld (Az.: 02-1600-75/17) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme der Schenkung von 30 Streichinstrumenten an die KGS Baadenberger Straße 111, Platenstraße 7-9, 50825 Köln - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Parkraumkonzept Ehrenfeld - Kenntnis genommen
+- TOP 6.1.1: Parkraumkonzept Ehrenfeld - Kenntnis genommen
+- TOP 6.2: Umzug der GGS Görlinger Zentrum - Anfrage der CDU-Fraktion aus der Sitzung am 09.10.2017 (Anmerkung: die Beantwortung erfolgt mündlich in der Sitzung durch die Leiterin des Amtes für Schulentwicklung) - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Fahrradständer – Einzelhandel effizient fördern - Kenntnis genommen
+- TOP 7.2: Anfrage der FDP/Piraten-Fraktion, betr.: Status des Grundstücks Akazienweg 187 - Kenntnis genommen
+- TOP 7.2.1: AN/1670/2017, Anfrage FDP/Piraten-Fraktion, Status des Grundstücks Akazienweg 187 - Kenntnis genommen
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Rheinische Musikschule, Regionalschule Ehrenfeld - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Baubeginn für die Schienenverlängerung der Straßenbahnlinie 3 in Bocklemünd - Kenntnis genommen
+- TOP 7.4.1: Baubeginn für die Schienenverlängerung der Straßenbahnlinie 3 in Bocklemünd - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Ampelabbau im Stadtbezirk Ehrenfeld - geändert beschlossen
+- TOP 8.2: Teilsperrung der Philippstraße, 50823 Köln für Kraftfahrzeuge über 7,5t - ungeändert beschlossen
+- TOP 8.3: Lebendige Quartiere erhalten – Verdrängung frühzeitig identifizieren und verhindern! - endgültig zurückgezogen
+- TOP 8.3.1: Ersetzungsantrag der Fraktion Die Linke zu TOP 8.3, Lebendige Quartiere erhalten - Verdrängung frühzeitg identifizieren und verhindern! - ungeändert beschlossen
+- TOP 8.4: Antrag der FDP/Piraten-Fraktion, betr.: Neue Ladezone und Fahrradabstellplätze in der Körnerstraße vor Haus Nr. 96 - 98 - geändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Radweg Militärringstr. - ungeändert beschlossen
+- TOP 8.6: Antrag der CDU-Fraktion, betr.: Eisen- und Kohlenstraße entlasten - zurückgestellt
+- TOP 8.7: Essbares Ehrenfeld anpflanzen - ungeändert beschlossen
+- TOP 8.8: Antrag der FDP/Piraten-Fraktion, betr.: Hundefreilaufflächen in Vogelsang - ungeändert beschlossen
+- TOP 8.9: Anträge der Ratsgruppe GUT, betr.: Runder Tisch Kultur - Heliosgelände (verwiesen aus dem Kulturausschuss, Sitzung 10.10.2017 und dem Stadtentwicklungsausschuss, Sitzung 09.11.2017) - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Parkraumkonzept Ehrenfeld - geändert beschlossen
+- TOP 9.1.1: Bürgereingabe gem. § 24 GO, betr.: Parkraumkonzept
+- TOP 9.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" Projekt "Gemeinsames Kochen mit Geflüchteten und Locals in Köln-Ehrenfeld" (Antrag Nr. 15 auf Gewährung von Zuwendungen aus dem Verfügungsfonds) - ungeändert beschlossen
+- TOP 9.3: Bericht über den Ausführungsstand der Beschlüsse der BV 4 (Jahresbericht) - Nachtrag - geändert beschlossen
+- TOP 9.4: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunne, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.5: Dritte Vergabe der bezirklichen Finanzmittel 2017 - ungeändert beschlossen
+- TOP 9.6: Starke Veedel - Starkes Köln - Sozialraum Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Bezirkssportanlage Everhardstraße in Köln-Ehrenfeld hier: Belagsänderung von Tenne in Kunststoffrasen - ungeändert beschlossen
+- TOP 10.2: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - geändert beschlossen
+- TOP 10.3: Erweiterter Planungsbeschluss Neubau Brücke Weinsbergstraße - geändert beschlossen
+- TOP 10.4: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert beschlossen
+- TOP 10.5: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - ungeändert beschlossen
+- TOP 10.6: TOP 10.6 wird unter TOP 9.6 behandelt
+- TOP 10.7: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - ungeändert beschlossen
+- TOP 10.8: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert beschlossen
+- TOP 10.9: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - abgelehnt (in der Vorberatung)
+- TOP 10.10: Planfeststellungsverfahren für den Umbau des Autobahnkreuzes Köln-Nord (BAB 1 / BAB 57) einschließlich der notwendigen Folgemaßnahmen an Verkehrswegen und Anlagen Dritter auf dem Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 10.11: Einführung des gebundenen Ganztags an der Geschwister-Scholl-Realschule in Ehrenfeld ab Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 10.12: 262. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 12.2: Wettbewerb Zukunft Wohnen - Weiterentwicklung von Bestandssiedlungen in Köln - Kenntnis genommen
+- TOP 12.3: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.4: Antrag der Stadt Köln an die Bezirksregierung Köln nach §45 Absatz 1b Nr. 5 der StVO: Temporeduzierung auf der A57 in Höhe Blücherpark/Kleingärten. Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen u. d. Einzelvertreters Schuster (Deine Freunde) - Kenntnis genommen
+- TOP 12.5: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 12.6: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 12.7: Einhaltung von Tempo 30 auf dem Goldfasanenweg in Vogelsang - Kenntnis genommen
+- TOP 12.8: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln Ossendorf - Kenntnis genommen
+- TOP 12.9: Änderungen zum Fahrplanwechsel 2017 - Kenntnis genommen
+- TOP 12.10: Nachfrage zur Informationsveranstaltung zum Umbau des Autobahnkreuzes Köln-Nord - Kenntnis genommen
+- TOP 12.11: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021 2177/2017 - Kenntnis genommen
+- TOP 12.12: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 12.13: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler - Kenntnis genommen
+- TOP 12.14: Durchforstungsplanung 2018 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 12.15: Start der Helios-Gesamtschule - Kenntnis genommen
+- TOP 12.16: Sachstandsinformationen zur Vogelsanger Straße (1. BA: Innere Kanalstraße bis Ehrenfeldgürtel) - Kenntnis genommen
+- TOP 13: mündliche Anfragen
