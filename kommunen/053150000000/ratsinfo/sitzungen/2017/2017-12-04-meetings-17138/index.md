@@ -1,0 +1,88 @@
+# 27. Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-04T16:00:00+01:00
+- Ende: 2017-12-04T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17138
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17138
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640341.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640341.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640341.pdf
+
+## Tagesordnung
+
+- TOP -: Begrüßung durch die Oberbürgermeisterin Henriette Reker
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - geändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Bewohnerparken Zülpicher Straße/Lindenthalgürtel/Gleueler Straße/Mommsenstraße (Az.: 02-1600-125/17) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Revitalisierung Frechener Bach - Kenntnis genommen
+- TOP 7.1.2: Haus Hubertus in Lövenich, Brauweiler Str. 2 - Kenntnis genommen
+- TOP 7.1.3: Fahrradständer Hermeskeiler Platz - Kenntnis genommen
+- TOP 7.1.4: Tempolimit auf der Neuenhöfer Allee/Anfrage der CDU Fraktion - Kenntnis genommen
+- TOP 7.1.5: Nächtliche Geschwindigkeitsüberschreitungen auf der Dürener Straße/Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Minikreisels Kölner Weg / AmRömerhof / Junkersdorfer Straße - Kenntnis genommen
+- TOP 7.2.2: Gülle im Kölner Westen - Kenntnis genommen
+- TOP 7.2.3: Verkehrsberuhigung Frechener Straße - Kenntnis genommen
+- TOP 7.2.4: Verkehrsberuhigung in der Frechener Straße in Köln-Lindenthal - Kenntnis genommen
+- TOP 7.2.5: Abstellmöglichkeiten für Fahrräder auf der Münstereifeler Str. - Kenntnis genommen
+- TOP 7.2.6: Liegenschaft Weyertal 92 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Leitfaden für bedürftige Bürgerinnen und Bürger - ungeändert beschlossen
+- TOP 8.1.2: Zebrastreifen Brauweiler Str. Heckenweg - ungeändert beschlossen
+- TOP 8.1.3: Geschwindigkeitsmessung auf der Mommsenstraße - ungeändert beschlossen
+- TOP 8.1.4: Sofortmaßnahmen für die Rhöndorfer Straße - ungeändert beschlossen
+- TOP 8.1.5: Ladezone Sülzgürtel - ungeändert beschlossen
+- TOP 8.1.6: Stadtverschönerung und Erhaltungsmaßnahme durch die Erneuerung des Anstrichs an Geländern - geändert beschlossen
+- TOP 8.1.7: Bürgersteig an der Bus-Haltestelle Herriger Gasse - ungeändert beschlossen
+- TOP 8.1.8: Sanierung der Bürgersteige auf der Neuenhöfer Allee - ungeändert beschlossen
+- TOP 8.1.9: Aufhebung Sperrung Zülpicher Straße - endgültig abgelehnt
+- TOP 8.1.10: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Aachener Straße 186 nach Innere Kanalstraße - zurückgestellt
+- TOP 9.1.2: Errichtung einer City-Light-Säule im Einmündungsbereich Maarweg/Stolberger Straße - zurückgestellt
+- TOP 9.1.3: Errichtung einer City-Light-Säule vor dem Grundstück Aachener Straße vor Rosenweg 1 - zurückgestellt
+- TOP 9.1.4: Errichtung einer City-Light-Säule vor dem Grundstück Aachener Straße 285-289 - zurückgestellt
+- TOP 9.1.5: Stadtklima und Stadtverschönerungsprogramm 2017 im Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Plangenehmigungsverfahren für die 1. Baustufe des Projekts Elektronisches Stellwerk (ESTW) linke Rheinseite - ungeändert beschlossen
+- TOP 9.2.2: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert beschlossen
+- TOP 9.2.3: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 9.2.4: Planungsaufnahme zur Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Sporthalle auf dem Grundstück Statthalterhofallee in Köln-Junkersdorf - geändert beschlossen
+- TOP 9.2.5: Zügigkeitserweiterung des Apostelgymnasiums, Gymnasium Biggestraße 2, 50931 Köln in Köln-Lindenthal zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.2.6: 262. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.7: Verkehrsversuch Sperrung Zülpicher Straße - geändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Sanierung von Radwegen und Straßen - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 11.3.2: Sicherheit für Kölner Radfahrer – Einsatz von Sichthilfen für toten Winkel - Kenntnis genommen
+- TOP 11.3.3: Ausweitung Bewohnerparkgebiet Weiden Nord - Kenntnis genommen
+- TOP 11.3.4: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 11.3.5: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 11.3.6: Interkommunale Zusammenarbeit der Städte Pulheim und Köln am Schulzentrum Brauweiler - Kenntnis genommen
+- TOP 11.3.7: Änderungen zum Fahrplanwechsel 2017 - Kenntnis genommen
+- TOP 11.3.8: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 11.3.9: Modellprojekt Stadtteilservice Lindenthal - Kenntnis genommen
+- TOP 11.3.10: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler - Kenntnis genommen
+- TOP 11.3.11: Durchforstungsplanung 2018 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
