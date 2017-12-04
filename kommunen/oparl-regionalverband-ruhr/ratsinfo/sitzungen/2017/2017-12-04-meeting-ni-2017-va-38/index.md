@@ -1,0 +1,58 @@
+# 14. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2017-12-04T10:00:00+01:00
+- Ende: 2017-12-04T11:30:00+01:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2017-VA-38
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2017-VA-38
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-VA-38
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-VA-38
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2018 Beratung und Beschlussfassung
+- TOP 1.2: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten (Titel 777 12): Priorisierung der Maßnahmen für 2018
+- TOP 1.3: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14): Priorisierung der Maßnahmen für das Jahr 2018
+- TOP 1.4: Städtebauförderung hier: Vorstellung des Städtebauförderprogramms „Zukunft Stadtgrün 2017“
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.5: 82. Änderung des Regionalplanes für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Rheinberg Festlegung eines Oberflächengewässers für die zweckgebundene Nutzung 'Ruhehafen' (Ruhehafen Ossenberg) Bekanntmachung im Gesetz- und Verordnungsblatt des Landes NRW
+- TOP 1.6: Änderungsverfahren 22 MH (Düsseldorfer Straße/ Kassenberg in Mülheim an der Ruhr des Regionalen Flächennutzungsplanes der Planungsgemeinschaft Städteregion Ruhr Benehmenherstellung gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP 1.7: 11. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Oberbereiche Bochum und Hagen zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einem Allgemeinen Siedlungsbereich (ASB) auf dem „Brandt“-Gelände in der Stadt Hagen und in der Stadt Gevelsberg Bekanntmachung im Gesetz- und Verordnungsblatt des Landes NRW
+- TOP 1.8: Einbringung der Vorlage für den Erarbeitungsbeschluss des Regionalplans Ruhr in die Verbandsversammlung hier: Mitteilungsvorlage der Verwaltung
+- TOP 1.9: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Haushalt 2018
+- TOP 2.1.1: Benehmensherstellung mit den Mitgliedskörperschaften gemäß § 55 KrO NRW zur Verabschiedung der Haushaltssatzung 2018
+- TOP 2.1.2: Verabschiedung des Haushaltes 2018
+- TOP 2.1.2.1: Absenkung des RVR-Hebesatzes
+- TOP 2.1.2.2: Verabschiedung des Haushaltes 2018 Antrag: Veränderungen im Haushaltsplan zur Erfüllung von Aufgabenstellungen aus dem Strategie- und Zielkonzept des Verbandes
+- TOP 2.1.3: Bericht zum Ergänzungsbeschluss Nr. 9 zum Haushalt 2017 (VV-Sitzung vom 09.12.2016)
+- TOP 2.2: Angelegenheiten der Freizeitgesellschaften - Wechsel in der Geschäftsführung der Revierpark Wischlingen GmbH
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.3: Internationale Netzwerkarbeit: Weltkonferenz für Industriekultur (TICCIH) in Chile 2018
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.4: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Prüfung der Voraussetzungen für eine Neuorganisation / Zukünftige Zusammenarbeit mit der Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 2.4.1: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Prüfung der Voraussetzungen für eine Neuorganisation / Zukünftige Zusammenarbeit mit der Freizeitgesellschaft Metropole Ruhr mbH Änderung des Beschlussvorschlages
+- TOP 2.5: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2016
+- TOP 2.6: Angelegenheiten des EKOCity Abfallwirtschaftsverbandes - Gremienbesetzung - Besetzung im Verbandsrat sowie in der Verbandsversammlung des EKOCity Abfallwirtschaftsverbandes
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.7: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2018
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.8: 
+- TOP 2.9: Fortführung des Kooperationsvertrages Besucherzentrum Hoheward mit den Städten Herten und Recklinghausen
+- TOP 2.10: 
+- TOP 2.11: Anfragen und Mitteilungen
+- TOP -: Ausweisung von BSAB-Flächen auf dem Gebiet der Stadt Wesel hier: Antwort der Verwaltung
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
