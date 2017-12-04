@@ -1,0 +1,55 @@
+# Hauptausschuss (59. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-12-04T17:00:00+01:00
+- Ende: 2017-12-04T21:45:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaMfCkd5qeIGAMsYBrDdRss
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6739
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV_UzB56_7C-FnCMwxJX926NydGJKSRKWz3-Sfl0e5VB/Bekanntmachung_Hauptausschuss_04.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQBR-eYcTRHOREqxcoFx-WEfhxx_G2_u8GDJFSLiVPOm/Oeffentliche_Niederschrift_Hauptausschuss_04.12.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 20.11.2017
+- TOP 2.: 7. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS -
+- TOP 2.1: Haushaltsberatungen 2018 hier: Gebührenerhöhung in der Kunst- und Musikschule Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017 - (kein Text vorhanden)
+- TOP 3.: Brühler Ordnungsdienst
+- TOP 4.: Flachdachsanierung Gesamtschule hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 5.: "Gute Schule 2020" Mittelverwendung im Haushaltsjahr 2018
+- TOP 5.1: Gute Schule 2020 Änderung der Mittelverwendung für das Förderjahr 2017
+- TOP 5.2: Haushaltsberatungen 2018 hier: Gute Schule 2020 Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017 - (kein Text vorhanden)
+- TOP 6.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2018
+- TOP 6.1: Beratung Haushaltsentwurf 2018 hier: 1. zweite verwaltungsseitige Fortschreibung 2. Beantwortung von offenen Fragen
+- TOP 6.1.1: Einwendungen gegen den Entwurf der Haushaltssatzung 2018 - hier: Stellungnahme IHK-
+- TOP 6.2: Stellenplan; hier: Kompetenzen von Bürgermeister und Rat
+- TOP 6.2.1: Haushaltssatzung 2018 hier: Stellenplan und Stellenübersicht nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 6.3: Haushaltsberatungen 2018 hier: Anträge der SPD-Fraktion vom 18.11.2017
+- TOP 6.4: Haushaltsberatungen 2018 hier: Radmasterplan Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017
+- TOP 6.5: Haushaltsberatungen 2018 hier: Projekt "Achtung Kinder" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017
+- TOP 6.6: Haushaltsberatungen 2018 hier: Parken in den Stadtteilen Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017
+- TOP 6.7: Haushaltsberatungen 2018 hier: Jubiläum Kunst- und Musikschule Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017
+- TOP 6.8: Haushaltsberatungen 2018 hier: Verzicht auf die geplante Erhöhung der Gewerbesteuer Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017
+- TOP 6.9: Haushaltsberatungen 2018 hier: Analyse und Optimierung der Konzernstruktur Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 28.11.2017
+- TOP 6.10: Haushaltsberatungen 2018 Bezug: Antrag der FDP-Fraktion vom 27.11.2017
+- TOP 6.11: Haushaltsberatungen 2018 Bezug: Anträge der Fraktion Linke&Piraten vom 28.11.2017
+- TOP 6.12: Finanzierung des Abbaus der Wasserspielgeräte Spielplatz Maiglerstraße Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 01.12.2017
+- TOP 6.13: Qualitative Verbesserung im Bereich Kita-Essen Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 01.12.2017
+- TOP 6.14: Teilnahme am "ÖPNV Kundenbarometer 2018" Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 01.12.2017
+- TOP 6.15: Stelleneinrichtung im FB 40 Schule für die strategische Entwicklung der Schullandschaft im Bereich Schulentwicklung, Digitalisierung und Vernetzung von Schulen und Arbeitswelt Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 01.12.2017
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen
+- TOP 8.1: Thüringer Platz
+- TOP 8.2: Flughafen Köln/Bonn
+- TOP 8.3: Max Ernst Kabinett
+- TOP 8.4: Bushaltestelle Nikolaushang
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Mitteilungen
+- TOP 10.: Haushaltssatzung 2018 hier: Erläuterungen zum Stellenplan 2018
+- TOP 11.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 12.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk II (nördlicher Stadtbezirk) - (kein Text vorhanden)
+- TOP 13.: Anfragen
