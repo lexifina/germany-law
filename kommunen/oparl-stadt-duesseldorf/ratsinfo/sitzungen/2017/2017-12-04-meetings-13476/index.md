@@ -1,0 +1,63 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-12-04T15:00:00+01:00
+- Ende: 2017-12-04T15:55:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13476
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13476
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00306319.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00306319.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00306319.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfrage CDU: Großwerbeanlagen in Düsseldorf - beantwortet
+- TOP 4: Jahresabschluss und Lagebericht 2016 des Stadtbetriebs Zentrale Dienste - einstimmig beschlossen
+- TOP 5: Jahresabschluss zum 31.12.2016 und Lagebericht für das Wirtschaftsjahr 2016 des Stadtentwässerungsbe - einstimmig beschlossen
+- TOP 6: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2018 - - einstimmig beschlossen
+- TOP 7: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - einstimmig beschlossen
+- TOP 8: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - mehrheitlich beschlossen
+- TOP 9: Gebührenkalkulation Straßenreinigung für 2018 - mehrheitlich beschlossen
+- TOP 10: 32. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupt - mehrheitlich beschlossen
+- TOP 11: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes - mehrheitlich beschlossen
+- TOP 12: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düssel - mehrheitlich beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2018 - mehrheitlich beschlossen
+- TOP 14: 28. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 15: 13. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 16: Änderungssatzung zur Gebührensatzung für Übergangsheime und Obdachlosenunterkünfte der Landeshauptst - mehrheitlich beschlossen
+- TOP 17: Marktplatz 1-3, Verwaltungsgebäude, Erneuerung der Lüftungs- und Klimatechnik - Ausführungs- und Fin - zurückgezogen
+- TOP 18: Gemeinsamer Controllingbericht der Stadtkämmerin und des Personaldezernenten - zur Kenntnis genommen
+- TOP 19: Etatberatung 2017
+- TOP 19.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2018 mit Anlagen - passieren lassen
+- TOP 19.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung - passieren lassen
+- TOP 19.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2018 - passieren lassen
+- TOP 19.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2018 - passieren lassen
+- TOP 20: Controlling in der Flüchtlingshilfe - zur Kenntnis genommen
+- TOP 21: -
+- TOP 22: GGS Regenbogenschule Kirchfeldstraße 74-80 – Neubau einer 3-zügigen Grundschule und Sanierung der Be - mehrheitlich beschlossen
+- TOP 23: Theodor-Litt-Realschule, Theodor-Litt-Straße 5-11, Abriss und Ersatzneubau - einstimmig beschlossen
+- TOP 24: Anpassung des Zuschusses für die Neue Schauspiel GmbH für das Haushaltsjahr 2017 an die Wirtschaftsp - einstimmig beschlossen
+- TOP 25: Klimaanpassungskonzept für die Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 26: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf - einstimmig beschlossen
+- TOP 27: Abschluss einer öffentlich rechtlichen Vereinbarung zur Durchführung der Beihilfesachbearbeitung für - einstimmig beschlossen
+- TOP 28: Mitgliedschaft der Landeshauptstadt Düsseldorf im "Verein zur Förderung der Wissensregion Düsseldorf - einstimmig beschlossen
+- TOP 29: ???
+- TOP 30: Vorabbekanntmachung einer Direktvergabe von öffentlichen Personenverkehrsdiensten - passieren lassen
+- TOP 31: Betrauung einer städt. Beteiligungsgesellschaft mit gemeinwirtschaftlichen Aufgaben - einstimmig beschlossen
+- TOP 32: Berufung der Mitglieder der Kunstkommission Düsseldorf - einstimmig beschlossen
+- TOP 33: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - einstimmig beschlossen
+- TOP 34: Wiederwahl der Schiedsfrau Barbara Materne-Blunk - einstimmig beschlossen
+- TOP 35: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 36: Genehmigung einer Dienstreise - mehrheitlich beschlossen
+- TOP 37: Kriterien des Verkaufs 2er Baugrundstücke im Bieterverfahren und der Verkauf an den jeweils Höchstbi - einstimmig beschlossen
+- TOP 38: Kriterien des Verkaufs eines Grundstückes im Bieterverfahren und Verkauf an den Höchstbietenden - zurückgezogen
+- TOP 39: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 06/016 - Theodorstraße / A 52 - mehrheitlich beschlossen
+- TOP 40: Flächenplanänderung Nr. 120 -Ulmer Höh´- Stellungnahmen und Planbeschluss - einstimmig beschlossen
+- TOP 41: Bebauungsplan Nr. 01/010 Ulmer Höh´- Südteil Stellungnahmen, Änderungen in roter Farbe und Satzung - einstimmig beschlossen
+- TOP 42: Antrag CDU:Konzept zu Großwerbeanlagen in Düsseldorf - mehrheitlich abgelehnt
