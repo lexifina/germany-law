@@ -1,0 +1,76 @@
+# 25. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-04T17:00:00+01:00
+- Ende: 2017-12-04T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17259
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17259
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Verkehrsentlastung in Köln-Mülheim
+- TOP 1.2: Verkehrsfluss an der Kreuzung Frankfurter Straße/Montanusstraße im Rahmen des "Optimierten Buskonzeptes Mülheim-Süd, Kalk und Vingst
+- TOP 1.3: Optimiertes Buskonzept für Mülheim-Süd, Kalk und Vingst: Schutzstreifen für Radfahrer auf der Frankfurter Straße; Zielgruppe der Buslinie und Verkehrskonzept für Köln-Mülheim
+- TOP 1.4: Sachstand zur Anfrage an die Deutsche Bahn als Eigentümerin des Bahnhofsvorplatzes Bahnhof Köln-Mülheim zu einem evtl. Umbau
+- TOP 1.5: Einführung einer neuen Buslinie
+- TOP 1.6: Genehmigung von Baumfällungen und Anlegen von Einstellplätzen in der Keupstraße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgerantrag auf Umbenennung der Elisabeth-Moses-Straße in Köln-Dellbrück AZ.: 02-1600-105/17 - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Entlastung des Stadtbezirks Köln-Mülheim vom Lkw-Verkehr (Az.: 02-1600-72/17) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gemäß § 24 GO - Gasmotorenfabrik Deutz in Köln-Mülheim/-Deutz; Az.. 02-1600-22/17 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage der Fraktionen SPD und Bündnis 90/ Die GrünenUmrüstung des Ascheplatzes des Vereins FC Germania Mülheim zu einem Kunstrasenplatz / AN 1226/2017 - Kenntnis genommen
+- TOP 7.1.2: Beginn der Umgestaltungsmaßnahme Dellbrücker Marktplatz - Kenntnis genommen
+- TOP 7.1.3: Radweg an der Wichheimer Straße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der SPD-Fraktion: Beginn Zeitpunkt der Umsetzung der Maßnahme Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 7.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen: Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen
+- TOP 7.2.3: Anfrage der Fraktion Bündnis 90/Die Grünen: Planungen ehemaliger Güterbahnhof Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.3.1: "Planungen ehemaliger Güterbahnhof in Köln-Mülheim" - Kenntnis genommen
+- TOP 7.2.4: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Maßnahmen zur Einhaltung des Parkverbots auf dem beidseitigen Fuß- und Radweg entlang des Auenwegs in Mülheim - Kenntnis genommen
+- TOP 7.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Bahnhofsvorplatz Bahnhof Mülheim - Reinigung Fahrradabstellanlagen - ungeändert beschlossen
+- TOP 8.1.2: Antrag der CDU-Fraktion: Verbesserung des ÖPNV in bzw. für Dünnwald - ungeändert beschlossen
+- TOP 8.1.3: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Einführung Tempo 30 km/h auf der Bergisch Gladbacher Straße zwischen Otto-Kayser Str./Diepeschrather Str. bis zur Stadtgrenze Bergisch Gladbach - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Berliner Straße gegenüber 68 - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - geändert beschlossen
+- TOP 9.2.2: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert beschlossen
+- TOP 9.2.3: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - ungeändert beschlossen
+- TOP 9.2.4: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert beschlossen
+- TOP 9.2.5: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 9.2.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Vorhabenbezogenen Bebauungsplan-Entwurf 70465/01 - ungeändert beschlossen
+- TOP 9.2.7: 262. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.8: Oberer Wichheimer Kirchweg in Köln-Holweide und Köln-Merheim; 73479/08; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 9.2.9: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70480/12 - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.4: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.5: Standortprüfungen zur Beschaffung weiterer Container zur Abmilderung des Schulbaunotstandes - Kenntnis genommen
+- TOP 10.2.6: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 10.2.7: Wettbewerb Zukunft Wohnen - Weiterentwicklung von Bestandssiedlungen in Köln - Kenntnis genommen
+- TOP 10.2.8: Änderungen zum Fahrplanwechsel 2017 - Kenntnis genommen
+- TOP 10.2.9: Optimiertes Buskonzept für Mülheim Süd, Kalk und Vingst - Dringlichkeitsantrag der Bezirksvertretung Müheim in der Sitzung am 9.10.2017, TOP 8.1.7 - Kenntnis genommen
+- TOP 10.2.10: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 10.2.11: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
