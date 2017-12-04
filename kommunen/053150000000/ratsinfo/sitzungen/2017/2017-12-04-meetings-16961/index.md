@@ -1,0 +1,64 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-04T15:00:00+01:00
+- Ende: 2017-12-04T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16961
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16961
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640701.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640701.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00640701.pdf
+
+## Tagesordnung
+
+- TOP -: Bericht der Polizei Köln - "Zurück schauen. Nach vorne denken!" - Symposium Silvester 2017
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der mdl. Nachfrage: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" (2561/2017)
+- TOP 3.2: Beantwortung der Anfrage zur Situation des Hauses Bergisch-Gladbacher Str. 93 sowie dessen Bewohner*innen
+- TOP 3.3: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021
+- TOP 3.4: Beantwortung einer mdl. Nachfrage aus einer früheren Sitzung - Ergänzung der Übersicht drittmittelgeförderte Projekte - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 5: Mitteilungen
+- TOP 5.1: Volkshochschule Köln: talentCAMPus 2017 war wieder ein Erfolg!
+- TOP 5.2: 3. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln
+- TOP 5.3: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen
+- TOP 5.4: Verpflegung in Gemeinschaftsunterkünften für Geflüchtete
+- TOP 5.5: Darstellung der Sparten im Kulturausschuss
+- TOP 5.6: 17. Flüchtlingsbericht
+- TOP 5.7: Änderungen zur Bezuschussung von Interkulturellen Kunstprojekten 2017
+- TOP 5.8: Beantwortung der Anfrage der Fraktion DIE LINKE AN/1310/2017 zum Thema "Interkulturelle Kompetenz der Stadtverwaltung"
+- TOP 5.9: Beantwortung einer Anfrage der AfD zu 'Freiwillige Weiterführung des Rates für Integration'
+- TOP 5.10: Aktueller Sachstand über die Teilnahme der Stadt Köln am Landesprogramm "Kommunale Präventionsketten".
+- TOP 5.11: Projekt „Sprach- und Integrationsmittlerpool für die Stadt Köln“
+- TOP 5.12: ZMI – Zentrum für Mehrsprachigkeit und Integration: „Eckpunkte zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen“
+- TOP 5.13: Unterbringung von besonders schutzbedürftigen Geflüchteten mit LSBTI Hintergrund Wohnprojekt Vogelsang
+- TOP 5.14: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur mehrsprachigen Förderung in Kölner Kitas - zurückgestellt
+- TOP 6.2: Antrag zu Bildern auf Homepage, Ergänzung „Frau mit Kreuz“ (christliches Symbol) - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 6.2 - Bilder auf Homepage - endgültig zurückgezogen
+- TOP -: 2. Änderungsantrag zu TOP 6.2 - Bilder auf Homepage - endgültig abgelehnt
+- TOP 6.3: Antrag auf Verabschiedung einer Resolution „Toleranz und gegenseitige Achtung sind für alle" - zurückgestellt
+- TOP 6.4: Antrag auf Verabschiedung einer Resolution „Diskriminierung, Rassismus, Radikalismus und ..." - zurückgestellt
+- TOP 6.5: Zentrales Migrationsmuseum in Köln - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert beschlossen
+- TOP 8.2: Errichtung einer Unterkunft für geflüchtete Familien auf dem städtischen Grundstück Kuckucksweg 10, 50997 Köln - Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert beschlossen
+- TOP 8.3: Ausländerrechtliche Beratungskommission; Bestimmung neuer ordentlicher und stellvertretender Mitglieder - ungeändert beschlossen
+- TOP 8.4: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 hier: Verteilung Restmittel 2017 – Kampagne für Vielfalt und Wertschätzung, gegen Intoleranz, Diskriminierung und Ausgrenzung im Rahmen von Diversity - ungeändert beschlossen
+- TOP 8.5: Antrag auf Anerkennung als Interkulturelles Zentrum, hier: Soziales und Kulturelles Zentrum Rhein-Peri-Kreis e.V., Modemann Str. 3, 51065 Köln - zurückgestellt
+- TOP 8.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg - Umplanungsbeschluss - ungeändert beschlossen
+- TOP 8.7: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg Planungsbeschluss - zurückgestellt
+- TOP 8.8: Mindeststandards zur Flüchtlingsunterbringung - Stärkung Koordination Ehrenamt - ohne Votum in nachfolgende Gremien
+- TOP 8.9: Gewährung von Zuwendungen für interkulturelle und Integrationsprojekte (Anträge von Bürgerhaus MüTZe, Kulturbunker Mülheim und Bürgerzentrum Alte Feuerwache) - ohne Votum in nachfolgende Gremien
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
