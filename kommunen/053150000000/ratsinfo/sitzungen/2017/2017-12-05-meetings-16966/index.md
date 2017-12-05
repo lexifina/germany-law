@@ -1,0 +1,82 @@
+# 31. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-05T15:08:00+01:00
+- Ende: 2017-12-05T18:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16966
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16966
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00639056.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00639056.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00639056.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Konsequenzen für Politik und Verwaltung aus dem letzten Platz beim ADAC-Monitor ‚Mobil in der Stadt‘ - Sache ist erledigt
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Sanierung Tunnel Kalk - Sache ist erledigt
+- TOP 1.2: Nutzung der „Wolke“ in den U-Bahn-Station Heumarkt - zurückgestellt
+- TOP 1.3: Neubau der Leverkusener Brücke mit Ausbau der A1 – Was unternimmt die Verwaltung zur Verbesserung des Lärmschutzes im Gewerbegebiet Causemannstraße? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.4: Entwicklung von Fahrgastzahlen und Fällen von Schwarzfahren? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.5: 3-D-Zebrastreifen in Köln testen? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.6: Park & Ride Bayerwerk Leverkusen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.7: Anfrage Stadtverkehrsförderung - Nahmobilität 2018 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Kundenparkplätze für die Veedel öffnen! - geändert beschlossen
+- TOP 2.1.1: Ergänzungsantrag zu Top 2.1 „Kundenparkplätze für die Veedel öffnen!“ - endgültig abgelehnt
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: Radverkehrskonzept Innenstadt - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag zu Top 4.5 „Radverkehrskonzept Innenstadt – Radverkehrsführung an den Kölner Ringen“ - endgültig abgelehnt
+- TOP 4.1.2: Radverkehrskonzept Innenstadt - Radverkehrsführung an den Kölner Ringen (2825/2017) - endgültig abgelehnt
+- TOP 4.1.3: gemeinsamer Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 05.12.2017 zu TOP 4.1 Radverkehrsführung an den Kölner Ringen; 2825/2017 - ungeändert beschlossen
+- TOP 4.2: Teilfinanzplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV; Neubau einer Lärmschutzwand Josef-Kallscheuer-Straße in Köln-Sürth - geändert beschlossen
+- TOP 4.3: Aufhebung der Klassifizierung der K28 Sürther Straße und der K30 Am Feldrain, Hammerschmidtstraße und Weißer Straße in Köln Rodenkirchen /Sürth - ungeändert beschlossen
+- TOP 4.4: Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - ungeändert beschlossen
+- TOP 4.5: Verwendung Stellplatzablösemittel zur Förderung des Radverkehrs - zurückgestellt
+- TOP 4.6: Demontage der Lichtsignalanlagen Neusser Straße/Neusser Wall, Neusser Straße/Weißenburgstraße und Neusser Straße/Balthasarstraße und Ersatz durch alternative Betriebsformen - ungeändert beschlossen
+- TOP 4.7: Verkehrsversuch Sperrung Zülpicher Straße - im ersten Durchgang verwiesen
+- TOP 4.8: Fahrscheinloser Tag Köln - ungeändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - ohne Votum in nachfolgende Gremien
+- TOP 5.1.1: Änderungsantrag zu TOP 6.2 – Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - Sache ist erledigt
+- TOP 5.1.2: Änderungsantrag zu TOP 5.1 „Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke“ (2036/2017 ) - Sache ist erledigt
+- TOP 5.2: Erweiterter Planungsbeschluss Neubau Brücke Weinsbergstraße - mit Änderungen empfohlen
+- TOP 5.3: Lärmaktionsplanung nach EU-Umgebungslärmrichtlinie bzw. § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung und abschließender Beschluss zur Stufe 2 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert empfohlen
+- TOP 5.4: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert empfohlen
+- TOP 5.5: Satzung über die abweichende Herstellung der Erschließungsanlage Weidengasse von Pflasterhofweg bis Weidengasse 46 einschließlich in Köln-Weiß - ungeändert empfohlen
+- TOP 5.6: Satzung über die abweichende Herstellung der Erschließungsanlage Vorgebirgstraße von Zollstockgürtel/Raderthalgürtel bis Höniger Platz in Köln-Zollstock - ungeändert empfohlen
+- TOP 5.7: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - im ersten Durchgang verwiesen
+- TOP 5.8: 262. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 5.9: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - im ersten Durchgang verwiesen
+- TOP 5.9.1: Radschnellweg von Mülheim nach Ehrenfeld - Ergänzungsantrag zu Top 5.9 "Weiterplanungsbeschluss Niehler Gürtel" - im ersten Durchgang verwiesen
+- TOP 5.10: Baubeschluss für die Brandschutzsanierung bzw. -ertüchtigung der Stadtbahnhaltestelle Appellhofplatz / Zeughaus sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6903-1202-1-0110, Brandschutz Appelhofplatz - ohne Votum in nachfolgende Gremien
+- TOP 5.11: Umgestaltung des Hermann-Joseph-Platzes, Elogiusplatzes und Augustinerplatzes, hier: Mitteilung über eine Erhöhung der Investitionsauszahlungen gem. § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen - ohne Votum in nachfolgende Gremien
+- TOP 5.12: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung" - Umgestaltung des Kurt-Hackenberg-Platzes - ohne Votum in nachfolgende Gremien
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Unfallgefahr zum neuen Schuljahr durch Elterntaxis - Sache ist erledigt
+- TOP 6.2: Anfrage der Fraktion Die Linke.Köln vom 13.06.2017 betr. Instandsetzung des Radweges im Äußeren Grüngürtel parallel zum Militärring, Sitzung Verkehrsausschuss am 27.06.2017, TOP 1.3 - Sache ist erledigt
+- TOP 6.3: Ampeln in Köln - Sicherheit oder Stressfaktor? - Sache ist erledigt
+- TOP 6.4: Expressbusse statt PKW - Busspur auf dem Clevischen Ring - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.5: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln, Beantwortung einer mündlichen Anfrage zu TOP 7.2 aus der Sitzung des Verkehrsausschusses vom 10.10.2017 - Sache ist erledigt
+- TOP 6.6: Kostenerhöhung für die Gesamtinstandsetzung der Mülheimer Brücke, Anfrage der SPD-Fraktion aus der Sitzung des Verkehrsausschusses am 10.10.2017, AN/1476/2017 - Sache ist erledigt
+- TOP 6.7: Kölner Verkehrs-Betriebe AG (KVB): Wieso nur digitale Karnevalstickets? - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 7.2: Evaluierung der Reinigung am Rheinboulevard - Kenntnis genommen
+- TOP 7.3: Fahrradmitnahme durch Taxis mit Fahrradträgern - Kenntnis genommen
+- TOP 7.4: Kölner Verkehrs-Betriebe AG (KVB): Einführung eines MonatsTickets "MobilPass" im Abonnement - Kenntnis genommen
+- TOP 7.5: Mehr Sicherheit im Kölner Stadtverkehr - Kenntnis genommen
+- TOP 7.6: Änderungen zum Fahrplanwechsel 2017 - Kenntnis genommen
+- TOP 7.7: Stärkung und Ausweitung des KVB-Busnetzes - Kenntnis genommen
+- TOP 7.8: Mitteilung zu den Leitprojekten des Dezernats für Mobilität und Verkehrsinfrastruktur - Kenntnis genommen
+- TOP 7.9: Generalsanierung Tunnel Kalk - Kenntnis genommen
+- TOP 7.10: Zustand der Aufzüge und Rolltreppen im Bereich der U-Bahn-Haltestellen der KVB im Stadtbezirk Kalk; Antrag der SPD-Fraktion vom14.10.2014 AN/1319/2014, 0479/2017 - Kenntnis genommen
+- TOP 7.11: Haushaltsbegleitbeschluss zum HPL 2016/17 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Verkehrssicherheit im Bereich der Kaiserin-Augusta-Schule - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Arbeitskreis "Sicherheit im Straßenverkehr" - Sache ist erledigt
