@@ -1,0 +1,97 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2017-12-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4114865
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4114865
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bauvorhaben Theresienstraße 35, Bürgeranliegen
+- TOP 5.2.2.: Schreiben der Schulleitung der Städtischen Berufsschule für Spedition und Touristik an der Luisenstraße vom 21.11.2017 Gefahrenabwehr für Schülerinnen und Schüler
+- TOP 5.2.3.: Bürgeranliegen vom 21.11.2017 Schadstoffmessungen zwischen Augusten- und Schleißheimer Straße, geplante Wohnan- lage ARRI-Gelände
+- TOP 6.1.: Inkrafttreten der Verschärfung des Glücksspielstaatsvertrages zum 01.07.2017 - Auswirkungen auf die Maxvorstadt
+- TOP 6.2.: entfällt
+- TOP 6.3.: entfällt
+- TOP 6.4.: Kreisverwaltungsreferat Antwortschreiben zu einer Bürgeranfrage (s. TOP A 5.2.1/112017)
+- TOP 6.5.: Abgabe von kaputten Fahrrädern beim Wertstoffmobil
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 19.11.2017 „Veränderung der Grundwasserverhältnisse in der Maxvorstadt. Wie wirkt sich die zuneh- mende Bebauung des Untergrundes durch Keller, Tiefgaragen und öffentliche Infrastruktur- einrichtungen auf die Grundwasserstände in der Maxvorstadt aus?“
+- TOP 2.1.1.: Liste der Bauvorhaben der LBK: 43., 44., 45. KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen der LBK: 42., 43., 44., 45., 46. KW
+- TOP 2.1.3.: Schellingstraße 18, Aufstockung/Neuau Rückgebäude, Vorbescheid
+- TOP 2.1.4.: Schleißheimer Straße 90, Neubau eines Wohngebäudes vertagt aus der Sitzung vom 07.11.2017 Unterlagen liegen bereits vor.
+- TOP 2.1.5.: Denisstraße 5, Neubau eines Gebäudekomplexes mit Hotel, Büros und Gastronomie vertagt aus der Sitzung vom 07.11.2017 Unterlagen liegen bereits vor
+- TOP 2.1.6.: Theresienstraße 35, Aufstockung und Erweiterung EG und Nutzungsänderung vertagt aus der Sitzung vom 07.11.2017 Unterlagen liegen bereits vor.
+- TOP 2.1.7.: Gabelsbergerstraße 38, Erweiterung zweier Wohneinheiten im DG
+- TOP 3.2.1.: Schellingstraße 42, eine Robinie
+- TOP 5.1.: Blutenburgstraße 1, TOP B 5.2/112017, Antwortschreiben der Lokalbaukommission
+- TOP 5.2.: Baureferat Paul-Heyse-Unterführung, Konzept zur Aufwertung
+- TOP 5.3.: Baurefert, Gartenbau Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen in der Maxvorstadt
+- TOP 5.4.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der SPD vom 15.11.2017 „Radfahrstreifen in der Marsstraße“
+- TOP 1.2.: Antrag der SPD vom 14.11.2017 „Sicherheit in der Nymphenburger Straße“
+- TOP 1.3.: Antrag der SPD vom 16.11.2017 „Auskunft über den Stand der modifizierten Alternative 5“
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen vom 19.11.2017 „Begrünung und Aufwertung des Straßenraumes in der Karlstraße zwischen Seidlstraße und Augustenstraße sowie in der Augustenstraße im Bereich Hausnummern 15 bis 19“
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Heßstraße 98
+- TOP 2.3.1.: Wittelsbacherplatz 2, Genehmigung einer Freischankfläche
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen a) Oskar-von-Miller-Ring, Fernwärme b) Schellingstraße zwischen Schwindstraße und Luisenstraße und Schwindstraße südlich der Schellingstraße, Fernwärme c) Schwindstraße 13 bis 17, Verlegung Fernwärmeleitung d) Karlstraße 60 bzw. Seidlstraße 28, Seite Karlstraße, Fernwärme (Verlängerung) e) Königinstraße südlich Veterinärstraße, Straßenbauarbeiten, Vollsperre f) Einrichtung eines Fußgängerüberweges zwischen Friedrichstraße und Türkenstraße und Änderung der Vorfahrtsregelung c) Türkenstraße 47, Fernwärme
+- TOP 3.2.: Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV Antrag Nr. 14-20 / B 04173 des BA 12 Schwabing-Freimann vom 17.10.2017
+- TOP 3.3.: Baumaßnahmen der Stadtwerke a) Ludwigstraße 28, Fernwärme b) Türkenstraße 47, Fernwärme c) Karlstraße 56, Fernwärme
+- TOP 3.4.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a) Heß-, Arcisstraße, Schraudolphstraße, Neuverlegung Fernwärme und Anschluss an Bestandsleitung b) Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV c) Oskar-von-Miller-Ring, Fernwärme Phase 4
+- TOP 3.5.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.6.: Kreisverwaltungsreferat, Erlaubnisbescheid Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz, 27.11. bis 23.12.2017
+- TOP 3.7.: Kommunalreferat, Benennung des Platzes an der Sophienstraße BA-Antrag Nr. 14-20 / B 02533 des BA 3 vom 14.06.2016
+- TOP 3.8.: (U) Kunstareal München - Kunst, Kultur, Wissen Sachstandsbericht 2017, Fortführung Koordination Kunstareal und Finanzierung
+- TOP 3.9.: (U) Bericht zur Entwicklung des Kfz-Bestandes in München Antrag Nr. 08-14 / A 04717 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2013
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der SPD vom 19.11.2017 „Der BA 3 fordert die Landeshauptstadt München auf, im neu zu erbauenden Nachbar- schaftstreff Arnulfpark einen Mädchentreff einzurichten“
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Sozialreferat Ausschreibung „Vom Weltspieltag zum Weltkindertag 2018 im Stadtbezirk“
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Sozialreferat Beschlussvorlagen für die Sitzung des Sozialausschusses und des Kinder- und Jugendhilfe- ausschusses am 28.11.2017 a) Haushaltsplan 2018 für den Bereich „Förderung freier Träger“ des Sozialreferates/Gesell- schaftliches Engagement/Bürgerschaftliches Engagement (BE) und Geschäftsleitung/So- zialplanung b) Haushaltsplan 2018 für den Bereich „Förderung freier Träger“ des Amtes für Soziale Sicherung c) Haushaltsplan 2018 für den Bereich „Förderung freier Träger“ des Stadtjugendamtes d) Haushaltsplan 2018 für den Bereich „Förderung freier Träger“ des Amtes für Wohnen und Migration
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Direktorium, Anhörung Beauftragter gegen Extremismus, BA-Antrag Nr. 14-20 / B 03901 des BA 21
+- TOP F.2.: Stadtkämmerei, Entwurf Mehrjahresinvestitionsprogramm, Unterrichtung stadtteilbezogene Aufstellung
+- TOP G: Nicht öffentliche Sitzung
