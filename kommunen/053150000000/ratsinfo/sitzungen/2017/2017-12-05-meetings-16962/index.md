@@ -1,0 +1,58 @@
+# 25. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-05T15:35:00+01:00
+- Ende: 2017-12-05T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16962
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16962
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00636650.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00636650.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00636650.pdf
+
+## Tagesordnung
+
+- TOP -: Antrag auf Aktuelle Stunde der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Angebot des Brunnen e.V. an die Stadt Köln zur kulturellen Belebung: „Ebertplatz beleben – statt schließen“." - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 4.2: Hallen Kalk; Herbeiführung eines Planungsbeschlusses zur Revitalisierung der ehemaligen KHD Hallen 76 und 77 - ungeändert beschlossen
+- TOP 4.3: Ankauf eines Kunstwerkes von Michel Majerus für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.4: Bezuschussung von Interkulturellen Kunstprojekten für das 1. Halbjahr 2018 - ungeändert beschlossen
+- TOP 4.5: Abschluss eines Vertrages mit der Peter und Irene Ludwig Stiftung und der Stadt Köln betreffend das Museum Ludwig - ungeändert beschlossen
+- TOP 4.6: Sanierung Römisch-Germanisches Museum - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen 2018 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung von Fotografien verschiedener Künstler für das Museum Ludwig - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 8.2: Bestandserfassung in den Museen - Sachstand November 2017 - Kenntnis genommen
+- TOP 8.3: Film Festival Cologne - Kenntnis genommen
+- TOP 8.4: Energiebericht der Museen 2016 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.5: Leitprojekte des Kulturdezernates - Kenntnis genommen
+- TOP 8.6: Umzug des Rautenstrauch-Joest-Museums ist abgeschlossen - Kenntnis genommen
+- TOP 8.7: Kölnisches Stadtmuseum – Im Zuge der Beseitigung der Wasserschäden wurden partielle Asbestbelastungen festgestellt - Kenntnis genommen
+- TOP 8.8: Verlängerung der Betriebsgenehmigung für das Römisch-Germanische Museum um ein weiteres Jahr bis zum 31.12.2018 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua, LVR-Jüdisches Museum im Archäologischen Quartier Köln - Stand: 14.11.2017 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Eifelwall - Stand: 21.11.2017 - Kenntnis genommen
+- TOP 9.3: Generalsanierung Zentralbibliothek Josef-Haubrich-Hof 1
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der SPD-Fraktion betr.: "Zukünftiger Betrieb des "Underground" in Ehrenfeld" - zurückgestellt
+- TOP 11.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sommer Köln" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage "Sommer Köln" - Kenntnis genommen
+- TOP 11.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Kulturelle Bildung" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage "Finanzierung von Angeboten Kultureller Bildung" - Kenntnis genommen
+- TOP 11.4: Anfrage der SPD-Fraktion betr.: "Zuständigkeit für die Kulturbauten" - zurückgestellt
+- TOP 11.5: Anfrage der SPD-Fraktion betr.: "Zukunft des Kulturstandorts Ebertplatz" - zurückgestellt
+- TOP 12: Mündliche Anfragen
