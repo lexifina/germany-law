@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2017-12-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4282164
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4282164
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 07.11.2017
+- TOP 2: Allgemeines
+- TOP 1.: Termine
+- TOP 2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.4.: Verkehrssituation Schaffhauser Str./ Winterthurer Str.
+- TOP 5.9.: (E) Sondernutzung: Verkaufsstand Schweizer Platz
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: Resolution: Fehlende Infrastruktur im 19. Stadtbezirk
+- TOP 7: Unterausschuss Soziales
+- TOP 7.5.: Hermann-Von-Siemens-Sportpark
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Budget der Bezirksausschüsse REGSAM e.V. Aktualisierung und Neuauflage der Broschüre "Informationen für ältere Menschen und deren Angehörige" 2.544,96 € Az: 0262.0-19-0198
+- TOP 3.3.: (U) Entwurf des Mehrjahresinvestitionsprogramm (MIP) 2017-2021
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Katholische Kirchenstiftung St. Joachim Adventskonzert am 03.12.2017 680,00 € Az: 0262.0-19-0200
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Sichtachse Schloss Fürstenried - Frauenkirche
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: Lichtverschmutzung und damit verbundene gesundheitliche Schädigungen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Parksituation Wolfratshauser Str. zwischen Melchiorstr. und Strähuberstr.
+- TOP 5.5.: (E) + (U) Sanierung der Zugangstreppen am S-Bahnhof München-Solln Empfehlung Nr. 14-20 / E 01462 der Bürgerversammlung des Stadtbezirkes 19 – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.05.2017
+- TOP 5.6.: (Antrag) U-Bahnhof Obersendling
+- TOP 5.7.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Widmung der Gesamtstrecke der Blieskastelstraße und der Gesamtstrecke der Mettlacher Straße
+- TOP 5.8.: (A) Absolutes Haltverbot: Nordseite Friedastr., westlich Wolfratshauser Str.
+- TOP 5.10.: (E) Barrierefreier Ausbau Bushaltestellen: Tölzer Str. Haltestelle Obersendling
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Satzungsänderung: Beauftragte gegen Rechtsextremismus (Antrag BA 21)
+- TOP 7.3.: (A) Beschlussentwurf Schulbauoffensive 2013-2030
+- TOP 7.4.: (Antrag) Bad Forstenrieder Park - Längere Öffnungszeiten
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Vermietung stadteigenes Grundstück an der Aidenbachstr.: Lagerung von Zirkuswägen
+- TOP 8.3.: (U) Gaststättenfortführung: Boschetsrieder Str. 63a
+- TOP 8.4.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee: Christbaumverkauf
