@@ -1,0 +1,86 @@
+# 28. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-12-06T17:12:00+01:00
+- Ende: 2017-12-06T20:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10529
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10529
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00415237.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 3: Antrag der Ratsgruppe Piraten/ÖDP an den Rat Nr. A-R/0006/2017 vom 13.02.2017, Einführung einer Kastrations-, Kennzeichnungs- und Registrierungspflicht für Freigänger-Katzen (Anlage) - mehrheitlich geändert beschlossen
+- TOP 4: Zuschusswesen und Zuschussbericht der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 5: Vorabgewinnausschüttung 2017 der Wohn+Stadtbau GmbH (W+S) - mehrheitlich beschlossen
+- TOP 6: Wirtschaftsplan 2018 der Theaterhaus Pumpenhaus gGmbH (Pumpenhaus) - mehrheitlich beschlossen
+- TOP 7: Konzern-Scorecard 2016 - zur Kenntnis genommen
+- TOP 8: Antrag der SPD-Fraktion an den Rat Nr. A-R/0015/2017 sowie Antrag der Bezirksvertretung Münster-Ost A-O/0015/2016 "Neuen Stadtteilrahmenplan für die Stadtteile Gelmer, Mariendorf, Sudmühle und Handorf erstellen" - einstimmig beschlossen
+- TOP 9: Masterplan "Mobilität Münster 2035+" - mehrheitlich geändert beschlossen
+- TOP 10: Straßenbenennung Reinhard-Lettmann-Platz - von der Tagesordnung abgesetzt
+- TOP 11: Digitales Vermittlungskonzept Bürgerhalle/Friedenssaal - einstimmig beschlossen
+- TOP 12: Förderung von Stadterneuerungsprojekten - Sachstand 2017 und Anträge 2018 - einstimmig beschlossen
+- TOP 13: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien - zur Kenntnis genommen
+- TOP 14: "Chancengleichheit ermöglichen: Frühe Bildung geflüchteter Kinder fördern" - mehrheitlich beschlossen
+- TOP 14.1: "Chancengleichheit ermöglichen: Frühe Bildung geflüchteter Kinder fördern"
+- TOP 15: Integrierte Jugendhilfe- und Schulentwicklungsplanung – Teilprojekt: Weiterentwicklung der Kooperation zwischen Kindertageseinrichtungen und Grundschulen - mehrheitlich beschlossen
+- TOP 16: Integrierte Jugendhilfe- und Schulentwicklungsplanung – Übergang von der Kita in die Grundschule am Beispiel der Sozialräume Coerde und Südviertel - mehrheitlich beschlossen
+- TOP 17: Arbeitsmarkt- und Integrationsprogramm 2018 des Jobcenters der Stadt Münster - mehrheitlich beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen im Rahmen der Etatberatungen
+- TOP 18: Errichtungsbeschluss zum Neubau der Feuer- und Rettungswache 3 - einstimmig beschlossen
+- TOP 18.1: Errichtungsbeschluss zum Neubau der Feuer- und Rettungswache 3
+- TOP 19: Quartiersentwicklung Hauptbahnhof - Sachstand und nächste Schritte - mehrheitlich beschlossen
+- TOP 20: Förderprojekt „Schlösser- und Burgenregion Münsterland“ (Touristisches Gemeinschaftsprojekt der Stadt Münster, der Kreise Borken, Coesfeld, Steinfurt und Warendorf, der Regionale 2016-Agentur und des Münsterland e.V.) - einstimmig beschlossen
+- TOP 21: Auslastung und Ausbau der münsteraner Kläranlagen - einstimmig beschlossen
+- TOP 22: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig beschlossen
+- TOP 22.1: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1
+- TOP 23: Bildung, Integration – Zielperspektive Chancengleichheit - einstimmig beschlossen
+- TOP 23.1: Bildung, Integration – Zielperspektive Chancengleichheit
+- TOP 24: Bericht und Finanzierungsvorschlag zu dem Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - mehrheitlich beschlossen
+- TOP 25: "Bedarfsorientiertes Steuerungs- und Förderkonzept der offenen Kinder- und Jugendarbeit und der aufsuchenden Jugendsozialarbeit inklusive der sozialen Gruppenarbeit in Münster" - mehrheitlich beschlossen
+- TOP 26: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - Ergebnisse und Verfahrensvorschläge des interfraktionellen Arbeitskreises Wohnungslosigkeit - mehrheitlich beschlossen
+- TOP 26.1: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - Ergebnisse und Verfahrensvorschläge des interfraktionellen Arbeitskreises Wohnungslosigkeit
+- TOP 27: Existenzsicherung durch leistungsträgerübergreifende Kooperation gewährleisten - einstimmig beschlossen
+- TOP 27.1: Existenzsicherung durch leistungsträgerübergreifende Kooperation gewährleisten
+- TOP 28: Neubau einer 6-Gruppen-Kindertageseinrichtung in Münster-Wolbeck, Middelerstraße - mehrheitlich beschlossen
+- TOP 29: Masterplan 100% Klimaschutz - mehrheitlich beschlossen
+- TOP 30: Lärmaktionsplan der Stadt Münster - mehrheitlich beschlossen
+- TOP 30.1: Lärmaktionsplan der Stadt Münster
+- TOP 31: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 31.1: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 31.2: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 31.3: Abfallgebühren 2018 - einstimmig beschlossen
+- TOP 31.4: Straßenreinigungsgebühren 2018 - einstimmig beschlossen
+- TOP 31.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2018 - einstimmig beschlossen
+- TOP 32: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2018 - mehrheitlich geändert beschlossen
+- TOP -: Vorberatung von sonstigen Ratsentscheidungen
+- TOP 33: Gleichstellungsplan 2021 - mehrheitlich beschlossen
+- TOP 34: Errichtungsbeschluss zur Sanierung des Feuerwehrhauses Geist, Düesbergweg 4 - einstimmig beschlossen
+- TOP 35: Prüfung der Einführung einer Wettbürosteuer in der Stadt Münster - verwiesen zur Vorberatung
+- TOP 36: Gründung der eigenbetriebsähnlichen Einrichtung "Bäder Münster" - weiteres Vorgehen - ohne Beschlussfassung geschoben
+- TOP 37: Vorabgewinnausschüttung auf den Bilanzgewinn 2017 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 38: Förderverfahren gem. § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein- - zur Kenntnis genommen
+- TOP 39: Wirtschaftsplan 2018 von Münster Marketing - mehrheitlich beschlossen
+- TOP 40: Änderung des Schulnamens der Städtischen Gesamtschule Münster-Ost in Mathilde-Anneke-Gesamtschule, Städtische Gesamtschule - einstimmig beschlossen
+- TOP 41: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen - mehrheitlich beschlossen
+- TOP 41.1: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen
+- TOP 42: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2018, inklusive angepasster Wirtschaftsplan 2017 für die Eigentümergemeinschaft der Altenwohnungen am Klarastift - einstimmig beschlossen
+- TOP 43: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 44: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster -Änderung der Richtlinien für die Förderung von Photovoltaikanlagen - einstimmig beschlossen
+- TOP 45: Trägervergabe für Kindertageseinrichtungen
+- TOP 45.1: Trägervergabe für die Kindertageseinrichtung Alt Angelmodde in Angelmodde - mehrheitlich beschlossen
+- TOP 45.2: Trägervergabe für die Kindertageseinrichtung an der Eichendorffstraße in Angelmodde - mehrheitlich beschlossen
+- TOP 45.3: Trägervergabe für die Kindertageseinrichtung am Markweg in Münster-Mitte - mehrheitlich beschlossen
+- TOP 45.4: Trägervergabe für die Kindertageseinrichtung an der Middelerstraße in Wolbeck - mehrheitlich beschlossen
+- TOP 46: Bauleitplanung
+- TOP 46.1: Stadtbezirk West
+- TOP 46.1.1: Bebauungsplan Nr. 441, 2. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 46.2: Stadtbezirk Hiltrup
+- TOP 46.2.1: 68. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 47: Verschiedenes
