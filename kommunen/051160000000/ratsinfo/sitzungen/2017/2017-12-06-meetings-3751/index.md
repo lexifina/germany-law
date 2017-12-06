@@ -1,0 +1,63 @@
+# Ausschuss für Finanzen und Beteiligungen
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-12-06T15:45:00+01:00
+- Ende: 2017-12-06T19:00:00+01:00
+- Ort: Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3751
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3751
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 20. Sitzung des Ausschusses für Finanzen und Beteiligungen am 04.10.2017 - öffentlicher Teil - Kenntnisnahme
+- TOP 2: HSP-Umsetzungsbericht 30.09.2017 - Kenntnisnahme
+- TOP 3: Entwurf des Haushaltes 2018, Haushaltssatzung einschl. Anlagen und HSP - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 3.1: Vierter Nachtrag Tarif Museum Abteiberg und Siebter Nachtrag Tarif Museum Schloss Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 3.2: Weitere Unterstützung der Rollbrettunion e.V. Mönchengladbach zum Erhalt der Skatehalle - Vom Antragsteller zurückgezogen
+- TOP 3.3: Bezirksbürger*innenhaushalt - Mit Stimmenmehrheit abgelehnt
+- TOP 3.4: Entwurf des Hauhaltes 2018 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 3.5: Beratung und Entwurf Haushalt 2018 - Mit Stimmenmehrheit beschlossen
+- TOP 3.6: Haushalt 2018; Einnahme aus Altkleidersammlung Fraktionsantrag "Die Linke" - Mit Stimmenmehrheit abgelehnt
+- TOP 3.7: Haushalt 2018; HSP-Maßnahme 2016-0229 (Reduzierung der Kosten der Unterkunft) Fraktionsantrag "Die Linke" - Mit Stimmenmehrheit abgelehnt
+- TOP 3.8: Haushalt 2018; HSP – Maßnahme 2012-0031 (Übernachtungssteuer) Fraktionsantrag "Die Linke" - Mit Stimmenmehrheit abgelehnt
+- TOP 3.9: Haushalt 2018;hier: HSP - Maßnahme 2012-0085 (Einnahme aus Kursgebühren) Fraktionsantrag "Die Linke" - Mit Stimmenmehrheit abgelehnt
+- TOP 3.10: Antrag zum Etat 2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 3.11: Entwurf des Haushaltes 2018: Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Hau - Mit Stimmenmehrheit abgelehnt
+- TOP 3.12: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschreibung des Hausha - Mit Stimmenmehrheit abgelehnt
+- TOP 3.13: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschreibung des Hausha - Mit Stimmenmehrheit abgelehnt
+- TOP 3.14: Beratung des Entwurfes des Haushaltes 2018 einschließlich de sEntwurfs der Fortschreibung des Hausha - Mit Stimmenmehrheit abgelehnt
+- TOP 3.15: Beratung Entwurf Haushalt 18 Teilnahme "Vitale Innenstädte" - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Stellenplan 2018 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 5: RW-Holding-Modell - Einstimmiger Beschluss
+- TOP 6: Beteiligung der EWMG an der PPG-Nordpark GmbH und der Parken MG GmbH - In die nächste Sitzung des HauptA verschoben
+- TOP 7: Zweiter Nachtrag zur Satzung mags - Mit Stimmenmehrheit beschlossen
+- TOP 8: Öffentlich-rechtliche Vereinbarung mit dem Kreis Heinsberg - Einstimmiger Beschluss
+- TOP 9: Vorabbekanntmachung für die „Direktvergabe“ eines öffentlichen Dienstleistungsauftrags - Einstimmiger Beschluss
+- TOP 10: Beteiligung der NEW Kommunalholding GmbH an der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 11: Beteiligung der NEW Kommunalholding GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 12: HSP 2016-0225 Optimierung von gebäudewirtschaftlichen Aufgabenstellungen - Mit Stimmenmehrheit beschlossen
+- TOP 13: Wirtschaftsplan des Gebäudemanagement Mönchengladbach 2018 - In die nächste Sitzung des HauptA verschoben
+- TOP 14: HSP-Maßnahme 2013-0200, Kreditvergabe im Konzern Stadt; hier: Ausreichung von Darlehen an die EWMG - In die nächste Sitzung des HauptA verschoben
+- TOP 15: Bereitstellung überplanmäßiger Haushaltsmittel - Einstimmiger Beschluss
+- TOP 16: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 17: Überplanmäßige Mittelbereitstellung Krankenhausumlage - Einstimmiger Beschluss
+- TOP 18: Theater mit Zukunft III - Einstimmiger Beschluss
+- TOP 19: Sanierung und Erweiterung der Zentralbibliothek - Einstimmiger Beschluss
+- TOP 20: Verlängerung der Sockelbetragsfinanzierung - Einstimmiger Beschluss
+- TOP 21: Präventionsprojekt HOME - Hilfe und Orientierung für Mönchengladbacher Eltern – Projektverlängerung - An den Hauptausschuss verwiesen
+- TOP 22: Leistungsvereinbarungen Erziehungsberatungsstellen - Einstimmiger Beschluss
+- TOP 23: Leistungsvereinbarung Kinderschutzbund - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarung Zornröschen - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung Menschen im Zentrum - Einstimmiger Beschluss
+- TOP 26: Leistungsvereinbarung Caritas - Einstimmiger Beschluss
+- TOP 27: Leistungsvereinbarung pro familia - Einstimmiger Beschluss
+- TOP 28: Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Begleitung Jugend - Einstimmiger Beschluss
+- TOP 29: 23. NT Kanalgebührensatzung und 10. NT Kleinkläranlagen - Einstimmiger Beschluss
+- TOP 30: Einrichtung von Sonderpunkten im Radknotennetz - In die nächste Sitzung des HauptA verschoben
+- TOP 31: Erhalt des Sozialtickets - Vom Antragsteller zurückgezogen
+- TOP 32: Bienenfreundliches Straßenbegleitgrün - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 33.1: Anfrage von RH Schultz, DIE LINKE
