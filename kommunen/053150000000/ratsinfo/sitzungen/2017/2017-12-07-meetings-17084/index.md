@@ -1,0 +1,122 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-07T16:00:00+01:00
+- Ende: 2017-12-07T20:12:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17084
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17084
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00642671.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00642671.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00642671.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde zur Kriminalität am Eigelstein und Sicherheit in der Innenstadt
+- TOP 2: Aktuelle Informationen zum Projektfortschritt Parkcafe
+- TOP 2.1: Beantwortung einer Anfrage der CDU-Fraktion in der BV 1 bezüglich des Sachstandes des Projektes "Sanierung und Wiederinbetriebnahme des Parkcafés"
+- TOP 2.2: Sachstandsbericht zur "Sanierung des Parkcafés im Kölner Rheinpark"
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Fällung eines Baumes an der Kyotostraße - zurückgestellt
+- TOP 5.2: Umgestaltung des Spielplatzes Schmalbeinstraße/Innerer Grüngürtel in Köln-Neustadt/Nord - geändert beschlossen
+- TOP 5.2.1: Umgestaltung des Spielplatzes Schmalbeinstraße - geändert beschlossen
+- TOP 5.3: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert empfohlen
+- TOP 5.4: Belgisches Viertel in Köln-Neustadt/Nord; Städtebauliches Planungskonzept; frühz. Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 5.5: Chlodwigplatz - ungeändert beschlossen
+- TOP 5.6: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - mit Änderungen empfohlen
+- TOP 5.6.1: Änderungsantrag zu TOP 5.6 - ungeändert beschlossen
+- TOP 5.7: Verkehrsversuch Sperrung Zülpicher Straße
+- TOP 5.8: Demontage der Lichtsignalanlagen Neusser Straße/Neusser Wall, Neusser Straße/Weißenburgstraße und Neusser Straße/Balthasarstraße und Ersatz durch alternative Betriebsformen - zurückgestellt
+- TOP 5.9: Benennung eines Parks in Köln-Innenstadt - ungeändert beschlossen
+- TOP 5.10: Sonderprogramm NRW "Hilfen im Städtebau für Kommunen zur Integration von Flüchtlingen" Antrag Nr. 11 "Offene Fahrradwerkstatt", Antrag Nr. 12 "Spielen verbindet", Antrag Nr. 13 "Konekti-Info" und Antrag Nr. 14 "Konekti-entdecke" - ungeändert beschlossen
+- TOP 5.11: Errichtung einer Stadtinformationsanlage vor dem Grundstück Martinstraße 8 hinter Augustinerstraße - geändert beschlossen
+- TOP 5.11.1: Änderungsantrag zu Beschlussvorlage 3512/2017 - ungeändert beschlossen
+- TOP 5.12: Aufhebungen, Einbeziehungen und Neubenennungen im Baugebiet MesseCity Köln in Köln-Deutz - ungeändert beschlossen
+- TOP 5.13: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2018 - ungeändert beschlossen
+- TOP 5.14: Eigelstein 41 in Köln-Altstadt/Nord; 674613/02; Satzungsbeschluss - ungeändert empfohlen
+- TOP 5.15: Baubeschluss für die Brandschutzsanierung bzw. -ertüchtigung der Stadtbahnhaltestelle Appellhofplatz / Zeughaus sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6903-1202-1-0110, Brandschutz Appelhofplatz - ungeändert empfohlen
+- TOP 5.16: Umgestaltung des Hermann-Joseph-Platzes, Elogiusplatzes und Augustinerplatzes, hier: Mitteilung über eine Erhöhung der Investitionsauszahlungen gem. § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen - ungeändert empfohlen
+- TOP 5.17: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung" - Umgestaltung des Kurt-Hackenberg-Platzes - ungeändert empfohlen
+- TOP 5.18: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Innenstadt) ab dem Jahr 2017 ff. - zurückgestellt
+- TOP 5.19: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert empfohlen
+- TOP 5.19.1: Änderungsantrag zu TOP 5.19 - endgültig abgelehnt
+- TOP 5.20: Ordnungsbehördliche Verordnung über das Öffnen von Verkaufsstellen im Kernbereich Innenstadt am 21.01.2018 - abgelehnt (in der Vorberatung)
+- TOP 6: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 6.2: Bürgereingabe gem. § 24 GO, betr.: Fahrbahnmarkierung in der Domumgebung (Az.: 02-1600-170/16) - zurückgestellt
+- TOP 6.3: Gedenktafel für Christian Daniel Hülsmeyer - ungeändert beschlossen
+- TOP 6.4: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - mit Änderungen empfohlen
+- TOP 6.5: Bürgereingabe gem. § 24 GO, betr.: Parksituation am Hansaring 119 für Anwohner (Az.: 02-1600-84/17) - zurückgestellt
+- TOP 7: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 7.1: Anträge aus früheren Sitzungen
+- TOP 7.1.1: Tempo 30 auf der Dr.-Simons-Straße
+- TOP 7.1.2: Josef-Schwartz-Anlage
+- TOP 7.1.3: Anlieferungsstreifen REWE Markt Jülicher Str.
+- TOP 7.1.4: Haus Ludolf-Camphausen-Straße 36 erhalten - zurückgestellt
+- TOP 7.1.5: Verbesserung der Beleuchtungssituation des Fußgängerwegs zwischen Im Sionstal und Severinstraße - zurückgestellt
+- TOP 7.1.6: Höhere Verkehrssicherheit für Kinder am Bunkerspielplatz und in der Teutonenstr. - Sache ist erledigt
+- TOP 7.1.6.1: Höhere Verkehrssicherheit für Kinder am Bunkerspielplatz und in der Teutonenstr., Ersetzungsantrag zu AN/1154/2017, TOP 7.1.6
+- TOP 7.1.7: Attraktivierung des Josef-Haubrich-Hofes (Altstadt/Süd) - zurückgestellt
+- TOP 7.1.8: Storchenparkpätze und E-Ladezonen Parkplätze für das Severinsklösterchen
+- TOP 7.1.9: Prüfung Radweg Venloer Straße - zurückgestellt
+- TOP 7.1.10: Radabstellanlagen Alteburger Straße 26-28 - zurückgestellt
+- TOP 7.1.11: Sicherheitsmassnahmen am Ebertplatz - zurückgestellt
+- TOP 7.1.12: Fahrbahnparken Brüsseler Straße - zurückgestellt
+- TOP 7.1.13: Parken am Chelsea Hotel
+- TOP 7.1.14: Verengung der Zufahrt zum Ottoplatz am Deutzer Bahnhof - endgültig zurückgezogen
+- TOP 7.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 7.2.1: Tag des guten Lebens“ 2018 im Agnes- und Eigelsteinviertel
+- TOP 7.2.2: Bahnunterführung an der Venloer Straße am Westbahnhof (Neustadt/Nord)
+- TOP 7.2.3: Erneuerung oder Sanierung der Bänke an der Ecke Moltkestraße/ Neue Maastrichter Straße
+- TOP 7.2.4: Neuer Übergang über die Innere Kanalstraße
+- TOP 7.2.5: Umgestaltung des Eisenmarktes - zurückgestellt
+- TOP 7.2.6: Projekt „Embassy of Trees“, Antrag Grüne
+- TOP 7.2.7: Errichtung von Pollern auf der Alteburger Straße (Neustadt/Süd) – Mittelstreifen - endgültig zurückgezogen
+- TOP 7.2.8: Kostenfreie WLAN-Hotspots in den Bereichen des Südbahnhofs und des Bahnhofs West
+- TOP 7.2.9: Einzäunung der Kirchen in der Innenstadt an den Karnevalstagen als Schutz vor Wildpinklern
+- TOP 7.2.10: Hundewiese im Theodor-Heuss-Park 2
+- TOP 7.2.11: Spende Mutterboden an "Bananenrepublik" / Kreisel Bonner Str./Teutoburger Str.
+- TOP 7.2.12: Eilige Sofortmassnahmen zum Ebertplatz, Antrag CDU - zurückgestellt
+- TOP 7.2.12.1: Änderungsantrag zu TOP 7.2.12 "Eilige Sofortmaßnahmen zum Ebertplatz" - zurückgestellt
+- TOP 7.2.12.2: Änderungsantrag zum Antrag der Fraktionen CDU Fraktion „Eilige Sofortmaßnahmen zum Ebertplatz“ (AN/1738/2017) und zum Änderungsantrag der Guten Wählergruppe Köln und der Fraktion Bündnis 90/Die Grünen (AN/1771/2017) - zurückgestellt
+- TOP 7.2.13: Abpollerung Auenweg - zurückgestellt
+- TOP 7.2.14: Protected Bike Lane am Römerturm
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Sachstand "Kuhle" im Römerpark - Sportplatz an der Rheinuferstraße
+- TOP 8.1.1: Bolzplatz Agrippinaufer in Köln-Neustadt/Süd
+- TOP 8.2: Obdachlosen-/“Alkoholkonsum“-Szene auf der Deutzer Freiheit - zurückgestellt
+- TOP 8.3: Veranstaltungen am nördlichen Rheinufer zwischen Hohenzollern- und Zoobrücke
+- TOP 8.3.1: Beantwortung: siehe 12.6
+- TOP 8.4: Gastronomien in der Passage Ebertplatz - zurückgestellt
+- TOP 8.5: Spiel- und Sportgeräte im Klingelpützpark (Altstadt/Nord) - zurückgestellt
+- TOP 8.6: Lackierung am U-Bahn-Abgang Bonner Wall - zurückgestellt
+- TOP 9: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 9.1: Feuerwehrzufahrt Lanxess Arena/Constantinstr. - zurückgestellt
+- TOP 9.2: Quartiersplatz Ursulaplatz/Ecke Am Salzmagazin (Altstadt/Nord) - zurückgestellt
+- TOP 9.3: Stationen für Leihräder (Ford-Räder), Anfrage SPD - zurückgestellt
+- TOP 9.4: Anfrage zur Drehung der Fahrtrichtung im Kartäuserwall - zurückgestellt
+- TOP 9.5: Rechtsrheinische Treppenanlagen der Deutzer Brücke - zurückgestellt
+- TOP 9.6: Bodenmarkierungen für Fußgängerüberwege - zurückgestellt
+- TOP 9.7: Anfrage zur Lichtsignalanlage an der Ecke Lothringer Straße/ Vorgebirgsstraße - zurückgestellt
+- TOP 9.8: Wildwuchs auf der Nordseite der Kasemattenstraße in Deutz - zurückgestellt
+- TOP 9.9: Unterbringung einer Tanzschule im Innenhofbereich Kyffhäuserstr. - zurückgestellt
+- TOP 9.10: Sauberkeit in Deutz, Anfrage CDU - zurückgestellt
+- TOP 10: Mündliche Fragen an die Verwaltung
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Evaluierung der Reinigung am Rheinboulevard
+- TOP 12.2: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 12.3: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes"
+- TOP 12.4: Entfallen/ Verschoben zu 5.19: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung
+- TOP 12.5: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung
+- TOP 12.6: Veranstaltungen am nördlichen Rheinufer zwischen Hohenzollern- und Zoobrücke
+- TOP 12.7: Mitteilung zum TOP 7.2 (mündliche Anfrage des MdR Richter- Türsteherinnen und -steher sowie Sicherheitskräfte in Kölner Clubs und Diskotheken) aus der Sitzung des Ausschusses am 03.07.2017
+- TOP 12.8: Änderungen zum Fahrplanwechsel 2017
+- TOP 12.9: Weihnachtsmärkte auf Plätzen in der Innenstadt
+- TOP 12.10: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler
+- TOP 12.11: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen
