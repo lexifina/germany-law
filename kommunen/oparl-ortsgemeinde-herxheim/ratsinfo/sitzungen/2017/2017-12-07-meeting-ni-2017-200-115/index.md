@@ -1,0 +1,52 @@
+# 29. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2017-12-07T18:30:00+01:00
+- Ende: 2017-12-07T21:30:00+01:00
+- Ort: Rathaus Herxheim, Ratssaal (Nr. 1.10) im 1. OG, Obere Hauptstraße 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2017-200-115
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2017-200-115
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-200-115
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-200-115
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-200-115
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Fortschreibung Einzelhandelskonzept für die Ortsgemeinde Herxheim
+- TOP 3: Bericht des Jugendparlaments Herxheim-Hayna zum Ablauf der Wahlzeit 2015 - 2019
+- TOP 4: Antrag Städtebauförderprogramm 'Aktive Stadtzentren'
+- TOP 5: Bebauungsplan 'Im Bruch'
+- TOP 6: Bebauungsplan 'Hauptstraße, 1. Änderung', Hayna
+- TOP 7: Neubaugebiet 'An der Augustastraße'; Vorstellung der Varianten für die Straßenplanung
+- TOP 8: Feststellung des Jahresabschlusses 2013
+- TOP 9: Finanzwirtschaftliche Eckdaten für die Haushaltsplanung 2018
+- TOP 10: Betriebsführungsvertrag Baubetriebshof
+- TOP 11: Dorfmoderation Hayna
+- TOP 12: Weiterentwicklung der Kita-Bedarfsplanung
+- TOP 13: Förderung des Familienzentrums querbeet Herxheim e. V. für das Jahr 2018
+- TOP 14: Neuausrichtung des Arbeitskreises ?Ortsmarketing und Agenda 21' sowie Festlegung der Verkaufsoffenen Sonntage im Jahr 2018
+- TOP 15: Auftragsvergaben
+- TOP 15.1: Auftragsvergabe zur Erneuerung des BHKW im Waldfreibad
+- TOP 15.2: Auftragsvergaben; Errichtung einer Pergola am Dorfplatz Hayna
+- TOP 15.3: Auftragsvergaben; Erweiterung Kindertagesstätte Nord-West Schlosserarbeiten
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Grundstücksangelegenheiten
+- TOP 18: 
+- TOP 19.1: Mitteilungen und Anfragen; Schöffenwahl 2018
+- TOP 19.2: 
+- TOP 19.3: 
+- TOP 19.4: Mitteilungen und Anfragen; Verschiedenes
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
