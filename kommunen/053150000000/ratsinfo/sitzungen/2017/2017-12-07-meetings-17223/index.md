@@ -1,0 +1,79 @@
+# 26. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-07T17:00:00+01:00
+- Ende: 2017-12-07T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17223
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17223
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00639018.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00639018.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00639018.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführerin gemäß §§ 36 Abs. 5 Satz 2, 52 Abs. 1 GO NRW - ungeändert beschlossen
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Umwandlung von Autostellplätzen in Fahrradstellplätze in den Stadtteilen Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Chorweiler und Kalk"(AZ.: 02-1600-168/16) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Spielplatz Homarstraße in Köln-Vingst - ungeändert beschlossen
+- TOP 6.2: Erweiterung des Trimm-Dich-Parcours im Ökumeneweg in Köln-Merheim - ungeändert beschlossen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: “Schützt das preußische Wegemaß” - endgültig abgelehnt
+- TOP 7.2: Hotspots für Kalk - ungeändert beschlossen
+- TOP 7.3: Herstellung sicherer Querungen im Bereich der Einmündung Auf dem Eichenbrett in die Ostmerheimer Straße in Köln-Merheim - geändert beschlossen
+- TOP 7.4: Aufstellen von Fahrradnadeln in den Eingangsbereichen des Kalker Friedhofs in Köln-Merheim - ungeändert beschlossen
+- TOP 7.5: E-Bike Ladestation an der Endhaltestelle der Linie 9 am Königsforst - geändert beschlossen
+- TOP 7.6: Minimierung des LKW- und PKW-Verkehrs auf der Porzer Straße in Köln-Rath/Heumar - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe der restlichen bezirksorientierten Mittel für das Jahr 2017 - ungeändert beschlossen
+- TOP 8.1.2: Außengastronomie im Kalker Stadtgarten - ungeändert beschlossen
+- TOP 8.1.3: "Partizipatorische Neugestaltung `Platz an St. Adelheid´" in Köln-Neubrück aus dem Programm "Starke Veedel – Starkes Köln" (Einzelmaßnahme 2.10.4 im Sozialraum Ostheim und Neubrück); Bedarfsfeststellungsbeschluss und Umsetzung eines Workshops - geändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert beschlossen
+- TOP 8.2.2: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert beschlossen
+- TOP 8.2.3: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - ungeändert beschlossen
+- TOP 8.2.4: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert beschlossen
+- TOP 8.2.5: Oberer Wichheimer Kirchweg in Köln-Holweide und Köln-Merheim; 73479/08; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 8.2.6: Hallen Kalk; Herbeiführung eines Planungsbeschlusses zur Revitalisierung der ehemaligen KHD Hallen 76 und 77 - geändert beschlossen
+- TOP 8.2.7: Robertstraße in Köln-Kalk; B-Plan-Entwurf 70447/04; Beschluss über Stellungnahmen + Satzungsbeschluss - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Sachstand der Schulbauten im Stadtbezirk Kalk; AN/1504/2017 - Kenntnis genommen
+- TOP 9.1.2: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk (AN/1454/2017), TOP 9.2.2 der Sitzung vom 19.10.2017 - Kenntnis genommen
+- TOP 9.1.3: Sitzung der Bezirksvertretung Kalk vom 19.10.2017, TOP 9.3 Mündliche Anfrage des Bezirksvertreters Müller auf Beschilderung des Kurt-Henn-Platzes in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.4: Spielplatz Josef-Boschbach-Weg in Köln-Vingst - Kenntnis genommen
+- TOP 9.1.5: Generalinstandsetzung - Kaiserin Theophanu Gymnasium - Kenntnis genommen
+- TOP 9.1.6: Bauvorhaben Kratzweg 70 in Köln-Merheim - Kenntnis genommen
+- TOP 9.1.7: Spielplatz Kalker Stadtgarten in Köln-Kalk - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Sachstand zur Schaffung eines S-Bahn-Haltepunktes „Deutzer Feld“ - Kenntnis genommen
+- TOP 9.2.2: Radverkehrskonzept für den Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.3: Barrierefreiheit bei der KVB im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.4: Erschließung der Siedlung Oberer Bruch in Köln-Brück - Kenntnis genommen
+- TOP 9.2.5: Zeitpunkt der Beschlussumsetzung des Baus der beiden Kreisverkehre Dattenfelder/Hans-Schulten-Straße und Neubrücker Ring/Rather Kirchweg in Köln-Brück/-Neubrück - Kenntnis genommen
+- TOP 9.2.6: Realisierungen von Kreisverkehren im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.7: Verzögerte Beantwortung von Anfragen in der Bezirksvertretung Kalk - Kenntnis genommen
+- TOP 9.2.8: Straßenbahntrassen zu Busspuren - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Information zur Aktualisierung der Spielplatzbedarfsplanung - Beschluss der Bezirksvertretung Nippes vom 29.06.2017 zu "Bericht über Spielplätze im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 10.2.3: Oberirdische Öffnung der U-Bahn-Haltestelle Fuldaer Straße in Köln-Höhenberg. Antrag der CDU-Fraktion vom 22.08.2017. (AN/1110/2017) - Kenntnis genommen
+- TOP 10.2.4: Zebrastreifen/Querungshilfe auf der Homarstraße und Kampgasse in Höhe des Kinderspielplatzes in Köln-Vingst - Kenntnis genommen
+- TOP 10.2.5: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.6: Änderungen zum Fahrplanwechsel 2017 - Kenntnis genommen
+- TOP 10.2.7: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 10.2.8: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler - Kenntnis genommen
