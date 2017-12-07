@@ -1,0 +1,58 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-07T16:00:00+01:00
+- Ende: 2017-12-07T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16967
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16967
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00641090.pdf
+- Ergebnisprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00641090.pdf
+- Wortprotokoll: Tagesordnung Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00641090.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Hohe Folgekosten bei Kunstrasenplätzen - Sache ist erledigt
+- TOP 1.1.1: Anfrage der Ratsgruppe GUT - Hohe Folgekosten bei Kunstrasenplätzen (AN1344/2017) - Kenntnis genommen
+- TOP 1.2: Nutzung von Landstrom in den Kölner Häfen - Sache ist erledigt
+- TOP 1.2.1: Nutzung von Landstrom - Kenntnis genommen
+- TOP 1.3: Kölner Vorgärten - zurückgestellt
+- TOP 1.4: Betrieb städtischer Gebäude im Passivhaus-Standard - zurückgestellt
+- TOP 1.5: Gemeinsame Anfrage von CDU-Fraktion und Fraktion Bündnis 90 / Die Grünen Verbreiterung der A59 - Kompensationsmaßnahmen im Rechtsrheinischen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der FDP-Fraktion Überarbeitung des Pflege- und Entwicklungsplans für das Naturschutzgebiet "Flittarder Rheinauen" - zurückgestellt
+- TOP 2.1.1: Stellungnahme zum Antrag der FDP-Fraktion: Überarbeitung des Pflege- und Entwicklungsplans für das Naturschutzgebiet "Flittarder Rheinauen" - zurückgestellt
+- TOP 2.2: Belastung der Atemluft - Sache ist erledigt
+- TOP -: Belastung der Atemluft - ungeändert beschlossen
+- TOP 2.2.1: Belastung der Atemluft (AN/1287/2017) - Kenntnis genommen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Sachstandsmitteilung Klimaschutz und SmartCity Cologne - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag von CDU-Fraktion und Fraktion Bündnis 90/Die Grünen TOP 4.1: Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Lärmaktionsplanung nach EU-Umgebungslärmrichtlinie bzw. § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung und abschließender Beschluss zur Stufe 2 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie 2. Durchgang - ungeändert empfohlen
+- TOP 4.3: Errichtung einer Unterkunft für geflüchtete Familien auf dem städtischen Grundstück Kuckucksweg 10, 50997 Köln - Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert empfohlen
+- TOP 4.4: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ungeändert empfohlen
+- TOP 4.5: Neubeschaffung von 6 Elektro Schmalspur Kippern mit Einzelkabine (bis 3,5 t) für die Grünpflege und die Bestattungen auf den Kölner Friedhöfen - ungeändert beschlossen
+- TOP 4.6: Ersatzbeschaffung von 6 Kolonnenfahrzeugen für die Pflege und Unterhaltung von Straßenbaumscheiben gem. Fahrzeug- und Maschinenkonzept 2017 – 2025 - ungeändert beschlossen
+- TOP 4.7: Lieferung von Holz in verschiedenen Sortierungen - Jahresbedarf 2018/2019 - ungeändert empfohlen
+- TOP 4.8: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunne, Blumen und Gewässer im Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - ohne Votum in nachfolgende Gremien
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 7.2: Evaluierung der Reinigung am Rheinboulevard - Kenntnis genommen
+- TOP 7.3: Prüfung der Ausweisung einer Hundefreilauffläche in Worringen nahe dem Naturschutzgebiet N4 - Kenntnis genommen
+- TOP 7.4: Kostenerhöhung bei der Beschaffung von Fahrzeugen aus dem Fahrzeug- und Arbeitsmaschinenkonzept, Teilbereich Friedhöfe - Kenntnis genommen
+- TOP 7.5: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln Ossendorf - Kenntnis genommen
+- TOP 7.6: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
