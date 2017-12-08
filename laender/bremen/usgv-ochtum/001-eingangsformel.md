@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 76 Absatz 2 und des § 78 Absatz 5 Nummer 6 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2193), das zuletzt durch Artikel 1 des Gesetzes vom 30. Juni 2017 (BGBl. I S. 1972) geändert worden ist, in Verbindung mit § 58 und § 92 Absatz 3 des Bremischen Wassergesetzes vom 12. April 2011 (Brem.GBl. S. 262 - 2180-a-1), das zuletzt durch das Gesetz vom 15. Dezember 2015 (Brem.GBl. S. 622) geändert worden ist, wird verordnet:
