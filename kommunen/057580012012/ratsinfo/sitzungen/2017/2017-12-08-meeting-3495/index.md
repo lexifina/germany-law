@@ -1,0 +1,74 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2017-12-08T16:00:00+01:00
+- Ende: 2017-12-08T20:41:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTBX6whiunCHaP185LGMxTM
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3495
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-RHsf17NsQ6_QGHraDyiJ1lspzm-Lk8jeLaQbOugGw/Einladung_Rat_08.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd4SZKDORqHUfQtgV7geomHNehs-tHWKSUawxWvptPkG/Oeffentliche_Niederschrift_Rat_08.12.2017.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 10.11.2017
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP zu A.5: Antrag nach § 24 GO NRW von Hans-Jürgen Buder, Kulturanker e. V., auf kostenlose Überlassung des Stadttheaters für Großveranstaltungen ehrenamtlicher Vereine (Antrag 1)
+- TOP zu A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.6: Steuerung von Drittorganisationen:
+- TOP A.6a: HVV- Konzern: Geänderte Wirtschaftspläne 2017, Wirtschaftspläne 2018 und. Mittelfristpläne des HVV- Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Bei 1 Enthaltung und 19 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.6b: Geänderter Wirtschaftsplan 2017 sowie Wirtschaftsplan 2018 incl. Mittelfristplanung der eigenbetriebsähnlichen Einrichtung Immobilien- und Abwasser-Betrieb Herford (IAB) - Bei 2 Enthaltungen und ohne Gegenstimme wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6c: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 30.09.2017 b) Jahresprognose 2017 der Beteiligungsunternehmen c) Bericht über die Altersstruktur der Beschäftigten der Beteiligungsunternehmen
+- TOP A.6d: Veräußerung der Beteiligung der Westfalen Weser Beteiligungen GmbH an der Stadtwerke Bad Driburg GmbH - Bei 3 Enthaltungen und ohne Nein-Stimme wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6e: Stadttheater: Planung der Generalsanierung und Prüfung des weiteren Vorgehens im Rahmen Regionale 2022 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.6e: Beschlussantrag der Fraktion B90/DIE GRÜNEN zum TOP A.6e – Stadttheater: Planung der Generalsanierung und Prüfung des weiteren Vorgehens im Rahmen der Regionale 2022 - Bei 2 Enthaltungen und 23 Ja-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.6f: INTERKOMM Interkommunales Gewerbegebiet Ostwestfalen- Lippe GmbH: Wirtschaftsplan 2018: Anweisung an den städtischen Vertreter in der Gesellschafterversammlung - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6g: Gremienbesetzungen in Drittorganisationen:
+- TOP A.6g)1: Gremienbesetzung: Entsendung von direkten Vertretern der Aufsichtsratsmitglieder im Aufsichtsrat der Stadtentwicklungsgesellschaft Hansestadt Herford mbH
+- TOP zu A.6g)1: Gremienbesetzung: Entsendung von direkten Vertretern der Aufsichtsratsmitglieder im Aufsichtsrat der Stadtentwicklungsgesellschaft Hansestadt Herford mbH - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP zu A.6g: Antrag der CDU-Fraktion auf Umbesetzung in folgenden Drittorganisationen: HVV-AR und Sparkassen-Verbandsversammlung
+- TOP zu A.6g: Antrag der CDU-Fraktion auf Umbesetzung in folgenden Drittorganisationen: HVV-AR und Sparkassen-Verbandsversammlung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.6g: Beschlussantrag der Fraktion DIE LINKE zur Besetzung im HVV-AR - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.7: Prüfung und Feststellung des Jahresabschlusses 2016, Ergebnisausgleich und Entlastung des Bürgermeisters
+- TOP A.8: Prüfung und Feststellung des Gesamtabschlusses 2010 der Hansestadt Herford
+- TOP A.9: 3. Situationsbericht zur Haushaltswirtschaft 2017
+- TOP A.10: Entwurf der Haushaltssatzung 2018 sowie mittelfristige Ergebnis- und Finanzplanung 2019 - 2021 hier: Einbringung des Entwurfs der Haushaltssatzung 2018 mit ihren Anlagen
+- TOP A.11: Stellenplan für das Haushaltsjahr 2018
+- TOP A.12: Aufhebung und Neubeschluss der Wettbürosteuer - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.13: 11. Gleichstellungsplan der Stadtverwaltung Herford für die Jahre 2018 - 2021 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Überörtliche Prüfung durch die Gemeindeprüfungsanstalt hier: Vorstellung der Ergebnisse der Prüfung der Jahre 2009-2015
+- TOP A.15: Ordnungsbehördliche Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Herford a) Evaluation der Änderungen zum 01.01.2017 sowie des geänderten Verwarnungs- und Bußgeldkataloges und Bericht zur Reinigung der Innenstadt b) Erlass einer Änderungsverordnung zur Einführung einer Hundekotbeutelpflicht c) Erlass einer Änderungsverordnung zur Ergänzung des Verwarnungs- und Bußgeldkataloges - Bei 18 Ja-Stimmen und ohne Enthaltung wurde der Beschlussvorschlag aus der Vorlage RA/153/2017 mehrheitlich abgelehnt. 
+- TOP A.16: Gesamtsanierungskonzept für das Ludwig-Jahn-Stadion
+- TOP A.17: Projekt "Markthalle" Sachstandsbericht
+- TOP A.18: Machbarkeitsstudie ÖPNV-Konzept - Bei 1 Enthaltung und 23 Ja-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.19: Konversion: Benennung von Straßen, Wegen und Plätzen auf Konversionsflächen
+- TOP A.20: Durchführung verkaufsoffener Sonntage im Jahre 2018 - Bei 2 Enthaltungen und 22 Ja-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.21: Würdigung ehrenamtlicher Aktivitäten - Aktion Vorbild im Ehrenamt - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22: Zuständigkeitskatalog für die städtischen Ausschüsse hier: Aufgaben und Zuständigkeiten des Bau- und Umweltausschusses und des Verkehrsausschusses - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Änderung der Entwässerungsgebührensatzung (7.3.2) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Änderung der Entwässerungssatzung (7.3.1) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.25: Gebührenhaushalt Straßenreinigung 7. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.26: Gebührenhaushalt Abfallentsorgung a) Neufassung der Satzung über die Abfallentsorgung in der Hansestadt Herford b) 4. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.28: Änderung der Satzung für die Friedhöfe der Stadt Herford (Friedhofssatzung) - Einstimmig und ohne Enthaltung wurde dieser TOP vertagt.
+- TOP A.29: Erneuerung/Umgestaltung des Platzes "Neuer Markt" hier: Satzung über den Ausbau und die Abrechnung nach § 8 KAG (Kommunalabgabengesetz) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.30: Überprüfung des Ortsrechts, hier: Aufhebung verschiedener Satzungen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.31: Aufhebung der Änderung 1.00 des Bebauungsplanes Nr. 8.55 "Benter Weg" und Wiederinkraftsetzung des Bebauungsplanes Nr. 8.55 "Benter Weg" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.32: Termine der Ratssitzungen für das Jahr 2018 und 2019
+- TOP zu A.32: Termine der Ratssitzungen für das Jahr 2018 und 2019
+- TOP zu A.32: Termine der Ratssitzungen für das Jahr 2018 und 2019 hier: Sitzungskalender mit der Option von jeweils 6 jährlichen Ratsterminen
+- TOP A.33: Gremienbesetzungen in städtischen Ausschüssen und Beiräten:
+- TOP A.33a: Wahl einer Vertretung und Stellvertretung des neuen Jugendamtselternbeirates als beratendes Mitglied im Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.33b: Benennung beratender Mitglieder des Schulausschusses: a) Nachbesetzung der Vertretungen für die Grundschulen b) Nachbesetzung der Vertretungen für die Sekundarstufe I-Schulen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.33c: Antrag der SPD-Fraktion auf Gremienumbesetzung in städtischen Ausschüssen (Schulausschuss und Verkehrsausschuss) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.33: Antrag der CDU-Fraktion auf Umbesetzung in städtischen Ausschüssen (hier: Haupt- und Finanzausschuss, Rechnungsprüfungsausschuss und Sozialausschuss) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.33: Beschlussantrag der Fraktion DIE LINKE zur Besetzung im Kulturbeirat - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.34: 12. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen am 28.11.17 in Köln
+- TOP A.35: Mitteilungen
