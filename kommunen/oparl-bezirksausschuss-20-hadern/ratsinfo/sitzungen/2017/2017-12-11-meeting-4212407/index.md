@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2017-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4212407
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4212407
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Am Kornacker 8 - 8 a, 1 Weißtanne
+- TOP 7.1.2.: Guardinistraße 95, 1 Götterbaum
+- TOP 7.1.3.: Hosigaustraße 13 a, 1 Atlas-Zeder
+- TOP 7.1.4.: Immastraße 8, 1 Thuje
+- TOP 7.1.5.: Kornwegerstraße 5, 1 Robinie
+- TOP 7.1.6.: Max-Lebsche-Platz 18 - 23, 2 Vogelkirschen
+- TOP 7.1.7.: Primelstraße 25, 1 Tanne
+- TOP 7.1.8.: Stahleckplatz 1, 1 Fichte und 1 Zeder
+- TOP 7.1.9.: Würmtalstraße 168, 1 Nadelbaum
+- TOP 7.1.10.: Guardinistraße 70 - 84, gem. Baumbestandsplan Nr. 23551
+- TOP 7.1.11.: Drozzaweg 14, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24954
+- TOP 7.1.12.: Wastl-Witt-Straße 17 - 27, 1 Pappel, 5 Hainbuchen, 1 Hängebirke, 2 Bergahorn und 2 Lärchen
+- TOP 7.1.13.: Heckenrosenstraße 15, 1 Zypresse
+- TOP 7.1.14.: Am Brombeerschlag 13, 1 Nadelbaum
+- TOP 7.1.15.: Farnweg 2, 1 Birke
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 3.1.: UA Bau und Wohnen
+- TOP 1.1.: Einrichtung von Parkbereichen mit Zeitbegrenzung auf 2 Stunden bis 18.00 Uhr für die Wohnviertel rund um die U-Bahn Haltestelle Großhadern
+- TOP 1.2.: Parkplatzsituation in Großhadern wegen U-Bahnhaltestelle und LMU-Gelände
+- TOP 6.1.: Guardinistraße 70 - 84, Neubau und Aufstockung von Wohngebäuden - Vorbescheid (Guardinistraße 70 - 84 + 100 - 106 + 122 / Stiftsbogen 17 + 19 + 23 - 27 + 55 - 59) (Referat für Stadtplanung und Bauordnung, 08.11.17)
+- TOP 6.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Willibaldstraße 146 (Kreisverwaltungsreferat, 15.11.17)
+- TOP 6.3.: Änderung der BA-Satzung: Beauftragter gegen Extremismus, Antrag BA 21 Pasing-Obermenzing vom 25.07.2017 (Direktorium, 07.11.17)
+- TOP 6.4.: Projekt "Vom Weltspieltag zum Weltkindertag 2018", Ausschreibung für die Münchner Stadtbezirke (Spiellandschaft Stadt e.V., 14.11.17)
+- TOP 7.2.1.: Listen des Baureferates vom 13.11.17, 14.11.17 und 16.11.17
+- TOP 7.4.1.: Am Wiesenbach 4, 1 Spitz-Ahorn (Referat für Stadtplanung und Bauordnung, 22.11.17)
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Kornwegerstraße (Sozialreferat, 06.11.17)
+- TOP 8.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge November 2017 (Sozialreferat, 17.11.17)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Einrichtung einer Kurzparkzone und eines Haltverbotes in der Rolf-Pinegger-Straße (Kreisverwaltungsreferat, 15.11.17)
+- TOP 8.4.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021 (Stadtkämmerei, 15.11.17)
+- TOP 8.5.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für Betonier-Arbeiten Ludlstraße Ecke Alpenveilchenstraße (Referat für Gesundheit und Umwelt, 06.12.17)
+- TOP 9.1.: Situation Lichtensteinstraße 2 a, Anfrage Nr. 14-20 / Q 00455 (Referat für Stadtplanung und Bauordnung, 16.11.17)
+- TOP 11.1.: AWM Geschäftsbericht 2016 - 125 Jahre Verantwortung (AWM, 06.11.17)
+- TOP 11.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 23.10.2017 (Mieterbeirat, 14.11.17)
+- TOP 11.3.: Kundenmagazin "MVG info" (MVG, 21.11.17)
+- TOP 11.4.: Vorkaufsrecht nach dem BauGB (Antrag BA 17)
+- TOP 1.1.1.: Beschluss vom 18.10.2017: Wohnungspolitisches Handlungsprogramm "Wohnen in München IV" 2017-2021 München Modell-Eigentum Umsetzung der Leitlinien für Gemeinden bei der vergünstigten Überlassung von Baugrundstücken im Rahmen des sogenannten Einheimischenmodells
+- TOP 1.1.2.: Beschluss vom 18.10.2017: Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Wohnen weiterdenken - Ehrenpreis für guten Wohnungsbau 2018 Zustimmung zur Durchführung
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Nachverdichtungssatzung oder Ergänzung zur Stellplatzsatzung zum Schutz von Bäumen
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Gartenstadt Obermenzing und ihre Nachverdichtung; Bebauungsplan für Obermenzing bzw. die einzelnen Viertel
+- TOP 2.1.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Bericht zur Entwicklung des Kfz-Bestandes in München
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Bauausschusses vom 28.11.2017: Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand
+- TOP 2.2.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 28.11.2017: Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 2.2.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 28.11.2017: Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 2.2.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 28.11.2017: Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 2.2.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 28.11.2017: Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 2.2.6.: Beschluss des Bildungsausschusses vom 29.11.2017: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung: Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses vom 29.11.2017: Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2017: Erhaltungssatzungen in München 30 Jahre Milieuschutz (1987 - 2017)
+- TOP 4.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.10.2017: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung Sachstandsbericht 2017
