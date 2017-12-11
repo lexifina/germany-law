@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-11T17:00:00+01:00
+- Ende: 2017-12-11T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16972
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16972
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Sachstand betriebliche Frauenförderung - Kenntnis genommen
+- TOP 1.2: Präventionsprojekt in Schulen "Nicht mit mir!" - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Auszeichnung für Städtepartnerschaften Kölns mit Tel Aviv und Bethlehem - Kenntnis genommen
+- TOP 2.2: Fördertopf "Städtepartnerschaften gestalten" 2017 - zurückgestellt
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage von MdR Dr. Krupp in der Sitzung am 06.11.2017 betreffend "Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 4.2: Projekt „Sprach- und Integrationsmittlerpool für die Stadt Köln“ - Kenntnis genommen
+- TOP 4.3: Weihnachtsmärkte auf Plätzen in der Innenstadt - Kenntnis genommen
+- TOP 4.4: Veranstaltungstag Köln Digital am 17.10.2017 - Kenntnis genommen
+- TOP 4.5: Zielbild 2020 - zurückgestellt
+- TOP 4.6: Sanierung und Neuausstattung des Sitzungsraumes 2.01 sowie von vier Amtszimmern der Oberbürgermeisterin im Historischen Rathaus - Kenntnis genommen
+- TOP 4.7: Mitteilung betreffend "Beantwortung der Anfrage der Ratsgruppe BUNT AN/1723/2017 Sicherheitslücke Ratsinformationssystem" - Kenntnis genommen
+- TOP 4.8: Sachstand Ausgleichszahlung BAB 3 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Sachstand: Transparente Darstellung städtischer Leistungen und Gebühren" zur Sitzung am 06.11.2017 - zurückgestellt
+- TOP 6.2: Anfrage der FDP-Fraktion betreffend "Ist Luisa hier?" zur Sitzung am 11.12.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 23.11.2017 - Kenntnis genommen
+- TOP 6.3: Anfrage der FDP-Fraktion betreffend "Gefährdung von Fußgängern durch Radfahrer" zur Sitzung am 11.12.2017 - zurückgestellt
+- TOP 6.4: Anfrage der DieLinke-Fraktion betreffend "Migrationshintergrund von Stellenbewerber/innen bei der Stadt Köln" zur Sitzung am 11.12.2017 - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 07.12.2017 - zurückgestellt
+- TOP 6.5: Anfrage der Gruppe BUNT betreffend "Gruppenbezogene Menschenfeindlichkeit in Köln – Politisch motivierte Kriminalität - rechts (PMK-rechts)" zur Sitzung am 11.12.2017 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Gruppe BUNT betreffend „Ist Luisa da?“ etablieren – trotz „Edelgard“ - endgültig abgelehnt
+- TOP -: Stellungnahme der Verwaltung vom 05.12.2017 - Kenntnis genommen
+- TOP 8.2: Antrag der SPD-Fraktion betreffend "Bewachungsleistungen am Rheinboulevard durch die KGAB fortsetzen" - endgültig abgelehnt
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2018 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Abschlepprahmenvertrag - ungeändert beschlossen
+- TOP 10.2: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - abgelehnt (in der Vorberatung)
+- TOP 10.3: Bedarfsfeststellung für die öffentliche Ausschreibung der Vermittlung von Sprach- und Integrationsmittlern*innen - ungeändert beschlossen
+- TOP 10.4: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - ohne Votum in nachfolgende Gremien
+- TOP 10.5: Ausländerrechtliche Beratungskommission; Bestimmung neuer ordentlicher und stellvertretender Mitglieder - ungeändert beschlossen
+- TOP 10.6: Zügigkeitserweiterung der Carl-von-Ossietzky-Gesamtschule, Ossietzkystr. 2, 50737 Köln-Longerich zum Schuljahr 2019/20 nach § 81 Abs. 2 Schulgesetz NRW bei gleichzeitiger Bildung eines Teilstandortes an der Paul-Humburg-Str. 13, 50737 Köln-Longerich - zurückgestellt
+- TOP 10.7: 4-Jahres-Rahmenvertrag zur Lieferung von Sweatjacken für Feuerwehr und Rettungsdienst - ungeändert beschlossen
+- TOP 10.8: 1. Satzung zur Änderung der Abfallsatzung 2018 - ungeändert beschlossen
+- TOP 10.9: Kommunales Programm für Arbeit und Beschäftigungsfähigkeit - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2018 - ungeändert beschlossen
+- TOP 10.11: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2016 - ungeändert beschlossen
+- TOP 10.12: Überplanmäßiger Mehrbedarf im Teilergebnisplan 0208 - Personenstandswesen: Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 10.13: Lieferung von Holz in verschiedenen Sortierungen - Jahresbedarf 2018/2019 - ungeändert beschlossen
+- TOP 10.14: 14. Satzung zur Änderung der Satzung der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 10.15: Abschluss eines Vertrages mit der Peter und Irene Ludwig Stiftung und der Stadt Köln betreffend das Museum Ludwig - ungeändert beschlossen
+- TOP 10.16: Ordnungsbehördliche Verordnung über das Öffnen von Verkaufsstellen im Kernbereich Innenstadt am 21.01.2018 - ohne Votum in nachfolgende Gremien
+- TOP 10.17: 2. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.18: 5. Änderung der Straßenreinigungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
