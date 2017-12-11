@@ -1,0 +1,74 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2017-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262637
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262637
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 3.3.3.: Stellungnahme BA: Maßnahmen zur Stärkung des Baumschutzes in München (siehe SV TOP 8.21)
+- TOP 2.1.: BA 17: Antrag "Vorverkaufsrecht nach dem BauGB" mit der Bitte um Unterstützung
+- TOP 3.1.1.: Finanzgrundversorgung in Hartmannshofen
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Feldmochinger Str. 29 2. Scharnhorststr. 11 3. Bautzener Str. 6a -26 4. Karl-Lipp-Str. 22-24 5. Dachauer Str. 507
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Bautzener Str. 6a - 26 2. Dachauer Str. 507 3. Feldmochinger Str. 29 4. Meggendorferstr. 94 5. Karl-Lipp-Str. 22-24 (-> BV siehe TOP 3-3-1-4)
+- TOP 3.4.1.: Stadtbezirksbudget ab 2018
+- TOP 4.: Anträge
+- TOP 4.3.1.: Tempo 50 am Wintrichring zwischen Hanauer Straße und Allacher Straße
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Pflegezentrum Moosach Arche Noris gGmbH Senioren besuchen Museen vom 30.01. - 27.12.2018 1.890,00 € 0262.0-10-0145
+- TOP 5.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung der Gesamtstrecke der Mirjam-David-Straße
+- TOP 6.1.: Beauftragter gegen Extremismus BA-Antrag Nr. 14-20 / B 03901 des Bezirksausschusses des Stadtbezirkes 21 - Pasing-Obermenzing vom 25.07.2017
+- TOP 6.2.: Baumfällungen (Baumschutz): 1. Alzeyer Str. 5 2. Amslerstr. 5 3. Emmy-Noether-Str. 2 4. Gärtnerstr. 25 5. Kapellenäckerstr. 10 = Baubergerstr. 16 6. Naumburger Str. 19 7. Siegmund-Schacky-Str. 12
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: eingeschränktes Haltverbot in der Saarlouiser Straße Nordseite ggü. HsNr. 61 im Wertstoffcontainerbereich
+- TOP 7.1.: Ein großer Veranstaltungsraum für Moosach [BA-Antrags-Nr. 14-20/ B 02682 vom 25.07.2017; Zwischennachricht; Kommunalreferat ist bzgl. Machbarkeitsstudien zur Untersuchung der baulichen Möglichkeiten in Vorabstimmung mit Denkmalschutzbehörden und Lokalbaukommission]
+- TOP 7.2.: Markierung / Beschilderung des Geh- und Radweges an der "Meile Moosach" am südwestlichen Ende zur Georg-Mooseder-Straße [Baureferat wird bauliche Schließung des Wegestutzen prüfen]
+- TOP 7.3.: Bau eines zweiten Wendekreises am Sendlinger Tor zur Verlängerung der Straßenbahnlinien 20/21 [Zwischennachricht; Umbau Sendlinger Tor muss abgewartet werden]
+- TOP 7.4.: Wertstoff-Container am Standort Rothschwaigestraße [bei illegalen Müll- bzw. Wertstoffablagerungen soll Betreiberfirma kontaktiert werden]
+- TOP 7.5.: Schliessung Stadtsparkassenfiliale Hartmannshofen [Antrag BA vom 16.10.2017; Aufgabe, da Filialbesuche seltener geworden sind. Kunden werden in benachbarter, mit öffentlichen Verkehrsmitteln gut erreichbarer Filiale weiterbetreut.]
+- TOP 7.6.: Tiefgaragenausfahrt aus der Feldmochinger Str. 68a [Bürgeranliegen Bürgersprechstunde; gefahrlosen Ausfahren möglich; keine Einrichtung von beantragten Halteverboten]
+- TOP 7.7.: Freihalten des Parkplatzes am Westfriedhof (Zugang zur Aussegnungshalle) für Friedhofsbesucher [BVE Nr. 14-20/ E 01757; Zwischennachricht; Tenor ist keine Schaffung von Kurzzeitparkmöglichkeiten, sondern Änderung von Sondernutzungen; Zuständigkeit liegt bei BI Nord]
+- TOP 7.8.: Erhalt der Kleingärten an der Feldbahnstraße Moosach [Bedürfnisse der Kleingärtner werden in der Planung der Nord-Süd-Grünverbindung berücksichtigt, Weiterentwicklung wird mit Kleingärtnern abgestimmt; keine Beseitigung von Parzellen ohne Zustimmung der Betroffenen]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 3 StVO: 1. Bingener Straße Stichstraße (Z 283 - absolutes Haltverbot mit Zeitzusatz) 2. Feldmochinger Straße nördlich Treitschkestraße (Z 314 - Aufhebung Kurzparkzone) 3. Baubergerstraße (Z 314 - Anfahrtszone; Einrichtung Kurzparkzone] 4. Gneisenaustr. 22-24 (Z 283 Haltverbot wg. Einrichtung einer Hotelanfahrtszone)
+- TOP 8.4.: unveränderte Fortführung eines Gaststättenbetriebes: 1. Bauberger Str. 19 2. Pelkovenstr. 42
+- TOP 8.5.: Baumentfernungen und Gehölzepflegemaßnahmen auf städt. Grundstücken; hier: Unterrichtung über bevorstehende Entfernungen von gefahrenbäumen
+- TOP 8.6.: Baumaßnahmen der SWM: Stromprojekt Am Hartmannshofer Bächl
+- TOP 8.7.: Arbeiten im Straßenraum Dachauer Str./ Hanauer Str.: Einengung der Fahrbahn wegen der Haltestellen vom 22-11-2017 bis 21.11.2018
+- TOP 8.8.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017-2021
+- TOP 8.9.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 8.10.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.11.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.12.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 8.13.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 8.14.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.15.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.16.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 8.17.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 8.18.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP 8.19.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 8.20.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 8.21.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 8.22.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 8.23.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 8.24.: Errichtung eines Hauses für Kinder ...Meiller-Gärten, Käthe-Kruse-Str. 2; Ermächtigung zur Planung nicht-öffentlich
