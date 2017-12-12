@@ -1,0 +1,7 @@
+# TOP 4.: Ersatzbeschaffung eines Geräteträgers für den städtischen Bauhof; hier: Genehmigung einer überplanmäßigen Ausgabe
+
+- Sitzung: Rat (24. Sitzung) (2017-12-12)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/33092
+- Ergebnis: Einstimmiger Beschluss:
