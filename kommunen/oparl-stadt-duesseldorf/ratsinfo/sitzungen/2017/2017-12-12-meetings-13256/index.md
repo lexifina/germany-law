@@ -1,0 +1,62 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2017-12-12T17:00:00+01:00
+- Ende: 2017-12-12T18:46:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13256
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/13256
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00306656.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00306656.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00306656.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2017 - einstimmig beschlossen
+- TOP 8: Verkehrssituation Vennhauser Allee - beantwortet
+- TOP 9: Grundwasserproblematik in Vennhausen - beantwortet
+- TOP 10: Radwegeplanung Gubener Straße - beantwortet
+- TOP 11: Sauberkeit im Bereich Gumbertstraße - beantwortet
+- TOP 12: LZA Großer Torfbruch / Rothenbergstraße - beantwortet
+- TOP 13: Straßennamenschilder - Zusätze im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 14: Parkregelung Vennhauser Allee - einstimmig beschlossen
+- TOP 15: Querungsmöglichkeit Sandträgerweg - einstimmig beschlossen
+- TOP 16: Geldautomat am Einkaufszentrum Bingener Weg - einstimmig beschlossen
+- TOP 17: Parkplätze Kleingartenverein Im Broich - zurückgezogen
+- TOP 18: Parkplätze Kleingartenverein Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 19: Erreichbarkeit der Innenstadt - einstimmig beschlossen
+- TOP 20: Gestaltung Stadteingangsbereich - einstimmig beschlossen
+- TOP 21: Weiterleitung von Beschlüssen der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 22: Grünordnungsrahmenplan Stadtbezirk 8 - einstimmig beschlossen
+- TOP 23: Lärmmessung am Abstellbahnhof Speyerweg - einstimmig beschlossen
+- TOP 24: Radweg Reisholzer Straße - mehrheitlich beschlossen
+- TOP 25: Verkehrsregelung An der Schützenwiese - einstimmig beschlossen
+- TOP 26: Jugendfreizeiteinrichtung Chemnitzer Straße - einstimmig beschlossen
+- TOP 27: Bürgersaal in Eller - einstimmig beschlossen
+- TOP 28: Beleuchtung S-Bahnhof Eller Süd - einstimmig beschlossen
+- TOP 29: Grünpflege am S-Bahnhof Eller Süd - einstimmig beschlossen
+- TOP 30: Kreuzungsbereich Karlsruher Straße / Heidelberger Straße / Bernburger Straße / Alt-Eller - einstimmig beschlossen
+- TOP 31: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 32: Barrierefreies Eller - zur Kenntnis genommen
+- TOP 33: Straßenbauarbeiten Kamper Weg - zur Kenntnis genommen
+- TOP 34: Erkrather Straße 388 - 392, Neubau eines Mehrfamilienhauses mit Tiefgarage - zur Kenntnis genommen
+- TOP 35: Stellplätze Kamper Weg - zur Kenntnis genommen
+- TOP 36: Verkehrsfluss Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 37: GHS Bernburger Straße - zur Kenntnis genommen
+- TOP 38: Rasengleise Erkrather Straße - zur Kenntnis genommen
+- TOP 39: Verkehrssituation Gubener Straße / Rybnicker Straße - zur Kenntnis genommen
+- TOP 40: OSD - Einsätze im Bereich Karlsruher Straße / S-Bahnhof Eller Süd - zur Kenntnis genommen
+- TOP 41: Jugendfreizeiteinrichtung Hasseler Richtweg - zur Kenntnis genommen
+- TOP 42: Kreisverkehr Gubener Straße - zur Kenntnis genommen
+- TOP 43: Radverkehrsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Öffentliche Platzfläche Gubener Straße / Höherhofstraße - zur Kenntnis genommen
+- TOP 45: Fahrradabstellmöglichkeiten am S-Bahnhof Eller Süd - zur Kenntnis genommen
