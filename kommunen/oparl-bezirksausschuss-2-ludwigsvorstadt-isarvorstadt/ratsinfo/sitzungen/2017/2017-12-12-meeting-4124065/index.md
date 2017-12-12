@@ -1,0 +1,132 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2017-12-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4124065
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4124065
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 3.1.: Standortbegehung IHFEM (Integrierte Handlungsprogramm zur Förderung der Elektromobilität in München) mit SWM - Stadtwerke München, Donnerstag 14.12.2017 um 9.30 Uhr, Goethestraße 64
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Antrag: Zebrastreifen in der Thalkirchnerstraße und eine gesündere Schulwegführung (Kinder-Antrag 4)
+- TOP 1.2.: Antrag: Spielplatz für größere Kinder / kindergerechte Gestaltung der Wiese am KuBu / Spielmöglichkeiten an der Isar (Kinder-Antrag 2, 6 und 7)
+- TOP 1.3.: Schöne Graffiti statt Schmierereien an Häuserwänden
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Die Haltestelle" Theaterstück "Die Haltestelle" vom 13. - 17.12.2017 1.500,00 € 0262.0-2-0202
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Glockenbachwerkstatt e.V. Hip Hop Open Mic Session ab dem 06.02.2018 1.780,00 € 0262.0-2-0204
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Igbo Musik" Igbo Musik-Konzert am 16.12.2017 2.900,00 € 0262.0-2-0205
+- TOP 3.1.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 2-Ludwigsvorstadt-Isarvorstadt 1)Satzungsbeschluss Erhaltungssatzung „Schlachthofviertel“ 2)Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung „Schlachthofviertel“ BA-Antrag Nr. 14-20 / B 04200 vom 24.10.2017
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen; Bestehende soziale Angebote besser publizieren, vgl. Bürgerfragen 2017.11 II Pkt. 5
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: St.-Paul-Brunnen am Standort belassen – Zusätzlicher kindertauglicher Brunnen am Platz westlich der Kirche
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Landwehrstraße 44, Nutzungsänderung (EG + UG) in Vereinsräume, Einbau eines Notausgangs (UG) mit Treppe
+- TOP 3.1.2.: Pettenkoferstraße 24 / RGB, Tektur – Teilaufstockung im 3. OG, Einbau eines Personenaufzugs, Um- und Ausbau des Dachgeschosses um eine weitere Wohneinheit sowie energetische Sanierung des Dachs
+- TOP 3.1.3.: Tumblingerstraße 29, Unterbringung von Flüchtlinge – Nutzungsänderung und Umbau 1.OG: Betriebswohnung zu einer Wohnunterkunft für Flüchtlinge, Nutzungsänderung EG: Gewerblich genutzte Räume des MHM zu einer Büro- und Gewerbeeinheit
+- TOP 3.1.4.: Pettenkoferstraße 26 -28; Temporäre Aufstellung von Containern im Vorgarten und rückwärtigen Hofbereich im Zuge der Sanierung (VGB), befristet ab 01.01.2018 für 18 Monate mit Vollzug der Baumschutzverordnung
+- TOP 3.1.5.: Westermühlstraße 30 / RGB, Errichtung einer Dachterrasse anstelle eines Dachflächenfensters im DG
+- TOP 3.1.6.: Fraunhoferstraße 23h, Errichtung von 6 Wohneinheiten in Holzbauweise, Abbruch einer Wohnung auf dem Dach (Rückgebäude)
+- TOP 3.1.7.: Landwehrstraße 48; VGB: Errichtung eines Vollgeschosses nach Abbruch des Mansardendaches auf dem 7.OG, RGB: Errichtung eines Vollgeschosses auf der Dachterrasse im 6. OG und 7..OG zu Wohnen - Vorbescheid
+- TOP 3.1.8.: Paul-Heyse-Straße 18; Erweiterung und Aufstockung eines Hotels - Vorbescheid
+- TOP 3.1.9.: Thalkirchner Str. 55, Abbruch und Neubau eines Wohnhauses - Vorbescheid
+- TOP 3.1.10.: Lindwurmstr. 35-37, Abbruch und Neubau mit 12 WE und Hotelerweiterung, Neubau eines Rückgebäudes, Erweiterung Tiefgarage und Errichtung einer Gaststätte
+- TOP 3.2.1.: Bayerstraße 16, Antrag auf Fällung einer Pappel, PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Bauvorhaben Baaderstraße 10, vgl. Vertagung aus 2017.11 B 5.4
+- TOP 5.2.: 100.000 Bäume für München, Werkstatt für Ökodesign und lebendige Kunst GbR, vgl. Vertagung 2017.11 B 5.1
+- TOP 5.3.: Isartalstraße 6, Pläne und Anliegen des Vertreters des Wohnstifts und Pflegeheims
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Schaffung einer Abstellfläche für Fahrräder in der Ickstattstraße
+- TOP 1.2.: Schaffung einer Abstellfläche für Fahrräder in der Klenzestraße
+- TOP 1.3.: Fußgängerquerung Thalkirchner Str., Antrag UA KJS
+- TOP 2: Entscheidungen
+- TOP 2.2.1.: Sendlinger-Tor-Platz 6; Aufstellung einer neuen Verkaufseinrichtung
+- TOP 2.2.2.: Fraunhoferstraße 4; Aufstellung einer neuen Verkaufseinrichtung
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Haydnstraße 7; Einrichtung eines zweiten allgemeinen Behindertenparkplatzes
+- TOP 3.2.2.: Rothmundstraße; Einrichtung eines absoluten Haltverbotes
+- TOP 3.2.3.: Reichenbachstraße 23 – 27; Gärtnerplatztheater, Einrichtung eines absoluten Haltverbotes
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Goetheplatz, aktuelle Lage – Bürgerbeschwerde; Entfernen bzw. Ersetzen der Sitzbänke; Anfrage des Baureferates
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Ruppert- / Tumblingerstraße, Anbringung einer Ampel, Erarbeitung eines Antrages im Unterausschuss ÖRM aufgrund der Gefährlichkeit des Standortes mit zwei Großbaustellen, vgl. Vertagung 2017.11 C 5.3
+- TOP 5.2.: Bürgeranliegen; Aufenthaltsqualität Goetheplatz
+- TOP D: BA-Angelegenheiten
+- TOP 2.1.: Unterausschuss „Kultur, Jugend, Soziales“ am Montag, den 15.01.2018 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Öffentlicher Raum, Mobilität“ am Dienstag, den 16.01.2018 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss „Planen, Bauen“ am Mittwoch, den 17.01.2018 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 22.01.2018 in der BA-Geschäftsstelle, Tal 13 (5.OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 30.01.2018 um 19 Uhr im Saal in der Gaststätte „Zunfthaus“, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Bürgeranliegen Paul-Heyse-Straße 30 – 34, Antwort Email des Kreisverwaltungsreferates vom 14.11.2017 zur Kenntnis.
+- TOP A 4.4.: Stadtkämmerei, Entwurf Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021, Beschlussvorlage, Beschluss der Vollversammlung des Stadtrates vom 23.11.2017 - Kurzübersicht für BA 2
+- TOP A 4.5.: (U) Generalinstandsetzung ehemaliges "Tröpferlbad" Thalkirchner Straße 96 - 102 Weitere Nutzung der Räume für zwei Einrichtungen der offenen Kinder- und Jugendarbeit Jugendtreff Tröpferlbad und Zenetti-Treff 3 sowie für das Bürgerhaus Isarvorstadt-Tröpferlbad Stadtbezirk 2 Ludwigsvorstadt-Isarvorstadt 1. Zusammenlegung der beiden Einrichtungen Jugendtreff Tröpferlbad und Zenetti-Treff 3 2. Zustimmung zur Planung 3. Genehmigung der vorläufigen Nutzerbedarfsprogramme 4. Erteilung des Untersuchungsauftrages Produkt 60 3.1.1 Kinder- und Jugendarbeit Produkt 60 4.1.7 Quartierbezogene Bewohner(innen)arbeit
+- TOP A 4.6.: Sozialreferat, Beschlussvorlage Haushaltsplan 2018, Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2018, Vollzug des Haushaltsplanes 2018 für den Bereich „Förderung freier Träger“, - der Zentrale, Sitzungsvorlage Nr. 14-20 / V 10177 - des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 10112 - des Stadtjugendamtes, Sitzungsvorlage Nr. 14-20 / V 10013 - des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 10106
+- TOP A 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A 4.8.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP A 4.9.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Am Westermühlbach, Grünfläche, Sanierung Fuß- und Radwege, Email des Baureferates vom 14.11.2017 zur Information
+- TOP B 4.3.: Baureferat, Beschluss Paul-Heyse-Unterführung, Konzept zur Aufwertung im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt und im 3. Stadtbezirk Maxvorstadt, Sitzungsvorlage Nr. 14-20 / V 08709, Beschluss des Bauausschusses vom 28.11.2017 (SB)
+- TOP B 4.4.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP B 4.5.: Umbauarbeiten St.-Pauls-Platz; Sachstandsmitteilung des Baureferates vom 20.11.2017
+- TOP B 4.6.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen im Frühjahr 2018
+- TOP B 4.7.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für den Einbau von Kabelleerohren und Kabelschächten in die Gleistrasse der Straßenbahn, Fraunhoferstraße Höhe Hausnr. 32 - 38
+- TOP B 4.8.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Herstellung von Reinigungsöffnungen am öffentlichen Kanal, Ausnahmezulassung für Nachtarbeit u.a. Pestalozzistraße 54 und Pestalozzistraße Höhe Neuer Südl. Friedhof
+- TOP B 4.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Studie für die Landeshauptstadt München „Nutzungsmuster öffentlich zugänglicher Freiräume im Zuge des soziodemographischen Wandels“, Sitzungsvorlagen Nr. 14-20 / V 09854, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017 (VB)
+- TOP B 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.11.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP B 4.12.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP B 4.13.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.6.: Verkehrssituation Fliegenstraße; Antwort Email des Kreisverwaltungsreferates vom 06.11.2017
+- TOP C 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.8.: Bereich Goetheplatz – Poccistraße; MVG Information über Betriebskonzept während Schienenwechsel auf U3/U6
+- TOP C 4.9.: Partys am „Isarspitz“ oberhalb der Brudermühlstraße am Scheitel zwischen Isar und Großer Stadtbach, Schreiben des Baureferates vom 20.11.2017
+- TOP C 4.10.: Kreuzungsbereich „Landwehr- / Schillerstraße; Fahrbahnsanierung, Schreiben des Baureferates vom 22.11.2017
+- TOP C 4.11.: Bürgeranliegen Landwehrstraße 40, vgl. TOP 2017.10 C 5.2; Feinstaubemission durch Abluftanlage einer Gaststätte; Zwischennachricht des Kreisverwaltungsreferates vom 23.11.2017
+- TOP C 4.12.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP C 4.13.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP C 4.14.: Fußgängerübergang auf Höhe der Auenstraße 118
+- TOP D 4: Bereich BA-Angelegenheiten
