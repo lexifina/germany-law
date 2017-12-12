@@ -1,0 +1,102 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2017-12-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4266316
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4266316
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 10.: Nichtöffentlicher Teil
+- TOP 2.2.1.: Ruhestörung Hitlstraße
+- TOP 2.2.2.: Schließung Integrationskindergarten Allach
+- TOP 2.2.3.: Parksituation in der Korbinian-Beer-Straße
+- TOP 2.2.4.: Arbeit des Bezirksausschusses 23
+- TOP 3.1.: Schwimmoffensive der LH München - Vorgezogene Renovierung des Schwimmbades in der Grundschule Pfarrer-Grimm-Straße
+- TOP 4.1.: (E) Verkehrssituation Hanfgartenstraße
+- TOP 5.1.: Bebauungsplan mit Grünordnung Nr. 2105 Bundesautobahn A 8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich) (Teiländerung des Bebauungsplanes Nr. 20759) "Sondergebiet Getränkelogistik" BV-Empf. Nr. 14-20 / E 01539 des Bezirksausschusses 23 am 27.06.2017
+- TOP 5.2.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 5.3.: Bauleitplanung der Gemeinde Karlsfeld B-Plan Nr. 111 "Grundschule Krenmoosstraße"
+- TOP 5.4.: Verschwenkung der Eversbuschstraße ab Allacher Straße nach Westen
+- TOP 5.5.: Beauftragter gegen Extremismus
+- TOP 5.6.: Niethammerstraße/Kunstmannstraße/Haldenbergerstraße Einrichtung eines absoluten Halteverbotes im Einmündungsbereich
+- TOP 5.7.: Ramannstr. 7, Gemarkung: Allach, Fl.Nr.: 686/0 Neubau eines Mehrfamilienwohnhauses und eines Wohnhauses mit Garage, Abbruch der Bebauung und Teilung des Grundstücks - VORBESCHEID
+- TOP 5.8.: Kleselstraße, Gemarkung: Allach, Fl.Nr.: 56/9 Teilweise Aufstockung der Garage
+- TOP 5.9.: Krautheimstraße 4, Gemarkung: Untermenzing, Fl.Nr.: 236/11 Neubau eines Einfamilienhauses - VORBESCHEID Vollzug der Baumschutzverordnung
+- TOP 5.10.: Eversbuschstraße 119, Gemarkung: Allach, Fl.Nr.: 130/3 Neubau eines Einfamilienhauses - VORBESCHEID
+- TOP 5.11.: Herbigstr. 6, Gemarkung: Untermenzing, Fl.Nr.: 1049/7 Neubau eines Doppelhauses (2 WE je DHH) mit Garagen Vollzug der BaumschutzVO
+- TOP 5.12.: Dachauer Str. 667, Gemarkung: Allach, Fl.Nr.: 1409/4 Neubau eines Akustik-Rollenprüfstandes mit Büro- und Werkstattflächen Vollzug der BaumschutzVO
+- TOP 5.13.: Projekt vom Weltspieltag zum Weltkindertag 2018: Ausschreibung für die Münchner Stadtbezirke
+- TOP 6.1.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.2.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 6.3.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.4.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.5.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 6.6.: (U) Straßenbenennung im 23. Stadtbezirk Allach-Untermenzing Erwin-Schleich-Straße
+- TOP 6.7.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 6.8.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 6.9.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 6.10.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 6.11.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP 6.12.: (U) Bebauungsplan mit Grünordnung Nr. 2103 Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich), imaginäre östliche Verlängerung der Höcherstraße (nördlich) (teilweise Verdrägung des Bebauungsplanes mit Grünordnung N. 1904) Diamalt-Gelände -Satzungsbeschluss- Stadtbezirk 23 Allach-Untermenzing
+- TOP 6.13.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 6.14.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 6.15.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung N. 1617c Franz-Nißl-Straße (westlich), Hintermeierstraße (nördlich), Lewaldstraße (südlich) Seniorinnen- und Seniorenwohn- und Pflegeheim (SWP) Teilverdrängung des Bebauungsplanes mit Grünordnung Nr. 1655a -Satzungsbeschluss- Stadtbezirk 23 Allach-Untermenzing
+- TOP 6.16.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 6.17.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 6.18.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 6.19.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 6.20.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Fernzugriff auf Intranet, Kalender und Mail für Bezirksausschuss-Vorsitzende ("IKM-Lösung"); Bedarfsabfrage
+- TOP 7.2.: Bezirksausschuss-Schaukasten Vesaliusstraße vor dem Anwesen Nr. 24
+- TOP 7.3.: Aktualisierte Sitzungstermine 2018
+- TOP 7.4.: Schreiben Referat für Gesundheit und Umwelt vom 30.11.2017: Einladung Besprechung Kneippanlage an der Servetstraße
+- TOP 9.1.: Schreiben Stadtkämmerei vom 15.11.2017: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017-2021
+- TOP 9.2.: Schreiben Sozialreferat vom 09.11.17: Stadtratsantrag Nr. 03154: Bezahlbaren Wohraum für Kita-Personal zur Verfügung stellen
+- TOP 9.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.11.2017: Fällungsgenehmigung Niethammerstr. 3
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Am Lochholz 33, Am Münchfeld, Hitlstr. 64, Zum Schwabenbächl 29, Adolf-Mathes-Weg 1, Riezlerweg 70, Krautheimstr. 38, Dachauer Str. 667, Karl-Rahner-Str. 3, Eduard-Schwarz-Str. 3, Allacher Str. 194-196
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge: (05.-12.11.2017, 13.-169.11.2017, 20.-26.11.2017)
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.11.2017: Straßenanbindung Pasteurstraße - Birkenstraße Zwischennachricht
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.11.2017: Planung weiterer Nord-Süd-Verbindungen zur Eversbuschstraße Zwischennachricht
+- TOP 9.8.: Schreiben Referat für Gesundheit und Umwelt vom 21.11.2017: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Paul-Ehrlich-Weg 130 Asphaltmischanlage
+- TOP 9.9.: Schreiben Baureferat vom 17.11.2017: Weitere Spielmöglichkeiten für Jugendliche und Kinder am Spielplatz Megerlestraße
+- TOP 9.10.: Schreiben Baureferat vom 22.11.2017: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.11.: Schreiben Referat für Bildung und Sport vom 08.11.2017: Integrationskindergarten SpielWerkstatt Allach-Untermenzing e.V.
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 21.11.2017: verkehrsrechtliche Anordnung Ernst-Kuhn-Straße Errichtung eines absoluten Halteverbotes
+- TOP 9.13.: Schreiben Kreisverwaltungsreferat vom 23.11.2017: verkehrsrechtliche Anordnung Bauschweg Errichtung Halteverbot
+- TOP 9.14.: Schreiben Kreisverwaltungsreferat vom 23.11.2017: verkehrsrechtliche Anordnung Karl-Gayer-Straße Einrichtung von Halteverboten
+- TOP 9.15.: Schreiben Kreisverwaltungsreferat vom 17.11.2017: verkehrsrechtliche Anordnung Peter-Müller-Straße Halteverbot
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 13.11.2017: verkehrsrechtliche Anordnung Wilhelm-Zwölfer-Straße Gehweg "Radfahrer frei"
+- TOP 9.17.: Schreiben Kreisverwaltungsreferat vom 22.11.2017: verkehrsrechtliche Anordnung Allacher Straße269-271 und Elly-Staegmeyr-Str. 2 Verlängerung - Berohrung einer Gasleitung
+- TOP 9.18.: Schreiben Kreisverwaltungsreferat vom 28.11.2017: verkehrsrechtliche Anordnung Lina-Hähnle-Straße Errichtung eines absoluten Halteverbotes
+- TOP 9.19.: Schreiben Kreisverwaltungsreferat vom 27.11.2017: verkehrsrechtliche Anordnung Eversbuschstraße, nördlich Eisolzrieder Straße Anpassung der Beschilderung
+- TOP 9.20.: Schreiben Sozialreferat vom 14.11.17: Protokoll Mieterbeirat vom 23.10.17
+- TOP 9.21.: Schreiben Sozialreferat vom 17.11.2017: Übersicht Unterkünfte Wohnungslose und Flüchtlinge November 2017
+- TOP 9.22.: Trocken-Trenn-Toiletten-System Grünfläche ehemaliges Allacher Sommerbad
+- TOP 9.23.: Schreiben Stadtwerke München vom 13.11.2017, 20.11.2017, 27.11.2017, 05.12.2017 Baumaßnahmen
+- TOP 9.24.: Schreiben IB Süd vom 24.11.2017: Polizeieinsatz am 23.11.2017 in Allach
+- TOP 9.25.: Schreiben Verein D&#039;Blutenburgler e.V. vom 03.10.2017: Verwendungsnachweis Morgentanz 1200 Jahrfeier Menzing
+- TOP 9.26.: Schreiben Verein 1200 Jahre Menzing e.V. vom 23.10.2017: Vewendungsnachweis Kanalanschluss für das Festzelt 1200 Jahre Menzing
+- TOP 9.27.: Schreiben BA 17 vom 20.11.2017: Antrag Vorkaufsrecht nach dem BauGB
+- TOP 9.28.: Schreiben MOEG GmbH vom 30.11.2017: Bepflanzung Oertelplatz
+- TOP 9.29.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.12.2017: Dachauer Str. 667: Neubau eines Akkustik-Rollenprüfstandes mit Büro- und Werkstattflächen
