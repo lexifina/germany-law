@@ -1,0 +1,51 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2017-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4755479
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4755479
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Landsberger Str. 139
+- TOP 6.2.2.: Bauvorhaben Ridlerstr. 35b - 37
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Radverkehrsführung Theresienhöhe
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Vorkaufsrecht nach dem BauGB; Antrag BA17
+- TOP 6.3.3.: Quartiersplatz Theresienhöhe und nächtliche Situation und Trampelpfad
+- TOP 6.3.4.: Vorlage Arnulfsteg
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Straßenumbau vor dem Paulanerkeller
+- TOP 8.3.2.: Reinigung und Instandsetzung der Sitzbänke im 8. Stadtbezirk
+- TOP 8.3.3.: Gefahrenbaum Westendstr. 161 (Ecke Ridlerstr.)
+- TOP 8.3.4.: Verkehrssituation Gollierplatz
+- TOP 8.3.5.: SWM - Informationen Fernwärmeprojekte
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: MIP 2017 - 2021
