@@ -1,0 +1,70 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2017-12-12T18:00:00+01:00
+- Ende: 2017-12-12T19:45:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZawkb8TiN2VpljUdDeDFMpY
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19570
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTjS2Cnzid21qwQBSj6uhGklMp-f-_CMoKuEwsSQlq85/Bekanntmachung_Rat_12.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpGWC9cDNXD93GMm-fxuv5h2SCF7kltuWhDGX6J0GHF/Oeffentliche_Niederschrift_Rat_12.12.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 26.09.2017 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Nutzung Heisterbacher Tor -   
+- TOP 5.: Integriertes Stadtentwicklungskonzept (ISEK); hier: Vorstellung Abschlussbericht / Maßnahmenplan -   
+- TOP -: Integriertes Stadtentwicklungskonzept (ISEK); hier: Vorstellung Abschlussbericht / Maßnahmenplan -   
+- TOP -: Integriertes Stadtentwicklungskonzept (ISEK); hier: Vorstellung Abschlussbericht / Maßnahmenplan - Beschluss mit 28 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 6.: Antrag nach § 24 Gemeindeordnung (GO NRW) hier: Antrag auf Aufnahme eines beratenden Mitglieds des Behindertenbeirates in den Stadtentwicklungsausschuss - Beschluss mit 28 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 7.: 18. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen, Wege und Plätze in der Stadt Bad Münstereifel (Straßenreinigungssatzung) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 8.: 31. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung in der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 9.: 20. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel -   
+- TOP -: 20. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 10.: 4. Satzung zur Änderung der Gebührensatzung vom 30.11.2009 zur Friedhofs- und Bestattungssatzung der Stadt Bad Münstereifel vom 18.12.2007 - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 11.: Erlass einer Satzung über die Erhebung von Kostenersatz und Entgelten bei Einsätzen sowie über die Festsetzung des Verdienstausfalls für ehrenamtliche Angehörige der Freiwilligen Feuerwehr Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 12.: Satzung zur Festlegung der Zahl der zu wählenden Stadtverordneten des Rates der Stadt Bad Münstereifel anlässlich der Kommunalwahlen 2020 und fort folgende - Einstimmiger Beschluss:
+- TOP 13.: Fällen von Bäumen am Kindergartengrundstück Mutscheid - Beschluss bei 19 Ja-Stimmen, 8 Nein-Stimmen und 2 Enthaltungen:
+- TOP 14.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte gemäß § 46 Abs. 3 SchulG NRW -   
+- TOP -: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 15.: 14. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) hier: Gebührenkalkulation 2018 - Einstimmiger Beschluss:
+- TOP 16.: Bedarfsberechnung (Kalkulation) Kanalanschlussbeitrag - Einstimmiger Beschluss:
+- TOP 17.: Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Bad Münstereifel hier: a) Gebührenkalkulation 2018 b) 42. Änderungssatzung -   
+- TOP -: Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Bad Münstereifel hier: a) Gebührenkalkulation 2018 b) 42. Änderungssatzung - Einstimmiger Beschluss:
+- TOP 18.: Entlastung für das Wirtschaftsjahr 2016 hier: Entlastung des Betriebsausschuss "Stadtwerke" durch den Rat - Einstimmiger Beschluss ohne Mitwirkung der Mitglieder des Betriebsausschusses „Stadtwerke“:
+- TOP 19.: Wassergebühren 2018 - Einstimmiger Beschluss:
+- TOP 20.: Erlass der Wirtschaftspläne 2018 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Feststellung -   
+- TOP -: Erlass der Wirtschaftspläne 2018 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Feststellung - Einstimmiger Beschluss:
+- TOP 21.: Entlastung für das Wirtschaftsjahr 2016 hier: Entlastung des Betriebsausschuss "Forstbetrieb" durch den Rat - Einstimmiger Beschluss ohne Mitwirkung der Mitglieder des Betriebsausschusses „Forstbetrieb“:
+- TOP 22.: Feststellung Jahresabschluss zum 31.12.2016 des Eigenbetriebs Forst der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 23.: Erlass des Wirtschaftsplanes 2018 des Forstbetriebes der Stadt Bad Münstereifel Hier: Feststellung - Einstimmiger Beschluss:
+- TOP 24.: Gesamtabschluss 2016 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 25.: Erlass der Haushaltssatzung für das Haushaltsjahr 2018 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2025; hier: 1. Veränderungsliste -   
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2018 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2025; hier: 2. Veränderungsliste, Fortschreibung bis 2025 und Beschlussfassung - Beschluss mit 28 Ja-Stimmen, 1 Nein-Stimme und 1 Enthaltung:
+- TOP 26.: Stellenplan für das Haushaltsjahr 2018 - Beschluss mit 19 Ja-Stimmen, 9 Nein-Stimmen und 2 Enthaltungen:
+- TOP 27.: Anfragen und Mitteilungen
+- TOP 27.1: Haushalt 2017 hier: Bericht zum 30.09.2017 im Rahmen des Finanzcontrollings
+- TOP 27.2: Einrichtung einer Zentralen Vergabestelle
+- TOP 27.3: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2018
+- TOP 27.4: Kostenlose BürgerApp hier: Newsletter abonnieren
+- TOP 27.5: Verfahren in Rat und Ausschüssen
+- TOP 27.6: Fällung von Bäumen an der Tennisanlage im Goldenen Tal, Bad Münstereifel
+- TOP 27.7: Gremienbesetzung in der ENE-Gruppe
+- TOP 27.8: Umzug der Friedhofsverwaltung
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Verwertung eines Grundstücks in Bad Münstereifel-Mutscheid, Arandstraße - Einstimmiger Beschluss:
+- TOP 2.: Nutzung Heisterbacher Tor - Einstimmiger Beschluss:
+- TOP 3.: Zinsmanagement -    
+- TOP -: Zinsmanagement - Einstimmiger Beschluss:
+- TOP 4.: Ersatzbeschaffung eines Geräteträgers für den städtischen Bauhof; hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 5.: Vergabe von Stromlieferungen - Einstimmiger Beschluss:
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Entwicklung Parkhotel
+- TOP 6.2: Sachstand Kita Arloff hier: Anfrage des Stadtverordneten Frank Terschanski, SPD-Fraktion
+- TOP 6.3: Einladung Umtrunk
