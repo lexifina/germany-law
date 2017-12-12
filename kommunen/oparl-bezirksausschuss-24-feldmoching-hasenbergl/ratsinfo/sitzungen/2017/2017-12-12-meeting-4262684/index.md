@@ -1,0 +1,82 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2017-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4262684
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4262684
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Gedenkstätte KZ-Außenlager Dachau-Allach in Ludwigsfeld" Ausstellung vom 31.03. - 23.03.2018 2.900,00 Euro 0262.0-24-0213
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V. Dorffasching am 11.02.2018 2.733,00 € 0262.0-24-0214
+- TOP 2.3.: (E) Fahrbahnmarkierung Karlsfelder Straße - Schwabenbach bis Haltestelle, 80995 München (Ziffer 1 des Antrages)
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Interessengemeinschaft Fasanerie aktiv e.V., Initiativbündnis Informations- und Diskussionsveranstaltung am 08.01.2018 1.960,00 Euro Az. 0262.0-24-0215
+- TOP 3.: Anträge
+- TOP 3.1.: Ampel-Regelung an der Wilhelmine-Reichard-Straße in die Lassallestraße
+- TOP 3.2.: Parksituation Berberitzenstraße
+- TOP 3.3.: Bereitstellung von geeigneten Räumlichkeiten für einen Nachbarschafts-/Bürgertreff in der Fasanerie
+- TOP 5.1.1.: N Detmoldstr. 11
+- TOP 5.2.1.: Irisstr. 46
+- TOP 5.2.2.: Feldmochinger Str. 397
+- TOP 5.2.3.: Stüdlstr. 3
+- TOP 5.2.4.: N Lerchenauer Str. 147
+- TOP 5.2.5.: N Thelottstr. 20
+- TOP 5.4.1.: Beauftragter gegen Extremismus BA-Antrag Nr. 14-20 / B 03901 des Bezirksausschusses des Stadtbezirkes 21 - Pasing-Obermenzing vom 25.07.2017
+- TOP 5.4.2.: Beschlussentwurf zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 5.4.3.: Bauleitplanung der Gemeinde Karlsfeld, B-Plan Nr. 111 "Grundschule Krenmoosstraße" - Beteiligung nach § 4 Abs. 2 BauGB -
+- TOP 5.4.4.: Verkehrsrechtliche Anordnung nach § 45 StVO; Pappelallee/Am Schnepfenweg, Einrichtung eines absoluten Haltverbotes
+- TOP 5.4.5.: N Beschlussentwurf zu diversen Bürgerversammlungsempfehlung zu Verkehr und Luft im 24. Stadtbezirk (Nrn. 14-20 / E 01413, E 01414, E 01409, E 01403, E 00894)
+- TOP 5.4.6.: N Antrag auf Planfeststellung i.V.m. Änderung der luftverkehrsrechtlichen Genehmigung der Bundespolizei-Fliegerstaffel für das Vorhaben Verlegung der Polizeihubschrauberstaffel Bayern vom Verkehrsflughafen München nach Oberschleißheim, Erneute Anhörung nach Änderung des Lärm- und Umweltgutachtens
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Walter-Sedlmayr-Platz, Feldmochinger Adventsmarkt am 09/10.12.2017 – Stellungnahme gem. § 13 Abs. 2 BA-Satzung -
+- TOP 6.2.: Ergänzung der bestehenden Verkehrsschilder "Sonderweg für Fußgänger" an der Bahnunterführung Toni-Pfülf-Str. mit "Fahrradfahrer frei"
+- TOP 6.3.: Änderung des Hinweisschildes an der Ecke Wilhelmine-Reichard-Straße - Zwischennachricht
+- TOP 6.4.: Entscheidung über Projektplanung gem. OB-Vollmacht: Programm barrierefreie Bushaltestellen; Aschenbrennerstr./Blodigstr. - Haltestelle Stanigplatz
+- TOP 6.5.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Waldrebenstraße zwischen den Hausnummern 8b und 10, Einrichtung eines absoluten Haltverbotes b) Feuerwehranfahrtzone Knospenstraße c) Bocksdornstraße, Versetzung des Gefahrzeichens "Kinder" d) Waldrebenstraße/Lerchenauer Straße, Ausweitung des bestehenden absoluten Haltverbotes im Einmündungsbereich e) Ebereschenstraße, Einrichtung eines absoluten Haltverbotes
+- TOP 6.6.: Unveränderte Fortführung eines Gaststättenbetriebes: -Josef-Frankl-Str. 47a
+- TOP 6.7.: Bevorstehende Entfernungen von Gefahrenbäumen im 24. Stadtbezirk
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: Meldelisten Baumfällungsanträge
+- TOP 6.10.: Daten Pegel Feldmoching
+- TOP 6.11.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 6.12.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 6.13.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP 6.14.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 6.15.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 6.16.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 6.17.: (U) Nachverdichtungssatzung oder Ergänzung zur Stellplatzsatzung zum Schutz von Bäumen Antrag Nr. 14-20 / A 02840 der Stadtratsfraktion Die Grünen – rosa Liste vom 03.02.2017
+- TOP 6.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.19.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 6.20.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 6.21.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 6.22.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 6.23.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 6.24.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 6.25.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 6.26.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 6.27.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021 Einzelplan 4 / Sozialbereich
+- TOP 6.28.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.29.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 6.30.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.31.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021
+- TOP 7.2.1.: Bericht Heimbeiräte; Einladungen 2017
+- TOP 8.1.: Protokoll der Sitzung am 10.10.2017 (nach Genehmigung in der Sitzung am 14.11.2017)
+- TOP 8.2.: Vorkaufsrecht nach dem BauGB
