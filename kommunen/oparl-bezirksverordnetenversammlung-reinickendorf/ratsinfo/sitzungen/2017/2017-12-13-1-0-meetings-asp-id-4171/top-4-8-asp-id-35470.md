@@ -1,0 +1,8 @@
+# TOP 4.8: Bundestagswahl 2018?
+
+- Sitzung: 15. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2017-12-13)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=35470
+- Ergebnis: schriftlich beantwortet
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=35470
