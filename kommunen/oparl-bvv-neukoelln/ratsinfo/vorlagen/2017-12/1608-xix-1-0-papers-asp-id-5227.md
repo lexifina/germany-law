@@ -1,0 +1,16 @@
+# Rathaus-Ralley wiederbeleben
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 1608/XIX
+- Art: Vorlage zur Kenntnisnahme - SB
+- Datum: 2017-12-13
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5227
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=5227
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=58999
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2799 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2693 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2930 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2801 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3142 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=1
