@@ -1,0 +1,88 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2017-12-13T15:00:00+01:00
+- Ende: 2017-12-13T19:00:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3758
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/3758
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 23. Sitzung des Hauptausschusses am 11.10.2017 -öffentlicher Teil- - Niederschrift ohne Einwendung
+- TOP 2: Bericht zum Strategischen Controlling - Kenntnisnahme
+- TOP 3: HSP-Umsetzungsbericht 30.09.2017 - Kenntnisnahme
+- TOP 4: Stellenplan 2018 - Mit Stimmenmehrheit beschlossen
+- TOP 5: Entwurf des Haushaltes 2018, Haushaltssatzung einschl. Anlagen und HSP - Mit Stimmenmehrheit beschlossen
+- TOP 5.1: Vierter Nachtrag Tarif Museum Abteiberg und Siebter Nachtrag Tarif Museum Schloss Rheydt - Ohne Abstimmung
+- TOP 5.2: Bezirksbürger*innenhaushalt - Vom Antragsteller zurückgezogen
+- TOP 5.3: Entwurf des Hauhaltes 2018 - Ohne Abstimmung
+- TOP 5.4: Beratung und Entwurf Haushalt 2018 - Ohne Abstimmung
+- TOP 5.5: Haushalt 2018; hier: HSP – Maßnahme neu (Einnahme aus Altkleidersammlung);hier: Fraktionsantrag DIE LINKE vom 28.11.2017 - Vom Antragsteller zurückgezogen
+- TOP 5.6: Haushalt 2018; hier: HSP-Maßnahme 2016-0229 (Reduzierung der Kosten der Unterkunft) - Vom Antragsteller zurückgezogen
+- TOP 5.7: HSP – Maßnahme 2012-0031 (Übernachtungssteuer) - Vom Antragsteller zurückgezogen
+- TOP 5.8: Haushalt 2018;hier: HSP - Maßnahme 2012-0085 (Einnahme aus Kursgebühren) - Vom Antragsteller zurückgezogen
+- TOP 5.9: Antrag zum Etat 2018: Erhöhung der Quote der Schülerinnen und Schüler mit qualifiziertem Schulabschluss; - Vom Antragsteller zurückgezogen
+- TOP 5.10: Entwurf des Haushaltes 2018: Haushaltssatzung einschließlich Anlagen und der Fortschreibung des Hau - Vom Antragsteller zurückgezogen
+- TOP 5.11: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschreibung des Hausha - Vom Antragsteller zurückgezogen
+- TOP 5.11.1: Beratung des Entwurfes des Haushaltes 2018 einschl. des Entwurfes der Fortschreibung des Haushaltssa - Vom Antragsteller zurückgezogen
+- TOP 5.12: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschreibung des Hausha - Vom Antragsteller zurückgezogen
+- TOP 5.13: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschreibung des Hausha - Vom Antragsteller zurückgezogen
+- TOP 5.14: Beratung Entwurf Haushalt 18 Teilnahme "Vitale Innenstädte" - Vom Antragsteller zurückgezogen
+- TOP 5.14.1: Beratung des Entwurfes des Haushaltes 2018 einschließlich de sEntwurfs der Fortschreibung des Hausha - Vom Antragsteller zurückgezogen
+- TOP 6: Wirtschaftsplan 2018 der mags - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 7: 1. Nachtrag zur Abfallsatzung - Kenntnisnahme
+- TOP 7.1: Alternative Abfallkonzepte - Kenntnisnahme
+- TOP 7.2: Aufnahme Tagesordnungspunkt „Abfallkonzepte“ - Ohne Abstimmung
+- TOP 7.3: Bericht des Instituts für Abfall-Abwasser und Infrastruktur-Management (INFA) über weitere Varianten der Einsammlung und des Transports von Restmüllabfall in Mönchengladbach; - Ohne Abstimmung
+- TOP 7.3.1: Neufassung der Abfallsatzung - Kenntnisnahme
+- TOP 7.4: Änderungsantrag zu Top 7.3.-Neufassung der Abfallsatzung- 2760 Anlage 1 - Mit Stimmenmehrheit abgelehnt
+- TOP 7.5: Erster Nachtrag Abfallsatzung und Abfallgebührensatzung - Kenntnisnahme
+- TOP 8: Zweiter Nachtrag zur Satzung mags - Mit Stimmenmehrheit beschlossen
+- TOP 9: Straßenreinigungssatzung - Kenntnisnahme
+- TOP 10: Friedhofs- und Friedhofsgebührensatzung - An den Rat verwiesen
+- TOP 10.1: Änderungsantrag zur Friedhofssatzung - An den Rat verwiesen
+- TOP 11: Flächenkonzept Hauptfriedhof - Mit Stimmenmehrheit beschlossen
+- TOP 12: Flächenkonzept Friedhof Hardt - Mit Stimmenmehrheit beschlossen
+- TOP 13: RW-Holding-Modell - Einstimmiger Beschluss
+- TOP 14: Öffentlich-rechtliche Vereinbarung mit dem Kreis Heinsberg - Einstimmiger Beschluss
+- TOP 15: Vorabbekanntmachung für die Direktvergabe eines öffentlichen Dienstleistungsauftrags - Einstimmiger Beschluss
+- TOP 15.1: Vorabbekanntmachung für die „Direktvergabe“ eines öffentlichen Dienstleistungsauftrags - Ohne Abstimmung
+- TOP 16: Beteiligung der NEW Kommunalholding GmbH an der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 17: Beteiligung der NEW Kommunalholding GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 18: HSP 2016-0225 Optimierung von gebäudewirtschaftlichen Aufgabenstellungen - Mit Stimmenmehrheit beschlossen
+- TOP 19: Wirtschaftsplan des Gebäudemanagement Mönchengladbach 2018 - Mit Stimmenmehrheit beschlossen
+- TOP 20: HSP-Nr. 2013-0200, Zentrale Kreditaufnahmen im Konzern; hier: Ausreichung von Darlehen an die EWMG - Mit Stimmenmehrheit beschlossen
+- TOP 21: Bereitstellung überplanmäßiger Haushaltsmittel - Einstimmiger Beschluss
+- TOP 22: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2017 - Kenntnisnahme
+- TOP 23: Überplanmäßige Mittelbereitstellung Krankenhausumlage - Einstimmiger Beschluss
+- TOP 24: Beteiligung der EWMG an der PPG-Nordpark GmbH und der Parken MG GmbH - Einstimmiger Beschluss
+- TOP 25: Theater mit Zukunft III - Einstimmiger Beschluss
+- TOP 26: SEP 7 - Primarstufe - Mit Stimmenmehrheit beschlossen
+- TOP 27: Sanierung und Erweiterung der Zentralbibliothek - Einstimmiger Beschluss
+- TOP 28: Verlängerung der Sockelbetragsfinanzierung - Einstimmiger Beschluss
+- TOP 29: Präventionsprojekt HOME - Hilfe und Orientierung für Mönchengladbacher Eltern – Projektverlängerung - Zur Kenntnis genommen
+- TOP 30: Leistungsvereinbarungen Erziehungsberatungsstellen - Einstimmiger Beschluss
+- TOP 31: Leistungsvereinbarung Kinderschutzbund - Einstimmiger Beschluss
+- TOP 32: Leistungsvereinbarung Zornröschen - Einstimmiger Beschluss
+- TOP 33: Leistungsvereinbarung Menschen im Zentrum - Einstimmiger Beschluss
+- TOP 34: Leistungsvereinbarung Caritas - Einstimmiger Beschluss
+- TOP 35: Leistungsvereinbarung pro familia - Einstimmiger Beschluss
+- TOP 36: Leistungsvereinbarung mit der Diakonisches Werk gGmbH über die sozialpädagogische Begleitung Jugend - Einstimmiger Beschluss
+- TOP 37: 23. NT Kanalgebührensatzung und 10. NT Kleinkläranlagen - Einstimmiger Beschluss
+- TOP 38: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2017 - Teil 2 - Einstimmiger Beschluss
+- TOP 39: Beitritt zur AGFS NRW - Einstimmiger Beschluss
+- TOP 40: Masterplan Nahmobilität - Beschlussfassung - Mit Stimmenmehrheit beschlossen
+- TOP 41: Bebauungsplan Nr. 772/S - Steinsstraße - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 42: Reitbeschränkung auf Waldgebiete - Einstimmiger Beschluss
+- TOP 43: Benennung des Platzes am Museum; hier: Antrag der CDU- und der SPD-Ratsfraktionen vom 31.08.2017 - Einstimmiger Beschluss
+- TOP 44: Umbenennung des Umweltausschusses in „Umwelt- und Feuerwehrausschuss“; hier: Fraktionsantrag CDU/SPD vom 06.11.2017 - Mit Stimmenmehrheit beschlossen
+- TOP 45: Einrichtung von Sonderpunkten im Radknotennetz; hier: Antrag Ratsfraktion Bündnis 90/DIE GRÜNEN vom 08.11.2017 - An den Rat verwiesen
+- TOP 46: Erhalt des Sozialtickets; hier: Fraktionsantrag Bündnis 90/Die Grünen vom 08.11.2017 - Vom Antragsteller zurückgezogen
+- TOP 47: Bienenfreundliches Straßenbegleitgrün; hier: Fraktionsantrag DIE LINKE vom 14.11.2017 - Mit Stimmenmehrheit abgelehnt
+- TOP 48: Stärkung der Jugendpartizipation in Mönchengladbach; hier: Fraktionsantrag CDU/SPD vom 21.11.2017 - Mit Stimmenmehrheit beschlossen
+- TOP 48.1: Stärkung der Jugendpartizipation in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 49: Anfragen und Mitteilungen
