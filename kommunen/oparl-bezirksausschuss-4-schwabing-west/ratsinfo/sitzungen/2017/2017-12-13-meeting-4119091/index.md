@@ -1,0 +1,108 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2017-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4119091
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4119091
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 6.1.: Mailversand Direktorium
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP 6.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017-2021
+- TOP 6.3.: Auch bei künftigen Wahlen Wahllokale auf dem BMW-Gelände geplant? (Antwort des Kreisverwaltungsreferats auf Anfrage Nr. 14-20 / Q 00438 aus der Bürgerversammlung vom 05.10.2017)
+- TOP B: Soziales
+- TOP 2.1.: Ausschreibung zum Weltkindertag 2018
+- TOP 2.2.: Planung der Einsätze der Münchner SommerSpielaktion 2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 3.3.2.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.3.3.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 3.3.4.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.3.5.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Wartehalle Kurfürstenplatz: Umrüstung einer Werbevitrine in eine Wechsleranlage
+- TOP 2.1.2.: Rossinistr. 12 / Ecke Destouchesstraße: Aufstellung eines Zeitungsentnahmegeräts
+- TOP 2.2.1.: Antrag auf Verlängerung des Bewilligungszeitraums für das aus dem BA-Budget geförderte Filmprojekt „O&#039;pflanzt is“
+- TOP 2.2.2.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer: hier: Ackermannstraße – Anhörung zu Textvorschlag und Art + Anzahl der Schilder
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Zuwendungsbescheid an das Haus an der Rümannstraße für den Bücherschrank
+- TOP 3.3.1.: TV-Serie „München Mord“ am 23.11.2017 in der Georgenstraße
+- TOP 3.3.2.: TV-Serie „Um Himmels Willen“ am 24.11.2017 in Schleißheimer / Ecke Georgenstraße
+- TOP 3.3.3.: Fernsehproduktion „Song für Mia“ am 28.11.2017 im Luitpoldpark
+- TOP 3.3.4.: Fernsehproduktion „Song für Mia“ am 28.11.2017 an der Bushaltestelle „Petuelring“
+- TOP 3.3.5.: Fernsehproduktion „Song für Mia“ am 02.12.2017 im Luitpoldpark (Berg)
+- TOP 3.3.6.: Fernsehproduktion „Song für Mia“ am 08./09.12.2017 in der Hohenzollernstr. 56-58
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Schleißheimer Str. 118: Nutzungsänderung einer Ladenfläche im EG (Laden 15) zu einer Großtagespflege
+- TOP 2.1.2.: Tengstr. 22: DG-Ausbau und brandschutzrechtliche Ertüchtigung
+- TOP 2.1.3.: Nordendstr. 34: Sanierung eines Mehrfamilienhauses mit zwei Ladeneinheiten, Aufstockung mit Dachausbau, Anbau einer Außenaufzugsanlage und Unterteilung der vorhandenen Wohneinheiten
+- TOP 2.1.4.: Herzogstr. 92-106: Derzeitiger Sachstand
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 3.2.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 3.2.3.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 3.2.4.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 3.2.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: SPD: Blindensignale an allen Verkehrsampeln
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Apianstr. 5: Fällung eines Holunders
+- TOP 2.1.2.: Schleißheimer Str. 280-280a: Fällung einer Fichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: MVG-Metrobuslinie 59 im Bereich Ackermannbogen (Antwort der MVG auf BA-Schreiben vom 26.10.2017)
+- TOP 3.1.2.: Feinstaubbelastung in München (Ziffer 1 des Antrags)
+- TOP 3.1.3.: Parksituation in der Fürstenbergstraße: Belastung durch parkende Besucher von Großveranstaltungen (Zwischennachricht des KVR zu BA-Schreiben vom 24.08.2017)
+- TOP 3.1.4.: Häufiger Ausfall der Rolltreppen am Bonner Platz (Antwort der MVG auf BA-Schreiben vom 23.11.2017 inkl. Verfügbarkeitsprotokoll)
+- TOP 3.2.1.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen (2 Ahornbäume und ein Kirschbaum in der Borschtallee 26 sowie ein Ahorn in der Karl-Theodor-Str. 92)
+- TOP 3.2.2.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen an Straßen und in öffentlichen Grünflächen im Stadtbezirk
+- TOP 3.3.1.: Kurzparkzone in der Rümannstraße Nordseite vor der Postfiliale der Pfennigparade
+- TOP 3.3.2.: Öffnung der Emanuelstraße zwischen Fallmerayer- und Rankestraße für den gegenläufigen Radverkehr; Einfahrt für Radfahrer in die Rankestraße von der Herzogstraße kommend erlauben
+- TOP 3.3.3.: Öffnung des Theo-Prosel-Wegs zwischen Elisabeth- und Kathi-Kobus-Straße für den gegenläufigen Radverkehr
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 3.4.2.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 3.4.3.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 3.4.4.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 3.4.5.: (U) Tram Nordtangente – Wiederaufnahme der Planung für die Tram durch den Englischen Garten Trambahn-Nordtangente Verknüpfung mit der Münchner Freiheit Antrag Nr. 14-20 / A 03294 von LKR vom 26.07.2017 Das Eisen schmieden so lange es heiß ist - Tram durch den Englischen Garten jetzt sichern Antrag Nr. 14-20 / A 03548 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.11.2017
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
