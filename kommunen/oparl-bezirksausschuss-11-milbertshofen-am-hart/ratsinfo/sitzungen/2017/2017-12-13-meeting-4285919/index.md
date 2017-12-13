@@ -1,0 +1,96 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2017-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4285919
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4285919
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.3.1.: Bodenschachspiel auf der Nordhaide: Erneuerung der Aufbewahrungskästen inkl. neuem Schließsystem für die Schachfiguren sowie Vervollständigen der Schachfiguren
+- TOP 4.4.1.: Anbringen einer Zufahrtsbeschilderung zum Kulturverein Olympiadorf e.V. - forum2
+- TOP 4.4.2.: Radwegenutzung in beide Richtungen zwischen Petuelring und Luitpoldpark (Schleißheimer Str.)
+- TOP 4.4.3.: Ersatz für das abgebaute Wartehaus in der Schleißheimer Str. 327 - Haltestelle Moosacher Str. der Buslinie 177 (stadteinwärts)
+- TOP 4.4.4.: Bad-Nauheimer-Weg zur Barlachstraße: Prüfung von Maßnahmen zur gefahrlosen Querung des Radweges durch beeinträchtigte Personen, insbesondere Rollstuhlfahrer
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Hildegard von Bingen Anger Nikolausbesuch am 06.12.2017 1.425,00 € 0262.0-11-0265
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Skateplatz am Brundageplatz - Sanierung / Neugestaltung
+- TOP 6.2.2.: Christoph-von-Gluck-Platz - Sanierung Spielplatz
+- TOP 6.2.3.: (E) Geruchsbelästigung im 11. Stadtbezirk Empfehlung Nr. 14-20 / E 01676 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.4.: (E) + (U) Glockenspiel "Carillon" zurückführen in den Olympiapark Empfehlung Nr. 08-14 / E 01670 der Bürgerversammlung des Stadtbezirkes 11 -- Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.5.: (E) Fußgängerfreundliche Ampelschaltung an der Schleißheimer Straße/Milbertshofener Straße
+- TOP 6.2.6.: (E) Fahrradampel Milbertshofener Platz/Schleißheimer Straße
+- TOP 6.2.7.: (E) Anwohnerparkplätze bzw. Beschränkung der Parkdauer im Bereich Keferloherstraße/Abtstraße
+- TOP 6.2.8.: (E) Spielstraße Bernaysstraße - Durchfahrtsperre an der Ecke Bernaysstraße / Thelottstraße - Maßnahmen zur Einhaltung der Schrittgeschwindigkeit
+- TOP 6.2.9.: (E) Einbeziehung des Stadtteils Am Hart als Untersuchungsgebiet in das Sanierungsprogramm "Soziale Stadt"
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Oberirdische Namensschilder für U-Bahn-Stationen im Stadtbezirk Milbertshofen – Am Hart
+- TOP 7.4.2.: Straßenmarkierung zum Schutz der Fahrradfahrer an der Kreuzung Eduard-Schrenk-Straße / Schenkendorfstraße
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Ispo-Winter-Run am 27.01.2018 im Olympiapark
+- TOP 8.1.2.: Beauftragter gegen Extremismus BA-Antrag Nr. 14-20 / B 03901 des Bezirksausschusses des Stadtbezirkes 21 - Pasing-Obermenzing vom 25.07.2017
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 8.2.2.: Verfahren nach § 4 Abs. 1 BauGB - Gemeinde Oberschleißheim - Bebauungsplan Nr. 77 - Munich Beach Resort
+- TOP 8.2.3.: Anhörung über Baumfällungsanträge - Wallensteinstr. 16 - Moosacher Str. 80 - Torquato-Tasso-Str. 45 - Keferloherstr. 130 - Hans-Denzinger-Str. 17 - Wallensteinstr. 15 - Keferloherstr. 130 - Georg-von-Mayr-Str. 6
+- TOP 8.2.4.: Lerchenauer Str 76 (Genehmigungskonformität) - AZ: 24951-41
+- TOP 8.2.5.: Bernaysstr. 35 – Schulbauoffensive – Abbruch des Bestands und Neubau einer Grund- und Mittelschule mit Versammlungsstätte, Tiefgarage und Sporthalle
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer - Ackermannstraße
+- TOP 8.3.2.: Spielen in der Stadt e.V.: Planung der SommerSpielAktion 2018
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Motorradkorso am 28.04.2018 - Olympiagelände bis Lindwurmstraße
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Entwurf des Mehrjahresinvestitionsprogrammes 2017 - 2021
+- TOP 9.1.2.: Unveränderte Fortführung von Gaststättenbetrieben - Mekan, Motorstr. 32 b - Konradstüberl, Graf-Konrad-Straße 20 - Bülows, Milbertshofener Str. 29 - Olympia Tennis Bistro, Spiridon-Louis-Ring 21
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 9.2.2.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 9.2.3.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP 9.2.4.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 9.2.5.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 9.2.6.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 9.2.7.: (U) EU-Projekt METAMORPHOSIS
+- TOP 9.2.8.: Vorkaufsrecht Strelitzer Straße
+- TOP 9.2.9.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.10.: Feuchtwanger Str. 4 - Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 9.2.11.: LBK Meldelisten über Bauvorhaben
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 9.3.2.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 9.3.3.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 9.3.4.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 9.3.5.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 9.3.6.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 9.3.7.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 9.3.8.: Verwendungsnachweis - Männerchor Milbertshofen
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Anordnungen des KVR
+- TOP 9.4.2.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 9.4.3.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
