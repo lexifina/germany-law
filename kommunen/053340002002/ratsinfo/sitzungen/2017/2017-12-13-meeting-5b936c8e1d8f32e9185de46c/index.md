@@ -1,0 +1,70 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2017-12-13T17:00:00+01:00
+- Ende: 2017-12-13T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3606
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936c8e1d8f32e9185de46c
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.11.2017 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen. - (offen)
+- TOP 4: Kommunalinvestitionsförderungsgesetz; Verwendung des Anteils der Fördermittel für die U3-Betreuung - ungeändert beschlossen
+- TOP 5: Überprüfung der Öffnungszeiten der Wochenmärkte für Berufstätige Gemeinsamer Ratsantrag der CDU Fraktion und SPD Fraktion im Rat der Stadt Aachen vom 08.12.2016 - ungeändert beschlossen
+- TOP 6: 1. Nachtrag zur Wettbürosteuersatzung - ungeändert beschlossen
+- TOP 7: 20. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen Hier: Notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 8: 17. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 9: 30. Nachtragssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 14.12.1987 - an Verwaltung zurück verwiesen
+- TOP 10: Wirtschaftsplan der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb 2018 - ungeändert beschlossen
+- TOP 11: Friedhofsgebührenordnung der Stadt Aachen / Gebührenbedarfsberechnung - ungeändert beschlossen
+- TOP 12: Nachtragssatzung zur Abfallgebührensatzung einschließlich der Gebührenkalkulation. - ungeändert beschlossen
+- TOP 13: Aufgabenübertragung der Deponie Maria-Theresia auf den ZEW hinsichtlich der Nachsorge, des Betriebes des Sickerwasser- und Gaserfassungsystems und der Sanierung der Deponie Maria-Theresia - an Verwaltung zurück verwiesen
+- TOP 14: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2016 - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan 2018 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 16: Entwurf Wirtschaftsplan 2018 der Volkshochschule Aachen einschließlich mittelfristige Ergebnis- und Finanzplanung 2018 bis 2022 - ungeändert beschlossen
+- TOP 17: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2018 - geändert beschlossen
+- TOP 18: Änderung der Betriebssatzung der für die eigenbetriebsähnliche Einrichtung Kulturbetrieb der Stadt Aachen auf Basis der Eigenbetriebsverordnung des Landes NRW in der Änderungsfassung durch Artikel 26 des Gesetzes vom 08.Juli 2016 (GV.NRW.S559) - geändert beschlossen
+- TOP 19: Wirtschaftsplan Eurogress Aachen 2018 - ungeändert beschlossen
+- TOP 20: Gleichstellungsplan der Stadtverwaltung Aachen - ungeändert beschlossen
+- TOP 21: Veränderung des Stellenplans 2017 Stelleneinrichtung im Fachbereich Personal und Organisation (FB 11) für den zügigen Start des IT-Projektes “Digitalisierung“ - ungeändert beschlossen
+- TOP 22: Nachwahl eines Mitglieds und eines stellvertretenden Mitglieds für den Beirat bei der Unteren Naturschutzbehörde - ungeändert beschlossen
+- TOP 23: Benennung von 7 stimmberechtigten Delegierten für die Mitgliederversammlung 2018 des Städtetages Nordrhein-Westfalen - geändert beschlossen
+- TOP 24: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 24.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen, Haushaltsjahr 2017, Produkt 011001 IT-Management Projekte und Internet Stadt - ungeändert beschlossen
+- TOP 24.2: Mittelverlagerung im Haushaltsjahr 2017 – Verlagerung von Mitteln aus dem Allgemeinen Grunderwerb in Höhe von 115.000 Euro - ungeändert beschlossen
+- TOP 25: Anfragen: - (offen)
+- TOP 25.1: Ratsanfragen - ungeändert beschlossen
+- TOP 25.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 26: Ratsanträge - ungeändert beschlossen
+- TOP 27: Umbesetzung in Ausschüssen und anderen Gremien: - (offen)
+- TOP 27.1: Umbesetzungsantrag der GRÜNE-Fraktion vom 29.11.2017 - ungeändert beschlossen
+- TOP 27.2: Umbesetzungsantrag der Ratsfrau Mara Lux vom 05.10.2017 - ungeändert beschlossen
+- TOP 27.3: Umbesetzungsantrag der Fraktion DIE LINKE vom 06.12.2017 - zurückgezogen
+- TOP 27.4: Umbesetzungsantrag der CDU-Fraktion vom 06.12.2017 - ungeändert beschlossen
+- TOP 27.5: Umbesetzungsantrag der PIRATEN-Fraktion vom 12.12.2017 - ungeändert beschlossen
+- TOP 27.6: Umbesetzungsantrag der CDU-Fraktion vom 12.12.2017 - ungeändert beschlossen
+- TOP 27.7: Umbesetzungsantrag der SPD-Fraktion vom 12.12.2017 - ungeändert beschlossen
+- TOP 28: Mitteilungen der Verwaltung - (offen)
+- TOP 29: Überführung der Euregio Maas-Rhein von einer Stichting in einen EVTZ - ungeändert beschlossen
+- TOP 30: Abschluss eines Sponsoringvertrages hier: Instandsetzung des Gartendenkmals Kaiser-Friedrich-Allee - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
