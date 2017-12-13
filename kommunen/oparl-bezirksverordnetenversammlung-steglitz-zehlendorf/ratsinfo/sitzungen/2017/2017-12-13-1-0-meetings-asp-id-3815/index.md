@@ -1,0 +1,92 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2017-12-13T17:00:00+01:00
+- Ende: 2017-12-13T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3815
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3815
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Endlich verlässlicher Busverkehr in Zehlendorf - beantwortet
+- TOP 3.2: Wird es an der Grundschule am Königsgraben zu "gemütlich"? - beantwortet
+- TOP 3.3: Bearbeitungszeiten für Anträge auf Unterhaltsvorschuss - beantwortet
+- TOP 3.4: Finanzabfluss für Sanierung von Kitas und Schulen sowie Sporthallen und Sportplätzen; ferner Verwendung „kleiner Unterhalt durch die Schulen selbst - beantwortet
+- TOP 3.5: Klassenfahrten in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.6: Wie eng ist es an unseren Grundschulen 2018? - vertagt
+- TOP 3.7: Informationspolitik des Bezirksamtes am Beispiel der Baugenehmigung für den Steglitzer Kreisel - schriftlich beantwortet
+- TOP 3.8: Zeltplatz auf dem Areal Kleistgrab am Kleinen Wannsee II - schriftlich beantwortet
+- TOP 3.9: Sachstand zur Fällung der Waldkiefer am Alfred-Grenander-Platz - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Kinderrettungsstelle im Charité Campus Benjamin Franklin 24 h betreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung einer Patientenfürsprecherin und Neuberufung eines Patientenfürsprechers für die Charité-Universitätsmedizin Berlin, Campus Benjamin Franklin (somatischer Bereich) des Bezirks nach § 30 des Landeskrankenhausgesetzes (LKG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Feststellung gem. § 25 (1) BezVG - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.4: Nachwahl eines weiteren Mitgliedes in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Nachwahl eines Mitgliedes des Bezirksbehindertenbeirates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sondermittel der BVV für den Verein für Körperkultur Berlin-Südwest e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Sondermittel der BVV für den Steglitzer Sport Club Südwest 1947 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Bebauungsplan 6-33 „Fabeckstraße" (FUBIC) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.10: Bebauungsplan 6-40 VE (Wiesenschlag 3) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.11: Sicheres Radfahren auf der Albrechtstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Prüfung des Raumpotentials an der Anna Essinger Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Fahrradständer am S-Bahnhof Botanischer Garten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Gartenstraße als Sackgasse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Obdach nicht nur im „Winter“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Die Stadtteilbibliothek Lankwitz barrierefrei machen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Spontane Vegetation an der Hauptstraße beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Parkbänke Steglitzer Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Mehr Fahrradbügel vor S-Bahn Feuerbachstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Fußgängerüberquerung der Prinz-Friedrich-Leopold-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Freizeitsport und Bürgeranliegen ernst nehmen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Ein Reichtumsbericht für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.23: Steglitz-Zehlendorf macht sich stark für das Schlosspark-Theater - in der BVV zurückgezogen
+- TOP 4.24: Verkehrssicherheit in der Goerzallee erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Parkregelung in der Drakestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Halteverbot am Händelplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Neues Wohngebiet an der Goerzallee auch am Wochenende anbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Ökologische Sanierung des Waldsees - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Kennzeichnung der Skulpturen im Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.30: Schlosspark-Theater erhalten - Steglitz-Zehlendorf kämpft für sein Theater - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Parks Range V – Weiterer Schallschutz notwendig? - in der BVV abgelehnt
+- TOP 4.32: Neue Ateliers für Steglitz Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2016 - überwiesen
+- TOP 5.2: Domicil Seniorenpflegeheim in der Frobenstraße - überwiesen
+- TOP 5.3: Fahrradhäuschen im Bezirk ermöglichen - überwiesen
+- TOP 5.4: Fußgängerüberweg Potsdamer Straße Ecke Fischerhüttenstraße - überwiesen
+- TOP 5.5: Finanzierung von Arbeitsgemeinschaften an Schulen - überwiesen
+- TOP 5.6: Mehr Platz für Fußgänger im Gardeschützenweg - überwiesen
+- TOP 5.7: Beendigung der dreijährigen Untätigkeit bei der Bearbeitung von Kostenerstattung für Klassenfahrten - überwiesen
+- TOP 5.8: Einmündung Fahrenheitstraße in die Osdorfer Straße sichern - überwiesen
+- TOP 5.9: Öffentliche Durchwegung der "Grünen Mitte" auf dem "Parks Range"-Gelände in Lichterfelde-Süd für Bürgerinnen und Bürger II - überwiesen
+- TOP 5.10: Schloßstraße IV: Radstreifen farblich hervorheben - überwiesen
+- TOP 5.11: Qualifizierte Bedarfsanalyse von Raumbedarfen an Schulen in Zusammenhang darstellen - überwiesen
+- TOP 5.12: Pflege weiterer Parks und Grünflächen durch die BSR - überwiesen
+- TOP 5.13: Gemeinsamen Schulstandort für Lichterfelde-Süd planen - überwiesen
+- TOP 5.14: Schloßstraße III: Sichere Radverkehrsführung während Kreiselsanierung - überwiesen
+- TOP 5.15: Reparatur oder Erneuerung der Schutzgeländer am Platz "Am Wilden Eber" - überwiesen
+- TOP 5.16: Schloßstraße II: Bus beschleunigen und Radverkehr nicht ausbremsen - überwiesen
+- TOP 5.17: Verkehrssicherheit Schulweg Wedellstraße - überwiesen
+- TOP 5.18: Schloßstraße I: Ladezonen erweitern für mehr Verkehrssicherheit im Radverkehr - überwiesen
+- TOP 5.19: Zebrastreifen in der Fischerhüttenstraße - überwiesen
+- TOP 5.20: Kooperation zwischen Mercator-Schule und neuer Grundschule in Lichterfelde-Süd - überwiesen
+- TOP 6: Anträge - erledigt
+- TOP 6.1: Endlich eine öffentliche Toilette für den Gemeindepark Lankwitz! - überwiesen
+- TOP 6.2: Poller zu Fahrradbügeln: Fahrradparken im Bezirk verbessern! - überwiesen
+- TOP 7: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 7.1: Milieuschutz in Steglitz-Zehlendorf - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Fahrradwracks am S-Bahnhof Feuerbachstraße - in der BVV abgelehnt
+- TOP 8.2: Transparenz erhöhen - Schriftliche Beantwortung von Kleinen Anfragen und Einwohnerfragen - in der BVV abgelehnt
+- TOP 8.3: Botanischen Garten retten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Weitere Immissionsmessstationen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Papierarme BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.6: Partnerstadt Moskau - in der BVV abgelehnt
