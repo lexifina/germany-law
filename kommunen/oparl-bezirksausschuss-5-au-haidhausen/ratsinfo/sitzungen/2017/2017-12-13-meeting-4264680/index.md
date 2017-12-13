@@ -1,0 +1,155 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2017-12-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4264680
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4264680
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.1.: 100-Jahr-Jubiläum der Rätezeit 2018: "Fest der Demokratie"; weiteres Vorgehen
+- TOP II.2.: Johann Georg Elser, Erinnerung an das Attentat auf Adolf Hitler am 08.11.1939 im Bürgerbräukeller; weiteres Vorgehen
+- TOP 2.2.: Orleansstr. 56: Erweiterung eines Büro- und Verwaltungsgebäudes; Vorbescheid
+- TOP 2.3.: Leuchtenbergring 20: Neubau eines Bürogebäudes mit Einzelhandel und Lagernutzung sowie Umbau und Erweiterung des Designhotels Angelo mit Gaststätte und Tiefgarage; Tektur
+- TOP 2.8.: Sommerstr. 2 Rückgebäude: Umbau und Sanierung eines Rückgebäudes
+- TOP 2.9.: Am Lilienberg 5: Umbau einer Hausmeisterwohnung in eine Präsenzbibliothek, Zustimmungsverfahren nach Art. 73 BayBo
+- TOP 2.10.: Balanstr. 34: Nutzungsänderung: Fotolabor zu Fotostudio (EG)
+- TOP 4.: Bürgeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Sitzgelegenheiten vor dem Haus Eduard-Schmid-Str. 11 (Lärmbelästigung)
+- TOP 4.2.2.: Falschparker in der Oefelestraße
+- TOP 4.2.3.: Fahrbahnbelag Steinstraße / Genoveva-Schauer-Platz
+- TOP 4.2.4.: Überfüllte Glascontainer an der Lothringer Straße / Pariser Straße
+- TOP 4.2.5.: Schülerzahlen am Maria-Theresia-Gymnasium
+- TOP 5.1.: Auskunftsrecht des Bezirksausschusses bezüglich Angelegenheiten privatrechtlich organisierter Unternehmen der Landeshauptstadt München, des Freistaats Bayern und des Bundes Anfrage
+- TOP 5.2.: Schaffung einer reinen Fußgängerzone am Wiener Platz – Radfahrende absteigen !
+- TOP 5.3.: Werksviertel – BA 5 aktiv in die Planungen einbeziehen !
+- TOP 5.4.: Generalsanierung und ggfs. Erweiterung des Jugendtreffs in der Au
+- TOP 5.5.: Weitere Fahrradbügel am Orleansplatz
+- TOP 5.6.: Barrierefreier Versammlungsraum bei Bürgerversammlungen
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Salesianum Weihnachtsfeier der Jugendlichen am 19.12.2017 810,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Kath. Männerfürsorgeverein München e.V. / Haus an der Franziskanerstraße Weihnachtsfeier am 24.12.2017 825,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.3.: Weihnachtsaktion 2017 Zuwendung für bedürftige Familie mit Kindern 5000,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; hier: Zeitungsentnahmegeräte an der Rosenheimer Str. 30 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Die Ampel an der Kreuzung Preysing - Metzgerstr. - Milchstr. soll für Fußgänger länger auf grün geschaltet werden
+- TOP 7.1.: Beauftragter gegen Rechtsextremismus Antrag BA 21 Pasing-Obermenzing
+- TOP 8.2.1.: Energieversorgung durch das HKW Nord 2 Zwischenmitteilung zur Empfehlung Nr. 14-20 / E 1638 der Bürgerversammlung Au-Haidhausen vom 06.07.2017
+- TOP 8.2.2.: Gaststätte „Nektar“, Innere-Wiener-Str. 6 bzw. „Wadn-Busn-Bar“, Bürger- beschwerde
+- TOP 8.2.3.: Entfernung des Mülleimers an der Ecke Weißenburger Platz 1 / Aktuelle Situation mit den Fahrradbügeln vor dem Haus Weißenburger Platz 1
+- TOP 8.2.4.: Erscheinungsbild der Grundschule am Mariahilfplatz
+- TOP 8.2.5.: Planungen am Lebensmittelmarkt Wiener Platz BA-Antrag Nr. 3251 vom 18.01.2017 Bitte um Fristverlängerung bis 31.03.2018
+- TOP 8.2.6.: Situierung des Rettungsschachts für die 2. S-Bahn Stammstrecke in der Püttrichstraße / Baumfällungen während der Bauarbeiten
+- TOP 8.2.7.: Informationen zur Baulücke auf dem Grundstück Metzgerstr. 5 a
+- TOP 8.2.8.: Antrag zum barrierefreien Umbau/Reparatur/Ergänzung des Fußweges Joseph-Holzer-Weg
+- TOP 8.2.9.: Ampel am Straßenbahndepot Einsteinstr. 148
+- TOP 8.3.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017-2021
+- TOP 8.3.2.: (U) Wettbewerb für Umgestaltung des Orleansplatzes durchführen Antrag Nr. 08-14 / A 01975 von DIE LINKE vom 12.11.2010
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 3.1.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 7.1.: Falkenstr. 26: Fällung von 1 Spitzahorn
+- TOP 7.2.: Flurstr. 12: Fällung von 1 Hainbuche und 1 Hemlocktanne
+- TOP 7.3.: Seeriederstr. 6-14a: Fällung von 1 Birke
+- TOP 7.4.: Entenbachstr. 3-3a: Fällung von 1 Schwarzkiefer
+- TOP 7.5.: Kirchenstr. 37: Fällung von 1 Spitzahorn und 1 Berg-Ahorn
+- TOP 7.6.: Gefahrenbaumfällung Kellerstr. 28 (1 Traubenkirsche)
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Vom Weltspieltag zum Weltkindertag 2018: Ausschreibung für die Münchner Stadtbezirke
+- TOP 2.2.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive => dazu: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 14-20 / V 9979, Beschluss des Bildungsausschusses vom 29.11.2017 - siehe auch UA Planung -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sanierung Kita Kirchenstr. 17 a Antwortschreiben der Stadtschulrätin
+- TOP 3.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge November 2017
+- TOP 3.3.: Entwurf des Mehrjahresinvestitionsprogramms 2017 – 2021, Einzelplan 4 / Jugendamtsbereich Sitzungsvorlagen Nr. 14-20 / V 10291, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 28.11.2017
+- TOP 3.4.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 3.5.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.6.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.7.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 3.8.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Salesianum Weihnachtsfeier der Jugendlichen am 19.12.2017 810,00 €
+- TOP 1.2.: Katholischer Männerfürsorgeverein München e.V. / Haus an der Franziskaner- straße Weihnachtsfeier am 24.12.2017 825,00 €
+- TOP 1.3.: Weihnachtsaktion 2017 Zuwendung für bedürftige Familien mit Kindern 5000,00 €
+- TOP 1.4.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; hier: Zeitungsentnahmegeräte an der Rosenheimer Str. 30
+- TOP 2.: Anhörungen
+- TOP 2.1.: Gasteig München GmbH Generalsanierung, Interimsquartiere, Finanzierung, Änderung des MIP 2017-2021 Sitzungsvorlagen Nr. 14-20 / V 10113, Beschlussvorlage für den gemeinsamen Ausschuss für Arbeit und Wirtschaft und des Kulturausschusses am 16.01.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verwendungsnachweis / Abrechnung für Zuschuss aus dem Budget des BA 5: - Sommerfest IGH e.V. - Sommerfest HEI - Sommerfest der Teestube „komm“
+- TOP 3.2.: Rücknahme des Budgetantrags von AKA e.V. für den Haidhauser Kultursonntag am 02.07.2017
+- TOP 3.3.: 4 mögliche Marktveranstaltungen auf dem Orleansplatz im Jahr 2018 (Anfrage Kreisverwaltungsreferat)
+- TOP 3.4.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.5.: Antrag auf Erteilung einer Ausnahmegenehmigung für das Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund vor der Schank- und Speisewirtschaft „Bosporus“ in der Ohlmüllerstr. 26 Entscheidung durch den Oberbürgermeister
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Grillparzerstr. 34: Dachgeschoss-Neubau zur Wohnnutzung durch Aufstockung eines 5-geschossigen Wohnhauses mit einem Vollgeschoss Variante 1: First wie Bestand, Variante 2: First neue Höhe; Vorbescheid
+- TOP 2.4.: Eduard-Schmid-Str. 1: Schulbauoffensive – Umbau und Erweiterung Pestalozzi – Gymnasium (Baumfällungen siehe Unterausschuss GUV)
+- TOP 2.5.: Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive => dazu: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren Sitzungsvorlage Nr. 14-20 / V 9979, Beschluss des Bildungsausschusses vom 29.11.2017 - siehe auch UA Soziales -
+- TOP 2.6.: Vorkaufsrecht nach dem BauGB Antrag BA 17 Obergiesing-Fasangarten
+- TOP 2.7.: Falkenstr. 7: Dachgeschoss-Neubau, Tektur – hier: Erhöhung des Aufzugs um ein Geschoss
+- TOP 2.11.: Preysingstr. 105: Umbau und Sanierung „Edith-Stein-Gymnasium“ mit Verlagerung Sanitärbereiche und Aufzug, Einbau Atrium und Eingriffe in das Tragwerk, Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 3.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 3.3.: Studie für die Landeshauptstadt München „Nutzungsmuster öffentlich zugänglicher Freiräume im Zuge des soziodemographischen Wandels“ Sitzungsvorlagen Nr. 14-20 / V 9854, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017 -siehe auch UA Soziales-
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: An der Kreppe 5: Umwandlung eines eingeschränkten Haltverbots in ein absolutes Haltverbot
+- TOP 2.2.: Errichtung von Fahrradstellplätzen am Pariser Platz (Weißenburger Str. 31)
+- TOP 2.3.: Eduard-Schmid-Str. 1: Schulbauoffensive – Umbau und Erweiterung Pestalozzi – Gymnasium, Baumfällungen
+- TOP 2.4.: Öffnung der einbahngeregelten Langerstraße zwischen Ismaninger Straße und Maria-Theresia-Straße für den gegenläufigen Radverkehr
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 3.2.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 3.3.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 3.4.: Parkraummanagement in München – Fortschreibung Sektor V Sitzungsvorlagen Nr. 14-20 / V 8574, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017
+- TOP 4.1.: Verkehrsbereich Obere Preysingstraße, Schulwegsicherheit
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 08.01.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 08.01.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 09.01.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 10.01.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 11.01.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 17.01.2018, 19 Uhr, Salesianum, St.- Wolfgangs- Platz 11 BA- Vorstand, Dienstag, 02.01.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Information BA 5 und BA 13 zu geplanter Tram-Baumaßnahme Ismaninger Straße im Januar 2018 – Bitte um Terminvorschläge
+- TOP 4.2.: Einladung zur Flussrunde IV „Kommunikation“ am 11.12.2017 um 16 Uhr
+- TOP 4.3.: Verleihung Fassadenpreis und Denkmalpreis 2017 am 14.12.2017 um 18 Uhr
+- TOP 4.4.: Erneutes Gespräch mit Augustiner zum Thema „Maxwerk“ - Vorschlag Vorstand: 25.01.2018 um 19 Uhr / => dazu geplante BA-Sondersitzung am 24.01.2018 um 19 Uhr zur Vorbereitung
+- TOP 4.5.: Einladung zum Jahresempfang des Muslimrates München am 13.12.2017 um 18.30 Uhr
+- TOP 4.6.: Termine im Oratorium Don Bosco 2017/2018
