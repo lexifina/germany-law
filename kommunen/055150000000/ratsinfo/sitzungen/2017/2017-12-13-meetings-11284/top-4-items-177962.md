@@ -1,0 +1,8 @@
+# TOP 4: Zusammenführung des ESPA-Berufskollegs und des Anne-Frank-Berufskollegs durch Erweiterung bzw. Neuerrichtung der Bildungsgänge am Anne-Frank-Berufskolleg
+
+- Sitzung: 29. Sitzung (2017-12-13)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/177962
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/65042
