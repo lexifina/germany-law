@@ -1,0 +1,107 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2017-12-13T17:00:00+01:00
+- Ende: 2017-12-13T20:20:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4853
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4853
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 1.1: Erhalt der Arbeitsplätze bei General Electric – Standort in Marienfelde sichern - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1: Innovations- und Wirtschaftspreis für Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Verlängerung der Amtszeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Friedrich-Ebert-Stadion schnellstmöglich wieder nutzbar machen - vertagt
+- TOP 6.4: Prostituiertenschutzgesetz fristgerecht umsetzen - überwiesen
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - überwiesen
+- TOP 8.1: Gewalt gegen Frauen nicht ignorieren - vertagt
+- TOP 8.2: Welche Rolle will das Bezirksamt für das Multifunktionsbad Mariendorf spielen? - vertagt
+- TOP 8.3: Brunnen auf dem Breslauer Platz - beantwortet
+- TOP 8.4: Wegfall von Versorgungsstrukturen und Einzelhandel entgegenwirken - beantwortet
+- TOP 9: Anträge - beantwortet
+- TOP 9.1: Von Ludwig Heck als Namenspatron distanzieren - vertagt
+- TOP 9.2: Gemeinsame Umfrage mit dem Nachbarbezirk Mitte zu den Belastungen der Prostitution im Kurfürstenkiez - vertagt
+- TOP 9.3: Ersatzstandort für den bisherigen BSR-Recyclinghof Tempelhofer Weg - überwiesen
+- TOP 9.4: Notweise möglichst viele Kältehilfeplätze für Wohnungslose bereitstellen - in der BVV zurückgezogen
+- TOP 9.5: Bundesprogramm Ladeinfrastruktur im Bezirk nutzen - in der BVV zurückgezogen
+- TOP 9.6: Modulare Systembauten für Kindertagesstätten - überwiesen
+- TOP 9.7: Vision und Notwendigkeit – Verlängerung der U6 nach Süden - überwiesen
+- TOP 9.8: U 6 bis nach Lichtenrade bzw. bis nach Mahlow verlängern - überwiesen
+- TOP 9.9: Verkehrsentlastung in der Bamberger Straße - überwiesen
+- TOP 9.10: Handlungskonzept Fußgängerüberwege - überwiesen
+- TOP 9.11: Online-Beantragung für Bewohnerparkausweise in Tempelhof-Schöneberg ermöglichen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Kampf dem Insektensterben - überwiesen
+- TOP 9.13: Anschaffung von Elektrofahrzeugen haushaltsrechtlich ermöglichen - überwiesen
+- TOP 9.14: Bebauung von ehemaligen Bestattungsflächen unterbinden - vertagt
+- TOP 9.15: Befragung Millieuschutzgebiete - in der BVV zurückgezogen
+- TOP 9.16: Elektronisches Genehmigungsverfahren zur Sondernutzung von Straßenland (eGeStra) in Tempelhof-Schöneberg ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.17: Gedenkplatte für Klaus-Jürgen Rattay wieder herstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Elektromobilität ermöglichen - überwiesen
+- TOP 9.19: Richtig Hände waschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Fahrradpolizei in Tempelhof-Schöneberg installieren - überwiesen
+- TOP 9.21: Entsorgungskonzept für Alttextilien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.22: Fair spielen in der Schule - überwiesen
+- TOP 9.23: Ladestationen für Elektrofahrzeuge auf P+R-Parkplätzen - überwiesen
+- TOP 9.24: Gedenkstein Klaus-Jürgen Rattay in der Potsdamer Straße 125 - in der BVV abgelehnt
+- TOP 9.25: Tempelhof-Schöneberg im Projekt „GIS-BROKER-Framework“ beteiligen - überwiesen
+- TOP 9.26: „Die Werkstatt“ soll in Schöneberg weiterarbeiten - überwiesen
+- TOP 9.27: Anträge auf Gewährung von Unterhaltsvorschusszahlungen zeitnah bescheiden - überwiesen
+- TOP 9.28: Kältehilfe aufstocken - in der BVV abgelehnt
+- TOP 9.29: Mehr Kältehilfeplätze in Tempelhof-Schöneberg - akut und langfristig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.30: Info-Flyer erstellen - wohin als Obdachlose_r? - in der BVV zurückgezogen
+- TOP 9.31: Rad- und Fußwegverbindung entlang des Lichtenrader Grabens - überwiesen
+- TOP 9.32: Umbenennung der Ludwig-Heck-Grundschule in Sara-Kaba-Grundschule - in der BVV zurückgezogen
+- TOP 9.33: Private Herbstlaubentsorgung besser regeln - überwiesen
+- TOP 9.34: Bezirklichen Veranstaltungskalender attraktiver machen - überwiesen
+- TOP 9.35: Aufstellung eines Bebauungsplans zum Ankogelbad unverzüglich beginnen - vertagt
+- TOP 9.36: Runden Tisch Obdachlosigkeit im Bezirk fortsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.37: Übergang für mobilitätseingeschränkte Menschen gegen Falschparker sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.38: Wohnungsbaugrundstücke in Mariendorf aktivieren - überwiesen
+- TOP 9.39: Lichtenrade soll heller werden – Umrüstung der Gaslaternen jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.40: Wasser marsch! Keine Freiwillige Feuerwehr ohne Wasser - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Einzelhandels- und Zentrenkonzept für den Bezirk Tempelhof-Schöneberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Leitlinien für den Dachgeschossausbau der steigenden Wohnraumnachfrage anpassen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Mehr Sportanlagen braucht das Land… - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Prälat Schöneberg – Neubau contra Mausoleum - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Aufstellung einer Prioritätenliste für die Prüfung von Modularen Standorten für die Unterbringung von Flüchtlingen (MUF) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Unwetterschutz für bezirkliche Gebäude forcieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Sitzmöglichkeiten im Bose-Stadion reparieren - vertagt
+- TOP 11.8: Menschen mit Gehbehinderung barrierefreien Zugang zum Rathaus Schöneberg ermöglichen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Ausstellungen der Kommunalen Galerie im Rathaus Tempelhof weiterhin möglich? - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Bauvorhaben Barbarossadreieck, Martin-Luther-Straße 48-50 / Speyerer Straße 26-28 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Wahl der Patientenfürsprecher*in - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Genehmigung der Bezirkshaushaltsrechnung Tempelhof-Schöneberg für das Haushaltsjahr 2016 - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Landeseigene Flächen am Südkreuz für den Wohnungsbau mobilisieren - überwiesen
+- TOP 13.2: Nach dem Frauenmärz ist vor dem Frauenmärz - überwiesen
+- TOP 13.3: Erneuerung der Heckenbepflanzung auf Plätzen im Bezirk - überwiesen
+- TOP 13.4: Intracting ablösen – Energiecontrolling modernisieren und ausweiten Politische Rahmenbedingungen für ein bezirkliches Energiemanagement - überwiesen
+- TOP 13.5: Cheruskerpark durch Bewässerung als Grünfläche erhalten - überwiesen
+- TOP 13.6: Öffentliche mit Gas betriebene Straßenlaternen wieder in Betrieb nehmen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Perspektiven der Stadtteilbibliothek Lichtenrade aufzeigen - überwiesen
+- TOP 13.8: Schaffung eines Stadtplatzes am Umsteigepunkt in Alt-Mariendorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Deutsches Pressemuseum im Ullsteinhaus - überwiesen
+- TOP 13.10: E-Bikes für das Ordnungsamt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Berlin von Pendlerströmen entlasten - P+R-Parkplätze im Umland ausbauen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Mehr Europa im Bezirk – Flagge zeigen auch im BVV-Saal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.13: Nachnutzung des alten Bücherbusses als Lesestube oder Schulbibliothek - überwiesen
+- TOP 13.14: Grüner Mittelstreifen Alt-Tempelhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Verkehrssicherheit ohne Einzelaufforderung gewährleisten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.16: Zum 10jährigen Jubiläum – Blumen bitte! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Sicherer Schulweg – ein Zebrastreifen für die Lichtenrader Goltzstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.18: Städtebauliche Entwicklung des ehemaligen Kasernengeländes an der General-Pape-Straße in Zusammenarbeit mit der Eigentümerin BImA - überwiesen
+- TOP 14: Termin der nächsten Sitzung - zur Kenntnis genommen (Beratungsfolge beendet)
