@@ -1,0 +1,102 @@
+# 28. Sitzung (Verabschiedung Haushalt 2018)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2017-12-13T17:30:00+01:00
+- Ende: 2017-12-13T21:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10530
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10530
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00415562.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Vergabe eines Erbbaurechts vor Verkauf städtischer Grundstücke prüfen - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Stelle der pädagogischen Begleitung des Jugendrates aufstocken
+- TOP -: Beratungen zum Haushalt 2018 Reden der Vorsitzenden der Fraktionen, der Gruppe und der fraktionslosen Ratsmitglieder
+- TOP 10: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2018 - mehrheitlich beschlossen
+- TOP 11: Errichtungsbeschluss zum Neubau der Feuer- und Rettungswache 3 - einstimmig beschlossen
+- TOP 11.1: Errichtungsbeschluss zum Neubau der Feuer- und Rettungswache 3
+- TOP 12: Quartiersentwicklung Hauptbahnhof - Sachstand und nächste Schritte - mehrheitlich beschlossen
+- TOP 13: Förderprojekt „Schlösser- und Burgenregion Münsterland“ (Touristisches Gemeinschaftsprojekt der Stadt Münster, der Kreise Borken, Coesfeld, Steinfurt und Warendorf, der Regionale 2016-Agentur und des Münsterland e.V.) - einstimmig beschlossen
+- TOP 14: Auslastung und Ausbau der münsteraner Kläranlagen - einstimmig beschlossen
+- TOP 15: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig geändert beschlossen
+- TOP 15.1: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1
+- TOP 16: Bildung, Integration – Zielperspektive Chancengleichheit - mehrheitlich beschlossen
+- TOP 16.1: Bildung, Integration – Zielperspektive Chancengleichheit
+- TOP 17: Bericht und Finanzierungsvorschlag zu dem Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - mehrheitlich beschlossen
+- TOP 18: "Bedarfsorientiertes Steuerungs- und Förderkonzept der offenen Kinder- und Jugendarbeit und der aufsuchenden Jugendsozialarbeit inklusive der sozialen Gruppenarbeit in Münster" - mehrheitlich beschlossen
+- TOP 19: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - Ergebnisse und Verfahrensvorschläge des interfraktionellen Arbeitskreises Wohnungslosigkeit - mehrheitlich beschlossen
+- TOP 19.1: Entwicklungen und Herausforderungen im Bereich der Wohnungslosenhilfe - Ergebnisse und Verfahrensvorschläge des interfraktionellen Arbeitskreises Wohnungslosigkeit
+- TOP 20: Existenzsicherung durch leistungsträgerübergreifende Kooperation gewährleisten - mehrheitlich beschlossen
+- TOP 20.1: Existenzsicherung durch leistungsträgerübergreifende Kooperation gewährleisten
+- TOP 21: Neubau einer 6-Gruppen-Kindertageseinrichtung in Münster-Wolbeck, Middelerstraße - mehrheitlich beschlossen
+- TOP 22: Masterplan 100% Klimaschutz - mehrheitlich beschlossen
+- TOP 23: Lärmaktionsplan der Stadt Münster - mehrheitlich beschlossen
+- TOP 23.1: Lärmaktionsplan der Stadt Münster
+- TOP 24: Rieselfelder - Betreuungsvertrag 2018 - einstimmig geändert beschlossen
+- TOP 24.1: Rieselfelder - Betreuungsvertrag 2018 - 2023
+- TOP 25: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 25.1: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 25.2: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 25.3: Abfallgebühren 2018 - einstimmig beschlossen
+- TOP 25.4: Straßenreinigungsgebühren 2018 - einstimmig beschlossen
+- TOP 25.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2018 - einstimmig beschlossen
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 26: Gleichstellungsplan 2021 - mehrheitlich beschlossen
+- TOP 27: Beendigung des Betriebes der Erstaufnahmeeinrichtung (EAE) für Asylsuchende - von der Tagesordnung abgesetzt
+- TOP 28: Errichtungsbeschluss zur Sanierung des Feuerwehrhauses Geist, Düesbergweg 4 - einstimmig beschlossen
+- TOP 29: Prüfung der Einführung einer Wettbürosteuer in der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 30: Gründung der eigenbetriebsähnlichen Einrichtung "Bäder Münster" - weiteres Vorgehen - mehrheitlich beschlossen
+- TOP 31: Vorabgewinnausschüttung auf den Bilanzgewinn 2017 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 32: Förderverfahren gem. § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein- - zur Kenntnis genommen
+- TOP 33: Wirtschaftsplan 2018 von Münster Marketing - mehrheitlich beschlossen
+- TOP 34: Änderung des Schulnamens der Städtischen Gesamtschule Münster-Ost in Mathilde-Anneke-Gesamtschule, Städtische Gesamtschule - mehrheitlich beschlossen
+- TOP 35: Zusammenführung des ESPA-Berufskollegs und des Anne-Frank-Berufskollegs durch Erweiterung bzw. Neuerrichtung der Bildungsgänge am Anne-Frank-Berufskolleg - einstimmig beschlossen
+- TOP 35.1: Zusammenführung des ESPA-Berufskollegs und des Anne-Frank-Berufskollegs durch Erweiterung bzw. Neuerrichtung der Bildungsgänge am Anne-Frank-Berufskolleg
+- TOP 36: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen - einstimmig beschlossen
+- TOP 36.1: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen
+- TOP 37: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2018, inklusive angepasster Wirtschaftsplan 2017 für die Eigentümergemeinschaft der Altenwohnungen am Klarastift - einstimmig beschlossen
+- TOP 38: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 39: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster -Änderung der Richtlinien für die Förderung von Photovoltaikanlagen - einstimmig beschlossen
+- TOP 40: Trägervergabe für Kindertageseinrichtungen
+- TOP 40.1: Trägervergabe für die Kindertageseinrichtung Alt Angelmodde in Angelmodde - mehrheitlich beschlossen
+- TOP 40.2: Trägervergabe für die Kindertageseinrichtung an der Eichendorffstraße in Angelmodde - mehrheitlich beschlossen
+- TOP 40.3: Trägervergabe für die Kindertageseinrichtung am Markweg in Münster-Mitte - mehrheitlich beschlossen
+- TOP 40.4: Trägervergabe für die Kindertageseinrichtung an der Middelerstraße in Wolbeck - mehrheitlich beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Münster-West
+- TOP 41.1.1: Bebauungsplan Nr. 441, 2. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 41.2: Stadtbezirk Münster-Hiltrup
+- TOP 41.2.1: 68. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 42: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 43: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 43.1: Zügiger Ausbau des Dortmund-Ems-Kanals im Bereich der Stadtstrecke Münster - einstimmig beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 44.1: Gute Arbeit der Volkshochschule würdigen – Neubau auf dem Hörster Parkplatz auf den Weg bringen - verwiesen
+- TOP 44.2: Sonderfonds für Schwangere – Höchstbeträge für Einzelleistungen aufstocken - verwiesen
+- TOP 44.3: Altersangaben bei unbegleiteten minderjährigen Ausländern mit wissenschaftlichen Methoden überprüfen - verwiesen
+- TOP 44.4: Personelle Engpässe nutzen - verwiesen
+- TOP 44.5: Tarifstandards für Trägervereinbarungen - verwiesen
+- TOP 44.6: Langzeitarbeitslosigkeit aktiv bekämpfen – eine Beschäftigungsgesellschaft für Münster - verwiesen
+- TOP 44.7: Eine Stadtentwicklungsgesellschaft für Münster - verwiesen
+- TOP 44.8: Vorrang für die Schaffung von Wohnraum - verwiesen
+- TOP 44.9: Schulerweiterung finanziell absichern - verwiesen
+- TOP 44.10: Gebäudereinigung der städtischen Liegenschaften optimieren, Rekommunalisierung prüfen - verwiesen
+- TOP 44.11: Wohnen muss bezahlbar werden – Für eine grundlegende Überprüfung und Absenkung von Baustandards und Vorgaben - verwiesen
+- TOP 44.12: Ein Musikcampus für Münster – Perspektiven für das Martiniviertel - verwiesen
+- TOP 44.13: Volkshochschule zukunftsgerecht aufstellen - verwiesen
+- TOP 44.14: Bildende Kunst noch stärker fördern - verwiesen
+- TOP 45: Verschiedenes
