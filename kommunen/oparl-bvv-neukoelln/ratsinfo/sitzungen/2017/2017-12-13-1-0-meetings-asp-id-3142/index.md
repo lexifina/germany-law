@@ -1,0 +1,101 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2017-12-13T17:00:00+01:00
+- Ende: 2017-12-13T22:27:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3142
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3142
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: neue Bushaltestelle (Bus 271) an der Einmündung Seeadlerweg I - beantwortet
+- TOP 1.2: neue Bushaltestelle (Bus 271) Einmündung Seeadlerweg II - beantwortet
+- TOP 1.3: neue Bushaltestelle (Bus 271) Einmündung Seeadlerweg III - beantwortet
+- TOP 1.4: neue Bushaltestelle (Bus 271) Einmündung Seeadlerweg IV - beantwortet
+- TOP 1.5: neue Bushaltestelle am Seeadlerweg für die Buslinie 271 V - beantwortet
+- TOP 1.6: neue Bushaltestelle (Bus 271) an der Einmündung Seeadlerweg VI - beantwortet
+- TOP 1.7: neue Bushaltestelle (Bus 271) an der Einmündung Seeadlerweg VII - beantwortet
+- TOP 1.8: neue Bushaltestelle (Bus 271) an der Einmündung Seeadlerweg VIII - beantwortet
+- TOP 1.9: neue Bushaltestelle (Bus 271) an der Einmündung Seeadlerweg IX - beantwortet
+- TOP 1.10: Einwohneranfragebegründung/ Bezirkliche Tourismusleitlinie - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Kein Antisemitismus und Israel-Hass in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer Schiedsfrau / eines Schiedsmannes für den Schiedsamtsbezirk 2 - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Fortschreibung der Sanierungsziele für das Sanierungsgebiet und Aktive Zentrum Neukölln – Karl-Marx-Straße / Sonnenallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2017/2018 und im Jahr 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Durchführung von Interessenbekundungsverfahren zum Betrieb von Kindertagesstätten in Britz, Buckow und Rudow - überwiesen
+- TOP 7.4: Bebauungsplan XIV-245ba-1 („Sonnenallee 228“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Umsetzung des Antrags Drucksache 0742/XIX - beantwortet
+- TOP 9.2: Soko Sozialbetrug - beantwortet
+- TOP 9.3: Absicherung der bedrohten sozialen Infrastruktur - beantwortet
+- TOP 9.4: Ausnahmegenehmigung für "Eddys Gemüsekebab" - zurückgezogen
+- TOP 9.5: Ist die Fortsetzung des Neuköllner Drogenberatungs- und Konsumangebots in 2018/2019 gewährleistet? - beantwortet
+- TOP 9.6: Aktueller Sachstand Schilleria - beantwortet
+- TOP 9.7: Baubeginn Leonardo-da-Vinci-Gymnasium - beantwortet
+- TOP 9.8: Umschichtung von Haushaltsmitteln im Jobcenter-Haushalt? - beantwortet
+- TOP 9.9: Unterkunft Karl-Marx-Straße 269 - beantwortet
+- TOP 9.10: Standgenehmigung Imbisscontainer Großziethener Chaussee 6 - beantwortet
+- TOP 9.11: Restaurant Reuterstraße 28 (II) - beantwortet
+- TOP 9.12: Minderjährige Obdachlose - schriftlich beantwortet
+- TOP 9.13: Kooperation des Bezirksamts mit israelfeindlichen Vereinen - schriftlich beantwortet
+- TOP 9.14: Wer hat Anti-Israel-Demonstration in Neukölln angemeldet? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Jahresbericht linksextreme Aktivitäten in Neukölln - in der BVV abgelehnt
+- TOP 10.2: Ermittlungsgruppe Rechtsextremismus - in der BVV abgelehnt
+- TOP 10.3: Partnerschaften für Demokratie und das Bündnis Neukölln - beantwortet
+- TOP 10.4: Obdachlose in Not - beantwortet
+- TOP 10.5: Verdrängung bestehender Gewerbebetriebe - beantwortet
+- TOP 10.6: Kommunales Vorkaufsrecht in Milieuschutzgebieten - beantwortet
+- TOP 10.7: Mieterschutz in Milieuschutzgebieten - beantwortet
+- TOP 10.8: Müssen Neuköllns Obdachlose frieren? - vertagt
+- TOP 10.9: Verzicht von religiösen Symbolen auf öffentlichen Spielplätzen - vertagt
+- TOP 10.10: Unterbringung von Obdachlosen - überwiesen
+- TOP 10.11: Drogenkonsum- und Suchtberatungsangebot - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Müll-Haie in der Gradestraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Genehmigung der im Haushaltsjahr 2016 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Hinweisschild für Fahrradfahrer - in der BVV abgelehnt
+- TOP 11.4: Bebauung der Buckower Felder sozialverträglich gestalten - in der BVV abgelehnt
+- TOP 11.5: Leichte Sprache als gut sichtbares Zusatzangebot - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Neuköllner Extremistenliste - in der BVV abgelehnt
+- TOP 11.7: Versagung von weiteren Umnutzungen von Gewerberäumen im Reuterkiez - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Beschulung für Kinder und Jugendliche aus dem C&A in bisherigen Schulklassen ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Jugendfördergesetz - vertagt
+- TOP 12.2: Engagement gegen illegales Glücksspiel in Neukölln - vertagt
+- TOP 12.3: Zweckentfremdung von Wohnraum - vertagt
+- TOP 12.4: Zu lange Bearbeitungszeiten bei Wohnberechtigungsschein-Anträgen - vertagt
+- TOP 12.5: Unterstützung für Obdachlose - vertagt
+- TOP 12.6: Neuköllner Mieterbeirat von Stadt und Land ausgeschlossen - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Keine schriftlichen Eingangsbestätigung mehr im Jobcenter Neukölln - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Soko BTM - überwiesen
+- TOP 14.2: Landesmittel für Drogenkonsumraum in Neukölln nutzen - überwiesen
+- TOP 14.3: Umsetzung des Toilettenkonzepts des Senats in Neukölln - überwiesen
+- TOP 14.4: Antragsstau bei Wohnungsberechtigungsschein-Anträgen abbauen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Bereitstellung von Audioprotokollen auf Website der BVV Neukölln - in der BVV abgelehnt
+- TOP 14.6: Solidarität mit Israel: Israelfahne hissen gegen Antisemitismus und Israelfeindlichkeit - in der BVV abgelehnt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Fortschreiben des Schulentwicklungsplans - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Verbesserungen für die neue Fahrradstraße in der Weserstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Beschulung für Kinder und Jugendliche aus dem C&A in bisherigen Schulklassen ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Rathaus-Ralley wiederbeleben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Integriertes Friedhofsentwicklungskonzept für die Evangelischen Friedhöfe an der Hermannstraße (IFEK Hermannstraße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Fußgängerampelzeit über die Gutschmidtstraße verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Fußgängerampelzeit über die Späthstraße verlängern - mit Abschlussbericht zur Kenntnis genommen
