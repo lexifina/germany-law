@@ -1,0 +1,52 @@
+# 9. öffentliche Sitzung des Verkehrsausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2017-12-14T16:30:00+01:00
+- Ende: 2017-12-14T19:40:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4445
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4445
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=265800
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - ohne Änderungen im Ausschuss beschlossen
+- TOP 3: Beratung von Drucksachen zum "Radverkehr" - (offen)
+- TOP 3.1: Standort Fahrradparkhaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.2: Radverkehr in Reinickendorf - sicher, komfortabel und ideologiefrei I - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Planung Fahrradrouten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.4: Radfahrer-Ampel Scharnweberstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4: Beratung von Drucksachen mit dem Schwerpunkt "Verkehrsleistungensfähigkeit und Straßenqualität" - (offen)
+- TOP 4.1: Ruppiner Chaussee für den Umleitungsverkehr nutzbar machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Hauptverkehrsstraßen leistungsfähig halten - vertagt
+- TOP 4.3: Fahrtrichtungen am Waidmannsluster Damm eindeutig markieren - vertagt
+- TOP 4.4: Verschönerung im Bereich Roedernallee und Flottenstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.5: Regenwasserabläufe auf der Heiligensee- und Konradshöher Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Beratung von Drucksachen mit dem Schwerpunkt "ÖPNV und andere Angebote" - (offen)
+- TOP 5.1: Busspuren - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2: Buslinie 327 zeitlich ausweiten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Anzeiger für Umstieg Alt-Tegel - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.4: Carsharing in Reinickendorf - vertagt
+- TOP 6: Beratung von Drucksachen mit dem Schwerpunkt "Verkehrssicherheit und Ordnung" - (offen)
+- TOP 6.1: Verkehrssicherheit Bernauer Straße - im Ausschuss abgelehnt
+- TOP 6.2: Sicherheit am Wilhelmruher Damm III - im Ausschuss abgelehnt
+- TOP 6.3: Sicherheit am Wilhelmruher Damm IV - vertagt
+- TOP 6.4: Verkehr in der Alemannenstraße - vertagt
+- TOP 6.5: Erhöhung der Verkehrssicherheit an der Roedernallee - vertagt
+- TOP 6.6: Verkehrssituation im Umfeld der Grundschule in den Rollbergen - vertagt
+- TOP 6.7: Neue Konzepte für den Schulweg an Grundschulen - vertagt
+- TOP 6.8: Geschwindigkeitskontrollen in der Holzhauser Straße - vertagt
+- TOP 6.9: Verkehrschaos vor Grundschulen und Kindergärten - vertagt
+- TOP 6.10: Verkehrssituation "Am Pilz" - vertagt
+- TOP 7: Beratung von Drucksachen mit dem Schwerpunkt "Ruhender Verkehr" - (offen)
+- TOP 7.1: Parkplätze in der Flottenstraße - vertagt
+- TOP 7.2: Halteverbot im Bernshausener Ring - vertagt
+- TOP 8: Besprechungspunkte auf Antrag der Fraktion Die Linke - (offen)
+- TOP 8.1: Gedankenaustausch zur Umsetzung des Beschlusses der BVV mit der Drucksache 0330/XX-01 „Eckwertebeschluss für den Bezirkshaushaltsplan 2018/2019“, zweiter Spiegelstrich „partizipative Budgetierung im Bereich Fahrradverkehrsinfrastruktur (Bürgerbeteiligung durch Auswahl aus vorgelegten Optionen/ Priorisierung)“. Anmerkung: Für die Erarbeitung abstimmungsfähiger Planungsunterlagen wurden ausreichend Haushaltsmittel eingestellt. Zudem sind die im Doppelhaushalt vorgesehenen Sondermittel der BVV u.a. auch für die Förderung von Beteiligungsprozessen vorgesehen. - vertagt
+- TOP 8.2: Verkehrssituation rund um das Borsiggelände - erledigt
+- TOP 9: Bericht aus dem Bezirksamt - erledigt
+- TOP 10: Verschiedenes - erledigt
