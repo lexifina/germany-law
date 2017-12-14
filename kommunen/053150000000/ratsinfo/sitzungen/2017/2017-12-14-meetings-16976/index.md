@@ -1,0 +1,80 @@
+# 29. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-14T15:09:00+01:00
+- Ende: 2017-12-14T19:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16976
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16976
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Breslauer Platz – wie geht es weiter bei der Neugestaltung; Anfrage SPD-Fraktion im Rat der Stadt Köln; AN/1503/2017 - Kenntnis genommen
+- TOP 1.2: Verwendung der Stellplatzablösemittel im Jahr 2016 - Kenntnis genommen
+- TOP 1.3: Baustandards und städtische Auflagen - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Soziale Erhaltungssatzung Severinsviertel und das Auslaufen von Sozialbindungen - Kenntnis genommen
+- TOP 2.2: Nah- und Fernwärme in Köln - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.1.1: Beschlussvorlage für die Weiterentwicklung; Der städtebauliche Masterplan für die Innenstadt Köln - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Starke Veedel - Starkes Köln Hier: Bedarfsfeststellung für das Projekt 0.0.2 "Prozessbegleitende Evaluation" in elf Sozialräumen - ungeändert beschlossen
+- TOP 5.2: "Partizipatorische Neugestaltung `Platz an St. Adelheid´" in Köln-Neubrück aus dem Programm "Starke Veedel – Starkes Köln" (Einzelmaßnahme 2.10.4 im Sozialraum Ostheim und Neubrück); Bedarfsfeststellungsbeschluss und Umsetzung eines Workshops - Kenntnis genommen
+- TOP 5.3: Planfeststellungsverfahren für den Umbau des Autobahnkreuzes Köln-Nord (BAB 1 / BAB 57) einschließlich der notwendigen Folgemaßnahmen an Verkehrswegen und Anlagen Dritter auf dem Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 5.4: Umgestaltung Ebertplatz; Verfahrensvorschlag; hier: Begründung der Dringlichkeit - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - Sache ist erledigt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Gestaltungshandbuch der Stadt Köln - geändert beschlossen
+- TOP -: Beantwortung mündlicher Anfragen betreffend "Gestaltungshandbuch der Stadt Köln" - Kenntnis genommen
+- TOP 6.2: Gesamtverkehrskonzept Köln, 8. Änderung - ungeändert beschlossen
+- TOP 6.3: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - ungeändert beschlossen
+- TOP 6.4: Weiterführung des kommunalen Wohnungsbauförderungsprogrammes 2017 bis 2021 - ungeändert beschlossen
+- TOP -: Ersetzungsantrag zur Beschlussvorlage 3041/2017, Weiterführung des kommunalen Wohnungsbauförderprogramms 2017 bis 2021 - endgültig abgelehnt
+- TOP -: Top 6.4 "Weiterführung des kommunalen Wohnungsbauförderungsprogrammes 2017 bis 2021" - Ergänzung zum Ersetzungsantrag der SPD - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP 6.5: Starke Veedel - Starkes Veedel Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert beschlossen
+- TOP 6.6: Zügigkeitserweiterung der Carl-von-Ossietzky-Gesamtschule, Ossietzkystr. 2, 50737 Köln-Longerich zum Schuljahr 2019/20 nach § 81 Abs. 2 Schulgesetz NRW bei gleichzeitiger Bildung eines Teilstandortes an der Paul-Humburg-Str. 13, 50737 Köln-Longerich - zurückgestellt
+- TOP 6.7: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung" - Umgestaltung des Kurt-Hackenberg-Platzes - ohne Votum in nachfolgende Gremien
+- TOP 6.8: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - zurückgestellt
+- TOP 6.9: Verbesserung der Situation am Ebertplatz - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Belgisches Viertel in Köln-Neustadt/Nord; Städtebauliches Planungskonzept; frühz. Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: "Rondorf Nord-West" in Köln - Rondorf; Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: Marienhof Ecke Raderthalgürtel in Köln-Zollstock - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Eigelstein 41 in Köln-Altstadt/Nord; 674613/02; Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.2: Arbeitstitel: "Gewerbepark Poll - Teilbereich Gewerbepark Poll Nord" in Köln - Poll; Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70439/08 - ungeändert beschlossen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Vorhabenbezogenen Bebauungsplan-Entwurf 70465/01 - ungeändert beschlossen
+- TOP 12.4: Robertstraße in Köln-Kalk; B-Plan-Entwurf 70447/04; Beschluss über Stellungnahmen + Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.5: Raderthalgürtel (neu) in Köln-Zollstock, 1. Änderung; 57419/08; Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70480/12 - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Nördlich Wielermaar in Köln-Porz-Zündorf, 1. Änderung; 73370/04; Einleitungsbeschluss - Sache ist erledigt
+- TOP 13.2: "GE westlich Linder Kreuz" in Köln-Porz-Lind, 5. Änderung; 77349/04; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Oberer Wichheimer Kirchweg in Köln-Holweide und Köln-Merheim; 73479/08; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 16.2: Beschluss der Bezirksvertretung Porz vom 26.09.2017 über die vereinfachte Änderung des Bebauungsplanes 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1. Änderung - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Arbeits- und Erfahrungsbericht der Stadtarbeitsgemeinschaft Behindertenpolitik für die Zeit von 09/2014 – 05/2017 - Kenntnis genommen
+- TOP 17.2: Aktueller Sachstand über die Teilnahme der Stadt Köln am Landesprogramm "Kommunale Präventionsketten". - Kenntnis genommen
+- TOP 17.3: Plangebiet des städtebaulichen Werkstattverfahrens Hallen Kalk prüfen (AN/1424/2017) - Kenntnis genommen
+- TOP 17.4: Parkstadt Süd; Sachstandsbericht III. Quartal 2017 - Kenntnis genommen
+- TOP 17.5: Köln kooperiert - Regionale Kooperation voranbringen und Regionalplan-Überarbeitung: Informationsveranstaltung am 24.11.2017 - zurückgestellt
+- TOP 17.6: Interaktive Bebauungsplanübersicht für Köln - Kenntnis genommen
+- TOP 17.7: Stadt Köln und Vertreter der Wohnungswirtschaft schließen das "Kölner Wohnbündnis" - Kenntnis genommen
+- TOP 17.8: Bericht "Wohnen in Köln" - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
