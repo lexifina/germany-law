@@ -1,0 +1,88 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-14T17:00:00+01:00
+- Ende: 2017-12-14T19:30:00+01:00
+- Ort: Krankenhaus Porz, Urbacher Weg 19, 51149 Köln, Sitzungssaal 7. Etage
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17407
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17407
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Deponie am Wiemersgrund, Fachvortrag
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Umleitung Großbaustellen in Porz 2017/2018 (Az.: 02-1600-92/17) - zurückgestellt
+- TOP 2.1.1: NEUFASSUNG: Änderungsantrag der SPD - Fraktion zu TOP 2.1: Baustellenverkehr - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 6.1: Antrag der SPD-Fraktion: Ausweisung „Am Rolshover Hof“ in Anliegerstraße - bis zum Ortstermin geschoben - Sache ist erledigt
+- TOP 6.1.1: Ausweisung "Am Rolshover Hof" in Anliegerstraße - Kenntnis genommen
+- TOP 6.2: Antrag der CDU-Fraktion: „Wiederherstellung der Verkehrssicherheit entlang der Baustelle Houdainer Str. in - ungeändert beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Antrag der SPD-Fraktion: Verkehrsberuhigung Annastraße - ungeändert beschlossen
+- TOP 6.5: Antrag der CDU-Fraktion: „Sanierung der Wahner Str. in Zündorf zwischen Gartenweg und Richthofenstr.“. - ungeändert beschlossen
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Antrag der SPD-Fraktion: Sachstandsbericht: Bebauungsplan An der Mühle in Porz-Langel - ungeändert beschlossen
+- TOP 6.8: Antrag der CDU-Fraktion: : Sachstandsbericht zur Bodenbeleuchtung des Denkmals „Triple L“ in Porz-Mitte - ungeändert beschlossen
+- TOP 6.9: Antrag der SPD-Fraktion: Änderung der Geschäftsordnung des Beirates Porz-Mitte - endgültig abgelehnt
+- TOP 6.10: Antrag der CDU-Fraktion: Sachstandsbericht Taubenkonzept - ungeändert beschlossen
+- TOP 6.11: Antrag der SPD-Fraktion: Sachstandsbericht: Bebauungsplan Friedenstraße Süd in Porz-Urbach/Elsdorf - ungeändert beschlossen
+- TOP 6.12: Antrag der CDU-Fraktion: : Sachstandsbericht zur Platzumgestaltung in Porz-Eil - ungeändert beschlossen
+- TOP 6.13: Antrag der SPD-Fraktion: Verkehrssicherheit auf dem Leinpfad - ungeändert beschlossen
+- TOP 6.14: Antrag der CDU-Fraktion: Sachstandsbericht KD Pavillon - Sache ist erledigt
+- TOP 6.14.1: Stellungnahme der Verwaltung zu TOP 6.14 - Nutzung untere Ebene Pavillon - Kenntnis genommen
+- TOP 6.15: Antrag der SPD-Fraktion: Verkehrssicherheit Ensener Marktplatz - endgültig abgelehnt
+- TOP 6.16: Antrag der CDU-Fraktion: Verkehrsberuhigung in der Neuen Eiler Straße in Porz-Eil - ungeändert beschlossen
+- TOP 6.17: Antrag der CDU-Fraktion: Gewerbestraße Max- Reichpietsch in Köln- Porz- Wahn - geändert beschlossen
+- TOP 6.18: Antrag der CDU-Fraktion: Absenken der Gehwegbordsteine im Ampelbereich Frankfurter Straße/ Zündorfer - ungeändert beschlossen
+- TOP 6.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verwaltungsvorlagen
+- TOP 7.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1.1: Benennung der Schulsportanlage des Schulzentrums Heerstraße nach Jupp Röhrig - ungeändert beschlossen
+- TOP 7.1.2: Errichtung einer Mega-Light-Werbeanlage im Bereich des öffentlichen Straßenlandes vor dem Grundstück Frankfurter Straße 757 - endgültig abgelehnt
+- TOP 7.1.3: Verkehrsberuhigung in der Dortmunder Straße in Köln-Eil - zurückgestellt
+- TOP 7.1.4: Widmung des Parkplatzes an der Heinrich-Klein-Str./Lülsdorfer Str. in Köln-Porz-Langel - zurückgestellt
+- TOP 7.1.5: Genehmigung einer Dringlichkeitsentscheidung zur Vorlage 2720/2017, Fortschreiben Prio-Liste - ungeändert beschlossen
+- TOP 7.1.6: Widmung eines Teilstückes der Jungbergerstraße in Köln-Poll - ungeändert beschlossen
+- TOP 7.1.7: Genehmigung einer Dringlichkeitsentscheidung: Vergabe BO Mittel 2017 - ungeändert beschlossen
+- TOP 7.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.2.1: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Urbach - Planungsbeschluss - aus der letzten Sitzung geschoben - ungeändert empfohlen
+- TOP 7.2.2: Durch TOP 7.1.5 erledigt. Fortschreiben der Prioritätenliste zur Modernisierung und Sanierung von Kölner Sportfreianlagen für die Jahre 2018-2020 - Sache ist erledigt
+- TOP 7.2.3: Arbeitstitel: "Gewerbepark Poll - Teilbereich Gewerbepark Poll Nord" in Köln - Poll; Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70439/08 - ungeändert empfohlen
+- TOP 7.2.4: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - Alternative beschlossen
+- TOP 7.2.5: "GE westlich Linder Kreuz" in Köln-Porz-Lind, 5. Änderung; 77349/04; Einleitungsbeschluss - ungeändert empfohlen
+- TOP 7.2.6: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - zurückgestellt
+- TOP 7.2.6.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2.6: Nachnutzung Praktiker-Halle - zurückgestellt
+- TOP 7.2.7: "Platzfläche Frankfurter Straße/Heidestraße" in Köln-Porz-Wahn - mit Änderungen empfohlen
+- TOP 8: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Geplanter Bau eines Parkhauses am Bahnhof Wahn - Kenntnis genommen
+- TOP 8.1.2: Beantwortung einer Anfrage der CDU-Fraktion: Kleingartenanlage (AN/1587/2017) - Kenntnis genommen
+- TOP 8.1.3: AN/1584/2017 - Kenntnis genommen
+- TOP 8.1.4: Baustellenverkehre - Kenntnis genommen
+- TOP 8.2: Neue Anfragen
+- TOP 8.2.1: Anfrage der CDU-Fraktion: Liburer Landstraße Mündungsbereich Houdainer Straße - Kenntnis genommen
+- TOP 8.2.2: Anfrage der SPD-Fraktion: Entwicklung von Zündorf-Süd - Kenntnis genommen
+- TOP 8.2.3: Anfrage der CDU-Fraktion: Standort Bücherbus am Linder Dorfplatz - Kenntnis genommen
+- TOP 8.2.4: Anfrage der SPD-Fraktion: Bebauung „Wasserturmsiedlung“ in Porz-Westhoven - Kenntnis genommen
+- TOP 9: Mitteilungen
+- TOP 9.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 9.2: Mitteilungen der Verwaltung
+- TOP 9.2.1: Änderungen zum Fahrplanwechsel 2017 - Versand per Sammelumdruck - Kenntnis genommen
+- TOP 9.2.2: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Versand per Sammelumdruck - Kenntnis genommen
+- TOP 9.2.3: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler - Kenntnis genommen
+- TOP 9.2.4: Sachstandsbericht zur Kreuzung Grengeler Mauspfad/Hirschgraben in Porz-Eil - Kenntnis genommen
+- TOP 9.2.5: Einbeziehung einer Privatstraße in Köln-Porz/Lind - Kenntnis genommen
+- TOP 9.2.6: Zielbild 2020 - Kenntnis genommen
+- TOP 9.2.7: Sachstandsmitteilung Friedrich-List-Grundschule - Kenntnis genommen
+- TOP 9.2.8: Beschilderung Hans-Kalscheuer-Straße in Porz-Westhoven - Kenntnis genommen
+- TOP 9.2.9: Gilgaustraße/Einmündung Siegstraße - Kenntnis genommen
+- TOP 10: Annahme von Schenkungen
