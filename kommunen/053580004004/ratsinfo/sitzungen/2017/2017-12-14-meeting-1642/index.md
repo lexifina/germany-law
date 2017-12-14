@@ -1,0 +1,51 @@
+# Gemeinderat (33. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2017-12-14T18:03:00+01:00
+- Ende: 2017-12-14T21:20:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeLOB2Skdn_ckXEuFLmhvHk
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1642
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZURPGDIX-07o9HrdwWSP1_TM4Muz1vLQKWsYcCbWfzWP/Bekanntmachung_Gemeinderat_14.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXMO6BbhSahdWwJq6UAMx2ODT0zTJTajnBvMKI4Mve1F/Oeffentliche_Niederschrift_Gemeinderat_14.12.2017.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Grundstücksangelegenheiten
+- TOP 2.1: Erwerb von Parzellen in der Gemarkung Siersdorf (SV-Nr. 106/2017)
+- TOP 3.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 16.11.2017 -öffentlicher Teil-
+- TOP 4.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 4.1: Prüfung des Gesamtabschlusses für das Jahr 2016 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Entlastung des Bürgermeisters für den Gesamtabschluss 2016 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Finanzen, Haushalt
+- TOP 5.1: Überplanmäßige Ausgabe Förderschulzweckverband - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Beschluss des Haushaltes 2018 und der Fortschreibung des Sanierungsplanes - Einstimmig, 1 Enthaltung(en)Auf Nachfrage von Ratsherrn Wassenhoven zu den Aufwendungen der Fraktionen über Fachliteratur, Telefonkosten, Büromaterial etc. berichtet GVR Ossenkopp, dass es sich dabei lediglich um die Darstellung der Sachleistungen zugunst
+- TOP 5.3: Stellenplan für das Jahr 2018 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: Änderungen der Satzung über die Erhebung von Gebühren nach § 7 Absatz 1 KAG NW für Verbandslasten der Wasser- und Bodenverbände (Gewässerunterhaltungsgebührensatzung) vom 10. Dezember 2014 und Gebührenkalkulation Gewässerunterhaltungsgebühr 2018 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Gebührenkalkulation Friedhofswesen 2018 - 0 Ja-Stimme(n), 23 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Ausführung des Haushalts
+- TOP 8.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 16.11.2017 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Anträge von Fraktionen
+- TOP 3.1: Antrag der FWG-Fraktion hier: Entwicklungskonzept Gebäudeinfrastruktur Pestalozziring / Schwanenstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Flächentausch - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Erwerb von landwirtschaftlichen Flächen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Vertragsangelegenheiten
+- TOP 5.1: Kündigung der Vereinbarung zum Kindergartenpool - Einstimmig, 0 Enthaltung(en)Bürgermeister Claßen berichtet in diesem Zusammenhang über den geplanten Ausbau des Johanneskindergartens in Siersdorf um zwei weitere Gruppen. Außerdem werden laut Aussage des Kreisjugendamtes auch in Aldenhoven zwei weitere K
+- TOP 6.: Einführung eines Dokumentenmanagementsystems bei der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Stundung von Gewerbesteuer und Grundbesitzabgaben - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Bewirtschaftungskosten gemeindlicher Gebäude; Fernwärmeversorgung am Pestalozziring (Schule, Sporthalle Kindergarten) - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Interkommunale Zusammenarbeit
+- TOP 10.: Verschiedenes
