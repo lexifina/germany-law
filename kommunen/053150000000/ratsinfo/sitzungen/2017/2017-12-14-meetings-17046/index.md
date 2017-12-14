@@ -1,0 +1,63 @@
+# 32. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-14T17:00:00+01:00
+- Ende: 2017-12-14T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17046
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/17046
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Versetzen einer Parkbank in der Grünanlage an der Kallbergstraße in Blumenberg - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Lärmschutzwand Köln-Heimersdorf DB - Kenntnis genommen
+- TOP 7.1.2: Beschädigte Schranken im Park in Chorweiler-Nord - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sicherheit auf Gehwegen im Stadtbezirk Chorweiler Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.2: Optimierung des ÖPNV-Angebotes im Bezirk Chorweiler Anfrage der Fraktion Bündnis`90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Zebrastreifen auf der Merkenicher Hauptstraße - geändert beschlossen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umsetzung des Integrierten Handlungskonzeptes Lindweiler hier: Ernennung eines stellvertretenden Mitgliedes für den Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Planfeststellungsverfahren für den Umbau des Autobahnkreuzes Köln-Nord (BAB 1 / BAB 57) einschließlich der notwendigen Folgemaßnahmen an Verkehrswegen und Anlagen Dritter auf dem Gebiet der Stadt Köln - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Prüfung der Ausweisung einer Hundefreilauffläche in Worringen nahe dem Naturschutzgebiet Rheinaue Worringen bis Langel (N4) - geändert beschlossen
+- TOP 10.2.2: Zielbild 2020 - Maßnahmen zur Stärkung des städtischen Ordnungsdienstes - Kenntnis genommen
+- TOP 10.2.3: Mindeststandards zur Flüchtlingsunterbringung - Stärkung standortübergreifende Betreuung und Steuerung Ehrenamtler - Kenntnis genommen
+- TOP 10.2.4: Beratung des Haushaltsplan-Entwurf 2018 - geändert beschlossen
+- TOP 10.2.5: Zukunfts- und bedarfsorientiertes Ressourcenmanagement für schutzsuchende Menschen - Kenntnis genommen
+- TOP 10.2.6: Durchforstungsplanung 2018 zur Pflege des städtischen Waldes hier: Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.7: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Katholische Grundschule Gutnickstr.37, 50769 Köln - Kenntnis genommen
+- TOP 10.2.8: Drogenhilfekonzept im Rahmen der Suchthilfeplanung 2017/2018 der Stadt Köln - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Schadensereignis am Freitag 29.09.2017 bei Ineos in Worringen - zurückgestellt
+- TOP 11.1.2: Neubau des Verwaltungsgebäudes der Ineos in Worringen - Kenntnis genommen
+- TOP 11.1.3: Wochenmarkt auf dem Liverpooler Platz in Köln-Chorweiler - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
+- TOP 11.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
