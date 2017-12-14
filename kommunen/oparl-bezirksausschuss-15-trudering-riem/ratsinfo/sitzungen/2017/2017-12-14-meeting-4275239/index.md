@@ -1,0 +1,127 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2017-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4275239
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4275239
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: Verwendungsnachweise
+- TOP 10.1.3.: Sachberichte
+- TOP 10.1.4.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 1.3.1.: 2.1.2 (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung "Christi Himmelfahrt" Neujahrskonzert am 01.01.2018 2.150,00 € 0262.0-15-0233
+- TOP 1.3.2.: 2.1.3 (E) Budget der Bezirksausschüsse Truderinger Burschenverein von 1895 e.V. Anschaffung eines fahrtüchtigen und wetterbeständigen Anhängers 4.400,00€ Az. 0262.0-15-0236
+- TOP 1.3.3.: 7.1.3 Riemer Park, ICF München e. V. Kinder und Familienprogramm Dezember bis März
+- TOP 1.3.4.: 7.4.3 Schneebergstraße 28, Fl.Nr.: 794/5 - TEKTUR zu 1.2-2017-21212-32 - Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage
+- TOP 1.3.5.: 7.4.4 Sansibarstraße 9, Fl.Nr.: 496/35 - Neubau eines Mehrfamilienhauses und Doppelhaus mit TG - VORBESCHEID
+- TOP 1.3.6.: 7.4.5 In der Rosenau 7, Fl.Nr.: 92/7 - Neubau zweier Mehrfamilienhäuser - VORBESCHEID
+- TOP 1.3.7.: 8.2.23 Hoferichterweg 11
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer des Gymnasiums Trudering e.V. Anschaffung eines Xylophons und einer Marimba 2.466,00 € Az: 0262.0-15-0234
+- TOP 2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung der Gesamtstrecke der Karl-Dressel-Straße und der Gesamtstrecke der Otto-Perutz-Straße und der Teilstrecke der Heinrich-Böll-Straße
+- TOP 2.2.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Projektname: Paul-Henri-Spaak-Straße: Höhe Tor 15/ 15a Projektnummer: 100872 Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom ________
+- TOP 3.2.1.: Waldschulstraße: Einrichtung eines beidseitigen Parkverbots im Bereich zwischen Birkhahnweg und Schwammerlweg (Werktags Mo-Fr, 7-9 und 15-19 Uhr)
+- TOP 3.2.2.: Waldstrasse: Einführung von Rechts-vor-Links
+- TOP 3.2.3.: Verbesserung der Radverkehrssituation an der Friedensprommenade II & III
+- TOP 3.2.4.: Bahnstraße - Einhaltung der Tempo 30 Zone
+- TOP 3.2.5.: Truderinger Straße: Tempo 30 von Montag bis Freitag in der Zeit von 7 bis 19 Uhr zwischen Haus Nr. 324 und 338 zum Schutz der Kinder
+- TOP 3.3.1.: Riemer Park: Hundefreundlichkeit - Müll - Radfahrer Vertagung aus der Novembersitzung
+- TOP 4.1.: Rechtsabbiegepfeil an der Kreuzung Riemerstraße / Am Mitterfeld in Richtung Am Mitterfeld einrichten
+- TOP 4.2.: Schulwegsicherheit an der Kreuzung Turnerstraße / Waldschulstraße / Postweg erhöhen
+- TOP 4.3.: 2. S-Bahn-Stammstrecke: weiterhin attraktiven 10-Minutentakt auf der S-Bahn-Linie Ebersberg für Gronsdorf, Haar und weitere Stationen im XXL-Bereich anbieten
+- TOP 5.1.: Georg-Kerschensteiner-Straße - Errichtung einer öffentlichen Toilette für die Besucher des Spielplatzes Wiedervorlage aus der Junisitzung
+- TOP 5.2.: Planungsideen für Kirchtrudering offenlegen
+- TOP 5.3.: Eröffnungsfeier nach Fertigstellung der neuen Geh- und Radwegverbindung zwischen Trudering und Riem
+- TOP 5.4.: Landschaftsschutz ernst nehmen - Bebauung Fauststraße 90 mit maximal 3 Geschossen planen
+- TOP 5.5.: Platz der Menschenrechte - Errichtung einer Boule Bahn
+- TOP 5.6.: Tangastraße - Wertstoffinsel: Ergebnis des Ortstermins vom 03.07.2017 BA-Antrag 14-20/B02965 – Wertstoffinseln wirksam „entmüllen“ und besser in die Grünanlage einbinden.
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Veranstaltung auf der Sonderfläche Riem - XLETIX Challenge (Cross-Hindernislauf) am 30.06.2018 und Muddy Angel Run (Hindernislauf für Frauen) am 01.07.2018
+- TOP 7.1.2.: Riemer Park: Kursanmeldung Hundeschule für 2018
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß §13 der Bezirksausschusssatzung Flst. 356/7, Gemarkung: Trudering Kreillerstraße, Grundstück ohne Bebauung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Truderinger Straße 240, Fl.Nr.: 342/5 - Neubau zweier Wohngebäude mit TG
+- TOP 7.4.2.: Birkhahnweg 47, Fl.Nr.: 484/34 - Neubau eines Einfamilienhauses mit Garage - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Projekt Vom Weltspieltag zum Weltkindertag 2018: Ausschreibung für die Münchner Stadtbezirke Frist: 20.02.2018
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Dachsteinstraße 29 Damaschkestraße 89
+- TOP 8.2.1.: Birkhahnweg 59 Büchmannstraße 1 Dresselstraße 21 - durch UNB abgelehnt Ernastraße 2 Ernastraße 5 Etzwiesenstraße 11 Gerstäckerstraße 45 Hella-von-Westarp-Straße 46 In der Rosenau 7 Irmelastraße 22 - DHH 1 Irmelastraße 22 - DHH 2 Kilihofstraße 38 Lebzelterstraße 17 Max-Beckmann-Straße 49 Meisenstraße 2 Pfennigweg 4 Plumserjochstraße 3b Rosamundenstraße 7 Solalindenstraße 80 Stieglitzweg 11 - durch UNB abgelehnt Truderinger Straße 240 Xaver-Weismor-Staße 51
+- TOP 9.1.: Bericht des UA "Schule, Soziales und Kultur" - Vorsitzenden zum aktuellen Stand der Nutzung des Tribünenkopfbaus durch die gemeinnützige Gesellschaft STARTSTARK
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 10.1.2.1: Sommerkonzert, Katholische Kirchenstiftung Christi Himmlefahrt
+- TOP 10.1.2.2: Beschaffung von 2 Übungspuppen, Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V.
+- TOP 10.1.3.1: Burnout von Mensch und Erde; Initiative Trudering im Wandel
+- TOP 10.1.4.1: Extasia, Ausschank in einem Bordell, Karl-Schmid-Straße 6, 81829 München
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 10.2.2.: (U) Neue Strategie bei der Geschwindigkeitsüberwachung
+- TOP 10.2.3.: Flughafen-Riem-Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes Verkehrsrechtliche Anordnung nach § 45 StVO:
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Nachverdichtungssatzung oder Ergänzung zur Stellplatzsatzung zum Schutz von Bäumen Antrag Nr. 14-20 / A 02840 der Stadtratsfraktion Die Grünen – rosa Liste vom 03.02.2017
+- TOP 10.3.2.: Vorkaufsrecht nach BauGB Antrag des BA 17 Obergiesing-Fasanengarten
+- TOP 10.3.3.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/147 Gemarkung Trudering Messestadt Riem Ost, Bauabschnitt WA 2
+- TOP 10.3.4.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/223 Gemarkung Trudering Messestadt Riem Ost, Bauabschnitt WA 1
+- TOP 10.3.5.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/403 und 1408/402 Gemarkung Trudering Messestadt Riem Ost, Bauabschnitt WA 1 und WA 2
+- TOP 10.3.6.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 10.3.7.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 10.3.8.: (U) Messestadt Riem; Bebauungsplan mit Grünordnung Nr. 1728 n - 5. Bauabschnitt Wohnen (Arrondierung Kirchtrudering) Anwendbarkeit der SoBoN-Regularien in der Messestadt Riem
+- TOP 10.3.9.: (U) Bebauungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße / Alexisweg (westlich), Karl-Marx-Ring (östlich), Niederalmstraße (südlich), Stemplingeranger (nördlich) (Teiländerung des Bebauungsplanes Nr. 57g) - Satzungsbeschluss- Stadtbezirk 16 – Ramersdorf-Perlach
+- TOP 10.3.10.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2095 Feldbergstraße (westlich), Wasserburger Landstraße (nördlich) (Teiländerung des Bebauungsplans Nr. 1215) - Satzungsbeschluss - Stadtbezirk 15 Trudering-Riem
+- TOP 10.3.11.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 10.3.12.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 10.3.13.: (U) Aktive Zentren Trudering Stand der Umsetzung des Bund-Länder Städtebauförderungsprogramms „Aktive Stadt- und Ortsteilzentren“ im Stadtteil Trudering – Programmverlängerung A) Ergebnisse der Zwischenevaluation B) Fortschreibung des Integrierten Stadtteilentwicklungskonzeptes (ISEK) – Programmverlängerung C) Städtebauförderung, Finanzierung, Änderung des Mehrjahresinvestitionsprogramms 2017 -2021 Stadtbezirk 15 - Tudering - Riem
+- TOP 10.3.14.: (U) Städtebauliche Entwicklung Münchner Nordosten – Wettbewerbsverfahren und Öffentlichkeitsarbeit – Finanzaus­stattung A) Aktueller Stand und weiteres Vorgehen B) Finanzbedarf C) Vergabe Wettbewerb D) Ergebnisse der Bürgerbeteiligung ernst nehmen und echte Planungs- alternativen erarbeiten Antrag Nr. 14-20 / B 03528 des Bezirks- ausschusses des Stadtbezirks 13 – Bogenhausen vom 06.04.2017 E) Ideenwettbewerb mit Bürgerbeteiligung – und damit die Planungen zur Siedlungs- entwicklung Nord-Ost stärken Antrag Nr. 14-20 / A 03036 vom 07.04.2017 Stadtratsfraktion der CSU F) SoBon statt SEM Die Sozialgerechte Bodennutzung: Ein Münchner Weg. Antrag Nr. 14-20 / A 03079 vom 04.05.2017 der LKR
+- TOP 10.3.15.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP 10.3.16.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 10.3.17.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/78, Gemarkung Trudering Messestadt Riem Ost, Joseph-Wild-Straße
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Postweg 56
+- TOP 10.4.2.: Xaver-Weismor-Straße 56
+- TOP 10.4.3.: Rofanstraße 45
+- TOP 10.4.4.: Leibengerstraße 9
+- TOP 10.4.5.: Gottschalkstraße 4
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 10.5.2.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 10.5.3.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 10.5.4.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 10.5.5.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 10.5.6.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021 Einzelplan 4 / Sozialbereich
+- TOP 10.5.7.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 10.5.8.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 10.6.2.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
