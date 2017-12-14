@@ -1,0 +1,6 @@
+# TOP 3.3: Ruhewald in Bad Pyrmont
+
+- Sitzung: Rat der Stadt Bad Pyrmont (6. Sitzung) (2017-12-14)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/27231
