@@ -1,0 +1,58 @@
+# 46. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-12-14T16:00:00+01:00
+- Ende: 2017-12-14T21:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/5768
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/5768
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00324588.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Ski-Worldcup / Vorbereitungen in Klotzsche - erledigt
+- TOP 3.2: Zahlreiche Tuberkulosefälle in Dresden - erledigt
+- TOP 3.3: Projekt "ZU HAUSE in Prohlis" - Enthaltung mit Ergänzung
+- TOP 3.4: Fördermittel für den Sozialen Wohnungsbau - erledigt
+- TOP 3.5: Stadtbahn 2020 - aktueller Planungsstand - erledigt
+- TOP 3.6: Kontrollen der neu eingerichteten Tempo 30-Geschwindigkeitsbegrenzungen - erledigt
+- TOP 3.7: Tuberkulose an der HOGA-Schule - erledigt
+- TOP 3.8: Gender-Check - erledigt
+- TOP 3.9: Reduzierung einer Fahrspur auf dem Blauen Wunder - erledigt
+- TOP 3.10: Dresdner Elbbrücken - erledigt
+- TOP 3.11: Beratungsarbeit der Verbraucherzentrale Sachsen - erledigt
+- TOP 3.12: Straßenreinigung - erledigt
+- TOP 3.13: Besonders durch Bahnlärm betroffene Gebiete der Stadt - erledigt
+- TOP 3.14: Heirat von gleichgeschlechtlichen Paaren - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 4.1: Seniorenbeirat - Zustimmung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 5.1: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 5.2: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 6: Vertagungen der letzten Stadtratssitzung vom 23. November 2017
+- TOP 6.1: Wohnungsbau beschleunigen, notwendige Entscheidungen zügig herbeiführen, offene Fragen aktiv klären - Vertagung
+- TOP 6.2: Benennung einer Straße nach Prof. Dr. Hans Nadler - Vertagung
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Zweite Fortschreibung der Konzeption zur kurz- und mittelfristigen Entwicklung kommunaler Gewerbestandorte in der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 9: Förderung von Kindern in Kindertagespflege in der Landeshauptstadt Dresden (Richtlinie Kindertagespflege) - Zustimmung mit Änderung
+- TOP 10: Berufliches Schulzentrum für Wirtschaft "Prof. Dr. Zeigner", Melanchthonstraße 9 in 01099 Dresden - Gesamtsanierung Schulgebäude und Errichtung eines Erweiterungsbaus mit integrierter Zweifeldsporthalle sowie Neugestaltung der Freianlagen - Zustimmung mit Änderung
+- TOP 11: 30. Grundschule "Am Hechtpark" - Sanierung und Ersatzneubau mit Schulhort - Zustimmung
+- TOP 12: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung
+- TOP 13: Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Oberschulen, Gymnasien, berufsbildende Schulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft - Vertagung
+- TOP 14: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2018 - Zustimmung
+- TOP 15: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2018 - Zustimmung
+- TOP 16: Umsetzung gemeinsamer Strukturen Staatsoperette Dresden und tjg.theater junge generation - Zustimmung mit Änderung
+- TOP 17: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung von leistungsberechtigten Personen nach dem Asylbewerberleistungsgesetz (Unterbringungssatzung Asyl) - Zustimmung mit Änderung
+- TOP 18: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Unterbringung besonderer Bedarfsgruppen (Unterbringungssatzung) - Zustimmung mit Änderung
+- TOP 19: Veränderungssperre für Bebauungsplan Nr. 3029, Dresden-Neustadt Nr. 43, Ehemaliger Gleisbogen Hansastraße - Vertagung durch Einreicher
+- TOP 20: Bauvorhaben „Aufweitung Weißiger Landstraße“ in Dresden-Gönnsdorf - Verweisung
+- TOP 21: Mehr Transparenz in der Anmeldepraxis für die Bunte Republik Neustadt - Zustimmung mit Änderung
+- TOP 22: Festlegung eines stadtweiten Grundschulbezirkes für die Universitätsschule - Ersetzung
+- TOP 25: ausgereichte Informationsvorlagen
+- TOP 25.1: Beteiligungsbericht 2016 der Landeshauptstadt Dresden - zur Kenntnis genommen
