@@ -1,0 +1,59 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2017-12-14T18:00:00+01:00
+- Ende: 2017-12-14T19:11:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ-b_b3Krr2rGX9-74G_oiM
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2948
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUfpchG1lhD8blltgY-2yJzhIelqOpOwboyn3gxYOfS0/Bekanntmachung_Rat_14.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ2wMP3KSPV6t27_gXZoYT-DOr_dmvBf8PavIJavPw2H/Oeffentliche_Niederschrift_Rat_14.12.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter/Vertreterinnen aus den Verbänden und sonstigen Gremien
+- TOP 5.: Einbringung des Entwurfs der Haushaltssatzung nebst Haushaltsplan und Anlagen für das Haushaltsjahr 2018
+- TOP 6.: Einbringung der Wirtschaftspläne für das Wirtschaftsjahr 2018
+- TOP 6.1: des Kommunalen Gebäudemanagements Leopoldshöhe
+- TOP 6.2: der Leopoldshöher Immobilien- und Liegenschaftsverwaltung
+- TOP 6.3: des Abwasserwerkes Leopoldshöhe
+- TOP 6.4: des Wasserwerkes Leopoldshöhe
+- TOP 7.: Besetzung der Ausschüsse
+- TOP 7.1: Besetzung der Ausschüsse hier: Wahl von beratenden Mitgliedern aus den gemeindlichen Schulen - - einstimmig -
+- TOP 7.2: Antrag der SPD-Fraktion vom 17.11.2017 auf Ausschussumbesetzungen
+- TOP 7.3: Antrag der CDU-Fraktion vom 03.12.2017 auf Ausschussumbesetzungen - - einstimmig -
+- TOP 7.4: Antrag der Fraktion Bündnis90/Die Grünen vom 13.12.2017 auf Ausschussumbesetzungen - - einstimmig -
+- TOP 8.: Offene Ganztagsgrundschule / Randstundenbetreuungsmaßnahmen hier: Erlass einer Satzung über die Erhebung von Elternbeiträgen für die Offene Ganztagsschule sowie für die Teilnahme an den Randstundenbetreuungsmaßnahmen im Primarbereich der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 9.: Öffentlich-rechtliche Vereinbarung zur Sicherung und Nutzung öffentlichen Archivguts zwischen den Städten Barntrup, Horn-Bad Meinberg, Lügde, Oerlinghausen und Schieder-Schwalenberg sowie den Gemeinden Dörentrup, Leopoldshöhe und Schlangen sowie dem Kreis Lippe („Interkommunale Kooperation zum Archivwesen“) - - einstimmig -
+- TOP 10.: Überörtliche Prüfung durch die Gemeindeprüfungsanstalt NRW 2017 - - einstimmig -
+- TOP 11.: Neufassung der Hundesteuersatzung der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 12.: Änderung der Vergnügungssteuersatzung der Gemeinde Leopoldshöhe - - 31 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 13.: Abfallentsorgung
+- TOP 13.1: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2018 - - einstimmig -
+- TOP 13.2: Änderung der Gebührensatzung zur Abfallentsorgungssatzung der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 14.: Friedhofsgebühren
+- TOP 14.1: Kalkulation der Friedhofsgebühren hier: Kalkulation 2017 und Gebührenhöhe 2018 - - einstimmig -
+- TOP 14.2: Änderung der Gebührensatzung zur Satzung über das Friedhofs- und Bestattungswesen für Anlagen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 14.3: Änderung der Satzung über das Friedhofs- und Bestattungswesen für Anlagen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 15.: Gebührenkalkulation Abwasser 2018
+- TOP 15.1: Neukalkulation der Kanalanschlussbeiträge zum 01.01.2018 - - einstimmig -
+- TOP 15.2: Gebührenkalkulation für das Jahr 2018 für das Abwasserwerk Leopoldshöhe - - einstimmig -
+- TOP 15.3: Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren der Gemeinde Leopoldshöhe vom 15. Dezember 2016 - - einstimmig -
+- TOP 16.: Gebührenkalkulation Wasser 2018
+- TOP 16.1: Gebührenkalkulation Wasser 2018 - - einstimmig -
+- TOP 16.2: Änderung der Beitrags- und Gebührensatzung zur Wasserentsorgungssatzung der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 17.: Jahresabschlüsse
+- TOP 17.1: Jahresabschluss 2016 des Kernhaushaltes gem. § 95 GO NRW i. V. m. § 37 GemHVO NRW - - einstimmig -
+- TOP 17.2: Jahresabschluss für das Wirtschaftsjahr 2016 - - einstimmig -
+- TOP 17.3: Jahresabschluss für das Wirtschaftsjahr 2016 - - einstimmig -
+- TOP 17.4: Jahresabschluss für das Wirtschaftsjahr 2016 - - einstimmig -
+- TOP 17.5: Jahresabschluss für das Wirtschaftsjahr 2016 - - einstimmig -
+- TOP 18.: Feuerwehrangelegenheiten hier: 2. Fortschreibung des Brandschutzbedarfsplans - - einstimmig -
+- TOP 19.: 14. Änderung des Bebauungsplans Nr. 07/01 „VdK-Siedlung“ im Bereich der „Weststraße / Bielefelder Straße“ im Ortsteil Nienhagen - Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öffentlichkeit / der Offenlage gemäß § 3 (2) BauGB und der Beteiligung der Behörden und der sonstigen Träger öffentlicher Belange gemäß § 4 (2) BauGB - Satzungsempfehlung an den Rat über die 14. Änderung des Bebauungsplanes Nr. 07/01 „VdK-Siedlung“ im Bereich der „Weststraße / Bielefelder Straße“ - - einstimmig -
