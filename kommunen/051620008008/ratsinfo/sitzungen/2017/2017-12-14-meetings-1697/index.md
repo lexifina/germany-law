@@ -1,0 +1,124 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2017-12-14T18:10:00+01:00
+- Ende: 2017-12-14T21:38:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1697
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1697
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - mehrheitlich bei
+- TOP 2: Verpflichtung eines Ratsmitgliedes
+- TOP 3: RWE Standort Frimmersdorf, Vortrag
+- TOP 4: Schriftliche Anträge
+- TOP 4.1: CDU
+- TOP 4.1.1: Fahrradständer am Bahnhof (Antrag Nr. 254/2017 - einstimmig
+- TOP 4.1.2: Ausführliche Darstellung von genehmigten über- und außerplanmäßigen Mittelbereitstellungen - einstimmig
+- TOP 4.1.3: Ausschussumbesetzung (Antrag Nr. 274/17) - einstimmig
+- TOP 4.1.4: Kreisverkehr L361/Auf den Hundert Morgen (Antrag Nr. 276/17) - einstimmig
+- TOP 4.1.5: Bahnübergang Kapellen, Talstraße (Antrag Nr. 277/17) - einstimmig
+- TOP 4.1.6: Friedhöfe sanieren (Antrag Nr. 278/17) - einstimmig
+- TOP 4.1.7: Parkraumkonzept in Wevelinghoven (Antrag Nr. 279/17) - einstimmig
+- TOP 4.1.8: Kinder- und Jugendhilfeplanung (Antrag Nr. 280/17) - einstimmig
+- TOP 4.1.9: Bezahlbaren Wohnraum schaffen (Antrag Nr. 282/17) - einstimmig
+- TOP 4.1.10: DEP Neurath (Antrag Nr. 283/17) - einstimmig
+- TOP 4.1.11: Verkehrsschilder in Grevenbroich und Einrichtung einer Kommission (284/17) - einstimmig
+- TOP 4.2: SPD
+- TOP 4.3: UWG/ABG
+- TOP 4.3.1: Ausschussumbesetzung (Antrag Nr. 245/2017) - einstimmig
+- TOP 4.4: FDP
+- TOP 4.4.1: Sachstandsbericht zur Umsetzung des Antrages 149/17 - einstimmig
+- TOP 4.4.2: Auflistung noch nicht erledigter Anträge des Rates in der Verwaltung (261/17) - einstimmig
+- TOP 4.4.3: Ausschussumbesetzungen (Antrag Nr. 262/17) - einstimmig
+- TOP 4.4.4: Weiterentwicklung des Angebots der Volkshochschule (VHS) Grevenbroich (Antrag Nr. 263/17) - einstimmig
+- TOP 4.4.5: Berichterstattung zur Wahl des Integrationsrates in der türkischen Presse (Antrag Nr. 264/17) - einstimmig
+- TOP 4.4.6: Eltern-Kind-Parkplätze, FDP-Antrag Nr. 255/17 - einstimmig
+- TOP 4.4.7: Erstellung eines jährlichen Energieberichtes (Antrag Nr. 266/17) - einstimmig
+- TOP 4.4.8: Ausschussumbesetzung (Antrag Nr. 267/17) - einstimmig
+- TOP 4.4.9: LED-Umrüstung und Fotovoltaik zum Eigenverbrauch (Antrag Nr. 268/17) - einstimmig
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.6.1: Ausschussumbesetzug (Antrag Nr. 250/2017) - einstimmig
+- TOP 4.6.2: Einrichtung einer 30er-Zone, Schutzstreifen für Fahrradfahrer (Antrag Nr. 270/17) - einstimmig
+- TOP 4.6.3: Ausschussumbesetzung (Antrag Nr.257/17) - einstimmig
+- TOP 4.6.4: Fahrbahnmarkierungen in Orken (Antrag Nr. 258/17) - einstimmig
+- TOP 4.6.5: 30er-Zone in Orken (Antrag Nr. 272/17) - einstimmig
+- TOP 4.7: Die Linke- Freie Bürger
+- TOP 4.8: Gemeinschaftsanträge
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.3: UWG/ABG
+- TOP 5.3.1: Sanierung der L142 Langwaden (Anfrage Nr.102/17 und 240/17 - Kenntnisnahme
+- TOP 5.4: FDP
+- TOP 5.4.1: Einrichtung von Beratungszentren (Anfrage Nr. 265/17) - Kenntnisnahme
+- TOP 5.4.2: Wirtschaftlichkeit Parkgebühren (Anfrage Nr. 256/2017) - Kenntnisnahme
+- TOP 5.4.3: Nachfolgelösung PVRat Informationssystem (Anfrage Nr. 269/17) - Kenntnisnahme
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.6: Mein Grevenbroich
+- TOP 5.7: Die Linke - Freie Bürger
+- TOP 5.7.1: Großer Fairness-Check (Anfrage Nr. 259/17) - Kenntnisnahme
+- TOP 5.7.2: Obdachlosigkeit in Grevenbroich (Anfrage Nr. 271/17) - Kenntnisnahme
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Mittelbereitstellungen
+- TOP 8: Entwurf des Gesamtabschlusses 2016 - einstimmig
+- TOP 9: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen in 2017 - Kenntnisnahme
+- TOP 10: Besetzung Aufsichtsrat NEW Umwelt GmbH - einstimmig
+- TOP 11: Bestellung zum Leiter der Freiwilligen Feuerwehr der Stadt Grevenbroich - einstimmig
+- TOP 12: Zusammenschluss Die Linke - Freie Bürger, Fraktionszuwendungen und Ausschussumbesetzungen - einstimmig
+- TOP 13: Flüchtlings- und Integrationsangelegenheiten
+- TOP 14: Die Linke/Piraten, Antrag Nr. 281/14 - Kenntnisnahme
+- TOP 15: Bundesmittel Investitionsprogramm 'Kinderbetreuungsfinanzierung 2017-2020' - einstimmig
+- TOP 16: Übertragung weiterer Aufgaben an die Stadtbetriebe Grevenbroich AöR - einstimmig
+- TOP 16.1: Satzung Stadtbetriebe AöR (Antrag Nr. 275/17) - Kenntnisnahme
+- TOP 16.2: 1. Änderungssatzung der Satzung der Stadt Grevenbroich für die AöR Stadtbetriebe Grevenbroich - Kenntnisnahme
+- TOP 17: Beratungspunkte Ausschüsse
+- TOP 17.1: Gebührensatzung Museum - einstimmig
+- TOP 17.2: Erhöhung der Kursgebühren und Dozentenhonorare der - einstimmig
+- TOP 17.3: Erhöhung der Kursgebühren und der Dozentenhonorare der Jugendkunstschule zum Frühjahrsemester 2018 - einstimmig
+- TOP 18: RechnungsprüfA
+- TOP 18.1: Bestätigung des Gesamtabschlusses 2015 und abschließende Beschlussfassung - einstimmig
+- TOP 18.2: Feststellung des Jahresabschlusses 2016 - einstimmig
+- TOP 19: BetriebsA
+- TOP 19.1: Wirtschaftsplan des Eigenbetriebs Abwasseranlagen für das Jahr 2018 - einstimmig
+- TOP 19.2: Abwassergebührenkalkulation 2018 - einstimmig
+- TOP 19.3: Jahresabschluss 2016 Eigenbetrieb Abwasseranlagen - einstimmig
+- TOP 20: Entscheidung PlanungsA
+- TOP 20.1: Aufhebung Satzung Kapellen - einstimmig
+- TOP 20.2: 15. Änd. FNP "Lindenstraße/Am Hagelkreuz" - erneuter Aufstellungsb. - einstimmig
+- TOP 20.3: 20. Änd. FNP "Bogensportanlage Frimmersdorf - Einstellung des Verfahrens - einstimmig
+- TOP 20.4: 2. Änd. F 21 § 13 Aufst.b. - einstimmig
+- TOP 20.5: 1. Änd. W 51 § 13 Satz.beschl. - einstimmig
+- TOP 21: HFD-A 22.11.2017
+- TOP 21.1: Neubau / Sanierung und Betrieb des Schlossbades - einstimmig
+- TOP 21.2: 3. Änderung der Vergnügungssteuersatzung vom 23.09.2011 - mehrheitlich bei
+- TOP 22: PersonalA
+- TOP 22.1: Digitalisierungsbericht 2017 - Kenntnisnahme
+- TOP 23: UmweltA
+- TOP 23.1: 2. Änderung der Satzung über die Abfallentsorgung in der Stadt Grevenbroich vom 07.12.2012 - einstimmig
+- TOP 23.2: Gebührenbedarfsberechnung Abfall 2018 - einstimmig
+- TOP 23.3: Friedhofsgebühren 2018 - mehrheitlich bei
+- TOP 24: BauA
+- TOP 24.1: Gebührenbedrafsberechnung 2018 für die Erhebung von Straßenreinigungs- u. Winterdienstgebühren - einstimmig
+- TOP 25: Beantwortung Anträge
+- TOP 25.1: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - Kenntnisnahme
+- TOP 26: Beantwortung Anfragen
+- TOP 26.1: Beantwortung von Anträgen und Anfragen hier: Sammelbeantwortung - Kenntnisnahme
+- TOP 26.2: Auslastung der Sportaußenanlagen (Anfrage Nr. 228/17) - Kenntnisnahme
+- TOP 27: mündliche Anträge/Anfragen
+- TOP 27.1: Erinnerung Anfragen 129 und 130/2017
+- TOP 27.2: Verkehrssituation Kapellen
+- TOP 27.3: Geländer Entwässerungsgraben (Anfrage Nr. 285/2017)
+- TOP 27.4: Brücken Apfelwiese (Anfrage Nr. 286/2017)
+- TOP 27.5: Baumscheiben Bergheimer Straße (Anfrage Nr. 287/2017)
+- TOP 27.6: Bäume Neuenhausener Straße (Anfrage Nr. 288/2017)
+- TOP 27.7: Fahrräder am Bahnhof (Anfrage Nr. 289/2017)
+- TOP 27.8: Straßenbauinvestitionsprogramm (Anfrage Nr. 290/2017)
+- TOP 27.9: Behindertenparkplätze vor der Kreisverwaltung (Anfrage Nr. 291/2017)
+- TOP 28: Mitteilungen BM
+- TOP 28.1: Sperrklausel gekippt - Kenntnisnahme
