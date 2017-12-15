@@ -1,0 +1,68 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2017-12-15T16:00:00+01:00
+- Ende: 2017-12-15T19:13:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3966
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3966
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Bestellung einer Schriftführerin für den Rat - einstimmig zugestimmt
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Venloer Straße, Bushaltestellen "Wilhelmstraße": Nachrüstung taktile Elemente und Wartehalle - einstimmig zugestimmt
+- TOP 7: Feststellung des Jahresabschlusses des TMN zum 31.12.2016 - einstimmig zugestimmt
+- TOP 8: Wirtschaftsplan 2018 für das Tiefbaumanagement Neuss - einstimmig zugestimmt
+- TOP 9: Am Alten Bach: Herstellung von Parkplätzen - einstimmig zugestimmt
+- TOP 10: Niederrheinstraße, nördl. Ortsausgang Grefrath: Schaffung einer barrierefreien Querungsstelle - einstimmig zugestimmt
+- TOP 11: Anbindung Edeka/An der Norf für Fußgänger - einstimmig zugestimmt
+- TOP 12: Gestaltung Ruhrstraße am Haus Derikum - einstimmig zugestimmt
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. V 491 - Norf, Vellbrüggener Str. - Aufstellung - einstimmig zugestimmt
+- TOP 14: Nutzungskonzept Rathaus Norf - einstimmig zugestimmt
+- TOP 15: Neuaufstellung des Flächennutzungsplanes für die Stadt Neuss - einstimmig zugestimmt
+- TOP 16: Beauftragung der SWN/Rheinbahn/BVR/NEW mit - einstimmig zugestimmt
+- TOP 17: Konzept der Frühen Hilfen in Neuss - einstimmig zugestimmt
+- TOP 18: Förderung von Kindertageseinrichtungen; hier: Bericht der GPA und Informationen zum Gesetzentwurf zu - einstimmig zugestimmt
+- TOP 19: Einführung einer aufsuchenden Drogenhilfe in der Stadt Neuss - einstimmig zugestimmt
+- TOP 20: Finanzierung Kinderschutzbund ab Haushaltsjahr 2018ff - einstimmig zugestimmt
+- TOP 21: Erweiterte Anmietung des Gebäudes Further Hof zu sozialen Zwecken - einstimmig zugestimmt
+- TOP 22: Übertragung der Herbert-Karrenberg-Schule an den Rhein-Kreis Neuss - abgesetzt
+- TOP 23: Wirtschaftsplan GMN 2018 - einstimmig zugestimmt
+- TOP 24: Abfallgebühren 2018 - einstimmig zugestimmt
+- TOP 25: Konsolidierungspotenziale der Dezernate für 2018 und Folgejahre - mehrheitlich zugestimmt
+- TOP 26: Beratung des Haushaltsplan-Entwurfes 2018 - mehrheitlich zugestimmt
+- TOP 27: Beratung Mittelfristige Ergebnisplanung 2017 - 2021 - mehrheitlich zugestimmt
+- TOP 28: Beratung Investitionsprogramm 2017-2021 - mehrheitlich zugestimmt
+- TOP 29: Änderung der Hundesteuersatzung - mehrheitlich zugestimmt
+- TOP 30: Änderung der Vergnügungssteuersatzung - mehrheitlich zugestimmt
+- TOP 31: Erlass einer Hebesatzsatzung - einstimmig zugestimmt
+- TOP 32: Erlass Haushaltssatzung 2018 - mehrheitlich zugestimmt
+- TOP 33: Klimapolitisches Arbeitsprogramm im Zertifizierungsverfahren eea plus - mehrheitlich zugestimmt
+- TOP 34: Coffee-to-go Mehrwegbecher für Neuss - mehrheitlich zugestimmt
+- TOP 35: Gewinnverwendungsbeschluss 2016 der Liegenschaften und Vermessung Neuss (LVN) - mehrheitlich zugestimmt
+- TOP 36: Erhöhung der Entgelte der VHS 2018 - einstimmig zugestimmt
+- TOP 37: Erweiterung Schulhof GS Allerheiligen - einstimmig zugestimmt
+- TOP 38: Einrichtung GL Görresschule - einstimmig zugestimmt
+- TOP 39: Anträge zur Berufsförderung an Neusser Schulen für das Schuljahr 2018/2019 - einstimmig zugestimmt
+- TOP 40: Zuschuss zum Betrieb der Mensa an der Gesamtschule an der Erft - einstimmig zugestimmt
+- TOP 41: Benutzungsgebühren Flüchtlilngsunterkünfte - einstimmig zugestimmt
+- TOP 42: Prüfung des Gesamtabschlusses 2015 - einstimmig zugestimmt
+- TOP 43: Prüfung des Gesamtabschlusses 2016 - einstimmig zugestimmt
+- TOP 44: Prüf. Jahresabschl. 2016 sowie Jahresabschl. 2016 d. 2 Sonderhaush. (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP 45: Jugendhilfeplanung "Kinder- und Jugendarbeit"; hier: Förderrichtlinie Jugendverbandsarbeit - einstimmig zugestimmt
+- TOP 46: Bürgerbegehren zur Umwandlung der Comenius-Sekundarschule in eine Gesamtschule - einstimmig zugestimmt
+- TOP 47: Änderung / Umbenennung der Satzung über die Durchführung von Bürgerentscheiden in der Stadt Neuss in - mehrheitlich zugestimmt
+- TOP 47.1: Resolution zum Erhalt der Arbeitsplätze des Neusser Werkes Goodrich Control Systems - einstimmig zugestimmt
+- TOP 48: Anfrage von Herrn STV Rosen betr. Einzug Gebühren OGS-Beiträge - zur Kenntnis genommen
+- TOP 48.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 49: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 50: Kosten "Tour de France" - zur Kenntnis genommen
+- TOP 51: Entwicklung der Schmutz- und Regenwassergebühren für 2018 - zur Kenntnis genommen
+- TOP 52: Einwohnerfragestunde - zur Kenntnis genommen
