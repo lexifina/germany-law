@@ -1,0 +1,85 @@
+# Rat (38. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2017-12-18T17:00:00+01:00
+- Ende: 2017-12-18T21:21:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZd5d5SFXJnpqtUQlcd-R4v4
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6743
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZrBSNhjSo0cx2P4dSiYLb-EIWD1vhNmoZkUokCT-oee/Bekanntmachung_Rat_18.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRk39IUtK5cFzRikwdAH8slvyFy6wB1cT6wk5A8KvSyE/Oeffentliche_Niederschrift_Rat_18.12.2017.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Anwohnerparkplätze in der Innenstadt
+- TOP 1.2: Energieeffizienz Rathaus Neubau
+- TOP 1.3: Fassadengestaltung Rathaus Neubau
+- TOP 2.: Niederschrift vom 06.11.2017
+- TOP 3.: Wahl eines Beigeordneten - (kein Text vorhanden)
+- TOP 4.: Haushalt 2018
+- TOP 4.1: Haushaltsberatungen 2018 hier: Gute Schule 2020 Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017
+- TOP 4.1.1: "Gute Schule 2020" Mittelverwendung im Haushaltsjahr 2018
+- TOP 4.1.2: Gute Schule 2020 Änderung der Mittelverwendung für das Förderjahr 2017 - (kein Text vorhanden)
+- TOP 4.1.3: Haushaltsberatungen 2018 hier: Gute Schule 2020 Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.2: Haushaltssteuerung über Ziele und Kennzahlen Bezug: Antrag der SPD-Fraktion vom 10.12.2017 - (kein Text vorhanden)
+- TOP 4.3: Änderung Stellenplan hier: Streichung der „künftig wegfallend“-Vermerke im Bereich der Eigenreinigung Bezug: Antrag der SPD-Fraktion vom 10.12.2017 - (kein Text vorhanden)
+- TOP 4.4: Haushaltsberatungen 2018 hier: Radmasterplan Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.5: Haushaltsberatungen 2018 hier: Projekt "Achtung Kinder" Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.6: Haushaltsberatungen 2018 hier: Jubiläum Kunst- und Musikschule Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.7: Haushaltsberatungen 2018 hier: Verzicht auf die geplante Erhöhung der Gewerbesteuer Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.8: Haushaltsberatungen 2018 hier: Stelleneinrichtung im FB 40 Schule für die strategische Entwicklung der Schullandschaft im Bereich Schulentwicklung, Digitalisierung und Vernetzung von Schulen und Arbeitswelt Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.9: Haushaltsberatungen 2018 hier: Gute Schule 2020 Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.10: Haushaltsberatungen 2018 hier: Teilnahme am "ÖPNV Kundenbarometer 2018" Bezug: HA 04.12.2017; Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 07.12.2017 - (kein Text vorhanden)
+- TOP 4.11: Einsparvorschläge Haushalt 2018 Bezug: Antrag Ratsherr Dr. Herbert Heermann vom 10.12.2017 - (kein Text vorhanden)
+- TOP 4.12: Verzicht auf Ankauf von Ökopunkten Bezug: mündlich gestellter Antrag der Fraktion Linke&Piraten
+- TOP 4.13: Verzicht auf die Planungskosten "Alter Friedhof" Bezug: mündlicher Antrag der Fraktion Linke&Piraten
+- TOP 4.14: Sportförderung Bezug: mündlicher Antrag der Fraktion Linke&Piraten
+- TOP 4.15: Einwendungen gegen den Entwurf der Haushaltssatzung 2018 - hier: Stellungnahme IHK-
+- TOP 4.16: Stellenplan; hier: Kompetenzen von Bürgermeister und Rat
+- TOP 4.16.1: Haushaltssatzung 2018 hier: Stellenplan und Stellenübersicht nach der Haushaltsgliederung - (kein Text vorhanden)
+- TOP 4.17: Erlass der Haushaltssatzung 2018 Rat 06.11. u. HA 20.11., 04.12.17 - (kein Text vorhanden)
+- TOP 5.: Selbstbindung des Bürgermeisters
+- TOP 6.: Änderung der Geschäftskreise der Beigeordneten der Dezernate I und III - (kein Text vorhanden)
+- TOP 7.: Verkleinerung des Rates
+- TOP 7.1: Einsparvorschläge Haushalt 2018 Bezug: Antrag Ratsherr Dr. Herbert Heermann vom 10.12.2017 - (kein Text vorhanden)
+- TOP 8.: Änderung der Geschäftsordnung des Rates der Stadt Brühl hier: Verlängerung Antrags- und Ladungsfrist Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 11.12.2017 - (kein Text vorhanden)
+- TOP 9.: Überplanmäßige Mittelbereitstellungen
+- TOP 9.1: Überplanmäßiger Mehraufwand – Pensionsrückstellungen / Mehrausgaben - (kein Text vorhanden)
+- TOP 9.2: Flachdachsanierung Gesamtschule hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.3: Überplanmäßige Mittelbereitstellung Umzüge im Zusammenhang der Auslagerung der Dienststellen aus Rathaus B - (kein Text vorhanden)
+- TOP 9.4: Containeranlage Willy-Brandt-Str. hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 10.: Satzungen
+- TOP 10.1: 7. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS -
+- TOP 10.1.1: Haushaltsberatungen 2018 hier: Gebührenerhöhung in der Kunst- und Musikschule Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 27.11.2017 - (kein Text vorhanden)
+- TOP 10.2: Satzung über die Erhebung von Gebühren für die Abfallbeseitigung in der Stadt Brühl - (kein Text vorhanden)
+- TOP 10.3: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Brühl -Straßenreinigungssatzung- - (kein Text vorhanden)
+- TOP 11.: Taktverdichtung der Linie 18 im Brühler Süden Bezug: Vorlage 365/2017, AfVM am 19.09.2017 Bezug: Vorlage 370/2017, Ratssitzung am 25.09.2017 - (kein Text vorhanden)
+- TOP 12.: Bebauungsplan 04.07/3 "Ehemaliger Zuckerfabriksteich" 1. Vereinfachte Änderung - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 13.: Beteiligung der Stadtwerke Brühl GmbH an der Quantum GmbH - (kein Text vorhanden)
+- TOP 14.: Betreff European Energy Award® hier: Bestätigung des AfBU-Beschlusses zur Umsetzung des Klima- schutzteilkonzepts Klimaschutz in eigenen Liegenschaften - (kein Text vorhanden)
+- TOP 15.: Gesellschafterversammlung Stadtwerke Brühl GmbH hier: Wirtschaftsplan 2018 - (kein Text vorhanden)
+- TOP 16.: Wirtschaftsplan der Gebausie für das Jahr 2018 - (kein Text vorhanden)
+- TOP 17.: Änderung der Rechnungsprüfungsordnung - (kein Text vorhanden)
+- TOP 18.: Prüfung Jahresabschluss 2016 - (kein Text vorhanden)
+- TOP 19.: Überörtliche Prüfung der Zahlungsabwicklung der Stadt Brühl durch die Gemeindeprüfungsanstalt Nordrhein-Westfalen (GPA NRW)
+- TOP 20.: Sicherstellung des Stadtverkehrs Brühl: Direktvergabe an die Stadtwerke Brühl GmbH als internen Betreiber nach Art. 5 Abs. 2 VO 1370/2007 - (kein Text vorhanden)
+- TOP 21.: Umbesetzung in Ausschüssen
+- TOP 21.1: Ausschussumbesetzungen im PStA, SchA und JHA Bezug: Antrag der Fraktion Linke&Piraten vom 12.12.2017 - (kein Text vorhanden)
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen
+- TOP 23.1: Max Erst Stipendium
+- TOP B): Nichtöffentliche Sitzung
+- TOP 24.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk II (nördlicher Stadtbezirk) - (kein Text vorhanden)
+- TOP 25.: Gesellschafterversammlung Stadtwerke Brühl GmbH hier Wirtschaftsplan 2018 - (kein Text vorhanden)
+- TOP 26.: Abschluss eines Vergleiches - (kein Text vorhanden)
+- TOP 27.: Stadtbusverkehr in Brühl
+- TOP 28.: Direktvergabe an die Stadtwerke Brühl GmbH als internen Betreiber nach Art. 5 Abs. 2 VO 1370/2007: Vorbereitende Maßnahmen, u.a. Kauf von Anteilen an der RVK - (kein Text vorhanden)
+- TOP 29.: Inanspruchnahme Restkreditermächtigung 2016 in 2017 - (kein Text vorhanden)
+- TOP 30.: Bericht über die 137. Sitzung des Aufsichtsrates der REVG mbH am 28.09.2017
+- TOP 31.: Mitteilungen
+- TOP 32.: Anfragen
