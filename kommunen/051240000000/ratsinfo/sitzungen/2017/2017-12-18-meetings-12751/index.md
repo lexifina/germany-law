@@ -1,0 +1,144 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2017-12-18T14:05:00+01:00
+- Ende: 2017-12-18T20:30:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12751
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12751
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 08.12.17 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00214425.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00215433.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 1.2: Besetzung des Verwaltungsvorstandes - ungeändert beschlossen
+- TOP 1.3: Wiederwahl von Herrn Beigeordneten Nocke - ungeändert beschlossen
+- TOP 2: Haushalt (nur Rat)
+- TOP 2.1: Haushaltsreden
+- TOP 2.1.1: Beitrag der städtischen Töchter zur Haushaltskonsolidierung - Entgegennahme ohne Beschluss
+- TOP 2.1.1.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Beitrag der städtischen Töchter zur Haushaltskonsolidierung" vom 12.12.2017 (VO/1083/17) - Entgegennahme ohne Beschluss
+- TOP 2.2: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 2.3: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 2.3.1: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2018/19 - ungeändert beschlossen
+- TOP 2.4: Anträge zum Haushalt
+- TOP 2.4.1: Ergänzungsantrag zur Beratung des Haushaltsplans 2018/2019, VO/0808/17 - Die Kinder- und Jugendfreizeiteinrichtungen „Offene Türen“ weiterhin finanzieren - abgelehnt
+- TOP 2.4.2: Ergänzungsantrag zur Haushaltsplanberatung 2018/2019, VO/0808/17 - abgelehnt
+- TOP 2.4.3: Haushaltsplan 2018/2019 - abgelehnt
+- TOP 2.4.4: Entwurf des Haushaltsplans 2018/2019 - Antrag zur Tagesordnung, Tagesordnungspunkt 2 - ungeändert beschlossen
+- TOP 2.4.5: Änderungsantrag VO/0808/17, Haushaltsplan 2018/2019, 1.31.09.01 Verwaltung und Betrieb Übergangseinrichtungen. - zur Vorberatung verwiesen
+- TOP 2.5: Drucksachen zum Haushalt
+- TOP 2.5.1: Verwendung des Bürgerbudgets - geändert beschlossen
+- TOP 2.5.1.1: „Autofreie Luisenstraße“ vor Umsetzung mit Anwohnern und Gastronomie abstimmen - zurückgezogen
+- TOP 2.5.1.2: Änderungsantrag zu VO/1075/17, „Autofreie Luisenstraße“ - in der Sache erledigt
+- TOP 2.5.1.3: "Autofreie Luisenstraße" - Beschluss der Bezirksvertretung Elberfeld vom 06. Dezember 2017 - in der Sache erledigt
+- TOP 2.6: Beratung erfolgt unter TOP 2.9.1 - 7. Fortschreibung des Haushaltssanierungsplans 2012 - 2021 für das Jahr 2018
+- TOP 2.7: Veränderungsnachweisungen
+- TOP 2.7.1: Beratung erfolgt unter TOP 2.3.1 - 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2018/2019
+- TOP 2.7.2: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2018/2019 - ungeändert beschlossen
+- TOP 2.8: Haushaltssatzung 2018/2019 - ungeändert beschlossen
+- TOP 2.9: Haushaltsplan 2018/2019
+- TOP 2.9.1: 7. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2018 - ungeändert beschlossen
+- TOP 2.10: Allgemeine Haushaltsangelegenheiten
+- TOP 2.10.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2016 - ungeändert beschlossen
+- TOP 2.10.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2016 - ungeändert beschlossen
+- TOP 2.10.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 3: Fragestunde (nur Rat)
+- TOP 3.1: Unbelegte Aussage des Beigeordneten Nocke zu Eskalationen der Gewalt in Fußball-Spielen unterer Ligen - Entgegennahme ohne Beschluss
+- TOP 3.1.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Unbelegte Aussage des Beigeordneten Nocke zu Eskalationen der Gewalt in Fußball-Spielen unterer Ligen" vom 15.11.2017 (VO/0961/17) - Entgegennahme ohne Beschluss
+- TOP 3.2: Krankenstand bei der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 3.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Gesundheitsmanagement" vom 27.11.2017 (VO/1033/17) - Entgegennahme ohne Beschluss
+- TOP 3.3: Dokumentenvielfalt - Entgegennahme ohne Beschluss
+- TOP 3.3.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Dokumentenvielfalt" vom 01.12.2017 (VO/1060/17) - Entgegennahme ohne Beschluss
+- TOP 3.4: Verhalten der minderjährigen unbegleiteten Flüchtlinge im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 3.4.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Verhalten der minderjährigen unbegleiteten Flüchtlinge im Stadtgebiet" vom 01.12.2017 (VO/1061/17) - Entgegennahme ohne Beschluss
+- TOP 3.5: Digitalisierung des Asylverfahrens - Entgegennahme ohne Beschluss
+- TOP 3.5.1: Antwort auf die Große Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER „Digitalisierung des Asylverfahrens“ vom 01.12.2017 (VO/1062/17) - Entgegennahme ohne Beschluss
+- TOP 3.6: Verwendung von Herbiziden mit dem Wirkstoff Glyphosat sowie weiterer Pestizide in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.6.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Verwendung von Herbiziden mit dem Wirkstoff Glyphosat sowie weiterer Pestizide in Wuppertal" vom 05.12.2017 (VO/1068/17) - Entgegennahme ohne Beschluss
+- TOP 3.7: Schließung des Jugendcafés JIM in Wuppertal-Barmen - Entgegennahme ohne Beschluss
+- TOP 3.7.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Schließung des Jugendcafés JIM in Wuppertal-Barmen "vom 07.12.2017 (VO/1072/17) - Entgegennahme ohne Beschluss
+- TOP 3.8: Strategie Glasfaserausbau im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 3.9: Digitalisierung und Kommunikation der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 3.9.1: Antwort auf die Anfrage der FDP-Fraktion "Digitalisierung und Kommunikation der Verwaltung" vom 07.12.2017 (VO/1074/17) - Entgegennahme ohne Beschluss
+- TOP 4: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 5: Fraktionsanträge
+- TOP 5.1: Besuche durch Vertreter der Kommunalpolitik in Unterkünften minderjähriger unbegleiteter Flüchtlinge - abgelehnt
+- TOP 5.2: Den Betrieb offener Psychiatrien stärker regulieren - abgelehnt
+- TOP 5.3: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Beleuchtung öffentlicher Sportanlagen in den Abendstunden während Herbst und Winter - abgesetzt
+- TOP 5.4: Fahrgastsicherheit in der neuen Generation der Schwebebahn - abgelehnt
+- TOP 5.5: Abgesetzt. Vorberatung nicht abgeschlossen. Einführung einer Bildungskarte zur Umsetzung des Bildungs- und Teilhabepakets für Kinder und Jugendliche - abgesetzt
+- TOP 5.6: Mobilitätskonzept für Wuppertal - ungeändert beschlossen
+- TOP 5.7: Fußweg längs der Wupper und KÖBO-Haus schnellstens freigeben - abgelehnt
+- TOP 6: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6.1: Abgesetzt. Vorberatung nicht abgeschlossen. Digitalisierungsoffensive - abgesetzt
+- TOP 6.2: Abgesetzt. Vorberatung nicht abgeschlossen. Erste Schritte zur digitalen Vorreiterstadt - abgesetzt
+- TOP 6.2.1: Abgesetzt. Vorberatung nicht abgeschlossen. Änderungsantrag zu VO/0847/17/1-Neuf: „Erste Schritte zur digitalen Vorreiterstadt durch Ausbau des Glasfasernetzes" - abgesetzt
+- TOP 6.3: Beratung erfolgt unter TOP 11.13.2 - Koordinator*in Engels-Jahr
+- TOP 7: Ortsrecht
+- TOP 7.1: Vierte Satzung zur Änderung der Satzung über die Erhebung der Zweitwohnungssteuer in der Stadt Wuppertal vom 30.06.2005 - ungeändert beschlossen
+- TOP 7.2: Satzung über die Festsetzung des Anteils der Beitragspflichtigen am beitragsfähigen Aufwand für die Mischverkehrsfläche Döppersberg - ungeändert beschlossen
+- TOP 7.3: 11. Änderungssatzung der satzung über die 11. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.4: 5. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.5: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 7.6: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2018 - ungeändert beschlossen
+- TOP 7.7: Satzung zur Änderung und Verlängerung der Satzung vom 19. Dezember 2012 über die Festlegung der Immobilien- und Standortgemeinschaft Barmen-Werth sowie über die Erhebung von Abgaben zur Finanzierung von standortbezogenen Maßnahmen innerhalb dieses Ge - ungeändert beschlossen
+- TOP 7.8: Neufassung der Wettbürosteuersatzung - ungeändert beschlossen
+- TOP 7.9: Gebührensatzung zur Abfallwirtschaft 2018 - ungeändert beschlossen
+- TOP 7.10: Änderung des Taxentarifs / Neufassung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten und Beförderungsbedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif) - ungeändert beschlossen
+- TOP 7.11: Abgesetzt. Die Drucksache wurde von der Verwaltung zurückgezogen. Ordnungsbehördliche Verordnung über die Änderung (teilweise Aufhebung) der Naturdenkmalverordnung im Gebiet der Stadt Wuppertal - abgesetzt
+- TOP 7.12: 3. Satzung zur Änderung der Abfallwirtschaftssatzung der Stadt Wuppertal vom 19.12.2012 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligungsbericht 2016 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.2: Jahresabschluss 2016 des Eigenbetriebes Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2018 des Eigenbetriebes Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2016 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.7: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.10.2017 bis 30.09.2018 - ungeändert beschlossen
+- TOP 8.8: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2018 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.9: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2018 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.10: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2018 bis 31.12.2018 - ungeändert beschlossen
+- TOP 8.11: Wirtschaftsplan 2018 Kinder- und Jugendwohngruppen - ungeändert beschlossen
+- TOP 8.12: Jahresabschluss des Eigenbetriebes Wasser und Abwasser für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.13: Entlastung des Betriebsausschusses für den Eigenbetrieb WAW - ungeändert beschlossen
+- TOP 8.14: Wirtschaftsplan 2018 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 8.15: Wirtschaftsplan 2018 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.16: Wirtschaftsplan 2018 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.17: Beteiligung an der Partnerschaft Deutschland Berater der öffentlichen Hand GmbH - ungeändert beschlossen
+- TOP 8.18: Abgesetzt. Die Beratung erfolgt in einer der nächsten Sitzungsfolgen. Corporate Governance Kodex und Beteiligungsrichtlinien der Stadt Wuppertal - abgesetzt
+- TOP 9: Planverfahren
+- TOP 9.1: Planfeststellungsverfahren zum Ausbau der L 419 zwischen Lichtscheid und Erbschlö (1. Bauabschnitt) - Stellungnahme der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 776/1 - Hessische Straße / Regentenstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung und Erweiterung der Grundschule Peterstraße - geändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Platzbenennung am Hauptbahnhof - ungeändert beschlossen
+- TOP 11.2: Geh- und Radweg Schwelmer Stich - ungeändert beschlossen
+- TOP 11.3: Schiedsamtswesen - Neuorganisation - ungeändert beschlossen
+- TOP 11.4: Integriertes Handlungskonzept Grüne Infrastruktur - ungeändert beschlossen
+- TOP 11.5: Wuppertal eine wachsende Stadt - ein Positionspapier - Entgegennahme ohne Beschluss
+- TOP 11.6: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.7: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.8: Anhebung von Kursentgelten und Aufwandsentschädigungen der Feriensportkurse - ungeändert beschlossen
+- TOP 11.9: Förder- und Präventionsplan für Kinder und Jugendliche in Wuppertal, Rahmenplan 2018 - 2022 - ungeändert beschlossen
+- TOP 11.10: Antrag auf Genehmigung zur Errichtung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.11: Kooperationsraum "Zwischen Rhein und Wupper" - ungeändert beschlossen
+- TOP 11.12: Abgesetzt. Die Drucksache wurde von der Verwaltung zurückgezogen. Wohnbauflächen identifizieren und ausweiten - abgesetzt
+- TOP 11.13: Planungen zum Engelsjahr 2020 - ungeändert beschlossen
+- TOP 11.13.1: Fertigstellung des Engelshauses - abgelehnt
+- TOP 11.13.2: Koordinator*in Engels-Jahr - abgelehnt
+- TOP 11.14: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Konzept für Personal- und Organisationsentwicklung - abgesetzt
+- TOP 11.15: Klarstellung des Grundsatzbeschlusses zum Pina Bausch Zentrum - ungeändert beschlossen
+- TOP 11.16: Wasserversorgungskonzept der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.17: Veränderte Durchführung des Projektes 'Wupperpark' - ungeändert beschlossen
+- TOP 11.17.1: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Neugestaltung des Wupperparks Ost - abgesetzt
+- TOP 11.18: Eckpunkte für die Schulentwicklungsplanung 2018 - 2022 - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Abberufung und Bestellung von Vertretern der Stadt Wuppertal in der KDN-Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 12.2: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.3: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 06. Juni 2018 in Bielefeld - Benennung der Delegierten der Stadt Wuppertal (nur Rat) - geändert beschlossen
