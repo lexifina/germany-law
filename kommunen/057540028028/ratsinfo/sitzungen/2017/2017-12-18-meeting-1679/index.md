@@ -1,0 +1,53 @@
+# Rat der Stadt Rheda-Wiedenbrück (20. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2017-12-18T17:00:00+01:00
+- Ende: 2017-12-18T20:25:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRs68MF7HlrCuIp5TEEt5bg
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1679
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe70RvZ_TJYitx0AhIazXsEad9_RSXbPlrli_iBpYAaO/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_18.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVd8LSOHg2CO-Cfz68VUOFlJkT4XMgCpU8BwPY7XDq9l/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_18.12.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Besetzung des Wahlausschusses - Einstimmig
+- TOP 5: Jahresabschluss zum 31.12.2015; Feststellung und Entlastung des Bürgermeisters - 34 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 6: Jahresabschluss zum 31.12.2016; Feststellung und Entlastung des Bürgermeisters - 34 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Ausgaben - Einstimmig
+- TOP 8: Außerplanmäßige Mittelbereitstellung gem. § 83 GO NRW Investitionskostenzuschuss für die Schaffung zusätzlicher Plätze in Kinderta-geseinrichtungen für Kinder ab 3 Jahren - Einstimmig
+- TOP 9: Außer- bzw. überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 120102 „Erschließung Gewerbegebiet Woermannstraße" - Einstimmig
+- TOP 10: Neukalkulation der Abfallentsorgungsgebühren und Änderung der Satzung über die Abfallentsorgung und Abfallentsorgungsgebühren - Einstimmig
+- TOP 11: Wirtschaftsplan des Betriebes Bauhof für das Wirtschaftsjahr 2018 - Einstimmig
+- TOP 12: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2016, Entlastung der Betriebsleitung sowie des Betriebsausschusses hier: Bericht der Dr. Heilmaier & Partner GmbH - 31 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 13: Wirtschaftsplan des Eigenbetriebes Abwasser für das Wirtschaftsjahr 2018; Vorlage des Entwurfs - 31 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 14: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - Einstimmig
+- TOP 15: Einwendung gegen den Entwurf der Haushaltssatzung 2018 gem. § 80 Abs. 3 GO NRW zum Ausbau des Burgwegs - Einstimmig
+- TOP 16: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2018 - Einstimmig
+- TOP 17: Fortschreibung des Einzelhandelskonzeptes der Stadt Rheda-Wiedenbrück Beschluss des Konzepts - 29 Ja-Stimme(n), 6 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 18: Änderung des Rettungsdienstbedarfsplanes für den Kreis Gütersloh - Personal, Konzept Notfallsanitäter - Stellungnahme der Stadt Rheda-Wiedenbrück gemäß § 12 Rettungsdienstgesetz NRW (RettG NRW) - Einstimmig
+- TOP 19: 66. Änderung des FNP und Bebauungsplan Nr. 376 „Auf der Wöste“; Ergebnisse der Beteiligung der Öffentlichkeit und der Behörden und sonstige Träger öffentlicher Belange gem. §§ 3 (2) und 4 (2) BauGB (Offenlage) Feststellungsbeschluss bzw. Satzungsbeschlu - Einstimmig
+- TOP 20: Bebauungsplan Nr. 384 „Neuer Wall"; a) Ergebnisse und Behandlung der Stellungnahmen - aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und - der Beteiligung der Behörden gem. § 4 (1) BauGB - der Beteiligung der Öffentlichkeit und - Einstimmig
+- TOP 20.1: Bebauungsplan Nr. 384 „Neuer Wall"; Ergänzung zur Vorlage des Satzungsbeschlusses: V-234/2013 9. Ergänzung: hier: Schalltechnische Untersuchung - Kenntnisnahme
+- TOP 21: Städtische Gesamtschule (Wiedenbrück) - Einstimmig
+- TOP 22: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 23: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 24: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 25: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 26: Erklärung von Ausschließungsgründen
+- TOP 27: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Stundung und Niederschlagung städtischer Forderungen - Einstimmig
+- TOP 31: Aktueller Stand der städtischen Geldanlagen - Einstimmig
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
+- TOP 34: Vergabe - Einstimmig
