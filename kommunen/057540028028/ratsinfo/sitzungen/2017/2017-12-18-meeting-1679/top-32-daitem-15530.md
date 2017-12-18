@@ -1,0 +1,7 @@
+# TOP 32: Bericht zur Beschlusskontrolle
+
+- Sitzung: Rat der Stadt Rheda-Wiedenbrück (20. Sitzung) (2017-12-18)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/15530
+- Ergebnis: Kenntnisnahme
