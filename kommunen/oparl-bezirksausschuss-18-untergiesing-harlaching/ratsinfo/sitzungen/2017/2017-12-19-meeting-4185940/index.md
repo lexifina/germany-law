@@ -1,0 +1,151 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2017-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4185940
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4185940
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Kreuzung Humboldt- / Pilgersheimer Straße; Bürgeranliegen vom 05.11.17
+- TOP 2.1.2.2.: Veranstaltungen im Stadion an der Grünwalder Straße (Lärmschutz); Bürgeranliegen vom 06.11.17
+- TOP 2.1.2.3.: MVG-Anschluss-Anzeige-Optimierung Mangfallplatz (Süd) - Haltestelle Bus 139 Richtung Klinikum Harlaching; Bürgeranliegen vom 06.11.17 mit Ergänzung vom 10.11.17
+- TOP 2.1.2.4.: Rücknahme der neuen Beschilderung in der Lohstraße; Bürgeranliegen vom 15.11.17
+- TOP 2.1.2.5.: Spielplatz Birkenleiten: Ballfangzaun, Lärmschutz und Beschilderung der Nutzungszeiten; Bürgeranliegen vom 25.11.17 (acht gleichlautende Schreiben)
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V., Lacrima-Zentrum für trauernde Kinder Bilderausstellung "Tote essen auch Nutella" vom 13.01. bis 05.05.2017 1.350,00 € Az: 0262.0-18-0130
+- TOP 3.1.3.1.: (E) Budget der Bezirksausschüsse Bürgerinitiative Mehr Platz zum Leben Infofilm für das Projekt „Gestaltung der stillgelegten Bushaltestelle 58 am Kolumbusplatz“ 550,00€ Az. 0262.0-18-0131
+- TOP 3.1.6.1.: Verwendungsnachweis ASZ Untergiesing für 30-jähriges Jubiläum und Ehrenamtsausflug
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Stellungnahme des BA18 zum Entwurf: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017
+- TOP 3.2.3.2.: Schaffung von mindestens 15 Fahrradstellplätzen an der Bushaltestelle Autharistraße (Bus 139), Fahrtrichtung stadteinwärts; Antrag der CSU-Fraktion
+- TOP 3.2.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Verkehrslärmbelästigung in der Grünwalder Straße
+- TOP 3.2.5.2.: Absicherung der Garageneinfahrt Schlehdorfer Straße 11 / Tegernseer Landstr. 172
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Umbau der Schönstraße zwischen Candidstraße und Lebschéestraße im 18. Stadtbezirk Untergiesing - Harlaching Projektkosten (Kostenobergrenze): 4.000.000 € 1. Projektgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 3.2.6.2.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 3.2.6.3.: Fuß- und Radwegbrücke am Giesinger Berg, Sachstandsbericht und weiteres Vorgehen; Sitzungsvorlage Nr. 14-20 / V 07717; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.17
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Sanierung des Trimm-Dich-Pfades im Perlacher Forst; Antrag der CSU-Fraktion
+- TOP 3.3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Daten aus der Klimastudie auch an den BA 18 weiterleiten
+- TOP 3.3.5.2.: Nutzung der Bushaltestellendächer für Solarstromgewinnung
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; (2) Schreiben des Baureferats-Gartenbau vom 29.11.17 mit Listen
+- TOP 3.3.6.2.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Beschleunigung des Neubaus einer Grundschule auf dem staatlichen Grundstück in der Harthauser Straße; Antrag der CSU-Fraktion
+- TOP 3.4.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Barrierefreien Ausbau in Untergiesing und Harlaching fördern; gleichberechtigte Teilhabe am gesellschaftlichen Leben durch Ausbau/Umbau und Modernisierung von Infrastruktur; Unterstützung der Kampagne der Bayerischen Staatsregierung „Bayern barrierefrei – Wir sind dabei!“ im 18. Stadtbezirk; Empfehlungen Nrn. 14-20 / E 01311 und E 01312 der Bürgerversammlung des Stadtbezirkes 18 vom 24.11.2016; Anhörung durch das Sozialreferat vom 09.11.17 zum Beschlussentwurf für den Sozialausschuss des Stadtrats
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Ankauf, Instandhaltung und Ausbau des Parkour-Geländes unter der Candidbrücke (Stangengerüst etc.) im Bereich AKKU Jugendtreff, Lohstraße 70
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertagesstätten sonstiger Träger; Kinderkrippe an der Schönstraße 2 im 18. Stadtbezirk Untergiesing-Harlaching Leistung eines Baukostenzuschusses
+- TOP 3.4.6.2.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 3.4.6.3.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 3.4.6.4.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 3.4.6.5.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 3.4.6.6.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.4.6.7.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 3.4.6.8.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.4.6.9.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.1.: Anwesen in der Aggensteinstraße, Errichtung einer Wohnanlage (5 WE) mit Tiefgarage
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Keine Erschließungsbeiträge für die Maßnahmen an den Gehwegen der Rabenkopfstraße
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.2.1 Abbruch und Neubau Hauensteinstraße 6
+- TOP 3.5.6.3.: Unterrichtung durch das Sozialreferat über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen im Erhaltungssatzungsbereich: Anwesen in der Konradinstraße; Schreiben vom 16.11.17
+- TOP 3.5.6.4.: (U) Bebauungsplan mit Grünordnung Nr. 2088 Candidstraße (südlich), Hellabrunner Straße (östlich) Salierstraße (westlich) (Änderung des Bebauungsplanes Nr. 10b) - ehemaliges Osramgelände - - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 18 – Untergiesing-Harlaching
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Beauftragter gegen Extremismus; Anhörung durch das Direktorium zum Antrag des BA 21 auf Satzungsänderung
+- TOP 4.5.1.: Entwurf des Mehrjahresinvestitionsprogrammes für die Jahre 2017 - 2021; Unterrichtung durch die Stadtkämmerei
