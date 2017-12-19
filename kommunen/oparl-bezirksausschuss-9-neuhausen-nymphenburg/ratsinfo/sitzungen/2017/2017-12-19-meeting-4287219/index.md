@@ -1,0 +1,134 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2017-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4287219
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4287219
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 3.2.5.: Kein Busbahnhof an der Ecke Arnulfstraße / Marsstraße
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 4.2.2.: Aktuell genehmigte Bettenplätze und Nutzung Kellergeschoss AO-Hostel Arnulfstraße / Marsstraße (Bürgeranliegen OT Klarastraße)
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.5.4.: Runder Tisch AKIM zum Thema Gerner Brücke
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Radschnellweg Olympiapark-Neuhausen-Maxvorstadt
+- TOP 3.2.2.: Radverkehr und Baustelle Stammstrecke
+- TOP 3.2.3.: Radstreckenführung unter der Donnersbergerbrücke
+- TOP 3.2.4.: Schutzzaun entlang des Bahndamms am Nymphenburger Park
+- TOP 3.2.6.: E-Ladestation am Steubenplatz und in der Donnersbergerstraße
+- TOP 3.2.7.: Verkehrssicherheit am Haus Heilig Geist, Dom-Pedro-Platz
+- TOP 3.2.8.: Schulcampus Albrechtstraße
+- TOP 3.2.9.: Aufrüstung der Lichtzeichenanlage von der Guntherstraße in die Arnulfstraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Christoph-Rapparini-Bogen: Verkehrsrechtliche Anordnung Absolute Haltverbote
+- TOP 3.3.2.: Fahrradstraßenpilotroute Nymphenburg-Petuelring; Teilprojekt Menzinger Straße bis Dachauer Straße
+- TOP 3.3.3.: Errichtung dreier beleuchteter Litfaßsäulen am Eisnergutbogen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Poller an der Kreuzung Frundsbergstraße / Volkartstraße
+- TOP 3.4.2.: Einseitiges Parkverbot in der Irnfriedstraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Änderung der BA-Satzung; Bezirksausschüssen das Aufstellen von mobilen Geschwindigkeitsanzeigen innerhalb ihres Stadtbezirkes ermöglichen - Antwort an BA 19
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen - Friedenheimer Brücke - Herthastraße - Hirschgartenallee - Lazarettstraße - Schluderstraße - Thorwaldsenstraße / Lothstraße
+- TOP 3.5.3.: Neugestaltung Romanplatz - Ergebnisprotokoll
+- TOP 3.5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.5.: (U) Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahn-Haltepunkt Donnersbergerbrücke im 3. Stadtbezirk Maxvorstadt, im 8. Stadtbezirk Schwanthalerhöhe und im 9. Stadtbezirk Neuhausen - Nymphenburg Projektkosten (Ausführungskosten): für Brückenkonstruktion 13.900.000 € für Erschließungsanlagen 4.800.000 € für Eingriffe in Bahnbetrieb und -anlagen 7.500.000 € 1. Ausführungsgenehmigung 2. Änderung des Mehrjahresinvestitionsprogrammes 2017 - 2021
+- TOP 3.5.6.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 3.5.7.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 3.5.8.: (U) Veranstaltungen auf öffentlichem Verkehrsgrund Neufassung der Veranstaltungsrichtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Für 2018 geplantes Olympisches Dorf als Studentendorf realisieren
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Baugenehmigungsverfahren: - In den Kirschen 1 (22971-22) - Blutenburgstr. 122 (23485-22) - Winfriedstr. 3 (Vorbescheid) - Wendl-Dietrich-Str. 20 (24085-22)
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten der LBK über Bauvorhaben
+- TOP 4.5.2.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
+- TOP 4.5.3.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Begrünung der Klarastraße - Auswertung der Umfrage
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung über Baumfällungsanträge - Klugstr. 113 - Nederlinger Str. 97 - Romanplatz 12 - Sindoldstr. 3 - Schulstr. 22 - Schulstr. 22 - Hohenlohestr. 69 - Tizianpl. 4 - Gudrunstr. 14
+- TOP 5.3.2.: BA-Budget: Film "o&#039;pflanzt is" - Verlängerung des Bewilligungszeitraums
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 5.5.2.: (U) Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün" 21 Anträge und Empfehlungen
+- TOP 5.5.3.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Spielplatz an der Thorwaldsenstraße
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Grünanlage Leonrodstr. 57, Antrag auf Aufhebung der Schließzeit
+- TOP 6.4.2.: Bürgerbeschwerden über Lärm
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Bürgerbeschwerden bzgl. Haus der Jugendarbeit
+- TOP 6.5.2.: Einladung der GEWOFAG zum Unterausschus
+- TOP 6.5.3.: Bericht AKIA-Tagung zum Sozialen Frieden
+- TOP 6.5.5.: (U) Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 6.5.6.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 6.5.7.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021 Einzelplan 4 / Sozialbereich
+- TOP 6.5.8.: (U) Haushaltsplan 2018 Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Sozialreferates/ Gesellschaftliches Engagement/ Bürgerschaftliches Engagement (BE) und Geschäftsleitung/Sozialplanung
+- TOP 6.5.9.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.5.10.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Verlängerung des Projektes Lok Arrival Empfehlung Nr. 14-20 / E 01548 ...
+- TOP 6.5.11.: (U) Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Street Art am Kreativlabor
+- TOP 7.4.2.: Vermietungen im Kreativquartier
+- TOP 7.4.3.: Nutzungsperspektiven für das Stationshaus am Romanplatz
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: BA-Budget: Verwendungsnachweise
+- TOP 7.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5.3.: Sondersitzung Kulturgespräch im Kreativ-Labor am 12.12.2017 - 18 Uhr.
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Förderverein Dom-Pedro-Grundschule e.V. Anschaffung von 15 Apple IPads 6.600,00 Euro 0262.0-9-0249
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Grundschulorganisation - mögliche Änderung der Sprengel für die Grundschulen - Maria-Ward-Straße 1 - Südl. Auffahrtsallee 82 - Haldenbergstraße 27
+- TOP 8.5.2.: Bericht zur Kita-Konferenz des BA 9
+- TOP 8.5.3.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.5.4.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 8.5.5.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021
+- TOP 9.5.2.: Unveränderte Fortführung / Neuerrichtung von Gaststättenbetrieben - Blutenburgstr. 112 - "Zoe&#039;s Kitchen" - Elvirastraße 12 - "Anan"
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
