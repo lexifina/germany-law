@@ -1,0 +1,157 @@
+# 34. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2017-12-19T14:10:00+01:00
+- Ende: 2017-12-19T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16714
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/16714
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat - Version Umdruck (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00642867.pdf
+- Ergebnisprotokoll: Tagesordnung Rat - Version Umdruck (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00642867.pdf
+- Wortprotokoll: Tagesordnung Rat - Version Umdruck (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00642867.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme einer Schenkung von Fotografien verschiedener Künstler für das Museum Ludwig - ungeändert beschlossen
+- TOP 2.2: Annahme einer Schenkung an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 2.3: Abschluss eines Vertrages mit der Peter und Irene Ludwig Stiftung und der Stadt Köln betreffend das Museum Ludwig - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke., FDP und der Ratsgruppen GUT und BUNT betreffend: "Heinrich Böll im Stadtbild sichtbar machen" - ungeändert beschlossen
+- TOP 3.1.2: Antrag der AfD-Fraktion betreffend "Projekt "Digitale Rekonstruktion der Kölner Fragmente"" - endgültig zurückgezogen
+- TOP 3.1.3: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen und der Ratsgruppe GUT betreffend: "Neubau der Bühnen-Werkstätten - Mietmodell" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP 3.1.4: Autofreie Altstadt jetzt! - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.5: Antrag der AfD-Fraktion betreffend "Verhängung längerfristiger Aufenthaltsverbote für auffällige Personen im Zusammenhang mit Verstößen gegen das Betäubungsmittelgesetz" - endgültig abgelehnt
+- TOP 3.1.6: Antrag der SPD Fraktion betreffend "Ebertplatz den Menschen zurückgeben - Menschen statt Mauern!" - endgültig abgelehnt
+- TOP 3.1.7: Antrag der Fraktion Die Linke. und der Ratsgruppen GUT und BUNT betreffend "Kündigung der Projektgalerie LABOR Ebertplatz zurückziehen" - endgültig zurückgezogen
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Straßen und Plätze in Köln, die Namen von historisch belasteten Personen oder Ereignissen tragen - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 07.12.2017 - Kenntnis genommen
+- TOP 4.2: Kosten für die Aufnahme von unbegleiteten minderjährigen Ausländern (UMA) in Köln - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 07.12.2017 - Kenntnis genommen
+- TOP 4.3: Mögliche Unterstützung antifaschistischer Gruppierungen durch Zuwendungen der Stadt Köln - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.12.2017 - Kenntnis genommen
+- TOP 4.4: Anfrage der Fraktion Die Linke. betreffend "Kosten und Probleme einer Ausgründung der städtischen Wirtschaftsförderung" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 19.12.2017 - Kenntnis genommen
+- TOP 4.5: Anfrage der AfD-Fraktion betreffend "Beteiligung von Flüchtlingen an Reinigungsarbeiten in Sammelunterkünften" - zurückgestellt
+- TOP 4.6: Anfrage der Gruppe BUNT betreffend "Sicherheitsmaßnahmen zu Silvester und Karneval: Wird Köln zur Festung?" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 21.12.2017 - Kenntnis genommen
+- TOP 4.7: Anfrage der AfD-Fraktion betreffend "Zusätzliche Einstellung eines Fachmannes für Öffentlichkeitsarbeit" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 19.12.2017 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: 1. Satzung zur Änderung der Abfallsatzung 2018 - ungeändert beschlossen
+- TOP 6.1.2: 14. Satzung zur Änderung der Satzung der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 6.1.3: 2. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln - ungeändert beschlossen
+- TOP 6.1.4: 5. Änderung der Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.3.1: Bericht über die Auswirkungen der 1. Änderung der Kölner Stadtordnung - ungeändert beschlossen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Unterrichtung des Rates gemäß § 82 Absatz 1 und § 84 Absatz 1 Gemeindeordnung des Landes Nordrhein-Westfalen über die vom Kämmerer genehmigten Mehraufwendungen
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2017 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2016 und 2017. - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 8.1: Überplanmäßiger Mehrbedarf im Teilergebnisplan 0208 - Personenstandswesen: Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 8.2: Genehmigung überplanmäßiger Aufwands- und Auszahlungsermächtigungen für die Unterbringung von Flüchtlingen im Doppelhaushalt 2016/2017, Haushaltsjahr 2017 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 9.1: Außerplanmäßige Auszahlung im Teilfinanzplan 0205 – Verkehrsüberwachung, Haushaltsjahr 2017
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Verlagerung Tennisanlage Heidekaul - ungeändert beschlossen
+- TOP 10.2: Gestaltungshandbuch der Stadt Köln - geändert beschlossen
+- TOP 10.3: Errichtung einer Unterkunft für geflüchtete Familien auf dem städtischen Grundstück Kuckucksweg 10, 50997 Köln - Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert beschlossen
+- TOP 10.4: Baubeschluss für die Brandschutzsanierung bzw. -ertüchtigung der Stadtbahnhaltestelle Appellhofplatz / Zeughaus sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6903-1202-1-0110, Brandschutz Appelhofplatz - ungeändert beschlossen
+- TOP 10.5: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - zurückgestellt
+- TOP 10.6: Machbarkeitsuntersuchung neue Fuß- und Radwegbrücke zwischen Bastei und Rheinpark und Erweiterung der vorhandenen Geh- und Radwege an der Hohenzollernbrücke - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, FDP und der Ratsgruppe GUT - ungeändert beschlossen
+- TOP 10.7: Erweiterter Planungsbeschluss Neubau Brücke Weinsbergstraße - geändert beschlossen
+- TOP 10.8: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 10.9: Kommunales Programm für Arbeit und Beschäftigungsfähigkeit - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 10.10: Gesamtverkehrskonzept Köln, 8. Änderung - ungeändert beschlossen
+- TOP 10.11: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Urbach - Planungsbeschluss - ungeändert beschlossen
+- TOP 10.12: Sportanlage Kapellenstraße in Köln-Rondorf - ungeändert beschlossen
+- TOP 10.13: Lärmaktionsplanung nach EU-Umgebungslärmrichtlinie bzw. § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung und abschließender Beschluss zur Stufe 2 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ungeändert beschlossen
+- TOP 10.14: Hallen Kalk; Herbeiführung eines Planungsbeschlusses zur Revitalisierung der ehemaligen KHD Hallen 76 und 77 - ungeändert beschlossen
+- TOP 10.15: Aktionsplan zur Auszeichnung der Stadt Köln als "Kinderfreundliche Kommune" - geändert beschlossen
+- TOP 10.16: Kindertagespflege nach § 23 SGB VIII - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen und FDP - ungeändert beschlossen
+- TOP 10.17: Abschlepprahmenvertrag - ungeändert beschlossen
+- TOP 10.18: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg Planungsbeschluss - zurückgestellt
+- TOP 10.19: Planungsaufnahme zur Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Sporthalle auf dem Grundstück Statthalterhofallee in Köln-Junkersdorf - ungeändert beschlossen
+- TOP 10.20: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - zurückgestellt
+- TOP 10.21: Zügigkeitserweiterung der Albert-Schweitzer-Gemeinschaftsgrundschule, GGS zum Hedelsberg, 50999 Köln-Weiß gem. § 81 Abs. 2 Schulgesetz NRW von 3 auf 4 Züge - geändert beschlossen
+- TOP 10.22: Zügigkeitserweiterung der Brüder-Grimm-Schule, Sürther Hauptstraße, 50999 Köln-Sürth gem. § 81 Abs. 2 Schulgesetz NRW von 4 auf 5 Züge - geändert beschlossen
+- TOP 10.23: Wirtschaftsplan des Gürzenich-Orchesters Köln, Wj. 2017/18 - ungeändert beschlossen
+- TOP 10.24: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung" - Umgestaltung des Kurt-Hackenberg-Platzes - verwiesen in nachfolgende Gremien
+- TOP 10.25: Weiterführung des kommunalen Wohnungsbauförderungsprogrammes 2017 bis 2021 - ungeändert beschlossen
+- TOP 10.26: Einführung des gebundenen Ganztags an der Geschwister-Scholl-Realschule in Ehrenfeld ab Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 10.27: Fachstellen "Extremismus- und Gewaltprävention" - ungeändert beschlossen
+- TOP 10.28: Starke Veedel - Starkes Köln, Hier: Bedarfsfeststellung für das Projekt 0.0.1 "Büro für Quartiersmanagement und Aktivierung" in elf Sozialräumen - ungeändert beschlossen
+- TOP 10.29: Zügigkeitserweiterung der Carl-von-Ossietzky-Gesamtschule, Ossietzkystr. 2, 50737 Köln-Longerich zum Schuljahr 2019/20 nach § 81 Abs. 2 Schulgesetz NRW bei gleichzeitiger Bildung eines Teilstandortes an der Paul-Humburg-Str. 13, 50737 Köln-Longerich - zurückgestellt
+- TOP 10.30: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2016 - ungeändert beschlossen
+- TOP 10.31: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2018 - ungeändert beschlossen
+- TOP 10.32: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2016 - ungeändert beschlossen
+- TOP 10.33: Feststellung des Wirtschaftsplans der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2018 - ungeändert beschlossen
+- TOP 10.34: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Lachemer Weg - Umplanungsbeschluss - ungeändert beschlossen
+- TOP 10.35: Ausbau von Plätzen U3 durch gesondert geförderte Großtagespflegen unter Anbindung bei anerkannten Trägern der freien Jugendhilfe in Köln mit Erfahrung in der Kindertagesbetreuung - ungeändert beschlossen
+- TOP 10.36: Zügigkeitserweiterung des Apostelgymnasiums, Gymnasium Biggestraße 2, 50931 Köln in Köln-Lindenthal zum Schuljahr 2018/19 nach § 81 Absatz 2 Schulgesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.37: Vergabe der Mittel für Antirassismus-Training im Jahr 2017 hier: Verteilung Restmittel 2017 – Kampagne für Vielfalt und Wertschätzung, gegen Intoleranz, Diskriminierung und Ausgrenzung im Rahmen von Diversity - ungeändert beschlossen
+- TOP 10.38: Umgestaltung des Hermann-Joseph-Platzes, Elogiusplatzes und Augustinerplatzes, hier: Mitteilung über eine Erhöhung der Investitionsauszahlungen gem. § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen - ungeändert beschlossen
+- TOP 10.39: Mindeststandards zur Flüchtlingsunterbringung - Stärkung Koordination Ehrenamt - ungeändert beschlossen
+- TOP 10.40: Ausweitung des Gültigkeitszeitraumes des Köln-Passes für Leistungsbeziehende nach dem SGB II und Seniorinnen und Senioren mit geringem Rentenbezug - geändert beschlossen
+- TOP 10.41: Feststellung des Jahresabschlusses zum 31.12.2015 und des Lageberichtes für das Wirtschaftsjahr 01.01.2015 - 31.12.2015 des Wallraf-Richartz-Museums & Fondation Corboud - ungeändert beschlossen
+- TOP 10.42: Sanierung Römisch-Germanisches Museum - ungeändert beschlossen
+- TOP 10.43: Gründung einer Wirtschaftsförderungs-GmbH - ungeändert beschlossen
+- TOP 10.44: GEW Köln AG - ungeändert beschlossen
+- TOP 10.45: Ordnungsbehördliche Verordnung über das Öffnen von Verkaufsstellen im Kernbereich Innenstadt am 21.01.2018 - endgültig abgelehnt
+- TOP 10.46: GAG Servicegesellschaft mbH - ungeändert beschlossen
+- TOP 10.47: GAG Immobilien AG - ungeändert beschlossen
+- TOP 10.48: Ergänzung von Gesellschaftsverträgen städtischer Beteiligungsunternehmen - zurückgestellt
+- TOP 10.49: RheinEnergie AG - ungeändert beschlossen
+- TOP 10.50: Nutzungsunabhängige Haldenstabilisierung des Kalkbergs - Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung 2016 / 2017 der Stadt Köln - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.51: Bestellung eines / einer neuen Betriebsleiter / Betriebsleiterin - ungeändert beschlossen
+- TOP 10.52: Verbesserung der Situation am Ebertplatz - geändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Eigelstein 41 in Köln-Altstadt/Nord; 674613/02; Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.2: Arbeitstitel: "Gewerbepark Poll - Teilbereich Gewerbepark Poll Nord" in Köln - Poll; Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70439/08 - ungeändert beschlossen
+- TOP 12.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Vorhabenbezogenen Bebauungsplan-Entwurf 70465/01 - ungeändert beschlossen
+- TOP 12.4: Robertstraße in Köln-Kalk; B-Plan-Entwurf 70447/04; Beschluss über Stellungnahmen + Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.5: Raderthalgürtel (neu) in Köln-Zollstock, 1. Änderung; 57419/08; Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.6: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 70480/12 - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Sachen
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: Satzung über die abweichende Herstellung der Erschließungsanlage Weidengasse von Pflasterhofweg bis Weidengasse 46 einschließlich in Köln-Weiß - ungeändert beschlossen
+- TOP 16.2: Satzung über die abweichende Herstellung der Erschließungsanlage Vorgebirgstraße von Zollstockgürtel/Raderthalgürtel bis Höniger Platz in Köln-Zollstock - ungeändert beschlossen
+- TOP 16.3: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - zurückgestellt
+- TOP 16.4: 262. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 17: Wahlen
+- TOP 17.1: Mitteilung über die Benennung eines neuen beratenden Pflichtmitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 17.2: Ausländerrechtliche Beratungskommission; Bestimmung neuer ordentlicher und stellvertretender Mitglieder - ungeändert beschlossen
+- TOP 17.3: Sparkasse KölnBonn: Weisung an die in die Verbandsversammlung des Zweckverbandes Soparkasse KölnBonn durch den Rat entsandten Vertreter - ungeändert beschlossen
+- TOP 17.4: Mitteilung zu der Benennung eines neuen beratenden Pflichtmitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 17.5: Regionalverkehr Köln GmbH (RVK): Entsendung eines Aufsichtsratsmitglieds - zurückgestellt
+- TOP 17.6: Ausschussumbesetzung Ausschuss Umwelt und Grün – sachkundiger Bürger - ungeändert beschlossen
+- TOP 17.7: Ausschussumbesetzung Gesundheitsausschuss - ungeändert beschlossen
+- TOP 17.8: Änderung der Benennung sachkundiger Einwohnerinnen und Einwohner für diverse Ausschüsse auf Empfehlung der Stadtarbeitsgemeinschaft Lesben, Schwule Transgender - ungeändert beschlossen
+- TOP 17.9: Nachwahl eines Mitgliedes für den Aufsichtsrat der Jugendzentren Köln gemeinnützige Betriebsgesellschaft mbH (JugZ) - ungeändert beschlossen
+- TOP 17.10: Nachbesetzung des Aufsichtsrats der Stadtwerke Köln GmbH - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 18.1: Entscheidung durch den Hauptausschuss gemäß § 60 Absatz 1, Satz 1 GO NRW und Genehmigung durch den Rat gemäß § 60 Absatz 1 Satz 3 GO NRW - ungeändert beschlossen
+- TOP 19: -
