@@ -1,0 +1,66 @@
+# Rat (110. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2017-12-19T17:02:00+01:00
+- Ende: 2017-12-19T19:15:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZfX_VICH-O2M4r0U-zjlY4
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14162
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe85wUmCKPGD09Y5KBuAFgacOT21mN01d0N2crcvL7rQ/Bekanntmachung_Rat_19.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSQnv0wcX4WgE-WcTsKkYsNepPAgfcL7HuvudTgH3xZ_/Oeffentliche_Niederschrift_Rat_19.12.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Verpflichtung und Einführung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift über die letzte Sitzung vom 17.10.2017
+- TOP 4.: Anträge und Anfragen; Eingänge
+- TOP 5.: Umbesetzung von Gremien - Einstimmig
+- TOP 6.: Abstimmung bei Beschlüssen des Rates der Stadt Emsdetten - Ohne Abstimmung
+- TOP 7.: Zuwendungen an Fraktionen - 19 Ja-Stimme(n), 23 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 8.: Allgemeine Umweltangelegenheiten
+- TOP 8.1: Maßnahmen zum Ausgleich nachhaltiger Auswirkungen (Kompensation) durch Eingriffe in die Schutzgüter Tiere/Pflanzen und Boden -Antrag der Fraktion Die GRÜNEN vom 21. Mai 2017- - Einstimmig
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Antrag der Fraktion DIE LINKE auf Information von Jugendlichen und deren Erziehungsberechtigten auf die Widerspruchsmöglichkeit zur Datenweitergabe an die Bundeswehr - 36 Ja-Stimme(n), 9 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.: Gesundheitsversorgung Emsdetten; Antrag des Gesundheitsstadt Emsdetten e.V. auf Finanzierung einer Machbarkeitsstudie zur ärztlichen Versorgung - Einstimmig
+- TOP 11.1: Gesundheitsversorgung Emsdetten; Antrag des Gesundheitsstadt Emsdetten e.V. auf Finanzierung einer Machbarkeitsstudie zur ärztlichen Versorgung - Einstimmig
+- TOP 12.: Altersteilzeit für Beamte der Stadt Emsdetten - 26 Ja-Stimme(n), 18 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 13.: Feststellung des Jahresabschlusses 2016, Entlastung des Bürgermeisters - Zur Kenntnis genommen
+- TOP 14.: Vorzeitige Ausschüttung vom Jahresüberschuss 2017 des Abwasserwerkes - 35 Ja-Stimme(n), 7 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 15.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2018
+- TOP 15.1: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2018 - 33 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.: Stadtwerke Emsdetten GmbH
+- TOP 16.1: Stadtwerke Emsdetten GmbH: Erteilung Einzelprokura - Einstimmig
+- TOP 16.2: Gesellschaftsverträge Stadtwerke Emsdetten GmbH und tkrz Stadtwerke GmbH - Einstimmig
+- TOP 17.: Finanzangelegenheiten
+- TOP 17.1: I. Nachtrag zur Satzung über die Erhebung der Wettbürosteuer in der Stadt Emsdetten (Wettbürosteuersatzung) vom 05.11.2015 - 44 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.: Satzungsrecht
+- TOP 18.1: Neufassung der Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Emsdetten - Einstimmig
+- TOP 18.2: Neufassung der Satzung der Stadt Emsdetten über die Erhebung von Beiträgen nach § 8 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen - 44 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 18.3: Neufassung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2018 - Einstimmig
+- TOP 18.4: Satzung über die Abfallentsorgung in der Stadt Emsdetten - Einstimmig
+- TOP 18.5: VI. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten - Einstimmig
+- TOP 18.6: XI. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 43 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.7: Elternbeitragssatzung in Kindertageseinrichtungen - 38 Ja-Stimme(n), 3 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 19.: Flächennutzungsplan
+- TOP 19.1: 13. Änderung des Flächennutzungsplanes der Stadt Emsdetten im Bereich des Bebauungsplans Nr. 44 "Kläranlage Meinerts Esch" - Feststellungsbeschluss - Einstimmig
+- TOP 20.: Bebauungspläne
+- TOP 20.1: Bebauungsplan Nr. 99 "Jan-van-Detten-Straße / Rheiner Straße" - Satzungsbeschluss - 41 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.2: Bebauungsplan Nr. 66 A "Bühlsand / Waldschänke" - Satzungsbeschluss - - Einstimmig
+- TOP 21.: Privaterschließungs- und städtebauliche Verträge
+- TOP 21.1: BauGB-Vertrag für den Bereich des B-Plans 66A "Waldschänke / Bühlsand" - Einstimmig
+- TOP 22.: Planung von Tiefbauvorhaben
+- TOP 22.1: Bauprogramm Vennweg (zwischen der Westumer Landstraße und Lange Water) - Einstimmig
+- TOP 23.: Schulangelegenheiten
+- TOP 23.1: Verwendungsplanung 2018 zum Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 23.2: Bildung der Grundschul-Eingangsklassen im Schuljahr 2018/2019 - Einstimmig
+- TOP 24.: Stellenplan
+- TOP 24.1: Stellenplan 2018 - Einstimmig
+- TOP 24.1.1: Stellenplan 2018 - Einstimmig
+- TOP 25.: Etat / Budget
+- TOP 25.1: Haushaltssatzung und Haushaltsplan 2018 - 27 Ja-Stimme(n), 17 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 26.: Verschiedenes
