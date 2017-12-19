@@ -1,0 +1,54 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2017-12-19T17:30:00+01:00
+- Ende: 2017-12-19T21:20:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRWfTgExg3aP8z1JHKmfgpw
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1188
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcAKyJTirH18eBUesg5TiyNA6k6jHLySAZYlBZITeMiE/Bekanntmachung_Rat_19.12.2017.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUvnBaTja5jjQaup9FBG4UfDsWmtkqOE-qfLdc5Ye0Jb/Oeffentliches_Beschlussprotokoll_Rat_19.12.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 19.10.2017
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bericht des Bürgermeisters
+- TOP 4.1: Trainingshalle Hollage
+- TOP 4.2: Glückwünsche zur Wiederwahl in den Niedersächsischen Landtag
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Änderung der "Satzung über die Gewährung von Aufwandsentschädigung und Auslagenersatz der Ehrenbeamten und sonstigen Funktionsträgerinnen und Funktionsträger in der Freiwilligen Feuerwehr der Gemeinde Wallenhorst" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Kommunalrechtsangelegenheiten
+- TOP 6.1: Benennung eines Vertreters der Gemeinde Wallenhorst in die Mitgliederversammlung des Naturparks Nördlicher Teutoburger Wald, Wiehengebirge, Osnabrücker Land e. V. - Terra.vita - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Benennung eines Vertreters der Gemeinde Wallenhorst in die Mitgliederversammlung des Tourismusverbandes Osnabrücker Land e. V. - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Wirtschaftsangelegenheiten
+- TOP 7.1: Betrauung der Gemeinde Wallenhorst als Teil einer Gesamtbetrauung an den Tourismusverband Osnabrücker Land e. V. mit Dienstleistungen von allgemeinem Interesse - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Sonstige Kommunalangelegenheiten
+- TOP 8.1: Übernahme des Strom- und Gasnetzes in der Gemeinde Wallenhorst - mehrheitlich mit 26 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.2: Erhöhung des Eigenkapitals der Gemeindewerke Wallenhorst Netz GmbH & Co. KG - mehrheitlich mit 26 Ja-Stimme(n), 6 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.3: Änderung des Gesellschaftsvertrages der Gemeindewerke Wallenhorst Netz GmbH & Co. KG und der Gemeindewerke Wallenhorst Netz-Verwaltungsgesellschaft mbH - mehrheitlich mit 26 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 9.: Kindertagesstätten
+- TOP 9.1: Neuregelung der Aufgabenwahrnehmung und Finanzierung der Kinderbetreuung im Landkreis Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Bauleitpläne
+- TOP 10.1: Bebauungsplan Nr. 274 „Südlich Hansastraße / westlich Pollerweg“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vor- gebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Straßenbau
+- TOP 11.1: Straßenbaumaßnahmen: Erstellung Nebenanlagen „Pollerweg“ und Ausbau Kreuzung „Pollerweg/Hullerweg“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 12.1: Neubau eines Betriebs- und Sozialgebäudes auf dem Gelände der Kläranlage „Barlager Esch“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Dorferneuerung Rulle – Vorstellung der überarbeiteten Planungen im Bereich der „Klosterstraße“ und des „zentralen Kreuzungsbereiches in Rulle“ - mehrheitlich mit 25 Ja-Stimme(n), 7 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 13.: Kommunalrechtsangelegenheiten
+- TOP 13.1: Einrichtung eines Arbeitskreises Dorferneuerung Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Umwelt- und Energieangelegenheiten
+- TOP 14.1: Umsetzung des Klimaschutzkonzeptes hier: Handlungsfeld Klimafreundliche Mobilität – Förderung des Radverkehrs: - Radverkehrsfreundliche Gestaltung des ´Butke-Kreisverkehrs´ in Lechtingen - Erstellung eines Radverkehrskonzeptes für die Gemeinde Wallenhorst - mehrheitlich mit 26 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 15.: Kämmereiangelegenheiten
+- TOP 15.1: Zustimmung zur überplanmäßigen Auszahlung für die Baumaßnahme 'Ausbau Große Straße-Nord' - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.2: Haushaltswirtschaft für das Jahr 2018 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 26 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 15.3: Genehmigung zur Annahme von Zuwendungen (Beschluss Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.: Anfragen und Anregungen
+- TOP 16.1: Anzahl und Umfang der Wortbeiträge zum Beschluss der Haushaltssatzung in vergangenen Legislaturperioden
+- TOP 16.2: Dank an die Kämmerin der Gemeinde Wallenhorst
