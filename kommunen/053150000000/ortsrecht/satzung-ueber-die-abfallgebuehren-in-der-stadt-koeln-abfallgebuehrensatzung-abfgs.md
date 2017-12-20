@@ -1,18 +1,18 @@
 # Satzung über die Abfallgebühren in der Stadt Köln (Abfallgebührensatzung - AbfGS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2016-12-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallgebuehrensatzung_21_12_2016.pdf
+- Datum: 2017-12-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallgebuehrensatzung_20_12_2017.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Abfallgebühren in der Stadt Köln (Abfallgebührensatzung - AbfGS -) vom 16. Dezember 2015
-in der Fassung der 1. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln
-(Abfallgebührensatzung – AbfGS -) vom 21. Dezember 2016
+in der Fassung der 2. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln
+(Abfallgebührensatzung – AbfGS -) vom 20. Dezember 2017
+- ABl StK 2015, S. 571, 2016, S. 518, 2017, S. 548 -
 Der Rat der Stadt Köln hat in seiner Sitzung vom 15.12.2015 aufgrund der §§ 4, 5, 6 und 20 Abs. 2 des Kommunalabgabengesetzes des Landes Nordrhein-Westfalen vom 21. Oktober 1969 (SGV. NRW. 610) in Verbindung mit den §§ 7 und 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen vom 14. Juli 1994 (SGV. NRW. 2023) und der §§ 1, 2 und 9 des Abfallgesetzes für das Land Nordrhein-Westfalen vom 21. Juni 1988 (GV. NRW. S. 250) - Landesabfallgesetz - jeweils in der bei Erlass der Satzung geltenden Fassung - diese Satzung beschlossen.
-- ABl StK 2015, S. 571, 2016, S. 518 -
 §1 Gebührenpflicht
 (1) Für die Inanspruchnahme der öffentlichen Abfallentsorgung der Stadt Köln (§§ 1 bis 3 Abfallsatzung - AbfS -) werden
 a) von dem/der Grundstückseigentümer/in
@@ -45,237 +45,237 @@ Im Falle des § 11 Abs. 2 Satz 4 AbfS übermittelt die HGK Häfen und Güterverk
 
 1. 60 l-Behälter
 
-296,41 €
+303,11 €
 
 2. 80 l-Behälter
 
-352,00 €
+359,97 €
 
 3. 120 l-Behälter
 
-469,95 €
+480,77 €
 
 4. 180 l-Behälter
 
-651,01 €
+666,21 €
 
 5. 240 l-Behälter
 
-823,71 €
+843,17 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 lBehälters auf Antrag reduziert und beträgt 184,81 €.
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 lBehälters auf Antrag reduziert und beträgt 189,13 €.
 
 (2) Der Gebührensatz beträgt im Falle des § 12 Abs. 1 Ziffer 2 AbfS (Gruppe II, VollService) für ein Kalenderjahr bei wöchentlich einmaliger Abfuhr für
 
 1. 60 l-Behälter
 
-340,69 €
+348,11 €
 
 2. 70 l-Behälter
 
-404,20 €
+412,84 €
 
 3. 80 l-Behälter
 
-400,27 €
+409,03 €
 
 4. 110 l-Behälter
 
-521,21 €
+532,65 €
 
 5. 120 l-Behälter
 
-526,24 €
+537,97 €
 
 6. 180 l-Behälter
 
-710,18 €
+726,34 €
 
 7. 240 l-Behälter
 
-881,64 €
+902,05 €
 
 8. 500 l-Behälter
 
-1.734,78 €
+1.774,77 €
 
 9. 660 l-Behälter
 
-2.036,97 €
+2.084,18 €
 
 10. 770 l-Behälter
 
-2.185,98 €
+2.236,88 €
 
 11. 1.100 l-Behälter
 
-2.974,11 €
+3.044,58 €
 
 12. 500 l-Behälter mit Müllschleuse
 
-1.852,94 €
+1.896,14 €
 
 13. 660 l-Behälter mit Müllschleuse
 
-2.324,91 €
+2.379,94 €
 
 14. 770 l-Behälter mit Müllschleuse
 
-2.619,90 €
+2.682,58 €
 
 15. 1.100 l-Behälter mit Müllschleuse
 
-3.573,99 €
+3.660,75 €
 
 16. 500 l-Behälter mit Nachsortierung
 
-1.989,28 €
+2.036,18 €
 
 17. 660 l-Behälter mit Nachsortierung
 
-2.420,89 €
+2.478,53 €
 
 18. 770 l-Behälter mit Nachsortierung
 
-2.689,89 €
+2.754,46 €
 
 19. 1.100 l-Behälter mit Nachsortierung
 
-3.633,98 €
+3.722,37 €
 
 20. 3.000 l-Unterflurbehälter
 
-8.103,18 €
+8.288,01 €
 
 21. 5.000 l-Unterflurbehälter
 
-13.498,69 €
+13.806,59 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 lBehälters auf Antrag reduziert und beträgt 206,92 €.
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 lBehälters auf Antrag reduziert und beträgt 211,60 €.
 
 /4
 
 -4-
 
-(2a) Der Gebührensatz für eine Korrektur von Fehlbefüllungen (Nachsortierung) gem. § 12 Abs. 9 AbfS beträgt für ein Kalenderjahr 627,65 € bei einmal wöchentlicher Abfuhr pro Restmüllbehälter der Größe 500 l bis 1.100 l (§ 9 Abs. 1 Nr. 1 AbfS).
+(2a) Der Gebührensatz für eine Korrektur von Fehlbefüllungen (Nachsortierung) gem. § 12 Abs. 9 AbfS beträgt für ein Kalenderjahr 635,36 € bei einmal wöchentlicher Abfuhr pro Restmüllbehälter der Größe 500 l bis 1.100 l (§ 9 Abs. 1 Nr. 1 AbfS).
 
 (2b) Der Gebührensatz für die Entsorgung von 3.000 l und 5.000 l Unterflurbehältern für Papier (§ 9 Abs. 1 Ziff. 4 AbfS) beträgt für ein Kalenderjahr bei 14-täglicher Leerung für
 
 1. 3.000 l-Behälter
 
-1.008,74 €
+1.029,31 €
 
 2. 5.000 l-Behälter
 
-1.681,23 €
+1.715,51 €
 
 (3) Eigenkompostierer erhalten auf Antrag einen Abschlag, wenn sie nachweisen, ob und in welchem Umfang sie den anfallenden Bioabfall und Grünschnitt ordnungsgemäß und schadlos verwerten. Der Abschlag beträgt im Falle des § 12 Abs. 1 Ziffer 1 und 2 AbfS (Gruppe I, Teil-Service, Gruppe II Voll-Service) bei wöchentlich einmaliger Abfuhr für
 
 1. 60 l-Behälter
 
-44,48 €
+47,36 €
 
 2. 70 l-Behälter
 
-49,14 €
+52,33 €
 
 3. 80 l-Behälter
 
-53,81 €
+57,29 €
 
 4. 110 l-Behälter
 
-71,29 €
+75,90 €
 
 5. 120 l-Behälter
 
-76,59 €
+81,55 €
 
 6. 180 l-Behälter
 
-122,23 €
+119,50 €
 
 7. 240 l-Behälter
 
-148,46 €
+158,08 €
 
 8. 500 l-Behälter
 
-289,66 €
+308,42 €
 
 9. 660 l-Behälter
 
-346,70 €
+369,16 €
 
 10. 770 l-Behälter
 
-378,03 €
+402,51 €
 
 11. 1.100 l-Behälter
 
-545,44 €
+580,77 €
 
 12. 500 l-Behälter mit Müllschleuse
 
-321,57 €
+342,40 €
 
 13. 660 l-Behälter mit Müllschleuse
 
-424,47 €
+451,97 €
 
 14. 770 l-Behälter mit Müllschleuse
 
-495,21 €
+527,29 €
 
 15. 1.100 l-Behälter mit Müllschleuse
 
-707,45 €
+753,28 €
 
 16. 500 l-Behälter mit Nachsortierung
 
-358,39 €
+381,60 €
 
 17. 660 l-Behälter mit Nachsortierung
 
-450,39 €
+479,57 €
 
 18. 770 l-Behälter mit Nachsortierung
 
-514,12 €
+547,42 €
 
 19. 1.100 l-Behälter mit Nachsortierung
 
-723,65 €
+770,53 €
 
 20. 3.000 l-Unterflurbehälter
 
-1.310,82 €
+1.395,73 €
 
 21. 5.000 l-Unterflurbehälter
 
-2.184,70 €
+2.326,22 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 30,78 €.
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 32,78 €.
 
 (4) Der Gebührensatz für die Entsorgung von 3.000 l und 5.000 l Behältern für Restmüll beträgt für ein Kalenderjahr bei wöchentlich einmaliger Abfuhr für
 
 1. 3.000 l-Behälter
 
-6.963,11 €
+6.912,49 €
 
 2. 5.000 l-Behälter
 
-10.834,29 €
+10.776,41 €
 
 /5
 
 -5-
 
-(5) Im Falle des § 9 Abs. 1 Ziffer 2 AbfS (verschließbare Abfallbehälter) erhöhen sich die Gebühren nach § 2 Absätze 1 bis 3 um 20,15 € je Behälter und Jahr.
+(5) Im Falle des § 9 Abs. 1 Ziffer 2 AbfS (verschließbare Abfallbehälter) erhöhen sich die Gebühren nach § 2 Absätze 1 bis 3 um 20,48 € je Behälter und Jahr.
 
 (6) Wird der Abfall mehr als einmal wöchentlich bzw. mehr als einmal zweiwöchentlich eingesammelt, so erhöhen sich die Gebühren bzw. Gebührenabschläge nach den Absätzen 1 bis 4 und 12 bis 13 entsprechend.
 
-(7) Werden die Abfallbehälter mit einem Fassungsvermögen von 3.000 l bzw. 5.000 l nach Abs. 5 weniger als einmal wöchentlich entleert, so verringern sich die Gebühren entsprechend.
+(7) Werden die Abfallbehälter mit einem Fassungsvermögen von 3.000 l bzw. 5.000 l nach Abs. 4 weniger als einmal wöchentlich entleert, so verringern sich die Gebühren entsprechend.
 
 (8) Besteht die Gebührenpflicht nicht während des ganzen Kalenderjahres, verringern sich die Gebühren für jeden Monat ohne Gebührenpflicht.
 
@@ -295,23 +295,13 @@ Fahrgastschiffen
 
 • bis 800 qm genutzter Wasserfläche • über 800 qm bis 1300 qm genutzter Wasserfläche • über 1.300 qm genutzter Wasserfläche Hotelschiffen
 
-191,88 € 383,22 € 438,20 €
+192,30 € 384,55 € 439,68 €
 
-• bis 800 qm genutzter Wasserfläche
+• bis 800 qm genutzter Wasserfläche • über 800 qm bis 1300 qm genutzter Wasserfläche • über 1.300 qm genutzter Wasserfläche
 
-274,50 €
+275,06 € 512,95 € 582,98 €
 
-• über 800 qm bis 1300 qm genutzter Wasserfläche
-
-511,28 €
-
-• über 1.300 qm genutzter Wasserfläche
-
-581,28 €
-
-(11) Im Falle des § 11 Abs. 3 i.V.m. § 12 Abs. 6 AbfS beträgt die Gebühr für den Abfallsack
-
-4,80 €.
+(11) Im Falle des § 11 Abs. 3 i.V.m. § 12 Abs. 6 AbfS beträgt die Gebühr für den Abfallsack 4,90 €.
 
 (12) Für Abfallbehälter gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS, deren Transportweg auf dem Grundstück von der Grundstücksgrenze des/der Anschlusspflichtigen länger als 15 m ist, werden Zuschläge auf die Gebührensätze wie folgt erhoben:
 
@@ -319,29 +309,29 @@ Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 1, 3, 5 – 7:
 
 1. Transportweg über 15 m bis 25 m:
 
-15,99 €
+15,96 €
 
 2. Transportweg über 25 m bis 40 m:
 
-39,27 €
+39,62 €
 
 3. Transportweg über 40 m:
 
-63,79 €
+64,54 €
 
 Auf die Gebührensätze nach § 2 Abs. 2, Ziffern 8 bis 19 :
 
 1. Transportweg über 15 m bis 25 m:
 
-66,59 €
+67,39 €
 
 2. Transportweg über 25 m bis 40 m:
 
-177,25 €
+179,84 €
 
 3. Transportweg über 40 m:
 
-287,88 €
+292,28 €
 
 /6
 
@@ -353,69 +343,54 @@ Auf die Gebührensätze nach § 2 Abs. 1 sowie Abs. 2 Satz 1 Ziffern 1-7, Satz 2
 
 je angefangene 50 m Transportweg
 
-53,61 €
+54,19 €
 
 Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 8 bis 19
 
 je angefangene 50 m Transportweg
 
-242,86 €.
+246,53 €.
 
-(13) Für Restmüllbehälter gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS, deren Transportweg auf dem Grundstück bis zur Grundstücksgrenze des/der Anschlusspflichtigen bis zu 15 m lang ist, werden Zuschläge auf die Gebührensätze wie folgt erhoben, wenn sich auf dem Weg Hindernisse befinden:
+(13) Für Restmüllbehälter gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS, deren Transportweg auf dem Grundstück bis zur Grundstücksgrenze des/der Anschlusspflichtigen bis zu 15 m lang ist, werden Zuschläge auf die Gebührensätze wie folgt erhoben, wenn der Weg nicht ebenerdig ist (Straßenniveau) ist (§ 10 Abs. 3 AbfS):
 
 1. Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 1, 3, 5 – 7:
 
-15,99 €
+15,96 €
 
 2. Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 8 bis 19:
 
-66,59 €
-
-Hindernisse im Sinne dieses Absatzes liegen vor, wenn der Transportweg nicht ebenerdig (Straßenniveau) oder nicht mit einem harten, dauerhaften Belag versehen ist (§ 10 Abs. 3 und 4 AbfS).
+67,39 €
 
 (14) Bei Wechselbehältern (Pressmüllcontainern) beträgt die Gebühr
 
 je Abfuhr und Entleerung
 
-257,51 €
+261,57 €
 
 und für die Entsorgung je Tonne Abfall
 
-163,36 €
+157,14 €
 
 In allen übrigen Fällen des § 9 Abs. 3 AbfS erfolgt die Gebührenfestsetzung entsprechend § 2 Absätze 1, 2 und 4.
 
 (15) Für die zusätzliche Leerung der Papiertonne wird eine Gebühr erhoben je Entleerung für
 
-1. 80 l, 120 l und 240 l-Behälter
+1. 80 l, 120 l und 240 l-Behälter 2. 770 l und 1.100 l-Behälter 3. 3.000 l und 5.000 l-Behälter
 
-5,99 €
+6,08 € 15,90 € 25,20 €
 
-2. 500 l, 770 l und 1.100 l-Behälter
-
-15,66 €
-
-3. 3.000 l und 5.000 l-Behälter
-
-24,82 €
-
-(16) Bei unterbliebener Abfuhr besteht kein Anspruch auf Gebührenermäßigung. Ist das
-
-Einsammeln aus Gründen unterblieben, die dem/der Gebührenpflichtigen zuzurechnen
-
-sind und wird das Einsammeln vor dem nächsten Sammeltag nachgeholt, werden
-
-zusätzliche Gebühren entsprechend Abs. 9 Satz 1 erhoben.
+(16) Bei unterbliebener Abfuhr besteht kein Anspruch auf Gebührenermäßigung. Ist das Einsammeln aus Gründen unterblieben, die dem/der Gebührenpflichtigen zuzurechnen sind und wird das Einsammeln vor dem nächsten Sammeltag nachgeholt, werden zusätzliche Gebühren entsprechend Abs. 9 Satz 1 erhoben.
 
 §3 Fälligkeit und Vorauszahlung der Gebühren
 
 (1) Die Gebühren nach § 2 Absätze 1 bis 7 und 12 bis 14 für ein Kalenderjahr werden am 15. Februar, 15. Mai, 15. August und 15. November zu je gleichen Teilbeträgen fällig. Ist der Gebührenbescheid noch nicht bekanntgegeben, hat der/die Gebührenpflichtige zu den vorgenannten Fälligkeitstagen in Höhe der zuletzt festgesetzten Teilbeträge unaufgefordert Vorauszahlungen zu leisten.
 (2) Hat der/die Gebührenpflichtige gem. § 28 Abs. 3 Grundsteuergesetz die Grundsteuer am 1. Juli in einem Jahresbetrag zu entrichten, sind abweichend von Abs. 1 auch die Gebühren zu diesem Zeitpunkt in einer Summe zu zahlen, bei Bekanntgabe des Gebührenbescheides nach dem 1. Juli einen Monat nach Bekanntgabe.
+(3) Besteht die Gebührenpflicht gemäß § 2 Abs. 8 und 9 nicht während des ganzen Kalenderjahres, gelten die Absätze 1 und 2 entsprechend bei Beginn der Gebührenpflicht im Laufe eines Kalenderjahres jedoch mit der Maßgabe, dass die für die Zeit zwischen der erstmaligen Inanspruchnahme und der Bekanntgabe des
 
 /7
 
 -7-
-(3) Besteht die Gebührenpflicht gemäß § 2 Abs. 8 und 9 nicht während des ganzen Kalenderjahres, gelten die Absätze 1 und 2 entsprechend bei Beginn der Gebührenpflicht im Laufe eines Kalenderjahres jedoch mit der Maßgabe, dass die für die Zeit zwischen der erstmaligen Inanspruchnahme und der Bekanntgabe des Gebührenbescheides geschuldete Gebühr in einer Summe einen Monat nach Bekanntgabe des Bescheides zu zahlen ist.
+Gebührenbescheides geschuldete Gebühr in einer Summe einen Monat nach Bekanntgabe des Bescheides zu zahlen ist.
 (4) Die Gebühren nach § 2 Absätze 10, 15 und 16 Satz 2 werden mit der Bekanntgabe der Bescheide, die Gebühren nach § 2 Abs. 11 werden bei der Ausgabe des Abfallsackes fällig.
 (5) Ist die nach Abs. 1 gezahlte Vorauszahlung geringer als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Gebührenbescheides zu zahlen. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu zahlen, bleibt unberührt.
 (6) Ist die nach Abs. 1 gezahlte Vorauszahlung höher als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, so wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Rückzahlung ausgeglichen.
@@ -432,12 +407,13 @@ Die Stadt Köln beauftragt die AWB Abfallwirtschaftsbetriebe Köln GmbH (im Folg
 8. Abrechnung im Einzelfall bei dauerhaft aufgestellten Abfallbehältern bei Erzeugern/Erzeugerinnen und Besitzer/Besitzerinnen von Abfällen zur Beseitigung aus anderen Herkunftsbereichen (§ 6 Abs. 1 S. 2 AbfS),
 9. Abrechnung für falsch befüllte Wertstoffbehälter (§ 11 Abs. 4 Satz 2 AbfS, § 2 Abs. 9 AbfGS).
 10. 3.000 l und 5.000 l-Unterflurbehälter Restmüll (§ 9 Abs. 1 Ziff. 1 AbfS, § 2 Abs. 2 Ziff. 20 und 21AbfGS)
+11. 3.000 l und 5.000 l-Unterflurbehälter Papier (§ 9 Abs. 1 Ziff. 4 AbfS, § 2 Abs. 2b) AbfGS).
+12. Zusatzleerung der Papiertonne (§ 9 Abs. 1 Ziff. 4 AbfS, § 2 Abs. 15 AbfGS)
 /8
 
 -8-
-11. 3.000 l und 5.000 l-Unterflurbehälter Papier (§ 9 Abs. 1 Ziff. 4 AbfS, § 2 Abs. 2b) AbfGS).
-12. Zusatzleerung der Papiertonne (§ 9 Abs. 1 Ziff. 4 AbfS, § 2 Abs. 15 AbfGS) §5
-Ordnungswidrigkeiten
+
+§5 Ordnungswidrigkeiten
 
 Die nach § 1 Abs. 1 Buchstaben a) bis d) Gebührenpflichtigen sind verpflichtet, der AWB über alle für die richtige Veranlagung maßgebenden Tatsachen unverzüglich die erforderlichen Angaben zu machen. Wer gegen diese Pflicht vorsätzlich oder fahrlässig verstößt, handelt ordnungswidrig.
 §6 Inkrafttreten
