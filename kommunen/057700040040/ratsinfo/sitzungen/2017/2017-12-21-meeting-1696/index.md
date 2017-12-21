@@ -1,0 +1,54 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2017-12-21T17:00:00+01:00
+- Ende: 2017-12-21T19:55:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaik3rWMC98DvqTPBTvlweM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1696
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWbC6m3BRBjp6Pj0dUM8xROxxM8r7eLDev_xjUrUw3fB/Bekanntmachung_Rat_21.12.2017.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQts7kd7BOxhuOEV_euF877eXHDLQiYQSZ5jZBKGnofE/Oeffentliche_Niederschrift_Rat_21.12.2017.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Warnung der Bevölkerung durch Aufbau eines kreiseinheitlichen Sirenennetzes - 32 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 5.: Erneuerung der Straße Grüner Weg - 26 Stimmen dafür, 4 dagegen, 3 Enthaltungen
+- TOP 6.: Neugestaltung des Kirchplatzes Rahden - 28 Stimmen dafür, 3 dagegen, 1 Enthaltungen
+- TOP 7.: Antrag der Fraktion UFR "Unabhängig für Rahden" auf Anhörung eines Verkehrsexperten insbesondere zum Fahrradverkehr in der Innenstadt - Ohne Abstimmung
+- TOP 8.: Aufstellung des Bebauungsplanes Nr. 80 „Eisenbahnstraße" Beratung und Beschlussfassung über das Ergebnis der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der erneuten Offenlegung des geänderten Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 4a Abs. 3 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 9.: Beschaffung eines Tanklöschfahrzeuges (TLF 3000) für die Löschgruppe Varl-Sielhost - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 10.: Bildung von Eingangsklassen im Schuljahr 2018/19 und Verteilung auf die Grundschulen der Stadt Rahden - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 11.: Änderung der Geschäftsordnung des Rates der Stadt Rahden - 30 Stimmen dafür, 1 dagegen, 1 Enthaltungen
+- TOP 12.: Ersatzwahlen für den Ausschuss für Wirtschaftsförderung und Standortentwicklung und für den Ausschuss für Jugend, Schule und Sport - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 13.: Ausweitung der Stelle der Familienbeauftragten der Stadt Rahden - Abgesetzt
+- TOP 14.: Reduzierung der Anzahl der Mitglieder des Rates der Stadt Rahden - Abgesetzt
+- TOP 15.: Beratung und Beschlussfassung über den Stellenplan 2018 - Abgesetzt
+- TOP 16.: Entwurf der Haushaltssatzung 2018 mit Haushaltsplan - Abgesetzt
+- TOP 17.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2018 - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 18.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2018 - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 19.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2018 - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 20.: Bekanntgaben
+- TOP 20.1: Ansprechpartner für Senioren/-innen in der Stadt Rahden
+- TOP 21.: Verschiedenes
+- TOP 21.1: Letzte Sitzung des Jahres
+- TOP 21.2: Neubau Feuerwehrgerätehaus Varl/Sielhorst
+- TOP 21.3: Umstellung der Ratsinformationen auf "papierlos"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 22.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 23.: Erwerb einer landwirtschaftlichen Fläche - 32 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 24.: Grundstücksangelegenheiten
+- TOP 25.: Bekanntgaben
+- TOP 25.1: Mikrofonanlage Sitzungssaal
+- TOP 25.2: Kündigung des Linienbündels im ÖPNV durch die MKB an die AMR
+- TOP 26.: Verschiedenes
+- TOP 26.1: Veräußerung Feuerwehrgerätehaus Alter Markt
+- TOP 26.2: Besetzung Direktorenstelle Gymnasium Rahden
+- TOP 26.3: Zugang Gesundheitszentrum
+- TOP 26.4: Aussagen aus nichtöffentlichem Teil der letzten Sitzung
