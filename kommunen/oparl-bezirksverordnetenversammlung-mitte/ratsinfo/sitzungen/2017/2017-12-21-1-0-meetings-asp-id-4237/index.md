@@ -1,0 +1,137 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2017-12-21T17:30:00+01:00
+- Ende: 2017-12-21T22:30:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4237
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4237
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=145414
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Verleihung des Integrationspreises mit anschließendem Empfang - erledigt
+- TOP 4: Feststellen von Dringlichkeiten - erledigt
+- TOP 5: Mitteilungen - (offen)
+- TOP 5.1: der Vorstandes - erledigt
+- TOP 5.2: der Fraktionen - erledigt
+- TOP 5.3: der Ausschüsse - erledigt
+- TOP 5.4: des Bezirksamtes - erledigt
+- TOP 6: Konsenslisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Thematische Stunde - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Erste-Hilfe an Schulen im Bezirk Mitte - beantwortet
+- TOP 8.2: Nachts in der Kältehilfe und tagsüber auf der Straße? - beantwortet
+- TOP 8.3: Hausmeisterstellen in Berlin-Mitte - beantwortet
+- TOP 8.4: Verkauf der Lehrter Straße 56-56c, Kruppstraße 1+1a, Lehrter Straße 62-65 - beantwortet
+- TOP 8.5: Die Bibliotheksplanung gefährdet die Existenz von Café Simit Evi?! - beantwortet
+- TOP 8.6: Internationale Städtepartnerschaften: Freundschaften muss man pflegen 1! - schriftlich beantwortet
+- TOP 8.7: WLAN an Schulen in Mitte - schriftlich beantwortet
+- TOP 8.8: Himmelbeet, die x-te - schriftlich beantwortet
+- TOP 8.9: Bürgerfreundliches Rathaus Mitte? - schriftlich beantwortet
+- TOP 8.10: Ergebnisse der Durchsuchungen von verschiedenen Betriebsstätten am 02. und 03. November 2017 - schriftlich beantwortet
+- TOP 8.11: Internationale Städtepartnerschaften: Freundschaften muss man pflegen 2! - schriftlich beantwortet
+- TOP 8.12: Unbekannter Platz am Maxim-Gorki Theater - schriftlich beantwortet
+- TOP 8.13: Sportwiesen für den Breitensport - Nachfrage zur VzK 2510/IV - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 9.1: Kinder, Kältehilfe und Kostenexplosion in Alt-Moabit 82 - schriftlich beantwortet
+- TOP 9.2: Schimmel in Gebäuden des Bezirks Mitte - beantwortet
+- TOP 9.3: AmMa 65 – Wie kann der Vorkauf gelingen? - beantwortet
+- TOP 9.4: Grundschule an der Adalbertstr. – muss der Tennis-Club weichen? - schriftlich beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Barrierefrei durch die Hauptstadtmitte - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.2: Räumungsklagen und Räumungen im Bezirk Mitte und Möglichkeiten zum Wohnraumerhalt nach ASOG - beantwortet
+- TOP 10.3: Nutzung des Vorkaufsrechts in Mitte - schriftlich beantwortet
+- TOP 10.4: Büros statt Wohnungen oder doch besser Wohnen? - schriftlich beantwortet
+- TOP 10.5: Sind kommunale MVZs im Bezirk Mitte geplant? - schriftlich beantwortet
+- TOP 10.6: Wasserplansche in Berlin-Mitte - schriftlich beantwortet
+- TOP 10.7: Offene Stellen im Gesundheitsamt und kein Ende in Sicht? - schriftlich beantwortet
+- TOP 10.8: Graue Poller als Sicherheitsgefahr? - schriftlich beantwortet
+- TOP 10.9: Die BVV beschließt aber das BA liefert nicht? - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Wahl und Berufung der stimmberechtigten Mitglieder des Jugendhilfeausschusses gemäß § 35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Beschlussfassung - erledigt
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - erledigt
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 14.1: „Neue Bauvorhaben transparent machen (II)“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Zusätzliche Mittel des Abgeordnetenhauses für das HH 2018/ 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4: „Fortführung der Nutzung des Cafe „Simit Evi“ Müllerstraße 147“ - mit Änderungen in der BVV beschlossen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Alleingang des Senats bei der Neuvergabe der Außenwerbung stoppen - in der BVV abgelehnt
+- TOP 15.2: Monitoring für Zwangsräumungen in Mitte einführen - überwiesen
+- TOP 15.3: Anreize für die zügige Durchführung von Bauarbeiten setzen - überwiesen
+- TOP 15.4: Eine Perspektive für das Brüder-Grimm-Haus in der Turmstr. 75 - überwiesen
+- TOP 15.5: Nachtruhe sichern - Polizei entlasten - überwiesen
+- TOP 15.6: Gründerpreis Berlin Mitte 2018 - in der BVV abgelehnt
+- TOP 15.7: Mehr Disc-Golf-Anlagen in Mitte - überwiesen
+- TOP 15.8: Daten- und Papierflut eindämmen - in der BVV abgelehnt
+- TOP 15.9: Leuschnerdamm fahrradfreundlich umgestalten - überwiesen
+- TOP 15.10: AnwohnerInnen bei Arbeiten auf Straßen und Plätze informieren - überwiesen
+- TOP 15.11: Gesundheitsversorgung und gesundheitliche Prävention in Mitte sichern und ausbauen - überwiesen
+- TOP 15.12: Flexiblere Gebührenordnung für die Nutzung öffentlichen Raumes - in der BVV abgelehnt
+- TOP 15.13: Sportlehrer des Bezirks Mitte auch für den eSport - überwiesen
+- TOP 15.14: Schulen brauchen Internet - WLAN in die Klassenzimmer - überwiesen
+- TOP 15.15: Maßnahmen zur Verkehrsberuhigung rund um den Michaelkirchplatz abschließen - überwiesen
+- TOP 15.16: Wohnungen statt Büros - ohne Änderungen in der BVV beschlossen
+- TOP 15.17: Mittes Parks und Grünanlagen stärker für Sport und Bewegung nutzen - überwiesen
+- TOP 15.18: Erarbeitung eines Konzepts für die Barrierefreiheit im Bezirk Berlin Mitte - gegenstandslos
+- TOP 15.19: Volksentscheid ernst nehmen: Tegel bleibt offen - Zeit zu handeln - in der BVV abgelehnt
+- TOP 15.20: Die Fahrradstr. Linienstr.sicherer machen und dem Fahrradverkehr Vorfahrt einräumen - überwiesen
+- TOP 15.21: Stadtentwicklung als Chance zum Erinnerungserhalt: Erinnerung an Passierscheinstelle ins Heute und Morgen mitnehmen - überwiesen
+- TOP 15.22: Endlich eine App für die BVV Mitte von Berlin - in der BVV abgelehnt
+- TOP 15.23: Schreibraum für selbständige AutorInnen und ÜbersetzerInnen und LektorInnen in Berlin mitdenken - überwiesen
+- TOP 15.24: Mehr Ateliers für Künstler - in der BVV abgelehnt
+- TOP 15.25: Vorkaufsrecht - Ein bezirkliches Konzept zum Schutz von MieterInnen - überwiesen
+- TOP 15.26: Geschäftsordnung der Bezirksverordnetenversammlung Mitte von Berlin (V. Wahlperiode) - ohne Änderungen in der BVV beschlossen
+- TOP 16: Dringliche Entschließungen - (offen)
+- TOP 17: Entschließungen - (offen)
+- TOP 17.1: Gegen Hass und Antisemitismus - ohne Änderungen in der BVV beschlossen
+- TOP 18: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 18.1: Runden Tisch Pflege einrichten - gegenstandslos
+- TOP 18.2: Bezirks-Straßen: Sanierungsbedarf aufstellen - mit Änderungen in der BVV beschlossen
+- TOP 18.3: Einrichtung eines runden Tisches zum Schutz der Fußgänger - in der BVV abgelehnt
+- TOP 18.4: Netzwerk Alleinerziehende für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 18.5: Begegnungsraum im Kiez ertüchtigen II: Umgestaltung des Mittelbereichs in der Waldstraße fortsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 18.6: Faire Fußbälle für Sportvereine, Kinder- Jugendfreizeiteinrichtungen und Schulen in Berlin Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 18.7: Prostituiertenschutzgesetz zügig umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 18.8: Bessere Bekämpfung illegaler Spielautomaten - mit Änderungen in der BVV beschlossen
+- TOP 18.9: Schaffung einer Entladezone in der Amsterdamer Str. - ohne Änderungen in der BVV beschlossen
+- TOP 18.10: Mitte darf bei der Betreuung Statusgewandelter wegen der Geburtsdatenregelung nicht allein gelassen werden! - ohne Änderungen in der BVV beschlossen
+- TOP 19: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 19.1: Information und Veröffentlichung von Gutachten (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.2: Queere Jugendarbeit in Jugendeinrichtungen verankern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.3: Vermietung der bezirkseigenen Wohnungen aus einer Hand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.4: Ehemalige Sportwiesen wieder dem Breitensport zuführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.5: Erstellen von Bauplanungsunterlagen beschleunigen: auch durch externe Firmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.6: Barrierefreiheit erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.7: Beschlüsse der BVV ernst nehmen (2): Bezirkliches Konzept zur Mobilitätserziehung fortschreiben – alle drei Standorte der Jugendverkehrsschulen sichern und für die Zukunft entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.8: Handbuch Gendarmenmarkt veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.9: Bericht zur Transfersteuerung im Bereich Jugend - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.10: Entwicklung eines Konzeptes zur Schaffung von Familien-und Integrationszentren an Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.11: Uferhallen: Nutzungen planungsrechtlich sichern, angrenzend Wohnungsbau ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.12: Endgültige Benennung des Elise-und-Otto-Hampel-Platzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.13: Bäume am Wikingerufer retten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.14: Ergänzung der „Genehmigungskriterien für Umsetzung der Erhaltungsverordnung gemäß §172 Abs. 1 Satz 1 Nr.2 BauGB unter Berücksichtigung der gebietsspezifischen Mietspiegel“ (BVV-Beschluss DS 2695/IV) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.15: Soziale Erhaltungsziele durchsetzen – Sozialplanverfahren für Modernisierungsmaßnahmen zur Anpassung an den allgemeinen Standard einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.16: Bessere Rahmenbedingungen für Kita-Ausbau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.17: Kontinuierlichen Beteiligungsprozess bei der Weiterentwicklung der Radverkehrsinfrastruktur in Berlin Mitte sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.18: Flexible Kinderbetreuungsangebote - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.19: Work-out-Parks für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.20: Bürgerinnen und Bürger über erhöhten Mietzuschuss im sozialen Wohnungsbau informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.21: Mehr Einbeziehung der BVV bei der Einziehung von öffentlichen Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.22: Leerstand zu Wohnraum – Umnutzung des ehemaligen Diesterweg-Gymnasiums endlich starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.23: Urban Gardening im Unionpark Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.24: Standorte des bezirklichen Schulumweltzentrums (SUZ) sichern und nachhaltig entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.25: Fristverlängerung im Interessenbekundungsverfahren der Jugendverkehrsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.26: Reinigung des Gedenksteines in der Grünanlage Bernauer Str./ Ecke Swinemünder Str. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.27: Alles stirbt für sich allein? – Nein! Erfolgte Positionierungen von BVV und BA realisieren - die Benennung in Elise und Otto-Hampel-Platz vornehmen, Verwaltungsposse vermeiden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.28: Gutachtende für Fraktionen und Gruppen in der BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.29: Vorkaufsrecht anwenden für die Köpenicker Str.36-38 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.30: Mittelverteilung Integrationsfonds 2018 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.31: Aufstellung des Bebauungsplan III-34-2 „Grundschule Europacity“ im Bezirk Mitte, Ortsteil Wedding im beschleunigten Verfahren gem. § 13a Abs. 1 Nr. 1 BauGB, die frühe Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie die Beteiligung der Behörden gem. § 4 Abs. 2 BauGB. - mit Abschlussbericht zur Kenntnis genommen
