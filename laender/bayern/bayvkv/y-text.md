@@ -1,0 +1,1 @@
+Auf Grund von Art. 90 Abs. 1 Nrn. 3 und 5 der Bayerischen Bauordnung (BayBO) und Art. 38 Abs. 3 des Landesstraf- und Verordnungsgesetzes erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
