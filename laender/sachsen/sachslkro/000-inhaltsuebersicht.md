@@ -1,6 +1,5 @@
-# Landkreisordnung für den Freistaat Sachsen (Sächsische Landkreisordnung – SächsLKrO)
-Rechtsbereinigt mit Stand vom 1. Oktober 2015
-Inhaltsübersicht
+## Landkreisordnung für den Freistaat Sachsen (Sächsische Landkreisordnung – SächsLKrO)
+# Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet des Landkreises
 Erster Abschnitt Rechtsstellung und Aufgaben
 § 1 Wesen und Organe des Landkreises
@@ -51,6 +50,7 @@ Erster Abschnitt Kreistag
 § 41 Ältestenrat
 § 42 Beirat für geheimzuhaltende Angelegenheiten
 § 43 Sonstige Beiräte
+§ 43a Beteiligung von Kindern und Jugendlichen
 Zweiter Abschnitt Landrat
 § 44 Wahlgrundsätze
 § 45 Wählbarkeit, Hinderungsgründe
@@ -80,7 +80,6 @@ Fünfter Teil Aufsicht
 Sechster Teil Sonstige Vorschriften
 § 66 Ordnungswidrigkeiten
 § 67 Maßgebende Einwohnerzahl
-§ 67a Übergangsbestimmung aus Anlass des Zensus 2011
 § 68 Rechtsverordnungen
 § 69 Muster für die Haushaltswirtschaft
 § 70 Sonstige Verwaltungsvorschriften
