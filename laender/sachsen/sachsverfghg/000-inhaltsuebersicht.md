@@ -11,6 +11,7 @@ Zweiter Teil Allgemeine Verfahrensvorschriften
 § 8 Vorsitz, Beschlußfähigkeit, Abstimmung
 § 9 Kammern
 § 10 Anwendbarkeit des Verfahrensrechts des Bundesverfassungsgerichts, Geschäftsordnung
+§ 10a Elektronische Kommunikation
 § 11 Ablehnung eines Richters wegen Besorgnis der Befangenheit
 § 12 Zeugen und Sachverständige
 § 13 Kein Sondervotum
