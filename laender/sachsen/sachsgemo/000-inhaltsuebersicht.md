@@ -1,6 +1,5 @@
-# Gemeindeordnung für den Freistaat Sachsen (Sächsische Gemeindeordnung – SächsGemO)
-Rechtsbereinigt mit Stand vom 31. Dezember 2016
-Inhaltsübersicht
+## Gemeindeordnung für den Freistaat Sachsen (Sächsische Gemeindeordnung – SächsGemO)
+# Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet der Gemeinde
 Erster Abschnitt Rechtsstellung und Aufgaben
 § 1 Wesen und Organe der Gemeinde
@@ -56,6 +55,7 @@ Erster Abschnitt Gemeinderat
 § 45 Ältestenrat
 § 46 Beirat für geheimzuhaltende Angelegenheiten
 § 47 Sonstige Beiräte
+§ 47a Beteiligung von Kindern und Jugendlichen
 Zweiter Abschnitt Bürgermeister
 § 48 Wahlgrundsätze
 § 49 Wählbarkeit, Hinderungsgründe
@@ -85,6 +85,7 @@ Vierter Abschnitt Ortschaftsverfassung
 Fünfter Abschnitt Stadtbezirksverfassung
 § 70 Stadtbezirksverfassung
 § 71 Stadtbezirksbeirat
+§ 71a Anwendung von Rechtsvorschriften
 Vierter Teil Gemeindewirtschaft
 Erster Abschnitt Haushaltswirtschaft
 § 72 Allgemeine Haushaltsgrundsätze
@@ -105,8 +106,9 @@ Erster Abschnitt Haushaltswirtschaft
 § 86 Gemeindekasse
 § 87 Übertragung von Kassengeschäften, Automation
 § 88 Jahresabschluss
-§ 88a Gesamtabschluss
-§ 88b Aufstellung und ortsübliche Bekanntgabe des Abschlusses
+§ 88a Eröffnungsbilanz
+§ 88b Gesamtabschluss
+§ 88c Aufstellung und ortsübliche Bekanntgabe des Abschlusses
 Zweiter Abschnitt Vermögen der Gemeinde
 § 89 Erwerb und Verwaltung von Vermögen, Wertansätze
 § 90 Veräußerung von Vermögen
@@ -152,12 +154,12 @@ Fünfter Teil Aufsicht
 Sechster Teil Sonstige Vorschriften
 § 124 Ordnungswidrigkeiten
 § 125 Maßgebende Einwohnerzahl
-§ 125a Übergangsbestimmung aus Anlass des Zensus 2011
 § 126 (weggefallen)
 § 127 Rechtsverordnungen
 § 128 Muster für die Haushaltswirtschaft
 § 129 Sonstige Verwaltungsvorschriften
 § 130 Übergangsbestimmungen zur Rechtsstellung von Bürgermeistern
 § 130a Übergangsbestimmungen aus Anlass des Gesetzes zur Fortentwicklung des Kommunalrechts
-§ 131 Übergangsbestimmungen zum neuen Haushalts- und Rechnungswesen
+§ 130b Übergangsvorschrift aus Anlass des Zweiten Gesetzes zur Fortentwicklung des Kommunalrechts
+§ 131 (weggefallen)
 § 132 Inkrafttreten
