@@ -1,0 +1,4 @@
+# § 92a Übertragung von Aufgaben der Personalverwaltung
+(1) Der Dienstherr kann Aufgaben der Personalverwaltung zur Durchführung auf eine personalverwaltende Stelle eines anderen Dienstherrn im Geltungsbereich dieses Gesetzes übertragen. Die Aufgabenübertragung kann sich auch auf die Durchführung von Widerspruchsverfahren und die Vertretung des Dienstherrn in gerichtlichen Verfahren erstrecken. Der Dienstherr darf die zur Aufgabenerfüllung erforderlichen Personalaktendaten an die personalverwaltende Stelle übermitteln.
+(2) Die mit der Durchführung beauftragte personalverwaltende Stelle handelt in Vertretung des die Aufgabe übertragenden Dienstherrn.
+(3) In der Verwaltungsvereinbarung über die Übertragung der Aufgaben ist sicherzustellen, dass dem abgebenden Dienstherrn ausreichende Einwirkungs- und Steuerungsmöglichkeiten gegenüber der personalverwaltenden Dienststelle des anderen Dienstherrn eingeräumt werden.

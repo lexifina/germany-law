@@ -2,7 +2,7 @@
 Anlage 6
 Amtszulagen, Stellenzulagen, Zulagen
 (Monatsbeträge in Euro) in der Reihenfolge der Gesetzestabellen
-Gültig ab 01. Juli 2017
+Gültig ab 01. Januar 2018
 Zulagen dem Grunde nach geregelt in | Betrag in Euro | 
 § 42 Abs: 1 (Allgemeine Stellenzulage) |  | 
 Nr. 1 Buchstabe a | 20,46 | 
@@ -16,8 +16,8 @@ A 10 und höher | 191,73 |
 von einem Jahr | 63,69 | 
 von zwei Jahren | 127,38 | 
 § 45 (Feuerwehrzulage) Die Zulage beträgt nach einer Dienstzeit |  | 
-von einem Jahr | 63,69 | 
-von zwei Jahren | 127,38 | 
+von einem Jahr | 75,00 | 
+von zwei Jahren | 150,00 | 
 § 46 (Justizvollzugseinrichtung/Psychiatrische Krankenhäuser) | 115,53 | 
 § 47 (Steuerverwaltungszulage) Die Zulage beträgt für Beamtinnen und Beamte |  | 
 der Laufbahngruppe 1 | 17,05 | 
