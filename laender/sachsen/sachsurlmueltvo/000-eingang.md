@@ -1,39 +1,9 @@
-# Verordnung der Sächsischen Staatsregierung über den Urlaub, den Mutterschutz und die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsische Urlaubs-, Mutterschutz- und Elternzeitverordnung – SächsUrlMuEltVO)
-erlassen als Artikel 1 der Verordnung der Sächsischen Staatsregierung zur Regelung des Urlaubs-, Mutterschutz- und Elternzeitrechts und zur Änderung der Beurteilungsverordnung
-Vom 16. Dezember 2013
-Rechtsbereinigt mit Stand vom 1. Juli 2015
-Inhaltsübersicht
-Abschnitt 1 Allgemeine Vorschriften
-§ 1 Geltungsbereich
-§ 2 Begriffsbestimmungen
-§ 3 Zuständigkeit
-Abschnitt 2 Urlaub
-§ 4 Dauer des Urlaubes
-§ 5 Wartezeit
-§ 6 Anrechnung und Kürzung
-§ 7 Antrag, Antritt und Verfall, Ansparung von Erholungsurlaub
-§ 8 Widerruf und Verlegung
-§ 9 Erkrankung während des Erholungsurlaubes
-§ 10 Zusatzurlaub für Nachtdienst
-§ 11 Dienstjubiläum
-§ 12 Urlaub aus verschiedenen Anlässen
-§ 13 Medizinische Rehabilitationsmaßnahmen und Kuren, Begleitperson
-§ 14 Urlaub aus sonstigen Gründen
-Abschnitt 3 Mutterschutz
-§ 15 Beschäftigungsverbote vor der Entbindung
-§ 16 Beschäftigungsverbote nach der Entbindung
-§ 17 Mitteilungspflicht
-§ 18 Arbeitsbedingungen, Stillzeit
-§ 19 Mehrarbeit, Nachtdienst und Sonn- und Feiertagsarbeit
-§ 20 Fortzahlung der Dienstbezüge
-§ 21 Zuschuss bei Schwangerschaft und Entbindung während der Elternzeit
-§ 22 Entlassung während Schwangerschaft und nach Entbindung
-§ 23 Zuschuss bei Beendigung des Beamtenverhältnisses
-Abschnitt 4 Elternzeit
-§ 24 Anspruch auf Elternzeit, Teilzeitbeschäftigung
-§ 25 Inanspruchnahme der Elternzeit
-§ 26 Entlassung während Elternzeit
-§ 27 Erstattung von Kranken- und Pflegeversicherungsbeiträgen
-§ 28 Übergangsregelungen
-Abschnitt 5 (aufgehoben)
-§ 29 (aufgehoben)
+# Bekanntmachung der Neufassung der Sächsischen Urlaubs-, Mutterschutz- und Elternzeitverordnung
+Vom 23. Juli 2018
+Auf Grund des Artikels 2 der Verordnung vom 11. Dezember 2017 (SächsGVBl. S. 661) wird nachstehend der Wortlaut der Sächsischen Urlaubs-, Mutterschutz- und Elternzeitverordnung in der seit 1. Januar 2018 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
+1. die am 1. Januar 2014 in Kraft getretene Verordnung vom 16. Dezember 2013 (SächsGVBl. S. 901),
+2. den am 29. Oktober 2014 in Kraft getretenen Artikel 9 der Verordnung vom 16. September 2014 (SächsGVBl. S. 530, 561),
+3. die am 1. Juli 2015 in Kraft getretene Verordnung vom 16. Oktober 2015 (SächsGVBl. S. 514),
+4. die am 1. Januar 2018 in Kraft getretene eingangs genannte Verordnung.
+Dresden, den 23. Juli 2018
+Der Staatsminister des Innern Prof. Dr. Roland Wöller
