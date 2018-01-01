@@ -18,3 +18,9 @@ Nummer | Gericht | Verfahrensbereich | Datum
 13. | Amtsgericht Freiberg | Grundbuchsachen | 1. Dezember 2017
 14. | Amtsgericht Grimma | Grundbuchsachen | 1. Dezember 2017
 15. | Amtsgericht Hoyerswerda | Grundbuchsachen | 1. Dezember 2017
+16. | Amtsgericht Marienberg | Grundbuchsachen | 1. März 2018
+17. | Amtsgericht Meißen | Grundbuchsachen | 1. März 2018
+18. | Amtsgericht Zittau | Grundbuchsachen | 1. März 2018
+19. | Amtsgericht Kamenz | Grundbuchsachen | 1. Mai 2018
+20. | Amtsgericht Riesa | Grundbuchsachen | 1. Mai 2018
+21. | Amtsgericht Zwickau | Grundbuchsachen | 1. Mai 2018
