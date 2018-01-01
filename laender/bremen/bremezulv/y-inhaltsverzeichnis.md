@@ -8,7 +8,7 @@ Abschnitt 2 Einzeln abzugeltende Erschwernisse
 § 4 | Zulage für besonders belastende Dienste im Polizeivollzug
 § 5 | Fortzahlung der Zulage bei Dienstunfähigkeit wegen Krankheit
 § 6 | Ausschluss der Zulagengewährung
-§ 7 | Zulage für Tauchertätigkeit
+§ 7 | Zulage für die Tätigkeit als Notfallsanitäterin oder Notfallsanitäter
 § 8 | Zulage für den Umgang mit Munition mit besonders hohem Gefährlichkeitsgrad
 § 9 | Zulage für Tätigkeiten der Sprengstoffentschärfung und Sprengstoffermittlung
 Abschnitt 3 Zulagen in festen Monatsbeträgen
@@ -17,3 +17,4 @@ Abschnitt 3 Zulagen in festen Monatsbeträgen
 § 12 | Zulagen für Wechselschichtdienst und für Schichtdienst
 § 13 | Zulage für besondere polizeiliche Einsätze
 § 14 | Zulage für die Beseitigung von Munition aus den Weltkriegen
+§ 15 | Zulage für Tauchertätigkeit
