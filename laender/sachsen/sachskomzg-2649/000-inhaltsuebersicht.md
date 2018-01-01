@@ -1,6 +1,5 @@
-# Sächsisches Gesetz über kommunale Zusammenarbeit (SächsKomZG)
-Rechtsbereinigt mit Stand vom 1. April 2014
-Inhaltsübersicht
+## Sächsisches Gesetz über kommunale Zusammenarbeit (SächsKomZG)
+# Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Anwendungsbereich
 § 2 Formen der kommunalen Zusammenarbeit
@@ -73,7 +72,8 @@ Dritter Abschnitt Verfassung und Verwaltung des Zweckverbandes
 § 56 Verbandsvorsitzender und Stellvertreter
 § 57 Bedienstete
 Vierter Abschnitt Wirtschafts- und Finanzverfassung
-§ 58 58 Wirtschaftsführung
+§ 58 Wirtschaftsführung
+§ 58a Haushaltsstrukturkonzept
 § 59 Prüfungswesen
 § 60 Deckung des Finanzbedarfs
 Fünfter Abschnitt Änderungen der Verbandssatzung und Auflösung des Zweckverbandes
@@ -111,4 +111,4 @@ Achter Teil Übergangs- und Schlussbestimmungen
 § 83 (weggefallen)
 § 84 (weggefallen)
 § 85 (weggefallen)
-§ 86 Inkrafttreten
+§ 86 (Inkrafttreten)
