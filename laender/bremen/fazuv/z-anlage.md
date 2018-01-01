@@ -33,3 +33,4 @@ Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
  |  |  | 3.5 | Anrufungsauskünfte nach § 42e des Einkommensteuergesetzes und sonstige Lohnsteuerangelegenheiten der Arbeitgeber
  |  |  | 3.6 | Durchführung von Lohnsteuer-Nachschauen nach § 42g des Einkommensteuergesetzes
  |  |  | 3.7 | Abgleich der angemeldeten Beträge der Lohnsteueranmeldungen mit den bescheinigten Beträgen der Lohnsteuerbescheinigungen eines Arbeitgebers
+ |  |  | 3.8 | Kassen-Nachschau nach § 146b der Abgabenordnung
