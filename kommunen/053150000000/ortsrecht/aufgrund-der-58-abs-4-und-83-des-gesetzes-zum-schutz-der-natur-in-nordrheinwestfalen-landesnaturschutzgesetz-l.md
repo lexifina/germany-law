@@ -1,0 +1,35 @@
+# Aufgrund der §§ 58 Abs. 4 und 83 des Gesetzes zum Schutz der Natur in NordrheinWestfalen (Landesnaturschutzgesetz - LNatSchG NRW)
+
+- Gemeinde: Stadt Köln (ARS 053150000000)
+- Datum: 2018-01-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/allgemeinverfügung_zur_einschränkung_der_reitnutzung_in_waldgebieten_im_stadtgebiet_köln_2017-12-11.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Allgemeinverfügung der Stadt Köln vom 11. Dezember 2017 zur Einschränkung der
+Reitnutzung in Waldgebieten im Stadtgebiet Köln
+- ABl StK 2017, S. 532 -
+Aufgrund der §§ 58 Abs. 4 und 83 des Gesetzes zum Schutz der Natur in NordrheinWestfalen (Landesnaturschutzgesetz - LNatSchG NRW) vom 21. Juli 2000 in der Fassung vom 15. November 2016 (GV. NRW. S. 568) SGV. NRW. 791, zuletzt geändert durch Art. 1 des Gesetzes zum Schutz der Natur in Nordrhein-Westfalen und zur Änd. anderer Vorschriften vom 15. 11. 2016 (GV. NRW. S. 934) erlässt die Oberbürgermeisterin der Stadt Köln nachfolgende Allgemeinverfügung:
+1. Abweichend von § 58 Abs. 2 LNatSchG ist im Stadtgebiet Köln das Reiten im Wald nur auf den nach den Vorschriften der Straßenverkehrsordnung gekennzeichneten Reitwegen (Zeichen 238 der Anlage zur Straßenverkehrsordnung) gestattet. Die Nutzung der dem öffentlichen Verkehr gewidmeten Wege und Straßen im Rahmen des Gemeingebrauchs bleibt unberührt.
+2. Der Geltungsbereich dieser Reitregelung ist beschränkt auf alle Waldflächen im Sinne des § 2 Bundeswaldgesetz (BWaldG) und § 1 Landesforstgesetz NRW (LFoG NRW).
+3. Die sofortige Vollziehung dieser Allgemeinverfügung wird angeordnet.
+4. Diese Allgemeinverfügung gilt gemäß § 41 Abs. 4 Satz 4 Verwaltungsverfahrensgesetz Nordrhein-Westfalen (VwVfG NW) mit dem auf die Bekanntmachung folgenden Tag als bekannt gegeben. Sie tritt gem. § 83 LNatSchG NRW zum 1.1.2018 in Kraft.
+Begründung:
+§ 58 Abs. 2 LNatSchG NRW gestattet ab dem 01.01.2018 das Reiten im Wald außerhalb ausgewiesener Reitwege über den Gemeingebrauch an öffentlichen Verkehrsflächen hinaus auch auf privaten Straßen und Fahrwegen. Letztere sind befestigte oder naturfeste Waldwirtschaftswege. Alle Waldflächen auf Kölner Stadtgebiet werden in besonderem Maße für Erholungszwecke genutzt, dies gilt insbesondere auch für diese gut begeh- bzw. befahrbaren Waldwirtschaftswege. Die hohe Anzahl der Erholungsuchenden im großstädtischen Ballungsraum führte hier in der Vergangenheit bereits des Öfteren zu Konflikten zwischen unterschiedlichen Nutzergruppen.
+Die bisher in Köln geltende Reitregelung beschränkte daher das Reiten im Wald über den Gemeingebrauch an öffentlichen Straßen und Wegen hinaus auf die nach der Straßenverkehrsordnung ausgewiesenen Reitwege. Hierdurch konnten insbesondere Konflikte zwischen Wanderern, Joggern, Spaziergängern, Radfahrern etc. oder Hunde ausführenden Erholungsuchenden sowie Reiterinnen und Reitern weitgehend vermieden werden. Die bewährte Regelung ist daher beizubehalten.
+Gemäß § 58 Abs. 4 LNatSchG NRW kann die Stadt Köln als Untere Naturschutzbehörde abweichend von § 58 Abs. 2 LNatSchG NRW in Waldflächen, die im besonderen Maße für Erholungszwecke genutzt werden, das Reiten im Wald mittels einer Allgemeinverfügung auf die nach den Vorschriften der Straßenverkehrsordnung gekennzeichneten Reitwege beschränken. Hiervon wird nach Anhörung der Waldbesitzer- und Reiterverbände sowie im Einvernehmen mit der Forstbehörde (Landesbetrieb Wald und Holz NRW) Gebrauch gemacht.
+Das Reitverbot ist verhältnismäßig. Es ist geeignet, Waldflächen, die in besonderem Maße für Erholungszwecke genutzt werden, zu diesem Zwecke zu schützen. Wie zuvor dargestellt
+
+umfasst dies sämtliche Waldflächen des Stadtgebietes Köln, da in dem großstädtischen Ballungsraum nur begrenzt Erholungsflächen zur Verfügung stehen. Das Verbot ist auch erforderlich. Ein milderes, gleich geeignetes Mittel ist angesichts des recht hohen Pferdebestands in Köln und der zu erwartenden sowie in der Vergangenheit bereits aufgetretenen Konflikte mit anderen Erholungsarten nicht ersichtlich. Im Rahmen der vorzunehmenden Interessenabwägung muss daher das Interesse der Reiterinnen und Reiter, alle privaten Straßen und Fahrwege im Wald benutzen zu können, angesichts des hohen Konflikt- und Gefährdungspotentials gegenüber anderen Erholungssuchenden zurückstehen. Vor diesem Hintergrund ist es insgesamt angemessen, die Nutzung des Waldes durch Reiterinnen und Reiter auf die nach der Straßenverkehrsordnung ausgewiesenen Reitwege sowie die dem öffentlichen Verkehr gewidmeten Wege und Straßen im Rahmen des Gemeingebrauchs zu beschränken.
+Die einzelnen Reitwege sind in der im Internet unter http://www.stadt-koeln.de/leben-inkoeln/freizeit-natur-sport/wald/reiten verfügbaren Reitwegekarte ausgewiesen.
+Ergänzend wird darauf hingewiesen, dass die Regelungen des Landschaftsplans Köln und des Landschaftsplans Wahner Heide sowie der Kölner Stadtordnung in der jeweils gültigen Fassung unberührt bleiben.
+Sofortige Vollziehung:
+Die sofortige Vollziehung des Verwaltungsaktes wird gemäß § 80 Abs. 2 Nr. 4 VwGO angeordnet, da dies im öffentlichen Interesse liegt. Eine Klage gegen diese Allgemeinverfügung hat damit keine aufschiebende Wirkung. Ein begründetes öffentliches Interesse liegt vor, weil dem Vollzug der Verfügung gegenüber dem Interesse Einzelner, einstweilig auf Grund des Einlegens eines Rechtsbehelfes von den Vollzugsfolgen verschont zu bleiben, nach Abwägung sämtlicher rechtlicher und sachlicher Gesichtspunkte Vorrang einzuräumen ist. Hierbei wurden alle betroffenen Rechtsgüter und Interessen, insbesondere die Interessen der Reiterinnen und Reiter sowie der übrigen Erholungssuchenden gegeneinander abgewogen. Dabei ist zu berücksichtigen, dass die parallele Nutzung von privaten Straßen und Fahrwegen durch Reiterinnen und Reiter sowie andere Nutzer gerade in Kölner Waldgebieten aufgrund des hohen Aufkommens ein besonders hohes Gefahrenpotential birgt. Hinzu kommt, dass erfolgte Störungen und Schädigungen anderer Erholungssuchender irreversibel sind, d.h. nicht rückgängig gemacht werden können.
+Rechtsbehelfsbelehrung
+Gegen diese Allgemeinverfügung kann innerhalb eines Monats nach Bekanntgabe Klage beim Verwaltungsgericht Köln, in Köln, eingelegt werden.
+Hinweis:
+Die Klage kann schriftlich, zur Niederschrift des Urkundsbeamten/der Urkundsbeamtin der Geschäftsstelle des Verwaltungsgerichts oder in elektronischer Form eingereicht werden. Für Rückfragen wenden Sie sich bitte unmittelbar an das Verwaltungsgericht. Gemäß § 80 Abs. 2 Ziffer 4 VwGO hat die Klage wegen der Anordnung der sofortigen Vollziehung keine aufschiebende Wirkung, so dass die Allgemeinverfügung auch dann befolgt werden muss, wenn sie mit einer Klage angegriffen wird. Gegen die Anordnung der sofortigen Vollziehung kann gemäß § 80 Abs. 5 VwGO die Wiederherstellung der aufschiebenden Wirkung beim Verwaltungsgericht Köln beantragt werden.
+Die Oberbürgermeisterin In Vertretung
+Gez. Dr. Rau Beigeordneter
