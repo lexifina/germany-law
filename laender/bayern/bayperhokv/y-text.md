@@ -1,0 +1,1 @@
+Auf Grund von § 2 des Gesetzes zum Schutze der Kulturpflanzen in der Fassung vom 26. August 1949 (WiGBl. S. 308) in Verbindung mit der Verordnung zur Übertragung von Befugnissen nach dem Gesetz zum Schutze der Kulturpflanzen auf die Obersten Landesbehörden vom 11. April 1950 (BGBl. S. 94) wird bestimmt:
