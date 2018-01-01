@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen über die Benutzung von Dienstkraftfahrzeugen in der Sächsischen Landesverwaltung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen über die Benutzung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-08-25 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.8
+- Datum: 2018-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.9
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-25.08.2017
+01.01.2018
 bis
-31.12.2017
+31.01.2019
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen über die Benutzung von Dienstkraftfahrzeugen in der Sächsischen Landesverwaltung
 
@@ -91,10 +91,10 @@ des Sächsischen Staatsministeriums der Finanzen
 
 (VwV-DKfz)
 
-[zuletzt geändert durch VwV vom 7. August 2017 (SächsABl. S. 1118)
+[zuletzt geändert durch VwV vom 10. Oktober 2017 (SächsABl. S. 1542)
 
 
-mit Wirkung vom 25. August 2017]
+mit Wirkung vom 1. Januar 2018]
 
 Abschnitt I
 
@@ -102,7 +102,7 @@ Abschnitt I
 Allgemeine Bestimmungen
 
 
-1                   
+1
 
 
 Begriff des Dienstkraftfahrzeugs                   
@@ -213,9 +213,7 @@ eine Bestätigung, dass das Fahrzeug ein Dienstkraftfahrzeug des Landes ist.
 3.3                  
 
 
-Für Fremdschäden haftet das Land nach dem              
-
-Pflichtversicherungsgesetz wie ein Haftpflichtversicherer in der Höhe, die dem Durchschnitt der Versicherungsleistungen der zehn größten Kfz-Haftpflichtversicherungen Deutschlands entspricht. Werden diese Summen überstiegen, so haften Land und Fahrer nach den allgemeinen Vorschriften.
+Für Fremdschäden haftet das Land nach dem                            Pflichtversicherungsgesetz wie ein Haftpflichtversicherer in der Höhe, die dem Durchschnitt der Versicherungsleistungen der zehn größten Kfz-Haftpflichtversicherungen Deutschlands entspricht. Werden diese Summen überstiegen, so haften Land und Fahrer nach den allgemeinen Vorschriften.                    
 
 
 3.4                  
@@ -293,7 +291,7 @@ Den Mitgliedern der Staatsregierung, den Staatssekretären, dem Präsidenten des
 6.2
 
 
-Dem Präsidenten des Oberlandesgerichtes, dem Präsidenten des Landesamtes für Steuern und Finanzen, dem Präsidenten der Landesdirektion Sachsen, den Vizepräsidenten der Landesdirektion Sachsen, dem Landespolizeipräsidenten, dem Generalstaatsanwalt und dem Direktor der Sächsischen Bildungsagentur können Dienstkraftfahrzeuge zur vorrangigen Benutzung zugewiesen werden. Diese Dienstkraftfahrzeuge können bei allen dienstlichen Anlässen im Dienstbezirk und erforderlichenfalls auch außerhalb des Dienstbezirks benutzt werden.
+Dem Präsidenten des Oberlandesgerichtes, dem Präsidenten des Landesamtes für Steuern und Finanzen, dem Präsidenten der Landesdirektion Sachsen, den Vizepräsidenten der Landesdirektion Sachsen, dem Landespolizeipräsidenten, dem Generalstaatsanwalt und dem Präsidenten des Landesamtes für Schule und Bildung können Dienstkraftfahrzeuge zur vorrangigen Benutzung zugewiesen werden. Diese Dienstkraftfahrzeuge können bei allen dienstlichen Anlässen im Dienstbezirk und erforderlichenfalls auch außerhalb des Dienstbezirks benutzt werden.
 
 
 7                   
@@ -692,7 +690,7 @@ Verkehrsunfälle
 18.1                  
 
 
-Das Verhalten bei Verkehrsunfällen richtet sich nach § 34 StVO.
+Das Verhalten bei Verkehrsunfällen richtet sich nach § 34 StVO.                    
 
 
 18.2                  
@@ -1002,9 +1000,9 @@ Fsn-Nr.: 20-V03.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 25. August 2017
+Fassung gültig ab:  1. Januar 2018
 
-Fassung gültig bis: 31. Dezember 2017
+Fassung gültig bis: 31. Januar 2019
 
 Drucken/Speichern
 
@@ -1031,7 +1029,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/1197.8
+https://www.revosax.sachsen.de/vorschrift/1197.9
 Stand vom
 18.11.2026
 
