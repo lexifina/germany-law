@@ -110,6 +110,7 @@ Unterabschnitt 5 Personalakten (§ 50 des Beamtenstatusgesetzes)
 § 90 | Entfernung von Unterlagen aus Personalakten
 § 91 | Aufbewahrungsfristen
 § 92 | Automatisierte Verarbeitung von Personalakten
+§ 92a | Übertragung von Aufgaben der Personalverwaltung
 Abschnitt 7 Beteiligung der Spitzenorganisationen
 § 93 | Beteiligung der Spitzenorganisationen der Gewerkschaften und Berufsverbände (§ 53 des Beamtenstatusgesetzes)
 Abschnitt 8 Landesbeamtenausschuss
@@ -161,5 +162,6 @@ Abschnitt 11 Übergangs- und Schlussvorschriften
 § 128 | Fortgeltung von Recht; Übergangsregelung für vorhandene Regelungen über Laufbahngruppen, Fachrichtungen oder Laufbahnen
 § 129 | Übergangsregelung für angezeigte oder genehmigte Nebentätigkeiten
 § 130 | Übergangsregelung für bisherige ordentliche Mitglieder der Unabhängigen Stelle
+§ 130a | Übergangsregelung für Ortsamtleiterinnen und Ortsamtsleiter
 § 131 | Entpflichtung
 § 132 | Übergangsvorschriften für Beamtinnen und Beamte an Hochschulen
