@@ -1,3 +1,4 @@
+## Sächsisches Kommunalabgabengesetz (SächsKAG)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
@@ -48,4 +49,4 @@ Abschnitt 7 Übergangs- und Schlussbestimmungen
 § 39 Aufhebung von Rechtsvorschriften
 § 39a Anpassung der Satzungen an die durch das Verwaltungsmodernisierungsgesetz geänderte Rechtslage
 § 39b Anpassung von Satzungen an die durch das Gesetz zur Änderung des Sächsischen Kommunalabgabengesetzes vom 26. Oktober 2016 geltende Rechtslage
-§ 40 In-Kraft-Treten
+§ 40 Inkrafttreten
