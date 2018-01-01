@@ -42,10 +42,10 @@ Abschnitt 6 Besorgung von Kassengeschäften durch Stellen außerhalb der Gemeind
 § 35 Zahlungsverkehr durch Dritte
 § 36 Buchführung durch Dritte
 § 37 Gewährleistung der ordnungsgemäßen Besorgung durch andere Maßnahmen
-Abschnitt 7 Sonderkassen, Begriffsbestimmungen, Übergangs- und Schlussvorschriften
+Abschnitt 7 Sonderkassen und Begriffsbestimmungen
 § 38 Sonderkassen
 § 39 Schriftform
 § 40 Begriffsbestimmungen
 § 41 Ersetzung von Begriffen
-§ 42 Anwendungsbereich, Übergangsvorschriften
-§ 43 Inkrafttreten und Außerkrafttreten
+§ 42 (aufgehoben)
+§ 43 (aufgehoben)
