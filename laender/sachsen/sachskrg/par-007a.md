@@ -1,4 +1,0 @@
-# § 7a Beitritt zu ländlichen Kulturräumen
-(1) Kreisangehörige Oberzentren und die Städte des Oberzentralen Städteverbundes können Mitglied in ländlichen Kulturräumen werden, wenn dies der Stadtrat und der Kulturkonvent beschließen. Die Beschlüsse bedürfen der Genehmigung der Rechtsaufsichtsbehörde sowie der Bekanntgabe im Sächsischen Amtsblatt.
-(2) Gemeinden, die gemäß Absatz 1 Mitglied eines ländlichen Kulturraumes geworden sind, werden im Kulturkonvent durch den Oberbürgermeister als stimmberechtigtes Mitglied vertreten. Im Falle der Verhinderung wird der Oberbürgermeister durch seinen Stellvertreter vertreten.
-(3) Gemeinden, die gemäß Absatz 1 Mitglied eines ländlichen Kulturraumes geworden sind, sind gemäß § 6 Abs. 3 zur Zahlung der Kulturumlage verpflichtet. Davon unberührt bleibt die Pflicht, sich als Sitzgemeinde gemäß § 3 Abs. 2 angemessen zu beteiligen sowie die festgelegte Kreisumlage gemäß § 26 FAG zu zahlen.

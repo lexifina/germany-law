@@ -1,4 +1,3 @@
-## § 11 (In-Kraft-Treten)
 # Anlage (zu § 1 Abs. 3)
 Die ländlichen Kulturräume im Freistaat Sachsen und die dazugehörigen Landkreise
 1. Kulturraum Vogtland-Zwickau
