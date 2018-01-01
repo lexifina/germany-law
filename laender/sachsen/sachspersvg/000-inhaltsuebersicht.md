@@ -1,3 +1,4 @@
+## Sächsisches Personalvertretungsgesetz (SächsPersVG)
 # Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
@@ -79,7 +80,7 @@ Teil 7 Besondere Vertretungen
 § 70 Staatsbetrieb Sachsenforst
 Teil 8 Beteiligung der Personalvertretungen
 § 71 Zusammenarbeit
-§ 72 Gleichmäßige Behandlung – Verbot parteipolitischerBetätigung
+§ 72 Gleichmäßige Behandlung – Verbot parteipolitischer Betätigung
 § 73 Allgemeine Aufgaben – Anhörungen
 § 74 Unfall-, Umwelt- und Gesundheitsgefahren
 § 75 Teilnahme an Prüfungen
@@ -103,5 +104,5 @@ Teil 10 Verschlusssachen und Verfassungsschutz
 § 91 Abweichungen für das Landesamt für Verfassungsschutz
 Teil 11 Übergangs- und Schlussvorschriften
 § 92 Rechtsverordnung über Wahlvorschriften
-§ 93 Übergangsvorschrift
+§ 93 Übergangsvorschrift (zu § 67 Absatz 1 Satz 1)
 § 94 In-Kraft-Treten – Außer-Kraft-Treten
