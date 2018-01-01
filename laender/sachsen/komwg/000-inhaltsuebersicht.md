@@ -1,6 +1,5 @@
-# Gesetz über die Kommunalwahlen im Freistaat Sachsen (Kommunalwahlgesetz – KomWG)
-Rechtsbereinigt mit Stand vom 1. November 2015
-Inhaltsübersicht
+## Gesetz über die Kommunalwahlen im Freistaat Sachsen (Kommunalwahlgesetz – KomWG)
+# Inhaltsübersicht
 Erster Teil Gemeindewahlen
 Erster Abschnitt Gemeinderatswahlen
 Erster Unterabschnitt Wahlvorbereitung, Wahlorgane
@@ -46,13 +45,14 @@ Fünfter Unterabschnitt Neuwahl, Wiederholungswahl, Neufeststellung des Wahlerge
 § 31 Wahlabsage, Nachwahl
 Sechster Unterabschnitt Wahlkosten
 § 32
-Zweiter Abschnitt Ortschaftsratswahlen
+Zweiter Abschnitt Wahlen zu den Ortschaftsräten und Stadtbezirksbeiräten
 § 33 Anwendbarkeit von Rechtsvorschriften
 § 34 Wahltag
 § 35 Wahlgebiet, Wahlkreise, Wahlberechtigung
 § 35a Inhalt der Wahlvorschläge und Unterstützungsunterschriften
 § 36 Aufstellung von Bewerbern
 § 37 Stimmzettel
+§ 37a Stadtbezirksbeiratswahlen
 Dritter Abschnitt Bürgermeisterwahlen
 § 38 Anwendbarkeit von Rechtsvorschriften
 § 39 Wahltag, Bekanntmachung der Durchführung der Wahl
@@ -89,6 +89,5 @@ Vierter Teil Sonstige Vorschriften
 § 63 Verwaltungsvorschriften
 § 64 Einschränkung von Grundrechten
 § 65 Maßgebende Einwohnerzahl
-§ 65a Übergangsbestimmung aus Anlass des Gesetzes zur Änderung kommunalwahlrechtlicher Vorschriften im Freistaat Sachsen
-§ 65b Übergangsbestimmung aus Anlass des Zensus 2011
+§ 65a Übergangsbestimmung aus Anlass des Zweiten Gesetzes zur Fortentwicklung des Kommunalrechts
 § 66 (Inkrafttreten)

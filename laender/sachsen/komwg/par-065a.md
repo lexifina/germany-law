@@ -1,2 +1,3 @@
-# § 65a Übergangsbestimmung aus Anlass des Gesetzes zur Änderung kommunalwahlrechtlicher Vorschriften im Freistaat Sachsen
-Für Wahlen, die vor dem 27. Juli 2013 gemäß § 1 Abs. 4 durchgeführt werden, ist das Kommunalwahlgesetz in der am 27. April 2013 geltenden Fassung weiter anzuwenden.
+# § 65a Übergangsbestimmung aus Anlass des Zweiten Gesetzes zur Fortentwicklung des Kommunalrechts
+Für Wahlen, die bis zum 31. Dezember 2017 gemäß § 1 Absatz 4 öffentlich bekanntgemacht werden, ist das Kommunalwahlgesetz in der bis zum 31. Dezember 2017 geltenden Fassung anzuwenden.
+### § 66 (Inkrafttreten)
