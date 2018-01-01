@@ -1,0 +1,2 @@
+# § 1a Elektronischer Rechtsverkehr zum Verfassungsgerichtshof des Freistaates Sachsen
+Für die Übermittlung elektronischer Dokumente an den Verfassungsgerichtshof des Freistaates Sachsen und die Bearbeitung elektronischer Dokumente durch den Verfassungsgerichtshof des Freistaates Sachsen gelten abweichend von den §§ 2 bis 4 die technischen Rahmenbedingungen der Elektronischer-Rechtsverkehr-Verordnung entsprechend.
