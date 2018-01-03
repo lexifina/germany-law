@@ -1,0 +1,51 @@
+# 9. öffentliche Sitzung des Ausschusses für Ordnung, Verkehr und Bürgerdienste
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-01-03T17:30:00+01:00
+- Ende: 2018-01-03T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=61
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3834
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3834
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 29.11.2017 - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Verkehrsführung Neuchateller Str./Ecke Hindenburgdamm - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.2: Parksituation Wannseebadweg in Höhe des Strandbades - vertagt
+- TOP 3.3: Clayallee: Bausubstanz schützen und Regressforderungen von Bürgern verhindern - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.4: Parken in Wannsee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.5: Nahverkehr - vertagt
+- TOP 3.6: Vernünftige Ampelschaltungen für Fußgänger an Kranoldplatz und Lankwitzer Straße / Fußgänger nicht hetzen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.7: Ampelanlage Wupperstraße/Ecke Goerzallee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Wiederholte Beschädigungen von Anwohnerfahrzeugen durch einander ausweichende Busse verhindern - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.9: Beschilderung am Platz des 4. Juli zur Nutzung für Fahrschulen entfernen - vertagt
+- TOP 3.10: Kreuzung Niklasstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.11: Schulwegsicherung Friedrich-Drake-Grundschule, Drakestraße 80, 12205 Berlin - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.12: Vorsorge zur Aufrechterhaltung des S-Bahn-Verkehrs im Bezirk Steglitz- Zehlendorf - vertagt
+- TOP 3.13: Baseler Straße - LKWs im Durchgangsverkehr verhindern - vertagt
+- TOP 3.14: Testbetrieb – mehr Sicherheit durch 3D Zebrastreifen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.15: Verkehrsberuhigung auf dem Dahlemer Weg zwischen Mühlenstraße und Berliner Straße/ "Tempo 30 auf dem Dahlemer Weg – denn warten müssen wir sowieso!" - im Ausschuss abgelehnt
+- TOP 3.16: Barrierefreiheit an der Haltestelle Pinnauweg sicherstellen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.17: Tempo 30 in der Appenzeller Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.18: Unfallschwerpunkt Potsdamer Chaussee/Kurstraße entschärfen - vertagt
+- TOP 3.19: Auch tagsüber Tempo 30 in der Lepsiusstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.20: Behindertenparkplatz vor dem Rathaus Zehlendorf besser kennzeichnen - vertagt
+- TOP 3.21: Installation besonderer Fußgängerampeln - vertagt
+- TOP 3.22: Anwohnerparken am S-Bahnhof Wannsee - vertagt
+- TOP 3.23: Verkehrsspiegel für Kreuzung Ahlener Weg/Holtheimer Weg - mit Änderungen im Ausschuss beschlossen
+- TOP 3.24: Kreuzungen Unter den Eichen/Habelschwerdter Allee/ Altensteinstraße verkehrssicherer - vertagt
+- TOP 3.25: Radverkehrsanlagen an der Drakestraße schaffen - vertagt
+- TOP 3.26: Domicil Seniorenpflegeheim in der Frobenstraße - vertagt
+- TOP 3.27: Fußgängerüberweg Potsdamer Straße Ecke Fischerhüttenstraße - vertagt
+- TOP 3.28: Einmündung Fahrenheitstraße in die Osdorfer Straße sichern - vertagt
+- TOP 3.29: Mehr Platz für Fußgänger im Gardeschützenweg - vertagt
+- TOP 3.30: Schloßstraße III: Sichere Radverkehrsführung während Kreiselsanierung - vertagt
+- TOP 3.31: Schloßstraße II: Bus beschleunigen und Radverkehr nicht ausbremsen - vertagt
+- TOP 3.32: Schloßstraße I: Ladezonen erweitern für mehr Verkehrssicherheit im Radverkehr - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
