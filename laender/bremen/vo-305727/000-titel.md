@@ -1,1 +1,1 @@
-# Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2017 vom 14. Dezember 2016
+# Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2018 vom 6. Dezember 2017
