@@ -1,0 +1,88 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-01-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4596728
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4596728
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Bau und Wohnen
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Geranienstraße 8, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 26769
+- TOP 7.1.2.: Steinpilzweg 5, gem. Baumbestandsplan Nr. 17288
+- TOP 7.1.3.: Blumenauer Straße 22, 1 Fichte
+- TOP 7.1.4.: Großhaderner Straße 6 a, 1 Serbische Fichte und 1 Buche
+- TOP 7.1.5.: Sonnenblumenstraße 41, 1 Birke
+- TOP 7.1.6.: Terofalstraße 3, 2 Serbische Fichten, 1 Scheinzypresse und 1 Ahorn
+- TOP 7.1.7.: Windeckstraße 29, 1 Scheinzypresse
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Bürgeranliegen: 1. Absenkung Bordstein Ida-Schumacher-Weg / Menaristraße 2. Gehwegparken im Stadtbezirk
+- TOP 1.2.: OBikes vor dem Haus für Kinder am Stiftsbogen
+- TOP 1.3.: Zustand rund um den Containerstandplatz Platanenstraße / Ecke Am Wiesenhang
+- TOP 5.1.: Budget der Bezirksausschüsse, Elternbeirat Montessori Schule der Aktion Sonnenschein, Tanzprojekt 22.02.18 – 17.05.18, 670,00 € (Direktorium, 07.12.17)
+- TOP 6.1.: Mieterbeiratswahl 2018, Entsendung von stimmberechtigten Mitgliedern (Sozialreferat, 04.12.17)
+- TOP 6.2.: Projekt "Vom Weltspieltag zum Weltkindertag 2018", Ausschreibung für die Münchner Stadtbezirke (Spiellandschaft Stadt e.V., 14.11.17) (vertagt aus 12/17)
+- TOP 6.3.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Gräfelfing, Bebauungsplan Nr. 37-I, "Im Birket West" für das Gebiet entlang der Straße Im Birket, zwischen der Bahnlinie München-Mittenwald sowie der Friedenstraße (Referat für Stadtplanung und Bauordnung, 08.12.17)
+- TOP 6.4.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Gräfelfing, Bebauungsplan Nr. 39, westlich der Straße "Am Kirchenhölzl", nördlich der Lohenstraße und östlich der Pasinger Straße umfassend die Grundstücke Fl.Nrn. 914/T, 914/4 und 915/1 (Referat für Stadtplanung und Bauordnung, 07.12.17)
+- TOP 6.5.: Verfahren nach § 4 Abs. 2 BauGB, Gemeinde Gräfelfing, 11. Änderung des Flächennutzungsplanes (Transportbetonmischanlage Bernhard Glück GmbH) (Referat für Stadtplanung und Bauordnung, 11.12.17)
+- TOP 6.6.: Guardinistraße 70 - 84, Neubau und Aufstockung von Wohngebäuden - Vorbescheid (Guardinistraße 70 - 84 + 100 - 106 + 122 / Stiftsbogen 17 + 19 + 23 - 27 + 55 - 59) (Referat für Stadtplanung und Bauordnung, 08.11.17) (vertagt aus 12/17)
+- TOP 6.7.: Verkehrsrechtliche Anordnung, hier: Prälat-Wellenhofer-Straße; Errichtung eines Sichthaltverbotes, Errichtung von 2 "Achtung - Kinder" Schildern (Kreisverwaltungsreferat, 27.12.17)
+- TOP 7.2.1.: Am Waldrand 32, 2 Serbische Fichten (Referat für Stadtplanung und Bauordnung, 12.12.17)
+- TOP 7.2.2.: Gaberlstraße 9, 1 Robinie (Referat für Stadtplanung und Bauordnung, 18.12.17)
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Willibaldstraße (Sozialreferat, 04.12.17) - Waldklausenweg (Sozialreferat, 05.12.17) - Mäuselweg (Sozialreferat, 08.12.17) - An der Rehwiese (Sozialreferat, 11.12.17)
+- TOP 8.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung 2018 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet: - Firma MTC Deutschland GmbH - Firma Herrmann & Schmidt - Firma Gebäudereinigung Berndt Meisterbetrieb GmbH (Referat für Gesundheit und Umwelt, 06.12.17, 07.12.17 und 11.12.17)
+- TOP 9.1.: Reinhaltung des Grünstreifens Wastl-Witt-Str./Blumenauerstr. (Schule, Hort) (Referat für Bildung und Sport, 27.11.17)
+- TOP 9.2.: A96; Machbarkeitsstudie zur Einhausung, Zwischennachricht zur BV-Empfehlung Nr. 14-20 / E 01738 (Referat für Stadtplanung und Bauordnung, 05.12.17)
+- TOP 9.3.: Kosten der letzten Tram-Strecken-Neubauten (Referat für Arbeit und Wirtschaft, 13.12.17)
+- TOP 9.4.: Beschilderung im Waldfriedhof (Referat für Gesundheit und Umwelt, Städtische Friedhöfe München, 13.12.17)
+- TOP 9.5.: Zustand Gehweg Guardinistraße 43 - 49 (Baureferat, 13.12.17)
+- TOP 9.6.: Zustand Gehweg Lupinenweg (Baureferat, 14.12.17)
+- TOP 9.7.: Neugestaltung des Internetauftritts der Landeshauptstadt München, Zwischennachricht zur BV-Empfehlung Nr. 14-20 / E 01736 (Direktorium, 22.12.17)
+- TOP 11.1.: Broschüre "Erhaltungssatzungen in München. 30 Jahre Milieuschutz (1987 - 2017)" (Referat für Stadtplanung und Bauordnung, 27.12.17)
+- TOP 1.1.1.: Beschluss vom 23.11.2017: Gesamtkonzept Münchner Altenhilfe IV Produkt 60 5.4.1 Angebote der Beratung und Unterstützung, Begegnung und Kommunikation Antrag Nr. 14-20 / B 02269
+- TOP 1.1.2.: Beschluss vom 23.11.2017: Mädchen und junge Frauen in München Zusammenfassung der Ergebnisse aus dem Stadtratsauftrag vom 31.01.2015 zu den Bedarfen von Mädchen und jungen Frauen sowie der Evaluation des Mädchentreffs Blumenau Darstellung der Ergebnisse des Runden Tischs Schaffung eines Mobilen Angebots der Offenen Kinder- und Jugendarbeit für Mädchen und junge Frauen Verstetigung des Mädchentreffs* Blumenau als Leistungserweiterung des Treff 21 des Trägers schule-beruf e.V.
+- TOP 1.1.3.: Beschluss vom 23.11.2017: Auszahlung der Bettplatzentgelte (KDU) an die Beherbergungsbetriebe ab 2018 Produkt 60 4.1.4 vorübergehende Unterbringung und ambulante Hilfen für akut wohnungslose Haushalte
+- TOP 1.2.1.: Beschluss vom 13.12.2017: Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün"
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Kreisverwaltungsausschusses vom 21.11.2017: Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 2.1.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 28.11.2017: Haushaltsplan 2018 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2018 Vollzug des Haushaltsplanes 2018 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Alt sein in München – Teil 1
+- TOP 2.2.2.: Ergänzung vom 24.11.2017 zum Beschluss des Bildungsausschusses vom 29.11.2017: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Kulturausschusses vom 30.11.2017: Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2017 – 2021 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Parkraummanagement in München - Fortschreibung Sektor V
+- TOP 3.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 3.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 3.2.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 3.2.5.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 06.12.2017 und Hinweis / Ergänzung vom 21.11.2017 und 2. Hinweis / Ergänzung vom 29.11.2017: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017
+- TOP 3.2.6.: Beschluss des Kommunalausschusses vom 30.11.2017: Mehrjahresinvestitionsprogramm 2017 – 2021; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2017 - 30.06.2017
