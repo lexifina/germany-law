@@ -1,0 +1,62 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2018-01-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4673053
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4673053
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 10.: Nichtöffentlicher Teil
+- TOP 2.2.1.: Gestaltung von Bahnunterführungen im Raum Allach-Untermenzing
+- TOP 3.1.: Naturlehrpfadschautafeln und Umweltwanderweg-App
+- TOP 4.1.: (E) Errichtung einer WC-Anlage auf dem Freizeitgelände ehem. Sommerbad Allach Empfehlung Nr. 14-20 / E 01523 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 27.06.2017
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Faschingsumzug am 13.02.2018 1.550,00€ Az. 0262.0-23-0099
+- TOP 4.3.: (E) Budget der Bezirksausschüsse HuVTV "Alpenrösl" Allach e.V. Restaurierung der Vereinsfahne 1.838,00 € Az: 0262.0-23-0098
+- TOP 4.4.: (E) Budget der Bezirksausschüsse Krieger- und Veteranenverein Allach e.V. Reparatur einer Böller- und Salutkanone 1.800,00 € 0262.0-23-0097
+- TOP 4.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters von 22.02.2017 über die Projektplanung Programm barrierefreie Bushaltestellen (ÖPNV Offensive) Halstestelle Manzostraße
+- TOP 4.6.: (E) Lichtzeichenanlage St.-Johann-Str. / Eversbuschstraße
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 19.12.2017: Lichtzeichenanlage St. Johann-Str./Eversbuschstraße
+- TOP 5.1.: Faschingsumzug Pfarrei Maria-Himmelfahrt am 13.02.2018
+- TOP 6.1.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 6.2.: (U) Auszahlung der Bettplatzentgelte (KDU) an die Beherbergungsbetriebe ab 2018 Produkt 60 4.1.4 vorübergehende Unterbringung und ambulante Hilfen für akut wohnungslose Haushalte
+- TOP 7.1.: Mieterbeiratswahl 2018 Entsendung von stimmberechtigten Mitgliedern
+- TOP 9.1.: Skateboard-Park
+- TOP 9.2.: Schreiben Baureferat vom 17.11.2017: Basketball-Platz mit zwei Körben im Bereich östlich der Bahn
+- TOP 9.3.: Schreiben Baureferat vom 08.12.2017: Beschluss Ruhdorffstraße zw. Am Lochholz und Am Gemeindewald
+- TOP 9.4.: Schreiben Baureferat vom 15.12.2017: Erstausbau der Menzinger Straße - frühzeitige Beteiligung der Anwohner/-innen Zwischennachricht
+- TOP 9.5.: Schreiben Kreisverwaltungsreferat vom 15.12.2017: Markierung Zone 30 Waldhornstraße
+- TOP 9.6.: Schreiben Kreisverwaltungsreferat vom 27.10.2017: Höhenbeschränkung an der Industriebrücke Otto-Warburg-Straße im Bereich des Radweges
+- TOP 9.7.: Schreiben Kreisverwaltungsreferat vom 17.10.2017: Zeichen 136 StVO (Kinder) mit dem Zusatz Kindergarten
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge: (27.11.-03.12.17, 04.12.-10.12.17,11.12.-17.12.17)
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumSchutzVO, Einzelfällungsanträge: Peter-Müller-Str. 27, Sickenbergerstr. 9, Kiesweg 21, Megerlestr. 2, Drachenfelsstr. 9, Lewaldstr. 22, Oertelplatz, Eversbuschstr. 113
+- TOP 9.10.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.2017: Vollzug des BImSchG Firma Berndt Meisterbetrieb GmbH
+- TOP 9.11.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.2017: Vollzug des BImSchG Firma MTC Deutschland GmbH
+- TOP 9.12.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.2017: Vollzug des BImSchG Firma Herrmann & Schmidt
+- TOP 9.13.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.2017: Vollzug des BImSchG Firma MAN Truck & Bus AG
+- TOP 9.14.: Schreiben Stadtwerke München vom 18.12.2017
+- TOP 9.15.: Bericht für "Jazznacht Menzing 1200"
+- TOP 9.16.: Bericht Konzert "Bühne 23"
+- TOP 9.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.12.2017: Kennzeichnung Landschaftsschutzgebiet "Angerlohe", sowie nördlich der Streuobstwiese, und Leinenpflicht für Hunde
+- TOP 9.18.: Schreiben Baureferat vom 22.12.2017: Grünanlage Hitlstraße
+- TOP 9.19.: Schreiben Kreisverwaltungsreferat vom 29.12.2017: Einrichtung eines absoluten Halteverbotes für die Dauer der Baustelle Franz-Nißl-Str., Westseite
