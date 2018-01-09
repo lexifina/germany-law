@@ -1,0 +1,60 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4684646
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4684646
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 1.1.: RGU: Erläuterungen über zu erwartende Emmissionen / Immissionen zum Planfeststellungsverfahren "Verlegung der Polizeihubschrauberstaffel Bayern vom Verkehrsflughafen München nach Oberschleißheim" (siehe TOP 5.4.1)
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 3.: Anträge
+- TOP 5.2.1.: Lerchenauer Str. 308- Haus A
+- TOP 5.2.2.: Lerchenauer Str. 308 - Haus B
+- TOP 5.2.3.: Josef-Frankl-Str. 45-47d
+- TOP 5.2.4.: Hainbuchenstr. 23
+- TOP 5.3.1.: Flohmarkt des Bewohnerstammtisch Hasenbergls Nord auf dem Goldschmiedeplatz; alle Termine 2018
+- TOP 5.3.2.: N Dorffasching Feldmoching am 11.02.2018 in der Feldmochinger Straße
+- TOP 5.4.1.: Antrag auf Planfeststellung i.V.m. Änderung der luftverkehrsrechtlichen Genehmigung der Bundespolizei-Fliegerstaffel für das Vorhaben Verlegung der Polizeihubschrauberstaffel Bayern vom Verkehrsflughafen München nach Oberschleißheim, Erneute Anhörung nach Änderung des Lärm- und Umweltgutachtens
+- TOP 5.4.2.: Beschlussentwurf zu diversen Bürgerversammlungsempfehlung zu Verkehr und Luft im 24. Stadtbezirk (Nrn. 14-20 / E 01413, E 01414, E 01409, E 01403, E 00894)
+- TOP 5.4.3.: Zebrastreifen Kreuzung Waldrebenstraße mit Waldmeisterstraße (Ortstermin Schulwegsituation); Entwurf verkehrsrechtliche Anordnung
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Kostenerstattung von Schülerfahrkarten in der Oberstufe
+- TOP 6.2.: Einrichtung von diversen Messstellen für Stickstoffdioxid und Feinstaub im 24. Stadtbezirk
+- TOP 6.3.: Bürgeranliegen: Verkehrssituation im Bereich der Wilhelmine-Reichard-Straße (hier: Gehweg)
+- TOP 6.4.: "Wohnen für Alle" - Rahmenkonzept (zu 6.16 - 14.11.2017)
+- TOP 6.5.: Schulwegsicherheit - Verkehrssituation Lerchenau hier: Tempo-30-Zone Ebereschenstraße
+- TOP 6.6.: Verkehrsspiegel an den Kreuzungen Lerchenauer Straße mit Nebenstraßen (zu 3.4 - 10.10.2017)
+- TOP 6.7.: Verkehrsrechtliche Anordnung nach § 45 StVO: Absolutes Haltverbot im Wendehammer der Drudhardstraße
+- TOP 6.8.: Unveränderte Fortführung eines Gaststättenbetriebes: a) Karlsfelder Str. 209 g b) Lerchenauer Str. 189
+- TOP 6.9.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 6.10.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Fa. MAN; Kapazitätserhöung Fahrerhauslackieranlage Halle F6
+- TOP 6.11.: Meldelisten Bauvorhaben
+- TOP 6.12.: Meldelisten Baumfällungsanträge
+- TOP 6.13.: Daten Pegel Feldmoching
+- TOP 6.14.: (U) Weiterentwicklung des MVV-Gemeinschaftstarifs Tarifstrukturreform Verkehrswende einleiten – Ticketfrei spart CO² Antrag Nr. 14-20 / A 03158 von DIE LINKE vom 08.06.2017, eingegangen am 09.06.2017 Verkehrswende einleiten – Ein Pauschaltarif für Kinder und Jugendliche im MVV Antrag Nr. 14-20 / A 03152 von DIE LINKE vom 06.06.2017, eingegangen am 06.06.2017 Nulltarif Antrag Nr. 14-20 / A 03107 der SPD-Fraktion vom 17.05.2017, eingegangen am 18.05.2017 Einführung einer MVV Senioren-Fahrkarte; Rentner sollen mit nur einem MVV-Streifen fahren dürfen Empfehlung Nr. 14-20 / E 01549 der Bürgerversammlung des Stadtbezirkes 12 – Schwabing-Freimann am 06.07.2017 Verschiebung der Zahlgrenze an der S1 weiter nach draußen (Ziff. 4 der Anträge) Empfehlung Nr. 14-20 / E 01415 der Bürgerversammlung des Stadtbezirkes 24 – Feldmoching-Hasenbergl am 30.03.2017
+- TOP 6.15.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 6.16.: N Erzbischöfliches Ordinariat München: Errichtungsdekret "Pfarrverband München-Nord-Feldmoching"
+- TOP 6.17.: N Broschüre "Erhaltungssatzungen in München; 30 Jahre Milieuschutz (1987 - 2017)"
+- TOP 6.18.: N (U) Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 6.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.20.: N (U) "Dialog-Displays" in München; Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch Sitzungsvorlage Nr. 14-20 / V 09768
+- TOP 6.21.: N (U) Petition "Tempo 30 für die Weitlstraße" Sitzungsvorlage Nr. 14-20 / V 09817
