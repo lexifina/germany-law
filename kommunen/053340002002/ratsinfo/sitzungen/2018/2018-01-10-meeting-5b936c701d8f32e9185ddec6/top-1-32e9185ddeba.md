@@ -1,0 +1,7 @@
+# TOP 1: Eröffnung der Sitzung
+
+- Sitzung: Öffentliche/Nichtöffentliche Sondersitzung des Betriebsausschusses für das Theater und die VHS (2018-01-10)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936c701d8f32e9185ddeba
+- Ergebnis: (offen)
