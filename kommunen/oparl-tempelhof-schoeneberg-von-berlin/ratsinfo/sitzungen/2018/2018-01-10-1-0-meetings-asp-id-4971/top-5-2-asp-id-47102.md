@@ -1,0 +1,8 @@
+# TOP 5.2: Tempelhof-Schöneberg im Projekt „GIS-BROKER-Framework“ beteiligen
+
+- Sitzung: 12. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2018-01-10)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=47102
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=47102
