@@ -1,0 +1,51 @@
+# 10. öffentliche Sitzung des Verkehrsausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2018-01-11T17:00:00+01:00
+- Ende: 2018-01-11T19:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4428
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4428
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=266798
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung - mit Änderungen im Ausschuss beschlossen
+- TOP 3: Beratung von Drucksachen mit dem Schwerpunkt "Verkehrsleistungensfähigkeit und Straßenqualität" - (offen)
+- TOP 3.1: Hauptverkehrsstraßen leistungsfähig halten - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.2: Fahrtrichtungen am Waidmannsluster Damm eindeutig markieren - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Freie Fahrt zwischen Reinickendorf und Charlottenburg-Wilmersdorf - mit Änderungen im Ausschuss beschlossen
+- TOP 3.4: Verkehrsinfarkt verhindern 8 - Entwidmung der Ruppiner Chaussee temporär aufheben (vorbehaltlich Überweisung BVV) - mit Änderungen im Ausschuss beschlossen
+- TOP 3.5: Verkehrsinfarkt verhindern 5 - Verbindung zwischen Reinickendorf und Spandau/Charlottenburg sicherstellen (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 3.6: Verkehrsinfarkt verhindern 4 - A 111 den Erfordernissen des Verkehrs zwischen Hamburg und Berlin anpassen (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 3.7: Verkehrsinfarkt verhindern 9 - Kein Rückbau der Hauptverkehrsstraßen (vorbehaltlich Überweisung BVV) - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Verkehrsinfarkt verhindern 6 -Behelfsbrücke über Hohenzollernkanal bauen (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 3.9: Verkehrsinfarkt verhindern 2 - Gemeinsame Initiativen entwickeln (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 3.10: Verkehrsinfarkt in Reinickendorf verhindern 1 (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 3.11: Verkehrsinfarkt verhindern 7 - Fahrspurregelung für Teile der A 111 (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 3.12: Verkehrsinfarkt verhindern 10 - Ertüchtigung Alter Bernauer Heerweg - vertagt
+- TOP 4: Beratung von Drucksachen mit dem Schwerpunkt "ÖPNV und andere Angebote" - im Ausschuss abgelehnt
+- TOP 4.1: Zusätzliche Zielanzeiger bei der S-Bahn in Reinickendorf - vertagt
+- TOP 4.2: Übergangsanzeiger auf dem S+U-Bahnhof Wittenau - vertagt
+- TOP 4.3: Bushaltestelle Sagritzer Weg reaktivieren - Gesellschaftliche Teilhabe mobilitätseingeschränkter Menschen im Märkischen Viertel verbessern! - vertagt
+- TOP 4.4: Verkehrsinfarkt verhindern 3 - Ausweitung der Tarifzone B bei der S-Bahn temporär ermöglichen (vorbehaltlich Überweisung BVV) - vertagt
+- TOP 5: Beratung von Drucksachen mit dem Schwerpunkt "Verkehrssicherheit und Ordnung" - (offen)
+- TOP 5.1: Sicherheit am Wilhelmruher Damm IV - vertagt
+- TOP 5.2: Erhöhung der Verkehrssicherheit an der Roedernallee - vertagt
+- TOP 5.3: Verkehrssituation im Umfeld der Grundschule in den Rollbergen - vertagt
+- TOP 5.4: Neue Konzepte für den Schulweg an Grundschulen - vertagt
+- TOP 5.5: Verkehrschaos vor Grundschulen und Kindergärten - vertagt
+- TOP 5.6: Geschwindigkeitskontrollen in der Holzhauser Straße - vertagt
+- TOP 5.7: Verkehrssituation "Am Pilz" - vertagt
+- TOP 5.8: Lärmschutz Schorfheidestraße - vertagt
+- TOP 5.9: Verkehrsregulierung in Hermsdorf - vertagt
+- TOP 6: Beratung von Drucksachen mit dem Schwerpunkt "Ruhender Verkehr" - (offen)
+- TOP 6.1: Schilderwald im Frohnauer Zentrum roden - vertagt
+- TOP 6.2: Parkplätze in der Flottenstraße - vertagt
+- TOP 6.3: Halteverbot im Bernshausener Ring - vertagt
+- TOP 7: Bericht aus dem Bezirksamt - (offen)
+- TOP 8: Verschiedenes - (offen)
