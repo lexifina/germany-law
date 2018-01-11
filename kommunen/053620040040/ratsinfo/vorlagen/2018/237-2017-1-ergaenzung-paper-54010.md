@@ -1,0 +1,25 @@
+# Anträge von Wesselinger Vereinen auf Bezuschussung von Projekten
+
+- Körperschaft: Stadt Wesseling
+- Drucksache/Vorlage: 237/2017 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-01-11
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZ4zMQlGHHq1hfvTs5u41PI
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/paper/54010
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Anträge von Wesselinger Vereinen auf Bezuschussung von Projekten) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeZr5Ua5oPcM-DSqJErnropyIge2G-KUbJ5l_ar8H5l8/Beschlussvorlage_237-2017_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (1 Verein für Orts_Heimatkunde Publikation Zeichnungen) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX6QFIJ_d01p2XoUcpVGNH1h0GmpXY1TSgCiDlBLknjF/1_Verein_fuer_Orts_Heimatkunde_Publikation_Zeichnungen.pdf
+- Anlage: Beschlussvorlage (2 GroWeKa Kinderkarnevalszug) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdU_7p-L0L8V3I4emr99uQyzewiVxLRYlEtIUglqGXLb/2_GroWeKa_Kinderkarnevalszug.pdf
+- Anlage: Beschlussvorlage (3 Kornblumenblau Renovierung Kasino) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVZB1a9hL6LyfRVcTP4koWParPvcaLvLOXWnT_ocPrR-/3_Kornblumenblau_Renovierung_Kasino.pdf
+- Anlage: Beschlussvorlage (4 Tambourcorps Proben 95 Jahre Jubiläum) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZca9katPP9AHbWEbLD6JVK9bSx8ZGR5dO6c0cZhFwKFX/4_Tambourcorps_Proben_95_Jahre_Jubilaeum.pdf
+- Anlage: Beschlussvorlage (5 KG Radschläger Proben Tänze) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfZaW5Ee01bHMtC_7z4ZQk140sBJUjJN1LRGsLEGdQ1n/5_KG_Radschlaeger_Proben_Taenze.pdf
+- Anlage: Beschlussvorlage (6 Postillione Proben Tänze) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRWBFhmRnB3TA_PgvTUG-QX8vJmxMOVNNwDznHVOXGJ4/6_Postillione_Proben_Taenze.pdf
+- Anlage: Beschlussvorlage (7 Kunstverein Programmarbeiten Kunstpreis und Mitsingabend) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdO63VmKCXTeZe4A1U8wG05n0YSE7z8jaC4sxyX-8cQh/7_Kunstverein_Programmarbeiten_Kunstpreis_und_Mitsingabend.pdf
+- Anlage: Beschlussvorlage (8 Tanzcorps Prinzengarde Trainingslager Tänzer) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWEBm8Wkp1QmZdx0LNpf42K0hqWJOUm3wBrUxb6_CWK9/8_Tanzcorps_Prinzengarde_Trainingslager_Taenzer.pdf
+- Anlage: Beschlussvorlage (9 Goetheschule Zirkusprojekt) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVbcoAekNHdg0uAccVCaZbQT3W65gDJ-E9GRp4DkT5-V/9_Goetheschule_Zirkusprojekt.pdf
+- Anlage: Beschlussvorlage (10 Musikforum Wesseling Eichholzer Schlosskonzerte) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfECBDciL_OesF-KBzFO70ABY3TYcbFUmUK4Ub8pAB22/10_Musikforum_Wesseling_Eichholzer_Schlosskonzerte.pdf
+- Anlage: Beschlussvorlage (11 KG Happy Dancers Trainingslager) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYvvY0BOECvra0KgtlkjCJDs-OgKVmicUMZAbE4lmsyl/11_KG_Happy_Dancers_Trainingslager.pdf
+- Anlage: Beschlussvorlage (12 Tanzcorps Prinzengarde Urfeld Trainingslager) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcX6Ma1d37uzGvURPaykKuDcGFYPk_7HfcbL9Q7SaGFm/12_Tanzcorps_Prinzengarde_Urfeld_Trainingslager.pdf
+- Anlage: Beschlussvorlage (13 TISCHVORLAGE - Rheinklang 669) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb7hPwlGXqfEIohIB8oUbxWdpi4Qqs9-cLyvuMk3ZEM_/13_TISCHVORLAGE_-_Rheinklang_669.pdf
+- Beratung:  https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5716 https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-5
+- underDirectionOf: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/3-54
