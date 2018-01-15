@@ -1,0 +1,77 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731054
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731054
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Zusatzausstattung für öffentliche Spielplätze; hier: Spielplätze an der Holledauer Straße und Görlitzer Straße
+- TOP 2.2.: Sanierung der Zu- und Ausfahrtstraßen beim Westfriedhof - Haupteingang
+- TOP 2.3.: Verkehrssituation für Radfahrer an der Feldmochinger Straße
+- TOP 2.4.: Flexible Mikrodepots für Lastenfahrräder in der City-Logistik - auch für München-Moosach?!
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Käthe-Kruse-Straße
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Emmy-Noether-Str. 7 2. Alzeyer Str. 2-14
+- TOP 3.4.1.: Veranstaltungen - Abfrage Teilnahme: 17.01.2018 - RBS - Grundschulsprengel 31.01.2018 - GWG - Bemustrung VHS Moosach
+- TOP 3.4.2.: Veranstaltungen - Berichte: 18.12.2017 - RBS - Neubau GS Emmy-Noether-Straße
+- TOP 4.: Anträge
+- TOP 4.1.1.: Überplanung Botanikum
+- TOP 4.1.2.: Treffen mit Baureferat - Tiefbau
+- TOP 4.1.3.: Verkehrssituation Feldmochinger Straße - Einführung von Tempo 30
+- TOP 4.3.1.: Fahrradständer am Westfriedhof wiederherstellen und ergänzen
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Olympischer Sportclub München e.V. Gerätebeschaffung
+- TOP 5.2.: (E) Budget der Bezirksausschüsse REGSAM, Trägerverein für regionale soziale Arbeit e.V. Veranstaltungen im Rahmen der 21. Moosacher Stadtteilkulturtage 1.650,00€ Az. 0262.0-10-0147
+- TOP 5.3.: Freie Sicht auf Rad- und Fußgängerweg an der Einmündung Meggendorfstraße südlich in Pelkovenstraße - Reduzierung der Wertstoffcontainer Empfehlung Nr. 14-20 / E 01752 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 19.10.2017
+- TOP 5.4.: (E) Poller an der Einmündung Gärtnerstraße in die Riesstraße setzen Empfehlung Nr. 14-20 / E 01754 der Bürgerversammlung des Stadtbezirkes 10 Moosach am 19.10.2017
+- TOP 6.1.: Austausch von Lichtsignalanlagen: 1. Dachauer-/ Haylerstraße 2. Dachauer-/ Hugo-Troendle-Straße
+- TOP 6.2.: Veranstaltung in städtischer Grünanlage: Simmerleinplatz; "Wintergrillen" am 02.02.2018 und Pflanzentauschbörse / Flohmarkt am 05.05.2018
+- TOP 6.3.: Baumfällungen (Baumschutz): 1. Schöpferplatz 3 2. Würmstr. 1
+- TOP 6.4.: Straßenbenennung im 10. Stadtbezirk Moosach - nicht-öffentlich -
+- TOP 7.1.: Lärmschutz Olympia-Pressestadt [BA-Antrags-Nr. 14-20/ B 04106 vom 18.09.2017; Verweis auf Untersuchungen / Ausführungen in Machbarkeitsstudie und Lärmaktionsplan]
+- TOP 7.2.: Luftschadstoffmessungen in Moosach / Stickstoffdioxid [BA-Antrags-Nr. 14-20/ B 04246 vom 13.11.2017; Messstandorte wurden anhandd fachlicher Kriterien im gesamtstädtischen Kontext ausgewählt; hier: Feldmochinger Straße]
+- TOP 7.3.: Aufwandsentschädigungen für Schulweghelfer [BA-Antrags-Nr. 14-20/ B 04244 vom 13.11.2017; 2015 war Erhöhung; derzeit keine weitere Erhöhung möglich].
+- TOP 7.4.: Sanierung der Wege im Westfriedhof - Alter Teil [BA-Antrags-Nr. 14-20/ B 04108 vom 18.09.2017; kleinere Sanierungsmassnahmen wurden kurzfristig erledigt; langfristig große Sanierungen ab Frühjahr 2018]
+- TOP 7.5.: Asphaltieren des Radweges zwischen Dachauer Straße und Feldmochinger Straße [Bürgeranliegen; UNB und BA haben sich gegen Asphaltierung der Wege im Rangierbahnhofsgelände ausgesprochen; Wege werden aber gut gepflegt]
+- TOP 7.6.: Haus für Kinder am Hartmannshofer Bächl 48; Beleuchtung der Zuwege
+- TOP 7.7.: Aufstellung eines Wartehäuschens mit Sitzgelegenheit an der Bushaltestelle Andernacher Straße [Einhaltung von Verfahrensschritten wie Barrierefreiheit, Priorisierungsliste]
+- TOP 7.8.: Radstellplätze für Besucher und Beschäftigte der BAG-Nord einrichten [Zwischennachricht; Verhandlungen mit Vermieterin noch nicht abgeschlossen].
+- TOP 7.9.: Erstmalige Erschließung der Simrockstraße [keine priorisierte Straße; Ausbau in den nächsten Jahren nicht vorgesehen].
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Verkehrsrechtlichen Anordnungen nach § 45 Abs. 3 StVO: 1. Bunzlauer Straße (Z283 - absolutes Haltverbot vor HsNr. 15) 2. Seydlitzstraße (Z283 - absolutes Haltverbot Westseite vor HsNr. 31) 3. Dachauer Str. 280-284 (Z314 - Kurzparkzone mit Zeitzusatz)
+- TOP 8.4.: Baumentfernungen und Gehölzepflegemaßnahmen an Straßen und in öffentlichen Grünflächen: Feldmochinger Straße
+- TOP 8.5.: Erhaltungssatzungen in München. 30 Jahre Milieuschutz (1987 - 2017) - Broschüre
+- TOP 8.6.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen; Meiller Görten, Käthe-Kruse-Str. 2 (Sitzungsvorlage Nr. 14-20 / V 10337]
+- TOP 8.7.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 8.8.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" Teil 2: Förderprogramm 2015 bis 2019 Kindertagesstätten sonstiger Träger; Kinderkrippe an der Nederlinger Straße 78 im 10. Stadtbezirk Moosach Leistung eines Baukostenzuschusses
+- TOP 8.9.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 8.10.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 8.11.: (U) "Wohnen für Alle" Vorstellung des Rahmenkonzepts des Sozialreferats und Finanzierung der Standorte 2017 und 2018 Produkt 60 4.1.8 Schaffung preiswerten Wohnraums Produkt 60 6.2.3 Betreuung von jungen und unbegleiteten heranwachsenden Flüchtlingen Soziale Hausverwaltung - Wohnen für Alle Antrag Nr. 14-20 / B 02676 ............................ Kochen mit Flüchtlingen - Hilfe, die schmeckt Antrag Nr. 14-20 / A 02429 ..........................
+- TOP 8.12.: Errichtung eines neuen Aufenthaltsraumes mit Kiosk für das Jugendübernachtungslager "The Tent", In den Kirschen 30...Zustimmung zur Gewährung eines Investitionskostenzuschusses... (Sitzungsvorlage Nr. 14-20 / V 08574)
+- TOP 8.13.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2017 - 2021 Einzelplan 4 / Sozialbereich
+- TOP 8.14.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 8.15.: "Dialog-Displays" in München; Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch (Sitzungsvorlage Nr. 14-20 / V 10074) - nicht-öffentlich -
+- TOP 8.16.: In-House-Vergabe (Bauträgerauswahl); Bebauungsplan ... Georg-Brauchle-Ring....; (Sitzungsvorlage Nr. 14-20 / V 10074) - nicht-öffentlich -
+- TOP 8.17.: Verbot der Zweckentfremdung von Wohnraum: 1. Claudiusplatz 2. Wilhemshavener Straße - nicht-öffentlich -
