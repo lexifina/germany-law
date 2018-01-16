@@ -1,0 +1,56 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737359
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737359
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ganghoferstr. 21
+- TOP 6.2.2.: Bauvorhaben Guldeinstr. 34
+- TOP 6.2.3.: Bauvorhaben Holzapfelstr. 10
+- TOP 6.2.4.: Bauvorhaben Landsberger Str. 65
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Rückübereignung Grundstück Westendstr. 68
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Spielgeräte auf dem "Schneckenplatz"
+- TOP 7.3.2.: Fortschreibung der Münchner Schulentwicklungsplanung; Aufstockung der GS an der Pfeuferstr. 1
+- TOP 7.3.3.: Kunst- und Kulturtage 2018
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Aufstellen von mobilen Toilettenanlagen während des Oktoberfestes (Fristverlängerung)
+- TOP 8.1.2.: Überprüfung und Verbesserung der Beleuchtungssituation am Georg-Freundorfer-Platz (Fristverlängerung)
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Geroltstr. 3
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Unterrichtung über bevorstehende und entfernte Gefahrenbäume
+- TOP 8.3.2.: Parkraummanagement in München; Forstschreibung Sektor V; Empfehlung BV vom 19.04.16
+- TOP 8.3.3.: Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün"; Antrag Nr. 3827 v. 18.07.17
+- TOP 8.3.4.: Öffnung der Einbahnstraße "Astallerstraße" zwischen Gollierstr. und der Westendstr. für den gegenläufigen Radverkehr
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Initiative open Westend 17. Open Westend vom 16.03. bis 18.03.2018 800,00€ Az. 0262.0-8-0134
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Mieterbeiratswahl 2018 - Entsendung von stimmberechtigten Mitgliedern
