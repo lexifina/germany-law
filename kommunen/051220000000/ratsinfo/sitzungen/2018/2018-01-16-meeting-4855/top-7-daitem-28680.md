@@ -1,0 +1,7 @@
+# TOP 7.: Unterbringung von Geflüchteten in Holzhäusern
+
+- Sitzung: Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (24. Sitzung) (2018-01-16)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/28680
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/23323
