@@ -1,0 +1,57 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-16T14:09:00+01:00
+- Ende: 2018-01-16T16:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18686
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18686
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645783.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645783.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645783.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Zusätzliche Mittel für Inklusion und Integration im Rahmen der offenen Ganztagsschule im Primarbereich - ungeändert beschlossen
+- TOP 2.2.2: Quantitative Erweiterung begleiteter Umgang durch SKM Köln e. V. - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Jugendhilfeplanung in der Kindertagesbetreuung für das Kindergartenjahr 2018/19 als Grundlage der Beantragung von Landeszuschüssen nach § 21 KiBiz - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung des Spielplatzes Uferstraße in Köln-Rodenkirchen - ohne Votum in nachfolgende Gremien
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Neuwahl eines beratenden Mitgliedes und eines stellvertretend beratenden Mitgliedes - ungeändert beschlossen
+- TOP 4.2: Neuwahl eines stimmberechtigten Mitgliedes und eines stellvertretend beratenden Mitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Übersicht Großtagespflegen in Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Durchführungskonzept Kölner Jugendbefragung 2018 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern ( UMA ) in 2017 in der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Bericht zum Tag der Jugend im Rathaus am 07.12.2017 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 8.5.2: Anerkannte Träger der freien Jugendhilfe gemäß § 75 SGB VIII; - Kenntnis genommen
+- TOP 8.5.3: Jugendschöffenwahl 2018 - Kenntnis genommen
