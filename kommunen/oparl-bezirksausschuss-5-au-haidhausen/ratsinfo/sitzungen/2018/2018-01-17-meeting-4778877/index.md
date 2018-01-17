@@ -1,0 +1,141 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-01-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4778877
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4778877
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 2.2.: Rosenheimer Str. 72: Anbau von 8 Balkonen
+- TOP 0.: Information durch Vertreter der MVG zur geplanten Trambaumaßnahme Ismaninger Straße
+- TOP 4.: Bürgeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Ergänzungen: - zu 4.2.1: Antrag „Verkehrsüberwachung auf dem Fahrrad“ (Antrag Nr. 4469) - zu 2.3: Antrag „Vorgesehene Sanierungsarbeiten an der GS Mariahilfplatz, sowie der dortigen Kita und dem Hort“ - zu 2.3: Antrag „Überfällige Aufwertung des Franziskus-Brunnens und seiner unmittelbaren Umgebung aus Anlass der Sanierung der Mariahilf-Schule“
+- TOP 4.2.1.: Verparkte Radwege in der Rosenheimer Straße
+- TOP 4.2.2.: Bettler am Ostbahnhof (Antwortschreiben Polizeiinspektion liegt bereits vor)
+- TOP 4.2.3.: Baumaßnahmen „Am alten Eiswerk“
+- TOP 4.2.4.: Aufstellen von Hundekotbeutelspender inkl. Mülleimer in der Rablstraße gegenüber Hausnummer 2 und 10
+- TOP 4.2.5.: Diskussion über Fahrradstellplätze der DB-Räder auf dem Orleansplatz Verweisung aus der Sitzung vom 13.12.2017
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Europäische Janusz Korcak Akademie München e.V. (EJKA) Zwei Aufführungen des Kindersingspiels „Das Postamt“ ab dem 26.06.2018 2.280,00€ - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Koop e.V. Isarsprudel – Kunst am Fluß vom 20. bis 26.08.2018 2.500,00€ - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Antrag auf Erweiterung einer bestehenden Freischankfläche für „Kai&#039;s Kitchen“, Einsteinstr. 50 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Bezirksausschuss-Infokästen
+- TOP 7.1.: Mieterbeiratswahl 2018 Entsendung von stimmberechtigten Mitgliedern
+- TOP 8.1.1.: Ausbau des Umweltverbundes in Au-Haidhausen; hier: - Planung und Bau der neuen Tramlinie vom Ostbahnhof nach Neuperlach Süd (Ziffer 1 des Antrags) - Aufnahme von Planungen für den Südring (Ziffer 7 des Antrags)
+- TOP 8.1.2.: Ausbau des Umweltverbundes in Au-Haidhausen; hier: Schaffung von Radstellplätzen vorm Ostbahnhof (Ziffer 6 des Antrags)
+- TOP 8.1.3.: Fortschreibung der Münchner Schulentwicklung - Datenblatt GS Bazeillesstraße
+- TOP 8.1.4.: Zebrastreifen am Tassiloplatz
+- TOP 8.1.5.: Seniorenbeiratswahl 2021: Mehr Vorstellungstermine in Au-Haidhausen organisieren !
+- TOP 8.1.6.: Informationen über den Stand der Planungen zum 2. S-Bahn-Tunnel
+- TOP 8.1.7.: Wettbewerb zur Umgestaltung des Orleansplatzes
+- TOP 8.1.8.: Orleansplatz: Architektenwettbewerb
+- TOP 8.1.9.: Barrierefreier Versammlungsraum bei Bürgerversammlungen
+- TOP 8.1.10.: Auer Dult I: Lücken in den Standl-Reihen; Erhalt des gewachsenen Charakters der Auer Dult Anfrage
+- TOP 8.1.11.: Auer Dult II: Keine gleichzeitigen Hofflohmärkte im Stadtbezirk
+- TOP 8.1.12.: Rückbau des baulich getrennten Restradweges vor der Orleansstr. 46 bis zur Ampelanlage vor dem Busbahnhof
+- TOP 8.2.1.: Nutzung des 2. S-Bahntunnels für anderen PNV als S-Bahnverkehr Anfrage aus der Bürgerversammlung vom 18.05.2017
+- TOP 8.2.2.: Denkmalantrag „Weiße Rose“ BA-Antrag Nr. 14-20 / B 03633 Bitte um Fristverlängerung bis 30.04.2018
+- TOP 8.2.3.: Umbau der Kreuzung Reger-/Welfenstraße
+- TOP 8.2.4.: Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar
+- TOP 8.2.5.: Bushaltestelle vor dem Berufsschulzentrum optimieren BA-Antrag Nr. 4156 Bitte um Fristverlängerung bis 06.03.2018
+- TOP 8.2.6.: Antrag auf Verlegung des Eingangs in die Frühlingsanlagen => dazu: erneutes Bürgeranliegen
+- TOP 8.3.1.: Vorläufiges Ergebnis der Seniorenbeiratswahl für den 5. Stadtbezirk
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schulstandort Regerplatz 1: Prüfung von Interimspausenflächen auf öffentlichem Grund während Baumaßnahmen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fortschreibung der Münchner Schulentwicklung – Datenblatt GS Bazeilles- straße BA-Antrag Nr. 14-20 / B 04256
+- TOP 3.2.: Mehrjahresinvestitionsprogramm 2017-2021; Maßnahmen im Bereich des Kommunalreferates Sitzungsvorlagen Nr. 14-20 / V 10303, Beschluss des Kommunalausschusses vom 30.11.2017
+- TOP 3.3.: Flurstr. 4, Informationstermin Mietpavillon am 15.11.2017
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Europäische Janusz Korcak Akademie München e.V. (EJKA) Zwei Aufführungen des Kindersingspiels „Das Postamt“ ab dem 26.06.2018 2.280,00€
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Koop e.V. Isarsprudel – Kunst am Fluß vom 20. bis 26.08.2018 2.500,00€
+- TOP 1.3.: Antrag auf Erweiterung einer bestehenden Freischankfläche für „Kai&#039;s Kitchen“, Einsteinstr. 50
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kinderaktionen des AKA e.V. a) vom 14.05.-18.05.2018 auf dem Tassiloplatz b) vom 11.06.-15.06.2018 auf dem Johannisplatz c) ganzjährig Mittwochs auf der Postwiese d) ganzjährig Dienstags im Hypopark e) Donnerstags von April-Oktober auf dem Kegelhof
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verwendungsnachweis / Abrechnung für Zuschuss aus dem Budget des BA 5: - Tanzprojekt des Elternbeirats der Grundschule Mariahilfplatz - Sommerfest der Teestube „komm“ - Weihnachtsfeier 2017 Katholischen Männerfürsorgevereins, Wohnheim Franziskanerstraße - Anschaffung von Trikots und Caps der Haidhauser Haie => dazu: Bürgeranliegen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Einladung zum Jahrestreffen der Bezirksausschüsse mit dem Referat für Stadtplanung am 27.02.2018 oder 28.02.2018 um 17 Uhr
+- TOP 2.3.: Mariahilfplatz 17a – 18: Schulbauoffensive – Sanierung Schule und Kita, Dachausbau Dienstwohnung
+- TOP 2.4.: Am Neudeck 10 – 14: Nutzungsänderung der ehemaligen JVA zu einem Wohngebäude (127 WE), Umbau und Sanierung der Bestandsgebäude, Anfügen von Anbauten und DG-Ausbau, Neubau einer Tiefgarage (82 Stellplätze), Tektur
+- TOP 2.5.: Balanstr. 49: Häuser A+B+C / 4. OG: Änderung der Fluchtwegsituation einer Büroeinheit mit neuer Raumaufteilung
+- TOP 2.6.: Vorgesehene Sanierungsarbeiten an der GS Mariahilfplatz, sowie der dortigen Kita und dem Hort
+- TOP 2.7.: Überfällige Aufwertung des Franziskus-Brunnens und seiner unmittelbaren Umgebung aus Anlass der Sanierung der Mariahilf-Schule
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baugenehmigung Claude-Lorrain-Str. 5
+- TOP 3.2.: Für ein Isarquartier der Kultur - Brücken zwischen Gasteig, Muffatwerk und Deutschem Museum schlagen Sitzungsvorlagen Nr. 14-20 / V 09579, Beschluss der Vollversammlung des Stadtrates vom 18.10.2017
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Information durch Vertreter der MVG zur geplanten Trambaumaßnahme Ismaninger Straße
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Programm Barrierefreie Bushaltestellen: Pilgersheimer Straße, Haltestelle Humboldtstraße
+- TOP 2.2.: Austausch von Lichtsignalanlagen, hier: Balanstraße / Pariser Straße
+- TOP 2.3.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Einsteinstraße
+- TOP 2.4.: Einsteinstraße: Einrichtung einer Kurzparkzone im Bereich des Friedhofs Haidhausen
+- TOP 2.5.: Stoppt den Zuglärm Kolumbusplatz – Braunauer Brücke Empfehlung Nr. 14-20 / E 01648 der Bürgerversammlung vom 29.06.2017
+- TOP 2.6.: Am Herrgottseck 2: Fällung von 1 Spitzahorn
+- TOP 2.7.: Mariahilfplatz 17: Fällung von 2 Bäumen
+- TOP 2.8.: Falkenstr. 48: Fällung von 1 Ahorn, 1 Weide und 2 Robinien
+- TOP 2.9.: Grillparzerstr. 32: Fällung von 1 Baum
+- TOP 2.10.: Auerfeldstr. 20: Fällung von 1 Kirsche
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 3.2.: „Dialog-Displays“ in München Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch Sitzungsvorlagen Nr. 14-20 / V 09768, Beschluss der Vollversammlung des Stadtrats vom 13.12.2017
+- TOP 3.3.: Parkraummanagement in München – Fortschreibung Sektor V Sitzungsvorlagen Nr. 14-20 / V 8574, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017
+- TOP 3.4.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume im 5. Stadtbezirk
+- TOP 4.1.: Antrag auf Fällung einer Birke der Pfarrei Mariahilfplatz
+- TOP 4.2.: Rettungsschacht 2. S-Bahn-Stammstrecke
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 05.02.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 05.02.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 06.02.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 07.02.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 08.02.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: - Sondersitzung zum Thema „Maxwerk“ am Mittwoch, 24.01.2018 um 19 Uhr, Friedenstr. 40 - Sondersitzung mit Augustiner zum Thema „Maxwerk“ am Donnerstag, 25.01.2018 um 19 Uhr, Friedenstr. 40
+- TOP 3.2.: Mittwoch, 21.02.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 30.01.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Einladung zur 2. Sitzung der Strategiegruppe „Nächtliches Feiern“ am 16.01.2018
+- TOP 4.2.: Einladung zur Ausstellungseröffnung „Kinderbilder zu Sterben, Tod und Trauer“ am 13.01.2018
+- TOP 4.3.: Einladung zum Don-Bosco-Fest am 26.01. und 28.01.2018
+- TOP 4.4.: Einladung zur Tagung am 20.02.2018 "Radlhauptstadt München ? - Was braucht es dazu bis 2030 ?"
+- TOP 4.5.: Bürgerversammlung Au am 22.02.2018 im Pestalozzi-Gymnasium Bürgerversammlung Haidhausen am 01.03.2018 im Hofbräukeller
