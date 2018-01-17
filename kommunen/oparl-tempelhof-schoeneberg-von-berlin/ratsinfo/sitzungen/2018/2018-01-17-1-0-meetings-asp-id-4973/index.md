@@ -1,0 +1,84 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2018-01-17T17:00:00+01:00
+- Ende: 2018-01-17T22:10:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4973
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4973
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=296868
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Sitzmöglichkeiten im Bose-Stadion reparieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Friedrich-Ebert-Stadion schnellstmöglich wieder nutzbar machen - überwiesen
+- TOP 6.3: Von Ludwig Heck als Namenspatron distanzieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Gemeinsame Umfrage mit dem Nachbarbezirk Mitte zu den Belastungen der Prostitution im Kurfürstenkiez - in der BVV abgelehnt
+- TOP 6.5: Bebauung von ehemaligen Bestattungsflächen unterbinden - überwiesen
+- TOP 6.6: Aufstellung eines Bebauungsplans zum Ankogelbad unverzüglich beginnen - zurückgezogen
+- TOP 6.7: Gewalt gegen Frauen nicht ignorieren - beantwortet
+- TOP 6.8: Welche Rolle will das Bezirksamt für das Multifunktionsbad Mariendorf spielen? - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: In Tempelhof-Schöneberg gibt es keinen Raum für Antisemitismus und Rassismus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Schulessen in der Spreewald-Grundschule - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Verkehrskonzept für Schöneberg Nord - überwiesen
+- TOP 9.2: Endlich Sicherheit auf dem Schulweg gewährleisten - Arbeitskreis Kinderverkehrssicherheit einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Den „Crellemarkt“ im Fokus - überwiesen
+- TOP 9.4: Wiederaufnahme des Grabes von Ottomar Anschütz in die Liste der Berliner Ehrengräber - überwiesen
+- TOP 9.5: Brandschutz an Kitas und Schulen sicherstellen - überwiesen
+- TOP 9.6: Chancen am Attilaplatz - überwiesen
+- TOP 9.7: Back to the future: digitale Zukunft der Schule vorantreiben! - überwiesen
+- TOP 9.8: Keinen dauerhaften Sperrmüll-Abstellplatz am Crellemarkt entstehen lassen! - überwiesen
+- TOP 9.9: Saubere Luft im Bezirk - überwiesen
+- TOP 9.10: Programm „Barrierefreie öffentliche Räume“ für Tempelhof-Schöneberg nutzen - überwiesen
+- TOP 9.11: Behindertenparkplätze vor Friedhöfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Feuerwerk ja, aber nicht in dieser Form - vertagt
+- TOP 9.13: Maßnahmen zur Erhöhung der Verkehrssicherheit für den Bereich Potsdamer Straße/Goebenstraße-Pallasstraße anregen - überwiesen
+- TOP 9.14: Neue Bilder braucht der Saal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.15: Erhalt des Ehrengrabes von Ottomar Anschütz auf dem Friedhof Stubenrauchstraße - überwiesen
+- TOP 9.16: Hinweis auf die Vorfahrtregelung an der Einmündung der Straße „Am Rathaus“ - überwiesen
+- TOP 9.17: Fehlende Beleuchtung auf öffentlichen Wegen bei der zuständigen Senatsverwaltung anmahnen - überwiesen
+- TOP 9.18: Mehr Fahrradständer im Nahariyaquartier - überwiesen
+- TOP 9.19: Zeitplan für Sanitär- und Umkleidecontainer für die Halker Zeile - vertagt
+- TOP 9.20: Auf die vier Kliniken im Bezirk besonders hinweisen - überwiesen
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bezirkliche Bälle aus fairem Handel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Nutzung des Grundstücks Marienfelder Allee 222-244 für Bildung und Sport - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Seniorenvertretung weiter stärken – Aufwandsentschädigung neu regeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Quartiersmanagement soll im Schöneberger Norden fortgesetzt werden - vertagt
+- TOP 11.5: Aktualisierung der Bürgermeistergalerie im Vorraum des BVV Saales - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Büroräumlichkeiten für den Verein "frag doch" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Merkblatt über die Vergabe von Sondermitteln durch die BVV - vertagt
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Festsetzung des Bebauungsplans 7-47 für die Fläche zwischen Hildegard-Knef-Platz, Lotte-Laserstein-Straße, Sachsendamm und der Hedwig-Dohm-Straße (Grundstück Sachsendamm 55-60) sowie für die Hedwig-Dohm-Straße und die Wilhelm-Kabus-Straße zwischen Ringbahn und Tempelhofer Weg im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 12.2: des Bezirksamtes Tempelhof-Schöneberg von Berlin gemäß § 12 Absatz 2 Nummer 4 des Bezirksverwaltungsgesetzes (BezVG) über eine Erhaltungsverordnung für das Gebiet „Schöneberger Norden“, in der anliegenden Karte mit einer durchgezogenen Linie eingegrenzt, im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - überwiesen
+- TOP 12.3: des Bezirksamtes Tempelhof-Schöneberg von Berlin gemäß § 12 Absatz 2 Nummer 4 des Bezirksverwaltungsgesetzes (BezVG) über eine Erhaltungsverordnung für das Gebiet „Schöneberger Süden“, in der anliegenden Karte mit einer durchgezogenen Linie eingegrenzt, im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Gehwegvorschub Martin-Luther-Str / Winterfeldtstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.2: Zugang zur Tempelhofer Freiheit sicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Änderung der Verkehrsführung am Innsbrucker Platz prüfen - überwiesen
+- TOP 13.4: Stadtmöblierung für Senior*innen und Menschen mit Behinderungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Gesundheitsamt personell aufrüsten - Handlungsfähigkeit erhalten - überwiesen
+- TOP 13.6: Fußgängerüberweg im Töpchiner Weg schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Ausweisung der Marienfelder Feldmark als Landschaftsschutzgebiet - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.8: Grünzug Innsbrucker Straße zwischen Bayerischem Platz und Insbrucker Platz grundlegend instand setzen - überwiesen
+- TOP 13.9: Raserei in der Bülow- und Kleiststraße endlich stoppen, die Straßenverkehrsordnung gilt auch im Ortsteil Schöneberg! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Tierschutz auf Friedhöfen verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Parkverbot Albertstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Badezimmer auf Rädern - überwiesen
+- TOP 13.13: Aufstellung des Bebauungsplans 7-88 für das Grundstück Ankogelweg 95 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - vertagt
+- TOP 13.14: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Erweiterung des Geltungs-bereiches des im Verfahren befindlichen Bebauungsplanes 7-69 für eine Teilfläche des Flurstücks 28, der Flur 61 zwischen Crellestraße, S-Bahn-Trasse, der südöstlichenGrenze des Grundstücks Crellestraße 22 A im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg um das Flurstück 23 der Flur 61 sowie bis Straßenmitte Crellestraße (vgl. Anlage 2). Der Titel des Bebauungsplanes lautet nunmehr: Bebauungsplan 7-69... - überwiesen
+- TOP 13.15: Erneutes Anzeigeverfahren gemäß § 6 Abs. 2 des Gesetzes zur Ausführung des Baugesetzbuches (AGBauGB) zum Entwurf des Bebauungsplans 7-74 für das Grundstück Tempelhofer Weg 25-26, Gotenstraße 34-43, Sachsendamm 65-66 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
