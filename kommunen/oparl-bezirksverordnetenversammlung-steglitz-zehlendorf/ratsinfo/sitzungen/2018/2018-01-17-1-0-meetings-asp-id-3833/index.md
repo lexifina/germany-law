@@ -1,0 +1,79 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-01-17T17:00:00+01:00
+- Ende: 2018-01-17T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3833
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3833
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - im Ausschuss abgelehnt
+- TOP 3.1: Wie eng ist es an unseren Grundschulen 2018? - beantwortet
+- TOP 3.2: Hat der Bezirk sämtliche Mittel, insbesondere die aus dem Schul- und Sportanlagensanierungsprogramm (SSSP), in 2017 verausgabt, oder „müssen Schüler darunter leiden und Lehrer verzweifeln“, dass dies nicht geschehen ist? - beantwortet
+- TOP 3.3: Stirbt der Markt auf dem Hermann-Ehlers-Platz? - beantwortet
+- TOP 3.4: Studentisches Wohnen auf dem Gelände der ehemaligen FU–Anatomie? - beantwortet
+- TOP 3.5: Musik- und Volkshochschullehrkräfte - beantwortet
+- TOP 3.6: Sind unbegleitete minderjährige Flüchtlinge tatsächlich minderjährig? - beantwortet
+- TOP 3.7: Bearbeitungszeiten im Standesamt - schriftlich beantwortet
+- TOP 3.8: Bänke für den Hermann-Ehlers-Platz - Lässt das Bezirksamt zu schnell locker? - schriftlich beantwortet
+- TOP 3.9: Wenn es zum Schlimmsten gekommen ist – Todesanzeigen im Bürgeramt Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 3.10: Stillstand in der Dessauerstraße 37 in Lankwitz - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Kostengünstig neue Radwege und gleichzeitig sicherere Gehwege im Bezirk möglich? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Querung der Königsberger Straße erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Parken in Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Toilette Onkel Toms Hütte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vernünftige Ampelschaltungen für Fußgänger an Kranoldplatz und Lankwitzer Straße / Fußgänger nicht hetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Temporäre Sporthallen - in der BVV abgelehnt
+- TOP 4.8: Ampelanlage Wupperstraße/Ecke Goerzallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Kennzeichnung der Skulptur "Säugende Bärin" von Hugo Lederer - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Kreuzung Niklasstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Aufstellen von Mülleimern an der Rehwiese - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: S-Bahnhof Feuerbachstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Schulwegsicherung Friedrich-Drake-Grundschule, Drakestraße 80, 12205 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Testbetrieb – mehr Sicherheit durch 3D Zebrastreifen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Verkehrsberuhigung auf dem Dahlemer Weg zwischen Mühlenstraße und Berliner Straße/ "Tempo 30 auf dem Dahlemer Weg – denn warten müssen wir sowieso!" - in der BVV abgelehnt
+- TOP 4.16: Barrierefreiheit an der Haltestelle Pinnauweg sicherstellen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Tempo 30 in der Appenzeller Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Sicherheit für Fußgänger im Nieritzweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Auch tagsüber Tempo 30 in der Lepsiusstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Schulweg sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Verkehrsspiegel für Kreuzung Ahlener Weg/Holtheimer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Nachwahl eines weiteren Mitgliedes in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Unangekündigte Pflegeheimkontrollen - überwiesen
+- TOP 5.2: Prioritätenliste für Bänke in Steglitz-Zehlendorf - überwiesen
+- TOP 5.3: Feuerwehrzufahrt und -aufstellfläche in der Treitschkestraße freihalten - überwiesen
+- TOP 5.4: Fahrradwracks am S-Bahnhof Feuerbachstraße entfernen - überwiesen
+- TOP 5.5: WiFi4EU: Freies WLAN im Bezirk ausbauen - überwiesen
+- TOP 5.6: Die Bezirksverordnetenversammlung muss sich leider noch immer Gehör verschaffen - überwiesen
+- TOP 5.7: Videoaufklärung gegen Fahrradklau - überwiesen
+- TOP 5.8: Sitzbänke für den Hermann-Ehlers-Platz - überwiesen
+- TOP 5.9: Weg am Teltowkanal instand setzen - überwiesen
+- TOP 5.10: Fahrradbügel in der Schloßstraße ohne Verankerung - überwiesen
+- TOP 5.11: Summend durch den Sommer: Blühstreifen für Bienen und andere Insekten am Rathaus Zehlendorf - überwiesen
+- TOP 5.12: Beleuchtung auf dem Marienplatz einrichten - überwiesen
+- TOP 5.13: Elektronisches Genehmigungsverfahren zur Sondernutzung von Straßenland (eGeStra) in Steglitz-Zehlendorf einführen - überwiesen
+- TOP 5.14: Rad sicher bis Teltow führen, Bus beschleunigen, Allee fortführen - überwiesen
+- TOP 5.15: Fahrradleichen am S-Bahnhof Rathaus-Steglitz entfernen - überwiesen
+- TOP 5.16: Bezirkspolitik ganz nüchtern betrachtet - überwiesen
+- TOP 5.17: Kosten für die kontinuierliche Verkehrsplanung für den B-Plan 6-30 (Lichterfelde-Süd) verbindlich im städtebaulichen Vertrag regeln! - überwiesen
+- TOP 5.18: Alternative Antriebe bei Fahrzeugneubeschaffungen berücksichtigen - überwiesen
+- TOP 5.19: Müllbehälter für den Parkplatz Stadion Wannsee - überwiesen
+- TOP 5.20: Stele für Richard Draemert - überwiesen
+- TOP 5.21: Übergang der John-F.-Kennedy-Schule aus der bezirklichen Verwaltung in die Zentralverwaltung der Senatsverwaltung für Bildung, Jugend und Familie - überwiesen
+- TOP 6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1: Milieuschutz in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Clearing- und Ombudsstelle für das Jobcenter Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Vandalismus ist unsozial - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Instandsetzung des Kriegerdenkmals im Gemeindepark Lankwitz - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Kenntnisnahme - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1: Denkmalbeirat adé – oder wie sich das Bezirksamt unerwünschten Sachverstands entledigte! - zur Kenntnis genommen (Beratungsfolge beendet)
