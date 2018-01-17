@@ -1,0 +1,71 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709178
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709178
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte der Polizei
+- TOP 3.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 2: Bürgeranliegen
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Frankfurter Ring, Nutzungsänderung Ladenfläche zu Wettbüro
+- TOP 4.4.1.: Parkplätze erhalten - Eingeschränktes Haltverbot auf der Ostseite der Bischof-Adalbert-Straße bleibt bestehen
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 2.1.: Parksituation in der Rockefellerstraße
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Zukunft Am Hart e.V. Vortrag "Wie war das eigentlich - damals?" am 31.01.2018 267,00€ Az. 0262.0-11-0267
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Verkehrsüberwachung in der Griegstraße und in der Milbertshofener Straße
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Aufstellung eines öffentlichen Abfalleimers mit Aschenbechers an der Ampel Lieberweg vor dem Anwesen Lieberweg 42
+- TOP 7.2.2.: Kämpferstraße 2 - 10: Antrag auf Einzelbaudenkmalschutz mit Gartendenkmal
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Mieterbeiratswahl 2018 - Entsendung von stimmberechtigten Mitgliedern
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Taunusstr. 51 - Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 8.2.2.: Bauvorhaben: Lerchenauer Str 76 - Genehmigungskonformität
+- TOP 8.2.3.: Schleißheimer Str. - Erweiterung des Parkhauses FIZ-Gelände Nord (Knorrstr. / Schleißheimer Str.)
+- TOP 8.2.4.: Verlegung der Polizeihubschrauberstaffel nach Oberschleißheim
+- TOP 8.2.5.: Bernaysstr. 35 – Schulbauoffensive – Abbruch des Bestands und Neubau einer Grund- und Mittelschule mit Versammlungsstätte, Tiefgarage und Sporthalle
+- TOP 8.2.6.: Georgenschwaigstr. 37 - Neubau eines Mehrfamilienhauses mit Rückgebäude und Tiefgarage
+- TOP 8.3: Kultur / Soziales
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Austausch von Lichtsignalanlagen: a) Ackermannstr. /Spiridon-Louis-Ring b) Heidemann-/ Paracelsusstr.
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Winzererstr. 97: Unveränderte Fortführung des Gaststättenbetriebes "Taverna Am Olympiapark"
+- TOP 9.1.2.: Sachbericht des kostenfreien Spielprogramms im Rahmen des Lilalu Familienprogramms "Umsonst und draußen" 2017
+- TOP 9.1.3.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: a) Evangelisches Hilfswerk München b) Arbeitsgruppe Buhlstr. e.V. c) Örtl. Arbeitsgemeinschaft Seniorenarbeit, Alten- u. Service-Zentrum d) Katholisches Pfarramt Frieden Christi e) Stadtteilarbeit e.V. f) VdK OV Milbertshofen g) Evangelisches Hilfswerk München
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheide: a) Keferloherstr. 130 b) Torquato-Tasso-Str. 45 c) Korbinianstr. 34-38
+- TOP 9.2.2.: Meldelisten der Lokalbaukommission über Bauvorhaben im Stadtbezirk 11
+- TOP 9.2.3.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Anordnungen des KVR nach § 45 StVO: a) Silcherstr. 23-27 - Feuerwehrzufahrt b) Rathenaustr. -Einrichtung absolutes Haltverbot c) Schleißheimer Str. - Arbeiten im Straßenraum d) Augustin-Rösch-Str. - Haltverbot zur Freihaltung der Bushaltestelle (Linie 172 Ri. Dachau)
+- TOP 9.4.2.: (U) Verkehrskonzept Münchner Norden Teil Mobilitätsmanagement
+- TOP 9.4.3.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 9.4.4.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
