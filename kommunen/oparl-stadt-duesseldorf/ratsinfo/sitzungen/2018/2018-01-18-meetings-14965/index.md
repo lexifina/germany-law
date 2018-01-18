@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-01-18T17:00:00+01:00
+- Ende: 2018-01-18T19:37:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14965
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14965
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00308470.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00308470.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00308470.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Vorstellung des Dezernenten für Recht, Ordnung und Wohnen - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bezirkssportanlage Vennhauser Allee 129 (Eller 04): Erneuerung der 5m-Räume - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Verkehrsversuch Erkrather Str.-ÖPNV-Spur zwischen Egilweg und Schlesische Str. (Fahrtr.stadtausw.) - mehrheitlich beschlossen
+- TOP 10: Einrichtung eines Wochenmarktes auf dem Freiheitplatz - einstimmig beschlossen
+- TOP 11: ÖPNV im Stadtbezirk 8 - beantwortet
+- TOP 12: Verkehrsentlastung im Stadtbezirk 8 - beantwortet
+- TOP 13: Videoüberwachung S-Bahnhöfe Eller Süd und Eller Mitte - beantwortet
+- TOP 14: Kfz-Zulassungen im Stadtbezirk 8 - beantwortet
+- TOP 15: Spielhallen im Stadtbezirk 8 - beantwortet
+- TOP 16: Grundstück Vennhauser Allee 254 - beantwortet
+- TOP 17: Grundstück Ellerkirchstraße - beantwortet
+- TOP 18: Bebauung 'In der Elb' - beantwortet
+- TOP 19: Verkehrsregelung Sandträgerweg - vertagt
+- TOP 20: Verkehrsregelung Drosselstraße / Vennhauser Allee - einstimmig beschlossen
+- TOP 21: Tempo 30 - Piktogramme auf der Schweidnitzer Straße und Breslauer Straße - einstimmig beschlossen
+- TOP 22: Piktogramm auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 23: Tempo 30 - Piktogramm auf der Krippstraße - zur Kenntnis genommen
+- TOP 24: Aufsuchende Arbeit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 25: Verlagerung der JFE Kuthsweg 43 zum Gatherweg 109 - zur Kenntnis genommen
+- TOP 26: Kinder- und Jugendarbeit – AWO Hasseler Richtweg 74d - 76d - zur Kenntnis genommen
+- TOP 27: Hundeauslaufplatz Haustertshofweg - zur Kenntnis genommen
+- TOP 28: RRX - Planung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Radwegeplanung Gubener Straße - zur Kenntnis genommen
+- TOP 30: Videoüberwachung an Haltestellen und S-Bahnhöfen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Grünordnungsrahmenplan für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Verkehrsversuch Höherweg Ergebnis - zur Kenntnis genommen
+- TOP 33: Reichenbacher Weg / Neusalzer Weg - Verkehrssituation - zur Kenntnis genommen
+- TOP 34: Straßennamenschilder - Zusätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Kfz - Zulassungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Übermittlung von Beschlüssen - zur Kenntnis genommen
+- TOP 37: Luftqualitätmessungen an Kreuzungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Verkehrssituation Vennhauser Allee - zur Kenntnis genommen
+- TOP 39: Grünpflege am S-Bahnhof Eller Süd - zur Kenntnis genommen
+- TOP 40: Beleuchtung am S-Bahnhof Eller Süd - zur Kenntnis genommen
