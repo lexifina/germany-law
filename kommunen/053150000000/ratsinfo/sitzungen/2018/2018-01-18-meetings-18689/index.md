@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-18T16:06:00+01:00
+- Ende: 2018-01-18T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18689
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18689
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645893.pdf
+- Ergebnisprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645893.pdf
+- Wortprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645893.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Kölner Vorgärten - Sache ist erledigt
+- TOP 1.1.1: Kölner Vorgärten; Anfrage der Faktion DIE LINKE im Rat vom 11.09.2017; AN/1282/2017 - Kenntnis genommen
+- TOP 1.2: Betrieb städtischer Gebäude im Passivhaus-Standard - zurückgestellt
+- TOP 1.3: Verbreiterung der A59 - Kompenstionsmaßnahmen im Rechtsrheinischen - zurückgestellt
+- TOP 1.4: Anfrage der SPD-Fraktion vom 22.12.2017Sachstand zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs und Prüfung alternativer Standorte einer Hubschrauberbetriebsstation in Köln - zurückgestellt
+- TOP 1.5: Biodiversität im Zuge der Umsetzung zweier Beschlüsse - zurückgestellt
+- TOP 1.6: Zukunftsorientierte Nah- und Fernwärme in Köln - Sache ist erledigt
+- TOP 1.6.1: Zukunftsorientierte Nah- und Fernwärme in Köln - Kenntnis genommen
+- TOP 1.7: Kölner Umweltzone - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Überarbeitung des Pflege- und Entwicklungsplans für das Naturschutzgebiet "Flittarder Rheinauen" - endgültig abgelehnt
+- TOP 2.1.1: Antrag der FDP-Fraktion: Überarbeitung des Pflege- und Entwicklungsplans für das Naturschutzgebiet "Flittarder Rheinauen" - Kenntnis genommen
+- TOP 2.2: Ideen für weniger Abfall in Köln entwickeln, bündeln und umsetzen! - endgültig abgelehnt
+- TOP 2.2.1: Ideen für weniger Abfall in Köln entwickeln, bündeln und umsetzen! (AN/0016/2018) - endgültig abgelehnt
+- TOP 2.3: Bienenfreundliches Köln - Sache ist erledigt
+- TOP 2.3.1: Änderungs- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Rahmenvertrag über die Lieferung von Dienst- und Schutzkleidung - ungeändert beschlossen
+- TOP 4.2: Kleingartenwettbewerb "Bunte Gartenvielfalt" - ungeändert beschlossen
+- TOP 4.2.1: Kleingartenwettbewerb "Bunte Gartenvielfalt" - endgültig abgelehnt
+- TOP 4.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - zurückgestellt
+- TOP 4.3.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - zurückgestellt
+- TOP 4.4: Gestaltungsplanung für ein Kooperationsgräberfeld auf dem Friedhof Kalk - ungeändert beschlossen
+- TOP 4.5: Katzenschutzverordnung - ungeändert empfohlen
+- TOP 4.6: Ganzjährige Sperrung des Zollstocker Weges entlang des Kalscheurer Weihers - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Energiebericht der Museen 2016 - Kenntnis genommen
+- TOP 7.2: Köln kooperiert - Regionale Kooperation voranbringen und Regionalplan-Überarbeitung: Informationsveranstaltung am 24.11.2017 - Kenntnis genommen
+- TOP 7.3: Allgemeinverfügung zur Einschränkung der Reitnutzung in Waldgebieten - Kenntnis genommen
+- TOP 7.4: Beschluss des Ausschusses für Umwelt und Grün vom 12.10.2017 - Kenntnis genommen
+- TOP 7.5: Durchforstungsplanung 2018 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 7.6: Aufwertung von Plätzen in den Stadtbezirken; AN/0922/2017 - Kenntnis genommen
+- TOP 7.7: Leitprojekte zum Haushalt 2018 des Dezernats Soziales, Integration und Umwelt - Kenntnis genommen
+- TOP 7.8: Leitprojekt "Köln aufräumen", Dezernat Stadtentwicklung, Planen und Bauen - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
