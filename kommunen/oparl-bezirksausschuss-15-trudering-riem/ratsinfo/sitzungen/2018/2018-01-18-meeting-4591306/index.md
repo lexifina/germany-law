@@ -1,0 +1,127 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2018-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4591306
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4591306
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.2.4.: verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 1.3.1.: 7.1.3 Anhörung VA in städtischen Grünanlagen; Truderinger Faschingstreiben am 13.02.2018 auf dem Festplatz Trudering (Wasserburger Landstr./Ecke Feldbergstr.) - Termin: 29.01.2018
+- TOP 1.3.2.: 7.1.4 (ohne Vorberatung im UA) Gedenkfeier am 06.02.2018 Manchesterplatz gem. §29 der StVO Termin: 30.01.2018
+- TOP 1.3.3.: 7.3.1 Bebauungsplan Fauststraße 90 Empfehlung Nr. 14-20 / E 01707 der Bürgerversammlung des Stadtbezirkes 15 – Trudering-Riem am 05.10.2017 Beteiligung der Öffentlichkeit an der Bauleitplanung Fauststraße 90 Empfehlung Nr. 14-20 / E 01708 der Bürgerversammlung de Stadtbezirkes 15 - Trudering-Riem am 05.10.2017 Grund- und Trinkwasserschutz – akut während der Bauphase, dauerhaft wegen der baulichen Veränderung der Fauststraße 90 Empfehlung Nr. 14-20 / E 01709 der Bürgerversammlung de Stadtbezirkes 15 - Trudering-Riem am 05.10.2017 Gutachten Natur- und Landschaftsschutz Fauststraße 90 Empfehlung Nr. 14-20 / E 01710 der Bürgerversammlung de Stadtbezirkes 15 - Trudering-Riem am 05.10.2017 Sitzungsvorlagen Nr. 14-20 / V 10622 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom xx.xx.xxxx (SB) Öffentliche Sitzung Stellungnahme des Bezirksausschusses zum Entwurf
+- TOP 1.3.4.: 7.4.10 Dachsteinstraße 5-9, Fl.Nr.: 758/0 - TEKTUR zu 1.2-2017-22106-32 - Errichtung von 4 Mehrfamilienhäusern mit Tiefgarage
+- TOP 1.3.5.: 8.2.18 Häherweg 17 8.2.19 Schäßburger Str. 24 8.2.20 Wachtelweg 6 8.2.21 Dachsteinstraße 5-9 8.2.22 Heinrich-Wieland-Straße 99-101 8.2.23 Großfriedrichsburger Straße 20
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Chorgemeinschaft St. Peter und Paul Trudering Neujahrskonzert am 21.01.2018 1.515,00 € Az: 0262.0-15-0235
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Ensemble Littera Mobile "Liaisons mit Picasso", ab dem 15.01.2018 1.500,00 € Az: 0262.0-15-0237
+- TOP 2.2.1.: (E) Aufstellen von Trinkwasserbrunnen im Riemer Park Empfehlung Nr. 14-20 / E 01703 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 05.10.2017
+- TOP 2.2.2.: (E) + (U) Feuerfeste Abfallbehälter an prominenten Stellen der S-Bahn Haltestelle Riem Empfehlung Nr. 14-20 / E 01704 der Bürgerversammlung des Stadtbezirkes 15 – Trudering-Riem am 05.10.2017
+- TOP 2.2.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung der Gesamtstrecke der Joseph-Wild-Straße, der Teilstrecke der Graf-zu-Castell-Straße, der Gesamtstrecke der Hanns-Schwindt-Straße, der Gesamtstrecke der Werner-Eckert-Straße und der Teilstrecke des Edinburghplatzes (Nordseite)
+- TOP 3.1.1.: Wasserburger Landstraße - Erinnerungsstätte an den schweren Unfall vom September 2017
+- TOP 3.2.1.: Buslinie 146 - frühere Linienführung wieder einrichten Wiedervorlage aus der Julisitzung 2017
+- TOP 3.2.2.: Edinburghplatz Richtung München Trudering: Bitte um Aufhebung der Straßensperre Vertagung aus der Novembersitzung Zusammenbehandlung mit TOP 3.2.3
+- TOP 3.2.3.: Edinburghplatz - Schließung der Behelfsstraße und Hinweisschilder für Anwohnerparkplätze Vertagung aus der Novembersitzung Zusammenbehandlung mit TOP 3.2.2
+- TOP 3.2.4.: Bajuwarenstraße - Durchfahrtsverbot für Fahrzeuge über 3,5t: Auswirkungen auf umliegende Straßen und Alternativrouten
+- TOP 3.2.5.: Schatzbogen: Halteverbot in Höhe der Hausnummern 177 - 183 in der Zeit von 07:00 - 10:00 und 15:30 - 18:00
+- TOP 3.2.6.: Batschkastraße - Fußwegreparatur Zugang zur Parkanlage
+- TOP 3.3.1.: Riemer Park: Hundefreundlichkeit - Müll - Radfahrer erneutes Schreiben des Antragstellers
+- TOP 3.3.2.: Heinrich-Böll-Straße - Anlieferung für die Kindertagesstätte durch den Riemer Park
+- TOP 3.5.1.: Platz der Menschenrechte - Errichtung einer Boule Bahn erneutes Schreiben der Antragstellerin
+- TOP 4.1.: Trudering sattelt um – endlich moderne zeitgemäße und ausreichend große Fahrradabstellanlagen am Truderinger Bahnhof Nord u. Süd sowie U-Bhf. Moosfeld
+- TOP 4.2.: Zum Beispiel Waldfriedhof Haar: Radeln erlauben
+- TOP 4.3.: Verfügbarkeit der Fahrtreppen am Truderinger U-Bahnhof verbessern
+- TOP 5.1.: Auskunft zur Verkehrszählung am 04.07.2017 – Realisierung der Umfahrung Kirchtrudering jetzt!
+- TOP 5.2.: Projekt des Jugendzentrums Quax im Bereich Graffiti/Urban Art - Suche nach Freiflächen
+- TOP 5.3.: Anfrage: Wieweit ist die Wohnraumversorgung aufgrund Wohnungsknappheit und hoher (Miet)Preise ausschlaggebend für den Erziehermangel in München? Welche konkreten Wohnangebote bietet die Stadt derzeit auf Verlangen an? Welche weitere Ursachen kommen dafür noch in Frage?
+- TOP 5.4.: Tempo-30 Zone an der Birthälmer Straße erweitern
+- TOP 5.5.: Elf Jahre nach der BUGA: Weitere "Wilde" Wege barrierefrei machen
+- TOP 5.6.: Naturlehrpfad Heuluss - Chancen und Möglichkeiten
+- TOP 5.7.: Regeln für Hundehalter im Riemer Park
+- TOP 5.8.: Truderinger Busbahnhof 2.0 - nach 20 Jahren funktionale Schwächen beseitigen gemeinsames Antwortschreiben mit TOP 5.9
+- TOP 5.9.: Bahnhof Trudering - Nutzerkonflikte Rad- und Fußverkehr: Lösungmöglichkeiten gemeinsames Antwortschreiben mit TOP 5.8
+- TOP 5.10.: Bajuwarenpark - Fußweg Richtung Bushaltestelle Bus 139: Nutzbarkeit im Winter
+- TOP 5.11.: Am Eulenhorst- Herstellung eines Bürgersteigs zwischen dem Abschnitt Tsingtauer Straße und Iltisstraße
+- TOP 5.12.: Bahnstraße - Einhaltung der Tempo 30 Zone
+- TOP 6.1.: Anfrage barrierefreier S-Bahnhof Riem
+- TOP 6.2.: Bebauung des Grundstücks Am Hochacker 14
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Anhörung VA in städtischen Grünanlagen; Spielbusaktionen des Echo e.V. von April bis September in der Ruth-Beutler-Straße - Termin: 24.01.2018
+- TOP 7.1.2.: Laufveranstaltung XLETIX Challenge und Muddy Angel Run in München-Riem zuzügl. Feldkirchen und Haar vom 30.06. bis 01.07.2018 Anhörungsfrist bis 08.03.2018
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Haltverbot Am Oberfeld / Widmannstraße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 7.2.2.: Fabinistraße - Sanierung zwischen der Kießlingerstraße und Am Moosfeld
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Heinrich-Wieland-Straße 99-101, Fl.Nr.: 1627/2 - Neubau eines Doppel-Mehrfamilienhauses (17 WE) mit Versammlungsstätte und Tiefgarage
+- TOP 7.4.2.: Wasserburger Landstraße 221, Fl.Nr.: 438/20 - Nutzungsänderung: Bürogeschoss zu Vorschule
+- TOP 7.4.3.: Huchenstraße 48, Fl.Nr.: 334/49 - Neubau eines Zweifamilienhauses mit 2 PKW-Stellplätzen
+- TOP 7.4.4.: Erdinger Straße 8 - Fl.Nr.: 1670/0 - Neubau dreier Wohngebäude mit Doppelparkgaragen - VORBESCHEID
+- TOP 7.4.5.: Kirchtruderinger Straße 8, Fl.Nr.: 45/0 - Neubau eines Mehrfamilienhauses (8 WE) mit Unterflurparkern
+- TOP 7.4.6.: Kathreinweg 22, Fl.Nr.: 220/44 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.7.: Edeltrautstraße 29, Fl.Nr.: 408/2 - Neubau eines Mehrfamilienhauses und eines Einfamilienhauses mit Tiefgarage
+- TOP 7.4.8.: Stieglitzweg 32, Fl.Nr.: 209/44 - Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage
+- TOP 7.4.9.: Stolzhofstraße (ohne Hausnummer), Fl.Nr.: 184/21 - Neubau eines Gewerbegebäudes mit Büro, Lager, Werkstatt, Keller und Betriebsleiterwohnung
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Ausschreibung Kinder-Aktions-Koffer 2018/2019
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Ernastraße 2 Ernastraße 5 Lebzelterstraße 17 Solalindenstraße 80 Wasserburger Landstraße 282
+- TOP 8.2.1.: Am Hochacker 9 Am Moosfeld 72 Anechostraße 30 Büchmannstraße 6 Edeltrautstraße 29 Erdinger Straße 8 Hella-von-Westarp-Straße 37 - durch UNB abgelehnt Kathreinweg 22 Kirchtruderinger Straße 8 Klothildenstraße 45 Martin-Kollar-Straße 4 Mattseestraße 1 Schatzbogen 37 Scheibmeirstraße 17 Toni-Schmid-Straße 47 Waldtruderinger Straße 15 Waldtruderinger Straße 28
+- TOP 9.1.: Mieterbeiratswahl 2018 Entsendung von stimmberechtigten Mitgliedern Frist: 31.01.2018
+- TOP 9.2.: Bericht des BA-Vorsitzenden zum Budgetantrag Truderinger Burschenverein von 1895 e.V.: Anschaffung eines fahrtüchtigen und wetterbeständigen Anhängers aus der Dezembersitzung
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 10.1.1.1: Das Wohnzimmer, Schank- und Speisewirtschaft, Heinrich-Böll-Straße 75, 81829 München
+- TOP 10.1.2.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Matterhornstraße: Einrichtung eines personenbezogenen Behindertenparkplatzes verkehrsrechtliche Anordnung - ausgeführt am 01.12.2017
+- TOP 10.2.2.: Schäßburger Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes verkehrsrechtliche Anordnung - ausgeführt am 01.12.2017
+- TOP 10.2.3.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 10.2.4.1: Haltverbot zur Gewährleistung des Linienbusverkehrs in der Friedrich-Creuzer-Straße
+- TOP 10.2.4.2: Verlegung der Bücherbushaltestelle von der Erdinger Straße in die Elisabeth-Baerlein-Straße
+- TOP 10.2.4.3: Haltverbot zur Freihaltung der Bushaltestelle Von-Erckert-Straße (Fahrtrichtung Haar, Ludwig-Moser-Straße)
+- TOP 10.2.4.4: Verlegung der Bücherhaltestelle Caroline-Herschel-Straße 5 von der nördlichen Straßenseite an die südliche Straßenseite
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 10.4.1.1: Solalindenstraße 89
+- TOP 10.4.1.2: Hochnißlstraße 13
+- TOP 10.4.1.3: Helenenstraße 26
+- TOP 10.4.1.4: Ingeborgstraße 46
+- TOP 10.4.1.5: Spieljochstraße 36
+- TOP 10.4.1.6: Frauenalpweg 6
+- TOP 10.4.1.7: Schneebergstraße 28
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen auf Grünflächen Jahresmeldung 2018
+- TOP 10.6.2.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Jahresmeldung
+- TOP 10.6.3.: Einrichtung von diversen Messstellen für Stickstoffdioxid und Feinstaub im 24. Stadtbezirk BA-Antrag 14-20 / B 04030 des Bezirksausschusses des Stadtbezirkes 24 - Feldmoching - Hasenbergl vom 12.09.2017
