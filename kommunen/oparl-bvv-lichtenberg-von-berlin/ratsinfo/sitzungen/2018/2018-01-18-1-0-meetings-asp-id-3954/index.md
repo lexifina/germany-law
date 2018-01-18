@@ -1,0 +1,85 @@
+# 15. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-01-18T17:00:00+01:00
+- Ende: 2018-01-18T22:20:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3954
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3954
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=231773
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Sonderausschuss "Wachsender Bezirk Lichtenberg" - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Suermondtstraße bald unbefahrbar? - beantwortet
+- TOP 8.2: Härtefallfonds Schulmittagessen - beantwortet
+- TOP 8.3: Werbung für das mobile Bürgeramt in Hohenschönhausen - beantwortet
+- TOP 8.4: Kleingartenstatus Falkenhöhe Nord - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Stadtteilkonferenz zu den Nachverdichtungspotenzialen im Fennpfuhl - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Öffentliche Listen von öffentlichen und privaten Baumfällungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Parabolspiegel für mehr Sicherheit an der Kreuzung Schulze-Boysen-Straße/Ecke Pfarrstraße, Hauffstraße und Wiesenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Erweiterung der Aufgabenkompetenzen für Mitarbeiter-innen des Ordnungsamtes - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sitzbank für das Begegnungszentrum "Die Ahrenshooper" - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Künftige Straßennamen - überwiesen
+- TOP 9.7: Initiativen stärken und entlasten – Rahmenvertrag mit der GEMA - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Neuordnung der Abstellplätze vor dem Berliner Rockhaus - überwiesen
+- TOP 9.9: Hundeauslauffläche im Lichtenberger Stadtpark - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Vorhabenbezogener Bebauungsplan 11-114 VE – Rechtskontrolle; Arbeitstitel: Genslerstraße 17 - überwiesen
+- TOP 9.11: Sicherung der Kleingartenanlagen in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.12: Prioritätenliste für das B-Planverfahren der Kleingartenanlagen in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.13: Sicherung von Kleingartenanlagen voranbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.14: Kapitulationserklärung ins Weltdokumentenerbe aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.15: Lärmschutz in der Stolzenfelsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.16: Infotafel am Bahnhof Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.17: Vergabe eines Preises des Bezirksamtes Lichtenberg für „Frauen- und Gleichstellungspolitisches Engagement“ anlässlich des Internationalen Frauentages – Neuberufung von Mitgliedern der Jury - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.18: Aufbau eines Sozialen Treffpunktes im BÜRGERSCHLOSS Hohenschönhausen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.19: Abschluss einer Kooperationsvereinbarung mit der Senatsverwaltung für Umwelt, Verkehr und Klimaschutz (SenUVK) zum Vollzug der bezirklichen Verpflichtungen aus dem Energiewendegesetz Berlin (EWG Bln) und der Umsetzung des Berliner Energie- und Klimaschutzprogramms auf Bezirksebene 2018 – 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.20: Abschluss einer Zielvereinbarung mit der Senatsverwaltung für Finanzen über „die Verwendung der dem Bezirk zusätzlich zur Verfügung gestellten Personalmittel zur eigenverantwortlichen Schwerpunktsetzung bei der Umsetzung der Richtlinien der Regierungspolitik“ - kurz: Zielvereinbarung Personal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.21: Soziale Erhaltungsverordnung nach § 172 Absatz 1 Satz 1 Nummer 2 Baugesetzbuch - Aufstellungsbeschluss; Arbeitstitel: Milieuschutzverordnung Weitlingstraße; Bezug: DS/0454/VIII - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.22: Bebauungsplan 11-47b; Arbeitstitel: "Wohnpark Hönower Wiesenweg"; Verfahrensstand: Auswertung der Beteiligung der Behörden und sontigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB sowie Teilung des Bebauungsplans - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.23: Bebauungsplan 11-57; Arbeitstitel: "Wandlitzstraße“; Verfahrenstand: Auswertung der frühzeitigen Beteiligungsschritte gemäß § 3 Absatz 1 und § 4 Absatz 1 BauGB sowie Teilung des Bebauungsplans - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.24: Vorhabenbezogener Bebauungsplan 11-95 VE – Behördenbeteiligung; Arbeitstitel: Wartenberger Straße / Gehrenseestraße / Wollenberger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.25: Vorhabenbezogener Bebauungsplan 11-126 VE - Aufstellungsbeschluss; Arbeitstitel: Wohn- und Geschäftshaus Sewanstraße 259 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.26: Bebauungsplan 11-133 - Aufstellungsbeschluss; Arbeitstitel: Kleingartenanlage „Sonnenblume“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.27: Bebauungsplan 11-134 - Aufstellungsbeschluss; Arbeitstitel: Kleingartenanlage „Land in Sonne“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.28: Bebauungsplan 11-135 - Aufstellungsbeschluss; Arbeitstitel: Kleingartenanlage „Mühlengrund“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.29: Bebauungsplan 11-136 - Aufstellungsbeschluss;Arbeitstitel: Kleingartenanlage „Feierabend 1952“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Ersatzwahl einer/s Bürgerdeputierten für den Jugendhilfeausschuss der VIII. Wahlperiode - gewählt
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: Vorhabenbezogener Bebauungsplan 11-73 VE – Änderung der Planungsabsicht; Arbeitstitel: Wartenberger Straße 175 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Schulneubau transparent gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Veränderung der Organisationsstruktur des Bezirksamtes Lichtenberg - in der BVV abgelehnt
+- TOP 12.4: Mehr Wohnen wagen – höhere GFZ ermöglichen - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Straßenertüchtigung vorantreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Aufhebung bzw. Stop des B-Plan-Verfahrens 11-120 VE, Dolgenseecenter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Pflege-Wohngemeinschaften in der Landsberger Allee 131 c retten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Wohnungslosigkeit verhindern - Mieter*innen der Hauptstraße 1g-i schützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Schnelles Bauen an der Frankfurter Allee 196 - mit Änderungen in der BVV beschlossen
+- TOP 14.4: Wahlergebnis respektieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.5: Bebauungsplanverfahren für das Gewerbegebiet Herzbergstraße - überwiesen
+- TOP 14.6: Audit familiengerechte Kommune - beantwortet
+- TOP 14.7: Audit „Familiengerechte Kommune“ - in der BVV abgelehnt
+- TOP 14.8: Bezirkliche Werbung, Beratung und Koordinierung zur Gründung betrieblicher Kindergärten - in der BVV abgelehnt
+- TOP 14.9: Netiquette für Kontaktaufnahme mit dem Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Vandalismus konsequent verfolgen - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Keine mit Pollern abgegrenzte Fahrrad-Fahrbahn in der südlichen Siegfriedstrasse - überwiesen
+- TOP 15: Vorlagen zur Beschlussfassung - (offen)
+- TOP 15.1: Verordnung über die Veränderungssperre 11-100/26 für das Grundstück Rosenfelder Straße 15-16 im Bezirk Lichtenberg, Ortsteil Friedrichsfelde - überwiesen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17: Schließung der Sitzung - erledigt
