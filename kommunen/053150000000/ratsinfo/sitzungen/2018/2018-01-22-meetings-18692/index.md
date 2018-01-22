@@ -1,0 +1,53 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-22T15:00:00+01:00
+- Ende: 2018-01-22T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18692
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18692
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Papiers „Eckpunkte zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen“ - zurückgestellt
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer mdl. Nachfrage aus einer früheren Sitzung - Ergänzung der Übersicht drittmittelgeförderte Projekte - Kenntnis genommen
+- TOP 3.2: Beantwortung der Anfragen aus dem Integrationsrat zur Vorlage 4357 / 2016 "Ressourcen für Kitas im Bereich mehrsprachige Förderung" 2606/2017 - Kenntnis genommen
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Einführung der elektronischen Akte beim Jobcenter Köln - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 5.2: 18. Bericht zur Flüchtlingssituation - Kenntnis genommen
+- TOP 5.3: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 5.4: Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Gruppen in Kindertageseinrichtungen in Köln - Kenntnis genommen
+- TOP 5.5: Beantwortung der Ausschussanfrage AN/1818/2017, Fraktion Die Linke vom 30.11.2017 im AVR - Kenntnis genommen
+- TOP 5.6: Bezuschussung von Interkulturellen Kunstprojekten für das 1. Halbjahr 2018 - Kenntnis genommen
+- TOP 5.7: Weiterentwicklung und Fortschreibung des Kölner Gesundheitswegweisers - Kenntnis genommen
+- TOP 5.8: Soziale Beratung von Flüchtlingen in Nordrhein-Westfalen - Kenntnis genommen
+- TOP 5.9: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern ( UMA ) in 2017 in der Stadt Köln - Kenntnis genommen
+- TOP 5.10: VHS Köln: Integrationskursträger für weitere fünf Jahre - Kenntnis genommen
+- TOP 5.11: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 5.12: Erfahrungsbericht zum Projekt „Pädagogische Begleitung und Integrationshilfen für Roma-Familien“ (2010-2016) - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Überarbeitung der Geschäftsordnung des Integrationsrates Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Änderungsantrag zum Antrag zur Überarbeitung der Geschäftsordnung des Integrationsrates Köln AN/0037/2018 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: Antrag zur mehrsprachigen Förderung in Kölner Kitas - Sache ist erledigt
+- TOP 6.3: Antrag auf Verabschiedung einer Resolution „Toleranz und gegenseitige Achtung sind für alle" - Sache ist erledigt
+- TOP 6.4: Antrag auf Verabschiedung einer Resolution „Diskriminierung, Rassismus, Radikalismus und ..." - Sache ist erledigt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Antrag auf Anerkennung als Interkulturelles Zentrum, hier: Soziales und Kulturelles Zentrum Rhein-Peri-Kreis e.V., Modemann Str. 3, 51065 Köln - zurückgestellt
+- TOP 8.2: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - ungeändert beschlossen
+- TOP 8.3: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg Planungsbeschluss - ungeändert beschlossen
+- TOP 8.4: Zentrale Wahrnehmung der Aufgabe "Verpflichtung zu Integrationskursen" - ungeändert beschlossen
+- TOP 8.5: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2018 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
