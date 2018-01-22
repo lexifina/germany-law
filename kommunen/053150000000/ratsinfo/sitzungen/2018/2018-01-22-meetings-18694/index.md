@@ -1,0 +1,51 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-22T15:00:00+01:00
+- Ende: 2018-01-22T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18694
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18694
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00646219.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00646219.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00646219.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Finanzierung von Angeboten Kultureller Bildung - AN/1501/2017 - Kenntnis genommen
+- TOP 3.1.2: GGS Kopernikusstr. - Sachstandsmitteilung Erweiterungsbau - Kenntnis genommen
+- TOP 3.1.3: Errichtung einer vierzügigen Gesamtschule auf dem Gelände der Elsa-Brändström-RS in Lindenthal - Sache ist erledigt
+- TOP -: Errichtung einer vierzügigen Gesamtschule auf dem Gelände der Elsa-Brändström-Realschule in Lindenthal - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Schulreservergrundstück in Köln Wahn/Libur - Sache ist erledigt
+- TOP -: Schulreservegrundstück in Wahn/Libur, Anfrage CDU-Fraktion AN/0078/20187 - Kenntnis genommen
+- TOP 3.2.2: Unterrichtsbetrieb und Kostenstruktur der Rheinischen Musikschule - Sache ist erledigt
+- TOP -: Unterrichtsbetrieb und Kostenstruktur der Rheinischen Musikschule - Kenntnis genommen
+- TOP 3.2.3: Impfschutz in Köln - zurückgestellt
+- TOP 3.2.4: Kernsanierung der Heinrich-Böll-Gesamtschule - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Beschluss über die kommunale Klassenrichtzahl und somit die Zahl der Eingangsklassen der Kölner Grundschulen in städtischer Trägerschaft und die Festlegung der Schulplätze in diesen Klassen für das Schuljahr 2018/19 - ungeändert beschlossen
+- TOP 4.2: Zusätzliche Mittel für Inklusion und Integration im Rahmen der offenen Ganztagsschule im Primarbereich - ungeändert beschlossen
+- TOP 4.3: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die GGS Kopernikusstr. 40-42, 51065 Köln - ungeändert beschlossen
+- TOP 4.4: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: ZMI – Zentrum für Mehrsprachigkeit und Integration: „Eckpunkte zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen“ - Kenntnis genommen
+- TOP 5.2: BAN Baufeld A Hansa-Gymnasium - Sachstand zu Verzögerungen - Kenntnis genommen
+- TOP 5.3: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 5.4: Durchführungskonzept Kölner Jugendbefragung 2018 - Kenntnis genommen
+- TOP 5.5: VHS Köln: Integrationskursträger für weitere fünf Jahre - Kenntnis genommen
+- TOP 5.6: Das VHS-Programm für das 1. Semester 2018 liegt vor - Kenntnis genommen
+- TOP 5.7: Beantragte Zügigkeitserhöhung am Stadtgymnasium Porz und dem Friedrich-Wilhelm-Gymnasium - Kenntnis genommen
+- TOP 5.8: Erfahrungsbericht zum Projekt „Pädagogische Begleitung und Integrationshilfen für Roma-Familien“ (2010-2016) - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
