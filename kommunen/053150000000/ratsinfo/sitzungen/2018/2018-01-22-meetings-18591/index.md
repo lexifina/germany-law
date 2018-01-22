@@ -1,0 +1,82 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-22T17:05:00+01:00
+- Ende: 2018-01-22T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18591
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18591
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrsführung während der Baumaßnahme der Nord-Süd-Bahn auf der Bonner, Beantwortung einer Anfrage der CDU-Fraktion in der Bezirksvertretung Rodenkirchen am 23.01.2017, TOP 7.2.7 - Kenntnis genommen
+- TOP 7.1.2: Errichtung eines zusätzlichen Fahrgastunterstandes an der Stadtbahnhaltestelle Bahnhof Godorf - Kenntnis genommen
+- TOP 7.1.3: Verkehrskonzept für den Kölner Süden - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Starkregenereignis am 19.07.2017 in Köln, Anfrage der Fraktion Die Grünen mit Beitritt der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Beantwortung der Stadtentwässerungsbetriebe - Kenntnis genommen
+- TOP 7.2.3: Geplante Kita an der Josef-Kallscheuer-Straße, Gemeinsame Anfrage der Fraktion Die Grünen und der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.4.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 7.2.5: Belegung der Unterkünfte für Geflüchtete im Stadtbezirk K-Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Wohnmobil an der Bühler Landstraße, Köln, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Nahverkehrsplan: Feinerschließung Zollstock, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Ausbau von Plätzen U3 durch Großtagespflegen bei anerkannten Trägern in Köln, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 7.2.9: Status Quo des gewerblichen Standortes Großmarkt in Raderberg, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.9.1: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Erklärung der Intention des strafrechtlichen Drohszenarios gegenüber den Mitgliedern der BV 2 gemäß der Mitteilung der Verwaltung in TOP 1.1 der Sitzung vom 14.12.2017-DS: 3912/2017-. - Sache ist erledigt
+- TOP 8.1.2: Luftschadstoffe im Bezirk, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Verkehrsberuhigung Barbarastraße in Rodenkirchen, Antrag der CDU-Fraktion - Sache ist erledigt
+- TOP -: Änderungsantrag zum Antrag AN/1217/2017 Verkehrsberuhigung Barbarastraße in RodenkirchenVerkehrsberuhigung Barbarastraße in Rodenkirchen TOP 8.1.3 am 22.01.2018 - geändert beschlossen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Aufhebung des BV-Beschlußes vom 16.10.2017, TOP 9.1.4 zur Vorlage: 2782/17 über die Fällung der Ginkgo-Bäume in der Ulmenallee/Sürth, Antrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.5: Bahnhofsareal in Sürth: Umgestaltung, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.5.1: Modifizierter Antrag der Fraktionen SPD, Grüne und FDP - geändert beschlossen
+- TOP 8.1.6: Keine Entsiegelung des Zollstocker Weges, Antrag der CDU-Fraktion - Sache ist erledigt
+- TOP 8.1.6.1: Ersetzungsantrag der Fraktion Die Grünen - Dauerhafte Sperrung des Zollstocker Wegs - Sache ist erledigt
+- TOP 8.1.7: Fahrgastunterstände an der Kapellenstraße, Köln-Rondorf, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.8: Weltkinder-KiTa Gaedestraße, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.9: Zügiger Umbau der Bonner Straße und Fertigstellung der Nord-Süd-Stadtbahn – 3. Baustufe - zum Fahrplanwechsel im Dezember 2021, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.10: Tempo 30 km/h auf der Wesselinger Straße in Köln-Sürth, Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.11: Sichere Verkehrsführung bei Hochwasser für Radfahrer und Fußgänger auf der Rheinuferstraße, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.12: Dringlichkeitsantrag zur Entscheidung des Hauptausschusses vom 15.01.2018, dass der Verkehrsausschuss das entscheidungsbefugte Gremium für die Abstufung/Abstufungsanzeige einer Kreisstraße (hier der K 28 Sürther Straße und der K 3 - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Zuschuss zum Bau eines neuen Sportplatzes - Turnverein Rodenkirchen e.V. 1898, Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der FDP-Fraktion - mit Änderungen empfohlen
+- TOP 8.2.1.1: Änderungsantrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.2.2: Nutzungs- und Gestaltungskonzept für die Realisierung eines Nahbereichszentrums Michaelshoven, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Umgestaltung des Spielplatzes Uferstraße in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.1.2: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Rodenkirchen - ungeändert beschlossen
+- TOP 9.1.3: Ganzjährige Sperrung des Zollstocker Weges entlang des Kalscheurer Weihers - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg Planungsbeschluss - mit Änderungen empfohlen
+- TOP 9.2.2: Richtlinie für die Benennung von Straßen - zurückgestellt
+- TOP 9.2.3: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Zielbild 2020 - Kenntnis genommen
+- TOP 10.2.2: Parkstadt Süd; Sachstandsbericht III. Quartal 2017 - Kenntnis genommen
+- TOP 10.2.3: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 10.2.4: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 10.2.5: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.6: Allgemeiner (baulicher) Zustand der Schulen im Bezirk Rodenkirchen - zu AN/1829/2017 - Kenntnis genommen
+- TOP 10.2.7: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 10.2.8: Abstufung einer Kreisstraße zu einer Gemeindestraße (Vorlage 2259/2017); Beschluss der Bezirksvertretung Rodenkirchen vom 14.12.2017 - Kenntnis genommen
