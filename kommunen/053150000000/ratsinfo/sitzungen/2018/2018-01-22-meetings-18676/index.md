@@ -1,0 +1,74 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-22T17:00:00+01:00
+- Ende: 2018-01-22T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18676
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18676
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Möglichkeiten zur Umgestaltung des Bahnhofsvorplatzes am Bahnhof Mülheim
+- TOP 1.2: Unfälle auf der Buslinie 150
+- TOP 1.3: Mülheimer Brücke: Kontrolle des Fahrverbotes für Fahrzeuge mit einem tatsächlichen Gewicht von mehr als 30 T
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigter Bereich Adam-Stegerwald-Straße 19-29 (Az.: 02-1600-37/17) - ungeändert beschlossen
+- TOP 2.2: Bürgerantrag auf Umbenennung der Elisabeth-Moses-Straße in Köln-Dellbrück AN 3162/2017 TOP 2.1 - geändert beschlossen
+- TOP 2.3: Hundefreilauffläche im Böckingpark - zurückgestellt
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Bedarfsanfordernde Fußgängersignalanlage Heidelberger Straße (Az.: 02-1600-111/17) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrliche Maßnahmen auf der Bergisch Gladbacher Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.1.2: Beginn Zeitpunkt der Umsetzung der Maßnahme Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 7.1.3: Umbau und Überweg an der Bushaltestelle Imbacher Weg - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Asphaltflicken im Pflaster der Elisabeth-Breuer-Straße nahe der Frankfurter Straße - Kenntnis genommen
+- TOP 7.2.3: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Zustand des Wohnhauses Bergisch Gladbacher Straße 93 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Wiederherstellung der Brücke über den Mutzbach in den ursprünglichen Zustand (Brückenmauer statt Leitplanke) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Mülheim - geändert beschlossen
+- TOP 9.1.2: Einziehung eines Teilstückes der Regentenstraße vor der Lutherkiche in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Richtlinie für die Benennung von Straßen - ungeändert beschlossen
+- TOP 9.2.2: Anerkennung als Träger der freien Jugendhilfe; hier: "DBC Don-Bosco-Club Köln gGmbH" - ungeändert beschlossen
+- TOP 9.2.3: Erweiterung der Feuer- und Rettungswache 9 in Köln Mülheim. Hier: Weiterplanungsbeschluss - ungeändert beschlossen
+- TOP 9.2.4: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - geändert beschlossen
+- TOP 9.2.4.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - ungeändert beschlossen
+- TOP 9.2.5: Städtebauliches Planungskonzept Circus-Roncalli-Weg in Köln-Mülheim; Anhörung der Bezirksvertretung Mülheim zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteili-gung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 9.2.6: Sportanlage Wuppertaler Straße, Köln-Buchheim hier: Bau eines Umkleide- und Sanitärgebäudes mit Vereinsraum und Lagerräumen - ungeändert beschlossen
+- TOP 9.2.7: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - geändert beschlossen
+- TOP 9.2.8: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die GGS Kopernikusstr. 40-42, 51065 Köln - ungeändert beschlossen
+- TOP 9.2.9: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert beschlossen
+- TOP 9.2.10: Städtebauliches Planungskonzept Otto-Langen-Quartier (ehemals Möhring-Quartier) in Köln-Mülheim - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Offener Brief: Luftreinhaltung Clevischer Ring - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Zielbild 2020 - Kenntnis genommen
+- TOP 10.2.4: Einrichtung von Umlauf-Wegesperren zum Elisabeth-Schäfer-Weg in Buchheim - Kenntnis genommen
+- TOP 10.2.5: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 10.2.6: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 10.2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.8: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.9: Bauliche Einengungen auf dem Auenweg - Kenntnis genommen
+- TOP 10.2.10: Einführung Tempo 30 km/h auf der Bergisch Gladbacher Straße zwischen Otto-Kayser-St - Kenntnis genommen
+- TOP 10.2.11: Information der Stadtentwässerungsbetriebe (StEB) über den Baubeginn von Maßnahmen an Kölner Gewässern: Maßnahme am Frankenforstbach FRA M5 (1. Abschnitt) - Uferrandstreifen und eigendynamische Entwicklung, Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.12: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
