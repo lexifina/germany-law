@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-01-23T17:00:00+01:00
+- Ende: 2018-01-23T20:40:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14899
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14899
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00308716.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00308716.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00308716.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Glasmacherviertel - zur Kenntnis genommen
+- TOP 5: Einrichtung der Metrobuslinien M1 bis M3 - Ergebnisse der Überprüfung des Metrobuskonzeptes - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Sanierung von Kunstrasenplätzen - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2018) - einstimmig beschlossen
+- TOP 10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 11: Be- und Entladezone auf der Regenbergastraße 6-8 - abweichend beschlossen
+- TOP 12: Restaurierung der Wege Gerresheimer Waldfriedhof und Hubbelrather Friedhof - einstimmig beschlossen
+- TOP 13: Öffnung der Fußgängerzone Kölner Tor für den Radverkehr - mehrheitlich beschlossen
+- TOP 14: Verkehrsberuhigung Gerricusplatz - Verkehrsregelung - - beantwortet
+- TOP 15: Verbesserung der Verkehrssituation auf dem Gerricusplatz - abweichend beschlossen
+- TOP 16: Aufstellung von Fahrradbügeln/Poller am Übergang vom Haus der Diakonie zum Apostelplatz - zurückgezogen
+- TOP 17: Verkehrssicherheit Schutzgitter Gallberg / B7 - einstimmig beschlossen
+- TOP 18: Verkürzung der Zeitspanne zum Ersatz von Straßenbäumen - mehrheitlich beschlossen
+- TOP 19: Sanierung Ratinger Weg und Weg entlang Pillebach - mehrheitlich beschlossen
+- TOP 20: Senioreneinrichtung Gallberg - einstimmig beschlossen
+- TOP 21: Grütersaaper Weg - vertagt
+- TOP 22: Hundewiese Dreherstraße/Alter Friedhof - beantwortet
+- TOP 23: Versiegelte Baumscheibe Pfeifferstraße - beantwortet
+- TOP 24: Wohnungsleerstand im Neubaugebiet „Am Quellenbusch“: Am Bedarf vorbei gebaut? - beantwortet
+- TOP 25: Flächennutzung im Stadtbezirk - vertagt
+- TOP 26: Fußgängerzone Geibelstraße - beantwortet
+- TOP 27: Gräulinger Straße Asphaltierung - vertagt
+- TOP 28: Jugendfreizeiteinrichtungen (JFE) in Gerresheim - beantwortet
+- TOP 29: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 30: Fahrradabstellanlagen im Stadtbezirk - zur Kenntnis genommen
+- TOP 31: Fahrradstreifen und Abbiegespur südliche Torfbruchstraße - zur Kenntnis genommen
+- TOP 32: Abbau der Poller Alter Markt - zur Kenntnis genommen
+- TOP 33: Flächen zur Einrichtung von Wildblumenwiesen - zur Kenntnis genommen
+- TOP 34: Freiraumkonzept Pillebach - zur Kenntnis genommen
+- TOP 35: Sicherungsmaßnahmen und Entnahme von Bäumen im Forstbereich Auf der Hardt - zur Kenntnis genommen
+- TOP 36: Widmung von Straßen - zur Kenntnis genommen
