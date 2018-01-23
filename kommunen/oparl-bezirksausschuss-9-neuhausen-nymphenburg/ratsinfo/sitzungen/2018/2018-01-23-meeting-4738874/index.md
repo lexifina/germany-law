@@ -1,0 +1,124 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-01-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4738874
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4738874
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1: Neubesetzungen in den Unterausschüssen
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 4.3.2.: Anhörungen zu Baugenehmigungsanträgen
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.2.4.: Stadtteilinformationen / Willkommensschreiben bei Anmeldung eines neuen Wohnsitzes
+- TOP 6.2.5.: Konzept Veranstaltung zum öffentlichen Raum
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.6.1.: Sachstand zur Planung des Kulturgesprächs
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Freischankfläche an der Donnersbergerstraße
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Beleuchtung der Wendl-Dietrich-Straße
+- TOP 3.2.2.: Hedwigstraße: Einrichtung als Einbahn- und Anliegerstraße
+- TOP 3.2.3.: Radstreckenführung unter der Donnersbergerbrücke
+- TOP 3.2.4.: Aktuelle Informationen zur Umweltverbundröhre
+- TOP 3.2.5.: Neubau Jugendherberge München - Baustellenabwicklung, Verkehrssicherheit, Künftige Busanfahrt
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Austausch der Lichtsignalanlage Ackermannstraße / Spiridon-Louis-Ring
+- TOP 3.3.2.: Fahrbahnsanierung in der Funkerstraße
+- TOP 3.3.3.: Antrag auf Aufstellung eines "offenen Bücherschranks" im Bereich der Straßenbahnhaltestelle Neuhausen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Fahrbelagsanierung am Übergang Hohenlohestraße zur Dachauer Straße
+- TOP 3.4.2.: Verkehrsberuhigung für den Bereich Frundsbergstraße
+- TOP 3.4.3.: Einrichtung einer Geschwindigkeitsbegrenzungszone im Kurvenbereich Wotanstraße an der Einmündung Gaßnerstraße
+- TOP 3.4.4.: Aufrüstung der Lichtzeichenanlage von der Guntherstraße in die Arnulfstraße
+- TOP 3.4.5.: (U) Nymphenburger Straße - Varianten 1 und 2 - Anordnung von Radverkehrsanlagen (Markierung im Fahrbahnbereich) durch das Kreisverwaltungsreferat Turnusmäßige Beschlussvorlage
+- TOP 3.4.6.: Haltverbot Hirschgartenallee
+- TOP 3.4.7.: Umbau der Nibelungenstraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen: - Südliche Auffahrtsallee - Margarethe-Danzi-Straße - Hippmannstraße - Herthastraße - Hanebergstraße - Orffstraße / Ruffinistraße - Volkartstraße - Donnersbergerstraße - Donnersberger-Parkgarage
+- TOP 3.5.2.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 3.5.3.: Baustellenbedingtes Betriebskonzept während der Tunnelsanierung auf der U1-Nord
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: BIOTOPIA | Aktualisierung des Verkehrsgutachtens
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Bebauung des Reinmarplatzes
+- TOP 4.2.2.: Konzept Kiosk-Café am Grünwaldpark
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Neubau eines Umspannwerks in der Landshuter Allee 48 - Projektvorstellung SWM
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Parkplätze Theaterzelt "Das Schloss"
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: LBK-Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 4.5.2.: (U) Neubau der Erschließungsstraßen und Fußgängerbereiche im Zuge des Bebauungsplans mit Grünordnung Nr. 1954 Schwere-Reiter-Straße (südöstlich) Infanteriestraße (südwestlich) Sankt-Barbara-Kirche (nordwestlich) Verlängerung Heßstraße inklusive Verkehrsfläche Verlängerung Heßstraße - Kreativquartier an der Dachauer Straße / Schwere-Reiter-Straße Teilbereich Kreativfeld - im 4. Stadtbezirk Schwabing-West Projektkosten (Kostenobergrenze): 3.300.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2017 - 2021
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Begrünung der Klarastraße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anträge auf Baumentfernung: - Klarastraße 22-28 - Baldurstraße 87-89 - Mechthildenstr. 40
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: "Neue Orientierungswerte zur Grün- und Freiflächenversorgung" - Unterrichtung zu den Inhalten der Sitzungsvorlage Nr. 14-20 / V 09119
+- TOP 5.4.2.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.4.3.: Installation der Sitzbänke an der Dom-Pedro-/Maximilian-Wetzger-Straße
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Projekt Begrünung Klarastraße
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Einladung der GEWOFAG zum Unterausschus
+- TOP 6.2.2.: Sicherung des Spielplatzes am Tizianplatz
+- TOP 6.2.3.: Vorankündigung Rampenlichter im Juli 2019
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Mieterbeiratswahl 2018 - Entsendung von stimmberechtigten Mitgliedern
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Grünanlage Winthirplatz
+- TOP 6.4.2.: Nächtliche Ruhestörung im Hirschgarten
+- TOP 6.4.3.: Umbau des Bürogebäudes Wotanstraße 88 in ein Flexi-Heim für anerkannte Flüchtlingsfamilien und wohnungslose Familien in kommunaler Zuständigkeit; Finanzierung der Einrichtungsführung; Trägerschaftsauswahlverfahren - Vorlagen-Nr. 14-20 / V 09529
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Errichtung eines Seilparcours am Spielplatz Posseltplatz
+- TOP 6.5.2.: BA-Budget: Kurzbericht und Verwendungsnachweis zum Musik- und Tanztheaterprojekt in der Grundschule Helmholtzstraße
+- TOP 6.5.3.: BA-Budget: Kurzbericht Lilalu Familienprogramm
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Stadtteilinformationen / Willkommensschreiben bei Anmeldung eines neuen Wohnsitzes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: (U) Dachauer Str. 110-114, Schwere-Reiter-Str. 2 (Kreativlabor) Eigentums- und Betriebskonzept Zwischennutzung der freigemachten „Lamentofläche“ 9. Stadtbezirk Neuhausen-Nymphenburg
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Turnhalle an der Kapschstraße
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Infrastrukturprogramm Sport - Antwort auf Schreiben des BA vom 22.02.2017
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: BA-Budget: Kurzbericht und Verwendungsnachweis Spielturm am Kindergarten in der Mustersiedlung
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Kita-Konferenz des BA 9: Zuweisung von Themen an die Unterausschüsse
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Unveränderte Fortführung von Gaststättenbetrieben: - "Adriatica" - Renatastr. 35 - "Badshah" - Birkerstr. 10 - Imbisskiosk Südl. Auffahrtsallee - "Risotto" - Hirschgartenallee 38
+- TOP 9.5.2.: Faschingstreiben auf dem Rotkreuzplatz - 11.-13.02.2018
+- TOP 9.5.3.: Viel Geld für Windows mit schlechter Begründung
+- TOP 9.5.4.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 mit verbindlicher Planung für 2022; Entwurf für das Baureferat
+- TOP 9.6: Verschiedenes
