@@ -1,0 +1,56 @@
+# 32. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-23T17:10:00+01:00
+- Ende: 2018-01-23T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18669
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18669
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645449.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645449.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645449.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 1.1: Förderanträge der Stadt Köln zum Sofortprogramm "Saubere Luft" des Bundes - Sache ist erledigt
+- TOP 1.2: Dezentrale Carsharing-Stellplätze schaffen, Mobilitätswende voranbringen - zurückgestellt
+- TOP 1.3: Unfälle: KVB vs. Kfz - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Stadtbahnanbindung Köln-Widdersdorf – Untersuchung der Trassenführung - ungeändert beschlossen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 4: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 4.1: Verwendung Stellplatzablösemittel zur Förderung des Radverkehrs - zurückgestellt
+- TOP 4.2: Verkehrsversuch Sperrung Zülpicher Straße - geändert beschlossen
+- TOP 5: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 5.1: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung" - Umgestaltung des Kurt-Hackenberg-Platzes - ungeändert empfohlen
+- TOP 5.2: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - zurückgestellt
+- TOP 5.3.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - zurückgestellt
+- TOP 5.3.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 5.3 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans" - zurückgestellt
+- TOP 5.3.3: Änderungsantrag zu TOP 5.3 Luftreinhaltung - zurückgestellt
+- TOP 5.4: Ortsdurchfahrtsverschiebung L82 - Siegburger Straße/Poller Damm in Köln-Poll - ungeändert empfohlen
+- TOP 5.5: 263. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Aufwertung von Plätzen in den Stadtbezirken; AN/0922/2017 - Sache ist erledigt
+- TOP 6.2: Umsetzung von Beschlüssen zur Verbesserung des Radverkehrs - Sache ist erledigt
+- TOP 6.3: 3-D-Zebrastreifen in Köln testen? - Sache ist erledigt
+- TOP 6.4: AN/1757/2017 Neubau der Leverkusener Brücke mit Ausbau der A1 - Was unternimmt die Verwaltung zur Verbesserung des Lärmschutzes im Gewerbegebiet Causemannstraße - Sache ist erledigt
+- TOP 6.5: Parkplatz-App für Köln - Sache ist erledigt
+- TOP 6.6: Förderanträge der Stadt Köln zum Sofortprogramm "Saubere Luft" des Bundes - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Nord-Süd-Stadtbahn 1. Baustufe Berichtswesen 3. und 4. Quartal 2016 - Kenntnis genommen
+- TOP 7.2: Nord-Süd-Stadtbahn 2. Baustufe - Kenntnis genommen
+- TOP 7.3: Köln kooperiert - Regionale Kooperation voranbringen und Regionalplan-Überarbeitung: Informationsveranstaltung am 24.11.2017 - Kenntnis genommen
+- TOP 7.4: Information zur Anpassung der Gebühren für Maßnahmen im Straßenverkehr - Kenntnis genommen
+- TOP 7.5: Leitprojekt "Köln aufräumen", Dezernat Stadtentwicklung, Planen und Bauen - Kenntnis genommen
+- TOP 7.6: Bürgereingabe § 24 Gemeindeordnung (GO) Gehwegsatzung für das Kölner Stadtgebiet - Kenntnis genommen
+- TOP 7.7: Entwicklung der Fahrradverleihsysteme in der Stadt Köln - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Holländischer Griff - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Beschaffung von 10 Elektrofahrzeugen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: "Ring frei" - Sachstand - zur weiteren Bearbeitung in die Verwaltung überwiesen
