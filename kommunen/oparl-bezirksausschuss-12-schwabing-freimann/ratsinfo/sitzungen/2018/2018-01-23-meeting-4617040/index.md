@@ -1,0 +1,146 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2018-01-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4617040
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4617040
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 7.1.: Internet für BA-Sitzungen
+- TOP 8.1.: (E) Straßenbenennung im 12. Stadtbezirk Schwabing-Freimann Am Ausbesserungswerk
+- TOP 9.1.: Mieterbeiratswahl 2018, Entsendung von stimmberechtigten Mitgliedern
+- TOP 9.2.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten; LTE-Router für Sitzungslokale
+- TOP 10.1.: Zwischenbericht zum Stand der Planungen für das Gelände der ehemaligen Bayernkaserne vom Planungsreferat und Vertretern des Büros Arge Max Dudler / Hilmer & Sattler
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Genehmigung einer Freischankfläche in der Leopoldstraße 57
+- TOP 2.2.: Antrag für die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Marschallstraße 1, erneute Behandlung anhand der nachgeforderten Skizzen, vgl. TOP (N) D.2.2 12/17
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Osterwaldstraße 41, Neubau eines Doppelhauses mit gemeinsamer Tiefgarage
+- TOP 3.1.2.: Seerosenstraße 5, Neubau eines Doppelhauses mit 3 Garagenstellplätzen
+- TOP 3.1.3.: Frankfurter Ring 150, Neubau Haus 1-5 mit Tiefgarage - Vorbescheid
+- TOP 3.1.4.: Luxemburger Straße 6-8, Wohnanlage BLUS II – Dachaufstockung (8 WE), Sanierung sowie Erweiterung durch vorgestellte Aufzugsanlagen und Balkone dreier Wohngebäude (104 WE); Errrichtung einer unterirdischen Technikzentrale für Fernwärme und Trinkwasser
+- TOP 3.1.5.: Heidemannstraße 50, genehmigungspflichtige Maßnahmen am Baumbestand
+- TOP 3.2.1.: Technische Basis Fröttmaning der Stadtwerke München GmbH, Gebäude 25 – Ergänzung einer Schleuse mit Restflächenabdeckung
+- TOP 3.2.2.: Isoldenstraße, Neuaufbau Wartehalle mit integrierter Werbevitrine,2 Flächen (Isolendstraße / Mildred-Scheel-Bogen)
+- TOP 3.2.3.: Am Blütenring 72 a TEKTUR, Neubau eines Einfamilienhauses mit Tiefgarage
+- TOP 3.2.4.: Gemeinde Ismaning; Bebauungsplan Nr. 140a „südlich Seidl-Kreuz-Weg“ (1. Änderung des Bebauungsplans Nr. 140 im Bereich der Gemeinbedarfsfläche/Kindertagesstätte)
+- TOP 3.2.5.: Gemeinde Ismaning, Bebauungsplan Nr. 70 b „Gewerbegebiet Nord“
+- TOP 3.2.6.: Stadt Garching, Bebauungsplan Nr. 43 b „Neufahrner Straße, 2. Änderung“
+- TOP 3.2.7.: Osterwaldstraße 41, Neubau eines Doppelhauses mit gemeinsamer Tiefgarage
+- TOP 3.2.8.: Bebauungsplan Garching Nr. 174: Beteiligung des Bezirksausschusses
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Neue Werbeanlagen am U-Bahnhof Münchner Freiheit
+- TOP 5.1.2.: Erhalt der ehemaligen Lehrwerkstätte, BA-Antrag Nr. 14-20 / B 03541 vom 25.04.2017 (Zwischennachricht)
+- TOP 5.1.3.: Baumpflanzung an der Süd-Ecke Leopoldstraße – Kaiserstraße
+- TOP 5.1.4.: Kleinhaus (um 1800) an der Werneckstraße 10
+- TOP 5.1.5.: Ausstellung der Wettbewerbsarbeiten für die Schulen Bayernkaserne nach Freimann
+- TOP 5.1.6.: Keine weiteren, sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs und Wartebereichen des ÖPNV
+- TOP 5.2.1.: Sammelunterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 5.2.2.: Bevorstehende Entfernung eines Gefahrenbaums an der Crailsheimstraße
+- TOP 5.2.3.: Kaiserstraße 6, eine Kastanie
+- TOP 5.2.4.: Schwedenstraße 37, zwei Weiden
+- TOP 5.2.5.: Kaulbachstraße 77, Fällgenehmigung für zwei Eschen
+- TOP 5.3.1.: Generalinstandsetzung mit Erweiterung Oskar-von-Miller- und Maximiliansgynmasium, Zwischennachricht der LBK
+- TOP 5.3.2.: Rückmeldung des Bezirksausschüsse auf die Weiterleitung des Antrags „Keine weiteren sowie Abschaffung von Bildschirmwerbeflächen in öffentlichen Verkehrsmitteln und in Zugangs- und Wartebereichen des ÖPNV“
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.6.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Vorfahrt Kulturheimstraße (Initiative: Dagmar Föst-Reich)
+- TOP 1.2.: Stromtankstellen an der Kreuzung Occamstraße / Artur-Kutscher-Platz
+- TOP 1.3.: Beschleunigung der Planungen für eine nördliche U-Bahn-Tangente „U26“
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing - Freimann Widmung der Gesamtstrecke der Gertrud-Grunow-Straße, der Gesamtstrecke der Margarete-Schütte-Lihotzky-Straße und der Gesamtstrecke der Fritz-Winter-Straße
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Haltverbot Stuttgarter Straße Wendehammer
+- TOP 3.1.2.: Haltverbote Anton-Webern-Weg / Arnold-Schönberg-Weg
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Erinnerungsverfahren, Fahrbahnsanierung, Danzingerstraße / Dreschstraße und Virchowstraße
+- TOP 3.2.2.: Austausch von Lichtsignalanlagen, Margot-Kalinke-Straße / Maria-Probst-Straße
+- TOP 3.2.3.: Austausch von Lichtsignalanlagen, Maria-Probst-/Schwarzhauptstraße
+- TOP 3.2.4.: Erinnerungsverfahren, Fahrbahnsanierung Montsalvatstraße zwischen Tristan- und Isoldenstraße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Ampelschaltung an der Münchner Freiheit
+- TOP 4.2.: Wegfall von Parkplätzen durch die geplante Neugestaltung des Artur-Kutscher-Platzes
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Bänke auf der Leopoldstraße auf Höhe Haus Nummer 12 südwärts erneuern
+- TOP 5.1.2.: Visualisierung der geplanten Tram durch den Englischen Garten (Initiative: Petra Piloty)
+- TOP 5.1.3.: Ampelanlage Kreuzung Domagkstraße / Gertrud-Grunow-Straße
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Beendigung der baustellenbedingten Anordnung von Bewohnerparken in der Gedonstraße
+- TOP 5.2.2.: Taxistandplatz Am Nordring: Verkürzung
+- TOP 5.2.3.: Taxistandplatz in der Schlüterstraße; Verlegung in die Berliner Straße 85
+- TOP 5.2.4.: Taxistandplatz in der Edmund-Rumpler-Straße; Verkürzung
+- TOP 5.2.5.: Taxistandplatz in der Walter-Gropius-Straße; Neueinrichtung
+- TOP 5.2.6.: Änderung des Zeitzusatzes an der Schulbushaltestelle in der Bauernfeindstraße für den Schülerverkehr zu den neuen Münchner Regionalhäusern
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 5.3.2.: (U) Tram Nordtangente – Wiederaufnahme der Planung für die Tram durch den Englischen Garten Trambahn-Nordtangente Verknüpfung mit der Münchner Freiheit Antrag Nr. 14-20 / A 03294 von LKR vom 26.07.2017 Das Eisen schmieden so lange es heiß ist - Tram durch den Englischen Garten jetzt sichern Antrag Nr. 14-20 / A 03548 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.11.2017
+- TOP 5.3.3.: (U) Konzeptionelle Verkehrsplanung für Maßnahmen zur Leistungssteigerung des Verkehrsnetzes im Bereich der Lilienthalallee im 12. Stadtbezirk Schwabing-Freimann Verbesserung der Verkehrssituation Lilienthalallee/Heidemannstraße Empfehlung Nr. 14-20 / E 01550 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 06.07.2017
+- TOP 5.3.4.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung im Leopoldpark
+- TOP 5.3.5.: Vollzug des Bundesimmissionsschutzgesetzes, Ausnahmezulassung, Jahresgenehmigung 2018 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 5.3.6.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP 5.3.7.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 5.3.8.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 5.3.9.: (U) Weiterentwicklung des MVV-Gemeinschaftstarifs Tarifstrukturreform Verkehrswende einleiten – Ticketfrei spart CO² Antrag Nr. 14-20 / A 03158 von DIE LINKE vom 08.06.2017, eingegangen am 09.06.2017 Verkehrswende einleiten – Ein Pauschaltarif für Kinder und Jugendliche im MVV Antrag Nr. 14-20 / A 03152 von DIE LINKE vom 06.06.2017, eingegangen am 06.06.2017 Nulltarif Antrag Nr. 14-20 / A 03107 der SPD-Fraktion vom 17.05.2017, eingegangen am 18.05.2017 Einführung einer MVV Senioren-Fahrkarte; Rentner sollen mit nur einem MVV-Streifen fahren dürfen Empfehlung Nr. 14-20 / E 01549 der Bürgerversammlung des Stadtbezirkes 12 – Schwabing-Freimann am 06.07.2017 Verschiebung der Zahlgrenze an der S1 weiter nach draußen (Ziff. 4 der Anträge) Empfehlung Nr. 14-20 / E 01415 der Bürgerversammlung des Stadtbezirkes 24 – Feldmoching-Hasenbergl am 30.03.2017
+- TOP 5.3.10.: Beleuchtung Fußweg Osterwaldstraße 25 zur Bushaltestelle Bus 59, Antwortschreiben des Referats auf ein Bürgeranliegen
+- TOP 5.3.11.: Vollzug der Grünanlagensatzung: Baustelleneinrichtung am Kaiserplatz 1
+- TOP 5.3.12.: Kindergartenanfahrtszone in der Fröttmaninger Straße
+- TOP 5.3.13.: SWM-Projekt Glasfaser-Erschließung für München, Ausbau 2018 u.a. in Freimann-Süd
+- TOP 5.3.14.: Schreiben des KVR auf ein Bürgeranliegen, Parksituation Lützelsteiner Straße – Völcker Straße
+- TOP 5.3.15.: SWM Fernwärmeprojekt Virchowstraße, Infoflyer der SWM
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Einrichtung eines Baumgräberfeldes am Nordfriedhof
+- TOP 1.2.: Rettung des HVB-Schwimmbads am Tucherpark
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budgets der Bezirksausschüsse Initiative "Wunderbuch" Projekt „Wunderbuch“ im Juni/Juli 2018 4.700,00€ Az. 0262.0-12-0243
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Momentmalerei - Performance" Momentmalerei-Performance am 10./11.03.2018 7.870,00€ Az. 0262.0-12-0235
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Elternbeirat Maximiliansgymnasium Musik- und Tanzprojekt am 21./22.03.2018 1.800,00 € Az: 0262.0-12-0242
+- TOP 3.: Anhörungen
+- TOP 3.1.: Familien- und Beratungszentrum und Ersatzbetreuung in der Kindertagespflege Bayernkaserne
+- TOP 3.2.: Einsatz des Kinder-Aktions-Koffers 2018/2019 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung
+- TOP 3.3.: Disc Golf Turnierwochenende am Fröttmaninger Berg am 17./18.03.2018
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Friedrichstraße 30
+- TOP 5.2.2.: Muthmannstraße 4
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Verwendungsnachweise über gewährte Zuschüsse aus dem Budget der Bezirksausschüsse
+- TOP 5.3.2.: Kurzbericht zur Aufführung des Theaterstücks „Geralds Tod“ der Theatergruppe Heidekraut
+- TOP 5.3.3.: Spielplatz am Hartweg: Bauliche Maßnahmen mit Realisierungsterminen
+- TOP 5.3.4.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertagesstätten sonstiger Träger; Kindergarten am Wartburgplatz 6 im 12. Stadtbezirk Schwabing-Freimann Leistung eines Baukostenzuschusses
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
