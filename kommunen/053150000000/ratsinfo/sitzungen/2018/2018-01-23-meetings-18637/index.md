@@ -1,0 +1,55 @@
+# 26. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-23T15:40:00+01:00
+- Ende: 2018-01-23T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18637
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18637
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00644420.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00644420.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00644420.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnern
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Nachbesetzung im Beirat Filmkultur - ungeändert beschlossen
+- TOP 4.2: Zuschüsse zur Förderung von Kleinfestivals - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Leitprojekt "Stärkung der freien Szene als Akteuer der Stadtgesellschaft - Verteilung der zusätzlichen Transferaufwendungen - geändert beschlossen
+- TOP 4.4: Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" Verteilung der Institutionelle Förderung - ungeändert beschlossen
+- TOP 4.5: Institutionelle Förderung der Temporary Gallery für die Haushaltsjahre 2019 bis 2021 - zurückgestellt
+- TOP 4.6: Institutionelle Förderung des Festivals "Sommerblut" für die Jahre 2018 bis 2020 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung von indischer Jain-Miniaturmalereien an das Rautenstrauch-Joest-Museum - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Energieberatung-MAKK - Kenntnis genommen
+- TOP 8.2: Terminplanung der Berichte der Freien Szene 2018 - Kenntnis genommen
+- TOP 8.3: „Maker interkulturell“ – Kulturstiftung des Bundes fördert die Stadtbibliothek Köln im Rahmen des Programms „360° - Fonds für Kulturen der neuen Stadtgesellschaft“ im Bereich Interkulturelle Bibliotheksarbeit und Diversity - Kenntnis genommen
+- TOP 8.4: Bewerbung der Stadtbibliothek war erfolgreich: Köln wird “Vorlesestadt 2017“ - in der Kategorie Nachhaltigkeit - Kenntnis genommen
+- TOP 8.5: Stadtbibliothek Köln Bericht 2017/2018 - Kenntnis genommen
+- TOP 8.6: Simultanhalle, Volkhovener Weg 209 - 211 - Kenntnis genommen
+- TOP 8.7: Energiebericht der Museen 2016 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zum MiQua - zurückgestellt
+- TOP 9.2: Sachstandsbericht über den Neubau des Historischen Archives und des Rheinischen Bildarchives am Eifelwall - zurückgestellt
+- TOP 9.3: Statusbericht Zentralbibliothek - Stand November 2017 - Kenntnis genommen
+- TOP 9.4: Zeitraster verschiedener Baumaßnahmen/Bauvorhaben im Kulturbereich - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der SPD-Fraktion betr.: "Zukünftiger Betrieb des "Underground" in Ehrenfeld" - Kenntnis genommen
+- TOP -: Zukünftiger Betrieb des "Underground" in Ehrenfeld; Anfrage SPD-Fraktion im Rat vom 23.08.2017 - Kenntnis genommen
+- TOP 11.2: Anfrage der Ratsgruppe Bunt betr.: "Freier oder freiwilliger Kostenbeitrag für Eintritt – solche oder andere Bezahlkonzepte für städtische Museen?" - zurückgestellt
+- TOP -: Beantwortung Anfrage der Ratsgruppe Bunt betr.: " Freier oder freiwilliger Kostenbeitrag für Eintritt - solche oder andere Bezahlkonzepte für die städtischen Museen" - zurückgestellt
+- TOP 11.3: Anfrage der Ratsgruppe Bunt betr.: "Gegen jeden Antisemitsmus – welche Projekte fördert Köln?" - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0092/2018 betr.: "Gegen jeden Antisemitismus - welche Projekte fördert Köln?" - zurückgestellt
+- TOP 11.4: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sommer Köln" - zurückgestellt
+- TOP 12: Mündliche Anfragen
