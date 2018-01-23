@@ -1,0 +1,6 @@
+# TOP 5: Bericht der AG 78 zur Planung für 2018 <span style="color: #888a85" title="Zusatzinfo">(BE: Herr F. Brauns)</span>
+
+- Sitzung: 25. Sitzung des Jugendhilfeausschusses (2018-01-23)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=14100
