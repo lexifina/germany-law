@@ -1,0 +1,146 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-01-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4787625
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4787625
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Neuwahl einer/s 2. stellvertretenden BA-Vorsitzenden
+- TOP 1.3.2.: Neuwahl einer/s Jugendbeauftragten
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Vorschlag zur Reduzierung parkender Fahrzeuge von Angestellten, Besuchern und Patienten des städtischen Klinikums Harlaching in den reinen Wohngebieten rund um den Standort des Krankenhauses
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Bürgerinitiative Mehr Platz zum Leben Infofilm für das Projekt „Gestaltung der stillgelegten Bushaltestelle 58 am Kolumbusplatz“ 550,00€ Az. 0262.0-18-0131
+- TOP 3.1.2.2.: zu 3.1.2.1 Mail des Direktoriums vom 21.12.2017
+- TOP 3.2.1: Bericht
+- TOP 3.2.1.1.: Rücknahme der neuen Beschilderung in der Lohstraße; Bürgeranliegen vom 15.11.17
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung: Wettersteinplatz (Verbindung zwischen Fromundstraße und Grünwalderstraße; Beschlussvorlage des Baureferats
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Programm Barrierefreie Bushaltestellen, Pilgersheimer Straße, Haltetselle Humboldtstraße; Anhörung durch das Baureferat zur Ausbauplanung
+- TOP 3.2.4.2.: Haltverbot Seybothstraße, Ecke Theodolindenstraße; Anhörung durch das Kreisverwaltungsreferat zur beabsichtigten verkehrsrechtlichen Anhörung
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Stationäre Geschwindigkeitsdisplays im 18. Stadtbezirk
+- TOP 3.2.5.2.: Verkehrsspiegel an der Einmündung Brehm- / Schönstraße
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Änderung der Straßenverkehrs-Ordnung (StVO); Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Stoppt den Zuglärm Kolumbusplatz - Braunauer Brücke; Empfehlung Nr. 14-20 / E 01648 der Bürgerversammlung im 5. Stadtbezirk am 29.06.17; Anhörung durch das Referat für Gesundheit und Umwelt zum Beschlussentwurf
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Toilette auf dem Rotkreuzparkplatz (Tierparkstraße) sauber und instand halten
+- TOP 3.3.5.2.: Errichtung einer Feinstaubmessstelle in Giesing/Harlaching
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Mieterbeiratswahl 2018, Entsendung von stimmberechtigten Mitgliedern; Schreiben des Sozialreferats vom 04.12.2017
+- TOP 3.4.4.2.: Ausschreibung Kinder-Aktions-Koffer 2018/2019
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Containeranlage Am Hollerbusch 1 Umwidmung und Nutzung durch die Grundschule an der Rotbuchenstraße
+- TOP 3.4.5.2.: Finanzielle Förderung des Formularservice Giesing
+- TOP 3.4.5.3.: Instandsetzung der Bänke am Hans-Mielich-Platz
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Errichtung eines 3-gruppigen Kindergartens in Pavillonbauweise an der Schönstraße 9 als Ersatz für den Interimscontainer; Genehmigung des Nutzerbedarfsprogramms durch verwaltungsinterne Abstimmung
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.1.: Klobensteiner Straße 17, Neubau eines Mehrfamilienhauses (3 WE) mit Garage
+- TOP 3.5.4.1.2.: Reinekestraße 52, Neubau eines Wohnhauses mit Tiefgarage oder Garagen sowie Abbruch eines Wohnhauses mit Garage - Vorbescheid
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Unterrichtungen durch das Sozialreferat über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen im Erhaltungssatzungsbereich 3.5.6.2.1 Anwesen in der Agilolfingerstraße; Schreiben vom 03.01.18 3.5.6.2.2 Anwesen in der Lohstraße; Schreiben vom 01.12.17
+- TOP 3.5.6.3.: Mitteilung über ein Grundstücksgeschäft: Verkauf Krumpter-/Agilolfingerstraße; Schreiben des Kommunalreferates vom 20.12.17
+- TOP 3.5.6.4.: Bauvorhaben Benediktenwandstraße, Vorbescheid vom 02.01.18
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Einladung zur Gesprächsreihe "Giesing zwischen Aufwertung und Ausverkauf" ? Schreiben der Münchner Volkshochschule, Stadtbereich Ost vom 20.12.17
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.13.: Tagesordnungspunkt (betrifft Privatpersonen)
