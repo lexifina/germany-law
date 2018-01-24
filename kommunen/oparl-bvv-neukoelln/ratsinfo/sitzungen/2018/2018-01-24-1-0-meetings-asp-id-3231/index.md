@@ -1,0 +1,90 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-01-24T17:00:00+01:00
+- Ende: 2018-01-24T22:29:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3231
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3231
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Energetische Sanierung in der Gropiusstadt, Löwensteinring 23/25 - beantwortet
+- TOP 1.2: Verdrängung durch Immobilienfirma "Albert Immo S.A.R.L." - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 3.1: Einspruch gegen Ordnungsmaßnahme - in der BVV abgelehnt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Verzicht von religiösen Symbolen auf öffentlichen Spielplätzen - in der BVV abgelehnt
+- TOP 10.2: Drogenkonsum- und Suchtberatungsangebot - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.3: Jugendfördergesetz - beantwortet
+- TOP 10.4: Engagement gegen illegales Glücksspiel in Neukölln - vertagt
+- TOP 10.5: Zweckentfremdung von Wohnraum - vertagt
+- TOP 10.6: Zu lange Bearbeitungszeiten bei Wohnberechtigungsschein-Anträgen - vertagt
+- TOP 10.7: Unterstützung für Obdachlose - vertagt
+- TOP 10.8: Neuköllner Mieterbeirat von Stadt und Land ausgeschlossen - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Verbesserungen für die neue Fahrradstraße in der Weserstraße - vertagt
+- TOP 11.2: Geschichtliche Aufarbeitung Wissmannstraße - vertagt
+- TOP 11.3: Neukölln wird "Kinderfreundliche Kommune" - vertagt
+- TOP 11.4: Hauptamtliche Leitung der Seniorenfreizeitstätten - vertagt
+- TOP 11.5: Fachkonferenz Jugendberufsagentur - vertagt
+- TOP 11.6: Bezirkliche Seniorenvertretung stärken - vertagt
+- TOP 11.7: Einwohner*innenantrag: Fahrradfreundlicher Bezirk Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Gut und sicher ankommen im Estrel - vertagt
+- TOP 11.9: Fahrradstraße Neukölln - vertagt
+- TOP 11.10: Fairer Bezirk – Faires Outfit - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Alle Jahre wieder- Silvesterchaos in Neukölln? - vertagt
+- TOP 12.2: Kann gefährliches Verkehrsverhalten wirksam bekämpft werden? - vertagt
+- TOP 12.3: Bushaltestelle Seeadlerweg - vertagt
+- TOP 12.4: Was hat Neukölln vom Haushaltsüberschuss von 2,16 Mrd. Euro in 2017 im Land Berlin? - vertagt
+- TOP 12.5: Wohnumfeldnahes Grün, Biodiversität und Luftqualität - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Müssen Neuköllns Obdachlose frieren? - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Wassermenge und Wasserqualität im Rudower Fließ - vertagt
+- TOP 14.2: Schilderloses Gestänge entfernen - vertagt
+- TOP 14.3: Stopp dem Feuerwerkswahnsinn! - vertagt
+- TOP 14.4: Bushaltestelle Seeadlerweg - vertagt
+- TOP 14.5: Glas-Iglus Böhmische Str. 55-56 aufstellen - vertagt
+- TOP 14.6: Barrierefreie Ampeln - vertagt
+- TOP 14.7: Zur Änderung des angeordneten absoluten Halteverbotes vor dem Grundstück Stubenrauchstraße Nr. 100. - vertagt
+- TOP 14.8: Gefährliches Verkehrsverhalten wirksam bekämpfen - vertagt
+- TOP 14.9: Mieterbeiratswahlen demokratisch durchführen - vertagt
+- TOP 14.10: Rückschnitt von Sträuchern und Büschen zur Herstellung des nach dem BerlStrG erforderlichen Regelprofiles - vertagt
+- TOP 14.11: Blühstreifen, Blühflächen und wohnumfeldnahes Grün - vertagt
+- TOP 14.12: Neukölln soll von der positiven Haushaltssituation profitieren - vertagt
+- TOP 14.13: Grünfläche Kielingerstraße - vertagt
+- TOP 14.14: Fußgängerampel Gutschmidtstraße - vertagt
+- TOP 14.15: Geschwindigkeitsüberwachung im Ortolanweg - vertagt
+- TOP 14.16: Verkaufsverbot an Sonn- und Feiertagen aufheben - vertagt
+- TOP 14.17: Maßnahmen gegen „Trinkerszene“ im U-Bahnhof Rathaus Neukölln - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Fußgängerüberweg - vertagt
+- TOP 15.2: Integrationspreis - vertagt
+- TOP 15.3: Müllbehälter auf dem Grünzug Britz-Buckow-Rudow - vertagt
+- TOP 15.4: Effektive verkehrsberuhigende Maßnahmen in der Neckarstraße - vertagt
+- TOP 15.5: Grünanlage aufwerten - vertagt
+- TOP 15.6: Verkehrssicherheit für Schulkinder Am Eichenquast - vertagt
+- TOP 15.7: Fahrradwegführung am Buckower Damm - vertagt
+- TOP 15.8: Bessere Sichtverhältnisse an der Kreuzung Hugo-Heimann-Straße / Kölner Damm - vertagt
+- TOP 15.9: Umsetzung des Toilettenkonzepts des Senats in Neukölln - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Neukölln baut einen Bezirksjugendring auf - vertagt
+- TOP 16.2: Defibrillator fürs Rathaus Neukölln - vertagt
+- TOP 16.3: Gehweg in der Köpenicker Straße ab Eingang Schmiedeteich bis Alt-Rudow - vertagt
+- TOP 16.4: Abgabe von Unterlagen durch Jobcenter Neukölln wieder bestätigen - vertagt
