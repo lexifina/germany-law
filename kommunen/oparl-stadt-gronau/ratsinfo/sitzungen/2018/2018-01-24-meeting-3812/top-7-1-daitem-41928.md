@@ -1,0 +1,8 @@
+# TOP 7.1: Beitragssatzung für die OGS / ÜMI Einrichtungen an Gronauer Grundschulen
+
+- Sitzung: Haupt- und Finanzausschuss (35. Sitzung) (2018-01-24)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/41928
+- Beratung: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/17074
+- Beschluss (Datei): Beschlusstext (Beitragssatzung für die OGS / ÜMI Einrichtungen an Gronauer Grundschulen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdikDcJV3Yuh6xLByY89t9BC6c73JOqYO1LBhiSko5Em/Beschlusstext_357-2017_1._Ergaenzung_-oeffentlich-_Haupt-_und_Finanzausschuss_24.01.2018.pdf
