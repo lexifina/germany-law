@@ -1,0 +1,107 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-25T16:00:00+01:00
+- Ende: 2018-01-25T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18813
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18813
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647057.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647057.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647057.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1: Aktuelle Stunde Karneval
+- TOP 1.2: Aktuelle Stunde Weinanbau/Weinberg Severinstorburg, Antrag des Bezirksbürgermeisters
+- TOP 2: Vorstellung des Projektes Straßenland
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Fällung eines Baumes an der Kyotostraße - zurückgestellt
+- TOP 5.2: Demontage der Lichtsignalanlagen Neusser Straße/Neusser Wall, Neusser Straße/Weißenburgstraße und Neusser Straße/Balthasarstraße und Ersatz durch alternative Betriebsformen - zurückgestellt
+- TOP 5.3: Straßen- und Radwegunterhaltungsmaßnahmen im Kölner Stadtgebiet (Innenstadt) ab dem Jahr 2017 ff. - geändert beschlossen
+- TOP 5.4: Richtlinie für die Benennung von Straßen - zurückgestellt
+- TOP 5.5: Teileinziehung im Bereich der Eisenbahnüberführung Johannisstraße in Köln-Altstadt/Nord - zurückgestellt
+- TOP 5.6: Einbahnstraßenregelung Friesenstraße - zurückgestellt
+- TOP 5.7: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Innenstadt - ungeändert beschlossen
+- TOP 5.8: Parkraumbewirtschaftung auf dem Auenweg in Köln Deutz - zurückgestellt
+- TOP 5.8.1: ÄA zur Vorlage 3563/2017 - Parkraumbewirtschaftung auf dem Auenweg - zurückgestellt
+- TOP 5.9: 263. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 5.10: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - zurückgestellt
+- TOP 5.10.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - zurückgestellt
+- TOP 5.11: Umgestaltung Ebertplatz; Verfahrensvorschlag; hier: Begründung der Dringlichkeit - geändert beschlossen
+- TOP 5.11.1: "Verwaltung und Gremien für Soziales und Kultur einbeziehen!" - Änderungsantrag zu Top 5.4 "Umgestaltung Ebertplatz; Verfahrensvorschlag" - ungeändert beschlossen
+- TOP 5.12: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert beschlossen
+- TOP 5.13: Anordnung einer Fahrradstraße im Friesenwall - geändert beschlossen
+- TOP 5.13.1: Änderungsantrag zu 5.13: Anordnung von einer Fahrradstraße im Friesenwall - ungeändert beschlossen
+- TOP 6: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 6.2: Bürgereingabe gem. § 24 GO, betr.: Fahrbahnmarkierung in der Domumgebung (Az.: 02-1600-170/16) - geändert beschlossen
+- TOP 6.3: Bürgereingabe gem. § 24 GO, betr.: Parksituation am Hansaring 119 für Anwohner (Az.: 02-1600-84/17) - zurückgestellt
+- TOP 7: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 7.1: Anträge aus früheren Sitzungen
+- TOP 7.1.1: Abpollerung Auenweg - zurückgestellt
+- TOP 7.1.2: Attraktivierung des Josef-Haubrich-Hofes (Altstadt/Süd) - zurückgestellt
+- TOP 7.1.3: Umgestaltung des Eisenmarktes - zurückgestellt
+- TOP 7.1.4: Haus Ludolf-Camphausen-Straße 36 erhalten - endgültig zurückgezogen
+- TOP 7.1.5: Verbesserung der Beleuchtungssituation des Fußgängerwegs zwischen Im Sionstal und Severinstraße - zurückgestellt
+- TOP 7.1.6: Radabstellanlagen Alteburger Straße 26-28 - zurückgestellt
+- TOP 7.1.7: Prüfung Radweg Venloer Straße - zurückgestellt
+- TOP 7.1.8: Fahrbahnparken Brüsseler Straße - zurückgestellt
+- TOP 7.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 7.2.1: Antragstellung beim Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) auf Erlaubnis zur kontrollierten und lizenzierten Abgabe von Cannabisprodukten zum Zweck des Betriebs von Abgabestellen in der Kölner Innenstadt - zurückgestellt
+- TOP 7.2.2: Umwidmung von Parkplätzen in Radabstellanlagen - Severinstraße 35-37 - zurückgestellt
+- TOP 7.2.3: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 7.2.4: Ebertplatz: Berichterstattung zum Fortschritt der vorbereitenden Maßnahmen zur Umsetzung der Neugestaltung - ungeändert beschlossen
+- TOP 7.2.5: Verbesserung der Situation für FußgängerInnen Ubierring/TH Köln - zurückgestellt
+- TOP 7.2.6: Zusätzliche Lichtsignalanlage für bessere Querung der Fußgänger am Überweg Ubierring / Mainzer Straße bzw. An der Bottmühle - ungeändert beschlossen
+- TOP 7.2.7: Zulassung von Imbiss- und Getränkestände von ortsansässigen Gaststätten an Karneval - geändert beschlossen
+- TOP 7.2.8: Umgestaltung Neuhöfferstr. und Siegesstr. nach abgeschlossenen Baumaßnahmen - ungeändert beschlossen
+- TOP 7.2.9: Prüfung einer Parkpalette unter bzw. an der Zoobrücke - zurückgestellt
+- TOP 7.2.10: Unverzügliche Fortsetzung des Konzeptes "Sitzen statt Parken" - geändert beschlossen
+- TOP 7.2.11: Anordnung einer Fahrradstraße zwischen Schaafenstraße und Weyerstraße (Mauritiuswall) - ungeändert beschlossen
+- TOP 8: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 9: Anfragen aus früheren Sitzungen
+- TOP 9.1: Obdachlosen-/“Alkoholkonsum“-Szene auf der Deutzer Freiheit - zurückgestellt
+- TOP 9.2: Gastronomien in der Passage Ebertplatz - zurückgestellt
+- TOP 9.3: Spiel- und Sportgeräte im Klingelpützpark (Altstadt/Nord) - zurückgestellt
+- TOP 9.4: Lackierung am U-Bahn-Abgang Bonner Wall
+- TOP 9.4.1: Anfrage nach § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln
+- TOP 9.5: Feuerwehrzufahrt Lanxess Arena/Constantinstr.
+- TOP 9.5.1: Feuerwehrzufahrt Lanxess-Arena / Constantinstraße - zu AN/1706/2017
+- TOP 9.6: Quartiersplatz Ursulaplatz/Ecke Am Salzmagazin (Altstadt/Nord) - zurückgestellt
+- TOP 9.7: Stationen für Leihräder (Ford-Räder), Anfrage SPD - zurückgestellt
+- TOP 9.8: Anfrage zur Drehung der Fahrtrichtung im Kartäuserwall - zurückgestellt
+- TOP 9.9: Rechtsrheinische Treppenanlagen der Deutzer Brücke - zurückgestellt
+- TOP 9.10: Bodenmarkierungen für Fußgängerüberwege - zurückgestellt
+- TOP 9.11: Anfrage zur Lichtsignalanlage an der Ecke Lothringer Straße/ Vorgebirgsstraße
+- TOP 9.11.1: Lichtsignalanlage an der Ecke Lothringer Straße/Vorgebirgsstraße
+- TOP 9.12: Wildwuchs auf der Nordseite der Kasemattenstraße in Deutz - zurückgestellt
+- TOP 9.13: Unterbringung einer Tanzschule im Innenhofbereich Kyffhäuserstr. - zurückgestellt
+- TOP 9.14: Sauberkeit in Deutz, Anfrage CDU - zurückgestellt
+- TOP 9.15: Antragstellung beim Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) auf Erlaubnis zur kontrollierten und lizenzierten Abgabe von Cannabisprodukten zum Zweck des Betriebs von Abgabestellen in der Kölner Innenstadt (AN/0039/2018) - zurückgestellt
+- TOP 10: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 10.1.1: Weitere Präsentation der Archäologie am Historischen Park Deutz - zurückgestellt
+- TOP 10.1.2: Wohnraumzweckentfremdungen - zurückgestellt
+- TOP 10.1.3: Sachstand Radstation und Umfeldplanungen am Südbahnhof (Neustadt/Süd) - zurückgestellt
+- TOP 10.1.4: Sauberkeit Spielanlage Von-Sandt-Platz - zurückgestellt
+- TOP 11: Mündliche Fragen an die Verwaltung
+- TOP 12: Mitteilungen des Bezirksbürgermeisters
+- TOP 13: Mitteilungen der Verwaltung
+- TOP 13.1: Zielbild 2020 - Kenntnis genommen
+- TOP 13.2: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 13.3: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 13.4: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 13.5: Beantragte Zügigkeitserhöhung am Stadtgymnasium Porz und dem Friedrich-Wilhelm-Gymnasium - Kenntnis genommen
+- TOP 13.6: Neusser Wall 33 - Fort X - Rodungsarbeiten vor Dachsanierung - Kenntnis genommen
+- TOP 13.7: Karneval 2018 - Ergebnisse des "Runden Tisches Straßenkarneval" und Umsetzung erster Maßnahmen - Kenntnis genommen
+- TOP 13.8: "Sag´s uns: internetgestützte Maßnahmen zum Wohnraumschutz - Kenntnis genommen
+- TOP 13.9: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 13.10: Ladezone Komödienstraße Ecke Tunisstraße - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 13.11: Anfrage der SPD Fraktion vom 16.01.2018, Entwicklung des Grundstücks Krefelder Straße/Innere Kanalstraße
+- TOP 13.12: Städtisches Grundstück Krefelder Straße/Innere Kanalstraße in Köln-Neustadt/Nord (Bauwagenplatz)
