@@ -1,0 +1,64 @@
+# 27. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-25T17:00:00+01:00
+- Ende: 2018-01-25T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18609
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18609
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645124.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645124.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00645124.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Bessere Querungsmöglichkeiten, Tempo 30-Zone und Streckenführung der Buslinie 150 (Az.: 02-1600-211/16) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Installierung eines Wegweisers zum Höhenbergbad an der Haltestelle Fuldaer Straße in Köln-Höhenberg - ungeändert beschlossen
+- TOP 7.2: Vergrößerung der Trauerhalle auf dem Friedhof am Lehmbacher Weg in Köln-Brück - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Kalk - ungeändert beschlossen
+- TOP 8.1.2: Baubeschluss für die Errichtung einer Fußgängersignalisierung an der Kreuzung Rolshover Straße/Sieverstraße - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Richtlinie für die Benennung von Straßen - abgelehnt (in der Vorberatung)
+- TOP 8.2.2: Gestaltungsplanung für ein Kooperationsgräberfeld auf dem Friedhof Kalk - ungeändert beschlossen
+- TOP 8.2.3: 263. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 8.2.4: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - zurückgestellt
+- TOP -: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans (3428/2017) - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - Sache ist erledigt
+- TOP 8.2.5: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Sachstand zur Schaffung eines S-Bahn-Haltepunktes "Deutzer Feld" - Kenntnis genommen
+- TOP 9.1.2: Postbriefkästen auf der Gremberger Straße in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.1.3: Radverkehrskonzept für den Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.4: Erschließung der Siedlung Oberer Bruch in Köln-Brück - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Querungshilfe auf der Rösrather Straße zwischen Servatiusstraße und BAB-Überführung in Höhe des Kindergartens in Köln-Ostheim - Kenntnis genommen
+- TOP 9.2.2: Oberirdische Anzeige der ankommenden Straßenbahnen der Linie 1 an der Haltestelle Frankfurter Straße in Köln Höhenberg - Kenntnis genommen
+- TOP 9.2.3: Mögliches Bauprojekt Olpener Straße 873 in 51109 Köln-Brück - Kenntnis genommen
+- TOP -: Mögliches Bauprojekt Olpener Straße 873 in 51109 Köln-Brück - Kenntnis genommen
+- TOP 9.2.4: Erhalt des Festsaals der Gaststätte "Em Hähnche" in Köln-Brück - Kenntnis genommen
+- TOP 9.2.5: Sachstand Verkehrskonzepte Kalk AN/0401/2016 und 1322/2016 - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Zielbild 2020 - Kenntnis genommen
+- TOP 10.2.2: Pläne für die Verkehrsführung auf der Eiler Straße bzw. der Rather Schulstraße während der Sanierung der A3-Brückenbauwerke in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.3: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 10.2.4: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 10.2.5: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.6: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 10.2.7: Zeitgemäße Neuordnung des Verkehrs im Osten des Stadtteils Brück - Kenntnis genommen
