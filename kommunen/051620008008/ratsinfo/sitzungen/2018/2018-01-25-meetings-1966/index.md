@@ -1,0 +1,89 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-01-25T18:08:00+01:00
+- Ende: 2018-01-25T20:41:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1966
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1966
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Top 3 Interkommunale Zusammenarbeit / Personalkostenkonzept Vortrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00084323.pdf
+- Ergebnisprotokoll: Top 3 Interkommunale Zusammenarbeit / Personalkostenkonzept Vortrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00084323.pdf
+- Wortprotokoll: Top 3 Interkommunale Zusammenarbeit / Personalkostenkonzept Vortrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00084323.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Eintragung ins Goldene Buch - einstimmig
+- TOP 3: Interkommunale Zusammenarbeit - einstimmig
+- TOP 4: Schriftliche Anträge
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.2.1: Parkplatzmarkierungen in Neurath (Antrag Nr. 12/18) - einstimmig
+- TOP 4.2.2: Ausschussumbesetzungen (Antrag Nr. 13/18) - einstimmig
+- TOP 4.2.3: Einrichtung eines Durchfahverbotes für LKW der Langwadener Straße (Antrag Nr. 14/18) - einstimmig
+- TOP 4.2.4: Nebenämter der Kämmerin (Antrag Nr. 3/18) - mehrheitlich bei
+- TOP 4.3: UWG/ABG
+- TOP 4.4: FDP
+- TOP 4.4.1: AMAZON eröffnet Ladengeschäfte in Deutschland (Antrag Nr. 1/18) - einstimmig
+- TOP 4.5: Mein Grevenbroich
+- TOP 4.5.1: Prüfauftrag Umwandlung von Wohnraum (Antrag Nr. 4/18) - einstimmig
+- TOP 4.5.2: Schanzentunnel (Antrag Nr. 5/18) - einstimmig
+- TOP 4.5.3: Müllhalde Ostwall (Antrag Nr. 6/18) - einstimmig
+- TOP 4.5.4: Erarbeitung eines identitätsstiftenden Gestaltungskonzeptes für die Innenstadt (Antrag Nr. 7/18) - einstimmig
+- TOP 4.6: Die Linke- Freie Bürger
+- TOP 4.6.1: Förderung des sozialen Wohnungsbaus (Antrag Nr. 2/18) - einstimmig
+- TOP 4.7: Gemeinschaftsanträge
+- TOP 4.8: B 90/DIE GRÜNEN
+- TOP 4.8.1: Weiterentwicklung der Bürgerbeteiligung in Grevenbroich (Antrag Nr. 8/18) - einstimmig
+- TOP 4.8.2: Überdachung des Marktplatzes (Antrag Nr. 10/18) - einstimmig
+- TOP 4.8.3: Prüfauftrag zum Buslinienverkehr (Antrag Nr. 11/18) - einstimmig
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.3: UWG/ABG
+- TOP 5.4: FDP
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.5.1: Anfrage zur Mittelverwendung aus dem Programm "Gute Schule" (Anfrage Nr. 9/18) - einstimmig
+- TOP 5.6: Mein Grevenbroich
+- TOP 5.7: Die Linke - Freie Bürger
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 6.1: Genehmigung einer Dringlichkeitsentscheidung - mehrheitlich bei
+- TOP 7: Mittelbereitstellungen
+- TOP 8: Beteiligungsverfahren Kreishaushaltssatzung - einstimmig
+- TOP 9: Stellenwiederbesetzung aussetzen (Antrag Nr. 175/17) - einstimmig
+- TOP 10: Flüchtlings- und Integrationsangelegenheiten
+- TOP 11: Delegiertenversammlung Erftverband - einstimmig
+- TOP 12: Widmung "Am Ziegelkamp" - einstimmig
+- TOP 13: Satzung über die abweichende Erhebung von Gebühren - mehrheitlich bei
+- TOP 14: Entschädigungsleistung für Mitglieder des Verwaltungsrates - einstimmig
+- TOP 15: Entscheidung PlanungsA
+- TOP 15.1: 24. FNP Änd - Aufstellungsbeschluss+frühz.Öffentl.beteil. - einstimmig
+- TOP 15.2: Straßenben. im B-plan Bereich G 215 - einstimmig
+- TOP 16: Beantwortung Anträge
+- TOP 16.1: Beantwortung von Anträgen und Anfragen hier: Sammelbeantwortung - einstimmig
+- TOP 16.2: Verwendungszwecke Stellplatzablösebeiträge durch Novellierung (Antrag Nr. 27/17) - einstimmig
+- TOP 16.3: Sanierung des Schulneubaus an der Parkstraße (Antrag Nr. 89/17) - einstimmig
+- TOP 16.4: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - einstimmig
+- TOP 16.5: Grundbesitzabgabenbescheide online zustellen (Antrag Nr. 149/17) - einstimmig
+- TOP 16.6: Verlängerung des Fischereischeins online ermöglichen (Antrag Nr. 156/17) - einstimmig
+- TOP 16.7: Sanierung der L142 Langwaden (Anfrage Nr.102/17 und 240/17 - einstimmig
+- TOP 16.8: Rodung von Bäumen und Sträuchern (Anfrage Nr. 55/17) - einstimmig
+- TOP 16.9: Auflistung noch nicht erledigter Anträge des Rates in der Verwaltung (261/17) - einstimmig
+- TOP 16.10: Nachfolgelösung PVRat Informationssystem (Anfrage Nr. 269/17) - einstimmig
+- TOP 16.11: Beantwortung zu Vorlage Nr. 430/2017 und 496/2017 - einstimmig
+- TOP 17: mündliche Anträge/Anfragen
+- TOP 17.1: mündliche Anfrage Rh Dorok (Anfrage Nr. 16/18)
+- TOP 17.2: Rh Windler: Sachstand Sanierung L 142 (Anfrage Nr. 17/18)
+- TOP 17.3: Rh Windler: Baustelle Königsstraße Elsen (Anfrage Nr. 18/18)
+- TOP 17.4: Rh Windler: Kassenkredite 31.12.2017 (Anfrage 19/18)
+- TOP 17.5: Rh Rinkert: Integrationspauschale (Anfrage Nr. 20/18)
+- TOP 17.6: Rh Rinkert: Sachstand B59 (Anfrage Nr. 21/18)
+- TOP 17.7: Rh Feuster: Beschilderung Nordstraße (Antrag Nr. 22/18)
+- TOP 17.8: Rh Schumacher: städtische Homepage Bundestagsabgeordnete (Anfrage Nr. 23/18)
+- TOP 17.9: Rh von Borzetowski: Ratsprotokoll 26.01.2017 (Antrag Nr. 66/17) - Kenntnisnahme
+- TOP 17.10: Rh Gerbrand: Fahrradfreundliche Kommune (Anfrage Nr. 24/18)
+- TOP 18: Mitteilungen BM
+- TOP 18.1: Verlängerung von Glasverboten - Kenntnisnahme
