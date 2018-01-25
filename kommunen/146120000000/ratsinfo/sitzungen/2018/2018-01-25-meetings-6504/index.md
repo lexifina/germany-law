@@ -1,0 +1,56 @@
+# 47. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-01-25T16:00:00+01:00
+- Ende: 2018-01-25T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6504
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6504
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - zwei Runden
+- TOP 3.1: Mietvertrag für die „Loge“ des Heinrich-Schütz-Konservatoriums - erledigt
+- TOP 3.2: Personalsituation in Kindertageseinrichtungen - erledigt
+- TOP 3.3: Zuwendungen der Ortschaft Schönfeld-Weißig - erledigt
+- TOP 3.4: Sauberkeit und Ordnung im Stadtgebiet - erledigt
+- TOP 3.5: Denkmalschutz im Gebiet des Bebauungsplanes Nr. 351 Dresden-Klotzsche - erledigt
+- TOP 3.6: Sicherheit am Wiener Platz - erledigt
+- TOP 3.7: Ski-Weltcup in Dresden - erledigt
+- TOP 3.8: Ausgabenentwicklungen bei HzE-Kosten - erledigt
+- TOP 3.9: Luftqualität mit neuem Bundesförderprogramm verbessern - erledigt
+- TOP 3.10: Aktuelle Besetzung nach Stellenplan - erledigt
+- TOP 3.11: Sicherheitslage Wiener Platz - erledigt
+- TOP 3.12: Aktivitäten der Landeshauptstadt zur Einbindung der Dresdner Neustadt als Kompensation für die Einschränkungen durch die Baumaßnahme Augustusbrücke - erledigt
+- TOP 3.13: Auflagen und Maßnahmen für würdiges und stilles Gedenken am 13. Februar - erledigt
+- TOP 3.14: Mitarbeiterstruktur - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 4.1: Umbesetzung im Ortsbeirat Prohlis - gewählt
+- TOP 4.2: Umbesetzung im Ortsbeirat Klotzsche - Zustimmung
+- TOP 5: Umbesetzung Beirat des Jobcenters - Zustimmung
+- TOP 6: Einigungsverfahren Aufsichtsräte
+- TOP 6.1: Aufsichtsrat der STESAD GmbH - Benennung
+- TOP 6.2: Aufsichtsrat der Kommunalen Immobilien Dresden GmbH & Co. KG - Benennung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Gymnasium Dresden Cotta, Cossebauder Straße 35 in 01157 Dresden - Gesamtsanierung Schulgebäude sowie Anpassung und Neugestaltung der - Zustimmung
+- TOP 9: Universitätsschule Dresden - Durchführung eines Schulversuches nach § 15 Absatz 1 SächsSchulG - Zustimmung mit Ergänzung
+- TOP 10: Vertagungen der Stadtratssitzung vom 14. Dezember 2017
+- TOP 10.1: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung durch Einreicher
+- TOP 10.2: Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Oberschulen, Gymnasien, berufsbildende Schulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft - Ersetzung
+- TOP 11: Verweisung der Stadtratssitzung vom 14. Dezember 2017
+- TOP 11.1: Bauvorhaben „Aufweitung Weißiger Landstraße“ in Dresden-Gönnsdorf - Zustimmung
+- TOP 12: Ausschreibung einer Dienstleistungskonzession für die Organisation und Durchführung einer Jahreswechselveranstaltung auf dem Neumarkt zwischen 2018 und 2021 (2023) - Zustimmung
+- TOP 13: Polizeiverordnung der Landeshauptstadt Dresden als Kreispolizeibehörde zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung in Dresden (PolVO Sicherheit und Ordnung) - Zustimmung mit Änderung
+- TOP 14: Neufassung der Satzung der Landeshauptstadt Dresden über die Durchführung von Kommunalen Bürgerumfragen (Satzung KBU) - Zustimmung
+- TOP 15: Neufassung der Satzung der Landeshauptstadt Dresden über die Durchführung einer Kommunalstatistik zur Erhebung von Daten für die Erstellung des Dresdner Mietspiegels (Mietspiegel-Satzung) - Zustimmung
+- TOP 16: Maßnahmenplan für Suchtprävention am Wiener Platz und weiteren Brennpunkten bis 2020 - Vertagung nach 22 Uhr
+- TOP 17: Aufhebung des Erbbaurechtes für das Grundstück Tornaer Straße 40 - Vertagung
+- TOP 18: Bebauungsplan Nr. 351, Dresden-Klotzsche Nr. 12, Zur Wetterwarte - Zustimmung
+- TOP 19: Überprüfung der Parkraumsituation im Ortsamtsbereich Pieschen und Erarbeitung einer Parkraumkonzeption - Vertagung
+- TOP 20: Benennung eines Wegeteilstücks in Briesnitz - Vertagung
+- TOP 21: Förderung öffentlicher Grillkultur - Einrichtung und Pflege weiterer Grillplätze und/oder Lagerfeuerstellen - Vertagung nach 22 Uhr
