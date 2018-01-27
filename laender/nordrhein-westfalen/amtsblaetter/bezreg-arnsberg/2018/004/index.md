@@ -1,0 +1,9 @@
+# Amtsblatt für den Regierungsbezirk Arnsberg 2018 Nr. 4 vom 27.01.2018
+
+- Herausgeber: Bezirksregierung Arnsberg
+- Ausgabe: 2018-01-27 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 4
+- Quelle: https://www.bra.nrw.de/system/files/media/document/file/abl_04_18_0.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+
+- Text: nicht übernommen - die Ausgabe nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
