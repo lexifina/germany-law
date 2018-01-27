@@ -1,1 +1,1 @@
-# Verordnung über das Verbot des Führens von Waffen vom 9. Dezember 2008
+# Bremische Verordnung über das Verbot des Führens von Waffen und Messern vom 16. Januar 2018
