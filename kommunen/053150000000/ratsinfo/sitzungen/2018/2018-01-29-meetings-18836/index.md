@@ -1,0 +1,70 @@
+# 29. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-29T17:00:00+01:00
+- Ende: 2018-01-29T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18836
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18836
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Begrüßung von Frau Oberbürgermeisterin Henriette Reker und gemeinsamer Austausch
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Einwohneranfrage gem. § 39 GeschO, Spielplatz Wißmannstraße - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation, verschmutzte Gehwege Fridolinstraße in Neu-Ehrenfeld (Az.: 02-1600-75/17) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der SPD-Fraktion, betr.: Rheinische Musikschule, Regionalschule Ehrenfeld - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Leerstand in Zeiten der Wohnungsnot - Kenntnis genommen
+- TOP 7.1.1: Beantwortung einer Anfrage der Fraktion Die Linke (TOP 7.1), betr.: Leerstand in Zeiten der Wohnungsnot - Kenntnis genommen
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Anbindung Schule Wasseramselweg - Kenntnis genommen
+- TOP 7.2.1: Anbindung der Schule Wasseramselweg - Kenntnis genommen
+- TOP 7.3: Anfrage der CDU-Fraktion, betr.: Förderbedarf Heliosschule - Kenntnis genommen
+- TOP 7.3.1: Förderbedarf Heliosschule, AN/0066/2018 - Kenntnis genommen
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Anfahrt von Behindertenfahrzeugen an der künftigen Heliosschule in Ehrenfeld - Kenntnis genommen
+- TOP 7.4.1: Beantwortung einer Anfrage der CDU-Fraktion, betr.: Anfahrt von Behindertenfahrzeugen an der künftigen Heliosschule in Ehrenfeld - Kenntnis genommen
+- TOP 7.5: Anfrage der CDU-Fraktion, betr.: Kita Kappelshof - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Neuer Fußgängerüberweg Schule Baadenberger Straße - ungeändert beschlossen
+- TOP 8.2: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Insektenfreundliches Ehrenfeld - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Genehmigung einer Dringlichkeitsentscheidung, betr.: Vergabe der bezirklichen Finanzmittel 2017 - ungeändert beschlossen
+- TOP 9.2: 5-Jahresprogramm der Erschließungsmaßnahmen, Ehrenfeld - ungeändert beschlossen
+- TOP 9.3: Neufassung der Richtlinie für die Vergabe der bezirksorientierten Finanzmittel gem. § 37 GO - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Richtlinie für die Benennung von Straßen - geändert beschlossen
+- TOP 10.2: 262. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.3: Seeadlerweg in Köln-Ehrenfeld; VEP Einleitungsbeschluss und frühz Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10.4: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld; VEP Einleitungsbeschluss - zurückgestellt
+- TOP 10.5: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - zurückgestellt
+- TOP 10.5.1: Verwiesener Änderungsantrag aus dem Gesundheitsausschuss zu TOP 10.5.1. Luftreinhalteplan - zurückgestellt
+- TOP 10.5.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 10.5 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans" - zurückgestellt
+- TOP 10.6: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Zielbild 2020 - Kenntnis genommen
+- TOP 12.2: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 12.3: Bebauung eines Grundstückes am Ossendorfer Weg in Köln-Bickendorf - Kenntnis genommen
+- TOP 12.4: Integriertes Stadtentwicklungskonzept "Starke Veedel - Starkes Köln" Ergebnisse der Öffentlichkeitsveranstaltung für den Sozialraum Bickendorf, Westend und Ossendorf - Kenntnis genommen
+- TOP 12.5: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 12.6: Venloer Straße autofrei - Kenntnis genommen
+- TOP 12.7: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 12.8: Hundefreilaufflächen in Vogelsang - Kenntnis genommen
+- TOP 12.9: Straßen- und Radwegerhaltungsmaßnahmen im Kölner Stadtgebiet (Ehrenfeld) ab dem Jahr 2017 ff - Kenntnis genommen
+- TOP 12.10: Planunterlagen den stadtgesellschaftlichen Erfordernissen anpassen; AN/1144/2017; Antrag DIE LINKE. BV 4 - Kenntnis genommen
+- TOP 12.11: Mitteilung zur Stellungnahme des Ausschusses Umwelt und Grün zu "Punkt 3 - Möglichkeit Wasserspielplatz" und zu Punkt 9.7 - Kenntnis genommen
+- TOP 12.12: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 12.13: Einhaltung von Tempo 30 auf dem Goldfasanenweg in Köln-Vogelsang - Kenntnis genommen
+- TOP 12.14: Ad hoc-Programm Außengastronomie auf Stellplätzen - Kenntnis genommen
+- TOP 12.15: REWE-Markt Venloer Str. 310 - Aktueller Sachstand - Kenntnis genommen
+- TOP 12.16: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 13: mündliche Anfragen
+- TOP 15.1: Der TOP 15.1 wurde unter TOP 7.1.1 im öffentlichen Teil behandelt
