@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (24. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-01-29T18:00:00+01:00
+- Ende: 2018-01-29T19:00:00+01:00
+- Ort: Gründer- und Technologiezentrum, Grünewalder Straße 29-31, 42657 Solingen, Pliestersaal I
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZcqreg768NExo1qixWdAj2I
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4869
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWP8z29NxZP9kNBKAnZjpeL2c9R8Lyxk9TE9-UANYUWb/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_29.01.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd8SpG3arRpjsj0HENW1Vh6BKGUIf-d81TSIs_QeX3sU/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_29.01.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP -: Sockel des Peter-Witte-Denkmals
+- TOP -: HSP-Maßnahme M 197 Reduzierung Sachaufwand Straßenunterhaltung
+- TOP -: Fußgängerbrücke Horn zwischen Kradenpuhl und Wipperauer Straße
+- TOP -: Ergebnisse Studie Civity ÖPNV-Report 2017
+- TOP -: Winterdienst auf der Korkenziehertrasse
+- TOP -: Sachstandsbericht Brücke Balkhauser Kotten
+- TOP -: Werbetafeln
+- TOP -: Nutzungsfrequenz der Bedarfsampeln auf der Konrad-Adenauer-Straße
+- TOP -: Sachstand Ausbauplanungen Raststätte Ohligser Heide West
+- TOP -: TaxiBus für den Siedlungsbereich Eipaß/Fürkeltrath und das Gewerbegebiet Dycker Feld – Antrag der Fraktion Bündnis 90/Die Grünen vom 17.06.2017 (Vorlage 2816)
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die . Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.11.2017
+- TOP 3.: Umsetzung HSP-Mahnahmen hierzu: Beantwortung Nr 2 und Mitteilung Nr. 4
+- TOP 4.: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 4.1: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 5.: Zustimmung zur Direktvergabe von öffentlichen Personennahverkehrsdiensten an die Rheinbahn AG als mitbedienendes Verkehrsunternehmen
+- TOP 6.: Lärmaktionsplan der Stadt Solingen
+- TOP 7.: Fahrbahndeckenprogramm 2018
+- TOP 8.: Bauleitplanung Focher Straße/ Nümmener Feld
+- TOP 9.: Bauleitplanung Wuppertaler Straße/ gegenüber Schulte vom Brühl
+- TOP 10.: Taxibus für den Siedlungsbereich Eipaß/Fürkeltrath und das Gewerbegebiet Dycker Feld
+- TOP 11.: Umgang mit glyphosathaltigen Mitteln hier: Antrag der Ratsfraktion DIE LINKE vom 09.01.2018
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 15.: ÖPNV-Fahrgastbeirat
+- TOP 15.: Information über den KECK-Atlas der Stadt Solingen als neues Sozialrauminformationssystem - Schulungsangebot
+- TOP 15.: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf (RPD),
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.: Nachbargemeindliche Abstimmung
+- TOP 16.1: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 23.Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 20.11.2017
+- TOP 3.: Eventhalle Piepersberg Mündlicher Sachstandsbericht
+- TOP 4.: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
