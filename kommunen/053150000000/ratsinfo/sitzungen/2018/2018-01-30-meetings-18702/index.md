@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-30T15:30:00+01:00
+- Ende: 2018-01-30T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18702
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18702
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung Sachkundiger Einwohner
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Antrag auf Anerkennung als Interkulturelles Zentrum, hier: Soziales und Kulturelles Zentrum Rhein-Peri-Kreis e.V., Modemann Str. 3, 51065 Köln - zurückgestellt
+- TOP 3.2: Verteilung der Globalmittel 2018 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - zurückgestellt
+- TOP 4.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Zentrale Wahrnehmung der Aufgabe "Verpflichtung zu Integrationskursen" - ungeändert beschlossen
+- TOP 4.4: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2018 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Zuschuss an Rubicon e.V. zur Förderung einer Fach- und Beratungsstelle für geschlechtliche Selbstbestimmung "Trans*Queer* Cologne" - ungeändert beschlossen
+- TOP 5.2: Zuschuss an Rubicon e.V. zur Förderung der Integration von Flüchtlingen und Menschen mit Zuwanderungsgeschichte und LSBTI-Hintergrund in Köln; hier: Endgültige Mittelfreigabe - ungeändert beschlossen
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Beantwortung einer mündlichen Anfrage zu TOP 8.2 aus der Sitzung vom 30.01.2018 zum Thema Darstellung der Drittmittelakquise im Arbeitsmarkt- und Integrationsprgramm - Kenntnis genommen
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Nachfrage 18. Bericht zur Flüchtlingssituation - Kenntnis genommen
+- TOP 9.2: Soziale Beratung von Flüchtlingen in Nordrhein-Westfalen - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 9.4: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern ( UMA ) in 2017 in der Stadt Köln - Kenntnis genommen
+- TOP 9.5: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 9.6: 19. Bericht zur Flüchtlingssituation - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 01/2018 - Kenntnis genommen
+- TOP 10.2: Bericht des Behindertenbeauftragten 02/2018 - Kenntnis genommen
+- TOP 10.3: Erfahrungsbericht zur Integrationsvereinbarung 2016 - Kenntnis genommen
+- TOP 10.4: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Beantwortung einer Anfrage betreffend "Sachstandsbericht des Programms "Win-Win für Köln" 3422/2017" - Kenntnis genommen
+- TOP 11.1.2: Beantwortung einer Anfrage betreffend "Vorlage 2488/2017 Beschluss des Integrierten Handlungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum Humboldt/Gremberg und Kalk" - Kenntnis genommen
+- TOP 11.1.3: Beantwortung des Antrags der Fraktion CDU aus der Sitzung des Ausschusses Soziales und Senioren vom 14.12.2017 – Bereitstellung von Schließfächern in Notschlafstellen dringend notwendig AN/1840/2017 - Kenntnis genommen
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: 4. Aktionstage „gesund & mobil im Alter“ in Kooperation mit dem 11. Kölner Vorsorge-Tag am 06. und 07.03.2018 in der Zeit von 09:30 – 17 Uhr im Gürzenich der Stadt Köln - Kenntnis genommen
+- TOP 12.2: Leitprojekte zum Haushalt 2018 des Dezernats Soziales, Integration und Umwelt - Kenntnis genommen
+- TOP 12.3: Erfahrungsbericht zum Projekt „Pädagogische Begleitung und Integrationshilfen für Roma-Familien“ (2010-2016) - zurückgestellt
+- TOP 12.4: Prüfung der Abrechnungsverfahren für Leistungen freier Träger in Wohnobjekten sowie Bewachungsleistungen bei 56 - Amt für Wohnungswesen bei 56 - Amt für Wohnungswesen
+- TOP 12.5: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler Hier: Aktueller Sachstand zur Projektumsetzung - Kenntnis genommen
