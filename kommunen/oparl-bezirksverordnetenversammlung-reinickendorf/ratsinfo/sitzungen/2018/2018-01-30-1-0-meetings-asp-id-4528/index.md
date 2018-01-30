@@ -1,0 +1,63 @@
+# 10. öffentliche Sitzung des Bauausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2018-01-30T17:05:00+01:00
+- Ende: 2018-01-30T19:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=68
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4528
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4528
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=269336
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Wahl einer / eines stellv. Vorsitzenden - vertagt
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung - vertagt
+- TOP 4: Besprechungspunkte - (offen)
+- TOP 4.1: Hochwassersituation am Tegeler Fließtal - erledigt
+- TOP 4.2: Raumluft in Unterrichtsräumen - erledigt
+- TOP 5: Beratung von Drucksachen - (offen)
+- TOP 5.1: Tegeler Hafenfest maritim, fröhlich und anwohnergerecht - im Ausschuss abgelehnt
+- TOP 5.2: Campus Hannah Höch sanieren, ausbauen und stärken - im Ausschuss abgelehnt
+- TOP 5.3: Beteiligung am Pilotprojekt European Energy Award - vertagt
+- TOP 5.4: Saubere Spielplätze in Reinickendorf - vertagt
+- TOP 5.5: Schulwegsicherung "Am Dachsbau" - 1 - mit Änderungen im Ausschuss beschlossen
+- TOP 5.6: Radhaus Reinickendorf - vertagt
+- TOP 5.7: Aufenthaltsqualität im Volkspark Wittenau erhöhen - vertagt
+- TOP 5.8: Barrierefreie Angebote auf Reinickendorfer Spielplätzen erweitern - vertagt
+- TOP 5.9: Müllentsorgung in Lübars - vertagt
+- TOP 5.10: Anmeldung für die Sanierungsliste Priorität 1 - vertagt
+- TOP 5.11: Hubertussee entschlammen - vertagt
+- TOP 5.12: Toilettencontainer Flughafensee - vertagt
+- TOP 5.13: Radweg entlang der Malche - vertagt
+- TOP 5.14: Regenwasserabläufe auf der Heiligensee- und Konradshöher Straße - vertagt
+- TOP 5.15: Liegewiese am Schäfersee - vertagt
+- TOP 5.16: Zeit-/Maßnahmenplan für Schulsanierungen und Schulneubau - vertagt
+- TOP 5.17: Schulsanierung und Schulneubau mit hohen Standards realisieren! - vertagt
+- TOP 5.18: Tränken für Hundespielplätze - vertagt
+- TOP 5.19: Bienen, Schmetterlinge und andere sog. Bestäuber vor dem Aussterben bewahren - vertagt
+- TOP 5.20: Überschwemmungsschäden durch Starkregen in Reinickendorf - vertagt
+- TOP 5.21: Montessori Schule unterstützen - vertagt
+- TOP 5.22: Maßnahmen gegen Hochwasser im Bereich Mäckeritzwiesen - vertagt
+- TOP 5.23: Barrierefreie Übergänge schaffen - vertagt
+- TOP 5.24: Mehr Obstbäume auf öffentlichen Grünflächen - vertagt
+- TOP 5.25: Schranke an der Seidelstrasse zum Flughafensee - vertagt
+- TOP 5.26: Anonyme Beisetzungen auf Reinickendorfer Friedhöfen - vertagt
+- TOP 5.27: Klix-Arena - vertagt
+- TOP 5.28: Öffentlicher Spielplatzbau im Rahmen des städtebaulichen Vertrages zum Bebauungsplanverfahren 12-58 für die Egellsstraße 21 (teilweise), Biedenkopfer Straße 42, 44 und 64, Sterkrader Straße 60 und 62 sowie einen Abschnitt der verlängerten Egellsstraße im Bezirk Reinickendorf, Ortsteil Tegel - vertagt
+- TOP 5.29: Sonderprogramm Straßenbäume - vertagt
+- TOP 5.30: Grundinstandsetzung der Zufahrt in der Ollenhauerstraße 65A - 64E / am Kienhorstpark - vertagt
+- TOP 5.31: Entwässerung in Reinickendorf II - Regenentwässerungspotential über die Fahrbahndecken nutzen - vertagt
+- TOP 5.32: Entwässerung in Reinickendorf III - Berliner Maßnahmen zum Schutz vor Überschwemmung - vertagt
+- TOP 5.33: Entwässerung in Reinickendorf IV - Verbesserung der Aufnahmefähigkeit von Straßengullis zur Regenentwässerung in Frohnau - vertagt
+- TOP 5.34: Sanierung Waldweg Saatwinkel - vertagt
+- TOP 5.35: Barrierefreiheit während der Bauphase - vertagt
+- TOP 5.36: Fußgängerüberwege Baustelle Oranienburger Straße - vertagt
+- TOP 5.37: Baumpflegearbeiten im Kinderwald - vertagt
+- TOP 5.38: Waldweg an der Ruppiner Chaussee - vertagt
+- TOP 5.39: Fahrradparkhaus in Wittenau - vertagt
+- TOP 6: Bericht aus dem Bezirksamt - erledigt
+- TOP 7: Verschiedenes - erledigt
