@@ -1,0 +1,56 @@
+# Haupt- und Personalausschuss (26. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-01-30T17:00:00+01:00
+- Ende: 2018-01-30T18:00:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbe1T6m7Rlrn3usMQsOT2_c
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4870
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZesS_VfoE63x2SNt6RT2_HEUDqFBDYfyW1j8VdeV8avx/Bekanntmachung_Haupt-_und_Personalausschuss_30.01.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZUyqphdyC6Wr0fgT5hXrhjPyNUlbMbHlfsaO6NonSkA/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_30.01.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Beantwortung von Anfragen
+- TOP 1: Kosten des Sitzungsdienstes
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 25. Sitzung des Haupt- und Personalausschusses am 28.11.2017
+- TOP 3.: Mitgliederversammlung 2018 des Deutschen Städtetages Nordrhein-Westfalen Benennung der stimmberechtigten Abgeordneten sowie der Gäste
+- TOP 4.: Umsetzung der Neuregelung §58 Abs. 3 der GO NRW hinsichtlich der Möglichkeit zur Benennung von Sachkundigen Bürgern für den Rechnungsprüfungs- und Finanzausschuss in der laufenden Ratsperiode hier: Antrag der Ratsfraktion Bürgergemeinschaft für Solingen vom 13.12.2017
+- TOP 5.: Prävention CO-Vergiftung in Shisha-Bars hier: Antrag der ratsfraktion Bündnis 90/Die Grünen-offene Liste vom 10.01.2018
+- TOP 6.: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 6.1: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP 7.: Verkaufsoffene Sonntage 2018
+- TOP 8.: Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen
+- TOP 9.: Ordnungsbehördliche Verordnung über die Zulassung von Waren des täglichen Bedarfs auf den Wochenmärkten im Stadtgebiet Solingen
+- TOP 10.: Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Wochenmärkten in der Stadt Solingen (Marktordnung)
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Siebter Erfahrungsbericht über die Umsetzung des Kooperationsprojektes "Bergisches Veterinär- und Lebensmittelüberwachungsamt Solingen-Remscheid-Wuppertal" Januar-Dezember 2016
+- TOP 11.1.2: Bergische Symphoniker
+- TOP 11.1.3: Situation im Postbank-Finanzcenter Birker Straße
+- TOP 11.1.4: Situation im Postbank-Finanzcenter Birker Straße
+- TOP 11.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP -: HSP-Maßnahme M125 Strategische Ressourcenoptimierung
+- TOP -: Beantwortung von Anfragen
+- TOP 1: Rathausanbau
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 25. Sitzung des Haupt- und Personalausschusses am 28.11.2017
+- TOP 3.: Ersatzbeschaffung von mindestens 400 Garnituren Brandschutzüberbekleidung für die Berufs- und Freiwillige Feuerwehr Solingen
+- TOP 4.: Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 5.: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Mitarbeitergratifikation 2017
+- TOP 6.: Jahresabschluss 2016 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 7.: Bergische Gesellschaft für Ressourceneffizienz mbH (BGR) - Bestellung des Abschlussprüfers für das Geschäftsjahr 2017
+- TOP 8.: Wirtschaftsplan 2017 - Nachtrag - der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 9.: Wirtschaftsplan 2018 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 10.: Beirat Solinger Kunst-Stiftung
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Vergabe eines Auftrages über Gutachterliche Leistungen zur Fortschreibung des Rettungsdienst- und des Brandschutzbedarfsplanes
+- TOP 11.1.2: Vergabe eines Auftrages zur Lieferung einer Schlauchwasch- und Prüfanlage für die Feuerwehr Solingen
+- TOP 11.2: Anfragen an die Verwaltung
