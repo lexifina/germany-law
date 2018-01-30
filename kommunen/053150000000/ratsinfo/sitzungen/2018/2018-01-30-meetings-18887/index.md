@@ -1,0 +1,71 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-01-30T17:00:00+01:00
+- Ende: 2018-01-30T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18887
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18887
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Vortrag von Herrn Stadtdirektor Dr. Keller "Zielbild 2020 Maßnahmen zur Stärkung des städtischen Ordnungsdienstes"
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Von der Verwaltung zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Verkehrsberuhigung in der Dortmunder Straße in Köln-Eil - aus der letzten Sitzung geschoben bis zur Beantwortung der Fragen - ungeändert beschlossen
+- TOP 6.1.1: Verkehrsberuhigung in der Dortmunder Straße in Köln-Eil - Kenntnis genommen
+- TOP 6.2: Widmung des Parkplatzes an der Heinrich-Klein-Str./Lülsdorfer Str. in Köln-Porz-Langel - aus der letzten Sitzung mit einer Frage an die Fachverwaltung geschoben bis zu deren Beantwortung - ungeändert beschlossen
+- TOP 6.2.1: Stellungnahme der Verwaltung: Widmung des Parkplatzes an der Heinrich-Klein-Str./Lülsdorfer Str. in Köln-Porz-Langel - Kenntnis genommen
+- TOP 6.2.2: Änderungsantrag der Fraktion die Grünen zu TOP 6.2 - Sache ist erledigt
+- TOP 6.3: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Porz - ungeändert beschlossen
+- TOP 6.4: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte - ungeändert beschlossen
+- TOP 6.5: Installation "Engel der Kulturen" auf dem Alfred-Moritz-Platz - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Von der Verwaltung zurückgestellt
+- TOP 7.2: Richtlinie für die Benennung von Straßen - Versand per Sammelumdruck - zurückgestellt
+- TOP 7.3: Ortsdurchfahrtsverschiebung L82 - Siegburger Straße/Poller Damm in Köln-Poll - ungeändert empfohlen
+- TOP 7.4: Flughafen Köln/Bonn - Planfeststellungsverfahren gem. § 8 ff LuftVG i. V. m. § 73 VwVfG NRW - ungeändert empfohlen
+- TOP 7.5: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - Sammelumdruck - zurückgestellt
+- TOP 7.5.1: Änderungsantrag der Ratsfraktion DIE LINKE zu TOP 5.1. Luftreinhalteplan - zurückgestellt
+- TOP 7.6: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - war TOP 7.2.4 in der Sitzung vom 14.12.2017 - ungeändert empfohlen
+- TOP 7.6.1: Änderungsantrag der Fraktion Die Grünen zu TOP 7.6 - Sache ist erledigt
+- TOP 7.7: Planfeststellungsverfahren für die Erweiterung und den Weiterbetrieb der Deponie „Am Wiemersgrund" in Köln-Poll - ungeändert empfohlen
+- TOP 7.7.1: Prüfauftrag der SPD-Fraktion zu TOP 7.7. - Wiemersgrund - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Errichtung eines Eingangs zum Deutz-Poller Friedhof an der Straße „Zum Grauen Stein“ - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Errichtung eines Trimm-Dich-Parcours im Naherholungsgebiet „Gut Leidenhausen“ - ungeändert beschlossen
+- TOP 8.3: Von der Antragstellerin zurückgezogen - endgültig zurückgezogen
+- TOP 8.4: Antrag der SPD-Fraktion: Friedrich-List-Schule, Breitenbachstraße, Porz-Gremberghoven - Sache ist erledigt
+- TOP 8.4.1: Stellungnahme der Verwaltung: Planungsstand Neubau Friedrich-List-Gemeinschaftsgrundschule und Turnhalle Breitenbachstraße - zu AN/0062/2018 - Kenntnis genommen
+- TOP 8.5: Antrag der Fraktion Die GRÜNEN: Mitteilung der Verwaltung zur Sitzung am 15.12.2017 - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: "Wasserturmsiedlung" in Porz-Westhoven; Anfrage der SPD-Fraktion aus der BV Porz - Kenntnis genommen
+- TOP 9.1.2: Standort Bücherbus am Linder Dorfplatz - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion: Öffnung der Bahnhofstraße in Porz Mitte für den Straßenverkehr - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Maßnahmenkatalog für Porz-Finkenberg (AN/1428/2017) - Kenntnis genommen
+- TOP 10.2.3: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 10.2.4: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 10.2.5: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.6: Beantragte Zügigkeitserhöhung am Stadtgymnasium Porz und dem Friedrich-Wilhelm-Gymnasium - Kenntnis genommen
+- TOP 10.2.7: Kiss & Ride-Zone am Flughafen Köln-Bonn, Ausgang „Bahnhof zum Terminal 1“ - Kenntnis genommen
+- TOP 10.2.8: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 10.2.9: Reduzierung der Geschwindigkeit auf der Kaiserstraße zwischen Einmündung Kupfergasse und Elsdorfer Straße in Urbach - Kenntnis genommen
+- TOP 10.2.10: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
