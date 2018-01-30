@@ -1,0 +1,143 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-01-30T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4594942
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4594942
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.2.: Zustand Stephansplatz
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.2.: Kassenbericht
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Malort München e.V. Malspiel 2.800,00€ 0262.0-2-0206
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Glockenbachwerkstatt e.V. Anschaffung und Aufstellung eines Bücherschrankes 10.293,50 Euro 0262.0-2-0203
+- TOP 5.1.: Bürgeranliegen; Kein „Luxus“ auf dem Viehhof
+- TOP 5.2.: Ausschreibung Kinderaktionskoffer 2018/2019
+- TOP 5.3.: Bürgeranliegen, Drogenszene im Südlichen Bahnhofsviertel
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: Bürgeranliegen, Neubauprojekt und Schließung „Andechser am Dom“
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Goethestraße 68, Reduzierung der Freischankfläche im Hof um 16,76 m² und Errichtung einer Freischankfläche im Vorgarten mit 16,76 m² (12 Gastplätze)
+- TOP 3.1.2.: Adlzreiterstraße 29 – Tektur Glaseinhausung einer Dachterrasse (Wohnungserweiterung)
+- TOP 3.1.3.: Prüfung auf Ensembleschutz für das Dreimühlenviertel
+- TOP 3.1.4.: Landwehrstr. 17, Aufstockung Vordergebäude und Neubau Seitengebäude mit TG
+- TOP 3.1.5.: Adolf-Kolping-Str. 10, Errichtung eines temporären Kulturdachgartens
+- TOP 3.1.6.: Adlzreiterstr. 23-25, Dachaufstockung zweier Mehrfamilienhäuser, Anbau von Balkonen, Zusammenlegung von 4 zu 2 Wohneinheiten - TEKTUR
+- TOP 3.1.7.: Landwehrstr. 26, Nutzungsänderung Bürohaus mit 2 Wohneinheiten zu Boardinghaus / Beherbergungsstätte (23 Einheiten/55 Betten), Aufteilung und Nutzungsänderung: Laden zu Shisha-Bar, Imbiss und Laden - TEKTUR
+- TOP 3.1.8.: Lindwurmstr. 129-131, Dachgeschossausbau eines Speichers zu einer Büroeinheit - VORBESCHEID
+- TOP 3.1.9.: Jahnstr. 50, Abbruch und Neuerrichtung von Balkonen mit Vordach und Neuerstellung eines Vordachs über dem Hofeingang
+- TOP 3.1.10.: Buttermelcherstr. 2 a, Erweiterung und Umbau einer Gaststätte durch Nutzungsänderung von Ladenräumen
+- TOP 3.1.11.: Thalkirchner Str. 110, Veranstaltungsgelände mit Veranstaltungs-/Gastropavillon und -waggons, Containeranlagen mit Atelier-, Büro- und Musikproberaumnutzung + Wirtsgarten, befristet auf 5 Jahre - TEKTUR
+- TOP 3.2.1.: Sankt-Pauls-Platz 4, Antrag auf Fällung eines Baumes
+- TOP 3.2.2.: Corneliusstr. 46, Antrag auf Fällung eines Baumes
+- TOP 3.2.3.: Bayerstr. 34, Antrag auf Fällung eines Baumes
+- TOP 3.2.4.: Zenettistr. 44-46, Antrag auf Fällung eines Baumes
+- TOP 3.3.1.: Planungsreferat: Planfeststellungsverfahren für den Bau eines dritten Trambahngleises am Bahnfsvorplatz Mnchen Hauptbahnhof
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag, Bushaltestelle Stephansplatz
+- TOP 1.2.: BA-Antrag, Öffnung der Müllerstr. für Fahrradverkehr
+- TOP 1.3.: BA-Antrag, Geschwindigkeitsmessung Herzog-Heinrich-Str.
+- TOP 1.4.: BA-Antrag, Begrünung Herzog-Heinrich-Str.
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Freischankfläche Bahnhofplatz 1, erneute Vorlage
+- TOP 2.2.1.: Sankt-Paul-Straße 7, Aufstellung eines Zeitungsentnahmegeräts
+- TOP 2.2.2.: Schwanthalerstraße 18, Warenauslage
+- TOP 2.2.3.: Landwehrstraße 3, Warenauslage
+- TOP 2.2.4.: Schwanthalerstraße 11, Mobiler Fahrradständer
+- TOP 2.3.1.: (E) Aufstellen eines Mülleimers mit Hundekotbeutelspender Ecke Dreimühlen- / Reifenstuelstraße Empfehlung Nr. 14-20 / E 01832
+- TOP 2.3.2.: (E) Neuberechnung der Ampelschaltung am Karlsplatz (Stachus)
+- TOP 2.3.3.: (E) Anreise der Reisebusse während des Oktoberfestes
+- TOP 2.3.4.: (E) Mehr Sicherheit an der Kreuzung Lindwurm- / Poccistraße für Radfahrer durch Rotmarkierung
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Veranstaltung „Eiche Fasching“ 13.02.2018
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Baureferat, Erinnerungsverfahren, Provisorische Oberflächenherstellung der Museumsinsel 1 zwischen Boschbrücke und Ludwigsbrücke
+- TOP 3.3.2.: Bürgeranliegen: Paul-Heyse-Unerführung – Schutz für Fußgänger und Radfahrer vor Abgaskonzentra- tion
+- TOP 3.3.3.: Baureferat, Erinnerungsverfahren, Wittelsbacherbrücke - PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Beleuchtung Alter Südlicher Friedhof
+- TOP 5.3.: Bürgeranliegen, Autos parken auf Fahrradweg; -PLENUMSBESCHLUSS-
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Mieterbeiratswahl – Entsendung eines stimmberechtigten Mitglieds
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: Einen würdigen Zustand des Denkmals für die Opfer des Oktoberfestattentats vom 26.09.1980 sicherstellen
+- TOP A 4.4.: Anpassung der Einstufung von Wohnanlagen im Mietspiegel
+- TOP A 4.5.: (U) Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 2 - Ludwigsvorstadt - Isarvorstadt 1) Satzungsbeschluss Erhaltungssatzung "Schlachthofviertel" 2. Antrag) Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung "Schlachthofviertel" BA-Antrags-Nr. 14-20 / B 04200 des Bezirksausschusses des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt vom 24.10.2017
+- TOP A 4.6.: Fristverlängerung BA-Antrag Nr. 14-20 / B03764 Künstlerische Zwischennutzung des Pissoir am Holzplatz
+- TOP A 4.7.: Zwischenbericht; Kindertheater „Das Krokodil aus dem Koffer“
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Baumentfernung in den Außenanlagen städtischer Immobilien: Zenettistraße 10, ein Ahorn
+- TOP B 4.3.: Vollzug Erhaltungssatzung, Genehmigung nicht baugenehmigungspflichtiger Modernisierungs- maßnahmen Hans-Sachs-Straße 5, 5. u. 7. OG
+- TOP B 4.4.: Zwischennachricht, Fristverlängerung und Wechsel Federführung zu BA-Antrag Nr. 14-20 / B04103 „Begrünung Tumblingerstr. 7-17“
+- TOP B 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.6.: (U) Surfbare Flusswellen im Stadtgebiet Neue surfbare Flusswellen im Stadtgebiet I – hier Marienklause Antrag Nr. 14-20 / A 02279 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet II – hier Eisbach und insbesondere die Eisbachmündung in die Isar Antrag Nr. 14-20 / A 02277 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor und Frau Stadträtin Birgit Volk vom 05.07.2016 Neue surfbare Flusswellen im Stadtgebiet III – hier Flauchersteg Antrag Nr. 14-20 / A 02280 von Frau Stadträtin Verena Dietl, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Christian Müller, Herrn Stadtrat Cumali Naz, Frau Stadträtin Julia Schönfeld-Knor, Frau Stadträtin Birgit Volk und Herrn Stadtrat Christian Vorländer vom 05.07.2016
+- TOP C 4.7.: (U) Öffentlichkeitskampagne und Maßnahmen für eine saubere Isar Sachstandsbericht und weiteres Vorgehen bis 2020 1. Ergebnisse Runder Tisch „Erholungsraum Isar“ am 18.01.2017 sowie Sachstand Maßnahmen und Aktionen an der Isar (SB) 2. Weiteres Vorgehen für eine saubere Isar bis 2020 (SB) 3. Zusätzlicher Personal- und Sachmittelbedarf (VB)
+- TOP C 4.8.: Die Bevölkerung soll ermuntert werden, bei länger anhaltender hoher Feinstaubbelastung auf öffentliche oder emissionsfreie individuelle Verkehrsmittel umzusteigen
+- TOP C 4.9.: Halteverbote, insbesondere in Einfahrten im Bereich der Landwehrstraße sollen durch die Verkehrsüberwachung aufmerksam und streng kontrolliert werden
+- TOP C 4.10.: Kreisverwaltungsreferat Feischankfläche Zweibrückenstraße, Entscheidung OB beanragt
+- TOP C 4.11.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Schreiben vom 15.12.2017 Freischankflächenerweiterung Thalkirchner Straße 3
+- TOP C 4.12.: Kreisverwaltungsreferat, Antwortschreiben zu BA-Antrag Nr. 14-20 / B 3543 des BA 2 vom 25.04.2017 Tempo 30 von der Isartalstraße Höhe Röcklplatz bis zur Auenstraße Höhe Haus für Kinder
+- TOP C 4.13.: Überschreitung der genehmigten Freischankfläche durch ein Lokal in der Ickstattstraße Kopie des Schreibens der Bezirksinspektion Mitte an den Betreiber
+- TOP C 4.14.: Schutz der Isar vor Silvesterfeuerwerk, Antwortschreiben des Kreisverwaltungsreferats auf die BA-Stellungnahme vom 27.09.2017
+- TOP C 4.15.: OB-Entscheidung, Freischankfläche „Jack Glockenbach“
+- TOP C 4.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.17.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP C 4.18.: Zwischennachricht zur Fristverlängerung bzgl. BA-Antrag Nr. 14-20/B01991 „Öffnung Glockenbach“
+- TOP C 4.19.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 mit verbindlicher Planung für 2022; Entwurf für das Baureferat
+- TOP C 4.20.: Parkpflegewerk Nußbaumpark
+- TOP C 4.21.: Parkpflegewerk Theresienwiese
+- TOP C 4.22.: OB-Entscheidung zu Freischankfläche Zweibrückenstraße
+- TOP C 4.23.: (U) Zukunftsfähigkeit des Münchner U-Bahn-Netzes –Bekenntnisbeschluss für die Entlastungsspange U9 sowie dafür erforderliche Vorhaltemaßnahmen für einen zusätzlichen U-Bahnhof am Hauptbahnhof a) Sachstandsbericht und weiteres Vorgehen b) Finanzierung Änderungen des Mehrjahresinvestitionsprogrammes 2017 bis 2021 - Anmeldungen zum Haushalt 2018 ff c) „Nahverkehrsplan für die LH München II – U9 nicht um jeden Preis“ Antrag Nr. 14-20 / A 1960 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.03.2016 d) „Überlegungen zur U9“ BA-Antrags-Nr. 14-20 / B 03839 des Bezirksausschusses des Stadtbezirkes 22 – Aubing-Lochhausen-Langwied vom 19.07.2017
+- TOP C 4.24.: RAW Antwortschreiben an Bürger, Umbau Bus-Wartehalle Gärtnerplatz
+- TOP D 4: Bereich BA-Angelegenheiten
