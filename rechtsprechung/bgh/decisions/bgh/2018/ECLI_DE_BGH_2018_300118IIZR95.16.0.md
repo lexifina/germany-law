@@ -1,0 +1,953 @@
+---
+ecli: "ECLI:DE:BGH:2018:300118IIZR95.16.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-02"
+aktenzeichen: "II ZR 95/16"
+decided: "2018-01-30"
+typ: "U"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2018&Sort=1&Seite=7&nr=82237&anz=2994&pos=237&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-02_LE_2018-01-30_II_ZR_95_16_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0312.md", "germany/bund/acts/bgb/0326.md", "germany/bund/acts/bgb/0355.md", "germany/bund/acts/bgb/0730.md", "germany/bund/acts/bgb/0733.md", "germany/bund/acts/bgb/0735.md", "germany/bund/acts/hgb/0105.md", "germany/bund/acts/hgb/0149.md", "germany/bund/acts/hgb/0154.md", "germany/bund/acts/hgb/0155.md", "germany/bund/acts/hgb/0161.md", "germany/bund/acts/kredwg/0038.md", "germany/bund/acts/zpo/0253.md", "germany/bund/acts/zpo/0296a.md", "germany/bund/acts/zpo/0310.md", "germany/bund/acts/zpo/0559.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, II ZR 95/16 vom 2018-01-30
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                   IM NAMEN DES VOLKES
+
+                                URTEIL
+II ZR 95/16                                                   Verkündet am:
+                                                              30. Januar 2018
+                                                              Stoll
+                                                              Justizhauptsekretärin
+                                                              als Urkundsbeamtin
+                                                              der Geschäftsstelle
+                             in dem Rechtsstreit
+Nachschlagewerk:      ja
+
+BGHZ:                 ja
+
+BGHR:                 ja
+
+
+
+HGB §§ 149, 154, 155, 161; EWG-RL 577/85 Art. 5 Abs. 2, Art. 7
+
+
+a) Bei einer Publikums-Kommanditgesellschaft ist der Abwickler - vorbehaltlich anderweitiger gesellschaftsvertraglicher Regelungen - auch ohne entsprechende gesellschaftsvertragliche Ermächtigung zur Einforderung rückständiger Einlagen zum
+  Zweck des Ausgleichs unter den Gesellschaftern befugt.
+
+b) Der Widerruf des Beitritts zu einer Publikums-Personengesellschaft in einer sog.
+  „Haustürsituation“ lässt die Verpflichtung des Widerrufenden zur Leistung seiner
+  bis dahin noch nicht vollständig erbrachten, rückständigen Einlage nach den
+  Grundsätzen der fehlerhaften Gesellschaft weder rückwirkend noch ex nunc entfallen.
+
+BGH, Urteil vom 30. Januar 2018 - II ZR 95/16 - OLG Stuttgart
+                                                 LG Hechingen
+
+
+
+
+ECLI:DE:BGH:2018:300118UIIZR95.16.0
+
+                                          -2-
+
+
+
+    Der II. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 30. Januar 2018 durch den Vorsitzenden Richter Prof. Dr. Drescher und
+    die Richter Wöstmann, Sunder, Dr. Bernau sowie die Richterin B. Grüneberg
+
+
+    für Recht erkannt:
+
+
+             Auf die Revisionen der Klägerin und des Beklagten wird das
+             Urteil des 14. Zivilsenats des Oberlandesgerichts Stuttgart
+             vom 6. April 2016 aufgehoben.
+
+             Die Sache wird zur neuen Verhandlung und Entscheidung,
+             auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.
+
+
+
+
+                                  Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+1         Die Klägerin ist eine in Liquidation befindliche Publikumsgesellschaft in
+    Form einer GmbH & Co. KG.
+
+2         Der Beklagte trat der Klägerin mit Beitrittserklärung vom 1. April 2009 als
+    Treugeberkommanditist mit einem Zeichnungsbetrag von 120.000 € zuzüglich
+
+                                           -3-
+
+
+
+    6 % Agio bei. Der Gesamtbetrag von 127.200 € war gemäß einer Zusatzvereinbarung in Form einer Kontoeröffnungszahlung von 37.200 € und monatlichen
+    Raten in Höhe von je 1.000 € ab dem 15. April 2009 zu leisten.
+
+3         Der Gesellschaftsvertrag (im Folgenden: GV) der Klägerin enthält u.a.
+    folgende Regelungen:
+
+             "§ 4 Treugeberkommanditisten/ Direktkommanditisten
+
+              (1) Die in diesem Vertrag getroffenen Regelungen gelten nicht nur
+                  für direkt beitretende Kommanditisten, sondern auch analog für
+                  Anleger, die sich als Treugeberkommanditisten über den Treuhänder RA K. H.         B. ,             , mittelbar an der Gesellschaft beteiligen. Der Treuhänder erwirbt, hält und verwaltet
+                  die Kommanditanteile treuhänderisch jeweils anteilig für die
+                  Treugeberkommanditisten. Die Rechtsverhältnisse zwischen
+                  dem Treuhänder, dem jeweiligen Treugeberkommanditisten und
+                  den übrigen Gesellschaftern regelt der als Muster beigefügte
+                  Treuhandvertrag.
+
+              (2) Für den wirksamen Beitritt zur Gesellschaft als Treugeberkommanditist sind die Beitrittserklärung und deren Annahme durch
+                  die Gesellschaft erforderlich.
+
+              (3) Bei direkt eintretenden Kommanditisten wird der Beitritt zur Gesellschaft mit der Eintragung in das Handelsregister wirksam. Die
+                  Kosten der Eintragung sind vom eintretenden Gesellschafter zu
+                  tragen. Im übrigen gelten die Regelungen des Absatzes 1 analog.
+
+             […]
+
+             § 5 Beteiligung, Abschlussgebühr (Agio)
+
+              (1) Der Kommanditist leistet die in der Beitrittserklärung vereinbarte
+                  Einlage. […]
+
+
+             […]
+
+                                           -4-
+
+
+
+              (4) Die Erbringung von Einlagen kann auch in Einzelbeträgen erfolgen. Dazu ist eine gesonderte Teilzahlungsvereinbarung erforderlich. […] Ab dem Zeitpunkt der voll geleisteten Einlage besteht
+                  die Möglichkeit der jährlichen Entnahmen. Während der Laufzeit
+                  der Teilzahlungsvereinbarung sind Entnahmen nicht zulässig.
+                  Noch nicht erbrachte Teilzahlungsbeträge werden als ausstehende Einlagen behandelt und verbucht.
+
+              (5) Gesellschafterkonten
+
+          Für jeden Kommanditisten werden folgende Kapitalkonten geführt:
+
+            […]
+
+
+
+
+            § 8 Gesellschafterversammlungen
+
+            […]
+
+              (2) Die Gesellschafterversammlung wird durch einfachen Brief an
+                  jeden Gesellschafter […] einberufen."
+
+
+
+
+4         Der Treuhandvertrag (im Folgenden: TrhV) zwischen dem Beklagten und
+    dem Treuhandkommanditisten enthält u.a. folgende Bestimmungen:
+
+            "§ 2 Gegenstand des Treuhandvertrages/ Weitere Treugeber
+
+              (1) Der Treuhänder erhöht im Auftrag des Treugebers seinen
+                  Kommanditanteil an der Gesellschaft und hält ihn anteilig
+                  treuhänderisch im eigenen Namen, aber für Rechnung des
+                  Treugebers. Die Höhe des anteilig für den Treugeber gehaltenen Kommanditanteils bestimmt sich nach der durch den
+                  Treugeber entsprechend der Beitrittserklärung erfüllten Einzahlungsverpflichtung.
+
+            […]
+
+                              -5-
+
+
+
+§ 3 Treuhandverhältnis am Kommanditanteil
+
+ (1) Im Außenverhältnis hält der Treuhänder seinen Kommanditanteil als einheitlichen Geschäftsanteil für alle Treugeber
+     gemeinsam. Er tritt Dritten gegenüber in eigenem Namen
+     auf. Dies gilt auch im Verhältnis zur Gesellschaft. Der Treuhänder übt die aus der Kommanditbeteiligung erwachsenden
+     Gesellschafterrechte gegenüber der Gesellschaft im eigenen
+     Namen, aber gemäß der Weisungen des Treugebers aus.
+     Sofern der Treugeber keine Weisungen erteilt und seine Gesellschafterrechte nicht selbst ausübt, übt der Treuhänder
+     die Gesellschafterrechte nach billigem Ermessen aus.
+
+ (2) Der Treuhänder handelt im Innenverhältnis zum Treugeber
+     ausschließlich im Auftrag und für Rechnung des Treugebers.
+
+§ 4 Abtretung, Ausübung der Kontrollrechte
+
+ (1) Der Treuhänder tritt hiermit sämtliche Ansprüche aus dem
+     treuhänderisch gehaltenen Kommanditanteil aus dem festzustellenden Jahresergebnis (Gewinn bzw. Verlust), die Entnahmen sowie dasjenige, was ihm im Falle seines Ausscheidens aus der Gesellschaft zusteht, in Höhe des Anteils
+     des Treugebers an diesen ab. Der Treugeber nimmt diese
+     Abtretung hiermit an. Der Treuhänder ist ermächtigt, die an
+     den Treugeber abgetretenen Ansprüche aus dem Kommanditanteil im eigenen Namen für Rechnung des Treugebers
+     einzuziehen.
+
+ (2) Der Treugeber ist berechtigt, die dem Treuhänder nach dem
+     Gesellschaftsvertrag der Gesellschaft zustehenden Kontrollrechte selbst auszuüben. Will der Treugeber seine Kontrollrechte selbst ausüben, erteilt ihm der Treuhänder auf Verlangen eine entsprechende Vollmacht.
+
+§ 5 Einzahlung der gezeichneten Einlage
+
+ (1) Der Treugeber hat die in der Beitrittserklärung vereinbarte
+     Einzahlung inkl. 6% (Sechs) Agio auf das in der Beitrittserklärung und in § 1 dieses Vertrags genannte Konto des
+     Treuhänders zu zahlen. Nach Eingang leitet der Treuhänder
+     die vereinbarte Einlage unter Einhaltung der Regularien an
+     die Gesellschaft weiter.
+
+                                           -6-
+
+
+
+             […]
+
+             § 6 Freistellung des Treuhänders
+
+              Der Treugeber stellt den Treuhänder bis zur Höhe der durch den
+              Treugeber gezeichneten Einlage von allen Verbindlichkeiten frei,
+              die bei der pflichtgemäßen Erfüllung dieses Treuhandvertrages
+              und des Gesellschaftsvertrages der Gesellschaft in Zusammenhang mit der Übernahme, dem Halten und der Verwaltung der für
+              seine Rechnung übernommenen Kommanditbeteiligung entstehen.
+
+             § 7 Gesellschafterversammlungen, Gesellschafterbeschlüsse
+
+              (1) Die Treugeber haben nach dem Gesellschaftsvertrag der
+                  Gesellschaft das Recht, an den Gesellschafterversammlungen der Gesellschaft selbst teilzunehmen oder sich u.a.
+                  durch einen Bevollmächtigten anderen Gesellschafter vertreten zu lassen. Der Treuhänder erteilt dem Treugeber hiermit
+                  Vollmacht zur Wahrnehmung des Stimmrechts und aller weiteren Verwaltungsrechte eines Kommanditisten im Umfang
+                  des auf den Treugeber entfallenen Anteils an der Kommanditbeteiligung.“
+
+
+
+
+5         Mit Bescheid vom 6. Oktober 2011 ordnete die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) gemäß § 38 Abs. 1 Satz 1 KWG die Abwicklung der Klägerin an, die sich seitdem in Liquidation befindet. Im Mai 2012
+    stellte der Beklagte seine Ratenzahlungen ein. Im Rechtsstreit hat er seine Beitritts- und Treuhandvertragserklärung widerrufen und die Kündigung der Beteiligung aus wichtigem Grund erklärt.
+
+6         Die Klägerin, vertreten durch den nach § 38 Abs. 2 KWG bestellten Abwickler, nimmt den Beklagten auf Zahlung von bis einschließlich Dezember
+    2013 rückständigen Raten in Höhe von 20.000 € sowie von 32 ab Januar 2014
+    fälligen Monatsraten in Höhe von je 1.000 €, jeweils nebst Zinsen, in Anspruch.
+
+                                          -7-
+
+
+
+     Hilfsweise begehrt sie die Feststellung, dass in die Abfindungsrechnung der
+     Parteien als unselbständiger Abrechnungsposten zu ihren Gunsten eine Einlageforderung von 52.000 € nebst Zinsen einzustellen sei, sowie weiter hilfsweise
+     die Einstellung der offenen Einlageforderung in eine etwaige zu erstellende
+     Ausscheidensbilanz zum 11. April 2014 (Zugang der Widerrufserklärung bei der
+     Klägerin).
+
+7           Das Landgericht hat die Klage abgewiesen. Das Berufungsgericht hat
+     den Beklagten unter teilweiser Aufhebung des erstinstanzlichen Urteils und Abweisung der weitergehenden Klage zur Zahlung der bis zum Zugang seiner Widerrufserklärung fälligen monatlichen Raten von insgesamt 23.000 € nebst Zinsen verurteilt. Hiergegen richten sich die von dem Berufungsgericht zugelassenen Revisionen der Klägerin und des Beklagten, soweit jeweils zu ihrem Nachteil erkannt worden ist.
+
+
+
+
+                                 Entscheidungsgründe:
+
+8           Die Revisionen der Klägerin und des Beklagten haben Erfolg. Sie führen
+     zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an
+     das Berufungsgericht.
+
+9           I. Das Berufungsgericht (OLG Stuttgart, ZIP 2016, 863) hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt:
+
+10          Die Klägerin könne den Beklagten als Treugeberkommanditisten grundsätzlich unmittelbar aus eigenem Recht auf Zahlung ausstehender Einlageforderungen in Anspruch nehmen, da er nach den Regelungen des Gesellschafts-
+
+                                           -8-
+
+
+
+     und Treuhandvertrags unter Berücksichtigung seiner Beitrittserklärung im Innenverhältnis als Quasi-Gesellschafter die Stellung eines unmittelbaren Gesellschafters habe. Zudem habe der Treuhandkommanditist seine etwaigen Ansprüche gegen den Beklagten an die Klägerin abgetreten. Dem Anspruch der
+     Klägerin auf Zahlung der noch offenen Einlage stünden auch weder ihre Liquidation noch die Regelung in § 2 Abs. 1 TrhV entgegen.
+
+11         Die Zahlungspflicht des Beklagten sei jedoch aufgrund des Widerrufs
+     seines Beitritts nach §§ 355, 312 BGB in der bis zum 10. Juni 2006 geltenden
+     Fassung (im Folgenden: aF) teilweise erloschen. Der Widerruf wirke nach den
+     insoweit anwendbaren Grundsätzen der fehlerhaften Gesellschaft ex nunc, so
+     dass der Beklagte ab dem Zugang seiner Widerrufserklärung bei der Klägerin
+     zu keinen weiteren Beitragszahlungen mehr verpflichtet gewesen sei. Die Abwicklungsanordnung der BaFin, die gemäß § 38 Abs. 1 Satz 2 KWG die Wirkung eines Auflösungsbeschlusses habe, hindere sein Ausscheiden mit Wirksamwerden des Widerrufs nicht. Ein Ausschluss des Widerrufsrechts bei einer
+     in Liquidation befindlichen Publikums-KG würde eine Einschränkung der nach
+     der Richtlinie 85/577/EWG geschützten Verbraucherrechte darstellen, die sich
+     bei richtlinienkonformer Auslegung der §§ 312, 355 BGB aF verbiete.
+
+12         Die Einziehung der bis zum Widerruf des Beklagten fälligen Einlageraten
+     durch den Abwickler der Klägerin sei in der Liquidation erforderlich. Nach den
+     Angaben des Abwicklers der Klägerin im Termin werde die Einlage des Beklagten voraussichtlich nicht in vollem Umfang für die Abwicklung benötigt. Es stehe
+     jedoch im Ermessen des Abwicklers, ob und in welchem Umfang er gegenüber
+     den einzelnen Gesellschaftern den zur Abwicklung benötigten Betrag geltend
+     mache. Eine etwaige Verbesserung der Liquidität der Klägerin im Laufe des
+     Rechtsstreits durch die Zahlungen anderer Gesellschafter führe nicht dazu,
+     dass die Klage unbegründet werde, solange nicht feststehe, dass der Beklagte
+
+                                             -9-
+
+
+
+     seine rückständigen Einlagezahlungen vollständig zurückerhalten werde. Das
+     sei nicht der Fall. Darüber hinaus spreche für die Erforderlichkeit der Einziehung, dass es sich bei der Klägerin um eine Publikums-KG handele, bei der der
+     Abwickler auch zur Einforderung rückständiger Einlagen zur Durchführung des
+     Gesellschafterausgleichs berechtigt sei. Hierbei könne offenbleiben, ob die
+     rückständige Einlage für die Befriedigung der Gläubiger oder die Abwicklung
+     zum Schluss der mündlichen Verhandlung tatsächlich noch benötigt werde.
+     Schließlich stehe auch § 38 KWG dem Zahlungsbegehren der Klägerin nicht
+     entgegen, da es sich bei der Einforderung rückständiger Einlagen um kein neues Geschäft im Sinne dieser Vorschrift handele.
+
+13            II. Diese Ausführungen halten revisionsrechtlicher Nachprüfung nicht
+     stand.
+
+14            1. Entgegen der Ansicht des Beklagten ist die Klage allerdings zulässig.
+
+15            Dass die Klägerin ihr Begehren sowohl auf einen Anspruch aus eigenem
+     als auch aus abgetretenem Recht des Treuhandkommanditisten gestützt hat,
+     steht der Bestimmtheit des Streitgegenstands gemäß § 253 Abs. 2 Nr. 2 ZPO
+     nicht entgegen. Bei der Geltendmachung eines Anspruchs aus eigenem und
+     aus abgetretenem Recht handelt es sich zwar um zwei verschiedene Streitgegenstände. Die Klägerin hat diese Streitgegenstände jedoch nicht in (unzulässiger) alternativer, sondern in (zulässiger) eventueller Klagehäufung geltend gemacht (vgl. BGH, Beschluss vom 24. März 2011 - I ZR 108/09, BGHZ 189, 56
+     Rn. 9 f.) und hinreichend klargestellt, dass sie ihr Begehren nur vorsorglich auf
+     die Abtretung durch den Treuhandkommanditisten stützt, vorrangig aber ihren
+     Anspruch aus eigenem Recht verfolgt.
+
+16            2. In der Sache hält die Entscheidung des Berufungsgerichts der revisionsrechtlichen Nachprüfung jedoch nicht in allen Punkten stand.
+
+                                               - 10 -
+
+
+
+17          a) Das Berufungsgericht hat im Ausgangspunkt zutreffend angenommen,
+     dass die Klägerin den Beklagten grundsätzlich unmittelbar aus eigenem Recht
+     auf Leistung der Einlage in Anspruch nehmen kann.
+
+18          aa) Der gegen einen Treugeber gerichtete Anspruch auf Leistung der
+     Einlage steht unmittelbar der Gesellschaft zu, wenn der Treugeber im Innenverhältnis   die     Stellung    eines    unmittelbaren          Gesellschafters   (Quasi-Gesellschafter) hat bzw. haben soll (vgl. BGH, Urteil vom 11. Oktober 2011
+     - II ZR 242/09, ZIP 2011, 2299 Rn. 16 f.; Urteil vom 18. September 2012
+     - II ZR 178/10, ZIP 2012, 2295 Rn. 13; Urteil vom 18. September 2012
+     - II ZR 201/10, ZIP 2012, 2291 Rn. 11). Aus dieser Stellung ergeben sich einerseits gegen die Gesellschaft bestehende Rechte der Treugeber; andererseits
+     können gesellschaftsrechtliche Verpflichtungen - wie die Verpflichtung zur Leistung der Einlage - im Innenverhältnis die Treugeber unmittelbar treffen (vgl.
+     BGH, Urteil vom 18. September 2012 - II ZR 178/10, ZIP 2012, 2295 Rn. 13
+     mwN; Urteil vom 18. September 2012 - II ZR 201/10, ZIP 2012, 2291 Rn. 11
+     mwN). Das Berufungsgericht hat zutreffend angenommen, dass dem Beklagten
+     als Treugeberkommanditisten im Innenverhältnis eine solche Stellung als Quasi-Gesellschafter zukommt.
+
+19          bb) Im Fall einer sogenannten offenen oder qualifizierten Treuhand, gerade bei der treuhänderischen Zusammenfassung zahlreicher Geldgeber, können die an der Gesellschaft Beteiligten ihr gesellschafterliches Innenverhältnis
+     so gestalten, als ob die Treugeber selbst Gesellschafter wären (st. Rspr.; vgl.
+     BGH, Urteil vom 13. Mai 1953 - II ZR 157/52, BGHZ 10, 44, 49 f.; Urteil vom
+     30. März 1987 - II ZR 163/86, ZIP 1987, 912, 913; Urteil vom 23. Juni 2003
+     - II ZR 46/02,     ZIP 2003,    1702,    1703;     Urteil   vom      11. November     2008
+     - XI ZR 468/07,     BGHZ 178,     271     Rn. 20;      Urteil    vom    11. Oktober   2011
+     - II ZR 242/09,     ZIP 2011,   2299     Rn. 16 ff.;    Urteil    vom    5. Februar   2013
+
+                                               - 11 -
+
+
+
+     - II ZR 134/11,   BGHZ 196,       131     Rn. 14;     Urteil   vom   5. Februar   2013
+     - II ZR 136/11,   ZIP 2013,   619       Rn. 16;    Urteil   vom   16. Dezember    2014
+     - II ZR 277/13, ZIP 2015, 319 Rn. 13; Urteil vom 20. Januar 2015 - II ZR 444/13,
+     ZIP 2015, 630 Rn. 8). Ein solches Vertragsverhältnis mit den Gesellschaftern ist
+     regelmäßig anzunehmen, wenn - wie bei Publikumsgesellschaften häufig - die
+     mittelbare Beteiligung erst noch zu werbender Anleger und damit eine Verzahnung von Gesellschaft und Treuhand im Gesellschaftsvertrag von vornherein
+     vorgesehen ist und im Hinblick darauf bestimmte Rechte und Pflichten der Anleger schon im Gesellschaftsvertrag geregelt sind (BGH, Urteil vom 5. Februar
+     2013 - II ZR 134/11, BGHZ 196, 131 Rn. 14).
+
+20         cc) Der Beklagte hat aufgrund der vertraglichen Bestimmungen, insbesondere der Verzahnung des Gesellschafts- und des Treuhandvertrags, im Innenverhältnis zu den anderen Treugebern, den Kommanditisten, der Komplementärin und der Klägerin die Stellung eines unmittelbaren Gesellschafters
+     (Quasi-Gesellschafter) erlangt.
+
+21         Nach dem Inhalt des Gesellschaftsvertrags, den der Senat selbst auslegen kann (st. Rspr., BGH, Urteil vom 11. Oktober 2011 - II ZR 242/09,
+     ZIP 2011, 2299 Rn. 18 mwN), und unter Berücksichtigung des Treuhandvertrags sowie der Beitrittserklärung des Beklagten handelt es sich bei dem Verhältnis zwischen dem Treuhandkommanditisten und der Klägerin einerseits und
+     den Treugebern andererseits nicht um ein einfaches Treuhandverhältnis, sondern um eine von gesellschaftsrechtlichen Bindungen überlagerte Treuhandbeziehung.
+
+22         (1) Nach § 3 Abs. 5 GV war von vornherein die Einwerbung weiterer mittelbarer Kommanditisten bis zu einem Gesamteinlagevolumen von 12 Mio. €
+
+                                           - 12 -
+
+
+
+     vorgesehen. Dabei sollte die Beteiligung als Treugeberkommanditist gemäß
+     einer formularmäßigen Beitrittserklärung die Regel sein.
+
+23         (2) Die vertraglichen Vereinbarungen enthalten von vornherein eine Verzahnung von Gesellschaft und Treuhand.
+
+24         Bereits mit der Beitrittserklärung erklärt der Anleger, sich - bei Wahl dieser Beteiligungsform - als Treugeberkommanditist an der Klägerin beteiligen zu
+     wollen und den Gesellschafts- und den Treuhandvertrag als Geschäftsgrundlage seines Beitritts und als verbindlich anzuerkennen. Nach § 4 Abs. 2 GV ist für
+     einen wirksamen Beitritt als Treugeberkommanditist eine Annahme der Beitrittserklärung des Anlegers durch die Klägerin erforderlich, die hier auch erfolgt
+     ist (vgl. BGH, Urteil vom 11. Oktober 2011 - II ZR 242/09, ZIP 2011, 2299
+     Rn. 19).
+
+25         § 4 Abs. 1 Satz 1 GV bestimmt, dass die Regelungen des Gesellschaftsvertrags nicht nur für direkt beitretende Kommanditisten, sondern auch analog
+     für Treugeberkommanditisten gelten; nach § 4 Abs. 1 Satz 3 GV werden die
+     Rechtsverhältnisse zwischen dem Treuhänder, dem jeweiligen Treugeberkommanditisten und den übrigen Gesellschaftern durch den Treuhandvertrag geregelt. In dessen Präambel ist wiederum bestimmt, dass der Treuhandvertrag zusammen mit der Beitrittserklärung und dem Gesellschaftsvertrag die Grundlage
+     der Rechtsbeziehungen zwischen dem Treuhänder, dem Treugeber und den
+     übrigen Gesellschaftern einschließlich der weiteren mittelbar beteiligten Treugeber bildet und - soweit im Treuhandvertrag nichts anderes bestimmt ist - die
+     Regelungen des Gesellschaftsvertrags entsprechend gelten.
+
+26         Entgegen der Auffassung des Beklagten ist die Anordnung der analogen
+     Anwendung der gesellschaftsvertraglichen Regelungen in § 4 Abs. 1 Satz 1 GV
+     hinreichend verständlich. Anderes ergibt sich auch nicht daraus, dass § 4
+
+                                          - 13 -
+
+
+
+     Abs. 3 Satz 3 GV "im Übrigen" eine Anordnung der Regelungen des Absatzes 1
+     vorsieht. § 4 Abs. 3 Satz 3 GV betrifft ersichtlich nur Direktkommanditisten und
+     bestimmt durch die entsprechende Anordnung von § 4 Abs. 1 GV, dass diese
+     im Übrigen - d.h. abgesehen von den Sonderregelungen in § 4 Abs. 3 Satz 1
+     und 2 GV - mit den Treugeberkommanditisten gleichgestellt werden und für ihr
+     Verhältnis untereinander somit der Treuhandvertrag gelten soll.
+
+27         (3) Bei gebotener Gesamtwürdigung dieser Regelungen sind die Rechte
+     und Pflichten der Treugeberkommanditisten bereits derart im Gesellschaftsvertrag geregelt, dass ihnen in der Gesellschaft die Stellung eines Quasi-Gesellschafters zukommt.
+
+28         Anders als in den bisher vom Senat entschiedenen Fällen (BGH, Urteil
+     vom 11. Oktober 2011 - II ZR 242/09, ZIP 2011, 2299 Rn. 5 f.; Urteil vom
+     18. September 2012 - II ZR 178/10, ZIP 2012, 2295 Rn. 3; Urteil vom
+     18. September 2012 - II ZR 201/10, ZIP 2012, 2291 Rn. 2; Urteil vom
+     5. Februar 2013 - II ZR 134/11, ZIP 2013, 570 Rn. 3, 5; Urteil vom 5. Februar
+     2013 - II ZR 136/11, ZIP 2013, 570 Rn. 3 f.; Beschluss vom 23. September
+     2014 - II ZR 374/13, ZD 2015, 181 Rn. 10; Urteil vom 16. Dezember 2014
+     - II ZR 277/13, ZIP 2015, 319 Rn. 2; Urteil vom 20. Januar 2015 - II ZR 444/13,
+     juris Rn. 9) enthalten die Verträge zwar weder eine ausdrückliche Gleichstellung von Treugebern mit Direktkommanditisten im Innenverhältnis noch Regelungen über unmittelbare Rechte und Pflichten der Treugeber im Verhältnis zur
+     Gesellschaft oder eine Verpflichtung zur Zahlung der Einlage unmittelbar an die
+     Gesellschaft. Gleichwohl kommt den Treugebern aufgrund der vertraglichen
+     Konstruktion eine den Direktkommanditisten entsprechende Stellung zu.
+
+29         (a) § 4 Abs. 1 Satz 1 GV sieht zwar keine ausdrückliche Gleichstellung,
+     sondern nur eine analoge Anwendung der gesellschaftsvertraglichen Regelun-
+
+                                         - 14 -
+
+
+
+     gen auf Treugeberkommanditisten vor. Im Weiteren spricht der Gesellschaftsvertrag aber durchgehend von "Kommanditisten", ohne zwischen Direkt- und
+     Treugeberkommanditisten zu unterscheiden. Folglich gelten auch die Verpflichtung des Kommanditisten zur Leistung der Einlage (§ 5 Abs. 1 und 3 GV), die
+     Berechtigung zu Entnahmen ab dem Zeitpunkt der voll geleisteten Einlage (§ 5
+     Abs. 4 Satz 9 GV), die Regelung zur Anlage von Gesellschafterkonten für
+     Kommanditisten (§ 5 Abs. 5 GV) sowie die Regelung zur Stimmberechtigung
+     der Kommanditisten (§ 9 Abs. 3 GV) analog gleichermaßen für die Treugeber.
+
+30         (b) Dass dem Treugeberkommanditisten die Gesellschafterrechte und
+     -pflichten nach der Konstruktion des Treuhandvertrages zunächst nur durch
+     Vermittlung des Treuhänders zustehen sollen, spricht nicht gegen die Annahme
+     einer Gleichstellung, da im Treuhandvertrag zugleich die wesentlichen Schritte
+     für eine Angleichung dieser nur mittelbaren Befugnisse an eine unmittelbare
+     Berechtigung angelegt bzw. vollzogen sind.
+
+31         So tritt der Treuhandkommanditist nach § 3 Abs. 1 Satz 3 und 4 TrhV
+     zwar auch im Verhältnis zur Gesellschaft im eigenen Namen auf und übt ihr
+     gegenüber die aus der Kommanditbeteiligung erwachsenden Gesellschafterrechte im eigenen Namen aus. Diese Befugnis ist jedoch gemäß § 3 Abs. 1
+     Satz 4 und 5 TrhV durch die Weisungsbefugnis des Treugebers eingeschränkt;
+     nur im Fall fehlender Weisungen ist der Treuhänder zur Ausübung nach billigem
+     Ermessen berechtigt.
+
+32         Die Ansprüche aus der treuhänderischen Kommanditbeteiligung und die
+     Kontrollrechte stehen dem Treugeberkommanditisten im Innenverhältnis nach
+     § 4 Abs. 1 und 2 TrhV zwar nicht originär zu, sondern setzen eine Abtretung
+     bzw. Vollmachterteilung durch den Treuhänder voraus. Diese Abtretung ist jedoch in § 4 Abs. 1 TrhV betreffend Ansprüche aus dem treuhänderisch gehalte-
+
+                                          - 15 -
+
+
+
+     nen Kommanditanteil, dem festzustellenden Jahresergebnis, den Entnahmen
+     sowie eines etwaigen Anspruchs im Fall des Ausscheidens bereits enthalten, so
+     dass diese Ansprüche dem Treugeber schon mit Abschluss der Verträge unmittelbar zustehen und lediglich ihre Einziehung gemäß § 4 Abs. 1 TrhV durch den
+     Treuhänder erfolgt. Zur Ausübung der Kontrollrechte ist der Treugeber gemäß
+     § 4 Abs. 2 TrhV ausdrücklich selbst berechtigt; der Treuhänder ist verpflichtet,
+     ihm die dafür erforderliche Vollmacht auf Verlangen zu erteilen.
+
+33         Schließlich enthält auch § 7 Abs. 1 TrhV bereits eine Vollmachterteilung
+     des Treuhänders an den Treugeber zur Ausübung des Stimmrechts, dem als
+     Mittel zur unmittelbaren Mitwirkung an der internen Willensbildung der Gesellschaft im Wege der Beschlussfassung besonderes Gewicht zukommt (vgl.
+     BGH, Urteil vom 5. Februar 2013 - II ZR 134/11, ZIP 2013, 570 Rn. 20). Sollte
+     der Treugeber eine Vertretung durch den Treuhänder wünschen, ist dieser gemäß § 7 TrhV weisungsgebunden. Dass der Treuhänder die Möglichkeit hat,
+     seine Vollmachten zu widerrufen, stellt demgegenüber keine erhebliche Relativierung der Treugeberstellung dar, da einem solchen Widerruf ohne wichtigen
+     Grund der Einwand der Treuwidrigkeit entgegenstünde.
+
+34         (c) Einer Gleichstellung der Treugeberkommanditisten mit den Direktkommanditisten steht schließlich nicht entgegen, dass die Beteiligungssumme
+     nach der Beitrittserklärung, der Zusatzvereinbarung und § 1 Satz 3, § 5 Abs. 1
+     TrhV - anders als in den Entscheidungen des Senats vom 11. Oktober 2011
+     (II ZR 242/09,   ZIP 2011,   2299   Rn. 5)    und   vom   18. September    2012
+     (II ZR 178/10, ZIP 2012, 2295 Rn. 3 und II ZR 201/10, ZIP 2012, 2291 Rn. 2) -
+     nicht unmittelbar auf das Konto der Gesellschaft, sondern ausdrücklich ausschließlich auf das Konto des Treuhandkommanditisten zu zahlen ist.
+
+                                             - 16 -
+
+
+
+35          (aa) Die Verpflichtung zur unmittelbaren Zahlung der Einlage an die Gesellschaft ist zwar ein Gesichtspunkt, der für eine Gleichstellung der Treugeberkommanditisten mit Direktkommanditisten spricht, aber keine notwendige Voraussetzung. Ob eine solche Gleichstellung vorliegt, beurteilt sich - wie sich
+     auch aus den Entscheidungen des Senats vom 11. Oktober 2011 (II ZR 242/09,
+     ZIP 2011, 2299) und vom 18. September 2012 (II ZR 201/10, ZIP 2012, 2291)
+     ergibt - vielmehr maßgeblich aufgrund einer Gesamtwürdigung sämtlicher vertraglicher Regelungen zur Stellung des Treugebers. Daher können auch im
+     Ausgangspunkt nur mittelbar begründete Rechte und Pflichten - wie hier - bei
+     entsprechender vertraglicher Verstärkung ohne zusätzliche Pflicht zur unmittelbaren Zahlung an die Gesellschaft eine Gleichstellung des Treugeberkommanditisten begründen.
+
+36          (bb) Unabhängig davon ergibt sich hier auch aus den vertraglichen Vorgaben, dass die Einzahlung des Treugeberkommanditisten jedenfalls im Ergebnis eine Zahlung an die Gesellschaft darstellt, bei der der Treuhandkommanditist nur als Mittler zwischengeschaltet ist.
+
+37          Nach § 5 Abs. 1, § 4 Abs. 1 Satz 1 GV hat der Treugeberkommanditist
+     die in der Beitrittserklärung vereinbarte Einlage zu leisten. Die Beitrittserklärung
+     sieht - entsprechend § 1 Satz 3, § 5 Abs. 1 TrhV - vor, dass die Einlage ausschließlich auf das Konto des Treuhänders zu zahlen ist. Da die Klägerin diese
+     Beitrittserklärung gemäß § 4 Abs. 2 GV gegengezeichnet hat, hat sie damit zugleich den Zahlungsweg vorgegeben, d.h. die Zahlung an den Treuhandkommanditisten entsprechend selbst angewiesen. Zudem ist der Treuhandkommanditist nach § 5 Abs. 1 TrhV verpflichtet, die Einlage nach Eingang auf seinem Konto unter Einhaltung der Regularien an die Gesellschaft weiterzuleiten,
+     ohne dass diese Weiterleitung an besondere Voraussetzungen geknüpft oder in
+     seine Entscheidungsbefugnis gestellt würde.
+
+                                           - 17 -
+
+
+
+38         b) Entgegen der Ansicht des Beklagten ist der Anspruch der Klägerin auf
+     Leistung der Einlage nicht bereits im Zeitpunkt seiner Entstehung in der jeweils
+     geschuldeten Höhe sogleich erfüllt worden.
+
+39         Insoweit macht der Beklagte ohne Erfolg geltend, seine Beteiligung bestehe nach § 2 Abs. 1 Satz 2 TrhV jeweils nur in Höhe seiner bereits "erfüllten
+     Einzahlungsverpflichtung", so dass es keine offene Einlageforderung geben
+     könne. Die in § 2 Abs. 1 TrhV vorgesehene anteilige Erhöhung der Beteiligung
+     des Treugebers an der Gesellschaft entsprechend der Höhe der von ihm geleisteten Einzahlungen betrifft nicht seine vertragliche Einlageverpflichtung gegenüber der Klägerin, sondern nur seine gesellschaftsinterne Beteiligung im Verhältnis zu den übrigen Gesellschaftern. Die Regelung ist erforderlich, weil der
+     Treuhänder gegenüber der Klägerin einen einheitlichen Kommanditanteil zugunsten mehrerer Treugeberkommanditisten hält, deren jeweilige Anteile an
+     diesem Kommanditanteil sich nach der Erfüllung ihrer Einlageverpflichtung bestimmen.
+
+40         Davon zu unterscheiden ist die Einlageverpflichtung des Beklagten gegenüber der Gesellschaft, die er mit seiner Beitrittserklärung nebst Zusatzvereinbarung eingegangen ist. Danach beläuft sich die von ihm insgesamt zu leistende Beteiligungs- bzw. Zeichnungssumme auf 127.200 €. Mit der Zusatzvereinbarung wurde ihm hierfür nur eine Ratenzahlung in Form einer Stundung
+     gewährt. Dabei handelt es sich lediglich um eine zeitliche Staffelung der Fälligkeit, die als solche nichts an dem Entstehen der gesamten Einlageverpflichtung
+     im   Zeichnungszeitpunkt    ändert   (vgl.     BGH,   Urteil   vom   16. Mai   2017
+     - II ZR 284/15, ZIP 2017, 1365 Rn. 23). Das ergibt sich nicht nur aus der Verpflichtung des Kommanditisten in § 5 Abs. 1 GV zur Leistung der "in der Beitrittserklärung vereinbarte(n) Einlage", die nach § 5 Abs. 4 GV auch "in Einzelbeträgen" bzw. "Teilzahlungen" erbracht werden kann, sondern ausdrücklich
+
+                                         - 18 -
+
+
+
+     auch aus § 5 Abs. 4 Satz 11 GV, wonach "noch nicht erbrachte Teilzahlungsbeträge … als ausstehende Einlagen behandelt und verbucht" werden.
+
+41         Da der Beklagte 52.000 € von seiner Gesamteinlageverpflichtung noch
+     nicht gezahlt hat, besteht eine noch offene Einlageforderung der Klägerin in
+     dieser Höhe.
+
+42         c) Zutreffend hat das Berufungsgericht weiter angenommen, dass der
+     Anspruch der Klägerin auf Leistung der noch offenen Einlageforderung nicht mit
+     der Abwicklungsanordnung der BaFin gemäß § 38 KWG entfallen oder wegen
+     Unmöglichkeit erloschen ist.
+
+43         aa) Die Abwicklungsanordnung wirkt gemäß § 38 Abs. 1 Satz 2 KWG wie
+     ein gesellschafts- bzw. handelsrechtlicher Auflösungsbeschluss und führt zur
+     Liquidation des Unternehmens. Die Durchführung der Liquidation richtet sich
+     nach dem Gesellschaftsvertrag, sofern dieser hierzu Regelungen enthält, andernfalls - wie hier - nach den gesetzlichen Regelungen (vgl. Fischer/Müller in
+     Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl., § 38 Rn. 4 f., 12; Schwennicke in
+     Schwennicke/Auerbach, KWG, 3. Aufl., § 38 Rn. 8 f.).
+
+44         Der nach § 38 Abs. 2 KWG bestellte Abwickler hat grundsätzlich die gleiche Stellung wie ein von den Gesellschaftsorganen oder Gesellschaftern bestellter Liquidator (vgl. Fischer/Müller in Boos/Fischer/Schulte-Mattler, KWG,
+     5. Aufl., § 38 Rn. 21). Nach § 161 Abs. 2, § 149 Abs. 1 Satz 1 HGB obliegt es
+     dem Liquidator u.a., die Forderungen der Gesellschaft einzuziehen. Hierunter
+     fällt auch die Einziehung rückständiger Einlagen, wenn und soweit sie für die
+     Durchführung der Liquidation, insbesondere für die Befriedigung der Gläubiger
+     benötigt werden (vgl. BGH, Urteil vom 3. Februar 1977 - II ZR 201/75,
+     WM 1977, 617, 618; Urteil vom 3. Juli 1978 - II ZR 54/77, NJW 1978, 2154;
+     Urteil vom 5. November 1979 - II ZR 145/78, ZIP 1980, 192, 193).
+
+                                          - 19 -
+
+
+
+45         bb) Bei der noch offenen Einlageverpflichtung des Beklagten handelt es
+     sich - wie oben dargelegt - um eine "rückständige" Einlage, unabhängig davon,
+     ob sie im Zeitpunkt der Abwicklungsanordnung bereits fällig war oder nicht.
+
+46         cc) Die Einforderung der rückständigen Einlage stellt auch kein neues,
+     werbendes Geschäft dar, das der Klägerin ab dem Zeitpunkt der sofort vollziehbaren Abwicklungsanordnung gemäß § 38 KWG, § 149 HGB grundsätzlich untersagt wäre (vgl. Hillmann in Ebenroth/Boujong/Joost/Strohn, HGB, 3. Aufl.,
+     § 149 Rn. 7 f.; Roth in Baumbach/Hopt, HGB, 38. Aufl., § 149 Rn. 6; Fischer in
+     Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl., § 38 Rn. 5). Es handelt sich lediglich um die Abwicklung der bereits bestehenden vertraglichen Vereinbarungen
+     durch Einforderung bzw. Erfüllung der daraus resultierenden Leistungspflichten,
+     die zudem gerade dem geänderten, der Abwicklungsanordnung entsprechenden, Gesellschaftszweck der Liquidation dienen soll.
+
+47         Anderes ergibt sich auch nicht aus der Auffassung von Fischer (in
+     Boos/Fischer/Schulte-Mattler, KWG, 5. Aufl., § 38 Rn. 5), dass nach einer Abwicklungsanordnung gemäß § 38 KWG "Einlagen" nicht mehr entgegengenommen werden dürfen. Wie das Berufungsgericht zutreffend ausgeführt hat,
+     sind damit in Anbetracht des Zwecks von § 38 KWG, nicht erlaubte Kreditgeschäfte zu unterbinden, neue Einlagen im Sinne von Kundengeldern des Kreditinstituts gemeint, nicht aber die hier in Rede stehenden offenen Einlagen aus
+     einer bereits abgeschlossenen Gesellschaftsbeteiligung.
+
+48         dd) Aus diesem Grund greift auch der Einwand des Beklagten nicht, seine Leistungspflicht sei wegen Unmöglichkeit der Gegenleistung gemäß § 275
+     Abs. 1, § 326 Abs. 1 BGB entfallen, weil es der Klägerin aufgrund des behördlichen Verbots untersagt sei, ihre Kommanditanteile in der Liquidation vertragsgemäß entsprechend den eingeforderten Ratenzahlungsrückständen zu erhö-
+
+                                            - 20 -
+
+
+
+     hen, da es sich hierbei um ein auf Vermögensmehrung zielendes Geschäft
+     handele. Da sich der Gesellschaftszweck mit der Abwicklungsanordnung von
+     der werbenden Tätigkeit in eine Liquidation geändert hat, kann der Treugeber
+     die Leistung seiner Einlage nicht mehr von der Erbringung der für die werbende
+     Tätigkeit zugesagten Gegenleistung abhängig machen, sondern hat seine Einlage zu leisten, soweit sie für die Abwicklung erforderlich ist.
+
+49          d) Das Berufungsgericht hat jedoch rechtsfehlerhaft angenommen, dass
+     der Anspruch der Klägerin mit dem Widerruf des Beklagten ex nunc erloschen
+     ist. Dies folgt auch nicht aus einer richtlinienkonformen Auslegung der §§ 312,
+     355 BGB aF.
+
+50          Dabei kann offen bleiben, ob ein genereller Ausschluss des Widerrufsrechts in der Liquidation einer Gesellschaft in entsprechender Anwendung der
+     Senatsrechtsprechung zur Anfechtung wegen arglistiger Täuschung (BGH,
+     Urteil vom 11. Dezember 1978 - II ZR 41/78, NJW 1979, 765) dem verbraucherschützenden Charakter des Widerrufsrechts nach §§ 312, 355 BGB aF
+     gemäß der Richtlinie 85/577/EWG des Rates vom 20. Dezember 1985 betreffend den Verbraucherschutz im Falle von außerhalb von Geschäftsräumen geschlossenen Verträgen (RL 85/577/EWG) widerspräche.
+
+51          Ein wirksamer Widerruf würde auch unter Berücksichtigung der Rechtsprechung des Europäischen Gerichtshofs zu den Folgen des Widerrufs eines
+     Beitritts zu einem geschlossenen Fonds in Form einer Personengesellschaft die
+     Verpflichtung des Beklagten zur Leistung seiner restlichen Einlage nicht entfallen lassen.
+
+52          aa) Wie das Berufungsgericht im Ausgangspunkt zutreffend ausgeführt
+     hat, wirkt der Widerruf des Beklagten gemäß §§ 312, 355 BGB aF ex nunc und
+     führt nach vom Europäischen Gerichtshof als richtlinienkonform gebilligter
+
+                                          - 21 -
+
+
+
+     (EuGH, Urteil vom 15. April 2010, - C-215/08, ZIP 2010, 772 ff.) ständiger
+     Rechtsprechung des Senats zur Anwendung der Grundsätze der fehlerhaften
+     Gesellschaft. Danach kann der widerrufende Gesellschafter keine Rückabwicklung seines Beitritts verlangen, sondern scheidet mit Zugang des Widerrufs
+     ex nunc aus der Gesellschaft aus und hat einen Anspruch auf sein Auseinandersetzungsguthaben zum Zeitpunkt des Wirksamwerdens seines Widerrufs.
+     Anders als vom Berufungsgericht angenommen folgt daraus aber nicht auch
+     der Wegfall seiner Einlageverpflichtung ex nunc. Vielmehr bleibt der Gesellschafter - ebenso wie bei einer Kündigung - weiterhin zur Zahlung rückständiger, noch nicht erbrachter Einlageleistungen an die Gesellschaft verpflichtet
+     (vgl. BGH, Urteil vom 15. Mai 2000 - II ZR 6/99, ZIP 2000, 1208, 1209;
+     Beschluss vom 5. Mai 2008 - II ZR 292/06, ZIP 2008, 1018 Rn. 9; Urteil vom
+     6. November 2012 - II ZR 176/12, juris Rn. 37). Diese Forderung der Gesellschaft ist daher trotz seines Widerrufs auch in voller Höhe in seine Abfindungsbzw. Auseinandersetzungsrechnung einzustellen.
+
+53         bb) Darin liegt entgegen der Ansicht des Berufungsgerichts keine richtlinienwidrige Beschränkung des Widerrufsrechts. Zwar hat der Widerruf des Gesellschafters damit wirtschaftlich keine Auswirkung auf den Fortbestand seiner
+     Leistungsverpflichtung. Diese Folge ist aber von der Billigung des Europäischen
+     Gerichtshofs betreffend die Anwendung der Grundsätze der fehlerhaften Gesellschaft umfasst.
+
+54         Der Europäische Gerichtshof hat die Anwendung der Grundsätze der
+     fehlerhaften Gesellschaft als richtlinienkonform angesehen, weil sie nach den
+     Ausführungen im Vorlagebeschluss des Senats (Beschluss vom 5. Mai 2008
+     - II ZR 292/06, WM 2008, 1026) entsprechend den allgemeinen Grundsätzen
+     des Zivilrechts für einen vernünftigen Ausgleich und eine gerechte Risikoverteilung zwischen den einzelnen Beteiligten sorgen sollen (EuGH, Urteil vom
+
+                                         - 22 -
+
+
+
+     15. April 2010 - C-215/08, ZIP 2010, 772 Rn. 48, 49). Nach dem vom Europäischen Gerichtshof in Bezug genommenen Vorlagebeschluss des Senats (BGH,
+     Beschluss vom 5. Mai 2008 - II ZR 292/06, WM 2008, 1026 Rn. 20) besteht das
+     bei diesem Ausgleich zu berücksichtigende Interesse der Mitgesellschafter insbesondere auch darin, dass die Liquiditäts- und Kapitalbasis nicht dadurch verringert wird, dass dem ausscheidenden Gesellschafter ein höherer Betrag ausgezahlt wird als das auf seine Beteiligung entfallende Auseinandersetzungsguthaben. Dieses Guthaben bestimmt sich hier indes unter Ansatz der Gesamtverpflichtung, die der Beklagte bereits mit seiner Zeichnung der Einlage eingegangen ist. Wegen dieses Fortbestands seiner Gesamtverpflichtung kann sich zwar
+     ein negatives Auseinandersetzungsguthaben und damit eine weitere Zahlungspflicht des Gesellschafters ergeben. Auch diese Folge, dass die Anwendung
+     der Grundsätze der fehlerhaften Gesellschaft nicht nur dazu führen kann, dass
+     das an den Gesellschafter auszuzahlende Guthaben wegen während seiner
+     Mitgliedschaft eingetretener, von ihm mitzutragender Verluste geringer ist als
+     seine Einlageleistung, sondern auch dazu, dass er im Fall eines negativen Guthabens seinerseits zu Zahlungen an die Gesellschaft verpflichtet ist (vgl. BGH,
+     Beschluss vom 5. Mai 2008 - II ZR 292/06, ZIP 2008, 1018 Rn. 9; Urteil vom
+     12. Juli 2010 - II ZR 292/06, BGHZ 186, 167 Rn. 12), hat der Europäische Gerichtshof jedoch ausdrücklich gebilligt (Urteil vom 15. April 2010 - C-215/08,
+     ZIP 2010, 772 Rn. 50 aE). Das gilt im Hinblick auf den vom Europäischen Gerichtshof angeführten Zweck, für einen vernünftigen Interessenausgleich und
+     eine gerechte Risikoverteilung zu sorgen, sowohl für eine Pflicht des Gesellschafters zur Zahlung der Einlage zur Abwicklung als auch zur Durchführung
+     des anschließenden Innenausgleichs.
+
+55         e) Die von dem Beklagten erklärte Kündigung der Beteiligung aus wichtigem Grund lässt seine Zahlungspflicht ebenfalls nicht entfallen. Der Senat hat
+     bereits entschieden, dass die Anfechtung einer Beteiligung wegen Arglist in der
+
+                                          - 23 -
+
+
+
+     Liquidation der Gesellschaft ausgeschlossen ist (vgl. BGH, Urteil vom
+     11. Dezember 1978 - II ZR 41/78, NJW 1979, 765). Bei Auflösung der Gesellschaft vor der Anfechtung des Gesellschafters ist es nicht mehr erforderlich,
+     ihm das Ausscheiden durch außerordentliche Kündigung (als Ersatz für die ihm
+     eigentlich zustehende Auflösungsklage) zu ermöglichen. Darüber hinaus verbietet das Interesse an einer reibungslosen und zügigen Liquidation ein gesondertes Ausscheiden eines einzelnen Gesellschafters während des Auseinandersetzungsverfahrens. Entsprechendes gilt für die Kündigung der Beteiligung aus
+     wichtigem Grund. Die Frage einer etwaigen Richtlinienkonformität stellt sich hier
+     nicht, da es sich um ein rein nationales Recht zur Lösung von der Beteiligung
+     handelt.
+
+56         f) Auf der Grundlage der bisherigen Feststellungen des Berufungsgerichts kann ein Anspruch der Klägerin auf Zahlung der offenen Einlage - sei es
+     zu Abwicklungszwecken oder zur Durchführung des Innenausgleichs unter den
+     Gesellschaftern - jedoch nicht bejaht werden.
+
+57         aa) Für einen Zahlungsanspruch zu Abwicklungszwecken fehlt es an hinreichenden Feststellungen des Berufungsgerichts.
+
+58         (1) Das Berufungsgericht hat im Ausgangspunkt zutreffend angenommen, dass ausstehende Einlagen im Rahmen der Liquidation einer Fondsgesellschaft grundsätzlich nur eingefordert werden dürfen, wenn und soweit dies
+     zur Durchführung der Abwicklung, d.h. für die Befriedigung der Gläubiger oder
+     für liquidationszweckgemäße Tätigkeiten erforderlich ist (vgl. BGH, Urteil vom
+     14. November 1977 - II ZR 183/75, NJW 1978, 424, 425; Urteil vom 3. Juli 1978
+     - II ZR 54/77, WM 1978, 898; Urteil vom 11. Oktober 2011 - II ZR 242/09,
+     ZIP 2011, 2299 Rn. 36). Dabei ist der Liquidator zwar nicht gehalten, die zu Liquidationszwecken benötigten Beträge so einzufordern, dass alle Gesellschaf-
+
+                                          - 24 -
+
+
+
+     ter gleichmäßig belastet werden. Vielmehr steht die Entscheidung darüber, ob
+     und in welchem Umfang er gegenüber den einzelnen Gesellschaftern rückständige Einlageforderungen geltend macht, in seinem pflichtgemäß auszuübenden
+     Ermessen. Voraussetzung dafür bleibt jedoch, dass der jeweils eingeforderte
+     Betrag für die Abwicklung erforderlich sein muss. Der Ausgleich zwischen den
+     Gesellschaftern erfolgt demgegenüber grundsätzlich erst im Rahmen der sich
+     an die Abwicklung anschließenden Auseinandersetzung bzw. der Schlussabrechnung (vgl. BGH, Urteil vom 5. November 1979 - II ZR 145/78, ZIP 1980,
+     192, 194).
+
+59         (2) Die Darlegungs- und Beweislast dafür, dass der eingeforderte Betrag
+     für die Abwicklung nicht benötigt wird, obliegt dem Gesellschafter. Der Liquidator hat jedoch die insoweit bedeutsamen Verhältnisse der Gesellschaft darzustellen, soweit nur er dazu imstande ist; er hat im Einzelnen darzulegen, wozu
+     die eingeforderten Beträge im Rahmen der Abwicklung benötigt werden (BGH,
+     Urteil vom 3. Juli 1978 - II ZR 54/77, WM 1978, 898; Urteil vom 5. November
+     1979 - II ZR 145/78, ZIP 1980, 192, 194).
+
+60         Maßgeblicher Zeitpunkt für die Beurteilung dieser Erforderlichkeit ist der
+     Schluss der mündlichen Verhandlung (vgl. § 128 Abs. 2, § 136 Abs. 4, §§ 296a,
+     310 ZPO), so dass eine etwaige positive Entwicklung der Liquiditätssituation im
+     Laufe des Verfahrens zu berücksichtigen ist. Da der Einzug zu Abwicklungszwecken der Befriedigung der Drittgläubiger und der Finanzierung der Abwicklung dient, entfällt seine Berechtigung, soweit diese Zwecke gesichert sind. Nur
+     solange der Einzug aufgrund der schlechten Liquiditätslage noch erforderlich
+     ist, kann der Liquidator auch sein Ermessen hinsichtlich des Umfangs der Inanspruchnahme einzelner Gesellschafter ausüben.
+
+                                          - 25 -
+
+
+
+61         Dabei ist auch eine etwaige Verbesserung der Liquidität durch bereits
+     eingezogene rückständige Einlagen anderer Gesellschafter berücksichtigungsfähig. Der Gleichbehandlungsgrundsatz steht dem nicht entgegen, da abschließend noch ein Ausgleich unter den Gesellschaftern durchzuführen ist.
+
+62         (3) Danach fehlt es hier an ausreichenden Feststellungen des Berufungsgerichts zur Erforderlichkeit des Einzugs der rückständigen Einlage zu
+     Abwicklungszwecken.
+
+63         Das Berufungsgericht hat sich insoweit auf eine Wiedergabe der diesbezüglichen Ausführungen des Abwicklers der Klägerin in der mündlichen Verhandlung beschränkt, ohne hierzu eine eigene Feststellung zu treffen. Es hat
+     sich im Weiteren vielmehr darauf gestützt, dass unabhängig von einer Erforderlichkeit zu Abwicklungszwecken jedenfalls eine Erforderlichkeit zum Ausgleich
+     unter den Gesellschaftern zu bejahen sei.
+
+64         In diesem Zusammenhang hat es außerdem rechtsfehlerhaft ausgeführt,
+     dass keine Feststellung zur Verbesserung der Liquiditätssituation der Klägerin
+     insbesondere durch Einzahlungen anderer Gesellschafter erforderlich sei, weil
+     dies nur dann zur Unbegründetheit der Klage führe, wenn feststehe, dass der
+     Beklagte seine rückständige Einlage wieder vollständig zurückerhalte. Damit
+     hat es verkannt, dass maßgeblicher Zeitpunkt für die Beurteilung der Erforderlichkeit der Schluss der mündlichen Verhandlung ist.
+
+65         (4) Ob die Erforderlichkeit des Einzugs der rückständigen Einlagen aufgrund des von der Klägerin mitgeteilten Gesellschafterbeschlusses vom 15. Mai
+     2017 über die Beauftragung des Abwicklers mit der Einziehung anders zu beurteilen wäre, bedarf hier keiner Entscheidung. Dieser neue Tatsachenvortrag der
+     Klägerin in der Revisionsinstanz ist gemäß § 559 Abs. 1 Satz 1 ZPO nicht zu
+     berücksichtigen. Zwar ist § 559 Abs. 1 Satz 1 ZPO einschränkend dahin auszu-
+
+                                          - 26 -
+
+
+
+     legen, dass in bestimmtem Umfang auch Umstände, die sich erst während der
+     Revisionsinstanz bzw. nach Schluss der letzten mündlichen Verhandlung in der
+     Berufungsinstanz ereignen, in die Urteilsfindung einfließen können, soweit sie
+     unstreitig sind und schützenswerte Belange der Gegenseite nicht entgegenstehen (vgl. BGH, Urteil vom 23. September 2014 - VI ZR 358/13, BGHZ 202, 242
+     Rn. 21; Urteil vom 8. November 2016 - II ZR 304/15, BGHZ 212, 342 Rn. 18
+     mwN). Diese Voraussetzungen sind hier jedoch nicht erfüllt, da der Beklagte die
+     Beschlussfassung und deren Wirksamkeit zulässig mit Nichtwissen bestritten
+     hat.
+
+66          bb) Entgegen der Ansicht des Berufungsgerichts kann auf der Grundlage
+     der bisherigen Feststellungen auch kein Anspruch der Klägerin auf Zahlung der
+     rückständigen Einlage zum Ausgleich unter den Gesellschaftern bejaht werden.
+
+67          (1) Das Berufungsgericht hat allerdings zutreffend angenommen, dass
+     der Abwickler jedenfalls bei einer Publikums-KG vorbehaltlich anderweitiger
+     gesellschaftsvertraglicher Regelungen auch ohne gesellschaftsvertragliche Ermächtigung zur Einforderung rückständiger Einlagen zum Zweck des Ausgleichs unter den Gesellschaftern befugt ist. Das gilt auch für einen nach § 38
+     Abs. 2 KWG bestellten Abwickler der Gesellschaft.
+
+68          (a) Ob und unter welchen Voraussetzungen eine solche Befugnis des Liquidators bei einer Personengesellschaft besteht, ist in Rechtsprechung und
+     Literatur umstritten.
+
+69          (aa) Nach früherer höchstrichterlicher Rechtsprechung gehört die Einforderung rückständiger Einlagen zum Zweck des internen Ausgleichs unter den
+     Gesellschaftern einer Personengesellschaft oder die Einforderung von Nachschüssen gemäß § 735 BGB (i.V.m. § 105 Abs. 2, § 161 Abs. 2 HGB) zum
+     Ausgleich unter den Gesellschaftern grundsätzlich nicht mehr zum Aufgaben-
+
+                                          - 27 -
+
+
+
+     kreis der Liquidatoren, es sei denn, diese Tätigkeit ist ihnen im Gesellschaftsvertrag oder durch Gesellschaftsbeschluss zusätzlich übertragen worden (vgl.
+     BGH, Urteil vom 14. April 1966 - II ZR 34/64, BB 1966, 844; Urteil vom
+     14. November 1977 - II ZR 183/75, NJW 1978, 424; Urteil vom 3. Juli 1978
+     - II ZR 54/77, WM 1978, 898, 899; Urteil vom 21. November 1983 - II ZR 19/83,
+     ZIP 1984, 49, 54).
+
+70         Für den Fall der Liquidation einer Publikumsgesellschaft hat der Bundesgerichtshof diese Rechtsprechung allerdings im Hinblick auf die bei Publikumsgesellschaften bestehenden Besonderheiten wiederholt in Frage gestellt (vgl.
+     BGH, Urteil vom 14. November 1977 - II ZR 183/75, WM 1977, 1449; Urteil vom
+     3. Juli 1978 - II ZR 54/77, WM 1978, 898, 899; Urteil vom 11. Oktober 2011
+     - II ZR 242/09, ZIP 2011, 2299 Rn. 41). Anknüpfend daran hat er für die Liquidation einer Publikums-GbR entschieden, dass der Abwickler in die von ihm zu
+     erstellende Auseinandersetzungsbilanz auch ohne besondere Regelung im Gesellschaftsvertrag die zu unselbständigen Rechnungsposten gewordenen, auf
+     dem Gesellschaftsverhältnis beruhenden Ansprüche der Gesellschafter untereinander und gegen die Gesellschaft zumindest dann einzustellen hat, wenn die
+     Gesellschafterversammlung durch einen Beschluss diese Ansprüche in die
+     Schlussabrechnung einbezogen hat. Andernfalls sei bei der für solche Massengesellschaften typischen Vielzahl von Gesellschaftern, die untereinander nicht
+     persönlich verbunden sind, der erforderliche Ausgleich unter den Gesellschaftern nicht gewährleistet, jedenfalls aber würde er in unzumutbarer Weise erschwert (vgl. BGH, Urteil vom 15. November 2011 - II ZR 266/09, BGHZ 191,
+     293 Rn. 34 ff.; Urteil vom 20. November 2012 - II ZR 148/10, juris Rn. 34).
+
+                                          - 28 -
+
+
+
+71         Darüber hinaus hat der Bundesgerichtshof wegen des engen Zusammenhangs zwischen der Abwicklung des Gesellschaftsvermögens (§ 730 BGB)
+     und dem internen Ausgleich unter den Gesellschaftern in Frage gestellt, ob
+     überhaupt daran festzuhalten sei, dass der Kontenausgleich unter den Gesellschaftern nicht mehr als Gegenstand der Abwicklung und damit nicht als Aufgabe der Abwickler anzusehen sei, wenn er ihnen nicht ausdrücklich im Gesellschaftsvertrag übertragen wurde (vgl. BGH, Urteil vom 15. November 2011
+     - II ZR 266/09, BGHZ 191, 293 Rn. 34 ff.).
+
+72         (bb) In der Literatur wird zum Teil vertreten, der Liquidator sei ohne besondere Ermächtigung durch die Gesellschaft weder befugt, rückständige Einlagen zum Zweck des internen Gesellschafterausgleichs einzuziehen, noch
+     Nachschüsse gemäß § 735 BGB zum Zwecke der Gläubigerbefriedigung oder
+     zur Ausgleichung unter den Gesellschaftern geltend zu machen (vgl. Hillmann
+     in Ebenroth/Boujong/Joost/Strohn, HGB, 3. Aufl., § 149 Rn. 11, 15; Roth in
+     Baumbach/Hopt, HGB, 37. Aufl., § 149 Rn. 3; Kamanabrou in Oetker, HGB,
+     5. Aufl., § 149 Rn. 7, 11). Danach stelle der Gesellschafterausgleich kein zum
+     Aufgabenkreis der Liquidatoren gehörendes typisches Abwicklungsgeschäft
+     dar, und die Einforderung von Nachschüssen nach § 105 Abs. 3 HGB, § 735
+     BGB betreffe den Ausgleich der Kapitalkonten, was Aufgabe der Gesellschafter
+     und nicht der Liquidatoren sei. Der Anspruch auf Nachschussleistung könne
+     auch nicht als ein der Gesellschaft zustehender Sozialanspruch angesehen
+     werden. Es handele sich um keine auf dem mitgliedschaftlichen Rechtsverhältnis basierende Forderung, sondern um einen reinen Ausgleichsanspruch der
+     Gesellschafter untereinander; die Berücksichtigung innergesellschaftlicher Verhältnisse aber sei in der Liquidation nicht vorgesehen und würde diese nur unnötig erschweren.
+
+                                         - 29 -
+
+
+
+73         (cc) Nach einer differenzierenden Ansicht (Haas in Röhricht/Graf von
+     Westphalen/Haas, HGB, 4. Aufl., § 149 Rn. 6, 10 f.) können Einlagen und
+     Nachschüsse nicht durch den Liquidator eingefordert werden, sofern dies dem
+     Innenausgleich der Gesellschafter oder der Rückerstattung von Einlagen dienen soll; die Einforderung von Nachschüssen zur Berichtigung von Gesellschaftsschulden sei hingegen als Anspruch der Gesellschaft durch den Liquidator geltend zu machen. Dies folge daraus, dass in Personenhandelsgesellschaften (anders als bei § 733 Abs. 2 Satz 1 BGB) eine Einlagenerstattung nicht vorgesehen sei, so dass Gesellschafter Fehlbeträge untereinander auszugleichen
+     hätten.
+
+74         (dd) Andere halten - wie das Berufungsgericht - die Liquidatoren gemäß
+     § 149 HGB sowohl zur Einforderung von rückständigen Einlagen als auch von
+     Nachschüssen zum Zweck des internen Gesellschafterausgleichs für befugt, da
+     der Ausgleich unter den Gesellschaftern noch zu den Aufgaben des Liquidators
+     gehöre (MünchKommHGB/K. Schmidt, 4. Aufl., § 149 Rn. 20, 29; ders.
+     ZHR 153 [1989], 270, 294 ff.; Habersack in Großkomm. HGB, 5. Aufl., § 149
+     Rn. 23, 31 f.; Klöhn in Henssler/Strohn, GesR, 3. Aufl., § 149 HGB Rn. 12;
+     Anissimov in Heidel/Schall, HGB, 2. Aufl., § 149 Rn. 6; Rock/Contius, ZIP 2017,
+     1889, 1890 ff., 1897). Danach schließe die Liquidation die Vollbeendigung aller
+     Rechtsbeziehungen ein (MünchKommHGB/K. Schmidt, 4. Aufl., § 149 Rn. 21;
+     ders. ZHR 153 [1989], 270, 296; Habersack in Großkomm. HGB, 5. Aufl., § 149
+     Rn. 24). Der Liquidator bleibe bis zur Vollbeendigung der Gesellschaft im Amt.
+     Er habe im Rahmen der Rechnungslegung (§§ 154, 155 HGB) die Kapitalkonten für die Gesellschafter für die Auseinandersetzung zu errechnen und die für
+     die Schlussabwicklung nach § 735 BGB erforderlichen Beträge einzuziehen,
+     wenn und soweit sich im Rahmen der Auseinandersetzungsrechnung ein Passivsaldo zu Lasten des in Anspruch genommenen Gesellschafters ergebe
+     (MünchKommHGB/K. Schmidt, 4. Aufl., § 149 Rn. 21; Habersack in Großkomm.
+
+                                            - 30 -
+
+
+
+     HGB, 5. Aufl., § 149 Rn. 31 f.). Die Führung der Kapitalkonten diene in erster
+     Linie dazu, die Endabrechnung zwischen den Gesellschaftern vorzubereiten;
+     die Vorschrift des § 155 HGB sei mit Hilfe des technischen Mittels der Kapitalanteile sozusagen eine Kurzfassung der §§ 733 bis 735 BGB (vgl.
+     MünchKommHGB/K. Schmidt, 4. Aufl., § 149 Rn. 29, Habersack in Großkomm.
+     HGB, 5. Aufl., § 149 Rn. 31 f., unter Verweis auf Huber, Vermögensanteil, Kapitalanteil und Gesellschaftsanteil an Personengesellschaften des Handelsrechts,
+     1970, S. 181 f.; Ensthaler, Die Liquidation von Personengesellschaften, 1985,
+     S. 35 ff., 114 ff.; Hillers, Personengesellschaft und Liquidation, 1988, S. 272).
+
+75          (b) Der Senat schließt sich jedenfalls für den Fall der Liquidation einer
+     Publikums-KG der zuletzt genannten Auffassung an.
+
+76          (aa) Bereits die Systematik der §§ 145 ff. HGB zeigt, dass - wie bei der
+     Gesellschaft bürgerlichen Rechts nach §§ 730 bis 735 BGB - ein enger Zusammenhang zwischen der den Liquidatoren obliegenden Abwicklung des Gesellschaftsvermögens einerseits und dem Ausgleich der Gesellschafter untereinander andererseits besteht. Hinzu kommt, dass die eingesetzten Liquidatoren
+     grundsätzlich bis zur Vollbeendigung der Gesellschaft im Amt bleiben. Diese
+     tritt erst dann ein, wenn kein Aktivvermögen der Gesellschaft mehr vorhanden
+     ist, welches wiederum grundsätzlich auch in einer nach § 149 HGB einzuziehenden noch offenen Forderung der Gesellschaft gegen einen Gesellschafter
+     bestehen kann (vgl. Hillmann in Ebenroth/Boujong/Joost/Strohn, HGB, 3. Aufl.,
+     § 155 Rn. 21). Zwar zählt die Forderung aus einem Saldenausgleich nach klassischem Verständnis nicht mehr zu den Forderungen im Sinne von § 149 HGB.
+     Die Liquidatoren haben aber jedenfalls im Rahmen ihrer Rechnungslegung gemäß § 154 HGB in der Liquidationsschlussbilanz die Kapitalanteile der Gesellschafter für die Verteilung des Gesellschaftsvermögens gemäß § 155 Abs. 1
+     HGB zu errechnen und dabei auch die sich aus §§ 733 bis 735 BGB i.V.m.
+
+                                          - 31 -
+
+
+
+     § 105 Abs. 2 HGB ergebenden Einzelansprüche als unselbständige Rechnungsposten in die Kapitalkonten der Gesellschafter einzustellen (vgl. Huber,
+     Vermögensanteil, Kapitalanteil und Gesellschaftsanteil an Personengesellschaften des Handelsrechts, 1970, S. 181 f.; Ensthaler, Die Liquidation von Personengesellschaften, 1985, S. 35 ff., 114 ff.; Hillers, Personengesellschaft und
+     Liquidation, 1988, S. 272). Auch aus § 155 Abs. 2 Satz 2 Fall 2 HGB ergibt sich,
+     dass die Liquidatoren in der Liquidation bei einer etwaigen vorläufigen Verteilung bereits mögliche Ansprüche der Gesellschafter bei der Schlussverteilung
+     zu berücksichtigen haben (vgl. MünchKommHGB/K. Schmidt, 4. Aufl., § 149
+     Rn. 29).
+
+77         Die frühere, den Materialien zum Handelsgesetzbuch (siehe Schuber/Schmiedel/Krampe, Quellen zum Handelsgesetzbuch von 1897, Band II/1,
+     S. 49) entsprechende Auffassung der Rechtsprechung beruhte noch auf einem
+     Gesamthandsverständnis der Personengesellschaften, das keine Rechtspersönlichkeit der Gesellschaft kannte, inzwischen aber überholt ist. Ausgleichsansprüche der Gesellschafter sind daher nicht mehr als reine Ansprüche der Gesellschafter untereinander anzusehen, sondern vielmehr als auf dem Gesellschaftsverhältnis beruhende (Sozial-)Ansprüche der Gesellschaft bzw. gegen
+     die Gesellschaft, deren Ausgleichung mithin auch den Liquidatoren im Rahmen
+     der Vollbeendigung der Gesellschaft zugewiesen werden kann.
+
+78         (bb) Jedenfalls im vorliegenden Fall der Auflösung einer Publikums-KG in
+     Form einer Massengesellschaft ist eine solche Befugnis des Liquidators deshalb zu bejahen, weil andernfalls der erforderliche Ausgleich unter den Gesellschaftern bei der für Massengesellschaften typischen Vielzahl von Gesellschaftern, die untereinander nicht persönlich verbunden sind, nicht gewährleistet,
+     zumindest aber in unzumutbarer Weise erschwert wäre (vgl. BGH, Urteil vom
+     15. November 2011 - II ZR 266/09, BGHZ 191, 293 Rn. 34). Schon dieser Ge-
+
+                                          - 32 -
+
+
+
+     sichtspunkt rechtfertigt es, jedenfalls bei Publikumsgesellschaften eine Befugnis
+     des Liquidators zum Innenausgleich auch ohne zumindest indirekte Ermächtigung durch die Gesellschafter - wie etwa in der Entscheidung des Bundesgerichtshofs zur Publikums-GbR in Form einer von einer Gesellschafterversammlung festgestellten (vorläufige) Schlussrechnung unter Einbezug des Innenausgleichs (vgl. BGH, Urteil vom 15. November 2011 - II ZR 266/09, BGHZ 191,
+     293 Rn. 34; Urteil vom 20. November 2012 - II ZR 148/10, juris Rn. 34) - anzunehmen.
+
+79         Das gilt auch dann, wenn die Abwicklung der Gesellschaft nach § 38
+     KWG angeordnet wurde. Zwar hat ein nach § 38 Abs. 2 KWG bestellter Abwickler nur dieselben gesellschaftsrechtlichen Befugnisse wie ein von den Gesellschaftern bestellter Liquidator. Die BaFin hat aber nicht nur die Abwicklung der
+     erlaubnispflichtigen Geschäfte, sondern die Abwicklung der Klägerin insgesamt
+     angeordnet, und die Bestellung eines Abwicklers beantragt, um u.a. im Interesse der Gesellschafter der Klägerin eine ordnungsgemäße Abwicklung sicherzustellen. Dieser Anordnungszweck erfasst auch den ordnungsgemäßen Ausgleich unter den Gesellschaftern der Klägerin.
+
+80         Ob darüber hinaus Liquidatoren von Personengesellschaften generell
+     auch ohne entsprechende gesellschaftsvertragliche Ermächtigung als zur
+     Durchführung des Ausgleichs unter den Gesellschaftern berechtigt anzusehen
+     sind, bedarf hier keiner Entscheidung.
+
+81         (2) Das Berufungsgericht hat jedoch rechtsfehlerhaft nicht berücksichtigt,
+     dass die Einforderung rückständiger Einlagen zum Ausgleich unter den Gesellschaftern die Vorlage eines Auseinandersetzungsplans erfordert, der einen
+     Passivsaldo des in Anspruch genommenen Gesellschafters ausweist.
+
+                                           - 33 -
+
+
+
+82          (a) Nach ständiger Rechtsprechung des Bundesgerichtshofs kommt eine
+     Einforderung rückständiger Einlagen zum Ausgleich zwischen den Gesellschaftern im Regelfall erst dann in Betracht, wenn und soweit ein im Rahmen der
+     Auseinandersetzungsrechnung zu erstellender Ausgleichungsplan einen Passivsaldo zu Lasten des in Anspruch genommenen Gesellschafters aufweist (vgl.
+     BGH, Urteil vom 14. November 1977 - II ZR 183/75, NJW 1978, 424; Urteil vom
+     3. Juli 1978 - II ZR 54/77, WM 1978, 898, 899; Urteil vom 21. November 1983
+     - II ZR 19/83, ZIP 1984, 49, 53). Das gilt grundsätzlich auch im Fall einer Publikumsgesellschaft.
+
+83          Ob und inwieweit eine Auseinandersetzungsrechnung bzw. ein Auseinandersetzungsplan bisher aufgestellt worden ist und ob sich daraus ein Passivsaldo des Beklagten ergibt, hat das Berufungsgericht nicht festgestellt.
+
+84          (b) Ein solcher Ausgleichsplan kann hier auch nicht ausnahmsweise als
+     entbehrlich angesehen werden. Unter besonderen Umständen - insbesondere
+     wenn die Abwicklung längere Zeit dauert und den Belangen der Gläubiger
+     schon vorher voll Rechnung getragen ist - kann es allerdings nach dem Grundsatz der Gleichbehandlung gerechtfertigt sein, Vorschüsse an die ausgleichsberechtigten Gesellschafter zu zahlen und dementsprechend rückständige Einlagen einzufordern. Das setzt aber in jedem Fall die Feststellung voraus, dass der
+     in Anspruch genommene Gesellschafter im Ergebnis noch etwas einzuzahlen
+     hat (vgl. BGH, Urteil vom 14. November 1977 - II ZR 183/75, NJW 1978, 424 f.;
+     Urteil vom 21. November 1983 - II ZR 19/83, ZIP 1984, 49, 53 f.). In diesem Fall
+     muss der Liquidator, d.h. hier die Klägerin, den geltend gemachten Ausgleichsanspruch dartun und beweisen (vgl. BGH, Urteil vom 21. November 1983
+     - II ZR 19/83, ZIP 1984, 49, 54). Feststellungen des Berufungsgerichts hierzu
+     liegen nicht vor.
+
+                                          - 34 -
+
+
+
+85         III. Das Berufungsurteil ist danach aufzuheben (§ 562 Abs. 1 ZPO). Die
+     Sache ist zur erneuten Verhandlung und Entscheidung zurückzuverweisen, weil
+     sie noch nicht zur Entscheidung reif ist (§ 563 Abs. 1 Satz 1 und 3 ZPO).
+
+86         Eine eigene Beurteilung der Erforderlichkeit zu Abwicklungszwecken
+     gemäß § 563 Abs. 3 ZPO ist dem Senat anhand der bisherigen Feststellungen
+     des Berufungsgerichts nicht möglich. Den Angaben des Abwicklers im Termin
+     ist ebenso wie dem im Tatbestand des Berufungsurteils wiedergegebenen streitigen Vortrag der Klägerin lediglich pauschal zu entnehmen, dass die ausstehenden Einlagen für die Beitreibung noch offener Leasingforderungen und die
+     Geltendmachung von Haftungsansprüchen gegenüber der früheren Geschäftsführung benötigt würden; außerdem stünden Schadensersatzansprüche einer
+     Anleger-Interessengemeinschaft in Höhe von 1,7 Mio. € im Raum. Diesem Vortrag ist der Beklagte indes unter Hinweis auf die Statusberichte der Klägerin
+     entgegengetreten.
+
+                                        - 35 -
+
+
+
+87         Auch eine eigene Feststellung zum Vorliegen eines Ausgleichsplans und
+     eines sich daraus evtl. ergebenden Passivsaldos des Beklagten ist dem Senat
+     mangels Angaben dazu im Berufungsurteil nicht möglich.
+
+
+
+
+     Drescher                          Wöstmann                          Sunder
+
+                     Bernau                             B. Grüneberg
+
+
+
+
+     Vorinstanzen:
+     LG Hechingen, Entscheidung vom 17.12.2014 - 1 O 102/14 -
+     OLG Stuttgart, Entscheidung vom 06.04.2016 - 14 U 2/15 -
