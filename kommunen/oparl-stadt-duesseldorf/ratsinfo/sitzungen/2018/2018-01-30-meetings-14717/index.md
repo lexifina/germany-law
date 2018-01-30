@@ -1,0 +1,63 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-01-30T17:00:00+01:00
+- Ende: 2018-01-30T21:19:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14717
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14717
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309499.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309499.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309499.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 28.11.2017 - einstimmig beschlossen
+- TOP 3: Bestellung beratendes Mitglied Jugendrat - einstimmig beschlossen
+- TOP 4: Verkehrsüberwachung im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Flächennutzungsplanänderung Nr. 181 - Wasserwerksweg - - Empfehlung abweichend beschlossen
+- TOP 10: Bebauungsplan-Vorentwurf Nr. 05/012 (eh. 5088/006) - Wasserwerksweg - - Empfehlung abweichend beschlossen
+- TOP 11: Perspektiven für den Düsseldorfer Norden Umsetzungsstrategie Weitere Vorgehensweise - Empfehlung mehrheitlich beschlossen
+- TOP 12: Zukunftskonzept „RegioNetzWerk“ - Empfehlung mehrheitlich beschlossen
+- TOP 13: Sportanlage Grenzweg 15a - Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 14: Änderungen Geschwindigkeitsbegrenzungen in Angermund - beantwortet
+- TOP 15: KGS Im Grund - Sanierung der Ballspielfläche - beantwortet
+- TOP 16: Verkehrssicherheit in Wittlaer - wechselseitiges Parken Bockumer Straße
+- TOP 17: Schutz der Landschaft und des Landschaftsbildes am südlichen Ortsrand Angermund - beantwortet
+- TOP 18: Radwegehauptnetz im Stadtbezirk 5 - Sachstand
+- TOP 19: Grundschule Angermund - Hausmeisterwohnung und Erweiterung der Grundschule - beantwortet
+- TOP 20: Grundschule Im Grund - Austausch Spielsand - beantwortet
+- TOP 21: Grundschule Im Grund - Trampolin und Hofbemalung - beantwortet
+- TOP 22: Perspektiven Erweiterung Kinderspielplatz Hoppengarten
+- TOP 23: Flächenreserven für Wohnungsbau im Stadtbezirk 5 - beantwortet
+- TOP 24: Niederschlagswasserbeseitigung an der Anschlussstelle B8n/Kaiserswerth - beantwortet
+- TOP 25: Wittlaer - Verkehrserschließung
+- TOP 26: Stadtsparkasse Düsseldorf im Stadtbezirk 5 - Serviceangebote - beantwortet
+- TOP 27: Rheinbahn - Warteunterstände mit digitalisierten Plakat-Vitrinen
+- TOP 28: Ruine Edmund-Bertrams-Straße 5 - beantwortet
+- TOP 29: Kaiserswerther Straße - Lärmreduzierung
+- TOP 30: Kreisverkehr Rahmer Straße/Angermunder Straße
+- TOP 31: Einrichtung Drop-on/Drop-off Zone Grundschule Farnweg
+- TOP 32: Verkehrsentlastung im Düsseldorfer Norden - Ausbau B8/Danziger Straße im Abschnitt zwischen A44 und
+- TOP 33: Herrichtung Barbarossawall
+- TOP 34: Ankauf, Verkauf, Neubau oder nicht in Lohausen? Was gilt denn nun?
+- TOP 35: Instandsetzung der Wege des südlichen Grünzuges im Wallgraben Kaiserswerth - einstimmig beschlossen
+- TOP 36: Aufstellung eines Hinweisschildes "KZ-Außenkommando - Bombenräumkommando Kalkum" - einstimmig beschlossen
+- TOP 37: Vielseitiges Konzept für ein respektvolles Miteinander im Ortskern Kaiserswerth - einstimmig beschlossen
+- TOP 38: Instandsetzung/Wiederinbetriebnahme Beleuchtung historische Kaiserpfalz - einstimmig beschlossen
+- TOP 39: Das Plattbodenschiff muss nach Kaiserswerth zurück - einstimmig beschlossen
+- TOP 40: Verbesserung Verkehrssicherheit und Wahrnehmung Zebrastreifen im SB5 - mehrheitlich beschlossen
+- TOP 41: WLAN in öffentlichen Gebäuden im Stadtbezirk 05 - mehrheitlich beschlossen
+- TOP 42: Erstellung eines Park & Ride Parkplatzes auf der Brachfläche östlich der Lilienthalstraße - mehrheitlich beschlossen
+- TOP 43: Erweiterung Spielmöglichkeiten "Piratenspielplatz" Klemensbrücke - einstimmig beschlossen
+- TOP 44: Stellungnahmen 30.01.2018 - zur Kenntnis genommen
+- TOP 45: Friedhof Angermund - Planung für Baumbestattungen - zur Kenntnis genommen
+- TOP 46: Verschiedenes - zur Kenntnis genommen
