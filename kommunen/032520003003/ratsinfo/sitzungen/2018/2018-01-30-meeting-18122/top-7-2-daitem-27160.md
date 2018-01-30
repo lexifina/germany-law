@@ -1,0 +1,6 @@
+# TOP 7.2: Oberflächenzustand Kronenweg
+
+- Sitzung: Bau- und Umweltausschuss (20. Sitzung) (2018-01-30)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/27160
