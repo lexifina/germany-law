@@ -1,0 +1,53 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-01-30T16:00:00+01:00
+- Ende: 2018-01-30T18:40:00+01:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14891
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14891
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309381.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309381.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309381.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - mehrheitlich beschlossen
+- TOP 4: Partizipationsbericht des Jugendamtes Düsseldorf - zur Kenntnis genommen
+- TOP 5: Verkehrstechnische Erschließung Fachmarktzentrum Werdener Straße - einstimmig beschlossen
+- TOP 6: Uhlandstraße - Tempo 30 - einstimmig beschlossen
+- TOP 7: Zuwendungsantrag HiSKO - einstimmig beschlossen
+- TOP 8: Bezirksbezogene Haushaltsmittel - Veranstaltungszelt für KABAWIL e.V. - einstimmig beschlossen
+- TOP 9: Aufstellung von Fahrradständern im Stadtbezirk - einstimmig beschlossen
+- TOP 10: Glascontainer Dorotheenplatz - abweichend beschlossen
+- TOP 11: Gestaltung Stromkästen u. Kabelverteilerschränke - abweichend beschlossen
+- TOP 12: Kreuzungsbereich Erkrather Str. / Kettwiger Str. - abweichend beschlossen
+- TOP 13: Müllberge an den Feiertagen - abweichend beschlossen
+- TOP 14: Zweckentfremdung von Garagen - einstimmig beschlossen
+- TOP 15: Verwahrlosung Haus Schumannstraße 50 - zurückgezogen
+- TOP 16: Fahrplan 708 - einstimmig beschlossen
+- TOP 17: Zukünftige Fahrplangestaltung der Linie 708 - beantwortet
+- TOP 18: Quartiersgarage Ackerstraße 144
+- TOP 19: Verkehrssicherheit im B8-Center
+- TOP 20: Sohnstraße - Straßenbauarbeiten - beantwortet
+- TOP 21: Bushaltestelle Sohnstraße - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Verpflegungssituation an der Brehmschule - beantwortet
+- TOP 24: Verkehrsversuch Höherweg - beantwortet
+- TOP 25: Haltestelle Dorotheenstraße - beantwortet
+- TOP 26: Verkehrsentlastung im Stadtbezirk 2 - beantwortet
+- TOP 27: Kartieren von nachzupflanzenden Straßenbäumen - zur Kenntnis genommen
+- TOP 28: Ersatzpflanzung Platanenstraße erklären - zur Kenntnis genommen
+- TOP 29: Blumen Stadt-Natur-Park - zur Kenntnis genommen
+- TOP 30: Priorisierung Baumnachpflanzungen - zur Kenntnis genommen
+- TOP 31: Kennzeichnung Bäume Zoopark - zur Kenntnis genommen
+- TOP 32: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 33: Sperrung Höherweg Beschluss BV 8 - zur Kenntnis genommen
+- TOP 34: Verkehrsversuch Höherweg Ergebnis - zur Kenntnis genommen
+- TOP 35: Verkehrsversuch Flurstraße - ÖPNV-Spur zwischen Hoffeldstraße und Dorotheenstraße - mehrheitlich beschlossen
+- TOP 36: Verkehrsversuch Erkrather Str.-ÖPNV-Spur zwischen Egilweg und Schlesische Str. (Fahrtr.stadtausw.) - mehrheitlich beschlossen
