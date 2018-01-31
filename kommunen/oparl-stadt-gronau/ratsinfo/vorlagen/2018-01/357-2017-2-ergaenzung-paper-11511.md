@@ -1,0 +1,22 @@
+# Beitragssatzung für die OGS / ÜMI Einrichtungen an Gronauer Grundschulen; finanzielle Ausstattung der Träger; Vergabe einer Trägerschaft
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 357/2017 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-01-31
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcoQ_igyaVSFOxGRcL-KkNo
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/11511
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beitragssatzung für die OGS / ÜMI Einrichtungen an Gronauer Grundschulen; finanzielle Ausstattung der Träger; Vergabe einer Trägerschaft) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVTJHYbn25D9SdPBntb1CQ5vqMBz_61nUlm0mFma9z95/Beschlussvorlage_357-2017_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Aktueller Satzungsentwurf) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTiCpFpzLBGNpnKMvV37IUuyQi8ECHFRWqMXiOTiCvC0/Aktueller_Satzungsentwurf.pdf
+- Anlage: Beschlussvorlage (Aktuelle Übersicht der Elternbeiträge OGS und ÜMI ab dem 01.08.2018) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV8GQkqUCssSouhYO1qxFqAdEGigDdwHtIYplezwl2Xu/Aktuelle_Uebersicht_der_Elternbeitraege_OGS_und_UeMI_ab_dem_01.08.2018.pdf
+- Anlage: Beschlussvorlage (Schreiben der ÜMi Vorstände vom 07.12.2018) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdRHO_KPkUvVJinvhzEPJ0c0TX4yp8e7YicUGUUKjqs7/Schreiben_der_UeMi_Vorstaende_vom_07.12.2018.pdf
+- Anlage: Beschlussvorlage (Antrag der CDU Fraktion vom 12.12.2017) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ3t2wXhlwmrXgIgTV8kj3efLJuM0QpP19HPeCVMjRBE/Antrag_der_CDU_Fraktion_vom_12.12.2017.pdf
+- Anlage: Beschlussvorlage (Protokollauszug a.d.N. des JHA vom 23.11.2017 Anl.5 zu 357.20117 2. EG) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdPZf5q2O06aFU0mCBdfgmpCei_PgVD-C0gy5ljZAm2M/Protokollauszug_a.d.N._des_JHA_vom_23.11.2017_Anl.5_zu_357.20117_2._EG.pdf
+- Anlage: Beschlussvorlage (AfSK vom 23.11.2017. Anl.6 zu Vorl. 357.2017 2. EG) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdIfwIpQ1Rh9pl_yuYXg2rQlgQB6CzAU9jwTzZ0RmaUW/AfSK_vom_23.11.2017._Anl.6_zu_Vorl._357.2017_2._EG.pdf
+- Anlage: Beschlussvorlage (JHA vom 28.11.2017 Anl.7 zu Vorl. 357.2017 2. EG) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcn5146mxyrmXrUvEqGZjq-8ax0tAb6Vub1jbDwIPZRf/JHA_vom_28.11.2017_Anl.7_zu_Vorl._357.2017_2._EG.pdf
+- Anlage: Beschlussvorlage (AfSK vom 12.12.2017. Anl.8 zu Vorl. 357.2017 2. EG) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeOlg7LBKVGCcZdJxhWMEPd-pxZ5ld_s6J_xEOKgJ1qx/AfSK_vom_12.12.2017._Anl.8_zu_Vorl._357.2017_2._EG.pdf
+- Anlage: Beschlussvorlage (Auszug aus der Niederschrift des HFA am 24.01.2018) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRWj51Bsw-0LbxSXzNpwGg1AK75jzPVOJq7YwoLdYnYH/Auszug_aus_der_Niederschrift_des_HFA_am_24.01.2018.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3812 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-13
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3813 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-45
