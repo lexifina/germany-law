@@ -1,0 +1,139 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-01-31T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4568778
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4568778
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.1.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.10.: Ortstermin zur Schulwegsicherheit an der Kreuzung Rheinstraße/Mainzer Straße
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Vorkaufsrechtsprüfung Nordendstr. 34? (Antwort des Kommunalreferats auf BA-Anfrage vom 14.12.2017)
+- TOP B: Soziales
+- TOP 2.1.: Kinder-Aktions-Koffer 2018/2019 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis für Garderobe und Fensterbank im Schwabinger Schülerladen
+- TOP 3.2.2.: Sachbericht zum kostenfreien LILALU-Spielprogramm „Umsonst und draußen“ 2017
+- TOP 3.2.3.: Verwendungsnachweis für das LILALU-Spielprogramm „Umsonst und draußen“ 2017
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Verschönerung der Schulmauer Hohenzollern-/Schleißheimer Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 44 „Casagranda“: Genehmigung einer Freischankfläche
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Stiftung Pfennigparade, Kulturforum Kabarettprogramm "Es kommt wie&#039;s kommt" am 20.06.2018 1.185,00€ AZ. 0262.0-4-0189
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Standort für neues Zeitungsentnahmegerät in der Rossini-/Ecke Destouchesstraße (Zwischennachricht der Bezirksinspektion Nord zur BA-Stellungnahme vom 14.12.2017)
+- TOP 3.1.2.: Erläuterungsschilder Ackermannstraße (Zwischennachricht des Kommunalreferats zur BA-Stellungnahme vom 14.12.2017)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Änderungsbescheid „O&#039;pflanzt is“: Bewilligungszeitraum bis 31.05.2018
+- TOP 3.2.2.: Verwendungsnachweis für Infopoint am Stadtplatz Ackermannbogen
+- TOP 3.2.3.: Verwendungsnachweis für ein Konzert der Kreuzkirche zum Reformationsjubiläum
+- TOP 3.3.1.: FFH-Bewerbungsfilm „Aus dem Kokon“ am 14.01.2018: Arcisstraße und Elisabethplatz
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Schleißheimer Str. 142a: Vergrößerung des Wirtsgartens zur temporären Nutzung (Aufstellung von 10 Liegestühlen)
+- TOP 2.1.2.: Kurfürstenstr. 20: Teilabbruch und Erweiterung der Garage: Nutzung im EG Garagen und Wohnen im OG
+- TOP 2.1.3.: Infanteriestr. 11 a: Neubau Pavillon V für Hochschulnutzung mit Kantine
+- TOP 2.1.4.: Winzererstr. 58: Büroeinbau, Internet- und Medienproduktion im Keller eines Mehrfamilienwohnhauses
+- TOP 2.1.5.: Tektur Friedrichstr. 19: Neubau eines Wohnhauses mit Tiefgarage und eines Rückgebäudes
+- TOP 2.1.6.: Elisabethstr. 30: Nutzungsänderung und Umbau von Büro zu Wohnen (1 WE)
+- TOP 2.1.7.: Vorbescheid Bauerstr. 9: Dachgeschossausbau, Balkonstahlkonstruktion hofseitig
+- TOP 2.1.8.: Tektur Franz-Joseph-Str. 31: Neubau eines Rückgebäudes mit Tiefgarage (Mittelgarage)
+- TOP 2.1.9.: Infanteriestr. 19 – Schulbauoffensive: Neubau einer 5-zügigen Grundschule mit Doppelsporthalle und Freisportfläche sowie eines Hauses für Kinder mit 4 Krippen- und 2 Kindergartengruppen, Mensa und Tiefgarage
+- TOP 2.1.10.: Ainmillerstr. 50: Errichtung eines außenliegenden Personenaufzugs, Balkonneubau und -erneuerung
+- TOP 2.1.11.: Belgradstr. 32: Nutzungsänderung einer Ladenfläche zu Büronutzung
+- TOP 2.1.12.: Tektur Clemensstr. 45: Abbruch eines Dachstuhls und Neuerrichtung einer DG-Wohnung (hier: Errichtung des dritten Stellplatzes auf der Hoffläche)
+- TOP 2.1.13.: Tektur Adelheidstr. 27: DG-Neubau für 3 neue Wohnungen mit darüberliegender Dachterrasse, Anbau eines Aufzugs am Bestandsgebäude (Hofseite)
+- TOP 2.1.14.: Kraepelinstr. 2-16: Neubau einer psychiatrischen Klinik mit 5 Stationen (3 mit regulärem Versorgungsstandard, 1 mit gehobenem Versorgungsstandard, eine geschlossene Station), Verwaltung, Forschungsambulanz/Funktionsdiagnostik, Tagesklinik, physikalische Therapie mit Schwimmbad und Sporthalle, Ergotherapie, klinisches Labor und Cafeteria sowie dazu gehörige Lagerlogistikflächen
+- TOP 2.1.15.: Hiltenspergerstr. 38-40: Energetische Sanierung, Dachausbau und Erweiterung eines Gebäudes mit Anbringung von Balkonen und Außenaufzügen sowie Neubau eines Wohnhauses mit Tiefgarage im rückwärtigen Hof
+- TOP 2.1.16.: Rheinstr. 24: Nutzungsänderung Wohn- und Gewerberäume zur Schaffung von Ersatzwohnraum im Souterrain
+- TOP 2.1.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Ersatzwohnraum Bauerstr. 2 (Antwort des Amtes für Wohnen und Migration auf BA-Nachfrage vom 14.12.2017)
+- TOP 3.1.2.: Neue Planungen für das „Hohenzollernkarrée“? (Antwort der LBK auf BA-Nachfrage vom 14.12.2017)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Vorkaufsrecht in Erhaltungssatzungsgebieten: Auflagen für Nachverdichtung bzw. Dachausbau in Abwendungserklärungen aufnehmen (Antwort des Sozialreferats auf eine Anfrage aus der Bürgerversammlung am 05.10.2017)
+- TOP 3.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.6.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 3.2.7.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Zu lange Wartedauer an der Fußgängerampel Belgradstraße in Höhe Rümannstraße
+- TOP 1.2.: Bürgerin: Umwidmung von Stellplätzen in der Brunnerstraße zu Privatparkplätzen
+- TOP 1.3.: Bürger: Freigabe der Adelheid- und der Krumbacher Straße für den gegenläufigen Radverkehr; „Anlieger frei“-Regelung für den westlichen Teil der Krumbacher Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) Tischtennisplatten im Luitpoldpark Empfehlung Nr. 14-20 / E 01700 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 05.10.2017
+- TOP 2.1.2.: Baumlückenschließung Clemensstraße – Antrag von Urbanes Wohnen e.V. auf Förderung aus dem Programm „Bürgerinnen und Bürger gestalten ihre Stadt“
+- TOP 2.1.3.: Info-Veranstaltung des Urbanes Wohnen e.V. zur Begrünung der Lothstraße und zur Umwidmung der nördlichen Winzererstraße als Fahrradstraße am 23.02.2018 – Unterstützung durch BA-Schreiben an die Anwohner
+- TOP 2.2.1.: Austausch der Lichtsignalanlage Ackermannstraße / Spiridon-Louis-Ring
+- TOP 2.2.2.: Verlegung des Radwegs in der Karl-Theodor-Straße zwischen Belgrad- und Angererstraße (Bürgerversammlungsempfehlung Nr. 14-20 / E 00608 vom 08.10.2015): Nochmalige Anhörung zum abweichenden BA-Beschluss vom 24.02.2016 und zu einer aktuellen Stellungnahme des KVR
+- TOP 2.2.3.: Parksituation in der Fürstenbergstraße: Ausweitung des Bewohnerparkens
+- TOP 2.2.4.: Fahrbahnsanierung im Kreuzungsbereich Isabella-/Georgenstraße
+- TOP 2.2.5.: (E) Zufahrtssperren am Helmut-Fischer-Platz Empfehlung Nr. 14-20 / E 01693 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 05.10.2017
+- TOP 2.2.6.: (E) + (U) Endhaltestelle Ackermannbogen der Buslinie 59 nachts auf den Quartiersplatz verlegen Empfehlung Nr. 14-20 / E 01702 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing West am 05.10.2017
+- TOP 2.2.7.: (E) + (U) Zuverlässige Busanbindung zum Ackermannbogen durch Abkopplung von der Metrolinie 59 Empfehlung Nr. 14-20 / E 01689 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing West am 05.10.2017
+- TOP 2.2.8.: (E) Verkehrskontrollen in der Georg-Birk-Straße zur Einhaltung des Durchfahrtsverbots
+- TOP 2.2.9.: (E) Unfallvorbeugende Maßnahmen im Bereich Scheidplatz / Belgradstraße / Bummstraße
+- TOP 2.2.11.: (E) Verlegung des Radwegs in der Karl-Theodor-Straße zwischen Belgrad- und Angererstraße Empfehlung Nr. 14-20 / E 00608 der Bürgerversammlung des Stadtbezirkes 4 Schwabing West am 08.10.2015
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Laubhaufen am Brunnen auf dem Elisabethplatz (Antwort des Baureferats auf BA-Schreiben vom 23.11.2017)
+- TOP 3.1.2.: Rotmarkierung der Fahrradspur am Kurfürstenplatz (Antwort des KVR auf BA-Schreiben vom 23.11.2017)
+- TOP 3.1.3.: Ungenehmigte Baumfällung im Vorgarten Bauerstr. 9? (Antwort der Unteren Naturschutzbehörde auf BA-Anfrage vom 28.09.2017)
+- TOP 3.1.4.: Übergang zum Luitpoldpark in Höhe Belgradstr. 128 freihalten (Antwort des Baureferats Gartenbau auf BA-Schreiben vom 23.11.2017)
+- TOP 3.1.5.: Blindensignale an allen Verkehrsampeln
+- TOP 3.2.1.: Bonner Platz 4-5 Genehmigung zur Fällung einer Ulme
+- TOP 3.2.2.: Hörwarthstr. 43: Genehmigung zur Fällung einer Robinie
+- TOP 3.2.3.: Georgenstr. 34: Genehmigung zur Fällung zweier Robinien
+- TOP 3.2.4.: Geplante Gehölzpflegemaßnahmen im Olympiapark
+- TOP 3.2.5.: Apianstr. 5: Genehmigung zur Fällung eines Hollunders
+- TOP 3.2.6.: Apianstr. 5: Genehmigung zur Fällung eines Holunders
+- TOP 3.2.7.: Infanteriestr. 19: Fällung von 11 Gefahrenbäumen
+- TOP 3.3.1.: Zusätzliche Ausstiegshaltestelle Ackermannbogen
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Tram Nordtangente – Wiederaufnahme der Planung für die Tram durch den Englischen Garten Trambahn-Nordtangente Verknüpfung mit der Münchner Freiheit Antrag Nr. 14-20 / A 03294 von LKR vom 26.07.2017 Das Eisen schmieden so lange es heiß ist - Tram durch den Englischen Garten jetzt sichern Antrag Nr. 14-20 / A 03548 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.11.2017
+- TOP 3.4.2.: (U) Zukunftsfähigkeit des Münchner U-Bahn-Netzes –Bekenntnisbeschluss für die Entlastungsspange U9 sowie dafür erforderliche Vorhaltemaßnahmen für einen zusätzlichen U-Bahnhof am Hauptbahnhof a) Sachstandsbericht und weiteres Vorgehen b) Finanzierung Änderungen des Mehrjahresinvestitionsprogrammes 2017 bis 2021 - Anmeldungen zum Haushalt 2018 ff c) „Nahverkehrsplan für die LH München II – U9 nicht um jeden Preis“ Antrag Nr. 14-20 / A 1960 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.03.2016 d) „Überlegungen zur U9“ BA-Antrags-Nr. 14-20 / B 03839 des Bezirksausschusses des Stadtbezirkes 22 – Aubing-Lochhausen-Langwied vom 19.07.2017
+- TOP 3.4.3.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Mieterbeiratswahl 2018: Entsendung eines stimmberechtigten Mitglieds
+- TOP F.2.: Antworten auf Anträge und Schreiben des BA Keine Einstellung des Mailversandes von Sitzungsunterlagen (Antwort des Direlktoriums auf BA-Schreiben vom 14.12.2017)
+- TOP F.3.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten: LTE-Router für das Sitzungslokal?
+- TOP F.4.: Neuer Raum für BA-Sitzungen
+- TOP G: Verschiedenes
+- TOP H: Termine
