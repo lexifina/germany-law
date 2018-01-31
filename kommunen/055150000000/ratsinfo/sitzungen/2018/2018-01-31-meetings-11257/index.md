@@ -1,0 +1,71 @@
+# 29. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-01-31T17:15:00+01:00
+- Ende: 2018-01-31T20:48:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11257
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11257
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00417455.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Velorouten nachhaltiger konzipieren - verwiesen
+- TOP 7.2: Optimierung der Wegeführung für Fahrradfahrer auf der Schillerstraße zwischen Theodor-Scheiwe-Straße und Hansaring im Rahmen der städtebaulichen Entwicklung am Stadthafen Nord - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10.1: WLAN an münsterischen Schulen nutzbar machen! - verwiesen
+- TOP 11: Errichtung einer Zentralen Ausländerbehörde (ZAB) für den Regierungsbezirk Münster - mehrheitlich geändert beschlossen
+- TOP 12: Wirtschaftsplan 2018 der citeq - einstimmig beschlossen
+- TOP 13: Digitale Stadt Münster - Digitalisierungsstrategie der Stadtverwaltung - von der Tagesordnung abgesetzt
+- TOP 14: Satzung zur Berichtigung der Satzung zur Umstellung von Gebührenerhebung auf privatrechtliche Entgelterhebung bei der Veranstaltung von Wochenmärkten und Volksfesten durch die Stadt Münster - Entgelterhebungssatzung im Send- und Marktwesen - und der - einstimmig beschlossen
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2017 - zur Kenntnis genommen
+- TOP 16: Prüfung der Einführung einer Wettbürosteuer in der Stadt Münster - einstimmig geändert beschlossen
+- TOP 17: Regionalumfrage 2017: Wie attraktiv ist Münster für die Region? - zur Kenntnis genommen
+- TOP 18: Neuerrichtung eines Weiterildungskollegs mit den Bildungsgängen der Abendrealschule und des Abendgymnasiums - einstimmig beschlossen
+- TOP 19: Nutzung der ehemaligen Wartburg-Hauptschule in Sentrup als Kindertageseinrichtung - von der Tagesordnung abgesetzt
+- TOP 20: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Landsberger Straße in Amelsbüren - mehrheitlich beschlossen
+- TOP 21: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Bereitstellung überplanmäßiger Investionsmittel - mehrheitlich beschlossen
+- TOP 22: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2016 - zur Kenntnis genommen
+- TOP 23: Ausschreibung der Betriebsträgerschaften für die dauerhaften Flüchtlingseinrichtungen in Roxel, Zum Schultenhof 3, und Nienberge, Käthe-Ernst-Weg 16 - 26 - mehrheitlich beschlossen
+- TOP 23.1: Ausschreibung der Betriebsträgerschaften für die dauerhaften Flüchtlingseinrichtungen in Roxel, Zum Schultenhof 3, und Nienberge, Käthe-Ernst-Weg 16 - 26
+- TOP 24: Umsetzung des Verpackungsgesetzes (Wertstofftonne) - mehrheitlich beschlossen
+- TOP 24.1: Umsetzung des Verpackungsgesetzes (Wertstofftonne)
+- TOP 25: Errichtung der 2. Städtischen Gesamtschule, zweiter Baubabschnitt - Zustimmung zur Vorentwurfsplanung - einstimmig beschlossen
+- TOP 26: Fortführung der Teilnahme am European Energy Award - mehrheitlich beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Münster-Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 586 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk Münster-West
+- TOP 27.2.1: 69. Änderung FNP - Beitrittsbeschluss - Erneute Offenlegung - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Münster-Hiltrup
+- TOP 27.3.1: Veränderungssperre Nr. 107, Erste Verlängerung - einstimmig beschlossen
+- TOP 27.4: Stadtbezirk Münster-Ost
+- TOP 27.4.1: Bebauungsplan Nr. 561 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28.1: ZAB Münsterland - zurückgezogen
+- TOP 28.2: Für die Gesundheit der Menschen und für mehr Artenvielfalt: Die Verwendung von Glyphosat in Münster einschränken - verwiesen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 29.1: Ein City-Logistic-Center – Baustein in einem zukunftsfähigen Mobilitäts-Angebot in Münster - verwiesen
+- TOP 29.2: Neubau der DEK Brücke Wolbecker Straße - verwiesen
+- TOP 29.3: Nachnutzung der temporären Unterkünfte für Geflüchtete - verwiesen
+- TOP 29.4: Ein Update für digitale Infrastruktur in Gewerbegebieten - verwiesen
+- TOP 29.5: Entwicklung eines Qualitätsmanagements für Sprachkurse für Flüchtlinge - verwiesen
+- TOP 29.6: Wettbewerb „Emissionsfreie Innenstadt“ - Ziel ist „Emissionsverringerung“ - verwiesen
+- TOP 29.7: Gewerbegebiete ans Breitbandnetz anschließen - verwiesen
+- TOP 29.8: Wohnraum für Menschen mit Pflege- und Unterstützungsbedarf schaffen - verwiesen
+- TOP 30: Beirat für Klimaschutz - Berufung eines neuen Mitgliedes - einstimmig beschlossen
+- TOP 31: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 32: Verschiedenes
