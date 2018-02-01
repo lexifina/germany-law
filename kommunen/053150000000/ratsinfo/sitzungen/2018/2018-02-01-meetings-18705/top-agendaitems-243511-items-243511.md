@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der Fraktion Die Linke
+
+- Sitzung: 30. Sitzung des Stadtentwicklungsausschusses (2018-02-01)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/243511
+- Ergebnis: ohne Votum in nachfolgende Gremien
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/112293
