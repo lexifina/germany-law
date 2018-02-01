@@ -1,0 +1,72 @@
+# 33. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-01T17:00:00+01:00
+- Ende: 2018-02-01T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18600
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18600
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Überführung der Bundesbahn Unnauer Weg/ Fritz-Wacker-Straße - Kenntnis genommen
+- TOP 7.1.2: Alternative Bestattungsformen - Kenntnis genommen
+- TOP 7.1.3: Entwicklung Förderschule Soldiner Straße in Lindweiler - Kenntnis genommen
+- TOP 7.1.4: Dreharbeiten im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Sicherheit auf Gehwegen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.6: Mangelhafte Ausleuchtung städtischer Flächen im Einkaufszentrum Heimersdorf - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Carsharing – Mobiles Köln Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.2: Verkehrssicherheit / Schulwege Anfrage der SPD-Fraktion und Die Linke - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Straßenbeleuchtung "Am Baggerfeld", zwischen den Orten Esch und Pesch - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Lebenswertes Chorweiler- Umgestaltung Plätze Antrag der SPD-Fraktion und Die Linke - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Benennung des Weges zwischen Rheinkasseler Weg und Amandusstraße in Köln-Merkenich Ortsteil Rheinkassel - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Richtlinie für die Benennung von Straßen - ungeändert beschlossen
+- TOP 9.2.2: 263. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ohne Votum in nachfolgende Gremien
+- TOP -: weitere Anlage - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Anfrage der Seniorenvertretung zur Versorgung durch die Apotheken in den Rheindörfern in der Sitzung am 14.12.2017 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 10.2.2: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 10.2.3: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.5: Simultanhalle, Volkhovener Weg 209 - 211 - Kenntnis genommen
+- TOP 10.2.6: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 10.2.7: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.8: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler Hier: Aktueller Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 10.2.9: Tätigkeitsbericht 2016 des Amtes für Straßen und Verkehrstechnik - Kenntnis genommen
+- TOP 10.2.10: Stadtbahnhaltestelle Chorweiler - Brandschutztechnische Nachrüstung Sachstand der Planung und Umsetzung - Kenntnis genommen
+- TOP 10.2.11: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 10.2.12: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Schadensereignis am Freitag 29.09.2017 bei Ineos in Worringen - Kenntnis genommen
+- TOP 11.1.2: Videodolmetscher für das Bezirksamt Chorweiler - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
