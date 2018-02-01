@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-02-01T14:00:00+01:00
+- Ende: 2018-02-01T18:05:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14866
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14866
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309597.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309597.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00309597.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Wahl des / der 3. ehrenamtlichen Stellvertreters / Stellvertreterin des Oberbürgermeisters - mehrheitlich beschlossen
+- TOP 5: Aktuelle Anfragen
+- TOP 5.1: Anfrage aus aktuellem Anlass der Ratsfraktion von BÜ90/GRÜ: Umgang mit Restitutionsfragen - beantwortet
+- TOP 5.2: Anfrage aktuell: NS-Raubkunst in Düsseldorfer Museen - beantwortet
+- TOP 5.3: Anfrage aktuell FDP: Zulässigkeit einer Kreditkartengebühr bei Taxifahrten - verwiesen
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage der SPD-Ratsfraktion: Situation und Zustand des Altstadtpflasters - beantwortet
+- TOP 6.2: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen der Düsseldorfer Ausländerbehörde 2017 - beantwortet
+- TOP 6.3: Anfrage der Ratsfraktion von BÜ90/GRÜ: Düsseldorfer Stadtstrand in 2018? - schriftlich beantwortet
+- TOP 6.4: Anfrage von BÜ90/GRÜ: Radverkehrsförderung nach der Tour – was bleibt nachhaltig? - schriftlich beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion DIE LINKE: Zwangsräumungen in Düsseldorf in 2017 - schriftlich beantwortet
+- TOP 6.6: Anfrage der CDU-Ratsfraktion: Sicherheit in der Düsseldorfer Altstadt an Silvester und Karneval - schriftlich beantwortet
+- TOP 6.7: Anfrage Rh Maniera: Unterbringungsproblematik und Kosten bei Asylbewerbern - schriftlich beantwortet
+- TOP 6.8: Anfrage Rh Maniera: Übergriffe auf Einsatzkräfte des Rettungsdienstes, Feuerwehr und OSD - schriftlich beantwortet
+- TOP 6.9: Anfrage Rh Pfundner: Verluste der städtischen Großhallen - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - schriftlich beantwortet
+- TOP 8: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - schriftlich beantwortet
+- TOP 9: Marktplatz 1-3, Verwaltungsgebäude, Erneuerung der Lüftungs- und Klimatechnik - Ausführungs- und Fin - einstimmig beschlossen
+- TOP 10: Zweckverband Verkehrsverbund Rhein Ruhr - einstimmig beschlossen
+- TOP 11: ZUKUNFT WOHNEN.DÜSSELDORF - Ein Handlungskonzept für den Wohnungsmarkt. Anpassung des preisgedämpfte - zurückgezogen
+- TOP 12: Anpassung des Friedhofentwicklungskonzeptes im Bereich des Friedhofs Itter - einstimmig beschlossen
+- TOP 13: Lärmaktionsplan II für Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittage im 1. Halbjahr 2018 - mehrheitlich beschlossen
+- TOP 15: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 16: Stiftung Gerhart-Hauptmann-Haus, Neubildung des Kuratoriums - einstimmig beschlossen
+- TOP 17: Nachwahl eines Mitglieds für die Jury Förderpreis für bildende Kunst der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 18: Mitgliederversammlung des Städtetages NRW am 06.06.2018 in Bielefeld - einstimmig beschlossen
+- TOP 19: Aufsichtsrat der Messe Düsseldorf GmbH; Besetzungsrechte der IDR AG - einstimmig beschlossen
+- TOP 20: Beirat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 21: Verwaltungsausschuss der Agentur für Arbeit Düsseldorf - einstimmig beschlossen
+- TOP 22: Bestellung einer Prüferin und Abberufung von zwei Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 23: Besetzung von Gremien durch den Jugendrat - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen........ - einstimmig beschlossen
+- TOP 25: Bebauungsplan Nr. 5780/22 - Selbecker Straße - Änderung gem. § 13 BauGB, Stellungnahmen, Satzung - mehrheitlich beschlossen
+- TOP 26: Plan Nr. 06/015 - Vogelsangerweg - Verlängerung der Veränderungssperre - einstimmig beschlossen
+- TOP 27: Bebauungsplan-Entwurf Nr. 03/018 - Kölner Straße / Moskauer Straße - mehrheitlich beschlossen
+- TOP 28: Anträge
+- TOP 28.1: Antrag der CDU-Ratsfraktion: Den "Flossis" eine Zukunft. - mehrheitlich abgelehnt
+- TOP 28.2: Antrag der CDU-Ratsfraktion: Sturmchaos "Friederike" - Krisenmanagement jetzt optimieren! - mehrheitlich abgelehnt
+- TOP 29: Polizeibeirat -Ersatzwahl- - einstimmig beschlossen
