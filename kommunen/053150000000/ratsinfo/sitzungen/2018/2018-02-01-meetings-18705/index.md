@@ -1,0 +1,74 @@
+# 30. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-01T15:07:00+01:00
+- Ende: 2018-02-01T17:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18705
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18705
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Aufwertung von Plätzen in den Stadtbezirken; AN/0922/2017 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Wohnsiedlung „Im Mönchsfeld“ in Roggendorf/Thenhoven - Sache ist erledigt
+- TOP 2.1.2: Soziale Erhaltungssatzung Severinsviertel und das Auslaufen von Sozialbindungen
+- TOP 2.1.3: Nah- und Fernwärme in Köln
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Verdachtsgebiete für Milieuschutzsatzungen
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Umgestaltung Ebertplatz; Verfahrensvorschlag; hier: Begründung der Dringlichkeit - geändert beschlossen
+- TOP -: "Verwaltung und Gremien für Soziales und Kultur einbeziehen!" - Änderungsantrag zu Top 5.4 "Umgestaltung Ebertplatz; Verfahrensvorschlag" - Sache ist erledigt
+- TOP 5.2: Flughafen Köln/Bonn - Planfeststellungsverfahren gem. § 8 ff LuftVG i. V. m. § 73 VwVfG NRW - geändert beschlossen
+- TOP -: Zusatzantrag zu TOP 5.2 – Flughafen Köln/Bonn – Planfeststellungsverfahren - ungeändert beschlossen
+- TOP 5.3: Planfeststellungsverfahren für die Erweiterung und den Weiterbetrieb der Deponie „Am Wiemersgrund" in Köln-Poll - geändert beschlossen
+- TOP 5.4: Olpener Straße 250 bis 252 in Köln-Höhenberg; Einleitungsbeschluss - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - zurückgestellt
+- TOP 6.2: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die Linke - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Ulrich-Haberland-Haus in Köln-Stammheim / Ideen- und Investorenwettbewerb - geändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept Circus-Roncalli-Weg in Köln-Mülheim; Anhörung der Bezirksvertretung Mülheim zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteili-gung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept Otto-Langen-Quartier (ehemals Möhring-Quartier) in Köln-Mülheim - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 9.2, Städtebauliches Planungskonzept Otto-Langen-Quartier (ehemals Möhring-Quartier) in Köln-Mülheim - geändert beschlossen
+- TOP 9.3: Nördlich Colonius in Köln-Neustadt/Nord; VEP; städtebauliches Planungskonzept: Mitteilung ü.d.Ergebnis d.Qualifizierungsverfahrens sowie Beschluss z.Durchführung d.frühz.Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung;Arbeitstitel: Bebauungsplanänderung Nummer 67420/07 – Nördlich Mannsfelder Straße - geändert beschlossen
+- TOP 10.2: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld; VEP Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.3: Seeadlerweg in Köln-Ehrenfeld; VEP Einleitungsbeschluss und frühz Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Einleitungsbeschluss zur Teilaufhebung des Bebauungsplanes Nummer 65410/03 - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 16.2: Beschluss der Bezirksvertretung Porz vom 26.09.2017 über die vereinfachte Änderung des Bebauungsplanes 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1. Änderung - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 17.2: Leitprojekt "Köln aufräumen", Dezernat Stadtentwicklung, Planen und Bauen - Kenntnis genommen
+- TOP 17.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 17.4: AN/1757/2017 Neubau der Leverkusener Brücke mit Ausbau der A1 - Was unternimmt die Verwaltung zur Verbesserung des Lärmschutzes im Gewerbegebiet Causemannstraße - Kenntnis genommen
+- TOP 17.5: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler Hier: Aktueller Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 17.6: Köln kooperiert - Regionale Kooperation voranbringen und Regionalplan-Überarbeitung: Informationsveranstaltung am 24.11.2017 - Kenntnis genommen
+- TOP 17.7: Stadt Köln und Vertreter der Wohnungswirtschaft schließen das "Kölner Wohnbündnis" - Kenntnis genommen
+- TOP 17.8: Humboldtstraße in Köln-Porz-Finkenberg; Offenlage; BP-Entwurf 75409/05 - Kenntnis genommen
+- TOP 17.9: Euroforum Nord in Köln-Mülheim, 1. Änderung; 69460/07; Offenlage - Kenntnis genommen
+- TOP 17.10: Kasernenstraße in Köln-Kalk; 71455/01; Offenlage Vorhabenbezogener Bebauungsplan-Entwurf - Kenntnis genommen
+- TOP 17.11: Festival der Baukultur in Köln - Kenntnis genommen
+- TOP 17.12: Städtisches Grundstück Krefelder Straße/Innere Kanalstraße in Köln-Neustadt/Nord (Bauwagenplatz) - Kenntnis genommen
+- TOP 17.13: Anfrage der SPD Fraktion vom 16.01.2018, Entwicklung des Grundstücks Krefelder Straße/Innere Kanalstraße - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
