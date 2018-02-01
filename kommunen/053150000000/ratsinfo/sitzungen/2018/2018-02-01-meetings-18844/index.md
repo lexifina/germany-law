@@ -1,0 +1,81 @@
+# 27. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-01T17:00:00+01:00
+- Ende: 2018-02-01T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18844
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18844
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung der Ergebnisse des Bezirksjugendtages
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Bauherr im Niehler Hafen - Kenntnis genommen
+- TOP 7.1.2: Handlungsbedarf zur Schaffung von Jugendeinrichtungen und Jugendtreffs 2017-2021“ Session Nr. 2177/2017 - Kenntnis genommen
+- TOP 7.1.3: AN/1632/2017 - Kenntnis genommen
+- TOP 7.1.4: Altbaumburgweg - Kenntnis genommen
+- TOP 7.1.5: Sicherheit in Longerich - Kenntnis genommen
+- TOP 7.1.6: Maßnahmen gegen die Umwandlung von Vorgärten in Pkw-Stellflächen AN/0391/2017; Anfrage der SPD-Fraktion in der BV 5 - Kenntnis genommen
+- TOP 7.1.7: Container im Toni-Steingass-Park - zu AN/1603/2017 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Zuständigkeit zur Verkehrsüberwachung in der "KVB Straße" an der Stadtbahnhaltestelle der Linie 12 in Niehl - Kenntnis genommen
+- TOP 7.2.2: Schadstoffe durch Feuerwerke zu Silvester - Kenntnis genommen
+- TOP 7.2.3: Wilhelm-Sollmann-Straße/Johannes-Rings-Straße - Kenntnis genommen
+- TOP 7.2.4: Sanierung der historischen VFL- Tribüne auf der Pferderennbahn - Kenntnis genommen
+- TOP 7.2.5: Raumbedarf durch mögliche Umstellung auf G9 bei Gymnasien im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Raumbedarf durch mögliche Umstellung auf G9 bei Gymnasien im Stadtbezirk Nippes - Anfrage AN/0146/2018, CDU – Fraktion in der Bezirksvertretung Nippes - Kenntnis genommen
+- TOP 7.2.6: Gaukler im Straßenverkehr - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Förderung von Elektromobilität für CarSharing im Bezirk Nippes - endgültig abgelehnt
+- TOP -: Förderung von Elektromobilität für CarSharing im Bezirk Nippes - endgültig abgelehnt
+- TOP 8.1.2: Instandsetzung der Trimmgeräte im Blücherpark - ungeändert beschlossen
+- TOP 8.1.3: Parkplätze am Friedhof in Alt-Niehl - geändert beschlossen
+- TOP 8.1.4: Bau eines Gymnasiums an der Schmiedegasse - geändert beschlossen
+- TOP 8.1.5: Prüfung einiger Vorschläge aus der 4. Zukunftskonferenz Bilderstöckchen - ungeändert beschlossen
+- TOP -: Gemeinsame Anfrage der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen und der CDU-Fraktion: Prüfung einiger Vorschläge aus der 4. Zukunftswerkstatt Bilderstöckchen - Kenntnis genommen
+- TOP 8.1.6: Zebrastreifen am Grundschulweg Riehler Tal/Ecke Garthestraße - ungeändert beschlossen
+- TOP 8.1.7: Einrichtung eines Zebrastreifens auf der Neusser Straße zwischen Viersener Straße und Baudristraße - endgültig abgelehnt
+- TOP 8.1.8: Parkplätze Neusser Straße - ungeändert beschlossen
+- TOP 8.1.9: Aktion Sicherheit für Radfahrerinnen und Radfahrer im Bezirk - Sache ist erledigt
+- TOP 8.1.10: LSA Heimersdorfer Straße/Militärringstraße - geändert beschlossen
+- TOP 8.1.11: Entscheidung des Hauptausschusses vom 15.01.2018 - ungeändert beschlossen
+- TOP -: Ersetzungsantrag der Grünen - Sache ist erledigt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Johannes-Giesberts-Park - geändert beschlossen
+- TOP 9.1.2: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Nippes - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Richtlinie für die Benennung von Straßen - zurückgestellt
+- TOP 9.2.2: 263. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - zurückgestellt
+- TOP -: Änderungsantrag der Linken - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Zielbild 2020 - Kenntnis genommen
+- TOP 10.2.2: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.2.3: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 10.2.4: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 10.2.5: Gefahr im Verzug auf Schulweg in Niehl - Kenntnis genommen
+- TOP 10.2.6: Geschwindigkeitskontrollen auf dem Niehler Kirchweg - Kenntnis genommen
+- TOP 10.2.7: Verkehrssituation Wilhelm-Sollmann-Straße/Neusser Straße - Kenntnis genommen
+- TOP 10.2.8: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 10.2.9: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 10.2.10: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 10.2.11: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 10.2.12: Weiterplanungsbeschluss Niehler Gürtel (Vorlage 2871/2017); Beschluss der Bezirksvertretung Nippes vom 07.12.2017 - Kenntnis genommen
+- TOP 10.2.13: Pilotprojekt "Parkplatz-App" für Nippes - Kenntnis genommen
