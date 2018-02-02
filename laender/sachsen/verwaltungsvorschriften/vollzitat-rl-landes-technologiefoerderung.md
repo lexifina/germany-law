@@ -1,8 +1,8 @@
 # Vollzitat: RL Landes-Technologieförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-11-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.2
+- Datum: 2018-02-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17309.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-03.11.2017
+02.02.2018
 bis
-01.02.2018
+31.12.2019
 
 RL Landes-Technologieförderung
 
@@ -58,7 +58,9 @@ Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikel 
 
 a)
 
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65),
+Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt
+
+in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 1084/2017 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist. Zudem gelten die Ausführungen in der Anlage zur Richtlinie.
 
 
 b)
@@ -1062,7 +1064,11 @@ die Umsatzsteuer für die dem Zuwendungsempfänger in Rechnung gestellte Lieferu
 
 d)
 
-Die Förderung bezieht sich auf den Anteil an den zuwendungsfähigen Ausgaben, mit dem die angeschafften oder hergestellten Wirtschaftsgüter nicht wirtschaftlich genutzt werden. Die Einordnung einer Tätigkeit als nichtwirtschaftliche Tätigkeit richtet sich nach Randnummer 19 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation.
+Die Förderung bezieht sich auf den Anteil an den zuwendungsfähigen Ausgaben, mit dem die angeschafften oder hergestellten Wirtschaftsgüter nicht wirtschaftlich genutzt werden (bei der Betrachtung als Forschungsinfrastruktur im Fall einer zumindest teilweisen Nutzungsüberlassung an Dritte) oder auf einen Anteil an den zuwendungsfähigen Ausgaben entsprechend des Anteils der nicht wirtschaftlichen Tätigkeit der Einrichtung insgesamt (im Fall der ausschließlichen Eigennutzung der angeschafften
+
+oder hergestellten Wirtschaftsgüter).
+
+Die Einordnung einer Tätigkeit als nichtwirtschaftliche Tätigkeit richtet sich nach Randnummer 19 des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation.
 
 
 e)
@@ -1201,6 +1207,373 @@ Der Staatsminister für Wirtschaft, Arbeit und Verkehr
 Martin Dulig
 
 
+Anlage
+
+Sofern die Maßnahmen als staatliche Beihilfen auf Grundlage der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) Nr. 1084/2017 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist, im Folgenden AGVO genannt, gefördert werden, sind ergänzend zu den Vorgaben der Richtlinie die nachfolgenden Punkte zu beachten.
+
+
+1.
+
+
+Anwendbare Freistellungstatbestände
+
+Eine Förderung kann auf der Grundlage der Artikel 18, 20 und 25 bis 29 der AGVO gewährt werden.
+
+
+2.
+
+
+Förderverbot (Artikel 1 der AGVO)
+
+
+Von der Förderung ausgeschlossen sind Unternehmen beziehungsweise Sektoren in den Fällen des Artikel 1 Absatz 2 bis 5 der AGVO.
+
+
+3.
+
+
+Beachtung der Anmeldeschwelle (Artikel 4 der AGVO)
+
+
+Bei der Bewilligung der Einzelvorhaben sind folgende Anmeldeschwellen nach Artikel 4 der AGVO zu beachten:
+
+
+–
+
+
+Bei KMU-Beihilfen für die Inanspruchnahme von Beratungsdiensten nach Artikel 18 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe d der AGVO einschlägig.
+
+
+–
+
+Bei Beihilfen für die Kooperationskosten von KMU, die an Projekten der europäischen territorialen Zusammenarbeit teilnehmen nach Artikel 20 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe f der AGVO einschlägig.
+
+
+–
+
+Bei Forschungs- und Entwicklungsbeihilfen nach Artikel 25 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe i der AGVO einschlägig.
+
+
+–
+
+Bei Investitionsbeihilfen für Forschungsinfrastrukturen nach Artikel 26 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe j der AGVO einschlägig.
+
+
+–
+
+Bei Beihilfen für Innovationscluster nach Artikel 27 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe k der AGVO einschlägig.
+
+
+–
+
+Bei Innovationsbeihilfen für KMU nach Artikel 28 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe l der AGVO einschlägig.
+
+
+–
+
+Bei Beihilfen für Prozess- und Organisationsinnovationen nach Artikel 29 der AGVO sind die Anmeldeschwellen nach Artikel 4 Absatz 1 Buchstabe m der AGVO einschlägig.
+
+
+Es sind die Kumulierungsregeln in Artikel 8 der AGVO zu beachten.
+
+
+4.
+
+
+Transparenz (Artikel 5 der AGVO)
+
+
+Die Förderung nach dieser Richtlinie erfolgt in Form von Zuschüssen.
+
+
+5.
+
+
+Anreizeffekt (Artikel 6 der AGVO)
+
+
+Der Beihilfeempfänger muss vor Beginn der Arbeiten für das Vorhaben oder die Tätigkeit den schriftlichen Förderantrag gestellt haben. Dieser muss mindestens die folgenden Angaben enthalten:
+
+
+–
+
+Name und Größe des Unternehmens,
+
+
+–
+
+Beschreibung des Vorhabens mit Angabe des Beginns und des Abschlusses,
+
+
+–
+
+Standort des Vorhabens,
+
+
+–
+
+die Kosten des Vorhabens,
+
+
+–
+
+Art der Beihilfe (Zuschuss) und
+
+
+–
+
+Höhe der für das Vorhaben benötigten öffentlichen Finanzierung.
+
+
+6.
+
+
+Berechnung von Beihilfeintensität und beihilfefähigen Kosten (Artikel 7 der AGVO)
+
+
+Für die Berechnung der Beihilfeintensität und der beihilfefähigen Kosten werden die Beträge vor Abzug von Steuern und sonstigen Abgaben herangezogen. Die beihilfefähigen Kosten sind durch schriftliche Unterlagen zu belegen, die klar, spezifisch und aktuell sein müssen.
+
+
+7.
+
+
+Kumulierungsregel (Artikel 8 der AGVO)
+
+
+Auf der Grundlage der AGVO gewährte staatliche Beihilfen können mit anderen staatlichen Beihilfen kumuliert werden, sofern diese Maßnahmen unterschiedliche bestimmbare beihilfefähige Kosten betreffen.
+
+
+Mit anderen staatlichen Beihilfen für dieselben, sich teilweise oder vollständig überschneidenden beihilfefähigen Kosten ist eine Kumulation zulässig, wenn durch diese Kumulierung die höchste nach der AGVO für diese Beihilfen geltende Beihilfeintensität beziehungsweise der höchste nach der AGVO für diese Beihilfen geltende Beihilfebetrag nicht überschritten wird.
+
+
+8.
+
+
+Beihilfefähige Kosten nach Artikel 18 der AGVO
+
+
+Beihilfefähig sind die Kosten für Beratungsleistungen externer Berater.
+
+
+9.
+
+
+Beihilfehöchstintensitäten bei Artikel 18 der AGVO
+
+
+Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht überschreiten.
+
+
+10.
+
+
+Beihilfefähige Kosten nach Artikel 20 der AGVO
+
+
+Beihilfefähige Kosten sind:
+
+
+–
+
+Kosten der organisatorischen Zusammenarbeit einschließlich der Kosten für Personal und Büros, soweit sie mit dem Kooperationsprojekt in Zusammenhang stehen,
+
+
+–
+
+Kosten von Beratungs- und Unterstützungsdiensten, die die Zusammenarbeit betreffen und von externen Beratern und Dienstleistern erbracht werden, sofern es sich nicht um Dienstleistungen handelt, die fortlaufend oder in regelmäßigen Abständen in Anspruch genommen werden oder die zu den gewöhnlichen Betriebskosten des Unternehmens gehören wie laufende Steuerberatung, regelmäßige Rechtsberatung oder laufende Werbung,
+
+
+–
+
+Reisekosten, direkt mit dem Projekt zusammenhängende Ausrüstungskosten und Investitionsaufwendungen sowie die Abschreibung von direkt für das Projekt verwendeten Werkzeugen und Ausrüstungsgegenständen.
+
+
+11.
+
+
+Beihilfehöchstintensitäten bei Artikel 20 der AGVO
+
+
+Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht überschreiten.
+
+
+12.
+
+
+Beihilfefähige Kosten nach Artikel 25 der AGVO
+
+
+Förderfähig sind folgende Kosten:
+
+
+–
+
+Personalkosten der Forscher, Techniker sowie sonstiges Personal, soweit diese für das Vorhaben eingesetzt werden,
+
+
+–
+
+Kosten für Instrumente und Ausrüstung, soweit und solange sie für das Vorhaben genutzt werden,
+
+
+–
+
+Kosten für Gebäude und Grundstücke, soweit und solange sie für das Vorhaben genutzt werden,
+
+
+–
+
+Kosten für Auftragsforschung, Wissen und Patente sowie Kosten für Beratung und gleichwertige Dienstleistungen, die ausschließlich für das Vorhaben genutzt werden,
+
+
+–
+
+zusätzliche Gemeinkosten und sonstige Betriebskosten (unter anderem für Material, Bedarfsartikel und dergleichen), die unmittelbar durch das Vorhaben entstehen.
+
+
+Einzelheiten zu den einzelnen Kostenpositionen sind in Artikel 25 Absatz 3 der AGVO geregelt.
+
+
+Bei Durchführbarkeitsstudien sind die Kosten der Studie beihilfefähig.
+
+
+13.
+
+
+Beihilfehöchstintensitäten bei Artikel 25 der AGVO
+
+
+Bei der Förderung sind die Beihilfehöchstintensitäten gemäß Artikel 25 Absatz 5 bis 7 der AGVO zu beachten.
+
+
+14.
+
+
+Beihilfefähige Kosten nach Artikel 26 der AGVO
+
+
+Beihilfefähige Kosten sind die Kosten der Investitionen in materielle und immaterielle Vermögenswerte.
+
+
+15.
+
+
+Beihilfehöchstintensitäten bei Artikel 26 der AGVO
+
+
+Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht überschreiten.
+
+
+16.
+
+
+Beihilfefähige Kosten nach Artikel 27 der AGVO
+
+
+Beihilfefähige Kosten für den Auf- oder Ausbau des Innovationsclusters sind die Kosten der Investitionen in materielle und immaterielle Vermögenswerte.
+
+
+Beihilfefähige Kosten von Betriebsbeihilfen für Innovationscluster sind die Kosten für Personal und Verwaltung (Details hierzu enthält Artikel 27 Absatz 8 der AGVO).
+
+
+17.
+
+
+Beihilfehöchstintensitäten bei Artikel 27 der AGVO
+
+
+Die Beihilfeintensität von Investitionsbeihilfen für Innovationscluster darf höchstens 50 Prozent der beihilfefähigen Kosten betragen. Die Beihilfeintensität kann bei Innovationsclustern in Fördergebieten nach Artikel 107 Absatz 3 Buchstabe c des Vertrags über die Arbeitsweise der Europäischen Union um 5 Prozent erhöht werden.
+
+
+Die Beihilfeintensität von Betriebsbeihilfen darf im Gewährungszeitraum höchstens 50 Prozent der beihilfefähigen Gesamtkosten betragen.
+
+
+18.
+
+
+Beihilfefähige Kosten nach Artikel 28 der AGVO
+
+
+Beihilfefähige Kosten sind:
+
+
+–
+
+Kosten für die Erlangung, die Validierung und Verteidigung von Patenten und anderen immateriellen Vermögenswerten,
+
+
+–
+
+Kosten für die Abordnung hochqualifizierten Personals einer Einrichtung für Forschung und Wissensverbreitung oder eines großen Unternehmens für Tätigkeiten im Bereich Forschung, Entwicklung oder Innovation in einer neu geschaffenen Funktion innerhalb des begünstigten KMU, wodurch jedoch kein anderes Personal ersetzt wird,
+
+
+–
+
+Kosten für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen.
+
+
+19.
+
+
+Beihilfehöchstintensitäten bei Artikel 28 der AGVO
+
+
+Die Beihilfeintensität darf 50 Prozent der beihilfefähigen Kosten nicht überschreiten.
+
+
+Bei Beihilfen für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen kann die Beihilfeintensität auf bis zu 100 Prozent der beihilfefähigen Kosten erhöht werden, sofern der Gesamtbetrag der Beihilfe für Innovationsberatungsdienste und innovationsunterstützende Dienstleistungen innerhalb von drei Jahren nicht mehr als 200 000 Euro pro Unternehmen beträgt.
+
+
+20.
+
+
+Beihilfefähige Kosten nach Artikel 29 der AGVO
+
+
+Beihilfefähige Kosten sind:
+
+
+–
+
+Personalkosten,
+
+
+–
+
+Kosten für Instrumente, Ausrüstung, Gebäude und Grundstücke, soweit und solange sie für das Vorhaben genutzt werden,
+
+
+–
+
+Kosten für Auftragsforschung, Wissen und unter Einhaltung des Arm`s-length-Prinzips von Dritten direkt oder in Lizenz erworbene Patente,
+
+
+–
+
+zusätzliche Gemeinkosten und sonstige Betriebskosten (unter anderem für Material, Bedarfsartikel und dergleichen), die unmittelbar durch das Vorhaben entstehen.
+
+
+21.
+
+
+Beihilfehöchstintensitäten bei Artikel 29 der AGVO
+
+
+Die Beihilfeintensität darf bei großen Unternehmen höchstens 15 Prozent und bei KMU höchstens 50 Prozent der beihilfefähigen Kosten betragen.
+
+
+22.
+
+
+Geltungsdauer der AGVO (Artikel 58 Absatz 5 in Verbindung mit Artikel 59 der AGVO)
+
+
+Die Freistellungstatbestände der AGVO gelten vorerst bis zum 31.Dezember 2020 zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2021.
+
+
+Sollte die AGVO nicht verlängert oder durch eine neue AGVO ersetzt werden, oder werden relevante inhaltliche Veränderungen der derzeitigen AGVO vorgenommen, wird die Förderrichtlinie zur Einhaltung der neuen Vorgaben entsprechend überarbeitet.
+
+
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -1211,9 +1584,9 @@ Fsn-Nr.: 552-V17.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  3. November 2017
+Fassung gültig ab:  2. Februar 2018
 
-Fassung gültig bis:  1. Februar 2018
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -1238,7 +1611,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17309.2
+https://www.revosax.sachsen.de/vorschrift/17309.3
 Stand vom
 18.11.2026
 
