@@ -1,0 +1,53 @@
+# Gemeinsame Sonderssitzung des Verkehrsausschusses, des Ausschusses Umwelt und Grün und der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-05T13:00:00+01:00
+- Ende: 2018-02-05T14:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71, https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20, https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/19197
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/19197
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 31.01.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647665.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 31.01.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647665.pdf
+- Wortprotokoll: Tagesordnung, Stand 31.01.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647665.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl eines Vorsitzenden
+- TOP 1: Wahl eines Vorsitzenden
+- TOP 1: Wahl eines Vorsitzenden
+- TOP 1: Wahl eines Vorsitzenden
+- TOP 2: Wahl einer Schriftführerin
+- TOP 2: Wahl einer Schriftführerin
+- TOP 2: Wahl einer Schriftführerin
+- TOP 2: Wahl einer Schriftführerin
+- TOP 3: Allgemeine Beschlussvorlagen
+- TOP 3: Allgemeine Beschlussvorlagen
+- TOP 3: Allgemeine Beschlussvorlagen
+- TOP 3: Allgemeine Beschlussvorlagen
+- TOP 3.1: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans
+- TOP 3.1: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ohne Votum in nachfolgende Gremien
+- TOP 3.1: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ohne Votum in nachfolgende Gremien
+- TOP 3.1: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ohne Votum in nachfolgende Gremien
+- TOP -: zu 3.1 Fragen zur Fortschreibung des Luftreinhalteplans
+- TOP -: zu 3.1 Fragen zur Fortschreibung des Luftreinhalteplans - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: zu 3.1 Fragen zur Fortschreibung des Luftreinhalteplans - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: zu 3.1 Fragen zur Fortschreibung des Luftreinhalteplans - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan
+- TOP 3.1.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - ohne Votum in nachfolgende Gremien
+- TOP 3.1.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - ohne Votum in nachfolgende Gremien
+- TOP 3.1.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - ohne Votum in nachfolgende Gremien
+- TOP 3.1.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 5.3 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans"
+- TOP 3.1.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 5.3 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans" - ohne Votum in nachfolgende Gremien
+- TOP 3.1.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 5.3 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans" - ohne Votum in nachfolgende Gremien
+- TOP 3.1.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 5.3 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans" - ohne Votum in nachfolgende Gremien
+- TOP 3.1.3: Änderungsantrag zu TOP 5.3 Luftreinhaltung
+- TOP 3.1.3: Änderungsantrag zu TOP 5.3 Luftreinhaltung - endgültig zurückgezogen
+- TOP 3.1.3: Änderungsantrag zu TOP 5.3 Luftreinhaltung - endgültig zurückgezogen
+- TOP 3.1.3: Änderungsantrag zu TOP 5.3 Luftreinhaltung - endgültig zurückgezogen
+- TOP 3.1.4: Änderungsantrag zu TOP 3.1 – Luftreinhaltung konsequenter umsetzen
+- TOP 3.1.4: Änderungsantrag zu TOP 3.1 – Luftreinhaltung konsequenter umsetzen - ohne Votum in nachfolgende Gremien
+- TOP 3.1.4: Änderungsantrag zu TOP 3.1 – Luftreinhaltung konsequenter umsetzen - ohne Votum in nachfolgende Gremien
+- TOP 3.1.4: Änderungsantrag zu TOP 3.1 – Luftreinhaltung konsequenter umsetzen - ohne Votum in nachfolgende Gremien
