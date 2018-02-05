@@ -1,0 +1,64 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-05T14:30:00+01:00
+- Ende: 2018-02-05T15:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18476
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18476
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Gebührenbescheide für Kindertagesstätten - Kenntnis genommen
+- TOP 1.2: Dokumentation der Werthaltigkeitsprüfungen von Finanzanlagen im Rahmen des Jahresabschlusses - Kenntnis genommen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Nord-Süd-Stadtbahn 1. Baustufe Berichtswesen 3. und 4. Quartal 2016 - Kenntnis genommen
+- TOP 2.3: Nord-Süd-Stadtbahn 2. Baustufe - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.5: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.6: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 2.7: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 2.8: Haushaltsplanaufstellungsverfahren 2019 - Rahmenterminplanung - Kenntnis genommen
+- TOP 2.9: 19. Bericht zur Flüchtlingssituation - Kenntnis genommen
+- TOP 2.10: Erweiterung des Toilettensanierungsprogramms für Schulen - Beschluss des Betriebsausschusses Gebäudewirtschaft vom 29.01.2018 - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Verkauf der städtischen Krankenhäuser an das Universitätsklinikum Köln - Sache ist erledigt
+- TOP 3.1.1: Verkauf der städtischen Krankenhäuser an das Universitätsklinikum Köln - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Nutzungsunabhängige Haldenstabilisierung des Kalkbergs - Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung 2016 / 2017 der Stadt Köln - zurückgestellt
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - zurückgestellt
+- TOP 12.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg Planungsbeschluss - geändert beschlossen
+- TOP 12.2.1: Änderungsantrag zu TOP 12.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Brohler Str. o.Nr., 50968 Köln-Marienburg, Planungsbeschluss - geändert beschlossen
+- TOP 12.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ohne Votum in nachfolgende Gremien
+- TOP 12.3.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - ohne Votum in nachfolgende Gremien
+- TOP 12.4: Ergänzung von Gesellschaftsverträgen städtischer Beteiligungsunternehmen - endgültig zurückgezogen
+- TOP 12.5: Zusätzliche Mittel für Inklusion und Integration im Rahmen der offenen Ganztagsschule im Primarbereich - ungeändert beschlossen
+- TOP 12.6: Familie-Ernst-Wendt-Stiftung - Wirtschaftsplan 2018 - ungeändert beschlossen
+- TOP 12.7: Zuschüsse zur Förderung von Kleinfestivals - ungeändert beschlossen
+- TOP 12.8: Sportanlage Wuppertaler Straße, Köln-Buchheim hier: Bau eines Umkleide- und Sanitärgebäudes mit Vereinsraum und Lagerräumen - ungeändert beschlossen
+- TOP 12.9: Zentrale Wahrnehmung der Aufgabe "Verpflichtung zu Integrationskursen" - ungeändert beschlossen
+- TOP 12.10: Erweiterung der Feuer- und Rettungswache 9 in Köln Mülheim. Hier: Weiterplanungsbeschluss - zurückgestellt
+- TOP 12.11: Institutionelle Förderung des Festivals "Sommerblut" für die Jahre 2018 bis 2020 - ungeändert beschlossen
+- TOP 12.12: Institutionelle Förderung der Temporary Gallery für die Haushaltsjahre 2019 bis 2021 - zurückgestellt
+- TOP 12.13: Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" Verteilung der Institutionelle Förderung - zurückgestellt
+- TOP 12.14: Zuschuss an Rubicon e.V. zur Föderung einer Fach- und Beratungsstelle für geschlechtliche Selbstbestimmung "Trans*Queer* Cologne" - ungeändert beschlossen
+- TOP 12.15: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2018 - ohne Votum in nachfolgende Gremien
+- TOP 12.16: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die GGS Kopernikusstr. 40-42, 51065 Köln - ungeändert beschlossen
+- TOP 12.17: Beschaffung und Aufstellung von Containereinheiten zur kurzfristigen Schaffung dringend notwendiger, zusätzlicher Schülerplätze - ungeändert beschlossen
+- TOP 12.18: Zuschuss an Rubicon e.V. zur Förderung der Integration von Flüchtlingen und Menschen mit Zuwanderungsgeschichte und LSBTI-Hintergrund in Köln; hier: Endgültige Mittelfreigabe - ungeändert beschlossen
+- TOP 12.19: Erwerb eines Gesellschaftsanteils der Partnerschaft Deutschland - zurückgestellt
+- TOP 12.20: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 im Stadtbezirk Rodenkirchen 2016/2017 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 13: Mündliche Anfragen
