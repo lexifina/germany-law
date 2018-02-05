@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-02-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4596803
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4596803
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Bau und Wohnen
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Rolf-Pinegger-Straße 24 - 30, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 25965
+- TOP 7.1.2.: Guardinistraße 94 - 98, 5 Zucker-Ahorn
+- TOP 7.1.3.: Haderunstraße 72, 1 Fichte, 1 Ahorn und 1 Linde
+- TOP 7.1.4.: Heiglhofstraße 71 - 107, 2 Weiden
+- TOP 7.1.5.: Pfingstrosenstraße 77 - 85, 1 Kiefer
+- TOP 7.1.6.: Schröfelhofstraße 13, 1 Tanne
+- TOP 7.1.7.: Senftenauerstraße 155 c, 1 Robinie
+- TOP 7.1.8.: Gräfelfinger Straße 129, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24727
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Umwidmung der Prälat-Wellenhofer-Straße in eine Anliegerstraße
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: Budget der Bezirksausschüsse, FTM - Blumenau v. 1966 e.V., Anschaffung eines Minitrampolins, 1.922,60 € (Direktorium, 10.01.18)
+- TOP 5.2.: Budget der Bezirksausschüsse, Alten- und Service-Zentrum Kleinhadern-Blumenau, Feiern und Tanzveranstaltungen mit Live-Musik ab dem 08.02.2018, 702,50 € (Direktorium, 29.12.17)
+- TOP 5.3.: Köderimpfung von Füchsen (Kreisverwaltungsreferat, 12.01.18)
+- TOP 5.4.: Zone 30 in der Straße am Stiftsbogen; zusätzliche Markierung / Beschilderung (Kreisverwaltungsreferat, 25.01.18)
+- TOP 6.1.: Rolf-Pinegger-Straße 24 - 30, Neubau eines Mehrfamilienhauses mit Garage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 02.01.18)
+- TOP 6.2.: Ausschreibung Kinder-Aktions-Koffer 2018/2019 (Sozialreferat, 08.01.18)
+- TOP 6.3.: Großhaderner Straße 6 - Erinnerungsverfahren (Baureferat, 11.01.18)
+- TOP 6.4.: Beschlussvorlage für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Stadtplanung und Bauordnung, Bau- und Kreisverwaltungsausschuss am 07.03.2018: Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz, Trassierungsbeschluss (Referat für Arbeit und Wirtschaft, 23.01.18)
+- TOP 7.2.1.: Pirmaterstraße 1 a - 1 b, 1 Vogelkirsche (Referat für Stadtplanung und Bauordnung, 18.01.18)
+- TOP 8.1.: SWM Projekt Glasfaser-Erschließung für München; Ausbau 2018 (SWM, 02.01.18)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Neufriedenheimer Straße (Sozialreferat, 29.12.17) - Saalburgstraße (Sozialreferat, 18.01.18)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Buszug-Einsatz auf der MVG-Linie 56 (Schloss Blutenburg - Fürstenried West); Verlängerung von Haltverbotszonen an Haltestellen (Kreisverwaltungsreferat, 03.01.18)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Buszug-Einsatz auf der MVG-Linie 168 (Nymphenburg Süd - Wastl-Witt-Straße); Verlängerung von Haltverbotszonen an Haltestellen (Kreisverwaltungsreferat, 08.01.18)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: Ladezone in der Senftenauerstraße 95 (Z 286 StVO) (Kreisverwaltungsreferat, 12.01.18)
+- TOP 8.6.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Januar 2018 (Sozialreferat, 16.01.18)
+- TOP 9.1.: "obike" im Stadtbezirk 20 Hadern (Referat für Stadtplanung und Bauordnung, 05.01.18)
+- TOP 9.2.: Zebrastreifen am Stiftsbogen (Baureferat, 15.01.2018)
+- TOP 9.3.: Freizeitanlage Am Stiftsbogen - Baumaterialien (Baureferat, 22.01.18)
+- TOP 9.4.: Vollzug der Straßenverkehrsordnung (StVO); Zufahrt zu Lidl von der Ossingerstraße (Kreisverwaltungsreferat, 16.01.18)
+- TOP 9.5.: Geschwindigkeitsbeschränkung auf der BAB A96 bis zur Stadtgrenze verlängern (Kreisverwaltungsreferat, 03.01.18)
+- TOP 9.6.: Zwischennachricht: Zebrastreifen über Waldwiesenstraße Höhe Bushaltestelle "Am Ährenfeld", Empf. Nr. 14-20 / E 01735 (Kreisverwaltungsreferat, 16.01.18)
+- TOP 10.1.: Räume für Kinderkrippe (Studentenwerk München, 21.12.17)
+- TOP 10.2.: Baucontainer statt grüner Wiese und Spielplatz, Rudi-Seibold-Straße (GWG München, 02.01.18)
+- TOP 11.1.: Einladung zum 34. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Donnerstag, 08.02.2018 von 17.30 - 19.30 Uhr und Protokoll des 33. Treffens vom 09.11.2017 (Gleichstellungsstelle für Frauen, 10.01.18)
+- TOP 11.2.: Informationsschreiben Nr. 01/2018; Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten; LTE-Router für Sitzungslokale (Direktorium, 15.01.18)
+- TOP 11.3.: Verbot der Zweckentfremdung von Wohnraum, Informationskampagne "Raum für München" des Sozialreferates (Sozialreferat, 29.01.18)
+- TOP 1.1.1.: Beschluss vom 13.12.2017: Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün"
+- TOP 1.1.2.: Beschluss vom 23.11.2017: Geförderter Wohnungsbau in München 1. Bekanntgabe für die Jahre 2014 - 2016 a) Förderungen bis zum 31.12.2001 - Klassischer 1. Förderungsweg b) Förderungen ab dem 01.01.2002 - "Wohnen in München" 2. Einrichtung einer neuen Stelle bei PLAN HA III/12
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Alt sein in München – Teil 1
+- TOP 2.1.2.: Beschluss des Bauausschusses vom 28.11.2017: Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften a) Mehr Freiraum für architektonische Qualität Bewertung und Umsetzung der Vorschläge des Bundes der Architekten B) Nicht geförderten Wohnraum städtisch unterstützen
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Wohnungen teilbar bauen
+- TOP 2.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Von Zürich lernen: urbanes Wohnen über Tramdepot
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 3.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 3.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Parkraummanagement in München - Fortschreibung Sektor V
+- TOP 3.1.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.12.2017: Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 3.1.5.: Beschluss des Bauausschusses vom 28.11.2017: Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 mit verbindlicher Planung für 2022; Entwurf für das Baureferat
+- TOP 3.2: Referentenanträge
