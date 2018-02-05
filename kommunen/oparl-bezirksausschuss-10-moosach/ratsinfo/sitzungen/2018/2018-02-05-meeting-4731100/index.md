@@ -1,0 +1,67 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-02-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731100
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731100
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Veranstaltung der GWG: "Bemusterung Neubau VHS"
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 3.4.2.: Trefff AG Flüchtlinge und Wohnungslose
+- TOP 3.4.3.: Veranstaltung "Internationale Wochen gegen Rassismus" in Moosach am 14.03.2018
+- TOP 3.4.4.: AG Alte Menschen
+- TOP 2.1.: Unterlassene Alleepflanzungen des Baureferates
+- TOP 3.1.1.: Ausschreibung: Kinder-Aktions-Koffer 2018/2019 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung (war TOP 6.4 in Sitzung 15.01.2018, vertagt in UA und WV)
+- TOP 3.1.2.: Projekt: Vom Weltspieltag zum Weltkindertag 2018: Ausschreibung für die Münchner Stadtbezirke
+- TOP 3.2.1.: Treffen mit Baureferat - Tiefbau (war TOP 4.1.2 in Sitzung 15.01.2018, vertagt in UA und WV)
+- TOP 3.2.2.: Verkehrssituation Feldmochinger Straße 1. Bürgeranliegen: Verkehrssituation für Radfahrer an der Feldmochinger Straße; (war TOP 2.3 in Sitzung 15.01.2018, vertagt in UA und WV) 2. SPD-Antrag: Verkehrssituation; Einführung von Tempo 30; (war TOP 4.1.3 in Sitzung 15.01.2018, vertagt in UA und WV) 3. KVR: verkehrsrechtliche Anordnung der Unfallkommission vom 18.01.2018
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Batzenhoferstr. 8 / Feldmochinger Str. 7 2. Margarete-Steiff-Straße
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Batzenhoferstr. 8 / Feldmochinger Str. 7 (-> BV siehe TOP 3.3.1.1) 2. Meggendorferstr. 63 3. Benzstr. 4 4. Triebstr. 50 - 54 5. Gögglstr. 24 Haus 1 6. Gögglstr. 24 Haus 2
+- TOP 4.: Anträge
+- TOP 4.1.1.: Gestaltung des Bauvorhabens Ecke Dachauer Straße / Hugo-Troendle-Straße
+- TOP 4.1.2.: Parken auf dem Grünstreifen Dachauer Str. 246
+- TOP 4.2.1.: Haltemöglichkeiten für PKW am Memminger Platz
+- TOP 4.3.1.: Personelle Situation und Betreuung der Bürger in den Sozialbürgerhäusern, insbesondere in Moosach
+- TOP 4.5.1.: Bauplanung Realschule Franz-Mader-Str: Berücksichtigung einer Nutzung des Pausenhofes durch die Öffentlichkeit
+- TOP 4.5.2.: Stellungnahme BA: "Gaststätte Spiegl"
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Elternbeirat des Gymnasiums München Moosach Sexualpädagogisches MFM-Projekt ab dem 08.03.2018 780,00€ Az. 0262.0-10-0148
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Münchner Sportjugend im Bayerischen Landes-Sportverband e.V. XIV. Städteolympiade vom 04. - 06.05.2018 6.528,00€ Az. 0262.0-10-0143
+- TOP 5.3.: (E) Konsequente Kontrollen von Falschparkern und Falsch-Radfahrer im Kreuzungsbereich Pelkovenstraße / Feldmochinger Straße
+- TOP 5.4.: (E) Parkverbot für Lkw > 3,5 t im Bereich nördlich der Donauwörther Straße
+- TOP 6.1.: Grundschulorganisation in der Landeshauptstadt München; mögliche Änderung der Sprengel für Grundschulen hier: Haldenbergerstr. 27
+- TOP 6.2.: Baumfällungen (Baumschutz): 1. Franz-Marc-Str. 2 2. Franz-Marc-Str. 3 3. Treitschkestr. 2 - 6 4. Eggmühler Str. 5. Feichtmyrstr. 15 6. Plauener Str. 19
+- TOP 7.1.: Markierung / Beschilderung des Geh- und Radweges an der "Meile Moosach" am südwestlichen Ende zur Georg-Mooseder-Straße [ausreichende Sichtbeziehungen; ergänzende Beschilderung des Kreisverkehrs erfolgt].
+- TOP 7.2.: Haus für Kinder am Hartmannshofer Bächl 48; Straßenbeschilderung zum Schutz der Kinder [Zeichen 136 und 325.1 StVO "Kinder" bzw. "Spielstraße" können wegen fehlender rechtlichen Vorgaben nicht angebracht werden].
+- TOP 7.3.: Stärkung des Baumschutzes in München
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Projekt Glasfaser-Erschließung für München; Ausbau 2018
+- TOP 8.4.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 mit verbindlicher Planung für 2022; Entwurf für das Baureferat
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 8.10.: Mobilfunkstandorte 1. Erweiterung einer Mobilfunkanlage an vorhandenem Standort 2. Neuer Mobilfunkstandort; Aufbau eines Mobilfunksenders - nicht-öffentlich -
