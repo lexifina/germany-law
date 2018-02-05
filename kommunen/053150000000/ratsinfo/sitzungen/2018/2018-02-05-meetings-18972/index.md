@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-05T16:00:00+01:00
+- Ende: 2018-02-05T18:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18972
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18972
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647911.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647911.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00647911.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragestunde Kinderpielfläche Auerbachplatz
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung - Sanierung des Karl-Schwering-Platzes - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrsberuhigung in der Frechener Straße in Köln-Lindenthal - Kenntnis genommen
+- TOP 7.1.2: Brauweilerstr. 1 in 50859 Köln (Buskap), Anfrage der CDU vom 01.09.2017, BV 3, AN/1206/2017 - Kenntnis genommen
+- TOP 7.1.3: Verkehrsberuhigung der Moltkestraße in Köln-Weiden - Kenntnis genommen
+- TOP 7.1.4: Abstellmöglichkeiten für Fahrräder auf der Münstereifeler Straße vor Hausnummer 24 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstand Grundstück Lövenich - Kenntnis genommen
+- TOP 7.2.2: Leerstand Liegenschaften Mayener Straße und Vitalisstraße - Kenntnis genommen
+- TOP 7.2.3: Status Rhöndorfer Straße - Kenntnis genommen
+- TOP 7.2.4: Statikgutachten Bauvorhaben der GWG Köln Sülz - Kenntnis genommen
+- TOP 7.2.5: Umsetzung Radverkehrskonzept - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Linie 13 Haltestelle Gleueler Straße/Gürtel - ungeändert beschlossen
+- TOP 8.1.2: Erweiterung Anwohnerschutzkonzept Stadion - ungeändert beschlossen
+- TOP 8.1.3: Tempo 30 Neuenhöfer Allee - ungeändert beschlossen
+- TOP 8.1.4: Taktverdichtung S12/S13/S19 - ungeändert beschlossen
+- TOP 8.1.5: Ampelschaltung Widdersdorfer Straße - ungeändert beschlossen
+- TOP 8.1.6: Parkraumbewirtschaftung - ungeändert beschlossen
+- TOP 8.1.7: Neuregelung des Zeitpunktes für den Beginn von Ausgleich und Ersatzmaßnahmen - ungeändert beschlossen
+- TOP 8.1.8: Sachstandsbericht über Ausgleichs- und Ersatzmaßnahmen nach § 14 und 15 Bundesnaturschutzgesetz im Bezirk 3 - ungeändert beschlossen
+- TOP 8.1.9: Reparatur Bürgersteig Flotowstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Grünzug West in Köln- Marsdorf - ungeändert beschlossen
+- TOP 9.1.2: Errichtung einer City-Light-Säule vor dem Grundstück Aachener Straße 285-289 - ungeändert beschlossen
+- TOP 9.1.3: Errichtung einer City-Light-Säule im Einmündungsbereich Maarweg/Stolberger Straße - ungeändert beschlossen
+- TOP 9.1.4: Errichtung einer City-Light-Säule vor dem Grundstück Aachener Straße vor Rosenweg 1 - ungeändert beschlossen
+- TOP 9.1.5: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Aachener Straße 186 nach Innere Kanalstraße - ungeändert beschlossen
+- TOP 9.1.6: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Richtlinie für die Benennung von Straßen - geändert beschlossen
+- TOP 9.2.2: 263. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Parkstadt Süd; Sachstandsbericht III. Quartal 2017 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Beschilderung Tierpark Lindenthal - Kenntnis genommen
+- TOP 11.2.2: Fahrradparken an der Liebfrauenschule Ecke Brucknerstr./Danteweg in Köln-Lindenthal - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Nachfrage zu Vorlage Nr. 2590/2017; Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 11.3.2: Bürgerhaushalt 2016 - weiteres Vorgehen bei der Umsetzung der Vorschläge - Kenntnis genommen
+- TOP 11.3.3: Flughafen Köln/Bonn - Generalsanierung der großen Start-/Landebahn (14L/32R) - Kenntnis genommen
+- TOP 11.3.4: Zielbild 2020 - Kenntnis genommen
+- TOP 11.3.5: Karneval 2018 - Ergebnisse des "Runden Tisches Straßenkarneval" und Umsetzung erster Maßnahmen - Kenntnis genommen
+- TOP 11.3.6: Umsetzung der Mindeststandards zu „Standortübergreifende Unterstützung der Ehrenamtlichen Flüchtlingsarbeit“ - Kenntnis genommen
+- TOP 11.3.7: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 11.3.8: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
