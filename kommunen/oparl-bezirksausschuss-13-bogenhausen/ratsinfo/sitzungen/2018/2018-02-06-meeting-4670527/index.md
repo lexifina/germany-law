@@ -1,0 +1,144 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4670527
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4670527
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Wehrlestraße 16: Neubau eines Mehrfamilienhauses mit Tiefgarage - Tektur; Vorstellung des Projekts durch die Bauherren
+- TOP 2.2.2.: Cosimastr.: Neubau Boardinghouse oder Hotel mit Wohnungen für Zwecke der Altenpflege, Wohnungen, großflächigem Einzelhandel und Tiefgarage - Vorbescheid; Vorstellung des Projekts durch die Bauherren
+- TOP 2.2.8.: Robert-Heger-Str. 11: Erweiterung der Freiflächen ("Haus für Kinder")
+- TOP 2.2.9.: Osserstr. 42A: Errichtung zweier Terassenwohnungen auf dem Flachdach eines Terassenhauses - Vorbescheid
+- TOP 2.2.10.: Eylauer Str. 11: Neubau eines Mehrfamilienhauses mit Stellplätzen - Vorbescheid
+- TOP 2.2.11.: Neckarstr. 5: Neubau eines Einfamilienhauses mit Einzelgarage; Erstantragsverfahren
+- TOP 2.2.14.: Weitere Themen aus der Tagesordnung, z.B. Bauvorhaben aus den Bekanntgaben
+- TOP 2.3.13.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.2.: Organisation des Treffens der Sportvereine (vertagt am 12.12.2017 und 16.01.2018)
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.1.: Baumfällungen (Anhörungen): TOP 2.6.1.1 - 2.6.1.22
+- TOP 2.6.2.: Oberföhringer Str. 50: lt. Plan
+- TOP 2.6.3.: Flensburger Str.: lt. Plan
+- TOP 2.6.4.: Sensburger Str. 5: lt. Plan
+- TOP 2.6.5.: Neckarstr. 5: lt. Plan
+- TOP 2.6.6.: Arabellastr. 12: lt. Plan
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: Fragen an die Vertreter der PI 22
+- TOP 1.3.1.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten; LTE-Router für Sitzungslokale; Anhörung des Direktoriums vom 15.01.2018
+- TOP 2.2.3.: Bauleitplanung der Gemeinde Ascheim Aufstellung des Bebauungsplans Nr. 155 für das Gebiet „Wohnbauflächen südlich der Alpenstraße und und östlich des bestehenden Parkplatzes, Teilflächen aus Fl.Nr. 224/39“ Verfahren nach § 4 Abs. 1 BauGB; Anhörung des Referats für Stadtplanung und Bauordnung vom 18.01.2018
+- TOP 2.2.4.: Münchner Nordosten – Informationen zum Sachstand: Ausblick Wettbewerb; Schreiben des Referats für Stadtplanung und Bauordnung vom 15.01.2018
+- TOP 2.2.5.: Vogelschutz in Bogenhausen: Konkrete Maßnahmen; Antrag der Fraktion DaCG/ödp vom 24.11.2017; Schutz der Singvogelpopulation in Bogenhausen stärken; Antrag der CSU-Fraktion vom 14.11.2017 (vertagt am 14.11.2017, 12.12.2017 und 16.01.2018)
+- TOP 2.2.6.: (E) Deutliche Erhöhung des Messrhythmus der Grundwasserstände im Planungsgebiet Empfehlung Nr. 14-20 / E 01790 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 26.10.2017
+- TOP 2.2.7.: Stellungnahme zur Machbarkeitsstudie: Mädchen- und Jungentreff „Muspilli“ - Möglicher Grundstückstausch zu Gunsten der Freiwilligen Feuerwehr München, Abteilung Oberföhring, 13. Stadtbezirk Bogenhausen, Generalsanierung Muspillistr. 27; Schreiben des Kreisjungendrings vom 11.01.2018
+- TOP 2.2.12.: Glücksburger Str. 115: Neubau von Einfamilien- und Doppelhäuser – Vorbescheid
+- TOP 2.2.13.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.15.: Verschiedenes, Termine
+- TOP 2.3.1.: (E) Mobilitätskonzept Prinz-Eugen-Park: Bordsteine verzichtbar? Empfehlung Nr. 14-20 / E 01843 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 26.10.2017
+- TOP 2.3.2.: Kreuzungssanierung: Riemer Straße / Rennbahnstraße; Anhörung des Baureferats vom 03.01.2018
+- TOP 2.3.3.: Prinzregentenstraße + Luitpoldbrücke (zwischen Widenmayerstraße und Europaplatz): Fahrbahnsanierung; Anhörung des Baureferats vom 08.01.2018
+- TOP 2.3.4.: S-Bahnhof Johanneskirchen: Abstellung von Bussen für Linie 232 und Errichten von Ladesäulen; Anhörung der Deutschen Bahn AG vom 19.01.2018
+- TOP 2.3.5.: Schulwegsicherung: Schaffung eines gegenläufigen Radwegs auf einem Teilstück der Johanneskirchner Straße; Antrag der SPD-Fraktion vom 15.11.2017 (vertagt am 12.12.2017 und 16.01.2018)
+- TOP 2.3.6.: Robert-Heger-Straße: Errichtung von zwei Kurzzeit-Parkplätzen nahe der Kita (Robert-Heger-Str. 11); Schreiben des Kreisverwaltungsreferats vom 08.01.2018
+- TOP 2.3.7.: Schulbushaltestelle in der Regina-Ullmann-Straße: Verlängerung des Geltungszeitraums; Schreiben des Kreisverwaltungsreferats vom 09.01.2018
+- TOP 2.3.8.: Tuderinger Straße, Zamilastraße, Kreuzung Truderinger / Riedenburger Straße, Kreuzungsbereich Truderinger / Zamila- / Hultschiner Straße: Radstreifen, Schutzstreifen; Schreiben des Kreisverwaltungsreferats vom 08.01.2018
+- TOP 2.3.9.: Linienbusverkehre der MVG; Neue Buswendeschleife an der Straßenbahnendhaltestelle südlich der Zamilastraße; Schreiben des Kreisverwaltungsreferats vom 09.01.2018
+- TOP 2.3.10.: Verbesserung der Schulwegsicherheit an der Fritz-Lutz-Straße; Bürgeranliegen vom 12.01.2018
+- TOP 2.3.11.: Unfallschwerpunkt Cosimastraße/Brücke Effnerstraße; Bürgeranliegen vom 08.01.2018
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Wohnen im Alter im Cosimapark e.V. Anschaffung einer E-Rikscha 4.687,00€ Az. 0262.0-13-0165
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Förderverein Grundschule an der Stuntzstraße e.V. Zirkusprojekt für Schülerinnen und Schüler im Juli 2018 1.948,40 € Az: 0262.0-13-0163
+- TOP 2.4.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.4.: Verschiedenes, Termine
+- TOP 2.5.1.: Kindertagesstätte Prinz-Eugen-Park sowie Partnerklasse Ruth-Drexel-Schule – Vorstellung durch die Geschäftsführerin der Pfenningparade
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6.7.: Fontanestr. 8: 1 Ahorn
+- TOP 2.6.8.: Buschingstr. 65: mehrere Bäume
+- TOP 2.6.9.: Englschalkinger Str. 256: 1 Akazie, 1 Tanne, 1 Kiefer
+- TOP 2.6.10.: Flemingstr. 140: 2 Ahorn
+- TOP 2.6.11.: Grimmeisenstr. 39: 3 Kirschbäume
+- TOP 2.6.12.: Oberföhringer Str. 133: 1 Esche
+- TOP 2.6.13.: Preziosastr. 30-32: 1 Fichte, 1 Birke
+- TOP 2.6.14.: Truderinger Str. 10: 3 Laubbäume
+- TOP 2.6.15.: Westpreußenstr. 14: 3 Birken
+- TOP 2.6.16.: Freischützstr. 53: 1 Kirsche
+- TOP 2.6.17.: Prinzregentenstr. 99: 1 Robinie
+- TOP 2.6.18.: Vollmannstr. 23d: 2 Laubbäume
+- TOP 2.6.19.: Gleißenbachstr.: 3 Eschen
+- TOP 2.6.20.: Hoyerweg 6: 3 Birken
+- TOP 2.6.21.: Zwieseler Str. 12: 1 Fichte
+- TOP 2.6.22.: Arberstr. 20: 2 Fichten, 1 Thuja
+- TOP 2.6.23.: Mauerkircherstr. 115: 1 Birke
+- TOP 2.6.24.: Baumfällungen (Unterrichtungen): Kardinal-Wendel-Str. 3 (lt. Bescheid), Rosenkavalierplatz 2 (2 Platane), Johanneskirchner Str. 21 (lt. Bescheid),
+- TOP 2.6.25.: WEG Grimmeisenstr. 15-25 - Rückschnitt der Anpflanzung auf öffentlichem Grund; Bürgeranliegen vom 03.01.2018
+- TOP 2.6.26.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.27.: Verschiedenes, Termine
+- TOP 6.1.: Bikesharing Flut in Bogenhausen
+- TOP 6.2.: Sanierung Gehweg Händelstraße in Alt Bogenhausen (zwischen Ismaninger- und Weberstraße)
+- TOP 6.3.: Haus für Kinder Else-Lasker-Schüler-Straße: Schließung verhindern
+- TOP 6.4.: Ergänzung des Spielplatzes Rößeler Straße / Zur Deutschen Einheit mit einer Kleinkinderrutsche
+- TOP 6.5.: Parken von Lkw im Hochstiftsweg (fehlende Straßenwidmung)
+- TOP 6.6.: Umstellung der Rolltreppen am Max-Weber-Platz
+- TOP 6.7.: Instandsetzung des Spielplatzes in der GU Max-Pröbstl-Straße 12
+- TOP 6.8.: Abfassung der scharfen Bordsteinkanten ab der Bushaltestelle Grimmstraße
+- TOP 6.9.: Schadstoffmessung an der Phorms-Schule
+- TOP 6.10.: Baumschutz am Klinikum Bogenhausen: Verpflanzen statt fällen
+- TOP 6.11.: Filialen auf Rädern für die Münchner Stadtsparkasse
+- TOP 6.12.: Lärmschutzmauer an der Schnellstraße Effnerstraße - Föhringer Ring
+- TOP 7.2.1.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 7.2.2.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 7.3.1.: Errichtung von diversen Messstellen für Stickstoffdioxid und Feinstaub im 24. Stadtbezirk; Antwortschreiben des Referats für Gesundheit und Umwelt an den BA 24 (zur Kenntnis an alle BA&#039;s)
+- TOP 7.5.1.: (U) „Dialog-Displays“ in München Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch
+- TOP 7.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.4.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 7.7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.6.: (U) Bebauungsplan mit Grünordnung Nr. 2122 Eggenfeldener Straße (südlich), Hultschiner Straße (östlich), Töginger Straße (BAB 94) (nördlich) A) Bericht über das Ergebnis des städtebaulichen und landschaftsplanerischen Wettbewerbs B) Weiteres Vorgehen
+- TOP 7.7.7.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch, Savitsstr. 7 vorher: 229 m² bzw. 3 WE, geplant: 571 m² bzw. 4 WE
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch, Wehrlestr. 16 vorher: 220 m² bzw. 1 WE, geplant: 622 m² bzw. 3 WE
