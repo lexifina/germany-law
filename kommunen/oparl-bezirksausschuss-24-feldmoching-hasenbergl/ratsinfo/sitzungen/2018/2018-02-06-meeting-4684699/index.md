@@ -1,0 +1,78 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4684699
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4684699
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Information des Referates für Bildung und Sport (RBS-ZIM) zur aktuellen Situation der schulischen Bauprojekte im 24. Stadtbezirk
+- TOP 2.1.: (E) Budget der Bezirksausschüsse AWO KiTZ Kinderfasching am 10.02.2018 210,00€ Az. 0262.0-24-0218
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Ev. Luth. Pfarramt Evangeliumskirche Faschingskonzert 11.02.2018 350,00€ Az. 0262.0-24-0217
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung St. Nikolaus Konzert am 11.03.2018 530,00€ Az. 0262.0-24-0219
+- TOP 3.: Anträge
+- TOP 3.1.: Anträge aus der 16. Kinder- und Jugendsprechstunde vom 26.01.2018
+- TOP 3.2.: Barrierefreiheit für behinderte Menschen im 24. Stadtbezirk (Antragspaket)
+- TOP 3.3.: Starke Verschmutzung im Bereich der Abfallcontainer an der Ecke Trollblumen-/Borsigstraße
+- TOP 3.4.: Parkplatzproblem der Kita in der Josef-Frankl-Straße 17 b
+- TOP 3.5.: N Ampelschaltung in der Lerchenauer Straße
+- TOP 3.6.: N Mittel für den behindertengerechten Umbau der Sporthalle in der Georg-Zech-Allee 15
+- TOP 5.1.1.: Heppstr. 4
+- TOP 5.1.2.: N Lassallestr. 100
+- TOP 5.2.1.: Blausternweg, Fl.Nr. 442/100, Gemarkung Feldmoching
+- TOP 5.2.2.: Feldmochinger Str., Fl.Nr. 528/3, Gemarkung Feldmoching
+- TOP 5.2.3.: Achatstr. 2 - 10
+- TOP 5.2.4.: N Lassallestr. 100
+- TOP 5.2.5.: N Waldmeisterstr. 38
+- TOP 5.3.1.: Flohmarkt am 07.07.2018, Grünanlage Am Schnepfenweg
+- TOP 5.3.2.: N Frühlingsfest vom 06.04.-15.04.2018, Dülfer Anger
+- TOP 5.4.1.: Einrichtung eines (barrierefreien) Bürgertreffs in der Fasanerie (BVE Nr. 14/20 / E 01389), Beschluss des BA 24 vom 10.10.2017 (Sitzungsvorlage Nr. 14-20 / V 09459)
+- TOP 5.4.2.: Bebauungsplan mit Grünordnung Nr. 2106, Hochmuttinger Straße (östlich), Herbergstraße (nördlich), Paul-Preuß-Straße (westlich) - Beteiligung gem. § 4 Abs. 2 BauGB
+- TOP 5.4.3.: Mieterbeiratswahl 2018 - Entsendung von stimmberechtigten Mitgliedern
+- TOP 5.4.4.: Ausschreibung: Kinder-Aktions-Koffer 2018/2019 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung
+- TOP 5.4.5.: N Verkehrsrechtliche Anordnung nach § 45 StVO: Absolute Haltverbote Schaarschmidtstraße
+- TOP 5.4.6.: N Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen, hier: Lerchenauer Straße 197 und Paulckestraße 10
+- TOP 5.4.7.: N Planfeststellungsverfahren - A 92 München-Landshut_6-streifiger Ausbau AD München-Feldmoching bis AK Neufahrn_1. Tektur vom 22.12.2017
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Schlechte Luft im Stadtbezirk 24 Feldmoching-Hasenbergl; hier: Stickoxydbelastung
+- TOP 6.2.: Nachmittagsbetreuung für Kinder an der Verbandsgrundschule Karlsfeld aus der Siedlung Ludwigsfeld
+- TOP 6.3.: Bebauungsplan "Karlsfelder Straße" - Sachstand
+- TOP 6.4.: Ampelanlage von der Ratoldstraße zur Dülferstraße
+- TOP 6.5.: Aufstiegshilfe für die Fahrgäste an der S-Bahn-Station Feldmoching
+- TOP 6.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Einrichtung einer Schulbushaltestelle in der Eduard-Spranger-Straße für die Otto-Steiner-Schule (Förderschule geistige Entwicklung des HPCA) b) Linienbusverkehre der MVG; Neue Regelungen im Zusammenhang mit der Eröffnung eines Supermarkts im Bereich des Busbahnhofs am Bahnhof Feldmoching c) Linienbusverkehre der MVG; Änderungen zum Fahrplanwechsel am 10.12.2017 (Leistungsprogramm 2018) d) Pappelallee/Am Schnepfenweg: Einrichtung eins absoluten Haltverbotes e) Errichtung eines Haltverbots in der Rothwiesenstraße zur Gewährleistung des Schulbusverkehrs f) Einrichtung einer Bücherbushaltestelle in der Waldmeisterstraße für die Grundschule an der Waldmeisterstraße g) Einrichtung einer Schulbushaltestelle in der Waldmeisterstraße für den Schülerverkehr zu den Münchner Regionalhäusern
+- TOP 6.7.: Daten Pegel Feldmoching
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: Meldelisten Baumfällungen
+- TOP 6.10.: Baugenehmigung Ponkratzstr. 40 - 42
+- TOP 6.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 6.15.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 6.16.: (U) Bebauungsplan mit Grünordnung Nr. 2128 Gundermannstraße (nördlich), Lerchenstraße (östlich), Malvenweg (südlich), Langenpreisinger Straße (östlich), Johann-Emmer-Straße ( teilweise westlich und östlich) (teilweise Aufhebung oder Verdrängung des Bebauungsplans Nr. 36c) „Feldmochinger Anger“ - Aufstellungsbeschluss - Stadtbezirk 24 – Feldmoching-Hasenbergl
+- TOP 6.17.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 6.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.19.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 6.20.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 6.21.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 mit verbindlicher Planung für 2022; Entwurf für das Baureferat
+- TOP 6.22.: (U) Verlängerung des Geschäftsbesorgungsvertrages der Olympia-Regatta-Anlage Oberschleißheim Vorlage des vorläufigen Nutzerbedarfsprogrammes und des vorläufigen Raumprogrammes Sitzungsvorlage Nr. 14-20 / V 10342
+- TOP 8.1.: Protokoll der Sitzung am 12.12.2017 (nach Genehmigung in der Sitzung am 09.01.2018)
