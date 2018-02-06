@@ -1,0 +1,55 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-02-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4673938
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4673938
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 09.01.2018
+- TOP 2: Allgemeines
+- TOP 2.2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: Vom Weltspieltag zum Weltkindertag 2018
+- TOP 3.4.: Verwendung des Stadtbezirksbudgets
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Evangelisches Pflegezentrum Sendling, Hilfe im Alter gGmbH Besuch eines Therapiehundes ab dem 09.02.2018 900,00€ Az. 0262.0-19-0201
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Erhaltung und Entwicklung von Spontanvegetation in Baumscheiben am Beispiel Wolfratshauser Str. nördlich Siemensallee
+- TOP 4.3.: (A) Errichtung einer Nachverbrennungsanlage: Morgensternstr.
+- TOP 4.4.: (A) Verlegung Wertstoffcontainerstandort: Tölzer Str.
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Ausbau der Wolfratshauser Str. zwischen Josephinenstraße und Siemensallee
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Grundschule Boschetsrieder Str.
+- TOP 5.4.: (Antrag) Teilnahme am zweijährigen Versuch von Dialog-Displays
+- TOP 5.5.: (Antrag) Verkehrssituation Ludwigshöher Str.
+- TOP 5.6.: (E) Gehwegbeleuchtung Wolfratshauser Str.
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.3.: Resolution: Fehlende Infrastruktur im 19. Stadtbezirk
+- TOP 6.4.: (A) Denkmaleigenschaft: Geigenbergerstr.
+- TOP 6.5.: (A) Städtische Grundstücke im 19. Stadtbezirk nur noch auf Erbpacht vergeben BV-Empfehlung Nr. 14-20 / E 00449
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Erweiterung der Öffnungszeiten im Bad Forstenrieder Park
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: 27. Münchner Kanu-Triathlon (MKT) am 06.05.2018
+- TOP 8.3.: (A) Veranstaltung: Flohmarkt Grünanlage Kistlerhof-/ Höhenrainer Str. am 05.05.2018
