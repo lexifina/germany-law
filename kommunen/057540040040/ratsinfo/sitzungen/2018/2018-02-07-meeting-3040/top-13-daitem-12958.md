@@ -1,0 +1,6 @@
+# TOP 13.: Anfragen und Mitteilungen
+
+- Sitzung: Ausschuss für Schulen, Jugend, Sport und Kultur (29. Sitzung) (2018-02-07)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/12958
