@@ -1,0 +1,54 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-02-15T18:07:00+01:00
+- Ende: 2018-02-15T19:13:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2026
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2026
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Freies Parken in der Innenstadt an Samstagen (Antrag Nr. 33/18) - einstimmig
+- TOP 2.1.2: Neue Kita in Wevelinghoven (Antrag Nr. 30/18) - einstimmig
+- TOP 2.1.3: Schulentwicklung in Grevenbroich (Antrag Nr. 31/18) - einstimmig
+- TOP 2.1.4: Ausschussumbesetzungen (Antrag Nr. 32/18) - einstimmig
+- TOP 2.2: SPD
+- TOP 2.3: UWG/ABG
+- TOP 2.3.1: Austausch Stopp-Schilder, Antrag Nr. 15/2018 - einstimmig
+- TOP 2.3.2: Ausschussumbesetzungen (Antrag Nr. 34/18) - einstimmig
+- TOP 2.4: FDP
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.7: Die Linke- Freie Bürger
+- TOP 2.8: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG/ABG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke - Freie Bürger
+- TOP 4: Grevenbroich 2030 - lebenswert - liebenswert - finanziell saniert (Antrag Nr. 146/17) - mehrheitlich bei
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: 1. Änderung der Satzung über die Erhebung einer Wettbürosteuer in der Stadt Grevenbroich - mehrheitlich bei
+- TOP 8: Gu 37 - Aufstellungsbeschluss - mehrheitlich bei
+- TOP 9: Erlass Veränd.sperre Gu 37 - mehrheitlich bei
+- TOP 10: Flüchtlings- und Integrationsangelegenheiten
+- TOP 11: Beantwortung Anträge und Anfragen
+- TOP 11.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 11.2: Berichterstattung zur Wahl des Integrationsrates in der türkischen Presse (Antrag Nr. 264/17) - Kenntnisnahme
+- TOP 12: mündliche Anträge/Anfragen
+- TOP 12.1: Reinigung Weg St. Josef (Anfrage Nr. 36/2018)
+- TOP 12.2: Kontrollen Hoeninger Straße (Anfrage Nr. 37/2018)
+- TOP 12.3: Anträge und Anfragen (Antrag Nr. 38/2018)
+- TOP 12.4: Orkener Straße (Anfrage Nr. 39/2018)
+- TOP 13: Mitteilungen BM
