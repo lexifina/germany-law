@@ -1,0 +1,89 @@
+# 16. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-02-15T17:00:00+01:00
+- Ende: 2018-02-15T21:30:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3981
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3981
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=233837
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5.1: Sonderausschuss "Wachsender Bezirk Lichtenberg" - zurückgezogen
+- TOP 5.2: Gründung eines Frauenbeirates des Bezirksamtes Lichtenberg - zurückgezogen
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Lichtenberger Sportvereine gegen Homophobie - beantwortet
+- TOP 8.2: Informationen zur Inbetriebnahme der Flüchtlingsunterkünfte für Anwohnende - Wer kommt? - beantwortet
+- TOP 8.3: Studentisches Wohnen in der Seehausener Straße - beantwortet
+- TOP 8.4: SmartBoards an Lichtenberger Schulen - beantwortet
+- TOP 8.5: Förderbedarf für Fahrradabstellplätze anmelden - beantwortet
+- TOP 8.6: Werbung in Lichtenberger Kitas - beantwortet
+- TOP 8.7: Kitas schnell finden in Lichtenberg - aber keine Plätze? - beantwortet
+- TOP 8.8: Aufarbeitung des Umgangs der kommunalen Verwaltung mit Sinti und Roma in Lichtenberg - beantwortet
+- TOP 8.9: Stand der Umsetzung Maßnamen Prerower Platz - beantwortet
+- TOP 8.10: Mittel für freiwilliges Engagement in Nachbarschaften (FEIN) auch in 2018 - beantwortet
+- TOP 8.11: Statusentwicklungen in der Falkenhöhe 1932 - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Sitzungstermine der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Nachwahl eines Bürgerdeputierten sowie eines stellvertretenden Bürgerdeputierten in den Integrationsausschuss der Bezirksverordnetenversammlung Lichtenberg von Berlin - VIII. Wahlperiode - - gewählt
+- TOP 9.3: Neuwahl eines Mitgliedes des Beirates für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Wahl einer Schiedsperson für den Schiedsamtsbezirk Berlin-Lichtenberg 6 - gewählt
+- TOP 9.5: Für kühlere Räume an heißen Sommertagen: Dachbegrünung auf bezirkseigenen Neubauten - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Standort "Zum Hechtgraben 1" zur Sozialraumentwicklung nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Nationalfeiertag würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Freie WLAN Hotspots - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Verbesserung des Busverkehrs zum Tierheim Berlin, Hausvaterweg 39, 13057 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Pilotprojekt Regenwassermanagement Ruschegraben - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Nachweisung der im Haushaltsjahr 2017 bis zum 30.06.2017 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Transparenz für Fördermittel - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Historie am Roedeliusplatz sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Jährliche Übersicht über den Wohnungsbau - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Turnhallen- und Sportanlagensanierung vorausschauend planen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Einrichtung TRAM 22 - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Kulturentwicklungsplan - überwiesen
+- TOP 9.18: Kulturentwicklungsplan - überwiesen
+- TOP 9.19: Ausschüsse der Bezirksverordnetenversammlung Lichtenberg von Berlin - VIII. Wahlperiode - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Die BVV über zweckentfremdeten Wohnraum informieren - überwiesen
+- TOP 9.21: Transparenter handeln! - Die Protokolle des FahrRats veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Sanierung der nordöstlichen Zuwegung zum Fennpfuhlpark - überwiesen
+- TOP 9.23: Kinder- und Jugendbeteiligung bei Auswahlverfahren "Kunst am Bau" - überwiesen
+- TOP 9.24: Eichhörnchen und andere Tiere vor dem Ertrinken retten - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Änderungen im Planverfahren am Prerower Platz - Wartenberger Straße 175 (vorhabenbezogener B-Plan 11-73 VE) - überwiesen
+- TOP 9.26: Überdachung auf dem S-Bahnhof Karlshorst komplettieren - überwiesen
+- TOP 9.27: Hundeauslauffläche für Alt-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 9.28: Kolloquium zum Besucherzentrum "Mies van der Rohe-Haus" - überwiesen
+- TOP 9.29: Audit Familiengerechte Kommune - Bilanzierungsaudit für den Bezirk Lichtenberg - überwiesen
+- TOP 9.30: a) Antrag der Belle Èpoque Bauten am Landschaftspark Herzberge I, II & III GmbH auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für die Grundstücke Rhinstraße 137/137A vom 23.12.2015 b) Aufstellung einer städtebaulichen Rahmenplanung für die Grundstücke Rhinstraße 137/137A/139 und dem Verflechtungsbereich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: a) Antrag der Dolgensee 1 B.V., Dolgensee 2 B.V., Dolgensee 3 B.V., Dolgensee 4 B.V. und Lichtenberg Berlin B.V. GbR auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens über das Grundstück Rhinstraße 139 vom 24.10.2016 b) Aufstellung einer städtebaulichen Rahmenplanung für die Grundstücke Rhinstraße 137/137A/139 und dem Verflechtungsbereich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.32: Verleihung der Ehrenurkunde des Bezirkes Berlin-Lichtenberg 2018 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Prioritäten der Fraktionen - (offen)
+- TOP 11.1: Fortschreibung zur Investitionsplanung 2017 - 2021 - überwiesen
+- TOP 11.2: Bürgerbeteiligung in der Stadtentwicklung fortlaufend evaluieren - überwiesen
+- TOP 11.3: Kranzniederlegung des Stadtrats am Holocaust-Gedenktag verhindert - in der BVV abgelehnt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Gedenken an die Opfer des Stalinismus wachhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Eignung des Standortes Rhinstraße für Wohnungsbau prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Umsetzung von touristischen Maßnahmen im Lichtenberger Teil des Regionalparks "Barnimer Feldmark" - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Bauliche Instandsetzung der Lichtenberger Gartenarbeitsschule - überwiesen
+- TOP 13.4: Bessere Nahversorgung für Karlshorst-Süd - überwiesen
+- TOP 13.5: Stellflächen sichern/Parkplätze ermöglichen - in der BVV abgelehnt
+- TOP 13.6: Holocaust-Gedenktag im Rathaus begehen - überwiesen
+- TOP 13.7: Parkplätze in der Marksburgstraße erhalten - in der BVV abgelehnt
+- TOP 13.8: Ausstellung "Tatmotiv Ehre" nach Lichtenberg holen - in der BVV abgelehnt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Vorhabenbezogener Bebauungsplan 11-120 VE - öffentliche Auslegung und Anzeigeverfahren Arbeitstitel: Dolgensee-Center - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Grünanlage Karlshorst West - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15: Schließung der Sitzung - erledigt
