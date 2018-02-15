@@ -1,0 +1,6 @@
+# TOP 4.: Verschiedenes
+
+- Sitzung: öffentliche Sitzung des Ortsgemeinderates der Gemeinde Willmenrod (2018-02-15)
+- Körperschaft: Ortsgemeinde Willmenrod
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-6087%7Czt_4%7C1
