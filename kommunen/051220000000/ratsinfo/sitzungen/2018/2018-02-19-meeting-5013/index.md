@@ -1,0 +1,51 @@
+# Zuwanderer- und Integrationsrat (23. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-02-19T17:00:00+01:00
+- Ende: 2018-02-19T18:00:00+01:00
+- Ort: Gründer- und Technologiezentrum, Grünewalder Straße 29-31, 42657 Solingen, Pliestersaal I
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-285
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZeolSBKd_4JTaizZrv6p-yA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5013
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXkxCoUFd2VezQi6c5LSqXQFpGnKwDL-0QMEatBzHI4B/Bekanntmachung_Zuwanderer-_und_Integrationsrat_19.02.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWHT5oG6TeHq_e0A2s25IBgy587knkdV8q1CKNL1OCci/Oeffentliche_Niederschrift_Zuwanderer-_und_Integrationsrat_19.02.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Beantwortung von Anfragen
+- TOP -: Situation von Seniorinnen und Senioren mit Migrationshintergrund
+- TOP -: E-Mail-Adressen für Mitglieder des Zuwanderer- und Integrationsrates
+- TOP -: Unterstützungsangebote für traumatisierte Geflüchtete
+- TOP -: Islamunterricht in Schulen
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 22. Sitzung des Zuwanderer- und Integrationsrates am 22.01.2018
+- TOP 3.: Förderanträge
+- TOP 4.: Kommsport - Kinder- und Jugendsport in der Kommune hier: Vorstellung der Ergebnisse der sportmotorischen Testung an Solinger Grundschulen -mündlicher Bericht-
+- TOP 5.: Unterstützungsangebote für traumatisierte Geflüchtete
+- TOP 6.: Vorstellung des Integrationsprogramms des Kommunalen Jobcenters -mündlicher Bericht-
+- TOP 7.: Schwerpunktziele Kommunales Integrationszentrum 2018/2019
+- TOP 8.: Gemeinsame Sitzung mit dem Sozialausschuss hier: Planung und Themen für die Sitzung
+- TOP 9.: Gemeinsame Sitzung mit dem Schulausschuss hier: Planung und Themen für die Sitzung
+- TOP 10.: Sachstand gemeinsame Sitzung ZUWI AKST 2017
+- TOP 11.: 25 Jahre Brandanschlag: Solinger Mahnmal Bestellung eines Rings und weitere Aktionen des Zuwanderer- und Integrationsrates
+- TOP 12.: Vorbereitung Kommunale Integrationskonferenz 2018
+- TOP 13.: Sachstand Steuerungsgruppe Integration
+- TOP 14.: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 15.: Berichte aus den Gremien
+- TOP 16.: Berichte aus den Arbeitsgruppen
+- TOP 17.: Verschiedenes
+- TOP -: Mitteilungen der Verwaltung
+- TOP -: Aktuelle Förderbedingungen für KOMM-AN NRW
+- TOP -: START-Stipendien für talentierte Jugendliche mit Migrationsgeschichte
+- TOP -: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP -: Beantwortung von Anfragen
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 22. Sitzung des Zuwanderer- und Integrationsrates am 22.01.2018
+- TOP 3.: Aussprache
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
