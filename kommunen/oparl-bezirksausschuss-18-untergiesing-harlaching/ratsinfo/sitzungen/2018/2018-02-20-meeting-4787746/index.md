@@ -1,0 +1,150 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-02-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4787746
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4787746
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.1.: Vorstellung der Maßnahmenplanung in den künftigen Lizenzgebieten "Schönstraße Nord+Süd" und "Wettersteinplatz" durch Planungs- und Kreisverwaltungsreferat
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.1.1.: Vorstellung des Projekts "Hexenhaus", Pilgersheimer Straße 13 (ehem. Kiosk)
+- TOP 2.1.2.1.: Einhaltung der StVO / Unterbindung des Gehwegparkens in der Maukestraße; Bürgeranliegen vom 30.01.18
+- TOP 2.1.2.2.: Realschule auf dem Gelände in der Harthauser Straße; Bürgeranliegen vom 11.01.18
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Bürgervereinigung Maibaum-Untergiesing e.V. Maibaumaufstellung am 01.05.2018 5.860,00€ Az. 0262.0-18-0132
+- TOP 3.1.2.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München Stadt Straßenfest Fromundstraße am 20.07.2018 2.695,00€ Az. 0262.0-18-0134
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Programm Barrierefreie Bushaltestellen, Pilgersheimer Straße, Haltetselle Humboldtstraße; Anhörung durch das Baureferat zur Ausbauplanung (vertagt vom 23.01.18)
+- TOP 3.2.4.2.: Fahrbahnsanierung Tegernseer Landstraße zwischen McGraw-Graben und Candidtunnel; Erinnerungsverfahren des Baureferats-Tiefbau
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Legalisierung des Gehbahnparkens im Bereich Agilolfingerstraße
+- TOP 3.2.5.2.: Anbringung einer weiteren Sperrfläche bei der Ausfahrt der Aral Tankstelle Grünwalder Straße
+- TOP 3.2.5.3.: Schaffung eines Fußgängerüberweges in der Gerhard-/ Hans-Mielich-Straße
+- TOP 3.2.5.4.: Warnhinweise "Kinder" durch Beschilderung und Piktogramme an der Kreuzung Nauplia-/Bozzarisstraße
+- TOP 3.2.5.5.: Fahrradstraßen im 18. Stadtbezirk - Prüfung folgender Straßen: - Oberbiberger Straße - Tegelbergstraße - Säbener Straße - Am Perlacher Forst
+- TOP 3.2.5.6.: Verbesserung der Verkehrssituation in Harlaching
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (U) Unort oder Lebenswelt? Debatte (des BA 18) mit Green City e.V.
+- TOP 3.3.2.2.: Baumschutz im Viertel Menterschwaige Empfehlung Nr. 14-20 / E 00727 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 12.11.2015
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 3.3.6.2.: Bachräumungstermine 2018 für die Stadt- bzw. Stadtrandbäche; Schreiben des Baureferats-Ingenieurbau vom 26.01.18
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Sanierung der Sitzbänke am Hans-Mielich-Platz Empfehlung Nr. 14-20 / E 01853 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 16.11.2017
+- TOP 3.4.2.2.: zu 3.4.2.1 Anfrage des Baureferats zur Art der Sanierung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.2.: Kindergarten Rotbuchenstraße, Ersatz der Container durch einen Festbau und Beibehaltung des Standorts im bisherigen Umfang
+- TOP 3.4.3.3.: Temporäre Containeranlage zur Entlastung der Grundschule an der Rotbuchenstraße ab dem Schuljahr 2018/19
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Containeranlage Am Hollerbusch 1 Umwidmung und Nutzung durch die Grundschule an der Rotbuchenstraße
+- TOP 3.4.5.2.: Reparatur der Bank vor dem Altenheim St. Franziskus in der Hans-Mielich-Straße
+- TOP 3.4.5.3.: Elektrorikschas für Ausflüge mit mobilitätseingeschränkten Personen
+- TOP 3.4.5.4.: Einsatz des "Demokratiemobils" des Kreisjugendrings 2018 im 18. Stadtbezirk
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Barrierefreien Ausbau in Untergiesing und Harlaching fördern; Gleichberechtigte Teilhabe am gesellschaftlichen Leben durch Ausbau / Umbau und Modernisierung von Infrastrktur Empfehlung Nr. 14-20 / E 01311 .............................................. Unterstützung der Kampagne der Bayerischen Staatsregierung "Bayern wird berrierefrei - Wir sind dabei!" im 18. Stadtbezirk Empfehlung Nr. 14-20 / E 01312 ............................ Dokumentation des Fachtages "Mobilität für alle - Wie erreichbar ist die Innenstadt?" am 24.03.2017
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: (E) Genehmigung eines ambulanten Verkaufsstandes für regionales Gemüse und Obst im Bereich Menterschwaige
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Aufnahme von Planungen zur Neugestaltung des Vorplatzes des städtischen Krankenhauses München-Harlaching unter Einbindung des BA 18
+- TOP 3.5.3.2.: Erwerb des Grundstücks Schilcherweg 8 – 10 zur Einrichtung von Kita-Plätzen
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Candidplatz (Nutzungsziele); Anhörung durch das Referat für Stadtplanung und Bauordnung zum Beschlussentwurf
+- TOP 3.5.4.1.1.: Gabriel-Max-Straße 66, Neubau eines Doppelhauses mit separater Doppelgarage
+- TOP 3.5.4.2.1.: Brennerpaßstraße 13, Abbruch eines Wohnhauses
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Unterrichtung durch das Sozialreferat über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen im Erhaltungssatzungsbereich: 3.5.6.2.1 Anwesen in der Hans-Mielich-Straße; Schreiben vom 30.01.18 3.5.6.2.2 Anwesen in der Hans-Mielich-Straße; Schreiben vom 30.01.18 3.5.6.2.3 Anwesen in der Cannabichstraße; Schreiben vom 18.01.18
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.2.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010: Abhalten eines Flohmarktes am 15.04.2018 auf dem Hans-Mielich-Platz; Beschlussvorlage des Kreisverwaltungsreferates
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Öffentliches Sommerfest des Vereins zur Erhaltung des Perlacher / Grünwalder Forstes e.V., "Waldfest 2018", Grünanlage Oberbiberger Straße / Säbener Platz vom 06.07.17 bis 08.07.17; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.4.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sportplatz Sachsenstraße und Isarauen, Spendenlauf des Maria-Theresia-Gymnasiums am 19.07.18; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.1.: Übersicht Online-Informationen für BA
+- TOP 4.5.1.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten, LTE-Router für Sitzungslokale; Informationsschreiben Nr. 01/2018 des Direktoriums vom 15.01.18
+- TOP 4.5.2.: Ergebnisse der BA-Satzungskommission, Behandlung im Stadtrat; Schreiben des Direktoriums vom 26.01.18
