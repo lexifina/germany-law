@@ -1,0 +1,100 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2018-02-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4673094
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4673094
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Stadtrats-und Ausschussbeschlüsse
+- TOP 7.: Verschiedenes
+- TOP 8.: Berichte aus den Unterausschüssen
+- TOP 9.: Umlauf
+- TOP 10.: Nachtrag
+- TOP 2.2.1.: Städtebauliche Entwicklung im Umgriff des ehemaligen Konzerns Krauss-Maffai
+- TOP 2.2.2.: Baumfrevel auf dem P+R Parkplatz Karlsfeld West, Eversbuschstraße
+- TOP 2.2.3.: Frage zu Projekten
+- TOP 2.2.4.: Bolzplatz und Skateanlage Behringstraße Untermenzing
+- TOP 3.1.: MVG-Nachtlinie nach Allach
+- TOP 4.1.: (E) Budget der Bezirksausschüsse TSV Allach 09 Turnen und Handball e.V. Internationales Handballturnier in Lund/Schweden vom 26.12. bis 30.12.2017
+- TOP 5.1.: Bepflanzung zur Verkehrsberuhigung in der St.-Johann-Straße
+- TOP 5.2.: Austausch von Lichtsignalanlagen hier: Eversbusch-/Ludwigsfelder Str.
+- TOP 5.3.: Austausch von Lichtsignalanlagen hier: Eversbuschstr./ Paul-Ehrlich-Weg
+- TOP 5.4.: Ausschreibung Kinder-Aktions-Koffer 2018/2019
+- TOP 5.5.: Antrag auf Genehmigung gem. § 4 i.V.m. § 10 BImSchG der bestehenden Panzerteststrecke Fa. Krauss Maffai
+- TOP 5.6.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 23. Stadtbezirk Allach-Untermenzing
+- TOP 5.7.: Spiegelbergstr. 21, Gemarkung: Allach, FlNr.: 958/6 Neubau eines Mehrfamilienhauses
+- TOP 5.8.: A 92 München-Landshut 6-streifiger Ausbau AD München-Feldmoching bis AK Neufahrn 1. Tektur vom 22.12.2017
+- TOP 5.9.: Anhörungsverfahren "Wings for Life Worldrun" am 06.05.2018
+- TOP 5.10.: Schreiben Direktorium vom 14.02.2018: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 5.11.: Schreiben Stadtkämmerei vom 06.02.2018: Mittelfristige Finanzplanung 2017 - 2021 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2018 bis 2022
+- TOP 5.12.: Schreiben Baureferat vom 09.02.2018: Erinnerungsverfahren Pottstraße, Gehbahn
+- TOP 5.13.: Schreiben Baureferat vom 09.02.2018: Erinnerungsverfahren Neumeyerstraße, Gehbahn
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: (U) Bebauungsplan mit Grünordnung Nr. 2105 Bundesautobahn A 8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich) (Teiländerung des Bebauungsplanes Nr. 2075) „Sondergebiet Getränkelogistik“ 1. Satzungsbeschluss 2. Keine Genehmigung für das geplante Hochregallager südlich der A 8 zwischen Lochhausener Straße und Hanfgartenstraße; Empfehlung Nr. 14-20 / E 01539 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 27.06.2017 Stadtbezirk 22 Aubing-Lochhausen-Langwied
+- TOP 6.7.: (U) Bebauungsplan mit Grünordnung Nr. 2112 Mühlangerstraße (östlich), Mälzereistraße (südlich), Staudenäckerweg (westlich), Wertstoffhof (nördlich) (Teiländerung der Bebauungspläne Nrn. 1066 und 2075) Stadtbezirk 22 Aubing - Lochhausen - Langwied
+- TOP 6.8.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 6.9.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 6.10.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 6.11.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 6.12.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 6.13.: (U) „Dialog-Displays“ in München Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch
+- TOP 6.14.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 7.1.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten; LTE-Router für Sitzungslokale
+- TOP 7.2.: Verbot der Zweckentfremdung von Wohnraum Informationskampagne "Raum für München" des Sozialreferates
+- TOP 7.3.: Rassismustage 2018 hier: Veranstaltung des Bezirksausschusses 23 am 16.03.2018 in der Stadtbibliothek
+- TOP 7.4.: SommerSpielAktion 2018 Rückmeldung zur Planung Spielbuseinsätze
+- TOP 9.1.: Schreiben Direktorium vom 26.01.2018: Ergebnisse der BA-Satzungskommision; Behandlung im Stadtrat (siehe Stadtratsvorlage Nr. 14-20/ V 10577)
+- TOP 9.2.: Schreiben Direktorium vom 05.02.2018: BA-Informationsschreiben Nr. 02/2018 Abrechnung der Aufwandsentschädigung Einsatz einer neuen Abrechnungssoftware
+- TOP 9.3.: Schreiben Kreisverwaltungsreferat vom 20.09.2016: Verkehrsrechtliche Anordnung Einmündung Augustenfelder Straße / Am Lochholz Halteverbot zur Gewährleistung des Linienbusverkehrs
+- TOP 9.4.: Schreiben Kreisverwaltungsreferat vom 17.07.2017: Verkehrsrechtliche Anordnung Verlängerung des Halteverbots an der Schulbushaltestelle Pfarrer-Grimm-Straße
+- TOP 9.5.: Schreiben Kreisverwaltungsreferat vom 08.11.2017: Verkehrsrechtliche Anordnung Linienbusverkehre der MVG; Änderungen zum Fahrplanwechsel am 10.12.2017
+- TOP 9.6.: Schreiben Kreisverwaltungsreferat vom 09.08.2016: Verkehrsrechtliche Anordnung Buszug-Einsatz auf der MVG Linie 160 (Allach Bahnhof - Stadtgrenze Maria-Eich-Straße); Verlängerung von Halteverbotszonen an Haltestellen
+- TOP 9.7.: Schreiben Kreisverwaltungsreferat vom 17.01.2018: Verkehrsrechtliche Anordnung Kreuzung Vesaliusstr. Ecke Georg-Reismüller-Str. Geschwindigkeitsreduzierung auf 30 km/h für die Dauer der Baustelle
+- TOP 9.8.: Schreiben Kreisverwaltungsreferat vom 14.12.2017: Verkehrsrechtliche Anordnung Niethammerstraße/Kunstmannstraße/Haldenbergstraße Einrichtung eines absoluten Halteverbotes im Einmündungsbereich
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 12.01.2018: Verkehrsrechtliche Anordnung Lauthstraße 8-2 und Servetstraße 5-13 Terminverlängerung für die Verlegung von Stromleitungen
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 25.01.2018: Nachtfahrverbot bzw. Prüfung der zunehmend nächtlichen LKW-Fahrten in der Eversbuschstraße und Paul-Ehrlich-Weg BV-Empfehlung Nr. 14-20 / E00057
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 05.01.2018: Tempo-30-Zone Megerlestraße
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 23.01.2018: OIL! - Snackbar Ausschank von Getränken und/oder Abgabe von zubereiteten Speisen in einer Tankstelle; Antrag auf unveränderte Fortführung des Gaststättenbetriebes
+- TOP 9.13.: Schreiben Baureferat vom 18.01.2018: Grünanlage Hitlstraße Papierkörbe zwischen den Bänken am Schachfeld
+- TOP 9.14.: Schreiben Referat für Stadtplanung und Bauordnung Nahmobilitätskonzept Zischennachricht und Fristverlängerung
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.01.2018: Konzept zur Nahverkehrsmobilität für Allach-Untermenzing 2. Zwischennachricht
+- TOP 9.16.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (18.12.-24.12.17, 01.01.-07.01.18, 08.01.-14.01.18, 15.01.-21.01.18, 22.01.-28.01.18, 29.01.-04.02.18, 04.02.-11.02.18)
+- TOP 9.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.02.2018: Auenbruggerstr. 83, Gemarkung: Untermenzing, FlNr.: 1027/1 TEKTUR - Neubau eines Einfamilienhauses (6 WE) mit Tiefgarage
+- TOP 9.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.01.2018: Vollzug der BaumSchVO im Zusammenhang mit einem Bauvorhaben Allacherstr. 114
+- TOP 9.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.01.2018: Bau der Verbindungsstraße Ludwigsfelder Straße / Krauss-Maffei-Straße Zwischennachricht
+- TOP 9.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.01.2018: Vollzug der Baumschutzverordnung Stieglstr. 46
+- TOP 9.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.01.2018: Vollzug der Baumschutzverordnung Gruithuisenstr. 2a
+- TOP 9.22.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Ernst-Haeckel-Str. 90, Killerstr. 1, Auenbrugger Str. 61, Lechelstr. 74, Lewaldstr. 22, Wollnystr. 11, Rudhardstr. 35, Mayrstr. 1, Franz-Albert-Str. 5, Manresastr. 56, Georg-Reismüller-Str., Allacher Str. 242, Dirrstr. 10, Stieglstr. 54, Finsterwalderstr. 43, Karl-Gayer-Str. 8
+- TOP 9.23.: Schreiben Referat für Gesundheit und Umwelt vom 30.01.2018: Paul-Ehrlich-Weg Anlage zum Brechen und Klassieren von Gestein
+- TOP 9.24.: Schreiben Sozialreferat vom 16.01.2018: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Januar 2018
+- TOP 9.25.: Schreiben Sozialreferat vom 15.01.2018: Antrag auf Zweckentfremdung: Spiegelbergstr. 21
+- TOP 9.26.: Schreiben Stadtwerke München vom 15.01.2018: Baumaßnahmen
+- TOP 9.27.: Schreiben Stadtwerke München vom 17.01.2018: Strom-Projekt Enterstraße
+- TOP 9.28.: Schreiben MOEG GmbH vom 10.01.2018: Oertelplatz - Baustelleneinrichtungsfläche
+- TOP 9.29.: Verwendungsnachweis des HuTV "D&#039;Würmtaler" Menzing e.V.
+- TOP 9.30.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.02.2018: Vollzug der Baumschutzverordnung Ludwigsfelder Straße
+- TOP 9.31.: Schreiben Kreisverwaltungsreferat vom 08.02.2018: My Place Sportcafe Bar - Schank- und Speisewirtschaft Am Schabenbächl 53 Antrag auf unveränderte Fortführung des Gaststättenbetriebes
+- TOP 9.32.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.02.2018: Vollzug der Baumschutzverordnung Brückestr. 7a
+- TOP 9.33.: Schreiben Baureferat vom 06.02.2018: Barrierefreie Bushaltestelle Manzostraße
