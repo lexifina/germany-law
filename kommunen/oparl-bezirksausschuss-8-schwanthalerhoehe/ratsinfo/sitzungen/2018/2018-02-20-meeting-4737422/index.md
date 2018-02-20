@@ -1,0 +1,72 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-02-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737422
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737422
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Bürgeranliegen - Gollierplatz, Radfahrer, Hundewiese und Spielplätze
+- TOP 4.2.: Westend Musiknacht
+- TOP 4.3.: Verein "Rad und Tat"
+- TOP 4.4.: Gollierplatz; Parken und Verschmutzung
+- TOP 4.5.: "Mach Dir ein Bild" - Ausstellung im Kösk
+- TOP 5.1.: Änderung Termin Bürgerversammlung - neuer Termin 19.06.2018
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Freischankfläche Parkstr. 25
+- TOP 6.3.3.: Gaststättenfortführung Schwanthalerstr. 149
+- TOP 6.3.4.: Sachstand Vorkaufsrechtsausübung im Stadtbezirk 8
+- TOP 6.3.5.: Gaststättenfortführung Gollierstr. 14
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Nachdruck Kulturgeschichtspfad
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Arbeitskreis Westend hat ein Gesicht -Einladung 22.02.2018
+- TOP 7.3.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge 01-2018
+- TOP 7.3.3.: Umsiedlung des Bewohnertreffs Theresienhöhe Pfeuferstr. 1
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Straßenbenennung im 8. Stadtbezirk - Angelika-Lex-Weg
+- TOP 8.2.2.: Nachbarschaftsflohmarkt Gollierplatz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Zukunftsfähigkeit des Münchner U-Bahn-Netzes; Bekenntnisbeschluss für die Entlastungsspanne U9 sowie dafür erforderliche Vorhaltemaßnahmen für einen zusätzlichen U-Bhf. am Hauptbahnhof
+- TOP 8.3.2.: Protokoll Ortsbegehung Gollierplatz und Ridlerstraße
+- TOP 8.3.3.: Erinnerungsverfahren Projekt Landsberger Str. zwischen Astaller- und Trappentreustraße
+- TOP 8.3.4.: Erinnerungsverfahren Projekt Radweg Landsberger Straße 103 - 105
+- TOP 8.3.5.: Wegesanierung im Bavariapark
+- TOP 8.3.6.: Baumpflegemaßnahme Ligsalzstr. 33
+- TOP 8.3.7.: Verkehrssituation am "Stöpsel" Trappentreustraße
+- TOP 8.3.8.: Überprüfung und Verbesserung der Beleuchtungssituation am Georg-Freundorfer-Platz
+- TOP 8.3.9.: Neue Wege für das Rad im Stadtbezirk 8 / Schwanthalerhöhe
+- TOP 8.3.10.: Aufstellen von mobilen Toilettenanlagen im Umfeld der Theresienwiese zu den Zeiten des Oktoberfests
+- TOP 8.3.11.: Lehrerparkplätze auf der Parkharfe am Gollierplatz für die GS Bergmannstraße
+- TOP 8.3.12.: Parkfläche "Altes Messegelände" und Durchgangsmöglichkeit für die Bürgerinnen und Bürger während des Oktoberfestes
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Westendzeltlager Anschaffung Zelt- und Küchenmaterial 3.970,05€ Az, 0262.0-8-0135
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Strandkorb Laden für neue Perspektiven Aufführung „VIVA LA VIDA – eine musikalische Hommage an Frida Kahlo“ am 05.07.2018 480,00€ Az. 0262.0-8-0137
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Wasserspielplatz im Westend
+- TOP 11.1.: Ergebnisse der BA-Satzungskommission; Behandlung im Stadtrat
+- TOP 11.2.: Umsetzung eines Sanitärgebäudes auf oder neben dem Gollierplatz
