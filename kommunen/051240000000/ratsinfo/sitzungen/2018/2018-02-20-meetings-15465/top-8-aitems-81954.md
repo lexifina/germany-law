@@ -1,0 +1,8 @@
+# TOP 8: Bebauungsplan 1228 - Widukindstraße / Feuerstraße - Anordnung einer Veränderungssperre
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Oberbarmen (2018-02-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/81954
+- Ergebnis: geändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/38481
