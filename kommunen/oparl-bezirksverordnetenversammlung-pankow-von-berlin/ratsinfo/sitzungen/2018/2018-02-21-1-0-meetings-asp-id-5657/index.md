@@ -1,0 +1,85 @@
+# 13. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2018-02-21T17:30:00+01:00
+- Ende: 2018-02-21T20:00:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5657
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5657
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=159189
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Keine erneuten Eisflächen in der Boenkestraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Dreiecksplätze nach verdienstvollen Frauen benennen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Millionenverschwendung und absehbare Baukatastrophe abwenden! - in der BVV abgelehnt
+- TOP 1.11: Theater o.N. im Kollwitzkiez halten - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Blindenleitsystem in den bezirklichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Geologischer Garten »Naturdenkmal Großer Stein« - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Frühschwimmen bekannt(er) machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ausweitung der Dienstzeiten des Allgemeinen Ordnungsdienstes des Ordnungsamtes - vertagt
+- TOP 1.16: Kultur inklusiv machen - Inklusionsplan für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Jahrelangen Wohnungsleerstand im Komponistenviertel beenden - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Haltestellen an der M1 - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Haltemöglichkeit für Schulbusse vor der Schwimmhalle Thomas-Mann-Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Erhöhung der Schulwegsicherheit im Komponistenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Deklaration „Kommunen für biologische Vielfalt“ unterzeichnen - überwiesen
+- TOP 1.22: Tariferhöhungen bei sozialen Projekten in Pankow - überwiesen
+- TOP 1.23: Errichtung einer Gedenkstätte Fluchttunnel im Mauerpark - überwiesen
+- TOP 1.24: Beschleunigung Straßenbahn M1 - Sperrflächen am U-Bhf. Eberswalder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Gleimstraße aus dem übergeordneten Straßennetz entlassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Fensterposse am Kollwitzplatz beenden - überwiesen
+- TOP 1.27: Hauptweg durch den Mauerpark nach „Rudolf Mosse“ benennen - überwiesen
+- TOP 1.28: Verknüpfung Bus 158 und Straßenbahn M2 verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Weltacker im Botanischen Volkspark Blankenfelde ansiedeln - in der BVV zurückgezogen
+- TOP 1.30: Parkraumbewirtschaftung und Anwohnerparken für die Carl-Legien-Siedlung und ihre Umgebung - überwiesen
+- TOP 1.31: Gefahrlose Nutzung des Parks am Weißen See sicherstellen- Hygiene gewährleisten - in der BVV abgelehnt
+- TOP 1.32: Radweg Prenzlauer Promenade (stadtauswärts) - überwiesen
+- TOP 1.33: Ausgleichsflächen für die Realisierung der größeren Wohnungsbaustandorte - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Sicherung des touristischen Stadtinformationssystems in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Fahrradabstellanlagen am S-Bahnhof Blankenburg II - überwiesen
+- TOP 1.36: Bildung des Integrationsbeirates der VIII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Fuß- und Radwegeverbindung zwischen Karow und Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Bauarbeiten koordinieren – Baustellenatlas infrest nutzen - überwiesen
+- TOP 1.39: Keine zusätzlichen Logistikverkehre während des erneuten Schienenersatzverkehrs auf der Linie S2 - überwiesen
+- TOP 1.40: Rechtswidrigen Durchgangsverkehr unterbinden – Natur schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Einmündung Pankgrafenstraße/Bucher Straße für Schienenersatzverkehr S2/S8 optimieren - in der BVV abgelehnt
+- TOP 1.42: Denkmal Bruce Springsteen - in der BVV abgelehnt
+- TOP 1.43: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Denkmalschutzbericht erstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Verkehrsberuhigung in der Bizetstraße und dem Komponistenviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Ausstellung Kunst "Made in Pankow" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Reinigung der Jugendverkehrsschule Pankow von sog. Graffiti - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Listen der öffentlichen und privaten Baumfällungen verständlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Graffiti im Mauerpark und in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Grellstraße/Prenzlauer Allee: Sozialverträglichen Ablauf der Modernisierung sicherstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Umbaupläne Scherenbergstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Straßenschäden mit besonderer Gefahr für den Radverkehr prioritär beseitigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Machbarkeitsstudie zur Parkraumbewirtschaftung im Florakiez - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Papierloses Arbeiten ermöglichen, WLAN in den Räumen der BVV einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Sperrung der Königsteinbrücke auf ein notwendiges Mindestmaß reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Erhöhung der Verkehrssicherheit im Bereich der Kita Sonnenmäuse in der Conrad-Blenkle-Straße 46 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Umsetzung des Rechts auf Ehe für Alle im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Vietnamesischsprachige Erziehungs- und Familienberatung (EFB) in Berlin einrichten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Querungshilfe über die Maximilianstraße / Ecke Brixener Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Barrierefreie Fußwegeverbindungen in der Treseburger Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Staubbelastungen durch Logistikverkehre der Baustelle am Karower Kreuz reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: "Free WiFi Berlin" auch in Pankower Bürgerämtern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Berlin-Ticket S und Befreiung von der Rundfunkbeitragspflicht auch auf Rentnerinnen und Rentner im Wohngeldbezug ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Parkordnung Heinersdorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Verkehrssicherheit im Gleimtunnel erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Benennungsabsicht für eine bisher unbenannte öffentlich gewidmete Straße im Ortsteil Rosenthal in „Nordgrabenweg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Verlängerung der Veränderungssperre IV-23/11 für das Grundstück Ahlbecker Straße 16 (Gemarkung Prenzlauer Berg, Flur 318, Flurstück 316) im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
