@@ -1,0 +1,164 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-02-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4779147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4779147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 2.3.: Weißenburger Platz 1: Nutzungsänderung Fotostudio zu Laden mit Verzehrbereich
+- TOP 2.4.: Rablstr. 37: Nutzungsänderung Gastronomie zu Laden
+- TOP 2.5.: Balanstr. 34: Nutzungsänderung Schneiderei zu Ladengeschäft, Tektur
+- TOP 2.6.: Balanstr. 34: Nutzungsänderung Laden mit Werkstatt für Kleinkrafträder zu Fitnessstudio
+- TOP 2.2.: Franziskanerstr. 45: Anbau von Balkonen (2 x 5 Stück)
+- TOP 2.3.: Rosenheimer Str. 30-32: Nutzungsänderung Büroflächen (3.-5. OG), Zahntechnisches Labor (4. OG) und Saunabereich (7. OG) in Wohnungen, Umbau einer Wohnung (3. OG)
+- TOP 2.4.: Pöppelstr. 5-7: Sanierung und Umbau, Ausbau der Dachspeicher zu zwei Wohnungen sowie Anbau von Balkonanlagen auf der Hofseite, Tektur
+- TOP 2.7.: Senftlstr. 2: Dachgeschossausbau und Anbau eines Personenaufzugs an einem denkmalgeschützten Wohngebäude
+- TOP 2.9.: Ismaninger Str. 33: Nutzungsänderung im EG Nord (ehem. Gewerbefläche) zu Praxisflächen für die Abt. HNO; Klinikum rechts der Isar
+- TOP 4.: Bürgeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Schmierereien an Gebäuden, Brücken etc. in Haidhausen
+- TOP 4.2.2.: Baustelle ehemaliges Paulanergelände Regerstraße
+- TOP 4.2.3.: Baustellenfahrzeuge vs. Zauneidechse an den Welfenhöfen
+- TOP 4.2.4.: Drei Schreiben zum Maxwerk
+- TOP 4.2.5.: Probleme auf der Heinrich-Mann-Allee und Mauerkircherstraße
+- TOP 4.2.6.: Neuer Busparkplatz für den Gasteig und Verlegung Taxistand (Anfrage der Gasteig GmbH)
+- TOP 4.2.7.: Blockierung des Radwegs durch Fahrzeuge von Pizza Avanti in der Einsteinstraße
+- TOP 5.1.: Seit Jahren leerstehende Gewerbeeinheit in prominenter Lage am Max-Weber-Platz
+- TOP 5.2.: Seit Jahren leerstehendes Wohnhaus Kirchenstr. 14
+- TOP 5.3.: Ehemalige Gaststätte „Huterer“, Grütznerstr. 8
+- TOP 5.4.: Baumgräben in der Lothringer Straße instand setzen
+- TOP 5.5.: Umsetzung von Beschlüssen transparenter darstellen
+- TOP 5.6.: Weitere Fahrradstraßen für Au-Haidhausen
+- TOP 5.7.: Verkehrsversuch Rosenheimer Straße: Nachbesserungen
+- TOP 6.2.1.: Antrag auf Erweiterung einer bestehenden Freischankfläche für „Kai&#039;s Kitchen“, Einsteinstr. 50 Vertagung aus der Sitzung vom 17.01.2018 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Stärkung der Fußgängerinnen und Fußgänger im Münchner Stadtverkehr
+- TOP 6.3.2.: (E) Luftmessungen in der Rosenheimer Straße und sofortige Ertüchtigung des öffentlichen Nahverkehrs (Ziffern 1 und 3 der Bürgerversammlung am 06.07.17) Empfehlung Nr. 14-20 / E 01639 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 06.07.2017
+- TOP 8.1.1.: Anfrage: Umbaumaßnahmen im Maximilianeum
+- TOP 8.1.2.: Sorgsamer Umgang mit öffentlichen Raum: Breitband-Verteilerkästen möglichst unter die Erde (Unterflursystem)
+- TOP 8.1.3.: Erweiterung des RIS München für Bezirksausschüsse - Aufnahme in den Anforderungskatalog
+- TOP 8.1.4.: Überfällige Aufwertung des Franziskus-Brunnens und seiner unmittelbaren Umgebung aus Anlass der Sanierung der Mariahilf-Schule
+- TOP 8.2.1.: Ausbau des Umweltverbundes in Au-Haidhausen; hier: - Fahrradstraße in der Maria-Theresia-Straße und in der Kirchenstraße - Verlegung des Radwegendes am Haidenauplatz, verlängerte Radeinfädelungsspur in der Orleansstraße - Installation einer 2. Signalanlage an der Haltestelle Haidenauplatz BA-Antrag Nr. 14-20 / B 04469 Bitte um Fristverlängerung bis 30.06.2018
+- TOP 8.2.2.: Künftige Nutzung des Maxwerks - 11 BA-Anträge und BV-Empfehlungen Zwischennachricht
+- TOP 8.2.3.: Sanierung der Kita Kirchenstr. 17 a Schreiben Bürgermeisterin Strobl - siehe auch UA Soziales -
+- TOP 8.2.4.: Verkehrsbereich Obere Preysingstraße, Schulwegsicherheit (Schreiben Polizeiinspektion 21) => dazu: Schreiben der Bürgerinitiative Sichere Preysingstraße
+- TOP 8.2.5.: Überfüllte Glascontainer an der Lothringer-/Pariser Straße
+- TOP 8.2.6.: Baustelleneinrichtung 2. S-Bahn-Stammstrecke in der Wörthstraße Anfrage aus der Bürgerversammlung vom 18.05.2017
+- TOP 8.2.7.: Falschparker in der Oefelestraße
+- TOP 8.2.8.: Schulwegsicherheit am Gebsattelberg BA-Antrag Nr. 14-20 / B 04160 Bitte um Fristverlängerung bis 30.06.2018
+- TOP 8.2.9.: Ausweitung des kommunalen Vorkaufsrechts der Landeshauptstadt München BA-Antrag Nr. 14-20 / B 03293 Bitte um Fristverlängerung bis 31.05.2018
+- TOP 8.2.10.: Errichtung von Fahrradstellplätzen am Pariser Platz
+- TOP 8.2.11.: Parken während der Auer Dult
+- TOP 8.2.12.: Beinahe-Unfälle mit Schulkindern an der Zeppelin-/Ohlmüllerstraße => dazu: Schulwegplan der Grundschule Mariahilfplatz
+- TOP 8.2.13.: Beweissicherung 2. S-Bahn-Stammstrecke Anfrage aus der Bürgerversammlung vom 18.05.2017
+- TOP 8.2.14.: Fahrradständer Einsteinstr. 28
+- TOP 8.2.15.: Umstellung der Rolltreppen am Max-Weber-Platz Anfrage aus der Bürgerversammlung Bogenhausen
+- TOP 8.2.16.: Verkehrsüberwachung auf dem Fahrrad BA-Antrag Nr. 14-20 / B 04469 – Zwischenmitteilung
+- TOP 8.3.1.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten für die Bezirksausschüsse; LTE-Router für Sitzungslokale
+- TOP 8.3.2.: Abrechnung der Aufwandsentschädigung für Bezirksausschuss-Mitglieder; Einsatz einer neuen Abrechnungssoftware
+- TOP 8.3.3.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Mariahilfstr. 9: Fällung von 2 Bäumen
+- TOP 7.2.: Seeriederstr. 4,12,20: Fällung von 1 Pappel
+- TOP 7.3.: Gaisbergstraße / Leuchtenbergring: Fällung von 8 Laubbäumen, Gelände roden für Fernwärmeleitung
+- TOP 7.4.: Einsteinstr. 177: Baumfällungen wegen Bauvorhaben Aufstockung eines Ledigenwohnheims
+- TOP 7.5.: Kuglerstr. 16: Fällung von 1 Schwarznuss
+- TOP 7.6.: Fällungsgenehmigungen - Grillparzerstr. 32 - Metzstr. 18 - Flurstr. 12 - Auerfeldstr. 20
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II.2.: Bericht über Termin Kulturreferat am 02.02.2018 zur Beteiligung am „Fest der Demokratie“ an der Theresienwiese am 07.11.2018
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ausschreibung Kinder-Aktions-Koffer 2018/2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Aktualisierung der Liste und Karte mit Standorten für Flüchtlinge und Wohnungs- lose
+- TOP 3.2.: (U) Anmietung eine Ausweichquartiers für die Städt. Berufsschule für zahnmedizinische Fachangestellte und den Bereich Drogisten der Städt. Berufsschule für Zahntechnik, Chemie-, Biologie- und Drogerieberufe Anmietobjekt: Orleanskarree (Orleansstraße 4, 4a) im Stadtbezirk 5 Au-Haidhausen Genehmigung der Raumprogramme Schulen: - Städt. Berufsschule für zahnmedizinische Fachangestellte - Bereich Drogisten der Städt. Berufsschule für Zahntechnik, Chemie-, Biologie- und Drogerieberufe
+- TOP 3.3.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 3.4.: Planung der Einsätze der MünchnerSommerSpielAktion 2018
+- TOP 3.5.: Verbot der Zweckentfremdung von Wohnraum Informationskampagne „Raum für München“ des Sozialreferates
+- TOP 3.6.: Sanierung der Kita Kirchenstr. 17 a Schreiben Bürgermeisterin Strobl
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse KIM-Kino im Einstein e.V. P-Seminar „Vom Glasscherbenviertel zum Inszenestadtteil" 2.950,00€
+- TOP 1.2.: Antrag auf Erweiterung einer bestehenden Freischankfläche für „Kai&#039;s Kitchen“, Einsteinstr. 50 Vertagung aus der Sitzung vom 17.01.2018
+- TOP 2.: Anhörungen
+- TOP 2.1.: Verlängerung der Verkaufszeit des Wochenmarktes am Weißenburger Platz jeweils dienstags von 07.00-14.00 Uhr (vorher 07.00-13.00 Uhr)
+- TOP 2.2.: Aufstellung von Sitzgelegenheiten vor „Familyroom“ in der Metzstr. 36
+- TOP 2.7.: Marktveranstaltungen auf dem Orleansplatz 2018, Platzvergabe nach Grünanlagensatzung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Erteilung einer Ausnahmegenehmigung für das Aufstellen von Tischen und Stühlen vor dem „Bosporus“ in der Ohlmüllerstr. 26 Entscheidung des Oberbürgermeisters
+- TOP 3.2.: (U) Gasteig München GmbH Generalsanierung Interimsquartiere Finanzierung Änderung des MIP 2017 - 2021 Hans-Preißinger-Straße 8 Kreativquartier II mit Bestandsnutzern und Gasteig entwickeln statt Verdrängung gewachsener Strukturen Antrag Nr. 14-20 / A 03384 der Stadtratsfraktion Die Grünen / RL vom 15.09.2017 Gasteiginterims in Sendling auf dem Areal Hans-Preißinger-Straße8 BA-Antrag Nr. 14-20/ B 4210 des Bezirksausschusses des Stadtbezirks 6 – Sendling vom 06.11.2017 Kein Gasteig-Umzug nach Sendling Empfehlung Nr. 14-20 / E 01783 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.2017 Gasteiginterims auf dem Areal Hans-Preißinger-Straße 8; Was passiert nach der Zwischennutzung? Empfehlung Nr. 14-20 / E 01784 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.2017 Gasteiginterims auf dem Areal Hans-Preißinger-Straße 8; Muss der gesamte Gasteig auf das Gelände? Empfehlung Nr. 14-20 / E 01785 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.20178 Gasteiginterims auf dem Areal Hans-Preißinger-Straße 8; Prüfung des Alternativvorschlags des Architekturbüros CBA Empfehlung Nr. 14-20 / E 01786 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.2017
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Maria-Theresia-Str. 4: Neubau eines Wohnhauses mit Tiefgarage, Vorbescheid
+- TOP 2.5.: Einsteinstr. 46 a: DG-Ausbau und Kellersanierung eines denkmalgeschützten Mehrfamilienhauses
+- TOP 2.6.: Steinstr. 29: DG-Ausbau und Aufstockung, Vorbescheid
+- TOP 2.8.: Einsteinstr. 112-114: Neubau eines Seniorenpflegeheims mit 216 Betten, 35 WE Betreutes Wohnen, Kinderhort für 44 Kinder und Tiefgarage, Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Grillparzerstr. 34, Vorbescheidserteilung
+- TOP 3.2.: Mitteilung über Grundstücksgeschäfte (Unentgeltlicher Rückerwerb von MGS-Grundstücken): - Nähe Wolfgangstraße: Freifläche, gemeinsamer Anwohner-Spielplatz, ca. 56 m² als Wirtsgarten der Gaststätte „Preysinggarten“ vermietet - Nähe Milchstraße: unbebaut, gemeinsame anwohnergenutzte Hoffläche sowie Spielplatz, per Dienstbarkeit gesichert
+- TOP 3.3.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Orleansstr. 10, Errichtung einer Fußgängerbrücke zwischen IHK Akademie und Neubau Bürogebäude „Holzkontor“
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Fahrbahnsanierung in der Schneckenburgerstraße zwischen Nigerstraße und Lucile-Grahn-Straße
+- TOP 3.2.: (U) Fünf Plätze attraktiv neu gestalten A) Willibaldplatz im 25. und 21. Stadtbezirk Projektkosten (Kostenobergr.): 2.300.000 € (darin enth.: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 190.000 € (brutto)) 1. Projektgenehmigung 2. Anmeldung zum MIP 2017 - 2021 B) Ubostraße / Altostraße im 22. Stadtbezirk 1. Kenntnisnahme von der Projektgenehmigung des Projektes auf dem Verwaltungsweg 2. Anmeldung zum MIP 2017 - 2021 C) St.-Pauls-Platz im 2. Stadtbezirk Projektkosten (Kostenobergr.): 4.100.000 € (darin enth.: Anteil SWM: 70.000 € (netto)) 1. Projektgenehmigung 2. Bavariaring Schrägparkplätze, BA-Antrag Nr. 14-20 / B 02655 3. Anmeldung zum MIP 2017 - 2021 D) Siegestor im 3. und 12. Stadtbezirk Projektkosten (Kostenobergr.): 5.450.000 € 1. Projektgenehmigung 2. Einräumung des Vorrangs der Ergebnisse der Bürgerbeteiligung vor gegenläufigen Empfehlungen der Stadtgestaltungskommission 3. Anmeldung zum MIP 2017 - 2021 E) Rosenheimer Str. / Lilienstr. / Zeppelinstr. im 5. Stadtbezirk 1. Platzgestaltung Verkehrsraum am Gasteig 2./3. Radweg a. d. Zeppelinstr., BA-Anträge Nr. 08-14 / B 05324 u. Nr. 08-14 / B 05325 4. Neugestaltung/Erweiterung d. Umgriffs/Sanierung Teilst. Rosh. Str., BA-Antrag Nr. 08-14 / B 05487 5. Gegenläufiger Radweg Zeppelinstr., BA-Antrag Nr. 14-20 / B 02192 6. Baumpflanzung Lilienstr., BA-Antrag Nr. 14-20 / B 02515 7. Anmeldung zum MIP
+- TOP 3.3.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 3.4.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 3.5.: Eingang in die Frühlingsanlagen Ergebnis Ortstermin am 24.01.2018
+- TOP 3.6.: Zebrastreifen Auerfeldstraße
+- TOP 4.1.: Radverkehr am Wiener Platz
+- TOP 4.2.: Erweiterung des Anwohnerbereiches auf die Preysingstraße
+- TOP 4.3.: Diskussion über Fahrradstellplätze der DB-Räder auf dem Orleansplatz (siehe Protokoll Plenum vom 13.12.2017, A 5.5)
+- TOP C: Verschiedenes und Termine
+- TOP 4.1.: Einladung zur 3. Sitzung der Strategiegruppe „Nächtliches Feiern“ am 07.02.2018
+- TOP 4.2.: Einladung zum AKIM Fachtag am 02.03.2018
+- TOP 4.3.: Einladung zur Veranstaltung Beschilderungskonzept Isar am 19.02.2018
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Wiedergeburt der Stadt ? Neue Urbanität für München ! Fachgespräch am 16.05.2018 um 19 Uhr
