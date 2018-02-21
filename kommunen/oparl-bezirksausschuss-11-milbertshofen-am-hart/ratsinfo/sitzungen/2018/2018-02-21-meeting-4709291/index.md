@@ -1,0 +1,102 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709291
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709291
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Benennung von bestehenden Mitgliedern
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Einführung von einer Terminvereinbarung im Bürgerbüro Riesenfeldstraße
+- TOP 4.2.1.: U-Bahnhof Olympiapark / Lerchenauer Straße
+- TOP 4.2.2.: Anwohner-Workshop für die Neugestaltung des Grünstreifens am Schollerweg
+- TOP 4.2.3.: BMW Group - Neuerrichtung einer KWK-Anlage
+- TOP 4.2.4.: Aufstellen eines Trinkwasserbrunnens im Skatepark am Brundagplatz
+- TOP 4.2.5.: Fußgängerfreundliches Milbertshofen - Durchlässigkeit statt hohe Zäune Besteht ein öffentliches Wegerecht auf Privatgrund zwischen der Milbrtshofener Str. 57 und Königsteinstr. 8?
+- TOP 4.2.6.: Stabile Sitzbänke für den Nordhaideplatz
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Kulturverein Olympiadorf e.V. Klavierkonzert „Chopin-Abend“ am 24.02.2018 590,30€ Az. 0262.0-11-0269
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Projekt „Tanzen und Körperarbeit“ im März/April 2018 900,00€ Az. 0262.0-11-0268
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Hanselmannstraße 45 Selbstverteidigungskurs ab dem 07.06.2018 1.635,00€ Az. 0262.0-11-0266
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse AWO Ortsverein Milbertshofen Jubiläumsfeier am 23.03.2018 930,00€ Az. 0262.0-11-0272
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Projekt "Kicklusion - Alle spielen mit!" im Luitpoldpark am 09.09.2018 850,00 Euro Az.: 0262.0-11-0271
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Jugendtreff Harthof Graffiti-Projekt am 23./24.03.2018 908,00 Euro Az.: 0262.0-11-0273
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Fahrradweg-Engstellen zwischen Frankfurter Ring und Hufelandstraße sowie in der Knorrstraße am Sportgymnasium
+- TOP 6.2.2.: (E) Abschaltung der Fahrradampel in der Sudetendeutsche Straße/Oberhofer Weg an Wochenenden und an Feiertagen
+- TOP 6.2.3.: (E) Rückbau der Gemeinschaftsunterkunft an der Thalhoferstraße; Beweissicherung durch Gutachter Empfehlung Nr. 14-20 / E 01671 .....................
+- TOP 6.2.4.: Senioren- und Pflegeheim im 11. Stadtbezirk Standortsuche und Realisierung Antrag Nr. 14-20 / B 03849 des BA 11 und Empfehlung Nr. 14-20 / E 01672 der Bürgerversammlung des 11. SB Sitzungsvorlage Nr. 14-20 / V 10807
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Aufgreifen der Planungen zur Neugestaltung des Busbahnhofs Olympiazentrum
+- TOP 7.2.2.: Rose-Pichler-Weg 48 - Instandsetzung der Beschrankung der Stellplätze des Kindergartens
+- TOP 7.2.3.: Erhalt einer Schank- und Speisewirtschaft auf dem Gelände des bisherigen Wirtshauses Weyprechthof
+- TOP 7.2.4.: Sanierung der Wertstoffinsel Christoph-von-Gluck-Platz / Milbertshofener Straße
+- TOP 7.2.5.: Aushang der Sitzungstermine der Seniorenvertretung im 11. Stadtbezirk in den Schaukästen des BA 11
+- TOP 7.2.6.: Riesenfeldstr. 83 – Neubau eines Gebäudes für gewerbliches Wohnen
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Veranstaltungen im Olympiapark - stärkeres Hinwirken auf die Benutzung des ÖPNV
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Parlerstr. 74 - Schulbauoffensive - Neubau Haus für Kinder
+- TOP 8.2.2.: Riesenfeldstr. 56 - Neubau einer Mietwohnanlage mit Tiefgarage
+- TOP 8.2.3.: Na) Moosacher Str. 99 – Neubau eines Sportbetriebsgebäudes
+- TOP 8.2.4.: b) Moosacher Str. 99 – Neubau eines Kunstrasenplatzes
+- TOP 8.2.5.: Taunusstr. 21 – Neubau eines Büro- u. Gewerbegebäudes mit TG
+- TOP 8.2.6.: Taunusstr. 23 - Neubau eines Parkhauses
+- TOP 8.2.7.: Riesenfeldstr. 83 – Neubau eines Gebäudes für gewerbliches Wohnen
+- TOP 8.2.8.: Am Oberwiesenfeld: Öffentliche Grünfläche mit Ausgleichsfläche im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2073 im 10. Stadtbezirk und im 11. Stadtbezirk - Bedarfs- und Konzeptgenehmigung
+- TOP 8.2.9.: Anträge auf Baumfällungen a) Rockefellerstr. 20-72 / Neuherbergstr. 25-29 b) Morsering 2-30 c) Bertholdstr. 4 d) Am Oberwiesenfeld 8 - Neubau und Spartenverlegung e) Am Oberwiesenfeld 8 - Gewährleistung von Brandschutzmaßnahmen Nf) Christoph-von-Gluck-Platz 19c
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Ausschreibung: Kinder-Aktions-Koffer 2018/2019 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung
+- TOP 8.3.2.: Veranstaltung - Mitmachen beim Tag des offenen Denkmals 2018
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Versammlungsanzeige: Streckenabschnitt 5 - Königsplatz - Olympiapark Fahrradkorso - Sternfahrt des ADFC München e.V.
+- TOP 8.4.2.: Knorrstr. 171 - Verkehrsrechtliche Anordnung nach § 45 StVO - Tempo 30
+- TOP 8.4.3.: Neuherbergstr. 20 - Verkehrsrechtliche Anordnung nach § 45 StVO - Tempo 30
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 mit verbindlicher Planung für 2022; Entwurf für das Baureferat
+- TOP 9.1.2.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 9.1.3.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Taverna am Olympiapark" - Winzererstr. 97 b) "Kreta Meer" - Moosacher Str. 81 c) "Bi Lo`s Stüberl" - Milbertshofener Str. 29 d) "Riva" - Winzererstr. 97 e) "Café Bar Nikita" - Wenzelstr. 2
+- TOP 9.1.4.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: a) Johanniter-Unfall-Hilfe e.V. b) Kreisjugendring München-Stadt
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 9.2.5.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 9.2.6.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 9.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.8.: Bachräumungstermine 2018 für die Stadt- bzw. Stadtrandbäche
+- TOP 9.2.9.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 9.2.10.: Meldelisten Bauvorhaben vom 18.12.2017 - 28.01.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) „Dialog-Displays“ in München Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch
+- TOP 9.4.2.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 9.4.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Keferloherstr. - Einrichtung von zwei Anfahrtszonen b) Rockefellerstr. - Einrichtung einer Bücherbushaltestelle c) Knorrstr. / Korbinianplatz / Königsteinstr. - Arbeiten im Straßenraum
