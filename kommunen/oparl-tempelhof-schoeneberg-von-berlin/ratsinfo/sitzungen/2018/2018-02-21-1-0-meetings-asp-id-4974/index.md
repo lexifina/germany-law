@@ -1,0 +1,130 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2018-02-21T18:15:00+01:00
+- Ende: 2018-02-21T19:00:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4974
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4974
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=299566
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 1.1: Bericht aus dem Ausschuss für Eingaben und Beschwerden - vertagt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Jahresberichte 2017 der Patientenfürsprecher_innen gem. § 30 des Landeskrankenhausgesetzes (LKG) und § 12 des Gesetzes über Hilfen und Schutzmnaßnahmen bei psychischen Krankheiten (PsychKG) - überwiesen
+- TOP 3.2: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XIX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Benennung eines Bezirksverordneten als stellvertretendes Mitglied in den Kulturbeirat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 Abs. 1 Buchstabe a BezVG i.V.m. § 68 Abs.2 (2) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Vorlagen zur Beschlussfassung - in Tagesordnung vorgezogen - (offen)
+- TOP 3.6.1: Wahl der Sozialkommissions-/Sondersozialkommissionsmitglieder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6.2: Festsetzung des vorhabenbezogenen Bebauungsplans 7-66VE für das Grundstück Bautzener Straße 21-24/Yorckstraße 55-56A sowie eine Teilfläche des Grundstücks Bautzener Straße 20 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 3.6.3: Aufstellung einer Vorschlagsliste für ehrenamtliche Richter_Innen am Oberver-waltungsgericht Berlin-Brandenburg für die Geschäftsjahre 19.08.2018 bis 18.08.2023 - vertagt
+- TOP 3.6.4: Erhaltungsverordnung für das Gebiet „Tempelhof“, in der anliegenden Karte mit einer durchgezogenen Linie eingegrenzt, im Bezirk Tempelhof-Schöneberg, Ortsteil Tempelhof. - überwiesen
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Quartiersmanagement soll im Schöneberger Norden fortgesetzt werden - vertagt
+- TOP 6.2: Merkblatt über die Vergabe von Sondermitteln durch die BVV - vertagt
+- TOP 6.3: Feuerwerk ja, aber nicht in dieser Form - überwiesen
+- TOP 6.4: Zeitplan für Sanitär- und Umkleidecontainer für die Halker Zeile - vertagt
+- TOP 6.5: Aufstellung des Bebauungsplans 7-88 für das Grundstück Ankogelweg 95 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - vertagt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Zukunft des Wohnberechtigungsscheins im Bezirk - vertagt
+- TOP 8.2: Essensversorgung aller Kinder an der Spreewald – Grundschule - vertagt
+- TOP 8.3: Standorte der Unterkünfte für geflüchtete Menschen mit Vernunft festlegen - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Junge Familien unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Sicherheit in Schöneberg-Nord erhöhen – Der Kiez braucht eine mobile Wache im Bereich des Nollendorfplatzes - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Buslinie 275 bis nach Blankenfelde/Mahlow verlängern - überwiesen
+- TOP 9.4: Antrag auf Einwohner_innenversammlung gemäß § 42 BezVG zur Situation des Bades im Ankogelweg - in der BVV abgelehnt
+- TOP 9.5: Mobilität im Bezirk steigern. - überwiesen
+- TOP 9.6: Dezentrales Regenwassermanagement in alten und neuen Stadtquartieren auch in Tempelhof-Schöneberg voranbringen - überwiesen
+- TOP 9.7: Fahrradfahren sicher machen – geeignete Maßnahmen ergreifen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Geschwisterkinder durch Änderung der Einschulungsbereiche nicht benachteiligen - überwiesen
+- TOP 9.9: Tempelhof – Nutzungskonzept für die Beuth Hochschule - überwiesen
+- TOP 9.10: Der 8. Mai gehört dem Gedenken: ,,Tag der Befreiung vom Faschismus? muss Feiertag in Berlin werden! - vertagt
+- TOP 9.11: Blühstreifen für Bienen und andere Insekten am Rathaus Schöneberg - überwiesen
+- TOP 9.12: Breslauer Platz endlich aufwerten und Teileinziehungsverfahren umsetzen! II - vertagt
+- TOP 9.13: Gedenkort sichern - überwiesen
+- TOP 9.14: 70. Jubiläum der Berliner Luftbrücke würdig begehen! - vertagt
+- TOP 9.15: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - überwiesen
+- TOP 9.16: Kostenfreie Sperrmüllentsorgung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.17: Klimaschutz leicht gemacht - überwiesen
+- TOP 9.18: Passender Brunnen für den Breslauer Platz - überwiesen
+- TOP 9.19: Endlich Konzept für Altkleidersammlung erarbeiten! - überwiesen
+- TOP 9.20: Luise und Karl Kautsky ohne Parkscheinautomat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.21: Sprachlernbereich an der Johanna-Eck-Schule erhalten! - überwiesen
+- TOP 9.22: Änderung der Geschäftsordnung ; "§ 9 Einberufung und Zusammentreten" - überwiesen
+- TOP 9.23: Umbau des Nollendorfplatzes endlich beginnen - überwiesen
+- TOP 9.24: Erhöhung des Entgeltsatzes für Familienpfleger*innen - überwiesen
+- TOP 9.25: Städtepartnerschaften zum Einsatz für Menschenrechte nutzen! - überwiesen
+- TOP 9.26: Fußgängerüberweg in der Marienfelder Allee in Höhe des Einganges zum Friedhof schaffen - überwiesen
+- TOP 9.27: Sachgerechter, rechtskonformer und transparenter Umgang mit Kleinen Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.28: Frauenschwimmen in Tempelhof-Schöneberg - überwiesen
+- TOP 9.29: Mehr Zeit für Mündliche Anfragen - überwiesen
+- TOP 9.30: Faires Einkaufen erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.31: Bezirksamt unterstützen: Keine MUF am Diedersdorfer Weg in Marienfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.32: falls Dringlichkeit festgestellt - Unterstützung der Forderungen der studentischen Hilfskräfte an den Berliner Hochschulen - in der BVV zurückgezogen
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: Bearbeitungsdauer von kurzfristig umzusetzenden Maßnahmen zur Erhöhung der Verkehrssicherheit - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Jährliche Statuserhebung des Sanierungsbedarfs und Sanierungsstaus an den Schulen in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Rathaus Friedenau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Bestattungsmöglichkeiten nach muslimischem Ritus schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Bezirksamtlich organisierte Bekämpfung der Ambrosia-Pflanze - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: ,,Dreidimensionale Zebrastreifen" im Straßenland prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Dezentrale Bibliothekenarbeit sichern und weiterentwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Kiepertplatz wieder herrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Vorfahrt am Friedensplatz regeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Wasserspiele im Bezirk Instand setzen und wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Tempo 30 in der Mellener Straße durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Erhalt der ehrenamtlich geführten Thomas-Dehler-Bibliothek - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Sichere Querung am Südwestkorso - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Sicherer Überweg Waldsassener Straße/Tirschenreuther Ring - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Rad- und Fußverkehr im Bereich des Knotens Priesterweg / Prellerweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Dienstzeit des Ordnungsamtes auf 24 Stunden ausweiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Pflege (auch) im Süden des Bezirks unterstützen - vertagt
+- TOP 11.17: Prostituiertenschutzgesetz fristgerecht umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Ersatzstandort für den bisherigen BSR-Recyclinghof Tempelhofer Weg - vertagt
+- TOP 11.19: Vision und Notwendigkeit – Verlängerung der U6 nach Süden - vertagt
+- TOP 11.20: U 6 bis nach Lichtenrade bzw. bis nach Mahlow verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Verkehrsentlastung in der Bamberger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.22: „Die Werkstatt“ soll in Schöneberg weiterarbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.23: Anträge auf Gewährung von Unterhaltsvorschusszahlungen zeitnah bescheiden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.24: Bezirklichen Veranstaltungskalender attraktiver machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.25: Erhalt des Ehrengrabes von Ottomar Anschütz auf dem Friedhof Stubenrauchstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.26: Wiederaufnahme des Grabes von Ottomar Anschütz in die Liste der Berliner Ehrengräber - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.27: Radabstellmöglichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.28: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Spastikerhilfe Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.29: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Südwestpassage e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.30: Berliner Gedenktafel für Heinz Jakob "Coco" Schumann - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.31: Festsetzung des Bebauungsplans 7-47 für die Fläche zwischen Hildegard-Knef-Platz, Lotte-Laserstein-Straße, Sachsendamm und der Hedwig-Dohm-Straße (Grundstück Sachsendamm 55-60) sowie für die Hedwig-Dohm-Straße und die Wilhelm-Kabus-Straße zwischen Ringbahn und Tempelhofer Weg im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.32: des Bezirksamtes Tempelhof-Schöneberg von Berlin gemäß § 12 Absatz 2 Nummer 4 des Bezirksverwaltungsgesetzes (BezVG) über eine Erhaltungsverordnung für das Gebiet „Schöneberger Norden“, in der anliegenden Karte mit einer durchgezogenen Linie eingegrenzt, im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.33: des Bezirksamtes Tempelhof-Schöneberg von Berlin gemäß § 12 Absatz 2 Nummer 4 des Bezirksverwaltungsgesetzes (BezVG) über eine Erhaltungsverordnung für das Gebiet „Schöneberger Süden“, in der anliegenden Karte mit einer durchgezogenen Linie eingegrenzt, im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - erledigt
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Yorckbrücke Nr. 5: Rad- und Fußwegüberquerung ermöglichen - überwiesen
+- TOP 13.2: Benennung: Am Bülowbogen - überwiesen
+- TOP 13.3: Wohnbaupotentiale auf „Discountergrundstücken“ - überwiesen
+- TOP 13.4: Geschichtsstation im Stadtraum ergänzen Würdigung des Nollendorfplatzes im Rahmen des Projektes “Historische Orte sichtbar machen“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Standorterhalt der Jugendeinrichtungen Drugstore und Potse - überwiesen
+- TOP 13.6: VHS niederschwellig halten: keine Übertragung der Honorarerhöhungen auf die Kursteilnehmer*innen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.7: Tempelhof-Schöneberger Denkmale in den Fokus nehmen - überwiesen
+- TOP 13.8: Beschluss, die Maßnahmen aus dem Bericht zur Spielleitplanung im Rahmen der Förderkulisse Aktives Zentrum Lichtenrade – Bahnhofstraße und im Rahmen der personellen Möglichkeiten umzusetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Fußgängerquerung Lichtenrader Damm - vertagt
+- TOP 13.10: Entwurf Bezirkshaushaltsplan 2018/2019 - Achtung es liegen zwei unterschiedliche Versionen der MzK vor - - überwiesen
+- TOP 13.11: Beschluss der Bezirksregionenprofile (BZRP) Teil I für alle sieben Bezirksregionen in Tempelhof-Schöneberg und der Vorbemerkungen zu den BZRP - überwiesen
+- TOP 13.12: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Erweiterung des Geltungsbereichs des Bebauungsplans 7-80 um die nördliche Fläche des Mariendorfer-Hafen-Wegs und östlich davon anliegende Teilflächen sowie den Mariendorfer-Hafen-Steg und nördlich davon anliegende Teilflächen im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 13.13: Reduzierung des Geltungsbereiches des Bebauungsplans 7-37Bf um eine Teilfläche des Grundstücks Ankogelweg 95 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 13.14: Einleitung des Verfahrens zur Erweiterung des Geltungsbereichs der im Festsetzungsverfahren befindlichen Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet Schöneberger Norden im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg um die Grundstücke Winterfeldtstraße 79/97, Luitpoldstraße 14-21A und 26-37, Martin-Luther-Straße 30-35, Münchner Straße 54 und Hohenstaufenstraße 22, 31, Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13.15: Beleuchtung der Hertha-Block-Promenade auch im Ortsteil Tempelhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.16: Richtig Hände waschen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Termin der nächsten Sitzung - erledigt
