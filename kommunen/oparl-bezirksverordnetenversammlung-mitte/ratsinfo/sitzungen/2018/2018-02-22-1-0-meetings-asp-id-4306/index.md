@@ -1,0 +1,151 @@
+# 15. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2018-02-22T17:30:00+01:00
+- Ende: 2018-02-22T20:50:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4306
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4306
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=146910
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - (offen)
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: der Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - (offen)
+- TOP 5: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Förderung von integriertem Wohnen für Geflüchtete im Bezirk Mitte – wie ist der Stand der Dinge? - beantwortet
+- TOP 7.2: Schrotträder auf Straßenland - beantwortet
+- TOP 7.3: Disziplinarverfahren gegen den Bezirksbürgermeister – hat der Bezirksbürgermeister gegen geltendes Recht verstoßen? - beantwortet
+- TOP 7.4: Ist die Genehmigungspraxis für Ausbau an Kitaplätzen noch zeitgemäß? - beantwortet
+- TOP 7.5: Das Drama um die Kinder in der Schmidstraße 4 - beantwortet
+- TOP 7.6: Wer etwas will, muss auch etwas geben: Wann werden endlich Modulare Unterkünfte für Flüchtlinge (MUFS) für Statusgewandelte und auch Wohnungslose in Mitte errichtet? - schriftlich beantwortet
+- TOP 7.7: Denkmalschutz für das Nikolaiviertel – Arkadenschließung damit vom Tisch? - schriftlich beantwortet
+- TOP 7.8: Blockkonzept Neues Ufer / Weiterentwicklung Heinrich-von-Stephan-Gemeinschaftsschule - schriftlich beantwortet
+- TOP 7.9: Anmeldung des Sanierungsbedarfs der Schulen im Bezirk Mitte beim Land Berlin - schriftlich beantwortet
+- TOP 7.10: Geschützte Räume für homo- und transsexuelle Obdachlose - schriftlich beantwortet
+- TOP 7.11: 100 Jahre Frauenwahlrecht – Was plant Mitte? - schriftlich beantwortet
+- TOP 7.12: Fragebogenaktion im Kurfürstenkiez - schriftlich beantwortet
+- TOP 7.13: Absperrungen mit Bauzäunen in der Zwinglistraße - schriftlich beantwortet
+- TOP 7.14: Räumung von Obdachlosigkeit - Wie ernst nimmt das BA die Beschlüsse der BVV (0782/V) - schriftlich beantwortet
+- TOP 7.15: Abbau der Nottreppe am Schleswiger Ufer - schriftlich beantwortet
+- TOP 7.16: Alt-Moabit sicher überqueren - schriftlich beantwortet
+- TOP 7.17: Ungenehmigte Altkleidercontainer in Mitte endlich Geschichte? - schriftlich beantwortet
+- TOP 7.18: Kriminalitätsbelastung in Mitte durch Minderjährige - schriftlich beantwortet
+- TOP 7.19: Wie weiter am Kitastandort in der Schmidtstraße 4? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Schon wieder Schimmel! Schimmel in der Carl-Kraemer-Schule - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Simit Evi: Wann wir der BVV Beschluss umgesetzt? - beantwortet
+- TOP 9.2: Wie weiter mit der Kita Alegria? - beantwortet
+- TOP 9.3: Fehlerhafte Bescheide des Jobcenters Mitte – Wo liegen die Ursachen? - schriftlich beantwortet
+- TOP 9.4: Schiffbruch am Spree-Bogen – 2. Akt: Bleibt der Schiff-Spielplatz erhalten? - schriftlich beantwortet
+- TOP 9.5: Interessenbekundung für den Betrieb einer Jugendverkehrsschule im Bezirk Mitte - schriftlich beantwortet
+- TOP 9.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.7: Wie weiter mit der Heinrich-von-Stephan-Gemeinschaftsschule? - schriftlich beantwortet
+- TOP 9.8: Spielplatzsituation in Mitte - schriftlich beantwortet
+- TOP 9.9: Zustände in der Iranischen Straße - schriftlich beantwortet
+- TOP 9.10: LED-Beleuchtung im Brunnenviertel - schriftlich beantwortet
+- TOP 9.11: Unangekündigte Pflegeheimkontrollen - schriftlich beantwortet
+- TOP 9.12: Boulevard der Sterne - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Wahl der ehrenamtlichen Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die fünfjährige Amtszeit ab 19.08.2018 (1. bis 12. Senat) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Stellungnahme des Landes-Denkmalamtes (LDA) ernst nehmen - Park Café sanieren! - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Benennung einer Straße im Baugebiet Heidestaße / Europacity - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Verstetigung von Quartiersmanagementgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Fortführung der Nutzung des Cafe "Simit Evi" Müllerstraße 147 (II) - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Runder Tisch Tourismus wieder einführen - überwiesen
+- TOP 14.5: Milieuschutz für die ganze Lehrter Straße - überwiesen
+- TOP 14.6: Kita Alegria - überwiesen
+- TOP 14.7: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - in der BVV abgelehnt
+- TOP 14.8: Endlich durchgreifen: illegal aufgestellte Altkleider-Container jetzt beräumen - überwiesen
+- TOP 14.9: Erholung im Freien ermöglichen – Sitzbänke im Westfälischen Viertel erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: E-Mobilität fördern: Ladestationen an öffentlichen Gebäuden - überwiesen
+- TOP 14.11: Werbung Brüsseler Straße 3 durch „Sjbet – Wetten und mehr“ - II. Teil DS 0954/IV - überwiesen
+- TOP 14.12: Mieterberatung für Bewohner*innen von verkauften Häusern in den Milieuschutzgebieten in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Mehr Parkbänke im Wedding - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Eine neue Chance für die Kita Alegría - Schmidstraße - überwiesen
+- TOP 14.15: Sanierungen bezirklicher Verkehrsinfrastruktur: BVV über Prioritäten informieren - überwiesen
+- TOP 14.16: Erhebung der Lebenslagen von SeniorInnen in Mitte (LISA II) - überwiesen
+- TOP 14.17: Logo für Leitlinien: Endlich umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Endlich Lösungen für den Kiez um die Kurfürstenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Mehr Fahrradabstellplätze in der Tile-Wardenberg-Str. - überwiesen
+- TOP 14.20: Mehr Platz und Sicherheit auf den Straßen durch Quartiersgaragen schaffen! - überwiesen
+- TOP 14.21: LAF-Einrichtungen für Statusgewandelte mit Hausverbot - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.23: Illegalen Welpenhandel bekämpfen - überwiesen
+- TOP 14.24: Transparenz bei Vergabeverfahren - überwiesen
+- TOP 14.25: Straßenumbenennung: Die öffentliche Veranstaltung berücksichtigt die Leitlinien der Bürgerbeteiligung - gegenstandslos
+- TOP 14.26: Schwimmkurse in Mitte bereits für Kita-Kinder - überwiesen
+- TOP 14.27: Unerlaubtes Parken auf Gehwegen und Freiflächen auf dem Gelände des OSZ Banken und Versicherungen in Moabit unterbinden. - überwiesen
+- TOP 14.28: Standesamt Mitte darf Eheschließungen nicht weiter im Wege stehen - überwiesen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: BVV Mitte unterstützt den Equal Pay Day 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Gehwegsanierung in der Tucholskystraße - ohne Änderungen in der BVV beschlossen
+- TOP 17.2: Calvinstraße 21 - ohne Änderungen in der BVV beschlossen
+- TOP 17.3: Perleberger Straße 50 - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Mehr Disc-Golf-Anlagen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 17.5: Nachtruhe sichern - Polizei entlasten - in der BVV abgelehnt
+- TOP 17.6: Mittes Parks und Grünanlagen stärker für Sport und Bewegung nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 17.7: Mobilitätsgesetz bereits jetzt berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 17.8: Parken für Anwohner*innen erleichtern – Weitere Parkraumbewirtschaftungs-zonen einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 17.9: Falschparker an jeder Ecke – Ordnungsamt packt an! - in der BVV abgelehnt
+- TOP 17.10: Sofortprogramm Saubere Luft 2017-2020“ nutzen - in der BVV zurückgezogen
+- TOP 17.11: S-Bahn S21: Bahnhof Perleberger Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 17.12: über: Teilnahme des Bezirks Mitte an der Strategiekonferenz zur Wohnungslosigkeit - ohne Änderungen in der BVV beschlossen
+- TOP 17.13: Planungssicherheit für Himmelbeet! - ohne Änderungen in der BVV beschlossen
+- TOP 17.14: Erhalt bezirklicher Sportflächen für Sportvereine in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 17.15: Klarheit über die Planungen an der Adalbertstrasse – Schule statt Sport, oder doch Schule und Sport? - ohne Änderungen in der BVV beschlossen
+- TOP 17.16: Schulaufsicht: Arbeitsfähigkeit sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Konzept für eine bürger/innenfreundliche Beschwerdestelle/ alt: Drucksache Nr. 99/I
+- TOP 18.2: Mietpreisbremse auch für bestehende Mietverhältnisse durch Anwendung des Wirtschaftsstrafgesetzes (Mietwucher) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Umsetzung der Förderrichtlinie „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Palais am Festungsgraben - gute Nutzung für Berlin in der Welt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Kulturelle Zwischennutzung im Bärenzwinger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Landesprogramm für Stelen, Tafeln und Gedenksteine der Erinnerungskultur im öffentlichen Raum mit Wiedererkennungsfaktor, zeitgemäßem Datenspeicher und Datenabrufsystem - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Schließung der NUK Pankstrasse – Keine Folgeunterbringung in Hallen oder Hangars! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: BEP fortschreiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Umgestaltung des Kulturforums – Neue Heimat für „Steine ohne Grenzen“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Hundeauslaufgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Keine voreilige Kündigung für das Berlin Kolleg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Briefe an die Mieter leicht gemacht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Arbeitserleichterungen bei der Erstellung von Bauplanungsunterlagen (BPU) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.14: Ehrenamtliche in der Sozialkommision besser entschädigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.15: Erfassen von Gebäudedämmung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.16: Schluss mit der Einbahnstraße: Sozialpädagogische Betreuung und Hygienestandards in den ASOG-Unterkünften in Mitte sicherstellen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.17: Wir bleiben alle! Remisen und deren Nutzung in der Koloniestraße 10 sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.18: Obdach für Eva - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.19: Mehr Aufenthaltsqualität am Spreebogen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.20: Wir bleiben alle! Remisen und deren Nutzung in der Koloniestraße 10 sichern! (2) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.21: Neue Bauvorhaben transparent machen (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: Mitte und Berlin für ein Soziales Europa für alle! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.23: Mitte bechert Mehrweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.24: Obdachlose schwangere Frauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.25: 24er Klassenfrequenz als Planungsgröße in der Grundschule nicht überschreiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.26: Mehrsprachige Information zur Beantragung von Mitteln aus der Stadtteilkasse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.27: Endlich die WBM-Karten fürs Nikolaiviertel auf den Tisch! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.28: Prostituiertenschutzgesetz zügig umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.29: Macht das Licht in den Brunnen an! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.30: Dauerbaustellen zu einem Ende bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.31: Schaffung einer Entladezone in der Amsterdamer Str. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.32: „Neue Bauvorhaben transparent machen (II)“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.33: Titeländerung für den Bebauungsplan III-34-2 „Grundschule Europacity“ im Bezirk Mitte, Ortsteil Wedding - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.34: Benennung einer privaten Verkehrs- / Platzfläche im Ortsteil Mitte, an der Dircksenstraße Ecke Voltairestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.35: Änderung des Geltungsbereiches des Bebauungsplans 1-100 „Heinrich-Heine-Straße / Schmidstraße“ - mit Abschlussbericht zur Kenntnis genommen
