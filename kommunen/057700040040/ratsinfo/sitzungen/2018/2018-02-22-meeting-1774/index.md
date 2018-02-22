@@ -1,0 +1,58 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2018-02-22T17:00:00+01:00
+- Ende: 2018-02-22T22:00:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTha41loafbITIazpRhVj3g
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1774
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXr9irzARV-wO3ilnawYFTza2VphDMdzvJtquFQL5ceg/Bekanntmachung_Rat_22.02.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdK4TU-Z5tN8el0zmzAC3Zsw80DLFAR3PcxHawBlLiLw/Oeffentliche_Niederschrift_Rat_22.02.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Medienentwicklungsplanung für die Schulen der Stadt Rahden
+- TOP 5.: Antrag der FDP-Fraktion im Rat der Stadt Rahden mit Unterstützung der Fraktionen FWG, UfR und den Grünen auf Digitale Ausstattung der Schulen
+- TOP 6.: Änderung der Vergnügungssteuersatzung - 9 Stimmen dafür, 20 dagegen, 4 Enthaltungen
+- TOP 7.: Ausweitung der Stelle der Familienbeauftragten der Stadt Rahden - 20 Stimmen dafür, 8 dagegen, 6 Enthaltungen
+- TOP 8.: Beratung und Beschlussfassung über den Stellenplan 2018 - 22 Stimmen dafür, 6 dagegen, 5 Enthaltungen
+- TOP 9.: Entwurf der Haushaltssatzung 2018 mit Haushaltsplan - 29 Stimmen dafür, 6 dagegen, 0 Enthaltungen
+- TOP 10.: Antrag der FDP Fraktion zur Ausweitung der Haushaltsberichte - Ohne Abstimmung
+- TOP 11.: Reduzierung der Anzahl der Mitglieder des Rates der Stadt Rahden hier: Einteilung der Wahlbezirke für die Wahl des Rates der Stadt Rahden im Jahr 2020 - 21 Stimmen dafür, 14 dagegen, 0 Enthaltungen
+- TOP 12.: Ansprechpartner für Seniorinnen/Senioren in der Stadt Rahden
+- TOP 13.: Städtebauförderungsgebiet "Aktives Stadtzentrum" Innenstadt Rahden; Änderung der Vergaberichtlinie der Stadt Rahden über die Gewährung von Zuwendungen zur Förderung der Profilierung und Standortaufwertung im Sanierungsgebiet "Rahden-Innenstadt" - Einstimmig, 0 Enthaltungen
+- TOP 14.: Neugestaltung des Kirchplatzes Rahden; hier: Verbleib der alten Robinie - 28 Stimmen dafür, 4 dagegen, 2 Enthaltungen
+- TOP 15.: Einziehung und Teileinziehung einer Teilstrecke der Straße "Seufzerallee" in Rahden - 31 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 16.: Antrag der Fraktion BÜNDNIS 90/ DIE GRÜNEN zur Erhöhung der Artenvielfalt auf den stadteigenen Flächen und Wegeseitenstreifen - Ohne Abstimmung
+- TOP 17.: Antrag der FDP-Fraktion im Rat der Stadt Rahden zur weiteren Entwicklung des Museumshofes Rahden - Einstimmig, 0 Enthaltungen
+- TOP 18.: Antrag der FDP-Fraktion im Rat der Stadt Rahden zur Zukunft des Musikschulverbandes Espelkamp-Rahden-Stemwede - Einstimmig, 0 Enthaltungen
+- TOP 19.: Einführung der Ehrenamtskarte NRW
+- TOP 20.: Vorbereitung der Wahl der Schöffinnen und Schöffen für die Amtsperiode 2019 bis 2023; hier: Vorschläge zur Besetzung des Ausschusses für die Wahl der Schöffinnen und Schöffen - Einstimmig, 0 Enthaltungen
+- TOP 21.: Anordnung der sofortigen Vollziehung der Einziehungsverfügung vom 20.10.2017 gemäß § 80 a Abs. 1 Nr. 1 i.V.m. § 80 Abs. 2 Nr. 4 Verwaltungsgerichtsordnung (VwGO) zur Einziehung der Gemeindestraße "Auf der Welle" im Abschnitt von der "Weher Straße" bis zur Einmündung der Straße "Lange Reihe" zum Zwecke der Nutzung der Werkstraße - 30 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 22.: Bekanntgaben
+- TOP 22.1: Wasserversorgung
+- TOP 22.2: Baumarbeiten an der Bundessstraße 239
+- TOP 23.: Verschiedenes
+- TOP 23.1: Verbandsversammlung VHS
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 24.: Festlegung des Verkaufspreises für das Baugebiet "Pr.-Ströhen - Am Bahnhof" - Einstimmig, 0 Enthaltungen
+- TOP 25.: Einziehung und Veräußerung einer Gemeindestraße - 30 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 26.: Grundstücksangelegenheiten
+- TOP 26.1: Grundstücksangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 27.: Bekanntgaben
+- TOP 27.1: Wertstofftonne
+- TOP 27.2: Gewerbesteuer
+- TOP 28.: Verschiedenes
+- TOP 28.1: Breitbandausbau
+- TOP 28.2: Dauer von Sitzungen der politischen Gremien
+- TOP 28.3: Feuerwehrgerätehaus Rahden
+- TOP 28.4: Presseartikel zur AfD
+- TOP 28.5: Vergabe der Schülerbeförderungsleistungen
+- TOP 28.6: Feuerwehrgerätehaus Varl/Sielhorst
