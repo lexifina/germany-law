@@ -1,0 +1,32 @@
+# Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 02/001 „Betreutes Wohnen und Tagespflege Bechterdissen“ in einem Teilbereich der landwirtschaftlichen Nutzfläche / Grünfläche an der Straße „Im Schmeltebruch“ im Ortsteil Bechterdissen hier: Durchführungsvertrag
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Drucksache/Vorlage: 7/2018 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-02-22
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQBiM_TEASsoKEl8JlVhgqs
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2381
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 02/001 „Betreutes Wohnen und Tagespflege Bechterdissen“ in einem Teilbereich der landwirtschaftlichen Nutzfläche / Grünfläche an der Straße „Im Schmeltebruch“ im Ortsteil Bechterdissen
+hier: Durchführungsvertrag) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT9axXy7H5AVHHXaY1Wb48yV3uwtUnc5enr8vDmPkWeB/Beschlussvorlage_7-2018_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Übersicht Anlagen) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbdQuqCrtpYgjempv8gX1G3Y9QphL0Gl09sSgHkT5CRu/Uebersicht_Anlagen.pdf
+- Anlage: Beschlussvorlage (Anlage 1 Abgrenzung Geltungsbereich) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQkk1AvsCKQ4VWALDi259kDQliiZL-7gpRIrFn17lXCA/Anlage_1_Abgrenzung_Geltungsbereich.pdf
+- Anlage: Beschlussvorlage (Anlage_2_Vorhabenplan) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTVIxfKfjDIzT684XAiX7mWnh0qxVlC6krq10o6l50TQ/Anlage_2_Vorhabenplan.pdf
+- Anlage: Beschlussvorlage (Anlage_3_B-Plan) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRI9JlNAC547ICq__B0FgZkYtgaCymwsKrpnZ70dYoDr/Anlage_3_B-Plan.pdf
+- Anlage: Beschlussvorlage (Anlage_4_Begründung) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbTg384OgvLcLYLKR9ZfU0Ju5IwlfoqQ9otl6SWP23Ki/Anlage_4_Begruendung.pdf
+- Anlage: Beschlussvorlage (Anlage_5_Umweltbericht) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUr2RqeAFFhxcNNW0h174LKaw-WKQAlAVfj3ZKKmyiYB/Anlage_5_Umweltbericht.pdf
+- Anlage: Beschlussvorlage (Anlage_6_Abwägungen) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUXLQfXsBO2c-SSQtEIneb4vVn26Jutin4A0fwlpFPLp/Anlage_6_Abwaegungen.pdf
+- Anlage: Beschlussvorlage (Anlage_7_Abwägung2) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdttnvTwn7bcdyx6TY40Nd8zHAwr8bkUPIpFfleERvld/Anlage_7_Abwaegung2.pdf
+- Anlage: Beschlussvorlage (Anlage_8_FNP_Abgrenzung_Geltungsbereich) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUj0uE9LegKvTaUsfVUg21vqEfnZE87yjn-Y9ZN9sKp4/Anlage_8_FNP_Abgrenzung_Geltungsbereich.pdf
+- Anlage: Beschlussvorlage (Anlage_9_FNP) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQv8QhiUyR_yOqdLVhxgvpn2ZdpNV8AWs7g8QIXjzxj9/Anlage_9_FNP.pdf
+- Anlage: Beschlussvorlage (Anlage_10_Begründung_FNP) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfZCvxgO5NouTCju-MfK7FGprt-vP1v0ThP3K8q_r_ha/Anlage_10_Begruendung_FNP.pdf
+- Anlage: Beschlussvorlage (Anlage_11_Umweltbericht_FNP) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXfQuwl8vH1orcblG1TdFX0_iTWQvKui9ku9Z1-VGwlD/Anlage_11_Umweltbericht_FNP.pdf
+- Anlage: Beschlussvorlage (Anlage_12_FNP_Abwaegung) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW815V74leSKLN5M_4lAnwEQkbMwWJpuinqHUsp5A7Lz/Anlage_12_FNP_Abwaegung.pdf
+- Anlage: Beschlussvorlage (Anlage_13_FNP_Abwaegung) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdpZYk0vi0a4H9l9JRLOd5vJ-FB5E6sXOChwlXE6IXp_/Anlage_13_FNP_Abwaegung.pdf
+- Anlage: Beschlussvorlage (Anlage_14_Artenschutzrechtlicher_Fachbeitrag) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWU4UFcpj8FqAS1Jw1aRJ5ztST2ti1rQZF5qP4vGb3-w/Anlage_14_Artenschutzrechtlicher_Fachbeitrag.pdf
+- Anlage: Beschlussvorlage (Satzung) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUxICEM7uxyU3_gFBMv1nMPKpoCLysUmpzVYYJLHRtox/Satzung.pdf
+- Anlage: Beschlussvorlage (Flächennutzungsplan) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYgJR4upPabz9dNbeu7Jn0oQ_1dWSduSc1jHDkWOvE7M/Flaechennutzungsplan.pdf
+- Anlage: Beschlussvorlage (Durchführungsvertrag) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVHY21JvOnHHqCEBuuzsW8xA4dnBhuLC2x3z-srLZoaR/Durchfuehrungsvertrag.pdf
+- Anlage: Beschlussvorlage (Lageplan mit den Grenzen des Vertragsgebietes) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbX7VDQUUtBka0wb3MxEbzrE_1DKrDMgLSd_nJo508zz/Lageplan_mit_den_Grenzen_des_Vertragsgebietes.pdf
+- Anlage: Beschlussvorlage (Anlage Straßenverkehrsflächen "Im Schmeltebruch") https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUNqVnVWWP987tpjjbeWhyPPVD5K9Kh1TcD6nn3lmCd5/Anlage_Strassenverkehrsflaechen_-Im_Schmeltebruch-.pdf
+- Beratung:  https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3117 https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
