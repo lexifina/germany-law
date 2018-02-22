@@ -1,0 +1,146 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2018-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4648136
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4648136
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.4.: unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 10.2.2.: verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 10.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 4.3 ÖV im Münchner Osten attraktiver machen (1): S4 auch außerhalb der Hauptverkehrszeiten bis mindestens Haar verlängern
+- TOP 1.3.2.: 4.4 ÖV im Münchner Osten attraktiver machen (2): S-Bahn-Aushangfahrpläne am Bahnhof Trudering überall zugänglich machen
+- TOP 1.3.3.: 4.5 ÖV im Münchner Osten attraktiver machen (3): verkehrlichen Nutzen eines S8-Haltes Berg-am-Laim vorurteilsfrei ermitteln
+- TOP 1.3.4.: 4.6 ÖV im Münchner Osten attraktiver machen (4): Ausstiegshaltestelle der Tram schafft kurze Wege zu den Bussen in Berg-am-Laim-Nord
+- TOP 1.3.5.: 4.7 Gut Riem im Rahmen der SEM komplett erhalten
+- TOP 1.3.6.: 4.8 Paul-Wassermann-Straße/ Werner-Eckert-Straße: Straßensperre wieder aufheben Graf-zu-Castell-Straße öffnen Antrag zu TOP 5.6
+- TOP 1.3.7.: 4.9 Neues städtisches Wohnheim in Riem besser nutzen
+- TOP 1.3.8.: 4.10 Kaufen, bevor es zu spät ist: durchgehenden Grünzug von der Jagdhornstraße zur Von-Erckert-Straße dauerhaft sichern
+- TOP 1.3.9.: 7.4.13 Kathreinweg 22, Fl.Nr.: 220/44 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 1.3.10.: 7.4.14 Truderinger Straße 349, Fl.Nr.: 191/51 - TEKTUR zu 1.2-2017-28907-32 - Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 1.3.11.: 7.4.15 Eisvogelweg 23 - 23a, Fl.Nr.: 524/5 - Neubau eines Mehrfamilienhauses (5 WE)
+- TOP 1.3.12.: 8.2.20 Kathreinweg 22 8.2.21 Am Hochacker 51 8.2.22 Eisvogelweg 23-23a 8.2.24 Achenseeplatz 7a
+- TOP 1.3.13.: 9.1 Bericht der Kassiererin über das vergangene Jahr
+- TOP 1.3.14.: 10.3.6 Bebauungsplan mit Grünordnung Nr. 2119 Fauststraße Information zum Sachstand und zum weiteren Vorgehen
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Echo e.V. Partizipationswerkstatt ab Mai 2018 und "Grüne Akademie" 3.000,00 € Az: 0262.0-15-0240
+- TOP 2.2.1.: (E) Grüne Welle auf der B304 von Berg am Laim bis Haar einrichten
+- TOP 2.2.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 Verlegung der ZEG, Standort Solalindenstraße / Friedenspromenade (wegen Sichtbehinderung) nach BA-Antrag Nr. 14-20 / B 04035 vom 14.09.2017 Beschluss des Bezirksausschusses des Stadtbezirkes 15 vom 22.02.2018
+- TOP 3.2.1.: Hans-Pfann-Straße / Mädelegabelstraße / Matterhornstraße - Zustand der städtischen Gehwege
+- TOP 3.2.2.: Hererostraße / In der Heuluß - Straßenschäden durch Bauvorhaben
+- TOP 3.2.3.: Riemer Straße: Umwandlung in eine Anwohnerstraße in Höhe der Hausnummern 334 bis 367
+- TOP 3.2.4.: Lehrer-Götz-Weg / Bürgermeister-Keller-Straße / Bahnunterführung zur Truderinger Straße - Verkehrssituation und Schulwegsicherheit
+- TOP 4.1.: Gleiche Anbindung ans Internet für alle Bildungseinrichtungen im 15. Stadtbezirk
+- TOP 4.2.: Friedenspromenade: Ergebnisse der erfolgten Veränderungen / Prüfung 30 Stundenkilometer in der gesamten Friedenspromenade
+- TOP 5.1.: Vollständige Barrierefreiheit bei der nächsten Bürgerversammlung Trudering-Riem
+- TOP 5.2.: Rechtsabbiegepfeil an der Kreuzung Riemerstraße / Am Mitterfeld in Richtung Am Mitterfeld einrichten
+- TOP 5.3.: Tangastraße - Wertstoffinsel: Ergebnis des Ortstermins vom 03.07.2017 BA-Antrag 14-20/B02965 – Wertstoffinseln wirksam „entmüllen“ und besser in die Grünanlage einbinden.
+- TOP 5.4.: Notsituation im Hort des Hauses für Kinder, Feldbergstr. 89, Trudering Nicht besetzbare Hortplätze wegen Personalmangels Fehlende Betreuungsplätze für Truderinger Grundschulkinder DRINGEND
+- TOP 5.5.: Schulbau & mehr in Gronsdorf-Nord nur mit ganzheitlichem Verkehrskonzept!
+- TOP 5.6.: Paul-Wassermann-Straße / Werner-Eckert-Straße: Straßensperre wieder aufheben
+- TOP 5.7.: Bürgerversammlung für den Stadtbezirk Trudering-Riem in der Messe München
+- TOP 5.8.: Truderinger Straße: Tempo 30 von Montag bis Freitag in der Zeit von 7 bis 19 Uhr zwischen Haus Nr. 324 und 338 zum Schutz der Kinder
+- TOP 5.9.: Fertigstellung der Bebauung am Horst-Salzmann-Weg
+- TOP 5.10.: Riemer Park: Hundefreundlichkeit - Müll - Radfahrer Stellungnahme der Polizeiinspektion 25 Trudering-Riem auf das Schreiben des BA vom 15.12.2017
+- TOP 5.11.: Thomas-Hauser-Straße: zu hohe Geschwindigkeit
+- TOP 5.12.: Solalindenstraße / Friedenspromenade - Sichtbehinderungen
+- TOP 5.13.: „Wenn der zweite Stock unerreichbar ist“ - Fragen zum Aufzugsärger in der Messestadt
+- TOP 5.14.: Mittbacher Straße: Ratten an entlang der S-Bahn-Station und den Gleisen aufgrund der Verschmutzung mit Müll
+- TOP 5.15.: Bahnstraße - Einhaltung der Tempo 30 Zone
+- TOP 5.16.: Kreillerstraße: Fußweg Richtung Bahnhof Trudering - nächtliche Lärmbelästigung
+- TOP 5.17.: Messestadt - fehlende Mobilitätsangebote
+- TOP 5.18.: Verbesserung der Radverkehrssituation an der Friedensprommenade
+- TOP 5.19.: Tempo-30 Zone an der Birthälmer Straße erweitern
+- TOP 5.20.: Auskunft zur geplanten Busspur zwischen Von-Erckert- und Hans-Pinsel-Straße
+- TOP 5.21.: Nochmal: Schwedensteinsiedlung und östliche Fauststraße endlich normgerecht mit Bus erschließen
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Veranstaltung "Holi Festival of Colours" am 01.09.2018 auf der Sonderfläche Riem
+- TOP 7.1.2.: Flohmarkt am 28.04. bzw. 05.05.2018, Platz der Menschenrechte Termin: 12.03.18
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Antrag auf Reduzierung des Vekehrsaufkommens in der Friedrich-Creuzer-Str. und Friedenspromenade durch Bebauungsplan Nr. 2090 Empfehlung Nr. 14-20 / E 01711 der Bürgerversammlung des Stadtbezirkes 15 – Trudering-Riem am 05.10.2017 Stellungnahme des Bezirksausschusses zum Entwurf
+- TOP 7.2.2.: Thomas-Hauser-Straße Einrichtung eines eingeschränkten Haltverbotes Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Gemeinde Haar Bebauungsplan Nr. 26 im Bereich des ehemaligen Schneiderhofgeländes zwischen Herzogstand- und der Schneiderhofstraße sowie der neuen Erschließungsstraße (Planstraße A = Heimgartenstraße) entlang der Bahnlinie München-Rosenheim Verfahren nach § 4 Abs. 1 BauGB Frist: 23.02.2018
+- TOP 7.3.2.: Bauleitplanung der Gemeinde Aschheim Aufstellung des Bebauungsplans Nr. 155 für das Gebiet "Wohnbauflächen südlich der Alpenstraße und östlich des bestehenden Parkplatzes, Teilflächen aus Fl.Nr. 224/39" Verfahren nach § 4 Abs. 1 BauGB Frist: 05.03.2018
+- TOP 7.3.3.: Errichtung eines Werbebauschildes Willy-Brandt-Allee , Fl.Nr.: 1408/162, Gemarkung: Trudering
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Wasserburger Landstraße 21-23, Fl.Nr.: 321/5 - Neubau einer Wohnanlage (151 WE) mit Tiefgarage (143 Stpl.) und Gewerbeflächen (4 GE)
+- TOP 7.4.2.: Willy-Brandt-Alle, Fl.Nr.: 1408/147 - Neubau eines Mehrfamilienhauses mit Gemeinschaftseinrichtungen, Gewerbe und Großgarage
+- TOP 7.4.3.: Tangastraße 26, Fl.Nr.: 491/3 - Neubau eines Mehrfamilienhauses - Haus B
+- TOP 7.4.4.: Tangastraße 26, Fl.Nr.: 491/3 - Neubau eines Mehrfamilienhauses mit Parklift - Haus A
+- TOP 7.4.5.: Friedenspromenade 10, Fl.Nr.: 570/0 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.6.: Am Mitterfeld 28, Fl.Nr.: 167/18 - TEKTUR zu 1.2-2017-23241-32 - Neubau von 6 Reihenhäusern (2 Dreispänner) mit Garagen
+- TOP 7.4.7.: Josef-Hagn-Straße 7, Fl.Nr.: 45/6 - Neubau eines Einfamilien- und eines Zweifamilienhauses mit Garagen
+- TOP 7.4.8.: Paul-Henri-Spaak-Straße 14, Fl.Nr.: 1408/17 - Messe München: Errichtung einer zusätzlichen Freigeländefläche und Nutzungsänderung zum Ausstellungsfreigelände auf dem Gelände der abzubrechenden Müllhalle zwischen Tor 16 + 17
+- TOP 7.4.9.: Thomas-Hauser-Straße (ohne Hausnummer), Fl.Nr.: 100/111 - Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID
+- TOP 7.4.10.: Jagdhornstraße (ohne Hausnummer), Fl.Nr.: 440/0 - Neubau von 4 Mehrfamilienhäusern mit Tiefgarage - VORBESCHEID (Jagdhorn- / Otto-Lederer-Weg)
+- TOP 7.4.11.: Kreillerstraße 194, Fl.Nr.: 356/0 - TEKTUR zu 1.1-2017-3228-32 - Neubau von Apartments für Senioren und Studenten mit Tiefgarage und gewerblicher Nutzung im EG (Tagespflege, Gastronomie und Laden)
+- TOP 7.4.12.: Michael-Seidl-Straße (ohne Hausnummer), Fl.Nr.: 310/13 - Neubau zweier Mehrfamilienhäuser (10 WE) mit gemeinsamer Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Anechostraße 19 Dresselstraße 3b Dresselstraße 4 Edeltrautstraße 4 Ernastraße 2 Ernastraße 5 Himalajastraße 62 Lebzelterstraße 17 Reiserstraße 1 Taku-Fort-Straße 13a
+- TOP 8.2.1.: Am Moosfeld 94 Dachsteinstraße 5-9 Feldbergstraße 18 - durch UNB genehmigt Feldbergstraße 65 Friedenspromenade 10 Häherweg 17 Häherweg 18 Hella-von-Westarp-Straße 46 - durch UNB abgelehnt Hippelstraße 5 Kreillerstraße 194 Lamprechtstraße 23 Markgrafenstraße 18 - durch UNB abgelehnt Paul-Henri-Spaak-Straße 14 Rothuberweg 8 - durch UNB genehmigt Schanderlweg 5 Schleienweg 4 Toni-Schmid-Straße 47 - durch UNB abgelehnt Wasserburger Landstraße 21-23 Wiesbachhornstraße 36
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Sachberichte
+- TOP 10.1.1.1: Chor- und Orchesterkonzert in St. Augustinus am 19.11.2017; Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V.
+- TOP 10.1.1.2: Neujahrskonzert am 1.1.2018, Katholische Kirchenstiftung "Christi Himmelfahrt"
+- TOP 10.1.1.3: Zuschuss für Anschaffungen für den Mittagstisch für Kinder, Eltern und Senioren, Familienzentrum Trudering
+- TOP 10.1.2.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 10.1.3.: BA-Informationsschreiben Nr. 02/2018; Abrechnung der Aufwandsentschädigung; Einsatz einer neuen Abrechnungssoftware
+- TOP 10.1.4.1: Helinam, Kleingaststätte, Truderinger Straße 263, 81825 München
+- TOP 10.1.4.2: Das Wohnzimmer, Schank- und Speisewirtschaft, Heinrich-Böll-Straße 75, 81829 München
+- TOP 10.1.4.3: Lezz-et Döner, Schank- und Speisewirtschaft, Zehntfeldstraße 139, 81825 München
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: (U) „Dialog-Displays“ in München Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch
+- TOP 10.2.2.1: Buszug-Einsatz auf den MVG-Linien 192 (Trudering Bahnhof - Neuperlach Zentrum) und 193 (Trudering Bahnhof - Haar Hans-Stießberger-Straße) Verlängerung von Halteverbotszonen an Haltestellen
+- TOP 10.2.2.2: Linienbusverkehre der MVG Änderungen zum Fahrplanwechsel am 10.12.2017 (Leistungsprogramm 2018)
+- TOP 10.2.3.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen 3. HINWEIS / ERGÄNZUNG VOM 21.12.2017
+- TOP 10.2.4.: Haltverbot Am Oberfeld / Widmannstraße Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.3.: Städtebauliche Entwicklung Münchner Nordosten – Informationen zum Sachstand: Ausblick Wettbewerb
+- TOP 10.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.5.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.2.1: Mönchbergstraße 14
+- TOP 10.4.2.2: Waldschulstraße 75 und 75a
+- TOP 10.4.2.3: Flußaalweg 10
+- TOP 10.4.2.4: Wasserburger Landstraße 279
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2017 – 2021 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 10.5.2.: Aktualisierung der Liste und Karte mit Standorten für Flüchtlinge und Wohnungslose Stand: Januar 2018
+- TOP 10.5.3.: (U) Sozialbürgerhaus Berg am Laim – Trudering – Riem Ergebnis Wirtschaftlichkeitsbetrachtung und weiteres Vorgehen 14. Stadtbezirk 15. Stadtbezirk Wann fällt endlich die Entscheidung zum Bau des SBH für die Stadtbezirke 14 und 15? Antrag Nr. 14-20 / A 02934 der Stadtratsfraktion DIE GRÜNEN/RLvom 07.03.2017 Befassung des Stadtrats zum gesatzten B-Plan 1598a, Sozialbürgerhaus und kulturelles Zentrum für die Stadtbezirke 14 und 15 auf dem städtischen Grundstück gegenüber dem Truderinger U/S-Bahnhof Antrag Nr. 14-20 / A 01242 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 22.07.2015 Standortsicherung für das Sozialbürgerhaus (SBH-BTR) Berg am Laim / Trudering-Riem am Truderinger Bahnhof - eine vierte Etage zulassen BA-Antrags-Nr. 14-20 / B 03445 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 16.03.2017 Standort SBH für Trudering entscheiden- oder die Suche nach dem "günstigsten" Standort BA-Antrags-Nr. 14-20 / B 01452 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 23.07.2015 Was geschieht mit dem Standort SBH Trudering? BA-Antrags-Nr. 14-20 / B 01147 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 23.04.2015
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
