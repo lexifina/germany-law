@@ -1,0 +1,57 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2018-02-23T16:00:00+01:00
+- Ende: 2018-02-23T21:20:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdUiEuN35xfAXMKVh1IG_vM
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3594
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdYbJZrTUxhj59T7-uRhCQ51CHbRtfAHJyH-_Exfhuh3/Einladung_Rat_23.02.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcVhGcsUqacqL7aayD22qh5gihvloO7l4vMozaWoazvR/Oeffentliche_Niederschrift_Rat_23.02.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 15.01.2018
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Projekt "Markthalle" Sachstandsbericht mit Präsentation
+- TOP A.10: Haushaltssatzung 2018 sowie mittelfristige Ergebnis- und Finanzplanung 2019 - 2021 hier: Verabschiedung der Haushaltssatzung 2018 mit ihren Anlagen
+- TOP zu A.10: Haushaltssatzung 2018 sowie mittelfristige Ergebnis- und Finanzplanung 2019 - 2021 hier: Verabschiedung der Haushaltssatzung 2018 mit ihren Anlagen - Bei 5 Enthaltungen und 16 Nein-Stimmen wurde mit 22 Ja-Stimmen folgender Beschluss gefasst: 
+- TOP zu A.10: Änderungsantrag der CDU-FRaktion zum Haushalt
+- TOP A.11: Stellenplan für das Haushaltsjahr 2018 - Bei 5 Enthaltungen und 16 Nein-Stimmen wurde mit 22 Ja-Stimmen folgender Beschluss gefasst: 
+- TOP A.7: Prüfung und Bestätigung des Gesamtabschlusses 2010 der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.8: Feststellung des Jahresabschlusses 2016, Ergebnisverwendung und Entlastung des Bürgermeisters - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.9: 4. Situationsbericht zur Haushaltswirtschaft 2017
+- TOP A.12: Anzeigepflicht von Nebentätigkeiten des Bürgermeisters nach dem Korruptionsbekämpfungsgesetz
+- TOP A.13: Kommunale Agenda 2030 Unterzeichnung der Erklärung des Deutschen Städtetages "2030-Agenda für Nachhaltige Entwicklung: Nachhaltigkeit auf kommunaler Ebene gestalten" - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Weiterentwicklung der Stadtteilzentren hier: Umsetzung eines Modellprojekts
+- TOP A.15: HerfordKarte hier: Sachstandsbericht und Erweiterung des Kreises der Berechtigten - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Gebührensatzung zur Unterbringung von Flüchtlingen, die als Asylberechtigte anerkannt bzw. nach der AWoV zugewiesen wurden hier: Anpassung/Änderung der Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Finanzielle Förderung des Seniorenbeirats hier: Einmalige Erhöhung des Budgets im Jahre 2018 - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.18: Entwicklung der Offenen Ganztagsgrundschulen in der Hansestadt Herford; hier: Ideen zur Neugestaltung der Ferienbetreuung für Grundschulkinder - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.19: Fassadenprogramm (ISEK Innenstadt) a) Fortsetzung 2018-2021 b) Aktualisierung der Vergaberichtlinie - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.20: Konversion: Abschluss der Konversionsvereinbarung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: 3. Änderung der Satzung für die Friedhöfe der Hansestadt Herford (Friedhofssatzung) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22: Bebauungsplan Nr. 4.56a "Wilhelmsplatz/Holland", Änd. Nr. 3.16 hier: Satzungsbeschluss - Bei 2 Enthaltungen und 3 Nein-Stimmen wurde mit 39 Ja-Stimmen folgender Beschluss gefasst: 
+- TOP A.23: Ortsrecht, hier: Aufhebung der Rechtsverordnung über die Bildung von Schulbezirken für die öffentlichen Grundschulen der Stadt Herford vom 06.01.1991 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Gremienbesetzungen:
+- TOP A.24a: Antrag der CDU-Fraktion bezüglich einer Nachbesetzung im Rechnungsprüfungsausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.24: Beschlussantrag der SPD-Fraktion zu TOP A.24 (Gremienbesetzungen) hier: Umbesetzungsvorschläge in städtischen Ausschüssen (HFA u. BauUA) sowie in Aufsichtsräten der Drittorga (HVV und SEH)
+- TOP A.25: Antrag der Fraktion DIE LINKE bezüglich Glyphosatverzicht
+- TOP A.26: Antrag der Fraktion B90/DIE GRÜNEN bezüglich "Mieterstrom in Liegenschaften der WWS" - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.27: Antrag der SPD-Fraktion bezüglich eines Prüfauftrags zur Umstellung des öffentlichen Personen-Nahverkehrs (ÖPNV) in Herford - Bei 19 Nein-Stimmen und ohne Enthaltung wurde mit 23 Ja-Stimmen der Antrag der SPD-Fraktion beschlossen: 
+- TOP zu A.27: Beschlussantrag der Fraktion B90/DIE GRÜNEN zum TOP A.27 (ÖPNV)
+- TOP A.28: Benennung von vier Vertrauenspersonen für den Ausschuss zur Wahl der Schöffinnen und Schöffen am Amtsgericht - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.29: Mitteilungen
+- TOP zu A.: Öffentlicher Teil
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 31.12.2017 b) Jahresprognose 2017 der Beteiligungsunternehmen
+- TOP A.5b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs- GmbH: Veräußerung der Beteiligung an der WPG Westfälische Propan GmbH, Genehmigung einer Dringlichkeitsentscheidung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5c: Westfalen Weser Beteiligungen GmbH: Veräußerung der Beteiligung an der WPG Westfälische Propan GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5d: Geschäftliche bzw. strategische Ausrichtung der SWK Servicegesellschaft für Wirtschaft und Kommunen mbH - Bei 6 Nein-Stimmen und einer Enthaltung wurde mit 36 Ja-Stimmen folgender Beschluss gefasst: 
+- TOP A.5e: Zentrales Projektcontrolling für wesentliche Bauprojekte im Konzern - Bei einer Enthaltung und 20 Nein-Stimmen wurde mit 21 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
