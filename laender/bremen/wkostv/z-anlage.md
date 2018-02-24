@@ -7,17 +7,37 @@ Nr. | Kostentatbestand | Kostensatz |
 122 | Sondernutzungen und allgemeine Ordnungsangelegenheiten |  | 
 122.09 | Genehmigung zum Gebrauch von offenem Feuer im Hafengebiet | 11,50 bis 78,00 | 
 123 | Geldwäscheprävention nach dem Geldwäschegesetz (GwG) |  | 
-123.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen nach dem GwG, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-123.01 | Zustimmung zur Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 9 GwG | 50,00 bis 1 000,00 | 
-123.02 | Anordnung zur Bestellung eines Geldwäschebeauftragten nach § 9 GwG | 50,00 bis 1 000,00 | 
+123.01 | Befreiung von der Dokumentation der Risikoanalyse nach § 5 GwG | 50,00 bis 1 000,00 | 
+123.02 | Anzeige der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 50,00 bis 1 000,00 | 
+123.03 | Untersagung der Durchführung interner Sicherungsmaßnahmen durch Dritte nach § 6 Absatz 7 GwG | 50,00 bis 1 000,00 | 
+123.04 | Anordnung zur Schaffung interner Sicherungsmaßnahmen nach § 6 Absatz 8 GwG | 50,00 bis 1 000,00 | 
  | durch Allgemeinverfügung | gebührenfrei | 
-123.03 | Anordnung zur Schaffung interner Sicherungsmaßnahmen nach § 9 GwG | 50,00 bis 1 000,00 | 
+123.05 | Anordnung nach § 6 Absatz 9 GwG | 50,00 bis 1 000,00 | 
  | durch Allgemeinverfügung | gebührenfrei | 
-123.04 | Bestimmung der risikoangemessenen Anwendung interner Sicherungsmaßnahmen nach § 9 GwG, sofern die Bestimmung auf Antrag erfolgt. | 50,00 bis 1 000,00 | 
-123.05 | Ausnahme von der Bestellung eines Geldwäschebeauftragten nach § 9 GwG | 50,00 bis 1 000,00 | 
+123.06 | Befreiung von der Bestellung eines Geldwäschebeauftragten nach § 7 Absatz 2 GwG | 50,00 bis 1 000,00 | 
+123.07 | Anordnung der Bestellung eines Geldwäschebeauftragten nach § 7 Absatz 3 GwG | 50,00 bis 1 000,00 | 
  | durch Allgemeinverfügung | gebührenfrei | 
-123.06 | Maßnahme oder Anordnung nach § 16 GwG | 50,00 bis 1 000,00 | 
-123.07 | Prüfung der Einhaltung der Anforderungen nach dem Geldwäschegesetz nach § 16 GwG, sofern der oder die Verpflichtete besonderen Anlass zur Durchführung der Kontrolle gegeben hat | 50,00 bis 1 000,00 | 
+123.08 | Anordnung der Abberufung eines Geldwäschebeauftragten nach § 7 Absatz 4 GwG | 50,00 bis 1 000,00 | 
+123.09 | Anordnung nach § 9 Absatz 3 GwG | 50,00 bis 1 000,00 | 
+123.10 | Anordnung nach § 15 Absatz 8 GwG | 50,00 bis 1 000,00 | 
+123.11 | Anordnung, Untersagung oder Widerruf nach § 51 Absatz 5 GwG | 50,00 bis 1 000,00 | 
+130 | Vollzug des Prostituiertenschutzgesetzes (ProstSchG) |  | 
+130.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen nach dem ProstSchG, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
+130.01 | Anmeldebescheinigung nach § 5 ProstSchG | 16,00 | 
+130.02 | Anordnung nach § 11 ProstSchG | 50,00 bis 2 500,00 | 
+130.03 | Erlaubnis zum Betrieb eines Prostitutionsgewerbes nach § 12 ProstSchG | 250,00 bis 25 000,00 | 
+ | Für Auflagen und Bedingungen ist Nummer 130.06 anzuwenden. Für die Rücknahme und den Widerruf ist Nummer 130.11 anzuwenden. |  | 
+130.04 | Stellvertretungserlaubnis nach § 13 ProstSchG | 120,00 bis 2 500,00 | 
+130.05 | Zuverlässigkeitsprüfung nach § 15 Absatz 3 ProstSchG | 120,00 bis 2 500,00 | 
+130.06 | Auflage oder Anordnung nach § 17 ProstSchG, auch in Verbindung mit den §§ 20, 21 ProstSchG | 120,00 bis 25 000,00 | 
+130.07 | Entgegennahme der Anzeige einer Prostitutionsveranstaltung nach § 20 Absatz 1 ProstSchG | 180,00 | 
+130.08 | (Teil-) Untersagung einer Prostitutionsveranstaltung nach § 20 ProstSchG | 120,00 bis 17 500,00 | 
+130.09 | Entgegennahme der Anzeige der Aufstellung eines Prostitutionsfahrzeuges nach § 21 Absatz 1 ProstSchG | 180,00 | 
+130.10 | (Teil-) Untersagung der Aufstellung eines Prostitutionsfahrzeuges nach § 21 ProstSchG | 120,00 bis 17 500,00 | 
+130.11 | Rücknahme und Widerruf von Erlaubnissen nach § 23 ProstSchG | 250,00 bis 25 000,00 | 
+ | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
+130.12 | Beschäftigungs-/Tätigkeitsverbot nach § 25 Absatz 3 ProstSchG | 250,00 bis 2 500,00 | 
+130.13 | Nachkontrolle eines Prostitutionsgewerbebetriebes nach den §§ 29 bis 31 ProstSchG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | nach Zeit- und Sachaufwand zzgl. Auslagen | 
 143 | Fischereiwesen |  | 
 143.00 | Fischereischein mit Fischereiprüfung | 64,00 | 
 143.01 | Fischereischein nach § 9 Fischereigesetz (Stockangler) | 32,00 | 
@@ -39,7 +59,7 @@ Nr. | Kostentatbestand | Kostensatz |
  | Im automatisierten Verfahren | gebührenfrei | 
 150.02 | Erweiterte Einzelauskunft | 16,00 | 
  | Im automatisierten Verfahren | 13,00 | 
-150.03 | Anzeige über den Beginn oder die Verlegung eines Gewerbebetriebes sowie über Veränderungen und die Aufgabe des Gewerbe einschließlich des Empfangs der Anzeigebescheinigung (§ 14 Absatz 1 i.V.m. § 15 Absatz 1 GewO) |  | 
+150.03 | Anzeige über den Beginn oder die Verlegung eines Gewerbebetriebes sowie über Veränderungen und die Aufgabe des Gewerbes einschließlich des Empfangs der Anzeigebescheinigung (§ 14 Absatz 1 i.V.m. § 15 Absatz 1 GewO) |  | 
  | Gewerbeanmeldung | 32,00 | 
  | Gewerbeummeldung | 18,00 | 
  | Gewerbeabmeldung | gebührenfrei | 
@@ -50,44 +70,45 @@ Nr. | Kostentatbestand | Kostensatz |
 150.07 | Erlaubnis nach § 33a GewO | 146,00 | 
  | Spielgeräte und Spiele mit Gewinnmöglichkeiten |  | 
 150.08 | Erlaubnis zum Aufstellen technischer Spielgeräte mit Gewinnmöglichkeit nach § 33c Absatz 1 GewO | 332,00 bis 1 897,00 | 
-150.09 | Bestätigung der Geeignetheit eines Aufstellungsortes für Spielgeräte nach § 33c Absatz 3 GewO | 550,00 | 
+150.09 | Bestätigung der Geeignetheit des Aufstellungsortes für Spielgeräte nach § 33c Absatz 3 GewO | 332,00 bis 768,00 | 
 150.10 | Erlaubnis zum Veranstalten eines anderen Spieles mit Gewinnmöglichkeiten nach § 33d GewO | 332,00 bis 1 897,00 | 
 150.11 | Erlaubnis zum Betrieb einer Spielhalle oder eines ähnlichen Unternehmens | 477,00 bis 8 866,00 | 
  | Pfandleihgewerbe |  | 
 150.12 | Erlaubnis zum Betrieb des Pfandleih- oder Pfandleihvermittlungsgewerbes nach § 34 GewO | 192,00 | 
  | Bewachungsgewerbe |  | 
 150.13 | Erlaubnis zum Betrieb des Bewachungsgewerbes nach § 34a GewO | 435,00 bis 1 920,00 | 
-150.14 | Meldung je Wachperson gemäß § 9 Absatz 3 Bewachungsverordnung (BewachV) | 53,00 | 
-150.15 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 59,00 bis 408,00 | 
-150.16 | Abmeldung je Wachperson nachgemäß § 9 Absatz 3 BewachV | 8,00 | 
+150.14 | Meldung je Wachperson gemäß § 9 Absatz 3 Bewachungsverordnung (BewachV) | 80,00 | 
+150.15 | Überprüfung eines Bewachungsgewerbetreibenden oder einer Wachperson nach § 34a Absatz 1 (i.V.m. § 34a Absatz 1a) GewO oder aus besonderem Anlass | 80,00 bis 1 800,00 | 
+150.16 | Abmeldung je Wachperson nach § 9 Absatz 3 BewachV | 8,00 | 
 150.17 | Abmeldung je Wachperson nach § 9 Absatz 3 BewachV nach behördlichem Hinweis | 48,00 | 
 150.18 | Untersagung der Beschäftigung einer Wachperson nach § 34a Absatz 4 GewO | 94,00 bis 581,00 | 
  | Versteigerergewerbe |  | 
 150.19 | Versteigerererlaubnis nach § 34b GewO | 128,00 | 
  | Maklergewerbe |  | 
 150.20 | Erlaubnis nach § 34c Absatz 1 GewO | 294,00 bis 1 001,00 | 
- | Finanzanlagenvermittlergewerbe |  | 
-150.21 | Erlaubnis zum Betrieb des Finanzanlagevermittlergewerbes nach § 34f Absatz 1 GewO | 294,00 bis 1 001,00 | 
-150.22 | Untersagung der Beschäftigung von Beratungs- und Vermittlungspersonal nach § 34f Absatz 6 GewO | 94,00 bis 581,00 | 
-150.23 | Erlaubnis zum Betrieb des Finanzanlagenvermittlergewerbes nach § 157 Absatz 2 GewO | 165,00 | 
  | Gewerbeuntersagung |  | 
-150.24 | Untersagung eines Gewerbes wegen Unzuverlässigkeit oder aus anderen Gründen nach § 35 GewO Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. | 250,00 bis 4 740,00 | 
-150.25 | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes | 424,00 | 
+150.21 | Untersagung eines Gewerbes wegen Unzuverlässigkeit oder aus anderen Gründen nach § 35 GewO | 250,00 bis 4 740,00 | 
+ | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
+150.22 | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes | 424,00 | 
  | Überwachungsbedürftiges Gewerbe |  | 
-150.26 | Zuverlässigkeitsüberprüfung nach § 38 Absatz 1 Satz 1 GewO | 59,00 bis 929,00 | 
-150.27 | Auskunftsanforderung nach § 38 Absatz 1 Satz 3 GewO (zusätzlich zu den Kosten für das Führungszeugnis oder/und die Gewerbezentralregisterauskunft) | 41,00 | 
- | Erlöschen von Erlaubnissen |  | 
-150.28 | Fristverlängerungen nach § 49 Absatz 3 GewO | 18,00 | 
- | Reisegewerbe |  | 
-150.29 | Erteilung einer Reisegewerbekarte nach § 55 GewO | 128,00 | 
-150.30 | Erteilung einer Zweitschrift oder Ersatzausfertigung einer Reisegewerbekarte | 37,00 | 
-150.31 | Änderung oder Ergänzung der Reisegewerbekarte | 17,00 | 
-150.32 | Untersagung des Reisegewerbes nach § 59 GewO Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. | 86,00 bis 238,00 | 
-150.33 | Untersagung eines Wanderlagers nach § 56a GewO | 128,00 | 
-150.34 | Ausstellung oder Verlängerung der Geltungsdauer einer Gewerbelegitimationskarte nach § 55b Absatz 2 GewO | 128,00 | 
-150.35 | Änderung oder Ergänzung der Gewerbelegitimationskarte | 18,00 | 
-150.36 | Erlaubnis nach § 60a GewO für die Veranstaltung von Glücksspielen auf Jahrmärkten und ähnlichen Veranstaltungen | 128,00 bis 429,00 | 
-150.37 | Festsetzung von Veranstaltungen nach § 69 Absatz 1 GewO | 61,00 bis 1 207,00 | 
+150.23 | Zuverlässigkeitsüberprüfung nach § 38 Absatz 1 Satz 1 GewO | 59,00 bis 929,00 | 
+150.24 | Auskunftsanforderung nach § 38 Absatz 1 Satz 3 GewO (zusätzlich zu den Kosten für das Führungszeugnis oder/und die Gewerbezentralregisterauskunft) Erlöschen von Erlaubnissen | 41,00 | 
+150.25 | Fristverlängerungen nach § 49 Absatz 3 GewO Reisegewerbe | 18,00 | 
+150.26 | Erteilung einer Reisegewerbekarte nach § 55 GewO | 128,00 | 
+150.27 | Erteilung einer Zweitschrift oder Ersatzausfertigung einer Reisegewerbekarte | 37,00 | 
+150.28 | Änderung oder Ergänzung der Reisegewerbekarte | 53,00 | 
+150.29 | Untersagung des Reisegewerbes nach § 59 GewO | 86,00 bis 238,00 | 
+ | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
+150.30 | Untersagung eines Wanderlagers nach § 56a GewO | 128,00 | 
+150.31 | Ausstellung oder Verlängerung der Geltungsdauer einer Gewerbelegitimationskarte nach § 55b Absatz 2 GewO | 128,00 | 
+150.32 | Änderung oder Ergänzung der Gewerbelegitimationskarte | 18,00 | 
+150.33 | Erlaubnis nach § 60a GewO für die Veranstaltung von Glücksspielen auf Jahrmärkten und ähnlichen Veranstaltungen Messen, Ausstellungen, Märkte, Volksfeste | 128,00 bis 429,00 | 
+150.34 | Festsetzung von Veranstaltungen nach § 69 Absatz 1 GewO Für die Rücknahme und den Widerruf ist die Nummer 150.38 anzuwenden. | 61,00 bis 1 207,00 | 
+ | Für die Rücknahme und den Widerruf ist die Nummer 150.38 anzuwenden. |  | 
+150.35 | Nachträgliche Erteilung von Auflagen nach § 69a Absatz 2 GewO, abweichende Regelung nach § 69b Absatz 1 GewO sowie Aufhebung oder Änderung nach § 69b Absatz 3 GewO | 32,00 bis 604,00 | 
+150.36 | Untersagung der Teilnahme nach § 70a GewO | 63,00 bis 326,00 | 
+ | Nachweis Haftpflichtversicherung, Aufhebung von Erlaubnissen |  | 
+150.37 | Nachforderung eines gesetzlich vorgeschriebenen Nachweises der Haftpflichtversicherung | 27,00 | 
 150.38 | Rücknahme und Widerruf von Gewerbeerlaubnissen nach den Vorschriften des Allgemeinen Verwaltungsrechts Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. | 245,00 bis 4 740,00 | 
 151 | Bremisches Spielhallengesetz (BremSpielhG) |  | 
 151.01 | Erlaubnis zum Betrieb eines Spielhallengewerbes Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist die Nummer 151.02 anzuwenden. Für die Rücknahme und den Widerruf ist die Nr. 150.38 anzuwenden. | 477,00 bis 8 866,00 | 
@@ -100,7 +121,7 @@ Nr. | Kostentatbestand | Kostensatz |
 16 | Gaststättenwesen |  | 
 160 | Amtshandlungen nach dem Bremischen Gaststättengesetz (BremGastG) und der Bremischen Gaststättenverordnung (BremGastV) |  | 
 160.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gaststättenangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist die Nummer 160.04 anzuwenden. Für die Rücknahme und den Widerruf ist die Nummer 150.38 anzuwenden. | 128,00 | 
+160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist Nummer 160.04 anzuwenden. Für die Rücknahme und den Widerruf ist Nummer 150.38 anzuwenden. | 189,00 | 
 160.02 | Vorübergehende Erlaubnis zum Betrieb eines Gaststättengewerbes nach § 2 Absatz 3 BremGastG | 53,00 | 
 160.03 | Fristverlängerung nach § 2 Absatz 5 BremGastG | 18,00 | 
 160.04 | Anordnungen und Auflagen nach Erteilung der Erlaubnis nach § 2 Absatz 2 BremGastG und Anordnungen bei erlaubnisfreien Gaststättenbetrieben nach § 2 Absatz 6 BremGastG | nach Zeit- und Sachaufwand zzgl. Auslagen | 
