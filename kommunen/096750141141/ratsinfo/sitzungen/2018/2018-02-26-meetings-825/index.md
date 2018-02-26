@@ -1,0 +1,62 @@
+# Sitzung des Stadtrates - Haushaltsberatungen (Vermögenshaushalt)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2018-02-26T17:00:00+01:00
+- Ende: 2018-02-26T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/825
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/825
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00033708.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00033850.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Beratung des Vermögenshausaltes 2018 mit Investitionsprogramm 2017 - 2021
+- TOP 2.1: 0600.9350 - Einrichtung für die gesamte Verwaltung, Büroausstattung Anfrage von Stadträtin Kahnt
+- TOP 2.2: 0601.9350 - Informations- und Kommunikationstechnik, neue Präsentationstechnik Neuer Sitzungssaal Anfrage von Stadträtin Schwab
+- TOP 2.3: 2111.9355/9356 - St. Hedwig-Schule Schulausstattung (auch offener Ganztag) Anfrage von Stadträtin Glos
+- TOP 2.4: 2111.9610 - St. Hedwig-Schule, Zusätzliche Leuchte am Treppenaufgang Anfrage von Stadträtin Kahnt
+- TOP 2.5: UA 2431 - Sanierung Friedrich-Bernbeck-Schule Anfrage von Stadtrat Moser
+- TOP 2.6: 3210.9358/3211.9358 - Beschaffung von Museums- bzw. Archivgut Anfrage von Stadträtn Kahnt
+- TOP 2.7: 3212.9882 - Konditoreimuseum Kitzingen, Machbarkeitsstudie Anfrage von Stadträtin Glos
+- TOP 2.8: 3331.9350 - Musikschule, Innenausstattung der neuen Räume Anfrage von Stadtrat Pauluhn
+- TOP 2.9: 3420.9631 - Alte Synagoge, Einbau Klimanlage und Erneuerung der Technik Antrag von Stadtrat Pauluhn - abgelehnt
+- TOP 2.10: 3601.9580 Naturschutz, Landschaftspflege, Planung/Umsetzung Öko-Konto Anfrage von Stadträtin Dr. Endres-Paul
+- TOP 2.11: 4351.9453/9490 - Obdachlosenunterkünfte, Konzepterstellung und Sanierung Anfrage von Stadtrat Moser
+- TOP 2.12: 4643.9880 - Waldkindergarten, Zuschuss für Bauwagen Hinweis von Stadtkämmerin Erdel
+- TOP 2.13: 4605.9490 - jungStil Erstellung Machbarkeitsstudie "Standort Gebäude f. Jugend und Familie" Anfrage von Stadträtin Glos
+- TOP 2.14: 5500.9880 - Förderung des Sports, Investitionszuschüsse an Sportvereine Antrag der UsW-Fraktion - beschlossen
+- TOP 2.15: 5800.9350 - Grünanlagen und öffentliche Grünflächen, Ruhebänke und Abfallbehälter Anfrage von Stadträtin Schwab
+- TOP 2.16: 5651.9490 - Florian-Geyer-Halle, Machbarkeitsstudie zur Prüfung der Eignung als Veranstaltungshalle Hinweis von Stadtkämmerin Erdel
+- TOP 2.17: 6021.9340 - Bauamt Ersatzbeschaffung Plotter Hinweis von Stadtkämmerin Erdel
+- TOP 2.18: 5921.9550 - Trimm-Dich-Pfad Anfrage von Stadtrat Pauluhn
+- TOP 2.19: 5931.9350 - Spielplätze - Ersatz von Spielgeräten Anfrage von Stadträtin Kahnt
+- TOP 2.20: 6300.9560 - Gemeindestraßen, Spurrillenbeseitigung Westtangente Anfrage von Stadtrat Pauluhn
+- TOP 2.21: 6347.9501 - Erweiterung Baugebiet Buddental West Anfrage von Stadträtin Schwab
+- TOP 2.22: 6315.9501 - Panzerstraße Anfrage von Stadtrat Popp
+- TOP 2.23: 6401.9510 - Herstellung von barrierefreien Wegen in der Innenstadt Anfrage von Stadträtin Dr. Endres-Paul
+- TOP 2.24: 6402.9506 - Straßenausbau Amalienweg Anfrage von Stadtrat Müller
+- TOP 2.25: 6403.9560 - Sickershäuser Weg, Neugestaltung im Bereich des Kindergartens Anfrage von Stadträtin Schmidt
+- TOP 2.26: 6406.9560 - Fischergasse, Kaiserstraße, Königsplatz, Luitpoldstraße; Neugestaltung nach Übernahmen Staatsstraße Anfrage von Stadtrat Moser
+- TOP 2.27: 6482.9560 - Generalsanierung Alte Mainbrücke Anfrage von Stadtrat Moser
+- TOP 2.28: 6483.9560 - Anprallschutz Alte Mainbrücke Anfrage von Stadtrat Steinruck
+- TOP 2.29: 6405.9560/9590 Umgestaltung Oberer Mainkai Hinweis von Stadtkämmerin Erdel
+- TOP 2.30: 6488.9560 - Brücke über Eherieder Mühlbach Hinweis von Stadtkämmerin Erdel
+- TOP 2.31: 6810.9501 - Errichtung P+R Anlage Bahnhof Süd Anfrage von Stadträtin Glos
+- TOP 2.32: 6605.9504 - Sanierung B 8 von Würzburger Tor bis Marshall Heights Anfrage von Stadtrat Moser
+- TOP 2.33: 6901.9580/9590 - Neubau Kaimauer Oberer Mainkai Hinweis von Stadtkämmerin Erdel
+- TOP 2.34: UA 7080 - Kläranlage Investitionskostenanteile Mitgliedsgemeinden Anfrage von Stadträtin Schwab
+- TOP 2.35: 7512.9357 - Neuer Friedhof, Beschaffung von Kehrbesen und Streuer für Trägerfahrzeug Anfrage von Stadträtin Kahnt
+- TOP 2.36: 7711.9352 - Arbeitsgeräte und Maschinen Bauhof Anfrage von Stadträtin Kahnt
+- TOP 2.37: 7512.9580 - Neuer Friedhof, Friedwiese Beschaffungen von Pultsteinen Anfrage von Stadträtin Schwab
+- TOP 2.38: 7902.9630 Wohnmobilstellplatz Anfrage von Stadträtin Glos
+- TOP 2.39: 8801.9452 - Sanierung Galgenwasen 13 - 20 Anfrage von Stadträtin Schmidt
+- TOP 2.40: 8551.9320 - Erwerb Waldgrundstück in der Klinge von der BIMA Anfrage von Stadtrat Dr. Pfeiffle
+- TOP 2.41: 8810.9500/9590 Errichtung Zwischenlagerfläche und überdachter Lagerraum für Böden im Gewerbegebiet Goldberg Anfrage von Stadträtin Schwab
+- TOP 2.42: 6905.9501 - Hochwasserfreilegung Eherieder Mühlbach Anfrage von Stadträtin Glos
+- TOP 2.43: Anfrage von Stadträtin Kahnt Mittel für Neubau/Unterstützung Tierheim
+- TOP 2.44: Anfrage von Stadtrat Moser Mittel für Stadtplanung
