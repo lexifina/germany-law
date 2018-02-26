@@ -1,0 +1,6 @@
+# TOP 1.: Bestellung eines Schriftführers/einer Schriftführerin
+
+- Sitzung: Ausschuss für BürgerInnenservice (8. Sitzung) (2018-02-26)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/46412
