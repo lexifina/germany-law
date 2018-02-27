@@ -1,0 +1,56 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2018-02-27T17:00:00+01:00
+- Ende: 2018-02-27T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/826
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/826
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00033720.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00033902.pdf
+
+## Tagesordnung
+
+- TOP 1: Budgetfestlegung
+- TOP 1.1: Budgetfestlegung für das Haushaltsjahr 2018 - beschlossen
+- TOP 1.2: Budgetfestlegung 2018 für SG 12 /IT - beschlossen
+- TOP 1.3: Budgetfestlegung für das Haushaltsjahr 2018: - beschlossen
+- TOP 1.4: Budgetfestlegung für das Haushaltsjahr 2018: - beschlossen
+- TOP 1.5: Budgetfestlegung für das Haushaltsjahr 2018; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2131, 2132, 2431 - beschlossen
+- TOP 1.6: Budgetfestlegung für das Haushaltsjahr 2018; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2131, 2132 und 2431 - beschlossen
+- TOP 1.7: Budgetfestlegung für das Haushaltsjahr 2018; Gesamtbudget "Sportanlagen" - UA 2151, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 1.8: Budgetfestlegung für das Haushaltsjahr 2018; Budget der Alten Synagoge - UA 3420 - - beschlossen
+- TOP 1.9: Budgetfestlegung für das Haushaltsjahr 2018 Budget Stadtarchiv - UA 3211 - beschlossen
+- TOP 1.10: Budgetfestlegung für das Haushaltsjahr 2018 - beschlossen
+- TOP 1.11: Budgetfestlegung für das Haushaltsjahr 2018;Budget Musikschule - UA 3331 - beschlossen
+- TOP 1.12: Budgetfestlegung für das Haushaltsjahr 2018; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 1.13: Budgetfestlegung für das Haushaltsjahr 2018; Budget der Volkshochschule - UA 3501 - - beschlossen
+- TOP 1.14: Budgetfestlegung HHJ.2018 Stadtbücherei/SG 132 Unterabschnitt 3521 - beschlossen
+- TOP 1.15: Budgetantrag jungStil 2018 - beschlossen
+- TOP 1.16: Budgetfestlegung für das Haushaltsjahr 2017; Budget Gärtnerei - UA 5821 - - beschlossen
+- TOP 1.17: Budgetfestlegung für das Haushaltsjahr 2018; - beschlossen
+- TOP 1.18: Budgetfestlegung für das Haushaltsjahr 2018; - beschlossen
+- TOP 1.19: Budgetfestlegung für das Haushaltsjahr 2018 - beschlossen
+- TOP 1.20: Budgetfestlegung für das Haushaltsjahr 2018, Budget: Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7693 - beschlossen
+- TOP 1.21: Budgetfestlegung für das Haushaltsjahr 2018; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 1.22: Budgetfestlegung für das Haushaltsjahr 2018; Budget Touristinfo - UA 7901 - beschlossen
+- TOP 1.23: Budgetfestlegung für das Haushaltsjahr 2018; „Städtischer Waldbesitz“ - UA 8551 - - beschlossen
+- TOP 1.24: Budgetfestlegung für das Haushaltsjahr 2018; Wohngrundstücke, sonstige bebaute Grundstücke - UA 8801, UA 8802 - beschlossen
+- TOP 1.25: Budgetfestlegung für das Haushaltsjahr 2018; „Sonstiges Allgemeines Grundvermögen“ - UA 8891 - - beschlossen
+- TOP 2: Beratung des Verwaltungshaushaltes 2018 mit Finanzplanung 2017 - 2021
+- TOP 2.1: Vorbericht von Stadtkämmerin Erdel zum Verwaltungshaushalt
+- TOP 2.2: Mittel für die BR-Radl-Tour Information von Oberbürgermeister Müller
+- TOP 2.3: 4351.6556 - Obdachlosenunterkünfte Honorare Anfrage von Stadträtin Schmidt
+- TOP 2.4: 0000.6314 - Städtepartnerschaften Anfrage von Stadträtin Schwab
+- TOP 2.5: Gruppierungsnummer 6510 - Bücher, Zeitschriften, Ergänzungslieferungen Anfrage von Stadträtin Schwab
+- TOP 2.6: 2111.6326 - St. Hedwig-Schule, Betreuungskosten für Asylbewerberkinder Anfrage von Stadträtin Glos
+- TOP 2.7: Anfrage von Stadträtin Glos Sachstand KITA-Bus
+- TOP 2.8: Anfrage von Stadtrat Moser Kosten für die Beamtenversorgung
+- TOP 2.9: UA 1146 - Taubenmanagement Anfrage von Stadträtin Schwab
+- TOP 2.10: 7000.5151/5152 Unterhalt von Entwässerungsanlagen, Kanaluntersuchung Anfrage von Stadträtin Schwab
+- TOP 2.11: UA Abwasserbeseitigung, Mess-Stationen-Partnergemeinden Anfrage von Stadträtin Schwab
+- TOP 2.12: 7902.1789 Wohnmobilstellplatz, Zuschüsse von Wirtschaftsförderung zum Ausgleich des Defizit Anfrage von Stadträtin Schwab
+- TOP 3: Beratung des Verwaltungs- und Vermögenshaushaltes 2018 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2017 . 2021
