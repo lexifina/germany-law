@@ -1,0 +1,59 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-02-27T14:05:00+01:00
+- Ende: 2018-02-27T15:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18708
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18708
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651282.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651282.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651282.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Filmclip: Kinder- und jugendfreundliches Köln – Wir sind startklar!
+- TOP 1.4.2: Präsentation ,,Demokratie leben - Projektarbeit''
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe; hier: "DBC Don-Bosco-Club Köln gGmbH" - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Monti Ecke gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Jugendtreffs im Stadtgebiet - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Entwicklung Stadtteilmütter-Projekt in Mülheim
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Nachlieferung zum TOP 8.2.2 der Sitzung vom 07.11.2017 "Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln" - Liste der bilingualen Kindertageseinrichtungen in Köln - Kenntnis genommen
+- TOP 7.1.2: Fachstellen "Extremismus- und Gewaltprävention" - Kenntnis genommen
+- TOP 7.1.3: Angaben zur Qualifikation der Beschäftigten in Großtagespflegen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Erste Rückmeldung zu Fragen und Hinweisen zur Kölner Jugendbefragung 2018 aus der JHA-Sitzung 16.01.2018 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Fertiggestellte Maßnahmen auf öffentlichen Spiel- und Bolzplätzen in 2017 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Erfahrungsbericht zum Projekt „Pädagogische Begleitung und Integrationshilfen für Roma-Familien“ (2010-2016) - Kenntnis genommen
+- TOP 8.5.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler Hier: Aktueller Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 8.5.3: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 8.5.4: AN/1130/2017 Wohnsiedlung „Im Mönchsfeld„ in Roggendorf/Thenhoven - Kenntnis genommen
