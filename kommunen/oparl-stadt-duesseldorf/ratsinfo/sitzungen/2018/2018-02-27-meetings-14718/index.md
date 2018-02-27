@@ -1,0 +1,52 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-02-27T17:00:00+01:00
+- Ende: 2018-02-27T18:44:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14718
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14718
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311133.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311133.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311133.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorstellung eines neuen Mitglieds der Bezirksvertretung 5 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift 1/2018 - abweichend beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - abweichend beschlossen
+- TOP 6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Schulen - abweichend beschlossen
+- TOP 7: Einmalige Verlängerung des Schützenfestes 2018 in Stockum um einen Tag - einstimmig beschlossen
+- TOP 8: Trödelmärkte auf dem Messeparkplatz P1 im 1. Halbjahr 2018 - einstimmig beschlossen
+- TOP 9: Verkehrssicherheit in Wittlaer - wechselseitiges Parken Bockumer Straße
+- TOP 10: Radwegehauptnetz im Stadtbezirk 5 - Sachstand
+- TOP 11: Perspektiven Erweiterung Kinderspielplatz Hoppengarten - beantwortet
+- TOP 12: Wittlaer - Verkehrserschließung
+- TOP 13: Rheinbahn - Warteunterstände mit digitalisierten Plakat-Vitrinen
+- TOP 14: Kaiserswerther Straße - Lärmreduzierung - beantwortet
+- TOP 15: Kreisverkehr Rahmer Straße/Angermunder Straße - beantwortet
+- TOP 16: Einrichtung Drop-on/Drop-off Zone Grundschule Farnweg
+- TOP 17: Verkehrsentlastung im Düsseldorfer Norden - Ausbau B8/Danziger Straße im Abschnitt zwischen A44 und
+- TOP 18: Herrichtung Barbarossawall - beantwortet
+- TOP 19: Ankauf, Verkauf, Neubau oder nicht in Lohausen? Was gilt denn nun? - beantwortet
+- TOP 20: Verkehrssicherheit Querungshilfe Rahmer Straße/Kalkweg
+- TOP 21: Terminalvorfahrt am Flughafen Düsseldorf - beantwortet
+- TOP 22: U 79 - never ending story
+- TOP 23: Ampelrückstau Ecke Kaiserswerther Straße/Stockumer Kirchstraße - beantwortet
+- TOP 24: Stellplatzkapazitäten "Neue Sporthalle Franz-Vaahsen-Grundschule Wittlaer" - beantwortet
+- TOP 25: Erhöhung der Verkehrssicherheit am "Weg nach den Hingbenden" - beantwortet
+- TOP 26: Bedeutung der geplanten Ratinger Weststrecke für den Stadtbezirk 5
+- TOP 27: Anwohnerparken im Einzugsbereich des Schulstandortes Koetschaustraße
+- TOP 28: Ordnungspolitische Kontrolle zu Großveranstaltungen im und um die Wohngebiete rund um "Am Hain" - beantwortet
+- TOP 29: Krisenmanagement bei Sturm im Stadtbezirk 5 - beantwortet
+- TOP 30: Zukunftsperspektive ehemaliger Spielplatz Gottfried-Keller-Straße - Drogenschwerpunkt austrocknen
+- TOP 31: Verkehrssicherungspflicht im Schlosspark Kalkum - zurückgezogen
+- TOP 32: Zusätzliche Haltestelle für die Buslinie 896 am Freiligrathplatz - einstimmig beschlossen
+- TOP 33: Instandsetzung der Rad- und Wanderwege an der Alte Kalkumer Straße - einstimmig beschlossen
+- TOP 34: Stellungnahmen und Mitteilungen - 27.02.2018 - zur Kenntnis genommen
+- TOP 35: Verschiedenes - zur Kenntnis genommen
