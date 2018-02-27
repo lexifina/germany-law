@@ -1,0 +1,144 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-02-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595027
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595027
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.3.: Fahrkartenautomat am Roecklplatz (vgl. TOP C 4.26)
+- TOP 5.4.: Bürgerin; Fotos zu Versorgungscontainern auf Gehweg vor Netto-Filliale Klenzestr.
+- TOP 5.5.: Problematik: Schrotträder (vgl. TOP C 1.7)
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Unterrichtung der Mieter über den Inhalt von Abwendungserklärungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Forum Homosexualität München e.V. - Lesben u. Schwule in Geschichte + Kultur „Wegmarken – Frauenprojekthaus Treibhaus" am 18.04.18 200,00€ Az. 0262.0-2-0208
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kindertheater im Fraunhofer Kindertheaterfestival „10 Jahre – 10 Tage – 10 Stücke“ vom 07. - 16.03.2018 1.000,00€ Az. 0262.0-2-0209
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Majostics" Interkulturelles Friedensprojekt im März 2018 2.650,00€ Az. 0262.0-2-0207
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Bayerstr. 77-77a, Ausbau Dachspitz zu 2 WE, Neubau eines Wohn- und Bürogebäudes; Verschiedene Aus- und Umbauten; Baumfällungen
+- TOP 3.1.2.: Schwanthalerstr. 49; Nutzungsänderungen / Umbauten im 2. und 3. OG des Geschäftshauses
+- TOP 3.1.3.: Adolf-Kolping-Str. 7; Umbau und Nutzungsänderung Verkaufsraum zu Wohnungen
+- TOP 3.1.4.: Schmellerstr. 18; Sanierung und Umbau DG u.a.; TEKTUR -Plenumsbeschluss-
+- TOP 3.1.5.: Pettenkoferstr. 24, Teilaufstockung, Um-Ausbau DG, Tektur -Plenumsbeschluss-
+- TOP 3.1.6.: Adolf-Kolping-Str. 9, Nutzungsänderung; Laden zu Shishabar -Plenumsbeschluss-
+- TOP 3.2.1.: Baumfällung I EPO (Tiefgarage), Bob-von-Benthem Platz 1
+- TOP 3.2.2.: Baumfällung II EPO (9 Bäume), Bob-von-Benthem Platz 1
+- TOP 3.2.3.: Baumfällung III EPO (Nachbargrundstück), Bob-von-Benthem Platz 1
+- TOP 3.3.1.: Festsetzung des Überschwemmungsgebietes an der Isar innerhalb der Stadtgrenzen der LH München; Erlass einer Rechtsverordnung
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Informationen über Planungen der U9 und Auswirkungen für den Stadtbezirk: Neuer Bahnhof als Ersatz für Implerstr. Und Poccistr., Neuer Bahnhof am Esperantoplatz.
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: BA-Antrag, Fahrradsicherheit Herzog-Heinrich-Str. Abschnitt I
+- TOP 1.2.: BA-Antrag, Fahrradsicherheit Herzog-Heinrich-Str. Abschnitt II
+- TOP 1.3.: BA-Antrag, Fahrradsicherheit Georg-Hirth-Platz
+- TOP 1.4.: BA-Antrag, Fahrradsicherheit Kreuzung Kapuziner/Lindwurm/Herzog-Heinrich-Str.
+- TOP 1.5.: Durchsetzung des Haltverbots für Reisebusse innerhalb des Sperrringes beim Oktoberfest
+- TOP 1.6.: Antrag; Gleichwertiger Winterdienst in Fahrradstraßen -Plenumsbeschluss-
+- TOP 1.7.: Antrag; Einmalige Entfernung aller Schrotträder -Plenumsbeschluss-
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: FSF Lindwurmstr. 10, geänderter Antrag -Plenumsbeschluss-
+- TOP 2.3.1.: (E) Lindwurmstraße stadtauswärts: Ampelertüchtigung für links abbiegende Radfahrer in die Reisingerstraße
+- TOP 2.3.2.: (E) Einbahnregelung Klenzestraße beibehalten
+- TOP 2.3.3.: (E) Aktive und passive Lärmschutzmaßnahmen entlang der Bahnbrücke Reifenstuel- / Dreimühlenstraße Empfehlung Nr. 14-20 / E 01831 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017
+- TOP 2.3.4.: (E) Kaputte Parkbänke an der Theresienwiese ersetzen Empfehlung Nr. 14-20 / E 01816 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 09.11.2017
+- TOP 2.3.5.: (E) Schnellere Entfernung von Schmierereien (Graffitis) an historischen Bauwerken Empfehlung Nr. 14-20 / E 01830 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 09.11.2017
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Veranstaltung im Nußbaumpark jeweils Juni-August 2018-2020
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Baureferat, Erinnerungsverfahren, Wittelsbacherbrücke - PLENUMSBESCHLUSS
+- TOP 3.3.2.: Aufstellung von Sitzgelgenheiten; Kapuzinerstr. 45 -Plenumsbeschluss-
+- TOP 3.3.3.: Baureferat, Erinnerungsverfahren Erhardtstr. Zwischen Corneliusbrücke und Ludwigsbrücke -Plenumsbeschluss-
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürger; Straßenreinigung im Bahnhofsviertel / Reinigungsklasse 1+
+- TOP 5.2.: Einbahnstraßen Südfriedhof
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Projekt Öffentliche Bücherschränke
+- TOP A 4.4.: Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung „Schlachthofviertel“; Antwort zu BA-Antrag Nr. 14-20 / B04200
+- TOP A 4.5.: Fristverlängerung zu BA-Antrag Nr. 14-20/B04365 Spielplatz für größere Kinder / kindgerechte Gestaltung der Wiese am KuBu / Spielmöglichkeiten an der Isar
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Paul-Heyse-Straße 18; Erweiterung und Aufstockung eines Hotels – Vorbescheid vom 18.01.2018
+- TOP B 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.4.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP B 4.5.: Baugenehmigung; Adolf-Kolping-Stra. 10, Errichtung eines Kulturdachgartens
+- TOP B 4.6.: Schreiben des Münchner Forums, Freiraum Konzept 2030
+- TOP B 4.7.: Baugenehmigung Schmellerstr. 7
+- TOP B 4.8.: Baugenehmigung; Thalkirchner Str. 110
+- TOP B 4.9.: Baugenehmigung; Pettenkoferstr, 26-28
+- TOP B 4.10.: Baugenehmigung; Schillerstr. 24, Wettbüro
+- TOP B 4.11.: Entfernung von Gefahrenbäumen zwischen Zenneck- und Ludwigsbrücke
+- TOP B 4.12.: Begrünung Tumblingerstraße 7 bis 17
+- TOP B 4.13.: Stellungnahme der Landeshauptstadt München zum Bau eines dritten Tram-Gleises am Bahnhofsvorplatz München Hauptbahnhof
+- TOP B 4.14.: Fällung von Gefahrenbäumen; Museumsinsel
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.6.: Erste Antragsunterlagen für „Pink Christmas“ 2018
+- TOP C 4.7.: Die Stadt möge mehr und größere Mülleimer entlang der Landwehrstraße installieren
+- TOP C 4.8.: (U) Fünf Plätze attraktiv neu gestalten A) Willibaldplatz im 25. und 21. Stadtbezirk Projektkosten (Kostenobergr.): 2.300.000 € (darin enth.: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 190.000 € (brutto)) 1. Projektgenehmigung 2. Anmeldung zum MIP 2017 - 2021 B) Ubostraße / Altostraße im 22. Stadtbezirk 1. Kenntnisnahme von der Projektgenehmigung des Projektes auf dem Verwaltungsweg 2. Anmeldung zum MIP 2017 - 2021 C) St.-Pauls-Platz im 2. Stadtbezirk Projektkosten (Kostenobergr.): 4.100.000 € (darin enth.: Anteil SWM: 70.000 € (netto)) 1. Projektgenehmigung 2. Bavariaring Schrägparkplätze, BA-Antrag Nr. 14-20 / B 02655 3. Anmeldung zum MIP 2017 - 2021 D) Siegestor im 3. und 12. Stadtbezirk Projektkosten (Kostenobergr.): 5.450.000 € 1. Projektgenehmigung 2. Einräumung des Vorrangs der Ergebnisse der Bürgerbeteiligung vor gegenläufigen Empfehlungen der Stadtgestaltungskommission 3. Anmeldung zum MIP 2017 - 2021 E) Rosenheimer Str. / Lilienstr. / Zeppelinstr. im 5. Stadtbezirk 1. Platzgestaltung Verkehrsraum am Gasteig 2./3. Radweg a. d. Zeppelinstr., BA-Anträge Nr. 08-14 / B 05324 u. Nr. 08-14 / B 05325 4. Neugestaltung/Erweiterung d. Umgriffs/Sanierung Teilst. Rosh. Str., BA-Antrag Nr. 08-14 / B 05487 5. Gegenläufiger Radweg Zeppelinstr., BA-Antrag Nr. 14-20 / B 02192 6. Baumpflanzung Lilienstr., BA-Antrag Nr. 14-20 / B 02515 7. Anmeldung zum MIP
+- TOP C 4.9.: Fahrradabstellplätze für die Goethestraße, Zwischennachricht zum BA-Antrag Nr. 14-20/B 04283 vom 21.11.2017
+- TOP C 4.10.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP C 4.11.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP C 4.12.: (U) Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas-Wimmer-Rings unter Einschluss des Isartorplatzes Anträge und Empfehlungen 1. Isartorplatz neu gestalten - Verbindung Altstadt - Isar stärken Antrag Nr. 08-14 / A 04617 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.09.2013 2. Isartorplatz - Neugestaltung Thomas-Wimmer-Ring für Platzgestaltung nutzen Antrag Nr. 14-20 / 00829 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.03.2015 3. Umgestaltung und Aufwertung des Isartorplatzes Empfehlung Nr. 14-20 / E 00352 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 04.12.2014 4. Die Gestaltung des Isartorplatzes (Nr. 1 des Antrags) Empfehlung Nr. 14-20 / E 00809 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt Lehel am 03.12.2015 5. Verkehrsführung und Fahrräder (Nr. 2 des Antrags) Bürgerversammlung des Stadtbezirkes 01 - Altstadt lehel am 03.12.2015
+- TOP C 4.13.: Luftreinhaltung: Weiterentwicklung der Umweltzone München inkl. Behandlung des BA-Antrags Nr. 14-20 / B 03899 vom 25.07.2017 „Maßnahme zur Einhaltung der Stickoxid-Grenzwerte“, Sitzungsvorlage Nr. 14-20 / V 10628
+- TOP C 4.14.: Einrichtung einer (Baustellen)Ampel Kreuzung Ruppert-/Tumblingerstraße, Antwort des KVR auf BA-Schreiben vom 13.12.2017 (TOP 2017.12 C 5.1)
+- TOP C 4.15.: Tiefgarage St.-Pauls-Platz
+- TOP C 4.16.: Karlsplatz 25, Umgesataltung der öffentlichen Verkehrhsflächen im Vorfeld des „Hotel Köngishof“, Schreiben des Baureferats
+- TOP C 4.17.: Bachräumungstermine 2018
+- TOP C 4.18.: Schaffung einer Fahrradstraßen-Route zwischen Sendlinger Tor und Baldeplatz
+- TOP C 4.19.: Sonnwendfeuer auf der Theresienwiese
+- TOP C 4.20.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP C 4.21.: (U) Zukunftsfähigkeit des Münchner U-Bahn-Netzes –Bekenntnisbeschluss für die Entlastungsspange U9 sowie dafür erforderliche Vorhaltemaßnahmen für einen zusätzlichen U-Bahnhof am Hauptbahnhof a) Sachstandsbericht und weiteres Vorgehen b) Finanzierung Änderungen des Mehrjahresinvestitionsprogrammes 2017 bis 2021 - Anmeldungen zum Haushalt 2018 ff c) "Nahverkehrsplan für die LH München II – U9 nicht um jeden Preis" Antrag Nr. 14-20 / A 1960 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.03.2016 d) "Überlegungen zur U9" BA-Antrags-Nr. 14-20 / B 03839 des Bezirksausschusses des Stadtbezirkes 22 – Aubing-Lochhausen-Langwied vom 19.07.2017
+- TOP C 4.22.: Antwort KVR; Bürgeranliegen Autos parken auf Fahrradweg, Thalkirchner Str./Ehrengutstr
+- TOP C 4.23.: Temporäre Spielstraße Ecke Baumstraße /Jahnstraße mit Dringlichkeit
+- TOP C 4.24.: Zwischennachricht des KVR zu BA-Antrag Nr. 14-20 / B 04509 Geschwindigkeitsmessungen Herzog-Heinrich-Str.
+- TOP C 4.25.: Aufstellung von MVG Fahrkartenautomaten
+- TOP C 4.26.: Antwort KVR; Übertragung Fußball-WM und Freischankflächen
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP D 4.2.: BA Informationsschreiben 02/18; Abrechnungs der Aufwandsentschädigungen; Einsatz einer neuen Abrechnnungssoftware
