@@ -1,0 +1,61 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-02-27T17:00:00+01:00
+- Ende: 2018-02-27T19:35:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14900
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14900
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311011.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311011.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311011.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zurückgezogen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Kanalbaumaßnahme Bergische Landstraße und Gräulinger Straße - zur Kenntnis genommen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2018) - einstimmig beschlossen
+- TOP 8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 9: Abfallcontainer Grafenberger Allee vor REWE - mehrheitlich abgelehnt
+- TOP 10: Gewässerbewirtschaftungskonzept Pillebach - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Entfernung Rot-Weißer Baustellenzaun Benderstraße – B7 - zurückgezogen
+- TOP 13: Verbesserung der Grundversorgung bei Herzinfarkten - zurückgezogen
+- TOP 14: Ratten im Tunnel Gerresheimer Bahnhof - zur Kenntnis genommen
+- TOP 15: Sachstand Unterführung Gerresheimer Bahnhof - einstimmig beschlossen
+- TOP 16: E-Tankstelle am P+R-Platz Gerresheimer Krankenhaus - abweichend beschlossen
+- TOP 17: Kanalarbeiten Gerresheim Süd - einstimmig beschlossen
+- TOP 18: Verkehrssicherung im Zuge der Kanalbaumaßnahme Höherhofstraße / Heckteichstraße - einstimmig beschlossen
+- TOP 19: Überwachung des ruhenden Verkehrs im Viertel Heckteichstraße/Höherhofstraße - einstimmig beschlossen
+- TOP 20: Kanalarbeiten Gerresheim Süd - einstimmig beschlossen
+- TOP 21: Überwachung des ruhenden Verkehrs im Viertel Heckteichstraße/Höherhofstraße - einstimmig beschlossen
+- TOP 22: Freies Wlan für den Stadtbezirk - zurückgezogen
+- TOP 23: Jüdische Erinnerungsorte im Stadtteil Gerresheim / Jüdischer Friedhof Quadenhofstraße - einstimmig beschlossen
+- TOP 24: Radfahren entgegen Einbahnstraße Geibelstraße - einstimmig beschlossen
+- TOP 25: Fußgängerquerung Schubertstraße - einstimmig beschlossen
+- TOP 26: Erhaltungssatzung Dreifaltigkeitsstr. - abweichend beschlossen
+- TOP 27: Städtischer Wohnungsbau im Glasmacherviertel - mehrheitlich abgelehnt
+- TOP 28: Mündlicher Sachstand über die Gastronomie im Bereich Alter Markt und weiterer Umgegbung - abweichend beschlossen
+- TOP 29: Grütersaaper Weg - vertagt
+- TOP 30: Flächennutzung im Stadtbezirk - vertagt
+- TOP 31: Gräulinger Straße Asphaltierung - vertagt
+- TOP 32: Untertunnelung S-Bhf. Gerresheim - vertagt
+- TOP 33: Förderfähigkeit von Verkehrsvorhaben - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Toilette der Firma Wall an der Haltestelle Gerresheimer Rathaus - zur Kenntnis genommen
+- TOP 36: Anliegerverkehr Gerricusplatz - zur Kenntnis genommen
+- TOP 37: Lärmschutz für die Anwohner „Im Heidewinkel“ - vertagt
+- TOP 38: Fortgang Bebauung Quellenbusch - zur Kenntnis genommen
+- TOP 39: Kfz-Zulassungszahlen im Stadtbezirk 7 - vertagt
+- TOP 40: Pflaster Gerricusplatz - zur Kenntnis genommen
+- TOP 41: Be- und Entladen auf der Regenbergastraße 6-8 - zur Kenntnis genommen
+- TOP 42: Restaurierung der Wege Gerresheimer Waldfriedhof und Hubbelrather Friedhof - zur Kenntnis genommen
+- TOP 43: Beleuchtung der Rheinbahn-Fahrgastunterstände Am Schmidtberg - zur Kenntnis genommen
+- TOP 44: Verbesserung der Situation für Radfahrer/-innen an der Kreuzung Dreherstr./Torfbruchstr. - zur Kenntnis genommen
