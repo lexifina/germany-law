@@ -1,0 +1,152 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-02-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4738980
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4738980
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.1.: Konzept Veranstaltung zum öffentlichen Raum
+- TOP 6.6.2.: Stadtteilinformation / Willkommensschreiben bei Anmeldung eines neuen Wohnsitzes
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.5.2.: Kulturgespräch Projektreview
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Fußgängerampel Landshuter Allee (Westseite) / Ecke Leonrodstraße
+- TOP 3.2.2.: Baustraße 2. Stammstrecke: Beseitigung des Fahrradweges Hauptbahnhof-Laim-Pasing in Höhe ESV / Laimer Unterführung
+- TOP 3.2.3.: Baustellenstraße 2. Stammstrecke: Baustellenabwicklung und Lärmschutz im Bereich Engasserbogen / Eisnergutbogen
+- TOP 3.2.4.: UA Verkehr: Themen aus der Kita-Konferenz: - Straßenfeste vor Kindertagesstätten - Fahrradparkplatz Kapschstraße (Ortstermin) - Winthirstraße 25 - Ortstermin wg. Hol-Bring-Situation an Kita
+- TOP 3.2.5.: Parkplatzsituation Lizenzgebiet Albrechtstraße / Fahrradstreifen Nymphenburger Straße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Verkehrsrechtliche Anordnung Beschilderung "Kinder" und "Schule" im Bereich Notburgastraße / Südliche bzw. Nördliche Auffahrtsallee
+- TOP 3.3.2.: Schaffung eines Park & Ride - Systems an der Anschlussstelle der Autobahn A8 - Anhörung zur Bürgerversammlungsempfehlung Nr. 14-20 / E 01371 vom 17.11.2016
+- TOP 3.3.3.: Parklizenzgebiete Rotkreuzplatz I + II: Vorstellung der Maßnahmenplanung
+- TOP 3.3.4.: Austausch von Lichtsignalanlagen: Baldur-/ Dantestraße
+- TOP 3.3.5.: Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz, - Trassierungsbeschluss - Beschlussvorlage Nr. 14-20 / V 10614 für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Stadtplanung und Bauordnung, Bau- und Kreisverwaltungsausschuss am 07.03.2018
+- TOP 3.3.6.: Wettbewerb Gestaltung Romanplatz - Umsetzungsumfang Ideenteil Weiteres Vorgehen zum ehem. Stationshaus (Romanplatz 7) Finanzierung für die öffentlichen Verkehrsflächen 1. Anpassung der Betrauung 2. Genehmigung des Projektkostenanteils des Baureferates Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft und des Kommunalausschusses am 13.03.2018 (VB) Sitzungsvorlage Nr. 14-20 / V 10095
+- TOP 3.3.7.: Erinnerungsverfahren des Baureferates zu Tiefbauarbeiten: - Hubertusstraße Asphaltarbeiten - Hohenlohestraße Asphaltarbeiten - Palestrinastraße Asphaltarbeiten - Hubertusstraße Fahrbahnsanierung - Renatastraße Radwegsanierung
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Freigabe des Teilstücks des Südlichen Schlossrondells zwischen Kanalbrücke und Schlosswirtschaft für den Radverkehr in beide Richtungen
+- TOP 3.4.2.: Entschärfung der Abbiegesituation Nördliches Schlossrondell / Maria-Ward-Str. für Radfahrer
+- TOP 3.4.3.: Wotanstraße, Höhe Herthastraße bis Magarethe-Danzi-Straße Richtung Laimer Unterführung: Einrichten eines beidseitig befahrbaren Fahrradwegs
+- TOP 3.4.4.: Radverkehrsführung Dachauer Straße in Höhe Postillonstraße
+- TOP 3.4.5.: Weiterführung der Fahrradstraße Hohenlohestraße in die Demollstraße
+- TOP 3.4.6.: Durchgehende Fahrradstraße entlang des Nymphenburg-Biedersteiner-Kanals zwischen Menzinger Straße und Dantestraße
+- TOP 3.4.7.: Verlegung des Radweges an der Dachauer Straße zw. Funkerstr. und Lazarettstr.
+- TOP 3.4.8.: Winthirplatz Richtung Wendl-Dietrich-Straße: Freigeben für Radverkehr entgegen der Einbahnregelung
+- TOP 3.4.9.: Errichtung eines Zaunes am Bahndamm "An der Schlossmauer"
+- TOP 3.4.10.: Bauarbeiten für die 2. S-Bahn-Stammstrecke (Ersatzpflanzungen Bäume, Bauverkehr, Informationsveranstaltung)
+- TOP 3.4.11.: Zusätzliche Parkverbotszonen im Bereich Schloßschmidstraße / Eisnergutbogen
+- TOP 3.4.12.: Separate Fahrradampel für die Kreuzungen Heideckstraße und Hedwig-Dransfeld-Allee in der Dachauer Straße
+- TOP 3.4.13.: Änderung der Verkehrsregelung in der Lothstraße
+- TOP 3.4.14.: Fahrbahnsanierung in der Funkerstraße
+- TOP 3.4.15.: Aufrüstung der Lichtzeichenanlage von der Guntherstraße in die Arnulfstraße
+- TOP 3.4.16.: Richelstraße als Ab- und Anfahrtszone für die Großbaustelle zur 2. Stammstrecke
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verlängerung der Buslinie 153
+- TOP 3.5.2.: Verbesserung des Kreuzungsbereiches Leonrodplatz für den Fuß- und Radverkehr - Ergebnisse Ortstermin vom 30.01.2018
+- TOP 3.5.3.: Kreuzungsumbau Menzinger Straße / Wintrichring: 1. Bauabschnitt März bis November 2018
+- TOP 3.5.4.: Verkehrsrechtliche Anordnungen des KVR: - Wegweisung zum Hirschgarten - Haltverbot Richelstraße - Neueinrichtung Taxistandplatz Steubenplatz - Haltestelle Hanebergstraße - Haltestelle Gaiglstraße - Haltestelle Maillingerstraße - Haltestelle Landshuter Allee - Haltestelle Lazarettstraße - Haltestelle Lothstraße - Haltestelle Thorwaldsenstraße - Rosa-Bavarese-Straße - Margarethe-Danzi-Straße
+- TOP 3.5.5.: (U) Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahn-Haltepunkt Donnersbergerbrücke im 3. Stadtbezirk Maxvorstadt, im 8. Stadtbezirk Schwanthalerhöhe und im 9. Stadtbezirk Neuhausen - Nymphenburg Projektkosten (Ausführungskosten): für Brückenkonstruktion 13.900.000 € für Erschließungsanlagen 4.800.000 € für Eingriffe in Bahnbetrieb und -anlagen 7.500.000 € 1. Ausführungsgenehmigung 2. Änderung des Mehrjahresinvestitionsprogrammes 2017 - 2021
+- TOP 3.5.6.: (U) Laimer Unterführung - "Umweltverbundröhre" im 9. Stadtbezirk Neuhausen - Nymphenburg und im 25. Stadtbezirk Laim 1. Projektgenehmigung für die planfestgestellte Lösung Projektkosten (Kostenobergrenze): 96.675.000 € Anteil LHM: 85.525.000 € 2. Genehmigung der Tektur zur planfestgestellten Lösung mit Mehrkosten von max. 10 Mio. Euro Anteil LHM: max. 10 Mio. Euro 3. Änderung des Mehrjahresinvestitionsprogrammes 2017 - 2021
+- TOP 3.5.7.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: BIOTOPIA | Aktualisierung des Verkehrsgutachtens
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Ensembleschutz für das Gebiet Hirschgartenallee, Wotanstraße, Frickastraße und Mechthildenstraße
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörungen über Bauvorhaben: - Gutenbergstraße 3 - Gutenbergstraße 18 - Rupprechtstraße 18 - Schwere-Reiter-Straße 2
+- TOP 4.3.2.: Erlass einer Erhaltungssatzung in Neuhausen nordöstlich des Rotkreuzplatzes - Anhörung zur Empfehlung Nr. 14-20 / E 01879 der Bürgerversammlung am 05.12.2017
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Schutzzaun entlang des Bahndamms am Nymphenburger Park
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten über Bauvorhaben im Stadtbezirk
+- TOP 4.5.2.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 4.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Schadstoffbelastung an der Landshuter Allee
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anträge auf Baumentfernung - Maria-Ward-Straße 8 - Rüthlingstraße 7
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Müllproblem entlang des Schlosskanals
+- TOP 5.4.2.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.4.3.: Finanzielle Aufstockung der Freiraumpauschale
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 5.5.2.: Bachräumungstermine 2018 für die Stadt- bzw. Stadtrandbäche
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Fällungsgenehmigung Klugstraße 113
+- TOP 5.6.2.: Veranstaltung Begrünung Klarastraße / Wanderbaumallee
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Entfernung der Parkbank an der Ecke Stadtsparkasse, Leonrodstraße 72 Empfehlung Nr. 14-20 / E 01871 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: UA Soziales: Themen aus der Kita-Konferenz: - MVG-Tickets und Museumseintritt für Kinder 6+ frei - München-Pass für sämtliche Ferien
+- TOP 6.2.2.: Erbpachtgrundstücke der Eisenbahnergenossenschaft München West
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Ausschreibung: Kinder-Aktions-Koffer 2018/2019 zur Beteiligung von Kindern im Alter von 7 bis 14 Jahren an der Stadtbezirksentwicklung
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Spielbuseinsätze 2018 - Spielen in der Stadt
+- TOP 6.4.2.: Zweckentfremdung von Wohnraum konsequent unterbinden
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Ideen zum Angebot für Jugendliche im Hirschgarten
+- TOP 6.5.2.: BA-Budget Kurzberichte - Verwendungsnachweise: - Lilalu Sommerspielprogramm 2017 - Treff Mosaik Spielgeräte
+- TOP 6.6: Verschiedenes
+- TOP 6.6.3.: Konzept Veranstaltung zum öffentlichen Raum
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse MachWerk e.V. Aufstellung eines Bücherschrankes 8.293,50€ Az. 0262.0-9-0258
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse brennt GmbH Veranstaltung „Hörgang 2018“ in Neuhausen/Nymphenburg am 05.05.18 10.000,00€ Az. 0262.0-9-0259
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Initiative "Kultüren" Veranstaltung „Kultüren 2018“ am 06./07.10.2018 2.540,00€ Az. 0262.0-9-0260
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: UA Kultur: Themen aus der Kita-Konferenz: - Litfaßsäule vor Waisenhaus
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Geplante Vermietung städt. Flächen im Kreativquartier: Wannda e.V. - Kulturfestival 2018 vom 10.04. - 13.06.18
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Regelmäßiges "Forum" im Kreativquartier
+- TOP 7.5.3.: BA-Budget Kurzberichte - Verwendungsnachweise: - Kunstprojekt Niwenhaus - Doppelveranstaltung Theater Blaue Maus
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Förderverein Dom-Pedro-Grundschule e.V. Anschaffung von 15 Apple IPads 6.600,00 Euro 0262.0-9-0249
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: UA Bildung: Themen aus der Kita-Konferenz: - Personal - Kita-Finder - Eintrittspreis Schwimmbäder - Mittagsbetreuung freie Gebäude Waisenhaus (Ortstermin)
+- TOP 8.2.2.: Schulgebäude Margarethe-Danzi-Straße
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Hirschgarten: Sanierung Skateanlage "Street"
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Verlängerung Mietvertrag für Ausdruckstanzgruppe im Dantestadion
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Veranstaltung "Wings for Life Worldrun 2018" im Olympiapark am 06.05.2018
+- TOP 9.3.2.: Fahrradkorso - Sternfahrt des ADFC München e.V. am 22.04.2018
+- TOP 9.3.3.: Tollwood Sommerfestival am Theaterfestivalgelände Olympiapark - 27.06. - 22.07.2018
+- TOP 9.3.4.: Italienischer Markt "Gusti del mediterrano" vom 23.-28.03.2018 auf dem Rotkreuzplatz
+- TOP 9.3.5.: Italienischer Markt "Die Kunst des ital. Geschmacks" vom 16.-21.03.2018 auf dem Rotkreuzplatz
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Information zur Abrechnung der Aufwandsentschädigung
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
