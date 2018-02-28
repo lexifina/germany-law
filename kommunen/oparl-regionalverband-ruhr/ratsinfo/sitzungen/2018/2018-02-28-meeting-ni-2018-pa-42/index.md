@@ -1,0 +1,51 @@
+# 17. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-02-28T10:00:00+01:00
+- Ende: 2018-02-28T12:25:00+01:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-PA-42
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-PA-42
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-PA-42
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-PA-42
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP -: Bestellung einer stellvertretenden Schriftführerin für die heutige Sitzung
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift (öffentlicher Teil) der 16. Sitzung des Planungsausschusses vom 22.11.2017
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Gleichstromverbindung A-Nord - Trassenverlauf
+- TOP 2.2: 9. Änderung des Regionalplans für den Regierungsbezirk Münster Teilabschnitt Emscher Lippe im Gebiet der Stadt Gladbeck Erweiterung des Allgemeinen Siedlungsbereichs (ASB) Aufstellungsbeschluss
+- TOP 2.3: 89. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Kamp-Lintfort hier: Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) mit zweckgebundener Nutzung „Übertägige Betriebsanlagen und -einrichtungen des Bergbaus“ in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gelände des ehema-ligen Bergwerks West in Kamp-Lintfort Aufstellungsbeschluss
+- TOP 2.4: Anträge
+- TOP 2.5: Anfragen und Mitteilungen
+- TOP 2.5.1: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 3: Regionaler Diskurs / Regionalplan Ruhr
+- TOP 3.1: Umweltbericht zum Regionalplan Ruhr, Sachstandsbericht
+- TOP 3.2: Hinweise zu den fachlichen und rechtlichen Erarbeitungsgrundlagen des Arbeitsentwurfs der Ziele und Grundsätze des Regionalplans Ruhr
+- TOP 3.3: Frühzeitige Unterrichtung zum Regionalplan gem. § 9 Abs. 1 Raumordnungsgesetz
+- TOP 3.4: Information über die geplanten Änderungen des Landesentwicklungsplanes NRW und potenzielle Konsequenzen für die Aufstellung des Regionalplans Ruhr
+- TOP 3.5: Beirat Regionaler Diskurs Hier: Personelle Umbesetzung
+- TOP 3.6: Anfragen und Mitteilungen
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Evaluierung und Neufassung der Kriterien zur Anerkennung als Ankerpunkt der Route der Industriekultur
+- TOP 4.2: Fahrradverleihsystem metropolradruhr Hier: Jahresbericht 2017
+- TOP 4.3: Aktuelle Entwicklungen in Fahrradverleihsystemen Hier: Sachstandsbericht
+- TOP 4.4: Weiterentwicklung Regionales Radwegenetz Hier: Netzplanung und weiteres Vorgehen
+- TOP 4.5: Erarbeitung der zweiten Stufe des Regionalen Mobilitätsentwicklungskonzeptes für die Metropole Ruhr hier: Sachstandsbericht
+- TOP 4.6: Radschnellwege in der Metropole Ruhr Hier: Sachstandsbericht
+- TOP 4.7: Regionale ZukunftsLAND 2016 - Projekt WALDband hier: Sachstandsbericht
+- TOP 4.8: BMBF-Forschungsvorhaben 'ZUKUR - Zukunft Stadt-Region-Ruhr' im Rahmen der BMBF-Leitinitiative Zukunftsstadt Hier: Sachstandsbericht
+- TOP 4.9: Anträge
+- TOP 4.10: Anfragen und Mitteilungen
+- TOP 4.10.1: Bericht zur Stadtentwicklung 2017 – Stadtentwicklung in der Region – Interkommunales Handeln
+- TOP 4.10.2: Bericht über laufende Verfahren - RVR als Träger öffentlicher Belange
+- TOP 4.10.3: Datenerhebung Mobilität in Deutschland 2016 hier: Mündliche Berichterstattung
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
