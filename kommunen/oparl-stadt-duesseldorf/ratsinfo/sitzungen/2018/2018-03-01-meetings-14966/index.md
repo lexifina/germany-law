@@ -1,0 +1,75 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-03-01T17:00:00+01:00
+- Ende: 2018-03-01T18:19:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14966
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14966
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311380.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311380.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311380.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 5: Städtebauliches Workshopverfahren Nr. 08/011 - Jägerstraße / Festenbergstraße - - einstimmig beschlossen
+- TOP 6: Spezialmarkt "Düsseldorfer Herbstfestival" - einstimmig beschlossen
+- TOP 7: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2018 - einstimmig beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 im Jahre 2018 - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Haltestellenneubau Kamper Weg - beantwortet
+- TOP 11: Integrierte Quartiersentwicklung im Stadtbezirk 8 - beantwortet
+- TOP 12: Verkehrsknotenpunkte im Stadtbezirk 8 - beantwortet
+- TOP 13: Stellenbesetzungen in Kindertageseinrichtungen des Stadtbezirks 8 - beantwortet
+- TOP 14: Reinigung in Grundschulen im Stadtbezirk 8 - beantwortet
+- TOP 15: Bürgerhaus Eller - beantwortet
+- TOP 16: Grundstück Königsberger Straße 91 - beantwortet
+- TOP 17: Grundstück Großer Torfbruch 12 - beantwortet
+- TOP 18: Umbau Sebastiansweg - beantwortet
+- TOP 19: Straßenreinigung im Stadtbezirk 8 - beantwortet
+- TOP 20: Auswirkung des Grand Central auf den Stadtbezirk 8 - beantwortet
+- TOP 21: Zuständigkeit des OVA für Straßen des Radhauptnetzes im Stadtbezirk 8 - beantwortet
+- TOP 22: Metrobus und Beschleunigungsmaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 23: Lärmaktionsplan 2 im Stadtbezirk 8 - beantwortet
+- TOP 24: Verkehrsregelung Sandträgerweg - mehrheitlich beschlossen
+- TOP 25: Sanierungsmaßnahmen GGS Arnstadter Weg - einstimmig beschlossen
+- TOP 26: Alter und Pflege im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 27: Gehweg Am Kleinforst - einstimmig beschlossen
+- TOP 28: Gehweg Erlenkamp - einstimmig beschlossen
+- TOP 29: Fahrbahnsanierung Gothaer Weg - zurückgezogen
+- TOP 30: Hausmeisterwohnung der GGS Vennhauser Allee 160-162 - mehrheitlich beschlossen
+- TOP 31: Blühstreifen Kamper Weg / Neusalzer Weg - einstimmig beschlossen
+- TOP 32: Sicherheit an Rheinbahnhaltestellen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 33: Spielplatz GGS Bingener Weg - einstimmig beschlossen
+- TOP 34: ÖPNV im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Verkehrsregelung An der Schützenwiese - zur Kenntnis genommen
+- TOP 36: Grundstück Ellerkirchstraße 57 - zur Kenntnis genommen
+- TOP 37: Kreuzungsbereich Karlsruher Straße / Heidelberger Straße / Bernburger Straße / Alt-Eller - zur Kenntnis genommen
+- TOP 38: Radweg Reisholzer Straße - zur Kenntnis genommen
+- TOP 39: Gestaltung der Stadtteileingänge im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Sauberkeit im Bereich Gumbertstraße - zur Kenntnis genommen
+- TOP 41: Flüstergleise im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Grundstück Vennhauser Allee 254 - zur Kenntnis genommen
+- TOP 43: Parkregelung Vennhauser Allee - zur Kenntnis genommen
+- TOP 44: Verkehrsregelung Drosselstraße / Vennhauser Allee - zur Kenntnis genommen
+- TOP 45: Tempo 30 - Piktogramm auf der Krippstraße - zur Kenntnis genommen
+- TOP 46: Parkplätze Kleingartenverein Unterbach 1947 e.V. - Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 47: Verkehrssituation Sandträgerweg - zur Kenntnis genommen
+- TOP 48: Plakatwände Unterführung Vennhauser Allee - zur Kenntnis genommen
+- TOP 49: Tempo 30 - Piktogramme im Bereich Schweidnitzer Straße / Breslauer Straße / Schlesische Straße - zur Kenntnis genommen
+- TOP 50: Kindertageseinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Bürgersaal in Eller - zur Kenntnis genommen
+- TOP 52: Jugendfreizeiteinrichtung Chemnitzer Straße - zur Kenntnis genommen
+- TOP 53: Videoüberwachung S-Bahnhöfe Eller Süd und Eller Mitte - zur Kenntnis genommen
+- TOP 54: Verbesserung der Erreichbarkeit der Innenstadt - zur Kenntnis genommen
+- TOP 55: Lärmmessung am Abstellbahnhof Speyerweg - zur Kenntnis genommen
+- TOP 56: Straßenreinigung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 57: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 58: Metrobus und Beschleunigungsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
