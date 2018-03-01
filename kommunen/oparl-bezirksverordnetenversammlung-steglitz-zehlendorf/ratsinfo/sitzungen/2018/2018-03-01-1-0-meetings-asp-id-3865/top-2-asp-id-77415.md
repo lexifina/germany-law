@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls vom 25.01.2018
+
+- Sitzung: 9. öffentliche Sitzung des Ausschusses für Hochbau-, Gebäude- und IT-Verwaltung (2018-03-01)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=77415
+- Ergebnis: erledigt
