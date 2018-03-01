@@ -1,0 +1,1 @@
+Auf Grund des Art. 4 Abs. 3 Satz 1 und 3 des Bayerischen Ingenieurgesetzes (BayIngG) vom 12. Juli 2016 (GVBl. S. 156, BayRS 702-2-W) verordnet das Bayerische Staatsministerium für Wirtschaft und Medien, Energie und Technologie im Einvernehmen mit dem Bayerischen Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst:
