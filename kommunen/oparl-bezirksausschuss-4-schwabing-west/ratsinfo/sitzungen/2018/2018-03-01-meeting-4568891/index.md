@@ -1,0 +1,107 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-03-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4568891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4568891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 6.1.: Jahresempfang des Bezirksausschusses
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.6.: Termin mit der Aton-Schule (vgl. Unterrichtung TOP B 3.1.2)
+- TOP 2.7.: Sportkindergarten Destouchesstraße
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.5.: Buswartehäuschen Scheidplatz
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Hänsel und Gretel" Jugendkulturprojekt „Hänsel und Gretel“ von Mitte März – Ende Juli 2018 5.000,00€ Az. 0262.0-4-0191
+- TOP 2.2.: Antrag auf Verlängerung des Bewilligungszeitraums für die aus dem BA-Budget geförderte Reparatur des Lastenaufzugs im Condrobs-Kontakladen
+- TOP 2.3.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Projekt "Kicklusion - Alle spielen mit!" im Luitpoldpark am 09.09.2018 850,00 Euro Az.: 0262.0-4-0192
+- TOP 2.4.: (E) Budget des Bezirksausschüsse MobilSpiel e.V. Projekt „Kicklusion – Alle spielen mit!“ am 05.08.2018 1.478,00€ Az. 0262.0-4-0190
+- TOP 2.5.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2018-2022 (vgl. TOP D 2.6 und E 2.2.3)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: SommerSpielAktion 2018: Wasserspielbus am 02.-04.08.2018 im Ackermannbogen
+- TOP 3.1.2.: Unterstützung für das Baugrundstück für die Aton-Schule München (Dankschreiben der Schulleitung mit Beschreibung der Schule und des konkreten Bedarfs sowie Einladung an den UA)
+- TOP 3.1.3.: Grundschule Farinellistraße: Marode Fenster und Verschönerung der Schulmauer: Mögliche Nutzung des städtischen Grundstücks Prinz-Eugen-/Düsseldorfer Straße für die Aton-Schule (Antwort des Referats für Bildung und Sport auf BA-Schreiben vom 31.01.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Destouchesstr. 42 / Degenfeldstraße (gegenüber Getränkemarkt): Aufstellung eines Zeitungsentnahmegeräts
+- TOP 2.3.1.: „Wings for Life World Run“ am 06.05.2018
+- TOP 2.3.2.: „Iftar“Fastenbrechen im Luitpoldpark: Zwei konkurrierende Veranstaltungen am 02.06. bzw. 26.05.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid für Kabarettabend in der Pfennigparade
+- TOP 3.3.1.: Fernsehproduktion „Schicksale“ am 15.02.2018 im Luitpoldpark
+- TOP 3.3.2.: Fernsehproduktion „Checker Tobi“ am 14.02.2018 auf dem Hohenzollernplatz
+- TOP 3.3.3.: Fernsehproduktion „Schicksale“ am 07.03.2018 im Luitpoldpark
+- TOP 3.3.4.: „Soko München“ am 07.03.2018 in der Belgradstr. 9
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Café Scheidplatz“, Belgradstr. 104
+- TOP 3.4.2.: Kathi-Kobus-Str. 22, Gaststätte im „Hotel Vitalis“
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Protestversammlung „Für mehr Geld für Bildung! Für eine umfassende Sanierung des Gymnasiums“ am 06.02.2018 um 14 Uhr am Scheidplatz (U-Bahnaufgang Voelderndorffstraße)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kölner Platz 1 – Klinikum Schwabing / Haus 19: Neubau zweier Außentreppen
+- TOP 2.1.2.: Herzogstr. 103: Abbruch und Neuerrichtung der straßenseitigen Loggien sowie Anbringung von Notleiteranlagen
+- TOP 2.1.3.: Erich-Kästner-Str. 14: Abbruch und Neuerrichtung der straßenseitigen Loggien sowie Anbringung von Notleiteranlagen
+- TOP 2.1.4.: Elisabethstr. 47-49: Neuschaffung von 6 Wohneinheiten: Elisabethstr. 47+49: Aufstockung um ein Vollgeschoss (= 7. OG); Elisabethstr. 49: hofseitiger Balkonanbau (1. bis 6. OG); Zentnerstr. 39+41: Aufstockung um ein Vollgeschoss und Änderung der Dachform (Flachdach zu ausgebautem Satteldach = 6. OG); Balkonanbau (5. OG)
+- TOP 2.1.5.: Winzererstr. 142-146: Abbruch und Wiederherstellung von 10 (6+4) Garagen
+- TOP 2.1.6.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2018-2022 (vgl. TOP B 2.6 und E 2.2.3)
+- TOP 2.1.7.: Rankestr. 12: DG-Neubau (Abbruch und Neubau des Dachstuhls) und Anbau einer außenliegenden Aufzugsanlage
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Neubau der Grundschule Infanteriestr. 19 (Antwort des Referats für Bildung und Sport auf BA-Stellungnahme vom 01.02.2018)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Schlechte Verkehrssituation in der Rümann- und Isoldenstraße
+- TOP 1.2.: Bürger: Sperrmüll, Schrottfahrräder und altes Wahlplakat am Pündterplatz
+- TOP 1.3.: Grüne: 3-D-Methode zur Hervorhebung von Zebrastreifen und Fahrradstraßen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: St.-Blasien-Str. 17: Fällung eines Ahorn
+- TOP 2.1.2.: Tengstr. 31: Fällung einer Esche
+- TOP 2.1.3.: Wormser Str. 3: Fällung einer Linde
+- TOP 2.1.4.: Gernotstr. 4: Fällung einer Fichte
+- TOP 2.2.1.: (E) Wartezeit für Autofahrer an der Bedarfsampel Elisabeth-Kohn-Str. / Ackermannstraße verkürzen
+- TOP 2.2.2.: Ladezone Theodor-Prosel-Weg gegenüber Nr. 7
+- TOP 2.2.3.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2018-2022 (vgl. TOP B 2.6 und D 2.6)
+- TOP 2.2.4.: Projektgenehmigung Fußgängerquerung Scheidplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3.1.: Anfahrtszone für Kindergarten in der Destouchesstr. 85
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Barrierefreier Ausbau der Bushaltestelle „Heckscherstraße West und Ost“ in der Isoldenstraße (Anliegerinformation des Baureferats)
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Inklusionsbeauftrage in den Bezirksausschüssen: Verpflichtende Wahl? Möglichkeit, Nicht-Mitglieder zu wählen? (Anhörung zu einem Vorschlag des Sozialreferats auf Änderung der BA-Satzung)
+- TOP F.2.: Abrechnung der Aufwandsentschädigung; Einsatz einer neuen Abrechnungssoftware (Informationsschreiben des Direktoriums)
+- TOP G: Verschiedenes
+- TOP H: Termine
