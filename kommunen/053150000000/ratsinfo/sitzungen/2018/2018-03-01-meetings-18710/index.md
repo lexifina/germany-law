@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-01T15:30:00+01:00
+- Ende: 2018-03-01T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18710
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18710
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Präsentation des Sportbundes
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Wickeltische auf Toiletten in städtischen Gebäuden in Köln–auch für Väter - ungeändert beschlossen
+- TOP -: Beantwortung des Antrages betreffend "Wickeltische auf Toiletten in städtischen Gebäuden in Köln – auch für Väter - zu AN/0177/2018" - Kenntnis genommen
+- TOP 2.2: Gebührenbefreiung für die Ausstellung von Ausweispapieren - zurückgestellt
+- TOP 2.3: Weiterführung der Postfiliale Köln-Zollstock - geändert beschlossen
+- TOP 2.4: Gebührenwucher in Übergangsheimen für Flüchtlinge - Sache ist erledigt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Antrag auf Anerkennung als Interkulturelles Zentrum, hier: Soziales und Kulturelles Zentrum Rhein-Peri-Kreis e.V., Modemann Str. 3, 51065 Köln - ungeändert beschlossen
+- TOP 3.2: Humanitäre Hilfen für Menschen aus den Staaten der EU-Osterweiterung - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen; Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme von Einrichtungen für obdachlose Personen - zurückgestellt
+- TOP 4.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städt. Grundstück Wikingerweg 6, 51061 Köln-Höhenhaus Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert beschlossen
+- TOP 4.3: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Schönrather Str. 7, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 4.4: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Causemannstr. 29-31, 50769 Köln-Merkenich - ungeändert beschlossen
+- TOP 4.5: 'Integrationsbudget' - Verteilung der Finanzmittel in 2018 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Neues IV-Verfahren Betreuungsfachanwendung - ungeändert beschlossen
+- TOP 5.2: Weiterfinanzierung der Rucksackgruppen aus dem Programm "Mülheim 2020" - ungeändert beschlossen
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2017 - Kenntnis genommen
+- TOP 7.3: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Übergangswohnheimen für Aussiedler und ausländische geflüchtete Personen - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Beantwortung einer mündliche Nachfrage zu den Planungen der Eingliederungsleistungen des Jobcenter Köln im Jahr 2018 - Kenntnis genommen
+- TOP 8.1.2: Beantwortung einer mündlichen Nachfrage zur schriftlichen Antwort AN/1592/2017 zum Thema "Wie kann Flüchtlingsbürginnen und -bürgen geholfen werden?" - Kenntnis genommen
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 03/2018 - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Beantwortung einer Anfrage zum Erfahrungsbericht zur Integrationsvereinbarung 2016 - Kenntnis genommen
+- TOP 11.1.2: Beantwortung der mündlichen Anfrage 11.3 III aus der Sitzung des Ausschusses für Soziales und Senioren vom 14.12.2017 - Kenntnis genommen
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Erfahrungsbericht zum Projekt „Pädagogische Begleitung und Integrationshilfen für Roma-Familien“ (2010-2016) - Kenntnis genommen
+- TOP 12.2: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 12.3: Handlungsleitfaden zum Umgang mit sexistischer und sexualisierter Werbung in Köln - Kenntnis genommen
+- TOP 12.4: Information der KGAB zum Thema eingesparte Kosten der Unterkunft - Kenntnis genommen
+- TOP 12.5: Wegweiser "Selbsthilfegruppen in Köln", Ausgabe 2018 / Wanderausstellung Selbsthilfe / "Selbsthilfe-Infos", Ausgabe 1/2018 - Kenntnis genommen
+- TOP 12.6: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Wohnsiedlung „Im Mönchsfeld„ in Roggendorf/Thenhoven" - Kenntnis genommen
+- TOP 12.7: Projektbericht Clearingstelle Migration und Gesundheit Köln - zurückgestellt
