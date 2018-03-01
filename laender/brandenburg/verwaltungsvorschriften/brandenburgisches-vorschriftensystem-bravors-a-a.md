@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2018-01-02 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/trsuew_2013
+- Datum: 2018-03-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/uegl_2009
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,132 +26,84 @@ A |
 |
 
 Aktuelle Fassung
-Anlagen (5)                    Änderungshistorie
+Änderungshistorie
 
-Technische Regeln zur Selbstüberwachung von Abwasseranlagen (TRSüw)
+Erhaltung der Übereinstimmung zwischen dem Grundbuch und dem Liegenschaftskataster
 
-In der Fassung der Bekanntmachung vom 2. Januar 2018
+vom 2. März 2009
 
-(ABl./18, [Nr. 1], S.8)
+(ABl./09, [Nr. 11], S.537)
 
-Das Ministerium für Ländliche Entwicklung, Umwelt und Landwirtschaft macht nachstehend die Neufassung der Technischen Regeln zur Selbstüberwachung von Abwasseranlagen (TRSüw) bekannt. Die Neufassung berücksichtigt die Fassung der Bekanntmachung des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz als Oberste Wasserbehörde vom 18. Dezember 2013 (ABl. 2014 S. 183) und die Erste Änderung vom 29. November 2017 in diesem Amtsblatt.
+zuletzt geändert durch Gemeinsame Allgemeine Verfügung des MdJEV und MIK vom 1. März 2018
 
-Technische Regeln zur Selbstüberwachung von Abwasseranlagen (TRSüw)
+(ABl./18, [Nr. 12], S.312)
 
-1 Allgemeines
+1 Verpflichtung zur Erhaltung der Übereinstimmung
 
-Abwasseranlagen sind Abwasserbehandlungsanlagen im Sinne des § 64 des Brandenburgischen Wassergesetzes (BbgWG), Kanalisationen und sonstige Anlagen, die der Abwasserbeseitigung gemäß § 54 Absatz 2 des Wasserhaushaltsgesetzes (WHG) dienen (zum Beispiel Abwassersammelgruben, private Zuleitungen zum öffentlichen Kanalisationsnetz).
+1.1 Die in den Grundbüchern enthaltenen Angaben zur Bezeichnung und Beschreibung der Grundstücke, die aus dem Liegenschaftskataster als dem amtlichen Verzeichnis im Sinne von § 2 Absatz 2 der Grundbuchordnung (GBO) entnommen sind, sind mit den Angaben im Liegenschaftskataster in Übereinstimmung zu halten. Veränderungen in den Nachweisen werden nach Maßgabe dieser Verfügung gegenseitig mitgeteilt.
 
-Abwasseranlagen sind nach § 60 WHG grundsätzlich nach den allgemein anerkannten Regeln der Technik zu errichten, zu betreiben und zu unterhalten. Ferner sind gemäß § 61 Absatz 2 WHG in Verbindung mit § 75 BbgWG die Abwasseranlagen einer regelmäßigen Selbstüberwachung zu unterziehen.
+1.2 Festgestellte Abweichungen der Angaben im Grundbuch gegenüber den Angaben im Liegenschaftskataster sind zwischen Grundbuchamt und Katasterbehörde umgehend aufzuklären und zu beseitigen.
 
-Die Selbstüberwachung von Abwasseranlagen hat nach technischen Überwachungsregeln zu erfolgen, die durch die oberste Wasserbehörde hiermit eingeführt werden. Sie erstreckt sich auf ihren Zustand, ihre Funktionsfähigkeit, ihre Unterhaltung und ihren Betrieb sowie gegebenenfalls auf die Art und Menge des Abwassers und seiner Abwasserinhaltsstoffe. Der Betreiber hat sie auf eigene Kosten durchzuführen oder durchführen zu lassen und hierüber Aufzeichnungen anzufertigen. Er hat die Abwasseranlagen mit den dazu erforderlichen Einrichtungen zu versehen und entsprechende Überwachungsgeräte vorzuhalten. Die Selbstüberwachung ist nach Vorgabe der einschlägigen Normen und Regelwerke durchzuführen.
+1.3 Die nach § 3 Absatz 2 GBO buchungsfreien Grundstücke sind im automatisierten Liegenschaftsbuch (ALB) unter den Bestandsnummern ab 90.000 zu buchen. Das Grundbuchamt führt daher keine Grundbuchblätter mit den Nummern 90.000 und größer.
 
-Diese Technischen Überwachungsregeln für Abwasseranlagen gelten für Betreiber von Abwasseranlagen gemäß § 75 BbgWG unmittelbar. Sie ersetzen gegebenenfalls abweichende Regelungen in Bescheiden, die aufgrund des § 71 Absatz 1 BbgWG alter Fassung erlassen wurden.
+2 Technische Verfahren
 
-Diese Technischen Überwachungsregeln berücksichtigen die für den Regelfall zu stellenden Anforderungen. Im Einzelfall können durch die Wasserbehörde gemäß § 100 Absatz 1 WHG, § 103 Absatz 1 BbgWG in Verbindung mit § 61 Absatz 2 WHG, § 75 BbgWG abweichende oder zusätzliche Regelungen getroffen oder sonstige Maßnahmen angeordnet werden.
+2.1 Die Veränderungsdaten werden in elektronischer Form über die automatisierte Schnittstelle zwischen dem elektronischen Grundbuch und dem automatisierten Liegenschaftskataster zur Verfügung gestellt. Ist ein elektronischer Austausch aus technischen oder fachlichen Gründen nicht möglich, erfolgt die Übermittlung der Veränderungsdaten in Papierform.
 
-Diese Technischen Überwachungsregeln gelten nicht für industrielle und gewerbliche Abwasserbehandlungsanlagen.
+2.2 Sobald die rechtlichen und technischen Voraussetzungen geschaffen worden sind, erzeugt das Grundbuchamt die nach § 10 GBO erforderlichen Unterlagen aus den digitalen Veränderungsdaten des Katasteramtes. Bis dahin ist über die elektronische Datenabgabe hinaus eine zusätzliche Mitteilung auf Papier durch das Katasteramt erforderlich (siehe Nummer 2.1 Satz 2).
 
-2 Selbstüberwachung von Kanalisationsnetzen
+2.3 Die Grundbuchämter und die Katasterbehörden nutzen zur gegenseitigen Einsichtnahme in die amtlichen Nachweise des Liegenschaftskatasters beziehungsweise des Grundbuchs die automatisierten Abrufverfahren.
 
-Der Umfang und die Prüfungsintervalle zur Selbstüberwachung der Kanalisation und ihrer technischen Einrichtungen ergeben sich aus den Anlagen 1.1 und 1.2.
+3 Mitteilungen der Katasterbehörde an das Grundbuchamt über Veränderungen im Liegenschaftskataster
 
-Lassen akut eingetretene Betriebszustände, Schäden oder Störungen eine Beeinträchtigung des Wohls der Allgemeinheit befürchten, so hat der Betreiber gemäß § 70 BbgWG zur Schadensverhütung selbstständig die notwendigen Maßnahmen zu treffen und erforderlichenfalls auch die Überwachungszyklen zu verdichten. Die Wasserbehörde ist gemäß § 70 Satz 2 und 3 BbgWG zu unterrichten.
+3.1 Die Katasterbehörde benachrichtigt das Grundbuchamt laufend über Veränderungen im Liegenschaftskataster, und zwar
 
-Die Aufzeichnungen über Zustand, Funktion und Unterhaltung der Kanalisation können auch in einem elektronischen System geführt werden (Kanalkataster, GIS - Anwendung oder dergleichen).
+im Bestand und in der Begrenzung der Flurstücke, zum Beispiel durch Zerlegung und Verschmelzung;
 
-Der Betreiber des Kanalisationsnetzes soll die Einleitungen Dritter in sein Kanalisationsnetz durch regelmäßige Untersuchungen überwachen, soweit von den Einleitungen besondere Gefährdungen der Umwelt oder Beeinträchtigungen des Betriebes von Kanalnetz und Kläranlage zu erwarten sind. Ungenehmigte, aber genehmigungspflichtige Indirekteinleitungen und Verstöße gegen Anforderungen in einer Indirekteinleitergenehmigung sind der unteren Wasserbehörde gemäß § 72 Absatz 3 BbgWG unverzüglich anzuzeigen. Im Übrigen bleiben die Überwachungspflichten des Indirekteinleiters für genehmigungspflichtige oder anzeigepflichtige Indirekteinleitungen unberührt.
+in der Beschreibung der Flurstücke, insbesondere nach Änderung der Lagebeschreibung oder der Nutzungsartengruppe (Wirtschaftsartengruppe) beziehungsweise der Nutzungsart bei der Nutzungsartengruppe „Flächen anderer Nutzung“;
 
-Schmutzwasser-Fehlanschlüsse an die Niederschlagswasser-kanalisation des Trennsystems sind der Gemeinde beziehungsweise dem kommunalen Aufgabenträger der Abwasserbeseitigung anzuzeigen.
+in der Bezeichnung der Flurstücke hinsichtlich Gemarkung, Flur- und Flurstücksnummer (Flurstückskennzeichen);
 
-Für Grundstücksentwässerungsanlagen bis zum Anschlusspunkt an die öffentliche Kanalisation gelten abweichend die Anforderungen nach Nummer 4.2.3.
+Flächenberichtigungen, bei denen die Umfangsgrenzen des Flurstücks unverändert geblieben sind;
 
-Die Selbstüberwachung von außerörtlichen Straßenentwässerungsanlagen erfolgt nach den Anforderungen des diesbezüglichen Regelwerks der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV). Darüber hinaus gelten die Normen des Deutschen Instituts für Normung (DIN) sowie die anlagenbezogenen Anforderungen der Deutschen Vereinigung für Wasserwirtschaft, Abwasser und Abfall (DWA).
+Berichtigungen von Schreibfehlern in den Flurstückskennzeichen oder vorgenannten Teilen der Flurstücksbeschreibung;
 
-3 Selbstüberwachung von Abwasserbehandlungsanlagen für kommunales Abwasser
+Berichtigungen von Aufnahmefehlern, bei denen die Umfangsgrenzen eines Flurstücks, wie sie sich aus der Flurkarte und den maßgebenden Unterlagen ergeben, nicht dem bei der Aufnahme vorhandenen örtlichen rechtmäßigen Besitzstand entsprechen;
 
-Art und Umfang der Selbstüberwachung von Anlagen, in denen kommunales Abwasser im Sinne von § 3 Nummer 1 der Brandenburgischen Kommunalabwasserverordnung behandelt wird, richten sich nach deren Ausbaugröße. Der Mindestumfang der durchzuführenden Untersuchungen ergibt sich aus den Anlagen 2.1 bis 2.3. Ferner ist der bauliche Zustand von Becken anlassbezogen (zum Beispiel anlässlich einer Entleerung zu Wartungszwecken) zu überprüfen und zu dokumentieren.
+Berichtigungen von Zeichenfehlern, wenn die Darstellung in der Flurkarte mit den maßgebenden Unterlagen nicht übereinstimmt.
 
-Die Selbstüberwachung kann anhand einer einfachen Stichprobe ausgeführt werden. Für die chemische Analytik können die Ergebnisse von Online-Messungen, Schnelltests oder Betriebsmethoden gleichwertig herangezogen werden, soweit diese Verfahren für die in Frage kommenden Messbereiche und die typische Probenzusammensetzung geeignet sind. Bei einer elektronischen Messwerterfassung ist die regelmäßige Kalibrierung der Sensoren und Messumformer gemäß Herstellerangaben durchzuführen und im Betriebstagebuch zu dokumentieren. Die Analysenergebnisse sowie die aus der online-Messung herangezogenen Datensätze sind mindestens zehn Jahre aufzubewahren beziehungsweise elektronisch zuverlässig zu archivieren.
+3.2 Ist das Liegenschaftskataster wegen der Berichtigung eines Aufnahmefehlers oder Zeichenfehlers fortgeführt worden, so werden der Mitteilung jeweils ein Auszug aus der Liegenschaftskarte mit Stand vor und nach der Berichtigung sowie der Zeitpunkt des Eintritts des Fehlers beigefügt.
 
-Bei Regenklärbecken, Regenüberlaufbecken sowie Regenüberläufen aus der Mischkanalisation, die im Entlastungsfall zu erheblichen Beeinträchtigungen der Gewässergüte führen können, ist das Überlaufverhalten mittels kontinuierlich aufzeichnender Messgeräte zu erfassen. Die Auswertungen hinsichtlich der Überlaufmengen, -dauer und -häufigkeit sind nach Maßgabe der Bestimmungen in der wasserrechtlichen Erlaubnis der zuständigen Wasserbehörde vorzulegen.
+3.3 Die Katasterbehörde benachrichtigt das Grundbuchamt unverzüglich über eingegangene Widersprüche gegen Verwaltungsakte im Sinne der Nummer 3.1 Buchstabe a, c, f, g.
 
-4 Überwachung sonstiger Abwasseranlagen
+4 Übernahme der Veränderungen durch das Grundbuchamt
 
-Die Pflicht zur Durchführung der Selbstüberwachung gemäß § 61 Absatz 2 WHG in Verbindung mit § 75 BbgWG erstreckt sich auf alle Abwasseranlagen, so auch auf Kleinkläranlagen, Abwassersammelgruben und Grundstücksentwässerungsanlagen.
+4.1 Das Grundbuchamt hat die Bestandsangaben des Grundbuchs aufgrund der Fortführungsmitteilung unverzüglich zu berichtigen. § 13 Absatz 1 der Grundbuchverfügung ist entsprechend anzuwenden.
 
-4.1 Selbstüberwachung von Kleinkläranlagen
+4.2 Die in das Grundbuch einzutragende Wirtschaftsart des Grundstücks (§ 6 Absatz 3a Nummer 4 der Grundbuchverfügung) richtet sich nach der im Liegenschaftskataster nachgewiesenen Nutzungsartengruppe.
 
-Art und Umfang der Überwachung des ordnungsgemäßen Betriebs von Kleinkläranlagen ergeben sich aus den typspezifischen Einzelanforderungen der Bauartzulassung, der Betriebsanweisung für die Kleinkläranlage sowie aus den für den jeweiligen Kleinkläranlagentyp einschlägigen Normen und Regelwerken. Die Ausführung regelmäßiger Wartungen und Überprüfungen durch einen betreiberunabhängigen Fachkundigen, wie auch die eigenen Betriebskontrollen, sind durch den Betreiber fortlaufend zu dokumentieren (§ 75 BbgWG).
+4.3 Handelt es sich um die Berichtigung eines Aufnahmefehlers, so ist zu prüfen, ob der Übernahme der Berichtigung in das Grundbuch der öffentliche Glaube, ein Eigentumserwerb durch Zuschlag oder ein ähnlicher Rechtsvorgang entgegensteht. Lehnt das Grundbuchamt die Berichtigung des Bestandsverzeichnisses aufgrund einer nachträglichen Rechtsänderung ab, so ist das Katasteramt über diese Entscheidung in Kenntnis zu setzen. Das Katasteramt macht hierauf die Fortführung des Liegenschaftskatasters rückgängig.
 
-Im Übrigen gilt die Richtlinie über den Einsatz von Kleinkläranlagen vom 28. März 2003 (ABl. S. 467).
+5 Mitteilungen des Grundbuchamtes an die Katasterbehörde und die Eigentümer über Veränderungen im Grundbuch
 
-4.2 Dichtheitsprüfungen von Grundstücksentwässerungsanlagen
+Das Grundbuchamt teilt dem Katasteramt Veränderungen der grundbuchmäßigen Bezeichnung eines Grundstücks sowie Veränderungen im Bestandsverzeichnis und in der ersten Abteilung des Grundbuchs nach Maßgabe von § 55 GBO und XVIII/1 der Anordnung über Mitteilungen in Zivilsachen (MiZi) mit, wobei Veränderungen der grundbuchmäßigen Bezeichnung und Nummer von Gebäudeeigentum sowie die Ausbuchung eines Grundstücks oder Grundstücksteils und Eintragung eines vom Buchungszwang befreiten Grundstücks auf ein bereits bestehendes Grundbuchblatt in Papierform mitzuteilen sind.
 
-Der Betreiber hat seine Anlagen gemäß § 61 Absatz 2 WHG unter anderem auf ihren Zustand selbst zu überwachen, was auch die Überwachung der Dichtheit der Anlage einschließt. Satzungsrechtliche Regelungen des Abwasserbeseitigungspflichtigen zur Überwachung von Abwasseranlagen, auch zur Überwachung ihrer Dichtheit, bleiben unberührt.
+6 Übernahme der Veränderungen durch die Katasterbehörde
 
-4.2.1 Abwassersammelgruben
+Die Übernahme der Veränderungen erfolgt nach den Vorschriften des Ministers des Innern zur Fortführung des Liegenschaftskatasters.
 
-Zur Durchführung der Dichtheitsprüfung ist die DIN 1986 Teil 30 maßgebend. Sofern der Betreiber die Dichtheit seiner Abwassersammelgrube bislang nicht ordnungsgemäß überwacht haben sollte, hat er dies nachzuholen. Die Wasserbehörde kann sich die Nachweise hierüber vorlegen lassen (§ 75 Satz 5 BbgWG).
+7 Inkrafttreten; Außerkrafttreten
 
-Für die wiederkehrende Dichtheitsprüfung gelten folgende Fristen:
+7.1 Diese Gemeinsame Allgemeine Verfügung tritt am 20. März 2009 in Kraft.
 
-Sammelgruben mit DIBt-Zulassung sowie Sammelgruben in monolithischer Bauweise, für die bereits eine Dichtheitsprüfung vorgenommen wurde:
+7.2 Mit dem Inkrafttreten dieser Gemeinsamen Allgemeinen Verfügung tritt die Gemeinsame Allgemeine Verfügung des Ministers des Innern und des Ministers der Justiz und für Bundes- und Europaangelegenheiten über die Erhaltung der Übereinstimmung zwischen dem Grundbuch und dem Liegenschaftskataster vom 26. Oktober 1995 (JMBl. S. 184) außer Kraft.
 
+Potsdam, den 2. März 2009
 
-innerhalb von Wasserschutzgebieten                   5 Jahre
+Die Ministerin der Justiz
 
-außerhalb von Wasserschutzgebieten                20 Jahre
+Beate Blechinger
 
-übrige Sammelgruben, für die eine Dichtheitsprüfung bereits vorgenommen wurde:
+Der Minister des Innern
 
-
-innerhalb von Wasserschutzgebieten                   3 Jahre
-
-außerhalb von Wasserschutzgebieten                10 Jahre
-
-4.2.2 Kleinkläranlagen
-
-Für die Dichtheitsprüfung von in Betrieb befindlichen Kleinkläranlagen ist das in DIN EN 12566-1, Anhang A festgelegte Verfahren maßgebend. Werden Kleinkläranlagen saniert oder entsprechend dem Stand der Technik beziehungsweise den allgemein anerkannten Regeln der Technik nachgerüstet, ist eine Dichtheitsprüfung der gesamten Anlage wie bei einer Neuanlage nach DIN EN 12566-1 beziehungsweise DIN EN 12566-3 durchzuführen. Sofern der Betreiber die Dichtheit seiner Kleinkläranlage bislang nicht ordnungsgemäß überwacht haben sollte, hat er dies nachzuholen. Die Wasserbehörde kann sich die Nachweise hierüber vorlegen lassen (§ 75 Satz 5 BbgWG).
-
-Die in Nummer 4.2.1 genannten Fristen gelten analog.
-
-4.2.3 Sonstige Bestandteile von Grundstücksentwässerungsanlagen
-
-Grundstücksentwässerungsanlagen sind nach den allgemein anerkannten Regeln der Technik zu errichten, zu betreiben und zu unterhalten. Für die wiederholende Dichtheitsprüfung werden folgende, von der DIN 1986 Teil 30 abweichende Intervalle festgelegt:
-
-innerhalb der Schutzzone II von Wasserschutzgebieten                                        5 Jahre
-
-innerhalb der Schutzzone III A beziehungsweise III von Wasserschutzgebieten     15 Jahre
-
-in den übrigen Gebieten                                                                                   30 Jahre
-
-Hinsichtlich der Wiederholungsprüfung für Grundstücksentwässerungsanlagen, die gewerbliches Abwasser ableiten, gelten die Fristen der DIN 1986 Teil 30. In begründeten Ausnahmefällen kann die zuständige Wasserbehörde auf Antrag von den Vorgaben der DIN 1986 Teil 30 Tabelle II abweichende Entscheidungen treffen. Abweichungen kommen insbesondere bei Abwasseranlagen in Betracht, die gewerbliches Abwasser ableiten, welches aufgrund seiner Beschaffenheit nur ein geringes Gefährdungspotenzial aufweist.
-
-Geringere Intervalle für die Dichtheitsprüfung von Grundstücksentwässerungsanlagen, die sich aus kommunalen Satzungen ergeben, bleiben unberührt.
-
-5 Schlussbestimmungen
-
-Diese Technischen Überwachungsregeln treten am Tag nach der Veröffentlichung im Amtsblatt für Brandenburg in Kraft. Mit dem Inkrafttreten tritt die Richtlinie des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz über Anzeige und Genehmigung von Kanalisationsnetzen vom 3. September 2009 (ABl. S. 1919) außer Kraft. Ferner treten Nummer 4 sowie die zugehörigen Anlagen 1, 2 und 3 des Erlasses zur Überwachung häuslicher und kommunaler Abwasserbehandlungsanlagen und Abwassereinleitungen vom 26. Mai 1999 (im Amtsblatt nicht veröffentlicht) außer Kraft.
-
-Anlagen
-
-1
-
-Anlage 1.1 - Art. Umfang und Häufigkeit der Selbstüberwachung von Schmutz- und Mischwasserkanalisationen und ihrer technischen Einrichtungen 30.9 KB
-
-2
-
-Anlage 1.2 - Art. Umfang und Häufigkeit von Niederschlagswasserkanalisationen und ihrer technischen Einrichtungen 28.8 KB
-
-3
-
-Anlage 2.1 - Mindestumfang der Selbstüberwachung von Abwasserbehandlungsanlagen nach § 75 BbgWG 17.9 KB
-
-4
-
-Anlage 2.2 - Mindestumfang der Selbstüberwachung von Abwasserbehandlungsanlagen nach § 75 BbgWG 24.6 KB
-
-5
-
-Anlage 2.3 - Mindestumfang der Selbstüberwachung von Abwasserbehandlungsanlagen nach § 75 BbgWG 30.6 KB
+Jörg Schönbohm
