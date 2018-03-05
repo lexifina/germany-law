@@ -1,0 +1,64 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-05T17:00:00+01:00
+- Ende: 2018-03-05T17:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18678
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18678
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Hundefreilauffläche im Böckingpark - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Bedarfsanfordernde Fußgängersignalanlage Heidelberger Straße (Az.: 02-1600-111/17) - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr. Aufstellen von Regalen auf Bürgerstiegen, Fußgängerüberwegen u. a. (Az.: 02-1600-163/17); Session-Nr. 0265/2018 - Übergang zum nächsten Tagesordnungspunkt
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Einrichtung von Fußgängerampeln für Kinder (Az.: 02-1600-171/17) - ungeändert beschlossen
+- TOP 2.5: Bürgereingabe gem. § 24 GO, betr.: Entlastung des Stadtbezirks Köln-Mülheim vom Lkw-Verkehr (Az.: 02-1600-72/17) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - zurückgestellt
+- TOP 7.1.2: Zustand des Wohnhauses Bergisch Gladbacher Str. 93 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Förderaufruf des Bundes-Umweltministeriums "Klimaschutz durch Radverkehr" - Kenntnis genommen
+- TOP 7.2.2: Ausbau der Frankfurter Strasse zwischen Mülheimer Bahnhof und Heidelberger Straße - Kenntnis genommen
+- TOP 7.2.3: Ausweitung Bediengebiets des Leihradangebots der KVB im rechtsrheinischen Osten - Kenntnis genommen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Antrag der CDU-Fraktion: Barrierefreier Zugang zum Marktplatz in Stammheim - geändert beschlossen
+- TOP 8.1.2: Antrag Rampe Moses-Hess-Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Weitere Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Schenkung - Kompakttraktor mit Frontlader - ungeändert beschlossen
+- TOP 9.2.2: Ulrich-Haberland-Haus in Köln-Stammheim / Ideen- und Investorenwettbewerb - geändert beschlossen
+- TOP 9.2.3: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städt. Grundstück Wikingerweg 6, 51061 Köln-Höhenhaus Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.4: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Schönrather Str. 7, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 9.2.5: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Ulrich-Haberland-Haus in Köln-Stammheim: Offener Brief Herr BBM Fuchs und Antwort Frau OB Reker - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 10.2.4: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 10.2.5: Behelfsheimsiedlung Egonstraße in Köln-Stammheim - Kenntnis genommen
+- TOP 10.2.6: Bahnhofsvorplatz Bahnhof Mülheim - Reinigung Fahrradabstellanlagen - Kenntnis genommen
+- TOP 10.2.7: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 10.2.8: Euroforum Nord in Köln-Mülheim, 1. Änderung; 69460/07; Offenlage - Kenntnis genommen
+- TOP 10.2.9: Umgestaltung Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 10.2.10: Earth Hour 2018 - Kenntnis genommen
+- TOP 10.2.11: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
