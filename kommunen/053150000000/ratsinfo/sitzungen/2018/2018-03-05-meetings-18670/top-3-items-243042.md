@@ -1,0 +1,6 @@
+# TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+
+- Sitzung: 34. Sitzung des Verkehrsausschusses (2018-03-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/243042
