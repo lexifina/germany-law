@@ -1,0 +1,60 @@
+# Rat (39. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-03-05T18:02:00+01:00
+- Ende: 2018-03-05T19:22:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXhcr2Ajo1QbMpr1Dc8LG2o
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7031
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3UqWEtJGF956SavdXHUB5Q50qvnJ3w6jXH0CmBBUEV/Bekanntmachung_Rat_05.03.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTGwPnOAvh16Ajk6ogC28dEIx2CjkRCXyLbz0DtFsI4T/Oeffentliche_Niederschrift_Rat_05.03.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Anfrage zur Haushaltsrede des CDU Fraktionsvorsitzenden
+- TOP 1.2: Stadtbücherei
+- TOP 2.: Niederschrift vom 18.12.2017
+- TOP 3.: Nahverkehrskonzept
+- TOP 3.1: Nahverkehrskonzept für die Stadt Brühl Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 16.02.2018
+- TOP 3.2: Nahverkehrskonzept für die Stadt Brühl
+- TOP 3.2.1: Nahverkehrskonzept für die Stadt Brühl und Vorabbekanntmachung zur Direktvergabe der Stadtbusleistungen Bezug: Vorlage 26/2018, AfVM am 23.01.2018 - (kein Text vorhanden)
+- TOP 4.: Öffentlich-rechtliche Vereinbarung zur Beschulung Wesselinger Schüler/innen an der Pestalozzi-Schule, Förderschule der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 5.1: Containeranlage Hedwig-Gries-Straße hier überplanmäßige Mittelbereitstellung Bezug: Dringlichkeitsentscheidung Bürgermeister Dieter Freytag und Fraktionsvorsitzender Holger Köllejan (CDU) vom 18.01.2018 - (kein Text vorhanden)
+- TOP 6.: Benennung von Straßen im Bebauungsplangebiet 01. 16.Bonnstraße Südfriedhof Schulzentrum Linie 18 - (kein Text vorhanden)
+- TOP 7.: Energie- und Kostensparkonzept für finanzschwache Haushalte (Stromsparcheck-Kommunal) - (kein Text vorhanden)
+- TOP 8.: Anträge
+- TOP 8.1: Insektenschutz Bezug: Antrag der FDP-Fraktion vom 06.11.2017 - (kein Text vorhanden)
+- TOP 8.1.1: Insektenschutz Bezug: Antrag der FDP-Fraktion vom 06.11.2017 - (kein Text vorhanden)
+- TOP 8.2: Änderung der Geschäftsordnung des Rates der Stadt Brühl hier: Verlängerung Antrags- und Ladungsfrist Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 11.12.2017
+- TOP 8.2.1: Änderung der Geschäftsordnung für den Rat und die Ratsausschüsse der Stadt Brühl hier: Verlängerung der Ladungs- und Antragsfristen Bezug: Antrag Fraktionen CDU und GRÜNE vom 11.12.2017, RAT 18.12.2017, Vorlage Nr. 549/2017 - (kein Text vorhanden)
+- TOP 9.: Umbesetzung in Ausschüssen
+- TOP 9.1: Umbesetzungen im Ausschuss für Verkehr und Mobilität, Ausschuss für Bauen und Umwelt und Ausschuss für Planung und Stadtentwicklung Bezug: Antrag der FDP-Fraktion vom 04.03.2018 - (kein Text vorhanden)
+- TOP 10.: Mitteilungen
+- TOP 10.1: Bericht über die Einwohnerversammlung zum Projekt "Sanierung bzw. Neubau Rathaus Steinweg/Umgestaltung Janshof"
+- TOP 10.2: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 11.: Anfragen
+- TOP 11.1: Beleuchtung Schulhof CAS
+- TOP 11.2: Sanierungskonzept Erich-Kästner-Realschule (1)
+- TOP 11.3: Sanierungskonzept Erich-Kästner-Realschule (2)
+- TOP 11.4: Kohlenmonoxidkonzentration in Shishabars
+- TOP 11.5: Bahnübergang Schwadorf
+- TOP 11.6: Fehlender Wohnraum
+- TOP 11.7: Sitzplan
+- TOP B): Nichtöffentliche Sitzung
+- TOP 12.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk II (nördlicher Bezirk) - (kein Text vorhanden)
+- TOP 13.: Bericht über die 138. Sitzung des Aufsichtsrates der REVG mbH am 09.11.2017
+- TOP 14.: Bericht über die 139. Sitzung des Aufsichtsrates der REVG mbH am 14.12.2017
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
+- TOP 16.1: Erich-Kästner-Realschule (1)
+- TOP 16.2: Garderobe/Ratssitzungen
+- TOP 16.3: Herrichtung der Containeranlage; Dringlichkeitsentscheidung
+- TOP 16.4: Änderung des Glücksspielvertrages
+- TOP 16.5: Erich-Kästner-Realschule (2)
+- TOP 16.6: Containeranlage Hedwig-Gries-Straße
