@@ -1,0 +1,54 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-05T15:00:00+01:00
+- Ende: 2018-03-05T17:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18712
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18712
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652207.pdf
+- Ergebnisprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652207.pdf
+- Wortprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652207.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Papiers „Eckpunkte zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen“
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Nachfragen zur Situation des Hauses Bergisch Gladbacher Str. 93
+- TOP 3.2: Nachlieferung zum TOP 8.2.2 der Sitzung vom 07.11.2017 "Dreizehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln" - Liste der bilingualen Kindertageseinrichtungen in Köln
+- TOP 3.3: AN/1130/2017 Wohnsiedlung „Im Mönchsfeld„ in Roggendorf/Thenhoven
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum künftigen Standort des Denkmals zu den NSU-Anschlägen
+- TOP 4.2: Anfrage zur Erhöhung von Nutzungsgebühren in städtischen Übergangswohnheimen
+- TOP -: Beantwortung der Anfrage unter TOP 4.2 zur Erhöhung von Nutzungsgebühren in städtischen Wohnheimen
+- TOP 5: Mitteilungen
+- TOP 5.1: Ehrenamtspreis "KölnEngagiert 2018"
+- TOP 5.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht
+- TOP 5.3: 19. Bericht zur Flüchtlingssituation
+- TOP 5.4: Bedarfsfeststellungsbeschlüsse für die Projekte 0.0.1 "Büro für Quartiersmanagement und Aktivierung" und 0.0.2 "Prozessbegleitende Evaluation"
+- TOP 5.5: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Übergangswohnheimen für Aussiedler und ausländische geflüchtete Personen
+- TOP 5.6: Mitteilung über Zuschuss an Rubicon e.V. zur Förderung der Integration von Flüchtlingen und Menschen mit Zuwanderungsgeschichte und LSBTI-Hintergrund in Köln; hier: Endgültige Mittelfreigabe
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag auf Zahlung von Sitzungsgeld und Aufwandsentschädigung
+- TOP -: Änderungsantrag zum Antrag unter TOP 6.1 auf Zahlung von Sitzungsgeld und einer pauschalierten Aufwandsentschädigung gem. § 33 GO - ungeändert beschlossen
+- TOP 6.2: Antrag zur Berücksichtigung von Anmerkungen zur Richtlinie zur Einrichtung bilingualer Kitagruppen - zurückgestellt
+- TOP 6.3: Antrag zur Einrichtung eines Budgets für die Jahre 2019/2020 zur Begleitung eines Prozesses der Interkulturellen Orientierung und Öffnung einer Dienststelle der Stadtverwaltung Köln - zurückgestellt
+- TOP 6.4: Antrag zur Erhöhung der jährlichen Finanzmittel für den Integrationsrat - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Antrag auf Anerkennung als Interkulturelles Zentrum, hier: Soziales und Kulturelles Zentrum Rhein-Peri-Kreis e.V., Modemann Str. 3, 51065 Köln - ungeändert beschlossen
+- TOP 8.2: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Schönrather Str. 7, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 8.3: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Causemannstr. 29-31, 50769 Köln-Merkenich - ungeändert beschlossen
+- TOP 8.4: Fachbeirat Interkulturelle Kunstprojekte - Benennung einer Vertreterin / eines Vertreters aus dem Integrationsrat - zurückgestellt
+- TOP 8.5: Neubenennung von Mitgliedern des Integrationsrates als sachkundige Einwohner in Fachausschüssen - ungeändert beschlossen
+- TOP 8.6: 'Integrationsbudget' - Verteilung der Finanzmittel in 2018 - ungeändert beschlossen
+- TOP 8.7: Weiterfinanzierung der Rucksackgruppen aus dem Programm "Mülheim 2020" - ungeändert beschlossen
+- TOP 8.8: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
