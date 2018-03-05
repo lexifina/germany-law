@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-05T15:00:00+01:00
+- Ende: 2018-03-05T17:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18714
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18714
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Auszug aus dem Beschlussprotokoll zu TOP 2.3 Schulhöfe als Bewegungsräume https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652353.pdf
+- Ergebnisprotokoll: Auszug aus dem Beschlussprotokoll zu TOP 2.3 Schulhöfe als Bewegungsräume https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652353.pdf
+- Wortprotokoll: Auszug aus dem Beschlussprotokoll zu TOP 2.3 Schulhöfe als Bewegungsräume https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652353.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Attraktive Spiel- und Bewegungsangebote auf Schulhöfen, insbesondere Europaschule - ungeändert beschlossen
+- TOP -: Attraktive Spiel- und Bewegungsmöglichkeiten auf Schulhöfen, insbesondere Europaschule - Kenntnis genommen
+- TOP 2.2: Konzeptionelle Planung zum Aufbau von Schulcontainern - ungeändert beschlossen
+- TOP 2.3: Sportentwicklungsplanung – Schulhöfe als Bewegungsräume gestalten - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 2.3 – Schulhöfe als Bewegungsräume gestalten - ungeändert beschlossen
+- TOP 2.4: Ausstattung von Schulneubauten - geändert beschlossen
+- TOP 2.5: Einrichtung einer Kölner Gesamtschule am Standort Elsa- Brändström-Realschule in Köln- Sülz - geändert beschlossen
+- TOP 2.6: Dringlichkeitsantrag der SPD-Fraktion, der Fraktion Die Linke. und der Ratsgruppe BUNT betreffend "Gesamtschule am Standort Schmiedegasse realisieren" - zurückgestellt
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Errichtung einer vierzügigen Gesamtschule auf dem Gelände der Elsa-Brändström-Realschule in Lindenthal - Kenntnis genommen
+- TOP 3.1.2: Sanierung und Qualitätsanalyse an Kölner Schulen - Sache ist erledigt
+- TOP -: Sanierung und Qualitätsanalyse an Kölner Schulen - zur Anfrage der Gruppe BUNT AN/1725/2017 - Kenntnis genommen
+- TOP 3.1.3: Impfschutz in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Ratsgruppe BUNT gem. § 4 der Geschäftsordnung des Rates zum Impfschutz in Köln - Kenntnis genommen
+- TOP 3.1.4: Kernsanierung der Heinrich-Böll-Gesamtschule - Sache ist erledigt
+- TOP -: Kernsanierung der Heinrich-Böll-Gesamtschule Merianstraße 11 - zu AN/0075/2018 - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Ganztagsangebot - zurückgestellt
+- TOP 3.2.2: Anmeldezahlen Grundschulen - zurückgestellt
+- TOP 3.2.3: Digitale Bildung braucht Bandbreite und WLAN - Sachstand 2018 - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Generalinstandsetzung BK 14 Berufskolleg Perlengraben 101. 50676 Köln, Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplans 0301 bei Finanzstelle 4016-0301-1-5003 - ungeändert beschlossen
+- TOP 4.2: Errichtung eines Bildungsgangs Kaufmann / Kauffrau für E-Commerce am Erich-Gutenberg-Berufskolleg (BK 7) - ungeändert beschlossen
+- TOP 4.3: Errichtung eines Bildungsgangs Zweijährige Berufsfachschule / FHR Anlage C / Gesundheit und Soziales am Berufskolleg Ehrenfeld (BK20) - ungeändert beschlossen
+- TOP 4.4: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Michael-Ende-Schule, KGS Platenstr. 7-9, 50825 Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 4.5: Zügigkeitserhöhung für den Bildungsgang "Verwaltungsfachangestellte/r Kommunalverwaltung" am Berufskolleg an der Lindenstraße (BK 3) - ungeändert beschlossen
+- TOP 4.6: Erweiterungsbau Albertus-Magnus-Gymnasium, Ottostraße 87, 50823 Köln; Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 0301, Schulträgeraufgaben, in Teilplanzeile 9, Auszahlung für den Erwerb von beweglichem Anlagevermögen - ungeändert beschlossen
+- TOP 4.7: Realschule Gravenreuthstr. 10, 50823 Köln, Einrichtung des Ganztagserweiterungsbaus; Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplans 0301 bei Finanzstelle 4015 - ungeändert beschlossen
+- TOP 4.8: Weiterfinanzierung der Rucksackgruppen aus dem Programm "Mülheim 2020" - geändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Sachstand zur Inventarisierung an Schulen - Kenntnis genommen
+- TOP 5.2: Erweiterung des Toilettensanierungsprogramms für Schulen - Beschluss des Betriebsausschusses Gebäudewirtschaft vom 29.01.2018 - Kenntnis genommen
+- TOP 5.3: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 5.4: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 5.5: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 5.6: Reinigung in Schulen verbessern - zu AN/1475/2017 - Kenntnis genommen
+- TOP 5.7: Anmeldeverfahren für Gesamtschulen abgeschlossen. - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Verschiedenes
