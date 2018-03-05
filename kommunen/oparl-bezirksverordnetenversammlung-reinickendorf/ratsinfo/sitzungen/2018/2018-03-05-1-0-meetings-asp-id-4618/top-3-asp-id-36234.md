@@ -1,0 +1,7 @@
+# TOP 3: Besprechungspunkt auf Antrag der FDP-Fraktion: "Was kostet wo wie viel?"
+
+- Sitzung: 18. öffentliche Sitzung des Hauptausschusses (2018-03-05)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=36234
+- Ergebnis: erledigt
