@@ -1,0 +1,58 @@
+# 34. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-05T17:05:00+01:00
+- Ende: 2018-03-05T19:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18670
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18670
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651306.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651306.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651306.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 1.2: Fahrscheinloser ÖPNV: Planungen rund um den 1. fahrscheinlosen Tag in Köln - geändert beschlossen
+- TOP 1.3: Gemeinsamer Antrag der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen, der Fraktion Die Linke und der FDP-Fraktion vom 20.02.2018 betr. gefahrloses Fahrradfahren in Schulnähe - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Verkehrsführungskonzept Altstadt - zurückgestellt
+- TOP 3.2: Verwendung Stellplatzablösemittel zur Förderung des Radverkehrs - ungeändert beschlossen
+- TOP 3.3: 5-Jahresplan der Erschließungsmaßnahmen - ungeändert beschlossen
+- TOP 3.4: Busbeschleunigung Dürener Straße - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - ungeändert beschlossen
+- TOP 4.2: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 4.3: Auslobung eines Gutachterverfahrens als Mehrfachbeauftragung zur Möblierung des kleinen und des großen Offenbachplatzes im Opernquartier Köln - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Dezentrale Carsharing-Stellplätze schaffen, Mobilitätswende voranbringen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.1.2: Unfälle: KVB vs. Kfz - zurückgestellt
+- TOP 5.2: Aktuelle Anfragen
+- TOP 5.2.1: Angsträume auf städtischen Flächen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.2: Kölner Anlegeplätze für Binnenschifffahrt auf dem Rhein - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.3: Förderung der Elektromobilität – Was tut die Verwaltung? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.4: Auslastung der P+R-Anlage Königsforst - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.5: Ticketautomaten der KVB – Schwarzfahren wider Willen - zurückgestellt
+- TOP 5.2.6: Wie, wann und wo sind die Bussen und Bahnen der KVB besonders ausgelastet? - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Park & Ride Bayerwerk Leverkusen - Sache ist erledigt
+- TOP 6.2: Verkehrsversuch Sperrung Zülpicher Straße - Sache ist erledigt
+- TOP 6.3: Entwicklung von Fahrgastzahlen und Fällen von Schwarzfahren? - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Stadtbahnhaltestelle Chorweiler - Brandschutztechnische Nachrüstung - Kenntnis genommen
+- TOP 7.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 7.3: Earth Hour 2018 - Kenntnis genommen
+- TOP 7.4: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.5: Ufermauer Porz - Kenntnis genommen
+- TOP 7.6: Fahrbahnmarkierung in der Domumgebung - Kenntnis genommen
+- TOP 7.7: Bericht der Stadt Köln gemäß Art. 7 der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Pilotprojekt Ring frei - Sache ist erledigt
+- TOP 8.2: Beschaffung von zehn Elektrofahrzeugen - Sache ist erledigt
