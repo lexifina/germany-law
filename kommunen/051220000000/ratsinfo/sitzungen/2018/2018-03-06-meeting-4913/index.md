@@ -1,0 +1,57 @@
+# Beteiligungsausschuss (29. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-03-06T17:00:00+01:00
+- Ende: 2018-03-06T18:00:00+01:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdGW2aKO9DP7CmhL8rCk-EU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4913
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdgml1FGc6NYsGABz5ZxqshRVMMmSbWREtPXUzhifgwF/Bekanntmachung_Beteiligungsausschuss_06.03.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeaWiiN00loIH7WHgVrU2O7iSwGiFf4LstfC-gdfhBXn/Oeffentliche_Niederschrift_Beteiligungsausschuss_06.03.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 28. Sitzung des Beteiligungsausschuss am 23.01.2018
+- TOP 3.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4.: Jahresabschluss 2016 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 5.: Wirtschaftsplan 2018 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 6.: Zweckverband Bergische Volkshochschule (BVHS) - Änderung der Zweckverbandssatzung
+- TOP 6.1: Zweckverband Bergische Volkshochschule (BVHS) - Änderung der Zweckverbandssatzung
+- TOP 7.: Zweckverband Bergische Volkshochschule (BVHS) - Aufhebung der Geschäftsordnung für die Leitung des Zweckverbandes
+- TOP 8.: Zustimmung zur Direktvergabe von öffentlichen Personennahverkehrsdiensten an die Rheinbahn AG als mitbedienendes Verkehrsunternehmen
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die . Sitzung des Beteiligungsausschuss am 19.12.2017
+- TOP 3.: Protokoll über die 28. Sitzung des Beteiligungsausschuss am 23.01.2018
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 6.: Zweckverband Bergische Volkshochschule (BVHS) - Abberufung des kaufmännischen Leiters
+- TOP 7.: Zweckverband Bergische Volkshochschule (BVHS) - Ernennung der hauptberuflichen / hauptamtlichen Leitung
+- TOP 8.: Wirtschaftsplan 2018 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 9.: Wirtschaftsplan 2018 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 10.: Jahresabschluss 2016/2017 der Städtischen Musikschule Solingen GmbH
+- TOP 11.: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) - Reporting
+- TOP 12.: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Bestellung eines Prokuristen
+- TOP 13.: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Grundstücksverkauf
+- TOP 14.: Wirtschaftsplan 2017 - Nachtrag - der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 15.: Wirtschaftsplan 2018 der ELBA-Omnibusreisen GmbH (ELBA)
+- TOP 16.: Wirtschaftsplanung der EfS GmbH / EfS GmbH & Co. KG
+- TOP 17.: Jahresabschluss 2016/17 der itec solingen gmbh (itec)
+- TOP 18.: EDL Solingen GmbH (EDL) - Bestellung eines Abschlussprüfers für den Jahresabschluss 2017/18
+- TOP 19.: Bestellung eines Jahresabschlussprüfers für die itec solingen gmbH
+- TOP 20.: SWS Netze Solingen GmbH - Bestellung eines Jahresabschlussprüfers für den Jahresabschluss 2017/18
+- TOP 21.: Stadtwerke Solingen GmbH - Bestellung eines Jahresabschlussprüfers für den Jahresabschluss 2017/18
+- TOP 22.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Übertragung der Vermögensverwaltung auf die Stadt-Sparkasse Solingen
+- TOP 23.: Verschiedenes
+- TOP 23.1: Mitteilungen der Verwaltung
+- TOP 23.2: Anfragen an die Verwaltung
