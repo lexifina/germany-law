@@ -1,0 +1,59 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-03-06T16:05:00+01:00
+- Ende: 2018-03-06T18:25:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12845
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12845
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00217266.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00218383.pdf
+
+## Tagesordnung
+
+- TOP 1: Personal- und Organisationsentwicklungskonzept -Eckpunkte (Präsentation)
+- TOP 2: Verwaltungsmodernisierung und Digitalisierung (Präsentation)
+- TOP 2.1: Konzept für Personal- und Organisationsentwicklung - Entgegennahme ohne Beschluss
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 3: Jahresabschlüsse
+- TOP 4: Wirtschaftspläne
+- TOP 4.1: Wirtschaftsplan GMW 2018 - ungeändert beschlossen
+- TOP 4.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 5: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 5.1: Aufhebung der Geschäftsordnung für die Leitung des Zweckverbandes Bergische Volkshochschule - ungeändert beschlossen
+- TOP 5.2: Bestellung der hauptberuflichen Leitung des Zweckverbandes Bergische Volkshochschule - ungeändert beschlossen
+- TOP 5.3: Änderung der Zweckverbandssatzung des Zweckverbandes Bergische Volkshochschule - ungeändert beschlossen
+- TOP 5.4: Konzept für das Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft mbH Wuppertal (GWG) - ungeändert beschlossen
+- TOP 5.5: Beteiligung an der NRW.URBAN Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 5.6: Abberufung und Bestellung sachkundiger Einwohner/Einwohnerinnen im Ausschuss für Finanzen und Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP 5.7: Weihnachtsmärkte - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Vorläufiger Jahresabschluss der Stadt Wuppertal zum 31.12.2017 - Entgegennahme ohne Beschluss
+- TOP 7.2: Stand der Schulden und Kassenkredite zum 31.12.2017 - Entgegennahme ohne Beschluss
+- TOP 7.3: Bergisch-Rheinischen IT-Kooperation BRIT; Abschlussbericht - Entgegennahme ohne Beschluss
+- TOP 7.4: Bericht zum Sachstand des Zivilprozesses Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: Fünfte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 9.1: Digitale Modellregionen NRW - Entgegennahme ohne Beschluss
+- TOP 9.1.1: Antwort auf die Große von B90/ DIE GRÜNEN vom 30.01.18 zum Thema Dig. Modellregion NRW - Entgegennahme ohne Beschluss
+- TOP 9.2: Umzug des Amtes für Informationstechnik und Zukunft des Heubruchflügels - Entgegennahme ohne Beschluss
+- TOP 9.2.1: Antwort auf die Große von B90/ DIE GRÜNEN vom 06.02.2018 zum Thema Umzug des Amtes für Informationstechnik und Zukunft des Heubruchflügels - Entgegennahme ohne Beschluss
+- TOP 9.3: Große Anfrage - Mehreinnahmen durch Hundesteuerkontrollen - Entgegennahme ohne Beschluss
+- TOP 9.3.1: Antwort auf die Große Anfrage der Ratsfraktion der FDP – Mehreinnahmen durch Hundesteuerkontrollen - Entgegennahme ohne Beschluss
+- TOP 9.4: Wuppertal 2025 - Projekt "Wuppertal als Fahrradstadt" Radabstellanlage am Döppersberg - vertagt auf Rat
+- TOP 9.5: Erneuerung des nördlichen Überbaus der Brücke Brändströmstraße (Erhöhung der Gesamtbaukosten ) - ungeändert beschlossen
+- TOP 9.6: Antrag der Fraktionen von SPD und CDU vom 04.10.2017 - vertagt auf Rat
+- TOP 9.7: Genehmigung der Annahme einer Schenkung im Rahmen des Abschlusses eines Erbbaurechtsvertrages zur Realisierung der Baumaßnahme „Schwarzbachtrasse“ - ungeändert beschlossen
+- TOP 9.8: Neubau Stadtteilzentrum Heckinghausen - ungeändert beschlossen
+- TOP 9.9: Errichtung eines städtischen Kadavercontainers am Standort der AWG (Korzert 15 - MHKW) - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Zweite Änderung der Betriebssatzung des Eigenbetrieb Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 12: Vereinbarung über Schadensfälle an Kanalanlagen, Abtretung von Ansprüchen - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
