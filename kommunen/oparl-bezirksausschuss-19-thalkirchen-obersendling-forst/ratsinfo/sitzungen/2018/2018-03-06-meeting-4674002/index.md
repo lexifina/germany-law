@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-03-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674002
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674002
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 06.02.2018
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Richtlinien zur Verwendung des Stadtbezirksbudgets
+- TOP 3.3.: (Antrag) Verwendung des Stadtbezirksbudgets
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Walliser Straße Projekt „Kinder treffen Künstler“ von Oktober – Dezember 2017 3.000,00€ Az. 0262.0-19-0199
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Elternbeirat Thomas-Mann-Gymnasium MFM-Workshop ab Juni 2018 1.640,00 € Az: 0262.0-19-0205
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Flößer-Kulturverein München-Thalkirchen e.V. 5-jähriges Jubiläum Flößer-Kulturverein 1.305,00€ Az. 0262.0-19-0203
+- TOP 3.7.: (A) Mehrjahresinvestitionsprogramm (MIP) Fortschreibung für die Jahre 2018-2022
+- TOP 3.8.: (E) Budget der Bezirksausschüsse Förerverein "Lernen fördern" e.V. Abschlussfahrt der 9. Klasse 1.882,80€ Az. 0262.0-19-0202
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Verfahren zur Festsetzung des Überschwemmungsgebietes an der Isar
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Halten vor der Grundschule Boschetsrieder Str.
+- TOP 5.4.: (Antrag) Parken vor der Tiefgaragenausfahrt am Forum Fürstenried Ost
+- TOP 5.5.: (Antrag) Ausbau Wolfratshauser Str. zwischen Josephinenstr. und Siemensallee
+- TOP 5.6.: (U) Wolfratshauser Str.: Instandsetzung Ingenieurbauwerke im Zusammenhang mit der Straßenüberführung über die Bahnlinie München-Holzkirchen
+- TOP 5.7.: (U) Einteilung der Stimmbezirke im Rahmen der Landtags- und Bezirkswahl 2018
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: Resolution: Fehlende Infrastruktur im 19. Stadtbezirk
+- TOP 6.4.: (Antrag) Ein grüner Leuchtturm für Obersendling
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Angebot von Trafixx in Obersendling ausweiten
+- TOP 7.1.2: Bad Forstenrieder Park: Bedürfnisse von Senioren, Kindern und Menschen mit Mobilitätseinschränkung berücksichtigen
+- TOP 7.2.: (A) Satzungsänderung: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee: 11.06. bis 24.06.18
+- TOP 8.3.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee: 15.03. bis 30.06.18
