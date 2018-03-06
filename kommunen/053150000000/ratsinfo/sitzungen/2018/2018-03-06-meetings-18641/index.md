@@ -1,0 +1,66 @@
+# 27. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-06T15:40:00+01:00
+- Ende: 2018-03-06T22:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18641
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18641
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00649764.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00649764.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00649764.pdf
+
+## Tagesordnung
+
+- TOP -: Bericht zum Thema "Stiftung Stadtgedächtnis"
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Dringlichkeitsantrag der CDU-Frakton und der Fraktion Bündnis 90/Die Grünen betr.: "Kunsthaus Rhenania" - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Neuwahl Beirat für Interkultur - ungeändert beschlossen
+- TOP 4.2: Institutionelle Förderung der Temporary Gallery für die Haushaltsjahre 2019 bis 2021 - geändert beschlossen
+- TOP -: Änderungs-/Zusatzantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "TOP 4.2 - Institutionelle Förderung der Temporary Gallery für die Haushaltsjahre 2019 bis 2021" - geändert beschlossen
+- TOP 4.3: Theaterproduktion "Katzelmacher" auf dem Wilhelmsplatz in 50733 Köln-Nippes - ungeändert beschlossen
+- TOP 4.4: Rückgabe eines Maori-Schädels (toi moko) aus dem Bestand des Rautenstrauch-Joest-Museums - ungeändert beschlossen
+- TOP 4.5: Ebertplatz: Weiterentwickeltes Zwischennutzungskonzept - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen der Museen - Fortschreibung - ungeändert beschlossen
+- TOP 5.2: Freigabe Kulturförderabgabe für die Sonderausstellung "Gabriele Münter" im Museum Ludwig - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Spende an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: 2. Erfahrungsbericht zur Einführung der Festbetragsfinanzierung in der Projektförderung des Kulturamtes, - 41 - - Kenntnis genommen
+- TOP 8.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 8.3: Vorstellung des Spielplans der Puppenspiele für die Spilezeit 2018/2019 - Kenntnis genommen
+- TOP 8.4: Barrierefreie Vermittlungsangebote in den Museen der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Der Jahresbericht 2017 des NS-Dokumentationszentrums der Stadt Köln - Kenntnis genommen
+- TOP 8.6: Transparente Darstellung der Förderungen der freien Szene (AN/0185/2017) - Kenntnis genommen
+- TOP 8.7: Mündliche Mitteilung betreffend: Tag des offenen Denkmals - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv - Kenntnis genommen
+- TOP 9.3: Zeitraster verschiedener Baumaßnahmen/Bauvorhaben im Kulturbereich - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Anfrage gem. § 4 der Geschäftsordnung des Rates AN/0962/2017 gleichzeitig Beantwortung der mündlichen Anfrage vom 05.12.2017 - Kenntnis genommen
+- TOP 10.2: Sachstand Showroom Kunsthaus Rhenania - zurückgestellt
+- TOP 10.3: Standortsuche für Bühne der Kulturen - Kenntnis genommen
+- TOP 10.4: 100 Jahre Bauhaus - Kenntnis genommen
+- TOP 10.5: Steinteppich des Hanns-Hartmann-Platzes - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sommer Köln" - zurückgestellt
+- TOP -: Sommer Köln 2018 - zurückgestellt
+- TOP 11.2: Anfrage der Ratsgruppe Bunt betr.: "Freier oder freiwilliger Kostenbeitrag für Eintritt – solche oder andere Bezahlkonzepte für städtische Museen?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Ratsgruppe Bunt im Rat der Stadt Köln vom 06.09.2016 betr. "Freier oder freiwilliger Kostenbeitrag für Eintritt - solche oder andere Bezahlkonzepte für die städtischen Museen?" - Kenntnis genommen
+- TOP 11.3: Anfrage der Ratsgruppe Bunt betr.: "Gegen jeden Antisemitismus – welche Projekte fördert Köln?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0092/2018 betr.: "Gegen jeden Antisemitismus - welche Projekte fördert Köln?" - Kenntnis genommen
+- TOP 11.4: Anfrage der SPD-Fraktion betr.: "Zuständigkeit für die Kulturbauten" - Kenntnis genommen
+- TOP -: Zuständigkeit für die Kulturbauten - Kenntnis genommen
+- TOP 11.5: Anfrage der SPD-Fraktion betr.: "Zukunft des Kulturstandorts Ebertplatz" - Sache ist erledigt
+- TOP 11.6: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Leitprojekte Dezernat VII" - zurückgestellt
+- TOP 12: Mündliche Anfragen
