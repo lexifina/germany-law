@@ -1,0 +1,53 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2018-03-07T17:00:00+01:00
+- Ende: 2018-03-07T18:00:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3802
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3802
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 24.01.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 07.02.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 5: Bewohnerparken "V" (Viktoriaallee) und "Z" (Zollernstraße);hier: Ergebnisse der Nacherhebung - vertagt
+- TOP 6: Kommunalinvestitionsförderungsgesetz Kapitel 2hier: vorgesehene Maßnahmen - geändert beschlossen
+- TOP 6.1: Kommunalinvestitionsförderungsgesetz Kapitel 2hier: vorgesehene Maßnahmen - ungeändert beschlossen
+- TOP 7: Kindertagesstättenbedarfsplanung 2018/2019 - ungeändert beschlossen
+- TOP 8: Quartalsberichterstattung: Programm „Gute Schule 2020“ - zur Kenntnis genommen
+- TOP 9: I. Änderung des Bebauungsplanes Nr. 660 - Bismarckstraße / Viktoriaallee - im Stadtbezirk Aachen-Mitte für den Bereich zwischen Bismarckstraße, Viktoriaallee und Oppenhoffalleehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Änderung Nr. 117 des Flächennutzungsplanes 1980 - Konzentrationsflächen für Windkraftanlagen - hier: Beitrittsbeschluss zur Genehmigung der Bezirksregierung Köln vom 19.01.2018 - ungeändert beschlossen
+- TOP 11: Sechster Nachtrag zur Zuständigkeitsordnung der Stadt Aachen - ungeändert beschlossen
+- TOP 12: Anfragen:
+- TOP 12.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 12.2: Stellungnahmen zu Ratsanfragen - zur Kenntnis genommen
+- TOP 13: Ratsanträge - zur Kenntnis genommen
+- TOP 14: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 14.1: Entsendung von Delegierten in die Verbandsversammlung des Wasserverbandes Eifel-Rur - ungeändert beschlossen
+- TOP 14.2: Umbesetzung von Ausschüssen und anderen Gremienhier: Entsendung der Mitglieder des Seniorenrates der Stadt Aachen - ungeändert beschlossen
+- TOP 14.3: Umbesetzungsantrag der CDU-Fraktion vom 19.02.2018 - ungeändert beschlossen
+- TOP 14.4: Umbesetzung des Ausschusses für Soziales, Integration und Demographie - ungeändert beschlossen
+- TOP 14.5: Umbesetzungsantrag der Fraktion DIE LINKE vom 28.02.2018 - ungeändert beschlossen
+- TOP 14.6: Umbesetzungsantrag der SPD-Fraktion vom 06.03.2018 - ungeändert beschlossen
+- TOP 15: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
