@@ -1,0 +1,114 @@
+# öffentliche / nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-03-07T16:04:00+01:00
+- Ende: 2018-03-07T16:52:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12780
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12780
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 27.02.2018 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00217264.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00218034.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung eines Stadtverordneten (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Strategie Glasfaserausbau im Stadtgebiet
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion "Strategie Glasfaserausbau im Stadtgebiet" (VO/1073/17) vom 07.12.17
+- TOP 2.2: Kostenexplosion MUFL/UMA
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Kostenexplosion MUFL/UMA" (VO/0051/18) vom 26.11.2018
+- TOP 2.3: "Hendrin"
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Hendrin" (VO/0052/18) vom 26.01.2018
+- TOP 2.4: Umsetzung des Glücksspielstaatsvertrages in Wuppertal
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Umsetzung des Glücksspielstaatsvertrages in Wuppertal" (VO/0071/18) vom 30.01.2018
+- TOP 2.5: Gesundheitsschutz der Bevölkerung
+- TOP 2.5.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Gesundheitsschutz der Bevölkerung" vom 14.02.2018 (VO/0154/18)
+- TOP 2.6: Einschulungsuntersuchungen und Fördermöglichkeiten
+- TOP 2.7: Straftaten rund um das „Café Jim“ in der Barmer Innenstadt
+- TOP 2.7.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Straftaten rund um das 'Café Jim' in der Barmer Innenstadt" vom 14.02.2018 (VO/0156/18)
+- TOP 2.8: Anmeldungen durch ASS Bochum bei Kfz-Zulassung Wuppertal
+- TOP 2.9: Erfolg von Sprachkursen für Asylbewerber
+- TOP 2.10: Wortwahl „Unbegleitete minderjährige Ausländer_innen“
+- TOP 2.10.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Wortwahl 'Unbegleitete minderjährige Ausländer_innen'" vom 26.02.2018 (VO/0198/18)
+- TOP 2.11: Öffentliche Spielflächen in Wuppertal
+- TOP 2.12: Kürzung des Integrationsbudgets des Jobcenters im Jahr 2018
+- TOP 2.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zu verschiedenen Themen (Stadtentwicklung/Verkehr) - Entgegennahme ohne Beschluss
+- TOP 3.2: Antrag gemäß § 24 GO NRW auf Einstellung der Planungen für den Bau einer Forensischen Klinik auf dem Gelände der Kleinen Höhe - ungeändert beschlossen
+- TOP 3.3: Bürgerantrag zur Zuständigkeit für Angelegenheiten nach § 24 GO NRW (Anregungen und Beschwerden) - ungeändert beschlossen
+- TOP 3.4: Bürgerantrag "Zeichen 314 mit Zusatzzeichen 1024-12 anstelle eingeschränktes Halteverbot in der Neumarktstraße" - ungeändert beschlossen
+- TOP 3.5: Bürgerantrag "Entzug / Nichterteilung von Ausnahmegenehmigungen für nicht zugelassene Fahrzeuge und Anhänger am Beispiel WC-Wagen Bankstraße" - ungeändert beschlossen
+- TOP 3.6: Bürgerantrag "Aufstellung einer physikalischen Barriere zwecks Verhindern des Linksabbiegens aus der Hofaue 87-95" - ungeändert beschlossen
+- TOP 3.7: Bürgerantrag "Kontrollen der regelmäßigen Parkverstöße (Gehwegparken) an der Uellendahler Straße 245-251" - ungeändert beschlossen
+- TOP 3.8: Bürgerantrag "Verkürzung der Bussonderspur Hofkamp und Einrichtung einer Linksabbiegespur zum Parkhaus Hofkamp 46" - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Neugestaltung des Wupperparks Ost - abgelehnt
+- TOP 4.2: Änderung der Elternbeitragssatzung für Kinderbetreuung - zur Vorberatung verwiesen
+- TOP 4.3: Vermeintlich minderjährige unbegleitete Flüchtlinge: Ärztliche Feststellung des Lebensalters und Unterbindung von Kuppelei-Aktivitäten - abgelehnt
+- TOP 4.4: Feier zum 70. Jahrestag der Staatsgründung Israels - abgelehnt
+- TOP 4.5: Planungen zum Langen Tisch 2019 - abgelehnt
+- TOP 4.6: Abgesetzt. Vorberatungen nicht abgeschlossen. Elektromobilität in Wuppertal fördern – NRW-Sofortprogramm für unsere Stadt nutzen
+- TOP 4.7: Teilnahme der Stadt Wuppertal an der Kampagne STADTRADELN - geändert beschlossen
+- TOP 4.8: Berichterstattung zu laufenden Gerichtsverfahren - ungeändert beschlossen
+- TOP 4.9: Wirtschaftlichkeitsberechnungen zum Geschäft ASS-WMG - vertagt auf Rat
+- TOP 4.10: Maßnahmenkatalog zur Luftverbesserung - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Resolution Sozialticket - in der Sache erledigt
+- TOP 5.2: Digitalisierungsoffensive - geändert beschlossen
+- TOP 5.3: Erste Schritte zur digitalen Vorreiterstadt - ungeändert beschlossen
+- TOP 5.3.1: Abgesetzt. In der Sache erledigt. Änderungsantrag zu TOP 5.3, VO/0847/17/1-Neuf.: „Erste Schritte zur digitalen Vorreiterstadt durch Ausbau des Glasfasernetzes“
+- TOP 5.4: Abgesetzt. Vorberatungen nicht abgeschlossen. Verwaltung und Betrieb Übergangseinrichtungen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Erhebung von Kostenersatz, Gebühren und Entgelten in der Stadt Wuppertal bei Einsätzen der Feuerwehr (Feuerwehrsatzung) - ungeändert beschlossen
+- TOP 6.2: Fünfte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Zweite Änderung der Betriebssatzung des Eigenbetriebes Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 6.4: Erste Rechtsverordnung zur Änderung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten und Beförderungsbedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif) - ungeändert beschlossen
+- TOP 6.5: Manteldrucksache verkaufsoffene Sonntage 2018 - Entgegennahme ohne Beschluss
+- TOP 6.5.1: Verordnung über das Offenhalten von Verkaufsstellen am 08.07.2018 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 6.5.2: Verordnung über das Offenhalten von Verkaufsstellen am 03.06.2018 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Genehmigung einer überplanmäßigen Ausgabe: - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligung an der NRW.URBAN Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan des Gebäudemanagements für das Jahr 2018 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 772 A - Östlich der Straße Zur Waldkampfbahn / Tierheim - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1239 - Sportplatz Nevigeser Straße - (mit Flächennutzungsplanberichtigung 111B) - Satzungsbeschluss - Bebauungsplan 1215 - Sporthalle Kruppstraße / Nevigeser Straße - Aufhebung des Aufstellungsbeschlusses - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 763 - Spitzenstraße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1228 - Widukindstraße / Feuerstraße - Anordnung einer Veränderungssperre - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Vertagt auf Rat. Wuppertal 2025 - Projekt "Wuppertal als Fahrradstadt" Radabstellanlage am Döppersberg - vertagt auf Rat
+- TOP 10.2: Errichtung der offenen Ganztagsgrundschule Matthäusstraße und Bestimmung der Schulart - ungeändert beschlossen
+- TOP 10.3: Neubau Stadtteilzentrum Heckinghausen - ungeändert beschlossen
+- TOP 10.4: Errichtung eines städtischen Kadavercontainers am Standort der Abfallwirtschaftsgesellschaft (Korzert 15 - MHKW) - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Antrag auf Genehmigung zur Errichtung von Bildungsgängen gemäß § 81 Absatz 2 Schulgesetz für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.2: Wohnbauflächen identifizieren und ausweiten - vertagt auf Rat
+- TOP 11.3: Konzept für Personal- und Organisationsentwicklung - Entgegennahme ohne Beschluss
+- TOP 11.4: Eckpunkte für die Schulentwicklungsplanung 2018 - 2022 - ungeändert beschlossen
+- TOP 11.4.1: Änderungsantrag zu VO/1089/17 - Eckpunkte für die Schulentwicklungsplanung 2018 - 2022 - vertagt auf Rat
+- TOP 11.5: Abgesetzt. Vorberatungen nicht abgeschlossen. Handlungsprogramm Gewerbeflächen
+- TOP 11.5.1: Abgesetzt. Vorberatungen nicht abgeschlossen. Datenbank Potenzialflächen
+- TOP 11.6: Mitgliedschaft in der Arbeitsgemeinschaft „Fußgänger- und fahrradfreundlicher Städte, Gemeinden und Kreise in Nordrhein-Westfalen e. V. - ungeändert beschlossen
+- TOP 11.7: Abgesetzt. Vorberatungen nicht abgeschlossen. Handlungsprogramm Brachflächen - Fortschreibung 2017
+- TOP 11.8: Ausbau der offenen Ganztagsschule zum Schuljahr 2018/2019 um 100 Plätze - ungeändert beschlossen
+- TOP 11.9: Gremientätigkeiten von Herrn Oberbürgermeister Andreas Mucke - Entgegennahme ohne Beschluss
+- TOP 11.10: Fortführung Energiesparprojekt an Schulen: "energie gewinnt" - ungeändert beschlossen
+- TOP 11.11: Energiesparprojekt mit Mitarbeiterinnen und Mitarbeitern im Rathaus und im Verwaltungsgebäude Elberfeld - ungeändert beschlossen
+- TOP 11.12: Weihnachtsmärkte - ungeändert beschlossen
+- TOP 11.13: Genehmigung der Annahme einer Schenkung im Rahmen des Abschlusses eines Erbbaurechtsvertrages zur Realisierung der Baumaßnahme "Schwarzbachtrasse" - ungeändert beschlossen
+- TOP 11.14: Sachstand Sanierung Schloss Burg - Entgegennahme ohne Beschluss
+- TOP 11.15: Leitbild für das Bergische Städtedreieck - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Abberufung und Bestellung sachkundiger Einwohner/Einwohnerinnen im Ausschuss für Finanzen und Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP 12.2: Neuberufung von zwei Fachmitgliedern in den Gestaltungsbeirat - ungeändert beschlossen
+- TOP 12.3: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.4: Benennung der Mitglieder des Beirates Bürgerbeteiligung (nur Rat)
+- TOP 12.5: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.6: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
