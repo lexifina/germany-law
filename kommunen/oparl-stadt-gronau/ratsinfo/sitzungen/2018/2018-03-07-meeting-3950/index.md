@@ -1,0 +1,54 @@
+# Rat (45. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2018-03-07T18:00:00+01:00
+- Ende: 2018-03-07T20:55:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ16au6FG-GqH_9L7m5b53U
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3950
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdm3ehXfE8fbE12FuLXG0cE00_bEIjPhEvWVBJY1Yu3C/Bekanntmachung_Rat_07.03.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpoRVtXXmXKbRNIsjpEST3Ghc__reaqFUmELfyYkAc6/Oeffentliche_Niederschrift_Rat_07.03.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 31.01.2018
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Mietwucher in Gronau stoppen – Erstellung eines Mietspiegels für das Stadtgebiet Gronau; Antrag der SPD-Fraktion vom 08.02.2018 - 20 Jastimmen, 18 Neinstimmen, 0 Enthaltungen
+- TOP 4.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2016 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 5.: Fortschreibung des Abwasserbeseitigungskonzeptes der Stadt Gronau Hier: Beschluss der 6. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Stadt Gronau (Westf.) für den Zeitraum 2018-2023 - Einstimmig, 3 Enthaltungen
+- TOP 6.: Budgetbericht zum III. Quartal 2017 und IV. Quartal 2017 (zum Teil) - Ohne Abstimmung
+- TOP 7.: Anpassung des Ortsrechts für eine verbesserte Einbindung des Seniorenbeirats in die Arbeit der Ausschüsse der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 8.: 101. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Ochtruper Straße/Freiherr-von-Vincke-Straße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung er Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Planbeschluss - 38 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 9.: 94. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich „Hauskamp/Saarstraße“, Stadtteil Epe 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und sontigen Träger öffentlicher Belange - 38 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 10.: Bebauungsplan Nr. 121 "Bahnhof Gronau", 1. Änderung, Stadtteil Gronau (zugleich Änderung des Bebauungsplans Nr. 24 „Mühlenmathe“, Stadtteil Gronau) (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 19 "Sparenbergstraße", 5. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 21 Jastimmen, 18 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 17 "Südliche Albrechtstraße", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 173 "Brookstraße - Nordwest", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BBauGB 2. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § § 4a Abs. 3 BauGB i. V. m. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus dererneuten Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4a Abs. 3 BauGB i. V. m. § 4 Abs. 2 BauGB 7. Satzungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 184 "Nordwestlich der Kurfürstenstraße", Stadtteil Gronau zugleich Aufhebung der Bebauungspläne Nr. 77 und Nr. 77-1 "Bei der Schieferkuhle", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 202 "Beim Bungert", 2. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 210 "Sanierung Gronau II - Stadtteilzentrum Epe", 4. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss 4. Berichtigung des Flächennutzungsplans - Einstimmig, 0 Enthaltungen
+- TOP 17.: Auflösung ÜMi und Erweiterung OGS Lindenschule - Einstimmig, 0 Enthaltungen
+- TOP 18.: 1. Ergänzung – Bedarfsplanung Schulsozialarbeit an allen Schulstandorten der Stadt Gronau 2018 - 2021 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Weiterentwicklug der Richtlinien zur Förderung von Kindern in der Tagespflege zum 01.08.2018 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Anpassung der Elternbeitragssatzung in Kindertageseinrichtungen und in der Tagespflege - Einstimmig, 0 Enthaltungen
+- TOP 21.: Ordnungsbehördliche Verordnung zur Offenhaltung von Verkaufsstellen an Sonntagen in Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 22.: Aufhebung eines Bestellungsbeschlusses gem. § 58 Abs. 1 S. 7 GO NRW - Einstimmig, 1 Enthaltungen
+- TOP 23.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 24.: Terminplanung für das 2. Quartal 2018 - Ohne Abstimmung
+- TOP 25.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 26.: Mitteilungen der Verwaltung
+- TOP 27.: Anfragen
+- TOP 27.1: Einrichtung einer Querungshilfe an der Vennstraße (RM von Borczyskowski)
+- TOP 27.2: Zulässigkeit der Gülleausbringung in den Dinkelauen im Februar (RM von Borczyskowski)
+- TOP 27.3: Anmeldezahlen für weiterführende Schulen in Gronau (RM Brügger)
+- TOP 27.4: Messstellen für die Luftqualität in Gronau vorhanden? (RM Buchholz)
+- TOP 27.5: Stand der Dinge in Sachen Stadtbuskonzept (RM Buchholz)
+- TOP 27.6: Datenmaterial über den Grad der Breitbandversorgung im Stadtgebiet (RM Strestik)
+- TOP 27.7: Vermüllung von Sammelstellen für Glas, Papier u.a. (1. Stellv. d. BM Doetkotte)
+- TOP 27.8: Höhere Bußgelder für die Vermüllung der Landschaft möglich? (RM von Borczyskowski)
+- TOP 27.9: Enscheder Musikspielstätten Ausweichmöglichkeit anbieten (RM Buchholz)
