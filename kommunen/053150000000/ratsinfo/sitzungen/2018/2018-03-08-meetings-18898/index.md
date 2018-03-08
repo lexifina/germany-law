@@ -1,0 +1,78 @@
+# 28. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-08T17:00:00+01:00
+- Ende: 2018-03-08T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18898
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18898
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00650910.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00650910.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00650910.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 19.01.2018 betr. Angstraum BAB-Unterführung Rösrather Straße in Köln-Ostheim - zurückgestellt
+- TOP 1.3: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 19.01.2018 betr. Parken auf dem Dr. Uta Renn-Platz in Köln-Ostheim - zurückgestellt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Hundefreilauffläche in Vingst - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Schaffung einer Wegeverbindung von der Flüchtlingsunterkunft zur Bushaltestelle Europaring auf dem Neubrücker Ring - ungeändert beschlossen
+- TOP 7.2: Umbenennung der Heinrich-Lersch-Straße in Köln-Neubrück - zurückgestellt
+- TOP 7.3: Schaffung einer Parkebene in Verbindung mit einer Fahrradgarage im Bereich der zukünftigen S-Bahn-Haltestelle Köln-Kalk West - geändert beschlossen
+- TOP 7.4: Zeitgemäße Neuordnung des Verkehrs im Brücker Osten in Köln-Brück - ungeändert beschlossen
+- TOP 7.5: Fahrradschutzstreifen als Spurwechselhilfe für die nordwestliche Einmündung der Straße des 17. Juni auf die Gummersbacher Straße in Köln-Kalk - ungeändert beschlossen
+- TOP 7.6: Nachpflanzungen, Baumschutz und Spielplatzerweiterung im Bürgerpark Kalk - ungeändert beschlossen
+- TOP 7.7: Sanierung der Forsbacher Straße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.8: Prüfung einer dauerhaften Genehmigung für Lagerfeuer für Pfadfinder in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.9: Luftreinhaltung - Position des Stadtbezirks Kalk zur Fortschreibung des Luftreinhalteplans - ungeändert beschlossen
+- TOP 7.10: Aufstellung von Schulcontainern auf dem Grundstück der KGS Andreas-Hermes-Straße in Köln-Neubrück - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Beschluss für die Aufweitung der Fahrbahn und Markierung eines Linksabbiegestreifens an der Kreuzung Olpener Straße/Flehbachstraße - geändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - Sache ist erledigt
+- TOP -: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans (3428/2017) - Sache ist erledigt
+- TOP 8.2.2: Olpener Straße 250 bis 252 in Köln-Höhenberg; Einleitungsbeschluss - geändert beschlossen
+- TOP 8.2.3: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Querungshilfe auf der Rösrather Straße zwischen Servatiusstraße und BAB-Überführung in Höhe des Kindergartens Köln-Ostheim - Kenntnis genommen
+- TOP 9.1.2: Instandsetzung des Daches der Turnhalle der Kaiserin-Theophanu-Schule in Köln-Kalk - Kenntnis genommen
+- TOP 9.1.3: Verkehrsberuhigung Am Hirschsprung in Köln-Brück - Kenntnis genommen
+- TOP 9.1.4: Sanierung des Fuß- und Radweges zwischen Eiler Straße und Fockerweg in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.5: Sachstand zu Schulbauten im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.6: Querungshilfe auf der Eiler Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.7: Barrierefreiheit bei der KVB im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.8: Oberer Bruchweg 6 in Köln-Brück (Brücker Sportpark) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Autobahn 559 (Östlicher Zubringer) Richtung Porz – Ausfahrt „Am Grauen Stein“ - Kenntnis genommen
+- TOP 9.2.2: Öffnung der Einbahnstraßen in Köln Kalk für den gegenläufigen Radverkehr - Kenntnis genommen
+- TOP 9.2.3: Instandsetzung der Wege und Wegränder auf der Merheimer Heide in Köln-Merheim - Kenntnis genommen
+- TOP 9.2.4: Sachstand der Grundschulanmeldungen in den Stadtteilen Neubrück und Merheim - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 10.2.2: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 10.2.3: Kasernenstraße in Köln-Kalk; 71455/01; Offenlage Vorhabenbezogener Bebauungsplan-Entwurf - Kenntnis genommen
+- TOP 10.2.4: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 10.2.5: Integriertes Stadtentwicklungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.6: Earth Hour 2018 - Kenntnis genommen
+- TOP 10.2.7: Naturnaher Gewässerausbau des Flehbach in der Parkanlage Köln-Brück - Kenntnis genommen
+- TOP 10.2.8: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.9: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.10: Bau einer Abstellanlage für Linienbusse auf dem Gelände des Stadtbahnbetriebshofs Merheim der KVB AG - Kenntnis genommen
+- TOP 10.2.11: E-Bike Ladestation an der Endhaltestelle der Linie 9 am Königsforst - Kenntnis genommen
+- TOP 10.2.12: Fußgängerüberwege auf der Eiler Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.13: Unfallhäufungsstellen und tödliche Verkehrsunfälle im Stadtbezirk Kalk - Kenntnis genommen
