@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-08T16:10:00+01:00
+- Ende: 2018-03-08T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18722
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18722
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 08.03.2018, 10:00 Uhr, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651953.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 08.03.2018, 10:00 Uhr, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651953.pdf
+- Wortprotokoll: Tagesordnung, Stand 08.03.2018, 10:00 Uhr, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00651953.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Verbreiterung der A59 - Kompensationsmaßnahmen im Rechtsrheinischen - Sache ist erledigt
+- TOP 1.1.1: Beantwortung einer Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend „Verbreiterung der A 59 - Kompensationsmaßnahmen im Rechtsrheinischen“ - Kenntnis genommen
+- TOP 1.2: Kölner Umweltzone - zurückgestellt
+- TOP 1.2.1: Beantwortung der Anfrage - zurückgestellt
+- TOP 1.3: Biodiversität im Zuge der Umsetzung zweier Beschlüsse - Sache ist erledigt
+- TOP 1.3.1: Biodiversität im Zuge der Umsetzung zweier Beschlüsse; Anfrage der Fraktio Die Linke - Kenntnis genommen
+- TOP 1.4: Sachstand zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs und Prüfung alternativer Standorte einer Hubschrauberbetriebsstation in Köln - Sache ist erledigt
+- TOP 1.4.1: Sachstand zur nutzungsunabhängigen Haldenstabilisierung des Kalkbergs und Prüfung alternativer Standorte einer Hubschrauberbetriebsstation in Köln - Kenntnis genommen
+- TOP 1.5: Betrieb städtischer Gebäude im Passivhaus-Standard - zurückgestellt
+- TOP 1.5.1: Betrieb städtischer Gebäude im Passivhaus-Standard - zu AN/1490/2017 - zurückgestellt
+- TOP 1.6: Fragen zur Fortschreibung des Luftreinhalteplans - Sache ist erledigt
+- TOP 1.6.1: Fragen zur Fortschreibung des Luftreinhalteplans (AN/0162/2018) - Kenntnis genommen
+- TOP 1.7: Agrarflächen im Eigentum der Stadt Köln - Sache ist erledigt
+- TOP 1.7.1: Agrarflächen im Eigentum der Stadt Köln - Kenntnis genommen
+- TOP 1.8: Würdevoller Umgang mit der Asche Verstorbener nach einer Kremierung - zurückgestellt
+- TOP 1.9: Erstellung eines Gutachtens zur zukünftigen Ausrichtung der städtischen Friedhöfe - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag der Fraktion Die LinkeAnalyse verschiedener Kleinrammbohrungen (KRB) aus dem Kalkberg - zurückgestellt
+- TOP 2.2: Bessere Erfassung der Feinstäube in Köln - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Richtlinie des Förderprogramms „Altbausanierung und Energieeffizienz - klimafreundliches Wohnen" - ohne Votum in nachfolgende Gremien
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 4.2: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 4.3: Schenkung - Kompakttraktor mit Frontlader - ungeändert empfohlen
+- TOP 4.4: Schenkung - Wassererlebnispfad von Pulheim bis zum Rhein - ungeändert empfohlen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 7.2: Naturnaher Gewässerausbau des Flehbach in der Parkanlage Köln-Brück - Kenntnis genommen
+- TOP 7.3: Zustand der Schießsportanlage Hubertusweg - zurückgestellt
+- TOP 7.4: Sachstandsbericht Schaugewächshaus und Orangerie im Botanischen Garten Köln, Amsterdamer Str. 34 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Korrekturen im Maßnahmenkatalog des Runden Tisches Luftreinhaltung - Kenntnis genommen
