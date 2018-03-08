@@ -1,0 +1,125 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-08T16:00:00+01:00
+- Ende: 2018-03-08T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18814
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18814
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1: Aktuelle Stunde: Anlegesituation der Binnenschifffahrt im und am Rheinauhafen - Miteinander statt übereinander reden und Lösungen finden -
+- TOP 1.2: Aktuelle Stunde: Fällung von Bäumen am Habsburgerring
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Richtlinie für die Benennung von Straßen - ungeändert beschlossen
+- TOP 4.2: Teileinziehung im Bereich der Eisenbahnüberführung Johannisstraße in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 4.3: Parkraumbewirtschaftung auf dem Auenweg in Köln Deutz - geändert beschlossen
+- TOP 4.3.1: ÄA zur Vorlage 3563/2017 - Parkraumbewirtschaftung auf dem Auenweg - geändert beschlossen
+- TOP 4.4: Demontage der Lichtsignalanlagen Neusser Straße/Neusser Wall, Neusser Straße/Weißenburgstraße und Neusser Straße/Balthasarstraße und Ersatz durch alternative Betriebsformen - zurückgestellt
+- TOP 4.4.1: Änderungsantrag zu TOP Demontage der LSA Neusser Str. - zurückgestellt
+- TOP 4.5: Fällung eines Baumes an der Kyotostraße - zurückgestellt
+- TOP 4.6: Einbahnstraßenregelung Friesenstraße - zurückgestellt
+- TOP 4.7: Verkehrsführungskonzept Altstadt - zurückgestellt
+- TOP 4.8: Generalinstandsetzung BK 14 Berufskolleg Perlengraben 101. 50676 Köln, Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplans 0301 bei Finanzstelle 4016-0301-1-5003 - ungeändert beschlossen
+- TOP 4.9: Fahrbahnparken Brüsseler Straße - geändert beschlossen
+- TOP 4.10: Auslobung eines Gutachterverfahrens als Mehrfachbeauftragung zur Möblierung des kleinen und des großen Offenbachplatzes im Opernquartier Köln - geändert beschlossen
+- TOP 4.10.1: Auslobung eines Gutachterverfahrens als Mehrfachbeauftragung zur Möblierung des kleinen und des großen Offenbachplatzes im Opernquartier Köln (3230/2017), Änderungsantrag der SPD - ungeändert beschlossen
+- TOP 4.11: Rudolfplatz - ungeändert beschlossen
+- TOP 4.12: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - abgelehnt (in der Vorberatung)
+- TOP 4.13: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd - ungeändert beschlossen
+- TOP 4.14: Planfeststellungsverfahren für die Erneuerung von 3 Eisenbahnüberführungen über der Deutz-Mülheimer Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 4.15: Ebertplatz: Weiterentwickeltes Zwischennutzungskonzept - ungeändert beschlossen
+- TOP 5: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation am Hansaring 119 für Anwohner (Az.: 02-1600-84/17) - geändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Umbaumaßnahmen der Straße "Am Kümpchenshof" zwischen Hansaring und Maybachstraße (Az.: 02-1600-50/16) - zurückgestellt
+- TOP 5.3: Bürgereingabe gem. § 24 GO, betr.: Rhein-Gierseilfähre Poll Deutz (Az.: 02-1600-87/17) - ungeändert beschlossen
+- TOP 5.4: Hundefreilauffläche, Tor vor dem Spielplatz an der Quentelstraße - ungeändert beschlossen
+- TOP 5.5: Bürgereingabe gem. 24 § GO NRW, betreffend "Soziale Erhaltungssatzung/Milieuschutz nach § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch" - zurückgestellt
+- TOP 5.6: Bürgereingabe gemäß §24 GO betr. Sanierung Rheinparkcafé (Az. 02-1600-11/18) - ungeändert beschlossen
+- TOP 6: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 6.1: Anträge aus früheren Sitzungen
+- TOP 6.1.1: Antragstellung beim Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) auf Erlaubnis zur kontrollierten und lizenzierten Abgabe von Cannabisprodukten zum Zweck des Betriebs von Abgabestellen in der Kölner Innenstadt - ungeändert beschlossen
+- TOP 6.1.2: Umwidmung von Parkplätzen in Radabstellanlagen - Severinstraße 35-37 - geändert beschlossen
+- TOP 6.1.2.1: Neuordnung der Fahrradabstellanlagen Severinstraße 35-39 - geändert beschlossen
+- TOP 6.1.3: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 6.1.4: Prüfung einer Parkpalette unter bzw. an der Zoobrücke, Antrag CDU - zurückgestellt
+- TOP 6.1.5: Prüfung Radweg Venloer Straße, Antrag Linke - ungeändert beschlossen
+- TOP 6.1.6: Verbesserung der Beleuchtungssituation des Fußgängerwegs zwischen Im Sionstal und Severinstraße - ungeändert beschlossen
+- TOP 6.1.7: Verbesserung der Situation für FußgängerInnen Ubierring/TH Köln, Antrag Grüne - zurückgestellt
+- TOP 6.1.8: Attraktivierung des Josef-Haubrich-Hofes (Altstadt/Süd) - geändert beschlossen
+- TOP 6.1.8.1: Attraktivierung des Josef-Haubrich-Hofes (Altstadt/Süd), Änderungsantrag SPD - ungeändert beschlossen
+- TOP 6.1.9: Umgestaltung des Eisenmarktes - geändert beschlossen
+- TOP 6.1.10: Abpollerung Auenweg - geändert beschlossen
+- TOP 6.1.11: Fahrbahnparken Brüsseler Straße - endgültig zurückgezogen
+- TOP 6.1.12: Radabstellanlagen Alteburger Straße 26-28 - ungeändert beschlossen
+- TOP 6.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 6.2.1: BV-Beschlüsse einhalten, gem. Antrag von Linke, Grün, CDU, Gut und Deine Freunde - ungeändert beschlossen
+- TOP 6.2.2: Maßnahmen zur Verminderung des Parkdrucks im Bewohnerparkgebiet Deutz I., gemeinsamer Antrag Grüne, Linke, GUT und Freunde - zurückgestellt
+- TOP 6.2.3: Radverkehrskonzept Innenstadt und runder Tisch, gemeinsamer Antrag Grüne, SPD, Linke, Deine Freunde - ungeändert beschlossen
+- TOP 6.2.4: Umgestaltung der Pipinstraße (Altstadt/Süd), Antrag SPD - geändert beschlossen
+- TOP 6.2.5: Absenkung des Bordstein am Zebrastreifen der Leonhard-Tietz-Str., Antrag CDU - ungeändert beschlossen
+- TOP 6.2.6: Prüfauftrag zur Öffnung der Ludolf-Camphausen-Straße für den Zweirichtungsverkehr, Antrag FDP - endgültig abgelehnt
+- TOP 6.2.7: Fortführung der Piktogrammkette Nord-Südfahrt, Antrag GUT - ungeändert beschlossen
+- TOP 6.2.8: Entwicklung der Fahrradverleihsysteme in der Innenstadt, Antrag SPD - zurückgestellt
+- TOP 6.2.9: Erneuerung der Beleuchtung am Boul-Platz, Antrag CDU - zurückgestellt
+- TOP 6.2.10: Antrag auf Aufstellung einer Citytoilette im Grüngürtel, Antrag FDP - ungeändert beschlossen
+- TOP 6.2.11: Mehr Platz für den Fußverkehr in der Maybachstrasse, Antrag GUT - zurückgestellt
+- TOP 6.2.12: Trimm-Dich-Pfad im Theodor-Heuss-Park, Antrag CDU - zurückgestellt
+- TOP 6.2.13: Überdachte Radabstellanlagen am Kölner Zoo, Antrag GUT - endgültig zurückgezogen
+- TOP 6.2.14: Beleuchtungssituation im näheren Umkreis der Straße Blaubach, Antrag CDU - zurückgestellt
+- TOP 6.2.15: Querung der Nord-Süd-Fahrt in Höhe des WDR-Archivgebäudes, Dringlichkeitsantrag Grüne - ungeändert beschlossen
+- TOP 6.2.16: Zuständigkeitsprüfung für ein Verkehrskonzept Altstadt, Dringlichkeitsantrag Grüne - ungeändert beschlossen
+- TOP 7: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 8: Anfragen aus früheren Sitzungen
+- TOP 8.1: Rechtsrheinische Treppenanlagen der Deutzer Brücke - zurückgestellt
+- TOP 8.2: Obdachlosen-/“Alkoholkonsum“-Szene auf der Deutzer Freiheit - zurückgestellt
+- TOP 8.3: Sauberkeit Spielanlage Von-Sandt-Platz, Anfrage CDU - zurückgestellt
+- TOP 8.4: Anfrage zur Drehung der Fahrtrichtung im Kartäuserwall - zurückgestellt
+- TOP 8.5: Bodenmarkierungen für Fußgängerüberwege - Kenntnis genommen
+- TOP 8.5.1: Bodenmarkierungen für Fußgängerüberwege - Kenntnis genommen
+- TOP 8.6: Gastronomien in der Passage Ebertplatz, Anfrage SPD - zurückgestellt
+- TOP 8.7: Wildwuchs auf der Nordseite der Kasemattenstraße in Deutz - zurückgestellt
+- TOP 8.8: Spiel- und Sportgeräte im Klingelpützpark (Altstadt/Nord), Anfrage SPD - zurückgestellt
+- TOP 8.9: Unterbringung einer Tanzschule im Innenhofbereich Kyffhäuserstr. - Kenntnis genommen
+- TOP 8.9.1: AN/1782/2017, BV 1, Unterbringung einer Tanzschule im Innenhofbereich Kyffhäuserstr. - Kenntnis genommen
+- TOP 8.10: Quartiersplatz Ursulaplatz/Ecke Am Salzmagazin (Altstadt/Nord) - zurückgestellt
+- TOP 8.11: Sauberkeit in Deutz, Anfrage CDU - zurückgestellt
+- TOP 8.12: Stationen für Leihräder (Ford-Räder), Anfrage SPD - Kenntnis genommen
+- TOP 8.12.1: Stationen für Leihräder (Ford-Räder) - Kenntnis genommen
+- TOP 8.13: Weitere Präsentation der Archäologie am Historischen Park Deutz, Anfrage CDU - zurückgestellt
+- TOP 8.14: Wohnraumzweckentfremdungen - zurückgestellt
+- TOP 8.15: Sachstand Radstation und Umfeldplanungen am Südbahnhof (Neustadt/Süd) - zurückgestellt
+- TOP 8.16: Antragstellung beim Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) auf Erlaubnis zur kontrollierten und lizenzierten Abgabe von Cannabisprodukten zum Zweck des Betriebs von Abgabestellen in der Kölner Innenstadt (AN/0039/2018) - Kenntnis genommen
+- TOP 9: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 9.1: „Embassy of Trees“ AN/1699/2017, Anfrage Grüne - zurückgestellt
+- TOP 9.2: Situation am Casino Köln Deutz, Anfrage CDU - zurückgestellt
+- TOP 9.3: Sachstand Kartäuserwall 14, Anfrage Linke - zurückgestellt
+- TOP 9.4: Anfrage zur Aufstellung von Lichtsignalmasten und Fußgängerführung, Anfrage FDP - zurückgestellt
+- TOP 9.5: Vermüllung im Bereich Weidengasse/Gereonswall, Anfrage CDU - zurückgestellt
+- TOP 9.6: Schrottfahrräder in der Innenstadt, Anfrage Linke - zurückgestellt
+- TOP 9.7: Winterdienst auf Radinfrastruktur am Rheinufer, Anfrage GUT - zurückgestellt
+- TOP 9.8: Zukunft des Karl-Küpper-Platzes, Anfrage GUT - zurückgestellt
+- TOP 10: Mündliche Fragen an die Verwaltung
+- TOP 10.1: siehe TOP 8.5.1
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Ladezone Komödienstraße Ecke Tunisstraße - Kenntnis genommen
+- TOP 12.2: Wiedereinführung des G9-Bildungsgangs an Gymnasien - Informationen zum geplanten Schulrechtsänderungsgesetz und zur Umsetzung in Köln - Kenntnis genommen
+- TOP 12.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 12.4: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 12.5: Hundewiese im Theodor-Heuss-Park 2 - Kenntnis genommen
+- TOP 12.6: Earth Hour 2018 - Kenntnis genommen
+- TOP 12.7: Ehemaliges Gebäude des Rautenstrauch-Joest-Museums, Ubierring 45 - Kenntnis genommen
+- TOP 12.8: Verkehrsversuch Sperrung Zülpicher Straße - Kenntnis genommen
+- TOP 12.9: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 12.10: Fragen zur Fortschreibung des Luftreinhalteplans (AN/0162/2018) - Kenntnis genommen
+- TOP 12.11: Fahrbahnmarkierung in der Domumgebung - Kenntnis genommen
+- TOP 12.12: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
