@@ -1,0 +1,63 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-03-08T15:00:00+01:00
+- Ende: 2018-03-08T18:00:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/15208
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/15208
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311315.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311315.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00311315.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Bestellung der Schriftführerin und des stellvertretenden Schriftführers - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: ART DÜSSELDORF im Areal Böhler (Bericht) - zur Kenntnis genommen
+- TOP 6: Anfrage der Fraktion Bündnis 90/Die Grünen: Wiederherstellung Salon des Amateurs - beantwortet
+- TOP 7: Anfrage der FDP-Fraktion: "Partizipation an der Erhöhung des Kulturetats des Landes NRW" - beantwortet
+- TOP 8: Anfrage Die Linke: Kompetenzzentrum Kultur- und Kreativwirtschaft - beantwortet
+- TOP 9: Anfrage Die Linke: Vergünstigte „Art:card“ für Inhaberinnen und Inhaber des Düsselpasses - beantwortet
+- TOP 10: Anfrage Die Linke: Künstlerkarte für Künstlerinnen und Künstler in Düsseldorf - beantwortet
+- TOP 11: Anfrage der CDU-Fraktion: Gastronomie am Stadtmuseum - beantwortet
+- TOP 12: Anfrage der Fraktion Bündnis90/Die Grünen: Fotozentrum - beantwortet
+- TOP 13: Antrag Die Linke: Prüfung der Umsetzung eines Veranstaltungsprogrammes zum 100-jährigen Jubiläum der - mehrheitlich beschlossen
+- TOP 14: Antrag der CDU-Fraktion: Förderkonzept für Bandmitglieder über 30 - einstimmig beschlossen
+- TOP 15: Antrag von SPD, Grüne und FDP-Fraktion: Geschichte der Glasproduktion sichern - einstimmig beschlossen
+- TOP 16: Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/Die Grünen und FDP: Förderung von Musikfestivals - einstimmig beschlossen
+- TOP 17: Antrag der CDU-Fraktion: Foto-Stadt Düsseldorf: Gemeinsam statt gegeneinander als Zukunftsperspektiv - mehrheitlich abgelehnt
+- TOP 18: Antrag der CDU-Fraktion: Masterplan Kulturbauten – für immer ein Geheimpapier der Verwaltung? - mehrheitlich abgelehnt
+- TOP 19: Sanierung von Dach und Fassade des Schauspielhauses am Gustaf-Gründgens-Platz -Ausführungs- und Fin - passieren lassen
+- TOP 20: Konrad-Adenauer-Platz 1: Information über die Flächenaufteilung und Einrichtungsgestaltung der Zent - zur Kenntnis genommen
+- TOP 21: Gründung der Tonhalle Düsseldorf gGmbH - Empfehlung mehrheitlich beschlossen
+- TOP 22: Anhebung der Eintrittspreise für Eigenveranstaltungen der Tonhalle ab der Saison 2018/19 - zur Kenntnis genommen
+- TOP 23: Anhebung der Miet- und Dienstleistungskonditionen der Tonhalle ab der Saison 2018/19 - Empfehlung mehrheitlich beschlossen
+- TOP 24: Konzept zur Überprüfung Düsseldorfer Straßen- und Platzbenennungen - einstimmig beschlossen
+- TOP 25: Ausstellungsprogramm 1. Halbjahr 2018, Heinrich-Heine-Institut - einstimmig beschlossen
+- TOP 26: Ausstellungsprogramm 1. Halbjahr 2018, Theatermuseum - einstimmig beschlossen
+- TOP 27: Ausstellungsprogramm 1. Halbjahr 2018, Stadtmuseum - einstimmig beschlossen
+- TOP 28: Ausstellungsprogramm 1. Halbjahr 2018, Goethe-Museum - einstimmig beschlossen
+- TOP 29: Ausstellungsprogramm 1. Halbjahr 2018, Hetjens-Museum - einstimmig beschlossen
+- TOP 30: Ausstellungsprogramm 1. Halbjahr 2018, Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 31: Ausstellungsprogramm 1. Halbjahr 2018, Kunstraum - einstimmig beschlossen
+- TOP 32: "Jugend, Kultur und Schule" - einstimmig beschlossen
+- TOP 33: Gesamtstädtisches Integrationskonzept für die Landeshauptstadt Düsseldorf – Handlungsfeld Kultur: In - einstimmig beschlossen
+- TOP 34: Berufung von zwei Mitgliedern und einer Stellvertreterin für die Jury Förderpreis für Musik der Land - Empfehlung einstimmig beschlossen
+- TOP 35: Beteiligung des Stadtmuseums an einem Sammelantrag zur Aufnahme von Zeichnungen von Kindern und Juge - zur Kenntnis genommen
+- TOP 36: Beirat Tanz und Theater (Sitzung am 19.12.2017) - einstimmig beschlossen
+- TOP 37: Berufung in den Beirat für bildende Kunst - einstimmig beschlossen
+- TOP 38: Beirat bildende Kunst (Sitzung am 01.03.2018) - einstimmig beschlossen
+- TOP 39: Umbesetzung im Beirat für Musik - einstimmig beschlossen
+- TOP 40: Beirat Musik (Sitzung am 20.02.2018) - mehrheitlich beschlossen
+- TOP 41: Beirat Literatur (Sitzung am 21.02.2018) - einstimmig beschlossen
+- TOP 42: Zuschuss zu Konzert im Rahmen der Konferenz „Jiddischland – Thinking Europe in Yiddish“ - einstimmig beschlossen
+- TOP 43: Zuschuss 16. Filmfest Düsseldorf 2018 - einstimmig beschlossen
+- TOP 44: Bandprofessionalisierung 2018 - zur Kenntnis genommen
+- TOP 45: Zuschuss für ein Projekt der Kinder- und Jugendkulturarbeit 2018 - einstimmig beschlossen
+- TOP 46: Beschlusskontrolle - einstimmig beschlossen
