@@ -1,0 +1,117 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4596875
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4596875
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.2.: UA Bau und Wohnen
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Rolf-Pinegger-Straße 16 - 22, gem. Baumbestandsplan Nr. 1313
+- TOP 7.1.2.: Sonnenblumenstraße 53, gem. Baumbestandsplan Nr. 26949
+- TOP 7.1.3.: Am Brombeerschlag 29, 1 Fichte und 1 Rotbuche
+- TOP 7.1.4.: Am Hedernfeld 5 - 24, 3 Bergahorn und 1 Stieleiche
+- TOP 7.1.5.: Am Waldrand 39, 1 Kiefer und 1 Fichte
+- TOP 7.1.6.: Aurikelstraße 32, 1 Birke
+- TOP 7.1.7.: Kornwegerstraße 42, 1 Eiche und 1 Rosskastanie
+- TOP 7.1.8.: Krokusstraße 22 a, 1 Zier-Pflaume
+- TOP 7.1.9.: Rudi-Seibold-Straße 1 - 41, 1 Feldahorn
+- TOP 7.1.10.: Würmtalstraße 47, 1 Birke
+- TOP 7.1.11.: Drozzaweg 12, gem. Baumbestandsplan Nr. 1047
+- TOP 7.1.12.: Drozzaweg 12, gem. Baumbestandsplan Nr. 1054
+- TOP 7.1.13.: Drozzaweg 12, gem. Baumbestandsplan Nr. 1056
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Vorstellung Pläne Neu- und Erweiterungsbau Kinderzentrum München
+- TOP 1.1.: Bäume vor dem Anwesen Stiftsbogen 21
+- TOP 1.2.: Baumfällungen im Bereich der Wohnanlage Terofalstraße 11 - 15 und 17 sowie dem NORMA-Gelände Terofalstraße 19
+- TOP 3.1.: UA Soziales und Kultur
+- TOP 5.1.: Budget der Bezirksausschüsse, MobilSpiel e.V., "Kicklusion - Alle spielen mit" am 06.05.2018 im Westpark, 453,- € (Direktorium, 05.02.18)
+- TOP 5.2.: Budget der Bezirksausschüsse, Initiative „München malt-Das Leben ist bunt“, Bürger-Malprojekt „München malt-Das Leben ist bunt“, 3.972,48 € (Direktorium, 25.01.18)
+- TOP 5.3.: A96; Reduzierung der zulässigen Geschwindigkeit im Stadtgebiet auf 60 km/h (Ziffer 2 des Antrags) (Kreisverwaltungsreferat, 15.02.18)
+- TOP 5.4.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., MFM-Projekt Elternabend am 06.06. und „KörperWunderWerkstatt“ am 21.06., 740,- € (Direktorium, 22.02.18)
+- TOP 5.5.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Zeitungsständer Guardinistraße 108 / U-Bahn Haderner Stern (Kreisverwaltungsreferat, 21.02.18)
+- TOP 6.1.: Veranstaltung in einer städtischen Grünanlage, hier: Gottesdienst von Namen Jesu und Simeonskirche am Neufriedenheimer Platz am 08.07.2018 (Kreisverwaltungsreferat, 06.02.18)
+- TOP 6.2.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz vom 04. - 10.06.2018, Circusvorstellung des Circus Galliano (Kreisverwaltungsreferat, 06.02.18)
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, 31. Haderner Dorffest vom 04.05. - 13.05.2018 von 11.00 - 23.00 Uhr (Kreisverwaltungsreferat, 08.02.18)
+- TOP 6.4.: Änderung der BA-Satzung: Inklusionsbeauftragte in den Bezirksausschüssen (Direktorium, 14.02.18)
+- TOP 6.5.: Rolf-Pinegger-Straße 16 - 22, Neubau eines Mehrfamilienhauses mit Garage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 07.02.18)
+- TOP 6.6.: Erinnerungsverfahren: Hallgartenstraße 5 - 7, Bauschadenwiederherstellung (Baureferat, 02.02.18)
+- TOP 6.7.: Mittelfristige Finanzplanung 2017 - 2021, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2018 bis 2022 (Stadtkämmerei, 06.02.18)
+- TOP 6.8.: Verkehrsrechtliche Anordnung, Erleichterte steckenbezogenene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: - Blumenauer Straße 11 - Senftenauerstraße 21 (Kreisverwaltungsreferat, 15.02.18)
+- TOP 6.9.: Landtags- und Bezirkswahl 2018; Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung (Kreisverwaltungsreferat, 06.02.18)
+- TOP 6.10.: Erinnerungsverfahren: Terofalstraße von Nr. 3 bis 25, Blumenauer Straße bis Silberdistelstraße, Fahbahnsanierung (Baureferat, 26.02.18)
+- TOP 6.11.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs, Abfrage von Standortvorschlägen (Kreisverwaltungsreferat, 05.03.18)
+- TOP 6.12.: Spielaktionen der AG Spiellandschaft Stadt 2018: - 04.06. - 08.06.2018: Spielkistl in der Blumenau, Spielplatz Wastl-Witt-Straße nördlich Terofalstraße - 24.09. - 28.09.2018: Spielkistl in der Blumenau, Spielplatz Wastl-Witt-Straße nördlich Terofalstraße (Spiellandschaft Stadt e.V., 05.03.18)
+- TOP 7.2.1.: Stolzenfelsstraße 4 a, 1 Schwarzkiefer (Referat für Stadtplanung und Bauordnung, 07.02.18)
+- TOP 7.2.2.: Liste des Baureferates vom 23.01.2018: 15 Bäume auf dem Waldfriedhof
+- TOP 7.2.3.: Silberblattstraße 25, 1 Scheinzypresse und 2 Fichten (Referat für Stadtplanung und Bauordnung, 27.02.18)
+- TOP 7.2.4.: Am Hedernfeld 5, 1 Vogelkirsche (Referat für Stadtplanung und Bauordnung, 01.03.18)
+- TOP 7.2.5.: Am Hedernfeld 24, 1 Birke (Referat für Stadtplanung und Bauordnung, 01.03.18)
+- TOP 7.4.1.: Stahleckplatz 1 - 1 a, 1 Blauzeder und 1 Fichte (Referat für Stadtplanung und Bauordnung, 25.01.18)
+- TOP 8.1.: BA-Informationsschreiben Nr. 02/2018; Abrechnung der Aufwandsentschädigung, Einsatz einer neuen Abrechnungssoftware (Direktorium, 05.02.18)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: - Terofalstraße 125 / Wastl-Witt-Straße; Strom (SWM, 09.02.18) - Rudi-Seibold-Straße 39; Strom (SWM, 26.02.18)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Steinpilzweg (Sozialreferat, 12.02.18) - Geranienstraße (Sozialreferat, 15.02.18) - Windeckstraße (Sozialreferat, 20.02.18)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Willibaldstraße 146 (Kreisverwaltungsreferat, 19.02.18)
+- TOP 8.5.: Ergebnisse der BA-Satzungskommission, Behandlung im Stadtrat (Direktorium, 26.01.18) (Hinweis auf die Sitzungsvorlage Nr. 14-20 / V 10577)
+- TOP 8.6.: Standards barrierefreie Fußgängerzonen (Sozialreferat, Behindertenbeirat, 19.02.18)
+- TOP 8.7.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - Capposecco, Stiftsbogen 43 (Kreisverwaltungsreferat, 22.02.18)
+- TOP 9.1.: Absenkung Bordstein Ida-Schumacher-Weg / Menaristraße (Baureferat und Kreisverwaltungsreferat, 13.02.18)
+- TOP 9.2.: Beidseitiger Radweg in der Terofalstraße und Blumenauer Straße (Kreisverwaltungsreferat, 29.01.18)
+- TOP 9.3.: Ausbau Sauerbruchstraße (Baureferat, 13.02.18)
+- TOP 9.4.: Brummgeräusche in der Wohnung (Referat für Gesundheit und Umwelt, 13.02.18)
+- TOP 9.5.: OBikes vor dem Haus für Kinder am Stiftsbogen (Referat für Stadtplanung und Bauordnung, 21.02.18)
+- TOP 9.6.: Messstellen von Luftschadstoffen (Referat für Gesundheit und Umwelt, 15.02.18)
+- TOP 9.7.: Nächtliche Inbetriebnahme der Ampelanlage Sauerbruchstraße / Pfingstrosenstraße in Höhe U-Bahnendhaltestelle Klinikum Großhadern (Kreisverwaltungsreferat, 20.02.18)
+- TOP 9.8.: Bolzplatz am Stiftsbogen (Baureferat, 06.03.18)
+- TOP 10.1.: Roll-Rampen für U-Bahnhöfe (MVG, 01.02.18)
+- TOP 10.2.: Wohnungspakt Bayern (1. Säule); Objekt Kurparkstraße 60 / 62 (Regierung von Oberbayern, 26.02.18)
+- TOP 11.1.: Standortbegehung IHFEM am Dienstag, 15.05.2018 (SWM, 14.02.18)
+- TOP 11.2.: Bürgerforum Altenpflege am 20.03.2018 im alten Rathaus (Direktorium, Januar 2018)
+- TOP 11.3.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 15.01.2018 (Mieterbeirat, 20.02.18)
+- TOP 11.4.: BA-Dialog mit dem Referat für Bildung und Sport am 19.04.2018 (Referat für Bildung und Sport, 27.02.18)
+- TOP 1.1.1.: Beschluss vom 13.12.2017: Maßnahmen zur Stärkung des Baumschutzes in München "Aktion Kontrolle Grün"
+- TOP 1.1.2.: Beschluss vom 13.12.2017: Parkraummanagement in München - Fortschreibung Sektor V
+- TOP 1.1.3.: Beschluss vom 13.12.2017: Studie für die Landeshauptstadt München "Nutzungsmuster öffentlicher Räume im Zuge des soziodemographischen Wandels"
+- TOP 1.1.4.: Beschluss vom 24.01.2018: Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 1.1.5.: Beschluss vom 13.12.2017: „Dialog-Displays“ in München Ergebnis Wirtschaftlichkeitsuntersuchung und Finanzierung zweijähriger Versuch
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Wohnungen teilbar bauen
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Alt sein in München – Teil 1
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften a) Mehr Freiraum für architektonische Qualität Bewertung und Umsetzung der Vorschläge des Bundes der Architekten B) Nicht geförderten Wohnraum städtisch unterstützen
+- TOP 2.1.4.: Beschluss des Bauausschusses vom 31.01.2018: Krähensichere Mülleimer
+- TOP 2.1.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.01.2018: Von Zürich lernen. urbanes Wohnen über Tramdepot
+- TOP 2.1.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 31.01.2018: Neue Gebietskategorie im Baurecht Urbanes Gebiet
+- TOP 2.2: Referentenanträge
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 28.11.2017: Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: 4. Hinweis / Ergänzung vom 26.01.2018 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und Kreisverwaltungsausschusses vom 31.01.2018: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017
+- TOP 4.1.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 31.01.2018: Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
