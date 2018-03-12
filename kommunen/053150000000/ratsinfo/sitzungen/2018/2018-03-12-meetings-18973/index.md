@@ -1,0 +1,78 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-12T16:00:00+01:00
+- Ende: 2018-03-12T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18973
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18973
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652727.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652727.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652727.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung der Wanderausstellung zur Überflutungsvorsorge durch die StEB
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Einrichtung von Sperrflächen in Köln-Junkersdorf (Az.: 02-1600-130/17) - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage der CDU-Fraktion vom 22.01.2018- Zurverfügungstellung eines städtischen Grundstücks in Köln-Lövenich (AN/0121/2018) - Kenntnis genommen
+- TOP 7.1.2: Leerstand Liegenschaften Mayener Str. 14 in Köln-Sülz und Vitalisstr. 387 in Köln-Müngersdorf - Kenntnis genommen
+- TOP 7.1.3: Minikreisel Kölner Weg/Am Römerhof/Junkersdorfer Str. - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Beleuchtung Kreisverkehr Lise - Meitner - Ring / Adrian - Meller - Straße - Kenntnis genommen
+- TOP 7.2.2: Bewohnerparken in Weiden-Nord - Kenntnis genommen
+- TOP 7.2.3: Anfrage Geschwindigkeitsmessungen Adrian-Meller-Straße/Widdersdorf - Kenntnis genommen
+- TOP 7.2.4: Reinhaltung des Geländes am P&R Weiden West - Kenntnis genommen
+- TOP 7.2.5: Bauvorhaben Stolberger Straße und Eupener Straße - Kenntnis genommen
+- TOP 7.2.6: Nutzung Gebäude Freiligrathstrasse - Kenntnis genommen
+- TOP 7.2.7: Anwohnerschutzkonzept Drosselstraße Köln Weiden - Kenntnis genommen
+- TOP 7.2.8: Beschilderung Tempo 30 Ostseite Alter Militärring - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Benennung der zweiten Planstrasse im Neubaugebiet Ludwig-Jahn-Str. - zurückgestellt
+- TOP 8.1.2: Benennung des neu zu errichtenden Gymnasiums in Köln- Lövenich - geändert beschlossen
+- TOP 8.1.3: Stadtklima/Stadtverschönerungsmittel 2017 Bereich Bereich Aachener Strasse Braunsfeld - zurückgestellt
+- TOP 8.1.4: Anbindung Schulstandort Wasseramselweg - ungeändert beschlossen
+- TOP 8.1.5: Bauvorhaben Aachener Str. 224 - ungeändert beschlossen
+- TOP 8.1.6: Erinnerungsorte Kinderheim Sülz - ungeändert beschlossen
+- TOP 8.1.7: Sanierung und Herrichtung der Trauerhalle zum Columbarium des Melaten Friedhofs - geändert beschlossen
+- TOP 8.1.8: Erläuterungen der Verwaltung zu Baumfällungen - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 8.1.8 - ungeändert beschlossen
+- TOP 8.1.9: Rasenfläche in eine Blumenwiese umwandeln - ungeändert beschlossen
+- TOP 8.1.10: Flächen im Grünzug- West in Blumenwiesen umwandeln - ungeändert beschlossen
+- TOP 8.1.11: Optimierung der Verkehrsführung an der Kreuzung Dürener Straße/Gürtel in Lindenthal - endgültig zurückgezogen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Dürener Straße 207 vor Theresienstraße - geändert beschlossen
+- TOP 9.1.2: Errichtung einer City-Light-Säule zwischen Dürener Straße 395 und Militärringstraße - ungeändert beschlossen
+- TOP 9.1.3: Errichtung einer Stadtinformationsanlage vor dem Grundstück Stolberger Straße 2 - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Busbeschleunigung Dürener Straße - geändert beschlossen
+- TOP -: Ergänzungsantrag Busbeschleunigung Dürener Straße - endgültig zurückgezogen
+- TOP 9.2.2: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.2. Ausbau des Bahnhofs Köln-Süd - ungeändert beschlossen
+- TOP 9.2.3: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9.2.4: gefahrloses Fahrradfahren in Schulnähe - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 11.1.2: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 11.1.3: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Earth Hour 2018 - Kenntnis genommen
+- TOP 11.3.2: Verkehrsversuch Sperrung Zülpicher Straße - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
