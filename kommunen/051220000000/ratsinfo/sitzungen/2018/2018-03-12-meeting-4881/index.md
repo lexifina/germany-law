@@ -1,0 +1,52 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (25. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-03-12T17:00:00+01:00
+- Ende: 2018-03-12T18:00:00+01:00
+- Ort: Evangelische Stadtkirchengemeinde, Kirchplatz 14, 42651 Solingen, Bürgersaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdH_hOATZZUkpIRosb-sXsA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4881
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX4CX_24R-ChhNxH4XZIlzXk1Yvd5vXctvYg82-4YEL7/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_12.03.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIg--mvnUwypH_YPQgEjh63pYkWsvdFiNc5XaDBweLf/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_12.03.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Beantwortung von Anfragen
+- TOP -: Rodung am Roten Esel hier: Anfrage "Bündnis90/Die Grünen" vom 15.01.2018
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Grüne Welle Konrad-Adenauer-Straße hier: Anfrage der FDP-Fraktion vom 23.02.2018
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 24. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 29.01.2018
+- TOP 3.: Protokoll über die gem. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität und der BV Burg/Höhscheid am 29.01.2018
+- TOP 4.: Abfallwirtschaftskonzept 2018 - 2022
+- TOP 5.: Umsetzung HSP-Maßnahme
+- TOP 6.: HSP-Maßnahme M125 Strategische Ressourcenoptimierung hier: Rathausanbau am Standort Cronenberger Straße
+- TOP 7.: Sturmschäden durch den Sturm Friederike am 18.01.2018
+- TOP 8.: Ergebnis der Luftqualitätsmessung an der Konrad-Adenauer-Straße im Jahr 2017
+- TOP 9.: Elektromobilität in Solingen Sachstand der kommunalen Aktivitäten
+- TOP 10.: Betriebliches Mobilitätsmanagement im Bergischen Städtedreieck - BMM HOCH DREI
+- TOP 11.: Sachstand Sanierung Schloss Burg/a. d. Wupper
+- TOP 12.: Bauleitplanung Focher Straße/ Nümmener Feld und Bauleitplanung Nümmener Feld/ Hegelring
+- TOP 13.: Bauleitplanung Argonner Weg Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlich-keitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Bebauungsplanvorentwurf D 654 für das Gebiet nördlich des Argonner Weg, westlich der Wittekindstraße, nördlich der Bozener Straße und östlich der Finkenstraße - Stadtbezirk Burg/ Höhscheid -
+- TOP 14.: Bauleitplanung Beethovenstraße / Dingshauser Straße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes W 636 sowie Satzungsbeschluss zum Bebauungsplan W 636 für das Gebiet zwischen der Beethovenstraße im Norden, der Dingshauser Straße im Westen und der Friedrich-Wilhelm-Straße im Süden (Beschluss 3) -Stadtbezirk Mitte -
+- TOP 15.: Taxibus für den Siedlungsbereich Eipaß/Fürkeltrath und das Gewerbegebiet Dycker Feld
+- TOP 16.: Freies Parken für Elektrofahrzeuge
+- TOP 17.: Zusätzliche Anforderungen an das Konzept City 2030
+- TOP 18.: Verschiedenes
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 18.2: Fortschreibung des Integrierten Entwicklungskonzeptes für die So-linger Innenstadt 2030
+- TOP 18.3: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP -: Beantwortung von Anfragen
+- TOP 1.: Rathausanbau hier:1.Zusatzanfrage vom 29.01.2018 zur Anfrage vom 02.06.2017 Bündnis 90 / Die Grünen- offene Liste. 2.Anfrage via Mail vom 13.02.2018 Bündnis 90 / Die Grünen – offene Liste 3.Anfrage Freie Demokraten im Rat der Stadt Solingen vom 05.02.2018 4.Anfrage vom 13.02.2018 Bündnis 90 / die Grünen – offene Liste
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 24. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 29.01.2018
+- TOP 4.: Protokoll über die Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 29.01.2018
+- TOP 5.: HSP-Maßnahme M 125 Strategische Ressourcenoptimierung
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
