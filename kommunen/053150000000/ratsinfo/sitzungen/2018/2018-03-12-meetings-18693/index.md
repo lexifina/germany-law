@@ -1,0 +1,72 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-12T17:05:00+01:00
+- Ende: 2018-03-12T19:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18693
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18693
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Veranstaltung für Flüchtlingsfrauen - Kenntnis genommen
+- TOP 1.2: Tätigkeitsbericht 2017 des Amtes für Gleichstellung von Frauen und Männern - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Fördertopf "Städtepartnerschaften gestalten" 2017 - Kenntnis genommen
+- TOP 2.2: Fördertopf "Entwicklungszusammenarbeit 2017" - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung der mündlichen Anfrage des MdR Hegenbarth in der AVR-Sitzung vom 29.01.2018 betreffend "Beratungsmobil der Kölner Initiative" - Kenntnis genommen
+- TOP 3.2: Beantwortung der mündlichen Anfrage des MdR Richter in der AVR-Sitzung vom 11.12.2017 betreffend "Unterschiedliche Regelungen in Vertretungen" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Zielbild 2020 - zurückgestellt
+- TOP -: Mitteilung zum Antrag AN/0135/2018 der Fraktion DIE GRÜNEN in der BV 7 (Porz) - zurückgestellt
+- TOP 4.2: Personalrisikomanagement - Kenntnis genommen
+- TOP -: Personalrisikomanagement - Kenntnis genommen
+- TOP 4.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 4.4: Mitteilung betreffend "Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Ausschusses für Umwelt und Grün vom 18.01.2018 betreffend "Kölner Umweltzone" - Kenntnis genommen
+- TOP 4.5: Transparenzbericht zur Verwaltungsreform - Kenntnis genommen
+- TOP 4.6: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Übergangswohnheimen für Aussiedler und ausländische geflüchtete Personen - Kenntnis genommen
+- TOP 4.7: Umsetzung des Glücksspielstaatsvertrages bezüglich Spielhallen und Sportwetten - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Stärkung der Bereiche Sicherheit und Ordnung, Ausländerwesen und Bürgerdienste - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der FDP-Fraktion betreffend "Gefährdung von Fußgängern durch Radfahrer" zur Sitzung am 11.12.2017 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 23.01.2018 - Kenntnis genommen
+- TOP 6.2: Anfrage der Gruppe BUNT betreffend "Aufrüstung des Ordnungsamtes – Wurden die Risiken berücksichtigt?" zur Sitzung am 29.01.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 01.03.2018 - Kenntnis genommen
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Bleiberechte in Köln – Wie hat sich die Zahl der Abschiebungen aus Köln entwickelt?" zur Sitzung am 29.01.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 12.03.2018 - Kenntnis genommen
+- TOP 6.4: Anfrage der SPD-Fraktion betreffend "Fördertopf "Städtepartnerschaften gestalten" 2017" zur Sitzung am 29.01.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 12.03.2018 - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/ Die Grünen betreffend "Verkaufsoffene Sonn- und Feiertage in 2018" zur Sitzung am 29.01.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 28.02.2018 - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion DieLinke betreffend "Auszubildende der städtischen Kliniken, die bei der Stadt angestellt sind" zur Sitzung am 07.03.2018 - zurückgestellt
+- TOP 6.7: Anfrage der Fraktion DieLinke betreffend "Datenübermittlung an das Bundesamt für das Personalmanagement der Bundeswehr" zur Sitzung am 07.03.2018 - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 12.03.2018 - zurückgestellt
+- TOP 6.8: Anfrage der Gruppe BUNT betreffend "Kinderfeuerwehren, Nachwuchs- und Gesundheitsförderung bei der Kölner Feuerwehr – Sachstand 2017" zur Sitzung am 07.03.2018 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion betreffend "Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen" - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 02.02.2017 - zurückgestellt
+- TOP 8.2: Antrag der Gruppe BUNT betreffend "Edelgard schützt - auch im Rathaus!" - endgültig zurückgezogen
+- TOP 9: Platzvergaben
+- TOP 9.1: Rudolfplatz - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Richtlinie für die Benennung von Straßen - zurückgestellt
+- TOP 10.2: Mitgliedschaft der Stadt Köln in der Votemanager Anwender Gemeinschaft e.V. - ungeändert beschlossen
+- TOP 10.3: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen; Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme von Einrichtungen für obdachlose Personen - zurückgestellt
+- TOP 10.4: Anhebung der Wertgrenze für beschränkte Ausschreibungen von Bauleistungen im Rahmen des Reformprojekts "Neugestaltung der Vergabeprozesse" - ungeändert beschlossen
+- TOP 10.5: Änderung der Zuständigkeitsordnung - Anpassung der Wertgrenzen für Rats- und Ausschusszuständigkeiten bei Baumaßnahmen, Bedarfsfeststellung - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Neues IV-Verfahren Betreuungsfachanwendung - ungeändert beschlossen
+- TOP 10.7: Rückgabe eines Maori-Schädels (toi moko) aus dem Bestand des Rautenstrauch-Joest-Museums - ungeändert beschlossen
+- TOP 10.8: Verträge mit der AWB GmbH zur Abfallentsorgung und Straßenreinigung - ungeändert beschlossen
+- TOP 10.9: Richtlinie des Förderprogramms „Altbausanierung und Energieeffizienz - klimafreundliches Wohnen" - ohne Votum in nachfolgende Gremien
+- TOP 10.10: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - ohne Votum in nachfolgende Gremien
+- TOP 10.12: Ebertplatz: Weiterentwickeltes Zwischennutzungskonzept - ohne Votum in nachfolgende Gremien
+- TOP 10.13: Vertrag über die Reinigungsleistungen im Kölner Stadtgebiet (haushaltsfinanziert) - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
