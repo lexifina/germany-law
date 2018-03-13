@@ -1,0 +1,163 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4639432
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4639432
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Edelweißstr. 4, Ausbau des Dachspeichers über zwei Ebenen, Errichtung dreier Wohnungen, Dachterrassen im Hinterhaus bzw. auf dem Treppenhaus, Balkonvergrößerungen, Anbau eines Aufzugs, Nutzungsänderung Wohnung 3 im EG unter Einbeziehung von Nebenflächen im UG für soziale Zwecke, Anbau eines Wintergartens (als separater Zugang) (vertagt aus Sitzung 11/17, 12/17, 01/18 und 02/18)
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Reparatur der Fahnenmasten in der Westkurve des städtischen Stadions an der Grünwalder Straße
+- TOP 2.1.2.2.: Radschnellweg über den General-Kalb-Weg verhindern!
+- TOP 2.1.2.3.: Einrichtung eines temporären Linksabbiegeverbotes von der Emmersonstraße in Richtung Cincinnatistraße, in den Zeiten von 06.00 Uhr bis 10.00 Uhr und 15.00 Uhr bis 19.00 Uhr, von Montag bis Freitag
+- TOP 2.1.2.4.: Errichtung eines Dialog-Display in der Deisenhofener Straße
+- TOP 2.1.2.5.: Antrag auf farbliche Markierung des Fahrradweges in der Hohenwaldeckstraße
+- TOP 2.1.2.6.: Grünstreifenzerstörung und Parkplatzsituation in der Warngauer Straße
+- TOP 2.1.2.7.: Aufstellen von Sitzbänken am Grünstreifen in der Watzmannstraße
+- TOP 2.1.2.8.: Unterführung am Giesinger Berg – Radfahrer-Ampel für Füßgänger umrüsten
+- TOP 2.5.1.: Veränderung in der Besetzung der Unterausschüsse im BA 17
+- TOP 3.9.1.1.: Bantingstr. 3
+- TOP 3.9.1.2.: Seemüllerstr. 15
+- TOP 3.9.1.3.: Weißenseestr. 50-66 (Forggenseestr.)
+- TOP 4.1.: Knappe Parkfläche besser nutzen! - Antrag der Fraktion B90 Die Grünen im Bezirksausschuss 17 Obergiesing-Fasangarten
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Buchkinder München e.V. „Ein Buch für Giesing“ ab April 2018 704,00€ Az. 0262.0-17-0159
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Tanzsportgemeinschaft München e.V. Teilnahme am DiscoDance DeutschlandCup 09.-10.06.2018 2.105,00€ Az. 0262.0-17-0160
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.2.: Lincolnstr. 39, Neubau eines Einfamilienhauses an das Nachbar-Wohngebäude
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 29.01.2018 bis 12.02.2018
+- TOP 6.1.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum hier: Warthofstr. 5, Holtzendorffstr. 28, Lincolnstr. 39 - Unterrichtung der Bezirksausschüsse -
+- TOP 6.1.4.3.: Vollzug der Erhaltungssatzung Tegernseer Landstraße hier: Werinherstr. 9 - Unterrichtung der Bezirksausschüsse -
+- TOP 6.1.4.4.: Vollzug der Erhaltungssatzung Trauchberg-/Forggenseestraße hier: Deisenhofener Str. 41, Rotwandstr. 12, Rotwandstr. 14 - Unterrichtung der Bezirksausschüsse -
+- TOP 6.1.4.5.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 6.1.4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.1.: (E) Überplanung bzw. Instandhaltung des Bolzplatzes "Lincolnstraße"
+- TOP 6.2.3.1.: Sammelgenehmigung für Spielaktionen der AG Spiellandschaft Stadt 2018: Bitte um Stellungnahme durch die Bezirksausschüsse
+- TOP 6.2.4.1.: (U) Alt sein in München – Teil 1 Antrag Nr. 14-20 / A 03164 der BAYERNPARTEI Stadtratsfraktion vom 12.06.2017
+- TOP 6.2.4.2.: Sommertreff mit Spielemobil vom 23.04.2018 bis 30.09.2018 sowie Flohmarkt am 10.05.2018 und 22.07.2018 in der Grünanlage am Walchenseeplatz - Genehmigung durch das Kreisverwaltungsreferat -
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Chiemgauerstr. 81 Seite: Falkensteinstr.
+- TOP 6.3.3.2.: Klagenfurter- /Hohenaschauer Str. AV Maßnahme - Erinnerungsverfahren
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 6.3.4.2.: Einrichtung eines personengebundenen Behindertenparkplatzes im Bereich der Cincinnatistr. 45
+- TOP 6.3.4.3.: Rückbau von Parkplätzen im Bereich der St.-Bonifatius-Str. 8 aufgrund einer Hochbaumaßnahme
+- TOP 6.3.4.4.: Schaffung sicherer Wege zum Schulzentrum Perlacher Forst
+- TOP 6.3.4.5.: (E) Einrichtung eines Zebrastreifens über die St.-Martin-Straße in Höhe Hohenwaldeckstraße
+- TOP 6.3.4.6.: Schulwegsicherung Cincinnati-/Marklandstraße - Antwortschreiben -
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Schwanseestr. 81 Genehmigungsbescheid über Baumfällungen
+- TOP 6.4.4.2.: Friauler Str. 3-9 Genehmigungsbescheid über Baumfällungen
+- TOP 6.4.4.3.: (E) Lärm- und Abgasschutz entlang der Tegernseer Landstraße Einrichtung von permanenten Stationen zur Messung der Schadstoffbelastung (Ziffer 2 des Antrages der BV vom 20.07.2017) Empfehlung Nr. 14-20 / E 01606 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 20.07.2017
+- TOP 6.4.4.4.: (E) + (U) Aufstellen von Mülleimern am Grünspitz, um die Sauberkeit zu gewährleisten Empfehlung Nr. 14-20 / E 01627 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 20.07.2017
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.2.1.: (E) "Sport im Park" auch in der Siedlung am Perlacher Forst abhalten
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Tag des offenen Denkmals 2018 (Anmeldefrist hat begonnen)
+- TOP 6.5.3.2.: Gietlstr. 2, Veranstaltung auf Privatgrund: Giesinger Kirchplatzfest vom 06. - 08.07.2018
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Kurzbericht "Play Me, Iḿ Yours"
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Cafe "Sellyś Cafê" Antrag auf unveränderte Fortführung
+- TOP 6.6.4.2.: Schank- und Speisenwirtschaft "BUMSVOLL" Antrag auf unveränderte Fortführung
+- TOP 6.6.4.3.: Schank- und Speisenwirtschaft "Sangam" Antrag auf unveränderte Fortführung
+- TOP 6.6.4.4.: Neue Regeln für den Betrieb von Spielhallen in Giesing umsetzen
+- TOP 6.6.4.5.: Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Mittelfristige Finanzplanung 2017 - 2021 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2018 - 2020
+- TOP 7.2.2.: Inklusionsbeauftragte in den Bezirksausschüssen Anhörung der Bezirksausschüsse
+- TOP 7.3.1.: Abrechnung der Aufwandsentschädigung - Informationsschreiben -
+- TOP 7.3.2.: Landtags- und Bezirkswahl 2018; Information über die anstehende Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung
+- TOP 7.3.3.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 7.3.4.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
