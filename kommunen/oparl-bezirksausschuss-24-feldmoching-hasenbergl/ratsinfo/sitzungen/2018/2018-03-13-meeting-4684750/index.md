@@ -1,0 +1,88 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4684750
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4684750
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Petition "Tempo 30 für die Weitlstraße", Beschluss des Kreisverwaltungsausschusses vom 21.11.2017 (Sitzungsvorlage Nr. 14-20 / V 09817), - Information des Planungsreferates - Verkehrsplanung - Antwortschreiben des KVR (zu 6.21 - 09.01.18, 5.5.6 - 20.06.18)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Ludwigsfelder Chor Gemeinsames Chorwochenende vom 13.04. bis 15.04.2018 500,00€ Az. 0262.0-24-0220
+- TOP 2.2.: (E) Räumung des Grundstücks Lassallestr. 54 Empfehlung Nr. 14-20 / E 01416 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017
+- TOP 3.: Anträge
+- TOP 3.1.: Sicht Kreuzung Kohlröschenstraße/Am Blütenanger
+- TOP 3.2.: Standort Hubschrauberlandeplatz Oberschleißheim
+- TOP 3.3.: Lärmschutzwand für die Siedlung Ludwigsfeld in Höhe der Karlsfelder Str. 260
+- TOP 3.4.: N Bebauungsplan Eggarten - Grünplanung
+- TOP 5.1.1.: Eberwurzstr. 28
+- TOP 5.1.2.: Max-Wönner-Str. 4 - 32
+- TOP 5.1.3.: N Lassallestr. 95 - 101
+- TOP 5.2.1.: Max-Wönner-Str. 4 - 32
+- TOP 5.2.2.: Auf den Schrederwiesen 33
+- TOP 5.2.3.: N Bocksdornstr., Fl.Nr. 1064/442, Gemarkung Feldmoching
+- TOP 5.3.1.: Osterfeuer am 01.04.2018, Brunnenplatz der Grünanlage Gustav-Schiefer-Straße
+- TOP 5.3.2.: Sommerfest des KJR München am 18.05.2018, Walter-Sedlmayer-Platz
+- TOP 5.3.3.: Zirkus Barnum vom 01.06. - 10.06.2018, Dülfer Anger
+- TOP 5.3.4.: Straßenfest am 14.07.2018, Schneeglöckchenstraße
+- TOP 5.3.5.: Floßbauevent am 25.07.2018, Regatta See
+- TOP 5.3.6.: Naturpädagogisches Projekt "Naturspielraum" vom 13.09. - 16.09.2018, Grünanlage Lassallestraße
+- TOP 5.3.7.: Kinderzirkus Roberto vom 01.11. - 10.11.2018, Dülfer Anger
+- TOP 5.3.8.: N Spielaktionen der AG Spiellandschaft Stadt 2018
+- TOP 5.4.1.: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 5.4.2.: Mittelfristige Finanzplanung 2017 - 2017 - MIP; Fortschreibung für die Jahre 2018 bis 2022
+- TOP 5.4.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Beidseitiges Haltverbot Franz-Sperr-Weg
+- TOP 5.4.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Zeitliche Änderung des absoluten Haltverbots Drudhardstraße
+- TOP 5.4.5.: Veranstaltung "Wings for Life Worldrun 2018" im Olympiapark am 06.05.2018
+- TOP 5.4.6.: Zebrastreifen an der Karlsfelder Straße, Bushaltestelle Wohnsiedlung Ludwigsfeld - Sachstand zum Beschluss des BA 24 vom 12.09.2017 zur BVE Nr. 14-20 / E 01393 (Sitzungsvorlage Nr. 14-20 / V 09505 - TOP 2.6)
+- TOP 5.4.7.: N Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs; Abfrage von Standortvorschlägen
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Bebauungsplan "Karlsfelder Straße", Brücke über das Schwabenbächl - Sachstand (zu 6.2 - 06.02.18 und 2.3 - 12.12.17)
+- TOP 6.2.: Nachmittagsbetreuung in der Grundschule an der Lerchenauer Str. in Feldmoching
+- TOP 6.3.: Ampel-Regelung an der Wilhelmine-Reichard-Straße in die Lassallestraße
+- TOP 6.4.: Verbesserung der Verkehrssicherheit in der Lerchenau - Sachstand zur Umsetzung der Maßnahmen (zu 6.2 - 14.11.17, 6.8 - 12.09.17, 3.3 - 20.06.17)
+- TOP 6.5.: Feldmochinger Straße/Am Blütenanger - Radfahrer; Errichtung eines Zebrastreifens und einer Ampel in Höhe der Schwabenspiegelstraße, BVE Nr. 14-20 / E 01421; Vollzug des Beschlusses des BA 24 vom 12.09.2017 (Sitzungsvorlage Nr. 14-20 / V 09469 - TOP 2.12)
+- TOP 6.6.: Schaukasten des BA 24 in der Josef-Frankl-Straße – Verlegung des Anbringungsortes, BA-Antrag-Nr. 14-20 / B 03494 04.04.2017
+- TOP 6.7.: Anträge aus der 16. Kinder- und Jugendsprechstunde vom 26.01.2018; Antrag Nr. 16/12 - Brotzeittisch auf dem Eselspielplatz (zu 3.1 - 06.02.18)
+- TOP 6.8.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolutes Haltverbot, Faganastr. 17 (Südseite im Bereich des Anwesens 17) b) Absolutes Haltverbot, Waldrebenstraße/Waldmeisterstraße (Kurvenbereich)
+- TOP 6.9.: Daten Pegel Feldmoching
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: Meldelisten Baumfällungen
+- TOP 6.12.: Bachräumungstermine 2018 für die Stadt- bzw. Stadtrandbäche
+- TOP 6.13.: Baumentfernungen; Gefahrenbaum bei der Förderschule Heinrich-Braun-Weg 11
+- TOP 6.14.: Bewährung des SEV zwischen Moosach und Feldmoching
+- TOP 6.15.: Landtags- und Bezirkswahl 2018; unveränderte Stimmbezirkseinteilung
+- TOP 6.16.: Eröffnung eines neuen Städt. Tagesheimes in der Gerastr. 6
+- TOP 6.17.: Ergebnisse der BA-Satzungskommission; Behandlung im Stadtrat (Begleitschreiben zum Beschluss Sitzungsvorlage Nr. 14-20 / V10577)
+- TOP 6.18.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 6.19.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 6.20.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 6.21.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 6.22.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 6.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.24.: (U) Bebauungsplan mit Grünordnung Nr. 2128 Gundermannstraße (nördlich), Lerchenstraße (östlich), Malvenweg (südlich), Langenpreisinger Straße (östlich), Johann-Emmer-Straße ( teilweise westlich und östlich) (teilweise Aufhebung oder Verdrängung des Bebauungsplans Nr. 36c) „Feldmochinger Anger“ - Aufstellungsbeschluss - Stadtbezirk 24 – Feldmoching-Hasenbergl
+- TOP 6.25.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 6.26.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 6.27.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 6.28.: Senioren- und Pflegeheim im 11. Stadtbezirk,... Pflegebedarfsituation unter Beachtung der Flächensituation im 12. und 24. Stadtbezirk - Beschlussentwurf - (Sitzungsvorlage Nr. 14-20 / V 10807)
+- TOP 8.1.: Protokoll der Sitzung am 09.01.2018 (nach Genehmigung in der Sitzung am 06.02.2018)
+- TOP 8.2.: Informationsschreiben Nr. 01/2018; Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten; LTE-Router für Sitzungslokale
+- TOP 8.3.: BA-Informationsschreiben Nr. 02/2018; Abrechnung der Aufwandsentschädigung, Einsatz einer neuen Abrechnungssoftware
