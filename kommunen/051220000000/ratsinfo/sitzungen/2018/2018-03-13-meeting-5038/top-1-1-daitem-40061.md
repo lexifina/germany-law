@@ -1,0 +1,7 @@
+# TOP 1.1: Kosten des Sitzungsdienstes hier: Ergänzende Information zu der Anfrage von RM Flemm vom 30.11.2017
+
+- Sitzung: Haupt- und Personalausschuss (27. Sitzung) (2018-03-13)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/40061
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/26766
