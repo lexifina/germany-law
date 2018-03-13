@@ -1,0 +1,187 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4670793
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4670793
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.1.7.: Kommunikation BA-Mitglieder (UA-Vorsitzende) mit BA-Geschäftsstelle
+- TOP 2.1.8.: Weitere Themen
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.7.: Möhlstraße 21: Renovierung und Umbau eines Wohngebäudes; Erstantragsverfahren
+- TOP 2.2.9.: Cuvilliésstr. 14a: Nutzungsänderung: Büro- zu Praxisräumen für Physiotherapie und Massage; Erstantragsverfahren
+- TOP 2.2.12.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.14.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.4.8.: Bericht: Interfraktionelle Arbeitsgruppe "Alfresco"
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.29.: Besprechung Fassadenpreis 2017
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: Protokoll der Sitzung vom 06.02.2018
+- TOP 2.1.1.: Finanzielle Unterstützung zur Anschaffung von Tagungstechnik und Mieten; LTE-Router für Sitzungslokale; Anhörung des Direktoriums vom 15.01.2018
+- TOP 2.1.2.: Abrechnung der Aufwandsentschädigung, Einsatz einer neuen Abrechnungssoftware; Schreiben des Direktoriums vom 06.02.2018
+- TOP 2.1.3.: Alfresco-Schulungen für den BA 13; Rückmeldung des Direktoriums vom 09.02.2018
+- TOP 2.1.4.: Übernahme der Mietkosten für UA-Sitzungen; E-Mail des Direktoriums vom 15.02.2018
+- TOP 2.1.5.: Einführung eines Stadtbezirksbudgets und Überarbeitung der bisherigen Richtlinien für das Budget der Bezirksausschüsse; Schreiben des Direktoriums vom 15.02.2018
+- TOP 2.1.6.: Vorplanungen zu Heizwerkstandort (Parkplatz Cosimabad), E-Mail der SWM vom 12.02.2018
+- TOP 2.2.1.: Gemeinsame Sondersitzung des UA Planung und UA BKSS mit Vertreter der Landeshauptstadt München, GWG, GEWOFAG und Konsortium Prinz-Eugen-Park: Schul- und Kinderbetreuungssituation Prinz-Eugen-Park
+- TOP 2.2.2.: Vogelschutz in Bogenhausen: Konkrete Maßnahmen; Antrag der Fraktion DaCG/ödp vom 24.11.2017; Schutz der Singvogelpopulation in Bogenhausen stärken; Antrag der CSU-Fraktion vom 14.11.2017; Vogelpopulation erhalten; Antrag der Fraktion Bündnis 90/Die GRÜNEN vom 26.02.2018
+- TOP 2.2.3.: 37. Änderung des Flächennutzungsplans der Gemeinde Aschheim; Erneute Beteiligung im Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB; Schreiben (zur Kenntnisnahme) des Referats vom für Stadtplanung und Bauordnung vom 09.02.2018
+- TOP 2.2.4.: Oberföhringer Str. 224: Neubau einer vierzügigen Grundschule, Ganztagesbetreuung mit Mensa und Versorgungsküche sowie Dreifachsporthalle & Haus für Kinder sowie Abriss der Bestandsgebäude, Nachbarbeteiligung zur Baugenehmigung; Schreiben des Baureferats vom 24.02.2018
+- TOP 2.2.5.: Bebauung der Wiese Eggenfeldener Straße; Bürgeranliegen vom 14.02.2018
+- TOP 2.2.6.: Baugenehmigung Friedrich-Eckart-Str. 2 für 26 Wohnungen; Bürgeranliegen vom 26.02.18
+- TOP 2.2.8.: Friedrich-Herschel-Straße 10: Anbau an dein Wohngebäude - Tektur; Änderungsverfahren
+- TOP 2.2.10.: Titurelstr. 2: Sanierung und Erweiterung der Tiefgarage sowie Errichtung von Stellplätzen - Genehmigungsverlängerung; Erstantragsverfahren
+- TOP 2.2.11.: Königsberger Str.: Neubau zweier Wohngebäude mit Tiefgarage - Vorbescheid
+- TOP 2.2.13.: Weitere Themen aus der Tagesordnung, z.B. Bauvorhaben aus den Bekanntgaben
+- TOP 2.3.1.: Diskussion mit Vertreter von Referat für Stadtplanung, Kreisverwaltungsreferat und Baureferat zu: Mobilitätskonzept Prinz-Eugen-Park: Quartiersbezogenes Parkraummanagement im Prinz-Eugen-Park
+- TOP 2.3.2.: (E) Mobilitätskonzept Prinz-Eugen-Park: Bordsteine verzichtbar? Empfehlung Nr. 14-20 / E 01843 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 26.10.2017
+- TOP 2.3.3.: Ergänzungsantrag der Fraktion Bündnis 90/DIE GRÜNEN zum TOP Mobilitätskonzept Prinz-Eugen-Park: Bordsteine verzichtbar?
+- TOP 2.3.4.: (E) Mobilitätskonzept Prinz-Eugen-Park: Sichere, ruhige Querungen im Straßenraum Empfehlung Nr. 14-20 / E 01842 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 26.10.2017
+- TOP 2.3.5.: (E) Öffnung des Parkplatzes des Umweltministeriums für die Allgemeinheit
+- TOP 2.3.6.: (E) + (U) Anbringung einer Rolltreppe/Rampe oder eines Aufzugs an der S-Bahn-Haltestelle Daglfing Empfehlung Nr. 14-20 / E 01802 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017 Installation von Förderbändern an der S-Bahn-Haltestelle Daglfing Empfehlung Nr. 14-20 / E 01803 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017
+- TOP 2.3.7.: Kreuzungssanierung: Riemer Straße / Rennbahnstraße; Anhörung des Baureferats vom 03.01.2018 (vertagt am 06.02.2018); Gehbahn und Busroutenänderung miteinbeziehen; Antrag der CSU-Fraktion vom 01.02.2018; Fahrradfreundliche Kreuzungssanierung Riemer Str. / Rennbahnstraße; Antrag der Fraktion DaCG/ödp vom 13.02.2018
+- TOP 2.3.8.: Fritz-Lutz-Straße/Eylauerstraße: Anordnung eines absoluten Haltverbots im Kurvenbereich; Anhörung des Kreisverwaltungsreferats vom 01.02.2018
+- TOP 2.3.9.: Robert-Heger-Straße: Errichtung von zwei Kurzzeit-Parkplätzen nahe der Kita (Robert-Heger-Str. 11); Schreiben des Kreisverwaltungsreferats vom 08.01.2018
+- TOP 2.3.10.: Einrichtung zweier allgemeiner Behindertenparkplätze in der Zamdorfer Str. 90; Schreiben des Kreisverwaltungsreferats vom 07.02.2018
+- TOP 2.3.11.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Memeler Str. 128; Schreiben des Kreisverwaltungsreferats vom 09.02.2018
+- TOP 2.3.12.: Tram-Nordtagente bis Johanneskirchen schafft Anschluss ins Umland und zum Flughafen; Antrag der SPD-Fraktion vom 31.01.2018 (vertagt am 06.02.2018)
+- TOP 2.3.13.: Leistungsfähige U-Bahn statt überfüllter Trambahn: BA fordert Machbarkeitsstudie für die Verlängerung der U4 bis zur Flughafen-S-Bahn; Antrag der CSU-Fraktion vom 06.02.2018 (vertagt am 06.02.2018)
+- TOP 2.3.14.: Verbesserung der MVV-Anbindung; Bürgeranliegen vom 07.02.2018
+- TOP 2.3.15.: Probleme auf der Heinrich-Mann-Allee und Mauerkircherstr.; Bürgeranliegen vom 31.01.2018
+- TOP 2.3.16.: Errichtung eines Fußgängerübergangs in der Ismaninger Straße (Höhe Trambahnhaltestelle Holbeinstraße), Bürgeranliegen vom 13.02.2018
+- TOP 2.3.17.: Prinzregentenplatz / Ecke Mühlbaurstraße: Kette farbig markieren zur Gefahrenvermeidung; Bürgeranliegen vom 22.02.2018
+- TOP 2.3.18.: Antrag auf einseitiges Parkverbot in der Asgardstraße; Bürgeranliegen vom 08.02.2018
+- TOP 2.3.19.: Busverbindung Linie 188/189 und Linie 187; Bürgeranliegen vom 23.02.2018
+- TOP 2.3.20.: Beschwerde über den Wertstoffcontainerstandort Lüderitzstraße; Bürgeranliegen vom 17.01.2018
+- TOP 2.3.21.: Bitte um Terminvereinbarung mit der MVG: - Antrag auf Veröffentlichung der Fahrgastzahlen der MVG (BA-Antrags-Nr. 14-20 / B 04122) - Veröffentlichung der Fahrgastzahlen der Trambahn-Linien 16 und 18 (BA-Antrags-Nr. 14-20 / B 02252)
+- TOP 2.3.22.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.23.: Verschiedenes, Termine
+- TOP 2.4.1.: Antragsvorschlag „Johanniritt und Sonnwendfeuer“ am 24.06 und 25.06.2018; Vorstellung durch RVV Daglfing e. V.
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Initiative "Majostics" Interkulturelles Friedensprojekt im März 2018 2.650,00€ Az. 0262.0-13-0166
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Wohnen im Alter im Cosimapark e.V. Anschaffung einer E-Rikscha 4.687,00€ Az. 0262.0-13-0165 Rückmeldung (Vorlage weiterer Angebote) durch WiAC e.V.
+- TOP 2.4.4.: Wohnen im Alter im Cosimapark e.V. Anschaffung einer E-Rikscha Rückmeldung (Vorlage weiterer Angebote) von WiAC e.V
+- TOP 2.4.5.: (E) Budget der Bezirksausschüsse Verein für Stadtteilkultur im Münchner Nordosten e.V. Ausstellungsvorbereitung 1.856,25€ Az. 0262.0-13-0167
+- TOP 2.4.6.: Inklusionsbeauftragte in den Bezirksausschüssen; Anhörung des Direktoriums vom 14.02.2018
+- TOP 2.4.7.: Landtags- und Bezirkswahl 2018; Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung; Schreiben (zur Kenntnisnahme) des Kreisverwaltungsreferats vom 06.02.2018
+- TOP 2.4.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.10.: Verschiedenes, Termine
+- TOP 2.5.1.: Sachstand zur Städtischen Berufsschule am Bogenhausener Kirchplatz; Antrag der SPD-Fraktion vom 31.01.2018 (vertagt am 06.02.2018)
+- TOP 2.5.2.: IsarCard 60; Antrag der CSU-Fraktion vom 05.02.2018
+- TOP 2.5.3.: Kita Else-Lasker-Schüler-Str: Schließung bis auf Weiteres; Bürgeranliegen vom 30.01.2018
+- TOP 2.5.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.5.: Verschiedenes, Termine
+- TOP 2.6.1.: Möhlstr. 21: lt. Plan
+- TOP 2.6.2.: Normannenplatz 17: lt. Plan
+- TOP 2.6.3.: Denninger Str. 194, 198, 200: einige Bäume
+- TOP 2.6.4.: Englschalkinger Str. 221: 1 Robinie, 1 Eiche
+- TOP 2.6.5.: Lohengrinstr. 40: 1 Birke
+- TOP 2.6.6.: Mauerkircherstr. 50a: 1 Linde
+- TOP 2.6.7.: Mühlbaurstr. 31: 7 Bäume
+- TOP 2.6.8.: Preziosastr. 18: 1 Vogelkirsche
+- TOP 2.6.9.: Rhönstr. 3: 1 Tanne
+- TOP 2.6.10.: Rienziplatz 14: 2 Fichten
+- TOP 2.6.11.: Sambugastr. 7: 1 Ahorn
+- TOP 2.6.12.: Zamdorfer Str. 100: einige Bäume
+- TOP 2.6.13.: Daphnestr. 32: 2 Robinien, 1 Birke
+- TOP 2.6.14.: Oberföhringer Str. 168: 3 Bäume
+- TOP 2.6.15.: Oberschlesische Str. 13: 1 Esche
+- TOP 2.6.16.: Rienziplatz 10: 2 Fichten, 1 Kiefer
+- TOP 2.6.17.: Gotenstr. 2: 6 Bäume
+- TOP 2.6.18.: Flensburger Str. 30: 1 Schwarzkiefer
+- TOP 2.6.19.: Effnerstr. 118: lt. Plan
+- TOP 2.6.20.: Baumfällungen (Unterrichtungen): Effnerstr. 94 (1 Winderlinde), Erchanbertstr. 4 -10 (1 Hängebirke), Geibelstr. 13 (lt. Bescheid), Gleißenbachstr. (lt. Bescheid), Höchlstr. 2 (1 Silberahorn), Hoyerweg 6 (lt. Bescheid), Kunihofstr. 23 (1 Hängebirke), Lohengrinstr. 40 (lt. Bescheid), Odinstr. 18 (2 Nadelbäume), Soldauer Str. 20a (1 Zeder), Titurelstr. 3 (1 Spitzahorn), Oberföhringer Str. 133 (Rückmeldung der Unteren Naturschutzbehörde), Englschalkinger Str. 221 (1 Robinie, 1 Eiche) (Eilentscheidung nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung: Ablehnung, kein Fällgrund ersichtlich. Totholzentfernung empfohlen.), Daphnestr. 11 – 15 (1 Birke)
+- TOP 2.6.21.: Baumentfernungen und Gehölzpfelgemaßnahmen an Straßen und in öffentlichen Grünflächen; Schreiben des Baureferats vom 22.02.2018
+- TOP 2.6.22.: Vollzug der Wassergesetze; Verfahren zur Festsetzung des Überschwemmungsgebietes an der Isar innerhalb der Stadtgrenzen der Landeshauptstadt München von Flusskilometer 140,95 bis Flusskilometer 155,10 durch Erlass einer Rechtsverordnung; Anhörung des Referats für Gesundheit und Umwelt vom 01.02.2018
+- TOP 2.6.23.: Beschlussentwurf "Gartenschau ab 2029 im Bereich der SEM Nordost" (Antrag Nr. 14-20 / A 03245); Anhörung des Referats für Stadtplanung und Bauordnung vom 16.02.2018
+- TOP 2.6.24.: (Grundsätzliche) Nutzung des Festivalplatzes an der Cosimastraße
+- TOP 2.6.25.: Baumfällung in der Lamontraße - Anwendung der Baumschutzverordnung; Bürgerschreiben vom 20.11.2017
+- TOP 2.6.26.: Schnittmaßnahmen Grünfläche zwischen Weltenburger Str./Pühnstraße; Bürgeranliegen vom 12.02.2018, Rückmeldung des Baureferats vom 22.02.2018
+- TOP 2.6.27.: Baumfällungen Denninger Anger entlang Neckarstraße; Bürgeranliegen vom 15.02.2018
+- TOP 2.6.28.: Neugestaltung Herkomerplatz; Antrag der CSU-Fraktion vom 27.02.2018
+- TOP 2.6.30.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.31.: Verschiedenes, Termine
+- TOP 5.1.: Mittelfristige Finanzplanung 2017 - 2021, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2018 bis 2022; Anhörung der Stadtkämmerei vom 06.02.2018
+- TOP 5.2.: Stadteigenes Grundstück Flst. 193/1 Tlfl. Gemarkung Bogenhausen An der Cosimastraße/Englschalkinger Straße Anfrage der Fläche für Korbwarenverkauf von 02.04. - 02.06.16; Anhörung des Kommunalreferats vom 30.01.2018
+- TOP 5.3.: Stadteigenes Grundstück Flst. 193/1 Tlfl. Gemarkung Bogenhausen An der Cosimastraße/Englschalkinger Straße Anfrage der Fläche für Stellplatz für einen Lkw zur Bettfedernreinigung vom 21.06. - 27.06.2018; Anhörung des Kommunalreferats vom 12.02.2018
+- TOP 5.4.: Stadteigenes Grundstück Flst. 354/13 Tlfl. Gemarkung Bogenhausen An der Marienburger Straße/Daglfinger Straße Anfrage der Fläche für Stellplatz für einen Lkw zur Bettfedernreinigung vom 08.03. - 15.03.2018; Anhörung des Kommunalreferats vom 12.02.2018; Zustimmung nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung am 16.02.2018 erteilt (Eilentscheidung)
+- TOP 5.5.: Abbrennen eines privaten Feuerwerks in der Brodersenstr. am 06.05.2018; Anhörung des Kreisverwaltungsreferats vom 27.02.2018
+- TOP 6.1.: Containerzusammenlegung Robert-Heger-Straße und Erkweg/Dennerleinstraße
+- TOP 6.2.: Kritik an der Deutschen Post in Bogenhausen (vor allem Umgang mit Senioren und Schwerbehinderten)
+- TOP 6.3.: Ablehnung des Antrages auf Einleitung eines Bebauungsplanverfahrens für einen vorhabenbezogenen Bebauungsplan für die Grundstücke Fl. Nrn. 430/4 und 430/2, Gemarkung Bogenhausen, Friedrich-Eckart-Straße (westlich))
+- TOP 6.4.: Reparaturen am und im Bürgerpark Oberföhring zur Verbesserung der Verkehrssicherheit
+- TOP 6.5.: Aktueller Planungsstand: Ausbau Herzog-Heinrich-Brücke/Föhringer Ring, weitere große Straßenbauvorhaben, Geplantes Wohngebiet Daglfing/Johanneskirchen
+- TOP 6.6.: Mangelhafte Asphalt-Arbeiten auf dem Gehweg in der Barlowstraße
+- TOP 6.7.: Filialen auf Rädern für die Münchner Stadtsparkasse
+- TOP 6.8.: Antrag auf "schwebenden Kreisverkehr" für Radfahrer
+- TOP 6.9.: Fahrradverbindung von Englschalking nach Berg am Laim unterbrochen!
+- TOP 6.10.: Mobilitätskonzept Prinz-Eugen-Park: - Entschließung des PKW-Verkehrs in den Erschließungsstraßen des Prinz-Eugen-Parks - Niveaugleiche Herstellung von Straße und Gehweg im Knick der Ruth-Drexel-Straße zwischen WA 3 und WA 9
+- TOP 6.11.: Planungsstand: Radweg nach Trudering
+- TOP 6.12.: Aufwertung bzw. Reparatur der Ritterfigur im Schlösselgarten
+- TOP 6.13.: Pühnpark: Eigentümer betroffener Flächen schnellstmöglich informieren und umfassend mit einbeziehen!
+- TOP 6.14.: Wann kommt die Fahrradstraße Bogenhausen - Haidhausen?
+- TOP 6.15.: Fahrtrichtung des Radweges neben A 94 / Töginger Straße ändern
+- TOP 6.16.: Mobilitätskonzept Prinz-Eugen-Park: Quartiersbezogenes Parkraummanagement im Prinz-Eugen-Park
+- TOP 6.17.: Brodersenstr. 26: Neubau eines Mehrfamilienhauses mit Tiefgarage; Schreiben des Referats für Stadtplanung und Bauordnung vom 16.02.2018
+- TOP 6.18.: Erneuerung des Teerbelags in der Oberföhriner Straße und Effnerstraße (TOP 2.3.10 vom 16.01.18); Rückmeldung des Baureferats vom 19.02.2018
+- TOP 7.1.1.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 a) Änderung BA-Satzung, Vergabe von Erbbaurecht und die Verpachtung von städtischen Liegenschaften bzw. städtischen Grundstücken b) Anhörung / Unterrichtung der Bezirksausschüsse bei Änderungen und Löschungen von Grunddienstbarkeiten zugunsten der LHM c) Beteiligung der Bezirksausschüsse bei Zustimmungsverfahren nach Art. 73 BayBO d) Änderung von § 12 Abs. 1 BA-Satzung: Verlängerung der Bearbeitungsfrist von 3 auf 6 Monate; redaktionelle Anpassung der BA-Geschäftsordnung e) Erhöhung der Zahl der zu entschädigenden Termine für Mitglieder eines BA-Vorstandes f) Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform Elektronische Ladung als Möglichkeit in § 6 Abs. 2 GeschO 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 7.2.1.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 7.3.1.: Messstellen von Luftschadstoffen; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 15.02.2018 (BA-Antrags-Nr. 14-20 / B 04231 des BA 20 Hadern)
+- TOP 7.5.1.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 7.5.2.: Fritz-Meyer-Weg 55 (Erlebnisgaststätte „Yenikulis“); Unveränderte Fortführung des Gaststättenbetriebes; Schreiben des Kreisverwaltungsreferats vom 26.02.2018
+- TOP 7.7.1.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 7.7.2.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 7.7.3.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 7.7.4.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 7.8.1.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 7.8.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 7.8.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 7.9.1.: Verbot der Zweckentfremdung von Wohnraum Informationskampagne "Raum für München" des Sozialereferats - Übermittlung von Informationsmaterial; Schreiben des Sozialreferats vom 29.01.2018
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch, Brodersenstr. 26 vorher: 164 m² bzw. 1 WE, geplant: 1524 m² bzw. 17 WE
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch, Berenter Str. 7 vorher: 191 m² bzw. 2 WE, geplant: 515 m² bzw. 2 WE
+- TOP 7.9.4.: Zweckentfremdung von Wohnraum durch Abbruch, Berenter Str. 2 / 2a vorher: 199 m² bzw. 2 WE, geplant: 715 m² bzw. 7 WE
+- TOP 7.9.5.: Zweckentfremdung von Wohnraum durch Abbruch, Prinzregentenplatz 23, 3. OG links, Wohnung Nr. 8 vorher: 247,51 m² bzw. 1 WE, geplant: 212,70 m² bzw. 1 WE
+- TOP 7.9.6.: Zweckentfremdung von Wohnraum durch Abbruch, Gemingstr. 24 vorher: 154 m² bzw. 1 WE, geplant: 593 m² bzw. 7 WE
