@@ -1,0 +1,6 @@
+# TOP 7.4: Abfallkorb hinter der Taunushalle
+
+- Sitzung: Ortsbeirat Schönberg (12. Sitzung) (2018-03-14)
+- Körperschaft: Stadt Kronberg im Taunus
+- Öffentlich: ja
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/51161
