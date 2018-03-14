@@ -1,0 +1,85 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709392
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709392
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.1.: Abrechnung der Aufwandsentschädigung - Einsatz einer neuen Abrechnungssoftware
+- TOP 4.1.2.: Tabellen in Tagesordnungen des BA 11
+- TOP 4.4.1.: Gefährliche Verkehrssituation in Milbertshofen - Kreuzung Keferloherstr. / Christoph-von-Gluck-Platz - Antwortschreiben der Polizei
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Projekt „Kicklusion – Alle spielen mit!“ am 05.08.2018 1.478,00€ Az. 0262.0-11-0270
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Zukunft am Hart e.V. Vortragsreihe „Tschernobyl-Folgen im Westen?“ 267,00€ Az. 0262.0-11-0274
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über die Projektplanung Am Oberwiesenfeld (Bebauungsplan 2073)
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Ausweitung des Bayern WLAN im 11. Stadtbezirk
+- TOP 7.2.1.: Wertstoffinseln im Stadtbezirk Milbertshofen-Am Hart
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Einrichtung eines Bildungslokals für den 11. Stadtbezirk
+- TOP 7.3.2.: Einrichtung eines Stadtteilmuseums in Milbertshofen
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Veranstaltungen im Olympiapark - stärkeres Hinwirken auf die Benutzung des ÖPNV
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Landtags- und Bezirkswahl 2018: Anhörung der BA`s zur Stimmbezirkseinteilung
+- TOP 8.1.2.: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 8.1.3.: Mittelfristige Finanzplanung 2017 - 2021 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2018 bis 2022
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Parlerstr. 74: Schulbauoffensive - Neubau eines Hauses für Kinder
+- TOP 8.2.2.: Am Oberwiesenfeld: Öffentliche Grünfläche mit Ausgleichsfläche im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2073 im 10. Stadtbezirk und im 11. Stadtbezirk - Bedarfs- und Konzeptgenehmigung
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Spartan Race München 2018" im Olympiapark vom 13.04. - 14.04.2018
+- TOP 8.3.2.: Veranstaltung "SattelFest 2018 - Das Münchner Radlfestival" im Olympiapark vom 21.04. - 22.04.2018
+- TOP 8.3.3.: Veranstaltung "Gedenkfeier der World Jurist Association" - Kolehmainenweg 11 am 03.05.2018
+- TOP 8.3.4.: Veranstaltung "Familien-Mutmach-Tag" - Milbertshofener Str. 72a am 10.05.2018
+- TOP 8.3.5.: Veranstaltung "Sommerfest der Dankeskirche" auf dem Curt-Mezger-Platz am 22.07.2018
+- TOP 8.3.6.: Veranstaltung "Osterfeuer" auf der Panzerwiese/Hartlholz am 01.04.2018
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Veranstaltung "Wings for Life Worldrun 2018" im Olympiapark am 06.05.2018
+- TOP 8.4.2.: Vorlage Konzept zur Verkehrsberuhigung Donnersbergerbrücke und Mittlerer Ring Nord
+- TOP 8.4.3.: Verkehrsrechtliche Anordnung nach § 45 StVO Bernaysstr. 27 - Kurzparkzone vor dem Kindergarten
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Riesenfeldstr. 87 - Neuerrichtung eines Heizwerks - Vollzugsbescheid nach dem BImSchG
+- TOP 9.2.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Hänflingweg 26
+- TOP 9.2.3.: Entfernung von Gefahrenbäume an den Kleingartenanlagen NO 181, NW 30 und NW59
+- TOP 9.2.4.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 9.2.5.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 9.2.6.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 9.2.7.: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV: a) Bertholdstr. 4-8 b) Christoph-von-Gluck-Pl. 19-19c c) Wallensteinstr. 16 d) Permaneder Str. 47-49
+- TOP 9.2.8.: Meldelisten von Bauvorhaben vom 29.01. bis 18.02.2018
+- TOP 9.2.9.: Christoph-von-Gluck-Platz: Information über Baubeginn Sanierung des Indianerspielplatzes ab 19.03.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Kurzbericht über das Kunst- und Kulturprojekt "Play Me, I&#039;m Yours" 2017
+- TOP 9.3.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 9.3.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Arbeiten im Straßenraum: a) Schleißheimer Str. - BMW-Allee bis zur "Panzerbrücke" und in der Detmoldstr. b) Schleißheimer Str. und in der Hamburger Str.
