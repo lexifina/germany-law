@@ -1,0 +1,63 @@
+# 31. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-03-14T17:06:00+01:00
+- Ende: 2018-03-14T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10895
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10895
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00419533.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 3: Bearbeitungsstand der Ratsanträge - 1. Halbjahr 2018 - zur Kenntnis genommen
+- TOP 4: Antrag der FDP-Ratsfraktion an den Rat Nr. A-R/0045/2017 vom 26.06.2017, „Exzellentes digitales Münster“ - einstimmig beschlossen
+- TOP 5: Skulptur Projekte 2017 - einstimmig beschlossen
+- TOP 6: Erw. Erich-Klausener-Schule zur 4-Zügigkeit und Neubau einer Zweifachsporthalle - Architektenwettbewerb - einstimmig geändert beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Feststellung des Jahresabschlusses 2016 der Stadt Münster - einstimmig beschlossen
+- TOP 8: Dezernatsgliederung - ohne Beschlussfassung geschoben
+- TOP 9: Wahl von Vertrauenspersonen in beisitzender Funktion für den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 9.1: Wahl von Vertrauenspersonen in beisitzender Funktion für den beim Amtsgericht zu bildenden Schöffenwahlausschuss
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 06.05.2018 und 19.05.2019, in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 11: Regelungen des Verfahrens zur Wahl der Kommunalen Seniorenvertretung Münster 2018 - einstimmig beschlossen
+- TOP 12: Digitale Stadt Münster
+- TOP 12.1: Digitale Stadt Münster - Digitalisierungsstrategie der Stadtverwaltung - ohne Beschlussfassung geschoben
+- TOP 12.1.1: Digitale Stadt Münster - Digitalisierungsstrategie der Stadtverwaltung
+- TOP 12.2: Digitale Stadt Münster - Digitale Maßnahmenplanung - ohne Beschlussfassung geschoben
+- TOP 12.3: Digitale Stadt Münster - Zwischenbericht zur Breitbandkoordination - ohne Beschlussfassung geschoben
+- TOP 12.4: Digitale Stadt Münster – Weiterentwicklung des virtuellen Rathauses durch ein Anfrage- und Antragsmanagement Antrag der FDP-Ratsfraktion an den Rat Nr. A-R/0050/2016 vom 08.11.2016, „Das virtuelle Rat-haus entwickeln“ - ohne Beschlussfassung geschoben
+- TOP 12.5: Digitale Stadt Münster - Open Data und Apps - ohne Beschlussfassung geschoben
+- TOP 12.6: Digitale Stadt Münster - „Smart City Münster“ - ohne Beschlussfassung geschoben
+- TOP 13: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2017 bis 2020 - mehrheitlich beschlossen
+- TOP 14: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 15: Fortschreibung Einzelhandels- und Zentrenkonzept Münster - ohne Beschlussfassung geschoben
+- TOP 15.1: Fortschreibung Einzelhandels- und Zentrenkonzept Münster
+- TOP 16: Herstellung von roten Fahrradstraßen - ohne Beschlussfassung geschoben
+- TOP 17: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und Offenen - ohne Beschlussfassung geschoben
+- TOP 18: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für einen 1-Gruppen Pavillon an der Heidestraße, Angelmodde - einstimmig beschlossen
+- TOP 19: Kindertageseinrichtungen
+- TOP 19.1: Nutzung der ehemaligen Wartburg-Hauptschule in Sentrup als Kindertageseinrichtung - ohne Beschlussfassung geschoben
+- TOP 19.2: Sanierung der Kath. Kindertageseinrichtung St. Josef Pastorsesch in Kinderhaus - ohne Beschlussfassung geschoben
+- TOP 19.3: Sanierung der Kath. Kindertageseinrichtung St. Martin in Hiltrup - ohne Beschlussfassung geschoben
+- TOP 19.4: Sanierung der kath. Kindertageseinrichtung St. Anna in Mecklenbeck - ohne Beschlussfassung geschoben
+- TOP 20: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge und Asylbewerberinnen und Asylbewerber - Evaluations- und Erfahrungsbericht der Verwaltung - ohne Beschlussfassung geschoben
+- TOP 20.1: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge und Asylbewerberinnen und Asylbewerber - Evaluations- und Erfahrungsbericht der Verwaltung
+- TOP 21: Neues Konzept für die Betreuung von Menschen in städtischen Obdachloseneinrichtungen - Entwicklung des Standortes Trauttmansdorffstraße - ohne Beschlussfassung geschoben
+- TOP 22: Wirtschaftsplan 2018/2019 des Theater Münster - einstimmig beschlossen
+- TOP 23: Wasserversorgungskonzept für die Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Mitte
+- TOP 24.2: Bebauungsplan Nr. 597 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Hiltrup
+- TOP 24.3.1: Bebauungsplan Nr. 585 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.3.2: Bebauungsplan Nr. 578 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.4: Stadtbezirk Südost
+- TOP 24.4.1: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 25: Verschiedenes
