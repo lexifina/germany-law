@@ -1,0 +1,54 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2018-03-14T15:00:00+01:00
+- Ende: 2018-03-14T17:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbAt3xFqSXJn_FqMn8XYvac
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/560
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRWroSAx-du34rWQwQ8fpWoN4PfEzrvuXjuxBIuquxW6/Einladung_Seniorenbeirat_14.03.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVSCc3xW4I8OuD3Ac-bvspB4Mpd3fSYzYH15yfyUs_t-/Oeffentliche_Niederschrift_Seniorenbeirat_14.03.2018.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 5.1: Schlechte Wegstrecke auf dem Verbindungsweg von der Straße Im Steinnocken bis zur Lewackerstraße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Verkehrssituation Hans-Böckler-Straße - Verkehrsversuch - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.2: Personalsituation in den Seniorenbüros - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.3: Sparkassenfilialen in Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.4: Straßenbeleuchtung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.5: Parksituation Ärztehaus Langendreer Unterstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.6: Bänke in der Innenstadt - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.7: Ümminger See - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.8: Bestattungen auf dem östlichen Teil des Friedhofs Freigrafendamm - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.9: Barrierefreier Ausbau von Bushaltestellen, Stand Februar 2018 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.10: Inklusive Stadt Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.11: Konzept Seniorengroßveranstaltungen 2018 bis einschl. Karneval 2019 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.12: Berichte der Seniorenbeiratsmitglieder
+- TOP 9: Anfragen
+- TOP 9.1: Vorschlag von BürgerInnen für die Einrichtung eines Senioren-Taxi-Dienstes - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.2: Anfrage Hausmeisterhaus - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 11.1: keine Tagesordnungspunkte
