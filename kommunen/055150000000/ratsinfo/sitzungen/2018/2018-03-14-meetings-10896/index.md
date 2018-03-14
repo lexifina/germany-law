@@ -1,0 +1,90 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-03-14T18:04:00+01:00
+- Ende: 2018-03-14T22:09:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10896
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10896
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00419535.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Personalsituation Sozialamt
+- TOP 1.2: Mehrfachehen zum Kindeswohl?
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Velorouten nachhaltiger konzipieren - verwiesen
+- TOP 6.2: Stadthalle Hiltrup als Veranstaltungsraum zukunftssicher machen - verwiesen
+- TOP 6.3: Train-Denkmal - Konzept für den zukünftigen Umgang mit diesem und anderen Denkmälern - verwiesen
+- TOP 6.4: Fahrradstraße Lindberghweg für den Durchgangsverkehr sperren - verwiesen
+- TOP 6.5: Vergabepraxis bei städtischen Grundstücken prüfen - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Feststellung des Jahresabschlusses 2016 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Dezernatsgliederung - mehrheitlich beschlossen
+- TOP 12: Wahl von Vertrauenspersonen in beisitzender Funktion für den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 12.1: Wahl von Vertrauenspersonen in beisitzender Funktion für den beim Amtsgericht zu bildenden Schöffenwahlausschuss
+- TOP 13: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am Sonntag, den 06.05.2018 und 19.05.2019, in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 14: Regelungen des Verfahrens zur Wahl der Kommunalen Seniorenvertretung Münster 2018 - einstimmig beschlossen
+- TOP 15: Digitale Stadt Münster
+- TOP 15.1: Digitale Stadt Münster - Digitalisierungsstrategie der Stadtverwaltung - einstimmig beschlossen
+- TOP 15.1.1: Digitale Stadt Münster - Digitalisierungsstrategie der Stadtverwaltung
+- TOP 15.2: Digitale Stadt Münster - Digitale Maßnahmenplanung - einstimmig beschlossen
+- TOP 15.3: Digitale Stadt Münster - Zwischenbericht zur Breitbandkoordination - zur Kenntnis genommen
+- TOP 15.4: Digitale Stadt Münster - Weiterentwicklung des virtuellen Rathauses durch ein Anfrage- und Antragsmanagement Antrag der FDP-Ratsfraktion an den Rat Nr. A-R/0050/2016 vom 08.11.2016, „Das virtuelle Rat-haus entwickeln“ - einstimmig beschlossen
+- TOP 15.5: Digitale Stadt Münster - Open Data und Apps - einstimmig beschlossen
+- TOP 15.6: Digitale Stadt Münster - „Smart City Münster“ - einstimmig beschlossen
+- TOP 16: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2017 bis 2020 - mehrheitlich beschlossen
+- TOP 17: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 18: Fortschreibung Einzelhandels- und Zentrenkonzept Münster - einstimmig beschlossen
+- TOP 18.1: Fortschreibung Einzelhandels- und Zentrenkonzept Münster
+- TOP 19: Herstellung von roten Fahrradstraßen - mehrheitlich beschlossen
+- TOP 20: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und Offenen - mehrheitlich beschlossen
+- TOP 21: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für einen 1-Gruppen Pavillon an der Heidestraße, Angelmodde - mehrheitlich beschlossen
+- TOP 22: Kindertageseinrichtungen
+- TOP 22.1: Nutzung der ehemaligen Wartburg-Hauptschule in Sentrup als Kindertageseinrichtung - mehrheitlich beschlossen
+- TOP 22.2: Sanierung der Kath. Kindertageseinrichtung St. Josef Pastorsesch in Kinderhaus - mehrheitlich beschlossen
+- TOP 22.3: Sanierung der Kath. Kindertageseinrichtung St. Martin in Hiltrup - mehrheitlich beschlossen
+- TOP 22.4: Sanierung der kath. Kindertageseinrichtung St. Anna in Mecklenbeck - mehrheitlich beschlossen
+- TOP 23: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge und Asylbewerberinnen und Asylbewerber - Evaluations- und Erfahrungsbericht der Verwaltung - mehrheitlich beschlossen
+- TOP 23.1: Einführung einer elektronischen Gesundheitskarte für Flüchtlinge und Asylbewerberinnen und Asylbewerber - Evaluations- und Erfahrungsbericht der Verwaltung
+- TOP 24: Neues Konzept für die Betreuung von Menschen in städtischen Obdachloseneinrichtungen - Entwicklung des Standortes Trauttmansdorffstraße - mehrheitlich beschlossen
+- TOP 25: Wirtschaftsplan 2018/2019 des Theater Münster - einstimmig beschlossen
+- TOP 26: Wasserversorgungskonzept für die Stadt Münster - mehrheitlich beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Münster-Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 597 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk Münster-Hiltrup
+- TOP 27.2.1: Bebauungsplan Nr. 585 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2.2: Bebauungsplan Nr. 578 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Münster-Südost
+- TOP 27.3.1: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 29.1: Umbenennung Hauptausschusszimmer - verwiesen
+- TOP 29.2: Breitbandversorgung strategisch planen und voranbringen - verwiesen
+- TOP 29.3: Eine Konferenz für den Hiltruper See - verwiesen
+- TOP 29.4: Korruption, Unterschlagung und Betrug in der Stadtverwaltung Münster wirksam bekämpfen - verwiesen
+- TOP 29.5: Masterplan Sanierung Sportpark Sentruper Höhe - verwiesen
+- TOP 29.6: Sanierungsbedarf der Kindertageseinrichtungen in Münster ermitteln - verwiesen
+- TOP 29.7: Schutz vor Kohlenmonoxid-Vergiftungen in Münster verbessern - zurückgezogen
+- TOP 29.8: Baukosten verringern – Städtische verbindliche Vorgaben künftig nicht mehr über geltende (Umwelt-)Vorgaben hinaus - verwiesen
+- TOP 29.9: Den historischen Arzneipflanzengarten an der Hittorfstraße erhalten - verwiesen
+- TOP 29.10: Ein Bus-Shuttle vom Hauptbahnhof zum FMO - verwiesen
+- TOP 29.11: Ein Vorkaufsrecht für die Stadt bei Immobilienverkäufen städtischer Gesellschaften - verwiesen
+- TOP 29.12: Verkehrsforum – den ÖPNV von morgen heute vorbereiten - verwiesen
+- TOP 29.13: Park-and-Ride am Hiltruper Bahnhof ausbauen - verwiesen
+- TOP 29.14: Der öffentliche Raum als Garten für jedermann - verwiesen
+- TOP 29.15: Raumsituation der Drogenberatung INDRO e.V. - verwiesen
+- TOP 30: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - mehrheitlich beschlossen
+- TOP 31: Verschiedenes
