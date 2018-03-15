@@ -1,0 +1,59 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-03-15T17:00:00+01:00
+- Ende: 2018-03-15T20:25:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZczamffasLAVLpKqXAGk6pY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5039
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjeG4awgRWX3a2L_qejPcXG3Ow2TndNWx5leO4JO8ei/Bekanntmachung_Rat_15.03.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRw77h7u3SvgCRgdJEeNPX8CFd65f2bKAYGDuUQtb3ru/Oeffentliche_Niederschrift_Rat_15.03.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP -: Beantwortung von Anfragen
+- TOP -: Kosten des Sitzungsdienstes hier: Ergänzende Informationen zu der Anfrage von RM Flemm vom 30.11.2017
+- TOP -: Aussagen der Stadtverwaltung zur Änderung der Straßensatzung hier: Zusatzfragen von RM Seilheimer-Sersal in der Ratssitzung am 01.02.2018
+- TOP -: Ausbildung bei der Stadt Solingen hier: Anfrage von RM Seilheimer-Sersal in der Ratssitzung am 01.02.2018
+- TOP -: Konsequenzen aus dem Dieselurteil des BVG hier: Anfrage der Ratsfraktion von Bündnis 90/ Die Grünen - offene Liste vom 06.03.2018
+- TOP 1.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2.: Protokoll über die 27. Sitzung des Rates am 01.02.2018
+- TOP 3.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 4.: Umbesetzung im Jugendhilfeausschuss hier: Nachfolgeregelung für ein stimmberechtigtes Mitglied
+- TOP 5.: Zweckverband Naturpark Bergisches Land hier: Vertretung der Stadt Solingen in der Verbandsversammlung und im Planungsausschuss
+- TOP 6.: Vertretung der Stadt Solingen in der ,,Strategic Policy Group" im Rahmen der Mitgliedschaft im Städtenetzwerk EUROTOWNS hier: Benennung eines Vertreters der Kommunalpolitik
+- TOP 7.: Umbesetzung von Ausschüssen und Gremien
+- TOP 8.: Gründung einer Bürgerstiftung
+- TOP 9.: Einrichtung und Besetzung eines Beirates für Bürgerbeteiligung
+- TOP 10.: HSP-Maßnahme M125 Strategische Ressourcenoptimierung hier: Rathausanbau am Standort Cronenberger Straße
+- TOP 11.: Leitbild für das Bergische Städtedreieck Remscheid, Solingen und Wuppertal hier: Grundlage für die weitere Erarbeitung eines Leitbildes
+- TOP 12.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 13.: Erklärung nach § 41 Abs. 1 i. V. m. § 87 Abs. 2 GO NRW
+- TOP 14.: Walter-Bremer-Institut hier: Neufassung der Entgeltordnung
+- TOP 14.1: Walter-Bremer-Institut
+- TOP 15.: Neufassung der Vergabeordnung der Stadt Solingen
+- TOP 16.: Solingen fahrradfreundlich gestalten hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 17.: Emissionsreduzierung in der Solinger Innenstadt ohne Fahrverbote hier: gemeinsamer Antrag der Ratsfraktionen CDU, BfS und FDP vom 01.03.2018
+- TOP 18.: Luftreinhalteplan - Konsequenzen aus dem Dieselurteil des BVG hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 19.: Keine Neonikotinoide auf Solingens Böden hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 20.: Wohnraumschutzsatzung für Solingen hier: Antrag der Ratsfraktion DIE LINKE vom 28.02.2018
+- TOP 21.: Kommunaler sozialer Wohnungsbau hier: Antrag der Ratsfraktion DIE LINKE vom 28.02.2018
+- TOP 22.: Erhalt von Flächen im Eigentum der Stadt Solingen hier: Antrag der Ratsfraktion DIE LINKE vom 28.02.2018
+- TOP 23.: Zustimmung zur Direktvergabe von öffentlichen Personennahverkehrsdiensten an die Rheinbahn AG als mitbedienendes Verkehrsunternehmen
+- TOP 24.: Sachstand Sanierung Schloss Burg/a. d. Wupper
+- TOP 25.: Neufassung der "Ordnung der Stadt Solingen über die Benutzung des Müllheizkraftwerkes der Technischen Betriebe Solingen (Be-nutzungsordnung MHKW)"
+- TOP 26.: Abfallwirtschaftskonzept 2018 - 2022
+- TOP 27.: Ersatzneubau Brücke Strohn
+- TOP 28.: Bauleitplanung Focher Straße/ Nümmener Feld und Bauleitplanung Nümmener Feld/ Hegelring
+- TOP 29.: Bauleitplanung Beethovenstraße / Dingshauser Straße Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes W 636 sowie Satzungsbeschluss zum Bebauungsplan W 636 für das Gebiet zwischen der Beethovenstraße im Norden, der Dingshauser Straße im Westen und der Friedrich-Wilhelm-Straße im Süden (Beschluss 3) -Stadtbezirk Mitte -
+- TOP 30.: Verschiedenes
+- TOP 30.1: Mitteilungen der Verwaltung
+- TOP 30.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP -: Beantwortung von Anfragen
+- TOP -: Rathausanbau hier: 1. Zusatzanfrage vom 29.01.2018 zur Anfrage vom 02.06.2017 Bündnis 90/ Die Grünen - offene Liste 2. Anfrage via Mail vom 13.02.2018 Bündnis 90/ Die Grünen - offene Liste 3. Anfrage FDP im Rat der Stadt Solingen vom 05.02.2018 4. Anfrage vom 13.02.2018 Bündnis 90/ Die Grünen - offen Liste
