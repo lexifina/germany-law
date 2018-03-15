@@ -1,0 +1,53 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2018-03-15T17:30:00+01:00
+- Ende: 2018-03-15T21:12:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZX6cEMJ3dLnH2M-6x5SVc8s
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1234
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ257j07Q4C-CAqsFrmOPkt5UQTjQARq10iyDL9gp7nf/Bekanntmachung_Rat_15.03.2018.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVTfGyVBUz7aQxJUvc4adN0tj2BZHZqBdtQhev47B2jv/Oeffentliches_Beschlussprotokoll_Rat_15.03.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 30.01.2018
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Wahl der Jugendschöffen für die Geschäftsjahre 2019 bis 2023
+- TOP 4.: Familie und Soziales
+- TOP 4.1: Jahresbericht des Seniorenbeirates
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Antrag der CDU-Fraktion auf Bebauung der Fläche südlich der Eichendorffstraße zwischen den Straßen Kreuzweg und Sachsenstraße im Bereich des Gruthügels im Ortsteil Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Schulangelegenheiten
+- TOP 6.1: Erstellung eines Konzepts zur Schulwegsicherung Antrag der CDW-Fraktion vom 05.09.2017 - mehrheitlich mit 17 Ja-Stimme(n), 12 Gegenstimme(n), 3 Stimmenthaltung(en) gefasst:
+- TOP 7.: Sportangelegenheiten
+- TOP 7.1: Antrag auf Errichtung von Fahnenmasten an der Sportanlage Benkenbusch in Hollage - einstimmig, mit 7 Enthaltung(en) gefasst:
+- TOP 7.2: Ausstattung der Wallenhorster Sportanlagen mit Defibrillatoren - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Sicherheit und Ordnung
+- TOP 8.1: Vorschlagsliste zur Wahl der Schöffinnen und Schöffen für die Geschäftsjahre 2019 bis 2023 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Verkehrsangelegenheiten
+- TOP 9.1: Antrag der UWG-Fraktion zur Ausstattung der Bushaltestellen im Gemeindegebiet - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Fortschreibung des Einzelhandelskonzeptes der Gemeinde Wallenhorst hier: Entwurfsbeschluss und Beschluss zur Beteiligung - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 10.2: Dorferneuerungmaßnahme "Klosterstraße" hier: Festlegung der Materialauswahl - mehrheitlich mit 25 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.3: Dorferneuerungsmaßnahme "Klosterstraße" hier: Beschluss über die Buslinienführung sowie Beschluss für weitere Detailplanungen - mehrheitlich mit 25 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.4: Dorerneuerungsmaßnahme "Klosterstraße" hier: Weitere Vorgehensweise zum Andachtsplatz am St. Bernardsweg/Wittekindstraße - mehrheitlich mit 25 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.5: Radwegenetzschluss L109, Hollage-Halen; hier: Abschluss einer Planungsvereinbarung mit dem Land Niedersachsen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.6: Sanierung und Öffnung der „Rathausallee“; Antrag der UWG Wallenhorst vom 27.11.2017 - mehrheitlich mit 28 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.7: Erstellung eines Spielplatzkonzeptes für die Gemeinde Wallenhorst hier: Rückbau von Spielplätzen und Verortung eines ersten Mehrgenerationenparks - mehrheitlich mit 19 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 11.: Umwelt- und Energieangelegenheiten
+- TOP 11.1: Wegerandstreifen als Maßnahmenflächen für naturschutzrechtliche Kompensation hier: Vorstellung des Pflege- und Entwicklungsplanes und Beschluss über die Umsetzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Antrag der CDU-Fraktion vom 15.01.2018 auf Beendigung des Carsharing-Angebotes - mehrheitlich mit 25 Ja-Stimme(n), 8 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.: Beitragsrecht
+- TOP 12.1: Antrag der Siedlergemeinschaft Hollage auf Aufhebung der Straßenausbaubeitragssatzung der Gemeinde Wallenhorst hier: Darstellung von Alternativen und Empfehlung der Verwaltung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Termin beim Verwaltungsgericht Osnabrück
+- TOP 13.2: Sitzgelegenheiten in Rulle
+- TOP 13.3: Anliegerbeiträge Hollager Straße
+- TOP 13.4: Netzübernahme
+- TOP 13.5: Beleuchtung am Dulings Hof
