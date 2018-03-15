@@ -1,0 +1,53 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-15T17:00:00+01:00
+- Ende: 2018-03-15T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18889
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18889
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Stadtklima-/ Stadtveschönerungsprogramm 2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert empfohlen
+- TOP 7.2: 5-Jahresplan der Erschließungsmaßnahmen - ungeändert empfohlen
+- TOP 7.3: Förmliche Festsetzung des städtebaulichen Entwicklungsbereichs 'Deutzer Hafen' - Sammelumdruck - mit Änderungen empfohlen
+- TOP 7.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: NEUFASSUNG: Antrag der SPD-Fraktion: Eine zweite integrierte Gesamtschule für Porz - zurückgestellt
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der SPD-Fraktion: Nutzung ehemaliger Praktiker-Baumarkt in Porz-Eil - endgültig abgelehnt
+- TOP 8.4: Dringlichkeitsantrag der SPD-Fraktion: Stellplatz Cambio Car Sharing - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Antwort der Verwaltung: Anfrage zur Sitzung der Bezirksvertretung Porz am 30.01.2018 Hier: Öffnung der Bahnhofstraße in Porz-Mitte für den Straßenverkehr - Kenntnis genommen
+- TOP 9.1.1.1: Anfrage der CDU-Fraktion: Öffnung der Bahnhofstraße in Porz Mitte für den Straßenverkehr - Kenntnis genommen
+- TOP 9.1.2: Liburer Landstraße Mündungsbereich Houdainer Straße - Kenntnis genommen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Mündliche Anfrage der SPD-Fraktion: Trimm Dich Parcours in Gut Leidenhausen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Earth Hour 2018 - Sammelumdruck - Kenntnis genommen
+- TOP 10.2.2: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Sammelumdruck - Kenntnis genommen
+- TOP 10.2.3: Antoniusstraße in Köln-Porz-Urbach, B-Plan 76390/02; 2. Änderung; Offenlage - Kenntnis genommen
+- TOP 10.2.4: GE westlich Linder Kreuz, 4. Änderung; 77349/04; Offenlage - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zum Antrag AN/0135/2018 der Fraktion DIE GRÜNEN in der BV 7 (Porz) - Kenntnis genommen
+- TOP 10.2.6: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.7: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2017 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.8: Jugendtreff Grembox in Porz- Gremberghoven - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
