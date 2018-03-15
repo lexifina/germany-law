@@ -1,0 +1,69 @@
+# 31. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-15T15:08:00+01:00
+- Ende: 2018-03-15T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18760
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18760
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: AN/1130/2017 Wohnsiedlung „Im Mönchsfeld„ in Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Soziale Erhaltungssatzung Severinsviertel und das Auslaufen von Sozialbindungen - Sache ist erledigt
+- TOP -: Anfrage AN/1851/2017 der Fraktion DIE LINKE "Soziale Erhaltungssatzung Severinsviertel und das Auslaufen der Sozialbindungen" Hier: Beantwortung der Anfrage - Kenntnis genommen
+- TOP 2.1.2: Nah- und Fernwärme in Köln
+- TOP 2.1.3: Verdachtsgebiete für Milieuschutzsatzungen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion vom 29.01.2018 betreffend "Verdachtsgebiete für Milieuschutzsatzungen“ (AN/0154/2018) - Kenntnis genommen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Angsträume auf städtischen Flächen - Sache ist erledigt
+- TOP 2.2.2: Revitalisierung der Porzer Innenstadt - Sache ist erledigt
+- TOP 2.2.3: Städtebauförderung nutzen
+- TOP 2.2.4: Neuaufstellung des Regionalplans - Sache ist erledigt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Olpener Straße 250 bis 252 in Köln-Höhenberg; Einleitungsbeschluss - geändert beschlossen
+- TOP 5.2: Revitalisierung Innenstadt Porz: Hochbau Baufelder 2 und 3, Qualifizierungsverfahren - geändert beschlossen
+- TOP 5.3: Planfeststellungsverfahren für den Ausbau des Bahnhofs Köln-Süd - ungeändert beschlossen
+- TOP 5.4: Planfeststellungsverfahren für die Erneuerung von 3 Eisenbahnüberführungen über der Deutz-Mülheimer Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 5.5: Parkstadt Süd; Errichtung eines Stadtteilbüros durch Umbau und Nutzungsänderung von bestehenden Räumlichkeiten im Verwaltungstrakt der Großmarkthalle - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - zurückgestellt
+- TOP 6.2: Auslobung eines Gutachterverfahrens als Mehrfachbeauftragung zur Möblierung des kleinen und des großen Offenbachplatzes im Opernquartier Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Ebertplatz: Weiterentwickeltes Zwischennutzungskonzept - ungeändert beschlossen
+- TOP 6.4: Förmliche Festsetzung des städtebaulichen Entwicklungsbereichs 'Deutzer Hafen' - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Nördlich Colonius in Köln-Neustadt/Nord; VEP; städtebauliches Planungskonzept: Mitteilung ü.d.Ergebnis d.Qualifizierungsverfahrens sowie Beschluss z.Durchführung d.frühz.Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen - geändert beschlossen
+- TOP 9.2: Rochusstraße in Köln-Ossendorf; Anhörung der BV 4 zu den Ergebnissen der frühz. Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des B-Plan-Entwurfes (vorhabenbez. B-Plan) - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Eygelshovener Straße/Sürther Straße in Köln-Rodenkirchen/Aufstellung B-Plan; Eygelshovener Straße in Köln-Rodenkirchen/Aufhebung Einleitungsbeschluss - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 16.2: Beschluss der Bezirksvertretung Porz vom 26.09.2017 über die vereinfachte Änderung des Bebauungsplanes 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1. Änderung - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Geländer am Leystapel - Kenntnis genommen
+- TOP 17.2: Ufermauer Porz - Kenntnis genommen
+- TOP 17.3: Ehemaliges Gebäude des Rautenstrauch-Joest-Museums, Ubierring 45 - Kenntnis genommen
+- TOP 17.4: Antoniusstraße in Köln-Porz-Urbach, B-Plan 76390/02; 2. Änderung; Offenlage - Kenntnis genommen
+- TOP 17.5: GE westlich Linder Kreuz, 4. Änderung; 77349/04; Offenlage - Kenntnis genommen
+- TOP 17.6: Förderung von Wohnungen mit Mitteln des Landes Nordrhein-Westfalen und der Stadt Köln im Jahr 2017 - Kenntnis genommen
+- TOP 17.7: Bericht des Behindertenbeauftragten 03/2018 - Kenntnis genommen
+- TOP 17.8: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 17.9: Ersatzneubau des Bezirksrathauses in Rodenkirchen: Ergebnis des Generalplaner-Wettbewerbs - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
