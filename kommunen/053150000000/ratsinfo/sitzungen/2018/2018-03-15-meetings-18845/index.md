@@ -1,0 +1,70 @@
+# 28. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-15T17:00:00+01:00
+- Ende: 2018-03-15T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18845
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18845
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Lärm-und Schallschutz Mauenheimer Gürtel - Piktogramme und Radarkontrollen (Az.: 02-1600-156/16) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Sperrung der Merkenicher Straße in Höhe der Hausnummer 301 (Az.: 02-1600-165/17) - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO; Absenkung des Bahnsteiges (Rampe) an der Haltestelle Scheibenstraße in Fahrtrichtung Süden - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Container und Sanierungsplan Paul-Humburg-Straße - Kenntnis genommen
+- TOP 7.1.2: Geplante Kita an der Longericher Hauptstr. - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Fälle von Zweckentfremdung nach der Wohnraumschutzsatzung seit 2014 - Kenntnis genommen
+- TOP -: Fälle von Zweckentfremdung nach der Wohnraumschutzsatzung seit 2014 - Kenntnis genommen
+- TOP 7.2.2: Mangel an betreutem bzw. ambulant betreutem Wohnen in Köln-Bilderstöckchen für Senioren, die "nur" alt sind - Kenntnis genommen
+- TOP 7.2.3: Stand Videoüberwachung an den Haltestellen der KVB im Bezirk Nippes - Kenntnis genommen
+- TOP 7.2.4: Wasserqualität im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.5: Umgang mit Leihrädern im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.6: Ausfälle im regulären Verkehrsbetrieb der Straßenbahnlinien 16 und 13 - Kenntnis genommen
+- TOP 7.2.7: Baumbepflanzung Neubau Sebastianstraße - Kenntnis genommen
+- TOP 7.2.8: Reinigung Bolzplatz Am Tetzerkamp - Kenntnis genommen
+- TOP 7.2.9: Graseggerstraße - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Ausbau der Geestemünder Straße - ungeändert beschlossen
+- TOP 8.1.2: Tempo 30 auf der Klimastraße - Übergang zum nächsten Tagesordnungspunkt
+- TOP 8.1.3: Hundetoilette Kriegerplatz - Sache ist erledigt
+- TOP -: Hundetoilette Kriegerplatz - Kenntnis genommen
+- TOP 8.1.4: Errichtung einer öffentlichen Toilettenanlage im Bereich des Wilhelmplatzes - ungeändert beschlossen
+- TOP 8.1.5: Sichere Ausfahrt aus dem neuen Edeka Parkhaus an der Longericher Straße - ungeändert beschlossen
+- TOP 8.1.6: Fahrradstellplätze in der "ehemaligen" Ladezone Neusser Str. 197-201 - endgültig abgelehnt
+- TOP 8.1.7: Aufstellen von Hundekotbeutelspendern im Ebernburgweg Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.8: Durchgang Niehler Gürtel/Eckewartstraße - ungeändert beschlossen
+- TOP 8.1.9: Begrenzung der Anzahl von Straßenfesten auf der Neusser Straße in Nippes - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Eröffnung des Straßenkarnevals auf dem Wilhelmplatz - ungeändert beschlossen
+- TOP 9.1.2: Theaterproduktion "Katzelmacher" auf dem Wilhelmsplatz in 50733 Köln-Nippes - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.4: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Richtlinie für die Benennung von Straßen - geändert beschlossen
+- TOP 9.2.2: 5-Jahresplan der Erschließungsmaßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - geändert beschlossen
+- TOP 9.2.4: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Earth Hour 2018 - Kenntnis genommen
+- TOP 10.2.2: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.3: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.4: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2017 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
