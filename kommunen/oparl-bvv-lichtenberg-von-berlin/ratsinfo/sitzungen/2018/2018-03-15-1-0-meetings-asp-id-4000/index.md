@@ -1,0 +1,92 @@
+# 17. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-03-15T17:00:00+01:00
+- Ende: 2018-03-15T22:25:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4000
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4000
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=235729
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Formen der Kommunikation zwischen dem Bezirksamt und der BVV - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss zur Vorbereitung der Wahl der Schöffinnen und Schöffen für die Geschäftsjahre 2019 bis 2023 - gewählt
+- TOP 6.2: Vorschlagsliste ehrenamtliche Richterinnen und Richter bei dem Oberverwaltungsgericht Berlin - gewählt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Spielplatz Orankesee - beantwortet
+- TOP 8.2: Aussichtsplattform am Gehrensee - beantwortet
+- TOP 8.3: Graffiti in Lichtenberg - in der BVV zurückgezogen
+- TOP 8.4: Mobilität zu Fuß - alle Verkehrsteilnehmer berücksichtigen - beantwortet
+- TOP 8.5: Verkauf von DB-Flächen in der Beerfelder Straße - beantwortet
+- TOP 8.6: Notunterkunft Karlshorst - beantwortet
+- TOP 8.7: Pressemitteilung Kita-Forum - beantwortet
+- TOP 8.8: Kommunikation mit dem Investor "Coppi-Gewerbepark" - beantwortet
+- TOP 8.9: Einladung des Bezirkssportbundes - schriftlich beantwortet
+- TOP 8.10: Runder Tisch politische Bildung Lichtenberg konstituiert - beantwortet
+- TOP 9: Einwohnerfragestunde - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - beantwortet
+- TOP 10.1: Wahl von Bürgerdeputierten - gewählt
+- TOP 10.2: Wahl von Bürgerdeputierten - gewählt
+- TOP 10.3: Aufstellung der Vorschlagsliste für die Wahl der Schöffinnen und Schöffen der Geschäftsjahre 2019 bis 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Geschulte Beratung für queere Menschen und deren Angehörige - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: BVV-Sondermittel für den Förderverein der Max-Taut- Schule zur Durchführung des Europatages 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: BVV-Sondermittel für die Juli Jugendhilfe in Lichtenberg gGmbH für einen Segeltörn für benachteiligte Lichtenberger Jugendliche - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Sondermittel für die Lagerarbeitsgemeinschaft Buchenwald-Dora e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sondermittel für eine Gedenkstättenfahrt nach Auschwitz für Schüler*innen der Carl-von-Linnè-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sondermittel für den Wartenberger Frühlingstag - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sondermittel für das Stadtlichter Festival 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Weniger Wurzelschäden durch moderne Technologie - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Freibad Siegfriedstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Sichtbare Poller - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Vorhabenbezogener Bebauungsplan 11-114 VE – Rechtskontrolle; Arbeitstitel: Genslerstraße 17 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Verordnung über die Veränderungssperre 11-100/26 für das Grundstück Rosenfelder Straße 15-16 im Bezirk Lichtenberg, Ortsteil Friedrichsfelde - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Solartechnologie für Lichtenbergs Gehwege und Radverkehrsanlagen - überwiesen
+- TOP 10.18: Bezirkliches Konzept zur systematischen Erhaltungsplanung öffentlicher Lichtenberger Straßen-Verkehrsflächen - überwiesen
+- TOP 10.19: Platz am Tierpark-Center sicher und sauber gestalten - überwiesen
+- TOP 10.20: Messung der Luftverschmutzung auf der Treskowallee - überwiesen
+- TOP 10.21: Schulstandort Blockdammweg zukunftsfähig gestalten - überwiesen
+- TOP 10.22: Taktzeiten der Buslinien 194, 296 und 396 im Bereich Friedrichsfelde verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Verkehrssicherheit an der Schlichtallee/Ecke Fischerstraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Jedes Mieterhöhungsverlangen und jede Betriebskostenabrechnung mit Hinweis auf unabhängige Mieter*innenberatung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.25: Religionskunde an der Volkshochschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.26: Die BVV über die Erteilung von Abgeschlossenheitsbescheinigungen informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.27: Gründung eines Frauenbeirates des Bezirksamtes Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.28: Leitlinien zur Bürgerbeteiligung im Bezirk Lichtenberg von Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.29: Bebauungsplan 11-111 - Behördenbeteiligung; Arbeitstitel: Neustrelitzer Straße 65 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.30: Bebauungsplan 11-132 - Aufstellungsbeschluss; Arbeitstitel: Sandinostraße 8/10 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.31: Bebauungsplan XVII-4 – Erneute eingeschränkte Beteiligung der Behörden und Öffentlichkeit; Arbeitstitel: „Ostkreuz“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.32: Vorhabenbezogener Bebauungsplan 11-73 VE - Behördenbeteiligung Arbeitstitel: Wartenberger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.33: Wirtschaftsbericht 2017 Bezug: DS/0346/IV - überwiesen
+- TOP 11: Wahlen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Verwaltungsmodernisierung und -digitalisierung in Lichtenberg. Sind wir schon im 21. Jahrhundert angekommen? - schriftlich beantwortet
+- TOP 13: Prioritäten der Fraktionen - (offen)
+- TOP 13.1: Paul-und-Charlotte-Kniese-Schule nachhaltig entwickeln - überwiesen
+- TOP 13.2: Mehr Wohnen wagen – höhere GFZ ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 14.1: Vorhabenbezogener Bebauungsplan 11-120 VE – Planreife; Arbeitstitel: Dolgensee-Center - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Anträge zur Beschlussfassung - (offen)
+- TOP 15.1: Wahl von Bürgerdeputierten - gewählt
+- TOP 15.2: Verlängerung des 5-Minuten-Taktes auf der Straßenbahnlinie M5 - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Barrierefreiheit im Umfeld von Baustellen - überwiesen
+- TOP 15.4: M17 barrierefrei - überwiesen
+- TOP 15.5: Fortschreibung des Investitionsplans 2017 - 2021 - zurückgezogen
+- TOP 15.6: Bauherrenpreis 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Transparente Kommunikation über Flüchtlingswohnen - überwiesen
+- TOP 15.8: Protected Bike Lane in der Siegfriedstraße partizipativ und zeitnah umsetzen - überwiesen
+- TOP 15.9: Erhöhung der Verkehrssicherheit an der Kreuzung Schulze-Boysen-Straße/Buchberger Straße/Hauffstraße - überwiesen
+- TOP 16: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 17: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 18: Schließung der Sitzung - erledigt
