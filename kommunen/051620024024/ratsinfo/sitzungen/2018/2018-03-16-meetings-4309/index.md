@@ -1,0 +1,55 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2018-03-16T16:00:00+01:00
+- Ende: 2018-03-16T21:54:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4309
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4309
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Kölner Straße: Barrierefreier Umbau der Bushaltestellen "Sporthafen" - mehrheitlich zugestimmt
+- TOP 6: Knotenpunkt Dreikönigenstraße/Jülicher Straße/Schorlemerstraße: barrierefreier Umbau - mehrheitlich zugestimmt
+- TOP 7: Verkehrliche Erschließung BPL 485 - Holzheim, Kreitzer Straße (1. Bauabschnitt) - einstimmig zugestimmt
+- TOP 8: Geschäftsordnung Integrationsrat - mehrheitlich zugestimmt
+- TOP 9: Gründung der Arbeitsgruppe „Zuständigkeitsordnung und Bürgerbeteiligung“ - einstimmig zugestimmt
+- TOP 10: 10. Satzung zur Änderung der Verwaltungsgebührensatzung - einstimmig zugestimmt
+- TOP 11: Bebauungsplan Nr. 460 - Norf, Nievenheimer Straße - - einstimmig zugestimmt
+- TOP 12: Übertragung der Herbert-Karrenberg-Schule an den Rhein-Kreis Neuss - einstimmig zugestimmt
+- TOP 13: Finanzierung der OGS-Plätze im Schuljahr 2018/19 - einstimmig zugestimmt
+- TOP 14: OGS - weitere Entwicklung - einstimmig zugestimmt
+- TOP 15: Zweckgebundener Zuschuss für die neuss-agenda-21 e.V. für das Jahr 2018 - einstimmig zugestimmt
+- TOP 16: Zweckgebundener Zuschuss für die Neusser-Eine-Welt-Initiative e.V. (NEWI) für die Eine-Welt-Arbeit - mehrheitlich zugestimmt
+- TOP 17: Fortführung der vertraglichen Leistungen für das Diakonische Werk der Ev. Kirchengemein-den Neuss e. - einstimmig zugestimmt
+- TOP 18: Jugendhilfeplanung "Spielraumplanung": Kinderspielplatzprogramm 2018/2019 - einstimmig zugestimmt
+- TOP 19: Jugendhilfeplanung „Spielraumplanung“: Spielraumleitplanung für die Stadt Neuss - einstimmig zugestimmt
+- TOP 20: Jugendhilfeplanung "Kindertagesbetreuung", hier: Ausbauplanung 2018ff. - einstimmig zugestimmt
+- TOP 21: Antrag des BZA Rosellen betr. Sanierung Tennenplatz - abgesetzt
+- TOP 22: Nachrüstung vorhandener Bushaltestellen mit taktilen Elementen - einstimmig zugestimmt
+- TOP 23: Raiffeisenstraße: Gehwegergänzungen - einstimmig zugestimmt
+- TOP 24: Antrag der Fraktion UWG/BIG betr. Einsatzverbot von glyphosathaltigen Herbiziden auf städtischen - verwiesen
+- TOP 25: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Antrag: „Entwicklung einer Nachhaltigkeits - mehrheitlich abgelehnt
+- TOP 26: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. E-Mobilität fördern - Ladeinf - einstimmig zugestimmt
+- TOP 27: Antrag der Fraktionen von SPD und FDP betr. Aufbau einer flächendeckenden Ladeinfrastruktur für Elek - verwiesen
+- TOP 28: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Anbindung des Südparks an den ÖPNV verbe - einstimmig zugestimmt
+- TOP 29: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Fahrradstellflächen in der Innenstadt - einstimmig zugestimmt
+- TOP 30: Antrag der SPD-Fraktion betr. Wohngemeinschaften fördern für mehr bezahlbaren Wohnraum in Neuss - verwiesen
+- TOP 31: Antrag der SPD-Fraktion betr. 100 Jahre Frauenwahlrecht in Deutschland – Gleichberechtigung in Neuss - zur Kenntnis genommen
+- TOP 32: Antrag der Fraktion UWG/BIG betr. Anträge zum Förderprogramm 2019 für Altlasten sowie weitere Maßnah - verwiesen
+- TOP 33: Antrag der Fraktion von CDU/Bündnis 90/Die Grünen betr. Bestellung eines Gutachters zur Unternehmen - mehrheitlich zugestimmt
+- TOP 34: Antrag der Fraktionen von CDU und Bündnis 90/Die Grünen betr. Sofortige Planung der Feuerwache Süd – - einstimmig zugestimmt
+- TOP 35: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Beschluss des Rates zur dauerhaften Einric - mehrheitlich zugestimmt
+- TOP 36: Antrag der Fraktion Die Linke betr. Überprüfung nicht realisierter Bebauungspläne - zur Kenntnis genommen
+- TOP 36.1: Dringlichkeitsantrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Staatsanwaltschaftliche Ermi - zur Kenntnis genommen
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Anfrage von Herrn STV Kranefuss betr. Zusammenlegung von Verwaltungsarbeiten im RK Neuss - zur Kenntnis genommen
+- TOP 38.1: Anfrage von Herrn Stadtverordneten Dr. Geerlings betr. Beabsichtigte Darlehensgewährung an die Stadt - zur Kenntnis genommen
+- TOP 39: Einwohnerfragestunde - zur Kenntnis genommen
