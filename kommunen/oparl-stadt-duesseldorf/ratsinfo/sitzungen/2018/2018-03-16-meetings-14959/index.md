@@ -1,0 +1,60 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-03-16T16:00:00+01:00
+- Ende: 2018-03-16T18:06:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14959
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14959
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00312576.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00312576.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00312576.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift 179/1/208 vom 26.01.2018 - einstimmig beschlossen
+- TOP 5: Errichtung einer Grundschule am Schulstandort Steinkaul und Auflösung des Teilstandortes der St. Apo - Empfehlung einstimmig beschlossen
+- TOP 6: Informationsvorlage - ÖTA Benrather Marktplatz - zur Kenntnis genommen
+- TOP 7: Informationsvorlage: Am Scheitenwege Süd, D-Himmelgeist, Herstellung der Erschließungsstraßen - zur Kenntnis genommen
+- TOP 8: Bezirkssportanlage "Am Wald": Sanierung des Kunstrasen-Großspielfeldes - einstimmig beschlossen
+- TOP 9: Maimarkt und Bierbörse in Benrath im Jahre 2018 - einstimmig beschlossen
+- TOP 10: Bezirklicher Bauunterhalt 2018 - Blumenoasen - einstimmig beschlossen
+- TOP 11: Anfrage: Spielstraßen Tiroler Weg und Angerstraße - beantwortet
+- TOP 12: Anfrage: Planungskonzept "Nördliche Paulsmühlenstraße" - beantwortet
+- TOP 13: Anfrage: Eissporthalle Benrath - beantwortet
+- TOP 14: Anfrage: Laternen in Himmelgeist - beantwortet
+- TOP 15: Anfrage: Methadonpraxis Holthausen - beantwortet
+- TOP 16: Anfrage: Ausrüstung der Berufsfeuerwehr Düsseldorf im Stadtbezirk 9 - zurückgezogen
+- TOP 17: Anfrage: Fernwärmeverbund Düsseldorf Süd - beantwortet
+- TOP 18: Anfrage: Zusätzliche Fahrradständer am Bahnhof Benrath - vertagt
+- TOP 19: Anfrage: Verkehrssituation im Rathausviertel Benrath - vertagt
+- TOP 20: Antrag: Bunker Kölner Landstr./ Burscheider Str. - vertagt
+- TOP 21: Antrag: Parkverbotszone in der "Grünen Siedlung" - zurückgezogen
+- TOP 22: Antrag: Studierendenwohnheim IckerswarderStr. / Münchener Str. - einstimmig beschlossen
+- TOP 23: Antrag: Fußgänger- und fahrradfreundlicher Ortsteil Paulsmühle - mehrheitlich beschlossen
+- TOP 24: Antrag: Einrichtung einer Vorrangschaltung - einstimmig beschlossen
+- TOP 25: Antrag: Verbesserung der Straßenbeleuchtung Nixenstraße/Am Spaltwerk - einstimmig beschlossen
+- TOP 26: Antrag: Straßenbeleuchtung Nixenstraße-Bruchhausenstraße - einstimmig beschlossen
+- TOP 27: Antrag: Aufwertung Corelliplatz - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel " Die Arche"-Schubladentisch - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel "Wir in Wersten", Osterfeuer - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel "Wir in Wersten e.V.", Stadtrallye für Kinder - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Benrather Kulturkreis e.V., Kunstausstellung im April 2018 - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel "Theodor-Litt-Realschule", Coolnesstraining - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Schloss-Gymnasium, Erasmus+ -Projekt "Schüler machen/schreiben Geschichte" - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel "Benrather Pokalkegeln e.V." - einstimmig beschlossen
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 24.03.2017, Machbarkeitsstudie Radschnellweg - zur Kenntnis genommen
+- TOP 36: Informationsvorlage zum Beschluss der BV 9 vom 10.11.2017 - zur Kenntnis genommen
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 08.12.2017, Beleuchtung Brückerbach - zur Kenntnis genommen
+- TOP 38: Informationsvorlage: Ergänzung zur Info-Vorlage 179/219/2017 - zur Kenntnis genommen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 08.12.2017, Bericht Tempo 30 "Am Schönenkamp" - zur Kenntnis genommen
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 08.12.2017, Rathaus Benrath - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 24.03.2017 - zur Kenntnis genommen
+- TOP 42: Antrag: Verfügungsmittel Kath.Grundschule Einsiedelstr., "Jim Knopf" Circus-Theater-Projekt - einstimmig beschlossen
+- TOP 43: Antrag: Verfügungsmittel SV Wersten 04 e.V., "Jugend spielt für Europa" - einstimmig beschlossen
