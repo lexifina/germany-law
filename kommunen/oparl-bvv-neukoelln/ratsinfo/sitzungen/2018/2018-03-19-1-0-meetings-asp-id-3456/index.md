@@ -1,0 +1,65 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-03-19T18:50:00+01:00
+- Ende: 2018-03-19T22:33:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3456
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3456
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliches - erledigt
+- TOP 2: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 2.1: Geschichtliche Aufarbeitung Wissmannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Neukölln wird "Kinderfreundliche Kommune" - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Hauptamtliche Leitung der Seniorenfreizeitstätten - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Fachkonferenz Jugendberufsagentur - ohne Änderungen in der BVV beschlossen
+- TOP 2.5: Bezirkliche Seniorenvertretung stärken - ohne Änderungen in der BVV beschlossen
+- TOP 2.6: Gut und sicher ankommen im Estrel - ohne Änderungen in der BVV beschlossen
+- TOP 2.7: Fahrradstraße Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 2.8: Fairer Bezirk – Faires Outfit - ohne Änderungen in der BVV beschlossen
+- TOP 2.9: Alle Jahre wieder- Silvesterchaos in Neukölln? - beantwortet
+- TOP 2.10: Kann gefährliches Verkehrsverhalten wirksam bekämpft werden? - beantwortet
+- TOP 2.11: Bushaltestelle Seeadlerweg - beantwortet
+- TOP 2.12: Was hat Neukölln vom Haushaltsüberschuss von 2,16 Mrd. Euro in 2017 im Land Berlin? - beantwortet
+- TOP 2.13: Bushaltestelle Seeadlerweg - in der BVV abgelehnt
+- TOP 2.14: Fußgängerüberweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.15: Integrationspreis - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.16: Müllbehälter auf dem Grünzug Britz-Buckow-Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.17: Effektive verkehrsberuhigende Maßnahmen in der Neckarstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.18: Grünanlage aufwerten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.19: Verkehrssicherheit für Schulkinder Am Eichenquast - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.20: Fahrradwegführung am Buckower Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.21: Bessere Sichtverhältnisse an der Kreuzung Hugo-Heimann-Straße / Kölner Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.22: Umsetzung des Toilettenkonzepts des Senats in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.23: Neukölln baut einen Bezirksjugendring auf - vertagt
+- TOP 2.24: Defibrillator fürs Rathaus Neukölln - vertagt
+- TOP 2.25: Gehweg in der Köpenicker Straße ab Eingang Schmiedeteich bis Alt-Rudow - vertagt
+- TOP 2.26: Abgabe von Unterlagen durch Jobcenter Neukölln wieder bestätigen - vertagt
+- TOP 2.27: Sonnenallee soll Sonnenallee bleiben! - vertagt
+- TOP 2.28: Abwehr von Gefahren für Leib und Leben einer Vielzahl von Bürgern - vertagt
+- TOP 2.29: Flüchtlingsunterkünfte in Buckow - vertagt
+- TOP 2.30: Entwicklung der sogenannten Müll Hot Spots - vertagt
+- TOP 2.31: Klagen wegen fehlenden Kitaplätzen: Bezirk muss jetzt handeln! - vertagt
+- TOP 2.32: Schulplatzwechsel für alle Schülerinnen und Schüler an die Oberschulen in Neukölln sicherstellen! - vertagt
+- TOP 2.33: Ordnungsamt Neukölln - vertagt
+- TOP 2.34: Durch das Jugendamt Neukölln betreute unbegleitete minderjährige Asylbewerber - vertagt
+- TOP 2.35: Grüne Welle Sonnenallee - vertagt
+- TOP 2.36: Fond für die Kosten der Verlegung von Stolpersteinen für Nachfahren der Opfer des Nationalsozialismus - vertagt
+- TOP 2.37: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - vertagt
+- TOP 2.38: Murat spielt Prinzessin - vertagt
+- TOP 2.39: Wahrheit über die 13. Sitzung der BVV bekanntgeben - vertagt
+- TOP 2.40: Bezirksverordneten Vorsteher -gemäß § 37 Abs.5 d GO BVV- nichtöffentlicher Tagesordnungspunkt- - in der BVV abgelehnt
+- TOP 2.41: Altersfeststellung von Amts wegen bei zweifelhaftem Alter von unbegleiteten minderjährigen Asylbewerbern - vertagt
+- TOP 2.42: Gefährliches Verkehrsverhalten von Radfahrern wirksam bekämpfen - vertagt
+- TOP 2.43: Mieterschutz in Milieuschutzgebieten verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.44: Schulstandort auf dem Tempelhofer Feld - vertagt
+- TOP 2.45: Bebauungsplan XIV-245ba-1 („Sonnenallee 228“) - vertagt
+- TOP 3: Große Anfragen - schriftlich - (offen)
+- TOP 3.1: Wohnumfeldnahes Grün, Biodiversität und Luftqualität - schriftlich beantwortet
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: Abwahl eines Mitglieds des Bezirksamts - zur Kenntnis genommen (Beratungsfolge beendet)
