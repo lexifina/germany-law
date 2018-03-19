@@ -1,0 +1,73 @@
+# 30. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-19T17:00:00+01:00
+- Ende: 2018-03-19T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18837
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18837
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation, verschmutzte Gehwege Fridolinstraße in Neu-Ehrenfeld (Az.: 02-1600-75/17) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme einer Schenkung eines Spielgerätes für den Schulhof der Paul-Klee-Schule, Ottostraße 76, 50823 Köln - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der SPD-Fraktion, betr.: Ausübung des kommunalen Vorkaufsrechts für Grundstücke: "Bewährtes Instrument zur Behenung der Wohnungsnot - auch für Ehrenfeld" - zurückgestellt
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Segro Gelände und ehemaliges Verwaltungsgebäude Herbig Haarhaus - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Schließung Notfallpraxis in Ehrenfeld - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Sachstand Antrag Insektenfreundliches Ehrenfeld AN/0065/2018 - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Bürgereingabe gem. § 24 GO, betr.: Beschluss der BV Ehrenfeld "Boulevard Ehrenfeld" (Az.: 02-1600-76/17) - zurückgestellt
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Eisen- und Kohlenstraße entlasten - endgültig zurückgezogen
+- TOP 8.3: Antrag der SPD-Fraktion, betr.: Anbindung der neuen Gesamtschule Wasseramselweg - jetzt endlich einen sicheren Schulweg schaffen! - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Verlängerung der Buslinie 145 - geändert beschlossen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Dringlichkeitsantrag der CDU-Fraktion, betr.: Bauvorhaben Venloer Straße 525 in Köln-Ehrenfeld - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Benennung einer Planstraße im Baugebiet ehemaliger Güterbahnhof Ehrenfeld - zurückgestellt
+- TOP 9.2: Benennung der Fuß- und Radwege und des Quartiersplatzes im Baugebiet Häuschensweg in Köln-Bickendorf - ungeändert beschlossen
+- TOP 9.3: Errichtung einer Mega-Light-Werbeanlage im Bereich der Nattermannallee / Einmündung Venloer Straße - zurückgestellt
+- TOP 9.4: Errichtung einer City-Light-Säule vor dem Grundstück Äußere Kanalstraße / Subbelrather Straße 481 - zurückgestellt
+- TOP 9.5: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Von-Hünefeld-Straße 59 - zurückgestellt
+- TOP 9.6: Errichtung einer City-Light-Säule vor dem Grundstück Äußere Kanalstraße 67 / Einmündung Borsigstraße - zurückgestellt
+- TOP 9.7: Errichtung einer City-Light-Säule vor dem Grundstück Venloer Straße gegenüber 891 / Einmündung Mathias-Brüggen-Straße - zurückgestellt
+- TOP 9.8: Erste Vergabe der bezirksorientierten Finanzmittel 2018 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld; VEP Einleitungsbeschluss - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag der SPD-Fraktion zu TOP 10.1, betr.: Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.1.2: Änderungsantrag der CDU-Fraktion in der BV 4 (Köln Ehrenfeld) zu TOP 10.1, Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Subbelrather Straße 486 -494 in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.1.3: Ergänzungsantrag der Fraktion Die Linke zu TOP 10.1.1 - Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.2: Seeadlerweg in Köln-Ehrenfeld; VEP Einleitungsbeschluss und frühz Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.3: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - Sache ist erledigt
+- TOP 10.3.1: Änderungsantrag zu TOP 5.1. Luftreinhalteplan - Sache ist erledigt
+- TOP 10.3.2: Wirksame Maßnahmen zur Luftreinhaltung unverzüglich umsetzen! - Änderungsantrag zu TOP 10.5 „Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans" - Sache ist erledigt
+- TOP 10.3.3: Genehmigung einer Dringlichkeitsentscheidung, betr.: Luftreinhaltung - Position der Stadt Köln zur Fortschreibung des Luftreinhalteplans - ungeändert beschlossen
+- TOP 10.4: Rochusstraße in Köln-Ossendorf; Anhörung der BV 4 zu den Ergebnissen der frühz. Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des B-Plan-Entwurfes (vorhabenbez. B-Plan) - geändert beschlossen
+- TOP 10.5: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Michael-Ende-Schule, KGS Platenstr. 7-9, 50825 Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.6: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - ungeändert beschlossen
+- TOP 10.7: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 12.3: Ehrenamtspreis "KölnEngagiert 2018" - Kenntnis genommen
+- TOP 12.4: REWE-Markt Venloer Str. 310 - Aktueller Sachstand - Kenntnis genommen
+- TOP 12.5: Earth Hour 2018 - Kenntnis genommen
+- TOP 12.6: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 12.7: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 12.8: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 12.9: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 12.10: Radverkehrskonzept Ehrenfeld - Kenntnis genommen
+- TOP 12.11: Anbindung Schule Wasseramselweg - Kenntnis genommen
+- TOP 13: mündliche Anfragen
