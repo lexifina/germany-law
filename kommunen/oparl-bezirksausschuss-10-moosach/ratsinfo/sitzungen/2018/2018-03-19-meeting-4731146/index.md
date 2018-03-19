@@ -1,0 +1,101 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731146
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731146
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Beschluss Demokratiemobil
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Abrechnung von Sitzungsgeldern: 1. Bildung eines sonstigen internen Gremiums "Vorlagenbesprechung" 2. Benennung Mitglieder
+- TOP 2.1.: Runder Tisch Inklusion in Moosach: Umsetzung der UN-Behindertenrechtskonvention
+- TOP 3.2.1.: Treffen mit Baureferat - Tiefbau am 22.02.2018
+- TOP 3.2.2.: Verkehrssituation für Radfahrer an der Feldmochinger Straße
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Ernst-Platz-Str. 2a 2. Lechelstr. 35
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Simrockstr. 57 2. Dachauer Str. 164 3. Ernst-Platz-Str. 2a
+- TOP 3.3.3.: Bauvorhaben Werbeanlagen: 1. Georg-Brauchle-Ring
+- TOP 3.3.4.: Baumfällung i.Z. mit Teil-Baugenehmigung (Erdaushub) Dachauer Straße - Vorabzustimmung des Vorsitzenden
+- TOP 3.4.1.: Mitmachen beim Tag des offenen Denkmals 2018
+- TOP 4.: Anträge
+- TOP 4.1.1.: Freiflächengestaltung auf dem Grundstück Franz-Fihl-Str. 10 (auch südlich des Grundstücks Meißener Str. 11)
+- TOP 4.1.2.: Wiederherstellung eines gemeinsamen Geh- und Radweges an der Baldurstraße Richtung Westen
+- TOP 4.1.3.: Ausbau der Untermenzinger Straße zwischen Allacher Straße und Memminger Platz
+- TOP 4.5.1.: Anfrage zur Neugestaltung des Amphionparkes
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Elternbeirat des Gymnasiums München Moosach „Sicher im Internet“ Workshop und Elternabend 390,00€ Az. 0262.0-10-0149
+- TOP 5.2.: (E) Budget der Bezirksausschüsse PSV-München e.V. Jugendfußballturnier vom 15. - 21.07.2018 1.000,00€ Az. 0262.0-10-0150
+- TOP 5.3.: Situierung der geplanten Kita im Neubauprojekt der GWG Gubestr. 27-37 Empfehlung Nr. 14-20 / E 01760 (2 gleichlautende Anträge!) der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 19.10.2017
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Dachauer Str. 413 Antrag zur Genehmigung für einen mobilen Fahrradständer
+- TOP 5.5.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Pelkovenstr. 42 Antrag zur Genehmigung einer Freischankfläche
+- TOP 6.1.: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 6.2.: Bedarfs- und Konzeptgenehmigung: Am Oberwiesenfeld Neubau offentliche Grünfläche mit Ausgleichsfläche (Bbplan mit Grünordnung Nr. 2073)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund (Begleitgrün): Moosacher St.-Martins-Platz "Moosacher Dorffest" am 14.07.2018
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund und auf städtischem Privatgrund (Festzelt): "Moosacher Maifest" vom 27.04. bis 01.05.2018
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund, im Freien auf Privatgrund und in städtischen Grünanlagen: Olympiapark "Wings for Life Worldrun 2018" am 06.05.2018
+- TOP 6.6.: Mittelfristige Finanzplanung 2017-2021; Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2018 bis 2022
+- TOP 6.7.: Vorlage Konzept zur Verkehrsberuhigung Donnersbergerbrücke und Mittlerer Ring Nord
+- TOP 6.8.: Haltestellensituation für neue Expressbuslinie X50 im Bereich Moosach Bahnhof / Breslauer Straße
+- TOP 6.9.: AG Spiellandschaft: Übersicht Spielaktionen 2018
+- TOP 6.10.: Anmietung Splittergrundstück Allacher Straße / Ecke Waldhornstraße für Angebot Bettfedernreinigung vom 19.04. bis 26.04.18 und 30.08. bis 06.09.18
+- TOP 6.11.: Baumfällungen (Baumschutz): 1. Eggmühler Str. 30 2. Ehrenbreitsteiner Str. 29 3. Hirschstr. 11 4. Lauinger Str. 42 5. Lauinger Str. 63 6. Prochintalstr. 33 7. Karlingerstr. 61
+- TOP 7.1.: Radweg Gartenanlage NW 12 / NW 19 [BA-Antrag Nr. 14-20/B 04188 vom 16.10.2017; mittige Kennzeichnung mit weisser Linie und Heckenrückschnitt im Frühjahr 2018 zur Verbesserung der Sicherheit für Radfahrer]
+- TOP 7.2.: Finanzgrundversorgung in München-Hartmannshofen [1. Antwortschreiben RAW zu BA-Antrag Nr. 14-20/ B 04386 vom 11.12.17: Weitergabe Standortvorschläge BA den an Genossenschaftsverband und Bankenverband.;Nennung Alternativfilialen. 2. Stellungnahme Stadtsparkasse: Standortaufgabe erst 2019]
+- TOP 7.3.: Grünstreifen Leipziger Straße / Sigmund-Schacky-Straße (Neuanlagen und Unterbindungsmaßnahmen Parken) [BA-Antrag Nr. 14-20/B 04384 vom 11.12.17; Wiederherstellung Grünstreifen, Baumpflanzung und Poller im Frühjahr 2018]
+- TOP 7.4.: Einrichtung eines Bildungslokals für den 10. Stadtbezirk [BA-Antrag Nr. 14-20/B 02788 vom 12.09.2016; Realisierung in Folgejahren nach 2018 wegen Rangfolge Planungsindex]
+- TOP 7.5.: Sanierung der Zu- und Ausfahrtstraße beim Westfriedhof - Haupteingang [Schreiben BA10 vom 16.01.18; laufende Reparaturen werden erledigt; Vormerkung Sanierung für 2019]
+- TOP 7.6.: Markierung/ Beschilderung des Geh- und Radweges an der "Meile Moosach" am südwestlichen Ende zur Georg-Moosacher-Straße [Schließung Gehwegstutzen baulich nicht möglich, da Feuerwehrumfahrung und Aufstellfläche für Feuerwehr; Beschilderung für Radfahrer erfolgt.]
+- TOP 7.7.: Einrichtung Bordsteinabsenkung an der westlichen Seite der Bushaltestelle Westfriedhof [Schreiben BA10 vom 14.11.17; Umsetzung noch 2018]
+- TOP 7.8.: Fahrradständer am Westfriedhof wiederherstellen und ergänzen [Schreiben BA10 vom 17.01.18; Insgesamt werden am Westfriedhof 26 Fahrradstellplätze geschaffen]
+- TOP 7.9.: Zustand Straßenbelag Riesstraße [Schreiben BA10 vom 14.11.17; Fahrbahnbelag wird auf der gesamten Breite Sommer 2018 nach Ergebnis Ausschreibung erneuert]
+- TOP 7.10.: Änderung des Verkehrsabflusses aus dem Parkplatz "Parkharfe" des Olympiaparks Sapporobogen [Bürgeranliegen; Ablehnung Vorschläge; rechtliche Voraussetzungen und Kostengründe sprechen dagegegen]
+- TOP 7.11.: Gemeinschaftsunterkunft Franz-Mader-Str. 4 bis 8 hier: Planung von Räumlichkeiten für die Sozialbetreuung [Raumbedarf für Unterkunftspersonal ausreichend berechnet; Wunsch nach zusätzlichem Bürobedarf kann nicht stattgegeben werden].
+- TOP 7.12.: Fassadengestaltung des Neubauprojektes Dachauer Straße/ Hugo-Troendle-Straße [künstlerische Gestaltung ist beim zuständigen Architekturbüro beauftragt].
+- TOP 7.13.: Ladetätigkeiten Autohäuser auf der Dachauer Straße stadteinwärts [Schreiben BA10 vom 17.01.18; Muttergesellschaft hat Speditionen erneut aufgefordert vereinbarte Anlieferzeiten einzuhalten]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumentfernungen und Gehölzepflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 8.3.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.4.: Bachräumungstermine 2018 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.5.: Erinnerungsverfahren (§6.1 AufgrO): Fahrbahnsanierung Riesstr. 4 bis 42
+- TOP 8.6.: Austausch von Lichtsignalanlagen: 1. Allacher- / Netzerstraße 2. Baldur- / Dantestraße
+- TOP 8.7.: Landtags- und Bezirkswahl 2018; Stimmbezirkseinteilung
+- TOP 8.8.: Dienststellenverständigung: Neubau Städtisches Tagesheim Gerastr. 6
+- TOP 8.9.: Spielen in der Stadt: Planung der Einsätze der MünchnerSommerSpielAktion 2018; Platzauswahl
+- TOP 8.10.: Ergebnisse der BA-Satzungskommission; Behandlung im Stadtrat hier: Technikpauschale - Zwischennachricht
+- TOP 8.11.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung der Gesamtstrecke der Mirjam-David-Straße
+- TOP 8.12.: (U) Krähensichere Mülleimer Antrag Nr. 14-20 / A 01298 von Frau Stadträtin Bettina Messinger, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Simone Burger, Frau Stadträtin Beatrix Zurek und Herrn Stadtrat Jens Röver vom 07.08.2015
+- TOP 8.13.: (U) Nachverdichten - nicht nur beim Wohnen, auch beim Baumbestand Antrag Nr. 14-20 / A 03178 der ÖDP vom 16.06.2017
+- TOP 8.14.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.15.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 8.16.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 8.17.: Standortkonzept Bürgerbüros; Auszug der Neufassung vom 23.01.2018 (Sitzungvorlage Nr. 14-20 / V 07823)
+- TOP 8.18.: (U) Parkraummanagement in München - Fortschreibung Sektor V 35 Anträge und Empfehlungen
+- TOP 8.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.20.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 8.21.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 8.22.: (U) Wohnungsmarktbeobachtung München – Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP 8.23.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 8.24.: Verwaltungsinterner Projektauftrag / Projektgenehmigung zum Neubau einer Grundschule - nicht-öffentlich -
+- TOP 8.25.: (U) Bauvorhaben Bauberger- / Bunzlauerstraße; Anpassung der Projektkosten (Sitzungsvorlage Nr. 14-20/ V 10.....) - nicht-öffentlich -
+- TOP 8.26.: WEB - alle Anträge vom 01.02.2018 bis 15.02.2018
+- TOP 8.27.: Mobilfunk: Erweiterung einer Mobilfunksendeanlage - Baubeginnsanzeige - nicht-öffentlich -
