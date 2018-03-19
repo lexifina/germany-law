@@ -1,0 +1,69 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-19T14:34:00+01:00
+- Ende: 2018-03-19T15:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18477
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18477
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Vorlage des Gutachtens inkl. zur Prüfung der Störungen des Projektes Sanierung Bühnen Köln der Kanzlei Hecker Werner Himmelreich – öffentlicher Teil - Kenntnis genommen
+- TOP 2.3: Gutachten Störungen Projekt Sanierung Bühnen 2733/2017, hier: Beantwortung der Ergänzungsfragen des RPAu vom 26.09.2017 - Kenntnis genommen
+- TOP 2.4: Sachstandsbericht MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 2.5: Ufermauer Porz - Kenntnis genommen
+- TOP 2.6: Bericht der Stadt Köln gemäß Art. 7 der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 2.7: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 2.8: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.9: Kliniken der Stadt Köln gGmbH: aktueller Sachstand - zurückgestellt
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Nutzungsunabhängige Haldenstabilisierung des Kalkbergs - Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung 2016 / 2017 der Stadt Köln - zurückgestellt
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 7.2: Erweiterungsbau Albertus-Magnus-Gymnasium, Ottostraße 87, 50823 Köln; Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 0301, Schulträgeraufgaben, in Teilplanzeile 9, Auszahlung für den Erwerb von beweglichem Anlagevermögen - ungeändert beschlossen
+- TOP 7.3: Generalinstandsetzung BK 14 Berufskolleg Perlengraben 101. 50676 Köln, Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplans 0301 bei Finanzstelle 4016-0301-1-5003 - ungeändert beschlossen
+- TOP 7.4: Realschule Gravenreuthstr. 10, 50823 Köln, Einrichtung des Ganztagserweiterungsbaus; Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplans 0301 bei Finanzstelle 4015 - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 11.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für die Hj. 2017 und 2018 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2017 und 2018. - ungeändert beschlossen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" Verteilung der Institutionelle Förderung - ungeändert beschlossen
+- TOP 12.2: Richtlinie des Förderprogramms „Altbausanierung und Energieeffizienz - klimafreundliches Wohnen" - ungeändert beschlossen
+- TOP 12.3: Institutionelle Förderung der Temporary Gallery für die Haushaltsjahre 2019 bis 2021 - ohne Votum in nachfolgende Gremien
+- TOP 12.4: Erweiterung der Feuer- und Rettungswache 9 in Köln Mülheim. Hier: Weiterplanungsbeschluss - ungeändert beschlossen
+- TOP 12.5: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Michael-Ende-Schule, KGS Platenstr. 7-9, 50825 Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 12.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städt. Grundstück Wikingerweg 6, 51061 Köln-Höhenhaus Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert beschlossen
+- TOP 12.7: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 12.8: Feststellung des Jahresabschlusses zum 31.12.2016 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 12.9: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier: Freigabebeschluss für die Maßnahme "Funktionale und gestalterische Aufwertung der Ortsmitte Lindweiler am Marienberger Hof" - ungeändert beschlossen
+- TOP 12.10: Erwerb eines Gesellschaftsanteils der Partnerschaft Deutschland - zurückgestellt
+- TOP 12.10.1: Erwerb eines Geschäftsanteils der Partnerschaft Deutschland GmbH - zurückgestellt
+- TOP 12.11: Einrichtung "Cologne Game Haus" - ohne Votum in nachfolgende Gremien
+- TOP 12.12: 'Integrationsbudget' - Verteilung der Finanzmittel in 2018 - ungeändert beschlossen
+- TOP 12.13: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Schönrather Str. 7, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 12.14: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Causemannstr. 29-31, 50769 Köln-Merkenich - ungeändert beschlossen
+- TOP 12.15: Verträge mit der AWB GmbH zur Abfallentsorgung und Straßenreinigung - ungeändert beschlossen
+- TOP 12.16: Annahme des Haustarifvertrags für das Gürzenich-Orchester Köln ab 01.01.2018 - ungeändert beschlossen
+- TOP 12.17: Weiterfinanzierung der Rucksackgruppen aus dem Programm "Mülheim 2020" - geändert beschlossen
+- TOP 12.18: Freigabe Kulturförderabgabe für die Sonderausstellung "Gabriele Münter" im Museum Ludwig - ungeändert beschlossen
+- TOP 12.19: Vertrag über die Reinigungsleistungen im Kölner Stadtgebiet (haushaltsfinanziert) - ungeändert beschlossen
+- TOP 12.20: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - ohne Votum in nachfolgende Gremien
+- TOP 12.21: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 12.22: Ebertplatz: Weiterentwickeltes Zwischennutzungskonzept - ungeändert beschlossen
+- TOP 12.23: Ersatzbeschaffung einer Komponente zum bestehenden Data Warehouse - ungeändert beschlossen
+- TOP 12.24: Stadtklima-/ Stadtverschönerungsprogramm 2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 12.25: Stadtklima-/Stadtverschönerungsprogramm 2017 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert beschlossen
+- TOP 12.26: Gesellschafterdarlehen für das Objekt Kaufhof Kalk zugunsten der GAG AG - ohne Votum in nachfolgende Gremien
+- TOP 13: Mündliche Anfragen
