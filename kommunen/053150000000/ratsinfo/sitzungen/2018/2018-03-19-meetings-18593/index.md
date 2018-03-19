@@ -1,0 +1,66 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-19T17:05:00+01:00
+- Ende: 2018-03-19T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18593
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18593
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Einhaltung der Verkehrssicherungspflicht auf Bürgersteigen/Stolperfallen - Kenntnis genommen
+- TOP 7.1.2: Anfrage der Freien Wähler Köln vom 24.10.2017 Verstärkte Ersatzbepflanzung infolge des Kahlschlags auf der Bonner Straße - AN/1543/2017 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Parkplatz an der Bezirkssportanlage Rodenkirchen, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 7.2.3: Abschnittsweise Ertüchtigung des Kuckuckswegs in Godorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Problematik mit sog. Wachsleichnamen auf Friedhöfen im Stadtbezirk K-Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Ortskerne ehemaliger Dörfer: Erhaltungsmaßnahmen, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Korrekturen an den Beleuchtungen im Hafen Godorf, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.2: Planung der Lichtsignalanlage, an der Kreuzung Kölnstrasse/Wattigniestrasse/Am Feldrain/Sürther Straße, Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 8.1.3: Gymnasium Rodenkirchen: Erweiterungsmöglichkeiten / Neubau Turnhalle, Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Verkehrsberuhigung Engeldorfer Straße in Meschenich, Antrag der CDU-Fraktion mit Beitritt SPD-Fraktion, Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.6: Unvollendeter Radweg im äußeren Grüngürtel in Köln-Marienburg, Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 8.1.7: Straßenbäume: Ersatzpflanzungen, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.8: Straßenbenennung: Klaus-Ulonska-Weg, Antrag der Fraktion Die GrünenDie Grünen mit Beitritt CDU-Fraktion, die SPD-Fraktion und FDP-Fraktion - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Nutzungs- und Gestaltungskonzept für die Realisierung eines Nahbereichszentrums Michaelshoven, Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.2: Parkraumkonzept Bewohnerparkgebiet in Köln-Bayenthal - zurückgestellt
+- TOP 9.1.3: Errichtung einer City-Light-Säule im Bereich der Platzfläche zwischen Hauptstraße und Kirchstraße - ungeändert beschlossen
+- TOP 9.1.4: Bebauungsplan-Nr. 65360/05; Arbeitstitel: Weststraße in Köln-Meschenich - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Eygelshovener Straße/Sürther Straße in Köln-Rodenkirchen/Aufstellung B-Plan; Eygelshovener Straße in Köln-Rodenkirchen/Aufhebung Einleitungsbeschluss - mit Änderungen empfohlen
+- TOP 9.2.2: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert empfohlen
+- TOP 9.2.3: Parkstadt Süd; Errichtung eines Stadtteilbüros durch Umbau und Nutzungsänderung von bestehenden Räumlichkeiten im Verwaltungstrakt der Großmarkthalle - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Earth Hour 2018 - Kenntnis genommen
+- TOP 10.2.2: Mitteilung/Stellungnahme zu Antrag der SPD-Fraktion, Fraktion Die Grünen, FDP-Fraktion - AN/0115/2018; Planungsraum "Sürther Bahnhof" TOP 8.1.4 aus der Sitzung vom 19.02.2018 - Kenntnis genommen
+- TOP 10.2.3: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 10.2.4: Sachstandsbericht zur Umsetzung des Landesförderprogramms "Gute Schule 2020" für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.5: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.6: Zügiger Umbau der Bonner Straße und Fertigstellung der Nord-Süd-Stadtbahn – 3. Baustufe - zum Fahrplanwechsel im Dezember 2021, Antrag der SPD-Fraktion - Kenntnis genommen
+- TOP 10.2.7: Ersatzneubau des Bezirksrathauses in Rodenkirchen: Ergebnis des Generalplaner-Wettbewerbs - Kenntnis genommen
+- TOP 10.2.8: Hauptschulbildungsgang gem. § 132c Schulgesetz NRW - Entscheidung der Schulkonferenz der Johannes-Gutenberg-Schule, Realschule Kuckucksweg, 50997 Köln-Godorf - Kenntnis genommen
+- TOP 10.2.9: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.10: Belegung einer Unterkunft für Geflüchtete in Godorf - Kenntnis genommen
