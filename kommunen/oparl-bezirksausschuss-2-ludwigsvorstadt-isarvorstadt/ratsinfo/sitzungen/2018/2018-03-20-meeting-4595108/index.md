@@ -1,0 +1,131 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-03-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595108
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595108
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.4.: Verlängerung des Bewilligungszeitraums zum Budget Antrag "Projekt: Pissoir am Holzplatz"
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.1.: Vorstellung Planungen der SWM für Heizkraftwerke
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.5.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Budget-Antrag; BA-eigene Veranstaltung „IsarLudiwg 2018“
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Alten- und Servicezentrum (ASZ) Isarvorstadt 25-jähriges Bestehen ASZ Isarvorstadt am 25.04.18 1.440,00€ Az. 0262.0-2-0212
+- TOP 2.2.: Schadstoff- und Lärmbelastung am Spielplatz Roecklplatz, Empfehlung Nr. 14-20 / E 01254 der Bürgerversammlung am 10.11.2016; Stellungnahme des Baureferats Gartenbau zum abweichenden Beschluss des BA 2 vom 24.10.2017; Bitte des Direktoriums um nochmaligen BA-Beschluss zur Vermeidung einer OB-Entscheidung
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Koreanisch Deutsches Sportinstitut e.V. Pfingstlehrgang vom 19. - 21.05.2018 2.389,00€ Az. 0262.0-2-0210
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Elternbeirat Grundschule am Gärtnerplatz Tanzprojekt von April – August 2018 580,00€ Az. 0262.0-22-0095
+- TOP 3.1.: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 3.2.: Mittelfristige Finanzplanung 2017-2021, Fortschreibung des Mehrjahresinvestitionsprogramms für die Jahre 2018 bis 2022, siehe auch B 3.3.1 und C 3.3.1
+- TOP 5.1.: Bürger; Voranfrage Budget, Kunstprojekt am Königsplatz
+- TOP 5.2.: Bürger; Anfrage Forum „Humor und Komische Kunst“
+- TOP 5.3.: Bürger; Situation vor dem Ärztehaus Sendlinger-Tor-Platz 7
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Wittelsbacherstr. 10, Schulbauoffensive, Akustiksanierung der Mittelschule
+- TOP 3.1.2.: Schwanthalerstr. 49, Nutzungsänderungen/Umbauten im 2. u. 3. OG:Pension zu Büro und Schneiderei
+- TOP 3.1.3.: Kapuzinerstr. 17, Nutzungsänderung: Laden zu Gaststätte
+- TOP 3.1.4.: Pettenkoferstr. 26-28, Neubau eines Gemeinschaftsraums (5. OG) sowie eines Aufzugs (KG – 5. OG) mit barrierefreiem Zugang von außen und Anpassung der Kellertreppe, Lichthofüberbauung (2. - 5. OG), bauliche Änderungen und Nutzungsänderungen (KG – 5. OG)
+- TOP 3.1.5.: Fliegenstr. 3, Glasaufzug an der Hoffassade, Erweiterung Wohnung Nr. 7 und Nr. 8 um den Spitzspeicher und Neubau von Balkonen im EG (2 Stück) - Tektur
+- TOP 3.1.6.: Tumblingerstr. 40/RGB, Nutzungsänderung: Lager, Garage und Büro zu Wohnungen inkl. Anbau von Balkonen - Tektur
+- TOP 3.1.7.: St.-Paul-Str. 9, Umbau und Aufstockung MGB, Ausbau des Speichers im RGB mit Anbau Außenaufzug und Notleiteranlage, Nutzungsänderung 3.+4. OG/VGB: Wohnungen zu Büros; Erweiterung Tiefgarage, Erweiterung der Balkone RGB, Umbau und Nutzungsänderung EG/VGB: Lager zu Büro; Umbau EG + 1. OG/MGB und Errichtung offener Stellplätze im Hof - Tektur
+- TOP 3.1.8.: Schmellerstr. 18; Sanierung und Umbau DG u.a.; TEKTUR
+- TOP 3.1.9.: Pettenkoferstr. 24, Teilaufstockung, Um-Ausbau DG, Tektur
+- TOP 3.1.10.: Adolf-Kolping-Str. 9, Nutzungsänderung; Laden zu Shishabar
+- TOP 3.1.11.: Sonnenstr. 18 b, Errichtung eines Wirtsgartens im Innenhof und eine Freischankfläche auf öffentlichem Grund
+- TOP 3.1.12.: Zenettistr. 10, Errichtung eines Kühlhauses unter dem Vordachbereich
+- TOP 3.2.1.: Rückertstr. 1, Fällung einer Linde
+- TOP 3.2.2.: Pestalozzistr. 32, Fällung einer Weide
+- TOP 3.3.1.: Mittelfristige Finanzplanung 2017-2021, Fortschreibung des Mehrjahresinvestitionsprogramms für die Jahre 2018 bis 2022, siehe auch A 3.2 und C 3.3.1
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Tempo 30 in der gesamten Thalkirchner Str. im Abschnitt zw. Müller- und Kapuzinerstr.
+- TOP 1.2.: Radverkehr Wittelsbacherbrücke
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: (E) + (U) Einbahnregelung für Autos in Dreimühlen- und Ehrengutstraße Empfehlung Nr. 14-20 / E 01818 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017
+- TOP 2.3.2.: (E) Verlängerung der Grünphase an der Ampel Herrmann-Lingg-Straße, Bavariaring
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Festumzug zur Eröffnung des 54. Frühlingsfests am 20.04.2018
+- TOP 3.2.1.: Markierung eines Radfahrstreifens auf der Fahrbahn der Grasserstraße (Westseite) zwischen TG-Einfahrt Anwesen Grasserstr. 3 und Landsberger Straße
+- TOP 3.2.2.: Einrichtung dreier allgemeiner Behindertenparkplätze am Bahnhofsplatz 1
+- TOP 3.2.3.: Zweijähriger Versuch zu Dialog-Displays, Standorte im Stadtbezirk 2
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Mittelfristige Finanzplanung 2017-2021, Fortschreibung des Mehrjahresinvestitionsprogramms für die Jahre 2018 bis 2022, siehe auch A 3.2 und B 3.3.1
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürger, Drogenszene Ludwigsvorstadt (südliches Bahnhofsviertel)
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Stadtweites Veranstaltungsprogramm zu „100 Jahre Revolution und Rätezeit in München“, Beschluss des Kulturausschusses vom 01.02.2018, Sitzungsvorlage Nr. 14-20 / V 10768 u.a. Antwort auf BA-Antrag 14-20 / B 03453
+- TOP A 4.4.: Anpassung der Einstufung von Wohnanlagen im Mietspiegel am Gärtnerplatz
+- TOP A 4.5.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP A 4.6.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP A 4.7.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP A 4.8.: Koordinierungsstelle "Sportangebote für Geflüchtete"
+- TOP A 4.9.: Antwort Kommunalreferat zu Bürgeranfrage bezüglich Nutzung Viehhofgelände
+- TOP A 4.10.: Antwort der 3. Bürgermeisterin zu Bürgeranfrage Boardinghouse in der Paul-Heyse-Str.30-34
+- TOP A 4.11.: Künstlerische Zwischennutzung des Pissoirs am Holzplatz
+- TOP A 4.12.: Information zur Rücknahme eines Budgetantrags, Griechisch-Bayerischer Abend
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.1.: St.-Paul-Brunnen am Standort belassen – Zusätzlicher kindertauglicher Brunnen am Platz westlich der Kirche
+- TOP B 4.2.: Corneliusstr. 46: Fällungsgenehmigung für einen Mammutbaum
+- TOP B 4.3.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP B 4.4.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP B 4.6.: Stärkung des Wohnens im südlichen Bahnhofsviertel am Beispiel der Paul-Heyse-Straße 30 - 34
+- TOP B 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.8.: (U) Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas-Wimmer-Rings unter Einschluss des Isartorplatzes Anträge und Empfehlungen 1. Isartorplatz neu gestalten - Verbindung Altstadt - Isar stärken Antrag Nr. 08-14 / A 04617 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.09.2013 2. Isartorplatz - Neugestaltung Thomas-Wimmer-Ring für Platzgestaltung nutzen Antrag Nr. 14-20 / 00829 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.03.2015 3. Umgestaltung und Aufwertung des Isartorplatzes Empfehlung Nr. 14-20 / E 00352 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 04.12.2014 4. Die Gestaltung des Isartorplatzes (Nr. 1 des Antrags) Empfehlung Nr. 14-20 / E 00809 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 03.12.2015 5. Verkehrsführung und Fahrräder (Nr. 2 des Antrags) Empfehlung Nr. 14-20 / E 00810 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 03.12.2015
+- TOP B 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.6.: Absage des Sonnwendfeuers auf der Theresienwiese 2018 durch die Veranstalter
+- TOP C 4.7.: Die zuständige Bezirksinspektion möge die Freischankflächen in der Landwehrstraße hinsichtlich deren Gestattung, Größe und Möbilierung kontrollieren, Verstöße anmahnen und die Betreiber über die entsprechenden Nutzungsrichtlinien aufklären
+- TOP C 4.8.: Fußgängerquerung Thalkirchner Str.
+- TOP C 4.9.: Verlängerung der Vorwarnzeit temporärer Halteverbotszonen für Baustellen, Straßenfeste, etc.
+- TOP C 4.10.: Schreiben des Behindertenbeirats der LH München zum DB Bahnsteighöhenkonzept
+- TOP C 4.11.: Antwort des KVR zum Bürgeranliegen Einbahnstraßen im Umgriff Alter Südlicher Friedhof (war 2018.02 C 5.2)
+- TOP C 4.12.: Zwischennachricht zu Bürgeranliegen “Beleuchtung Alter Südlicher Friedhof“
+- TOP D 4: Bereich BA-Angelegenheiten
