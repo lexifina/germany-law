@@ -1,0 +1,157 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739083
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739083
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.1.: Konzept Veranstaltung zum öffentlichen Raum
+- TOP 6.6.2.: Stadtteilinformation / Willkommensschreiben bei Anmeldung eines neuen Wohnsitzes
+- TOP 6.6.3.: Erhaltungssatzung für die Ruffinistraße
+- TOP 6.6.5.: Stühle raus
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.6.1.: "Jugend im 9. Stadtbezirk" - Möglichkeiten wie Jungbürgerversammlung, etc.
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Ausbesserung Straßenbelag in der Funkerstraße Empfehlung Nr. 14-20 / E 01876 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.1.2.: (E) Teilrückbau der Verkehrsberuhigungs-Einrichtungen und regelmäßige Geschwindigkeitsmessungen in der Taschnerstraße Empfehlung Nr. 14-20 / E 01880 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.1.3.: (E) Pflanzung einer Baumreihe in der Hirschbergstraße Empfehlung Nr. 14-20 / E 01883 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.1.4.: (E) Bau des Arnulfsteges; Mittelfreimachung durch Verzicht der U-Bahnverlängerung nach Pasing Empfehlung Nr. 14-20 / E 01889 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.1.5.: Wendl-Dietrich-Straße / Lorschstraße - Aufstellung von Verkaufseinrichtungen auf öff. Grund
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Fahrradabstellplätze Nymphenburger Straße / Rotkreuzplatz
+- TOP 3.2.2.: Steigende Verkehrsbelastung in der Hubertusstraße
+- TOP 3.2.3.: Betrieb Tramlinie 20/21
+- TOP 3.2.4.: Errichtung einer Toilettenanlage am Bahnhof Donnersbergerbrücke
+- TOP 3.2.5.: Verkehrsspiegel an der Arnulfstraße 269
+- TOP 3.2.6.: Förderung von Lastenfahrrädern für Privatnutzer
+- TOP 3.2.7.: UA Verkehr: Themen aus der Kita-Konferenz: - Straßenfeste vor Kindertagesstätten - Fahrradparkplatz Kapschstraße (Ortstermin) - Winthirstraße 25 - Ortstermin wg. Hol-Bring-Situation an Kita
+- TOP 3.2.8.: Geh- und Radweg Wotanstraße / Laimer Unterführung
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Vorlage Konzept zur Verkehrsberuhigung Donnersbergerbrücke und Mittlerer Ring Nord
+- TOP 3.3.2.: Beschlussentwurf; Bahnknoten München, 2. Stammstrecke, Sachstand, Anträge und Empfehlungen
+- TOP 3.3.3.: Ladezone Andréestraße für Lebensmittelmarkt Wendl-Dietrich-Straße 13
+- TOP 3.3.4.: Einseitiges Parkverbot in der Irnfriedstraße
+- TOP 3.3.5.: Verkehrsrechtliche Anhörung Nymphenburger Straße 75
+- TOP 3.3.6.: Menzinger Str. / Wintrichring - Austausch von Lichtsignalanlagen
+- TOP 3.3.7.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs - Abfrage von Standortvorschlägen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Verkehrs- und Funktionskonzept für den Bereich um den Rotkreuzplatz
+- TOP 3.4.2.: 1) Abschaffung der Fahrradspur in der Nibelungenstraße 2) Radwegbeschilderung im Stadtbezirk 3) Provisorische Stellplätze in der Nibelungenstraße
+- TOP 3.4.3.: Einrichtung Zebrastreifen über die Wendl-Dietrich-Straße in Höhe Biterolfstraße (Anfrage Nr. 14-20 / Q 00089)
+- TOP 3.4.4.: Kontrollen und Verbot für Radler auf Gehwegen
+- TOP 3.4.5.: Beleuchtung der Wendl-Dietrich-Straße
+- TOP 3.4.6.: Verkehrsleitbeschilderung zum Kultur- und Veranstaltungszentrum BACKSTAGE
+- TOP 3.4.7.: Ergebnisse des Stadtteilchecks mit der Grundschule am Dom-Pedro-Platz
+- TOP 3.4.8.: Zweispuriger Übergang der Dachauer Str. für Radfahrer entlang der Westseite der Landshuter Allee
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Parkraummanagement: Konzeption der Lizenzgebiete Rotkreuzplatz I+II, Arnulfpark und Rosa-Luxemburg-Platz
+- TOP 3.5.2.: Antwort auf Stadtratsanfrage Nr. 14-20 / F 00841 zu den Trambahntypen "Variotram"
+- TOP 3.5.3.: Wotan-/Margarete-Danzi-Str. - Ortstermin zum Fahrradfahren in der öffentlichen Grünanlage Bericht und Handlungsempfehlung
+- TOP 3.5.4.: Verkehrsrechtliche Anordnungen des KVR - Volkartstraße - Marlene-Dietrich-Straße
+- TOP 3.5.5.: Vorstellung der Umorganisation in der Abteilung 1 Verkehrsmanagement und der für die BAs zuständigen Sachbearbeitung
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: BIOTOPIA | Aktualisierung des Verkehrsgutachtens
+- TOP 3.6.2.: Neubau Jugendherberge München - Baustellenabwicklung, Verkehrssicherheit, Künftige Busanfahrt
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Ensembleschutz für das Gebiet Hirschgartenallee, Wotanstraße, Frickastraße und Mechthildenstraße
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörungen zu Baugenehmigungsverfahren: - Herthastr. 32 (2579-22) - Prinzenstr. 30 (3805-22) - Elvirastr. 17 (651-22) - Hanebergstr. 2 (28696-22) - Böcklinstr. 10 a (28936-22) - Schulstr. 18 (28877-32) - Schlagintweitstr. 7 (28954-22) - Nymphenburger Str. 84 (Vorbescheid) - Thorwaldsenstr. 27 (Vorbescheid)
+- TOP 4.3.2.: Erlass einer Erhaltungssatzung in Neuhausen nordöstlich des Rotkreuzplatzes - Anhörung zur Empfehlung Nr. 14-20 / E 01879 der Bürgerversammlung am 05.12.2017
+- TOP 4.3.3.: Für 2018 geplantes Olympisches Dorf als Studentendorf realisieren
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten über Baugenehmigungsverfahren der LBK
+- TOP 4.5.2.: Planungsdarlegung vom 02.03.2018 mit 04.04.2018: Bebauungsplan mit Grünordnung Nr. 2053a - Schwere-Reiter-Straße (nordwestlich), Emma-Ihrer-Straße (nordöstlich)
+- TOP 4.5.3.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 4.5.4.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 4.5.5.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 4.5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Begrünung der Klarastraße
+- TOP 5.2.2.: Sitzgelegenheiten an der Bushaltestelle Dom-Pedro-Straße
+- TOP 5.2.3.: Abfallbehälter an der Ecke Waisenhausstraße / Ruffinistraße / Nymphenburger Straße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zur Beschlussvorlage "Verbot von Laubbläsern"
+- TOP 5.3.2.: Anhörung zu Baumfällungsanträgen: -Lazarettstr. 40 -Hohenlohestr. 69 -Tizianpl. 8 -Schlörstr. 13 -Magdalenenstr. 35 -Nördliche Auffahrtsallee 32 -Nederlinger Str. 24 -Artilleriestr. 17 -Klugstr. 114 -Waisenhausstr. 60
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.4.2.: Fällungsgenehmigung Klugstraße 113
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Bürgeranliegen: Jugendangebote in der Siedlung Hirschgarten (Wiedervorlage aus März 2017)
+- TOP 6.5.2.: Protokoll Soziale Fachbasis Hirschgarten und Nymphenburg Süd vom 06.02.2018
+- TOP 6.5.3.: AG Spiellandschaft: Übersicht Spielaktionen 2018
+- TOP 6.6: Verschiedenes
+- TOP 6.6.4.: Erhaltungssatzung für den Bereich Donnersberger-, Schlör-, Schluder- und Sedlmayrstraße
+- TOP 6.6.6.: Behindertengerechter Schwimmbeckenzustieg im Dantebad
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Hide Out 2" Bluesfest im August 2018 2.700,00€ Az. 0262.0-9-0261
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Initiative "MMI-Festival" Das MMI-Festival 2018 3.279,00€ Az. 0262.0-9-0265
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Benennung der Jutierhalle in "Ernst-Henle-Halle"
+- TOP 7.2.2.: Bezuschussung des Antrages "Hörgang"
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Status Quo im Kreativquartier: Nutzungsmix und Öffentlichkeitsarbeit
+- TOP 7.3.2.: Vermietung städtischer Flächen im Kreativquartier - Lamento-Freifläche
+- TOP 7.3.3.: Vermietung städtischer Flächen im Kreativquartier - Gebäude 35 Kreativlabor
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Schaffung einer Übergangslösung während der Bauphase eine Skaterhalle ....
+- TOP 8.1.2.: (E) Budget der Bezirksausschüsse Förderverein Dom-Pedro-Grundschule e.V. Anschaffung von 15 Apple IPads 6.600,00 Euro 0262.0-9-0249
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: UA Bildung: Themen aus der Kita-Konferenz: - Personal - Kita-Finder - Eintrittspreis Schwimmbäder - Mittagsbetreuung freie Gebäude Waisenhaus (Ortstermin)
+- TOP 8.2.2.: Hirschgarten: 2 Fußballtore und ein größeres Fußballfeld - Antrag aus der Kinder- und Jugendversammlung Laim
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Koordinierungsstelle "Sportangebote für Geflüchtete"
+- TOP 8.4.2.: Infrastrukturprogramm Sport - Antwort auf Schreiben des BA vom 22.02.2017
+- TOP 8.4.3.: Turnhalle an der Kapschstraße
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Mehrjahresinvestitionsprogramm (MIP) 2017 - 2021 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.5.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 8.5.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Landtags- und Bezirkswahl 2018 - Anhörung zur Stimmbezirkseinteilung
+- TOP 9.3.2.: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 9.3.3.: Italienischer Markt auf dem Rotkreuzplatz vom 01.-04.06.2018
+- TOP 9.3.4.: Skateboardworkshop Hirschgarten 28.-29.03.2018
+- TOP 9.3.5.: Schwere-Reiter-Straße 2: Kultur Austausch Veranstaltung mit Live Musik am 28.04.2018
+- TOP 9.3.6.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren zur Fortschreibung für die Jahre 2018 - 2022
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 9.5.2.: Fortführung / Neuerrichtung Gaststättenbetriebe: - "Veranda" - Leonrodstr. 73 - "Vins et co." - Donnersbergerstraße 22
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
