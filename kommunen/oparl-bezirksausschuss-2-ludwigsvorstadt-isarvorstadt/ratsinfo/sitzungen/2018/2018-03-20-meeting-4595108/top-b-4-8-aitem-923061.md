@@ -1,0 +1,7 @@
+# TOP B 4.8.: (U) Konzept zur verkehrlichen Abwicklung und zur Oberflächengestaltung des Thomas-Wimmer-Rings unter Einschluss des Isartorplatzes Anträge und Empfehlungen 1. Isartorplatz neu gestalten - Verbindung Altstadt - Isar stärken Antrag Nr. 08-14 / A 04617 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.09.2013 2. Isartorplatz - Neugestaltung Thomas-Wimmer-Ring für Platzgestaltung nutzen Antrag Nr. 14-20 / 00829 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.03.2015 3. Umgestaltung und Aufwertung des Isartorplatzes Empfehlung Nr. 14-20 / E 00352 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 04.12.2014 4. Die Gestaltung des Isartorplatzes (Nr. 1 des Antrags) Empfehlung Nr. 14-20 / E 00809 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 03.12.2015 5. Verkehrsführung und Fahrräder (Nr. 2 des Antrags) Empfehlung Nr. 14-20 / E 00810 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 03.12.2015
+
+- Sitzung: BA 02 - Vollgremium (2018-03-20)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/923061
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/923061
