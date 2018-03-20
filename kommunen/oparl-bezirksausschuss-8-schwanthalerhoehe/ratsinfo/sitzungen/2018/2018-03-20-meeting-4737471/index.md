@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737471
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737471
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Trappentreustr. 23
+- TOP 6.2.2.: Bauvorhaben Landsberger Str. 67
+- TOP 6.2.3.: Bauvorhaben Landsberger Str. 45
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Kunst-Projekt "Z"
+- TOP 4.2.: Ganztagsbetreuung an der Bergmannschule
+- TOP 6.1.1.: Sondernutzung - Verkaufsstand Franziska-Bilek-Weg
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Zustand des Anwesens Schwanthalerstr. 119
+- TOP 6.3.3.: Beschluss/Antrag Kinder und Jugendrat - bauliche und gestalterische Veränderungen am Bahndeckel
+- TOP 6.3.4.: Objekte Westendstr. 35 und Tulbeckstr. 4f; Parkfläche Alte Messe
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Sammelgenehmigung Spielaktionen der AG Spiellandschaft Stadt
+- TOP 7.2.2.: Neuauflage Kulturgeschichtspfad
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Beschilderung Tulbeckstr. 28
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung - Newroz-Fest - kurdisches Neujahrsfest am 20.03.18 - Gollierplatz
+- TOP 8.2.2.: Flohmärkte am Gollierplatz
+- TOP 8.2.3.: Einsatz von Dialog-Displays
+- TOP 8.2.4.: Personenbezogener Behindertenparkplatz Geroltstr. 3
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Arnulfparkbrücke; Am Radwegkonzept festhalten
+- TOP 8.3.2.: Heimeranplatz 1- 5; Einbau einer Rolltreppe
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Strandkorb Laden für neue Perspektiven Aufführung „VIVA LA VIDA – eine musikalische Hommage an Frida Kahlo“ am 05.07.2018 480,00€ Az. 0262.0-8-0137
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. „Kicklusion – Inklusion mit Bewegung“ 17.04.2018 - 05.06.2018 2.896,00€ Az. 0262.0-8-0138
+- TOP 9.1.3.: (E) Budget der Bezirksausschüsse Initiative "Mach dir ein Bild" Ausstellung vom 20.03. bis 08.04.2018 800,00€ Az. 0262.0-8-0140
+- TOP 9.1.4.: (E) Budget der Bezirksausschüsse KJR München-Stadt; Multikulturelles Jugendzentrum Westend Mobile Spiele vom 05.04. - 31.10.2018 1.995,00€ Az. 0262.0-8-0141
+- TOP 9.1.5.: (E) Budget der Bezirksausschüsse KAB München-Westend (Kath. Arbeitnehmer Bewegung) Dokumentarfilmvorführung „Es geht durch die Welt ein Geflüster“ am 27.02.18 309,38€ Az. 0262.0-8-0136
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Stimmbezirkseinteilung; Landtags- und Bezirkstagswahl 2018
+- TOP 11.2.: Aufwandsentschädigung; Einsatz einer neuen Abrechnungssoftware
