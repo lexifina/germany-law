@@ -1,0 +1,7 @@
+# TOP 7: Beratung und Beschlussfassung über die Anschaffung einer Ersatzschaukelanlage für den Abenteuerspielplatz
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Simmern (2018-03-20)
+- Körperschaft: Ortsgemeinde Simmern
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2018-22OGR-11%7Czt_3%7C1
+- Beschluss (Datei): Beschluss - Top 7 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-22OGR-11%7Czt_3%7C1
