@@ -1,0 +1,118 @@
+# 37. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-20T15:30:00+01:00
+- Ende: 2018-03-20T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18385
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18385
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat - Version Umdruck (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00653052.pdf
+- Ergebnisprotokoll: Tagesordnung Rat - Version Umdruck (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00653052.pdf
+- Wortprotokoll: Tagesordnung Rat - Version Umdruck (1) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00653052.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Antrag der AfD-Fraktion betreffend "Dieselfahrverbote in Köln" - endgültig abgelehnt
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Schenkung - Wassererlebnispfad von Pulheim bis zum Rhein - ungeändert beschlossen
+- TOP 2.2: Annahme einer Spende an die Stadt Köln, Museum Ludwig - ungeändert beschlossen
+- TOP 2.3: Schenkung - Kompakttraktor mit Frontlader - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen CDU, Bündnis 90/Die Grünen und FDP betreffend "Weiteres Maßnahmenpaket für den Schulbau; Erarbeitung eines Zeit- Maßnahmenplans für die priorisierenden Maßnahmen" - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 3.1.2: Antrag der SPD-Fraktion betreffend "Parkplätze und Supermärkte mit Wohnungen überdachen!" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, FDP und der Gruppe GUT - ungeändert beschlossen
+- TOP 3.1.3: Antrag der Fraktion Die Linke., der Gruppen BUNT und GUT und von RM Wortmann (Freie Wähler Köln) betreffend "Kalkberg als Hubschrauberstation endgültig aufgeben!" - Sache ist erledigt
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP - ungeändert beschlossen
+- TOP 3.1.4: Antrag der Fraktionen SPD, FDP und der Gruppe BUNT betreffend "Resolution an die Bundes- und Landesregierung - Zukunftssicherung in der Erziehung und Pflege in Köln - Fachkräftemangel dringend angehen" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, FDP und der Gruppe BUNT - ungeändert beschlossen
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der AfD-Fraktion betreffend "Kosten des Silvestereinsatzes 2017/2018" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 20.03.2018 - Kenntnis genommen
+- TOP 4.2: Anfrage der SPD-Fraktion betreffend "Kölner Anlegeplätze für Binnenschifffahrt auf dem Rhein" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 20.03.2018 - Kenntnis genommen
+- TOP 4.3: Anfrage der Gruppe BUNT betreffend "Müssen Selbstzahler*innen bis zu 54,09 Euro pro Quadratmeter für einen Platz in einer Flüchtlingsunterkunft zahlen?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.03.2018 - Kenntnis genommen
+- TOP 4.4: Anfrage der Gruppe pro Köln betreffend "Maßnahmen zur Verbesserung der Sicherheit an besonders gefährlichen KVB-Haltestellen" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 13.03.2018 - Kenntnis genommen
+- TOP 4.5: Anfrage der AfD-Fraktion betreffend "Sicherheitsrisiken durch Personalmangel bei der Kölner Berufsfeuerwehr" - zurückgestellt
+- TOP 4.6: Anfrage der AfD- Fraktion betreffend "Möglicher Umgehungstatbestände bei der Registrierung von Vielehen im Zusammenhang mit der Aufnahme von moslemischen Flüchtlingsfamilien" - zurückgestellt
+- TOP 4.7: Anfrage der SPD-Fraktion betreffend "Baugenehmigungen und Baufertigstellungen 2017" - zurückgestellt
+- TOP 4.8: Anfrage der Gruppe BUNT betreffend "Transparenz von Beauftragungen externer Gutachten / Open Government" - zurückgestellt
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Änderung der Zuständigkeitsordnung - Anpassung der Wertgrenzen für Rats- und Ausschusszuständigkeiten bei Baumaßnahmen, Bedarfsfeststellung - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke. und FDP - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.3.1: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 6.4.1: Richtlinie für die Benennung von Straßen - zurückgestellt
+- TOP 6.4.2: Richtlinie des Förderprogramms „Altbausanierung und Energieeffizienz - klimafreundliches Wohnen" - geändert beschlossen
+- TOP 7: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für die Hj. 2017 und 2018 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2017 und 2018. - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Nutzungsunabhängige Haldenstabilisierung des Kalkbergs - Mitteilung über eine Kostenerhöhung gemäß § 24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung 2016 / 2017 der Stadt Köln - zurückgestellt
+- TOP -: Änderungsantrag der Fraktion Die Linke., der Gruppen BUNT und GUT und von RM Wortmann (Freie Wähler Köln) - zurückgestellt
+- TOP 10.2: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 10.3: Erwerb eines Gesellschaftsanteils der Partnerschaft Deutschland - zurückgestellt
+- TOP 10.4: Errichtung eines Bildungsgangs Zweijährige Berufsfachschule / FHR Anlage C / Gesundheit und Soziales am Berufskolleg Ehrenfeld (BK20) - ungeändert beschlossen
+- TOP 10.5: Einrichtung "Cologne Game Haus" - ungeändert beschlossen
+- TOP 10.6: Mitgliedschaft der Stadt Köln in der Votemanager Anwender Gemeinschaft e.V. - ungeändert beschlossen
+- TOP 10.7: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Schönrather Str. 7, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 10.8: Vorgezogener Abriss der ehemaligen Flüchtlingsunterkunft Causemannstr. 29-31, 50769 Köln-Merkenich - ungeändert beschlossen
+- TOP 10.9: Errichtung eines Bildungsgangs Kaufmann / Kauffrau für E-Commerce am Erich-Gutenberg-Berufskolleg (BK 7) - ungeändert beschlossen
+- TOP 10.10: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Michael-Ende-Schule, KGS Platenstr. 7-9, 50825 Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.11: Annahme des Haustarifvertrags für das Gürzenich-Orchester Köln ab 01.01.2018 - ungeändert beschlossen
+- TOP 10.12: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städt. Grundstück Wikingerweg 6, 51061 Köln-Höhenhaus Mitteilung über Kostenerhöhungen gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2016/2017 der Stadt Köln - ungeändert beschlossen
+- TOP 10.13: Ebertplatz: Weiterentwickeltes Zwischennutzungskonzept - ungeändert beschlossen
+- TOP 10.14: Institutionelle Förderung der Temporary Gallery für die Haushaltsjahre 2019 bis 2021 - geändert beschlossen
+- TOP 10.15: Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" Verteilung der Institutionelle Förderung - ungeändert beschlossen
+- TOP 10.16: Zügigkeitserhöhung für den Bildungsgang "Verwaltungsfachangestellte/r Kommunalverwaltung" am Berufskolleg an der Lindenstraße (BK 3) - ungeändert beschlossen
+- TOP 10.17: Rückgabe eines Maori-Schädels (toi moko) aus dem Bestand des Rautenstrauch-Joest-Museums - ungeändert beschlossen
+- TOP 10.18: Feststellung des Jahresabschlusses zum 31.12.2016 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.19: Auslobung eines Gutachterverfahrens als Mehrfachbeauftragung zur Möblierung des kleinen und des großen Offenbachplatzes im Opernquartier Köln - ungeändert beschlossen
+- TOP 10.20: 'Integrationsbudget' - Verteilung der Finanzmittel in 2018 - ungeändert beschlossen
+- TOP 10.21: Bestellung der Kaufmännischen Betriebsleitung der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.22: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - ungeändert beschlossen
+- TOP -: Änderungsantrag der FDP-Fraktion - endgültig abgelehnt
+- TOP 10.23: Verträge mit der AWB GmbH zur Abfallentsorgung und Straßenreinigung - ungeändert beschlossen
+- TOP 10.24: Vertrag über die Reinigungsleistungen im Kölner Stadtgebiet (haushaltsfinanziert) - ungeändert beschlossen
+- TOP 10.25: Gesellschafterdarlehen für das Objekt Kaufhof Kalk zugunsten der GAG AG - zurückgestellt
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 13.1: Kyllstraße in Köln-Neustadt/Süd; 6642 Sb 2/02 (67428/02); Satzungsbeschluss - ungeändert beschlossen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 15: Weitere bauleitplanungsrechtliche Sachen
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 16.1: Satzung über die abweichende Herstellung der Erschließungsanlage Lülsdorfer Straße/Sandbergstraße von Rheinbergstraße/An der Mühle bis Ende der Bebauung (Sandbergstr. 147) in Köln-Porz/Langel - ungeändert beschlossen
+- TOP 17: Wahlen
+- TOP 17.1: Jugendzentren Köln gGmbH: Bestellung einer Arbeitnehmervertreterin in den Aufsichtsrat - ungeändert beschlossen
+- TOP 17.2: Neubenennung von Mitgliedern des Integrationsrates als sachkundige Einwohner in Fachausschüssen - ungeändert beschlossen
+- TOP 17.3: Antrag der FDP-Fraktion betreffend "Benennung eines Ratsmitglieds für den Ältestenrat" - ungeändert beschlossen
+- TOP 17.4: Denkmalschutz und Denkmalpflege - ungeändert beschlossen
+- TOP 17.5: Antrag der Gruppe GUT betreffend "Umbesetzung von Ausschüssen" - ungeändert beschlossen
+- TOP 17.6: Antrag der AfD-Fraktion betreffend "Ausschussumbesetzung" - ungeändert beschlossen
+- TOP 17.7: Antrag der Gruppe GUT betreffend "Umbesetzung von Ausschüssen" - ungeändert beschlossen
+- TOP 17.8: Regionalverkehr Köln GmbH (RVK): Entsendung eines Aufsichtsratsmitglieds - zurückgestellt
+- TOP 17.9: TOP 17 Wahlen: Sportausschuss – sachkundige Einwohnerin - ungeändert beschlossen
+- TOP 17.10: Antrag der CDU-Fraktion betreffend "Nachwahl eines Aufsichtsratsmitgliedes - AR Akademie der Künste der Welt" - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 19: -
