@@ -1,0 +1,8 @@
+# TOP 4: Satzung zur Änderung der Hauptsatzung
+
+- Sitzung: 46. Sitzung des Ortschaftsrates Langebrück (2018-03-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/99469
+- Ergebnis: Zustimmung mit Ergänzung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/31257
