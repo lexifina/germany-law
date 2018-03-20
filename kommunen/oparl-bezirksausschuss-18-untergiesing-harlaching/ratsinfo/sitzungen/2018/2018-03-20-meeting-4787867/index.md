@@ -1,0 +1,157 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4787867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4787867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Vorstellung der Stelle für Gemeinwesenmediation der Landeshauptstadt München
+- TOP 2.2.1.2.: Vorstellung des "Demokratiemobils" durch den Kreisjugendring München
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Ausweitung von Parkerlaubnissen für Fahrzeuge der medizinischen Fußpflege; Bürgerschreiben vom 23.01.18
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München Stadt Graffitti-Projekt Jugendtreff AKKU 25./26.05.2018 2.745,00€ Az. 0262.0-18-0135
+- TOP 3.1.2.2.: (E) Budget der Bezirksausschüsse Umwelt & Gesundheit – APPELL e.V. „Gesundheitsberatung im Wohnbereich in Untergiesig-Harlaching“ ab dem 15.03.2018 4.830,00€ Az. 0262.0-18-0133
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Regengeschützte Farradabstellräume u.a. in städtischen Wohnanlagen
+- TOP 3.2.5.2.: Gezielte Geschwindigkeitskontrollen in der Geiselgasteigstra0e zwischen Menterschwaigstraße und Sanatoriumsplatz sowie in der Harthauser Straße
+- TOP 3.2.5.3.: Angebotsverbesserung beim MVG-Rad
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Verkehrsrechtliche Anordnungen des Kreisverwaltungsreferats 3.2.6.1.1 Öffnung der Einbahnstraße "Am Staudengarten" zwischen der Rotbuchenstraße und der Eschenstraße für den gegenläufigen Radverkehr 3.2.6.1.2 Öffnung der Einfahrt in die Jamnitzerstraße für Radfahrer aus Richtung Pilgersheimer Straße 3.2.6.1.3 Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze (Anlehnen) in der Jamnitzerstraße 3.2.6.1.4 Umwandlung von Taxistellplätzen in Fahrradstellplätze am Candidplatz
+- TOP 3.2.7: Sonstiges
+- TOP 3.2.7.1.: Vorstellung der Umorganisation in der Abteilung 1 Verkehrsmanagement und der für Ihren Bezirksausschuss zuständigen Sachbearbeiterin / Sachbearbeiter
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (E) Müllbehälter für Gartenabfälle am Wertstoffstandort Am Perlacher Forst Empfehlung Nr. 14-20 / E 01856 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 16.11.2017
+- TOP 3.3.2.2.: (U) Baumschutz im Viertel Menterschwaige Empfehlung Nr. 14-20 / E 00727 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 12.11.2015
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.2.: Unterstützung des Projekts "Toiletten für Alle", Berücksichtigung bei Neubauprojekten
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Vollzug der Wasergesetze; Verfahren zur Festsetzung des Überschwemmungsgebietes an der Isar innerhalb der Stadtgrenzen der Landeshauptstadt München von Flusskilometer 140,95 bis Flusskilometer 155.10 durch Erlass einer Rechtsverordnung; Anhörung durch das Referat für Gesundheit und Umwelt
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Statistische Erhebungen zu Versorgung / Bürgergesundheit an die BAs
+- TOP 3.3.5.2.: MVG-Räder mit Elektromotor zur Förderung der Elektromobilität
+- TOP 3.3.5.3.: Feinstaub- und Lärmmesspunkt an der stillgelegten Bushaltestelle (Bus 58) am Kolumbusplatz
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken, hier: entfernter Gefahrenbaum Lautererstraße 2; Unterrichtung durch das Baureferat
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Inklusionsbeauftragte in den Bezirksausschüssen; Anhörung durch das Direktorium zur vorgeschlagenen Satzungsänderung
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Auch andere Sitzgelegenheiten im 18. Stadtbezirk aufstellen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.1.: Meichelbeckstraße 20 - 22, Neubau von zwei Wohngebäuden mit Tiefgarage
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Prüfung des Vorbescheids für das Bauvorhaben Schmorellplatz 9
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.2.1 Anwesen Gabriel-Max-Straße
+- TOP 3.5.6.3.: Unterrichtung durch das Sozialreferat über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen im Erhaltungssatzungsbereich: 3.5.6.3.1 Anwesen in der Arminiusstraße; Schreiben vom 15.02.18 3.5.6.3.2 Anwesen in der Arminiusstraße; Schreiben vom 19.02.18 3.5.6.3.3 Anwesen in der Waldeckstraße; Schreiben vom 06.02.18 3.5.6.3.4 Anwesen in der Winterstraße; Schreiben vom 08.02.18
+- TOP 3.5.6.4.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung in einer städtischen Grünanlage; hier: Grünanlage Harthauser / Menterschwaigstraße, Harlachinger Maifest vom 29.04. - 01.05.2018; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.4.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Oberbiberger Straße, Harlachinger Burschenfest 2018 vom 18.05. - 21.05.18; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.4.3.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Oberbiberger Straße, Zirkus Roberto vom 29.03. - 01.04.18; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.4.4.: Veranstaltung in einer städtischen Grünanlage; hier: Karolingeralle, Musicaltheatershow vom 14.04. - 22.04.18; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.4.5.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Hans-Mielich-Platz, Fest zum 1. Mai; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.4.6.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sachsenstraße "Rosengarten", "Fit im Park" Freizeitsport vom 01.05. - 30.09.18; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Kulturelle Nutzung des Kiosks am Kolumbusplatz
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.2.1.: Einrichtung eines Sparkassen SB Geldautomaten im Sperrengeschoss U-Bahnhaltestelle Wettersteinplatz; Antrag der SPD-Fraktion
+- TOP 4.3.1.: Mittelfristige Finanzplanung 2017 - 2021 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2018 bis 2022; Anhörung durch die Stadtkämmerei
+- TOP 4.3.2.: Landtags- und Bezirkswahl 2018; Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung; Schreiben des Kreisverwaltungsreferates
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.1.: Abrechnung der Aufwandsentschädigung, Einsatz einer neuen Abrechnungssoftware; BA-Informationsschreiben Nr. 02/18 des Direktoriums
