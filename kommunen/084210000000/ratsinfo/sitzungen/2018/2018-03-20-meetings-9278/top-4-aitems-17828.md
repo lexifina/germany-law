@@ -1,0 +1,8 @@
+# TOP 4: Bebauungsplan "Magirusstraße 44"
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt (2018-03-20)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/17828
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/6911
