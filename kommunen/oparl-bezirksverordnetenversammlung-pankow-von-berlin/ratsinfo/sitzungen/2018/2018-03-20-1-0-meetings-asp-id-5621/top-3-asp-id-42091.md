@@ -1,0 +1,7 @@
+# TOP 3: Städtebauliches Konzept Buch Süd – Zwischenbericht
+
+- Sitzung: Öffentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2018-03-20)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=42091
+- Ergebnis: erledigt
