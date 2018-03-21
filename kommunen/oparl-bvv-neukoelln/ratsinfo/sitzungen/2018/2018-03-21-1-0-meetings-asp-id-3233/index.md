@@ -1,0 +1,90 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-03-21T17:00:00+01:00
+- Ende: 2018-03-21T22:40:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3233
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3233
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl zum Bezirksbürgermeister auf Vorschlag der aus den Fraktionen der SPD und Grünen bestehenden Zählgemeinschaft - gewählt
+- TOP 5.2: Wahl von Vertrauenspersonen als Beisitzer für den beim Amtsgericht Neukölln zu bildenden Ausschuss für die Wahl der Schöffen - gewählt
+- TOP 5.3: Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Vorschlagsliste für die Wahl der Schöffen für die Jahre 2019 bis 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Fußgängerampel Gutschmidtstraße/Ecke Fritz-Reuter-Allee - beantwortet
+- TOP 8.2: Raumnot an Neuköllner Schulen - schriftlich beantwortet
+- TOP 8.3: Parkplätze –Theodor-Loos-Weg - schriftlich beantwortet
+- TOP 8.4: Gesinnungsschnüffelei statt gemeinsamer Kampf für Toleranz und gegen Rechts - beantwortet
+- TOP 8.5: Restaurant Reuterstraße 28 (III) - beantwortet
+- TOP 8.6: Rias Gelände - beantwortet
+- TOP 8.7: Glasbruch - beantwortet
+- TOP 8.8: Warum gibt es keine neue Küche für den Jugendclub Manege? - beantwortet
+- TOP 8.9: Grundstück Karl-Marx-Straße 179 - beantwortet
+- TOP 8.10: Weiteres Hotel am Hermannplatz? - beantwortet
+- TOP 8.11: Wahlplakate - beantwortet
+- TOP 8.12: Mietvertrag des Bündnisses Neukölln mit dem Nachbarschaftsheim Neukölln - beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Neukölln baut einen Bezirksjugendring auf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Defibrillator fürs Rathaus Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Gehweg in der Köpenicker Straße ab Eingang Schmiedeteich bis Alt-Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Abgabe von Unterlagen durch Jobcenter Neukölln wieder bestätigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Sonnenallee soll Sonnenallee bleiben! - in der BVV abgelehnt
+- TOP 9.6: Abwehr von Gefahren für Leib und Leben einer Vielzahl von Bürgern - in der BVV abgelehnt
+- TOP 9.7: Flüchtlingsunterkünfte in Buckow - beantwortet
+- TOP 9.8: Entwicklung der sogenannten Müll Hot Spots - beantwortet
+- TOP 9.9: Klagen wegen fehlenden Kitaplätzen: Bezirk muss jetzt handeln! - beantwortet
+- TOP 9.10: Ordnungsamt Neukölln - vertagt
+- TOP 9.11: Durch das Jugendamt Neukölln betreute unbegleitete minderjährige Asylbewerber - vertagt
+- TOP 9.12: Grüne Welle Sonnenallee - vertagt
+- TOP 9.13: Fond für die Kosten der Verlegung von Stolpersteinen für Nachfahren der Opfer des Nationalsozialismus - vertagt
+- TOP 9.14: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - überwiesen
+- TOP 9.15: Murat spielt Prinzessin - vertagt
+- TOP 9.16: Wahrheit über die 13. Sitzung der BVV bekanntgeben - vertagt
+- TOP 9.17: Altersfeststellung von Amts wegen bei zweifelhaftem Alter von unbegleiteten minderjährigen Asylbewerbern - vertagt
+- TOP 9.18: Gefährliches Verkehrsverhalten von Radfahrern wirksam bekämpfen - vertagt
+- TOP 9.19: Schulstandort auf dem Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.20: Bebauungsplan XIV-245ba-1 („Sonnenallee 228“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Beschlussempfehlungen - erledigt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Ursachenforschung für die unterschiedliche Akzeptanz von Notunterkünften in Neukölln im Rahmen der Kältehilfe (vgl. Drs. Nr. 0535/XX) - vertagt
+- TOP 11.2: Folgen des bevorstehenden weiteren Migrantenzuwachs - vertagt
+- TOP 11.3: Bestandsanierung Asbest und präventive Maßnahmen beim Wohnungsneubau - vertagt
+- TOP 11.4: Ambulante ärztliche Versorgung in Neukölln sicherstellen - vertagt
+- TOP 11.5: Polizeiliche Maßnahmen gegen Drogenkriminalität in und um die Hasenheide - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Schulplatzwechsel für alle Schülerinnen und Schüler an die Oberschulen in Neukölln sicherstellen! - schriftlich beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Parkraumbewirtschaftung geht gar nicht - überwiesen
+- TOP 13.2: Zuzugssperre - vertagt
+- TOP 13.3: Eine neue Küche für den Jugendclub Manege - überwiesen
+- TOP 13.4: Qualität und Quantität in der Kältehilfe gemeinsam verbessern - überwiesen
+- TOP 13.5: Zeit nicht länger verschwenden. - überwiesen
+- TOP 13.6: Gemeinsame Geschäftsordnung im Bezirksamt Neukölln einhalten - überwiesen
+- TOP 13.7: Schöffenwahlausschuss - in der BVV abgelehnt
+- TOP 13.8: „Kurze Beine, kurze Wege“ - Grundschulkinder nicht im Stich lassen - überwiesen
+- TOP 13.9: Schulneubau und -sanierung auf das richtige Gleis setzen. - überwiesen
+- TOP 13.10: Auto-Leichen bei OBI günstig zu haben?! - überwiesen
+- TOP 13.11: Wohnungsbau blockiert? - überwiesen
+- TOP 13.12: Preissystem der Berliner Bäderbetriebe - überwiesen
+- TOP 13.13: Attraktive Rixdorfer Höhe - vertagt
+- TOP 13.14: BVV live und archiviert im Internet - vertagt
+- TOP 14: Mitteilungen - erledigt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Aufstellung von Trinkwasserbrunnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Leerstandsanzeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Ausschilderung Öffentliche Toilette - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Bänke Höltermannsteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Bänke auf dem Lieselotte-Berger-Platz - mit Abschlussbericht zur Kenntnis genommen
