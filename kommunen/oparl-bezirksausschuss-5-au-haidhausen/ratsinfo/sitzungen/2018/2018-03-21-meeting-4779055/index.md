@@ -1,0 +1,151 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-03-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4779055
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4779055
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 2.1.: Eduard-Schmid-Str. 15: Balkonerneuerung (2 x 4 Stück)
+- TOP 2.4.: Dollmannstr. 9: Änderung an Dachterrasse und Zwischenwänden im DG
+- TOP 2.5.: Zeppelinstr. 49-51: Erweiterung / Neubau, Nutzungsänderung mit Umbau im 1. OG, Loggienerweiterung durch vorgehängte Balkone und Neurerrichtung DG
+- TOP 3.5.: Ergebnis Ortstermin am 07.03.2018 zur Rechts-vor-Links-Regel in der Balanstraße
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Markierung des Radwegs an der Rosenheimer Straße zwischen Stein-/Franziskanerstraße und Orleansstraße
+- TOP 4.2.2.: Baustelleneinrichtungen Maximiliansanlage
+- TOP 4.2.3.: Vollzug der Erhaltungssatzung Untere Au-Untergiesing; Erhalt und Instandsetzung des Wohnhauses Entenbachstr. 6
+- TOP 5.1.: Mobile Durchfahrtssperre für KfZ
+- TOP 5.2.: Entwicklung der Kriminalität am Ostbahnhof Anfrage
+- TOP 5.3.: Softwareumstellung an den Parkscheinautomaten
+- TOP 5.4.: Verkehrsversuch Rosenheimer Straße: Nachbesserungen; Geschwindigkeitsbegrenzung auf 30 km/h auf einer Hauptverkehrsstraße
+- TOP 5.5.: Profilierung des Spartentunnels an der Reichenbachbrücke nacharbeiten
+- TOP 5.6.: Modifizierung der Ampelschaltung Ohlmüller-/Eduard-Schmid-Straße
+- TOP 5.7.: Beteiligung der Bezirksausschüsse an der Studie für die LHM „Nutzungsmuster öffentlich zugänglicher Freiräume im Zuge des sozialdemographischen Wandels“
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Initiative "Auer/Haidhauser Journal" Druck von drei Ausgaben des Auer/Haidhauser Journals ab April 2018 2.500,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Warenauslage für „Hands Gallery“, Pariser Str. 21 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 7.1.: Inklusionsbeauftragte in den Bezirksausschüssen
+- TOP 7.2.: Mittelfristige Finanzplanung 2017-2021 Mehrjahresinvestitionsprogramm – Anhörungsverfahren Fortschreibung für die Jahre 2018 bis 2022
+- TOP 8.1.1.: Errichtung einer Kita in der Schweigerstr. 15
+- TOP 8.1.2.: Auskunftsrecht des Bezirksausschusses bezüglich Angelegenheiten privatrechtlich organisierter Unternehmen der Landeshauptstadt München, des Freistaats Bayern und des Bundes Anfrage
+- TOP 8.1.3.: Fehlbelegung von öffentlich geförderten Familienwohnungen im Stadtbezirk
+- TOP 8.1.4.: Weitere Fahrradbügel am Orleansplatz
+- TOP 8.1.5.: Bushaltestelle vor dem Berufsschulzentrum optimieren
+- TOP 8.1.6.: Carl-Amery-Platz in der Oberen Au BA-Antrag Nr. 14-20 / B 04257
+- TOP 8.1.7.: Ein Stadtviertelbus für die Au
+- TOP 8.1.8.: Anfrage zur Schulentwicklungsplanung
+- TOP 8.1.9.: Werksviertel – BA 5 aktiv in die Planungen einbeziehen ! BA-Antrag Nr. 14-20 / B 04393
+- TOP 8.2.1.: Informationsweitergabe an die Isarbewohner über das Aufgabengebiet und die Erreichbarkeit des von der Stadt in den Sommermonaten eingesetzten Sicherheitsdienstes in den Isarauen Empfehlung Nr. 14-20 / E 01643 der Bürgerversammlung vom 29.06.2017 hier: Schreiben Baureferat zum abweichenden BA-Beschluss
+- TOP 8.2.2.: Crowdsourcing Baumkataster BA-Antrag Nr. 14-20 / B 04403 Bitte um Fristverlängerung bis 30.04.2018
+- TOP 8.2.3.: Generalsanierung und ggfs. Erweiterung des Jugendtreffs in der Au BA-Antrag Nr. 14-20 / B 04394 Bitte um Fristverlängerung bis 30.06.2018
+- TOP 8.2.4.: Spielplätze Johannisplatz Spielplatz auf der Nordseite des Johannisplatz
+- TOP 8.2.5.: Baumaßnahmen am S-Bahnhof Rosenheimer Platz
+- TOP 8.2.6.: Grütznerstr. 8, ordnungsgemäße Nutzung der städtischen Flächen
+- TOP 8.3.1.: Tassiloplatz: Formale Änderung der Hundeverbotsbeschilderung
+- TOP 8.3.2.: Ausweisung von mindestens 25 Carsharing-Stellplätzen in Haidhausen Zwischennachricht zur Empfehlung Nr. 14-20 / E 01636 der Bürgerversammlung vom 06.07.2017
+- TOP 8.3.3.: Einrichtung von Parkplätzen mit Ladesäule für Carsharing Fahrzeuge in der südlichen Au Zwischennachricht zur Empfehlung Nr. 14-20 / E 00859 der Bürgerversammlung vom 03.03.2016
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Balanstr. 16: Fällung von 1 Robinia pseudoacacia
+- TOP 7.2.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen am Kegelhof
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 3.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Initiative "Auer/Haidhauser Journal" Druck von drei Ausgaben des Auer/Haidhauser Journals ab April 2018 2.500,00 €
+- TOP 1.2.: Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Warenauslage für „Hands Gallery“, Pariser Str. 21
+- TOP 2.: Anhörungen
+- TOP 2.1.: Balanstr. 34: Nutzungsänderung: Schneiderei zu Ladengeschäft; Tektur
+- TOP 2.2.: Landtags- und Bezirkswahl 2018; Anhörung der Bezirksausschüsse zur Stimm-bezirkseinteilung
+- TOP 2.3.: Sammelgenehmigung für Spielaktionen der AG Spiellandschaft Stadt 2018
+- TOP 2.4.: Skateboardkurs des Referats für Bildung und Sport auf der Postwiese am 24.03.2018 und vom 26.03.-29.03.2018 - Vorabzustimmung durch die Vorsitzende aus Fristgründen -
+- TOP 2.5.: Maibaumaufstellung des Vereins Freunde Haidhausens e.V. am 05.05.2018 am Wiener Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
+- TOP 3.2.: (U) Gasteig München GmbH Generalsanierung Interimsquartiere Finanzierung Änderung des MIP 2017 - 2021 Hans-Preißinger-Straße 8 Kreativquartier II mit Bestandsnutzern und Gasteig entwickeln statt Verdrängung gewachsener Strukturen Antrag Nr. 14-20 / A 03384 der Stadtratsfraktion Die Grünen / RL vom 15.09.2017 Gasteiginterims in Sendling auf dem Areal Hans-Preißinger-Straße8 BA-Antrag Nr. 14-20/ B 4210 des Bezirksausschusses des Stadtbezirks 6 – Sendling vom 06.11.2017 Kein Gasteig-Umzug nach Sendling Empfehlung Nr. 14-20 / E 01783 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.2017 Gasteiginterims auf dem Areal Hans-Preißinger-Straße 8; Was passiert nach der Zwischennutzung? Empfehlung Nr. 14-20 / E 01784 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.2017 Gasteiginterims auf dem Areal Hans-Preißinger-Straße 8; Muss der gesamte Gasteig auf das Gelände? Empfehlung Nr. 14-20 / E 01785 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.20178 Gasteiginterims auf dem Areal Hans-Preißinger-Straße 8; Prüfung des Alternativvorschlags des Architekturbüros CBA Empfehlung Nr. 14-20 / E 01786 der Bürgerversammlung des Stadtbezirks 6 – Sendling am 26.10.2017
+- TOP 3.3.: Verwendungsnachweis / Sachbericht über einen gewährten Zuschuss aus dem Budget: - Kinder-Kunstprojekt Farben, Kleister, Mosaik von Franziska Wolff - Anschaffung von Haushaltsgeräten für betreute Jugendliche des Adelgundenheims - Kunstprojekt „Play Me, I&#039;m Yours“ von Isarlust e.V.
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Koop e.V.: Ablehnung des Budgetantrags für das Festival „Isarsprudel – Kunst am Fluß“ vom 20.-26.08.2018
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.2.: Rosenheimer Str. 30: Einkaufszentrum Motorama, Neugestaltung der Außen- fassade; Vorbescheid
+- TOP 2.3.: Stubenvollstr. 2: Umbau und Sanierung Dachgeschoss „Hotel Preysing“
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Regerplatz 1, Baugenehmigung
+- TOP 3.2.: Metzstr. 35, Baugenehmigung
+- TOP 3.3.: Rablstr. 29, Baugenehmigung
+- TOP 3.4.: Elsässer Str. 34, Baugenehmigung
+- TOP 3.5.: Trogerstr. 22, Baugenehmigung
+- TOP 3.6.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 3.7.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 3.8.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Vollzug der Wassergesetze; Verfahren zur Festsetzung des Überschwemmungsgebietes an der Isar innerhalb der Stadtgrenzen der LH München von Flusskilometer 140,95 bis Flusskilometer 155,10 durch Erlass einer Rechtsverordnung
+- TOP 2.2.: Falkenstr. 44; Einrichtung eines absoluten Haltverbotes
+- TOP 2.3.: Beschlussentwurf Bahnknoten München, 2. Stammstrecke Sachstand, Anträge und Empfehlungen
+- TOP 2.4.: Genehmigungspflicht von Lieferrampen in Parkbuchten Entfernung der Laderampe in der Parkbucht Weißenburger Str. 41
+- TOP 2.5.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs Abfrage von Standortvorschlägen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Falschparker Oefelestraße Antwortschreiben KVR auf Bürgeranliegen
+- TOP 3.2.: Verkehrsberuhigter Bereich Preysingstraße Antwortschreiben Baureferat auf Bürgeranliegen
+- TOP 3.3.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 3.4.: Verkehrsrechtliche Anordnungen: - Einsteinstraße; Einrichtung einer Kurzparkzone im Bereich des Friedhofs Haidhausen - Franz-Prüller-Straße; Einrichtung eines absoluten Haltverbots mit Zusatz Feuerwehranfahrtzone
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Halbseitig auf Gehweg abgestellte KfZ in der Unteren Feldstraße
+- TOP 4.2.: 1. Parksituation rund um das Prinzregententheater 2. Verkehrsregelung Einfahrt Lucile-Grahn-Straße in Einsteinstraße
+- TOP 4.3.: 1. Zebrastreifen an der Bushaltestelle Schwester-Eubulina-Platz 2. Splittung der Buslinie 62
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 09.04.2018, 18.30 Uhr, Haus der Eigenarbeit (HEI), Wörthstr. 42 / Rgb. UA Gesundheit, Umwelt und Verkehr, 09.04.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 10.04.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 11.04.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 12.04.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 18.04.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 03.04.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Einladung zur Verleihung des Anita Augspurg Preises 2017 am 15.03.2018 um 18 Uhr
+- TOP 4.2.: Verbesserungen im Baumschutz – Untere Naturschutzbehörde, Bezirksausschüsse und BUND Naturschutz weiter im Dialog am 16.03.2018 um 14.30 Uhr
+- TOP 4.3.: Einladung zum Berufsinformationstag der Berufsschule für Fachkräfte in Arzt- und Tierpraxen und Pharmazeutisch-kaufmännische Angestellte am 10.03.2018 von 10.00 bis 12.30 Uhr
+- TOP 4.4.: Wohnen und leben im Quartier Teil III, München sozialverträglich weiterentwickeln am 13.03.2018 um 16 Uhr
+- TOP 4.5.: BA-Dialog mit dem Referat für Bildung und Sport am 19.04.2018 um 17 Uhr
+- TOP 4.6.: Flussrunde „Parkpflegewerk“ am 09.04.2018 von 16-19 Uhr
+- TOP 4.7.: 4. Strategiegruppe Nächtliches Feiern am 19.03.2018 von 18-20 Uhr
