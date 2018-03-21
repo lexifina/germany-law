@@ -1,0 +1,104 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-03-21T17:00:00+01:00
+- Ende: 2018-03-21T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3858
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3858
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Gemeindepark Lankwitz - beantwortet
+- TOP 3.2: Kommunales Nachbarschaftsforum - beantwortet
+- TOP 3.3: Deutschenfeindlichkeit im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.4: Noch Hoffnungen für die Ordnungsamtsapp in Steglitz-Zehlendorf? - beantwortet
+- TOP 3.5: Geisterhaus Gardeschützenweg 3 – spukt es tatsächlich im Haus oder wohnt dort jemand? - beantwortet
+- TOP 3.6: Erneute Leistungsverweigerung des Bezirksamtes beim Milieuschutz wegen eines rechtswidrigen Finanzierungsvorbehaltes? - beantwortet
+- TOP 3.7: Verwahrloste Villa in Lichterfelde-West und Leerstand im Bezirk - beantwortet
+- TOP 3.8: Waldfriedhof Zehlendorf: Trauerhalle unwürdig zum Trauern? - beantwortet
+- TOP 3.9: Keine Beflaggung am Equal Pay Day 2018 – wie verhält es sich mit dem Flaggentag der „Mayors for Peace“ in diesem Jahr? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Aktuelle Übersicht über Aufwertungs- und Verdrängungsprozesse in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines Bürgerdeputierten im Ausschuss für Umwelt, Naturschutz, Tiefbau, Landschaftsplanung und Bürgerbeteiligung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Geschäftsjahre 2018 bis 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Aufstellung der Vorschlagsliste für Schöffinnen und Schöffen für das Landgericht Berlin sowie das Amtsgericht Tiergarten für die Geschäftsjahre 2019 bis 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahl von sieben Vertrauenspersonen für den Ausschuss zur Auswahl der Schöffinnen und Schöffen beim Amtsgericht Tiergarten für die Geschäftsjahre 2019 bis 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sondermittel der BVV für den Kinderring Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Bebauungsplan 6-24 (Fischerhüttenstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.8: S-Bahn 25/26 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Illegale Nutzung des „Platz des 4. Juli“ kurzfristig unterbinden - in der BVV abgelehnt
+- TOP 4.10: Nahverkehr - in der BVV abgelehnt
+- TOP 4.11: Orientierungshaus Potsdamer Chaussee 95 instand setzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Sporthallensituation für Rollstuhlfahrende im Bezirk verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Öffentliche Erleichterung – Versorgungssicherheit herstellen! - in der BVV abgelehnt
+- TOP 4.14: Reinigung weiterer Parks und Grünflächen durch die BSR - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Reparatur oder Erneuerung der Schutzgeländer am Platz "Am Wilden Eber" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Verkehrssicherheit Schulweg Wedellstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Sichere Querung Fischerhüttenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Poller zu Fahrradbügeln: Fahrradparken im Bezirk verbessern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Mehr Platz für Fußgänger im Gardeschützenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Fahrradhäuschen im Bezirk ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Prioritätenliste für Bänke in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.22: Stele für Richard Draemert - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: WiFi4EU: Freies WLAN im Bezirk ausbauen - in der BVV abgelehnt
+- TOP 4.24: Unangekündigte Pflegeheimkontrollen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Mehr S-Bahn für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Halteverbot in der Wasgenstraße auf der Höhe des ALDI-Marktes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Missbräuchliche Nutzung des Ludwig-Beck-Platzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Vorzugsvariante aus der 4. Sitzung der AG Platz des 4. Juli als geplante Gestaltungsvorgabe bestätigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Übergang der John-F.-Kennedy-Schule aus der bezirklichen Verwaltung in die Zentralverwaltung der Senatsverwaltung für Bildung, Jugend und Familie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Änderung des § 38 der GO (Abgabe von Erklärungen) der BVV Steglitz-Zehlendorf - überwiesen
+- TOP 5.2: Genossenschaftliches Wohnen auf ehemaligen Bahngrundstücken - überwiesen
+- TOP 5.3: Ausweitung der Buslinie 114 bis U-Bahnhof Krumme Lanke - überwiesen
+- TOP 5.4: Geisterhaus Gardeschützenweg 3 – Anwohner*innen, Passant*innen und Autofahrer*innen vor herabstürzenden Gebäudeteilen schützen - überwiesen
+- TOP 5.5: Illegalen Welpenhandel bekämpfen - überwiesen
+- TOP 5.6: Sicherheit in der Giesensdorfer Straße - überwiesen
+- TOP 5.7: Shisha-Bars - überwiesen
+- TOP 5.8: Keine weitere Anlage von Fahrradangebotsstreifen ohne Bedarfsanalyse - überwiesen
+- TOP 5.9: Tempo 30 vor der Kita und Kirchengemeinde in der Mühlenstraße durchsetzen - überwiesen
+- TOP 5.10: Müllabfuhr in der Marschnerstraße sicherstellen - überwiesen
+- TOP 5.11: Ratskeller in Zehlendorf sinnvoll nutzen: Kältehilfe einrichten - überwiesen
+- TOP 5.12: Verbesserte Umsteige-Chancen am Bus-Knoten Lankwitz Kirche im Nachtnetz (N81, N84 und M82) - überwiesen
+- TOP 5.13: Hüttenweg Ecke Onkel-Tom-Straße - Grüner Pfeil - überwiesen
+- TOP 5.14: Ausbesserung des Fußweges von der Flanaganstraße zur Bushaltestelle Königin-Luise-Straße/Clayallee - überwiesen
+- TOP 5.15: Sanierung der Spielplätze Heinrich-Laehr-Park/Dahlemer Weg/Wupperstraße - überwiesen
+- TOP 5.16: Blindenampeln sind wichtig, besonders in der Nähe von Blindenwohnungen - überwiesen
+- TOP 5.17: Kita-Broschüre zu sexueller und geschlechtlicher Vielfalt des Senats nicht einsetzen - überwiesen
+- TOP 5.18: Mehr Hilfe für alleinerziehende und schichtarbeitende Eltern in Steglitz-Zehlendorf - überwiesen
+- TOP 5.19: Abbiegesituation Drakestraße/Ringstraße für Busse verbessern - überwiesen
+- TOP 5.20: Barrierefreier Zugang S-Bahnhof Nikolassee - überwiesen
+- TOP 5.21: Sparen bei Bank-Krise hilft nicht - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - (offen)
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 6.1.1: Entwicklung und Pflege des Grunewald-Seengebietes zwischen Schlachtensee und Grunewaldsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.2: Umstellung Ordnungsamt - Dienstwagen auf E-Mobilität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.3: Alternative Antriebe bei Fahrzeugneubeschaffungen berücksichtigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.4: Stadtteil-Bürgerforen einrichten! - Stärkung der Teilhabe der Einwohnerschaft im Bezirk vor Ort - in der BVV abgelehnt
+- TOP 6.1.5: Heckeshorn: Anwohner/-innen transparent und offen informieren - in der BVV abgelehnt
+- TOP 6.1.6: Explodierende Mieten in Steglitz-Zehlendorf: Das Bezirksamt stellt sich schützend vor die Mieter/-innen der Bundesanstalt für Immobilienaufgaben (BImA) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.7: Kosten für die kontinuierliche Verkehrsplanung für den B-Plan 6-30 (Lichterfelde-Süd) verbindlich im städtebaulichen Vertrag regeln! - überwiesen
+- TOP 6.1.8: Videoaufklärung gegen Fahrradklau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Ausschussanträge - erledigt
+- TOP 7.1.1: Sondermittel der BVV für das Charité Centrum für Human- und Gesundheitswissenschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Mehr Wohnungen, verbindliche Fristen und mehr Bürgerbeteiligung in Steglitz-Zehlendorf? - beantwortet
+- TOP 8.2: Was ist los bei der Verkehrslenkung Berlin? - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Pestizidfreie Kommune - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Inklusion in der Ingeborg-Drewitz-Bibliothek aufrecht erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Lärmschutz für Schüler bei Planung neuer Schule Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 10.3: Redezeitbegrenzung in der BVV Steglitz-Zehlendorf - vertagt
+- TOP 10.4: Inklusiver Sport bei der Planung von Schul-/Sporthallen berücksichtigen - überwiesen
+- TOP 10.5: Bezirkspolitik ganz nüchtern betrachtet - vertagt
+- TOP 10.6: Schulbauoffensive transparent gestalten - vertagt
+- TOP 10.7: „Demokratie leben“/“Partnerschaft für Demokratie" - vertagt
