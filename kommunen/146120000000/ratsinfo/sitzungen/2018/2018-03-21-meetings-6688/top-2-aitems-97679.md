@@ -1,0 +1,6 @@
+# TOP 2: Kontrolle über die Festlegungen der vergangenen Sitzung
+
+- Sitzung: 23. Sitzung des Beirates für Menschen mit Behinderungen (2018-03-21)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/97679
