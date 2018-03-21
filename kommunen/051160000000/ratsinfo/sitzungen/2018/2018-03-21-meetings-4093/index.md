@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-03-21T15:00:00+01:00
+- Ende: 2018-03-21T18:02:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4093
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4093
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 28. Sitzung des Rates am 20.12.2017 - öffentlicher Teil - Siehe Anlage - Niederschrift ohne Einwendung
+- TOP 2: Nebentätigkeiten OB - Kenntnisnahme
+- TOP 3: Zuwendungen 2017 - Kenntnisnahme
+- TOP 4: City-WLAN-Netz - Mit Stimmenmehrheit beschlossen
+- TOP 4.1: Änderungsantrag zu 2951/IX "Aufbau eines qualitativ hochwertigen City-WLAN-Netzes in den Innenstädte - Mit Stimmenmehrheit abgelehnt
+- TOP 4.2: Zu TOP 4: Aufbau deines qualitativ hochwertigen City-WLAN-Netzes in den Innenstädten Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: Bestellung eines Beigeordneten zum allgemeinen Vertreter des Oberbürgermeisters - Mit Stimmenmehrheit beschlossen
+- TOP 6: Besetzung der euregionalen Ausschüsse - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Zu TOP 6: Besetzung der euregionalen Ausschüsse, Vorlage 2961/IX - Mit Stimmenmehrheit beschlossen
+- TOP 7: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 8: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 9: Teilnahme an der Kundenbefragung "Vitale Innenstädte 2018" - Einstimmiger Beschluss
+- TOP 10: Vertretung der Stadt beim VRR - Einstimmiger Beschluss
+- TOP 11: Ordnungsbehördliche Verordnungen Verkaufsöffnungen 2018 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 12: Verabschiedung SEP 7 - Sek. I - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 13: Prioritätenliste "Investitionen in Außensportanlagen" hier: Inangriffnahme der Sportanlage Hehn - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 14: Fortsetzung der zum 31.03.2018 auslaufenden Leistungsvereinbarung im Aufgaben-gebiet der Adoption un - Einstimmiger Beschluss
+- TOP 15: HOME PLUS - Bildungsförderung an Grundschulen - Einstimmiger Beschluss
+- TOP 16: 207. Änderung des Flächennutzungsplanes der Stadt MG - Stadtbezirk West, Nordpark - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 17: Neuwahl Delegierte Niersverbandsversammlung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 18: Bebauungsplan Nr. 510/W - Stadtbezirk West, Nordpark (Borussiapark) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 19: 225. Änderung des FNP - Stadtbezirk West, Nordpark - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Bebauungsplan Nr. 511/W - Stadtbezirk West, Nordpark - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 21: Abschiebungen nach Afghanistan - Vom Antragsteller zurückgezogen
+- TOP 22: Zusätzliche beratende Mitglieder in Aufsichtsräten - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Verwendung von Herbiziden in der Stadt Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Schaffung eines Jugendzentrums für queere Jugendliche in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 24.1: TOP 24: Schaffung eines Jugendzentrums für queere Jugendliche in Mönchengladbach; hier gemeinsamer A - Mit Stimmenmehrheit beschlossen
+- TOP 25: Busverkehr auf der Hindenburgstraße - Überführung der Testphase in den Regelbetrieb - - Ohne Abstimmung
+- TOP 25.1: Busverkehr Hindenburgstraße - Überführung der Testphase in den Regelbetrie - Ohne Abstimmung
+- TOP 26: Kindergartenbedarfsplanung für das Kindergartenjahr 2018/19 (zur Vorlage 2827/IX) - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Umbesetzung von Gremien - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Besetzung von Ausschüssen - Vertretungsregelung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 29.1: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen - Zur Kenntnis genommen
+- TOP 29.2: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen - Zur Kenntnis genommen
+- TOP 29.3: Anfrage von Ratsherrn Küpper, FDP - Zur Kenntnis genommen
+- TOP 29.4: Anfrage von Ratsherrn Dr. Brenner, Bündnis 90/Die Grünen
+- TOP 29.5: Anfrage von Ratsfrau Stephan, FDP - Zur Kenntnis genommen
+- TOP 29.6: Anfrage von Ratsherrn Schultz, DIE LINKE - Zur Kenntnis genommen
+- TOP 29.7: Anfrage von Ratsherrn Gutowski, FDP
+- TOP 29.8: Anfrage von Ratsherrn Dr. Brenner, Bündnis 90/Die Grünen
+- TOP 29.9: Anfrage von Ratsherrn Dr. Brenner, Bündnis 90/Die Grünen
+- TOP 29.10: Mitteilungen von Oberbürgermeister Reiners - Zur Kenntnis genommen
