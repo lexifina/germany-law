@@ -1,0 +1,8 @@
+# TOP 3: Zuwendungen 2017
+
+- Sitzung: Rat (2018-03-21)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/131492
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/24565
