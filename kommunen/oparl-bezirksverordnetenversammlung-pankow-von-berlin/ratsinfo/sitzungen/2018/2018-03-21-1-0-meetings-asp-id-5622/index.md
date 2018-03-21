@@ -1,0 +1,94 @@
+# 14. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2018-03-21T17:30:00+01:00
+- Ende: 2018-03-21T22:10:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5622
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5622
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=160356
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - im Ausschuss abgelehnt
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.5.1: Schilderwald in der Platanenstraße - beantwortet
+- TOP 1.5.2: Verwendungsnachweise und Evaluierungen durch das BA sowie Rückschlüsse daraus - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Mitgliedes in den Vorstand der BVV - gewählt
+- TOP 1.9: Nachwahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Nachwahl eines Mitgliedes in den Vorstand der Albert-Schweitzer-Stiftung - Wohnen & Betreuen - gewählt
+- TOP 1.11: Nachwahl eines Mitgliedes in den Vorstand der Albert-Schweitzer-Stiftung - zurückgezogen
+- TOP 1.12: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richter/innen beim Oberverwaltungsgericht Berlin - Brandenburg für die Geschäftsjahre 2018 - 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Aufstellung der Vorschlagsliste zur Wahl der Schöffinnen/Schöffen für die Geschäftsjahre 2019-2023 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richter/innen beim Verwaltungsgericht Berlin für die Geschäftsjahre 2019-2023 - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ausweitung der Dienstzeiten des Allgemeinen Ordnungsdienstes des Ordnungsamtes - in der BVV abgelehnt
+- TOP 1.16: Spielplatzplanung - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Unterschutzstellung der Elisabethaue ermöglichen - in der BVV abgelehnt
+- TOP 1.18: Sicherer Schulweg auch im Winter: Schneereinigung vor Schulen durch die BSR - in der BVV abgelehnt
+- TOP 1.19: Klimaschutzprojekte durch Fördermöglichkeiten realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Bezirkliche Seniorenvertretung stärken - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verkehrssituation im Blumenviertel verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Volkspark Prenzlauer Berg aufwerten - in der BVV abgelehnt
+- TOP 1.23: Errichtung einer Gedenkstätte Fluchttunnel im Mauerpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Fahrradabstellanlagen am S-Bahnhof Blankenburg II - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Keine zusätzlichen Logistikverkehre während des erneuten Schienenersatzverkehrs auf der Linie S2 - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Fensterposse am Kollwitzplatz beenden - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Tariferhöhungen bei sozialen Projekten in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Rahmen und Verfahren für den Blankenburger Süden vom Kopf auf die Füße stellen! - überwiesen
+- TOP 1.29: Bessere Bürgerinformation und Bürgerbeteiligung in Bezug auf Flüchtlingsunterkünfte in Pankow - überwiesen
+- TOP 1.30: Planungen für den »Blankenburger Süden« - in der BVV zurückgezogen
+- TOP 1.31: Blankenburger Süden - Rahmen und Verfahren vom Kopf auf die Füße stellen! - überwiesen
+- TOP 1.32: Beteiligung der Volkshochschule Pankow am Deutschen Weiterbildungstag 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Mobilitätsmonitore in den Bürgerämtern - überwiesen
+- TOP 1.34: Verbesserung der Verkehrssituation und stadtverträgliche Verkehrsanbindung bauen – ohne TVN! - in der BVV zurückgezogen
+- TOP 1.35: MUF-Standorte im Innenstadtbereich Pankows einrichten – Integration erleichtern - überwiesen
+- TOP 1.36: Stammstrecke der Heidekrautbahn als Leuchtturmprojekt für i2030 voranbringen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Erhöhung der Querungssicherheit an der Wiltbergstraße - vertagt
+- TOP 1.38: Rasche Nutzbarmachung der Wege im Ernst-Thälmann-Park - überwiesen
+- TOP 1.39: Schulwege sicherer machen - Dialogdisplays installieren - vertagt
+- TOP 1.40: Wochenmarkt in Blankenburg - vertagt
+- TOP 1.41: Baustellenkoordinierung im öffentlichen Straßenland - vertagt
+- TOP 1.42: Geldautomat in Blankenburg - vertagt
+- TOP 1.43: Potentialuntersuchung für P+R- Parkplätze - vertagt
+- TOP 1.44: Weniger Tempo und mehr Verkehrssicherheit im Bereich zwischen Sellheimbrücke und Treseburger Straße! - vertagt
+- TOP 1.45: Petition zur „Verlängerung der Heidekrautbahn über Wilhelmsruh bis Berlin Gesundbrunnen“ unterstützen - vertagt
+- TOP 1.46: Transferfenster öffnen - vertagt
+- TOP 1.47: Behelfsbrücke für Fuß- und Radverkehre zwischen Blankenburg und Französisch Buchholz - vertagt
+- TOP 1.48: Radverkehr dauerhaft zählen - überwiesen
+- TOP 1.49: IoT Testgebiet für Smart City Pilot-Projekte einrichten - überwiesen
+- TOP 1.50: Organisation und Konzeption der Bürgerbeteiligungs-Workshops - überwiesen
+- TOP 1.51: Verkehrssicherheit Elsa-Brändström-Str. / Prenzlauer Promenade - vertagt
+- TOP 1.52: Nachhaltige Verkehrsplanung für die Michelangelostraße - überwiesen
+- TOP 1.53: Verkehrssicherheit an der Klecksgrundschule - vertagt
+- TOP 1.54: Regionale Bekanntmachung durch das BA der Umnutzung zweier Parkplätze und eines Gewerbegebietes - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Inklusive Sportstättenplanung - vertagt
+- TOP 2.5: Frühschwimmen in der Schwimmhalle Thomas-Mann-Straße wieder ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: »Traglufthalle – Notübernachtungsangebot in Pankow ausweiten!« - vertagt
+- TOP 2.7: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Kinderschutz sicherstellen und Fachpersonal schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Mehrsprachige Beschilderung des Bezirksamtsgeländes Fröbelstraße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Schulplatzmangel entgegenwirken – Neugründung von Gemeinschaftsschulen in den Fokus stellen - vertagt
+- TOP 2.11: Bedarfsgerechte Ausstattung der Schulen in Pankow mit Hausmeisterstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Bedarfsgerechte Reinigung der Schulen in Pankow - vertagt
+- TOP 2.13: Querung der Gaudystraße ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Coding Hub in Pankow bekannt machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Barrierefreie Querungen an der Straßenbahnhaltestelle Tino-Schwierzina-Straße sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Machbarkeitsuntersuchung für einen Kreisverkehr - vertagt
+- TOP 2.17: Anerkennung für Leistungen der Feuerwehren, des Technischen Hilfswerks, der Rettungsdienste und anderer Organisationen im Zusammenhang mit dem Orkan XAVIER - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Tempo 30 in der Schivelbeiner und der Behmstraße - vertagt
+- TOP 2.19: Erhalt und Sanierung der Fußgängerunterführung Rudelsburgstraße/ Freischützstraße - vertagt
+- TOP 2.20: Abberufung eines stellvertretenden bezirklichen Mitglieds der Trägerversammlung des Jobcenters Berlin Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplan 3-46 vom 15. Januar 2014 für den südöstlichen Teil des Grundstücks Robert-Rössle-Straße 10 im Bezirk Pankow, Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
