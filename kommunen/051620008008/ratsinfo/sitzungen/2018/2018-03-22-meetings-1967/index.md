@@ -1,0 +1,95 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-03-22T18:09:00+01:00
+- Ende: 2018-03-22T20:11:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1967
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1967
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Verzicht Ausbau L48n für Ausbau der L116 (Antrag Nr. 46/2018) - einstimmig
+- TOP 2.1.2: Geschwindigkeitsbeschränkungen mit einer Höchstgeschwindigkeit von 40 km/h (Antrag Nr. 54/18) - einstimmig
+- TOP 2.1.3: Zukunftsplan Frimmersdorf/ Neurath (Antrag Nr. 55/18) - einstimmig
+- TOP 2.1.4: L48n - L116 (Antrag Nr. 56) - einstimmig
+- TOP 2.1.5: Aktionstag zu Fuß zur Schule (Antrag Nr. 57/18) - einstimmig
+- TOP 2.1.6: Schulbaurichtlinie (Antrag Nr. 58/18) - einstimmig
+- TOP 2.1.7: Zusage zur Aufnahme in die Kita (Antrag Nr. 59/18) - einstimmig
+- TOP 2.1.8: 100 Jahre Frauenwahlrecht (Antrag Nr. 60/18) - einstimmig
+- TOP 2.1.9: Änderung der Satzung über die Erhebung von Elternbeiträge in der Kita (Antrag Nr. 62/18) - einstimmig
+- TOP 2.2: SPD
+- TOP 2.3: UWG/ABG
+- TOP 2.3.1: Nutzung des Lange Walker Geländes (Antrag Nr. 45/18) - einstimmig
+- TOP 2.3.2: Fehlende Auswertungen aus dem Controlling Berichtssystem (Antrag Nr. 47/18) - einstimmig
+- TOP 2.3.3: Erstattung von Personalkosten in den städtischen Haushalt (Antrag Nr. 48/18) - einstimmig
+- TOP 2.3.4: Runder Tisch "Heimatgestalter in Grevenbroich" (Antrag Nr. 50/18) - einstimmig
+- TOP 2.4: FDP
+- TOP 2.4.1: Goldene Buch der Stadt Grevenbroich (Antrag Nr. 35/2018) - einstimmig
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.5.1: Verzicht auf den Ausbau L48N u. Verbesserung der Verkehrssituation (Antrag Nr. 49/18) - einstimmig
+- TOP 2.5.2: Müllgefäße im städt. Forst (Antrag Nr. 51/18) - einstimmig
+- TOP 2.5.3: Sondersitzung Arbeitskreis Sucht, des Runden Tisches und Steuergruppe Sucht etc. (Antrag Nr. 52/18) - einstimmig
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.7: Die Linke- Freie Bürger
+- TOP 2.7.1: Fahrscheinloser ÖPNV an Samstagen (Antrag Nr. 42/18) - einstimmig
+- TOP 2.8: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Schrottimmobilien (Anfrage Nr. 61/18) - einstimmig
+- TOP 3.2.2: Qualität in der offenen Ganztagsgrundschule (Anfrage Nr. 64/18) - einstimmig
+- TOP 3.2.3: Entwicklung Baulandflächen (Anfrage Nr. 63/18) - einstimmig
+- TOP 3.3: UWG/ABG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.6.1: Zentrale Stadtentwicklung zwischen Spielspinne und Kirmesplatz (Anfrage Nr. 53/18) - einstimmig
+- TOP 3.7: Die Linke - Freie Bürger
+- TOP 3.7.1: Arbeitsverträge (Anfrage Nr. 43/18) - einstimmig
+- TOP 3.7.2: Wohnungsbaugesellschaft (Anfrage Nr. 44/18) - einstimmig
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Flüchtlings- und Integrationsangelegenheiten
+- TOP 6.1: "Istkosten" Flüchtlinge - einstimmig
+- TOP 7: Beteiligung an NEW Umwelt GmbH - einstimmig
+- TOP 8: Wiederwahl einer Schiedsperson - einstimmig
+- TOP 9: Stadtmarketing Grevenbroich - einstimmig
+- TOP 10: Bericht zur Fortschreibung des Sanierungsplans (Stichtag 31.12.2017) - einstimmig
+- TOP 11: Zusammensetzung des Seniorenbeirates - einstimmig
+- TOP 12: Spenden/Sponsoring 2017 - einstimmig
+- TOP 13: Handlungskonzept Bahnhofsviertel - einstimmig
+- TOP 14: Beratungspunkte BetriebsA 20.02.2018
+- TOP 14.1: Änderung Eigenbetriebssatzung - einstimmig
+- TOP 15: Beratungspunkte JHA 27.02.2018
+- TOP 15.1: Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen für Kinder in der Stadt Grevenbroich - einstimmig
+- TOP 15.2: Satzung über die Erhebung von Kostenbeiträgen für die Inanspruchnahme der Kindertagespflege in der Stadt Grevenbroich - einstimmig
+- TOP 16: Entscheidung PlanungsA
+- TOP 16.1: 2. Änd. F 21 § 13 Satz.beschl. - einstimmig
+- TOP 16.2: K 34 - Aufstellungsbeschluss u. frühz. Öffentl.beteil. - einstimmig
+- TOP 16.3: 11. Änd G 158 - Satz.beschluss . - einstimmig
+- TOP 16.4: 15. Änd. FNP "Lindenstraße/Am Hagelkreuz" - Genehmigung nach § 6 BauGB - einstimmig
+- TOP 16.5: Benennung von Mitgliedern für den Arbeitskreis Baulandmanagement - einstimmig
+- TOP 16.6: Städtebaulicher Vertrag N 40 - Kenntnisnahme
+- TOP 16.7: N 40 - Satzungsbeschluss - Kenntnisnahme
+- TOP 17: UmweltA 21.03.2018
+- TOP 17.1: Baumschutzsatzung - einstimmig
+- TOP 18: Beantwortung Anträge und Anfragen
+- TOP 18.1: Beantwortung von Anträgen und Anfragen hier: Sammelbeantwortung - einstimmig
+- TOP 18.2: Weiterentwicklung der Bürgerbeteiligung in Grevenbroich (Antrag Nr. 8/18) - mehrheitlich bei
+- TOP 18.3: Einrichtung von Beratungszentren (Anfrage Nr. 265/17) - einstimmig
+- TOP 18.4: Obdachlosigkeit in Grevenbroich (Anfrage Nr. 271/17) - einstimmig
+- TOP 18.5: Anfrage zur Mittelverwendung aus dem Programm "Gute Schule" (Anfrage Nr. 9/18) - einstimmig
+- TOP 19: mündliche Anträge/Anfragen
+- TOP 19.1: Einsatz Hochdruckreiniger(Anfrage 65/18)
+- TOP 19.2: Anliegerkostern Königstraße (Anfrage Nr. 66/18)
+- TOP 19.3: Sitzungsgelder für CDU-Mitglieder für Ratssitzung 22.03.2018 (Anfrage Nr. 67/18)
+- TOP 19.4: Anliegerpflichten (Anfrage Nr. 68/18)
+- TOP 19.5: Smartboard Grundschule St. Martin (Anfrage Nr. 69/18)
+- TOP 20: Mitteilungen BM
