@@ -1,0 +1,56 @@
+# Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-03-22T17:00:00+01:00
+- Ende: 2018-03-22T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18852
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18852
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652489.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652489.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00652489.pdf
+
+## Tagesordnung
+
+- TOP -: A Mitteilung aus aktuellem Anlass - Kenntnis genommen
+- TOP 1: Begrüßung zur Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 1.1: Verpflichtung neuer Mitglieder - Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung und der Tagesordnung
+- TOP 2.1: Niederschrift der Sitzung vom 28-11-2017 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2: Genehmigung der aktualisierten Tagesordnung - geändert beschlossen
+- TOP 3: Sachstand zur Verwaltungsreform
+- TOP 3.1: Bericht zur Verwaltungsreform - Kenntnis genommen
+- TOP 4: Rückfragen zu Beantwortungen von Anfragen und Mitteilungen aus früheren Sitzungen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.1: Antrag zur Gewährung von Aufwandsentschädigung und Sitzungsgeld - mit Änderungen empfohlen
+- TOP 5: Trans*
+- TOP 5.1: Trans* im Krankenhaus - Kenntnis genommen
+- TOP 6: LSBTI Geflüchtete
+- TOP 6.1: Aktueller Stand zur Unterbringungssituation - Kenntnis genommen
+- TOP 7: Sichtbarkeit von Lesben in Köln
+- TOP 7.1: Lesbenfrühlingstreffen 2019. Bericht der Organisatorinnen und Anfrage an die Stadt Köln
+- TOP 7.2: Richtlinie für die Benennung von Straßen - zurückgestellt
+- TOP 8: Diversity
+- TOP 8.1: Implementierung von Diversitymanagement im Rahmen der Verwaltungsreform - zurückgestellt
+- TOP 8.2: Kampagne für Vielfalt und Wertschätzung, gegen Intoleranz, Diskriminierung und Ausgrenzung im Rahmen von Diversity - zurückgestellt
+- TOP 8.3: Veröffentlichung der Broschüre 2020: Köln liebt Vielfalt Diversity Konzept - zurückgestellt
+- TOP 9: Sachstandsberichte und Mitteilungen
+- TOP 9.1: Wirtschaftsstudie - zurückgestellt
+- TOP 9.2: Arbeitsgruppe "Polizei" - zurückgestellt
+- TOP 9.3: Auszug aus dem Beschlussprotokoll des Ausschusses Soziales und Senioren vom 01.03.2018 - zurückgestellt
+- TOP 9.4: Städtepartnerschaftlicher Austausch zum CSD 2018 - Kenntnis genommen
+- TOP 9.5: Mitteilung 0198-2018 - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen
+- TOP 11: Beschlüsse/Beschlussempfehlungen
+- TOP 11.1: Benennung sachkundiger Einwohner
+- TOP 12: Anfragen/Anträge
+- TOP 12.1: Integrationsbudget 2018 - zurückgestellt
+- TOP 12.2: Aktionsplan LSBTI - zurückgestellt
+- TOP 12.3: Via Culturalis - Beteiligung des Frauengeschichtsvereins und des Zentrums für schwule Geschichte - zurückgestellt
+- TOP 12.4: Antrag auf Mittelbereitstellung für das Filmfestival „Homochrom“ - endgültig zurückgezogen
+- TOP 13: Öffentlichkeitsarbeit
+- TOP 14: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 14.1: Beteiligung an der Haushaltsplanung - mündliche Anfrage -
