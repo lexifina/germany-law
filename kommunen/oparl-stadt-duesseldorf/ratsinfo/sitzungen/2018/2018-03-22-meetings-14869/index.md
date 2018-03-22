@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-03-22T14:00:00+01:00
+- Ende: 2018-03-22T20:14:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14869
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14869
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00313022.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00313022.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00313022.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - beantwortet
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsfraktion von BÜ90/GRÜ: Theodorstraße - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage DIE LINKE: Verpflichtungserklärung zur Männer-Fußball EM 2024 - beantwortet
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Anfrage der Ratsfraktion von BÜ90/GRÜ: Klimapartnerstadt für Düsseldorf? - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion von BÜ90/GRÜ: Zukunftsperspektive Hafen langfristig sichern - schriftlich beantwortet
+- TOP 4.5: Anfrage der Ratsfrau Opelt: Zusätzlicher Einsatz von Sicherheitskräften zu Karneval? - schriftlich beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Maniera: Anträge auf Unterhaltsvorschuss - schriftlich beantwortet
+- TOP 4.7: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: U81 - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: D.Live Open Air Park - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Grenda: Mobilitätsdaten - ÖPNV - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Grenda: Mobilitätsdaten - motorisierter Individualverkehr - schriftlich beantwortet
+- TOP 4.10.1: Anfrage der CDU-Ratsfraktion: Stand KAP I - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Czerwinski: Kostenloser ÖPNV als Lösung für Düsseldorf - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 9: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2017 - zur Kenntnis genommen
+- TOP 10: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Stadtbahnstrecke der Wehrhahn-Linie v - mehrheitlich beschlossen
+- TOP 11: Sanierung von Dach und Fassade des Schauspielhauses am Gustaf-Gründgens-Platz -Ausführungs- und Fin - einstimmig beschlossen
+- TOP 12: Anhebung der Miet- und Dienstleistungskonditionen der Tonhalle ab der Saison 2018/19 - mehrheitlich beschlossen
+- TOP 13: Rhein-Ruhr-Express - Prüfergebnisse zum Ratsauftrag vom 10.03.2017 - mehrheitlich beschlossen
+- TOP 13.1: ÄA Tierschutz Freie Wähler: Rhein-Ruhr-Express - Prüfergebnisse zum Ratsauftrag - zurückgezogen
+- TOP 13.2: ÄA CDU: Rhein-Ruhr-Express - mehrheitlich abgelehnt
+- TOP 13.3: Änderungsantrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: RRX - mehrheitlich beschlossen
+- TOP 14: Handlungskonzept Elektromobilität der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 14.1: ÄA Rh Grenda: Handlungskonzept Elektromobilität der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 15: Errichtung einer Grundschule am Schulstandort Steinkaul und Auflösung des Teilstandortes der St. Apo - einstimmig beschlossen
+- TOP 16: Gründung der Tonhalle Düsseldorf gGmbH - mehrheitlich beschlossen
+- TOP 17: Satzung zum Schutz und Erhalt von Wohnraum in Düsseldorf (Wohnraumschutzsatzung) - mehrheitlich abgelehnt
+- TOP 17.1: Änderungsantrag der SPD-Ratsfraktion und Ratsfraktion Bündnis 90/Die Grünen zur Wohnraumschutzsatzun - zurückgezogen
+- TOP 17.2: Änderungsantrag derRatsfraktion DIE LINKE zu Vorlage 64/59/2017 - mehrheitlich abgelehnt
+- TOP 18: Genehmigung 60er Beschluss: Änderung der Taxentarifordnung - einstimmig beschlossen
+- TOP 19: Einkünfte aus Nebentätigkeiten im Jahr 2017 für Herrn Oberbürgermeister Thomas Geisel - zur Kenntnis genommen
+- TOP 20: Prüfungsordnung für Beschäftigte im kommunalen Verwaltungsdienst - einstimmig beschlossen
+- TOP 21: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 22: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 23: Aufsichtsrat der Flughafen Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 24: Berufung von zwei Mitgliedern und einer Stellvertreterin für die Jury Förderpreis für Musik der Land - einstimmig beschlossen
+- TOP 25: Integrierte Quartiersentwicklung „Garath 2.0 – Den Wandel gestalten“ Nachtrag zum Ergänzenden E - einstimmig beschlossen
+- TOP 26: Durchführung der bodentechnischen Aufbereitung von städtischen Flächen im Glasmacherviertel
+- TOP 27: Anträge
+- TOP 27.1: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Keine Pferde im Karneval
+- TOP 27.1.1: ÄA BÜ90/GRÜ: Gemeinsame Lösung für Tierschutz und Brauchtum finden
+- TOP 27.2: Antrag der Ratsfraktion DIE LINKE: Autofreier Tag für Düsseldorf
+- TOP 27.3: Antrag der Ratsfraktion DIE LINKE: Feldversuch zu Fahrscheinlosem ÖPNV in Düsseldorf
+- TOP 27.3.1: Änderungsantrag des Ratsherrn Grenda: Feldversuch zu Fahrscheinlosem ÖPNV
+- TOP 27.4: Antrag CDU: Familienfreundliches Düsseldorf - Still- und Wickelmöglichkeiten verbessern
+- TOP 27.5: Antrag Tierschutz FREIE WÄHLER: Düsseldorf hat ein schlechtes Klima - Rettet die Bäume an der Messe
+- TOP 27.5.1: ÄA BÜ90/GRÜ: Open-Air-Gelände: keine Baumfällungen vor der Baugenehmigung
+- TOP 27.6: Antrag Die Linke: Internationaler Frauentag am 8. März - Einführung eines Feiertages
+- TOP 27.7: Antrag Die Linke: Tempo 30 in der Düsseldorfer Innenstadt
+- TOP 27.8: Antrag der Ratsfraktion DIE LINKE: Trippelsberg 100 - Klagerecht einfordern
+- TOP 27.8.1: ÄA BÜ90/GRÜ: Trippelsberg 100
+- TOP 27.9: Antrag der CDU-Ratsfraktion: Jedem Kind ein Platz an der Clara-Schumann-Musikschule
+- TOP 27.10: Antrag der Ratsfraktionen von CDU, SPD, BÜ90/GRÜ und FDP: Stärkung der Bildungsarbeit in der Mahn- u
+- TOP 28: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 29: Errichtung einer Logistik-Halle mit Bürobereich und LKW-Anlieferungen - Am Trippelsberg 100
+- TOP 30: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
