@@ -1,0 +1,3 @@
+# § 28a Rechts- und Amtshilfe
+(1) Gerichte und Behörden des Landes sind zur Rechts- und Amtshilfe, insbesondere zur Vorlage von Akten und Übermittlung von Dateien, verpflichtet. Soweit personenbezogene Daten betroffen sind, dürfen diese nur für Zwecke der Parlamentarischen Kontrollkommission übermittelt und genutzt werden. Die Regelungen zur Rechts- und Amtshilfe nach Artikel 35 des Grundgesetzes bleiben unberührt.
+(2) Ersuchen nach Absatz 1 an Behörden sind an die zuständige oberste Dienstbehörde, Ersuchen nach Absatz 1 an Gerichte an das jeweilige Gericht zu richten. § 28 Absatz 2 bis 4 bleiben unberührt.
