@@ -1,0 +1,57 @@
+# 17. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-03-23T10:00:00+01:00
+- Ende: 2018-03-23T10:59:00+01:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-VV-35
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-VV-35
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2018-VV-35
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2018-VV-35
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2018-VV-35
+
+## Tagesordnung
+
+- TOP -: Verpflichtung und Verabschiedung
+- TOP -: Tagesordnung
+- TOP -: Fraktionswechsel
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik hier: Beratung und Beschlussfassung 2018
+- TOP 1.2: Kommunaler Straßenbau hier: Unterrichtung und Beschlussfassung
+- TOP 1.3: Förderprogramm 'Radschnellverbindungen/ Nahmobilität 2018' hier: Unterrichtung und Beschlussfassung
+- TOP 1.4: Neuanmeldung einer Maßnahme in den aktuellen ÖPNV-Bedarfsplan
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.5: 9. Änderung des Regionalplans für den Regierungsbezirk Münster Teilabschnitt Emscher Lippe im Gebiet der Stadt Gladbeck Erweiterung des Allgemeinen Siedlungsbereichs (ASB) Aufstellungsbeschluss
+- TOP 1.6: 89. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Kamp-Lintfort hier: Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) mit zweckgebundener Nutzung „Übertägige Betriebsanlagen und -einrichtungen des Bergbaus“ in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gelände des ehema-ligen Bergwerks West in Kamp-Lintfort Aufstellungsbeschluss
+- TOP 1.7: Frühzeitige Unterrichtung zum Regionalplan gem. § 9 Abs. 1 Raumordnungsgesetz
+- TOP 1.8: Anfragen und Mitteilungen
+- TOP -: Anfrage der SPD-Fraktion zur Vorgehensweise zur Einleitung des Erarbeitungsverfahrens des Regionalplans Ruhr
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1.1: Resolution Stärkung der Kommunalfinanzen in den Städten der Metropole Ruhr
+- TOP 2.1.2: Ersatzwahl eines beratenden Mitgliedes der Verbandsversammlung
+- TOP 2.1.3: Umbesetzungen in den Fachausschüssen
+- TOP 2.1.3.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Wechsel im Aufsichtsrat
+- TOP 2.1.3.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Wechsel im Aufsichtsrat
+- TOP 2.1.4: Übersicht über die Fraktionsanfragen aus dem Jahr 2017
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP 2.2: Übertragung von Ermächtigungen aus dem Haushaltsjahr 2017 in das Haushaltsjahr 2018
+- TOP 2.3: Ergänzungsbeschluss Nr. 5 zum Haushalt 2017 (Drucksache 13/0700, VV-Sitzung vom 09.12.2016)
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.4: Beirat Regionaler Diskurs Hier: Personelle Umbesetzung
+- TOP 2.5: Evaluierung und Neufassung der Kriterien zur Anerkennung als Ankerpunkt der Route der Industriekultur
+- TOP 2.6: Weiterentwicklung Regionales Radwegenetz Hier: Netzplanung und weiteres Vorgehen
+- TOP 2.6.1: Anfrage der SPD-Fraktion zur Weiterentwicklung des regionalen Radwegenetzes
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.7: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Übernahme der Anteile der Sythengrund Wasagchemie Grundstücksverwertungsgesellschaft Haltern (WASAG) mbH durch den Kreis Recklinghausen
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.8: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Neufassung der Betriebssatzung
+- TOP 2.8.1: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Änderungen in der Neufassung der Betriebssatzung
+- TOP -: Fraktionsanträge
+- TOP 2.9: Aufnahme des Baukunstarchivs NRW (ehem. Museum Am Ostwall) in die Route der Industriekultur
+- TOP 2.10: Anfragen und Mitteilungen
+- TOP 2.10.1: Anfrage der Fraktion der Piratenpartei vom 20. Februar: Winterdienst auf dem RS1
