@@ -1,0 +1,153 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-03-27T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4637995
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4637995
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 13.13.1: Krüner Str. Fällung zweier Bäume 706 Hr. Bertold
+- TOP 13.13.2: Specklinplatz Fällung eines Baumes 713 Fr. Schoneweg
+- TOP 13.13.3: Waldfriedhofstr. Fällung eines Baumes 715 Hr. Schmidt
+- TOP 13.13.4: Waldfriedhofstr. Fällung zweier Bäume 715 Hr. Schmidt
+- TOP 13.13.5: Billrothstr. Fällung eines Baumes 720 Hr. Egerer
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Vorstellung Bemalung Unterführung-Grasweg
+- TOP 7.7.1: (E) Rabensichere Mülleimer im Westpark Empfehlung Nr. 14-20 / E 00774 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 17.11.2015
+- TOP 9.9.1: (E) Budget der Bezirksausschüsse Hasting Studio für zeitgenössischen Tanz Tanztheater-Projekt „Zeitgeist(er) vom 07.02. - 25.07.2018 2.304,00€ Az. 0262.0-7-0189
+- TOP 9.9.2: Budgetmittel Jahresempfang BA7 2018
+- TOP 9.9.3: (E) Budget der Bezirksausschüsse Kirchenchor St. Philippus Kirchenkonzert in St. Philippus am 25.11.2018 1.350,00€ Az. 0262.0-7-0194
+- TOP 10.10.1: Kurzparkzone vor Luise-Kiesselbach-Platz 35
+- TOP 10.10.2: Busspur in der Fuerstenrieder Strasse einführen
+- TOP 10.10.3: Nutzung der Zelthütten im Westpark
+- TOP 10.10.4: Bus-Anzeiger an der Haltestelle Ortler- / Fuggerstr.
+- TOP 10.10.5: Kunst am Bau im Bereich des Luise-Kiesselbach-Platzes
+- TOP 10.10.6: Ausbau der Buslinie 51-151
+- TOP 10.10.7: IKEA Standort
+- TOP 10.10.8: Fussweg Garmischer-Siegenburger
+- TOP 11.11.1: Bau und Umwelt (19.03.2018) Bildung und Sport Haushalt Parks und Grünanlagen Soziales und Kultur Verkehr (21.03.2018)
+- TOP 12.12.1: Bericht des Vorsitzenden über längerfristige Projekte Beauftragte gegen Rechtsextremismus Behindertenbeauftragte Delegierter aus dem Migrationsbeirat Gleichstellungsbeauftragte Internetbeauftragter Jugendbeauftragte Kinderbeauftragte Mieterbeirat Migrationsbeauftragter REGSAM-Beauftragter Seniorenbeauftragter
+- TOP 14.14.1: Bauvorhaben Dillwächterstr.1-3; Umbau Eingangsbereich Bauvorhaben Uttinger Str.10; Neubau eines MFH mit TG Bauvorhaben Fürstenrieder Str. 229; Neubau eines MFH mit TG Bauvorhaben Trautweinstr. 34; Neubau zweier Stadthäuser mit Garagen Bauvorhaben Ohlenschlager Str. 9; Neubau eines EFH mit Einliegerwohnung und Garage
+- TOP 16.16.1: Veranstaltung Nepalpagode - Vesakhfest
+- TOP 16.16.2: Glaubensverkündigung St.Margaret
+- TOP 16.16.3: Fit-im-Park
+- TOP 17.: Baureferat
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 21.21.1: Kurzparkzone vor der Kita Garmischer Str. 207
+- TOP 21.21.2: Stimmbezirke für Landtagswahl 2018
+- TOP 21.21.3: Standortvorschläge Dialog-Display
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 30.30.1: Amtsblatt
+- TOP 31.: Baureferat
+- TOP 31.31.1: Gefahrenbaumentfernung BSA Surheimer Weg
+- TOP 31.31.2: Gefahrenbaumentfernung Waldfriedhof-/ Ettalstr.
+- TOP 31.31.3: Gefahrenbaumentfernung Kleingartenanlage SiegenburgerStr.
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Budgetbescheid MobilSpiel eV.
+- TOP 33.33.2: Budgetbescheid Freunde-der-Kirchenmusik St.Heinrich
+- TOP 33.33.3: Budgetbescheid Maibaumverein Sendling -Westpark
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Klingerstr. Sperrung wegen Bauarbeiten
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Ergänzungen Tram-Westtangente
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: MIP 2017-2021 SV 14-20 / V 10352
+- TOP 39.39.2: Zahl der Schülerinnen , Schüler und Klassen an Berufsschulen SV 14-20 / V 10659
+- TOP 39.39.3: Investionskosten beim Bau nichtstädt. Kitas Sv 14-20 / V 10798
+- TOP 39.39.4: Zahl der Schüleriinnen, Schüler und Klassen an Gymnasien SV 14-20 / V 10895
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Jahrestreffen-Informationsaustausch mit Plan-Ref
+- TOP 41.41.2: Neue Gebietskategorie im Baurecht SV 14-20 / V 7964
+- TOP 41.41.3: Wochenmarktbeobachtung München SV 14-20 / V 10503
+- TOP 41.41.4: Direkter Austausch des Stadtrates mit der Stadtverwaltung SV 14-20 / V 9931
+- TOP 41.41.5: Perspektive München; Fortschreibung Hochhausstudie SV 14-20 / V 10915
+- TOP 41.41.6: Wohnungsmarkt München- Expertenbefragung 2017 SV 14-20 / V 10715
+- TOP 41.41.7: Grundsatzbeschluss zur Förderung des Radverkehrs in München SV 14-20 / V 9964
+- TOP 41.41.8: Vermeidung des Ausverkaufs unser Stadt an ausländische Investoren SV 14-20 / V 10713
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Vollzug Erhaltungssatzung
+- TOP 42.42.2: Zweckentfremdungen
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 45.: Baureferat
+- TOP 45.45.1: Umgestaltung der Einmündung Johann-Clanze-Str. /Luise-Kiesselbach-Platz
+- TOP 45.45.2: Umlaufsperre am Geh- / Radweg über den Pfrontener Platz
+- TOP 45.45.3: Fristverlängerung BA-Antrag "Lärmschutz für die Anwohnerinnen und Awohner im Max-Seidl-Weg"
+- TOP 45.45.4: Baumfällungen Waldfriedhof-/Ettalstr.
+- TOP 45.45.5: Baukostenschätzung Lärmschutzwände A 95
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 46.46.1: Netto-markt Waldfriedhofstr
+- TOP 47.: Direktorium
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Verkehrsrechtlcihe Anordnung Eduard-Stadler-Winkel / Pfrontener Platz
+- TOP 49.49.2: Verkehrsrechtliche Anordnung Adi-Maislinger-Str. - Wendehammer.
+- TOP 49.49.3: Verkehrsrechtliche Anordnung Kurzparkzone-ICP Garmischer Str.241
+- TOP 49.49.4: Drehgenehmigung Westpark
+- TOP 49.49.5: Einbeziehungder Ehrwalder Str. im Bereich zwischen Fürstenrieder und Werdenfels-/ Gilmstraße in die bestehende Tempo-30-Zone
+- TOP 49.49.6: Zeitliche Beschränkung für die Nachrückerplätze am Taxistand Partnachplatz auf Montag bis Freitag von 8 bis 14 Uhr
+- TOP 49.49.7: VVB-Bescheid Vesakhfest-2018
+- TOP 49.49.8: VVB-Bescheid Westparklauf ESV-Neuaubing
+- TOP 49.49.9: VVb-Bescheid Shakespeare Theater
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Trassierungsbeschluss Trambahn-Westtangente
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Planungsstand Sanierung Gilmschule
+- TOP 53.53.2: Mittagsbetreuung nicht als Ganztagesbetreuung werten
+- TOP 53.53.3: Parkplätze BSA Siegenburger
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: MIP-Lärmschutz A95 und A96
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Vollzug der BaumschutzVO Heiterwanger Str.
+- TOP 55.55.2: Baubescheid Graswanger Str.
+- TOP 55.55.3: Bescheid zur Nutzungsänderung Hansastr.5
+- TOP 55.55.4: Zwischennachricht BV-Empfehlung Fußgänger am Partnach Platz
+- TOP 55.55.5: Verhandlungen mit oBike aufnehmen: Nutzung des öffentlichen Raums muss geregelt werden
+- TOP 55.55.6: Baubescheid Fürstenrieder Str. - Kiga Wichtelakademie
+- TOP 56.: Sozialreferat
+- TOP 57.57.1: Serviceangebot Stadtsparkasse im BA-Gebiet
+- TOP 57.57.2: MIP-Stellungnahme BA
