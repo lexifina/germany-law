@@ -1,0 +1,8 @@
+# TOP 1: Skateplatz im Dresdner Norden
+
+- Sitzung: 43. Sitzung des Ausschusses für Petitionen und Bürgerbeteiligung (2018-03-28)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/100367
+- Ergebnis: Wiedervorlage
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/31029
