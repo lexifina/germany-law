@@ -1,0 +1,1 @@
+Auf Grund des Art. 21 Abs. 1 Satz 1 des Kostengesetzes vom 20. Februar 1998 (GVBl S. 43, BayRS 2013-1-1-F), zuletzt geändert durch Art. 21 des Gesetzes vom 24. Dezember 2002 (GVBl S. 937), erlässt das Bayerische Staatsministerium für Umwelt, Gesundheit und Verbraucherschutz im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
