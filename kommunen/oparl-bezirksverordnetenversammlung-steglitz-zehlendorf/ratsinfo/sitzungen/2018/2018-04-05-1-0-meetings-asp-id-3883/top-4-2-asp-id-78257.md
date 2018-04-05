@@ -1,0 +1,7 @@
+# TOP 4.2: 2. Fortschreibung der Globalsummenzuweisung 2018
+
+- Sitzung: 20. öffentliche Sitzung des Ausschusses für Haushalt, Personal und Verwaltungsmodernisierung (2018-04-05)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=78257
+- Ergebnis: im Ausschuss abgelehnt
