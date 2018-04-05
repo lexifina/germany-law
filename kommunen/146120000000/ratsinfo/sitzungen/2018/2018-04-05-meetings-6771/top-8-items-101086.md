@@ -1,0 +1,6 @@
+# TOP 8: Vorschläge für die Fortschreibung des Sitzbankkonzeptes
+
+- Sitzung: 42. Sitzung des Ortschaftsrates Mobschatz (2018-04-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/101086
