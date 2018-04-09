@@ -1,0 +1,76 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4596934
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4596934
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Gräfelfinger Straße 159, 3 Eschen
+- TOP 7.1.2.: Heigelhofstraße 86, 1 Kirsche
+- TOP 7.1.3.: Marchioninistraße 15, 14 Spitzahorn
+- TOP 7.1.4.: Primelstraße 1 - 3, 1 Thuja
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.2.: Broschüre "Wohnungsmarktbeobachtung München, Kleinräumige Strukturdaten 2016 für die Stadtbezirke" (Referat für Stadtplanung und Bauordnung, 08.03.18)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Ertüchtigung / Neubau eines Streetballplatzes auf der Grünanlage "Am Wiesenhang / Platanenstraße"
+- TOP 1.2.: Taubenplage in der Guardinistraße beim Sparkassenautomat
+- TOP 1.3.: Tiefgaragenzufahrt Stiftsbogen 29 - 43
+- TOP 5.1.: Budget der Bezirksausschüsse, Maibaumverein Sendling-Westpark e.V., Aufstellung eines Maibaums am 01.05.2018, 2.668,75 € (Direktorium, 08.03.18)
+- TOP 5.2.: Zebrastreifen über Waldwiesenstraße Höhe Bushaltestelle „Am Ährenfeld“ (Kreisverwaltungsreferat, 22.03.18)
+- TOP 6.1.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Private Flohmärkte am 14.04., 26.05., 23.06., 28.07.18, Ersatztermine: 15.09. und 13.10.18 (Kreisverwaltungsreferat, 21.03.18) Eilentscheidung BA-Vorsitzender: Zustimmung
+- TOP 6.2.: Verkehrsrechtliche Anordnung, hier: Radverkehr; Schutzstreifen für den Radverkehr in der Terofalstraße zwischen Silberdistelstraße und Blumenauer Straße und in der Blumenauer Straße zwischen Terofalstraße und Rolf-Pinegger-Straße (Kreisverwaltungsreferat, 20.03.18)
+- TOP 6.3.: Änderung der BA-Satzung: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen, Antrag BA 16 Ramersdorf-Perlach (Direktorium, 26.03.18)
+- TOP 6.4.: Tischtennisplatte am südlichen Ende der Prälat-Wellenhofer-Straße (Baureferat, 27.03.18)
+- TOP 6.5.: Stadtbezirksbudget für München, Anhörung der Bezirksausschüsse (Direktorium, 28.03.18)
+- TOP 7.2.1.: Stiftsbogen 74, 1 Birke (Referat für Stadtplanung und Bauordnung, 03.04.18)
+- TOP 7.4.1.: Kornwegerstraße 42 b, 1 Kastanie und 1 Eiche (Referat für Stadtplanung und Bauordnung, 15.03.18)
+- TOP 7.4.2.: Am Hedernfeld 13 - 17, 21, 1 Bergahorn und 1 Säuleneiche (Referat für Stadtplanung und Bauordnung, 15.03.18)
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, hier: Kurparkstraße 60; Strom (SWM, 12.03.18)
+- TOP 8.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV / Verlängerung, Betrieb von Müllsammelfahrzeugen (Referat für Gesundheit und Umwelt, 23.03.18)
+- TOP 8.3.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge März 2018 (Sozialreferat, 23.03.18)
+- TOP 9.1.: Zwischennachricht: Neugestaltung des Internetauftritts der Landeshauptstadt München, Empfehlung Nr. 1736 (IT-Referat, 14.03.18)
+- TOP 11.1.: DB Bahnsteighöhenkonzept (Behindertenbeirat der LH München, 08.03.18)
+- TOP 11.3.: Einsatz für eine strengere Ausgestaltung der Härtefallregelung im Ausführungsgesetz zum Glücksspielstaatsvertrag (BA 17 Obergiesing-Fasangarten, 14.03.18)
+- TOP 11.4.: Gedenkveranstaltung zum 80. Jahrestag des 9. November 1938, "Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn" (Arbeitsgruppe "Gedenken an den 09. November 1938", 15.03.18)
+- TOP 11.5.: Einladung zum 35. Treffen der Gleichstellungsbeauftragten in den Bezirksausschüssen am 12.04.2018; Protokoll des 34. Treffens vom 08.02.2018 (Gleichstellungsstelle für Frauen, 08.03.18)
+- TOP 11.6.: IsarCard 60 (BA 13 Bogenhausen, 13.03.18)
+- TOP 1.1.1.: Beschluss vom 21.02.2018: Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Hinweis / Ergänzung vom 02.03.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2018: Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2018: Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2018: PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 2.2: Referentenanträge
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 16.01.2018: Barrierefreiheit der U-Bahnhöfe - Beschlussvollzugskontrolle Bericht über das Pilotprojekt der SWM; Finanzierung
+- TOP 3.2: Referentenanträge
+- TOP 4.1.: Ergänzung vom 28.02.2018 zur Bekanntgabe im Bildungsausschuss vom 07.03.2018: Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 4.2.: Bekanntgabe im Bildungsausschuss vom 07.03.2018: Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 4.3.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 07.03.2018: Wohnungsmarkt München - Expertenbefragung 2017
