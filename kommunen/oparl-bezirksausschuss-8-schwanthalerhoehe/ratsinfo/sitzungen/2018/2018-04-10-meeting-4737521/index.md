@@ -1,0 +1,51 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737521
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737521
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Verkehr - Haltestelle Bus 153 Donnersberbrücke und Fußgängerüberweg Trappentreustraße
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Nutzungsänderung Ligsalzstr. 5
+- TOP 6.3.3.: Nutzungsänderung Tulbeckstr. 10
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: Gedenkveranstaltung zum 80. Jahrestag des 09. November 1938
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Aktuelle Liste und Karte mit Standorten für Flüchtlinge und Wohnungslose
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Antrag BA 13; IsarCard 60
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Radverkehrsführung Theresienhöhe
+- TOP 8.3.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes Westendstr. 14
+- TOP 8.3.3.: Filmaufnahmen Grünanlage Georg-Freundorfer-Platz
+- TOP 8.3.4.: MVG - "Stöpsel" Trappentreustraße
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Forschungsprojekt Initiative Gender/Frausein in Literatur und Theater Eine Reflexion zum Thema Frausein 2.890,00€ Az. 0262.0-8-0142
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Erläuterungstafeln für den Angelika-Lex-Weg
