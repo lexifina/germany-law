@@ -1,0 +1,64 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-10T14:05:00+02:00
+- Ende: 2018-04-10T15:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18753
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18753
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00657276.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00657276.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00657276.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung von Kindertagesstätten in den Bereichen plusKita und Sprachförderung - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Verwendung von Zuschussmitteln aus den Veränderungsnachweisen zum HPL 2018 - geändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Offene Ganztagsschule im Primarbereich ab dem Schuljahr 2018/2019 - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Einrichtung von Kinderfeuerwehren - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Entwicklung Stadtteilmütter-Projekt in Mülheim - Sache ist erledigt
+- TOP -: Entwicklung Stadtteilmütter-Projekt in Mülheim, Beantwortung der Anfrage der CD-Fraktion im Rat der Stadt Köln und der Fraktion Bündnis 90/Die Grünen im Kölner Rat gem. § 4 der GeschO des Rates CDU (AN/0248/2018) - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Jugendhilfeplanung in der Kindertagesbetreuung für das Kindergartenjahr 2018/19 Session 3724/2017 - Kenntnis genommen
+- TOP 7.1.2: Landesprogramm "Kinderbetreuung in besonderen Fällen für Kinder aus Flüchtlingsfamilien und vergleichbaren Lebenslagen" /Brückenprojekte (3362/2017) - Kenntnis genommen
+- TOP 7.1.3: Sonderförderung für offene Ganztagsschulen in Wohnbereichen mit besonderem Jugendhilfebedarf - Kenntnis genommen
+- TOP 7.1.4: Bestandsaufnahme betriebsnahe Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Bestellung beratender Mitglieder für den Jugendhilfeausschuss nach der städtischen Hauptsatzung - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Städtische Kindertageseinrichtungen im Bundesprogramm „Sprach-Kitas: Weil Sprache der Schlüssel zur Welt ist“ - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Bearbeitung von Beschwerden über die Arbeit des Allgemeinen Sozialen Dienstes (ASD), des Pflegekinderdienst (PKD) sowie des Gefährdungsmeldungs-Sofort-Dienstes (GSD) - Kenntnis genommen
+- TOP 8.3.2: Studie zur Entwicklung der Gewalt in Deutschland - Kenntnis genommen
+- TOP 8.3.3: Fall-und Kostenentwicklung im Bereich Hilfen zur Erziehung 2017 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Jugendtreff Grembox in Porz- Gremberghoven - Kenntnis genommen
+- TOP 8.4.2: Kinder- und jugendfreundliches Köln - Rückblick auf die Siegelverleihung und Sachstand zum 27.03.2018 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Beantwortung der Anfrage AN/0092/2018 betr.: "Gegen jeden Antisemitismus - welche Projekte fördert Köln?" - Kenntnis genommen
+- TOP 8.5.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 8.5.3: Berichtswesen Dezernat IV - Teilbericht Jugendhilfeausschuss 2017 - Kenntnis genommen
+- TOP 8.5.4: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2017 und Kölner Sprachfest 2018 - Kenntnis genommen
