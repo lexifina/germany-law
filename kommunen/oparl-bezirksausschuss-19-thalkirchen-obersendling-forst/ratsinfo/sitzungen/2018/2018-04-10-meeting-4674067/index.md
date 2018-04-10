@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-04-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 06.03.2018
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.5.: Sperrung Schaffhauser Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: A) Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Richtlinien zur Verwendung des Stadtbezirksbudgets
+- TOP 3.3.: (Antrag) Verwendung des Stadtbezirksbudgets
+- TOP 3.4.: Obersendlinger Freiraumsommer 2018
+- TOP 3.5.: (E) Budget der Bezirksausschüsse amanda - Projekt für Mädchen und junge Frauen, Vfpl e.V. Ausstellung mit 10 Plakaten ab dem 13.04.2018 2.000,00€ Az. 0262.0-19-0208
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Cowboy Club München 1913 e.V. Tag der offenen Tür am 14. und 15.07.2018 1.500,00€ Az. 0262.0-19-0207
+- TOP 3.7.: (E) Budget der Bezirksausschüsse Verein zur Förderung der Grundschule an der Samberger Straße München e.V. MFM -My Fertility Matters -Körper Wunder Werkstatt Workshop 520,00€ Az. 0262.0-19-0204
+- TOP 3.8.: (E) Budget der Bezirksausschüsse Maibaumverein Sendling-Westpark e.V. Aufstellung eines Maibaums am 01.05.2018 2.668,75€ Az. 0262.0-19-0209
+- TOP 3.9.: (E) Budget der Bezirksausschüsse Andreas Gospel Singers Verein Anschaffung von Lautsprecher-Boxen 1.746,00€ Az. 0262.0-19-0206
+- TOP 3.10.: (E) Budget der Bezirksausschüsse Heimat und Trachtenverein D&#039;Elbachtaler Solln Sanierung der Vereinsfahne 1.500,00€ Az. 0262.0-19-0211
+- TOP 3.11.: (E) Budget der Bezirksausschüsse Freunde des Ortskerns Forstenried e.V. Forstenrieder Dorffest 1.425,00€ Az. 0262.0-19-0213
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 4.4.: (Antrag) Hundekotbeutelspender in Solln
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Teilnahme am zweijährigen Versuch von Dialog-Displays im Bereich der Herterichstraße/ Konrad-Witz-Straße, Maria-Einsiedel-Straße und Wilhelm-Leibl-Straße
+- TOP 5.1.2: Verlagerung der Kurzparkzone in der Wolfratshauser Straße - von der westlichen auf die östliche Seite
+- TOP 5.1.3: Lärmschutz an der BAB 95 Ziffern 2, 3 und 5
+- TOP 5.1.4: Lärmschutz an der BAB 95 Ziffern 1, 4 und 5
+- TOP 5.1.5: Parkplatzbeleuchtung an der Bezirkssportanlage in der Graubündener Straße 100
+- TOP 5.3.: (A) Abfrage von Standortvorschlägen zum Einsatz von Dialog-Displays
+- TOP 5.4.: (A) Satzungsänderung: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen (Antrag BA 16)
+- TOP 5.6.: (Antrag) Radweg Züricher Straße
+- TOP 5.7.: (Antrag) Parksituation auf der Siemensallee
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.3.: Resolution: Fehlende Infrastruktur im 19. Stadtbezirk
+- TOP 6.4.: (Antrag) Strengere Härtefallregelung bei Spielhallen (Antrag BA 17)
+- TOP 6.5.: (Antrag) Grundstückstausch Forstenried
+- TOP 6.6.: (Antrag) Wochenmarkt Fürstenried-Ost
+- TOP 7.1.: (Antrag) Bewerbung für die Aktion "Vom Weltspieltag zum Weltkindertag 2019"
+- TOP 7.2.: (A) Errichtung eines Hauses für Kinder am Südpark (WA 1.1) – Genehmigung des Nutzerbedarfsprogrammes
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Maifest am Thalkirchner Platz vom 10.05. bis 13.05.2018
+- TOP 8.3.: (A) Veranstaltung: Riesenkicker Miesingstraße/Schmiedberg/Kirchweg am 11.06.2018
+- TOP 8.4.: (A) Veranstaltung: Tag der offenen Tür des BRK in der Perchtinger Straße am 05.05.2018
