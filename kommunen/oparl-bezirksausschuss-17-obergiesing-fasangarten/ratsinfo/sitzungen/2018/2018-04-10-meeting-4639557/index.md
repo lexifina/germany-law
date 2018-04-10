@@ -1,0 +1,165 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4639557
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4639557
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Migration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Schaffung eines sicheren Straßenüberganges an der Ecke Warngauer Str. / Untersbergstr.
+- TOP 2.1.2.2.: Ramadama in der Amisiedlung
+- TOP 2.1.2.3.: Hunde im AGFA - Park
+- TOP 2.1.2.4.: Red Dragon - Schreiben von den Kindern und Jugendlichen des Jugendzentrums
+- TOP 2.1.2.5.: Strassensituation Fasangarten
+- TOP 2.1.2.6.: Rechtsabbiegepfeil an der Kreuzung Fasangartenstr. / Balanstr.
+- TOP 2.1.2.7.: IWAP - Schreiben gegen die Planung eines Radschnellweges am General-Kalb-Weg
+- TOP 3.9.1.1.: Maxlrainstr. 1-7
+- TOP 4.1.: Behälter für Altkleider im Fasangarten und am Giesinger Bahnhof (FF UA Umwelt)
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Giesinger Mäddchen-Treff Stadtteilerkundung "Natur in Giesing" und Erstellung einer Ausstellung 635,00€ Az. 0262.0-17-0161
+- TOP 5.1.2.: Entscheidung über die Finanzierung des Jahresempfangs 2018 ______ €
+- TOP 5.1.3.: (E) Budget der Bezirksausschüsse Tanzsportgemeinschaft München e.V. Anschaffung von Trikots 1.200,00€ Az. 0262.0-17-0162
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Edelweißstr. 4, Ausbau des Dachspeichers über zwei Ebenen, Errichtung dreier Wohnungen, Dachterrassen im Hinterhaus bzw. auf dem Treppenhaus, Balkonvergrößerungen, Anbau eines Aufzugs, Nutzungsänderung Wohnung 3 im EG unter Einbeziehung von Nebenflächen im UG für soziale Zwecke, Anbau eines Wintergartens (als separater Zugang) (vertagt aus Sitzung 11/17, 12/17, 01/18, 02/18 und 03/18)
+- TOP 6.1.3.2.: Bodelschwinghstr. 4 - Anbau an ein Reihenhaus
+- TOP 6.1.3.3.: Tegernseer Landstr. 223a und andere - Sanierung, provisorische Nutzungsänderung für das POlizeipräsidium München - Verlängerung der befristeten Nutzung
+- TOP 6.1.3.4.: Personenbeförderungsgesetz (PBefG); Straßenbahn München; Antrag auf Plangenehmigung zur Errichtung von provisorien auf dem Gelände der Straßenbahnhauptwerkstätte Ständlerstr.
+- TOP 6.1.3.5.: Bebauungsplan mit Grünordnung Nr. 1807; McGraw - Grundsatz- und Eckdatenbeschluss
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baulisten
+- TOP 6.1.4.2.: Vollzug der Erhaltungssatzung, St.-Martin-Str. 18, 2. OG Rechts
+- TOP 6.1.4.3.: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 6.1.4.4.: Antrag auf Kauf oder Pacht des Grundstücks in der Amerstorfer Straße in 81549 München durch die Landeshauptstadt München mit Wiederherstellung eines Spielplatzes
+- TOP 6.1.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.6.: Watzmannstr. 1; Vorkaufsrecht nach dem BauGB
+- TOP 6.1.4.7.: Vollzug der Erhaltungssatzung, Watngauer Str. 20, 3. OG Rechts
+- TOP 6.1.4.8.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 6.1.4.9.: Vollzug der Erhaltungssatzung, Forggenseestr. 32-40, Trauchbergstr. 8-10, Weißenseestr. 30-40
+- TOP 6.1.4.10.: Vorkaufsrecht nach dem BauGB (z.B. Watzmannstr. 1)
+- TOP 6.1.4.11.: Vollzug der Erhaltungssatzung, WSB Bayern - Wohnanlagen in Erhaltungssatzungsgebieten
+- TOP 6.1.4.12.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2017/2018 Stand: 20.10.2017
+- TOP 6.2.4.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, anden städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2017/2018
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: Einsatz von Dialog-Displays im Rahmen eimes zweijährigen Versuchs Abfrage von Standortvorschlägen
+- TOP 6.3.2.2.: Bitte um Unterstützung: BA-Antrag Nr. 14-20 / B0465 vom BA 13 Bogenhausen - Isarcard 60
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Spurlinienführung Tegernseer Landstr.
+- TOP 6.3.4.2.: Abstimmung der Standorte des Fahrradverleihsystems Obike mit den Bezirksausschüssen und Einhaltung des Datenschutzes bei der Ausleihe
+- TOP 6.3.4.3.: Verkehrssituation Traunsteiner Str.
+- TOP 6.3.4.4.: (U) Grundsatzbeschluss zur Förderung des Radverkehrs in München Fortschreibung und Radverkehrsbericht 2017 54 Anträge und Empfehlungen
+- TOP 6.3.4.5.: Programm Barrierefreie Bushaltestellen - Giesing Bahnhof
+- TOP 6.3.4.6.: Programm Barrierefreie Bushaltestellen - Werinherstr.
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Bau der Toilettenanlage im Weißenseepark
+- TOP 6.4.4.2.: Abfallbehälter und Adchenbecher vor der neuen Stadtbibliothek
+- TOP 6.4.4.3.: Cincinnatistr. 31-55, Leifstr. 7-35, Bescheid über Baumfällung
+- TOP 6.4.4.4.: Messstellen von Luftschadstoffen
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.2.1.: Gedenkveranstaltung zum 80. Jahrestag der Pogromnacht vom 9. November 1938
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Tag des offenen Denkmals 2018 (Anmeldefrist hat begonnen)
+- TOP 6.5.3.2.: Gietlstr. 2, Veranstaltung auf Privatgrund: Giesinger Kirchplatzfest vom 06. - 08.07.2018
+- TOP 6.5.3.3.: Martin-Luther-Str. 2 Anhörung zur Veranstaltung auf öff. Verkehrsgrund: Lange Nacht der Brauereien vom 20-21.Juli 2018
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Hörspielcontainer am Giesinger Bahnhofplatz Bescheid
+- TOP 6.5.4.2.: Verwendungsnachweise
+- TOP 6.5.4.3.: (E) "Sport im Park" auch in der Siedlung am Perlacher Forst abhalten
+- TOP 6.5.4.4.: 1. Mehr Klarheit über Hallenbedarfe von Giesinger Vereinen und Sportgruppen2. Hallennutzung an der Europäischen Schule
+- TOP 6.5.4.5.: Bericht St.-Quirin-Fest 06.07.2017
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Knappe Parkfläche besser nutzen! - Antrag der Fraktion B90 Die Grünen im Bezirksausschuss 17 Obergiesing-Fasangarten
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Erneute Vorlage: Der Dantler GmbH
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 6.6.4.2.: Kennzeichnung der Aufstellflächen von Warenstellagen
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei Größeren Baumaßnahmen BA-Antrag Nr. 14-20 / B 04002 des BA 16 Ramersdorf-Perlach
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
