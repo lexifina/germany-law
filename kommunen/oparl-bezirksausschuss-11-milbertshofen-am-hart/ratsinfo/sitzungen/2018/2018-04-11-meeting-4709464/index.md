@@ -1,0 +1,81 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709464
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709464
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Einführung von einer Terminvereinbarung im Bürgerbüro Riesenfeldstr.
+- TOP 4.2.1.: Lerchenauer Str. 65 - Ehemaliger Busbahnhof Olympiazentrum - Antwortschreiben
+- TOP 4.2.2.: Aufstellen eines öffentlichen Abfalleimers mit Aschenbecher an der Ampel Lieberweg vor dem Anwesen Lieberweg 42
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse kick it international e.V. Großer Familientag am 01.05.2018 2.495,00€ Az. 0262.0-11-0275
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Sommerfest am 24.07.2018 936,08€ Az. 0262.0-11-0276
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis: Knorrstr. 91 - Genehmigung einer Freischankfläche
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Anbringen eines Verkehrsspiegels an der Kurve Thalhoferstr. / Bernaysstr.
+- TOP 7.4.2.: Kreuzung Knorrstr. / Illungshofstr.: Vorgezogene Haltelinie an der Südseite prüfen
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen sowie Baumaßnahmen
+- TOP 8.1.2.: Stadtbezirksbudget für München
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Am Oberwiesenfeld - Neubau öffentl. Grünfläche mit Ausgleichsfläche im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2073 Sitzungsvorlage Nr. 14-20/ V 11045
+- TOP 8.2.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne
+- TOP 8.2.3.: Bauvorhaben und Nutzungsänderungen: a) Max-Diamand-Str. 7 - Umbau und Erweiterung eines Bürogebäudes mit TG b) Mortonstr. 17-19 - Neubau von 3 Wohngebäuden mit TG c) Lauchstädter Str. 5-11 - Neubau eines Büro-und Gewerbegebäudes sowie Boardinghouses mit TG
+- TOP 8.2.4.: Vollzug der Baumschutzverordnung - Baumfällungen: a) Heidemannstr. 40 b) Griegstr. 22-24 c) Egerlandstr. 7 d) Helene-Mayer-Ring 23 e) Moosacher Str. 42-44 f) Milbertshofener Str. 49, 51, 53, 55 g) Leopoldstr. 251 h) Josef-Ressel-Str. 11a i) Schleißheimerstr. 426-432 j) Straßbergerstr. 139
+- TOP 8.2.5.: Neue Regeln für den Betrieb von Spielhallen - Unterstützung des BA-Antrag Nr. 14-20 / B04348
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Sammelgenehmigung für Spielaktionen der AG Spiellandschaft Stadt 2018
+- TOP 8.3.2.: Veranstaltung "Olympia-Alm-Crosslauf" im Olympiapark am 18.11.2018
+- TOP 8.3.3.: Veranstaltung "Mobilspiel und Drachenfest" auf der Nordhaide, Freitags vom 4.5.-26.10.18
+- TOP 8.3.4.: Veranstaltung "Pfarrfest" am Milbertshofener Platz 2 am 03.06.2018
+- TOP 8.3.5.: Anfrage zur Durchführung einer Gedenkveranstaltung im 11. Stadtbezirk Milbertshofen-Am Hart
+- TOP 8.3.6.: Kämpferstr. 55 - Erweiterung/Außenstelle der Familienangebote des Mehrgenerationenhauses "Unter den Arcaden"/ETC (MGH)
+- TOP 8.3.7.: Veranstaltung "Halbmarathon" im Olympiapark am 28.04.2018
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Einsatz von Dialog-Displays - Abfrage von Standortvorschlägen (2-jähriger Versuch)
+- TOP 8.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Rockingerstraße - Absolutes Haltverbot b) Bad-Soden-Straße 52 - Verlängerung des Zeitraums für die Anfahrtszone
+- TOP 8.4.3.: IsarCard 60 - Unterstützung des BA-Antrag Nr. 14-20 / B04654
+- TOP 9.1: Plenum
+- TOP 9.1.1.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: Kulturverein Olympiadorf e.V.
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV: a) Riesenfeldstr. 50 - Ablehnung der Baumfällung b) Wachterstr. 3 - Ablehnung der Baumfällung c) Anton-Will-Str. 9 - Ablehnung der Baumfällung d) Knorrstr. 89 - Ablehnung der Baumfällung
+- TOP 9.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3.: Einbindung der Bezirksausschüsse in die Verfahren des Baureferates bei Investitionen und Unterhalt
+- TOP 9.2.4.: Meldelisten Bauvorhaben vom 29.01. bis 18.03.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Neubau eines Städtischen Tagesheims in der Fröttmaninger Str. 21
+- TOP 9.3.2.: (U) Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zur Fortschreibung im Bauprogramm 2013/2014 und 2016 - Fortschreibung im Bauprogramm 2017 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2017-2021
+- TOP 9.3.3.: Mietgerechtigkeit - SZ-Datenerhebung
+- TOP 9.3.4.: Vollversammlung des Migrationsbeirats der LHM - Genitale Beschneidung von Frauen
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: DB Bahnsteighöhenkonzept
+- TOP 9.4.2.: Einrichtung der Anfahrtszone Bernaysstr. 27
