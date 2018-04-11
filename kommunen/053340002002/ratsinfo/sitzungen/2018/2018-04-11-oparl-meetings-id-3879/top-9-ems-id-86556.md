@@ -1,0 +1,9 @@
+# TOP 9: Vorstellung des Discovering Natural Latent Abilities (DNLA)-Verfahrens und mögliche Kooperationen(Tagesordnungsantrag von CDU und SPD vom 28.11.2017)
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Ausschusses für Arbeit, Wirtschaft und Wissenschaft (2018-04-11)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=86556
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=25055&bi=16695
+- Beschluss (Datei): Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=302135&DOCTYP=138&OTYP=41&ANNOTS=1
