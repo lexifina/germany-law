@@ -1,0 +1,119 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2018-04-11T17:10:00+02:00
+- Ende: 2018-04-11T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4406
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4406
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=275193
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Islamistische Szene an Reinickendorfer Schulen - beantwortet
+- TOP 2.2: Gefährdung von Jungtieren am Schäfersee - beantwortet
+- TOP 2.3: Bevorzugung bei Renovierungen von Schulen - erledigt
+- TOP 2.4: Mittel für Wechselpflanzungen - erledigt
+- TOP 2.5: Mittel für Asylbewerber - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 19. Sitzung der BVV am 11.04.2018 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Sachstand bei den MuFs in Reinickendorf - beantwortet
+- TOP 4.2: Grundstück Karolinenstraße - beantwortet
+- TOP 4.3: Rattenplage in der Neheimer Straße - beantwortet
+- TOP 4.4: Standort MUF - beantwortet
+- TOP 4.5: Rote Telefonzelle - schriftlich beantwortet
+- TOP 4.6: Gehalt Bürgeramtsmitarbeiter - schriftlich beantwortet
+- TOP 4.7: Befahrung der Lübarser Höhe - schriftlich beantwortet
+- TOP 4.8: Fußgängerbrücke zur Humboldtinsel - schriftlich beantwortet
+- TOP 4.9: Sanierungsstau Kulturimmobilien - schriftlich beantwortet
+- TOP 4.10: Bauarbeiten B96 - Hermsdorf - schriftlich beantwortet
+- TOP 4.11: Abgesenkte Bordsteinkanten - schriftlich beantwortet
+- TOP 4.12: Ratten in Tegel-Süd - beantwortet
+- TOP 4.13: Instandhaltung Rathaus Reinickendorf - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Hauptverkehrsstraßen leistungsfähig halten (Beschlussempfehlung) - vertagt
+- TOP 5.2: Verkehrsinfarkt verhindern 9 - Kein Rückbau der Hauptverkehrsstraßen (Beschlussempfehlung) - vertagt
+- TOP 5.3: Anmeldezahlen für das neue Schuljahr (Große Anfrage) - vertagt
+- TOP 5.4: Kita-Bedarf (Große Anfrage) - vertagt
+- TOP 5.5: Wahl der Vertrauenspersonen für den beim Amtsgericht Tiergarten zu bildenden Ausschuss gemäß § 40 des Gerichtsverfassungsgesetzes (Vorlage zur Beschlussfassung) - gewählt
+- TOP 5.6: Grundschulmesse (Beschlussempfehlung) - vertagt
+- TOP 5.7: Bürgerbeteiligung bei zukünftigen Asylbewerberheimen und Flüchtlingsunterkünften (Beschlussempfehlung) - vertagt
+- TOP 5.8: Bürgerbeteiligung bei Unterkünften für Geflüchtete ausweiten (Beschlussempfehlung) - vertagt
+- TOP 5.9: Umleitungsbelastungen in Heiligensee vermeiden (Beschlussempfehlung) - vertagt
+- TOP 5.10: P+R Waidmannslust (Antrag) - vertagt
+- TOP 5.11: Transparente und verantwortliche Wahlverfahren für ehrenamtlich tätige Bürgerinnen und Bürger (Ersuchen) - überwiesen
+- TOP 5.12: Ausreisepflichtige Asylsuchende konsequent abschieben (Empfehlung) - überwiesen
+- TOP 5.13: Prüfung der Niederschlagsentwässerung während der Sanierung der A111 (Empfehlung) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Schutzstreifen Hennigsdorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Dringenden Bedarf eines Grundschulneubaus in Reinickenorf-Ost anerkennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Wahlen zur Seniorenvertretung vorbereiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Verkehrsregelverstöße in der Siedlung "Roter Adler" verstärkt kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Ausweitung der Tarifzone B bei der S-Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Zusätzliche Atelierflächen - überwiesen
+- TOP 7.7: 2. Ein-/Ausgang S-Bahnhof Alt-Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Falschparken am Wilhelmsruher Damm kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Bolzplätze in Reinickendorf auch an Sonn- und Feiertagen öffnen - überwiesen
+- TOP 7.10: Wegweiser in den Reinickendorfer Forsten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Jahresbericht der Patientenfürsprecherin aus dem Vivantes Humboldt-Klinikum - Psychiatrie, Psychotherapie und Psychosomatik für das Jahr 2017 - überwiesen
+- TOP 7.12: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldt-Klinikum (somatischer Bereich) für das Jahr 2017 - überwiesen
+- TOP 7.13: Jahresbericht des Patientenfürsprechers aus dem Dominikus-Krankenhaus Berlin für das Jahr 2017 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Saubere Spielplätze in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Aufenthaltsqualität im Volkspark Wittenau erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Barrierefreie Angebote auf Reinickendorfer Spielplätzen erweitern - erledigt
+- TOP 10.4: Vorstellung Spielplatzentwicklungsplan - vertagt
+- TOP 10.5: Reinickendorfs Kita-Kinder lernen Schlittschuhlaufen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Paul Löbe Schule als Inklusive Schwerpunktschule voranbringen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bezirklicher Fuhrpark - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Barrierefreier Livestream - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: WLAN-Zugang im Rathaus für alle Fraktionen und die Seniorenvertretung - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Berlin Bird wieder herrichten - in der BVV abgelehnt
+- TOP 10.11: E-Sport I - in der BVV abgelehnt
+- TOP 10.12: Verbesserung der Situation für Patienten im Humboldt Klinikum - erledigt
+- TOP 10.13: Parken im Frohnauer Zentrum 1 - Parkzone deutlich erweitern - vertagt
+- TOP 10.14: Parken im Frohnauer Zentrum 2 - Gestaffelte Parkzeiten einführen - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Ergänzung §38a der Geschäftsordnung - überwiesen
+- TOP 11.2: Verlängerung der Tätigkeit des temporären Ausschusses "BVV-Sondermittel" - mit Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Wärmestube für Reinickendorf - überwiesen
+- TOP 12.2: Sitzgelegenheiten vor dem Standesamt - überwiesen
+- TOP 12.3: Rechtzeitige Sanierung der Badestelle Sandhauser Straße - überwiesen
+- TOP 12.4: Ausstellung "Die Welt der Anderen" - überwiesen
+- TOP 12.5: Frohnauer Pendelverkehr gestalten I - überwiesen
+- TOP 12.6: Parken im Frohnauer Zentrum 5 - Innenring des Ludolfingerplatzes in Parkzone einbeziehen - überwiesen
+- TOP 12.7: Besuchsprogramm für Delegationen aus Partnerstädten - überwiesen
+- TOP 12.8: Parkleitsystem für Tegel - überwiesen
+- TOP 12.9: Schulwegpaten/Erwachsenenlotsen - überwiesen
+- TOP 12.10: Frohnauer Pendelverkehr gestalten II - überwiesen
+- TOP 12.11: Wölfe in Reinickendorf - überwiesen
+- TOP 12.12: Konstruktive Bürgerbeteiligung bei der Unterstützung von zukünftigen Unterkünften für Geflüchtete - überwiesen
+- TOP 12.13: Den "Info-Point" Residenzstraße endlich attraktiver gestalten - überwiesen
+- TOP 12.14: Bessere Erschließung der Fläche der ehemaligen Karl-Bonhoeffer-Nervenheilanstalt - überwiesen
+- TOP 12.15: Regenbogenflagge - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Bushaltestelle Maienwerderweg - überwiesen
+- TOP 13.2: Trinkwasserbrunnen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Entlastung vom Pendlerverkehr - überwiesen
+- TOP 13.4: Frohnauer Pendelverkehr gestalten VI - überwiesen
+- TOP 13.5: Parksuchverkehr in Tegel verringern - überwiesen
+- TOP 13.6: Beleuchtungssituation in der Wiltinger Straße - überwiesen
+- TOP 13.7: Humboldtklinikum besser an den ÖPNV anbinden - überwiesen
+- TOP 13.8: Frohnauer Pendelverkehr gestalten III - überwiesen
+- TOP 13.9: Taktung der Fahrzeiten - überwiesen
+- TOP 13.10: Frohnauer Pendelverkehr gestalten V - überwiesen
+- TOP 13.11: Verstärkung der Buslinie 122 - überwiesen
+- TOP 13.12: Frohnauer Pendelverkehr gestalten IV - überwiesen
+- TOP 13.13: Freistellung für Ehrenamtler in der Jugendarbeit - überwiesen
+- TOP 13.14: Kopftuchverbot für Berliner Schülerinnen - überwiesen
+- TOP 13.15: Bürgerbeteiligung bei Planung und Auswahl von Standorten für Flüchtlingsunterkünfte entsprechend § 25 VwVfG - überwiesen
