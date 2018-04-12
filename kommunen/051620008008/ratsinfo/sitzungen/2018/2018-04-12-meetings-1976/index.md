@@ -1,0 +1,51 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-04-12T18:08:00+02:00
+- Ende: 2018-04-12T21:08:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1976
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1976
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.2: SPD
+- TOP 2.3: UWG/ABG
+- TOP 2.4: FDP
+- TOP 2.5: B 90/Grüne
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.6.1: Innenstadtmanagement (Antrag Nr. 71/18) - einstimmig
+- TOP 2.7: Die Linke-Freie Bürger
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG/ABG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/Grüne
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke - Freie Bürger
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Stadtmarketing Grevenbroich - Kenntnisnahme
+- TOP 5.1: Beitritt zum Stadtmarketing Grevenbroich e.V. unter Vorbehalt (Antrag Nr. 72/18) - mehrheitlich bei
+- TOP 6: 100 Jahre Frauenwahlrecht (Antrag Nr. 60/18)
+- TOP 7: Finanzen
+- TOP 7.1: GPA-Maßnahmen - Kenntnisnahme
+- TOP 7.1.1: Eingabe Soziales Bündnis Niederrhein (§ 24 GO NRW) - Kenntnisnahme
+- TOP 7.2: Fördermittel
+- TOP 8: Feuerschutz
+- TOP 9: Flüchtlings- und Integrationsangelegenheiten
+- TOP 10: Sondersitzung Arbeitskreis Sucht, des Runden Tisches und Steuergruppe Sucht etc. (Antrag Nr. 52/18)
+- TOP 11: Beantwortung von Anträgen/Anfragen
+- TOP 11.1: Ansiedlung von Gewerbe forcieren (Antrag Nr. 150/17) - mehrheitlich bei
+- TOP 11.2: Aufbau eines internen und kostenneutralen Weiterbildungsmanagements-Konzepts (Antrag Nr. 157/17) - einstimmig
+- TOP 11.3: AMAZON eröffnet Ladengeschäfte in Deutschland (Antrag Nr. 1/18)
+- TOP 11.4: Vorlagen für den Rat und die Fachausschüsse
+- TOP 11.5: Beantwortung von Anfragen aus dem HFD-A am 22.11.2017
+- TOP 12: Mündliche Anträge/Anfragen
+- TOP 13: Mitteilungen BM
