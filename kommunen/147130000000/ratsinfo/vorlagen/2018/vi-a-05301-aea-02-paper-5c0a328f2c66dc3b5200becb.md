@@ -1,0 +1,11 @@
+# Maßnahmen zum Bienenschutz in der Stadt Leipzig
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-A-05301-ÄA-02
+- Art: Änderungsantrag
+- Datum: 2018-04-12
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1009353
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a328f2c66dc3b5200becb
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c095fcb2c66dc3b52a8a9fb
+- Beratung: Beschlussfassung https://oparl.politik-bei-uns.de/meeting/5c08a4802c66dc3b52674ab8 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
