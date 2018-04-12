@@ -1,1 +1,1 @@
-# Personalverordnung zum Bremischen Wohn- und Betreuungsgesetz vom 9. April 2015
+# Personalverordnung zum Bremischen Wohn- und Betreuungsgesetz (BremWoBeGPersV) vom 8. März 2018
