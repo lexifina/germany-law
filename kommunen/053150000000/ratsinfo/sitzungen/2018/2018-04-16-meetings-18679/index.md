@@ -1,0 +1,64 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-16T17:00:00+02:00
+- Ende: 2018-04-16T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18679
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18679
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Aufstellen von Regalen auf Bürgersteigen, Fußgängerüberwege u.a. (Az.: 02-1600-163/17) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung, Köln-Mülheim (Az.: 02-1600-180/17) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Fahrverbot für Motorräder im Kalkweg an Wochenenden (Az.: 02-1600-172/17) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die KGS Friedlandstraße in Holweide - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Ausbau der Frankfurter Straße zwischen Bahnhof Heidelberger Straße in Köln-Buchheim - Kenntnis genommen
+- TOP 7.1.2: 5-Jahresprogramm der Erschließungs- und Wohnungsbaumaßnahmen, Mülheim - Kenntnis genommen
+- TOP 7.1.3: Umgestaltung des Hauswiesenweges in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Anfrage des EMT Nijat Bakis (DIE LINKE): Soziale Erhaltungssatzung (Milieuschutzsatzung) für Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.4: Anfrage der SPD-Fraktion: Schulweg Teilstandort der Gesamtschule Höhenhaus in Dellbrück zur Willy-Brandt-Gesamtschule Höhenhaus - Kenntnis genommen
+- TOP 7.2.4.1: Schulweg zum Teilstandort der Gesamtschule Höhenhaus - zurückgestellt
+- TOP 7.2.5: Anfrage des EMT Torsten Tücks (FDP): Stammheimer Wäldchen - Kenntnis genommen
+- TOP 7.2.6: Anfrage der CDU-Fraktion: Pflege des Grabes von Wilhelm David auf dem Holweider Friedhof - Kenntnis genommen
+- TOP 7.2.7: Anfrage der CDU-Fraktion: Einweg- und Mehrwegverpackungen für Getränke/Pfandsystem - Kenntnis genommen
+- TOP 7.2.8: Anfrage der CDU-Fraktion: Verkehrliche Einzelmaßnahmen und Verkehrskonzept Holweide - Kenntnis genommen
+- TOP 7.2.9: Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verkehrssicherungspflicht Rad- und Fußweg Odenthaler Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Antrag der SPD-Fraktion: Radweg an der Wichheimer Straße - ungeändert beschlossen
+- TOP 8.1.2: Antrag des EMT Nijat Bakis (DIE LINKE): Sanierung Flittarder Damm - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung eines "Offenen Bücherschranks" - ungeändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode - Kenntnis genommen
+- TOP 10.2.3: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 10.2.4: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.5: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.6: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2017 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.7: Beantwortung Anfrage SPD-Fraktion im Rat der Stadt Köln (Sitzung StEA 06.07.2017) betreffend Aufwertung von Plätzen in den Stadtbezirken: Auszug aus dem Entwurf der Niederschrift der Sitzung des Ausschusses Umwelt und Grün vom 18.01.2018 - Kenntnis genommen
+- TOP 10.2.7.1: Aufwertung von Plätzen in den Stadtbezirken; AN/0922/2017 - Kenntnis genommen
+- TOP 10.2.8: Temporäre Gestaltung der Platzfläche REWE-Platz an der Piccoloministraße in Köln-Holweide - Kenntnis genommen
+- TOP 10.2.9: Auftrag zur vertieften Standortuntersuchung für eine Hubschrauberbetriebsstation - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift - Kenntnis genommen
