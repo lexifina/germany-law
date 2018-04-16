@@ -1,0 +1,23 @@
+# Umsetzung des neuen Verpackungsgesetzes
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: E 18/0119/WP17
+- Art: Kenntnisnahme
+- Datum: 2018-04-16
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=17900
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=17900
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=286793&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung:  http://ratsinfo.aachen.de/public/oparl/meetings?id=3859 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=37
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3902 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3903 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3887 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3904 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3905 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3886 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3901 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3919 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3906 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3922 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3891 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=89
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=3909 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=37
