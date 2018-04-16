@@ -1,0 +1,7 @@
+# TOP 7.: Mehr Partiziopation wagen - Stand der Vorbereitungen der Workshops
+
+- Sitzung: Beirat für Menschen mit Behinderung (16. Sitzung) (2018-04-16)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/41175
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/26982
