@@ -1,0 +1,69 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-04-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731194
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731194
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: BA13: Antrag "ISAR CARD 60" mit der Bitte um Unterstützung
+- TOP 2.2.: BA17: Antrag "Einsatz für eine strengere Ausgestaltung der Härtefallregelung im Ausführungsgesetz zum Glücksspielstaatsvertrag (AGGlüStV)
+- TOP 2.3.: Schließung der Spielgruppe "Die Strolche" im Boomerang
+- TOP 2.4.: Wohnen für Alle - Projekt am Dantebad: Kürzung Mitarbeiterstellen
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4.: Anträge
+- TOP 4.1.1.: Anfrage: Leerstand von Wohnraum in Hartmannshofen
+- TOP 4.1.2.: Anfrage: Fördermittel "Soziale Stadt" in Moosach
+- TOP 4.2.1.: Aufstellen von Betonpflanzkübeln am Moosacher Stachus
+- TOP 4.2.2.: Verbesserung der Verkehrsregelung an der Kreuzung Am Kapuzinerhölzl/ Schragenhofstraße/ Skagerakstraße
+- TOP 4.3.1.: Überprüfung der Sicherheit für Fußgänger und Radfahrer an der nördlichen stadteinwärts gelegenen Verkehrsinsel Dachauer Straße / Hanauer Straße
+- TOP 4.5.1.: Zuschuss aus dem BA-Budget für eigene Veranstaltungen "Wir alle sind Moosach" während der Stadtteilkulturtage 2018 und vom 09. bis 18.11.2018
+- TOP 4.5.2.: Anfrage der Denkmalschutzbeauftragten im BA 10: Maßnahmen an denkmalgeschützten Gebäuden in der Pelkovenstraße
+- TOP 4.5.3.: Interfraktionelle Anfrage: beantragter Jugendspielplatz auf dem Schulgelände der Leipziger Str. 7
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Förderverein der Maria-Ward-Schule Anschaffung von T-Shirts 1.000,00€ Az. 0262.0-10-0151
+- TOP 6.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen und Baumaßnahmen
+- TOP 6.2.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs; Abfrage von Standortvorschlägen
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund: Eröffnung des sanierten Amphionpark am 29.05.2018
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Manzostr. 126 bis 138 bzw. bis zum Wendehammer (Bez10) "Sommerfest Arche München" am 05.07.2018
+- TOP 6.5.: Stadtbezirksbudget für München; Entwurf der Vorlage für den Stadtrat
+- TOP 6.6.: Beschlussentwurf: "Feldmochinger Kurve - Sachstandsbericht und Neubau Bahnquerung Wilhelmine-Reichard-Straße" mit der Bitte um Unterstützung
+- TOP 6.7.: Baumfällungen (Baumschutz): 1. Feldmochinger Str. 53
+- TOP 7.1.: Überplanung "Botanikum" in München-Moosach [BA-Antrag Nr.14-20/B 04477 vom 15.01.18; Grundlagenermittlungen und Zeitplan sind noch nicht abgeschlossen. Zu ggb. Zeit erfolgt Beteiligung BA]
+- TOP 7.2.: Zusatzausstattung für öffentliche Spielplätze, hier: Spielplätze an der Holledauer Straße und Görlitzer Straße [Schreiben BA10 vom16.01.18; Spielangebote für Kleinkinder werden - wo es möglich ist - ergänzt]
+- TOP 7.3.: Novellierung der Naturdenkmalverordnung [Vorschläge des BA 10 vom 16.02.2017; Bäume können zur Neuaufnehme nicht berücksichtigt werden]
+- TOP 7.4.: Lichtzeichenanlage Feldmochinger Straße / Ecke Torgauer Straße und Fußweg zur Triebstraße [zu verkehrsrelevanten Zeiten ist Betriebsart "Anforderung koordiniert"; alle Interessenlagen sind ausgewogen berücksichtigt, deshalb keine Änderung].
+- TOP 7.5.: Radstellplätze für Besucher und Beschäftigte der BAG-Nord einrichten, Ehrenbreitsteiner Str. 28a [Schreiben BA10 vom 26.07.2017; Vermieterin stimmt nicht zu]
+- TOP 7.6.: Jugendspielplatz "Soziale Stadt" auf dem Schulgelände Leipziger Str. 7 [geplante Generalinstandsetzung ändert möglicherweise Verfügbarkeit des Grundstücks. Deshalb werden Planungen derzeit nicht weiterverfolgt.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Erinnerungsverfahren (§ 6.1 AufgrO): Wintrichring 42 von Dachauer Straße bis in den Kirschen: Oberfläche in Asphalt rot herstellen
+- TOP 8.4.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Triebstraße: Ausdehnung der Tempo-30-Zone Nr. 243
+- TOP 8.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Baldurstraße; Ergänzung der Beschilderung auf der Nordseite zwischen Parkplatzeinfahrt Westfriedhof (gegenüber Anwesen Baldurstr. 37) und der Kreuzung Nederlinger-/ Baldurstraße; Optimierung der Radverkehrsführung im Kreuzungsbereich Nederlinger-/ Baldurstraße
+- TOP 8.6.: Betriebskonzept während Schienenschleifarbeiten auf der U1-Nord zwischen Olympia-Einkaufszentrum und Stiglmaierplatz
+- TOP 8.7.: Behindertenbeirat der Landeshauptstadt München: DB Bahnsteighöhenkonzept
+- TOP 8.8.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 8.9.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 8.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11.: Verbot der Zweckentfremdung von Wohnraum: 1. Hanauer Straße 2. Benzstraße 3. Gögglstraße - nicht-öffentlich -
+- TOP 8.12.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
