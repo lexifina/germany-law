@@ -1,0 +1,117 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2018-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4617461
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4617461
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Bericht über die Exkursion nach Berlin-Reinickendorf (Rozsika Farkas, Werner Lederer-Piloty)
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Erweiterung des Grünzugs nördlich der Bayernkaserne, Schaffung eines Rodelhügels im südlichen Grünzug der ehemaligen Bayernkaserne
+- TOP 9.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen, Anhörungsschreiben zu einer möglichen Satzungsänderung
+- TOP 9.2.: Stadtbezirksbudget für München
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Antrag auf Genehmigung einer Freischankfläche, Hohenzollernstraße 11
+- TOP 2.2.: Antrag auf Genehmigung einer Freischankfläche, Occamstraße 2
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Osterwaldstraße 105, Energetische Sanierung und Dacherneuerung eines Einfamilienhauses - VORBESCHEID
+- TOP 3.1.2.: Kieferngartenstraße 31, Neubau 3er Stadthäuser mit Doppelparker und Carport – hier: Haus 1
+- TOP 3.1.3.: Klementinenstraße 9, Neubau eines Einfamilienhauses (2WE) mit Tiefgarage
+- TOP 3.2.1.: Leopoldstraße 49, TEKTUR, Neubau eines Studentenwohnheims (6WE) mit Ladenfläche
+- TOP 4.1.: Investoren-Entmietung in Schwabing
+- TOP 5.: Unterrichtungen
+- TOP 5.2.1.: Wurzgartenweg 11
+- TOP 5.3.1.: Unterkunft in der Lotte-Branz-Straße 12, Antwortschreiben des Referates auf die Anregungen des BA aus dem Dezember 2017
+- TOP 5.3.2.: Floriansmühlstraße 60, Fällungsantrag vom 21.02.2018, Referatsschreiben
+- TOP 5.3.3.: (U) Bebauungsplan mit Grünordnung Nr. 2113 Freisinger Landstraße (östlich), Emmerigweg (südlich), Sondermeierstraße (westlich), Floriansmühlstraße (nördlich) (Flurstücke Nr. 568, 568/2, 568/3, 573, 573/5, 574/1 und 574) (Teilverdrängung des Bebauungsplanes Nr. 1794) A) Bekanntgabe des Wettbewerbsergebnisses B) Weiteres Vorgehen Stadtbezirk 12 – Schwabing-Freimann
+- TOP 5.3.4.: (U) A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/56 Freisinger Landstraße, Floriansmühlstraße und Bebauungsplan mit Grünordnung Nr. 2113 Freisinger Landstraße (östlich), Sondermeierstraße (westlich), zwischen Floriansmühlstraße und Flurstück Nr. 548/8, Gemarkung Freimann - Bekanntgabe der Ergebnisse der Szenarienuntersuchung für das Untersuchungsgebiet, Grundsatzbeschluss, Erweiterung und Ergänzung des Aufstellungs- und Eckdatenbeschlusses vom 20.07.2016 - B) Anträge
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Kreuzungsregelung Leopoldstraße / Ainmillerstraße für von Süden kommende Fahrzeuge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung des unbenannten Weges U-1660
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 3.1.2.: Einrichtung einer Hotel-Busanfahrt in der Schlüterstraße und Verlegung der Bücherbushaltestelle in die Schinkelstraße
+- TOP 3.1.3.: Parken Kieferngartenstraße (in Änderung zu B04360 Lappenweg), Ergebnis des Ortstermins
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Einsatz von Dialogdisplays, Referatsschreiben auf BA-Rückmeldung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Zone 30 in der Wilhelm-Wagenfeld-Straße und Marcel-Breuer-Straße
+- TOP 4.2.: Verkehrssituation rund um die Parkstadt Schwabing
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Berücksichtigung von Wertstoffinseln beim Planungsverfahren, interfraktioneller Antrag
+- TOP 5.1.2.: Verlegung des Radwegs an der Münchner Freiheit
+- TOP 5.1.3.: Verkehrssicherheit Busbahnhof Münchner Freiheit
+- TOP 5.1.4.: Parken Lappenweg und Kieferngartenstraße
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 5.2.2.: Arbeiten im Straßenraum, Freisinger Landstraße zwischen Lottlisa-Behling-Weg und Stadtgrenze (Abriss und Neubau Brückenbauwerke A 99), Terminverschiebung
+- TOP 5.2.3.: Arbeiten im Straßenraum, Franz-Joseph-Straße 47 – Ecke Kurfürstenstraße, Leopoldstraße 19; Erstellung eines Messkontaktes für die Hauptwasserleitung
+- TOP 5.2.4.: Verkehrsregelung Domagkpark Süd
+- TOP 5.2.5.: Arbeiten im Straßenraum, Siegfriedstraße 22 und Seite Sturystraße, Reparatur Fernwärme im Auftrag der SWM
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Domagkpark 2. Bauabschnitt: Max-Bill-Straße und Wohnplätze, Anliegerinformation
+- TOP 5.3.2.: Information über Betriebskonzept während Schienenschleifarbeiten auf der U6-Nord zwischen Garching-Forschungszentrum und Fröttmaning
+- TOP 5.3.3.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Unterstützung für das Projekt „Toiletten für Alle“
+- TOP 1.2.: Zukunftsforum Münchner Freiheit, vertagt aus der Sitzung vom 27.02.2018 und 20.03.2018
+- TOP 1.3.: Kein öffentlicher Raum für Scientology Vorfeldorganisationen, insbesondere der Kommission für Verstöße in Psychiatrie gegen Menschenrechte e. V.
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Wiese an der Biedersteiner Straße wieder als Spielwiese herstellen, BV-Empfehlung Nr. 14-20 / E 01075, Rückfrage des Referates auf ein BA-Schreiben
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Theatergruppe Heidekraut e.V. Theaterstück "Ein ungleiches Paar" am März/April 2019 2.200,00€ Az. 0262.0-12-0246
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Theatergruppe Heidekraut e.V. Theaterstück "Das Bildnis des Dorian Gray" im Oktober/November 2018 2.800,00€ Az. 0262.0-12-0247
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Theater Heppel & Ettlich Ausstellung "50 Jahre die 68er Heppel & Ettlich - von Neukölln nach Schwabing" im Juni/Juli 2018 5.355,00€ Az. 0262.0-12-0250
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Moreth Company 2 Aufführungen im Lustspielhaus am 24. und 25.05.2018 4.170,00€ Az. 0262.0-12-0248
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Corso Leopold e.V. Veranstaltung Corso Leopold 2018 am 05./06.05. und 08./09.09.2018 20.300,00 Euro Az.: 0262.0-12-0251
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Evang.-Luth. Erlöserkirche München Schwabing "Kreis der Religionen" auf dem Corso Leopold am 05./06.05.2018 1.770,00 Euro Az.: 0262.0-12-0252
+- TOP 2.8.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Freizeittreff Freimann Spielefest am 01.08.2018 1.350,00 Euro Az.: 0262.0-12-0254
+- TOP 3.: Anhörungen
+- TOP 3.1.: Anhörung für Marktfestsetzung, Ungarischer Markt vom 11. - 13.05.2018
+- TOP 3.2.: Veranstaltung „Mundialito latino“ auf dem öffentlichen Sportplatz an der Guerickestraße am 02.06.2018
+- TOP 3.3.: Streetlife Festival / Corso Leopold am 05.05. und 06.05.2018 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Einrichtung eines Baumgräberfeldes am Nordfriedhof
+- TOP 5.2.1.: Leopoldstraße 124
+- TOP 5.2.2.: Beichstraße 9
+- TOP 5.2.3.: Leopoldstraße 19
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Veranstaltung, Gedenkfeier für Sarah Sonja Lerch, Eilentscheidung, Zustimmung durch Fristablauf
+- TOP 5.3.2.: (U) Bereitstellung von Räumen für das Familien- und Beratungszentrum und die Ersatzbetreuung in der Kindertagespflege Bayernkaserne Soziale Infrastruktur für das Neubaugebiet Stadtbezirk 12 Schwabing - Freimann Bebauungsplan 1989 1. Zustimmung zur Planung 2. Genehmigung des vorläufigen Nutzerbedarfsprogramms 3. Ermächtigung zum Betrieb der Einrichtung 4. Fortschreibung bzw. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogramms 2018 - 2022
+- TOP 5.3.3.: (U) Neubau einer offenen Einrichtung für Kinder und Jugendliche auf dem Gelände der ehemaligen Bayernkaserne Bebauungsplan mit Grünordnung Nr. 1989 12. Stadtbezirk Schwabing-Freimann 1. Genehmigung des Bedarfs 2. Zustimmung zur Planung 3. Ermächtigung zum Betrieb der Einrichtung 4. Standortsicherung
+- TOP 5.3.4.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
