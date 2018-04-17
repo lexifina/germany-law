@@ -1,0 +1,58 @@
+# 28. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-17T15:40:00+02:00
+- Ende: 2018-04-17T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18645
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18645
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00655739.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00655739.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00655739.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnern
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Bericht zum Thema - "Freunde des Historischen Archiv der Stadt Köln" - Kenntnis genommen
+- TOP 2.2: Darstellung der Sparten, hier: Popkultur - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Leitprojekt - "Stärkung der freien Szene als Akteur der Stadtgesellschaft"; hier: Sparte Musik - zusätzliche Förderung" - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Neubau des Kölnischen Stadtmuseums und des Studiengebäudes für das Römisch-Germanische Museum im Rahmen des Neubaus Historische Mitte - zurückgestellt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Politische Zusetzungen für den Fachbereich Umwelt und Grün (erster Teil 2018) - ungeändert beschlossen
+- TOP 4.3: Ankauf eines Kunstwerkes von Hans Haacke für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.4: Bedarfsprüfung und Einleitung eines Vergabeverfahrens über RFID-Selbstverbuchungsgeräte für die Stadtteilbibliotheken - ungeändert beschlossen
+- TOP 4.5: Bedarfsprüfung und Einleitung eines Vergabeverfahrens über RFID-Mifare-Ausweise für die Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung von 151 Jain-Miniaturen aus der Sammlung von Dr. Konrad Seitz - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantragung von Mitteln für Museumsprojekte bei der regionalen Kulturförderung des Landschaftsverbandes Rheinland für 2019 - Kenntnis genommen
+- TOP 8.2: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftsverbandes Rheinland für 2019 - Kenntnis genommen
+- TOP 8.3: Symposium „Einmal Kunst, bitte! Kulturelle Bildung mit Artotheken“ am 6. Juli 2018 in der artothek der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Abrechnung Sonderausstellung 2016 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR- Jüdisches Museum im Archäologischen Quartier Köln
+- TOP 9.2: Sachstandsbericht 43 - Neubau des Historischen Archivs mit Rheinischem Bildarchiv
+- TOP 9.3: Generalsanierung Zentralbibliothek Josef-Haubrich-Hof 1, Projektstatusbericht
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Sommer Köln" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 23.01.2018 betr.: "Sommer Köln 2018" - Kenntnis genommen
+- TOP 11.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Leitprojekte Dezernat VII" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 02.03.2018 betr.: "Leitprojekte Dezernat VII" - Kenntnis genommen
+- TOP 11.3: Anfrage der Ratsgruppe Bunt betr.: „Keine Räume für Nazis“ – Wie wird das in den Kölner Kultureinrichtungen umgesetzt? - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Ratsgruppe Bunt vom 20.06.2017 betr.: "Keine Räume für Nazis" - Wie wird das in den Kölner Kultureinrichtungen umgesetzt? - Kenntnis genommen
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.5: Anfrage der FDP-Fraktion betr.: "Konzept zur Neuaufstellung der Kölner Museen" - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion - AN/0516/2018 - vom 10.04.2018 betr.: "Konzept zur Neuaufstellung der Kölner Museen" - zurückgestellt
+- TOP 11.6: Anfrage der SPD-Fraktion betr. "Generalsanierung Zentralbibliothek" - zurückgestellt
+- TOP 11.7: Anfrage der SPD-Fraktion betr.: "Berücksichtigung von Kulturräumen bei den Planungen des Deutzer Hafens und von Mülheim-Süd" - zurückgestellt
+- TOP 12: Mündliche Anfragen
