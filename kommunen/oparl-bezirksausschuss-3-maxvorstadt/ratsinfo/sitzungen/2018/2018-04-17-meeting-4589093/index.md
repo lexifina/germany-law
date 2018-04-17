@@ -1,0 +1,134 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2018-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4589093
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4589093
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.2: Bericht der Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung vom 13.03.2018
+- TOP 5.2.1.: Bürgeranliegen vom 01.03.2018: in der Maxvorstadt abgestellte Leih-Fahrräder
+- TOP 5.2.2.: Bürgeranliegen vom 02.032018: Bücherschrank in der Maxvorstadt
+- TOP 5.2.3.: Anfrage einer Baugenossenschaft vom 12.03.2018, Suche nach Baugrund
+- TOP 5.2.4.: Anliegen der Evangelischen Hochschulgemeinde vom 26.03.2018 Entfernung der neu aufgestellten Sitzbank an der Lori-/Ecke Nymphenburger Straße
+- TOP 5.2.5.: Bürgeranliegen vom 28.03.2018: Mobile Heizanlage Türkenstraße 47
+- TOP 6.1.: Mobile Geschwindigkeitsmessgeräte: In der Probephase Messgeräte auch in der Maxvorstadt aufstellen
+- TOP 6.2.: Veränderung der Grundwasserverhältnisse in der Maxvorstadt. Wie wirkt sich die zunehmende Bebauung des Untergrundes durch Keller, Tiefgaragen und öffentliche Infrastruktureinrichtungen auf die Grundwasserstände in der Maxvorstadt aus?
+- TOP 6.3.: Sicherheit in der Nymphenburger Straße
+- TOP 6.4.: Baureferat, Antwortschreiben Fassade Lenbachhaus-Neubau, Verfärbung
+- TOP 6.5.: Carsharing-Gesetz vom 01.09.2017 nutzen und neue Carsharing-Parkplätze in der Maxvorstadt ausweisen
+- TOP 6.6.: Die Landeshauptstadt München bringt an den Straßenschildern am Karl-Stützel-Platz erklärende Zusatzbeschilderungen (einseitig) an, mit dem Text: "Bayerischer Innenminister von 1924 bis zu seiner Verhaftung durch die Nationalsozialisten im Jahr 1933.
+- TOP 6.7.: Kreisverwaltungsreferat, Nachtrag Gegen den Dauerstau – Optimierung des Verkehrsflusses in der Gabelsbergerstraße BA-Antrag Nr. 14-20 / B 03378 vom 14.03.2017
+- TOP 6.8.: Fahrradständer vor der "Hopfenpost"
+- TOP 6.9.: Kreisverwaltungsreferat, Zwischennachricht BA-Antrag Nr. 14-20 / B 4131 Verkehrssicherheit in der Türkenstraße
+- TOP 6.10.: Antrag für Ersatzbaumpflanzungen in der Maxvorstadt
+- TOP 6.11.: Referat für Stadtplanung und Bauordnung, Antwortschreiben Fahrradabstellanlagen in der Amalienstraße
+- TOP 6.12.: Referat für Stadtplanung und Bauordnung, Zwischennachricht Holzfassade von Ladenlokal in der Schellingstraße 25 unter Denkmalschutz stellen BA-Antrag Nr. 14-20 / B 04647 vom 13.03.2018
+- TOP 6.13.: Die Landeshauptstadt München regt bei der MVG die Umbenennung der Bushalestelle "Elisenstraße" (Lini 100) in Karl-Stützel-Platz an. Die Umbenennung soll, wenn möglich, noch zum Start der ringbuslinie, jedoch spätestens zum nächsten Fahrplanwechsel erfolgen.
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag der CSU vom 07.02.2018 „Verzicht auf 2. Bauabschnitt der Pinakothek der Moderne“
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 27.03.2018 Zeitnahe Umsetzung des Masterplans Freiflächengestaltung im Kunstareal
+- TOP 1.3.: Antrag der SPD vom 03.04.2018 Freies WLAN im Kunstareal
+- TOP 2.1.1.: Listen der Bauvorhaben der LBK: 8., 9., 10.,11., 12., 13. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen der LBK: 7., 8., 9., 11., 12. und 13. KW
+- TOP 2.1.3.: Schleißheimer Straße 42, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.2.1.: Ludwigstraße 25, eine Blutpflaume und ein Zierapfel
+- TOP 3.2.2.: Lämmerstraße 5/Hirtenstraße 2-4, Dachauer Straße 3-5, 3 Robinien laut Plan
+- TOP 3.2.3.: Barer Straße 11 b, ein vierstämmiger Silberahorn
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung Protokoll der 269. Sitzung der Kommission für Statgestaltung vom 19.12.2017 Heßstraße 10
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung Nymphenburger Straße 55, angeforderter Abdruck der Baugenehmigung
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der FDP vom 27.03.2018 Modellversuch Alternative 5
+- TOP 1.2.: Antrag der FDP vom 27.03.2018 Fußgängerzone Barer Straße
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 01.04.2018 Radfahrstreifen in der Gabelsbergerstraße zu Ende bringen und bis zum Oskar-von-Miller-Ring fortführen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kreisverwaltungsreferat Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs, Abfrage von Standortvorschlägen
+- TOP 2.1.2.: Bauliche Umgestaltung der Tengstraße zwischen Ziebland- und Hohenzollernstraße
+- TOP 2.1.3.: (E) Verlängerung der Grünphase für Fußgänger am Altstadtring (Platz der Opfer des Nationalsozialismus und Lenbachplatz)
+- TOP 2.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes, Augustenstraße 70
+- TOP 2.2.2.: „Freizeit – Spielnachmittage“ im Alten Botanischen Garten, Sophienstraße 7 von Mai bis Oktober 2018
+- TOP 2.2.3.: Theresienstraße 100, Aufstellung eines mobilen Fahrradständers – Bitte um Prüfung des BA-Beschlusses vom 19.03.2018 zur Vermeidung einer OB-Entscheidung
+- TOP 2.3.1.: Schellingstraße 15, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Schellingstraße 3, Genehmigung einer Freischankfläche
+- TOP 2.4.1.: Konzert mit „Sunrise Avenue“ auf dem Königsplatz am 25.05.2018
+- TOP 2.4.2.: Spielplatz und Grünfläche Deidesheimer Straße: Familienfest zum International Family Equality Day am 06.05.2018
+- TOP 2.4.3.: Streetlife Festival / Corso Leopold, 1. Nachtrag
+- TOP 2.4.4.: Gedenkveranstaltung „München liest aus verbrannten Büchern“ am 10.05.2018 auf dem Königsplatz
+- TOP 2.4.5.: 2.4.6 Streetlife Festival/Corso Leopold, 2. Nachtrag
+- TOP 2.4.6.: Streetlife Festival/Corso Leopold, 3. Nachtrag
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baureferat, Neubau Toilettenanlage Maßmannpark, Rodung, Baubeginn
+- TOP 3.2.: Kreisverwaltungsreferat, Termine Streetlife Festival/Corso Leopold 2019
+- TOP 3.3.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a) Seidl-, Dachauer-, Brienner Straße, Fernwärme b) Maximiliansplatz, Max-Joseph-, Otto-, Prannerstraße c) Arnulfstraße 2, Pfefferstraße, Hirtenstraße d) Deroystraße 15-17 u. Seite Tillystraße, Fernwärme
+- TOP 3.4.: Kreisverwaltungsreferat, Erlaubnisbescheid St.-Patricks-Parade am 11.03.2018
+- TOP 3.5.: Baumaßnahmen der Stadtwerke a) Karolinenplatz 3, Fernwärmeinstandsetzung b) Erzgießereistraße 14, Strom c) ReHa Seidlstraße, Fernwärme
+- TOP 3.6.: Kunst im öffentlichen Raum Kunstaktion „Straßen Namen Zeichen“ vom 26.04. bis 07.06.2018
+- TOP 3.7.: Neue Regeln für den Betrieb von Spielhallen in Giesing umsetzen, Antrag des BA 17 Ober- giesing-Fasangarten vom 14.03.2018; der BA 17 bittet um Unterstützung seines Antrages
+- TOP 3.8.: Kunst im öffentlichen Raum Verlängerung der Kunstaktion „Love & Hate“ am Siegestor bis 29.07.2018
+- TOP 3.9.: Kreisverwaltungsreferat, Marktfestsetzung Vina Croatia vom 18. bis 20.05.2018 auf dem Wittelsbacherplatz
+- TOP 3.10.: Kreisverwaltungsreferat, Verkehrsrechtliche Anordnungen zur Verbesserung der Verkehrssicherheit an der Kreuzung Georgen-/Friedrich-/Türkenstraße und Georgen-/ Kurfürstenstraße als Ergebnis der Verkehrsschau vom 20.02.2018
+- TOP 3.11.: Betriebskonzept während Schienenschleifarbeiten auf der U1-Nord zwischen Olympia- Einkaufszentrum und Stiglmaierplatz
+- TOP 3.12.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der CSU vom 16.03.2018 Hortplätze für Sprengelschule Dachauer Straße 98
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. MobilSpiel-Fest am 29.04.2018 3.730,00€ Az. 0262.0-3-0190
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Fachbasis soziale Arbeit Maxvorstadt Infotag am 23.04.2018 120,00€ Az. 0262.0-3-0197
+- TOP 2.3.: (E) Budget der Bezirksausschüsse TSC Maxvorstadt e.V. Anschaffung von Sportgeräteschränken und Balltransport- und Aufbewahrungswagen 1.866,00€ Az. 0262.0-3-0191
+- TOP 2.4.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Baumobil vom 22.06. - 24.06.2018 und Wasserspielmobil vom 13.07. - 15.07.2018 4.153,00€ Az. 0262.0-3-0198
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Spiellandschaft Stadt, Aktionen auf öffentl. Grünflächen vom 16.04. bis Mitte Oktober 2018
+- TOP 4.2.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse super+ e.V. Produktion eines Künstlerbuches von Mark Fridvalszki 2.400,00€ Az. 0262.0-3-0193
+- TOP 2.2.: (E) Budget der Bezirksausschüsse super+ e.V. Ausstellung „in anlehnung an“ von Mitte Mai bis Ende Juni 2018 3.478,41€ Az. 0262.0-3-0194
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Marionettentheater Kleines Spiel Anschaffung von technischen Anlagen und Modernisierung der Räumlichkeiten 2.000,00€ Az. 0262.0-3-0196
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Initiative zur Renovierung der U-Bahn-Galerie des BA 3 Renovierung der U-Bahn-Galerie des BA 3 4.248,30€ Az. 0262.0-3-0195
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Initiative "Open-Air Kunstwerk" Open-Air Kunstwerk vom 11.11. - 02.12.2018 10.000,00 Euro Az.: 0262.0-3-0199
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Filmvorführung des BA 3, Budgetmittel
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Entsendung eines BA-Mitgliedes zu den Sitzungen der Gleichstellungsstelle
+- TOP F.2.: Direktorium, Anhörung Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen, Antrag des BA 16 auf Änderung der BA-Satzung
+- TOP F.3.: Direktorium, Anhörung Stadtbezirksbudget für München
+- TOP G: Nicht öffentliche Sitzung
