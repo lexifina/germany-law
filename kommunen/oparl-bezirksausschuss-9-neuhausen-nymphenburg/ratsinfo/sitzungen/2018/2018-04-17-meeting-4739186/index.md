@@ -1,0 +1,140 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739186
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739186
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 4.6.1.: Arbeitskreis zu den Themen Gartenstädte, Erhaltungssatzungen, Ensembleschutz
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.2.: "Jugend im 9. Stadtbezirk" - Möglichkeiten wie Jungbürgerversammlung, etc.
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 2.4: Entscheidungsfälle
+- TOP 2.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Entscheidung über Sondernutzungserlaubnis: Zeitungsständer Nibelungenstr. 32
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Umgestaltung der Kreuzung Winthirstraße / Nibelungenstraße
+- TOP 3.2.2.: Umgestaltung des Parkbereichs beim Aufgang der Unterführung an der Schlörstraße
+- TOP 3.2.3.: Landshuter Allee: Prüfung der Installation eines Blitzers
+- TOP 3.2.4.: Anpassungen im Parklizenzsystem
+- TOP 3.2.5.: Planung für den Landshuter-Allee-Tunnel beschleunigen
+- TOP 3.2.6.: Inklusionsbehinderung - Zuparken einer abgesenkten Bordsteinkante
+- TOP 3.2.7.: Einführung einer Tempo-30-Zone in der Waisenhausstraße
+- TOP 3.2.8.: Parkplatzsituation am Steubenplatz und in der Trojanostraße
+- TOP 3.2.9.: Beanstandung Straßenbild vor der Filiale VollCorner Biomarkt und Anfrage eines fest montierten Fahrradständers
+- TOP 3.2.10.: Lärmbelästigung der Straßenbahnen- Vorschlag: Begradigung der Schienen am Romanplatz
+- TOP 3.2.11.: Lärmbelästigung der Tramlinie 12 an der Ecke Nymphenburger Straße / Leonrodstraße
+- TOP 3.2.12.: FC Teutonia München - kein schlüssiges Verkehrskonzept
+- TOP 3.2.13.: Tempo-30-Zone in der Dantestraße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Erinnerungsverfahren / Spartenanfragen: a) Funkerstraße - Fahrbahnsanierung b) Landshuter Allee - Wendeschleife Fahrbahn c) Landshuter Allee - Sanierung Brücke d) Lazarettstraße - Fahrbahn
+- TOP 3.3.2.: Verkehrsrechtliche Anordnung - Baldurstraße Nordseite zw. Dante- und Sadelerstraße: Beschilderungsergänzung "Radverkehr frei"
+- TOP 3.3.3.: Durchführung einer Wanderbaumallee im Zeitraum Anfang Mai bis Juni 2018
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Führung des Radverkehrs
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Arbeiten im Straßenraum - verkehrsrechtliche Anordnungen: a) Birketweg 41 b) Birketweg 40 c) Fasoltstr. 14
+- TOP 3.5.2.: Straßenbahnspur in der Menzinger Straße während der Bauzeit freigeben Sitzungsvorlage Nr. 14-20/ V 11240
+- TOP 3.5.3.: Sanierung und Teilneubau der Jugendherberge München-City
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Vorplanungen zu Heizwerkstandorten
+- TOP 4.3.2.: LBK - Bauvorhaben: a) Schlagintweitstr. 7 - Neubau eines Einfamilienhauses mit TG b) Romanstr. 24 - Abbruch und Neubau eines Wohngebäudes mit TG
+- TOP 4.3.3.: LBK: Anhörung über den Vollzug der BaumschutzV: Romanstr. 24 - Abbruch und Neubau eines Wohngebäudes mit TG
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten über Bauvorhaben / Nutzungsänderungen (26.02.18 - 25.03.18)
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Green City e.V. - Wanderbaumallee - Aktionstag in der Klarastraße am 02.05.2018 – 2872 €
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: a) Landshuter Allee 53 b) Laimer Str. 38
+- TOP 5.3.2.: LBK: Anhörung über den Vollzug der BaumschutzV: Romanstr. 24 - Abbruch und Neubau eines Wohngebäudes mit TG
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Pflege und Instandsetzung des Arnulfparks
+- TOP 5.5.2.: Parkinstandsetzung an der Leonrodstraße nach den Bauarbeiten
+- TOP 5.5.3.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.5.4.: Fällungsgenehmigung Klugstraße 113
+- TOP 5.5.5.: Baumentfernungen und Gehölzpflegemaßnahmen im öffentl. Raum
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Freizeitstätte Hirschgarten/Evangelische Jugend München Werbeaktion/Postwurfsendung im Neubaugebiet am Hirschgarten 250,00€ Az. 0262.0-9-0264
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München Stadt, Jugendtreff Neuhausen Tag der offenen Tür am 16.06.2018 1.042,50€ Az. 0262.0-9-0267
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Baumobil vom 07.05. - 09.05.2018 und Zirkus Pumpernudl vom 15.06. - 17.06.2018 4.077,00€ Az. 0262.0-9-0270
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Mehr für die Ärmsten der Armen tun - Bettelmafia in Neuhausen bekämpfen!
+- TOP 6.2.2.: Unerlaubte Sondernutzung um den Rotkreuzplatz durch Bettelbande(n)
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Aktions-, Spiel- und Sportflächen im Stadtgebiet Neuhausen-Nymphenburg
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Information über das Konzept KUNiRi - offene Nähwerkstatt für geflüchtete Menschen
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Arbeitskreis zu den Themen Gartenstädte, Erhaltungssatzungen, Ensembleschutz - hier: Erhaltungssatzung für den Bereich Donnersberger-, Schlör-, Schluder- und Sedlmayrstraße
+- TOP 6.6.3.: Stadtteilinformation/Willkommensschreiben bei Anmeldung eines neuen Wohnsitzes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "For you my love" Tanztheater "For you my love" am 17./18.04.2018 3.450,00€ Az. 0262.0-9-0266
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Geschichtswerkstatt Neuhausen e.V. Herausgabe eines Kalenders "Neuhausen-Nymphenburg in historischen Ansichten" 1.000,00€ Az. 0262.0-9-0262
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Kontrapunkt gGmbH Projekt „Vergangenheit/Gegenwart/Zukunft“ vom 18. - 25.04.2018 8.838,00€ Az. 0262.0-9-0268
+- TOP 7.1.4.: (E) Budget der Bezirksausschüsse Initiative "MMI-Festival" Das MMI-Festival 2018 3.279,00€ Az. 0262.0-9-0265
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Lamentofläche - Einrichten von temporären Zu-/Abwasser- und Stromanschlüssen
+- TOP 7.2.2.: Anfrage zur Durchführung einer Gedenkveranstaltung im 9. Stadtbezirk der Israelitischen Kultusgemeinde München
+- TOP 7.2.3.: Proberäume im Stadtteil Neuhausen-Nymphenburg
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: (U) Dachauer Str. 110-114, Schwere-Reiter-Str. 2 (Kreativlabor) Eigentums- und Betriebskonzept Zwischennutzung der freigemachten „Lamentofläche“ 9. Stadtbezirk Neuhausen-Nymphenburg
+- TOP 7.5.2.: Aktualisierung des KulturGeschichtsPfades Neuhausen-Nymphenburg
+- TOP 7.5.3.: Geplante Vermietung von städt. Flächen im Kreativquartier
+- TOP 7.5.4.: Zeichen gegen Rechts setzen, Hilblestraße umbenennen! Empfehlung Nr. 14-20/ E 01877 der BV des 9. SB Neuhausen-Nymphenburg am 05.12.2017
+- TOP 7.5.5.: Widerstandsdenkmal am Platz der Freiheit
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse FT München Gern "Neuhausner Mini-WM 2018" vom 24.06. - 14.07.2018 1.677,00 Az. 0262.0-9-0263
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Anschaffen eines Defibrillators an der Pforte des Kolpinghaus
+- TOP 8.2.2.: FC Teutonia München - kein schlüssiges Verkehrskonzept
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Litfaßsäule vor dem Münchner Waisenhaus: Sensibilisieren der Werbung veranlassen
+- TOP 8.4.2.: Aktions-, Spiel- und Sportflächen im Stadtgebiet Neuhausen-Nymphenburg
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: "Jugend im 9. Stadtbezirk" - Möglichkeiten wie Jungbürgerversammlung, etc.
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Planung eines neuen Bürgerbüros an der Landshuter Allee
+- TOP 9.2.2.: Erweiterung des Honigverkaufstandes am Rotkreuzplatz mit einem Fischangebot
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen sowie Baumaßnahmen
+- TOP 9.3.2.: Stadtbezirksbudget für München
+- TOP 9.3.3.: Skatepark-Mobil vonMai bis September 2018
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Unveränderte Fortführung von Gaststättenbetrieben: - Menzinger Str. 54d - "Zum Hölzl-Wirt" - Leonrodstr. 29 - "Jukebox" - Winthirplatz 1 - "Alexis Sorbas"
+- TOP 9.5.2.: Einbindung der Bezirksausschüsse in die Verfahren des Baureferates bei Investitionen und Unterhalt
+- TOP 9.5.3.: Information über Schienenschleifarbeiten der U1-Nord
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
