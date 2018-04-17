@@ -1,0 +1,149 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4787990
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4787990
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Vorplatz Klinikum Harlaching; Bürgerschreiben vom 18.03.18
+- TOP 2.1.2.2.: Verschiedene Anliegen (Parken, Radwegwiederherstellung, Raucherbereiche, Grünflächen); Bürgerschreiben (E-Mail) vom 27.03.18
+- TOP 2.2.1.: Herr Landrat Göbel zu den Planungen für eine Standorterweiterung, ggf. auf dem Candidplatz
+- TOP 2.2.1.1.: Vorstellung der Maßnahmenplanung in den künftigen Lizenzgebieten "Schönstraße Nord+Süd" und "Wettersteinplatz" durch Planungs- und Kreisverwaltungsreferat
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Umwelt & Gesundheit – APPELL e.V. „Gesundheitsberatung im Wohnbereich in Untergiesig-Harlaching“ ab dem 15.03.2018 4.830,00€ Az. 0262.0-18-0133
+- TOP 3.1.2.2.: (E) Budget der Bezirksausschüsse Maibaum Menterschwaige e.V. Harlachinger Maifest 4.800,00 € Az: 0262.0-18-0138
+- TOP 3.1.2.3.: (E) Budget der Bezirksausschüsse TSV Turnerbund München e.V. 50. Jahrfeier der Trampolinabteilung am 16.06.2018 788,88€ Az. 0262.0-18-0136
+- TOP 3.1.4.1.: Stadtbezirksbudget für München; Anhörung durch das Direktorium vom 28.03.18 zum Beschlussentwurf für den Stadtrat und zur Neufassung der Budgetrichtlinien
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: (E) Parken nur für PKW in der Grünwalder Straße beidseitig zwischen Kurzstraße und Tiroler Platz
+- TOP 3.2.2.2.: (E) Parken nur für PKW in der Grünwalder Straße entlang des Trainingsgeländes des TSV 1860
+- TOP 3.2.2.3.: (E) Parkuhren in der Wettersteinstraße
+- TOP 3.2.2.4.: (E) Verbesserung der Parkplatzsituation in der Alemannenstraße
+- TOP 3.2.2.5.: (E) Verkehrsbelastung in der Schönstraße verringern
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen; Anhörung durch das Direktorium zum Antrag Nr. 14-20 / B 04002 des BA 16 vom 15.09.2016
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Schaffung von mindestens 15 Fahrradstellplätzen an der Bushaltestelle Autharistraße (Bus 139), Fahrtrichtung stadteinwärts
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: (U) Baumschutz im Viertel Menterschwaige Empfehlung Nr. 14-20 / E 00727 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 12.11.2015
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Aktueller Zustand zum Perlacher Forst
+- TOP 3.3.5.2.: Novellierung der Naturdenkmalverordnung: Naturdenkmalvorschlag des BA 18 vom 19.08.2009, Prößlstraße 8; Antwortschreiben des Planungsreferats, Untere Naturschutzbehörde vom 12.03.2018
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Bezahlbares Wohnen für Auszubildende Jugendliche im 18. Stadtbezirk; Antrag der SPD-Fraktion
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Neues Qualitätsmerkmal beim Mietspiegel; Bürgerversamlungs-Empfehlung Nr. 14-20 / 01852 vom 16.11.17; Anhörung durch das Sozialreferat zum Beschlussentwurf für den Sozialausschuss des Stadtrats
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Aufstellen von zwei Sitzbänken am Authariplatz
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Errichtung eines 3-gruppigen Kindergartens in Pavillonbauweise an der Schönstraße 9; Baubeginnsanzeige des Referats für Bildung und Sport vom 06.03.18
+- TOP 3.4.6.2.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.1.: Hellabrunner Straße 1, WA 1 - Living Isar - Neubau einer Wohnanlage (224 WE, davon 32 geförderter Eigenwohnraum)
+- TOP 3.5.4.1.2.: Hellabrunner Straße 1, WA 2 - Living Isar - Neubau einer Wohnanlage mit 66 EOF-Wohnungen, Kindertagesstätte (3 Krippen- + 3 Kindergartengrupen), Tagescafé, Gewerbeeinheit und Tiefgarage (276 Stpl.)
+- TOP 3.5.4.1.3.: Hellabrunner Straße 1, WA 3 - Living Isar - Neubau einer Wohnanlage (133 WE) mit Kindertagesstätte (2 Krippen- + Kindergartengruppen) und Tiefgarage (131 Stpl.)
+- TOP 3.5.4.1.4.: Bonteweg 6, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.5.4.1.5.: Sommerstraße 54, Umbau und Sanierung des denkmalgeschützten Vordergebäudes und Neubebauung des rückwärtigen Grundstücks
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Grünflächen und Stadtbild erhalten / Regelungen im Bebauungsplan nicht lockern
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.2.1 Anwesen Stresemannstraße 3.5.6.2.1 Anwesen Brennerpaßstraße
+- TOP 3.5.6.3.: Unterführung Otkerstraße - Instandsetzung Abdichtung; Unterrichtung durch das Baureferat vom 19.03.18
+- TOP 3.5.6.4.: Bebauungsplan mit Grünordnung Nr. 1807 A) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes für den Teilbereich des Aufstellungsbeschlusses für den Bebauungsplan mit Grünordnung Nr. 1807 vom 19.03.1997 Tegernseer Landstraße (östlich), Warthofstraße (westlich), Stadelheimer Straße (nördlich) - Grundsatz- und Eckdatenbeschluss - B) Überdeckelung des McGraw-Grabens Unterrichtung durch das Referat für Stadtplanung und Bauordnung über den Beschlussentwurf für den Stadtrat
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.1.1.: Gedenkveranstaltung zum 80. Jahrestag des 9. November 1938: „Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn“; Schreiben der Arbeitsgruppe „Gedenken an den 9. November 1938“ vom 15.03.18
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: "Fromund-Straßenfest" am 20.07.18 in der Fromundstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 02.05.18
+- TOP 3.6.4.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: "MunichFoodLover - Straßenfest für und mit Giesing" am 12.05.18 in der Freibadstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 18.04.18
+- TOP 3.6.4.3.: Megamarsch München 2018 am 12./13.05.18 von München über den Jakobsweg nach Mittenwald; Start Gutshof Menterschwaige; Zuleitung des KVR mit der Bitte um Stellungnahme bis 18.04.18
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
